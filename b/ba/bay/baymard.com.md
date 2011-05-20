@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the baymard.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206010108id_/http%3A//baymard.com/blog/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baymard.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520073605id_/http%3A//baymard.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Baymard Institute
 
 This Privacy Policy explains how we handle your personal data and it applies to the products and services of Baymard Institute, such as [www.baymard.com](http://www.baymard.com/) and any pages or subdomains hereof.
 
-_Last updated: 27 March 2010_
+_Last updated: 1 March, 2011_
 
 ## Unsubscribing
 
@@ -47,4 +47,4 @@ This Privacy Policy might change from time to time. Such changes will appear on 
 
 ## Questions
 
-If you have any questions regarding this Privacy Policy they can be addressed to [privacy@baymard.com](mailto:privacy@baymard.com) or to this address: Baymard Institute, Noerrebrogade 9E, 2. floor, apartment 206, 2200 Copenhagen, Denmark.
+If you have any questions regarding this Privacy Policy they can be addressed to [privacy@baymard.com](mailto:privacy@baymard.com) or to this address: Baymard Institute, Aksel Moellers Have 18 5tv, 2000 Copenhagen, Denmark.
