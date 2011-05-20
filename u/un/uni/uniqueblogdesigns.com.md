@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uniqueblogdesigns.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120014909id_/http%3A//www.uniqueblogdesigns.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uniqueblogdesigns.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520221124id_/http%3A//www.uniqueblogdesigns.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Unique Blog Designs
 
@@ -15,13 +15,13 @@ Like most websites, we use cookies and/or web beacons to enhance your experience
 Any of the information we collect from you may be used in one of the following ways:
 
   * To improve customer service  
-(your information helps us to more effectively respond to your customer service requests and support needs)
+(your information helps us to more effectively respond to your customer service requests and support needs) 
   * To process transactions:  
 
 
 > Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
 
-  * To administer a contest, promotion, survey or other site feature
+  * To administer a contest, promotion, survey or other site feature 
   * To send periodic emails:  
 
 
