@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mckinney.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221094443id_/http%3A//mckinney.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mckinney.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520042630id_/http%3A//mckinney.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — McKinney
 
