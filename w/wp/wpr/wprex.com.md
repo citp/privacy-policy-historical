@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wprex.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220004523id_/http%3A//www.wprex.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wprex.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520221255id_/http%3A//www.wprex.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
