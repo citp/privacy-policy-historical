@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ontheclock.com privacy policy that was archived on 2010-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101217175559id_/http%3A//ontheclock.com/frmPrivacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ontheclock.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520220853id_/http%3A//www.ontheclock.com/frmPrivacy.aspx) for the most accurate reproduction.*
 
 # Web Time Clock, Online Timesheets
 
@@ -18,6 +18,6 @@ Most browsers are initially set up to accept cookies, however you can reset your
 
 We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store personal data. We restrict access to personal information to OnTheClock.com employees, contractors and agents who need to know that information in order to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.
 
-**Consumer Recourse** If you believe we have not complied with our stated privacy policy concerning our usage of personally identifiable information that we may collect over the Internet, or that information we have provided to you based upon your Internet activity is inaccurate, you may [Contact Us](https://web.archive.org/web/20101217175559id_/http%3A//ontheclock.com/frmContactUs.aspx). 
+**Consumer Recourse** If you believe we have not complied with our stated privacy policy concerning our usage of personally identifiable information that we may collect over the Internet, or that information we have provided to you based upon your Internet activity is inaccurate, you may [Contact Us](https://web.archive.org/web/20110520220853id_/http%3A//www.ontheclock.com/frmContactUs.aspx). 
 
 **To Sum It Up** Our primary go is to give our customers the best web clock system.  We are not interested in collecting or selling your information, only in providing the best online time clock system in the world.
