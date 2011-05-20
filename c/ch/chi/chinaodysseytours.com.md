@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the chinaodysseytours.com privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214193552id_/http%3A//chinaodysseytours.com/privacy_security.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chinaodysseytours.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520104420id_/http%3A//www.chinaodysseytours.com/privacy_security.htm) for the most accurate reproduction.*
 
 # Privacy & Security Policy - Customer Care
 
-[Home](https://web.archive.org/web/20101214193552id_/http%3A//chinaodysseytours.com/index.html) > [Customer Center ](https://web.archive.org/web/20101214193552id_/http%3A//chinaodysseytours.com/customer.htm) > Privacy & Security Policy 
+[Home](https://web.archive.org/web/20110520104420id_/http%3A//www.chinaodysseytours.com/index.html) > [Customer Center ](https://web.archive.org/web/20110520104420id_/http%3A//www.chinaodysseytours.com/customer.htm) > Privacy & Security Policy 
 
 **China Odyssey Tours Respects Your Privacy and Protects Your Security and Confidentiality Very Seriously.**
 
@@ -30,4 +30,4 @@ Though online payment with your international credit card is not applicable in C
 
 China Odyssey Tours reserves the right to modify this Privacy & Security Policy at any time with or without notice. 
 
-Should you have any questions about our Privacy & Security Policy, please feel free to [contact us](https://web.archive.org/web/20101214193552id_/http%3A//chinaodysseytours.com/contact-us.htm)[.](https://web.archive.org/web/20101214193552id_/http%3A//chinaodysseytours.com/forms/inquiry.htm)
+Should you have any questions about our Privacy & Security Policy, please feel free to [contact us](https://web.archive.org/web/20110520104420id_/http%3A//www.chinaodysseytours.com/contact-us.htm)[.](https://web.archive.org/web/20110520104420id_/http%3A//www.chinaodysseytours.com/forms/inquiry.htm)
