@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homespyvideo.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120024529id_/http%3A//www.homespyvideo.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homespyvideo.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520225251id_/http%3A//homespyvideo.com/privacy.html) for the most accurate reproduction.*
 
 # CUSTODIAN OF RECORDS - U.S.C. TITLE 18, SECTION 2257 COMPLIANCE
 
