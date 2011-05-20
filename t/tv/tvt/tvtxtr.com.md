@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tvtxtr.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222112122id_/http%3A//tvtxtr.com/index.cfm/docs/dspPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvtxtr.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520213527id_/http%3A//www.tvtxtr.com/index.cfm/docs/dspPrivacy) for the most accurate reproduction.*
 
 # 
 
