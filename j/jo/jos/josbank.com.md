@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the josbank.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231094832id_/http%3A//www.josbank.com/menswear/shop/PrivacyPolicyView%3FlangId%3D-1%26storeId%3D11001%26catalogId%3D10050) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the josbank.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520225450id_/http%3A//www.josbank.com/menswear/shop/PrivacyPolicyView%3FlangId%3D-1%26storeId%3D11001%26catalogId%3D10050) for the most accurate reproduction.*
 
 # JoS. A. Bank Clothiers - JoS. A. Banks Clothiers - Privacy Policy
 
