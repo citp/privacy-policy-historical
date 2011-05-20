@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americansongwriter.com privacy policy that was archived on 2010-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100929023828id_/http%3A//www.americansongwriter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americansongwriter.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520122033id_/http%3A//www.americansongwriter.com/privacy-policy) for the most accurate reproduction.*
 
 # American Songwriter | Privacy Policy
 
