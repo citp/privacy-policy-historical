@@ -1,31 +1,25 @@
-> *The following text is extracted and transformed from the mangable.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125011256id_/http%3A//mangable.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mangable.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520073412id_/http%3A//mangable.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Privacy Policy
 
-The following webpage outlines Mangable's collection and use of personal information from it's users. Mangable.com values the privacy of our members and users, we will never share any personal information of anybody who logs on to Mangable with anyone. This includes your e-mail address, name, and location. Upon logging on to Mangable such things as your IP address and hostname are logged for statistical and security reasons.
+At Mangable.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use visit Mangable.com, and how we safeguard your information. We never sell your personal information to third parties.
 
-## Cookies
+## Log Files
 
-A cookie is a very small text file placed on your system upon logging on to Mangable (and most other websites). This file serves as your identification card and is uniquely yours, and can only be read by the server that gave it to you. Cookies tell us that you have returned to a specific web page on Mangable and help us track your preferences and transactional habits. The basic function of cookies is to help our server remember who you are.
+As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site. 
 
-## Children's Privacy
+## E-mail Communications
 
-Mangable does not knowingly collect personal data from children under the age of 13. We make reasonable efforts to prevent someone who is underage from joining as a member of Mangable, and will not collect information from them. If Mangable learns that a child under the age of 13 has become a member, we will close that child's account and delete any information collected about the child.
+Mangable is very concerned about your privacy and we will never provide your email address to a third party without your explicit permission. Mangable may send out e-mails with Mangable-related news and updates. You may also receive notification e-mails from Mangable, which inform you of actions (e.g. New Account Registration) that have been performed on the site. Additionally, you may receive emails of updates in series information, all of which can be managed through your user dashboard once logged in. If you do not want to receive e-mail from us, please reply to the email. Additionally, to manually unsubscribe from the emails, set all anime to 'dropped' via your dashboard. However, please note that in all cases you will continue to receive all system e-mails (e.g. those regarding forgotten user passwords) and legal notices (e.g. updates to our policies) from us. 
 
-Not withstanding the foregoing, Mangable may choose to retain some personal information such as the child's e-mail address as a means to prevent the child from re-registering at our website. The Children's Online Privacy Protection Act (COPPA) went into effect in April 2000, and as a result websites all over the world wide web had to change their standards to not collect any information from a child.
+## Cookies and Web Beacons
 
-## Disclosing Information
+We do use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums.
 
-Mangable may store and disclose personal information allowed or required by applicable law or when deemed advisable by us. This means that we may make disclosures that are necessary to conform to legal and regulatory requirements or processes and to protect the rights, safety, and property of Mangable, users of the Mangable website, and the public.
+## 3rd Party Advertisers
 
-## Security
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [here](http://www.networkadvertising.org/).  
+You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.  
 
-At Mangable we make reasonable efforts to protect personal information such as passwords and use technology such as encryption, access control procedures, firewalls, and physical security. We urge you to use a unique password with both letters and numbers to protect your account on Mangable and it's affiliated websites. If others, including family, friends or other household members access and use the message board through your login credentials, you are responsible for the actions of that individual. Only in extreme cases will your account be fully terminated.
-
-## Third Parties
-
-Third Party websites may collect information from users of Mangable, this information will include your IP address, hostname, and information about your system to help us serve you better. These are purely used for statistical reasons, and will not be used in any way other then that. Some programs that may collect this information include: eXTReMe Tracking, Google, Nedstat, and Webalizer.
-
-Website Policy Changes Mangable reserves the right to change this, and any other policy located on our website at anytime without notifying our users. If you have any comments, questions, or concerns regarding this policy, or any other policy you may send them to us at policy at Mangable.com.
