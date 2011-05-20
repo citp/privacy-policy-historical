@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the portalclaims.com privacy policy that was archived on 2010-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100606194337id_/http%3A//www.portalclaims.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the portalclaims.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521003758id_/http%3A//www.portalclaims.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Portal Claims
 
@@ -8,7 +8,7 @@ Modern information and communication technologies play a fundamental role in the
 
 We are based in United Kingdom and our principal activity is assisting people who have been mis-sold endowment policies, mis-sold payment protection insurance policies and received excessive bank charges to claim compensation.
 
-Our privacy policy covers Portal Claims LLP and its Web site, www.portalclaims.com. If you have any comments about this Privacy Policy, our Data Controller is Paul Wheal. You may email him at info@portalclaims.com or write to him at Portal Claims LLP, Cobham House, Sunderland Quay, Rochester, Kent ME2 4HN.
+Our privacy policy covers Portal Claims LLP and its Web site, www.portalclaims.com. If you have any comments about this Privacy Policy, our Data Controller is Paul Wheal. You may email him at info@portalclaims.com or write to him at Portal Claims LLP, Portal House, Sunderland Quay, Rochester, Kent ME2 4HN.
 
 You also have the right to contact the Information Commissioner about matters relating to your private data. Details on how you may do this can be found at [www.ico.gov.uk](http://www.ico.gov.uk/ "Information Commissioner")
 
