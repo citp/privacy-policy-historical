@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourdentistryguide.com privacy policy that was archived on 2010-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101210025948id_/http%3A//www.yourdentistryguide.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourdentistryguide.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520225110id_/http%3A//www.yourdentistryguide.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - The Consumer Guide to Dentistry
 
@@ -8,7 +8,13 @@ We respect the privacy of visitors to our website. This policy describes how we 
 
 Our web server automatically recognizes each visitor's IP address, which can be associated with your Internet service provider. This does not provide us with personally identifiable information.
 
-You can visit our website without revealing any information about yourself. Our site does not track, collect, or distribute personal information about you (such as name, address, e-mail address, telephone number, and product preferences) unless you voluntarily input this information, such as when you ask us to e-mail a friend about this site or when you otherwise voluntarily input this information. Any information you input will be used by us only as described in the “How we use information” section of this statement.
+[TMD](https://web.archive.org/tmj/)  
+Is your jaw pain the sign of a serious problem?
+
+  
+
+
+You can visit our website without revealing any information about yourself. Our site does not track, collect, or distribute personal information about you (such as name, address, e-mail address, telephone number, and product preferences) unless you voluntarily input this information, such as when you ask us to e-mail a friend about this site or when you otherwise voluntarily input this information. Any information you input will be used by us only as described in the "How we use information" section of this statement.
 
 We use electronic records to compile statistics about how collectively our visitors interact with our website. These statistics contain no personal information. By voluntarily providing us with information about yourself, you are consenting to our use of it in accordance with this policy.
 
@@ -16,7 +22,7 @@ We use electronic records to compile statistics about how collectively our visit
 
 We use the personally identifiable information we collect for internal purposes such as improving our products and services, and sending you e-mail (at your request only) about topics you have specified.
 
-When we conduct research, we may share this information in aggregate form with our advertisers. For example, while we would never say, “Jen Jones visits her dentist twice a year,” we might tell our advertisers, “67 percent of our readers visit their dentist twice a year.”
+When we conduct research, we may share this information in aggregate form with our advertisers. For example, while we would never say, "Jen Jones visits her dentist twice a year," we might tell our advertisers, "67 percent of our readers visit their dentist twice a year."
 
 When you request information from us, the information you provide may be shared with third parties so that they may fulfill your request.
 
@@ -26,11 +32,18 @@ Information submitted or provided to us by a website user or any person or entit
 
 ## Cookies
 
-Cookies are small text files that websites store on your computer's hard drive. When they are supplied from our site, they contain information you have given us and are intended to be a convenience to you. They eliminate the need to enter your name and e-mail address in certain forms on our site. They may also record how often you visit our website, or what pages you looked at, so that we may distinguish how many unique visitors we have, how often we are visited, and how many pages are viewed by each visitor. This information may be provided in aggregate to advertisers (for example, “we had 150,000 unique visitors last week”).
+Cookies are small text files that websites store on your computer's hard drive. When they are supplied from our site, they contain information you have given us and are intended to be a convenience to you. They eliminate the need to enter your name and e-mail address in certain forms on our site. They may also record how often you visit our website, or what pages you looked at, so that we may distinguish how many unique visitors we have, how often we are visited, and how many pages are viewed by each visitor. This information may be provided in aggregate to advertisers (for example, "we had 150,000 unique visitors last week").
 
 This site uses cookies only to store personally identifying information that you have provided to us. These cookies are not capable of obtaining additional personally identifying information.
 
 ## Children
+
+[Orthodontics](https://web.archive.org/orthodontics/)  
+Has your child  
+had an ADA- recommended evaluation?
+
+  
+
 
 You must be at least 18 years old to have our permission to use this site. Our policy is that we do not knowingly collect, use or disclose personally identifiable information about visitors under 18 years of age.
 
