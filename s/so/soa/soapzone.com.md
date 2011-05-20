@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soapzone.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221125100id_/http%3A//soapzone.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soapzone.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520024931id_/http%3A//soapzone.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
