@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ratemyarea.com privacy policy that was archived on 2010-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100104032151id_/http%3A//www.ratemyarea.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ratemyarea.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520215144id_/http%3A//ratemyarea.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Rate My Area
 
@@ -8,7 +8,7 @@ By using the Website and/or the RateMyArea Service, you permit the collection an
 
 ### 1\. ABOUT OUR PRIVACY POLICY
 
-**1.1** Our website **RATEMYAREA.COM** which includes any webpage containing this domain name, including any page that is enabled for use by a mobile device or any webpage redirected from another domain name (e.g. RATEMYAREA.CO.UK and RATEMYAREA.MOBI to this domain name) (the **"Website"** ) and the services provided on the Website (for a more complete description of the services see our [Terms and Conditions](https://web.archive.org/pages/terms)) (the **"RateMyArea Service"** ) are operated by Locate Online Limited of Unit 9A, Nutgrove Enterprise Park, Nutgrove Way, Rathfarnham, Dublin 14, Ireland ( **"we"** , **"us"** and **"our"** ). The Website and the RateMyArea Service help people find and create local community and business information by soliciting and aggregating reviews. 
+**1.1** Our website **RATEMYAREA.COM** which includes any webpage containing this domain name, including any page that is enabled for use by a mobile device or any webpage redirected from another domain name (e.g. RATEMYAREA.CO.UK and RATEMYAREA.MOBI to this domain name) (the **"Website"** ) and the services provided on the Website (for a more complete description of the services see our [Terms and Conditions](https://web.archive.org/pages/terms)) (the **"RateMyArea Service"** ) are operated by Locate Online Limited of 27, South Frederick Street, Dublin 2, Ireland ( **"we"** , **"us"** and **"our"** ). The Website and the RateMyArea Service help people find and create local community and business information by soliciting and aggregating reviews. 
 
 **1.2** This policy, our [Terms and Conditions](https://web.archive.org/pages/terms) and any other documents referred to in either of them set out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. If you are a Business Member then the Additional Business Member Terms also form part of your agreement with us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. 
 
