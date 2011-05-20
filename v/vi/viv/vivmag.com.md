@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the vivmag.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130082525id_/http%3A//vivmag.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vivmag.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521015552id_/http%3A//vivmag.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | VIVmag
+# Privacy Policy
 
 _Last Updated May 30, 2006_
 
-VIV Publishing, LLC (“VIV”) owns and operates the _VIVmag_ website. _VIVmag_ is committed to protecting its users’ privacy. This Privacy Policy applies to personally identifiable information we collect on the _VIVmag_ website located at www.vivold.eroi.com (the “Site”). Your use of the Site is subject to this Privacy Policy and our [Terms of Use](https://web.archive.org/vivmagcom-user-agreement/?phpMyAdmin=B3wd7OgCytqf5G95gZAvkzEUZ3a). Please read this Privacy Policy carefully to understand how we treat information collected on this Site. This Privacy Policy may change from time to time, so please check back periodically.
+VIV Publishing, LLC (“VIV”) owns and operates the _VIVmag_ website. _VIVmag_ is committed to protecting its users’ privacy. This Privacy Policy applies to personally identifiable information we collect on the _VIVmag_ website located at www.vivold.eroi.com (the “Site”). Your use of the Site is subject to this Privacy Policy and our [Terms of Use](http://vivmag.com/vivmagcom-user-agreement/?phpMyAdmin=B3wd7OgCytqf5G95gZAvkzEUZ3a). Please read this Privacy Policy carefully to understand how we treat information collected on this Site. This Privacy Policy may change from time to time, so please check back periodically.
 
 **Information We Collect**
 
@@ -18,7 +18,7 @@ Although the Site is available without registration, in order to take advantage 
 
 Personal information collected on these pages will include your first and last name, email address, phone number, address and other similar information. Providing this information is optional, but failure to do so in some cases will limit the services available to you. In addition, you may choose to provide _VIVmag_ with personal information if you contact us by email.
 
-_VIVmag_ ’s web servers automatically collect Site usage information from you when you visit the Site, such as IP addresses, browser types, operating systems, domain names, access times, and referring website addresses. Site usage information informs us about how our visitors use and navigate the Site. In addition, certain pages of the Site may use cookies to track and store your information for the purposes described in this policy. Cookies are small files that are placed on your hard disk to allow us to recognize you if you return to the Site using the same computer and browser. _VIVmag_ does not store any of your personal information in cookies. A cookie cannot read any other data off your hard drive, pass on a virus, or read cookie files created by other websites. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether or not to accept it. While you may decide not to accept cookies, by doing so, you may not be able to experience the full functionality of our Site.
+_VIVmag_ ‘s web servers automatically collect Site usage information from you when you visit the Site, such as IP addresses, browser types, operating systems, domain names, access times, and referring website addresses. Site usage information informs us about how our visitors use and navigate the Site. In addition, certain pages of the Site may use cookies to track and store your information for the purposes described in this policy. Cookies are small files that are placed on your hard disk to allow us to recognize you if you return to the Site using the same computer and browser. _VIVmag_ does not store any of your personal information in cookies. A cookie cannot read any other data off your hard drive, pass on a virus, or read cookie files created by other websites. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether or not to accept it. While you may decide not to accept cookies, by doing so, you may not be able to experience the full functionality of our Site.
 
 **How We Use Your Information**
 
@@ -29,7 +29,7 @@ We may combine the personally identifiable information you provide _VIVmag_ with
   * notify you of special offers or promotions
   * respond to your inquiries
   * compile anonymous, aggregated information that is useful to develop new features, improve the content and navigation of the Site, analyze trends and statistics, and ensure our Site remains relevant to your needs
-  * enforce _VIVmag_ ’s Terms of Use and otherwise prevent illegal or improper activity related to the Site
+  * enforce _VIVmag_ ‘s Terms of Use and otherwise prevent illegal or improper activity related to the Site
   * notify you of changes to this Privacy Policy or to other policies or terms that may affect you and your use of the Site
   * create user profiles
 
