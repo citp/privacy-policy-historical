@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the wsaz.com privacy policy that was archived on 2010-11-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101120192945id_/http%3A//www.wsaz.com/unclassified/34218884.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wsaz.com privacy policy that was archived on 2011-05-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110520225357id_/http%3A//www.wsaz.com/unclassified/34218884.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD html 4.01 Transitional//EN" "http://www.w3.org/TR/1999/REC-html401-19991224/loose.dtd"><html xmlns:fb="http://www.facebook.com/2009/fbml"><head>
     <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script language="Javascript">var js="0.0";</script><script language="Javascript1.0">js="1.0";</script><script language="Javascript1.1">js="1.1";</script><script language="Javascript1.2">js="1.2";</script><script language="Javascript1.3">js="1.3";</script><script language="Javascript1.4">js="1.4";</script><script language="Javascript1.5">js="1.5";</script><script language="Javascript1.6">js="1.6";</script><script language="Javascript1.7">js="1.7";</script><script language="Javascript1.8">js="1.8";</script><script language="Javascript1.9">js="1.9";</script><script language="javascript1.1" type="text/javascript"> 
@@ -8,7 +8,7 @@ var bb=new Image();var _ti=910;var _q="";var na=(navigator.appName=="Netscape");
 function setonclicks(a,b){var i=0;var retval=true;while(document.links[i]!=a){i++;}if(b.li[i])retval=b.li[i].oldonclick();bye(a);return retval;}
 function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.links.length;lnks.li=new Array(sze);for (var i=0; i<sze; i++){if(document.links[i].onclick){lnks.li[i]=document.links[i];lnks.li[i].oldonclick=document.links[i].onclick;}eval("document.links[i].onclick=function(){return setonclicks(this,lnks);}");}}function bye(a){if(a.href.toLowerCase().indexOf('http')!=0)return true;if(getdomain(location)==getdomain(a))return true;if(a.href.toLowerCase().indexOf('http')!=0)return true;var _qc="http://s.clickability.com/s?19=912";_qc+="&6=34218884";_qc+="&7=99171";_qc+="&18="+encodeURIComponent(Math.random());_qc+="&100="+a.href;_qc+="&101="+encodeURIComponent(a.text);var cc=new Image();if(na){cc.src=_qc;pc(100);}else cc.src=_qc;return true;}function pc(a){d = new Date(); while (1){m =new Date(); df = m-d;if( df > a ) {break;}}}function getdomain(a){var i=a.host.indexOf(":");return (i>=0)?a.host.substring(0,i):a.host;}if(self['setupalready']){var dosetup = false;alert('There are two $imware.tracker calls on this page. Please alert Client Services');}else{var dosetup = true;var hasonload=false;}if(dosetup && ((window.screen)||((new Array()).toSource)||((new Array()).shift&&ns))&&(navigator.userAgent.indexOf('Mac')<0)){if(window.onload){oldonld=window.onload;hasonload=true;}window.onload=newonld;var setupalready = true;}//-->
 </script><noscript>
-<img width="1" height="1" src="http://s.clickability.com/s?19=990&14=0&6=34218884&7=99171&18=0.3841078538626419">
+<img width="1" height="1" src="http://s.clickability.com/s?19=990&14=0&6=34218884&7=99171&18=0.07111186333575537">
 </noscript>
 
 
@@ -19,10 +19,11 @@ function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.lin
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">  
 
 
+
 	<meta name="google-site-verification" content="rnQvGTE5yUwyFE9BUQbKDfpuwACWSv9dy_JXjEFO1WY">
 
-						
-	<meta name="description" content="Privacy Policy">
+							<meta name="description" content="Privacy Policy">
+
 <meta name="keywords" content="PRIVACY POLICY ">
 	<link rel="stylesheet" href="http://www.wsaz.com/templates/Site_Stylesheet?path=/">
 				<link rel="stylesheet" href="http://app.quotemedia.com/css/tools.css">
@@ -169,16 +170,458 @@ var w = window.open("http://video.ap.org/vws/search/aspx/ap.aspx?f="+pid+"&g="+t
 </script>
 <script src="http://content.worldnow.com/global/tools/video/VideoFunctions.js?ver=200806280400" type="text/javascript" language="javascript1.3"></script>
 
-			<style type="text/css">
-.submission {
-	display: none;
-}
-</style>
- 
+			
 <script type="text/javascript">
-var Clickability = Clickability || {};
-Clickability.Comment = {
-	Private : {
+
+	//Objects to interact with server
+	var CMSUtil = {
+		interactWithServer: function(form, isAjax, buildObjectFunction, 
+									returnFunction, action, servlet, 
+									extraFields){
+			if(isAjax == true && returnFunction != null){
+            	var queryString = this.serializeForm(form);
+				if(queryString != null){
+					if(action != null){
+						queryString += "&action=" + action + "&isAjax=Y";	
+					}else{
+            			queryString += "&isAjax=Y";
+            		}
+            		if(extraFields){
+            			queryString += extraFields;
+            		}
+            		
+            		var req = this.getXmlRequestObject();
+					if(req != null) {
+            			var handlerFunction = this.getReadyStateHandler(req, returnFunction, buildObjectFunction);
+						req.onreadystatechange = handlerFunction;
+						req.open("POST", servlet, true);
+            			req.setRequestHeader("Content-Type", "application/x-www-form-urlencoded; charset=UTF-8");
+            			req.send(queryString);
+            			return false;
+					}
+				}
+            }else{
+ 				this.submitUserFormNoAJAX(form, action, servlet); 
+			}
+		},
+		
+		getXmlRequestObject: function() {
+			var req;
+			if(window.XMLHttpRequest){
+				req = new XMLHttpRequest();
+			}else if(window.ActiveXObject){
+				try{
+					req = new ActiveXObject("Msxml2.XMLHTTP");
+				}catch(e){
+					try{
+						req = new ActiveXObject("Microsoft.XMLHTTP");
+					}catch(e){
+               			return null;
+               		}
+				}
+			}
+    		return req;
+		},
+		
+		getReadyStateHandler: function(req, returnFunction, buildObjectFunction) {
+
+			return function () {
+
+		    	// If the request's status is "complete"
+    			if (req.readyState == 4) {
+      
+      				// Check that a successful server response was received
+   		   			if (req.status == 200) {
+
+        				// Pass the XML payload of the response to the 
+        				// handler function
+        				var response = "(" + req.responseText + ")";
+            			response = eval(response);
+						buildObjectFunction(response);	
+            			returnFunction(response); 
+					} else {
+						// An HTTP problem has occurred
+        				alert("HTTP error: "+req.status);
+      				}
+    			}
+  			}
+		},
+		
+		serializeForm: function(form){
+			var paramString = "";
+			var ampRegex = new RegExp("&", "g");
+	  		var replaceAmpStr = escape("&#38;");
+	  		var percentRegex = new RegExp("%", "g"); 
+	   		var replacePerStr = escape("&#37;");
+
+       		for(var i = 0;i < form.elements.length;i++){
+       			var field = form.elements[i];
+       			if(field.tagName === "TEXTAREA" || (field.tagName === "INPUT" && field.type !== "submit")){
+       				if(field.type === "checkbox" && !field.checked){
+       					 continue;
+       				}
+					var fieldValue = field.value;
+					fieldValue = fieldValue.replace(percentRegex, replacePerStr);
+	       	    	fieldValue = fieldValue.replace(ampRegex, replaceAmpStr);
+       				paramString += field.name + "=" + fieldValue + "&";
+           		}
+       		}
+
+			return paramString;
+		},
+		submitUserFormNoAJAX: function(form, action, servlet){
+			if(servlet == null) return null;
+    	    form.action = servlet;
+
+    	    if(action != null) {
+    	    	var actionField = document.createElement('input');
+    	    	actionField.setAttribute('name', 'action');
+  					actionField.setAttribute('type', 'hidden');
+  					actionField.value = action;
+    	    	form.appendChild(actionField);
+    	    	
+    	    }
+    		form.submit();
+    	}
+    	
+	}
+	
+	var Action = {
+		attachAction: function(form, isAjax, returnFunction){
+			var action = "";
+			if(isAjax){
+				action = "attachActionAJAX";
+			} else {
+				action = "attachAction";
+			}
+			CMSUtil.interactWithServer(form, isAjax, Action.buildAction, returnFunction, action, "/s");
+		},
+		
+		deleteAction: function(form, isAjax, returnFunction){
+        	var action = "";
+        	if(isAjax){
+        		action = "deleteActionAJAX";
+        	} else {
+        		action = "deleteAction";
+        	}
+        	CMSUtil.interactWithServer(form, isAjax, Action.deletedAction, returnFunction, action, "/s");
+        },
+		
+		
+		buildAction: function(response){
+			if(response.success == true){
+				Action.actionID = response.actionID;
+				Action.contentID = response.contentID;
+				Action.commentID = response.commentID;
+				Action.contentTypeID = response.contentTypeID;
+				Action.actionDate = response.actionDate;
+				Action.userID = response.userID;
+				Action.actionType = response.actionType;
+				Action.slugLine = response.slugLine;
+			} else {
+			 	Action.error = response.error;
+			}
+		},
+		
+		deletedAction: function(response){
+			if(response.success == true){
+				Action.actionID = response.actionID;
+			} else {
+				Action.error = response.error;
+			}
+		}
+	}
+	
+	var Ranking = {
+		insertRanking: function(form, isAjax, returnFunction){
+			CMSUtil.interactWithServer(form, isAjax, Ranking.buildRanking, returnFunction, "rankComment", "/p");
+		},
+		
+		buildRanking: function(response){
+			if(response.success == true){
+				Ranking.success = true;
+				Ranking.objectId = response.objectId;
+				Ranking.type = response.type;
+				Ranking.ipAddress = response.ipAddress;
+				Ranking.rankDate = response.rankDate;
+				Ranking.upRanking = response.upRanking;
+				Ranking.downRanking = response.downRanking;
+			} else {
+				Ranking.error = response.error;
+			}
+		}
+			
+	}
+			
+	var Rating = {
+		addRating: function(form, isAjax, returnFunction){
+			var action = "";
+			if(isAjax){
+				action = "addRatingAJAX";
+			} else {
+				action = "addRating";
+			}
+            CMSUtil.interactWithServer(form, isAjax, Rating.buildRating, returnFunction, action, "/s");
+        },
+        
+        insertRating: function(form, isAjax, returnFunction){
+			var extraQueryStr = null;
+			if(isAjax){
+				extraQueryStr = getFieldsForForm();
+			}else{
+				addFieldsToForm(form);
+			}
+			CMSUtil.interactWithServer(form, isAjax, Comment.buildComment, returnFunction, "insertComment", "/c", extraQueryStr);
+		},
+        
+		buildRating: function(response){
+			if(response.success == true){
+				Rating.id = response.id;
+				Rating.rating = response.rating;
+				Rating.upvote = response.upvote;
+				Rating.downvote = response.downvote;
+				Rating.type = response.type;
+				Rating.date = response.date;
+				Rating.ipAddress = response.ipAddress;
+			}else{
+				Rating.error = response.error;
+			}
+		}
+		
+	}
+	
+	var User = {
+		createUser: function(form, isAjax, returnFunction){	
+		    var action = "";
+			if(isAjax){
+				action = "createProfileAJAX";
+			} else {
+				action = "createProfile";
+			}
+            CMSUtil.interactWithServer(form, isAjax, User.buildUser, returnFunction, action, "/s");
+		},
+		
+		loginUser: function(form, isAjax, returnFunction){
+			var action = "";
+			if(isAjax){
+				action = "doLoginProfileAJAX";
+			} else {
+				action = "doLoginProfile";
+			}
+        	CMSUtil.interactWithServer(form, isAjax, User.buildUser, returnFunction, action, "/s");
+		},
+		
+		updateUser: function(form, isAjax, returnFunction){
+			var action = "";
+			if(isAjax){
+				action = "updateProfileAJAX";
+			} else {
+				action = "updateProfile";
+			}
+			CMSUtil.interactWithServer(form, isAjax, User.buildUser, returnFunction, action, "/s");
+		},
+		
+		updateRegistration: function(form, isAjax, returnFunction){
+			var action = "";
+			if(isAjax){
+				action = "updateRegistrationAJAX";
+			} else {
+				action = "updateReg";
+			}
+			CMSUtil.interactWithServer(form, isAjax, User.buildUser, returnFunction, action, "/s");
+		},
+		
+		updateProfilePassword: function(form, isAjax, returnFunction){
+			var action = "";
+			if(isAjax){
+				action = "updateProfilePasswordAJAX";
+			} else {
+				action = "updateProfilePassword";
+			}
+			CMSUtil.interactWithServer(form, isAjax, User.buildUser, returnFunction, action, "/s");
+		},
+		
+		insertProfilePic: function(form, isAjax, returnFunction){
+			var action = "";
+			if(isAjax){
+				//not implemented as of yet
+				return;
+				//action = "updateImageAJAX";
+			} else {
+				action = "updateImage";
+			}
+			CMSUtil.interactWithServer(form, isAjax, User.buildUser, returnFunction, action, "/s");
+		},
+		
+		buildUser: function(response){
+			if(response.success == true){
+				User.ID = response.ID;
+				User.username = response.username;
+				User.email = response.email;
+				User.firstName = response.firstName;
+				User.lastName = response.lastName;
+				User.birthDate = response.birthDate;
+				User.createDate = response.createDate;
+				User.title = response.title;
+				User.company = response.company;
+				User.address1 = response.address1;
+				User.address2 = response.address2;
+				User.city = response.city;
+				User.state = response.state;
+				User.zipcode = response.zipcode;
+				User.country = response.country;
+				User.custom1 = response.custom1;
+				User.custom2 = response.custom2;
+				User.custom3 = response.custom3;
+				User.custom4 = response.custom4;
+				User.custom5 = response.custom5;
+				User.custom6 = response.custom6;
+				User.custom7 = response.custom7;
+				User.custom8 = response.custom8;
+				User.custom9 = response.custom9;
+			}else{
+				User.error = response.error;
+				User.errorMsg = response.errorMsg;
+				User.errorCode = response.errorCode;
+			}
+		}
+	}
+	
+	var UserContent = {
+		insertContent: function(form, isAjax, returnFunction){
+			var extraQueryStr = null;
+			
+			if(isAjax){
+				extraQueryStr = getFieldsForForm();
+			}else{
+				addFieldsToForm(form);
+			}
+			UserContent.messages = null;
+			CMSUtil.interactWithServer(form, isAjax, UserContent.buildContent, returnFunction, extraQueryStr, "/d");
+		},
+		
+		editContent: function(form, isAjax, returnFunction){
+			CMSUtil.interactWithServer(form, isAjax, UserContent.buildContent, returnFunction, null, "/d");
+		},
+		
+		buildContent: function(response){
+			if(response.success == true){
+				for (var i=0; i< response.fields.length; i++){
+					var field = response.fields[i];
+					UserContent[field] = response[field];
+				}
+				UserContent.contentID = response.contentID;
+				UserContent.contentType = response.contentType;
+				UserContent.title = response.title;
+				UserContent.status = response.status;
+			} else {
+				UserContent.error = response.error;
+				UserContent.messages = response.messages;
+			}
+		}
+	}
+	
+	var Comment = {
+	
+		insertComment: function(form, isAjax, returnFunction){
+			var extraQueryStr = null;
+			if(isAjax){
+				extraQueryStr = getFieldsForForm();
+			}else{
+				addFieldsToForm(form);
+			}
+			CMSUtil.interactWithServer(form, isAjax, Comment.buildComment, returnFunction, "insertComment", "/c", extraQueryStr);
+		},
+	
+		deleteComment: function(form, isAjax, returnFunction){
+			var extraQueryStr = null;
+			if(isAjax){
+				extraQueryStr = getFieldsForForm();
+			}else{
+				addFieldsToForm(form);
+			}
+			CMSUtil.interactWithServer(form, isAjax, Comment.nullifyComment, returnFunction, "deleteComment", "/c", extraQueryStr);
+		},
+		
+		updateComment: function(form, isAjax, returnFunction){
+			var extraQueryStr = null;
+			if(isAjax){
+				extraQueryStr = getFieldsForForm();
+			} else {
+				addFieldsToForm(form);
+			}
+			CMSUtil.interactWithServer(form, isAjax, Comment.buildComment, returnFunction, "updateComment", "/c", extraQueryStr);
+		},
+		
+		buildComment: function(response){
+						Comment.name = null;
+			Comment.website = null;
+			Comment.title = null;
+			Comment.comment = null;
+			Comment.email = null;
+			Comment.rating = null;
+			Comment.ratingType = null;
+			Comment.commentType = null;
+			Comment.flagged = false;
+			Comment.isAuthor = false;
+			Comment.error = null;
+			Comment.status = null;
+			Comment.level = 0;
+			Comment.parentID = 0;
+			Comment.threadID = 0;
+			Comment.id = 0;
+			Comment.extID = null;		
+		
+			if(response.success == true){
+				Comment.id = response.id;
+				Comment.name = response.name;
+				Comment.comment = response.comment;
+				Comment.email = response.email;
+				Comment.website = response.website;
+				Comment.title = response.title;
+				Comment.isAuthor = response.isAuthor;
+				Comment.flagged = response.flagged;
+				Comment.status = response.status;
+				Comment.rating = response.rating;
+				Comment.ratingType = response.ratingType;
+				Comment.commentType = response.commentType;
+				if(Comment.status == "AUTHOR"){
+					Comment.isAuthor = true;
+				} else if(Comment.status != "APPROVED") {
+					Comment.flagged = true;
+				}
+			    Comment.id = response.id;
+			    Comment.threadID = response.threadID;
+			    Comment.parentID = response.parentID;
+			    Comment.level = response.level;
+			    Comment.extID = response.extID;
+			} else {
+				Comment.error = response.error;
+			}
+		},
+		
+		nullifyComment: function(response){
+			if(response.success == true){
+				Comment.comment = null;
+				Comment.email = null;
+				Comment.website = null;
+				Comment.title = null;
+				Comment.isAuthor = null;
+				Comment.flagged = null;
+				Comment.status = null;
+				Comment.id = 0;
+			    Comment.threadID = 0;
+			    Comment.parentID = 0;
+			    Comment.level = 0;
+			    Comment.extID = null;
+			} else {
+				Comment.error = response.error;
+			}
+		}
+	}	
+	
+	var Clickability = Clickability || {};
+	Clickability.SMTK = {
 		kP : 0,
 		aT : 0,
 		myInterval : null,
@@ -187,378 +630,206 @@ Clickability.Comment = {
 		firstX : -1,
 		firstY : -1,
 		intervals : 0,
-		req : null,
 		cid :  34218884 ,
 		did :  99171 ,
-		cP :  365 ,
-		cD : "2008-11-10 13:09:26.0",
 		d : 0,
 		mT : 0
-	},
-	name : null,
-	website : null,
-	title : null,
-	comment : null,
-	email : null,
-	rating : null,
-	ratingType : null,
-	commentType : null,
-	flagged : false,
-	isAuthor : false,
-	error : null,
-	status : null,
-	level : 0,
-	parentID : 0,
-	threadID : 0,
-	id : 0,
-	extID : null
-};
-Clickability.Comment.Private.myInterval = window.setInterval(timedMousePos,250);
+	}
+	Clickability.SMTK.myInterval = window.setInterval(timedMousePos,250);
+	document.onkeypress = lK;
+	window.onload = rAT;
 
-var name = null;
-var website = null;
-var title = null;
-var comment = null;
-var email = null;
-var rating = null;
-var ratingType = null;
-var commentType = null;
-var flagged = false;
-var isAuthor = false;
-var error = null;
-var status = null;
-
-var kP = 0;
-var aT = 0;
-var myInterval = Clickability.Comment.Private.myInterval;
-var xPos = -1;
-var yPos = -1;
-var firstX = -1;
-var firstY = -1;
-var intervals = 0;
-var req = null;
-var cid =  34218884 ;
-var did =  99171 ;
-var cP =  365 ;
-var cD = "2008-11-10 13:09:26.0";
-var d = 0;
-var mT = 0;
-
-document.onkeypress = lK;
-window.onload = rAT;
-
-function checkField(field) {
+		Clickability.Comment = Comment;
+		
+		var p;
+	var kP = 0;
+	var	aT = 0;
+	var myInterval = Clickability.SMTK.myInterval;
+	var xPos = -1;
+	var yPos = -1;
+	var firstX = -1;
+	var firstY = -1;
+	var intervals = 0;
+	var d = 0;
+	var mT = 0;
+	var cid =  34218884 ;
+	var did =  99171 ;	
 	
-	var button = document.getElementById("btSubmit");
-	
-	if(field.value.length > 0) {
-		CM_btnEnable(button);
-	}
-	else {
-		CM_btnDisable(button);
-	}
-}
-
-function lK() {
-	Clickability.Comment.Private.kP++;
-}
-
-function rAT() {
-	Clickability.Comment.Private.aT = new Date();
-}
-
-function CM_btnDisable (which) {
-	which.disabled = true;
-	if (document.all){
-		which.filters.alpha.opacity = 25;
-	}else {
-		which.style.MozOpacity = 0.25;
-	}	
-	which.style.cursor = "default";
-}
-
-function CM_btnEnable (which) {
-	which.disabled = false;
-	if (document.all){
-		which.filters.alpha.opacity = 100;
-		which.style.cursor = "hand";
-	}else {
-		which.style.MozOpacity = 1;
-		which.style.cursor = "pointer";
-	}
-}
-
-
-function submitForm(formObj) {
-
-    if(formObj.action == ""){
-    	formObj.action = "/c";
-    }
-	addFieldsToForm(formObj);
-    formObj.submit();
-}
-
-function addFieldsToForm(formObj, redirect) {
-	var mTField = document.createElement('input');
-	var dField = document.createElement('input');
-	var kPField = document.createElement('input');
-  	var cidField = document.createElement('input');
-  	var didField = document.createElement('input');
-  	
-  	
-	mTField.setAttribute('name','mT');
-	mTField.setAttribute('type', 'hidden');
-  	  
-	dField.setAttribute('name', 'd');
-	dField.setAttribute('type', 'hidden');
-  	  
-	kPField.setAttribute('name', 'kP');
-	kPField.setAttribute('type', 'hidden');
-  	
-	cidField.setAttribute('name', 'cid');
-	cidField.setAttribute('type', 'hidden');
-  	
-  	didField.setAttribute('name', 'did');
-  	didField.setAttribute('type', 'hidden');	
-  	
-  	if(redirect != null) {
-  		var pathField = document.createElement('input');
-  		pathField.setAttribute('name', 'path');
-  		pathField.setAttribute('type', 'hidden');
-  		pathField.value = redirect;
-  		formObj.appendChild(pathField);
-  	}
-  	  
-	mTField.value = Clickability.Comment.Private.mT;
-	dField.value = Clickability.Comment.Private.d;
-	kPField.value = Clickability.Comment.Private.kP;
-	cidField.value = Clickability.Comment.Private.cid;
-	didField.value = Clickability.Comment.Private.did;
-  		
-	formObj.appendChild(dField);
-	formObj.appendChild(kPField);
-	formObj.appendChild(mTField);
-	formObj.appendChild(cidField);
-	formObj.appendChild(didField);
-}
-
-function getMousePos(p) {
-	if (!p) var p = window.event;
-	if (p.pageX || p.pageY) {
-		Clickability.Comment.Private.xPos = p.pageX;
-		Clickability.Comment.Private.yPos = p.pageY;
-	} else if (p.clientX || p.clientY) {
-		Clickability.Comment.Private.xPos = p.clientX + document.body.scrollLeft + document.documentElement.scrollLeft;
-		Clickability.Comment.Private.yPos = p.clientY + document.body.scrollTop + document.documentElement.scrollTop;
-	}
-}
-
-function timedMousePos() {
-	document.onmousemove = getMousePos;
-	if (Clickability.Comment.Private.xPos >= 0 && Clickability.Comment.Private.yPos >= 0) {
-	var newX = Clickability.Comment.Private.xPos;
-	var newY = Clickability.Comment.Private.yPos;
-	Clickability.Comment.Private.intervals++;
-	}
-	if (Clickability.Comment.Private.intervals == 1) {
-		Clickability.Comment.Private.firstX = Clickability.Comment.Private.xPos;
-		Clickability.Comment.Private.firstY = Clickability.Comment.Private.yPos;
-	} else if (Clickability.Comment.Private.intervals == 2) {
-		clearInterval(Clickability.Comment.Private.myInterval);
-		calcDistance(Clickability.Comment.Private.firstX,Clickability.Comment.Private.firstY,newX,newY);
-	}
-}
-
-function calcDistance(aX,aY,bX,bY) {
-	Clickability.Comment.Private.mT = Math.round(Math.sqrt(Math.pow(aX-bX,2)+Math.pow(aY-bY,2)));
-}
-
-function getXmlRequestObject() {
-	if(Clickability.Comment.Private.req == null){
-		if(window.XMLHttpRequest){
-			Clickability.Comment.Private.req = new XMLHttpRequest();
-		}else if(window.ActiveXObject){
-			try{
-				Clickability.Comment.Private.req = new ActiveXObject("Msxml2.XMLHTTP");
-			}catch(e){
-				try{
-					Clickability.Comment.Private.req = new ActiveXObject("Microsoft.XMLHTTP");
-				}catch(e){
-                	return null;
-				}
-			}
+	function getMousePos(p) {
+		if(!p)var p = window.event;
+		if (p.pageX || p.pageY) {
+			Clickability.SMTK.xPos = p.pageX;
+			Clickability.SMTK.yPos = p.pageY;
+		} else if (p.clientX || p.clientY) {
+			Clickability.SMTK.xPos = p.clientX + document.body.scrollLeft + document.documentElement.scrollLeft;
+			Clickability.SMTK.yPos = p.clientY + document.body.scrollTop + document.documentElement.scrollTop;
 		}
-    }
-    return Clickability.Comment.Private.req;
-}
-
-function insertComment(formObj, isAjax, responseHandler){
-	var sT = new Date();
-	Clickability.Comment.Private.d = sT - Clickability.Comment.Private.aT;
-	if((isAjax == true) && (responseHandler != null)) {
-		Clickability.Comment.Private.req = getXmlRequestObject();
-		if(Clickability.Comment.Private.req != null) {
-			var formVars = getFormValues(formObj);
- 			var handlerFunction = getReadyStateHandler(Clickability.Comment.Private.req, responseHandler);
-			Clickability.Comment.Private.req.onreadystatechange = handlerFunction;
-			var url = "/c";
-            var params = "ajax=true&" + formVars;
- 
-            Clickability.Comment.Private.req.open("POST", url, true);
-            Clickability.Comment.Private.req.setRequestHeader("Content-Type", "application/x-www-form-urlencoded; charset=UTF-8");
-            
-     
-            Clickability.Comment.Private.req.send(params);
-            return false;
-    	}
-    	else {
-    		return false;
-    	}
 	}
-	else {
-		addFieldsToForm(formObj);
- 		submitForm(formObj);
-	}
-}
-   
-function postForm(formObj, isAjax, responseHandler) {
-	return insertComment(formObj, isAjax, responseHandler);
-}
 
-function getFormValues(fobj) {
-   var str = "";
-   var valueArr = null;
-   var val = "";
-   var cmd = "";	
-   var ampRegex = new RegExp("&", "g");
-   var replaceAmpStr = escape("&#38;");
-   var percentRegex = new RegExp("%", "g"); 
-   var replacePerStr = escape("&#37;");
-
-   for(var i = 0;i < fobj.elements.length;i++)
-   {
-   		var field = fobj.elements[i];
-   		if(field.tagName === "TEXTAREA" || (field.tagName === "INPUT" && field.type != "submit" && field.type != "button")){ 
-			var fieldStr = field.value;
-			fieldStr = fieldStr.replace(percentRegex, replacePerStr);
-            fieldStr = fieldStr.replace(ampRegex, replaceAmpStr);
-   			str += field.name + "=" + fieldStr + "&";
-       		field.value = "";
-       	}
-   }
-   str += "mT=" + Clickability.Comment.Private.mT;
-   str += "&d=" + Clickability.Comment.Private.d;
-   str += "&kP=" + Clickability.Comment.Private.kP;
-   str += "&cid=" + Clickability.Comment.Private.cid;
-   str += "&did=" + Clickability.Comment.Private.did;
- 
-   return str;
-}
-
-function getReadyStateHandler(ajaxreq, responseHandler) {
-
-  // Return an anonymous function that listens to the 
-  // XMLHttpRequest instance
-  return function () {
-
-    // If the request's status is "complete"
-    if (ajaxreq.readyState == 4) {
-      
-      // Check that a successful server response was received
-      if (ajaxreq.status == 200) {
-
-        // Pass the XML payload of the response to the 
-        // handler function
-        gatherResponse(ajaxreq.responseText);
-        responseHandler();
-
-      } else {
-
-        // An HTTP problem has occurred
-        alert("HTTP error: "+ajaxreq.status);
-      }
-    }
-  }
-}
-
-function gatherResponse(commentObject) {
-		name = null;
-	website = null;
-	title = null;
-	comment = null;
-	email = null;
-	rating = null;
-	ratingType = null;
-	commentType = null;
-	flagged = false;
-	isAuthor = false;
-	error = null;
-	status = null;
 	
-	Clickability.Comment.name = null;
-	Clickability.Comment.website = null;
-	Clickability.Comment.title = null;
-	Clickability.Comment.comment = null;
-	Clickability.Comment.email = null;
-	Clickability.Comment.rating = null;
-	Clickability.Comment.ratingType = null;
-	Clickability.Comment.commentType = null;
-	Clickability.Comment.flagged = false;
-	Clickability.Comment.isAuthor = false;
-	Clickability.Comment.error = null;
-	Clickability.Comment.status = null;
-	Clickability.Comment.level = 0;
-	Clickability.Comment.parentID = 0;
-	Clickability.Comment.threadID = 0;
-	Clickability.Comment.id = 0;
-	Clickability.Comment.extID = null;
+	function lK() {	
+		Clickability.SMTK.kP++;
+	}
 
- 	var jsonExpression = "(" + commentObject+ ")";
-    var commentData = eval(jsonExpression);
-    error = commentData.error;
-    name = commentData.name;
-    comment = commentData.comment;
-    commentType = commentData.commentType
-    rating = commentData.ratingScore;
-    ratingType = commentData.ratingType;
-    email = commentData.email;
-    website = commentData.website;
-    title = commentData.title;
-    isAuthor = false;
-    flagged = false;
-    status = commentData.status;
-    if(status == "AUTHOR") {
-    	isAuthor = true;
-    }
-    else if(status != "APPROVED") {
-        flagged = true;
-    }
-    
-    Clickability.Comment.error = commentData.error;
-    Clickability.Comment.name = commentData.name;
-    Clickability.Comment.comment = commentData.comment;
-    Clickability.Comment.commentType = commentData.commentType
-    Clickability.Comment.rating = commentData.ratingScore;
-    Clickability.Comment.ratingType = commentData.ratingType;
-    Clickability.Comment.email = commentData.email;
-    Clickability.Comment.website = commentData.website;
-    Clickability.Comment.title = commentData.title;
-    Clickability.Comment.isAuthor = false;
-    Clickability.Comment.flagged = false;
-    Clickability.Comment.status = commentData.status;
-    if(Clickability.Comment.status == "AUTHOR") {
-    	Clickability.Comment.isAuthor = true;
-    }
-    else if(Clickability.Comment.status != "APPROVED") {
-        Clickability.Comment.flagged = true;
-    }
-    Clickability.Comment.id = commentData.id;
-    Clickability.Comment.threadID = commentData.threadID;
-    Clickability.Comment.parentID = commentData.parentID;
-    Clickability.Comment.level = commentData.level;
-    Clickability.Comment.extID = commentData.extID;
-}
+	function rAT() {
+		Clickability.SMTK.aT = new Date();
+	}
+		
+	function timedMousePos() {
+		document.onmousemove = getMousePos;
+		if (Clickability.SMTK.xPos >= 0 && Clickability.SMTK.yPos >= 0) {
+			var newX = Clickability.SMTK.xPos;
+			var newY = Clickability.SMTK.yPos;
+			Clickability.SMTK.intervals++;
+		}
+		if (Clickability.SMTK.intervals == 1) {
+			Clickability.SMTK.firstX = Clickability.SMTK.xPos;
+			Clickability.SMTK.firstY = Clickability.SMTK.yPos;
+		} else if (Clickability.SMTK.intervals == 2) {
+			clearInterval(Clickability.SMTK.myInterval);
+			calcDistance(Clickability.SMTK.firstX,Clickability.SMTK.firstY,newX,newY);	
+		}
+	}
+
+
+	function calcDistance(aX,aY,bX,bY){
+		Clickability.SMTK.mT = Math.round(Math.sqrt(Math.pow(aX-bX,2)+Math.pow(aY-bY,2)));
+	}
+	
+	function getFieldsForForm(){
+		var sT = new Date();
+		Clickability.SMTK.d = sT - Clickability.SMTK.aT;
+		var queryString = "&";
+		queryString += "mT=" + Clickability.SMTK.mT;
+     	queryString += "&d=" + Clickability.SMTK.d;
+     	queryString += "&kP=" + Clickability.SMTK.kP;
+     	if(Clickability.SMTK.cid)queryString += "&cid=" + Clickability.SMTK.cid;
+     	if(Clickability.SMTK.did)queryString += "&did=" + Clickability.SMTK.did;
+     	queryString += "&socialMedia=Y";
+	    return queryString;
+	}
+		
+	function addFieldsToForm(formObj, redirect) {
+		var sT = new Date();
+		Clickability.SMTK.d = sT - Clickability.SMTK.aT;
+		var mTField = document.createElement('input');
+		var dField = document.createElement('input');
+		var kPField = document.createElement('input');
+  		var cidField = document.createElement('input');
+  		var didField = document.createElement('input');
+  		var socialMedia = document.createElement('input');
+  	
+  	
+  		socialMedia.setAttribute('name','socialMedia');
+		socialMedia.setAttribute('type', 'hidden');
+		
+  		mTField.setAttribute('name','mT');
+		mTField.setAttribute('type', 'hidden');
+  	  
+		dField.setAttribute('name', 'd');
+		dField.setAttribute('type', 'hidden');
+  	  
+		kPField.setAttribute('name', 'kP');
+		kPField.setAttribute('type', 'hidden');
+  	
+		cidField.setAttribute('name', 'cid');
+		cidField.setAttribute('type', 'hidden');
+  	
+  		didField.setAttribute('name', 'did');
+  		didField.setAttribute('type', 'hidden');	
+  	
+  		if(redirect != null) {
+  			var pathField = document.createElement('input');
+  			pathField.setAttribute('name', 'path');
+  			pathField.setAttribute('type', 'hidden');
+  			pathField.value = redirect;
+  			formObj.appendChild(pathField);
+  		}
+  		mTField.value = Clickability.SMTK.mT;
+		dField.value = Clickability.SMTK.d;
+		kPField.value = Clickability.SMTK.kP;
+		cidField.value = Clickability.SMTK.cid;
+		didField.value = Clickability.SMTK.did;
+		socialMedia.value = "Y";
+
+		formObj.appendChild(dField);
+		formObj.appendChild(kPField);
+		formObj.appendChild(mTField);
+		formObj.appendChild(cidField);
+		formObj.appendChild(didField);
+		formObj.appendChild(socialMedia);
+	}		
+	
+	//helper functions
+	
+	function insertComment(form, isAjax, returnFunction, showError){
+		return submitToServer(Comment.insertComment, "Unable to insert comment", form, isAjax, returnFunction, showError);
+	}
+	
+	function updateComment(form, isAjax, returnFunction, showError){
+		return submitToServer(Comment.updateComment, "Unable to update comment", form, isAjax, returnFunction, showError);
+	}
+	
+	function deleteComment(form, isAjax, returnFunction, showError){
+		return submitToServer(Comment.deleteComment, "Unable to delete comment", form, isAjax, returnFunction, showError);
+	}
+	
+	function createUser(form, isAjax, returnFunction, showError){
+		return submitToServer(User.createUser, "Unable to create user", form, isAjax, returnFunction, showError);
+	}
+	
+	function updateUser(form, isAjax, returnFunction, showError){
+		return submitToServer(User.updateUser, "Unable to update user", form, isAjax, returnFunction, showError);
+	}
+	
+	function loginUser(form, isAjax, returnFunction, showError){
+		return submitToServer(User.loginUser, "Unable to login user", form, isAjax, returnFunction, showError);
+	}
+	
+	function insertUserContent(form, isAjax, returnFunction, showError){
+		return submitToServer(UserContent.insertContent, "Unable to insert content item", form, isAjax, returnFunction, showError);
+	}
+	
+	function editUserContent(form, isAjax, returnFunction, showError){
+		return submitToServer(UserContent.editContent, "Unable to edit content item", form, isAjax, returnFunction, showError);
+	}
+	
+	function insertProfilePic(form, isAjax, returnFunction, showError){
+		return submitToServer(User.insertProfilePic, "Unable to upload profile photo", form, isAjax, returnFunction, showError);
+	}
+	
+	function addRating(form, isAjax, returnFunction, showError){
+		return submitToServer(Rating.addRating, "Unable to add rating", form, isAjax, returnFunction, showError);
+	}
+	
+	function insertRating(form, isAjax, returnFunction, showError){
+		return submitToServer(Rating.insertRating, "Unable to insert rating", form, isAjax, returnFunction, showError);
+	}
+	
+	function attachAction(form, isAjax, returnFunction, showError){
+		return submitToServer(Action.attachAction, "Unable to attach action", form, isAjax, returnFunction, showError);
+	}
+	
+	function deleteAction(form, isAjax, returnFunction, showError){
+		return submitToServer(Action.deleteAction, "Unable to delete action", form, isAjax, returnFunction, showError);
+	}
+	
+	function insertRanking(form, isAjax, returnFunction, showError){
+		return submitToServer(Ranking.insertRanking, "Unable to insert ranking", form, isAjax, returnFunction, showError);
+	}
+	
+	function submitToServer(method, msg, form, isAjax, returnFunction, showError){
+		method(form, isAjax, returnFunction);
+	
+		if(isAjax){
+			return false;
+		} else {
+			return true;
+		}
+	}
+
 </script>
+
 	
 
 
@@ -586,16 +857,18 @@ function gatherResponse(commentObject) {
 <div id="pageContainer">
 	
 
-																																				<!-- $cms.websiteSection.disablePeel -->
+														<!-- $cms.websiteSection.disablePeel -->
 				
 		
 																																					<!-- $cms.websiteSection.disableTop -->
+			
 							<!-- begin ad tag-->
 				<div style="text-align:center; width:100%; padding-bottom:2px;">
-					<script language="JavaScript" src="http://ad.doubleclick.net/adj/wn.loc.wsaz/home;wnsz=01;sz=728x90;ord=[timestamp]?" type="text/javascript"></script>
-					<noscript><a href="http://ad.doubleclick.net/jump/wn.loc.wsaz/home;wnsz=01;sz=728x90;ord=[timestamp]?" target="_blank"><img src="http://ad.doubleclick.net/ad/wn.loc.wsaz/home;wnsz=01;sz=728x90;ord=[timestamp]?" width="728" height="90" border="0" alt=""></a></noscript>
+					<script language="JavaScript" src="http://ad.doubleclick.net/adj/wn.loc.wsaz/home;wnsz=01;sz=728x90;ord=1305932036856?" type="text/javascript"></script>
+					<noscript><a href="http://ad.doubleclick.net/jump/wn.loc.wsaz/home;wnsz=01;sz=728x90;ord=1305932036856?" target="_blank"><img src="http://ad.doubleclick.net/ad/wn.loc.wsaz/home;wnsz=01;sz=728x90;ord=1305932036856?" width="728" height="90" border="0" alt=""></a></noscript>
 				</div>
 				<!-- End ad tag -->
+						<!-- begin split top of page ad-->
 							
 			
 	
@@ -636,9 +909,6 @@ a.headerpromo2:hover {color: #990000; text-decoration: underline; font-style: no
     <input type="submit" value="Search">
 </form>
 
-
-
-
 </span>
 				<span class="timestamp"><script type="text/javascript" src="http://www.wsaz.com/includes/timestamp.js"></script>
 </span>
@@ -654,35 +924,35 @@ a.headerpromo2:hover {color: #990000; text-decoration: underline; font-style: no
 	
 			
 	<!-- On - With Dropdowns -->
-																																															 		 		 	 		 		 	 		 		 	 		 		 	 		 		 	 		 		 	 		 		 	 		 		 	 		 		 	 		 		 	 		 		 	 		 		 	 		 		 	<!-- Navs Array: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14]  Size: 14 -->
+																																															 		 		 	 		 		 	 		 		 	 		 		 	 		 		 	 		 		 	 		 		 	 		 		 	 		 		 	 		 		 	 		 		 	 		 		 	 		 	 		 		 	<!-- Navs Array: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14]  Size: 14 -->
 <div id="menu_vert">
 <div id="menuwrapper">
 <ul id="primary-nav">
-<li class="menuparent"><a target="_parent" href="http://www.wsaz.com/news">News</a><ul><li><a target="_parent" href="http://www.wsaz.com/news">Regional News</a></li><li><a target="_parent" href="http://www.wsaz.com/charleston">Charleston News</a></li><li><a target="_parent" href="http://www.wsaz.com/huntington">Huntington News</a></li><li><a target="_parent" href="http://www.wsaz.com/newswestvirginia">West Virginia News</a></li><li><a target="_parent" href="http://www.wsaz.com/newskentucky">Kentucky News</a></li><li><a target="_parent" href="http://www.wsaz.com/newsohio">Ohio News</a></li><li><a target="_parent" href="http://www.wsaz.com/political">Politics</a></li><li><a target="_parent" href="http://www.wsaz.com/alwayson">Always On</a></li></ul>
+<li class="menuparent"><a target="_parent" href="http://www.wsaz.com/news">News</a><ul><li><a target="_parent" href="http://www.wsaz.com/news">Regional News</a></li><li><a target="_parent" href="http://www.wsaz.com/charleston">Charleston News</a></li><li><a target="_parent" href="http://www.wsaz.com/huntington">Huntington News</a></li><li><a target="_parent" href="http://www.wsaz.com/newswestvirginia">West Virginia News</a></li><li><a target="_parent" href="http://www.wsaz.com/newskentucky">Kentucky News</a></li><li><a target="_parent" href="http://www.wsaz.com/newsohio">Ohio News</a></li><li><a target="_parent" href="http://www.wsaz.com/political">Politics</a></li><li><a target="_parent" href="http://www.wsaz.com/alwayson">Always On</a></li><li><a target="_parent" href="http://www.wsaz.com/wsazjobs">Jobs with WSAZ</a></li></ul>
 </li>
-<li class="menuparent"><a target="_parent" href="http://www.wsaz.com/weather">Weather</a><ul><li><a target="_parent" href="http://www.wsaz.com/weather">Local Weather</a></li><li><a target="_parent" href="/interactiveradar">Interactive Radar</a></li><li><a target="_parent" href="http://www.wsaz.com/personalforecast">Personal Forecast</a></li><li><a target="_parent" href="http://www.wsaz.com/liveonline">Download Desktop Alert</a></li><li><a target="_parent" href="http://www.wsaz.com/severeWX">Watches &amp; Warnings</a></li><li><a target="_parent" href="http://www.wsaz.com/weather/misc/5139182.html">Road Conditions</a></li><li><a target="_parent" href="http://www.wsaz.com/weather/misc/2595011.html">WeatherCams</a></li></ul>
+<li class="menuparent"><a target="_parent" href="http://www.wsaz.com/weather">Weather</a><ul><li><a target="_parent" href="http://www.wsaz.com/weather">Local Weather</a></li><li><a target="_parent" href="/interactiveradar">Interactive Radar</a></li><li><a target="_parent" href="http://www.wsaz.com/personalforecast">Personal Forecast</a></li><li><a target="_parent" href="http://www.wsaz.com/liveonline">Download Desktop Alert</a></li><li><a target="_parent" href="http://www.wsaz.com/severeWX">Watches &amp; Warnings</a></li><li><a target="_parent" href="http://www.wsaz.com/weather/misc/5139182.html">Road Conditions</a></li><li><a target="_parent" href="http://www.wsaz.com/weather/misc/2595011.html">WeatherCams</a></li><li><a target="_blank" href="http://www.wsaz.com/feature">Winter Guide</a></li></ul>
 </li>
-<li class="menuparent"><a target="_parent" href="http://www.wsaz.com/sports">Sports</a><ul><li><a target="_parent" href="http://www.wsaz.com/ffn">Football Friday Night</a></li><li><a target="_parent" href="http://www.wsaz.com/sports">Local Sports</a></li><li><a target="_parent" href="http://www.wsaz.com/marshallsports">Marshall Sports</a></li><li><a target="_parent" href="http://www.wsaz.com/wvusports">WVU Sports</a></li><li><a target="_blank" href="http://wsaz.upickem.net/upickem/registration/login.asp?contestid=19941">College Football Conference Pick'em</a></li><li><a target="_blank" href="http://wsaz.profootball.upickem.net/profootball/registration/login.asp">Pro Pigskin Pick'em</a></li><li><a target="_blank" href="http://www.london2012.com/">2012 Olympics</a></li></ul>
+<li class="menuparent"><a target="_parent" href="http://www.wsaz.com/sports">Sports</a><ul><li><a target="_parent" href="http://www.wsaz.com/sports">Local Sports</a></li><li><a target="_parent" href="http://www.wsaz.com/marshallsports">Marshall Sports</a></li><li><a target="_parent" href="http://www.wsaz.com/wvusports">WVU Sports</a></li><li><a target="_blank" href="http://www.london2012.com/">2012 Olympics</a></li></ul>
 </li>
-<li class="menuparent"><a target="_parent" href="http://www.wsaz.com/blogs">Blogs</a><ul><li><a target="_parent" href="http://www.wsaz.com/blogs">Latest Blogs</a></li><li><a target="_parent" href="http://www.wsaz.com/blogs/tonysblog?showMore=yes">Tony Cavalier</a></li><li><a target="_parent" href="http://www.wsaz.com/blogs/chrisbaileysblog?showMore=yes">Chris Bailey</a></li><li><a target="_parent" href="http://www.wsaz.com/blogs/askjosh?showMore=yes">Ask Josh</a></li><li><a target="_parent" href="http://www.wsaz.com/blogs/mntv?showMore=yes">Jessica Ralston</a></li><li><a target="_parent" href="http://www.wsaz.com/blogs/milkmoney?showMore=yes">Milk Money</a></li></ul>
+<li class="menuparent"><a target="_parent" href="http://www.wsaz.com/blogs">Blogs</a><ul><li><a target="_parent" href="http://www.wsaz.com/blogs/tonysblog?showMore=yes">Tony Cavalier</a></li><li><a target="_parent" href="http://www.wsaz.com/blogs/chrisbaileysblog?showMore=yes">Chris Bailey</a></li><li><a target="_parent" href="http://www.wsaz.com/blogs/askjosh?showMore=yes">Ask Josh</a></li><li><a target="_parent" href="http://www.wsaz.com/blogs/mntv?showMore=yes">Jessica Ralston</a></li></ul>
 </li>
-<li class="menuparent"><a target="_parent" href="http://www.wsaz.com/featuredlinks"><font color="yellow">Find It</font></a><ul><li><a target="_parent" href="http://www.wsaz.com/programming/misc/35050109.html">On TV Now</a></li><li><a target="_parent" href="http://www.wsaz.com/featuredlinks">Featured Links</a></li><li><a target="_parent" href="http://www.wsaz.com/toy">Salvation Army Toy Drive</a></li><li><a target="_parent" href="http://www.wsaz.com/lottery">Lottery Results</a></li><li><a target="_blank" href="http://wsaz.upickem.net/engine/Welcome.aspx?contestid=12886">WSAZ VIP</a></li><li><a target="_parent" href="http://www.wsaz.com/sitemap">Site Map</a></li></ul>
+<li class="menuparent"><a target="_parent" href="http://www.wsaz.com/featuredlinks"><font color="yellow">Find It</font></a><ul><li><a target="_parent" href="http://www.wsaz.com/bestoftheclass">Best of The Class</a></li><li><a target="_parent" href="http://www.wsaz.com/programming/misc/35050109.html">On TV Now</a></li><li><a target="_parent" href="http://www.wsaz.com/featuredlinks">Featured Links</a></li><li><a target="_parent" href="http://www.wsaz.com/healthytristate">Healthy TriState </a></li><li><a target="_parent" href="http://www.wsaz.com/wsazjobs ">Jobs with WSAZ</a></li><li><a target="_parent" href="http://www.wsaz.com/lottery/wv">West Virginia Lottery</a></li><li><a target="_parent" href="http://www.wsaz.com/lottery/oh">Ohio Lottery</a></li><li><a target="_parent" href="http://www.wsaz.com/lottery/ky">Kentucky Lottery</a></li><li><a target="_parent" href="http://www.wsaz.com/toy/misc/109962179.html">Text2Give</a></li><li><a target="_parent" href="http://www.wsaz.com/sitemap">Site Map</a></li></ul>
 </li>
-<li class="menuparent"><a target="_parent" href="http://www.wsaz.com/community">Life</a><ul><li><a target="_parent" href="http://www.wsaz.com/programming/misc/35050109.html">On TV Now</a></li><li><a target="_parent" href="http://wn.wsaz.com/global/Category.asp?C=171075">Healthy Connections</a></li><li><a target="_parent" href="http://www.wsaz.com/healthytristate">Healthy Tri-State</a></li><li><a target="_parent" href="http://www.wsaz.com/homecentral">HomeCentral</a></li><li><a target="_parent" href="http://www.wsaz.com/toy">Salvation Army Toy Drive</a></li><li><a target="_parent" href="http://www.wsaz.com/johnmarra">John Marra</a></li><li><a target="_parent" href="http://www.wsaz.com/entertainment">NBC Previews</a></li><li><a target="_parent" href="http://www.wsaz.com/community">Calendar</a></li><li><a target="_parent" href="http://www.wsaz.com/thelink">The Link</a></li><li><a target="_parent" href="http://www.wsaz.com/hometownhero">Hometown Hero</a></li><li><a target="_parent" href="http://www.wsaz.com/carrieskids">Carrie's Kids</a></li><li><a target="_parent" href="http://www.wsaz.com/mrfood">Mr Food</a></li><li><a target="_parent" href="http://www.wsaz.com/outdoors">The Great Outdoors</a></li><li><a target="_parent" href="http://www.wsaz.com/entertainment">Entertainment</a></li><li><a target="_parent" href="http://www.wsaz.com/green">Going Green</a></li><li><a target="_parent" href="http://www.wsaz.com/pets">Pet Place</a></li><li><a target="_parent" href="http://www.wsaz.com/recipes">Recipes</a></li><li><a target="_parent" href="http://www.wsaz.com/flu">Swine Flu</a></li></ul>
+<li class="menuparent"><a target="_parent" href="http://www.wsaz.com/community">Life</a><ul><li><a target="_blank" href="http://www.momseveryday.com/wsaz">Moms Everyday</a></li><li><a target="_parent" href="http://www.wsaz.com/healthytristate">Healthy Tri-State</a></li><li><a target="_parent" href="http://wn.wsaz.com/global/Category.asp?C=171075">Healthy Connections</a></li><li><a target="_parent" href="http://www.wsaz.com/programming/misc/35050109.html">On WSAZ Now</a></li><li><a target="_parent" href="http://www.wsaz.com/johnmarra">John Marra</a></li><li><a target="_parent" href="http://www.wsaz.com/outdoors">Tom Clay Great Outdoors</a></li><li><a target="_parent" href="http://www.wsaz.com/thelink">The Link</a></li><li><a target="_parent" href="http://www.wsaz.com/community">Community Calendar</a></li><li><a target="_parent" href="http://www.wsaz.com/mrfood">Mr Food</a></li><li><a target="_parent" href="http://www.wsaz.com/hometownhero">Hometown Hero</a></li><li><a target="_parent" href="http://www.wsaz.com/green">Going Green</a></li><li><a target="_parent" href="http://www.wsaz.com/entertainment">NBC Previews</a></li><li><a target="_parent" href="http://www.wsaz.com/entertainment">Entertainment</a></li><li><a target="_parent" href="http://www.wsaz.com/pets">Pet Place</a></li><li><a target="_parent" href="http://www.wsaz.com/carrieskids">Carrie's Kids</a></li><li><a target="_parent" href="http://www.wsaz.com/wsazjobs ">Jobs with WSAZ</a></li><li><a target="_parent" href="http://www.wsaz.com/recipes">Recipes</a></li><li><a target="_parent" href="http://www.wsaz.com/flu">Swine Flu</a></li><li><a target="_parent" href="http://www.wsaz.com/toy/misc/109962179.html">Children's Charities Text2Give</a></li></ul>
 </li>
 <li class="menuparent"><a target="_parent" href="http://www.wsaz.com/dollarsandsense">Economy</a><ul><li><a target="_parent" href="http://www.wsaz.com/consumer">Consumer &amp; Recalls</a></li><li><a target="_parent" href="http://www.wsaz.com/dollarsandsense">Dollars &amp; Sense</a></li><li><a target="_parent" href="http://www.wsaz.com/gasprices">Gas Prices</a></li><li><a target="_parent" href="http://www.wsaz.com/dollarsandsense/misc/39397942.html">Survival Guide</a></li></ul>
 </li>
-<li class="menuparent"><a target="_parent" href="http://www.wsaz.com/home/misc/17745424.html">Contests</a><ul><li><a target="_blank" href="http://wsaz.upickem.net/engine/Welcome.aspx?contestid=22565">Wake Up &amp; Win</a></li><li><a target="_blank" href="http://wsaz.upickem.net/upickem/registration/login.asp?contestid=19941">College Football Pick'em</a></li><li><a target="_blank" href="http://wsaz.profootball.upickem.net/profootball/registration/login.asp">Pro Pigskin Pick'em</a></li><li><a target="_blank" href="http://wsaz.autoracing.upickem.net/autoracing/registration/login.asp">Race for the Cup</a></li><li><a target="_blank" href="http://www.wsaz.com/lottery">Lottery Results</a></li><li><a target="_blank" href="http://www.sonypictures.com/mobile/wheeloffortune/">Wheel of Fortune</a></li><li><a target="_blank" href="http://www.wsaz.com/jeopardy">Play Jeopardy</a></li></ul>
+<li class="menuparent"><a target="_parent" href="http://www.wsaz.com/home/misc/17745424.html">Contests</a><ul><li><a target="_parent" href="http://wsaz.upickem.net/engine/Welcome.aspx?contestid=30654">May Umbrella Giveaway</a></li><li><a target="_blank" href="http://wsaz.upickem.net/engine/Welcome.aspx?contestid=30811">Camden Park Tickets</a></li><li><a target="_blank" href="http://wsaz.upickem.net/engine/Welcome.aspx?contestid=30705">One Tank Getaway</a></li><li><a target="_blank" href="http://wsaz.upickem.net/engine/Welcome.aspx?contestid=32675">Barney's Birthday Bash</a></li><li><a target="_blank" href="http://wsaz.autoracing.upickem.net/autoracing/registration/login.asp">Race For The Cup</a></li><li><a target="_blank" href="http://www.wsaz.com/lottery">Lottery Results</a></li><li><a target="_blank" href="http://www.sonypictures.com/mobile/wheeloffortune/">Wheel of Fortune</a></li><li><a target="_blank" href="http://www.wsaz.com/jeopardy">Play Jeopardy</a></li></ul>
 </li>
-<li class="menuparent"><a target="_blank" href="http://www.wsazclassifieds.com/">Classifieds</a><ul><li><a target="_blank" href="http://www.wsazclassifieds.com/index.php?a=5&amp;b=221">Local Jobs</a></li><li><a target="_blank" href="http://www.wsazclassifieds.com/index.php?a=5&amp;b=196">Cars/Trucks</a></li><li><a target="_blank" href="http://www.wsazclassifieds.com/index.php?a=5&amp;b=213">Garage/Yard Sales</a></li><li><a target="_blank" href="http://www.wsazclassifieds.com/index.php?a=5&amp;b=16">Real Estate</a></li><li><a target="_blank" href="http://www.wsazclassifieds.com/index.php?a=5&amp;b=193">Everything Else</a></li></ul>
+<li class="menuparent"><a target="_blank" href="http://www.wsazclassifieds.com/">Classifieds</a><ul><li><a target="_parent" href="http://www.wsaz.com/wsazjobs ">Jobs with WSAZ</a></li><li><a target="_blank" href="http://www.wsazclassifieds.com/index.php?a=5&amp;b=221">Local Jobs</a></li><li><a target="_blank" href="http://www.wsazclassifieds.com/index.php?a=5&amp;b=196">Cars/Trucks</a></li><li><a target="_blank" href="http://www.wsazclassifieds.com/index.php?a=5&amp;b=213">Garage/Yard Sales</a></li><li><a target="_blank" href="http://www.wsazclassifieds.com/index.php?a=5&amp;b=16">Real Estate</a></li><li><a target="_blank" href="http://www.wsazclassifieds.com/index.php?a=5&amp;b=193">Everything Else</a></li></ul>
 </li>
-<li class="menuparent"><a target="_parent" href="http://wsaz.mycapture.com/mycapture/photos/index.aspx">e-Reporter</a><ul><li><a target="_parent" href="http://wsaz.mycapture.com/mycapture/photos/index.aspx">Photo Galleries</a></li><li><a target="_parent" href="http://www.wsaz.com/ereporter/misc/35151619.html">Submit Pictures</a></li></ul>
+<li class="menuparent"><a target="_parent" href="http://wsaz.mycapture.com/mycapture/photos/index.aspx">e-Reporter</a><ul><li><a target="_parent" href="http://www.wsaz.com/ereporter/misc/35151619.html">Submit Pictures</a></li><li><a target="_parent" href="http://wsaz.mycapture.com/mycapture/photos/index.aspx">Photo Galleries</a></li></ul>
 </li>
-<li class="menuparent"><a target="_parent" href="http://www.wsaz.com/closings">Closings</a><ul><li><a target="_parent" href="http://www.wsaz.com/closings">Current Closings</a></li><li><a target="_parent" href="http://www.wsaz.com/mobile/headlines/83400852.html">Closing Alerts</a></li></ul>
+<li class="menuparent"><a target="_parent" href="http://www.wsaz.com/closings">Closings</a><ul><li><a target="_parent" href="http://www.wsaz.com/closings">Current Closings</a></li><li><a target="_parent" href="http://www.wsaz.com/mobile/headlines/83400852.html">Text &amp; E-mail Alerts</a></li></ul>
 </li>
-<li class="menuparent"><a target="_parent" href="http://www.wsaz.com/station">WSAZ Info</a><ul><li><a target="_parent" href="http://www.wsaz.com/station">News Team</a></li><li><a target="_parent" href="http://www.wsaz.com/station/misc/2668581.html">Sales Team</a></li><li><a target="_parent" href="http://www.wsaz.com/station/misc/4969316.html">Contact Us</a></li><li><a target="_parent" href="http://www.wsaz.com/programming">Programming Info</a></li><li><a target="_parent" href="http://www.wsaz.com/wsazevents">WSAZ Events</a></li><li><a target="_parent" href="http://www.wsaz.com/station/misc/9625927.html">Children's Charities</a></li><li><a target="_blank" href="http://www.wsazclassifieds.com/index.php?a=2&amp;b=17572">WSAZ Local Sales Manager Opening</a></li><li><a target="_blank" href="http://www.wsazclassifieds.com/index.php?a=2&amp;b=14970">WSAZ Account Executive Opening</a></li><li><a target="_parent" href="http://www.wsaz.com/wsazhistory">Station History</a></li><li><a target="_parent" href="http://www.wsaz.com/station/misc/2441702.html">DTV &amp; HDTV</a></li></ul>
+<li class="menuparent"><a target="_parent" href="http://www.wsaz.com/station">WSAZ Info</a><ul><li><a target="_parent" href="http://www.wsaz.com/wsazevents/headlines/2580746.html?refresh">WSAZ 2011 H&amp;G Show</a></li><li><a target="_parent" href="http://www.wsaz.com/station">News Team</a></li><li><a target="_parent" href="http://www.wsaz.com/station/misc/2668581.html">Sales Team</a></li><li><a target="_parent" href="http://www.wsaz.com/station/misc/4969316.html">Contact Us</a></li><li><a target="_parent" href="http://www.wsaz.com/programming">Programming Info</a></li><li><a target="_parent" href="http://www.wsaz.com/wsazevents">WSAZ Events</a></li><li><a target="_parent" href="http://www.wsaz.com/wsazjobs ">Jobs with WSAZ</a></li><li><a target="_parent" href="http://www.wsaz.com/wsazhistory">Station History</a></li><li><a target="_parent" href="http://www.wsaz.com/station/misc/2441702.html">DTV &amp; HDTV</a></li><li><a target="_parent" href="http://www.wsaz.com/toy/misc/109962179.html">Children Charities Test2Give</a></li></ul>
 </li>
-<li class="menuparent"><a target="_blank" href="http://www.wsazobits.com">Obituaries</a><ul></ul>
+<li class="menuparent"><a target="_blank" href="http://www.wsaz.com/bestoftheclass">Best of Class</a><ul></ul>
 </li>
 </ul>
 </div>
@@ -745,7 +1015,7 @@ a.headerpromo2:hover {color: #990000; text-decoration: underline; font-style: no
 
 <!-- startclickprintinclude -->
 <div class="contentModule" style="background:none; border:none;">
-	<div id="headerContainer" style="padding:5px; background-color:#FFFFFF; border:1px solid #999999;">
+	<div id="headerContainer" style="padding:5px; background-color:#FFFFFF; border:1px solid #999999; overflow:hidden;">
     	<table width="100%">
 <!-- startclickprintexclude -->
         <tbody><tr>
@@ -762,13 +1032,14 @@ a.headerpromo2:hover {color: #990000; text-decoration: underline; font-style: no
 			</td>
 		</tr>
 <!-- endclickprintexclude -->
-		<tr>
+				<tr>
 			<td style="vertical-align:top;">
+<!-- Live Date: 2008-11-10 13:09:27.0 | Modifed Date: 2010-08-09 11:58:21.0 -->
 															<span style="font-size:9pt; padding:2px; color:#999999;">Updated: 2:58 PM Aug 9, 2010<br></span>
-													<div style="text-align:left; padding:4px 0 2px; font-size:18pt;">
-											GRAY TELEVISION, INC.  PRIVACY POLICY AND YOUR PRIVACY RIGHTS
-									</div>
-								<div style="text-align:left; padding:6px 2px 0; width:90%;">
+																		<div style="text-align:left; padding:4px 0 2px; font-size:18pt;">
+						GRAY TELEVISION, INC.  PRIVACY POLICY AND YOUR PRIVACY RIGHTS
+					</div>
+												<div style="text-align:left; padding:6px 2px 0; width:90%;">
 											<div style="padding:0 0 5px;">Privacy Policy</div>
 																							<span style="font-size:9pt; font-weight:bold; text-align:left;">Posted: </span><span class="title" style="font-weight:normal">4:09 PM Nov 10, 2008</span><br>
 																											
@@ -1021,9 +1292,10 @@ Copyright © 2010 Gray Television, Inc. All Rights Reserved.</span>
 
 																		        </div>
   
-        							
+        								
+						
 			
-						            		
+						            								
             </div>
 </div>
 <!-- endclickprintinclude -->
@@ -1031,25 +1303,47 @@ Copyright © 2010 Gray Television, Inc. All Rights Reserved.</span>
 		</div>
 		<!-- ${story.display} -->
 					<div id="rightColumn">
-																															
+																																
 			
-																								
+														<div class="contentModule" ondblclick="window.status=118655779">
 
 
 
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <style>
+#jackpotsmall {
+color:#fff; 
+font-weight:bold;
+position:relative;
+top:45px;
+left:65px;
+font-size:14pt;
+}
 
+#jackpotsmall:hover {cursor:hand}
+#jackpotlarge:hover {cursor:hand}
 
-
-
-
-
-					<div class="contentModule" ondblclick="window.status=35050219">
-						 																					<center><font size="1"><a href="http://www.wsaz.com/mobi">Go to our mobile site</a>  |  <a href="" onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.wsaz.com');" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">Make this your homepage (IE)</a></font></center>
-																		</div>
+#jackpotlarge{
+color:#fff; 
+font-weight:bold;
+position:relative;
+top:18px;
+left:195px;
+font-size:14pt;
+}
+</style>
+<div style="width:300px; position:relative; height:90px; background-image:url(http://media.graytvinc.com/designimages/wsaz300x600pp.jpg);" onclick="return MyLink()">
+<div id="jackpotsmall">$120,000,000</div>
+</div>
+<script>
+function MyLink(){
+window.open('http://www.wvlottery.com/');
+}
+</script>
+</div>
 										 
 																	
 			
-																								
+																				
 
 
 
@@ -1059,13 +1353,13 @@ Copyright © 2010 Gray Television, Inc. All Rights Reserved.</span>
 
 
 
-					<div class="contentModule" ondblclick="window.status=80505107">
-						 																					<a href="http://www.wsaz.com/weather"><img src="http://gray.ftp.clickability.com/wsazwebftp/wx1_lg_ani.gif" border="0" width="300" height="200"></a>
-																		</div>
-										 
+						<div class="contentModule" ondblclick="window.status=35050219">
+							 																								<center><font size="1"><a href="http://www.wsaz.com/mobi">Go to our mobile site</a>  |  <a href="" onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.wsaz.com');" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">Make this your homepage (IE)</a></font></center>
+																					</div>
+															 
 																	
 			
-																								
+																				
 
 
 
@@ -1075,19 +1369,48 @@ Copyright © 2010 Gray Television, Inc. All Rights Reserved.</span>
 
 
 
-					<div class="contentModule" ondblclick="window.status=52581662">
-						<div class="header" ondblclick="window.status=52581662">Live Feed Now on the <i>Always On Channel</i></div>  																					<table size="100%">
+						<div class="contentModule" ondblclick="window.status=80505107">
+							 																								<a href="http://www.wsaz.com/weather"><img src="http://gray.ftp.clickability.com/wsazwebftp/wx1_lg_ani.gif" border="0" width="300" height="200"></a>
+																					</div>
+															 
+																	
+			
+																				
+
+
+
+
+
+
+
+
+
+						<div class="contentModule" ondblclick="window.status=52581662">
+							<div class="header" ondblclick="window.status=52581662">Live Feed Now on the <i>Always On Channel</i></div>  																								<table size="100%">
   <tbody><tr>
     <td width="300" border="0" cellspacing="1" cellpadding="3" style="background: #eeeeee; border:1px solid #ffffff">
 <ul><li><a href="http://www.wsaz.com/alwayson">Huntington Tower Camera</a></li></ul>
     </td>
   </tr>
 </tbody></table>
-																		</div>
+																					</div>
+															 
+																	
+			
+														<div class="adModule">
+
+
+
+<div style="text-align:center; width:100%; padding-bottom:2px;">
+<script language="JavaScript" src="http://ad.doubleclick.net/adj/wn.loc.wsaz/home;wnsz=07;sz=300x250;ord=[timestamp]?" type="text/javascript"></script>
+<noscript><a href="http://ad.doubleclick.net/jump/wn.loc.wsaz/home;wnsz=07;sz=300x250;ord=[timestamp]?" target="_blank"><img src="http://ad.doubleclick.net/ad/wn.loc.wsaz/home;wnsz=07;sz=300x250;ord=[timestamp]?" width="300" height="250" border="0" alt=""></a></noscript>
+</div>
+
+</div>
 										 
 																	
 			
-																								
+																				
 
 
 
@@ -1097,8 +1420,8 @@ Copyright © 2010 Gray Television, Inc. All Rights Reserved.</span>
 
 
 
-					<div class="contentModule" ondblclick="window.status=30879874">
-						 																					<center><style type="text/css">
+						<div class="contentModule" ondblclick="window.status=30879874">
+							 																								<center><style type="text/css">
 #divWNVideoCanvas11034 {top:25px; left:0px; position:absolute}
 #divWNGallery11034 {top:290px; left:0px; position:absolute}
 #divWNHeadline11034 {top:0px; left:0px; position:absolute}
@@ -1161,24 +1484,27 @@ WNHeadline11034.SetHeight(25);
 WNHeadline11034.RenderWidget();
 
 </script></center>
-																		</div>
-										 
+																					</div>
+															 
 																	
 			
-														<div class="adModule">
+																				
 
 
 
-<div style="text-align:center; width:100%; padding-bottom:2px;">
-<script language="JavaScript" src="http://ad.doubleclick.net/adj/wn.loc.wsaz/home;wnsz=07;sz=300x250;ord=[timestamp]?" type="text/javascript"></script>
-<noscript><a href="http://ad.doubleclick.net/jump/wn.loc.wsaz/home;wnsz=07;sz=300x250;ord=[timestamp]?" target="_blank"><img src="http://ad.doubleclick.net/ad/wn.loc.wsaz/home;wnsz=07;sz=300x250;ord=[timestamp]?" width="300" height="250" border="0" alt=""></a></noscript>
-</div>
 
-</div>
-										 
+
+
+
+
+
+						<div class="contentModule" ondblclick="window.status=40420462" style="border: 0px solid #000000;">
+							 																								<script type="text/javascript">var towsAffiliateID="WSAZ";</script><script type="text/javascript" src="http://media.oprah.com/flash/widget/tows/twix_embed.js"></script>
+																					</div>
+															 
 																	
 			
-																								
+																				
 
 
 
@@ -1188,8 +1514,8 @@ WNHeadline11034.RenderWidget();
 
 
 
-					<div class="contentModule" ondblclick="window.status=102334974" style="border: 0px solid #000000;">
-						 																					<table width="510" border="0" cellspacing="0" cellpadding="0">
+						<div class="contentModule" ondblclick="window.status=102334974" style="border: 0px solid #000000;">
+							 																								<table width="510" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr>
     <td><!-- Eviesays Calendar Widget Headers (place in header or before the widget in the body) -->
     <script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js"></script>
@@ -1228,11 +1554,11 @@ WNHeadline11034.RenderWidget();
   <!-- END Eviesays Calendar Widget --></td>
   </tr>
 </tbody></table>
-																		</div>
-										 
+																					</div>
+															 
 																	
 			
-																								
+																				
 
 
 
@@ -1242,16 +1568,16 @@ WNHeadline11034.RenderWidget();
 
 
 
-					<div class="contentModule" ondblclick="window.status=52355842" style="border: 0px solid #000000;">
-						 																					<table cellpadding="0" cellspacing="0"><tbody><tr><td><form style="margin:0;" target="_top" method="GET" action="http://local.wsaz.com/search.pg">
+						<div class="contentModule" ondblclick="window.status=52355842" style="border: 0px solid #000000;">
+							 																								<table cellpadding="0" cellspacing="0"><tbody><tr><td><form style="margin:0;" target="_top" method="GET" action="http://local.wsaz.com/search.pg">
 WSAZ Digital Business Search</form></td></tr><tr><td>
 <input name="q" style="width:150px;border-width:2;" type="TEXT" maxlength="50" value=""></td><td> <input type="SUBMIT" style="font-size:8pt;" value="Search"></td></tr>
 <tr><td>
 <span style="font-size:7pt;color:gray;"><a onclick="el = document.getElementById('pgmenu2'); el.style.display = (el.style.display == 'block' ? 'none' : 'block'); return false;" href="http://local.wsaz.com">Popular Searches</a><div style="display:none;font-size:8pt;" id="pgmenu2"> <a href="http://local.wsaz.com/Huntington%2C+WV/Apartments.zq.html">Apartments in Huntington, WV</a><br> <a href="http://local.wsaz.com/Huntington%2C+WV/Attorneys.zq.html">Attorneys in Huntington, WV</a><br> <a href="http://local.wsaz.com/Huntington%2C+WV/Auto+Dealers.zq.html">Auto Dealers in Huntington, WV</a><br> <a href="http://local.wsaz.com/Huntington%2C+WV/Auto+Parts.zq.html">Auto Parts in Huntington, WV</a><br> <a href="http://local.wsaz.com/Huntington%2C+WV/Auto+Repair.zq.html">Auto Repair in Huntington, WV</a><br> <a href="http://local.wsaz.com/Huntington%2C+WV/Beauty+Salons.zq.html">Beauty Salons in Huntington, WV</a><br> <a href="http://local.wsaz.com/Huntington%2C+WV/Car+Rental.zq.html">Car Rental in Huntington, WV</a><br> <a href="http://local.wsaz.com/Huntington%2C+WV/Dentists.zq.html">Dentists in Huntington, WV</a><br> <a href="http://local.wsaz.com/Huntington%2C+WV/Doctors.zq.html">Doctors in Huntington, WV</a><br> <a href="http://local.wsaz.com/Huntington%2C+WV/Flowers.zq.html">Flowers in Huntington, WV</a><br> <a href="http://local.wsaz.com/Huntington%2C+WV/Hotels.zq.html">Hotels in Huntington, WV</a><br> <a href="http://local.wsaz.com/Huntington%2C+WV/Insurance.zq.html">Insurance in Huntington, WV</a><br> <a href="http://local.wsaz.com/Huntington%2C+WV/Loans.zq.html">Loans in Huntington, WV</a><br> <a href="http://local.wsaz.com/Huntington%2C+WV/Mortgages.zq.html">Mortgages in Huntington, WV</a><br> <a href="http://local.wsaz.com/Huntington%2C+WV/Movers.zq.html">Movers in Huntington, WV</a><br> <a href="http://local.wsaz.com/Huntington%2C+WV/Pizza.zq.html">Pizza in Huntington, WV</a><br> <a href="http://local.wsaz.com/Huntington%2C+WV/Realtors.zq.html">Realtors in Huntington, WV</a><br> <a href="http://local.wsaz.com/Huntington%2C+WV/Restaurants.zq.html">Restaurants in Huntington, WV</a><br> <a href="http://local.wsaz.com/Huntington%2C+WV/Storage.zq.html">Storage in Huntington, WV</a><br> <a href="http://local.wsaz.com/Huntington%2C+WV/Tax+Preparation.zq.html">Tax Preparation in Huntington, WV</a><br> <a href="http://local.wsaz.com/Huntington%2C+WV/Travel.zq.html">Travel in Huntington, WV</a><br> <a href="http://local.wsaz.com/allads.q.html">Featured</a><br> <a href="http://local.wsaz.com">More...</a></div><br>Powered by <a style="text-decoration:none;" href="http://www.local.com">Local.com</a></span></td></tr>
 </tbody></table>
 
-																		</div>
-										 
+																					</div>
+															 
 																		
 			
 														<div class="contentModule" ondblclick="window.status=35291454">
@@ -1274,25 +1600,19 @@ WSAZ Digital Business Search</form></td></tr><tr><td>
 	<div id="rcontent0" class="tabcontent" align="left">
 		<div class="linksholder" align="left">
 		<ul>
-			                                                                                     				<li><a target="_blank" class="title" href="http://www.cnn.com/2010/WORLD/europe/11/20/nato.afghanistan.agreement/index.html?eref=rss_topstories">NATO agrees to keep forces in Afghanistan after 2014</a>
+			                                                                                     				<li><a target="_blank" class="title" href="http://www.cnn.com/2011/CRIME/05/20/new.york.imf.kahn.release/index.html?eref=rss_topstories">Ex-IMF chief out on bail</a>
 				</li>
-                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://www.cnn.com/2010/WORLD/asiapcf/11/20/new.zealand.coal.mine/index.html?eref=rss_topstories">Gas levels prevent NZ mine rescue</a>
+                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://www.cnn.com/2011/WORLD/africa/05/20/libya.war/index.html?eref=rss_topstories">NATO jets destroy 8 Libyan warships</a>
 				</li>
-                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://www.cnn.com/2010/SHOWBIZ/celebrity.news.gossip/11/19/publicist.killed/index.html?eref=rss_topstories">Fear, speculation follow publicist killing</a>
+                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://www.cnn.com/2011/POLITICS/05/20/obama.netanyahu.meeting/index.html?eref=rss_topstories">Netanyahu: No going back to '67 lines</a>
 				</li>
-                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://www.cnn.com/2010/WORLD/americas/11/19/colombia.rain.calamity/index.html?eref=rss_topstories">Floods, mudslides kill 136 in Colombia</a>
+                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://www.cnn.com/2011/US/05/20/terror.alert/index.html?eref=rss_topstories">Bin Laden raid leads to police warning</a>
 				</li>
-                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://www.cnn.com/2010/US/11/19/alaska.plane.crash/index.html?eref=rss_topstories">Air Force: Alaska crash killed F-22 pilot</a>
+                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://www.cnn.com/2011/US/05/19/cnnheroes.becky.fawcett/index.html?eref=rss_topstories">Adoptive mom helps 'birth' 43 families</a>
 				</li>
-                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://www.cnn.com/2010/LIVING/11/19/cnnheroes.cooper.parks/index.html?eref=rss_topstories">Who is Anderson Cooper's hero?</a>
+                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://www.cnn.com/2011/OPINION/05/20/navarrette.romney.regular.guy/index.html?eref=rss_topstories">Navarrette: Can you relate to Romney?</a>
 				</li>
-                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://www.cnn.com/2010/CRIME/11/20/utah.ranger.shot/index.html?eref=rss_topstories">Utah park ranger shot during patrol</a>
-				</li>
-                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://www.cnn.com/2010/WORLD/americas/11/20/mexico.consulate.shooting/index.html?eref=rss_topstories">Arrest made in Juarez consulate killings</a>
-				</li>
-                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://www.cnn.com/2010/SHOWBIZ/TV/11/20/california.suspicious.powder/index.html?eref=rss_topstories">White powder sent to 'DWTS' studio</a>
-				</li>
-                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://www.cnn.com/2010/CRIME/11/19/georgia.judge.stripper/index.html?eref=rss_topstories">Judge plea: I paid stripper to buy drugs</a>
+                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://www.cnn.com/2011/TECH/web/05/20/playboy.issues.online/index.html?eref=rss_topstories">Playboy puts 57 years of nudity online</a>
 				</li>
                                                                                      					</ul>
                                         </div>
@@ -1300,25 +1620,25 @@ WSAZ Digital Business Search</form></td></tr><tr><td>
 	<div id="rcontent1" class="tabcontent" align="left">
 		<div class="linksholder" align="left">
 		<ul>
-			                                                                                     				<li><a target="_blank" class="title" href="http://rss.cnn.com/~r/rss/cnn_us/~3/WQEKelLeCtE/index.html">Lansing mayor relieved by GM comeback</a>
+			                                                                                     				<li><a target="_blank" class="title" href="http://rss.cnn.com/~r/rss/cnn_us/~3/LfCfZ02wBmw/index.html">Why would-be engineers major in English</a>
 				</li>
-                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://rss.cnn.com/~r/rss/cnn_us/~3/gVSB78O8660/index.html">U.S. pilots to get speedier screening procedures</a>
+                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://rss.cnn.com/~r/rss/cnn_us/~3/YpNV6pc2oGY/index.html">Floodwaters could linger for weeks</a>
 				</li>
-                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://rss.cnn.com/~r/rss/cnn_us/~3/SbOCGfFc6CI/index.html">Getting touchy-feely at the airport</a>
+                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://rss.cnn.com/~r/rss/cnn_us/~3/yHtDPzfOtbs/index.html">Ex-chief to get $250,000 from IMF</a>
 				</li>
-                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://rss.cnn.com/~r/rss/cnn_us/~3/QrJJckpi7GU/index.html">Air Force: F-22 pilot died in Alaska crash</a>
+                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://rss.cnn.com/~r/rss/cnn_us/~3/uQ4SkVyamOQ/index.html">Jury selection clears 16 candidates for Casey Anthony panel</a>
 				</li>
-                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://rss.cnn.com/~r/rss/cnn_us/~3/1oaamRVyxbo/index.html">Airbag credited with saving choking man</a>
+                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://rss.cnn.com/~r/rss/cnn_us/~3/dfKP1C_8Hv8/index.html">Obama and Netanyahu to meet at the White House</a>
 				</li>
-                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://rss.cnn.com/~r/rss/cnn_us/~3/yxIIUPmsAmM/index.html">Website takes votes on whether woman should get abortion</a>
+                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://rss.cnn.com/~r/rss/cnn_us/~3/1hoIi0jzflw/index.html">NASA schedules final space shuttle mission</a>
 				</li>
-                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://rss.cnn.com/~r/rss/cnn_us/~3/hgXrju_MZ1g/index.html">Report: Agency failed to follow procedures in off-road race crash</a>
+                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://rss.cnn.com/~r/rss/cnn_us/~3/_T9r-Ij9AqI/index.html">Lawyer for alleged Fort Hood shooter makes case for no death penalty</a>
 				</li>
-                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://rss.cnn.com/~r/rss/cnn_us/~3/GbvbPJ0HXc0/index.html">Florida airport considers ditching TSA</a>
+                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://rss.cnn.com/~r/rss/cnn_us/~3/hCruNtUh-_U/index.html">Hispanics lead U.S. embrace of mobile technology</a>
 				</li>
-                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://rss.cnn.com/~r/rss/cnn_us/~3/KjnL3aE5wQc/index.html">Federal judge pleads guilty to drug charges</a>
+                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://rss.cnn.com/~r/rss/cnn_us/~3/Bq28OiS-3iU/index.html">FBI: We want Unabomber's DNA in 1982 Tylenol case</a>
 				</li>
-                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://rss.cnn.com/~r/rss/cnn_us/~3/R2i0tqG-S7k/index.html">9/11 workers approve settlement with New York City</a>
+                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://rss.cnn.com/~r/rss/cnn_us/~3/TvZTL4r_yWA/index.html">2 tractor-trailers, 513 illegal immigrants</a>
 				</li>
                                                                                      					</ul>
                                         </div>
@@ -1326,25 +1646,25 @@ WSAZ Digital Business Search</form></td></tr><tr><td>
 	<div id="rcontent2" class="tabcontent" align="left">
 		<div class="linksholder" align="left">
 		<ul>
-			                                                                                     				<li><a target="_blank" class="title" href="http://rss.cnn.com/~r/rss/cnn_world/~3/EmhFPXSBhy0/index.html">NATO, Afghans agree to long-term ties</a>
+			                                                                                     				<li><a target="_blank" class="title" href="http://rss.cnn.com/~r/rss/cnn_world/~3/71-8OWevs0I/index.html">Discovery leads to 'honor killing' outrage</a>
 				</li>
-                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://rss.cnn.com/~r/rss/cnn_world/~3/7bk1OAdWGdg/index.html">Gas prevents New Zealand mine rescue</a>
+                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://rss.cnn.com/~r/rss/cnn_world/~3/77JaEK592m8/index.html">Ex-IMF chief gets bail, set to leave jail</a>
 				</li>
-                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://rss.cnn.com/~r/rss/cnn_world/~3/zeJuZswEbTc/index.html">Clashes rock Egypt ahead of elections</a>
+                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://rss.cnn.com/~r/rss/cnn_world/~3/iOvXAJAkpR0/index.html">NATO destroys 8 Libyan warships</a>
 				</li>
-                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://rss.cnn.com/~r/rss/cnn_world/~3/R5Lp1Q-QYZA/index.html">U.S. says it would put commitments to Israel in writing</a>
+                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://rss.cnn.com/~r/rss/cnn_world/~3/mpWpcjkIraU/index.html">Obama and Netanyahu to meet at the White House</a>
 				</li>
-                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://rss.cnn.com/~r/rss/cnn_world/~3/qqqFFeZefOA/index.html">Nigeria: Heroin was shipped from Iran</a>
+                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://rss.cnn.com/~r/rss/cnn_world/~3/V13EjR6tsaM/index.html">Earthquake hits western Turkey</a>
 				</li>
-                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://rss.cnn.com/~r/rss/cnn_world/~3/a7e1F1Iw9Ck/index.html">Plea yields tents for Kenyan refugees</a>
+                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://rss.cnn.com/~r/rss/cnn_world/~3/caB95jg_PDw/index.html">U.N.: Refugees from besieged Syrian town flee to Lebanon</a>
 				</li>
-                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://rss.cnn.com/~r/rss/cnn_world/~3/qHELsxq4kew/index.html">U.N. condemns human rights violations in Iran</a>
+                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://rss.cnn.com/~r/rss/cnn_world/~3/ZRHPDJpVb2o/index.html">Japan: We'll reform child custody laws</a>
 				</li>
-                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://rss.cnn.com/~r/rss/cnn_world/~3/seI7_VlmvO8/index.html">Costa Rica files case against Nicaragua</a>
+                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://rss.cnn.com/~r/rss/cnn_world/~3/nzM_pOIMcF8/index.html">Report: North Korean leader in China</a>
 				</li>
-                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://rss.cnn.com/~r/rss/cnn_world/~3/QaIvbm929Lc/index.html">Suspicious bag was a 'test device'</a>
+                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://rss.cnn.com/~r/rss/cnn_world/~3/rPSMCUyK87A/index.html">The latest entrant in the show thrower club</a>
 				</li>
-                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://rss.cnn.com/~r/rss/cnn_world/~3/uto-kYQZqpQ/index.html">Cholera spreads to Haiti's largest prison</a>
+                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://rss.cnn.com/~r/rss/cnn_world/~3/kgPqyAPCMMM/index.html">Nation of Islam representative arrested in Guyana</a>
 				</li>
                                                                                      					</ul>
                                         </div>
@@ -1352,25 +1672,25 @@ WSAZ Digital Business Search</form></td></tr><tr><td>
 	<div id="rcontent3" class="tabcontent" align="left">
 		<div class="linksholder" align="left">
 		<ul>
-			                                                                                     				<li><a target="_blank" class="title" href="http://rss.cnn.com/~r/rss/cnn_crime/~3/_PXFFeZegVk/index.html">Judge: I paid stripper for drugs</a>
+			                                                                                     				<li><a target="_blank" class="title" href="http://rss.cnn.com/~r/rss/cnn_crime/~3/GcYXvhwJ1FQ/index.html">Ex-chief to get $250,000 from IMF</a>
 				</li>
-                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://rss.cnn.com/~r/rss/cnn_crime/~3/J2v9R50EMW4/index.html">Smart trial defendant described as manipulative</a>
+                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://rss.cnn.com/~r/rss/cnn_crime/~3/47NT06gPx6U/index.html">Casey Anthony jury sworn in</a>
 				</li>
-                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://rss.cnn.com/~r/rss/cnn_crime/~3/dJXGh6nwnpo/index.html">Class action lawsuit against Toyota gets green light</a>
+                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://rss.cnn.com/~r/rss/cnn_crime/~3/jvpr1T-HX2w/index.html">Alleged Strauss-Kahn victim's world turned upside down</a>
 				</li>
-                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://rss.cnn.com/~r/rss/cnn_crime/~3/0nXY5KMzZsQ/index.html">Rapper DMX arrested on probation violation in Arizona</a>
+                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://rss.cnn.com/~r/rss/cnn_crime/~3/c-m4t7RFnYw/index.html">Lawyer for alleged Fort Hood shooter makes case for no death penalty</a>
 				</li>
-                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://rss.cnn.com/~r/rss/cnn_crime/~3/Ud6EqjG_cSA/index.html">Georgia ex-deputy gets life in murders of wife, day laborer</a>
+                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://rss.cnn.com/~r/rss/cnn_crime/~3/TJKdK061-kU/index.html">Mother of Giants' fan beaten into coma angry at attackers, bystanders</a>
 				</li>
-                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://rss.cnn.com/~r/rss/cnn_crime/~3/_d_6WRN5_wo/index.html">Report: Procedures not followed before fatal race crash</a>
+                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://rss.cnn.com/~r/rss/cnn_crime/~3/soESXuKPeR4/index.html">Muslim convert charged with threats to 'South Park' creators</a>
 				</li>
-                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://rss.cnn.com/~r/rss/cnn_crime/~3/4R60rsB-d-E/index.html">Suspect leads cops to remains in tree</a>
+                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://rss.cnn.com/~r/rss/cnn_crime/~3/_Blewof-NEs/index.html">FBI: We want Unabomber's DNA in 1982 Tylenol case</a>
 				</li>
-                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://rss.cnn.com/~r/rss/cnn_crime/~3/HaQJSXZyZxg/index.html">Girl found; kidnapping suspect jailed</a>
+                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://rss.cnn.com/~r/rss/cnn_crime/~3/G3aZ519nwiI/index.html">Mother arrested after boy found dead in Maine</a>
 				</li>
-                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://rss.cnn.com/~r/rss/cnn_crime/~3/Q-7YeUNXWhA/index.html">Holloway family awaits tests, truth</a>
+                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://rss.cnn.com/~r/rss/cnn_crime/~3/kCEACAf-Zuk/index.html">Body found in Utah desert is male, not missing mother</a>
 				</li>
-                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://rss.cnn.com/~r/rss/cnn_crime/~3/SC_0KVdTjZ8/index.html">Family of Rutgers suicide victim lends name to bill</a>
+                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://rss.cnn.com/~r/rss/cnn_crime/~3/lBfOBL5Svo8/index.html">DA: One indicted in suspected terror plot against New York synagogue</a>
 				</li>
                                                                                      					</ul>
                                         </div>
@@ -1378,25 +1698,25 @@ WSAZ Digital Business Search</form></td></tr><tr><td>
 	<div id="rcontent4" class="tabcontent" align="left">
 		<div class="linksholder" align="left">
 		<ul>
-			                                                                                     				<li><a target="_blank" class="title" href="http://rss.cnn.com/~r/rss/cnn_health/~3/A-kTSywzH2Y/index.html">Circumcision indecision in SF</a>
+			                                                                                     				<li><a target="_blank" class="title" href="http://rss.cnn.com/~r/rss/cnn_health/~3/0EmDVZd1sBk/index.html">Kennedy's new frontier: The brain</a>
 				</li>
-                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://rss.cnn.com/~r/rss/cnn_health/~3/Rtboe0FfmxY/index.html">FDA pulls common pain med off the market</a>
+                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://rss.cnn.com/~r/rss/cnn_health/~3/8Xbru69nets/index.html">Doctors: Electrical implants a big step in paralysis therapy</a>
 				</li>
-                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://rss.cnn.com/~r/rss/cnn_health/~3/gp38a8WQ4m8/index.html">Poor sanitation could worsen Haiti cholera outbreak, CDC says</a>
+                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://rss.cnn.com/~r/rss/cnn_health/~3/nDU7Th8U9JI/index.html">Prevent STDs like a porn star</a>
 				</li>
-                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://rss.cnn.com/~r/rss/cnn_health/~3/lbsYTf_UEWQ/index.html">Can food additives affect ADHD?</a>
+                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://rss.cnn.com/~r/rss/cnn_health/~3/6wb0_CCV0UY/index.html">Coffee linked to lower risk of fatal prostate cancer</a>
 				</li>
-                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://rss.cnn.com/~r/rss/cnn_health/~3/X6qTQse5AIY/index.html">FDA: Caffeinated alcoholic beverages are unsafe</a>
+                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://rss.cnn.com/~r/rss/cnn_health/~3/aRG5IPvX_p4/index.html">CDC has zombie apocalypse advice</a>
 				</li>
-                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://rss.cnn.com/~r/rss/cnn_health/~3/N16fxidASnY/index.html">Video shows alleged abuse at egg farm</a>
+                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://rss.cnn.com/~r/rss/cnn_health/~3/hFbqQ_8Nwoc/index.html">Next step: Giffords' recovery</a>
 				</li>
-                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://rss.cnn.com/~r/rss/cnn_health/~3/ypDu-S7VZLk/index.html">Hong Kong has first human bird flu case in 7 years</a>
+                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://rss.cnn.com/~r/rss/cnn_health/~3/Bs-WLy_Mcyw/index.html">Got a headache? Try these fixes</a>
 				</li>
-                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://rss.cnn.com/~r/rss/cnn_health/~3/lV5FZyzbp0U/index.html">Florida woman diagnosed with cholera</a>
+                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://rss.cnn.com/~r/rss/cnn_health/~3/tYP9pDB3RRA/index.html">Five months pregnant with cancer</a>
 				</li>
-                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://rss.cnn.com/~r/rss/cnn_health/~3/z3wLTKQjeBc/index.html">What cholera is and isn't</a>
+                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://rss.cnn.com/~r/rss/cnn_health/~3/36EO6K8DFhM/index.html">Six big kid sleep problems</a>
 				</li>
-                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://rss.cnn.com/~r/rss/cnn_health/~3/DSzz2XOm6HE/index.html">This baby could save a life</a>
+                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://rss.cnn.com/~r/rss/cnn_health/~3/jqGTo8SHUu4/index.html">Teach your child to save a life</a>
 				</li>
                                                                                      					</ul>
                                         </div>
@@ -1404,25 +1724,25 @@ WSAZ Digital Business Search</form></td></tr><tr><td>
 	<div id="rcontent5" class="tabcontent" align="left">
 		<div class="linksholder" align="left">
 		<ul>
-			                                                                                     				<li><a target="_blank" class="title" href="http://sportsillustrated.cnn.com/football/ncaa/scoreboards/top25/today/?xid=si_topstories">LIVE: Follow Week 12 Top 25 scores here</a>
+			                                                                                     				<li><a target="_blank" class="title" href="http://sportsillustrated.cnn.com/2011/writers/dan_shaughnessy/05/20/redsox.cubs/index.html?xid=si_topstories">Dan Shaughnessy: Cubs return to Fenway for first time in 93 years marked by history</a>
 				</li>
-                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://sportsillustrated.cnn.com/2010/writers/mallory_rubin/11/20/week-12-storylines/index.html?xid=si_topstories">Saturday's best storylines</a>
+                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://sportsillustrated.cnn.com/2011/writers/tom_verducci/05/20/interleague.wandy.rodriguez/index.html?xid=si_topstories">4 ways to improve stale interleague play</a>
 				</li>
-                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://sportsillustrated.cnn.com/2010/baseball/mlb/11/20/leyritz.dui.ap/index.html?xid=si_topstories">Ex-Yankee Leyritz acquitted of DUI manslaughter</a>
+                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://joeposnanski.si.com/2011/05/20/my-dick-ebersol-story/?xid=si_topstories">The sudden, surprising resignation of Dick Eberson</a>
 				</li>
-                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://sportsillustrated.cnn.com/2010/basketball/nba/11/20/raptors.hornets.trade/index.html?xid=si_topstories">Hornets, Raptors reach 5-player deal</a>
+                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://nba-point-forward.si.com/2011/05/20/hard-to-find-fault-with-prestis-moves-in-okc/?xid=si_topstories">Patient moves paying off for Oklahoma City</a>
 				</li>
-                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://sportsillustrated.cnn.com/basketball/nba/gameflash/2010/11/19/28407_recap.html?xid=si_topstories">Duncan sets Spurs' mark</a>
+                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://sportsillustrated.cnn.com/2011/tennis/05/20/french.open.draw.ap/index.html?xid=si_topstories">Nadal to open French against Isner</a>
 				</li>
-                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://sportsillustrated.cnn.com/football/ncaa/gameflash/2010/11/19/43395_recap.html?xid=si_topstories">Moore, No. 3 Boise State demolish Fresno, 51-0</a>
+                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://sportsillustrated.cnn.com/2011/football/ncaa/05/20/ncaa-north-carolina.ap/index.html?xid=si_topstories">Investigators visit UNC again after photos surface</a>
 				</li>
-                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://sportsillustrated.cnn.com/2010/football/ncaa/11/19/gunman.southern.miss.shooting.ap/index.html?xid=si_topstories">Cops nab apparent gunman in So. Miss. shooting</a>
+                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://sportsillustrated.cnn.com/2011/more/05/19/armstrong-hamilton-epo.ap/index.html?xid=si_topstories">Former teammate says Armstrong injected EPO</a>
 				</li>
-                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://sportsillustrated.cnn.com/2010/hockey/nhl/11/19/pat.burns.obit.ap/index.html#?xid=si_topstories">Former Cup-winning coach Burns dies</a>
+                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://sportsillustrated.cnn.com/2011/football/nfl/05/20/nfl-unions-lockout.ap/index.html?xid=si_topstories">Pro players' unions team up in NFL lockout battle</a>
 				</li>
-                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://sportsillustrated.cnn.com/2010/baseball/mlb/11/19/derek.jeter.yankees/index.html?xid=si_topstories">Yankees to offer Jeter near $45M deal</a>
+                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://sportsillustrated.cnn.com/2011/baseball/mlb/05/20/killebrew.funeral.ap/index.html?xid=si_topstories">Teammates and family honor Killebrew at funeral</a>
 				</li>
-                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://sportsillustrated.cnn.com/2010/football/ncaa/11/19/wrigley-one-end-zone.ap/index.html?xid=si_topstories">Illini, NU to use one Wrigley end zone</a>
+                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://sportsillustrated.cnn.com/2011/basketball/nba/05/20/rookies.lockout.ap/index.html?xid=si_topstories">Future NBA rookies brace for lockout, uncertainty</a>
 				</li>
                                                                                      					</ul>
                                         </div>
@@ -1437,39 +1757,39 @@ initializetabcontent("maintab3")
 																	
 			
 														<div class="contentModule" ondblclick="window.status=35290854"><div class="header">WSAZ.com Most Popular / Most Comments</div>
-<ul id="maintab4" class="shadetabs" style="margin-top: 10px; font-size: 8pt;">
-	<li class="selected"><a href="#" rel="pcontent0">Most Popular Stories</a></li>
-	<li class="selected"><a href="#" rel="pcontent1">Most Commented Stories</a></li>
+<ul id="maintab35290854" class="shadetabs" style="margin-top: 10px; font-size: 8pt;">
+	<li class="selected"><a href="#" rel="pcontent035290854">Most Popular Stories</a></li>
+	<li class="selected"><a href="#" rel="pcontent135290854">Most Commented Stories</a></li>
 </ul>
 
 <div class="tabcontentstyle">
-	<div id="pcontent0" class="tabcontent" align="left">
+	<div id="pcontent035290854" class="tabcontent" align="left">
 		<div class="linksholder" align="left">
 		<ol>
-																																																																																															</ol>
+																																																																																																															</ol>
 		</div>
 			</div>
-	<div id="pcontent1" class="tabcontent" align="left">
+	<div id="pcontent135290854" class="tabcontent" align="left">
 		<div class="linksholder" align="left">
 						<ul>
-																		<li><a class="title" href="http://www.wsaz.com/home/headlines/Six-Month_Anniversary_of_Upper_Big_Branch_Mine_Disaster_Memorial_Planned_Tuesday.html">New Information About Deadly UBB Mine Explosion</a><span class="headlines"><br>808 Comments</span></li>
-																										<li><a class="title" href="http://www.wsaz.com/home/headlines/NEW_INFO_Third_Person_Charged_in_Lucasville_Murders.html">NEW INFO: Third Person Charged in Lucasville Murders</a><span class="headlines"><br>260 Comments</span></li>
-																										<li><a class="title" href="http://www.wsaz.com/home/headlines/__Charleston_Man_Charged_with_Starving_His_Mother_to_Death_107060368.html">NEW INFO: Kanawha County Man Indicted on Murder Charges in Mother's Death</a><span class="headlines"><br>71 Comments</span></li>
-																										<li><a class="title" href="http://www.wsaz.com/home/headlines/WSAZ_Exclusive_Extreme_Animal_Neglect_Uncovered_at_Boone_County_Shelter_107124439.html">NEW INFO: Extreme Animal Neglect Uncovered at Boone County Shelter</a><span class="headlines"><br>52 Comments</span></li>
-																										<li><a class="title" href="http://www.wsaz.com/home/headlines/Mason_County_Commission_Taking__Second_Vote_on_Rt_35_Toll_Proposal_106930768.html">UPDATE: DOT Taking Toll Road Issue to Court</a><span class="headlines"><br>48 Comments</span></li>
-																										<li><a class="title" href="http://www.wsaz.com/home/headlines/Sale_of_Synthetic_Marijuana_Banned_in_Gallipolis_108517474.html">UPDATE: So-Called Synthetic Marijuana Crackdown Hits Huntington</a><span class="headlines"><br>47 Comments</span></li>
+																		<li><a class="title" href="http://www.wsaz.com/home/headlines/Woman_Found_Dead_in_Greenup_Residence_117417723.html">UPDATE: Sheriff to Present Greenup Murder Case to Grand Jury</a><span class="headlines"><br>96 Comments</span></li>
+																										<li><a class="title" href="http://www.wsaz.com/home/headlines/KY_Attorney_General_Accuses_Marathon_of_Price_Gouging_121787699.html">NEW INFO: Ruling Expected Next Week in Gas Price Gouging Case </a><span class="headlines"><br>37 Comments</span></li>
+																										<li><a class="title" href="http://www.wsaz.com/home/headlines/Jail_Inmate_Accused_of_Biting_Off_Part_of_Another_Inmates_Nose_104385959.html">UPDATE: Nose-Biting Inmate Ordered Further Mental Evaluation</a><span class="headlines"><br>25 Comments</span></li>
+																										<li><a class="title" href="http://www.wsaz.com/home/headlines/3_deputy_US_marshals_wounded_in_WVa_116317069.html">UPDATE: Trial Delayed for Three Charged with Killing U.S. Deputy Marshal</a><span class="headlines"><br>19 Comments</span></li>
+																										<li><a class="title" href="http://www.wsaz.com/home/headlines/Local_Social_Security_Judge_Under_Scrutiny_122259399.html">Local Social Security Judge Under Scrutiny</a><span class="headlines"><br>17 Comments</span></li>
+																										<li><a class="title" href="http://www.wsaz.com/home/headlines/Future_of_Huntington_Symphony_Remains_in_Limbo_118187019.html">NEW INFO: Huntington Symphony to Continue Performances</a><span class="headlines"><br>12 Comments</span></li>
 																																																																																																																																																																																																																																																																																																																																																																																																																																</ul>
 				</div>
 			</div>
 </div>
 <script type="text/javascript">
-initializetabcontent("maintab4");
+initializetabcontent("maintab35290854");
 </script>
 </div>
 										 
 																	
 			
-																								
+																				
 
 
 
@@ -1479,15 +1799,15 @@ initializetabcontent("maintab4");
 
 
 
-					<div class="contentModule" ondblclick="window.status=5742421">
-						 																					<table width="300" border="0" cellspacing="0" cellpadding="0">
+						<div class="contentModule" ondblclick="window.status=5742421">
+							 																								<table width="300" border="0" cellspacing="0" cellpadding="0">
 <tbody><tr><td><img src="http://media.graytvinc.com/images/wsaz_theyell_300c.gif"></td></tr><tr bgcolor="#000000"><td align="center"><font color="#FFFFFF" size="2">
 PHONE IN YOUR YELLS TO: 1-866-616-5354
 </font></td>
 </tr>
 </tbody></table>
-																		</div>
-										 
+																					</div>
+															 
 																	
 			
 														<div class="adModule">
@@ -1499,22 +1819,6 @@ PHONE IN YOUR YELLS TO: 1-866-616-5354
 										 
 																	
 			
-																								
-
-
-
-
-
-
-
-
-
-					<div class="contentModule" ondblclick="window.status=40420462" style="border: 0px solid #000000;">
-						 																					<script type="text/javascript">var towsAffiliateID="WSAZ";</script><script type="text/javascript" src="http://media.oprah.com/flash/widget/tows/twix_embed.js"></script>
-																		</div>
-										 
-																	
-			
 														<div ondblclick="window.status=33312764" class="contentModule">
 						<div class="header">WSAZ.com Sponsor Sections &amp; Links</div>
 <div>		
@@ -1522,42 +1826,42 @@ PHONE IN YOUR YELLS TO: 1-866-616-5354
 		<tbody><tr>
 		<td><a href="http://www.wsaz.com/clients" target="_blank"><img src="http://media.graytvinc.com/images/So-Ohio-Medical-125x41.jpg" width="125" height="41" alt="SOMC-Very good things are happening here" title="SOMC-Very good things are happening here" border="0" align="left"></a></td>
 		<td style="text-align:left"><span class="title"><a href="http://www.wsaz.com/clients" target="_blank">SOMC</a></span>
-					<br><span class="headlines">Very good things are happening here</span></td>
+					<br><span class="headlines">Very good things are happening here.  Click here to learn more</span></td>
+			</tr>
+		<tr>
+		<td><a href="http://www.momseveryday.com/wsaz" target="_blank"><img src="http://media.graytvinc.com/images/moms+twitter_80.jpg" width="80" height="82" alt="Making Moms LIfe Easier - with Diane Dimoff" title="Making Moms LIfe Easier - with Diane Dimoff" border="0" align="left"></a></td>
+		<td style="text-align:left"><span class="title"><a href="http://www.momseveryday.com/wsaz" target="_blank"></a></span>
+					<br><span class="headlines">Click here to see how our partners are making Moms and women's lives easier.</span></td>
 			</tr>
 		<tr>
 		<td><a href="http://www.wsaz.com/r?19=950&amp;32=2846&amp;7=98506&amp;40=http%3A%2F%2Fwn.wsaz.com%2Fglobal%2FCategory.asp%3FC%3D171075&amp;41=WSAZ_HealthyConnections_Logo_160w.jpg&amp;18=0.7052632097595127" target="_blank"><img src="http://media.graytvinc.com/images/WSAZ_HealthyConnections_Logo_125W..jpg" width="125" height="52" alt="Healthy Connections" title="Healthy Connections" border="0" align="left"></a></td>
 		<td style="text-align:left"><span class="title"><a href="http://www.wsaz.com/r?19=950&amp;32=2846&amp;7=98506&amp;40=http%3A%2F%2Fwn.wsaz.com%2Fglobal%2FCategory.asp%3FC%3D171075&amp;41=WSAZ_HealthyConnections_Logo_160w.jpg&amp;18=0.7052632097595127" target="_blank">Healthy Connections</a></span>
-					<br><span class="headlines">Find a local health professional</span></td>
-			</tr>
-		<tr>
-		<td><a href="http://www.wsaz.com/homecentral"><img src="http://media.graytvinc.com/images/home+central+frame_125w.jpg" width="125" height="55" alt="Start here for all things home improvement" title="Start here for all things home improvement" border="0" align="left"></a></td>
-		<td style="text-align:left"><span class="title"><a href="http://www.wsaz.com/homecentral" target=""></a></span>
-					<br><span class="headlines">Start here for all things home improvement</span></td>
+					<br><span class="headlines">Find local health professionals.  Click here.</span></td>
 			</tr>
 		<tr>
 		<td><a href="http://www.wsaz.com/interactiveradar"><img src="http://media.graytvinc.com/images/camc_125x52.jpg" width="125" height="52" alt="Charleston Area Medical Center presents Interactive Radar on WSAZ.com" title="Charleston Area Medical Center presents Interactive Radar on WSAZ.com" border="0" align="left"></a></td>
 		<td style="text-align:left"><span class="title"><a href="http://www.wsaz.com/interactiveradar" target=""></a></span>
-					<br><span class="headlines">Track severe weather with Interactive Radar presented by Charleston Area Medical Center</span></td>
+					<br><span class="headlines">Track severe weather with Interactive Radar and on your WSAZ mobile apps presented by Charleston Area Medical Center.</span></td>
 			</tr>
 		<tr>
-		<td><a href="http://www.ohiolottery.com/"><img src="http://media.graytvinc.com/images/OH!LotteryLogo_125wpx+72dpi.jpg" width="125" height="88" alt="The Ohio Lottery click for more information" title="The Ohio Lottery click for more information" border="0" align="left"></a></td>
-		<td style="text-align:left"><span class="title"><a href="http://www.ohiolottery.com/" target=""></a></span>
-					<br><span class="headlines">To help educate the children of Ohio through our games.</span></td>
-			</tr>
-		<tr>
-		<td><a href="http://www.generationspt.com/" target="_blank"><img src="http://media.graytvinc.com/images/GPT+Logo+copy_125x75.jpg" width="125" height="51" alt="Generations Physical Therapy" title="Generations Physical Therapy" border="0" align="left"></a></td>
-		<td style="text-align:left"><span class="title"><a href="http://www.generationspt.com/" target="_blank">Moving you forward 3 locations to serve you</a></span>
-					<br><span class="headlines">Move Forward with Generations.  Locations in Barboursville, Milton and Scott-Teays, WV</span></td>
-			</tr>
-		<tr>
-		<td><a href="http://www.wsaz.com/lottery"><img src="http://media.graytvinc.com/images/WV_LOTTERY_125X41_.jpg" width="125" height="41" alt="West Virginia Lottery numbers and drawings" title="West Virginia Lottery numbers and drawings" border="0" align="left"></a></td>
+		<td><a href="http://www.wsaz.com/lottery"><img src="http://media.graytvinc.com/images/WV_LOTTERY_125X41_.jpg" width="125" height="41" alt="West Virginia Lottery nightly @ 6:59pm on WSAZ click here for numbers and drawings" title="West Virginia Lottery nightly @ 6:59pm on WSAZ click here for numbers and drawings" border="0" align="left"></a></td>
 		<td style="text-align:left"><span class="title"><a href="http://www.wsaz.com/lottery" target=""></a></span>
-					<br><span class="headlines">Miss a Lottery drawing or need to check your numbers?  Click here.</span></td>
+					<br><span class="headlines">Watch the Lottery Live Monday - Saturday @ 6:59pm on WSAZ NewsChannel 3.  Need to check your numbers?  Click here.</span></td>
 			</tr>
 		<tr>
-		<td><a href="http://www.wsazobits.com/"><img src="http://media.graytvinc.com/images/rose_125w.jpg" width="125" height="79" alt="WSAZObits.com" title="WSAZObits.com" border="0" align="left"></a></td>
-		<td style="text-align:left"><span class="title"><a href="http://www.wsazobits.com/" target="">WSAZObits.com</a></span>
-					<br><span class="headlines">Obituary listings from across the region </span></td>
+		<td><a href="http://www.ohiolottery.com/" target="_blank"><img src="http://media.graytvinc.com/images/OH!LotteryLogo_R_4c_125.gif" width="125" height="86" alt="Ohio Lottery" title="Ohio Lottery" border="0" align="left"></a></td>
+		<td style="text-align:left"><span class="title"><a href="http://www.ohiolottery.com/" target="_blank"></a></span>
+					<br><span class="headlines">Watch the Ohio Lottery Drawings weeknights @ 7:29pm and Cash Explosion Saturday @ 7:30pm on WSAZ NewsChannel 3.
+
+
+</span></td>
+			</tr>
+		<tr>
+		<td><a href="http://www.wsaz.com/toy/misc/109962179.html" target="_blank"><img src="http://media.graytvinc.com/images/CC+LOGO_125w.jpg" width="125" height="84" alt="WSAZ Children's Charitable Foundation" title="WSAZ Children's Charitable Foundation" border="0" align="left"></a></td>
+		<td style="text-align:left"><span class="title"><a href="http://www.wsaz.com/toy/misc/109962179.html" target="_blank"></a></span>
+					<br><span class="headlines">Would you donate $10.00 to help WSAZ help endangered children in our region?  Please click here.  Thank you.
+
+</span></td>
 			</tr>
 </tbody></table>
 </div>
@@ -1566,7 +1870,7 @@ PHONE IN YOUR YELLS TO: 1-866-616-5354
 										 
 																	
 			
-																								
+																				
 
 
 
@@ -1576,8 +1880,8 @@ PHONE IN YOUR YELLS TO: 1-866-616-5354
 
 
 
-					<div class="contentModule" ondblclick="window.status=5007386">
-						<div class="header" ondblclick="window.status=5007386">First Warning Hour-By-Hour Forecasts</div>  																					<font size="2">
+						<div class="contentModule" ondblclick="window.status=5007386">
+							<div class="header" ondblclick="window.status=5007386">First Warning Hour-By-Hour Forecasts</div>  																								<font size="2">
 <table width="100%">
   <tbody><tr>
     <td width="50%">
@@ -1609,8 +1913,8 @@ PHONE IN YOUR YELLS TO: 1-866-616-5354
   </tr>
 </tbody></table>
 </font>
-																		</div>
-										 
+																					</div>
+															 
 																		</div>
 				</div>
 	
@@ -1631,14 +1935,16 @@ PHONE IN YOUR YELLS TO: 1-866-616-5354
 <br>
 
 <ul style="display:inline; list-style-type:none">
-<li style="display:inline"><a style="padding:0 10px;" href="/unclassified/34218669.html">Terms of Use</a></li>
-<li style="display:inline"><a style="padding:0 10px;" href="/unclassified/34218884.html">PRIVACY POLICY/YOUR CALIFORNIA PRIVACY RIGHTS</a></li>
-<li style="display:inline"><a style="padding:0 10px;" target="_blank" href="http://media.graytvinc.com/documents/EEO+June_09-May+10.doc">EEO Statement</a></li>
-<li style="display:inline"><a style="padding:0 10px;" target="_blank" href="http://media.graytvinc.com/documents/GrayWSAZTV1Q09Form388.pdf">FCC Form 388</a></li>
-<li style="display:inline"><a style="padding:0 10px;" href="/mobi" onclick="eraseMobileCookie();">View Mobile Site</a></li>
+<li style="display:inline"><a style="padding:0 7px;" href="/unclassified/34218669.html">Terms of Use</a></li>
+<li style="display:inline"><a style="padding:0 7px;" href="/unclassified/34218884.html">PRIVACY POLICY/YOUR CALIFORNIA PRIVACY RIGHTS</a></li>
+<li style="display:inline"><a style="padding:0 7px;" href="/home/misc/120872104.html">Advertising Non-Discrimination Certification</a></li>
+
+<li style="display:inline"><a style="padding:0 7px;" target="_blank" href="http://media.graytvinc.com/documents/EEO+June_09-May+10.doc">EEO Statement</a></li>
+<li style="display:inline"><a style="padding:0 7px;" target="_blank" href="http://media.graytvinc.com/documents/GrayWSAZTV1Q09Form388.pdf">FCC Form 388</a></li>
+<li style="display:inline"><a style="padding:0 7px;" href="/mobi" onclick="eraseMobileCookie();">Mobile Site</a></li>
 </ul>
 
-<p class="headlines">Gray Television, Inc. - Copyright © 2002-2010 - Designed by Gray Interactive Media - Powered by Clickability
+<p class="headlines">Gray Television, Inc. - Copyright © 2002-2011 - Designed by Gray Interactive Media - Powered by Clickability
  - <span style="color:#cccccc; font-size:8pt">Story ID: 34218884</span>
 </p>
 
