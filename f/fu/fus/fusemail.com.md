@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the fusemail.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215100758id_/http%3A//fusemail.com/about/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fusemail.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520224239id_/http%3A//www.fusemail.com/about/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Statement
 
-This Privacy Policy governs the manner in which FuseMail, LLC ("FuseMail") collects, uses, maintains and discloses information collected from users of the FuseMail service (each, a "User").
+This Privacy Policy governs the manner in which Electric Mail® (International) L.P. ("Company"), collects, uses, maintains and discloses information collected from users of the FuseMail service (each, a "User"). Company operates under several trademarks or brands including: Electric Mail, FuseMail, M4 Internet and CampaignConnect.
 
-## **Privacy**
+**Privacy**
 
 FuseMail is committed to safeguarding the information Users entrust to FuseMail and believes every User should know how FuseMail utilizes the information collected from the usage of the service. This Web Site is not directed at children under 13 years of age. However, children under the age of 13 which wish to participate in FuseMail Forum must submit a permission form prior to becoming a registered user.
 
@@ -24,7 +24,7 @@ FuseMail may use personally identifiable information collected through our Web S
 
 
 
-FuseMail may also use information collected through our Web Site for research regarding the effectiveness of the Web Site and the marketing, advertising and sales efforts of FuseMail, its independent contractors and business partners. ****
+FuseMail may also use information collected through our Web Site for research regarding the effectiveness of the Web Site and the marketing, advertising and sales efforts of FuseMail, its independent contractors and business partners. ** **
 
 ## **Disclosure of Information**
 
