@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medallia.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223161826id_/http%3A//medallia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medallia.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520095315id_/http%3A//medallia.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Medallia
 
@@ -82,6 +82,6 @@ We reserve the right to modify this privacy statement at any time, so please rev
 
 ## Privacy Contact
 
-If you have any questions or comments about this privacy statement or the practices of this site, please contact Medallia by e-mailing info@medallia.com, faxing (650) 321-3156, calling (650) 321-3000, or writing Amy Pressman, President, Medallia, Inc., 800 El Camino Real, Suite 400, Menlo Park, CA 94025. Medallia responds to non-frivolous privacy-related requests in a timely fashion, not to exceed ten (10) business days.
+If you have any questions or comments about this privacy statement or the practices of this site, please contact Medallia by e-mailing info@medallia.com, faxing (650) 321-3156, calling (650) 321-3000, or writing Attention: Privacy, Medallia, Inc., 395 Page Mill Road, Suite 100, Palo Alto, CA 94306. Medallia responds to non-frivolous privacy-related requests in a timely fashion, not to exceed ten (10) business days.
 
-Effective date: September 24, 2004. Last reviewed and updated, December 13, 2010.
+Effective date: September 24, 2004. Last reviewed and updated, April 20, 2011.
