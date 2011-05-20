@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the yourlifemoments.ca privacy policy that was archived on 2009-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090719105745id_/http%3A//yourlifemoments.ca/sitepages/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourlifemoments.ca privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520234504id_/http%3A//yourlifemoments.ca/sitepages/privacy.asp) for the most accurate reproduction.*
 
-# Privacy - Your Life Moments
+# Privacy - , - Your Life Moments
 
-Welcome to www.yourlifemoments.ca (the "Site"). 
+Welcome to [www.yourlifemoments.ca](http://www.yourlifemoments.ca/) (the "Site"). 
 
 We understand that privacy online is important to users of our Site, especially when conducting business. This statement governs our privacy policies with respect to those users of the Site ("Visitors") who visit without transacting business and Visitors who register to transact business on the Site and make use of the various services offered by Sun Media LP (collectively, "Services") ("Authorized Customers").
 
@@ -70,7 +70,9 @@ E: [ privacy@ospreymedialp.com](mailto:privacy@ospreymedialp.com)
 
 Any rights not expressly granted herein are reserved. 
 
-© 2009 Sun Media LP, All rights reserved. Unauthorized duplication or publication of any materials from this Site is expressly prohibited. 
+© 2011 Sun Media LP, All rights reserved. Unauthorized duplication or publication of any materials from this Site is expressly prohibited. 
+
+ 
 
 * * *
 
