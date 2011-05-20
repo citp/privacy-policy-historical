@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cinefolks.com privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214104419id_/http%3A//cinefolks.com/docs/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cinefolks.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520055709id_/http%3A//cinefolks.com/docs/privacypolicy.php) for the most accurate reproduction.*
 
 # Watch Latest Online Telugu Movies - cinefolks.com
 
