@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flythomascook.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120112007id_/http%3A//book.flythomascook.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flythomascook.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520225555id_/http%3A//book.flythomascook.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # fly thomas cook | Thomas Cook Websites
 
@@ -34,7 +34,7 @@ You are entitled to ask for a copy of your personal details which we hold, for y
 
 ## Buy Together & Save
 
-Book **In-flight meals, Choose Your Seat, hold baggage** and **Essential Travel Info Messaging** in a special bundle deal and save up to £6 per person. Have a look at the savings you could make.  
+Book **In-flight meals, Choose Your Seat and Hold baggage** in a special bundle deal and save up to £6 per person. Have a look at the savings you could make.  
 [Special bundle deal »](http://book.flythomascook.com/flight/extras/buy-together-bundle-deal.php)
 
   
@@ -42,7 +42,7 @@ Book **In-flight meals, Choose Your Seat, hold baggage** and **Essential Travel 
 
 ## Top Selling Extras
 
-Get a 3 course meal and coffee or tea from **only £7.50** per adult or **£4.50** per child. Check out our [extras price list](http://book.flythomascook.com/extras-price-list/) for details. It's got to be cheaper than a meal at the airport!  
+Get a 3 course meal and coffee or tea from **only £7.50** per adult or **£4.50** per child. Check out our [extras price list](http://book.flythomascook.com/charges-and-fees/) for details. It's got to be cheaper than a meal at the airport!  
 [In-flight meals » ](http://book.flythomascook.com/flight-extras/in-flight-meals/)
 
 Make sure you get to sit together for a small charge, simply order when you book your flight. Choose Your Seat from only £7.50 per person per flight.  
