@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wsaz.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120192945id_/http%3A//www.wsaz.com/unclassified/34218884.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wsaz.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520225357id_/http%3A//www.wsaz.com/unclassified/34218884.html) for the most accurate reproduction.*
 
 # GRAY TELEVISION, INC. PRIVACY POLICY AND YOUR PRIVACY RIGHTS
 
