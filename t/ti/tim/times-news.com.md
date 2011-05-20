@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the times-news.com privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128135945id_/http%3A//times-news.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the times-news.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520223949id_/http%3A//times-news.com/privacy) for the most accurate reproduction.*
 
 # Inside index
 
