@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alternet.org privacy policy that was archived on 2010-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101217140036id_/http%3A//blogs.alternet.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alternet.org privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520220525id_/http%3A//blogs.alternet.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « SoapBox
 
