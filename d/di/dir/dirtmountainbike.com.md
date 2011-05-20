@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dirtmountainbike.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619004854id_/http%3A//mpora.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dirtmountainbike.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520225610id_/http%3A//mpora.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy // About // Mpora Extreme Sports
 
