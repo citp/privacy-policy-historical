@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the flamingtext.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122111853id_/http%3A//www.flamingtext.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flamingtext.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520180405id_/http%3A//www5.flamingtext.com/privacy.html) for the most accurate reproduction.*
 
 # FlamingText: Logo Design and Button Generator Tool
-
-FlamingText.com: Privacy Policy
 
 ### FlamingText.com: Privacy Policy
 
