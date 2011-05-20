@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the totsy.com privacy policy that was archived on 2010-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101016065756id_/http%3A//www.totsy.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totsy.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520215126id_/http%3A//www.totsy.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Totsy
 
