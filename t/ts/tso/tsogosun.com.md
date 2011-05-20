@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tsogosun.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621014219id_/http%3A//www.tsogosun.co.za/privacypolicy/pages/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tsogosun.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520030511id_/http%3A//www.tsogosun.co.za/privacypolicy/pages/default.aspx) for the most accurate reproduction.*
 
 # Tsogo Sun Privacy Policy
 
