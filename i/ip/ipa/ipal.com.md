@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ipal.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231160847id_/http%3A//www.ipal.com/%3F_task%3Dindex%26_action%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipal.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520225734id_/http%3A//www.ipal.com/%3F_task%3Dindex%26_action%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
