@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wso2.org privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226030325id_/http%3A//wso2.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wso2.org privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520220717id_/http%3A//wso2.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | WSO2 Oxygen Tank
 
@@ -42,14 +42,12 @@ If you find any content that is in contravention with our privacy policy, please
 
 
 
-Bookmark/Search this post with: 
-
 library project main code
 
 Featured
 
-WS Security This article discusses how to use Apache Axis2 RPCServiceClient. RPCServiceClient provides and easy to use API built on top of Axis2's ServiceClient. This illustrate what is a RPCServiceClient, how to create it and use it with the web service you create. And also the article demonstrate how to use the client by using few sample codes... 
+WSO2 Business Process Server (WSO2 BPS) is able to operate in different environments and setups and the objective of this post is to make the user familiar with one such scenario, i.e. deploying WSO2 Business Process Server 2.0.2 on JBoss 5.1.0... 
 
-WSO2 ESB is a lightweight middleware which produces high performance, easy to acquire, deploy, manage and govern facilities. It has the capability to run on many web servers including JBoss-5.1.0.GA...
+This is the second article in a series demonstrating the capabilities of WSO2's Enterprise Service Bus with full end-to-end scenarios. It gives a full ESB configuration as well as end-to-end clients and consumer configurations so that users can try out the scenario while understanding the underlying concepts...
 
-WSO2 Carbon is a componentized Service Oriented Platform(SOA) platform which is build on top OSGi. OSGi defines a way to create true modular systems. The unit of modularization in OSGi is called a bundle...
+Tuning the garbage collection (GC) in Java virtual Machine (JVM) is one of those things that developers often tend to ignore and overlook. But if done properly, it can save you hundreds of megabytes worth precious memory, without making a significant impact on the application performance...
