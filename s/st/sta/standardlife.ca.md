@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the standardlife.ca privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223150810id_/http%3A//www.standardlife.ca/en/corporate/customer/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the standardlife.ca privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520221418id_/http%3A//standardlife.ca/en/corporate/customer/privacy.html) for the most accurate reproduction.*
 
 # Standard Life Canada
 
