@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fightersmarket.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626195401id_/http%3A//www.fightersmarket.com/terms_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fightersmarket.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521012351id_/http%3A//www.fightersmarket.com/terms_privacy.asp) for the most accurate reproduction.*
 
-# Fighter's Market - Your Online Source for Fight Gear
+# Terms: Privacy | FightersMarket.com
 
 **Privacy Policy**
 
@@ -53,7 +53,7 @@ In an attempt to provide you with increased value, we may include third party li
 
  **Changes to our policy**
 
-If we decide to change our privacy policy, we will post those changes on this page. Policy changes will apply only to information collected after the date of the change. **This policy was last modified on August 6, 2003.**
+If we decide to change our privacy policy, we will post those changes on this page. Policy changes will apply only to information collected after the date of the change. **This policy was last modified on May 1, 2009.**
 
  **Questions and feedback**
 
@@ -65,7 +65,7 @@ This online privacy policy applies only to information collected through our web
 
  **Terms and Conditions**
 
-Please also visit our [Terms and Conditions](https://web.archive.org/web/20090626195401id_/http%3A//www.fightersmarket.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms and Conditions](https://web.archive.org/web/20110521012351id_/http%3A//www.fightersmarket.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
  **Your consent**
 
