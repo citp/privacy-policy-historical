@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobs2web.com privacy policy that was archived on 2010-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100920151847id_/http%3A//www.jobs2web.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobs2web.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520224048id_/http%3A//www.jobs2web.com/privacy-policy) for the most accurate reproduction.*
 
 # Jobs2Web - Career Website Optimization & Job SEO
 
@@ -68,7 +68,7 @@ This Website contains links to other websites. Jobs2Web is not responsible for t
 
 **Opt-Out**
 
-You may elect not to receive future communications from Jobs2Web. If you are a registered User, please log in and visit your account settings page and uncheck the box related to sending information to you via email.  
+You may elect not to receive future communications from Jobs2Web. If you are a registered User, please open the email you received from Jobs2Web and click on the unsubscribe link. If you prefer to have your account removed permanently, please email your request to [removeme@jobs2web.com](mailto:removeme@jobs2web.com).
 
 **Notification Procedures**
 
