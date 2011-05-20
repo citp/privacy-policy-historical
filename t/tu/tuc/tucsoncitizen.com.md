@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the tucsoncitizen.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102120154id_/http%3A//tucsoncitizen.com/sandbox/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tucsoncitizen.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520230838id_/http%3A//tucsoncitizen.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy - Sandbox | Citizen Test Environment
+# Privacy Policy - Tucson Citizen
 
 ## TucsonCitizen.com Privacy Policy
 
 #### Effective Date: June 1, 2009
 
-The following Privacy Policy governs the online information collection practices of TucsonCitizen.com (”we” or “us”). Specifically, it outlines the types of information that we gather about you while you are using the TucsonCitizen.com website (the “Site”), and the ways in which we use this information. This Privacy Policy, including our children’s privacy statement, does not apply to any information you may provide to us or that we may collect offline and/or through other means (for example, at a live event, via telephone, or through the mail). Please read this Privacy Policy carefully. By visiting and using the Site, you agree that your use of our Site, and any dispute over privacy, is governed by this Privacy Policy and our Terms of Service. Because the Web is an evolving medium, we may need to change our Privacy Policy at some point in the future, in which case we’ll post the changes to this Privacy Policy on this website and update the Effective Date of the policy to reflect the date of the changes. By continuing to use the Site after we post any such changes, you accept the Privacy Policy as modified.
+The following Privacy Policy governs the online information collection practices of TucsonCitizen.com (“we” or “us”). Specifically, it outlines the types of information that we gather about you while you are using the TucsonCitizen.com website (the “Site”), and the ways in which we use this information. This Privacy Policy, including our children’s privacy statement, does not apply to any information you may provide to us or that we may collect offline and/or through other means (for example, at a live event, via telephone, or through the mail). Please read this Privacy Policy carefully. By visiting and using the Site, you agree that your use of our Site, and any dispute over privacy, is governed by this Privacy Policy and our Terms of Service. Because the Web is an evolving medium, we may need to change our Privacy Policy at some point in the future, in which case we’ll post the changes to this Privacy Policy on this website and update the Effective Date of the policy to reflect the date of the changes. By continuing to use the Site after we post any such changes, you accept the Privacy Policy as modified.
 
 #### Your California Privacy Rights
 
@@ -27,4 +27,4 @@ This children’s privacy statement explains our practices with respect to the o
 * We do NOT knowingly allow children under the age of thirteen to publicly post or otherwise distribute personally identifiable contact information through the Site.  
 * Because we do not collect any personally identifiable information from children under the age of thirteen as part of the Site, we do NOT condition the participation of a child under thirteen in the Site’s online activities on providing personally identifiable information.
 
-**Questions Regarding Privacy:** If you have any questions about this Privacy Policy, our privacy practices, or your dealings with us, you can contact: Online Privacy Coordinator Newspaper Division 7950 Jones Branch Drive McLean, VA 22107
+Questions Regarding Privacy: If you have any questions about this Privacy Policy, our privacy practices, or your dealings with us, you can contact: Online Privacy Coordinator Newspaper Division 7950 Jones Branch Drive McLean, VA 22107
