@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hotschedules.com privacy policy that was archived on 2010-11-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101120195054id_/http%3A//www.hotschedules.com/privacy.shtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hotschedules.com privacy policy that was archived on 2011-05-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110521092256id_/http%3A//www.hotschedules.com/privacy.shtml) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>HotSchedules: Privacy Statement</title>
@@ -70,6 +70,9 @@ Shadowbox.init();
 
 
 
+
+
+
 <script>
 
 $(function() { $('#username').keydown(function() { $('#announcement').html('<div id="announcement-text"><a href="http://blog.hotschedules.com/blog/2010/10/22/refer-a-friend-program.html">Refer-A-Friend Program Announced!</a></div>'); $(this).unbind('keydown'); }); });
@@ -87,6 +90,9 @@ $(function() { $('#username').keydown(function() { $('#announcement').html('<div
 
     function submitLoginForm()
     {
+	//alert("We are currently performing system maintenance, please check back shortly.");
+	//alert("We apologize for the inconvenience, we are experiencing unplanned interruptions in service.  Please check back shortly.");
+	//return false;
         if( formSubmitted )
         {
             alert( "Your information is being processed, please wait while we log you in." );
@@ -142,7 +148,7 @@ $(function() { $('#username').keydown(function() { $('#announcement').html('<div
   	
   </div>
   <div id="login">
-    <p id="login-desc"> <a id="login-nav" href="/hs/login.jsp">Client Login</a> </p>
+    <p id="login-desc"> <a id="login-nav" href="/hs/login.jsp">Client Login</a> / <a href="#" onclick="emailDetails()">Forgot username or password?</a></p>
     <form name="loginForm" method="post" action="">
       <p id="form-username">
         <label>Username<br>
@@ -153,11 +159,12 @@ $(function() { $('#username').keydown(function() { $('#announcement').html('<div
         <label>Password<br>
         <input type="password" name="password" value="" autocomplete="off">
         </label>
-        <input class="submit" type="image" name="buttonSubmit" onclick="submitLoginForm();return false;" value="go" src="/images/layout/buttons/submit.gif" alt="Go">
+        <input class="submit" type="image" name="buttonSubmit" onclick="submitLoginForm();return false;" value="go" src="images/layout/buttons/submit.gif" alt="Go">
       </p>
+	  <p style="float:left;padding-top:5px;">
+		<input style="vertical-align: middle;" id="rememberMe" class="remember-check" name="rememberMe" type="checkbox" value="1"><span style="padding-left:3px;vertical-align: middle;">Remember Username</span>
+	  </p>
     </form>
-    <p id="login-forgot"> <br>
-      <a href="#" onclick="emailDetails()">Forgot username or password?</a> </p>
   </div>
   <!--/login-->
 </div>
@@ -435,7 +442,8 @@ $(function() { $('#username').keydown(function() { $('#announcement').html('<div
 					<a id="footerlink" href="http://www.hotschedules.com/demo/index2.shtml" target="_blank">Digital Logbook</a><br><br>
 					<div id="footer_title">Most Recent Blog Post</div><!-- close #footer_title -->
 					<div id="footer-blog-post">
-					<h3 class="blog-title-text"><a class="blog-title-text-footer" href="http://blog.hotschedules.com/blog/2010/11/1/hotschedules-participates-in-the-2010-brinker-charity-golf-c.html">HotSchedules participates in the 2010 Brinker Charity Golf Classic</a></h3>
+					<h3 class="blog-title-text"><a class="blog-title-text-footer" href="http://blog.hotschedules.com/blog/2010/11/3/facebook-contest-bonus-question-you-could-win-an-ipad.html">Facebook Contest Bonus Question: You could win an iPad!</a></h3>
+
 
 					</div><!-- close footer blog post -->
 				</div>
