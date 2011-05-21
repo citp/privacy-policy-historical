@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the helium.com privacy policy that was archived on 2009-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090319141112id_/http%3A//www.helium.com/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the helium.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521052956id_/http%3A//www.helium.com/content/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Helium
 
@@ -11,9 +11,9 @@
 
 **Information Collection and Use General**
 
-  * Helium collects personal information when you register and complete your user profile with Helium. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number.
+  * Helium collects personal information when you register, and complete your user profile with Helium. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number.
   * When you register we ask for information such as your name and email. Once you register with Helium and sign in to our services, you are not anonymous to us. 
-  * To enable Helium to show more relevant and targeted content and advertising we may also ask for demographic information like age, gender, location and income level, however, this information is optional.
+  * To enable Helium to show more relevant and targeted content and advertising, we may also ask for demographic information like age, gender, location and income level, however, this information is optional.
   * Helium automatically receives and records information on our server logs from your browser, including your IP address, Helium cookie information (if any), and the page you request.
   * Helium uses information for the following general purposes: fulfill your requests for products and services, customize the content and advertising you see, improve our services, contact you, conduct research, and provide anonymous reporting for internal and external clients.
 
@@ -67,12 +67,12 @@
 **Links and Third Party Ads**
 
   * We may post links to other web sites as a service to you. These sites are operated by companies that are outside of our control, and your activities at those sites will be governed by the policies and practices of those third parties. We encourage you to review the privacy practices of these third parties before disclosing any personally identifiable information, as we are not responsible for the privacy practices of those sites.
-  * We may allow third party advertisers to post advertisements on our site. These third parties may place cookies on certain pages of our site. We do not control those third parties, or their cookies. This privacy policy does not cover those third party advertisers’ use of cookies. If you would like more information about this practice and to know your choices about not having this information used by these companies, [**click here**](http://www.networkadvertising.org/). 
+  * We use third-party advertising companies to serve ads when you visit our site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other web sites in order to provide advertisements on this site, other sites and other forms of media about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [**please click here**](http://www.networkadvertising.org/consumer/opt_out.asp).
   * The advertising we display may be targeted to users of particular services and content. So if you view or click on a targeted ad, the advertiser (or other companies affiliated with the advertiser) may assume that you meet the targeting criteria — for example, men aged 30-40.
 
 
 
-**Changes to this Privacy Policy**
+**Changes to This Privacy Policy**
 
   * This policy is effective as of April 4, 2007. Helium may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your Helium account or by placing a prominent notice on our site.
 
