@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the yesbitch.net privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224143746id_/http%3A//yesbitch.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yesbitch.net privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521083839id_/http%3A//yesbitch.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Yes Bitch!
 
-December 25th, 2009 | [email this](mailto:?Subject=Check%20This%20Out&body=I%20think%20you%27ll%20like%20this:%20http://yesbitch.net/privacy-policy/) | 
+##  Privacy Policy 
 
 Your rights as a visitor to this web site
 
