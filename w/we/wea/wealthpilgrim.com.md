@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wealthpilgrim.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130121933id_/http%3A//wealthpilgrim.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wealthpilgrim.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521030732id_/http%3A//wealthpilgrim.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Wealth Pilgrim
+# Privacy Policy
 
 **Your privacy is important to us!**
 
