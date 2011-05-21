@@ -1,20 +1,20 @@
-<!--The following is the downloaded HTML source of the trustnet.com privacy policy that was archived on 2010-09-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100922005458id_/http%3A//www.trustnet.com/Education/PrivacyPolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the trustnet.com privacy policy that was archived on 2011-05-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110521221901id_/http%3A//www.trustnet.com/Education/PrivacyPolicy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-	<meta name="copyright" content="Trustnet Limited 2010">
+	<meta name="copyright" content="Trustnet Limited 2011">
 	<meta name="verify-v1" content="JnKYMCyNNsEXyUV1fo/Bbu1aO77l2WwhxoQMfEi9xOQ=">
-	<meta name="keywords" content="Unit Trust, Investment Trust, Unit Trust Prices, Trustnet, Investment funds, fund managers, fund factsheets, offshore funds, pension funds, life funds, multimanager, structured products, FTSE, fund tools, Trustnet news, Trustnet research, OEIC, ISA, equity fund, PEP"><meta name="description" content="Trustnet, Free daily updated analysis and price / performance data on all UK Unit Trusts, OEICs, Investment Trusts, Pension, Insurance Bond and Offshore Funds, Structured Products, ETFs and VCTs">
-	<meta name="robots" content="index,follow">    
+	<meta name="keywords" content="Unit Trust, Investment Trust, Unit Trust Prices, Trustnet, Investment funds, fund managers, fund factsheets, offshore funds, pension funds, life funds, multimanager, structured products, FTSE, fund tools, Trustnet news, Trustnet research, OEIC, ISA, equity fund, PEP"><meta name="description" content="Trustnet, Free daily updated analysis and price / performance data on all UK Unit Trusts, OEICs, Investment Trusts, Pension, Insurance Bond and Offshore Funds, Structured Products, ETFs and VCTs">	
+	 <meta name="robots" content="index,follow">    			
     <!--ENTERPRISE2-->
     <!--DSS2WEB-TN1-->
     
 	<title>Privacy Policy | Trustnet</title>
 	
-	 <link type="text/css" href="/General/Handler.aspx?v=20100528&amp;fileSet=CSS&amp;type=text/css" rel="Stylesheet">
-	 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/General/Handler.aspx?v=20100508&amp;fileSet=JS&amp;type=application/x-javascript"></script>
+	 <link type="text/css" href="/General/Handler.aspx?v=20110414&amp;fileSet=CSS&amp;type=text/css" rel="Stylesheet">
+	 <script type="text/javascript" src="/General/Handler.aspx?v=20110414&amp;fileSet=JS&amp;type=application/x-javascript"></script>
 	
-	<link href="/css/PrintStyle.css?v=20100810" rel="stylesheet" type="text/css" media="print">
+	<link href="/css/PrintStyle.css?v=20101229" rel="stylesheet" type="text/css" media="print">
 	 <!--[if lt IE 8]>
 	 <link href="/css/IEPrintStyle.css?v=20090213" rel="stylesheet" type="text/css" media="print"  />
 	 <![endif]-->
@@ -50,12 +50,40 @@
 			}
 		}
 		var overlayWidth = '';
+	
+	
+	function ScrollCheck(){
+	    var scrollY;
+	    if (document.all) {		
+		    if (!document.documentElement.scrollTop)
+			    scrollY = document.body.scrollTop;
+		    else
+			    scrollY = document.documentElement.scrollTop; 
+	    }
+	    else {
+		     scrollY = window.pageYOffset; 
+	    }
+	    var position=getPosition('footer');
+	    var position1=getPosition('adPos_TopRight');
+        var h =parseInt(position.y)-600;
+        var w=parseInt(position1.x);
+
+        if(scrollY>h)scrollY=h;
+        //moving the position of the object
+        if(document.getElementById('adContainer_TopRight')!=null)
+        {
+            var adDiv=document.getElementById('adContainer_TopRight');
+            adDiv.style.top = scrollY+"px";  
+            adDiv.style.left = w+"px";
+        }
+	}
+        //window.onscroll=ScrollCheck;
 	</script>
 </head>
 <body>
 	<form id="masterForm" name="masterForm" method="post" action=""> 
 
-		<div id="page" style="width: 980px;">
+		<div id="page" style="width:1252px;">
 			<script type="text/javascript">
 				ResizePage();
 			</script>
@@ -65,8 +93,7 @@
 			    <div id="menubar">
 				    
 
-<script type="text/javascript"><!--//--><![CDATA[//><!--
-
+<script type="text/javascript"><!--//--><![CDATA[//><!--   
 // ads
 var chartcolorarray="#327EBE,#FF0000,#FFB81B,#008D00,#8ED400,#00C2B1,#D69701,#AC0481,#000000,#0000FF,#06A1FD,#FF6600,#E318E3,#890BF4,#990000";
 var OAS_version;
@@ -74,9 +101,11 @@ var OAS_version;
 var OAS_sitepage = 'www.trustnet.com/Education/PrivacyPolicy.aspx';
 var OAS_query = '?investor_type=adviser';
 OAS_query += "&email=";
-OAS_query += "&portfoliosectors=";
+var adQuery="";
+adQuery=adQuery.replace("univ=O","univ=U");
+OAS_query += adQuery+"&portfoliosectors=";
 
-var OAS_listpos = 'Top,TopLeft,Left,Top3,Position1,TopRight,x02';
+var OAS_listpos = 'Top,TopLeft,Left,Top3,Position1,TopRight';
 if(screen.width < 1280 || getQueryValue('print') == 'true') {
 	OAS_listpos = OAS_listpos.replace(',TopRight','');
 }
@@ -107,6 +136,14 @@ var referUrl="/Education/PrivacyPolicy.aspx";
 var SiteCode='TNUK';
 var AddedRelNews="";	
 var UserFundswireCodes='';
+var UniverseCode='';
+
+ function SetNotOnMobile(mbFlag,url)
+{
+    SetCookie("TN_Mobile",mbFlag);
+    window.location =url;    
+}
+
 //--><!]]></script>
 
 <div id="topBG">
@@ -122,10 +159,12 @@ var UserFundswireCodes='';
 					analytics</a></li>
 				<li><div></div><a href="http://www.financialexpress.net/uk/datafeeds/index.htm" target="_blank">
 					datafeeds</a></li>
+				<li><div></div><a href="javascript:SetNotOnMobile(true,'/Mobile/Home.aspx');">
+					<img src="/images/but_mobileWebsite.png" alt="trustnet mobile"></a></li>	
 			</ul>
 		</div>
 		<div id="menuTopRight">
-			Wednesday, September 22, 2010&nbsp;|&nbsp;
+			Saturday, May 21, 2011&nbsp;|&nbsp;
 			<strong><a href="/Help/ContactUs.aspx">Contact us</a></strong>&nbsp;|&nbsp;
 			<!--<strong><a href="javascript:printMe();">Print</a></strong>&nbsp;|&nbsp;-->
 			<strong><a href="/Tools/RSS/ArchiveHome.aspx" title="rss feed"><img src="/icons/rss_icon.jpg" alt="rss feed">&nbsp;RSS</a></strong>&nbsp;|&nbsp;
@@ -143,15 +182,7 @@ var UserFundswireCodes='';
 			    </a>			
 		    </div>
 	    </div>
-	    <div class="AdPosTop" id="adPos_Top"><div id="adContainer_Top" class="noPrint" style="position: absolute; display: block; left: 415px; top: 34px; text-align: right;">
-		<script type="text/javascript"><!--//--><![CDATA[//><!--
-		var adv_position = 'Top';
-		if($("adPos_"+adv_position)) {
-			OAS_AD(adv_position);
-		}
-		//--><!]]>
-		</script><a href="http://oas.trustnet.com/RealMedia/ads/click_nx.ads/www.trustnet.com/Education/PrivacyPolicy.aspx/1192371194@Top,TopLeft,Left,Top3,Position1,x02!Top?investor_type=adviser&amp;email=&amp;portfoliosectors=" rel="external"><img src="http://oas.trustnet.com/RealMedia/ads/adstream_nx.ads/www.trustnet.com/Education/PrivacyPolicy.aspx/1192371194@Top,TopLeft,Left,Top3,Position1,x02!Top?investor_type=adviser&amp;email=&amp;portfoliosectors=" alt="advert"></a>
-	</div></div>
+	    <div class="AdPosTop" id="adPos_Top">&nbsp;</div>
 
 
 
@@ -181,352 +212,389 @@ var UserFundswireCodes='';
 		
 		<!-- Global Menu -->
 		
-
 <!-- Global Menu -->
-		<div id="globalMenu">
-		     
-			<!-- mainMenu -->
-			<div id="mainMenu" style="font-size:12px;">
-				<a id="Investments" href="/">Investments</a>
-				<a id="Managers" href="/Managers/Home.aspx">Fund Managers</a>
-				<a id="Fundswire" href="/Fundswire/FundswireNews.aspx">Fundswire</a>
-				<a id="News" href="/News/NewsHome.aspx">News &amp; Research</a>
-				<a id="Portfolio" href="/Tools/Portfolio/PortfolioHome.aspx">Portfolio</a>
-				<a id="Tools" href="/Tools/Tools.aspx">Tools</a>
-				<a id="Education" href="/Education/EducationHome.aspx">Education</a>
-					
+<div id="globalMenu">
+    <!-- mainMenu -->
+    <div id="mainMenu" style="font-size: 12px;">
+        <a id="Investments" href="/">Investments</a> <a id="Managers" href="/Managers/Home.aspx">
+            Fund Managers</a> <a id="Fundswire" href="/Fundswire/FundswireNews.aspx">Fundswire</a>
+        <a id="News" href="/News/NewsHome.aspx">News &amp; Research</a> <a id="Portfolio" href="/Tools/Portfolio/PortfolioHome.aspx">Portfolio</a> <a id="Tools" href="/Tools/Tools.aspx">
+                Tools</a> <a id="Education" href="/Education/EducationHome.aspx">Education</a>        
+    </div>
+    <!-- END mainMenu -->
+    <!-- subMenu -->
+    <div id="subMenu" style="line-height: 14px;">
+        <ul id="subInvestments" class="MenuBarHorizontal" style="">
+        
+                                            <li class="first"><a id="LevelU" class="MenuBarItemSubmenu" href="/IMAUTOEICs.aspx">IMA Unit
+                Trust &amp; OEICs</a>
+                   <ul>
+                            <li><a href="/IMAUTOEICs.aspx">IMA Unit Trust &amp; OEICs Home</a></li>
+					        <li><a href="/Investments/Perf.aspx?univ=O">Prices &amp; Performance</a></li>					        
+					        <li><a href="/Investments/FundsList.aspx?univ=O">A-Z Fund Factsheets</a></li>
+					        <li><a href="/Investments/FeaturedGroups.aspx?univ=O">A-Z Group Factsheets</a></li>                            
+					        <li><a href="/Investments/SectorPerf.aspx?univ=O">Sector Analysis</a></li>
+					        <li><a href="/News/KeyStrategies/KeystrategiesHome.aspx">Key Strategies</a></li>
+					        <li><a href="/Investments/FundRatings.aspx?univ=O">Fund Ratings</a></li>
+					        <li><a href="/Education/UT.aspx">Unit Trust &amp; OEIC Guide</a></li>
+					        <li><a href="/News/DisplayStory.aspx?scope=UT+%26+OEIC">Unit Trust &amp; OEICs News</a></li>
+					        <li><a href="/Investments/MostPopularFundList.aspx?univ=O">Most viewed funds</a></li> 
+					        <li><a href="/Investments/MostPopularGroupList.aspx?univ=O">Most viewed groups</a></li>
+					        <li><a href="/General/Redirect.aspx?url=http%3A%2F%2Fwww.investmentuk.org" target="_blank">IMA website</a></li>					       
+                    </ul>
+            </li>            
+             <li class="first"><a class="MenuBarItemSubmenu" id="LevelEQ" href="/equities">Equities</a>
+                <ul>
+                    <li><a href="/equities">Equity Home</a></li>
+                    <li><a href="/Investments/EquityPerfList.aspx">Prices &amp; Performance</a></li>
+                    <li><a href="/Investments/EquityList.aspx">A-Z Equity Factsheets</a></li> 
+                    <li><a href="/Investments/LatestAnnouncements.aspx">Latest announcements</a></li>
+                    <li><a href="/Investments/EquitySectorPerf.aspx">Equity Sectors</a></li>                                       
+                    <li style="display:none;"><a href="/Equities/Default.aspx">Equity Home</a></li>
+                </ul>
+            </li>            
+            <li>                         
+            <a class="MenuBarItemSubmenu" id="LevelT" href="/InvestmentTrusts.aspx">Investment
+                Trusts</a>
+                <ul>
+                    <li><a href="/InvestmentTrusts.aspx">Investment Trusts Home</a></li>
+                    <li><a href="/Investments/Perf.aspx?univ=T">Prices &amp; Performance</a></li>
+                    <li><a href="/Investments/FundsList.aspx?univ=T">A-Z Fund Factsheets</a></li>
+                    <li><a href="/Investments/GroupsList.aspx?univ=T">A-Z Group Factsheets</a></li>
+                    <li><a href="/Investments/Warrants.aspx?univ=T">A-Z Warrants</a></li>
+                    <li><a href="/Investments/FundRatings.aspx?univ=T">Fund Ratings</a></li>
+                    <li><a href="/Investments/SectorPerf.aspx?univ=T">Sector Analysis</a></li>
+                    <li><a href="/Investments/SplitCapitalAnalytics.aspx?univ=T">Split Capital Analytics</a></li>
+                    <li><a href="/Education/Investmenttrust.aspx">Investment Trust Guide</a></li>
+                    <li><a href="/News/DisplayStory.aspx?scope=Investment+Trust">Investment Trust News</a></li>
+                    <li><a href="/Investments/MostPopularFundList.aspx?univ=T">Most viewed funds</a></li>
+                    <li><a href="/Investments/MostPopularGroupList.aspx?univ=T">Most viewed groups</a></li>
+                    <li><a href="/General/Redirect.aspx?url=http%3A%2F%2Fwww.theaic.co.uk" target="_blank">
+                        AIC website</a></li>
+                </ul>
+            </li>
+            <li><a class="MenuBarItemSubmenu" id="LevelP" href="/Pension.aspx">Pension Funds</a>
+                <ul>
+                    <li><a href="/Pension.aspx">Pension Home</a></li>
+                    <li><a href="/Investments/Perf.aspx?univ=P">Prices &amp; Performance</a></li>
+                    <li><a href="/Investments/FundsList.aspx?univ=P">A-Z Fund Factsheets</a></li>
+                    <li><a href="/Investments/LPGroupsList.aspx?univ=P">A-Z Group Factsheets</a></li>
+                    <li><a href="/Investments/LPProductsList.aspx?univ=P">A-Z Product Factsheets</a></li>
+                      <!--  <li><a href="/Tools/AnnuitySearch.aspx">Annuity Rates</a></li>-->
+                    <li><a href="/Investments/FundRatings.aspx?univ=P">Fund Ratings</a></li>
+                    <li><a href="/Investments/SectorPerf.aspx?univ=P">Sector Profiles</a></li>
+                    <li><a href="/Investments/LPSurveyMatrix.aspx?univ=P">Customer service rating</a></li>
+                    <li><a href="/Investments/FundRangeRatings.aspx?univ=P">Fund range ratings</a></li>
+                    <li><a href="/Education/Glossaries/Pension.aspx">Pension fund glossary</a></li>
+                    <li><a href="/News/Research.aspx?researchCode=Pensions">Pensions research centre</a></li>
+                    <li><a href="/News/DisplayStory.aspx?scope=Pension+Fund">Pension Fund News</a></li>
+                    <li><a href="/Investments/MostPopularFundList.aspx?univ=P">Most viewed funds</a></li>
+                    <li><a href="/Investments/MostPopularGroupList.aspx?univ=P">Most viewed groups</a></li>
+                    <li><a href="/General/Redirect.aspx?url=http%3A%2F%2Fwww.abi.org.uk%2F" target="_blank">
+                        ABI website</a></li>
+                </ul>
+            </li>
+            <li><a class="MenuBarItemSubmenu" id="LevelN" href="/LifeInsurance.aspx">Life Funds</a>
+                <ul>
+                    <li><a href="/LifeInsurance.aspx">Life Home</a></li>
+                    <li><a href="/Investments/Perf.aspx?univ=N">Prices &amp; Performance</a></li>
+                    <li><a href="/Investments/FundsList.aspx?univ=N">A-Z Fund Factsheets</a></li>
+                    <li><a href="/Investments/LPGroupsList.aspx?univ=N">A-Z Group Factsheets</a></li>
+                    <li><a href="/Investments/LPProductsList.aspx?univ=N">A-Z Product Factsheets</a></li>
+                      <!--  <li><a href="/Tools/AnnuitySearch.aspx">Annuity Rates</a></li>-->
+                    <li><a href="/Investments/FundRatings.aspx?univ=N">Fund Ratings</a></li>
+                    <li><a href="/Investments/SectorPerf.aspx?univ=N">Sector Profiles</a></li>
+                    <li><a href="/Investments/LPSurveyMatrix.aspx?univ=N">Customer service rating</a></li>
+                    <li><a href="/Investments/FundRangeRatings.aspx?univ=N">Fund range ratings</a></li>
+                    <li><a href="/Education/Glossaries/Insurance.aspx">Life funds glossary</a></li>
+                    <li><a href="/News/DisplayStory.aspx?scope=Insurance+fund">Life fund News</a></li>
+                    <li><a href="/Investments/MostPopularFundList.aspx?univ=N">Most viewed funds</a></li>
+                    <li><a href="/Investments/MostPopularGroupList.aspx?univ=N">Most viewed groups</a></li>
+                    <li><a href="/General/Redirect.aspx?url=http%3A%2F%2Fwww.abi.org.uk%2F" target="_blank">
+                        ABI website</a></li>
+                </ul>
+            </li>
+            <li><a class="MenuBarItemSubmenu" id="LevelB" href="/Offshore.aspx">Offshore Funds</a>
+                <ul>
+                    <li><a href="/Offshore.aspx">Offshore Home</a></li>
+                    <li><a href="/Investments/Perf.aspx?univ=B">Prices &amp; Performance</a></li>
+                    <li><a href="/Investments/FundsList.aspx?univ=B">A-Z Fund Factsheets</a></li>
+                    <li><a href="/Investments/GroupsList.aspx?univ=B">A-Z Group Factsheets</a></li>
+                    <li><a href="/Investments/FundRatings.aspx?univ=B">Fund Ratings</a></li>
+                    <li><a href="/Investments/SectorPerf.aspx?univ=B">Sector Profiles</a></li>
+                    <li><a href="/Education/OffshoreGuide.aspx">Offshore Guide</a></li>
+                    <li><a href="/News/DisplayStory.aspx?scope=Offshore">Offshore News</a></li>
+                    <li><a href="/Investments/MostPopularFundList.aspx?univ=B">Most viewed funds</a></li>
+                    <li><a href="/Investments/MostPopularGroupList.aspx?univ=B">Most viewed groups</a></li>
+                </ul>
+            </li>
+            <li><a class="MenuBarItemSubmenu" id="LevelE" href="/ETFHome.aspx">ETFs</a>
+                <ul>
+                    <li><a href="/ETFHome.aspx">ETFs Home</a></li>
+                    <li><a href="/Investments/Perf.aspx?univ=E">Prices &amp; Performance</a></li>
+                    <li><a href="/Investments/FundsList.aspx?univ=E">A-Z Fund Factsheets</a></li>
+                    <li><a href="/Investments/GroupsList.aspx?univ=E">A-Z Group Factsheets</a></li>
+                    <li><a href="/Investments/SectorPerf.aspx?univ=E">Sector Profiles</a></li>
+                    <li><a href="/Education/ETF.aspx">ETF Guide</a></li>
+                    <li><a href="/News/DisplayStory.aspx?scope=General">ETFs News</a></li>
+                    <li><a href="/Investments/MostPopularFundList.aspx?univ=E">Most viewed funds</a></li>
+                    <li><a href="/Investments/MostPopularGroupList.aspx?univ=E">Most viewed groups</a></li>
+                </ul>
+            </li>
+            <li><a class="MenuBarItemSubmenu" href="/VCTHome.aspx">VCTs</a>
+                <ul>
+                    <li><a href="/VCTHome.aspx">VCTs Home</a></li>
+                    <li><a href="/Investments/VCTPerf.aspx">VCT Prices &amp; Performance</a></li>
+                    <li><a href="/Investments/VCTFundsList.aspx">A-Z VCT Fund Factsheets</a></li>
+                    <li><a href="/Education/VCT.aspx">VCT guide</a></li>
+                    <li><a href="/Investments/MostPopularFundList.aspx?univ=VCT">Most viewed VCT funds</a></li>
+                    <li><a href="/Investments/MostPopularGroupList.aspx?univ=VCT">Most viewed VCT groups</a></li>
+                  										
+                </ul>
+            </li>  
+     
+ <li><a class="MenuBarItemSubmenu" href="/StructuredProducts.aspx">SPs</a>
+                <ul>
+                   
+                    <li><a href="/StructuredProducts.aspx">Structured Products Home</a></li>
+                    <li><a href="/Investments/StructuredProductPerf.aspx">A-Z SP product factsheets</a></li>
+					<li><a href="/Investments/SPGroupsList.aspx">A-Z SP group factsheets</a></li>
+					<li><a href="/Education/Structuredproduct.aspx">Structured products guide</a></li>
+					<li><a href="/Education/Glossaries/StructuredProducts.aspx">Structured products glossary</a></li>
 				
-			</div>
-			<!-- END mainMenu -->
-			
-			<!-- subMenu -->
-			<div id="subMenu" style="line-height:14px;">
-				<ul id="subInvestments" class="MenuBarHorizontal" style="display: none;">
-					<li class="first"><a id="LevelU" class="MenuBarItemSubmenu" href="/UTOEICs.aspx">
-						Unit Trust &amp; OEICs</a>
-						<ul>
-							<li><a href="/Investments/Perf.aspx?univ=U">Prices &amp; Performance</a></li>
-							<!--<li><a href="/Factsheets/FundNewsResearch.aspx">FER Fund Profiles</a></li>-->
-							<li><a href="/Investments/FundsList.aspx?univ=U">A-Z Fund Factsheets</a></li>
-							<li><a href="/Investments/FeaturedGroups.aspx?univ=U">A-Z Group Factsheets</a></li>
-                            <!--<li><a href="/Investments/FeaturedGroups.aspx?univ=U">A-Z Group Factsheets</a></li>-->
-							<li><a href="/Investments/SectorPerf.aspx?univ=U">Sector Analysis</a></li>
-							<li><a href="/News/KeyStrategies/KeystrategiesHome.aspx">Key Strategies</a></li>
-							<li><a href="/Investments/FundRatings.aspx?univ=U">Fund Ratings</a></li>
-							<li><a href="/Education/UT.aspx">Unit Trust &amp; OEIC Guide</a></li>
-							<li><a href="/News/DisplayStory.aspx?scope=UT+%26+OEIC">Unit Trust &amp; OEICs News</a></li>
-							<li><a href="/Investments/MostPopularFundList.aspx?univ=U">Most viewed funds</a></li> 
-							<li><a href="/Investments/MostPopularGroupList.aspx?univ=U">Most viewed groups</a></li>
-							<li><a href="/General/Redirect.aspx?url=http%3A%2F%2Fwww.investmentuk.org" target="_blank">IMA website</a></li>
-						</ul>
-					</li>
-					<li><a class="MenuBarItemSubmenu" id="LevelT" href="/InvestmentTrusts.aspx">Investment Trusts</a>
-						<ul>
-							<li><a href="/Investments/Perf.aspx?univ=T">Prices &amp; Performance</a></li>
-							<li><a href="/Investments/FundsList.aspx?univ=T">A-Z Fund Factsheets</a></li>
-							<li><a href="/Investments/GroupsList.aspx?univ=T">A-Z Group Factsheets</a></li>
-							<li><a href="/Investments/Warrants.aspx?univ=T">A-Z Warrants</a></li>
-							<li><a href="/Investments/FundRatings.aspx?univ=T">Fund Ratings</a></li>
-							<li><a href="/Investments/SectorPerf.aspx?univ=T">Sector Analysis</a></li>
-							<li><a href="/Investments/SplitCapitalAnalytics.aspx?univ=T">Split Capital Analytics</a></li>
-							<li><a href="/Education/Investmenttrust.aspx">Investment Trust Guide</a></li> 
-							<li><a href="/News/DisplayStory.aspx?scope=Investment+Trust">Investment Trust News</a></li>
-							<li><a href="/Investments/MostPopularFundList.aspx?univ=T">Most viewed funds</a></li>
-							<li><a href="/Investments/MostPopularGroupList.aspx?univ=T">Most viewed groups</a></li>
-							<li><a href="/General/Redirect.aspx?url=http%3A%2F%2Fwww.theaic.co.uk" target="_blank">AIC website</a></li>
-						</ul>
-					</li>
-					<li><a class="MenuBarItemSubmenu" id="LevelP" href="/Pension.aspx">Pension Funds</a>
-						<ul>
-							<li><a href="/Investments/Perf.aspx?univ=P">Prices &amp; Performance</a></li>
-							<li><a href="/Investments/FundsList.aspx?univ=P">A-Z Fund Factsheets</a></li>
-							<li><a href="/Investments/LPGroupsList.aspx?univ=P">A-Z Group Factsheets</a></li>
-							<li><a href="/Investments/LPProductsList.aspx?univ=P">A-Z Product Factsheets</a></li>
-							  <!--  <li><a href="/Tools/AnnuitySearch.aspx">Annuity Rates</a></li>-->
-							<li><a href="/Investments/FundRatings.aspx?univ=P">Fund Ratings</a></li>
-							<li><a href="/Investments/SectorPerf.aspx?univ=P">Sector Profiles</a></li>
-							<li><a href="/Investments/LPSurveyMatrix.aspx?univ=P">Customer service rating</a></li>
-							<li><a href="/Investments/FundRangeRatings.aspx?univ=P">Fund range ratings</a></li>
-							<li><a href="/Education/Glossaries/Pension.aspx">Pension fund glossary</a></li>
-							<li><a href="/News/Research.aspx?researchCode=Pensions">Pensions research centre</a></li>
-							<li><a href="/News/DisplayStory.aspx?scope=Pension+Fund">Pension Fund News</a></li>
-							<li><a href="/Investments/MostPopularFundList.aspx?univ=P">Most viewed funds</a></li>
-							<li><a href="/Investments/MostPopularGroupList.aspx?univ=P">Most viewed groups</a></li>
-							<li><a href="/General/Redirect.aspx?url=http%3A%2F%2Fwww.abi.org.uk%2F" target="_blank">ABI website</a></li>
-						</ul>
-					</li>
-					<li><a class="MenuBarItemSubmenu" id="LevelN" href="/LifeInsurance.aspx">Life Funds</a>
-						<ul>
-							<li><a href="/Investments/Perf.aspx?univ=N">Prices &amp; Performance</a></li>
-							<li><a href="/Investments/FundsList.aspx?univ=N">A-Z Fund Factsheets</a></li>
-							<li><a href="/Investments/LPGroupsList.aspx?univ=N">A-Z Group Factsheets</a></li>
-							<li><a href="/Investments/LPProductsList.aspx?univ=N">A-Z Product Factsheets</a></li>
-							  <!--  <li><a href="/Tools/AnnuitySearch.aspx">Annuity Rates</a></li>-->
-							<li><a href="/Investments/FundRatings.aspx?univ=N">Fund Ratings</a></li>
-							<li><a href="/Investments/SectorPerf.aspx?univ=N">Sector Profiles</a></li>
-							<li><a href="/Investments/LPSurveyMatrix.aspx?univ=N">Customer service rating</a></li>
-							<li><a href="/Investments/FundRangeRatings.aspx?univ=N">Fund range ratings</a></li>
-							<li><a href="/Education/Glossaries/Insurance.aspx">Life funds glossary</a></li> 
-							<li><a href="/News/DisplayStory.aspx?scope=Insurance+fund">Life fund News</a></li>
-							<li><a href="/Investments/MostPopularFundList.aspx?univ=N">Most viewed funds</a></li>
-							<li><a href="/Investments/MostPopularGroupList.aspx?univ=N">Most viewed groups</a></li>
-							<li><a href="/General/Redirect.aspx?url=http%3A%2F%2Fwww.abi.org.uk%2F" target="_blank">ABI website</a></li>
-						</ul>
-					</li>
-					<li><a class="MenuBarItemSubmenu" id="LevelB" href="/Offshore.aspx">Offshore Funds</a>
-						<ul>
-							<li><a href="/Investments/Perf.aspx?univ=B">Prices &amp; Performance</a></li>
-							<li><a href="/Investments/FundsList.aspx?univ=B">A-Z Fund Factsheets</a></li>
-							<li><a href="/Investments/GroupsList.aspx?univ=B">A-Z Group Factsheets</a></li>
-							<li><a href="/Investments/FundRatings.aspx?univ=B">Fund Ratings</a></li>
-							<li><a href="/Investments/SectorPerf.aspx?univ=B">Sector Profiles</a></li>
-							<li><a href="/Education/OffshoreGuide.aspx">Offshore Guide</a></li> 
-							<li><a href="/News/DisplayStory.aspx?scope=Offshore">Offshore News</a></li> 
-							<li><a href="/Investments/MostPopularFundList.aspx?univ=B">Most viewed funds</a></li>
-							<li><a href="/Investments/MostPopularGroupList.aspx?univ=B">Most viewed groups</a></li>
-						</ul>
-					</li>
-					<li><a class="MenuBarItemSubmenu" id="LevelE" href="/ETFHome.aspx">ETFs</a>
-						<ul>
-							<li><a href="/Investments/Perf.aspx?univ=E">Prices &amp; Performance</a></li>
-							<li><a href="/Investments/FundsList.aspx?univ=E">A-Z Fund Factsheets</a></li>
-							<li><a href="/Investments/GroupsList.aspx?univ=E">A-Z Group Factsheets</a></li>
-							<li><a href="/Investments/SectorPerf.aspx?univ=E">Sector Profiles</a></li>
-							<li><a href="/Education/ETF.aspx">ETF Guide</a></li>
-							<li><a href="/News/DisplayStory.aspx?scope=General">ETFs News</a></li>
-							<li><a href="/Investments/MostPopularFundList.aspx?univ=E">Most viewed funds</a></li>
-							<li><a href="/Investments/MostPopularGroupList.aspx?univ=E">Most viewed groups</a></li>
-						</ul>
-					</li>
-					<li><a class="MenuBarItemSubmenu" id="LevelSP" href="/StructuredProducts.aspx">Structured Products</a>
+                </ul>
+            </li>      
+    
+        <!--   <FinEx:DisplayLive>
+            <FinEx:StructuredProductsBlock>
+						<li><a class="MenuBarItemSubmenu" id="LevelSP" href="/StructuredProducts.aspx">Structured Products</a>
 							<ul>
+							    <li><a href="/StructuredProducts.aspx">Structured Products Home</a></li>
 								<li><a href="/Investments/StructuredProductPerf.aspx">A-Z product factsheets</a></li>
 								<li><a href="/Investments/SPGroupsList.aspx">A-Z group factsheets</a></li>
 								<li><a href="/Education/Structuredproduct.aspx">Structured products guide</a></li>
-								<li><a href="/Education/Glossaries/StructuredProducts.aspx">Structured products glossary</a></li>
-								<!--<li><a href="/News/Research.aspx?researchCode=Absolute+return">Alternatives research</a></li>-->
+								<li><a href="/Education/Glossaries/StructuredProducts.aspx">Structured products glossary</a></li>								
 							</ul>
-						</li>
-					<li><a class="MenuBarItemSubmenu" href="/VCTHome.aspx">VCT</a>
-						 <ul>
-							 <li><a href="/Investments/VCTPerf.aspx">Prices &amp; Performance</a></li>
-							 <li><a href="/Investments/VCTFundsList.aspx">A-Z Fund Factsheets</a></li>
-							 <li><a href="/Education/VCT.aspx">VCT guide</a></li>
-							 <li><a href="/Investments/MostPopularFundList.aspx?univ=VCT">Most viewed funds</a></li>	
-							 <li><a href="/Investments/MostPopularGroupList.aspx?univ=VCT">Most viewed groups</a></li>						
-						 </ul>
-					</li>
-				</ul>
-				
-				<ul id="subManagers" class="MenuBarHorizontal" style="display: none;">
-					<li><a class="MenuBarItemSubmenu" href="/Managers/Home.aspx">Home</a></li>
-					<li><a class="MenuBarItemSubmenu" href="/Managers/AlphaManagers.aspx">Alpha managers</a> </li>
-					<li><a class="MenuBarItemSubmenu" href="/Managers/ManagerPerf.aspx">Performance league table</a> </li>
-					<li><a class="MenuBarItemSubmenu" href="/Managers/ManagersList.aspx">A-Z fund manager factsheets</a> </li>
-					<li><a class="MenuBarItemSubmenu" href="/News/Research.aspx?researchCode=Professional%20Q%26A">Manager research</a> </li>
-					<li><a class="MenuBarItemSubmenu" href="/News/DisplayStory.aspx?scope=Fund%20manager%20moves">Manager news</a> </li>
-				</ul>
-				
-				<ul id="subFundswire" class="MenuBarHorizontal" style="display: none;">				
-					<li><a class="MenuBarItemSubmenu" href="/Fundswire/FundswireNews.aspx">Today's news</a> </li>
-					<li><a class="MenuBarItemSubmenu" href="/Fundswire/Archive.aspx">News Archive</a> </li>
-					<li><a class="MenuBarItemSubmenu" href="/Fundswire/FundswireAlerts.aspx">Alerts</a>
-					    <ul>
-					        <li><a href="/Fundswire/FundswireAlerts.aspx">Configure alerts</a></li>
-					        <li><a href="/Fundswire/UserFundswireAlerts.aspx">Alert news</a></li>
-					    </ul>
-					 </li>
-					<li><a class="MenuBarItemSubmenu" href="/Fundswire/FundswireAdvancedSearch.aspx">Advanced search</a> </li>					
-				</ul>
-				
-				<ul id="subNews" class="MenuBarHorizontal" style="display: none;">
-					<li class="first"><a class="MenuBarItemSubmenu" id="LevelNews" href="/News/DisplayStory.aspx?type=news">News archive</a>
-						<ul>											
-							<li><a href="/News/DisplayStory.aspx?scope=UT+%26+OEIC">Unit Trust &amp; OEICs news</a></li>
-							<li><a href="/News/DisplayStory.aspx?scope=Investment+Trust">Investment Trust news</a></li>
-							<li><a href="/News/DisplayStory.aspx?scope=Pension+Fund">Pension Fund news</a></li>		
-							<li><a href="/News/DisplayStory.aspx?scope=Insurance+Fund">Insurance fund news</a></li>	
-							<li><a href="/News/DisplayStory.aspx?scope=Offshore">Offshore news</a></li>	
-							<li><a href="/News/DisplayStory.aspx?scope=Structured+product">Structured product news</a></li>	
-							<li><a href="/News/DisplayStory.aspx?scope=General">General news</a></li>
-							<li><a href="/News/DisplayStory.aspx?scope=Fund+manager+moves">Fundmanager news</a></li>
-							<li><a href="/News/DisplayStory.aspx?scope=IFA">IFA news</a></li>																							
-							<li><a href="/News/DisplayStory.aspx?scope=Educational">Educational news</a></li>
-									<li><a href="/News/DisplayStory.aspx?scope=Market">Market news</a></li>																			
-						</ul>
-					</li>
-					<li><a class="MenuBarItemSubmenu" id="LevelResearch" href="/News/Research.aspx?type=research">Research archive</a>
-					<!--<ul>												
-							 <li><a href="/News/Research.aspx?researchCode=Absolute+return">Absolute return</a></li>
-							<li><a href="/News/Research.aspx?researchCode=Asset+allocation">Asset allocation</a></li>						
-							<li><a href="/News/Research.aspx?researchCode=Comment">Comment</a></li>
-							<li><a href="/News/Research.aspx?researchCode=FER+Viewpoint">FER Viewpoint</a></li>
-							<li><a href="/News/Research.aspx?researchCode=Fund+selection">Fund selection:UT&amp;OEICs</a></li>																		
-							<li><a href="/News/Research.aspx?researchCode=Investment+trust+review">Investment trust review</a></li>
-							<li><a href="/News/Research.aspx?researchCode=Insurance+bonds">Life Funds</a></li>
-							<li><a href="/News/Research.aspx?researchCode=News+analysis">News analysis</a></li>	
-							<li><a href="/News/Research.aspx?researchCode=Offshore+investments">Offshore investments</a></li>																							
-							<li><a href="/News/Research.aspx?researchCode=Pensions">Pensions</a></li>
-							<li><a href="/News/Research.aspx?researchCode=Professional+Q%26A">Professional Q&amp;A</a></li>
-							<li><a href="/News/Research.aspx?researchCode=Regulation">Regulation</a></li>
-							<li><a href="/News/Research.aspx?researchCode=IMA+sector+analysis">Sector analysis</a></li>
-							<li><a href="/News/Research.aspx?researchCode=Tax+shelters">Tax shelters</a></li>
-						</ul>-->
-					</li>
-					<li><a class="MenuBarItemSubmenu" href="/Tools/AdviserFundIndex.aspx">Adviser Fund Index</a>
-						<ul>
-						  <li><a href="/Tools/AFIIndexSelect.aspx?afiType=Aggressive">AFI Aggressive</a> </li>
-						  <li><a href="/Tools/AFIIndexSelect.aspx?afiType=Balanced">AFI Balanced</a> </li>
-							<li><a href="/Tools/AFIIndexSelect.aspx?afiType=Cautious">AFI Cautious</a> </li>
-							<li><a href="/Tools/Panellists.aspx">AFI panellists</a> </li>          	    
-							<li><a href="/Tools/Methodology.aspx">AFI methodology</a> </li>
-						</ul> 
-					</li>
-					<li><a class="MenuBarItemSubmenu" href="/News/KeyStrategies/KeystrategiesHome.aspx">Key strategies</a>
-						<ul>
-							<li><a href="/News/Keystrategies/Profiles.aspx?ps=eth">Ethical</a></li>
-							
-							<li><a href="/News/Keystrategies/Profiles.aspx?ps=mm">Multi manager</a></li>
-							
-							<li><a href="/News/Keystrategies/Profiles.aspx?ps=inc">Income</a></li>
-						</ul>
-					</li>
-					<li><a class="MenuBarItemSubmenu" href="/General/Video.aspx">Videos</a></li>
-					<li><a class="MenuBarItemSubmenu" href="/News/SectorAnalysis.aspx">Sector Analysis</a>
-						<ul>
-							<li><a href="/Investments/SectorPerf.aspx?univ=U">UT Sector Analysis</a></li>
-							<li><a href="/Investments/SectorPerf.aspx?univ=T">IT Sector Analysis</a></li>
-							<li><a href="/Investments/SectorPerf.aspx?univ=P">Pension Sectors</a></li>
-							<li><a href="/Investments/SectorPerf.aspx?univ=N">Insurance Sectors</a></li>
-						</ul>
-					</li>
-					<li><a class="MenuBarItemSubmenu" href="/News/Community/ForumHome.aspx">Community</a>
-						<ul>
-							<li><a href="/News/Community/CommentList.aspx?commentType=N">News comments</a></li>
-							<li><a href="/News/Community/CommentList.aspx?commentType=R">Research comments</a></li>
-							<li><a href="/News/Community/CommentList.aspx?commentType=F">Factsheet comments</a></li>
-						</ul>
-					</li>
-				</ul>
+						</li>	
+					</FinEx:StructuredProductsBlock>
+            <li><a class="MenuBarItemSubmenu" href="/VCTHome.aspx">VCT</a>
+                <ul>
+                     <li><a href="/VCTHome.aspx">VCT Home</a></li>
+                    <li><a href="/Investments/VCTPerf.aspx">Prices &amp; Performance</a></li>
+                    <li><a href="/Investments/VCTFundsList.aspx">A-Z Fund Factsheets</a></li>
+                    <li><a href="/Education/VCT.aspx">VCT guide</a></li>
+                    <li><a href="/Investments/MostPopularFundList.aspx?univ=VCT">Most viewed funds</a></li>
+                    <li><a href="/Investments/MostPopularGroupList.aspx?univ=VCT">Most viewed groups</a></li>
+                </ul>
+            </li>
+           </FinEx:DisplayLive> -->
+        </ul>
+        <ul id="subManagers" class="MenuBarHorizontal">
+            <li><a class="MenuBarItemSubmenu" href="/Managers/Home.aspx">Home</a></li>
+            <li><a class="MenuBarItemSubmenu" href="/Managers/AlphaManagers.aspx">Alpha managers</a>
+            </li>
+            <li><a class="MenuBarItemSubmenu" href="/Managers/ManagerPerf.aspx">Performance league
+                table</a> </li>
+            <li><a class="MenuBarItemSubmenu" href="/Managers/ManagersList.aspx">A-Z fund manager
+                factsheets</a> </li>
+            <li><a class="MenuBarItemSubmenu" href="/News/Research.aspx?researchCode=Professional%20Q%26A">
+                Manager research</a> </li>
+            <li><a class="MenuBarItemSubmenu" href="/News/DisplayStory.aspx?scope=Fund%20manager%20moves">
+                Manager news</a> </li>
+        </ul>
+        <ul id="subFundswire" class="MenuBarHorizontal">
+            <li><a class="MenuBarItemSubmenu" href="/Fundswire/FundswireNews.aspx">Today's news</a>
+            </li>
+            <li><a class="MenuBarItemSubmenu" href="/Fundswire/Archive.aspx">News Archive</a> </li>
+            <li><a class="MenuBarItemSubmenu" href="/Fundswire/FundswireAlerts.aspx">Alerts</a>
+                <ul>
+                    <li><a href="/Fundswire/FundswireAlerts.aspx">Configure alerts</a></li>
+                    <li><a href="/Fundswire/UserFundswireAlerts.aspx">Alert news</a></li>
+                </ul>
+            </li>
+            <li><a class="MenuBarItemSubmenu" href="/Fundswire/FundswireAdvancedSearch.aspx">Advanced
+                search</a> </li>
+        </ul>
+        <ul id="subNews" class="MenuBarHorizontal">
+            <li class="first"><a class="MenuBarItemSubmenu" id="LevelNews" href="/News/DisplayStory.aspx?type=news">
+                News archive</a>
+                <ul>
+                    <li><a href="/News/DisplayStory.aspx?scope=UT+%26+OEIC">Unit Trust &amp; OEICs news</a></li>
+                    <li><a href="/News/DisplayStory.aspx?scope=Investment+Trust">Investment Trust news</a></li>
+                    <li><a href="/News/DisplayStory.aspx?scope=Pension+Fund">Pension Fund news</a></li>
+                    <li><a href="/News/DisplayStory.aspx?scope=Insurance+Fund">Insurance fund news</a></li>
+                    <li><a href="/News/DisplayStory.aspx?scope=Offshore">Offshore news</a></li>
+                    <li><a href="/News/DisplayStory.aspx?scope=Structured+product">Structured product news</a></li>
+                    <li><a href="/News/DisplayStory.aspx?scope=General">General news</a></li>
+                    <li><a href="/News/DisplayStory.aspx?scope=Fund+manager+moves">Fundmanager news</a></li>
+                    <li><a href="/News/DisplayStory.aspx?scope=IFA">IFA news</a></li>
+                    <li><a href="/News/DisplayStory.aspx?scope=Educational">Educational news</a></li>
+                    <li><a href="/News/DisplayStory.aspx?scope=Market">Market news</a></li>
+                </ul>
+            </li>
+            <li><a class="MenuBarItemSubmenu" id="LevelResearch" href="/News/Research.aspx?type=research">
+                Research archive</a>              
+            </li>
+            <li><a class="MenuBarItemSubmenu" href="/Tools/AdviserFundIndex.aspx">Adviser Fund Index</a>
+                <ul>
+                    <li><a href="/Tools/AFIIndexSelect.aspx?afiType=Aggressive">AFI Aggressive</a> </li>
+                    <li><a href="/Tools/AFIIndexSelect.aspx?afiType=Balanced">AFI Balanced</a> </li>
+                    <li><a href="/Tools/AFIIndexSelect.aspx?afiType=Cautious">AFI Cautious</a> </li>
+                    <li><a href="/Tools/Panellists.aspx">AFI panellists</a> </li>
+                    <li><a href="/Tools/Methodology.aspx">AFI methodology</a> </li>
+                </ul>
+            </li>
+            <li><a class="MenuBarItemSubmenu" href="/News/KeyStrategies/KeystrategiesHome.aspx">
+                Key strategies</a>
+                <ul>
+                    <li><a href="/News/Keystrategies/Profiles.aspx?ps=eth">Ethical</a></li>                    
+                    <li><a href="/News/Keystrategies/Profiles.aspx?ps=mm">Multi manager</a></li>                    
+                    <li><a href="/News/Keystrategies/Profiles.aspx?ps=inc">Income</a></li>
+                </ul>
+            </li>
+            <li><a class="MenuBarItemSubmenu" href="/General/Video.aspx">Videos</a></li>
+            <li><a class="MenuBarItemSubmenu" href="/News/SectorAnalysis.aspx">Sector Analysis</a>
+                <ul>
+                    <li><a href="/Investments/SectorPerf.aspx?univ=U">UT Sector Analysis</a></li>
+                    <li><a href="/Investments/SectorPerf.aspx?univ=T">IT Sector Analysis</a></li>
+                    <li><a href="/Investments/SectorPerf.aspx?univ=P">Pension Sectors</a></li>
+                    <li><a href="/Investments/SectorPerf.aspx?univ=N">Insurance Sectors</a></li>
+                </ul>
+            </li>
+            <li><a class="MenuBarItemSubmenu" href="/News/Community/ForumHome.aspx">Community</a>
+                <ul>
+                    <li><a href="/News/Community/CommentList.aspx?commentType=N">News comments</a></li>
+                    <li><a href="/News/Community/CommentList.aspx?commentType=R">Research comments</a></li>
+                    <li><a href="/News/Community/CommentList.aspx?commentType=F">Factsheet comments</a></li>
+                </ul>
+            </li>
+        </ul>
+        <ul id="subPortfolio" class="MenuBarHorizontal">
+            <li><a class="MenuBarItemSubmenu" href="/Tools/Portfolio/ManagePortfolio.aspx">Manage
+                your portfolios</a></li>
+            <li><a class="MenuBarItemSubmenu" href="/Tools/Portfolio/Valuation.aspx">Portfolio</a></li>
+            <li><a class="MenuBarItemSubmenu" href="/Tools/Portfolio/Watchlist.aspx">Monitor</a></li>
+        </ul>      
+        <ul id="subEducation" class="MenuBarHorizontal">        
+             <li class="first"><a class="MenuBarItemSubmenu" href="/Education/EducationHome.aspx">
+                Home</a></li>
+            <li class="first"><a class="MenuBarItemSubmenu" href="/Education/EducationLibrary.aspx">
+                Library</a>
+                <ul>
+                    <li><a href="/Education/Onethree.aspx">130/30 funds</a></li>
+                    <li><a href="/Education/AbsoluteReturn.aspx">Absolute return bonds</a> </li>
+                    <li><a href="/Education/Commercial.aspx">Commercial property</a> </li>
+                    <li><a href="/Education/EquityIncome.aspx">Equity income</a> </li>
+                    <li><a href="/Education/Etf.aspx">ETFs</a> </li>
+                    <li><a href="/Education/Supermarket.aspx">Fund Supermarket</a> </li>
+                    <li><a href="/Education/Investmenttrust.aspx">Investment trust</a> </li>
+                    <li><a href="/Education/Isa.aspx">ISAs</a> </li>
+                    <li><a href="/Education/MultiManager.aspx">Multi-manager</a> </li>
+                    <li><a href="/Education/OffshoreGuide.aspx">Offshore funds</a> </li>
+                    <li><a href="/Education/Ratio.aspx">Ratios</a> </li>
+                    <li><a href="/Education/UT.aspx">Unit Trust &amp; OEIC</a> </li>
+                    <li><a href="/Education/SaveChild.aspx">Saving for children</a> </li>
+                    <li><a href="/Education/Split.aspx">Split Capital Investment trusts</a> </li>
+                    <li><a href="/Education/Structuredproduct.aspx">Structured products</a> </li>
+                    <li><a href="/Education/VCT.aspx">VCTs</a> </li>
+                    <li><a href="/Education/EthicalInvest.aspx">Ethical Investment</a> </li>
+                    <li><a href="/Education/ShariahLaw.aspx">Shariah Law</a> </li>
+                    <li><a href="/Education/CrownRating.aspx">Crown Ratings</a> </li>
+                    <li><a href="/Education/EmergingMarket.aspx">Emerging Market</a> </li>
+                </ul>
+            </li>           
+            <li><a class="MenuBarItemSubmenu" href="/Education/Brochures.aspx?brochure=market">World
+                market reports</a> </li>
+            <li><a class="MenuBarItemSubmenu" href="http://www.dianomioffers.co.uk/partner/trustnet/brochures.epl">
+                Investment brochures</a>
+                <ul>
+                    <li><a href="/Education/Brochures.aspx?brochure=alt">Alternative investments</a></li>
+                    <li><a href="/Education/Brochures.aspx?brochure=it">Investment trust brochures</a></li>
+                    <li><a href="/Education/Brochures.aspx?brochure=isa">ISA brochures</a></li>
+                    <li><a href="/Education/Brochures.aspx?brochure=expats">Finance for ex-pats</a></li>
+                    <li><a href="/Education/Brochures.aspx?brochure=iht">Inheritance tax</a></li>
+                    <li><a href="/Education/Brochures.aspx?brochure=online">Online trading</a></li>
+                    <li><a href="/Education/Brochures.aspx?brochure=overseas">Overseas properties</a></li>
+                    <li><a href="/Education/Brochures.aspx?brochure=children">Saving for children</a></li>
+                    <li><a href="/Education/Brochures.aspx?brochure=retire">Saving for retirement</a></li>
+                    <li><a href="/Education/Brochures.aspx?brochure=plans">Savings plans</a></li>
+                    <li><a href="/Education/Brochures.aspx?brochure=vct">VCTs</a></li>
+                    <li><a href="/Education/Brochures.aspx?brochure=market">World market reports</a></li>
+                </ul>
+            </li>
+            <li><a class="MenuBarItemSubmenu" href="/Education/Brochures.aspx?brochure=bookshop">
+                Bookshop</a> </li>
+        </ul>
+        <ul id="subTools" class="MenuBarHorizontal" style="">
+            <li><a class="MenuBarItemSubmenu" href="/Tools/Tools.aspx">Performance Tools</a>
+                <ul>
+                    <li><a href="javascript:showNextHome('/Tools/PScan/FundSummary.aspx',10,1,'PortfolioScan','');">
+                        Portfolio Scanner</a></li>
+                    <li><a href="javascript:showNextHome('/Tools/Charting.aspx',10,1,'Multiplot','');">Multi-plot
+                        charting</a></li>
+                    <li><a href="javascript:checkTypeCode('/Tools/ComparisonReport.aspx',2,4,'');">Fund
+                        Comparison</a></li>
+                    <li><a href="/Tools/TopQuartiles.aspx">Top Quartiles</a></li>
+                    <li><a href="/Investments/FundRatings.aspx?univ=U">Fund Rating</a></li>
+                    <li><a href="/Tools/Adv-Search.aspx">Advanced Search</a></li>
+                    <li><a href="javascript:ToolDiscPerf('U');">Discrete Performance</a></li>
+                </ul>
+            </li>
+            <li><a class="MenuBarItemSubmenu" href="/Tools/AdviserFundIndex.aspx">Adviser Fund Index</a>
+                <ul>
+                    <li><a href="/Tools/AFIIndexSelect.aspx?afiType=Aggressive">AFI Aggressive</a> </li>
+                    <li><a href="/Tools/AFIIndexSelect.aspx?afiType=Balanced">AFI Balanced</a> </li>
+                    <li><a href="/Tools/AFIIndexSelect.aspx?afiType=Cautious">AFI Cautious</a> </li>
+                    <li><a href="/Tools/Panellists.aspx">AFI panellists</a> </li>
+                    <li><a href="/Tools/Methodology.aspx">AFI methodology</a> </li>
+                </ul>
+            </li>
+            <li><a class="MenuBarItemSubmenu" href="/Tools/Indices.aspx">Indices</a> </li>
+            <li><a class="MenuBarItemSubmenu" href="/Currencies/CurrencyMatrix.aspx">Exchange Rate</a>
+                <ul>
+                    <li><a href="/Currencies/CurrencyMatrix.aspx">Currency Matrix</a> </li>
+                    <li><a href="/Currencies/CurrencyListing.aspx?SourceT=USD">Rates vs USD</a> </li>
+                    <li><a href="/Currencies/CurrencyListing.aspx?SourceT=GBP">Rates vs GBP</a> </li>
+                    <li><a href="/Currencies/CurrencyListing.aspx?SourceT=EUR">Rates vs EUR</a> </li>
+                    <li><a href="/Currencies/CurrencyHistory.aspx">Historical charting</a> </li>
+                </ul>
+            </li>
+            <li><a class="MenuBarItemSubmenu" href="/Tools/Search.aspx">Search</a> </li>
+            <li><a href="/Tools/FundProfiler/ClientFundProfiler.aspx">Client Fund Profiler</a></li>
+        </ul>        
+    </div>
+    <!-- END subMenu -->
+</div>
 
-				<ul id="subPortfolio" class="MenuBarHorizontal" style="display: none;">
-					<li><a class="MenuBarItemSubmenu" href="/Tools/Portfolio/ManagePortfolio.aspx">Manage your portfolios</a></li>
-					<li><a class="MenuBarItemSubmenu" href="/Tools/Portfolio/Valuation.aspx">Portfolio</a></li>
-					<li><a class="MenuBarItemSubmenu" href="/Tools/Portfolio/Watchlist.aspx">Monitor</a></li>
-				</ul>
-				
-				
-				
-				<ul id="subEducation" class="MenuBarHorizontal" style="display: none;">
-					<li class="first"><a class="MenuBarItemSubmenu" href="/Education/EducationHome.aspx">
-						Education guides</a>
-						<ul>
-							<li><a href="/Education/Onethree.aspx">130/30 funds</a></li>
-							<li><a href="/Education/AbsoluteReturn.aspx">Absolute return bonds</a> </li>
-							<li><a href="/Education/Commercial.aspx">Commercial property</a> </li>
-							<li><a href="/Education/EquityIncome.aspx">Equity income</a> </li>
-							<li><a href="/Education/Etf.aspx">ETFs</a> </li>
-							<li><a href="/Education/Supermarket.aspx">Fund Supermarket</a> </li>
-							<li><a href="/Education/Investmenttrust.aspx">Investment trust</a> </li>
-							<li><a href="/Education/Isa.aspx">ISAs</a> </li>
-							<li><a href="/Education/MultiManager.aspx">Multi-manager</a> </li>
-							<li><a href="/Education/OffshoreGuide.aspx">Offshore funds</a> </li>
-							<li><a href="/Education/Ratio.aspx">Ratios</a> </li>	
-							<li><a href="/Education/UT.aspx">Unit Trust &amp; OEIC</a> </li>
-							<li><a href="/Education/SaveChild.aspx">Saving for children</a> </li>	
-							<li><a href="/Education/Split.aspx">Split Capital Investment trusts</a> </li>						
-							<li><a href="/Education/Structuredproduct.aspx">Structured products</a> </li>
-							<li><a href="/Education/VCT.aspx">VCTs</a> </li>	
-							<li><a href="/Education/EthicalInvest.aspx">Ethical Investment</a> </li>
-							<li><a href="/Education/ShariahLaw.aspx">Shariah Law</a> </li>
-							<li><a href="/Education/CrownRating.aspx">Crown Ratings</a> </li>
-							<li><a href="/Education/EmergingMarket.aspx">Emerging Market</a> </li>
-						</ul>
-					</li>
-					<li><a class="MenuBarItemSubmenu" href="/Education/EducationHome.aspx">Glossaries</a>
-						<ul>
-							<li><a href="/Education/Glossaries/Insurance.aspx">Life Funds</a> </li>
-							<li><a href="/Education/Glossaries/Pension.aspx">Pension funds</a> </li>
-							<li><a href="/Education/Glossaries/StructuredProducts.aspx">Structured products</a> </li>
-							<li><a href="/Education/Glossaries/Ratings.aspx">Fund ratings</a> </li>						
-						</ul>
-					</li>
-					<li><a class="MenuBarItemSubmenu" href="/Education/Brochures.aspx?brochure=market">World market reports</a>
-				
-					</li>
-					<li><a class="MenuBarItemSubmenu" href="http://www.dianomioffers.co.uk/partner/trustnet/brochures.epl">Investment brochures</a>
-						<ul>
-							<li><a href="/Education/Brochures.aspx?brochure=alt">Alternative investments</a></li>
-							<li><a href="/Education/Brochures.aspx?brochure=it">Investment trust brochures</a></li>
-							<li><a href="/Education/Brochures.aspx?brochure=isa">ISA brochures</a></li>
-							<li><a href="/Education/Brochures.aspx?brochure=expats">Finance for ex-pats</a></li>
-							<li><a href="/Education/Brochures.aspx?brochure=iht">Inheritance tax</a></li>
-							<li><a href="/Education/Brochures.aspx?brochure=online">Online trading</a></li>
-							<li><a href="/Education/Brochures.aspx?brochure=overseas">Overseas properties</a></li>
-							<li><a href="/Education/Brochures.aspx?brochure=children">Saving for children</a></li>
-							<li><a href="/Education/Brochures.aspx?brochure=retire">Saving for retirement</a></li>
-							<li><a href="/Education/Brochures.aspx?brochure=plans">Savings plans</a></li>
-							<li><a href="/Education/Brochures.aspx?brochure=vct">VCTs</a></li>
-							<li><a href="/Education/Brochures.aspx?brochure=market">World market reports</a></li>
-						</ul>
-					</li>
-					<li><a class="MenuBarItemSubmenu" href="/Education/Brochures.aspx?brochure=bookshop">Bookshop</a>
-						
-					</li>
-				</ul>
-				
-				<ul id="subTools" class="MenuBarHorizontal" style="display: none;">
-					<li><a class="MenuBarItemSubmenu" href="/Tools/Tools.aspx">Performance Tools</a>
-						<ul>
-							<li><a href="javascript:showNextHome('/Tools/PScan/FundSummary.aspx',10,1,'PortfolioScan','');">Portfolio Scanner</a></li>
-							<li><a href="javascript:showNextHome('/Tools/Charting.aspx',10,1,'Multiplot','');">Multi-plot charting</a></li>
-							<li><a href="javascript:checkTypeCode('/Tools/ComparisonReport.aspx',2,4,'');">Fund Comparison</a></li>
-							<li><a href="/Tools/TopQuartiles.aspx">Top Quartiles</a></li> 
-							<li><a href="/Investments/FundRatings.aspx?univ=U">Fund Rating</a></li> 
-							<li><a href="/Tools/Adv-Search.aspx">Advanced Search</a></li> 
-							<li><a href="javascript:ToolDiscPerf('U');">Discrete Performance</a></li>
-						</ul>
-					</li>
-					<li><a class="MenuBarItemSubmenu" href="/Tools/AdviserFundIndex.aspx">Adviser Fund Index</a>
-						<ul>
-						  <li><a href="/Tools/AFIIndexSelect.aspx?afiType=Aggressive">AFI Aggressive</a> </li>
-						  <li><a href="/Tools/AFIIndexSelect.aspx?afiType=Balanced">AFI Balanced</a> </li>
-							<li><a href="/Tools/AFIIndexSelect.aspx?afiType=Cautious">AFI Cautious</a> </li>
-							<li><a href="/Tools/Panellists.aspx">AFI panellists</a> </li>          	    
-							<li><a href="/Tools/Methodology.aspx">AFI methodology</a> </li>
-						</ul> 
-					</li>
-					<li><a class="MenuBarItemSubmenu" href="/Tools/Indices.aspx">Indices</a>
-					</li>
-					<li><a class="MenuBarItemSubmenu" href="/Currencies/CurrencyMatrix.aspx">Exchange Rate</a>
-						<ul>
-						  <li><a href="/Currencies/CurrencyMatrix.aspx">Currency Matrix</a> </li>
-						  <li><a href="/Currencies/CurrencyListing.aspx?SourceT=USD">Rates vs USD</a> </li>
-							<li><a href="/Currencies/CurrencyListing.aspx?SourceT=GBP">Rates vs GBP</a> </li>
-							<li><a href="/Currencies/CurrencyListing.aspx?SourceT=EUR">Rates vs EUR</a> </li>          	    
-							<li><a href="/Currencies/CurrencyHistory.aspx">Historical charting</a> </li>
-						</ul> 
-					</li> 
-					<li><a class="MenuBarItemSubmenu" href="/Tools/Search.aspx">Search</a>
-					</li>
-					<li><a href="/Tools/FundProfiler/ClientFundProfiler.aspx">Client Fund Profiler</a></li>
-				</ul>
-				
-				
-				
-			</div>
-			<!-- END subMenu -->
-		
-		</div>
+<script type="text/javascript">
+		    function ChangeUniverseBySector(id)
+		    {
+		        $(id).checked='checked';
+		        var sectorChoice=document.masterForm.universeSector;
+		         for (var i=0; i < sectorChoice.length; i++)
+                   {
+                      if (sectorChoice[i].checked)
+                      {                       
+                        SetCookie("TN_UniverseBySector", sectorChoice[i].value, 123231); 
+                        if($('hdnTPFUniverseCode')) $('hdnTPFUniverseCode').value=sectorChoice[i].value;
+                        if($('hdnSAUniverseCode'))$('hdnSAUniverseCode').value=sectorChoice[i].value;
+                        if($('hdnUniverseCode')) $('hdnUniverseCode').value=sectorChoice[i].value;
+                      }
+                   }
+                   document.masterForm.submit();
+		    }
+</script>
+
+
 		<!-- Global Menu -->
 
 		<!-- Currency Menu -->
 		<div id="currencyMenu">
 			<!--Before login-->
-			<div id="ctl00_MenubarHome_beforeLoginRowhidden" class="rowWiseBLRow1hidden"><div class="menutext" style="width: 96px;text-align:center;"><input type="text" class="menuinput" id="txtUser" name="txtUser" onkeypress="return checkkey(this,event);"></div><div class="menutext" style="width: 96px;text-align:center;"><input type="password" class="menuinput" id="txtPass" name="txtPass" onkeypress="return checkkey(this,event);" autocomplete="off"></div><span><input type="checkbox" id="Checkbox1" name="menuRemeber" checked="checked" alt="Remember Me" title="Remember Me" style="border:none;width:14px;"><span style="COLOR: #1a5083;cursor:pointer;" onclick="return LoginCheckMenu();checkUserInformation();"><b> Login »</b></span></span></div>
+			<div id="ctl00_MenubarHome_beforeLoginRowhidden" class="rowWiseBLRow1hidden"><div class="menutext" style="width: 96px;text-align:center;"><input type="text" class="menuinput" id="txtUser" name="txtUser" onkeypress="return checkkey(this,event);"></div><div class="menutext" style="width: 96px;text-align:center;"><input type="password" class="menuinput" id="txtPass" name="txtPass" onkeypress="return checkkey(this,event);"></div><span><input type="checkbox" id="Checkbox1" name="menuRemeber" checked="checked" alt="Remember Me" title="Remember Me" style="border:none;width:14px;"><span style="COLOR: #1a5083;cursor:pointer;" onclick="return LoginCheckMenu();checkUserInformation();"><b> Login »</b></span></span></div>
 			<div id="ctl00_MenubarHome_beforeLoginRow1" class="rowWiseBLRow1" style="display:block;"><div id="divUser" class="menutextBLUser" onclick="AddDynamicInput()">Username/email</div><div class="menutextBLUser" id="divPass" onclick="AddDynamicInput()">Password</div><span><input type="checkbox" id="menuRemeberStatic" name="menuRemeberStatic" checked="checked" alt="Remember Me" title="Remember Me" style="border:none;width:14px;"><span style="COLOR: #1a5083;cursor:pointer;" onclick="return LoginCheckMenu();checkUserInformation();"><b> Login »</b></span></span></div>
 			<div id="ctl00_MenubarHome_beforeLoginRow2" class="rowWiseBLRow2" style="display:block;">
-				<table style="height: 100%"><tbody><tr>
+				<table style="height: 100%;margin-top:1px;"><tbody><tr>
 					<td class="freeSignUp" style="color:White;">
 						<span><a href="/Tools/Portfolio/PortfolioRegister.aspx">Register Free</a></span>
 						<span>»</span>
@@ -563,7 +631,7 @@ var UserFundswireCodes='';
 	SetActiveMenu();
 	var serverName = 'www.trustnet.com';
 	var Mode='General';	
-	var isDontShowForHK=false;	
+	var isDontShowForHK=false;		
 	</script>
 	
 	<script type="text/javascript">
@@ -604,7 +672,7 @@ var UserFundswireCodes='';
 		<table cellspacing="0" cellpadding="0">
 			<tbody><tr>
 				<td align="center">
-					<input type="text" name="txtSearch" id="keyword" style="width:95%;" class="keyword" onkeypress="if(event.keyCode == 13)NavigateSearch(); return true;" autocomplete="off">
+					<input type="text" name="txtSearch" id="keyword" style="width:95%;" class="keyword" onkeypress="if(event.keyCode == 13)NavigateSearch(); return true;">
 					<div id="autosuggest"><div>&nbsp;</div></div>
 				</td>
 				<td style="width:23px;">
@@ -640,15 +708,7 @@ var UserFundswireCodes='';
 			</tr>
 			<tr>
 				<td colspan="2" style="text-align:center;padding-top:2px;">
-				    <div class="AdPosTopLeft" id="adPos_TopLeft"><div id="adContainer_TopLeft" class="noPrint" style="left: 195px; top: 331px; display: inline; position: absolute;">
-		<script type="text/javascript"><!--//--><![CDATA[//><!--
-		var adv_position = 'TopLeft';
-		if($("adPos_"+adv_position)) {
-			OAS_AD(adv_position);
-		}
-		//--><!]]>
-		</script><a href="http://oas.trustnet.com/RealMedia/ads/click_nx.ads/www.trustnet.com/Education/PrivacyPolicy.aspx/1192371194@Top,TopLeft,Left,Top3,Position1,x02!TopLeft?investor_type=adviser&amp;email=&amp;portfoliosectors=" rel="external"><img src="http://oas.trustnet.com/RealMedia/ads/adstream_nx.ads/www.trustnet.com/Education/PrivacyPolicy.aspx/1192371194@Top,TopLeft,Left,Top3,Position1,x02!TopLeft?investor_type=adviser&amp;email=&amp;portfoliosectors=" alt="advert"></a>
-	</div></div>
+				    <div class="AdPosTopLeft" id="adPos_TopLeft">&nbsp;</div>
 
 
 
@@ -691,7 +751,7 @@ var UserFundswireCodes='';
 	<td style="color:#2F6496;"> 
 	      <p>
 				<strong>Portfolio</strong>: 
-				<br>This shows the number of portfolios you hold. Portfolios can be constructed from Unit Trust and OEICs,Investment Trusts,Pension Funds,Life Funds,Offshore Funds,Exchange Traded Funds and cash. Holdings and acquisition costs can be recorded so that profits/losses can be calculated. These can be calculated in terms of a number of base currencies. Overall portfolio values, as well as portfolio constituents, can be made the subject of alerts.
+				<br>This shows the number of portfolios you hold. Portfolios can be constructed from Unit Trust and OEICs,IMA Unit Trust and OEICs,Investment Trusts,Pension Funds,Life Funds,Offshore Funds,Exchange Traded Funds and cash. Holdings and acquisition costs can be recorded so that profits/losses can be calculated. These can be calculated in terms of a number of base currencies. Overall portfolio values, as well as portfolio constituents, can be made the subject of alerts.
 			</p>
 			<p>
 				<strong>Watchlist</strong>: 
@@ -735,21 +795,13 @@ var UserFundswireCodes='';
 	<fieldset>
 		<legend>Fund Performance</legend>
 		<ul id="navLeft2">
-			<li><a href="/Investments/Perf.aspx?univ=U">Unit Trusts &amp; OEICs</a></li><li><a href="/Investments/Perf.aspx?univ=T">Investment Trusts</a></li><li><a href="/Investments/Perf.aspx?univ=P">Pension Funds</a></li><li><a href="/Investments/Perf.aspx?univ=N">Life Funds</a></li><li><a href="/Investments/Perf.aspx?univ=B">Offshore Funds</a></li><li><a href="/Investments/Perf.aspx?univ=E">ETFs</a></li><li><a href="/Investments/VCTPerf.aspx">Venture Capital Trusts</a></li>
+			<li><a href="/Investments/Perf.aspx?univ=O&amp;ctr=LN">IMA Unit Trusts &amp; OEICs</a></li><li><a href="/Investments/Perf.aspx?univ=U&amp;ctr=LN">Unit Trusts &amp; OEICs</a></li><li><a href="/Investments/EquityPerfList.aspx?ctr=LN">Equity Price &amp; Performance</a></li><li><a href="/Investments/Perf.aspx?univ=T&amp;ctr=LN">Investment Trusts</a></li><li><a href="/Investments/Perf.aspx?univ=P&amp;ctr=LN">Pension Funds</a></li><li><a href="/Investments/Perf.aspx?univ=N&amp;ctr=LN">Life Funds</a></li><li><a href="/Investments/Perf.aspx?univ=B&amp;ctr=LN">Offshore Funds</a></li><li><a href="/Investments/Perf.aspx?univ=E&amp;ctr=LN">ETFs</a></li><li><a href="/Investments/VCTPerf.aspx?ctr=LN">Venture Capital Trusts</a></li>
 		</ul>
 	</fieldset>
 	<a href="javascript:leftNavHide('navLeft2');void(0);"> <img id="btnnavLeft2" class="leftNavImg" alt="show/hide" src="/images/icon_hide.png"> </a>	
 	
 	<div style="margin-top:10px;">
-			 <div class="AdPosLeft" id="adPos_Left"><div id="adContainer_Left" class="noPrint" style="left: 193px; top: 593px; display: inline;">
-		<script type="text/javascript"><!--//--><![CDATA[//><!--
-		var adv_position = 'Left';
-		if($("adPos_"+adv_position)) {
-			OAS_AD(adv_position);
-		}
-		//--><!]]>
-		</script><a href="http://oas.trustnet.com/RealMedia/ads/click_nx.ads/www.trustnet.com/Education/PrivacyPolicy.aspx/1192371194@Top,TopLeft,Left,Top3,Position1,x02!Left?investor_type=adviser&amp;email=&amp;portfoliosectors=" rel="external"><img src="http://oas.trustnet.com/RealMedia/ads/adstream_nx.ads/www.trustnet.com/Education/PrivacyPolicy.aspx/1192371194@Top,TopLeft,Left,Top3,Position1,x02!Left?investor_type=adviser&amp;email=&amp;portfoliosectors=" alt="advert"></a>
-	</div></div>
+			 <div class="AdPosLeft" id="adPos_Left">&nbsp;</div>
 
 
 
@@ -778,7 +830,7 @@ var UserFundswireCodes='';
 	}
 	 ShowAllLefNav();
     -->
-	</script><input type="hidden" name="scope" id="scope">
+	</script>
 </div>
 
 			        </div>
@@ -794,34 +846,26 @@ var UserFundswireCodes='';
 	<table border="0" cellpadding="0" cellspacing="0" style="padding:5px 0px 5px 0px; width: 815px;">		
 		<tbody><tr style="height:50%; padding-top:7px;">
 			<td style="width:310px;" rowspan="3">
-				<div class="AdPosTop3" id="adPos_Top3"><div id="adContainer_Top3" class="noPrint" style="left: 324px; top: 227px; text-align: center; display: inline; position: absolute;">
-		<script type="text/javascript"><!--//--><![CDATA[//><!--
-		var adv_position = 'Top3';
-		if($("adPos_"+adv_position)) {
-			OAS_AD(adv_position);
-		}
-		//--><!]]>
-		</script><a href="http://oas.trustnet.com/RealMedia/ads/click_nx.ads/www.trustnet.com/Education/PrivacyPolicy.aspx/1192371194@Top,TopLeft,Left,Top3,Position1,x02!Top3?investor_type=adviser&amp;email=&amp;portfoliosectors=" rel="external"><img src="http://oas.trustnet.com/RealMedia/ads/adstream_nx.ads/www.trustnet.com/Education/PrivacyPolicy.aspx/1192371194@Top,TopLeft,Left,Top3,Position1,x02!Top3?investor_type=adviser&amp;email=&amp;portfoliosectors=" alt="advert"></a>
-	</div></div>
+				<div class="AdPosTop3" id="adPos_Top3">&nbsp;</div>
 
 
 
 			</td>			
 			<td id="tdUniverseDD" style="width:146px; vertical-align:middle;">
 				<select id="qsUniverseDD" name="qsUniverseDD" style="width:144px;" onchange="ChangeUKQS(this.value,'Change');">
-					<option value="U:True" selected="selected">Unit Trust and OEICs</option><option value="T:True">Investment Trusts</option><option value="P:True">Pension Funds</option><option value="N:True">Life Funds</option><option value="B:True">Offshore Funds</option><option value="E:True">Exchange Traded Funds</option><option value="VCT:True">Venture Capital Trusts</option>
+					<option value="O:True" selected="selected">IMA Unit Trust and OEICs</option><option value="T:True">Investment Trusts</option><option value="P:True">Pension Funds</option><option value="N:True">Life Funds</option><option value="B:True">Offshore Funds</option><option value="E:True">Exchange Traded Funds</option><option value="VCT:True">Venture Capital Trusts</option>
 				</select>
 			</td>
 			
-			<td id="tdDomicileDD" style="width: 180px; vertical-align: middle;">
-				<select id="qsDomicileDD" name="qsDomicileDD" onchange="SelectTopOnDD(this);" style="width: 178px;">		 
-					<option value="" selected="selected">All Geographies</option><option value="AFRI">Africa</option><option value="APAC">Asia Pacific</option><option value="APEJ">Asia Pacific Ex Japan</option><option value="AUS">Australia</option><option value="BRIC">Brazil, Russia, India and China</option><option value="CEAS">Central Asia</option><option value="CHN">China</option><option value="EAST">Eastern Europe</option><option value="EMEA">Eastern Europe Middle East and Africa</option><option value="EURO">Europe</option><option value="EUXU">Europe Ex UK</option><option value="EU">European Economic Community</option><option value="EURZ">Eurozone</option><option value="FARE">Far East</option><option value="DEU">Germany</option><option value="GLOB">Global</option><option value="IND">India</option><option value="JPN">Japan</option><option value="LTNA">Latin America</option><option value="MIDE">Middle East</option><option value="NAMR">North America</option><option value="KOR">Republic Of Korea</option><option value="SASI">South East Asia</option><option value="GBR">United Kingdom</option><option value="USA">United States</option>
+			<td id="tdDomicileDD" style="width:178px; vertical-align:middle;">
+				<select id="qsDomicileDD" name="qsDomicileDD" onchange="SelectTopOnDD(this);" style="width:176px;">		 
+					<option value="" selected="selected">All Geographies</option><option value="AFRI">Africa</option><option value="APAC">Asia Pacific</option><option value="APEJ">Asia Pacific Ex Japan</option><option value="AUS">Australia</option><option value="BRA">Brazil</option><option value="BRIC">Brazil, Russia, India and China</option><option value="CEAS">Central Asia</option><option value="CHN">China</option><option value="EAST">Eastern Europe</option><option value="EMEA">Eastern Europe Middle East and Africa</option><option value="EURO">Europe</option><option value="EUXU">Europe Ex UK</option><option value="EURZ">Eurozone</option><option value="FARE">Far East</option><option value="DEU">Germany</option><option value="GLOB">Global</option><option value="HKG">Hong Kong</option><option value="IND">India</option><option value="JPN">Japan</option><option value="LTNA">Latin America</option><option value="MIDE">Middle East</option><option value="NAMR">North America</option><option value="KOR">Republic Of Korea</option><option value="RUS">Russian Federation</option><option value="SASI">South East Asia</option><option value="GBR">United Kingdom</option><option value="USA">United States</option>
 				</select>
 			</td>
 			
-			<td id="tdManagerDD" style="text-align: left; vertical-align: middle; width: 22%;">
-				<select id="qsManagerDD" name="qsManagerDD" style="width: 98%;">
-					<option value="" selected="selected">All Managers</option><option value="ABTR">Aberdeen Unit Trusts &amp; OEICs</option><option value="ABER">Aberforth Unit Trust Mgrs Ltd</option><option value="ADAC">Adam &amp; Co</option><option value="AEGU">AEGON Asset Mgmt UK Plc</option><option value="ATAM">Alliance Trust Asset Mgt</option><option value="KLEI">Allianz Global Investors UK</option><option value="ARCT">Architas Multi-Manager Ltd</option><option value="ARTE">Artemis Fund Managers</option><option value="MORL">Aviva Investors Fund Services</option><option value="NORW">Aviva Investors UK Fd Serv Ltd</option><option value="AXAI">AXA Distribution Invest ICVC</option><option value="AXA">AXA IM UK</option><option value="BAIL">Baillie Gifford</option><option value="BABP">Barclays Bank Plc</option><option value="BARC">Barclays Funds</option><option value="BRWL">Barclays Wealth</option><option value="BAFM">Baring Asset Management</option><option value="BARM">Barmac Asset Management</option><option value="MERC">BlackRock</option><option value="BLAR">BlackRock Invest Mgrs UK Ltd</option><option value="MELL">BNY Mellon Asset Management</option><option value="CHM">CAF</option><option value="CITF">Capita Financial Managers</option><option value="CAVE">Cavendish Asset Management</option><option value="CAZI">Cazenove Invest Fund Mgmt Ltd</option><option value="CBFF">CBF Church of England Funds</option><option value="CFIM">CF 7IM Investment Funds</option><option value="CFEA">CF Eclectica Asset Management</option><option value="JMFC">CF JM Finn Investment</option><option value="CFKB">CF Kleinwort Benson Funds</option><option value="RIMG">CF Ruffer Investment Mgmt Ltd</option><option value="CHAR">Charles Stanley Fund Mgmt</option><option value="CVAM">Cheviot Asset Management Ltd</option><option value="CIS">CIS UT Managers</option><option value="CIFI">City Financial Inv Company Ltd</option><option value="CLER">Clerical Medical Invest Group</option><option value="CLEM">Clerical Medical Sh Cl HIFML</option><option value="CLOS">Close Asset Management(UK) Ltd</option><option value="CLPI">Close Property Investment</option><option value="COIF">Coif Charity Funds</option><option value="COAM">Connaught Asset Management</option><option value="CONS">Consistent Unit Tst Mgt Co Ltd</option><option value="COUR">COURTIERS Investment Funds</option><option value="COUO">Coutts Group</option><option value="DALT">Dalton Strategic Partnership</option><option value="DBPW">DB PWM Collective Mgmt Ltd</option><option value="DIME">Dimensional Fund Advisors</option><option value="DISC">Discretionary UT Management</option><option value="DPIC">Doherty Pn&amp;Inv Consultancy Ltd</option><option value="ALLC">Ecclesiastical Investment Mgmt</option><option value="HME">Engage Mutual</option><option value="EPIM">Epworth Investment Management</option><option value="FCFM">F&amp;C Fund Management</option><option value="FAMI">Family Investment Management</option><option value="FIDE">Fidelity (FIL Investment Intl)</option><option value="CFST">First State Investments UK Ltd</option><option value="FFAP">Fleming Family &amp; Partners</option><option value="TEMG">Franklin Templeton Inv Funds</option><option value="IMSL">FundQuest UK Limited</option><option value="GAM">GAM Fund Management Ltd</option><option value="GAMS">GAM Sterling Management Ltd</option><option value="GART">Gartmore Fund Managers</option><option value="SGUT">GLG Partners UK Limited</option><option value="HARG">Hargreaves Lansdown Fund Mgmt</option><option value="HAIM">Hawksmoor Investment Mgmt</option><option value="HXEQ">HBOS Investment Fd Mgrs Ltd</option><option value="HEND">Henderson Global Investors Ltd</option><option value="HSCX">HIM Capital Limited</option><option value="HSBC">HSBC Gbl Asset Mgt (HSBC Inv)</option><option value="IFDS">IFDS Managers Ltd</option><option value="IMPA">IFSL</option><option value="BRIT">Ignis Asset Management</option><option value="INGR">ING Real Estate</option><option value="INSI">Insight Invest Mgt (Gbl) Ltd</option><option value="INSY">INSYNERGY Investment Mgt</option><option value="INVE">Invesco Perpetual Fund Mgrs</option><option value="GUIN">Investec Fund Managers (UK)</option><option value="INSO">Investment Solutions Fd Mgmt</option><option value="JESS">Jessop Fund Managers Ltd</option><option value="JOHC">JO Hambro Capital Management</option><option value="SAVE">JP Morgan Asset Management UK</option><option value="JUPI">Jupiter Unit Trust Mgrs Ltd</option><option value="LAZA">Lazard Fund Managers</option><option value="LEGA">Legal &amp; General UT Mgr Ltd</option><option value="LEGM">Legg Mason Investment Funds</option><option value="RIVE">Liontrust Fund Partners LLP</option><option value="LLGE">Lloyd George Mgmt (Europe) Ltd</option><option value="LIV">LV= Asset Management</option><option value="MAG">M&amp;G UK</option><option value="MAJE">Majedie Asset Management</option><option value="MNK">Manek Investment Management</option><option value="MARG">Margetts Fund Management</option><option value="MARU">Marks &amp; Spencer UT Managers</option><option value="MARL">Marlborough Fund Managers</option><option value="MMFM">Marlborough Fund Managers(MFM)</option><option value="MART">Martin Currie Unit Trusts Ltd</option><option value="MW">McInroy &amp; Wood Portfolios Ltd</option><option value="MCPL">Merchant Capital</option><option value="METR">Meteor Capital Holdings Ltd</option><option value="MIR">Mirabaud Unit Trust Mgrs Ltd</option><option value="MPFG">Montello Pvt Fin Grl Ptnrs Ltd</option><option value="MDWI">Morgan Stanley Invest Mgmt UK</option><option value="NWOI">Nat West Investment Funds</option><option value="NPIM">Neptune Investment Management</option><option value="NEWT">Newton &amp; BNY Mellon Asset Mgmt</option><option value="NFM">NFU Mutual Unit Managers Ltd</option><option value="OCTP">Octopus Investments</option><option value="CFOD">Odey Asset Management</option><option value="OMFM">Old Mutual Fund Managers Oeic</option><option value="PMPT">Pall Mall Investment Mgmt Ltd</option><option value="PFSL">Phoenix Fund Services (UK) Ltd</option><option value="PRIA">Premier Asset Management</option><option value="GEM">Premier Portfolio Managers Ltd</option><option value="PRUD">Prudential Unit Trusts Limited</option><option value="PSIG">PSigma Unit Trust Managers Ltd</option><option value="QUEI">Quadris Environmental Inv Ltd</option><option value="QUAM">Quantum Asset Management</option><option value="QAML">Querns Asset Managers LLP</option><option value="LAUR">Rathbone Unit Trust Mgmt Ltd</option><option value="RELI">Reliance UT Managers</option><option value="BWD">Rensburg Fund Management Ltd</option><option value="RRMR">River &amp; Mercantile Asset Mgmt</option><option value="ROPI">Rothschild Private Fund Mgmt</option><option value="RBOS">Royal Bank of Scotland</option><option value="ROYB">Royal Bk of Scotland Coll Inv</option><option value="RLAM">Royal Liver Asset Management</option><option value="ROYU">Royal London Unit Tst Mgrs Ltd</option><option value="SMIT">S&amp;W Fund Administration Ltd</option><option value="SALT">Saltus Partners LLP</option><option value="SAUT">Sand Aire Limited</option><option value="ABBN">Santander Asset Mgmt UK Ltd</option><option value="INSC">Santander Portfolio Mgt UK Ltd</option><option value="SANT">Santander UT Managers UK Ltd</option><option value="SACN">Saracen Fund Managers</option><option value="ELY">Sarasin Investment Funds Ltd</option><option value="SCHR">Schroder UT Managers</option><option value="SCOF">Scottish Friendly Assurance</option><option value="SMBK">Scottish Mutual Invest Mgmt</option><option value="SCOW">Scottish Wid UT Mgr Limited</option><option value="SHRE">Sharefunds</option><option value="SKAI">Skandia Investment Group</option><option value="LINC">SLFC Unit Managers</option><option value="SWIF">Smith &amp; Williamson Invest Mgmt</option><option value="PFSS">Somerset Capital Management</option><option value="SOVE">Sovereign Unit Trust Mgrs Ltd</option><option value="SSGU">SSGA UK</option><option value="STJ">St James Place UT Group Ltd</option><option value="STLA">Standard Life Investments</option><option value="STLM">Standard Life Trust Management</option><option value="SVMA">SVM Asset Management Ltd</option><option value="SWIP">SWIP</option><option value="TBAI">T. Bailey Fund Managers Ltd</option><option value="TBML">T. Bailey Fund Mgrs Ltd (ACD)</option><option value="PART">Taube Hodson Stonex Partners</option><option value="TAYG">Taylor Young Invest Management</option><option value="TPSL">Teachers Provident Society Ltd</option><option value="TRMC">Thames River Multi Capital LLP</option><option value="T140">The 140 Investment Managers</option><option value="9THS">Thesis Unit Trust Mgmt Ltd</option><option value="BSI">Thornhill Unit Trust Mgrs Ltd</option><option value="THR">Threadneedle Inv Services Ltd</option><option value="THEI">Threadneedle Unit Trust Mgrs</option><option value="TRII">Tri Investments Ltd</option><option value="TROY">Troy Asset Management Ltd</option><option value="TUFM">TU Fund Managers</option><option value="TFAM">TwentyFour Asset Mgt LLP</option><option value="UBSA">UBS Asset Management</option><option value="UNCN">Unicorn Asset Management</option><option value="VNUK">Vanguard Investments FundsICVC</option><option value="VIRG">Virgin Money Unit Tst Mgr Ltd</option><option value="WAYF">WAY Fund Managers</option><option value="SING">WDB Asset Management Limited</option><option value="WESL">Wesleyan Unit Trust Mgrs Ltd</option><option value="WISE">Wise Investments</option><option value="ZURI">Zurich Assurance Ltd</option>
+			<td id="tdManagerDD" style="text-align:left; vertical-align:middle;">
+				<select id="qsManagerDD" name="qsManagerDD" style="width:70%;">
+					<option value="" selected="selected">All Managers</option><option value="ABGL">Aberdeen Global Services S.A.</option><option value="ABTR">Aberdeen Unit Trusts &amp; OEICs</option><option value="ABER">Aberforth Unit Trust Mgrs Ltd</option><option value="AEGU">AEGON Asset Mgmt UK Plc</option><option value="ATAM">Alliance Trust Asset Mgt</option><option value="KLEI">Allianz Global Investors UK</option><option value="AGIL">Allianz Global Investors Lux</option><option value="ARCT">Architas Multi-Manager Ltd</option><option value="ARTE">Artemis Fund Managers</option><option value="NORW">Aviva Investors UK Fd Serv Ltd</option><option value="AXA">AXA IM UK</option><option value="BAIL">Baillie Gifford</option><option value="BRWL">Barclays Wealth</option><option value="BAFM">Baring Asset Management</option><option value="BII">Baring Intl Fund Mgr (Ire) Ltd</option><option value="BRIG">Barings International Group</option><option value="BARM">Barmac Asset Management</option><option value="MERC">BlackRock</option><option value="MERI">BlackRock (Luxembourg) S.A.</option><option value="BXWM">Bloxham Wealth Management</option><option value="MELL">BNY Mellon Asset Management</option><option value="BIML">Brookfield Invmt Mgmt Ltd (UK)</option><option value="CITF">Capita Financial Managers</option><option value="CAIF">Capital International</option><option value="CAVE">Cavendish Asset Management</option><option value="CAZI">Cazenove Invest Fund Mgmt Ltd</option><option value="CFIM">CF 7IM Investment Funds</option><option value="CFEA">CF Eclectica Asset Management</option><option value="JMFC">CF JM Finn Investment</option><option value="CFKB">CF Kleinwort Benson Funds</option><option value="RIMG">CF Ruffer Investment Mgmt Ltd</option><option value="CVAM">Cheviot Asset Management Ltd</option><option value="CIS">CIS UT Managers</option><option value="CIFI">City Financial Inv Company Ltd</option><option value="CLER">Clerical Medical Invest Group</option><option value="CLOS">Close Asset Management(UK) Ltd</option><option value="CONS">Consistent Unit Tst Mgt Co Ltd</option><option value="COUR">COURTIERS Investment Funds</option><option value="COUO">Coutts Group</option><option value="DBPW">DB PWM Collective Mgmt Ltd</option><option value="DIME">Dimensional Fund Advisors</option><option value="DISC">Discretionary UT Management</option><option value="DPIC">Doherty Pn&amp;Inv Consultancy Ltd</option><option value="ALLC">Ecclesiastical Investment Mgmt</option><option value="HME">Engage Mutual</option><option value="FCFM">F&amp;C Fund Management</option><option value="FAMI">Family Investment Management</option><option value="FIDE">Fidelity (FIL Investment Intl)</option><option value="FIDL">Fidelity (FIL(Luxembourg)SA)</option><option value="CFST">First State Investments UK Ltd</option><option value="FFAP">Fleming Family &amp; Partners</option><option value="TEMG">Franklin Templeton Inv Funds</option><option value="IMSL">FundQuest UK Limited</option><option value="GAM">GAM Fund Management Ltd</option><option value="GAMS">GAM Sterling Management Ltd</option><option value="GART">Gartmore Fund Managers</option><option value="GARL">Gartmore SICAV</option><option value="SGUT">GLG Partners UK Limited</option><option value="HARG">Hargreaves Lansdown Fund Mgmt</option><option value="HAIM">Hawksmoor Investment Mgmt</option><option value="HXEQ">HBOS Investment Fd Mgrs Ltd</option><option value="HEND">Henderson Global Investors Ltd</option><option value="HENM">Henderson Management SA</option><option value="HSCX">HIM Capital Limited</option><option value="HSBC">HSBC Gbl Asset Mgt (HSBC Inv)</option><option value="HSLX">HSBC Global Investment Funds</option><option value="TRII">Huet Capital</option><option value="IFDS">IFDS Managers Ltd</option><option value="IMPA">IFSL</option><option value="BRIT">Ignis Asset Management</option><option value="BRII">Ignis International Funds plc</option><option value="IGNP">Ignis Investment Services Ltd</option><option value="INSI">Insight Invest Mgt (Gbl) Ltd</option><option value="INSY">INSYNERGY Investment Mgt</option><option value="GTG">Invesco Asset Management Ltd</option><option value="INVE">Invesco Perpetual Fund Mgrs</option><option value="INVT">Investec Asset Management Ltd</option><option value="GUIN">Investec Fund Managers (UK)</option><option value="JCHC">J Chahine Capital</option><option value="JANW">Janus Capital Funds</option><option value="JOHC">JO Hambro Capital Management</option><option value="FLEG">JP Morgan Asset Management</option><option value="SAVE">JP Morgan Asset Management UK</option><option value="JPIF">JP Morgan Investment Funds</option><option value="JPLF">JP Morgan Liquidity Fund</option><option value="JUPB">Jupiter Asset Management</option><option value="JUPI">Jupiter Unit Trust Mgrs Ltd</option><option value="LAZA">Lazard Fund Managers</option><option value="LEGA">Legal &amp; General UT Mgr Ltd</option><option value="LEGM">Legg Mason Investment Funds</option><option value="RIVE">Liontrust Fund Partners LLP</option><option value="LLGE">Lloyd George Mgmt (Europe) Ltd</option><option value="LIV">LV= Asset Management</option><option value="MAG">M&amp;G UK</option><option value="MAJE">Majedie Asset Management</option><option value="MNK">Manek Investment Management</option><option value="MARG">Margetts Fund Management</option><option value="MARU">Marks &amp; Spencer UT Managers</option><option value="MARL">Marlborough Fund Managers</option><option value="MCGF">Martin Currie Global Funds</option><option value="MART">Martin Currie Unit Trusts Ltd</option><option value="MW">McInroy &amp; Wood Portfolios Ltd</option><option value="DALT">Melchior Investment Funds</option><option value="MMFM">MFM</option><option value="MIR">Mirabaud Unit Trust Mgrs Ltd</option><option value="MDWI">Morgan Stanley Invest Mgmt UK</option><option value="NWOI">NatWest Investment Funds</option><option value="NPIM">Neptune Investment Management</option><option value="NEWT">Newton &amp; BNY Mellon Asset Mgmt</option><option value="NFM">NFU Mutual Unit Managers Ltd</option><option value="OCTP">Octopus Investments</option><option value="CFOD">Odey Asset Management</option><option value="OMFM">Old Mutual Fund Managers Oeic</option><option value="PFSL">Phoenix Fund Services (UK) Ltd</option><option value="POLC">Polar Capital</option><option value="PRIA">Premier Asset Management</option><option value="GEM">Premier Portfolio Managers Ltd</option><option value="PRII">Principal Global Investors</option><option value="PRUD">Prudential Unit Trusts Limited</option><option value="PSIG">PSigma Unit Trust Managers Ltd</option><option value="LAUR">Rathbone Unit Trust Mgmt Ltd</option><option value="RELI">Reliance UT Managers</option><option value="BWD">Rensburg Fund Management Ltd</option><option value="RRMR">River &amp; Mercantile Asset Mgmt</option><option value="ROPI">Rothschild Private Fund Mgmt</option><option value="RBOS">Royal Bank of Scotland</option><option value="ROYB">Royal Bk of Scotland Coll Inv</option><option value="RLAM">Royal Liver Asset Management</option><option value="ROYU">Royal London Unit Tst Mgrs Ltd</option><option value="MPCI">RWC Partners</option><option value="SMIT">S&amp;W Fund Administration Ltd</option><option value="SALT">Saltus Partners LLP</option><option value="SAUT">Sand Aire Limited</option><option value="ABBN">Santander Asset Mgmt UK Ltd</option><option value="INSC">Santander Portfolio Mgt UK Ltd</option><option value="SANT">Santander UT Managers UK Ltd</option><option value="SACN">Saracen Fund Managers</option><option value="ELY">Sarasin Investment Funds Ltd</option><option value="SCHM">Schroder Investment Management</option><option value="SCHS">Schroder Investmt Mgt(LUX)S.A.</option><option value="SCHR">Schroder UT Managers</option><option value="SCOF">Scottish Friendly Assurance</option><option value="SMBK">Scottish Mutual Invest Mgmt</option><option value="SCOW">Scottish Wid UT Mgr Limited</option><option value="SWCH">Scottish Widows Sh Cl HIFML</option><option value="SHRE">Sharefunds</option><option value="SKAI">Skandia Investment Group</option><option value="SWIF">Smith &amp; Williamson Invest Mgmt</option><option value="PFSS">Somerset Capital Management</option><option value="SOVE">Sovereign Unit Trust Mgrs Ltd</option><option value="SSGU">SSGA UK</option><option value="STJ">St James Place UT Group Ltd</option><option value="STLA">Standard Life Investments</option><option value="STLM">Standard Life Trust Management</option><option value="SVMA">SVM Asset Management Ltd</option><option value="SWIP">SWIP</option><option value="TBAI">T. Bailey Fund Managers Ltd</option><option value="TBML">T. Bailey Fund Mgrs Ltd (ACD)</option><option value="PART">Taube Hodson Stonex Partners</option><option value="TCFI">TCF Investment</option><option value="TRMC">Thames River Multi Capital LLP</option><option value="T140">The 140 Investment Managers</option><option value="9THS">Thesis Unit Trust Mgmt Ltd</option><option value="BSI">Thornhill Unit Trust Mgrs Ltd</option><option value="THR">Threadneedle Inv Services Ltd</option><option value="THEI">Threadneedle Unit Trust Mgrs</option><option value="TIBU">Tiburon Partners</option><option value="TROY">Troy Asset Management Ltd</option><option value="TUFM">TU Fund Managers</option><option value="UBSA">UBS Asset Management</option><option value="UNCN">Unicorn Asset Management</option><option value="VNUK">Vanguard Investments FundsICVC</option><option value="VIRG">Virgin Money Unit Tst Mgr Ltd</option><option value="WAYF">WAY Fund Managers</option><option value="SING">WDB Asset Management Limited</option><option value="WILL">WDB Assetmaster Mgmt Co Ltd</option><option value="WESL">Wesleyan Unit Trust Mgrs Ltd</option><option value="WISE">Wise Investments</option>
 				</select>
 			</td>
 		</tr>
@@ -830,16 +874,16 @@ var UserFundswireCodes='';
 			<td id="tdAssetClassDD" style="width:146px; vertical-align: middle;">
 				
 				<select id="qsAssetClassDD" name="qsAssetClassDD" style="width:144px;" onchange="SelectTopOnDD(this);">
-					<option value="A:" selected="selected">All Fund Focuses</option><option value="A:CMDY">Commodity/Energy</option><option value="A:EQUI">Equity</option><option value="A:FXIN">Fixed Interest</option><option value="A:HEDG">Hedge</option><option value="A:MXAS">Mixed Asset</option><option value="A:CURR">Money Market</option><option value="A:PROP">Property</option><option value="0"></option><option value="I:">All Investment Focuses</option><option value="I:NONE">*None</option><option value="I:AGRI">Agriculture</option><option value="I:ALTE">Alternative Energy</option><option value="I:ASSB">Asset Backed</option><option value="I:BIOT">Biotech</option><option value="I:CHAR">Charity</option><option value="I:COAL">Coal</option><option value="I:CONV">Convertibles</option><option value="I:CORP">Corporate</option><option value="I:ETHL">Ethical/Sustainable</option><option value="I:FNCL">Financial</option><option value="I:GAS">Gas</option><option value="I:GOLD">Gold</option><option value="I:GOVT">Government</option><option value="I:HLTH">Health</option><option value="I:HOSP">Hospitals</option><option value="I:HOTL">Hotels</option><option value="I:IDXL">Index Linked</option><option value="I:INDS">Industrial</option><option value="I:INDM">Industrial Metals</option><option value="I:INFR">Infrastructure</option><option value="I:ISLM">Islamic/Sharia</option><option value="I:LESR">Leisure</option><option value="I:MXED">Mixed</option><option value="I:MORG">Mortgage</option><option value="I:NATR">Natural</option><option value="I:OFFC">Offices</option><option value="I:OIL">Oil</option><option value="I:PRMT">Precious Metals</option><option value="I:PREF">Preference</option><option value="I:PVTE">Private Equity</option><option value="I:RESD">Residential</option><option value="I:RETL">Retail</option><option value="I:SECS">Securitization</option><option value="I:SPRA">Supranational</option><option value="I:TECH">Tech, Media &amp; Telecommunications</option><option value="I:WHSE">Warehouse</option>
+					<option value="A:" selected="selected">All Fund Focuses</option><option value="A:CMDY">Commodity/Energy</option><option value="A:EQUI">Equity</option><option value="A:FXIN">Fixed Interest</option><option value="A:HEDG">Hedge</option><option value="A:MXAS">Mixed Asset</option><option value="A:CURR">Money Market</option><option value="A:PROP">Property</option><option value="A:STRC">Structured Products</option><option value="A:WPRF">With Profits</option><option value="0"></option><option value="I:">All Investment Focuses</option><option value="I:NONE">*None</option><option value="I:AGRI">Agriculture</option><option value="I:ALTE">Alternative Energy</option><option value="I:ASSB">Asset Backed</option><option value="I:BIOT">Biotech</option><option value="I:CHAR">Charity</option><option value="I:COAL">Coal</option><option value="I:CONV">Convertibles</option><option value="I:CORP">Corporate</option><option value="I:ENGY">Energy</option><option value="I:ETHL">Ethical/Sustainable</option><option value="I:FNCL">Financial</option><option value="I:GAS">Gas</option><option value="I:GOLD">Gold</option><option value="I:GOVT">Government</option><option value="I:HLTH">Health</option><option value="I:HOSP">Hospitals</option><option value="I:HOTL">Hotels</option><option value="I:IDXL">Index Linked</option><option value="I:INDS">Industrial</option><option value="I:INDM">Industrial Metals</option><option value="I:INFR">Infrastructure</option><option value="I:LESR">Leisure</option><option value="I:MXED">Mixed</option><option value="I:MORG">Mortgage</option><option value="I:NATR">Natural</option><option value="I:OFFC">Offices</option><option value="I:OIL">Oil</option><option value="I:PHYS">Physical Property</option><option value="I:PRMT">Precious Metals</option><option value="I:PREF">Preference</option><option value="I:PVTE">Private Equity</option><option value="I:RESD">Residential</option><option value="I:RETL">Retail</option><option value="I:SECS">Securitization</option><option value="I:SPRA">Supranational</option><option value="I:TECH">Tech, Media &amp; Telecommunications</option><option value="I:WHSE">Warehouse</option>
 				</select>			
 			</td>			
-			<td id="tdSectorsDD" style="width: 180px; vertical-align: middle;">
-				<select id="qsSectorsDD" name="qsSectorsDD" style="width: 178px; visibility: visible;">
-					<option value="" selected="selected">All Sectors</option><option value="U:ABR">Absolute Return</option><option value="U:AMG">Active Managed</option><option value="U:FXJ">Asia Pacific Excluding Japan</option><option value="U:FIJ">Asia Pacific Including Japan</option><option value="U:BAL">Balanced Managed</option><option value="U:CMG">Cautious Managed</option><option value="U:EXU">Europe Excluding UK</option><option value="U:EIU">Europe Including UK</option><option value="U:EMC">European Smaller Companies</option><option value="U:IFI">Global Bonds</option><option value="U:GLO">Global Emerging Markets</option><option value="U:IG">Global Growth</option><option value="U:JAP">Japan</option><option value="U:JSC">Japanese Smaller Companies</option><option value="U:MON">Money Market</option><option value="U:NOR">North America</option><option value="U:NSC">North American Smaller Companies</option><option value="U:AA">Not Yet Assigned</option><option value="U:PEN">Pensions</option><option value="U:PRP">Property</option><option value="U:GPR">Protected</option><option value="U:SP">Specialist</option><option value="U:SCB">Sterling Corporate Bond</option><option value="U:SHY">Sterling High Yield</option><option value="U:SBS">Sterling Strategic Bond</option><option value="U:TAT">Technology &amp; Telecoms</option><option value="U:UG">UK All Companies</option><option value="U:EBI">UK Equity &amp; Bond Income</option><option value="U:UEI">UK Equity Income</option><option value="U:UGL">UK Gilt</option><option value="U:UIB">UK Index - Linked Gilts</option><option value="U:USC">UK Smaller Companies</option><option value="U:CUV">Unclassified</option>
+			<td id="tdSectorsDD" style="width:178px; vertical-align: middle;">
+				<select id="qsSectorsDD" name="qsSectorsDD" style="width:176px;">
+					<option value="" selected="selected">All Sectors</option><option value="O:IMAABR">IMA Absolute Return</option><option value="O:ACTMAN">IMA Active Managed</option><option value="O:FEEXJAP">IMA Asia Pacific Excluding Japan</option><option value="O:FEINCJAP">IMA Asia Pacific Including Japan</option><option value="O:BALMAN">IMA Balanced Managed</option><option value="O:CAUTIOUS">IMA Cautious Managed</option><option value="O:GRTCHN">IMA China/Greater China</option><option value="O:EUREXUK">IMA Europe Excluding UK</option><option value="O:EURINCUK">IMA Europe Including UK</option><option value="O:EURSMCOS">IMA European Smaller Companies</option><option value="O:GLBLGRTH">IMA Global</option><option value="O:GLBLBND">IMA Global Bonds</option><option value="O:GLBLEMER">IMA Global Emerging Markets</option><option value="O:JAPAN">IMA Japan</option><option value="O:JAPSMCOS">IMA Japanese Smaller Companies</option><option value="O:MONMKT">IMA Money Market</option><option value="O:NRTHAM">IMA North America</option><option value="O:NASMCOS">IMA North American Smaller Companies</option><option value="O:PENSION">IMA Personal Pensions</option><option value="O:PROPERTY">IMA Property</option><option value="O:PROTECT">IMA Protected</option><option value="O:SPECIAL">IMA Specialist</option><option value="O:STERCOR">IMA Sterling Corporate Bond</option><option value="O:STERHYD">IMA Sterling High Yield</option><option value="O:STERSRT">IMA Sterling Strategic Bond</option><option value="O:TECHNOL">IMA Technology &amp; Telecoms</option><option value="O:UKALL">IMA UK All Companies</option><option value="O:UKEQBNIN">IMA UK Equity &amp; Bond Income</option><option value="O:UKEQINC">IMA UK Equity Income</option><option value="O:UKGILT">IMA UK Gilt</option><option value="O:UKINDLNK">IMA UK Index - Linked Gilts</option><option value="O:UKSMALL">IMA UK Smaller Companies</option><option value="O:UNCLAS">IMA Unclassified</option><option value="O:XXX">Not yet assigned</option>
 				</select>
 			</td>	
 			<td id="tdUnitsDD" style="text-align:right; vertical-align: middle;">
-				<select id="qsUnitsDD" name="qsUnitsDD" style="width: 80px; float: left; vertical-align: middle; visibility: visible;">
+				<select id="qsUnitsDD" name="qsUnitsDD" style="width:80px; float:left; vertical-align: middle;">
 					<option value="" selected="selected">Unit Types</option>
 					<option value="I">INC units</option>
 					<option value="A">ACC units</option>
@@ -927,38 +971,38 @@ ChangeUKQS(document.getElementById("qsUniverseDD").value,'');
 		</div>
 		<div class="header">
 			<h1>
-				<a href="/News/Research.aspx?type=research">More Research: September</a>
+				<a href="/News/Research.aspx?type=research">More Research: May</a>
 			</h1>
 		</div>			
 		<div class="content">
 		<table border="0" cellpadding="1" cellspacing="1">					
 				<tbody><tr>
 					<td><img alt="alter" src="/images/bgArrowLeft.gif"></td>
-					<td><a href="/News/Research.aspx?id=117001">Cazenove Capital to launch multimanager fund</a></td>						
+					<td><a href="/News/Research.aspx?id=215921">Laxey Partners loses Alliance Trust vote</a></td>						
 					</tr><tr>
 					<td><img alt="alter" src="/images/bgArrowLeft.gif"></td>
-					<td><a href="/News/Research.aspx?id=116848">Investors opt for 'low risk' IMA Global Emerging Markets sector</a></td>						
+					<td><a href="/News/Research.aspx?id=215907">Speculation takes shine off commodities </a></td>						
 					</tr><tr>
 					<td><img alt="alter" src="/images/bgArrowLeft.gif"></td>
-					<td><a href="/News/Research.aspx?id=116693">Webchat with Clive Beagles</a></td>						
+					<td><a href="/News/Research.aspx?id=215879">Coping when the easy money ends</a></td>						
 					</tr><tr>
 					<td><img alt="alter" src="/images/bgArrowLeft.gif"></td>
-					<td><a href="/News/Research.aspx?id=115641">Predicting the path of Global Bonds returns</a></td>						
+					<td><a href="/News/Research.aspx?id=215865">IFA focus: Investment howlers </a></td>						
 					</tr><tr>
 					<td><img alt="alter" src="/images/bgArrowLeft.gif"></td>
-					<td><a href="/News/Research.aspx?id=116659">Poor bond yields cause shift to equities</a></td>						
+					<td><a href="/News/Research.aspx?id=215847">Fund focus: Aberdeen Emerging Markets</a></td>						
 					</tr><tr>
 					<td><img alt="alter" src="/images/bgArrowLeft.gif"></td>
-					<td><a href="/News/Research.aspx?id=116491">Juggling cyclicals and defensives in the current environment</a></td>						
+					<td><a href="/News/Research.aspx?id=215772">Investors gear up for Alliance Trust vote</a></td>						
 					</tr><tr>
 					<td><img alt="alter" src="/images/bgArrowLeft.gif"></td>
-					<td><a href="/News/Research.aspx?id=116430">Cashing in on market volatility</a></td>						
+					<td><a href="/News/Research.aspx?id=215742">Abs Ret approach needed in GEMs </a></td>						
 					</tr><tr>
 					<td><img alt="alter" src="/images/bgArrowLeft.gif"></td>
-					<td><a href="/News/Research.aspx?id=115872">Telecoms and financials pick of corporate bonds</a></td>						
+					<td><a href="/News/Research.aspx?id=215722">Fidelity’s China picks for 2011</a></td>						
 					</tr><tr>
 					<td><img alt="alter" src="/images/bgArrowLeft.gif"></td>
-					<td><a href="/News/Research.aspx?id=116237">SWIP's Cockburn upbeat on London property</a></td>						
+					<td><a href="/News/Research.aspx?id=215697">Case study: Fund selection – a how-to guide</a></td>						
 					</tr>   								
 			</tbody></table> 
 		<p align="right">
@@ -972,15 +1016,7 @@ ChangeUKQS(document.getElementById("qsUniverseDD").value,'');
 	    &nbsp;
 	  </div>  
 	<!-- Advertisement-->
-	<div style="text-align:center;" class="noPrint"><p class="advertisement" style="text-align:center;">advertisement</p><div class="AdPosPosition1" id="adPos_Position1"><div id="adContainer_Position1" class="noPrint" style="left: 833px; top: 641px; display: inline; position: absolute;">
-		<script type="text/javascript"><!--//--><![CDATA[//><!--
-		var adv_position = 'Position1';
-		if($("adPos_"+adv_position)) {
-			OAS_AD(adv_position);
-		}
-		//--><!]]>
-		</script><a href="http://oas.trustnet.com/RealMedia/ads/click_nx.ads/www.trustnet.com/Education/PrivacyPolicy.aspx/1192371194@Top,TopLeft,Left,Top3,Position1,x02!Position1?investor_type=adviser&amp;email=&amp;portfoliosectors=" rel="external"><img src="http://oas.trustnet.com/RealMedia/ads/adstream_nx.ads/www.trustnet.com/Education/PrivacyPolicy.aspx/1192371194@Top,TopLeft,Left,Top3,Position1,x02!Position1?investor_type=adviser&amp;email=&amp;portfoliosectors=" alt="advert"></a>
-	</div></div></div>
+	<div style="text-align:center;" class="noPrint"><p class="advertisement" style="text-align:center;">advertisement</p><div class="AdPosPosition1" id="adPos_Position1">&nbsp;</div></div>
 
 
 
@@ -1011,10 +1047,10 @@ ChangeUKQS(document.getElementById("qsUniverseDD").value,'');
 				<li><div class="portfolioScan"></div><a href="javascript:showNextHome('/Tools/PScan/FundSummary.aspx',10,1,'PortfolioScan','');">Portfolio Scanner</a> </li>
 				<li><div class="fundFilter"></div><a href="/Tools/Adv-Search.aspx">Fund filter</a> </li>
 				<li><div class="multiplot"></div><a href="/Tools/Charting.aspx">Multi-plot Charting</a> </li>
-				<li><div class="fundcomparison"></div><a href="javascript:checkTypeCode('/Tools/ComparisonReport.aspx',2,4,'');">Fund Comparison</a></li>	
+				<li><div class="fundcomparison"></div><a href="javascript:checkTypeCode('/Tools/ComparisonReport.aspx',2,4,'');">Fund Comparisons</a></li>	
 				<li><div class="CrownFundRatings"></div><a href="/Investments/FundRatings.aspx?univ=U">Fund Ratings</a> </li>								
 				<li><div class="afi"></div><a href="/Tools/AdviserFundIndex.aspx">Adviser Fund Index</a></li>
-				<li><div class="discretePerf"></div><a href="javascript:ToolDiscPerf('U');">Discrete performance</a></li>
+				<li><div class="discretePerf"></div><a href="javascript:ToolDiscPerf('U');">Discrete Performance</a></li>
 				<li><div class="topQuart"></div><a href="/Tools/TopQuartiles.aspx">Top Quartiles</a> </li>
 				<li><div class="ifa"></div><a href="/Tools/FindIFA.aspx">Find an IFA</a></li>
 				<li><div class="brochures"></div><a href="/Education/Brochures.aspx">Brochures</a></li>								
@@ -1052,7 +1088,7 @@ ChangeUKQS(document.getElementById("qsUniverseDD").value,'');
 						     <img alt="alter" src="/images/bgArrowLeft.gif">
 						 </td>
 						  <td>
-						    <a href="/News/DisplayStory.aspx?id=117060">Barclays Stockbrokers offers UK autocall</a>
+						    <a href="/News/DisplayStory.aspx?id=216029">BarCap does transatlantic shuffle</a>
 						  </td>						
 					 </tr> 
 					<tr>
@@ -1060,7 +1096,7 @@ ChangeUKQS(document.getElementById("qsUniverseDD").value,'');
 						     <img alt="alter" src="/images/bgArrowLeft.gif">
 						 </td>
 						  <td>
-						    <a href="/News/DisplayStory.aspx?id=116510">£147m potential knockouts in the UK for December</a>
+						    <a href="/News/DisplayStory.aspx?id=216030">UK's FSA answers Keydata creditor charge</a>
 						  </td>						
 					 </tr> 
 					<tr>
@@ -1068,7 +1104,7 @@ ChangeUKQS(document.getElementById("qsUniverseDD").value,'');
 						     <img alt="alter" src="/images/bgArrowLeft.gif">
 						 </td>
 						  <td>
-						    <a href="/News/DisplayStory.aspx?id=116511">Incapital UK cites 'strong demand' for digital</a>
+						    <a href="/News/DisplayStory.aspx?id=215950">Close Brothers UK confirms Dunbar accounts transfer</a>
 						  </td>						
 					 </tr> 
 					<tr>
@@ -1076,7 +1112,7 @@ ChangeUKQS(document.getElementById("qsUniverseDD").value,'');
 						     <img alt="alter" src="/images/bgArrowLeft.gif">
 						 </td>
 						  <td>
-						    <a href="/News/DisplayStory.aspx?id=116640">SRP relabels 'issuers' as 'providers'</a>
+						    <a href="/News/DisplayStory.aspx?id=215784">Aviva changes terms for Defined Returns in UK</a>
 						  </td>						
 					 </tr> 
 					<tr>
@@ -1084,7 +1120,7 @@ ChangeUKQS(document.getElementById("qsUniverseDD").value,'');
 						     <img alt="alter" src="/images/bgArrowLeft.gif">
 						 </td>
 						  <td>
-						    <a href="/News/DisplayStory.aspx?id=116290">Barclays Wealth UK introduces Wealthbuilder</a>
+						    <a href="/News/DisplayStory.aspx?id=215581">Keydata's Ford takes UK regulator to review</a>
 						  </td>						
 					 </tr>   												
 			</tbody></table> 		
@@ -1101,33 +1137,9 @@ ChangeUKQS(document.getElementById("qsUniverseDD").value,'');
 
 			        
 			        <!-- End Main page -->
-		        
-		        </div>
-		      
-            </div>
-            <!-- END Main -->
-            
-            <div id="TopRight" style="float: left; display: none; visibility: hidden;">
-					<div class="AdPosTopRight" id="adPos_TopRight"><div id="adContainer_TopRight" class="noPrint" style="left: 0px; top: 50px; width: 0px; display: inline; position: absolute;">
-		<script type="text/javascript"><!--//--><![CDATA[//><!--
-		var adv_position = 'TopRight';
-		if($("adPos_"+adv_position)) {
-			OAS_AD(adv_position);
-		}
-		//--><!]]>
-		</script><a href="http://oas.trustnet.com/RealMedia/ads/click_nx.ads/www.trustnet.com/Education/PrivacyPolicy.aspx/1192371194@Top,TopLeft,Left,Top3,Position1,x02!TopRight?investor_type=adviser&amp;email=&amp;portfoliosectors=" rel="external"><img src="http://oas.trustnet.com/RealMedia/ads/adstream_nx.ads/www.trustnet.com/Education/PrivacyPolicy.aspx/1192371194@Top,TopLeft,Left,Top3,Position1,x02!TopRight?investor_type=adviser&amp;email=&amp;portfoliosectors=" alt="advert"></a>
-	</div></div>
-
-
-
-				</div>
-				<script type="text/javascript">
-					TopRightAdVisiblity();
-				</script>
-			
-			<!-- Footer -->
-			<div id="footerMenu">
-				
+		           <!-- Footer -->
+			        <div id="footerMenu">
+				        
 
 <div id="footer">
 	<table cellspacing="0" cellpadding="0">
@@ -1135,7 +1147,7 @@ ChangeUKQS(document.getElementById("qsUniverseDD").value,'');
 			<td align="left" valign="top">
 				<a href="http://www.trustnet.com/" target="_blank"><img src="/images/logo_trustnet_small.gif" alt="trustnet"></a>
 				<br>Authorised and Regulated by the Financial Services Authority
-				<br>© Trustnet Limited 2010 
+				<br>© Trustnet Limited 2011 
 			</td>
 			<td align="right" valign="top">
 				<a href="http://www.financialexpress.net/" target="_blank"><img src="/images/logo_finex_larger.gif" alt="Financial Express"></a>
@@ -1151,13 +1163,13 @@ ChangeUKQS(document.getElementById("qsUniverseDD").value,'');
 		</tr>
 	</tbody></table>
 	
-
 <!-- user type -->
-<input type="hidden" id="invtype" name="invtype" value="">
-<iframe id="investorSelectorIFrame" src="" frameborder="0" style="height: 0px; visibility: hidden;" scrolling="no"></iframe>
-<div id="InvestorSelector" style="visibility: hidden;">
-
+<input type="hidden" id="invtype" name="invtype" value="">  
+<iframe id="investorSelectorIFrame" src="" frameborder="0" style="height: 0px;" scrolling="no">
+</iframe>
+<div id="InvestorSelector">
 </div>
+
 <script type="text/javascript"><!--//--><![CDATA[//><!--
 var uType = "adviser";
 var invCookie = GetInvCookie("invtype");
@@ -1198,10 +1210,11 @@ else if ((uType == "0" || uType == "" || uType.toUpperCase() == "UNKNOWN") && uT
 	}
 } else {
 	InvestorSelectorPopUp("hidden");
-}
+}      
 /**/
 //--><!]]>
 </script>
+
 <!-- user type ends-->
 
 <script type="text/javascript">
@@ -1213,8 +1226,52 @@ else if ((uType == "0" || uType == "" || uType.toUpperCase() == "UNKNOWN") && uT
         if($('userTypePopUp'))$('userTypePopUp').style.visibility='hidden';
     }
     
+    var univCookie=false;    
+    
+    /*if(document.cookie.indexOf('UnivType') == -1 && navigator.cookieEnabled && univCookie==false)
+    {
+        InvestorSelectorPopUp("visible");
+        var invFrame = document.getElementById("investorSelectorIFrame");
+		invFrame.className = 'landing';
+        setTopPosition();
+        if($('investorSelectorIFrame'))$('investorSelectorIFrame').style.visibility='visible';
+        if($('InvestorSelector'))$('InvestorSelector').style.visibility='visible';
+        if($('userTypePopUp'))$('userTypePopUp').style.visibility='visible';
+    }*/
+    
+    function SetUniverseType()
+    {
+       var userType='investor';
+       var userList=document.getElementsByName("radio"); 
+       for(var j=0;j<userList.length;j++)
+       {
+         if(userList[j].checked)
+         {
+            userType=userList[j].value;
+         }
+       }
+       
+       setUser(userType,'')
+        
+       var universeCode; 
+       var rdList=document.getElementsByName("univGroup"); 
+       for(var i=0;i<rdList.length;i++)
+       {
+         if(rdList[i].checked)
+         {
+            universeCode=rdList[i].value;            
+         }
+       }       
+        SetCookie('UnivType',universeCode,365)
+        SetCookie('IsUserInput',true,365)
+        InvestorSelectorPopUp("hidden");
+        if($('investorSelectorIFrame'))$('investorSelectorIFrame').style.visibility='hidden';
+        if($('InvestorSelector'))$('InvestorSelector').style.visibility='hidden';
+        if($('userTypePopUp'))$('userTypePopUp').style.visibility='hidden';
+    }
 </script>
- 
+
+
 	
 </div>
 
@@ -1225,6 +1282,7 @@ else if ((uType == "0" || uType == "" || uType.toUpperCase() == "UNKNOWN") && uT
 <div id="FooterBasketDiv"></div>
 
 <script type="text/javascript">
+var UserUniverse='O';
 	var currSub = document.getElementById("currSubmenu");
 	if(currSub)
 	{
@@ -1234,55 +1292,112 @@ else if ((uType == "0" || uType == "" || uType.toUpperCase() == "UNKNOWN") && uT
 	// Calling calculator function here for loading..
 	var step=1;
 </script>  
+			        </div>
+			        <!-- END Footer -->
+		        </div>		                 		        		  
+            </div>            
+            <!-- END Main -->  
+            <div id="TopRight" style="float:left;">
+				<div class="AdPosTopRight" id="adPos_TopRight">&nbsp;</div>
+
+
+
 			</div>
-			<!-- END Footer -->
-		</div>
-<div>
-       <script type="text/javascript"><!--//--><![CDATA[//><!--
-       OAS_AD('x02');
-       //--><!]]></script><a href="http://oas.trustnet.com/RealMedia/ads/click_nx.ads/www.trustnet.com/Education/PrivacyPolicy.aspx/1192371194@Top,TopLeft,Left,Top3,Position1,x02!x02?investor_type=adviser&amp;email=&amp;portfoliosectors=" rel="external"><img src="http://oas.trustnet.com/RealMedia/ads/adstream_nx.ads/www.trustnet.com/Education/PrivacyPolicy.aspx/1192371194@Top,TopLeft,Left,Top3,Position1,x02!x02?investor_type=adviser&amp;email=&amp;portfoliosectors=" alt="advert"></a>
-</div>
+			<script type="text/javascript">
+				TopRightAdVisiblity();
+			</script>						
+		</div>		
 		<!-- END PAGE -->
 	<input type="hidden" id="scrollLeft" name="scrollLeft" value=""><input type="hidden" id="scrollTop" name="scrollTop" value=""></form>
 	
+	<script type="text/javascript">
+    window.document.onclick = SmartScroller_GetCoords;
+     var HttpMethod="GET";
+    if(HttpMethod=="POST")
+    {         
+      SmartScroller_Scroll();
+    }
+    </script>
+
 	<script type="text/javascript"><!--//--><![CDATA[//><!--
 		advPosition();
 	//--><!]]>
-	</script><script language="javascript1.1" src="http://oas.trustnet.com/RealMedia/ads/adstream_mjx.ads/www.trustnet.com/Education/PrivacyPolicy.aspx/1192371194@Top,TopLeft,Left,Top3,Position1,x02?investor_type=adviser&amp;email=&amp;portfoliosectors="></script>
-	
+	</script>
+	<div id="adContainer_Top" class="AdContainer">
+		<script type="text/javascript"><!--//--><![CDATA[//><!--
+		var adv_position = 'Top';
+		if($("adPos_"+adv_position)) {
+			OAS_AD(adv_position);
+		}
+		//--><!]]>
+		</script>
+	</div>
 	<script type="text/javascript"><!--//--><![CDATA[//><!--
 		moveAdToPositionX('Top')
 	//--><!]]>
-	</script>
+	</script><div id="adContainer_TopLeft" class="AdContainer">
+		<script type="text/javascript"><!--//--><![CDATA[//><!--
+		var adv_position = 'TopLeft';
+		if($("adPos_"+adv_position)) {
+			OAS_AD(adv_position);
+		}
+		//--><!]]>
+		</script>
+	</div>
 	<script type="text/javascript"><!--//--><![CDATA[//><!--
 		moveAdToPositionX('TopLeft')
 	//--><!]]>
-	</script>
+	</script><div id="adContainer_Left" class="AdContainer">
+		<script type="text/javascript"><!--//--><![CDATA[//><!--
+		var adv_position = 'Left';
+		if($("adPos_"+adv_position)) {
+			OAS_AD(adv_position);
+		}
+		//--><!]]>
+		</script>
+	</div>
 	<script type="text/javascript"><!--//--><![CDATA[//><!--
 		moveAdToPositionX('Left')
 	//--><!]]>
-	</script>
+	</script><div id="adContainer_Top3" class="AdContainer">
+		<script type="text/javascript"><!--//--><![CDATA[//><!--
+		var adv_position = 'Top3';
+		if($("adPos_"+adv_position)) {
+			OAS_AD(adv_position);
+		}
+		//--><!]]>
+		</script>
+	</div>
 	<script type="text/javascript"><!--//--><![CDATA[//><!--
 		moveAdToPositionX('Top3')
 	//--><!]]>
-	</script>
+	</script><div id="adContainer_Position1" class="AdContainer">
+		<script type="text/javascript"><!--//--><![CDATA[//><!--
+		var adv_position = 'Position1';
+		if($("adPos_"+adv_position)) {
+			OAS_AD(adv_position);
+		}
+		//--><!]]>
+		</script>
+	</div>
 	<script type="text/javascript"><!--//--><![CDATA[//><!--
 		moveAdToPositionX('Position1')
 	//--><!]]>
-	</script>
+	</script><div id="adContainer_TopRight" class="AdContainer">
+		<script type="text/javascript"><!--//--><![CDATA[//><!--
+		var adv_position = 'TopRight';
+		if($("adPos_"+adv_position)) {
+			OAS_AD(adv_position);
+		}
+		//--><!]]>
+		</script>
+	</div>
 	<script type="text/javascript"><!--//--><![CDATA[//><!--
 		moveAdToPositionX('TopRight')
 	//--><!]]>
 	</script>
-<script type="text/javascript">
-    var HttpMethod="GET";
-    if(HttpMethod=="POST")
-    {  
-       addLoadEvent(SmartScroller_Scroll);
-    }
-
-    window.onresize = Doc_Resize;
-    window.document.onclick = SmartScroller_GetCoords;
+<script type="text/javascript">   
+    window.onresize = Doc_Resize;    
     addLoadEvent(Doc_Resize);
      
     var ver = getIEVersion();
@@ -1300,6 +1415,7 @@ else if ((uType == "0" || uType == "" || uType.toUpperCase() == "UNKNOWN") && uT
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-8896360-1']);
   _gaq.push(['_setCustomVar',1,'User_type',GetCookie('invtype'),1]);
+  _gaq.push(['_setDomainName', '.trustnet.com']);
   
   _gaq.push(['_trackPageview']);
  
