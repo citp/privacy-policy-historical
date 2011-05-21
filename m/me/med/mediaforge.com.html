@@ -1,189 +1,201 @@
-<!--The following is the downloaded HTML source of the mediaforge.com privacy policy that was archived on 2010-11-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101125183012id_/http%3A//www.mediaforge.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mediaforge.com privacy policy that was archived on 2011-05-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110521090435id_/http%3A//www.mediaforge.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<title>
-Privacy Policy | mediaFORGE</title>
-<link rel="stylesheet" type="text/css" href="/css/blueprint.css"><link rel="stylesheet" type="text/css" href="/css/main.css?14"><link rel="stylesheet" type="text/css" href="/css/album.css"><link rel="stylesheet" type="text/css" href="/css/blog.css"><link rel="stylesheet" type="text/css" href="/css/calendar.css"><link rel="stylesheet" type="text/css" href="/css/listings.css"><link rel="stylesheet" type="text/css" href="/css/store.css"><link rel="stylesheet" type="text/css" href="/css/carousel.css">
-
+<title>Privacy | mediaFORGE</title>
+<link rel="stylesheet" type="text/css" href="/css/blueprint.css"><link rel="stylesheet" type="text/css" href="/css/main.css?14"><link rel="stylesheet" type="text/css" href="/css/album.css"><link rel="stylesheet" type="text/css" href="/css/blog.css"><link rel="stylesheet" type="text/css" href="/css/calendar.css"><link rel="stylesheet" type="text/css" href="/css/listings.css"><link rel="stylesheet" type="text/css" href="/css/store.css"><link rel="stylesheet" type="text/css" href="/css/forms.css">
 <!--[if lt IE 7]>
 <script defer type="text/javascript" src="/js/pngfix.js"></script>
 <![endif]-->
 
+<!-- only use scripts inside frontend/ so we can avoid problems when we upgrade js scripts for admin -->
+<script type="text/javascript" src="/js/frontend/jquery.js"></script>
 <!-- get variables from config that will be needed on frontend.js -->
 <script>
 CMS_CONFIG = {};
-CMS_CONFIG.embedded_num_thumbs = '10';
+CMS_CONFIG.embedded_num_thumbs = '5';
 </script>
 
-<!-- use the scripts inside frontend/ so we can avoid problems when we upgrade js scripts for admin -->
-<script type="text/javascript" src="/js/frontend/jquery.js"></script><script type="text/javascript" src="/js/frontend/superfish.js"></script><script type="text/javascript" src="/js/frontend/galleriffic.js"></script><script type="text/javascript" src="/js/frontend/frontend.js?2"></script><script type="text/javascript" src="/js/frontend/carousel.js"></script><script type="text/javascript" src="/js/frontend/jquery.swfobject.js"></script>
-
+<script type="text/javascript" src="/js/frontend/superfish.js"></script><script type="text/javascript" src="/js/frontend/jquery.galleryview.js"></script><script type="text/javascript" src="/js/frontend/jquery.cycle.js"></script><script type="text/javascript" src="/js/frontend/frontend.js?3"></script>
 
 <meta name="keywords" content="">
 <meta name="description" content="">
 
-<script>
-$(document).ready(
-	function () {
-		// #flash1 is the selector
-		$('#flash1').flash(
-			{
-				swf: 'http://ads.mediaforge.com/extract/vanilla.swf',
-				height:250,
-				width:300,
-				flashvars: {
-					vid: '119',
-					embedid: '3',
-					instanceid: 'MF_Website_300x250'
-				}
-			}
-		);
-		$('#flash2').flash(
-			{
-				swf: 'http://ads.mediaforge.com/extract/vanilla.swf',
-				height:250,
-				width:300,
-				flashvars: {
-					vid: '303',
-					embedid: '3',
-					instanceid: 'MF_Website_300x250'
-				}
-			}
-		);
-		$('#flash3').flash(
-			{
-				swf: 'http://ads.mediaforge.com/extract/vanilla.swf',
-				height:250,
-				width:300,
-				flashvars: {
-					vid: '390',
-					embedid: '3',
-					instanceid: 'MF_Website_300x250'
-				}
-			}
-		);
-		$('#flash4').flash(
-			{
-				swf: 'http://ads.mediaforge.com/extract/vanilla.swf',
-				height:250,
-				width:300,
-				flashvars: {
-					vid: '480',
-					embedid: '3',
-					instanceid: 'MF_Website_300x250'
-				}
-			}
-		);
-		$('#flash5').flash(
-			{
-				swf: 'http://ads.mediaforge.com/extract/vanilla.swf',
-				height:250,
-				width:300,
-				flashvars: {
-					vid: '538',
-					embedid: '3',
-					instanceid: 'MF_Website_300x250'
-				}
-			}
-		);
-		$('#flash6').flash(
-			{
-				swf: 'http://ads.mediaforge.com/extract/vanilla.swf',
-				height:250,
-				width:300,
-				flashvars: {
-					vid: '552',
-					embedid: '3',
-					instanceid: 'MF_Website_300x250'
-				}
-			}
-		);
+
+<script type="text/javascript">
+
+$(document).ready(function() {
+	$('#slideshow').cycle({
+		fx: 'fade', // choose your transition type, ex: fade, scrollUp, shuffle, etc...
+		timeout: 0, // milliseconds between slide transitions (0 to disable auto advance)
+		speed: 1000, // speed of the transition
+		cleartype: true, 
+		cleartypeNoBg: true,
+		pager: '#pagernav', // div for controls
+		pagerEvent: 'mouseover',
+		pauseOnPagerHover: 1,
+		pagerAnchorBuilder: function(idx, slide) {
+		return '#pagernav li:eq(' + (idx) + ') a';
+		},
+		allowPagerClickBubble: true
 		
-	}
-);
+	 });
+	 
+	 $('#slideshow').children('div').each(function(index){
+	 	$(this).addClass("div" + index);
+	 })
+	 
+	 
+	 
+	 
+ }); 
+	
+	$(document).ready(function(){
+		if ($('#gallery').length != 0) {
+			$('#gallery').galleryView({
+				
+				panel_width: 900,
+				panel_height: 520,
+				frame_width: 160,
+				frame_height: 80,
+			
+				theme_path: 'img/gallery_themes/',
+				// nav_theme: 'light',
+			
+				// show_panels: false,
+				// show_filmstrip: false,
+			
+				// filmstrip_size: 5,					
+				// transition_speed: 1000,
+				// transition_interval: 5000,
+		
+				// overlay_opacity: 0.6,
+				// frame_opacity: 0.3,
+			
+		
+				// filmstrip_position: 'top',
+				// overlay_position: 'top',
+		
+				// panel_scale: 'nocrop',
+				// frame_scale: 'nocrop',
+		
+				// show_captions: false,
+				// fade_panels: false,					
+				// pause_on_hover: false,
+			});
+		}
+		else if ($('#store-gallery').length != 0) {	
+			$('#store-gallery').galleryView({
+				
+				panel_width: 280,
+				panel_height: 300,
+				frame_width: 60,
+				frame_height: 40,
+			
+				theme_path: '/default/img/gallery_themes/',
+				// nav_theme: 'light',
+			
+				// show_panels: false,
+				// show_filmstrip: false,
+			
+				// filmstrip_size: 5,					
+				// transition_speed: 1000,
+				transition_interval: 180000,
+		
+				// overlay_opacity: 0.6,
+				// frame_opacity: 0.3,
+			
+		
+				// filmstrip_position: 'top',
+				// overlay_position: 'top',
+		
+				// panel_scale: 'nocrop',
+				// frame_scale: 'nocrop',
+		
+				// show_captions: false,
+				// fade_panels: false,					
+				// pause_on_hover: false,
+			});
+			
+		}
+		
+	});
+
 </script>
 <style>
-</style>
+	</style>
 
-</head>
+</head>	
 
 <body>
-<div id="topbg">
-</div>
-<div id="mainContainer" class="round">
-	<div id="contentWrapper">
+	<!--Container Starts Here-->
+	<div id="container">
 	
-		<!--Header Starts Here-->
+	<div class="headerCart">
+				<a href="/store/edit_cart">
+				0 Items</a> // 
+				<a href="/store/edit_cart">Checkout</a> // 
+				<a href="/store/account">My Account</a>
+	</div>
+
+		
+	
+	<!--Header Starts Here-->
 		<div class="header">
-			<div class="logo"><a href="/"><img src="/img/logo.png" alt=""></a></div>
+			<div class="logo"><a href="/"><img src="/img/logo.png" alt=""></a></div>				
 			<!--Nav Starts Here-->
-			<div id="navContainer">
-			
+				
 <ul id="nav" class="sf-js-enabled sf-shadow">
-<li id="nav_171" class=""><span class="tree_item_content "><a href="/how-it-works" class="tree_item_name">How it Works</a></span>
+<li id="nav_188"><span class="tree_item_content "><a href="http://reports.mediaforge.com/login.php" class="tree_item_name">Client Log-In</a></span></li>
+<li id="nav_176"><span class="tree_item_content "><a href="/what-we-do" class="tree_item_name">What We Do</a></span></li>
+<li id="nav_177" class=""><span class="tree_item_content "><a href="/why-mediaforge" class="tree_item_name">Why mediaFORGE</a></span>
   <ul id="" style="display: none; visibility: hidden;">
-  <li id="nav_189"><span class="tree_item_content "><a href="/how-it-works" class="tree_item_name">How It Works</a></span>  </li>
-  <li id="nav_186"><span class="tree_item_content "><a href="/pricing-no-more-view-through" class="tree_item_name">Pricing</a></span>  </li>
-  <li id="nav_183"><span class="tree_item_content "><a href="/dynamic-ads" class="tree_item_name">Dynamic Ads</a></span>  </li>
-  <li id="nav_185"><span class="tree_item_content "><a href="/transparent-analytic-reporting" class="tree_item_name">Reporting</a></span>  </li>
+  <li id="nav_192"><span class="tree_item_content "><a href="/measured-engagement" class="tree_item_name">Measured Engagement</a></span>  </li>
+  <li id="nav_193"><span class="tree_item_content "><a href="/roi" class="tree_item_name">Return on Investment</a></span>  </li>
+  <li id="nav_194"><span class="tree_item_content "><a href="/actionable-data-to-drive-decisions" class="tree_item_name">Actionable Data</a></span>  </li>
+  <li id="nav_195"><span class="tree_item_content "><a href="/unparalleld-service-and-support" class="tree_item_name">Customer Service</a></span>  </li>
   </ul>
 </li>
-<li id="nav_170" class=""><span class="tree_item_content "><a href="/forms/get-started" class="tree_item_name">Get Started</a></span>
-  <ul id="" style="display: none; visibility: hidden;">
-  <li id="nav_184"><span class="tree_item_content "><a href="/fast-easy-implementation" class="tree_item_name">Implementation</a></span>  </li>
-  <li id="nav_194"><span class="tree_item_content "><a href="/forms/get-started" class="tree_item_name">Learn More</a></span>  </li>
-  <li id="nav_193"><span class="tree_item_content "><a href="/forms/contact-us" class="tree_item_name">Contact Us</a></span>  </li>
-  </ul>
-</li>
-<li id="nav_173" class=""><span class="tree_item_content "><a href="/about-us" class="tree_item_name">About</a></span>
-  <ul id="" style="display: none; visibility: hidden;">
-  <li id="nav_188"><span class="tree_item_content "><a href="/about-us" class="tree_item_name">About MediaFORGE</a></span>  </li>
-  <li id="nav_176"><span class="tree_item_content "><a href="/case-studies" class="tree_item_name">Case Studies</a></span>  </li>
-  <li id="nav_178"><span class="tree_item_content "><a href="/news-and-press" class="tree_item_name">News and Press</a></span>  </li>
-  <li id="nav_177"><span class="tree_item_content "><a href="/the-team" class="tree_item_name">The Team</a></span>  </li>
-  <li id="nav_191"><span class="tree_item_content "><a href="/investors" class="tree_item_name">Investors</a></span>  </li>
-  <li id="nav_180"><span class="tree_item_content "><a href="/forms/contact-us" class="tree_item_name">Contact Us</a></span>  </li>
-  </ul>
-</li>
-<li id="nav_190"><span class="tree_item_content current"><a href="/privacy-policy" class="tree_item_name">Privacy</a></span></li>
+<li id="nav_178"><span class="tree_item_content "><a href="/demos" class="tree_item_name">Demos</a></span></li>
+<li id="nav_216"><span class="tree_item_content "><a href="/forms/contact-mediaforge" class="tree_item_name">Contact Us</a></span></li>
+<li id="nav_179"><span class="tree_item_content "><a href="/about" class="tree_item_name">About</a></span></li>
+<li id="nav_186"><span class="tree_item_content current"><a href="/privacy" class="tree_item_name">Privacy</a></span></li>
 </ul>
 
-			</div>
 			<!--Nav Ends Here-->
 		</div>
-		<!--Header Ends Here-->
-		
-		<!--Sidebar Starts Here-->
-				<!--Sidebar Ends Here-->
-		
+	<!--Header Ends Here-->
+	
+	<!--Content Starts Here-->
 		<div id="mainContent">
-				<h1>Privacy Policy</h1>
+		<div class="maintop"><img src="/img/maintop.png" alt=""></div>	
+			<!--Subnav Starts Here-->
+							<!--Subnav Ends Here-->
+			<div id="content">
+								<h1>Privacy</h1>
 
-<div style="margin: 0.1pt 0in;">
-	<span style="font-size: 10pt;">mediaFORGE Privacy Policy<br>
+<h2>
+	mediaFORGE Privacy Policy</h2>
+<p>
+	<span style="font-size: 10pt;">This policy is effective as of March 15, 2011<br>
 	<br>
-	This policy is effective as of May 14, 2010<br>
-	<br>
-	<br>
-	mediaFORGE values the protection of consumer privacy.<br>
-	<br>
+	mediaFORGE values the protection of consumer privacy.&nbsp; To opt-out of mediaFORGE tracking, please click the opt-out link highlighted below.<br>
 	<br>
 	Who is mediaFORGE<br>
 	<br>
-	mediaFORGE is a remarketing/retargeting tool for advertisers that collects anonymous usage data from visitors and users. The information we gather is completely anonymous. mediaFORGE uses the information to display targeted advertisements to Internet users. mediaFORGE does not provide any personal information to our advertisers when consumers interact with or view mediaFORGE ads. However, by interacting with or viewing a mediaFORGE ad consumers are consenting to the possibility that mediaFORGE will make the assumption that consumers meet certain targeting criteria. mediaFORGE may combine usage information with information we obtain from clients/advertisers, network partners, and/or other companies.&nbsp; mediaFORGE abides by the self-regulatory standards established by IAB and National Advertising Initiative - www.networkadvertising.org</span></div>
+	mediaFORGE is a remarketing/retargeting tool for advertisers that collects anonymous usage data from visitors and users. The information we gather is completely anonymous. mediaFORGE uses the information to display targeted advertisements to Internet users. mediaFORGE does not provide any personal information to our advertisers when consumers interact with or view mediaFORGE ads. mediaFORGE may combine usage information with information we obtain from clients/advertisers, network partners, and/or other companies.&nbsp; mediaFORGE abides by the self-regulatory standards established by IAB.</span></p>
 <div style="margin: 0.1pt 0in;">
 	<span style="font-size: 10pt;"><br>
-	<br>
 	Information Gathering<br>
 	<br>
-	mediaFORGE collects anonymous information through the use of cookies and pixel tags, which are industry standard technologies used by many major web sites. No personally identifiable information is collected or used in this process.<br>
+	mediaFORGE collects anonymous information through the use of cookies and pixel tags, which are industry standard technologies used by many major web sites. No personally identifiable information is collected or used in this process.</span></div>
+<div style="margin: 0.1pt 0in;">
+	&nbsp;</div>
+<div style="margin: 0.1pt 0in;">
+	<span style="font-size: 10pt;">Information Collected<br>
 	<br>
-	<br>
-	Information Collected<br>
-	<br>
-	When an Internet user views or interacts with mediaFORGE advertisements or a partner’s website we collect and store information about the interactions and usage. The information we collect relates to interaction behavior, including, but not limited to, products and offers viewed, in-ad browsing and searching, video content viewed, and other anonymous behavioral data. In order to gather such information as it relates to specific users, mediaFORGE and partners set and store browser cookies on the computer of each unique user.&nbsp;</span></div>
+	When an Internet user views or interacts with mediaFORGE advertisements or a partner’s website, we collect and store information about the interactions and usage. The information we collect relates to interaction behavior, including, but not limited to, products and offers viewed, in-ad browsing and searching, video content viewed, and other anonymous behavioral data. In order to gather such information as it relates to specific users, mediaFORGE and partners set and store browser cookies on the computer of each unique user.&nbsp;</span></div>
 <div style="margin: 0.1pt 0in;">
 	&nbsp;</div>
 <div style="margin: 0.1pt 0in;">
@@ -191,20 +203,17 @@ $(document).ready(
 <div style="margin: 0.1pt 0in;">
 	&nbsp;</div>
 <div style="margin: 0.1pt 0in;">
-	<span style="font-size: 10pt;">Sensitive personal information includes information we know to be related to confidential medical information, racial or ethnic origins, political or religious beliefs or sexuality and tied to personal information. We will not collect or use sensitive information for purposes other than those described in this Privacy Policy and/or in the supplementary service privacy notices, unless we have obtained your prior consent.</span></div>
+	<span style="font-size: 10pt;">Sensitive personal information includes information we know to be related to confidential medical information, racial or ethnic origins, political or religious beliefs or sexuality and tied to personal information. We will not collect or use sensitive information. </span>We are committed to protecting the privacy of children. Neither mediaFORGE nor our Partners activities are intended or designed to attract children under the age of 13. We do not collect Personal Information from any person we actually know is a child under the age of 13.</div>
 <div style="margin: 0.1pt 0in;">
-	<span style="font-size: 10pt;"><br>
+	&nbsp;</div>
+<div style="margin: 0.1pt 0in;">
+	<span style="font-size: 10pt;">Use of Anonymous Information<br>
 	<br>
-	Use of Anonymous Information<br>
-	<br>
-	mediaFORGE uses the anonymous information it collects to customize the advertisements that consumers see on participating web sites and to analyze if the advertising resulted in sales. At times, we send our clients and partners the aggregated anonymous data for their use in determining which products and offers to display in their ads. The specific source of the data is not disclosed. Each member has warranted that the anonymous information they receive shall be used in compliance with applicable laws and regulations. In accordance with applicable laws and regulations, mediaFORGE will also disclose this information in response to subpoenas, court orders and other required legal processes.<br>
-	<br>
+	mediaFORGE uses the anonymous information it collects to customize the advertisements that consumers see on participating web sites and to analyze if the advertising resulted in sales. At times, we send our clients and partners the aggregated anonymous data for their use in determining which products and offers to display in their ads. The specific source of the data is not disclosed. Each partner or client has warranted that the anonymous information they receive shall be used in compliance with applicable laws and regulations. In accordance with applicable laws and regulations, mediaFORGE will also disclose this information in response to subpoenas, court orders and other required legal processes.<br>
 	<br>
 	How Anonymous Information is Secured<br>
 	<br>
-	We store this anonymous information securely at the mediaFORGE data center. We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. This includes the necessary physical, electronic and managerial procedures to protect data integrity, access and use.</span></div>
-<div style="margin: 0.1pt 0in;">
-	&nbsp;</div>
+	We store this anonymous information securely at the mediaFORGE data center. We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. This includes the necessary physical, electronic and managerial procedures to protect data integrity, access and use.</span><span style="font-size: 10pt;"> </span></div>
 <div style="margin: 0.1pt 0in;">
 	&nbsp;</div>
 <div style="margin: 0.1pt 0in;">
@@ -212,57 +221,89 @@ $(document).ready(
 <div style="margin: 0.1pt 0in;">
 	&nbsp;</div>
 <div style="margin: 0.1pt 0in;">
-	<span style="font-size: 10pt;">We store annymous information for no longer than 12 months.&nbsp;Targeting/advertising data may be stored for up to one year in a browser cookie.&nbsp; Data associated with click-throughs, ad-interactions, ad-engagements and other activities which may include but are not limited to referring url, pages viewed, browser type, IP addressand other anonymous information through web logs. This information may be used for the purpose of reporting ad analysis, usage and statistics.&nbsp; We Store web logs afor a maximum of 12 months.</span></div>
+	<span style="font-size: 10pt;">We store annymous information for no longer than 12 months.&nbsp;Targeting/advertising data may be stored for up to one year in a browser cookie.&nbsp; Usage/performance data associated with click-throughs, ad-interactions, ad-engagements and other activities which may include, but are not limited to, referring url, pages viewed, browser type, IP address and other anonymous information is captured through web logs. This information may be used for the purpose of reporting ad analysis, usage and statistics.&nbsp; We store web logs for a maximum of 12 months.&nbsp; After 12 months, all data captured or stored in web logs is deleted.&nbsp; Some usage/performance data and targeting/advertising data may be aggregated and stored indefinitely for the purposes of reporting and analysis.<br>
+	</span></div>
+<div style="margin: 0.1pt 0in;">
+	&nbsp;</div>
 <div>
-	<span style="font-size: 10pt;"><br>
-	Unforeseen Circumstances<br>
-	<br>
-	mediaFORGE may sell or buy other businesses or entities. In such transactions, the anonymous information we have collected from you may be one of the transferred business assets.<br>
-	<br>
+	<span style="font-size: 10pt;">Unforseen Circumstances<br>
+	</span></div>
+<div>
+	&nbsp;</div>
+<div>
+	<span style="font-size: 10pt;">mediaFORGE may sell or buy other businesses or entities. In such transactions, the anonymous information we have collected from you may be one of the transferred business assets.<br>
 	<br>
 	Right to Change This Policy<br>
-	<br>
-	We reserve the right to make changes to this Privacy Policy at any time. While we expect most changes to be minor, there may be changes that are more significant. As such, we will state the date the policy was last updated. We encourage you to review our privacy policy on a regular basis.<br>
-	<br>
-	<br>
-	Opt-Out<br>
+	</span></div>
+<p>
+	We reserve the right to make changes to this Privacy Policy at any time. While we expect most changes to be minor, there may be changes that are more significant. As such, we will state the date the policy was last updated. We encourage you to review our privacy policy on a regular basis.</p>
+<div>
+	<span style="font-size: 10pt;">Opt-Out<br>
 	<br>
 	There are many programs that allow you to manually delete your cookies. In addition, mediaFORGE offers consumers the opportunity to select a persistent "blank" or "opt-out cookie" to prevent information from being uniquely associated with your browser. This way, you can opt-out of mediaFORGE cookies, without erasing or altering other cookies associated with your browser. If you do not want a unique cookie from mediaFORGE, there is a simple procedure to follow.<br>
 	<br>
-	<br>
 	By selecting the opt-out cookie, mediaFORGE will not store information about your browser behavior given to us from our partners. Also note that if you choose to opt-out, mediaFORGE is unable to recognize your browser from one visit to the next, and you may see the same advertisement multiple times.<br>
 	<br>
-	<br>
-	PLEASE NOTE that if you erase or otherwise alter your browser's cookie file (including upgrading certain browsers) you may need to perform this process again.<br>
-	<br>
-	</span>To opt out, please <a href="http://www.dizzads.com/policy/OPTED_OUT.html">click here</a>.</div>
-<p style="text-align: justify;">
-	<br>
+	PLEASE NOTE that if you erase or otherwise alter your browser's cookie file (including upgrading certain browsers) you may need to perform this process again.</span></div>
+<p>
 	&nbsp;</p>
+<script type="text/javascript" src="./fancybox/jquery.mousewheel-3.0.4.pack.js"></script><script type="text/javascript" src="./fancybox/jquery.fancybox-1.3.4.pack.js"></script><p>
+	<link href="./fancybox/jquery.fancybox-1.3.4.css" media="screen" rel="stylesheet" type="text/css"> <script type="text/javascript">
+	$(document).ready(function() {	
+		/*
+		*   Examples - various
+		*/
+		$("#various").fancybox({
+			'width'				: '65%',
+			'height'			: '65%',
+			'autoScale'			: false,
+			'transitionIn'		: 'none',
+			'transitionOut'		: 'none',
+			'type'				: 'iframe'
+		});
+		
+	});
+</script></p>
+<h2>
+	To opt out, please <a href="http://ads.mediaforge.com/optout.php" id="various" name="various">click here</a>.<br>
+	&nbsp;</h2>
+			</div>
+			<div class="clear"></div>
+		<div class="mainbot"><img src="/img/mainbot.png" alt=""></div>	
 		</div>
 		<div class="clear"></div>
-		
-	</div>
+	<!--Content Ends Here-->
 	
-<div class="clear"></div>
-
-</div>
-<!--Footer Starts Here-->
-<div id="footer">
-
+	</div>
+	<!--Container Ends Here-->
+	
+	
+	<!--Footer Starts Here-->
+		<div id="footer">
+		<div class="footblog">
+			<h3>FROM OUR BLOG</h3>
+		</div>
+		<div class="footnews">
+			<h3>mediaFORGE NEWS</h3>
+		</div>
+		<div class="clear"></div>
+			
 <ul id="footer_ul">
-<li id="footer_ul_171"><span class="tree_item_content "><a href="/how-it-works" class="tree_item_name">How it Works</a></span></li>
-<li id="footer_ul_170"><span class="tree_item_content "><a href="/forms/get-started" class="tree_item_name">Get Started</a></span></li>
-<li id="footer_ul_173"><span class="tree_item_content "><a href="/about-us" class="tree_item_name">About</a></span></li>
-<li id="footer_ul_190"><span class="tree_item_content current"><a href="/privacy-policy" class="tree_item_name">Privacy</a></span></li>
+<li id="footer_ul_188"><span class="tree_item_content "><a href="http://reports.mediaforge.com/login.php" class="tree_item_name">Client Log-In</a></span></li>
+<li id="footer_ul_176"><span class="tree_item_content "><a href="/what-we-do" class="tree_item_name">What We Do</a></span></li>
+<li id="footer_ul_177"><span class="tree_item_content "><a href="/why-mediaforge" class="tree_item_name">Why mediaFORGE</a></span></li>
+<li id="footer_ul_178"><span class="tree_item_content "><a href="/demos" class="tree_item_name">Demos</a></span></li>
+<li id="footer_ul_216"><span class="tree_item_content "><a href="/forms/contact-mediaforge" class="tree_item_name">Contact Us</a></span></li>
+<li id="footer_ul_179"><span class="tree_item_content "><a href="/about" class="tree_item_name">About</a></span></li>
+<li id="footer_ul_186"><span class="tree_item_content current"><a href="/privacy" class="tree_item_name">Privacy</a></span></li>
 </ul>
-    <div class="copyright">©2009 mediaFORGE. All Rights Reserved. </div>
-	<div class="clear"></div>
-</div>
-<div class="clear"></div>
-<!--Footer End Here-->
+				<div class="clear"></div>
+				<div class="copyright">©2011 mediaFORGE. all rights reserved.</div>
+		</div>
+		<div class="clear"></div>
+	<!--Footer End Here-->
 
-<!-- insert google analytics code here -->
+		<!-- insert google analytics code here -->
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
@@ -274,6 +315,7 @@ pageTracker._trackPageview();
 } catch(err) {}</script>
 
 
+	<iframe src="http://tags.mediaforge.com/if/269" frameborder="0" width="0" height="0" scrolling="no"></iframe>
 
 
-</body></html>
+<!-- 0.6546s --><div id="fancybox-tmp"></div><div id="fancybox-loading"><div></div></div><div id="fancybox-overlay"></div><div id="fancybox-wrap"><div id="fancybox-outer"><div class="fancybox-bg" id="fancybox-bg-n"></div><div class="fancybox-bg" id="fancybox-bg-ne"></div><div class="fancybox-bg" id="fancybox-bg-e"></div><div class="fancybox-bg" id="fancybox-bg-se"></div><div class="fancybox-bg" id="fancybox-bg-s"></div><div class="fancybox-bg" id="fancybox-bg-sw"></div><div class="fancybox-bg" id="fancybox-bg-w"></div><div class="fancybox-bg" id="fancybox-bg-nw"></div><div id="fancybox-content"></div><a id="fancybox-close"></a><div id="fancybox-title"></div><a href="javascript:;" id="fancybox-left"><span class="fancy-ico" id="fancybox-left-ico"></span></a><a href="javascript:;" id="fancybox-right"><span class="fancy-ico" id="fancybox-right-ico"></span></a></div></div></body></html>
