@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the southscope.in privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227021925id_/http%3A//southscope.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the southscope.in privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521215856id_/http%3A//www.southscope.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Southscope.in
 
