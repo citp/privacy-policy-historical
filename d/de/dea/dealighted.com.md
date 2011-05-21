@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dealighted.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120112427id_/http%3A//www.dealighted.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealighted.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521091612id_/http%3A//www.dealighted.com/privacy) for the most accurate reproduction.*
 
 # Deals and Coupons Search - Dealighted People Powered Shopping
 
