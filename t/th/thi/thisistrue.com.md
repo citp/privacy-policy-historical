@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thisistrue.com privacy policy that was archived on 2010-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101207004003id_/http%3A//www.thisistrue.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thisistrue.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521202719id_/http%3A//www.thisistrue.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy and Security Statement: Randy Cassingham's Weird News
 
