@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tunegenie.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203015737id_/http%3A//www.tunegenie.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tunegenie.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521075846id_/http%3A//tunegenie.com/static/privacy) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
@@ -31,6 +31,8 @@ We may personalize your experience by using your site behavior to shape any reco
 We use "cookies" and other tracking technologies for the purposes described above as well as to enhance the functionality of the Site. This information may be stored in files on your computer that we access. For example, when you visit our Site, we may use the information stored in a cookie to store a password so that you do not have to continually input it every time you move to a different section of a password-protected portion of our Site or use a cookie from a previous visit to facilitate your use of our Site and to track usage.
 
 We may also use the information we collect to occasionally notify you about important functionality changes to our Site, new services we provide, and special offers we think will be of interest to you. If you would rather not receive this information, please contact us, and request that we discontinue providing you with such information.
+
+Your Facebook profile picture and name may appear in various widgets displayed on affiliate sites. If you choose to not have your Facebook picture and name appear you can deactivate a playlist by deselecting the "share on Facebook" option when you add a song to a playlist. Likes cannot be deselected and if compatible with affiliates sites may be viewed on those affiliate sites.
 
 We may collect anonymous demographic information that is not unique to you, such as your ZIP code, domicile, age, gender, preferences and interests. We may use this information in aggregate with affiliates, advertisers, business partners or unaffiliated third parties for the purpose of performing business services for us. We may transfer information we have about you in connection with the sale of all or part of our business. We reserve the right to disclose personal information to regulatory authorities, law enforcement agencies or as required by applicable law.
 
