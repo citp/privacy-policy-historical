@@ -1,197 +1,119 @@
-> *The following text is extracted and transformed from the tkmaxx.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120043206id_/http%3A//www.tkmaxx.com/page/privacynotice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tkmaxx.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521170135id_/http%3A//www.tkmaxx.com/page/privacynotice) for the most accurate reproduction.*
 
 # Privacy Notice
 
-  * Information We Collect About You
-  * Shopping at TK Maxx and HomeSense Stores
-  * Shopping Online
-  * MerchandiseReturns
-  * Gift Cards and E-vouchers
-  * Careers
-  * Contests Sweepstakes And Other Promotions
-  * Email And Other Communications
-  * Other Uses Of Information
-  * Customer Service
-  * Press Office
-  * Children's Privacy
-  * Cookies And Web Beacons
-  * How We Protect Personal Information
-  * Information We Share
-  * Links To Other Websites
-  * How We Protect Personal Information
-  * Shopping at TK Maxx and HomeSense Stores
-  * Your Choices – Access, Update and Correction
+**Last updated: 13th April 2011**
 
+Whenever you shop with us or make an enquiry to us you may share personal information with us. This Policy sets out how we collect this information and what we do to make sure it is safe in our hands. TK Maxx and HomeSense are trading names of TJX UK. 
 
+This Policy is the most up to date statement of our terms and takes precedence over any other statement on this site or in store. We will always indicate at the top of the policy when it was last updated.
 
-Last updated: 10 June 2010  
-TJX UK (trading as TK Maxx and HomeSense) is committed to protecting your privacy. This Privacy Notice explains how we collect, use, disclose and otherwise manage the personal information we collect from you in our stores and online.
+If there are links to third party websites on our site, these will not be covered by this Policy and we strongly recommend you refer to the terms and conditions and Privacy Policy on the third party website.
 
-TK Maxx and HomeSense are owned and operated by TJX UK (“TJX UK”), a subsidiary of The TJX Companies, Inc. (“TJX”).
+If you have any questions or concerns about the Policy or about the security of your personal information, please do not hesitate to contact us at [data_protection@tjxeurope.com](mailto:data_protection@tjxeurope.com)
 
-When you use our websites (www.tkmaxx.com and www.homesense.com you are also subject to the [Terms and Conditions of Use](https://web.archive.org/page/terms). If anything in this Privacy Notice conflicts with the Website Terms and Condition of Use, or any other data collection language (whether in our Stores or on other TK Maxx or HomeSense communications) the terms of this Privacy Notice will apply. We will indicate at the top of this Privacy Notice when it was most recently updated.
+## When do we collect personal information?
 
-If you have any questions regarding the processing of your personal information please contact us at data_protection@tjxeurope.com
+  * When you use our website to view or buy products, e vouchers or gift cards
+  * When you go into our stores and are captured on the CCTV we use for Security
+  * When you buy products in our stores
+  * When you return something
+  * When you apply for a job
+  * When you enter a promotion or competition
+  * When you take part in customer research
+  * When you contact us with a comment, question or complaint
+  * When you agree to go on our mailing list
 
-### INFORMATION WE COLLECT ABOUT YOU AND HOW WE USE IT
 
-#### Personal Information We Collect About You
 
-We may come into possession of personal information (including but not limited to your name, address, telephone number, email address and computer IP address) when you:
+**Note**  
+If you are 16 or under you may browse our website but you may not register with us or make a purchase. We do not knowingly collect personal information from any person under the age of 16 and all our promotions have a minimum age of 16. Our stores may ask for proof of age if an item with an age restriction is purchased and it is unclear to the associate that you are over the applicable age.
 
-  * Purchase or return merchandise at one of our Stores;
-  * Consent to receive promotional email, SMS text messages and other communications;
-  * Visit or register on the Website, including opening an online account (“Account”) with us;
-  * Participate in our contests, sweepstakes or promotions (“Promotion(s)”);
-  * Participate in one of our surveys or other customer research;
-  * Apply or search for employment at the “Our Careers” page on the Website or in one of our Stores;
-  * Contact our Customer Service Department, the Customer Service team in our Stores, or otherwise contact us or one of our service providers or partners with a comment, question or complaint.
-  * Browse our websites
+## What information do we collect about you and how do we use it?
 
+The sort of information we collect depends on what you need us to do for you, or how much information we need to identify who you are and resolve your query. 
 
+  * Your name and address so we can make sure an online order reaches you
+  * Your email address so we can set up an online account for you, send you important information relating to your order and send you marketing emails if you ask us to (click here to see how you can request marketing emails or ask us not to send them).
+  * Your card details so we can take payment or make a refund whether online or in store ([click here](http://www.tkmaxx.com/customer-service/faqs/page/faqs/#payment4) to see how we protect financial information)
+  * Your telephone number so we can contact you if there is a problem with delivery
+  * Your IP address so we can use appropriate cookies to help your visits to our website (click here to see how we use Cookies)
+  * Your signature when you bring a return to our store to acknowledge receipt of the refund and help us guard against theft
+  * Other personal details such as date of birth, gender and shopping habits appropriate to a specific promotion or competition
+  * Footage of you that is captured on CCTV when you are on our premises. We use CCTV for safety and security purposes and for the prevention and detection of crime
+  * Your contact details if you enter a competition
 
-In the sections which follow, we describe in more detail the personal information you may submit, the methods by which you may submit it and how we may use such personal information.
 
-### Shopping at TK Maxx and HomeSense Stores
 
-You do not have to provide us with any personal information when you purchase merchandise with cash at one of our Stores. If you use a credit or debit card for your purchase, we collect and use your credit or debit card-related information and your signature or pin number to process and administer your payment.
+In addition we might use the personal information you provide for our internal purposes, for example, website administration, analysis, reporting and compliance purposes or to improve merchandise selections, enhance customer service or invite you to get involved in customer research.
 
-Please see [How We Protect Personal Information](https://web.archive.org/page/privacynotice#HowWeProtectPersonalInformation) for more details about how we keep your financial details secure.
+## How do we protect your personal information?
 
-### Shopping on tkmaxx.com
+We maintain appropriate administrative, technical and physical security safeguards to protect against loss, misuse or unauthorised access, disclosure, alteration or destruction of the personal information you provide on our website, in our stores and through other means.
 
-You may purchase certain goods online at tkmaxx.com. In order to do so you will need to set up an Account and provide some personal and financial information. We will use this information to provide you with your goods, to process any future purchases, as requested by you, and to process any merchandise returns.
+See our [payment page](https://web.archive.org/page/faqs/#makingapayment) for how we protect your financial information online.
 
-In addition, you may opt to receive electronic marketing from TK Maxx or HomeSense. You may unsubscribe at any time. You can opt in when you purchase online to have your payment details retained to improve the speed of your journey when purchasing from us.
+Obviously no collection or transmission of information over the internet is 100% secure and although we take every possible measure, we cannot ensure or warrant the security of any such transmission.
 
-The information that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA") [
+You can assist with protection by ensuring that if you create a password to access any section of our website, you make sure it is hard to guess, contains a combination of letters and figures and you keep it safe by not disclosing it to anyone. If someone logs in as you using your email and password we will not be able to detect that it is not you and cannot be responsible for any action we take in response to someone using your user name and password.
 
-See How We Protect Personal Information for details about our security processes and about how we keep your financial details secure. 
+## How can you get access to any information we have about you?
 
-### Merchandise Returns
+You may request a copy of the personal information held about you, and you have the right to have any inaccuracies on record about you corrected. TJX charges £10 for UK requests and will require you to prove your identity before providing any data. Send any requests for access, or queries regarding access, to the Data Protection Officer, TJX Europe, 50 Clarendon Road, Watford, W17 1TX or email [data-protection@tjxeurope.com](mailto:data-protection@tjxeurope.com).
 
-When you return merchandise at one of our Stores, we may collect your name and address, and a reason for the return to help administer our loss prevention programme. For all merchandise returns, we collect a customer’s signature to acknowledge receipt of the refund and for the administration of our loss prevention programme. For merchandise returns where a customer receives a refund on a credit or debit card, we will collect and use credit or debit card-related information to process and administer the refund transaction. In certain circumstances we may need to ask you for proof of identification.
+## Our mailing list - getting on and getting off!
 
-### Gift Cards and E-vouchers In Store
+When you use our website, receive an email from us, place an order or enter a competition you will get the opportunity to subscribe to our mailing list for our email newsletters – hot@rrivals and Friends of HomeSense which keep you up to date with new and exciting products arriving in our stores and online.
 
-You may purchase Gift Cards in our Stores. We will not ask you for any personal information when you purchase a Gift Card or redeem a Gift Card in any one of our Stores. However, if you use a credit or debit card for your purchase, we or our payment processor will collect and use your credit or debit card-related information and your signature or pin number to process and administer your payment.
+If you no longer wish to receive our emails there are several ways you can unsubscribe.
 
-#### GIFT CARDS
+  * Click on the "Unsubscribe" link at the bottom of every hot@rrivals or Friends of HomeSense email. This will open a new page and you will need to make sure that the email address on this page is the same as the one you used to sign up. Once you are happy that this is the case, click "Unsubscribe"
+  * Use the My Account area of our website – you may have an online account with us, or you may have set up a profile in the Careers page. On both pages you can opt out by going to your preferences and un-ticking the box for hot@rrivals or Friends of HomeSense.
+  * Contact Us and we will remove you from the list. [Click here for contact details](http://www.tkmaxx.com/page/contact/).
 
-You may purchase our Gift Cards online by accessing a link on the Website. We have engaged a third party service provider (Voucher Express) to operate our online Gift Card service on our behalf.
 
-When you purchase Gift Cards from the website, Voucher Express may ask you to provide details such as the recipient's name and address, your name, address, telephone number, email address and debit or credit card details for payment. The information you provide in connection with your online purchase is stored in a database that is managed and maintained by Voucher Express, who will use the information you submit to provide you with the Gift Cards to be used in our TK Maxx or HomeSense Stores. When purchasing a Gift Card we recommend that you first read Voucher Express's terms and conditions and Privacy Notice posted on their site.
 
-#### E-VOUCHERS
+## Do you share my information with anyone else?
 
-You may also purchase E-vouchers online by accessing a link on the Website. These are provided to you by TJX UK (trading as TK Maxx and HomeSense) and can only be used when purchasing online. When you purchase E-vouchers from our Website we may ask you to provide details such as the recipient's name and address, your name, address, telephone number, email address and debit or credit card details for payment. The information you provide in connection with your online purchase is stored in a database that is managed and maintained by our third party provider on behalf of TK Maxx and HomeSense, who will use the information you submit to provide you with E-vouchers to be used online. TJX UK’s [Terms and Conditions](https://web.archive.org/page/terms) and this Notice will apply to your purchase of E-vouchers.
+We do not sell or otherwise disclose any personal information about our customers, visitors to our website or those applying for a job except as described in this Privacy Notice or as otherwise agreed with you.
 
-### Careers
+We use third parties to perform services on our behalf for example: 
 
-We display employment opportunities on the Website. You may submit your CV and other personal information to apply for employment with TJX UK (TK Maxx or HomeSense).
+  * When you use our website to make a purchase of goods or evouchers. Our online shop is provided by Venda. We chose Venda to provide this expertise for us because of their security certification.
+  * When you buy Store Gift cards from our website. Our store gift cards are provided by Voucher Express who will ask for the relevant details to take payment for a gift card and send it to the recipient.
+  * When you apply for a job with us online. See How do we Protect your Information when you Apply for a Job?
 
-To apply online, you will be asked to register and create a password. The information you provide in connection with your application is maintained in a database that is managed on our behalf in the United States by a third party service provider. Our service provider is authorised to use the information only in connection with hosting, managing and maintaining our CV database and to process your data only in accordance with our instructions. We use the information you submit to process and respond to your application for employment.
 
-Except as described below in Information We Share, or as otherwise agreed with you, information for unsuccessful applicants will be destroyed within a reasonable period once the position applied for has been filled or the search otherwise concluded. If the application was speculative we may hold the information for a reasonable period in case an appropriate vacancy arises.
 
-You may also complete an application form and submit it by hand to a member of our Customer Service team in our Stores. Your CV will be retained securely for a limited period. It will then be securely destroyed, unless you are employed by TJX UK (TK Maxx or HomeSense). If we receive a speculative CV or application form by post or fax we may hold information for a reasonable period in case an appropriate vacancy arises.
+When we use third parties to perform services for us they may only use personal information strictly as instructed and never for their own purposes.
 
-### Contests, Sweepstakes and Other Promotions (“Promotion(s)”)
+TK Maxx and HomeSense are owned and operated by TJX UK, a subsidiary of The TJX Companies, Inc in the US. We may share the information you provide with members of our group and, in certain circumstances, with our joint marketing partners.
 
-We may conduct Promotions. If you choose to participate, we may ask you to provide your name, address, phone number, date of birth, gender, email address and other information, including shopping preferences. We will use this information for the purpose of conducting our Promotions, to send you our hot@rrivals newsletter or our ‘Friends of HomeSense’ newsletter, and/or as otherwise agreed by you. You will always be provided the opportunity to unsubscribe from receiving and direct marketing material. Specific terms and conditions for Promotions may be posted on the Website, provided in our Stores or in the Promotion materials themselves. Please ensure that you are familiar with any applicable terms and conditions prior to participating in such Promotions.
+In the event that we run a promotion in conjunction with another sponsor, your personal information may be shared with such sponsors, but this will be specified at the time of collection. We do not control the use, disclosure or security of your personal information by other sponsors, so we recommend you carefully review their Privacy Notice.
 
-### Email and other Communications
+In addition we may disclose information
 
-From time to time, we may obtain your consent to send you emails or other communications, (including via SMS, bluetooth or other device), about our products, services, promotions or events that may be of interest to you. You will always be provided the opportunity to unsubscribe from receiving and direct marketing material. See “Your Choices - Access, Correct and Opt Out” below.
+  * If we are required to do so by law or legal process
+  * To law enforcement agencies
+  * When we believe disclosure is necessary or appropriate to prevent physical harm or financial loss or in connection with an investigation or suspected or actual illegal activity
+  * If TK Maxx merges, sells or disposes of any part of its business or assets, which includes customer information
 
-### Other Uses of Information
 
-In addition, we may use the personal information you provide for our internal purposes, for example, for Website administration, analysis, reporting and compliance purposes. We may use your information to improve merchandise selections and enhance customer service, or invite you to participate in customer research.
 
-### Customer Service
+## What are cookies and web beacons and how do we use them?
 
-When you contact our Customer Service team you may be asked to provide information that identifies you (for example your name, address, email address or phone number) along with additional information we may need to help us conclude your inquiry. We may retain this information to assist you in the future and use your comments to improve our product and service offerings.
+Cookies are bits of text that are placed on your computer's hard drive when you visit certain websites. We use cookies to tell us whether you have visited us before or if you are a new visitor, and they help us identify features of our site which may interest you the most. When you save preferences on a particular site you activate a cookie from that site and that's what causes the site to recognise your preferences every time you access the site from the same computer.
 
-### Press Office
+We sometimes use a third party to help us analyse the information we get from cookies and we use this information to improve the appearance of our website and make it easier for customers to use.
 
-If you are a journalist and choose to register with us at Press Pass, we will use your information to provide news and information services to you. Once registered, you may edit your profile or unsubscribe at any time.
+If you are not happy about receiving cookies, most Internet browsers will tell you how to stop accepting new cookies, how to request alerts when you receive a new cookie and how to disable existing cookies. Some useful information about cookies can be found at www.aboutcookies.org. We should point out, however, that cookies in general help you to benefit from the features of a website and without them you may not be able to take full advantage of what the website has to offer.
 
-### Children’s Privacy
+Web beacons (also known as Internet tags, pixel tags and clear GIFs) allow permitted third parties to obtain information such as the IP address of the computer, the details of the page on which the beacon appears, the time the page containing the beacon was used, the type of browser used to view it and the information in the cookies which the third party has set. We use beacons to measure how effective our advertising has been, and any third parties we use are contractually restricted from using any personal data collected for their own or others' purposes.
 
-If you are under 16 years of age, you may browse the Website. However, you may not provide personal information to us. For example, you cannot register or make a purchase. This Website is not designed for minors and we do not knowingly collect personal information from any person under 16 years of age. All our Promotions have a minimum age of 16.
+## How do we protect your information when you apply for a job?
 
-If you try to purchase from one of our Stores a product which has an age restriction and you appear to be under the applicable age we will ask you for proof of age.
+When applying for a job online with TJX you can submit your CV and other relevant personal information on our website. We will ask you to register your details by providing an email address and password. Any information you provide is maintained in a database which is managed on our behalf by a service provider in the US. They are authorised to use the information only in connection with hosting, managing and maintaining our CV database and they can process your data only in accordance with our instructions. We use the information you submit to process your application.
 
-### Other Information We Collect
+If you apply for a job by submitting an application form to our stores or by post, we will retain it securely for a limited period relevant to the vacancies available.
 
-In general, you can visit the Website without telling us who you are or submitting personal information. However, certain information is automatically collected, including the IP (internet protocol) addresses connected to visitors' browsers and other related user information such as page requests, browser type, operating system and average time spent on the Website. We use this information to help us understand the Website activity, and to monitor and improve the Website. We collect this information either through “cookies”, “web beacons,” or similar technology, as explained below.
-
-### Cookies And Web Beacons
-
-#### Cookies
-
-Like many companies, we often use “cookies” on the Website. Cookies are bits of text that are placed on your computer’s hard drive when you visit certain websites.
-
-We use cookies to tell us, for example, whether you have visited us before or if you are a new visitor and to help us identify site features in which you may have the greatest interest. Cookies may enhance your online experience by saving your preferences while you are visiting a particular site.
-
-We may also use a third party to help us gather and analyse information about the areas that you visit on the Website in order to help us evaluate and improve the customer experience and the convenience of the Website, and to help us evaluate some of the specific information that you provide to us. 
-
-Most browsers will tell you how to stop accepting new cookies, how to request alerts when you receive a new cookie, and how to disable existing cookies. Please note, however, that without cookies you may not be able to take full advantage of all the Website features. For more information about how to manage and disable cookies please visit www.aboutcookies.org.
-
-#### Web Beacons 
-
-Certain pages on the Website and our communications with you may contain “web beacons” (also known as Internet tags, pixel tags and clear GIFs). These web beacons allow third parties to obtain information such as the IP (internet protocol) address of the computer that downloaded the page on which the beacon appears, the URL of the page on which the beacon appears, the time the page containing the beacon was viewed, the type of browser used to view the page, and the information in cookies set by the third party in order to measure the effectiveness of our ads. We contractually restrict third parties from using your personal information for their own, or any others’, marketing purposes.
-
-### Information We Share
-
-#### Disclosure of Your Information
-
-We do not sell or otherwise disclose personal information about our customers or Website visitors, except as described in this Privacy Notice or as otherwise agreed with you.
-
-Please note that we may share the information you provide with TJX in the United States, and with European affiliates of TJX UK, and, in certain circumstances, with our joint marketing partners. We may also share the information with service providers, such as as online hosting services providers, delivery couriers (to operate our online service), research companies or promotional marketing companies, which we have retained to perform services on our behalf.
-
-These service providers are not authorised by us to use or disclose the information except as necessary to perform services on our behalf or to comply with legal requirements.
-
-In addition, we may disclose information about you (I) if we are required to do so by law or legal process; (II) to law enforcement agencies; (III) when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss or in connection with an investigation of suspected or actual illegal activity; or (IV) if TK Maxx merges, sells or disposes of all or any part of its business or assets, such that your personal information may be transferred as part of such transaction.
-
-#### Joint Sponsors
-
-If a Promotion is jointly sponsored by us and one or more other sponsors, your personal information may be shared with such sponsors as specified at the time of collection of your personal information. We do not control the use, disclosure or security of your personal information by other sponsors, and recommend that you carefully review their respective Privacy Notices, statements and Terms and Conditions. If you do not wish your information to be shared with joint sponsors in this manner, you may express this preference when you enter the relevant Promotion or not participate in the Promotion.
-
-### LINKS TO OTHER WEBSITES AND SERVICES
-
-Please see Links to Other Websites and Services in our Terms and Conditions. You should read the specific legal, privacy and security information contained in any linked websites.
-
-### HOW WE PROTECT PERSONAL INFORMATION
-
-We maintain appropriate administrative, technical and physical security safeguards in an effort to protect against loss, misuse or unauthorised access, disclosure, alteration or destruction of the personal information you provide on the Website, in our Stores and through other means. 
-
-Our online store is hosted by a third party provider which has been certified as PCI Compliant. You can choose from a range of payment methods for online purchases. These payment methods support 3D secure, which seeks to provide an added layer of security for online credit and debit card transactions. The financial information that you provide online is subject to industry standard SSL or equivalent encryption technology.
-
-It is important to remember however that no collection or transmission of information over the internet can be guaranteed to be 100% secure and, therefore, we cannot ensure or warrant the security of any such transmission.
-
-We will only keep data for as long as necessary to provide you the services or otherwise to meet legal requirements.
-
-#### Passwords
-
-We strongly recommend that you do not disclose any password you have created to access a section of the Website to anyone and You must keep your password safe. You will be responsible for any action which we take in response to a request from someone using your email and password.
-
-### YOUR CHOICES - ACCESS, CORRECT AND OPT OUT
-
-You have the right to access, update, and correct inaccuracies in your personal information, subject to certain exceptions prescribed by law. You can access and update your resume information submitted via the Website on the “Careers” page, by doing the following:
-
-  * Go to the “Careers” page, click on “Update My Profile” and enter your e-mail address and the password that you set up at the time of registration You can opt out of receiving promotional e-mails from us, such as hot@rrivals or Friends of HomeSense, in the following ways: If you have registered an Account: 
-  * Log into your Account using your email address and password. Go to your preferences and un-tick the hot@rrivals or Friends of HomeSense email box. If you do not have an Account: 
-  * You can access an ‘unsubscribe’ link from the footer of every hot@rrivals or Friends of HomeSense email communication. Click on this link and it will take you to a new page. Please ensure that the email address on this page is the same email address that you used to sign up, otherwise it may not be possible to comply with your request. When you are satisfied, click the ‘unsubscribe’ button.
-You can also opt out of receiving promotional e-mail and/or postal mail from us, or request access to your personal information by: 
-  * Emailing us at customerservice@tjxeurope.com;
-  * or calling Customer Service, Monday - Friday 9:00 a.m. - 5:00 p.m. (GMT) at the following number: 01923 473 651
-  * or writing to us at TK Maxx and HomeSense, Customer Service, c/o TJX UK, 50 Clarendon Road, Watford, Hertfordshire, WD17 1YX Please allow at least five (5) working days for communications to cease and for your details to be removed from our mailing lists.
-
-
-
-#### Access under the Data Protection Act
-
-In accordance with the Data Protection Act 1998 you may request a copy of the personal information TJX UK holds about you and you also have a right to have any inaccuracies corrected. TJX charges £10 for information requests will require you to prove your identity. Please send requests or any other question about this Privacy Notice to the Data Protection Officer, TJX Europe, 50 Clarendon Road, Watford WD17 1TX UK or data_protection@tjxeurope.com.
-
-Copyright © 2010 TJX UK
+We will share your information only as requested by you or in accordance with the statements in this Privacy Policy. Information for unsuccessful candidates will be destroyed within a reasonable period once the vacancy and other suitable vacancies have been filled or the search otherwise concluded.
