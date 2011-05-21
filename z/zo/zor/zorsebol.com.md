@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zorsebol.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127030037id_/http%3A//www.zorsebol.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zorsebol.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521092033id_/http%3A//www.zorsebol.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -20,3 +20,5 @@ We gather non-personal data regarding the visitors to our site using cookies and
 
 **Web Server Log  
 **Your IP address is automatically logged by our Apache webserver. However that information is only used statistically to find out the reach of this weblog. All the logs are automatically discarded every couple of months. Non-identifying aggregate information may be retained.
+
+[](http://www.facebook.com/share.php?u=http://www.zorsebol.com/privacy-policy/)[Share on Facebook](http://www.facebook.com/share.php?u=http://www.zorsebol.com/privacy-policy/ "Share on Facebook")
