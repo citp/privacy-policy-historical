@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kbhgames.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220024544id_/http%3A//kbhgames.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kbhgames.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521201300id_/http%3A//kbhgames.com/privacy) for the most accurate reproduction.*
 
 # Free Online Games - Privacy - Kaboohoo Games
 
