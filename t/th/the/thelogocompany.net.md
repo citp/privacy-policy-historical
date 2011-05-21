@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thelogocompany.net privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130122410id_/http%3A//thelogocompany.net/forum/privacy-policy-t2160.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelogocompany.net privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521085212id_/http%3A//thelogocompany.net/forum/privacy-policy-t2160.html) for the most accurate reproduction.*
 
 # Privacy Policy - Logo Design Forum
 
