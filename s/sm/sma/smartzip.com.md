@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartzip.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120184956id_/http%3A//www.smartzip.com/s/sz/std/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartzip.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521083713id_/http%3A//www.smartzip.com/s/sz/std/info/privacy) for the most accurate reproduction.*
 
 # SmartZip - Privacy Policy
 
@@ -73,7 +73,7 @@ We will make your personally identifiable information available to other compani
   * You unsubscribe for a mailing that we send to you on behalf of a third party; we may share your removal instruction with the third party so that it may be added to that person's list of people to whom they may not send emails; 
   * You are the winner of a contest or a sweepstakes that is co-sponsored with a third party and that third party needs your information in order to manage the prize fulfillment process; 
   * When required by law, such as when we respond to subpoenas, court orders, or legal process; 
-  * We believe that your actions violate applicable laws, SmartZip’s Terms of Use, or any usage guidelines for specific products or services, or threaten the rights, property, or safety of our company, our users, or others; 
+  * We believe that your actions violate applicable laws, SmartZip’s Terms of Service, or any usage guidelines for specific products or services, or threaten the rights, property, or safety of our company, our users, or others; 
   * Members of the SmartZip corporate family - to provide joint content and services (like registration, transactions and customer support), to help detect and prevent potentially illegal acts and violations of our policies, and to guide decisions about their products, services and communications; members of our corporate family will use this information to send you marketing communications only if you’ve requested their services; and
   * We use return email addresses to answer the email we receive; such addresses are not used for any other purpose and are not shared with outside parties. 
 
