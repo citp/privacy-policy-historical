@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the stylintrucks.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120182653id_/http%3A//www.stylintrucks.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stylintrucks.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521083214id_/http%3A//www.stylintrucks.com/privacy.aspx) for the most accurate reproduction.*
 
-# Stylin' Trucks Privacy Policy
+# Stylin Trucks Customer Service | Truck & Suv Accessories
 
 Stylin’ Trucks is committed to respecting your privacy and recognizing your need for appropriate protection and management of personal information that you share with us (“personal information” means any information by which you can be identified, such as your name, mailing address, email address, telephone number, etc.).
 
-The purpose of this privacy policy is to inform you as to what personal information we may collect from you, how we use such information and the choices you have regarding our use of, and your ability to review and correct this information.
+The purpose of this privacy policy is to inform you about what personal information we may collect from you, how we use such information and the choices you have regarding our use of your personal information, and your ability to review and correct this information.
 
 **Collecting Information**
 
-When you purchase or order a product, subscribe to a service, request catalogs, or participate in surveys, contests or sweepstakes, etc., we ask you to provide information about yourself such as your name, address, telephone number, email address, credit card information, etc. Whether you have provided us with information or not, when you visit our website, our web server automatically recognizes your domain and other non-personal information about your visit, such as information about what pages have been viewed, time of visit, browser type, etc.
+When you purchase or order a product, subscribe to a service, request catalogs, or participate in surveys, contests or sweepstakes, we ask you to provide information about yourself such as your name, address, telephone number, email address, credit card information. When you visit our website - whether you have provided us with information or not - our web server automatically recognizes your domain and other non-personal information about your visit, such as information about what pages have been viewed, time of visit and browser type.
 
-We use cookies to store your preferences, record session information, such as items that you add to your shopping cart, record past activity at our sites in order to provide better service when you return to our site, customize web site content based on your browser type or connection speed and other information that you may send.
+We use cookies to store your preferences, record session information, such as items that you add to your shopping cart and record past activity at our sites in order to provide better service when you return to our site, customize web site content based on your browser type or connection speed and other information that you may send.
 
 We may contract with third parties who may use cookies and collect information on our behalf. These third parties are prohibited by contract from sharing information with anyone other than us or our other service providers.
 
@@ -18,13 +18,13 @@ We may contract with third parties who may use cookies and collect information o
 
 We use the personal information that you provide for internal purposes, such as confirming and tracking your order, subscription or registration, analyzing trends and statistics, informing you of new products, services and offers, and providing your with information from and about Stylin’ Trucks.
 
-If you supply us with your postal address you may receive periodic mailings from us with information about new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by calling us at the number provided below, e-mailing us at the email address below, or writing to us at the mailing address listed below.
+If you supply us with your postal address, you may receive periodic mailings from us with information about new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by calling us at the number provided below, e-mailing us at the email address below, or writing to us at the mailing address listed below.
 
-If you supply us with your telephone number you may receive telephone contact from us with information regarding pending orders, quote requests, new products and services or upcoming events. If you do not wish to receive such telephone calls, please let us know by contacting us via the information listed below. Stylin’ Trucks will never share, rent or sell your telephone number to any other company or organization.
+If you supply us with your telephone number, you may receive telephone contact from us with information regarding pending orders, quote requests, new products and services or upcoming events. If you do not wish to receive such telephone calls, please let us know by contacting us via the information listed below. Stylin’ Trucks will never share, rent or sell your telephone number to any other company or organization.
 
-In certain instances we may disclose your personal information when we have reason to believe that it is necessary to identify, contact or bring legal action against persons or entities who may be causing injury to you, to Stylin’ Trucks or to others. We may also disclose your personal information when we believe that the law requires it.
+In certain instances, we may disclose your personal information when we have reason to believe that it is necessary to identify, contact or bring legal action against persons or entities who may be causing injury to you, to Stylin’ Trucks or to others. We may also disclose your personal information when we believe that the law requires it.
 
-Stylin’ Trucks does, on occasion, exchange customer mailing addresses with other high-quality, reputable mail order companies whose products may be of interest to you. If you do not wish to receive any postal mailings from any of these companies, or would like to be removed from our catalog mailing list, please contact using the information below. Please be sure to include your name and address.
+Stylin’ Trucks does, on occasion, exchange customer mailing addresses with other high-quality, reputable mail order companies whose products may be of interest to you. If you do not wish to receive any postal mailings from any of these companies, or would like to be removed from our catalog mailing list, please contact us using the information below. Please be sure to include your name and address.
 
 **Email**
 
@@ -49,5 +49,5 @@ Customer Service Dept.
 7820 E. Pleasant Valley Rd.  
 Independence, OH 44131
 
-Email: [service@stylintrucks.com](mailto:service@stylinconcepts.com)  
+Email: [service@stylintrucks.com](mailto:service@stylintrucks.com)  
 Telephone: 216-643-6600
