@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aboutmyplace.co.uk privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227214650id_/http%3A//www.aboutmyplace.co.uk/popup/privacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aboutmyplace.co.uk privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521084652id_/http%3A//www.aboutmyplace.co.uk/popup/privacystatement) for the most accurate reproduction.*
 
 # None
 
