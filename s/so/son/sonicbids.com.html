@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sonicbids.com privacy policy that was archived on 2010-08-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100822135158id_/http%3A//www.sonicbids.com/about/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sonicbids.com privacy policy that was archived on 2011-05-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110521041540id_/http%3A//www.sonicbids.com/about/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head id="wcPageHead" runat="server">
 		<title>Get a Gig. Book a Band. - Sonicbids</title>
@@ -24,6 +24,8 @@
         <!--[if lt IE 7]><link rel="stylesheet" type="text/css" href="/css/lt7.css" media="screen"/><![endif]-->
         <!--[if IE]><style type="text/css">@import "/css/IEfixes.css";</style><![endif]-->
 
+        <script type="text/javascript" language="javascript" src="/2/Content/Scripts/jquery-1.4.2.min.js"></script>
+        <script type="text/javascript" src="/js/jquery.url.js"></script>
         <script type="text/javascript" language="JavaScript" src="/js/sonic.js?"></script>
 		
             
@@ -71,9 +73,10 @@
                     <div id="header">
                         <strong class="logo"><a href="/">Sonicbids</a></strong>
                         <div class="top-area">
+                            
                             <ul class="navigation">
                                 <li id="findgigsSonicbidsListItem">
-                                    <a class="findgigs" href="/opportunity/">FIND GIGS</a>
+                                    <a class="findgigs" href="/2/FindGigs/">FIND GIGS</a>
                                 </li>
                                 <li id="artistsListItem">
                                     <a class="bands" href="/bands/">BANDS</a>
@@ -99,6 +102,7 @@
                                     <a class="brands" href="/brandedMarketing/">BRANDS</a>
                                 </li>
                             </ul>
+                            
 <!--                        <div class="search">
                                 <form method="post" action="/about/privacy.asp?">
                                     <fieldset>
@@ -112,6 +116,7 @@
                                 </form>
                             </div>-->
                         </div>
+                        
                         <div class="log-in-area">
                             
                             <div>
@@ -120,19 +125,25 @@
                             </div>
                             
                         </div>
+                        
                     </div>
 
                     <div style="height:51px"></div>
-                    <div style="background:url(/img/home/header_background.png) no-repeat 0px 0px; width:974px; height:111px; position:absolute; top:21px; left:50%; margin-left:-487px;">
-                        <a style="height:54px; width:304px; bottom:0px; right:1px; position:absolute; z-index:1;" href="/about/commitment-indie-artists.aspx"><img src="/img/imouthindie.png" alt=""></a>
+                    <div id="headerBg" style="background:url(/img/home/header_background.png) no-repeat 0px 0px; width:974px; height:111px; position:absolute; top:21px; left:50%; margin-left:-487px;">
+                        
+                        <a id="iMouthIndie" style="height:54px; width:304px; bottom:0px; right:1px; position:absolute; z-index:1;" href="/about/commitment-indie-artists.aspx"><img src="/img/imouthindie.png" alt=""></a>
+                        
                     </div>
                     
-                        <div style="position:relative; width:974px; height:37px; margin-left:auto; margin-right:auto; background:url(/img/topical_shadow.png) no-repeat 0px 30px;">
-                            <a target="_blank" href="/sxsw">
-                                <img src="/img/topical_banner.png">
-                            </a>
-                        </div>
-                    
+                    <script type="text/javascript">
+                        if ($.url.param("brands") == "midem2011") {
+                            $("body").css("background", "url(/img/brands/midem_background.png) no-repeat 0px 0px");
+                            $("#headerBg").css("background", "url(/img/brands/midem_banner.jpg) no-repeat 0px -21px");
+                        } else if ($.url.param("brands") == "musiciansinstitute") {
+                            $("body").css("background", "url(/img/brands/mi_background.jpg) repeat 0px 0px");
+                            $("#headerBg").css("background", "url(/img/brands/mi_banner.jpg) no-repeat 0px 0px");
+                        }
+                    </script>
                     <div id="container">
 
 			            <h1>
@@ -670,6 +681,7 @@
 	
         <div class="clear"></div>
                     </div>
+                    
                     <div class="footer" id="Footer">
 		                <div>
 			                <h4>For Bands</h4>
@@ -726,15 +738,14 @@
 		                    <ul class="menu">
 				                <li><a href="/about/contact.asp">Contact Us</a></li>
 				                <li><a href="/brandedMarketing/contact.aspx">Advertise with Us</a></li>
-				                <!--<li><a href="/affiliateprogram">Affiliate Program</a></li>-->
 				                <li><a href="/about/terms.asp">Terms of Use</a></li>
 				                <li><a href="/about/privacy.asp">Privacy Policy</a></li>
 			                </ul>
 		                </div>
 	                </div>
 	                
-	                <div class="copyright">
-	                    © 2010 Sonicbids Corporation. All Rights Reserved.
+                    <div class="copyright">
+	                    © 2011 Sonicbids Corporation. All Rights Reserved.
 	                </div>
             </div>
 		</div>
