@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rubiconproject.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224213012id_/http%3A//www.rubiconproject.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rubiconproject.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521043559id_/http%3A//www.rubiconproject.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Rubicon Project
 
