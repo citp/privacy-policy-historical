@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rubylearning.com privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129085452id_/http%3A//rubylearning.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rubylearning.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521201226id_/http%3A//rubylearning.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy: Ruby Study Notes - Best Ruby Guide, Ruby Tutorial
 
@@ -20,4 +20,4 @@ Note that you can change your browser settings to disable cookies if you have pr
 
 ### Contact Information
 
-Concerns or questions about this privacy policy can be directed to satish.talim@gmail.com for further clarification.
+Concerns or questions about this privacy policy can be directed to satish [dot] talim [at] gmail.com for further clarification.
