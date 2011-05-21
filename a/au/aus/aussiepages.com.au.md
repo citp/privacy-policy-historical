@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aussiepages.com.au privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119230214id_/http%3A//www.aussiepages.com.au/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aussiepages.com.au privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521220128id_/http%3A//www.aussiepages.com.au/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Classifieds Directory Australia | Business Directory Listings Australia
 
@@ -106,46 +106,46 @@ We regularly monitor the quality and accuracy of Personal Information that we ma
   
 | 
 
-[**Cheap furniture removals perth $65 Hr**](http://www.aussiepages.com.au/Cheap-furniture-removals-perth--65-Hr.html)  
-Cheap rates insured $65 Hr 1 man and a truck Perths Ideal Low Cost Solution One Man And truck Save $$$$$$ Small removalist Perth, Furniture transport, Pick up drop off White goods, Household goods and anything else you need to move including single items. 3.5 tonne Furniture truck with 500kg tail li  
+[**iFixo PC Optimization Troubleshooting Services | Remote PC Maintenance Support Service**](http://www.aussiepages.com.au/iFixo-PC-Optimization-Troubleshooting-Services--7C-Remote-PC-Maintenance-Support-Service.html)  
+iFixo is an online tech support, computer troubleshooting, remote PC maintenance Support service company, based in the Australia.  
   
   
 ---  
   
-[**Best Western Hotels Australia**](http://www.aussiepages.com.au/Best-Western-Hotels-Australia.html)  
-Best Western Australasia offers an extensive range of more than 200, 3 to 4.5 star motels, hotels, apartments and resorts across Australia and New Zealand  
+[**Credit Rating Australia**](http://www.aussiepages.com.au/Credit-Rating-Australia.html)  
+Credit rating Australia provides a wealth of information on performing a credit rating check as well as helpful tips and guides on how to repair a bad credit history on your credit file in Australia.  
   
   
-[**Young Guns Fishing Adventures - Fishing Lessons for Kids to Adults**](http://www.aussiepages.com.au/Young-Guns-Fishing-Adventures---Fishing-Lessons-for-Kids-to-Adults.html)  
-Professional accredited fishing instructors & guides providing fishing lessons for kids through to adults, fishing bucks parties, fishing vacation care events, kids fishing birthday parties, private fishing lessons for individuals or groups, fishing lesson gift vouchers & corporate fishing d  
+[**Furniture Removalists Sydney, Moving From Sydney**](http://www.aussiepages.com.au/Furniture-Removalists-Sydney-Moving-From-Sydney.html)  
+We are the specilized in Sydney Removals, Removalist Sydney, Furniture Removals Sydney, Sydney Removalists,Sydney Furniture Removals.  
   
   
-[**The Best online Hobby Store in Australia**](http://www.aussiepages.com.au/The-Best-online-Hobby-Store-in-Australia.html)  
-All-Wheel-Nitro Hobby Store is your one stop hobby shop for all of your RC Radio Controlled vehicles, planes and boats hobby needs, train sets, stem engines & Electric. At AllWheelNitro, we work hard to supply you the best quality products at the best possible price.  
+[**Ki Fitness Personal Training**](http://www.aussiepages.com.au/Ki-Fitness-Personal-Training.html)  
+PERSONAL TRAINING SERVICES  
   
   
-[**DTE Group**](http://www.aussiepages.com.au/DTE-Group.html)  
-DTE group provides a wide range of high quality storage tanks, fuel tanks, container tanks, steel tanks and chemical tanks Australia wide. We also offer tank and fuel installation, maintenance and man  
+[**Bounce Fitness- New Boutique Gym in Nth Syd**](http://www.aussiepages.com.au/Bounce-Fitness--New-Boutique-Gym-in-Nth-Syd.html)  
+Bounce Fitness is a new boutique gym aimed at Corporate’s seeking a professional service with a comfortable atmosphere to training. How a Gym should be – For the results You Deserve  
   
   
-[**Australasian Defendo CQC / Jujitsu**](http://www.aussiepages.com.au/Australasian-Defendo-CQC--Jujitsu.html)  
-Defendo Classes are a fun and exciting way to get fit and learn self defense and discipline. Classes are available for beginners through to advanced. View our web site for more details. Private  
+[**Shop Front Business Signs**](http://www.aussiepages.com.au/Shop-Front-Business-Signs.html)  
+Shop Front - A frames for business signs and real estate signs with good quality across the Canberra.  
   
   
-[**Wood Fired Pizza Ovens**](http://www.aussiepages.com.au/Wood-Fired-Pizza-Ovens.html)  
-A provider of Italian made wood fired pizza ovens and professional cooking equipment and accessories for pizza cooking.  
+[**Revbook**](http://www.aussiepages.com.au/Revbook.html)  
+Online Automotive Sales  
   
   
-[**UltraBOQ Estimating Software**](http://www.aussiepages.com.au/UltraBOQ-Estimating-Software.html)  
-Estimating Software that works entirely through your web browser! Create Bill of Quantities and Purchase Orders, manage your Pricebooks and Suppliers from anywhere quickly, easily and safely.  
+[**Sassy Red PR**](http://www.aussiepages.com.au/Sassy-Red-PR.html)  
+Sassy Red PR - creative and cost effective PR and marketing solutions.  
   
   
-[**Resonate Creative; Marketing & Graphic Design**](http://www.aussiepages.com.au/Resonate-Creative-3B-Marketing-Graphic-Design.html)  
-At Resonate Creative we ensure great designs with the Marketing to back it up. A consistency of message and look that neither a copywriter nor artist could achieve on their own. We understand the cri  
+[**BitDefender Antivirus Software**](http://www.aussiepages.com.au/BitDefender-Antivirus-Software.html)  
+Antivirus Software BitDefender - award winning virus protection software for your computer security. Protect your business and secure your PC from the latest viruses now!  
   
   
-[**Step into Life Narre Warren**](http://www.aussiepages.com.au/Step-into-Life-Narre-Warren.html)  
-Step into Life Narre Warren specialises in group outdoor personal training, catering for people of all ages and fitness levels, in a fun, social and non-threatening environment.  
+[**New Media Services Pty Ltd**](http://www.aussiepages.com.au/New-Media-Services-Pty-Ltd.html)  
+New Media Services is in the forefront of bringing real people, who give live interactive support services, catering for both the Web and Mobile industries.  
   
   
    
