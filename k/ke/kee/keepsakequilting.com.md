@@ -1,8 +1,141 @@
-> *The following text is extracted and transformed from the keepsakequilting.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120192121id_/http%3A//www.keepsakequilting.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keepsakequilting.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521085327id_/http%3A//www.keepsakequilting.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy and Security
 
-  | 
+|  |  [](https://web.archive.org/web/20110521085327id_/http%3A//www.keepsakequilting.com/default.aspx)  
+---  
+  
+  * [Fabrics](http://www.keepsakequilting.com/fabrics.aspx)
+    * [Fabric](http://www.keepsakequilting.com/fabric.aspx)
+      * [Fabrics by the Yard](http://www.keepsakequilting.com/products/U3/U13/U5.L24/Fabric-by-the-yard.htm)
+      * [Fabric Panels](http://www.keepsakequilting.com/products/U3/U13/U5.L18/Fabric-Panels.htm)
+      * [Bali Fabrics](http://www.keepsakequilting.com/balis.aspx)
+      * [Bali Scrap Bags](http://www.keepsakequilting.com/products/U3/U6.L9/Bali%20Scrap%20Bags.htm)
+      * [Scrap Bags](http://www.keepsakequilting.com/products/U6/U6.L8/Scrapbags.htm)
+      * [Fabric Borders](http://www.keepsakequilting.com/products/U3/U13/U5.L21/Fabric-Borders.htm)
+      * [Fabric Packs](http://www.keepsakequilting.com/products/U3/U13/U5.L28/fabric-packs.htm)
+      * [Muslin](http://www.keepsakequilting.com/products/U3/U13/U5.L22/Muslin.htm)
+      * [Fabric Backings](http://www.keepsakequilting.com/backing.aspx)
+        * [Extra Wide Backing](http://www.keepsakequilting.com/products/U3/U2/U2.L1/ExtraWide%20Backing.htm)
+        * [Pre-Cut Backing](http://www.keepsakequilting.com/products/U3/U13/U5.L1/pre-cut.htm)
+      * [Flannels](http://www.keepsakequilting.com/products/U101/U5/U5.L30/Flannel%20Fabric.htm)
+    * [Fabric Medleys](http://www.keepsakequilting.com/products/U3/U5/Fabric-Medleys.htm)
+      * [Americana Country](http://www.keepsakequilting.com/products/U3/U5/U5.L19/Americana-Country.htm)
+      * [Animals](http://www.keepsakequilting.com/products/U3/U5/U5.L3/Animals.htm)
+      * [Applique Textures](http://www.keepsakequilting.com/products/U3/U5/U5.L4/Applique-Textures.htm)
+      * [Bali](http://www.keepsakequilting.com/products/U3/U5/U5.L5/Bali.htm)
+      * [Circa 1930's](http://www.keepsakequilting.com/products/U3/U5/U5.L2/Circa-1930's.htm)
+      * [1930's Color Palettes](http://www.keepsakequilting.com/products/U3/U5/U5.L20/1930%27s%20Color%20Palette%20Medleys.htm)
+      * [Color Essentials](http://www.keepsakequilting.com/products/U3/U5/U5.L27/Color%20Essentials%20Medleys.htm)
+      * [Flannel](http://www.keepsakequilting.com/products/U3/U5/U5.L6/Flannel.htm)
+      * [Floral](http://www.keepsakequilting.com/products/U3/U5/U5.L7/Floral.htm)
+      * [Geometric Modern](http://www.keepsakequilting.com/products/U3/U5/U5.L8/Geometric-Modern.htm)
+      * [Seasonal and Holiday](http://www.keepsakequilting.com/products/U3/U5/U5.L9/Seasonal-and-Holiday-Fabrics.htm)
+      * [Landscape](http://www.keepsakequilting.com/products/U3/U5/U5.L10/Landscape.htm)
+      * [Nursery Juvenile](http://www.keepsakequilting.com/products/U3/U5/U5.L11/Nursery-Juvenile.htm)
+      * [Fabric by the Yard](https://www.keepsakequilting.com/products/U3/U13/U5.L24/Fabric_by_the_yard.htm)
+      * [Orient Far East](http://www.keepsakequilting.com/products/U3/U5/U5.L13/Orient-Far-East.htm)
+      * [Plaids](http://www.keepsakequilting.com/products/U3/U5/U5.L14/Plaids.htm)
+      * [Reproductions](http://www.keepsakequilting.com/products/U3/U5/U5.L15/Reproductions.htm)
+      * [Solids](http://www.keepsakequilting.com/products/U3/U5/U5.L16/Solids.htm)
+      * [Southwestern](http://www.keepsakequilting.com/products/U3/U5/U5.L17/Southwestern.htm)
+    * [Fabric Collections](http://www.keepsakequilting.com/products/U3/U6/Fabric-Collections.htm)
+      * [Bali Blenders](http://www.keepsakequilting.com/products/U3/U6/U6.L6/Bali-Blenders.htm)
+      * [Color Collections](http://www.keepsakequilting.com/products/U3/U6/U6.L7/Color_Collections.htm)
+      * [Hoffman Bali Pops](http://www.keepsakequilting.com/products/U3/U6/U16.L7/Hoffman_Bali_Pops.htm)
+      * [KQ Cupboard Collections](http://www.keepsakequilting.com/products/U3/U6/U6.L11/Keepsake%20Cupboard%20Collections.htm)
+      * [Medley Collections](http://www.keepsakequilting.com/products/U3/U6/U6.L3/Medley-Collections.htm)
+      * [Scrapbags](http://www.keepsakequilting.com/products/U6/U6.L8/Scrapbags.htm)
+      * [Tonga Treats Strip Coll](http://www.keepsakequilting.com/products/U3/U6/U6.L10/Tonga%20Treats%20Strip%20Collections.htm)
+    * [Keepsake Exclusives](http://www.keepsakequilting.com/products/U3/U16/Keepsake-Exclusives.htm)
+      * [Bitty Bundles](http://www.keepsakequilting.com/products/U3/U16/U16.L6/Bitty-Bundles.htm)
+      * [Charm Packs](http://www.keepsakequilting.com/products/U3/U16/U16.L2/Charm-Packs.htm)
+      * [KQ Kits](http://www.keepsakequilting.com/products/U3/U16/U16.L8/KQ-Kits.htm)
+      * [Keepsake Shapes](http://www.keepsakequilting.com/products/U3/U16/U16.L1/Shapes.htm)
+      * [Strip Collections](http://www.keepsakequilting.com/products/U3/U16/U16.L3/Strip-Collections.htm)
+      * [Scrapbags](http://www.keepsakequilting.com/products/U6/U6.L8/Scrapbags.htm)
+      * [10 inch Square Collection](http://www.keepsakequilting.com/products/U3/U16/U16.L4/10-inch-Sq-Coll.htm)
+      * [2 / 4 / 6 Inch Square Coll](http://www.keepsakequilting.com/products/U3/U16/U16.L5/2-4-6-Inch-Sq-Coll.htm)
+  * [Kits](http://www.keepsakequilting.com/quilt-kits.aspx)
+    * [Keepsake Quilt Kits](http://www.keepsakequilting.com/products/U8/U8.L1/Keepsake-Quilt-Kits.htm)
+    * [Panel Kits](http://www.keepsakequilting.com/products/U8/U17.L1/Panel-Kits.htm)
+    * [PatternPlus](http://www.keepsakequilting.com/products/U8/U8.L2/PatternPlus.htm)
+    * [Wholecloth Kits](http://www.keepsakequilting.com/products/U8/U8.L6/Wholecloth-Kits.htm)
+  * [Books](http://www.keepsakequilting.com/products/U11/Books.htm)
+    * [Americana Country Theme](http://www.keepsakequilting.com/products/U11/U11.L1/Americana-Country-Theme.htm)
+    * [Animal](http://www.keepsakequilting.com/products/U11/U11.L2/Animal.htm)
+    * [Applique](http://www.keepsakequilting.com/products/U11/U11.L3/Applique.htm)
+    * [Bags and Wearables](http://www.keepsakequilting.com/products/U11/U11.L16/Bags-and-Wearables.htm)
+    * [Bed Quilts](http://www.keepsakequilting.com/products/U11/U11.L4/Bed-Quilts.htm)
+    * [Calendars](http://www.keepsakequilting.com/products/U11/U11.L23/Calendars.htm)
+    * [Charm Squares](http://www.keepsakequilting.com/products/U11/U11.L5/Charm-Squares.htm)
+    * [Color Design](http://www.keepsakequilting.com/products/U11/U11.L6/Color-Design.htm)
+    * [Contemporary](http://www.keepsakequilting.com/products/U11/U11.L7/Contemporary.htm)
+    * [Historical Reproduction](http://www.keepsakequilting.com/products/U11/U11.L12/Historical-Reproduction.htm)
+    * [Holiday Seasonal](http://www.keepsakequilting.com/products/U11/U11.L8/Holiday-Seasonal.htm)
+    * [Home Decor](http://www.keepsakequilting.com/products/U11/U11.L13/Home-Decor.htm)
+    * [How to Books CD's](http://www.keepsakequilting.com/products/U11/U11.L19/How-to-Books-CD's.htm)
+    * [Juvenile and Baby](http://www.keepsakequilting.com/products/U11/U11.L9/Juvenile-and-Baby.htm)
+    * [Pieced](http://www.keepsakequilting.com/products/U11/U11.L11/Pieced.htm)
+    * [Reference](http://www.keepsakequilting.com/products/U11/U11.L21/Reference.htm)
+    * [Quick and Easy](http://www.keepsakequilting.com/products/U11/U11.L15/Quick-and-Easy.htm)
+    * [Story Books](http://www.keepsakequilting.com/products/U11/U11.L10/Story-Books.htm)
+    * [Wall and Landscape](http://www.keepsakequilting.com/products/U11/U11.L14/Wall-and-Landscape.htm)
+    * [Wool Felt](http://www.keepsakequilting.com/products/U11/U11.L17/Wool-Felt.htm)
+  * [Tools and Notions](http://www.keepsakequilting.com/products/U10/Tools-and-Notions.htm)
+    * [Adhesives](http://www.keepsakequilting.com/products/U10/U10.L1/Adhesives.htm)
+    * [Applique Notions](http://www.keepsakequilting.com/products/U10/U10.L2/Applique-Notions.htm)
+    * [Batting](http://www.keepsakequilting.com/products/U10/U10.L6/Batting.htm)
+    * [Cutters & Scissors](http://www.keepsakequilting.com/products/U10/U10.L17/Cutters-Scissors.htm)
+    * [Design Tools](http://www.keepsakequilting.com/products/U10/U10.L3/Design-Tools.htm)
+    * [Frames & Hoops](http://www.keepsakequilting.com/products/U10/U10.L5/Frames-Hoops.htm)
+    * [Fons and Porter](http://www.keepsakequilting.com/products/U10/U10.L22/Fons-and-Porter.htm)
+    * [Gift Ideas](http://www.keepsakequilting.com/products/U10/U110.L1/Gift-Ideas.htm)
+    * [Ironing Accessories](http://www.keepsakequilting.com/products/U10/U10.L8/Ironing-Access.htm)
+    * [Lighting and Magnifiers](http://www.keepsakequilting.com/products/U10/U10.L9/Lighting-and-Magnifiers.htm)
+    * [Machine Accessories](http://www.keepsakequilting.com/products/U10/U10.L10/Machine-Access.htm)
+    * [Marking Tools](http://www.keepsakequilting.com/products/U10/U10.L12/Marking-Tools.htm)
+    * [Miscellaneous](http://www.keepsakequilting.com/products/U10/U10.L13/Miscellaneous.htm)
+    * [Needles and Thimbles](http://www.keepsakequilting.com/products/U10/U10.L14/Needles-and-Thimbles.htm)
+    * [Organizers](http://www.keepsakequilting.com/products/U10/U10.L15/Organizers.htm)
+    * [Quilt Care and Hangers](http://www.keepsakequilting.com/products/U10/U10.L24/Quilt-Care-and-Hangers.htm)
+    * [Rulers & Templates](http://www.keepsakequilting.com/products/U10/U10.L16/Rulers-Templates.htm)
+    * [Thread](http://www.keepsakequilting.com/products/U10/U10.L20/Thread.htm)
+  * [Patterns](http://www.keepsakequilting.com/products/U9/Patterns.htm)
+    * [American Country](http://www.keepsakequilting.com/products/U9/U9.L1/American-Country.htm)
+    * [Animals and Nature](http://www.keepsakequilting.com/products/U9/U9.L2/Animals-and-Nature.htm)
+    * [Appliqued](http://www.keepsakequilting.com/products/U9/U9.L3/Appliqued.htm)
+    * [Bed Size Quilts](http://www.keepsakequilting.com/products/U9/U9.L4/Bed-Size-Quilts.htm)
+    * [Charm Square](http://www.keepsakequilting.com/products/U9/U9.L5/Charm-Square.htm)
+    * [Circa 1930s](http://www.keepsakequilting.com/products/U9/U9.L6/Circa-1930s.htm)
+    * [Contemporary Modern](http://www.keepsakequilting.com/products/U9/U9.L7/Contemporary-Modern.htm)
+    * [Holiday and Seasonal](http://www.keepsakequilting.com/products/U9/U9.L8/Holiday-and-Seasonal.htm)
+    * [Juvenile and Fun](http://www.keepsakequilting.com/products/U9/U9.L9/Juvenile-and-Fun.htm)
+    * [Pieced Patterns](http://www.keepsakequilting.com/products/U9/U9.L10/Pieced-Patterns.htm)
+    * [Home Decor Patterns](http://www.keepsakequilting.com/products/U9/U9.L11/Home-Decor-Patterns.htm)
+    * [Landscape and Wall Quilts](http://www.keepsakequilting.com/products/U9/U9.L12/Landscape-and-Wall-Quilts.htm)
+    * [Bags Wearables Small Projects](http://www.keepsakequilting.com/products/U9/U9.L13/Bags-Wearables-Small-Projects.htm)
+    * [Wool Felt NeedleFelt](http://www.keepsakequilting.com/products/U9/U9.L14/Wool-Felt-NeedleFelt.htm)
+  * [QUICK Kits](http://www.keepsakequilting.com/products/U14/Keepsake-Quick-Kits.htm)
+  * [Bargain Bin](http://www.keepsakequilting.com/barbin.aspx)
+
+  
+  
+| 
+
+**Join our email list!**  
+Be the first to know about new products, sales & exclusive offers!  [Sign Up](https://web.archive.org/signup.aspx)  
+  
+---  
+   
+    
+  
+  
+|  | 
+
+Keepsake Quilting's Privacy & Security Commitment
+
+|   | 
 
 **PRIVACY POLICY**
 
@@ -61,4 +194,6 @@ When you make a purchase, request a catalog or create an account on our Web site
 
 **CHANGES TO THIS POLICY**   
   From time to time, we may use your information for new, unanticipated uses not previously disclosed in this Privacy Policy. If our information practices change at some time in the future, we will post the policy changes here.  
-  If you believe that this site is not following its stated information policy, you may contact us at the above address and state or local chapters of the Better Business Bureau.
+  If you believe that this site is not following its stated information policy, you may contact us at the above address and state or local chapters of the Better Business Bureau.  
+  
+---|---
