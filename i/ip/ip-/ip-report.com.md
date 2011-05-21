@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ip-report.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124051217id_/http%3A//www.ip-report.com/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ip-report.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521085714id_/http%3A//www.ip-report.com/legal/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - ip-report.com
 
