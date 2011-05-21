@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the resultdns.com privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128075357id_/http%3A//www.resultdns.com%3Ftmp%3Dnemo_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resultdns.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521203912id_/http%3A//resultdns.com%3Ftmp%3Dnemo_privacy) for the most accurate reproduction.*
 
 # ResultDns - Privacy Policy
 
