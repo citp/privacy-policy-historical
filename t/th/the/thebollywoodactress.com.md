@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the thebollywoodactress.com privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625235829id_/http%3A//thebollywoodactress.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebollywoodactress.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521072545id_/http%3A//thebollywoodactress.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Latest Bollywood|Kollywood|Tollywood| News
+
+## Privacy Policy
 
 We recognize that privacy of your personal information is important. Here is information on what types of personal information we receive & collect when you use our site, & how we safeguard your information. We personally promise that we will never share, trade, sell, deliver, reveal, publicize, or market your personal information to third parties in any way, shape, or form.
 
