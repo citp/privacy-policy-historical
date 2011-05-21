@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pokerheaven.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228125008id_/http%3A//www.pokerheaven.com/siteinfo/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pokerheaven.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521231910id_/http%3A//www.pokerheaven.com/siteinfo/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy at Poker Heaven
 
@@ -37,10 +37,9 @@ Poker Heaven will use your personal information for the following purposes:
   * Recording transactions on your account.
   * Managing your account.
   * Administering all fund transactions (processed by third party).
-  * Improvement information
-  * including surveys.
+  * Improvement information including surveys.
   * Statistical analysis and market research.
-  * Communicating promotions, special offers or other targeted communications by email or phone.
+  * Communicating promotions, special offers or other targeted communications.
 
 
 
