@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trailfinders.com privacy policy that was archived on 2010-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100921235748id_/http%3A//www.trailfinders.com/media.nsf/privacy%3Freadform) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trailfinders.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521090709id_/http%3A//www.trailfinders.com/media.nsf/privacy%3Freadform) for the most accurate reproduction.*
 
 # None
 
