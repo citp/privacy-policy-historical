@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simpledns.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204135734id_/http%3A//www.simpledns.com/policy.aspx%3Fprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simpledns.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521080336id_/http%3A//www.simpledns.com/policy.aspx%3Fprivacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -34,16 +34,10 @@ Order information (such as a credit card number) is transmitted through the use 
 We use Microsoft web server software which is continuously updated with the latest security patches.  
 We do not store credit card numbers on any computers connected directly or indirectly to the Internet.
 
-**CHILDREN'S GUIDELINES  
-**We do not collect or use any online contact information or identifiable off-line contact information about a child without parental consent. We do not distribute personally identifiable information about children without parental consent. We do not give children the ability to post or distribute personal information without prior consent. We do not entice children with games or contests that would encourage them to disclose personal information.
-
-**DISCLAIMER**  
-This site contains links to other sites. JH Software ApS is not responsible for the content or privacy practices of these sites. 
-
 **CONTACT US**  
 If you have any additional questions or concerns about our privacy policy, please contact us at [support@jhsoft.com](mailto:support@jhsoft.com)
 
-For more information, please see [Terms of Use](https://web.archive.org/web/20101204135734id_/http%3A//www.simpledns.com/policy.aspx?terms)
+For more information, please see [Terms of Use](https://web.archive.org/web/20110521080336id_/http%3A//www.simpledns.com/policy.aspx?terms)
 
   
 
