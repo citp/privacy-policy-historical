@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kwinzy.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226042045id_/http%3A//www.kwinzy.com%3Ftmp%3Dkwinzy_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kwinzy.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521054253id_/http%3A//kwinzy.com%3Ftmp%3Dkwinzy_privacy) for the most accurate reproduction.*
 
 # Kwinzy - Privacy Policy
 
