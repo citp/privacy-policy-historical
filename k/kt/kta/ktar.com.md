@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ktar.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120191950id_/http%3A//www.ktar.com%3Fsid%3D1086807%26nid%3D159) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ktar.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521085244id_/http%3A//ktar.com%3Fsid%3D1086807%26nid%3D159) for the most accurate reproduction.*
 
 # KTAR.com - PRIVACY STATEMENT
 
