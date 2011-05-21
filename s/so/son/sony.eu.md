@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the sony.eu privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120192153id_/http%3A//www.sony.co.uk/pages/privacy/Privacy_statement_en_EU.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sony.eu privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521085424id_/http%3A//www.sony.co.uk/pages/privacy/Privacy_statement_en_EU.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
 ### 1\. What data Sony needs
 
-In general, you can visit Sony’s websites on the Internet without telling us who you are and without providing any personal data. There are times, however, where not providing the minimum necessary data as indicated in the relevant data entry sections and other pages in the relevant website, may result in Sony’s inability to sell you products and/or provide you with certain services, including after sales services.
+In general, you can visit Sony's websites on the Internet without telling us who you are and without providing any personal data. There are times, however, where not providing the minimum necessary data as indicated in the relevant data entry sections and other pages in the relevant website, may result in Sony's inability to sell you products and/or provide you with certain services, including after sales services.
 
 Top
 
 ### 2\. Why Sony collects personal data
 
-Personal Data means any data related to a person that allows that person to be identified such as your name, age, telephone number, e-mail and mailing address (“Personal Data”).
+Personal Data means any data related to a person that allows that person to be identified such as your name, age, telephone number, e-mail and mailing address (“Personal Data").
 
 Sony would like to collect, maintain and use your Personal Data to:
 
@@ -30,7 +30,7 @@ Sony would like to collect, maintain and use your Personal Data to:
 
 \- consider employing you if these data are requested on one of Sony’s job application websites
 
-For these purposes, Sony may share, make available or transmit Personal Data to other Sony group companies within Europe and Sony group companies worldwide (subject to Sony’s strict compliance with applicable data protection laws). Sony group companies will use your Personal Data only for the purposes outlined above, and they are or will be subject to stringent policies and terms on Personal Data use and protection. (“Sony group companies” are Sony Corporation, and any entity, firm or corporation, the majority of whose shares or equity is owned or controlled directly or indirectly by Sony Corporation).
+For these purposes, Sony may share, make available or transmit Personal Data to other Sony Group Companies (subject to Sony’s strict compliance with applicable data protection laws). Sony Group Companies will use your Personal Data only for the purposes outlined above, and they are or will be subject to stringent policies and terms on Personal Data use and protection. 
 
 Top
 
@@ -48,7 +48,9 @@ Here are some of the most typical examples of how Sony collects your personal da
 
 \- When you want to participate in online communities, we need to record your account details and preferences. Some of our web sites allow for some personalisation of the content according to your interests, in which case we are recording your preferences.
 
-\- Keeping a record of your contact details and any resulting financial transaction in the context of a repair 
+\- Keeping a record of your contact details and any resulting financial transaction in the context of a repair.
+
+Data collected online may also be combined with data you provide to Sony at other times. For example, during product registrations, calls to our call centers or at public events such as exhibitions and trade shows. The Personal Data provided to Sony in these cases may be consolidated with existing databases and stored, so that our customer data management systems are simplified.
 
 Data collected online may also be combined with data you provide to Sony at other times. For example, during product registrations, calls to our call centers or at public events such as exhibitions and trade shows. The Personal Data provided to Sony in these cases may be consolidated with existing databases and stored, so that our customer data management systems are simplified.
 
@@ -62,7 +64,7 @@ Top
 
 ### 5\. When Sony discloses personal data
 
-Sony will not disclose Personal Data to third parties (“3Ps”) other than Sony group companies, without your consent, except in the following cases: 
+Sony will not disclose Personal Data to third parties ("3Ps") other than Sony Group Companies, without your consent, except in the following cases:
 
 Personal Data may be disclosed to sub-contracting 3Ps to enable the performance of contracts you are party to or for other purposes mentioned in section 4 Sony uses other companies to perform functions on its behalf, such as fulfilling orders, delivering packages, sending postal mail and e-mails, providing marketing assistance, processing credit card payments and providing customer services. Such companies will have access to personal data needed to perform these functions, but may not use it for any other purpose and are required to process the data in accordance with applicable law.
 
@@ -72,9 +74,9 @@ Personal Data may be disclosed to 3Ps to enable compliance with legal obligation
 
 \- obtain and process Personal Data only on condition that they protect that Personal Data from unauthorised use and adopt and comply with similarly stringent policies and terms on Personal Data protection and use
 
-\- comply strictly with applicable laws 
+\- comply strictly with applicable laws
 
-Anonymous or generic data (including “generic” statistics) from which you cannot be identified are excluded from use, processing, disclosure, transmission and other Personal Data use restrictions. 
+Anonymous or generic data (including "generic" statistics) from which you cannot be identified are excluded from use, processing, disclosure, transmission and other Personal Data use restrictions.
 
 Top
 
@@ -86,7 +88,7 @@ Top
 
 ### 7\. Security of collected data
 
-Sony intends to protect your Personal Data and to maintain its quality. Sony will use all reasonable efforts to take all appropriate technical and organisational measures and precautions to keep Personal Data secure and protected from unauthorised access, use or alteration and unlawful destruction. Measures include using Secure Sockets Layer (SSL) encryption when collecting or transferring sensitive data, such as credit card details. SSL encryption is designed to make the data unreadable by anyone but us. 
+Sony intends to protect your Personal Data and to maintain its quality. Sony will use all reasonable efforts to take all appropriate technical and organisational measures and precautions to keep Personal Data secure and protected from unauthorised access, use or alteration and unlawful destruction. Measures include using Secure Sockets Layer (SSL) encryption when collecting or transferring sensitive data, such as credit card details. SSL encryption is designed to make the data unreadable by anyone but us.
 
 How we protect your data
 
@@ -102,9 +104,9 @@ Top
 
 ### 8\. Cookies and web beacons
 
-Certain Sony websites may employ an industry-wide technology called “cookies”. These are small pieces of data that are placed on your hard disk drive when you access a website or a certain part of a website. Cookies help Sony understand which parts of its websites are the most popular, where Sony visitors are going, and how much time they spend there. 
+Certain Sony websites may employ an industry-wide technology called "cookies". These are small pieces of data that are placed on your hard disk drive when you access a website or a certain part of a website. Cookies help Sony understand which parts of its websites are the most popular, where Sony visitors are going, and how much time they spend there.
 
-Sony uses cookies to study traffic patterns on its sites in order to improve website performance, to customise the user experience, and to better match the users’ interests and preferences. For example, Sony keeps track of the domains from which people visit, and also measures visitor activity on Sony websites. However, these tracking records are performed and maintained in ways that keep the data non-identifiable.
+Sony uses cookies to study traffic patterns on its sites in order to improve website performance, to customise the user experience, and to better match the users' interests and preferences. For example, Sony keeps track of the domains from which people visit, and also measures visitor activity on Sony websites. However, these tracking records are performed and maintained in ways that keep the data non-identifiable.
 
 Cookies may also be used to recognise your computer next time you visit a website. This might save you time (e.g. by ensuring that you don not have to register again) or help you by customising your internet settings.
 
@@ -118,7 +120,7 @@ Top
 
 ### 9\. Access to your personal data
 
-You have the right to access your Personal Data, and to rectify or delete inaccuracies in your Personal Data, and to object to the processing of your Personal Data. 
+You have the right to access your Personal Data, and to rectify or delete inaccuracies in your Personal Data, and to object to the processing of your Personal Data.
 
 If you would like to view, correct, amend or update your Personal Data stored in Sony’s database, contact Sony at the address given in section 14 below by e-mail, fax, phone or letter. For privacy protection reasons, you will be asked to provide some proof of identification
 
@@ -130,7 +132,7 @@ Top
 
 ### 10\. Links to other sites
 
-Some Sony websites may contain links to other websites that are not operated by Sony. Sony does not share your Personal Data with those websites. While Sony tries to link only to sites that share Sony’s high standards and respect for privacy, Sony is not responsible for the content, security, or privacy practices employed by other sites and expressly disclaims all liability associated with your use of such other sites and the content found there. 
+Some Sony websites may contain links to other websites that are not operated by Sony. Sony does not share your Personal Data with those websites. While Sony tries to link only to sites that share Sony’s high standards and respect for privacy, Sony is not responsible for the content, security, or privacy practices employed by other sites and expressly disclaims all liability associated with your use of such other sites and the content found there.
 
 Top
 
@@ -146,25 +148,66 @@ The Sony Privacy Policy has been established in cooperation with the Federation 
 
 Top
 
-### 13\. Contacting us
+### 13\. Sony Group Companies
 
-If you need further assistance or would like to make a comment, please e-mail privacy@eu.sony.com or contact us at the following address: 
+Sony Europe (Belgium) N.V.  
+Sony United Kingdom Ltd  
+    Ireland branch  
+Sony Europa B.V.  
+Sony Europe GmbH  
+Sony Austria GmbH  
+Sony Benelux B.V.  
+    Sony Belgium - Belgian branch  
+Sony Bulgaria EOOD  
+Sony Card Europe Ltd.  
+Sony Czech spol.sr.o  
+Sony DADC Austria AG  
+Sony Deutschland GmbH  
+    Stuttgart Technology Center  
+Sony Espana, S.A  
+Sony Eurasia Pazarlama AS  
+Sony France S.A.  
+Sony Hellas S.A.  
+Sony Hungaria Kft.  
+Sony Italia S.p.A.  
+Sony Logistics Europe B.V.  
+Sony NetservicesGmbH, Berlin  
+Sony Netservices GmbH, Austria  
+Sony Nordic AS  
+    Sony Sverige, Sweden branch  
+    Sony Nordic, Norway branch  
+    Sony Nordic, Finland branch  
+    Sony Baltic, Latvia branch  
+Sony Overseas S.A.  
+Sony Poland Sp.z.o.o  
+Sony Portugal Lda.  
+Sony Service Centre (Europe) N.V.  
+Sony Slovakia, spol. sr.o  
+    Bratislava branch  
+SVCE Europe Limited  
+ZAO Sony CIS  
+
+
+Top
+
+### 14\. Contacting us
+
+For enquiries about your Personal Data please contact: 
 
 Sony Europe Limited,  
-The Heights,  
+The Heights,   
 Brooklands,  
-Weybridge,  
-Surrey, KT13 0XW  
-UK
+Weybridge,   
+Surrey, KT13 0XW   
+UK 
 
 Registered company number: 2422874  
-VAT number: GB 636 1100 80
-
-Last Updated: October 2010
+VAT number: GB 636 1100 80  
+[privacy@eu.sony.com](mailto:privacy@eu.sony.com)
 
 Top
 
 These Terms and the contents of this site are subject to copyright.  
-© 2010 Sony Europe Limited All Rights Reserved.  
-Letzter Update: October 2010  
+© 2011 Sony. All Rights Reserved.  
+Latest Update: October 2011  
 
