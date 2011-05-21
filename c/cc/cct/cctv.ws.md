@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cctv.ws privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120172434id_/http%3A//cctv.ws/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cctv.ws privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521091315id_/http%3A//cctv.ws/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Referer.us Privacy Policy
 
-[](http://www.alexa.com/siteinfo/referer.us)[](https://web.archive.org/real-backlink-advertising.html)
+[](https://web.archive.org/Real-Backlink-Advertising.html)
 
   * \--
   * \--
@@ -20,7 +20,7 @@
 
 We respect your right to privacy. None of the information we collect is passed on to other parties, except when required as part of the business services we provide for you.
 
-[](https://web.archive.org/9/feed) [](https://web.archive.org/9/email) [](https://web.archive.org/http-referer-test.html)
+[](https://web.archive.org/HTTP-Referer-Test.html)
 
 We respect your right to privacy. None of the information we collect is passed on to other parties, except when required as part of the business services we provide for you, or as required under United States law.
 
