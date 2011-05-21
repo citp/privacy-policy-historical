@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the pluck.com privacy policy that was archived on 2010-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100327192414id_/http%3A//www.pluck.com/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pluck.com privacy policy that was archived on 2011-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110522010035id_/http%3A//www.pluck.com/site/privacy.html) for the most accurate reproduction.*
 
 # Pluck: Privacy Policy
-
-## SiteLife Privacy Policy
 
 Pluck is committed to protecting your privacy and respects the privacy of individuals who use Pluck's software and services. This Privacy Statement covers how Pluck treats personal information that is either collected or received. This includes, but is not limited to email addresses, phone numbers, names, addresses, age, gender, and interests.
 
@@ -21,7 +19,7 @@ This privacy statement applies to all personal information we receive (except as
 
 It does not include information that pertains to a specific individual, but from which that individual could not reasonably be identified.
 
-### Principles Protecting Individuals' Privacy
+## Principles Protecting Individuals' Privacy
 
 **Notice and Choice**  
 Because the Customer determines what personal information is collected, end users should review the Customer privacy policy to determine the types of personal information collected from them, the purposes for which such information is collected and used, and the types of non-agent third parties to whom the personal information is disclosed. The Customer should also be consulted regarding the choices and means, if any, offered to individuals for limiting the use or disclosure of their information. Customers' privacy policies will govern their collection and disclosure of any such information. Pluck stores all personal information solely for use by Customers and end users related to their use of Pluck services. 
@@ -60,7 +58,7 @@ If you would like to speak to someone at Pluck about your information, or if you
 
 In the unfortunate and unlikely event that we cannot resolve your concerns, we have contracted with BBBOnline as a dispute resolution provider. You can contact the BBBOnline at <http://www.bbbonline.org/consumer/complaint.asp> and follow their guidelines for initiating their dispute resolution procedures.
 
-### Privacy Statement Changes
+## Privacy Statement Changes
 
 This privacy statement may be changed from time to time, consistent with the requirements of the Safe Harbor. We will post any revised policy on this Web site, or a similar Web site that replaces this Web site. 
 
