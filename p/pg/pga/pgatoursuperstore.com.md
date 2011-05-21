@@ -1,47 +1,83 @@
-> *The following text is extracted and transformed from the pgatoursuperstore.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203111355id_/http%3A//www2.pgatoursuperstore.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pgatoursuperstore.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521201221id_/http%3A//shop.pgatoursuperstore.com/company/privacy.aspx) for the most accurate reproduction.*
 
-# PGA Tour Superstores - Privacy Policy
+# PGA TOUR Superstore - Privacy Policy
 
-  
-  
+Your privacy is very important to SuperStore, LLC ("hereinafter referred to as either "SuperStore, LLC", "We", or "Us"). SuperStore, LLC operates Shop.PGATOURSuperStore.com. In connection with a user’s (hereinafter, "you" or "User") use of the Shop.PGATOURSuperStore.com site ("Site"), including, but not limited to registration, product purchases, contacting support, we will collect information (including address and credit card information) regarding such Users. We will maintain the confidentiality of information provided in accordance with our Privacy Policy.
 
+We may change this policy from time to time, and if we do so we will provide notice that this policy has changed either (i) to the email address on record with us or (ii) on this Web site regarding any changes to this policy.
 
-|  PRIVACY POLICY   
-  
----  
-  
-The PGA TOUR Superstore respects your privacy. The only personal information we collect is the personal information you choose to give us. The purpose of this Privacy Statement is to inform you about the information we gather on our website and how we use that information. 
+1\. Use of Information
 
-We do not sell, rent or loan any e-mail addresses, mailing addresses, phone numbers, credit card information or order data to any third party. We may transmit your personal information to service providers who might assist us in processing orders, shipping products you order or processing your payment information. We respect your right to privacy and are happy to remove your name from our list at your request by your making a request by e-mail to [pgatoursuperstore@pgatss.com](mailto:pgatoursuperstore@pgatss.com). This statement does not apply to the privacy practices for partnered sites, and we encourage you to read the privacy policy statements of any external sites you visit from links within the PGA TOUR Superstores website. We may change this Privacy Statement at any time and for any reason. We encourage you to look to this Privacy Statement each time you visit the Website. By using this Website, you agree to the terms of this Privacy Statement.  
-  
-| 
+SuperStore, LLC may provide certain demographic information it collects to third parties in connection with its provision of products and services to our Users. The dissemination of this information is necessary in order to provide personalized information and promotional offers. Except as disclosed in this Privacy Policy, our current policy is to refrain from selling, leasing, or otherwise transferring your personally identifiable information, however, this policy does not apply in all cases and this policy may be changed in the future. We describe below some of the situations in which such information may be disclosed. SuperStore, LLC will never provide our promotional affiliates with personally identifiable information which would permit them to communicate with our Users by email unless the User "opts-in" and has not "opted-out", pursuant to our opt-out procedure, from receiving communications. 
 
-[](https://web.archive.org/web/20101203111355id_/http%3A//www2.pgatoursuperstore.com/enrollment_form.aspx)   
+The information we collect also may include information you submit about others, including the name, e-mail address or physical address of a gift recipient. We only use information you submit about other people to deliver information, products, or services specifically requested by you.
 
+2\. Information That Is Personally Identifiable
 
-  
-  
-  
-  
+Our registration format requests certain contact information from our Users. We collect information that is personally identifiable through the registration and purchasing process when processing your order. When a User completes an order, the format will require personally identifiable information for each User, including:   
+Contact information (including name, home address, email address)   
+Unique identifiers ( including credit card numbers)   
+Demographic information (including zip code, telephone area code, gender, etc.) 
 
+The information we have obtained through this process may be used by SuperStore, LLC, as well as by providers of related services ("Providers"), in connection with processing your order. We and our Providers also use contact information from the registration format to send the User information about us and when otherwise necessary. Such information may also be used by us and our Providers to assess your satisfaction with and to obtain feedback regarding the Site and products and services we provide and to tailor the visitor’s experience while visiting our Site.
 
-TENNIS CENTER   
-  
-[](https://web.archive.org/web/20101203111355id_/http%3A//www2.pgatoursuperstore.com/Inside_Stores_Tennis.aspx)
+We may use the contact information we collect to provide, by means other than email, information or offers which we believe will be of value to Users and we may share contact information with other companies that may want to provide our Users, by means other than email, information regarding additional products and services. We may also use the contact information to send our Users information or offers by email which we believe will be of value to them and we may share email contact information with other companies that may want to provide our Users information regarding additional products and services. Such contact information may be shared based upon the demographic information we collect. Users may opt-out of receiving future communications from us and the third parties set forth in this Section 2 at any time; see the section below regarding "Opt-out".
 
-  
+Finally, the information we collect will be maintained in a file that we may need to review in a variety of other circumstances, such as enforcing our Terms of Use for Users, analyzing and understanding our customers and their needs, and for the administration and provision of our goods and services.
 
+As a User of the Service, you consent to the aforementioned uses of such information and the provision of information to third party service providers described above that facilitate the Service, all in accordance with this Privacy Policy.
 
-SIGN UP FOR SPECIALS  
-AND STORE EVENTS   
+3\. Aggregate Information
 
+Subject to the other terms of our Privacy Policy, we may aggregate (i.e. assemble on a basis that does not enable one to personally identify you) the data that is acquired under or in connection with this site and/or related to ordering our products and services, including, without limitation, data about the products and services requested and purchased by our Users. Aggregated data may be used by us to improve our Site, products and services and for marketing purposes, and may be shared with and used by advertisers and other third parties. We may also use such data to determine what types of Site, products and services are best suited for our customers and what types of Site, products and services our customers request. If we provide aggregated data to third parties, particular personal information will not be individually identifiable in the aggregated data. 
 
-[ ](https://web.archive.org/web/20101203111355id_/http%3A//www2.pgatoursuperstore.com/MailingList.aspx)  
-  
-  
+Notwithstanding anything in this privacy policy to the contrary, SuperStore, LLC has contracted with third parties to provide tracking and analysis of information and data collected from visitors to our website. SuperStore, LLC reserves the right to provide that information and data to such third parties for those purposes. Such information and data is provided on a basis that does not enable a third party to identify you.
 
+Your use of the Site provided by SuperStore, LLC constitutes your consent to the use of such data on an aggregated basis.
 
-[ ](http://shop.pgatoursuperstore.com/c-299-golf-rangefinders.aspx)
+4\. Policy on Children’s Use of the Site
 
-  
+This Site is, generally, directed at persons over the age of 13 who purchase items with credit cards. We do not knowingly collect personal information from or about children under the age of 13, except as relating to a specific order for products or services. If we, at any time, learn that information relating to a child under the age of 13 that we have obtained is other than as set forth above, we shall immediately purge such information from our records. 
+
+5\. Cookies
+
+Like most other web sites, the SuperStore, LLC servers may automatically track certain information about activity on our Site. This information allows us to keep our Site running efficiently. This information may include: the browser being used (such as Netscape, Internet Explorer, etc.); your operating system (such as Macintosh, Windows, etc.); your IP address; and the referring URL and all company URLs you visit. We use your IP address to help diagnose problems with our server, and to administer our Site, but your IP address is not connected to information that is personally identifiable. 
+
+In addition, SuperStore, LLC may use "cookies" on certain pages of our Site to automatically collect information from a visitor to our Site and transfer this information to the visitor's hard drive. Cookies help us recognize repeat visitors, allowing communication of a personalized welcome message and tailoring of content to match particular interests.
+
+We also may use outside advertising companies to display advertisements on our site. These advertisements may also contain cookies. Some customer data may be shared with the advertising affiliates on an aggregated basis in accordance with the other terms of this Privacy Policy. Because cookies are stored on your hard drive, not on our Site, you are always free to set your browser to decline cookies and you can delete them from your computer. If you decline "cookies" or delete them from your computer, you will still be able to access our Site, but you may find that some areas do not work as smoothly as when cookies are enabled on your system.
+
+6\. Other Use
+
+It is possible that SuperStore, LLC, its business and/or assets, its present or future subsidiaries, joint ventures or any combination of such, could merge with or be acquired in one or more types of transactions by another business entity or entities. Should such transaction(s) occur, SuperStore, LLC has your permission to share some or all of your information in order to, among other things, continue the provision of one or more services similar to all or a portion of the services that SuperStore, LLC currently provides. Notice of such an event (to the extent that it takes place) will be posted on this Web site and we will require that the new combined entity adhere to the practices disclosed in this Privacy Policy. 
+
+7\. Disclosure for Legal Purposes
+
+Given the government’s current interest in Internet regulation, you hereby authorize us and the third parties permitted to receive information hereunder, to disclose all information collected in connection with this Site and the products and services, pursuant to judicial and administrative proceedings, and in connection with law enforcement activities and as otherwise may be permitted by law, to law enforcement or government agencies if we believe the disclosure is necessary or appropriate. You also authorize us to disclose such information if we believe the disclosure is necessary or appropriate in the event of an investigation of improper or illegal conduct in connection with our Site, such as fraud, misrepresentation, intellectual-property infringement, or other activity that may put us at risk for liability. We will, whenever we believe reasonably possible, use our reasonable efforts to inform a User whose information may be so revealed. 
+
+8\. Other Parties and Your Information
+
+This policy only relates to our collection and use of your information, except as otherwise provided. We are not responsible for the privacy policies and practices of promotional affiliates, advertisers or other third parties to which we may provide links. SuperStore, LLC does not have control over the privacy policies applied by any other party to whom you may disclose information when linked from our Site. If you would like information on any other party's privacy policy, you should contact that party directly, and we encourage you to do so. Once your information is provided to a third party as described in this Privacy Policy, SuperStore, LLC cannot guarantee that such information will be maintained or used in a manner consistent with this Privacy Policy. 
+
+9\. Security
+
+SuperStore, LLC employs standard industry measures to protect and ensure the confidentiality of your personally identifiable information, including the use of firewalls and SSL encryption. Despite these efforts, we cannot guarantee the security of your information given the current state of the Internet. Unless required by law, we have no obligation to maintain information about you, although we reserve the right to do so. SuperStore, LLC has implemented industry standard security measures to protect the loss, misuse and integrity of the information under our control. Although SuperStore, LLC makes good faith efforts to store the information collected by it in a secure operating environment that is not available to the public, SuperStore, LLC cannot guarantee complete security. 
+
+10\. How You Can Modify Information, Opt Out, or Contact Us
+
+You can review and modify (or remove) the information you provide us in the order or registration process if this information changes. The information that you may change (or remove) includes any information provided on our order or registration format. To make any of these changes, you may log on to this site and make the changes directly after you have received an identification and password for the transaction or for the individual order. 
+
+After either completing your first purchase at SuperStore, LLC or otherwise using our registration module, your registration on our Web site will be confirmed by an email correspondence to your email address. If you do not object to such email within three days, it will constitute your consent to receive email notices and other email communications from SuperStore, LLC and its advertisers and promotional affiliates. In the event you no longer wish to receive such email notices or other email communications from us, you may opt-out by removing yourself through our opt-out procedures. In the event you no longer wish to receive communications from a third party you must contact such third party. You acknowledge that SuperStore, LLC has no control over whether such third party will stop such communications. You also may contact us at [CustomerService@Shop.PGATOURSuperStore.com](mailto:customerservice@shop.pgatoursuperstore.com) if you no longer wish to be enrolled as a User.
+
+To contact us with questions about this policy or other inquiries send us an email at [CustomerService@Shop.PGATOURSuperStore.com](mailto:customerservice@shop.pgatoursuperstore.com?subject=Privacy%20Policy) and write "Privacy Policy" in the subject line.
+
+Still Need Help? You may contact us by writing or calling at the following:
+
+SuperStore, LLC  
+PO Box 91022  
+Raleigh, NC 27675
+
+Customer Service: 1-888-5-GOTOUR (1-888-551-8687)  
+International: 001-919-573-8662  
+By E-Mail: [CustomerService@Shop.PGATOURSuperStore.com](mailto:customerservice@shop.pgatoursuperstore.com)  
 
