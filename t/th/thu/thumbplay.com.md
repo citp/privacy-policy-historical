@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the thumbplay.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231083659id_/http%3A//www.thumbplay.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thumbplay.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521085450id_/http%3A//www.thumbplay.com/legal/privacy) for the most accurate reproduction.*
 
 # Download | Thumbplay Music
 
-Effective May 27, 2010
+Effective April 26, 2011
 
-We at Thumbplay, Inc. ("Thumbplay") understand that you value your privacy and we strive to respect that privacy when you are using our services. This Privacy Policy describes what information we gather from you, how we use that information and what we do to protect it. By using the Thumbplay website, you are expressly consenting to the information handling practices described in this policy.
+We at Clear Channel Investments, Inc. d/b/a Thumbplay Music ("Thumbplay") understand that you value your privacy and we strive to respect that privacy when you are using our services. This Privacy Policy describes what information we gather from you, how we use that information and what we do to protect it. By using the Thumbplay website and the Services (as defined below), you are expressly consenting to the information handling practices described in this policy.
 
 ## Information We Collect From You
 
-When you sign up with Thumbplay, you establish a password-protected personal account for ordering ringtones and downloading services such as graphics, games and other items or participating in the Share feature ("the Services"). During the account creation process and/or to place an order, we may request certain contact and billing information (such as your name, a valid email address and your cell phone number). We use this information to provide you with our Services and to contact you about the items in which you have expressed interest.
+When you sign up with Thumbplay, you establish a password-protected personal account for ordering Thumbplay's streaming and downloadable media services and any related software (the "Services"). During the account creation process and/or to place an order, we may request certain contact and billing information (such as your name, a valid email address and your cell phone number). We use this information to provide you with our Services and to contact you about the items in which you have expressed interest.
 
 When you create a Thumbplay account, we keep track of your interactions with us, including but not limited to your site activity, order history, payment history and correspondence. We do this to provide you with better service, for billing and administrative functions, to improve your customer experience and for internal research and reporting purposes.
 
@@ -16,7 +16,7 @@ When you create a Thumbplay account, we keep track of your interactions with us,
 
 We may request information from you through optional online account profiles, surveys or contests. Participation in these profiles, surveys or contests is completely voluntary and you have a choice whether or not to disclose this information. Information requested may include contact information (such as your mailing address), and demographic information (such as your zip code or education level). By submitting this information, you enable us to provide you a more personalized Thumbplay experience.
 
-Please note that information you provide in an optional public profile can be viewed by anyone, and can potentially be used to contact you or send you unsolicited messages. If you use a bulletin board, blog or chat room on our site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We also permit customers to upload their photos to our web site using our "Share" service. We are not responsible for the personally identifiable information you choose to submit in these forums.
+Please note that information you provide in an optional public profile can be viewed by anyone, and can potentially be used to contact you or send you unsolicited messages. If you use a bulletin board, blog or chat room on our site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. 
 
 We post customer comments on our web site which may contain personally identifiable information such as the customer's name. We do obtain the customer's consent prior to posting the comment to post their name along with their comment.
 
@@ -70,7 +70,7 @@ The Thumbplay website contains links to and advertisements for sites operated by
 
 ## Co-branding
 
-Thumbplay maintains co-branding relationships with various service providers who include our promotional offers either directly on their websites or through inline links on their websites. When you sign up with Thumbplay through one of these websites, you establish a password-protected personal account for ordering Thumbplay ringtones, graphics, games and other items and services. During the account creation process and/or to place an order, we request, through that partner, the same contact and billing information that we ask of users who sign up directly on our website (such as name, a valid email address and cell phone number). You must agree to the Thumbplay Terms and Conditions posted to these websites in order to register. The Thumbplay privacy policy applies only to personal information collected on these websites for the purpose of Thumbplay registration.
+Thumbplay maintains co-branding relationships with various service providers who include our promotional offers either directly on their websites or through inline links on their websites. When you sign up with Thumbplay through one of these websites, you establish a password-protected personal account for ordering the Services. During the account creation process and/or to place an order, we request, through that partner, the same contact and billing information that we ask of users who sign up directly on our website (such as name, a valid email address and cell phone number). You must agree to the Thumbplay Terms and Conditions posted to these websites in order to register. The Thumbplay privacy policy applies only to personal information collected on these websites for the purpose of Thumbplay registration.
 
 ## Protecting your information
 
@@ -80,21 +80,13 @@ If Thumbplay learns of a security breach through which sensitive personal inform
 
 If you have any questions about security on our web site, you can contact us at [music.support@thumbplay.com](mailto:music.support@thumbplay.com.com).
 
-## Referral Program
-
-Our Referral Program allows you to easily tell your friends and family about Thumbplay. When you use the Program, we will ask you for you and your friend's name, phone number and/or email address. We will enable you to send your friend a one-time email or SMS message inviting him or her to visit Thumbplay, and the contact information you provide for this purpose will not be maintained by Thumbplay after your message is sent.
-
-Thumbplay uses third party service providers to administer the Referral Program. The personal information collected and stored through the Referral Program is only used for the operation and ongoing maintenance of the Referral Program and will not be used for any other purposes or disclosed to any third parties other than those service providers that help administer the Program. If you use our Referral Program to download your address book information from your web based email account, we will immediately delete any account information that you have provided us once the download is complete.
-
-You and your friends may opt-out of participation in the Referral Program at any time via opt-out links in all Referral Program communications or by sending an email to [friends_support@thumbplay.com](mailto:friends_support@thumbplay.com) or visiting <http://www.thumbplay.com/go/unsub-email>.
-
 ## International Visitors
 
 Thumbplay is hosted in the United States and complies with United States laws, including privacy and data protection laws. At this time, Thumbplay's services are not available to visitors from outside the United States.
 
 ## TRUSTe Privacy Program
 
-Thumbplay, Inc. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the website. Because this website wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
+Clear Channel Investments, Inc. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the website. Because this website wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
 The Watchdog Dispute Resolution link required in the privacy statement is [http://watchdog.truste.com/pvr.php?page=complaint&url=http://thumbplay.com](http://watchdog.truste.com/pvr.php?page=complaint&url=http://thumbplay.com)
 
