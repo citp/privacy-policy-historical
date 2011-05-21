@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the zenbe.com privacy policy that was archived on 2010-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100131003751id_/http%3A//www.zenbe.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zenbe.com privacy policy that was archived on 2011-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110522015430id_/http%3A//www.zenbe.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Zenbe
-
-## Privacy policy
-
-[ ](http://www.truste.org/ivalidate.php?url=www.zenbe.com&sealid=101)
 
 #### Last updated: 23 January 2009
 
@@ -13,10 +9,6 @@ We at Zenbe have clear objectives regarding privacy and have created this privac
 There is little data on the internet that is more private or sensitive than your email. Your Zenbe data, whether created or received by you, is yours and yours alone, and will only becollected, used, and shared as outlined in this Privacy Policy.
 
 We have established this Statement as a means to communicate our information gathering and dissemination practices to our customers and visitors. This online privacy policy describes how we use, disclose and protect personal information that you share with us. "Personal information" is information that enables us to identify you, such as your name and e-mail address.
-
-Zenbe is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. Because Zenbe wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
-
-If you have questions or concerns regarding this statement, you should first contact Zenbe at [privacy@zenbe.com](mailto:privacy@zenbe.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with us to resolve your concerns.
 
 ### Information we collect and how we use it:
 
