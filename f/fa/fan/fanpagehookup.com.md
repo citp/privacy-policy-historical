@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fanpagehookup.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122050939id_/http%3A//fanpagehookup.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fanpagehookup.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521041057id_/http%3A//www.fanpagehookup.com/privacy.html) for the most accurate reproduction.*
 
 # How FanPageHookup.com Works
 
