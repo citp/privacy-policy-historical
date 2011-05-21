@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ksn.com privacy policy that was archived on 2010-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100921135054id_/http%3A//www.ksn.com/content/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ksn.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521220340id_/http%3A//www.ksn.com/content/about/privacy.aspx) for the most accurate reproduction.*
 
 # KSN TV Privacy Policy - KSN TV, Kansas News and Weather
 
@@ -123,6 +123,3 @@ We may change this Website Privacy Policy at any time and from time to time. The
 If you have any questions about this Website Privacy Policy or would like to learn more about how we protect privacy, please write to us at KSNW-TV, 833 N. Main St. Wichita, KS 67203 or email to news@ksn.com.
 
 Last Updated: June 10, 2008 
-
-  
-
