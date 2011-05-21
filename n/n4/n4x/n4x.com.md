@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the n4x.com privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214215709id_/http%3A//www.camfuze.com/pages/policy.seam) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the n4x.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521085246id_/http%3A//camfuze.com/pages/policy.seam) for the most accurate reproduction.*
 
 # Privacy Policy
 
