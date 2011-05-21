@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the walkernews.net privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120193245id_/http%3A//www.walkernews.net/about/%23pripol) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the walkernews.net privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521091548id_/http%3A//www.walkernews.net/about/%23pripol) for the most accurate reproduction.*
 
 # About
 
@@ -6,15 +6,11 @@ About WalkerNews.net
 
 Every incident has a time and a venue. When there are something worth to write down for memory and reference, I try to record each of them in [WalkerNews.net](http://www.walkernews.net/ "Home - WalkerNews.net").
 
->   
->  WalkerNews is a capsule of Walker’s experience in life since 2007 Feb.   
-> 
+> WalkerNews is a capsule of Walker’s experience in life since 2007 Feb. 
 
 Other than storing my experience on the Net, WalkerNews.net is also a place for me to practice documentation and writing skills. Although, it’s a shame to say that my skills are still suck :-(. That’s why those copycats who duplicate my writing to their splogs look suck too :-P.
 
->   
->  It is fine to write on a same topic, but make it appears with own presentation and expression style for the sake of reading pleasure and creative improvement.   
-> 
+> It is fine to write on a same topic, but make it appears with own presentation and expression style for the sake of reading pleasure and creative improvement. 
 
 You are [welcomed](http://www.walkernews.net/contact/ "Contact WalkerNews.net") to participate in the space of WalkerNews.net, to make it a “place” for every walkers around the globe to share his/her own incidents or experiences.
 
