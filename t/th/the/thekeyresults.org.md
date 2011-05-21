@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thekeyresults.org privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202151959id_/http%3A//thekeyresults.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thekeyresults.org privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521060600id_/http%3A//thekeyresults.org/privacy.php) for the most accurate reproduction.*
 
 # TheKeyResults
 
