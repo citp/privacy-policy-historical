@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buzzsprout.com privacy policy that was archived on 2010-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101217154340id_/http%3A//www.buzzsprout.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buzzsprout.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521073246id_/http%3A//www.buzzsprout.com/privacy) for the most accurate reproduction.*
 
 # Buzzsprout » The best way to create and publish a podcast
 
