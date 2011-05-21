@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the groupbox.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226194338id_/http%3A//groupbox.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the groupbox.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521080119id_/http%3A//groupbox.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy policy
 
