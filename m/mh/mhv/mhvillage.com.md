@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mhvillage.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120190437id_/http%3A//www.mhvillage.com/PrivacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mhvillage.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521084946id_/http%3A//www.mhvillage.com/PrivacyPolicy.php) for the most accurate reproduction.*
 
 # MHVillage.com - Privacy Policy
 
