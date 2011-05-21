@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopgetorganized.com privacy policy that was archived on 2010-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100921223600id_/http%3A//www.shopgetorganized.com/custserv/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopgetorganized.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521220226id_/http%3A//www.shopgetorganized.com/custserv/privacy.asp) for the most accurate reproduction.*
 
 # Get Organized - Organizers and much more
 
@@ -40,7 +40,7 @@ We encourage parents to be aware of their children's online activities, and to l
 
 ## Searches
 
-Keyword search functions are provided in some areas of www.shopgetorganized.com web site as a convenience to our users. We do not collect your name or e-mail address when you use a search feature, nor do we tabulate search terms entered by individuals. We may keep logs of all words searched to help us learn what kinds of information our web site visitors are seeking and to improve our service to visitors. 
+Keyword search functions are provided in some areas of www.shopgetorganized.com web site as a convenience to our users. We do not collect your name or e-mail address when you use a search feature, nor do we tabulate search terms entered by individuals. We may keep logs of all words searched to help us learn what kinds of information our web site visitors are seeking and to improve our service to visitors.
 
 ## E-mail Messages
 
@@ -48,21 +48,21 @@ If you send Shop Get Organized an e-mail message, we may retain that message and
 
 ## Hyperlinks to Other Web Sites:
 
-Shop Get Organized web site may include links to web sites of other companies unaffiliated with Shop Get Organized Please note we are unable to review all such sites and take no responsibility for the content of any unaffiliated web site.
+Shop Get Organized web site may include links to web sites of other companies unaffiliated with Shop Get Organized. Please note we are unable to review all such sites and take no responsibility for the content of any unaffiliated web site.
 
 ## Cookies and Server Logs
 
 Shop Get Organized, related web hosting providers, and advertisers sometimes utilize "cookie" technology. Cookies are bits of data stored on your local hard drive that contain no personally identifying information but which help enhance your web browsing experience. Not all web browsers accept cookies, and those that do usually provide a preference or setting that allow them to refuse cookies. If your browser does not accept cookies, you may browse our web sites, but you cannot order a product or request a catalog.
 
-Server logs capture certain non-personally identifying data, such as the time and date of a web visit, the browser and operating system being used, the IP address or domain name of the user's ISP, and the web URL a user linked from. This information is used in aggregate form to help us plan system enhancements when necessary and to provide content that is compatible with our visitors' web browsing systems. 
+Server logs capture certain non-personally identifying data, such as the time and date of a web visit, the browser and operating system being used, the IP address or domain name of the user's ISP, and the web URL a user linked from. This information is used in aggregate form to help us plan system enhancements when necessary and to provide content that is compatible with our visitors' web browsing systems.
 
-Shopgetorganized.com may provide aggregate statistics about our customers, traffic patterns and related site information to reputable third parties for statistical analysis. Although the statistics themselves do not include personal information, it is possible they could be linked to this type of information. 
+Shopgetorganized.com may provide aggregate statistics about our customers, traffic patterns and related site information to reputable third parties for statistical analysis. Although the statistics themselves do not include personal information, it is possible they could be linked to this type of information.
 
-Cookies are also used to target advertising and marketing offers to your particularized interests and to avoid showing you duplicate ads. Cookies cannot be used to get data from your hard drive, your e-mail, or any other personal data about you. 
+Cookies are also used to target advertising and marketing offers to your particularized interests and to avoid showing you duplicate ads. Cookies cannot be used to get data from your hard drive, your e-mail, or any other personal data about you.
 
-## Credit Cards 
+## Credit Cards
 
-Shop Get Organized uses credit card numbers submitted to us through our web sites for payment purposes only and not for marketing purposes. We utilize industry standard secure encryption technology to reasonably assure the privacy and security of the credit card numbers of every individual who places online orders with us. 
+Shop Get Organized uses credit card numbers submitted to us through our web sites for payment purposes only and not for marketing purposes. We utilize industry standard secure encryption technology to reasonably assure the privacy and security of the credit card numbers of every individual who places online orders with us.
 
 ## Acceptance of Privacy Policy Terms and Conditions
 
