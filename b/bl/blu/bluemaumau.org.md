@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the bluemaumau.org privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120193030id_/http%3A//www.bluemaumau.org/node/1367) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluemaumau.org privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521090827id_/http%3A//www.bluemaumau.org/node/1367) for the most accurate reproduction.*
 
 # Blue MauMau's Privacy Policy | BlueMauMau
-
-[](https://web.archive.org/user/mr_blue_maumau "View user profile.")
 
 Blue MauMau has been built to make it easy to share information with others. When you visit  Blue MauMau, you provide us with two types of information: personal information you knowingly choose to disclose that is collected by us and Web Site use information collected by us as you interact with our Web Site.
 
