@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chainsawsuit.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120152635id_/http%3A//www.chainsawsuit.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chainsawsuit.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521090824id_/http%3A//www.chainsawsuit.com/privacypolicy) for the most accurate reproduction.*
 
 # chainsawsuit by kris straub - privacy policy
 
