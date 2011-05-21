@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the marketintellisearch.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219121648id_/http%3A//www.marketintellisearch.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketintellisearch.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521201222id_/http%3A//www.marketintellisearch.com/privacy.html) for the most accurate reproduction.*
 
-# Market Intellisearch: Privacy Statement
+# Market Intellisearch: Financial news, insight and screeners into market trends and investment sentiment.
 
 This is the Privacy Policy of Market Intellisearch LLC ("Market Intellisearch," or "we") regarding information we collect on our web site ("Site"). Please note that this Privacy Policy may change from time to time. We will post any Privacy Policy changes on this page for your review. 
 
