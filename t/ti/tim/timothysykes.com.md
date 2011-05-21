@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the timothysykes.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121101904id_/http%3A//www.timothysykes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timothysykes.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521140124id_/http%3A//www.timothysykes.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Timothy Sykes - Privacy Policy & Disclaimer
 
 BullShip Press, LLC collects Personal Information from registered participants. As a condition of registration, participants provide their name and email address. BullShip Press, LLC may also collect additional information from participants and other visitors to the site through cookies or web beacons as detailed below.
 
