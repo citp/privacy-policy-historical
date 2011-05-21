@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the hivehealthmedia.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204102014id_/http%3A//www.hivehealthmedia.com/contact/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hivehealthmedia.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521085234id_/http%3A//www.hivehealthmedia.com/contact/privacy-policy) for the most accurate reproduction.*
 
 # Hive Health Media Privacy Policy
 
 **Hive Health Media** is committed to respecting the privacy concerns of its visitors to the **Hive Health media Network** (“the Websites”). Hive Health Media has created this privacy policy (the “Policy”) to establish guidelines that will govern the collection, use, and disclosure of the personal and non-Personal Information of its visitors.
 
-We use third-party advertising companies to serve ads when you visit our Web site.  These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see:  [http://www.networkadvertising.org/managing/opt_out.asp](https://web.archive.org/web/20101204102014id_/http%3A//www.hivehealthmedia.com/contact/We%20use%20third-party%20advertising%20companies%20to%20serve%20ads%20when%20you%20visit%20our%20Web%20site.%20These%20companies%20may%20use%20aggregated%20information%20\(not%20including%20your%20name,%20address,%20email%20address%20or%20telephone%20number\)%20about%20your%20visits%20to%20this%20and%20other%20Web%20sites%20in%20order%20to%20provide%20advertisements%20about%20goods%20and%20services%20of%20interest%20to%20you.%20If%20you%20would%20like%20more%20information%20about%20this%20practice%20and%20to%20know%20your%20choices%20about%20not%20having%20this%20information%20used%20by%20these%20companies,%20please%20see:%20http://www.networkadvertising.org/managing/opt_out.asp)
+We use third-party advertising companies to serve ads when you visit our Web site.  These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see:  <http://www.networkadvertising.org/managing/opt_out.asp>
 
 Hive Health Media collects three kinds of information from the Websites: (1) your voluntarily provided Personal Information; (2) Anonymous Non-Personal Information; and (3) “Cookie” Based Information.
 
@@ -67,3 +67,5 @@ Upon request, an individual will be informed of the existence, use and disclosur
 PRINCIPLE 10 – CHALLENGING COMPLIANCE
 
 An individual Visitor will be able to address a challenge concerning compliance with the principles in this Privacy Policy to Hive Health Media’s webmaster. Hive Health Media will investigate any complaint, and if the complaint is justified, Hive Health Media will remedy it.
+
+[](http://addthis.com/bookmark.php?v=250)
