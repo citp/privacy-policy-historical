@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the campingandcaravanningclub.co.uk privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120082743id_/http%3A//www.campingandcaravanningclub.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the campingandcaravanningclub.co.uk privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521215939id_/http%3A//www.campingandcaravanningclub.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# The Camping and Caravanning Club - Privacy Policy
+# Privacy Policy - The Camping and Caravanning Club
 
 **The Camping and Caravanning Club respects your right to privacy. In the statement below you will find full details of how the Club protects and secures your personal information.**
 
