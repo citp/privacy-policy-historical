@@ -1,623 +1,758 @@
-<!--The following is the downloaded HTML source of the atmel.com privacy policy that was archived on 2010-11-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101121191011id_/http%3A//www.atmel.com/general/privacy.asp%3Fsource%3Dfooter) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the atmel.com privacy policy that was archived on 2011-05-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110521205552id_/http%3A//www2.atmel.com/About/privacy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-
-	<title>Atmel Corporation - Privacy Policy</title>
-	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-	<link rel="shortcut icon" href="/Atmel/img/favicon.ico" type="/image/vnd.microsoft.icon">
-   	<link rel="stylesheet" href="/lib/css/global_en.css" type="text/css" media="screen">
-	
-	<!--[if lt IE 7]><script type="text/javascript" charset="utf-8" src="/Atmel/javascripts/iepngfix_tilebg.js"></script><![endif]-->
-	<!--[if lt IE 7]><link rel="stylesheet" href="/Atmel/stylesheets/iefixes.css" type="text/css" media="screen" /><![endif]-->
-	<!--[if IE 7]><link rel="stylesheet" href="/Atmel/stylesheets/ie7fixes.css" type="text/css" media="screen" /><![endif]-->
-	
-	<script type="text/javascript" src="/lib/js/lang/en.js"></script>
-	
-    <!-- jQuery library -->
-	<script type="text/javascript" src="/lib/js/jquery/jquery-1.3.2.js"></script>
-	<script type="text/javascript" src="/lib/js/jquery/app1.js" charset="utf-8"></script>
-	<script type="text/javascript" src="/lib/js/jquery/menu.js"></script>
-	
-	<script type="text/javascript">
-      	var targetParentID = ""; // element to have open
-      	var targetPage = "Home"; // element to have higlighted, i.e datasheets
-
-      	$(document).ready(function()
-		{
-         	if (targetParentID!="")
-			{ 
-            	Menu.openParentID(targetParentID);
-         	}      
-         	if (targetPage!="")
-			{ 
-            	$("#" + targetPage).addClass("on");
-         	}   
-      	});
-   	</script>
-
-</head>
-
-<body>
-<div id="wrapper">
-		<div id="header">
-			
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" class="loading ready js"><head>
+    
+    
+<title>Atmel Corporation - About - Privacy Policy</title>
 
 
 
-<script language="javascript" src="/dyn/lang/en.js"></script>
 
-<script>
-	function CallADSearch()
+    
+
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8">
+    <link rel="shortcut icon" href="/Images/favicon.ico" type="/image/vnd.microsoft.icon">
+    <link rel="stylesheet" href="/System/Styles/style.css" type="text/css" media="screen">
+    <link rel="stylesheet" href="/System/Styles/print.css" type="text/css" media="print">
+
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-2587932-1']);
+	  //LIVE PRODUCTION ONLY ... _gaq.push(['_setAccount', 'UA-2587932-1']);
+      _gaq.push(['_setDomainName', '.atmel.com']);
+      _gaq.push(['_addIgnoredRef', '.atmel.com']);
+      _gaq.push(['_trackPageview']);
+
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+    </script>
+
+    <script type="text/javascript">
+    //keeps mootools error from popping up... doesn't do anything if other js error...
+    window.onerror = function (msg, url, linenumber)
+    {
+        if (msg.substring(0,39) == "'this.element' is null or not an object")
+        {
+            return true;
+        }
+    }
+    </script>
+
+<script><!--// This is for Advanced Search flyout - Thomas Orthbandt @ Apr. 25 2011
+
+	function alertSearch() 
 	{
+		if (document.searchForm.site.value == "") 
+		{
+			var tmp = document.searchForm.target.value;
+			$('#target').val(tmp);
+			//alert ("Please select the search type.");
+			document.getElementById("search-menu").style.display = "block";
+			document.getElementById("search-menu").style.margin = "0";
+			document.getElementById("search-menu").style.padding = "10px";
+			document.getElementById("search-menu").style.opacity = "0.95";
+			document.getElementById("submit").style.background = "url('/images/search_submit_button_on.png')";
+			return false;
+		}
+	}
+
+	function goSearch(thisValue) 
+	{
+		var q, finalSearchString;
 		if (document.searchForm.target.value == "")
 		{
-			alert ("Please enter a keyword and try your search.");
-			return;
-		}
-		else
-		{
-			document.searchForm.action = "/dyn/general/advanced_search_results.asp?device=1&tools=1&faqs=1&datasheets=1&appNotes=1&userGuides=1&software=1&press=1&articles=1&flyers=1&checkAll=1&checkAllReference=1&target=" + document.searchForm.target.value;
-			document.searchForm.submit();
+			alert ("Please enter a keyword and try your search again!");
+			return false;
 		} 
+		else 
+		{
+			q=document.searchForm.target.value;
+			$('#site').val(thisValue);
+			if (thisValue=='all') 
+			{
+				finalSearchString = "http://www.atmel.com/dyn/general/search_results.asp?source=cms&cx=008864967094569334548:eyfn6tp4lcm&cof=FORID:9&ie=UTF-8&q=" + q;
+			} 
+			
+			else if (thisValue=='adv_search')
+			{
+				finalSearchString ="http://www.atmel.com/dyn/general/advanced_search.asp?device=0&tools=0&datasheets=0&appNotes=1&userGuides=0&press=0&articles=0&flyers=0&checkAll=0&checkAllReference=0&target=" + q;
+			} 
+			
+			else if (thisValue=='doc_search') 
+			{
+				finalSearchString ="http://www.atmel.com/dyn/general/document_search.asp?device=0&tools=0&datasheets=1&appNotes=0&userGuides=0&press=0&ar>ticles=0&flyers=0&checkAll=0&checkAllReference=0&target=" + q;
+			}
+			window.location = finalSearchString;
+			return false;
+		}
 	}
-
-	function triml(sString) 
+	
+	function gotoSearch(thisValue) 
 	{
-    	while (sString.substring(0,1) == ' ')
-    	{
-        	sString = sString.substring(1, sString.length);
-    	}
-    	while (sString.substring(sString.length-1, sString.length) == ' ')
-    	{
-        	sString = sString.substring(0,sString.length-1);
-    	}
-    	return sString;
-
+		var r, finalSearchString;
+		{
+			r=document.searchForm.target.value;
+			$('#site').val(thisValue);
+			
+			if (thisValue=='adv_search')
+			{
+				finalSearchString ="http://www.atmel.com/dyn/general/advanced_search.asp?device=0&tools=0&datasheets=0&appNotes=1&userGuides=0&press=0&articles=0&flyers=0&checkAll=0&checkAllReference=0&target=" + r;
+			} 
+			
+			else if (thisValue=='doc_search') 
+			{
+				finalSearchString ="http://www.atmel.com/dyn/general/document_search.asp?device=0&tools=0&datasheets=1&appNotes=0&userGuides=0&press=0&articles=0&flyers=0&checkAll=0&checkAllReference=0&target=" + r;
+			}
+			window.location = finalSearchString;
+			return false;
+		}
 	}
-</script>
-
-<div id="header">
-	<div id="logo">
-    	<a href="/default.asp?source=global_nav">
-        	<img src="/Atmel/img/copy/logo.gif" alt="ATMEL">
-        </a>
-    </div>
-    <div style="padding-left:650px; padding-top: 10px;">
-        <table border="0" cellpadding="0" cellspacing="0">
-            <tbody><tr nowrap="nowrap">
-                <td><img src="/images/homepage_new/cart.gif" width="20" height="16" align="middle"></td>
-                <td valign="middle" style="padding-top:6px;"><a href="http://store.atmel.com/ShoppingCart.aspx?source=atmel_header">Cart</a></td>
-            </tr>
-        </tbody></table>
-	</div>
+	
+//--></script>
+</head>
+<!--[if lt IE 7 ]> <body class="ie6 page"> <![endif]-->
+<!--[if IE 7 ]>    <body class="ie7 page"> <![endif]-->
+<!--[if IE 8 ]>    <body class="ie8 page"> <![endif]-->
+<!--[if IE 9 ]>    <body class="ie9 page"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!-->
+<body class="page">
+<!--<![endif]-->
+    <div id="container">
+        <div id="header">
+            <a id="pagetop"></a>
+            
+                
+                    <div id="logo"><a href="/default.aspx"><img src="/Images/atmel.png" alt="" width="92" height="76" border="0"></a></div>
+<div id="utility-nav">
+  <ul>
     
-    <div id="search">
-<form action="/dyn/general/search_results2.asp">
-            <div>
-				<input type="hidden" name="cx" value="008864967094569334548:eyfn6tp4lcm">
-				<input type="hidden" name="cof" value="FORID:9">
-				<input type="hidden" name="ie" value="UTF-8">
-				<input type="text" class="type_text" value="Search" name="q" title="Search"> <input type="submit" name="sa" class="type_submit" value="Search">
-				<p><a href="/dyn/general/advanced_search.asp">Advanced Search</a></p>
-			</div>
-		</form>
-	</div>
-    <!--
-Start of Coakley Heagerty Floodlight Tag: Please do not remove Activity name of this tag: Main Tag
-URL of the webpage where the tag is expected to be placed: http://www.atmel.com
-This tag must be placed between the <body> and </body> tags, as close as possible to the opening tag.
-Creation Date: 09/01/2010
--->
-<script type="text/javascript">
-	var axel = Math.random() + "";
-	var a = axel * 10000000000000;
-	document.write('<iframe src="http://fls.doubleclick.net/activityi;src=2867122;type=atmel630;cat=maint479;ord=' + a + '?" width="1" height="1" frameborder="0"></iframe>');
-</script><iframe src="http://fls.doubleclick.net/activityi;src=2867122;type=atmel630;cat=maint479;ord=9954874666717.002?" width="1" height="1" frameborder="0"></iframe>
-<noscript>
-	<iframe src="http://fls.doubleclick.net/activityi;src=2867122;type=atmel630;cat=maint479;ord=1?" width="1" height="1" frameborder="0"></iframe>
-</noscript>
-<!-- End of Coakley Heagerty Tag: Please do not remove -->
-			
-	<ul id="mainnav" class="bodytext_header">
-		<li class="products"><a href="/products/">Products</a>
-			<div class="dropdown">
-				<ul>
-					<li class="sub">
-                    	<img src="/Atmel/img/interface/li_dash.gif" width="3" height="1" class="sub_image">&nbsp;Microcontrollers
-						<div class="dropdown">
-							<ul>	          					
-                                <li><a href="/products/avr/default.asp?family_id=607&amp;source=global_nav">AVR® 8- and 32-bit Solutions</a></li>
-                                <li><a href="/products/at91/default.asp?family_id=605&amp;source=global_nav">ARM-based Solutions</a></li>
-                                <li><a href="/products/zigbee/default.asp?family_id=676&amp;source=global_nav">MCU Wireless</a></li>
-                                <li><a href="/products/mcu8051/default.asp?family_id=604&amp;source=global_nav">8051 Architecture</a></li>                                
-							</ul>
-						</div>
-					</li>
-                    <li class="sub">
-                    	<img src="/Atmel/img/interface/li_dash.gif" width="3" height="1" class="sub_image">
-                        <a href="/products/overview_touch.asp?source=global_nav">Touch Solutions</a>
-						<div class="dropdown">
-							<ul>
-								<li><a href="/products/bsw/default.asp?family_id=697&amp;source=global_nav">Buttons, Sliders &amp; Wheels</a></li>
-                                <li><a href="/products/touchscreens/default.asp?family_id=701&amp;source=global_nav">Touchscreens</a></li>
-                                <li><a href="/products/touchsoftware/default.asp?family_id=702&amp;source=global_nav">QTouch Library</a></li>
-							</ul>
-						</div>
-					</li>
-					<li class="sub">
-						<img src="/Atmel/img/interface/li_dash.gif" width="3" height="1" class="sub_image">
-                        <a href="/products/overview_automotive.asp?source=global_nav">Automotive</a>
-						<div class="dropdown">
-							<ul>
-								<li><a href="/products/auto/default.asp?family_id=606&amp;source=global_nav">Automotive Control</a></li>
-                                <li><a href="/products/automcu/default.asp?family_id=690&amp;source=global_nav">Automotive Microcontrollers</a></li>
-                                <li><a href="/products/audio/default.asp?family_id=637&amp;source=global_nav">Broadcast Radio</a></li>
-                                <li><a href="/products/canvan/default.asp?family_id=691&amp;source=global_nav">CAN/VAN Networking</a></li>
-                                <li><a href="/products/caraccess/default.asp?family_id=692&amp;source=global_nav">Car Access</a></li>
-                                <li><a href="/products/drivers/default.asp?family_id=693&amp;source=global_nav">Drivers/High-temperature ICs</a></li>
-                                <li><a href="/products/gps/default.asp?family_id=665&amp;source=global_nav">GPS</a></li>
-                                <li><a href="/products/industrial/default.asp?family_id=629&amp;source=global_nav">Industrial Control</a></li>
-                                <li><a href="/products/liionbattery/default.asp?family_id=703&amp;source=global_nav">Li-Ion Battery Management</a></li>
-                                <li><a href="/products/lin/default.asp?family_id=696&amp;source=global_nav">LIN Networking</a></li>
-                                <li><a href="/products/serial/default.asp?family_id=647&amp;source=global_nav">Serial EEPROM</a></li>
-                                <li><a href="/products/tirepressure/default.asp?family_id=694&amp;source=global_nav">Tire Pressure Monitoring</a></li> 
-							</ul>
-						</div>
-					</li>
-					<li class="sub">
-						<img src="/Atmel/img/interface/li_dash.gif" width="3" height="1" class="sub_image">
-                        <a href="/products/overview_security.asp?source=global_nav">Security</a>
-						<div class="dropdown">
-							<ul>
-                  <li><a href="/products/cryptoauthentication/default.asp?family_id=699&amp;source=global_nav">Secure Authentication: CryptoAuthentication</a></li>
-                  <li><a href="/products/secureRF/default.asp?family_id=671&amp;source=global_nav">Secure RFID: CryptoRF®</a></li>
-                  <li><a href="/products/securemem/default.asp?family_id=646&amp;source=global_nav">Secure Memory: Crypto Memory®</a></li>
-                  <li><a href="/products/embedded/default.asp?family_id=620&amp;source=global_nav">Secure Microcontrollers: Trusted Platform Module</a></li>
-              </ul>
-						</div>
-					</li>
-                    <li class="sub">
-						<img src="/Atmel/img/interface/li_dash.gif" width="3" height="1" class="sub_image">
-                        <a href="/products/overview_memories.asp?source=global_nav">Memories</a>
-						<div class="dropdown">
-							<ul>
-								<li><a href="/products/DataFlash/default.asp?family_id=616&amp;source=global_nav">DataFlash®</a></li>
-                                <li><a href="/products/eprom/default.asp?family_id=621&amp;source=global_nav">EPROM</a></li>                                    
-                                <li><a href="/products/parallel/default.asp?family_id=638&amp;source=global_nav">Parallel EEPROM</a></li>
-                                <li><a href="/products/serial/default.asp?family_id=647&amp;source=global_nav">Serial EEPROM</a></li>
-                                <li><a href="/products/SFlash/default.asp?family_id=668&amp;source=global_nav">Serial Flash</a></li>
-							</ul>
-						</div>
-					</li>
-                    <li class="sub">
-						<img src="/Atmel/img/interface/li_dash.gif" width="3" height="1" class="sub_image">
-                        <a href="/products/overview_wireless.asp?source=global_nav">Wireless</a>
-						<div class="dropdown">
-							<ul>
-								<li><a href="/products/zigbee/default.asp?family_id=676&amp;source=global_nav">MCU Wireless</a></li>
-                                <li><a href="/products/rfid/default.asp?family_id=644&amp;source=global_nav">RF Identification</a></li>
-                                <li><a href="/products/smartRF/default.asp?family_id=651&amp;source=global_nav">Smart RF</a></li>
-							</ul>
-						</div>
-					</li>
-                    <li class="sub">
-						<img src="/Atmel/img/interface/li_dash.gif" width="3" height="1" class="sub_image">
-                        <a href="/products/overview_other.asp?source=global_nav">Other</a>
-						<div class="dropdown">
-							<ul>
-                            	Audio, Multimedia
-								<li><a href="/products/dream/default.asp?family_id=618&amp;source=global_nav">Dream Sound Synthesis</a></li>
-                                <li><a href="/products/IRcontrol/default.asp?family_id=632&amp;source=global_nav">IR Control</a></li>
-                                Military/Aerospace
-								<li><a href="/products/military/default.asp?family_id=635&amp;source=global_nav">ASICs for Military/Avionics</a></li>
-                                <li><a href="/products/pld/military.asp?family_id=653&amp;source=global_nav">EPLD Military Devices</a></li>
-                                <li><a href="/products/radhard/default.asp?family_id=641&amp;source=global_nav">Space RAD Hard ICs</a></li>
-                                Other
-								<li><a href="/products/powermanage/default.asp?family_id=639&amp;source=global_nav">Analog Companions (PMAAC)</a></li>
-                                <li><a href="/products/tempsensors/default.asp?family_id=705&amp;source=global_nav">Digital Temperature Sensors</a></li>
-                                <li><a href="/products/config/default.asp?family_id=625&amp;source=global_nav">FPGA Configuration Memory</a></li>
-                                <li><a href="/products/pld/default.asp?family_id=653&amp;source=global_nav">SPLD/CPLD</a></li>
-                                <li><a href="/products/fpga/default.asp?family_id=623&amp;source=global_nav">Field Programmable Gate Arrays</a></li>
-                                <li><a href="/products/asic/default.asp?family_id=615&amp;source=global_nav">Customer Specific ICs</a></li>
-                                <li><a href="/products/ulc/default.asp?family_id=626&amp;source=global_nav">FPGA Conversion ULC</a></li>
-								Mature Products
-                                <li><a href="/products/fpslic/default.asp?family_id=627&amp;source=global_nav">FPSLIC™ (AVR with FPGA) </a></li>
-                                <li><a href="/products/flash/default.asp?family_id=624&amp;source=global_nav">Parallel Flash </a></li>
-                                <li><a href="/products/at91cap/default.asp?family_id=689&amp;source=global_nav">AT91CAP Microcontrollers</a></li>
-                                <li><a href="/dyn/products/devices.asp?family_id=688&amp;source=global_nav">Other Mature Products </a></li>
-							</ul>
-						</div>
-					</li>
-				</ul>
-			</div>
-		</li>
-        
-        <li class="applications"><a href="/applications/">Applications</a>
-			<div class="dropdown">
-				<ul>
-					<li class="sub">
-                    	<img src="/Atmel/img/interface/li_dash.gif" width="3" height="1" class="sub_image">
-                        <span>
-                        	<a href="/applications/automotive/default.asp?AppID=970&amp;source=global_nav">Automotive</a>
-                        </span>
-						<div class="dropdown">
-							<ul>
-								<li><a href="/applications/automotive/automotive_control.asp?AppID=970&amp;source=global_nav">Automotive Control</a></li>
-              					<li><a href="/applications/automotive/battery_mgmt.asp?AppID=970&amp;source=global_nav">Battery Management</a></li>
-              					<li><a href="/applications/automotive/car_access.asp?AppID=970&amp;source=global_nav">Car Access</a></li>
-                                <li><a href="/applications/automotive/infotainment.asp?AppID=970&amp;source=global_nav">Infotainment</a></li>
-                                <li><a href="/applications/automotive/networking.asp?AppID=970&amp;source=global_nav">Networking</a></li>
-                                <li><a href="/applications/automotive/microcontrollers.asp?AppID=970&amp;source=global_nav">Microcontrollers</a></li>
-                                <li><a href="/applications/automotive/motor_control_systems.asp?AppID=970&amp;source=global_nav">Motor Control Systems</a></li>
-							</ul>
-						</div>
-					</li>
-					<li class="sub">
-                    	<img src="/Atmel/img/interface/li_dash.gif" width="3" height="1" class="sub_image">
-                        <span>
-                        	<a href="/applications/building_automation/default.asp?AppID=1041&amp;source=global_nav">Building Automation</a>
-                       	</span>
-						<div class="dropdown">
-							<ul>
-								<li><a href="/applications/building_automation/fire_security.asp?AppID=1041&amp;source=global_nav">Fire and Security</a></li>
-	          					<li><a href="/applications/building_automation/comfort_control.asp?AppID=1041&amp;source=global_nav">Comfort and Control</a></li>
-            					<li><a href="/applications/building_automation/telecare.asp?AppID=1041&amp;source=global_nav">Telecare</a></li>
-							</ul>
-						</div>
-					</li>
-					<li class="sub">
-                    	<img src="/Atmel/img/interface/li_dash.gif" width="3" height="1" class="sub_image">
-                        <span>
-                        	<a href="/applications/home_appliances/default.asp?AppID=1040&amp;source=global_nav">Home Appliances</a>
-                        </span>
-						<div class="dropdown">
-							<ul>
-								<li><a href="/applications/home_appliances/refrigeration.asp?AppID=1040&amp;source=global_nav">Refrigeration</a></li>
-								<li><a href="/applications/home_appliances/cooking_appliances.asp?AppID=1040&amp;source=global_nav">Cooking</a></li>
-								<li><a href="/applications/home_appliances/washing_appliances.asp?AppID=1040&amp;source=global_nav">Washing</a></li>
-                                <li><a href="/applications/home_appliances/motor_control.asp?AppID=1040&amp;source=global_nav">Motor Control</a></li>
-							</ul>
-						</div>
-					</li>
-					<li class="sub">
-                    	<img src="/Atmel/img/interface/li_dash.gif" width="3" height="1" class="sub_image">
-                        <span>
-                        	<a href="/applications/home_entertainment/default.asp?AppID=2177&amp;source=global_nav">Home Entertainment</a>
-                        </span>
-						<div class="dropdown">
-							<ul>
-								<li><a href="/applications/home_entertainment/audio.asp?AppID=2177&amp;source=global_nav">Audio</a></li>
-								<li><a href="/applications/home_entertainment/video.asp?AppID=2177&amp;source=global_nav">Video</a></li>
-								<li><a href="/applications/home_entertainment/remote_controls.asp?AppID=2177&amp;source=global_nav">Remote Controls</a></li>
-							</ul>
-						</div>
-					</li>
-					<li class="sub">
-                    	<img src="/Atmel/img/interface/li_dash.gif" width="3" height="1" class="sub_image">
-                        <span>
-                        	<a href="/applications/industrial_automation/default.asp?AppID=2178&amp;source=global_nav">Industrial Automation</a>
-                        </span>
-						<div class="dropdown">
-							<ul>
-								<li><a href="/applications/industrial_automation/human_machine_interface.asp?AppID=2178&amp;source=global_nav">Human Machine Interface</a></li>
-								<li><a href="/applications/industrial_automation/plc_io_modules.asp?AppID=2178&amp;source=global_nav">PLC and IO Modules</a></li>
-								<li><a href="/applications/industrial_automation/sensors.asp?AppID=2178&amp;source=global_nav">Sensors</a></li>
-								<li><a href="/applications/industrial_automation/instruments.asp?AppID=2178&amp;source=global_nav">Instruments</a></li>
-                                <li><a href="/applications/industrial_automation/industrial_communications.asp?AppID=2178&amp;source=global_nav">Industrial Communications</a></li>
-							</ul>
-						</div>
-					</li>
-					<li class="sub">
-                    	<img src="/Atmel/img/interface/li_dash.gif" width="3" height="1" class="sub_image">
-                        <span>
-                        	<a href="/applications/lighting/default.asp?AppID=2180&amp;source=global_nav">Lighting</a>
-                        </span>
-						<div class="dropdown">
-							<ul>
-								<li><a href="/applications/lighting/fluorescent_ballasts.asp?AppID=2180&amp;source=global_nav">Fluorescent Ballasts</a></li>
-								<li><a href="/applications/lighting/hid_ballasts.asp?AppID=2180&amp;source=global_nav">HID Ballasts</a></li>
-								<li><a href="/applications/lighting/led_ballasts.asp?AppID=2180&amp;source=global_nav">LED Ballasts</a></li>
-                                <li><a href="/applications/lighting/lighting_control.asp?AppID=2180&amp;source=global_nav">Lighting Control</a></li>
-							</ul>
-						</div>
-					</li>
-					<li class="sub">
-                    	<img src="/Atmel/img/interface/li_dash.gif" width="3" height="1" class="sub_image">
-                        <span>
-                        	<a href="/applications/metering/default.asp?AppID=1024&amp;source=global_nav">Metering</a>
-                        </span>
-						<div class="dropdown">
-							<ul>
-								<li><a href="/applications/metering/electricity_meters.asp?AppID=1024&amp;source=global_nav">Electricity Meters</a></li>
-								<li><a href="/applications/metering/gas_water_meters.asp?AppID=1024&amp;source=global_nav">Gas and Water Meters</a></li>
-								<li><a href="/applications/metering/data_concentrators.asp?AppID=1024&amp;source=global_nav">Data Concentrators</a></li>
-								<li><a href="/applications/metering/in-home_display_units.asp?AppID=1024&amp;source=global_nav">In-Home Display Units</a></li>
-							</ul>
-						</div>
-					</li>
-					<li class="sub">
-                    	<img src="/Atmel/img/interface/li_dash.gif" width="3" height="1" class="sub_image">
-                        <span>
-                        	<a href="/applications/mobile_electronics/default.asp?AppID=2181&amp;source=global_nav">Mobile Electronics</a>
-                        </span>
-						<div class="dropdown">
-							<ul>
-								<li><a href="/applications/mobile_electronics/mobile_phones_internet_devices.asp?AppID=2181&amp;source=global_nav">Mobile Phones and Devices</a></li>
-								<li><a href="/applications/mobile_electronics/portable_game_consoles.asp?AppID=2181&amp;source=global_nav">Portable Game Consoles</a></li>
-								<li><a href="/applications/mobile_electronics/automotive_gps.asp?AppID=2181&amp;source=global_nav">Automotive</a></li>
-                                <li><a href="/applications/mobile_electronics/cameras.asp?AppID=2181&amp;source=global_nav">Cameras</a></li>
-                                <li><a href="/applications/mobile_electronics/netbooks.asp?AppID=2181&amp;source=global_nav">Netbooks</a></li>
-                                <li><a href="/applications/mobile_electronics/pdas.asp?AppID=2181&amp;source=global_nav">PDAs</a></li>
-                                <li><a href="/applications/mobile_electronics/portable_audio_players.asp?AppID=2181&amp;source=global_nav">Portable Audio Players</a></li>
-							</ul>
-						</div>
-					</li>
-					<li class="sub">
-                    	<img src="/Atmel/img/interface/li_dash.gif" width="3" height="1" class="sub_image">
-                        <span>
-                        	<a href="/applications/pc_peripherals/default.asp?AppID=1083&amp;source=global_nav">PC Peripherals</a>
-                        </span>
-						<div class="dropdown">
-							<ul>
-								<li><a href="/applications/pc_peripherals/small_io_devices.asp?AppID=1083&amp;source=global_nav">Small I/O Devices</a></li>
-								<li><a href="/applications/pc_peripherals/large_io_devices.asp?AppID=1083&amp;source=global_nav">Large I/O Devices</a></li>
-								<li><a href="/applications/pc_peripherals/audio_io_devices.asp?AppID=1083&amp;source=global_nav">Audio I/O Devices</a></li>
-                                <li><a href="/applications/pc_peripherals/mass_storage_devices.asp?AppID=1083&amp;source=global_nav">Mass Storage Devices</a></li>
-                                <li><a href="/applications/pc_peripherals/pc_accessories.asp?AppID=1083&amp;source=global_nav">PC Accessories</a></li>
-							</ul>
-						</div>
-					</li>
-				</ul>
-			</div>
-		</li>
-        
-        
-        <li class="buy">
-        	<a href="/buy/default.asp?source=global_nav">Buy</a>
-          <div class="dropdown">
-					<ul>
-            <li><a href="http://store.atmel.com/?source=global_nav">Atmel Store</a></li>
-            <li><a href="/buy/default.asp?source=global_nav">Sales Offices</a></li>
-            <li><a href="/buy/default.asp?source=global_nav">Distributors and Sales Reps</a></li>
-            <li><a href="/buy/default.asp?source=global_nav">Distributor Stock Check</a></li>
-          </ul>
+    <li><a href="http://support.atmel.com/bin/customer.exe">Support</a></li>
+    
+    <li><a href="/About/Community.aspx">Community</a></li>
+    
+    <li class="cart"><a href="http://store.atmel.com/ShoppingCart.aspx?source=global_nav">Cart</a></li>
+  </ul>
+</div>                
+            
+                
+            
+        </div>
+        <div id="primary">
+			<!-- New Search that includes a Fly-Out Menu for Advanced Searching by Thomas Orthbandt on Apr-25-2011 -->
+            <div id="search" data-filter="primary-nav">
+				<form name="searchForm" id="searchForm" action="http://www.atmel.com/dyn/general/search_results.asp" onsubmit="return alertSearch();">    
+					<input type="hidden" name="cx" value="008864967094569334548:eyfn6tp4lcm">
+					<input type="hidden" name="cof" value="FORID:9">
+					<input type="hidden" name="ie" value="UTF-8">
+					<input type="text" class="query" maxlength="30" size="16" value="" name="target" title="Search">
+					<input type="hidden" name="site" value="">
+					<div id="searchnav">
+						<ul>
+							<li class="fixed">
+								<a data-filter="searchbox" id="searchbox">
+									<input type="submit" name="submit" class="submit" value="" id="submit">
+								</a>
+								<div class="content" id="search-menu">
+									<ul class="search-group">
+										<li><a href="" onclick="return goSearch('all');">Entire Site</a></li>
+										<li><a href="" onclick="return gotoSearch('adv_search');">Go to Keyword Search</a></li>
+										<li><a href="" onclick="return gotoSearch('doc_search');">Go to Document Search</a></li>
+									</ul>
+								</div>
+							</li>
+						</ul>
 					</div>
-      	</li>
+				</form>
+			</div>
+			<div id="primarynav" data-filter="primary-nav">
+                <ul>
+                    <li class="fixed">
+            	        <a data-filter="corners" href="/System/Redirect.aspx?dest=/products/overview_mcu.asp&amp;category_id=163&amp;source=global_nav" class="products" style="position: relative;">Products<i class="corner top-left"></i><i class="corner top-right"></i></a>
+                        <div class="content" id="products-menu">
+                            <div class="group">
+                                <div class="groupheader"><a href="/System/Redirect.aspx?dest=/products/overview_mcu.asp&amp;category_id=163&amp;source=global_nav">Microcontrollers</a></div>
+                                <ul>
+                                    <li><a href="/System/Redirect.aspx?dest=/products/avr/default.asp&amp;category_id=163&amp;family_id=607&amp;source=global_nav">Atmel AVR 8-and 32-bit</a></li>
+                                    <li><a href="/System/Redirect.aspx?dest=/products/at91/default.asp&amp;category_id=163&amp;family_id=605&amp;source=global_nav">Atmel ARM-based Solutions</a></li>
+                                    <li><a href="/System/Redirect.aspx?dest=/products/zigbee/default.asp&amp;category_id=163&amp;family_id=676&amp;source=global_nav">MCU Wireless</a></li>
+                                    <li><a href="/System/Redirect.aspx?dest=/products/mcu8051/default.asp&amp;category_id=163&amp;family_id=604&amp;source=global_nav">8051 Architecture</a></li>
+                                    <li style="clear:both">&nbsp;</li>
+                                    <li style="clear:both">&nbsp;</li>
+                                    <li style="clear:both">&nbsp;</li>
+                                </ul>
+                                <div class="groupheader"><a href="/System/Redirect.aspx?dest=/products/overview_touch.asp&amp;category_id=170&amp;source=global_nav">Touch Solutions</a></div>
+                                <ul>
+                                    <li><a href="/System/Redirect.aspx?dest=/products/touchscreens/default.asp&amp;category_id=170&amp;family_id=701&amp;source=global_nav">Touchscreens</a></li>
+                                    <li><a href="/System/Redirect.aspx?dest=/products/bsw/default.asp&amp;category_id=170&amp;family_id=697&amp;source=global_nav">Buttons, Sliders and Wheels</a></li>
+                                    <li><a href="/System/Redirect.aspx?dest=/products/touchsoftware/default.asp&amp;category_id=170&amp;family_id=702&amp;source=global_nav">Atmel QTouch Library</a></li>
+                                    <li style="clear:both">&nbsp;</li>
+                                    <li style="clear:both">&nbsp;</li>
+                                    <li style="clear:both">&nbsp;</li>
+                                    <li style="clear:both">&nbsp;</li>
+                                    <li style="clear:both">&nbsp;</li>
+                                </ul>
+                            </div>
+                            <div class="groupleft">
+                                <div class="groupheader"><a href="/System/Redirect.aspx?dest=/products/overview_memory.asp&amp;category_id=162&amp;source=global_nav">Memory</a></div>
+                                <ul>
+                                    <li><a href="/System/Redirect.aspx?dest=/products/SFlash/default.asp&amp;category_id=162&amp;family_id=668&amp;source=global_nav">Serial Flash</a></li>
+                                    <li><a href="/System/Redirect.aspx?dest=/products/serial/default.asp&amp;category_id=162&amp;family_id=647&amp;source=global_nav">Serial EEPROM</a></li>
+                                    <li><a href="/System/Redirect.aspx?dest=/products/parallel/default.asp&amp;category_id=162&amp;family_id=638&amp;source=global_nav">Parallel EEPROM</a></li>
+                                    <li><a href="/System/Redirect.aspx?dest=/products/eprom/default.asp&amp;category_id=162&amp;family_id=621&amp;source=global_nav">OTP EPROM</a></li>
+                                </ul>
+                                <div class="groupheader"><a href="/System/Redirect.aspx?dest=/products/overview_automotive.asp&amp;category_id=154&amp;source=global_nav">Automotive Solutions</a></div>
+                                <ul>
+                                    <li><a href="/System/Redirect.aspx?dest=/products/auto/default.asp&amp;category_id=154&amp;family_id=606&amp;source=global_nav">Automotive Control</a></li>
+                                    <li><a href="/System/Redirect.aspx?dest=/products/automcu/default.asp&amp;category_id=154&amp;family_id=690&amp;source=global_nav">Automotive Microcontrollers</a></li>
+                                    <li><a href="/System/Redirect.aspx?dest=/products/audio/default.asp&amp;category_id=154&amp;family_id=637&amp;source=global_nav">Broadcast Radio</a></li>
+                                    <li><a href="/System/Redirect.aspx?dest=/products/canvan/default.asp&amp;category_id=154&amp;family_id=691&amp;source=global_nav">CAN/VAN Networking</a></li>
+                                    <li><a href="/System/Redirect.aspx?dest=/products/caraccess/default.asp&amp;category_id=154&amp;family_id=692&amp;source=global_nav">Car Access</a></li>
+                                    <li><a href="/System/Redirect.aspx?dest=/products/drivers/default.asp&amp;category_id=154&amp;family_id=693&amp;source=global_nav">Drivers/High-temp ICs</a></li>
+                                    <li><a href="/System/Redirect.aspx?dest=/products/gps/default.asp&amp;category_id=154&amp;family_id=665&amp;source=global_nav">GPS</a></li>
+                                    <li><a href="/System/Redirect.aspx?dest=/products/industrial/default.asp&amp;category_id=154&amp;family_id=629&amp;source=global_nav">Industrial Control</a></li>
+                                    <li><a href="/System/Redirect.aspx?dest=/products/liionbattery/default.asp&amp;category_id=154&amp;family_id=703&amp;source=global_nav">Li-Ion Battery Management</a></li>
+                                    <li><a href="/System/Redirect.aspx?dest=/products/lin/default.asp&amp;category_id=154&amp;family_id=696&amp;source=global_nav">LIN Networking</a></li>
+                                </ul>
+                            </div>
+                            <div class="groupleft">
+                                <div class="groupheader"><a href="/System/Redirect.aspx?dest=/products/overview_wireless.asp&amp;category_id=171&amp;source=global_nav">Wireless Solutions</a></div>
+                                <ul>
+                                    <li><a href="/System/Redirect.aspx?dest=/products/zigbee/default.asp&amp;category_id=171&amp;family_id=676&amp;source=global_nav">MCU Wireless</a></li>
+                                    <li><a href="/System/Redirect.aspx?dest=/products/rfid/default.asp&amp;category_id=171&amp;family_id=644&amp;source=global_nav">RF Identification</a></li>
+                                    <li><a href="/System/Redirect.aspx?dest=/products/smartRF/default.asp&amp;category_id=171&amp;family_id=651&amp;source=global_nav">Smart RF</a></li>
+                                    <li style="clear:both">&nbsp;</li>
+                                    <li style="clear:both">&nbsp;</li>
+                                    <li style="clear:both">&nbsp;</li>
+                                    <li style="clear:both">&nbsp;</li>
+                                    <li style="clear:both">&nbsp;</li>
+                                </ul>
+                                <div class="groupheader"><a href="/System/Redirect.aspx?dest=/products/overview_other.asp&amp;category_id=172&amp;source=global_nav">More Products</a></div>
+                                <ul>
+                                    <li><a href="/System/Redirect.aspx?dest=/products/cryptoauthentication/default.asp&amp;category_id=172&amp;family_id=699&amp;source=global_nav">Atmel CryptoAuthentication</a></li>
+                                    <li><a href="/System/Redirect.aspx?dest=/products/secureRF/default.asp&amp;category_id=172&amp;family_id=671&amp;source=global_nav">Atmel CryptoRF</a></li>
+                                    <li><a href="/System/Redirect.aspx?dest=/products/securemem/default.asp&amp;category_id=172&amp;family_id=646&amp;source=global_nav">Atmel Crypto Memory</a></li>
+                                    <li><a href="/System/Redirect.aspx?dest=/products/embedded/default.asp&amp;category_id=172&amp;family_id=620&amp;source=global_nav">Trusted Platform Module</a></li>
+                                    <li><a href="/System/Redirect.aspx?dest=/products/tempsensors/default.asp&amp;category_id=172&amp;family_id=705&amp;source=global_nav">Digital Temperature Sensors</a></li>
+                                </ul>
+<div class="groupheader" style="margin-top:100px;*margin-top:80px;"><a href="http://www.atmel.com/dyn/general/document_search.asp?device=0&amp;tools=0&amp;datasheets=1&amp;appNotes=0&amp;userGuides=0&amp;press=0&amp;articles=0&amp;flyers=0&amp;checkAll=0&amp;checkAllReference=0&amp;target=&amp;source=global_nav">» Go to Document Search</a></div>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="fixed">
+            	        <a data-filter="corners" href="/System/Redirect.aspx?dest=/applications/automotive/default.asp&amp;AppID=970&amp;source=global_nav" class="applications" style="position: relative;">Applications<i class="corner top-left"></i><i class="corner top-right"></i></a>
+                        <div class="content" id="applications-menu">
+                            <div class="group" data-filter="bottom-corners">
 
-		<li class="corporate">
-        	<a href="/corporate/?source=global_nav">Corporate</a>
-			<div class="dropdown">
-				<ul>
-					<li><a href="/corporate/?source=global_nav">Corporate Home</a></li>
-					<li><a href="/corporate/fact_sheet.asp?source=global_nav">Fact Sheet</a></li>
-					<li><a href="/corporate/corporate_profile.asp?source=global_nav">Overview</a></li>
-					<li><a href="/corporate/awards.asp?source=global_nav">Awards &amp; Recognition</a></li>
-					<li><a href="/corporate/corporate_tradeshow.asp?source=global_nav">Tradeshows &amp; Conferences</a></li>
-					<li><a href="/dyn/corporate/press_room.asp?SEC_NAME=Corporate&amp;source=global_nav">Corporate Releases</a></li>
-					<li><a href="/corporate/corporate_event.asp?source=global_nav">Seminars &amp; Events</a></li>
-					<li><a href="/corporate/corporate_event.asp?source=global_nav#channel">Channel Partner Events</a></li>
-					<li><a href="http://atml.client.shareholder.com/management.cfm?source=global_nav">Executive Profiles</a></li>
-					<li><a href="http://atml.client.shareholder.com/directors.cfm?source=global_nav">Board of Directors</a></li>                    
-					<li class="sub">
-                    	<img src="/Atmel/img/interface/li_dash.gif" width="3" height="1" class="sub_image">
-                        <span>
-                        	<a href="http://ir.atmel.com?source=global_nav">Investors Home</a>
-                        </span>
-						<div class="dropdown">
-							<ul>
-								<li><a href="http://atml.client.shareholder.com/annuals.cfm?source=global_nav">Annual Reports</a></li>
-                                <li><a href="http://atml.client.shareholder.com/releases.cfm?source=global_nav">Press Releases</a></li>
-                                <li><a href="http://atml.client.shareholder.com/events.cfm?source=global_nav">Events and Webcasts</a></li>
-                                <li><a href="http://atml.client.shareholder.com/events.cfm?source=global_nav">Earnings Estimate</a></li>
-                                <li><a href="http://atml.client.shareholder.com/faq.cfm?source=global_nav">FAQs</a></li>
-                                <li><a href="http://atml.client.shareholder.com/stockquote.cfm?source=global_nav">Stock Information</a></li>
-                                <li><a href="http://atml.client.shareholder.com/financials-KeyRatios.cfm?source=global_nav">Fundamentals</a></li>
-                                <li><a href="http://atml.client.shareholder.com/analysts.cfm?source=global_nav">Analyst Coverage</a></li>
-                                <li><a href="http://atml.client.shareholder.com/sec.cfm?source=global_nav">SEC Filings</a></li>
-                                <li><a href="http://atml.client.shareholder.com/governance.cfm?source=global_nav">Corporate Governance</a></li>
-                                <li><a href="http://atml.client.shareholder.com/alerts.cfm?source=global_nav">E-mail Alerts</a></li>
-                                <li><a href="http://atml.client.shareholder.com/management.cfm?source=global_nav">Executive Profiles</a></li>
-                                <li><a href="http://atml.client.shareholder.com/directors.cfm?source=global_nav">Board of Directors</a></li>
-							</ul>
-						</div>
-					</li>
-					<li class="sub">
-                    	<img src="/Atmel/img/interface/li_dash.gif" width="3" height="1" class="sub_image">
-                        <span>
-                        	<a href="/mediasupport/default.asp?source=global_nav">Press Room</a>
-                        </span>
-                        <div class="dropdown">
-							<ul>
-                                <li><a href="/dyn/corporate/mediasupport.asp?SEC_NAME=Corporate&amp;source=global_nav">Corporate Releases</a></li>
-                                <li><a href="/dyn/corporate/mediasupport.asp?SEC_NAME=Product&amp;source=global_nav">Product Releases</a></li>
-                                <li><a href="/dyn/corporate/mediasupport.asp?SEC_NAME=Technical%20News%20Brief&amp;source=global_nav">Technical News Briefs</a></li>
-                                <li><a href="/mediasupport/industry_analyst.asp?source=global_nav">Analyst Room</a></li>
-                                <li><a href="/mediasupport/speakers_bureau.asp?source=global_nav">Speakers Bureau</a></li>
-                                <li><a href="/mediasupport/atmel_news.asp?source=global_nav">Atmel in the News</a></li>
-							</ul>
-						</div>
-                   	</li>
-                 	<li class="sub">
-                    	<img src="/Atmel/img/interface/li_dash.gif" width="3" height="1" class="sub_image">
-                        <span>
-                        	<a href="/careers/?source=global_nav">Careers</a>
-                        </span>
-                    	<div class="dropdown">
-							<ul>
-                            	<li><a href="/careers/jobs.asp?source=global_nav">Job Openings</a></li>
-                            	<li><a href="/careers/benefit.asp?source=global_nav">Benefits Package</a></li>
-							</ul>
-						</div>
-                   	</li>
-				</ul>
-			</div>
-		</li>
-		<!--<li class="investors"><a href="/ir/?source=global_nav">Investors</a>
-			<div class="dropdown">
-				<ul>
-					<li><a href="/ir/?source=global_nav">Investors Home</a></li>
-					<li><a href="http://atml.client.shareholder.com/annuals.cfm?source=global_nav">Annual Reports</a></li>
-					<li><a href="http://atml.client.shareholder.com/releases.cfm?source=global_nav">Press Releases</a></li>
-					<li><a href="http://atml.client.shareholder.com/events.cfm?source=global_nav">Events and Webcasts</a></li>
-					<li><a href="http://atml.client.shareholder.com/events.cfm?source=global_nav">Earnings Estimate</a></li>
-					<li><a href="http://atml.client.shareholder.com/faq.cfm?source=global_nav">FAQs</a></li>
-					<li><a href="http://atml.client.shareholder.com/stockquote.cfm?source=global_nav">Stock Information</a></li>
-					<li><a href="http://atml.client.shareholder.com/financials-KeyRatios.cfm?source=global_nav">Fundamentals</a></li>
-					<li><a href="http://atml.client.shareholder.com/analysts.cfm?source=global_nav">Analyst Coverage</a></li>
-					<li><a href="http://atml.client.shareholder.com/sec.cfm?source=global_nav">SEC Filings</a></li>
-					<li><a href="http://atml.client.shareholder.com/governance.cfm?source=global_nav">Corporate Governance</a></li>
-					<li><a href="http://www.onfulfillment.com/atmel/?source=global_nav" rel="external">Literature Request</a></li>
-					<li><a href="http://atml.client.shareholder.com/alerts.cfm?source=global_nav">E-mail Alerts</a></li>
-					<li><a href="http://atml.client.shareholder.com/management.cfm?source=global_nav">Executive Profiles</a></li>
-					<li><a href="http://atml.client.shareholder.com/directors.cfm?source=global_nav">Board of Directors</a></li>
-				</ul>
-			</div>
-		</li>-->
-		<li class="quality"><a href="/quality/?source=global_nav">Quality</a>
-			<div class="dropdown">
-				<ul>
-					<li><a href="/quality/?source=global_nav">Quality Home</a></li>
-					<li><a href="/quality/quality_customer_survey_2008/default.asp?source=global_nav">Cust Satisfaction Survey Results'08</a></li>
-					<li><a href="/quality/quality_locations.asp?source=global_nav">Quality Inquiry</a></li>
-					<li><a href="/quality/quality_policy.asp?source=global_nav">Atmel Quality Policy</a></li>
-					<li><a href="/quality/quality_CERT.asp?source=global_nav">Quality System Certificates</a></li>
-					<li><a href="/quality/quality_RMA.asp?source=global_nav">RMA &amp; FA</a></li>
-					<li><a href="/quality/quality_reliability.asp?source=global_nav">Reliability Information</a></li>
-					<li><a href="/quality/quality_reg.asp?PG=CPQ&amp;source=global_nav">Global Quality Policies</a></li>
-					<li><a href="/quality/quality_general.asp?source=global_nav">Obsolescence Info</a></li>
-					<li><a href="/quality/quality_faqs.asp?source=global_nav">FAQ Response Summary</a></li>
-				</ul>
-			</div>
-		</li>
-		<!--<li class="pressroom"><a href="/mediasupport/default.asp?source=global_nav">Media Support</a>
-			<div class="dropdown">
-				<ul>
-					<li><a href="/mediasupport/default.asp?source=global_nav">Media Support Home</a></li>
-					<li class="sub">
-                    	<img src="/Atmel/img/interface/li_dash.gif" width="3" height="1" class="sub_image" />
-                        <span>Press Room</span>
-						<div class="dropdown">
-							<ul>
-								<li><a href="/dyn/corporate/mediasupport.asp?SEC_NAME=Corporate&source=global_nav">Corporate Releases</a></li>
-								<li><a href="/dyn/corporate/mediasupport.asp?SEC_NAME=Product&source=global_nav">Product Releases</a></li>
-								<li><a href="/dyn/corporate/mediasupport.asp?SEC_NAME=Technical%20News%20Brief&source=global_nav">Technical News Briefs</a></li>
-							</ul>
-						</div>
-					</li>
-					<li><a href="/mediasupport/industry_analyst.asp?source=global_nav">Industry Analyst Room</a></li>
-					<li><a href="/mediasupport/speakers_bureau.asp?source=global_nav">Speakers Bureau</a></li>
-					<li><a href="/mediasupport/atmel_news.asp?source=global_nav">Atmel in the News</a></li>
-				</ul>
-			</div>
-		</li>
-		<li class="careers"><a href="/careers/?source=global_nav">Careers</a>
-			<div class="dropdown">                  
-				<ul>
-					<li><a href="/careers/jobs.asp?source=global_nav">Job Openings</a></li>
-					<li><a href="/careers/benefit.asp?source=global_nav">Benefits Package</a></li>
-				</ul>					
-			</div>
-		</li>-->
-		<li class="contactus"><a href="/contacts/?source=global_nav">Contact Us</a>
-			<div class="dropdown">                  
-				<ul>
-					<li><a href="/contacts/?source=global_nav">Sales Support</a></li>
-					<li><a href="/dyn/products/support.asp?source=global_nav">Technical Support</a></li>
-				</ul>					
-			</div>
-		</li>
-	</ul>
-</div>
+                                <div class="groupheader"><a href="/System/Redirect.aspx?dest=/applications/automotive/default.asp&amp;AppID=970&amp;source=global_nav">Automotive</a></div>
+                                <ul>
+                                    <li><a href="/System/Redirect.aspx?dest=/applications/automotive/automotive_control.asp&amp;AppID=970&amp;subAppID=5046&amp;source=global_nav">Automotive Control</a></li>
+                                    <li><a href="/System/Redirect.aspx?dest=/applications/automotive/battery_mgmt.asp&amp;AppID=970&amp;subAppID=5047&amp;source=global_nav">Battery Management</a></li>
+                                    <li><a href="/System/Redirect.aspx?dest=/applications/automotive/car_access.asp&amp;AppID=970&amp;subAppID=5048&amp;source=global_nav">Car Access</a></li>
+                                    <li><a href="/System/Redirect.aspx?dest=/applications/automotive/infotainment.asp&amp;AppID=970&amp;subAppID=5049&amp;source=global_nav">Infotainment</a></li>
+
+                                    <li><a href="/System/Redirect.aspx?dest=/applications/automotive/networking.asp&amp;AppID=970&amp;subAppID=5050&amp;source=global_nav">Networking</a></li>
+                                    <li><a href="/System/Redirect.aspx?dest=/applications/automotive/microcontrollers.asp&amp;AppID=970&amp;subAppID=5056&amp;source=global_nav">Microcontrollers</a></li>
+                                    <li><a href="/System/Redirect.aspx?dest=/applications/automotive/motor_control_systems.asp&amp;AppID=970&amp;subAppID=5057&amp;source=global_nav">Motor Control Systems</a></li>
+                                </ul>
+                                <div class="groupheader"><a href="/System/Redirect.aspx?dest=/applications/building_automation/default.asp&amp;AppID=1041&amp;source=global_nav">Building Automation</a></div>
+                                <ul>
+                                    <li><a href="/System/Redirect.aspx?dest=/applications/building_automation/fire_security.asp&amp;AppID=1041&amp;subAppID=5019&amp;source=global_nav">Fire and Security</a></li>
+
+                                    <li><a href="/System/Redirect.aspx?dest=/applications/building_automation/comfort_control.asp&amp;AppID=1041&amp;subAppID=5020&amp;source=global_nav">Comfort and Control</a></li>
+                                    <li><a href="/System/Redirect.aspx?dest=/applications/building_automation/telecare.asp&amp;AppID=1041&amp;subAppID=5021&amp;source=global_nav">Telecare</a></li>
+                        	        <li style="clear:both">&nbsp;</li>
+                                    <li style="clear:both">&nbsp;</li>
+                                </ul>
+                                <div class="groupheader"><a href="/System/Redirect.aspx?dest=/applications/home_appliances/default.asp&amp;AppID=1040&amp;source=global_nav">Home Appliances</a></div>
+                                <ul>
+
+                                    <li><a href="/System/Redirect.aspx?dest=/applications/home_appliances/refrigeration.asp&amp;AppID=1040&amp;subAppID=5028&amp;source=global_nav">Refrigeration&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></li>
+                                    <li><a href="/System/Redirect.aspx?dest=/applications/home_appliances/cooking_appliances.asp&amp;AppID=1040&amp;subAppID=5026&amp;source=global_nav">Cooking&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></li>
+                                    <li><a href="/System/Redirect.aspx?dest=/applications/home_appliances/washing_appliances.asp&amp;AppID=1040&amp;subAppID=5025&amp;source=global_nav">Washing&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></li>
+                                    <li><a href="/System/Redirect.aspx?dest=/applications/home_appliances/motor_control.asp&amp;AppID=1040&amp;subAppID=5042&amp;source=global_nav">Motor Control</a></li>
+                                </ul>
+                            </div>
+                            <div class="groupleft">
+
+                    	        <div class="groupheader"><a href="/System/Redirect.aspx?dest=/applications/home_entertainment/default.asp&amp;AppID=2177&amp;source=global_nav">Home Entertainment</a></div>
+                                <ul>
+                                    <li><a href="/System/Redirect.aspx?dest=/applications/home_entertainment/audio.asp&amp;AppID=2177&amp;subAppID=5008&amp;source=global_nav">Audio&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></li>
+                                    <li><a href="/System/Redirect.aspx?dest=/applications/home_entertainment/video.asp&amp;AppID=2177&amp;subAppID=5010&amp;source=global_nav">Video</a></li>
+                                    <li><a href="/System/Redirect.aspx?dest=/applications/home_entertainment/remote_controls.asp&amp;AppID=2177&amp;subAppID=5011&amp;source=global_nav">Remote Controls</a></li>
+                                    <li style="clear:both">&nbsp;</li>
+                                    <li style="clear:both">&nbsp;</li>
+
+                                    <li style="clear:both">&nbsp;</li>
+                                    <li style="clear:both">&nbsp;</li>
+                                    <li style="clear:both">&nbsp;</li>
+                                </ul>
+                                <div class="groupheader"><a href="/System/Redirect.aspx?dest=/applications/industrial_automation/default.asp&amp;AppID=2178&amp;source=global_nav">Industrial Automation</a></div>
+                                <ul>
+                                    <li><a href="/System/Redirect.aspx?dest=/applications/industrial_automation/human_machine_interface.asp&amp;AppID=2178&amp;subAppID=5037&amp;source=global_nav">Human Machine Interface</a></li>
+                                    <li><a href="/System/Redirect.aspx?dest=/applications/industrial_automation/plc_io_modules.asp&amp;AppID=2178&amp;subAppID=5039&amp;source=global_nav">PLC and I/O Modules</a></li>
+
+                                    <li><a href="/System/Redirect.aspx?dest=/applications/industrial_automation/sensors.asp&amp;AppID=2178&amp;subAppID=5040&amp;source=global_nav">Sensors&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></li>
+                                    <li><a href="/System/Redirect.aspx?dest=/applications/industrial_automation/instruments.asp&amp;AppID=2178&amp;subAppID=5041&amp;source=global_nav">Instruments</a></li>
+                                    <li><a href="/System/Redirect.aspx?dest=/applications/industrial_automation/industrial_communications.asp&amp;AppID=2178&amp;subAppID=5055&amp;source=global_nav">Industrial Communications</a></li>
+                        	        <li style="clear:both">&nbsp;</li>
+                                    <li style="clear:both">&nbsp;</li>
+                                </ul>
+                                <div class="groupheader"><a href="/System/Redirect.aspx?dest=/applications/lighting/default.asp&amp;AppID=2180&amp;source=global_nav">Lighting</a></div>
+
+                                <ul>
+                                    <li><a href="/System/Redirect.aspx?dest=/applications/lighting/fluorescent_ballasts.asp&amp;AppID=2180&amp;subAppID=5033&amp;source=global_nav">Fluorescent Ballasts</a></li>
+                                    <li><a href="/System/Redirect.aspx?dest=/applications/lighting/hid_ballasts.asp&amp;AppID=2180&amp;subAppID=5034&amp;source=global_nav">HID Ballasts</a></li>
+                                    <li><a href="/System/Redirect.aspx?dest=/applications/lighting/led_ballasts.asp&amp;AppID=2180&amp;subAppID=5035&amp;source=global_nav">LED Ballasts</a></li>
+                                    <li><a href="/System/Redirect.aspx?dest=/applications/lighting/lighting_control.asp&amp;AppID=2180&amp;subAppID=5036&amp;source=global_nav">Lighting Control</a></li>
+                                </ul>               
+                            </div>
+
+                            <div class="groupleft">
+                    	        <div class="groupheader"><a href="/System/Redirect.aspx?dest=/applications/metering/default.asp&amp;AppID=1024&amp;source=global_nav">Metering</a></div>
+                                <ul>
+                                    <li><a href="/System/Redirect.aspx?dest=/applications/metering/electricity_meters.asp&amp;AppID=1024&amp;subAppID=5051&amp;source=global_nav">Electricity Meters</a></li>
+                                    <li><a href="/System/Redirect.aspx?dest=/applications/metering/gas_water_meters.asp&amp;AppID=1024&amp;subAppID=5052&amp;source=global_nav">Gas and Water Meters</a></li>
+                                    <li><a href="/System/Redirect.aspx?dest=/applications/metering/data_concentrators.asp&amp;AppID=1024&amp;subAppID=5053&amp;source=global_nav">Data Concentrators</a></li>
+                                    <li><a href="/System/Redirect.aspx?dest=/applications/metering/in-home_display_units.asp&amp;AppID=1024&amp;subAppID=5054&amp;source=global_nav">In-Home Display Units</a></li>
+
+                                </ul>
+                                <div class="groupheader"><a href="/System/Redirect.aspx?dest=/applications/mobile_electronics/default.asp&amp;AppID=2181&amp;source=global_nav">Mobile Electronics</a></div>
+                                <ul>
+                                    <li><a href="/System/Redirect.aspx?dest=/applications/mobile_electronics/mobile_phones_internet_devices.asp&amp;AppID=2181&amp;subAppID=5000&amp;source=global_nav">Mobile Phones and Devices</a></li>
+                                    <li><a href="/System/Redirect.aspx?dest=/applications/mobile_electronics/portable_game_consoles.asp&amp;AppID=2181&amp;subAppID=5001&amp;source=global_nav">Portable Game Consoles</a></li>
+                                    <li><a href="/System/Redirect.aspx?dest=/applications/mobile_electronics/automotive_gps.asp&amp;AppID=2181&amp;subAppID=5003&amp;source=global_nav">Automotive&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></li>
+                                    <li><a href="/System/Redirect.aspx?dest=/applications/mobile_electronics/cameras.asp&amp;AppID=2181&amp;subAppID=5004&amp;source=global_nav">Cameras&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></li>
+
+                                    <li><a href="/System/Redirect.aspx?dest=/applications/mobile_electronics/netbooks.asp&amp;AppID=2181&amp;subAppID=5005&amp;source=global_nav">Netbooks&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></li>
+                                    <li><a href="/System/Redirect.aspx?dest=/applications/mobile_electronics/pdas.asp&amp;AppID=2181&amp;subAppID=5006&amp;source=global_nav">PDAs</a></li>
+                                    <li><a href="/System/Redirect.aspx?dest=/applications/mobile_electronics/portable_audio_players.asp&amp;AppID=2181&amp;subAppID=5013&amp;source=global_nav">Portable Audio Players</a></li>
+                                </ul>
+                                <div class="groupheader"><a href="/System/Redirect.aspx?dest=/applications/pc_peripherals/default.asp&amp;AppID=1083&amp;source=global_nav">PC Peripherals</a></div>
+                                <ul>
+                                    <li><a href="/System/Redirect.aspx?dest=/applications/pc_peripherals/small_io_devices.asp&amp;AppID=1083&amp;subAppID=5014&amp;source=global_nav">Small I/O Devices</a></li>
+
+                                    <li><a href="/System/Redirect.aspx?dest=/applications/pc_peripherals/large_io_devices.asp&amp;AppID=1083&amp;subAppID=5015&amp;source=global_nav">Large I/O Devices</a></li>
+                                    <li><a href="/System/Redirect.aspx?dest=/applications/pc_peripherals/audio_io_devices.asp&amp;AppID=1083&amp;subAppID=5016&amp;source=global_nav">Audio I/O Devices</a></li>
+                                    <li><a href="/System/Redirect.aspx?dest=/applications/pc_peripherals/mass_storage_devices.asp&amp;AppID=1083&amp;subAppID=5017&amp;source=global_nav">Mass Storage Devices</a></li>
+                                    <li><a href="/System/Redirect.aspx?dest=/applications/pc_peripherals/pc_accessories.asp&amp;AppID=1083&amp;subAppID=5018&amp;source=global_nav">PC Accessories</a></li>
+                                </ul>
+                            </div>
+                        </div>
+
+                    </li>
+
+                    
+                    <li class="fixed">
+  <a data-filter="corners" href="/technologies/hubpage.aspx" class="technologies" style="position: relative;">Technologies<i class="corner top-left"></i><i class="corner top-right"></i></a>
+  <div class="content" id="technologies-menu">
+    <div class="group">
+      <div class="groupheader">
+      </div>
+      <ul>
+        <li>
+          <a href="/technologies/lowpower/default.aspx">Low Power</a>
+        </li>
+        <li>
+          <a href="/technologies/high_performance/default.aspx">High Performance</a>
+        </li>
+        <li>
+          <a href="/technologies/touch/default.aspx">Touch</a>
+        </li>
+        <li>
+          <a href="/technologies/wireless/default.aspx">Wireless</a>
+        </li>
+        <li>
+          <a href="/technologies/cpu_core/default.aspx">CPU Core</a>
+        </li>
+        <li>
+          <a href="/technologies/secure_technology/default.aspx">Secure Technology</a>
+        </li>
+      </ul>
+    </div>
+    <div class="groupleft">
+    </div>
+    <div class="groupleft">
+    </div>
+  </div>
+</li>
+<li class="fixed">
+  <a data-filter="corners" href="/video/default.aspx" class="video" style="position: relative;">Video<i class="corner top-left"></i><i class="corner top-right"></i></a>
+</li>
+<li class="fixed">
+  <a data-filter="corners" href="/about/corporate/default.aspx" class="active" style="position: relative;">About Atmel<i class="corner top-left"></i><i class="corner top-right"></i></a>
+  <div class="content" id="about_atmel-menu">
+    <div class="group">
+      <div class="groupheader">
+        <a href="/about/corporate/default.aspx">Corporate</a>
+      </div>
+      <ul>
+        <li>
+          <a href="/about/corporate/factsheet.aspx">Fact Sheet</a>
+        </li>
+        <li>
+          <a href="/about/corporate/awards.aspx">Awards and Recognition</a>
+        </li>
+        <li>
+          <a href="/about/corporate/events/default.aspx">Events</a>
+        </li>
+        <li>
+          <a href="/about/corporate/webinars/default.aspx">Webinars</a>
+        </li>
+      </ul>
+      <div class="groupheader">
+        <a href="/system/redirect.aspx?dest=/mediasupport/default.asp?source=global_nav">Press Room</a>
+      </div>
+      <ul>
+        <li>
+          <a href="/system/redirect.aspx?dest=/dyn/corporate/mediasupport.asp&amp;SEC_NAME=Corporate&amp;source=global_nav">Corporate Releases</a>
+        </li>
+        <li>
+          <a href="/system/redirect.aspx?dest=/dyn/corporate/mediasupport.asp&amp;SEC_NAME=Product">Product Releases</a>
+        </li>
+        <li>
+          <a href="/system/redirect.aspx?dest=/dyn/corporate/mediasupport.asp&amp;SEC_NAME=Technical%20News%20Brief&amp;PR=Archive">Technical News Briefs</a>
+        </li>
+        <li>
+          <a href="/system/redirect.aspx?dest=/mediasupport/speakers_bureau.asp">Speakers Bureau</a>
+        </li>
+        <li>
+          <a href="/about/news/default.aspx">Atmel in the News</a>
+        </li>
+      </ul>
+    </div>
+    <div class="groupleft">
+      <div class="groupheader">
+        <a href="/about/contact/default.aspx?contactType=Online%20Directory">Contact Atmel</a>
+      </div>
+      <ul>
+        <li>
+          <a href="/about/contact/default.aspx?contactType=Atmel%20Sales%20Office">Sales Offices</a>
+        </li>
+        <li>
+          <a href="/about/contact/default.aspx?contactType=Distributor">Distributors and Sales Reps</a>
+        </li>
+      </ul>
+      <div class="groupheader">
+        <a href="http://ir.atmel.com/index.cfm?source=global_nav">Investors</a>
+      </div>
+      <ul>
+        <li>
+          <a href="http://ir.atmel.com/events.cfm">Events and Webcasts</a>
+        </li>
+        <li>
+          <a href="http://ir.atmel.com/releases.cfm">Press Releases</a>
+        </li>
+        <li>
+          <a href="http://ir.atmel.com/stockquote.cfm">Stock Information</a>
+        </li>
+        <li>
+          <a href="http://ir.atmel.com/faq.cfm">FAQs</a>
+        </li>
+        <li>
+          <a href="http://ir.atmel.com/sec.cfm">SEC Filings</a>
+        </li>
+        <li>
+          <a href="http://ir.atmel.com/governance.cfm">Corporate Governance</a>
+        </li>
+        <li>
+          <a href="http://ir.atmel.com/management.cfm">Executive Profiles</a>
+        </li>
+        <li>
+          <a href="http://ir.atmel.com/directors.cfm">Board of Directors</a>
+        </li>
+      </ul>
+    </div>
+    <div class="groupleft">
+      <div class="groupheader">
+        <a href="/about/careers/careers.aspx">Careers</a>
+      </div>
+      <ul>
+        <li>
+          <a href="https://performancemanager4.successfactors.com/career?company=Atmel">Job Openings</a>
+        </li>
+      </ul>
+      <div class="groupheader">
+        <a href="/about/quality/default.aspx">Quality</a>
+      </div>
+      <ul>
+        <li>
+          <a href="/system/redirect.aspx?dest=/quality/quality_contact.asp">Quality Inquiry</a>
+        </li>
+        <li>
+          <a href="/images/atmelqualityhandbook.pdf">Quality Handbook</a>
+        </li>
+        <li>
+          <a href="/about/quality/green.aspx">Green Packaging</a>
+        </li>
+        <li>
+          <a href="/about/quality/package.aspx">Package Material</a>
+        </li>
+        <li>
+          <a href="/about/quality/environmental.aspx">Environmental Information</a>
+        </li>
+        <li>
+          <a href="/about/quality/certificates.aspx">Quality and Environment Certificates</a>
+        </li>
+        <li>
+          <a href="/about/quality/rma.aspx">RMA and FA Information</a>
+        </li>
+        <li>
+          <a href="/about/quality/reliability.aspx">Reliability Information</a>
+        </li>
+        <li>
+          <a href="/about/quality/obsolescence.aspx">Obsolescence Information</a>
+        </li>
+        <li>
+          <a href="/about/quality/faq.aspx">FAQ Response Summary</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</li>
+<li class="fixed">
+  <a data-filter="corners" href="/buy/default.aspx" class="buy" style="position: relative;">Buy<i class="corner top-left"></i><i class="corner top-right"></i></a>
+</li>
+                </ul>
+            </div>
+        </div>
+        
+        
+    <div id="content">
+        <div id="left-column">
+            
+            
+
+     
 
 
-    	</div><!-- /header -->
-         <div id="topContainer">
-            <div id="breadcrumbs">Atmel Corporation - Privacy Policy</div>
-        	<div id="title" class="floatleft">Atmel Corporation - Privacy Policy</div><!-- /Title -->
-            <div id="secondaryNav"><!--include virtual="/dyn/include/getSecondaryNavigation.asp"--></div><!-- /secondaryNav -->
-            <img src="/images/homepage_new/general/banner_legal.jpg" width="909" height="130" alt="Atmel Legal Information">
-        </div><!-- /Top Container -->
+&nbsp;
+ 
 
-		<div id="content">
-			
-			<div id="sidebar" class="floatleft">     
-				<div id="navmenu"><!--include virtual="/dyn/include/homepage_menu/legal_menu.asp" --></div><!-- /navmenu -->
-			</div><!-- /sidebar -->
+        </div>
+        <div id="content-page">
+            
+            
+            
+            
+            <div class="single-column article">
+                
 
-			<div id="full_maincontent">
-				<h2><a name="scope" id="scope"></a>SCOPE</h2>
-				<p><strong>This statement applies to Atmel Web Sites Worldwide.</strong><br>
-				Your privacy is important to Atmel. This statement discloses the information practices for Atmel Web sites, including the collection and use of personal information that may be collected by 
-				Atmel anytime you interact with Atmel, such as when you visit our website, when you purchase Atmel products, literature and/or services, or when you call our sales or support associates. 
-				Please take a moment to read the following to learn more about our information practices, including what type of information is gathered, how the information is used and for what purposes, 
-				to whom we disclose the information, and how we safeguard your personal information.</p>
-				<h2><a name="collect"></a>COLLECTION, USE AND SHARING OF YOUR PERSONAL INFORMATION</h2>
-				<p>Atmel collects personal information online as necessary to enable individuals to register for, customize and personalize certain of Atmel's online resources, communications and in connection with a job application or inquiry. Atmel uses personal information collected online to provide products, services (e.g. newsletters, journals, etc.), questionnaires, contests and features that individuals may have requested, such as educational literature and related information about Atmel's business and product resources.</p>
-				<p>Personal information about you will be accessible to Atmel, including its affiliates, subsidiaries and groups worldwide, and to individuals and organizations that use personal information solely for and at the direction of Atmel.</p>
-				<p>You may choose not to provide any personal information to Atmel online by electing not to enter any personal information into a form or data field on our Web sites, and by not using any personalized services provided by our online resources.</p>
-				<h2><a name="security"></a>SECURITY OF YOUR PERSONAL INFORMATION</h2>
-				<p>Atmel is committed to protecting the security of your personal information. We use a variety of security measures and procedures to help protect your personal information from unauthorized access, use, or disclosure. For example, we store the personal information you provide using a secured database system. As such, only Atmel authorized personnel will have access to personal information.</p>
-				<h2><a name="protect"></a>PROTECTION OF CHILDREN'S PERSONAL INFORMATION</h2>
-				<p>Atmel is a general audience Site and does not knowingly collect any personal information from children under the age of 13.</p>
-				<h2><a name="cookie"></a>USE OF COOKIES</h2>
-				<p>This Site uses a technology called cookies. A cookie is a small text file that is placed on your hard disk by a Web page server. Cookies help provide additional functionality to the Site or help us analyze usage of the Site more accurately. In all cases which cookies are used, we will not collect personally identifiable information without your explicit permission. The only personally identifiable information Atmel collects is the information you voluntarily provide. You have the ability to accept or decline cookies. Most Web Browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies, or receive a warning before a cookie is stored, if you prefer. Please refer to your Internet Browser's instructions or help screen to learn more about these functions. If you choose to decline cookies, you may not able to fully experience the interactive features of this Site or any other web sites that you visit.</p>
-				<h2><a name="links"></a>LINKS TO NON-ATMEL WEB SITES</h2>
-				<p>This Website contains links to other websites. Please be aware that Atmel is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our Site and to read the privacy statements of each and every web site that collects personally identifiable information.</p>
-				<h2><a name="consent"></a>YOUR CONSENT</h2>
-				<p>Personal information collected on the Site may be stored and processed in the United States or any other country in which Atmel or its affiliates, subsidiaries or agents maintain facilities, and by using the Site, you consent to any such transfer of information outside of your country.</p>
-				<h2><a name="changes"></a>CHANGES TO THIS STATEMENT</h2>
-				<p>Atmel may update this privacy statement at its discretion. We encourage you to periodically review this privacy statement to stay informed about how we are helping to protect the personal information we collect.</p>
-				<h2><a name="disclosures"></a>DISCLOSURES REQUIRED BY LAW</h2>
-				<p>Please be aware that in certain circumstances, it is possible that personal information may be subject to disclosure pursuant to judicial or other government subpoenas, warrants, or orders.</p>
-				<h2><a name="contact"></a>CONTACT INFORMATION</h2>
-				<p>Atmel welcomes your comments regarding this privacy statement including requests to update your personal information or removal from our database. Please direct any questions or concerns to the following contact information provided below:</p>
-				<p align="center"><a href="mailto:Webmaster@atmel.com">Webmaster@atmel.com</a><br>Atmel Corporation<br>Legal Department/Privacy Compliance<br>2325 Orchard Parkway<br>San Jose, California 95131</p>
-				<p>Privacy Policy , ©2008 Atmel Corporation. Website contents, ©1998 - 2008 Atmel Corporation. All rights reserved. Atmel Corporation, 2325 Orchard Parkway, San Jose, California 95131, USA.</p>      
-			</div><!-- /main --> 
+     
+  
+
+                
+
+    
+        <!-- Start:Article -->
+<h1>Atmel Corporation - Privacy Policy</h1>
+
+<h2>Privacy Policy</h2>
+
+
+
+<!-- Start:Article - Anchor Links -->
+<ul>
+    
+    
+    
+</ul>
+<!-- End:Article - Anchor Links -->
+
+
+<a name="body_0"></a>
+
+
+<p></p><h2>SCOPE</h2><p>This statement applies to Atmel Web Sites Worldwide.
+<br>
+Your privacy is important to Atmel. This statement discloses the information practices for Atmel Web sites, including the collection and use of personal information that may be collected by Atmel anytime you interact with Atmel, such as when you visit our website, when you purchase Atmel products, literature and/or services, or when you call our sales or support associates. Please take a moment to read the following to learn more about our information practices, including what type of information is gathered, how the information is used and for what purposes, to whom we disclose the information, and how we safeguard your personal information.
+<br></p><h2>COLLECTION, USE AND SHARING OF YOUR PERSONAL INFORMATION</h2><p>Atmel collects personal information online as necessary to enable individuals to register for, customize and personalize certain of Atmel's online resources, communications and in connection with a job application or inquiry. Atmel uses personal information collected online to provide products, services (e.g. newsletters, journals, etc.), questionnaires, contests and features that individuals may have requested, such as educational literature and related information about Atmel's business and product resources.</p><p>Personal information about you will be accessible to Atmel, including its affiliates, subsidiaries and groups worldwide, and to individuals and organizations that use personal information solely for and at the direction of Atmel.</p><p>You may choose not to provide any personal information to Atmel online by electing not to enter any personal information into a form or data field on our Web sites, and by not using any personalized services provided by our online resources.
+<br>
+SECURITY OF YOUR PERSONAL INFORMATION</p><p>Atmel is committed to protecting the security of your personal information. We use a variety of security measures and procedures to help protect your personal information from unauthorized access, use, or disclosure. For example, we store the personal information you provide using a secured database system. As such, only Atmel authorized personnel will have access to personal information.</p><h2><br>
+PROTECTION OF CHILDREN'S PERSONAL INFORMATION</h2><p>Atmel is a general audience Site and does not knowingly collect any personal information from children under the age of 13.
+<br></p><h2>USE OF COOKIES</h2><p>This Site uses a technology called cookies. A cookie is a small text file that is placed on your hard disk by a Web page server. Cookies help provide additional functionality to the Site or help us analyze usage of the Site more accurately. In all cases which cookies are used, we will not collect personally identifiable information without your explicit permission. The only personally identifiable information Atmel collects is the information you voluntarily provide. You have the ability to accept or decline cookies. Most Web Browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies, or receive a warning before a cookie is stored, if you prefer. Please refer to your Internet Browser's instructions or help screen to learn more about these functions. If you choose to decline cookies, you may not able to fully experience the interactive features of this Site or any other web sites that you visit.
+<br></p><h2>LINKS TO NON-ATMEL WEB SITES</h2><p>This Website contains links to other websites. Please be aware that Atmel is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our Site and to read the privacy statements of each and every web site that collects personally identifiable information.
+<br></p><h2>YOUR CONSENT</h2><p>Personal information collected on the Site may be stored and processed in the United States or any other country in which Atmel or its affiliates, subsidiaries or agents maintain facilities, and by using the Site, you consent to any such transfer of information outside of your country.
+<br></p><h2>CHANGES TO THIS STATEMENT</h2><p>Atmel may update this privacy statement at its discretion. We encourage you to periodically review this privacy statement to stay informed about how we are helping to protect the personal information we collect.
+<br></p><h2>DISCLOSURES REQUIRED BY LAW</h2><p>Please be aware that in certain circumstances, it is possible that personal information may be subject to disclosure pursuant to judicial or other government subpoenas, warrants, or orders.
+<br>
+CONTACT INFORMATION</p><p>Atmel welcomes your comments regarding this privacy statement including requests to update your personal information or removal from our database. Please direct any questions or concerns to the following contact information provided below:</p><p><a href="mailto:Webmaster@atmel.com">Webmaster@atmel.com</a><br>
+Atmel Corporation
+<br>
+Legal Department/Privacy Compliance
+<br>
+2325 Orchard Parkway
+<br>
+San Jose, California 95131</p><p>Privacy Policy , ©2011 Atmel Corporation. Website contents, ©1998 - 2011 Atmel Corporation. All rights reserved. Atmel Corporation, 2325 Orchard Parkway, San Jose, California 95131, USA.</p><p></p>
+
+
+<!-- Start:Article - Thumbnails -->
+
+
+
+<!-- End:Article - Thumbnails -->
+<!-- Start:Article - Asset Collection -->
+
+<!-- End:Article - Asset Collection -->
+<p></p>
+<!-- End:Article -->        
+    
+     
+
+
+                
+            </div>
+            <div class="center-column article">
+                
+                
+
+     
+    
+
+
+            </div>
+            <div id="right-column">
+                
+
+    
+    
+    
+  
+
+                
+
+    
+
+
+            </div>
+        </div>
+        <div id="video-content-page">
+            
+
+     
+
+
+        </div>
+    </div>
+
+        
         <div id="footer">
-	<div class="follow">
-    	<div class="floatleft">
-        	<strong>Follow Atmel</strong>&nbsp;
-            <a href="/externallinks/facebook.htm?source=footer" target="_blank">
-                <img src="/dyn/images/menu/facebook.png" alt="facebook" align="absmiddle" border="0"></a>&nbsp;
-            <a href="/externallinks/twitter.htm?source=footer" target="_blank">
-                <img src="/dyn/images/menu/twitter.png" alt="twitter" align="absmiddle" border="0"></a>&nbsp;
-            <a href="/externallinks/linkedin.htm?source=footer" target="_blank">
-                <img src="/dyn/images/menu/linkedin.png" alt="linkedIn" align="absmiddle" border="0"></a>&nbsp;
-            <a href="/externallinks/youtube.htm?source=footer" target="_blank">
-                <img src="/dyn/images/menu/youtube.png" alt="youtube" align="absmiddle" border="0"></a>&nbsp;
-                <img src="/dyn/images/menu/vertical_bar.jpg" align="absmiddle" style="padding:0 5px;">&nbsp;
-            <a href="/rss/press_feed.xml?source=footer" target="_blank">
-                <img src="/dyn/images/menu/subscribe.png" alt="Subscribe" border="0" align="absmiddle"></a>&nbsp;
-            <a href="/rss/press_feed.xml?source=footer" target="_blank">Subscribe</a>
-		</div>
-        <div class="floatright" style="padding-top:6px;">
-        	<strong>© 2010 Atmel Corporation.</strong> &nbsp;&nbsp;&nbsp;&nbsp;
-        	<a href="/general/legal_information.asp?source=footer">Legal</a>&nbsp; | &nbsp;
-        	<a href="/general/privacy.asp?source=footer">Privacy</a>&nbsp; | &nbsp;
-        	<a href="/general/terms_conditions_sale.asp?source=footer">Terms &amp; Conditions of Sale</a>&nbsp;&nbsp;
-     	</div>
-	</div>
+            
+                
+            
+                
+                    <div id="footer-social">
+    
+    <a href="http://www.atmel.com/externallinks/facebook.htm?source=footer" target="_blank"><img src="/Images/facebook.png" alt="Facebook"></a>&nbsp;
+    
+    <a href="http://www.atmel.com/externallinks/twitter.htm?source=footer" target="_blank"><img src="/Images/twitter.png" alt="Twitter"></a>&nbsp;
+    
+    <a href="http://www.atmel.com/externallinks/linkedin.htm?source=footer" target="_blank"><img src="/Images/linkedin.png" alt="LinkedIn"></a>&nbsp;
+    
+    <a href="http://www.atmel.com/externallinks/youtube.htm?source=footer" target="_blank"><img src="/Images/youtube.png" alt="YouTube"></a>&nbsp;
+    
+    <a href="http://www.atmel.com/rss/press_feed.xml?source=footer" target="_blank"><img src="/Images/rss.png" alt="RSS"></a>&nbsp;
+    
 </div>
-
-<div class="overlay" id="overlay">
-	<div class="wrap"></div>
-</div>
-
+<div id="footer-meta">
+    <ul>
+        
+        <li><a href="/About/contact/default.aspx?contactType=Online%20Directory">Contact</a></li>
+        
+        <li><a href="https://performancemanager4.successfactors.com/career?company=Atmel" target="_blank">Jobs</a></li>
+        
+        <li><a href="/About/legal.aspx">Site Use Terms</a></li>
+        
+        <li><a href="/About/privacy.aspx">Privacy</a></li>
+        
+        <li><a href="/About/terms.aspx">Sales Terms</a></li>
+        
+        <li>© 2011 Atmel Corporation</li>
+    </ul>
+</div>                
+            
+        </div>
+        <div id="footer">
+            <div id="footer-products"> 
+    	        <p><a href="/System/Redirect.aspx?dest=/products/overview_mcu.asp&amp;category_id=163&amp;source=super_footer" class="products">Products</a></p>
+    	        <ul> 
+                    <li><a href="/System/Redirect.aspx?dest=/products/overview_mcu.asp&amp;category_id=163&amp;source=super_footer">Microcontrollers</a></li> 
+                    <li><a href="/System/Redirect.aspx?dest=/products/overview_touch.asp&amp;category_id=170&amp;source=super_footer">Touch Solutions</a></li> 
+                    <li><a href="/System/Redirect.aspx?dest=/products/overview_memory.asp&amp;category_id=162&amp;source=super_footer">Memory</a></li>
+                    <li><a href="/System/Redirect.aspx?dest=/products/overview_automotive.asp&amp;category_id=154&amp;source=super_footer">Automotive Solutions</a></li> 
+                    <li><a href="/System/Redirect.aspx?dest=/products/overview_wireless.asp&amp;category_id=171&amp;source=super_footer">Wireless Solutions</a></li> 
+                    <li><a href="/System/Redirect.aspx?dest=/products/overview_other.asp&amp;category_id=172&amp;source=super_footer">More Products</a></li>
+                </ul>	
+            </div>
+            <div id="footer-applications"> 
+    	        <p><a href="/System/Redirect.aspx?dest=/applications/automotive/default.asp&amp;AppID=970&amp;source=super_footer" class="applications">Applications</a></p>
+    	        <ul> 
+                    <li><a href="/System/Redirect.aspx?dest=/applications/automotive/default.asp&amp;AppID=970&amp;source=super_footer">Automotive</a></li> 
+                    <li><a href="/System/Redirect.aspx?dest=/applications/building_automation/default.asp&amp;AppID=1041&amp;source=super_footer">Building Automation</a></li> 
+                    <li><a href="/System/Redirect.aspx?dest=/applications/home_appliances/default.asp&amp;AppID=1040&amp;source=super_footer">Home Appliances</a></li> 
+                    <li><a href="/System/Redirect.aspx?dest=/applications/home_entertainment/default.asp&amp;AppID=2177&amp;source=super_footer">Home Entertainment</a></li> 
+                    <li><a href="/System/Redirect.aspx?dest=/applications/industrial_automation/default.asp&amp;AppID=2178&amp;source=super_footer">Industrial Automation</a></li>
+                    <li><a href="/System/Redirect.aspx?dest=/applications/lighting/default.asp&amp;AppID=2180&amp;source=super_footer">Lighting</a></li>
+                    <li><a href="/System/Redirect.aspx?dest=/applications/metering/default.asp&amp;AppID=1024&amp;source=super_footer">Metering</a></li>
+                    <li><a href="/System/Redirect.aspx?dest=/applications/mobile_electronics/default.asp&amp;AppID=2181&amp;source=super_footer">Mobile Electronics</a></li>
+                    <li><a href="/System/Redirect.aspx?dest=/applications/pc_peripherals/default.asp&amp;AppID=1083&amp;source=super_footer">PC Peripherals</a></li>
+                </ul>	
+            </div>
+            <div id="footer-technology"> 
+    	        <p><a href="/Technologies/hubpage.aspx">Technologies</a></p>
+    	        <ul> 
+                    <li><a href="/Technologies/lowpower/default.aspx">Low Power</a></li> 
+                    <li><a href="/Technologies/high_performance/default.aspx">High Performance</a></li>
+          	        <li><a href="/Technologies/touch/default.aspx">Touch</a></li>
+          	        <li><a href="/Technologies/wireless/default.aspx">Wireless</a></li>
+          	        <li><a href="/Technologies/cpu_core/default.aspx">CPU Core</a></li>
+          	        <li><a href="/Technologies/secure_technology/default.aspx">Secure Technology</a></li>
+                </ul>	
+            </div>
+            <div id="footer-about"> 
+    	        <p><a href="/About/corporate/default.aspx">About Atmel</a></p>
+    	        <ul> 
+                    <li><a href="/System/Redirect.aspx?dest=/mediasupport/default.asp&amp;source=super_footer">Press Room</a></li> 
+                    <li><a href="http://ir.atmel.com/index.cfm">Investors</a></li>
+          	        <li><a href="/About/careers/careers.aspx">Careers</a></li>
+          	        <li><a href="/About/Quality/default.aspx">Quality</a></li>
+                </ul>	
+            </div>
+            <div id="footer-contact"> 
+    	        <p><a href="/About/contact/default.aspx?contactType=Online%20Directory">Contact Atmel</a></p>
+    	        <ul> 
+                    <li><a href="/Buy/default.aspx">Buy</a></li>
+                    <li><a href="http://store.atmel.com/ShoppingCart.aspx?source=super_footer">Atmel Store</a></li>
+                    <li><a href="http://support.atmel.no/bin/customer.exe">Support</a></li>
+                    <li><a href="/About/community.aspx?source=super_footer">Community</a></li>
+                </ul>	
+            </div>
+            <div class="overlay" id="overlay">
+                <div class="wrap"></div>
+            </div>
+        </div>
+    </div>
+    
+    
+          <script type="text/javascript" src="/System/JavaScript/jquery-1.4.1.js"></script>          
+          <script type="text/javascript" src="/System/JavaScript/mootools.js"></script>
+          <script type="text/javascript" src="/System/JavaScript/filters.js"></script>
+      
+    
+    
+    
+<!-- Raj: 04/11 Added Optify Tracking Code -->
+<!-- Begin Optify Tracking Code. Please place immediately before closing </BODY> tag -->
 <script type="text/javascript">
-	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-	try {
-	var pageTracker = _gat._getTracker("UA-2587932-1");
-	pageTracker._trackPageview();
-	//creates an event tracker object with the name "Mailto Events"
-	var exitTracker = pageTracker._createEventTracker('Mailto Events');
-	} catch(err) {}
-</script>
-	</div><!-- /content -->
-</div><!-- /wrapper -->
+var optJsHost = (("https:" == document.location.protocol) ? "https://" : "http://");
+document.write(unescape("%3Cscript src='" + optJsHost + 
+"service.optify.net/opt.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://service.optify.net/opt.js" type="text/javascript"></script>
+<script type="text/javascript"> try { _opt.view("3056O7SQ"); } catch(err) {} </script>
+<!-- End Optify Tracking Code. Please place immediately before closing </BODY> tag -->
 
-</body></html>
+
+<div id="modal-container" style="display: none;"></div><img src="/Images/white.png" id="modal-background" style="display: none;"><div id="modal-close" style="display: none;"></div></body></html>
