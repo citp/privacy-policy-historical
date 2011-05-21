@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sony.co.uk privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229194708id_/http%3A//www.sony.co.uk/section/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sony.co.uk privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521141000id_/http%3A//www.sony.co.uk/section/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -109,6 +109,8 @@ Back to top
 
 Postings on certain Sony websites (whether in chat rooms, on message boards or via other methods of communication within the Forums) will generally be available to, and freely accessible by, other users of Sony Forums. Therefore, users should not expect any information they post to be kept private or confidential and they are encouraged to exercise discretion when using the Sony Forums. Additionally, your member name will always be posted in conjunction with your posting in the Sony Forums.
 
+Sony will also flag in your My Sony account each time you create or reply to a post or thread on a Sony website forum. These flags are used by Sony to better understand the ‘typical users’ of its forums and to select or tailor Sony’s marketing communications to reflect your forum activity. The flags only log the forum name and the time and date of your post or thread. Sony does not use the content of your forum posts or threads for these purposes. 
+
 Back to top
 
 ### 8\. Security of collected data
@@ -175,7 +177,7 @@ Back to top
 
 ### 14\. Contacting us
 
-If you need further assistance or would like to make a comment, please e-mail privacy@eu.sony.com or contact us at the following address: 
+If you need further assistance or would like to make a comment, please contact us at the following address: 
 
 Sony Europe Limited,  
 The Heights,  
@@ -195,9 +197,9 @@ Jays Close
 Viables  
 Basingstoke RG22 4SB  
 Telephone: +44 (0)845 6000 124  
-Last Updated: October 2010
+Last Updated: 2011
 
 Back to top
 
 These Terms and the contents of this site are subject to copyright.  
-© 2010 Sony Europe Limited All Rights Reserved.
+© 2011 Sony Europe Limited All Rights Reserved.
