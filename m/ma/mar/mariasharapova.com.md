@@ -1,62 +1,74 @@
-> *The following text is extracted and transformed from the mariasharapova.com privacy policy that was archived on 2005-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050409203135id_/http%3A//www.mariasharapova.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mariasharapova.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521072732id_/http%3A//www.mariasharapova.com/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Maria Sharapova Fan Club - Privacy Policy
+# Privacy Policy - Maria Sharapova Official Website
 
-MariaSharapova.com is committed to respecting your privacy rights when visiting. To protect your personal information, MariaSharapova.com has adopted the guidelines outlined below. 
+**Privacy Policy**
 
-**Information Collected:**
+This Privacy Policy _( **Policy** )_ sets forth the policies regarding the collection and use of information relating to the official Maria Sharapova web site located at www.mariasharapova.com ****( ** _Site_** ), which is operated by SW19, Inc. _(W **e**_ , or **_us_** _)_.  When we refer to SW19, Inc., we or us, we mean our entire company and all of its affiliated entities.
 
-While visiting MariaSharapova.com, we may ask you to register and/or provide information that personally identifies you for purposes of interacting with the site. Such personal information may include, but is not limited to, your name, age, e-mail address, country of location. On any page that collects personal information, we will specifically describe what information is required in order to provide you with the product or service, as well as respond to your inquiry or comment. 
+**Information We Collect and how we use it**
 
-**What are Cookies?**
+**_Personal Information_** means information that can be used to identify or contact you, such as your name, email address, telephone number or similar information.  SW19, Inc. only collects Personal Information that you choose to share with us, such as when contacting us via the Site (e.g., by clicking on "Contact Us" or "Feedback" links or signing up for notifications or newsletters).
 
-A cookie is an element of data that a web site can send to your browser, which may then be stored on your system. This element of data is a piece of text, not a program. The site can only access the information from a cookie sent by the site. We cannot access other cookies sent by other web sites or the information contained therein. Additionally, we cannot learn your e-mail address or any other information about you through the use of a cookie. The only way we would learn such information is if you specifically and voluntarily submit that information to us, for example, through a registration system, by entering a sweepstakes or promotion, etc.
+Use of Personal Information
 
-**Why does the site use cookies?**
+We may use your Personal Information to send periodic marketing or promotional notices to you or notify you of any changes to this Policy.  We may also use your Personal Information to improve our marketing efforts, statistically evaluate site usage, improve the Site or customize the Site's content, layout and services. You can always opt-out of receiving these communications from us by following the "opt-out" procedures described below.
 
-MariaSharapova.com uses cookies to track usage of the site and further personalize your experience when you are visiting the site. By tracking usage, we can best determine what features of the site best serve the users.  
-**  
-What benefits do I receive from cookies?**
+General
 
-Overall, the use of cookies helps to give you a more personalized experience at the site. The information is used to keep our site fresh and relevant to you the user. Cookies also allow you to avoid retyping your e-mail address and password each time you access the site.
+Any information you provide to SW19, Inc. must be true, accurate, current, non-misleading, and consistent and relevant for the purpose for which you are providing the information.
 
-**May I decline to accept a cookie?**
+If you contact us via the Site, we will only use your Personal Information contained in your email to respond to your specific inquiry or comments in the email.  We may retain your email for a period of time, but will not use any of your Personal Information for any purpose other than responding to your email.
 
-You may decline to accept cookies sent by the site by selecting an option on your browser to reject cookies. However, some portions of the site may require registration in order to access those areas. In such cases, we ask that you register and provide us with basic information on our registration page, or sign in if previously registered. Cookies enable our server to know that you are a registered user; and will eliminate the need for you to log in each time you access our site. In addition, our registration system may require that you accept the cookies from the site in order to access that portion of the site. Other sites linked to the site may also send cookies; however we do not control such activities.  
-****
+Usage Data
 
-**What happens with the information collected in a cookie?**
+The Site may automatically track certain information about your behavior while visiting the Site.  The information gathered includes only the URL from which you accessed this Site, and which URL you visit next.  We may collect and store this aggregate information in order to measure the Site's performance and improve the Site's design and functionality.  We may also share this aggregate information with third parties to illustrate how the Site is used and for other marketing purposes.
 
-The information stored in a cookie is used to identify you to our server, to allow us to personalize your experience on the site, and to serve content and communications that may be of interest to you.
+Cookies
 
- **IP Addresses:**
+The Site may use "cookies" or "session cookies," which is information stored in a browser's memory and passed back to the applicable server whenever a request for a new page on the Site is made.
 
-MariaSharapova.com does log IP addresses, or the location of your computer on the Internet, for systems administration and troubleshooting purposes and to determine site usage.  
-****
+**Use and Disclosure**
 
-**Use of Personal Information:**
+Subject to applicable law, we and our Service Providers (as described below) may disclose your Personal Information:
 
-We believe in protecting your privacy, and will not share personal information with third parties outside of MariaSharapova.com. We believe that we can enhance your experience on our site with the information you share with us. We use personal information about you to improve our advertising and marketing efforts, to statistically analyze site usage, to improve our content an/or product offerings and to personalize the sites content, layout, and services. We may also use your personal information, such as your e-mail address or mailing address, to contact you regarding products and/or services that may be of interest to you, to respond to an inquiry from you regarding the information that we have collected or respond to your comments and suggestions. 
+  * To Maria Sharapova and entities affiliated with SW19, Inc. and/or Maria Sharapova;
+  * To unaffiliated third parties that are under contract to perform services for or on behalf of SW19, Inc. and/or Maria Sharapova ( ** _Service Providers_** ), and are required to uphold and maintain SW19, Inc. policies with respect to privacy and the treatment of your Personal Information (e.g., vendors maintaining our computer databases or performing marketing activities for SW19, Inc. and/or Maria Sharapova);
+  * To other persons as permitted by applicable law or regulation; and
+  * To law enforcement personnel and agencies, or as part of a legal process, in order to protect our property or in furtherance of an investigation regarding a breach of the Site rules and policies, unauthorized access to or use of the Site or any other illegal activities.
 
-**_Under no circumstances MariaSharapova.com will sell you personal information or user database to outside companies._**
 
-However, we reserve the right to disclose personal information when needed to comply with the law or a legal process, cooperate with investigations of purported unlawful activities or to identify persons violating the law. ****
 
- **Childrens Privacy:**
+Any access to such information will be limited to the purpose for which such information was provided to our affiliate, subsidiary or Service Provider.  Our affiliates, subsidiaries and Service Providers may be located throughout the world.  Accordingly, information may be sent worldwide to countries which have a different level of privacy protection than the United States.
 
-MariaSharapova.com cares about the safety of children and their use of the Internet. Therefore, in accordance with the Childrens Online Privacy Protection Act of 1998, we will never knowingly request or solicit personally identifiable information from anyone under the age of 13 without verifiable parental consent. In the event that we receive actual knowledge that we have collected such personal information without the requisite and verifiable parental consent, we will delete that information from our database as quickly as is practical.  
-**  
-Reviewing, Changing and Deleting Your Personal Information:**
+**Consent to Processing**
 
-You may at any time choose to change or modify your profile or disable your account. You should know that as a result of deregistration, certain areas of the forum may no longer be accessible to you.  
-**  
-Security:**
+By using the Site, or providing information to SW19, Inc., you understand and unambiguously consent to the collection, processing, transfer and use of information in the United States and other countries and territories, for the purposes set forth in this Policy.  You hereby consent to the collection, processing and disclosure by SW19, Inc.  of your Personal Information as described under this Policy, including but not limited to the transfer of your Personal Information between SW19, Inc. 's Service Providers, affiliates and subsidiaries in accordance with this Policy.  For further certainty, any consent relating to a right to transfer information referred to in this paragraph shall be deemed to include your consent to the transfer of the applicable Personal Information to a jurisdiction which may have a different level of privacy protection than that available in your own country.
 
-MariaSharapova.com maintains industry standard safeguards to ensure the security, integrity and privacy of the personal information that you provide to us.  
-****
+**Opt-Out Choices**
 
-**Contacting Us:**
+To "opt-out" of (1) receiving communications from SW19, Inc.  (except for communications necessary for your use of the Site), (2) having your Personal Information disclosed to third parties for marketing purposes, or (3) any other consent previously granted for a specific purpose concerning your Personal Information, send an e-mail to SW19, Inc.  at [feedback@mariasharapova.com](mailto:feedback@mariasharapova.com)
 
-If you have any questions or comments about our Privacy Policy, please e-mail us at support //at// mariasharapova.com 
+**Reviewing or Changing Information**
 
-March 1, 2005
+If you have provided Personal Information to us, you may request to review, change or delete your information previously provided to us by sending an e-mail to [feedback@mariasharapova.com](mailto:feedback@mariasharapova.com) Requests for changes to or deletions of your Personal Information should be made by you directly.
+
+**Other Web Sites**
+
+This Policy applies only to www.mariasharapova.com.  This Site includes links to other web sites, including access to content, products and services of such sites ( ** _Other Sites_** ).  In some cases, these Other Sites are made available via "framing technology", and may appear to be part of this Site. Although some of the entities controlling these linked or framed sites may be under contract with SW19, Inc., we urge you to familiarize yourself with the individual privacy and other terms for each linked or framed site prior to submitting your Personal Information.
+
+**Sale or Transfer of Information**
+
+In the event of a sale, merger, liquidation, dissolution, or sale or transfer of substantially all of the assets of SW19, Inc., Personal Information and/or Usage Data collected about you from the Site may be sold, assigned, or transferred to the party acquiring all or substantially all of the equity and/or assets of SW19, Inc.  in order to permit the party to continue the operation of the Site.  Subject to your ability to opt-out as described above, by using this Site and submitting your information to us, you consent to the sale and transfer of your information as described in this paragraph.
+
+**Security**
+
+SW19, Inc.  takes seriously the security of the information it collects. SW19, Inc.  has therefore implemented technology and security policies and procedures intended to reduce the risk of accidental destruction or loss, or the unauthorized disclosure or access to, such information, reasonably appropriate to the nature of the data concerned.
+
+**Updates to Privacy Policy**
+
+SW19, Inc.  may, in its sole discretion, update this Policy at any time and from time to time, by posting the amended Policy on this Site. The amended Policy shall be effective upon posting, and your access to or use of the Site following an update shall be deemed consent to the revised Policy.  If you have provided Personal Information to us, amendments to this Policy may (but are not required to) be sent to you via email or such other form of communication as you have requested.  We urge each visitor to refer back to this page regularly and especially prior to providing or updating any Personal Information.  This Policy may not be otherwise amended without the written consent of SW19, Inc..  This Policy was last updated on January 13, 2011.
+
+**Contact, Questions, Comments, Complaints**
+
+If you would like to communicate with SW19, Inc. regarding privacy issues or have questions, comments or complaints about this Policy or Site, please forward such communication to: [feedback@mariasharapova.com](mailto:feedback@mariasharapova.com)
