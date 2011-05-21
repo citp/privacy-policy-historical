@@ -1,8 +1,13 @@
-> *The following text is extracted and transformed from the 3tailer.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225165034id_/http%3A//www.3tailer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3tailer.com privacy policy that was archived on 2011-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110522005601id_/http%3A//www.3tailer.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**UPDATED: 12/15/2010**
+  
+
+
+## Your privacy is important to us.
+
+**UPDATED: 1/18/2010**
 
 **Here at 3tailer we are committed to protecting your privacy.** We will only use the information that we collect about you lawfully. We collect information about you for two reasons: firstly, to process your order and second, to provide you with the best service possible. 
 
