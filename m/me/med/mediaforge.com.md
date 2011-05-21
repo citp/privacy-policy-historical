@@ -1,32 +1,33 @@
-> *The following text is extracted and transformed from the mediaforge.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125183012id_/http%3A//www.mediaforge.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediaforge.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521090435id_/http%3A//www.mediaforge.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | mediaFORGE
+# Privacy | mediaFORGE
 
-mediaFORGE Privacy Policy
+##  mediaFORGE Privacy Policy
 
-This policy is effective as of May 14, 2010
+This policy is effective as of March 15, 2011
 
-mediaFORGE values the protection of consumer privacy.
+mediaFORGE values the protection of consumer privacy.  To opt-out of mediaFORGE tracking, please click the opt-out link highlighted below.
 
 Who is mediaFORGE
 
-mediaFORGE is a remarketing/retargeting tool for advertisers that collects anonymous usage data from visitors and users. The information we gather is completely anonymous. mediaFORGE uses the information to display targeted advertisements to Internet users. mediaFORGE does not provide any personal information to our advertisers when consumers interact with or view mediaFORGE ads. However, by interacting with or viewing a mediaFORGE ad consumers are consenting to the possibility that mediaFORGE will make the assumption that consumers meet certain targeting criteria. mediaFORGE may combine usage information with information we obtain from clients/advertisers, network partners, and/or other companies.  mediaFORGE abides by the self-regulatory standards established by IAB and National Advertising Initiative - www.networkadvertising.org
+mediaFORGE is a remarketing/retargeting tool for advertisers that collects anonymous usage data from visitors and users. The information we gather is completely anonymous. mediaFORGE uses the information to display targeted advertisements to Internet users. mediaFORGE does not provide any personal information to our advertisers when consumers interact with or view mediaFORGE ads. mediaFORGE may combine usage information with information we obtain from clients/advertisers, network partners, and/or other companies.  mediaFORGE abides by the self-regulatory standards established by IAB.
 
+  
 Information Gathering
 
 mediaFORGE collects anonymous information through the use of cookies and pixel tags, which are industry standard technologies used by many major web sites. No personally identifiable information is collected or used in this process.
 
 Information Collected
 
-When an Internet user views or interacts with mediaFORGE advertisements or a partner’s website we collect and store information about the interactions and usage. The information we collect relates to interaction behavior, including, but not limited to, products and offers viewed, in-ad browsing and searching, video content viewed, and other anonymous behavioral data. In order to gather such information as it relates to specific users, mediaFORGE and partners set and store browser cookies on the computer of each unique user. 
+When an Internet user views or interacts with mediaFORGE advertisements or a partner’s website, we collect and store information about the interactions and usage. The information we collect relates to interaction behavior, including, but not limited to, products and offers viewed, in-ad browsing and searching, video content viewed, and other anonymous behavioral data. In order to gather such information as it relates to specific users, mediaFORGE and partners set and store browser cookies on the computer of each unique user. 
 
 Sensitive Information
 
-Sensitive personal information includes information we know to be related to confidential medical information, racial or ethnic origins, political or religious beliefs or sexuality and tied to personal information. We will not collect or use sensitive information for purposes other than those described in this Privacy Policy and/or in the supplementary service privacy notices, unless we have obtained your prior consent.
+Sensitive personal information includes information we know to be related to confidential medical information, racial or ethnic origins, political or religious beliefs or sexuality and tied to personal information. We will not collect or use sensitive information. We are committed to protecting the privacy of children. Neither mediaFORGE nor our Partners activities are intended or designed to attract children under the age of 13. We do not collect Personal Information from any person we actually know is a child under the age of 13.
 
 Use of Anonymous Information
 
-mediaFORGE uses the anonymous information it collects to customize the advertisements that consumers see on participating web sites and to analyze if the advertising resulted in sales. At times, we send our clients and partners the aggregated anonymous data for their use in determining which products and offers to display in their ads. The specific source of the data is not disclosed. Each member has warranted that the anonymous information they receive shall be used in compliance with applicable laws and regulations. In accordance with applicable laws and regulations, mediaFORGE will also disclose this information in response to subpoenas, court orders and other required legal processes.
+mediaFORGE uses the anonymous information it collects to customize the advertisements that consumers see on participating web sites and to analyze if the advertising resulted in sales. At times, we send our clients and partners the aggregated anonymous data for their use in determining which products and offers to display in their ads. The specific source of the data is not disclosed. Each partner or client has warranted that the anonymous information they receive shall be used in compliance with applicable laws and regulations. In accordance with applicable laws and regulations, mediaFORGE will also disclose this information in response to subpoenas, court orders and other required legal processes.
 
 How Anonymous Information is Secured
 
@@ -34,10 +35,11 @@ We store this anonymous information securely at the mediaFORGE data center. We t
 
 How Long Anonymous Information is Stored
 
-We store annymous information for no longer than 12 months. Targeting/advertising data may be stored for up to one year in a browser cookie.  Data associated with click-throughs, ad-interactions, ad-engagements and other activities which may include but are not limited to referring url, pages viewed, browser type, IP addressand other anonymous information through web logs. This information may be used for the purpose of reporting ad analysis, usage and statistics.  We Store web logs afor a maximum of 12 months.
+We store annymous information for no longer than 12 months. Targeting/advertising data may be stored for up to one year in a browser cookie.  Usage/performance data associated with click-throughs, ad-interactions, ad-engagements and other activities which may include, but are not limited to, referring url, pages viewed, browser type, IP address and other anonymous information is captured through web logs. This information may be used for the purpose of reporting ad analysis, usage and statistics.  We store web logs for a maximum of 12 months.  After 12 months, all data captured or stored in web logs is deleted.  Some usage/performance data and targeting/advertising data may be aggregated and stored indefinitely for the purposes of reporting and analysis.  
 
-  
-Unforeseen Circumstances
+
+Unforseen Circumstances  
+
 
 mediaFORGE may sell or buy other businesses or entities. In such transactions, the anonymous information we have collected from you may be one of the transferred business assets.
 
@@ -53,4 +55,5 @@ By selecting the opt-out cookie, mediaFORGE will not store information about you
 
 PLEASE NOTE that if you erase or otherwise alter your browser's cookie file (including upgrading certain browsers) you may need to perform this process again.
 
-To opt out, please [click here](http://www.dizzads.com/policy/OPTED_OUT.html).
+##  To opt out, please [click here](http://ads.mediaforge.com/optout.php).  
+ 
