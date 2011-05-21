@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the scenicreflections.com privacy policy that was archived on 2010-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100921211631id_/http%3A//www.scenicreflections.com/index.php%3Fview%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scenicreflections.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521201212id_/http%3A//www.scenicreflections.com/index.php%3Fview%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy
 
-END USER LICENSE TERMS AND PRIVACY POLICY FOR  
-SCENICREFLECTIONS.COM 
+**PRIVACY POLICY AND TERMS OF USE FOR  
+SCENICREFLECTIONS.COM**
 
 **PRIVACY POLICY**
 
@@ -19,6 +19,15 @@ Additionally, cookies may be used to provide easier and faster access to website
 We, at various times, sometimes use both session ID cookies and persistent cookies. A session cookie expires when your browser is closed, and a persistent cookie may stay on your hard drive for an extended period. Session cookies make it easier for you to navigate our site; persistent cookies can perform such activities as storing your password for forums or blogs so you do not have to sign in every time you visit those areas, and/or may be used to enable us to track and target the interests of our users so as to enhance the overall experience of using our site.
 
 We have no access to or administration abilities over any cookies that are used by any advertisers on our site.
+
+We use third-party advertising companies to serve ads whenyou visit our Website. These companies may use information (not including yourname, address email address or telephone number) about your visits to this andother Web sites in order to provide advertisements about goods and services ofinterest to you. If you would like more information about this practice and toknow your choices about not having this information used by these companies, <http://www.networkadvertising.org/managing/opt_out.asp>
+
+We allow third-party companies to serve ads and/or collect certainanonymous information when you visit our web site. These companies may usenon-personally identifiable information (e.g., click stream information,browser type, time and date, subject of advertisements clicked or scrolledover) during your visits to this and other Web sites in order to provideadvertisements about goods and services likely to be of greater interest toyou. These companies typically use a cookie or third party web beacon tocollect this information. To learn more about this behavioral advertisingpractice or to opt-out of this type of advertising, you can visit [www.networkadvertising.or](http://www.www.networkadvertising.or/)g .
+
+We partner with ValueClick to serve ads and/or collectcertain information when you visit our website. ValueClick may use cookies orweb beacons to collect non-personally identifiable information during yourvisit to this website in order to help show advertisements on other websiteslikely to be more interesting to you. To learn more about this “behavioraladvertising” practice or to opt-out of this use of your anonymousinformation, you can visit [http://www.valueclickmedia.com/member_privacy.shtml ](http://www.valueclickmedia.com/member_privacy.shtml)
+
+**Advertising and Analytics:**  
+This site uses Google Adwords and Analytics services. You can learn more about Google’s policies at the Google advertising policy site: <http://www.google.com/privacy_ads.html>
 
 **Registration And Use Of Personal Information:**  
 Registration is not required in order to use or access this website. However, this site may make forums, blogs, message boards or similar available to its users. You may be required to register for these features, particularly if you wish to leave comments or provide articles. 
@@ -48,11 +57,11 @@ We reserve the right to disclose your personally identifiable information as req
 **Contact Details:**  
 If you have any questions or concerns regarding this privacy policy, or you wish to contact us by phone or postal mail, our contact information is as follows: 
 
+Bit Wise Publishing, LLC  
 PO Box 29  
 Cumming, GA 30028  
 678-513-0170
 
 You can also email or contacting us via our Live Support feature found at this url: <http://www.scenicreflections.com/index.php?view=help>
 
-This privacy policy was last updated on March 26th, 2009  
-
+This privacy policy was last updated on March 26th, 2009
