@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ymultimedia.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204090632id_/http%3A//ymultimedia.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ymultimedia.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521151126id_/http%3A//ymultimedia.com/privacy-policy.php) for the most accurate reproduction.*
 
 # yMultimedia.com - The Next Generation in Affiliate Marketing - Privacy Policy
 
