@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twopair.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120192906id_/http%3A//www.twopair.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twopair.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521090505id_/http%3A//www.twopair.com/privacy-policy) for the most accurate reproduction.*
 
 # America’s Best eyeglasses, optometrists and quality eyewear—your privacy is our priority.
 
