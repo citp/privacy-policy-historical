@@ -1,58 +1,209 @@
-> *The following text is extracted and transformed from the trionworlds.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614071358id_/http%3A//www.trionworlds.com/en/legal/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trionworlds.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521082609id_/http%3A//www.trionworlds.com/en/legal/privacy-policy.php) for the most accurate reproduction.*
 
 # Trion World Network, Inc.: Privacy Policy
 
-### Trion Worlds, Inc. Privacy Policy
-
-Thank you for visiting the corporate Internet web site of Trion Worlds, Inc. (hereinafter referred to as “Trion” or “we” or “us”), located at the URL www.trionworlds.com (the "Site").  This Privacy Policy governs the submission, collection, use and disclosure of personally identifiable information only from this Site.  Some links from the Site may take you to other web sites or web pages that relate to the entertainment products and services offered by Trion and, if applicable, such sites shall provide notice that they are also subject to this Privacy Policy.  Please be advised that this Privacy Policy does not apply to any information that may be collected by Trion offline (e.g., the provision of personal contact information to customer service representatives via telephone, etc.) or by websites maintained by any third parties that may be linked at any time to the Site.
-
-### Privacy Policy Updates
-
-Due to the Internet's rapidly evolving nature, Trion may need to update this Privacy Policy from time to time. If so, Trion will post our updated Privacy Policy on this Site located at www.trionworld.com/privacypolicy.php along with notice that the Privacy Policy has been changed so you are always aware of what personally identifiable information we may collect and how we may use this information. Trion may also send registered users of the Site e-mail notifications notifying such users of any changes to the Privacy Policy. Trion encourages you to review this Privacy Policy regularly for any changes. Your continued use of this Site and/or continued provision of personally identifiable information to us will be subject to the terms of the then-current Privacy Policy.
-
-### Information Collection and Use
-
-You can generally visit the Site without revealing any personally identifiable information about yourself.  However, please be advised that we will collect personally identifiable information that you voluntarily choose to disclose from time to time in connection with your use of the Site.  For example, we may collect personally identifiable information (e.g., your name, email address, mailing address, telephone number, and other personal information that you voluntarily submit as part of your communications to us) when you complete an online registration form regarding a particular Trion product or service, contact our customer support department, subscribe to one of our newsletters, complete an online survey or questionnaire, or participate in online chat rooms or message boards, etc.  You may also submit resumes and other personally identifiable information in response to postings about job openings at Trion.  And, for those who elect to purchase any Trion product or service online, we will need to collect the relevant payment information and related billing and shipping address(es).  We will use any such personally identifiable information to communicate with you about the subjects referenced in your communications with any employees, agents or representatives of Trion.  If we collect any personally identifiable information in connection with any particular matters, such information will only be used by Trion to fulfill your requests regarding such matters and for our legitimate business objectives.  For example, you may receive emails containing press releases that you have requested and, in connection with online product registration, we will use the information you submit to provide you with the benefits associated with such registration.  Similarly, any payment information that you disclose will only be used to process and fulfill the specific purchase order(s) that you, at your discretion, choose to submit to Trion.
-
-We may use your personally identifiable information to contact you in order to respond to your communications, to deliver certain services or information you have requested, to verify your identity and authority to access and use the Site, to improve the content, operations and administration of the Site and our related products and services, to process your job application, and to provide you with announcements regarding Trion, including, without limitation, new areas or features of the Site, new products and services, changes to our Privacy Policy, and/or other updates and/or modifications to any or all of the preceding items or related information.
-
-### Children's Privacy
-
-Trion does not intentionally collect personal information from children who are under the age of 13 years old.  We recognize the privacy rights and interests of children that participate in online activities and we encourage parents and guardians to take an active role in such activities and to instruct their children not to disclose personally identifiable information without the consent of a parent or legal guardian.  This Site is intended for a general audience and is not directed or targeted at children under the age of thirteen.
-
-### Cookies
-
-We may use small text files called cookies to improve overall Site experience.  A cookie is a piece of data stored on the user's hard drive containing information about the user.  Cookies generally do not permit us to personally identify you.  However, we may use information contained in cookies with other personal information that you choose to disclose to us (e.g., your user name and email address) so that you can participate in various activities and services that are part of the Site.  Please be advised that you can also choose to disable cookies from being stored within your computer.  However, disabling cookies may prevent you from being able to use certain parts of the Site (e.g., an online store, etc.).
-
-### Aggregate Information
-
-The Site may track information that will be maintained, used and disclosed in aggregate form only and which will not contain your personally identifiable information.  Examples of such general demographic information include, without limitation, your age, gender, occupation, hobbies and interests, the total number of visitors to the Site, the number of visitors to any particular web page within the Site, your browser type, and the number of visitors to the External Web Sites (defined below) that are linked to the Site.  We may collect and analyze this general information and related data, in the aggregate, for trends and statistics, and we may use such aggregated information to administer the Site, track users' movements within and away from the Site, to gather broad demographic information regarding use of the Site, and, in general, to enhance your participation and enjoyment of the Site.
-
-### Disclosure
-
-We may provide your personally identifiable information and the data generated by cookies, along with the non-identifiable aggregate information regarding you and your use of the Site, to third-party vendors and service agencies that we may hire to assist us in operating and administering the Site and providing the various products and services that are then-currently offered by Trion for use solely to provide us with such assistance (e.g., the fulfillment of online orders, etc.).  We will also disclose your personally identifiable information if we believe, in good faith, that (a) we are required to do so by applicable law, regulation or other government authority, including, without limitation, in connection with an ongoing investigation by any law enforcement agency or governmental authority, (b) to enforce Trion’s Terms of Use or to otherwise protect our rights and interests, (c) to protect the safety and well-being of the individuals who access and use the Site and any of our products and/or services.  We will not sell your personally identifiable information to any company or organization, but we may disclose and transfer ownership of your personally identifiable information to a successor entity upon a merger, consolidation, reorganization, bankruptcy or other such event in which Trion participates and/or to a purchaser or acquirer of all or substantially all of Trion's assets that relate to the Site.
-
-### Links to Third Party Sites
-
-The Site may provide links to other web sites, web pages and/or online resources that are not owned or operated by Trion and over which Trion does not have control (collectively, "External Web Sites").  Such links do not constitute any sponsorship or endorsement by Trion of any of such External Web Sites.  Please be advised that Trion is providing such links to any External Web Sites only as a convenience to you and the other individuals who access and use the Site.  You acknowledge and agree that Trion does not have any responsibility or liability of any kind or nature for the content that is displayed or otherwise provided by any External Web Sites.  Your decision to access and use any External Web Sites is subject to the terms of use and privacy policies that have been adopted by the third parties that own and/or operate each of the External Web Sites, respectively.  Trion shall have no obligation or liability to you or any third party with respect to any personal information that you submit and/or that is collected by any web site that is not owned or operated by Trion (even though you may obtain access to such External Web Site by means of a link that is provided within the Site).
-
-### Security
-
-Trion employs commercially reasonable procedural and technological measures, consistent with industry practice, to safeguard the personal information that is collected from individuals who access the Site and use the then-current products and services that are made available as part of the Site.  Such measures are reasonably designed to help protect your personally identifiable information that is under our control from loss, unauthorized access, disclosure, alteration or destruction.  Trion may use encryption, secure socket layer protocols and other security measures to help prevent unauthorized access to and/or misuse of your personally identifiable information.
-
-The computer systems that Trion uses to operate and administer the Site are currently based in the United States, so your personal data will be processed by us in the U.S. where data protection and privacy regulations may not offer the same level of protection of personally identifiable information as in other parts of the world, such as the European Union.  If you are not a resident of the U.S. and you elect to create a user account with Trion by means of the Site, by using your voluntary decision to access and use the Site shall signify and confirm that you agree to abide by all of the terms and conditions set forth in this Privacy Policy and that you knowingly consent to the transfer to and collection in the United States of any and all information that you elect, at your discretion, to disclose and submit to Trion, and to the retention, processing and use of such information as described in this Privacy Policy.
-
-### California Privacy Rights
-
-Since 2005, individuals who are California residents and who access and use the Site are entitled to request certain information regarding the disclosure of their personal information to third parties for use in connection with such third party’s direct marketing activities (See, California Civil Code Section 1793.83).
-
-### Contact Us
-
-If you have any questions regarding this Privacy Policy or regarding our information collection activities or disclosure practices, please contact us via email at [privacy@trionworlds.com](mailto:privacy@trionworlds.com), or by regular mail addressed to: Trion Worlds, Inc., 303 Twin Dolphin Drive, Suite 500, Redwood City, CA 94065, Attn: Privacy Policy Administrator.
-
-This Privacy Policy is effective as of: March 17, 2010
-
-This Privacy Policy was last updated: March 17, 2010
+[ UK Residents, please click here ](https://web.archive.org/web/20110521082609id_/http%3A//www.trionworlds.com/en/legal/uk-privacy-policy.php)
 
   
 
+
+### TRION WORLDS’ PRIVACY POLICY
+
+Effective January 18, 2011
+
+Trion Worlds, Inc. (“ **Trion** ” or “ **we** ” or “ **our** ”) respects your privacy and is committed to protecting the Personal Information (defined below) that you may provide us while using our websites (the “ **Site** ” as further defined below). Your use of our site(s) is subject to your agreement to the terms of this privacy policy (“ **Privacy Policy** ”) and our [Terms of Use](https://web.archive.org/web/20110521082609id_/http%3A//www.trionworlds.com/en/legal/terms-of-use.php).
+
+This Privacy Policy sets forth the basis on which any Personal Information that you provide to us or that we collect from you, will be processed by us and is intended to provide you with notice of the following:
+
+  1. Websites Governed by the Privacy Policy
+  2. Your Privacy Rights
+  3. Our Policies Concerning Children
+  4. What “Personal Information” We Collect from You
+  5. What Non-Personal Information We Collect from You
+  6. Information on Cookies and Related Technology
+  7. How We Use and Share the Information that We Collect from You
+  8. Information about Links and Third Parties Related to the Site
+  9. How You May Access, Change or Delete the Information You Have Provided to Us
+  10. Other Important Agreements that Govern Your Use of the Site
+  11. Information for Persons Outside the United States
+  12. How Secure is My Personal Information Collected
+
+
+
+**By using the Site, you signify your assent to this Privacy Policy. If you do not agree to this Privacy Policy, please do not use this site.** This Privacy Policy may change from time to time, so please check back periodically to ensure that you are aware of any changes. If we make a material change to this Privacy Policy, we will notify you by posting the change on the Site or in this Privacy Policy and, if necessary, provide you with additional choices regarding such change. Your continued use of the Site will signify your acceptance of these changes.
+
+### Websites Governed by the Privacy Policy
+
+We currently operate the website located at [www.trionworlds.com](https://web.archive.org/web/20110521082609id_/http%3A//www.trionworlds.com/en/index.php), including all of its subsites  and all software, products, features, games and services made available, displayed, or offered by or through our website or subsites (collectively, the “ **Site** ”). In addition, we own many other game-specific (e.g. [www.riftgame.com](http://www.riftgame.com/en/index.php) or [www.endofnations.com](http://www.endofnations.com/en/index.php)) and/or content-specific “subsites” of the Site, and these subsites are also considered part of the Site for purposes of this Privacy Policy. From time to time, we may add new subsites to the Site that may not initially be listed above, but such subsites will provide a link to and will be governed by this Privacy Policy and our [Terms of Use](https://web.archive.org/web/20110521082609id_/http%3A//www.trionworlds.com/en/legal/terms-of-use.php).
+
+### Your Privacy Rights
+
+As further discussed in this Privacy Policy, we may from time to time provide you with the opportunity to receive information about products and services offered by Trion and/or our third party marketing affiliates. You can prevent future disclosures of your Personal Information to us and/or third parties for their direct marketing purposes, at no charge, by exercising your “opt out” rights through any of the means described below:
+
+  1. You can send an e-mail expressly making such request to: Trion Worlds, Attention: Privacy Officer, 303 Twin Dolphin Drive, Redwood City, CA 94065 or privacy@trionworlds.com or
+  2. You can access your user profile and modify your privacy preferences by opting-out of direct marketing communications from Trion and/or our third party marketing affiliates, or
+  3. Upon receipt of any electronic marketing communication from us, you can click on a link on the bottom of such communication to “unsubscribe” to any future marketing communications from us.
+
+
+
+Because we provide you with the ability to exercise your “opt out” rights as described above, we do not provide the names and addresses of third parties that received Personal Information from us for such third parties’ direct marketing purposes.
+
+### Our Policies Concerning Children
+
+Please take note that the content, games and services provided on the Site are not directed towards children under the age of thirteen (13) (“ **Children** ”). Therefore, except as otherwise expressly permitted by our [Terms of Use](https://web.archive.org/web/20110521082609id_/http%3A//www.trionworlds.com/en/legal/terms-of-use.php) and our Privacy Policy, registration for and/or access to such content, games and services by Children is strictly prohibited. Individuals under the age of eighteen (18) should consult their parents or legal guardians before providing us with any of their Personal Information.
+
+### Our Policies Concerning Users Generally
+
+### What Personal Information We Collect from You
+
+### A. General
+
+Personal Information is information that directly or indirectly identifies a particular individual, such as your name (first and surname together), e-mail address, postal address and/or phone number; visitors purchasing products or services will be required to provide additional information such as a valid credit card number, expiration date and shipping and billing addresses (collectively, " **Personal Information** ”). We do not collect any Personal Information from you unless you provide it to us voluntarily (e.g. through interaction or registration with the Site).
+
+If you decide to provide us your Personal Information, it will generally take the form of either: (1) account or product registration, or registration for online game participation, (2) the purchase of goods or services through our online store, (3) message boards or forums, (4) newsletters, (5) e-cards or Send to a Friend e-mails, (6) contest registrations, (7) customer service or technical support, (8) consumer complaint(s), and (9) surveys. We will only collect the Personal Information which is needed to fulfill your requests and/or our legitimate business objectives, as set out in this Privacy Policy, and we will keep it no longer than is necessary to fulfill such purposes and objectives. If you refuse to divulge your Personal Information when requested, and the disclosure of such Personal Information is indicated as being required (rather than voluntary), you may not be able to access certain functionality or areas of the Site (such as chat rooms and message boards).
+
+### B. Account Registration and Fee-Based Access
+
+Some areas of the Site may allow you to visit as a guest and remain anonymous, but you may not be able to access all the content and features of those areas without registering an account with us (e.g. in order to play our subscription-based games, additional information, such as your real name and billing information, will be required) (an “Account”). Important information regarding Account registration procedures and the security of your Account is set out in our Terms of Use.
+
+### C. E-mail Newsletters and Friend to Friend Promotions
+
+Typically you need to have an Account in order to receive e-mails from us, provided that you may receive e-mail communications from us on a one-time basis if you have contacted us directly with regard to a specific request or for e-mail newsletters. You can opt-out of receiving future marketing e-mails from us by following the directions contained in the e-mail to “unsubscribe.” Also, except in jurisdictions where it may be prohibited by law to do so, the Site or service offerings available thereon may allow you to submit information about other people. For example, we may offer “Send to a Friend” promotions, like electronic postcards available on the Site or through our newsletters. In these situations, you may provide the email address and, sometimes, the name of a friend. After the “Send to a Friend” transaction is completed, that information is deleted. We will not retain the recipient's email address for longer than necessary to complete the transmittal. In our communication to your friend in this circumstance, he or she will also be presented with an opportunity to “opt-out” from receiving future emails from us. You might also submit a person's name and other information if you purchase a gift and want to have it sent directly to the recipient. A record of that transaction will be maintained as allowed and/or required by law.
+
+### D. Sweepstakes, Contests, and Promotions
+
+To participate in some of our sweepstakes, contests, surveys, and other promotions, you may be asked to provide additional Personal Information such as your mailing address. This information may be collected by Trion or by third parties such as co-sponsors or vendors for the promotion. Potential winners may be required to provide additional Personal Information for the purpose of verifying eligibility and awarding prizes, and for tax purposes. Trion's use of any such information will be governed by this Privacy Policy. The names of third parties such as co-sponsors (other than vendors hired by us to conduct, administer, and execute a promotion on behalf of Trion) will be disclosed to you when you are asked to sign up for the promotion. You should review such third parties' privacy policies to see how they may use any information that they collect.
+
+### E. Online Purchases and Technical Support
+
+When you sign up to play one of our fee-based games or you make certain online purchases from us, we may also require that you provide us with the necessary billing information such as your real name, credit card or payment information, and shipping or billing address, so that we may provide the content, game, service, or product to you (according to the terms of the sale, including for example our Terms of Use and the End User License Agreements for our fee-based games). In order to resolve issues related to customer service, billing questions, technical and computer support, etc., we may also require you to provide us with some Personal Information so that we may resolve such issues properly.
+
+### F. Online Games
+
+When you play any of the games offered and/or served by Trion, or use any of the communication features on the Site, your internet protocol address (the unique number assigned to your server or internet service provider)(your “ **IP Address** ”) from which you access any of the above may be stored in our records. Trion may track such IP addresses for system administration, to report aggregate information, site tracking, security purposes, or to prevent our servers from being abused.
+
+When any game is updated or “patched,” our patch routine may check your computer to see that you have the most recent version of game-specific files; when you communicate within any game or any other communication feature within the Site (e.g. live chat, instant message services and the like), even “privately” to another person, you do so with the understanding that those communications go through our servers, you expressly agree to waive any rights of confidentiality that you may have in and to your communications (if any) when using any of the Site's communication features, you agree you have no expectation of privacy in any of those communications and, accordingly, and where and to the extent permitted by applicable law, you expressly consent to monitoring of communications (including technical support and customer service communications) that you send and receive. When you log in to one of our online games, your system specifications (such as OS, RAM, video card, monitor, system configuration, crash data etc.) may be reviewed/recorded by us for the purposes of analyzing and optimizing your game experience and in order to provide you with customer service.
+
+### G. Consent to Monitor
+
+Please note that, when running, some Trion games may monitor your computer's random access memory (“ **RAM** ”), media access control (“ **MAC** ”) address, configuration files and system files, etc., for unauthorized third party programs running concurrently with your Trion game which, in Trion 's sole determination: (i) enable or facilitate cheating of any type; (ii) allow users to modify or hack the applicable Trion game interface, environment, and/or experience in any way not expressly authorized by Trion; or (iii) intercept, “mine” or otherwise collect information from or through the applicable Trion game (an “ **Unauthorized Third Party Program** ”). In the event that a Trion game detects an Unauthorized Third Party Program, (a) the Trion game may communicate information back to Trion, including without limitation your Account username, details about the Unauthorized Third Party Program detected and the activities or functions performed thereby, and/or details about your computer, and/or (b) Trion may exercise any or all of its rights and remedies under this Agreement or the applicable Trion game End User License Agreement without prior notice to the user linked to such Unauthorized Third Party Program.
+
+You acknowledge that any and all character data that is stored and is resident on our servers, and any and all communications that you make within the Site or any Trion games (including, but not limited to, messages solely directed at another player or group of players) traverse through our servers, may or may not be monitored by us or our agents (to the extent permitted by applicable law), you have no expectation of privacy in any such communications and expressly consent to such monitoring of communications you send and receive. You expressly agree to waive any rights of confidentiality that you may have in and to your communications (if any) when using any of the Site's communication features, you agree you have no expectation of privacy in any of those communications and, accordingly, and you expressly consent to such monitoring of communications (including technical support and customer service communications) that you send and receive.
+
+### H. Resume Submissions and Business Capacity
+
+Trion allows for the electronic submission of resumes. Please be advised that information (including Personal Information) contained in a job applicant's resume or otherwise submitted to Trion in a business capacity is not subject to the terms of any other section of this Privacy Policy. The information obtained from your resume will only be used for the purpose of accepting and evaluating your submission for a job and contacting you, your previous employers and your references in connection with that purpose.
+
+### I. Indirect Collection of Personal Information
+
+Please note that, as mentioned elsewhere in this Privacy Policy and/or in our [Terms of Use](https://web.archive.org/web/20110521082609id_/http%3A//www.trionworlds.com/en/legal/terms-of-use.php) and/or on the Site itself, Trion may collect from you Personal Information relating to certain third parties, such as your parents, other family members, friends, etc. (“ **Indirect Personal Information** ”). Except as provided by applicable laws and/or as described in this Privacy Policy, you will not give any such Indirect Personal Information to us and/or any to third-party without the relevant third party's consent.
+
+### What Non-Personal Information We Collect from You
+
+General, aggregated, demographic, and non-Personal Information may be collected by Trion. It will not be linked to any of your Personal Information, through cookies or other means, without your consent. This type of anonymous, aggregated profiling and session data may include information that you have provided to us through surveys, polls, etc., but will not be tied to any Personal Information, without your consent. It may also include aggregated anonymous information about website usage and the customer base.
+
+As part of the registration process for some services, you may be asked to provide information that does not personally identify you. For example, you may be asked to provide information concerning your date of birth, country, entertainment preferences, purchasing habits, and the like. This information is generally optional, but where provided it may be included in your Account profile and you hereby consent to this information being tied to your Personal Information. Trion requests this information to understand you better and to also bring to your attention new services, programs, or offers that may be of interest to you. Where Trion automatically collects non-Personal Information as stated above, and it is possible to link this information to your Personal Information, you hereby consent to Trion linking relevant non-Personal information to your Personal Information.
+
+In many cases, Trion will automatically collect certain non-Personal Information about your use of the Site. Trion might collect, among other things, information concerning the type of Internet browser or computer operating system you are using, the domain name of your Internet service provider, your “click path” through the Site, and the website or advertisement that was linked to or from the Site when you visited. To do this, Trion may use cookies and other technology (see below). In addition, your web browser or client software may transmit certain geographic information or information regarding your computer (capabilities, game data processing, etc.) to Trion. Trion may use this information to generate statistics about our user community and may provide such information to advertisers and/or our affiliates. Trion may also use such information for security, system integrity (e.g. the prevention of hacking, cheats, etc.) or enforcement purposes. Your visits to the Site, and information provided through these technologies, will be anonymous unless you provide us with Personal Information or have provided such information in the past. For example, if you've created an Account, your Account information (including e-mail address, and billing and shipping information) may be linked to the items you purchased at our online store (i.e., purchase order history).
+
+### Information on Cookies and Related Technology
+
+The Site, and some services and advertisements displayed or made available thereon, may contain “cookies.” Cookies are a feature of your web browser which allow websites to transfer bits of information to your computer for recordkeeping purposes. A cookie stored on your computer can be used to “remember” things such as your password or that you have already registered an Account. This enables us to accelerate your future activities, saving the time that you would otherwise spend entering information such as your registration or password. Technology and tools such as clear gifs (also known as “web beacons”) assist in the delivery of cookies.
+
+Trion uses cookies, clear gifs, frames, server log analysis and other technology to:
+
+  1. store information about your preferences, so as to allow us to customize your experience with the Site and its subsites;
+  2. retrieve information for promotional, marketing or security purposes;
+  3. estimate our audience size and usage patterns;
+  4. to speed up your searches; and
+  5. recognize you when you return to our site.
+
+
+
+Cookies can either be permanent (i.e., they remain on your computer until you delete them) or temporary (i.e., they last only until you close your browser). Certain cookies are required to allow or facilitate electronic communications or are necessary to allow the provision of online services at the request of the user. On their own, cookies or related technologies do not contain or reveal any Personal Information but can be combined with and use to process Personal Information. Personal Information collected through the use of these technologies will be collected, stored and processed according to this Privacy Policy.
+
+Most internet browsers will allow you to erase cookies from your computer hard drive, block acceptance of cookies, or receive a warning before a cookie is stored. You should refer to your browser instructions or “Help” screen to learn more about how to manage cookies. Please note, however, that if you block cookies, some portions of the Site may not function properly.
+
+### How We Use and Share the Information that We Collect from You
+
+### A. How We Use Information that We Collect from You
+
+Personal Information which we collect for a particular purpose will only be saved and used for that purpose, unless you have agreed to allow us to use it for some other purpose, as described in this Privacy Policy. For example, if you make an online purchase from us, unless you have given us permission to do otherwise, we will only collect and save the Personal Information you provided to us, including your billing and delivery information, in order to (1) complete the sale, (2) comply with tax and other applicable statutes, (3) maintain accurate business and financial records (in accordance with accepted standards), and (4) assist with customer service and returns.
+
+We may use the Personal Information we collect from you to enable us to:
+
+  1. provide you with technical support, customer service, and Account maintenance;
+  2. learn what you like and tailor your experience accordingly;
+  3. to improve the Site and its subsites and our other products and services;
+  4. provide services or products you request;
+  5. allow you to participate in or use the Trion communication features;
+  6. allow you to play one of our fee-based games, or free games and download any other game;
+  7. allow you to benefit from any other services, as the case may be, such as sweepstakes, contests and promotions;
+  8. manage your Account and respond to your potential orders, requests and online purchases;
+  9. inform you of any changes made to the Site and its subsites; and
+  10. inform you of products, services, promotions and offers which you may find interesting.
+
+
+
+If you do not want us to use your Personal Information in this way, or to pass your details on to third parties for marketing purposes, you can “opt-out” in the manner discussed under “Your Privacy Rights” set forth on the first page of this Privacy Policy.
+
+### B. Information We Provide to Third Parties
+
+Where and to the extent required by the applicable laws, you hereby expressly consent to your Personal Information being shared with or otherwise transferred by Trion to third parties.
+
+When you have provided Personal Information to us for a particular purpose, we may disclose your information to other companies that we have engaged to assist us in fulfilling your request and who we subject to confidentiality requirements. This may include, but is not limited to, fulfillment houses, billing services, transaction managers, credit verification services, and other third party service providers. We may also disclose any of your Personal Information to law enforcement or other appropriate third parties in connection with criminal investigations, investigation of fraud, infringement of intellectual property rights, or other suspected illegal activities, or as otherwise may be required by applicable laws, or, as we deem necessary in our sole discretion, in order to protect the rights, property or safety of Trion, our customers or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.
+
+We will also provide your Personal Information to third party processors so that it can be administered and processed for the purposes notified to you in the Privacy Policy and our [Terms of Use](https://web.archive.org/web/20110521082609id_/http%3A//www.trionworlds.com/en/legal/terms-of-use.php) and we may also share details with third parties (such as auditors or legal advisors) in order to obtain professional advice. Any such processing will be governed by an agreement in the form required by applicable laws, preserving any and all of your statutory data protection rights.
+
+Except as described in this policy, we will not give any of your Personal Information to any third party without your express approval, and the only Personal Information we will request to share with third parties is your name, mailing address and e-mail address. If you do not want us to share your Personal Information with third parties, you can “opt-out” in the manner discussed under “Your Privacy Rights” set forth on the first page of this Privacy Policy. We sometimes share general, demographic, or aggregated non-Personal Information with third parties about our user base, but that information does not include any Personal Information.
+
+You will be deemed to have consented to the disclosure to, and use by, a subsequent owner or operator of the Site, of any Personal Information contained in the Trion database for such site, if Trion or one of its companies assigns all of its rights and obligations regarding the use of your Personal Information at the time of a bankruptcy, merger, acquisition, sale of all or substantially all of the Site's assets to a subsequent owner or operator, or similar event.
+
+### C. Information about Links and Third Parties Related to the Site
+
+You have the right to access information held about you by Trion. Your right of access can be exercised in accordance with applicable data protection and privacy laws.
+
+This Privacy Policy applies only to information collected online by Trion through the Site, as maintained by Trion and affiliated companies that Trion may own or control. From time to time, we may provide links to third party websites. This Privacy Policy does not apply to third party websites, whether we provide a link to such sites or not, so we encourage you to review the policies of all such sites carefully, as your rights will be governed by those third party policies and not by Trion's. Additionally, there may be unauthorized third party websites that may be providing links from their sites to the Site without our knowledge or control. We are not responsible for the content of any third party websites, expressly disclaim any statements or assertions made on such websites, and deny all liability associated with your use of, and the content on, such other sites or advertisements contained therein.
+
+### How You May Access, Change, or Delete the Information You Have Provided to Us
+
+At the time that you provide Personal Information, Trion may give you the option of declining any future offers or information about new products, promotions or services. In addition, many of the mailings that Trion may send you, such as newsletters, have procedures within them to cancel the receipt of any future promotional mailings.
+
+Subject to security and privacy concerns (e.g., regarding your password and credit card number), you will have the ability to access, change, delete and/or update your information and communications preferences through your Account.  If, for any reason, you are concerned with the way we are using your Personal Information, or would like to correct or request that we delete such Personal Information, please contact Trion Worlds' Privacy Policy, Attention: Privacy Officer, 303 Twin Dolphin Drive, Redwood City, CA 94065 or privacy@trionworlds.com. If you choose to have your Personal Information removed from our active databases, we will do so within a reasonable time after your request and we will take reasonable steps to ensure that your Personal Information is not used (except as may be required by law) by Trion after your notification to us. Please note that the deletion of your data will lead to the termination of your Account and applicable services.
+
+### Other Important Agreements that Govern Your Use of the Site
+
+In addition to this Privacy Policy, your rights and obligations concerning the Site are governed by our [Terms of Use](https://web.archive.org/web/20110521082609id_/http%3A//www.trionworlds.com/en/legal/terms-of-use.php), and where appropriate, the applicable terms of sale, the applicable game's End User License Agreement, and other applicable policies, guidelines, FAQ's and requirements. When you sign up to use the Site and/or any of our services, please review such agreements carefully, as you must agree to be bound by each such agreement before you may use the Site and/or the relevant service.
+
+### Information for Persons Outside the United States
+
+For persons in the European Union (“ **EU** ”) as used herein, terms such as “Personal Information” refer to “personal data” as defined by the EU Data Protection Directive and applicable local laws.
+
+If you are a visitor from outside the United States, your personal data may be transferred to, stored at and processed within the United States (and/or other non- European Economic Area (“ **EEA** ”) jurisdictions). Please note that the level of legal protection provided in the United States or other non-EEA countries where the Site operates may not be as stringent as that under EEA privacy standards. We will not collect any personal data from you unless you provide it voluntarily by providing us with your freely given specific and informed consent. By using the Site, you agree that we may transfer, store and process your personal data outside the EEA in connection with the purposes stated in this Privacy Policy.
+
+In certain countries other than the United States, some of our online games and the services related thereto may be provided to you by third party distribution partners. To the extent that a third party distributor is providing services related to your Account, you understand and agree that each such distributor will collect and use your Personal Information in accordance with its own privacy policies (which you will have access to when you register to play). To the extent that Trion collects or retains any of your Personal Information, its use will continue to be governed by the terms of this Privacy Policy.
+
+For example, in EU countries, to the extent that third party publishers and distributors (“ **Third Party Distributors** ”) are performing services related to your Account, we elect the applicable Third Party Distributor(s) as Trion's representative (as defined in the EU Data Protection Directive) in each such country with respect to the online games for which such Third Party Distributor(s) is the distributor and the related personal data collected for such game. All such Third Party Distributors must enter into an agreement with Trion to maintain such personal data in accordance with their privacy policy, available on their website.
+
+### Information for California Residents
+
+Under California law, our customers that are California residents may request certain information regarding our disclosure of Personal Information to third parties for their direct marketing purposes. As detailed above, we do not share our customers' Personal Information with unaffiliated third parties for direct marketing purposes without such customers' approval. If, at any time, you wish to opt out of having your Personal Information shared with third parties and/or receiving promotional materials from Trion (via e-mail or postal mail), you may contact us at: Trion Worlds' Privacy Policy, Attention: Privacy Officer (Opt-Out), 303 Twin Dolphin Drive, Redwood City, CA 94065 or by e-mail at privacy@trionworlds.com. Please indicate which publications or services you no longer wish to receive so that we may better address your needs.
+
+### How Secure Is My Personal Information?
+
+Trion has made an effort to ensure that all information collected will remain secure and in its original form (i.e. free from any alteration). As such, access to all Personal Information is strictly controlled. When payment information is transmitted, for example, Trion employs an industry standard security technology known as a secure-socket-layer (“ **SSL** ”) encryption. Unless otherwise specified herein or on the Site where you make a purchase, credit card numbers are used only for payment processing and are not retained for marketing purposes. In addition, we will take reasonable steps to assure that third parties to whom we transfer any data will provide sufficient protection of Personal Information.
+
+While Trion takes reasonable precautions against possible breaches of the Site and customer databases, no website or Internet transmission is completely secure. Consequently, Trion cannot and does not guarantee that unauthorized access, hacking, data loss, or other breaches will never occur, but we have in place reasonable technical and organizational security measures to protect your Personal Information against accidental or intentional manipulation, loss, destruction, or against unauthorized disclosure or access to the information we collect online. Trion urges you to take steps to keep your Personal Information safe by memorizing your password or keeping it in a safe place (separate from your Account information), logging out of your user Account, and closing your web browser.
+
+### Contact
+
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to:
+
+  1. E-mail: privacy@trionworlds.com
+  2. Mail: Trion Worlds Privacy Officer, 303 Twin Dolphin Drive, Redwood City, CA 94065
+  3. Phone: 650.631.9800 (ask for the Privacy Officer)
+  4. For non-English speaking users, please see our [Terms of Use](https://web.archive.org/web/20110521082609id_/http%3A//www.trionworlds.com/en/legal/terms-of-use.php) for further information about how to contact Trion Worlds
+
+
+
+This Privacy Policy was last updated on January 18, 2011.
