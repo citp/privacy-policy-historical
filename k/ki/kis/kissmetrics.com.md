@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kissmetrics.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226173610id_/http%3A//www.kissmetrics.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kissmetrics.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521221735id_/http%3A//kissmetrics.com/privacy) for the most accurate reproduction.*
 
-# Welcome to KISSmetrics
+# Web Analytics by KISSmetrics
 
 ## Privacy Policy
 
