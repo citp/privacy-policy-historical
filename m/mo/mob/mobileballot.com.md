@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobileballot.com privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126033309id_/http%3A//www.mobileballot.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobileballot.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521103141id_/http%3A//mobileballot.com/privacy.htm) for the most accurate reproduction.*
 
 # None
 
