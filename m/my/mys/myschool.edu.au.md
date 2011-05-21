@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myschool.edu.au privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220104446id_/http%3A//www.myschool.edu.au/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myschool.edu.au privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521124319id_/http%3A//www.myschool.edu.au/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Statement | ACARA
 
@@ -16,7 +16,7 @@ When you visit our website, our server logs the following general information:
     •    your top level domain name (for example .com, .gov, .au, .uk etc)  
     •    your server's address  
     •    the date and time of your visit  
-    •    the address of the previous site you visited  
+    •    the address of the previous site you visited (if you followed a link on that site which directed you to this one).   
     •    the address of the pages you visit and the documents you download
 
 This information is logged for statistical purposes only. No attempt is made to identify users of their browsing activities, except in the unlikely event of an investigation by a law enforcement agency.
