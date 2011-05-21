@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lake-link.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120192929id_/http%3A//www.lake-link.com/info/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lake-link.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521085826id_/http%3A//lake-link.com/info/privacy.cfm) for the most accurate reproduction.*
 
 # Lake-Link Online Privacy Policy
 
