@@ -1,11 +1,10 @@
-> *The following text is extracted and transformed from the midflorida.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125012728id_/http%3A//www.midflorida.com/support/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the midflorida.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521222118id_/http%3A//www.midflorida.com/support/privacy.asp) for the most accurate reproduction.*
 
 # MIDFLORIDA - Support - Privacy
 
 [En Espanol](https://web.archive.org/support/espanol.asp)  
 [FAQ](https://web.archive.org/support/faq.asp)  
 [Glossary](https://web.archive.org/support/glossary.asp)  
-[Legal Policy](https://web.archive.org/support/legal.asp)  
 [Privacy](https://web.archive.org/support/privacy.asp)  
 [Search](https://web.archive.org/support/search.asp)  
 [Site Map](https://web.archive.org/support/sitemap.asp)  
