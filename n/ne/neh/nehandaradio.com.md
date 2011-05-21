@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nehandaradio.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220054257id_/http%3A//nehandaradio.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nehandaradio.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521074120id_/http%3A//nehandaradio.com/privacy-policy) for the most accurate reproduction.*
 
-# Zimbabwe News and Internet Radio Station: Nehanda Radio.com — Nehanda Radio
+# Privacy Policy | Nehanda Radio
 
 This privacy policy sets out how Nehanda Radio.com uses and protects any information that you give Nehanda Radio.com when you use this website.
 
