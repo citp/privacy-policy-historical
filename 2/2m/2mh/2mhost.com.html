@@ -1,0 +1,503 @@
+<!--The following is the downloaded HTML source of the 2mhost.com privacy policy that was archived on 2011-05-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110521234648id_/http%3A//www.2mhost.com/privacy-policy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Privacy Policy</title>
+<base href="https://www.2mhost.com/application/views/cms/">
+<!-- <script type="text/javascript" src="/application/views/scripts/jquery-ui.js"></script> -->
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.0/jquery.min.js"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.12/jquery-ui.min.js"></script>
+<script type="text/javascript" src="/application/views/chat/chatEngine.js"></script>
+<script type="text/javascript" src="/application/views/chat/chatClientUI.js"></script>
+<link href="/application/views/styles/jquery-ui.css" rel="stylesheet" type="text/css">
+<link href="/application/views/chat/chatClient.css" rel="stylesheet" type="text/css">
+<link href="assets/styles/main.css" rel="stylesheet" type="text/css">
+<link rel="shortcut icon" href="assets/styles/favicon.ico">
+<style>
+H1, H1 a {
+ color: white;
+ border-bottom: 1px dotted #fff;
+ font-size: 18px;
+ font-weight: bold;
+ margin: 4px 0 2px 0;
+ padding: 4px 0 4px 0;
+ text-decoration: none;
+
+}
+h2 {font-size:16px;color:#006699}
+h3 {font-size:15px;padding:8px;padding-top:19px;color:#006699;text-transform: uppercase;}
+
+i {padding-left: 18px}
+
+.inner_content {
+ 	font-size:13px;
+	padding:6px;
+ }
+.inner_content strong {
+	display:block;
+	padding-top:12px;
+	padding-bottom:3px;
+
+}
+
+.inner_content li {
+
+	margin-left:22px;
+	padding-left:1px;
+        padding-top:8px
+
+
+}
+
+#side_menu {
+    color:white;
+    list-style: none;
+    padding-bottom: 16px;
+}
+
+#side_menu em {
+    font-weight: bold;
+    font-style: normal;
+    border-bottom: 1px #E3F870 solid;
+    display: block;
+    padding-top: 12px;
+
+
+}
+#side_menu ul li {
+    list-style: none;
+     padding-left: 6px;
+     padding-top:4px;
+     color:white;
+     font-size: 90%;
+    
+     /*border-left: 9px white solid;*/
+
+}
+
+#side_menu a {
+    text-decoration: none;
+    color:black;
+    padding: 4px;
+    padding-left:4px;
+    display: block;
+
+}
+
+#side_menu a:hover {
+
+   color:white;
+
+   background-color:#C7EB00;
+
+}
+
+.single_link {
+    display:none;
+}
+
+.private_table td {border-bottom:1px solid #828282;}
+</style>
+<script language="javascript" type="text/javascript">
+
+$.fn.exists = function () {
+    return $(this).length !== 0;
+}
+
+$(document).ready(function(){
+
+    // chat
+     var levels = new Array();
+                levels.push(3);
+                levels.push(0) ;
+                ChatEngine.setLevel(levels);
+                ChatEngine.alwaysCheckOnlineStaff = true;
+                ChatEngine.resetCommands();
+                ChatEngine.execute();
+
+                //initiating chat window ui
+                var buttons = new Array();
+                buttons.push($("#chatSales"));
+                buttons.push($("#chatSupport"));
+                ChatEngine.bindClientUIElements($("#chatWindow"), buttons);
+
+    // end of chat
+
+    $(".top_nav li:first-child").css('border','none');
+
+    $('#side_menu a[href$='+window.location.pathname+']').each( function(){
+        $(this).replaceWith($(this).html());
+    });
+
+$('ul.top_nav li').hover(function () {
+
+        if ($(this).find('> ul').exists()) {
+
+                $(this).css('background','#FF9601').find('> ul').stop(true, true).slideDown('fast');
+        } else {$(this).css('background','#FF9601');}
+
+        }, function() {
+
+        if ($(this).find('> ul').exists()) {
+
+                $(this).find('> ul').stop(true, true).slideUp('fast',function(){
+
+                $(this).parent().css('background','none');
+                                                                 });
+                } else {$(this).css('background','none');}
+
+});
+
+});
+</script>
+
+</head>
+<body>
+<div class="container">
+  <div id="logo"><a href="/index.html" title="2MHost homepage"><img style="vertical-align:middle;" border="0" src="assets/images/logo.png" alt="2MHOST Logo"></a> 
+  </div>
+  <div id="greeting">
+            <strong><a href="https://www.2mhost.com/login" target="_blank" title="Manage your 2MHost.com account">› Clients Login</a></strong> 
+
+
+
+ &nbsp;<a href="javascript:void(0);" id="chatSales" style="display:none">›&nbsp;Chat with Sales</a>
+                &nbsp;<a href="javascript:void(0);" id="chatSupport" style="display:none">›&nbsp;Chat with Support</a>
+                <div id="chatWindow" title="2MHOST Chat">
+                    <div class="main-chat-window">
+    <div id="chatMessagesContainer"></div>
+</div>
+<div class="chatStatusBar">
+    <div id="chatBusy"></div>
+    <div style="float:left">
+        <div id="chatConnecting">Connecting... Users Pending: <span class="chatPendingUser"></span></div>
+        <div id="chatConnectionTerminated">Connection Terminated...</div>
+        <div id="chatPeerStatusBar"><span class="chatPeerName"></span> is typing...</div>
+    </div>
+    <div style="clear:both;"></div>
+</div>
+
+<div class="chatBox">
+    <textarea id="chatInputTextbox" cols="50" rows="7"></textarea>
+</div>
+<div class="chatSend">
+    <input type="button" id="chatSend" value="Send">
+</div>
+ <div style="clear:both;"></div>                </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+      <br>
+  <iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.2mhost.com&amp;layout=button_count&amp;show_faces=false&amp;width=450&amp;action=like&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="margin-top: 20px;vertical-align:middle;border:none; overflow:hidden; width:78px; height:21px;"></iframe>
+</div>
+  <div style="clear:both"></div>
+</div>
+<div class="menu_box">
+    <ul class="top_nav">
+        
+<li><em>Web Hosting</em>
+      <ul id="hosting">
+        <li><a href="/index.html">Web Hosting Plans</a></li>
+   
+        <li><a href="https://www.2mhost.com/admin/order/group/a">Order Personal package</a></li>
+        
+        <li><a href="https://www.2mhost.com/admin/order/group/business">Order Business package</a></li>
+        <li><a href="https://www.2mhost.com/admin/order/group/b">Order Reseller package</a></li>
+      </ul>
+
+    </li>
+     <li><em>Valued Services</em>
+      <ul id="services">
+        <li><a href="/cpanel.html">cPanel &amp; Admin area</a></li>
+        <li><a href="/free-domain-transfer.html">Free domain transfer</a></li>
+        <li><a href="/free-private-registration.html">Free Privacy ID</a></li>
+      </ul>
+
+     </li>
+    <li><em>About 2MHost</em>
+      <ul id="about">
+        <li><a href="/about.html">Why choose 2MHost.com</a></li>
+        <li><a href="/2mhost-reviews.html">2MHost.com's Reviews</a></li>
+         <li><a href="/privacy-policy.html">Privacy Policy</a></li>
+        <li><a href="/terms.html">Terms of service</a></li>
+
+      </ul>
+    </li>
+
+    <li><em>Contact</em>
+      <ul id="contact">
+        <li><a href="https://www.2mhost.com/login">I'm a 2MHost Client</a></li>
+        <li><a href="/contact.html">I'm NOT a 2MHost Client</a></li>
+      </ul>
+    </li>
+   
+          </ul>
+  <div style="clear:both"></div>
+</div>
+<div class="container">
+ <table width="100%" border="0" cellspacing="1" cellpadding="1">
+  <tbody><tr>
+    <td valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr>
+          <td width="18" bgcolor="#b2d800"><img src="assets/images/g1.gif" alt="" width="18" height="18" border="0"></td>
+          <td bgcolor="#b2d800"></td>
+          <td width="18"><img src="assets/images/g2.png" alt="" width="18" height="18" border="0"></td>
+        </tr>
+        <tr>
+          <td width="18" bgcolor="#b2d800"></td>
+          <td valign="top" bgcolor="#b2d800">
+          <br>
+
+
+                <ul id="side_menu">
+                    
+<li><em>Web Hosting</em>
+      <ul id="hosting">
+        <li><a href="/index.html">Web Hosting Plans</a></li>
+   
+        <li><a href="https://www.2mhost.com/admin/order/group/a">Order Personal package</a></li>
+        
+        <li><a href="https://www.2mhost.com/admin/order/group/business">Order Business package</a></li>
+        <li><a href="https://www.2mhost.com/admin/order/group/b">Order Reseller package</a></li>
+      </ul>
+
+    </li>
+     <li><em>Valued Services</em>
+      <ul id="services">
+        <li><a href="/cpanel.html">cPanel &amp; Admin area</a></li>
+        <li><a href="/free-domain-transfer.html">Free domain transfer</a></li>
+        <li><a href="/free-private-registration.html">Free Privacy ID</a></li>
+      </ul>
+
+     </li>
+    <li><em>About 2MHost</em>
+      <ul id="about">
+        <li><a href="/about.html">Why choose 2MHost.com</a></li>
+        <li><a href="/2mhost-reviews.html">2MHost.com's Reviews</a></li>
+         <li><a href="/privacy-policy.html">Privacy Policy</a></li>
+        <li><a href="/terms.html">Terms of service</a></li>
+
+      </ul>
+    </li>
+
+    <li><em>Contact</em>
+      <ul id="contact">
+        <li><a href="https://www.2mhost.com/login">I'm a 2MHost Client</a></li>
+        <li><a href="/contact.html">I'm NOT a 2MHost Client</a></li>
+      </ul>
+    </li>
+   
+                </ul>
+
+
+
+          </td>
+          <td width="18" bgcolor="#b2d800"></td>
+        </tr>
+        <tr>
+          <td width="18"><img src="assets/images/g4.gif" alt="" width="18" height="18" border="0"></td>
+          <td bgcolor="#b2d800"></td>
+          <td width="18"><img src="assets/images/g3.gif" alt="" width="18" height="18" border="0"></td>
+        </tr>
+      </tbody></table>
+      </td>
+    <td valign="top" width="74%">
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr>
+          <td width="12" style="background: none"><img src="assets/images/1.png" alt="" border="0"></td>
+          <td bgcolor="#C6C6C6"></td>
+          <td width="12" bgcolor="#C6C6C6"><div align="right"> <img src="assets/images/2.gif" alt="" width="13" height="15" border="0"></div></td>
+        </tr>
+        <tr>
+          <td width="12" bgcolor="#C6C6C6"></td>
+          <td bgcolor="#C6C6C6"><br>
+
+            <h1> Privacy Policy</h1></td>
+          <td width="12" bgcolor="#C6C6C6"></td>
+        </tr>
+        <tr>
+          <td width="12" background="assets/images/43.gif"><img src="assets/images/3.gif" alt="" width="13" height="14" border="0"></td>
+          <td background="assets/images/43.gif"><img src="assets/images/43.gif" alt="" width="75" height="14" border="0"></td>
+          <td width="12" background="assets/images/43.gif"><div align="right"> <img src="assets/images/4.gif" alt="" width="13" height="14" border="0"></div></td>
+        </tr>
+        <tr bgcolor="white">
+          <td width="12" background="assets/images/5.gif"><img src="assets/images/5.gif" alt="" width="13" height="10" border="0"></td>
+          <td valign="top">
+          <div class="inner_content">
+
+
+
+
+
+            <style>p{display:block;padding:6px;}</style>
+
+<p>Effective  Date:  11/18/2010</p>
+<p>This privacy  statement describes how 2MHost dot com ltd. collects and uses the  personal information you provide on our Web site: www.2mhost.com. It  also describes the choices available to you regarding our use of your  personal information and how you can access and update this  information.</p>
+<p>2MHost dot com ltd. has been awarded  TRUSTe's Privacy Seal signifying that this privacy policy and  practices have been reviewed by TRUSTe for compliance with <u><a href="http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html">TRUSTe's  program requirements</a></u>
+  <!-- http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html -->
+  including transparency, accountability and choice regarding the  collection and use of your personal information.  TRUSTe's mission,  as an independent third party, is to accelerate online trust among  consumers and organizations globally through its leading privacy  trustmark and innovative trust solutions. If you have questions or  complaints regarding our privacy policy or practices, please contact  us at <u><a href="http://www.2mhost.com/contact.html" target="_blank">http://www.2mhost.com/contact.html</a></u>.   If you are not satisfied with our response you can contact <u><a href="http://watchdog.truste.com/pvr.php?page=complaint">TRUSTe  here</a></u>
+  <!-- http://watchdog.truste.com/pvr.php?page=complaint -->
+  .  </p>
+<p>The TRUSTe program covers only information that is collected through  this Web site, and does not cover information that may be collected  through software downloaded from the site.</p>
+<p><strong>Collection  and Use of Personal Information</strong></p>
+<p>We collect the  following personal information from you</p>
+<ul>
+  <li>
+    <p>Contact  	Information such as name, email address, mailing address, phone  	number</p>
+  </li>
+  <li>
+    <p>Billing Information such as credit  	card number, and billing address</p>
+  </li>
+  <li>
+    <p>Unique Identifiers such as user  	name, account number, password</p>
+  </li>
+  <li>
+    <p>If you are registering,  	transferring, or setting up a domain, information pertinent to that  	domain.</p>
+  </li>
+</ul>
+<p>As is true of  most Web sites, we automatically gather information about your  computer such as your IP address, browser type, referring/exit pages,  and operating system.</p>
+<p>We use this  information to</p>
+<ul>
+  <li>
+    <p>Respond to  	customer service &amp; offer requests </p>
+  </li>
+  <li>
+    <p>Administer your account</p>
+  </li>
+  <li>
+    <p>Improve our Web site and  	marketing efforts</p>
+  </li>
+</ul>
+<p><strong>Choice/Opt-Out</strong></p>
+<p>At this time, we  only send you service-related communications; generally you may not  opt-out of these types of communications. However, if you would like  to make any adjustments to receiving notifications, you may log into  your account and update your notification selections or you can  contact us at http://www.2mhost.com/contact.html</p>
+<p><strong>Information Obtained from Third  Parties</strong></p>
+<p>If you provide  us personal information about others (such as providing information  about your company, while registering a domain), or if others give us  your information, we will only use that information for the specific  reason for which it was provided to us.</p>
+<p><strong>Information  Sharing</strong></p>
+<p>We will share  your personal information with third parties only in the ways that  are described in this privacy statement. We do not sell your personal  information to third parties.</p>
+<p>We may provide  your personal information to companies that provide services to help  us with our business activities such as Domain registration and  Issuing SSL certificates. These companies are authorized to use your  personal information <em>only as necessary to provide</em> these  services to us.</p>
+<p>We may also  disclose your personal information</p>
+<ul>
+  <li>
+    <p>as required by  	law such as to comply with a subpoena, or similar legal process</p>
+  </li>
+  <li>
+    <p>when we believe in good faith that  	disclosure is necessary to protect our rights, protect your safety  	or the safety of others, investigate fraud, or respond to a  	government request,</p>
+  </li>
+  <li>
+    <p>if 2MHost dot com ltd. is involved  	in a merger, acquisition, or sale of all or a portion of its assets,  	you will be notified via email and/or a prominent notice on our Web  	site of any change in ownership or uses of your personal  	information, as well as any choices you may have regarding your  	personal information, </p>
+  </li>
+  <li>
+    <p>to any other third party with  	your prior consent to do so. </p>
+  </li>
+</ul>
+<strong>Cookies  and Other Tracking Technologies</strong>
+<p><em>Cookies</em></p>
+<p>A  cookie is a small text file that is stored on a user’s computer for  record-keeping purposes. We use cookies on this site. We do not link  the information we store in cookies to any personally identifiable  information you submit while on our site.  We use both session ID  cookies and persistent cookies.  We use session cookies to make it  easier for you to navigate our site. A session ID cookie expires when  you close your browser. A persistent cookie remains on your hard  drive for an extended period of time. You can remove persistent  cookies by following directions provided in your Internet browser’s  “help” file. We set a persistent cookie to store your passwords,  so you don’t have to enter it more than once.  Persistent cookies  also enable us to track and target the interests of our users to  enhance the experience on our site.  If you reject cookies,  you will  not able to manage your hosting account using our password protected  area.
+</p>
+<p><br>
+  <br>
+</p>
+<em><strong>Tracking  Technologies &amp;Third Party Cookies</strong></em>
+<br>
+Cookies  and tracking information not shared with any third party.
+<p><br>
+<em>Links to Other Web Sites</em></p>
+<p>Our Site  includes links to other Web sites whose privacy practices may differ  from those of 2MHost dot com ltd. If you submit personal information  to any of those sites, your information is governed by their privacy  statements. We encourage you to carefully read the privacy statement  of any Web site you visit. </p>
+<p><strong>Security</strong></p>
+<p>The security of  your personal information is important to us. When you enter  sensitive information (such as credit card number) on our order  forms, we encrypt the transmission of that information using secure  socket layer technology (SSL).</p>
+<p>We follow  generally accepted industry standards to protect the personal  information submitted to us, both during transmission and once we  receive it. No method of transmission over the Internet, or method of  electronic storage, is 100% secure, however. Therefore, we cannot  guarantee its absolute security.</p>
+<p>If you have any  questions about security on our Web site, you can contact us at<u> http://www.2mhost.com/contact.html</u></p>
+<p><strong>Additional  Policy Information</strong></p>
+<p>With your  consent we may post your testimonial along with your name.  If you  want your testimonial removed please contact us using your admin area  http://www.2mhost.com/admin</p>
+<p><strong>Correcting and Updating Your  Personal Information</strong></p>
+<p>To review and  update your personal information to ensure it is accurate, you may  login to your account http://www.2mhost.com/admin</p>
+<p><strong>Notification of Privacy Statement  Changes</strong></p>
+<p>We may update  this privacy statement to reflect changes to our information  practices. If we make any material changes we will notify you by  email (sent to the e-mail address specified in your account) or by  means of a notice on this Site prior to the change becoming  effective. We encourage you to periodically review this page for the  latest information on our privacy practices.</p>
+<p><strong>Contact  Information</strong></p>
+<p>You can contact  us about this privacy statement by writing or email us at the address  below:</p>
+<p>2MHost Dot Com Limited<br>
+  Blk A 15/F Hillier Commercial Building  65-67 Bonham Strand, East Sheung Wan<br>
+Hong Kong</p>
+<p>Email: <u>http://www.2mhost.com/contact.html</u></p>
+
+
+
+
+          </div>
+</td>
+          <td width="12" background="assets/images/6.gif"><img src="assets/images/6.gif" alt="" width="13" height="5" border="0"></td>
+        </tr>
+        <tr>
+          <td width="12"><img src="assets/images/7.gif" alt="" width="13" height="20" border="0"></td>
+          <td bgcolor="white" background="assets/images/9.gif"><img src="assets/images/9.gif" alt="" width="4" height="20" border="0"></td>
+          <td width="12"><img src="assets/images/8.gif" alt="" width="13" height="20" border="0"></td>
+        </tr>
+      </tbody></table></td>
+  </tr>
+  <tr>
+    <td valign="top">&nbsp;</td>
+    <td valign="top">&nbsp;</td>
+  </tr>
+</tbody></table></div>
+<div class="footer">
+<strong>IMPORTANT:</strong>&nbsp;
+Certain activities are not allowed to take place on 2MHost.com servers, such as mass
+emailing (mailing lists) and SSH access. Please understand that we do not allow
+any type of mass emailing script to be run on any of our web hosting packages.
+You can read more information about this on our <a href="/terms.html">Terms of Service page</a>.<hr>
+<div style="float:left;width:57%">
+  <ul>
+    <li><a href="/index.html/shared_hosting">Shared Hosting</a></li>
+    <li><a href="/index.html/business_hosting" rel="nofollow">Business Class Hosting</a></li>
+    <li><a href="/index.html/reseller_hosting" rel="nofollow">Reseller Hosting</a></li>
+  </ul>
+  <ul>
+  <li><a href="/free-domain-transfer.html">Free Domain Transfer</a></li>
+    <li><a href="/free-private-registration.html">Free Private Domain registration</a></li>
+    <li><a href="http://www.2mhost.com/kb" target="_blank">Hosting Knowledge Base</a></li>
+  </ul>
+  <ul>
+    <li><a href="/about.html">About 2MHost</a></li>
+    <li><a href="/2mhost-reviews.html">2MHost reviews</a></li>
+    <li><a href="/terms.html">Terms </a></li>
+    <li><a href="/privacy-policy.html">Privacy Policy</a></li>   
+    </ul>
+  <ul>
+    <li>Contact 2MHost: <a href="/admin"><strong>For current Clients</strong></a> | <a href="/contact.html#non-cleints"><strong>for non-clients</strong></a> </li>    
+  </ul>
+  <br>
+   Copyright © 2001-2011 2MHOST DOT COM LTD.
+<br><br>
+  </div>
+<div style="float:right">
+   <table border="0" cellspacing="2" cellpadding="2">
+    <tbody><tr>
+    <td>
+    <a href="//privacy-policy.truste.com/click-with-confidence/wps/en/www.2mhost.com/seal_m" title="TRUSTe online privacy certification" target="_blank"><img style="border: none" src="//privacy-policy.truste.com/certified-seal/wps/en/www.2mhost.com/seal_m.png" alt="TRUSTe online privacy certification"></a>
+    </td>
+      <td>
+          <a target="_blank" href="https://www.mcafeesecure.com/RatingVerify?ref=www.2mhost.com"><img width="115" height="32" border="0" src="//images.scanalert.com/meter/www.2mhost.com/22.gif" alt="McAfee SECURE sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams"></a>
+      </td>
+      <td>
+
+          <table width="135" border="0" cellpadding="0" cellspacing="0" title="Click to Verify - This site chose VeriSign Trust Seal to promote trust online with consumers."><tbody><tr><td width="135" align="center" valign="top"><script type="text/javascript" src="https://trustseal.verisign.com/getseal?host_name=www.2mhost.com&amp;size=M&amp;use_flash=NO&amp;use_transparent=YES&amp;lang=en"></script></td></tr></tbody></table>
+
+      </td>
+    </tr>
+  </tbody></table></div>
+
+</div>
+
+
+</body></html>
