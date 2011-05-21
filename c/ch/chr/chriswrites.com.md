@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the chriswrites.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229014825id_/http%3A//www.chriswrites.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chriswrites.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521114729id_/http%3A//www.chriswrites.com/privacy-policy-for-chriswritescom) for the most accurate reproduction.*
 
-# Privacy Policy for chriswrites.com | ChrisWrites dot com
+# Privacy Policy | ChrisWrites.com
+
+### Privacy Policy
 
 The privacy of our visitors to chriswrites.com is important to us.
 
