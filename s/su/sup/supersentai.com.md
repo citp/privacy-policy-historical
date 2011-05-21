@@ -1,22 +1,19 @@
-> *The following text is extracted and transformed from the supersentai.com privacy policy that was archived on 2008-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080209092200id_/http%3A//www.supersentai.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supersentai.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521085236id_/http%3A//www.supersentai.com/privacy.htm) for the most accurate reproduction.*
 
-# Super Sentai Time Capsule
-
-### 
+# SuperSentai.com / Disclaimer
 
 SUPERSENTAI.COM has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and spreading practices for this Web site: SUPERSENTAI.COM
 
   Personal Information  
 This Web site does not request any personal information or collect any information that personally identifies you or allows you to be personally contacted. Since we do not collect any personal information on this Web site, we do not share any personal information with any third parties nor do we use any personal information for any purposes.
 
-  
-What do you do with the information collected?  
-All information collected will be used solely by Super Sentai Time Capsule and not given, sold, or otherwise transferred to third parties in a personally identifiable form.  
-  
+  What do you do with the information collected?  
+All information collected will be used solely by Super Sentai Time Capsule and not given, sold, or otherwise transferred to third parties in a personally identifiable form.
+
 Use of Cookies  
-SUPERSENTAI.COM may make use of cookies (small pieces of information placed on your computer by our website) for information collection purposes. Any information provided by these cookies will not be personally identifiable and is solely used to improve your experience at our site. We dot not passively connect personally identifiable information through the use of cookies.  
-   
-External Links  
+Super Sentai Time Capsule may make use of cookies (small pieces of information placed on your computer by our website) for information collection purposes. Any information provided by these cookies will not be personally identifiable and is solely used to improve your experience at our site. We dot not passively connect personally identifiable information through the use of cookies.
+
+  External Links  
 This site contains links to other sites. SUPERSENTAI.COM is not responsible for the privacy practices or the content of such Web sites. 
 
  Third Party Advertising  
