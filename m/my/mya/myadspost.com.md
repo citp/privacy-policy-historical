@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myadspost.com privacy policy that was archived on 2010-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101110204633id_/http%3A//www.myadspost.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myadspost.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521072859id_/http%3A//www.myadspost.com/privacy.php) for the most accurate reproduction.*
 
 # Submit your articles for massive exposure, Sign-up Now for Free!
 
