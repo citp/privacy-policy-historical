@@ -1,436 +1,245 @@
-<!--The following is the downloaded HTML source of the pogoplug.com privacy policy that was archived on 2010-11-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101127184930id_/http%3A//www.pogoplug.com/home-en-privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pogoplug.com privacy policy that was archived on 2011-05-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110521172803id_/http%3A//pogoplug.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-<title>Pogoplug</title>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<meta name="keywords" content="">
-<meta name="title" content="">
-<meta name="description" content="">
+<title>Pogoplug, Your Personal Cloud: Privacy</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="keywords" content="{meta_keywords}">
+<meta name="title" content="{meta_title}">
+<meta name="description" content="{meta_description}">
 <meta name="expires" content="Jan 1, 1980">
-
-<link rel="shortcut icon" href="/favicon.ico">
-<link rel="stylesheet" href="/styles/master.css" type="text/css">
-<link type="text/css" media="screen" rel="stylesheet" href="/styles/colorbox.css">
-
-<link type="text/css" media="screen" rel="stylesheet" href="/styles/ui.base.css">
-<link type="text/css" media="screen" rel="stylesheet" href="/styles/ui.tabs.css">
-<link type="text/css" media="screen" rel="stylesheet" href="/styles/ui.theme.css">
-
-<link rel="stylesheet" type="text/css" href="/styles/gallery.css">
-<link rel="stylesheet" type="text/css" href="/jcarousel/lib/jquery.jcarousel.css">
-<link rel="stylesheet" type="text/css" href="/jcarousel/skins/tango/skin.css">
-	
-<!--[if lt IE 8]>
-<link rel="stylesheet" href="/styles/ie_older.css" type="text/css" />
-<![endif]-->
-<link rel="stylesheet" href="/styles/thickbox.css" type="text/css" media="screen">
-<link rel="stylesheet" href="/styles/datepicker.css" type="text/css" media="screen">
-
-<link rel="stylesheet" href="/styles/paginate.css" type="text/css" media="screen">
+<link rel="stylesheet" href="/styles/reset.css" type="text/css">
+<link rel="stylesheet" href="/styles/menu.css" type="text/css">
+<link rel="stylesheet" href="/styles/subnav.css" type="text/css">
+<link rel="stylesheet" href="/styles/template.css" type="text/css">
+<link type="text/css" href="/styles/jquery.ui.all.css" rel="stylesheet">
+<link type="text/css" href="/styles/jquery.ui.selectmenu.css" rel="stylesheet">
+<link type="text/css" href="/styles/jquery.ui.tabs.css" rel="stylesheet">
 
 
-<script type="text/javascript" src="/scripts/jquery-1.3.2.min.js"></script>
-<script type="text/javascript" src="/scripts/jquery-ui-1.7.2.custom.js"></script>
+<link rel="stylesheet" href="/styles/colorbox.css" type="text/css">
+<link rel="stylesheet" href="/styles/anythingslider.css" type="text/css">
+
+
+
+<script type="text/javascript" src="/scripts/jquery-1.5.1.js"></script>
+<script type="text/javascript" src="/scripts/jquery.ui.core.js"></script>
+<script type="text/javascript" src="/scripts/jquery.ui.widget.js"></script>
+<script type="text/javascript" src="/scripts/jquery.ui.position.js"></script>
+<script type="text/javascript" src="/scripts/jquery.ui.selectmenu.js"></script>
 <script type="text/javascript" src="/scripts/jquery.colorbox.js"></script>
+<script type="text/javascript" src="/scripts/jquery.anythingslider.min.js"></script>
 <script type="text/javascript" src="/scripts/main.js"></script>
+<script type="text/javascript" src="/scripts/jquery.ifixpng.js"></script>
 <script type="text/javascript" src="/scripts/embed.js"></script>
 
-<script type="text/javascript" src="/scripts/ui.core.js"></script>
-<script type="text/javascript" src="/scripts/ui.tabs.js"></script>
-<script type="text/javascript" src="/scripts/jquery.galleria.min.js"></script>
-<script type="text/javascript" src="/jcarousel/lib/jquery.jcarousel.pack.js"></script>
-<script type="text/javascript" src="/scripts/jquery.galleria.tutorial.js"></script>
-<script type="text/javascript" src="/scripts/swfobject.js"></script>
-<script type="text/javascript" src="/scripts/browserDetect.js"></script>
+<script type="text/javascript" src="/scripts/jquery.ui.tabs.js"></script>
 
-<script type="text/javascript">
-	$(document).ready(function(){
-		$(".pogoplugvideo").colorbox({iframe:true, innerWidth:620, innerHeight:440, opacity:.75,scrolling:false });
+<script type="text/javascript" src="/scripts/jquery.client.js"></script>
 
-        $('#home_box_01').click(function() {
-            document.location.href="en_buy_now.html";
-        });
-
-        $('#home_box_02').click(function() {
-            document.location.href="en_learning_center.html";
-        });
-
-        $('#home_box_03').click(function() {
-            window.open('http://my.pogoplug.com/','mypogoplug','width=1200, height=1000'); 
-            return false;
-        });
-
-	});
-
-	var html5 = false;
-	if (navigator.userAgent.match(/iPhone/i) != null) {
-		html5 = true;
-	}
-	if (navigator.userAgent.match(/chrome/i) != null) {
-		html5 = true;
-	}
-	if (navigator.userAgent.match(/iPad/i) != null) {
-		html5 = true;
-	}
-
-	$(document).ready(function() {
-
-		if (html5) {
-            var videoHolder = document.getElementById("homeVideoPlayer");
-			if ( videoHolder != null) {
-				var newa = document.createElement('a');
-				var newimg = document.createElement('img');
-				newimg.src = '/images/home_video_fpo.png';
-				newa.appendChild(newimg);
-				newa.href="javascript:tocHome(1)";
-    			while (videoHolder.firstChild) {
-    				videoHolder.removeChild(videoHolder.firstChild);
-    			}
-                videoHolder.appendChild(newa);
-            }
-
-            var videoHolder2 = document.getElementById("whatis_video_player");
-			if ( videoHolder2 != null) {
-				var newa = document.createElement('a');
-				var newimg = document.createElement('img');
-				newimg.src = '/images/home_video_fpo.png';
-				newa.appendChild(newimg);
-				newa.href="javascript:tocHome(1)";
-    			while (videoHolder2.firstChild) {
-    				videoHolder2.removeChild(videoHolder2.firstChild);
-    			}
-                videoHolder2.appendChild(newa);
-            }
-		} else {
-			var flashvars = {};
-			flashvars.dVideo = "1";
-			flashvars.dBuffer = "8";
-			flashvars.poz = "0";
-			flashvars.introImage = "/images/homeflash/introimage.jpg";
-			flashvars.firstMovie = "/assets/video/en/home_1.flv,/assets/video/en/home_2.flv,/assets/video/en/home_3.flv,/assets/video/en/home_4.flv";
-
-			var params = {};
-			params.menu = "false";
-			params.quality = "high";
-			params.scale = "scale";
-			params.wmode = "transparent";
-			params.allowFullScreen = "true";
-			//params.bgcolor = "#000000";
-
-			var attributes = {};
-			attributes.id = "flasher";
-			attributes.name = "flasher";
-			swfobject.embedSWF("/flash/player.swf", "homeVideoPlayer", "581", "323", "9.0.0", false, flashvars, params, attributes);
-
-			var flashvars = {};
-			flashvars.dVideo = "1";
-			flashvars.dBuffer = "8";
-			flashvars.poz = "0";
-			flashvars.introImage = "/images/homeflash/introimage.jpg";
-			flashvars.firstMovie = "/assets/video/en/whats_pogoplug_1.flv,/assets/video/en/whats_pogoplug_2.flv";
-
-			var params = {};
-			params.menu = "false";
-			params.quality = "high";
-			params.scale = "scale";
-			params.wmode = "transparent";
-			params.allowFullScreen = "true";
-			//params.bgcolor = "#000000";
-
-			var attributes = {};
-			attributes.id = "flasher";
-			attributes.name = "flasher";
-			swfobject.embedSWF("/flash/player.swf", "whatis_video_player", "581", "323", "9.0.0", false, flashvars, params, attributes);
-		}
-
-        tabCounter = 1;
-        $('#main_nav li').each(function(i) {
-             var idAttr = $(this).attr("id");
-			if (  idAttr.indexOf("tab_") == 0 ) {
-                $(this).addClass("tab" + tabCounter );
-				tabCounter++;
-            }
-        });
-
-	});
-
-function tocHome(id){
-	iPad = false;
-	//html5 = true;
-
-    $('#home_video_toc_1').removeClass('home_video_toc_1_on').addClass('home_video_toc_1');
-    $('#home_video_toc_2').removeClass('home_video_toc_2_on').addClass('home_video_toc_2');
-    $('#home_video_toc_3').removeClass('home_video_toc_3_on').addClass('home_video_toc_3');
-    $('#home_video_toc_4').removeClass('home_video_toc_4_on').addClass('home_video_toc_4');
-    $('#home_video_toc_' + id).removeClass('home_video_toc_'+ id ).addClass('home_video_toc_' + id + '_on');
-
-    $('#whatis_video_toc_1').removeClass('whatis_video_toc_1_on').addClass('whatis_video_toc_1');
-    $('#whatis_video_toc_2').removeClass('whatis_video_toc_2_on').addClass('whatis_video_toc_2');
-    $('#whatis_video_toc_' + id).removeClass('whatis_video_toc_'+ id ).addClass('whatis_video_toc_' + id + '_on');
-
-	if (html5) {
-
-		var videoHolder = document.getElementById("homeVideoPlayer");
-        if (videoHolder) {
-			var video = document.createElement('video'); 
-			video.controls = true;
-			video.width = 581;
-			video.height = 323;
-			video.autoplay = true;
-            video.src = '/assets/video/en/home_' + id + '.mp4';
-            while (videoHolder.firstChild) {
-                videoHolder.removeChild(videoHolder.firstChild);
-            }
-            videoHolder.appendChild(video);
-        }
-
-		var videoHolder2 = document.getElementById("whatis_video_player");
-        if (videoHolder2) {
-			var video = document.createElement('video');
-			video.controls = true;
-			video.width = 581;
-			video.height = 323;
-			video.autoplay = true;
-            video.src = '/assets/video/en/whats_pogoplug_' + id + '.mp4';
-            while (videoHolder2.firstChild) {
-                videoHolder2.removeChild(videoHolder2.firstChild);
-            }
-            videoHolder2.appendChild(video);
-        }
-	} else {
-		 swapVideo(id);
-    }
-}
-
-
-</script>
 </head>
-<body><div id="cboxOverlay" style="display: none;"></div><div id="colorbox" style="padding-bottom: 42px; padding-right: 42px; display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxLoadedContent" class="" style="width: 0px; height: 0px;"></div><div id="cboxLoadingOverlay" class=""></div><div id="cboxLoadingGraphic" class=""></div><div id="cboxTitle" class=""></div><div id="cboxCurrent" class=""></div><div id="cboxSlideshow" class=""></div><div id="cboxNext" class=""></div><div id="cboxPrevious" class=""></div><div id="cboxClose" class=""></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position:absolute; top:0; left:0; width:9999px; height:0;"></div></div> 
-<div id="container" class="home_en">
-	<div id="header">
-		<div id="links"><ul><li><a target="_blank" href="http://my.pogoplug.com/">My Pogoplug</a></li><li><a target="_blank" href="http://www.pogoplug.com/blog/">Blog</a></li><li><a target="_blank" href="/home-en-developers-developers-home.html">Developers</a></li><li><a target="_blank" href="http://www.pogoplugged.com/">Community Forum</a></li><li>
-<form style="margin: 0pt; padding: 0pt; display: inline;" name="searchbox" method="get" action="/home-en-search-results.html" id="searchbox_011173209087262989176:wsqz-ayye00"><input type="hidden" name="cx" value="011173209087262989176:wsqz-ayye00"><input type="hidden" name="cof" value="FORID:11;NB:1"><input type="text" onfocus="document.searchbox['q'].value='';" class="searchInput" name="q" size="25" value="Search"><a href="javascript:document.searchbox.submit();" style="margin-left: 2px;"><img border="0" alt="" id="btn_search" src="/images/button_search.gif"></a></form>
-</li><li class="last">
-<form name="langselector" method="post" id="langselector" action=""><select id="languageID" onchange="javascript:changeLanguage();"><option value="de">Deutsch</option><option value="en" selected="selected">English</option><option value="es">Español</option><option value="fr">Français</option><option value="it">Italiano</option></select></form>
-</li></ul></div>	
-	</div>
-	<div id="navandlogo">
-		<div id="logo"><a href="/redirect.aspx?language=en"><img src="/images/logo.png" alt="" border="0" width="210"></a></div>
-		<div id="nav">
-	<ul id="main_nav"><li class="tab" id="tab_whats_pogoplug_4" onmouseover="ShowMenu('menu_whats_pogoplug_4');" onmouseout="HideMenu('menu_whats_pogoplug_4');"><a href="home-en-whats-pogoplug.html">What's Pogoplug?</a><ul class="menu" id="menu_whats_pogoplug_4"><li class="menu_item" onmouseover="this.className='menu_item_on';" onmouseout="this.className='menu_item';"><a href="/home-en-whats-pogoplug-mypogoplug-service.html">My.Pogoplug Service</a></li>
-<li class="separator"><img src="/images/template/separator.gif" alt="" border="0"></li>
-<li class="menu_item" onmouseover="this.className='menu_item_on';" onmouseout="this.className='menu_item';"><a href="/home-en-whats-pogoplug-pogoplug-features.html">Pogoplug Features</a></li>
-<li class="separator"><img src="/images/template/separator.gif" alt="" border="0"></li>
-<li class="menu_item" onmouseover="this.className='menu_item_on';" onmouseout="this.className='menu_item';"><a href="/home-en-whats-pogoplug-product-comparison.html">Product Comparison</a></li>
-<li class="separator"><img src="/images/template/separator.gif" alt="" border="0"></li>
-<li class="menu_item" onmouseover="this.className='menu_item_on';" onmouseout="this.className='menu_item';"><a href="/home-en-whats-pogoplug-partners.html">Partners</a></li>
-</ul></li>
-<li class="tab" id="tab_buy_now_14" onmouseover="ShowMenu('menu_buy_now_14');" onmouseout="HideMenu('menu_buy_now_14');"><a href="home-en-buy-now.html">Buy Now</a><ul class="menu" id="menu_buy_now_14"><li class="menu_item" onmouseover="this.className='menu_item_on';" onmouseout="this.className='menu_item';"><a href="/home-en-buy-now-pogoplug.html">Pogoplug</a></li>
-<li class="separator"><img src="/images/template/separator.gif" alt="" border="0"></li>
-<li class="menu_item" onmouseover="this.className='menu_item_on';" onmouseout="this.className='menu_item';"><a href="/home-en-buy-now-pogoplug-pro.html">Pogoplug Pro</a></li>
-<li class="separator"><img src="/images/template/separator.gif" alt="" border="0"></li>
-<li class="menu_item" onmouseover="this.className='menu_item_on';" onmouseout="this.className='menu_item';"><a href="/home-en-buy-now-pogoplug-biz.html">Pogoplug Biz</a></li>
-<li class="separator"><img src="/images/template/separator.gif" alt="" border="0"></li>
-<li class="menu_item" onmouseover="this.className='menu_item_on';" onmouseout="this.className='menu_item';"><a href="/home-en-buy-now-wifi-adapter.html">WiFi Adapter</a></li>
-<li class="separator"><img src="/images/template/separator.gif" alt="" border="0"></li>
-<li class="menu_item" onmouseover="this.className='menu_item_on';" onmouseout="this.className='menu_item';"><a href="/home-en-buy-now-dealer-locator.html">Dealer Locator</a></li>
-</ul></li>
-<li class="tab" id="tab_support_26" onmouseover="ShowMenu('menu_support_26');" onmouseout="HideMenu('menu_support_26');"><a href="home-en-support.html">Support</a><ul class="menu" id="menu_support_26"><li class="menu_item" onmouseover="this.className='menu_item_on';" onmouseout="this.className='menu_item';"><a href="/home-en-support-downloads.html">Downloads</a></li>
-<li class="separator"><img src="/images/template/separator.gif" alt="" border="0"></li>
-<li class="menu_item" onmouseover="this.className='menu_item_on';" onmouseout="this.className='menu_item';"><a href="https://my.pogoplug.com/" target="_blank">Activate</a></li>
-<li class="separator"><img src="/images/template/separator.gif" alt="" border="0"></li>
-<li class="menu_item" onmouseover="this.className='menu_item_on';" onmouseout="this.className='menu_item';"><a href="/home-en-support-help.html">Help</a></li>
-<li class="separator"><img src="/images/template/separator.gif" alt="" border="0"></li>
-<li class="menu_item" onmouseover="this.className='menu_item_on';" onmouseout="this.className='menu_item';"><a href="/home-en-support-faq.html">FAQ</a></li>
-<li class="separator"><img src="/images/template/separator.gif" alt="" border="0"></li>
-<li class="menu_item" onmouseover="this.className='menu_item_on';" onmouseout="this.className='menu_item';"><a href="http://www.pogoplugged.com/page/starthere" target="_blank">Community Forum</a></li>
-<li class="separator"><img src="/images/template/separator.gif" alt="" border="0"></li>
-<li class="menu_item" onmouseover="this.className='menu_item_on';" onmouseout="this.className='menu_item';"><a href="/home-en-support-contact.html">Contact</a></li>
-</ul></li>
-<li class="tab" id="tab_learning_center_164" onmouseover="ShowMenu('menu_learning_center_164');" onmouseout="HideMenu('menu_learning_center_164');"><a href="home-en-learning-center.html">Learning Center</a></li>
-<li class="tab" id="tab_press_170" onmouseover="ShowMenu('menu_press_170');" onmouseout="HideMenu('menu_press_170');"><a href="home-en-press.html">Press</a><ul class="menu" id="menu_press_170"><li class="menu_item" onmouseover="this.className='menu_item_on';" onmouseout="this.className='menu_item';"><a href="/home-en-press-blog-news.html">Blog - News</a></li>
-<li class="separator"><img src="/images/template/separator.gif" alt="" border="0"></li>
-<li class="menu_item" onmouseover="this.className='menu_item_on';" onmouseout="this.className='menu_item';"><a href="/home-en-press-reviews.html">Reviews</a></li>
-<li class="separator"><img src="/images/template/separator.gif" alt="" border="0"></li>
-<li class="menu_item" onmouseover="this.className='menu_item_on';" onmouseout="this.className='menu_item';"><a href="/home-en-press-press-kit.html">Press Kit</a></li>
-<li class="separator"><img src="/images/template/separator.gif" alt="" border="0"></li>
-<li class="menu_item" onmouseover="this.className='menu_item_on';" onmouseout="this.className='menu_item';"><a href="/home-en-press-company-info.html">Company Info</a></li>
-</ul>
-</li>
-</ul>
+<body><div id="cboxOverlay" style="display: none;"></div><div id="colorbox" style="padding-bottom: 42px; padding-right: 42px; display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxLoadedContent" class="" style="width: 0px; height: 0px;"></div><div id="cboxLoadingOverlay" class=""></div><div id="cboxLoadingGraphic" class=""></div><div id="cboxTitle" class=""></div><div id="cboxCurrent" class=""></div><div id="cboxSlideshow" class=""></div><div id="cboxNext" class=""></div><div id="cboxPrevious" class=""></div><div id="cboxClose" class=""></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position:absolute; top:0; left:0; width:9999px; height:0;"></div></div>
+<div id="top">
+    <div id="topnav">
+        <ul>
+            <li>
+                <img src="/images/cog.png" alt="" width="17" height="17" id="cog"><a href="https://my.pogoplug.com/activate/index.html">Activate 
+                Your Pogoplug</a>
+            </li>
+            <li>
+                <a href="https://my.pogoplug.com/">My Pogoplug Login</a>
+            </li>
+            <li>
+                <a href="developers.html">Developers</a>
+            </li>
 
 
+            <li>
+                <a href="http://www.pogoplugged.com">Forum</a>
+            </li>
+            <li>
+                <a href="store-locator.html">Store Locator</a>
+            </li>
+            <li class="google_te">
+<div id="google_translate_element"></div><script>
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({
+    pageLanguage: 'en',
+    layout: google.translate.TranslateElement.InlineLayout.HORIZONTAL
+  }, 'google_translate_element');
+}
+</script><script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+            </li>
+        </ul>
+    </div>
+    <div id="container">
+        <div id="container_top">
+            <div id="midnav">
+                <a id="logo" href="/"></a>
+                <ul id="mainnav">
+                    <li>
+                        <a href="products.html">Products</a>
+                    </li>
+                    <li>
+                        <a href="downloads.html">Downloads</a>
+                    </li>
+                    <li>
+                        <a href="support.html">Support</a>
+                    </li>
+                    <li class="last">
+                        <a href="about-us.html">About Us</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
 
-</div>
-		<div class="cb"></div>
-	</div>
-	<div id="filler"></div>	
-	<div id="content">
+    </div>
 
-		<div id="mainandcallouts">
+    <div id="hero_bar"></div>
 
-<div id="bgpanel_container">
-<div id="bgpanel_top"></div>
-<div id="bgpanel_content">
-	<div id="bgpanel_content_top"></div>
-	<div id="bgpanel_content_main">
-		
-<div id="main">
+    <div id="container_mid">
+        <div id="content">
+            <div id="contentwell">
 
-			
-		<div id="contentwell">
+<div id="bottomnav_copy">
 <h1>Privacy Policy</h1>
 <p>
-Last revised: October 25, 2009 
+Your privacy is important to us, so Cloud Engines has created this privacy policy ("Policy") so you will understand when and how personal information is collected, used, disclosed and protected with respect to our products (including our partners’ products that incorporate our technology) (collectively, “Products”), our services ("Services"), and our websites ("Sites") located at http://www.cloudengines.com, http://www.pogoplug.com, http://my.pogoplug.com, and any other domains through which we offer our Services, including domains through which we offer our Services in connection with our partners’ products that incorporate our technology. By using any of the Products, Services, or Sites, you consent to the privacy practices described in this Policy and any updates to this Policy in accordance with the terms set forth below. If you do not agree to any of the following terms, please do not use the Services. "Cloud Engines" as used in this Policy means Cloud Engines, Inc., located at 480 Pacific Avenue, San Francisco, CA 94133.
 </p>
+<h2>Summary&nbsp;
+</h2>
+<li>We collect personal information, such as your name and email address, that you provide to us in connection with Products or Services, as well as aggregate information that does not identify you personally.</li>
+<li>We collect aggregate information, including without limitation file names, formats and metadata, related to the content that you remotely access through our Products and Services.</li>
+<li>We collect aggregate information, including without limitation frequency of Service actions (such as sharing, streaming, access), as well as bandwidth usage.</li>
+<li>We will disclose your personal information only in the limited circumstances described below.</li>
+<li>We do not knowingly collect any information provided by children under 18 years of age.</li>
+<li>We have taken appropriate measures to protect your personal information.</li>
 <p>
-Cloud Engines, Inc. (“Cloud Engines”) has created this privacy policy (the "Policy") to explain our privacy practices so you will understand when and how personal information is collected, used, disclosed and protected with respect to our products (“Product”), services ("Service"), and website ("Site") located at http://www.cloudengines.com and http://www.pogoplug.com. By using the Product, Service and the Site, you consent to the privacy practices described in this Policy. 
+&nbsp;
 </p>
-<h3>SUMMARY</h3>
+<h2>WHAT INFORMATION DO WE COLLECT?</h2>
 <p>
-•	We collect personal information, such as your name and email address, that you provide to us in connection with Products or Services, as well as aggregate information that does not identify you personally.
-</p>
-<p>
-•	We do not monitor or collect information regarding any of your content or your files that you access via the Product or Service.
-</p>
-<p>
-•	We will disclose your personal information only in the limited circumstances described below.
-•	We do not collect any information from children under 13 years of age.
-</p>
-<p>
-•	We have taken appropriate measures to protect your personal information.
-</p>
-<h3>WHAT INFORMATION DO WE COLLECT?</h3>
-<p>
-We collect two basic types of information with our Product and Service: personal information and aggregate information. 
+We collect two basic types of information through our Products and Services: personal information and aggregate information. 
 </p>
 <h3>Personal information.</h3>
 <p>
-When you purchase our Product and register to use the Service, we may collect various kinds of contact information about you including, for example, your name, physical address, and e-mail address. You will also be asked to create a user-chosen ID and password for your use when accessing the Service. We may also collect personal information if you provide it via e-mail, message boards, or other interactive services that are accessible by other users. We do not monitor or collect information regarding your content or your files that you access via the Product or Service.   We may collect information that identifies you personally when you send us comments, questions or suggestions. 
+When you purchase our Products and/or register to use our Services, we may collect various kinds of contact information about you including, for example, your name, physical address, and e-mail address. You will also be asked to create a user ID and password for your use when accessing Services. We may also collect personal information if you provide it via e-mail, message boards, or other interactive services that are accessible by other users.  We may collect information that identifies you personally when you send us comments, questions or suggestions. 
+</p>
+<p>
+<strong>None of your content or files that you access remotely through our Products and Services (other than names, formats and metadata) are stored in our servers. When your content or your files are accessed remotely through our Products and Services, the data may pass through our servers (and we track the action of access, streaming and/or sharing), but no copies are retained during this process.</strong>
 </p>
 <h3>Aggregate information.</h3>
 <p>
-Aggregate information is data we collect about a group or category of services or users from which individual user identities have been removed. In other words, information on how you use our Product and Service may be collected and combined with information about how others use the Product and Service, but no personal information will be included in the resulting data. Aggregate data helps us understand trends in our users' needs so that we can better consider new features or otherwise tailor our Product and Service. 
-</p>
-<p>
-We automatically receive certain types of information whenever you interact with us. For example, when you use the Service, our systems may automatically collect your IP address and the type of browser or operating system you use. We use such information, which does not identify individual users, to help manage the effectiveness of our online advertising and to gather access information, such as counting the users who have visited those pages and compiling aggregated statistics about Service usage. We may share aggregate information about our users with third parties for various purposes, including to help us better understand and improve our Product and Service, and for advertising and marketing purposes. 
-</p>
-<p>
-In addition, we use cookies to collect information so that we can improve our Site by seeing which areas and features are most popular; to personalize the Site and improve the Site experience; and to allow you to visit the Site without re-entering your member ID and/or password. Most browsers automatically accept cookies as the default setting. You can modify the setting to reject cookies or to prompt you before accepting a cookie from the sites you visit by editing browser options. If you decide not to accept our cookies, you may not be able to use some of the Site's features or services, and you may have a less satisfactory experience. 
+Aggregate information is data we collect about a group or category of services or users from which individual user identities have been removed. In other words, information on how you use our Products and Services may be collected and combined with similar information gathered from other users of our Products and Services, but no personal information will be included in the resulting data. Aggregate data helps us understand trends in our users' needs so that we can better consider new features or otherwise tailor our Products and our Services. <br>
+We automatically receive certain types of information whenever you interact with us. For example, when you use Services, our systems may automatically collect your IP address and the type of browser or operating system you use. We use such information to help manage the effectiveness of our Service and compiling aggregated statistics about usage of Services. We may share aggregate information about our users with third parties for various purposes, including to help us better understand and improve our Products and Services, and for advertising and marketing purposes. 
+<br>
+In addition, we use cookies for the following purposes: to collect information so that we can improve our Sites by determining which areas and features are most popular; to personalize the Sites and improve the user experience; and to allow you to visit the Sites without re-entering your user ID and/or password. Most browsers automatically accept cookies as the default setting. You can modify the setting to reject cookies or to prompt you before accepting a cookie from the sites you visit by editing browser options. If you decide not to accept our cookies, you may not be able to use some of a Site's features or Services, and you may have a less satisfactory experience. 
 </p>
 <h3>No Information about Children.</h3>
 <p>
-Our Product and Service is not intended to be used by children under the age of 13, and we do not knowingly, directly or passively, collect information from children under the age of 13. If we create offers and products that make it appropriate to collect information from children under the age of 13, we will notify you of the change in this Policy. 
+Our Products and Services are not intended to be used by children under the age of 18, and we do not knowingly, actively or passively, collect information from children under the age of 18. If we create offers and products that make it appropriate to collect information from children under the age of 18, we will notify you of the change in this Policy. 
 </p>
-<h3>HOW DO WE USE PERSONAL INFORMATION?</h3>
+<h2>HOW DO WE USE PERSONAL INFORMATION?</h2>
 <h3>Internal Use of Personal Information.</h3>
 <p>
-All contact information submitted by you is stored in our database and may be archived elsewhere. Access to your personal information will be limited to Cloud Engines employees and contractors who are obligated to protect your information in accordance with this Policy. We use personal information internally to serve our users and enable them to take maximum advantage of our Product and Service. For example, personal information may be used to conduct marketing analysis, to create an individual profile and provide personalized services, to provide services or complete transactions you have requested, to anticipate and resolve problems with our Product and Service, to respond to customer support inquiries, and to create and inform you of new products and services from Cloud Engines that better meet your needs. 
+All contact information submitted by you is stored in our database and may be archived elsewhere. We use commercially reasonable and industry standard measures to ensure that access to your personal information is limited to Cloud Engines employees and contractors who are obligated to protect your information in accordance with this Policy, except with respect to the disclosures to others as described below. We use personal information internally to serve our users and enable them to take maximum advantage of our Products and Services. For example, personal information may be used to conduct marketing analysis, to create an individual profile and provide personalized services, to provide services or complete transactions you have requested, to anticipate and resolve problems with our Products and Services, to respond to customer support inquiries, and to create and inform you of new products and services from Cloud Engines that better meet your needs. 
 </p>
 <h3>Disclosure of Personal Information to Others.</h3>
 <p>
-We do not rent, sell, or share personal information about you with other people or non-affiliated companies except as described below.
+We do not rent, sell, or share personal information about you with other people or non-affiliated companies except as described below.  If you desire to opt out of any such disclosures of your personal information, you may do so by contacting us at the address set forth at the end of this Policy, but please be aware that we may be unable to provide you with any Services in the event you do so opt out.
 </p>
+<li><strong>Consent.</strong> With your consent, we may disclose your personal information to third parties so that they may provide you with products and services that you have requested.  We may disclose your personal information to third parties in other instances if you consent to the disclosure.</li>
+<li><strong>Business Functions. </strong>We may share personal information with third-party vendors who assist us in performing internal functions necessary to operate our business or to improve our Products or Services. In the event that we use third-party vendors to assist us in performing these functions, the third parties may not use or disclose your personal information for any other purpose. </li>
+<li><strong>Business Transfers.</strong> Information about our users and our Products and Services is one of our most important business assets. Therefore, information about our users, including personal information, will be disclosed as part of any merger or acquisition, creation of a separate business to provide the Products and Services, sale or pledge of company assets, or in the event of an insolvency, bankruptcy or receivership in which personal information would be transferred as one of the business assets of the company. </li>
+<li><strong>Partners.</strong>  In the event that any Products you purchased are Cloud Engines partner products that incorporate our technology, we may disclose your personal information to that partner, provided that the partner has agreed to use your personal information in accordance with this Policy.</li>
+<li><strong>Protection of Cloud Engines and Others.</strong> We may release personal information in the good faith belief that release is appropriate and necessary to comply with legal process or authority (e.g., a lawful subpoena, warrant or court order); to enforce or apply our policies; to initiate, render, bill, and collect for amounts owed to us; to protect our rights or property, or the personal safety of Cloud Engines, our users, our employees, or the public; or if we reasonably believe that an emergency involving immediate danger of death or serious physical injury to any person requires disclosure of communications or justifies disclosure of records without delay.</li>
+<h2>HOW DO WE PROTECT YOUR PERSONAL INFORMATION?</h2>
 <p>
-• Consent. With your consent, we may disclose your personal information to third parties so that they may provide you with products and services that you have requested.
+The protection of your personal information is important to Cloud Engines.  We use safeguards such as firewalls, password-protected databases with limited physical or electronic access, and encryption. In addition, Cloud Engines may utilize secure technology such as SSL to transfer information provided by users and to process sensitive information. While we have taken appropriate measures to prevent loss, misuse, unauthorized access, disclosure, alteration or destruction of the personal information you provide to us, we cannot guarantee that your personal information will be not be compromised by the unauthorized acts of others.
+<br>
+Your account information and access to our Services should be accessible only through the use of an individual user ID and password. To protect the confidentiality of personal information, you must keep your password confidential and not disclose it to any other person. For more information regarding the security of our Products and Services, please check the “Support” pages of our Sites. 
 </p>
+<h2>HOW CAN YOU ACCESS AND CONTROL YOUR PERSONAL INFORMATION?</h2>
 <p>
-• Business Functions. We may share personal information with third-party vendors who assist us in performing internal functions necessary to operate our business or to improve our Products or Services. In the event that we use third-party vendors to assist us in performing these functions, the third parties may not use or disclose your personal information for any other purpose.
+If you are a registered user of our Services, you may view, correct, and delete your personal information through any of the Sites through which you are registered.  If you are not a registered user of our Services, you may contact us at the address set forth below to view, correct, and delete your personal information, to the extent we have any such personal information stored on our servers in a readily accessible form.  
 </p>
-<p>
-• Business Transfers. Information about our users and the Product and Service is one of our most important business assets. Therefore, information about our users, including personal information, will be disclosed as part of any merger or acquisition, creation of a separate business to provide the Product and Service or fulfill products, sale or pledge of company assets as well as in the event of an insolvency, bankruptcy or receivership in which personal information would be transferred as one of the business assets of the company. 
-</p>
-<p>
-• Protection of Cloud Engines and Others. We may release personal information in the good faith belief that release is appropriate and necessary to comply with legal process or authority (e.g., a lawful subpoena, warrant or court order); to enforce or apply our policies; to initiate, render, bill, and collect for amounts owed to us; to protect our rights, property, or personal safety of Cloud Engines, our users, our employees, or the public; or if we reasonably believe that an emergency involving immediate danger of death or serious physical injury to any person requires disclosure of communications or justifies disclosure of records without delay. 
-</p>
-<h3>HOW DO WE PROTECT YOUR PERSONAL INFORMATION?</h3>
-<p>
-The protection of your personal information is important to Cloud Engines.  We use safeguards such as firewalls, password-protected databases with limited physical or electronic access, and encryption. In addition, Cloud Engines may utilize secure technology such as SSL to transfer information provided by users, and additional measures in the processing of sensitive information. While we have taken appropriate measures to guard your personal information, we cannot guarantee that your personal information may be not be disclosed or accessed by the unauthorized acts of others. 
-</p>
-<p>
-Your account information and access to our Service is accessible only through the use of an individual user ID and password. To protect the confidentiality of personal information, you must keep your password confidential and not disclose it to any other person. 
-</p>
-<h3>HOW CAN YOU ACCESS AND CONTROL YOUR PERSONAL INFORMATION?</h3>
-<p>
-If you are a registered user of our Service, you may view, correct, and delete your personal information through the Site. 
-</p>
-<h3>WHAT ELSE?</h3>
+<h2>WHAT ELSE?</h2>
 <h3>Third Party Sites.</h3>
 <p>
-Please be aware that we may provide links to third-party Web sites as a service to our users and we are not responsible for the content or information collection practices of those sites. We encourage you to review and understand their privacy practices before providing them with information or visiting their sites. 
+Please be aware that we may provide links to third-party Web sites as a service to our users, and we are not responsible for the content or information collection practices of those sites. We encourage you to review and understand their privacy practices before providing them with information or visiting their sites. 
 </p>
 <h3>International Users.</h3>
 <p>
-By using our Site and providing us with information, you acknowledge and agree that due to the international dimension of Cloud Engines, we may use the data collected in the course of our relationship for the purposes identified in this policy or in our other communications with you, including the transmission of information outside your resident jurisdiction. Please note that your personal information will be stored and processed on our computers in the United States. The laws on holding personal data in the United States may be less stringent than the laws of your country. If you object to your personal information being transferred or used as described in this Policy, please do not register for the Service. 
+By using any of the Products, Services and Sites and providing us with information, you acknowledge and agree that, due to the international dimension of Cloud Engines, we may use the data collected in the course of our relationship for the purposes identified in this Policy or in our other communications with you, including the transmission of information outside your resident jurisdiction. Please note that your personal information will be stored and processed on our computers in the United States. The laws on holding personal data in the United States may be less stringent than the laws of your country. If you object to your personal information being transferred or used as described in this Policy, please do not use the Sites or register for the Services. Any translation of this Policy is provided for local requirements and in the event of a dispute between the English and any non-English versions, the English version of this Policy shall govern.
 </p>
 <h3>Updates to this Policy.</h3>
 <p>
-We may revise and update this Policy if our practices change, as technology changes, or as we add new services or change existing ones. Any changes will be posted to this document so that you will always know what information we gather and how we use it. If we make any material changes to our Policy or how we handle your personal information, we will post an updated Policy on our site and change the date of the Policy. 
+We may revise and update this Policy if our practices change, as technology changes, or as we add new services or change existing ones. Any changes will be posted to this document so that you will always know what information we gather and how we use it. If we make any material changes to this Policy or how we handle your personal information, we will post a notice of the change on each of the affected Sites. 
 </p>
 <h3>California Privacy Rights.</h3>
 <p>
-California Civil Code Section 1798.83 permits customers who are California residents to request certain information regarding disclosure of personal information to third parties for their direct marketing purposes. We do not provide your personal information to any third party for their direct marketing purposes without your consent. If you would like more information with respect to your privacy rights under California law, you may contact us at the contact point below. Please reference your request as "California Disclosure Information." 
+California Civil Code Section 1798.83 permits customers who are California residents to request certain information regarding disclosure of personal information to third parties for their direct marketing purposes. We do not provide your personal information to any third party for their direct marketing purposes without your consent. If you would like more information with respect to your privacy rights under California law, you may contact us at the address set forth below. Please reference your request as "California Disclosure Information." 
 </p>
-<h3>QUESTIONS?</h3>
+<h2>QUESTIONS</h2>
 <p>
-If you have any questions or comments about this Policy, the privacy practices of the Product and Service, or your dealings with Cloud Engines, please contact us at: legal@cloudengines.com 
+If you have any questions or comments about this Policy, our privacy practices relating to Products, Services, or Sites, or your dealings with Cloud Engines, please contact us at: legal@cloudengines.com.
+</p>
+<p>
+Last revised: February 28, 2011
+</p>
+<p>
+© Copyright 2011 Cloud Engines Inc. All rights reserved.
 </p>
 </div>
 
-   
-			   
-
-
-		</div> 
-		<div class="cb"></div>
-
-
-
-		  </div>
-		</div>
-		<div id="bgpanel_bottom"></div>
-		</div>
 
 
 
 
+        <div class="cb"></div>
 
-		</div>
-	</div>
-	<div style="clear:both;">
-		<div>
-			<div class="footer"><div id="activate"><div id="activate_image"><a target="_blank" href="http://my.pogoplug.com"><img border="0" alt="" src="/images/button_activate.png"></a></div><div id="activate_copy"><a target="_blank" href="http://my.pogoplug.com">Activate Your Pogoplug</a></div><div style="clear: both;"></div></div><div id="social"><div id="follow_us">Follow us on:</div><div id="facebook"><a target="_blank" href="http://www.facebook.com/home.php#!/Pogoplug?ref=ts"><img border="" alt="" src="/images/footer_facebook.png"></a></div><div id="youtube"><a target="_blank" href="http://www.youtube.com/watch?v=Xe96IGIEA4o"><img border="" alt="" src="/images/footer_youtube.png"></a></div><div id="twitter"><a target="_blank" href="http://twitter.com/pogoplug"><img border="" alt="" src="/images/footer_twitter.png"></a></div><div style="clear: both;"></div></div><div style="clear: both;"></div></div>
-		</div>
-	</div>
+        </div>
+    </div>
+   </div>
 
+    <div id="container_btm"></div>
+
+    <div id="footer">
+        <div id="footer_left">
+            <ul>
+                <li id="footer_rights">
+                    © 2011 Cloud Engines, Inc. All Rights Reserved
+                </li>
+                <li>
+                    <a href="privacy.html">Privacy Policy</a>
+                </li>
+                <li>
+                    <a href="terms.html">Terms of Service</a>
+                </li>
+                <li>
+                    <a href="warranty.html">Warranty and Returns</a>
+                </li>
+            </ul>
+        </div>
+        <div id="footer_right">
+            <ul>
+                <li id="footer_plugged">
+                    Get plugged in
+                </li>
+                <li>
+                    <a href="http://twitter.com/pogoplug" id="footer_twitter" target="_blank">twitter</a>
+                </li>
+                <li>
+                    <a href="http://www.facebook.com/Pogoplug" id="footer_facebook" target="_blank">Facebook</a>
+                </li>
+                <li>
+                    <a href="http://www.youtube.com/watch?v=Xe96IGIEA4o" id="footer_youtube" target="_blank">Youtube</a>
+                </li>
+            </ul>
+        </div>
+        <div class="cb"></div>
+    </div>
 </div>
-<div id="copyright"><span>© 2010 CloudEngines</span> · <a href="/home-en-about.html">About</a> · <a href="/home-en-privacy.html">Privacy</a> ·<a href="/home-en-terms.html">Terms &amp; Conditions</a> · <a href="/home-en-warranty.html">Warranty &amp; Returns</a></div>
-<form method="post" name="BuyForm" action="http://store.pogoplug.com/ProductDetails.asp?ProductCode=POGO%2DE01"> 
-<input type="hidden" name="btnaddtocart">
-<input type="hidden" name="ReplaceCartID" value=""> 
-<input type="hidden" name="ProductCode" value="POGO-E02"> 
-<input type="hidden" name="e" value=""> 
-<input type="hidden" name="ReturnTo" value="ShoppingCart.asp"> 
-</form>
-
-<script type="text/javascript">
-
-$(document).ready(function(){
-	$("#tab_privacy_186").addClass("tab_on");
-
-	$("#nav3a_bdc3a576-1dea-4a11-aa87-9495951512ec").addClass("nav3_on");
-	$("#nav3a_bdc3a576-1dea-4a11-aa87-9495951512ec").parents("ul").addClass("nav3_expanded");
-
-	$("#nav3a_bdc3a576-1dea-4a11-aa87-9495951512ec").parent("li > a").addClass("nav3_on");
-	$("#nav3a_bdc3a576-1dea-4a11-aa87-9495951512ec").next("ul").addClass("nav3_expanded");
-
-
-
-
-});
-
-</script>
 
 
 
@@ -443,7 +252,6 @@ try {
 var pageTracker = _gat._getTracker("UA-1457857-4");
 pageTracker._trackPageview();
 } catch(err) {}</script>
-
 
 
 
