@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hau.gr privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120201324id_/http%3A//www.hau.gr/%3Fi%3Dhau.en.terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hau.gr privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521090337id_/http%3A//www.hau.gr/%3Fi%3Dhau.en.terms) for the most accurate reproduction.*
 
 # Privacy Policy | Hellenic American Union
 
-You are at:  [Home](https://web.archive.org/web/20101120201324id_/http%3A//www.hau.gr/%3Fi%3Dhau.en.terms?i=hau.en.home) / Privacy Policy 
+You are at:  [Home](https://web.archive.org/web/20110521090337id_/http%3A//www.hau.gr/%3Fi%3Dhau.en.terms?i=hau.en.home) / Privacy Policy 
 
   * [Google](http://www.google.com/bookmarks/mark?op=edit&bkmk=http%3A%2F%2Fwww.hau.gr%2F%3Fi%3Dhau.en.terms&title=Privacy%20Policy%20|%20Hellenic%20American%20Union)
   * [del.icio.us](http://del.icio.us/post?url=http%3A%2F%2Fwww.hau.gr%2F%3Fi%3Dhau.en.terms&title=Privacy%20Policy%20|%20Hellenic%20American%20Union)
@@ -29,3 +29,5 @@ When you visit this web site, our web server automatically collects a limited am
 This information helps us assess our information services and is used only for this purpose. This information is not used to identify individuals who come to the web site. None of this information is disclosed to other public bodies or individuals.
 
 The only information collected that is used to identify you is information you give voluntarily, when you submit a question or comment, or register for a course, order a book or book a place at an event. This information is only used to process and respond to your question or comment, or to provide the service. This information is not disclosed except to authorized personnel who need it to process your request.
+
+**Last Update At:** 2009/03/16 - 18:44:01 
