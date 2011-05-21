@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the grockit.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216005710id_/http%3A//grockit.com/blog/main/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grockit.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521092057id_/http%3A//grockit.com/blog/main/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy « Grockit Blog
+# Privacy Policy «
 
 Effective: September 22, 2008
 
@@ -89,7 +89,7 @@ back to top
 
 Advertisements that appear on Grockit are sometimes delivered (or “served”) directly to users by third-party advertisers. Such third-party advertisers automatically receive your IP address when this happens. They may also download cookies to your computer, or use other technologies such as JavaScript and “web beacons” to measure the effectiveness of their ads and to personalize advertising content. Doing this allows the third-party advertiser to recognize your computer each time they send you an advertisement in order to measure the effectiveness of their ads and to personalize advertising content. In this way, they may compile information about where individuals using your computer or browser saw their advertisements and determine which advertisements are clicked. Grockit does not have access to or control of the technologies that may be placed by third-party advertisers. Third-party advertisers have no access to your contact information stored on Grockit unless you choose to share it with them.
 
-This Privacy Policy covers the use of cookies and similar technologies by Grockit and does not cover the use of cookies or other tracking technologies by any of its third-party advertisers.
+This Privacy Policy covers the use of cookies and similar technologies by Grockit and does not cover the use of cookies or other tracking technologies by any of its third-party advertisers. Third party vendors, including Google, show Grockit ads on sites on the internet. Third party vendors, including Google, use cookies to serve ads based on a Grockit user’s prior visits to Grockit. Users may opt out of Google’s use of cookies by visiting the [Google advertising opt-out page](http://www.google.com/privacy_ads.html).
 
 back to top
 
