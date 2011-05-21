@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the japancentre.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124015015id_/http%3A//www.japancentre.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the japancentre.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521025311id_/http%3A//japancentre.com/privacy) for the most accurate reproduction.*
 
-# Japanese food | Japan Centre: online food, kitchenware, magazines and book shopping
+# Japan Centre Online
 
 ## Japan Centre Privacy & Security Statement
 
@@ -43,4 +43,4 @@ In order to put the goods you want into the correct basket, we must put a cookie
 
 We will not pass your information to any third parties. You can also stop receiving any information about us and our services by updating your details after creating an account with us. 
 
-If you have any queries about our Privacy Statement you should contact our data controller by e-mail [enquiry@japancentre.com](https://web.archive.org/web/20101124015015id_/http%3A//www.japancentre.com/enquiry@japancentre.com)
+If you have any queries about our Privacy Statement you should contact our data controller by e-mail [enquiry@japancentre.com](https://web.archive.org/web/20110521025311id_/http%3A//japancentre.com/enquiry@japancentre.com)
