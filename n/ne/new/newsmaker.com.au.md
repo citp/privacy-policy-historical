@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the newsmaker.com.au privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126191923id_/http%3A//www.newsmaker.com.au/pages/6-privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsmaker.com.au privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521122026id_/http%3A//www.newsmaker.com.au/pages/6-privacy_policy) for the most accurate reproduction.*
 
 # NewsMaker - Media release service, Press release distribution, Cost-effective PR
-
-## Privacy Policy Overview
 
 At NewsMaker.com.au ("NewsMaker") we are committed to protecting the privacy and security of any personally identifiable information that you provide us. Personally identifiable information includes information that can be linked to a specific individual, such as name, address, phone number, or email address.
 
@@ -71,3 +69,5 @@ NewsMaker and its associated businesses may be required by law to disclose infor
 ## General
 
 If at any time you wish to enquire about any of your personally identifiable information that is stored by NewsMaker please _[contact us](mailto:newshound@newsgallery.com.au)_.
+
+[Email us](mailto:editor@newsmaker.com.au "Please send NewsMaker Services Guide") for any other enquiries or [download the User Guide Presentation](http://www.slideshare.net/newsgal/press-release-services-guide-newsmaker "download the User Guide Presentation.")
