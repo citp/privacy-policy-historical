@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myfoxboston.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228093553id_/http%3A//www.myfoxboston.com/dpp/about_us/privacy_policy/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfoxboston.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521091610id_/http%3A//www.myfoxboston.com/dpp/about_us/privacy_policy/Privacy_Policy) for the most accurate reproduction.*
 
 # Privacy_Policy
 
