@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecostumeshop.ie privacy policy that was archived on 2010-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101118195117id_/http%3A//www.thecostumeshop.ie/index.php%3Fdispatch%3Dpages.view%26page_id%3D7) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecostumeshop.ie privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521170252id_/http%3A//www.thecostumeshop.ie/privacy-policy-en.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
