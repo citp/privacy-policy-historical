@@ -1,16 +1,16 @@
-<!--The following is the downloaded HTML source of the vizanime.com privacy policy that was archived on 2010-03-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100325222548id_/http%3A//www.vizanime.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vizanime.com privacy policy that was archived on 2011-05-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110521173521id_/http%3A//www.vizanime.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
   <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
     <title>Privacy Policy - VIZ ANIME: Free Anime Online. All the Time.</title>
     <!--[if (!IE)|(gte IE 8)]><!-->
-<link href="/assets/common-datauri.css?1267750551" media="screen" rel="stylesheet" type="text/css">
+<link href="/assets/common-datauri.css?1303319417" media="screen" rel="stylesheet" type="text/css">
 <!--<![endif]-->
 <!--[if lte IE 7]>
-<link href="/assets/common.css?1267750551" media="screen" rel="stylesheet" type="text/css" />
+<link href="/assets/common.css?1303319417" media="screen" rel="stylesheet" type="text/css" />
 <![endif]-->
-    <script src="/assets/common.js?1267750551" type="text/javascript"></script>
+    <script src="/assets/common.js?1299863202" type="text/javascript"></script>
     
 <!--[if lt IE 7]>
   <style type="text/css">
@@ -23,11 +23,28 @@
   <script type="text/javascript" src="/javascripts/DD_belatedPNG_0.0.8a-min.js"></script>
   <script type="text/javascript" src="/javascripts/ie6_hacks.js"></script>
 <![endif]-->
+<!--[if IE 8]>
+  <style type="text/css">
+    .gray_btn_25:active { -ms-background-position-y: -34px; }
+    .gray_btn_34:active { -ms-background-position-y: -43px; }
+    .gray_btn_38:active { -ms-background-position-y: -47px; }
+
+    .gray_tab_34_nosel:active { -ms-background-position-y: -43px; }
+    .gray_tab_34_sel:active { -ms-background-position-y: -131px; }
+    .gray_tab_38_nosel:active { -ms-background-position-y: -47px; }
+    .gray_tab_38_sel:active { -ms-background-position-y: -143px; }
+  </style>
+<![endif]-->
 
 
   </head>
   <body>
-    <script type="text/javascript">
+    <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+<script type="text/javascript">
+  env = "production";
+  event_server = "http://events.vizanime.com";
+  
   //<![CDATA[
     Cufon.replace('.section_divider > h1', { fontFamily: 'Avenir' });
     Cufon.replace("#footerlinks .header_headers a", { hover: true, fontFamily: 'Myriad Pro' });
@@ -36,12 +53,12 @@
 
 <div id="header_container">
   <div id="header">
-    <a class="img track" href="/" path="header/home"><img class="img" id="header_viz_logo" src="/images/vizlogo-black.png" alt="Viz Anime home"></a><div id="beta">BETA</div>
+    <a class="img track" href="/" path="header/home"><img class="img" id="header_viz_logo" src="/images/vizlogo-black.png" alt="Viz Anime home"></a>
 
     <div id="search_box">
       <form autocomplete="off" action="/search" id="search_form">
         <input type="text" id="search_input" name="search" value="Search videos">
-        <button type="submit" id="search_submit"></button>
+        <button type="submit" id="search_submit" class="search_submit_red"></button>
         <!--input type="submit" value="SEARCH" id="search_submit" /-->
       </form>
     </div>
@@ -62,7 +79,7 @@
     </div>
 
     <div class="modal_form_button">
-      <a class="track" href="javascript:tryLogin()" path="login"><img src="/images/btn-login.png" alt="Login"></a>
+      <button type="button" class="gray_btn_38 track" onclick="javascript:tryLogin()" path="login" style="font-size:16px;width:130px;"><span class="inner">Login</span></button>
     </div>
 
     <div class="login_forgot_password_link">
@@ -75,11 +92,11 @@
     <p id="forgot_pass_body"></p>
     Email Address: <input type="text" id="forgot_pass_email" name="forgot_pass_email" size="20">
     <div id="forgot_pass_ctl">
-      <button class="red_btn_24 track" path="login/forgot_pwd/reset" id="reset_pass_btn" onclick="javascript:send_forgot_pass()"><span>Reset Password</span></button>
+      <button type="button" class="gray_btn_25 track" path="login/forgot_pwd/reset" id="reset_pass_btn" onclick="javascript:send_forgot_pass()"><span class="inner">Reset Password</span></button>
     </div>
     <div id="forgot_pass_done">
-      <button id="forgot_pass_cancel" class="red_btn_24 track" path="login/forgot_pwd/cancel" onclick="javascript:cancelLoginForgotPassword()"><span>Cancel</span></button>
-      <button id="forgot_pass_close" class="simplemodal-close red_btn_24 track" path="login/forgot_pwd/close"><span>Close</span></button>
+      <button type="button" id="forgot_pass_cancel" class="gray_btn_25 track" path="login/forgot_pwd/cancel" onclick="javascript:cancelLoginForgotPassword()"><span class="inner">Cancel</span></button>
+      <button type="button" id="forgot_pass_close" class="simplemodal-close gray_btn_25 track" path="login/forgot_pwd/close"><span class="inner">Close</span></button>
     </div>
     <div class="clearBoth"><img src="/images/1px.gif"></div>
   </div>
@@ -98,7 +115,7 @@
   <div style="display:none;" id="create_account_success">
     <p>Your account was successfully created! We are sending you a welcome email that describes how to log in to your account. Before you can log in, you must click a link in the welcome email that will activate your account.</p>
     <div class="modal_form_button">
-      <img src="/images/btn-close.png" class="simplemodal-close" alt="Close">
+      <button type="button" class="gray_btn_38 simplemodal-close" style="font-size:16px;width:138px;"><span class="inner">Close</span></button>
     </div>
   </div>
 
@@ -152,10 +169,10 @@
           <input type="text" name="login" value="" id="login" style="width: 186px;"><br>
           <div id="check_login">
             <a class="track" path="signup/check" href="javascript:checkLogin()">Check</a>
-            <div id="profile_url_avail" style="display:none;float:right;">
+            <div id="profile_url_avail" style="display:none;float:right;"></div>
           </div>
         </div>
-      </div></td></tr>
+      </td></tr>
     </tbody></table>
     <table class="sign_up_table" cellspacing="5" style="margin-top:-18px;">
       <tbody><tr><td colspan="2" class="sign_up_radio" style="padding-left:10px;"><font style="color: #8e8e8e;">Gender:</font>&nbsp;&nbsp;
@@ -165,9 +182,9 @@
         <select id="date_month" name="date[month]">
 <option value="1">Jan</option>
 <option value="2">Feb</option>
-<option selected="selected" value="3">Mar</option>
+<option value="3">Mar</option>
 <option value="4">Apr</option>
-<option value="5">May</option>
+<option selected="selected" value="5">May</option>
 <option value="6">Jun</option>
 <option value="7">Jul</option>
 <option value="8">Aug</option>
@@ -198,11 +215,11 @@
 <option value="18">18</option>
 <option value="19">19</option>
 <option value="20">20</option>
-<option value="21">21</option>
+<option selected="selected" value="21">21</option>
 <option value="22">22</option>
 <option value="23">23</option>
 <option value="24">24</option>
-<option selected="selected" value="25">25</option>
+<option value="25">25</option>
 <option value="26">26</option>
 <option value="27">27</option>
 <option value="28">28</option>
@@ -302,12 +319,13 @@
 <option value="2007">2007</option>
 <option value="2008">2008</option>
 <option value="2009">2009</option>
-<option selected="selected" value="2010">2010</option>
-<option value="2011">2011</option>
+<option value="2010">2010</option>
+<option selected="selected" value="2011">2011</option>
 <option value="2012">2012</option>
 <option value="2013">2013</option>
 <option value="2014">2014</option>
 <option value="2015">2015</option>
+<option value="2016">2016</option>
 </select>
 
       </td></tr>
@@ -322,14 +340,14 @@
     <div id="recaptcha_div"></div>
     <br>
     <div class="modal_form_button" style="margin-top: 0px;">
-      <a class="track" href="javascript:createAccount()" path="signup/create_account"><img src="/images/btn-create-account.png" alt="Create"></a>
-      <a class="track simplemodal-close" href="#" path="signup/close"><img src="/images/btn-close.png" alt="Close"></a>
+      <button type="button" class="gray_btn_38 track" onclick="javascript:createAccount()" path="signup/create_account" style="font-size:16px;width:170px;"><span class="inner">Create Account</span></button>
+      <button type="button" class="gray_btn_38 track simplemodal-close" path="signup/close" style="font-size:16px;width:138px;"><span class="inner">Close</span></button>
     </div>
     <!-- </form> -->
   </div>
 </div>
 
-<script type="text/javascript" src="http://api.recaptcha.net/js/recaptcha_ajax.js"></script>
+<script type="text/javascript" src="http://www.google.com/recaptcha/api/js/recaptcha_ajax.js"></script>
 
 <script language="javascript">
   function showSignUpForm() {
@@ -354,46 +372,63 @@
     </div>
     <div id="all_shows_nav"><img src="/images/arrow.jpg">&nbsp;&nbsp;All Shows</div>
 
-    <div id="header_all_shows" style="display: none;">
-      <table id="footerlinks">
+    <div id="header_all_shows" style="display:none;">
+      <table id="headerlinks">
         <tbody><tr>
-        <td class="header_headers"><img src="/images/sj_small.jpg" height="21">&nbsp;&nbsp;<a class="track" path="header/shonen-jump" href="/shonen-jump">SHONEN JUMP</a></td>
-        <td>&nbsp;</td>
-
-    <td class="header_headers"><img src="/images/sb_small.jpg" height="21">&nbsp;&nbsp;<a class="track" path="header/shojo-beat" href="/shojo-beat">SHOJO BEAT</a></td>
-    <td class="header_headers" style="padding-bottom:5px;"><img src="/images/ss_small.jpg" height="21">&nbsp;&nbsp;<a class="track" path="header/shonen-sunday" href="/shonen-sunday">SHONEN SUNDAY</a></td>
-  </tr>
-  <tr>
-    <td>
-      <ol class="allshows_link_list">
-      <li><a class="track " href="/bleach" path="header/bleach">Bleach</a></li>
-
-      <li><a class="track " href="/buso-renkin" path="header/buso-renkin">Buso Renkin</a></li>
-      <li><a class="track " href="/deathnote" path="header/deathnote">Death Note</a></li>
-      <li><a class="track " href="/hikaru-no-go" path="header/hikaru-no-go">Hikaru No Go</a></li>
-      </ol>
-    </td><td>
-      <ol class="allshows_link_list">
-      <li><a class="track " href="/naruto" path="header/naruto">Naruto</a></li>
-      <li><a class="track " href="/naruto-shippuden" path="header/naruto-shippuden">Naruto Shippuden</a></li>
-      <li><a class="track " href="/the-prince-of-tennis" path="header/the-prince-of-tennis">Prince of Tennis</a></li>
-      </ol>
-    </td><td>
-      <ol class="allshows_link_list">
-        <li><a class="track " href="/honey-and-clover" path="header/honey-and-clover">Honey and Clover</a></li>
-        <li><a class="track " href="/honey-and-clover-2" path="header/honey-and-clover-2">Honey and Clover II</a></li>
-        <li><a class="track " href="/nana" path="header/nana">Nana</a></li>
-      </ol>
-    </td><td>
-      <ol class="allshows_link_list">
-
-        <li><a class="track" href="/inuyasha" path="header/inuyasha">Inuyasha</a></li>
-        <li><a class="track" href="/inuyasha-the-final-act" path="header/inuyasha-the-final-act">Inuyasha - The Final Act</a></li>
-        <li><a class="track" href="/kekkaishi" path="header/kekkaishi">Kekkaishi</a></li>
-      </ol>
-    </td>
-  </tr>
-</tbody></table>
+          <td colspan="2" class="header_headers"><img src="/images/sj_small.jpg" height="21">&nbsp;&nbsp;<a class="track" path="header/shonen-jump" href="/shonen-jump">SHONEN JUMP</a></td>
+          <td class="header_headers"><img src="/images/sb_small.jpg" height="21">&nbsp;&nbsp;<a class="track" path="header/shojo-beat" href="/shojo-beat">SHOJO BEAT</a></td>
+          <td class="header_headers" style="padding-bottom:5px;"><img src="/images/ss_small.jpg" height="21">&nbsp;&nbsp;<a class="track" path="header/shonen-sunday" href="/shonen-sunday">SHONEN SUNDAY</a></td>
+          <td class="header_headers"><img src="/images/other_small.jpg" height="21">&nbsp;&nbsp;<span>OTHER SHOWS</span></td>
+        </tr>
+        <tr>
+          <td width="14%">
+            <ol class="allshows_link_list allshows_link_list_red">
+              <li><a class="track" href="/bleach" path="header/bleach">Bleach</a></li>
+              <li><a class="track" href="/blue-exorcist" path="header/blue-exorcist">Blue Exorcist</a></li>
+              <li><a class="track" href="/buso-renkin" path="header/buso-renkin">Buso Renkin</a></li>
+              <li><a class="track" href="/deathnote" path="header/deathnote">Death Note</a></li>
+              <li><a class="track" href="/hikaru-no-go" path="header/hikaru-no-go">Hikaru No Go</a></li>
+              <li><a class="track" href="/is" path="header/is">I"s</a></li>
+              <li><a class="track" href="/naruto" path="header/naruto">Naruto</a></li>
+            </ol>
+          </td>
+          <td width="23%">
+            <ol class="allshows_link_list allshows_link_list_red">
+              <li><a class="track" href="/naruto-shippuden" path="header/naruto-shippuden">Naruto Shippuden</a></li>
+              <li><a class="track" href="/neuro" path="header/neuro">Neuro</a></li>
+              <li><a class="track" href="/nura-rise-of-the-yokai-clan" path="header/nura">Nura: Rise of the Yokai Clan</a></li>
+              <li><a class="track" href="/one-piece" path="header/one-piece">One Piece</a></li>
+              <li><a class="track" href="/the-prince-of-tennis" path="header/the-prince-of-tennis">Prince of Tennis</a></li>
+              <li><a class="track" href="/strawberry-100" path="header/strawberry-100">Strawberry 100%</a></li>
+            </ol>
+          </td>
+          <td width="21%">
+            <ol class="allshows_link_list allshows_link_list_red">
+              <li><a class="track" href="/full-moon" path="header/full-moon">Full Moon</a></li>
+              <li><a class="track" href="/honey-and-clover" path="header/honey-and-clover">Honey and Clover</a></li>
+              <li><a class="track" href="/honey-and-clover-2" path="header/honey-and-clover-2">Honey and Clover II</a></li>
+              <li><a class="track" href="/nana" path="header/nana">Nana</a></li>
+              <li><a class="track" href="/ultra-maniac" path="header/ultra-maniac">Ultra Maniac</a></li>
+              <li><a class="track" href="/vampire-knight" path="header/vampire-knight">Vampire Knight</a></li>
+            </ol>
+          </td>
+          <td width="21%">
+            <ol class="allshows_link_list allshows_link_list_red">
+              <li><a class="track" href="/cross-game" path="header/cross-game">Cross Game</a></li>
+              <li><a class="track" href="/inuyasha" path="header/inuyasha">Inuyasha</a></li>
+              <li><a class="track" href="/inuyasha-the-final-act" path="header/inuyasha-the-final-act">Inuyasha - The Final Act</a></li>
+              <li><a class="track" href="/kekkaishi" path="header/kekkaishi">Kekkaishi</a></li>
+              <li><a class="track" href="/mar" path="header/mar">MÄR</a></li>
+            </ol>
+          </td>
+          <td width="21%">
+            <ol class="allshows_link_list allshows_link_list_red">
+              <li><a class="track" href="/naoki-urasawas-monster" path="header/naoki-urasawas-monster">Naoki Urasawa's Monster</a></li>
+              <li><a class="track" href="/tiger-and-bunny" path="header/tiger-and-bunny">Tiger &amp; Bunny</a></li>
+            </ol>
+          </td>
+        </tr>
+      </tbody></table>
 
     </div>
 
@@ -445,9 +480,9 @@ function show_or_hide_header_all_shows() {
 </script>
 
     <div class="container">
-    <div style="border: 20px solid #ccc;">
-    <div style="border: 1px solid #ab0000; padding-left: 80px; padding-right: 80px; padding-top: 60px; padding-bottom: 60px;">
-      <style>
+        <div style="border: 20px solid #ccc;">
+        <div style="border: 1px solid #ab0000; padding-left: 80px; padding-right: 80px; padding-top: 60px; padding-bottom: 60px;">
+          <style>
     h1 {
       font-size: 20px;
       color: #666;
@@ -774,89 +809,132 @@ function show_or_hide_header_all_shows() {
 		<p>Our sites ©2006 VIZ Media, LLC: All Rights Reserved.</p>
 
 
+        </div>
+        </div>
     </div>
-    </div></div>
     <script>
   //<![CDATA[
     Cufon.replace(".top", { fontFamily: 'Myriad Pro' });
+    Cufon.replace("#footerlinks .headers span", { fontFamily: 'Myriad Pro' });
     Cufon.replace("#footerlinks .headers a", { hover: true, fontFamily: 'Myriad Pro' });
   //]]>
 </script>
 <div id="footer_bg">
   <div id="footer" class="container">
-
     <table id="footerlinks">
-  <tbody><tr>
-        <td style="padding-left:15px;"><img src="/images/vizlogo-black.png" height="25"></td>
-        <td class="headers"><img src="/images/sj_small.jpg" height="21">&nbsp;&nbsp;<a class="track" path="footer/shonen-jump" href="/shonen-jump">SHONEN JUMP</a></td>
-    <td class="headers"><img src="/images/sb_small.jpg" height="21">&nbsp;&nbsp;<a class="track" path="footer/shojo-beat" href="/shojo-beat">SHOJO BEAT</a></td>
-    <td class="headers" style="padding-bottom:5px;"><img src="/images/ss_small.jpg" height="21">&nbsp;&nbsp;<a class="track" path="footer/shonen-sunday" href="/shonen-sunday">SHONEN SUNDAY</a></td>
-  </tr>
-  <tr>
-        <td style="padding-left:15px;">
-      <ol class="footer_link_list">
-        <li><a class="footlinkLast track" href="/" path="footer/home">Home</a></li>
-        <li><a class="footlinkLast track" href="http://store.viz.com" path="footer/store">Store</a></li>
-        <li><a class="footlink track" href="/news" path="footer/news">News/Blog</a></li>
-        <li><a class="footlink track" href="/about" path="footer/about">About</a></li>
-      </ol>
-    </td>
+      <tbody><tr>
+        <td><div style="position:relative;width:250px;"><img src="/images/vizlogo-black.png" height="33"></div></td>
+        <td class="headers" nowrap=""><div><span>MAIN SECTIONS</span></div></td>
+        <td class="headers" nowrap="" style="padding-left:10px;">
+          <div><img src="/images/sj_small.jpg">&nbsp;&nbsp;<a class="track" path="footer/shonen-jump" href="/shonen-jump">SHONEN JUMP</a></div>
+        </td>
+        <td rowspan="2">
+          <table>
+            <tbody><tr>
+              <td class="headers" nowrap="" height="33" style="padding-left:10px;">
+                <div><img src="/images/sb_small.jpg">&nbsp;&nbsp;<a class="track" path="footer/shojo-beat" href="/shojo-beat">SHOJO BEAT</a></div>
+              </td><td class="headers" nowrap="" style="padding-left:14px;">
+                <div><img src="/images/ss_small.jpg">&nbsp;&nbsp;<a class="track" path="footer/shonen-sunday" href="/shonen-sunday">SHONEN SUNDAY</a></div>
+              </td>
+            </tr><tr>
+              <td style="padding-left:10px;">
+                <ol class="footer_link_list footer_link_list_red">
+                  <li><a class="track" href="/full-moon" path="footer/full-moon">Full Moon</a></li>
+                  <li><a class="track" href="/honey-and-clover" path="footer/honey-and-clover">Honey and Clover</a></li>
+                  <li><a class="track" href="/honey-and-clover-2" path="footer/honey-and-clover-2">Honey and Clover II</a></li>
+                  <li><a class="track" href="/nana" path="footer/nana">Nana</a></li>
+                  <li><a class="track" href="/ultra-maniac" path="footer/ultra-maniac">Ultra Maniac</a></li>
+                  <li><a class="track" href="/vampire-knight" path="footer/vampire-knight">Vampire Knight</a></li>
+                </ol>
+              </td><td style="padding-left:19px;">
+                <ol class="footer_link_list footer_link_list_red">
+                  <li><a class="track" href="/cross-game" path="footer/cross-game">Cross Game</a></li>
+                  <li><a class="track" href="/inuyasha" path="footer/inuyasha">Inuyasha</a></li>
+                  <li><a class="track" href="/inuyasha-the-final-act" path="footer/inuyasha-the-final-act">Inuyasha - The Final Act</a></li>
+                  <li><a class="track" href="/kekkaishi" path="footer/kekkaishi">Kekkaishi</a></li>
+                  <li><a class="track" href="/mar" path="footer/mar">MÄR</a></li>
+                </ol>
+              </td>
+            </tr><tr>
+              <td class="headers" colspan="2" nowrap="" height="33" style="padding:35px 0 0 10px;">
+                <div><img src="/images/other_small.jpg">&nbsp;&nbsp;<span>OTHER SHOWS</span></div>
+              </td>
+            </tr><tr>
+              <td colspan="2" style="padding-left:10px;">
+                <ol class="footer_link_list footer_link_list_red">
+                  <li><a class="track" href="/tiger-and-bunny" path="footer/tiger-and-bunny">Tiger &amp; Bunny</a></li>
+                  <li><a class="track" href="/naoki-urasawas-monster" path="footer/naoki-urasawas-monster">Naoki Urasawa's Monster</a></li>
+                </ol>
+              </td>
+            </tr>
+          </tbody></table>
+        </td>
+      </tr>
+      <tr>
+        <td style="padding-top:15px;">
+          <div id="footer_follow">Follow us here as well: </div>
+          <a class="follow track" href="http://twitter.com/viz_media" path="footer/twitter"><img src="/images/icon-twitter.png"></a>
+          <a class="follow track" href="http://www.facebook.com/pages/VizMedia/281874918551" path="footer/facebook"><img src="/images/icon-fb.png"></a>
+        </td>
         <td>
-      <ol class="footer_link_list">
-      <li><a class="track " href="/bleach" path="footer/bleach">Bleach</a></li>
-      <li><a class="track " href="/buso-renkin" path="footer/buso-renkin">Buso Renkin</a></li>
-      <li><a class="track " href="/deathnote" path="footer/deathnote">Death Note</a></li>
-      <li><a class="track " href="/hikaru-no-go" path="footer/hikaru-no-go">Hikaru No Go</a></li>
-      <li><a class="track " href="/naruto" path="footer/naruto">Naruto</a></li>
-      <li><a class="track " href="/naruto-shippuden" path="footer/naruto-shippuden">Naruto Shippuden</a></li>
-      <li><a class="track " href="/the-prince-of-tennis" path="footer/the-prince-of-tennis">Prince of Tennis</a></li>
-      </ol>
-    </td><td>
-      <ol class="footer_link_list">
-        <li><a class="track " href="/honey-and-clover" path="footer/honey-and-clover">Honey and Clover</a></li>
-        <li><a class="track " href="/honey-and-clover-2" path="header/honey-and-clover-2">Honey and Clover II</a></li>
-        <li><a class="track " href="/nana" path="footer/nana">Nana</a></li>
-      </ol>
-    </td><td>
-      <ol class="footer_link_list">
-        <li><a class="track" href="/inuyasha" path="footer/inuyasha">Inuyasha</a></li>
-        <li><a class="track" href="/inuyasha-the-final-act" path="footer/inuyasha-the-final-act">Inuyasha - The Final Act</a></li>
-        <li><a class="track" href="/kekkaishi" path="footer/kekkaishi">Kekkaishi</a></li>
-      </ol>
-    </td>
-  </tr>
-</tbody></table>
-
-
-    <div class="clearBoth"></div>
+          <ol class="footer_link_list footer_link_list_red">
+            <li><a class="footlinkLast track" href="/" path="footer/home">Home</a></li>
+            <li><a class="footlinkLast track" href="http://store.viz.com" path="footer/store">Store</a></li>
+            <li><a class="footlink track" href="/news" path="footer/news">News/Blog</a></li>
+            <li><a class="footlink track" href="/about" path="footer/about">About</a></li>
+          </ol>
+        </td><td style="padding-left:10px;">
+          <ol class="footer_link_list footer_link_list_red">
+            <li><a class="track" href="/bleach" path="footer/bleach">Bleach</a></li>
+            <li><a class="track" href="/blue-exorcist" path="footer/blue-exorcist">Blue Exorcist</a></li>
+            <li><a class="track" href="/buso-renkin" path="footer/buso-renkin">Buso Renkin</a></li>
+            <li><a class="track" href="/deathnote" path="footer/deathnote">Death Note</a></li>
+            <li><a class="track" href="/hikaru-no-go" path="footer/hikaru-no-go">Hikaru No Go</a></li>
+            <li><a class="track" href="/is" path="footer/is">I"s</a></li>
+            <li><a class="track" href="/naruto" path="footer/naruto">Naruto</a></li>
+            <li><a class="track" href="/naruto-shippuden" path="footer/naruto-shippuden">Naruto Shippuden</a></li>
+            <li><a class="track" href="/neuro" path="footer/neuro">Neuro</a></li>
+            <li><a class="track" href="/nura-rise-of-the-yokai-clan" path="footer/nura">Nura: Rise of the Yokai Clan</a></li>
+            <li><a class="track" href="/one-piece" path="footer/one-piece">One Piece</a></li>
+            <li><a class="track" href="/the-prince-of-tennis" path="footer/the-prince-of-tennis">Prince of Tennis</a></li>
+            <li><a class="track" href="/strawberry-100" path="footer/strawberry-100">Strawberry 100%</a></li>
+          </ol>
+        </td>
+      </tr>
+    </tbody></table>
+    <div class="clearBoth" style="height:1px;"><img src="/images/1px.gif"></div>
     <div id="footer_bottom_links">
       <div id="footer_bottom_links_site">
-        <a class="track" href="/copyright" path="footer/copyright">Copyrights</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-        <a class="track" href="/terms-of-use" path="footer/terms-of-use">Terms Of Use</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-        <a class="track" href="/privacy" path="footer/privacy">Privacy Policy</a> 
+        <div class="account_link account_link_not_last">
+          <a class="track" href="/copyright" path="footer/copyright">Copyrights</a>
+        </div>
+        <div class="account_link account_link_not_last">
+          <a class="track" href="/terms-of-use" path="footer/terms-of-use">Terms Of Use</a>
+        </div>
+        <div class="account_link">
+          <a class="track" href="/privacy" path="footer/privacy">Privacy Policy</a> 
+        </div>
       </div>
   
       <span id="footer_copyright">© 2009 VIZ Media, LLC</span>
-      <a class="follow track" href="http://www.facebook.com/pages/VizMedia/281874918551" path="footer/facebook"><img src="/images/icon-fb.png"></a>
-      <a class="follow track" href="http://twitter.com/viz_media" path="footer/twitter"><img src="/images/icon-twitter.png"></a>
-      <div id="footer_follow">Follow us here as well: </div>
       <div id="footer_account"></div>
+      <div class="clearBoth"></div>
     </div>
 
     <div id="msgbox">
       <div id="msgbox_title"></div>
       <div id="msgbox_msg"></div>
       <div id="msgbox_alert" class="msgbox_ctl">
-        <button class="simplemodal-close red_btn_24" style="float:right;"><span>Close</span></button>
+        <button class="simplemodal-close gray_btn_25" style="float:right;"><span class="inner">Close</span></button>
       </div>
       <div id="msgbox_confirm" class="msgbox_ctl">
-        <button id="msgbox_OK" class="simplemodal-close red_btn_24"><span>OK</span></button>
-        <button class="simplemodal-close red_btn_24" style="float:right;"><span>Cancel</span></button>
+        <button id="msgbox_OK" class="simplemodal-close gray_btn_25"><span class="inner">OK</span></button>
+        <button class="simplemodal-close gray_btn_25" style="float:right;"><span class="inner">Cancel</span></button>
       </div>
       <div class="clearBoth"><img src="/images/1px.gif"></div>    
     </div>
 
-    <div class="clearBoth"></div>
+    <div class="clearBoth"><img id="viz_track" src="/images/1px.gif"></div>
   </div>
 </div>
 
@@ -897,30 +975,69 @@ $(document).ready(function() {
 });
 </script>
 
-    <a class="feedback" href="#" title="Feedback"></a>
+<script type="text/javascript">
+var _sf_async_config={uid:11701,domain:"vizanime.com"};
+
+(function(){
+  function loadChartbeat() {
+    window._sf_endpt=(new Date()).getTime();
+    var e = document.createElement('script');
+    e.setAttribute('language', 'javascript');
+    e.setAttribute('type', 'text/javascript');
+    e.setAttribute('src',
+       (("https:" == document.location.protocol) ? "https://s3.amazonaws.com/" : "http://") +
+       "static.chartbeat.com/js/chartbeat.js");
+    document.body.appendChild(e);
+  }
+  var oldonload = window.onload;
+  window.onload = (typeof window.onload != 'function') ?
+     loadChartbeat : function() { oldonload(); loadChartbeat(); };
+})();
+
+</script>
+
+<!-- Start Quantcast tag -->
+<script type="text/javascript">
+  _qoptions={
+    qacct:"p-f1x6iEVTrJi8k"
+  };
+</script>
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<noscript>
+  <img src="http://pixel.quantserve.com/pixel/p-f1x6iEVTrJi8k.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+</noscript>
+<!-- End Quantcast tag -->
+
+
+      <a class="feedback feedback_red" href="javascript:void(0)" title="Feedback"></a>
 
 <div class="popup_modal" id="feedback_form">
 <div id="feedback_form_comments">
-<!-- <form action="/mailer/feedback_send?method=post" method="post"><div style="margin:0;padding:0;display:inline"><input name="authenticity_token" type="hidden" value="zH6ox0Uj8Iz7sMxTKt3AL3NPEgQVo+uRrwLrE7vSJa0=" /></div> -->
+  <div id="feedback_form_error" style="display: none;">
+    Sorry, there was an error sending your message. Please make sure the captcha words are entered correctly.
+  </div>
+<!--  -->
   <h1>Feedback</h1>
   <p style="padding:5px 0 5px 5px">Please submit a suggestion or a comment - we would love to hear from you!</p>
   
-    <div class="modal_form_field" style="margin-top: 20px;">
+    <div class="modal_form_field" style="margin-top:15px;">
       <label for="email">Your Email</label>
       <input type="text" name="email" value="" id="email"><br>
       <i>Optional</i>
     </div>
-    <div class="modal_form_field" style="margin-top: 20px;">
+    <div class="modal_form_field" style="margin-top:15px;">
       <label for="comments">Comments</label>
-      <textarea rows="5" cols="50" name="comments" id="comments"></textarea>
+      <textarea rows="4" cols="50" name="comments" id="comments"></textarea>
     </div>
+    
+    <div id="feedback_captcha" style="margin-top: 10px;"></div>
 
     <div class="modal_form_button">
-      <img src="/images/btn-send.png" id="send_feedback" alt="Send Feedback" style="cursor: pointer;">
-      <img src="/images/btn-cancel.png" class="simplemodal-close" alt="Cancel" style="cursor: pointer;">
+      <button type="button" id="send_feedback" class="gray_btn_34" style="font-size:14px;width:130px;"><span class="inner">Send Feedback</span></button>
+      <button type="button" class="gray_btn_34 simplemodal-close" style="font-size:14px;width:130px;"><span class="inner">Cancel</span></button>
     </div>
   
-<!-- </form> -->
+<!--  -->
 </div>
 
 <div id="feedback_sending">
@@ -928,24 +1045,31 @@ $(document).ready(function() {
 </div>
 
 <div id="feedback_form_result">
-  <h1>Thank you!</h1>
-  <h2>Your comments have been received.</h2>
+    <h1>Thank you!</h1>
+    <h2>Your comments have been received.</h2>
   <div class="modal_form_button">
-    <img src="/images/btn-close.png" alt="Close" class="simplemodal-close">
+    <button type="button" class="gray_btn_34 simplemodal-close" style="font-size:14px;width:130px;"><span class="inner">Close</span></button>
   </div>
 </div>
 </div>
 
 <script language="javascript">
   $(".feedback").click(function() {
+    Recaptcha.create("6LeUgwsAAAAAALYSpmZtIIyuGbr8kpFNTVX7d6sD", 
+      "feedback_captcha", {
+      theme: "blackglass"
+    });
+    $("#feedback_form_error").hide();
     $("#feedback_form").modal({
-      minHeight : 225,
+      minHeight : 450,
       onShow: function() {
         setFieldLabels();
       },
       onClose: function(){
         $("#feedback_form_comments").show(); 
         $("#feedback_form_result").hide();
+        $("#feedback_form_error").hide();
+        Recaptcha.destroy();
         $.modal.close();
       }
     });
@@ -957,11 +1081,19 @@ $(document).ready(function() {
       $("#feedback_sending").show();
       $("#feedback_form_comments").hide();
 
-      $.post("/mailer/feedback_send", { email: $("#email").val(), comments: $("#comments").val() },
+      $.post("/mailer/feedback_send", { email: $("#email").val(), comments: $("#comments").val(), recaptcha_challenge_field: Recaptcha.get_challenge(), recaptcha_response_field: Recaptcha.get_response() },
       function(data, textStatus) {
-        $("#feedback_form_comments").hide(); 
-        $("#feedback_sending").hide(); 
-        $("#feedback_form_result").show();
+        if (data.error == 1) {
+          Recaptcha.reload();
+          $("#feedback_form_error").show();
+          $("#feedback_form_comments").show(); 
+          $("#feedback_sending").hide(); 
+        } else {
+          $("#feedback_form_error").hide();
+          $("#feedback_form_comments").hide(); 
+          $("#feedback_sending").hide(); 
+          $("#feedback_form_result").show();
+        }
         return false;
       }, "json")  
     } else {
@@ -988,7 +1120,7 @@ $(document).ready(function() {
     </div>
 
     <div class="modal_form_button">
-      <a class="track" href="javascript:tryLogin()" path="login"><img src="/images/btn-login.png" alt="Login"></a>
+      <button type="button" class="gray_btn_38 track" onclick="javascript:tryLogin()" path="login" style="font-size:16px;width:130px;"><span class="inner">Login</span></button>
     </div>
 
     <div class="login_forgot_password_link">
@@ -1001,11 +1133,11 @@ $(document).ready(function() {
     <p id="forgot_pass_body"></p>
     Email Address: <input type="text" id="forgot_pass_email" name="forgot_pass_email" size="20">
     <div id="forgot_pass_ctl">
-      <button class="red_btn_24 track" path="login/forgot_pwd/reset" id="reset_pass_btn" onclick="javascript:send_forgot_pass()"><span>Reset Password</span></button>
+      <button type="button" class="gray_btn_25 track" path="login/forgot_pwd/reset" id="reset_pass_btn" onclick="javascript:send_forgot_pass()"><span class="inner">Reset Password</span></button>
     </div>
     <div id="forgot_pass_done">
-      <button id="forgot_pass_cancel" class="red_btn_24 track" path="login/forgot_pwd/cancel" onclick="javascript:cancelLoginForgotPassword()"><span>Cancel</span></button>
-      <button id="forgot_pass_close" class="simplemodal-close red_btn_24 track" path="login/forgot_pwd/close"><span>Close</span></button>
+      <button type="button" id="forgot_pass_cancel" class="gray_btn_25 track" path="login/forgot_pwd/cancel" onclick="javascript:cancelLoginForgotPassword()"><span class="inner">Cancel</span></button>
+      <button type="button" id="forgot_pass_close" class="simplemodal-close gray_btn_25 track" path="login/forgot_pwd/close"><span class="inner">Close</span></button>
     </div>
     <div class="clearBoth"><img src="/images/1px.gif"></div>
   </div>
@@ -1024,7 +1156,7 @@ $(document).ready(function() {
   <div style="display:none;" id="create_account_success">
     <p>Your account was successfully created! We are sending you a welcome email that describes how to log in to your account. Before you can log in, you must click a link in the welcome email that will activate your account.</p>
     <div class="modal_form_button">
-      <img src="/images/btn-close.png" class="simplemodal-close" alt="Close">
+      <button type="button" class="gray_btn_38 simplemodal-close" style="font-size:16px;width:138px;"><span class="inner">Close</span></button>
     </div>
   </div>
 
@@ -1078,10 +1210,10 @@ $(document).ready(function() {
           <input type="text" name="login" value="" id="login" style="width: 186px;"><br>
           <div id="check_login">
             <a class="track" path="signup/check" href="javascript:checkLogin()">Check</a>
-            <div id="profile_url_avail" style="display:none;float:right;">
+            <div id="profile_url_avail" style="display:none;float:right;"></div>
           </div>
         </div>
-      </div></td></tr>
+      </td></tr>
     </tbody></table>
     <table class="sign_up_table" cellspacing="5" style="margin-top:-18px;">
       <tbody><tr><td colspan="2" class="sign_up_radio" style="padding-left:10px;"><font style="color: #8e8e8e;">Gender:</font>&nbsp;&nbsp;
@@ -1091,9 +1223,9 @@ $(document).ready(function() {
         <select id="date_month" name="date[month]">
 <option value="1">Jan</option>
 <option value="2">Feb</option>
-<option selected="selected" value="3">Mar</option>
+<option value="3">Mar</option>
 <option value="4">Apr</option>
-<option value="5">May</option>
+<option selected="selected" value="5">May</option>
 <option value="6">Jun</option>
 <option value="7">Jul</option>
 <option value="8">Aug</option>
@@ -1124,11 +1256,11 @@ $(document).ready(function() {
 <option value="18">18</option>
 <option value="19">19</option>
 <option value="20">20</option>
-<option value="21">21</option>
+<option selected="selected" value="21">21</option>
 <option value="22">22</option>
 <option value="23">23</option>
 <option value="24">24</option>
-<option selected="selected" value="25">25</option>
+<option value="25">25</option>
 <option value="26">26</option>
 <option value="27">27</option>
 <option value="28">28</option>
@@ -1228,12 +1360,13 @@ $(document).ready(function() {
 <option value="2007">2007</option>
 <option value="2008">2008</option>
 <option value="2009">2009</option>
-<option selected="selected" value="2010">2010</option>
-<option value="2011">2011</option>
+<option value="2010">2010</option>
+<option selected="selected" value="2011">2011</option>
 <option value="2012">2012</option>
 <option value="2013">2013</option>
 <option value="2014">2014</option>
 <option value="2015">2015</option>
+<option value="2016">2016</option>
 </select>
 
       </td></tr>
@@ -1248,14 +1381,14 @@ $(document).ready(function() {
     <div id="recaptcha_div"></div>
     <br>
     <div class="modal_form_button" style="margin-top: 0px;">
-      <a class="track" href="javascript:createAccount()" path="signup/create_account"><img src="/images/btn-create-account.png" alt="Create"></a>
-      <a class="track simplemodal-close" href="#" path="signup/close"><img src="/images/btn-close.png" alt="Close"></a>
+      <button type="button" class="gray_btn_38 track" onclick="javascript:createAccount()" path="signup/create_account" style="font-size:16px;width:170px;"><span class="inner">Create Account</span></button>
+      <button type="button" class="gray_btn_38 track simplemodal-close" path="signup/close" style="font-size:16px;width:138px;"><span class="inner">Close</span></button>
     </div>
     <!-- </form> -->
   </div>
 </div>
 
-<script type="text/javascript" src="http://api.recaptcha.net/js/recaptcha_ajax.js"></script>
+<script type="text/javascript" src="http://www.google.com/recaptcha/api/js/recaptcha_ajax.js"></script>
 
 <script language="javascript">
   function showSignUpForm() {
@@ -1280,4 +1413,4 @@ $(document).ready(function() {
     
   
 
-</body></html>
+<script language="javascript" type="text/javascript" src="https://s3.amazonaws.com/static.chartbeat.com/js/chartbeat.js"></script></body></html>
