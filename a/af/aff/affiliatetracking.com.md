@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the affiliatetracking.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120184704id_/http%3A//www.affiliatetracking.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affiliatetracking.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521080736id_/http%3A//affiliatetracking.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Affiliate Tracking Network
 
