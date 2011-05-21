@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jotzoom.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219144742id_/http%3A//jotzoom.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jotzoom.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521182543id_/http%3A//jotzoom.com/privacy) for the most accurate reproduction.*
 
 # Privacy | JotZoom News
 
