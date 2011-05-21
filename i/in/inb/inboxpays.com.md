@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the inboxpays.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120184200id_/http%3A//www.inboxpays.com/uc%3Fa%3Dst%26pt%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inboxpays.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521080630id_/http%3A//www.inboxpays.com/uc%3Fa%3Dst%26pt%3Dprivacy) for the most accurate reproduction.*
 
-# InboxPays :: Privacy Policy
+# Paid Surveys Online To Earn Extra Cash With Inboxpays
 
 What information do we collect?
 
@@ -25,7 +25,7 @@ Any of the information we collect from you may be used in one of the following w
 
 Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
-  * To administer a contest, promotion, survey or other site feature
+  * To administer a contest, promotion, **cash survey** or other site feature
 
 
 
@@ -88,8 +88,8 @@ Contacting Us
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
 [www.inboxpays.com](https://web.archive.org/)  
-848 N. Rainbow Blvd.  
-Las Vegas, NV 89107  
+14781 Memorial Dr. STE 3397  
+Houston, TX 77079  
 United States  
 Use Ticketing System
 
