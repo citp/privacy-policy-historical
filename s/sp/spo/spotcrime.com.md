@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spotcrime.com privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128233118id_/http%3A//spotcrime.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spotcrime.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521092711id_/http%3A//www.spotcrime.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
