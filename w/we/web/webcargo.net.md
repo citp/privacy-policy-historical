@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webcargo.net privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220123255id_/http%3A//www.webcargo.net/en/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webcargo.net privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521051348id_/http%3A//www.webcargo.net/en/privacy.php) for the most accurate reproduction.*
 
 # WEBCARGO | Privacy Policy
 
@@ -115,10 +115,10 @@ Know the risks.
 
 When you communicate with others online, you should be aware that, when disclosing personal information such as one's actual name, member name or email address on a web page or any other medium, such information may be collected, used, and further disclosed by others outside WEBCARGO.net . Accordingly, if you do not want your personal information to be available to others arising from such activities you should not participate in such activities or you should limit the personal information you make available. 
 
-|  [](https://web.archive.org/web/20101220123255id_/http%3A//www.webcargo.net/en/signup.php "Sign Up")
+|  [](https://web.archive.org/web/20110521051348id_/http%3A//www.webcargo.net/en/signup.php "Sign Up")
 
   
-“WEBCARGO has become an indispensable tool for us.” _-BBDO Montréal_
+“WEBCARGO, simply put, saves us time.” _-BBDO Montréal_
 
   
 
