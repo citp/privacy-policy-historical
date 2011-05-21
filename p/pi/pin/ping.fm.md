@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ping.fm privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228222858id_/http%3A//ping.fm/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ping.fm privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521195638id_/http%3A//www.ping.fm/privacy) for the most accurate reproduction.*
 
 # Ping.fm / Privacy Policy
 
@@ -66,4 +66,4 @@ We want you to enjoy your use of Ping.fm's service. If you have any questions, o
 
 Last updated: 02.28.2008 
 
-Copyright © 2010 Seesmic - Trademarks and tradenames used herein are the property of their respective holders.
+Copyright © 2011 Seesmic - Trademarks and tradenames used herein are the property of their respective holders.
