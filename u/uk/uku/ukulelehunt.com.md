@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ukulelehunt.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120192103id_/http%3A//ukulelehunt.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ukulelehunt.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521084913id_/http%3A//ukulelehunt.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Ukulele Hunt
+# Privacy Policy
 
 This page sets forth the site terms and privacy policies of ukulelehunt.com.
 
