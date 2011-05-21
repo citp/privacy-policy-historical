@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topatoco.com privacy policy that was archived on 2010-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101102213015id_/http%3A//topatoco.com/hey/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topatoco.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521100655id_/http%3A//topatoco.com/hey/privacy) for the most accurate reproduction.*
 
 # TopatoCo: We Sell T-shirts by the e-Shore - TopatoCo Privacy Policy
 
