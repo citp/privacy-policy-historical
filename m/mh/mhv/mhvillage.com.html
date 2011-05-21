@@ -1,29 +1,38 @@
-<!--The following is the downloaded HTML source of the mhvillage.com privacy policy that was archived on 2010-11-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101120190437id_/http%3A//www.mhvillage.com/PrivacyPolicy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mhvillage.com privacy policy that was archived on 2011-05-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110521084946id_/http%3A//www.mhvillage.com/PrivacyPolicy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" class="haveJS"><head>
     <title>MHVillage.com - Privacy Policy</title>
         <meta http-equiv="Content-type" content="text/html; charset=iso-8859-1">
     <meta http-equiv="Content-Language" content="en-us">
 
     <link href="/css/master.css" rel="stylesheet" type="text/css">
 
-        
-        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js" type="text/javascript"></script>
-        <script src="/js/min.js" type="text/javascript"></script>
-
-    <script type="text/javascript" src="/js/jquery.bgiframe.min.js"></script>
-    <script type="text/javascript" src="/js/jquery.autocomplete.js"></script>  </head>
+       
+    <script type="text/javascript">
+var MHV = {}; MHV.timer = new Date(); MHV.contentLoad = 0;
+// break out of frame if any ( and page doesn't prohibit it )
+if ((( typeof inFrame == "undefined" ) ||
+    (( typeof inFrame == "boolean" ) && ( ! inFrame ))) &&
+    ( self != top )) {
+  top.location.replace(window.location.href);
+}
+document.documentElement.className = "haveJS";
+    </script>
+    <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>
+    <script type="text/javascript">!window.jQuery && document.write(unescape('%3Cscript src="/js/jquery.js"%3E%3C/script%3E'));</script><script src="/js/jquery.js"></script>
+    <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.10/jquery-ui.min.js"></script>
+      <script src="https://ssl.google-analytics.com/ga.js" async="true"></script></head>
 
   <body>
     <div id="body">
       <div class="tagLine rFloat Alert">America's #1 Marketplace to Buy, Sell, or Rent Manufactured Homes</div>
 
-<ul id="TopMenu" class="TopMenu">
+<ul id="TopMenu" class="TopMenu sf-js-enabled sf-shadow">
   <li class="first">
     <img class="divider" src="/images/TopMenuDivider.gif" alt="">
     <h3 class="first label">Home Buyers</h3>
-    <ul>
+    <ul style="display: none; visibility: hidden;">
       <li><h4><a href="/Listings/Search.php">Find Mobile Homes For Sale</a></h4></li>
       <li><h4><a href="/Listings/Search.php?SearchType=Rent">Find Mobile Homes For Rent</a></h4></li>
       <li><h4><a href="/Communities/Search.php">Find Mobile Home Parks</a></h4></li>
@@ -38,7 +47,7 @@
   <li>
     <img class="divider" src="/images/TopMenuDivider.gif" alt="">
     <h3 class="label">Home Sellers</h3>
-    <ul>
+    <ul style="display: none; visibility: hidden;">
       <li><h4><a href="/ListHome/StartListing.php">Sell Your Mobile Home</a></h4></li>
       <li><h4><a href="/Dealers/Search.php">Find Mobile Home Dealers</a></h4></li>
       <li><h4><a href="/Leads/ContactMe.php">Have a Dealer Contact Me</a></h4></li>
@@ -51,7 +60,7 @@
   <li>
     <img class="divider" src="/images/TopMenuDivider.gif" alt="">
     <h3 class="label">Professionals</h3>
-    <ul>
+    <ul style="display: none; visibility: hidden;">
       <li><h4><a href="/ListHome/StartListing.php">Sell Your Mobile Homes</a></h4></li>
       <li><h4><a href="/ListHome/TourAccounts.php?LearnMore=Learn%20More">Retail Business Websites</a></h4></li>
       <li><h4><a href="/Communities/ShowcaseWhy.php?LearnMore=Learn%20More">Promote Your Communities</a></h4></li>
@@ -89,7 +98,7 @@
           <td class="textleft"><input type="checkbox" name="RememberMe" value="Yes" checked="checked"> Keep me logged in.</td>
         </tr>
       </tbody></table>
-      <p class="centered"><input type="submit" name="LogIn" value="Log In"></p><br>
+      <p class="centered"><input type="submit" name="LogIn" value="Log In"><br></p>
       <p class="centered moreSpace">Don't have an account? <a href="/MyAccount/Login.php" class="FancyLink">Sign up now!</a></p>
       <p class="centered">Forgot your password? <a href="/MyAccount/ForgotPW.php" class="FancyLink">Get help here.</a></p>
       <p><span class="closeLink">close [X]</span>&nbsp;&nbsp;</p>
@@ -97,121 +106,168 @@
  </div>
 
 </div>
-            <div id="LeftSide">
-                <div class="LeftSideSearch">
-          <h3 class="LeftSearchHeader centered">Quick Search</h3>
-          <form id="LeftSearchForm" action="/Listings/Search.php" method="post">
-            <div class="centered">
-              <input id="LeftSearchLocation" name="Location" type="text" size="21" class="defaultText" value="Enter zip or city, state">
-            </div>
-            <div class="centered" style="margin-top: 5px;">
-            <select name="SearchTypeMenu">
-              <option value="Homes">Homes</option>
-              <option value="Communities">Parks</option>
-              <option value="Dealers">Dealers</option>
-              <option value="Sites">Sites</option>
-            </select>&nbsp;&nbsp;<input type="submit" name="Search" value="Search">
-            </div>
-           </form>
-        </div>
-              	<div id="SideMenu">
-	  <div>
-	    <h3>Mobile Homes</h3>
-	    <ul>
-	      <li><h4><a href="/ListHome/StartListing.php">Sell Your Home</a></h4></li>
-	      <li><h4><a href="/Listings/Search.php">Find Homes for Sale</a></h4></li>
-        <li><h4><a href="/Listings/Search.php?SearchType=Rent">Find Homes for Rent</a></h4></li>
-	      <li><h4><a href="/mobilehome.php?key=15&amp;loc=mb">Book Values</a></h4></li>
-	      <li><h4><a href="/mobilehome.php?key=6&amp;loc=mb">Insurance</a></h4></li>
-	      <li><h4><a href="/mobilehome.php?key=19&amp;loc=mb">Financing</a></h4></li>
-	    </ul>
-	  </div>
-	  <div>
-	    <h3>Communities</h3>
-	    <ul>
-	      <li><h4><a href="/Communities/Search.php">Find a Community</a></h4></li>
-	      <li><h4><a href="/Communities/ShowcaseWhy.php?LearnMore=Learn%20More">Edit Your Community</a></h4></li>
-	      <li><h4><a href="/Communities/ShowcaseWhy.php?LearnMore=Learn%20More">Promote Your Community</a></h4></li>
-        <li><h4><a href="/Communities/CommunityReport.php">Get a List of Communities</a></h4></li>
-	    </ul>
-	  </div>
-	  <div>
-	    <h3>Retailers</h3>
-	    <ul>
-	      <li><h4><a href="/Dealers/Search.php">Find a Retailer</a></h4></li>
-	      <li><h4><a href="/MyAccount/Advertise.php">Promote Your Business</a></h4></li>
-	    </ul>
-	  </div>
-	  <div>
-	    <h3>Sites</h3>
-	    <ul>
-	      <li><h4><a href="/Communities/FindSites.php">Find Available Sites</a></h4></li>
-	      <li><h4><a href="/MyAccount/Advertise.php">Promote Site Availability</a></h4></li>
-	    </ul>
-	  </div>
-	  <div>
-	    <h3>Products</h3>
-	    <ul>
-        <li><h4><a href="/ListHome/StartListing.php">Mobile Home Ads</a></h4></li>
-	      <li><h4><a href="/mobilehome.php?key=15&amp;loc=mb">Book Values</a></h4></li>
-	      <li><h4><a href="/mobilehome.php?key=19&amp;loc=mb">Financing</a></h4></li>
-	      <li><h4><a href="/mobilehome.php?key=6&amp;loc=mb">Insurance</a></h4></li>
-	      <li><h4><a href="/MyAccount/Advertise.php">Pro Advertising</a></h4></li>
-	      <li><h4><a href="/mobilehome.php?key=27">Mobile Home Parts</a></h4></li>
-              <li><h4><a href="/Resources/Resources.php">MHVillage Resources</a></h4></li>
-	    </ul>
-	  </div>
-	  <div>
-	    <h3>Solutions</h3>
-	    <ul>
-	      <li><h4><a href="/Solutions/BuyersGuide.php">Mobile Home Buyer's Guide</a></h4></li>
-	      <li><h4><a href="/Solutions/SellersGuide.php">Mobile Home Seller's Guide</a></h4></li>
-	      <li><h4><a href="/Solutions/ProfessionalsGuide.php">Mobile Home Professional's Guide</a></h4></li>
-	    </ul>
-	  </div>
-	  <div>
-	    <h3>Your Account</h3>
-	    <ul>
-	      	        <li><h4><a href="/MyAccount/index.php">Why Register?</a></h4></li>
-	        <li><h4><a href="/MyAccount/index.php">Register Now</a></h4></li>
-	        <li><h4><a href="/MyAccount/Login.php#LogIn">Log In</a></h4></li>
-	      	    </ul>
-	  </div>
-	</div>
-  <script type="text/javascript">
-  
-   /* <![CDATA[ */
-    var lastOpen = parseInt($.cookie("SideMenu"));
-    if ( isNaN(lastOpen) ) lastOpen = 0;
+      <div id="LeftSide">
+    <div class="LeftSideSearch">
+    <h3 class="LeftSearchHeader centered">Quick Search</h3>
+    <form id="LeftSearchForm" action="/Listings/Search.php" method="post">
+  <div class="centered">
+    <input id="LeftSearchLocation" name="Location" type="text" size="21" class="defaultText" value="Enter zip or city, state">
+  </div>
+  <div class="centered" style="margin-top: 5px;">
+    <select name="SearchTypeMenu">
+      <option value="Homes">Homes</option>
+      <option value="Communities">Parks</option>
+      <option value="Dealers">Dealers</option>
+      <option value="Sites">Sites</option>
+    </select>&nbsp;&nbsp;<input type="submit" name="Search" value="Search">
+  </div>
+  </form>
+  </div>
+      <div id="SideMenu">
+    <div>
+      <h3>Mobile Homes</h3>
+      <ul class="ui-accordion-content-active">
+	<li><h4><a href="/ListHome/StartListing.php">Sell Your Home</a></h4></li>
+	<li><h4><a href="/Listings/Search.php">Find Homes for Sale</a></h4></li>
+	<li><h4><a href="/Listings/Search.php?SearchType=Rent">Find Homes for Rent</a></h4></li>
+	<li><h4><a href="/mobilehome.php?key=15&amp;loc=mb">Book Values</a></h4></li>
+	<li><h4><a href="/mobilehome.php?key=6&amp;loc=mb">Insurance</a></h4></li>
+	<li><h4><a href="/mobilehome.php?key=19&amp;loc=mb">Financing</a></h4></li>
+      </ul>
+    </div>
+    <div>
+      <h3>Communities</h3>
+      <ul>
+	<li><h4><a href="/Communities/Search.php">Find a Community</a></h4></li>
+	<li><h4><a href="/Communities/ShowcaseWhy.php?LearnMore=Learn%20More">Edit Your Community</a></h4></li>
+	<li><h4><a href="/Communities/ShowcaseWhy.php?LearnMore=Learn%20More">Promote Your Community</a></h4></li>
+	<li><h4><a href="/Communities/CommunityReport.php">Get a List of Communities</a></h4></li>
+      </ul>
+    </div>
+    <div>
+      <h3>Retailers</h3>
+      <ul>
+	<li><h4><a href="/Dealers/Search.php">Find a Retailer</a></h4></li>
+	<li><h4><a href="/MyAccount/Advertise.php">Promote Your Business</a></h4></li>
+      </ul>
+    </div>
+    <div>
+      <h3>Sites</h3>
+      <ul>
+	<li><h4><a href="/Communities/FindSites.php">Find Available Sites</a></h4></li>
+	<li><h4><a href="/MyAccount/Advertise.php">Promote Site Availability</a></h4></li>
+      </ul>
+    </div>
+    <div>
+      <h3>Products</h3>
+      <ul>
+	<li><h4><a href="/ListHome/StartListing.php">Mobile Home Ads</a></h4></li>
+	<li><h4><a href="/mobilehome.php?key=15&amp;loc=mb">Book Values</a></h4></li>
+	<li><h4><a href="/mobilehome.php?key=19&amp;loc=mb">Financing</a></h4></li>
+	<li><h4><a href="/mobilehome.php?key=6&amp;loc=mb">Insurance</a></h4></li>
+	<li><h4><a href="/MyAccount/Advertise.php">Pro Advertising</a></h4></li>
+	<li><h4><a href="/mobilehome.php?key=27">Mobile Home Parts</a></h4></li>
+	<li><h4><a href="/Resources/Resources.php">MHVillage Resources</a></h4></li>
+      </ul>
+    </div>
+    <div>
+      <h3>Solutions</h3>
+      <ul>
+	<li><h4><a href="/Solutions/BuyersGuide.php">Mobile Home Buyer's Guide</a></h4></li>
+	<li><h4><a href="/Solutions/SellersGuide.php">Mobile Home Seller's Guide</a></h4></li>
+	<li><h4><a href="/Solutions/ProfessionalsGuide.php">Mobile Home Professional's Guide</a></h4></li>
+      </ul>
+    </div>
+    <div>
+      <h3>Your Account</h3>
+      <ul>
+		<li><h4><a href="/MyAccount/index.php">Why Register?</a></h4></li>
+	<li><h4><a href="/MyAccount/index.php">Register Now</a></h4></li>
+	<li><h4><a href="/MyAccount/Login.php#LogIn">Log In</a></h4></li>
+	      </ul>
+    </div>
+    </div>
+    
+    <div class="Testimonies">
+      <h3>What others are saying:</h3>
+            <blockquote><div>The purchaser was from Ohio and saw our ad on your website.  Thank You.&nbsp;&nbsp;</div></blockquote>
+      <p>Bert C.<br>Ramona, CA</p>
+            
+      <div class="ViewMore textright"><a class="TLink FancyLink" href="/ListHome/Testimonials.php">View More</a></div>
+   </div>
 
-    $('#SideMenu')
-      .accordion({header: "h3", selectedClass: "active", active: lastOpen})
-      .bind("accordionchange", function(event, ui) {
-        lastOpen = $("div", this).index($("div h3.ui-state-active", this).parent());
-        $.cookie("SideMenu", lastOpen, { path: '/' });
-      });
-    if (( $.browser.msie ) && ( $.browser.version < 7 )) {
-      $('#SideMenu h3, #SideMenu li').hover(function(e) {
-        if ( ! $(this).hasClass("active") ) {
-          $(this).addClass("Hover");
-        }
-      }, function(e) {
-        $(this).removeClass("Hover");
-      });
-    }
-  /*  ]]> */
+   <div class="centered moreSpace">
+     <a href="http://www.facebook.com/pages/MHVillagecom/82986666492" title="MHVillage.com" target="_blank"><img src="/images/find_us_on_facebook_badge.gif" style="border: 0px;" alt="Find us on Facebook!"></a>
+   </div>
+   <div class="centered moreSpace">
+     <a href="http://www.bbbonline.org/cks.asp?id=104081612174840078" target="_blank"><img src="/images/bbblogo.png" alt=""></a>
+   </div>
+
+   <!-- google ads back from footer -->
+               
+                  <div class="AdContainer">
+      <div id="LeftFooterAds" class="">
+    <script type="text/javascript">
+  google_ad_client = "pub-7986270085555283";
+  /* Left Side Skyscraper */
+  google_ad_width = 160;
+  google_ad_height = 600;
+  google_enable_async = false;
+   
+    google_ad_slot = "4349141853"; /* MHV All Left */
   
   </script>
-  
-        </div>
+  <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+  </div></div>
+      <div id="LeftSearchTarget"></div>
+           </div>
       <div id="Content">
         <div id="UpperContent">
           <h1 class="pageTitle centered Alert">MHVillage.com - Privacy Policy</h1>
         </div>
 
         <div id="RightSide">
+        
+    
+      <div class="AdContainer">
+  <div id="RightFooterAds" class="">
+  <script type="text/javascript"><!--
+  google_ad_client = "pub-7986270085555283";
+  google_ad_width = 120;
+  google_ad_height = 600;
+  google_enable_async = false;
+  google_ad_slot = "8191414936"; /* MHV All Right */
+  //-->
+  </script>
+  <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+  </script>
+</div></div>
+  <div id="RightSearchTarget"></div>
+  
+    
+    
+    <br>
+    <br>
 
-</div><!-- end of RightBlock (moved to footer) -->
+    <div class="MHVillageAd">
+      <h4>By MHVillage</h4>
+      <div class="textBlock">
+        <a href="/mobilehome.php?key=21" target="_blank">Mobile Home Values And Prices</a><br>
+	        Get mobile home values and free value estimates
+	      </div>
+      <div class="textBlock">
+        <a href="/mobilehome.php?key=22" target="_blank">Mobile Home Insurance Quote</a><br>
+        Get quotes from multiple companies
+      </div>
+      <div class="textBlock">
+        <a href="/mobilehome.php?key=23" target="_blank">Financing Mobile Home Loan</a><br>
+        Mortgage lender for mobile homes
+      </div>
+      <h4><a class="yourAdLink" href="/MyAccount/Advertise.php">Advertise Here</a></h4>
+    </div>
+  
+  
+</div>
         <div id="LowerContent">
           <p class="moreSpace">MHVillage.com takes your privacy seriously. Please read the following to learn 
 	more about our privacy policy.</p>
@@ -310,105 +366,51 @@
   <a href="/Appraisal/AHome.php">Mobile Home Values</a> | 
   <a href="/Resources/PreQualify.php">Mobile Home Loans</a> | 
   <a href="/MobileHomeInsurance">Mobile Home Insurance</a><br>
-  Copyright (c) 2003 - 2010 MHVillage Inc.
+  Copyright (c) 2003 - 2011 MHVillage Inc.
 
-  <script type="text/javascript">
-    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-  </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-  <script type="text/javascript">
-    var pageTracker = _gat._getTracker("UA-1302423-1");
-    pageTracker._initData();
-    pageTracker._trackPageview();
-    
-    var userState = 0;
-  </script>
+  <!--[if lte IE 8]>    <script type="text/javascript" src="/js/jquery.bgiframe.min.js"></script><![endif]-->
+    <script type="text/javascript" src="/js/min.js"></script>
+
+<script type="text/javascript">
+  var userState = 0;
+  
+   /* <![CDATA[ */
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-1302423-1']);
+  _gaq.push(['_trackPageview']);
+  _gaq.push(['_trackPageLoadTime']);
+  // googleTrack is in menu.js - don't wait for domContentLoaded
+  if (( MHV.ecom ) && ( MHV.ecom.OrderID )) {
+    googleTrack();
+  }
+
+  (function() {
+    var ga = document.createElement('script');
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    ga.setAttribute('async', 'true');
+    document.documentElement.firstChild.appendChild(ga);
+  })();
+
+ /*  ]]> */
+  
+ </script>
 
 </div>
 
-<div id="LeftFooterAds" class="Hide">
-                
-            <div class="AdContainer">
-       <script type="text/javascript"><!--
-         google_ad_client = "pub-7986270085555283";
-  /* Left Side Skyscraper */
-  google_ad_width = 160;
-  google_ad_height = 600;
-   
-  google_ad_slot = "4349141853"; /* MHV All Left */
-  
-  					 //-->
-        </script>
-        <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-        </script>
-        </div>
 
-          
-  	<div class="Testimonies">
-  	  <h3>What Others are Saying</h3>
-  	    	  <blockquote><div>I don't know how we would have sold our home without your help.  And your listing prices are so reasonable!  Thank you.&nbsp;&nbsp;</div></blockquote>
-  	  <p>Deborah J.<br>Melbourne, FL</p>
-  	  
-  	  <div class="ViewMore textright"><a class="TLink FancyLink" href="/ListHome/Testimonials.php">View More</a></div>
 
-  	</div>
 
-  	<div class="centered moreSpace">
-  <!-- Facebook Badge START --><a href="http://www.facebook.com/pages/MHVillagecom/82986666492" title="MHVillage.com" target="_blank"><img src="/images/find_us_on_facebook_badge.gif" style="border: 0px;" alt="Find us on Facebook!"></a><!-- Facebook Badge END -->
-  	</div>
 
-  <div class="centered moreSpace">
-    <a href="http://www.bbbonline.org/cks.asp?id=104081612174840078" target="_blank"><img src="/images/bbbonlinelogo.gif" alt=""></a>
-  </div>
 
-</div>
 
-<div id="RightFooterAds" class="Hide">
-        
-    
-  
-  <div class="googleAd">
-  <script type="text/javascript"><!--
-  google_ad_client = "pub-7986270085555283";
-  google_ad_width = 120;
-  google_ad_height = 600;
-  google_ad_slot = "8191414936"; /* MHV All Right */
-  //-->
-  </script>
-  <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-  </script>
-  </div>
 
-  
-    
-    
-    <br>
-    <br>
 
-    <div class="MHVillageAd">
-      <h4>By MHVillage</h4>
-      <div class="textBlock">
-        <a href="/mobilehome.php?key=21" target="_blank">Mobile Home Values And Prices</a><br>
-	        Get mobile home values and free value estimates
-	      </div>
-      <div class="textBlock">
-        <a href="/mobilehome.php?key=22" target="_blank">Mobile Home Insurance Quote</a><br>
-        Get quotes from multiple companies
-      </div>
-      <div class="textBlock">
-        <a href="/mobilehome.php?key=23" target="_blank">Financing Mobile Home Loan</a><br>
-        Mortgage lender for mobile homes
-      </div>
-      <h4><a class="yourAdLink" href="/MyAccount/Advertise.php">Advertise Here</a></h4>
-    </div>
-  
-  </div>
 <script type="text/javascript" charset="utf-8">
 
 
 function move(dest, src) {
   if (( src.length > 0 ) && ( dest.length > 0 )) {
-    dest[0].appendChild(src[0]);
+    dest.find(".AdContainer")[0].appendChild(src[0]);
   }
   src.removeClass("Hide");
 }
