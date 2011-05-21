@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the packtpub.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230202429id_/https%3A//www.packtpub.com/article/packtpubcom_privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the packtpub.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521021948id_/http%3A//www.packtpub.com/article/packtpubcom_privacy_policy) for the most accurate reproduction.*
 
-# PacktPub.com Privacy Policy | Packt Publishing Technical & IT Book Store
+# PacktPub.com Privacy Policy | Packt Publishing Technical & IT Book and eBook Store
 
 _Updated 17 December 2010_
 
