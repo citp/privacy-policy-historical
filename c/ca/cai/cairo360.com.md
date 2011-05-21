@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cairo360.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225003630id_/http%3A//www.cairo360.com/footer/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cairo360.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521085220id_/http%3A//www.cairo360.com/footer/privacy) for the most accurate reproduction.*
 
 # Cairo 360 - Privacy Notice
 
