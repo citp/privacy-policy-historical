@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the logic-puzzles.org privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120192002id_/http%3A//www.logic-puzzles.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logic-puzzles.org privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521085327id_/http%3A//www.logic-puzzles.org/privacy.php) for the most accurate reproduction.*
 
 # Logic Puzzles - Solve Online or Print Your Own for Free!
+
+**MAINTENANCE WARNING:** Our scheduled weekly maintenance routines will begin at approximately 4:00 am. It is now 4:55 am. If you are playing competitively you may want to wait until the window has passed before starting any new games. Any unsolved games will _not_ be solvable after maintenance is over. Players who are not concerned about competitive play are welcome to continue solving as normal. The server may be unreachable for 15-20 minutes during this maintenance window. Once this message has disappeared it will be safe to resume normal play. Thank you for your patience!
 
 ## Privacy Policy
 
