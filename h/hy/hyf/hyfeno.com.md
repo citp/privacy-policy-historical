@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hyfeno.com privacy policy that was archived on 2010-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101217071255id_/http%3A//hyfeno.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hyfeno.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521080726id_/http%3A//hyfeno.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,7 +8,7 @@ Your privacy is important to us. To better protect your privacy we provide this 
 
 #### Third Party Advertisers
 
-Third Party ad servers or ad networks may use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, Media Vim, LLC has no access or control over these cookies that may be used by third party advertisers.
+We use third-party companies to serve ads and collect non-personally identifiable information (e.g., the pages you visit, and which links you click, which ads you see and click on, and the categories of search terms you enter) when you visit our web site. These companies may use the information outlined above (which does not include your name, address, email address or telephone number) about your visits to this and other web sites in order to provide advertisements about goods and services of interest to you. These companies often use a cookie or third party web beacon to collect this information. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp) (link to the NAI universal user opt-out).
 
 #### Collection of Personal Information
 
