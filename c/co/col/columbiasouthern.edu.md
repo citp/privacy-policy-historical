@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the columbiasouthern.edu privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121083628id_/http%3A//columbiasouthern.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the columbiasouthern.edu privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521052018id_/http%3A//www.columbiasouthern.edu/privacy) for the most accurate reproduction.*
 
 # Columbia Southern University - Privacy Policy
 
@@ -11,7 +11,7 @@ Mayes Education, Inc. and its subsidiaries including Columbia Southern Universit
   5. **Security of information.** Mayes Education uses best efforts to protect security of personal information collected through its Web sites. Financial transactions submitted through the Web site are encrypted using the Secure Sockets Layer (SSL) protocol.
   6. **User options regarding collection of information.** With regard to automatically collected information, it is standard practice for most Web sites to collect non-personally identifiable information about your Web browser, operating system, IP address and browsing history (i.e. what pages on the CSU and Waldorf College websites viewed). Website users are unable to opt out of providing this non-personally identifiable information but please be assured that this information is collected only for Mayes Education, Inc. internal website development purposes to maintain optimal usability of the CSU and Waldorf College websites. Any other non-personal information collected through the use of cookies, may be opted out of by disabling or rejecting cookies for our site. For more information on cookies, including how you can delete or reject cookies, please refer to your Web browser help file. Cookies help us to improve your Web browsing experience with us. Disabling or rejecting cookies may impact your user experience as they are necessary to provide you with the correct geographically targeted information.
   7. **Requesting removal from CSU and Waldorf College marketing lists.** You may opt out of marketing solicitations at any time. To be removed from the marketing list, please contact the appropriate institution below: 
-    * **Waldorf College (Hybrid Online Programs)**  
+    * **Waldorf College (Online Programs)**  
 PO Box 3269  
 Orange Beach, AL 36561  
 877-267-2157  
