@@ -1,37 +1,86 @@
-> *The following text is extracted and transformed from the cheatcodes.com privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119230511id_/http%3A//www.cheatcodes.com/about/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheatcodes.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521073223id_/http%3A//gamerid.com/company/privacy) for the most accurate reproduction.*
 
-# CheatCodes: Privacy Statement
+# gamerID - Privacy Policy
 
-CheatCodes.com is committed to honoring the privacy of our members and visitors. This privacy policy, part of our overall [Terms of Service](https://web.archive.org/web/20101119230511id_/http%3A//www.cheatcodes.com/about/legal/terms.html), covers personally identifiable information shared through the CheatCodes.com Service.
+  * gamerID knows that you care about how your personal information is used and shared, and we take your privacy very seriously. Please read the following to learn more about our Privacy Policy. By any of the other websites in our network, including [gamerID](http://gamerid.com/), [CheatCodes.com](http://cheatcodes.com/), [GameDetails.com](http://gamedetails.com/), [24:7 GamerNews](http://247gamernews.com/), [Flash Games Alley](http://flashgamesalley.com/), [CheapestGames.com](http://cheapestgames.com/), and [GIDN.com](http://gidn.com/) **("Network Sites")** , you are accepting the practices outlined in this Privacy Policy.
 
-### What information does CheatCodes.com receive and how do we use it?
+This Privacy Policy covers gamerID's treatment of personal information that gamerID gathers when you are on the Network Sites and when you use gamerID services. This policy does not apply to the practices of third parties that gamerID does not own or control, or to individuals that gamerID does not employ or manage.
 
-If you register as a CheatCodes.com Member or for various CheatCodes.com services, we ask you for your name, contact information, preferences, and certain demographic information. This information lets us provide personalized services and communicate separately with you. We also use aggregated information about the use of our services to evaluate our users' preferences, improve our programming, and facilitate third-party reporting of Internet usage.
+## What information do we collect?
 
-Like most websites, we use small bits of data called "cookies" stored on users' computers to simulate a continuous connection. Cookies let us "remember" information about your preferences and allow you to move within our Service without reintroducing yourself. Most browsers let you easily see and control cookies. Some of our advertisers use cookies on our site. We have no access to or control over these cookies.
+We collect information from you when you register on our site, subscribe to our newsletter, respond to a survey, or fill out a form.
 
-We occasionally send email to our registered members. Members can control their notification settings at any time after signing in.
+When registering on our site, we require select personal information (including your full name, city, state and email address). We also enable you to provide additional information, such as a bio, gamertags, online IDs, etc. In addition, you may choose to include a photo or avatar of yourself in your profile. You can control how your information is displayed and used by visiting your **Account Settings** page.
 
-We also use third-party advertising companies to serve ads when you visit our website. These companies may collect general information about your visits to our website, such as the number of times you have viewed an ad (but not your name, address, or other personal information). These companies may also use that information to server ads about good and services that may be of interest to you on this website, other websites, and other forms of media. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/optout_nonppii.asp).
+Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
-### Can I choose what information I disclose?
+## How do we use your information?
 
-While we need certain information to register you as a unique user and let you access personalized services, other requested information is optional and may be given at your discretion.
+Any of the information we collect from you may be used in one of the following ways:  
 
-### What if I need to review or change the personal information I previously disclosed?
 
-We encourage registered users to update and edit their personal information and keep it current. You can easily correct or update your personal information at any time after signing in.
+    1. To personalize your experience (your information helps us to better respond to your individual needs)
+    2. To improve our Network Sites (we continually strive to improve our Network Sites' offerings based on the information and feedback we receive from you)
+    3. To improve customer service (your information helps us to more effectively respond to your customer service requests). Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent.
+    4. To administer a contest, promotion, survey or other site feature
+    5. To send periodic emails. If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
-### What kind of security is used to protect my information?
+## How do we protect your information?
 
-We store all user information in secure databases protected via a variety of access controls. This data is accessed only for the purposes specified in this privacy statement.
+We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information.
 
-### Who has access to my information?
+All supplied information is encrypted into our database to be only accessed by those authorized with special access rights to our systems, and are required to keep the information confidential.
 
-We do not share personally identifiable data with other companies unless you specifically tell us we can do so.
+## Do we use cookies?
 
-### What about children's information?
+Yes. Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
 
-Children under 13 may not use any CheatCodes.com services that require disclosing personally identifiable information. Please see our information on the [Children's Online Privacy Protection Act](https://web.archive.org/web/20101119230511id_/http%3A//www.cheatcodes.com/about/legal/coppa.html).
+We use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
 
-_Last Modified: February 23, 2009_
+## Do we disclose any information to outside parties?
+
+No. We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. We reserve the right to release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. Non-personally identifiable visitor information may be provided to other parties for advertising, statistical, or other uses.
+
+## Opt-Out Policy
+
+To opt out of receiving email communications from gamerID and/or Network Sites, please either click the **Unsubscribe** link included in the body of an email communication from us or visit <http://gamerid.com/unsubscribe/>.
+
+## Third party links
+
+At our discretion, we may include or offer third party products or services on our Network Sites. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+## California Online Privacy Protection Act Compliance
+
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+
+As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their account and going to the **Account Settings** page.
+
+## Childrens Online Privacy Protection Act Compliance
+
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our Network Sites, products and services are all directed to people who are at least 13 years old or older.
+
+## Terms of Use
+
+Please also visit our [Terms of Use](https://web.archive.org/company/terms/), which outline your obligations and limit our liability when you're using the Network Sites.
+
+## Your Consent
+
+By using our site, you consent to our online privacy policy.
+
+## Changes to our Privacy Policy
+
+If we decide to change our privacy policy, we will update the Privacy Policy modification date below.
+
+This policy was last modified on September 15, 2010.
+
+## Contacting Us
+
+If you have any questions regarding this privacy policy you may [contact us via email](https://web.archive.org/contact/) or by using the address and phone number below:
+
+**gamerID Network LLC  
+P.O. Box 848  
+Maple Valley, WA 98038  
+(646) 580-GAMER**
+
+
+
