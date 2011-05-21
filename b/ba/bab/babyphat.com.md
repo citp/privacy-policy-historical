@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the babyphat.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120190527id_/http%3A//www.babyphat.com/custinfo.php%3Fview%3Dpolicy%26category%3Dcustserv) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babyphat.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521085025id_/http%3A//www.babyphat.com/custinfo.php%3Fview%3Dpolicy%26category%3Dcustserv) for the most accurate reproduction.*
 
 # Baby Phat: Privacy Policy: Contact Us with Question, Comments and Concerns.
 
-### Baby Phat Privacy Policy
+#### Baby Phat Privacy Policy
 
   * what personally identifiable information of yours is collected from you through our Web site,
   * the organization collecting the information,
