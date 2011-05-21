@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funnywow.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226091133id_/http%3A//funnywow.com/index.php%3Fcontroller%3DInfo%26action%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funnywow.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521091853id_/http%3A//www.funnywow.com/index.php%3Fcontroller%3DInfo%26action%3DPrivacy) for the most accurate reproduction.*
 
 # Funnywow - Make funny photos and pictures online. Apply funny photo effects to your pictures with easy editing tool. try it free! - Privacy policy
 
