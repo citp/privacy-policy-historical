@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ucdenver.edu privacy policy that was archived on 2010-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100922000608id_/http%3A//www.ucdenver.edu/policy/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ucdenver.edu privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521091733id_/http%3A//www.ucdenver.edu/policy/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy | | University of Colorado Denver
+# Privacy Policy | | Accredited Degrees, Research and Health Care | Denver, Colorado | University of Colorado Denver
 
-The University of Colorado supports the protection of individual privacy and is committed to ensuring the confidentiality of personally identifiable information provided by its employees, students, and visitors. However, because the university is a public institution, some personally identifiable information may be subject to disclosure pursuant to the Colorado Open Records Act (C.R.S. ¤ 24-72-101 et seq.). In addition, the university may disclose information to third parties when such disclosure is required or permitted by law. Please go to <http://www.uchsc.edu/hipaa/internal/docs/2.1.doc> for notice of privacy practices related to health care information.
+The University of Colorado supports the protection of individual privacy and is committed to ensuring the confidentiality of personally identifiable information provided by its employees, students, and visitors. However, because the university is a public institution, some personally identifiable information may be subject to disclosure pursuant to the Colorado Open Records Act (C.R.S. ¤ 24-72-101 et seq.). In addition, the university may disclose information to third parties when such disclosure is required or permitted by law. Please visit our [Health Insurance Portability and Accountability Act (HIPAA) website](http://www.uchsc.edu/hipaa/internal/docs/2.1.doc) for notice of privacy practices related to health care information.
 
-If you have comments, questions or concerns about privacy at the university, contact [angela.wishon@uchsc.edu](mailto:angela.wishon@uchsc.edu) or 303-724-10110. When sending comments, please include a current mailing address and do not send attachments with the message.
+If you have comments, questions or concerns about privacy at the university, contact [angela.wishon@ucdenver.edu](mailto:angela.wishon@ucdenver.edu) or 303-724-1010. When sending comments, please include a current mailing address and do not send attachments with the message.
 
 #### N/A COLORADO OPEN RECORDS ACT
 
