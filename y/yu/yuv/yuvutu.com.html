@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the yuvutu.com privacy policy that was archived on 2010-07-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100727020800id_/http%3A//www.yuvutu.com/modules.php%3Fname%3DYuSubscribe%26action%3Dprivacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the yuvutu.com privacy policy that was archived on 2011-05-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110522001201id_/http%3A//www.yuvutu.com/modules.php%3Fname%3DYuSubscribe%26action%3Dprivacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html><head>
-<title>yuvutu - Videos porno gratis, videos de sexo gratis, chicas y mujeres desnudas, videos de sexo caseros pornos adulto - Privacy Policy</title>
+<title>Privacy Policy - yuvutu - Free Porn, Adult Videos, Amateur Videos, Amateur Porn, TV Sex Porno XXX</title>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <meta http-equiv="EXPIRES" content="0">
 <meta name="RESOURCE-TYPE" content="DOCUMENT">
@@ -14,10 +14,9 @@
 <meta name="ROBOTS" content="INDEX, FOLLOW">
 <meta name="REVISIT-AFTER" content="1 DAYS">
 <meta name="RATING" content="RTA-5042-1996-1400-1577-RTA">
-<meta name="Content-Language" content="es-ES">
 <link rel="shortcut icon" href="themes/yuvutu/images/favicon.ico" type="image/x-icon">
 <link rel="alternate" type="application/rss+xml" title="RSS" href="backend.php">
-<link rel="StyleSheet" href="themes/yuvutu/style/style_r02388.css" type="text/css">
+<link rel="StyleSheet" href="themes/yuvutu/style/style_r02684.css" type="text/css">
 
 
 
@@ -37,7 +36,7 @@
 </script>
 
 <!-- Add in jquery for AJAX and xml manipulation in javascript. -->
-<script language="javascript" type="text/javascript" src="includes/jquery/jquery-1.2.6.pack.js"></script>
+<script language="javascript" type="text/javascript" src="includes/jquery/jquery-1.5.min.js"></script>
 
 <!-- Script for nicely setting up our tabbed menu. -->
 <script language="javascript" type="text/javascript" src="includes/jquery/jquery.borderImage.js"></script>
@@ -52,108 +51,35 @@
 <script language="javascript" type="text/javascript" src="includes/jquery/jquery.cookies.2.0.1.min.js"></script>
 <script language="javascript" type="text/javascript">
 
-var awePuShown = false;
+var shownPU = false;
 
-function aweDoOpen(url)
-{
-    if ( awePuShown === true )
-    {
-        return true;
-    }
-
-	var aweWindow = window.open(url, "ljPu", "toolbar,status,resizable,scrollbars,menubar,location,height=780,width=1024");
-    window.setTimeout(window.focus, 500 );
-
-    if ( aweWindow )
-    {
-        aweWindow.blur();
-        awePuShown = true;
-    }
-    
-    return aweWindow;
-}
-
-
-function aweSetCookie(name, value, time)
-{
-    var expires = new Date();
-
-    expires.setTime( expires.getTime() + time );
-
-    //document.cookie = name + "=" + value + "; expires=" + expires.toGMTString() + "; path=/";
-    $.cookies.set(name, value, {hoursToLive: time / 3600 / 1000});
-}
-
-
-function aweGetCookie(name)
-{
-
-    return $.cookies.get(name);
-
-    var cookies = document.cookie.toString().split('; ');
-    var cookie, c_name, c_value;
-
-    for (var n=0; n<cookies.length; n++)
-    {
-        cookie  = cookies[n].split("=");
-        c_name  = cookie[0];
-        c_value = cookie[1];
-
-        if ( c_name == name )
-        {
-            return c_value;
-        }
-    }
-
-    return null;
-}
-
-
-function aweCheckTarget(e)
-{
-    var cookieValue = aweGetCookie("popundr");
-    var isRefDenied = aweCheckIsRefDenied();
-
-    if ( isRefDenied === true )
-    {
-        aweSetCookie("popundr", 1, 60*60*1000);
-        return ;
-    }
-
-    if ( cookieValue === null )
-    {
-        aweDoOpen("http://creatives.livejasmin.com/sizedpop/y/yu/yuvutu/index.php?psid=ed_yuvutupop&pstool=147_10313_151&pstour=t1&psprogram=REVS&site=jsm");
-
-        aweSetCookie("popundr", 1, 24*60*60*1000);
-    }
-}
-
-
-function aweCheckIsRefDenied()
-{ 
-    return false;
-}
-
-
-function aweInitPu()
+$(document).ready( function()
 {
     if( $.cookies.test )
     {
-        if ( document.attachEvent )
+        $(document).click( function()
         {
-            document.attachEvent( "onclick", aweCheckTarget );
-        }
-        else if ( document.addEventListener )
-        {
-            document.addEventListener( "click", aweCheckTarget, false );
-        }
+            if( !shownPU )
+            {
+                var cookieName = 'popundr';
+                if( $.cookies.get( cookieName ) === null )
+                {
+                    var aweWindow = window.open( "http://creatives.livejasmin.com/sizedpop/y/yu/yuvutu/index.php?psid=ed_yuvutupop&pstool=147_10313_151&pstour=t1&psprogram=REVS&site=jsm", "ljPu", 
+                        "toolbar,status,resizable,scrollbars,menubar,location,height=780,width=1024" );
+                    window.setTimeout(window.focus, 500 );
+                    if ( aweWindow )
+                    {
+                        aweWindow.blur();
+                    }
+
+                    shownPU = true;
+                    $.cookies.set( cookieName, 1, {hoursToLive: 24} );
+
+                }
+            }
+        });
     }
-
-    return true;
-}
-
-
-aweInitPu();
+});
 
 </script>
 
@@ -169,33 +95,40 @@ aweInitPu();
 			<td bgcolor="ffffff">
 				<table border="0" cellspacing="0" cellpadding="0" width="100%" bgcolor="ffffff">
 					<tbody><tr>
-						<td align="left" valign="bottom">
-							<a href="index.php">
-								<img src="themes/yuvutu/images/logo.gif" alt="Welcome to " title="Welcome to " border="0">
-							</a>
-							<br>
+						<td align="left" valign="bottom" rowspan="2">
+							<a href="index.php"><img src="themes/yuvutu/images/logo.gif" alt="Welcome to " title="Welcome to " border="0"></a>
 						</td>
-						<form id="moduleSelectForm"></form>
-							<td align="right" valign="top">
-								
-								&nbsp;&nbsp;
-								&nbsp;
-								&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-								<a href="index.php?newlang=english"><img src="images/language/flag-english.png" border="0" alt="English" title="English"></a> &nbsp;&nbsp;<a href="index.php?newlang=german"><img src="images/language/flag-german.png" border="0" alt="Deutsche" title="Deutsche"></a> &nbsp;&nbsp;<a href="index.php?newlang=french"><img src="images/language/flag-french.png" border="0" alt="Française" title="Française"></a> &nbsp;&nbsp;<a href="index.php?newlang=spanish"><img src="images/language/flag-spanish.png" border="0" alt="Español" title="Español"></a> &nbsp;&nbsp;<a href="index.php?newlang=italian"><img src="images/language/flag-italian.png" border="0" alt="Italiano" title="Italiano"></a> 
-								<br><br>
-								<b>Eres <a class="userProfileLink" href="modules.php?name=YuSubscribe" onclick="javascript:document.cookie=&quot;bannerID=10; expires=Sat, Jan 4 2020 20:20:20 UTC; path=/&quot;;">Invitado</a></b>
-							</td>
-						
+						<td align="center">
+							<a class="siteLinks" href="http://m.yuvutu.com" style="font-weight: bold;">Free Mobile Porn</a>
+						</td>
+						<td align="center">
+							
+			<form name="quicksearch" action="modules.php">
+				<input type="hidden" name="name" value="Video">
+				<input type="hidden" name="op" value="search">
+				<b>Search:</b> <input name="keywords" type="text">
+				<input type="submit" value="Go">
+			</form>
+						</td>
+						<td align="right">
+							<a href="index.php?newlang=english"><img src="images/language/flag-english.png" border="0" alt="English" title="English"></a> &nbsp;&nbsp;<a href="index.php?newlang=german"><img src="images/language/flag-german.png" border="0" alt="Deutsche" title="Deutsche"></a> &nbsp;&nbsp;<a href="index.php?newlang=french"><img src="images/language/flag-french.png" border="0" alt="Française" title="Française"></a> &nbsp;&nbsp;<a href="index.php?newlang=spanish"><img src="images/language/flag-spanish.png" border="0" alt="Español" title="Español"></a> &nbsp;&nbsp;<a href="index.php?newlang=italian"><img src="images/language/flag-italian.png" border="0" alt="Italiano" title="Italiano"></a> 
+						</td>
+					</tr>
+					
+					<tr>
+						<td colspan="3" align="right">
+							<b>You are a <a class="userProfileLink" href="modules.php?name=YuSubscribe" onclick="javascript:document.cookie=&quot;bannerID=10; expires=Sat, Jan 4 2020 20:20:20 UTC; path=/&quot;;">Guest</a></b>
+						</td>
 					</tr>
 
 					<tr valign="bottom">
 						<td align="left">
 							<span class="siteBlurb">
-								Videos caseros amateur de adultos
+								Free Porn by Adult Amateurs
 							</span>
 						</td>
-						<td align="right">
-							<strong><a class="siteLinks" href="index.php">Home</a>&nbsp;|&nbsp;<a class="siteLinks" href="modules.php?name=Feedback">Respuesta</a>&nbsp;|&nbsp;<a class="siteLinks" href="modules.php?name=YuSubscribe&amp;action=faq">FAQ</a>&nbsp;|&nbsp;<a class="siteLinks" href="modules.php?name=Your_Account&amp;op=combined" onclick="javascript:document.cookie=&quot;bannerID=117; expires=Sat, Jan 4 2020 20:20:20 UTC; path=/&quot;;">Login/Regístrate</a>&nbsp;|&nbsp;<a class="userProfileLink" href="modules.php?name=YuSubscribe" onclick="javascript:document.cookie=&quot;bannerID=117; expires=Sat, Jan 4 2020 20:20:20 UTC; path=/&quot;;"><img src="images/yuvutu/languages/spanish/subnow_btn.gif" border="0" align="texttop" alt="Suscribir" title="Suscribir"></a></strong>
+						<td align="right" colspan="3">
+							<strong><a class="siteLinks" href="index.php">Home</a>&nbsp;|&nbsp;<a class="siteLinks" href="modules.php?name=Feedback">Feedback</a>&nbsp;|&nbsp;<a class="siteLinks" href="modules.php?name=YuSubscribe&amp;action=faq">FAQ</a>&nbsp;|&nbsp;<a class="siteLinks" href="modules.php?name=Your_Account&amp;op=combined" onclick="javascript:document.cookie=&quot;bannerID=117; expires=Sat, Jan 4 2020 20:20:20 UTC; path=/&quot;;">Login/Register</a>&nbsp;|&nbsp;<a class="userProfileLink" href="modules.php?name=YuSubscribe" onclick="javascript:document.cookie=&quot;bannerID=117; expires=Sat, Jan 4 2020 20:20:20 UTC; path=/&quot;;"><img src="images/yuvutu/languages/english/subnow_btn.gif" border="0" align="texttop" alt="Subscribe" title="Subscribe"></a></strong>
 						</td>
 					</tr>
 
@@ -209,7 +142,7 @@ aweInitPu();
 			    <td width="100%" valign="top" align="left">
 		<table width="100%" border="0" cellspacing="0" cellpadding="0">
 			<tbody><tr height="10px">
-		<td align="center"><a class="DatingInactiveNav" id="DatingInactiveNav" href="modules.php?name=YuDating" style="padding-top: 0px;"><b class="artop" style="background-color: rgb(255, 255, 255);"><b class="re1" style="background-color: rgb(168, 103, 207); border-color: rgb(102, 102, 102);"></b><b class="re2" style="background-color: rgb(168, 103, 207); border-color: rgb(102, 102, 102);"></b><b class="re3" style="background-color: rgb(168, 103, 207); border-color: rgb(102, 102, 102);"></b><b class="re4" style="background-color: rgb(168, 103, 207); border-color: rgb(102, 102, 102);"></b></b><span style="display: block; border-left: 1px solid rgb(102, 102, 102); border-right: 1px solid rgb(102, 102, 102);">Citas Adultas</span></a></td><td align="center"><a class="inactiveNav" id="inactiveNav1" href="modules.php?name=Video" style="padding-top: 0px;"><b class="artop" style="background-color: rgb(255, 255, 255);"><b class="re1" style="background-color: rgb(255, 255, 255); border-color: rgb(102, 102, 102);"></b><b class="re2" style="background-color: rgb(255, 255, 255); border-color: rgb(102, 102, 102);"></b><b class="re3" style="background-color: rgb(255, 255, 255); border-color: rgb(102, 102, 102);"></b><b class="re4" style="background-color: rgb(255, 255, 255); border-color: rgb(102, 102, 102);"></b></b><span style="display: block; border-left: 1px solid rgb(102, 102, 102); border-right: 1px solid rgb(102, 102, 102);">&nbsp;Videos&nbsp;</span></a></td><td align="center"><a class="inactiveNav" id="inactiveNav2" href="modules.php?name=YuGallery" style="padding-top: 0px;"><b class="artop" style="background-color: rgb(255, 255, 255);"><b class="re1" style="background-color: rgb(255, 255, 255); border-color: rgb(102, 102, 102);"></b><b class="re2" style="background-color: rgb(255, 255, 255); border-color: rgb(102, 102, 102);"></b><b class="re3" style="background-color: rgb(255, 255, 255); border-color: rgb(102, 102, 102);"></b><b class="re4" style="background-color: rgb(255, 255, 255); border-color: rgb(102, 102, 102);"></b></b><span style="display: block; border-left: 1px solid rgb(102, 102, 102); border-right: 1px solid rgb(102, 102, 102);">&nbsp;Fotos&nbsp;</span></a></td><td align="center"><a class="inactiveNav" id="inactiveNav3" href="modules.php?name=YuPlaylists" style="padding-top: 0px;"><b class="artop" style="background-color: rgb(255, 255, 255);"><b class="re1" style="background-color: rgb(255, 255, 255); border-color: rgb(102, 102, 102);"></b><b class="re2" style="background-color: rgb(255, 255, 255); border-color: rgb(102, 102, 102);"></b><b class="re3" style="background-color: rgb(255, 255, 255); border-color: rgb(102, 102, 102);"></b><b class="re4" style="background-color: rgb(255, 255, 255); border-color: rgb(102, 102, 102);"></b></b><span style="display: block; border-left: 1px solid rgb(102, 102, 102); border-right: 1px solid rgb(102, 102, 102);">&nbsp;Playlists&nbsp;</span></a></td><td align="center"><a class="inactiveNav" id="inactiveNav4" href="modules.php?name=YuBlog" style="padding-top: 0px;"><b class="artop" style="background-color: rgb(255, 255, 255);"><b class="re1" style="background-color: rgb(255, 255, 255); border-color: rgb(102, 102, 102);"></b><b class="re2" style="background-color: rgb(255, 255, 255); border-color: rgb(102, 102, 102);"></b><b class="re3" style="background-color: rgb(255, 255, 255); border-color: rgb(102, 102, 102);"></b><b class="re4" style="background-color: rgb(255, 255, 255); border-color: rgb(102, 102, 102);"></b></b><span style="display: block; border-left: 1px solid rgb(102, 102, 102); border-right: 1px solid rgb(102, 102, 102);">&nbsp;Blogs&nbsp;</span></a></td><td align="center"><a class="inactiveNav" id="inactiveNav5" href="modules.php?name=YuPeople" style="padding-top: 0px;"><b class="artop" style="background-color: rgb(255, 255, 255);"><b class="re1" style="background-color: rgb(255, 255, 255); border-color: rgb(102, 102, 102);"></b><b class="re2" style="background-color: rgb(255, 255, 255); border-color: rgb(102, 102, 102);"></b><b class="re3" style="background-color: rgb(255, 255, 255); border-color: rgb(102, 102, 102);"></b><b class="re4" style="background-color: rgb(255, 255, 255); border-color: rgb(102, 102, 102);"></b></b><span style="display: block; border-left: 1px solid rgb(102, 102, 102); border-right: 1px solid rgb(102, 102, 102);">Miembros</span></a></td><td align="center"><a class="inactiveNav" id="inactiveNav6" href="modules.php?name=YuChat" style="padding-top: 0px;"><b class="artop" style="background-color: rgb(255, 255, 255);"><b class="re1" style="background-color: rgb(255, 255, 255); border-color: rgb(102, 102, 102);"></b><b class="re2" style="background-color: rgb(255, 255, 255); border-color: rgb(102, 102, 102);"></b><b class="re3" style="background-color: rgb(255, 255, 255); border-color: rgb(102, 102, 102);"></b><b class="re4" style="background-color: rgb(255, 255, 255); border-color: rgb(102, 102, 102);"></b></b><span style="display: block; border-left: 1px solid rgb(102, 102, 102); border-right: 1px solid rgb(102, 102, 102);">&nbsp;Chat&nbsp;</span></a></td><td align="center"><a class="inactiveNav" id="inactiveNav7" href="modules.php?name=Forums" style="padding-top: 0px;"><b class="artop" style="background-color: rgb(255, 255, 255);"><b class="re1" style="background-color: rgb(255, 255, 255); border-color: rgb(102, 102, 102);"></b><b class="re2" style="background-color: rgb(255, 255, 255); border-color: rgb(102, 102, 102);"></b><b class="re3" style="background-color: rgb(255, 255, 255); border-color: rgb(102, 102, 102);"></b><b class="re4" style="background-color: rgb(255, 255, 255); border-color: rgb(102, 102, 102);"></b></b><span style="display: block; border-left: 1px solid rgb(102, 102, 102); border-right: 1px solid rgb(102, 102, 102);">Foros</span></a></td><td align="center"><a class="inactiveNav" id="inactiveNav8" href="modules.php?name=Private_Messages" style="padding-top: 0px;"><b class="artop" style="background-color: rgb(255, 255, 255);"><b class="re1" style="background-color: rgb(255, 255, 255); border-color: rgb(102, 102, 102);"></b><b class="re2" style="background-color: rgb(255, 255, 255); border-color: rgb(102, 102, 102);"></b><b class="re3" style="background-color: rgb(255, 255, 255); border-color: rgb(102, 102, 102);"></b><b class="re4" style="background-color: rgb(255, 255, 255); border-color: rgb(102, 102, 102);"></b></b><span style="display: block; border-left: 1px solid rgb(102, 102, 102); border-right: 1px solid rgb(102, 102, 102);">Mensajes privados</span></a></td><td align="center"><a class="GalleryInactiveNav" id="GalleryInactiveNav" href="http://www.ruderoulette.com" target="_blank" style="padding-top: 0px;"><b class="artop" style="background-color: rgb(255, 255, 255);"><b class="re1" style="background-color: rgb(243, 167, 44); border-color: rgb(102, 102, 102);"></b><b class="re2" style="background-color: rgb(243, 167, 44); border-color: rgb(102, 102, 102);"></b><b class="re3" style="background-color: rgb(243, 167, 44); border-color: rgb(102, 102, 102);"></b><b class="re4" style="background-color: rgb(243, 167, 44); border-color: rgb(102, 102, 102);"></b></b><span style="display: block; border-left: 1px solid rgb(102, 102, 102); border-right: 1px solid rgb(102, 102, 102);">&nbsp;RudeRoulette&nbsp;</span></a></td>
+		<td align="center"><a class="DatingInactiveNav" id="DatingInactiveNav" href="modules.php?name=YuDating" style="padding-top: 0px;"><b class="artop" style="background-color: rgb(255, 255, 255);"><b class="re1" style="background-color: rgb(168, 103, 207); border-color: rgb(102, 102, 102);"></b><b class="re2" style="background-color: rgb(168, 103, 207); border-color: rgb(102, 102, 102);"></b><b class="re3" style="background-color: rgb(168, 103, 207); border-color: rgb(102, 102, 102);"></b><b class="re4" style="background-color: rgb(168, 103, 207); border-color: rgb(102, 102, 102);"></b></b><span style="display: block; border-left: 1px solid rgb(102, 102, 102); border-right: 1px solid rgb(102, 102, 102);">Dating</span></a></td><td align="center"><a class="inactiveNav" id="inactiveNav1" href="modules.php?name=Video" style="padding-top: 0px;"><b class="artop" style="background-color: rgb(255, 255, 255);"><b class="re1" style="background-color: rgb(255, 255, 255); border-color: rgb(102, 102, 102);"></b><b class="re2" style="background-color: rgb(255, 255, 255); border-color: rgb(102, 102, 102);"></b><b class="re3" style="background-color: rgb(255, 255, 255); border-color: rgb(102, 102, 102);"></b><b class="re4" style="background-color: rgb(255, 255, 255); border-color: rgb(102, 102, 102);"></b></b><span style="display: block; border-left: 1px solid rgb(102, 102, 102); border-right: 1px solid rgb(102, 102, 102);">&nbsp;Videos&nbsp;</span></a></td><td align="center"><a class="inactiveNav" id="inactiveNav2" href="modules.php?name=YuGallery" style="padding-top: 0px;"><b class="artop" style="background-color: rgb(255, 255, 255);"><b class="re1" style="background-color: rgb(255, 255, 255); border-color: rgb(102, 102, 102);"></b><b class="re2" style="background-color: rgb(255, 255, 255); border-color: rgb(102, 102, 102);"></b><b class="re3" style="background-color: rgb(255, 255, 255); border-color: rgb(102, 102, 102);"></b><b class="re4" style="background-color: rgb(255, 255, 255); border-color: rgb(102, 102, 102);"></b></b><span style="display: block; border-left: 1px solid rgb(102, 102, 102); border-right: 1px solid rgb(102, 102, 102);">&nbsp;Photos&nbsp;</span></a></td><td align="center"><a class="inactiveNav" id="inactiveNav3" href="modules.php?name=YuPlaylists" style="padding-top: 0px;"><b class="artop" style="background-color: rgb(255, 255, 255);"><b class="re1" style="background-color: rgb(255, 255, 255); border-color: rgb(102, 102, 102);"></b><b class="re2" style="background-color: rgb(255, 255, 255); border-color: rgb(102, 102, 102);"></b><b class="re3" style="background-color: rgb(255, 255, 255); border-color: rgb(102, 102, 102);"></b><b class="re4" style="background-color: rgb(255, 255, 255); border-color: rgb(102, 102, 102);"></b></b><span style="display: block; border-left: 1px solid rgb(102, 102, 102); border-right: 1px solid rgb(102, 102, 102);">&nbsp;Playlists&nbsp;</span></a></td><td align="center"><a class="inactiveNav" id="inactiveNav4" href="modules.php?name=YuBlog" style="padding-top: 0px;"><b class="artop" style="background-color: rgb(255, 255, 255);"><b class="re1" style="background-color: rgb(255, 255, 255); border-color: rgb(102, 102, 102);"></b><b class="re2" style="background-color: rgb(255, 255, 255); border-color: rgb(102, 102, 102);"></b><b class="re3" style="background-color: rgb(255, 255, 255); border-color: rgb(102, 102, 102);"></b><b class="re4" style="background-color: rgb(255, 255, 255); border-color: rgb(102, 102, 102);"></b></b><span style="display: block; border-left: 1px solid rgb(102, 102, 102); border-right: 1px solid rgb(102, 102, 102);">&nbsp;Blogs&nbsp;</span></a></td><td align="center"><a class="inactiveNav" id="inactiveNav5" href="modules.php?name=YuPeople" style="padding-top: 0px;"><b class="artop" style="background-color: rgb(255, 255, 255);"><b class="re1" style="background-color: rgb(255, 255, 255); border-color: rgb(102, 102, 102);"></b><b class="re2" style="background-color: rgb(255, 255, 255); border-color: rgb(102, 102, 102);"></b><b class="re3" style="background-color: rgb(255, 255, 255); border-color: rgb(102, 102, 102);"></b><b class="re4" style="background-color: rgb(255, 255, 255); border-color: rgb(102, 102, 102);"></b></b><span style="display: block; border-left: 1px solid rgb(102, 102, 102); border-right: 1px solid rgb(102, 102, 102);">Members</span></a></td><td align="center"><a class="inactiveNav" id="inactiveNav6" href="modules.php?name=YuChat" style="padding-top: 0px;"><b class="artop" style="background-color: rgb(255, 255, 255);"><b class="re1" style="background-color: rgb(255, 255, 255); border-color: rgb(102, 102, 102);"></b><b class="re2" style="background-color: rgb(255, 255, 255); border-color: rgb(102, 102, 102);"></b><b class="re3" style="background-color: rgb(255, 255, 255); border-color: rgb(102, 102, 102);"></b><b class="re4" style="background-color: rgb(255, 255, 255); border-color: rgb(102, 102, 102);"></b></b><span style="display: block; border-left: 1px solid rgb(102, 102, 102); border-right: 1px solid rgb(102, 102, 102);">&nbsp;Chat&nbsp;</span></a></td><td align="center"><a class="inactiveNav" id="inactiveNav7" href="modules.php?name=Forums" style="padding-top: 0px;"><b class="artop" style="background-color: rgb(255, 255, 255);"><b class="re1" style="background-color: rgb(255, 255, 255); border-color: rgb(102, 102, 102);"></b><b class="re2" style="background-color: rgb(255, 255, 255); border-color: rgb(102, 102, 102);"></b><b class="re3" style="background-color: rgb(255, 255, 255); border-color: rgb(102, 102, 102);"></b><b class="re4" style="background-color: rgb(255, 255, 255); border-color: rgb(102, 102, 102);"></b></b><span style="display: block; border-left: 1px solid rgb(102, 102, 102); border-right: 1px solid rgb(102, 102, 102);">Forums</span></a></td><td align="center"><a class="inactiveNav" id="inactiveNav8" href="modules.php?name=Private_Messages" style="padding-top: 0px;"><b class="artop" style="background-color: rgb(255, 255, 255);"><b class="re1" style="background-color: rgb(255, 255, 255); border-color: rgb(102, 102, 102);"></b><b class="re2" style="background-color: rgb(255, 255, 255); border-color: rgb(102, 102, 102);"></b><b class="re3" style="background-color: rgb(255, 255, 255); border-color: rgb(102, 102, 102);"></b><b class="re4" style="background-color: rgb(255, 255, 255); border-color: rgb(102, 102, 102);"></b></b><span style="display: block; border-left: 1px solid rgb(102, 102, 102); border-right: 1px solid rgb(102, 102, 102);">Private Messages</span></a></td><td align="center"><a class="GalleryInactiveNav" id="GalleryInactiveNav" href="http://www.ruderoulette.com" target="_blank" style="padding-top: 0px;"><b class="artop" style="background-color: rgb(255, 255, 255);"><b class="re1" style="background-color: rgb(243, 167, 44); border-color: rgb(102, 102, 102);"></b><b class="re2" style="background-color: rgb(243, 167, 44); border-color: rgb(102, 102, 102);"></b><b class="re3" style="background-color: rgb(243, 167, 44); border-color: rgb(102, 102, 102);"></b><b class="re4" style="background-color: rgb(243, 167, 44); border-color: rgb(102, 102, 102);"></b></b><span style="display: block; border-left: 1px solid rgb(102, 102, 102); border-right: 1px solid rgb(102, 102, 102);">&nbsp;RudeRoulette&nbsp;</span></a></td>
 			</tr>
 		</tbody></table>
 		<table width="100%" class="moduleNav" border="0" cellspacing="0" cellpadding="0">
@@ -461,13 +394,13 @@ aweInitPu();
 <table width="100%" cellpadding="0" cellspacing="0" border="0">
 					<tbody><tr>
 						<td id="AdZoneBottom" class="AdZoneBottom">
-							<iframe src="includes/custom_files/AdZoneBottom.php" width="1000px" height="272px" scrolling="no" allowtransparency="true" frameborder="no" marginwidth="0" marginheight="0"></iframe>
+							<iframe src="includes/custom_files/AdZoneBottom.php?umg=14" width="1000px" height="272px" scrolling="no" allowtransparency="true" frameborder="no" marginwidth="0" marginheight="0"></iframe>
 						</td>
 					</tr>
 				</tbody></table></td></tr></tbody></table></td></tr></tbody></table><span class="footmsg">
-<a href="modules.php?name=Video&amp;op=terms">Condiciones de uso</a> <b>|</b> <a href="modules.php?name=YuSubscribe&amp;action=privacy_policy">Privacy Policy</a> <b>|</b> <a href="modules.php?name=Feedback">Contáctenos</a> <b>|</b> <a href="links">Enlaces</a><b>|</b> <a href="modules.php?name=YuWebmaster&amp;action=advertise">Webmasters</a><b>|</b> <a href="modules.php?name=Video&amp;op=usc2257">2257</a><br>
+<a href="modules.php?name=Video&amp;op=terms">Terms of Use</a> <b>|</b> <a href="modules.php?name=YuSubscribe&amp;action=privacy_policy">Privacy Policy</a> <b>|</b> <a href="modules.php?name=Feedback">Contact Us</a> <b>|</b> <a href="links">Links</a><b>|</b> <a href="modules.php?name=YuWebmaster&amp;action=advertise">Webmasters</a><b>|</b> <a href="modules.php?name=Video&amp;op=usc2257">2257</a><br>
 Copyright © 2005, 2006, 2007, 2008 YUVUTU.<br>
-Página Generada en: 0.00 Segundos 101 4<br>
+Page Generation: 0.00 Seconds 101 38<br>
 <br><br>
 <a href="http://www.rtalabel.org"><img src="includes/custom_files/images/120x60_RTA_b.gif" style="border-style: none"></a>
 </span>
@@ -481,5 +414,17 @@ var pageTracker = _gat._getTracker("UA-123634-2");
 pageTracker._initData();
 pageTracker._trackPageview();
 </script>
+
+<script>
+    function googleTranslateElementInit() {
+      new google.translate.TranslateElement({
+        pageLanguage: 'en',
+        multilanguagePage: true,
+        gaTrack: true,
+        gaId: 'UA-123634-2'
+      });
+    }
+</script>
+<script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 
 </body></html>
