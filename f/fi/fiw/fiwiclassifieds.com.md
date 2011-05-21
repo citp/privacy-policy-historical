@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fiwiclassifieds.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230221022id_/http%3A//www.fiwiclassifieds.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fiwiclassifieds.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521090120id_/http%3A//www.fiwiclassifieds.com/privacy) for the most accurate reproduction.*
 
-# Free Online Classified Ads | FiWi Classifieds Privacy Policy
+# Free Online Classifieds | FiWi Classifieds Privacy Policy
 
 This document was last updated on March 27, 2009.
 
@@ -62,18 +62,18 @@ Some of these Web beacons may be placed by third party service providers to help
 
   5. **ACCESSING WEB ACCOUNT INFORMATION**
 
-We will provide you with the means to ensure that personally identifiable information in your web account file is correct and current. You may review this information by contacting us by sending an email to our support attendant at [supp](mailto:support@fiwiclassifieds.com)
+We will provide you with the means to ensure that personally identifiable information in your web account file is correct and current. You may review this information by contacting us by sending an email to our support attendant at 
 
-[ort@fiwiclassifieds.com](mailto:support@fiwiclassifieds.com).
+[support@fiwiclassifieds.com](mailto:support@fiwiclassifieds.com).
   6. **CHANGES TO THIS STATEMENT**
 
 Future Internet and Web Innovation has the discretion to occasionally update this privacy statement. When we do, we will also revise the "updated" date at the top of this Privacy page. We encourage you to periodically review this privacy statement to stay informed about how we are helping to protect the personal information we collect. Your continued use of the service constitutes your agreement to this privacy statement and any updates.
 
   7. **CONTACTING US**
 
-If you have questions regarding our Privacy Statement, its implementation, failure to adhere to this Privacy Statement and/or our general practices, please contact us. [sup](mailto:support@fiwiclassifieds.com)
+If you have questions regarding our Privacy Statement, its implementation, failure to adhere to this Privacy Statement and/or our general practices, please contact us. 
 
-[port@fiwiclassifieds.com](mailto:support@fiwiclassifieds.com). 
+[support@fiwiclassifieds.com](mailto:support@fiwiclassifieds.com). 
 
 
 
