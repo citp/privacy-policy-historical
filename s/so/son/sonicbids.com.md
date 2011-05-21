@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sonicbids.com privacy policy that was archived on 2010-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100822135158id_/http%3A//www.sonicbids.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sonicbids.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521041540id_/http%3A//www.sonicbids.com/about/privacy.asp) for the most accurate reproduction.*
 
 # Get a Gig. Book a Band. - Sonicbids
 
