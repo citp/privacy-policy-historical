@@ -1,10 +1,13 @@
-> *The following text is extracted and transformed from the techchee.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204093442id_/http%3A//www.techchee.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techchee.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521135952id_/http%3A//www.techchee.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – TechChee.com, shop online for gadget, gizmo and hot tech stuff
+# Privacy Policy | TechChee.com, shop online for gadget, gizmo and hot tech stuff
 
 ## Privacy Policy
 
 At **TechChee.com** , we definitely recognize privacy is important. Here is the information on what types of personal information we receive and collect when you use or visit **TechChee.com** , and how we safeguard your information. We never sell your personal information to third parties.
+
+_**Email subscription of our newsletter**_  
+Your email used for subscription to our newsletter is mainly used for delivering you our newsletter on a daily basis. And occasionally we’ll send you emails for certain announcements or informing you about any gadget/software giveaway contests/sweepstakes, so you can participate and win great prizes. Please note that we’ll never share, sell, or rent your email with anyone without your advanced permission.
 
 _**Log Files**_  
 As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocal) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.
