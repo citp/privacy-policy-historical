@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobsindubai.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220000932id_/https%3A//www.jobsindubai.com/terms.asp%3FqType%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobsindubai.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521083105id_/https%3A//www.jobsindubai.com/terms.asp%3FqType%3D1) for the most accurate reproduction.*
 
 # Jobs in Dubai
 
