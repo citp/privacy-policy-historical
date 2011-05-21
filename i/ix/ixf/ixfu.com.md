@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ixfu.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205010552id_/http%3A//www.ixfu.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ixfu.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521023326id_/http%3A//www.ixfu.com/privacy.php) for the most accurate reproduction.*
 
 # ixfu - PC games download
 
