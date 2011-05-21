@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the coolspotters.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124015321id_/http%3A//fanzter.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolspotters.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521123646id_/http%3A//fanzter.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Fanzter
 
 _Last updated June 30, 2009_
 
-[Fanzter, Inc.](http://fanzter.com/ "Fanzter, Inc. - A New Media Development Company") (the parent company of this service; hereafter "Fanzter") respects and appreciates your interest in the privacy of your personal information. As such, we take the policies and practices covered below very seriously. In order to fully understand how your information is used and shared, we recommend that you read this policy (“The Fanzter Privacy Policy”) in its entirety. 
+[Fanzter Inc.](http://fanzter.com/ "Fanzter Inc. - A New Media Development Company") (the parent company of this service; hereafter "Fanzter") respects and appreciates your interest in the privacy of your personal information. As such, we take the policies and practices covered below very seriously. In order to fully understand how your information is used and shared, we recommend that you read this policy (“The Fanzter Privacy Policy”) in its entirety. 
 
 _In order to use certain services of Fanzter, such as uploading images, adding comments, or asking questions to the service’s community, you must register. As part of the registration process, we may require your email address. Nobody under the age of 13 is permitted to register. By not registering, you understand that certain features and services may not be available to you._
 
@@ -36,7 +36,7 @@ We neither rent nor sell your personal information to anyone. We share your info
   * Agents – Fanzter employs other companies and people to perform tasks on our behalf and may need to share your information with them to provide products or services to you. Some examples of this include providing customer service, removing illicit or indecent content, analyzing data, or providing marketing assistance.
   * Promotions – We may send promotional offers to registered users on behalf of other businesses. Although we will not give them your address or phone number, you can cancel the receipt of these offers by emailing us at [legal@fanzter.com](mailto:legal@fanzter.com).
   * Business Transfers – In the case of Fanzter buying or selling assets, personal customer information will be considered a business asset and as such, we retain the right to transfer this information as part of any such transaction.
-  * Corporate Responsibility – We retain the right to release personal information when it is reasonably believed that release is necessary to comply with the law. We may also do so in the case of enforcing our [Terms of Service](https://web.archive.org/web/20101124015321id_/http%3A//fanzter.com/terms) (or other agreements), or protecting the rights, property, or safety of Fanzter, the users of any Fanzter Sites or Services, our employees, or others.
+  * Corporate Responsibility – We retain the right to release personal information when it is reasonably believed that release is necessary to comply with the law. We may also do so in the case of enforcing our [Terms of Service](https://web.archive.org/web/20110521123646id_/http%3A//fanzter.com/terms) (or other agreements), or protecting the rights, property, or safety of Fanzter, the users of any Fanzter Sites or Services, our employees, or others.
 
 
 
@@ -56,5 +56,4 @@ If you have any questions about this Privacy Policy, please contact us at the fo
 75 Crown Street, 2nd Floor  
 Box 348  
 Collinsville, CT 06022  
-860-269-7247 (office)  
-860-269-8117 (fax) 
+
