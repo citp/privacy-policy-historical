@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mybannermaker.com privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126140000id_/http%3A//mybannermaker.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mybannermaker.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521112612id_/http%3A//mybannermaker.com/privacy.php) for the most accurate reproduction.*
 
 # Banner Maker - Privacy Policy
 
@@ -11,5 +11,5 @@ We use cookies to track your changes to your banner in order to provide services
 
 MyBannerMaker.com is a simple, yet awesome, way to create banners for your website, social networking profiles or online advertising. My banner maker is popular with online businesses, webmasters and people on myspace (including musicians and band profile pages).
 
-All Content Copyright ©2005-2010. All Rights Reserved.   
-By using this website you agree to the [Terms of Service](https://web.archive.org/web/20101126140000id_/http%3A//mybannermaker.com/terms.php). [Privacy Policy](https://web.archive.org/web/20101126140000id_/http%3A//mybannermaker.com/privacy.php).
+All Content Copyright ©2005-2011. All Rights Reserved.   
+By using this website you agree to the [Terms of Service](https://web.archive.org/web/20110521112612id_/http%3A//mybannermaker.com/terms.php). [Privacy Policy](https://web.archive.org/web/20110521112612id_/http%3A//mybannermaker.com/privacy.php).
