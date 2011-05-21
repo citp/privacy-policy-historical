@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the energy.gov privacy policy that was archived on 2010-12-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101215082907id_/http%3A//www.energy.gov/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the energy.gov privacy policy that was archived on 2011-05-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110521152122id_/http%3A//www.energy.gov/privacy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><!-- PageID 123 - published by Open Text Web Solutions 9 - 9.0.1.35 - 25591 -->
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 
 <!-- Search Engine Verification -->
-<meta name="google-site-verification" content="PU5pP_VkDhWPV2Ka1w5SY96mb_zCZ8ClTj56c_UmhSg"> 
-<meta name="msvalidate.01" content="87167A5F5B0E98EC1E6AB1F38EF41450">
+ 
+
 <!-- /end Search Engine Verification -->
 
  
@@ -30,20 +30,141 @@
 <meta name="modified-date" content="2010-07-15">
 
 
-
-    
-
 <link rel="shortcut icon" href="/images/structure/favicon.ico" type="image/x-icon">
+
 <!-- style sheets -->
 <link href="/includes/reset.css" rel="stylesheet" media="screen" type="text/css">
 <link href="/includes/basic.css" rel="stylesheet" media="screen" type="text/css">
 <link href="/includes/layout.css" rel="stylesheet" media="screen" type="text/css">
-<link href="/includes/8929.htm" rel="stylesheet" media="print" type="text/css">
+<link href="/includes/print.css" rel="stylesheet" media="print" type="text/css">
 <!-- //end style sheets -->
-<link rel="P3Pv1" href="http://www.energy.gov/w3c/p3p.xml">
-<script type="text/javascript" async="" src="https://web.archive.org/web/20110330031020/https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" language="javascript" src="/includes/contactus.js"></script>
 
+<link rel="P3Pv1" href="http://www.energy.gov/w3c/p3p.xml">
+
+
+
+<script type="text/javascript" async="" src="https://web.archive.org/web/20110330031020/https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" language="javascript" src="/includes/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" language="javascript" src="/includes/verticaltabs.pack.js"></script> 
 <script type="text/javascript" language="javascript" src="/includes/topnav.js"></script>
+<script type="text/javascript" language="javascript" src="/includes/contactus.js"></script>
+
+<script type="text/javascript" language="javascript">
+    function changePage(newLoc)
+     {
+       nextPage = newLoc.options[newLoc.selectedIndex].value
+      
+       if (nextPage != "")
+       {
+          document.location.href = nextPage
+       }
+     }
+</script>
+<script type="text/javascript">
+// Execute this function when the DOM is loaded and ready
+$(function() {
+    // Hide all the tabs to start with
+    $('.tab').hide();
+    // See if the URL hash is set - the part at the end starting with "#", like "#first"
+    var hash = window.location.hash;
+    
+    // If so, display that tab and hide the others
+    if (hash) {
+        $(hash).show();
+    }
+    // Otherwise, display the first tab
+    else {
+        $('.tab:first').show();
+    }
+    // Listen for click events on the "Next" links
+    $('.tab a.tabnav').click(function() {
+        // Get the id of the next tab to display, and use it as a jQuery selector, eg., "#second"
+        var nextTabId = $(this).attr('href');
+        // Hide the currently displayed tab
+        $(this).parents('.tab').hide();
+        // Show the next tab
+        $(nextTabId).fadeIn();
+    // Returning false here stops the click event from propagating to the
+    // browser and doing its default action (in this case, moving the viewport
+    // so the target is at the top)
+    return false;
+    });
+});
+</script>
+<script type="text/javascript">
+    $(document).ready(function(){
+        $("#textExample").verticaltabs({speed: 500,slideShow: false,activeIndex: 2});
+        $("#imageExample").verticaltabs({speed: 1000,slideShow: true,slideShowSpeed: 3000,activeIndex: 0,playPausePos: "topRight"});
+    });
+</script>
+<script type="text/javascript">
+    $(document).ready(function(){
+        $("#textExample").verticaltabs({speed: 500,slideShow: false,activeIndex: 2});
+        $("#imageExample").verticaltabs({speed: 1000,slideShow: true,slideShowSpeed: 3000,activeIndex: 0,playPausePos: "topRight"});
+    });
+</script>
+<script type="text/javascript">
+    $(document).ready(function() {
+    
+    $('#nav_bar img').each(function() {
+        var imgFile = $(this).attr('src');
+        var preloadImage = new Image();
+          var imgExt = /(\.\w{3,4}$)/;
+          preloadImage.src = imgFile.replace(imgExt,'_h$1');
+        
+    $(this).hover(
+        function() {
+            $(this).attr('src', preloadImage.src);
+        },
+        function () {
+            $(this).attr('src', imgFile);
+            }
+        ); // end hover
+    }); // end each
+    }); // end ready()
+</script>
+<script type="text/javascript">
+    $(document).ready(function() {
+    $('.for_next img').each(function() {
+        var imgFile = $(this).attr('src');
+        var preloadImage = new Image();
+          var imgExt = /(\.\w{3,4}$)/;
+      preloadImage.src = imgFile.replace(imgExt,'_h$1');
+        
+    $(this).hover(
+        function() {
+            $(this).attr('src', preloadImage.src);
+        },
+        function () {
+            $(this).attr('src', imgFile);
+        }
+        ); // end hover
+    }); // end each
+    }); // end ready()
+</script>
+<script type="text/javascript">
+    $(document).ready(function() {
+        $("#query-field").attr("value", "Search");
+        
+        var text = "Search";
+        
+        $("#query-field").focus(function() {
+            $(this).addClass("active");
+            if($(this).attr("value") == text) $(this).attr("value", "");
+        });
+        
+        $("#query-field").blur(function() {
+            $(this).removeClass("active");
+            if($(this).attr("value") == "") $(this).attr("value", text);
+        });
+    });
+</script>
+
+
+
+
+
+
+
 
 
 
@@ -70,33 +191,38 @@
     <div id="wrapper">
 
         <!-- header -->
-            <div id="PrinterLogo"><img src="/images/doe_logo_printer.jpg" border="0"></div>
+            <div id="PrinterLogo"><img src="/images/doe_logo_printer.jpg"></div>
+
             <h1 class="programOffice"></h1>
                 <!-- top level -->
+<!-- /images/structure/b_science_tech_h.png/images/structure/b_energy_efficiency_h.png/images/structure/b_energy_sources_h.png/images/structure/b_the_environment_h.png/images/structure/b_prices_trends_h.png/images/structure/b_national_security_h.png /images/structure/b_safety_health_h.png -->
+    
     <div id="topLevel" class="clearfix">
-        <div id="topNav"><a href="/about/index.htm"><img src="/images/structure/btn_aboutdoe.gif" alt="About DOE Button" width="83" height="18" border="0"></a><a href="/organization/index.htm"><img src="/images/structure/btn_organization.gif" alt="Organization Button" width="109" height="18" border="0"></a><a href="/news/releases.htm"><img src="/images/structure/btn_news.gif" alt="News Button" width="50" height="18" border="0"></a><a href="/contact/index.htm"><img src="/images/structure/btn_contactus.gif" alt="Contact Us Button" width="99" height="18" border="0"></a></div>
-            <div id="searchForm" class="clearfix">
-                <form name="search" action="http://search.doe.gov/search" method="get">
-                    <input value="xml_no_dtd" name="output" type="hidden">
-                    <input value="date:D:L:d1" name="sort" type="hidden">
-                    <input value="UTF-8" name="ie" type="hidden">
-                    <input value="default_frontend" name="client" type="hidden">
-                    <input value="6" name="y" type="hidden">
-                    <input value="UTF-8" name="oe" type="hidden">
-                    <input value="default_frontend" name="proxystylesheet" type="hidden">
-                    <input value="14" name="x" type="hidden">
-                    
-                    
-                    <div align="right"><img src="/images/structure/word_search.gif" alt="Search" border="0" width="55" height="11"><input type="text" name="q" style="width: 143px;"><input type="image" src="/images/structure/btn_go_whiteblack.gif" alt="Go Button"></div>
-                    
-                    
-                </form>
-            </div>
-    </div>
-    <h1 class="branding"><a href="/index.htm">U.S. Department of Energy</a></h1>
-    <div id="middleNav"><a href="/sciencetech/index.htm"><img src="/images/structure/btn_topic_Science_Technology.jpg" name="btnScienceTechnology" alt="Science and Technology Button" border="0" width="161" height="28"></a><a href="/energysources/index.htm"><img src="/images/structure/btn_topic_Energy_Sources.jpg" alt="Energy Sources Button" border="0" width="124" height="28"></a><a href="/energyefficiency/index.htm"><img src="/images/structure/btn_topic_Energy_Efficiency.jpg" alt="Energy Efficiency Button" border="0" width="137" height="28"></a><a href="/environment/index.htm"><img src="/images/structure/btn_topic_The_Environment.jpg" alt="The Environment Button" border="0" width="160" height="28"></a><a href="/pricestrends/index.htm"><img src="/images/structure/btn_topic_Prices_Trends.jpg" alt="Prices and Trends Button" border="0" width="124" height="28"></a><a href="/nationalsecurity/index.htm"><img src="/images/structure/btn_topic_National_Security.jpg" alt="National Security Button" border="0" width="130" height="28"></a><a href="/safetyhealth/index.htm"><img src="/images/structure/btn_topic_Safety_Health.jpg" alt="Safety and Health Button" border="0" width="138" height="28"></a></div>
-
+        <div id="branding"><a href="/index.htm"><img src="/images/structure/doe_logo.png" height="57" width="448" alt="U.S. Department of Energy Logo" title="U.S. Department of Energy Seal"></a></div>            
+       
+        <!-- Begin TopNav_Search -->        
+        <div id="topnav_search">
+        
+            <ul class="topNav">
+                <li><a href="/about/index.htm" title="About the DOE">About the DOE</a><span class="gray_pipe">|</span></li>
+                <li><a href="/organization/index.htm" title="Organization">Organization</a><span class="gray_pipe">|</span></li>
+                <li><a href="/news/releases.htm" title="News">News</a><span class="gray_pipe">|</span></li>
+                <li><a href="/contact/index.htm" title="Contact Us">Contact Us</a></li>                
+            </ul>
+<form id="doe_search_form" name="search" method="get" action="http://search.usa.gov/search">
+    <fieldset>
+            <input type="hidden" name="affiliate" value="energygov">
+            <input type="text" name="query" id="query-field" autocomplete="off" class="usagov-search-autocomplete ui-autocomplete-input ui-corner-all">
+            <input type="submit" value="Search" id="searchbtn">
+    </fieldset>            
+</form>         </div>
+     </div>
+    
+    <!-- Begin middle navigation -->
+    <div id="nav_bar"><a href="/sciencetech/index.htm"><img src="/images/structure/b_science_tech.png" height="47" width="160" alt="Image Link: Science and Technology" title="Science and Technology"></a><a href="/energysources/index.htm"><img src="/images/structure/b_energy_sources.png" height="47" width="118" alt="Image Link: Energy Sources" title="Energy Sources"></a><a href="/energyefficiency/index.htm"><img src="/images/structure/b_energy_efficiency.png" height="47" width="140" alt="Image Link: Energy Efficiency" title="Energy Efficiency"></a><a href="/environment/index.htm"><img src="/images/structure/b_the_environment.png" height="47" width="160" alt="Image Link: The Environment" title="The Environment"></a><a href="/pricestrends/index.htm"><img src="/images/structure/b_prices_trends.png" height="47" width="128" alt="Image Link: Prices and Trends" title="Prices and Trends"></a><a href="/nationalsecurity/index.htm"><img src="/images/structure/b_national_security.png" height="47" width="131" alt="Image Link: National Security" title="National Security"></a><a href="/safetyhealth/index.htm"><img src="/images/structure/b_safety_health.png" height="47" width="137" alt="Image Link: Safety and Health" title="Safety and Health"></a></div>
  <!-- //end top level -->
+        
+        <!-- //end header -->
             <div id="titleBar"><img src="/images/structure/header_privacy_policy.jpg" alt="Privacy Policy" border="0" width="974" height="31"></div>
         <!--//header -->
 
@@ -116,7 +242,7 @@
                         
                             <li><a href="/sitemap.htm">Site Map</a></li>
                         
-                            <li class="currentLink"><a style="border-bottom: none;" href="/privacy.htm"><span class="activenav grayblue">Privacy</span></a>
+                            <li class="currentLink"><span class="activenav">Privacy</span>
                         
                             </li>
                         
@@ -150,7 +276,7 @@
         
         
 
-        <h1 class="pagetitle grayblue">Privacy</h1>
+        <h1>Privacy</h1>
         
         <div>
              <p></p><p><strong>General Disclaimer</strong></p>
@@ -198,45 +324,65 @@ Since disabling this web measurement technology requires modifying individual br
 
 
 
-        <!-- footer -->
-            <div id="footer">
-                <div id="globalFooter">
+        <div class="clear"></div>
 
-<ul id="bottomNav">
-    
-        <li><a href="http://www.ig.energy.gov/">Inspector General |</a></li>
-    
-        <li><a href="https://www.directives.doe.gov/">DOE Directives |</a></li>
-    
-        <li><a href="http://smallbusiness.doe.gov/">Small Business</a></li>
-    
-
-</ul>
-
-<div id="footerLinks"><a href="http://www.whitehouse.gov"><img src="/images/structure/btn_whitehouse.jpg" border="0" alt="Link: The White House" width="109" height="16"></a><a href="http://www.usa.gov/index.shtml"><img src="/images/structure/btm_usagov2.jpg" border="0" alt="Link: USA.gov" width="115" height="30"></a><a href="http://management.energy.gov/FOIA/privacy.htm"><img src="/images/structure/btn_Privacy.jpg" border="0" alt="Link: Privacy Program" width="90" height="30"></a><a href="http://www.whitehouse.gov/omb/e-gov/"><img src="/images/structure/btn_egov.jpg" alt="Link: E-gov" border="0" width="70" height="30"></a><a href="http://cio.energy.gov/infoquality.htm"><img src="/images/structure/newIQlogo.jpg" border="0" alt="Link: Information Quality (IQ)" width="120" height="30"></a><a href="http://management.energy.gov/foia_pa.htm"><img src="/images/structure/foia3.jpg" border="0" alt="Link: FOIA Program" width="86" height="30"></a></div>
-<div id="doe_address">
-    U.S. Department of Energy | 1000 Independence Ave., SW | Washington, DC 20585
-    1-202-586-5000 | f/202-586-4403
-</div></div>
-            </div>
-            <div id="subFooter"><ul class="subFooterNav">
-        <li class="first"><a href="/webpolicies.htm">Web Policies</a></li>
-    
-        <li><a href="http://www.civilrights.energy.gov/no_fear_act.asp">No Fear Act</a></li>
-    
-        <li><a href="/sitemap.htm">Site Map</a></li>
-    
-        <li><a href="/privacy.htm">Privacy</a></li>
-    
-        <li><a href="http://phonebook.doe.gov">Phone Book</a></li>
-    
-        <li><a href="http://humancapital.doe.gov/jobs/">Employment</a></li>
-    
-</ul></div>
-    
-       <!-- //end footer -->
+<!-- footer -->
+        <div id="footer_container">
+            <div id="Box8"><a href="/index.htm"><img class="logo_display" height="82" width="289" src="/images/structure/footer_logo.png" alt="U.S. Department of Energy Logo" title="U.S. Department of Energy Logo"></a></div>
+            <div id="three_boxes">
+                <div id="Box9">
+                    <h2>Inside the DOE</h2>
+                        <ul>
+                            <li><a href="http://www.ig.energy.gov/">Inspector General</a></li>
+                            <li><a href="https://www.directives.doe.gov/">DOE Directives</a></li>
+                            <li><a href="http://diversity.energy.gov/business/small_business.htm">Small Business</a></li>
+                        </ul>
+                </div>
+                      <div id="Box10">
+                    <h2>About Us</h2>
+                    <div class="split">
+                        <ul>
+                            <li><a href="/webpolicies.htm">Web Policies</a></li>
+                            <li><a href="http://diversity.energy.gov/civil_rights/no_fear_act.htm">No Fear Act</a></li>
+                            <li><a href="/sitemap.htm">Site Map</a></li>
+                        </ul>
+                    </div>
+                    <div class="split">
+                        <ul>                    
+                            <li><a href="/privacy.htm">Privacy</a></li>
+                            <li><a href="http://phonebook.doe.gov/">Phone Book</a></li>
+                            <li><a href="http://humancapital.doe.gov/jobs/">Employment</a></li>
+                        </ul>
+                    </div>
+                    <br>
+                 </div>
+                 
+                 <div id="Box11">                
+                       <h2>Related Sites</h2>
+                           <div class="split2">
+                            <ul>
+                                <li><a href="http://www.whitehouse.gov/">The White House</a></li>
+                                <li><a href="http://management.energy.gov/FOIA/privacy.htm">Privacy Program</a></li>
+                                <li><a href="http://management.energy.gov/foia_pa.htm">FOIA Program</a></li>
+                            </ul>
+                        </div>
+                        <div class="split2">
+                              <ul>
+                                <li><a href="http://www.usa.gov/index.shtml">USA.gov</a></li>
+                                <li><a href="http://cio.energy.gov/infoquality.htm">Information Quality</a></li>
+                                <li><a href="http://www.whitehouse.gov/omb/e-gov/">E-Gov</a></li>
+                            </ul>
+                        </div>
+                    <br>
+                </div>
+                
+              </div>                  
+            <div class="clear"></div>
+        </div>        
+        <!-- //end footer -->
         
     </div>
+
     <!-- //end wrapper -->
 
 </body></html>
