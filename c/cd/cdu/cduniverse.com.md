@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cduniverse.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226180745id_/http%3A//www.cduniverse.com/help/help.asp%3Fstyle%3Dmusic%26page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cduniverse.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521220441id_/http%3A//www.cduniverse.com/help/help.asp%3Fstyle%3Dmusic%26page%3Dprivacy) for the most accurate reproduction.*
 
 # CD Universe - Help
 
@@ -21,8 +21,8 @@ CD Universe does not sell, trade, lease or distribute the personal information o
 We use third-party service providers to serve ads on our behalf across the Internet and sometimes on this site. They may collect anonymous information about your visits to our Web site, and your interaction with our products and services. They may also use information about your visits to this and other Web sites to target advertisements for goods and services. This anonymous information is collected through the use of a pixel tag, cookies or web beacons. No personally identifiable information is collected or used in this process. They do not know the name, phone number, address, email address, or any personally identifying information about the user. 
 
 Some of these services can be opted out by clicking the links below:  
-Channel Advisor: [Opt Out](https://web.archive.org/web/20101226180745id_/http%3A//www.cduniverse.com/help/help.asp?page=privacy&optoutmarketing=channeladvisor)  
-Fetchback: [Opt Out](https://web.archive.org/web/20101226180745id_/http%3A//www.cduniverse.com/help/help.asp?page=privacy&optoutmarketing=fetchback)  
+Channel Advisor: [Opt Out](https://web.archive.org/web/20110521220441id_/http%3A//www.cduniverse.com/help/help.asp?page=privacy&optoutmarketing=channeladvisor)  
+Fetchback: [Opt Out](https://web.archive.org/web/20110521220441id_/http%3A//www.cduniverse.com/help/help.asp?page=privacy&optoutmarketing=fetchback)  
 Google Adsense: [Opt Out](http://www.google.com/privacy/ads/)  
 Advertising.com & AdBrite: [Opt Out](http://www.networkadvertising.org/managing/opt_out.asp)  
 
