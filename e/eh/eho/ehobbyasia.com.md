@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ehobbyasia.com privacy policy that was archived on 2009-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090608120858id_/http%3A//shop.ehobbyasia.com/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ehobbyasia.com privacy policy that was archived on 2011-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110522214450id_/http%3A//shop.ehobbyasia.com/privacy_statement) for the most accurate reproduction.*
 
-# eHobbyAsia.com - Privacy Statement
+# Privacy Statement
 
 ### Privacy Statement
 
