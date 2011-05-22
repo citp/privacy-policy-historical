@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the purplemath.com privacy policy that was archived on 2009-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090105183214id_/http%3A//www.purplemath.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the purplemath.com privacy policy that was archived on 2011-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110522045433id_/http%3A//www.purplemath.com/privacy.htm) for the most accurate reproduction.*
 
 # Purplemath Privacy Policy
 
@@ -12,7 +12,7 @@ P.O. Box 1184
 Palatine IL 60078-1184
 
 
-We can be reached via e-mail at [stapel@purplemath.com](mailto:stapel@purplemath.com) or via our [contact form](https://web.archive.org/web/20090105183214id_/http%3A//www.purplemath.com/feedback.php).
+We can be reached via e-mail at [stapel@purplemath.com](mailto:stapel@purplemath.com) or via our [contact form](https://web.archive.org/web/20110522045433id_/http%3A//www.purplemath.com/feedback.php).
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible). The only way we would receive any personally identifying information would be for you to contact us directly.
 
@@ -24,7 +24,7 @@ With respect to cookies: We use cookies to track generic traffic profiles.
 
 If you supply us with your postal address on-line you will only receive the information for which you provided us your address.
 
-With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of [Google](http://www.google.com/privacypolicy.html).
+With respect to Ad Servers: We use third-party advertising companies to serve ads when you visit our website. These companies may use information (such as your domain type, your IP address and clickstream or behavioral information, but not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, consult the privacy policies of [Google](http://www.google.com/privacy_ads.html), [Adify](http://www.adify.com/privacy-policy), [Amazon](http://www.amazon.com/gp/help/customer/display.html?ie=UTF8&nodeId=468496), and [ValueClick](http://www.valueclickmedia.com/webuser_privacy.shtml). (See also [NAI Principles](http://www.networkadvertising.org/managing/opt_out.asp).)
 
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and we will use for these new purposes only data collected from the time of the policy change forward. If you are concerned about how your information is used, you should check back at our Web site periodically.
 
