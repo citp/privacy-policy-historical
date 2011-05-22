@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the docshare.com privacy policy that was archived on 2010-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100921112243id_/http%3A//www.docshare.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the docshare.com privacy policy that was archived on 2011-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110522082220id_/http%3A//www.docshare.com/legal/privacy) for the most accurate reproduction.*
 
-# DocShare Support : Privacy Policy
+# Privacy Policy : DocShare Support
 
 ### Privacy Policy
 
-Phil Mar 16, 2009
+Phil Mar-16 2009
 
 Privacy Policy
 
