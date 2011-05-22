@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the famecount.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121025929id_/http%3A//www.famecount.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the famecount.com privacy policy that was archived on 2011-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110522174702id_/http%3A//www.famecount.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Famecount
 
