@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the koreabeat.com privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119152806id_/http%3A//asiancorrespondent.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the koreabeat.com privacy policy that was archived on 2011-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110522083644id_/http%3A//asiancorrespondent.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Asian Correspondent
 
@@ -21,8 +21,6 @@ We also may collect other types of information in the following ways when you vi
 
 
 We do not knowingly collect personal information from children under the age of 13. Should we ever do so, we will comply with the Children’s Online Privacy Protection Act.
-
-**I**
 
 We may allow third-party advertising companies or ad networks to display advertisements on our websites.
 
@@ -104,6 +102,3 @@ We may allow third-parties, including IAC companies, advertising companies and a
 Web beacons (also known as clear gifs, pixel tags or web bugs) are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of web users or to access cookies. Unlike cookies which are stored on the user’s computer hard drive, web beacons are embedded invisibly on the web pages (or in e-mail) and are about the size of the period at the end of this sentence.
 
 Web beacons may be used to deliver or communicate with cookies, to count users who have visited certain pages and to understand usage patterns. We also may include web beacons in promotional or other e-mail messages or newsletters to determine whether messages have been opened and acted upon. We also may receive an anonymous identification number if you come to our site from an online advertisement displayed on a third-party website
-
-|   
----|---
