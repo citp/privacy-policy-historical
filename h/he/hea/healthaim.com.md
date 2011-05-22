@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthaim.com privacy policy that was archived on 2009-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091001182202id_/http%3A//www.healthaim.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthaim.com privacy policy that was archived on 2011-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110522165922id_/http%3A//www.healthaim.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Health Aim
 
