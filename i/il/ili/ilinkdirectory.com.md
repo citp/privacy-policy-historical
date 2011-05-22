@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ilinkdirectory.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125000044id_/http%3A//www.ilinkdirectory.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ilinkdirectory.com privacy policy that was archived on 2011-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110522183516id_/http%3A//www.ilinkdirectory.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy - ilinkdirectory.com
+# Privacy Policy - www.ilinkdirectory.com
 
-Privacy Policy for ilinkdirectory.com 
+Privacy Policy for www.ilinkdirectory.com 
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at admin@biddingwebdirectory.org. 
 
