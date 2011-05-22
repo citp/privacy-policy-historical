@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the etsy.com privacy policy that was archived on 2010-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101115121603id_/http%3A//www.etsy.com/policy/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etsy.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523015700id_/http%3A//www.etsy.com/policy/privacy) for the most accurate reproduction.*
 
 # Etsy :: Privacy Policy
 
@@ -8,7 +8,7 @@
 
 This privacy policy covers the use of the web site located at [http://www.etsy.com](http://www.etsy.com/) and the services provided by Etsy, Inc. ("Etsy"), including how Etsy treats personal information that Etsy collects and receives. Pursuant to Etsy's Terms of Use, you must be 18 years and older to use this site or have permission from a legal guardian. Therefore, this policy makes no provision for individuals under 18 years old. This policy does not apply to the practices of third parties that Etsy does not own or control, or individuals that Etsy does not employ or manage.
 
-Effective Date: 11/17/2008
+Date of last revision: January 27, 2011
 
 **TRUSTe**
 
@@ -21,7 +21,7 @@ Etsy, Inc. complies with the EU Safe Harbor framework set forth by the Departmen
 General Information:
 
   * Etsy will not sell or disclose your name or email address to third parties without your explicit consent, except as specified in this privacy policy.
-  * Your username, Etsy ID or alias is displayed throughout Etsy (and so available to the public) and is connected to all of your Etsy activity. Other people can see your purchases, items for sale, store, feedback, ratings and associated comments. You have the option to publicly display your full name. 
+  * Your username, Etsy ID or alias is displayed throughout Etsy (and so available to the public) and is connected to all of your Etsy activity. Other people can see your items for sale, store, feedback, ratings and associated comments. You have the option to publicly display your full name. 
   * Etsy collects personal information when you register to use Etsy services or to post content on Etsy. At registration you are asked for your email address and certain other optional information. 
   * If you would like to obtain a Seller account, Etsy will ask for your billing address, phone number, and credit card information. 
   * Etsy automatically receives and records information on our server logs from your browser, including your IP address, cookies, and the pages you request. This data is only used in the aggregate. 
@@ -47,9 +47,9 @@ Etsy offers subscriptions to Etsy email newsletters. To opt-in, Etsy will ask fo
 
 **Friend Features**
 
-"Invite a Friend" is a feature in which members can send a one-time email message to invite someone to join Etsy. "Tell a Friend" allows members to share information about a specific item listed on Etsy by sending a personalized email message.
+"Tell a Friend" allows members to share information about a specific item listed on Etsy by sending a personalized email message. If you choose to use Etsy's "Tell a Friend" feature, Etsy will ask for the information needed to send the message, such as your friend's email address. Etsy will then automatically send your friend an email, inviting your friend to visit the site. Etsy does not store "Tell a Friend" information on our servers. Your friend may utilize the "unsubscribe" link in the email to opt-out of receiving future "Tell a Friend" emails from Etsy.
 
-If you choose to use Etsy's "Invite a Friend" or "Tell a Friend" features, Etsy will ask for the information needed to send the message, such as your friend's email address. Etsy will then automatically send your friend an email, inviting your friend to visit the site. For the "Invite a Friend" feature, Etsy stores the information for the purpose of sending this message, limiting the ability to send invitations to one per recipient-sender combination and tracking the success of this feature (registration referrals). Etsy does not store "Tell a Friend" information on our servers. Your friend may utilize the "unsubscribe" link in the email to opt-out of receiving future "Tell a Friend" emails from Etsy.
+We utilize a contact-importer feature to help you identify people from your email address books who are current members of Etsy and invite any other contact to join Etsy. You may connect directly with your email service provider and import your contacts to Etsy. When you add contacts to your Etsy circle, they will automatically receive an email notification. When you invite contacts to join Etsy, you may preview the email invitation before Etsy generates and sends it. Recipients of invitations may opt out of receiving future invitations via a convenient link located in the invitation email. If you do not want your contacts to be able to find your Etsy username through your email address, you may opt out through your account privacy settings.
 
 **Choice/Opt-out**
 
@@ -104,4 +104,4 @@ If the privacy policy is changed, Etsy will post changes so that you are aware o
 **Questions**  
 
 
-If you have questions or suggestions you can contact Etsy's Support Team [via our Help site](http://help.etsy.com/app/ask/) or write to: Etsy Customer Care - Privacy Policy; 55 Washington Street, Suite 512; Brooklyn, NY 11201; telephone: (718) 855-7955.
+If you have questions or suggestions you can contact Etsy's Support Team [via our Help site](http://www.etsy.com/help/contact) or write to: Etsy Customer Care - Privacy Policy; 55 Washington Street, Suite 512; Brooklyn, NY 11201; telephone: (718) 855-7955.
