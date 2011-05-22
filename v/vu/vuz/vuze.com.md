@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vuze.com privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528152356id_/http%3A//www2.vuze.com/corp/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vuze.com privacy policy that was archived on 2011-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110522192344id_/http%3A//www.vuze.com/corp/privacy.php) for the most accurate reproduction.*
 
 # Vuze - Privacy
 
@@ -15,17 +15,17 @@ This Privacy Notice is incorporated into and is subject to the Vuze Platform Ter
 
 ### TABLE OF CONTENTS
 
-  1. [The Information Vuze Collects](https://web.archive.org/web/20100528152356id_/http%3A//www2.vuze.com/corp/privacy.php#1)
-  2. [The Way Vuze Uses Information](https://web.archive.org/web/20100528152356id_/http%3A//www2.vuze.com/corp/privacy.php#2)
-  3. [When Vuze Discloses Information](https://web.archive.org/web/20100528152356id_/http%3A//www2.vuze.com/corp/privacy.php#3)
-  4. [Your Choices](https://web.archive.org/web/20100528152356id_/http%3A//www2.vuze.com/corp/privacy.php#4)
-  5. [Data Security](https://web.archive.org/web/20100528152356id_/http%3A//www2.vuze.com/corp/privacy.php#5)
-  6. [Children's Privacy](https://web.archive.org/web/20100528152356id_/http%3A//www2.vuze.com/corp/privacy.php#6)
-  7. [International Visitors](https://web.archive.org/web/20100528152356id_/http%3A//www2.vuze.com/corp/privacy.php#7)
-  8. [In the Event of Merger or Sale](https://web.archive.org/web/20100528152356id_/http%3A//www2.vuze.com/corp/privacy.php#8)
-  9. [Changes and Updates to this Privacy Notice](https://web.archive.org/web/20100528152356id_/http%3A//www2.vuze.com/corp/privacy.php#9)
-  10. [Effective Date, Date Last Modified](https://web.archive.org/web/20100528152356id_/http%3A//www2.vuze.com/corp/privacy.php#10)
-  11. [Vuze Contact Information](https://web.archive.org/web/20100528152356id_/http%3A//www2.vuze.com/corp/privacy.php#11)
+  1. [The Information Vuze Collects](https://web.archive.org/web/20110522192344id_/http%3A//www.vuze.com/corp/privacy.php#1)
+  2. [The Way Vuze Uses Information](https://web.archive.org/web/20110522192344id_/http%3A//www.vuze.com/corp/privacy.php#2)
+  3. [When Vuze Discloses Information](https://web.archive.org/web/20110522192344id_/http%3A//www.vuze.com/corp/privacy.php#3)
+  4. [Your Choices](https://web.archive.org/web/20110522192344id_/http%3A//www.vuze.com/corp/privacy.php#4)
+  5. [Data Security](https://web.archive.org/web/20110522192344id_/http%3A//www.vuze.com/corp/privacy.php#5)
+  6. [Children's Privacy](https://web.archive.org/web/20110522192344id_/http%3A//www.vuze.com/corp/privacy.php#6)
+  7. [International Visitors](https://web.archive.org/web/20110522192344id_/http%3A//www.vuze.com/corp/privacy.php#7)
+  8. [In the Event of Merger or Sale](https://web.archive.org/web/20110522192344id_/http%3A//www.vuze.com/corp/privacy.php#8)
+  9. [Changes and Updates to this Privacy Notice](https://web.archive.org/web/20110522192344id_/http%3A//www.vuze.com/corp/privacy.php#9)
+  10. [Effective Date, Date Last Modified](https://web.archive.org/web/20110522192344id_/http%3A//www.vuze.com/corp/privacy.php#10)
+  11. [Vuze Contact Information](https://web.archive.org/web/20110522192344id_/http%3A//www.vuze.com/corp/privacy.php#11)
 
   
 
@@ -112,4 +112,4 @@ Privacy Notice last modified on July 10, 2008.
 
 ### 11\. Vuze Contact Information:
 
-Please contact Vuze with any questions or comments about this Privacy Notice, your personal information, and our third-party disclosure practices or your consent choices [through our online web form](https://web.archive.org/corp/inquiry.php) or by mail at: 4 W. 4th Avenue, Suite 401, San Mateo, CA 94402. We will respond to your inquiry as promptly as possible.
+Please contact Vuze with any questions or comments about this Privacy Notice, your personal information, and our third-party disclosure practices or your consent choices [through our online web form](https://web.archive.org/corp/inquiry.php) or by mail at: 489 S. El Camino Real, San Mateo, CA 94402. We will respond to your inquiry as promptly as possible.
