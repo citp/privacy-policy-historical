@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bnymellon.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222092100id_/http%3A//www.bnymellon.com/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bnymellon.com privacy policy that was archived on 2011-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110522060351id_/http%3A//www.bnymellon.com/privacy/index.html) for the most accurate reproduction.*
 
 # Privacy | BNY Mellon
 
@@ -22,7 +22,7 @@ When you utilize the Web site, we may receive certain non-personally identifiabl
 
 We use third party advertising companies to serve ads on our behalf across the Internet. These companies employ cookie and Web Beacon (also referred to as 1x1 pixel.gifs or action tags) technology to measure and improve the effectiveness of ads for their clients. To do so, these companies may use anonymous information about your visits to our Web site and other Web sites. This information may include: date/time of banner ad shown, their cookie, and a portion of the IP address. These technologies do not collect personally identifiable information ("PII"). In addition, the data collected is not linked with any PII, such as name, email address, or phone number. The anonymous information can also be used for online preference marketing purposes.
 
-We and our third party advertisers may use information about your visits to this and other Web sites in order to provide ads about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by the third party, [click here](http://www.atlassolutions.com/privacy.aspx).
+We and our third party advertisers may use information about your visits to this and other Web sites in order to provide ads about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by the third party, [click here](http://www.mediamind.com/Content.aspx?page=privacy_policy).
 
 ### Coverage of This Policy
 
