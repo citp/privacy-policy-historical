@@ -1,68 +1,134 @@
-> *The following text is extracted and transformed from the coloradolottery.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228055744id_/http%3A//www.coloradolottery.com/index.cfm/ID/121/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coloradolottery.com privacy policy that was archived on 2011-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110522171857id_/http%3A//www.colorado.gov/cs/Satellite%3Fc%3DPage%26cid%3D1205189519981%26pagename%3DCO-Portal%252FPage%252FCXPNoCallOutLayout) for the most accurate reproduction.*
 
-# Privacy Policy
+# Colorado.gov: The Official State Web Portal: Privacy Statement
 
-The following notice applies to the Colorado Lottery Web site listed at coloradolottery.com.   
-Thank you for visiting the Colorado Lottery Web site and reviewing our Privacy Notice. This statement addresses collection, use and security of and access to information that may be obtained through the use of the Colorado Lottery Website. This notice covers the following topics:
+  * [Colorado.gov Policies](https://web.archive.org/cs/Satellite/CO-Portal/CXP/1206035640403)
+  * [Privacy Statement](https://web.archive.org/cs/Satellite/CO-Portal/CXP/1205189519981)
+    * [Personal Information](https://web.archive.org/cs/Satellite/CO-Portal/CXP/1205189520009)
+    * [Information Collected](https://web.archive.org/cs/Satellite/CO-Portal/CXP/1205189519991)
+    * [Cookies](https://web.archive.org/cs/Satellite/CO-Portal/CXP/1205189520030)
+  * [Security Statement](https://web.archive.org/cs/Satellite/CO-Portal/CXP/1205189520044)
+  * [Accessibility Standards](https://web.archive.org/cs/Satellite/CO-Portal/CXP/1205481681972)
+  * [Linking Policy](https://web.archive.org/cs/Satellite/CO-Portal/CXP/1205481682000)
+  * [Supported Browsers](https://web.archive.org/cs/Satellite/CO-Portal/CXP/1205481681980)
 
-[Notice: Children](http://coloradolottery.com/index.cfm/ID/121/privacy-policy/#1)  
-[Information Collected and Stored](http://coloradolottery.com/index.cfm/ID/121/privacy-policy/#2)  
-[Public Access to Information ](http://coloradolottery.com/index.cfm/ID/121/privacy-policy/#3)  
-[Personal Information and Choice](http://coloradolottery.com/index.cfm/ID/121/privacy-policy/#4)  
-[Why We Collect the Information](http://coloradolottery.com/index.cfm/ID/121/privacy-policy/#5)  
-[Security](http://coloradolottery.com/index.cfm/ID/121/privacy-policy/#6)  
-[Access](http://coloradolottery.com/index.cfm/ID/121/privacy-policy/#7)  
-[Notification of Changes](http://coloradolottery.com/index.cfm/ID/121/privacy-policy/#8)  
-[Contact Information](http://coloradolottery.com/index.cfm/ID/121/privacy-policy/#9)
 
-**Notice:**  
-A Special Note About Children  
-Persons under the age of 18 are not eligible to use any services on this site.  
-([top](http://coloradolottery.com/index.cfm/ID/121/privacy-policy/#top))
 
-**Information Collected and Stored**  
-We do not collect personally identifiable information about you, except when you provide it to us. For example, if you decide to complete a survey you may be asked to provide certain information such as your contact information (name, e-mail address and mailing address), gender, birth date, lottery preferences and the brands and products you use.
+  * SERVICES
+    * SERVICES
 
-When you submit your personally identifiable information on this Website, you are giving your consent to the collection, use and disclosure of your personal information as set forth in this Privacy Policy. If you would prefer that we not collect any personally identifiable information from you, please do not provide us with any such information.
+    * [License Plate Renewal](https://www.colorado.gov/apps/dor/dmv/vehicle/registration/renewal/welcome.jsf)
+    * [Driver's License and State ID Renewal](http://www.colorado.gov/vroom/renewlicense/)
+    * [Individual or Corporate Tax Payments](http://www.colorado.gov/apps/dor/tax/netfile/welcome.jsf)
+    * [Pay your Sales Tax Online](https://www.colorado.gov/apps/dor/tax/sales/welcome.jsf)
+    * [Netfile - Individual Income Tax Returns](http://www.netfile.state.co.us/)
+    * [View All](https://web.archive.org/cs/Satellite/CO-Portal/CXP/1174084099749)
+  * HOW DO I?
+    * HOW DO I?
 
-The information you provide may be used by us to create and deliver to you our personalized e-mails, personalized web information, promotional opportunities, surveys or other communications containing services and educational information of the Colorado Lottery. If you prefer not to receive such communications, please see "[Access](http://coloradolottery.com/#7)" below.
+    * [Register to Vote](http://www.sos.state.co.us/pubs/elections/)
+    * [Find a Title & Registration office](http://www.colorado.gov/cs/Satellite/Revenue-MV/RMV/1215770303685)
+    * [Find a Driver License office](http://www.colorado.gov/cs/Satellite/Revenue-MV/RMV/1217585327248)
+    * [Start a business in Colorado](http://www.colorado.gov/cbe/stepsNew.html)
+    * [Get an Occupational/Industry License](http://www.dora.state.co.us/licensing.htm)
+    * [View All](https://web.archive.org/cs/Satellite/CO-Portal/CXP/1208943208491)
+  * INFORMATION FOR
+    * INFORMATION FOR
 
-When you visit this Website or view one of our e-mails, we may use pixel tags (also called "clear" gifs), tracking links and/or similar technology to note some of the pages you visit on our Website and personalize your experience. We may also use pixel tags to determine what types of e-mail your browser supports. We may use the information collected through pixel tags, tracking links and similar technology in combination with your personally identifiable information.
+    * [Web Development Center](http://www.colorado.gov/data)
+    * [Senior Citizens](https://web.archive.org/cs/Satellite/CO-Portal/CXP/1205918590630)
+    * [Citizens with Disabilities - Universal Access](https://web.archive.org/cs/Satellite/CO-Portal/CXP/1205918590666)
+    * [Moving to Colorado](https://web.archive.org/cs/Satellite/CO-Portal/CXP/1205918590691)
+    * [State Employees](https://web.archive.org/cs/Satellite/CO-Portal/CXP/1205918590976)
+    * [Students](https://web.archive.org/cs/Satellite/CO-Portal/CXP/1174084100426)
+    * [Staying Informed](https://web.archive.org/cs/Satellite/CO-Portal/CXP/1206035629399)
+    *  
+  * STATE NEWS
+    * STATE NEWS
 
-We may use the information you provide in aggregate form for internal business purposes, such as generating statistics and developing marketing plans. We will not sell or rent your personally identifiable information to third parties without your consent.  
-([top](http://coloradolottery.com/index.cfm/ID/121/privacy-policy/#top))
+    * [Gov. Hickenlooper requests assistance for Tiffany Hartley(May 20, 2011)](https://web.archive.org/cs/Satellite?c=Page&childpagename=GovHickenlooper%2FCBONLayout&cid=1251593096009&p=1251593096009&pagename=GOVHWrapper)
+    * [Gov. Hickenlooper signs several bills(May 19, 2011)](https://web.archive.org/cs/Satellite?c=Page&childpagename=GovHickenlooper%2FCBONLayout&cid=1251593082143&p=1251593082143&pagename=GOVHWrapper)
+    * [Gov. Hickenlooper to present Governor's award for excellence in exporting to CO companies tomorrow at World Trade Day(May 17, 2011)](https://web.archive.org/cs/Satellite?c=Page&childpagename=GovHickenlooper%2FCBONLayout&cid=1251593017800&p=1251593017800&pagename=GOVHWrapper)
+    * [View All](https://web.archive.org/cs/Satellite/CO-Portal/CXP/1201542329107)
+  * ALERTS
+    * ALERTS
 
-**Public Access to Information**  
-The Colorado Lottery will not release personal information to third parties except where it is already provided by law. Depending on the specific nature of the service, information may be shared with other state agencies as stated in the Colorado Open Records Act. This statute allows for the exchange of public records or sharing of information between public agencies when the exchange is serving a legitimate governmental need or is necessary in the performance of a legitimate government function. E-mail addresses or other information that is obtained as a result of interacting with the Colorado Lottery web site will be used for the benefit of the Colorado Lottery and will not be sold to third party companies except as required by the Colorado Open Records Act.
+    * [Swine Flu Information](https://web.archive.org/cs/Satellite/CO-Portal/CXP/1241184556448)
+    * [Preparedness Information for Hazards in Colorado](http://www.dola.state.co.us/dem/public_information/public_information.htm)
+    * [Colorado Emergency Management Agency News](http://www.dola.state.co.us/dem/index.html)
+    * [Homeland Security Alerts](http://www.colorado.gov/homelandsecurity)
+    * [Cyber Security News](http://www.colorado.gov/cybersecurity)
+    *  
+  * COMMUNITY HIGHLIGHT
+    * **Description:** Scratch the veneer of the new-West look of urban Denver and you'll get a glimpse of the Old West, too. Sitting at 5,280 feet (one mile) above sea level...  
 
-The Colorado Lottery will not share personal information with any private party, except as required by the Colorado Open Records Act.  
-([top](http://coloradolottery.com/index.cfm/ID/121/privacy-policy/#top))
 
-**Personal Information Choice**  
-You may choose whether to provide personal information online.
+[More Information](http://www.colorado.com/city.php?id=10)
 
-"Personal information" is information about a natural person that is readily identifiable to that specific individual. Personal information includes such things as individual's name, address, and phone number. A domain name or Internet protocol address is not considered personal information.
+  * media center
+    * VIDEOS
 
-We collect no personal information about you unless you voluntarily provide it to us by sending us email, participating in a survey or completing an online form. You may choose not to contact us by email, participating in a survey, or provide any personal information using an online form. Your choice to not participate in these activities will not impair your ability to browse the Colorado Lottery Web site and read or download any information provided on the site.  
-([top](http://coloradolottery.com/index.cfm/ID/121/privacy-policy/#top))
+    * [Travel Videos](http://www.colorado.com/static.php?file=media_room/image_and_video_library/video_library&ht=videos%20videos)
+    * [Governor Ritter Videos](http://www.colorado.gov/cs/Satellite?c=Page&cid=1177024890395&pagename=GovRitter%2FGOVRLayout)
+    * [Colorado Parks Video](http://parks.state.co.us/News/VideoGallery/)
+    * [Colorado General Assembly](http://www.coloradochannel.net/)
+  * governor
+    * GOVERNOR
 
-**Why We Collect the Information**  
-Most consumers prefer to receive information via email, a website or any form of communication when they want and relevant to their particular preferences.
+    * [Visit the Governor's Website](http://www.colorado.gov/governor)
+    * [State Government](https://web.archive.org/cs/Satellite/CO-Portal/CXP/1165693060247)
+    * [Local Government](https://web.archive.org/cs/Satellite/CO-Portal/CXP/1178305752004)
+    * [Federal Government](https://web.archive.org/cs/Satellite/CO-Portal/CXP/1174084099946)
+    *  
+  * CITIZEN ASSISTANCE
+    * CITIZEN ASSISTANCE
 
-The Colorado Lottery is collecting this information to provide a better, more valuable and relevant experience to the Colorado Lottery players.  
-([top](http://coloradolottery.com/index.cfm/ID/121/privacy-policy/#top))
+    * [Contact Compass](http://www.colorado.gov/apps/dpa/k2c/welcome.jsf)
+    * [Get Help](https://web.archive.org/gethelp)
+    * [State Agencies and Indexes](https://web.archive.org/cs/Satellite/CO-Portal/CXP/1206035635118)
+    * [Registered Services Center](http://colorado.gov/registration/)
+    * [Feedback](http://www.colorado.gov/apps/feedback/servlet/begin?application=colorado-cms-website)
+    * [Sign up for eNews](https://web.archive.org/cs/Satellite/CO-Portal/CXP/1206035629399)
+    * [211 Colorado](http://211colorado.org/)
+    * [511 Traffic](http://www.cotrip.org/)
+    *  
+  * WEATHER
+    * WEATHER
 
-**Security**  
-The Colorado Lottery, as developer and manager of this Web site has taken several steps to safeguard the integrity of its data and prevent unauthorized access to information maintained. These measures are designed and intended to prevent corruption of data, block unknown or unauthorized access to our systems and information, and to provide reasonable protection of private information in our possession.  
-([top](http://coloradolottery.com/index.cfm/ID/121/privacy-policy/#top))
+    * Denver/Centennial, CO  
+Partly Cloudy  
+Temp 63.0 F (17.2 C)  
+Humidity 33% 
 
-**Access**  
-You may opt-out of receiving future communications from us by clicking the “How to unsubscribe” link within MyLottery and following the directions provided there. In addition, once you log into the MyLottery area, you may review or change any of the information that you have given us to date.  
-([top](http://coloradolottery.com/index.cfm/ID/121/privacy-policy/#top))
+  
 
-**Notification of Changes**  
-We may revise this Privacy Policy from time to time. If we decide to change our Privacy Policy, we will post the revised policy here. As we may make changes at any time without notifying you, we suggest that you periodically consult this Privacy Policy. Please note that our rights to use your personally identifiable information will be based on the privacy policy in effect at the time the information is used.  
-([top](http://coloradolottery.com/index.cfm/ID/121/privacy-policy/#top))
+  * TRAFFIC
+    * TRAFFIC
 
-**Contact Information**  
-You may contact the Colorado Lottery to review your personal information, or request correction of your personal information by contacting:
+    * [Road Conditions](http://www.cotrip.org/atis/web.Travel_ConditionsMarshal?Travel_Conditions=0&mode=html)
+    * [Alerts and Restrictions](http://www.cotrip.org/atis/web.Travel_ConditionsMarshal?Travel_Conditions=10&mode=html)
+    * [Lane Closures](http://www.dot.state.co.us/TravelInfo/CurrentCond/)
+    * [Traffic Cams](http://www.cotrip.org/atis/web.ZoomboxMarshal?device=CCTV&Zoombox=0)
+    * [Winter Driving](http://www.dot.state.co.us/TravelInfo/winterdriving/)
+    *  
+  * colorful colorado
+    * COLORFUL COLORADO
+
+    * Send ePostcard
+
+[Fly Fishing the creek](https://web.archive.org/cs/Satellite?c=Media_C&cid=1206123397567&p=1205189519981&pagename=CO-Portal%2FMedia_C%2FCXPDisplay)
+
+Eldorado Canyon State Park, Colorado State Parks
+
+
+
+
+## Privacy Statement
+
+Thank you for visiting the Colorado home page and reviewing our Privacy Notice. This notice addresses collection, use of and access to information that may be obtained through use of the Colorado home page. This notice covers the following topics:
+
+[Personal Information](https://web.archive.org/cs/Satellite?c=Page&cid=1205189520009&pagename=CO-Portal%2FPage%2FCXPNoCallOutLayout)
+
+[Information Collected](https://web.archive.org/cs/Satellite?c=Page&cid=1205189519991&pagename=CO-Portal%2FPage%2FCXPNoCallOutLayout)  
+[Cookies](https://web.archive.org/cs/Satellite?c=Page&cid=1205189520030&pagename=CO-Portal%2FPage%2FCXPNoCallOutLayout)  
+
