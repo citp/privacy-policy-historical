@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the familylife.com privacy policy that was archived on 2010-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101207040157id_/http%3A//www.familylife.com/site/c.dnJHKLNnFoG/b.3842865/k.B11E/Privacy_statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the familylife.com privacy policy that was archived on 2011-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110522163906id_/http%3A//www.familylife.com/site/c.dnJHKLNnFoG/b.3842865/k.B11E/Privacy_statement.htm) for the most accurate reproduction.*
 
-# Privacy statement - FamilyLife.com
+# Privacy Statement - FamilyLife.com
 
 This is the website of **FamilyLife** , a subsidiary of Campus Crusade for Christ. 
 
@@ -8,14 +8,13 @@ Our postal address is:
 **5800 Ranch Drive  
 Little Rock, AR 72222**
 
-We can be reached via e-mail from our [Contact Us](https://web.archive.org/site/c.dnJHKLNnFoG/b.3838287/) page  
-or you can reach us by telephone at 1-800-358-6329. 
+We can be reached via e-mail from our [Contact Us](https://web.archive.org/site/c.dnJHKLNnFoG/b.3838287/) page or you can reach us by telephone at 1-800-358-6329. 
 
 **SECURITY**   
 With respect to security: 
 
-  * We always use industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site. 
-  * Familylife.com is a [VeriSign Secure Site](https://seal.verisign.com/splash?form_file=fdf/splash.fdf&type=GOLD&sealid=1&dn=WWW.FAMILYLIFE.COM&lang=en). 
+    * We always use industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site. 
+    * Familylife.com is a [VeriSign Secure Site](https://seal.verisign.com/splash?form_file=fdf/splash.fdf&type=GOLD&sealid=1&dn=WWW.FAMILYLIFE.COM&lang=en). 
 
 
 
@@ -24,30 +23,30 @@ We have appropriate security measures in place in our physical facilities to pro
 **INFORMATION WE COLLECT**  
 For each visitor to our website, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible). We collect only: 
 
-  * The domain name, but not the e-mail address of visitors to our website, 
-  * The address and/or e-mail addresses of those who post messages to our bulletin board, 
-  * The e-mail addresses of those who communicate with us via e-mail, 
-  * Aggregate information on what pages consumers access or visit, 
-  * User-specific information on what pages consumers access or visit. 
-  * Information volunteered by the consumer through online transactions (registrations, donations, store), online surveys, forms to access free downloads or materials, and e-mail subscriptions. 
+    * The domain name, but not the e-mail address of visitors to our website, 
+    * The address and/or e-mail addresses of those who post messages to our bulletin board, 
+    * The e-mail addresses of those who communicate with us via e-mail, 
+    * Aggregate information on what pages consumers access or visit, 
+    * User-specific information on what pages consumers access or visit. 
+    * Information volunteered by the consumer through online transactions (registrations, donations, store), online surveys, forms to access free downloads or materials, and e-mail subscriptions. 
 
 
 
 This information we collect is used to improve the content of our website, used to notify consumers about updates to our website or to send e-mail or direct mail regarding special FamilyLife promotions, products or donation opportunities. 
 
-  * If you do not want to receive direct mail or e-mail from FamilyLife, please let us know by sending us e-mail at the above address, calling us at the above telephone number, writing to us at the above address, or visiting our [contact form](https://web.archive.org/site/c.dnJHKLNnFoG/b.3838287/). 
+    * If you do not want to receive direct mail or e-mail from FamilyLife, please let us know by sending us e-mail at the above address, calling us at the above telephone number, writing to us at the above address, or visiting our [contact form](https://web.archive.org/site/c.dnJHKLNnFoG/b.3838287/). 
 
 
 
 If you make a donation on FamilyLife.com, your information will be shared with our parent organization, Campus Crusade for Christ. Campus Crusade for Christ may send you direct mail or e-mail about their ministry. 
 
-  * If you do not want to receive information from Campus Crusade for Christ, please contact Campus Crusade at 100 Lake Hart Drive, Orlando, FL 32832 or by calling (407) 826-2000 
+    * If you do not want to receive information from Campus Crusade for Christ, please contact Campus Crusade at 100 Lake Hart Drive, Orlando, FL 32832 or by calling (407) 826-2000 
 
 
 
 Persons who supply FamilyLife with their telephone numbers online may receive telephone contact from us with information regarding new products and services, upcoming events or donation opportunities. 
 
-  * If you do not wish to receive such telephone calls, please let us know by sending us e-mail at the above address, calling us at the above telephone number, writing to us at the above address, or visiting our [contact form](https://web.archive.org/site/c.dnJHKLNnFoG/b.3838287/). 
+    * If you do not wish to receive such telephone calls, please let us know by sending us e-mail at the above address, calling us at the above telephone number, writing to us at the above address, or visiting our [contact form](https://web.archive.org/site/c.dnJHKLNnFoG/b.3838287/). 
 
 
 
@@ -57,9 +56,9 @@ Persons who supply FamilyLife with their telephone numbers online may receive te
 **COOKIES** **  
 ** With respect to cookies: 
 
-  * We use cookies to record session information, such as items that consumers add to their shopping cart, 
-  * Record user-specific information on what pages users access or visit, 
-  * Record past activity at a site in order to provide better service when visitors return to our site. 
+    * We use cookies to record session information, such as items that consumers add to their shopping cart, 
+    * Record user-specific information on what pages users access or visit, 
+    * Record past activity at a site in order to provide better service when visitors return to our site. 
 
 
 
