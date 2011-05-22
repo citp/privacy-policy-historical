@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the serpd.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121105018id_/http%3A//www.serpd.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the serpd.com privacy policy that was archived on 2011-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110522051654id_/http%3A//www.serpd.com/privacy) for the most accurate reproduction.*
 
 # Search Engine Marketing & SEO News | Privacy « SERPD
 
