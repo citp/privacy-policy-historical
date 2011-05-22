@@ -1,40 +1,45 @@
-> *The following text is extracted and transformed from the mellon.com privacy policy that was archived on 2007-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070427131708id_/http%3A//www.mellon.com/privacy/online.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mellon.com privacy policy that was archived on 2011-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110522060351id_/http%3A//www.bnymellon.com/privacy/index.html) for the most accurate reproduction.*
 
-# Mellon Financial Corporation Privacy Policy
+# Privacy | BNY Mellon
 
-At Mellon, we take the issue of privacy very seriously. Whether you visit our web site for business or personal reasons, you can be assured of receiving the security, privacy and confidentiality that you would expect from a premier financial services institution.
+## Online Privacy Policy
 
-## INFORMATION COLLECTED
+BNY Mellon appreciates your concerns about the privacy of personal information that you provide to us through this Web site. Accordingly, we have posted this policy to explain how we will handle that information.
 
-**General**  
-Mellon does not collect any personal information from anyone who is merely visiting or browsing its Web sites. Personal information may be requested if the visitor chooses to respond to online surveys, send Mellon an e-mail message, use any of the tools or net worth/financial worksheets, or use Mellon's Online Banking product.
+(Note: Our Online Financial Products and Services, such as BNY Online, CRT and INFORM may have different online privacy policies. To view the privacy policy for a specific Online Financial Product or Service please click on the Privacy link on that site.)
 
-**E-mail and Product Inquiry**  
-Mellon invites visitors on its site to send e-mail messages to Mellon so that Mellon may respond to inquiries regarding our products or services. Mellon retains copies of these e-mail messages. The information provided by a visitor will only be used to respond to the visitor's inquiry and to provide better customer service.
+### Privacy of Information Given by You
 
-**Transactional Services**  
-Within this web site, Mellon offers transactional services. In order to protect the security and confidentiality of information provided through these services, Mellon requires that users have a browser that supports 128-bit "strong" encryption.
+If you do provide personal information about yourself, such as name, address or telephone numbers, we will endeavor to maintain that information in accordance with our internal policies governing use and disclosure of confidential information. We may disclose that information within our corporate enterprise. We may also disclose that information to unaffiliated third parties in order to respond to your inquiries, to provide services to you, to provide you with information concerning products and services that we offer, or to prevent or investigate fraud, illegal activity or misuse of this Web site. We may also disclose that information to unaffiliated third parties for other purposes if we have notified you in advance and you have not objected, you have requested or authorized us to do so, or we are required to do so by law.
 
-**Use of Cookies**  
-A cookie is a small piece of information about an Internet session that may be created when a visitor accesses a Web site. Mellon uses cookies to facilitate easier navigation within the site and to provide a higher level of convenience for the visitor. We do not use cookies for any other purposes.
+### Use of Cookies
 
-**Use of Information Collected**  
-Mellon uses the information collected from visitors to its site to address the specific needs of those visitors and to provide better customer service, including the provision of the latest information regarding Mellon's products. The information collected also is used to provide a record of communications between Mellon and visitors to its site and to comply with any applicable legal and/or regulatory requirements.
+Cookies are small pieces of information that are passed through a browser and stored on your hard drive for later retrieval. The use of cookies is a common practice on the Internet. Many Web sites use cookies to personalize customer experience and most browsers are automatically set up to accept cookies. You may choose to reject cookies by changing designated settings on your Web browser. BNY Mellon uses cookies to provide better service, track usage of its Web site and to address security hazards. We also may use cookies for some administrative purposes, such as storing your preferences for certain kinds of information or to remember a password so that you do not have to input it every time you visit our site.
 
-## ACCESS TO INFORMATION COLLECTED
+### Use of Action Tags
 
-**Employees.** Certain Mellon employees will be provided with a visitor's information in order to respond to that visitor's needs and provide the visitor with information regarding specific products in which the visitor may have an interest. Mellon employees are instructed to use strict standards of care in handling the personal, confidential information of Mellon customers, and the handling of such information is dealt with in Mellon's Code of Conduct. Mellon employees who do not conform to Mellon's confidentiality rules are subject to disciplinary sanctions that include dismissal.
+When you utilize the Web site, we may receive certain non-personally identifiable information about your use of the Web site. Such information, which is collected passively using various technologies including, without limitation, action tags, cannot presently be used to specifically identify you.
 
-**Third Parties.** In limited cases Mellon may share customer names and contact information with a third party offering financial products and services that supplement the products and services provided by Mellon, (assuming the customer has not exercised a right to opt out of such sharing). Except in these limited cases, Mellon does not transmit any personal information collected through this site to third parties for marketing purposes. Personal information may be transmitted, however, if there is a specific need to complete a transaction requested by the visitor.
+We use third party advertising companies to serve ads on our behalf across the Internet. These companies employ cookie and Web Beacon (also referred to as 1x1 pixel.gifs or action tags) technology to measure and improve the effectiveness of ads for their clients. To do so, these companies may use anonymous information about your visits to our Web site and other Web sites. This information may include: date/time of banner ad shown, their cookie, and a portion of the IP address. These technologies do not collect personally identifiable information ("PII"). In addition, the data collected is not linked with any PII, such as name, email address, or phone number. The anonymous information can also be used for online preference marketing purposes.
 
-**Visitors.** Visitors having specific questions regarding any information they have sent to Mellon through the Mellon Web site should send an [e-mail](https://web.archive.org/util/tosecure.cfm?Dest=/contact/index.cfm).
+We and our third party advertisers may use information about your visits to this and other Web sites in order to provide ads about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by the third party, [click here](http://www.mediamind.com/Content.aspx?page=privacy_policy).
 
-  
-**Children's Information**  
-We respect the privacy of your children and do not knowingly collect or retain personally identifiable information from children under the age of 13 through our Web sites.
+### Coverage of This Policy
 
-For information on Mellon's CONSUMER PRIVACY POLICY [click here](https://web.archive.org/web/20070427131708id_/http%3A//www.mellon.com/privacy/index.html).
+Specific privacy policies apply to non-public personal information concerning consumers of certain products and services that we offer. We make those policies available to our customers in accordance with federal law.
 
-NOTICE TO CALIFORNIA USERS REQUIRED BY STATE LAW: We retain information we receive through this website, including information you give us to open an account or purchase a product or service from us, information you give to us in inquiries and other communications, and records of any transactions you perform. We share this information with affiliated and nonaffiliated parties only as necessary to process and service your transactions with us, or as required by law. Such parties may include those who provide services to us in connection with your accounts or transactions, or who are involved in providing you the services you request. In certain instances they might include a purchaser or potential purchaser of an account. We also report information to credit bureaus in appropriate cases. And we share information with government agencies and law enforcement as necessary.
+NOTICE TO CALIFORNIA USERS REQUIRED BY STATE LAW: We retain information we receive through this Web site, including information you give us to open an account or purchase a product or service from us, information you give to us in inquiries and other communications, and records of any transactions you perform. We share this information with affiliated and nonaffiliated parties only as necessary to process and service your transactions with us, or as required by law. Such parties may include those who provide services to us in connection with your accounts or transactions, or who are involved in providing you the services you request. In certain instances they might include a purchaser or potential purchaser of an account. We also report information to credit bureaus in appropriate cases. And we share information with government agencies and law enforcement as necessary.
 
-This notice is effective July 1, 2006. Any changes to our policy will be reflected in this location.
+This notice is effective December 16, 2010. Any changes to our policy will be reflected in this location.
+
+## Protection of Social Security Numbers
+
+"We" refers to the family of companies owned by The Bank of New York Mellon Corporation.
+
+Like all financial services companies, we collect a variety of information about individuals, including but not limited to our customers and employees. In many cases that information includes individuals' Social Security numbers. We use records of Social Security numbers for many purposes, especially to comply with federal and state laws such as tax laws and anti-money-laundering laws.
+
+Our policy is (i) to comply with all laws restricting the use and disclosure of Social Security numbers, (ii) to protect the confidentiality of Social Security numbers, (iii) to prohibit the unlawful disclosure of Social Security numbers, and (iv) to limit access to Social Security numbers to our employees, and in certain cases to nonaffiliated parties that provide services to us, based on their responsibilities. To safeguard Social Security numbers, we maintain physical, electronic, and procedural safeguards that are designed to comply with applicable legal standards. Our employees are prohibited from disclosing Social Security numbers for unauthorized purposes.
+
+We may share Social Security numbers among our affiliated companies or with nonaffiliated parties for administrative purposes, such as to process transactions, verify identities, and service accounts. We disclose Social Security numbers as required or permitted by law, such as to the Internal Revenue Service or to credit bureaus. When necessary, we disclose Social Security numbers to regulatory agencies, law enforcement agencies, courts, and parties to lawsuits.
+
+We may share Social Security numbers among our affiliated companies for marketing purposes, but only in compliance with legal restrictions, including required opportunities to opt out of such sharing. We do not, without consent of the individual involved, share Social Security numbers with parties not affiliated with us to enable them to market their own products or services.
