@@ -1,43 +1,20 @@
-<!--The following is the downloaded HTML source of the koolred.com privacy policy that was archived on 2010-12-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101226225602id_/http%3A//www.koolred.com/privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the koolred.com privacy policy that was archived on 2011-05-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110522195928id_/http%3A//www.koolred.com/privacy_policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
 <meta http-equiv="Content-Script-Type" content="text/javascript">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-
-<title>Koolred - Connect, Meet and Discover</title>
-
-
-<link rel="stylesheet" href="http://www.koolred.com/js/slimbox/css/slimbox.css" type="text/css" media="screen">
-<link rel="stylesheet" type="text/css" href="http://www.koolred.com/css/anylinkmenu.css">
-<link rel="stylesheet" type="text/css" href="http://www.koolred.com/css/master.css">
-<link rel="stylesheet" type="text/css" href="http://www.koolred.com/css/menuTabs.css">
-
-<script src="http://www.koolred.com/js/jquery.js"></script>
-<script src="http://www.koolred.com/js/jquery-ui.js"></script>
+<title>Koolred - Connect, Meet and Discover</title><link type="application/opensearchdescription+xml" rel="search" href="/koolred-osdd.xml">
+<link rel="stylesheet" type="text/css" href="/css/main.css">
+<link rel="stylesheet" type="text/css" href="/css/jquery/jquery-ui.css">
+<script src="/js/main.js"></script>
+ 
+<script src="/js/menucontents.php"></script>
 <script>
 
-	var $jQ = jQuery.noConflict();
-
-</script>
-<script src="http://www.koolred.com/js/slimbox/js/mootools.js"></script>
-<script src="http://www.koolred.com/js/slimbox/js/slimbox.js"></script>
-<script src="http://www.koolred.com/js/menucontents.php"></script>
-<script src="http://www.koolred.com/js/anylinkmenu.js"></script>
-
-<script>
-
-anylinkmenu.init("menuanchorclass")
-
-</script>
-
-<script src="http://www.koolred.com/js/animatedcollapse.js"></script>
-<script src="http://www.koolred.com/js/richtext/richedit.js"></script>
-<script src="http://www.koolred.com/js/wrap.js"></script>
-<script src="http://www.koolred.com/js/onload.js"></script>
-<script src="http://www.koolred.com/js/browserdetect.js"></script>
-<script>
+var $jQ = jQuery.noConflict();
+anylinkmenu.init("menuanchorclass");
 
 function textCounter(field,cntfield,maxlimit) {
 
@@ -78,21 +55,20 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 </head>
 
 <body onload="load_all()">
-<link rel="stylesheet" href="/css/signup.css">
-<div id="signup-modal"></div>
-<div id="signup-box" style="display: none;">
-
-	<div id="signup-title-bg"></div>
-	<div id="signup-body">
-		<h3>
+<div id="signup-modal" class="modal"></div>
+<div id="signup-box" class="modalBox" style="display: none;">
+	<div class="modalBoxTop"></div><a href="#"><div class="closeModal" id="signup-later"></div></a>
+	<div id="signup-body" class="modalBody">
+		
 			<img src="/images/logo_signup.gif">
-            <div class="clear padT5"></div>
-            <span id="signup-form-title">Sign Up</span>
-			<div id="signup-form-return" class="font10" style="display:none;float:right;"><a href="#">return to Sign Up</a></div>
-		</h3>
+            <div class="clear"></div>
+            <div id="signupCol" style="">
+            <h3>Sign Up</h3>
+			<div id="signup-form-return" class="font10 right" style="display:none;"><a href="#">return to Sign Up</a></div>
+		
 		<div class="clear"></div>
 		
-		<div id="signup-loader">
+		<div class="modalLoader">
 			<img src="/images/loading.gif" border="0" width="48" height="48">
 			<br>
 			Please wait while loading...
@@ -154,8 +130,8 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 		<div id="signup-twitter-merge" style="display: none;">
 			<br>
 			<div class="thumbnail">
-                                                                <img border="0">
-                                			</div>
+								<img border="0">
+							</div>
 			<div class="confirmationText">
 				<strong>
 					<h3>Would you like to add your Twitter account <a href="http://twitter.com/" target="_blank">@</a> to your Koolred account?</h3>
@@ -168,13 +144,30 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 			
 			Just enter your Koolred password to login.
 			<div class="clear padT10"></div>
+			<form action="javascript:return false;" onsubmit="javascript:return false;" method="POST" autocomplete="on" required="required">
+				
+				<input name="email_address" type="hidden" class="emailField" readonly="">
+				
+				<div class="clear"></div>
+				
+				<div class="font10">Password</div>
+				
+				<input name="password" type="password" value="" autofocus="">&nbsp;&nbsp;
+				<a href="/forgot_password.php" target="_blank" class="font10">Forgot password?</a>
+				
+				<div class="clear padT10" id="merge-msg">
+				</div> 
+				<div class="clear padT10 alignCenter"> 
+					<input type="submit" class="button" value="Login">
+				</div>
+			</form>
 		</div>
 		
 		<div id="signup-facebook-merge" style="display: none;">
 			<br>
 			<div class="thumbnail">
-                                                                <img border="0">
-                                			</div>
+								<img border="0">
+							</div>
 			<div class="confirmationText">
 				<strong>
 					<h3>Would you like to add your Facebook <a href="http://facebook.com/profile.php?id=" target="_blank">account</a> to your Koolred account?</h3>
@@ -187,6 +180,23 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 			
 			Just enter your Koolred password to login.
 			<div class="clear padT10"></div>
+			<form action="javascript:return false;" onsubmit="javascript:return false;" method="POST" autocomplete="on" required="required">
+				
+				<input name="email_address" type="hidden" class="emailField" readonly="">
+				
+				<div class="clear"></div>
+				
+				<div class="font10">Password</div>
+				
+				<input name="password" type="password" value="" autofocus="">&nbsp;&nbsp;
+				<a href="/forgot_password.php" target="_blank" class="font10">Forgot password?</a>
+				
+				<div class="clear padT10" id="merge-msg">
+				</div> 
+				<div class="clear padT10 alignCenter"> 
+					<input type="submit" class="button" value="Login">
+				</div>
+			</form>
 		</div>
 			
 		<div id="signup-error" class="alert" style="display:none;">	
@@ -204,12 +214,12 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 			
 			<div class="col1">
 				First name<br>
-				<input name="first_name" type="text" id="first_name">
+				<input name="first_name" type="text" id="first_name" class="textField">
 			</div>             
 			
 			<div class="col2">
 				Last name<br>
-				<input name="last_name" type="text" id="last_name">
+				<input name="last_name" type="text" id="last_name" class="textField">
 			</div>             
 			
 			<div class="clear"></div>
@@ -221,29 +231,30 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 			
 			<div class="col1">
 				Password<br>
-				<input name="password" type="password" value="">
+				<input name="password" type="password" value="" class="textField">
 			</div>
 			
 			<div class="col2">
 				Confirm password<br>
-				<input name="confirm_password" type="password" value="">
+				<input name="confirm_password" type="password" value="" class="textField">
 			</div>
 			
-			<div class="clear padT2"></div>
-				Gender
+			<div class="clear"></div>
+			<div class="col1">
+            	Gender
 				<ul id="inline">
 				<li><input type="radio" name="gender" value="M"></li>
 				<li class="gender"><span id="gender_male">Male</span>&nbsp;</li>
 				<li><input type="radio" name="gender" value="F"></li>
 				<li class="gender"><span id="gender_female">Female</span></li>
 				</ul>
-				
-			<div class="clear padT2"></div>
-
+			</div>	
+			<div class="col2">
 			Date of Birth<br>
-			<input name="dob" id="dob" type="text" value="" readonly="">
-			
-			<div class="clear padT5"></div>
+			<input name="dob" id="dob" class="textField" type="text" value="" readonly="">
+			</div>
+            
+			<div class="clear"></div>
 				
 			Country<br>
 			<select name="country">
@@ -254,11 +265,46 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 				By signing up you acknowledge you have read and agreed to our <a href="http://www.koolred.com/terms.php" target="_blank">Terms of Use</a> and <a href="http://www.koolred.com/privacy_policy.php" target="_blank">Privacy Policy</a>.
 			</div> 
 			<div class="clear padT10 alignCenter"> 
-				<input type="submit" class="button" id="signup-submit" value="Submit">&nbsp;&nbsp;
+				<input type="submit" class="button" id="signup-submit" value="Sign Up">&nbsp;&nbsp;
 				<input type="button" class="button" id="signup-later" value="Cancel">
 			</div>
 		</form>	
+        </div>
+	</div>
+	<div id="loginCol" style="display: none;">	
+	<div id="login-form">
+	<form name="subloginForm" id="subloginForm" method="post" action="/process/process_login.php">
+        	<h3>Login</h3><div class="clear padT2"></div>
+	        Email address<br>
+		<input name="useremail" type="text" id="useremail" class="emailField">
+		
+		<div class="clear"></div>
+			
+		<div class="col1">
+			Password<br>
+			<input name="userpassword" type="password" value="" class="textField">
 		</div>
+        <div class="col2 text">
+	        <a href="/forgot_password.php">Forgot password?</a>
+	    </div>
+            
+        <div class="clear"></div>
+        
+            <div class="col1">
+            	<ul id="inline" class="actionCont">
+        		<li><input type="checkbox" class="radiobtn" name="remember_me" id="remember_me" value="1">&nbsp;</li>
+                <li class="font10"><label for="remember_me">Remember me</label>&nbsp;&nbsp;</li>       
+     			 </ul>  	
+	        </div>
+            
+            <div class="col2">
+            <input name="Login" type="submit" class="button btn50" value="Login">
+			<input type="hidden" name="redirect" value="/privacy_policy.php">
+        	
+	        	<!--<input type="submit" class="button" id="signup-submit" value="Login" />-->
+	        </div>
+        </form>
+	</div>
 		
 		<div id="signup-merge-form" style="display: none;">		
 		<form action="javascript:return false;" onsubmit="javascript:return false;" method="POST" autocomplete="on" required="required">
@@ -277,27 +323,134 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 			<div class="clear padT10 alignCenter"> 
 				<input type="submit" class="button" id="signup-submit" value="Login">
 			</div>
-		</form>	
+		</form>
 		</div>
-		
 	</div>
-    <div id="signup-title-bg-bottom"></div>
+	
+	
+        
+	<div id="divider"><img src="/images/but_or3.gif"></div>
+    
+    <div id="connectCol"><h3>Connect to Koolred via:</h3>
+    <ul id="inline">
+    <li class="marLR10">
+     <a href="#" onclick="return popNewWindow('/mod/twitter/connect')" alt="Connect with Twitter" class="nobg">
+	 <img src="/images/but_twitterconnect.gif" title="Connect with Twitter">
+	 </a>
+	</li>
+	<li class="nobg">
+          <div id="fb-root">
+              <script src="http://connect.facebook.net/en_US/all.js"></script>
+              <script>
+                   var $jQ = jQuery.noConflict();
+                      FB.init({
+                      appId:'111181778906456',
+                      cookie:true,
+                      xfbml:true
+                      });
+              </script>
+
+              <fb:login-button perms="email, user_birthday, offline_access" size="small" onlogin="window.location.href='http://www.koolred.com/mod/facebook/connect'">Connect</fb:login-button>
+         </div>
+	</li>
+    </ul>
+    <div class="clear"></div>
+    <div class="bevelLine"></div>
+    <div id="sub-link-signup" style="display: none;">
+	    <h3>Sign up as a new member?</h3>
+	    Click <a id="sub-signup-link" href="#">here</a>.
+    </div>
+    <div id="sub-link-login">
+            <h3>Already a member?</h3>
+            Login <a id="sub_login_link" href="#">here</a>.
+    </div>
+    </div>
+    
+    <div class="clear"></div>
+	</div>
+    <div class="modalBoxBottom clear"></div>
 </div>
 
 <script>
 var src = '';
 $jQ(document).ready(function(){
 
-
+	var dividerHeight = $jQ("#divider").css('height');
+	var dividerPaddingTop = $jQ("#divider").css('padding-top');
 	$jQ("a#quick-signup").click(function(e){
 		e.preventDefault();
-		//$jQ("#signup-form input[name=first_name]").focus();
 		$jQ("#signup-box").slideDown();
-		$jQ("#signup-modal").fadeIn(function(){
-			$jQ(this).height($jQ(document).height());
-		});
+		$jQ("#sub-link-login").show();
+		$jQ("#sub-link-signup").hide();
+		$jQ("#loginCol").hide();//div for login n process login
+		$jQ("#signupCol").show();//div for signup n process signup
+		$jQ("#signup-modal").height($jQ(document).height());
+		$jQ("#divider").height(dividerHeight);
+		$jQ("#divider").css('padding-top',dividerPaddingTop);
+		$jQ("#signup-modal").fadeIn(function(){});
+		$jQ("#first_name").focus();
 	});
 
+	$jQ("a#quick-signup2").click(function(e){
+		e.preventDefault();
+		$jQ("#signup-box").slideDown();
+		$jQ("#sub-link-login").show();
+		$jQ("#sub-link-signup").hide();
+		$jQ("#loginCol").hide();//div for login n process login
+		$jQ("#signupCol").show();//div for signup n process signup
+		$jQ("#signup-modal").height($jQ(document).height());
+		$jQ("#divider").height(dividerHeight);
+		$jQ("#divider").css('padding-top',dividerPaddingTop);
+		$jQ("#signup-modal").fadeIn(function(){});
+		$jQ("#first_name").focus();
+	});
+
+        $jQ("a#sub-signup-link").click(function(e){
+                e.preventDefault();
+                $jQ("#signup-modal").fadeIn(function(){
+                        $jQ("#sub-link-login").show();
+                        $jQ("#sub-link-signup").hide();
+                        $jQ("#loginCol").hide();
+                        $jQ("#signupCol").show();
+                        $jQ(this).height($jQ(document).height());
+                        $jQ("#divider").height(dividerHeight);
+			$jQ("#divider").css('padding-top',dividerPaddingTop);
+			$jQ("#first_name").focus();
+                });
+        });
+
+	$jQ("a#sub_login_link").click(function(e){
+		e.preventDefault();
+		$jQ("#signup-modal").fadeIn(function(){
+			$jQ("#sub-link-signup").show();
+			$jQ("#sub-link-login").hide();
+			$jQ("#signupCol").hide();
+			$jQ("#loginCol").show();
+			$jQ("#signup-modal").height($jQ(document).height());
+                        $jQ("#divider").height(100);
+			$jQ("#divider").css('vertical-align','top');
+			$jQ("#divider").css('padding-top','75px');
+			$jQ("#useremail").focus();
+		});
+        });	
+
+	$jQ("a#quick-login").click(function(e){
+
+		e.preventDefault();
+		$jQ("#signupCol").hide();
+		$jQ("#loginCol").show();
+		$jQ("#signup-modal").height($jQ(document).height());
+		$jQ("#divider").height(100);
+		$jQ("#divider").css('vertical-align','top');
+		$jQ("#divider").css('padding-top','75px');
+		$jQ("#sub-link-signup").show();
+		$jQ("#sub-link-login").hide();
+		$jQ("#signup-box").slideDown();
+		$jQ("#signup-modal").fadeIn(function(){});
+		$jQ("#useremail").focus();
+
+        });
+		
 	$jQ("#signup-modal, #signup-later").click(function(){
 		$jQ("#signup-box").slideUp();
 		$jQ("#signup-modal").fadeOut();
@@ -349,7 +502,7 @@ $jQ(document).ready(function(){
 			country: $jQ("#signup-form form select[name=country] option:selected").val()
 			
 		}, function(data) {
-			
+
 			if (data == 'EMAIL_EXISTS_TWITTER_MERGE') {
 			
 				src = 'twitter';
@@ -357,9 +510,9 @@ $jQ(document).ready(function(){
 				$jQ("span#signup-form-title").html("Login");
 				$jQ("#signup-twitter-merge, #signup-merge-form").fadeIn();
 				$jQ("div#merge-msg").html("Once you click Login, you acknowledge that your Twitter account will be added to your Koolred account.");
-				$jQ("#signup-merge-form form input[name=email_address]").val($jQ("#signup-form form input[name=email_address]").val());
+				$jQ("#signup-twitter-merge form input[name=email_address]").val($jQ("#signup-form form input[name=email_address]").val());
 				$jQ("#signup-twitter-merge .email").html($jQ("#signup-form form input[name=email_address]").val());
-								
+				
 			} else if (data == 'EMAIL_EXISTS_FACEBOOK_MERGE') {
 			
 				src = 'facebook';
@@ -367,9 +520,9 @@ $jQ(document).ready(function(){
 				$jQ("span#signup-form-title").html("Login");
 				$jQ("#signup-facebook-merge, #signup-merge-form").fadeIn();
 				$jQ("div#merge-msg").html("Once you click Login, you acknowledge that your Facebook account will be added to your Koolred account.");
-				$jQ("#signup-merge-form form input[name=email_address]").val($jQ("#signup-form form input[name=email_address]").val());
+				$jQ("#signup-facebook-merge form input[name=email_address]").val($jQ("#signup-form form input[name=email_address]").val());
 				$jQ("#signup-facebook-merge .email").html($jQ("#signup-form form input[name=email_address]").val());
-								
+				
 			} else if (data == 'SUCCESS') {
 			
 				$jQ("#signup-facebook, #signup-twitter, #signup-form").hide();
@@ -400,7 +553,7 @@ $jQ(document).ready(function(){
 		return false;
 	});
 	
-	$jQ("#signup-merge-form form").submit(function(event){
+	$jQ("#signup-twitter-merge form, #signup-facebook-merge form").submit(function(event){
 	
 		event.preventDefault();
 		$jQ("#signup-merge-form").hide();
@@ -409,8 +562,8 @@ $jQ(document).ready(function(){
 		
 		$jQ.post('/process/process_quick_sign_up.php',
 		{
-			email_address: $jQ("#signup-merge-form form input[name=email_address]").val(),
-			passwd: $jQ("#signup-merge-form form input[name=password]").val(),
+			email_address: $jQ(this).find("input[name=email_address]").val(),
+			passwd: $jQ(this).find("input[name=password]").val(),
 			merge: true
 		}, function(data) {
 		
@@ -445,6 +598,8 @@ $jQ(document).ready(function(){
 		});
 		return false;
 	});
+
+	
 	
 });
 </script>
@@ -453,72 +608,76 @@ $jQ(document).ready(function(){
 
 		<ul id="inline">
 			<li>
-			<a href="/mobile/mobile.php">Mobile</a> | 			<a id="quick-signup" href="#">Sign Up</a> | <a id="login_link" href="#">Login</a>
+			<a href="/mobile/mobile.php">Mobile</a> | 			<a id="quick-signup" href="#">Sign Up</a> | <a id="quick-login" href="#">Login</a>
 
 			</li>
 			<li class="marLR10">
-				<a href="/mod/twitter/connect" alt="Connect with Twitter">
+                                <a href="#" onclick="return popNewWindow('/mod/twitter/connect')" alt="Connect with Twitter">
 					<img src="/images/but_twitterconnect.gif" title="Connect with Twitter">
 				</a>
 			</li>
 			<li>
-				<a href="/mod/facebook/connect" alt="Connect with Facebook">
-					<img src="/images/but_fbconnect.gif" title="Connect with Facebook">
-				</a>
+                                <div id="fb-root">
+                                        <script src="http://connect.facebook.net/en_US/all.js"></script>
+                                        <script>
+                                                var $jQ = jQuery.noConflict();
+                                                FB.init({
+                                                        appId:'111181778906456',
+                                                        cookie:true,
+                                                        xfbml:true
+                                                });
+                                        </script>
+
+                                        <fb:login-button perms="email, user_birthday, offline_access" size="small" onlogin="window.location.href='http://www.koolred.com/mod/facebook/connect'">Connect</fb:login-button>
+                                </div>
 			</li>
 		</ul>
 
-
 </div>
-<img src="http://www.koolred.com/images/logo.gif" alt="Koolred">
+<div id="logo"><a href="http://www.koolred.com"><img src="/images/logo.gif" alt="Koolred"></a></div>
+<div class="clear"></div>
 <div id="nav">
 
 <ul>
-<li class="home"><a href="http://www.koolred.com/">Home</a></li>
-<li class=""><a href="http://www.koolred.com/me/">Me!</a></li>
-<li class="dividerNav"></li><li class=""><a href="http://www.koolred.com/travel/">Travel</a></li>
+<li class="home"><a href="/">Home</a></li>
 
-<li class="dividerNav"></li><li class=""><a href="http://www.koolred.com/photos/">Photos</a></li>
-
-<li class="dividerNav"></li>
-<li class=""><a href="http://www.koolred.com/videos/">Videos</a></li>
-
-<li class="dividerNav"></li>
-<li class=""><a href="http://www.koolred.com/events/">Events</a></li>
-
-<li class="dividerNav"></li>
-<li class=""><a href="http://www.koolred.com/forum/">Forum</a></li>
-
-<li class="dividerNav"></li>
-<li class=""><a href="http://www.koolred.com/redsters/">Redsters</a></li>
-
-<li class="dividerNav"></li>
-<li class=""><a href="#more" class="menuanchorclass" rel="anylinkmenu1">More Connect&nbsp;<img src="http://www.koolred.com/images/arrow_nav2.gif"></a></li>
+<li class=""><a href="/me">Me!</a></li>
+<li class="dividerNav"></li><li class=""><a href="/travel">Travel</a></li>
+<li class="dividerNav"></li><li class=""><a href="/photos">Photos</a></li>
+<li class="dividerNav"></li><li class=""><a href="/videos">Videos</a></li>
+<li class="dividerNav"></li><li class=""><a href="/events">Events</a></li>
+<li class="dividerNav"></li><li class=""><a href="/forum">Forum</a></li>
+<li class="dividerNav"></li><li class=""><a href="/redsters">Redsters</a></li>
+<li class="dividerNav"></li><li class=""><a href="#more" class="menuanchorclass" rel="anylinkmenu1">More&nbsp;<img src="/images/arrow_nav2.gif"></a></li>
 
 </ul>
 
 
-<form id="searchBox" method="get" action="http://www.koolred.com/search/index.php">
+<form id="searchBox" method="get" action="/search/index.php">
 <div class="searchCont">
 	<ul id="inline"><li><input id="search" name="search" value="Search" size="20" onfocus="if(this.form.search.value=='Search'){this.form.search.value=''}" onblur="if(this.form.search.value==''){this.form.search.value='Search'}"></li>
-	 <li><input type="image" src="http://www.koolred.com/images/icon_search.gif" alt="Search" id="searchButton"></li>
+	 <li><input type="image" src="/images/icon_search.gif" alt="Search" id="searchButton"></li>
     </ul>
 </div>
 </form>
 
 </div>
 
-<form name="loginForm" id="loginForm" method="post" action="http://www.koolred.com/process/process_login.php">
+
+<form name="loginForm" id="loginForm" method="post" action="/process/process_login.php">
 <div id="login">
-    <div class="loginCont">
-Please sign in. If you have not registered, please <a id="quick-signup" href="#"><strong>register now</strong></a>. 
-	<a href="http://www.koolred.com/forgot_password.php">Forgot password?</a>
+	<div class="loginCont">
 	<ul id="inline">
-        <li>Email Address &nbsp;</li>
+	<li class="padT2">Email Address &nbsp;</li>
         <li><input name="useremail" type="text" size="18" class="loginInput">&nbsp;&nbsp;&nbsp;</li>
-        <li>Password&nbsp; </li><li class="left"><input name="userpassword" type="password" size="10" maxlength="20" class="loginInput">&nbsp;&nbsp;&nbsp;</li>
-		<li><input type="checkbox" class="radiobtn" name="remember_me" value="1">&nbsp;</li>
-		<li>Remember me&nbsp;&nbsp;</li>
+        <li class="padT2">Password&nbsp; </li><li class="left"><input name="userpassword" type="password" size="10" maxlength="20" class="loginInput">&nbsp;&nbsp;&nbsp;</li>
+        <li class="padT2 font10"><a href="/forgot_password.php">Forgot password?</a></li>
+    </ul>
+    <div class="clear"></div>
+    <ul id="inline" class="actionCont">
+        <li><input type="checkbox" class="radiobtn" name="remember_me" id="remember_me" value="1">&nbsp;</li>
+               <li class="font10"><label for="remember_me">Remember me</label>&nbsp;&nbsp;</li>
+
         <li><input name="Login" type="submit" class="button btn50" value="Login">
 		<input type="hidden" name="redirect" value="/privacy_policy.php">
         &nbsp;&nbsp;</li>        
@@ -536,6 +695,12 @@ Please sign in. If you have not registered, please <a id="quick-signup" href="#"
 
 		}
 	});
+
+        function popNewWindow(url) {
+                var left = (screen.width/2)-(800/2);
+                var top = (screen.height/2)-(420/2);
+                var newwindow=window.open(url,'login-popup','width=800,height=420,top='+top+',left='+left+',scrollbars=no,status=no,titlebar=no,toolbar=no,menubar=no,location=no');
+        }
 
 </script>
 </form>
@@ -569,7 +734,7 @@ We collect information submitted by you such as your name, email address, age an
 
 We also collect other profile data including but not limited to: personal interests, gender, age, school and company you work for in order to  assist you in finding and communicating with each other.<p></p>
 
-In some cases where your privacy settings permit it (e.g., posting to your Red Wall), other Koolred Users may be able to supplement your profile with your personal information.<p></p>
+In some cases where your privacy settings permit it<!-- (e.g., posting to your Red Wall)-->, other Koolred Users may be able to supplement your profile with your personal information.<p></p>
 
 Certain personally identifiable information such as your name and email address are also collected when you choose to participate in various activities on the site such as posting messages, uploading photos or videos, writing  reviews, taking advantage of promotions, responding to surveys, or subscribing to newsletters or other mailing lists.<p></p>
 
@@ -685,7 +850,7 @@ Our Privacy Policy applies solely to the information collected on Koolred  Websi
 	
 <h2>Chat Room, Weblogs (Blogs), Message Boards, Public Forums</h2>
 
-	Any personal information or video content that you voluntarily disclose online (on the Red Wall, in messages, chat areas, on forums within your public profile page, etc) becomes publicly available and can be collected and used by others to send you unsolicited emails.<p></p>
+	Any personal information or video content that you voluntarily disclose online (<!--on the Red Wall, -->in messages, chat areas, on forums within your public profile page, etc) becomes publicly available and can be collected and used by others to send you unsolicited emails.<p></p>
 
 	In this manner, Koolred will not be responsible over the security of your personal information. <p></p>
 
@@ -730,7 +895,7 @@ Users with questions about this Privacy Policy and any of the abovementioned sta
 <strong>USE OF THIS SITE SIGNIFIES YOUR AGREEMENT TO THE PRIVACY POLICY</strong>
 <div class="clear padT10"><br></div>
 
-<div class="font10">Updated: 10 August 2010</div>
+<div class="font10">Updated: 25 January 2011</div>
 <div class="clear"></div>	
 </div>
     </div>
@@ -742,14 +907,10 @@ Users with questions about this Privacy Policy and any of the abovementioned sta
 </div>
 
 <!--footer-->
-
-
 <script>
-var myuserid="";
-var myfirstlastname="";
+	var myuserid="";
+	var myfirstlastname="";
 </script>
-
-
 
 <div id="footer">
 	<div class="container">
@@ -763,13 +924,11 @@ var myfirstlastname="";
   <li class="divider"></li>
   <li><a href="http://www.koolred.com/blog/viewblog.php?blog=A130515089_1_1_1_1_1">Blog</a></li>
   <li class="divider"></li>
+  <li><a href="/careers">Careers</a></li>
+  <li class="divider"></li>
   <li><a href="/faqs/faqs.php">FAQs</a></li>
   <li class="divider"></li>
   <li><a href="/contest/index.php">Contests</a></li>
-  <!--<li class="divider"></li>-->
-  <!--<li><a href="/promotions.php">Promotions</a></li>--> 
-  <!--<li class="divider"></li>-->
-  <!--<li><a href="/advertise.php">Advertise</a> </li>-->
   <li class="divider"></li>
   <li><a href="/site_tour.php">Take A Tour</a></li>
   <li class="divider"></li>
@@ -786,7 +945,7 @@ var myfirstlastname="";
   </div>
   <img src="/images/spacer.gif">
   <div class="clear"></div>
-      Copyright © 2010 Koolred Sdn. Bhd. All rights reserved.</div>  		
+      Copyright © 2011 Koolred Sdn. Bhd. All rights reserved.</div>  		
   <div class="clear"></div>
 
 </div>
@@ -856,7 +1015,6 @@ var myfirstlastname="";
 		}
 	}
 
-
 	var _gaq = _gaq || [];
 	_gaq.push(['_setAccount', 'UA-12443106-1']);
 	_gaq.push(['_trackPageview']);
@@ -867,8 +1025,6 @@ var myfirstlastname="";
 		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 	})();
 
-</script>
-<script type="text/javascript">
 var addthis_config = {
 	username: "koolred",
 	data_track_clickback: true,
