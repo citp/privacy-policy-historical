@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rovicorp.com privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128142208id_/http%3A//www.rovicorp.com/company/legal.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rovicorp.com privacy policy that was archived on 2011-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110522161001id_/http%3A//www.rovicorp.com/company/legal.htm) for the most accurate reproduction.*
 
 # Legal and Privacy Notices - Legal - Rovi
 
