@@ -1,122 +1,89 @@
-> *The following text is extracted and transformed from the freeshipping.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228081156id_/http%3A//www.freeshipping.com/site/policy_nm.asp%3Fref%3Dnc) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeshipping.com privacy policy that was archived on 2011-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110522200032id_/http%3A//freeshipping.com/site/policy_nm.asp%3Fref%3Dnc) for the most accurate reproduction.*
 
 # FreeShipping.com | Privacy Policy
 
   
 
 
-**Privacy Policy**
+_**Freeshipping.com Privacy Policy**_
 
-This privacy policy covers the site www.freeshipping.com. 
+ _ **Effective Date: March 15, 2011**_
 
-**Information Collection**
+Clarus Marketing Group, d.b.a. Freeshipping.com, (Freeshipping.com, "we" "us") is the owner of the site www.Freeshipping.com, (the "Site") and has developed this Privacy Policy which details important information regarding the use and disclosure of user information collected on the Site. Freeshipping.com provides this Privacy Policy to help you make an informed decision about whether to use or continue using the services found at its Site or through its third party affiliates ("Services"). 
 
-Clarus Marketing Group d.b.a. Freeshipping.com is the sole owner of the information collected on www.freeshipping.com and collects information from our users at several different points on our Web site. 
+This Privacy Policy is incorporated into and subject to the Terms and Conditions. Each time that you access or use the Site or our Services you signify that you agree to be bound by the Terms and Conditions and this Privacy Policy. If you do not agree to the terms of this Privacy Policy, you must discontinue using the Site and accessing the Services available on the Sites.
 
-**Registration  
-** In order to use this Web site, a user must first complete the registration form. During registration a user gives contact information (such as name and email address). We use this information to contact the user about services on our site for which he has expressed interest. We never rent or sell your email address or other personal information. 
+ **I. INFORMATION WE COLLECT**
 
-**Membership Enrollment**  
-We request information from the user on our order form. A user must provide contact information (such as name, email, and address) and financial and security information (such as credit and/or debit card number, expirations date, mother’s maiden name). This information is used for enrollment and billing purposes; to verify customer membership; and to fill customer orders. If we have trouble processing an order, the information may be used to contact the user.
+ **Information Provided by You.**
 
-**Profile**   
-We may store information that we collect through cookies, log files, clear gifs, and/or third parties to create a profile of our users. A profile is stored information that we keep on individual users that details their viewing preferences. Consequently, collected information is tied to the users personally identifiable information to provide offers and improve the content of the site for the user. This profile is used to tailor a user's visit to our Web site, and to direct pertinent marketing promotions to them. We do not share your profile with other third parties. 
+ **Registration and Membership.** We will collect personal information from you when you visit our Site, sign up for our Services, interact with our Site, register with us, or use various features of our Site.In order to register on our Site, you must first complete the registration form providing contact information (such as name, email, and address).To become a member you must also provide billing information (such as credit and/or debit card account information). This information is used for enrollment and billing purposes; to verify customer membership; and to fill customer orders. If we have trouble processing an order, the information may be used to contact you. When you provide us with information in connection with a particular activity or otherwise register for our Services or provide your contact information, including an email address or telephone number in connection with that activity, product or service, you agree that this action constitutes a purchase or inquiry establishing a business relationship with us.You expressly consent to our communicating with you regarding future information about our Services using the information you provided to us.You also attest that you have the legal authority over any telephone number you provide to us and can provide us with the authorization to contact you.This means we may contact you, in person or by recorded message, by e-mail, telephone and/or mobile telephone number (including use of automated dialing equipment), text (SMS) message, or any other means of communication that your wireless or other telecommunications device may be capable of receiving.
 
-**Cookies**   
-"Cookies" are pieces of information that may be placed on your computer by a web site for the purpose of facilitating and enhancing your communication and interaction with that web site. Almost all web sites use cookies for these purposes. We use both session ID cookies and persistent cookies. For the session ID cookie, after users close the browser, the cookie simply terminates. A persistent cookie is a small text file stored on the user's hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions. 
+ **Surveys and Sweepstakes.** From time-to-time we may request information from users or members via surveys or sweepstakes. Participation in these surveys or sweepstakes is completely voluntary and you therefore have a choice whether or not to disclose this information. Contact information may be used to notify the winners and award prizes and file winners as required by law. Survey information will be used for purpose of the survey, including for the monitoring or improvement of the use and satisfaction of the Site. 
 
-By setting a cookie on our site, users would not have to log in a password more than once, thereby saving time while on our site. If users reject the cookie, they may still use our site. 
+**Web Logs.** Like most standard website servers, we log IP addresses (a unique number assigned to every computer on the Internet) in order to improve security, analyze trends and administer the Site. We may track your movement within the Site and through our offers on affiliate websites, the pages from which you were referred, access times and browser types. This information may include the browser you are using, the internet address from which you linked to our Site, the operating system of your computer, the unique IP address of the computer you used to access our Site, and usage and browsing habits. We use this information in the aggregate to gauge the effectiveness of our Site, track information for statistical purposes, help diagnose and troubleshoot server malfunctions, analyze trends, track user movement in the aggregate, and gather broad demographic information. 
 
-Persistent cookies enable us to track and target the interests of our users to enhance the experience on our site. See the "Profile" section. 
+**Cookies.** To help make sure you receive information that is relevant to you, our Site and advertisements on affiliate sites use data "cookies." We use session cookies to make it easier for you to navigate our Site. A session ID cookie expires when you close your browser. We use persistent cookies to differentiate visitors to our Site from visitors, and registered users and members, to customize the content of certain sections of the Site, and to enable us to track and cater to the interests of users, in order to enhance their experience on the Site. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser's "help" file. Cookies help us learn which areas of our Site are useful and which areas need improvement. You may configure your browser to prevent cookies from being set on your computer.If you reject cookies, you may still use the Site, but your ability to use some areas of the Site may be limited, and you may not be able to use certain features of the Site. 
 
-Some of our business partners use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies, once we have given permission for them to set cookies for advertising. 
+**Web Beacons.** Our web pages contain "web beacons." Web beacons allow us to count users that have visited a web page or opened an email that contains a web beacon and collect other types of aggregate information. Using this information, we are able to measure the effectiveness of our advertising and how visitors use our Site. This allows us to learn what pages are most attractive to our visitors, which parts of our Sites are the most interesting and what kind of offers our registered users like to see. Some of the web beacons that are in place on our Site are used only by us, and other web beacons are from our affiliates, vendors and advertisers who use this data to assist us in analyzing how our offers and Site are accessed and used. 
 
-**Log Files**   
-Like most standard Web site servers, we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. 
+**Supplemental Information.** We may supplement information you give us with information from other sources, such as information to validate or update your address, payment card or other demographic and lifestyle information.We use this information to help us maintain the accuracy of the information we collect, to enable us to fulfill our products and services, to target our communications so that we can inform you of products, services and offers that may be of interest, and for internal business analysis or other business purposes.In the event that additional information is requested from a member to support a claim made under a specific benefit provided, we will use this information to validate the nature of the claim. This may include contacting the retailer where a purchase was made to verify that an item was purchased, the amount paid, if a benefit was utilized, or if an item has been returned
 
-**Clear Gifs (Web Beacons/Web Bugs)  
-** Our third party advertising company may employ a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. The main difference between the two is that clear gifs are invisible on the page and are much smaller, about the size of the period at the end of this sentence. Clear gifs are not tied to users' personally identifiable information. 
+ **II. HOW WE USE YOUR INFORMATION**
 
-Clear Gifs can "work with" existing cookies on a computer if they are both from the same Web site or advertising company. That means, for example, that if a person visited "www.companyX.com", which uses an advertising company's clear gif, the Web site (or advertising company) would match the clear gif's identifier and the advertising company's cookie ID number, to show the past online behavior for that computer. This collected information would then be given to the advertising company. 
+ **Service Providers.** We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending emails, processing orders, order fulfillment and sweepstake administration and state filings. We may share your information with these third parties for those limited purposes. 
 
-In addition, we use clear gifs in our HTML-based emails to let us know which emails have been opened by the recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. If users would like to opt-out of these emails, please see the Opt-out section. 
+**Strategic Partners.** We have entered into agreements with third party affiliated companies to enable us to provide our Services in connection with sales our members have made with those companies, such as shipping fees charged by those companies.In certain situations we may provide your information to those companies informing them of your membership or to investigate a claim or inquiry regarding any benefit you may make pertaining to our Services and your interactions with those companies. Since these third parties will use your information in accordance with their own privacy practices, you should check their websites for information regarding their privacy policies.
 
-**Claim Documentation**   
-In the event that additional information is requested from a member to support a claim made under a specific benefit provided, we will use this information to validate the nature of the claim. This may include contacting the retailer where a purchase was made to verify that an item was purchased, the amount paid, if a rebate was utilized, or if an item has been returned. 
+ **Other Uses:** We may use your personal information to contact you about the Services on our Site for which you have expressed an interest, for example, if you have contacted customer service or made an inquiry.
 
-**Communications from the Site**
+ **Announcements.** We may send you service-related announcements and emails from time to time relating to your account. These include emails such as order confirmations, renewal/expiration notices, and payment-card problem notifications. We may also send you strictly service-related announcements on rare occasions when it is necessary to do so. For instance, if any service is temporarily suspended for maintenance, or the delivery of a service is delayed we might send you a notice, or if there is some service issue with something you might have requested.You may not opt-out of these communications, which are not promotional in nature. 
 
- **Special Offers and Updates**   
-We send all new members a welcoming email to verify enrollment. Active and cancelled members may occasionally receive information on products, services, special deals, newsletters, etc. A user who completes or partially completes the registration form may also receive newsletters or special offers. Out of respect for the privacy of our users we present the option to not receive these types of communications. Please see the Choice and Opt-out sections. 
+**Legal Matters; Safety.** We may, without your consent, access and disclose your information, any communications sent or received by you, and any other information that we may have about you or your account as may be permitted or required by law (including, but not limited to, court order or subpoena), or to prevent or investigate suspected fraud, violations of our Terms and Conditions, or activity that appears to us to be illegal or may expose us to legal liability. Additionally, we may disclose your information in situations that we believe to be emergencies involving potential threats to the physical safety of any person or property if we believe that your information in any way relates to that threat.
 
-**Service Announcements**   
-On rare occasions it is necessary to send out a strictly service related announcement. For instance, if our service is temporarily suspended for maintenance we might send users an email. Generally, users may not opt-out of these communications, though they can deactivate their account. However, these communications are not promotional in nature. 
+ **Sale or Transfer of Business or Assets.** In the event that we, or any of our businesses, are sold or disposed of as a going concern, whether by merger, sale of assets or otherwise, or in the event of an insolvency, bankruptcy or receivership, personally identifiable information of our visitors and registered users and members may be one of the assets sold or merged in connection with that transaction. Information about our visitors may also need to be disclosed in connection with a commercial transaction where we or any one of our businesses are seeking financing, investment, support or funding. In such transactions, personal information will be subject to the promises made in any pre-existing Privacy Policy in effect when the information was obtained.
 
-**Customer Service  
-** We communicate with users on a regular basis to provide requested services and in regards to issues relating to their membership we reply via email or phone. 
+ **III. ACCESS TO YOUR INFORMATION**
 
-**Sharing  
-**  
- **Legal Disclaimer**   
-Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site. 
+If you have an online account with us, you also may choose to resign and deactivate your account at any time.Please visit our FAQ (http://www.Freeshipping.com/site/faq_nm.asp) for removal information for your particular product. After you close your account, you will not be able to sign in to our Site or access any of your personal information.However, you can open a new, separate account at any time or re-activate your previous account by logging in again.If for any reason you are concerned that the personal information you provided to us is not correct and you cannot change it by accessing your account, or should you wish to have your email address removed from our mailing list or contact information changed, please contact us at Support@Freeshipping.com. We will be happy to review, update or remove information as appropriate. If you deactivate your account, we may still retain certain information associated with your account for analytical purposes and recordkeeping integrity, as well as to prevent fraud, collect any fees owed, resolve disputes, enforce our Terms and Conditions or other policies, take actions we deem necessary due to technical and legal requirements and constraints related to the security, integrity and operation of our Site.In addition, if certain information has already been provided to third parties as described in this Privacy Policy, retention of that information will be subject to those third parties' policies. 
 
-**Aggregate Information (non-personally identifiable)  
-** We may share aggregated demographic information with our partners and advertisers. This is not linked to any personally identifiable information. 
+**IV. CHOICE AND OPT OUT**
 
-**Third Party Intermediaries  
-** We use an outside credit card processing company to bill users for goods and services. These companies do not retain, share, store or use personally identifiable information for any secondary purposes. 
+You may remove your information from our database so as not to receive future promotional communications or to close your account by emailing us at Support@Freeshipping.com or sending mail to the following address: 
 
-**Service Providers**   
-We may partner with other third parties to provide specific services. When the user signs up for these particular services, we share names, or other contact information that is necessary for the third party to provide these services. These third parties are not allowed to use personally identifiable information except for the purpose of providing these services. 
+FREESHIPPING.COM 
 
-**Business Transitions**   
-In the event we go through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, users' personal information will, in most instances, be part of the assets transferred. 
+P.O. Box 290728  
+Wethersfield, CT 06129-0728
 
-**Choice/Opt-out**
+If you prefer not to receive electronic promotional communications from us, you can also opt-out by following the unsubscribe instructions included in each communication.
 
-To opt out of the receipt of offers unrelated to this service, or to ongoing promotions available, please send an e-mail to our Customer Care department, using the "contact us" form on this site, and a message containing your name, address, and email account you use to log on. While a member of this service, you cannot opt out of emails related to your membership or service benefits. 
+Please note, changes may not be effective immediately. In each event, you must clearly indicate the information that you wish to have changed or clearly indicate that you wish to have your personally identifiable information removed from our database. We will endeavor to comply with your request as soon as reasonably possible. Note that despite any request for removal of or change to personally identifiable information, we may need to retain certain information for recordkeeping purposes and there may also be residual information that will remain within our databases and other records, which will not be removed or changed. Finally, we are not responsible for informing third parties (including without limitation our third party service providers or affiliated companies) with whom we have already shared your personally identifiable information of any changes requested pursuant to this section, or for removing information from or causing information to be removed from the databases or records of such entities.
 
-**Links**  
-This Web site contains links to other sites. Please be aware that we, freeshipping.com, are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
+ **V. IMPORTANT DISCLOSURES, PRACTICES AND CONTACT INFORMATION**
 
-**Surveys**  
-From time-to-time our site may request information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code). Contact information may be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site. Users' personally identifiable information is not shared with third parties unless we give prior notice and choice. Though we may use an intermediary to conduct these surveys or contests, they may not use users' personally identifiable information for any secondary purposes. 
+ **Links to other sites.** To the extent hyperlinks may be utilized to access external or third party sites or if you come to our Site through a link from any such third party sites, you should be aware that these external or third party sites are not controlled by us and, therefore, are not subject to this Privacy Policy. We recommend that you check the privacy policies of these sites to determine how your personal information will be utilized by the proprietors of those third party sites.
 
-**Security**
+ **Security.** When you enter credit card information on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). While using the encryption software, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when users are just 'surfing'.We also take precautions offline to protect your information.However, despite our efforts, no system can completely guaranty that there will never be unauthorized access to your personally identifiable information, and your use of the Site indicates that you are willing to assume this risk.
 
-This Web site takes every precaution to protect our users' information. When users submit sensitive information via the Web site, their information is protected both online and off-line. 
+ **A Note To International Users.** The Site is hosted in the United States. If you are accessing the Site from outside the United States, by providing your information to the Site, you are consenting to the transfer of your information to the United States for processing and maintenance in accordance with this Privacy Policy and our Terms and Conditions. You are also consenting to the application of United States law in all matters concerning the Site.
 
-When our registration/order form asks users to enter sensitive information (such as credit card number), that information is encrypted and is protected with the best encryption software in the industry - SSL. While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when users are just 'surfing'. 
+ **Children's Privacy.** The Site is not directed or intended for children under 13 years of age. We do not knowingly collect Personal Information from individuals under 13 years of age. If you are under 13 years of age, you should not register or provide Personal Information on the Site. 
 
-While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. 
+**Changes to the Privacy Policy.** We may change this Privacy Policy from time to time. The most recent version of the Privacy Policy will always be posted on the Site, with the "Effective Date" posted at the top of the Privacy Policy. We may revise and update this Privacy Policy if our practices change, as technology changes, or as we add new services or change existing ones. If we make any material changes to our Privacy Policy or how we handle your personal information, you will know because the Effective Date of the Privacy Policy will change. If we are going to use any personal information in a manner that is materially different from that stated in our Privacy Policy at the time we collected such information, we will give you a reasonable opportunity to consent to the change. If you do not consent, your personal information will be used as agreed to under the terms of the privacy policy in effect at the time we obtained that information. By accessing our Site or Services after the Effective Date, you are deemed to consent to our then-current privacy policy. We will use information previously obtained in accordance with the privacy policy in effect when the information was obtained from you.
 
-**Supplementation of Information**
+ **Applicable Law.** If you choose to visit the Site your visit and any dispute over privacy is subject to this Privacy Policy and our Terms and Conditions including limitations on damages, and governing law.By visiting the Site, you agree that the laws of the State of Connecticut, without regard to its conflict of laws principles, govern this privacy policy and any dispute of any sort that might arise between us or our affiliates. We participate in the Better Business Bureau's BBBOnLine Program. This means that we have committed to cooperating with BBB efforts to resolve disputes that may arise from your use of access to the Site or our products or services. Upon your request, we will agree to participate in a BBB dispute resolution process to resolve these disputes. There are limits as to the kinds of claims that the BBB will handle -- call the BBB for more information. Other than for those disputes resolved through the BBB dispute resolution process, you consent to exclusive jurisdiction and venue in the courts of Connecticut.
 
-In order for this Web site to properly fulfill its obligation to users it is necessary for us to supplement the information we receive with information from 3rd party sources. 
+ **Your California Privacy Rights.** Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask us for a notice describing what categories of personal customer information we share with third parties or corporate affiliates for those third parties or corporate affiliates' direct marketing purposes. That notice will identify the categories of information shared and will include a list of the third parties and affiliates with which it was shared, along with their names and addresses. If you are a California resident and would like a copy of this notice, please submit a written request to the address referenced below. 
 
-**Address Verification  
-** We use third party software to verify an address to ensure billing accuracy and to guard against fraudulent credit card charges. 
+Contacting Us. If you have any questions about this Privacy Policy, or the practices of the Site, please visit our Contact Us or write to us at:
 
-**Correcting/Updating Personal Information**
+FREESHIPPING.COM 
 
-If a user's personally identifiable information changes (such as zip code, phone, email or postal address), we provide a way to correct or update users' personally identifiable information. This can be done at the member services page (update profile) or by emailing our Customer Care department using the form in the "contact us" section of the site. 
+P.O. Box 290728  
+Wethersfield, CT 06129-0728
 
-**Notification of Changes**
-
-If we decide to change our privacy policy, we will post those changes to this privacy statement, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected. 
-
-In some cases where we post a notice we will also email users, who have opted to receive communications from us, notifying them of the changes in our privacy practices.   
-Other Sites 
-
-Our sites may contain links to other sites. Other sites may also reference or link to our sites. We are not responsible for the privacy practices or the content of such other sites. 
-
-**Contact Information**   
-If users have any questions or suggestions regarding our privacy policy, please contact our Customer Care department using the form in the "contact us" section of the site. 
-
-**Your Acceptance of this Policy  
-** By using this site, you signify your assent to our Privacy Policy. If you do not agree with the terms of this policy, please do not use the freeshipping.com web site. We reserve the right, at our discretion, to change, modify, add, or remove portions from this policy at any time. Your continued use of our site following the posting of changes to these terms means you accept these changes. 
-
-v-5
+Copyright 2011 Clarus Marketing Group. All rights reserved.
 
   
 
