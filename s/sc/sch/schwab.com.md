@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the schwab.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226061935id_/http%3A//www.schwab.com/public/schwab/nn/legal_compliance/privacy%3Fcmsid%3DP-2240827%26lvl1%3Dnn%26lvl2%3Dlegal_compliance) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schwab.com privacy policy that was archived on 2011-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110522093312id_/http%3A//www.schwab.com/public/schwab/nn/legal_compliance/privacy%3Fcmsid%3DP-2240827%26lvl1%3Dnn%26lvl2%3Dlegal_compliance) for the most accurate reproduction.*
 
 # Privacy Policy
 
