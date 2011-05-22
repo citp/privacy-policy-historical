@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toptenlinks.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130152054id_/http%3A//toptenlinks.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toptenlinks.com privacy policy that was archived on 2011-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110522082419id_/http%3A//www.toptenlinks.com/privacy) for the most accurate reproduction.*
 
 # Top10Links - best web sites in over 1000 categories! Find the top web sites fast!
 
@@ -200,7 +200,7 @@ K) If you use our "Tell a Friend" feature to tell a friend about our site, the f
 \- friends email  
 \- optional message
 
-will be used in the aggregate by Top10Links and individually, by [Recommend-It](http://www.recommend-it.com/) for the purpose of sending a one time email to your friend. [Recommend-It](http://www.recommend-it.com/) has its own privacy policy which we invite you to read [here](http://www.recommend-it.com/company/userpolicy.html).
+will be used in the aggregate by Top10Links for the purpose of sending a one time email to your friend.
 
 **2) Automatically collected information:**
 
@@ -327,4 +327,4 @@ Browser version is a number the browser developers assign to their software prog
   
 |  **Featured Site**  
 ---  
-[](https://web.archive.org/go.php?siteid=936143353)
+[](https://web.archive.org/go.php?siteid=936143352)
