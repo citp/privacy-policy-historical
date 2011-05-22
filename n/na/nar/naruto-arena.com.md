@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naruto-arena.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127083838id_/http%3A//www.naruto-arena.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naruto-arena.com privacy policy that was archived on 2011-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110522190022id_/http%3A//www.naruto-arena.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Naruto Arena
 
@@ -27,6 +27,8 @@ a At Naruto Arena we make reasonable efforts to protect personal information suc
 ##### Third Parties
 
 Third Party websites may collect information from users of Naruto Arena, this information will include your IP address, hostname, and information about your system to [help](https://web.archive.org/the-basics/ "help") us serve you better. These are purely used for statistical reasons, and will not be used in any way other then that. Some programs that may collect this information include: eXTReMe Tracking, Nedstat, and Webalizer. 
+
+Additionally, we use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [here](http://www.networkadvertising.org/). 
 
 ##### Website Policy Changes
 
