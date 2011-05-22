@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the boldchat.com privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202044343id_/http%3A//www.boldchat.com/live_chat_software/company/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boldchat.com privacy policy that was archived on 2011-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110522032520id_/http%3A//www.boldchat.com/live_chat_software/company/privacy.jsp) for the most accurate reproduction.*
 
 # Bold Software Privacy Policy
-
-| 
 
 We are committed to protecting your privacy. We adhere to the Safe Harbor Framework concerning the transfer, storage, processing, and securing of data from the European Union (EU) to the United States of America (US). Accordingly, we follow the Safe Harbor Principles established by the US Department of Commerce. Please review this document before you go further in your visit on our site or before you use any of our tools or services. 
 
@@ -41,15 +39,3 @@ Wichita, Kansas 67208
 316-630-9933 
 
 We may modify this Privacy Policy without prior notice to you. By visiting our website and/or using our products or services, you agree to inform yourself of modifications to our Privacy Policy by reviewing it on our website from time to time. 
-
-|    
-[Live Chat Click Here](https://livechat.boldchat.com/aid/2307475884/bc.chat?cwdid=4542686679141947862&wdid=1743750158393366790&vr=&vn=&vi=&ve=&vp=&iq=&curl= "Chat Live Now")
-
-**November 23, 2010**   
-Ecommerce Company Organize-It “Gets” Great Customer Service [Read More»](http://blog.boldsoft.com/?p=706#more-706 "BoldChat Web Client Now Available")
-
-**November 5, 2010**   
-Embrace Rejection? No. Listen to the Lesson? Yes. [Read More»](http://blog.boldsoft.com/?p=666#more-666 "BoldChat Web Client Now Available")
-
-**October 25, 2010**   
-Blue Soda Promo – A Live Chat Success Story [Read More»](http://blog.boldsoft.com/?p=668#more-668 "BoldChat Web Client Now Available")
