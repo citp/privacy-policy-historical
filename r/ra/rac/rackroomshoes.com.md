@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the rackroomshoes.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231032115id_/http%3A//www.rackroomshoes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rackroomshoes.com privacy policy that was archived on 2011-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110522045525id_/http%3A//www.rackroomshoes.com/privacy-policy) for the most accurate reproduction.*
 
 # Rack Room Shoes - Men's Women's and Kids Shoes, Handbags and Backpacks
-
-## Rack Room Shoes Web Privacy Policy
 
 **This Privacy Policy (the "Policy") is intended to explain what Rack Room Shoes does with your information and what you can expect from Rack Room Shoes regarding the privacy of your information, including:**
 
