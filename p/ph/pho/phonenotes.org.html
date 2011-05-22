@@ -1,13 +1,12 @@
-<!--The following is the downloaded HTML source of the phonenotes.org privacy policy that was archived on 2010-11-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101121101900id_/http%3A//phonenotes.org/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the phonenotes.org privacy policy that was archived on 2011-05-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110522052311id_/http%3A//phonenotes.org/privacy.htm) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
-<meta http-equiv="content-type" content="text/html; charset=utf-8">
-<meta name="description" content="">
+<!DOCTYPE html><html lang="en" dir="ltr" xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="content-type" content="text/html; charset=utf-8">
+<title>Privacy Policy - PhoneNotes.org</title>
+<meta name="description" content="At PhoneNotes, we are keenly aware of the trust you place in us and our responsibility to protect your privacy">
 <link href="/css/style.css" rel="stylesheet" type="text/css">
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
-<title>Update History - PhoneNotes.org</title>
 <style type="text/css">
+#pagebox{padding-bottom:40px;}
 #pagebox ul{margin-left:40px;}
 .update-title{
 margin:10px 0px;
@@ -18,32 +17,36 @@ color:green;
 #privacybox h1{font-size:15px;text-align:center;margin:0px 0px 10px;}
 .update-content{
 margin-left:18px;
-}</style>
+}</style><script type="text/javascript">function submitted(t){if(t=='ss'){var sbox = document.getElementById("searchInp");var path = 'http://phonenotes.org/'+encodeURIComponent(sbox.value);window.location.href = path;} else{var sbox = document.getElementById("searchInp");var path = 'http://phonenotes.org/report.php?q='+encodeURIComponent(sbox.value);window.location.href = path;}}</script>
 </head>
 <body>
 <div id="header">
-<div style="width:820px;margin:0px auto;">
-<div id="logo"><a href="/" id="imgLogo"><img alt="PhoneNotes.org" src="/logo-small.png"></a></div>
+<div style="width:930px;margin:0px auto;position:relative;">
+<div id="logo"><a href="/" id="imgLogo"><img height="75" width="160" alt="PhoneNotes.org" src="/images/pnlogo.png"></a></div>
 <div>
 <span class="nav">&nbsp;</span>
 <div class="search_box">
-<form name="fmwd" id="form1" method="get" action="/search.php">
+<form id="f" name="f" method="get" action="/" onsubmit="submitted(); return false">
 <div class="search_input">
-<input type="text" autocomplete="off" class="input2" id="PoiSearch" maxlength="256" name="q" value="">
+<input type="text" class="topInp" id="searchInp" maxlength="256" name="q" value="" onkeypress="if( is_enter( event ) &amp;&amp; this.value ) { submitted(); return false; }" onsubmit="if (!this.value) return false;">
 </div>
-<div class="search_header"><input id="sb" type="submit" value="Search">&nbsp;&nbsp;&nbsp;<input id="sb2" name="s" type="submit" value="Report"></div>
+<div class="search_header">
+<input class="mainBtn" type="submit" value="Search" onclick="if (document.getElementById('searchInp').value){ submitted('ss'); } return false;">
+<input class="mainBtn" type="submit" value="Report" onclick="if (document.getElementById('searchInp').value){ submitted('sr'); } return false;"></div>
 </form></div>
 </div>
+<div style="position:absolute;right:15px;bottom:0px;color:gray;">View PhoneNotes in <a href="http://m.phonenotes.org/">Mobile</a></div>
+<div style="clear:both;"></div>
 </div>
-</div>
-<div id="container">
-<div id="topnav"><a href="/comments.htm">New Comments</a><span>&nbsp;-&nbsp;</span><a href="/reports.htm">Latest Reports</a><span>&nbsp;-&nbsp;</span><a href="/top.htm">Top List</a><span>&nbsp;-&nbsp;</span><a href="/live.htm">Live Search</a></div><div id="pagebox">
+</div><div id="container">
+<div id="pagebox">
 <div style="font-size:14px;background:#eeefff;text-align:left;padding:4px 0px 4px 20px;margin-top:1px;">Privacy Policy</div>
 <br>
 <div id="privacybox">
 <h1>Privacy Policy</h1>
 <div>
-<p>To better protect your privacy we provide this notice explaining our online information practices, 
+<p>At PhoneNotes, we are keenly aware of the trust you place in us and our responsibility to protect your privacy.
+To better protect your privacy we provide this notice explaining our online information practices, 
 including how we collect and use the information you may provide to us on the Web site, and the choices 
 you can make about the way your information is collected and used.</p>
 <h4>Collected information</h4>
@@ -71,15 +74,13 @@ their cookie, the IP address.</p>
 <h4>Privacy Policy Changes</h4>
 <p>This Privacy Policy may be modified from time to time. Any modifications to our Privacy Policy will be reflected 
 on this page.</p>
-<h4>Questions and comments</h4>
-<p>Questions regarding this privacy statement should be submitted via the <a href="feedback.htm">feedback</a>.</p>
 </div>
 </div>
 </div>
 <div id="footer">
-<span class="fleft" id="icp">© 2010 PhoneNotes.org</span>
-<span class="fright"><a href="/feedback.htm">Feedback</a><a href="/tos.htm">Terms of Service</a><a href="/privacy.htm">Privacy Policy</a><a href="/about.htm">About Us</a></span>
-</div><br>
+<span class="fleft" id="icp">© 2011 PhoneNotes</span>
+<span class="fright"><a href="/blog/">Blog</a><a href="/comments.htm">Status</a><a href="/tos.htm">Terms</a><a href="/privacy.htm">Privacy</a><a href="/about.htm">About Us</a></span>
+</div>
 </div>
 
 </body></html>
