@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adulttubeland.com privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202025549id_/http%3A//www.adulttubeland.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adulttubeland.com privacy policy that was archived on 2011-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110522064255id_/http%3A//www.adulttubeland.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement - Adult Tubeland
 
