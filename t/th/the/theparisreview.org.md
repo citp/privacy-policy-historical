@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theparisreview.org privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205235823id_/http%3A//www.theparisreview.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theparisreview.org privacy policy that was archived on 2011-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110522092547id_/http%3A//www.theparisreview.org/privacy-policy) for the most accurate reproduction.*
 
 # Paris Review – Writers, Quotes, Biography, Interviews, Artists
 
