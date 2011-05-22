@@ -1,133 +1,104 @@
-> *The following text is extracted and transformed from the aurorahealthcare.org privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223125913id_/http%3A//www.aurorahealthcare.org/misc/privacy-statement/index.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aurorahealthcare.org privacy policy that was archived on 2011-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110522120017id_/http%3A//www.aurorahealthcare.org/privacy-policy) for the most accurate reproduction.*
 
-# Notice of Privacy Practices
+# Website privacy policy, Aurora Health Care
 
-## THIS NOTICE DESCRIBES HOW MEDICAL INFORMATION ABOUT YOU MAY BE USED AND DISCLOSED AND HOW YOU CAN GET ACCESS TO THIS INFORMATION. PLEASE REVIEW IT CAREFULLY.
+## Effective Date: 03/02/2011
 
-[ [View the Spanish version (PDF document)](https://web.archive.org/web/20101223125913id_/http%3A//www.aurorahealthcare.org/misc/privacy-statement/art/Spanish-Notice.pdf) ]
+This Privacy Policy describes Aurora Health Care's online data collection practices and how we use and protect your personal information. This Privacy Policy applies only to the information collected on this website, and does not apply to information that Aurora Health Care obtains about you from other sources.
 
-### OUR COMMITMENT
+### Your Consent
 
-Our principal goal at Aurora Health Care, Inc. is to keep you healthy and to offer services that will meet your needs. In order to perform these services, we collect, create, use, and disclose information about you. We are dedicated to keeping your health information private, in accordance with federal and state law. As required by the federal Health Insurance Portability and Accountability Act of 1996 ("HIPAA"), we provide you with this notice of our legal duties with respect to health information. We are required to follow the terms of this notice or any revision to it that is in effect. We reserve the right to make changes to this notice as allowed by law. Changes to our privacy practices will apply to all health information we maintain.
+By using the website, you consent to the collection and use of your information in the manner we describe in this Privacy Policy. IF YOU DO NOT AGREE WITH THESE TERMS, DO NOT USE THIS WEBSITE.
 
-If we change this notice, you can access the revised notice using one of these options:
+### Changes to Our Policy
 
-  * At any of the registration areas of our hospitals and clinics;
-  * From home health, hospice, nursing home, retail pharmacy, or optical staff; or
-  * From this website (www.AuroraHealthCare.org).
+We reserve the right to modify or amend this Privacy Policy at any time. All changes to this Privacy Policy will be effective immediately upon their posting to the website. We will notify you of material changes to this Privacy Policy by conspicuously posting the changes on the website. Information collected before changes are made will be treated in accordance with the previous Privacy Policy. Each version of our Privacy Policy will be prominently marked with an effective date.
 
+## CONTINUED USE OF THE WEBSITE AFTER THE EFFECTIVE DATE OF A PRIVACY POLICY WILL INDICATE YOUR AGREEMENT TO ANY MODIFIED TERMS.
 
+### Health Insurance Portability and Accountability Act of 1996 (HIPAA)
 
-### HOW WE MAY USE AND DISCLOSE YOUR HEALTH INFORMATION
+Aurora Health Care's use and disclosure of certain of your information may be subject to the requirements of the Health Insurance Portability and Accountability Act of 1996, commonly referred to as HIPAA, as amended by the Health Information Technology for Economic and Clinical Health Act ("HITECH Act"). Any information that you submit to us that constitutes "Protected Health Information" is subject to HIPAA and HITECH. The term **"Protected Health Information"** or **"PHI"** refers to personally identifiable information about your past, present or future physical or mental health or condition, the provision of health care to you or the past, present or future payment for such care. If any information collected on this website constitutes PHI, then our [Notice of Privacy Practices](https://web.archive.org/misc/privacy-statement/index.asp?ID=0008) will apply.
 
-We may use your health information and disclose it to appropriate persons, authorities and agencies, as allowed by federal and state law. We may do this without your written permission for the following purposes:
+## Information We May Collect
 
-**Treatment.** As we treat you, we may need to use and disclose your health information to other health care providers within or outside of Aurora Health Care, Inc. For example, a doctor may use the information in your medical record to find the best treatment option for you or a pharmacist may call your doctor to ask questions about a prescription. In some cases, our staff may use or disclose your health information to help your doctor and our health care team manage your disease.
+### Non-Personally Identifiable Information
 
-**Payment.** We may use your health information and disclose it to insurance companies or employer health plans, and to others in order to receive payment for your bill. For example, we must submit a bill to your insurance company that states your name, what is wrong with you, how we are treating you, and other information in order for us to receive payment. In certain situations, we may disclose your health information to a collection agency if a bill is not paid.
+When you visit our website, we may passively collect non-personally identifiable information about you via certain Internet technology tools. This information consists of your IP address, cookies and web beacons, as well as information regarding the type of browser and operating system that you use, along with other similar analytic data.
 
-**Health Care Operations.** We may use the information in your medical record to help us improve the quality or cost of the care we give or to respond to appropriate questions about the care provided. For example, we may study how doctors and nurses manage patient treatment after surgery, to learn the best way to help patients recover. We may use your health information to look at the care you received from doctors, nurses, pharmacists, or other health care professionals. We may disclose your health information to another health care professional that you have seen so they may improve their quality or cost.
+Your "IP address" is usually associated with the network location and physical location from which you enter the Internet.
 
-**Reminders and Information Sharing.** We may use your health information to remind you of an appointment or to tell you about treatment options or health products and services that may be of interest to you. For example, we may send you a letter telling you about a new health care facility that is opening in your area.
+The term "cookies" refer to electronic data stored by your computer browser. The cookies enable us to facilitate your access to different aspects of the website. For example, by showing when and how you visit our website, cookies help us to see which pages of the website are popular and which are not. Cookies can also help us to improve your enjoyment of this website, for example, by remembering your address or other information when you request information or services on the website. Most web browsers automatically accept cookies, but you can disable this function so that your browser will not accept cookies. Please be aware that if you disable this function, it may impact your use and enjoyment of the website.
 
-**Fundraising.** In support of our charitable mission, we may use your health information (for example, your name, address, phone number and treatment dates) to contact you about supporting our fundraising efforts. Through philanthropy, we seek to advance our patient care programs and services. For example, we use charitable gifts to fund heart and cancer research and needed charity care.
+The term "web beacons" refer to Internet tools, such as transparent images on the website or in emails that we may send to you that help us to determine, for instance, whether a page has been viewed or an email opened. For example, when you ask us to send you information on a promotion or newsletter, we may use web beacons to determine how many of the emails that we sent you were actually opened. In general, any electronic image viewed as part of a web page, including a banner ad, can contain a web beacon.
 
-### OTHER WAYS WE MAY DISCLOSE YOUR HEALTH INFORMATION
+These Internet technology tools allow us to track the internet browser most commonly used to access our site and the pages that are most popular, which statistics assist us in making our website more user-friendly and accessible.
 
-We may also use and disclose your health information without your written permission for the following purposes:
+We may also ask that you participate in anonymous surveys, which allow us to collect additional data to help us improve our site. Participation in such surveys is voluntary and is not connected to any of your personal information.
 
-**Hospital and Nursing Home Patient Directory.** If you are hospitalized or a resident in a nursing home, we may keep brief information about you in our directory. Unless you tell us otherwise, we may disclose where you are in our facility (for example, your room or phone number) and your general health condition (for example "stable" or "good") to anyone who asks for you by name. We will also disclose your religious affiliation to clergy, even if they do not ask for you by name.
+We may also use third party service providers to assist us in collecting and analyzing this non-personally identifiable information.
 
-**Family and Friends for Care and Payment.** Unless you request otherwise and in emergency situations, we may disclose information to your family members, relatives, close friends, or others who are helping care for you or helping you pay your medical bills. For example, we may tell these persons where you are and how you are doing.
+### Personally Identifiable Information
 
-**Disaster Relief Efforts.** We may disclose your health information to organizations for the purpose of disaster relief efforts.
+In your use of the website, we may collect any information that you voluntarily share with us. This information may be collected when you send us emails or voluntarily submit information to us via the website. This information may include your (1) contact information (such as name, address, email address and phone number), (2) age, (3) gender, (4) date of birth, (5) insurance information, (6) health and medical information, (7) account numbers, (8) financial and payment information, and (9) any other information you choose to provide us, subject to applicable laws and the terms of this Privacy Policy.
 
-**Required by Law.** We may disclose your health information when required by law to do so.
+We may also use third party service providers to assist us in collecting and maintaining this personally identifiable information. However, we require such service providers to maintain the confidentiality of such information.
 
-**Public Health.** We may disclose your health information with authorities to help prevent or control disease, injury, or disability. For example, we are required to report certain diseases (for example, cancer), injuries, birth or death information, and information of concern to the Food and Drug Administration (FDA) and the State of Wisconsin. We may also report work-related illnesses and injuries to your employer for workplace safety purposes.
+## How We Use the Information We Collect
 
-**Reporting Victims of Abuse or Neglect.** We may disclose your health information, if we believe you have been a victim of abuse or neglect, to a government authority if required or allowed by law, or if you agree to the disclosure.
+### Non-Personally Identifiable Information
 
-**Health Care Oversight.** We may disclose your health information to authorities and agencies for oversight activities allowed by law, including audits, investigations, inspections, licensing, disciplinary actions, or legal proceedings. These activities are necessary for oversight of the health care system, government programs and civil rights laws.
+We use non-personally identifiable information in the aggregate to determine how much traffic the website receives, to statistically analyze website usage, to improve our content, and to customize the website's content, layout and services. In addition, we may use your IP address to help diagnose problems with our server, to manage the website and to enhance the website based on the usage pattern data we receive.
 
-**Legal Proceedings.** We may disclose your health information in the course of certain legal proceedings. For example, we may disclose your information in response to a court order.
+### Personally Identifiable Information
 
-**Law Enforcement.** We may disclose your health information to law enforcement officials for specific purposes. For example, we may disclose your health information when required by law to report certain injuries.
+We will use personally identifiable information solely for the purpose for which you provide it and as otherwise may be disclosed at the point of collection. For example, we may use your contact information as provided to us, such as email address, telephone number, and/or mailing address, to contact you regarding administrative notices and communications related to your use of the website or otherwise as you may request, such as for an employment application. As another example, we may use your financial and insurance information to process payments you request or otherwise adjust your account. We will not send you promotions or announcements unless you give us permission to do so.
 
-**Death.** We may disclose your health information to coroners, medical examiners (for example, to find out the cause of death) and funeral directors so they can carry out their duties.
+We may use your personal health information to provide you with certain medical content and information that we believe may be of interest or use to you and provide you with a customized experience on the website.
 
-**Organ, Eye, or Tissue Donation.** We may disclose information to people involved in obtaining, storing or transplanting donated organs, eyes or tissue.
+In providing our services to you, your personal information may be disclosed to or collected by third-party suppliers specifically involved in the processing of your information received via the website and as otherwise necessary to manage our website and provide the services you request. We may also use third party service providers to host the website and gather and use on our behalf your personal information as contemplated by this Privacy Policy and applicable law. All such third parties are subject to confidentiality obligations in an attempt to protect your information as much as is commercially reasonable.
 
-**Research.** We may disclose your health information to researchers who have received approval from the Aurora Health Care, Inc. Institutional Review Board to conduct a specific research project. These researchers agree not to disclose information that would allow you to be identified, except as allowed by law. For example, a research study may measure the success of a treatment or medication in treating or curing a targeted illness or condition.
+In addition, we may use your Personal Information in the aggregate in a non-identifiable way in order to better understand the services being provided, how to improve these services and how to improve the website. We may provide this aggregated information to third parties, but when we do so we do not provide any of your personal information without your express permission.
 
-**Serious Threats to Health or Safety.** We may disclose your health information to the proper authorities if we believe in good faith that this will help prevent or lessen a serious threat to your or the public's health or safety. We do so as allowed by law and standards of ethical conduct.
+We may also use or disclose your personal information and review the status or activity of multiple users to resolve disputes, investigate problems, and enforce our website [Terms of Use](https://web.archive.org/terms-of-use) or other agreement with Aurora Health Care. We may disclose or access information whenever we believe in good faith that the law so requires, upon sale or reorganization of our company or some or all of its assets, or if we otherwise consider it necessary to do so to maintain service and improve our products and services.
 
-**Military, National Security, Law Enforcement Custody.** We may disclose your health information with the proper authorities so they may carry out their duties under the law. This applies if you are or were involved with the military, national security or intelligence activities. It also applies if you are in the custody of law enforcement officials or an inmate in a correctional institution.
+Except as stated above, we will never sell, distribute, or release to a third party your personal information without your express permission.
 
-**Workers' compensation.** We may disclose your information in order to comply with the laws related to workers' compensation or similar programs. These programs may provide benefits for work-related injuries or illness.
+### Access to Your Personally Identifiable Information
 
-We may use or disclose your information only with your written permission, except as described in the previous sections. If you give us your permission, you may withdraw such permission at any time by notifying us in writing, except if we have already taken action based upon your permission.
+Upon written request and verification of your identity, we will provide you with your personal information in our possession as well as the personal information, if any, that we have disclosed to third parties. Requests for such information should be sent to the contact information below.
 
-### A NOTE ON OTHER RESTRICTIONS
+You may also update, correct, or delete your personal information in our possession by contacting us using the contact information below. If you have registered for a "members only" portion of our website, or MyAurora, you may also update your personal information by logging into your account.
 
-Please be aware that state and federal law may have more requirements than HIPAA on how we use and disclose your health information. If there are specific more restrictive requirements, even for some of the purposes listed above, we may not disclose your health information without your written permission as required by such laws. For example, we will not disclose your HIV test results without obtaining your written permission, except as permitted by state law. We may also be required by law to obtain your written permission to use and disclose your information related to treatment for a mental illness, developmental disability, or alcohol or drug abuse.
+### Handling of Electronic Records and Backup
 
-There may be other restrictions on how we use and disclose your health information than those listed above. We believe state and federal laws discussing such restrictions are Wisconsin Statutes Sections 146.82, 51.30, 252.15, 895.50 and 905.04; Wisconsin Administrative Code HFS 92 and 124.14; and 42 C.F.R. Part 2 and 45 C.F.R. Parts 160 and 164. If you would like a copy of these laws, please contact our Chief Privacy Officer at (414)647-6404.
+In general, we will retain all information collected through the website for, at a minimum, the length of time permitted by law. However, we will delete any personally identifiable information in our database upon your [request](mailto:internet@aurora.org) or as otherwise required by law. We may, however, retain non-personally identifiable information indefinitely.
 
-### YOUR HEALTH INFORMATION RIGHTS
+We maintain backup files as a protection against natural disasters, equipment failures, or other disruptions. Backup files protect you and us because they lower the risk of losing valuable data. Backup files may contain records with your personal information. Removing a record from our active files and databases does not remove that record from any backup systems. Such backup data will eventually be passively deleted as backup records are erased through the normal recycling of backup files. In the meantime, as long as backup records exist, they receive the same security protections as our other records.
 
-As a patient or customer who receives health care services from Aurora Health Care, Inc., you have the right to:
+### Security
 
-Read and copy your health information. With a few exceptions, you have the right to read and obtain a copy of your health information. We may charge you a reasonable fee if you want a copy of your health information. If we deny your request to review or obtain a copy, you may submit a written request for a review of that decision.
+Communications between your browser and portions of the website containing personally identifiable information are protected with Secure Socket Layer (SSL) encryption. This encryption is to help protect your information while it is being transmitted. Once we receive your information we strive to maintain the physical and electronic security of your personal information using commercially reasonable efforts.
 
-  * To obtain your health information, contact the Health Information/Medical Record Department of the facility where you were treated.
-  * To obtain your billing information, contact the Central Business Office.
-  * To request information from a retail pharmacy or optical shop, inquire at the counter.
+NO DATA TRANSMISSION OVER THE INTERNET OR ANY WIRELESS NETWORK CAN BE GUARANTEED TO BE PERFECTLY SECURED. AS A RESULT, WHILE WE TRY TO PROTECT YOUR PERSONAL INFORMATION USING ENCRYPTION TECHNOLOGY, WE CANNOT ENSURE OR GUARANTEE THE SECURITY OF ANY INFORMATION YOU TRANSMIT TO US, AND YOU DO SO AT YOUR OWN RISK.
 
+### In the Event of a Security Breach of Your Personal Information
 
+If we determine that your personal information has or may reasonably have been disclosed due to a security breach of our systems, we will notify you, at the contact information provided to us, in accordance with and to the extent permitted by applicable state and federal law.
 
-Request to correct your health information. If you believe there is an error in your health information or something has been left out, you may ask us to correct the information. You must make the request in writing and give the reason why your health information should be changed. If we did not create the information you believe is incorrect, or if we disagree with you and believe your health information is correct, we will deny your request. You may appeal to us in writing if we deny your request.
+### Third Party Privacy Practices
 
-  * To request a correction to your health information, contact the Health Information/Medical Record Department of the facility where you were treated.
-  * To request a correction from a retail pharmacy or optical shop, inquire at the counter.
+This Privacy Policy applies only to this website as provided by Aurora Health Care. This website may contain links to other websites, which may be subject to a different privacy policy or are otherwise maintained or provided by a third party. We are not responsible for the privacy practices of any third party website you access from this website. You should review the privacy policy of every website before using the website or submitting any information to the website.
 
+### Children under the Age of 13
 
+No part of the website, or any services made available through the website, are designed or intended to attract children under the age of 13. No personal information is knowingly collected from any person under the age of 13.
 
-Request to restrict certain uses and disclosures of your information. You have the right to ask that we restrict how your health information is used or disclosed. Under the law, we are not required to agree to your request. In some cases, we may not be able to agree to your request because we do not have a way to tell everyone who would need to know about the restriction. There are other instances in which we are not required to agree with your request. We will inform you when we cannot find a way to carry out your request. You may request a restriction in these ways:
+### Contact Information
 
-  * Ask during the registration or sign-in process;
-  * Ask the person giving you care (e.g., physician, nurse, pharmacist);
-  * Contact the Health Information/Medical Record Department; or
-  * Contact the business office for billing-related requests.
+If you have any questions or concerns about this Privacy Policy or Aurora Health Care's privacy practice, or access to you personal information, please contact us at the following:
 
-
-
-Receive information at a different place or by different means. You have the right to ask that we send information to you in different ways or at different places. For example, you may wish to receive a test result at an address other than your home address. We will grant reasonable requests.
-
-Receive a record of how we disclosed your health information. You have the right to ask us in writing for a list of places or persons with whom your health information was disclosed during the past six years. The list will contain the date your health information was disclosed to others, who received the information, a brief description of what was disclosed and why. However, the list will not include disclosures for the following purposes: treatment, payment, health care operations, hospital/nursing home patient directories, family and friends for care and payment, national security or intelligence, and law enforcement/corrections. In addition, the list will not include information that was disclosed to you and to others with your permission, incidental disclosures and disclosures of limited or de-identified health information. We must provide you the list within 60 days of your request, unless you agree to a 30-day extension. You will not be charged for this list, unless you request more than one list per year.
-
-  * The request must be for health information disclosed on or after April 14, 2003.
-  * To request this list, contact the Health Information/Medical Record Department at the facility where you were treated.
-  * If you wish to request a list from a pharmacy or optical store, inquire at the counter.
-
-
-
-Obtain a paper copy of this notice. Upon your request, you may at any time receive a paper copy of this notice. This notice is available at the registration desks and customer service counters of all our facilities. It is also on our website at [www.AuroraHealthCare.org](http://www.aurorahealthcare.org/).
-
-File a complaint. You have the right to file a complaint with us if you believe your privacy rights have been violated. To file a complaint, call the Chief Privacy Officer at (414) 647-6404. You also have the right to complain to the United States Secretary of the Department of Health and Human Services. We will not take any action against you for filing a complaint.
-
-### CONTACT FOR INFORMATION, QUESTIONS, OR CONCERNS
-
-If you have questions or concerns about your privacy rights, Aurora Health Care, Inc.'s privacy-related policies or the information contained in this notice, please contact our Chief Privacy Officer at (414) 647-6404.
-
-### WHO WILL USE THIS NOTICE TO MEET FEDERAL LAW NOTICE REQUIREMENTS
-
-Aurora Health Care, Inc., through owned and controlled corporate and limited liability affiliates and employees of such entities, provides health care to patients, residents and clients jointly with health care providers and other organizations. The following persons and entities, who have agreed to be bound by this notice, will jointly use this notice for convenience to meet federal law requirements; provided that, each person and entity is solely and separately responsible and liable for complying with this notice and applicable law (and Aurora Health Care, Inc. and its affiliates are only liable for their own violations):
-
-  * All employed staff or volunteers of Aurora Health Care, Inc., including staff of other affiliated entities.
-  * Any health care professional who agrees to be bound by this notice and who treats you at any of our facilities with respect to your information stored at the facility. Please be aware that many health care professionals are independent contractors, which means they are not employed or controlled by Aurora Health Care, Inc. Such independent health care professionals may have different policies or notices regarding the use or disclosure of your health information stored at their office and that each person or entity is independently responsible for their own compliance with this notice and federal and state law. You should determine if your health care professional is employed or controlled by Aurora Health Care, Inc. or one of its controlled entities.
-  * Any of our business partners or associates with whom we share health information and who agree to be bound by this notice.
-
-
-
-This notice is effective on and after April 14, 2003, unless and until it is revised by Aurora Health Care, Inc.
+Aurora Health Care Administrative Offices  
+750 West Virginia Street  
+P.O. Box 341880  
+Milwaukee, WI 53204-1539
