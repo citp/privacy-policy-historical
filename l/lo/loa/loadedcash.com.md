@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loadedcash.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121033234id_/http%3A//www.loadedcash.com/%3Fa%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loadedcash.com privacy policy that was archived on 2011-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110522195900id_/http%3A//www.loadedcash.com/%3Fa%3Dprivacy) for the most accurate reproduction.*
 
 # Adult Affiliate Programs and Adult Affiliate Marketing
 
@@ -88,7 +88,7 @@ This Policy does not protect information you post to any online profile, bulleti
 
   * #### 12.
 
-Notices by LoadedCash to Website Operators may be given by electronic messages to your registered e-mail address or by a general posting to [www.loadedcash.com/index.php?c=members.](https://web.archive.org/web/20101121033234id_/http%3A//www.loadedcash.com/index.php?c=members)
+Notices by LoadedCash to Website Operators may be given by electronic messages to your registered e-mail address or by a general posting to your home page.
 
 
   * Notices to LoadedCash by Website Operators may be given by electronic messages using our interface [here.](https://web.archive.org/?c=contact)
@@ -97,6 +97,6 @@ Notices by LoadedCash to Website Operators may be given by electronic messages t
   * To contact LoadedCash’s Privacy Officer, please use our online contact form [here.](https://web.archive.org/?c=contact)
 
 
-  * Version [09/03/08]
+  * Version [05/01/11]
 
 
