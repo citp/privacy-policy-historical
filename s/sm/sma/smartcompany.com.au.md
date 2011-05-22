@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the smartcompany.com.au privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121231654id_/http%3A//www.smartcompany.com.au/privacy/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartcompany.com.au privacy policy that was archived on 2011-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110522195821id_/http%3A//www.smartcompany.com.au/privacy/privacy.html) for the most accurate reproduction.*
 
-# Privacy - Business news, business advice and information for Australian SMEs | SmartCompany
+# Privacy
 
 SmartCompany.com.au Pty Ltd's daily email and the online magazine www.smartcompany.com.au are published by SmartCompany.com.au (ABN23 121 200 002), which employs staff and manages subscriber databases and accounting services for the SmartCompany.com.au business. In this privacy policy SmartCompany.com.au is referred to as "SmartCompany".
 
