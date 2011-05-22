@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elance.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205170309id_/http%3A//www.elance.com/p/legal/privacy-policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elance.com privacy policy that was archived on 2011-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110522131221id_/http%3A//www.elance.com/p/legal/privacy-policy.pdf) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@
 This Privacy Policy hereby incorporates by reference all terms, conditions rules, policies and guidelines on
 the Site, including the Elance Terms of Service (“Terms of Service”). Capitalized terms not defined in this
 Privacy Policy are defined in the Terms of Service.
-This Privacy Policy is effective as of October 29, 2010. Your use or continued use of the Site or Tracker (as
+This Privacy Policy is effective as of February 23, 2011. Your use or continued use of the Site or Tracker (as
 defined below) after such time will signify your acceptance of this Privacy Policy. We reserve the right to
 modify the provisions in this Privacy Policy without prior notice to you, so please check back often for
 updates.
@@ -18,8 +18,7 @@ This Privacy Policy applies only to Users; it does not apply to any information 
 organizations that use the Services on the Site. The Sections titled “Tracker Software” apply to you if you
 have downloaded Tracker. In addition, if you are a person who is only visiting the Site (a "Visitor"), the
 provisions titled "Consent," "This Site Contains Links to Other Sites," "Automatically Gathered Information"
-(applicable parts only), "Service Providers and Clients," "Legal Requests" and "Anonymous Information"
-apply to you.
+(applicable parts only), "Legal Requests" and "Anonymous Information" apply to you.
 "Personal Information" is information about you that is personally identifiable to you, like your name,
 address, email address or phone number, as well as other non-public information that is associated with the
 foregoing.
@@ -45,7 +44,7 @@ We may update this Privacy Policy from time to time as our Services change and e
 substantial changes to this Privacy Policy, we will post the updated policy on this page and we will post
 notice that this Privacy Policy has changed in the Settings area of the Site and in this policy. The notification
 of revised terms will appear on the website 30 days prior to the changes taking place. Once any changes
-privacy-policy-10.26.10-a                               1
+privacy-policy-02.18.11-a                               1
 
 
 that we make to this Privacy Policy become effective, your continued use of the Site after such time will
@@ -58,9 +57,9 @@ To check what Internet location you are on, note the URL at the top and/or botto
 encourage you to read the posted privacy statement of that website whenever interacting with any website.
 THE WORKROOM
 This area of the Site is for the benefit of Users. The private and shared Workroom areas of the Site facilitate
-communication and the exchange and sharing of information between Clients and Service Providers once a
-bid has been accepted. The information contained in private Workrooms shared between Clients and
-Service Providers is not used for any purposes other than to facilitate communication and the exchange of
+communication and the exchange and sharing of information between Clients and Contractors once a bid
+has been accepted. The information contained in private Workrooms shared between Clients and
+Contractors is not used for any purposes other than to facilitate communication and the exchange of
 information between the parties involved. Elance reserves the right to monitor communications in the
 Workroom in order to verify compliance with our Terms of Service, international, federal or state laws and/or
 our other stated policies.
@@ -93,7 +92,7 @@ Online Surveys and Contests
 Occasionally, Elance conducts a User survey to collect information about our Users' preferences. These
 surveys are optional and if you choose to respond, your responses will be kept anonymous. Similarly, we
 may offer contests to qualifying Users in which we ask for contact and demographic information such as
-privacy-policy-10.26.10-a                                      2
+privacy-policy-02.18.11-a                                      2
 
 
 name, email address and mailing address. None of this information is shared with third parties, except in
@@ -106,11 +105,11 @@ The Elance Payment System
 The Elance Payment Service requires Members to pay with a credit card, wire transfer, ACH or debit card,
 check, or PayPal. Consequently, Elance will collect your credit card number and/or other entered financial
 institution information such as bank account numbers or PayPal email ID and will use that information to bill
-your Service Provider membership fee and/or to perform the billing operation on behalf of the Service
-Provider, including but not limited to the use and disclosure of such credit card number and information to
-third parties as necessary to complete such billing operation. Verification of credit information, however, is
-accomplished solely by the User through the authentication process.
-Service Providers and Agents
+your Contractor membership fee and/or to perform the billing operation on behalf of the Contractor, including
+but not limited to the use and disclosure of such credit card number and information to third parties as
+necessary to complete such billing operation. Verification of credit information, however, is accomplished
+solely by the User through the authentication process.
+Third Party Service Providers and Agents
 We use credit card and other payment processing companies to bill you for goods and services and email
 marketing companies to send emails from Elance to opt-in users. We will share your Personal Information
 as necessary for third parties to provide these services. These companies do not retain, share, store or use
@@ -145,7 +144,7 @@ assured that Elance only uses your friends' email addresses on a one-time basis 
 posting, and we use your email address to copy you on the message or to send on your behalf. Your friends'
 email addresses will be deleted from our database after the message is sent.
 Public Information
-privacy-policy-10.26.10-a                                    3
+privacy-policy-02.18.11-a                                    3
 
 
 As part of registration, you may set up a Profile describing your experience and qualifications. After
@@ -191,11 +190,11 @@ To the extent necessary to provide you with the services on the Site, we may pro
 Information to third party contractors and/or partners who work on behalf of or with Elance to provide you
 with such services, to help us communicate with you or to maintain the Site.
 Other Members
-We share the email addresses of Service Providers and Clients to each other once a project is awarded on
-our Site to enable work on the project to be completed. In addition, Members involved in a transaction may
+We share the email addresses of Contractors and Clients to each other once a project is awarded on our
+Site to enable work on the project to be completed. In addition, Members involved in a transaction may
 request full contact information of the other party, including name, company name, phone number and
 mailing address. If you request the contact information of another User, your contact information will also be
-privacy-policy-10.26.10-a                                     4
+privacy-policy-02.18.11-a                                     4
 
 
 released to that User. If another User requests your contact information, we will disclose it to him or her. You
@@ -243,10 +242,10 @@ We will use commercially reasonable methods to keep Personal Information securel
 systems. Our Payment System is operated using secure Internet connections, using SSL (Secure Sockets
 Layer) encryption, to help protect your financial data. Please note that with current technology, we cannot
 guarantee the security of your data as it travels over the Internet.
+privacy-policy-02.18.11-a                                      5
+
+
 Regarding Children
-privacy-policy-10.26.10-a                                      5
-
-
 We do not intentionally gather Personal Information about Visitors who are under the age of 13.
 Terminating Your Membership
 We save your Personal Information until your membership with us is terminated and you unsubscribe to
@@ -279,4 +278,4 @@ Web Support: http://www.elance.com/service
 Email: services@Elance.com
 Phone: (Mon-Fri, 8 a.m. - 5 p.m. Pacific Time): 1-877-4-ELANCE (1-877-435-2623)
 Online Help Topics: http://www.elance.com/help
-privacy-policy-10.26.10-a                                    6
+privacy-policy-02.18.11-a                                    6
