@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nabp.net privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127072055id_/http%3A//www.nabp.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nabp.net privacy policy that was archived on 2011-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110522201313id_/http%3A//www.nabp.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - National Association of Boards of Pharmacy® (NABP®)
 
@@ -22,7 +22,7 @@ When you pay for services, credit card information may be collected by NABP thro
 
 NABP uses your personal information to deliver the service(s) you have requested and may use it for Association operations, including quality assurance purposes, to contact you on behalf of the boards of pharmacy in the event of an emergency, to deliver to you information about NABP, such as promotional material, or to contact you about your account.
 
-NABP does not sell to third parties any personal or financial information gathered on this Site. NABP may share your personal information with licensing, regulatory, or law enforcement agencies including, but not limited to, the state boards of pharmacy. NABP may provide its vendors with personal information for purposes of delivering the services you requested. For example, NABP may provide your name, address, and phone number to our testing vendor if you request examination services through the Site. Such third parties agree to protect your personal information in conformance with NABP requirements and applicable state and federal laws.
+NABP does not sell to third parties any personal or financial information gathered on this Site. NABP may share your personal information with licensing agencies including, but not limited to, boards of pharmacy, pharmacy technician organizations if you are a certified pharmacy technician, or regulatory or law enforcement agencies as required by law. NABP may provide its vendors with personal information for purposes of delivering the services you requested. For example, NABP may provide your name, address, and phone number to our testing vendor if you request examination services through the Site. Such third parties agree to protect your personal information in conformance with NABP requirements and applicable state and federal laws.
 
 In the course of conducting Association business, NABP staff may access personal information for the purposes stated in this privacy policy. Staff are required to maintain the confidentiality of personal information and are prohibited from unlawfully disclosing such information.
 
