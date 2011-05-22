@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autotrader.ie privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222021050id_/http%3A//www.autotrader.ie/contentv3/index.cfm%3Ffuseaction%3Dpage%26keyword%3DPrivacy%26tabID%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autotrader.ie privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523005425id_/http%3A//www.autotrader.ie/contentv3/index.cfm%3Ffuseaction%3Dpage%26keyword%3DPrivacy%26tabID%3D1) for the most accurate reproduction.*
 
 # Auto Trader Privacy Policy
 
