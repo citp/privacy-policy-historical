@@ -1,24 +1,6 @@
-> *The following text is extracted and transformed from the caribbeancinemas.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522105445id_/http%3A//www.caribbeancinemas.com/Default.aspx%3FSecId%3D22) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caribbeancinemas.com privacy policy that was archived on 2011-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110522201024id_/http%3A//www.caribbeancinemas.com/Default.aspx%3FSecId%3D22) for the most accurate reproduction.*
 
 # Caribbean Cinemas of Puerto Rico - PRIVACY STATEMENT
-
-| 
-
-| 
-
-| 
-
-**Caribbean Cinemas  
-**1512 Ave. Fernández Juncos, Santurce  
-Puerto Rico 00909  
-**Tel.** 787-727-7137  
-**Fax** 787-728-2274  
-  
----  
-  
-|   
----  
-| 
 
 Your privacy is important to us. We provide this statement to explain our practices and to inform you of your options regarding the way your information is collected and used at this site. 
 
@@ -78,6 +60,4 @@ Your privacy is important to us. We provide this statement to explain our practi
 > If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact **Caribbean Cinemas at  
 >  787-727-7187.**
 
-> |   
-  
-| 
+> 
