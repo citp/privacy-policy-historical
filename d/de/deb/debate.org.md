@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the debate.org privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121141730id_/http%3A//www.debate.org/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the debate.org privacy policy that was archived on 2011-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110522183601id_/http%3A//www.debate.org/legal/privacy) for the most accurate reproduction.*
 
-# Debate.org | Privacy Statement
+# Privacy Statement | Debate.org
 
 ## Debate.org Privacy Policy
 
-We at Debate.org, doing business as WebCorp, LLC ("we" or "WebCorp") have created this privacy policy to inform you of our commitment to protecting your personal information and inform you about how your personal information is handled. This privacy policy only applies to activity, transactions and data gathered from your activities on the Debate.org Website, between Debate.org members (collectively, the "Site") but does not apply to any other website or offline point of contact between Debate.org, WebCorp, or any other company, and consumers.
+We at Debate.org, doing business as Juggle, LLC ("we" or "Juggle") have created this privacy policy to inform you of our commitment to protecting your personal information and inform you about how your personal information is handled. This privacy policy only applies to activity, transactions and data gathered from your activities on the Debate.org Website, between Debate.org members (collectively, the "Site") but does not apply to any other website or offline point of contact between Debate.org, Juggle, or any other company, and consumers.
 
 ## About Debate.org and the Information We Collect.
 
@@ -24,11 +24,11 @@ To accept new members, we may require information that includes, but is not limi
 
 ## Legal
 
-We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims. We believe it is necessary to share information in order to prevent, investigate, or take action regarding illegal activity, suspected fraud, situations involving potential physical threats to any person, violations of our "[Terms of Use](http://www.debate.org/legal/terms/)", or as otherwise required by law.
+We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims. We believe it is necessary to share information in order to prevent, investigate, or take action regarding illegal activity, suspected fraud, situations involving potential physical threats to any person, violations of our "[Terms of Use](https://web.archive.org/legal/terms/)", or as otherwise required by law.
 
 ## Acquire or Transfer
 
-We reserve the right to transfer information about you to a successor-in-interest that acquires the right to such information by acquiring the Service, acquiring Debate.org technology and member base or any or all of WebCorp's assets pertaining to the Debate.org website, or merging with WebCorp. In any of these events, WebCorp will notify you before information about you is transferred and becomes subject to a different privacy policy.
+We reserve the right to transfer information about you to a successor-in-interest that acquires the right to such information by acquiring the Service, acquiring Debate.org technology and member base or any or all of Juggle's assets pertaining to the Debate.org website, or merging with Juggle. In any of these events, Juggle will notify you before information about you is transferred and becomes subject to a different privacy policy.
 
 ## Public Forums
 
@@ -36,7 +36,7 @@ Debate.org makes comments/message boards available to its users and all debates 
 
 ## Links
 
-This site contains links to other websites. Please be aware that WebCorp is not responsible for the privacy practices of other websites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies solely to information collected by Debate.org.
+This site contains links to other websites. Please be aware that Juggle is not responsible for the privacy practices of other websites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies solely to information collected by Debate.org.
 
 ## Communications to Non-Members
 
@@ -44,11 +44,11 @@ When you choose to use the Debate.org "Invite friends" feature, you are prompted
 
 ## Security
 
-All Member accounts are password-protected. We go to great lengths to protect the account information that you have provided us. Access to this information is limited to only the WebCorp employees who need it in order to perform their job function, such as customer service representatives. However, please note that we do not guarantee account security. Hardware or software failure, unauthorized use, and other factors may lead to a security breach. If you have any questions about this, please contact us.
+All Member accounts are password-protected. We go to great lengths to protect the account information that you have provided us. Access to this information is limited to only the Juggle employees who need it in order to perform their job function, such as customer service representatives. However, please note that we do not guarantee account security. Hardware or software failure, unauthorized use, and other factors may lead to a security breach. If you have any questions about this, please contact us.
 
 ## Your IP Address
 
-Each time you visit the Site, we automatically collect your IP address and the webpage from which you came. This is common practice for e-commerce websites in order to administer, optimize and to diagnose problems with our Site. Your IP address is used to help identify you, collect broad demographic information and to verify and track your session. This gives WebCorp an idea of which parts of our site anonymous users are visiting. We do not link IP addresses to anything personally identifiable.
+Each time you visit the Site, we automatically collect your IP address and the webpage from which you came. This is common practice for e-commerce websites in order to administer, optimize and to diagnose problems with our Site. Your IP address is used to help identify you, collect broad demographic information and to verify and track your session. This gives Juggle an idea of which parts of our site anonymous users are visiting. We do not link IP addresses to anything personally identifiable.
 
 ## Third-Party Advertising
 
@@ -67,7 +67,7 @@ If you no longer wish to receive email notifications from Debate.org, you may mo
 Debate.org provides users the following options for modifying information previously submitted.
 
   1. Modify their account they created online from their account page.
-  2. Send email via the "[Contact Form](http://www.debate.org/help/contact/?subject=1)" on the site.
+  2. Send email via the "[Contact Form](https://web.archive.org/help/contact/?subject=1)" on the site.
   3. You can send mail to our postal address.
 
 
@@ -76,11 +76,11 @@ Debate.org provides users the following options for modifying information previo
 
 If we make any material changes in our privacy practices that affect or do not affect the user information already stored in our database, we will post the change on this page. In some cases where we post the notice we will also email users, who have opted to receive communications from us, notifying them of the changes in our privacy practices.
 
-## Contacting WebCorp
+## Contacting Juggle
 
-If you have any questions about this Privacy Statement, the practices of this site, or your dealings with the Debate.org website, you can contact:
+If you have any questions about this User Agreement, the practices of this site, or your dealings with the Debate.org website, you can contact:
 
-WebCorp, LLC  
-9000 Crow Canyon Road  
-Suite S #222  
-Danville, CA 94506, USA
+Juggle, LLC  
+#33 Bronze Pointe  
+Suite 150  
+Swansea, IL 62226, USA
