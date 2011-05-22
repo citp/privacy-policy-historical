@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the menmedia.co.uk privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220061058id_/http%3A//menmedia.co.uk/manchestereveningnews/about_us/s/1241122_privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the menmedia.co.uk privacy policy that was archived on 2011-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110522132813id_/http%3A//menmedia.co.uk/manchestereveningnews/about_us/s/1241122_privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy - Manchester Evening News
+# Privacy Policy | Manchester Evening News - menmedia.co.uk
 
 At MENMedia we collect information about our users for two main reasons:
 
