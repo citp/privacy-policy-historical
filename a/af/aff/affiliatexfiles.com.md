@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the affiliatexfiles.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205064427id_/http%3A//www.affiliatexfiles.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affiliatexfiles.com privacy policy that was archived on 2011-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110522073828id_/http%3A//www.affiliatexfiles.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -32,4 +32,4 @@ Affiliate X Files might change our privacy policy from time to time and without 
 
 Thanking You For Your Time ,
 
-[](http://affiliatexfiles.s3.amazonaws.com/wp-content/uploads/2009/03/ronsig2.png)
+[](http://www.affiliatexfiles.com/wp-content/uploads/2009/03/ronsig2.png)
