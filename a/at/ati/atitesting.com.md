@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the atitesting.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212190638id_/http%3A//www.atitesting.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atitesting.com privacy policy that was archived on 2011-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110522200736id_/http%3A//www.atitesting.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | ATI
 
 ## Privacy Policy
 
