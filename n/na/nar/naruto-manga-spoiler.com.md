@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naruto-manga-spoiler.com privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126052038id_/http%3A//naruto-manga-spoiler.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naruto-manga-spoiler.com privacy policy that was archived on 2011-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110522195813id_/http%3A//naruto-manga-spoiler.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Naruto Manga
 
@@ -16,4 +16,4 @@ We use cookies to store information for your convenience to save color preferenc
 
 You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can greatly affect how you are able to interact with our site as well as most other websites. This could include the inability to login to our website for longer than a single browser session.
 
-[Click here to return to Naruto Manga Spoiler homepage](http://naruto-manga-spoiler.com/)
+[Naruto Manga Spoiler](http://naruto-manga-spoiler.com/)
