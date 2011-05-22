@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bootsnall.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223112132id_/http%3A//www.bootsnall.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bootsnall.com privacy policy that was archived on 2011-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110522195907id_/http%3A//www.bootsnall.com/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy | BootsnAll Blog
 
