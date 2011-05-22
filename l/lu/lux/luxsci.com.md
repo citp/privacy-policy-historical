@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the luxsci.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218091918id_/http%3A//luxsci.com/extranet/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luxsci.com privacy policy that was archived on 2011-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110522195923id_/http%3A//luxsci.com/extranet/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | LuxSci
 
-Version 2010.03.02
+Version 2011.03.18
 
 Lux Scientiae, Incorporated has created this privacy statement in order to demonstrate our commitment to privacy. The following discloses our information gathering and dissemination practices for this website and our services in general. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here in this policy, by email, or by means of a notice on our LuxSci FYI Blog. 
 
-[](https://clicktoverify.truste.com/pvr.php?page=validate&url=luxsci.com&sealid=102) Lux Scientiae is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site www.luxsci.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
+[](https://clicktoverify.truste.com/pvr.php?page=validate&url=luxsci.com&sealid=102)
 
-If you have questions or concerns regarding this statement, you should first contact the Lux Sceintiae Privacy Officer at "privacy-officer at luxsci.com". If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at [TRUSTe](http://watchdog.truste.com/pvr.php?page=complaint&url=luxsci.com). TRUSTe will then serve as a liaison with us to resolve your concerns.
+Lux Scientiae has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at "Lux Scientiae, PO Box 326, Westwood, MA 02090" or by sending email to "privacy-officer at Luxsci.com". If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
 
 Lux Scientiae complies with the EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union. 
 
@@ -25,6 +25,10 @@ We collect the names, addresses, phone numbers, and email addresses of our users
 ### Third Party Tracking Technologies
 
 The use of tracking technologies by our partners, tracking utility company, and service providers is not covered by our privacy statement. We do not have access or control over these cookies. Our partners, tracking utility company, and service providers may use session ID cookies to make it easier for you to navigate their web sites or to provide statistics to us on the usage of our web site. 
+
+### Web beacons 
+
+Our Web pages contain electronic images known as Web beacons (sometimes called single-pixel gifs) and are used along with cookies to compile aggregated statistics to analyze how our site is used and may be used in some of our emails to let us know which emails and links have been opened by recipients. This allows us to gauge the effectiveness of our customer communications and marketing campaigns.
 
 ### Newsletters
 
@@ -63,6 +67,10 @@ If you click on a link to a third party site, you will leave the Lux Scientiae s
 ## Updating/Accessing/Amending/Correcting Personally Identifiable Information
 
 If your personally identifiable information changes, or if you no longer desire our service and would like to have your personally identifiable information deleted, you may update it by making the change on our member profile page or by making a support ticket, or by contacting us by telephone or postal mail at the contact information listed below. We will respond to your request to access within 1 day. You can change your personal information online by logging into your "member portal", under "Account > My profile".
+
+## Data Retention
+
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at "support at LuxSci.com". We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 ## Agents/Service Providers
 
