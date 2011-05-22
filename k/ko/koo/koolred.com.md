@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the koolred.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226225602id_/http%3A//www.koolred.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the koolred.com privacy policy that was archived on 2011-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110522195928id_/http%3A//www.koolred.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Koolred - Connect, Meet and Discover
 
@@ -18,7 +18,9 @@ We collect information submitted by you such as your name, email address, age an
 
 We also collect other profile data including but not limited to: personal interests, gender, age, school and company you work for in order to assist you in finding and communicating with each other.
 
-In some cases where your privacy settings permit it (e.g., posting to your Red Wall), other Koolred Users may be able to supplement your profile with your personal information.
+In some cases where your privacy settings permit it
+
+, other Koolred Users may be able to supplement your profile with your personal information.
 
 Certain personally identifiable information such as your name and email address are also collected when you choose to participate in various activities on the site such as posting messages, uploading photos or videos, writing reviews, taking advantage of promotions, responding to surveys, or subscribing to newsletters or other mailing lists.
 
@@ -129,7 +131,9 @@ Your location information can be publicly displayed to other Users and on third-
 
 ## Chat Room, Weblogs (Blogs), Message Boards, Public Forums
 
-Any personal information or video content that you voluntarily disclose online (on the Red Wall, in messages, chat areas, on forums within your public profile page, etc) becomes publicly available and can be collected and used by others to send you unsolicited emails.
+Any personal information or video content that you voluntarily disclose online (
+
+in messages, chat areas, on forums within your public profile page, etc) becomes publicly available and can be collected and used by others to send you unsolicited emails.
 
 In this manner, Koolred will not be responsible over the security of your personal information. 
 
@@ -173,4 +177,4 @@ Users with questions about this Privacy Policy and any of the abovementioned sta
 
 **USE OF THIS SITE SIGNIFIES YOUR AGREEMENT TO THE PRIVACY POLICY**
 
-Updated: 10 August 2010
+Updated: 25 January 2011
