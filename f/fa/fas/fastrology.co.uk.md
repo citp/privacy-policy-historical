@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the fastrology.co.uk privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224134552id_/http%3A//www.fastrology.co.uk/privacy%3FID%3Dnull) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastrology.co.uk privacy policy that was archived on 2011-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110522200925id_/http%3A//www.fastrology.co.uk/privacy%3FID%3Dnull) for the most accurate reproduction.*
 
 # Privacy policy
 
 ### Fastrology Privacy Policy Statement
 
-This Privacy Policy Statement explains the data processing practices of fastrology.co.uk. If you have any requests concerning your personal information or any queries with regard to these practices please contact our Privacy Officer by e-mail at [privacy@fastrology.co.uk](mailto:privacy@fastrology.co.uk)
+This Privacy Policy Statement explains the data processing practices of fastrology.co.uk. If you have any requests concerning your personal information or any queries with regard to these practices please contact our Privacy Officer by e-mail via our [online form](https://web.archive.org/contact)
 
 ### Eligibility
 
@@ -18,14 +18,14 @@ We collect personal information from you through the use of enquiry and registra
 
 We use personal information collected via fastrology.co.uk to: 
 
-  * provide you with information about the products and services we offer 
-  * provide you with a more personalised service 
-  * conduct market research 
-  * run competitions and promotions 
-  * pass on to selected companies to provide you with other offers and promotions 
-  * help other companies profile and extend their databases 
-  * facilitate communication between yourself and others 
-  * allow us to send you, via e-mail, telephone, SMS and post, special offers and promotions from OptinData, Marketing Craze Ltd. and the Heart Research Institute. 
+  * provide you with information about the products and services we offer
+  * provide you with a more personalised service
+  * conduct market research
+  * run competitions and promotions
+  * pass on to selected companies to provide you with other offers and promotions
+  * help other companies profile and extend their databases
+  * facilitate communication between yourself and others
+  * allow us to send you, via e-mail, telephone, SMS and post, special offers and promotions from Marketing Craze Ltd and Premium Genie.
 
 
 
