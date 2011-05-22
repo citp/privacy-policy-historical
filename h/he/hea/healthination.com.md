@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthination.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227001957id_/http%3A//www.healthination.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthination.com privacy policy that was archived on 2011-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110522074646id_/http%3A//www.healthination.com/Privacy-Policy) for the most accurate reproduction.*
 
 # HealthiNation - Privacy Policy - HealthiNation.com
 
@@ -38,4 +38,4 @@ HealthiNation will not knowingly collect PII from anyone under thirteen (13) yea
 **Do we have a mechanism to address the removal, change of, or amendment to PII and complaints about the handling of information that we collect?**  
 If you wish to remove, change or amend the PII that you have submitted to HealthiNation, please send us an email requesting such removal , change or amendment to [privacy@healthination.com](mailto:privacy@healthination.com). If you have questions or concerns about any of our information collection or handling practices, please contact us at [privacy@healthination.com](mailto:privacy@healthination.com). 
 
-_**Last Updated:** June 2010_
+_**Last Updated:** November 2010_
