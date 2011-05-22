@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ihc.com privacy policy that was archived on 2010-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101217083811id_/http%3A//intermountainhealthcare.org/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ihc.com privacy policy that was archived on 2011-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110522182245id_/http%3A//intermountainhealthcare.org/info/privacy) for the most accurate reproduction.*
 
 # Intermountain Healthcare Notice of Privacy Practices - Salt Lake City, Utah
 
@@ -10,95 +10,106 @@
 
 * * *
 
-##### NOTE: Effective Nov 2004; updated Jan 2007 
+##### NOTE: Effective Nov 2004; updated Jan 2011 
 
 This notice describes how medical information about you may be used and disclosed and how you can get access to this information. Please review it carefully. 
 
-## Privacy Promise
+## Protecting Your Privacy
 
-Intermountain understands that your medical and health information is personal. Protecting your health information is important. We follow strict federal and state laws that require us to maintain the confidentiality of your health information. 
+Intermountain Healthcare (Intermountain) understands the importance and sensitivity of your health information. We protect the privacy of your health information because that is the right thing to do. We also follow federal and state laws that govern the use of your health information. We use your health information (and allow others to have it) only as permitted by federal and state laws. These laws give you certain rights regarding your health information.
 
-## Our Privacy Responsibilities
+## Your Health Information Rights
 
-Intermountain is required by law to: 
+You may: 
 
-  * Maintain the privacy of your health information; 
-  * Provide this notice that describes the ways we may use and share your health information; and 
-  * Follow the terms of the notice currently in effect. 
-
-
-
-We reserve the right to make changes to this notice at any time and make the new privacy practices effective for all information we maintain. Current notices will be posted in Intermountain facilities and on our website. You may also request a copy of any notice from the Intermountain Privacy Office. 
-
-## How We Use Your Health Information
-
-When you receive care from Intermountain, we may use your health information for treating you, billing for services, and conducting our normal business known as healthcare operations. Examples of how we use your information include: 
-
-  * **Treatment** – We keep records of the care and services provided to you. healthcare providers use these records to deliver quality care to meet your needs. For example, your doctor may share your health information with a specialist who will assist in your treatment. Some health records, including some confidential communications with a mental health professional, some substance abuse treatment records, some genetic test results, and some health information of minors may have additional restrictions on the use and disclosure under state and federal laws. 
-  * **Payment** – We keep billing records that include payment information and documentation of the services provided to you. Your information may be used to obtain payment from you, your insurance company, or other third party. We may also contact your insurance company to verify coverage for your care or to notify them of upcoming services that may need prior notice or approval. For example, we may disclose information about the services provided to you to claim and obtain payment from your insurance company or Medicare. 
-  * **Healthcare Operations** – We use health information to improve the quality of care, train staff and students, provide customer service, manage costs, conduct required business duties, and make plans to better serve our communities. For example, we may use your health information to evaluate the quality of treatment and services provided by our physicians, nurses, and other healthcare workers. 
+  * Review and get a paper copy of your medical or billing records as allowed by law, usually within 30 days of your request (you can also ask us to provide a copy on electronic media, and we will do that if we can readily produce it); 
+  * Request and be provided a paper copy of our current Notice of Privacy Practices; 
+  * Ask us to contact you at a specific address or phone number; 
+  * Request that we not share with your health plan information about certain health services or items if you pay in full for those healthcare items or services (to ensure that we don’t automatically bill your health plan for these services or items, you will need to notify Intermountain’s staff before receiving these services or items if you want this restriction); 
+  * Request and receive an accounting, as specified by law, of certain circumstances when your information is shared without your consent.. 
+  * Receive notice if Intermountain or an Intermountain business associate has improperly shared or used your health information; 
+  * Report a privacy concern and be assured that Intermountain will investigate your concern thoroughly, supporting you appropriately, and not retaliate against you in any way (in fact, Intermountain will provide you with information on how to report any privacy concerns to a local Intermountain Privacy Coordinator, the Intermountain Corporate Privacy Office, or the Office for Civil Rights, U. S. Department of Health and Human Services); and 
+  * Request in writing other restrictions on the use of your health information or amendments to your health information if you think it is wrong, though Intermountain may not always be able to grant those requests. 
 
 
 
-## Other Services We Provide
+## How Your Health Information is Used
 
-We may also use your health information to: 
+1\. Common Uses of Health Information
 
-  * Recommend treatment alternatives; 
-  * Tell you about health services and products that may benefit you; 
-  * Share information with family or friends involved in your care or payment for your care, when appropriate; 
-  * Share information with third parties who assist us with treatment, payment, and healthcare operations. Our business associates must protect your information by following our privacy practices; 
-  * Remind you of an appointment (if you do not wish to be reminded, notify the scheduler); 
-  * Include you in our patient directory for callers, visitors, and the clergy, if you are admitted to one of our inpatient facilities (if you do not wish to be listed in the directory, notify the admitting clerk); and 
-  * Contact you for Intermountain's own fundraising purposes (if you do not wish to participate, notify Intermountain at **1-800-442-4845** or the Privacy Coordinator at the facility where you received care). 
+When we care for you, we will gather some of your health information. The law allows us to use or share this health information for the following purposes: 
 
-
-
-## Sharing Your Health Information
-
-There are limited situations when we are permitted or required to disclose health information without your signed authorization. 
-
-These situations are: 
-
-  * For public health purposes such as reporting communicable diseases, work-related illnesses, or other diseases and injuries permitted by law; reporting births and deaths; and reporting reactions to drugs and problems with medical devices; 
-  * To protect victims of abuse, neglect, or domestic violence; 
-  * For health oversight activities such as investigations, audits, and inspections; 
-  * For lawsuits and similar proceedings; 
-  * When otherwise required by law; 
-  * When requested by law enforcement as required by law or court order; 
-  * To coroners, medical examiners, and funeral directors; 
-  * For organ and tissue donation; 
-  * For research approved by our review process under strict federal guidelines; 
-  * To reduce or prevent a serious threat to public health and safety; 
-  * For workers' compensation or other similar programs if you are injured at work; and 
-  * For specialized government functions such as intelligence and national security. 
+  * To understand your health condition and to treat you when you are sick. For example, we may look at your x-rays or share x-rays we take of you with your treating doctor, who may be outside of Intermountain, or we may receive your prescription information from other health services companies to help you avoid harmful drug interactions. 
+  * To bill your healthcare services and to receive payment for our services. For example, we share with and receive health information from your health insurance company and/or other health care providers to receive payment and to better manage your care. 
+  * To improve our care. For example, we may contact you to understand what you thought of our care and to learn how to enhance our services to you. 
+  * To request your support for improving healthcare by contributing to one of Intermountain’s charitable foundations. (If you don’t want to be contacted for this purpose, call Intermountain’s Privacy Office at 1-800 442-4845 to let us know). 
+  * To improve our services to you by allowing companies with whom we contract, called “business associates,” to perform certain specialized work for us. The law requires these business associates to protect your health information and obey the same privacy laws that we do. 
+  * To perform a very limited, specific type of health-related research, where the researcher keeps any patient-identifiable information safe and confidential. Intermountain reviews every research request to make sure your privacy is appropriately protected before sharing any health information. 
+  * To law enforcement, but only as authorized by law, i.e., to investigate a crime against Intermountain or any of its patients. 
 
 
 
-All other uses and disclosures, not described in this notice, require your signed authorization. You may revoke your authorization at any time with a written statement. However, Intermountain may not be able to reverse the use or disclosure of your health information while your authorization was in effect. 
+2\. Required Uses of Health Information 
 
-## Your Individual Rights
+The law sometimes requires us to share information for specific purposes, including the following: 
 
-You have the right to: 
-
-  * Request restrictions on how we use and share your health information. We will consider all requests for restrictions carefully but are not required to agree to any restriction; 
-  * Request that we use a specific telephone number or address to communicate with you; 
-  * * Request to inspect and copy your health information, including medical and billing records. Fees may apply. Under limited circumstances, we may deny you access to a portion of your health information and you may request a review of the denial; 
-  * * Request corrections or additions to your health information.; 
-  * * Request an accounting of certain disclosures of your health information made by us. The accounting does not include disclosures made for treatment, payment, and healthcare operations and some disclosures required by law. Your request must state the period of time desired for the accounting, which must be within the six years prior to your request and exclude dates prior to April 14, 2003. The first accounting is free but a fee will apply if more than one request is made in a 12-month period; and 
-  * Request a paper copy of this notice even if you agree to receive it electronically. 
-  * Requests marked with a star (*) must be made in writing. Contact the Intermountain Privacy Office for the appropriate form for your request 
-
-
-
-## Our Organization
-
-This notice describes the privacy practices of IHC Health Services, Inc. Intermountain Healthcare includes hospitals, clinics, doctor offices, and other healthcare facilities owned by IHC Health Services, Inc., as well as the Intermountain employees and volunteers at those facilities. This notice also describes the privacy practices of affiliated providers while they are performing services in an Intermountain facility, unless they provide you with a notice of their specific privacy practices. Affiliated providers are not employed by Intermountain but are either authorized to provide services to patients in an Intermountain facility or are approved participants on the panel of SelectHealth providers. 
-
-  1. More information about [SelectHealth privacy practices](http://selecthealth.org/plans/individual/services/Pages/Privacy.aspx). 
-  2. For information regarding privacy practices on Intermountain's public website, review [Detailed Notice of Privacy Practices](https://web.archive.org/info/privacy/Pages/detailed.aspx). 
+  * To the Department of Health to report communicable diseases, traumatic injuries, or birth defects, or for vital statistics, such as a baby’s birth; 
+  * To a funeral director or an organ-donation agency when a patient dies, or to a medical examiner when appropriate to investigate a suspicious death; 
+  * To the appropriate governmental agency if an injury or unexpected death occurs at an Intermountain facility; 
+  * To state authorities to report child or elderly abuse; 
+  * To governmental inspectors who, for example, make sure our facilities are safe; 
+  * Under certain conditions, to military command authorities or the Department of Veterans Affairs, for patients who are in the military or veterans; 
+  * To a correctional institution, if a patient is an inmate, to ensure the correctional institution’s safety; 
+  * To the Secret Service or NSA to protect, for example, the country or the President; 
+  * To a medical device’s manufacturer, as required by the FDA, to monitor the safety of a medical device; 
+  * To court officers, as required by law, in response to a court order or a valid subpoena; 
+  * To governmental authorities to prevent serious threats to the public’s health or safety; 
+  * To governmental agencies and other affected parties, to report a breach of health-information privacy; 
+  * To an employer, but only if the employer contracts with us to help the employer meet OSHA requirements about workplace and employee safety; and 
+  * To a worker’s compensation program if a person is injured at work and claims benefits under that program. 
 
 
+
+3\. Uses According to Your Requests 
+
+Your preferences matter. If you let us know how you want us to disclose your information in the following situations, we will follow your directions: 
+
+  * When you are in the hospital, you decide if you want callers or visitors to know how to reach you. When you’re admitted, you will be asked if you want to be in the “hospital directory”. If you say “yes”, the hospital can tell visitors who ask for you by name how to find you or talk to you. The hospital may also tell the visitor — only in general terms — how you are doing. If you say “no”, the hospital won’t let any visitor know you are in the hospital and won’t direct phone calls or flowers to you. 
+  * You decide if you want us to share any health or payment information related to your care with your family members or friends. Please let our Intermountain employees know what you want us to share. If you can’t tell us what health or payment information you want us to share, we may use our professional judgment to decide what to share with your family or friends for them to be able to help you. 
+  * You decide who we should contact in an emergency. But if you aren’t able to tell us who to contact, we may ask the public authorities to help. For example, we may ask the police to help find your family or, in a disaster, we may help the Red Cross reconnect you with your family. 
+  * You decide if you want to indicate your religious preference when you are admitted to one of our facilities. If you indicate your religious preference, we may provide your name to a visiting representative of your religion. But if you don’t want that, tell our staff at any time that you do not want us to share your name with a religious representative. 
+  * You decide if you don’t want us to remind you of your upcoming appointments. When you make an appointment, let the scheduling staff know that you don’t want these reminders. 
+  * You decide if you don’t want to receive marketing information about non-Intermountain Healthcare products or services when they become available. In general, Intermountain is not paid to provide this information to you. If you don’t want to receive marketing information about non-Intermountain products or services, let us know by calling 1(800) 442-4845. 
+
+
+
+4\. Uses with Your Authorization
+
+Any sharing of your health information, other than as explained above, requires your written authorization. For example, we will not use your health information unless you authorize us in writing to: 
+
+  * Share any of your psychotherapy notes, if they exist, with a third party; 
+  * Share any of your health information with marketing companies; or 
+  * Sell any of your health information. 
+
+
+
+You can change your mind at any time about sharing your health information with an authorization. Simply notify in writing the Intermountain facility that has your authorization on file. Please understand that we may not be able to get back health information that was shared before you changed your mind.
+
+5\. Special Legal Protections for Certain Health Information 
+
+Intermountain complies with federal laws that require extra protection for your health information if you receive treatment in an addiction treatment program, or from a psychotherapist who keeps notes on your therapy that are kept outside of your regular medical record. 
+
+## If You Still Have Questions
+
+Intermountain’s Privacy Coordinators can help you with any questions you may have about the privacy of your health information. They can also address any privacy concerns you may have about your health information and can help you fill out any forms that are needed to exercise your privacy rights. If you are at an Intermountain facility, please ask one of our staff members to help you contact a local Privacy Coordinator, or call (800) 442-4845 to reach Intermountain’s Privacy Office. 
+
+This privacy notice became effective on January 01, 2011. We may change this privacy notice at any time, and we may use new ways to protect your health information. We always post our current privacy notice in our hospitals, clinics, and on our website at IntermountainHealthcare.org. 
+
+You can also obtain a copy of this notice from any of Intermountain’s staff by asking for a copy, by visiting our website, or by calling Intermountain’s Privacy Office at (800) 442-4845. 
+
+This notice of privacy practices describes the practices of Intermountain and of Intermountain’s employees and volunteers working in its hospitals, clinics, doctors’ offices, service departments. This notice also describes the privacy practices of affiliated healthcare providers — who are not employees of Intermountain — while treating you in an Intermountain facility, unless they provide you with a notice of their own privacy practices. (For more information about the specific privacy practices of affiliated providers, please contact them directly.) 
+
+For more information about [SelectHealth privacy practices](http://selecthealth.org/plans/individual/services/Pages/Privacy.aspx). 
 
 ## Contact Us
 
@@ -121,9 +132,7 @@ We will investigate all complaints and will not penalize or treat you any differ
 
 **Proprietary Information** – In addition to the publicly available information, [intermountainhealthcare.org](https://web.archive.org/) also provides access to personal health-related information to those who provide the necessary information to make that possible. For example, in the "My Health" section on intermountainhealthcare.org, a user can view his or her personal online health records, provided that they have registered and logged in a user name and password. 
 
-**System Security** – Intermountain has taken reasonable steps and has employed industry-standard practices and technology to ensure the integrity and confidentiality of personally identifiable information; but because even the most secure computer system can be violated, Intermountain cannot guarantee security. 
-
-**HIPAA Requirements** – Protected health information associated with [intermountainhealthcare.org](https://web.archive.org/) is managed in accordance with HIPAA regulations. Accordingly, protected health information is not shared except as explained in the Notice of Privacy Practices above. Download the following form in English, or Spanish: 
+**System Security** – Intermountain has taken reasonable steps and has employed industry-standard practices and technology to ensure the integrity and confidentiality of personally identifiable information; but because even the most secure computer system can be violated, Intermountain cannot guarantee security.  
 
 **Third Party Services** – [Intermountainhealthcare.org](https://web.archive.org/) offers the opportunity to apply online for employment with Intermountain. This online employment service is provided through a third party entity ("Taleo") under contract with Intermountain. A statement of Taleo's privacy practices can be accessed and viewed online: 
 
