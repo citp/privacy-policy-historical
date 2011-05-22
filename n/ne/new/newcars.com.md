@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newcars.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122081905id_/http%3A//www.newcars.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newcars.com privacy policy that was archived on 2011-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110522200828id_/http%3A//www.newcars.com/privacy) for the most accurate reproduction.*
 
 # NewCars.com Privacy Policy
 
@@ -38,7 +38,7 @@ We use third party sales representatives, including our affiliated newspaper and
 | 
 
 4\. Communications  
-We may use personally identifiable information to communicate with you regarding our services and other services that may be of interest to you. For example, when you submit a quote request, you may receive the following e-mail notifications from us: (1) if your car quote request was processed successfully, we will give you information about the affiliated dealer(s) to whom we sent your request ; (2) if we cannot find an affiliated dealer that is able to fulfill your request, we will give you information about the third-party provider to whom we sent your request ; and (3) if your car quote request could not be fulfilled by an affiliated dealer or a third-party provider, we will refer you to one of our online partners. We, and in some instances, our Sales Representatives, also may contact you to learn more about your experiences in using the Site and our service. With respect to any commercial e-mail marketing from us, you will have the opportunity to unsubscribe from such communications at any time.
+We may use personally identifiable information to communicate with you regarding our services and other services that may be of interest to you. For example, when you submit a quote request, you may receive the following e-mail notifications from us: (1) if your car quote request was processed successfully, we will give you information about the affiliated dealer(s) to whom we sent your request; (2) if we cannot find an affiliated dealer that is able to fulfill your request, we may give you information about the third-party provider to whom we sent your request; and (3) if your car quote request could not be fulfilled by an affiliated dealer or a third-party provider, we may refer you to one of our online partners. We, and in some instances, our Sales Representatives, also may contact you to learn more about your experiences in using the Site and our service. With respect to any commercial e-mail marketing from us, you will have the opportunity to unsubscribe from such communications at any time.
 
 5\. Service Providers  
 We may disclose personally identifiable information to third-party agents, consultants, and contractors that perform services on our behalf, but only for such purposes.
@@ -76,4 +76,4 @@ Questions
 
 If you have any questions about this privacy statement, please [e-mail us](https://web.archive.org/contact).
 
-_Last updated: September 24, 2009_
+_Last updated: December 3, 2010_
