@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kbtx.com privacy policy that was archived on 2010-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100921211851id_/http%3A//www.kbtx.com/unclassified/34218884.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kbtx.com privacy policy that was archived on 2011-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110522135646id_/http%3A//www.kbtx.com/unclassified/34218884.html) for the most accurate reproduction.*
 
 # GRAY TELEVISION, INC. PRIVACY POLICY AND YOUR PRIVACY RIGHTS
 
