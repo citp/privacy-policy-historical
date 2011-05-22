@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jailbase.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522213655id_/http%3A//www.jailbase.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jailbase.com privacy policy that was archived on 2011-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110522050059id_/http%3A//jailbase.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy | JailBase
 
@@ -31,7 +31,7 @@ All registered users may review, update, correct or delete the Personal Informat
 JailBase is very concerned with safeguarding your information. We employ reasonable measures designed to protect your information from unauthorized access. 
 
 6\. Our Policy Toward Children   
-This Site is not directed to children under 18. We do not knowingly collect personally identifiable information from children under 13. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact us at JailBase.support@gmail.com. If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files. 
+This Site is not directed to children under 18. We do not knowingly collect personally identifiable information from children under 13. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact us at JailBase.support@jailbase.com. If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files. 
 
 7\. Contacting Us   
-If you have any questions about this Privacy Policy, please contact us at JailBase.support@gmail.com. 
+If you have any questions about this Privacy Policy, please contact us at JailBase.support@jailbase.com. 
