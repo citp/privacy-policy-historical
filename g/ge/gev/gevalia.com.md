@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gevalia.com privacy policy that was archived on 2010-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101112071058id_/http%3A//www.gevalia.com/privacy-notice.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gevalia.com privacy policy that was archived on 2011-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110522203216id_/http%3A//www.gevalia.com/privacy-notice.aspx) for the most accurate reproduction.*
 
 # Privacy Notice
 
@@ -51,32 +51,39 @@ Certain pages on our website may contain web beacons (also known as Internet tag
 
 ## Information We Share
 
+  
 We may share the information you provide through this website with service providers that have been retained to perform services on our behalf. These service providers are not authorized to use or disclose the information except as necessary to perform services on our behalf or comply with legal requirements. We also may share the information you provide among our affiliated companies, like Tassimo. In addition, we may share the information with our joint marketing partners and other third parties (through list rentals or data cooperatives, for example) that we believe offer products or services that might interest you. If you order a product or service from Webloyalty, Reservation Rewards, Shopper Discounts and Rewards, or Travel Values Plus, we share your contact and payment card information with these organizations only after you have accepted an offer from them. We also may disclose information about you (i) if we are required to do so by law or legal process, (ii) to law enforcement authorities or other government officials or (iii) when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss or in connection with an investigation of suspected or actual illegal activity.
 
 We reserve the right to transfer any information we have about you in the event we sell or transfer all or a portion of our business or assets. Should such a sale or transfer occur, we will use reasonable efforts to direct the transferee to use information you have provided to us in a manner that is consistent with this Privacy Notice.
 
 ## For California Residents
 
+  
 If you are a California resident, you may ask us to refrain from sharing your information (whether collected online or offline) with affiliates or others for their marketing purposes. Please tell us if you would like us to refrain from doing so by contacting us as described in the "How to Contact Us" section of this Notice. 
 
 ## Links to Other Websites
 
+  
 Our website provides links to other websites for your convenience and information. These websites may operate independently from Gevalia. Linked sites may have their own privacy notices or policies, which we strongly suggest you review. We are not responsible for the content of linked websites, any use of linked websites or their privacy practices. 
 
 ## How We Protect Personal Information
 
+  
 We maintain administrative, technical and physical safeguards to protect against loss, misuse or unauthorized access, disclosure, alteration or destruction of the information you may provide on our website. We use secure sockets layer (or SSL) to protect the transmission over the Internet of payment card information. 
 
 ## Your Choices
 
+  
 If you would like to update the contact information you provided through this website, or to manage your account online, click here. To update your preferences or request that we refrain from contacting you, please contact us as indicated below. 
 
 ## Updates to Our Privacy Notice
 
+  
 This Privacy Notice may be updated periodically and without prior notice to you, to reflect changes in our information practices on this website. We will inform you of such changes by indicating at the top of this Notice the date when it was most recently updated. 
 
 ## How to Contact Us
 
+  
 If you have any questions or comments about this Privacy Notice, or if you would like us to update information we have about you or your preferences, please contact us at:
 
 > The Gevalia Kaffe  
