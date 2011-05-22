@@ -1,13 +1,11 @@
-<!--The following is the downloaded HTML source of the vuze.com privacy policy that was archived on 2010-05-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100528152356id_/http%3A//www2.vuze.com/corp/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vuze.com privacy policy that was archived on 2011-05-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110522192344id_/http%3A//www.vuze.com/corp/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
-    <title>Vuze - Privacy</title>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <meta name="keywords" content="BitTorrent, bt, torrent, java, client, azureus, vuze">
-    <meta name="description" content="Vuze is the easiest way to find, download,and play HD movies, TV and videos. Download and stream using the most powerful p2p bittorrent app in the world.">
-    <link rel="stylesheet" href="/css/reset-fonts-base.css" type="text/css">
-    <link rel="stylesheet" href="/css/new/style.css" type="text/css">
+<meta name="keywords" content="vuze, plus, vuze plus, bittorrent, client, bittorrent client, search, find, download, play, dvd, antivirus, torrent, java, azureus, bt">
+<meta name="description" content="Vuze is the easiest way to find, download, and play HD video. Download using the most powerful p2p bittorrent app in the world.">    <title>Vuze - Privacy</title>
+    <link rel="stylesheet" href="/min/g=cssBase" type="text/css">
     <!--[if lte IE 7]>
     <link rel="stylesheet" href="/css/new/ie7.css" type="text/css" />
     <![endif]-->
@@ -21,7 +19,17 @@
     </head>    <body class="corp">
         <div id="internat">
     <div id="internat_inner">
-        <a href="#" id="int_link"><span>English</span></a>
+        <a href="?lang=en_US" id="int_link"><span>English</span></a>
+        <ul id="internat_select" style="display:none">
+                        <li><a href="?lang=fr_FR"><span title="French">Français</span></a></li>
+                        <li><a href="?lang=de_DE"><span title="German">Deutsch</span></a></li>
+                        <li><a href="?lang=es_ES"><span title="Spanish">Español</span></a></li>
+                        <li><a href="?lang=pt_BR"><span title="Portuguese (BR)">Português (BR)</span></a></li>
+                        <li><a href="?lang=zh_CN"><span title="Chinese (Simplified)">简体中文</span></a></li>
+                        <li><a href="?lang=ko_KR"><span title="Korean">한국어</span></a></li>
+                        <li><a href="?lang=ja_JP"><span title="Japanese">日本語</span></a></li>
+                        <li><a href="?lang=ru_RU"><span title="Russian">Русский</span></a></li>
+                    </ul>
     </div>
 </div>
 <div id="header">
@@ -30,103 +38,44 @@
       <li><a href="/">Home</a></li>
       <li><a href="/features.php">Features</a></li>
       <li><a href="/support">Support</a></li>
-      <li>
-        <a class="dl_btn" id="dl_link1" href="#" vzsource="header">
-    <span class="dl_btn_text" id="dl_btn_text1"></span>
+      <li style="display:none"><a href="/community">Community</a></li>
+            <li>
+        <a class="dl_btn" id="dl_link0" href="http://azureus.sourceforge.net/download.php?os=1" vzsource="header">
+    <span class="dl_btn_text" id="dl_btn_text0"></span>
 </a>
-<script type="text/javascript">
-if(!window.downloadButtonsTracker){
+
+    <script type="text/javascript">
+
     var downloadButtonsTracker = new GAEventTracker("DownloadVuzeButtons")
-    window.buttonNeedsTracking = true
-}
-
-if(typeof window.dlDotCom == "undefined"){
-    var dlDotCom = false;
-}
-
-if(window.buttonNeedsTracking){
-Event.observe(document, 'dom:loaded', function() {
-
-    var dl_url = 'http://hwcdn01.vuze.com/files/' ;
-    var dl_ver = '4.4.0.0';
-    var dl_file = 'Vuze_';
-    var dl2_url = '';
-
-    var os;
-    var default_action = "click"
-    switch(_OS){
-            case "Mac":
-                    if( dlDotCom ) {
-                        default_action = "click-redirect"
-                            dl_url = 'redirect.php?url=' + encodeURIComponent('http://download.cnet.com/Vuze/3000-2196_4-48244.html?part=dl-6257479&subj=dl&tag=button');
-                            dl_file = '';
-                    } else {
-                            dl_file += 'Installer.dmg';
-                            dl2_url = ''
-                    }
-                    os = _OS;
-                    break;
-            case "Linux":
-                    dl_file += 'Installer.tar.bz2';
-                    os = _OS;
-                    break;
-            case "Windows":
-                    if( dlDotCom ) {
-                        default_action = "click-redirect"
-                            dl_url = 'redirect.php?url=' + encodeURIComponent('http://download.cnet.com/Vuze/3000-2196_4-10295479.html?part=dl-6257479&subj=dl&tag=button');
-                            dl_file = '';
-                    } else {
-                            dl_file += 'Installer.exe';
-                            dl2_url = ''
-                    }
-                    os = 'PC';
-                    break;
-    }
-
-    $$('span.dl_btn_text').invoke('update', 'Version ' + dl_ver.substring(0,3) + ' (' + os + ')');
-
-    $$("a.dl_btn")
-        .invoke('observe', 'click',
-             installerTracker.track.bind(installerTracker,{action:"",label:_OS}) )
-        .invoke('observe', 'click', function(event){
-            var element = event.findElement('A');
-             downloadButtonsTracker.track({action: default_action,label: element.readAttribute("vzsource")})
-         })
-        .invoke('writeAttribute', 'href', (dl2_url != '') ? dl2_url : (dl_url+dl_file))
     
-    downloadButtonsTracker.track({action: "impression",label: "header"})
+    Event.observe(document, 'dom:loaded', function() {
 
+        var buttonTracker = downloadButtonsTracker;
 
+        $$( 'span.dl_btn_text').invoke('update', 'Version 4.6 ( unknown )');
 
-    
-});
-} else {
-    window.buttonNeedsTracking = false
-}
-if(typeof log4js != "undefined") log4js.debug("referrer: " + "")
-if(typeof log4js != "undefined") log4js.debug("domain: " + "")
+        $$("a.dl_btn")
+                .invoke('observe', 'click',
+                    installerTracker.track.bind(installerTracker,{action:"",label:"unknown"}) )
+                .invoke('observe', 'click', function(event){
+                    var element = event.findElement('A');
+                    buttonTracker.track({action: "click",label: element.readAttribute("vzsource")})
+                })
+
+        buttonTracker.track({action: "impression",label: "header"})
+
+        
+    });
+            
+    if(typeof log4js != "undefined") log4js.debug("referrer: " + "http://www.vuze.com/")
+    if(typeof log4js != "undefined") log4js.debug("domain: " + "")
 </script>
-      </li>
-  </ul>
+          </li>
+        </ul>
 </div>
        <div class="staticContent">
 
-            <div id="about_menu">
-    <h3>About Vuze</h3>
-    <div id="about_inner">
-        <a href="/corp/about.php">Company</a>
-        <a href="http://blog.vuze.com/" target="_blank">Blog</a>
-        <a href="/corp/management.php">Team</a>
-        <a href="/corp/investors.php">Investors</a>
-        <a href="/corp/board.php">Board Members</a>
-        <a href="/corp/technology.php">Technology</a>
-        <a href="/corp/press.php">Press</a>
-        <a href="/corp/contributors.php">Contributors</a>
-        <a href="/corp/jobs.php">Jobs</a>
-        <a href="/corp/inquiry.php">Business Inquiry</a>
-        <a href="/corp/affiliate.php" class="last">Become an Affiliate</a>
-    </div>
-</div>            <div class="content">
+                        <div class="content">
 <h2>Vuze Platform Privacy Notice</h2>
 <p>Welcome to the Vuze, Inc. ("Vuze") applications, platform, web site (www.vuze.com), and any other web sites, applications, or services operated or produced by Vuze (collectively, the "Vuze Platform").  Vuze values the privacy of the users, subscribers, publishers, members, and others who visit and use the Vuze Platform (collectively or individually, "You" or "Users").</p>
 <p>By using the Vuze Platform, you expressly consent to the information handling practices described in this notice.</p>
@@ -202,7 +151,7 @@ if(typeof log4js != "undefined") log4js.debug("domain: " + "")
 <p>Privacy Notice last modified on July 10, 2008.</p>
 
 <h3><a name="11"></a>11. Vuze Contact Information:</h3>
-<p>Please contact Vuze with any questions or comments about this Privacy Notice, your personal information, and our third-party disclosure practices or your consent choices <a href="/corp/inquiry.php">through our online web form</a> or by mail at:  4 W. 4th Avenue, Suite 401, San Mateo, CA 94402. We will respond to your inquiry as promptly as possible.</p>
+<p>Please contact Vuze with any questions or comments about this Privacy Notice, your personal information, and our third-party disclosure practices or your consent choices <a href="/corp/inquiry.php">through our online web form</a> or by mail at:  489 S. El Camino Real, San Mateo, CA 94402. We will respond to your inquiry as promptly as possible.</p>
 	</div>
        <div class="clr"></div>
 
@@ -210,18 +159,17 @@ if(typeof log4js != "undefined") log4js.debug("domain: " + "")
         <div id="footer">
 
     <div id="footer_rounded">
+    <div id="footer_rounded_inner">
 
     <ul>
         <li>
             <em>About Vuze</em>
-            <a href="/corp/">The Company</a>
-            <a href="/corp/management.php">The Team</a>
-            <a href="/corp/technology.php">Our Technology</a>
-            <a href="/corp/jobs.php">Jobs</a>
-            <a href="http://blog.vuze.com">Vuze Blog</a>
+            <a href="/corp/technology.php">Technology</a>
+            <a href="/corp/contributors.php">Contributors</a>
+            <a href="http://blog.vuze.com">Blog</a>
             <!--a href="/corp/awards.php">Awards</a-->
         </li>
-        <li>
+        <li id="legal">
             <em>Legal</em>
             <a href="/corp/privacy.php">Privacy Policy</a>
             <a href="/corp/terms.php">Terms of Service</a>
@@ -234,17 +182,15 @@ if(typeof log4js != "undefined") log4js.debug("domain: " + "")
             <a href="/support/">Support</a>
             <a href="http://forum.vuze.com">Forums</a>
             <a href="http://wiki.vuze.com">Wiki</a>
-            <a href="http://faq.vuze.com">FAQ</a>
         </li>
     </ul>
 
     <ul class="right">
         <li id="blogies">
             <em>Latest Blog Posts</em>
+            <a href="http://blog.vuze.com/2010/08/05/android-faster-downloads-library-love/">Android, Faster Downloads, Library Love!</a>
+            <a href="http://blog.vuze.com/2010/04/06/to-utility-and-beyond/">To Utility and beyond!</a>
             <a href="http://blog.vuze.com/2010/04/06/play-it-fast-play-it-safe-play-it-anywhere/">Play it fast. Play it safe. Play it anywhere.</a>
-            <a href="http://blog.vuze.com/2010/02/01/vuze-remote-and-faster-downloads/">Vuze Remote and Faster Downloads</a>
-            <a href="http://blog.vuze.com/2009/12/10/better-search/">Better Search</a>
-            <a href="http://blog.vuze.com/2009/11/19/quick-fixes-vuze-4302/">Quick Fixes – Vuze 4.3.0.4</a>
         </li>
         <li>
             <em>Keep in Touch</em>
@@ -252,11 +198,12 @@ if(typeof log4js != "undefined") log4js.debug("domain: " + "")
             <a href="http://facebook.com/vuzehd" class="fbook">Become a Fan</a>
         </li>
     </ul>
+        <div style="clear:both"></div>
+    </div>
     </div>
 
             <div id="copyright_text">
-            © 2003-2010 Vuze, Inc. All Rights Reserved.
-        </div>
+            © 2003-2011 Vuze, Inc. All Rights Reserved.        </div>
     </div>
 
 
