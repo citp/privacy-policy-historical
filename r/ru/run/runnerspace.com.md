@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the runnerspace.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225170411id_/http%3A//www.runnerspace.com/index.php%3Fdo%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the runnerspace.com privacy policy that was archived on 2011-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110522195808id_/http%3A//www.runnerspace.com/index.php%3Fdo%3Dprivacy) for the most accurate reproduction.*
 
-# RunnerSpace.com | Privacy Policy
+# RunnerSpace.com - Privacy Policy
 
 **RunnerSpace.com Privacy Policy**
 
