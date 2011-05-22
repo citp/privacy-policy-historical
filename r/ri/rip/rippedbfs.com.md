@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rippedbfs.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120223245id_/http%3A//www.rippedbfs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rippedbfs.com privacy policy that was archived on 2011-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110522122359id_/http%3A//rippedbfs.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
