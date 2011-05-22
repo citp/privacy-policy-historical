@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vapeworld.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204180920id_/http%3A//www.vapeworld.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vapeworld.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523015439id_/http%3A//www.vapeworld.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
