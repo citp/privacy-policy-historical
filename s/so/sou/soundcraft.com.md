@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soundcraft.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204065727id_/http%3A//www.soundcraft.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soundcraft.com privacy policy that was archived on 2011-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110522200142id_/http%3A//www.soundcraft.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Soundcraft [Homepage]
 
