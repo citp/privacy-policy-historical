@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cybertheater.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225130352id_/http%3A//www.cybertheater.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cybertheater.com privacy policy that was archived on 2011-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110522044548id_/http%3A//www.cybertheater.com/about/privacy) for the most accurate reproduction.*
 
-# Privacy « CyberTheater.com
+# Privacy | CyberTheater.com
 
 Cybertheater.com takes peoples privacy very seriously.
 
