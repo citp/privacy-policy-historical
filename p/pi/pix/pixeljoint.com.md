@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pixeljoint.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206203100id_/http%3A//www.pixeljoint.com/pixels/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pixeljoint.com privacy policy that was archived on 2011-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110522200857id_/http%3A//www.pixeljoint.com/pixels/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement
 
