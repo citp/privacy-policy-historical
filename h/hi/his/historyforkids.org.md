@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the historyforkids.org privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203085026id_/http%3A//www.historyforkids.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the historyforkids.org privacy policy that was archived on 2011-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110522050103id_/http%3A//www.historyforkids.org/privacy.htm) for the most accurate reproduction.*
 
 # Privacy policy - History for Kids!
 
-* * *
-
-Historyforkids! is very conscious of the need for extra privacy precautions in a site where many children visit. We therefore do not collect any personal information about anyone who visits the site. We don't know your name or where you live or how old you are, and we don't want to know. Our estimates of who visits the site are based on anonymous polls. 
+Kidipede is very conscious of the need for extra privacy precautions in a site where many children visit. We therefore do not collect any personal information about anyone who visits the site. We don't know your name or where you live or how old you are, and we don't want to know. Our estimates of who visits the site are based on anonymous polls. 
 
 ## Our ad servers want us to post their policy too:
 
