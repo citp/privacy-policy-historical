@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onedirectionmusic.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229160307id_/http%3A//www.sonymusic.co.uk/texts/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onedirectionmusic.com privacy policy that was archived on 2011-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110522100509id_/http%3A//www.sonymusic.co.uk/texts/privacy) for the most accurate reproduction.*
 
 # Sony Music UK | SONY MUSIC ENTERTAINMENT UK PRIVACY POLICY
 
@@ -69,16 +69,16 @@ We may modify, alter or otherwise update this privacy policy at any time. We wil
 
 |  | 
 
-24/12/2010
+21/05/2011
 
-Diana Vickers:
+Foo Fighters:
 
-Alexandra Burke:
+20/05/2011
 
-23/12/2010
+JLS:
 
-Michael Jackson:
+The Vaccines:
 
-Leona Lewis:
+The Script:
 
-Diana Vickers:
+Paloma Faith:
