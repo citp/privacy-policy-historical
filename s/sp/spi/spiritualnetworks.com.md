@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the spiritualnetworks.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226015803id_/http%3A//spiritualnetworks.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spiritualnetworks.com privacy policy that was archived on 2011-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110522200750id_/http%3A//spiritualnetworks.com/policy) for the most accurate reproduction.*
 
-# Privacy Policy » Spiritual Networks | Spirituality, Metaphysics, New Age & More
+# Privacy Policy » Spiritual Networks - Social Networking Site and Online Community
 
 **Spiritual Network's Privacy Policy**
 
@@ -79,10 +79,10 @@ USA
 
  **Privacy Policy Customer Pledge**
 
-We pledge to you, our customer, that we have made a dedicated effort to bring our privacy policy in line with the the following important privacy laws and initiatives:  
+We pledge to you, our members, that we have made a dedicated effort to bring our privacy policy in line with the the following important privacy laws and initiatives:  
 Childrens Online Privacy Protection Act  
 Privacy Alliance 
 
-Respectfully,   
-Spiritual Networks   
+Much love,   
+SN   
 6.20.2010 
