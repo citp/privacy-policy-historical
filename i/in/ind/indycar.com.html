@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the indycar.com privacy policy that was archived on 2010-11-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101124062349id_/http%3A//www.indycar.com/default/content/34663-privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the indycar.com privacy policy that was archived on 2011-05-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110522182153id_/http%3A//www.indycar.com/default/content/34663-privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
   <style type="text/css"> @import '/css/style.css';</style>
@@ -14,6 +14,7 @@
 <!--[if lte IE 6]><link rel="stylesheet" href="/css/ie6.css" type="text/css" media="screen"/><![endif]-->
 <!--[if gte IE 6]><link rel="stylesheet" href="/css/ie.css" type="text/css" media="screen"/><![endif]-->
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/js/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" src="/js/cycle.js"></script>
 <script type="text/javascript" src="/js/jquery-ui.min.js"></script>
 <script type="text/javascript" src="/js/fancybox/jquery.easing-1.3.pack.js"></script>
 <script type="text/javascript" src="/js/fancybox/jquery.mousewheel-3.0.2.pack.js"></script>
@@ -84,6 +85,12 @@
         jQuery(this).val("");
       }
     });
+    
+    $("#email2").focus(function() {
+      if (jQuery(this).val() == 'Email Address') {
+        jQuery(this).val("");
+      }
+    });
 
     $("a.live_stream").fancybox({ 
       'autoScale':false, 
@@ -94,7 +101,7 @@
 
   });
 var addthis_share = {
-  templates: { twitter: '{{title}} {{url}} via @IndyCarNation' }
+  templates: { twitter: '{{title}} {{url}} via @IndyCar' }
 }
 </script>
 
@@ -154,6 +161,8 @@ var addthis_share = {
 
 <script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js"></script>
 
+
+
 <script type="text/javascript">
   GS_googleAddAdSenseService("ca-pub-7751407004391358");
   GS_googleEnableAllServices();
@@ -164,6 +173,27 @@ var addthis_share = {
   GA_googleAddSlot("ca-pub-7751407004391358", "ICS-BottomRight-Homepage-234x60");
   GA_googleAddSlot("ca-pub-7751407004391358", "ICS-Middle-Homepage-250x250");
   GA_googleAddSlot("ca-pub-7751407004391358", "ICS-Top-Homepage-728x90");
+  GA_googleAddSlot("ca-pub-7751407004391358", "ICS-Centerpage");
+
+  GA_googleAddSlot("ca-pub-7751407004391358", "INDYCAR-Homepage-234x90-BottomRight");
+  GA_googleAddSlot("ca-pub-7751407004391358", "INDYCAR-Homepage-728x90-Bottom");
+  GA_googleAddSlot("ca-pub-7751407004391358", "INDYCAR-Homepage-728x90TOP");
+  
+  GA_googleAddSlot("ca-pub-7751407004391358", "INDYCAR-Schedule-234x90-BottomRight");
+  GA_googleAddSlot("ca-pub-7751407004391358", "INDYCAR-Schedule-250x250-RightRail");
+  GA_googleAddSlot("ca-pub-7751407004391358", "INDYCAR-Schedule-728x90-Bottom");
+  GA_googleAddSlot("ca-pub-7751407004391358", "INDYCAR-Schedule-728x90-Top");
+  
+  GA_googleAddSlot("ca-pub-7751407004391358", "INDYCAR-PENSKE-728x90-TOP");
+  GA_googleAddSlot("ca-pub-7751407004391358", "INDYCAR-PENSKE-728x90-Bottom");
+  GA_googleAddSlot("ca-pub-7751407004391358", "INDYCAR-PENSKE-250x250-RRail");
+  GA_googleAddSlot("ca-pub-7751407004391358", "INDYCAR-PENSKE-234x90");
+  
+  GA_googleAddSlot("ca-pub-7751407004391358", "INDYCAR-POWER-728x90-Top");
+  GA_googleAddSlot("ca-pub-7751407004391358", "INDYCAR-POWER-728x90-Bottom");
+  GA_googleAddSlot("ca-pub-7751407004391358", "INDYCAR-POWER-250x250-RRail");
+  GA_googleAddSlot("ca-pub-7751407004391358", "INDYCAR-POWER-234x90-Bottom");
+
 </script>
 
 <script type="text/javascript">
@@ -172,7 +202,7 @@ var addthis_share = {
 
 </head>
 <body class="toolbar-max">
-	
+
 <ul id="acc-links">
 	 <li><a href="#main-nav">Skip to Navigation</a></li>
 	 <li><a href="#content">Skip to Content</a></li>
@@ -180,7 +210,7 @@ var addthis_share = {
 
 
 <div id="toolbar" class="clearfix ">
-  <h1><a href="http://indycarnation.indycar.com/?key=e2d596b2dfdcbb6805a69cd11b1af88d" title="Free Live Video Streaming, Timing, Scoring, Fantasy League
+  <h1><a href="http://indycarnation.indycar.com/?key=e2d596b2dfdcbb6805a69cd11b1af88d" title="Timing, Scoring, Fantasy League
   and much more!">INDYCARNATION</a></h1>
   <ul id="nav-toolbar">
     <li class="no_arrow">
@@ -221,7 +251,7 @@ var addthis_share = {
 	      <ul>
 		    
 			<li class="share-flogs"><a href="http://www.flogs.com/c/IndyCar_Series/99359&amp;partner=irl" title="Share via Flogs" target="_blank">Flogs</a></li>
-			<li class="share-twitter"><a href="http://www.twitter.com/indycarnation/" title="Share via Twitter" target="_blank">Twitter</a></li>
+			<li class="share-twitter"><a href="http://www.twitter.com/indycar/" title="Share via Twitter" target="_blank">Twitter</a></li>
 			<li class="share-facebook"><a href="http://www.facebook.com/IndyCarSeries" title="Share via Facebook" target="_blank">Facebook</a></li>
 			<li class="share-youtube"><a href="http://www.youtube.com/indycars" title="Share via Youtube" target="_blank">YouTube</a></li>
 			<li class="share-flickr"><a href="http://www.flickr.com/photos/izodindycar/" title="Share via Flickr" target="_blank">Flickr</a></li>
@@ -240,17 +270,15 @@ var addthis_share = {
 
 
 <div id="container"><div id="container-wrapper">
-   
+
   <div id="header" class="clearfix">
      <h2><a href="/" title="IZOD logo">IZOD IndyCar Series</a></h2>
 	 <div class="ad" id="ad_Top">
-      
     <script type="text/javascript">
       GA_googleFillSlot("ICS-Top-Homepage-728x90");
     </script>
-    
    </div>
-	 
+
 	 <div id="navigation">
 	   <ul id="main-nav" class="clearfix">
 	     <li><a href="/schedule/" title="View Schedule Details">Schedule</a>
@@ -263,20 +291,20 @@ var addthis_share = {
     
   <ul>
     
+      <li><a href="http://indycar.com/schedule/content/34100-radio/" title="Radio Schedule" target="_self">» <span>Radio Schedule</span></a></li>
+    
+      <li><a href="http://indycar.com/schedule/content/34088-broadcast-schedule/" title="Broadcast Schedule" target="_blank">» <span>Broadcast Schedule</span></a></li>
+    
       <li><a href="/schedule/" title="Season Schedules" target="_self">» <span>Season Schedules</span></a></li>
     
-      <li><a href="http://www.indycar.com/schedule/55-izod-indycar-series/139-2011-izod-indycar-series/" title="2011 Schedule" target="_self">» <span>2011 Schedule</span></a></li>
+      <li><a href="http://www.indycar.com:8080/var/assets/printable_schedule_March31.pdf" title="Printable 2011 Schedule" target="_blank">» <span>Printable 2011 Schedule</span></a></li>
     
-      <li><a href="http://www.indycar.com:8080/var/assets/2011_schedule_update.pdf" title="Printable 2011 Schedule" target="_blank">» <span>Printable 2011 Schedule</span></a></li>
-    
-      <li><a href="/schedule/content/34135-tickets" title="Tickets" target="_self">» <span>Tickets</span></a></li>
-    
-      <li><a href="/schedule/content/34089-indycar-on-abc" title="IZOD IndyCar Series on ABC" target="_self">» <span>IZOD IndyCar Series on ABC</span></a></li>
+      <li><a href="http://www.indycar.com:8080/var/assets/InternationalListings.pdf" title="International Broadcast Channels" target="_blank">» <span>International Broadcast Channels</span></a></li>
     
   </ul>
   <ul>
     
-      <li><a href="/schedule/content/34090-indycar-on-versus" title="IZOD IndyCar Series on Versus" target="_self">» <span>IZOD IndyCar Series on Versus</span></a></li>
+      <li><a href="/schedule/content/34135-tickets" title="Tickets" target="_self">» <span>Tickets</span></a></li>
     
       <li><a href="https://www.avis.com/car-rental/profile/go.ac?H719000&amp;MID=avis.com_indycar" title="Avis Rental Car Promotion" target="_blank">» <span>Avis Rental Car Promotion</span></a></li>
     
@@ -316,17 +344,14 @@ var addthis_share = {
     
       <li><a href="/news/rss/" title="RSS Feeds" target="_self">» <span>RSS Feeds</span></a></li>
     
-      <li><a href="http://www.twitter.com/indycarnation/" title="Follow on Twitter" target="_blank">» <span>Follow on Twitter</span></a></li>
+      <li><a href="http://www.twitter.com/indycar/" title="Follow on Twitter" target="_blank">» <span>Follow on Twitter</span></a></li>
     
-      <li><a href="http://www.facebook.com/IndyCarSeries" title="Follow on Facebook" target="_blank">» <span>Follow on Facebook</span></a></li>
+      <li><a href="http://www.facebook.com/IndyCar" title="Follow on Facebook" target="_blank">» <span>Follow on Facebook</span></a></li>
     
   </ul>
 
   </li>
-  <li class="photo-gallery" style="background: none; border: none;">
-	  <img src="/images/ui/navpromo_fantasyracing.png" height="115" width="157" alt="Fantasy Racing" style="padding-left: 30px;">
-	  <p style="padding-left: 40px;">» <a href="/indycarnation/pages/fantasy/" title="Peak Performance Fantasy Racing">Fantasy Racing</a></p>
-  </li>
+  
 </ul>
 
 
@@ -348,19 +373,21 @@ var addthis_share = {
     
       <li><a href="/schedule/standings/" title="Point Standings" target="_self">» <span>Point Standings</span></a></li>
     
-      <li><a href="/stats/boxscore/35580/" title="Historical Box Scores" target="_self">» <span>Historical Box Scores</span></a></li>
+      <li><a href="http://www.indycar.com/iracing" title="iRacing.com INDYCAR Premier Series" target="_blank">» <span>iRacing.com INDYCAR Premier Series</span></a></li>
     
-      <li><a href="http://www.indianapolismotorspeedway.com/indy500/history/stats/" title="Indianapolis 500 Statistics" target="_blank">» <span>Indianapolis 500 Statistics</span></a></li>
+      <li><a href="/stats/boxscore/42061/" title="Historical Box Scores" target="_self">» <span>Historical Box Scores</span></a></li>
     
   </ul>
   <ul>
+    
+      <li><a href="http://www.indianapolismotorspeedway.com/indy500/history/stats/" title="Indianapolis 500 Statistics" target="_blank">» <span>Indianapolis 500 Statistics</span></a></li>
     
   </ul>
 
   </li>
   <li class="photo-gallery" style="background: none; border: none;">
-	  <img src="/images/ui/navpromo_livetiming.png" height="115" width="186" alt="Live Timing and Scoring" style="padding-left: 10px;">
-	  <p>» <a href="http://racecontrol.indycar.com/?type=true" title="Live Timing and Scoring " target="_blank">Live Timing and Scoring</a></p>
+      <img src="/images/ui/navpromo_livetiming.png" height="115" width="186" alt="Live Timing and Scoring" style="padding-left: 10px;">
+	  <p>» <a href="/racecontrol/" title="Live Timing and Scoring " target="_blank">Live Timing and Scoring</a></p>
   </li>
 </ul>
 
@@ -381,8 +408,6 @@ var addthis_share = {
       <li><a href="/drivers/" title="Driver List" target="_self">» <span>Driver List</span></a></li>
     
       <li><a href="/drivers/content/34187-izod-indycar-series-champions" title="IZOD IndyCar Champions" target="_self">» <span>IZOD IndyCar Champions</span></a></li>
-    
-      <li><a href="/drivers/content/34103-spotter-guides" title="Spotter Guides" target="_self">» <span>Spotter Guides</span></a></li>
     
       <li><a href="/drivers/56-firestone-indy-lights/" title="Firestone Indy Lights Drivers" target="_self">» <span>Firestone Indy Lights Drivers</span></a></li>
     
@@ -415,6 +440,10 @@ var addthis_share = {
       <li><a href="/teams/" title="IZOD IndyCar Teams" target="_self">» <span>IZOD IndyCar Teams</span></a></li>
     
       <li><a href="/teams/56-firestone-indy-lights/" title="Firestone Indy Lights Teams" target="_self">» <span>Firestone Indy Lights Teams</span></a></li>
+    
+      <li><a href="http://indycar.com/teams/57-star-mazda/" title="Star Mazda Teams" target="_blank">» <span>Star Mazda Teams</span></a></li>
+    
+      <li><a href="http://indycar.com/teams/58-usf2000/" title="USF2000 Teams" target="_blank">» <span>USF2000 Teams</span></a></li>
     
   </ul>
   <ul>
@@ -474,16 +503,14 @@ var addthis_share = {
      
 <ul>
   <li class="photo-gallery" style="float: left; background: none; border: none; width: 220px;">
-	  <img src="/images/ui/navpromo_racecontrol.png" height="115" width="163" alt="IndyCar Race Control" style="padding-left: 30px;">
-	  <p style="padding-left: 30px;">» <a href="http://indycarnation.indycar.com/" title="IndyCar Race Control" target="_blank">IndyCar Race Control</a></p>
+	  <img src="/images/ui/navpromo_livetiming.png" height="115" width="163" alt="Live Timing and Scoring" style="padding-left: 30px;">
+	  <p style="padding-left: 30px;">» <a href="/racecontrol/" title="Live Timing and Scoring" target="_blank">Live Timing and Scoring</a></p>
   </li>
   <li class="links">
     
   <ul>
     
-      <li><a href="http://racecontrol.indycar.com/?type=false" title="LIVE Video Streaming" target="_blank">» <span>LIVE Video Streaming</span></a></li>
-    
-      <li><a href="http://racecontrol.indycar.com/?type=true" title="Timing and Scoring" target="_blank">» <span>Timing and Scoring</span></a></li>
+      <li><a href="http://indycarnation.indycar.com/RaceControl" title="Timing and Scoring" target="_blank">» <span>Timing and Scoring</span></a></li>
     
       <li><a href="/multimedia/content/40382-indycar-mobile" title="IndyCar Mobile" target="_self">» <span>IndyCar Mobile</span></a></li>
     
@@ -491,16 +518,20 @@ var addthis_share = {
     
       <li><a href="/multimedia/content/34100-radio" title="Radio" target="_self">» <span>Radio</span></a></li>
     
+      <li><a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewArtist?cc=us&amp;id=289630633" title="Podcasts" target="_blank">» <span>Podcasts</span></a></li>
+    
   </ul>
   <ul>
     
-      <li><a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewArtist?cc=us&amp;id=289630633" title="Podcasts" target="_blank">» <span>Podcasts</span></a></li>
-    
       <li><a href="/multimedia/content/34091-desktop-wallpapers" title="Desktop Wallpapers" target="_self">» <span>Desktop Wallpapers</span></a></li>
     
-      <li><a href="http://indycarnation.indycar.com/" title="Games" target="_blank">» <span>Games</span></a></li>
+      <li><a href="http://gamestore.indycar.com/" title="Games" target="_blank">» <span>Games</span></a></li>
     
       <li><a href="/multimedia/content/38549-Design-your-own-Future-IndyCar" title="Design Your Own Future IndyCar" target="_self">» <span>Design Your Own Future IndyCar</span></a></li>
+    
+      <li><a href="http://indycarnation.indycar.com/fantasy" title="Fantasy Racing" target="_blank">» <span>Fantasy Racing</span></a></li>
+    
+      <li><a href="http://indycar.com/multimedia/content/41678-radio-archive/" title="Radio Archive" target="_blank">» <span>Radio Archive</span></a></li>
     
   </ul>
 
@@ -514,74 +545,31 @@ var addthis_share = {
 
 
 		 </li>
-		 <li><a href="http://indycarnation.indycar.com/" title="View IndyCar Nation" target="_blank">IndyCar Nation</a>
+		 <li><a href="http://indycarnation.indycar.com/" title="View IndyCar Nation" target="_blank">INDYCAR Nation</a>
         
-<ul>
-  <li class="photo-gallery" style="float: left; background: none; border: none; width: 220px;">
-	  <img src="/images/ui/navpromo_fantasyracing.png" height="115" width="157" alt="Fantasy Racing" style="padding-left: 30px;">
-	  <p style="padding-left: 40px;">» <a href="/indycarnation/pages/fantasy/" title="Peak Performance Fantasy Racing" target="_blank">Fantasy Racing</a></p>
-  </li>
-  <li class="links">
-    
-  <ul>
-    
-      <li><a href="/indycarnation/pages/fantasy/" title="Fantasy Racing" target="_self">» <span>Fantasy Racing</span></a></li>
-    
-      <li><a href="http://indycarnation.indycar.com/" title="Social Media" target="_blank">» <span>Social Media</span></a></li>
-    
-      <li><a href="http://indycarnation.indycar.com/" title="Sweepstakes" target="_blank">» <span>Sweepstakes</span></a></li>
-    
-      <li><a href="http://indycarnation.indycar.com/fans/" title="Events" target="_blank">» <span>Events</span></a></li>
-    
-      <li><a href="http://indycarnation.indycar.com/phpBB3/" title="Fan Forums" target="_blank">» <span>Fan Forums</span></a></li>
-    
-  </ul>
-  <ul>
-    
-      <li><a href="http://indycarnation.indycar.com/fanphotos/" title="Fan Photos" target="_blank">» <span>Fan Photos</span></a></li>
-    
-      <li><a href="http://indycarnation.indycar.com/faq.php" title="FAQs" target="_blank">» <span>FAQs</span></a></li>
-    
-      <li><a href="http://indycarnation.indycar.com/" title="Games" target="_blank">» <span>Games</span></a></li>
-    
-  </ul>
-
-  </li>
-  <li class="photo-gallery" style="background: none; border: none;">
-	  <img src="/images/ui/navpromo_fanphoto.png" height="115" width="174" alt="Fan Photos" style="padding-left: 20px;">
-	  <p style="padding-left: 30px;">» <a href="http://indycarnation.indycar.com/fanphotos/" title="Fan Photos" target="_blank">Fan Photos</a></p>
-  </li>
-</ul>
-
-
-
      </li>
 		 <li><a href="http://www.youtube.com/indycarseries" title="View Videos" target="_blank">Video</a>
         
 <ul>
   <li class="logo" style="padding-top: 25px;">
-    <img src="/images/ui/navpromo_makersmark.png" height="78" width="190" alt="Maker's Mark">
+    
   </li>
   <li class="links">
     
   <ul>
     
-      <li><a href="http://indycar.com/multimedia/content/40302/?hide_sidebar=true" title="Latest Video" target="_blank">» <span>Latest Video</span></a></li>
+      <li><a href="http://indycar.com/multimedia/content/41048/?hide_sidebar=true" title="Latest Video" target="_blank">» <span>Latest Video</span></a></li>
     
-      <li><a href="http://racecontrol.indycar.com/?type=false" title="Live Streaming" target="_blank">» <span>Live Streaming</span></a></li>
-    
-      <li><a href="http://indycar.com/multimedia/content/40302/?hide_sidebar=true" title="Race Highlights" target="_blank">» <span>Race Highlights</span></a></li>
+      <li><a href="http://indycar.com/multimedia/content/41048/?hide_sidebar=true" title="Race Highlights" target="_blank">» <span>Race Highlights</span></a></li>
     
       <li><a href="http://www.youtube.com/user/indycars#grid/user/1F37DFE9A2062D39" title="Driver vBlogs" target="_blank">» <span>Driver vBlogs</span></a></li>
     
       <li><a href="http://www.youtube.com/user/indycars#grid/user/44C86D15D627BBAE" title="Crashes" target="_blank">» <span>Crashes</span></a></li>
     
+      <li><a href="http://www.youtube.com/indycarseries" title="Follow on YouTube" target="_blank">» <span>Follow on YouTube</span></a></li>
+    
   </ul>
   <ul>
-    
-      <li><a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewArtist?cc=us&amp;id=289630633" title="Podcasts" target="_blank">» <span>Podcasts</span></a></li>
-    
-      <li><a href="http://www.youtube.com/indycarseries" title="Follow on YouTube" target="_blank">» <span>Follow on YouTube</span></a></li>
     
   </ul>
 
@@ -598,19 +586,19 @@ var addthis_share = {
 		 <li><a href="http://shop.indycar.com/" title="Go to Online Shop" target="_blank">Online Shop</a>
         
      </li>
-		 <li class="last"><a href="/fil/" title="View Firestone Indy Lights">
+		 <li class="last"><a href="/roadtoindy/" title="View Firestone Indy Lights">
 		 Firestone Indy Lights<br> The Road to Indy</a>
         
      </li>
 	   </ul>
 	 </div><!--/end navigation-->
 	 
-	 
+
   </div><!--/end header-->
-   
+
   
     <div id="container-wrapper2">
-      
+
       
 <style>
 #general .title-top h2.default{
@@ -693,44 +681,44 @@ Phone: 317-492-6549</p>
   <h4 class="title">In the News</h4>
   <ul class="list-inthenews">
     
-    <li><a href="http://slam.canoe.ca/Slam/Motorsports/2010/11/10/16080561.html" target="_blank" title="Click to Read"><span class="date">11.11</span>  
-      <span>»</span>Groups work to get Edmonton Indy back on track 
-        <span class="source">–Edmonton Journal</span>
+    <li><a href=" http://today.msnbc.msn.com/id/26184891/vp/43125885#43125885 " target="_blank" title="Click to Read"><span class="date">05.22</span>  
+      <span>»</span>TODAY's Jenna Wolfe rides shotgun 
+        <span class="source">–msnbc.com</span>
       
 </a>
       </li>
       
-    <li><a href="http://auto-racing.speedtv.com/article/indycar-kv-closing-in-on-new-lotus-deal/" target="_blank" title="Click to Read"><span class="date">11.10</span>  
-      <span>»</span>KV closing in on new Lotus deal 
-        <span class="source">–SPEEDTV.com</span>
+    <li><a href="http://www.mcall.com/sports/mc-mario-andretti-indy-500-part-one,0,2351589.story" target="_blank" title="Click to Read"><span class="date">05.21</span>  
+      <span>»</span>Andrettis and the Indy 500: Forever linked 
+        <span class="source">–Allentown Morning Call</span>
       
 </a>
       </li>
       
-    <li><a href="http://www.intelligencer.ca/ArticleDisplay.aspx?e=2829975" target="_blank" title="Click to Read"><span class="date">11.04</span>  
-      <span>»</span>Tagliani: Still running at speed 
-        <span class="source">–Belleville Intelligencer</span>
+    <li><a href="http://www.mcall.com/sports/mc-mario-andretti-indy-500-part-one,0,2351589.story" target="_blank" title="Click to Read"><span class="date">05.21</span>  
+      <span>»</span>Ganassi's got it all ... but needs another win 
+        <span class="source">–Fort Wayne News-Sentinel</span>
       
 </a>
       </li>
       
-    <li><a href="http://www.canada.com/sports/City+actions+unprofessional/3775120/story.html" target="_blank" title="Click to Read"><span class="date">11.04</span>  
-      <span>»</span>City's actions on Indy unprofessional 
-        <span class="source">–Edmonton Journal</span>
-      
-</a>
-      </li>
-      
-    <li><a href="http://www.indystar.com/article/20101104/SPORTS0107/11040435/IndyCar-Series-loses-race-in-Edmonton?odyssey=tab|topnews|img|FRONTPAGE" target="_blank" title="Click to Read"><span class="date">11.04</span>  
-      <span>»</span>IndyCar Series loses race in Edmonton 
+    <li><a href="http://www.mydesert.com/article/BG/20110521/SPORTS0107/105210348/Always-looking-an-edge-Indy?odyssey=nav%7chead" target="_blank" title="Click to Read"><span class="date">05.21</span>  
+      <span>»</span>Always looking for an edge at Indy 
         <span class="source">–Indianapolis Star</span>
       
 </a>
       </li>
       
-    <li><a href="http://www.theglobeandmail.com/globe-drive/new-cars/motorsports/indycar-needs-talented-young-drivers-like-hinchcliffe/article1785681/?cmpid=rss1" target="_blank" title="Click to Read"><span class="date">11.04</span>  
-      <span>»</span>Hinchcliffe looking to move up 
-        <span class="source">–Globe and Mail</span>
+    <li><a href="http://www.latimes.com/sports/la-sp-indy-500-franchitti-20110522,0,7569948.story?track=rss" target="_blank" title="Click to Read"><span class="date">05.21</span>  
+      <span>»</span>Two-time Indy 500 winner Dario Franchitti enjoys the simple life, at 200 mph 
+        <span class="source">–Los Angeles Times</span>
+      
+</a>
+      </li>
+      
+    <li><a href="http://www.indystar.com/article/20110521/SPORTS0107/105210347/1217/SPORTS0107" target="_blank" title="Click to Read"><span class="date">05.21</span>  
+      <span>»</span>Despite driver pleas, t00 will use double-file restarts 
+        <span class="source">–Indianapolis Star</span>
       
 </a>
       </li>
@@ -754,19 +742,19 @@ Phone: 317-492-6549</p>
 </div>
 </div>
 
-	   
-      
+
+
 	   <div id="bottom-ads" class="clearfix">
-	      <p class="ad">
+	      <div class="ad">
          <script type="text/javascript">
            GA_googleFillSlot("ICS-Bottom-Homepage-728x90");
          </script>
-        </p>
-	      <p class="right">
+        </div>
+	      <div class="right">
          <script type="text/javascript">
            GA_googleFillSlot("ICS-BottomRight-Homepage-234x60");
          </script>
-        </p>
+        </div>
 	   </div><!--/end bottom ads-->
 
     </div><!--/end container wrapper-->
@@ -784,18 +772,17 @@ Phone: 317-492-6549</p>
 		   <li><a href="/teams/" title="Teams">Teams</a></li>
 		   <li><a href="/tech/" title="Tech">Tech</a></li>
 		   <li><a href="/multimedia/" title="Multimedia">Multimedia</a></li>
-		   <li><a href="http://shop.indycar.com/" title="Online Shop - IndyCar" target="_blank">Online Shop - IndyCar</a></li>
+		   <li><a href="http://shop.indycar.com/" title="Online Shop - INDYCAR" target="_blank">Online Shop - INDYCAR</a></li>
            <li><a href="/default/content/34663-privacy-policy/" title="Privacy">Privacy Policy</a></li>
 		 </ul>
 	  </div><!--/end col-->
 	  <div class="col">
-	     <h5>IndyCar Resources</h5>
+	     <h5>INDYCAR Resources</h5>
 		 <ul>
-		   <li><a href="/schedule/content/34135-tickets/" title="IndyCar Tickets">IndyCar Tickets</a></li>
+		   <li><a href="/schedule/content/34135-tickets/" title="INDYCAR Tickets">INDYCAR Tickets</a></li>
 		   <li><a href="/schedule/content/34088-broadcast-schedule" title="Broadcast Schedule">Broadcast Schedule</a></li>
 		   <li><a href="/schedule/" title="Event Schedule">Event Schedule</a></li>
 		   <li><a href="/schedule/content/34136-radio-schedule" title="Radio Schedule">Radio Schedule</a></li>
-		   <li><a href="/drivers/content/34103-spotter-guides" title="Link Desc">Spotter Guide</a></li>
 		   <li><a href="/multimedia/photos/" title="Link Desc">Photographs</a></li>
 		   <li><a href="/stats/" title="Link Desc">Statistics</a></li>
 		 </ul>
@@ -803,26 +790,26 @@ Phone: 317-492-6549</p>
 	  <div class="col alt">
 	     <h5>Interact</h5>
 		 <ul>
-		   <li><a href="http://racecontrol.indycar.com/" title="Race Control pres. by iracing.com" target="_blank">Race Control pres. by IRacing.com</a></li>
-		   <li><a href="http://racecontrol.indycar.com/" title="Timing and Scoring" target="_blank">Timing and Scoring</a></li>
+		   <li><a href="/racecontrol/" title="Race Control pres. by iracing.com" target="_blank">Race Control pres. by IRacing.com</a></li>
+		   <li><a href="/racecontrol/" title="Timing and Scoring" target="_blank">Timing and Scoring</a></li>
 		   <li><a href="/multimedia/photos/" title="Photographs">Photographs</a></li>
 		   <li><a href="http://www.youtube.com/indycarseries" title="Video" target="_blank">Video</a></li>
 		   <li><a href="/multimedia/pages/mobile/" title="IndyCar Mobile">IndyCar Mobile</a></li>
-		   <li><a href="http://indycarnation.indycar.com/" title="Link Desc" target="_blank">IndyCar Nation and Downforce</a></li>
-		   <li><a href="/indycarnation/pages/fantasy/" title="Peak Fantasy Racing" target="_blank">Peak Fantasy Racing</a></li>
+		   <li><a href="http://indycarnation.indycar.com/" title="INDYCAR Nation" target="_blank">INDYCAR Nation</a></li>
+		   <li><a href="/indycarnation/pages/fantasy/" title="Fantasy Racing" target="_blank">Fantasy Racing</a></li>
 		   <li><a href="http://www.hotwheels.com/IRLPitRace_IndyCar/index.html" title="Hot Wheels Game" target="_blank">Hot Wheels Game</a></li>
 		   <li><a href="http://www.versus.com/games/indy-pit-crew-game/" title="Versus Pit Stop Game" target="_blank">Versus Pit Stop Game</a></li>
            <li><a href="/news/rss/" title="Link Desc">RSS Feeds</a></li>
 		 </ul>
 	  </div><!--/end col-->
 	  <div class="col">
-	     <h5>IndyCar Corporate</h5>
+	     <h5>INDYCAR Corporate</h5>
 		 <ul>
 		   <li><a href="/" title="IZOD IndyCar Series">IZOD IndyCar Series</a></li>
-		   <li><a href="/" title="Indy Racing League">Indy Racing League</a></li>
-		   <li><a href="/fil/" title="Firestone Indy Lights / Road to Indy">Firestone Indy Lights / Road to Indy</a></li>
+		   <li><a href="/" title="INDYCAR">INDYCAR</a></li>
+		   <li><a href="/fil/" title="Mazda Road to Indy">Mazda Road to Indy</a></li>
 		   <li><a href="/default/content/34236-sponsors/" title="Sponsors">Sponsors</a></li>
-           <li><a href="mailto: indyracingleague@indycar.com" title="IRL Media Site" target="_blank">IRL Media Site</a></li>
+           <li><a href="mailto: indyracingleague@indycar.com" title="INDYCAR Media Site" target="_blank">INDYCAR Media Site</a></li>
            
            
            <li><a href="http://www.indianapolismotorspeedway.com/jobs/" title="Jobs" target="_blank">Jobs</a></li>
@@ -846,7 +833,7 @@ Phone: 317-492-6549</p>
    </div><!--/end colwrapper-->
    
    <div id="footer-bottom" class="clearfix">
-     <p>2010 IndyCar® (and Design) are registered trademarks of Brickyard Trademarks, Inc., used with permission.</p>
+     <p>2011 INDYCAR® (and Design) are registered trademarks of Brickyard Trademarks, Inc., used with permission.</p>
      <p>IZOD is a registered trademark of Phillips-Van Heusen Corporation, used with permission</p>
      <p>4565 West 16th Street, Indianapolis, IN 46222 - (317) 492-6526</p>
 	 <a href="http://www.racersites.com/" title="Go to RACERSITES.com" class="logo">RACERSITES</a>
