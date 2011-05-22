@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the caravanclub.co.uk privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121141855id_/http%3A//www.caravanclub.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caravanclub.co.uk privacy policy that was archived on 2011-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110522172255id_/http%3A//www.caravanclub.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | The Caravan Club
 
@@ -8,7 +8,7 @@ This privacy policy explains what personal information we will collect from you 
 
 If you do not agree with this privacy policy and the terms of use policy please do not use this website.
 
-What personal information do we collect and how do we use it?
+### What personal information do we collect and how do we use it?
 
 The Data Protection Act 1998 ('the 1998 Act') places restrictions on the processing of personal data by a data controller. The terms processing, personal data, sensitive personal data and data controller are defined in the 1998 Act.
 
@@ -35,7 +35,20 @@ The Club may continue to process your personal data after you have ceased to be 
 
 We also use software to analyse how you interact with our website.  Any information collected in this manner is automatically anonymised.
 
-We use "cookies" on this site to enable our system to recognise your computer and allow us to see how you use our site.  Most browsers allow you to stop receiving cookies via option / settings.  However, you should be aware that if you do disable cookies, you will not be able to login into member-only areas.
+### Cookies
+
+**We use "cookies" on this site to enable our system to recognise your computer and allow us to see how you use our site.** Most browsers allow you to stop receiving cookies via option / settings.  However, you should be aware that if you do disable cookies, you will not be able to login into member-only areas and some services will not work.
+
+We need you to accept cookies for the following services to work:
+
+  * login to My Club (member only area)
+  * remembering your shopping basket
+  * remembering your search, eg search a Club Site or CL, map searches
+  * for our analytics to show us how you use our site - this does not allow us to identify you specifically, it tracks you as an anonymous user of the site
+
+
+
+The Club will continue to monitor EU changes regarding the use of cookies.
 
 ## Sensitive personal information
 
@@ -45,7 +58,7 @@ Please note that if you fail to inform us of any sensitive personal data which m
 
 ## Sharing your information
 
-If you do not wish us to share your personal data with any third party for marketing purposes, please write to Membership Services at The Club's address below, or call                             01342 318813.
+If you do not wish us to share your personal data with any third party for marketing purposes, please write to Membership Services at The Club's address below, or call 01342 318813.
 
 ## Member surveys
 
@@ -89,9 +102,9 @@ You have the right under the 1998 Act to request that we do not process your per
 
 Please note that if you make such a request, you will continue to receive communications relating to the administration of your membership and any services purchased.
 
-## Monitoring of telephone calls and e-mails
+## Monitoring of telephone calls and emails
 
-Your telephone calls and e-mails to us may be recorded and monitored for quality control purposes.
+Your telephone calls and emails to us may be recorded and monitored for quality control purposes.
 
 ## Contact us
 
@@ -105,4 +118,4 @@ West Sussex
 RH19 1UA  
 United Kingdom
 
-This privacy policy was last updated on: 20th of April 2006.
+This privacy policy was last updated on: 18 May 2011.
