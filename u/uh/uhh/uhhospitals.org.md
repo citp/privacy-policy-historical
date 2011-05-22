@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the uhhospitals.org privacy policy that was archived on 2010-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101107064709id_/http%3A//www.uhhospitals.org/tabid/840/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uhhospitals.org privacy policy that was archived on 2011-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110522123047id_/http%3A//www.uhhospitals.org/universityhospitals/tabid/840/privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy - University Hospitals
+# Privacy Policy | University Hospitals | Cleveland, OH
 
 **University Hospitals** is committed to protecting the privacy of visitors to our website. Information gathered on our website is used to monitor our effectiveness in providing relevant and credible health information, and in answering questions.
 
-#### What information do we collect?
+### What information do we collect?
 
 This site recognizes and collects, when possible, the domain name of a visitor's server (for example, uhhospitals.org or aol.com). We do not automatically collect the full e-mail address of visitors to our website. The only way we obtain your name or e-mail address is when you choose to provide that information to us. Please note that our forms are NOT encrypted unless otherwise noted. Therefore, people who are actively snooping on Internet traffic may read information you send us. But once the information is sent to our site, it is kept in secure databases where it is not available to users on the Internet. Examples of how you might provide us with information about you include:
 
@@ -17,7 +17,7 @@ This site recognizes and collects, when possible, the domain name of a visitor's
 
 We do not respond to any questions concerning specific medical conditions. If you transmit such information, while we will not intentionally release it or make it public, we cannot assure you that the information will be kept private. WE URGE YOU NOT TO SEND SUCH INFORMATION BY E-MAIL.
 
-#### How do we use the information we collect?
+### How do we use the information we collect?
 
 University Hospitals Health System does not sell, trade or rent personal information about its website visitors.
 
@@ -29,7 +29,7 @@ If a website visitor asks us to send material that cannot be transmitted electro
 
 Website visitors who complete a website survey and indicate a willingness to participate in future surveys are asked to provide their name, e-mail address and telephone number. That information may be shared with carefully screened market research firms with which we have a business relationship.
 
-#### How can I get my name removed from your files?
+### How can I get my name removed from your files?
 
 If you do not want to receive e-mail from University Hospitals, please let us know by sending an e-mail notification to [Webeditor@uhhospitals.org](mailto:webeditor@uhhospitals.org). When you write, it is imperative that you provide the following information so that we can be sure to honor your request:
 
@@ -42,14 +42,14 @@ If you do not want to receive e-mail from University Hospitals, please let us kn
 
 We will process your request as quickly as possible.
 
-#### What about "cookies"?
+### What about "cookies"?
 
 "Cookies" are small pieces of information that are stored by your web browser on your computer's hard drive. They permit University Hospitals to recognize you and your access privileges on this website, as well as to track site usage. You can usually change your browser setting to prevent acceptance of cookies. Check with your Internet Service Provider for assistance in changing this setting. However, if you wish to access areas that are personalized for your use, cookies will have to be active.
 
-#### Your consent
+### Your consent
 
 By using our website, you consent to the collection and use of the information discussed above by University Hospitals. Changes in this policy will be posted on this page so that you may always be aware of what information is being collected, how it is being used, and under what circumstances it is being disclosed.
 
-#### Tell us what you think
+### Tell us what you think
 
 University Hospitals welcomes your questions and comments about privacy. Please send your comments via e-mail to [Webeditor@uhhospitals.org](mailto:webeditor@uhhospitals.org).
