@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the three.com.au privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120015241id_/http%3A//www.three.com.au/cs/ContentServer%3Fpagename%3DThree%252FPage%252FBusinessVideoCallingTemplate%26cid%3D1165929072440%26c%3DPage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the three.com.au privacy policy that was archived on 2011-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110522074446id_/http%3A//www.three.com.au/cs/ContentServer%3Fpagename%3DThree%252FPage%252FBusinessVideoCallingTemplate%26cid%3D1165929072440%26c%3DPage) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Vodafone Hutchison Australia Pty Limited is committed to maintaining the privacy of your personal information. This Privacy Policy sets out how we deal with personal information.If 3 decides to change this Privacy Policy, we will re-publish it on our website at www.three.com.au.
 
 **Is 3 bound by the National Privacy Principles?**  
-As a private sector company, we are bound by the Privacy Act 1988, including the National Privacy Principles. If you use 3 services while roaming in a country outside of Australia, the treatment of your personal information may be subject to laws and regulations applying in that country. 
+As a private sector company, we are bound by the Privacy Act 1988, including the National Privacy Principles. If you use 3 services while roaming in a country outside of Australia, the treatment of your personal information may be subject to laws and regulations applying in that country.
 
 **How 3 collects personal information**  
 We may collect your personal information when you register with us to receive information or to enter a competition or promotion. We may email, phone or mail you with information about 3, our latest offers and other relevant information. You may unsubscribe to this information service at anytime.  
@@ -28,7 +28,7 @@ To opt out of receiving marketing messages from 3 contact 13 33 20
 (g) pass your personal information on to other parties for the purposes of supplying telecommunications services or fixing network and/or service faults;  
 (h) provide your personal information to government agencies as required by law (e.g. Australian enforcement and revenue protection agencies, the Australian Government and ACMA);  
 (i) share your information with other members of our group of companies, and with our or their, partners, associates, agents and contractors and with people who are interested in buying our business. These may include people and companies outside of Australia; and  
-(j) contact you about our group companies' products and services.   
+(j) contact you about our group companies' products and services.  
 Your application for 3 services or a ‘Handset Instalment Plan’ may be subject to a credit assessment, verification of your personal details and an employment check. If we regard these checks as unsatisfactory, we will not enter into an agreement with you.  
 We may provide information about you to a credit-reporting agency for the purpose of obtaining a consumer credit report about you and allowing the credit-reporting agency to create or maintain a credit information file containing information about you. This is limited to identifying information, general particulars of your account, notice of payments more than 60 days overdue, cheques dishonoured more than once and serious credit infringements. This information may be given before, during or after the provision of credit to you.  
 Where relevant, we may obtain information about you from a business that provides information about the commercial credit-worthiness of persons for the purpose of assessing your application for credit and collecting any overdue payments. If you apply for commercial credit, we may obtain a consumer credit report about you from a credit-reporting agency for the purpose of assessing your application for commercial credit and collecting overdue payments.
@@ -38,17 +38,15 @@ You must ensure that all your personal details are accurate, complete and not mi
 
 **Access to personal information**  
 Generally, you have the right to see or obtain a copy of personal information about you that we may hold. We will handle requests for access to personal information in accordance with the National Privacy Principles.  
-As long as we can verify your identity, the person you speak to may be able to provide you with the information you require over the telephone. If you wish to have a copy of that information we ask that you put your request in writing and either post or fax it to us.  
+As long as we can verify your identity, the person you speak to may be able to provide you with the information you require over the telephone.  
+If you wish to obtain a copy of the personal information that Three holds about you, please complete the below form. The return address details are included on the form.
+
+[Download Three Personal Information Request form](http://xseries.three.com.au/3/three/terms/privacy/three-privacy-request-form.pdf)
+
 If you believe we hold personal information about you that you consider to be inaccurate, incomplete or out of date you should contact us. In most cases we will amend any inaccurate, incomplete or out of date information. In some cases it is necessary for us to keep a record of what we know or understand to be correct at a particular time. However, in those circumstances, if you request, we will take reasonable steps to associate with the relevant record of your personal information a statement to the effect that you claim the information is inaccurate, incomplete or out of date.
 
-**Complaints**  
-You can obtain more information about the way 3 manages the personal information it holds, or complain about breaches of your privacy in writing, at the address below or directly to the Privacy Commissioner. Complaints to the Privacy Commissioner need to be made in writing to: 
-
-The Privacy Commissioner  
-GPO Box 5218  
-Sydney NSW 2001
-
-Visit our [Complaints and Compliments page here](http://www.three.com.au/cs/ContentServer?pagename=Three/Page/BusinessVideoCallingTemplate&cid=1165929072288&c=Page) for information on how to make a complaint.
+**Contact us**  
+You can obtain more information about the way 3 manages the personal information it holds by contacting 3 on the details provided below.
 
 **Organisational details  
 Vodafone Hutchison Australia Pty Limited**
@@ -75,7 +73,15 @@ Website: www.three.com.au
 
 3 Privacy Policy, Version 5, September 2008.  
 © Vodafone Hutchison Australia Pty Limited, 2007  
->[ Back to 3 Customer Terms & Policies](http://www.three.com.au/cs/ContentServer?pagename=Three%2FPage%2FTermsConditionsPageTemplate&cid=1154931041397&c=Page)
+> [Back to 3 Customer Terms & Policies](http://www.three.com.au/cs/ContentServer?pagename=Three%2FPage%2FTermsConditionsPageTemplate&cid=1154931041397&c=Page)
+
+**Privacy Breach**
+
+If you would like to report an alleged privacy breach please fill in the below form. The return address details are included on the form. Please ensure the form is completed with all information requested. A member of Three's Privacy team will be in contact within 14 days from receipt of your form.
+
+[Download Three Privacy Breach form here.](http://xseries.three.com.au/3/three/terms/privacy/vha-privacy-breach-form.pdf)
+
+Or you can report the privacy breach directly to the Privacy Commissioner. Complaints to the Privacy Commissioner need to be made in writing to:
 
   
 
