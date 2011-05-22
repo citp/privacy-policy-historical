@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trafficleadsandsales.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130152506id_/http%3A//trafficleadsandsales.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trafficleadsandsales.com privacy policy that was archived on 2011-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110522075719id_/http%3A//trafficleadsandsales.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
