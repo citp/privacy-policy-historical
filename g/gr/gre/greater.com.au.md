@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greater.com.au privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124102726id_/http%3A//www.greater.com.au/About-Us/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greater.com.au privacy policy that was archived on 2011-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110522075319id_/http%3A//www.greater.com.au/About-Us/Privacy-Policy) for the most accurate reproduction.*
 
 # Your Privacy - Fraud Protection and Security - About Us - Greater Building Society Ltd
 
