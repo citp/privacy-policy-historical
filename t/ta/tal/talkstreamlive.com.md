@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the talkstreamlive.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221180002id_/http%3A//www.talkstreamlive.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talkstreamlive.com privacy policy that was archived on 2011-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110522182524id_/http%3A//www.talkstreamlive.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # TalkStreamLive - A Dynamic Directory of Internet Radio
 
-Effective 8/14/06
+**Effective 8/14/06  
+Updated 2/28/11**
 
   
 
@@ -20,7 +21,7 @@ We only require basic information for users who wish to create a free TalkStream
 
 _Browsing the Site._ If you are browsing the TalkStreamLive site, we may track gross usage on a non-personally identifiable basis for our own internal use or to share gross impressions with third party advertisers. We do not track or have access to your personal data.
 
-_Communications with Us._ Our services have features that allow you to submit information to us (such as when contacting us with a question or problem related to the service). We may retain your emails and other information you submit to us for our internal purposes and to help us to serve you better. We will not spam, or knowingly contribute to spam.
+_Communications with Us._ Our services have features that allow you to submit information to us (such as when contacting us with a question or problem related to the service). We may retain your emails and other information you submit to us for our internal purposes, monthlly newsletter and to help us to serve you better.
 
 _Communications with Friends._ TalkStreamLive has a mailing feature that allows you to send a link of the site to a friend. We do not capture, keep or share these email addresses. 
 
