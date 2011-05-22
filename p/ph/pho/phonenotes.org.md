@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the phonenotes.org privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121101900id_/http%3A//phonenotes.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phonenotes.org privacy policy that was archived on 2011-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110522052311id_/http%3A//phonenotes.org/privacy.htm) for the most accurate reproduction.*
 
-# Update History - PhoneNotes.org
+# Privacy Policy - PhoneNotes.org
 
 Privacy Policy
 
   
 
 
-To better protect your privacy we provide this notice explaining our online information practices, including how we collect and use the information you may provide to us on the Web site, and the choices you can make about the way your information is collected and used.
+At PhoneNotes, we are keenly aware of the trust you place in us and our responsibility to protect your privacy. To better protect your privacy we provide this notice explaining our online information practices, including how we collect and use the information you may provide to us on the Web site, and the choices you can make about the way your information is collected and used.
 
 #### Collected information
 
@@ -28,7 +28,3 @@ We may use third-party advertising companies to serve ads on our Web sites. Thes
 #### Privacy Policy Changes
 
 This Privacy Policy may be modified from time to time. Any modifications to our Privacy Policy will be reflected on this page.
-
-#### Questions and comments
-
-Questions regarding this privacy statement should be submitted via the [feedback](https://web.archive.org/web/20101121101900id_/http%3A//phonenotes.org/feedback.htm).
