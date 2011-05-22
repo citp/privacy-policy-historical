@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the thecreatorsproject.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130062534id_/http%3A//thecreatorsproject.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecreatorsproject.com privacy policy that was archived on 2011-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110522061241id_/http%3A//thecreatorsproject.com/privacy) for the most accurate reproduction.*
 
 # The Creators Project | Privacy Policy
-
-## Privacy Policy
 
 ### Privacy Statement for The Creators Project
 
