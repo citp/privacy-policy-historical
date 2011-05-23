@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the guanabee.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123143831id_/http%3A//guanabee.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guanabee.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523183259id_/http%3A//guanabee.com/privacy-policy) for the most accurate reproduction.*
 
-# Guanabee | Privacy Policy
+# | Privacy Policy
 
 This is the web site of Guanabee Media LLC.  
 Our postal address is  
@@ -14,7 +14,9 @@ We collect the e-mail addresses of those who post messages to our bulletin board
 
 The information we collect is used to improve the content of our Web page, used to notify consumers about updates to our Web site, , disclosed when legally required to do so, at the request of governmental authorities conducting an investigation, to verify or enforce compliance with the policies governing our Website and applicable laws or to protect against misuse or unauthorized use of our Website.
 
-With respect to cookies: We use cookies to record past activity at a site in order to provide better service when visitors return to our site.
+With respect to cookies: We use cookies to record past activity at a site in order to provide better service when visitors return to our site. To learn more about opting out of cookies and behavioral advertising please visit the [Network Advertising Initiative](http://networkadvertising.org/managing/opt_out.asp)
+
+. 
 
 If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address.
 
