@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the vertafore.com privacy policy that was archived on 2010-06-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100618072053id_/http%3A//www.vertafore.com/Privacy-Policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vertafore.com privacy policy that was archived on 2011-05-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110523083804id_/http%3A//www.vertafore.com/Privacy-Policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="pageHead"><title>
 	Privacy Policy | Vertafore
@@ -12,138 +12,309 @@
     <script type="text/javascript" src="/js/dropdown.js"></script></head><body><div id="dropmenudiv" style="visibility:hidden;width:165px;background-color:lightyellow" onmouseover="clearhidemenu()" onmouseout="dynamichide(event)"></div>
     <script type="text/javascript" src="/js/contentslider.js"></script>
     
-    <!-- Colorbox scripts -->
+    <!-- Colorbox and Superfish scripts -->
     <link type="text/css" media="screen" rel="stylesheet" href="/js/colorbox/colorbox.css">
     <!--[if lte IE 6]>
     <link type="text/css" media="screen" rel="stylesheet" href="/js/colorbox/colorbox-ie.css" title="Colorbox CSS-IE" />
     <![endif]-->
     <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+    <script type="text/javascript" src="/js/forms-jquery.js"></script>
     <script type="text/javascript" src="/js/colorbox/jquery.colorbox.js"></script>
+    <link rel="Stylesheet" type="text/css" href="/css/superfish.css">
+    <script type="text/javascript" src="/js/supersubs.js"></script> 
+    <script type="text/javascript" src="/js/superfish.js"></script>    
     <script type="text/javascript">
         jQuery(document).ready(function(){
-            jQuery(".colorbox").colorbox();
+            //jQuery(".colorbox").colorbox();
+            jQuery(".colorbox").each(function(){
+				var cboxOptions = {};
+
+				if (jQuery(this).hasClass('iframe'))
+				{
+					cboxOptions.iframe = true;
+					cboxOptions.width = "680px";
+					cboxOptions.height = "500px";
+
+					var arrClasses = jQuery(this).attr('class').split(/\s+/);
+					for (var i = 0; i < arrClasses.length; i ++)
+					{
+						var c = arrClasses[i];
+						if (/^w(\d)+$/i.test(c))
+							cboxOptions.width = c.substring(1) + "px";
+						if (/^h(\d)+$/i.test(c))
+							cboxOptions.height = c.substring(1) + "px";
+					}
+				}
+				jQuery(this).colorbox(cboxOptions);
+			});
+            jQuery('ul.sf-menu').supersubs({
+                minWidth:    12,   // minimum width of sub-menus in em units 
+                maxWidth:    27,   // maximum width of sub-menus in em units 
+                extraWidth:  1     // extra width can ensure lines don't sometimes turn over 
+                                   // due to slight rounding differences and font-family    
+            }).superfish({
+                delay:          200,
+                dropShadows:    false
+            });
+            
         });
     </script>
-    <!-- End Colorbox -->
-    
+    <!-- End Colorbox and Superfish -->
 <meta name="keywords" content="Vertafore agency management systems, Vertafore management systems, agency management systems, management systems, Vertafore content management and workflow, content management and workflow solutions, content management and workflow, content management, workflow, Vertafore connectivity and rating solutions, Vertafore connectivity solutions, Vertafore connectivity, Vertafore rating solutions, Vertafore rating, Vertafore information solutions, information solutions, Vertafore producer lifecycle management">
 
 
 
 <form name="mainform" method="post" action="/Privacy-Policy" id="mainform">
 <div>
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE2ODkzNTk3NzAPZBYCAgMQZGQWDgIDD2QWAmYPZBYEAgQPFgIeC18hSXRlbUNvdW50AgUWCmYPZBYEZg8VBAAJU29sdXRpb25zCi9Tb2x1dGlvbnMJU29sdXRpb25zZAIBD2QWBmYPFQEJU29sdXRpb25zZAIBDxYCHwACAxYGZg9kFgJmDxUCES9Tb2x1dGlvbnMvQWdlbmN5BkFnZW5jeWQCAQ9kFgJmDxUCEy9Tb2x1dGlvbnMvQ2FycmllcnMHQ2FycmllcmQCAg9kFgJmDxUCDi9Tb2x1dGlvbnMvTUdBA01HQWQCAg8VAwlTb2x1dGlvbnMJU29sdXRpb25zCVNvbHV0aW9uc2QCAQ9kFgRmDxUEAAhQcm9kdWN0cwkvUHJvZHVjdHMIUHJvZHVjdHNkAgEPZBYGZg8VAQhQcm9kdWN0c2QCAQ8WAh8AAgYWDGYPZBYCZg8VAhwvUHJvZHVjdHMvTWFuYWdlbWVudC1TeXN0ZW1zEk1hbmFnZW1lbnQgU3lzdGVtc2QCAQ9kFgJmDxUCKS9Qcm9kdWN0cy9Db250ZW50LU1hbmFnZW1lbnQtYW5kLVdvcmtmbG93HUNvbnRlbnQgTWFuYWdlbWVudCAmIFdvcmtmbG93ZAICD2QWAmYPFQIhL1Byb2R1Y3RzL0Nvbm5lY3Rpdml0eS1hbmQtUmF0aW5nFUNvbm5lY3Rpdml0eSAmIFJhdGluZ2QCAw9kFgJmDxUCHy9Qcm9kdWN0cy9JbmZvcm1hdGlvbi1Tb2x1dGlvbnMVSW5mb3JtYXRpb24gU29sdXRpb25zZAIED2QWAmYPFQInL1Byb2R1Y3RzL1Byb2R1Y2VyLUxpZmVjeWNsZS1NYW5hZ2VtZW50HVByb2R1Y2VyIExpZmVjeWNsZSBNYW5hZ2VtZW50ZAIFD2QWAmYPFQIrL1Byb2R1Y3RzL1BvbGljeS1BZG1pbmlzdHJhdGlvbi1hbmQtQmlsbGluZx9Qb2xpY3kgQWRtaW5pc3RyYXRpb24gJiBCaWxsaW5nZAICDxUDCFByb2R1Y3RzCFByb2R1Y3RzCFByb2R1Y3RzZAICD2QWBGYPFQQAFFNlcnZpY2VzX2FuZF9TdXBwb3J0CS9TZXJ2aWNlcxRTZXJ2aWNlcyBhbmQgU3VwcG9ydGQCAQ9kFgZmDxUBFFNlcnZpY2VzX2FuZF9TdXBwb3J0ZAIBDxYCHwACCRYSZg9kFgJmDxUCES9TZXJ2aWNlcy9TdXBwb3J0B1N1cHBvcnRkAgEPZBYCZg8VAhIvU2VydmljZXMvVHJhaW5pbmcIVHJhaW5pbmdkAgIPZBYCZg8VAhgvU2VydmljZXMvSW1wbGVtZW50YXRpb24OSW1wbGVtZW50YXRpb25kAgMPZBYCZg8VAhkvU2VydmljZXMvQ3VzdG9tLVNvbHV0aW9uD0N1c3RvbSBTb2x1dGlvbmQCBA9kFgJmDxUCFC9TZXJ2aWNlcy9Db25zdWx0aW5nCkNvbnN1bHRpbmdkAgUPZBYCZg8VAhgvU2VydmljZXMvRGF0YS1NaWdyYXRpb24ORGF0YSBNaWdyYXRpb25kAgYPZBYCZg8VAhgvU2VydmljZXMvT25saW5lLUhvc3RpbmcOT25saW5lIEhvc3RpbmdkAgcPZBYCZg8VAhUvU2VydmljZXMvVXNlcnMtR3JvdXALVXNlcnMgR3JvdXBkAggPZBYCZg8VAhUvU2VydmljZXMvRW5naW5lZXJpbmcLRW5naW5lZXJpbmdkAgIPFQMUU2VydmljZXNfYW5kX1N1cHBvcnQUU2VydmljZXNfYW5kX1N1cHBvcnQUU2VydmljZXNfYW5kX1N1cHBvcnRkAgMPZBYEZg8VBAAIQWJvdXRfVXMJL0Fib3V0LVVzCEFib3V0IFVzZAIBD2QWBmYPFQEIQWJvdXRfVXNkAgEPFgIfAAIIFhBmD2QWAmYPFQIXL0Fib3V0LVVzL1doeS1WZXJ0YWZvcmUNV2h5IFZlcnRhZm9yZWQCAQ9kFgJmDxUCGS9BYm91dC1Vcy9OZXdzLWFuZC1FdmVudHMNTmV3cyAmIEV2ZW50c2QCAg9kFgJmDxUCES9BYm91dC1Vcy9DYXJlZXJzB0NhcmVlcnNkAgMPZBYCZg8VAhIvQWJvdXQtVXMvUGFydG5lcnMIUGFydG5lcnNkAgQPZBYCZg8VAhkvQWJvdXQtVXMvTWFuYWdlbWVudC1UZWFtD01hbmFnZW1lbnQgVGVhbWQCBQ9kFgJmDxUCHC9BYm91dC1Vcy9Cb2FyZC1vZi1EaXJlY3RvcnMSQm9hcmQgb2YgRGlyZWN0b3JzZAIGD2QWAmYPFQIQL0Fib3V0LVVzL0F3YXJkcwZBd2FyZHNkAgcPZBYCZg8VAhovQWJvdXQtVXMvUmVzb3VyY2UtTGlicmFyeRBSZXNvdXJjZSBMaWJyYXJ5ZAICDxUDCEFib3V0X1VzCEFib3V0X1VzCEFib3V0X1VzZAIED2QWBGYPFQQAB0NvbnRhY3QIL0NvbnRhY3QHQ29udGFjdGQCAQ8WAh4HVmlzaWJsZWgWBmYPFQEHQ29udGFjdGQCAQ8WAh8AAv////8PZAICDxUDB0NvbnRhY3QHQ29udGFjdAdDb250YWN0ZAIGDw9kFgIeBGhyZWYFDi9DdXN0b21lckxvZ2luZAIFD2QWAmYPZBYCZg9kFgICAQ8WAh8AZhYCAgEPZBYCZg8VAQ5Qcml2YWN5IFBvbGljeWQCBw9kFgJmD2QWAmYPZBYCAgEPZBYEZg9kFgJmD2QWAmYPDxYIHgtOYXZpZ2F0ZVVybGUeBlRhcmdldGUeCEltYWdlVXJsBTMvfi9tZWRpYS9JbWFnZXMvQmFubmVycy9TdWJwYWdlcy9Qcml2YWN5UG9saWN5LmFzaHgfAWdkZAIBD2QWAmYPZBYEAgEPFgIeBFRleHQFHFZlcnRhZm9yZS5jb20gUHJpdmFjeSBQb2xpY3lkAgcPFgIfBgWWIg0KCQk8cD5VcGRhdGVkOk1hcmNoIDExLCAyMDA5PC9wPg0KICAgIDxwPlRoaXMgcG9saWN5IGNvdmVycyBWZXJ0YWZvcmUuY29tICh0aGUgIlNpdGUiKS4gT3RoZXIgVmVydGFmb3JlIHdlYiBwcm9wZXJ0aWVzIG1heSBoYXZlIHNpdGUgc3BlY2lmaWMgcHJpdmFjeSBwb2xpY2llcy48L3A+DQogICAgPHA+DQogICAgICA8c3Ryb25nPk5vdGljZSBSZWdhcmRpbmcgQ29sbGVjdGlvbiBhbmQgVXNlIG9mIHlvdXIgUGVyc29uYWwgSW5mb3JtYXRpb248L3N0cm9uZz4gPC9wPg0KICAgIDxwPlBlcnNvbmFsbHkgaWRlbnRpZmlhYmxlIGluZm9ybWF0aW9uIGNvbGxlY3RlZCBvbiB0aGlzIFNpdGUgd2lsbCBiZSB1c2VkIHRvIG9wZXJhdGUgdGhlIFNpdGUgYW5kIHRvIHByb3ZpZGUgdGhlIHNlcnZpY2Uocykgb3IgY2Fycnkgb3V0IHRoZSBhY3Rpb24ocykgeW91IGhhdmUgcmVxdWVzdGVkIG9yIGF1dGhvcml6ZWQuIEFkZGl0aW9uYWxseSwgVmVydGFmb3JlLCBJbmMuIGFuZCBpdHMgY29udHJvbGxlZCBzdWJzaWRpYXJpZXMgYW5kIGFmZmlsaWF0ZXMgKCJWZXJ0YWZvcmUiKSwgbWF5IHVzZSBwZXJzb25hbCBpbmZvcm1hdGlvbiB0byBwcm92aWRlIHlvdSB3aXRoIGluZm9ybWF0aW9uIGFib3V0IG90aGVyIFZlcnRhZm9yZSBwcm9kdWN0cyBhbmQgc2VydmljZXMuPC9wPg0KICAgIDxwPlRoZSBTaXRlIG1heSBjb2xsZWN0IGNlcnRhaW4gaW5mb3JtYXRpb24gYWJvdXQgeW91ciB2aXNpdCwgc3VjaCBhcyB0aGUgbmFtZSBvZiB0aGUgSW50ZXJuZXQgc2VydmljZSBwcm92aWRlciBhbmQgdGhlIEludGVybmV0IFByb3RvY29sIChJUCkgYWRkcmVzcyB0aHJvdWdoIHdoaWNoIHlvdSBhY2Nlc3MgdGhlIEludGVybmV0OyB0aGUgYnJvd3NlciB5b3UgYXJlIHVzaW5nOyB0aGUgZGF0ZSBhbmQgdGltZSB5b3UgYWNjZXNzIHRoZSBTaXRlOyB0aGUgcGFnZXMgdGhhdCB5b3UgYWNjZXNzIHdoaWxlIGF0IHRoZSBTaXRlIGFuZCB0aGUgSW50ZXJuZXQgYWRkcmVzcyBvZiB0aGUgd2ViIHNpdGUgZnJvbSB3aGljaCB5b3UgbGlua2VkIGRpcmVjdGx5IHRvIG91ciBzaXRlLiBUaGlzIGluZm9ybWF0aW9uIGlzIHVzZWQgdG8gaGVscCBpbXByb3ZlIHRoZSBTaXRlLCBhbmFseXplIHRyZW5kcywgYW5kIGFkbWluaXN0ZXIgdGhlIFNpdGUuPC9wPg0KICAgIDxwPk91ciB3ZWIgcGFnZXMgbWF5IHByb3ZpZGUgbGlua3MgdG8gdW5hZmZpbGlhdGVkIHRoaXJkLXBhcnR5IHdlYiBzaXRlcy4gU2luY2Ugd2UgZG8gbm90IGNvbnRyb2wgdGhlc2Ugd2ViIHNpdGVzLCB3ZSBlbmNvdXJhZ2UgeW91IHRvIHJldmlldyB0aGUgcG9saWNpZXMgb2YgdGhlc2UgdGhpcmQtcGFydHkgc2l0ZXMuPC9wPg0KICAgIDxwPg0KICAgICAgPHN0cm9uZz5TZWN1cml0eSBvZiB5b3VyIFBlcnNvbmFsIEluZm9ybWF0aW9uPC9zdHJvbmc+IDwvcD4NCiAgICA8cD5WZXJ0YWZvcmUgaXMgY29tbWl0dGVkIHRvIHByb3RlY3RpbmcgdGhlIHNlY3VyaXR5IG9mIHlvdXIgcGVyc29uYWwgaW5mb3JtYXRpb24uIFRvIHByZXZlbnQgdW5hdXRob3JpemVkIGFjY2VzcywgbWFpbnRhaW4gZGF0YSBhY2N1cmFjeSwgYW5kIGVuc3VyZSB0aGUgY29ycmVjdCB1c2Ugb2YgaW5mb3JtYXRpb24sIHdlIGhhdmUgcHV0IGluIHBsYWNlIGFwcHJvcHJpYXRlIHBoeXNpY2FsLCBlbGVjdHJvbmljLCBhbmQgbWFuYWdlcmlhbCBwcm9jZWR1cmVzIHRvIHNhZmVndWFyZCBhbmQgc2VjdXJlIHRoZSBpbmZvcm1hdGlvbiB3ZSBjb2xsZWN0IG9ubGluZS4gSWYgc29jaWFsIHNlY3VyaXR5IG51bWJlcnMgYXJlIGNvbGxlY3RlZCBieSBvbmUgb2Ygb3VyIHNpdGVzLCB3ZSBwcm90ZWN0IHRoZSBjb25maWRlbnRpYWxpdHksIHByb2hpYml0IHVubGF3ZnVsIGRpc2Nsb3N1cmUsIGFuZCBieSBsaW1pdCBhY2Nlc3MgdG8gdGhlIHNvY2lhbCBzZWN1cml0eSBudW1iZXJzLjwvcD4NCiAgICA8cD4NCiAgICAgIDxzdHJvbmc+VHJhbnNmZXIgb2YgeW91ciBQZXJzb25hbCBJbmZvcm1hdGlvbjwvc3Ryb25nPiA8L3A+DQogICAgPHA+RXhjZXB0IGFzIG90aGVyd2lzZSBkZXNjcmliZWQgaW4gdGhpcyBzdGF0ZW1lbnQsIHBlcnNvbmFsIGluZm9ybWF0aW9uIHlvdSBwcm92aWRlIHZpYSB0aGUgU2l0ZSB3aWxsIG5vdCBiZSBzb2xkIG9yIHNoYXJlZCBvdXRzaWRlIG9mIFZlcnRhZm9yZS48L3A+DQogICAgPHA+VmVydGFmb3JlIG1heSBkaXNjbG9zZSBwZXJzb25hbCBpbmZvcm1hdGlvbiBpZiByZXF1aXJlZCB0byBkbyBzbyBieSBsYXcgb3IgaW4gdGhlIGdvb2QgZmFpdGggYmVsaWVmIHRoYXQgc3VjaCBhY3Rpb24gaXMgbmVjZXNzYXJ5IHRvIChhKSBjb25mb3JtIHRvIHRoZSBlZGljdHMgb2YgdGhlIGxhdyBvciBjb21wbHkgd2l0aCBsZWdhbCBwcm9jZXNzIHNlcnZlZCBvbiBWZXJ0YWZvcmUgb3IgdGhlIFNpdGU7IChiKSBwcm90ZWN0IGFuZCBkZWZlbmQgdGhlIHJpZ2h0cyBvciBwcm9wZXJ0eSBvZiBWZXJ0YWZvcmUgYW5kIG91ciBmYW1pbHkgb2YgV2ViIFNlcnZpY2VzIGFuZCBTaXRlczsgb3IgKGMpIGFjdCBpbiB1cmdlbnQgY2lyY3Vtc3RhbmNlcyB0byBwcm90ZWN0IHRoZSBwZXJzb25hbCBzYWZldHkgb2YgVmVydGFmb3JlIGVtcGxveWVlcyBvciBhZ2VudHMsIHVzZXJzIG9mIFZlcnRhZm9yZSBwcm9kdWN0cyBvciBzZXJ2aWNlcywgb3IgbWVtYmVycyBvZiB0aGUgcHVibGljLjwvcD4NCiAgICA8cD4NCiAgICAgIDxzdHJvbmc+Q2hvaWNlIG9mIEZ1dHVyZSBDb21tdW5pY2F0aW9uczwvc3Ryb25nPiA8L3A+DQogICAgPHA+RnJvbSB0aW1lIHRvIHRpbWUsIFZlcnRhZm9yZSwgSW5jLiBhbmQgaXRzIGNvbnRyb2xsZWQgc3Vic2lkaWFyaWVzIGFuZCBhZmZpbGlhdGVzIG1heSBzZW5kIHlvdSBpbmZvcm1hdGlvbiBhYm91dCBwcm9kdWN0IGFuZCBzZXJ2aWNlIG9mZmVyaW5ncyB0aGF0IG1heSBiZSBvZiBpbnRlcmVzdCB0byB5b3UuIEF0IHN1Y2ggYSB0aW1lLCB5b3Ugd2lsbCBiZSBnaXZlbiBhbiBvcHBvcnR1bml0eSB0byBvcHQtb3V0IG9mIGZ1dHVyZSBjb21tdW5pY2F0aW9ucy48L3A+DQogICAgPHA+DQogICAgICA8c3Ryb25nPlByb3RlY3Rpb24gb2YgQ2hpbGRyZW4ncyBQZXJzb25hbCBJbmZvcm1hdGlvbjwvc3Ryb25nPiA8L3A+DQogICAgPHA+VmVydGFmb3JlLmNvbSBpcyBpbnRlbmRlZCBmb3IgYSBnZW5lcmFsIGF1ZGllbmNlIGFuZCB3ZSBkbyBub3Qga25vd2luZ2x5IGNvbGxlY3QgcGVyc29uYWwgaW5mb3JtYXRpb24gZnJvbSB0aG9zZSB1bmRlciB0aGUgYWdlIG9mIDEzLjwvcD4NCiAgICA8cD4NCiAgICAgIDxzdHJvbmc+Q2hhbmdlcyB0byB0aGlzIFN0YXRlbWVudDwvc3Ryb25nPiA8L3A+DQogICAgPHA+V2UgbWF5IG9jY2FzaW9uYWxseSB1cGRhdGUgdGhpcyBwcml2YWN5IHN0YXRlbWVudC4gV2hlbiB3ZSBkbywgd2Ugd2lsbCBhbHNvIHJldmlzZSB0aGUgIlVwZGF0ZWQiIGRhdGUgYXQgdGhlIHRvcCBvZiB0aGUgcHJpdmFjeSBzdGF0ZW1lbnQuIFdlIGVuY291cmFnZSB5b3UgdG8gcGVyaW9kaWNhbGx5IHJldmlldyB0aGlzIHByaXZhY3kgc3RhdGVtZW50IHRvIHN0YXkgaW5mb3JtZWQgYWJvdXQgaG93IHdlIGFyZSBoZWxwaW5nIHRvIHByb3RlY3QgdGhlIHBlcnNvbmFsIGluZm9ybWF0aW9uIHdlIGNvbGxlY3QuIFlvdXIgY29udGludWVkIHVzZSBvZiB0aGUgU2l0ZSBjb25zdGl0dXRlcyB5b3VyIGFncmVlbWVudCB0byB0aGlzIHByaXZhY3kgc3RhdGVtZW50IGFuZCBhbnkgdXBkYXRlcy48L3A+DQogICAgPHA+DQogICAgICA8c3Ryb25nPkNvbnRhY3QgYW5kIEVuZm9yY2VtZW50IEluZm9ybWF0aW9uPC9zdHJvbmc+IDwvcD4NCiAgICA8cD5WZXJ0YWZvcmUgd2VsY29tZXMgeW91ciBjb21tZW50cyByZWdhcmRpbmcgdGhpcyBwcml2YWN5IHN0YXRlbWVudC4gSWYgeW91IGhhdmUgcXVlc3Rpb25zIHJlZ2FyZGluZyB0aGlzIHN0YXRlbWVudCwgcGxlYXNlIGNvbnRhY3QgVmVydGFmb3JlIGF0IGluZm9zZWNAdmVydGFmb3JlLmNvbS48L3A+DQogICAgPHA+SWYgeW91IGJlbGlldmUgdGhhdCBWZXJ0YWZvcmUgaGFzIG5vdCBhZGhlcmVkIHRvIHRoaXMgcHJpdmFjeSBzdGF0ZW1lbnQsIHBsZWFzZSBjb250YWN0IHVzIGF0IGluZm9zZWNAVmVydGFmb3JlLmNvbSBvciB2aWEgcG9zdGFsIG1haWwgYXQgdGhlIGFkZHJlc3MgcHJvdmlkZWQgYmVsb3csIGFuZCB3ZSB3aWxsIHVzZSBjb21tZXJjaWFsbHkgcmVhc29uYWJsZSBlZmZvcnRzIHRvIHByb21wdGx5IGRldGVybWluZSBhbmQgcmVtZWR5IHRoZSBwcm9ibGVtLjwvcD4NCiAgICA8cD4NCiAgICAgIDxzdHJvbmc+VmVydGFmb3JlLCBJbmMuIChBdHRlbnRpb24gTGVnYWwgRGVwYXJ0bWVudCk8L3N0cm9uZz4gPGJyIC8+MTE4MzEgTm9ydGggQ3JlZWsgUGFya3dheSBOb3J0aDxiciAvPkJvdGhlbGwsIFdBIDk4MDExPC9wPmQCCQ8PFgIfBgUEMjAxMGRkAgsPZBYCZg9kFgpmDxYCHwACBhYMZg9kFgJmDxUCCi9Tb2x1dGlvbnMJU29sdXRpb25zZAICD2QWAmYPFQIJL1Byb2R1Y3RzCFByb2R1Y3RzZAIED2QWAmYPFQIJL1NlcnZpY2VzFFNlcnZpY2VzIGFuZCBTdXBwb3J0ZAIGD2QWAmYPFQIJL0Fib3V0LVVzCEFib3V0IFVzZAIID2QWAmYPFQIIL0NvbnRhY3QHQ29udGFjdGQCCg9kFgJmDxUCES9BYm91dC1Vcy9DYXJlZXJzB0NhcmVlcnNkAgIPDxYEHwMFDy9Qcml2YWN5LVBvbGljeR8GBQ5Qcml2YWN5IFBvbGljeWRkAgQPDxYEHwMFDS9UZXJtcy1vZi1Vc2UfBgUMVGVybXMgb2YgVXNlZGQCBg8PFgQfAwUIL1NpdGVtYXAfBgUHU2l0ZW1hcGRkAggPDxYEHwMFEi9Db250YWN0LVdlYm1hc3Rlch8GBRFDb250YWN0IFdlYm1hc3RlcmRkAg0PFgQfBgXJAzxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij4NCi8vPCFbQ0RBVEFbDQp2YXIgZ2FKc0hvc3QgPSAoKCJodHRwczoiID09IGRvY3VtZW50LmxvY2F0aW9uLnByb3RvY29sKSA/ICJodHRwczovL3NzbC4iIDogImh0dHA6Ly93d3cuIik7DQpkb2N1bWVudC53cml0ZSh1bmVzY2FwZSgiJTNDc2NyaXB0IHNyYz0nIiArIGdhSnNIb3N0ICsgImdvb2dsZS1hbmFseXRpY3MuY29tL2dhLmpzJyB0eXBlPSd0ZXh0L2phdmFzY3JpcHQnJTNFJTNDL3NjcmlwdCUzRSIpKTsNCi8vXV0+DQo8L3NjcmlwdD4NCg0KPHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPg0KLy88IVtDREFUQVsNCnRyeSB7DQp2YXIgcGFnZVRyYWNrZXIgPSBfZ2F0Ll9nZXRUcmFja2VyKCJVQS03NjM2MTU4LTEiKTsNCnBhZ2VUcmFja2VyLl90cmFja1BhZ2V2aWV3KCk7DQp9IGNhdGNoKGVycikge30NCi8vXV0+DQo8L3NjcmlwdD4fAWdkAg8PFgQfBgWuATxTQ1JJUFQgVFlQRT0ndGV4dC9qYXZhc2NyaXB0JyBMQU5HVUFHRT0nSmF2YVNjcmlwdCcgU1JDPScvZWxxTm93L2VscUNmZy5qcyc+PC9TQ1JJUFQ+DQo8U0NSSVBUIFRZUEU9J3RleHQvamF2YXNjcmlwdCcgTEFOR1VBR0U9J0phdmFTY3JpcHQnIFNSQz0nL2VscU5vdy9lbHFJbWcuanMnPjwvU0NSSVBUPh8BZ2QYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgEFEmN0bDEwJGJ1dHRvblNlYXJjaM4qWzhkE/L+0uZ5an0O9EC7v5Z0">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE3NTMzNTE5ODEPZBYCAgMQZGQWDgIDD2QWAmYPZBYCAgMPFgIeC18hSXRlbUNvdW50AgUWCgIBD2QWBmYPFQEAZAIBDw8WAh4LTmF2aWdhdGVVcmwFCi9Tb2x1dGlvbnNkFgJmDxUBCVNvbHV0aW9uc2QCAw8WAh8AAgMWBgIBD2QWBGYPFQIRL1NvbHV0aW9ucy9BZ2VuY3kGQWdlbmN5ZAIBDxYCHwAC/////w9kAgIPZBYEZg8VAhMvU29sdXRpb25zL0NhcnJpZXJzB0NhcnJpZXJkAgEPFgIfAAL/////D2QCAw9kFgRmDxUCDi9Tb2x1dGlvbnMvTUdBA01HQWQCAQ8WAh8AAv////8PZAICD2QWBmYPFQEAZAIBDw8WAh8BBQkvUHJvZHVjdHNkFgJmDxUBCFByb2R1Y3RzZAIDDxYCHwACBhYMAgEPZBYEZg8VAhwvUHJvZHVjdHMvTWFuYWdlbWVudC1TeXN0ZW1zEk1hbmFnZW1lbnQgU3lzdGVtc2QCAQ8WAh8AAgcWDgIBD2QWAmYPFQIRL0FsbC1Qcm9kdWN0cy9BSU0DQUlNZAICD2QWAmYPFQIUL0FsbC1Qcm9kdWN0cy9BTVMzNjAGQU1TMzYwZAIDD2QWAmYPFQIaL0FsbC1Qcm9kdWN0cy9CZW5lZml0UG9pbnQMQmVuZWZpdFBvaW50ZAIED2QWAmYPFQIYL0FsbC1Qcm9kdWN0cy9GaW5hbmNlUHJvCkZpbmFuY2VQcm9kAgUPZBYCZg8VAhQvQWxsLVByb2R1Y3RzL0luU3RhcgZJblN0YXJkAgYPZBYCZg8VAhMvQWxsLVByb2R1Y3RzL1ByaW1lBVByaW1lZAIHD2QWAmYPFQIVL0FsbC1Qcm9kdWN0cy9TYWdpdHRhB1NhZ2l0dGFkAgIPZBYEZg8VAikvUHJvZHVjdHMvQ29udGVudC1NYW5hZ2VtZW50LWFuZC1Xb3JrZmxvdx1Db250ZW50IE1hbmFnZW1lbnQgJiBXb3JrZmxvd2QCAQ8WAh8AAgMWBgIBD2QWAmYPFQIXL0FsbC1Qcm9kdWN0cy9Xb3JrU21hcnQJV29ya1NtYXJ0ZAICD2QWAmYPFQIYL0FsbC1Qcm9kdWN0cy9JbWFnZVJpZ2h0CkltYWdlUmlnaHRkAgMPZBYCZg8VAhQvQWxsLVByb2R1Y3RzL0NCRERvYwZDQkREb2NkAgMPZBYEZg8VAiEvUHJvZHVjdHMvQ29ubmVjdGl2aXR5LWFuZC1SYXRpbmcVQ29ubmVjdGl2aXR5ICYgUmF0aW5nZAIBDxYCHwACBhYMAgEPZBYCZg8VAhcvQWxsLVByb2R1Y3RzL1BMLVJhdGluZwlQTCBSYXRpbmdkAgIPZBYCZg8VAhovQWxsLVByb2R1Y3RzL1BvbGljeS1SYXRlcgtQb2xpY3lSYXRlcmQCAw9kFgJmDxUCGy9BbGwtUHJvZHVjdHMvUG9ydGFsLVNlcnZlcg1Qb3J0YWwgU2VydmVyZAIED2QWAmYPFQIdL0FsbC1Qcm9kdWN0cy9QcmV2YWlsLU5ldHdvcmsPUHJldmFpbCBOZXR3b3JrZAIFD2QWAmYPFQIZL0FsbC1Qcm9kdWN0cy9UcmFuc2FjdE5PVwtUcmFuc2FjdE5PV2QCBg9kFgJmDxUCHC9BbGwtUHJvZHVjdHMvVHJhbnNpdC1TZXJ2ZXIOVHJhbnNpdCBTZXJ2ZXJkAgQPZBYEZg8VAh8vUHJvZHVjdHMvSW5mb3JtYXRpb24tU29sdXRpb25zFUluZm9ybWF0aW9uIFNvbHV0aW9uc2QCAQ8WAh8AAgQWCAIBD2QWAmYPFQIbL0FsbC1Qcm9kdWN0cy9DbGllbnRDb25uZWN0DUNsaWVudENvbm5lY3RkAgIPZBYCZg8VAhsvQWxsLVByb2R1Y3RzL1Byb2R1Y2VyLVBsdXMNUHJvZHVjZXIgUGx1c2QCAw9kFgJmDxUCJy9BbGwtUHJvZHVjdHMvUmVmZXJlbmNlQ29ubmVjdC1BZ2VuY2llcxlSZWZlcmVuY2VDb25uZWN0IEFnZW5jaWVzZAIED2QWAmYPFQIwL0FsbC1Qcm9kdWN0cy9SZWZlcmVuY2VDb25uZWN0LUNhcnJpZXJzLWFuZC1NR0FzIFJlZmVyZW5jZUNvbm5lY3QgQ2FycmllcnMgJiBNR0FzZAIFD2QWBGYPFQInL1Byb2R1Y3RzL1Byb2R1Y2VyLUxpZmVjeWNsZS1NYW5hZ2VtZW50HVByb2R1Y2VyIExpZmVjeWNsZSBNYW5hZ2VtZW50ZAIBDxYCHwACARYCAgEPZBYCZg8VAhQvQWxsLVByb2R1Y3RzL1NpcmNvbgZTaXJjb25kAgYPZBYEZg8VAisvUHJvZHVjdHMvUG9saWN5LUFkbWluaXN0cmF0aW9uLWFuZC1CaWxsaW5nH1BvbGljeSBBZG1pbmlzdHJhdGlvbiAmIEJpbGxpbmdkAgEPFgIfAAIDFgYCAQ9kFgJmDxUCHC9BbGwtUHJvZHVjdHMvUG9saWN5SXNzdWFuY2UOUG9saWN5SXNzdWFuY2VkAgIPZBYCZg8VAhUvQWxsLVByb2R1Y3RzL1Bob2VuaXgHUGhvZW5peGQCAw9kFgJmDxUCGS9BbGwtUHJvZHVjdHMvUHJlbWl1bUJpbGwLUHJlbWl1bUJpbGxkAgMPZBYGZg8VAQBkAgEPDxYCHwEFES9TZXJ2aWNlcy9TdXBwb3J0ZBYCZg8VARRTZXJ2aWNlcyBhbmQgU3VwcG9ydGQCAw8WAh8AAgkWEgIBD2QWBGYPFQIRL1NlcnZpY2VzL1N1cHBvcnQUU2VydmljZXMgYW5kIFN1cHBvcnRkAgEPFgIfAAL/////D2QCAg9kFgRmDxUCEi9TZXJ2aWNlcy9UcmFpbmluZwhUcmFpbmluZ2QCAQ8WAh8AAv////8PZAIDD2QWBGYPFQIYL1NlcnZpY2VzL0ltcGxlbWVudGF0aW9uDkltcGxlbWVudGF0aW9uZAIBDxYCHwAC/////w9kAgQPZBYEZg8VAhkvU2VydmljZXMvQ3VzdG9tLVNvbHV0aW9uD0N1c3RvbSBTb2x1dGlvbmQCAQ8WAh8AAv////8PZAIFD2QWBGYPFQIUL1NlcnZpY2VzL0NvbnN1bHRpbmcKQ29uc3VsdGluZ2QCAQ8WAh8AAv////8PZAIGD2QWBGYPFQIYL1NlcnZpY2VzL0RhdGEtTWlncmF0aW9uDkRhdGEgTWlncmF0aW9uZAIBDxYCHwAC/////w9kAgcPZBYEZg8VAhgvU2VydmljZXMvT25saW5lLUhvc3RpbmcOT25saW5lIEhvc3RpbmdkAgEPFgIfAAL/////D2QCCA9kFgRmDxUCFS9TZXJ2aWNlcy9Vc2Vycy1Hcm91cAtVc2VycyBHcm91cGQCAQ8WAh8AAv////8PZAIJD2QWBGYPFQIVL1NlcnZpY2VzL0VuZ2luZWVyaW5nC0VuZ2luZWVyaW5nZAIBDxYCHwAC/////w9kAgQPZBYGZg8VAQBkAgEPDxYCHwEFCS9BYm91dC1Vc2QWAmYPFQEIQWJvdXQgVXNkAgMPFgIfAAIJFhICAQ9kFgRmDxUCFy9BYm91dC1Vcy9XaHktVmVydGFmb3JlDVdoeSBWZXJ0YWZvcmVkAgEPFgIfAAICFgQCAQ9kFgJmDxUCIy9BYm91dC1Vcy9XaHktVmVydGFmb3JlL0F0LWEtR2xhbmNlC0F0IGEgR2xhbmNlZAICD2QWAmYPFQIfL0Fib3V0LVVzL1doeS1WZXJ0YWZvcmUvSGlzdG9yeQdIaXN0b3J5ZAICD2QWBGYPFQIZL0Fib3V0LVVzL05ld3MtYW5kLUV2ZW50cw1OZXdzICYgRXZlbnRzZAIBDxYCHwACAxYGAgEPZBYCZg8VAigvQWJvdXQtVXMvTmV3cy1hbmQtRXZlbnRzL1ByZXNzLVJlbGVhc2VzDlByZXNzIFJlbGVhc2VzZAICD2QWAmYPFQInL0Fib3V0LVVzL05ld3MtYW5kLUV2ZW50cy9OZXdzLUNvdmVyYWdlDU5ld3MgQ292ZXJhZ2VkAgMPZBYCZg8VAi0vQWJvdXQtVXMvTmV3cy1hbmQtRXZlbnRzL0V2ZW50cy1hbmQtV2ViaW5hcnMRRXZlbnRzICYgV2ViaW5hcnNkAgMPZBYEZg8VAhEvQWJvdXQtVXMvQ2FyZWVycwdDYXJlZXJzZAIBDxYCHwACBBYIAgEPZBYCZg8VAhovQWJvdXQtVXMvQ2FyZWVycy9CZW5lZml0cwhCZW5lZml0c2QCAg9kFgJmDxUCJy9BYm91dC1Vcy9DYXJlZXJzL0VtcGxveWVlLVRlc3RpbW9uaWFscxVFbXBsb3llZSBUZXN0aW1vbmlhbHNkAgMPZBYCZg8VAhovQWJvdXQtVXMvQ2FyZWVycy9PcGVuaW5ncwhPcGVuaW5nc2QCBA9kFgJmDxUCGC9BYm91dC1Vcy9DYXJlZXJzL1ZhbHVlcwZWYWx1ZXNkAgQPZBYEZg8VAhIvQWJvdXQtVXMvUGFydG5lcnMIUGFydG5lcnNkAgEPFgIfAAL/////D2QCBQ9kFgRmDxUCIy9BYm91dC1Vcy9QYXJ0bmVyc2hpcC1PcHBvcnR1bml0aWVzGVBhcnRuZXJzaGlwIE9wcG9ydHVuaXRpZXNkAgEPFgIfAAL/////D2QCBg9kFgRmDxUCGS9BYm91dC1Vcy9NYW5hZ2VtZW50LVRlYW0PTWFuYWdlbWVudCBUZWFtZAIBDxYCHwAC/////w9kAgcPZBYEZg8VAhwvQWJvdXQtVXMvQm9hcmQtb2YtRGlyZWN0b3JzEkJvYXJkIG9mIERpcmVjdG9yc2QCAQ8WAh8AAv////8PZAIID2QWBGYPFQIQL0Fib3V0LVVzL0F3YXJkcwZBd2FyZHNkAgEPFgIfAAL/////D2QCCQ9kFgRmDxUCGi9BYm91dC1Vcy9SZXNvdXJjZS1MaWJyYXJ5EFJlc291cmNlIExpYnJhcnlkAgEPFgIfAAIJFhICAQ9kFgJmDxUCIy9BYm91dC1Vcy9SZXNvdXJjZS1MaWJyYXJ5L0FydGljbGVzCEFydGljbGVzZAICD2QWAmYPFQIkL0Fib3V0LVVzL1Jlc291cmNlLUxpYnJhcnkvQnJvY2h1cmVzCUJyb2NodXJlc2QCAw9kFgJmDxUCNS9BYm91dC1Vcy9SZXNvdXJjZS1MaWJyYXJ5L0Nvbm5lY3Rpdml0eS1QYXJ0bmVyLUxpc3RzGkNvbm5lY3Rpdml0eSBQYXJ0bmVyIExpc3RzZAIED2QWAmYPFQI6L0Fib3V0LVVzL1Jlc291cmNlLUxpYnJhcnkvQ29ubmVjdGl2aXR5LWFuZC1SYXRpbmctVXBkYXRlcx9Db25uZWN0aXZpdHkgYW5kIFJhdGluZyBVcGRhdGVzZAIFD2QWAmYPFQIgL0Fib3V0LVVzL1Jlc291cmNlLUxpYnJhcnkvRGVtb3MFRGVtb3NkAgYPZBYCZg8VAiUvQWJvdXQtVXMvUmVzb3VyY2UtTGlicmFyeS9NZWRpYS1LaXRzCk1lZGlhIEtpdHNkAgcPZBYCZg8VAi8vQWJvdXQtVXMvUmVzb3VyY2UtTGlicmFyeS9QcmludC1BZHZlcnRpc2VtZW50cxRQcmludCBBZHZlcnRpc2VtZW50c2QCCA9kFgJmDxUCKi9BYm91dC1Vcy9SZXNvdXJjZS1MaWJyYXJ5L1N1Y2Nlc3MtU3Rvcmllcw9TdWNjZXNzIFN0b3JpZXNkAgkPZBYCZg8VAicvQWJvdXQtVXMvUmVzb3VyY2UtTGlicmFyeS9XaGl0ZS1QYXBlcnMMV2hpdGUgUGFwZXJzZAIFD2QWBmYPFQEAZAIBDw8WAh8BBQgvQ29udGFjdGQWAmYPFQEHQ29udGFjdGQCAw8WAh8AAv////8PZAIFD2QWAmYPZBYCZg9kFgICAQ8WAh8AZhYCAgEPZBYCZg8VAQ5Qcml2YWN5IFBvbGljeWQCBw9kFgJmD2QWAmYPZBYCAgEPZBYEZg9kFgJmD2QWAmYPDxYIHwFlHgZUYXJnZXRlHghJbWFnZVVybAUzL34vbWVkaWEvSW1hZ2VzL0Jhbm5lcnMvU3VicGFnZXMvUHJpdmFjeVBvbGljeS5hc2h4HgdWaXNpYmxlZxYCHgNhbHQFDVByaXZhY3lQb2xpY3lkAgEPZBYCZg9kFgQCAQ8WAh4EVGV4dAUcVmVydGFmb3JlLmNvbSBQcml2YWN5IFBvbGljeWQCBw8WAh8GBaAsDQoJCTxwPlVwZGF0ZWQ6IE1heSAyLCAyMDExPC9wPg0KICAgIDxwPlRoaXMgcG9saWN5IGNvdmVycyBWZXJ0YWZvcmUuY29tICh0aGUgIlNpdGUiKS4gT3RoZXIgVmVydGFmb3JlIHdlYiBwcm9wZXJ0aWVzIG1heSBoYXZlIHNpdGUgc3BlY2lmaWMgcHJpdmFjeSBwb2xpY2llcy48L3A+DQogICAgPHA+DQogICAgICA8c3Ryb25nPk5vdGljZSBSZWdhcmRpbmcgQ29sbGVjdGlvbiBhbmQgVXNlIG9mIHlvdXIgUGVyc29uYWwgSW5mb3JtYXRpb248L3N0cm9uZz4gPC9wPg0KICAgIDxwPlBlcnNvbmFsbHkgaWRlbnRpZmlhYmxlIGluZm9ybWF0aW9uIGNvbGxlY3RlZCBvbiB0aGlzIFNpdGUgd2lsbCBiZSB1c2VkIHRvIG9wZXJhdGUgdGhlIFNpdGUgYW5kIHRvIHByb3ZpZGUgdGhlIHNlcnZpY2Uocykgb3IgY2Fycnkgb3V0IHRoZSBhY3Rpb24ocykgeW91IGhhdmUgcmVxdWVzdGVkIG9yIGF1dGhvcml6ZWQuIEFkZGl0aW9uYWxseSwgVmVydGFmb3JlLCBJbmMuIGFuZCBpdHMgY29udHJvbGxlZCBzdWJzaWRpYXJpZXMgYW5kIGFmZmlsaWF0ZXMgKCJWZXJ0YWZvcmUiKSwgbWF5IHVzZSBwZXJzb25hbCBpbmZvcm1hdGlvbiB0byBwcm92aWRlIHlvdSB3aXRoIGluZm9ybWF0aW9uIGFib3V0IG90aGVyIFZlcnRhZm9yZSBwcm9kdWN0cyBhbmQgc2VydmljZXMuPC9wPg0KICAgIDxwPlRoZSBTaXRlIG1heSBjb2xsZWN0IGNlcnRhaW4gaW5mb3JtYXRpb24gYWJvdXQgeW91ciB2aXNpdCwgc3VjaCBhcyB0aGUgbmFtZSBvZiB0aGUgSW50ZXJuZXQgc2VydmljZSBwcm92aWRlciBhbmQgdGhlIEludGVybmV0IFByb3RvY29sIChJUCkgYWRkcmVzcyB0aHJvdWdoIHdoaWNoIHlvdSBhY2Nlc3MgdGhlIEludGVybmV0OyB0aGUgYnJvd3NlciB5b3UgYXJlIHVzaW5nOyB0aGUgZGF0ZSBhbmQgdGltZSB5b3UgYWNjZXNzIHRoZSBTaXRlOyB0aGUgcGFnZXMgdGhhdCB5b3UgYWNjZXNzIHdoaWxlIGF0IHRoZSBTaXRlIGFuZCB0aGUgSW50ZXJuZXQgYWRkcmVzcyBvZiB0aGUgd2ViIHNpdGUgZnJvbSB3aGljaCB5b3UgbGlua2VkIGRpcmVjdGx5IHRvIG91ciBzaXRlLiBUaGlzIGluZm9ybWF0aW9uIGlzIHVzZWQgdG8gaGVscCBpbXByb3ZlIHRoZSBTaXRlLCBhbmFseXplIHRyZW5kcywgYW5kIGFkbWluaXN0ZXIgdGhlIFNpdGUuPC9wPg0KICAgIDxwPk91ciB3ZWIgcGFnZXMgbWF5IHByb3ZpZGUgbGlua3MgdG8gdW5hZmZpbGlhdGVkIHRoaXJkLXBhcnR5IHdlYiBzaXRlcy4gU2luY2Ugd2UgZG8gbm90IGNvbnRyb2wgdGhlc2Ugd2ViIHNpdGVzLCB3ZSBlbmNvdXJhZ2UgeW91IHRvIHJldmlldyB0aGUgcG9saWNpZXMgb2YgdGhlc2UgdGhpcmQtcGFydHkgc2l0ZXMuPC9wPg0KICAgIDxwPg0KICAgICAgPHN0cm9uZz5TZWN1cml0eSBvZiB5b3VyIFBlcnNvbmFsIEluZm9ybWF0aW9uPC9zdHJvbmc+IDwvcD4NCiAgICA8cD5WZXJ0YWZvcmUgaXMgY29tbWl0dGVkIHRvIHByb3RlY3RpbmcgdGhlIHNlY3VyaXR5IG9mIHlvdXIgcGVyc29uYWwgaW5mb3JtYXRpb24uIFRvIHByZXZlbnQgdW5hdXRob3JpemVkIGFjY2VzcywgbWFpbnRhaW4gZGF0YSBhY2N1cmFjeSwgYW5kIGVuc3VyZSB0aGUgY29ycmVjdCB1c2Ugb2YgaW5mb3JtYXRpb24sIHdlIGhhdmUgcHV0IGluIHBsYWNlIGFwcHJvcHJpYXRlIHBoeXNpY2FsLCBlbGVjdHJvbmljLCBhbmQgbWFuYWdlcmlhbCBwcm9jZWR1cmVzIHRvIHNhZmVndWFyZCBhbmQgc2VjdXJlIHRoZSBpbmZvcm1hdGlvbiB3ZSBjb2xsZWN0IG9ubGluZS4gSWYgc29jaWFsIHNlY3VyaXR5IG51bWJlcnMgYXJlIGNvbGxlY3RlZCBieSBvbmUgb2Ygb3VyIHNpdGVzLCB3ZSBwcm90ZWN0IHRoZSBjb25maWRlbnRpYWxpdHksIHByb2hpYml0IHVubGF3ZnVsIGRpc2Nsb3N1cmUsIGFuZCBieSBsaW1pdCBhY2Nlc3MgdG8gdGhlIHNvY2lhbCBzZWN1cml0eSBudW1iZXJzLjwvcD4NCiAgICA8cD4NCiAgICAgIDxzdHJvbmc+VHJhbnNmZXIgb2YgeW91ciBQZXJzb25hbCBJbmZvcm1hdGlvbjwvc3Ryb25nPiA8L3A+DQogICAgPHA+RXhjZXB0IGFzIG90aGVyd2lzZSBkZXNjcmliZWQgaW4gdGhpcyBzdGF0ZW1lbnQsIHBlcnNvbmFsIGluZm9ybWF0aW9uIHlvdSBwcm92aWRlIHZpYSB0aGUgU2l0ZSB3aWxsIG5vdCBiZSBzb2xkIG9yIHNoYXJlZCBvdXRzaWRlIG9mIFZlcnRhZm9yZS48L3A+DQogICAgPHA+VmVydGFmb3JlIG1heSBkaXNjbG9zZSBwZXJzb25hbCBpbmZvcm1hdGlvbiBpZiByZXF1aXJlZCB0byBkbyBzbyBieSBsYXcgb3IgaW4gdGhlIGdvb2QgZmFpdGggYmVsaWVmIHRoYXQgc3VjaCBhY3Rpb24gaXMgbmVjZXNzYXJ5IHRvIChhKSBjb25mb3JtIHRvIHRoZSBlZGljdHMgb2YgdGhlIGxhdyBvciBjb21wbHkgd2l0aCBsZWdhbCBwcm9jZXNzIHNlcnZlZCBvbiBWZXJ0YWZvcmUgb3IgdGhlIFNpdGU7IChiKSBwcm90ZWN0IGFuZCBkZWZlbmQgdGhlIHJpZ2h0cyBvciBwcm9wZXJ0eSBvZiBWZXJ0YWZvcmUgYW5kIG91ciBmYW1pbHkgb2YgV2ViIFNlcnZpY2VzIGFuZCBTaXRlczsgb3IgKGMpIGFjdCBpbiB1cmdlbnQgY2lyY3Vtc3RhbmNlcyB0byBwcm90ZWN0IHRoZSBwZXJzb25hbCBzYWZldHkgb2YgVmVydGFmb3JlIGVtcGxveWVlcyBvciBhZ2VudHMsIHVzZXJzIG9mIFZlcnRhZm9yZSBwcm9kdWN0cyBvciBzZXJ2aWNlcywgb3IgbWVtYmVycyBvZiB0aGUgcHVibGljLjxiciAvPjxiciAvPjxzdHJvbmc+VXNlIG9mIENvb2tpZXM8YnIgLz48YnIgLz48L3N0cm9uZz5UaGUgU2l0ZSB1c2VzIOKAnGNvb2tpZXPigJ0gc28gdGhhdCB3ZSBjYW4gcmVjb2duaXplIHlvdSBhbmQgZGV0ZXJtaW5lIHdoZW4geW91IHJldmlzaXQgVmVydGFmb3JlLCBhbmQgdG8gcHJvdmlkZSBhIG1vcmUgcGVyc29uYWxpemVkIGV4cGVyaWVuY2UuwqAgQSAiY29va2llIiBpcyBhIHNtYWxsIGFtb3VudCBvZiBkYXRhLCB3aGljaCBvZnRlbiBpbmNsdWRlcyBhbiBhbm9ueW1vdXMgdW5pcXVlIGlkZW50aWZpZXIsIHRoYXQgb3VyIFNpdGUgc3RvcmVzIG9uIHRoZSBoYXJkIGRyaXZlIG9mIHlvdXIgY29tcHV0ZXIgdGhyb3VnaCB5b3VyIGJyb3dzZXIuwqAgTW9zdCBicm93c2VycyBhcmUgc2V0IHVwIHRvIGFjY2VwdCBjb29raWVzLCBidXQgeW91IGNhbiB1c3VhbGx5IGNoYW5nZSB5b3VyIGJyb3dzZXIgc2V0dGluZ3MgdG8gcmVmdXNlIHRoZW0uwqAgVmVydGFmb3JlIGRvZXMgbm90IHVzZSBjb29raWVzIHRvIHJldHJpZXZlIHBlcnNvbmFsIGluZm9ybWF0aW9uIGFib3V0IHlvdSBmcm9tIHlvdXIgY29tcHV0ZXIuPGJyIC8+PGJyIC8+VmVydGFmb3JlIHVzZXMgY29va2llcyB0bzogPC9wPg0KICAgIDx1bD4NCiAgICAgIDxsaT5SZWNvZ25pemUgeW91IHNvIHRoYXQgeW91IGNhbiBsb2cgaW4gdG8gb3VyIFNpdGUgYW5kIGFjY2VzcyB5b3VyIGFjY291bnQgaW5mb3JtYXRpb24uIDwvbGk+DQogICAgICA8bGk+RXZhbHVhdGUgaG93IG1hbnkgcGVvcGxlIHJldHVybiB0byBvdXIgU2l0ZSBhbmQgbWVhc3VyZSB0aGUgdHJhZmZpYyB0byB2YXJpb3VzIGFyZWFzIG9mIHRoZSBTaXRlLiA8L2xpPg0KICAgICAgPGxpPlRyYWNrIHRoZSB3YXkgeW91IHVzZSBvdXIgcHJvbW90aW9ucywgY29udGVzdHMsIGFuZCBzYWxlcy4gPC9saT4NCiAgICAgIDxsaT5QZXJzb25hbGl6ZSBhIHVzZXLigJlzIGV4cGVyaWVuY2Ugb24gdGhlIFNpdGUgYW5kIHRhcmdldCBvdXIgYWR2ZXJ0aXNlbWVudHMgYmFzZWQgb24geW91ciBjdXJyZW50IG9yIHByZXZpb3VzIHVzZSBvZiBvdXIgd2ViIHNpdGUgYW5kIGFueSBrZXl3b3JkcyB5b3UgdXNlIG9uIGludGVybmV0IHNlYXJjaCBlbmdpbmVzIHRvIGxvY2F0ZSBvdXIgU2l0ZS4gPC9saT4NCiAgICAgIDxsaT5JZGVudGlmeSB0byB0aGlyZC1wYXJ0eSBhZHZlcnRpc2VycyB0aGF0IHlvdSBoYXZlIHZpc2l0ZWQgdGhlIFNpdGUsIHNvIHRoYXQgdGhlc2UgdGhpcmQtcGFydHkgYWR2ZXJ0aXNlcnMgbWF5IHNlcnZlIGFkcyBvbiBvdXIgYmVoYWxmLjwvbGk+DQogICAgPC91bD4NCiAgICA8cD4NCiAgICAgIDxzdHJvbmc+Q2hvaWNlIG9mIEZ1dHVyZSBDb21tdW5pY2F0aW9uczwvc3Ryb25nPiA8L3A+DQogICAgPHA+RnJvbSB0aW1lIHRvIHRpbWUsIFZlcnRhZm9yZSwgSW5jLiBhbmQgaXRzIGNvbnRyb2xsZWQgc3Vic2lkaWFyaWVzIGFuZCBhZmZpbGlhdGVzIG1heSBzZW5kIHlvdSBpbmZvcm1hdGlvbiBhYm91dCBwcm9kdWN0IGFuZCBzZXJ2aWNlIG9mZmVyaW5ncyB0aGF0IG1heSBiZSBvZiBpbnRlcmVzdCB0byB5b3UuIEF0IHN1Y2ggYSB0aW1lLCB5b3Ugd2lsbCBiZSBnaXZlbiBhbiBvcHBvcnR1bml0eSB0byBvcHQtb3V0IG9mIGZ1dHVyZSBjb21tdW5pY2F0aW9ucy48L3A+DQogICAgPHA+DQogICAgICA8c3Ryb25nPlByb3RlY3Rpb24gb2YgQ2hpbGRyZW4ncyBQZXJzb25hbCBJbmZvcm1hdGlvbjwvc3Ryb25nPiA8L3A+DQogICAgPHA+VmVydGFmb3JlLmNvbSBpcyBpbnRlbmRlZCBmb3IgYSBnZW5lcmFsIGF1ZGllbmNlIGFuZCB3ZSBkbyBub3Qga25vd2luZ2x5IGNvbGxlY3QgcGVyc29uYWwgaW5mb3JtYXRpb24gZnJvbSB0aG9zZSB1bmRlciB0aGUgYWdlIG9mIDEzLjwvcD4NCiAgICA8cD4NCiAgICAgIDxzdHJvbmc+Q2hhbmdlcyB0byB0aGlzIFN0YXRlbWVudDwvc3Ryb25nPiA8L3A+DQogICAgPHA+V2UgbWF5IG9jY2FzaW9uYWxseSB1cGRhdGUgdGhpcyBwcml2YWN5IHN0YXRlbWVudC4gV2hlbiB3ZSBkbywgd2Ugd2lsbCBhbHNvIHJldmlzZSB0aGUgIlVwZGF0ZWQiIGRhdGUgYXQgdGhlIHRvcCBvZiB0aGUgcHJpdmFjeSBzdGF0ZW1lbnQuIFdlIGVuY291cmFnZSB5b3UgdG8gcGVyaW9kaWNhbGx5IHJldmlldyB0aGlzIHByaXZhY3kgc3RhdGVtZW50IHRvIHN0YXkgaW5mb3JtZWQgYWJvdXQgaG93IHdlIGFyZSBoZWxwaW5nIHRvIHByb3RlY3QgdGhlIHBlcnNvbmFsIGluZm9ybWF0aW9uIHdlIGNvbGxlY3QuIFlvdXIgY29udGludWVkIHVzZSBvZiB0aGUgU2l0ZSBjb25zdGl0dXRlcyB5b3VyIGFncmVlbWVudCB0byB0aGlzIHByaXZhY3kgc3RhdGVtZW50IGFuZCBhbnkgdXBkYXRlcy48L3A+DQogICAgPHA+DQogICAgICA8c3Ryb25nPkNvbnRhY3QgYW5kIEVuZm9yY2VtZW50IEluZm9ybWF0aW9uPC9zdHJvbmc+IDwvcD4NCiAgICA8cD5WZXJ0YWZvcmUgd2VsY29tZXMgeW91ciBjb21tZW50cyByZWdhcmRpbmcgdGhpcyBwcml2YWN5IHN0YXRlbWVudC4gSWYgeW91IGhhdmUgcXVlc3Rpb25zIHJlZ2FyZGluZyB0aGlzIHN0YXRlbWVudCwgcGxlYXNlIGNvbnRhY3QgVmVydGFmb3JlIGF0IGluZm9zZWNAdmVydGFmb3JlLmNvbS48L3A+DQogICAgPHA+SWYgeW91IGJlbGlldmUgdGhhdCBWZXJ0YWZvcmUgaGFzIG5vdCBhZGhlcmVkIHRvIHRoaXMgcHJpdmFjeSBzdGF0ZW1lbnQsIHBsZWFzZSBjb250YWN0IHVzIGF0IGluZm9zZWNAVmVydGFmb3JlLmNvbSBvciB2aWEgcG9zdGFsIG1haWwgYXQgdGhlIGFkZHJlc3MgcHJvdmlkZWQgYmVsb3csIGFuZCB3ZSB3aWxsIHVzZSBjb21tZXJjaWFsbHkgcmVhc29uYWJsZSBlZmZvcnRzIHRvIHByb21wdGx5IGRldGVybWluZSBhbmQgcmVtZWR5IHRoZSBwcm9ibGVtLjwvcD4NCiAgICA8cD4NCiAgICAgIDxzdHJvbmc+VmVydGFmb3JlLCBJbmMuIChBdHRlbnRpb24gTGVnYWwgRGVwYXJ0bWVudCk8L3N0cm9uZz4gPGJyIC8+MTE3MjQgTkUgMTk1dGggU3RyZWV0PGJyIC8+Qm90aGVsbCwgV0EgOTgwMTE8L3A+ZAIJDw8WAh8GBQQyMDExZGQCCw9kFgJmD2QWCmYPFgIfAAIGFgxmD2QWAmYPFQIKL1NvbHV0aW9ucwlTb2x1dGlvbnNkAgIPZBYCZg8VAgkvUHJvZHVjdHMIUHJvZHVjdHNkAgQPZBYCZg8VAhEvU2VydmljZXMvU3VwcG9ydBRTZXJ2aWNlcyBhbmQgU3VwcG9ydGQCBg9kFgJmDxUCCS9BYm91dC1VcwhBYm91dCBVc2QCCA9kFgJmDxUCCC9Db250YWN0B0NvbnRhY3RkAgoPZBYCZg8VAhEvQWJvdXQtVXMvQ2FyZWVycwdDYXJlZXJzZAICDw8WBB8BBQ8vUHJpdmFjeS1Qb2xpY3kfBgUOUHJpdmFjeSBQb2xpY3lkZAIEDw8WBB8BBQ0vVGVybXMtb2YtVXNlHwYFDFRlcm1zIG9mIFVzZWRkAgYPDxYEHwEFCC9TaXRlbWFwHwYFB1NpdGVtYXBkZAIIDw8WBB8BBRIvQ29udGFjdC1XZWJtYXN0ZXIfBgURQ29udGFjdCBXZWJtYXN0ZXJkZAINDxYEHwYFyQM8c2NyaXB0IHR5cGU9InRleHQvamF2YXNjcmlwdCI+DQovLzwhW0NEQVRBWw0KdmFyIGdhSnNIb3N0ID0gKCgiaHR0cHM6IiA9PSBkb2N1bWVudC5sb2NhdGlvbi5wcm90b2NvbCkgPyAiaHR0cHM6Ly9zc2wuIiA6ICJodHRwOi8vd3d3LiIpOw0KZG9jdW1lbnQud3JpdGUodW5lc2NhcGUoIiUzQ3NjcmlwdCBzcmM9JyIgKyBnYUpzSG9zdCArICJnb29nbGUtYW5hbHl0aWNzLmNvbS9nYS5qcycgdHlwZT0ndGV4dC9qYXZhc2NyaXB0JyUzRSUzQy9zY3JpcHQlM0UiKSk7DQovL11dPg0KPC9zY3JpcHQ+DQoNCjxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij4NCi8vPCFbQ0RBVEFbDQp0cnkgew0KdmFyIHBhZ2VUcmFja2VyID0gX2dhdC5fZ2V0VHJhY2tlcigiVUEtNzYzNjE1OC0xIik7DQpwYWdlVHJhY2tlci5fdHJhY2tQYWdldmlldygpOw0KfSBjYXRjaChlcnIpIHt9DQovL11dPg0KPC9zY3JpcHQ+HwRnZAIPDxYEHwYF9QQNCjxTQ1JJUFQgVFlQRT0ndGV4dC9qYXZhc2NyaXB0JyBMQU5HVUFHRT0nSmF2YVNjcmlwdCcgU1JDPScvZWxxTm93L2VscUNmZy5qcyc+PC9TQ1JJUFQ+DQo8U0NSSVBUIFRZUEU9J3RleHQvamF2YXNjcmlwdCcgTEFOR1VBR0U9J0phdmFTY3JpcHQnIFNSQz0nL2VscU5vdy9lbHFJbWcuanMnPjwvU0NSSVBUPg0KPFNDUklQVCBUWVBFPSd0ZXh0L2phdmFzY3JpcHQnIExBTkdVQUdFPSdKYXZhU2NyaXB0Jz4NCgl2YXIgZWxxUFBTID0gJzcwJzsNCjwvU0NSSVBUPg0KPFNDUklQVCBUWVBFPSd0ZXh0L2phdmFzY3JpcHQnIExBTkdVQUdFPSdKYXZhU2NyaXB0JyBTUkM9Jy9lbHFOb3cvZWxxU2NyLmpzJz48L1NDUklQVD4NCjxTQ1JJUFQgVFlQRT0ndGV4dC9qYXZhc2NyaXB0JyBMQU5HVUFHRT0nSmF2YVNjcmlwdCc+DQoJd2luZG93Lm9ubG9hZCA9IGluaXRQYWdlOw0KCWZ1bmN0aW9uIGluaXRQYWdlKCl7DQoJCWlmICh0aGlzLkdldEVscUN1c3RvbWVyR1VJRCAmJiBqUXVlcnkoJ2lucHV0W25hbWU9ImVscUN1c3RvbWVyR1VJRCJdJykubGVuZ3RoID4gMCkNCgkJCWpRdWVyeSgnaW5wdXRbbmFtZT0iZWxxQ3VzdG9tZXJHVUlEIl0nKS52YWwoR2V0RWxxQ3VzdG9tZXJHVUlEKCkpOw0KCX0NCjwvU0NSSVBUPh8EZ2QYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgEFEmN0bDExJGJ1dHRvblNlYXJjaONZpUpocfme8CLeuQXSB8Rc6vec">
 </div>
 
 
-<script src="/ScriptResource.axd?d=MKC4f8e0gipAkga5ZPbL-pufP8sV_G0Z1q-9GcIbks_V6yFAtY6XJJaR1FaLZSB0Os5onnA-nW7qi9xUO6gkeBk9NFzrwKuvRiuRCjAuYVE1&amp;t=1dc9aac1" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=xKiNXNoLD__SfH09dDjJ7amHCDKdRjsLZNS8okBJ-ECtY8nQqvnjoCPTjp32-gP8i1qqySF5iYFW71ioqsT4GbeAU0oDeo0S3y6JrHxZcPWJ3VKTUk8o8i9rMdUH8pk2DSRR7KSx4fF4FR_VRjrFnJXqUNUTdBGTkrUZFGzQzgHCVirl0&amp;t=7bf3c20b" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
+</script>
+
 <div>
 
-	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAwLd1IXEBQK/3bqOBQLUx8qXCaxoMzCqHO41tEKYighLWQvu+Fx+">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAwK32uvjBAKyxv2VBQL1wciXCWUFwvdZgXAdamlbBIw5T29M4Bwm">
 </div>
 
 
 <div id="bodyWrapper">
 
 <div id="header">
-    <a title="Vertafore Home" href="/"><img class="logo" alt="Vertafore Home" src="/graphics/logo_vertafore.jpg"></a>
+    <a title="Vertafore Insurance Software" href="/"><img class="logo" alt="Vertafore Insurance Software" src="/graphics/logo_vertafore.jpg"></a>
     
 
     <div id="searchWrapper">
-   	    <p>Search</p><input name="ctl10$textBoxSearchValue" type="text" id="ctl10_textBoxSearchValue" class="searchField"><input type="image" name="ctl10$buttonSearch" id="ctl10_buttonSearch" src="/graphics/btn_go.jpg" style="border-width:0px;cursor:auto;"><img src="/graphics/header_phone.jpg" style="margin-left:10px;">
+        <div id="ctl11_SearchPanel">
+	
+   	        <p>Search</p><input name="ctl11$textBoxSearchValue" type="text" id="ctl11_textBoxSearchValue" class="searchField"><input type="image" name="ctl11$buttonSearch" id="ctl11_buttonSearch" src="/graphics/btn_go.jpg" alt="Search" style="border-width:0px;cursor:auto;"><img src="/graphics/header_phone.jpg" alt="800-444-4813" style="margin-left:10px;">
+   	    
+</div>
     </div>
-    <div class="nav">	    
-        <ul>
-    	        
-            <li><div id="sub-parent-Solutions"><a href="/Solutions">Solutions</a></div></li>
-            
-            <div id="sub-child-Solutions" class="sub-menus">
-            
-                    <a href="/Solutions/Agency">Agency</a>
+    <div class="nav">
+    
+            <ul class="sf-menu" style="width:100%">
+        
+            <li><a id="ctl11_TopNavRepeater_ctl01_Level1Link" href="/Solutions">Solutions</a>
+                <ul>
+                        <li><a href="/Solutions/Agency" class="sf-with-ul">Agency</a>
+                                                        
+                        </li>
+                    
+                        <li><a href="/Solutions/Carriers" class="sf-with-ul">Carrier</a>
+                                                        
+                        </li>
+                    
+                        <li><a href="/Solutions/MGA" class="sf-with-ul">MGA</a>
+                                                        
+                        </li>
+                    </ul>
+            </li>
+        
+            <li><a id="ctl11_TopNavRepeater_ctl02_Level1Link" href="/Products">Products</a>
+                <ul>
+                        <li><a href="/Products/Management-Systems" class="sf-with-ul">Management Systems</a>
+                            <ul>
+                                    <li><a href="/All-Products/AIM" class="sf-with-ul">AIM</a></li>
+                                
+                                    <li><a href="/All-Products/AMS360" class="sf-with-ul">AMS360</a></li>
+                                
+                                    <li><a href="/All-Products/BenefitPoint" class="sf-with-ul">BenefitPoint</a></li>
+                                
+                                    <li><a href="/All-Products/FinancePro" class="sf-with-ul">FinancePro</a></li>
+                                
+                                    <li><a href="/All-Products/InStar" class="sf-with-ul">InStar</a></li>
+                                
+                                    <li><a href="/All-Products/Prime" class="sf-with-ul">Prime</a></li>
+                                
+                                    <li><a href="/All-Products/Sagitta" class="sf-with-ul">Sagitta</a></li>
+                                </ul>                            
+                        </li>
+                    
+                        <li><a href="/Products/Content-Management-and-Workflow" class="sf-with-ul">Content Management &amp; Workflow</a>
+                            <ul>
+                                    <li><a href="/All-Products/WorkSmart" class="sf-with-ul">WorkSmart</a></li>
+                                
+                                    <li><a href="/All-Products/ImageRight" class="sf-with-ul">ImageRight</a></li>
+                                
+                                    <li><a href="/All-Products/CBDDoc" class="sf-with-ul">CBDDoc</a></li>
+                                </ul>                            
+                        </li>
+                    
+                        <li><a href="/Products/Connectivity-and-Rating" class="sf-with-ul">Connectivity &amp; Rating</a>
+                            <ul>
+                                    <li><a href="/All-Products/PL-Rating" class="sf-with-ul">PL Rating</a></li>
+                                
+                                    <li><a href="/All-Products/Policy-Rater" class="sf-with-ul">PolicyRater</a></li>
+                                
+                                    <li><a href="/All-Products/Portal-Server" class="sf-with-ul">Portal Server</a></li>
+                                
+                                    <li><a href="/All-Products/Prevail-Network" class="sf-with-ul">Prevail Network</a></li>
+                                
+                                    <li><a href="/All-Products/TransactNOW" class="sf-with-ul">TransactNOW</a></li>
+                                
+                                    <li><a href="/All-Products/Transit-Server" class="sf-with-ul">Transit Server</a></li>
+                                </ul>                            
+                        </li>
+                    
+                        <li><a href="/Products/Information-Solutions" class="sf-with-ul">Information Solutions</a>
+                            <ul>
+                                    <li><a href="/All-Products/ClientConnect" class="sf-with-ul">ClientConnect</a></li>
+                                
+                                    <li><a href="/All-Products/Producer-Plus" class="sf-with-ul">Producer Plus</a></li>
+                                
+                                    <li><a href="/All-Products/ReferenceConnect-Agencies" class="sf-with-ul">ReferenceConnect Agencies</a></li>
+                                
+                                    <li><a href="/All-Products/ReferenceConnect-Carriers-and-MGAs" class="sf-with-ul">ReferenceConnect Carriers &amp; MGAs</a></li>
+                                </ul>                            
+                        </li>
+                    
+                        <li><a href="/Products/Producer-Lifecycle-Management" class="sf-with-ul">Producer Lifecycle Management</a>
+                            <ul>
+                                    <li><a href="/All-Products/Sircon" class="sf-with-ul">Sircon</a></li>
+                                </ul>                            
+                        </li>
+                    
+                        <li><a href="/Products/Policy-Administration-and-Billing" class="sf-with-ul">Policy Administration &amp; Billing</a>
+                            <ul>
+                                    <li><a href="/All-Products/PolicyIssuance" class="sf-with-ul">PolicyIssuance</a></li>
+                                
+                                    <li><a href="/All-Products/Phoenix" class="sf-with-ul">Phoenix</a></li>
+                                
+                                    <li><a href="/All-Products/PremiumBill" class="sf-with-ul">PremiumBill</a></li>
+                                </ul>                            
+                        </li>
+                    </ul>
+            </li>
+        
+            <li><a id="ctl11_TopNavRepeater_ctl03_Level1Link" href="/Services/Support">Services and Support</a>
+                <ul>
+                        <li><a href="/Services/Support" class="sf-with-ul">Services and Support</a>
+                                                        
+                        </li>
+                    
+                        <li><a href="/Services/Training" class="sf-with-ul">Training</a>
+                                                        
+                        </li>
+                    
+                        <li><a href="/Services/Implementation" class="sf-with-ul">Implementation</a>
+                                                        
+                        </li>
+                    
+                        <li><a href="/Services/Custom-Solution" class="sf-with-ul">Custom Solution</a>
+                                                        
+                        </li>
+                    
+                        <li><a href="/Services/Consulting" class="sf-with-ul">Consulting</a>
+                                                        
+                        </li>
+                    
+                        <li><a href="/Services/Data-Migration" class="sf-with-ul">Data Migration</a>
+                                                        
+                        </li>
+                    
+                        <li><a href="/Services/Online-Hosting" class="sf-with-ul">Online Hosting</a>
+                                                        
+                        </li>
+                    
+                        <li><a href="/Services/Users-Group" class="sf-with-ul">Users Group</a>
+                                                        
+                        </li>
+                    
+                        <li><a href="/Services/Engineering" class="sf-with-ul">Engineering</a>
+                                                        
+                        </li>
+                    </ul>
+            </li>
+        
+            <li><a id="ctl11_TopNavRepeater_ctl04_Level1Link" href="/About-Us">About Us</a>
+                <ul>
+                        <li><a href="/About-Us/Why-Vertafore" class="sf-with-ul">Why Vertafore</a>
+                            <ul>
+                                    <li><a href="/About-Us/Why-Vertafore/At-a-Glance" class="sf-with-ul">At a Glance</a></li>
+                                
+                                    <li><a href="/About-Us/Why-Vertafore/History" class="sf-with-ul">History</a></li>
+                                </ul>                            
+                        </li>
+                    
+                        <li><a href="/About-Us/News-and-Events" class="sf-with-ul">News &amp; Events</a>
+                            <ul>
+                                    <li><a href="/About-Us/News-and-Events/Press-Releases" class="sf-with-ul">Press Releases</a></li>
+                                
+                                    <li><a href="/About-Us/News-and-Events/News-Coverage" class="sf-with-ul">News Coverage</a></li>
+                                
+                                    <li><a href="/About-Us/News-and-Events/Events-and-Webinars" class="sf-with-ul">Events &amp; Webinars</a></li>
+                                </ul>                            
+                        </li>
+                    
+                        <li><a href="/About-Us/Careers" class="sf-with-ul">Careers</a>
+                            <ul>
+                                    <li><a href="/About-Us/Careers/Benefits" class="sf-with-ul">Benefits</a></li>
+                                
+                                    <li><a href="/About-Us/Careers/Employee-Testimonials" class="sf-with-ul">Employee Testimonials</a></li>
+                                
+                                    <li><a href="/About-Us/Careers/Openings" class="sf-with-ul">Openings</a></li>
+                                
+                                    <li><a href="/About-Us/Careers/Values" class="sf-with-ul">Values</a></li>
+                                </ul>                            
+                        </li>
+                    
+                        <li><a href="/About-Us/Partners" class="sf-with-ul">Partners</a>
+                                                        
+                        </li>
+                    
+                        <li><a href="/About-Us/Partnership-Opportunities" class="sf-with-ul">Partnership Opportunities</a>
+                                                        
+                        </li>
+                    
+                        <li><a href="/About-Us/Management-Team" class="sf-with-ul">Management Team</a>
+                                                        
+                        </li>
+                    
+                        <li><a href="/About-Us/Board-of-Directors" class="sf-with-ul">Board of Directors</a>
+                                                        
+                        </li>
+                    
+                        <li><a href="/About-Us/Awards" class="sf-with-ul">Awards</a>
+                                                        
+                        </li>
+                    
+                        <li><a href="/About-Us/Resource-Library" class="sf-with-ul">Resource Library</a>
+                            <ul>
+                                    <li><a href="/About-Us/Resource-Library/Articles" class="sf-with-ul">Articles</a></li>
+                                
+                                    <li><a href="/About-Us/Resource-Library/Brochures" class="sf-with-ul">Brochures</a></li>
+                                
+                                    <li><a href="/About-Us/Resource-Library/Connectivity-Partner-Lists" class="sf-with-ul">Connectivity Partner Lists</a></li>
+                                
+                                    <li><a href="/About-Us/Resource-Library/Connectivity-and-Rating-Updates" class="sf-with-ul">Connectivity and Rating Updates</a></li>
+                                
+                                    <li><a href="/About-Us/Resource-Library/Demos" class="sf-with-ul">Demos</a></li>
+                                
+                                    <li><a href="/About-Us/Resource-Library/Media-Kits" class="sf-with-ul">Media Kits</a></li>
+                                
+                                    <li><a href="/About-Us/Resource-Library/Print-Advertisements" class="sf-with-ul">Print Advertisements</a></li>
+                                
+                                    <li><a href="/About-Us/Resource-Library/Success-Stories" class="sf-with-ul">Success Stories</a></li>
+                                
+                                    <li><a href="/About-Us/Resource-Library/White-Papers" class="sf-with-ul">White Papers</a></li>
+                                </ul>                            
+                        </li>
+                    </ul>
+            </li>
+        
+            <li><a id="ctl11_TopNavRepeater_ctl05_Level1Link" href="/Contact">Contact</a>
                 
-                    <a href="/Solutions/Carriers">Carrier</a>
-                
-                    <a href="/Solutions/MGA">MGA</a>
-                
-            </div>
-            <script type="text/javascript">at_attach("sub-parent-Solutions", "sub-child-Solutions", "hover", "y", "pointer", "Solutions", "off");</script>
-            
-      	        
-            <li><div id="sub-parent-Products"><a href="/Products">Products</a></div></li>
-            
-            <div id="sub-child-Products" class="sub-menus">
-            
-                    <a href="/Products/Management-Systems">Management Systems</a>
-                
-                    <a href="/Products/Content-Management-and-Workflow">Content Management &amp; Workflow</a>
-                
-                    <a href="/Products/Connectivity-and-Rating">Connectivity &amp; Rating</a>
-                
-                    <a href="/Products/Information-Solutions">Information Solutions</a>
-                
-                    <a href="/Products/Producer-Lifecycle-Management">Producer Lifecycle Management</a>
-                
-                    <a href="/Products/Policy-Administration-and-Billing">Policy Administration &amp; Billing</a>
-                
-            </div>
-            <script type="text/javascript">at_attach("sub-parent-Products", "sub-child-Products", "hover", "y", "pointer", "Products", "off");</script>
-            
-      	        
-            <li><div id="sub-parent-Services_and_Support"><a href="/Services">Services and Support</a></div></li>
-            
-            <div id="sub-child-Services_and_Support" class="sub-menus">
-            
-                    <a href="/Services/Support">Support</a>
-                
-                    <a href="/Services/Training">Training</a>
-                
-                    <a href="/Services/Implementation">Implementation</a>
-                
-                    <a href="/Services/Custom-Solution">Custom Solution</a>
-                
-                    <a href="/Services/Consulting">Consulting</a>
-                
-                    <a href="/Services/Data-Migration">Data Migration</a>
-                
-                    <a href="/Services/Online-Hosting">Online Hosting</a>
-                
-                    <a href="/Services/Users-Group">Users Group</a>
-                
-                    <a href="/Services/Engineering">Engineering</a>
-                
-            </div>
-            <script type="text/javascript">at_attach("sub-parent-Services_and_Support", "sub-child-Services_and_Support", "hover", "y", "pointer", "Services_and_Support", "off");</script>
-            
-      	        
-            <li><div id="sub-parent-About_Us"><a href="/About-Us">About Us</a></div></li>
-            
-            <div id="sub-child-About_Us" class="sub-menus">
-            
-                    <a href="/About-Us/Why-Vertafore">Why Vertafore</a>
-                
-                    <a href="/About-Us/News-and-Events">News &amp; Events</a>
-                
-                    <a href="/About-Us/Careers">Careers</a>
-                
-                    <a href="/About-Us/Partners">Partners</a>
-                
-                    <a href="/About-Us/Management-Team">Management Team</a>
-                
-                    <a href="/About-Us/Board-of-Directors">Board of Directors</a>
-                
-                    <a href="/About-Us/Awards">Awards</a>
-                
-                    <a href="/About-Us/Resource-Library">Resource Library</a>
-                
-            </div>
-            <script type="text/javascript">at_attach("sub-parent-About_Us", "sub-child-About_Us", "hover", "y", "pointer", "About_Us", "off");</script>
-            
-      	        
-            <li><div id="sub-parent-Contact"><a href="/Contact">Contact</a></div></li>
-            
-      
-          <li class="login"><a id="ctl10_CustomerLoginLink" href="/CustomerLogin">Customer Login</a></li>
-        </ul>
+            </li>
+        
+              <li class="login"><a href="/CustomerLogin">Customer Login</a></li>
+            </ul>        
+        
     </div>
     
 </div>
@@ -163,14 +334,18 @@
 
 
 <div id="oneColumnContentWrapper">
-    <a id="contentbody_0_contentonecolumn_0_BannerHyperLink"><img src="/~/media/Images/Banners/Subpages/PrivacyPolicy.ashx" style="border-width:0px;"></a>
+    <a id="contentbody_0_contentonecolumn_0_BannerHyperLink" alt="PrivacyPolicy"><img src="/~/media/Images/Banners/Subpages/PrivacyPolicy.ashx" style="border-width:0px;"></a>
 
-<h2 style="margin-top:22px;">Vertafore.com Privacy Policy</h2>
+<h1 style="margin-top:22px;">Vertafore.com Privacy Policy</h1>
+
+
+
+
 <span class="content">
     
     
     
-		<p>Updated:March 11, 2009</p>
+		<p>Updated: May 2, 2011</p>
     <p>This policy covers Vertafore.com (the "Site"). Other Vertafore web properties may have site specific privacy policies.</p>
     <p>
       <strong>Notice Regarding Collection and Use of your Personal Information</strong> </p>
@@ -183,7 +358,14 @@
     <p>
       <strong>Transfer of your Personal Information</strong> </p>
     <p>Except as otherwise described in this statement, personal information you provide via the Site will not be sold or shared outside of Vertafore.</p>
-    <p>Vertafore may disclose personal information if required to do so by law or in the good faith belief that such action is necessary to (a) conform to the edicts of the law or comply with legal process served on Vertafore or the Site; (b) protect and defend the rights or property of Vertafore and our family of Web Services and Sites; or (c) act in urgent circumstances to protect the personal safety of Vertafore employees or agents, users of Vertafore products or services, or members of the public.</p>
+    <p>Vertafore may disclose personal information if required to do so by law or in the good faith belief that such action is necessary to (a) conform to the edicts of the law or comply with legal process served on Vertafore or the Site; (b) protect and defend the rights or property of Vertafore and our family of Web Services and Sites; or (c) act in urgent circumstances to protect the personal safety of Vertafore employees or agents, users of Vertafore products or services, or members of the public.<br><br><strong>Use of Cookies<br><br></strong>The Site uses “cookies” so that we can recognize you and determine when you revisit Vertafore, and to provide a more personalized experience.&nbsp; A "cookie" is a small amount of data, which often includes an anonymous unique identifier, that our Site stores on the hard drive of your computer through your browser.&nbsp; Most browsers are set up to accept cookies, but you can usually change your browser settings to refuse them.&nbsp; Vertafore does not use cookies to retrieve personal information about you from your computer.<br><br>Vertafore uses cookies to: </p>
+    <ul>
+      <li>Recognize you so that you can log in to our Site and access your account information. </li>
+      <li>Evaluate how many people return to our Site and measure the traffic to various areas of the Site. </li>
+      <li>Track the way you use our promotions, contests, and sales. </li>
+      <li>Personalize a user’s experience on the Site and target our advertisements based on your current or previous use of our web site and any keywords you use on internet search engines to locate our Site. </li>
+      <li>Identify to third-party advertisers that you have visited the Site, so that these third-party advertisers may serve ads on our behalf.</li>
+    </ul>
     <p>
       <strong>Choice of Future Communications</strong> </p>
     <p>From time to time, Vertafore, Inc. and its controlled subsidiaries and affiliates may send you information about product and service offerings that may be of interest to you. At such a time, you will be given an opportunity to opt-out of future communications.</p>
@@ -198,7 +380,7 @@
     <p>Vertafore welcomes your comments regarding this privacy statement. If you have questions regarding this statement, please contact Vertafore at infosec@vertafore.com.</p>
     <p>If you believe that Vertafore has not adhered to this privacy statement, please contact us at infosec@Vertafore.com or via postal mail at the address provided below, and we will use commercially reasonable efforts to promptly determine and remedy the problem.</p>
     <p>
-      <strong>Vertafore, Inc. (Attention Legal Department)</strong> <br>11831 North Creek Parkway North<br>Bothell, WA 98011</p>
+      <strong>Vertafore, Inc. (Attention Legal Department)</strong> <br>11724 NE 195th Street<br>Bothell, WA 98011</p>
 </span>
 </div>
 
@@ -206,7 +388,8 @@
 
 <div id="footerWrapper">
     <div id="credits">
-        <p>© <span id="lblCopyYear">2010</span> Vertafore, Inc. All Rights Reserved.</p>
+        <p><strong>Vertafore. Unleash your potential.™</strong></p>
+        <p>© <span id="lblCopyYear">2011</span> Vertafore, Inc. All Rights Reserved.</p>
         <p>Call Vertafore at 1.800.444.4813.</p>
     </div>
 	<div id="maven">
@@ -219,7 +402,7 @@
   
     <span class="divider">|</span>
   
-    <p><a href="/Services">Services and Support</a></p>
+    <p><a href="/Services/Support">Services and Support</a></p>
   
     <span class="divider">|</span>
   
@@ -235,12 +418,14 @@
   
 
 <br>
-<p><a id="ctl11_PrivacyPolicyLink" href="/Privacy-Policy">Privacy Policy</a></p><span class="divider">|</span>
-<p><a id="ctl11_TermsLink" href="/Terms-of-Use">Terms of Use</a></p><span class="divider">|</span>
-<p><a id="ctl11_SitemapLink" href="/Sitemap">Sitemap</a></p><span class="divider">|</span>
-<p><a id="ctl11_ContactWebmasterLink" href="/Contact-Webmaster">Contact Webmaster</a></p>
+<p><a id="ctl12_PrivacyPolicyLink" href="/Privacy-Policy">Privacy Policy</a></p><span class="divider">|</span>
+<p><a id="ctl12_TermsLink" href="/Terms-of-Use">Terms of Use</a></p><span class="divider">|</span>
+<p><a id="ctl12_SitemapLink" href="/Sitemap">Sitemap</a></p><span class="divider">|</span>
+<p><a id="ctl12_ContactWebmasterLink" href="/Contact-Webmaster">Contact Webmaster</a></p>
 
 	</div>
+	<span style="display: block; float: right; color: #f47b2a;">™</span>
+	<img src="/images/vertafore_logo_small.png" style="display: block; float: right; margin: 4px 0 0 10px; width: 38px; height: 26px;" title="Vertafore. Unleash your potential." alt="Vertafore. Unleash your potential.">
 	<div id="social">
         <a href="http://www.facebook.com/vertafore" target="_blank" id="facebook" title="Facebook"></a>
         <a href="http://www.twitter.com/Vertafore" target="_blank" id="twitter" title="Twitter"></a>
@@ -265,8 +450,21 @@ pageTracker._trackPageview();
 } catch(err) {}
 //]]>
 </script>
+
 <script type="text/javascript" language="JavaScript" src="/elqNow/elqCfg.js"></script>
-<script type="text/javascript" language="JavaScript" src="/elqNow/elqImg.js"></script><layer hidden="true"><img src="https://secure.eloqua.com/visitor/v200/svrGP.aspx?pps=3&amp;siteid=693&amp;ref2=elqNone&amp;tzo=0&amp;ms=514" border="0" width="1" height="1"></layer>
+<script type="text/javascript" language="JavaScript" src="/elqNow/elqImg.js"></script><layer hidden="true"><img src="https://secure.eloqua.com/visitor/v200/svrGP.aspx?pps=3&amp;siteid=693&amp;ref2=elqNone&amp;tzo=0&amp;ms=507" border="0" width="1" height="1"></layer>
+<script type="text/javascript" language="JavaScript">
+	var elqPPS = '70';
+</script>
+<script type="text/javascript" language="JavaScript" src="/elqNow/elqScr.js"></script>
+<script type="text/javascript" language="JavaScript">
+	window.onload = initPage;
+	function initPage(){
+		if (this.GetElqCustomerGUID && jQuery('input[name="elqCustomerGUID"]').length > 0)
+			jQuery('input[name="elqCustomerGUID"]').val(GetElqCustomerGUID());
+	}
+</script>
+
 
 
 
