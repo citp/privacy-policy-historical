@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 3d-savers.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122013449id_/http%3A//www.3d-savers.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3d-savers.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523103930id_/http%3A//www.3d-savers.com/privacy_policy.html) for the most accurate reproduction.*
 
 # 3D-Savers.com - Privacy Policy
 
@@ -26,13 +26,13 @@ If you have any questions or concerns about this 3D Savers Privacy Policy or its
   
 
 
-[FREE 3D Snowy Cottage ScreenSaver](http://off.freeze.com/survey/snowycottage/index.asp?a=6965&f=3ds_foot2)  
+[FREE Living 3D Dolphins ScreenSaver](http://www.favdownloads.com/download/Screensavers/Living-3D-Dolphins-Screensaver/?&a=6965&f=3ds_foot2)  
   
 ---  
 |    
-[](http://off.freeze.com/survey/snowycottage/index.asp?a=6965&f=3ds_foot2) |  Unwind to the magic of accumulating snow at our charming 3D Snowy Cottage. Twilight approaches on this quaint stone cottage with its glowing windows and smoking chimney. The evergreen setting comes alive with birds, rabbits and a meandering stream under a rustic stone bridge. 
+[](http://www.favdownloads.com/download/Screensavers/Living-3D-Dolphins-Screensaver/?&a=6965&f=3ds_foot2) |  Swim to the ocean depths with Living 3D Dolphins. The beautiful coral seascape is a perfect setting for our amazing 3D dolphins and exotic fish. The sunlight shimmers through the water as the dolphins and fish swim gracefully. The scene comes alive with the sounds of the ocean and dolphins. Truly mesmerizing. 
 
-[FREE 3D Snowy Cottage ScreenSaver Download](http://off.freeze.com/survey/snowycottage/index.asp?a=6965&f=3ds_foot2)
+[Free Living 3D Dolphins Download](http://www.favdownloads.com/download/Screensavers/Living-3D-Dolphins-Screensaver/?&a=6965&f=3ds_foot2)
 
 |   
   
