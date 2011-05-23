@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mobiles.co.uk privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121122038id_/http%3A//www.mobiles.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobiles.co.uk privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523210342id_/http%3A//www.mobiles.co.uk/privacy.html) for the most accurate reproduction.*
 
-# Mobiles.co.uk privacy policy - Best Mobile Phone Deals on Orange, O2, T-Mobile, 3, Vodafone
+# Mobiles.co.uk privacy policy
 
 ## Mobiles.co.uk Privacy Statement
 
@@ -65,7 +65,3 @@ WD18 8RF
 We will respond in full within 40 days. We recommend using Recorded Delivery so you can check your request has been received.
 
 If you have any questions about privacy, please e-mail [Ben Godber](mailto:ben.godber@mobiles.co.uk?subject=Privacy%20Policy). 
-
-[](https://web.archive.org/web/20101121122038id_/http%3A//www.mobiles.co.uk/newsletter.html "Win a Free iPad with Mobiles.co.uk Newsletter!")
-
-[](https://web.archive.org/customer-feedback.html "More customer feedback")
