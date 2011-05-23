@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the businesslistingnow.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123023822id_/http%3A//www.businesslistingnow.com/site_privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businesslistingnow.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523174948id_/http%3A//www.businesslistingnow.com/site_privacy.php) for the most accurate reproduction.*
 
 # Resources - Business in Australia - Business Directory listings
 
