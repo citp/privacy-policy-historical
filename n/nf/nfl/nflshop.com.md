@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nflshop.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122093008id_/http%3A//www.nflshop.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dbotnav_privacy_txt) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nflshop.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523062423id_/http%3A//www.nflshop.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dbotnav_privacy_txt) for the most accurate reproduction.*
 
 # NFL Shop
 
@@ -72,8 +72,21 @@ If you have accessed this Web Site through a link from certain of our advertisin
 
 When we run a contest or sweepstakes relating to this Web Site, it will be accompanied by a set of rules. The rules for each contest/sweepstakes will specify how the information gathered from you for entry will be used and disclosed, if different than as described in this Privacy Policy.
 
+**_NFLShop Mobile Alerts Privacy Policy_**
+
+You may decide to have promotional text messages sent directly to your mobile device. This program is completely voluntary, and messages will be sent to you only if you have opted in to receive them. Message and data rates may apply. If you have errantly received a marketing text message without opting in to the program, or if you wish to opt out of receiving text messages, you can cancel the program by either:
+
+  * **replying "STOP" to FANTXT (326898); or**
+  * contacting Customer Service by phone at 1.877.NFL.SHOP.
+
+
+
+When cancelling by calling the number above and/or emailing, you will need to provide your mobile phone number in order to be removed from the program. It may take up to 10 days to process your stop request. You may receive additional text messages from NFLShop during this time.
+
+NFLShop respects your privacy and your mobile number will only be used in this text message program by NFLShop and its third party marketing partners administering this program on NFLShop's behalf as set forth above.
+
 **_How Will I Be Informed About Changes Regarding This Privacy Policy?_**
 
 If we make any material changes to this Privacy Policy, we will post a notice on this Web Site notifying users of the changes. In some cases, we also may send an email notifying users of the changes. You should check this Web Site periodically to see if any recent changes to this Privacy Policy have occurred. 
 
-Effective: April 15, 2006
+Effective: March 29, 2011
