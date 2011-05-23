@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the newsday.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122230451id_/http%3A//www.newsday.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsday.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523231223id_/http%3A//www.newsday.com/privacy) for the most accurate reproduction.*
 
-# Privacy policy
+# Privacy Policy
 
 Newsday LLC ("Newsday" or "we") strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience on Newsday.com. We may use Personally Identifiable Information (your name, e-mail address,  street address, telephone number or other information about you that could potentially  identify you) subject to the terms of this privacy policy. Please note this policy applies only to information collected by Newsday through Newsday.com and does not impact information collected or used by Newsday or its Affiliates through other means. 
 
@@ -40,7 +40,7 @@ Newsday does not knowingly collect or solicit Personally Identifiable Informatio
 
 **[California](https://web.archive.org/topics/California) Privacy Rights**
 
-Beginning January 1, 2005, California law permits visitors who are California residents to request certain information regarding our disclosure of Personally Identifiable Information to third parties for their direct marketing purposes. To make such a request, please send an email or write to us at the contact information below. 
+Beginning January 1, 2005, [California](https://web.archive.org/topics/California) law permits visitors who are [California](https://web.archive.org/topics/California) residents to request certain information regarding our disclosure of Personally Identifiable Information to third parties for their direct marketing purposes. To make such a request, please send an email or write to us at the contact information below. 
 
 **Contacting us.**
 
@@ -58,6 +58,6 @@ Newsday reserves the right to change this policy at any time. Please check this 
 
 **Governing law.**
 
-This policy and the use of Newsday.com are governed by New York law. Any claim related to Newsday.com or this policy shall be brought in a federal or state court in [Nassau](https://web.archive.org/topics/Nassau_County%2C_NY) or [Suffolk](https://web.archive.org/topics/Suffolk_County%2C_NY) Counties, New York, within one year after the claim arises. You agree no such claim may be brought as a class action. Users of Newsday.com consent to the jurisdiction and venue of such court as the most convenient and appropriate for the resolution of disputes concerning this policy. Newsday.com is controlled, operated and administered entirely within the United States. If you are located outside the United States, please note the information you provide to us will be transferred to the United States. You hereby consent to this transfer. 
+This policy and the use of Newsday.com are governed by [New York](https://web.archive.org/topics/New_York%2C_NY) law. Any claim related to Newsday.com or this policy shall be brought in a federal or state court in [Nassau](https://web.archive.org/topics/Nassau_County%2C_NY) or [Suffolk](https://web.archive.org/topics/Suffolk_County%2C_NY) Counties, New York, within one year after the claim arises. You agree no such claim may be brought as a class action. Users of Newsday.com consent to the jurisdiction and venue of such court as the most convenient and appropriate for the resolution of disputes concerning this policy. Newsday.com is controlled, operated and administered entirely within the United States. If you are located outside the United States, please note the information you provide to us will be transferred to the United States. You hereby consent to this transfer. 
 
 Copyright © 2010, Newsday LLC. 
