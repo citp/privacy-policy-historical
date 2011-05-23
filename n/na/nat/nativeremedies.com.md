@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nativeremedies.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203091947id_/http%3A//www.nativeremedies.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nativeremedies.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523022349id_/http%3A//www.nativeremedies.com/privacy.shtml) for the most accurate reproduction.*
 
 # Native Remedies Privacy Policy
 
