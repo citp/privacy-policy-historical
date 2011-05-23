@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the readingrockets.org privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121165006id_/http%3A//www.readingrockets.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readingrockets.org privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523055653id_/http%3A//www.readingrockets.org/privacy) for the most accurate reproduction.*
 
 # Reading Rockets: Privacy Policy
 
@@ -6,7 +6,7 @@ Protecting the privacy of our web site visitors is very important to us. Because
 
 The information gathered by Reading Rockets falls into two categories: (1) information voluntarily supplied by visitors to Reading Rockets and (2) tracking information routinely gathered as visitors navigate through our site.
 
-## Voluntarily-supplied information
+## Voluntarily supplied information
 
 To make use of certain features on Reading Rockets you need to register and provide certain information as part of the registration process. The information you supply will help us to offer you more personalized features and to tailor our sites to your interests and make them more useful to you. Reading Rockets does not collect any personally-identifying information unless you choose to provide that information to us.
 
@@ -22,7 +22,7 @@ Posting to bulletin boards or using online surveys
 
 To use Reading Rockets' message boards you must register with a unique username. This username and posts made under that username are not correlated to any personally-identifying information collected elsewhere in the site. We may, however, generalize your responses without personally identifiable information so other visitors may learn from your response. We may also use your comments for promotional purposes without personally identifiable information.
 
-Sending email to "Ask an Expert"
+Sending e-mail to "Ask an Expert"
 
 As a public service, the Reading Rockets staff and consultants respond personally to e-mails we receive through "Ask an Expert." Questions are answered by experts who are up-to-date on the latest reading research and knowledgeable about the practical challenges facing parents and teachers. You'll receive a response in a few days and correspondence will remain confidential and will not be posted. To send email to Reading Rockets, you must enter a name and e-mail address, and of course, your question. This information is used to respond to your question, in aggregate form for statistical purposes, and may be generalized without personally identifiable information so other visitors may learn from the question and answer.
 
