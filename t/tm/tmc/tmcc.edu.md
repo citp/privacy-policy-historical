@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tmcc.edu privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122085030id_/http%3A//www.tmcc.edu/disclaimer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tmcc.edu privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523182606id_/http%3A//www.tmcc.edu/disclaimer) for the most accurate reproduction.*
 
 # Online Privacy Statement
 
@@ -20,7 +20,7 @@ If, after due consideration, you wish to restrict the release of directory infor
 
 #### Network Traffic Logs
 
-In the course of ensuring network security and consistent service for all users, TMCC employs software programs to do such things as monitor network traffic, identify unauthorized access or access to nonpublic information, detect computer viruses and other software that might damage TMCC's computers or the network, and monitor and tune the performance of the TMCC network. In the course of such monitoring, these programs may detect such information as e-mail headers, addresses from network packets, and other information. Information from these activities is used only for the purpose of maintaining the security and performance of the TMCC's networks and computer systems. Personally identifiable information from these activities is not released to external parties without your consent unless authorized by the TMCC President or required by law.
+In the course of ensuring network security and consistent service for all users, TMCC employs software programs to do such things as monitor network traffic, identify unauthorized access or access to nonpublic information, detect computer viruses and other software that might damage TMCC's computers or the network, and monitor and tune the performance of the TMCC network. In the course of such monitoring, these programs may detect such information as email headers, addresses from network packets, and other information. Information from these activities is used only for the purpose of maintaining the security and performance of the TMCC's networks and computer systems. Personally identifiable information from these activities is not released to external parties without your consent unless authorized by the TMCC President or required by law.
 
 #### Web Logs
 
