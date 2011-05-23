@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careermideast.com privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214112215id_/http%3A//www.careermideast.com/en/General/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careermideast.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523173320id_/http%3A//www.careermideast.com/en/General/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # CareerMidEast.com Online Recruitment Portal
 
