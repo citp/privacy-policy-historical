@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestfreetemplates.org privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229114935id_/http%3A//www.bestfreetemplates.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestfreetemplates.org privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523183202id_/http%3A//www.bestfreetemplates.org/privacy) for the most accurate reproduction.*
 
 # Free Templates, Free Website Templates, Web Templates Directory
 
