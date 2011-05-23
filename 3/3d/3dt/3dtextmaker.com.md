@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 3dtextmaker.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122082845id_/http%3A//www.greetingspring.com/index.php%3Ftarget%3Dpage%26id%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3dtextmaker.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523060706id_/http%3A//www.greetingspring.com/index.php%3Ftarget%3Dpage%26id%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Free Animated Ecards, Funny Online Greetings, and Printable Cards
 
