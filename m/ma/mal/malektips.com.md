@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the malektips.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125132655id_/http%3A//malektips.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the malektips.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523063752id_/http%3A//malektips.com/privacy.html) for the most accurate reproduction.*
 
 # MalekTips - Privacy Policy
 
@@ -31,3 +31,6 @@ Regarding BurstMedia: We use third-party advertising companies to serve ads when
 Portions of MalekTips and PCandCameraHelp.Com may require registration, which may include submitting an e-mail address and/or other personally identifiable information. These portions are not geared towards children, and we do not knowingly collect personal information from those under the age of 13. 
 
 [](https://web.archive.org/rss/)\- Subscribe!
+
+  
+[](http://twitter.com/malektips/)
