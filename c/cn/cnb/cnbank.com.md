@@ -1,8 +1,11 @@
-> *The following text is extracted and transformed from the cnbank.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229041529id_/http%3A//www.cnbank.com/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cnbank.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523055341id_/http%3A//www.cnbank.com/Privacy_Policy) for the most accurate reproduction.*
 
 # Privacy Policy - Canandaigua National Bank & Trust
 
-Canandaigua National Corporation   
+### Canandaigua National Corporation   
+Privacy Policy   
+
+
 Canandaigua National Corporation recognizes its customers' expectations of financial privacy, and preserving our customers' trust is one of the core values of our bank and our family of financial service companies. For over 120 years, respecting and protecting customer privacy has been vital to our business. 
 
 ##### Our Security Procedures
@@ -39,6 +42,8 @@ Canandaigua National Corporation's Privacy Policy and the Fair Credit Reporting 
   * The Canandaigua National Bank and Trust Company
   * CNB Mortgage Company 
   * CNB Insurance Agency
+  * Canandaigua National Trust Company of Florida
+  * The Genesee Valley Trust Company
 
 
 
