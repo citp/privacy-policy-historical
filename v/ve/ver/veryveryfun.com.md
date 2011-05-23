@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the veryveryfun.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122082135id_/http%3A//veryveryfun.com/content/view/68/33) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the veryveryfun.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523174849id_/http%3A//veryveryfun.com/content/view/68/33) for the most accurate reproduction.*
 
-# Fun and Interesting Place - Privacy Policy
+# Fun - Privacy Policy
 
 | 
 
