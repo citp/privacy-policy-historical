@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the originpc.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127152451id_/http%3A//www.originpc.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the originpc.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523174756id_/http%3A//www.originpc.com/privacy-policy.asp) for the most accurate reproduction.*
 
 # ORIGIN PCs - Custom Built Gaming Desktops and Laptops - Privacy Policy
 
