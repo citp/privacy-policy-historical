@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amailsender.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223203200id_/http%3A//www.amailsender.com/pp.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amailsender.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523092428id_/http%3A//www.amailsender.com/pp.htm) for the most accurate reproduction.*
 
 # AtomPark Software Inc. Privacy Policy
 
