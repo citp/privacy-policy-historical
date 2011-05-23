@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the cw.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121170638id_/http%3A//www.cw.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cw.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523174805id_/http%3A//www.cw.com/privacy) for the most accurate reproduction.*
 
-# Privacy Statement | Cable&Wireless Worldwide
+# Privacy | Cable&Wireless Worldwide
 
 Cable&Wireless Worldwide takes its responsibilities towards the security of your information very seriously. We are also committed to safeguarding your privacy whilst providing you with a professional and personalised service.
 
 This statement explains how Cable&Wireless Worldwide use your personal information when providing that service and what steps we take to look after it.
 
-We may update this Statement from time to time. If we do, material changes will be notified on [our website](http://www.my-cw-portal.com/portal/dt?JSPTabContainer.setSelected=JSPTabContainer/Home&JSPTabContainer/Home.setSelected=JSPTabContainer/Home/HomeLandingPage&tid=1200419452597&mid=false&last=false&disp=false) at least 30 days prior to any change being implemented.
+We may update this Statement from time to time. If we do, material changes will be notified on our website at least 30 days prior to any change being implemented.
 
 ## What type of personal information might we collect?
 
@@ -52,4 +52,4 @@ Cable&Wireless Worldwide operates internationally so we may transfer your person
 
 In the first instance you should get in touch with your local Cable&Wireless Worldwide contact or office, however, if your complaint is not resolved to your complete satisfaction, you should contact our Data Protection Officer who is located at Waterside House, Longshot Lane, Bracknell, Berkshire, UK, RG12 1XL or email [Ask Data Protection](mailto:askdataprot@cwmsg.cwplc.com).
 
-If we still cannot resolve your complaint, it will be escalated.  Any finding of misuse of your information by Cable&Wireless will be remedied as soon as reasonably possible.
+If we still cannot resolve your complaint, it will be escalated.  Any finding of misuse of your information by Cable&Wireless Worldwide will be remedied as soon as reasonably possible.
