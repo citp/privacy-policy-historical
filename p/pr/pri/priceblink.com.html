@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the priceblink.com privacy policy that was archived on 2010-12-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101229013840id_/http%3A//www.priceblink.com/webcpns/page.php%3Fsp_id%3D7) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the priceblink.com privacy policy that was archived on 2011-05-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110523063937id_/http%3A//www.priceblink.com/webcpns/page.php%3Fsp_id%3D7) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -7,15 +7,8 @@
 <link type="text/css" rel="stylesheet" href="css/style2.css">
 <link rel="SHORTCUT ICON" href="http://www.priceblink.com/webcpns/fav_icon.ico">
 <script type="text/javascript" src="jscript/inputfields.js"></script>
-<script type="text/javascript" src="jscript/jquery-1.2.6.pack.js"></script>
-<script type="text/javascript">
-$(document).ready(function() {
-$(".FaqContent .QuesAns a").click(function() {
-openTab($(this)); return false;
-	});
-$(".FaqContent .QuesAns a:eq("+ currentTab +")").click()
-		}); 
-</script>
+
+
 
 <!--[if lte IE 6]>
 <script type="text/javascript" src="jscript/supersleight-min.js"></script>
@@ -44,8 +37,8 @@ div.RightSection2 li { margin-left:10px; list-style-type:disc;  }
                        <li><a href="http://www.priceblink.com" class="HomeNav" title="HOME"><span>Home</span></a></li>
             	
                         <li><a href="http://www.priceblink.com/coupons-codes/retailers" class="CouponsNav" title="COUPONS"><span>Coupons</span></a></li>
-            <li><a href="http://www.priceblink.com/webcpns/wishlist.php" class="WatchlistsNav" title="Wish Lists"><span>Wish Lists</span></a></li>            <div style="float:right;">
-            <a href="entry.php?load=login" class="white_link"><strong>Login</strong></a>            </div>
+            <li><a href="http://www.priceblink.com/webcpns/wishlist.php" class="WatchlistsNav" title="Wish Lists"><span>Wish Lists</span></a></li>            <div style="float:right;" id="LoginLogoutLKContainer">
+            <a href="entry.php?load=login" class="white_link" style="color:#FFF;font-size:16px;"><strong>Login</strong></a>            </div>
           </ul>
       
     </div>
@@ -55,7 +48,7 @@ div.RightSection2 li { margin-left:10px; list-style-type:disc;  }
       <div class="SearchSection">
         <!-- SearchSection -->
         <span class="LeftBg"></span>
-		        <div class="SearchMiddle">
+		                <div class="SearchMiddle">
          <form name="searchfrm" action="go_search.php" method="get" onsubmit="checksearch();">
             <div class="InputBg"><label for="txtsearch" class="Display">Search</label>
               <input type="text" class="searchTxt" name="search_text" id="txtsearch" value="Search coupon codes" onfocus="gotFocus(this,'Search coupon codes');" onblur="lostFocus(this,'Search coupon codes');">
@@ -63,12 +56,236 @@ div.RightSection2 li { margin-left:10px; list-style-type:disc;  }
             <div class="SearchBtn">
               <input type="image" src="images/btnSearch.jpg" alt="Search" title="Search">
             </div>
-            <p>e.g. target.com,  ae.com,  jcp.com,  turbotax.com</p>
-          </form>
+            <p>e.g. target.com,  ae.com,  jcp.com,  turbotax.com</p>           </form>
         </div>        <span class="RightBg"></span> </div>
     </div>
 	
-		    <div class="ContentWrapper">
+			<script>
+var showClosebutton = true;
+</script>
+<!--<script type="text/javascript" src="jscript/fancybox/jquery-1.2.3.pack.js"></script>-->
+<script type="text/javascript" src="jscript/jquery-1.2.6.pack.js"></script>
+<script type="text/javascript" src="jscript/fancybox/jquery.fancybox-1.0.0.js"></script>
+<link type="text/css" rel="stylesheet" href="jscript/fancybox/fancy.css">
+  <script type="text/javascript">
+  		 var customDimension=false;       $(document).ready(function(){
+								 //$(".fancybox").attr('showClosebutton');
+      $(".fancybox").fancybox(
+							 {
+								autoDimensions	: true								//use below code for custom dimensions
+															 });
+	  	
+		
+	  
+	  });
+	  
+	  
+	//parent.$.fn.fancybox.hideclosebutton(this.window);
+	   
+      </script>
+<div id="fb-root"><script async="" src="https://connect.facebook.net/en_US/all.js"></script></div>
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({
+			appId: '147842788604095', 
+			channelUrl: 'http://www.priceblink.com/webcpns/channel.html',
+			status: true, 
+			cookie: true,
+            xfbml: true });
+		FB.getLoginStatus(function(response) {
+			if (response.session) {
+				//alert("I am logged in");
+				if(document.getElementById('LoginLogoutLKContainer') != null){
+					
+					document.getElementById('LoginLogoutLKContainer').innerHTML = '<a href="javascript:logoutme();" class="white_link" style="color:#FFF;text-decoration:none;font-size:16px;"><strong>Logout</strong></a>';
+					$.ajax({
+					url: 'facebook_scripts.php?id=LoginUser',
+					async:false,
+					success: function(data) {
+					
+					var closeWindow = false;
+					eval(data);
+					//var DataArr = new Array();
+					
+												
+				}
+				});
+			 
+				} else {
+					 var e = document.createElement('script'); e.async = true;
+		e.src = document.location.protocol +
+      '//connect.facebook.net/en_US/all.js';
+    document.getElementById('fb-root').appendChild(e);
+					
+					//setInterval('window.parent.location.reload();',200);
+					window.parent.location.reload();					
+										
+				}
+				
+				
+				
+				//alert('logged in and connected user, someone you know');
+				// logged in and connected user, someone you know
+			} else {
+				
+				//alert('no user session available, someone you dont know');
+			// no user session available, someone you dont know
+		}
+		});
+	  };
+  (function() {
+    var e = document.createElement('script'); e.async = true;
+    e.src = document.location.protocol +
+      '//connect.facebook.net/en_US/all.js';
+    document.getElementById('fb-root').appendChild(e);
+  }());
+
+			 
+		 		/*
+		var intervalX;
+		function chkfblogin(){
+			FB.getLoginStatus(function(response) {
+				if (response.session) {
+					window.location.reload();
+					//alert('logged in and connected user, someone you know');
+					// logged in and connected user, someone you know
+				} else {
+					clearInterval(intervalX);
+					//alert('no user session available, someone you dont know');
+				// no user session available, someone you dont know
+			}
+			});
+		}
+		intervalX = setInterval('chkfblogin();',1);   
+		*/
+				 
+		function FACEBOOKLogin(){
+			FB.login(function(response) {
+				if (response.session) {
+					
+					$.ajax({
+					url: 'facebook_scripts.php?id=LoginUser',
+					async:false,
+					success: function(data) {
+					//$('.result').html(data);
+					//alert('Load was performed.'+data);
+					//alert(data);
+					var closeWindow = false;
+					eval(data);
+					if(closeWindow){
+						//alert("Condition true");
+						window.parent.location.href = 'wishlist.php';
+						parent.$.fn.fancybox.close();
+						//setTimeout('parent.$.fn.fancybox.close();',500);
+					} else {
+						//alert("Condition false");	
+					}
+					//var DataArr = new Array();
+					
+												
+				}
+				});
+					//window.location.reload();
+					/*
+					var str = "";
+					for (prop in response.session)
+					{
+				  	str += prop + " value :" + response.session[prop] + "\n";
+					}
+					alert(str);
+					alert("user logged in \n"+response);
+					*/
+					// user successfully logged in
+				} else {
+					alert("unable to log-in. Please Try again");
+					// user cancelled login
+				}
+			},{perms:'email'});		 
+		}
+		function getuserdetails(){
+			var cook = '';
+			var cook = getCookie('fbs_147842788604095');
+			var FBtoken = cook.replace(/"/g,'');
+			var FBurl = 'facebook_scripts.php?id=LoginUser&token='+FBtoken;
+			//var FBurl = 'https://www.vcsdatabase.com';
+			//alert(FBurl);
+			$.ajax({
+				url: FBurl,
+				success: function(data) {
+				//$('.result').html(data);
+				//alert('Load was performed.'+data);
+				alert(data)
+				var DataArr = new Array();
+				eval(data);
+				//alert(DataArr['id']);
+							
+			}
+			});	
+		} 
+		
+		
+		
+		 function logoutme(){
+			 //alert(getCookie('fbs_147842788604095'));
+			 window.location.href = 'http://www.priceblink.com/webcpns/logout.php';		}
+		
+		function getCookie(c_name)
+		{
+			var i,x,y,ARRcookies=document.cookie.split(";");
+			for (i=0;i<ARRcookies.length;i++){
+		  		x=ARRcookies[i].substr(0,ARRcookies[i].indexOf("="));
+		  		y=ARRcookies[i].substr(ARRcookies[i].indexOf("=")+1);
+		  		x=x.replace(/^\s+|\s+$/g,"");
+		  		if (x==c_name){
+					return unescape(y);
+				}
+		  	}
+		}
+
+		
+		
+		
+		function UpdateUserstatus(){
+			FB.getLoginStatus(function(response) {
+			if (response.session) {
+				var cook = getCookie('fbs_147842788604095');
+				var FBtoken = cook.replace(/"/g,'');
+				var FBurl = 'facebook_scripts.php?id=LoginUser&token='+FBtoken;
+				if(cook) {
+					$.ajax({
+					url: FBurl,
+					success: function(data) {
+					//$('.result').html(data);
+					//alert('Load was performed.'+data);
+					//alert(data)
+					var DataArr = new Array();
+					eval(data);
+					//alert(DataArr['id']);
+								
+				}
+				});		
+				// no user session available, someone you dont know
+				// logged in and connected user, someone you know
+			} else { 
+				//alert('aaaaaaaa'+cook);
+				window.location.href = 'http://www.priceblink.com/webcpns/logout.php';
+			} 
+			
+		  } else {
+			  
+			}
+		});
+	
+		}
+		
+		var cook = getCookie('fbs_147842788604095');
+		if(cook){
+			setInterval('UpdateUserstatus();',1000*60*19);
+		} 
+		
+	
+      </script>
+       <div class="ContentWrapper">
       <!-- Content Begins -->
       <div class="LeftSection">
         <!-- Left Begins -->
@@ -329,22 +546,12 @@ div.RightSection2 li { margin-left:10px; list-style-type:disc;  }
   from us and our partners at the point where we request User Submitted Information
   from you. <br>
   You may also request that we remove your User Submitted Information from our
-  database, or stop sending you future communications by <a href="page.php?sp_id=6">contacting us</a>.&nbsp; <br>
+  database, or stop sending you future communications by <a href="mailto:contact@priceblink.com">contacting us</a>.&nbsp; <br>
   <strong>Corrections</strong> <br>
   Users may submit requests to PriceBlink for changing, deleting, and modifying
-  User Submitted Information, by <a href="page.php?sp_id=6">contacting us</a>.&nbsp; </p>      </div>
+  User Submitted Information, by <a href="mailto:contact@priceblink.com">contacting us</a>.&nbsp; </p>      </div>
     </div>
-    <script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." :
-"http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-try {
-var pageTracker = _gat._getTracker("UA-12364699-1");
-pageTracker._trackPageview();
-} catch(err) {}</script>
-<div id="FooterWrapper">
+    <div id="FooterWrapper">
       <!-- Footer Begins -->
       <span class="LeftBg"></span>
       <div id="FooterMiddle">
@@ -359,12 +566,33 @@ pageTracker._trackPageview();
           <li>|</li>
           <li><a href="http://www.priceblink.com/webcpns/page.php?sp_id=7" title="Privacy Policy">Privacy Policy</a></li>
 		  <li>|</li>
-          <li><a href="http://www.priceblink.com/webcpns/page.php?sp_id=13" title="Privacy Policy">News</a></li>
+          <li><a href="http://www.priceblink.com/webcpns/page.php?sp_id=13" title="News">News</a></li>
+          <li>|</li>
+          <li><a href="http://www.priceblink.com/webcpns/page.php?sp_id=29" title="In the Press">In the Press</a></li>
         </ul>
         <p>© 2010 priceblink.com. All rights reserved. </p>
       </div>
-      <span class="RightBg"></span> </div>  </div>
+      <span class="RightBg"></span> </div>
+	<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." :
+"http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-12364699-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+	    </div>
 </div>
+<script type="text/javascript">
+$(document).ready(function() {
+$(".FaqContent .QuesAns a").click(function() {
+openTab($(this)); return false;
+	});
+$(".FaqContent .QuesAns a:eq("+ currentTab +")").click()
+		}); 
+</script>
 
 
-</body></html>
+<div id="fancy_wrap"><div id="fancy_loading"><div></div></div><div id="fancy_outer"><div id="fancy_inner"><div id="fancy_bg"><div class="fancy_bg fancy_bg_n"></div><div class="fancy_bg fancy_bg_ne"></div><div class="fancy_bg fancy_bg_e"></div><div class="fancy_bg fancy_bg_se"></div><div class="fancy_bg fancy_bg_s"></div><div class="fancy_bg fancy_bg_sw"></div><div class="fancy_bg fancy_bg_w"></div><div class="fancy_bg fancy_bg_nw"></div></div><div id="fancy_nav"></div><div id="fancy_close"></div><div id="fancy_content"></div><div id="fancy_title"><table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td id="fancy_title_left"></td><td id="fancy_title_main"><div></div></td><td id="fancy_title_right"></td></tr></tbody></table></div></div></div></div></body></html>
