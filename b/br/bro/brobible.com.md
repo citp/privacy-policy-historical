@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the brobible.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222220503id_/http%3A//www.brobible.com/story/13156127) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brobible.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523235454id_/http%3A//www.brobible.com/bronews/13156127) for the most accurate reproduction.*
 
-# BroBible.com | Privacy
+# Privacy - BroBible.com
+
+  
+
 
 _Updated as of April 5, 2010_
 
