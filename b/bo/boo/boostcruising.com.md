@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the boostcruising.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210232905id_/http%3A//www.boostcruising.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boostcruising.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523174447id_/http%3A//www.boostcruising.com/privacy.php) for the most accurate reproduction.*
 
-# Boostcruising.com - Boostcruising.com - Terms and Conditions
+# Boostcruising - Boostcruising.com - Terms and Conditions
 
-Sanity Technology Pty Ltd ("Sanity Technology", "we" or "us") is committed to protecting your privacy in accordance with the National Privacy Principles set out in the Privacy Act 1988 (Cth). Those principles regulate the way in which we collect, use, store, disclose and provide access to your personal information.
+Boostcruising is committed to protecting your privacy in accordance with the National Privacy Principles set out in the Privacy Act 1988 (Cth). Those principles regulate the way in which we collect, use, store, disclose and provide access to your personal information.
 
 This Privacy Policy explains certain aspects of how we have implemented the National Privacy Principles in order to protect the privacy of your personal information.
 
@@ -10,7 +10,7 @@ This Privacy Policy explains certain aspects of how we have implemented the Nati
 
 Personal information is information that allows others to identify you.
 
-If you become a member of Boostcruising.com the personal information about you which is collected and held by Sanity Technology:
+If you become a member of Boostcruising.com the personal information about you which is collected and held :
 
 \- will include your name, gender, email address, height and date of birth as well as details of our services which you have used and statistics on usage;
 
@@ -22,7 +22,7 @@ Whether you are a visitor to our website or a Boostcruising.com member there may
 
 Personal information is information that allows others to identify you.
 
-If you become a member of Boostcruising.com the personal information about you which is collected and held by Sanity Technology:
+If you become a member of Boostcruising.com the personal information about you which is collected and held:
 
 \- will include your name, gender, email address, height and date of birth as well as details of our services which you have used and statistics on usage;
 
@@ -94,23 +94,11 @@ It is important that you keep us up to date with changes to personal information
 
 **Links:**
 
-This website may contain links to other websites which are not operated by Sanity Technology. We cannot guarantee that any personal information which you provide to those websites will be protected by the same privacy practices which we employ. For this reason before you provide any personal information to a linked website, please carefully read and be satisfied with that website's privacy policy.
+This website may contain links to other websites which are not operated by Boostcruising. We cannot guarantee that any personal information which you provide to those websites will be protected by the same privacy practices which we employ. For this reason before you provide any personal information to a linked website, please carefully read and be satisfied with that website's privacy policy.
 
 **Changes to this Privacy Policy:**
 
 We may alter this Privacy Policy from time to time in accordance with legal requirements or to meet our business requirements. Any alterations to our Privacy Policy will be reflected on this website.
 
-**How to contact us:**
-
-If you have any questions in relation to the privacy of your personal information our contact details are:
-
-Sanity Technology Pty Ltd
-
-PO Box 110
-
-Wavell Heights Q 4012
-
-email: **[support@sanitytech.net](mailto:support@sanitytech.net) **
-
-©2005 Sanity Technology.  
+©2011 Boostcruising.  
 All rights reserved.
