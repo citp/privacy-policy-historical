@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wctv.tv privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122082854id_/http%3A//www.wctv.tv/unclassified/34218884.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wctv.tv privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523174945id_/http%3A//www.wctv.tv/unclassified/34218884.html) for the most accurate reproduction.*
 
 # GRAY TELEVISION, INC. PRIVACY POLICY AND YOUR PRIVACY RIGHTS
 
