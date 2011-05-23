@@ -1,24 +1,26 @@
-> *The following text is extracted and transformed from the aussiehq.com.au privacy policy that was archived on 2009-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091014110650id_/http%3A//www.aussiehq.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aussiehq.com.au privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523055614id_/http%3A//www.aussiehq.com.au/privacy_policy) for the most accurate reproduction.*
 
 # AussieHQ Privacy Policy
 
-(Updated 12 January 2006) 
+[AussieHQ Home](http://www.aussiehq.com.au/index.php) » Privacy Policy 
 
-##  Contents 
+(Updated 18 November 2010) 
 
-  * [Introduction](https://www.aussiehq.com.au/privacy#intro)
-  * [General Disclaimer](https://www.aussiehq.com.au/privacy#general)
-  * [The Personal Information we hold](https://www.aussiehq.com.au/privacy#storage)
-  * [Security of Personal Information](https://www.aussiehq.com.au/privacy#security)
-  * [Disclosure of Personal Information](https://www.aussiehq.com.au/privacy#disclosure)
-  * [Accessing and correcting your Personal Information](https://www.aussiehq.com.au/privacy#accessing)
-  * [ Personal Information on Children and Young People](https://www.aussiehq.com.au/privacy#youngpeople)
-  * [Complaints](https://www.aussiehq.com.au/privacy#compliants)
-  * [Other Links](https://www.aussiehq.com.au/privacy#otherlinks)
+###  Contents 
+
+  * [Introduction](http://www.aussiehq.com.au/privacy_policy/#intro)
+  * [General Disclaimer](http://www.aussiehq.com.au/privacy_policy/#general)
+  * [The Personal Information we hold](http://www.aussiehq.com.au/privacy_policy/#storage)
+  * [Security of Personal Information](http://www.aussiehq.com.au/privacy_policy/#security)
+  * [Disclosure of Personal Information](http://www.aussiehq.com.au/privacy_policy/#disclosure)
+  * [Accessing and correcting your Personal Information](http://www.aussiehq.com.au/privacy_policy/#accessing)
+  * [ Personal Information on Children and Young People](http://www.aussiehq.com.au/privacy_policy/#youngpeople)
+  * [Complaints](http://www.aussiehq.com.au/privacy_policy/#compliants)
+  * [Other Links](http://www.aussiehq.com.au/privacy_policy/#otherlinks)
 
 
 
-##  Introduction 
+###  Introduction 
 
 This document is a summary of the way AussieHQ manages personal information it collects on: 
 
@@ -40,7 +42,7 @@ In summary, our policy is to:
 
 This policy statement may be amended from time to time. Our website will always display the up-to-date version. 
 
-##  General Disclaimer 
+###  General Disclaimer 
 
 There are inherent risks in transmitting information across the Internet. We can give no absolute guarantee that all data, including personal information, provided via the Internet is secure from unauthorized use. 
 
@@ -48,7 +50,7 @@ Personal details you provide via chat rooms and similar forums, whether sponsore
 
 AussieHQ hosts web sites owned and operated by other people. This privacy policy does not necessarily extend to any personal information they might collect in the course of their operations. We cannot be held responsible for breaches of privacy on their web sites. The owner of each web site is responsible for the privacy of any personal information collected through their web site and for complying with relevant privacy laws. 
 
-##  The Personal Information we hold 
+###  The Personal Information we hold 
 
 If you are, or intend to be, a customer of AussieHQ, we collect basic data that includes your name, address, age, gender, telephone and facsimile numbers, domain name, email address and credit card details (if you choose to pay online). 
 
@@ -58,13 +60,13 @@ From time to time we may survey our customers to assist us in planning and deliv
 
 We will not sell or otherwise make available the personal details of our clients to third parties, other than a limited number of providers we contract to supply support services to AussieHQ in the normal course of our business. We require such providers to comply with our privacy policy when dealing with our clients' information and we only provide as much information as is necessary for them to provide their services to us. 
 
-##  Security of Personal Information 
+###  Security of Personal Information 
 
 We store most of your personal information on servers which are housed in a secure environment with 24 hour surveillance. Access is restricted to authorised staff only. We have computer and network security on our remote peripherals. Billing data is encrypted and access to your personal data by non staff members is password protected 
 
 We will take all reasonable steps to delete or permanently de-identify personal information we hold on you if you cease to be our client and we no longer need the information to finalise any outstanding matters. 
 
-##  Disclosure of Personal Information 
+###  Disclosure of Personal Information 
 
 In the normal course of business we will not disclose your personal information to any other party (other than contracted support services) without your consent. However, circumstances may arise where we will disclose your personal information without your consent. The circumstances include but are not limited to situations where disclosure is required to: 
 
@@ -76,20 +78,20 @@ In the normal course of business we will not disclose your personal information 
 
 
 
-##  Accessing and correcting your Personal Information 
+###  Accessing and correcting your Personal Information 
 
 You can ask us to provide you with the personal information we hold on you. We will require you to provide identification to ensure you are who you say you are. We undertake to provide the information in a reasonable time and to correct any errors where the information is not accurate, up-to-date or complete. If you need to update your online billing details you can access your account details through Modernbill. 
 
-##  Personal Information on Children and Young People 
+###  Personal Information on Children and Young People 
 
 As a general principle, we do not target children in our marketing communications and would only communicate with a child with a parent or guardian's consent. To the extent that young people use our services our privacy policy extends fully to them. 
 
-##  Complaints 
+###  Complaints 
 
 If you require further information or you have a complaint about our privacy policy or the way we put it into practice, please contact our Privacy Officer on [privacy@aussiehq.com.au](mailto:privacy@aussiehq.com.au). Our telephone number is 1300 889 461. If we cannot resolve the complaint to your satisfaction within a reasonable time, you or we may refer the complaint to the Privacy Commissioner.
 
-##  Other Links 
+###  Other Links 
 
-  * [AUDA WHOIS Policy](http://www.auda.org.au/policies/auda-2003-08/) \- Relevant information for .AU domain registrants.
+  * [AUDA WHOIS Policy](http://www.auda.org.au/whois-policy) \- Relevant information for .AU domain registrants.
 
 
