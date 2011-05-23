@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the eldercarelink.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122104214id_/http%3A//www.eldercarelink.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eldercarelink.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523063703id_/http%3A//www.eldercarelink.com/privacy.htm) for the most accurate reproduction.*
 
 # ElderCarelink Privacy Policy - www.ElderCareLink.com
 
-##  **QuinStreet, Inc.**
+## **QuinStreet, Inc.**
 
-##  **Company Practices Regarding Your Privacy**
+## **Company Practices Regarding Your Privacy**
 
 We at QuinStreet, Inc. and our affiliated companies worldwide are committed to respecting your online privacy and recognize your need for appropriate protection and management of any information you share with us by using our web sites.
 
@@ -16,7 +16,7 @@ Californiahas passed legislation requiring certain specific disclosures be made 
 
 If you are a California resident you may request this information from QuinStreet or any of its affiliates by writing to us via email at info@quinstreet.com or you may send us correspondence at the following address: QuinStreet, Attn: Privacy, 1051 E. Hillsdale Blvd, 8th Floor, Foster City, CA 94404. QuinStreet is not obligated to respond to more than one such request from a customer per calendar year.
 
-##  **Information Collected by QuinStreet**
+## **Information Collected by QuinStreet**
 
 **Non-Personally Identifiable Consumer Information**
 
@@ -52,7 +52,7 @@ Finally, QuinStreet may share your information as necessary to comply with a cou
 
 Wherever your personally identifiable information may be held within QuinStreet or on its behalf, we intend to take reasonable and appropriate steps to protect the information you shared with us from unauthorized access or disclosure. Please note that while QuinStreet will make every reasonable effort to protect your information, no transmission of data over the Internet is 100% secure.
 
-##  **Choice**
+## **Choice**
 
 **Non-Personally Identifiable Consumer Information - Use of Cookies & Opting-Out**
 
@@ -92,12 +92,12 @@ By using this web site, you consent to the terms of our Online Privacy Policy an
 
 For more information, or if you have questions or concerns regarding QuinStreet's Privacy Policy, you may email us at info@quinstreet.com or you can send correspondence to the following address:
 
-            Privacy
+Privacy
 
-            QuinStreet
+QuinStreet
 
-            1051 E. Hillsdale Blvd, 8th Floor
+950 Tower Lane, 6th floor
 
-            Foster City, CA 94404
+Foster City, CA 94404
 
-Date:  July 20, 2009
+Date:  November 23, 2010
