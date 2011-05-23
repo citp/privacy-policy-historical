@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the brightsign.biz privacy policy that was archived on 2010-11-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101122185206id_/http%3A//www.brightsign.biz/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the brightsign.biz privacy policy that was archived on 2011-05-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110523193213id_/http%3A//www.brightsign.biz/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 	<title>Roku - Privacy Policy</title>
@@ -36,16 +36,20 @@
             				<ul id="MenuBar1" class="MenuBarMain">
 				  <li><a href="/" title="Overview">OVERVIEW</a>  </li>
 				  <li><a href="/products.php" title="Products">PRODUCTS</a></li>
-				  <li><a href="/tutorials.php" title="Implement">IMPLEMENT</a>  </li>
+				  <li><a href="/tutorials.php" title="Tutotials">TUTORIALS</a>  </li>
+				  <li><a href="/presentations.php" title="Demos">DEMOS</a>  </li>
 				  <li><a href="/customers.php" title="Customers">CUSTOMERS</a></li>
 				  <li><a href="/partners.php" title="Partners">PARTNERS</a></li>
-				  <li><a href="http://store.brightsign.biz" title="Store">STORE</a></li>
+				  <li><a id="storeLink" href="http://store.brightsign.biz" title="Store">STORE</a></li>
 				  <li><a href="/support/" title="Support">SUPPORT</a></li>
 				  <li><a href="/about/company.php" title="About">ABOUT</a></li>
 				</ul>
 				<script type="text/javascript">
 				<!--
 				var MenuBar1 = new Spry.Widget.MenuBar("MenuBar1");
+				if(location.href.indexOf("http://www.staging.") >= 0 ) {
+					document.getElementById("storeLink").href = "http://store.staging.brightsign.biz";
+				}
 				//-->
 				</script>
 			</div>
@@ -97,11 +101,24 @@
         <span class="copyrightTxt"> | </span>
         <a href="/retail_resources.php" class="copyright">Image Resource Center</a>
         <span class="copyrightTxt"> | </span>
-        <a href="/about/sitemap.php" class="copyright">Sitemap</a>
-        <span class="copyrightTxt"> | </span>
-        <span class="copy">©2010 BrightSign</span>
+        <span class="copy">©2011 BrightSign</span>
     </p>
 </div>
+<script type="text/javascript" src="//asset0.zendesk.com/external/zenbox/zenbox-2.0.js"></script>
+<style type="text/css" media="screen, projection">
+  @import url(//asset0.zendesk.com/external/zenbox/zenbox-2.0.css);
+</style>
+<script type="text/javascript">
+  if (typeof(Zenbox) !== "undefined") {
+    Zenbox.init({
+      dropboxID:   "5204",
+      url:         "brightsign.zendesk.com",
+      tabID:       "help",
+      tabColor:    "#311C6B",
+      tabPosition: "Right"
+    });
+  }
+</script>
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
