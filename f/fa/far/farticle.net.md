@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the farticle.net privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121205143id_/http%3A//www.farticle.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the farticle.net privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523193130id_/http%3A//www.farticle.net/privacy-policy) for the most accurate reproduction.*
 
 # Farticle.net - Privacy Policy | Farticle.net
 
