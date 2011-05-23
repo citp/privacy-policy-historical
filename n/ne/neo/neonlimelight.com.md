@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the neonlimelight.com privacy policy that was archived on 2010-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100518090345id_/http%3A//neonlimelight.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neonlimelight.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523061724id_/http%3A//neonlimelight.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Neon Limelight - Exclusive Music News, Artist Interviews, Reviews, Photos!
-
-You are here: [Home](http://neonlimelight.com/) / [About](http://neonlimelight.com/about/) / Privacy Policy
-
-  
-
+# Privacy Policy – Neon Limelight - Exclusive Music News, Artist Interviews, Reviews, Photos!
 
 ### Privacy Policy Statement
 
@@ -18,6 +13,8 @@ For each visitor to our Web page, our Web server automatically recognizes the co
 We collect information volunteered by the visitor, such as contest entry and/or newsletter registration.
 
 The information we collect is and used to fulfill the request of the visitor (contest entry/newsletter sign up).
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
 
 With respect to cookies: We use cookies to store visitors preferences.
 
