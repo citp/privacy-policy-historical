@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the seoarticlewritingpros.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127122828id_/http%3A//seoarticlewritingpros.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seoarticlewritingpros.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523232252id_/http%3A//seoarticlewritingpros.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Buy Articles – SEO Article Writing Service
+# Privacy Policy - SEO Article Writers – The #1 USA Article Writing Service
 
 **3rd Party Disclosure**  
 Customer information, whether public or private, will NOT be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without the consent of the customer, other than for the express purpose of delivering the purchased product or service requested by the customer. 
