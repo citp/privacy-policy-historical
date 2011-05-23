@@ -1,30 +1,28 @@
-> *The following text is extracted and transformed from the audiosparx.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120193208id_/http%3A//www.audiosparx.com/sa/privacy/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audiosparx.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523063827id_/http%3A//www.audiosparx.com/sa/privacy/privacy_policy.cfm) for the most accurate reproduction.*
 
 # AudioSparx Privacy Policy
 
-sound library,  
-samples,  
-game sound effects,  
-mp3 downloads,  
-kb sounds,  
-find wav files,  
-sound clips wav files,  
-noises samples,  
-with wav files,  
-office wav files,  
-themes wav files,  
-mp3s,  
-sound track wav,  
-infografia multimedia 3d,  
-wav soundbites,  
-sonido para eventos,  
-sound dogs,  
-sound effect,  
-wav sound files,  
-sound effects download 
+sounds royalty free,  
+aiff sound effects,  
+best royalty free sound effects,  
+chinese sounds effects,  
+sound effect hospital,  
+reversing beep sound effect,  
+stock sfx audio,  
+bungee jumping sound effects,  
+shofar sound effect,  
+free sound fx online,  
+1 minute garage noises downloads,  
+sound effects of sailors,  
+pirate ship sound effects,  
+killer whales free sound effects,  
+flip sound effect,  
+free game sounds,  
+sound effect machine,  
+flash sound effects,  
+sounds byte,  
+soundboard wav files 
 
-|  |   
----  
 | 
 
 |   
@@ -51,17 +49,17 @@ We know that you care how your information is used, and we appreciate your trust
 
   * **Customized Shopping.   **We use your information to better serve you by providing a customized shopping experience.   
  
-  * **Composers and Publishers.   **When you purchase a music track here for commercial use, for each track you purchase you must submit a track usage report indicating how each track will be used.  The information you submit with each track report will be shared with the composer(s) and publisher(s) of each track to inform them about how their music is being used and who is using it.  
+  * **Composers and Publishers.   **When you purchase a music track here for commercial use, for each track you purchase you must submit a track usage report indicating how each track will be used.  The information you submit with each track report will be shared with the composer(s) and publisher(s) of each track to inform them about how their music is being used and who is using it.  The person or organization that is administering publishing for music tracks may contact you directly to request information about your use of the music in order to be able to file a cue sheet.  Don't be alarmed, filing cue sheets for broadcast or other public uses of music tracks is a normal part of this business.   
  
-  * **Agents.** We employ other companies and individuals to perform functions on our behalf. Examples include delivering packages, sending postal mail and e-mail, and processing credit card payments. They have access to personal information needed to perform their functions, but may not use it for other purposes.   
+  * **Agents.** We employ other companies and individuals to perform functions on our behalf. Examples include delivering packages, sending postal mail and e-mail, and processing credit card payments. They have access to only your personal information as needed to perform their functions, but may not use it for other purposes.   
  
   * **Special Offers**.  We may send you special offers from time to time, unless you choose to opt-out of receiving such offers.  Please see the opt-in/opt-out selection at the end of this policy.    
  
-  * **Business Transfers**. As we continue to develop our business, we might sell or buy stores or assets. In such transactions, customer information generally is one of the transferred business assets. Also, in the unlikely event that we are acquired, customer information will be one of the transferred assets.  
+  * **Business Transfers**. As we continue to develop our business, we might sell or buy other companies or assets. In such transactions, customer information generally is one of the transferred business assets. Also, in the unlikely event that we are acquired, your customer information will be one of the assets transferred to the new owner.  
  
   * **Law Enforcement.    **If we receive a lawful court order to release account or other personal information then we will comply with the law.  We will also release information when necessary to protect the life, safety or property of others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.   
  
-  * **Internal Reference.**   The information we collect and save is used for internal reference purposes, to administer our business operations in a proper manner.
+  * **Internal Reference.**   The information we collect and save is used for internal reference purposes, to administer our business operations in a proper manner.  We do not delete your information, and you can not request to have it deleted from our system.  We retain it forever for internal reference purposes, in case we need to research a transaction or some other activity on our web site.
 
 
 
@@ -103,29 +101,24 @@ We know that you care how your information is used, and we appreciate your trust
   
   
   
-
-
-[](http://www.audiosparx.com/)  
   
-Copyright © 1996 - 2010 AudioSparx    [Privacy Policy](https://web.archive.org/sa/privacy/privacy_policy.cfm)    [Terms & Conditions](https://web.archive.org/sa/license.cfm)    Hostname: AXC2    Language: English  
-  
-audiosparx,  
-audio sounds,  
-sounds noises,  
-new noise,  
-kb sounds,  
-sound clips wav files,  
-with wav files,  
-noises clips,  
-music effects,  
-weird sounds wav,  
-xp wav sounds,  
-wav audio sounds,  
-download mp3s,  
-xp wav files,  
-the movie sounds,  
-office wav sounds,  
-mp3s download,  
-tv sound effects,  
-sound effects com,  
-sounds 
+sound byte wav,  
+downloading sound effects for plays and musicals,  
+wav movie files,  
+sound effects the man from uncle,  
+splatter sound effect,  
+free sound fx's,  
+free running sound effect,  
+cymbal crash sound effect,  
+free roman coliseum sound effects,  
+create games sound effects,  
+free stab sounds effects,  
+downloadable sound clips free,  
+coat zip fx,  
+mosquito sound effect,  
+free crank wind up sound effects,  
+123 sound effects,  
+african sound effects,  
+wav files sounds,  
+free sounds to listen to,  
+infografia multimedia internet 
