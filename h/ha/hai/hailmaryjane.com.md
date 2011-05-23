@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the hailmaryjane.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206120931id_/http%3A//hailmaryjane.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hailmaryjane.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523052757id_/http%3A//hailmaryjane.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Hail Mary Jane
-
-If you're new here, you may want to subscribe to my [RSS feed](http://feedproxy.google.com/Sportfiends). Thanks for visiting!
 
 Privacy Policy Statement  
 This is the web site of Hail Mary Jane.
@@ -10,10 +8,10 @@ This is the web site of Hail Mary Jane.
 Our postal address is  
 P.O. Box 569  
 Montclair, NJ 07042  
-We can be reached via e-mail at sportfiends@gmail.com  
+We can be reached via e-mail at [sportfiends@gmail.com](mailto:sportfiends@gmail.com "mailto:sportfiends@gmail.com")  
 or you can reach us by telephone at 281-630-7865
 
-For each visitor to our Web page, our Web server automatically recognizes the consumer’s domain name and e-mail address (where possible).
+For each visitor to our Web page, our Web server automatically recognizes the consumer's domain name and e-mail address (where possible).
 
 We collect the domain name and e-mail address (where possible) of visitors to our Web page, the e-mail addresses of those who post messages to our bulletin board.
 
@@ -34,11 +32,11 @@ Please provide us with your name and phone number. We will be sure your name is 
 
 With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:
 
-http://www.google.com/privacy.html
+[www.google.com/privacy.html](http://www.google.com/privacy.html "http://www.google.com/privacy.html")
 
-http://www.doubleclick.com/privacy
+[www.doubleclick.com/privacy](http://www.doubleclick.com/privacy "http://www.doubleclick.com/privacy")
 
-http://support.grasscity.com/forums/21150/entries/24595
+[support.grasscity.com/forums/21150/entries/24595](http://support.grasscity.com/forums/21150/entries/24595 "http://support.grasscity.com/forums/21150/entries/24595")
 
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will contact you before we use your data for these new purposes to notify you of the policy change and to provide you with the ability to opt out of these new uses.
 
