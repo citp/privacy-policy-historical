@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the paygear.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121035444id_/http%3A//www.paygear.com/contents/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paygear.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523055731id_/http%3A//www.paygear.com/contents/privacy) for the most accurate reproduction.*
 
-# Privacy - PayGear.com -
+# Privacy - PayGear : Affiliate Software | Sell Online | Affiliate Program
 
 Privacy Policy  
 ---  
