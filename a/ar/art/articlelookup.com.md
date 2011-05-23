@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the articlelookup.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121033252id_/http%3A//www.articlelookup.com/index.php%3Fpagedb%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlelookup.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523053112id_/http%3A//www.articlelookup.com/index.php%3Fpagedb%3Dprivacy) for the most accurate reproduction.*
 
-# Free Articles| privacy ArticleLookup.com
+# Free Articles | privacy Most Resourceful Article Database Featuring Free and Useful Articles
 
 | 
 
