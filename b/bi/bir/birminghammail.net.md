@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the birminghammail.net privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229015755id_/http%3A//www.birminghammail.net/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the birminghammail.net privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523062133id_/http%3A//www.birminghammail.net/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Statement
 
