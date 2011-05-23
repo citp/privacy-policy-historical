@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the interiorexteriorplan.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121110744id_/http%3A//www.interiorexteriorplan.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interiorexteriorplan.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523101319id_/http%3A//www.interiorexteriorplan.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Interior Design Ideas
-
-Interior Exterior plan offers lots of designs for your house whether its interior, exterior and even the house plans. Browse our large collection to get some ideas for building a new house or renovating the old one. You can find cool Bathroom pics, Kitchen Designs, Bedroom Designs, House plans, house exteriors and much more to fulfill your requirements. We understand your interest, so we just post high quality photos.
-
-Nov 21st, 2010
-
-### Privacy Policy _!_
+# Privacy Policy | House Design Ideas
 
 We respect your privacy and we are committed to safeguarding your privacy while online at our site the following discloses the information gathering and dissemination practices for this Web site.
 
