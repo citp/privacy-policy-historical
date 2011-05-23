@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the christianguitar.org privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228154035id_/http%3A//www.christianguitar.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christianguitar.org privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523121625id_/http%3A//www.christianguitar.org/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Christian Guitar Tabs
 
@@ -14,7 +14,9 @@ We use your IP address to help diagnose problems with our server and to administ
 
 **Third Party Advertising**
 
-We use Google, Tribal Fusion, ValueClick, Azoogle, Kontera and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you.
+We use Google, Tribal Fusion, ValueClick, Azoogle, Kontera and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. 
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp)
 
 **Third Party Cookies**
 
@@ -34,7 +36,7 @@ This site makes message boards available to its users. Please remember that any 
 
 **Contacting the Web Site**
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us by clicking [here](https://web.archive.org/web/20101228154035id_/http%3A//www.christianguitar.org/contactus.php).
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us by clicking [here](https://web.archive.org/web/20110523121625id_/http%3A//www.christianguitar.org/contactus.php).
 
 **[Complimentary Christian Ringtones](http://x.azjmp.com/0ZR2g)**  
 Dadamobile and CGR have teamed up to bring your favorite Christian artists right to your phone. Sign up today and get 10 complementary ringtones!
@@ -54,9 +56,9 @@ Subscribe and stay up to date
 
 [](http://feeds.feedburner.com/CGR)
 
-There are currently **234** users ( **13** members and **221** guests) on the site. 
+There are currently **153** users ( **10** members and **143** guests) on the site. 
 
-As of December 26th, 2010 we have **14,746** tabs, which have been viewed **68,981,893** times.
+As of March 8th, 2011 we have **14,746** tabs, which have been viewed **69,072,090** times.
 
 sponsor
 
