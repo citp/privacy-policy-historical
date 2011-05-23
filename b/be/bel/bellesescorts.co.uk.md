@@ -1,12 +1,18 @@
-> *The following text is extracted and transformed from the bellesescorts.co.uk privacy policy that was archived on 2009-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091019054744id_/http%3A//www.bellesescorts.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bellesescorts.co.uk privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523020823id_/http%3A//www.bellesescorts.co.uk/privacy.html) for the most accurate reproduction.*
 
 # 
 
 We take the privacy rights of users of this Site very seriously and seek to ensure the highest standards of compliance with UK Data Protection Laws and Regulations. This Privacy Policy is incorporated in and subject to the Site Terms of Use. You expressly consent to the use of Your Data in accordance with this Privacy Policy.
 
+  
+
+
 ### 1\. Your Data
 
 1\. "Your Data" means any information about You which is personally identifiable, including, without limitation, Your name, address, telephone number, email address, financial details, Member Name, Password, comments, profiles, personal descriptions, interview responses, photos and other information from which You can be identified and which You may disclose to Us or otherwise via the Site at any time.
+
+  
+
 
 ### 2\. When do We collect Your data?
 
@@ -33,6 +39,9 @@ We take the privacy rights of users of this Site very seriously and seek to ensu
 6\. Depending on the configuration of your browser, pages and images you view on this site may be stored on your computer. This feature, (which you can configure), is called caching.
 
 7\. All information you exchange with this website is accessible by its administrators and will only be used to prevent abuse, fraud and threats to members' confidentiality or safety. This information will only be accessed with respect to specific reports of such activity.
+
+  
+
 
 ### 3\. How do We use Your Data:
 
@@ -61,27 +70,45 @@ We take the privacy rights of users of this Site very seriously and seek to ensu
 
 3\. Always think carefully before disclosing Your Data or other information to other Members or otherwise posting Your Data on the Site. It is important that You are aware that any of Your Data or other information which You disclose to another Member may then be disclosed on the Site by that Member. As stated in the of Use, We have no responsibility or control over the contents of communications made between Members.
 
+  
+
+
 ### 5\. Data Security
 
 1\. We endeavour to take all reasonable steps to protect Your Data. All the Data collected by Us is stored on a secure server in a secure hosting facility and we take reasonable steps to ensure all accesses are pre-authorised and recorded.
+
+  
+
 
 ### 6\. Cookies
 
 1\. Cookies are small pieces of information stored by Your browser on Your computer's hard drive. We use cookies to allow Us to understand who has seen which pages and advertisements, to determine how frequently particular pages are visited, to determine the most popular areas of the Site and generally in order to monitor usage of the Site. Most web browsers automatically accept cookies, and a requirement of membership is being able to do so. We do not control the use of cookies by third parties. If You wish to disable cookies then You can do so by readjusting Your browser settings although please note that by disabling cookies You may not be able to register with or use all features of the Site.
 
-2\. For more information on cookies and how to disable them, You can consult the information provided by the Interactive Advertising Bureau at [www.allaboutcookies.org](https://web.archive.org/web/20091019054744id_/http%3A//www.bellesescorts.co.uk/www.allaboutcookies.org).
+2\. For more information on cookies and how to disable them, You can consult the information provided by the Interactive Advertising Bureau at [www.allaboutcookies.org](http://www.allaboutcookies.org/).
+
+  
+
 
 ### 7\. Access to and Updating Your Data
 
 1\. Where You are a Member, You may access and update Your Data contained in Your Member Account accessed by the My Details link. You must make sure that You update Your Data as soon as possible with any and all relevant changes.
 
+  
+
+
 ### 8\. Other links
 
 1\. Please be aware that the Site may link to other web sites that may be accessed by You through Our Site. We are not responsible for the data policies, content or security of these linked web sites. We do not have any control over the use to which third parties may put Your Data where You choose to purchase products or services or otherwise to contact them via this Site.
 
+  
+
+
 ### 9\. Transfer Outside the EEA
 
 1\. This Site is accessible via the internet and therefore may potentially be accessed by anyone around the world. Other visitors may also be or access the Site from outside the European Economic Area. This means that, where You post Your Data on the Site, this could be accessed from anywhere around the world and therefore a transfer of Your Data outside of the European Economic Area may be deemed to have occurred. Data protection laws in countries outside the European Economic Area are generally not as protective as those in the UK. You consent to such transfer of Your Data for and by way of this purpose.
+
+  
+
 
 ### 10\. Contact Us
 
