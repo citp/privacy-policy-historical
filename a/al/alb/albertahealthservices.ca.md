@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the albertahealthservices.ca privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223212809id_/http%3A//www.albertahealthservices.ca/121.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the albertahealthservices.ca privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523032727id_/http%3A//www.albertahealthservices.ca/121.asp) for the most accurate reproduction.*
 
 # Privacy Statement | Alberta Health Services
 
