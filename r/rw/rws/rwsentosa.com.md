@@ -1,0 +1,43 @@
+> *The following text is extracted and transformed from the rwsentosa.com privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524004118id_/http%3A//www.rwsentosa.com/LinkClick.aspx%3Flink%3D166%26tabid%3D249%26language%3Den-US) for the most accurate reproduction.*
+
+# Resorts World Sentosa- Privacy Policy
+
+**Use of Information**
+
+Certain non-personal information is recorded by the standard operation of Resorts World’s Internet servers. Information such as the type of browser being used, its operating system, and your IP address is gathered in order to enhance your online experience.
+
+Various registration forms and surveys at the Site may request that you give us contact information (such as your name, mailing and/or e-mail address) demographic information (such as your age and gender) and profile data (such as your preferences in entertainment). Information submitted at the time of registration or submission may be used for marketing and promotional purposes by Resorts World and its subsidiaries, and may be shared with our promotional partners. Personally identifiable information is never sold or leased to any third parties. With your permission, we may use your contact information to send you information about our companies and what we're doing. You may always opt-out of receiving future mailings by Resorts World by informing us via the e-mail address as provided for below.
+
+Please note that children (persons under the age of 18 years) are not eligible to use our services unsupervised and we ask that children do not submit any information to us. If you are under the age of 18 years, you can use the Site only in conjunction with and under the supervision of your parent or legal guardian.
+
+If the law so permits, Resorts World may disclose user information in special cases when we have reasons to believe that disclosing this information is necessary to identify, contact or bring legal action against someone/ any organisation who/ that may be causing injury to or interference (either intentionally or unintentionally) with Resorts World's rights or property, other Resorts World Site users, or anyone else that could be harmed by such activities.
+
+Unless otherwise provided herein, any other communications or materials you do transmit to the Site by electronic mail or otherwise will be treated as non-confidential and non-proprietary. Anything you transmit or post may be used by Resorts World or its affiliates for any purpose, including, but not limited to, reproduction, disclosure, transmission, publication, broadcast and posting. Furthermore, Resorts World is free to use any ideas, concepts, know-how, or techniques contained in any communication you send to the Site for any purpose whatsoever including, but not limited to, developing, manufacturing and marketing of products/ services using such information.
+
+**Security**
+
+Security for all personally identifiable information is extremely important to us. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, Resorts World cannot ensure or warrant the security of any information you transmit to us or from our online products or services, and you do so at your own risk. Once we receive your transmission, we make our best effort to ensure its security on our systems.
+
+**Use of Cookies and IP Addresses**
+
+Cookies are pieces of information that a website transfers to an individual's computer hard drive for record keeping purposes. Cookies make using our Site easier by, among other things, saving your passwords and preferences for you. These cookies are restricted for use only on the Site, and do not transfer any personal information to any other party. Most browsers are initially set up to accept cookies; however, you can reset your browser to refuse all cookies or indicate when a cookie is being sent. (Note: you will need to consult the help area of your browser application for instructions.) If you choose to disable your cookies setting or refuse to accept a cookie, some parts of Resorts World's sites will not function properly or may be considerably slower.
+
+An IP address is a number that is automatically assigned to your computer by your Internet provider whenever you're surfing the Web. When you request pages from Resorts World, our servers log your IP address. Resorts World collects IP addresses for the purposes of system administration, to report aggregate information to our advertisers, and to audit the use of our Site. We do not link IP addresses to anything personally identifiable, which means that your session will be logged, but you are anonymous to us. We may use your IP addresses in cooperation with your Internet provider to identify you if we feel it is necessary to enforce compliance with the law and our Terms and Conditions or to protect our service, sites, customers, or others.
+
+| 
+
+UNIVERSAL STUDIOS SINGAPORE®
+
+[](https://web.archive.org/LinkClick.aspx?link=83&tabid=77&language=en-US)
+
+Come Ride the Movies™
+
+Wrestle villains, travel to ancient times and revel in the glamour of Hollywood as you Ride The Movies™ on roller coasters and other movie-themed shows and attractions. 
+
+[READ MORE  ](https://web.archive.org/LinkClick.aspx?link=314&tabid=64&language=en-US?keepThis=true&TB_iframe=true&height=580&width=960 "Universal Studios Singapore® Map")
+
+HOTELS
+
+Six hotels, six different experiences
+
+| 
