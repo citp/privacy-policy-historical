@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bonefishgrill.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229005536id_/http%3A//www.bonefishgrill.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bonefishgrill.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523173400id_/http%3A//www.bonefishgrill.com/privacy) for the most accurate reproduction.*
 
 # Bonefish Grill | Privacy Policy
 
