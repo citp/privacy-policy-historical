@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the climatespectator.com.au privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122093132id_/http%3A//www.climatespectator.com.au/node/14) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the climatespectator.com.au privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523183013id_/http%3A//www.climatespectator.com.au/node/14) for the most accurate reproduction.*
 
 # Privacy policy | Climate Spectator
 
