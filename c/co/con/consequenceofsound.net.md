@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the consequenceofsound.net privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214144700id_/http%3A//consequenceofsound.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consequenceofsound.net privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523224900id_/http%3A//consequenceofsound.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « Consequence of Sound
 
@@ -10,7 +10,7 @@ We can be reached via e-mail at [info@consequenceofsound.net](mailto:info@conseq
 
 Consequence of Sound is the sole owner of the Website and any “Material”, content and information posted on the Website.
 
-Consequence of Sound and its Websites, including FestivalOutlook.com is committed to respecting the privacy rights of all users and visitors. Therefore, we will not disclose to any unauthorized third party a user’s name or contact information.
+Consequence of Sound and its Websites, including Festival Outlook and Cluster 1 are committed to respecting the privacy rights of all users and visitors. Therefore, we will not disclose to any unauthorized third party a user’s name or contact information.
 
 This Website is operated in the United States of America. If you are located outside of the United States, please be aware that any information you provide will be transferred to the United States. By using this Website you consent to this transfer.
 
@@ -22,16 +22,7 @@ We collect information from you when you register and/or participate in Contests
 
 When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.
 
-Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
-
 With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information.
-
-For further information, consult the privacy policies of:
-
-[Google AdSense](https://www.google.com/adsense/support/bin/answer.py?hl=en&answer=100557)[IndieClick](http://www.indieclick.com/)
-
-
-
 
 ### What do we use your information for?
 
@@ -49,18 +40,15 @@ To send periodic emails
 
 The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
 
-
-
-
 If you decide to opt-in to our mailing list, you will receive weekly emails (newsletters) that may include company news, updates, related product or service information, etc. All individuals who participate in CoS Contests, Giveaways, and other Promotions will automatically be included in email updates. Individuals will be given option to opt out of mailing list at their discretion.
 
 Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
 ### Do we use cookies?
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
 
-We use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+Our ad network, Complex Media, also uses cookies to serve ads when you visit this website. Complex Media may use information about your visits to this website (not including your name, address, or other personal information) to provide advertisements on this website, other sites and other forms of media about goods and services that may be of interest to you. In providing advertisements, a unique third party cookie may be placed on your browser. Complex Media does not control or have access to these cookies. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.networkadvertising.org/consumer/opt_out.asp).
 
 ### Do we disclose any information to outside parties?
 
@@ -90,7 +78,7 @@ By using our Website, you consent to our web site privacy policy.
 
 If we decide to change our privacy policy, we will update the Privacy Policy modification date below.
 
-This policy was last modified on March 28, 2010.
+This policy was last modified on April 21, 2011.
 
 ### Contacting Us
 
