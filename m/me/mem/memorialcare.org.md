@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the memorialcare.org privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121102819id_/http%3A//www.memorialcare.org/about/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the memorialcare.org privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523153130id_/http%3A//www.memorialcare.org/about/privacy.cfm%23sm) for the most accurate reproduction.*
 
 # MemorialCare Privacy Statement | MemorialCare Health System - in California
 
-[](http://www.memorialcare.org/stories/wasley_ocmmc_imaging.cfm)
+[](http://www.memorialcare.org/stories/patel_smmc_weight.cfm)
 
 |  MemorialCare Privacy Statement | MemorialCare Health System - in California
 
@@ -185,4 +185,4 @@ To report any abuse or violations of this Email List Privacy Policy, please send
 Last Update: August 11, 2010  
 Copyright © 2010 Memorial Health Services.
 
-MemorialCare Health System is a not-for-profit integrated delivery system which includes Long Beach Memorial Medical Center, Miller Children’s Hospital Long Beach, Orange Coast Memorial Medical Center and Saddleback Memorial Medical Center in Laguna Hills and San Clemente. Our community-based hospitals are located in Southern California in both Los Angeles County and Orange County. Copyright © 1999 - 2010, Memorial Health Services. All rights reserved. 
+MemorialCare Health System is a not-for-profit integrated-delivery system which includes five top hospitals – Long Beach Memorial, Miller Children's Hospital Long Beach, Community Hospital Long Beach, Orange Coast Memorial and Saddleback Memorial; four medical groups – Bristol Park Medical Group, Memorial Prompt Care, Memorial Family Medicine, and Specialty Physicians of Long Beach; three MemorialCare HealthExpress retail clinics; and numerous outpatient health centers throughout the Southland. Our community-based hospitals are located in Southern California in both Los Angeles County and Orange County. Copyright © 1999 - 2011, Memorial Health Services. All rights reserved. 
