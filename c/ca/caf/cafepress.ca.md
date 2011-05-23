@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the cafepress.ca privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223205735id_/http%3A//www.cafepress.ca/cp/info/help/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cafepress.ca privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523231157id_/http%3A//www.cafepress.ca/cp/info/help/index.aspx%3Fpage%3Dprivacy_policy.aspx) for the most accurate reproduction.*
 
 # CafePress.com : Customer Service : Privacy Policy
-
-[Save Pete the Moose](https://web.archive.org/cp/store.aspx?s=savepete.0) > **Customer Service**
 
 **Effective Date: September 1, 2009**
 
