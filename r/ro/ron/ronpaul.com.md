@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ronpaul.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218100713id_/http%3A//www.ronpaul.com/misc/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ronpaul.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523061437id_/http%3A//www.ronpaul.com/misc/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Ron Paul .com
+# Privacy Policy
 
 ### Privacy Policy for RonPaul.com
 
