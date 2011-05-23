@@ -1,7 +1,17 @@
-> *The following text is extracted and transformed from the sbcounty.gov privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122193954id_/http%3A//www.sbcounty.gov/policy/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sbcounty.gov privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523062212id_/http%3A//www.sbcounty.gov/policy/privacy.asp) for the most accurate reproduction.*
 
 # County of San Bernardino, California - Official Web Site
 
+[](https://web.archive.org/) |  |  |   
+---|---  
+  **WELCOME TO THE COUNTY OF SAN BERNARDINO** | 
+
+|  | [](https://web.archive.org/BOS/default.asp) | [Board of Supervisors](https://web.archive.org/BOS/default.asp) |  |  | [ ](https://web.archive.org/main/countyvision.asp) | [County  
+Vision](https://web.archive.org/main/countyvision.asp)|  |  | [](https://web.archive.org/main/OpenGovernment.asp) | [Open Government](https://web.archive.org/main/OpenGovernment.asp) |  |  | [](https://web.archive.org/main/visiting.asp) | [Visiting](https://web.archive.org/main/visiting.asp) |  |  | [](https://web.archive.org/main/working.asp) | [Working](https://web.archive.org/main/working.asp) |  |  | [](https://web.archive.org/main/contacts.asp) | [Contacts](https://web.archive.org/main/contacts.asp)  
+---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---  
+  
+_**Privacy Policy**_  
+---  
   
 **Welcome**  
 Thank you for visiting the San Bernardino County website. This website is designed to make it easier and more efficient for San Bernardino County citizens and businesses to interact with their local government. Like all online resources, we recognize that visitors to this website are concerned about their privacy. San Bernardino County is committed to preserving your privacy when visiting this website. 
@@ -53,4 +63,43 @@ Information provided on this website is intended to allow the public immediate a
 For questions regarding this Privacy Policy please contact **[webmaster@sbcounty.gov](mailto:webmaster@sbcounty.gov)**
 
 [County Home Page](https://web.archive.org/)  
- 
+   
+  
+| 
+
+[ ](http://my.sbcounty.gov/Calendar/ "County Calendar")
+
+|  **[Wednesday, May 25, 2011](http://www.sbcounty.gov/library/home/)**  
+**Yucaipa Branch Library Grand Re-Opening**  
+Ribbon cutting and refreshments.  
+**[_Click here_](http://www.sbcounty.gov/library/home/)** for details.  
+  
+---  
+**[Saturday, June 04, 2011](http://www.sbcounty.gov/library/home/)**  
+**Rialto Branch Library Grand Re-opening and Expansion**  
+Ribbon cutting and refreshments.  
+**[_Click here_](http://www.sbcounty.gov/library/home/)** for details.  
+  
+**[Saturday, June 18, 2011](http://www.sbcounty.gov/Uploads/CAO/Calendar/Content/1CancerSem2011.pdf)**  
+**Free Cancer Awareness & Screening**  
+ARMC Outpatient Care Center event  
+**[_Click here_](http://www.sbcounty.gov/Uploads/CAO/Calendar/Content/1CancerSem2011.pdf)** for details.  
+  
+**[Monday, June 20, 2011](http://www.sbcounty.gov/museum/pdf/summerdaycamp2011.pdf)**  
+**County Museum Summer Day Camps 2011**  
+Several sessions June to July.  
+**[_Click here_](http://www.sbcounty.gov/museum/pdf/summerdaycamp2011.pdf)** for details.  
+  
+**[Saturday, June 25, 2011](http://www.sbcounty.gov/Uploads/CAO/Calendar/Content/JDRF_2011_Guasti_Car_Show.pdf)**  
+**JDRF Annual Car Show**  
+Cucamonga-Guasti Regional Park  
+**[_Click here_](http://www.sbcounty.gov/Uploads/CAO/Calendar/Content/JDRF_2011_Guasti_Car_Show.pdf)** for details.  
+  
+**[Saturday, October 15, 2011](http://www.sbcounty.gov/uploads/cao/calendar/content/health_fair_2011save_the_date_digital_flyer.png)**  
+**Arrowhead Regional Medical Center**  
+Health & Safety Fair from 10 a.m.- 2 p.m.  
+**[_Click here_](http://www.sbcounty.gov/uploads/cao/calendar/content/health_fair_2011save_the_date_digital_flyer.png)** for details.  
+  
+  |  [ RSS - Upcoming Events](https://web.archive.org/RSS/RSSFeeds/UpcomingEvents.aspx?PublishSBCounty=1)  
+  
+                                                 
