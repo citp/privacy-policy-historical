@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bamkapow.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224210010id_/http%3A//www.bamkapow.com/page.phtml%3Fp%3DPrivacy%2BPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bamkapow.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523174856id_/http%3A//www.bamkapow.com/page.phtml%3Fp%3DPrivacy%2BPolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Bam! Kapow!
 
