@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the racgp.org.au privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123051721id_/http%3A//www.racgp.org.au/Content/NavigationMenu/Statements/Privacystatement/default.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the racgp.org.au privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523104405id_/http%3A//www.racgp.org.au/Content/NavigationMenu/Statements/Privacystatement/default.htm) for the most accurate reproduction.*
 
 # RACGP | Privacy Statement
 
@@ -34,13 +34,13 @@ If any Member does not want their contact details passed on to third parties for
 
 ## "Spam" (Promotional Mail)
 
-We will send you "spam" (advertising information) unless you have indicated that you do not wish to receive such information by clicking the box provided in your acceptance of RACGP’s terms of use. You can select not to recieve promotional material by selecting the Change details option after you have logged in. If you are receiving promotional information about the College and do not wish to receive this information any longer, you may remove your name from our list either by visiting the web site or emailing us at [web.admin@racgp.org.au](mailto:web.admin@racgp.org.au) and asking to be removed from our mailing list. Please allow 10 working days for this request to be processed.
+We will send you "spam" (advertising information) unless you have indicated that you do not wish to receive such information by clicking the box provided in your acceptance of RACGP’s terms of use. If you are receiving promotional information about the College and do not wish to receive this information any longer, you may remove your name from our list either by emailing us at [web.admin@racgp.org.au](mailto:web.admin@racgp.org.au) and asking to be removed from our mailing list. Please allow 10 working days for this request to be processed.
 
 ## Storage and security of your personal information
 
 The College will endeavour to take all reasonable steps to keep secure any personal information which we hold about you, and to keep this information accurate and up to date. Your information is stored on secure servers or is protected in controlled facilities.
 
-In addition, our employees and the contractors who provide services related to our information systems are obliged to respect the confidentiality of any personal information held by the College. However, the College will not be held responsible for events arising from unauthorised access to your personal information. You can also play an important role in keeping your personal information secure, by maintaining the confidentiality of any password and accounts used on the College website. You should regularly change your web site password and in setting a password you should use a combination of letters (upper and lower case), numbers and special characters (!, @ etc). Please notify us immediately if there is any unauthorised use of your account by any other Internet user or any other breach of security.
+In addition, our employees and the contractors who provide services related to our information systems are obliged to respect the confidentiality of any personal information held by the College. However, the College will not be held responsible for events arising from unauthorised access to your personal information. You can also play an important role in keeping your personal information secure, by maintaining the confidentiality of any password and accounts used on the College website. You should regular change your web site password and in setting a password you should use a combination of letters (upper and lower case), numbers and special characters (!, @ etc). Please notify us immediately if there is any unauthorised use of your account by any other Internet user or any other breach of security.
 
 ## You can access the information we keep about you
 
@@ -60,4 +60,4 @@ For more information about privacy issues in Australia and protecting your priva
 
 ## Find a GP/Find a Practice
 
-The website will provide the public a Find a GP/Practice directory, provided sufficient GP’s authorize their details to be used in the directory. If you do not want your details to appear in the directory listing please check the box below. You can subsequently remove yourself from directory by accessing the change your details area of the web site, once logged in. Information retrieved by Find a GP/Find a Practice will be limited to the practice address, phone, fax and website URL and practice email address. Find a Practice may also allow the user to search/locate a practice based on the suburb, language spoken and area of interest. Find a GP may allow a user to search/locate a GP based on state and suburb.
+The website will provide the public a Find a GP/Practice directory, provided sufficient GP’s authorize their details to be used in the directory. Information retrieved by Find a GP/Find a Practice will be limited to the practice address, phone, fax and website URL and practice email address. Find a Practice may also allow the user to search/locate a practice based on the suburb, language spoken and area of interest. Find a GP may allow a user to search/locate a GP based on state and suburb.
