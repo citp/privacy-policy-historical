@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itp.net privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227155721id_/http%3A//www.itp.net/utility/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itp.net privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523185913id_/http%3A//www.itp.net/utility/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Middle East Technology News Portal - ITP.net
 
@@ -66,7 +66,7 @@ We may share aggregate information, which is not personally identifiable, with o
 
 ### Correction/Updating Personal Information
 
-If a user's personally identifiable information changes (such as PO Box), or if a user no longer desires our products(s)/service(s), we provide a way to correct or update that user's personal data. Users should either logon at www.itp.net/subscriptions using their unique User Name and Password and click MODIFY PROFILE; telephone the changes to the Circulation Department on +971 4 282 9996 ext 171; Fax changes to +971 4 282 9599; or email changes to subscriptions@itp.com for the applicable product or service. 
+If a user's personally identifiable information changes (such as PO Box), or if a user no longer desires our products(s)/service(s), we provide a way to correct or update that user's personal data. Users should either logon at www.itp.net/subscriptions using their unique User Name and Password and click MODIFY PROFILE or email changes to subscriptions@itp.com for the applicable product or service. 
 
 ### Permission
 
@@ -90,6 +90,6 @@ Internet Department, ITP
 
 PO Box 500024, Dubai, United Arab Emirates
 
-Tel.: +971 4 210 8000
+Tel.: +971 4 444 3000
 
-Fax.: +971 4 210 8080
+Fax.: +971 4 444 3030
