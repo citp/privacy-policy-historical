@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virtualhosting.com privacy policy that was archived on 2010-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101007122955id_/http%3A//www.virtualhosting.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virtualhosting.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523132647id_/http%3A//www.virtualhosting.com/policy.php) for the most accurate reproduction.*
 
 # Compare Shared Web Hosting Plans » Virtual Hosting
 
