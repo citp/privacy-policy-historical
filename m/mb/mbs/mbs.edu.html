@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mbs.edu privacy policy that was archived on 2010-11-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101126081215id_/http%3A//www.mbs.edu/go/footer/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mbs.edu privacy policy that was archived on 2011-05-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110523072946id_/http%3A//www.mbs.edu/go/footer/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<title>MBS: Privacy</title>
@@ -12,7 +12,7 @@
 	<link rel="shortcut icon" href="/i/favicon.ico" type="image/x-icon"> 
 
 	
-	<script type="text/javascript" src="/js/fader.js"></script>
+	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/js/fader.js"></script>
 	<link rel="stylesheet" type="text/css" media="screen,projection" href="/css/fader.css">
 
 	
@@ -45,14 +45,43 @@
 
 	
 	
+	
+	
+	<script src="/js/jquery-1.5.min.js" type="text/javascript"></script>
+	<script type="text/javascript">
+		document.write(unescape("%3Cscript src='" + document.location.protocol + "//advancedtracker.appspot.com/msTracker.js?id=PPKnCkGgxdgXacanBilFdDIKDlxfyAew' type='text/javascript'%3E%3C/script%3E"));
+	</script><script src="https://advancedtracker.appspot.com/msTracker.js?id=PPKnCkGgxdgXacanBilFdDIKDlxfyAew" type="text/javascript"></script>
+	<script type="text/javascript">
+		function getCleanDomainNm(hn){
+			if(hn.match(/mbs\.edu\.au$/)){
+				return ".mbs.edu.au";
+			}else if(hn.match(/mbs\.edu$/)){
+				return ".mbs.edu";
+			}
+			else{
+				return hn;
+			}
+		}
+		var _domain = getCleanDomainNm(window.location.hostname);
+		
+		var _gaq = _gaq || [];	
+		_gaq.push(['_setAccount', 'UA-284336-1'],['_setDomainName', _domain],['_setAllowLinker', true],['_setAllowHash', false]);   
+		(function () {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+	
+
 </head>
 <body id="standard" onload="(window.googleMapInitialize != null)? googleMapInitialize() : null;" onunload="(window.googleMapInitialize != null)? GUnload() : null;">
 
-<!-- ClickTale Top part -->
+
 <script type="text/javascript">
 	var WRInitTime=(new Date()).getTime();
 </script>
-<!-- ClickTale end of Top part -->
+
 
   <div id="wrapper">
     <ul class="hide">
@@ -108,7 +137,7 @@
 			document.write('</ul>');
 			document.write('</div>');
 		</script><div id="tools"><ul><li><a href="#" rel="nofollow" id="tools-large-text" name="tools-large-text" title="Make the text larger" onclick="dw_fontSizerDX.adjust(2); return false">Large text</a></li><li><a href="#" rel="nofollow" id="tools-small-text" name="tools-small-text" title="Make the text smaller" onclick="dw_fontSizerDX.adjust(-2); return false">Small text</a></li><li><a href="#" rel="nofollow" id="tools-print-page" name="tools-print-page" title="Print this page" onclick="window.print();">Print this page</a></li><li><a href="#" rel="nofollow" id="tools-email-page" name="tools-email-page" title="Email this page to a friend" onclick="window.open(unescape(sURL),null,'status=0,menu=0,toolbar=0,width=630,height=540,resizable=1,scrollbars=1,top=50,left=100');">Email this page to a friend</a></li><li><a id="facebookIcon" href="http://tinyurl.com/q2glj4" title="Find us on Facebook" target="_blank">Find us on Facebook</a></li><li><a id="twitterIcon" href="http://twitter.com/mbscarlton" title="Find us on Twitter" target="_blank">Find us on Twitter</a></li></ul></div>
-	<a href="/go/apply-now" class="apply-now">Apply Now</a>	
+	<a href="/go/apply-now" class="apply-now">Apply Now&lt;</a>	
       </div><!-- close related -->
       <hr class="hide">
 
@@ -135,7 +164,7 @@
 		dw_fontSizerDX.init();
 	</script>
 
-<!-- ClickTale Bottom part -->
+
 	<div id="ClickTaleDiv" style="display: none;"></div>
 	<script type="text/javascript">
 		document.write(unescape("%3Cscript%20src='"+
@@ -145,44 +174,60 @@
  			"WRb6.js'%20type='text/javascript'%3E%3C/script%3E"));
 	</script><script src="https://clicktale.pantherssl.com/WRb6.js" type="text/javascript"></script>
 	<script type="text/javascript">
+			function escapeRegex(text) {
+			if (!arguments.callee.sRE) {
+				var specials = [
+					'/', '.', '*', '+', '?', '|',
+					'(', ')', '[', ']', '{', '}', '\\'
+				];
+				arguments.callee.sRE = new RegExp(
+					'(\\' + specials.join('|\\') + ')', 'g'
+				);
+			}
+			return text.replace(arguments.callee.sRE, '\\$1');
+		}
+		
+		function urlPathIs(urls) {
+			/// <summary>Check if the current url matches any of the given urls passed</summary>
+			/// <param name="urls" type="Array[String]|String">A url or an array of urls to test against</param>
+			/// <returns type="Boolean">True if the the current location matches any of the passed urls, false otherwise</returns>
+			if(arguments.length > 1) {
+				urls = Array.prototype.slice.call(arguments, 0);
+			}
+			if(typeof urls == "string") {
+				urls = [urls];
+			}
+			var escapedUrls = [],
+				regexp;
+			for(var i = 0; i < urls.length; i++) {
+				escapedUrls.push(escapeRegex(urls[i]));
+			}
+			regexp = new RegExp("^(?:"+escapedUrls.join("|")+")/?(?:\\?|$|#)","i");
+			return regexp.test(window.location.href);
+		}
+		var recordingratio = 0.2;
 		var ClickTaleSSL=1;
 		var ClickTaleCookieDomain = "mbs.edu";
-		if(typeof ClickTale=='function') ClickTale(9934,0.1,"www03");
-	</script>
-<!-- ClickTale end of Bottom part -->
-
-	
-		<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script>
-
-	
-
-	<script type="text/javascript" src="/js/GADownloadTracker.js"></script>
-	<script type="text/javascript">
 		
-			_uacct = "UA-284336-1";
-		
-		urchinTracker();
-		new GADownloadTracker(new FarCryDownloadMatcher(), urchinTracker).trackDownloadsIn(document);	
+		if (urlPathIs ("http://www.alumni.mbs.edu/","http://www.alumni.mbs.edu/go/alumni-news-and-events/")) {
+			recordingratio = 1;
+		}
+		if(typeof ClickTale=='function' && recordingratio>0) ClickTale(9934,recordingratio,"www03");
 	</script>
 
 
-	
-	<script type="text/javascript">
-		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-
-		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-	</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-	<script type="text/javascript">
+<script type="text/javascript">
+    if(_gaq){
 		
-				var pageTracker = _gat._getTracker("UA-284336-1");
-			
-
-		pageTracker._initData();
-		pageTracker._trackPageview();
-
+		var _page = "";
 		
-		
-	</script>
+        if(_page == undefined || _page.length == 0){
+            _gaq.push(['_trackPageview']);
+        }else{
+            _gaq.push(['_trackPageview', _page]);
+        }
+    }
+</script>
 
 
 
