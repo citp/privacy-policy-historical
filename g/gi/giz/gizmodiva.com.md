@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gizmodiva.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216121420id_/http%3A//www.gizmodiva.com/other_stuff/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gizmodiva.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523070005id_/http%3A//www.gizmodiva.com/other_stuff/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -71,12 +71,12 @@ by [dhiram](https://web.archive.org/dhiram/index.php), posted July 19, 2008 - 9:
 
 ## Recent Entries
 
-  * [Christian Louboutin Louis Spikes Sneakers…Comfy and Cool](http://www.gizmodiva.com/fashion/christian_louboutin_louis_spikes_sneakerscomfy_and_cool.php)
-  * [Boox Store Boxes makes you look Intelligent, Tidy and Organized all at Once](http://www.gizmodiva.com/other_stuff/boox_store_boxes_makes_you_look_intelligent_tidy_and_organized_all_at_once.php)
-  * [iPhone Horn Stand…Pump it Up](http://www.gizmodiva.com/home_gadgets/iphone_horn_standpump_it_up.php)
-  * [Bloom Chair holds the Rich Only](http://www.gizmodiva.com/home_improvement/bloom_chair_holds_the_rich_only.php)
-  * [Who wouldn’t wanna drive this Wooden Car?](http://www.gizmodiva.com/wheels/who_wouldnt_wanna_drive_this_wooden_car.php)
-  * [Samsung and Lily Allen team up for a Super Stylish Notebook](http://www.gizmodiva.com/home_gadgets/samsung_and_lily_allen_team_up_for_a_super_stylish_notebook.php)
-  * [Circuitboard Coasters save your Furniture from Stains](http://www.gizmodiva.com/home_improvement/circuitboard_coasters_save_your_furniture_from_stains.php)
+  * [KitchenAid Artisan Susan G. Komen Stand Mixer is a pretty little thing](http://www.gizmodiva.com/home_gadgets/kitchenaid_artisan_susan_g_komen_stand_mixer_is_a_pretty_little_thing.php)
+  * [Whoopie Pie Lip Gloss for a delicious pout](http://www.gizmodiva.com/beauty/whoopie_pie_lip_gloss_for_a_delicious_pout.php)
+  * [Cats can sleep in peace with lush plant topped pet houses](http://www.gizmodiva.com/pets/cats_can_sleep_in_peace_with_lush_plant_topped_pet_houses.php)
+  * [Mad Pax backpack for some reptilian fun](http://www.gizmodiva.com/fashion/mad_pax_backpack_for_some_reptilian_fun.php)
+  * [Spacejunk - Sculptural shelf unit for stylish storage](http://www.gizmodiva.com/home_improvement/spacejunk_sculptural_shelf_unit_for_stylish_storage.php)
+  * [S'mores rack helps you make tasty treats at home](http://www.gizmodiva.com/home_improvement/smores_rack_helps_you_make_tasty_treats_at_home.php)
+  * [Wireless keyboard disguised as a Victorian typewriter](http://www.gizmodiva.com/home_gadgets/wireless_keyboard_disguised_as_a_victorian_typewriter.php)
 
 
