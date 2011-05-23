@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dieselstation.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121225204id_/http%3A//www.dieselstation.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dieselstation.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523182706id_/http%3A//www.dieselstation.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy - Exotic Car Pictures and Wallpapers at DieselStation - Fuel for your Desktop
 
@@ -71,6 +71,7 @@ Last Updated on April 14, 2010.
 
 [Source: DieselStation]
 
- **ShareIt** : [](http://delicious.com/save?url=http%3A%2F%2Fwww.dieselstation.com%2Fupdates%2Fprivacy-a837.html&title=Privacy)  [](http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.dieselstation.com%2Fupdates%2Fprivacy-a837.html&t=Privacy)  [](http://reddit.com/submit?url=http%3A%2F%2Fwww.dieselstation.com%2Fupdates%2Fprivacy-a837.html&title=Privacy)  [](http://www.myspace.com/Modules/PostTo/Pages/?t=Privacy&u=http%3A%2F%2Fwww.dieselstation.com%2Fupdates%2Fprivacy-a837.html)  [](http://digg.com/submit?phase=2&url=http%3A%2F%2Fwww.dieselstation.com%2Fupdates%2Fprivacy-a837.html&title=Privacy)  [](http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.dieselstation.com%2Fupdates%2Fprivacy-a837.html&title=Privacy)  [](http://www.mixx.com/submit/story?page_url=http%3A%2F%2Fwww.dieselstation.com%2Fupdates%2Fprivacy-a837.html&title=Privacy)  [](http://www.google.com/bookmarks/mark?op=edit&output=popup&bkmk=http%3A%2F%2Fwww.dieselstation.com%2Fupdates%2Fprivacy-a837.html&title=Privacy)  [](http://twitter.com/home?status=@dieselstation%20-%20Privacy%20:%20http%3A%2F%2Fwww.dieselstation.com%2Fupdates%2Fprivacy-a837.html)  
+ **Liked this car?  
+ShareIt** : [](http://delicious.com/save?url=http%3A%2F%2Fwww.dieselstation.com%2Fupdates%2Fprivacy-a837.html&title=Privacy)  [](http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.dieselstation.com%2Fupdates%2Fprivacy-a837.html&t=Privacy)  [](http://reddit.com/submit?url=http%3A%2F%2Fwww.dieselstation.com%2Fupdates%2Fprivacy-a837.html&title=Privacy)  [](http://www.myspace.com/Modules/PostTo/Pages/?t=Privacy&u=http%3A%2F%2Fwww.dieselstation.com%2Fupdates%2Fprivacy-a837.html)  [](http://digg.com/submit?phase=2&url=http%3A%2F%2Fwww.dieselstation.com%2Fupdates%2Fprivacy-a837.html&title=Privacy)  [](http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.dieselstation.com%2Fupdates%2Fprivacy-a837.html&title=Privacy)  [](http://www.mixx.com/submit/story?page_url=http%3A%2F%2Fwww.dieselstation.com%2Fupdates%2Fprivacy-a837.html&title=Privacy)  [](http://www.google.com/bookmarks/mark?op=edit&output=popup&bkmk=http%3A%2F%2Fwww.dieselstation.com%2Fupdates%2Fprivacy-a837.html&title=Privacy)  [](http://twitter.com/home?status=@dieselstation%20-%20Privacy%20:%20http%3A%2F%2Fwww.dieselstation.com%2Fupdates%2Fprivacy-a837.html)  
 
-Views: 6198
+Views: 7673
