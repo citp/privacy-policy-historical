@@ -1,20 +1,18 @@
-> *The following text is extracted and transformed from the viewpoint.ca privacy policy that was archived on 2010-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100913023739id_/http%3A//www.viewpoint.ca/pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viewpoint.ca privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523232328id_/http%3A//www.viewpoint.ca/privacy) for the most accurate reproduction.*
 
-# ViewPoint Realty Privacy Policy — ViewPoint Realty
+# Your Privacy — ViewPoint.ca
 
-Last modified August 28, 2009 
+On most sites, this is where you would normally find incomprehensible legalese written by expensive lawyers — but not at ViewPoint.ca.
 
-On most sites, this is where you would normally find incomprehensible legalese written by expensive lawyers — but not at ViewPoint Realty. 
+Our practices related to the handling of your personal information are prudent, intelligible and logical. In fact, if you were running ViewPoint.ca we would expect that you would handle personal information in the same manner that we do.
 
-Our practices related to the handling of your personal information are prudent, intelligible and logical. In fact, if you were running ViewPoint Realty we would expect that you would handle personal information in the same manner that we do. 
+## Our Privacy Policy
 
-So, this is our privacy policy: 
-
-  * We will never collect and store your personal information unless you give us permission to;
+  * We will never collect and store your personal information unless you give us permission;
   * We will never sell, trade, or give away your personal information;
   * We will only use your personal information for the purpose in which you intended;
   * We will protect and secure your personal information as though it were our own.
 
 
 
-For questions or concerns about our privacy policy, please contact [privacy@viewpoint.ca](mailto:privacy@viewpoint.ca) or call (902) 482-3100. 
+For questions or concerns about our privacy policy, please email [privacy@viewpoint.ca](mailto:privacy@viewpoint.ca) or call (902) 482-3100.
