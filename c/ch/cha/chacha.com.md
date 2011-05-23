@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chacha.com privacy policy that was archived on 2010-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101217161134id_/http%3A//answers.chacha.com/footer/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chacha.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523064930id_/http%3A//answers.chacha.com/footer/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ChaCha
 
@@ -10,15 +10,17 @@ This Privacy Policy summarizes ChaCha’s privacy practices and the uses of the 
 
 **The Information ChaCha Collects and Uses**
 
-In connection with your access to or use of the Site or the Services, ChaCha may request and/or collect from you personal information that may include: first and last name, address, phone number, email address, or other information (”Personal Information”). By accessing or using the Site or the Services you are accepting the terms of ChaCha’s Privacy Policy.
+In connection with your access to or use of the Site or the Services, ChaCha may request and/or collect from you personal information that may include: first and last name, address, phone number, email address, location or other information (”Personal Information”). By accessing or using the Site or the Services you are accepting the terms of ChaCha’s Privacy Policy.
 
-Some of the Personal Information (for example your name and username) is listed publicly on chachee.heroku.com, me.chacha.com and ChaCha.me (collectively, the "ChaCha.me Service"), including on your profile page and in search results. The ChaCha.me Service is designed to help you receive answers and comments. Because most of the information you provide to the ChaCha.me Service is information you want made public, your questions and comments may be broadly and instantly disseminated. You should be careful about all information that may be made public by the ChaCha.me Service. When you submit information, you are transferring such information into the World Wide Web and you hereby consent to such transfer. Likewise, your replies to questions submitted via the ChaCha.me Service may be published to other websites. You are responsible for what gets published. Whatever you enter into the ChaCha.me Service text boxes may be published and could be publicly viewable immediately upon your clicking the submit button.
+Some of the Personal Information (for example your name and username) is listed publicly on chachee.heroku.com, me.chacha.com and ChaCha.me (collectively, the “ChaCha.me Service”), including on your profile page and in search results. The ChaCha.me Service is designed to help you receive answers and comments. Because most of the information you provide to the ChaCha.me Service is information you want made public, your questions and comments may be broadly and instantly disseminated. You should be careful about all information that may be made public by the ChaCha.me Service. When you submit information, you are transferring such information into the World Wide Web and you hereby consent to such transfer. Likewise, your replies to questions submitted via the ChaCha.me Service may be published to other websites. You are responsible for what gets published. Whatever you enter into the ChaCha.me Service text boxes may be published and could be publicly viewable immediately upon your clicking the submit button.
 
 IF YOU DO NOT AGREE TO THE PRIVACY PRACTICES DESCRIBED IN THIS PRIVACY POLICY, PLEASE DO NOT USE THE CHACHA SITE OR SERVICES.
 
 ChaCha may utilize the Personal Information collected for the purposes of providing, analyzing, personalizing or improving the Site or the Services, or developing new services.
 
 ChaCha may share with third parties certain aggregated, anonymous, non-personal information, such as the number of users who searched a particular category, for example, or how many users clicked on a particular advertisement. Such information does not identify any user individually.
+
+ChaCha may but is not obliged to republish queries and answers which may be associated with geographic location information provided directly or indirectly by You. Republished queries are anonymous, and solely include content owned or licensed by ChaCha and a generalized location associated with the query which does not identify any individual.
 
 ChaCha does not share Personal Information with other companies or individuals outside ChaCha except in the following limited circumstances:
 
@@ -45,13 +47,13 @@ When you submit a search query or question using a mobile phone, mobile device o
 
 ChaCha values its Guides greatly, but they are independent contractors, and ChaCha is not legally responsible for their actions in any manner. ChaCha instructs the Guides not to ask users for Personal Information and not to save any Personal Information derived from communications with users. ChaCha also instructs the Guides to act in accordance with this Privacy Policy.
 
-You should not provide Personal Information to the Guides. If any Guide does ask you for any personally identifiable information or does anything else that raises a privacy concern, you may report any such abuse to ChaCha by use of the [Contact](https://web.archive.org/?page_id=43) link provided herein, as well as the [Contact](https://web.archive.org/?page_id=43) link located on the ChaCha homepage.
+You should not provide Personal Information to the Guides. If any Guide does ask you for any personally identifiable information or does anything else that raises a privacy concern, you may report any such abuse to ChaCha by use of the [Contact](https://web.archive.org/footer/contact-us/) link provided herein, as well as the [Contact](https://web.archive.org/footer/contact-us/) link located on the ChaCha homepage.
 
 Information indicated in ChaCha’s logs may be presented to a Guide in order to improve the quality of the Services. Personal Information is not provided to a Guide except that for some queries, location information may be associated with the query and may be provided to a Guide for the purposes of providing or improving the service.
 
 **Information Collected from Potential Guides**
 
-A Guide may assist users of the Site and the Services. In ChaCha’s recruitment of Guides, ChaCha may collect and disseminate Personal Information from applications to become Guides that has been provided through the Site. If you provide Personal Information in order to seek work as a Guide, you agree to be bound by this Privacy Policy, as well as the [Terms of Use](https://web.archive.org/?page_id=46), which are incorporated herein by reference. On the basis of the Personal Information provided, ChaCha may contact you regarding potential work as a Guide. The Personal Information that you provide will not be sold, shared or otherwise distributed to any third parties outside ChaCha, except as necessary for purposes of identity verification, background checks, or as otherwise provided in this Privacy Policy, provided that, if you do become a Guide, use of Personal Information you provide will then be under a separate contract between you and ChaCha.
+A Guide may assist users of the Site and the Services. In ChaCha’s recruitment of Guides, ChaCha may collect and disseminate Personal Information from applications to become Guides that has been provided through the Site. If you provide Personal Information in order to seek work as a Guide, you agree to be bound by this Privacy Policy, as well as the [Terms of Use](https://web.archive.org/footer/terms-of-use/), which are incorporated herein by reference. On the basis of the Personal Information provided, ChaCha may contact you regarding potential work as a Guide. The Personal Information that you provide will not be sold, shared or otherwise distributed to any third parties outside ChaCha, except as necessary for purposes of identity verification, background checks, or as otherwise provided in this Privacy Policy, provided that, if you do become a Guide, use of Personal Information you provide will then be under a separate contract between you and ChaCha.
 
 **Advertising and Links to other Web sites**
 
@@ -94,4 +96,4 @@ If you ever wish to access your Personal Information, or to have your Personal I
 > **Fax: (317) 660-6687**  
 >  **E-mail:[customer.relations@chacha.com](mailto:customer.relations@chacha.com?subject=Privacy%20Policy)**
 
-Effective Date: 07 September 2010
+Effective Date: 11 April 2011
