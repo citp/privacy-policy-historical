@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the heart.co.uk privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121220935id_/http%3A//www.heart.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heart.co.uk privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523182613id_/http%3A//www.heart.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # heart.co.uk - Heart
 
-Any information you provide about yourself to Global Radio UK Limited (“Global Radio”) or our associated companies will only be used in accordance with our Privacy Policy Statement, detailed below. Please note, the Privacy Policy Statement does not apply to websites or text services operated by third parties. 
+Any information you provide about yourself to Global [Radio](https://web.archive.org/) UK Limited (“Global Radio”) or our associated companies will only be used in accordance with our Privacy Policy Statement, detailed below. Please note, the Privacy Policy Statement does not apply to websites or text services operated by third parties. 
 
 We collect information from you for a number of reasons, for example:
 
