@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the page1solutions.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121122736id_/http%3A//www.page1solutions.com/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the page1solutions.com privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524012625id_/http%3A//www.page1solutions.com/privacyPolicy.html) for the most accurate reproduction.*
 
-# Page 1 Solutions, LLC - Privacy Policy
+# Page 1 Solutions LLC | Privacy Policy
 
-his privacy notice discloses the privacy practices for [Page 1 Solutions](http://www.page1solutions.com/). It applies solely to information collected by this website and will notify you of the following:
+##  Please Read the Information Below
+
+This privacy notice discloses the privacy practices for [Page 1 Solutions](http://www.page1solutions.com/). It applies solely to information collected by this website and will notify you of the following:
 
   1. What personally identifiable information is collected from you through the website, how it is used and with whom it may be shared
   2. What choices are available to you regarding the use of your data
@@ -23,11 +25,11 @@ We collect only information that you voluntarily give us via email or in other d
 
 We are the sole owners of the information collected on this site. We have access to/collect only information that you voluntarily give us via email or other direct contact from you. We will not sell or rent this information to anyone.
 
-We will use your information to respond to you and evaluate the possibility of working with you on a website project. We will not share your information with any third party outside of our organization, other than as necessary to fulfill your request, e.g. to ship an order or to facilitate the use of our Blog which is hosted by a third party. 
+We will use your information to respond to you and evaluate the possibility of working with you on a website project. We will not share your information with any third party outside of our organization, other than as necessary to fulfill your request, e.g. to ship an order or to facilitate the use of our Blog which is hosted by a third party.
 
 But we reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights or comply with a judicial proceeding, court order, or legal process served on our website.
 
-Unless you ask us not to, we may contact you via email in the future to tell you about specials and new products or services. 
+Unless you ask us not to, we may contact you via email in the future to tell you about specials and new products or services.
 
 **Your Access to and Control Over Information**  
 You may opt out of any future contacts from us at any time. You can do the following at any time by contacting us via the contact form or phone number given on our website:
@@ -69,7 +71,7 @@ We post customer testimonials on our website which may contain personally identi
 
 If you have questions or concerns regarding this statement, you should contact Bill Fukui at [BillF@page1solutions.com](mailto:info@page1solutions.com).
 
-### Page 1 Solutions
+###  Page 1 Solutions
 
 17301 W. Colfax Ave, Suite #275  
 Golden, CO 80401  
