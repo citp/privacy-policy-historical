@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the expertflyer.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225224302id_/http%3A//www.expertflyer.com/popup/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expertflyer.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523183344id_/http%3A//www.expertflyer.com/popup/privacy.jsp) for the most accurate reproduction.*
 
 # ExpertFlyer.com
 
