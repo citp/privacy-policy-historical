@@ -1,11 +1,11 @@
-<!--The following is the downloaded HTML source of the audiosparx.com privacy policy that was archived on 2010-11-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101120193208id_/http%3A//www.audiosparx.com/sa/privacy/privacy_policy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the audiosparx.com privacy policy that was archived on 2011-05-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110523063827id_/http%3A//www.audiosparx.com/sa/privacy/privacy_policy.cfm) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head><script type="text/javascript">/* <![CDATA[ */_cf_loadingtexthtml="<img alt=' ' src='/CFIDE/scripts/ajax/resources/cf/images/loading.gif'/>";
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">/* <![CDATA[ */_cf_loadingtexthtml="<img alt=' ' src='/CFIDE/scripts/ajax/resources/cf/images/loading.gif'/>";
 _cf_contextpath="";
 _cf_ajaxscriptsrc="/CFIDE/scripts/ajax";
 _cf_jsonprefix='';
-_cf_clientid='7EAD0B4ABBC573B3718FF4FCB2A215DB';/* ]]> */</script><script type="text/javascript" src="/CFIDE/scripts/ajax/yui/yahoo-dom-event/yahoo-dom-event.js"></script>
+_cf_clientid='77F9BD9B17947E0783946F3D9892A08F';/* ]]> */</script><script type="text/javascript" src="/CFIDE/scripts/ajax/yui/yahoo-dom-event/yahoo-dom-event.js"></script>
 <script type="text/javascript" src="/CFIDE/scripts/ajax/yui/container/container-min.js"></script>
 <script type="text/javascript" src="/CFIDE/scripts/ajax/yui/animation/animation-min.js"></script>
 <script type="text/javascript" src="/CFIDE/scripts/ajax/messages/cfmessage.js"></script>
@@ -17,7 +17,7 @@ _cf_clientid='7EAD0B4ABBC573B3718FF4FCB2A215DB';/* ]]> */</script><script type="
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
 
 <meta name="Search.Document" content="AudioSparx Privacy Policy">
-<meta name="Search.Updated" content="Sat, 20 Nov 2010 2:32:09 PM EST">
+<meta name="Search.Updated" content="Mon, 23 May 2011 2:38:41 AM EDT">
 <meta name="Search.Section" content="AudioSparx Privacy Policy">
 <meta name="revisit-after" content="30 Days">
 <meta name="robots" content="index,follow">
@@ -43,20 +43,35 @@ _cf_clientid='7EAD0B4ABBC573B3718FF4FCB2A215DB';/* ]]> */</script><script type="
 <script type="text/javascript">/* <![CDATA[ */
 	
 	
-	YAHOO.util.Event.addListener("cf_tooltip_1290281529204","mouseover",ColdFusion.Tooltip.getToolTip,{"_cf_query":"","context":"cf_tooltip_1290281529204","hidedelay":250,"showdelay":200,"autodismissdelay":10000,"preventoverlap":"false","text":'Go To AudioSparx Home Page'});
+	YAHOO.util.Event.addListener("cf_tooltip_1306132721738","mouseover",ColdFusion.Tooltip.getToolTip,{"_cf_query":"","context":"cf_tooltip_1306132721738","hidedelay":250,"showdelay":200,"autodismissdelay":30000,"preventoverlap":"false","text":'AudioSparx - The Music That Powers Hollywood'});
 /* ]]> */</script>
 <style type="text/css">
 <!--
-body         { scrollbar-base-color: 551A8B; 
-               scrollbar-arrow-color: FFFFFF; 
-               scrollbar-highlight-color: 660198; 
-               scrollbar-3dlight-color: 660198; 
-               scrollbar-face-color: 5F49E5; 
-               scrollbar-track-color: ABCAF3; 
-               scrollbar-shadow-color: 551A8B;
-               scrollbar-darkshadow-color: 2E0854 }
+body { 
+  scrollbar-base-color: 551A8B; 
+  scrollbar-arrow-color: FFFFFF; 
+  scrollbar-highlight-color: 660198; 
+  scrollbar-3dlight-color: 660198; 
+  scrollbar-face-color: 5F49E5; 
+  scrollbar-track-color: ABCAF3; 
+  scrollbar-shadow-color: 551A8B;
+  scrollbar-darkshadow-color: 2E0854 }
 -->
-</style><meta name="robots" content="noarchive"><meta http-equiv="Content-Language" content="EN"><script language="javascript" type="text/javascript">
+</style><meta name="robots" content="noarchive"><meta http-equiv="Content-Language" content="EN"><script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-229559-1']);
+  _gaq.push(['_setDomainName', 'none']);
+  _gaq.push(['_setAllowLinker', true]);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script><script language="javascript" type="text/javascript">
 
 var BrowserDetect = {
 	init: function () {
@@ -180,6 +195,8 @@ BrowserDetect.init();
 
 </script><script language="javascript" type="text/javascript">
 var HelpWindow = null;
+var winW;
+var winH;
 
 
   var googlangid = "en";
@@ -193,10 +210,32 @@ function returnObjById( id ) {
   else if (document.all) 
     var returnVar = document.all[id]; 
   else if (document.layers) 
-    var returnVar = document.layers[id]; 
+    var returnVar = document.layers[id];
+  else returnVar = false;
+     
   return returnVar; 
 }
 
+//Get window inner width and height
+function getWindowInnerDimensions() {
+  // the more standards compliant browsers (mozilla/netscape/opera/IE7) use window.innerWidth and window.innerHeight
+  if (typeof window.innerWidth != 'undefined') {
+    winW = window.innerWidth;
+    winH = window.innerHeight;
+    }
+ 
+  // IE6 in standards compliant mode (i.e. with a valid doctype as the first line in the document)
+  else if ((typeof document.documentElement != 'undefined') && (typeof document.documentElement.clientWidth != 'undefined') && (document.documentElement.clientWidth != 0)) {
+    winW = document.documentElement.clientWidth;
+    winH = document.documentElement.clientHeight;
+    }
+ 
+  // older versions of IE
+  else {
+    winW = document.getElementsByTagName('body')[0].clientWidth;
+    winH = document.getElementsByTagName('body')[0].clientHeight;
+    }
+}  
 
 //Document visible browser width
 function documentWidth() {
@@ -244,16 +283,34 @@ function left(str, n) {
     return String(str).substring(0,n);
 }
 
+//Javascript GetToken function to extract one list element
+function getToken(sVal, iIndex, sDelimiter) {
+  if (sDelimiter.length > 0) {
+    var aSubString = new Array();
+    aSubString = sVal.split(sDelimiter);
 
+    if (iIndex > aSubString.length || iIndex < 1) {
+      return "";
+      }
+    else {
+      return aSubString[iIndex - 1]
+      }
+	}
+  else {
+    return "";
+  }
+}
 
 function trim(stringToTrim) {
-	return stringToTrim.replace(/^\s+|\s+$/g,"");
+  return stringToTrim.replace(/^\s+|\s+$/g,"");
 }
+
 function ltrim(stringToTrim) {
-	return stringToTrim.replace(/^\s+/,"");
+  return stringToTrim.replace(/^\s+/,"");
 }
+
 function rtrim(stringToTrim) {
-	return stringToTrim.replace(/\s+$/,"");
+  return stringToTrim.replace(/\s+$/,"");
 } 
 
 
@@ -384,43 +441,74 @@ function loadURLToElement(turl, element_id, async) {
   //el = document.getElementById('tracetext');  
   //el.innerHTML = 'loadURLToElement';
 
-  tdiv = document.getElementById(element_id);
+  tdiv = returnObjById(element_id);
   
   var xmlHttp;
 
   try { 
     // Firefox, Opera 8.0+, Safari  
+    //alert('traceA');
     xmlHttp=new XMLHttpRequest();  
+    //alert('traceB');
   }
     
   catch (e) { 
     // Internet Explorer  
-    try {
-      xmlHttp=new ActiveXObject("Msxml2.XMLHTTP"); 
-      }
+    try { xmlHttp=new ActiveXObject("Msxml2.XMLHTTP"); }
     catch (e) {
-      try {
-        xmlHttp=new ActiveXObject("Microsoft.XMLHTTP"); 
-        }
+      try { xmlHttp=new ActiveXObject("Microsoft.XMLHTTP"); }
       catch (e) {
-        alert("Your browser does not support AJAX!");
+        alert("Your browser does not support AJAX! \n" + turl);
         return false;
         }    
       }  
     }
 
+
+  if (BrowserDetect.browser == 'Firefox') {
+    xmlHttp.onload = xmlHttp.onerror = xmlHttp.onabort = function(){
+      tdiv.innerHTML = xmlHttp.responseText; 
+      xmlHttp.send(null);  
+      };
+    }  
+  else {
     xmlHttp.onreadystatechange=function() {
+      //alert('traceD');
+
       if(xmlHttp.readyState==4) {
-        var str = xmlHttp.responseText; 
-        tdiv.innerHTML = str;
+        //alert('traceD1');
+        tdiv.innerHTML = xmlHttp.responseText; 
+
+        try {
+          xmlHttp.send(null);  
+          }
+        catch (e) {
+          //alert('AJAX error 1, please contact info@audiosparx.com - Error: ' + e.name + ' - ' + e.message + "\n" + turl);
+          }    
         }
     }
+  }  
+
+  //alert('traceE');
   
-  if (async == undefined) xmlHttp.open("GET", turl, true);
-  else xmlHttp.open("GET", turl, async);
+  try { 
+    if (async == undefined) {
+      //alert('traceE1');
+      xmlHttp.open("GET", turl, true);
+      }
+    else {
+      //alert('traceE2');
+      xmlHttp.open("GET", turl, async);
+      }
+    }
+  catch(e) {
+    //alert('traceE3');
+    alert('AJAX error 2, please contact info@audiosparx.com - Error: ' + e.name + ' - ' + e.message + "\n" + turl);
+    }  
 
   xmlHttp.send(null);  
 }
+
 
 
 //call URL via AJAX
@@ -537,62 +625,6 @@ function imgNode(obj) {
 }
 
 
-//Get window inner width and height
-function getWindowInnerDimensions() {
-  if (parseInt(navigator.appVersion)>3) {
-   if (navigator.appName=="Netscape") {
-    winW = window.innerWidth-16;
-    winH = window.innerHeight-16;
-   }
-   if (navigator.appName.indexOf("Microsoft")!=-1) {
-    winW = document.body.offsetWidth-20;
-    winH = document.body.offsetHeight-20;
-   }
-  }
-}  
-
-
-//Get cursor position within textarea field
-function doGetCaretPosition(el) { 
-  if (el.selectionStart) return el.selectionStart; 
-
-  //Handle IE case  
-  if (document.selection) { 
-    el.focus(); 
-
-    var r = document.selection.createRange(); 
-    if (r == null) return 0; 
-
-    var re = el.createTextRange(); 
-    var rc = re.duplicate(); 
-
-    re.moveToBookmark(r.getBookmark()); 
-    rc.setEndPoint('EndToStart', re); 
-
-    return rc.text.length; 
-  }  
-
-  return 0; 
-}
-
-
-//Set cursor position within textarea field
-function setCaretPosition(ctrl, pos){
-	if(ctrl.setSelectionRange)
-	{
-		ctrl.focus();
-		ctrl.setSelectionRange(pos,pos);
-	}
-	else if (ctrl.createTextRange) {
-		var range = ctrl.createTextRange();
-		range.collapse(true);
-		range.moveEnd('character', pos);
-		range.moveStart('character', pos);
-		range.select();
-	}
-}
-
-
 //Pause for milliseconds
 function pausecomp(millis) 
 {
@@ -602,217 +634,6 @@ function pausecomp(millis)
   do { curDate = new Date(); } 
   while(curDate-date < millis);
 } 
-
-
-function pushOutText(nextchar, field, i) {
-  if ((nextchar != ' ') && (nextchar != '"') && (nextchar != '“') && (nextchar != '”') && (nextchar != ')')) {
-    carpos = doGetCaretPosition(field);
-    tleft = field.value.substring(0, i+1);
-    tright = field.value.substring(i+1, field.value.length);
-    field.value = tleft + " " + tright;
-    setCaretPosition(field, carpos);
-    }
-}    
-
-function pullInText(field, i) {
-  carpos = doGetCaretPosition(field);
-  tleft = field.value.substring(0, i-1);
-  tright = field.value.substring(i, field.value.length);
-  field.value = tleft + tright;
-  setCaretPosition(field, carpos);
-}    
-
-
-//force spaces after punctuation
-function forcePunctSpace(field) {
-  for (i = 0; i < field.value.length-1; i = i + 1) {
-    wdetect = false;
-
-    teststr = field.value.substring(i, i+7).toUpperCase();
-    if ((teststr == "A.K.A. ") || (teststr == "A.K.A.)") ||
-        (teststr == "V.I.P. ") || (teststr == "V.I.P.)") ||
-        (teststr == "R.I.P. ") || (teststr == "R.I.P.)") ||
-        (teststr == "U.S.A. ") || (teststr == "U.S.A.)")) {
-      i = i + 8
-      wdetect = true;
-      } 
-      
-    if (wdetect == false) {  
-      teststr = field.value.substring(i, i+5).toUpperCase();
-      if ((teststr == "T.V. ") || (teststr == "T.V.)") ||
-          (teststr == "A.M. ") || (teststr == "A.M.)") ||
-          (teststr == "P.M. ") || (teststr == "P.M.)")) {
-        i = i + 6
-        wdetect = true;
-        } 
-      }  
-  
-    if (wdetect == false) {  
-      teststr = field.value.substring(i, i+4).toUpperCase();
-      if ((teststr == "... ") || (teststr == "...)") || (teststr == "...")) {
-        i = i + 5
-        wdetect = true;
-        } 
-      }  
-
-  
-    if (wdetect == false) {
-      thischar = field.value.substring(i, i+1);
-      thischar = thischar.toUpperCase();
-      
-      if (thischar == "`") {
-        tleft = field.value.substring(0, i);
-        tright = field.value.substring(i+1, field.value.length);
-        field.value = tleft + "'" + tright;
-        }
-    
-      else if ((thischar == ".") || (thischar == ",") || (thischar == ";") || (thischar == "!") || (thischar == "?") || (thischar == ")") || (thischar == "(")) {
-        if ((i+1) < field.value.length) {
-          nextchar = field.value.substring(i+1, i+2);
-          prevchar = field.value.substring(i-1, i);
-          }
-        else nextchar = "";
-
-        //Handle ")" case
-        if (thischar == ")") {
-          if ((nextchar != " ") && 
-              (nextchar != ",") && 
-              (nextchar != ".") && 
-              (nextchar != "!") && 
-              (nextchar != "?") && 
-              (nextchar != ";") && 
-              (nextchar != "'") &&
-              (nextchar != '"')
-             ) pushOutText(nextchar, field, i);
-
-          if (prevchar == " ") pullInText(field, i);
-          }
-
-        //Handle "(" case
-        else if (thischar == "(") {
-          if ((nextchar == " ") || 
-              (nextchar == ",") || 
-              (nextchar == ".") || 
-              (nextchar == "!") || 
-              (nextchar == "?") || 
-              (nextchar == ";") 
-             ) pullInText(field, i+2);
-          }
-
-        //Handle ";" case
-        else if (thischar == ";") {
-          if ((nextchar == ";") || 
-              (nextchar == ",")
-             ) pullInText(field, i+2);
-
-          if (prevchar == " ") pullInText(field, i);
-          }
-
-        //Handle comma "," case
-        else if (thischar == ",") {
-          if ((nextchar == ";") || (nextchar == ",")) {
-             pullInText(field, i+2);
-             nextchar = field.value.substring(i+1, i+2);
-             } 
-
-          if ((nextchar != "'") &&
-              (nextchar != '"') &&
-              (nextchar != "0") && 
-              (nextchar != "1") && 
-              (nextchar != "2") && 
-              (nextchar != "3") && 
-              (nextchar != "4") && 
-              (nextchar != "5") && 
-              (nextchar != "6") && 
-              (nextchar != "7") && 
-              (nextchar != "8") && 
-              (nextchar != "9")
-             ) pushOutText(nextchar, field, i);
-
-          if (prevchar == " ") pullInText(field, i);
-          }
-
-        //Handle "!" and "?" case
-        else if ((thischar == "!") || (thischar == "?")) {
-          if ((nextchar != ")") && 
-              (nextchar != "'") &&
-              (nextchar != '"')
-             ) pushOutText(nextchar, field, i);
-          }
-
-        //Handle "." case
-        else {
-          if ((nextchar != ")") && 
-              (nextchar != ",") && 
-              (nextchar != "0") && 
-              (nextchar != "1") && 
-              (nextchar != "2") && 
-              (nextchar != "3") && 
-              (nextchar != "4") && 
-              (nextchar != "5") && 
-              (nextchar != "6") && 
-              (nextchar != "7") && 
-              (nextchar != "8") && 
-              (nextchar != "9") && 
-              (nextchar != "'") && 
-              (nextchar != ".")
-             ) pushOutText(nextchar, field, i);
-          }
-        }  
-      }
-
-  }  //End for
-}  //End function
-
-
-
-//Control amount of text that can be put into a textarea field, force spaces after punctuation
-function textCounter(field, cntfield, maxlimit, final) {
-  var carpos;
-  var matchPos;
-  var tstr; 
-  
-  var f = function() {
-    field.style.backgroundColor='white';
-    cntfield.value = maxlimit - field.value.length;
-    };
-
-  //Adjust text as final step
-  if (final != undefined) {
-    var origval = field.value;
-
-    //Remove any double spaces
-    tstr = new String(field.value);
-    tstr = trim(tstr);
-  
-    do {
-      matchPos = tstr.search("  ");  
-      if (matchPos != -1) tstr = tstr.replace("  ", " ");
-      }
-    while (matchPos != -1);
-
-    field.value = trim(tstr);
-
-    forcePunctSpace(field);
-    if (origval != field.value) {
-      field.style.backgroundColor="red";
-      var timeoutvar = setTimeout(f,200);
-      }
-    }  
-
-  if (field.value.length > maxlimit) { 
-    // if too long...trim it!
-    carpos = doGetCaretPosition(field);
-    field.value = field.value.substring(0, maxlimit);
-    setCaretPosition(field, carpos);
-    field.style.backgroundColor="red";
-    var timeoutvar = setTimeout(f,200);
-    } 
-  else {
-    // otherwise, update 'characters left' counter
-    cntfield.value = maxlimit - field.value.length;
-    }  
-}
 
 
 function googlangid_set(new_googlangid) {
@@ -826,6 +647,18 @@ function googlangid_get() {
 function testThis() {
   alert('testThis');
 }
+
+
+function getOSName() {
+  var OSName="Unknown";
+
+  if (navigator.appVersion.indexOf("Win") != -1) OSName="Windows";
+  else if (navigator.appVersion.indexOf("Mac") != -1) OSName="MacOS";
+  else if (navigator.appVersion.indexOf("X11") != -1) OSName="UNIX";
+  else if (navigator.appVersion.indexOf("Linux") != -1) OSName="Linux";
+  
+  return OSName;
+}  
 
 </script><script language="javascript" type="text/javascript">
 
@@ -1195,11 +1028,10 @@ function showtrailplus(filepath, width, height, title, descript) {
   NewHTML = '<div id="trailimageid" style="position:absolute; visibility:visible; padding:5px; background-color:#FFF; border:1px solid #888; left:' + newxcoord + 'px; top:' + newycoord + 'px; width:' + outerwidth + 'px; height:' + outerheight + 'px; z-index:50;">';
   NewHTML = NewHTML + '<table border=0 width=100% cellspacing=0 cellpadding=3>';
   NewHTML = NewHTML + '<tr>';
-  NewHTML = NewHTML + '<td width=' + width + '>';  
-  NewHTML = NewHTML + '<div style="position:absolute; visibility:visible; left:10px; top:10px; width:' + width + 'px; height:' + height + 'px; z-index:50;">';
-  NewHTML = NewHTML + '<img src="' + trailimage[0] + '" border=0 width=' + trailimage[1] + ' height=' + trailimage[2] + '></div>';  
+  NewHTML = NewHTML + '<td valign=top width=' + width + '>';  
+  NewHTML = NewHTML + '<img src="' + trailimage[0] + '" border=0 width=' + trailimage[1] + '>';  
   NewHTML = NewHTML + '</td>';
-  NewHTML = NewHTML + '<td width=196>';
+  NewHTML = NewHTML + '<td valign=top width=196>';
   NewHTML = NewHTML + '<font size=2 face=arial><b>' + newtitle + '</b></font><br>';
   NewHTML = NewHTML + '<div id="descriptdiv"><font size=2 face=arial></font></div>';
   NewHTML = NewHTML + '</td></tr></table>';
@@ -1257,6 +1089,8 @@ function hoverTextDisplay(width, height, title, descript) {
   
   newtitle = title.replace(/&amp;#39;/g, "&#39;");
   newtitle = newtitle.replace(/&amp;#34;/g, "&#34;");
+  newtitle = newtitle.replace(/&39;/g, "&#39;");
+  newtitle = newtitle.replace(/&34;/g, "&#34;");
 
   newdescript = descript.replace(/&amp;#39;/g, "&#39;");
   newdescript = newdescript.replace(/&39;/g, "&#39;");
@@ -1304,8 +1138,8 @@ function hoverTextShow(width, height, title, descript, delay) {
 
 
 
-//Function to display single image with title and text to the right
-function hoverPopwin(x, y, width, height, border, title, url, root) {
+//Function to display window with custom URL, with close button
+function hoverPopwin(x, y, width, height, border, title, url) {
   if (BrowserDetect.browser == 'Explorer') {
     outerwidth = width + 32 + (width/2);
     outerheight = height + 22;
@@ -1322,7 +1156,7 @@ function hoverPopwin(x, y, width, height, border, title, url, root) {
 
   NewHTML = '<div id="trailimageid" style="position:absolute; visibility:visible; padding:5px; background-color:#FFF; border:' + border + 'px solid #888; left:' + x + 'px; top:' + y + 'px; width:' + outerwidth + 'px; height:' + outerheight + 'px; z-index:50;">';
   NewHTML = NewHTML + '<table border=0 width=100% cellspacing=0 cellpadding=3>';
-  NewHTML = NewHTML + '<tr><td><font size=3 face=arial><b>' + newtitle + '</b></font></td><td align="right"><a href="javascript:hidetrail();"><img src="/sa/images/aerogel_close_window.jpg"></a></td></tr>';
+  NewHTML = NewHTML + '<tr><td><font size=3 face=arial><b>' + newtitle + '</b></font></td><td align="right"><a href="javascript:hidetrail();"><img src="/sa/images/aerogel_close_window.jpg" border="0"></a></td></tr>';
   NewHTML = NewHTML + '<tr><td colspan=2>';
   NewHTML = NewHTML + '<div id="hoverPopurl"></div>';
   NewHTML = NewHTML + '</td></tr></table>';
@@ -1330,8 +1164,8 @@ function hoverPopwin(x, y, width, height, border, title, url, root) {
 
   gettrailobjnostyle().innerHTML = NewHTML;
   gettrailobj().visibility="visible";
-  
-  loadURLToElement(url, 'hoverPopurl', false);
+
+  loadURLToElement(url, 'hoverPopurl', true);
 }
 
 
@@ -1395,6 +1229,7 @@ init_showtrail();
 
 
 
+
   
 
 
@@ -1403,7 +1238,7 @@ init_showtrail();
 
 
 
-<body bgcolor="white" text="black" link="black" vlink="#0000EE" alink="#0000EE"><span></span><iframe id="HiddenFrame" name="HiddenFrame" frameborder="0" vspace="0" hspace="0" marginwidth="0" marginheight="0" scrolling="no" height="1" width="1"></iframe>
+<body bgcolor="white" text="black" link="black" vlink="#5502DC" alink="#5502DC" marginheight="0" marginwidth="0" leftmargin="0" rightmargin="0"><span></span><iframe id="HiddenFrame" name="HiddenFrame" frameborder="0" vspace="0" hspace="0" marginwidth="0" marginheight="0" scrolling="no" height="1" width="1"></iframe>
 
 <script language="javascript" type="text/javascript">
 var PlayWindow = null;
@@ -1416,15 +1251,48 @@ var coplay_node = null;
 var coplay_small = false;
 var activeplay_iid = 0;
 var activeplay_filepath = "";
+var mouseover_iid = 0;
+var mouseover_filepath = '';
 var last_coplay_time = 0;
 var timeoutvar = "";
 var stopping = 0;
+var activatePause = 1000;
 
-//Set color scheme for flash player
-if (0 == 0) fp_colorscheme = 1;
-else if (0 == 1) fp_colorscheme = 3;
-else fp_colorscheme = 1;
 
+
+function audioStopImmediate() {
+  //Call it this way in case we're inside an iframe or child window
+  if (document.all.axplayer != undefined) {
+    stopFlash('axplayer');
+    }
+
+  else if ((window.opener) && (!window.opener.closed)) {
+    window.opener.stopFlash('axplayer');
+    }
+
+  else if ((parent.window) && (!parent.window.closed)) {
+    parent.stopFlash('axplayer');
+    }  
+}
+
+function audioPlayImmediate(sound_iid, scale, loadflash) {
+  //Call it this way in case we're inside an iframe or child window
+
+  turl = '/sa/play/active_port_get.cfm/sound_iid.' + sound_iid;
+  if (scale != undefined) turl = turl + '/scale.' + scale + '/loadflash.true';
+
+  if (document.all.axplayer != undefined) {
+    document.all.PlayFrame.src = turl;
+    }
+
+  else if ((window.opener) && (!window.opener.closed)) {
+    window.opener.document.all.PlayFrame.src = turl;
+    }
+    
+  else if ((parent.window) && (!parent.window.closed)) {
+    parent.window.document.all.PlayFrame.src = turl;
+    }  
+}
 
 
 
@@ -1454,72 +1322,20 @@ function port_lofi_play(parmsound_iid) {
   PlayWindow.focus();
 }
 
-function port_download_select(parmsound_iid) {
-  var width = 360;
-  var height = 360;
-  var left = (screenWidth() - width)/2;
-  var top = (screenHeight() - height)/2;
-  var windowFeatures = "width=" + width + ",height=" + height + ",left=" + left + ",top=" + top + "screenX=" + left + ",screenY=" + top + ",resizable=no,toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=no";  
-
-  var thisurl = '/sa/play/port_download_select.cfm/sound_iid.' + parmsound_iid;
-
-  if (DLWindow && DLWindow.open) DLWindow.close();
-  DLWindow=parent.window.open(thisurl,'DLWindow',windowFeatures);
-  DLWindow.focus();
-}
-
-function port_demo_download(parmsound_iid) {
-  var width = 360;
-  var height = 360;
-  var left = (screenWidth() - width)/2;
-  var top = (screenHeight() - height)/2;
-  var windowFeatures = "width=" + width + ",height=" + height + ",left=" + left + ",top=" + top + "screenX=" + left + ",screenY=" + top + ",resizable=no,toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=no";  
-
-  var thisurl = '/sa/play/port_demo_download.cfm/sound_iid.' + parmsound_iid;
-
-  if (DLWindow && DLWindow.open) DLWindow.close();
-  DLWindow=parent.window.open(thisurl,'DLWindow',windowFeatures);
-  DLWindow.focus();
-}
-
-function port_download_select_studio(cust_iid, sound_iid, client_project_track_iid) {
-  var width = 360;
-  var height = 360;
-  var left = (screenWidth() - width)/2;
-  var top = (screenHeight() - height)/2;
-  var windowFeatures = "width=" + width + ",height=" + height + ",left=" + left + ",top=" + top + "screenX=" + left + ",screenY=" + top + ",resizable=no,toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=no";  
-
-  var thisurl = '/sa/download/select/default.cfm/cust_iid.' + cust_iid + '/sound_iid.' + sound_iid + '/client_project_track_iid.' + client_project_track_iid;
-
-  if (DLWindow && DLWindow.open) DLWindow.close();
-  DLWindow=parent.window.open(thisurl,'DLWindow',windowFeatures);
-  DLWindow.focus();
-}
 
 
 
-
-
-function getppobj(){
-  if (document.getElementById)
-    return document.getElementById("packpreview").style
-  else if (document.all)
-    return document.all.packpreview.style;
-}
-
-function getppobjnostyle(){
-  if (document.getElementById)
-    return document.getElementById("packpreview")
-  else if (document.all)
-    return document.all.packpreview;
-}
 
 //Hide Pack preview window
 function hidepp(){
-  stopFlash('axplayer');
-  NewHTML = '<div id="packpreview" style="position:absolute; visibility:visible; left:0px;top:0px;width:0px;height:0px"></div>';
-  getppobjnostyle().innerHTML = NewHTML;
-  getppobj().visibility="visible";
+  audioStopImmediate();
+
+  if (BrowserDetect.browser == 'Explorer') tposition = "absolute";
+  else tposition = "fixed";
+
+  NewHTML = '<div id="packpreview" style="position:' + tposition + '; visibility:visible; left:0px;top:0px;width:0px;height:0px"></div>';
+  returnObjById("packpreview").innerHTML = NewHTML;
+  returnObjById("packpreview").style.visibility = "visible";
 }
 
 function pack_preview(parmsound_iid) {
@@ -1538,7 +1354,10 @@ function pack_preview(parmsound_iid) {
   //el = document.getElementById('tracetext');  
   //el.innerHTML = 'left=' + left + '  top=' + top + ' winW=' + winW + ' winH=' + winH;
   
-  NewHTML = '<div id="packpreview" style="position:absolute; visibility:visible; padding:1px; background-color:#FFF; border:3px solid #000; left:' + left + 'px; top:' + top + 'px; width:' + width + 'px; height:' + height + 'px; z-index:50;">';
+  if (BrowserDetect.browser == 'Explorer') tposition = "absolute";
+  else tposition = "fixed";
+
+  NewHTML = '<div id="packpreview" style="position:' + tposition + '; visibility:visible; padding:1px; background-color:#FFF; border:3px solid #000; left:' + left + 'px; top:' + top + 'px; width:' + width + 'px; height:' + height + 'px; z-index:50;">';
 
   
   NewHTML = NewHTML + '<table height="24" width="' + width + '" border="0" cellspacing="0" cellpadding="1" style="border-collapse: collapse">';
@@ -1553,10 +1372,9 @@ function pack_preview(parmsound_iid) {
   NewHTML = NewHTML + '<iframe id="PackFrame" name="PackFrame" frameborder="0" vspace="0" hspace="0" marginwidth="0" marginheight="0" scrolling="yes" height="' + height + '" width="' + width + '"></iframe>';
   NewHTML = NewHTML + '</div>';
 
-  getppobjnostyle().innerHTML = NewHTML;
-  getppobj().visibility="visible";
-
-  document.all.PackFrame.src = '/sa/packs/preview.cfm/sound_iid.' + parmsound_iid;
+  returnObjById("packpreview").innerHTML = NewHTML;
+  returnObjById("packpreview").style.visibility="visible";
+  returnObjById("PackFrame").src = '/sa/packs/preview.cfm/sound_iid.' + parmsound_iid;
 }
 
 
@@ -1574,8 +1392,11 @@ function pack_sort(parmsound_iid) {
 
   //el = document.getElementById('tracetext');  
   //el.innerHTML = 'left=' + left + '  top=' + top + ' winW=' + winW + ' winH=' + winH;
+
+  if (BrowserDetect.browser == 'Explorer') tposition = "absolute";
+  else tposition = "fixed";
   
-  NewHTML = '<div id="packpreview" style="position:absolute; visibility:visible; padding:1px; background-color:#FFF; border:3px solid #000; left:' + left + 'px; top:' + top + 'px; width:' + width + 'px; height:' + height + 'px; z-index:50;">';
+  NewHTML = '<div id="packpreview" style="position:' + tposition + '; visibility:visible; padding:1px; background-color:#FFF; border:3px solid #000; left:' + left + 'px; top:' + top + 'px; width:' + width + 'px; height:' + height + 'px; z-index:50;">';
 
   
   NewHTML = NewHTML + '<table height="24" width="' + width + '" border="0" cellspacing="0" cellpadding="1" style="border-collapse: collapse">';
@@ -1590,22 +1411,24 @@ function pack_sort(parmsound_iid) {
   NewHTML = NewHTML + '<iframe id="PackFrame" name="PackFrame" frameborder="0" vspace="0" hspace="0" marginwidth="0" marginheight="0" scrolling="yes" height="' + height + '" width="' + width + '"></iframe>';
   NewHTML = NewHTML + '</div>';
 
-  getppobjnostyle().innerHTML = NewHTML;
-  getppobj().visibility="visible";
+  returnObjById("packpreview").innerHTML = NewHTML;
+  returnObjById("packpreview").style.visibility = "visible";
   document.all.PackFrame.src = '/sa/sound/soundpack_sort.cfm/sound_iid.' + parmsound_iid;
 }
 
 
 function init_showpp() {
-  NewHTML = '<div id="packpreview" style="position:absolute; visibility:hidden; left:1px; top:1px; width:1px; height:1px; z-index:50;"></div>';
+  if (BrowserDetect.browser == 'Explorer') tposition = "absolute";
+  else tposition = "fixed";
+
+  NewHTML = '<div id="packpreview" style="position:' + tposition + '; visibility:hidden; left:1px; top:1px; width:1px; height:1px; z-index:50;"></div>';
   document.write(NewHTML);
 }
 
 init_showpp();
 
-function pack_play_launch(node, small, sound_iid, tablerow, innerrow, scale) {
-  el = document.getElementById('tracetext');  
-
+function pack_play_launch(node, sound_iid, tablerow, innerrow, scale) {
+  //el = document.getElementById('tracetext');  
   //alert('sound_iid=' + sound_iid);
 
   //If another track is already coplaying, stop that track
@@ -1623,17 +1446,18 @@ function pack_play_launch(node, small, sound_iid, tablerow, innerrow, scale) {
   document.body.style.cursor = 'default';
 }
 
-function pack_play(node, small, sound_iid, tablerow, innerrow, scale) {
+
+function pack_play(node, sound_iid, tablerow, innerrow, scale) {
   //Use 500ms timed delay so does not launch immediately if client happens to 
   //mouseover play button for a brief instance while moving the cursor around screen
   var f = function() {
     if (scale == undefined ) {
-      if (tablerow == undefined) pack_play_launch(node, small, sound_iid);
-      else pack_play_launch(node, small, sound_iid, tablerow, innerrow);
+      if (tablerow == undefined) pack_play_launch(node, sound_iid);
+      else pack_play_launch(node, sound_iid, tablerow, innerrow);
       }
     else {
-      if (tablerow == undefined ) pack_play_launch(node, small, sound_iid, scale);
-      else pack_play_launch(node, small, sound_iid, tablerow, innerrow, scale);
+      if (tablerow == undefined ) pack_play_launch(node, sound_iid, scale);
+      else pack_play_launch(node, sound_iid, tablerow, innerrow, scale);
       }  
   };
     
@@ -1641,20 +1465,38 @@ function pack_play(node, small, sound_iid, tablerow, innerrow, scale) {
 }
 
 
-function pack_play_campaign_launch(node, small, sound_iid, curl, tablerow, innerrow) {
+function pack_play_custom(node, sound_iid, tablerow, hifunc) {
+  mouseover_iid = sound_iid;
+
+  var f = function() {
+    if (mouseover_iid != sound_iid) return;
+ 
+    hifunc(tablerow);
+    pack_play_launch(node, sound_iid);
+    
+    //if (tablerow == undefined) pack_play_launch(node, sound_iid);
+    //else pack_play_launch(node, sound_iid, tablerow, innerrow);
+  };
+    
+  timeoutvar = setTimeout(f,500);
+}
+
+
+
+
+function pack_play_campaign_launch(node, sound_iid, curl, tablerow, innerrow) {
   //register campaign click
   document.all.FeaturedHiddenFrame.src = curl;
 
   //active preview track
-  if (tablerow == undefined) pack_play_launch(node, small, sound_iid);
-  else pack_play_launch(node, small, sound_iid, tablerow, innerrow);
+  if (tablerow == undefined) pack_play_launch(node, sound_iid);
+  else pack_play_launch(node, sound_iid, tablerow, innerrow);
 }
 
-function pack_play_campaign(node, small, sound_iid, curl, tablerow, innerrow) {
-  //Use 500ms timed delay so does not launch immediately if client happens to mouseover play button for a brief instance while moving the cursor around screen
+function pack_play_campaign(node, sound_iid, curl, tablerow, innerrow) {
   var f = function() {
-    if (tablerow == undefined) pack_play_campaign_launch(node, small, sound_iid, curl);
-    else pack_play_campaign_launch(node, small, sound_iid, curl, tablerow, innerrow);
+    if (tablerow == undefined) pack_play_campaign_launch(node, sound_iid, curl);
+    else pack_play_campaign_launch(node, sound_iid, curl, tablerow, innerrow);
   };
     
   timeoutvar = setTimeout(f,500);
@@ -1680,10 +1522,16 @@ function getmpobjnostyle(){
 
 //Hide Mixes preview window
 function hidemp(){
-  NewHTML = '<div id="mixpreview" style="position:absolute; visibility:visible; left:0px;top:0px;width:0px;height:0px"></div>';
+  audioStopImmediate();
+
+  if (BrowserDetect.browser == 'Explorer') tposition = "absolute";
+  else tposition = "fixed";
+
+  NewHTML = '<div id="mixpreview" style="position:' + tposition + '; visibility:visible; left:0px;top:0px;width:0px;height:0px"></div>';
   getmpobjnostyle().innerHTML = NewHTML;
   getmpobj().visibility="visible";
 }
+
 
 //Show popup window with various mixes for selected primary track---------------------------------------------
 function mixes_preview(sound_iid) {
@@ -1701,12 +1549,16 @@ function mixes_preview(sound_iid) {
 
   var frameheight = height -30;
 
+  if (BrowserDetect.browser == 'Explorer') tposition = "absolute";
+  else tposition = "fixed";
+
   
-  NewHTML = '<div id="mixpreview" style="position:absolute; visibility:visible; padding:1px; background-color:#FFF; border:3px solid #000; left:' + left + 'px; top:' + top + 'px; width:' + width + 'px; height:' + height + 'px; z-index:50;">';
+  NewHTML = '<div id="mixpreview" style="position:' + tposition + '; visibility:visible; padding:1px; background-color:#FFF; border:3px solid #000; left:' + left + 'px; top:' + top + 'px; width:' + width + 'px; height:' + height + 'px; z-index:50;">';
 
   
   NewHTML = NewHTML + '<table height="24" width="' + width + '" border="0" cellspacing="0" cellpadding="1" style="border-collapse: collapse">';
   NewHTML = NewHTML + '<tr>';
+  NewHTML = NewHTML + '<td><font size=4 face=arial><b>Mixes Available For This Track</b></font></td>';
   NewHTML = NewHTML + '<td align="right">';
   NewHTML = NewHTML + '<div id="tracetext"></div>';
   NewHTML = NewHTML + '<a href="" onClick="hidemp(); return false;"><img src="/sa/images/aerogel_close_window.jpg" border=0></a>';
@@ -1744,7 +1596,10 @@ function mixes_launch(sound_iid, tablerow, innerrow) {
 }
 
 function init_showmp() {
-  NewHTML = '<div id="mixpreview" style="position:absolute; visibility:hidden; left:1px; top:1px; width:1px; height:1px; z-index:50;"></div>';
+  if (BrowserDetect.browser == 'Explorer') tposition = "absolute";
+  else tposition = "fixed";
+
+  NewHTML = '<div id="mixpreview" style="position:' + tposition + '; visibility:hidden; left:1px; top:1px; width:1px; height:1px; z-index:50;"></div>';
   document.write(NewHTML);
 }
 
@@ -1772,9 +1627,9 @@ function coplay_stop(node, small, sound_iid) {
       }
     }  
     
-  stopFlash('axplayer');
+  audioStopImmediate();
   stopping = 0;
-
+ 
   //el = document.getElementById('tracetext');  
   //el.innerHTML = 'STOP! timeoutvar=' + timeoutvar;
 }
@@ -1799,7 +1654,7 @@ function coplay_path_stop(node, small) {
       }  
     }  
     
-  stopFlash('axplayer');
+  audioStopImmediate();
   stopping = 0;
 }
 
@@ -1823,6 +1678,7 @@ function coplay_launch(node, small, sound_iid, tablerow, innerrow, scale) {
 
   //If this same track is already playing, then stop it
   if ((coplay_iid != 0) && (coplay_iid == sound_iid)) coplay_stop(coplay_node, coplay_small, coplay_iid);
+
 
   //If this track is already active playing, then don't restart it, just change to coplay status
   else if ((activeplay_iid != 0) && (activeplay_iid == sound_iid)) {
@@ -1859,11 +1715,9 @@ function coplay_launch(node, small, sound_iid, tablerow, innerrow, scale) {
 
     if (tablerow != undefined ) showlight(tablerow, innerrow);
 
-    if (scale == undefined ) turl = 'http://www.audiosparx.com/sa/play/active_port_get.cfm/sound_iid.' + sound_iid;
-    else turl = 'http://www.audiosparx.com/sa/play/active_port_get.cfm/sound_iid.' + sound_iid + '/scale.' + scale + '/loadflash.true';
-        
-    document.all.PlayFrame.src = turl;
-    //loadURLToElement(turl, 'axplaydiv');
+    //Call it this way in case we're inside an iframe showing list of track edits
+    if (scale == undefined ) audioPlayImmediate(sound_iid);
+    else  audioPlayImmediate(sound_iid, scale, true); 
 
     document.body.style.cursor = 'default';
   }  
@@ -1905,7 +1759,7 @@ function coplay_path_launch(node, small, filepath, title) {
     if (small) imgNode(node).src = 'http://www.audiosparx.com/sa/images/sspeakerstop_active.gif';
     else imgNode(node).src = 'http://www.audiosparx.com/sa/images/speakerstop_active.gif';
 
-    parent.playFlash('axplayer', filepath, title, fp_colorscheme, 1);
+    parent.playFlash('axplayer', filepath, title, 2, 1);
   }  
 }
 
@@ -1964,7 +1818,7 @@ function coplay(node, small, sound_iid, url, tablerow, innerrow, scale) {
           }  
       };
     
-      timeoutvar = setTimeout(f,500);
+      timeoutvar = setTimeout(f,activatePause);
     }          
   }  
 }
@@ -1982,7 +1836,7 @@ function coplay_path(node, small, filepath, title) {
       coplay_path_launch(node, small, filepath, title);
     };
     
-    timeoutvar = setTimeout(f,500);
+    timeoutvar = setTimeout(f,activatePause);
   }          
 }
 
@@ -2007,11 +1861,17 @@ function coplay_custom(node, sound_iid, url, tablerow, hifunc) {
 
 function active_play_stop(node, small, sound_iid) {
   if (coplay_iid == 0) coplay_stop(node, small, sound_iid);
+  mouseover_iid = 0;
 }
+
+
 
 function active_path_play_stop(node, small) {
   if (coplay_filepath == '') coplay_path_stop(node, small);
+  mouseover_filepath = '';
 }
+
+
 
 function active_play_launch(node, small, sound_iid, tablerow, innerrow, scale) {
   //el = document.getElementById('tracetext');  
@@ -2048,9 +1908,9 @@ function active_play_launch(node, small, sound_iid, tablerow, innerrow, scale) {
     //Close preview window if open
     if (PlayWindow && PlayWindow.open) PlayWindow.close();
 
-    filepath = 'http://www.audiosparx.com/sa/play/active_port_get.cfm/sound_iid.' + sound_iid;
-    document.all.PlayFrame.src = filepath;
-    //el.innerHTML = 'active_port_get to ' + filepath;
+    //Call it this way in case we're inside an iframe showing list of track edits
+    audioPlayImmediate(sound_iid);
+
     document.body.style.cursor = 'default';
     }
   else {
@@ -2059,13 +1919,19 @@ function active_play_launch(node, small, sound_iid, tablerow, innerrow, scale) {
     }  
 }
 
+
+
 function active_play(node, small, sound_iid, tablerow, innerrow, scale) {
   //el = document.getElementById('tracetext');  
   //el.innerHTML = 'active play sound_iid=' + sound_iid;
 
-  //Use 500ms timed delay so does not launch immediately if client happens to 
+  mouseover_iid = sound_iid;
+
+  //Use activatePause timed delay so does not launch immediately if client happens to 
   //mouseover play button for a brief instance while moving the cursor around screen
   var f = function() {
+    if (mouseover_iid != sound_iid) return;
+    
     if (scale == undefined ) {
       if (tablerow == undefined) active_play_launch(node, small, sound_iid);
       else active_play_launch(node, small, sound_iid, tablerow, innerrow);
@@ -2075,23 +1941,31 @@ function active_play(node, small, sound_iid, tablerow, innerrow, scale) {
       else active_play_launch(node, small, sound_iid, tablerow, innerrow, scale);
       }  
   };
-    
-  timeoutvar = setTimeout(f,500);
+
+  if (coplay_iid == 0) timeoutvar = setTimeout(f,0);
+  else timeoutvar = setTimeout(f,700);
 }
+
+
 
 
 function active_play_custom(node, sound_iid, tablerow, hifunc) {
   //el = document.getElementById('tracetext');  
   //el.innerHTML = 'active play sound_iid=' + sound_iid;
 
-  //Use 500ms timed delay so does not launch immediately if client happens to 
+  mouseover_iid = sound_iid;
+
+  //Use activatePause timed delay so does not launch immediately if client happens to 
   //mouseover play button for a brief instance while moving the cursor around screen
   var f = function() {
+    if (mouseover_iid != sound_iid) return;
+
     hifunc(tablerow);
     active_play_launch(node, false, sound_iid);
   };
     
-  timeoutvar = setTimeout(f,500);
+  if (coplay_iid == 0) timeoutvar = setTimeout(f,0);
+  else timeoutvar = setTimeout(f,700);
 }
 
 
@@ -2125,20 +1999,24 @@ function active_path_play_launch(node, small, filepath, title) {
   if (PlayWindow && PlayWindow.open) PlayWindow.close();
 
   activeplay_filepath = filepath;
-  parent.playFlash('axplayer', filepath, title, fp_colorscheme, 1);
+  parent.playFlash('axplayer', filepath, title, 2, 1);
 }
 
 
 function active_path_play(node, small, filepath, title) {
   //To play track with filepath only (i.e. no sound_iid)
 
-  //Use 500ms timed delay so does not launch immediately if client happens to 
+  mouseover_filepath = filepath;
+
+  //Use activatePause timed delay so does not launch immediately if client happens to 
   //mouseover play button for a brief instance while moving the cursor around screen
   var f = function() {
+    if (mouseover_filepath != filepath) return;
     active_path_play_launch(node, small, filepath, title);
   };
-    
-  timeoutvar = setTimeout(f,500);
+
+  if (coplay_iid == 0) timeoutvar = setTimeout(f,0);
+  else timeoutvar = setTimeout(f,700);
 }
 
 
@@ -2153,13 +2031,20 @@ function active_play_campaign_launch(node, small, sound_iid, curl, tablerow, inn
 
 
 function active_play_campaign(node, small, sound_iid, curl, tablerow, innerrow) {
-  //Use 500ms timed delay so does not launch immediately if client happens to mouseover play button for a brief instance while moving the cursor around screen
+  //Use activatePause timed delay so does not launch immediately if client happens to mouseover play button for a brief instance while moving the cursor around screen
+
+  mouseover_iid = sound_iid;
+
   var f = function() {
+    if (mouseover_iid != sound_iid) return;
+
     if (tablerow == undefined) active_play_campaign_launch(node, small, sound_iid, curl);
     else active_play_campaign_launch(node, small, sound_iid, curl, tablerow, innerrow);
   };
     
-  timeoutvar = setTimeout(f,500);
+
+  if (coplay_iid == 0) timeoutvar = setTimeout(f,0);
+  else timeoutvar = setTimeout(f,activatePause);
 }
 
 
@@ -2170,7 +2055,7 @@ function active_play_url(node, small, sound_iid, url) {
 
 
 
-</script><div id="packpreview" style="position: absolute; visibility: hidden; left: 1px; top: 0px; width: 1px; height: 1px; z-index: 50;"></div><div id="mixpreview" style="position: absolute; visibility: hidden; left: 1px; top: 0px; width: 1px; height: 1px; z-index: 50;"></div>
+</script><div id="packpreview" style="position:fixed; visibility:hidden; left:1px; top:1px; width:1px; height:1px; z-index:50;"></div><div id="mixpreview" style="position:fixed; visibility:hidden; left:1px; top:1px; width:1px; height:1px; z-index:50;"></div>
 
 
 
@@ -2180,46 +2065,49 @@ function active_play_url(node, small, sound_iid, url) {
 <basefont face="arial" size="3" color="black"> 
 <font face="arial">
 
+
+  
+
+
 <table id="outertable" border="0" width="100%" height="1400" cellspacing="0" cellpadding="0" style="border-collapse: collapse">
 <tbody><tr height="1400">
-<td id="outertable_td1" valign="bottom" width="33%" height="1400" onmouseover="hide_menus();"> 
-<div id="keyid"><font size="1" color="D6D6D6" face="arial"> sound library,<br>
-    samples,<br>
-    game sound effects,<br>
-    mp3 downloads,<br>
-    kb sounds,<br>
-    find wav files,<br>
-    sound clips wav files,<br>
-    noises samples,<br>
-    with wav files,<br>
-    office wav files,<br>
-    themes wav files,<br>
-    mp3s,<br>
-    sound track wav,<br>
-    infografia multimedia 3d,<br>
-    wav soundbites,<br>
-    sonido para eventos,<br>
-    sound dogs,<br>
-    sound effect,<br>
-    wav sound files,<br>
-    sound effects download </font></div>
-</td>
-<td width="977" height="1400" align="center" valign="top">
-
-<table id="maintable" border="0" width="977" cellspacing="0" cellpadding="0" style="border-collapse: collapse">
-<tbody><tr><td valign="top" colspan="3"><img src="/sa/images/header_dropshadow.jpg"></td></tr>
-<tr>
-<td width="11" height="100%"><img src="/sa/images/left_dropshadow.jpg" height="100%" width="11"></td>
-<td align="center" valign="top">
 
 
-<div id="innerdiv">
+  <td id="outertable_td1" valign="top" width="33%" height="1400" onmouseover="hide_menus();">
+  <table border="0" height="600" width="100%" background="/sa/images/gradient_mw.jpg" style="border-collapse: collapse">
+  <tbody><tr><td valign="top">&nbsp;</td></tr>
+  </tbody></table>
+  <div valign="bottom"> 
+<div id="keyid"><font size="1" color="D6D6D6" face="arial"> sounds royalty free,<br>
+    aiff sound effects,<br>
+    best royalty free sound effects,<br>
+    chinese sounds effects,<br>
+    sound effect hospital,<br>
+    reversing beep sound effect,<br>
+    stock sfx audio,<br>
+    bungee jumping sound effects,<br>
+    shofar sound effect,<br>
+    free sound fx online,<br>
+    1 minute garage noises downloads,<br>
+    sound effects of sailors,<br>
+    pirate ship sound effects,<br>
+    killer whales free sound effects,<br>
+    flip sound effect,<br>
+    free game sounds,<br>
+    sound effect machine,<br>
+    flash sound effects,<br>
+    sounds byte,<br>
+    soundboard wav files </font></div>
+</div>
+  </td>
+  
 
+<td width="900" height="1400" align="center" valign="top">
 
 
 <style type="text/css">
 .menulink{ float:left; color:white; font-size: 8pt; font-family:arial; font-weight:bold; text-decoration: none;}
-.menulink:hover {float:left; background-color:5CB3FF; color:black; font-size: 8pt; font-family:arial; font-weight:bold; text-decoration: none;}
+.menulink:hover {float:left; background-color:CFC3F9; color:black; font-size: 8pt; font-family:arial; font-weight:bold; text-decoration: none;}
 </style>
 
 
@@ -2667,7 +2555,7 @@ function active_play_url(node, small, sound_iid, url) {
 					else document.attachEvent('onclick',XPMenu_AttachClickEvent);
 				</script>
 			
-				<div id="Testimonials" style="left:0px; top: 0px; visibility:hidden; position: absolute; width:100%;" xpmenu_textcolor="black" xpmenu_bgcolor="#EEE8CD" xpmenu_overbgcolor="white" xpmenu_overtextcolor="black" xpmenu_overbordercolor="black" xpmenu_leftbgcolor="#eeeeee" xpmenu_bordercolor="#cccccc" xpmenu="yes" xpmenu_parentmenu="" xpmenu_menuset="menu1" onselectstart="return false">				
+				<div id="News" style="left:0px; top: 0px; visibility:hidden; position: absolute; width:100%;" xpmenu_textcolor="black" xpmenu_bgcolor="#EEE8CD" xpmenu_overbgcolor="white" xpmenu_overtextcolor="black" xpmenu_overbordercolor="black" xpmenu_leftbgcolor="#eeeeee" xpmenu_bordercolor="#cccccc" xpmenu="yes" xpmenu_parentmenu="" xpmenu_menuset="menu1" onselectstart="return false">				
 					<table cellspacing="0" class="XPOuterMenu_menu1">
 						<tbody><tr>
 							<td nowrap="" class="XPOuterMenuCell_menu1">	
@@ -2743,11 +2631,11 @@ function active_play_url(node, small, sound_iid, url) {
 							<td nowrap="" class="XPOuterMenuCell_menu1">	
 								<table cellspacing="0" class="XPInnerMenu_menu1">
 									
-				<tbody><tr id="ChristmasHolidayMusic2" xpmenuel="yes" xpmenuel_submenu="" xpmenuel_href="http://www.audiosparx.com/sa/Christmas" xpmenuel_hreftarget="" onmouseover="XPMenu_Over(this)" onmouseout="XPMenu_Out(this)" onclick="XPMenu_Click(this)" xpmenu_enabled="1">
+				<tbody><tr id="AllMusicGenres" xpmenuel="yes" xpmenuel_submenu="" xpmenuel_href="http://www.audiosparx.com/sa/links/production-music.cfm" xpmenuel_hreftarget="" onmouseover="XPMenu_Over(this)" onmouseout="XPMenu_Out(this)" onclick="XPMenu_Click(this)" xpmenu_enabled="1">
 					<td nowrap="" class="XPMenuImage_menu1"><img src="/sa/images/xpmenu_blank.gif" alt="" border="0"></td>
 					
 						<td nowrap="" class="XPMenuText_menu1">
-							&nbsp;Christmas &amp; Holiday Music
+							&nbsp;All Music Genres
 						</td>
 						<td nowrap="" class="XPMenuExtra_menu1">
 							
@@ -2757,11 +2645,11 @@ function active_play_url(node, small, sound_iid, url) {
 					
 				</tr>
 			
-				<tr id="ProductionMusicGenres" xpmenuel="yes" xpmenuel_submenu="" xpmenuel_href="http://www.audiosparx.com/sa/links/production-music.cfm" xpmenuel_hreftarget="" onmouseover="XPMenu_Over(this)" onmouseout="XPMenu_Out(this)" onclick="XPMenu_Click(this)" xpmenu_enabled="1">
+				<tr id="DramaticMusicGenres" xpmenuel="yes" xpmenuel_submenu="" xpmenuel_href="http://www.audiosparx.com/sa/links/dramatic-music.cfm" xpmenuel_hreftarget="" onmouseover="XPMenu_Over(this)" onmouseout="XPMenu_Out(this)" onclick="XPMenu_Click(this)" xpmenu_enabled="1">
 					<td nowrap="" class="XPMenuImage_menu1"><img src="/sa/images/xpmenu_blank.gif" alt="" border="0"></td>
 					
 						<td nowrap="" class="XPMenuText_menu1">
-							&nbsp;Popular Music Genres
+							&nbsp;Dramatic Music Genres
 						</td>
 						<td nowrap="" class="XPMenuExtra_menu1">
 							
@@ -2877,21 +2765,7 @@ function active_play_url(node, small, sound_iid, url) {
 							<td nowrap="" class="XPOuterMenuCell_menu1">	
 								<table cellspacing="0" class="XPInnerMenu_menu1">
 									 
-				<tbody><tr id="ChristmasHolidayMusic" xpmenuel="yes" xpmenuel_submenu="" xpmenuel_href="http://www.audiosparx.com/sa/Christmas" xpmenuel_hreftarget="" onmouseover="XPMenu_Over(this)" onmouseout="XPMenu_Out(this)" onclick="XPMenu_Click(this)" xpmenu_enabled="1">
-					<td nowrap="" class="XPMenuImage_menu1"><img src="/sa/images/xpmenu_blank.gif" alt="" border="0"></td>
-					
-						<td nowrap="" class="XPMenuText_menu1">
-							&nbsp;Christmas &amp; Holiday Music
-						</td>
-						<td nowrap="" class="XPMenuExtra_menu1">
-							
-								&nbsp;
-							
-						</td>
-					
-				</tr>
-			
-				<tr id="CommercialMusic" xpmenuel="yes" xpmenuel_submenu="" xpmenuel_href="http://www.audiosparx.com/sa/links/commercial-music.cfm" xpmenuel_hreftarget="" onmouseover="XPMenu_Over(this)" onmouseout="XPMenu_Out(this)" onclick="XPMenu_Click(this)" xpmenu_enabled="1">
+				<tbody><tr id="CommercialMusic" xpmenuel="yes" xpmenuel_submenu="" xpmenuel_href="http://www.audiosparx.com/sa/links/commercial-music.cfm" xpmenuel_hreftarget="" onmouseover="XPMenu_Over(this)" onmouseout="XPMenu_Out(this)" onclick="XPMenu_Click(this)" xpmenu_enabled="1">
 					<td nowrap="" class="XPMenuImage_menu1"><img src="/sa/images/xpmenu_blank.gif" alt="" border="0"></td>
 					
 						<td nowrap="" class="XPMenuText_menu1">
@@ -2919,6 +2793,20 @@ function active_play_url(node, small, sound_iid, url) {
 					
 				</tr>
 			
+				<tr id="RadioProduction" xpmenuel="yes" xpmenuel_submenu="" xpmenuel_href="http://www.audiosparx.com/sa/radio" xpmenuel_hreftarget="" onmouseover="XPMenu_Over(this)" onmouseout="XPMenu_Out(this)" onclick="XPMenu_Click(this)" xpmenu_enabled="1">
+					<td nowrap="" class="XPMenuImage_menu1"><img src="/sa/images/xpmenu_blank.gif" alt="" border="0"></td>
+					
+						<td nowrap="" class="XPMenuText_menu1">
+							&nbsp;Radio Production Music &amp; Effects
+						</td>
+						<td nowrap="" class="XPMenuExtra_menu1">
+							
+								&nbsp;
+							
+						</td>
+					
+				</tr>
+			
 				<tr id="MusicForGamesSoftware" xpmenuel="yes" xpmenuel_submenu="" xpmenuel_href="http://www.audiosparx.com/sa/games_music/game_music.cfm" xpmenuel_hreftarget="" onmouseover="XPMenu_Over(this)" onmouseout="XPMenu_Out(this)" onclick="XPMenu_Click(this)" xpmenu_enabled="1">
 					<td nowrap="" class="XPMenuImage_menu1"><img src="/sa/images/xpmenu_blank.gif" alt="" border="0"></td>
 					
@@ -2933,11 +2821,39 @@ function active_play_url(node, small, sound_iid, url) {
 					
 				</tr>
 			
+				<tr id="RomanticLoveMusic" xpmenuel="yes" xpmenuel_submenu="" xpmenuel_href="http://www.audiosparx.com/sa/love_songs" xpmenuel_hreftarget="" onmouseover="XPMenu_Over(this)" onmouseout="XPMenu_Out(this)" onclick="XPMenu_Click(this)" xpmenu_enabled="1">
+					<td nowrap="" class="XPMenuImage_menu1"><img src="/sa/images/xpmenu_blank.gif" alt="" border="0"></td>
+					
+						<td nowrap="" class="XPMenuText_menu1">
+							&nbsp;Romantic, Love &amp; Wedding Music
+						</td>
+						<td nowrap="" class="XPMenuExtra_menu1">
+							
+								&nbsp;
+							
+						</td>
+					
+				</tr>
+			
 				<tr id="ScaryHorrorMusic" xpmenuel="yes" xpmenuel_submenu="" xpmenuel_href="http://www.audiosparx.com/sa/horror" xpmenuel_hreftarget="" onmouseover="XPMenu_Over(this)" onmouseout="XPMenu_Out(this)" onclick="XPMenu_Click(this)" xpmenu_enabled="1">
 					<td nowrap="" class="XPMenuImage_menu1"><img src="/sa/images/xpmenu_blank.gif" alt="" border="0"></td>
 					
 						<td nowrap="" class="XPMenuText_menu1">
 							&nbsp;Scary &amp; Horror Music
+						</td>
+						<td nowrap="" class="XPMenuExtra_menu1">
+							
+								&nbsp;
+							
+						</td>
+					
+				</tr>
+			
+				<tr id="ChristmasHolidayMusic" xpmenuel="yes" xpmenuel_submenu="" xpmenuel_href="http://www.audiosparx.com/sa/Christmas" xpmenuel_hreftarget="" onmouseover="XPMenu_Over(this)" onmouseout="XPMenu_Out(this)" onclick="XPMenu_Click(this)" xpmenu_enabled="1">
+					<td nowrap="" class="XPMenuImage_menu1"><img src="/sa/images/xpmenu_blank.gif" alt="" border="0"></td>
+					
+						<td nowrap="" class="XPMenuText_menu1">
+							&nbsp;Christmas &amp; Holiday Music
 						</td>
 						<td nowrap="" class="XPMenuExtra_menu1">
 							
@@ -3115,11 +3031,11 @@ function active_play_url(node, small, sound_iid, url) {
 							<td nowrap="" class="XPOuterMenuCell_menu1">	
 								<table cellspacing="0" class="XPInnerMenu_menu1">
 									
-				<tbody><tr id="byCountry" xpmenuel="yes" xpmenuel_submenu="" xpmenuel_href="http://www.audiosparx.com/sa/display/displayby.cfm/target.region" xpmenuel_hreftarget="" onmouseover="XPMenu_Over(this)" onmouseout="XPMenu_Out(this)" onclick="XPMenu_Click(this)" xpmenu_enabled="1">
+				<tbody><tr id="byProductionStyle" xpmenuel="yes" xpmenuel_submenu="" xpmenuel_href="http://www.audiosparx.com/sa/display/displayby.cfm/target.style" xpmenuel_hreftarget="" onmouseover="XPMenu_Over(this)" onmouseout="XPMenu_Out(this)" onclick="XPMenu_Click(this)" xpmenu_enabled="1">
 					<td nowrap="" class="XPMenuImage_menu1"><img src="/sa/images/xpmenu_blank.gif" alt="" border="0"></td>
 					
 						<td nowrap="" class="XPMenuText_menu1">
-							&nbsp;by Country
+							&nbsp;by Production Style
 						</td>
 						<td nowrap="" class="XPMenuExtra_menu1">
 							
@@ -3134,20 +3050,6 @@ function active_play_url(node, small, sound_iid, url) {
 					
 						<td nowrap="" class="XPMenuText_menu1">
 							&nbsp;by Mood
-						</td>
-						<td nowrap="" class="XPMenuExtra_menu1">
-							
-								&nbsp;
-							
-						</td>
-					
-				</tr>
-			
-				<tr id="byProductionStyle" xpmenuel="yes" xpmenuel_submenu="" xpmenuel_href="http://www.audiosparx.com/sa/display/displayby.cfm/target.style" xpmenuel_hreftarget="" onmouseover="XPMenu_Over(this)" onmouseout="XPMenu_Out(this)" onclick="XPMenu_Click(this)" xpmenu_enabled="1">
-					<td nowrap="" class="XPMenuImage_menu1"><img src="/sa/images/xpmenu_blank.gif" alt="" border="0"></td>
-					
-						<td nowrap="" class="XPMenuText_menu1">
-							&nbsp;by Production Style
 						</td>
 						<td nowrap="" class="XPMenuExtra_menu1">
 							
@@ -3184,6 +3086,34 @@ function active_play_url(node, small, sound_iid, url) {
 						</td>
 					
 				</tr>
+			
+				<tr id="byCountry" xpmenuel="yes" xpmenuel_submenu="" xpmenuel_href="http://www.audiosparx.com/sa/display/displayby.cfm/target.region" xpmenuel_hreftarget="" onmouseover="XPMenu_Over(this)" onmouseout="XPMenu_Out(this)" onclick="XPMenu_Click(this)" xpmenu_enabled="1">
+					<td nowrap="" class="XPMenuImage_menu1"><img src="/sa/images/xpmenu_blank.gif" alt="" border="0"></td>
+					
+						<td nowrap="" class="XPMenuText_menu1">
+							&nbsp;by Country
+						</td>
+						<td nowrap="" class="XPMenuExtra_menu1">
+							
+								&nbsp;
+							
+						</td>
+					
+				</tr>
+			
+				<tr id="byPlaylist" xpmenuel="yes" xpmenuel_submenu="" xpmenuel_href="http://www.audiosparx.com/sa/playlists/default.cfm" xpmenuel_hreftarget="" onmouseover="XPMenu_Over(this)" onmouseout="XPMenu_Out(this)" onclick="XPMenu_Click(this)" xpmenu_enabled="1">
+					<td nowrap="" class="XPMenuImage_menu1"><img src="/sa/images/xpmenu_blank.gif" alt="" border="0"></td>
+					
+						<td nowrap="" class="XPMenuText_menu1">
+							&nbsp;by Playlist
+						</td>
+						<td nowrap="" class="XPMenuExtra_menu1">
+							
+								&nbsp;
+							
+						</td>
+					
+				</tr>
 					
 								</tbody></table>
 							</td>
@@ -3199,11 +3129,11 @@ function active_play_url(node, small, sound_iid, url) {
 							<td nowrap="" class="XPOuterMenuCell_menu1">	
 								<table cellspacing="0" class="XPInnerMenu_menu1">
 									
-				<tbody><tr id="ChristmasHolidaySFX" xpmenuel="yes" xpmenuel_submenu="" xpmenuel_href="http://www.audiosparx.com/sa/Christmas" xpmenuel_hreftarget="" onmouseover="XPMenu_Over(this)" onmouseout="XPMenu_Out(this)" onclick="XPMenu_Click(this)" xpmenu_enabled="1">
+				<tbody><tr id="SoundEffectGenres" xpmenuel="yes" xpmenuel_submenu="" xpmenuel_href="http://www.audiosparx.com/sa/links/sound-effects.cfm" xpmenuel_hreftarget="" onmouseover="XPMenu_Over(this)" onmouseout="XPMenu_Out(this)" onclick="XPMenu_Click(this)" xpmenu_enabled="1">
 					<td nowrap="" class="XPMenuImage_menu1"><img src="/sa/images/xpmenu_blank.gif" alt="" border="0"></td>
 					
 						<td nowrap="" class="XPMenuText_menu1">
-							&nbsp;Christmas &amp; Holiday SFX
+							&nbsp;Sound Effect Genres
 						</td>
 						<td nowrap="" class="XPMenuExtra_menu1">
 							
@@ -3227,11 +3157,11 @@ function active_play_url(node, small, sound_iid, url) {
 					
 				</tr>
 			
-				<tr id="SoundEffectGenres" xpmenuel="yes" xpmenuel_submenu="" xpmenuel_href="http://www.audiosparx.com/sa/links/sound-effects.cfm" xpmenuel_hreftarget="" onmouseover="XPMenu_Over(this)" onmouseout="XPMenu_Out(this)" onclick="XPMenu_Click(this)" xpmenu_enabled="1">
+				<tr id="SoundPackCollections" xpmenuel="yes" xpmenuel_submenu="" xpmenuel_href="http://www.audiosparx.com/sa/packs/list.cfm/project_iid.1" xpmenuel_hreftarget="" onmouseover="XPMenu_Over(this)" onmouseout="XPMenu_Out(this)" onclick="XPMenu_Click(this)" xpmenu_enabled="1">
 					<td nowrap="" class="XPMenuImage_menu1"><img src="/sa/images/xpmenu_blank.gif" alt="" border="0"></td>
 					
 						<td nowrap="" class="XPMenuText_menu1">
-							&nbsp;Sound Effect Genres
+							&nbsp;SoundPack Collections
 						</td>
 						<td nowrap="" class="XPMenuExtra_menu1">
 							
@@ -3241,11 +3171,11 @@ function active_play_url(node, small, sound_iid, url) {
 					
 				</tr>
 			
-				<tr id="SoundPackCollections" xpmenuel="yes" xpmenuel_submenu="" xpmenuel_href="http://www.audiosparx.com/sa/packs/list.cfm/project_iid.1" xpmenuel_hreftarget="" onmouseover="XPMenu_Over(this)" onmouseout="XPMenu_Out(this)" onclick="XPMenu_Click(this)" xpmenu_enabled="1">
+				<tr id="ChristmasHolidaySFX" xpmenuel="yes" xpmenuel_submenu="" xpmenuel_href="http://www.audiosparx.com/sa/Christmas" xpmenuel_hreftarget="" onmouseover="XPMenu_Over(this)" onmouseout="XPMenu_Out(this)" onclick="XPMenu_Click(this)" xpmenu_enabled="1">
 					<td nowrap="" class="XPMenuImage_menu1"><img src="/sa/images/xpmenu_blank.gif" alt="" border="0"></td>
 					
 						<td nowrap="" class="XPMenuText_menu1">
-							&nbsp;SoundPack Collections
+							&nbsp;Christmas &amp; Holiday SFX
 						</td>
 						<td nowrap="" class="XPMenuExtra_menu1">
 							
@@ -3465,7 +3395,7 @@ function active_play_url(node, small, sound_iid, url) {
 							<td nowrap="" class="XPOuterMenuCell_menu1">	
 								<table cellspacing="0" class="XPInnerMenu_menu1">
 									
-				<tbody><tr id="ParticipationOptions" xpmenuel="yes" xpmenuel_submenu="" xpmenuel_href="http://www.audiosparx.com/sa/pricing.cfm" xpmenuel_hreftarget="" onmouseover="XPMenu_Over(this)" onmouseout="XPMenu_Out(this)" onclick="XPMenu_Click(this)" xpmenu_enabled="1">
+				<tbody><tr id="ParticipationOptions" xpmenuel="yes" xpmenuel_submenu="" xpmenuel_href="http://www.audiosparx.com/sa//client/options" xpmenuel_hreftarget="" onmouseover="XPMenu_Over(this)" onmouseout="XPMenu_Out(this)" onclick="XPMenu_Click(this)" xpmenu_enabled="1">
 					<td nowrap="" class="XPMenuImage_menu1"><img src="/sa/images/xpmenu_blank.gif" alt="" border="0"></td>
 					
 						<td nowrap="" class="XPMenuText_menu1">
@@ -3730,7 +3660,7 @@ function active_play_url(node, small, sound_iid, url) {
 
 <script language="JavaScript" type="text/javascript">
 function hide_menus() {
-  XPMenu_HideMenu("Testimonials");
+  XPMenu_HideMenu("News");
   XPMenu_HideMenu("SFX");
   XPMenu_HideMenu("Music");
   XPMenu_HideMenu("Loops");
@@ -3762,8 +3692,6 @@ function menu_changeover(menu,that,xoffset) {
   if (xoffset == undefined ) posx = findPosX(that);
   else posx = findPosX(that) + xoffset;
   
-  
-
   if (BrowserDetect.browser == 'Explorer') posy = findPageY(that) + 18;
   else posy = findPageY(that) + 20;
   
@@ -3792,6 +3720,9 @@ function goto(url) {
 
 
 
+
+<script src="/sa/module/system/getElementsByClassName.js"></script>
+
 <script type="text/javascript">
 
 
@@ -3799,12 +3730,9 @@ var googletranslate_displayed = false;
 var adjusted_header = false;
 var adjusted_headery = false;
 var adjusted_headerx = false;
-var thistable = returnObjById('maintable');
-var thistablex = findPosX(thistable);
-var thistabley = findPosY(thistable);
 var BeatCalcWindow = null;
-var oTemp = null;
-
+var translateObj = null;
+var translateObjArray = null;
 
 
 function beat_calculator() {
@@ -3823,8 +3751,8 @@ function beat_calculator() {
 
 
 function adjust_sharethis_pos() {
-  posx = findPosX(thistable) + 880;
-  posy = findPosY(thistable) + 28;
+  posx = findPosX(myfixed) + 880;
+  posy = findPosY(myfixed) + 28;
   
   if (adjusted_headerx) posxp = posx + 8;
   else posxp = posx;
@@ -3832,13 +3760,10 @@ function adjust_sharethis_pos() {
   if (adjusted_headery) posyp = posy + 8;
   else posyp = posy;
 
-  //el = returnObjById('tracetext');  
-  //el.innerHTML = 'ah=' + adjusted_header + ' ahy=' + adjusted_headery + '<br>posyp=' + posyp;
-
-  var root = (document.compatMode == "CSS1Compat"?document.documentElement: document.body);
-  var elem = document.all["sharethis"];
+  var elem = returnObjById('sharethis');
 
   if (BrowserDetect.browser == 'Explorer') {
+    var root = (document.compatMode == "CSS1Compat"?document.documentElement: document.body);
     elem.style.left = posx + "px";  
     y = root.scrollTop + 29;
     elem.style.top = y + "px";
@@ -3861,69 +3786,67 @@ function adjust_sharethis_pos() {
 
 
 function adjust_header_pos() {
-  posx = findPosX(thistable);
-  posy = findPosY(thistable);
-
-  var root = (document.compatMode == "CSS1Compat"?document.documentElement: document.body);
-  var elem = document.all["myfixed"];
-
-  elem.style.left = posx + "px";  
+  elem = returnObjById('myfixed');
+  elem.style.left = "0px";  
 
   if (BrowserDetect.browser == 'Explorer') {
+    var root = (document.compatMode == "CSS1Compat"?document.documentElement: document.body);
+    elem.style.width = documentWidth() + "px";
     elem.style.top = root.scrollTop + "px";
+
+    //Adjust header's outertable width
+    elem = returnObjById('header_outertable');
+    elem.width = documentWidth();
     }
   else {  
     if (adjusted_header) elem.style.top = "40px";
     else elem.style.top = "0px";
     }
 
+
+  //Adjust player position
+  innerdivX = (documentWidth()/2) - 464;
+  var elem = returnObjById('axplaydiv');
+  elem.style.left = innerdivX + "px";  
+
+  //Adjust translator logo cover position
+  transdivX = (documentWidth()/2) - 182;
+  var elem = returnObjById('logocover');
+  elem.style.left = transdivX + "px";  
+
   adjust_sharethis_pos();
 }
 
 
 function adjust_header_pos_smart() {
-  posx = findPosX(thistable);
-  posy = findPosY(thistable);
-
-  if (posx != thistablex) adjusted_headerx = true;
-  else adjusted_headerx = false;
-
-  if (posy != thistabley) adjusted_headery = true;
-  else adjusted_headery = false;
-
   adjust_header_pos();
   adjust_sharethis_pos();
 
   //adjust header again after slight delay to allow page to fully load
   var f = function() {
-    posx = findPosX(thistable);
-    if (posx != thistablex) adjusted_headerx = true;
-    else adjusted_headerx = false;
-
-    posy = findPosY(thistable);
-    if (posy != thistabley) adjusted_headery = true;
-    else adjusted_headery = false;
-
     adjust_header_pos();
     adjust_sharethis_pos();
     }
     
   timeoutvar = setTimeout(f,500);
 
-  
-  if (returnObjById('packpreview') != null) {
-    pposx = truebody().scrollTop;
-    var elem = returnObjById('packpreview');
-    elem.style.top = pposx + "px";
-    //el.innerHTML = ' pposx=' + pposx + '  scrolltop=' + truebody().scrollTop + '  availHeight=' + screen.availHeight;
-    }  
+  if (BrowserDetect.browser == 'Explorer') {
+    
+    if (returnObjById('packpreview') != null) returnObjById('packpreview').style.top = truebody().scrollTop + "px";
 
-  
-  if (returnObjById('mixpreview') != null) {
-    mposx = truebody().scrollTop;
-    var elem = returnObjById('mixpreview');
-    elem.style.top = mposx + "px";
-    //el.innerHTML = ' mposx=' + mposx + '  scrolltop=' + truebody().scrollTop + '  availHeight=' + screen.availHeight;
+    
+    if (returnObjById('mixpreview') != null) returnObjById('mixpreview').style.top = truebody().scrollTop + "px";
+
+    
+    if (returnObjById('kbarticlediv') != null) returnObjById('kbarticlediv').style.top = truebody().scrollTop + "px";
+
+    
+    if (returnObjById('stwrapper') != null) returnObjById('stwrapper').style.top = truebody().scrollTop + "px";
+
+    
+    if (returnObjById('dzonediv') != null) returnObjById('dzonediv').style.top = truebody().scrollTop + "px";
+    if (returnObjById('pzonediv') != null) returnObjById('pzonediv').style.top = truebody().scrollTop + "px";
+    if (returnObjById('szonediv') != null) returnObjById('szonediv').style.top = truebody().scrollTop + "px";
     }  
 }
 
@@ -3946,74 +3869,81 @@ window.onscroll = function() {
 
 
 function init_header() {
-  thistable = returnObjById('maintable');
+  innerdivX = (documentWidth()/2) - 464;
+  transdivX = (documentWidth()/2) - 182;
 
-  posx = Math.floor((documentWidth() - 977) / 2);
-  posy = findPosY(thistable);
-
-  if (BrowserDetect.browser == 'Explorer') tposition = "absolute";
-  else tposition = "fixed";
-
+  if (BrowserDetect.browser == 'Explorer') {
+    tposition = "absolute";
+    mtwidth = documentWidth();
+    mtwidthpx = documentWidth() + "px";
+    }
+  else {
+    tposition = "fixed";
+    mtwidth = '100%';
+    mtwidthpx = mtwidth;
+    }
+  
   if (document.getElementById || document.all) {
-    NewHTML = '<div id="myfixed" style="position:' + tposition + '; visibility:visible; top:0px;left:' + posx + 'px;width:977px;height:130px;border:0px solid black; z-index:10;">';
+    NewHTML = '<div id="myfixed" style="position: ' + tposition + ' !important; visibility:visible; top:0px;left:0px;width:100%;height:139px;border:0px solid black; z-index:10;">';
 
     
-    NewHTML = NewHTML + '<table border=0 width="977" cellspacing="0" cellpadding="0" style="border-collapse: collapse">';
-    NewHTML = NewHTML + '<tr><td valign="top" colspan="3"><img src="/sa/images/header_dropshadow.jpg"></td></tr>';
+    NewHTML = NewHTML + '<table id="header_outertable" border="1" bordercolor="black" width="' + mtwidth + '" height="139" cellspacing="0" cellpadding="0" style="border-collapse: collapse">';
     NewHTML = NewHTML + '<tr>';
-    NewHTML = NewHTML + '  <td width="11" height="100%"><img src="/sa/images/left_dropshadow.jpg" height="100%" width="11"></td>';
-    NewHTML = NewHTML + '  <td bgcolor="white" align="center">';
+    NewHTML = NewHTML + '<td width="33%" valign="top" bgcolor="8B00FF"></td>'
+    NewHTML = NewHTML + '<td width="955" align="center" valign="top">';
+
+    NewHTML = NewHTML + '<table id="shadowtable" border=0 width="955" cellspacing="0" cellpadding="0" style="border-collapse: collapse">';
+    NewHTML = NewHTML + '<tr>';
+    NewHTML = NewHTML + '  <td bgcolor="black" align="center">';
 
     
-    NewHTML = NewHTML + '  <table border="0" width="900" cellspacing="0" cellpadding="0" style="border-collapse: collapse" onmouseover="hide_menus();">';
+    NewHTML = NewHTML + '  <table border="0" width="955" cellspacing="0" cellpadding="0" style="border-collapse: collapse" onmouseover="hide_menus();">';
     NewHTML = NewHTML + '  <tr>';
-    NewHTML = NewHTML + '    <td width="900" height="71" valign="top" align="center">';
+    NewHTML = NewHTML + '    <td width="955" height="65" valign="top" align="center">';
 
     
-    NewHTML = NewHTML + '      <table border=0 width="900" cellspacing=0 cellpadding=0 style="border-collapse: collapse">';
+    NewHTML = NewHTML + '      <table border=0 bordercolor="white" width="955" cellspacing=0 cellpadding=0 style="border-collapse: collapse" background="/sa/images/audiosparx_header_bg.jpg">';
     NewHTML = NewHTML + '      <tr>';
-    NewHTML = NewHTML + '        <td valign="top" width="240">';
-    NewHTML = NewHTML + '          <a href="http://www.audiosparx.com/"><img src="/sa/images/audiosparx_header_logo.jpg" alt="Go To The AudioSparx Home Page" border=0></a>';
-    NewHTML = NewHTML + '          <div id="axplaydiv" style="position:absolute; visibility:visible; left:34px; top:78px; width:536px; height:38px; border:0px solid black; z-index:5;"></div>';
+    NewHTML = NewHTML + '        <td valign="top" width="287">';
+    NewHTML = NewHTML + '          <a href="http://www.audiosparx.com/"><img src="/sa/images/audiosparx_header_logo_mb.jpg" alt="Go To The AudioSparx Home Page" border=0></a>';
+    NewHTML = NewHTML + '          <div id="axplaydiv" style="position:absolute; visibility:visible; left:' + innerdivX + 'px; top:65px; width:536px; height:40px; border:0px solid black; z-index:5;"></div>';
     NewHTML = NewHTML + '        </td>';
-    NewHTML = NewHTML + '        <td width="650" height="92" valign="top" align="right">';
-    NewHTML = NewHTML + '          <table border=0 width="100%" height="100%" cellspacing=0 cellpadding=0 style="border-collapse: collapse">';
+    NewHTML = NewHTML + '        <td width="646" height="103" valign="top">';
+    NewHTML = NewHTML + '          <table border=0 bordercolor="white" width="100%" height="103" cellspacing=0 cellpadding=0 style="border-collapse: collapse">';
     NewHTML = NewHTML + '          <tr>';
-    NewHTML = NewHTML + '            <td valign="top" align="right">';
-    NewHTML = NewHTML + '              <table border=0 cellspacing=0 cellpadding=0 style="border-collapse: collapse">';
+    NewHTML = NewHTML + '            <td valign="top">';
+    NewHTML = NewHTML + '              <table border=0 bordercolor="white" cellspacing=0 cellpadding=0 style="border-collapse: collapse">';
     NewHTML = NewHTML + '              <tr>';
-    NewHTML = NewHTML + '                <td width="10"></td>';
-    NewHTML = NewHTML + '                <td width="170" valign="top" align="center">';
-    NewHTML = NewHTML + '                  <img src="/sa/images/flags8.jpg"><br>';
+    NewHTML = NewHTML + '                <td width="172" valign="top" align="center">';
+    NewHTML = NewHTML + '                  <font face=arial style="font-size: 7pt" color="white">LANGUAGE</font><br>';
     NewHTML = NewHTML + '                  <div id="google_translate_element"></div>';
-    NewHTML = NewHTML + '                  <div id="logocover" style="position:absolute; visibility:visible; background-color:white; left:290px; top:61px; width:175px; height:22px; border:0px solid black; z-index:10;"></div>';
+    NewHTML = NewHTML + '                  <div id="logocover" style="position:absolute; visibility:visible; background-color:black; left:' + transdivX + 'px; top:39px; width:172px; height:22px; border:0px solid white; z-index:10;"></div>';
     NewHTML = NewHTML + '                </td>';
 
-    NewHTML = NewHTML + '                <form method="post" action="http://www.audiosparx.com/sa/search/home_srchpost.cfm">';
-    NewHTML = NewHTML + '                <td width="150" valign="top" align="center">';
-    NewHTML = NewHTML + '                  <font face=verdana style="font-size: 6pt">INSTANT SEARCH</font><br>';
-    NewHTML = NewHTML + '                  <input type="hidden" name="topsearch" value=1>';    
-    NewHTML = NewHTML + '                  <input type="text" name="target" height="15" size="18">';
-    NewHTML = NewHTML + '                </td>';
+    NewHTML = NewHTML + '                <td width="170" valign="top" align="center">';
+    NewHTML = NewHTML + '                  <form method="post" action="http://www.audiosparx.com/sa/search/home_srchpost.cfm">';
+    NewHTML = NewHTML + '                  <table border=0 bordercolor="white" width="100%" cellspacing=0 cellpadding=0 style="border-collapse: collapse">';
+    NewHTML = NewHTML + '                  <tr>';
+    NewHTML = NewHTML + '                    <td align="center">';
+    NewHTML = NewHTML + '                      <font face=arial style="font-size: 7pt" color="white">INSTANT SEARCH</font><br>';
+    NewHTML = NewHTML + '                      <input type="hidden" name="topsearch" value=1>';    
+    NewHTML = NewHTML + '                      <input type="text" name="target" height="15" size="18">';
+    NewHTML = NewHTML + '                    </td>';
 
-    NewHTML = NewHTML + '                <td width="20" align="right" valign="top">';
-    NewHTML = NewHTML + '                  <font face=verdana style="font-size: 6pt">&nbsp;</font><br>';
-    NewHTML = NewHTML + '                  <input type=image border=0 src="/sa/images/btnGoWhite.jpg" name="keyword" alt="Search Now">';
+    NewHTML = NewHTML + '                    <td width="20" valign="middle">';
+    NewHTML = NewHTML + '                      <input type=image border=0 src="/sa/images/btnGoBlack.jpg" name="keyword" alt="Search Now">';
+    NewHTML = NewHTML + '                    </td>';
+    NewHTML = NewHTML + '                  </tr>';
+    NewHTML = NewHTML + '                  </table>';
+    NewHTML = NewHTML + '                  </form>';
     NewHTML = NewHTML + '                </td>';
-    NewHTML = NewHTML + '                </form>';
 
     NewHTML = NewHTML + '                <td width="320" valign="top" align="right">';
-    NewHTML = NewHTML + '                  <a href="http://www.audiosparx.com/sa/company.cfm"><font size=1 face="arial">About</font></a>';
-    NewHTML = NewHTML + '                  <font size=2 face="arial">|</font>';
-    NewHTML = NewHTML + '                  <a href="http://www.audiosparx.com/sa/license.cfm"><font size=1 face="arial">License</font></a>';
-    NewHTML = NewHTML + '                  <font size=2 face="arial">|</font>';
-    NewHTML = NewHTML + '                  <a href="http://www.audiosparx.com/sa/support/request.cfm"><font size=1 face="arial">Contact</font></a>';
-    NewHTML = NewHTML + '                  <font size=2 face="arial">|</font>';    
-    NewHTML = NewHTML + '                  <a href="http://www.audiosparx.com/sa/faq.cfm"><font size=1 face="arial">Help</font></a>';
-    NewHTML = NewHTML + '                  <font size=2 face="arial">|</font>';
-    NewHTML = NewHTML + '                  <a href="http://www.audiosparx.com/sa/links.cfm"><font size=1 face="arial">Links</font></a>';
-    NewHTML = NewHTML + '                  <font size=2 face="arial">|</font>';
-    NewHTML = NewHTML + '                  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>';
+    NewHTML = NewHTML + '                  <a href="http://www.audiosparx.com/sa/company.cfm"><font face=arial style="font-size: 7pt" color="white">ABOUT</font></a> &nbsp;';
+    NewHTML = NewHTML + '                  <a href="http://www.audiosparx.com/sa/license.cfm"><font face=arial style="font-size: 7pt" color="white">LICENSE</font></a> &nbsp;';
+    NewHTML = NewHTML + '                  <a href="http://www.audiosparx.com/sa/support/request.cfm"><font face=arial style="font-size: 7pt" color="white">CONTACT</font></a> &nbsp;';
+    NewHTML = NewHTML + '                  <a href="http://www.audiosparx.com/sa/links.cfm"><font face=arial style="font-size: 7pt" color="white">LINKS</font></a> &nbsp;';
+    NewHTML = NewHTML + '                  <a href="javascript:void()" class="st_sharethis"><font face=arial style="font-size: 7pt" color="white">SHARETHIS</font></a><br>';
     NewHTML = NewHTML + '                  <div id="tracetext"></div>';
     NewHTML = NewHTML + '                </td>';
     NewHTML = NewHTML + '              </tr>';
@@ -4029,14 +3959,14 @@ function init_header() {
 
     
       
-      NewHTML = NewHTML + '              <a href="http://www.audiosparx.com/sa/login.cfm"><img src="/sa/images/aerogel_login.jpg" alt="Login Now" border=0></a>';
+      NewHTML = NewHTML + '              <a href="http://www.audiosparx.com/sa/client/authenticate/login.cfm"><img src="/sa/images/aerogel_login.jpg" alt="Login Now" border=0></a>';
               
-      NewHTML = NewHTML + '              <a href="http://www.audiosparx.com/sa/pricing.cfm"><img src="/sa/images/aerogel_register.jpg" alt="Register Now" border=0></a>';
+      NewHTML = NewHTML + '              <a href="http://www.audiosparx.com/sa/client/options"><img src="/sa/images/aerogel_register.jpg" alt="Register Now" border=0></a>';
     
       NewHTML = NewHTML + '              <a href="http://www.audiosparx.com/sa/client/default.cfm"><img src="/sa/images/aerogel_myaccount.jpg" alt="My AudioSparx" border=0></a>';      
               
 
-    NewHTML = NewHTML + '            </td>';
+    NewHTML = NewHTML + '            &nbsp;&nbsp;</td>';
     NewHTML = NewHTML + '          </tr>';
     NewHTML = NewHTML + '          </table>';
     NewHTML = NewHTML + '        </td>';
@@ -4050,9 +3980,9 @@ function init_header() {
     
 
     
-    NewHTML = NewHTML + '<table border="0" width="955" cellspacing="0" cellpadding="0" id="table1" style="border-collapse: collapse">';          
-    NewHTML = NewHTML + '<tr><td height="20" width="955" align="center">';
-    NewHTML = NewHTML + '<table id="menutable" border=0 height="20" width="955" cellspacing=0 cellpadding=0 style="border-collapse: collapse">';            
+    NewHTML = NewHTML + '<table id="table1" border="0" width="955" cellspacing="0" cellpadding="0" style="border-collapse: collapse">';          
+    NewHTML = NewHTML + '<tr><td height="22" width="955" align="center">';
+    NewHTML = NewHTML + '<table id="menutable" border=0 height="22" width="955" cellspacing=0 cellpadding=0 style="border-collapse: collapse">';            
     NewHTML = NewHTML + '<tr>';
 
     
@@ -4064,9 +3994,9 @@ function init_header() {
     
     
     NewHTML = NewHTML + '<td valign="middle" align="center" background="/sa/images/button_menu.jpg" ';
-    NewHTML = NewHTML + '  onmouseover="menu_changeover(' + "'Testimonials'" + ',this);" ';
+    NewHTML = NewHTML + '  onmouseover="menu_changeover(' + "'News'" + ',this);" ';
     NewHTML = NewHTML + '  onmouseout="changeout(this);">';
-    NewHTML = NewHTML + '  <a href="http://www.audiosparx.com/sa/testimony/default.cfm" class="menulink">&nbsp;&nbsp; TESTIMONIALS &nbsp;&nbsp;</a>';
+    NewHTML = NewHTML + '  <a href="/sa/news/default.cfm" class="menulink">&nbsp;&nbsp; NEWS &nbsp;&nbsp;</a>';
     NewHTML = NewHTML + '</td>';
             
     
@@ -4112,10 +4042,17 @@ function init_header() {
     NewHTML = NewHTML + '</td>';
 
     
+    NewHTML = NewHTML + '<td valign="middle" align="center" background="/sa/images/button_menu.jpg"';
+    NewHTML = NewHTML + '  onmouseover="changeover(this);" ';
+    NewHTML = NewHTML + '  onmouseout="changeout(this);">';
+    NewHTML = NewHTML + '  <a href="http://www.audiosparx.com/sa/client/options/pricing.cfm" class="menulink">&nbsp;&nbsp; PRICING &nbsp;&nbsp;</a>';
+    NewHTML = NewHTML + '</td>';
+
+    
     NewHTML = NewHTML + '<td valign="middle" align="center" background="/sa/images/button_menu.jpg" ';
     NewHTML = NewHTML + '  onmouseover="menu_changeover(' + "'Register'" + ',this, -90);" ';
     NewHTML = NewHTML + '  onmouseout="changeout(this);">';
-    NewHTML = NewHTML + '  <a href="http://www.audiosparx.com/sa/pricing.cfm" class="menulink">&nbsp;&nbsp; JOIN NOW &nbsp;&nbsp;</a>';
+    NewHTML = NewHTML + '  <a href="http://www.audiosparx.com/sa/client/options" class="menulink">&nbsp;&nbsp; JOIN NOW &nbsp;&nbsp;</a>';
     NewHTML = NewHTML + '</td>';
 
     
@@ -4135,11 +4072,14 @@ function init_header() {
 
     NewHTML = NewHTML + '</td>';          
     NewHTML = NewHTML + '</td>';          
-    NewHTML = NewHTML + '<td width="11" height="100%"><img src="/sa/images/right_dropshadow.jpg" height="100%" width="11"></td>';            
     NewHTML = NewHTML + '</tr>';            
     NewHTML = NewHTML + '</table>';            
     
 
+    NewHTML = NewHTML + '</td>';
+    NewHTML = NewHTML + '<td width="33%" valign="top" bgcolor="8B00FF"></td>';
+    NewHTML = NewHTML + '</tr>';
+    NewHTML = NewHTML + '</table>';
 
     NewHTML = NewHTML + '</div>';
     document.write(NewHTML);
@@ -4160,14 +4100,60 @@ if (searchpos >= 0) {
   adjust_header_pos();
 }
 
-loadURLToElement('/sa/play/active_port_get.cfm/sound_iid.0/loadflash.true', 'axplaydiv');
+
+
+loadURLToElement('/sa/play/active_port_get.cfm/sound_iid.0/loadflash.true','axplaydiv');
+
+
+
+function translateOnChange(e) {
+  tarr = translateObjArray;
+
+  for(var i = 0; i < tarr.length; i++) {
+    var tindex = tarr[i].selectedIndex;
+    var tlanguage = tarr[i].options[tindex].text
+    var tlangid = tarr[i].value;
+
+    //store in javascript library object
+    googlangid_set(tlangid);
+    
+    //set coldfusion client variable
+    var turl = '/sa/client/language/set.cfm/googlangid.' + tlangid + '/googlanguage.' + tlanguage;
+    loadURLToElement(turl, 'footerframe');
+      
+    //display in footer tagline
+    el = returnObjById('mylanguage');  
+    el.innerHTML = '<font size=1 face=verdana>Language: ' + tlanguage + '</font>';
+  }  
+}
+
+
+function fireEvent(element,event) {
+  if (document.createEventObject){
+    element.fireEvent("on" + event);
+    }
+  else {
+    // dispatch for firefox + others
+    var evt = document.createEvent("HTMLEvents");
+    evt.initEvent(event, true, true ); // event type,bubbling,cancelable
+    result = element.dispatchEvent(evt);
+    }
+}  
+
 
 function googleTranslateElementInit() {
   new google.translate.TranslateElement({pageLanguage: ''}, 'google_translate_element');  
   googletranslate_displayed = true;  
+
+  translateObjArray = getElementsByClassName('goog-te-combo');
+  translateObj = translateObjArray[0];
+  translateObj.onchange = translateOnChange;
+
+  
+  
 }
 
-</script><div id="myfixed" style="position: fixed; visibility: visible; top: 0px; width: 977px; height: 130px; border: 0px solid black; z-index: 10; left: 194px;"><table border="0" width="977" cellspacing="0" cellpadding="0" style="border-collapse: collapse"><tbody><tr><td valign="top" colspan="3"><img src="/sa/images/header_dropshadow.jpg"></td></tr><tr>  <td width="11" height="100%"><img src="/sa/images/left_dropshadow.jpg" height="100%" width="11"></td>  <td bgcolor="white" align="center">  <table border="0" width="900" cellspacing="0" cellpadding="0" style="border-collapse: collapse" onmouseover="hide_menus();">  <tbody><tr>    <td width="900" height="71" valign="top" align="center">      <table border="0" width="900" cellspacing="0" cellpadding="0" style="border-collapse: collapse">      <tbody><tr>        <td valign="top" width="240">          <a href="http://www.audiosparx.com/"><img src="/sa/images/audiosparx_header_logo.jpg" alt="Go To The AudioSparx Home Page" border="0"></a>          <div id="axplaydiv" style="position:absolute; visibility:visible; left:34px; top:78px; width:536px; height:38px; border:0px solid black; z-index:5;">
+</script><div id="myfixed" style="position: fixed !important; visibility:visible; top:0px;left:0px;width:100%;height:139px;border:0px solid black; z-index:10;"><table id="header_outertable" border="1" bordercolor="black" width="100%" height="139" cellspacing="0" cellpadding="0" style="border-collapse: collapse"><tbody><tr><td width="33%" valign="top" bgcolor="8B00FF"></td><td width="955" align="center" valign="top"><table id="shadowtable" border="0" width="955" cellspacing="0" cellpadding="0" style="border-collapse: collapse"><tbody><tr>  <td bgcolor="black" align="center">  <table border="0" width="955" cellspacing="0" cellpadding="0" style="border-collapse: collapse" onmouseover="hide_menus();">  <tbody><tr>    <td width="955" height="65" valign="top" align="center">      <table border="0" bordercolor="white" width="955" cellspacing="0" cellpadding="0" style="border-collapse: collapse" background="/sa/images/audiosparx_header_bg.jpg">      <tbody><tr>        <td valign="top" width="287">          <a href="http://www.audiosparx.com/"><img src="/sa/images/audiosparx_header_logo_mb.jpg" alt="Go To The AudioSparx Home Page" border="0"></a>          <div id="axplaydiv" style="position:absolute; visibility:visible; left:NaNpx; top:65px; width:536px; height:40px; border:0px solid black; z-index:5;">
 
 
 
@@ -4885,15 +4871,15 @@ playback timings (ms):
   CDXLines.iter: 13.818 (3)
   captures_list: 111.537
   LoadShardBlock: 85.192 (3)
---></div>        </td>        <td width="650" height="92" valign="top" align="right">          <table border="0" width="100%" height="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse">          <tbody><tr>            <td valign="top" align="right">              <table border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse">              <tbody><tr>                <td width="10"></td>                <td width="170" valign="top" align="center">                  <img src="/sa/images/flags8.jpg"><br>                  <div id="google_translate_element"></div>                  <div id="logocover" style="position:absolute; visibility:visible; background-color:white; left:290px; top:61px; width:175px; height:22px; border:0px solid black; z-index:10;"></div>                </td>                <form method="post" action="http://www.audiosparx.com/sa/search/home_srchpost.cfm"></form>                <td width="150" valign="top" align="center">                  <font face="verdana" style="font-size: 6pt">INSTANT SEARCH</font><br>                  <input type="hidden" name="topsearch" value="1">                  <input type="text" name="target" height="15" size="18">                </td>                <td width="20" align="right" valign="top">                  <font face="verdana" style="font-size: 6pt">&nbsp;</font><br>                  <input type="image" border="0" src="/sa/images/btnGoWhite.jpg" name="keyword" alt="Search Now">                </td>                                <td width="320" valign="top" align="right">                  <a href="http://www.audiosparx.com/sa/company.cfm"><font size="1" face="arial">About</font></a>                  <font size="2" face="arial">|</font>                  <a href="http://www.audiosparx.com/sa/license.cfm"><font size="1" face="arial">License</font></a>                  <font size="2" face="arial">|</font>                  <a href="http://www.audiosparx.com/sa/support/request.cfm"><font size="1" face="arial">Contact</font></a>                  <font size="2" face="arial">|</font>                  <a href="http://www.audiosparx.com/sa/faq.cfm"><font size="1" face="arial">Help</font></a>                  <font size="2" face="arial">|</font>                  <a href="http://www.audiosparx.com/sa/links.cfm"><font size="1" face="arial">Links</font></a>                  <font size="2" face="arial">|</font>                  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>                  <div id="tracetext"></div>                </td>              </tr>              </tbody></table>            </td>          </tr>          <tr>            <td valign="bottom" align="right" colspan="4">              <a href="javascript:beat_calculator();"><img src="/sa/images/aerogel_bpmcalc.jpg" alt="Beat Calculator" border="0"></a>              <a href="http://www.audiosparx.com/sa/login.cfm"><img src="/sa/images/aerogel_login.jpg" alt="Login Now" border="0"></a>              <a href="http://www.audiosparx.com/sa/pricing.cfm"><img src="/sa/images/aerogel_register.jpg" alt="Register Now" border="0"></a>              <a href="http://www.audiosparx.com/sa/client/default.cfm"><img src="/sa/images/aerogel_myaccount.jpg" alt="My AudioSparx" border="0"></a>            </td>          </tr>          </tbody></table>        </td>      </tr>      </tbody></table>    </td>  </tr>  </tbody></table><table border="0" width="955" cellspacing="0" cellpadding="0" id="table1" style="border-collapse: collapse"><tbody><tr><td height="20" width="955" align="center"><table id="menutable" border="0" height="20" width="955" cellspacing="0" cellpadding="0" style="border-collapse: collapse"><tbody><tr><td valign="middle" align="center" background="/sa/images/button_menu.jpg" onmouseover="changeover(this);" onmouseout="changeout(this);">  <a href="http://www.audiosparx.com/" class="menulink">&nbsp; HOME &nbsp;&nbsp;</a></td><td valign="middle" align="center" background="/sa/images/button_menu.jpg" onmouseover="menu_changeover('Testimonials',this);" onmouseout="changeout(this);">  <a href="http://www.audiosparx.com/sa/testimony/default.cfm" class="menulink">&nbsp;&nbsp; TESTIMONIALS &nbsp;&nbsp;</a></td><td valign="middle" align="center" background="/sa/images/button_menu.jpg" onmouseover="changeover(this);" onmouseout="changeout(this);">  <a href="http://www.audiosparx.com/sa/search/sound2.cfm" class="menulink">&nbsp;&nbsp; HYPERSEARCH &nbsp;&nbsp;</a></td><td valign="middle" align="center" background="/sa/images/button_menu.jpg" onmouseover="menu_changeover('Music',this);" onmouseout="changeout(this);">  <a href="http://www.audiosparx.com/sa/links/production-music.cfm" class="menulink">&nbsp;&nbsp; MUSIC &nbsp;&nbsp;</a></td><td valign="middle" align="center" background="/sa/images/button_menu.jpg" onmouseover="menu_changeover('SFX',this);" onmouseout="changeout(this);">  <a href="http://www.audiosparx.com/sa/links/sound-effects.cfm" class="menulink">&nbsp;&nbsp; SOUND EFFECTS &nbsp;&nbsp;</a></td><td valign="middle" align="center" background="/sa/images/button_menu.jpg" onmouseover="menu_changeover('Loops',this);" onmouseout="changeout(this);">  <a href="http://www.audiosparx.com/sa/links/beats.cfm" class="menulink">&nbsp;&nbsp; BEATS &amp; LOOPS &nbsp;&nbsp;</a></td><td valign="middle" align="center" background="/sa/images/button_menu.jpg" onmouseover="menu_changeover('Ringtones',this);" onmouseout="changeout(this);">  <a href="http://www.audiosparx.com/sa/links/music-ringtones.cfm" class="menulink">&nbsp;&nbsp; RINGTONES &nbsp;&nbsp;</a></td><td valign="middle" align="center" background="/sa/images/button_menu.jpg" onmouseover="menu_changeover('Artists',this);" onmouseout="changeout(this);">  <a href="http://www.audiosparx.com/sa/artist/list.cfm" class="menulink">&nbsp;&nbsp; ARTISTS &nbsp;&nbsp;</a></td><td valign="middle" align="center" background="/sa/images/button_menu.jpg" onmouseover="menu_changeover('Register',this, -90);" onmouseout="changeout(this);">  <a href="http://www.audiosparx.com/sa/pricing.cfm" class="menulink">&nbsp;&nbsp; JOIN NOW &nbsp;&nbsp;</a></td><td valign="middle" align="center" background="/sa/images/button_menu.jpg" onmouseover="menu_changeover('Support',this, -130);" onmouseout="changeout(this);">  <a href="http://www.audiosparx.com/sa/faq.cfm" class="menulink">&nbsp;&nbsp; SUPPORT &nbsp;</a></td></tr></tbody></table></td></tr></tbody></table></td><td width="11" height="100%"><img src="/sa/images/right_dropshadow.jpg" height="100%" width="11"></td></tr></tbody></table></div>
+--></div>        </td>        <td width="646" height="103" valign="top">          <table border="0" bordercolor="white" width="100%" height="103" cellspacing="0" cellpadding="0" style="border-collapse: collapse">          <tbody><tr>            <td valign="top">              <table border="0" bordercolor="white" cellspacing="0" cellpadding="0" style="border-collapse: collapse">              <tbody><tr>                <td width="172" valign="top" align="center">                  <font face="arial" style="font-size: 7pt" color="white">LANGUAGE</font><br>                  <div id="google_translate_element"></div>                  <div id="logocover" style="position:absolute; visibility:visible; background-color:black; left:NaNpx; top:39px; width:172px; height:22px; border:0px solid white; z-index:10;"></div>                </td>                <td width="170" valign="top" align="center">                  <form method="post" action="http://www.audiosparx.com/sa/search/home_srchpost.cfm">                  <table border="0" bordercolor="white" width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse">                  <tbody><tr>                    <td align="center">                      <font face="arial" style="font-size: 7pt" color="white">INSTANT SEARCH</font><br>                      <input type="hidden" name="topsearch" value="1">                      <input type="text" name="target" height="15" size="18">                    </td>                    <td width="20" valign="middle">                      <input type="image" border="0" src="/sa/images/btnGoBlack.jpg" name="keyword" alt="Search Now">                    </td>                  </tr>                  </tbody></table>                  </form>                </td>                <td width="320" valign="top" align="right">                  <a href="http://www.audiosparx.com/sa/company.cfm"><font face="arial" style="font-size: 7pt" color="white">ABOUT</font></a> &nbsp;                  <a href="http://www.audiosparx.com/sa/license.cfm"><font face="arial" style="font-size: 7pt" color="white">LICENSE</font></a> &nbsp;                  <a href="http://www.audiosparx.com/sa/support/request.cfm"><font face="arial" style="font-size: 7pt" color="white">CONTACT</font></a> &nbsp;                  <a href="http://www.audiosparx.com/sa/links.cfm"><font face="arial" style="font-size: 7pt" color="white">LINKS</font></a> &nbsp;                  <a href="javascript:void()" class="st_sharethis"><font face="arial" style="font-size: 7pt" color="white">SHARETHIS</font></a><br>                  <div id="tracetext"></div>                </td>              </tr>              </tbody></table>            </td>          </tr>          <tr>            <td valign="bottom" align="right" colspan="4">              <a href="javascript:beat_calculator();"><img src="/sa/images/aerogel_bpmcalc.jpg" alt="Beat Calculator" border="0"></a>              <a href="http://www.audiosparx.com/sa/client/authenticate/login.cfm"><img src="/sa/images/aerogel_login.jpg" alt="Login Now" border="0"></a>              <a href="http://www.audiosparx.com/sa/client/options"><img src="/sa/images/aerogel_register.jpg" alt="Register Now" border="0"></a>              <a href="http://www.audiosparx.com/sa/client/default.cfm"><img src="/sa/images/aerogel_myaccount.jpg" alt="My AudioSparx" border="0"></a>            &nbsp;&nbsp;</td>          </tr>          </tbody></table>        </td>      </tr>      </tbody></table>    </td>  </tr>  </tbody></table><table id="table1" border="0" width="955" cellspacing="0" cellpadding="0" style="border-collapse: collapse"><tbody><tr><td height="22" width="955" align="center"><table id="menutable" border="0" height="22" width="955" cellspacing="0" cellpadding="0" style="border-collapse: collapse"><tbody><tr><td valign="middle" align="center" background="/sa/images/button_menu.jpg" onmouseover="changeover(this);" onmouseout="changeout(this);">  <a href="http://www.audiosparx.com/" class="menulink">&nbsp; HOME &nbsp;&nbsp;</a></td><td valign="middle" align="center" background="/sa/images/button_menu.jpg" onmouseover="menu_changeover('News',this);" onmouseout="changeout(this);">  <a href="/sa/news/default.cfm" class="menulink">&nbsp;&nbsp; NEWS &nbsp;&nbsp;</a></td><td valign="middle" align="center" background="/sa/images/button_menu.jpg" onmouseover="changeover(this);" onmouseout="changeout(this);">  <a href="http://www.audiosparx.com/sa/search/sound2.cfm" class="menulink">&nbsp;&nbsp; HYPERSEARCH &nbsp;&nbsp;</a></td><td valign="middle" align="center" background="/sa/images/button_menu.jpg" onmouseover="menu_changeover('Music',this);" onmouseout="changeout(this);">  <a href="http://www.audiosparx.com/sa/links/production-music.cfm" class="menulink">&nbsp;&nbsp; MUSIC &nbsp;&nbsp;</a></td><td valign="middle" align="center" background="/sa/images/button_menu.jpg" onmouseover="menu_changeover('SFX',this);" onmouseout="changeout(this);">  <a href="http://www.audiosparx.com/sa/links/sound-effects.cfm" class="menulink">&nbsp;&nbsp; SOUND EFFECTS &nbsp;&nbsp;</a></td><td valign="middle" align="center" background="/sa/images/button_menu.jpg" onmouseover="menu_changeover('Loops',this);" onmouseout="changeout(this);">  <a href="http://www.audiosparx.com/sa/links/beats.cfm" class="menulink">&nbsp;&nbsp; BEATS &amp; LOOPS &nbsp;&nbsp;</a></td><td valign="middle" align="center" background="/sa/images/button_menu.jpg" onmouseover="menu_changeover('Ringtones',this);" onmouseout="changeout(this);">  <a href="http://www.audiosparx.com/sa/links/music-ringtones.cfm" class="menulink">&nbsp;&nbsp; RINGTONES &nbsp;&nbsp;</a></td><td valign="middle" align="center" background="/sa/images/button_menu.jpg" onmouseover="menu_changeover('Artists',this);" onmouseout="changeout(this);">  <a href="http://www.audiosparx.com/sa/artist/list.cfm" class="menulink">&nbsp;&nbsp; ARTISTS &nbsp;&nbsp;</a></td><td valign="middle" align="center" background="/sa/images/button_menu.jpg" onmouseover="changeover(this);" onmouseout="changeout(this);">  <a href="http://www.audiosparx.com/sa/client/options/pricing.cfm" class="menulink">&nbsp;&nbsp; PRICING &nbsp;&nbsp;</a></td><td valign="middle" align="center" background="/sa/images/button_menu.jpg" onmouseover="menu_changeover('Register',this, -90);" onmouseout="changeout(this);">  <a href="http://www.audiosparx.com/sa/client/options" class="menulink">&nbsp;&nbsp; JOIN NOW &nbsp;&nbsp;</a></td><td valign="middle" align="center" background="/sa/images/button_menu.jpg" onmouseover="menu_changeover('Support',this, -130);" onmouseout="changeout(this);">  <a href="http://www.audiosparx.com/sa/faq.cfm" class="menulink">&nbsp;&nbsp; SUPPORT &nbsp;</a></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></td><td width="33%" valign="top" bgcolor="8B00FF"></td></tr></tbody></table></div>
 
 
 
   
   
-  <div id="sharethis" style="position: fixed; visibility: visible; left: 1082px; top: 29px;">
+  <div id="sharethis" style="position: fixed; visibility: visible; left: 880px; top: 28px;">
   <font size="1" face="arial">
-  <script type="text/javascript" src="http://w.sharethis.com/button/sharethis.js#publisher=d55334e5-b57b-4c58-a472-4829ce471f40&amp;type=website&amp;buttonText=Share"></script>
+  <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher:'d55334e5-b57b-4c58-a472-4829ce471f40', onhover: false});</script>
   </font>
   </div>
 
@@ -4901,63 +4887,25 @@ playback timings (ms):
 
 
 
-<script language="JavaScript" type="text/javascript">
-
-
-var oDiv = returnObjById('google_translate_element');
-
-
-if (BrowserDetect.browser == 'Explorer') {}
-else {  
-  oDiv.addEventListener('change',function (e) {
-    //el = returnObjById('footer');  
-    //el.innerHTML = oDiv.innerHTML; 
-    //alert(oDiv.innerHTML); 
-
-    tarr = document.getElementsByClassName('goog-te-combo');
-
-    for(var i = 0; i < tarr.length; i++) {
-      var tindex = tarr[i].selectedIndex;
-      var tlanguage = tarr[i].options[tindex].text
-      var tlangid = tarr[i].value;
-      
-      //store in javascript library object
-      googlangid_set(tlangid);
-    
-      //set coldfusion client variable
-      var turl = '/sa/client/language/set.cfm/googlangid.' + tlangid + '/googlanguage.' + tlanguage;
-      loadURLToElement(turl, 'footerframe');
-      
-      //display in footer tagline
-      el = returnObjById('mylanguage');  
-      el.innerHTML = '<font size=1 face=verdana>Language: ' + tlanguage + '</font>';
-    }  
-  },true);
-}  
-
-</script>
 
 
 <style type="text/css">iframe.goog-te-banner-frame { display:none !important; }</style>
 <style type="text/css">body {position: static !important; top: 0 !important;}</style>
+<style type="text/css">.wp-table-reloaded-id-outertable {width: 100% !important;}</style>
 
 
-
-<table id="innertable" border="0" width="900" cellspacing="0" cellpadding="0" style="border-collapse: collapse">
+<div id="mainheadtablediv" style="position:relative;top:133px;left:0px;width:100%;border:0px solid black; z-index:0;">
+<table id="mainheadtable" border="1" bordercolor="black" width="957" cellspacing="0" cellpadding="0" style="border-collapse: collapse">
 <tbody><tr>
-  
-    <td height="112"></td>
-    
-</tr>
-<tr>
-  <td align="center" valign="top" onmouseover="hide_menus();">
-  <img src="/sa/images/whitespace.jpg" height="6" alt="" border="0">
-</td></tr>  
+<td align="center" valign="top">
+<table id="innertable" border="0" width="932" cellspacing="0" cellpadding="0" style="border-collapse: collapse">
+<tbody><tr><td height="4"></td></tr>
 
 
 <tr>
-  <td valign="top" align="center">
-    
+  <td valign="top" align="center" onmouseover="hide_menus();">
+      
+<div id="bannerdiv1">
 <table border="0" width="728" cellspacing="0" cellpadding="0" style="border-collapse: collapse">
 <tbody><tr>
   <td><font size="1" face="verdana">Advertisement</font></td>
@@ -4981,14 +4929,15 @@ google_ad_height = 90;
 </td></tr></tbody></table>
 </td></tr>
 </tbody></table>
+</div>
 <br>
     <img src="/sa/images/div.jpg" width="100%" height="8">
   </td>
 </tr>
-
-  <tr>
   
-<td width="900" align="center" valign="top" style="border-collapse: collapse" onmouseover="hide_menus();">
+
+<tr>
+<td width="932" align="center" valign="top" style="border-collapse: collapse" onmouseover="javascript:hide_menus();">
 
 
 
@@ -5089,7 +5038,14 @@ div.Section1
 								will be used.&nbsp; The information you submit 
 								with each track report will be shared with the composer(s) and publisher(s) of each track to 
 								inform them about how their music is being used 
-								and who is using it.<br>
+								and who is using it.&nbsp; The person or 
+								organization that is administering publishing 
+								for music tracks may contact you directly to 
+								request information about your use of the music 
+								in order to be able to file a cue sheet.&nbsp; 
+								Don't be alarmed, filing cue sheets for 
+								broadcast or other public uses of music tracks 
+								is a normal part of this business. <br>
 &nbsp;</font></li>
 								<li class="MsoNormal">
 								<font face="Verdana" size="2"><b>Agents.</b> We 
@@ -5097,7 +5053,8 @@ div.Section1
 								perform functions on our behalf. Examples 
 								include delivering packages, sending postal mail 
 								and e-mail, and processing credit card payments. 
-								They have access to personal information needed 
+								They have access to only your personal information 
+								as needed 
 								to perform their functions, but may not use it 
 								for other purposes. <br>
 &nbsp;</font></li>
@@ -5112,12 +5069,13 @@ div.Section1
 								<li class="MsoNormal">
 								<font face="Verdana" size="2"><b>Business 
 								Transfers</b>. As we continue to develop our 
-								business, we might sell or buy stores or assets. 
+								business, we might sell or buy other companies 
+								or assets. 
 								In such transactions, customer information 
 								generally is one of the transferred business 
 								assets. Also, in the unlikely event that we are 
-								acquired, customer information will be one of 
-								the transferred assets.<br>
+								acquired, your customer information will be one of 
+								the assets transferred to the new owner.<br>
 &nbsp;</font></li>
 								<li class="MsoNormal">
 								<font face="Verdana" size="2"><b>Law 
@@ -5135,7 +5093,12 @@ div.Section1
 								Reference.</b>&nbsp; The information we collect 
 								and save is used for internal reference 
 								purposes, to administer our business operations 
-								in a proper manner.</font></li>
+								in a proper manner.&nbsp; We do not delete your 
+								information, and you can not request to have it 
+								deleted from our system.&nbsp; We retain it 
+								forever for internal reference purposes, in case 
+								we need to research a transaction or some other 
+								activity on our web site.</font></li>
 							</ul>
 							<p style="MARGIN: 0in 0in 0pt"><b>
 							<span style="font-family: Verdana"><font size="2">&nbsp;</font></span></b></p>
@@ -5270,11 +5233,12 @@ div.Section1
 </td>
 </tr>
 
-<tr>
+<tr bgcolor="white">
 <td align="center">
   <img src="/sa/images/div.jpg" width="100%" height="11"><br>
 
-  
+    
+<div id="bannerdiv2">
 <table border="0" width="728" cellspacing="0" cellpadding="0" style="border-collapse: collapse">
 <tbody><tr>
   <td><font size="1" face="verdana">Advertisement</font></td>
@@ -5298,6 +5262,7 @@ google_ad_height = 90;
 </td></tr></tbody></table>
 </td></tr>
 </tbody></table>
+</div>
 
 <center>
 
@@ -5307,12 +5272,21 @@ google_ad_height = 90;
 <table border="0" width="900" cellspacing="0" cellpadding="0">
 <tbody><tr>
   <td align="center">
-    <font face="verdana" size="1">
+    <font face="verdana" size="2">
+    <a href="http://www.audiosparx.com/sa/radio" title="Radio Production Music &amp; SFX">Radio Production Music &amp; Effects</a> |
     <a href="http://www.audiosparx.com/sa/links/commercial-music.cfm" title="Commercial Music">Commercial Music</a> |
+    <a href="http://www.audiosparx.com/sa/television_music/music_for_tv.cfm" title="Music For TV and Film">TV &amp; Film Music</a> |
+    <a href="http://www.audiosparx.com/sa/games_music/game_music.cfm" title="Music For Games &amp; Software">Music For Games &amp; Software</a>
+    </font>
+  </td>
+</tr>
+
+<tr>
+  <td align="center">
+    <font face="verdana" size="2">
+    <a href="http://www.audiosparx.com/sa/love_songs" title="Romantic, Love &amp; Wedding Music">Romantic Love Music</a> |
     <a href="http://www.audiosparx.com/sa/vocals" title="Vocal Music">Vocal Music</a> |
     <a href="http://www.audiosparx.com/sa/horror" title="Scary Horror and Sci-Fi Music &amp; SFX">Scary Music &amp; SFX</a> |
-    <a href="http://www.audiosparx.com/sa/television_music/music_for_tv.cfm" title="Music For TV and Film">TV &amp; Film Music</a> |
-    <a href="http://www.audiosparx.com/sa/games_music/game_music.cfm" title="Music For Games &amp; Software">Music For Games &amp; Software</a> |
     <a href="http://www.audiosparx.com/sa/Christmas" title="Christmas and New Years Music &amp; SFX">Christmas Music &amp; SFX</a>
     </font>
   </td>
@@ -5320,7 +5294,7 @@ google_ad_height = 90;
     
 <tr height="30">
   <td align="center" valign="top">
-    <font face="verdana" size="1">
+    <font face="verdana" size="2">
     <a href="http://www.audiosparx.com/sa/best_music/default.cfm" title="Music Editor's Picks">Music Editor's Picks</a> |
     <a href="http://www.audiosparx.com/sa/packs/list.cfm/project_iid.2" title="MusicPacks">MusicPacks</a> |
     <a href="http://www.audiosparx.com/sa/packs/list.cfm/project_iid.1" title="SoundPacks">SoundPacks</a> |
@@ -5345,7 +5319,7 @@ google_ad_height = 90;
 
     
     
-      <a href="http://www.audiosparx.com/sa/login.cfm">Login</a> |
+      <a href="http://www.audiosparx.com/sa/client/authenticate/login.cfm">Login</a> |
     
      
     <br>  
@@ -5354,14 +5328,13 @@ google_ad_height = 90;
     <a href="http://www.audiosparx.com/sa/albums/list.cfm" title="Production Music Albums">Production Music Albums</a> |
     <a href="http://www.audiosparx.com/sa/links/beats.cfm" title="Beats and Loops">Beats &amp; Loops</a> |
     <a href="http://www.audiosparx.com/sa/realtones/ringtones.cfm/rtone.true" title="Hot-Selling Ringtones">Ringtones</a> |
-    <a href="http://www.audiosparx.com/sa/freezone/sounds.cfm" title="Free music and sound effects">FreeZone</a>
 
     <br>
     <a href="http://www.audiosparx.com/sa/links/classical-music.cfm" title="Music by Famous Composers">Classical Masters Library</a> |
     <a href="http://www.audiosparx.com/sa/classical_masters/orchestras-and-ensembles.cfm" title="Famous Orchestras and Ensembles">Orchestras &amp; Ensembles</a> |
     <a href="http://www.audiosparx.com/sa/artist/list.cfm" title="Directory of AudioSparx Artists">Artist Directory</a> |    
     <a href="http://www.audiosparx.com/sa/alliance/" title="Publish My Audio Content">Sell My Audio Content</a> |
-    <a href="http://www.audiosparx.com/sa/pricing.cfm" title="Pricing and Registration">Join Now</a>
+    <a href="http://www.audiosparx.com/sa/client/options" title="Pricing and Registration">Join Now</a>
     
     <br>
     <a href="http://www.audiosparx.com/sa/display/displayby.cfm/target.region" title="World Music">World Music By Country</a> |
@@ -5376,83 +5349,85 @@ google_ad_height = 90;
 </tbody></table>
 
 <br>
-<img border="0" src="/sa/images/div.jpg" alt="" width="100%" height="8"><br>
 
 </center>
 
-
-  <div align="right">
-  <span id="cf_tooltip_1290281529204">
-	
-	
-  <a href="http://www.audiosparx.com/"><img src="/sa/images/audiosparx_footer_logo.jpg" border="0"></a>
-  
- </span>
-  </div>
 </td>
 </tr>
-</tbody></table>
-</div>
-
-
+</tbody></table>  
 </td>
-<td width="11" height="100%"><img src="/sa/images/right_dropshadow.jpg" height="100%" width="11"></td>
 </tr>
-<tr><td valign="top" colspan="3"><img src="/sa/images/footer_dropshadow.jpg"></td></tr>
-<tr><td align="center" colspan="3"> 
-<font size="1" face="verdana">Copyright © 1996 - 2010 AudioSparx</font>
+</tbody></table>  
+
+
+  <table id="endtable" border="0" bordercolor="black" width="955" cellspacing="0" cellpadding="0" style="border-collapse: collapse">
+  <tbody><tr>
+  <td width="955" align="center" valign="top">
+    <span id="cf_tooltip_1306132721738">
+	
+	
+      <a href="http://www.audiosparx.com/"><img src="/sa/images/audiosparx_footer_bg.jpg" border="0" width="957"></a><br>
+      
+ </span> 
+<font size="1" face="verdana">Copyright © 1996 - 2011 AudioSparx</font>
 &nbsp;&nbsp;
 <a href="/sa/privacy/privacy_policy.cfm"><font size="1" face="verdana">Privacy Policy</font></a>
 &nbsp;&nbsp;
 <a href="/sa/license.cfm"><font size="1" face="verdana">Terms &amp; Conditions</font></a>
 &nbsp;&nbsp;
-<font size="1" face="verdana">Hostname: AXC2</font>
+<font size="1" face="verdana">Hostname: AXC3</font>
 
   &nbsp;&nbsp;
   <label id="mylanguage"><font size="1" face="verdana">Language: English</font></label>
 
 <br><br>
-</td></tr>
-</tbody></table>
 
+  </td>
+  </tr>
+  </tbody></table>  
+  
 
+</div>      
 </td>
-<td id="outertable_td5" valign="bottom" width="33%" height="1400" align="right" onmouseover="hide_menus();">
 
-<div id="keyid2"><font size="1" color="D6D6D6" face="arial"> audiosparx,<br>
-    audio sounds,<br>
-    sounds noises,<br>
-    new noise,<br>
-    kb sounds,<br>
-    sound clips wav files,<br>
-    with wav files,<br>
-    noises clips,<br>
-    music effects,<br>
-    weird sounds wav,<br>
-    xp wav sounds,<br>
-    wav audio sounds,<br>
-    download mp3s,<br>
-    xp wav files,<br>
-    the movie sounds,<br>
-    office wav sounds,<br>
-    mp3s download,<br>
-    tv sound effects,<br>
-    sound effects com,<br>
-    sounds </font></div>
 
-</td>
+  <td id="outertable_td5" valign="top" width="33%" height="1400" align="right" onmouseover="hide_menus();">
+  <table border="0" width="100%" background="/sa/images/gradient_mw.jpg" style="border-collapse: collapse" height="600">
+  <tbody><tr><td valign="top"></td></tr>
+  </tbody></table>
+  <div align="bottom">
+  
+<div id="keyid2"><font size="1" color="D6D6D6" face="arial"> sound byte wav,<br>
+    downloading sound effects for plays and musicals,<br>
+    wav movie files,<br>
+    sound effects the man from uncle,<br>
+    splatter sound effect,<br>
+    free sound fx's,<br>
+    free running sound effect,<br>
+    cymbal crash sound effect,<br>
+    free roman coliseum sound effects,<br>
+    create games sound effects,<br>
+    free stab sounds effects,<br>
+    downloadable sound clips free,<br>
+    coat zip fx,<br>
+    mosquito sound effect,<br>
+    free crank wind up sound effects,<br>
+    123 sound effects,<br>
+    african sound effects,<br>
+    wav files sounds,<br>
+    free sounds to listen to,<br>
+    infografia multimedia internet </font></div>
+
+  </div>
+  </td>
+
+  
 </tr>
-</tbody></table>
+</tbody></table>  
+
 <div id="footerframe"></div>
 
-<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript">
-</script>
-<script type="text/javascript">
-_uacct="UA-229559-1";
-_udn="none"; 
-_ulink=1;
-urchinTracker();
-</script>       
+
 
 
 
