@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the santafenewmexican.com privacy policy that was archived on 2007-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070731002853id_/http%3A//www.santafenewmexican.com/info/158.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the santafenewmexican.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523102848id_/http%3A//www.santafenewmexican.com/Story/PrivacyPolicy) for the most accurate reproduction.*
 
-# Registration information, privacy policy and terms of use
-
-Web Team   
-May 27, 2004 
+# Registration information, privacy policy and terms of use - The Santa Fe New Mexican
 
 **About registration**
 
@@ -33,7 +30,7 @@ In such cases, we disclose that we collect and may share the information you pro
 
 **How can I access, edit, or modify my personal information at SantaFeNewMexican.com?**
 
-You may edit your account information at any time by using your e-mail address on record with us and password. If you have forgotten your password, [click "Forgot Password?" ](https://web.archive.org/forgotpass.php) to have your password sent to you.
+You may edit your account information at any time by using your e-mail address on record with us and password. If you have forgotten your password, [click "Forgot Password?" ](https://web.archive.org/forgotpassword/) to have your password sent to you.
 
 **What security measures does SantaFeNewMexican.com use to protect your personal data?**
 
@@ -43,7 +40,11 @@ Your SantaFeNewMexican.com account information is password-protected so that you
 
 We fully support the intent of the Children's Online Privacy Protection Act, which forbids the collection of personally identifiable information about children under the age of thirteen without the express written permission of their parents. We ask that children do not submit any information about themselves. Anyone using this Site or the Services warrants and promises that they are 13 years of age or older. 
 
-Some of the content on our site, including advertising, is provided directly from web servers owned and operated by third parties, and we do not control, and cannot be held responsible for, their use of any information they may collect. 
+Some of the content on our site, including advertising, is provided directly from web servers owned and operated by third parties, and we do not control, and cannot be held responsible for, their use of any information they may collect.   
+
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here <http://www.networkadvertising.org/managing/opt_out.asp>[  
+](http://www.networkadvertising.org/managing/opt_out.asp)
 
 We do not routinely disclose any of our individual reader information to third parties. We may disclose this information in special cases when we have reason to believe that doing so is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) the rights or property of The New Mexican, Inc. or anyone else that could be harmed by such activities. We may also disclose information to third parties when we believe in good faith that we are required by law to do so, or as otherwise provided in the Site's Terms of Use.
 
@@ -54,7 +55,3 @@ Please keep in mind that whenever you voluntarily disclose personal information 
 
 Ultimately, you are solely responsible for maintaining the secrecy of your passwords and/or any account information. Please be careful and responsible whenever you're online.  
 
-
-[Click here to register!](https://web.archive.org/register.php)
-
- ****
