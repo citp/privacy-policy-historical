@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bobswatches.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120015743id_/http%3A//www.bobswatches.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bobswatches.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523143210id_/http%3A//www.bobswatches.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -34,8 +34,6 @@ We take precautions to protect your information. When you submit sensitive infor
 Wherever we collect sensitive information, such as credit card data, that information is encrypted and transmitted to us in a secure way. You can verify this by looking for a closed lock icon at the bottom of your Web browser, or looking for "https" at the beginning of the address of the Web page.
 
 While we use encryption to protect sensitive information transmitted online, we also protect your information offline. Only employees who need the information to perform a specific job (for example, billing or customer service) are granted access to personally identifiable information.
-
-**If you feel that we are not abiding by this privacy policy, or if you would like to opt out of future contacts, please e-mail us at** ** **[sales@BobsWatches.com](mailto:sales@demesy.com) **.**
 
 
 
