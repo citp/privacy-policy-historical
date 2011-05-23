@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the cfnc.org privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618212154id_/http%3A//www.cfnc.org/global/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cfnc.org privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523182510id_/https%3A//www.cfnc.org/global/privacy_policy.jsp) for the most accurate reproduction.*
 
-# CFNC - Privacy of Information
+# CFNC - Welcome
 
    
----  
    
   
 The College Foundation of North Carolina website is sponsored by and maintained through a non-profit partnership between College Foundation, Inc., the State Education Assistance Authority, an agency of the State of North Carolina, and Pathways of North Carolina. Each of these entities is dedicated to protecting your nonpublic personal information provided through use of the College Foundation of North Carolina website.
