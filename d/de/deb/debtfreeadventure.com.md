@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the debtfreeadventure.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229075855id_/http%3A//www.debtfreeadventure.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the debtfreeadventure.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523055417id_/http%3A//www.debtfreeadventure.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy and Terms of Use
 
 ## Privacy Policy for DebtFreeAdventure.com
 
@@ -24,7 +24,7 @@ The privacy of our visitors to DFA is of the utmost importance to us.  We also 
 
 ### Log Files
 
-As with most other websites, we collect and use the data contained in log files.  The information in the log files include  your IP (internet protocol) address, your ISP (internet service provider, such as Comcast or AT&T), the browser you used to visit our site (such as Firefox, Safari, or Internet Explorer), the time you visited our site and which pages you visited throughout our site.
+As with most other websites, we collect and use the data contained in log files.  The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as Comcast or AT&T), the browser you used to visit our site (such as Firefox, Safari, or Internet Explorer), the time you visited our site and which pages you visited throughout our site.
 
 ### Cookies and Web Beacons
 
