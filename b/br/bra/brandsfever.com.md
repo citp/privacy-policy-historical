@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the brandsfever.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229054842id_/http%3A//www.brandsfever.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brandsfever.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523174431id_/http%3A//www.brandsfever.com/privacy-policy) for the most accurate reproduction.*
 
-# Brandsfever | Cool Brands Hot Sales
+# Brandsfever | Privacy Policy
 
 Brandsfever is committed to ensuring that your privacy is protected. This Privacy Policy explains how we use the information we collect about you and procedures that we have in place to safeguard your privacy. This Privacy Policy forms part of the Terms & Conditions of Brandsfever. By visiting the website of Brandsfever and/or by becoming a member you accept the provisions of this Privacy Policy. If you do not agree to our Privacy Policy please refrain from using or accessing our website. 
 
