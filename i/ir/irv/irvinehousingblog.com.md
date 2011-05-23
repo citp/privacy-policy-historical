@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the irvinehousingblog.com privacy policy that was archived on 2010-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100921141800id_/http%3A//www.irvinehousingblog.com/blog/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irvinehousingblog.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523064501id_/http%3A//www.irvinehousingblog.com/blog/privacy) for the most accurate reproduction.*
 
-# Irvine Real Estate and Irvine Homes - Irvine Housing Blog
+# Irvine Real Estate & Irvine Homes - Irvine Housing Blog
 
 ## Privacy Policy
 
