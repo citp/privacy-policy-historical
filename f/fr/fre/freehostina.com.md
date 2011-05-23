@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freehostina.com privacy policy that was archived on 2010-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100303181001id_/http%3A//www2.freehostina.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freehostina.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523095933id_/http%3A//www.freehostina.com/privacy.html) for the most accurate reproduction.*
 
-# FreeHostina - Free file hosting. UNLIMITED UPLOADS AND DOWNLOADS!
+# FreeHostina.com - Unlimited File Hosting!
 
 **Your Privacy**
 
