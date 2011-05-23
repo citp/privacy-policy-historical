@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uua.org privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619081602id_/http%3A//www.uua.org/privacypolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uua.org privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523182659id_/http%3A//www.uua.org/privacypolicy.shtml) for the most accurate reproduction.*
 
 # UUA: UUA Privacy and Data Security Policy
 
@@ -114,6 +114,8 @@ This policy addresses the collection, use, and safeguarding of data about indivi
     * Persons with questions or concerns about this policy or data security at the UUA are welcome to contact us at [data_services @ uua.org](mailto:data_services@uua.org) or (617) 948-4654.
 
 
+
+This work is made possible by the generosity of individual donors. Please consider [making a donation](http://www.kintera.org/site/lookup.asp?c=kkLRJ7MQKtH&b=5099485) today.
 
 Last updated on Tuesday, June 1, 2010. 
 
