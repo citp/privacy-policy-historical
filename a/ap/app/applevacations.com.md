@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the applevacations.com privacy policy that was archived on 2010-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100418020414id_/http%3A//www.applevacations.com/aboutus.do%3Fcommand%3DshowPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the applevacations.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523093806id_/http%3A//www.book.applevacations.com/aboutus.do%3Fcommand%3DshowPrivacyPolicy) for the most accurate reproduction.*
 
-# Apple Vacations
+# Apple Vacations - About Us / Careers
 
 By using the Website you accept our Policy. We may revise it at any time by updating the Website. 
 
