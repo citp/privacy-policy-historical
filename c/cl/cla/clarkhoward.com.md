@@ -1,14 +1,15 @@
-> *The following text is extracted and transformed from the clarkhoward.com privacy policy that was archived on 2010-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100919153232id_/http%3A//clarkhoward.com/inside/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clarkhoward.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523074944id_/http%3A//www.clarkhoward.com/privacy_policy) for the most accurate reproduction.*
 
-# clarkhoward.com - Save more, spend less and avoid rip-offs
+# clarkhoward.com - Privacy Policy | www.clarkhoward.com
 
-Cox Radio respects the privacy of visitors to our site. Please read this Privacy Policy carefully so that you understand our privacy practices. 
+**Privacy Policy**  
+Cox Media Group respects the privacy of visitors to our site. Please read this Privacy Policy carefully so that you understand our privacy practices. 
 
       We make no guarantees about the quality or validity of the companies sponsoring this site. Anyone wishing to use information on this site must first contact radio officials to request permission. 
 
-      Questions regarding privacy issues should be directed to Cox Radio to the attention of the General Manager. Children should always get permission from their parents before sending any information about themselves (such as their names, email addresses, and phone numbers) over the Internet, to us or to anyone else. We won't knowingly allow anyone under 13 to register with any of our sites or to access those features that require registration. 
+      Questions regarding privacy issues should be directed to Cox Media Group to the attention of the General Manager. Children should always get permission from their parents before sending any information about themselves (such as their names, email addresses, and phone numbers) over the Internet, to us or to anyone else. We won't knowingly allow anyone under 13 to register with any of our sites or to access those features that require registration. 
 
-      The information gathered by Cox Radio falls into two categories: (1) information voluntarily supplied by visitors to our website through optional registration or e-commerce transactions, and (2) tracking information gathered as visitors navigate through our site. Third party service providers on or linked to by our website, such as vendors of products and services offered through our site, may be gathering the same kinds of information. 
+      The information gathered by Cox Media Group falls into two categories: (1) information voluntarily supplied by visitors to our website through optional registration or e-commerce transactions, and (2) tracking information gathered as visitors navigate through our site. Third party service providers on or linked to by our website, such as vendors of products and services offered through our site, may be gathering the same kinds of information. 
 
       To make use of certain features on our website (such as our message boards) visitors need to register and to provide certain information as part of the registration process. We may also ask visitors for certain information with respect to our e-commerce services (such as in connection with the purchase of products/services on our website). (We may ask, for example, for your name, email address, sex, age, zip code and credit card information). The information you supply will help us make the site more useful to you, and to process e-commerce transactions. 
 
