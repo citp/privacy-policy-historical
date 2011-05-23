@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imvisible.info privacy policy that was archived on 2010-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100127105236id_/http%3A//www.imvisible.info/terms-and-conditions.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imvisible.info privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523203734id_/http%3A//www.imvisible.info/terms-and-conditions.php) for the most accurate reproduction.*
 
 # Terms and conditions
 
