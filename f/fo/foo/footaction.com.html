@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the footaction.com privacy policy that was archived on 2010-12-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101209055507id_/http%3A//www.footaction.com/content/custserv/help--privacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the footaction.com privacy policy that was archived on 2011-05-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110523052735id_/http%3A//www.footaction.com/content/custserv/help--privacyPolicy) for the most accurate reproduction.-->
 
 <html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head><script language="JavaScript">
 function openBMLWindow(url,height) {
@@ -21,17 +21,18 @@ function openInvestWin(url) {
 
 
 
+<!-- -->
 
 	
 	
-		<!-- web-42 -->
+		<!-- web-44 -->
     	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
 				<title>Footaction</title>
 				<meta name="keywords" content="">
 				<meta name="description" content="">
 		
-        <meta http-equiv="published" content="Wednesday, December 8, 2010 11:55:06">
+        <meta http-equiv="published" content="Monday, May 23, 2011 12:27:35">
 		
 		<meta property="fb:app_id" content="124276907587728">
 
@@ -52,7 +53,7 @@ function openInvestWin(url) {
 	<script>
 	var wishlistpostCardURL = 'https://www.footaction.com/wishlist/wl_postcard.cfm';
 	var wishlistmailSender  = 'https://www.footaction.com/wishlist/wl_mailSender.cfm';
-	var dsnname = 'pro-fa-lb';
+	var dsnname = 'pro-fa-lb-alt';
 	
 		var microsite = '';
 	
@@ -127,6 +128,82 @@ function openInvestWin(url) {
 //-->
 </script>
 
+	<script type="text/javascript" src="http://www.footaction.com/shared/endeca/js/bsn.AutoSuggest_2.1.3.js" charset="utf-8"></script>
+    <style type="text/css">
+		@import url("http://www.footaction.com/shared/endeca/css/autosuggest_inquisitor.css");
+		@import url("http://www.footaction.com/endeca/autosuggest.css");
+	</style>
+        
+	<ignoreurlreformat>
+    <script type="text/javascript">
+		var advancedSearchShouldSubmit = false;
+		var advancedSearchPageURL = "http://www.footaction.com/catalog/advancedSearch.cfm?cm_prefix=GSTPAH&N=";
+        $(document).ready(function() {
+			$("form[name='keywordSearch']").submit(function() { return advancedSearchShouldSubmit; });
+			
+			$("form[name='keywordSearch'] input.submitbutton").click(keywordSubmit);
+			
+            // Attach Type-Ahead Functionality to Search Input Box
+            var options = {
+				script: function (input) { return "http://www.footaction.com/endeca/search_typeahead.cfm?Dn=0&Dp=8&Dr=AND(P_ProductSiteId:1)&D=*"+input+"*"; }
+			,	json: true
+			,	maxentries: 10
+			,	shownoresults: false
+			,	minchars: 3
+			,	timeout: 5000
+			,	delay: 200
+            };
+			var as = null;
+            if ($("#reduce_input_text_height").length) {
+				as = new bsn.AutoSuggest('reduce_input_text_height', options);
+			}
+			else if ($("#key_word_search").length) {
+				as = new bsn.AutoSuggest('key_word_search', options);
+			}
+			else if ($("#searchKeywordInput").length) {
+				as = new bsn.AutoSuggest('searchKeywordInput', options);
+			}
+        });
+    </script>
+	</ignoreurlreformat>
+
+
+
+<style type="text/css">
+	div.autosuggest ul em {
+		color: #ffffff;
+	}
+	div.autosuggest ul li.as_highlight a {
+		background-color: #2068b3;
+		background-image: none;
+	}
+	div.autosuggest ul li.as_highlight a:hover {
+		background-color: #2068b3;
+	}	
+	div.autosuggest ul li.as_highlight a em {
+		color: #FFF;
+	}			
+	div.autosuggest ul li.as_highlight a .tr {
+		background-image: none;
+	}	
+	div.autosuggest ul li.as_highlight a span {
+		background-image: none;
+		color: #fc3;
+	}
+	div.autosuggest ul li a span {
+		font-size: 14px;
+		font-weight: normal;
+	}	
+	div.autosuggest ul li,
+	div.autosuggest ul li a {
+		color: #afaeae;
+	}
+</style>
+<script type="text/javascript">
+	$(document).ready(function() {
+		$("form[name='keywordSearch']").bind('submit', function(){if ($('#searchKeywordInput').val() != '') this.submit();});
+	});
+</script> 
 
     
                 <style type="text/css">
@@ -134,487 +211,7 @@ function openInvestWin(url) {
                 </style>
             
                 <style type="text/css">
-					body {background: #000 url(//www.footaction.com/ns/header/images/holiday/Holiday-skin-2010-background-blue.jpg) top center no-repeat !important}
-
-/**************************
-	Header
-**************************/
-.noscript_error {
-	width:966;
-	height:100px;
-	font:normal 10pt Arial, Helvetica, sans-serif;
-	color:#000;
-	text-align:center;
-	background-color:#FFF;
-}
-
-.noscript_error p {
-	margin:0;
-	padding:10px 0;	
-}
-
-.noscript_error a {
-	font-weight:bold;
-	color:#FF0000;
-	text-decoration:underline;
-}
-
-.noscript_error a:hover {
-	font-weight:bold;
-	color:#999;
-	text-decoration:underline;
-}
-
-/* header text */ 
-.navigationLight { color: white; } 
-
-/* header link - inactive */ 
-.navigationLight a { color: white; } 
-
-/* header link - rollover */ 
-.navigationLight a:hover, .navigationLight a:focus, .navigationLight a:active { color: #EE0000; } 
-
-#topnav {
-	padding: 8px 0px 0px;
-}
-
-#topnav table, #bottomnav table {
-	border-collapse: collapse;
-	font-size: 10px;
-}
-#topnav ul {
-width:300px;
-}
-#topnav ul li {
-display:inline;
-padding-right:5px;
-}
-#topnav ul li.more_right {
-display:inline;
-padding-right:5px !important;
-padding-right:15px;
-}
-#headerTable a {
-	color: white;
-	text-decoration: none;
-}
-
-#headerTable a:hover {
-	color: #90c7ff;
-}
-
-#headerTable {
-	width: 966px;
-	border-collapse: collapse;
-}
-
-#headerTable td {
-	color: white;
-	vertical-align: middle;
-	height: 83px;
-}
-
-#headerTable td#homelink {
-	text-align: left;
-	padding: 0 30px;
-}
-
-#headerTable td td {
-	height: auto;
-}
-
-#headerLinks {
-	width: 100%;
-	height: 83px;
-	text-align: right;
-	margin-right: 8px;
-	white-space: nowrap;
-}
-
-#headerLinks #shoppingcartLink {
-	padding-right: 18px;
-	line-height: 21px;
-	white-space: nowrap;
-	margin:0 12px 0 0;
-}
-
-#headerLinks td.headerLinks {
-	height: 20px;
-}
-
-#headerLinks form {
-	margin: 0;
-	padding: 0;
-}
-
-#headerLinks ul {
-	list-style: none;
-	padding: 0 0 0 0 !important;
-	padding:0;
-	margin:0 10px 0 0;
-	float:right;
-	margin:0;
-}
-/* adjust for ie */
-* html #headerLinks ul {
-	list-style: none;
-	padding: 0 0 0 0;
-	margin: 0;
-	float:right;
-	margin-right:-12px;
-}
-#headerLinks li {
-	display: block;
-}
-
-#headerLinks li a {
-	font-size: 10px;
-	font-family: Helvetica, Arial, sans-serif;
-	font-weight:bold;
-	padding-right:6px;
-}
-
-td#navigations {
-	text-align: left;
-	width: 100%;
-	height: 37px;
-	padding: 0;
-	margin: 0;
-}
-
-td#navigations ul {
-	list-style: none;
-	margin: 0;
-	padding: 0;
-        width:100%;
-}
-
-td#navigations li {
-	float: left;
-	padding-left: 36px;
-}
-
-td#navigations li.firstItem {
-	padding-left: 22px;
-}
-
-td#navigations table {
-	border-collapse: collapse;
-	width: 100%;
-	font-size: 12px;
-	font-weight: bold;
-}
-
-td#navigations table td {
-	padding: 0;
-	margin: 0;
-}
-
-td#navigations .topnav_giftcard {
-	width: 130px;
-}
-
-td#navigations .topnav_giftcard a {
-	display: block;
-	padding-left: 51px;
-	line-height: 36px;
-	font-size: 11px;
-}
-
-td#navigations .topnav_facebook {
-	text-align: center;
-	width: 45px;
-}
-
-td#navigations .topnav_starclub {
-	text-align: center;
-	width: 100px;
-}
-
-.starclub_container {
-	position:relative;
-	width:86px;
-	height:18px;
-	margin:0;
-	padding:0;
-	z-index:1;
-}
-
-.starclub_image {
-	position:absolute;
-	top:0;
-	left:0;
-	width:86px;
-	height:18px;
-	background-image:url('http://www.footaction.com/images/fa/topnav/starclub.png') !important;
-	background-image:none;
-	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://www.footaction.com/images/fa/topnav/starclub.png', sizingMethod='scale');
-	z-index:3;
-}
-
-.starclub_link {
-	position:absolute;
-	top:0;
-	left:0;
-	display:block;
-	width:86px;
-	height:18px;
-	z-index:5;
-}
-
-.starclub_link a {
-	display:block;
-	width:86px;
-	height:18px;
-	cursor:pointer;
-}
-
-.starclub_link a:hover {
-	display:block;
-	width:86px;
-	height:18px;
-	cursor:pointer;
-}
-
-#eighthundrednum {
-	font-weight: bold;
-	padding-right: 5px;
-	font-size: 12px;
-}
-
-#searchKeywordInput {
-	font-size: 9px;
-	width: 125px;
-}
-#seach-background {
-background-image:url(http://www.footaction.com/images/fa/topnav/fa_header-search_03.jpg); 
-background-position:top right; 
-background-repeat:no-repeat; 
-height:43px;
-margin:0 10px 0 0;
-} 
-#submit-button {
-margin:0 4px 11px 0;
-}
-/* adjust for ie */
-* html #submit-button {
-margin:5px 4px 0 0;
-}
-#search {
-font-weight:bold;
-font-size:12px;
-margin-right:9px;
-}
-
-/**************************
-	Footer
-**************************/
-
-#flexFooter {
-	width: 966px;
-	color: white;
-	height: 155px;
-	text-transform: uppercase;	
-	font-family: Arial, Helvetica ,sans-serif;
-}
-
-html>body #flexFooter {
-	
-}
-
-#flexFooter a {
-	color: #999999;
-	text-decoration: none;
-}
-
-#flexFooter a:hover {
-	color: #ffffff;
-}
-
-#flexFooter th {
-	color: #ffffff;
-	text-align: left;
-	padding: 8px 0 0;
-	vertical-align: top;
-	height: 18px;
-	font-size: 12px;
-}
-
-#flexFooter th span {
-	display: block;
-	padding-left: 10px;
-	font-weight: bold;
-}
-
-#flexFooter .lastItem {
-	width: auto;
-}
-
-#flexFooter th.lastItem span {
-	border-right: none;
-}
-
-#flexFooter td {
-	padding: 0;
-	font-size: 10px;
-	font-weight: bold;
-	width: 187px;
-	vertical-align: top;
-}
-
-#flexFooter td.lastItem {
-	padding: 0;
-	vertical-align: middle;
-}
-
-#flexFooter ul {
-	padding: 5px 10px;
-	margin: 0;
-	list-style: none;
-}
-
-#flexFooter ul li {
-	display: block;
-	padding-bottom: 2px;
-}
-
-#emailSignUpForm {
-	margin: 0;
-	padding: 0;
-}
-
-#flexFooter #emailSignUpForm label {
-}
-
-#flexFooter #signupEmail {
-	width: 180px;
-	display: block;
-	margin: 3px 0;
-}
-
-#flexFooter #joinnow {
-}
-
-#flexFooter td.starClub {
-	height: 65px;
-	vertical-align: middle;
-	text-align: center;
-}
-
-#flexFooter td.starClub img {
-	float: left;
-}
-
-#flexFooter td.starClub a {
-	
-}
-
-#footerLinks {
-	width: 966px;
-	text-align: center;
-	font: bold 9px/14px Helvetica,Arial,sans-serif;
-	text-transform: uppercase;
-color:#999;
-}
-
-#footerLinks a {
-	color:#FFF;
-}
-
-#footerLinks div {
-	margin: 5px 0 15px 0;
-}
-
-.footerSeals {
-	margin: 0 auto;
-	padding: 0;
-	border-collapse: collapse;
-}
-
-.footerSeals td {
-	padding: 0 5px;
-}
-
-/* search result adjustment */
-
-#search_results {
-	padding: 0;
-	width: 824px;
-}
-
-html>body #search_results {
-	width: 824px;
-}
-
-#search_results table td .product_border {
-	width: 133px;
-}
-html>body #search_results table td .product_border {
-	width: 133px;
-}
-
-#order_summary { 
-    color: #90c7ff; 
-    padding-right:5px; 
-    white-space: nowrap;
-}
-
-
-#custgreet a, #custgreet a:hover {
-color: fff;
-}			
-	#guest_welcome {
-	font-family:Arial, Helvetica, sans-serif;
-	font-size:12px;
-	color:#90c7ff;
-	}
-	#guest_welcome a {
-	color:#90c7ff;
-	}
-	#guest_welcome a:hover {
-	color:#90c7ff;
-	}
-	#guest_welcome a:visited {
-	color:#90c7ff;
-	}
-	#member_welcome {
-	font-family:Arial, Helvetica, sans-serif;
-	font-size:12px;
-	color:#fff;
-	font-weight:bold;
-	}
-	#member_welcome a {
-	color:#90c7ff;
-	}
-	#member_welcome a:hover {
-	color:#90c7ff;
-	}
-	#member_welcome a:visited {
-	color:#90c7ff;
-	}
-	#not_member_welcome {
-	font-family:Arial, Helvetica, sans-serif;
-	font-size:11px;
-	color:#90c7ff;
-	}
-	#not_member_welcome a {
-	color:#90c7ff;
-	}
-	#not_member_welcome a:hover {
-	color:#90c7ff;
-	}
-	#not_member_welcome a:visited {
-	color:#90c7ff;
-	}
-
-#custgreet A {
-text-decoration:underline;
-}
-
-#custgreet DIV {
-display:inline;
-padding-right:10px;
-} 
+					@import 'http://t.p.mybuys.com/css/mbstyles.css'; 
 	.checkout_step {
 		height: 35px;
 		background-color: transparent;
@@ -628,11 +225,7 @@ padding-right:10px;
 
                 </style>
             
-    
-	
-	
-	
-<script language="javascript1.1" src="http://www.footaction.com/coremetrics/v40/eluminate.js" type="text/javascript"></script>
+<script language="javascript1.1" src="/shared/coremetrics/eluminate.js" type="text/javascript"></script>
 
 <script language="javascript1.1" src="http://www.footaction.com/coremetrics/cmdatatagutils.js" type="text/javascript"></script>
 
@@ -647,43 +240,70 @@ padding-right:10px;
 		cmSetProduction();
 		cm_HOST = "rpt.footaction.com" + "/eluminate?";
 	
-		cmCreatePageviewTag("Cust Service: PrivacyPolicy", "CustServ", null, null);
+		cmCreatePageviewTag("Customer Service: otherServices: privacyPolicy", "CSprivacyPolicy", null, null);
 		
 //-->
 </script>
 
 <!-- END COREMETRICS -->
-<link rel="stylesheet" type="text/css" href="http://www.footaction.com/images/fa/headers/cust_serv/cust_serv_style.css">
-<style type="text/css">
-#wl_list .item_thumb IMG {  border: 1px solid black; }
-#order_summary a, #order_summary a:hover, #order_summary a:visited {
-text-decoration:none;
-cursor:pointer;
+
+    
+	
+	
+	
+<script language="javascript1.1" src="/shared/coremetrics/eluminate.js" type="text/javascript"></script>
+
+<script language="javascript1.1" src="http://www.footaction.com/coremetrics/cmdatatagutils.js" type="text/javascript"></script>
+<!-- START Header -->
+<link rel="stylesheet" type="text/css" href="/ns/css/fa-combine-master-test-v2.3.css">
+
+<style>
+#helpheader {
+	position: relative;
+}
+.chat-custserv-header-button {
+	position: absolute;
+	top: 0;
+	left: 476px;
+	z-index: 100;
 }
 </style>
-<div id="body">
-	<div id="wrapper">
+
+<script type="text/javascript" language="javascript" src="/ns/chat/js/hours-toggle.js"></script> 
+<script type="text/javascript" language="javascript" src="/ns/common/js/responseLiveChat.js"></script>
+<script type="text/javascript" language="javascript">
+$(document).ready(function() {
+	$("#helpheader").append("<div class=\"chat-custserv-header-button\"><a href=\"#\" onClick=\"cmCreateConversionEventTag('Live Chat',1,'Chat',0); cmCreateConversionEventTag('Live Chat',2,'Chat',0); startChatAndCobrowse(gIChannel, gServer, gAttachedData, prefillValues, agentOnlyValues, bEnterOnQueuePage); return false;\"><img src=\"/images/eb/global/pixel.gif\" height=\"186\" width=\"254\" border=\"0\" /></a></div>");
+});
+</script>
+
+
+<div id="wrapper">
+    
 <noscript>
-<div class="noscript_error">
-	<p>We're Sorry! You must have JavaScript enabled in your browser to experience all of the features of our site and to be able to place an order.</p>
-    <p>To continue, please enable JavaScript by changing the preferences in your browser, then fresh the page.  <a href="http://www.footaction.com/promo/default/promoId--5002690/" title="JavaScript Help Page">Click Here</a> for detailed instrcutions.<br />You may also call <strong>1.800.863.8932</strong> to place your order!</p>
-</div>
+    <div class="noscript_error">
+        <p>We're Sorry! You must have JavaScript enabled in your browser to experience all of the features of our site and to be able to place an order.</p>
+        <p>To continue, please enable JavaScript by changing the preferences in your browser, then fresh the page.  <a href="http://www.footaction.com/promo/default/promoId--5002690/" title="JavaScript Help Page">Click Here</a> for detailed instrcutions.<br />You may also call <strong>1.800.863.8932</strong> to place your order!</p>
+    </div>
 </noscript>
-		<div id="topnav" style="background: black url(http://www.footaction.com/images/fa/topnav/fa_header.jpg) top left no-repeat">
- 		<table id="headerTable" class="header_background_color">
-		<tbody><tr>
-			<td width="40%" id="homelink"><a href="http://www.footaction.com/"><img src="http://www.footaction.com/images/fa/topnav/fa_header_logo.gif" alt="Footaction Home"></a></td>
-			<td width="60%">
-				<table id="headerLinks">
-				<tbody><tr>
-                	<!---<td>&nbsp;</td>--->
-					<td class="headerLinks">
-						  	<!-- customer greeting div -->
-	<span id="custgreet">
-		<div id="welcome_area"><span id="guest_welcome">Welcome, Guest, click here to <a href="javascript:openLoginDialogForID('guest_welcome_login', null, null, function() {updateWelcome()}, null,'Guest Message', 'Log In', 'true', 'true')" id="guest_welcome_login" rel="nofollow">log in</a> 
-								or <a href="https://www.footaction.com/account/default/action--accountCreate/" rel="nofollow">register</a>.</span></div>
-	</span>
-						<span id="order_summary"><a href="http://www.footaction.com/catalog/shoppingCart/">
+
+<div id="fa_header_container">
+    <div class="fa_logo"><a href="http://www.footaction.com" title="FootAction Home"><img src="http://www.footaction.com/images/fa/global/pixel.gif" alt="FootAction Home" width="282" height="62"></a></div>
+	<div class="fa_service_links">
+    	<ul>
+        	<li>1.800.863.8932</li>
+            <li><a href="http://www.footaction.com/content/custserv/">Help</a></li>           
+            <li><a href="https://www.footaction.com/account/default/action--orderStatus/">Order Status</a></li>
+            <li><a href="https://www.footaction.com/wishlist/">Wish List</a></li> 
+            <li><a href="https://www.footaction.com/account/">My Account / Star Club Log In</a></li>
+            <li><a href="http://facebook.com/footaction" title="Footaction on Facebook" target="_blank"><img src="/ns/images/fa-facebook-icon.jpg" alt="Become a Fan on Facebook" width="16" height="15" border="0"></a></li>
+        </ul>
+    </div>
+    
+    <div class="fa_login_shop_cart">
+    	<span id="custgreet"><div id="welcome_area"><span id="guest_welcome">Welcome, Guest, click here to <a href="javascript:openLoginDialogForID('guest_welcome_login', null, null, function() {updateWelcome()}, null,'Guest Message', 'Log In', 'true', 'true')" id="guest_welcome_login" rel="nofollow">log in</a> 
+								or <a href="https://www.footaction.com/account/default/action--accountCreate/" rel="nofollow">register</a>.</span></div></span>
+        <span id="order_summary"><a href="http://www.footaction.com/catalog/shoppingCart/">
 
 <span class="order_summary_value" id="order_summary_content">
 
@@ -691,81 +311,67 @@ cursor:pointer;
 
 </span>
 </a></span>
-						<a id="shoppingcartLink" href="http://www.footaction.com/catalog/shoppingCart/" style="background: transparent url(http://www.footaction.com/images/fa/topnav/carticon.gif) center right no-repeat">SHOPPING CART</a>
-<div id="seach-background">						
-<script type="text/javascript">
-                            function advancedSearch(thisForm)
-                            {
-                                if (thisForm.keyword.value == 'Enter Keyword/Product #')
-                                    thisForm.keyword.value = "";';'
-                            }
-                        </script>
-                        <form name="keywordSearch" action="http://www.footaction.com/catalog/advancedSearch/" method="get" onsubmit="advancedSearch(this)">
-                            <input type="hidden" name="search" value="k">
-                           
-                                <span id="search">SEARCH</span>&nbsp;<input type="text" id="searchKeywordInput" name="keyword" maxlength="40" style="color: #999999;border: 0px outset #fff; height:23px; width:225px; margin-top:11px;margin-right:5px; font-size:15px;" value="Enter Keyword/Product #" onfocus="this.style.color=&quot;black&quot;;this.value=&quot;&quot;;">
-                           
-                            <input type="image" src="http://www.footaction.com/images/fa/topnav/art-submit-button.gif" height="33" width="33" align="absmiddle" alt="" id="submit-button">
-                        </form>
-</div>
-                          
-                        <ul id="cust-serv" style="width:100%">
-<li>1.800.863.8932</li>
-<li><a href="http://www.footaction.com/content/custserv/">HELP</a></li>           
-<li><a href="https://www.footaction.com/account/default/action--orderStatus/">ORDER STATUS</a></li>
-<li> <a href="https://www.footaction.com/wishlist/">WISH LIST</a></li> 
-<li class="more_right"> <a href="https://www.footaction.com/account/">MY ACCOUNT / STAR CLUB LOG IN</a></li>
-						
+        <a id="shoppingcartLink" href="http://www.footaction.com/catalog/shoppingCart/">SHOPPING CART</a>
+    </div>
+    
+	<script type="text/javascript">
+		function advancedSearch(thisForm)
+		{
+			if (thisForm.keyword.value == 'Enter Keyword/Product #')
+				thisForm.keyword.value = "";';'
+		}
+    </script>
+    
+    <form name="keywordSearch" action="http://www.footaction.com/catalog/advancedSearch/" method="get" onsubmit="advancedSearch(this)">
+        <input type="hidden" name="search" value="k">
+        <div class="fa_search_box">
+            <div class="search_text_container"><span id="search">SEARCH</span><input class="search_box_text" type="text" id="searchKeywordInput" name="keyword" maxlength="40" value="Enter Keyword/Product #" onfocus="this.style.color=&quot;black&quot;;this.value=&quot;&quot;;"></div>
+        	<div class="search_submit_container"><input class="search_submit" type="image" src="http://www.footaction.com/images/fa/global/pixel.gif" height="33" width="33" alt="" id="submit-button"></div>
+        </div>
+    </form>
 
-                        </ul>
-					</td>
-				</tr>
-				</tbody></table>
-			</td>
-		</tr>
-		<tr>
-			<td id="navigations" colspan="2">
-            	<table>
-                <tbody><tr>
-                    <td>
-                    	<ul>
-                            <li class="firstItem"><a href="http://www.footaction.com/catalog/category/name--jordan/" title="Jordan Shoes, Clothing &amp; Accessories">JORDAN</a></li>
-                            <li><a href="http://www.footaction.com/catalog/category/name--shoes/" title="Basketball Shoes, Running Shoes, Casual Shoes...">SHOES</a></li>
-                            <li><a href="http://www.footaction.com/catalog/category/name--clothing/" title="Casual Clothing: T-Shirts, Hoodies, Jeans...">CLOTHING</a></li>
-                            <li><a href="http://www.footaction.com/promo/default/promoId--5002630/" title="Street Fashion">STREET</a></li>
-                            <li><a href="http://www.footaction.com/catalog/category/name--accessories/" title="Accessories: Hats, Watches, Belts...">ACCESSORIES</a></li>
-                            <li><a href="http://www.footaction.com/catalog/category/name--brands/" title="Shop by Brand...">BRANDS</a></li>
-                            <li><a href="http://www.footaction.com/catalog/category/name--outlet/" title="Sale Sporting Goods">OUTLET</a></li>
-                                                 </ul>
-                    </td>
-					<td class="topnav_giftcard"><a style="background: transparent url(http://www.footaction.com/images/fa/topnav/fa_header_gc.gif) center left no-repeat" href="http://www.footaction.com/promo/default/promoId--5002121/" title="Footaction GiftCards">GIFTCARDS</a></td>
-                    <td class="topnav_facebook"><a href="http://facebook.com/footaction" title="Footaction on Facebook" target="_blank"><img src="//www.footaction.com/ns/header/images/FA-Facebook-logo.jpg" width="21" height="20" border="0"></a></td>
-                    <td class="topnav_starclub"><div class="starclub_container"><div class="starclub_link"><a href="http://www.footaction.com/promo/default/promoId--5002122/" title="Join the Star Club"></a></div><div class="starclub_image"></div></div></td>
-                </tr>
-                </tbody></table>
-			</td>
-		</tr>
-		</tbody></table>
-		</div> 
+	<div class="fa_global_nav">
+    	<ul>
+            <li><a href="http://www.footaction.com/catalog/category/name--jordan/" title="Jordan Shoes, Clothing &amp; Accessories">JORDAN</a></li>
+            <li><a href="http://www.footaction.com/catalog/category/name--shoes/" title="Basketball Shoes, Running Shoes, Casual Shoes...">SHOES</a></li>
+            <li><a href="http://www.footaction.com/catalog/category/name--clothing/" title="Casual Clothing: T-Shirts, Hoodies, Jeans...">CLOTHING</a></li>
+            <li><a href="http://www.footaction.com/promo/default/promoId--5002630/" title="Street Fashion">STREET</a></li>
+            <li><a href="http://www.footaction.com/catalog/category/name--accessories/" title="Accessories: Hats, Watches, Belts...">ACCESSORIES</a></li>
+            <li><a href="http://www.footaction.com/catalog/category/name--brands/" title="Shop by Brand...">BRANDS</a></li>
+            <li><a href="http://www.footaction.com/catalog/category/name--outlet/" title="Sale Sporting Goods">OUTLET</a></li>
+            <li class="right_float"><a href="http://www.footaction.com/content/locator/" title="Store Locator">Store Locator</a></li>
+        </ul>
+    </div>
+
+    
+</div><!-- close fa_header_container -->
+
+<!-- END Header --> 
     <img valign="top" src="http://www.footaction.com/images/fa/global/pixel.gif" height="2" border="0"><br>
     
+        <style>
+                #product_freeShipping, #pdp_freeShipping, .product_freeShipping {
+                        display: none;
+                }
+        </style>
+
 	<script language="javascript">
 		<!--
-		viewBannerEvent("", 90);
+		viewBannerEvent("20% Off $75", 90);
 		//-->
 	</script>
 
-		<!-- tpbann --><img src="http://www.footaction.com/images/fa/headers/fagb120210a.jpg" border="0" usemap="#Mapban">
-<map name="Mapban"><area shape="poly" coords="1,1,673,4,690,37,2,38" href="http://www.footaction.com/ns/2010/fagb120210a/fagb120210a.html" target="_blank" alt="Free Shipping On Orders Over $75">
-<area shape="poly" coords="963,5,681,4,696,36,955,36" href="http://www.footaction.com/promo/default/promoId--5002121/" alt="Footaction Reward Card">
-</map><!-- end tpbann -->
+		<!-- tpbann --><a href="http://www.footaction.com/ns/disclaimers/fagb051811a/fagb051811a.html" target="_blank" alt="Free Shipping On Orders Of $75 Or More"><img src="http://www.footaction.com/images/fa/headers/fagb051811a.jpg" border="0"></a><!-- end tpbann -->
 	
     <table id="contentTable"><tbody><tr><td id="contentTableBody">
 
+	<script type="text/javascript" src="http://t.p.mybuys.com/js/mybuys3.js"></script>
+	<script type="text/javascript" src="http://t.p.mybuys.com/clients/FOOTACTION/js/setup.js"></script>
 
 <script language="Javascript">		
-	var inlineAddToCartEnabled = false;
-	var useMyBuyYMALS = false;
+	var inlineAddToCartEnabled = true;
+	var useMyBuyYMALS = true;
+	var co_cd = '34';
 </script>
 
 
@@ -841,8 +447,6 @@ cursor:pointer;
 					<li><a href="http://www.footaction.com/content/custserv/help--otherServices/">Other Services</a></li>
 				
 					<li><a href="http://www.footaction.com/content/custserv/help--search_tips/">Website Search Tips</a></li>
-				
-					<li><a href="http://www.footaction.com/content/custserv/help--generalSizing/">General Sizing Information</a></li>
 				
 					<li><a href="http://www.footaction.com/content/custserv/help--sportSpecificSizing/">Sport-Specific Sizing Help, Tips &amp; Information</a></li>
 				
@@ -958,134 +562,116 @@ cursor:pointer;
 	<div class="clear"></div>
 </div>
 
+
 	<footer>
     </footer></td></tr></tbody></table>
-    <style type="text/css">
+    <!-- START Footer -->
 
-#slot-star-club {
-	width:auto;
-	height:auto;
-	text-align:center;
-	font:normal 8pt/12pt Arial, Helvetica, sans-serif;
-	color:#999;
-	overflow:hidden;
-}
-
-#slot-star-club a {
-	color:#ffb926;
-	text-decoration:none;
-}
-
-#slot-star-club a:hover {
-	color:#FFF;
-	text-decoration:none;
-}
-
-
-.white_text {color:#FFFFFF; text-transform:uppercase}
-.gray_text {color:#999}
-
-#flexFooter td.lastItem {text-align:center}
-</style>
-
-
-
-<div id="bottomnav">
-		<table id="flexFooter" style="background: transparent url(http://www.footaction.com/images/fa/bottomnav/fa_footer.jpg) top left no-repeat">
-		<tbody><tr>
-            <th><span>MOST POPULAR</span></th>
-            <th><span>NEW ARRIVALS</span></th>
-            <th><span>SHOPPING HELP</span></th>
-            <th><span>CUSTOMER SERVICE</span></th>
-			<th class="lastItem"><span>STAR CLUB</span></th>
-		</tr><tr>
-		</tr><tr>
-            <td rowspan="2">
-            	<ul>
-                	<li><a href="http://www.footaction.com/promo/default/promoId--5002343/" title="Jordan Shoes">JORDAN SHOES</a></li>
-                    <li><a href="http://www.footaction.com/catalog/advancedSearch/search--k/keyword--basketball+shoes/" title="Basketball Shoes">BASKETBALL Shoes</a></li>
-                    <li><a href="http://www.footaction.com/promo/default/promoId--5002673/" title="Boot Collection">BOOT COLLECTION</a></li>
-                    <li><a href="http://www.footaction.com/catalog/advancedSearch/search--k/keyword--nike+casual+shoes/" title="Nike Casual Shoes">NIKE CASUAL SHOES</a></li>
-                    <li><a href="http://www.footaction.com/catalog/advancedSearch/search--k/keyword--nike+lebron+shoes/" title="Nike Lebron Shoes">NIKE LEBRON SHOES</a></li>
-                    <li><a href="http://www.footaction.com/promo/default/promoId--5002446/" title="Casual Shoes">CASUAL SHOES</a></li>
-                </ul>
-            </td>
-            <td rowspan="2">
-            	<ul>
-                	<li><a href="http://www.footaction.com/catalog/advancedSearch/search--k/keyword--nike+hyperfuse/" title="Nike Hyperfuse">NIKE HYPERFUSE</a></li>
-                    <li><a href="http://www.footaction.com/catalog/advancedSearch/search--k/keyword--nike+zoom+kobe+v/" title="Nike Zoom Kobe V">NIKE ZOOM KOBE V</a></li>
-                    <li><a href="http://www.footaction.com/catalog/advancedSearch/search--k/keyword--nike+lebron+8/" title="Nike Air Max Lebron 8">LEBRON 8</a></li>
-                    <li><a href="http://www.footaction.com/catalog/advancedSearch/search--k/keyword--jordan+retro+shoes/" title="Jordan Retro Shoes">JORDAN RETRO</a></li>
-                    <li><a href="http://www.footaction.com/catalog/advancedSearch/search--k/keyword--nike+air+force+shoes/" title="Nike Air Force Shoes">NIKE AIR FORCE SHOES</a></li>
-                    <li><a href="http://www.footaction.com/catalog/advancedSearch/search--k/keyword--under+armour+basketball+shoes/" title="Under Armour Basketball">UNDER ARMOUR BASKETBALL</a></li>
-                    <li><a href="http://www.footaction.com/catalog/advancedSearch/search--k/keyword--sale+jordan+shoes/" title="Jordan Great Deals">JORDAN GREAT DEALS</a></li>
-                </ul>            
-            </td>
-            <td rowspan="2">
-            	<ul>
-                    <li><a href="http://www.footaction.com/content/custserv/help--shipInfo/" title="Shipping Info">Shipping Info</a></li>
-                    <li><a href="http://www.footaction.com/promo/default/promoId--5002121/" title="Footaction GiftCards">GIFT CARDS</a></li>
-                    <li><a href="http://www.footaction.com/content/custserv/help--sizing_help/" title="Sizing Information">SIZING HELP</a></li>
-                    <li><a href="http://www.footaction.com/promo/default/promoId--5002122/" title="Footaction Star Club">STAR CLUB</a></li>
-                    <li><a href="http://www.footaction.com/content/custserv/help--account/" title="My Footaction Account">MY ACCOUNT</a></li>
-                    <li><a href="http://www.footaction.com/content/custserv/help--returnsExchanges/" title="Returns &amp; Exchange Information">RETURNS and EXCHANGES</a></li>
-<li><a href="http://www.footaction.com/sitemap/" title="Footaction.com Sitemap">Sitemap</a></li>
-               </ul>                
-            </td>
-            <td rowspan="2">
-            	<ul>
-                    <li><a href="http://www.footaction.com/content/custserv/help--orderInfo/" title="Ordering Information">ORDERING HELP</a></li>
-                    <li><a href="http://www.footaction.com/content/locator/" title="Find a Footaction Store">STORE LOCATOR</a></li>
-                    <li><a href="http://www.footaction.com/content/custserv/help--privacyPolicy/" title="Privacy Statement">PRIVACY POLICY</a></li>
-                    <li><a href="http://www.footaction.com/content/custserv/help--terms/" title="Terms of Use">TERMS OF USE</a></li>
-                    <li><a href="http://www.footaction.com/content/custserv/help--contactUs/" title="Contact Footaction.com">CONTACT US</a></li>
-                    <li><a href="http://www.footaction.com/content/custserv/help--otherSettlements/" target="_blank" title="Settlements">SETTLEMENTS</a></li>
-                    <li><a href="http://www.footlocker-inc.com/company.cfm?page=footaction" target="_blank" title="About Footaction">ABOUT US</a></li>
-                    <li><a href="http://www.footactioncareers.com/" target="_blank" title="Work at Footaction">JOB OPPORTUNITIES</a></li>                    
-				</ul>                
-            </td>
-			<td class="lastItem">
-            <div id="slot-star-club">
-            	<a href="http://www.footaction.com/promo/default/promoId--5002122/" title="Join the Star Club">
-                    <img src="//www.footaction.com/ns/footer/FA-Star-Club-logo.jpg" alt="Star Club" width="169" height="38" border="0"><br>
-                    <span class="gray_text">Exclusive offers and coupons<br>Star Club access to special events</span><br>
-                    <span class="white_text">JOIN NOW AND GET $10<br>OFF A FUTURE PURCHASE</span><br>
+<div class="fa_footer_container">
+	<div class="fa_footer_top">
+    	<div class="fa_footer_top_slot">
+        	<div class="fa_footer_top_title"><h2>Email Updates</h2></div>
+            <div class="foot_email_icon">&nbsp;</div>
+            <div class="foot_email"><a href="http://footaction.p0.com/footaction_emailclub.jsp" target="_blank" title="Email Updates">Get Updates on<br> new releases<br> and special offers!<br>Sign up Now »</a></div>
+        </div>
+        
+        <div class="fa_footer_top_slot foot-gc-slot">
+        	<div class="fa_footer_top_title foot-gc-slot"><h2>Gift Cards</h2></div>
+            <div class="foot_gc_icon">&nbsp;</div>
+            <div class="foot_gc"><a href="http://www.footaction.com/promo/default/promoId--5002121/" title="Gift Cards">Never Expires<br>&amp; No Fees. Even<br>If the card<br>says otherwise</a></div>
+        </div>
+        
+        <div class="fa_footer_top_slot">
+        	<div class="fa_footer_top_title"><h2>Most Popular</h2></div>
+            <ul>
+                <li><a href="http://www.footaction.com/promo/default/promoId--5002343/" title="Jordan Shoes">JORDAN SHOES</a></li>
+                <li><a href="http://www.footaction.com/catalog/advancedSearch/search--k/keyword--basketball+shoes/" title="Basketball Shoes">BASKETBALL SHOES</a></li>
+                <li><a href="http://www.footaction.com/catalog/advancedSearch/search--k/keyword--nike+air+max/" title="Nike Air Max">NIKE AIR MAX</a></li>
+                <li><a href="http://www.footaction.com/catalog/advancedSearch/search--k/keyword--nike+casual+shoes/" title="Nike Casual Shoes">NIKE CASUAL SHOES</a></li>
+                <li><a href="http://www.footaction.com/catalog/advancedSearch/search--k/keyword--nike+running+shoes/" title="Nike Running Shoes">NIKE RUNNING SHOES</a></li>
+                <li><a href="http://www.footaction.com/catalog/advancedSearch/search--k/keyword--adidas+originals+shoes/" title="Adidas Originals Shoes">ADIDAS ORIGINALS SHOES</a></li>
+            </ul>
+        </div>
+        
+        <div class="fa_footer_top_slot">
+        	<div class="fa_footer_top_title"><h2>New Arrivals</h2></div>
+            <ul>
+                <li><a href="http://www.footaction.com/catalog/advancedSearch/search--k/keyword--nike+kobe/" title="Nike Kobe">NIKE KOBE</a></li>
+                <li><a href="http://www.footaction.com/catalog/advancedSearch/search--k/keyword--nike+lebron/" title="Nike Lebron">NIKE LEBRON</a></li>
+                <li><a href="http://www.footaction.com/catalog/advancedSearch/search--k/keyword--nike+air+force+1/" title="Nike Air Force 1's">NIKE AIR FORCE 1</a></li>
+                <li><a href="http://www.footaction.com/catalog/advancedSearch/search--k/keyword--jordan+retro+shoes/" title="Jordan Retro Shoes">JORDAN RETRO SHOES</a></li>
+                <li><a href="http://www.footaction.com/catalog/advancedSearch/search--k/keyword--nike+running+shoes/" title="Nike Running Shoes">NIKE RUNNING SHOES</a></li>
+                <li><a href="http://www.footaction.com/catalog/advancedSearch/search--k/keyword--nike+basketball+shoes/" title="Nike Basketball Shoes">NIKE BASKETBALL SHOES</a></li>
+            </ul>
+        </div>
+		
+        <div class="fa_footer_top_slot foot-wide-slot">
+        	<div class="fa_footer_top_title foot-wide-slot"><h2>Star Club</h2></div>
+            <div class="foot_star_club">
+                <a href="http://www.footaction.com/promo/default/promoId--5002122/" title="Join the Star Club">
+                    <span class="text-gray">Exclusive offers and coupons<br>Star Club access to special events</span><br>
+                    <span class="text-white">JOIN NOW AND GET $10<br>OFF A FUTURE PURCHASE</span><br>
                     Get Connected »
                 </a>
             </div>
-			</td>
-		</tr>      
-		</tbody></table>
-	
-		<div id="footerLinks">
-			<div id="footerCopyRight">
-                © 2004-2010 Footlocker.com, Inc. All Rights Reserved<br>
-                We are constantly changing prices to offer the best value to our customers. Footaction.com features many products that aren't available in our stores.  
-			</div>
-			<cfset paypal="true">
-			<div id="footerSeals">
-				<cfif paypal_enabled="" is="" true="">
-					</cfif><table class="footerSeals">
-				<tbody><tr>
-                	<td><a href="http://www.footaction.com/promo/default/promoId--5002634/" title="Veterans Discount Program"><img src="http://www.footaction.com/images/fa/headers/veteransadvantage.jpg" alt="Veterans Discount Program" width="57" height="45" border="0"></a></td>
-					<td>
-						</td><td><ignoreurlreformat>
-                                    <!-- START SCANALERT CODE -->
-                                    <a target="_blank" href="https://www.scanalert.com/RatingVerify?ref=www.footaction.com"><img src="//images.scanalert.com/meter/www.footaction.com/31.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE is a Trademark of ScanAlert'); return false;"></a>
-                                    <!-- END SCANALERT CODE -->               
-                              </ignoreurlreformat></td>			
-					
-					<td>
-						<a href="http://www.paypal.com" target="_new"><img src="http://www.footaction.com/images/fa/paypal/btn_paypal_AcceptMark_68x43.gif" border="0" alt="PayPal"></a>
-					</td>
-						
-				</tr>
-				</tbody></table>
-			</div>		
-		</cfset></div>	
-	</div>
- 
-	</div> 
-	</div> 
+        </div>
+    </div><!-- close fa_footer_top -->
+
+	<div class="fa_footer_help_links">
+    	<p>
+            <a href="http://www.footaction.com/content/custserv/help--orderInfo/" title="Ordering Information">Ordering Help</a>
+            <a href="http://www.footaction.com/content/custserv/help--privacyPolicy/" title="Privacy Statement">Privacy Policy</a>
+            <a href="http://www.footaction.com/content/custserv/help--terms/" title="Terms of Use">Terms of Use</a>
+            <a href="http://www.footaction.com/content/custserv/help--contactUs/" title="Contact Footaction.com">Contact Us</a>
+            
+            <a href="http://www.footlocker-inc.com/company.cfm?page=footaction" target="_blank" title="About Footaction">About Us</a>
+            
+            <a href="http://www.footaction.com/content/custserv/help--shipInfo/" title="Shipping Info">Shipping Info</a>
+            <a href="http://www.footaction.com/content/custserv/help--sportSpecificSizing/" title="Sizing Help">Sizing Help</a>
+            <a class="foot-no-border" href="http://www.footaction.com/content/custserv/help--returnsExchanges/" title="Returns And Exchanges">Returns &amp; Exchanges</a>               
+        </p>
         
+        <p>
+        	<a href="http://www.footaction.com/sitemap/" title="Sitemap">Sitemap</a>
+            <a href="http://www.footactioncareers.com/" target="_blank" title="Work at Footaction">Career Opportunities</a>
+            <a href="http://www.footaction.com/content/locator/" title="Find a Footaction Store">Store Locator</a>
+            <a class="foot-no-border" href="http://www.footaction.com/content/custserv/help--otherSettlements/" title="Settlements">Settlements</a>
+        </p>
+        
+        <p class="foot-more-margin">2004-2011 Footlocker.com, Inc. All Rights Reserved<br>We are constantly changing prices to offer the best value to our customers. Footaction.com features many products that aren't available in our stores.</p>
+    </div><!-- close fa_footer_help_links -->
+	
+    <div class="fa_footer_seals">
+    	<div class="footer_slot_space">&nbsp;</div>
+		<div class="footer_seals_slot"><a href="http://www.footaction.com/promo/default/promoId--5002634/" title="Veterans Discount Program"><img src="http://www.footaction.com/images/fa/headers/veteransadvantage.jpg" alt="Veterans Discount Program" width="57" height="45" border="0"></a></div>
+        <div class="footer_seals_slot">
+            
+            <!-- START SCANALERT CODE -->
+            <a target="_blank" href="https://www.scanalert.com/RatingVerify?ref=www.footaction.com"><img src="//images.scanalert.com/meter/www.footaction.com/31.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE is a Trademark of ScanAlert'); return false;"></a>
+            <!-- END SCANALERT CODE -->            
+            
+        </div>
+        <div class="footer_seals_slot">
+            <cfset paypal="true">
+                <cfif paypal_enabled="" is="" true="">
+                <a href="http://www.paypal.com" target="_blank"><img src="http://www.footaction.com/images/fa/paypal/btn_paypal_AcceptMark_68x43.gif" border="0" alt="PayPal"></a>
+            </cfif>	
+        </cfset></div>
+        <div class="versign_slot"><script type="text/javascript" src="https://seal.verisign.com/getseal?host_name=www.footaction.com&amp;size=S&amp;use_flash=YES&amp;use_transparent=YES&amp;lang=en"></script><br><a href="http://www.verisign.com/ssl-certificate/" target="_blank" style="color:#FFF; text-decoration:none; font:bold 7px verdana,sans-serif; letter-spacing:.5px; text-align:center; margin:0px; padding:0px;">ABOUT SSL CERTIFICATES</a></div>
+    </div><!-- close fa_footer_seals -->
+
+</div><!-- close fa_footer_containre -->
+<!-- END Footer -->
+
+</div><!-- close wrapper --> 
+	 
+	 
+        
+
+	 <script type="text/javascript"> 
+        try { mybuys.deferInitPage(); } catch(e) {}; 
+        $(document).ready(function() { 
+            try { mybuys.initPage(); } catch(e) {}; 
+        }); 
+    </script>
 </body></html>
