@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pinpointe.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228124630id_/http%3A//www.pinpointe.com/product-details/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinpointe.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523080557id_/http%3A//www.pinpointe.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Pinpointe Email Marketing
+# Pinpointe Privacy Policy. We respect your privacy.
 
-We respect and are committed to protecting your privacy. This privacy policy lets you know how your personal information is collected and used, both by Pinpointe and our clients who use our hosted application. We have created this privacy policy so that you can understand the care with which we intend to treat your personal information. If you have any questions about our privacy policy, please contact us. 
+We respect and are committed to protecting your privacy. This privacy policy lets you know how your personal information is collected and used, both by Pinpointe and our clients who use our hosted application. We have created this privacy policy so that you can understand the care with which we intend to treat your personal information. If you have any questions about our privacy policy, please contact us.
 
 ### Our Commitment to You
 
@@ -42,11 +42,11 @@ From time to time, we send a “Pinpointe Tips ‘N Tricks Newsletter” email n
 
 We do not share your personally identifiable information with any 3rd parties.
 
-We may temporarily store session information, so that registered users do not have to login every time they visit the site.
+We may store session information, so that registered users do not have to login every time they visit the site.
 
 We do not partner with or have special relationships with any ad server companies.
 
-When we send emails to our own registered Pinpointe customers, we’ll sometimes track who opened and who clicked. We do this to measure the performance of our email campaigns, and to improve our offerings to specific customer segments.
+When we send emails to our own registered Pinpointe customers, we track who opened and who clicked. We do this to measure the performance of our email campaigns, and to improve our offerings to specific customer segments.
 
 Some of our Web pages utilize “cookies” and other tracking technologies. Collected information may at times be tied to the users’ personally identifiable information, so that we can provide appropriate offers and improve the content of the site for the user. This profile is also used to tailor a user’s visit to our Website and to direct pertinent marketing information to them.
 
@@ -56,7 +56,7 @@ We reserve the right to disclose your personally identifiable information as req
 
 If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently.
 
-We use other third parties to handle secure credit card transaction processing from our site. When you make purchases on Pinpointe, we send your billing information as necessary for the third party to process your order.
+We use other third parties to handle secure credit card transaction processing from our site. When you make purchases on Pinpointe, we send your billing information as necessary for the third party to process your order.  Pinpointe does not store or retain your personal credit card information unless you request that we do in order to process your order(s).
 
 ### Safeguarding Your Information
 
