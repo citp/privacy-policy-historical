@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the moneycorp.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121171847id_/http%3A//www.moneycorp.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneycorp.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523133013id_/http%3A//www.moneycorp.com/Privacy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy | Moneycorp
 
 TTT is committed to ensuring that your personal information is used correctly and in accordance with the law.
 
@@ -28,10 +28,11 @@ We will ask you for it when you purchase our services
   * We will use your information to facilitate your order or enquiry and complete the delivery of our services.
   * We may use your information to enforce our rights if necessary.
   * Information will only be passed to a third party to facilitate your order or enquiry or for legal reasons. 
-  * Your information may be transferred outside the European Economic Area (EEA).
+  * Your information may be transferred outside the European Economic Area (EEA) to facilitate the purposes set out here.
   * Information relating to website usage will be used by us but may also be passed in aggregated statistical format to the third party service provider who facilitates visitor access to our site.
   * We may wish to use the information that we gather on you to provide you with information on our goods and services, which may include you receiving promotional mailings and e-mails. If you do not wish your information to be used in this way please let us know either by indicating in the tick boxes when providing us with your details or by contacting us using the contact details set out below.
   * Your information may be used, where possible in anonymous or aggregated format, to assist in servicing and maintaining our databases.
+  * We may use your personal data to ensure that our systems are tested thoroughly, This ensures that the system can cope with comparable volumes of information, that a wide range of realistic scenarios is covered and that the test will reflect all the possible combinations that occur in the real environment. Test systems are isolated from external networks to ensure that live systems are not compromised. In addition, to ensure data is not compromised, we carry out various risk assessments, and have implemented safeguards to ensure data security.
 
 
 
