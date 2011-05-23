@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the enmasse.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216033523id_/http%3A//en.enmasse.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enmasse.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523065902id_/http%3A//en.enmasse.com/privacy) for the most accurate reproduction.*
 
 # En Masse Entertainment
 
-En Masse Entertainment, Inc. ("En Masse", "we," or "our") respects your privacy and is committed to protecting the Personal Information that you may provide us while using our site located at [www.tera-online.com](http://www.tera-online.com/), [www.enmasse.com](http://www.enmasse.com/) and the services and features offered through the sites ("Site"). Your use of our Sites is subject to your agreement to the terms of this privacy policy ("Privacy Policy") and Terms of Service. 
+En Masse Entertainment, Inc. ("En Masse", "we," or "our") respects your privacy and is committed to protecting the Personal Information that you may provide us while using our site located at [www.tera-online.com/en](http://www.tera-online.com/en), [www.enmasse.com](http://www.enmasse.com/) and the services and features offered through the sites ("Site"). Your use of our Sites is subject to your agreement to the terms of this privacy policy ("Privacy Policy") and Terms of Service. 
 
 THIS PRIVACY POLICY IS A CONDITION OF ACCEPTANCE ON OUR SITE, INCLUDING, WITHOUT LIMITATION, THE SERVICES EN MASSE PERFORMS ON BEHALF OF ITS AFFILIATES. BY USING OUR SITE, YOU AGREE TO BE BOUND BY THIS POLICY'S TERMS AND CONDITIONS. 
 
