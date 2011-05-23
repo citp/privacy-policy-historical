@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the benelliusa.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228183033id_/http%3A//www.benelliusa.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the benelliusa.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523183626id_/http%3A//www.benelliusa.com/privacy) for the most accurate reproduction.*
 
 # Benelli Parts and Accessories | Privacy Policy
 
@@ -9,7 +9,7 @@ Benelli USA
 17603 Indian Head Hwy.  
 Accokeek, MD 20607 
 
-We can be reached via email at [webmaster@benelliusa.com](mailto:webmaster@benelliusa.com).
+We can be reached via our [contact us](http://www.benelliusa.com/support/contact.php) page.
 
 Our server automatically recognizes the domain name and email address (when possible) of each visitor to our website.
 
