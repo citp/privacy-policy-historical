@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livelinkcafe.com privacy policy that was archived on 2010-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101217174924id_/http%3A//www.livelinkcafe.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livelinkcafe.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523062844id_/http%3A//livelinkcafe.com/privacy.php) for the most accurate reproduction.*
 
 # Live Link Cafe - Free Exchange Link Network | Add My URL
 
@@ -12,7 +12,7 @@
   
 ---|---  
   
-Members: [ **6221** ]  
+Members: [ **8258** ]  
   
 * * *  
   
@@ -49,3 +49,12 @@ Cancel Your Membership / Opt Out
 
 If at any time you wish to close your account you may email your request to [](mailto:helpdesk@livelinkcafe.com) [helpdesk@livelinkcafe.com](mailto:helpdesk@livelinkcafe.com). Please be aware that terminating your account will cancel any and all credits due, without refund.   
 
+
+* * *
+
+  
+  
+---  
+  
+  
+[](http://bizoppers.com/?r=309608)
