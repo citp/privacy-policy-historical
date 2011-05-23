@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wapreview.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122120034id_/http%3A//wapreview.com/blog/%3Fpage_id%3D511) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wapreview.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523193440id_/http%3A//wapreview.com/blog/%3Fpage_id%3D511) for the most accurate reproduction.*
 
 # Privacy Policy for WapReview.com | Wap Review
 
@@ -23,6 +23,9 @@ You can chose to disable or selectively turn off our cookies or third-party cook
 Google AdSense is used on Wapreview.com.  Adsense serves ads based on the content of the sites you view.  As you browse websites that have partnered with Google or Google sites, such as YouTube, Google may place a cookie in your browser to track the types of pages visited or content that you viewed. Based on this information, Google associates your browser with relevant interest categories and uses these categories to show interest-based ads. For example, if you frequently visit travel websites, Google may show more ads related to travel.  Google will not associate sensitive interest categories with your browser (such as those based on race, religion, sexual orientation, health, or sensitive financial categories), and will not use such categories when showing you interest-based ads.
 
 **How do I opt out of interest-based advertising?**  
-If you prefer not to receive interest-based advertising, you can click the “Opt out” [button at the top of this page](http://www.google.com/privacy_ads.html), or click on the “Opt out” button on the [Google Ads Preferences Manager Page](http://www.google.com/ads/preferences/). Google also offers a number of options to [permanently save your opt-out settings](http://www.google.com/ads/preferences/plugin) in your browser. After you opt out, Google will not collect interest category information and you will not receive interest-based ads. 
+If you prefer not to receive interest-based advertising, you can click the “Opt out” [button at the top of this page](http://www.google.com/privacy_ads.html), or click on the “Opt out” button on the [Google Ads Preferences Manager Page](http://www.google.com/ads/preferences/). Google also offers a number of options to [permanently save your opt-out settings](http://www.google.com/ads/preferences/plugin) in your browser. After you opt out, Google will not collect interest category information and you will not receive interest-based ads.
 
-[](http://inmobi.com/smart-dev/worlddevfund/)
+**Affiliate Links**  
+Links to products and services on this site may be affiliate links. The prices you pay are the same or less than if you went directly to the seller's site but WapReview.com gets a small commission on products purchased. 
+
+[](http://www.inmobi.com/onlinecampaigns/adv/?ref=WapReview_AdvGeneric)
