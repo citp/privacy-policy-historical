@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the bad-dragon.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120184407id_/http%3A//www.bad-dragon.com/cart.php%3Ftarget%3Dhelp%26mode%3Dprivacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bad-dragon.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523024408id_/http%3A//www.bad-dragon.com/cart.php%3Ftarget%3Dhelp%26mode%3Dprivacy_statement) for the most accurate reproduction.*
 
 # Bad Dragon - Help
-
-We respect your privacy! 
 
 Bad Dragon is committed to respecting and protecting the privacy of visitors to our web sites as well as the privacy of our actual customers. For visitors, we've structured our web sites so that, in general, you can visit us on the web without identifying yourself or revealing any personal information. For customers, once you choose to provide us personally identifiable information (any information by which you can be identified), you can be assured that it will only be used to support your customer relationship with Bad Dragon unless indicated otherwise.
 
