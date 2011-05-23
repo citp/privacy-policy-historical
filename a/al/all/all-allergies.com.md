@@ -1,10 +1,13 @@
-> *The following text is extracted and transformed from the all-allergies.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120195048id_/http%3A//www.all-allergies.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the all-allergies.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523063655id_/http%3A//www.all-allergies.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : All Allergies
 
 Browse >
 
 [Home](http://www.all-allergies.com/ "Browse to: Home") / Privacy Policy 
+
+  
+
 
 Thank you for visiting All Allergies and for taking interest in our Privacy Policy. We have built this site with the objective of making it a valuable resource for you, and understand the importance of your privacy. We’re very aware of the need to respect, and protect the privacy of all our readers. We attempt to honor or exceed the legal requirements for medical/health information privacy for the state of New York, and the United States of America in general.
 
