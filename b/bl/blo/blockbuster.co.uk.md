@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blockbuster.co.uk privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228143555id_/http%3A//www.blockbuster.co.uk/help/popuphelp.aspx%3Ftopic%3D/help/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blockbuster.co.uk privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523123310id_/http%3A//www.blockbuster.co.uk/help/popuphelp.aspx%3Ftopic%3D/help/privacy.aspx) for the most accurate reproduction.*
 
 # Blockbuster Entertainment Limited ('Blockbuster', 'Us', 'We' or 'Our') is committed to protecting Our users' privacy
 
