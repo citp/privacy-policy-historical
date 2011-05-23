@@ -1,57 +1,61 @@
-> *The following text is extracted and transformed from the prestigecasino.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305103140id_/http%3A//www.prestigecasino.com/statements/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prestigecasino.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523055945id_/http%3A//www.prestigecasino.com/security.html) for the most accurate reproduction.*
 
-# Prestige Online Casino
+# Privacy and Security at Online Casinos
 
-Privacy Statement
+**USE OF YOUR INFORMATION**
 
-1\. Introduction
+2.1  Your personal data (meaning any information about You from which You can be personally identified, such as Your name, address, telephone number or email address, and which is referred to in this Privacy Policy as “ **Your Information** ”), will be processed by the Operator (which include its agents and employees), and (where appropriate) our partners and subcontractors in order to be able to provide the full range of the Services to You. Your Information is collected when You register to open an account with us; or when You submit a written query to us. 
 
-Prestige Gaming is committed to respecting and protecting your privacy.  
-This corporate wide Online Privacy Policy discloses the information practices for Prestige Gaming's sites on the Web.  
-You can visit most of Prestige Gaming's sites without providing us any information about yourself. However we will sometimes ask you to submit your personal information in order to provide services such as to respond to your inquiry, process your orders, provide you access to specific information. Please read this Privacy Policy carefully before you use any of Prestige Gaming's web sites. The application of this Privacy Policy is only for sites controlled by Prestige Gaming and not for web sites controlled by other companies or organizations we link to.  
+2.2  While the Websites may contain links to websites operated by parties other than the Operator (for example the UK Gambling Commission), the Operator is not responsible for the privacy practices or content of any such websites.
 
+2.3  By using any of the Services, You acknowledge that You have read, and agree to, the terms of this Privacy Policy and that, where You provide us with Your Information (including, for the avoidance of doubt, by submitting a query to us through one of the Websites, or where You only partially complete an account registration process), You consent to the use by the Operator (and our partners and subcontractors) of Your Information for the purposes set out in paragraph 3 of this Privacy Policy.
 
-2\. Information we collect
+2.4  If You do not wish to provide Your Information on the basis set out in this Privacy Policy You should not enter the relevant information in the spaces provided on the relevant part of any Website, or provide any of Your Information to us over the telephone. However if You do not provide such information, You may not be permitted to make full use of the relevant part of the Services.
 
-(1) Non-personally identifiable information  
-When you visit one of our web sites, we may store some information on your computer's hard drive in the form of a "Cookie". Cookies are text files that identify your computer to our server and do not collect any personal information in themselves. We may use cookies to serve you better and more efficiently, and to personalize your experience at our Sites. To do so, the cookies we use may record non-personally identifiable information pertaining to your preferences for viewing particular web pages. We may also use cookies to collect non-personally identifiable information to help us in analyzing trends, tracking user's movement, and gathering broad demographic information for aggregate use.
+2.5  As part of the account registration process, We also offer visitors registering with us the opportunity to “opt out” from keeping them informed of future events, offers and promotions from the Operator. Visitors who wish to take this option should ‘untick’ the relevant box in the registration process. You may update Your marketing preferences at any time through ‘My Account/Update Marketing Preferences’ (or similar) section of the Website (where available) or by contacting Customer Services. If (where available) You have chosen to receive information on future events, offers and promotions by SMS message to Your cellular telephone, You may “opt out” of receiving such information at any time by replying with the word “STOP”.
 
-(2) Personally identifiable information  
-At some Prestige Gaming's sites, you can play online games, enter contests, vote in polls or otherwise express an opinion, subscribe to one of our services such as our online newsletters, or participate in one of our online forums or communities. The types of personally identifiable information that may be collected at these pages include: name, address, e-mail address, telephone number, fax number, credit card information, and information about your interests in and use of various products, programs, and services.  
-We will not sell, rent, or lease your personally identifiable information to others.  
+ **WHAT TYPE OF INFORMATION WE COLLECT AND HOW WE USE IT**
 
+3.1  The Operator collects Your Information in order to:
 
-3\. Why information is collected
+3.1.1  Enable us to set up Your Account so that You can make full use of all of the features of the Services, including crediting Your account with funds, placing bets and playing games;
 
-Prestige Gaming's online game clients   
-To process your order, we will ask you for your personal information such as: name, e-mail address, delivery address, telephone number and credit card information.
+3.1.2  Enable us to receive questions and comments from You through our Online Help Centre, and for us to be able to respond to them;
 
-Online Registration  
-During game clients installation you will be asked to register yourself using an online registration. By registering yourself you become eligible for telephone and online technical support. Information collected from online registration will be used to improve our services and internal reports will not contain individual data. With your permission, we will send you information about new games or services from Prestige Gaming.
+3.1.3  Comply with relevant regulations regarding Your registration, for example completing age verification checks; and
 
-Surveys and Promotions   
-From time to time our site requests information from you via surveys or contests. Participation in these surveys or contests is completely voluntary and you therefore have a choice whether or not to disclose this information. Information requested may include contact information (such as name and email address), and demographic information (such as postal code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site.
+3.1.4  (provided that You do not “opt out” from this option), to keep You informed of future events, offers and promotions from the Operator.
 
-Mailing lists  
-Prestige Gaming occasionally provides the opportunity for visitors to supply their email address for the purpose of receiving specific newsletter or gaming related information.  
-These email addresses will only be used for this purpose and will **never** be shared with third parties.  
+3.2  In addition to the broad purposes identified in paragraph 3.1 above, the Operator will only use Your Information, including sharing Your Information with our third party partners and subcontractors who process data (including, where appropriate, Your Information) on our behalf, for:
 
+3.2.1  setting up, operating and managing Your Account; 
 
-4\. Access to personal information and Security of personal information 
+3.2.2  providing any of the Services which are requested of us, and for any proper purpose connected with such provision;
 
-How does Prestige Gaming protect customer information?  
-Prestige Gaming takes significant steps to protect your personally identifiable information with secure servers, from simple name registration to encrypted financial data used in e-commerce transactions. Any information you provide us is maintained and accessible only by Prestige Gaming.
+3.2.3  verifying the accuracy of Your Information, including disclosure of such information to third parties (including financial institutions, age verification, and credit reporting agencies) in connection with such purposes (a record of the search will be retained and the third party may use the information to assist other companies for verification purposes); 
 
-Third Party Partners  
-Prestige Gaming may work with other companies to provide offers and promotions that may be of interest to you. You will only receive notification of these offers if you have indicated your willingness to be contacted for such purposes and you will be contacted only by Prestige Gaming. In these cases, your data remains secure with us. Prestige Gaming will not sell or loan your data to third parties nor will any of the third parties be allowed access to your data.  
+3.2.4  preparing statistics related to the use of the Services by You and other customers; 
 
+3.2.5  to prepare and display appropriate individualised marketing material and content; 
 
-5\. Children's information
+3.2.6  periodically sending account holders written communications to announce important service changes, technical issue updates and changes to the Terms of Use (which includes this Privacy Policy); 
 
-While Prestige Gaming's web sites do not publish contents that are targeted at children, we are committed to comply with applicable laws and requirements, such as the United States' Children's Online Privacy Protection Act (COPPA). Children without the consent of their parent or guardian should submit no personally identifiable information to Prestige Gaming's web sites. Prestige Gaming will not knowingly collect from or use any personally identifiable information of children for any purpose, including disclosure to third parties.
+3.2.7  complying with our regulatory duties, obligations and responsibilities under the under the Gambling Act 2005 and to the Gibraltar Regulatory Authority; and under the relevant legislation and to the relevant regulators in the other jurisdictions where the Operator carries out a regulated activity; 
 
-6\. Contact Information
+3.2.8  conforming to legal requirements or complying with legal processes or acting to protect the interests of sporting bodies or other qualified bodies; 
 
-Comments and questions regarding this Privacy Policy should be directed to [manager@prestigecasino.com](mailto:manager@prestigecasino.com)
+3.2.9  the investigation of suspected unlawful, fraudulent or other improper activity connected with the Services;
 
-last updated September 29th, 2004
+3.2.10  the reporting of a crime or suspected crime, including money laundering or any fraud; and
+
+3.2.11  any other purpose which is necessary for the performance of our contractual obligations to You. 
+
+3.3  The Operator will not send You unsolicited information regarding any third party commercial offers or advertisements.
+
+3.4  The Operator may use Your username and/or first name and region for advertising or promotional purposes. 
+
+3.5  Telephone calls to and from our Customer Services Department are recorded for training and security purposes.
+
+3.6  We may transfer Your Information in the event of that we transfer or sell our business or any part of it; including in the event of insolvency.
+
+3.7  If at any time You wish us to stop processing Your Information for the above purposes, then You must contact us and we will take the appropriate steps to stop doing so. Please note that this may mean that Your Account will have to be closed.
