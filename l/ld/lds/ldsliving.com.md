@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ldsliving.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220140854id_/http%3A//ldsliving.com/pages/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ldsliving.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523083041id_/http%3A//ldsliving.com/pages/privacypolicy) for the most accurate reproduction.*
 
 # LDS Living - Privacy Policy
 
