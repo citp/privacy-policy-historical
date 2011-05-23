@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the museumvictoria.com.au privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221145338id_/http%3A//museumvictoria.com.au/footer-links/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the museumvictoria.com.au privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523185909id_/http%3A//museumvictoria.com.au/footer-links/privacy) for the most accurate reproduction.*
 
 # Museum Victoria: Privacy
 
@@ -20,7 +20,7 @@ You can access and browse our website without disclosing personal information. W
 
 This site does not collect or use personal information except that which you choose to provide:
 
-  * on online forms through ‘Contact Us’ either to ask a question or provide feedback; or through ‘E-news’, to subscribe to our online newsletter
+  * on online forms through ‘Contact Us’,  through ‘E-news’, to subscribe to our online newsletter or other online subscription services
   * in e-mail messages, to make a booking or an enquiry
   * in comments
 
