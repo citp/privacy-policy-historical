@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the porn-wire.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217061654id_/http%3A//www.porn-wire.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the porn-wire.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523052454id_/http%3A//www.porn-wire.com/privacy.php) for the most accurate reproduction.*
 
-# Porn-Wire :: Privacy Policy
+# Privacy Policy :: Porn-Wire
 
-[](http://www.porn-wire.com/index.php)
+[](http://www.porn-wire.com/)
 
 **Help us spread the word!! Tell your friends about Porn-Wire!**
 
