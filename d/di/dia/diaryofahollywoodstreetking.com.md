@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the diaryofahollywoodstreetking.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221074739id_/http%3A//diaryofahollywoodstreetking.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diaryofahollywoodstreetking.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523184608id_/http%3A//diaryofahollywoodstreetking.com/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice | Hollywood Street King
 
-[Tweet This Story!](http://twitter.com/home?status=RT%20%23HSK%20-%20Peep%20This%3A%20%22Privacy%20Notice%22%20http%3A%2F%2Fbit.ly%2FjGyrs "Tweet This Story!")
+[](http://twitter.com/share?url=http://diaryofahollywoodstreetking.com/privacy-notice/&text=Privacy+Notice&via=jackyjasper&related=hwoodstreetking%2Caoneent "Post to Twitter")
 
-Last updated: January 31, 2009
+Last updated: January 21, 2011
 
 Diaryofahollywoodstreetking.com respects your privacy and is committed to protecting it at all times. This Internet Privacy Notice explains how we collect, use, and safeguard information on this Website. Please read this Privacy Notice carefully. **By visiting Diaryofahollywoodstreetking.com, you are accepting the practices described in this Privacy Notice and agree that any dispute over privacy is governed by this Privacy Notice and Conditions of Use.**
 
@@ -35,6 +35,10 @@ The information we learn from customers helps us personalize and continually imp
 Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your Web browser to enable our systems to recognize your browser and to provide features such as personalized greetings and storage of items in your Shopping Cart between visits.
 
 The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. However, cookies allow you to take full advantage of some of Diaryofahollywoodstreetking.com’s coolest features, and we recommend that you leave them turned on.
+
+> “We partner with third party ad networks and allows such networks to use cookies to collect non-personally identifiable data for targeting and serving ads.
+> 
+> Users can opt-out of this behavioral targeting by visiting the Network Advertising Initiative’s consumer page at <http://www.networkadvertising.org/managing/opt_out.asp>“
 
 **Does Diaryofahollywoodstreetking.com Share The Information It Receives?**
 
@@ -75,4 +79,4 @@ If you choose to visit Diaryofahollywoodstreetking.com, your visit and any dispu
 
 Our business changes constantly, and our Privacy Notice and the Conditions of Use will change also. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our Website frequently to see recent changes. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers.
 
-[](http://tellafriend.socialtwist.com/)
+> 
