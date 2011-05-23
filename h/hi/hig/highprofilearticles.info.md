@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the highprofilearticles.info privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123112826id_/http%3A//www.highprofilearticles.info/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the highprofilearticles.info privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523173456id_/http%3A//www.highprofilearticles.info/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - High Profile Articles 3
 
