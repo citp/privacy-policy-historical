@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cinemaroll.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123034506id_/http%3A//cinemaroll.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cinemaroll.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523183042id_/http%3A//cinemaroll.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Cinemaroll
 
