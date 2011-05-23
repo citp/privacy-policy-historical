@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the mercatornet.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123034225id_/http%3A//www.mercatornet.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mercatornet.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523062259id_/http%3A//www.mercatornet.com/info/privacy) for the most accurate reproduction.*
 
-# MercatorNet: news and articles
-
-## MercatorNet’s Privacy Policy
+# MercatorNet’s Privacy Policy
 
 ###### _MercatorNet_ is committed to maintaining the privacy of personal information that you provide us when using our website. This privacy policy describes how we treat personal information received about you when you visit our site. 
 
