@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the segaarcade.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123052855id_/http%3A//www.segaarcade.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the segaarcade.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523193800id_/http%3A//www.segaarcade.com/privacypolicy) for the most accurate reproduction.*
 
 # Sega Amusements USA - Online Privacy Policy
 
