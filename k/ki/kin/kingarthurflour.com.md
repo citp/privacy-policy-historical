@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kingarthurflour.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122103156id_/http%3A//www.kingarthurflour.com/customerservice/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kingarthurflour.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523183604id_/http%3A//www.kingarthurflour.com/customerservice/privacy.html) for the most accurate reproduction.*
 
 # Customer service | Privacy policy: King Arthur Flour
 
