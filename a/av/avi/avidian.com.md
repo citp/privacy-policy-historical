@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avidian.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121140850id_/http%3A//www.avidian.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avidian.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523183435id_/http%3A//www.avidian.com/privacy.aspx) for the most accurate reproduction.*
 
 # Contact Management Software & Sales CRM Software for Outlook - Easy & Simple
 
@@ -33,9 +33,9 @@ We’ll use reasonable efforts to honor your requests, but we appreciate your pa
 2. | Send postal mail to:  
 | Customer Information Updates  
 | Avidian Technologies LLC  
-| 1500 112th Ave NE, Suite 101  
-| Bellevue, WA 98004; or  
-3. | Call 1-800-860-5534   
+| 2053 152nd Ave NE  
+| Redmond, WA 98052; or  
+3. | Call 1-800-399-8980   
 **Choice-Opt Out**  
 You have the opportunity to opt-out of receiving communications from us by one of the following options:  
 | 1. | E-mail [info@Avidian.com](mailto:info@Avidian.com) with corrections;  
@@ -43,8 +43,8 @@ You have the opportunity to opt-out of receiving communications from us by one o
 2. | Send postal mail to:  
 | Customer Information Updates  
 | Avidian Technologies LLC  
-| 1500 112th Ave NE, Suite 101  
-| Bellevue, WA 98004; or  
-3. | Call 1-800-860-5534   
+| 2053 152nd Ave NE  
+| Redmond, WA 98052; or  
+3. | Call 1-800-399-8980   
 **Contact Us**  
 Avidian Technologies, LLC is very committed to ensuring your privacy within our reasonable control. We want you to feel comfortable with your experience on our website and appreciate any feedback you may have to offer. If you believe we have not adhered to its privacy statement, if you would like to be deactivated from any of our lists, or if you have any questions about this privacy statement, the practices of this site, or your dealings with this website, please contact [info@Avidian.com](mailto:info@Avidian.com).
