@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magazines.com privacy policy that was archived on 2010-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100313155244id_/http%3A//www.magazines.com/help/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magazines.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523094210id_/http%3A//www.magazines.com/help/privacypolicy) for the most accurate reproduction.*
 
 # Magazines.com - Privacy Policy
 
@@ -33,6 +33,12 @@ On some pages, you can submit information about other people. For example, if yo
   * Phone number
 
 
+
+### Emails from Magazines.com:
+
+As a Magazines.com customer you will receive special offers, coupons, and exclusive gift cards via email. If you prefer not to receive promotional emails from us you can easily manage your email preferences. In every promotional email we send, there is an unsubscribe link at the bottom of the email. Click the link, and after your request is processed you will no longer receive promotional emails. 
+
+Note: Even if you choose to not receive some marketing emails from us, you will still receive our transactional email, such as messages relating to the status of your order, or information about your account. 
 
 ### The Way We Use Information:
 
