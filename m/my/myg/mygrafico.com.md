@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mygrafico.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123082933id_/http%3A//www.mygrafico.com/privacy-policy/info_4.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mygrafico.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523183343id_/http%3A//www.mygrafico.com/privacy-policy/info_4.html) for the most accurate reproduction.*
 
 # Privacy Policy - MY GRAFICO - DIGITAL ARTS AND CRAFTS STORE
 
