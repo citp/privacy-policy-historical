@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thomascook.com privacy policy that was archived on 2010-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100606061321id_/http%3A//www.thomascook.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thomascook.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523234541id_/http%3A//www.thomascook.com/privacy-policy) for the most accurate reproduction.*
 
 # Thomas Cook understands the importance of site privacy
 
@@ -27,4 +27,4 @@ We will provide a summary of any personal information held upon request. This in
 
 [](http://www.thomascook.com/)
 
- **My Thomas Cook** Register your email address to receive eNews, offers, holiday-related tips, plus more so you don't miss a holiday trick[Login ](https://www.thomascook.com/myThomasCook/login.jsp?_DARGS=/common/fragments/tcHeader.jsp_A&_DAV=/templates/urlFilterPage.jsp&_dynSessConf=-9151085007527328591&fromPage=true) | [Register ](https://www.thomascook.com/myThomasCook/login.jsp?_DARGS=/common/fragments/tcHeader.jsp.1_A&_DAV=/templates/urlFilterPage.jsp&_dynSessConf=-9151085007527328591&fromPage=true)| [Email Sign Up](https://web.archive.org/why-register)
+ **My Thomas Cook** Register your email address to receive eNews, offers, holiday-related tips, plus more so you don't miss a holiday trick[Login ](https://www.thomascook.com/myThomasCook/login.jsp?_DARGS=/common/fragments/tcHeader.jsp_A&_DAV=/templates/urlFilterPage.jsp&_dynSessConf=5832147799590308250&fromPage=true) | [Register ](https://www.thomascook.com/myThomasCook/login.jsp?_DARGS=/common/fragments/tcHeader.jsp.1_A&_DAV=/templates/urlFilterPage.jsp&_dynSessConf=5832147799590308250&fromPage=true)| [Email Sign Up](https://web.archive.org/why-register)
