@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lawteacher.net privacy policy that was archived on 2010-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101016161432id_/http%3A//www.lawteacher.net/policies-and-contact-details/privacy-policy.php%3Fsidenav_id%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lawteacher.net privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523091720id_/http%3A//www.lawteacher.net/policies-and-contact-details/privacy-policy.php) for the most accurate reproduction.*
 
 # Law Teacher | Privacy Policy
 
