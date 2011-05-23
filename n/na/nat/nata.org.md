@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nata.org privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227215456id_/http%3A//nata.org/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nata.org privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523063436id_/http%3A//www.nata.org/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy | National Athletic Trainers' Association
 
