@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the lindsayolives.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228063043id_/http%3A//www.lindsayolives.com/about-lindsay/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lindsayolives.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523174607id_/http%3A//www.lindsayolives.com/about-lindsay/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Lindsay Olives
+# Privacy Policy | Lindsay Olives
 
-## About Lindsay
+About Lindsay
 
 ## Bell-Carter Foods, Inc. respects the privacy interests of our web site visitors. This Privacy Policy describes the types of personal information taht we collect, the uses we make of that information, and how you can correct or request deletion of any personal identifying information you choose to give us.
 
