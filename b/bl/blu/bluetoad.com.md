@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bluetoad.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120051843id_/http%3A//bluetoad.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluetoad.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523145834id_/http%3A//bluetoad.com/privacy.php) for the most accurate reproduction.*
 
-# BlueToad
+# Privacy Policy | BlueToad | Digital Edition, Digital Publishing, Flip Book, iPhone Apps, iPad Apps
 
 It is important to BlueToad that our customers understand what information we gather about them, how we use it, and how we work to protect it. By using the BlueToad products and services - the BlueToad service, the BlueToad website - you consent to information practices outlined in BlueToad Terms of Use Agreement.
 
@@ -14,7 +14,7 @@ Personally Identifiable Information is information that can be used to contact y
 \- When you submit a request for more information or assistance, BlueToad will keep a record of the request and the manner in which it was processed.  
 \- We may also automatically receive and record information in our server logs from your browser, including your IP address, your computer's name, the type and version of your web browser, referrer addresses, and other generally-accepted log information. We may also record page views (hit counts) and other general statistical and tracking information.
 
-Limits on Information Collection
+**Limits on Information Collection**
 
 We must have your Personally Identifiable Information in order for us to adequately provide you with the BlueToad service.
 
@@ -53,7 +53,7 @@ Anonymous Information is any information other than Personally Identifiable Info
 
 You have control over your Personally Identifiable Information and can change your Registration or Subscription Information, by clicking www.BlueToad.com.
 
-If you wish to delete your Registration or Subscription Information you can e-mail deletesubscriptions@BlueToad.com. Your information will then be deleted assuming (i) you are current with all payment obligations; (ii) BlueToad does not believe it is reasonably necessary to keep such information for any pending legal action; and (iii) we are under no other legal obligation to retain such information. If your information is deleted, however, any unfulfilled subscriptions will be canceled without refund and you will have to re-register with BlueToad in order to use the BlueToad service.
+If you wish to delete your Registration or Subscription Information you can e-mail deletesubs@bluetoad.com. Your information will then be deleted assuming (i) you are current with all payment obligations; (ii) BlueToad does not believe it is reasonably necessary to keep such information for any pending legal action; and (iii) we are under no other legal obligation to retain such information. If your information is deleted, however, any unfulfilled subscriptions will be canceled without refund and you will have to re-register with BlueToad in order to use the BlueToad service.
 
 **Security**
 
@@ -75,4 +75,6 @@ BlueToad may change its privacy policy from time to time. If we make any changes
 
 **Questions**
 
-If you have any questions regarding our Privacy Policy or our use of your information, please email: [support@BlueToad.com](mailto:%20support@bluetoad.com).
+If you have any questions regarding our Privacy Policy or our use of your information, please email: [support@bluetoad.com](mailto:%20support@bluetoad.com).
+
+Although we are not actively hiring at the moment for specific positions, we always welcome resumes from creative individuals interested in becoming a part of the BlueToad team.  BlueToad’s typical hiring needs involve customer service, sales, and computer programming.  Please submit any inquiries or resumes to [careers@bluetoad.com](mailto:careers@bluetoad.com). 
