@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toolingu.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122130331id_/http%3A//www.toolingu.com/Privacy_Statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toolingu.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523074544id_/http%3A//www.toolingu.com/Privacy_Statement.aspx) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -32,7 +32,7 @@ This Privacy Statement addresses your privacy by:
 
   * **Accountability**
 
-The Company is responsible for your personal Information under its control. The Company has appointed an officer who is accountable for the Company's compliance with these privacy principles. Wes Howard has been designated the Company's privacy officer in connection with these privacy principles. Wes Howard can be reached by telephone at (866) 706-6601, by e-mail at [info@toolingu.com](mailto:info@toolingu.com) or by regular mail to Tooling University, 15700 S. Waterloo Rd., Cleveland, Ohio 44110. Questions, requests for copies of policies or practices, comments or challenges concerning compliance should be directed to the privacy officer. 
+The Company is responsible for your personal Information under its control. The Company has appointed an officer who is accountable for the Company's compliance with these privacy principles. Chad Schron has been designated the Company's privacy officer in connection with these privacy principles. Chad Schron can be reached by telephone at (866) 706-6601, by e-mail at [info@toolingu.com](mailto:info@toolingu.com) or by regular mail to Tooling University, 3615 Superior Avenue East, Building 44, 6th Floor, Cleveland, Ohio 44114. Questions, requests for copies of policies or practices, comments or challenges concerning compliance should be directed to the privacy officer. 
 
 Unfortunately, neither Tooling University's computer systems, data storage systems, nor data transmission over the Internet, can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, we cannot ensure or warrant the security of your personal information. 
 
@@ -126,7 +126,7 @@ This Privacy Statement addresses your privacy by:
 
   * **Accountability**
 
-The Company is responsible for your Education Records under its control. The Company has appointed an officer who is accountable for the Company's compliance with these privacy principles. Wes Howard has been designated the Company's privacy officer in connection with these privacy principles. Wes Howard can be reached by telephone at (866) 706-6600, by e-mail at [info@toolingu.com](mailto:info@toolingu.com) or by regular mail to Tooling University, 15700 S. Waterloo Rd., Cleveland, Ohio 44110. Questions, requests for copies of policies or practices, comments or challenges concerning compliance should be directed to the privacy officer. 
+The Company is responsible for your Education Records under its control. The Company has appointed an officer who is accountable for the Company's compliance with these privacy principles. Chad Schron has been designated the Company's privacy officer in connection with these privacy principles. Chad Schron can be reached by telephone at (866) 706-6600, by e-mail at [info@toolingu.com](mailto:info@toolingu.com) or by regular mail to Tooling University, 3615 Superior Avenue East, Building 44, 6th Floor, Cleveland, Ohio 44114. Questions, requests for copies of policies or practices, comments or challenges concerning compliance should be directed to the privacy officer. 
 
 Unfortunately, neither Tooling University's computer systems, data storage systems, nor data transmission over the Internet, can be guaranteed to be 100% secure. As a result, while we strive to protect your Education Records, and to utilize such methods as are required under applicable law, since no method can be guaranteed to be 100% secure, we cannot ensure or warrant the security of your Education Records. 
 
