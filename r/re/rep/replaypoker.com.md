@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the replaypoker.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122184941id_/http%3A//www.replaypoker.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the replaypoker.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523062821id_/http%3A//www.replaypoker.com/privacy_policy) for the most accurate reproduction.*
 
-# Playmoney — Learn How To Play Poker — ReplayPoker
+# Play money — Learn How To Play Poker — ReplayPoker
 
 Replay Gaming LTD (“We”) commit ourselves to protecting and respecting your privacy when visiting replaypoker.com.
 
