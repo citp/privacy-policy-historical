@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kongregate.com privacy policy that was archived on 2010-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100419130733id_/http%3A//www.kongregate.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kongregate.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523061911id_/http%3A//www.kongregate.com/pages/privacy) for the most accurate reproduction.*
 
 # Kongregate Privacy Policy
 
@@ -51,5 +51,5 @@ If you do not agree with the privacy practices described in this Privacy Policy,
 For questions or concerns regarding the use of personal information you submit to us, please contact us at [privacy@kongregate.com](mailto:privacy@kongregate.com).
 
 Kongregate  
-660 Mission St, Suite 400  
+2 Shaw Alley, 4th Floor  
 San Francisco, CA 94105
