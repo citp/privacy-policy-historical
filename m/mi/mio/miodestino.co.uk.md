@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the miodestino.co.uk privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123041536id_/http%3A//www.miodestino.co.uk/boutique/page.php%3FxPage%3Dcompany.html%26sec%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the miodestino.co.uk privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523062559id_/http%3A//www.miodestino.co.uk/boutique/page.php%3FxPage%3Dcompany.html%26sec%3DPrivacy) for the most accurate reproduction.*
 
 # 
 
