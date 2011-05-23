@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the narutospot.net privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121102005id_/http%3A//www.narutospot.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the narutospot.net privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523230738id_/http%3A//www.narutospot.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Watch Naruto Shippuden Episodes 187 Online Subbed and Dubbed Streaming
+# Privacy Policy | Watch Naruto Shippuden Episodes 212 Online Subbed and Dubbed Streaming
 
 Narutospot is committed to protecting your online privacy while providing you with the most useful and enjoyable Web experience possible.  
 
