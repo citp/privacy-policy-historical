@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tripbase.com privacy policy that was archived on 2009-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090607135642id_/http%3A//www.tripbase.com/mumboJumbo.do%3Ft%3DprivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripbase.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523052538id_/http%3A//www.tripbase.com/mumboJumbo.do%3Ft%3DprivacyPolicy) for the most accurate reproduction.*
 
 # Tripbase.com - Privacy Policy
 
@@ -75,3 +75,5 @@ We may permit certain other companies to conduct advertising campaigns on Tripba
 **_Information Security_**
 
 We implement systems, applications and procedures to secure your personal information, to minimize the risks of theft, damage, loss of information, or unauthorized access or use of information. However, these measures are unable to provide absolute assurance. We therefore do not guarantee that the Services and our databases shall be immune from any wrongdoings and malfunctions. 
+
+If you would like your personal information such as browser type and operating system not to be stored by ADTECH and want to avoid ADTECH cookies please click on the link following link [ADTECH opt out](http://www.adtechus.com/cookie_opt-out/). 
