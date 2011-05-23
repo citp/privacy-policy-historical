@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beachhouse.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226022906id_/http%3A//www.beachhouse.com/aboutus/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beachhouse.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523055426id_/http%3A//www.beachhouse.com/aboutus/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -28,6 +28,10 @@ We have your consent to share the information; We need to share your information
 
 Beachhouse.com may set and access cookies on your computer. Beachhouse.com may allow other companies that are presenting advertisements on some of our pages to set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not this one.
 
-### 5\. changes to this privacy policy
+### 5\. Behavioral Advertising
+
+We use third-party companies to serve ads and collect non-personally identifiable information (e.g., the pages you visit, and which links you click, which ads you see and click on, and the categories of search terms you enter) when you visit our web site. These companies may use the information outlined above (which does not include your name, address, email address or telephone number) about your visits to this and other web sites in order to provide advertisements about goods and services of interest to you. These companies often use a cookie or third party web beacon to collect this information. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp) (link to the NAI universal user opt-out).
+
+### 6\. Changes to this privacy policy
 
 Beachhouse.com may amend this policy from time to time. If we make any substantial changes in the way we use your personal information we will notify you by posting a prominent announcement on our pages.
