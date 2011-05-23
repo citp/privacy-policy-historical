@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the examiner.ie privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122103804id_/http%3A//www.examiner.ie/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the examiner.ie privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523063516id_/http%3A//www.examiner.ie/privacypolicy) for the most accurate reproduction.*
 
 # PRIVACYPOLICY | Irish Examiner
 
@@ -68,7 +68,7 @@ This site gives users the following options for removing their information from 
 Unsubscribe using the instructions that were sent to you when you first subscribed or select the unsubscribe option that is included on every email communication you receive from IrishExaminer.com 
 
 **2.** You can send mail to the following postal address:  
-Webmaster, TCM, 97 South Mall, Cork, Ireland
+Webmaster, TCM, Irish Examiner, City Quarter, Lapps Quay, Cork, Ireland
 
 **3.** You can call the following telephone number: +353 21 2304000 **
 
@@ -82,7 +82,7 @@ This site gives users the following options for changing and modifying informati
 **1.** Email [ feedback@tcm.ie](mailto:feedback@tcm.ie)
 
 **2.** Send mail to the following postal address:  
-Webmaster, TCM, 97 South Mall, Cork, Ireland
+Webmaster, TCM, Irish Examiner, City Quarter, Lapps Quay, Cork, Ireland
 
 **3.** Call the following telephone number: +353 21 2304000
 
@@ -94,6 +94,8 @@ If you have any questions about this privacy statement, the practices of this si
 
 Webmaster,  
 TCM,  
-97 South Mall,  
+Irish Examiner,  
+City Quarter,  
+Lapps Quay,  
 Cork, Ireland.  
 [ webmaster@examiner.ie](mailto:webmaster@examiner.ie)
