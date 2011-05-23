@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportscardigest.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122110640id_/http%3A//www.sportscardigest.com/about-sports-car-digest/site-map/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportscardigest.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523184424id_/http%3A//www.sportscardigest.com/about-sports-car-digest/site-map/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Sports Car Digest
 
@@ -28,4 +28,4 @@ If you wish to disable cookies, you may do so through your individual browser op
  **Disclaimer**  
 The information in Sports Car Digest is compiled from a variety of reliable sources and every effort is made to ensure that the information is true and accurate. However, we must disclaim and deny any liability or responsibility for the timeliness, use, interpretation, accuracy and completeness of the information presented. The unauthorized use of any editorial or photographic content from SportsCarDigest.com without written permission from the publisher is strictly prohibited.
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us at mail@sportscardigest.com or PO Box 12596, Charlotte, NC, 28220.
+If you require any more information or have any questions about our privacy policy, please feel free to contact us at mail (at) sportscardigest.com or PO Box 12596, Charlotte, NC, 28220.
