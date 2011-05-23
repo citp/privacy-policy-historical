@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the blogatize.net privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220005853id_/http%3A//blogatize.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogatize.net privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523184356id_/http%3A//blogatize.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Blogatize Network
+# Privacy Policy - Blogatize
 
-## Privacy Policy
-
-LAST UPDATED: 5/18/2009
+LAST UPDATED: 1/21/2011
 
 Blogatize.net and its related Weblogs always respects the privacy of its visitors and endeavors to protect their privacy while browsing their collective Websites and Weblogs. Blogatize has created the following Privacy Policy in order to establish clear guidelines that govern the collection, storage, use and disclosure of personal and non-personal information of its visitors and users.
 
@@ -49,6 +47,8 @@ TOP
 #### Collecting Cookie-Based Information
 
 "Cookies" are snippets of information that a Website transfers to a visitor's hard drive, in order to keep a record for future identification purposes. Cookies also help the visitor save his/her passwords, preferences, settings and so on, thereby enabling them to browse quickly through the Website each time. Blogatize.net may use cookies on its Websites. Blogatize, however, does not use these cookies to collect personal information, except in reference to password-protecting visitors' online registration and so on. Visitors may, at any time, choose to turn off cookie-collection by Blogatize in order to avoid the collection of such cookie-based information.
+
+Blogatize Network uses ads programs where third party vendors, including Google, use cookies to serve ads based on user's visits to Blogatize and its related Weblogs. Users may opt out of the use of the [DART cookie](http://www.doubleclick.com/privacy/faq.aspx) by visiting the advertising opt-out page here - <http://www.google.com/privacy_ads.html>.
 
 TOP
 
