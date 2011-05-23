@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the awear.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226133135id_/http%3A//www.awear.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awear.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523231848id_/http%3A//www.awear.com/page/privacy) for the most accurate reproduction.*
 
 # A|wear - Privacy Policy Statement - A|wear
 
