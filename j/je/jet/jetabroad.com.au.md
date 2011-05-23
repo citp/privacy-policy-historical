@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jetabroad.com.au privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121205248id_/http%3A//www.jetabroad.com.au/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jetabroad.com.au privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523182529id_/http%3A//www.jetabroad.com.au/Privacy) for the most accurate reproduction.*
 
 # Your privacy with Jetabroad AU
 
@@ -56,6 +56,6 @@ For issues related to the Jetabroad Privacy Statement please contact:
 
 The Privacy Officer  
 Jetabroad  
-251/813 Pacific Highway  
-Chatswood NSW 2067  
+PO Box 696  
+Chatswood NSW 2057  
 Australia 
