@@ -1,18 +1,16 @@
-> *The following text is extracted and transformed from the genealogytoday.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509083745id_/http%3A//www.genealogytoday.com/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the genealogytoday.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523114552id_/http%3A//www.genealogytoday.com/info/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement for Genealogy Today
 
 ## Our Privacy Statement
 
-[](http://www.truste.org/ivalidate.php?url=www.genealogytoday.com&sealid=101) _Last updated January 25, 2006_
+[](http://privacy-policy.truste.com/click-with-confidence/ctv/en/www.genealogytoday.com/seal_m "Validate TRUSTe privacy certification") _Last updated August 17, 2010_
 
 The owners of this site are committed to protecting your privacy. We recognize that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This privacy statement explains data collection and use practices of **www.genealogytoday.com** , which is owned and operated by Genealogy Today LLC, 74 Forest Road, New Providence, New Jersey. We stand firmly behind this policy, and will never implement changes to make it less protective of any customer information collected. 
 
 By accessing this site, you are consenting to the information collection and use practices described in this privacy statement. 
 
-Genealogy Today LLC is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site **www.genealogytoday.com**. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
-
-If you have questions or concerns regarding this statement, you should first contact Illya D'Addezio by using [this form](https://web.archive.org/roots/xweb.mv?xc=Send.Message&xo=message&xn=-1&xd=1&xz=privacy.html). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with us to resolve your concerns. 
+Genealogy Today LLC has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please first contact Illya D'Addezio by using [this form](https://web.archive.org/roots/xweb.mv?xc=Send.Message&xo=message&xn=-1&xd=1&xz=privacy.html). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). 
 
 ### Collection of your Personal Information
 
@@ -35,6 +33,8 @@ We might receive information about you from other sources and add it to our acco
 ### Collection by Third-Party Sites, Ad Servers, and Sponsors
 
 This site may contain links to other sites whose information practices may be different than ours. Visitors should consult the other sites' privacy notices as we have no control over information that is submitted to, or collected by, these third parties. 
+
+The _Network Advertising Initiative_ now offers an **[Opt Out of Behavioral Advertising](http://www.networkadvertising.org/managing/opt_out.asp)** service. 
 
 ### Use of your Personal Information
 
@@ -101,6 +101,10 @@ We use cookies on this site to ensure the integrity of the registration process 
 You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of this or other Web sites you visit. 
 
 Some of our business partners (e.g., advertisers, marketing partners) use cookies on our site. We have no access to or control over these cookies. This privacy statement covers the use of cookies by www.genealogytoday.com only and does not cover the use of cookies by any third parties. 
+
+### Clear Gifs (Web Beacons/Web Bugs)
+
+Our third party advertising partner employs a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user's computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers' personally identifiable information.
 
 ### Changes to this Statement
 
