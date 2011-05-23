@@ -1,6 +1,34 @@
-> *The following text is extracted and transformed from the rapidsharemp3.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224191214id_/http%3A//rapidsharemp3.com/pages/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapidsharemp3.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523190146id_/http%3A//rapidsharemp3.com/pages/policy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+  * [Alternative](http://rapidsharemp3.com/mp3-download/alternative/ "Alternative")
+  * [Classical](http://rapidsharemp3.com/mp3-download/classical/ "Classical")
+  * [Country](http://rapidsharemp3.com/mp3-download/country/ "Country")
+  * [Electronic](http://rapidsharemp3.com/mp3-download/electronic/ "Electronic")
+  * [Folk](http://rapidsharemp3.com/mp3-download/folk/ "Folk")
+  * [Funk](http://rapidsharemp3.com/mp3-download/funk/ "Funk")
+  * [Hard & Heavy](http://rapidsharemp3.com/mp3-download/hard_and_heavy/ "Hard & Heavy")
+  * [Metal](http://rapidsharemp3.com/mp3-download/metal/ "Metal")
+  * [Instrumental](http://rapidsharemp3.com/mp3-download/instrumental/ "Instrumental")
+  * [Jazz / Blues](http://rapidsharemp3.com/mp3-download/jazz_blues/ "Jazz / Blues")
+  * [Latin](http://rapidsharemp3.com/mp3-download/latin/ "Latin")
+  * [New Age](http://rapidsharemp3.com/mp3-download/newage/ "New Age")
+  * [Pop](http://rapidsharemp3.com/mp3-download/pop/ "Pop")
+  * [R&B / Soul](http://rapidsharemp3.com/mp3-download/rnb_soul/ "R&B / Soul")
+  * [Rap / Hip-Hop](http://rapidsharemp3.com/mp3-download/rap_hip-hop/ "Rap / Hip-Hop")
+  * [Reggae](http://rapidsharemp3.com/mp3-download/reggae/ "Reggae")
+  * [Reggaeton](http://rapidsharemp3.com/mp3-download/reggaeton/ "Reggaeton")
+  * [Rock](http://rapidsharemp3.com/mp3-download/rock/ "Rock")
+  * [Ska](http://rapidsharemp3.com/mp3-download/ska/ "Ska")
+  * [Soundtracks](http://rapidsharemp3.com/mp3-download/soundtracks/ "Soundtracks")
+  * [Music Videos](http://rapidsharemp3.com/mp3-download/music_videos/ "Music Videos")
+
+
+
+Free MP3 Ad 
+
+| 
 
 **Commitment**
 
@@ -89,3 +117,10 @@ If you choose to use our referral service to tell a friend about Pornizer.com (P
 Contact information
 
 Should you have any questions or concerns regarding this Privacy Policy, please [contact us](mailto:info@pornrapidshare.com).
+
+Free MP3 Ad
+
+| 
+
+[](http://rapidsharemp3.com/partner/?bid=34)   
+[](http://rapidsharemp3.com/partner/?bid=24)
