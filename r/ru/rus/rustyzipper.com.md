@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the rustyzipper.com privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202201114id_/http%3A//www.rustyzipper.com/shop.cfm%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rustyzipper.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523182759id_/http%3A//www.rustyzipper.com/shop.cfm%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
-# at RustyZipper.Com Vintage Clothing
+# 
+
+[](http://www.rustyzipper.com/)   
+
 
 **What information do we collect?**
 
@@ -98,13 +101,13 @@ jen@rustyzipper.com
 * **Shipping rates** and options are shown upon adding items to your order.
 * **Returns** : We want you to love your purchase - if you don't, return it within 15 days for a refund (shipping not refundable)
 * **Extended Holiday Returns** : Items purchased now may be returned through Jan 15th 2011 (except for Christmas Sweaters).
-* Copyright 1995-2010 Rusty Zipper™ Vintage Clothing - [Privacy Policy](http://www.rustyzipper.com/shop.cfm?page=privacy)
+* Copyright 1995-2011 Rusty Zipper™ Vintage Clothing - [Privacy Policy](http://www.rustyzipper.com/shop.cfm?page=privacy)
 
 **Questions? View our[Help Page](http://www.rustyzipper.com/shop.cfm?page=contact&type=&ERA=ALL&GENDER=ALL&PRICE=ALL&ERA=ALL&SIZE=&SEARCH=&SITE=RUSTYZIPPER&QPRICE=ALL&startshow=1) or contact Jen at [jen@rustyzipper.com](mailto:jen@rustyzipper.com)**
 
  **  
 Phone 866-387-5944 in US, or 503-980-1929 outside US (Mon-Fri 8am-3pm PST)**  
-UK (020) 3002-8263 (Mon-Fri 5pm-11pm UK local time) [Join our Facebook Group](http://www.facebook.com/group.php?gid=56131519594)
+UK (020) 3002-8263 (Mon-Fri 5pm-11pm London time) [Join our Facebook Group](http://www.facebook.com/group.php?gid=56131519594)
 
 |   
 ---|---
