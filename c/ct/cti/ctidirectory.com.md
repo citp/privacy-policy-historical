@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ctidirectory.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121235033id_/http%3A//www.ctidirectory.com/pages/right_privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ctidirectory.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523190158id_/http%3A//www.ctidirectory.com/pages/right_privacy.cfm) for the most accurate reproduction.*
 
 # Canadian Trade Index Privacy Statement
 
