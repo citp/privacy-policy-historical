@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virtualfestivals.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124060133id_/http%3A//www.virtualfestivals.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virtualfestivals.com privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524155047id_/http%3A//www.virtualfestivals.com/info/privacy) for the most accurate reproduction.*
 
 # Privacy Statement - - Privacy Policy | Virtual Festivals
 
@@ -87,4 +87,6 @@ We caution you against giving out personally identifiable information (such as s
 
 Some personal information you provide to Virtual Festivals may be stored outside of the country in which you reside.
 
-[](http://www.addthis.com/bookmark.php?v=20)
+* * *
+
+* * *
