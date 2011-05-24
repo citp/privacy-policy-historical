@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the macquarie.com.au privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231212222id_/http%3A//www.macquarie.com.au/mgl/au/sitewide/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macquarie.com.au privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524150800id_/http%3A//www.macquarie.com.au/mgl/au/sitewide/privacy-policy) for the most accurate reproduction.*
 
 # Macquarie Group Privacy Policy
 
@@ -101,3 +101,7 @@ Your account information is password protected and we recommend you do not divul
 
 Macquarie Group cannot guarantee or accept responsibility for the privacy practices or the content of web sites to which we provide links.  
 
+
+###  Contact us 
+
+If you have any questions regarding our privacy policy or handling of information, please direct your enquiry to [privacy@macquarie.com](mailto:privacy@macquarie.com) or [contact us](https://web.archive.org/mgl/au/sitewide/contact) by phone. 
