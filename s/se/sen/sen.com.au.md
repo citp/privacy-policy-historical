@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sen.com.au privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128123804id_/http%3A//www.sen.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sen.com.au privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524050248id_/http%3A//www.sen.com.au/privacy-policy) for the most accurate reproduction.*
 
 # 
 
