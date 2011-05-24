@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bollywood-stars.net privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224063923id_/http%3A//www.bollywood-stars.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bollywood-stars.net privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524043823id_/http%3A//www.bollywood-stars.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
