@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techsmith.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204001005id_/http%3A//www.techsmith.com/company/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techsmith.com privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524145735id_/http%3A//www.techsmith.com/company/privacy_policy.asp) for the most accurate reproduction.*
 
 # TechSmith Corporation - Privacy Policy
 
@@ -146,5 +146,3 @@ TechSmith regularly reviews its compliance with this Privacy Policy. Please feel
 ### NO ERROR FREE PERFORMANCE
 
 TechSmith does not guarantee error-free performance under this Privacy Policy. TechSmith will use reasonable efforts to comply with this Privacy Policy and will take prompt corrective action when TechSmith learns of any failure to comply with our Privacy Policy. TechSmith shall not be liable for any incidental, consequential or punitive damages relating to this Privacy Policy. This Privacy Policy shall be governed by the laws of the State of Michigan and the United States to the extent applicable. 
-
-Last Updated: 01/31/2020 11:48:27 
