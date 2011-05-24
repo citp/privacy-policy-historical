@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marklevinshow.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125151622id_/http%3A//www.marklevinshow.com/article.asp%3Fid%3D1237392) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marklevinshow.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525004505id_/http%3A//www.marklevinshow.com/article.asp%3Fid%3D1237392) for the most accurate reproduction.*
 
 # Mark Levin
 
@@ -76,7 +76,7 @@ Citadel shall make all reasonable efforts to comply with this privacy policy; ho
 
 #### California Residents.
 
-As of January 1, 2005, **California Civil Code Section 1798.83** permits our customers who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to [privacy@citadelinteractive.com](https://web.archive.org/web/20101125151622id_/http%3A//www.marklevinshow.com/%22mailto:privacy@citadelinteractive.com%22).
+As of January 1, 2005, **California Civil Code Section 1798.83** permits our customers who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to [privacy@citadelinteractive.com](https://web.archive.org/web/20110525004505id_/http%3A//www.marklevinshow.com/%22mailto:privacy@citadelinteractive.com%22).
 
 #### Changes to this policy.
 
@@ -84,7 +84,7 @@ We may revise this Privacy Policy to keep it up to date with Citadel's current p
 
 #### Privacy questions
 
-If you have questions or concerns about Citadel's Privacy Policy or data processing or use, please send an email to [privacy@citadelinteractive.com](https://web.archive.org/web/20101125151622id_/http%3A//www.marklevinshow.com/%22mailto:privacy@citadelinteractive.com%22) to contact us. We will respond to your inquiry within 30 days.
+If you have questions or concerns about Citadel's Privacy Policy or data processing or use, please send an email to [privacy@citadelinteractive.com](https://web.archive.org/web/20110525004505id_/http%3A//www.marklevinshow.com/%22mailto:privacy@citadelinteractive.com%22) to contact us. We will respond to your inquiry within 30 days.
 
 (Last updated August 2007)
 
