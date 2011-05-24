@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the virtusa.com privacy policy that was archived on 2010-11-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101122082901id_/http%3A//www.virtusa.com/privacy-statement.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the virtusa.com privacy policy that was archived on 2011-05-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110524165833id_/http%3A//www.virtusa.com/privacy-statement.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -10,6 +10,7 @@
 <meta name="description" content="">
 <meta name="keywords" content="">
 <link rel="shortcut icon" href="/favicon.ico">
+
 
   <script src="/scripts/jquery/jquery.js" type="text/javascript" language="JavaScript"></script>
   <script type="text/javascript" src="/scripts/topnav/topnav.js"></script>
@@ -70,60 +71,41 @@
                          'frameHeight': 450
                   });
            });
-	</script>
-
-<script language="JavaScript">
-<!--
-
-//Disable right mouse click Script
-//By Maximus (maximus@nsimail.com) w/ mods by DynamicDrive
-//For full source code, visit http://www.dynamicdrive.com
-
-var message="Right Click Disabled!";
-
-///////////////////////////////////
-function clickIE4(){
-if (event.button==2){
-alert(message);
-return false;
-}
-}
-
-function clickNS4(e){
-if (document.layers||document.getElementById&&!document.all){
-if (e.which==2||e.which==3){
-alert(message);
-return false;
-}
-}
-}
-
-if (document.layers){
-document.captureEvents(Event.MOUSEDOWN);
-document.onmousedown=clickNS4;
-}
-else if (document.all&&!document.getElementById){
-document.onmousedown=clickIE4;
-}
-
-document.oncontextmenu=new Function("alert(message);return false")
-
-// --> 
-</script>
-
-
-	<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
-    
-      <script type="text/javascript"> 
-		function remove_popup()
-		{  //alert('2');
-		//.$.fn.fancybox.close();	
-		//parent.$("a.href :contains('userlogin.asp')").removeClass("download");
-			//link_=parent.$("a").html;
-			//alert(link_);
-			parent.$("a.href :contains('userlogin.asp')").removeClass("download");
-
-		}
+		$(document).ready(function() {
+                  //Activate FancyBox
+                  $("a#practice_div").fancybox({
+                         'frameHeight': 200
+                  });
+           });
+		$(document).ready(function() {
+                  //Activate FancyBox
+                  $("a#custom_contact").fancybox({
+                         'frameWidth': 750,
+                         'frameHeight': 750
+                  });
+           });
+		$(document).ready(function() {
+                  
+                  $("a.youtube").fancybox({
+                         'frameWidth': 640,
+                         'frameHeight': 505,						 
+						 'callbackOnClose': function() {
+                         $("#fancy_content").empty();						  
+                     }
+				});
+		});
+		
+		$(document).ready(function() {
+                  
+                  $("a.webinar").fancybox({
+                         'frameWidth': 655,
+                         'frameHeight': 455,						 
+						 'callbackOnClose': function() {
+                         $("#fancy_content").empty();						  
+                     }
+				});
+		});
+		
 	</script>
 
 <script language="JavaScript">
@@ -214,6 +196,7 @@ document.oncontextmenu=new Function("alert(message);return false")
            		<li style="white-space: normal; float: left; width: 100%;"><a href="/practices/dwbi/" style="float: none; width: auto;">Data Warehousing/Business Intelligence</a></li>
                 <li style="white-space: normal; float: left; width: 100%;"><a href="/practices/ecm/" style="float: none; width: auto;">Enterprise Content Management</a></li>
                 <li style="white-space: normal; float: left; width: 100%;"><a href="/practices/software-testing/" style="float: none; width: auto;">Software Testing</a></li>
+                <li style="white-space: normal; float: left; width: 100%;"><a href="/practices/mobility/" style="float: none; width: auto;">Mobility</a></li>
            </ul>
        </li>
        <li class=""><a href="#" class="disabled">Industries</a>
@@ -225,6 +208,7 @@ document.oncontextmenu=new Function("alert(message);return false")
            <li style="white-space: normal; float: left; width: 100%;"><a href="/industries/insurance/" style="float: none; width: auto;">Insurance</a></li>
            <li style="white-space: normal; float: left; width: 100%;"><a href="/industries/media-information-entertainment/" style="float: none; width: auto;">Media, Information &amp; Entertainment</a></li>
            <li style="white-space: normal; float: left; width: 100%;"><a href="/industries/pharmaceuticals/" style="float: none; width: auto;">Life Sciences</a></li>
+           <li style="white-space: normal; float: left; width: 100%;"><a href="/industries/healthcare/" style="float: none; width: auto;">Healthcare</a></li>
          </ul>
        </li>
        	<li class=""><a href="#" class="disabled">FTBU</a>
@@ -243,7 +227,7 @@ document.oncontextmenu=new Function("alert(message);return false")
         <li style="white-space: normal; float: left; width: 100%;"><a href="/investors/corporate_governance.asp" style="float: none; width: auto;">Corporate Governance</a></li>
         <li style="white-space: normal; float: left; width: 100%;"><a href="/investors/stock_information.asp" style="float: none; width: auto;">Stock Information</a></li>
         <li style="white-space: normal; float: left; width: 100%;"><a href="/investors/SEC_filings.asp" style="float: none; width: auto;">SEC Filings</a></li>
-        <li style="white-space: normal; float: left; width: 100%;"><a href="/investors/annual_report_and_proxy_tatement.asp" style="float: none; width: auto;">Annual Report and Proxy Statement</a></li>
+        <li style="white-space: normal; float: left; width: 100%;"><a href="/investors/annual_report_and_proxy_statement.asp" style="float: none; width: auto;">Annual Report and Proxy Statement</a></li>
         <li style="white-space: normal; float: left; width: 100%;"><a href="/investors/investor_contact.asp" style="float: none; width: auto;">Investor Contact</a></li>
         </ul></li>
        <li class=""><a href="#" class="disabled">Partners</a>
@@ -342,13 +326,22 @@ document.oncontextmenu=new Function("alert(message);return false")
 
 <div id="icontoolbar">
 <ul class="report-icon">
-<li><img src="/images/interface/print.png" width="20" height="20" hspace="4" vspace="4" align="absmiddle"><a href="#" onclick="javascript:window.print()">Print this page</a></li>
+
 <!--<img src="/images/interface/email.png" width="20" height="20" hspace="4" vspace="4" align="absmiddle" /><a href="#">Email this page</a>-->
 <li> <img src="/images/interface/contact.png" width="20" height="20" hspace="4" vspace="4" align="absmiddle"> <a href="/contactus">Contact Us</a> </li>
 
-<li><img src="/images/interface/email.png" width="20" height="20" hspace="4" vspace="4" align="absmiddle"> <a href="/applications/sendpage/default.asp?purl=L3ByaXZhY3ktc3RhdGVtZW50LmFzcA&amp;iframe" class="download" id="icon_email">Email this page</a>
 
-</li><li class="report-problem"><a href="/btrc/default.asp?url=/privacy-statement.asp &amp;iframe" class="ajaxpopup" id="bug_report"></a></li>
+<!-- AddThis Button BEGIN -->
+
+<li>
+<iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2FVirtusaCorp&amp;layout=button_count&amp;show_faces=true&amp;width=75&amp;action=like&amp;font=arial&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:75px; height:21px;" allowtransparency="true"></iframe>
+</li>
+<li class="addthis_toolbox addthis_default_style "><a class="addthis_button_tweet"></a><a class="addthis_counter addthis_pill_style"></a></li>
+
+<script type="text/javascript">var addthis_config = {"data_track_clickback":true , services_compact: ' twitter,linkedin, facebook,email,myspace,print,google,favorites,digg,delicious,stumbleupon,more'};</script>
+<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=virtusacorp"></script>
+<!-- AddThis Button END -->
+<li class="report-problem"><a href="/btrc/default.asp?url=/privacy-statement.asp &amp;iframe" class="ajaxpopup" id="bug_report"></a></li>
 
 
 </ul>
@@ -363,12 +356,23 @@ document.oncontextmenu=new Function("alert(message);return false")
     	<li><a href="http://www.virtusa.com/sustainability/" target="_blank"><img src="/images/interface/ico_sustainability.jpg" /></a></li>                
     </ul>
   </div>-->
-    <div class="footer-left">
+  
+  
+  
+  <div class="footer-left">
     <div id="links"><a href="/privacy-statement.asp" title="Privacy Statement">Privacy Statement</a> | <a href="/terms-conditions.asp" title="Terms of Use">Terms of Use</a></div>
-    <div id="statements"><b>©2010 Virtusa Corporation. All Rights Reserved. </b></div>
-    
+    <div id="statements"><b>©2011 Virtusa Corporation. All Rights Reserved. </b>
     </div>
+    </div> 
     
+     <div class="clear"></div>
+    <div class="divSeo"><p class="txtSeo">Virtusa is a global <u><a href="http://www.virtusa.com/resources/it-consulting-outsourcing.asp">IT consulting outsourcing</a></u> and <u><a href="http://www.virtusa.com/resources/software-outsourcing-company.asp">software outsourcing company</a></u> offering comprehensive <u><a href="http://www.virtusa.com/resources/business-technology-services.asp">business technology services</a></u> and <u><a href="http://www.virtusa.com/resources/it-consulting-services.asp">IT consulting services</a></u> that include <u><a href="http://www.virtusa.com/resources/agile-software-development.asp">agile software development</a></u>, <u><a href="http://www.virtusa.com/resources/custom-software-development.asp">custom software development</a></u>, <u><a href="http://www.virtusa.com/resources/application-rationalization.asp">application rationalization</a></u>, <u><a href="http://www.virtusa.com/resources/it-consolidation.asp">IT consolidation</a></u> and <u><a href="http://www.virtusa.com/resources/software-test-automation.asp">software test automation</a></u>. Virtusa’s <u><a href="http://www.virtusa.com/resources/offshore-outsourcing-services.asp">offshore outsourcing services</a></u> combine onsite  and offshore teams in an optimal mix to better align IT with business  priorities while reducing costs and speeding time-to-market.</p></div>
+  
+  
+  
+  
+  
+  
   <!-- end #footer --></div>
 <!-- end #container --></div>
 
@@ -383,19 +387,13 @@ urchinTracker();
 <script type="text/javascript">
 imgsrc = location.protocol + '//www.visitortracklog.com/loghit.asp?id=105887&vr=4.0&rp=' + escape(document.referrer) + '&pa=' + escape(document.URL);
 document.write('<img border="0" alt="" src="' + imgsrc + '">');
-</script><img border="0" alt="" src="https://www.visitortracklog.com/loghit.asp?id=105887&amp;vr=4.0&amp;rp=&amp;pa=https%3A//web.archive.org/web/20101122082901id_/http%253A//www.virtusa.com/privacy-statement.asp">
+</script><img border="0" alt="" src="https://www.visitortracklog.com/loghit.asp?id=105887&amp;vr=4.0&amp;rp=&amp;pa=https%3A//web.archive.org/web/20110524165833id_/http%253A//www.virtusa.com/privacy-statement.asp">
 <!--End VisitorTrack Code-->
 
 <!-- OPENTRACKER HTML START -->
-<!--<script src="http://script.opentracker.net/?site=www.virtusa.com"></script>-->
-<!--<noscript><a href="http://www.opentracker.net" target="_blank"><img src="http://img.opentracker.net/?cmd=nojs&site=www.virtusa.com" alt="web stats" border="0"></a></noscript>-->
+
 <!-- OPENTRACKER HTML END -->
 
-
-<!-- start tracker -->
-<script src="http://content.mkt51.net/lp/static/js/iMAWebCookie.js?87c962-12a145783f3-c6f842ded9e6d11c5ffebd715e129037&amp;h=www.pages05.net" type="text/javascript"></script>
-
-<!--end tracker -->
 
 
 
