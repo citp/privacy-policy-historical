@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the concordmonitor.com privacy policy that was archived on 2010-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101008044951id_/http%3A//www.concordmonitor.com/page/policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the concordmonitor.com privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524045213id_/http%3A//www.concordmonitor.com/privacy) for the most accurate reproduction.*
 
 # Privacy policies | Concord Monitor
 
