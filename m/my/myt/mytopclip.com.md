@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mytopclip.com privacy policy that was archived on 2010-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100524162309id_/http%3A//www.mytopclip.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mytopclip.com privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524141051id_/http%3A//www.mytopclip.com/privacy-policy) for the most accurate reproduction.*
 
-# The Best Video Clips :: Privacy Policy
+# Mytopclip - The Best Video Clips :: Privacy Policy
 
 We do not send spam to or sell e-mail addresses.  
 
