@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the logosportswear.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125104447id_/http%3A//www.logosportswear.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logosportswear.com privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524070932id_/http%3A//www.logosportswear.com/privacypolicy.php) for the most accurate reproduction.*
 
 # LogoSportswear.com Privacy Policy
 
