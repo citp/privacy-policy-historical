@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the supsale.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130064021id_/http%3A//www.supsale.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supsale.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525012142id_/http%3A//www.supsale.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy - Search, Sort and Save at supsale.com.
 
