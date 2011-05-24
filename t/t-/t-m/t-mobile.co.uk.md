@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the t-mobile.co.uk privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206122005id_/http%3A//www.t-mobile.co.uk/services/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the t-mobile.co.uk privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524203020id_/http%3A//www.t-mobile.co.uk/services/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - T-Mobile
 
