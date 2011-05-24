@@ -1,39 +1,71 @@
-> *The following text is extracted and transformed from the curlynikki.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229092130id_/http%3A//www.curlynikki.com/2009/12/spiral-set-for-natural-hair.html%3FshowComment%3D1279397951352) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the curlynikki.com privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524060332id_/http%3A//www.curlynikki.com/2009/12/spiral-set-for-natural-hair.html%3FshowComment%3D1279397951352) for the most accurate reproduction.*
 
 # Privacy Policy | Curly Nikki | Natural Hair Styles and Curly Hair Care
 
-Privacy Policy for CurlyNikki.com 
-
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at nikki@curlynikki.com. 
-
-At curlynikki.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by curlynikki.com and how it is used.
-
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. 
-
-Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
-
-Log Files  
-Like many other Web sites, CurlyNikki.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track userâ€™s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
-
-Cookies and Web Beacons  
-CurlyNikki.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. 
-
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include NaturallyCurly.com and Google Adsense. 
-
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on CurlyNikki.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
-
-CurlyNikki.com has no access to or control over these cookies that are used by third-party advertisers. 
-
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. CurlyNikki.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
-
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.  
+Our Commitment to Privacy  
 
 
-Copyrighted Material  
-This website may at times present copyrighted material (i.e. pictures), the use of which might not always been specifically authorized by the copyright owner. Such material is made available in an effort to advance understandings of hair and skin care. The author believes that this constitutes a “fair use” of any such copyrighted material as provided for in section 107 of the U. S. Copyright Law. In accordance with Title 17 U.S.C. Section 107, the articles published on this website are distributed without profit for research and educational purposes. 
+We respect the privacy of your information. We provide this explanation about our online information practices as a show of our commitment to protect your privacy.
+
+We do not sell or rent or share personally identifying information collected during your use of our Website without your permission.  
+
+
+The Information We Collect
+
+At the time you register on our site or you make a purchase request or agree to participate in a promotion, we collect and store your name, address, credit card numbers and other personally identifying information. We need this information to provide goods and services that you request and, assuming you indicate your desire to receive our newsletter, to let you know of additional goods and services about which you might be interested. We also use this information to customize your experience using our Website.
+
+We may also ask you for personally identifying information at other times, such as if you enter into a promotion, post a classified ad, communicate with us, or complete a survey. If you opt-in to receive information regarding a promotion, you give us your permission to share your name and e-mail address with the third party offering the promotion.
+
+In addition, we automatically gather general statistical information about our Website and visitors, such as IP addresses, browsers, pages viewed, number of visitors, goods and services purchased, etc., but in doing so we do not reference you by individual name, e-mail address, home address, or telephone number. We use this data in the aggregate to determine how much our customers use parts of our site so we can improve our site. We may provide this statistical information to third parties, but when we do so we do not provide personally identifying information without your permission. 
+
+As part of our service, we use cookies to store and sometimes track information about you. A cookie is a small amount of data that is sent to your browser from a web server and stored on your computer’s hard drive. Generally, we use cookies to remind us who you are and enable us to access your account information so you do not have to re-enter it; gather statistical information about usage by registered or unregistered users, research visiting patterns, and help target advertisements based on user interests; assist our retail partners track visits and process orders; and track progress and participation in promotions. In some instances, our retail partners and advertisers appearing at our site may use their own cookies. Preference and options configurations in your browser determine if and how a cookie will be accepted. You can change those configurations on your computer if you desire. By changing your preferences, you can accept all cookies, you can be notified when a cookie is set, or you can reject all cookies. If you do so and cookies are disabled, you may be required to re-enter your information more often and certain features of our site may be unavailable.  
+
+
+The Way We Use Information
+
+We use your personal identifying information to improve our marketing and promotional efforts, to statistically analyze site usage, to improve our content and product offerings and to customize our site’s content, layout, and services. 
+
+We may use your information to deliver information to you that, in some cases, is targeted to your interests, such as targeted banners, new services and promotions. You can opt out of receiving this information by clicking on the link you received in your confirmation email. We may ask you to provide us voluntarily with additional information regarding your personal or business interests, experience or requests which may use to customize our service for you.
+
+If you sign up for our e-mail newsletter, we use your e-mail address to contact you regarding administrative notices, new product offerings and communications relevant to your use of the site. We will not send you promotions or announcements unless you give us permission to do so. 
+
+If you place a request for products or services, we use information to ship your order.
+
+We may also use information to resolve disputes, investigate problems, or enforce our User Agreement. At times, we may review status or activity of multiple users to do so. We may disclose or access information whenever we believe in good faith that the law so requires or if we otherwise consider it necessary to do so to maintain service and improve our products and services. 
+
+If you upload content to our site, we reserve the right to reuse that content as we deem appropriate.
+
+We use your IP address to help diagnose problems with our server, to manage our Website and to enhance our site based on the usage pattern data we receive.  
+
+
+Security
+
+We employ reasonable and current security methods to prevent unauthorized access, maintain data accuracy, and ensure correct use of information. 
+
+Your account information and profile are password-protected. We recommend that you do not divulge your password to anyone. Our personnel will never ask you for your password in an unsolicited phone call or in an unsolicited e-mail. Remember to sign out of your account and close your browser window when you have finished your session. This is to help ensure that others cannot access your personal information and correspondence if you share a computer with someone else or are using a computer in a public place where others may have access to it.
+
+Whenever you voluntarily disclose personal information online – for example on message boards, through e-mail or in chat areas – that information can be collected and used by others. 
+
+No data transmission over the Internet or any wireless network can be guaranteed to be perfectly secure. As a result, while we try to protect your personal information, we cannot ensure or guarantee the security of any information you transmit to us, and you do so at your own risk.
+
+Children Under 13
+
+We have no way of distinguishing the age of individuals who access our Website, and so we carry out the same Privacy Policy for individuals of all ages. If a child has provided us with personally identifying information without parental or guardian consent, the parent or guardian should contact us to remove the information and opt out of promotional opportunities. 
+
+Third Party PracticesThe Privacy Policy of an advertiser or promotional service appearing at our site may differ from ours. We encourage you to read that policy before responding to the offer.
+
+Changes to Our Policy  
+
+
+Changes to our Privacy Policy may occur without further notice to you. Any changes to our Privacy Policy will be communicated through our Website as soon as reasonably possible. Information collected before changes are made will be secured according to the previous Privacy Policy.  
+
 
 Your Consent  
-By using our Website, you consent to the collection and use of this information in the manner we describe. 
 
-Product Reviews Disclosure   
+
+By using our Website, you consent to the collection and use of this information in the manner we describe.  
+
+
+Product Reviews Disclosure
+
 CurlyNikki.com occasionally receives free material from various manufacturers in connection with the manufacturer's desire to have its products reviewed by Curly Nikki. Furthermore, some of these manufacturers are CurlyNikki.com advertisers.
