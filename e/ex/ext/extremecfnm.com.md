@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the extremecfnm.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224115058id_/http%3A//extremecfnm.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extremecfnm.com privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524223046id_/http%3A//www.extremecfnm.com/privacy.html) for the most accurate reproduction.*
 
 # ExtremeCFNM.com - Privacy Policy
 
