@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the chat-avenue.com privacy policy that was archived on 2010-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101115183843id_/http%3A//www.chat-avenue.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chat-avenue.com privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524231541id_/http%3A//www.chat-avenue.com/privacy.html) for the most accurate reproduction.*
 
 # #1 Chat Avenue - Privacy Statement
 
 _**Important Note to Children under 13:**_ Children under 13 are NOT allowed to use any of our chat rooms or allowed to participate in any way, shape, or form on this website. 
 
-#1 Chat Avenue is a general audience community chat site that allows users to interact with other users via chat rooms and [message forums](https://web.archive.org/web/20101115183843id_/http%3A//www.chat-avenue.com/forums.html). It has sixteen different chat "categories" to choose from and a message forum with various topics. All users **MUST** be 13 or over to participate. 
+#1 Chat Avenue is a general audience community chat site that allows users to interact with other users via chat rooms and [message forums](https://web.archive.org/web/20110524231541id_/http%3A//www.chat-avenue.com/forums.html). It has sixteen different chat "categories" to choose from and a message forum with various topics. All users **MUST** be 13 or over to participate. 
 
 We use an outside ad company to display ads on our site. These ads may contain cookies. Cookies received with banner ads are collected by our ad company, and we do not have access to this information. This information is used for tracking purposes only and are not and cannot be used to obtain personal information about you or anyone else. 
 
