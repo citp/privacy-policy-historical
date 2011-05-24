@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the inwear.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123210502id_/http%3A//www.inwear.com/DK/popup/privacy-statement/%3FNYRO_WIDTH%3D550%26NYRO_HEIGHT%3D380%26partner%3D5343) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inwear.com privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524050205id_/http%3A//www.inwear.com/DK/popup/privacy-statement/%3FNYRO_WIDTH%3D550%26NYRO_HEIGHT%3D380%26partner%3D5343) for the most accurate reproduction.*
 
-# InWear DK
+# [privacy_statement] - InWear
 
 InWear knows that you care how information about you is used and shared and we appreciate your trust in us to do that carefully and sensibly. This notice describes our privacy policy. Our privacy policy may be updated from time to time; we recommend that you check this page regularly to stay up to date on any changes we have made.
 
@@ -79,11 +79,9 @@ We store your information for 5 years after which it is deleted. If you wish to 
 
 ## How do we protect your information?
 
-PeakPerformance-Store.com uses one of the most secure online ordering systems on the market, and we are constantly researching and improving our software to make sure we offer the highest possible security at all times.
-
 www.inwear.com uses one of the most secure online ordering systems on the market, and we are constantly researching and improving our software to make sure we offer the highest possible security at all times.
 
-We utilise Security Socket Layer (SSL) technology; one of the most secure systems for ordering online that allows encryption of your potential sensitive information, such as your name and address and critical sensitive information such as credit card information. Your information will be encrypted from the moment you enter it, and your sensitive information will not be saved on a public server. That means that information passed between you and our Website cannot be read in the event someone else intercepts it. The SSL technology provides an authentication that assures your browser that your data is being sent to the correct secure computer server; an encryption that encodes all data, so only the secure server is able to read it; and a data integrity that checks that the transferred data has not been altered.
+We utilise Security Socket Layer (SSL) technology; one of the most secure systems for ordering online that allows encryption of your potential sensitive information, such as your name and address and critical personal information such as credit card information. Your information will be encrypted from the moment you enter it, and your personal information will not be saved on a public server. That means that information passed between you and our Website cannot be read in the event someone else intercepts it. The SSL technology provides an authentication that assures your browser that your data is being sent to the correct secure computer server; an encryption that encodes all data, so only the secure server is able to read it; and a data integrity that checks that the transferred data has not been altered.
 
 ## Other websites
 
