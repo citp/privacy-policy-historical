@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the londoneye.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219080501id_/http%3A//www.londoneye.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the londoneye.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525012328id_/http%3A//www.londoneye.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
-This web site is owned and run by The London Eye Company Limited ("the London Eye"), a division of Merlin Entertainments Group. The Merlin Entertainments London Eye recognises that your privacy is important, and is committed to preserving it. This policy sets out our policy in relation to any personal information which you supply to us through your use of this website. 
+This web site is owned and run by The London Eye Company Limited ("the London Eye"), a division of Merlin Entertainments Group. The EDF Energy London Eye recognises that your privacy is important, and is committed to preserving it. This policy sets out our policy in relation to any personal information which you supply to us through your use of this website. 
 
 ## Booking your London Eye tickets online is quick, easy, convenient and safe. 
 
-The London Eye makes every effort to maintain customer confidentiality when securing an online payment. This includes ensuring the security of your credit card details and other personal information. All of your personal information is encrypted as it travels over the Internet. 
+The EDF Energy London Eye makes every effort to maintain customer confidentiality when securing an online payment. This includes ensuring the security of your credit card details and other personal information. All of your personal information is encrypted as it travels over the Internet. 
 
 ## How we collect data about you and your use of this web site 
 
@@ -27,7 +27,7 @@ We may also disclose your personal information to third parties:
 
 If you book a ticket from us, the data you give us about yourself will enable us to give you updates other than through our web site, using the contact details you provide, on promotions and services we think may interest you or to involve you in market research. To improve our picture of your interests we may link the data you give us with any data we have gathered (via cookies) about your use of the site. In some cases we may also wish to share your data with other parts of the Merlin Entertainments group or third party entities that process personal information on our behalf so that they can update you on promotions and services they think may be of interest to you. 
 
-Whenever we ask you for information about yourself, if you have indicated that you wish to receive direct marketing material from us and/or from third parties, your personal details will be included in a database compiled for direct marketing purposes and from time to time, you may receive these marketing communications. This will enable us to keep you informed about offers and events run by various attractions across the Merlin Entertainments Group, including Alton Towers, Thorpe Park, Warwick Castle, Madame Tussauds, The Merlin Entertainments London Eye and Chessington World of Adventures. 
+Whenever we ask you for information about yourself, if you have indicated that you wish to receive direct marketing material from us and/or from third parties, your personal details will be included in a database compiled for direct marketing purposes and from time to time, you may receive these marketing communications. This will enable us to keep you informed about offers and events run by various attractions across the Merlin Entertainments Group, including Alton Towers, Thorpe Park, Warwick Castle, Madame Tussauds, EDF Energy London Eye and Chessington World of Adventures. 
 
 If you have indicated that you wish to receive direct marketing material or e-mail updates from us, and/or from third parties but subsequently change your mind, you should notify us at privacy@londoneye.com. As soon after this as is reasonably practicable, we will remove your name from the relevant database. 
 
@@ -65,7 +65,7 @@ You are entitled to see a copy of any personal data (as defined in the Data Prot
 
 Any comments, queries and requests relating to our use of your data are welcomed and should be emailed to us at privacy@londoneye.com or addressed to us at:  
 Customer Services  
-The Merlin Entertainments London Eye  
+EDF Energy London Eye  
 Riverside Building  
 County Hall  
 Westminster Bridge Road  
@@ -77,4 +77,4 @@ SE1 7PB
 
 As we are constantly improving our site, there may be developments in how we use your data. All such developments will be promptly notified to you in this policy, and where appropriate, through e-mail notification. 
 
-The Merlin Entertainments London Eye is owned and operated by The London Eye Company Limited. Registered Office: 3 Market Close, Poole, Dorset, BH15 1NQ. Registered in England No. 2896849 
+The EDF Energy London Eye is owned and operated by The London Eye Company Limited. Registered Office: 3 Market Close, Poole, Dorset, BH15 1NQ. Registered in England No. 2896849 
