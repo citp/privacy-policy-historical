@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the feedsmixer.org privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215005228id_/http%3A//www.feedsmixer.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the feedsmixer.org privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524181049id_/http%3A//feedsmixer.org/privacy.php) for the most accurate reproduction.*
 
 # FeedsMixer
 
