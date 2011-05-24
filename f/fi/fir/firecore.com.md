@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the firecore.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123022307id_/http%3A//firecore.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firecore.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525003356id_/http%3A//firecore.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Fire Core
+# Privacy Policy | FireCore
 
 ### More fine print
 
@@ -8,7 +8,7 @@
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our home page and at every point where personally identifiable information may be requested.
 
 **The Information We Collect**  
-This notice applies to all information collected or submitted on the Fire Core, LLC website. On some pages, you can order products, make requests. The types of personal information collected at these pages are:
+This notice applies to all information collected or submitted on the FireCore, LLC website. On some pages, you can order products, make requests. The types of personal information collected at these pages are:
 
   * Name
   * Address
