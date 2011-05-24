@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the macaronikid.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227013247id_/http%3A//national.macaronikid.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macaronikid.com privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524101836id_/http%3A//national.macaronikid.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy : Macaroni Kid
 
@@ -35,3 +35,15 @@ If, at some time, you elect to unsubscribe to Macaroni Kid, your email address a
 **Government/Fraud/Security Requests** : MacaroniKid.com may disclose information should it be called upon to do so by any law enforcement agency or other governmental authority.   In addition, MacaroniKid.com may disclose information when we believe such release is appropriate to aid companies engaged in fraud protection or detection.
 
 **Business Transfer** : As we continue to develop our business, we might acquire other companies, which might include information about their customers.  If that happens, all reasonable efforts will be made to comply with the privacy policy of that company.  In the unlikely event that MacaroniKid.com (or its assets) are sold, customer information will be one of the assets which is transferred to the acquirer. 
+
+###   
+**Editorial Policy**
+
+Macaroni Kid's content is determined by our local and national editors. We select content which we believe will be the most relevant and interesting to our family-focused readers. Occasionally, we will feature content provided by our sponsors. When we do this, we'll let you know then and there. We'll never try to sneak something past you.
+
+On occasion, we will send dedicated emails on our sponsors' behalf. These will be clearly marked, "Sponsor Email" or similar to identify them as paid content. You will also recognize these with our Macaroni Kid branding. 
+
+We look forward to dishing the scoop on the best events, activities, products and places for you and your family.
+
+  
+
