@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the communityforce.com privacy policy that was archived on 2010-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101030141536id_/http%3A//www.communityforce.com/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the communityforce.com privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524063023id_/http%3A//www.communityforce.com/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # Community membership management Software | Content management | Dues Management
 
@@ -62,19 +62,7 @@ This policy was last modified on 04/23/2010
 
 If there are any questions regarding this privacy policy you may contact us using the information below.  
 5049 Ringwood Meadow STE D,  
-Sarasota FL 34235 |  [](https://web.archive.org/web/20101030141536id_/http%3A//www.communityforce.com/QuickTour.asp) [](https://web.archive.org/web/20101030141536id_/http%3A//www.communityforce.com/SignUp.asp) [](https://web.archive.org/web/20101030141536id_/http%3A//www.communityforce.com/images/CommunityForce.com.pdf) [](https://web.archive.org/web/20101030141536id_/http%3A//www.communityforce.com/Reseller.asp) |   
----  
-  
-### Upcoming Events
-
-##### Oct 26 - Oct 29:
-
-CommunityForce.com will be exhibiting it Scholarship Module at the NSPA Conference in Denver Colorado from Oct 26 - Oct 29 
-
-##### Sept 13 - Sept 15:
-
-CommunityForce.com will be at the Council on Foundations event Sept 13 - Sept 15.   
-  
+Sarasota FL 34235 |  [](https://web.archive.org/web/20110524063023id_/http%3A//www.communityforce.com/QuickTour.asp) [](https://web.archive.org/web/20110524063023id_/http%3A//www.communityforce.com/SignUp.asp) [](https://web.archive.org/web/20110524063023id_/http%3A//www.communityforce.com/Reseller.asp) [](https://web.archive.org/web/20110524063023id_/http%3A//www.communityforce.com/OrganizationChart.asp) |   
 ---  
   
 ### Community
