@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lux4u2.com privacy policy that was archived on 2009-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090430092027id_/http%3A//lux4u2.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lux4u2.com privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524224628id_/http%3A//www.lux4u2.com/en/privacy-policy) for the most accurate reproduction.*
 
-# Online Luxury Shop with Big Discounts, Designer Brands, Incredible Prices, Provides Free Shipping and Cash on Delivery Privacy Policy Upto 75% off on all products.
+# Privacy Policy
 
 ## PRIVACY POLICY
 
@@ -34,5 +34,5 @@ To browse without cookies, you can configure your browser to reject all cookies,
 **how can you remove your name from our direct mail or email list?**  
 To have your email address removed from our list of addresses that receive information about new products, service, sales and promotions, simply click on the "Unsubscribe" link that appears at the bottom of any email and follow the simple instructions. Alternately, if you have created an account with Lux4u2, you can also remove your email address from our list of addresses that receive information about new products, service, sales and promotions by clicking on the "my account" button that appears on most every page of our Web site, logging into your account, clicking on the "edit preferences" button, and making the appropriate change. 
 
-**your consent <.strong>  
-You acknowledge that this privacy policy is part of the terms of service and you agree that using this site signifies your assent to Lux4u2's privacy policy. Lux4u2 reserves the right to change the terms of service, including this privacy policy, at any time, without advanced notice. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. tell us what you think If you have any comments or questions about Lux4u2's privacy statement, please e-mail us at info@lux4u2.com  **
+**your consent**  
+You acknowledge that this privacy policy is part of the terms of service and you agree that using this site signifies your assent to Lux4u2's privacy policy. Lux4u2 reserves the right to change the terms of service, including this privacy policy, at any time, without advanced notice. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. tell us what you think If you have any comments or questions about Lux4u2's privacy statement, please e-mail us at info@lux4u2.ae
