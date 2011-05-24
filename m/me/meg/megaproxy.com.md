@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the megaproxy.com privacy policy that was archived on 2010-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100131003857id_/http%3A//www.megaproxy.com/legal/ps) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the megaproxy.com privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524060605id_/http%3A//www.megaproxy.com/legal/ps) for the most accurate reproduction.*
 
 # Megaproxy.com, Inc \ Online privacy statement
 
