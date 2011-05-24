@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the harlemglobetrotters.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121034612id_/http%3A//www.harlemglobetrotters.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harlemglobetrotters.com privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524045044id_/http%3A//www.harlemglobetrotters.com/privacypolicy) for the most accurate reproduction.*
 
-# The Official Site of the Harlem Globetrotters: Privacy Policy
+# Harlem Globetrotters Basketball - Awesome Family Entertainment: Privacy Policy
 
 This is the web site of Harlem Globetrotters.  
 Our postal address is   
