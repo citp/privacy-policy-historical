@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abt.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220171117id_/http%3A//www.abt.com/custserv/abtPrivacy.php3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abt.com privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524042009id_/http%3A//www.abt.com/custserv/abtPrivacy.php3) for the most accurate reproduction.*
 
 # Abt Electronics And Appliance Store- HDTVs, Refrigerators and More
 
