@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the csnbaltimore.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122064741id_/http%3A//www.csnbaltimore.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the csnbaltimore.com privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524144345id_/http%3A//www.csnbaltimore.com/pages/privacy) for the most accurate reproduction.*
 
 # CSNbaltimore.com: Privacy Policy
 
@@ -53,7 +53,7 @@ Additionally, we may use IP address information to count and track aggregate vis
 
 Third Party Ad Servers
 
-We may use third-party advertising companies and advertising networks to serve certain ads to you on our behalf when you visit the Site or other websites.  These third-party delivered ads appearing on the Site may be delivered to you by DoubleClick and 24/7 Real Media.  Please be aware that we may add or subtract from this list of third-party advertising companies in the future, in our sole discretion and without notice to you.  Information (not including your name, address email address or telephone number) about your visits to this and other websites, may be used in order to provide advertisements about goods and services of interest to you.  In the course of serving advertisements to this Site, a third-party advertising company may place or recognize a unique cookie or web beacon on your browser. For more information about DoubleClick and 24/7 Real Media, cookies, and how to "opt-out," please 
+We may use third-party advertising companies and advertising networks to serve certain ads to you on our behalf when you visit the Site or other websites.  These third-party delivered ads appearing on the Site may be delivered to you by DoubleClick and 24/7 Real Media.  Please be aware that we may add or subtract from this list of third-party advertising companies in the future, in our sole discretion and without notice to you.  Information (not including your name, address email address or telephone number) about your visits to this and other websites, may be used in order to provide advertisements about goods and services of interest to you.  In the course of serving advertisements to this Site, a third-party advertising company may place or recognize a unique cookie or web beacon on your browser. For more information about DoubleClick and 24/7 Real Media, cookies, and how to "opt-out," please click here.
 
 Clear Gifs  
 We also may collect information through the use of clear gifs (also called Web Beacons and Web Bugs) in selected email messages we send you.  These are tiny graphic files, not visible to the human eye, that are included in HTML-based emails and used to let us know which emails we send are opened.  Clear gifs may also see or read cookies on your computer.  When authorized by Network, third parties specializing in monitoring aggregate statistical use of the Site with whom we contract, may use cookies, our web log files, web beacons, and other monitoring technologies to compile anonymous aggregate data.
@@ -98,4 +98,6 @@ One Comcast Center
 Philadelphia, PA 19103  
 Attn:  Business and Legal Affairs.
 
-©2010 Comcast Sports Management Services, LLC.  All rights reserved.
+Or by email at: [legal@comcastsportsnet.com](mailto:legal@comcastsportsnet.com)
+
+�2010 Comcast Sports Management Services, LLC.  All rights reserved.
