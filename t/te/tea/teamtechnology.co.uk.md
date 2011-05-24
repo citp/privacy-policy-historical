@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teamtechnology.co.uk privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120060705id_/http%3A//www.metarasa.com/editors/guidelines/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teamtechnology.co.uk privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524230017id_/http%3A//www.metarasa.com/editors/guidelines/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
