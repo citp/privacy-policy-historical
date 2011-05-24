@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sizzlingbit.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127044207id_/http%3A//www.sizzlingbit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sizzlingbit.com privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524060216id_/http%3A//www.sizzlingbit.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Sizzling Bit
 
 At SizzlingBit.com, the privacy of our visitors and readers is very important to us. Your privacy is guaranteed here.
 
@@ -24,4 +24,4 @@ You should consult the respective privacy policies of third-party advertisement 
 
 If you have any further questions or queries regarding our privacy policy then please feel free to contact us by email at:
 
-_farzan [at] sizzlingbit [dot] com_
+ _farzan [at] sizzlingbit [dot] com_
