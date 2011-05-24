@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cyberciti.biz privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225004207id_/http%3A//www.cyberciti.biz/tips/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyberciti.biz privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524220806id_/http%3A//www.cyberciti.biz/tips/privacy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -54,8 +54,8 @@ We use third-party advertising companies to serve ads when you visit our website
 
 ##### Google Advertising Cookie and Privacy Policies
 
-  * Google, as a third party vendor, uses cookies to serve ads on your site.
-  * Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.
+  * Google, as a third party vendor, uses cookies to serve ads on Site.
+  * Google's use of the DART cookie enables it to serve ads to your users based on their visit to Site and other sites on the Internet.
   * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy](http://www.google.com/privacy_ads.html) policy.
 
 
@@ -109,4 +109,4 @@ Questions regarding Site policy, should be directed to us via [e-mail](https://w
 
 Please note that this privacy policy is subject to change without any prior notice to visitors.
 
-Last updates on: March-11-2010, 2:12PM IST.
+Last updates on: Jan-11-2010, 1:54am IST.
