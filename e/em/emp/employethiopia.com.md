@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the employethiopia.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226101729id_/http%3A//www.employethiopia.com/include/themes/nasthon1007/nas_static.php%3Fpage%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the employethiopia.com privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524141040id_/http%3A//www.employethiopia.com/include/themes/nasthon1007/nas_static.php%3Fpage%3Dprivacy_policy) for the most accurate reproduction.*
 
-# Jobs in Ethiopia | Vacancies in Ethiopia | Search Ethiopian Jobs Online | Jobs Ethiopia
+# 
 
 Introduction   
 employEthiopia respects each individual's right to personal privacy. We will collect and use information through our Web site only in the ways disclosed in this statement. This statement applies solely to information collected at employEthiopia’s Web site.   
