@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getsurrey.co.uk privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226134438id_/http%3A//www.getsurrey.co.uk/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getsurrey.co.uk privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524050109id_/http%3A//www.getsurrey.co.uk/privacy_policy) for the most accurate reproduction.*
 
 # getsurrey
 
