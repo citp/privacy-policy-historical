@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the journalhome.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124054802id_/http%3A//www.journalhome.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the journalhome.com privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524153417id_/http%3A//www.journalhome.com/about/privacy.php) for the most accurate reproduction.*
 
 # Journal Home Free Blog Host Privacy Policy - JournalHome.com
 
@@ -11,8 +11,7 @@ The following discloses our Privacy Policy.
 ### What information are you collecting and how are you collecting it?
 
 Every computer connected to the Internet is given a domain name and a set of numbers, that serve as that computer's "Internet Protocol" (IP) address. When a visitor requests a page from any Web site within the JournalHome Media Network, our Web servers automatically recognize that visitor's domain name and IP address.  
-The domain name and IP address reveal nothing personal about you other than the IP address from which you have accessed our site. We use this information to examine our traffic in aggregate, and to investigate misuse of the JournalHome Media Network, its users, or to cooperate with law enforcement.  
-
+The domain name and IP address reveal nothing personal about you other than the IP address from which you have accessed our site. We use this information to examine our traffic in aggregate, and to investigate misuse of the JournalHome Media Network, its users, or to cooperate with law enforcement.
 
 ### What are cookies?
 
@@ -72,11 +71,12 @@ JournalHome.com Media will disclose personal information and/or IP addresses, wh
   3. Identify persons who may be violating the law, the JournalHome.com Media legal notice, Web site User Agreement, Web site Terms of Service, the rights of third parties, or otherwise misusing the JournalHome.com Media Network or its related properties, 
   4. Fulfill a user's order or request. 
 
+
+
 JournalHome.com Media Network uses reasonable precautions to keep the information disclosed to us secure.  
 JournalHome.com Media Network reserves the right to transfer all such information in connection with the sale of all or part of JournalHome.com Media's capital stock or assets.  
 Furthermore, we are not responsible for any breach of security or for any actions of any third parties that receive the information.   
-We are not responsible for such third party privacy policies or how they treat information about their users  
-
+We are not responsible for such third party privacy policies or how they treat information about their users
 
 ### What else should I know about my privacy when online?
 
@@ -93,3 +93,30 @@ Ultimately, you are solely responsible for maintaining the secrecy of your perso
 ### Your Consent To This Agreement
 
 By using the JournalHome.com Media Network, you consent to the collection and use of information by JournalHome.com Media Network as specified above. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. 
+
+### What is JournalHome.com?
+
+Journalhome.com is a free blog hosts. In simple terms it is where your very own blog will be located and stored.  
+But you are in complete control of what will appear on the blog itself.  
+In Short, JournalHome.com hosts [**your blog**](http://www.journalhome.com/about/features.php). 
+
+### What else does JournalHome.com offer?
+
+So many [features](http://www.journalhome.com/about/features.php)... so little time .  
+
+
+  * It's free, and you can make money with your own ads.
+  * Well as well as hosting your blog we ensure that the data is backup on a regular basis.
+  * We have walls, statistics, plugins and much, much more.
+  * We we handle rss for your blog entries and offer a common meeting point for other bloggers.
+  * We tell everybody, (we actually ping them), when you update your blog.
+  * Because JournalHome.com has been around for a while your blog will be accessible to over 200 000 visitors.
+  * [And more...](http://www.journalhome.com/about/features.php)
+
+
+
+### Can I advertise on my Blog?
+
+Yes, JournalHome.com is an ad sharing blog hosts. Meaning that you can include your own Google Adsense® publisher ID.  
+Once you have created your own free blog account you will be able to select the color, channel and much more.  
+_The more you blog the better_
