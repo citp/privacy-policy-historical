@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the salford.ac.uk privacy policy that was archived on 2009-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090831035115id_/http%3A//www.ils.salford.ac.uk/governance/legislation/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salford.ac.uk privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524145200id_/http%3A//www.ils.salford.ac.uk/governance/legislation/privacy) for the most accurate reproduction.*
 
-# Information Governance | Information & Learning Services | University of Salford - A Greater Manchester University
+# Privacy Statement for the University of Salford Website | Information Governance | University of Salford - A Greater Manchester University
 
 ## Our commitment to privacy
 
@@ -187,7 +187,3 @@ Salford, Lancashire, M5 4WT
 Contact: Matthew Stephenson  
 E-mail: [m.stephenson@salford.ac.uk](mailto:m.stephenson@salford.ac.uk)  
 Telephone: +44 (0) 161 2953152
-
-This privacy statement was last modified on 15 May 2006. 
-
-This information was provided by Matthew Stephenson on 01/06/06 
