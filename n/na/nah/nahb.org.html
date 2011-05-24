@@ -1,10 +1,28 @@
-<!--The following is the downloaded HTML source of the nahb.org privacy policy that was archived on 2010-12-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101205034405id_/http%3A//www.nahb.org/footer_content.aspx%3FfooterContentID%3D64) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nahb.org privacy policy that was archived on 2011-05-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110524153132id_/http%3A//www.nahb.org/footer_content.aspx%3FfooterContentID%3D64) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head><title>
 	NAHB: NAHB Privacy Policy
-</title><meta name="verify-v1" content="XPH/fFpyJ7IjoVCc7Jy3tPNVuQR5TymzY8U2jJ5QFHg="><link href="/js/Compress.aspx?fileset=maininnercss&amp;v=7.5.2" rel="stylesheet" type="text/css"><script type="text/javascript" src="/js/Compress.aspx?fileset=mainjs"></script><script type="text/javascript" src="/js/dropdown_js.aspx?dhtmlMenu_1,4"></script><meta name="Description"><meta name="Keywords"><meta name="WT.ti" content="NAHB Privacy Policy"><meta name="WT.cg_n" content="Search Results"><meta name="WT.cg_s"><meta name="WT.ad"><meta name="WT.si_n"><meta name="WT.si_x"><meta name="WT.drill" content="Home;NAHB Privacy Policy"><script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js"></script><script type="text/javascript">GS_googleAddAdSenseService("ca-pub-7907528423314502");GS_googleEnableAllServices();</script><script type="text/javascript">GA_googleAddSlot("ca-pub-7907528423314502", "Dashboard");</script><script type="text/javascript">GA_googleFetchAds();</script><script type="text/javascript" src="https://s7.addthis.com/js/250/addthis_widget.js"></script></head>
-<body bgcolor="#ffffff" id="notloggedin" class="brandpurple">
+</title><meta name="verify-v1" content="XPH/fFpyJ7IjoVCc7Jy3tPNVuQR5TymzY8U2jJ5QFHg=">
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-19606743-2']);
+        _gaq.push(['_setDomainName', 'none']);
+        _gaq.push(['_setAllowLinker', true]);
+       _gaq.push(['_setCustomVar',1,'GuestType','Other',2]);_gaq.push(['_setCustomVar',3,'ContentGroup','Search Results',3]);
+        _gaq.push(['_trackPageview']);
+
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+
+</script>
+
+<link href="/js/Compress.aspx?fileset=maininnercss&amp;v=8.1" rel="stylesheet" type="text/css"><script type="text/javascript" src="/js/Compress.aspx?fileset=mainjs&amp;v=8.1"></script><script type="text/javascript" src="/js/dropdown_js.aspx?dhtmlMenu_1,4"></script><meta name="Description"><meta name="Keywords"><meta name="WT.ti" content="NAHB Privacy Policy"><meta name="WT.cg_n" content="Search Results"><meta name="WT.cg_s"><meta name="WT.ad"><meta name="WT.si_n"><meta name="WT.si_x"><meta name="WT.drill" content="Home;NAHB Privacy Policy"><script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js"></script><script type="text/javascript">GS_googleAddAdSenseService("ca-pub-7907528423314502");GS_googleEnableAllServices();</script><script type="text/javascript">GA_googleAddSlot("ca-pub-7907528423314502", "Dashboard");</script><script type="text/javascript">GA_googleFetchAds();</script></head>
+<body bgcolor="#ffffff" id="notloggedin" class="brandpurple" style="">
     <div id="wrapper">
         <!-- googleoff: all -->
         
@@ -72,11 +90,12 @@ ul.jd_menu li {
                     $("#dashboard-expanded").html("Loading - this may take a moment.....");
                     var now = new Date();
                     var ticks = now.getTime();
+                    dashInit = true; // this was moved because the load was getting called multiple times before it could finish
+                    
                     $("#dashboard-expanded").load("/Dashboard.aspx?t=" + ticks,{},function(){
                         $("div.scroll-pane").jScrollPane();
                         $("#dashboard-expanded .boxTitle").corner("round top 7px");
                         showAd();
-                        dashInit = true;
                     })
                 } else {
                     $("#dashboard-expanded>*").show();
@@ -110,6 +129,8 @@ ul.jd_menu li {
         },function(){
             $(this).removeClass("hover")
         })
+        
+        $("div.tweet").html("").tweet();
     })
 </script>
 
@@ -333,9 +354,9 @@ function HideRSS()
      <a href="/Form_emailToFriend.aspx?link=%2ffooter_content.aspx%3ffooterContentID%3d64%26emailFriend%3dtrue&amp;cap=NAHB+Privacy+Policy&amp;contentTypeID=0&amp;contentID=0" id="ctl00_pfv_aEmailToFriend" onclick="popupWin=popupDialog('popupWin',600,500,'status=1,scrollbars=0,resizable=1')" target="popupWin">
                 <img src="/style/main/images/inner/email_off.gif" border="0" alt="Email to friend" hspace="0" align="top"></a> <a href="/footer_content.aspx?footerContentID=64&amp;print=true" id="ctl00_pfv_aPfLink">
                         <img src="/style/main/images/inner/print_off.gif" border="0" alt="Printer Friendly Version" hspace="0" align="top"></a> 
-    <a id="ctl00_pfv_aShare" class="addthis_button" href="https://www.addthis.com/bookmark.php">
+    <a id="ctl00_pfv_aShare" class="addthis_button">
         <img src="/style/main/images/inner/share_off.gif" border="0" alt="Share" hspace="0"></a>
-    <img src="/style/main/images/inner/text_off.gif" id="ctl00_pfv_imgText" border="0" alt="Make text larger or smaller" hspace="0" title="Make text larger">
+    <img src="/style/main/images/inner/text_off.gif" id="ctl00_pfv_imgText" border="0" alt="Make text larger or smaller" hspace="0">
     
 </div>
 <div id="divPageToolsMsg">
@@ -418,11 +439,11 @@ If you have any questions, please <a href="/contact_us_form.aspx?sectionID=178" 
         <a href="/page.aspx/landing/sectionID=5">About NAHB</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/footer_content.aspx?footerContentID=65">Terms of Service</a>&nbsp;&nbsp;|&nbsp;&nbsp;NAHB Privacy Policy&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/page.aspx/landing/sectionID=427">Help</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/page.aspx/landing/sectionID=156">Contact Us</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/reference_list.aspx?sectionID=951">NAHB Careers</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/page.aspx/generic/sectionID=480">Advertise with NAHB</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/sitemap.aspx">Sitemap</a>
     </p>
     <p>
-        National Association of Home Builders: Reshaping and Enriching our Communities.
+        National Association of Home Builders: Reshaping and Enriching Our Communities.
     </p>
     <p>
         ©
-        2010. All rights reserved.
+        2011. All rights reserved.
     </p>
 </div>
 
@@ -439,21 +460,6 @@ _tag.dcsCollect();
 <div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="http://ssdc.nahb.org/dcswwq8kj1000086etz8vcrbu_6i6y/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=8.6.2"/></div>
 </noscript>
 
-    
-
-        <script type="text/javascript">
-            var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-            document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-        </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-
-        <script type="text/javascript">
-            try {
-                var pageTracker = _gat._getTracker("UA-5053938-1");
-                pageTracker._trackPageview();
-            } catch (err) { }
-        </script>
-
-    
 
 
 </body></html>
