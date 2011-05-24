@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the crash.net privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121160306id_/http%3A//www.crash.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crash.net privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524023937id_/http%3A//www.crash.net/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Crash.Net
 
-[**WRC**](https://web.archive.org/web/20101121160306id_/http%3A//www.crash.net/wrc) »  [Flying Finn](https://web.archive.org/web/20101121160306id_/http%3A//www.crash.net/world+rally/blogs/60852/1/flying_finn.html) : [Vice-champion](https://web.archive.org/web/20101121160306id_/http%3A//www.crash.net/world+rally/blog/165132/1/60852/vice-champion.html) [[6]](https://web.archive.org/web/20101121160306id_/http%3A//www.crash.net/world+rally/comments/165132/1/a/vice-champion.html)
+[**ALMS**](https://web.archive.org/web/20110524023937id_/http%3A//www.crash.net/sportscars) »  [D-Brief](https://web.archive.org/web/20110524023937id_/http%3A//www.crash.net/alms/blogs/61/1/d-brief.html): [Getting up to GT1 podium class](https://web.archive.org/web/20110524023937id_/http%3A//www.crash.net/alms/blog/169482/1/61/getting_up_to_gt1_podium_class.html)
 
-In Jari-Matti Latvala's latest exclusive column on Crash.net, the BP Ford Abu Dhabi WRT man reflects on Rally GB, where he finished third and secured second in the drivers' championship. 
+Although his Le Mans ambitions may have been put on hold, David Brabham is beginning to enjoy life in the FIA GT1 World Championship. 
 
 Crash.Net has a firm commitment to the privacy of our members' personal information. The following discloses our information gathering and dissemination practices for this website.
 
