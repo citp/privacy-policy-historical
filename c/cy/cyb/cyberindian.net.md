@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cyberindian.net privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229101617id_/http%3A//www.cyberindian.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyberindian.net privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524072421id_/http%3A//www.cyberindian.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy « CyberIndian Tech
+# Privacy Policy — CyberIndian Tech
 
 Cyberindian Tech is provided “as is” and “as available”. Pages on this website contain general information about technology for professional and home use products and systems.
 
