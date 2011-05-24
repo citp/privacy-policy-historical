@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gobackpacking.com privacy policy that was archived on 2010-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101207150951id_/http%3A//www.gobackpacking.com/Blog/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gobackpacking.com privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524053911id_/http%3A//www.gobackpacking.com/Blog/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Go Backpacking
+# Go Backpacking | Privacy Policy - Go Backpacking
 
 **Go Backpacking respects your privacy.**
 
@@ -28,4 +28,4 @@ While we do our best to protect your personal information, we cannot guarantee t
 
 Please contact those vendors and others directly if you have any questions about their privacy policies.
 
-For any other information email [webmaster](mailto:rtwdave@gmail.com)
+For any other information email [webmaster](http://cloudflare.com/email-protection.html#f381878497928596b3949e929a9fdd909c9e)
