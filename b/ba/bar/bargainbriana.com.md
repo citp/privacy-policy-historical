@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the bargainbriana.com privacy policy that was archived on 2010-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101209054945id_/http%3A//bargainbriana.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bargainbriana.com privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524043814id_/http%3A//bargainbriana.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | BargainBriana
+
+## Privacy Policy
 
 **Privacy Policy for BargainBriana.com**
 
@@ -25,6 +27,6 @@ Deleting cookies does not mean you are permanently opted out of any advertising 
 
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
 
-AdSense Privacy Policy Provided by [JenSense](https://web.archive.org/web/20101209051321id_/http://bargainbriana.com/about/privacy-policy/%E2%80%9Dhttp://www.JenSense.com%E2%80%9D)
+AdSense Privacy Policy Provided by [JenSense](https://web.archive.org/web/20110524043750id_/http://bargainbriana.com/about/privacy-policy/%E2%80%9Dhttp://www.JenSense.com%E2%80%9D)
 
 Share the Bargains with your friends: 
