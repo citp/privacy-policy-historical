@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mu-sigma.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218094609id_/http%3A//mu-sigma.com/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mu-sigma.com privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524175712id_/http%3A//mu-sigma.com/privacy.html) for the most accurate reproduction.*
 
-# Mu Sigma
+# Mu Sigma - Privacy Policy
 
-The below sets out the practices of Mu Sigma as of January 2009 to the information which is gathered and distributed through www.mu-sigma.com.
+The below sets out the practices of Mu Sigma as of January 2011 to the information which is gathered and distributed through www.mu-sigma.com.
 
 With respect to information collected: For each visitor to the website, our server does not recognize any information regarding your domain or email address. Sessions of visitors to the website are monitored, but the user remains anonymous.
 
