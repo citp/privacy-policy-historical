@@ -1,39 +1,45 @@
-> *The following text is extracted and transformed from the sce.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617155049id_/http%3A//www.sce.com/SC3/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sce.com privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524040058id_/http%3A//www.sce.com/PrivacyPolicy/privacypolicy.htm) for the most accurate reproduction.*
 
 # SCE - Privacy Policy
 
-Southern California Edison (SCE) respects the privacy of our customers. We realize that customer concerns about privacy and the secure transfer, storage, and use of personal information have increased with the growth of online services. That’s why SCE maintains strict privacy policies and uses state-of-the-art technologies to safeguard customer information.
+_Last updated: February, 2011_
 
- This page offers information on the following topics related to our privacy policies and practices:
+Southern California Edison (SCE) respects the privacy of all visitors to our website. We realize concerns about privacy and the secure transfer, storage, and use of personal information have increased with the growth of online services. That is why SCE maintains strict privacy policies and uses state-of-the-art technologies to safeguard personal information.
 
-  **What kind of information do we collect?**  
-When you visit our Web site there are two kinds of information that we are likely to record:
+### What kind of information do we collect?
 
-> 1\. Non-personal statistical information collected in the aggregate. 
+When you visit our website there are several kinds of information that we are likely to record:
 
-This is anonymous information on subjects such as: how many visitors come to our Web site, how they navigate through the site, which browsers they use to visit the site, etc. 
+#### 1\. Non-personal statistical information collected in the aggregate.
 
-> 2\. Personal information that you knowingly supply to us.
+This is anonymous information on subjects such as: how many visitors come to our website, how they navigate through the site, which browsers they use to visit the site, etc. This information is collected in aggregate to aide in our continuing efforts to improve our visitor’s online experience.
 
-When you sign up for certain products or register on the SCE Web site to access your account information, SCE will collect personal information that will help us to identify you, authenticate you, and provide you better service in the future. This information is called “personally identifiable information” and is used to associate usage information with a specific individual or entity. Examples of personally identifiable information are: customer name, address, telephone number, e-mail address, account number, etc. It is a common business practice to collect “personally identifiable information” in order to conduct business and provide customers with specific services. SCE has collected this information from customers in the past to provide services through mail or over the telephone. The emergence and popularity of the Internet provides SCE with yet another way to communicate with customers and meet customer needs. 
+#### 2\. Personal information that you voluntarily supply to us.
 
-**We do not sell or trade customer information.  
-** SCE will not sell or trade your personal information to any third party, absent authorization by you. In fact, because we are a regulated utility, the California Public Utilities Commission forbids us to do so. The Internet medium will not change this.  We only collect your personal data in order to provide you with better services.
+When you sign up for certain services, correspond with us, or register on our website to access your account information, we may collect “personally identifiable information” that can help us to identify and authenticate you, and fulfill your service request. Examples of personally identifiable information include your name, address, telephone number, e-mail address, financial account information, etc.
 
-  **Receipt of E-mails**  
-E-mail gives SCE another convenient avenue to communicate with its customers. We hope to periodically tell you about new rates, products, and services that would benefit you. SCE will not, however, send you e-mails if you do not wish to receive them. If at anytime you would like to remove yourself from SCE’s e-mail list, you can do so by updating your profile information within [**My Account**.](http://www.sce.com/sma/)
+It is a common business practice to collect personally identifiable information in order to conduct business and provide specific services. SCE has collected this information from customers and others in the past to provide services through mail or over the telephone. 
 
-  **Security**  
-All transfers of personal information on SCE.com are secured by the industry standard Secure Sockets Layer (SSL) protocol. SSL prohibits other Web users from gaining access to your personal information.
+#### 3\. Information collected by cookies and similar technology.
 
-  **Children**  
-SCE does not seek to collect personal information from children under 18 years of age.  We do not have any content on our site that would be considered harmful to children and certainly do not restrict children from visiting our site. In fact, we have a site specifically for children called the SCE Kids Electrical Safety World. This site is designed to educate children and teachers about basic electricity facts and history. It is particularly useful for providing safety information. At this site, children may send e-mail questions or comments to us. In compliance with the Children's Online Privacy Protection Act (COPPA), we do not collect any specific personally identifiable information from children at this site, beyond their e-mail address; and we only collect a child’s e-mail address to respond to a one-time request from the child, after which the child’s e-mail address is deleted, or with advance verifiable parental consent.
+Like many websites, we may use "cookies" and “web beacons” to obtain certain types of information when your web browser accesses our website or advertisements and other content served by or on behalf of SCE on other websites. Cookies are text files placed in your computer's browser to store your preferences. Cookies do not contain personally identifiable information; however, once you choose to provide personally identifiable information on a site, this information may be linked to the data stored in the cookie. You can change your privacy preferences regarding the use of cookies and similar technologies through your browser.
 
-  **Linked Web Sites**   
-The SCE Web site contains links to various other Web sites. Please be aware that these other sites may have privacy policies that differ from SCE’s. SCE is in no way responsible for either the content that appears on linked sites, or your privacy once you have linked to other sites. 
+### We do not sell or trade personal information
 
-**Updates**  
-In order to improve our service or to keep up with future industry changes, the information in this privacy policy may be periodically updated. We will post a new date in the event that the current policy is altered. This statement posted December 2000.
+SCE will not sell or trade your personal information to any third party, absent authorization by you. We only collect your personal data in order to provide you with better services.
 
+### Receipt of e-mails
 
+E-mail gives SCE another convenient avenue to communicate with the public. We hope to periodically tell our customers about new rates, products, and services that would benefit them. You will receive e-mails from us or our authorized third-party fulfilling agent if you have signed up to receive notifications of certain news or events, or if you have requested information. SCE will not, however, send you e-mails if you have not specifically opted to receive these communications or do not wish to receive them. If you are a customer that has registered to access your account on our website and you would like to remove yourself from SCE’s e-mail list, you can do so by updating your profile information within My Account.
 
+### Children
+
+SCE does not knowingly collect personal information from children under 13 years of age. We do not have any content on our site that would be considered harmful to children and certainly do not restrict children from visiting our site.
+
+### Linked Websites
+
+The Southern California Edison website contains links to other websites. Please be aware that these other sites may have privacy policies that differ from SCE’s. SCE is in no way responsible for either the content that appears on linked sites or your privacy once you have linked to other sites.
+
+### Updates
+
+In order to improve our service or to keep up with future industry changes, the information in this privacy policy may be periodically updated. We will post a new date in the event that the current policy is altered. 
