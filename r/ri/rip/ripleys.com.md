@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ripleys.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206160812id_/http%3A//www.ripleys.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ripleys.com privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524052646id_/http%3A//www.ripleys.com/privacy-policy) for the most accurate reproduction.*
 
-# Ripley's Believe It or Not! | Privacy Policy
+# Privacy Policy | Ripley's Believe It or Not!
 
 1\. This Privacy Policy covers the treatment of personally identifiable information that Ripley Entertainment Inc. and its parent, subsidiary and affiliated companies (collectively “Ripley”) collect when you are on the Ripley’s website, and when you use Ripley’s services. This policy also covers Ripley’s treatment of any personally identifiable information that Ripley’s business partners share with Ripley’s or that Ripley’s may collect on a partner’s site.  
 2\. This policy does not apply to the practices of companies that Ripley’s does not own or control or to people that Ripley’s does not employ or manage.
