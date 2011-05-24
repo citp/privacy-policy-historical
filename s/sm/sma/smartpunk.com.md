@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartpunk.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229170217id_/http%3A//www.smartpunk.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartpunk.com privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524183527id_/http%3A//www.smartpunk.com/privacy_policy) for the most accurate reproduction.*
 
 # SmartPunk by District Lines | Privacy Policy
 
