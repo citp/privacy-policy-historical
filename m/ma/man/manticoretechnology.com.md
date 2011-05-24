@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the manticoretechnology.com privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126120534id_/http%3A//manticoretechnology.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manticoretechnology.com privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524053411id_/http%3A//www.manticoretechnology.com/about/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy, Privacy Officer Contact, Data Collection Practices - Manticore Technology
 
