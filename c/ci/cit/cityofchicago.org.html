@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cityofchicago.org privacy policy that was archived on 2010-12-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101228000504id_/http%3A//www.cityofchicago.org/city/en/general/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cityofchicago.org privacy policy that was archived on 2011-05-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110524103639id_/http%3A//www.cityofchicago.org/city/en/general/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -49,11 +49,11 @@
         
         <script type="text/javascript" language="JavaScript" src="/etc/designs/city/js/jquery-ui-1.8.6.custom.min.js"></script>
         <script type="text/javascript" language="JavaScript" src="/etc/designs/city/js/jquery.ui.autocomplete.min.js"></script>
+        <script type="text/javascript" language="JavaScript" src="/etc/designs/city/js/jquery.cycle.min.js"></script>
         <script type="text/javascript" language="JavaScript" src="/etc/designs/city/js/common.js"></script>
         <script type="text/javascript" language="JavaScript" src="/etc/designs/city/js/jquery.superfish.js"></script>
         <script type="text/javascript" language="JavaScript" src="/etc/designs/city/js/jquery.toChecklist.min.js"></script>
         <script type="text/javascript" language="JavaScript" src="/etc/designs/city/js/jquery.hoverIntent.min.js"></script>
-        <script type="text/javascript" language="JavaScript" src="/etc/designs/city/js/jquery.supersubs.js"></script>
         <script type="text/javascript" language="JavaScript" src="/etc/designs/city/js/global-nav2.js"></script><style type="text/css">.qmfv{visibility:visible !important;}.qmfh{visibility:hidden !important;}</style><script type="text/javascript">if (!window.qmad){qmad=new Object();qmad.binit="";qmad.bvis="";qmad.bhide="";}</script><style type="text/css">.qmvritemmenu{}.qmmc .qmritem span{cursor:pointer;}</style>
         <script type="text/javascript" language="JavaScript" src="/etc/designs/city/js/jquery.prettyPhoto.js"></script>
         <script type="text/javascript" language="JavaScript" src="/etc/designs/city/js/photoGalleryEnhanced.js"></script>
@@ -79,6 +79,13 @@
                     dropShadows: false,
                     autoArrows: false
                 }); 
+
+				$(".peFallback").hide();
+				$(".peEnhance").show();
+				
+				$(".selfSubmitting").change(function() {
+					$(this).closest("form").submit();
+				});
             });          
         </script>
         
@@ -88,6 +95,8 @@
             <div id="container">
                 <!-- Header -->
                 
+
+
 
 
 <style type="text/css">
@@ -113,42 +122,61 @@
 
     <div class="search">
         <form action="/city/en/general/search_results.html" method="GET" name="g">
-            <p class="search-fields"><input type="text" id="site-search" value="Search Chicago" name="keyword" class="global-search">
+            <p class="search-fields"><input type="text" id="site-search" value="Keyword" name="keyword" class="global-search auto-search global-search-text ui-autocomplete-input" autocomplete="off" role="textbox" aria-autocomplete="list" aria-haspopup="true" style="color: rgb(128, 157, 185);">
             &nbsp;
-            <input type="submit" value="Go" name="Go">
+            <input type="submit" value="Search" name="Go" id="Go" class="mainSearchSubmitBtn" style="font-size: 12px; height: 20px;">
             </p>
             
         </form>
     </div>
     
     <script type="text/javascript">
+
 	$(document).ready(function() {
-		/*
-		$( "#site-search,#adv-city-site-search,#find-city-site-search,#find-services,#city-service-search-cmp" ).autocomplete({
+
+		
+		$( ".auto-search" ).autocomplete({
 			source: "/content/city/en.SuggestProxy.html", 
 			select: function( event, ui ) {
-				$(this).closest("form").submit();
-				log( ui.item ?
-					"Selected: " + ui.item.value + " aka " + ui.item.id :
-					"Nothing selected, input was " + this.value );
+				$(this).attr("value",ui.item.value);
+				var inputId = $(this).attr("id");
+				if(inputId != "findServicesBigSearchInput" && inputId != "city-service-search-cmp") {
+					$('#site-search').val($('#site-search').val().trim());
+					if($('#keyword').length) {
+						$('#keyword').val($('#keyword').val().trim());
+					}
+					$(this).closest("form").submit();
+				}
 			}
 		});
-		*/
+		
+		if($('#site-search').val() == "Keyword") {
+            $('#site-search').css('color','#809DB9');
+        }
 	});
     
     </script>
     
     <script type="text/javascript" language="JavaScript">
     $('#site-search').focus(function(){
-        if($(this).val() == 'Search Chicago') {
+        if($(this).val() == 'Keyword') {
             $(this).val('');
+            $(this).css('color','Black');
         }
     });
 
     $('#site-search').blur(function(){
         if($(this).val() == "") {
-            $(this).val('Search Chicago');
+            $(this).val('Keyword');
+            $(this).css('color','#809DB9');
         }
+    });
+    $('#Go').click(function(){
+        if($('#site-search').val() == "" || $('#site-search').val() == "Keyword") {
+        	$('#site-search').focus();
+        	return false;
+        }
+        $('#site-search').val($('#site-search').val().trim());  
     });
     </script>
 </div>
@@ -233,7 +261,11 @@
                         
                             <li> <a href="/city/en/progs/hous.html">Housing</a></li>
                         
+                            <li> <a href="/city/en/progs/inspectionspermitting.html">Inspections, Permitting, and Licensing</a></li>
+                        
                             <li> <a href="/city/en/progs/emp.html">Jobs</a></li>
+                        
+                            <li> <a href="/city/en/progs/recovery_reinvest.html">Recovery and Reinvestment (Stimulus)</a></li>
                         
                             <li> <a href="/city/en/progs/safety.html">Safety</a></li>
                         
@@ -259,7 +291,7 @@
                     <li> <a href="http://www.chicagocitytreasurer.com/" target="_blank">City Treasurer</a></li>
                     <li> <a href="http://www.chicityclerk.com/" target="_blank">City Clerk</a></li>
                     <li> <a href="/city/en/about/council.html">City Council, Your Ward &amp; Alderman</a></li>
-                    <li> <a href="http://mayor.cityofchicago.org/mayor/en/press_room/ordinances.html">Ordinances</a></li>
+                    <li> <a href="http://www.cityofchicago.org/city/en/ordinances.html">Ordinances</a></li>
                     <li> <a href="/city/en/about/other_ag.html">Other City, County &amp; State Agencies</a></li>
                     <li> <a href="/city/en/depts/dhr.html">City Employment</a></li>
                     
@@ -314,7 +346,7 @@
     <li><!--googleoff: anchor--><a href="/city/en/general/credits.html">Site Credits</a><!--googleon: anchor--></li>
     <li><!--googleoff: anchor--><a href="/city/en/general/sitemap.html">Site Map</a><!--googleon: anchor--></li>
     <li><!--googleoff: anchor--><a href="/city/en/general/contact.html">Contact Us</a><!--googleon: anchor--></li>
-    <li><!--googleoff: anchor--><a href="http://mayor.cityofchicago.org/mayor/en/press_room.html">Press Room</a><!--googleon: anchor--></li>
+    <li><!--googleoff: anchor--><a href="http://www.cityofchicago.org/city/en/depts/mayor/press_room.html">Press Room</a><!--googleon: anchor--></li>
 </ul>
 
 <div class="dotted-white"></div>
@@ -403,7 +435,7 @@
             <li><!--googleoff: anchor--><a href="/city/en/general/credits.html">Site Credits</a><!--googleon: anchor--> : </li>
             <li><!--googleoff: anchor--><a href="/city/en/general/sitemap.html">Site Map</a><!--googleon: anchor--> : </li>
             <li><!--googleoff: anchor--><a href="/city/en/general/contact.html">Contact Us</a><!--googleon: anchor--> : </li>
-            <li><!--googleoff: anchor--><a href="http://mayor.cityofchicago.org/mayor/en/press_room.html" target="_blank">Press Room</a><!--googleon: anchor--></li>
+            <li><!--googleoff: anchor--><a href="http://www.cityofchicago.org/city/en/depts/mayor/press_room.html" target="_blank">Press Room</a><!--googleon: anchor--></li>
         </ul>
     </div>
     <!-- /footer-navigation -->
@@ -440,4 +472,4 @@
         
         
     
-</body></html>
+<ul class="ui-autocomplete ui-menu ui-widget ui-widget-content ui-corner-all" role="listbox" aria-activedescendant="ui-active-menuitem" style="z-index: 1; top: 0px; left: 0px; display: none;"></ul></body></html>
