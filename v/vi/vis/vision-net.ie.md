@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vision-net.ie privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123203248id_/http%3A//www.vision-net.ie/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vision-net.ie privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524153005id_/http%3A//www.vision-net.ie/privacy.jsp) for the most accurate reproduction.*
 
 # Data Protection and Privacy - Vision-Net - Irish Company Information, Irish Business Info And UK Company Info
 
@@ -12,7 +12,7 @@ Vision-net.ie and/or it's sister companies may wish to send you information abou
 
 ## Personal Data Right of Access
 
-Under Section 4 of the Data Protection Acts 1988 and 2003 you have a right to get a copy of the personal data, which we have relating to you. An access request should be in writing (e-mail or written letter accepted) addressed to VisionNet Limited, 22 Northumberland Road, Ballsbridge, D4. Applications must be sent with proof of identity such as a passport copy or driving license. We will also require applications to include any personal data, which relates to our company, such as your Username or password. We will do our best to ensure that your request is dealt with within 28 days of receipt of application.
+Under Section 4 of the Data Protection Acts 1988 and 2003 you have a right to get a copy of the personal data, which we have relating to you. An access request should be in writing (e-mail or written letter accepted) addressed to VisionNet Limited, 22 Northumberland Road, Ballsbridge, Dublin 4. Applications must be sent with proof of identity such as a passport copy or driving license. We will also require applications to include any personal data, which relates to our company, such as your Username or password. We will do our best to ensure that your request is dealt with within 28 days of receipt of application. A charge of €6.35 will be payable on all data requests. This is a payable in advance and should accompany your initial data request.
 
 ## Company Data Right of Access
 
