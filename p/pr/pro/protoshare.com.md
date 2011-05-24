@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the protoshare.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121032247id_/http%3A//www.protoshare.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the protoshare.com privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524044429id_/http%3A//www.protoshare.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | ProtoShare.com
+# Privacy Policy | ProtoShare - Wireframe Tool and Prototype Development
 
 Site9 respects your privacy and is committed to protect the personal information that you share with us. The purpose of our Privacy Policy is to demonstrate our commitment to the privacy and protection of all personal data shared with Site9. Generally, you can browse through our website without giving us any information about yourself. When we do need your personal information to provide services that you request, to collect payment for those services, or when you choose to provide us with your personal information, this policy describes how we collect and use your personal information.
 
