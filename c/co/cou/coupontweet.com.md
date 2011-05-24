@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the coupontweet.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228113010id_/http%3A//www.coupontweet.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coupontweet.com privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524140558id_/http%3A//coupontweet.com/privacypolicy) for the most accurate reproduction.*
 
-# Untitled Page
+# CouponTweet.com
 
 Coupon Tweet is committed to safeguarding your privacy online. Please read the following policy to understand how your personal information will be treated as you make full use of our many offerings. This policy may change from time to time so please check back periodically. This Privacy Statement only covers the site Coupon Tweet. 
 
