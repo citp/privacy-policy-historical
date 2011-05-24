@@ -1,11 +1,8 @@
-> *The following text is extracted and transformed from the comminit.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121030336id_/http%3A//www.comminit.com/en/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comminit.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525013409id_/http%3A//www.comminit.com/en/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Communication Initiative Network
 
-**Privacy Policy**
-
-Protecting your privacy is important to us. We strive to keep your personal information confidential. By ensuring that you are aware of and understand our Privacy Policy, we can provide you, a member of our network, with better service. Please take a moment to read the following policy to learn how we handle your personal information.  
-
+Protecting your privacy is important to us. We strive to keep your personal information confidential. By ensuring that you are aware of and understand our Privacy Policy, we can provide you, a member of our network, with better service. Please take a moment to read the following policy to learn how we handle your personal information.
 
 **Why we collect personal information**
 
@@ -20,13 +17,11 @@ We collect and use your personal information for the following purposes:
 
 **How we collect personal information**
 
-We collect information about you in several ways: we ask for your contact information when you correspond with us, register on our website, subscribe to our newsletters, register for our online discussion, and participate in our online surveys. We collect and store the information you provide in a secure database. By providing information through our website when you correspond with us, register on our website, subscribe to our newsletters, register for our online discussions and participate in our online surveys, users should infer that if they provide the Communication Initiative with information we take this as inferred consent.  
-
+We collect information about you in several ways: we ask for your contact information when you correspond with us, register on our website, subscribe to our newsletters, register for our online discussion, and participate in our online surveys. We collect and store the information you provide in a secure database. By providing information through our website when you correspond with us, register on our website, subscribe to our newsletters, register for our online discussions and participate in our online surveys, users should infer that if they provide the Communication Initiative with information we take this as inferred consent.
 
 Personal information shall be as accurate, complete and up to date as is necessary for the purposes for which it is used. The information is provided by individuals using our website. It shall be conditional upon the information provided by the individuals. The staff person responsible for overseeing The Communication Initiative Networks collection and use of personal data is the Administrator, Victoria Martin.
 
-The Communication Initiative limits the collection of personal information to that which is necessary for the purposes, identified above, by our organisation.  
-
+The Communication Initiative limits the collection of personal information to that which is necessary for the purposes, identified above, by our organisation.
 
 **When we disclose personal information**
 
