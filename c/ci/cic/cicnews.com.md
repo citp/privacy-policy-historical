@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the cicnews.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229054041id_/http%3A//www.cicnews.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cicnews.com privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524132436id_/http%3A//www.cicnews.com/privacy.html) for the most accurate reproduction.*
 
 # CIC News - Privacy Policy
 
 CICNews.com is part of the Campbell Cohen Immigration Network (henceforth referred to as the CCIN or “our” or “we”) which is a division of The Campbell Cohen Law Firm. This privacy policy applies to the operations of all network properties and services within the CCIN family of websites, unless specifically indicated otherwise. The CCIN is a collection of Canadian Immigration related web properties which offer various customized and value-added services that facilitate the process of immigration to Canada.
 
-The CCIN includes the following web sites: [CICNews.com](https://web.archive.org/), [Canadaworkvisa.ca](http://www.canadaworkvisa.ca/), [Canadavisa.com](http://www.canadavisa.com/).
+The CCIN includes the following web sites: [CICNews.com](https://web.archive.org/), and [Canadavisa.com](http://www.canadavisa.com/).
 
 **Our postal address is: 215 Redfern, Suite 118,  
 Montreal, [Quebec](http://www.canadavisa.com/about-quebec.html "More about Quebec »"), Canada  
