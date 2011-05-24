@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the resortsandlodges.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226032334id_/http%3A//www.resortsandlodges.com/con-cms/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resortsandlodges.com privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524142940id_/http%3A//www.resortsandlodges.com/con-cms/company/privacy-policy) for the most accurate reproduction.*
 
 # ResortsandLodges.com :: Privacy Policy
 
@@ -14,13 +14,13 @@ Your privacy is important to us. To better protect your privacy we provide this 
 
 **The Information We Collect**
 
-This notice applies to all information collected or submitted on the ResortsandLodges.com® website. On some pages, you can make requests, and register to receive special offers. The types of personal information collected at these pages are: Name, Address, Email address, Phone number
+This notice applies to all information collected or submitted on the ResortsandLodges.com® website. On some Pages, you can make requests, and register to receive special offers. The types of personal information collected at these Pages are: Name, Address, Email address, Phone number
 
 **“Cookies”**
 
-ResortsandLodges.com® and any of its governed sections may use “cookies.” A “cookie” is technology that allows our site to store tokens of information (an “identifier”) in your browser used only by our site while you are on our site. Cookies are not used to determine the personal identity of anyone merely visiting our website. They help us track traffic patterns so that we know which areas of our site users like and don't like.
+ResortsandLodges.com® and any of its governed sections may use “cookies.” A “cookie” is technology that allows our site to store tokens of information (an “identifier”) in your browser used only by our site while you are on our site. Cookies are not used to determine the personal identity of anyone merely visiting our website. They help us track traffic patterns so that we know which Areas of our site Users like and don't like.
 
-Cookies have other uses as well. In the client log-in and traveler log-in sections, cookies are used to provide entry for subscribers who have chosen the “automatic log-on” feature during registration. Cookies allow our technology to provide current navigation stream in the “navigation crumb” atop every page of our website, so that you can easily follow your path and return to previous pages with ease. Cookies are also used to prevent online poll participants from voting more than once on a particular issue.
+Cookies have other uses as well. In the client log-in and traveler log-in sections, cookies are used to provide entry for subscribers who have chosen the “automatic log-on” feature during registration. Cookies allow our technology to provide current navigation stream in the “navigation crumb” atop every page of our website, so that you can easily follow your path and return to previous Pages with ease. Cookies are also used to prevent online poll participants from voting more than once on a particular issue.
 
 If you do not want to receive a cookie from ResortsandLodges.com®, you have the option of setting your browser to notify you when you receive a cookie so that you may determine whether to accept it or not (see your browser settings to do that). However, please be aware that if you do turn off ”cookies” in your browser, you will not be able to fully experience some features on our website such as automatic log-on and other personalization features.
 
