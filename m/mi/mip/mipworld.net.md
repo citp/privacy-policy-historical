@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mipworld.net privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123205059id_/http%3A//www.mipworld.com/en/Privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mipworld.net privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524045236id_/http%3A//www.mipworld.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - MIPWorld
 
@@ -97,5 +97,3 @@ The Portal is regularly monitored in order to supply you with the best service a
 Reed MIDEM reserves the right to modify or, in general, to update this notice at any time to change in the law or for other reasons, which we reserve the right to do without prior notice. 
 
 These modifications will enter into force as soon as they are posted online on the Portal. Therefore you are invited to visit the Portal’s version which is constantly online. If Reed MIDEM changes this Privacy Policy, your continued use of the Portal following the posting of such changes will signify your acceptance of those changes. 
-
-Test 2 Scheduled Publishing by Serge - page published at 1.00 pm
