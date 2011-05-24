@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kktv.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226200025id_/http%3A//www.kktv.com/unclassified/34218884.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kktv.com privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524065831id_/http%3A//www.kktv.com/unclassified/34218884.html) for the most accurate reproduction.*
 
 # GRAY TELEVISION, INC. PRIVACY POLICY AND YOUR PRIVACY RIGHTS
 
