@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interiorsbuyer.com privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129054713id_/http%3A//www.interiorsbuyer.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interiorsbuyer.com privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524072049id_/http%3A//interiorsbuyer.com/privacy.php) for the most accurate reproduction.*
 
 # InteriorsBuyer.com - Privacy Policy & Terms of Use
 
