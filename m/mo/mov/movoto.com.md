@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the movoto.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620033832id_/http%3A//www.movoto.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the movoto.com privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524051153id_/http%3A//www.movoto.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Movoto Real Estate - Privacy Policy
 
-Movoto takes your privacy seriously. At Movoto we created this policy to demonstrate our commitment to ensuring that your personal information remains safe and secure. For information about safe surfing from the FTC, see <http://www.ftc.gov/bcp/edu/pubs/consumer/tech/tec04.shtm>. 
+Movoto takes your privacy seriously. At Movoto we created this policy to demonstrate our commitment to ensuring that your personal information remains safe and secure. For information about safe surfing from the FTC, see [http://www.ftc.gov](http://www.ftc.gov/). 
 
 This policy applies to the Movoto website(s) and our interactions with Movoto clients and covers how Movoto collects and treats information that is personally identifiable, like name, address, email address or phone number. At its sole discretion, Movoto will update this privacy policy statement from time to time. You are responsible for regularly reviewing this Privacy Policy and any applicable changes. Continued use of the service after any changes take effect will constitute your acceptance of such changes. You can review the current version of this Privacy Policy at any time at [http://www.movoto.com](http://www.movoto.com/). 
 
@@ -58,6 +58,6 @@ Movoto requires our sales staff, affiliated real estate agents and other personn
 
 **Our Affiliated Entities:** A do-not-call request applies to Movoto and our affiliated agents for the purposes of Movoto initiated business contact. 
 
-**Any Questions?** If you have any questions or concerns about the do-not-call rules, bring it immediately to the attention Movoto Customer Care. Our central office is located at 1155 Broadway St Ste 205, Redwood City, CA 94063. We can also be reached by fax at (650) 556-0060, or by phone at (888) 766-8686.
+**Any Questions?** If you have any questions or concerns about the do-not-call rules, bring it immediately to the attention Movoto Customer Care. Our central office is located at 1730 S El Camino Real Ste 500, San Mateo, CA 94402. We can also be reached by fax at (650) 349-9900, or by phone at (888) 766-8686.
 
-© 2004-2009 by Movoto LLC. All rights reserved. Patent Pending. 
+© 2004-2011 by Movoto LLC. All rights reserved. Patent Pending. 
