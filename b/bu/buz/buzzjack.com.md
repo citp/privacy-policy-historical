@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buzzjack.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225094055id_/http%3A//www.buzzjack.com/forums/index.php%3Fshowtopic%3D40502) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buzzjack.com privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524120701id_/http%3A//www.buzzjack.com/forums/index.php%3Fshowtopic%3D40502) for the most accurate reproduction.*
 
 # Privacy Policy - BuzzJack Music Forum
 
