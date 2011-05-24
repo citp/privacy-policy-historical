@@ -1,12 +1,13 @@
-<!--The following is the downloaded HTML source of the livingthecountrylife.com privacy policy that was archived on 2010-11-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101123203508id_/http%3A//www.livingthecountrylife.com/lcl/file.jsp%3Ftemp%3Dyes%26item%3D/legal/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the livingthecountrylife.com privacy policy that was archived on 2011-05-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110524043933id_/http%3A//www.livingthecountrylife.com/lcl/file.jsp%3Ftemp%3Dyes%26item%3D/legal/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" xml:lang="en" lang="en"><head>
 
             <link rel="shortcut icon" href="/lcl/lcl.ico">
 
             <title>Living the Country Life Magazine Online</title>
             <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+    <meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0;">
 <meta property="fb:admins" content="1561750258">
 
 <link rel="stylesheet" type="text/css" href="/web/common/css/util.css">
@@ -17,12 +18,32 @@
     <link href="/web/common/css/sub-float.css" type="text/css" rel="stylesheet">
 
 
+    <script type="text/javascript" src="/web/js/mdp/lib/jquery/jquery.js"></script>
+    <script type="text/javascript" src="/web/common/js/lib/swfobject/swfobject.js"></script>
+    <script type="text/javascript">
+                    /* <![CDATA[ */
+                        document.domain = 'livingthecountrylife.com';
+                        if(typeof(mdp) === 'object'){
+                            mdp.domain = 'livingthecountrylife.com';
+                        }
+                    /* ]]> */
+                </script>
+            <script type="text/javascript">
+        /* <![CDATA[     */
+
+        /* MDP namespace */
+        var mdp = {app:{},util:{}};
+
+        /* ]]> */
+
+    </script>    
+
     <script type="text/javascript">initHide=0;</script>
     <script type="text/javascript" src="/web/common/js/windowFunctions.js"></script>
     <script type="text/javascript" src="/web/common/js/formValidation.js"></script>
     <script type="text/javascript" src="/web/common/js/common.js"></script>
     <script type="text/javascript" src="/web/common/js/util/minmax.js"></script>
-    <script type="text/javascript" src="/web/common/js/lib/mootools/mootools-release-1.11.js"></script>
+    <script type="text/javascript" src="/web/js/mdp/lib/jquery/jquery.js"></script>
     <script type="text/javascript" src="/web/common/js/dwr/ShareContentService.js"></script>
     <script type="text/javascript" src="/web/common/js/dwr/engine.js"></script>
     <script type="text/javascript" src="/web/common/js/util/forms.js"></script>
@@ -508,6 +529,7 @@ s.eVar11="";
 s.eVar12="";
 s.eVar13="";
 s.eVar14="";
+s.eVar27="";
 s.eVar28="";
 
 
@@ -536,11 +558,15 @@ ns=s.account; if(str!=""&&str!=null)ns+=","+str; s.linkType="o"; s.channel=""; s
 function sendPageEvent(str,pgname){ 
 ns=s.account; if(str!=""&&str!=null)ns+=","+str; s.pageName=pgname; s.server=s.server; s.channel=s.channel; s.pageType=s.pageType; s.prop1=s.prop1; s.prop2=s.prop2; s.prop3=s.prop3; s.prop4=s.prop4; s.prop5=s.prop5; s.prop6=s.prop6; s.prop7=s.prop7; s.prop18=s.prop18; s.prop19=s.prop19; s.campaign=s.campaign; s.state=s.state; s.zip=s.zip; s.events=s.events; s.products=s.products; s.purchaseID=s.purchaseID; s.eVar1=s.eVar1; s.eVar2=s.eVar2; s.eVar3=s.eVar3; s.eVar4=s.eVar4; s.eVar5=s.eVar5; s.eVar6=s.eVar6; s.eVar7=s.eVar7; s.eVar9=s.eVar9; s.eVar10=s.eVar10; s.eVar11=s.eVar11; s.eVar12=s.eVar12; void(s.tl(ns));
 void(refreshAdFrame());}
+function sendPageEventWithComSource(str,pgname,comScoreObject){
+ns=s.account; if(str!=""&&str!=null)ns+=","+str; s.pageName=pgname; s.server=s.server; s.channel=s.channel; s.pageType=s.pageType; s.prop1=s.prop1; s.prop2=s.prop2; s.prop3=s.prop3; s.prop4=s.prop4; s.prop5=s.prop5; s.prop6=s.prop6; s.prop7=s.prop7; s.prop18=s.prop18; s.prop19=s.prop19; s.campaign=s.campaign; s.state=s.state; s.zip=s.zip; s.events=s.events; s.products=s.products; s.purchaseID=s.purchaseID; s.eVar1=s.eVar1; s.eVar2=s.eVar2; s.eVar3=s.eVar3; s.eVar4=s.eVar4; s.eVar5=s.eVar5; s.eVar6=s.eVar6; s.eVar7=s.eVar7; s.eVar9=s.eVar9; s.eVar10=s.eVar10; s.eVar11=s.eVar11; s.eVar12=s.eVar12; void(s.tl(ns));
+$.ajax({ type: 'GET', url: "/bhg/files/partner/comscore/comscore_pageview_candidate.html", data: comScoreObject, dataType: "xml"});
+void(refreshAdFrame());}
 function sendPageEventWithParams(str, _pgname,_s_events,_s_eVar6){
 ns=s.account; if(str!=""&&str!=null)ns+=","+str; s.pageName=_pgname; s.server=s.server; s.channel=s.channel; s.pageType=s.pageType; s.prop1=s.prop1; s.prop2=s.prop2; s.prop3=s.prop3; s.prop4=s.prop4; s.prop5=s.prop5; s.prop6=s.prop6; s.prop7=s.prop7; s.prop18=s.prop18; s.prop19=s.prop19; s.campaign=s.campaign; s.state=s.state; s.zip=s.zip; s.events=_s_events; s.products=s.products; s.purchaseID=s.purchaseID; s.eVar1=s.eVar1; s.eVar2=s.eVar2; s.eVar3=s.eVar3; s.eVar4=s.eVar4; s.eVar5=s.eVar5; s.eVar6=_s_eVar6; s.eVar7=s.eVar7; s.eVar9=s.eVar9; s.eVar10=s.eVar10; s.eVar11=s.eVar11; s.eVar12=s.eVar12; void(s.tl(ns));
 }
-function sendPageEventWithReg(str, _pgname,_s_events,_s_products,_s_eVar6,_s_eVar18){
-ns=s.account; if(str!=""&&str!=null)ns+=","+str; s.pageName=_pgname; s.server=s.server; s.channel=s.channel; s.pageType=s.pageType; s.prop1=s.prop1; s.prop2=s.prop2; s.prop3=s.prop3; s.prop4=s.prop4; s.prop5=s.prop5; s.prop6=s.prop6; s.prop7=s.prop7; s.prop18=s.prop18; s.prop19=s.prop19; s.campaign=s.campaign; s.state=s.state; s.zip=s.zip; s.events=_s_events; s.products=_s_products; s.purchaseID=s.purchaseID; s.eVar1=s.eVar1; s.eVar2=s.eVar2; s.eVar3=s.eVar3; s.eVar4=s.eVar4; s.eVar5=s.eVar5; s.eVar6=_s_eVar6; s.eVar7=s.eVar7; s.eVar9=_pgname; s.eVar10=s.eVar10; s.eVar11=s.eVar11; s.eVar12=s.eVar12; s.eVar18=_s_eVar18; void(s.tl(ns));
+function sendPageEventWithReg(str, _pgname,_s_events,_s_products,_s_eVar6,_s_eVar18, _s_eVar27){
+ns=s.account; if(str!=""&&str!=null)ns+=","+str; s.pageName=_pgname; s.server=s.server; s.channel=s.channel; if(_s_eVar27 != null){s.eVar27 = _s_eVar27;} s.pageType=s.pageType; s.prop1=s.prop1; s.prop2=s.prop2; s.prop3=s.prop3; s.prop4=s.prop4; s.prop5=s.prop5; s.prop6=s.prop6; s.prop7=s.prop7; s.prop18=s.prop18; s.prop19=s.prop19; s.campaign=s.campaign; s.state=s.state; s.zip=s.zip; s.events=_s_events; s.products=_s_products; s.purchaseID=s.purchaseID; s.eVar1=s.eVar1; s.eVar2=s.eVar2; s.eVar3=s.eVar3; s.eVar4=s.eVar4; s.eVar5=s.eVar5; s.eVar6=_s_eVar6; s.eVar7=s.eVar7; s.eVar9=_pgname; s.eVar10=s.eVar10; s.eVar11=s.eVar11; s.eVar12=s.eVar12; s.eVar18=_s_eVar18; void(s.tl(ns));
 void(refreshAdFrame());}
 function sendSponsorPageEvent(str,pgname,sponsor){ 
 ns=s.account; if(str!=""&&str!=null)ns+=","+str; s.pageName=pgname; s.server=s.server; s.channel=s.channel; s.pageType=s.pageType; s.prop1=s.prop1; s.prop2=s.prop2; s.prop3=s.prop3; s.prop4=s.prop4; s.prop5=s.prop5; s.prop6=s.prop6; s.prop7=s.prop7; s.prop18=s.prop18; s.prop19=s.prop19; s.campaign=s.campaign; s.state=s.state; s.zip=s.zip; s.events=s.events; s.products=s.products; s.purchaseID=s.purchaseID; s.eVar1=s.eVar1; s.eVar2=s.eVar2; s.eVar3=s.eVar3; s.eVar4=s.eVar4; s.eVar5=s.eVar5; s.eVar6=s.eVar6; s.eVar7=s.eVar7; s.eVar9=s.eVar9; s.eVar10=s.eVar10; s.eVar11=s.eVar11; s.eVar12=s.eVar12; void(s.tl(ns));
@@ -567,11 +593,37 @@ qacct:"p-b9ZNCzRSkbMzc"
 <!-- Begin Crowd Science Tag -->
                     <script src="http://static.crowdscience.com/start-fa76ad0aab.js" type="text/javascript"></script>
                     <!-- End Crowd Science Tag -->
-                </div><!-- End Wrapper Divs DO NOT REMOVE -->
+                <!-- START Nielsen Online SiteCensus V6.0 -->
+<!-- COPYRIGHT 2010 Nielsen Online -->
+<script type="text/javascript">
+/* <![CDATA[ */
+  (function () {
+    var d = new Image(1, 1);
+    d.onerror = d.onload = function () {
+      d.onerror = d.onload = null;
+    };
+    d.src = ["//secure-us.imrworldwide.com/cgi-bin/m?ci=us-403846h&cg=0&cc=1&si=", escape(window.location.href), "&rp=", escape(document.referrer), "&ts=compact&rnd=", (new Date()).getTime()].join('');
+  })();
+/* ]]> */
+</script>
+<noscript>
+  <div>
+    <img src="//secure-us.imrworldwide.com/cgi-bin/m?ci=us-403846h&amp;cg=0&amp;cc=1&amp;ts=noscript"
+    width="1" height="1" alt="" />
+  </div>
+</noscript>
+<!-- END Nielsen Online SiteCensus V6.0 -->
+</div><!-- End Wrapper Divs DO NOT REMOVE -->
 
             <script type="text/javascript">
     /* <![CDATA[ */
         
+
+    if(typeof String.prototype.trim !== 'function') {
+      String.prototype.trim = function() {
+        return this.replace(/^\s+|\s+$/g, '');
+      }
+    }
 
     var mdp = mdp || {app:{},util:{}};
     mdp.util = mdp.util || {};
@@ -581,8 +633,8 @@ qacct:"p-b9ZNCzRSkbMzc"
     /* ]]> */
 </script>
         
-        <script language="javascript" type="text/javascript">
-	//handleOnLoad();
+        <script type="text/javascript">
+	/* handleOnLoad(); */
 	</script>
 <div id="layer"></div>
     
