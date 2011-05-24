@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wildwalks.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124055213id_/http%3A//www.wildwalks.com/office/office/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wildwalks.com privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524160215id_/http%3A//www.wildwalks.com/office/office/privacy.html) for the most accurate reproduction.*
 
 # Wildwalks - Privacy
 
