@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gll.org privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216141325id_/http%3A//www.gll.org/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gll.org privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524054049id_/http%3A//www.gll.org/privacy.asp) for the most accurate reproduction.*
 
 # GLL.org
 
@@ -19,9 +19,3 @@ We offer links to other Web sites. Please note: When you click on links to other
 If our policy on information collection or uses changes, will amend this privacy policy.
 
 If problems arise, users may contact GLL. We are committed to resolving disputes as soon as is possible.
-
-CHRISTMAS HOLIDAY OPENING HOURS Leisure Centre opening times over the festive period are now available. For more information click on the centre opening times button on your centre page.
-
-[](http://www.gll.org/membership/memberships-default.asp)
-
-Or enter your postcode
