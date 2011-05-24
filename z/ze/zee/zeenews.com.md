@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zeenews.com privacy policy that was archived on 2010-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100722142913id_/http%3A//www.zeenews.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zeenews.com privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524214329id_/http%3A//www.zeenews.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # 
 
@@ -18,4 +18,4 @@ Information collected online is often defined as being either anonymous or perso
 
 
 
-[](http://shopping.zeenews.com/v1/index.php)
+[](http://cricket.zeenews.com/ipl2011/)
