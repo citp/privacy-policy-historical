@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the center7.com privacy policy that was archived on 2009-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090322231442id_/http%3A//www.c7dc.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the center7.com privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524031158id_/http%3A//www.c7dc.com/legal/privacy-policy.htm) for the most accurate reproduction.*
 
-# C7 Data Centers | Utah Data Center | Hosting | Colocation | Disaster Recovery - Privacy Policy
+# Privacy Policy | Legal | C7 Data Centers
 
 C7 Data Centers takes privacy and data protection issues very seriously. C7's Privacy Policy applies to personal information collected from merchants who contract with C7 to use our services, as well as consumer information that C7 may acquire in the course of our business.
 
