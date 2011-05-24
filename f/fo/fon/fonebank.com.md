@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fonebank.com privacy policy that was archived on 2010-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101021080110id_/http%3A//www.fonebank.com/privacy.aspx%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fonebank.com privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524141038id_/http%3A//www.fonebank.com/privacy.aspx%23privacy) for the most accurate reproduction.*
 
-# Sell mobile phone for cash, Trade in, recycle mobile phones
+# Sell mobile phone for cash | mobile phone recycling | Sell mobiles to recycle at Fonebank
 
   
 
@@ -63,7 +63,7 @@ All comments, queries and requests relating to our use of your information are w
   
 Or Select Manufacturer
 
-**15 Mobile Phones or MORE?**
+**10 Mobile Phones or MORE?**
 
-Once you have completed your order, and if you have 15 mobiles or more, then Call 0207 404 6440  
+Once you have completed your order, and if you have 10 mobiles or more, then Call 0207 404 6440  
 and arrange a FREE COLLECTION 
