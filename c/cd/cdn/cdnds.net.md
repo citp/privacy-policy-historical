@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cdnds.net privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220053546id_/http%3A//www.digitalspy.co.uk/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cdnds.net privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524044317id_/http%3A//www.digitalspy.co.uk/about/privacy-policy) for the most accurate reproduction.*
 
-# About Us - Information - Privacy Policy - Digital Spy
+# Privacy Policy - About Us Information - Digital Spy
 
 This privacy policy is applicable to any personal information which is given by You to Digital Spy ("User Information") via the web site located at www.digitalspy.co.uk and all its related domains ("the Digital Spy Site").
 
@@ -12,7 +12,7 @@ Digital Spy shall not sell or otherwise transfer the User Information to unaffil
 
 Digital Spy reserves the right to perform statistical analyses of user behaviour and characteristics in order to measure interest in and use of the various areas of the site and to inform advertisers of such information as well as the number of users that have been exposed to or clicked on their advertising banners. Digital Spy will provide only aggregated data from these analyses to third parties. Digital Spy is not responsible for any actions or policies of any third parties who request personal information and users should check the applicable privacy policy of such party.
 
-You should be aware that information and data may be automatically collected through the use of "cookies". "Cookies" are small text files a web site can use to recognize repeat users and allow Digital Spy to observe behaviour and compile aggregate data in order to improve the Digital Spy Site and to target its advertising. Cookies do not attach to Your system and damage Your files. If You do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows You to deny or accept the cookie feature.
+You should be aware that information and data may be automatically collected through the use of "cookies". "Cookies" are small text files a web site can use to recognise repeat users and allow Digital Spy to observe behaviour and compile aggregate data in order to improve the Digital Spy Site and to target its advertising. Cookies do not attach to Your system and damage Your files. If You do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows You to deny or accept the cookie feature.
 
 You may notify Digital Spy of any updates, amendments and corrections to previously collected User Information by using the Feedback Form on the Digital Spy Site. Further, upon Your request, Digital Spy will use commercially reasonable efforts to delete Your User Information from its database; however, it may be impossible to delete Your entry without some residual information because of backups and records of deletions.
 
