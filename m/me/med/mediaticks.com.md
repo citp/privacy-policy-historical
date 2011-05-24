@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mediaticks.com privacy policy that was archived on 2010-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101112194237id_/http%3A//www.mediaticks.com/contact.php%3Fa%3Dpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediaticks.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525004508id_/http%3A//www.mediaticks.com/contact.php%3Fa%3Dpolicy) for the most accurate reproduction.*
 
 # MediaTicks Punjabi Music | youtube Video | wallpapers | Hindi Music | Socal Networking | Daily Horoscope | News | Bollywood | Sports | UK Punjab Music | pz10
 
