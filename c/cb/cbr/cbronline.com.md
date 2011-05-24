@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cbronline.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229021337id_/http%3A//www.cbronline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbronline.com privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524163852id_/http%3A//www.cbronline.com/privacy-policy) for the most accurate reproduction.*
 
-# Your Privacy on Computer Business Review
+# Privacy Policy - Computer Business Review
 
 At Computer Business Review we are dedicated to safeguarding and preserving your privacy when visiting our site, providing services to you or communicating electronically with us. 
 
