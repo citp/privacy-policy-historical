@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the djhistory.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216211210id_/http%3A//djhistory.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the djhistory.com privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524141354id_/http%3A//www.djhistory.com/privacy) for the most accurate reproduction.*
 
-# Privacy | DJHistory.com
+# Privacy | DJhistory.com
 
-We value our privates so we protect your privacy carefully, and make sure your personal details don't fall into the wrong hands. We follow all UK regulations about holding personal data, including the Data Protection Act and the Freedom of Information Act. DJ History Limited is registered as a Data Controller with the Information Commissioner's Office ([www.ico.gov.uk](http://www.ico.gov.uk/ "www.ico.gov.uk")). We may change our privacy policy from time to time, so please check for updates.
+We value our privates so we protect your privacy carefully, and make sure your personal details don't fall into the wrong hands. We follow all UK regulations about holding personal data, including the Data Protection Act and the Freedom of Information Act. DJ History Limited is registered as a Data Controller with the Information Commissioner's Office ([](http://www.ico.gov.uk/ "www.ico.gov.uk")[www.ico.gov.uk](http://www.ico.gov.uk/)). We may change our privacy policy from time to time, so please check for updates.
 
 ## Your information
 
-If you join [www.djhistory.com](http://www.djhistory.com/ "www.djhistory.com") we take your name, country and email address, so we can let you post content on the public areas of the site, and email you about new releases, special tracks and other DJhistory news. We will only email you if you have given your permission, or to contact you about an order. When you buy something we collect the information we need to complete your order, including name, address, email address, payment details and your delivery address for any physical items. We will keep a record of what you buy. In the case of downloads, this means if you lose music you bought from us you can return to the site and download it again. We may also use these records to get an idea of your music tastes so we can suggest other things you might like. The only other time we would share your information is if required to do so by law, in connection with legal proceedings, to defend our legal rights, or to prevent fraud.
+If you join [](http://www.djhistory.com/ "www.djhistory.com")[www.djhistory.com](http://www.djhistory.com/) we take your name, country and email address, so we can let you post content on the public areas of the site, and email you about new releases, special tracks and other DJhistory news. We will only email you if you have given your permission, or to contact you about an order. When you buy something we collect the information we need to complete your order, including name, address, email address, payment details and your delivery address for any physical items. We will keep a record of what you buy. In the case of downloads, this means if you lose music you bought from us you can return to the site and download it again. We may also use these records to get an idea of your music tastes so we can suggest other things you might like. The only other time we would share your information is if required to do so by law, in connection with legal proceedings, to defend our legal rights, or to prevent fraud.
 
 ## Security
 
@@ -18,7 +18,7 @@ Cookies are small text files placed on your computer by websites you visit. If y
 
 ## Other sites
 
-We are not responsible for the privacy practices of any of the third-party websites that [www.djhistory.com](http://www.djhistory.com/ "www.djhistory.com") may link to or draw content from.
+We are not responsible for the privacy practices of any of the third-party websites that [](http://www.djhistory.com/ "www.djhistory.com")[www.djhistory.com](http://www.djhistory.com/) may link to or draw content from.
 
 ## Contacting us
 
