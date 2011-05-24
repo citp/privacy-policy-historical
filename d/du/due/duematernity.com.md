@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the duematernity.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223001558id_/http%3A//www.duematernity.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the duematernity.com privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524150635id_/http%3A//www.duematernity.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy | About Us
 
@@ -49,29 +49,29 @@ Welcome to Due Maternity, since 2002 we’ve been fashioning new moms in afforda
 
 |   
 | | Company Information  
-[Home](https://web.archive.org/web/20101223001558id_/http%3A//www.duematernity.com/index.html)  
-[Company Info](https://web.archive.org/web/20101223001558id_/http%3A//www.duematernity.com/due-overview.html)  
-[Affiliate Program](https://web.archive.org/web/20101223001558id_/http%3A//www.duematernity.com/affiliate-program.html)  
-[Store Locations](https://web.archive.org/web/20101223001558id_/http%3A//www.duematernity.com/rebo.html)  
+[Home](https://web.archive.org/web/20110524150635id_/http%3A//www.duematernity.com/index.html)  
+[Company Info](https://web.archive.org/web/20110524150635id_/http%3A//www.duematernity.com/due-overview.html)  
+[Affiliate Program](https://web.archive.org/web/20110524150635id_/http%3A//www.duematernity.com/affiliate-program.html)  
+[Store Locations](https://web.archive.org/web/20110524150635id_/http%3A//www.duematernity.com/rebo.html)  
 [Contact Us](mailto:info@duematernity.com)  
-[Site Map](https://web.archive.org/web/20101223001558id_/http%3A//www.duematernity.com/sitemap.html)  
-[Purchase Gift Certificates](https://web.archive.org/web/20101223001558id_/http%3A//www.duematernity.com/gifts-gift-certificates.html)  
-[Product Index](https://web.archive.org/web/20101223001558id_/http%3A//www.duematernity.com/ind.html)  
+[Site Map](https://web.archive.org/web/20110524150635id_/http%3A//www.duematernity.com/sitemap.html)  
+[Purchase Gift Certificates](https://web.archive.org/web/20110524150635id_/http%3A//www.duematernity.com/gifts-gift-certificates.html)  
+[Product Index](https://web.archive.org/web/20110524150635id_/http%3A//www.duematernity.com/ind.html)  
 [Sites We Like](http://blog.duematernity.com/index.php/sites-we-like/)| Privacy & Security  
-[Privacy Policy](https://web.archive.org/web/20101223001558id_/http%3A//www.duematernity.com/privacypolicy.html)  
-[FAQs & Sizing Info](https://web.archive.org/web/20101223001558id_/http%3A//www.duematernity.com/resources-pregnancy-questions--amp--answers.html)  
+[Privacy Policy](https://web.archive.org/web/20110524150635id_/http%3A//www.duematernity.com/privacypolicy.html)  
+[FAQs & Sizing Info](https://web.archive.org/web/20110524150635id_/http%3A//www.duematernity.com/resources-pregnancy-questions--amp--answers.html)  
 Gift Certificates  
-[Purchase Gift Certificates](https://web.archive.org/web/20101223001558id_/http%3A//www.duematernity.com/gifts-gift-certificates.html)  
-[Product Index](https://web.archive.org/web/20101223001558id_/http%3A//www.duematernity.com/ind.html)| Contact Information  
+[Purchase Gift Certificates](https://web.archive.org/web/20110524150635id_/http%3A//www.duematernity.com/gifts-gift-certificates.html)  
+[Product Index](https://web.archive.org/web/20110524150635id_/http%3A//www.duematernity.com/ind.html)| Contact Information  
 [Customer Service](http://www.duematernity.com/info.html)  
 [Store Locations](http://www.duematernity.com/rebo.html)  
 [Contact Us](mailto:info@duematernity.com)
 
   
-[Returns & Shipping](https://web.archive.org/web/20101223001558id_/http%3A//www.duematernity.com/info.html)  
-[Resources](https://web.archive.org/web/20101223001558id_/http%3A//www.duematernity.com/resources.html)  
-[FAQs & Sizing Info](https://web.archive.org/web/20101223001558id_/http%3A//www.duematernity.com/resources-pregnancy-questions--amp--answers.html)  
-[Store Locator](https://web.archive.org/web/20101223001558id_/http%3A//www.duematernity.com/rebo.html)
+[Returns & Shipping](https://web.archive.org/web/20110524150635id_/http%3A//www.duematernity.com/info.html)  
+[Resources](https://web.archive.org/web/20110524150635id_/http%3A//www.duematernity.com/resources.html)  
+[FAQs & Sizing Info](https://web.archive.org/web/20110524150635id_/http%3A//www.duematernity.com/resources-pregnancy-questions--amp--answers.html)  
+[Store Locator](https://web.archive.org/web/20110524150635id_/http%3A//www.duematernity.com/rebo.html)
 
 | Maternity Clothes You'll Love  
 Due announces our first line of stylish maternity clothes - Due Designs Our new maternity dresses are arriving daily check [New Arrivals](http://www.duematernity.com/newarrivals.html/)  
