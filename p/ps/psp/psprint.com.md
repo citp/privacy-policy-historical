@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the psprint.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229105300id_/http%3A//www.psprint.com/legal/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psprint.com privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524231807id_/http%3A//www.psprint.com/legal/privacy.asp) for the most accurate reproduction.*
 
 # Printing Services- Mailing, Die Cutting & Foil Stamping
 
