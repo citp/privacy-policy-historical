@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the toplanguagejobs.co.uk privacy policy that was archived on 2010-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100920231511id_/http%3A//www.toplanguagejobs.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toplanguagejobs.co.uk privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524031714id_/http%3A//www.toplanguagejobs.co.uk/privacy) for the most accurate reproduction.*
 
-# Privacy Statement - Top Language Jobs
+# Privacy Statement | Multilingual Vacancies | London, UK and Europe | Top Language Jobs
 
 Language Jobs Ltd processes all personal data in compliance with our obligations under the Data Protection Act. We understand the importance of maintaining the confidentiality of your CV and all personal data contained within it along with other information you may supply us while using our website. 
 
