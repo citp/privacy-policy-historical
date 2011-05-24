@@ -1,16 +1,57 @@
-> *The following text is extracted and transformed from the webfreehosting.net privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219081958id_/http%3A//webfreehosting.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webfreehosting.net privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525003801id_/http%3A//webfreehosting.net/terms) for the most accurate reproduction.*
 
-# Privacy Policy - Free Web Hosting
+# Privacy Policy - WebFreeHosting.net
 
-## Privacy Policy
+* **Statement**
 
-The following discloses our information gathering and dissemination practices for this Web site. We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to help identify you and your ISP and to gather broad demographic information. We use cookies to save your password so you don't have to re-enter it each time you visit our site and for other purposes. Contact information from the order form is used to send information about our company and promotional material from some of our partners to our customers. The customer's contact information is also used to get in touch with the visitor when necessary and shared with other companies who may want to contact our visitors. Users may opt-out of receiving future mailings. Demographic and profile data is also collected at our site. We use this data to tailor our visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. This information is shared with advertisers on an aggregate basis. We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. Some customer data is shared with the advertising companies. 
+WebFreeHosting.net has created this privacy statement in order to demonstrate commitment to customer privacy. The following discloses the information gathering practices for WebFreeHosting.net.
 
-**SECURITY**  
-This site contains links to other sites. webfreehosting.net Web Hosting is not responsible for the privacy practices or the content of such Web sites. Our site uses an order form for customers to request information, products, and services. We collect visitor's contact information, financial information, and demographic information (like their zip code, age, or income level). This site has security measures in place to protect the loss, misuse and alteration of the information under our control. 
+* **Automatically Logged Information**
 
-**ADVERTISING**  
-We may use third-party advertising companies to serve ads when you use our service, this may change without prior notification being served. Our third-party advertising company also separately places or recognizes a cookie file on your browser when delivering advertisements to this Site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites, in order to provide adverts about goods and services of interest to you. 
+We use your IP address to help identify visitors and to help improve the website's performance for different browser/operating system configurations.
 
-**PUBLIC FORUMS**  
-This site makes chat rooms, forums, message boards, and news groups available to its users. Any information in these areas becomes public, and you should exercise caution when deciding to disclose your personal information. 
+* **Email Communication**
+
+We will not intentionally monitor or disclose any of your e-mail messages unless we believe or we are required to do so:  
+\- To enforce these Terms and Conditions,  
+\- By law,  
+\- To defend our corporation in any action,   
+\- To protect our property, dignity and innocence.
+
+WebFreeHosting.net will not send to its customers any unsolicited information, including e-mails, except as mentioned below. New Customers will receive a WebFreeHosting.net welcome e-mail providing the user credentials and explaining the features provided by the service. WebFreeHosting.net may also send periodic member letters to announce important service changes, new features, technical issue updates and news about the Service.
+
+* **Cookies**
+
+Our site uses cookies to identify you each time you visit our site. We also use cookies for web site statistics. These statistics consist of browser and operating system types, search engine keywords, referrer IDs, how long a visitor stays at the site, and pages viewed at our site. In no way do these statistics track users after they leave WebFreeHosting.net.
+
+* **Advertisers**
+
+Your personal information will never be sold or traded for any reason. You agree to respect the privacy and confidentiality of others. Since privacy is a function of your password, we encourage you to change your password frequently and not share it with anyone.
+
+* **Registration Forms**
+
+Contact information from the registration forms is used to contact the customer when necessary.
+
+* **External Links**
+
+This site contains links to other sites. WebFreeHosting.net is not responsible for the privacy practices or the content of such Web sites.
+
+* **Security**
+
+This site has security measures in place to protect the loss, misuse, and alteration of the information under our control.
+
+* **Children Guidelines**
+
+We care deeply about children and understand that they have special privacy needs. Therefore, we have adopted the following privacy policy regarding children:  
+We will NOT collect, use, or distribute personally identifiable information to third parties without prior verifiable parental consent.  
+We will NOT grant children access to unmonitored chat rooms, message boards, email accounts, or other services that could give the them the ability to publicly post or otherwise distribute personally identifiable information without prior verifiable parental consent.
+
+* **News Letter Notification Policy**
+
+Customers may opt out of receiving newsletters and/or notices from WebFreeHosting.net by following simple procedure available with a link at the botton of the newsletter email.
+
+Please note, however, that WebFreeHosting.net reserves the right to send bulletins and other important information regarding our services at our discretion.
+
+* **Changes to our privacy policy**
+
+We at WebFreeHosting.net reserve the rights to change our privacy policy at any time without notice.
