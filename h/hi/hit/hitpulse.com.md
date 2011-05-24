@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hitpulse.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225200908id_/http%3A//www.hitpulse.com/jsp/privacy.jsp%3Fref%3DNONE) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hitpulse.com privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524053830id_/http%3A//www.hitpulse.com/jsp/privacy.jsp%3Fref%3DNONE) for the most accurate reproduction.*
 
 # Hitpulse.com - Traffic Exchange
 
