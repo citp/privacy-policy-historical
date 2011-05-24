@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the andomedia.com privacy policy that was archived on 2010-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101211194520id_/http%3A//andomedia.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the andomedia.com privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524182757id_/http%3A//www.andomedia.com/privacy.html) for the most accurate reproduction.*
 
 # Ando Media - We respect your privacy
 
