@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the kktv.com privacy policy that was archived on 2010-12-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101226200025id_/http%3A//www.kktv.com/unclassified/34218884.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kktv.com privacy policy that was archived on 2011-05-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110524065831id_/http%3A//www.kktv.com/unclassified/34218884.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD html 4.01 Transitional//EN" "http://www.w3.org/TR/1999/REC-html401-19991224/loose.dtd"><html xmlns:fb="http://www.facebook.com/2009/fbml"><head>
     <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script language="Javascript">var js="0.0";</script><script language="Javascript1.0">js="1.0";</script><script language="Javascript1.1">js="1.1";</script><script language="Javascript1.2">js="1.2";</script><script language="Javascript1.3">js="1.3";</script><script language="Javascript1.4">js="1.4";</script><script language="Javascript1.5">js="1.5";</script><script language="Javascript1.6">js="1.6";</script><script language="Javascript1.7">js="1.7";</script><script language="Javascript1.8">js="1.8";</script><script language="Javascript1.9">js="1.9";</script><script language="javascript1.1" type="text/javascript"> 
@@ -8,7 +8,7 @@ var bb=new Image();var _ti=910;var _q="";var na=(navigator.appName=="Netscape");
 function setonclicks(a,b){var i=0;var retval=true;while(document.links[i]!=a){i++;}if(b.li[i])retval=b.li[i].oldonclick();bye(a);return retval;}
 function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.links.length;lnks.li=new Array(sze);for (var i=0; i<sze; i++){if(document.links[i].onclick){lnks.li[i]=document.links[i];lnks.li[i].oldonclick=document.links[i].onclick;}eval("document.links[i].onclick=function(){return setonclicks(this,lnks);}");}}function bye(a){if(a.href.toLowerCase().indexOf('http')!=0)return true;if(getdomain(location)==getdomain(a))return true;if(a.href.toLowerCase().indexOf('http')!=0)return true;var _qc="http://s.clickability.com/s?19=912";_qc+="&6=34218884";_qc+="&7=23981";_qc+="&18="+encodeURIComponent(Math.random());_qc+="&100="+a.href;_qc+="&101="+encodeURIComponent(a.text);var cc=new Image();if(na){cc.src=_qc;pc(100);}else cc.src=_qc;return true;}function pc(a){d = new Date(); while (1){m =new Date(); df = m-d;if( df > a ) {break;}}}function getdomain(a){var i=a.host.indexOf(":");return (i>=0)?a.host.substring(0,i):a.host;}if(self['setupalready']){var dosetup = false;alert('There are two $imware.tracker calls on this page. Please alert Client Services');}else{var dosetup = true;var hasonload=false;}if(dosetup && ((window.screen)||((new Array()).toSource)||((new Array()).shift&&ns))&&(navigator.userAgent.indexOf('Mac')<0)){if(window.onload){oldonld=window.onload;hasonload=true;}window.onload=newonld;var setupalready = true;}//-->
 </script><noscript>
-<img width="1" height="1" src="http://s.clickability.com/s?19=990&14=0&6=34218884&7=23981&18=0.9380109814566053">
+<img width="1" height="1" src="http://s.clickability.com/s?19=990&14=0&6=34218884&7=23981&18=0.4946143755332101">
 </noscript>
 
 
@@ -19,10 +19,11 @@ function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.lin
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">  
 
 
+
 	<meta name="google-site-verification" content="gUw-UdhXT7u-BunNWfQWA_t3azu7BEGubOcNT6HddJQ">
 
-						
-	<meta name="description" content="Privacy Policy">
+							<meta name="description" content="Privacy Policy">
+
 <meta name="keywords" content="PRIVACY POLICY ">
 	<link rel="stylesheet" href="http://www.kktv.com/templates/Site_Stylesheet?path=/">
 				<link rel="stylesheet" href="http://app.quotemedia.com/css/tools.css">
@@ -169,16 +170,458 @@ var w = window.open("http://video.ap.org/vws/search/aspx/ap.aspx?f="+pid+"&g="+t
 </script>
 <script src="http://content.worldnow.com/global/tools/video/VideoFunctions.js?ver=200806280400" type="text/javascript" language="javascript1.3"></script>
 
-			<style type="text/css">
-.submission {
-	display: none;
-}
-</style>
- 
+			
 <script type="text/javascript">
-var Clickability = Clickability || {};
-Clickability.Comment = {
-	Private : {
+
+	//Objects to interact with server
+	var CMSUtil = {
+		interactWithServer: function(form, isAjax, buildObjectFunction, 
+									returnFunction, action, servlet, 
+									extraFields){
+			if(isAjax == true && returnFunction != null){
+            	var queryString = this.serializeForm(form);
+				if(queryString != null){
+					if(action != null){
+						queryString += "&action=" + action + "&isAjax=Y";	
+					}else{
+            			queryString += "&isAjax=Y";
+            		}
+            		if(extraFields){
+            			queryString += extraFields;
+            		}
+            		
+            		var req = this.getXmlRequestObject();
+					if(req != null) {
+            			var handlerFunction = this.getReadyStateHandler(req, returnFunction, buildObjectFunction);
+						req.onreadystatechange = handlerFunction;
+						req.open("POST", servlet, true);
+            			req.setRequestHeader("Content-Type", "application/x-www-form-urlencoded; charset=UTF-8");
+            			req.send(queryString);
+            			return false;
+					}
+				}
+            }else{
+ 				this.submitUserFormNoAJAX(form, action, servlet); 
+			}
+		},
+		
+		getXmlRequestObject: function() {
+			var req;
+			if(window.XMLHttpRequest){
+				req = new XMLHttpRequest();
+			}else if(window.ActiveXObject){
+				try{
+					req = new ActiveXObject("Msxml2.XMLHTTP");
+				}catch(e){
+					try{
+						req = new ActiveXObject("Microsoft.XMLHTTP");
+					}catch(e){
+               			return null;
+               		}
+				}
+			}
+    		return req;
+		},
+		
+		getReadyStateHandler: function(req, returnFunction, buildObjectFunction) {
+
+			return function () {
+
+		    	// If the request's status is "complete"
+    			if (req.readyState == 4) {
+      
+      				// Check that a successful server response was received
+   		   			if (req.status == 200) {
+
+        				// Pass the XML payload of the response to the 
+        				// handler function
+        				var response = "(" + req.responseText + ")";
+            			response = eval(response);
+						buildObjectFunction(response);	
+            			returnFunction(response); 
+					} else {
+						// An HTTP problem has occurred
+        				alert("HTTP error: "+req.status);
+      				}
+    			}
+  			}
+		},
+		
+		serializeForm: function(form){
+			var paramString = "";
+			var ampRegex = new RegExp("&", "g");
+	  		var replaceAmpStr = escape("&#38;");
+	  		var percentRegex = new RegExp("%", "g"); 
+	   		var replacePerStr = escape("&#37;");
+
+       		for(var i = 0;i < form.elements.length;i++){
+       			var field = form.elements[i];
+       			if(field.tagName === "TEXTAREA" || (field.tagName === "INPUT" && field.type !== "submit")){
+       				if(field.type === "checkbox" && !field.checked){
+       					 continue;
+       				}
+					var fieldValue = field.value;
+					fieldValue = fieldValue.replace(percentRegex, replacePerStr);
+	       	    	fieldValue = fieldValue.replace(ampRegex, replaceAmpStr);
+       				paramString += field.name + "=" + fieldValue + "&";
+           		}
+       		}
+
+			return paramString;
+		},
+		submitUserFormNoAJAX: function(form, action, servlet){
+			if(servlet == null) return null;
+    	    form.action = servlet;
+
+    	    if(action != null) {
+    	    	var actionField = document.createElement('input');
+    	    	actionField.setAttribute('name', 'action');
+  					actionField.setAttribute('type', 'hidden');
+  					actionField.value = action;
+    	    	form.appendChild(actionField);
+    	    	
+    	    }
+    		form.submit();
+    	}
+    	
+	}
+	
+	var Action = {
+		attachAction: function(form, isAjax, returnFunction){
+			var action = "";
+			if(isAjax){
+				action = "attachActionAJAX";
+			} else {
+				action = "attachAction";
+			}
+			CMSUtil.interactWithServer(form, isAjax, Action.buildAction, returnFunction, action, "/s");
+		},
+		
+		deleteAction: function(form, isAjax, returnFunction){
+        	var action = "";
+        	if(isAjax){
+        		action = "deleteActionAJAX";
+        	} else {
+        		action = "deleteAction";
+        	}
+        	CMSUtil.interactWithServer(form, isAjax, Action.deletedAction, returnFunction, action, "/s");
+        },
+		
+		
+		buildAction: function(response){
+			if(response.success == true){
+				Action.actionID = response.actionID;
+				Action.contentID = response.contentID;
+				Action.commentID = response.commentID;
+				Action.contentTypeID = response.contentTypeID;
+				Action.actionDate = response.actionDate;
+				Action.userID = response.userID;
+				Action.actionType = response.actionType;
+				Action.slugLine = response.slugLine;
+			} else {
+			 	Action.error = response.error;
+			}
+		},
+		
+		deletedAction: function(response){
+			if(response.success == true){
+				Action.actionID = response.actionID;
+			} else {
+				Action.error = response.error;
+			}
+		}
+	}
+	
+	var Ranking = {
+		insertRanking: function(form, isAjax, returnFunction){
+			CMSUtil.interactWithServer(form, isAjax, Ranking.buildRanking, returnFunction, "rankComment", "/p");
+		},
+		
+		buildRanking: function(response){
+			if(response.success == true){
+				Ranking.success = true;
+				Ranking.objectId = response.objectId;
+				Ranking.type = response.type;
+				Ranking.ipAddress = response.ipAddress;
+				Ranking.rankDate = response.rankDate;
+				Ranking.upRanking = response.upRanking;
+				Ranking.downRanking = response.downRanking;
+			} else {
+				Ranking.error = response.error;
+			}
+		}
+			
+	}
+			
+	var Rating = {
+		addRating: function(form, isAjax, returnFunction){
+			var action = "";
+			if(isAjax){
+				action = "addRatingAJAX";
+			} else {
+				action = "addRating";
+			}
+            CMSUtil.interactWithServer(form, isAjax, Rating.buildRating, returnFunction, action, "/s");
+        },
+        
+        insertRating: function(form, isAjax, returnFunction){
+			var extraQueryStr = null;
+			if(isAjax){
+				extraQueryStr = getFieldsForForm();
+			}else{
+				addFieldsToForm(form);
+			}
+			CMSUtil.interactWithServer(form, isAjax, Comment.buildComment, returnFunction, "insertComment", "/c", extraQueryStr);
+		},
+        
+		buildRating: function(response){
+			if(response.success == true){
+				Rating.id = response.id;
+				Rating.rating = response.rating;
+				Rating.upvote = response.upvote;
+				Rating.downvote = response.downvote;
+				Rating.type = response.type;
+				Rating.date = response.date;
+				Rating.ipAddress = response.ipAddress;
+			}else{
+				Rating.error = response.error;
+			}
+		}
+		
+	}
+	
+	var User = {
+		createUser: function(form, isAjax, returnFunction){	
+		    var action = "";
+			if(isAjax){
+				action = "createProfileAJAX";
+			} else {
+				action = "createProfile";
+			}
+            CMSUtil.interactWithServer(form, isAjax, User.buildUser, returnFunction, action, "/s");
+		},
+		
+		loginUser: function(form, isAjax, returnFunction){
+			var action = "";
+			if(isAjax){
+				action = "doLoginProfileAJAX";
+			} else {
+				action = "doLoginProfile";
+			}
+        	CMSUtil.interactWithServer(form, isAjax, User.buildUser, returnFunction, action, "/s");
+		},
+		
+		updateUser: function(form, isAjax, returnFunction){
+			var action = "";
+			if(isAjax){
+				action = "updateProfileAJAX";
+			} else {
+				action = "updateProfile";
+			}
+			CMSUtil.interactWithServer(form, isAjax, User.buildUser, returnFunction, action, "/s");
+		},
+		
+		updateRegistration: function(form, isAjax, returnFunction){
+			var action = "";
+			if(isAjax){
+				action = "updateRegistrationAJAX";
+			} else {
+				action = "updateReg";
+			}
+			CMSUtil.interactWithServer(form, isAjax, User.buildUser, returnFunction, action, "/s");
+		},
+		
+		updateProfilePassword: function(form, isAjax, returnFunction){
+			var action = "";
+			if(isAjax){
+				action = "updateProfilePasswordAJAX";
+			} else {
+				action = "updateProfilePassword";
+			}
+			CMSUtil.interactWithServer(form, isAjax, User.buildUser, returnFunction, action, "/s");
+		},
+		
+		insertProfilePic: function(form, isAjax, returnFunction){
+			var action = "";
+			if(isAjax){
+				//not implemented as of yet
+				return;
+				//action = "updateImageAJAX";
+			} else {
+				action = "updateImage";
+			}
+			CMSUtil.interactWithServer(form, isAjax, User.buildUser, returnFunction, action, "/s");
+		},
+		
+		buildUser: function(response){
+			if(response.success == true){
+				User.ID = response.ID;
+				User.username = response.username;
+				User.email = response.email;
+				User.firstName = response.firstName;
+				User.lastName = response.lastName;
+				User.birthDate = response.birthDate;
+				User.createDate = response.createDate;
+				User.title = response.title;
+				User.company = response.company;
+				User.address1 = response.address1;
+				User.address2 = response.address2;
+				User.city = response.city;
+				User.state = response.state;
+				User.zipcode = response.zipcode;
+				User.country = response.country;
+				User.custom1 = response.custom1;
+				User.custom2 = response.custom2;
+				User.custom3 = response.custom3;
+				User.custom4 = response.custom4;
+				User.custom5 = response.custom5;
+				User.custom6 = response.custom6;
+				User.custom7 = response.custom7;
+				User.custom8 = response.custom8;
+				User.custom9 = response.custom9;
+			}else{
+				User.error = response.error;
+				User.errorMsg = response.errorMsg;
+				User.errorCode = response.errorCode;
+			}
+		}
+	}
+	
+	var UserContent = {
+		insertContent: function(form, isAjax, returnFunction){
+			var extraQueryStr = null;
+			
+			if(isAjax){
+				extraQueryStr = getFieldsForForm();
+			}else{
+				addFieldsToForm(form);
+			}
+			UserContent.messages = null;
+			CMSUtil.interactWithServer(form, isAjax, UserContent.buildContent, returnFunction, extraQueryStr, "/d");
+		},
+		
+		editContent: function(form, isAjax, returnFunction){
+			CMSUtil.interactWithServer(form, isAjax, UserContent.buildContent, returnFunction, null, "/d");
+		},
+		
+		buildContent: function(response){
+			if(response.success == true){
+				for (var i=0; i< response.fields.length; i++){
+					var field = response.fields[i];
+					UserContent[field] = response[field];
+				}
+				UserContent.contentID = response.contentID;
+				UserContent.contentType = response.contentType;
+				UserContent.title = response.title;
+				UserContent.status = response.status;
+			} else {
+				UserContent.error = response.error;
+				UserContent.messages = response.messages;
+			}
+		}
+	}
+	
+	var Comment = {
+	
+		insertComment: function(form, isAjax, returnFunction){
+			var extraQueryStr = null;
+			if(isAjax){
+				extraQueryStr = getFieldsForForm();
+			}else{
+				addFieldsToForm(form);
+			}
+			CMSUtil.interactWithServer(form, isAjax, Comment.buildComment, returnFunction, "insertComment", "/c", extraQueryStr);
+		},
+	
+		deleteComment: function(form, isAjax, returnFunction){
+			var extraQueryStr = null;
+			if(isAjax){
+				extraQueryStr = getFieldsForForm();
+			}else{
+				addFieldsToForm(form);
+			}
+			CMSUtil.interactWithServer(form, isAjax, Comment.nullifyComment, returnFunction, "deleteComment", "/c", extraQueryStr);
+		},
+		
+		updateComment: function(form, isAjax, returnFunction){
+			var extraQueryStr = null;
+			if(isAjax){
+				extraQueryStr = getFieldsForForm();
+			} else {
+				addFieldsToForm(form);
+			}
+			CMSUtil.interactWithServer(form, isAjax, Comment.buildComment, returnFunction, "updateComment", "/c", extraQueryStr);
+		},
+		
+		buildComment: function(response){
+						Comment.name = null;
+			Comment.website = null;
+			Comment.title = null;
+			Comment.comment = null;
+			Comment.email = null;
+			Comment.rating = null;
+			Comment.ratingType = null;
+			Comment.commentType = null;
+			Comment.flagged = false;
+			Comment.isAuthor = false;
+			Comment.error = null;
+			Comment.status = null;
+			Comment.level = 0;
+			Comment.parentID = 0;
+			Comment.threadID = 0;
+			Comment.id = 0;
+			Comment.extID = null;		
+		
+			if(response.success == true){
+				Comment.id = response.id;
+				Comment.name = response.name;
+				Comment.comment = response.comment;
+				Comment.email = response.email;
+				Comment.website = response.website;
+				Comment.title = response.title;
+				Comment.isAuthor = response.isAuthor;
+				Comment.flagged = response.flagged;
+				Comment.status = response.status;
+				Comment.rating = response.rating;
+				Comment.ratingType = response.ratingType;
+				Comment.commentType = response.commentType;
+				if(Comment.status == "AUTHOR"){
+					Comment.isAuthor = true;
+				} else if(Comment.status != "APPROVED") {
+					Comment.flagged = true;
+				}
+			    Comment.id = response.id;
+			    Comment.threadID = response.threadID;
+			    Comment.parentID = response.parentID;
+			    Comment.level = response.level;
+			    Comment.extID = response.extID;
+			} else {
+				Comment.error = response.error;
+			}
+		},
+		
+		nullifyComment: function(response){
+			if(response.success == true){
+				Comment.comment = null;
+				Comment.email = null;
+				Comment.website = null;
+				Comment.title = null;
+				Comment.isAuthor = null;
+				Comment.flagged = null;
+				Comment.status = null;
+				Comment.id = 0;
+			    Comment.threadID = 0;
+			    Comment.parentID = 0;
+			    Comment.level = 0;
+			    Comment.extID = null;
+			} else {
+				Comment.error = response.error;
+			}
+		}
+	}	
+	
+	var Clickability = Clickability || {};
+	Clickability.SMTK = {
 		kP : 0,
 		aT : 0,
 		myInterval : null,
@@ -187,378 +630,206 @@ Clickability.Comment = {
 		firstX : -1,
 		firstY : -1,
 		intervals : 0,
-		req : null,
 		cid :  34218884 ,
 		did :  23981 ,
-		cP :  365 ,
-		cD : "2008-11-10 13:09:26.0",
 		d : 0,
 		mT : 0
-	},
-	name : null,
-	website : null,
-	title : null,
-	comment : null,
-	email : null,
-	rating : null,
-	ratingType : null,
-	commentType : null,
-	flagged : false,
-	isAuthor : false,
-	error : null,
-	status : null,
-	level : 0,
-	parentID : 0,
-	threadID : 0,
-	id : 0,
-	extID : null
-};
-Clickability.Comment.Private.myInterval = window.setInterval(timedMousePos,250);
+	}
+	Clickability.SMTK.myInterval = window.setInterval(timedMousePos,250);
+	document.onkeypress = lK;
+	window.onload = rAT;
 
-var name = null;
-var website = null;
-var title = null;
-var comment = null;
-var email = null;
-var rating = null;
-var ratingType = null;
-var commentType = null;
-var flagged = false;
-var isAuthor = false;
-var error = null;
-var status = null;
-
-var kP = 0;
-var aT = 0;
-var myInterval = Clickability.Comment.Private.myInterval;
-var xPos = -1;
-var yPos = -1;
-var firstX = -1;
-var firstY = -1;
-var intervals = 0;
-var req = null;
-var cid =  34218884 ;
-var did =  23981 ;
-var cP =  365 ;
-var cD = "2008-11-10 13:09:26.0";
-var d = 0;
-var mT = 0;
-
-document.onkeypress = lK;
-window.onload = rAT;
-
-function checkField(field) {
+		Clickability.Comment = Comment;
+		
+		var p;
+	var kP = 0;
+	var	aT = 0;
+	var myInterval = Clickability.SMTK.myInterval;
+	var xPos = -1;
+	var yPos = -1;
+	var firstX = -1;
+	var firstY = -1;
+	var intervals = 0;
+	var d = 0;
+	var mT = 0;
+	var cid =  34218884 ;
+	var did =  23981 ;	
 	
-	var button = document.getElementById("btSubmit");
-	
-	if(field.value.length > 0) {
-		CM_btnEnable(button);
-	}
-	else {
-		CM_btnDisable(button);
-	}
-}
-
-function lK() {
-	Clickability.Comment.Private.kP++;
-}
-
-function rAT() {
-	Clickability.Comment.Private.aT = new Date();
-}
-
-function CM_btnDisable (which) {
-	which.disabled = true;
-	if (document.all){
-		which.filters.alpha.opacity = 25;
-	}else {
-		which.style.MozOpacity = 0.25;
-	}	
-	which.style.cursor = "default";
-}
-
-function CM_btnEnable (which) {
-	which.disabled = false;
-	if (document.all){
-		which.filters.alpha.opacity = 100;
-		which.style.cursor = "hand";
-	}else {
-		which.style.MozOpacity = 1;
-		which.style.cursor = "pointer";
-	}
-}
-
-
-function submitForm(formObj) {
-
-    if(formObj.action == ""){
-    	formObj.action = "/c";
-    }
-	addFieldsToForm(formObj);
-    formObj.submit();
-}
-
-function addFieldsToForm(formObj, redirect) {
-	var mTField = document.createElement('input');
-	var dField = document.createElement('input');
-	var kPField = document.createElement('input');
-  	var cidField = document.createElement('input');
-  	var didField = document.createElement('input');
-  	
-  	
-	mTField.setAttribute('name','mT');
-	mTField.setAttribute('type', 'hidden');
-  	  
-	dField.setAttribute('name', 'd');
-	dField.setAttribute('type', 'hidden');
-  	  
-	kPField.setAttribute('name', 'kP');
-	kPField.setAttribute('type', 'hidden');
-  	
-	cidField.setAttribute('name', 'cid');
-	cidField.setAttribute('type', 'hidden');
-  	
-  	didField.setAttribute('name', 'did');
-  	didField.setAttribute('type', 'hidden');	
-  	
-  	if(redirect != null) {
-  		var pathField = document.createElement('input');
-  		pathField.setAttribute('name', 'path');
-  		pathField.setAttribute('type', 'hidden');
-  		pathField.value = redirect;
-  		formObj.appendChild(pathField);
-  	}
-  	  
-	mTField.value = Clickability.Comment.Private.mT;
-	dField.value = Clickability.Comment.Private.d;
-	kPField.value = Clickability.Comment.Private.kP;
-	cidField.value = Clickability.Comment.Private.cid;
-	didField.value = Clickability.Comment.Private.did;
-  		
-	formObj.appendChild(dField);
-	formObj.appendChild(kPField);
-	formObj.appendChild(mTField);
-	formObj.appendChild(cidField);
-	formObj.appendChild(didField);
-}
-
-function getMousePos(p) {
-	if (!p) var p = window.event;
-	if (p.pageX || p.pageY) {
-		Clickability.Comment.Private.xPos = p.pageX;
-		Clickability.Comment.Private.yPos = p.pageY;
-	} else if (p.clientX || p.clientY) {
-		Clickability.Comment.Private.xPos = p.clientX + document.body.scrollLeft + document.documentElement.scrollLeft;
-		Clickability.Comment.Private.yPos = p.clientY + document.body.scrollTop + document.documentElement.scrollTop;
-	}
-}
-
-function timedMousePos() {
-	document.onmousemove = getMousePos;
-	if (Clickability.Comment.Private.xPos >= 0 && Clickability.Comment.Private.yPos >= 0) {
-	var newX = Clickability.Comment.Private.xPos;
-	var newY = Clickability.Comment.Private.yPos;
-	Clickability.Comment.Private.intervals++;
-	}
-	if (Clickability.Comment.Private.intervals == 1) {
-		Clickability.Comment.Private.firstX = Clickability.Comment.Private.xPos;
-		Clickability.Comment.Private.firstY = Clickability.Comment.Private.yPos;
-	} else if (Clickability.Comment.Private.intervals == 2) {
-		clearInterval(Clickability.Comment.Private.myInterval);
-		calcDistance(Clickability.Comment.Private.firstX,Clickability.Comment.Private.firstY,newX,newY);
-	}
-}
-
-function calcDistance(aX,aY,bX,bY) {
-	Clickability.Comment.Private.mT = Math.round(Math.sqrt(Math.pow(aX-bX,2)+Math.pow(aY-bY,2)));
-}
-
-function getXmlRequestObject() {
-	if(Clickability.Comment.Private.req == null){
-		if(window.XMLHttpRequest){
-			Clickability.Comment.Private.req = new XMLHttpRequest();
-		}else if(window.ActiveXObject){
-			try{
-				Clickability.Comment.Private.req = new ActiveXObject("Msxml2.XMLHTTP");
-			}catch(e){
-				try{
-					Clickability.Comment.Private.req = new ActiveXObject("Microsoft.XMLHTTP");
-				}catch(e){
-                	return null;
-				}
-			}
+	function getMousePos(p) {
+		if(!p)var p = window.event;
+		if (p.pageX || p.pageY) {
+			Clickability.SMTK.xPos = p.pageX;
+			Clickability.SMTK.yPos = p.pageY;
+		} else if (p.clientX || p.clientY) {
+			Clickability.SMTK.xPos = p.clientX + document.body.scrollLeft + document.documentElement.scrollLeft;
+			Clickability.SMTK.yPos = p.clientY + document.body.scrollTop + document.documentElement.scrollTop;
 		}
-    }
-    return Clickability.Comment.Private.req;
-}
-
-function insertComment(formObj, isAjax, responseHandler){
-	var sT = new Date();
-	Clickability.Comment.Private.d = sT - Clickability.Comment.Private.aT;
-	if((isAjax == true) && (responseHandler != null)) {
-		Clickability.Comment.Private.req = getXmlRequestObject();
-		if(Clickability.Comment.Private.req != null) {
-			var formVars = getFormValues(formObj);
- 			var handlerFunction = getReadyStateHandler(Clickability.Comment.Private.req, responseHandler);
-			Clickability.Comment.Private.req.onreadystatechange = handlerFunction;
-			var url = "/c";
-            var params = "ajax=true&" + formVars;
- 
-            Clickability.Comment.Private.req.open("POST", url, true);
-            Clickability.Comment.Private.req.setRequestHeader("Content-Type", "application/x-www-form-urlencoded; charset=UTF-8");
-            
-     
-            Clickability.Comment.Private.req.send(params);
-            return false;
-    	}
-    	else {
-    		return false;
-    	}
 	}
-	else {
-		addFieldsToForm(formObj);
- 		submitForm(formObj);
-	}
-}
-   
-function postForm(formObj, isAjax, responseHandler) {
-	return insertComment(formObj, isAjax, responseHandler);
-}
 
-function getFormValues(fobj) {
-   var str = "";
-   var valueArr = null;
-   var val = "";
-   var cmd = "";	
-   var ampRegex = new RegExp("&", "g");
-   var replaceAmpStr = escape("&#38;");
-   var percentRegex = new RegExp("%", "g"); 
-   var replacePerStr = escape("&#37;");
-
-   for(var i = 0;i < fobj.elements.length;i++)
-   {
-   		var field = fobj.elements[i];
-   		if(field.tagName === "TEXTAREA" || (field.tagName === "INPUT" && field.type != "submit" && field.type != "button")){ 
-			var fieldStr = field.value;
-			fieldStr = fieldStr.replace(percentRegex, replacePerStr);
-            fieldStr = fieldStr.replace(ampRegex, replaceAmpStr);
-   			str += field.name + "=" + fieldStr + "&";
-       		field.value = "";
-       	}
-   }
-   str += "mT=" + Clickability.Comment.Private.mT;
-   str += "&d=" + Clickability.Comment.Private.d;
-   str += "&kP=" + Clickability.Comment.Private.kP;
-   str += "&cid=" + Clickability.Comment.Private.cid;
-   str += "&did=" + Clickability.Comment.Private.did;
- 
-   return str;
-}
-
-function getReadyStateHandler(ajaxreq, responseHandler) {
-
-  // Return an anonymous function that listens to the 
-  // XMLHttpRequest instance
-  return function () {
-
-    // If the request's status is "complete"
-    if (ajaxreq.readyState == 4) {
-      
-      // Check that a successful server response was received
-      if (ajaxreq.status == 200) {
-
-        // Pass the XML payload of the response to the 
-        // handler function
-        gatherResponse(ajaxreq.responseText);
-        responseHandler();
-
-      } else {
-
-        // An HTTP problem has occurred
-        alert("HTTP error: "+ajaxreq.status);
-      }
-    }
-  }
-}
-
-function gatherResponse(commentObject) {
-		name = null;
-	website = null;
-	title = null;
-	comment = null;
-	email = null;
-	rating = null;
-	ratingType = null;
-	commentType = null;
-	flagged = false;
-	isAuthor = false;
-	error = null;
-	status = null;
 	
-	Clickability.Comment.name = null;
-	Clickability.Comment.website = null;
-	Clickability.Comment.title = null;
-	Clickability.Comment.comment = null;
-	Clickability.Comment.email = null;
-	Clickability.Comment.rating = null;
-	Clickability.Comment.ratingType = null;
-	Clickability.Comment.commentType = null;
-	Clickability.Comment.flagged = false;
-	Clickability.Comment.isAuthor = false;
-	Clickability.Comment.error = null;
-	Clickability.Comment.status = null;
-	Clickability.Comment.level = 0;
-	Clickability.Comment.parentID = 0;
-	Clickability.Comment.threadID = 0;
-	Clickability.Comment.id = 0;
-	Clickability.Comment.extID = null;
+	function lK() {	
+		Clickability.SMTK.kP++;
+	}
 
- 	var jsonExpression = "(" + commentObject+ ")";
-    var commentData = eval(jsonExpression);
-    error = commentData.error;
-    name = commentData.name;
-    comment = commentData.comment;
-    commentType = commentData.commentType
-    rating = commentData.ratingScore;
-    ratingType = commentData.ratingType;
-    email = commentData.email;
-    website = commentData.website;
-    title = commentData.title;
-    isAuthor = false;
-    flagged = false;
-    status = commentData.status;
-    if(status == "AUTHOR") {
-    	isAuthor = true;
-    }
-    else if(status != "APPROVED") {
-        flagged = true;
-    }
-    
-    Clickability.Comment.error = commentData.error;
-    Clickability.Comment.name = commentData.name;
-    Clickability.Comment.comment = commentData.comment;
-    Clickability.Comment.commentType = commentData.commentType
-    Clickability.Comment.rating = commentData.ratingScore;
-    Clickability.Comment.ratingType = commentData.ratingType;
-    Clickability.Comment.email = commentData.email;
-    Clickability.Comment.website = commentData.website;
-    Clickability.Comment.title = commentData.title;
-    Clickability.Comment.isAuthor = false;
-    Clickability.Comment.flagged = false;
-    Clickability.Comment.status = commentData.status;
-    if(Clickability.Comment.status == "AUTHOR") {
-    	Clickability.Comment.isAuthor = true;
-    }
-    else if(Clickability.Comment.status != "APPROVED") {
-        Clickability.Comment.flagged = true;
-    }
-    Clickability.Comment.id = commentData.id;
-    Clickability.Comment.threadID = commentData.threadID;
-    Clickability.Comment.parentID = commentData.parentID;
-    Clickability.Comment.level = commentData.level;
-    Clickability.Comment.extID = commentData.extID;
-}
+	function rAT() {
+		Clickability.SMTK.aT = new Date();
+	}
+		
+	function timedMousePos() {
+		document.onmousemove = getMousePos;
+		if (Clickability.SMTK.xPos >= 0 && Clickability.SMTK.yPos >= 0) {
+			var newX = Clickability.SMTK.xPos;
+			var newY = Clickability.SMTK.yPos;
+			Clickability.SMTK.intervals++;
+		}
+		if (Clickability.SMTK.intervals == 1) {
+			Clickability.SMTK.firstX = Clickability.SMTK.xPos;
+			Clickability.SMTK.firstY = Clickability.SMTK.yPos;
+		} else if (Clickability.SMTK.intervals == 2) {
+			clearInterval(Clickability.SMTK.myInterval);
+			calcDistance(Clickability.SMTK.firstX,Clickability.SMTK.firstY,newX,newY);	
+		}
+	}
+
+
+	function calcDistance(aX,aY,bX,bY){
+		Clickability.SMTK.mT = Math.round(Math.sqrt(Math.pow(aX-bX,2)+Math.pow(aY-bY,2)));
+	}
+	
+	function getFieldsForForm(){
+		var sT = new Date();
+		Clickability.SMTK.d = sT - Clickability.SMTK.aT;
+		var queryString = "&";
+		queryString += "mT=" + Clickability.SMTK.mT;
+     	queryString += "&d=" + Clickability.SMTK.d;
+     	queryString += "&kP=" + Clickability.SMTK.kP;
+     	if(Clickability.SMTK.cid)queryString += "&cid=" + Clickability.SMTK.cid;
+     	if(Clickability.SMTK.did)queryString += "&did=" + Clickability.SMTK.did;
+     	queryString += "&socialMedia=Y";
+	    return queryString;
+	}
+		
+	function addFieldsToForm(formObj, redirect) {
+		var sT = new Date();
+		Clickability.SMTK.d = sT - Clickability.SMTK.aT;
+		var mTField = document.createElement('input');
+		var dField = document.createElement('input');
+		var kPField = document.createElement('input');
+  		var cidField = document.createElement('input');
+  		var didField = document.createElement('input');
+  		var socialMedia = document.createElement('input');
+  	
+  	
+  		socialMedia.setAttribute('name','socialMedia');
+		socialMedia.setAttribute('type', 'hidden');
+		
+  		mTField.setAttribute('name','mT');
+		mTField.setAttribute('type', 'hidden');
+  	  
+		dField.setAttribute('name', 'd');
+		dField.setAttribute('type', 'hidden');
+  	  
+		kPField.setAttribute('name', 'kP');
+		kPField.setAttribute('type', 'hidden');
+  	
+		cidField.setAttribute('name', 'cid');
+		cidField.setAttribute('type', 'hidden');
+  	
+  		didField.setAttribute('name', 'did');
+  		didField.setAttribute('type', 'hidden');	
+  	
+  		if(redirect != null) {
+  			var pathField = document.createElement('input');
+  			pathField.setAttribute('name', 'path');
+  			pathField.setAttribute('type', 'hidden');
+  			pathField.value = redirect;
+  			formObj.appendChild(pathField);
+  		}
+  		mTField.value = Clickability.SMTK.mT;
+		dField.value = Clickability.SMTK.d;
+		kPField.value = Clickability.SMTK.kP;
+		cidField.value = Clickability.SMTK.cid;
+		didField.value = Clickability.SMTK.did;
+		socialMedia.value = "Y";
+
+		formObj.appendChild(dField);
+		formObj.appendChild(kPField);
+		formObj.appendChild(mTField);
+		formObj.appendChild(cidField);
+		formObj.appendChild(didField);
+		formObj.appendChild(socialMedia);
+	}		
+	
+	//helper functions
+	
+	function insertComment(form, isAjax, returnFunction, showError){
+		return submitToServer(Comment.insertComment, "Unable to insert comment", form, isAjax, returnFunction, showError);
+	}
+	
+	function updateComment(form, isAjax, returnFunction, showError){
+		return submitToServer(Comment.updateComment, "Unable to update comment", form, isAjax, returnFunction, showError);
+	}
+	
+	function deleteComment(form, isAjax, returnFunction, showError){
+		return submitToServer(Comment.deleteComment, "Unable to delete comment", form, isAjax, returnFunction, showError);
+	}
+	
+	function createUser(form, isAjax, returnFunction, showError){
+		return submitToServer(User.createUser, "Unable to create user", form, isAjax, returnFunction, showError);
+	}
+	
+	function updateUser(form, isAjax, returnFunction, showError){
+		return submitToServer(User.updateUser, "Unable to update user", form, isAjax, returnFunction, showError);
+	}
+	
+	function loginUser(form, isAjax, returnFunction, showError){
+		return submitToServer(User.loginUser, "Unable to login user", form, isAjax, returnFunction, showError);
+	}
+	
+	function insertUserContent(form, isAjax, returnFunction, showError){
+		return submitToServer(UserContent.insertContent, "Unable to insert content item", form, isAjax, returnFunction, showError);
+	}
+	
+	function editUserContent(form, isAjax, returnFunction, showError){
+		return submitToServer(UserContent.editContent, "Unable to edit content item", form, isAjax, returnFunction, showError);
+	}
+	
+	function insertProfilePic(form, isAjax, returnFunction, showError){
+		return submitToServer(User.insertProfilePic, "Unable to upload profile photo", form, isAjax, returnFunction, showError);
+	}
+	
+	function addRating(form, isAjax, returnFunction, showError){
+		return submitToServer(Rating.addRating, "Unable to add rating", form, isAjax, returnFunction, showError);
+	}
+	
+	function insertRating(form, isAjax, returnFunction, showError){
+		return submitToServer(Rating.insertRating, "Unable to insert rating", form, isAjax, returnFunction, showError);
+	}
+	
+	function attachAction(form, isAjax, returnFunction, showError){
+		return submitToServer(Action.attachAction, "Unable to attach action", form, isAjax, returnFunction, showError);
+	}
+	
+	function deleteAction(form, isAjax, returnFunction, showError){
+		return submitToServer(Action.deleteAction, "Unable to delete action", form, isAjax, returnFunction, showError);
+	}
+	
+	function insertRanking(form, isAjax, returnFunction, showError){
+		return submitToServer(Ranking.insertRanking, "Unable to insert ranking", form, isAjax, returnFunction, showError);
+	}
+	
+	function submitToServer(method, msg, form, isAjax, returnFunction, showError){
+		method(form, isAjax, returnFunction);
+	
+		if(isAjax){
+			return false;
+		} else {
+			return true;
+		}
+	}
+
 </script>
+
 	
 
 
@@ -596,23 +867,25 @@ function gatherResponse(commentObject) {
 				
 		
 																																					<!-- $cms.websiteSection.disableTop -->
+			
 							<!-- begin ad tag-->
 				<div style="text-align:center; width:100%; padding-bottom:2px;">
-					<script language="JavaScript" src="http://ad.doubleclick.net/adj/wn.loc.kktv/home;wnsz=01;sz=728x90;ord=[timestamp]?" type="text/javascript"></script>
-					<noscript><a href="http://ad.doubleclick.net/jump/wn.loc.kktv/home;wnsz=01;sz=728x90;ord=[timestamp]?" target="_blank"><img src="http://ad.doubleclick.net/ad/wn.loc.kktv/home;wnsz=01;sz=728x90;ord=[timestamp]?" width="728" height="90" border="0" alt=""></a></noscript>
+					<script language="JavaScript" src="http://ad.doubleclick.net/adj/wn.loc.kktv/home;wnsz=01;sz=728x90;ord=1306220311842?" type="text/javascript"></script>
+					<noscript><a href="http://ad.doubleclick.net/jump/wn.loc.kktv/home;wnsz=01;sz=728x90;ord=1306220311842?" target="_blank"><img src="http://ad.doubleclick.net/ad/wn.loc.kktv/home;wnsz=01;sz=728x90;ord=1306220311842?" width="728" height="90" border="0" alt=""></a></noscript>
 				</div>
 				<!-- End ad tag -->
+						<!-- begin split top of page ad-->
 							
 			
 	
 	<div id="header">
 					<div id="headerLogo">
-									<a href="http://www.kktv.com" target=""><img border="0" src="http://media.graytvinc.com/images/KKTV_WREATH.gif"></a>
+									<a href="http://www.kktv.com/watchspinandwin" target="_top"><img border="0" src="http://media.graytvinc.com/images/KKTV_WHEEL_HEADER.gif"></a>
 							</div>
 		
 							
 											
-									<div id="headerWeather"><table style="text-align: left; width: 390px;" border="0" cellpadding="0" cellspacing="0"> <tbody> <tr> <td style="vertical-align: top;"><a target="_blank" href="http://www.kktv.com/holidaygreetings"><img src="http://media.graytvinc.com/images/HOLIDAY_GREETINGS_HEADER.jpg" style="border: 0px solid ; width: 190px; height: 80px;"></a> </td> <td style="vertical-align: top;"><a href="http://www.kktv.com/broncos"><img src="http://media.graytvinc.com/images/BRONCOS_TEXANS.jpg" style="border: 0px solid ; height=" 80"="" width="190"></a></td> </tr> </tbody> </table></div>
+									<div id="headerWeather"><table style="text-align: left; width: 390px;" border="0" cellpadding="0" cellspacing="0"> <tbody> <tr> <td style="vertical-align: top;"><a target="_blank" href="http://www.kktv.com/11stormcall"><img src="http://media.graytvinc.com/images/DOPPLERSTORMCALL_HEADER.gif" style="border: 0px solid ; width: 190px; height: 80px;"></a> </td> <td style="vertical-align: top;"><a href="http://www.oprah.com/index.html"><img src="http://media.graytvinc.com/images/OPRAH_HEADER3.jpg" style="border: 0px solid ; height=" 80"="" width="190"></a></td> </tr> </tbody> </table></div>
 					
 								</div>
 
@@ -625,9 +898,6 @@ function gatherResponse(commentObject) {
     <input type="submit" value="Search">
 </form>
 
-
-
-
 </span>
 				<span class="timestamp"><script type="text/javascript" src="http://www.kktv.com/includes/timestamp.js"></script>
 </span>
@@ -637,7 +907,7 @@ function gatherResponse(commentObject) {
 	
 			
 	<!-- On - With Dropdowns -->
-																																													 		 		 	 		 		 	 		 		 	 		 		 	 		 		 	 		 		 	 		 		 	 		 		 	 		 		 	 		 		 	 		 		 	 		 		 	 		 	<!-- Navs Array: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]  Size: 12 -->
+																																														 		 		 	 		 		 	 		 		 	 		 		 	 		 		 	 		 		 	 		 		 	 		 		 	 		 		 	 		 		 	 		 		 	 		 		 	 		 		 	<!-- Navs Array: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]  Size: 13 -->
 <div id="menu_vert">
 <div id="menuwrapper">
 <ul id="primary-nav">
@@ -645,25 +915,27 @@ function gatherResponse(commentObject) {
 </li>
 <li class="menuparent"><a target="_parent" href="http://www.kktv.com">       HOME       </a><ul></ul>
 </li>
-<li class="menuparent"><a target="_parent" href="http://www.kktv.com/news">      NEWS      </a><ul><li><a target="_parent" href="http://www.kktv.com/home">11 News Headlines</a></li><li><a target="_parent" href="http://www.kktv.com/blogs">Blogs</a></li><li><a target="_parent" href="http://www.kktv.com/callforaction">Call For Action</a></li><li><a target="_parent" href="http://www.cbsnews.com/">CBS News</a></li><li><a target="_parent" href="http://www.kktv.com/consumerreports">Consumer Reports</a></li><li><a target="_parent" href="http://www.kktv.com/crimestoppers">Crime Stoppers</a></li><li><a target="_parent" href="http://www.kktv.com/economy">Economy</a></li><li><a target="_parent" href="http://www.kktv.com/entertainment">Entertainment</a></li><li><a target="_parent" href="http://www.kktv.com/station/misc/5717966.html">Have A News Tip?</a></li><li><a target="_parent" href="http://www.kktv.com/11forhealth">Health</a></li><li><a target="_parent" href="http://www.kktv.com/heresthedeal">Here's the Deal</a></li><li><a target="_parent" href="http://www.kktv.com/station">Meet The 11 News Team</a></li><li><a target="_parent" href="http://www.kktv.com/military ">Military</a></li><li><a target="_parent" href="http://www.kktv.com/schools">Schools</a></li></ul>
+<li class="menuparent"><a target="_parent" href="http://www.kktv.com/news">NEWS</a><ul><li><a target="_parent" href="http://www.kktv.com/home">11 News Headlines</a></li><li><a target="_parent" href="http://www.kktv.com/blogs">Blogs</a></li><li><a target="_parent" href="http://www.kktv.com/callforaction">Call For Action</a></li><li><a target="_parent" href="http://www.cbsnews.com/">CBS News</a></li><li><a target="_parent" href="http://www.kktv.com/consumerreports">Consumer Reports</a></li><li><a target="_parent" href="http://www.kktv.com/crimestoppers">Crime Stoppers</a></li><li><a target="_parent" href="http://www.kktv.com/economy">Economy</a></li><li><a target="_parent" href="http://www.kktv.com/elections">Elections 2011</a></li><li><a target="_parent" href="http://www.kktv.com/entertainment">Entertainment</a></li><li><a target="_parent" href="http://www.kktv.com/station/misc/5717966.html">Have A News Tip?</a></li><li><a target="_parent" href="http://www.kktv.com/11forhealth">Health</a></li><li><a target="_parent" href="http://www.kktv.com/heresthedeal">Here's the Deal</a></li><li><a target="_parent" href="http://www.kktv.com/station">Meet The 11 News Team</a></li><li><a target="_parent" href="http://www.kktv.com/military ">Military</a></li><li><a target="_parent" href="http://www.kktv.com/schools">Schools</a></li></ul>
 </li>
-<li class="menuparent"><a target="_parent" href="http://www.kktv.com/weather">       WEATHER       </a><ul><li><a target="_parent" href="http://www.kktv.com/liveonline">11 Alert</a></li><li><a target="_parent" href="http://www.kktv.com/weather">11 News Forecast</a></li><li><a target="_parent" href="http://www.kktv.com/11stormcall">11 Storm Call</a></li><li><a target="_parent" href="http://www.kktv.com/closings">Closings/Delays</a></li><li><a target="_parent" href="http://www.cotrip.org/home.htm">Colorado Road Conditions</a></li><li><a target="_parent" href="http://www.kktv.com/interactiveradar">Interactive Radar</a></li><li><a target="_parent" href="http://www.kktv.com/citycams">City Cameras</a></li><li><a target="_parent" href="http://www.kktv.com/weatherclass">KKTV Weather Class</a></li><li><a target="_parent" href="http://www.kktv.com/severeweather">Severe Weather Resources</a></li><li><a target="_parent" href="http://www.kktv.com/trafficcams">Traffic Cams</a></li><li><a target="_parent" href="http://www.kktv.com/roadwatch">TrafficWatch / Alerts </a></li><li><a target="_parent" href="http://www.kktv.com/talkweather">Weather Blog</a></li><li><a target="_parent" href="http://www.kktv.com/weathermaps">Weather Maps</a></li></ul>
+<li class="menuparent"><a target="_parent" href="http://www.kktv.com/weather">WEATHER</a><ul><li><a target="_parent" href="http://www.kktv.com/liveonline">11 Alert</a></li><li><a target="_parent" href="http://www.kktv.com/weather">11 News Forecast</a></li><li><a target="_parent" href="http://www.kktv.com/11stormcall">11 Storm Call</a></li><li><a target="_parent" href="http://www.kktv.com/closings">Closings/Delays</a></li><li><a target="_parent" href="http://www.cotrip.org/home.htm">Colorado Road Conditions</a></li><li><a target="_parent" href="http://www.kktv.com/interactiveradar">Interactive Radar</a></li><li><a target="_parent" href="http://www.kktv.com/citycams">City Cameras</a></li><li><a target="_parent" href="http://www.kktv.com/weatherclass">KKTV Weather Class</a></li><li><a target="_parent" href="http://www.kktv.com/severeweather">Severe Weather Resources</a></li><li><a target="_parent" href="http://www.kktv.com/trafficcams">Traffic Cams</a></li><li><a target="_parent" href="http://www.kktv.com/roadwatch">TrafficWatch / Alerts </a></li><li><a target="_parent" href="http://www.kktv.com/talkweather">Weather Blog</a></li><li><a target="_parent" href="http://www.kktv.com/weathermaps">Weather Maps</a></li></ul>
 </li>
-<li class="menuparent"><a target="_parent" href="http://www.kktv.com/home/headlines/2181747.html">       VIDEO       </a><ul><li><a target="_parent" href="http://www.kktv.com/video">11 News Videos</a></li><li><a target="_parent" href="http://www.kktv.com/innertube">CBS Shows</a></li><li><a target="_parent" href="http://www.kktv.com/home/headlines/2181747.html">Watch LIVE Newscasts</a></li><li><a target="_parent" href="http://kktv.mycapture.com/mycapture/photos/index.aspx">Your Photos &amp; Videos</a></li></ul>
+<li class="menuparent"><a target="_parent" href="http://www.kktv.com/home/headlines/2181747.html">VIDEO</a><ul><li><a target="_parent" href="http://www.kktv.com/video">11 News Videos</a></li><li><a target="_parent" href="http://www.kktv.com/innertube">CBS Shows</a></li><li><a target="_parent" href="http://www.kktv.com/home/headlines/2181747.html">Watch LIVE Newscasts</a></li><li><a target="_parent" href="http://kktv.mycapture.com/mycapture/photos/index.aspx">Your Photos &amp; Videos</a></li><li><a target="_parent" href="http://www.kktv.com/kurtzchallenge">Kurtz Challenge</a></li></ul>
 </li>
-<li class="menuparent"><a target="_parent" href="http://www.kktv.com/sports">       SPORTS       </a><ul><li><a target="_parent" href="http://www.kktv.com/broncos">Broncos</a></li><li><a target="_parent" href="http://www.kktv.com/classroomchampions">Classroom Champions</a></li><li><a target="_parent" href="http://kktv.profootball.upickem.net">Pro Football Contest</a></li><li><a target="_parent" href="http://www.kktv.com/sports">Sports Headlines</a></li><li><a target="_parent" href="http://www.kktv.com/blogs/talksports">Talk Sports Blog</a></li></ul>
+<li class="menuparent"><a target="_parent" href="http://www.kktv.com/sports">SPORTS</a><ul><li><a target="_parent" href="http://www.kktv.com/broncos">Broncos</a></li><li><a target="_parent" href="http://www.kktv.com/classroomchampions">Classroom Champions</a></li><li><a target="_parent" href="http://www.kktv.com/ncaa">NCAA Basketball</a></li><li><a target="_parent" href="http://www.kktv.com/sports">Sports Headlines</a></li><li><a target="_parent" href="http://www.kktv.com/blogs/talksports">Talk Sports Blog</a></li><li><a target="_parent" href="http://www.kktv.com/kurtzchallenge">Kurtz Challenge</a></li></ul>
 </li>
-<li class="menuparent"><a target="_parent" href="http://www.kktv.com/community">       COMMUNITY       </a><ul><li><a target="_parent" href="http://kktv.mycapture.com/mycapture/photos/Album.aspx?EventID=1026257&amp;CategoryID=29579">11 For Kids Day Photos</a></li><li><a target="_parent" href="http://www.kktv.com/coloradoheroes">Colorado Heroes</a></li><li><a target="_parent" href="http://www.kktv.com/community">Community Calendar</a></li><li><a target="_parent" href="http://www.kktv.com/events">KKTV Sponsored Events</a></li><li><a target="_parent" href="http://kktv.mycapture.com/mycapture/photos/index.aspx">Your Photos &amp; Videos</a></li><li><a target="_parent" href="http://www.kktv.com/monument">Monument News</a></li><li><a target="_parent" href="http://www.kktv.com/pueblo">Pueblo News</a></li></ul>
+<li class="menuparent"><a target="_parent" href="http://www.kktv.com/community">COMMUNITY</a><ul><li><a target="_parent" href="http://kktv.mycapture.com/mycapture/photos/Album.aspx?EventID=1026257&amp;CategoryID=29579">11 For Kids Day Photos</a></li><li><a target="_parent" href="http://www.kktv.com/coloradoheroes">Colorado Heroes</a></li><li><a target="_parent" href="http://www.kktv.com/community">Community Calendar</a></li><li><a target="_parent" href="http://www.kktv.com/events">KKTV Sponsored Events</a></li><li><a target="_parent" href="http://kktv.mycapture.com/mycapture/photos/index.aspx">Your Photos &amp; Videos</a></li><li><a target="_parent" href="http://www.kktv.com/monument">Monument News</a></li><li><a target="_parent" href="http://www.kktv.com/pueblo">Pueblo News</a></li></ul>
 </li>
-<li class="menuparent"><a target="_parent" href="http://www.kktv.com/station/misc/7690882.html">       ABOUT KKTV       </a><ul><li><a target="_parent" href="http://www.kktv.com/advertise">Advertise With Us</a></li><li><a target="_parent" href="http://www.kktv.com/station/misc/88564942.html">Closed Captioning Questions</a></li><li><a target="_parent" href="http://www.kktv.com/station/misc/48082407.html">Contact Us</a></li><li><a target="_parent" href="http://www.kktv.com/station/misc/111063464.html">Dub Requests</a></li><li><a target="_parent" href="http://www.kktv.com/station/misc/7690882.html">E-mail KKTV</a></li><li><a target="_parent" href="http://www.kktv.com/kktvemployment">Jobs At KKTV</a></li><li><a target="_parent" href="http://www.kktv.com/station/misc/8343052.html">KKTV Programming Guide</a></li><li><a target="_parent" href="http://www.kktv.com/station">Meet The 11 News Team</a></li><li><a target="_parent" href="http://www.kktv.com/mntv">MyKKTV</a></li><li><a target="_parent" href="http://www.kktv.com/station/misc/5717966.html">Report Breaking News</a></li><li><a target="_parent" href="http://www.kktv.com/station/misc/48119127.html">Station Information</a></li><li><a target="_parent" href="http://www.kktv.com/station/misc/5717966.html">Send Your Story Ideas</a></li><li><a target="_parent" href="http://www.kktv.com/station/misc/7690882.html&#10;">Viewer Feedback</a></li></ul>
+<li class="menuparent"><a target="_parent" href="http://www.kktv.com/station/misc/7690882.html">ABOUT KKTV</a><ul><li><a target="_parent" href="http://www.kktv.com/advertise">Advertise With Us</a></li><li><a target="_parent" href="http://www.kktv.com/station/misc/88564942.html">Closed Captioning Questions</a></li><li><a target="_parent" href="http://www.kktv.com/station/misc/48082407.html">Contact Us</a></li><li><a target="_parent" href="http://www.kktv.com/station/misc/111063464.html">Dub Requests</a></li><li><a target="_parent" href="http://www.kktv.com/station/misc/7690882.html">E-mail KKTV</a></li><li><a target="_parent" href="http://www.kktv.com/kktvemployment">Jobs At KKTV</a></li><li><a target="_parent" href="http://www.kktv.com/station/misc/8343052.html">KKTV Programming Guide</a></li><li><a target="_parent" href="http://www.kktv.com/station">Meet The 11 News Team</a></li><li><a target="_parent" href="http://www.kktv.com/mntv">MyKKTV</a></li><li><a target="_parent" href="http://www.kktv.com/station/misc/5717966.html">Report Breaking News</a></li><li><a target="_parent" href="http://www.kktv.com/station/misc/48119127.html">Station Information</a></li><li><a target="_parent" href="http://www.kktv.com/station/misc/5717966.html">Send Your Story Ideas</a></li><li><a target="_parent" href="http://www.kktv.com/station/misc/7690882.html&#10;">Viewer Feedback</a></li></ul>
 </li>
-<li class="menuparent"><a target="_parent" href="">       GAMES       </a><ul><li><a target="_parent" href="http://www.kktv.com/station/misc/79917062.html">Play Jeopardy</a></li><li><a target="_parent" href="http://kktv.profootball.upickem.net">Pro Football Contest</a></li><li><a target="_parent" href="http://www.kktv.com/contests/misc/111131259.html">Green Santa</a></li></ul>
+<li class="menuparent"><a target="_parent" href="">       GAMES       </a><ul><li><a target="_parent" href="http://www.kktv.com/station/misc/79917062.html">Play Jeopardy!</a></li></ul>
 </li>
-<li class="menuparent"><a target="_parent" href="http://www.kktv.com/obituaries">       OBITS       </a><ul></ul>
+<li class="menuparent"><a target="_parent" href="http://www.kktv.com/obituaries">   OBITS       </a><ul></ul>
 </li>
-<li class="menuparent"><a target="_parent" href="">       DEALS       </a><ul><li><a target="_parent" href="http://kktv.cbs11deals.com/">Double Dollar Deals</a></li><li><a target="_parent" href="http://www.kktv.com/contests/misc/111131259.html">Green Santa</a></li><li><a target="_parent" href="http://www.kktv.com/heresthedeal">Here's The Deal</a></li><li><a target="_parent" href="http://www.kktv.com/holideals">Holideals!</a></li></ul>
+<li class="menuparent"><a target="_parent" href="">DEALS       </a><ul><li><a target="_parent" href="http://www.kktv.com/heresthedeal">Here's The Deal</a></li></ul>
 </li>
-<li class="menuparent"><a target="_parent" href="http://www.kktv.com/gocolorado">          GO COLORADO          </a><ul><li><a target="_parent" href="http://www.kktv.com/jobsearch">GoCo Jobs</a></li></ul>
+<li class="menuparent"><a target="_parent" href="http://www.kktv.com/gocolorado">          GO CO</a><ul></ul>
+</li>
+<li class="menuparent"><a target="_parent" href="http://wn.kktv.com/category/206618/abc">11 FOR HEALTH</a><ul></ul>
 </li>
 </ul>
 </div>
@@ -742,13 +1014,14 @@ function gatherResponse(commentObject) {
 			</td>
 		</tr>
 <!-- endclickprintexclude -->
-		<tr>
+				<tr>
 			<td style="vertical-align:top;">
+<!-- Live Date: 2008-11-10 13:09:26.0 | Modifed Date: 2010-08-09 11:58:21.0 -->
 															<span style="font-size:9pt; padding:2px; color:#999999;">Updated: 12:58 PM Aug 9, 2010<br></span>
-													<div style="text-align:left; padding:4px 0 2px; font-size:18pt;">
-																GRAY TELEVISION, INC.  PRIVACY POLICY AND YOUR PRIVACY RIGHTS
-									</div>
-								<div style="text-align:left; padding:6px 2px 0; width:90%;">
+																		<div style="text-align:left; padding:4px 0 2px; font-size:18pt;">
+						GRAY TELEVISION, INC.  PRIVACY POLICY AND YOUR PRIVACY RIGHTS
+					</div>
+												<div style="text-align:left; padding:6px 2px 0; width:90%;">
 											<div style="padding:0 0 5px;">Privacy Policy</div>
 																							<span style="font-size:9pt; font-weight:bold; text-align:left;">Posted: </span><span class="title" style="font-weight:normal">2:09 PM Nov 10, 2008</span><br>
 																											
@@ -1001,9 +1274,21 @@ Copyright © 2010 Gray Television, Inc. All Rights Reserved.</span>
 
 																		        </div>
   
-        							
+        								
+							<!-- begin ad tag-->
+<div style="text-align:center; width:100%; padding-bottom:2px; padding-top:8px;">
+	<script language="JavaScript" src="http://ad.doubleclick.net/adj/wn.loc.kktv/_default;wnsz=17;sz=468x60;ord=%5btimestamp%5d?" type="text/javascript"></script>
+	<noscript>
+		<a href="http://ad.doubleclick.net/jump/wn.loc.kktv/_default;wnsz=17;sz=468x60;ord=%5btimestamp%5d?" target="_blank">
+			<img src="http://ad.doubleclick.net/ad/wn.loc.kktv/_default;wnsz=17;sz=468x60;ord=%5btimestamp%5d?" width="468" height="60" border="0" alt="">
+		</a>
+	</noscript>
+</div>
+<!-- End ad tag -->
+
+						
 			
-						            		
+						            								
             </div>
 </div>
 <!-- endclickprintinclude -->
@@ -1014,7 +1299,7 @@ Copyright © 2010 Gray Television, Inc. All Rights Reserved.</span>
 																															
 			
 														<div class="toutModule" ondblclick="window.status=95519429">
-													<a href="/r?19=950&amp;32=42&amp;7=23981&amp;40=http%3A%2F%2Fwww.kktv.com%2Freportwithus&amp;41=REPORT_WITH_US_300x50.jpg&amp;18=0.20552095019620376"><img src="http://media.graytvinc.com/images/REPORT_WITH_US_300x50.jpg" width="300" height="50" alt="" title="" border="0"></a>
+													<a href="/r?19=950&amp;32=42&amp;7=23981&amp;40=http%3A%2F%2Fwww.kktv.com%2Freportwithus&amp;41=REPORT_WITH_US_300x50.jpg&amp;18=0.37026584921422956"><img src="http://media.graytvinc.com/images/REPORT_WITH_US_300x50.jpg" width="300" height="50" alt="" title="" border="0"></a>
 											</div>
 										 
 																					
@@ -1031,63 +1316,55 @@ Copyright © 2010 Gray Television, Inc. All Rights Reserved.</span>
 
 						<div class="contentModule" ondblclick="window.status=7342831" style="border: 0px solid #000000;">
 							 																								<style type="text/css">
-#divWNVideoCanvas5221 {top:25px; left:0px; position:absolute}
-#divWNGallery5221 {top:234px; left:0px; position:absolute}
-#divWNHeadline5221 {top:1px; left:0px; position:absolute}
-#divWNWidgetsContainer5221 {position:relative}
+#divWNVideoCanvas173 {top:25px; left:0px; position:absolute}
+#divWNGallery173 {top:264px; left:0px; position:absolute}
+#divWNHeadline173 {top:0px; left:0px; position:absolute}
+#divWNWidgetsContainer173 {position:relative}
 </style>
 
-<div id="divWNWidgetsContainer5221" style="overflow:hidden;height:384px;width:300px;">
-<div id="divWNVideoCanvas5221"></div>
-<div id="divWNGallery5221"></div>
-<div id="divWNHeadline5221"></div>
+<div id="divWNWidgetsContainer173" style="overflow:hidden;height:414px;width:300px;">
+<div id="divWNVideoCanvas173"></div>
+<div id="divWNGallery173"></div>
+<div id="divWNHeadline173"></div>
 
 </div>
 <script type="text/javascript" src="http://ww2.KKTV.com/global/video/flash/WNVideo.asp"></script>
 <script type="text/javascript">
-var addThisWNDynamicWidgetId_5221;
- if (addThisWNDynamicWidgetId_5221 == undefined) addThisWNDynamicWidgetId_5221 = '5221';
+var wnWidgetId_173;
+ if (wnWidgetId_173 == undefined) wnWidgetId_173 = "widget_id_placeholder";
 
-var WNVideoCanvas5221 = new WNVideoWidget("WNVideoCanvas", "divWNVideoCanvas5221");
-WNVideoCanvas5221.SetStylePackage("dark");
-WNVideoCanvas5221.SetVariable("isMute", "false");
-WNVideoCanvas5221.SetVariable("summaryGraphicScaleStyle", "stretch");
-WNVideoCanvas5221.SetVariable("isAutoStart", "false");
-WNVideoCanvas5221.SetVariable("playbackFormat", "flv-application/octet-stream,video/x-flv,video/flash");
-WNVideoCanvas5221.SetVariable("useUAF", "false");
-WNVideoCanvas5221.SetVariable("assignablelink", "http%253A%252F%252Fapi.worldnow.com%252Ffeed%252Fv2.0%252Fwidgets%252F5221%253Falt%253Djs");
-WNVideoCanvas5221.SetWidth(300);
-WNVideoCanvas5221.SetHeight(209);
-WNVideoCanvas5221.RenderWidget();
+var WNVideoCanvas173 = new WNVideoWidget("WNVideoCanvas", "divWNVideoCanvas173");
+WNVideoCanvas173.SetStylePackage("dark");
+WNVideoCanvas173.SetVariable("widgetId", wnWidgetId_173);
+WNVideoCanvas173.SetVariable("addThisDivId", "divWNImageCanvas173_addThis");
+WNVideoCanvas173.SetVariable("incanvasAdDivId", "divWNImageCanvas173_adDiv");
+WNVideoCanvas173.SetVariable("isMute", "false");
+WNVideoCanvas173.SetVariable("isAutoStart", "false");
+WNVideoCanvas173.SetWidth(300);
+WNVideoCanvas173.SetHeight(240);
+WNVideoCanvas173.RenderWidget();
 
-var WNGallery5221 = new WNVideoWidget("WNGallery", "divWNGallery5221");
-WNGallery5221.SetStylePackage("dark");
-WNGallery5221.SetVariable("listItemGraphicScaleStyle", "center");
-WNGallery5221.SetVariable("rows", "1");
-WNGallery5221.SetVariable("columns", "6");
-WNGallery5221.SetVariable("playbackFormat", "flv-application/octet-stream,video/x-flv,video/flash");
-WNGallery5221.SetVariable("thirdpartytemplatemrssurl", "");
-WNGallery5221.SetVariable("regexpmrssid", "");
-WNGallery5221.SetVariable("useUAF", "false");
-WNGallery5221.SetVariable("topVideoCatNo", "52872");
-WNGallery5221.SetVariable("showTooltip", "true");
-WNGallery5221.SetVariable("tabBackgroundColors", "777777,666666");
-WNGallery5221.SetVariable("videoListHasBorder", "true");
-WNGallery5221.SetVariable("videoListNavigationHasBorder", "false");
-WNGallery5221.SetWidth(300);
-WNGallery5221.SetHeight(150);
-WNGallery5221.RenderWidget();
+var WNGallery173 = new WNVideoWidget("WNGallery", "divWNGallery173");
+WNGallery173.SetStylePackage("dark");
+WNGallery173.SetVariable("widgetId", wnWidgetId_173);
+WNGallery173.SetVariable("addThisDivId", "divWNImageCanvas173_addThis");
+WNGallery173.SetVariable("incanvasAdDivId", "divWNImageCanvas173_adDiv");
+WNGallery173.SetVariable("rows", "1");
+WNGallery173.SetVariable("columns", "6");
+WNGallery173.SetVariable("topVideoCatNo", "52872");
+WNGallery173.SetWidth(300);
+WNGallery173.SetHeight(150);
+WNGallery173.RenderWidget();
 
-var WNHeadline5221 = new WNVideoWidget("WNHeadline", "divWNHeadline5221");
-WNHeadline5221.SetStylePackage("dark");
-WNHeadline5221.SetVariable("slideshowHeadline", "");
-WNHeadline5221.SetVariable("hasImageCount", "true");
-WNHeadline5221.SetVariable("offFaceColor", "ffffff");
-WNHeadline5221.SetVariable("hasBorder", "true");
-WNHeadline5221.SetVariable("defaultTitleText", "");
-WNHeadline5221.SetWidth(300);
-WNHeadline5221.SetHeight(25);
-WNHeadline5221.RenderWidget();
+var WNHeadline173 = new WNVideoWidget("WNHeadline", "divWNHeadline173");
+WNHeadline173.SetStylePackage("dark");
+WNHeadline173.SetVariable("widgetId", wnWidgetId_173);
+WNHeadline173.SetVariable("addThisDivId", "divWNImageCanvas173_addThis");
+WNHeadline173.SetVariable("incanvasAdDivId", "divWNImageCanvas173_adDiv");
+WNHeadline173.SetVariable("defaultTitleText", "");
+WNHeadline173.SetWidth(300);
+WNHeadline173.SetHeight(25);
+WNHeadline173.RenderWidget();
 
 </script>
 																					</div>
@@ -1121,6 +1398,11 @@ WNHeadline5221.RenderWidget();
 <div>		
 <table width="100%" cellpadding="2" cellspacing="2" border="0">
 		<tbody><tr>
+		<td><a href="http://wn.kktv.com/category/206618/abc" target="_top"><img src="http://media.graytvinc.com/images/11ForHealth_Feature.jpg" width="140" height="75" alt="" title="" border="0" align="left"></a></td>
+		<td style="text-align:left"><span class="title"><a href="http://wn.kktv.com/category/206618/abc" target="_top"></a></span>
+					<br><span class="headlines"><a href="http://wn.kktv.com/category/206618/abc">Click here</a> for more information from our local health care specialists.</span></td>
+			</tr>
+		<tr>
 		<td><img src="http://media.graytvinc.com/images/TIPLINE_TOOLBOX_140.gif" width="140" height="80" alt="" title="" border="0" align="left"></td>
 		<td style="text-align:left"><span class="title"><a href="" target=""></a></span>
 					<br><span class="headlines">Do you have a story idea? Want to report breaking news? Call our newsroom at (719) 578-0000 or e-mail News@kktv.com. </span></td>
@@ -1131,19 +1413,9 @@ WNHeadline5221.RenderWidget();
 					<br><span class="headlines">Every Thursday and Friday at 9:25 a.m tune in to KKTV Channel 11 to learn more about how you can…Go Colorado.</span></td>
 			</tr>
 		<tr>
-		<td><a href="http://www.medicalvoyce.com/" target="_blank"><img src="http://media.graytvinc.com/images/medvoice140.jpg" width="140" height="72" alt="" title="" border="0" align="left"></a></td>
-		<td style="text-align:left"><span class="title"><a href="http://www.medicalvoyce.com/" target="_blank">Medical Voyce</a></span>
-					<br><span class="headlines">Your Health Care. Your Way</span></td>
-			</tr>
-		<tr>
 		<td><a href="http://www.kktv.com/weatherclass"><img src="http://media.graytvinc.com/images/WeatherClass_smallAd1.gif" width="140" height="95" alt="" title="" border="0" align="left"></a></td>
 		<td style="text-align:left"><span class="title"><a href="http://www.kktv.com/weatherclass" target=""></a></span>
 					<br><span class="headlines"><a href="http://www.kktv.com/weatherclass">Click Here</a> to have KKTV come to your school!</span></td>
-			</tr>
-		<tr>
-		<td><a href="http://kktv.cbs11deals.com/" target="_blank"><img src="http://media.graytvinc.com/images/DoubleDollarDeals1.jpg" width="140" height="95" alt="" title="" border="0" align="left"></a></td>
-		<td style="text-align:left"><span class="title"><a href="http://kktv.cbs11deals.com/" target="_blank">Double Dollar Deals</a></span>
-					<br><span class="headlines">Get 1/2 price gift certificates from KKTV.com. New deals every Friday morning. Get 'em fast, 'cause they won't last!</span></td>
 			</tr>
 		<tr>
 		<td><a href="http://www.kktv.com/innertube"><img src="http://media.graytvinc.com/images/CBSVideoPlayer.jpg" width="140" height="95" alt="" title="" border="0" align="left"></a></td>
@@ -1168,11 +1440,8 @@ WNHeadline5221.RenderWidget();
 
 
 
-						<div class="contentModule" ondblclick="window.status=26121154">
-							 																								<a href="http://kktv.mycapture.com/mycapture/photos/index.aspx"> 
-<img src="http://media.graytvinc.com/images/YourPhotosVideos+Tout.jpg" width="290" border="0"></a>
-
-<iframe src="http://kktv.mycapture.com/datafeeds/7584.html" width="280" height="225" frameborder="0"></iframe>
+						<div class="contentModule" ondblclick="window.status=52379087" style="border: 0px solid #000000;">
+							 																								 <script src="http://static.ak.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php/en_US" type="text/javascript"></script><script type="text/javascript">FB.init("625e17ab6dbbf4be903da1edfcae45b1");</script><fb:fan profile_id="44428318380" stream="1" connections="10" width="295"></fb:fan><div style="font-size:8px; padding-left:10px"><a href="http://www.facebook.com/kktv11news">KKTV 11 News</a> on Facebook</div>
 																					</div>
 															 
 																	
@@ -1187,11 +1456,13 @@ WNHeadline5221.RenderWidget();
 
 
 
-						<div class="contentModule" ondblclick="window.status=52379087" style="border: 0px solid #000000;">
-							 																								 <script src="http://static.ak.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php/en_US" type="text/javascript"></script><script type="text/javascript">FB.init("625e17ab6dbbf4be903da1edfcae45b1");</script><fb:fan profile_id="44428318380" stream="1" connections="10" width="295"></fb:fan><div style="font-size:8px; padding-left:10px"><a href="http://www.facebook.com/kktv11news">KKTV 11 News</a> on Facebook</div>
+						<div class="contentModule" ondblclick="window.status=26121154">
+							 																								<a href="http://kktv.mycapture.com/mycapture/photos/index.aspx"> 
+<img src="http://media.graytvinc.com/images/YourPhotosVideos+Tout.jpg" width="290" border="0"></a>
+
+<iframe src="http://kktv.mycapture.com/datafeeds/7584.html" width="280" height="225" frameborder="0"></iframe>
 																					</div>
 															 
-														 
 																	
 			
 														<div class="adModule">
@@ -1225,14 +1496,16 @@ WNHeadline5221.RenderWidget();
 	<div id="footer" align="center">
 
 <ul style="display:inline; list-style-type:none">
-<li style="display:inline"><a style="padding:0 10px;" href="/unclassified/34218669.html">Terms of Use</a></li>
-<li style="display:inline"><a style="padding:0 10px;" href="/unclassified/34218884.html">PRIVACY POLICY/YOUR CALIFORNIA PRIVACY RIGHTS</a></li>
-<li style="display:inline"><a style="padding:0 10px;" target="_blank" href="http://media.graytvinc.com/documents/KKTV+EEO+Public+File+Report+2010.doc">EEO Statement</a></li>
-<li style="display:inline"><a style="padding:0 10px;" target="_blank" href="http://media.graytvinc.com/documents/dtvfcc388kktv.pdf">FCC Form 388</a></li>
-<li style="display:inline"><a style="padding:0 10px;" href="/mobi" onclick="eraseMobileCookie();">View Mobile Site</a></li>
+<li style="display:inline"><a style="padding:0 7px;" href="/unclassified/34218669.html">Terms of Use</a></li>
+<li style="display:inline"><a style="padding:0 7px;" href="/unclassified/34218884.html">PRIVACY POLICY/YOUR CALIFORNIA PRIVACY RIGHTS</a></li>
+<li style="display:inline"><a style="padding:0 7px;" href="/home/misc/120872104.html">Advertising Non-Discrimination Certification</a></li>
+
+<li style="display:inline"><a style="padding:0 7px;" target="_blank" href="http://media.graytvinc.com/documents/KKTV+EEO+Public+File+Report+2010.doc">EEO Statement</a></li>
+<li style="display:inline"><a style="padding:0 7px;" target="_blank" href="http://media.graytvinc.com/documents/dtvfcc388kktv.pdf">FCC Form 388</a></li>
+<li style="display:inline"><a style="padding:0 7px;" href="/mobi" onclick="eraseMobileCookie();">Mobile Site</a></li>
 </ul>
 
-<p class="headlines">Gray Television, Inc. - Copyright © 2002-2010 - Designed by Gray Interactive Media - Powered by Clickability
+<p class="headlines">Gray Television, Inc. - Copyright © 2002-2011 - Designed by Gray Interactive Media - Powered by Clickability
  - <span style="color:#cccccc; font-size:8pt">Story ID: 34218884</span>
 </p>
 
