@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studiotheatre.org privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230230215id_/http%3A//www.studiotheatre.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studiotheatre.org privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524235823id_/http%3A//www.studiotheatre.org/privacy) for the most accurate reproduction.*
 
 # The Studio Theatre | Privacy
 
