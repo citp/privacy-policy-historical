@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livingthecountrylife.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123203508id_/http%3A//www.livingthecountrylife.com/lcl/file.jsp%3Ftemp%3Dyes%26item%3D/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livingthecountrylife.com privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524043933id_/http%3A//www.livingthecountrylife.com/lcl/file.jsp%3Ftemp%3Dyes%26item%3D/legal/privacy) for the most accurate reproduction.*
 
 # Living the Country Life Magazine Online
 
