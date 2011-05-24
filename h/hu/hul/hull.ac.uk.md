@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hull.ac.uk privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121102710id_/http%3A//www2.hull.ac.uk/page_elements/footer/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hull.ac.uk privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524132220id_/http%3A//www2.hull.ac.uk/page_elements/footer/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - University of Hull
 
