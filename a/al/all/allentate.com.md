@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allentate.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223195609id_/http%3A//www.allentate.com/DesktopDefault.aspx%3Fpageid%3D36%26pagealias%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allentate.com privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524045220id_/http%3A//www.allentate.com/DesktopDefault.aspx%3Fpageid%3D36%26pagealias%3DPrivacyPolicy) for the most accurate reproduction.*
 
 # Allen Tate Real Estate - Privacy Policy
 
@@ -30,7 +30,7 @@ Your IP address is a unique number used to identify your specific computer on a 
 
 #### Use of Cookies
 
-Allen Tate may use cookies?to track the online behavior of our Web site visitors. Cookies are small amounts of data that the visitor retains on their computer. This process allows the visitor to go back to saved information from a previous visit. Cookies make web surfing easier for you by saving your preferences. Cookies do not tell us personal identifying information unless you have chosen to provide it to us.
+Allen Tate may use �cookies?to track the online behavior of our Web site visitors. Cookies are small amounts of data that the visitor retains on their computer. This process allows the visitor to go back to saved information from a previous visit. Cookies make web surfing easier for you by saving your preferences. Cookies do not tell us personal identifying information unless you have chosen to provide it to us.
 
 In addition to creating a simplified web experience by saving your Web site preferences, Allen Tate may use cookies to track Web site usage trends and patterns. These usage patterns and trends may help us enhance the services we provide to our online consumer.
 
@@ -52,7 +52,7 @@ To unsubscribe to e-mail correspondence simply contact our Client Care departmen
 
 You will be notified should any changes or modifications be made to this policy and will have the option to opt-out based on applicable laws. E-mail notification may also follow when required.
 
-Your acceptance of these terms: By using this site, you signify your agreement to Allen Tates Privacy Policy. IF YOU DO NOT AGREE WITH THIS POLICY, PLEASE DO NOT USE THIS SITE. Your continued use of Allentate.com and/or its affiliates'?sites following the posting of changes to these terms will mean you accept those changes.
+Your acceptance of these terms: By using this site, you signify your agreement to Allen Tate�s Privacy Policy. IF YOU DO NOT AGREE WITH THIS POLICY, PLEASE DO NOT USE THIS SITE. Your continued use of Allentate.com and/or its affiliates'?sites following the posting of changes to these terms will mean you accept those changes.
 
 If you have questions or concerns regarding the Privacy Policy, please do not hesitate to contact our Client Care department.
 
