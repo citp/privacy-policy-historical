@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecologyfund.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123115745id_/http%3A//ecologyfund.com/ecology/about_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecologyfund.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525004124id_/http%3A//www.ecologyfund.com/ecology/about_privacy.html) for the most accurate reproduction.*
 
 # EcologyFund.com, Privacy Policy - save, protect, preserve wilderness and rainforest for free!
 
