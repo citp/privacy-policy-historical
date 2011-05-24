@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maverickmoon.com privacy policy that was archived on 2010-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101207044413id_/http%3A//www.maverickmoon.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maverickmoon.com privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524052935id_/http%3A//www.maverickmoon.com/privacy.php) for the most accurate reproduction.*
 
 # MaverickMoon - Submit Your Site
 
