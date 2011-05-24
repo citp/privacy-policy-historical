@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pitchero.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120191926id_/http%3A//www.pitchero.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pitchero.com privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524122340id_/http%3A//www.pitchero.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Police | Pitchero
+# Privacy Policy
 
 For the purposes of the Data Protection Act 1998, the data controller is Pitch Hero Ltd ("Pitch Hero") of Hawthorne House, Dark Lane, Birstall, Leeds, United Kingdom
 
@@ -52,7 +52,7 @@ We will always inform You before collecting Your Data if We intend to use Your D
 4\. Passing On Your Data To Third Parties We may pass on Your Data: 
 
   * to Our employees and agents to administer Your on-line account; 
-  * to reputable third parties in order to gather general statistical information about the Site user base, sales patterns, traffic volumes and related matters � but these details will not include information personally identifying You; 
+  * to reputable third parties in order to gather general statistical information about the Site user base, sales patterns, traffic volumes and related matters but these details will not include information personally identifying You; 
   * to a prospective buyer of some or all of Our business or assets, in which case personal data held by Pitch Hero Limited about its customers will also be one of the transferred assets; 
   * to the police, regulatory bodies or legal advisers in connection with any alleged criminal offence or suspected breach of the Terms and Conditions [http://www.pitchero.com/terms-of-service/] or where We are under a duty to disclose or share Your Data in order to comply with any legal obligation. 
 
@@ -80,6 +80,3 @@ Most web browsers automatically accept cookies, though You do not have to. We do
 10\. Contact Us 
 
 If You have any questions, comments or requests regarding this Privacy Policy or how We use Your Data please contact us using the [page supplied](https://web.archive.org/contact/) or write to us at Pitch Hero Limited, Hawthorne House, Dark lane, Birstall, Leeds , United Kingdom WF17 9LW 
-
-  
-
