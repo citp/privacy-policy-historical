@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the daemonstv.com privacy policy that was archived on 2010-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101207224800id_/http%3A//www.daemonstv.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daemonstv.com privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524153116id_/http%3A//www.daemonstv.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Daemon's TV
 
