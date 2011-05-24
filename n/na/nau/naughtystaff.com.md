@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naughtystaff.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227143840id_/http%3A//naughtystaff.com/n1/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naughtystaff.com privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524145309id_/http%3A//naughtystaff.com/n1/privacy.php) for the most accurate reproduction.*
 
 # Twistys LLC. Privacy Policy
 
