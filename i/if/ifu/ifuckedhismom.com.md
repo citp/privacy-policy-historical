@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ifuckedhismom.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123202527id_/http%3A//support.ifuckedhismom.com/support_privacy.php%3Fch_lang%3Dus%26tour%3D1%26id%3D2828%26country%3Dus) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ifuckedhismom.com privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524044406id_/http%3A//support.ifuckedhismom.com/support_privacy.php%3Fch_lang%3Dus%26tour%3D1%26id%3D2828%26country%3Dus) for the most accurate reproduction.*
 
 # I Fucked His Mom
 
