@@ -1,18 +1,62 @@
-> *The following text is extracted and transformed from the davidweekleyhomes.com privacy policy that was archived on 2009-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090629065316id_/http%3A//davidweekleyhomes.com/Site/SubPage.aspx%3FUID%3D52d61fae-b17a-4ab9-a390-3ea1f9442b7b%26From%3DFooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the davidweekleyhomes.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525075338id_/http%3A//www.davidweekleyhomes.com/Site/SubPage.aspx%3FUID%3D52d61fae-b17a-4ab9-a390-3ea1f9442b7b%26From%3DFooter) for the most accurate reproduction.*
 
 # David Weekley Homes - Privacy Policy
 
-David Weekley Homes respects the privacy of every individual. If you give us personal information, we will treat it according to this Policy. Your e-mail address is obtained for internal purposes only (as they relate to marketing and sale of David Weekley Homes' properties) and will not knowingly be sold or shared with any unaffiliated third party. David Weekley Homes collects personal information from you (e.g. your name, postal address, e-mail address, and other data) during your registration at our site or your providing personal data through various places on our web sites, from our various internet technologies that allow us to capture information on our site users and during entry of any such information in the various areas of our site. From time to time, we may have other interaction with you that will yield additional information that will be recorded in our customer databases.
+| 
 
-In addition, we use your IP address to help diagnose problems with our server and to administer our Web site. If you send us e-mails, from time to time we may use information about your preferences and interests to send updates to you about services or properties of David Weekley Homes or its affiliates that may be of interest to you. In addition, we may provide some of this information to our fulfillment partners for purposes of providing you with information you request, with our independent sales agent to follow up with you in connection with materials you request and as a part of our mailings and solicitations to prospective customers. The information you provide will also be utilized for market research purposes. This may involve reproduction, publication, broadcast and posting of such materials and information to our affiliates and independent sales representatives. 
+[](http://www.davidweekleyhomes.com/Site/)
 
-David Weekley Homes also may disclose or exchange with others information you have provided to us if we believe that the law requires us to do so or if it is necessary to protect the rights or property of David Weekley Homes, our affiliates or our users. David Weekley Homes will use reasonable precautions to keep the information disclosed to us secure and to disclose such information only to third parties we believe to be responsible. However, we are not responsible for any breach of security or for any actions of any third parties that may receive the information. Access to your personal information is limited to people who need it to do their job. For example, if we need to ship something to you, we must share your name and address with a shipping company. We limit such third parties in their access and use of your personal information. 
+|  |   
+---  
+[](http://www.davidweekleyhomes.com/Site/#ctl00_TitleMenu_SkipLink) |  | [My Plans](http://www.davidweekleyhomes.com/Site/MyPlans.aspx?From=Title)  
+---  
+|  | [Plan Search](http://www.davidweekleyhomes.com/Site/PlanSearch.aspx?From=Title)  
+---  
+|  | [About Us](http://www.davidweekleyhomes.com/Site/SubPage.aspx?UID=74017805-8e27-4a32-abfe-05884dddc063&From=TitleNav)  
+---  
+|  | [Contact Us](http://www.davidweekleyhomes.com/Site/ContactUs.aspx?From=TitleNav)  
+---  
+|   
+  
+|  |   
+  
+---  
+[](http://www.davidweekleyhomes.com/Site/#ctl00_TreeView1_SkipLink)
 
-Our site includes links to other Web sites. Those sites may have different privacy policies. If you click on to another Web site, you may want to check the privacy policy of that site, which will usually (but not always) be posted on the web site. David Weekley Homes is not responsible for the privacy policies of other sites.
+[](http://www.davidweekleyhomes.com/Site/#ctl00_SecondaryNav_SkipLink) |  | [Terms of Use](http://www.davidweekleyhomes.com/Site/SubPage.aspx?UID=40173e5a-aa55-494a-b587-c69d4a919855)  
+---  
+| [Privacy Policy](http://www.davidweekleyhomes.com/Site/SubPage.aspx?UID=52d61fae-b17a-4ab9-a390-3ea1f9442b7b)  
+---  
+  
+  
+  
+[](http://www.davidweekleyhomes.com/Site/#ctl00_AdNav_SkipLink) |  | [](http://www.davidweekleyhomes.com/Site/promos.aspx?UID=20d842f1-a4ca-4f0a-8c28-0cbce37ae8e1&CMP=1044)  
+---  
+|  |  |  [](http://www.davidweekleyhomes.com/Site/#ctl00_BreadCrumbs_SkipLink)[Home](http://www.davidweekleyhomes.com/Site/default.aspx "David Weekley Homes") > [Legal Notices](http://www.davidweekleyhomes.com/Site/SubPage.aspx?UID=40173e5a-aa55-494a-b587-c69d4a919855&From=Parent) > Privacy Policy |  [](http://www.davidweekleyhomes.com/Site/#ctl00_UtilityNav_SkipLink) |  |  Print   
+---  
+  
+Since 1976, David Weekley Homes has developed relationships with our Customers based on enhancing the lives of our Customers and acting with the utmost integrity. We're aware of the confidence you demonstrate when you provide us with personal information. The Privacy Notice below is posted to demonstrate our adherence to the practices you'll find common to the best websites online. We will treat your information with the same integrity and sensitivity that we have displayed throughout our company's history.
 
-We use "cookies" to help us provide a better user experience by measuring which web site areas are of greatest interest. David Weekley Homes may also uses cookies when you register for further information. In this situation, a cookie will store useful information that enables our web site to remember you when you return. David Weekley Homes can only read cookies from David Weekley Homes web sites. If you choose to disable cookies in your browser, you can still access most of our web site.
+David Weekley Homes respects the privacy of every individual. If you give us personal information, we will treat it according to this Policy. Your e-mail address is obtained for internal purposes only (as they relate to marketing and sale of David Weekley Homes' properties) and will not knowingly be sold or shared with any unaffiliated third party. 
 
-The David Weekley Homes Website is directed to adults and is not directed to children under the age of 18. David Weekley Homes complies with the Children's Online Privacy Protection Act and does not permit registration by and will not knowingly collect personally identifiable information from anyone under 13. This Policy will be posted wherever David Weekley Homes collects data within the David Weekley Homes Website, such as during the registration process, and will be linked through our Terms of Use on all pages. 
+**Information We Collect**
 
-We need your help in making sure your personal information is correct in our systems. Please notify us of changes to your name, address, title, phone number or email address You may correct your personal information or select the option not to receive future David Weekley Homes contacts (i.e. mailings, calls, etc.) by emailing [webmaster@dwhomes.com](mailto:webmaster@dwhomes.com). In the event you elect not to receive any future contacts from David Weekley Homes, we will endeavor to remove your name from all of our contact lists; however, information sometimes develops a "life of its own,' and we can only promise to endeavor to remove you from any lists we control. We shall have no liability under this Policy for our failure to accomplish this objective. If you have questions, you should direct them to the David Weekley Homes site Webmaster.  
+David Weekley Homes collects information and data to personalize and improve your use of our website(s). We gather the following types of information:
+
+> Information you give us: David Weekley Homes collects any information which you enter on our website. This includes but is not limited to your name, mailing address, e-mail address and other data you provide during your registration at our site or when you provide personal data through various places on our site.
+> 
+> Information automatically collected by David Weekley Homes: Like most websites, whenever you visit our site(s) we use "cookies" to collect and store information about a visitor site experience. We collect and analyze: 
+> 
+>   * The IP address used to connect your computer to the Internet
+>   * Computer and connection information such as your browser type and version
+>   * Connection type and speed
+>   * IP geolocation
+>   * Operating system and platform
+>   * Confirmation when you open e-mail that we send you
+>   * The URLs which lead you to and around our Web site including the date and time
+>   * The pages you viewed or searched for
+> 
+
+
+Your browser allows you to reject cookies and software is available from third parties which will allow you to visit our Web site without providing this information. You are welcomed at our Web site if you use this software but there may be a reduction in functionality on some pages of our site.  
 
