@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the plrinternetmarketing.com privacy policy that was archived on 2010-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101028081611id_/http%3A//www.plrinternetmarketing.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plrinternetmarketing.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525043748id_/http%3A//www.plrinternetmarketing.com/earnings-income-disclaimers/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy |
+# Privacy Policy | PLR Internet Marketing
 
-You are here: [Home](http://www.plrinternetmarketing.com/) / Privacy Policy
-
-**PLR[Internet Marketing](http://www.plrinternetmarketing.com/internet/internet-marketing/ "Internet Marketing")** takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it. See this [privacy policy primer](http://www.synclastic.com/privacy/privacy-policies/) to learn more about privacy policies in general.
+**PLR[Internet Marketing](http://www.plrinternetmarketing.com/ "Internet Marketing")** takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it. See this [privacy policy primer](http://www.synclastic.com/privacy/privacy-policies/) to learn more about privacy policies in general.
 
 ## Routine Information Collection
 
