@@ -1,18 +1,18 @@
-<!--The following is the downloaded HTML source of the blogtopsites.com privacy policy that was archived on 2010-11-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101120072937id_/http%3A//www.blogtopsites.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the blogtopsites.com privacy policy that was archived on 2011-05-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110525045247id_/http%3A//www.blogtopsites.com/privacy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Privacy Policy - Blog Top Sites</title>
 <link rel="shortcut icon" href="http://www.blogtopsites.com/favicon.ico" type="image/x-icon">
-<link href="/theme_v1/css/style.css" rel="stylesheet" type="text/css">
+<link href="/theme_v2/css/style.css" rel="stylesheet" type="text/css">
 <link href="/datepicker.css" rel="stylesheet" type="text/css">
 <script src="/library/SpryAssets_packed/SpryData.js" type="text/javascript" language="JavaScript"></script>
 <script src="/library/SpryAssets_packed/SpryRating.js" type="text/javascript" language="JavaScript"></script>
 <script src="/library/SpryAssets_packed/SpryDOMUtils.js" type="text/javascript" language="JavaScript"></script>
 <script src="/library/SpryAssets_packed/SpryEffects.js" type="text/javascript" language="JavaScript"></script>
-<script src="/theme_v1/js/css-helper.js" type="text/javascript" language="javascript"></script>
-<script src="/theme_v1/js/global.js" type="text/javascript" language="javascript"></script>
+<script src="/theme_v2/js/css-helper.js" type="text/javascript" language="javascript"></script>
+<script src="/theme_v2/js/global.js" type="text/javascript" language="javascript"></script>
 
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js" type="text/javascript"></script>
 <script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.1/jquery-ui.min.js" type="text/javascript"></script>
@@ -26,22 +26,106 @@
 -->
 </style>
 
+<style type="text/css">
+<!--
+/*
+#topBigBanner {
+	height: 90px;
+	width: 728px;
+	position: absolute;
+	z-index: 1000;
+	top: 0px;
+	right: 10px;
+}
+
+#topBar .inside {
+	height: 117px;
+	width: 1000px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	position: relative;
+	z-index: 1000;
+}
+
+#topBar #logo {
+	width: 240px;
+	height: 45px;
+	position: absolute;
+	top: 46px;
+	left: 10px;
+	z-index: 1000;
+}
+
+#topBar #searchBox {
+	right: 10px;
+	bottom: 2px;
+	top: auto;
+	height: 24px;
+	left: auto;
+}
+
+#loginBar {
+	width: auto;
+	height: 12px;
+	position: absolute;
+	z-index: 900;
+	top: 117px;
+	right: 10px;
+	float: none;
+	margin: auto;
+	padding-top: 5px;
+}
+
+#loginBar .menu li a {
+	color: #666;
+}
+*/
+-->
+</style>
+
 </head>
 
 <body>
+<div id="fb-root"><script src="https://connect.facebook.net/en_US/all.js" async=""></script></div>
+<script type="text/javascript">
+	  <!--
+      window.fbAsyncInit = function() {
+        FB.init({
+          appId   : '196889623665106',
+          session : null, // donnot refetch the session when PHP already has it
+          status  : true, // check login status
+          cookie  : true, // enable cookies to allow the server to access the session
+          xfbml   : true // parse XFBML
+        });
 
-<div id="inside-main-box">
-  <div class="r2">
+        // whenever the user logs in, we refresh the page
+        FB.Event.subscribe('auth.login', function() {
+         // window.parent.location='/?fblgd=1';
+		  window.parent.location.reload();
+        });
+      };
+
+      (function() {
+        var e = document.createElement('script');
+        e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
+        e.async = true;
+        document.getElementById('fb-root').appendChild(e);
+      }());
+	  -->
+    </script>
     <div id="topBar">
-      <div id="logo"><a href="/"><img src="/theme_v1/graphics/logo.png" alt="" width="215" height="54" border="0"></a></div>
-      <div id="topMenu">
+	  <div class="inside">	<div id="logo"><a href="/"><img src="/theme_v2/graphics/logo.png" alt="" width="149" height="28" border="0"></a></div>
+		<div id="topMenu">
         <ul id="globalnav">
           <li><a href="/explore" class="explore">explore</a></li>
           <li><a href="/dashboard">my dashboard</a></li>
+		  <li><a href="http://apps.facebook.com/blogtopsites/" target="_blank">facebook app</a></li>
 		  <li><a href="/blogging">blogging tips</a></li>
 		  <li><a href="/addblog">submit a blog</a></li></ul>
       </div>
-      <div id="searchBox">
+		<div id="searchBox">
         <form action="/search.php" method="post" enctype="application/x-www-form-urlencoded" id="topSeachForm">
           <span id="prettyplaceholder" class="hidden">Look up...</span>
           <div class="search-input">
@@ -58,7 +142,7 @@
             </div>
           </div>
           <div class="search-btn">
-            <input name="searchBtn" type="image" src="/theme_v1/graphics/inside-search-btn.png" alt="Search">
+            <input name="searchBtn" type="image" src="/theme_v2/graphics/inside-search-btn.png" alt="Search">
           </div>
         </form>
         <script type="text/javascript">
@@ -83,26 +167,27 @@
 	-->
   </script> 
       </div>
-      <div id="loginBar">
-        <div class="c1"></div>
-        <div class="c2">
+		<div id="loginBar">
           <ul class="menu">
-		  <li><a href="/login.php" id="instanteLogin" onclick="slidePopin('/popin_login.php'); return false;">Log in</a></li>
+		  <li><a href="/blogging/40/BlogTopSites_FAQ">FAQ</a></li>
+			<li><a href="/login.php" id="instanteLogin" onclick="slidePopin('/popin_login.php'); return false;">Log in</a></li>
             <li><a href="/register.php" id="instanteRegister" onclick="slidePopin('/popin_register.php'); return false;">Sign up</a></li></ul>
           <div class="clear-both"></div>
-        </div>
-        <div class="c3"></div>
-        <div class="clear-both"></div>
       </div>
-      <div class="clear-both"></div>
-    </div><div class="separator-10"></div> 
+		<div class="clear-both"></div>
+	  </div>
+    </div>
+	<div id="secondaryTopBar"></div>
+    <div class="separator-20"></div> 
+<div id="inside-main-box">
+  <div class="r2">
 <div id="mainContainer"><h1>Privacy Policy</h1>
 <p>When you create an account on the site, some information about your account and your account activity will be provided to other Users of the site. This may include your name, your age, your country and your interests. You may also choose to add personal information that will be visible to other Users on your profile page. This may include a profile picture, you name, gender, or other details.</p>
 <p><span class="boldText">BlogTopSites</span> gathers certain information about you and your blog[s] in order to provide services such as listing your blog[s] in the directory and returning your blog[s] and posts in search returns on <span class="boldText">BlogTopSites</span>.com. We may also use your information to send you updates and information [via email or via your profile at <span class="boldText">BlogTopSites</span>.com] about <span class="boldText">BlogTopSites</span>.com that will or may affect your membership to the site. We will never rent or sell your information to any other party, under any circumstances. <span class="boldText">BlogTopSites</span>.com requires the use of cookies to interact with the site. If you prefer not to accept our use of cookies we regret that not all site features will function for you. We also do use third-party advertising companies to serve ads when you visit our website. These companies may use information [NOT including your name or email address] about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. Google, as a third party vendor, uses cookies to serve ads on <span class="boldText">BlogTopSites.com</span>.</p>
 <p><a href="/contact.php">For more information please contact our staff.</a></p>
 </div>
-    <div id="sideContainer"><div class="side-box"><!--INFOLINKS_OFF-->
-        <p class="heading-2 title">Blog Directory</p><!--INFOLINKS_ON-->
+    <div id="sideContainer"><div class="side-box">
+        <p class="heading-2 title">Blog Directory</p>
         <div class="col-2">
           <ul class="menu-categories"><li><a href="/academics/">Academics</a></li><li><a href="/arts/">Arts</a></li><li><a href="/automobile/">Automobile</a></li><li><a href="/business/">Business</a></li><li><a href="/celebrities/">Celebrities</a></li><li><a href="/computers/">Computers</a></li><li><a href="/dating/">Dating</a></li><li><a href="/entertainment/">Entertainment</a></li><li><a href="/environment/">Environment</a></li><li><a href="/parents/">Family</a></li><li><a href="/fashion/">Fashion</a></li><li><a href="/finance/">Finance</a></li><li><a href="/food-drink/">Food &amp; Drink</a></li><li><a href="/gambling/">Gambling</a></li><li><a href="/videogames/">Games</a></li><li><a href="/health/">Health</a></li><li><a href="/home-garden/">Home &amp; Garden</a></li><li><a href="/humor/">Humor</a></li><li><a href="/internet/">Internet</a></li><li><a href="/law/">Law</a></li></ul>
 				</div>
@@ -117,17 +202,11 @@
   <div class="clear-both"></div>
 </div>
 <div class="separator-40"></div>
-<center>
-<!-- BEGIN UAT - 728x90 - BlogTopSites: BlogTopSites - DO NOT MODIFY -->
-<script type="text/javascript" src="http://ad-cdn.technoratimedia.com/00/67/86/uat_8667.js?ad_size=728x90"></script>
-<!-- END TAG -->
-<br>
-<!-- BuySellAds.com Zone Code -->
-<div id="bsap_1253222" class="bsarocks bsap_8cf9923e23b126108ec1e85b48855b13"></div>
-<!-- End BuySellAds.com Zone Code -->
+<center> <a href="http://mxa4250.bttb1.hop.clickbank.net" target="_blank"><img src="http://www.bloggingtothebank.com/img/banner1.gif" width="468" height="60"></a> 
 </center>
-
-
+<!-- BuySellAds.com Zone Code -->
+<div id="bsap_1261048" class="bsarocks bsap_8cf9923e23b126108ec1e85b48855b13"></div>
+<!-- End BuySellAds.com Zone Code -->
 
 <div class="separator-40"></div>
 	<div id="footer">
@@ -150,14 +229,14 @@
 			<li><a href="/privacy.php" rel="nofollow">Privacy</a></li>
 		  </ul>
 		</div>
-		<div class="floatRight">BlogTopSItes © 2010</div>
+		<div class="floatRight">BlogTopSItes © 2011</div>
 		<div class="clear-both"></div>
 	  </div>
 	</div>
 	
 	<div id="popin" class="hidden-v">
   <div class="r1"></div>
-  <div class="r2"><div class="close-btn"><a href="#"><img src="/theme_v1/graphics/popin-close-btn.png" alt="Close" width="15" height="15" border="0"></a></div>
+  <div class="r2"><div class="close-btn"><a href="#"><img src="/theme_v2/graphics/popin-close-btn.png" alt="Close" width="15" height="15" border="0"></a></div>
     <div class="padding-10" id="popin_DIV"></div>
   </div>
   <div class="r3"></div>
