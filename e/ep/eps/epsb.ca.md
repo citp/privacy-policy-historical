@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epsb.ca privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125014534id_/http%3A//www.epsb.ca/privacy/index.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epsb.ca privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525214321id_/http%3A//www.epsb.ca/privacy/index.shtml) for the most accurate reproduction.*
 
 # District-wide Privacy Statement
 
@@ -44,8 +44,8 @@ Our website contains many links to other sites. Links that are outside the Edmon
 **More information**  
 For more information about the statement described above, please contact:
 
-| [Jane Farrell](mailto:jane.farrell@epsb.ca) | [Anne Sherwood](mailto:anne.sherwood@epsb.ca)  
+| [Jeremy Fritsche](mailto:jeremy.Fritsche@epsb.ca) | [Anne Sherwood](mailto:anne.sherwood@epsb.ca)  
 ---|---  
-District Web Coordinator | FOIP Head  
+On-line Communications Supervisor | FOIP Head  
 Edmonton Public Schools | Edmonton Public Schools  
 (780) 429-8461 | (780) 429-8020
