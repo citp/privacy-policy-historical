@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uci.edu privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202014535id_/http%3A//www.uci.edu/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uci.edu privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525215229id_/http%3A//www.uci.edu/privacy.php) for the most accurate reproduction.*
 
 # UCI Privacy Statement
 
@@ -11,7 +11,7 @@ University Communications, University of California, Irvine is committed to prot
 
 ## Information Collection and Use
 
-Categories of personally identifiable information collected by Web pages managed or maintained by University Communications, University of California, Irvine or by other entities affiliated with the University of California, Irvine, may include: your Internet location (Internet domain and IP address), type of browser and operating system used to access our site, date and time our site was visited, pages visited on our site, search terms used on our search engines, along with information you use to fill out forms such as: name, e-mail address, address, birthday, student ID number, social security number, credit card number and ucinetid. This personally identifiable information is used to respond to user inquiries. Article IX, Section 9 of the California Constitution grants authority to the University of California to maintain this information.
+Categories of personally identifiable information collected by Web pages managed or maintained by University Communications, University of California, Irvine or by other entities affiliated with the University of California, Irvine, may include: your Internet location (Internet domain and IP address), type of browser and operating system used to access our site, date and time our site was visited, pages visited on our site, search terms used on our search engines, along with information you use to fill out forms such as: name, email address, address, birthday, student ID number, social security number, credit card number and ucinetid. This personally identifiable information is used to respond to user inquiries. Article IX, Section 9 of the California Constitution grants authority to the University of California to maintain this information.
 
 In order to keep you informed of such activities as campus programs, symposia and/or special events, we may use personal information collected from Web pages for the purpose of future communication back to online enrollees. Such e-mail notification will be conducted in conformance with [University of California and campus policies implementing anti-spam laws](http://www.ucop.edu/irc/policy/antispam.pdf) (pdf).
 
