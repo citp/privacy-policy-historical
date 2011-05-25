@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ungerboeck.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221155315id_/http%3A//ungerboeck.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ungerboeck.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525220059id_/http%3A//ungerboeck.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Terms of Use & Privacy policy
 
