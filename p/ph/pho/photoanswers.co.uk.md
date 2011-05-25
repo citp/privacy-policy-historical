@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the photoanswers.co.uk privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526165324id_/http%3A//www.photoanswers.co.uk/GLOBAL/Privacy-Policy/) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photoanswers.co.uk privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525185000id_/http%3A//www.photoanswers.co.uk/GLOBAL/Privacy-Policy/) for the most accurate reproduction.*
 
 # Privacy Policy | Photo Answers
 
