@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myglassart.org privacy policy that was archived on 2009-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090525131129id_/http%3A//www.myglassart.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myglassart.org privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525224352id_/http%3A//www.myglassart.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | myglassart
 
