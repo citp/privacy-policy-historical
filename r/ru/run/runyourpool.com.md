@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the runyourpool.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222143657id_/http%3A//www.runyourpool.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the runyourpool.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525214124id_/http%3A//www.runyourpool.com/privacy.cfm) for the most accurate reproduction.*
 
-# Run your NFL Pool at runyourpool.com
+# Run your March Madness Pool at runyourpool.com
 
   
 
@@ -39,6 +39,4 @@ Personal information will not be sold to any third parties, nor will such inform
 
 Changes to runyourpool.com's privacy policy may occur from time to time without notice to you. However, all privacy policy changes will be reflected in this document.
 
-If you have any questions about this privacy statement or wish to update any of the personal information you have provided to us, contact us at 
-
-[_support@runyourpool.com_](mailto:support@runyourpool.com).
+If you have any questions about this privacy statement or wish to update any of the personal information you have provided to us, please contact us while logged into your pool.
