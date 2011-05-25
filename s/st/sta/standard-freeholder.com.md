@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the standard-freeholder.com privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129224819id_/http%3A//www.standard-freeholder.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the standard-freeholder.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525182316id_/http%3A//standard-freeholder.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
-## Osprey Media Publishing Inc.
+## Sun Media Corporation
 
 ### WEB-SITE PRIVACY POLICY
 
-Welcome to standard-freeholder.com (the "Site"). 
+Welcome to www.standard-freeholder.com (the "Site"). 
 
 > We understand that privacy online is important to users of our Site, especially when conducting business.  
 >  This statement governs our privacy policies with respect to those users of the Site ("Visitors") who visit without  
->  transacting business and Visitors who register to transact business on the Site and make use of the various services offered by standard-freeholder.com (collectively, "Services") ("Authorized Customers").  
+>  transacting business and Visitors who register to transact business on the Site and make use of the various services offered by www.standard-freeholder.com (collectively, "Services") ("Authorized Customers").  
 > 
 
 "Personally Identifiable Information" 
@@ -40,12 +40,12 @@ With whom may the information may be shared?
 
 How is Personally Identifiable Information stored? 
 
-> Personally Identifiable Information collected by standard-freeholder.com is securely stored and is not accessible to third parties or employees of standard-freeholder.com except for use as indicated above.   
+> Personally Identifiable Information collected by www.standard-freeholder.com is securely stored and is not accessible to third parties or employees of www.standard-freeholder.com except for use as indicated above.   
 > 
 
 What choices are available to Visitors regarding collection, use and distribution of the information? 
 
-> Visitors and Authorized Customers may opt out of receiving unsolicited information from or being contacted by us and/or our vendors and affiliated agencies by responding to emails as instructed, or by contacting us at [privacy@ospreymedialp.com](mailto:privacy@ospreymedialp.com)  
+> Visitors and Authorized Customers may opt out of receiving unsolicited information from or being contacted by us and/or our vendors and affiliated agencies by responding to emails as instructed, or by contacting us at [privacy@sunmedia.ca](mailto:privacy@sunmedia.ca)  
 > 
 
 Are Cookies Used on the Site? 
@@ -53,14 +53,14 @@ Are Cookies Used on the Site?
 > Cookies are used for a variety of reasons. We use Cookies to obtain information about the preferences of our Visitors and the services they select. We also use Cookies for security purposes to protect our Authorized Customers. For example, if an Authorized Customer is logged on and the site is unused for more than 10 minutes, we will automatically log the Authorized Customer off.  
 > 
 
-How does standard-freeholder.com use login information? 
+How does www.standard-freeholder.com use login information? 
 
-> standard-freeholder.com uses login information, including, but not limited to, IP addresses, ISPs, and browser types, to analyze trends, administer the Site, track a user's movement and use, and gather broad demographic information.  
+> www.standard-freeholder.com uses login information, including, but not limited to, IP addresses, ISPs, and browser types, to analyze trends, administer the Site, track a user's movement and use, and gather broad demographic information.  
 > 
 
 What partners or service providers have access to Personally Identifiable Information from Visitors and/or Authorized Customers on the Site? 
 
-> standard-freeholder.com has entered into and will continue to enter into partnerships and other affiliations with a number of vendors.  
+> www.standard-freeholder.com has entered into and will continue to enter into partnerships and other affiliations with a number of vendors.  
 >  Such vendors may have access to certain Personally Identifiable Information on a need to know basis for evaluating Authorized Customers for service eligibility.  
 >  Our privacy policy does not cover their collection or use of this information.  
 >  Disclosure of Personally Identifiable Information to comply with law. We will disclose Personally Identifiable Information in order to comply with a court order or subpoena or a request from a law enforcement agency to release information. We will also disclose Personally Identifiable Information when reasonably necessary to protect the safety of our Visitors and Authorized Customers.  
@@ -73,12 +73,12 @@ How does the Site keep Personally Identifiable Information secure?
 
 How can Visitors correct any inaccuracies in Personally Identifiable Information? 
 
-> Visitors and Authorized Customers may contact us to update Personally Identifiable Information about them or to correct any inaccuracies by emailing us at [privacy@ospreymedialp.com](mailto:privacy@ospreymedialp.com)  
+> Visitors and Authorized Customers may contact us to update Personally Identifiable Information about them or to correct any inaccuracies by emailing us at [privacy@sunmedia.ca](mailto:privacy@sunmedia.ca)  
 > 
 
 Can a Visitor delete or deactivate Personally Identifiable Information collected by the Site? 
 
-> We provide Visitors and Authorized Customers with a mechanism to delete/deactivate Personally Identifiable Information from the Site's database by contacting [privacy@ospreymedialp.com](mailto:privacy@ospreymedialp.com). However, because of backups and records of deletions, it may be impossible to delete a Visitor's entry without retaining some residual information. An individual who requests to have Personally Identifiable Information deactivated will have this information functionally deleted, and we will not sell, transfer, or use Personally Identifiable Information relating to that individual in any way moving forward.  
+> We provide Visitors and Authorized Customers with a mechanism to delete/deactivate Personally Identifiable Information from the Site's database by contacting [privacy@sunmedia.ca](mailto:privacy@sunmedia.ca). However, because of backups and records of deletions, it may be impossible to delete a Visitor's entry without retaining some residual information. An individual who requests to have Personally Identifiable Information deactivated will have this information functionally deleted, and we will not sell, transfer, or use Personally Identifiable Information relating to that individual in any way moving forward.  
 > 
 
 What happens if the Privacy Policy Changes? 
@@ -93,19 +93,18 @@ Links:
 
 _Contacting the Privacy Manager_  
 The Privacy Manager  
-Sun Media  
-100 Renfrew Drive, Suite 110  
-Markham,Ontario  
-L3R 9R6  
-905-752-1132 Ext 251  
-[privacy@ospreymedialp.com](mailto:privacy@ospreymedialp.com)
+Sun Media Corporation  
+333 King Street East  
+Toronto, Ontario  
+M5A 3X5  
+E-Mail: [privacy@sunmedia.ca](mailto:privacy@sunmedia.ca)
 
 Any rights not expressly granted herein are reserved.  
-© 2010 standard-freeholder.com, All rights reserved. Unauthorized duplication or publication of any materials from this Site is expressly prohibited. 
+© 2011 www.standard-freeholder.com, All rights reserved. Unauthorized duplication or publication of any materials from this Site is expressly prohibited. Commercial use of The Cornwall Standard Freeholder RSS feeds is strictly forbidden. 
 
 * * *
 
-COPYRIGHT NOTICE.© 1999-2010 [PriorityDigital.com](http://209.204.219.152/) Prepared for: standard-freeholder.com ,All rights reserved. 
+COPYRIGHT NOTICE.© 1999-2011 [PriorityDigital.com](http://209.204.219.152/) Prepared for: www.standard-freeholder.com ,All rights reserved. 
 
   
 
