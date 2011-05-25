@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qwertee.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124044943id_/http%3A//www.qwertee.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qwertee.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525183916id_/http%3A//qwertee.com/privacy) for the most accurate reproduction.*
 
 # Qwertee.
 
