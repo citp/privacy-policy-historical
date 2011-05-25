@@ -1,0 +1,131 @@
+<!--The following is the downloaded HTML source of the wordmark.it privacy policy that was archived on 2011-05-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110525021742id_/http%3A//wordmark.it/privacy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html><head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<title>wordmark.it - privacy policy</title>
+	<meta name="author" content="Fahri Özkaramanlı - www.fahrio.com">
+	<meta name="description" content="An application for previewing a word of your choice with the fonts installed on your computer. Works directly from your browser.">
+	<meta name="keywords" content="wordmark, logomark, logotype, font, fontface, typeface, typography, preview, compare, tool, application, app">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<script src="/javascript/jquery-1.4.4.min.js" type="text/javascript" charset="utf-8"></script>
+	<script type="text/javascript" src="http://include.reinvigorate.net/re_.js"></script>
+	<script type="text/javascript" charset="utf-8">
+		$(document).ready(function(){
+			// Hide all content and fade in after allign
+			$('#wrapper').hide();
+			setTimeout(function(){ align_content(); }, 100);
+			$('#wrapper').fadeIn(750);
+			align_content();
+		});
+		
+		function align_content(){
+			var ww = $(window).width();
+			var nl = ww/2 - 392.5;
+			$('#nav_wr').css('left', nl);
+		}
+		// mobile detection
+		var mobile = false;
+		if(navigator.platform.indexOf("iPad") != -1 || navigator.platform.indexOf("iPhone") != -1 || navigator.platform.indexOf("iPod") != -1){
+			mobile = true;
+		}
+		
+		$(window).resize(function() { 
+			align_content();
+		});
+
+		$(window).scroll(function(){
+			if($(this).scrollTop()>=112 && !mobile){
+				$('#header_bg').css('top', 222-$(this).scrollTop());
+				$('#header_bg').css('height', $(this).scrollTop()-111);
+			}else{
+				$('#header_bg').css('height', '');
+			}
+		});
+			
+		// Google Analytics
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-298166-8']);
+		_gaq.push(['_addIgnoredRef', 'wordmark.it' ]); 
+		_gaq.push(['_setAllowHash', false]); 
+		_gaq.push(['_setAllowLinker', true]); 
+		_gaq.push(['_trackPageview']);
+		
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+		// Reinvigorate
+		try {
+			reinvigorate.track("5i0q9-a6x26xzv48");
+		} catch(err) {}
+		
+		// show / hide grid
+		// assign keyboard event and shortcuts
+		var isCtrl = false;
+		var isShift = false;
+		$(document).keyup(function (e) {
+			if(e.which == 17) isCtrl=false;
+			if(e.which == 16) isShift=false;
+		}).keydown(function (e) {
+			if(e.which == 17) isCtrl=true;
+			if(e.which == 16) isShift=true;
+			if(e.which == 71 && isCtrl == true && isShift == true) {
+				$("#grid").toggle();
+				return false;
+			};
+		});
+		
+	</script>
+	<link rel="stylesheet" href="/css/reset.css" type="text/css">
+	<link rel="stylesheet" href="/css/statics.css" type="text/css">
+</head>
+<body>
+	<div id="wrapper">
+		<div id="grid"></div>
+		<div id="header_bg"></div>
+		<div id="nav_wr">
+			<div id="nav_tr"></div>
+			<div id="nav_bg">
+				<h1>Wordmark.it</h1>
+			</div>
+		</div>
+		<div id="greeting">
+			<strong>
+				<p>Privacy Policy</p>
+			</strong>
+		</div>
+		<div id="information">
+			<h2>Your Privacy</h2>
+			<p>Thanks for using Wordmark.it. We care about your privacy and only collect a minimum of information that we think is necessary for the smooth running of the website.</p>
+			<p>You can browse the site without signing-up but certain activities (saving selections, modifying preview tracking, setting custom font size, ordering selections, zooming into selections, changing preview letter case) do require you to sign-up. The sign-up process involves the submission of a valid email address.</p>
+			<p>We do not spam, and will not share your email address with any third-party without your explicit consent.</p>
+
+			<h2>Full Privacy Policy</h2>
+			<p>This is the Privacy Policy of the Wordmark.it website (the “Site”), operated by Fahri Özkaramanlı (“Wordmark.it”, “we”, “us”, “our” and terms of similar meaning). It describes the information that we collect from you as part of the normal operation of our Site, and how we use and disclose this information.</p>
+			<p>By accessing or using this Site, you agree to the terms of Wordmark.it’s Privacy Policy, as outlined below. If you do not agree to these terms, please do not access or use this Site. Wordmark.it reserves the right to change the Privacy Policy from time to time at our sole discretion. Your use of this Site will be subject to the most current version of the Privacy Policy at the time of such use.</p>
+			
+			<h2>Collection of personal information</h2>
+			<p>In order you engage in certain activities on this Site, such as saving selections, modifying preview tracking, setting custom font size, ordering selections, zooming into selections and changing preview letter case, Wordmark.it may ask you to provide certain information about yourself by filling out and submitting an online form and pay for these services. It is completely optional for you to engage in these activities. If you elect to engage in these activities, however, Wordmark.it will ask that you provide us with personal information, such as: your e-mail address.</p>
+			
+			<h2>How your personal information is used</h2>
+			<p>Wordmark.it collects your information in order to support your activities on the Site and to operate the Site smoothly. For example, to notify you with important information regarding the site.</p>
+			
+			<h2>Protection of your personal information</h2>
+			<p>The personal information that you provide is protected in several ways. Access by you to your personal information is available through a email address and password selected by you.  We recommend that you do not divulge your password to anyone.  In addition, your personal information resides on a secure server that only selected Wordmark.it staff may access via password.</p>
+			<p>We will not sell or divulge your personal information to third parties without your explicit consent.</p>
+			
+			<h2>Use of cookies</h2>
+			<p>“Cookies” are small files placed on your hard drive that assist us in providing our services. We use cookies to allow you to enter your password less frequently during a session, and we use data collection devices (such as Google Analytics), including cookies, on certain pages of the Site to help analyze general site usage and improve our services.</p>
+			<p>While Wordmark.it uses cookies to ensure proper functioning of the Site, and our Webserver automatically logs the Internet IP address of your computer, this information does not identify you personally and you remain completely anonymous unless you have otherwise provided Wordmark.it with personal information.</p>
+			
+			<h2>Updating your personal information</h2>
+			<p>You have the right to access and correct your personal information and privacy preferences at any time. To edit any of your personal information simply sign-in and go to "Account Settings" which can be found in the footer of the site.</p>
+		</div>
+		<div id="footer">
+			<a href="/">Go back to wordmark.it</a>
+			<span class="right"><a href="/tos.html">Terms of Service</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a class="active" href="/privacy.html">Privacy Policy</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/feedback.html">Feedback</a></span>
+		</div>
+	</div>
+</body></html>
