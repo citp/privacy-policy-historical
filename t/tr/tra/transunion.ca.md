@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the transunion.ca privacy policy that was archived on 2007-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071026020853id_/http%3A//www.transunion.ca/ca/privacypolicy_en.page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the transunion.ca privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525152530id_/http%3A//www.transunion.ca/ca/privacypolicy_en.page) for the most accurate reproduction.*
 
 # TransUnion Canada: Privacy Policy
 
@@ -140,7 +140,7 @@ In almost all cases, consumers will not provide such consent directly to us, but
 Our clients have obligations to consumers when accessing personal information from us or providing personal information to us. We seek to educate our clients to ensure they understand their responsibilities regarding personal information. We have processes in place to encourage our clients to comply with applicable law and obtain the necessary consents. Such processes include entering into binding agreements to that effect with our clients and conducting random audits of our clients' internal procedures; however, the responsibility for compliance ultimately rests with them.
 
 **Our Safeguarding Practices  
-**We take the protection of personal information seriously. We have adopted procedures to best secure storage of personal information and are committed to working with our clients to protect the security of personal information during any transfer to or from us. We have also instituted a number of safeguards to identify and prevent the fraudulent use of personal credit information. TransUnion uses firewall technology to protect its data from would-be intruders and has different processes in place to secure information such as passwords, encryption, antivirus software and physical security measures.
+**We take the protection of personal information seriously. We have adopted procedures to secure storage of personal information and are committed to working with our clients to protect the security of personal information during any transfer to or from us. We have also instituted a number of safeguards to identify and prevent the fraudulent use of personal credit information. TransUnion uses firewall technology to protect its data from would-be intruders and has different processes in place to secure information such as passwords, encryption, antivirus software and physical security measures.
 
 Fraud affects us all, which is why we co-operate, to the full extent of our ability, with law enforcement officials to identify and prevent fraud.
 
