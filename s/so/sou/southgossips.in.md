@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the southgossips.in privacy policy that was archived on 2010-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100925202807id_/http%3A//www.southgossips.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the southgossips.in privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525215254id_/http%3A//www.southgossips.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SouthGossips
 
