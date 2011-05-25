@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doyoubuzz.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223195921id_/http%3A//www.doyoubuzz.com/us/content/charter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doyoubuzz.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525142649id_/http%3A//www.doyoubuzz.com/us/content/charter) for the most accurate reproduction.*
 
 # DoYouBuzz: Privacy Policy
 
@@ -68,7 +68,7 @@ You may use the following options for removing your information from our email d
   * Click on the “My Account” link from your Dashboard or Resume page, and un-check the undesired promotions.
   * Send mail to the following postal address letting us know which promotional emails you wish to opt-out of:  
       DoYouBuzz, Inc.  
-     1436 Howard Street  
+     169 11th Street  
      San Francisco, CA 94103
 
 
@@ -83,7 +83,7 @@ If you have any questions about this privacy statement, the practices of this si
 
 DoYouBuzz, Inc.  
 Attn: Site Administrator  
-1436 Howard Street  
+169 11th Street  
 San Francisco, CA 94103 
 
 #### 10\. Acceptance of Privacy Statement
