@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the questservice.net privacy policy that was archived on 2010-12-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101221102252id_/http%3A//www.questservice.net%3Ftmp%3Dquestservice_privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the questservice.net privacy policy that was archived on 2011-05-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110525222047id_/http%3A//questservice.net%3Ftmp%3Dquestservice_privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -7,7 +7,7 @@
 <link href="http://cdn.firstlook.com/custom/images/master-ResetCSS.css" rel="stylesheet" type="text/css">
 <link href="http://cdn.firstlook.com/custom/images/ftpdest/clients/questservice_style.css" rel="stylesheet" type="text/css">
 <script type="text/javascript" src="http://cdn.firstlook.com/custom/images/JS-tools.js"></script>
-<script type="text/javascript" src="http://cdn.firstlook.com/custom/images/jquery.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"></script> 
 <script type="text/javascript" src="http://cdn.firstlook.com/custom/images/thickbox.js"></script>
 <link href="http://cdn.firstlook.com/custom/images/thickbox.css" type="text/css" rel="stylesheet">
 <script type="text/javascript">
@@ -34,6 +34,18 @@ function linkclick(cmstag) {
 	if (currentLink) url += '&type=' + currentLink;
 	if (subid.length > 0) url += "&subid=" + subid;
 	location.href = url;
+}
+
+function staticlink(st, pos) {
+	exit = false;
+	pos = (typeof(pos) != 'undefined') ? pos : '';
+	location.href = u + 'aid=6&fwdId=1200&pos=' + pos + '&ps=DAUSUE&Keywords=' + st + '&';
+	return false;
+}
+
+function googleTrackPage(str) {
+	_gaq.push(['_trackPageview', str]);
+	return;
 }
 //-->
 </script>
@@ -86,6 +98,6 @@ function linkclick(cmstag) {
 
 </div><!--content-->
 </div><!--wrapper-->
-<img src="http://cms.trafficmp.com/tpix.gif?clid=dom208e2b3854ae48043c88a4140f2a8&amp;sid=d1b9051b-fd8d-4492-8039-37e73c6e2772" width="1" height="1">
+<img src="http://cms.trafficmp.com/tpix.gif?clid=dom25ad4ad26445aa53176075b77203b&amp;sid=9f205616-24ad-40f1-9121-554db8165d98" width="1" height="1">
 
 </body></html>
