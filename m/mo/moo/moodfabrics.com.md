@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the moodfabrics.com privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624031256id_/http%3A//www.moodfabrics.com/index.php%3Ffile%3Dallfile%26id%3D4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moodfabrics.com privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526010944id_/http%3A//www.moodfabrics.com/index.php%3Ffile%3Dallfile%26id%3D4) for the most accurate reproduction.*
 
-# Mood Fabrics : New York Fashion Designer Discount Fabric | Mood Fabrics Privacy And Security Page
+# Mood Fabrics : New York Fashion Designer Discount Fabric | Privacy And Security Page
 
-|  | [](http://www.moodfabrics.com/ "MoodFabrics") |   
+|  | [](http://www.moodfabrics.com/index.php "MoodFabrics") |   
 ---|---  
   
 |   
