@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medcalc.org privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123151433id_/http%3A//www.medcalc.org/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medcalc.org privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525084352id_/http%3A//www.medcalc.org/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,7 +12,7 @@ At MedCalc Software we recognize that privacy is important. This document outlin
 
 
 
-MedCalc Software neves shares this information with third parties.
+MedCalc Software never shares this information with third parties.
 
 ## Cookies
 
