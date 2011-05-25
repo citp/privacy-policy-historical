@@ -1,8 +1,11 @@
-> *The following text is extracted and transformed from the conns.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124184105id_/http%3A//www.conns.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conns.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525222538id_/http%3A//www.conns.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ### Privacy Policy
+
+[Credit Privacy Policy - English](http://media.conns.com/conns/policies/privacy_policy_english.pdf) (Printable)   
+[Credit Privacy Policy - Spanish](http://media.conns.com/conns/policies/privacy_policy_spanish.pdf) (Printable)
 
 **Our Commitment To Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
