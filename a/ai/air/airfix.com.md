@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airfix.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228064728id_/http%3A//www.airfix.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airfix.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525182202id_/http%3A//www.airfix.com/privacy-policy) for the most accurate reproduction.*
 
 # Scale Plastic Model Kits by Airfix
 
