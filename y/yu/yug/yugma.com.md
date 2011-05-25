@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the yugma.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217070446id_/http%3A//www.yugma.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yugma.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525125425id_/https%3A//www.yugma.com/privacy.php) for the most accurate reproduction.*
 
 # Yugma: Free Web Collaboration Forever — anytime, anywhere.
 
-By registering your details with us you confirm that you have read, understood and agree to the provisions of this Privacy Policy and to our Terms of Service. This privacy statement discloses the privacy practices for Yugma (http://www.Yugma.com), owned by Yugma, Inc. Because maintaining the trust of our users is a priority to us, Yugma is committed to respecting your privacy. Because Yugma wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by any interested parties. Yugma welcomes your feedback about this privacy policy. Send your questions or concerns regarding this privacy statement to [info@Yugma.com](mailto:info@yugma.com).
+By registering your details with us you confirm that you have read, understood and agree to the provisions of this Privacy Policy and to our Terms of Service. This privacy statement discloses the privacy practices for Yugma (http://www.Yugma.com), owned by YSL Holdings LLC. Because maintaining the trust of our users is a priority to us, Yugma is committed to respecting your privacy. Because Yugma wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by any interested parties. Yugma welcomes your feedback about this privacy policy. Send your questions or concerns regarding this privacy statement to [info@Yugma.com](mailto:info@yugma.com).
 
 ### Contents
 
@@ -59,4 +59,4 @@ Yugma uses industry-standard efforts to safeguard the confidentiality of persona
 ### 7\. Who can I ask if I have additional questions?
 
 For additional inquiries about the privacy of your information, you can contact Yugma via email at  
-[info@yugma.com](mailto:info@yugma.com), by calling +1-952-400-0357 or by writing to us via regular mail at: Yugma, 5700 Smetana Drive, Suite 100, Minneapolis, MN 55343. To reach our Customer support department, you may contact us at [support@yugma.com](mailto:support@yugma.com).
+[info@yugma.com](mailto:info@yugma.com), by calling +1-612-353-9739 or by writing to us via regular mail at: Yugma, PO Box 46573, Eden Prairie, MN 55344. To reach our Customer support department, you may contact us at [support@yugma.com](mailto:support@yugma.com).
