@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the memory4less.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614191415id_/http%3A//www.memory4less.com/faq.aspx%3Fcat%3D6%26cat2%3D30%23a) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the memory4less.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525221826id_/http%3A//www.memory4less.com/faq.aspx%3Fcat%3D6%26cat2%3D30%23a) for the most accurate reproduction.*
 
 # Memory4Less - Frequently Asked Questions!
 
