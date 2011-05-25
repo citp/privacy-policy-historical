@@ -1,26 +1,13 @@
-> *The following text is extracted and transformed from the dvo.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620003042id_/http%3A//www.dvo.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dvo.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525184055id_/http%3A//www.dvo.com/privacy.php) for the most accurate reproduction.*
 
-# DVO Enterprises Privacy Policy
-
-  
-**TOP SELLERS**   
-
-
-_Dan, Wow. This is a note to thank you for the nice welcome email. And to tell you I've been in the computer business for 20 years as programmer and network administrator. This is the first time I've seen such a sincere sounding CEO of a computer related business. The content was warm and very sincere. And I'd like to compliment you on the quality of your product. I only have Taste of Home right now, but I love the way you've put the software together. It's laid out very intuitively. Well, just wanted to thank you for the welcome and your products and your sincerity. Much good fortune with your venture. I support you._
-
-Regards,  
-Steve Van Wie 
-
-NEWSLETTER
-
-[• Current Issue](https://web.archive.org/web/20100620003042id_/http%3A//www.dvo.com/homecookn)  
-[• Newsletter Archive](https://web.archive.org/web/20100620003042id_/http%3A//www.dvo.com/newsletterarchive.html)   
-[• Contact Info](https://web.archive.org/web/20100620003042id_/http%3A//www.dvo.com/contact.html)
+# Privacy
 
   
 
 
-|    
+## DVO ENTERPRISES PRIVACY POLICY
+
+  
 DVO Enterprises is committed to protecting the privacy and security of its online visitors. This policy statement provides our visitors with an overview of the measures we have taken to provide a safe environment for everyone.
 
 **PERSONALLY IDENTIFIABLE INFORMATION**
