@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toyota.ca privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231230933id_/http%3A//www.toyota.ca/cgi-bin/WebObjects/WWW.woa/wa/vp%3Fvp%3DHome.Legal.Privacy%26language%3Denglish) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toyota.ca privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525204826id_/http%3A//www.toyota.ca/cgi-bin/WebObjects/WWW.woa/wa/vp%3Fvp%3DHome.Legal.Privacy%26language%3Denglish) for the most accurate reproduction.*
 
 # TOYOTA CANADA : Privacy Policy
 
@@ -74,7 +74,7 @@ This Privacy Policy applies solely to information collected by this Site. This S
 
 ### Security
 
-This Site is a member of the VeriSign Secure Site Program which involves applying security sockets layer software encryption technology to all information that you submit to us through this Site. Except as required for compliance with the VeriSign Secure Site Program, we do not make any representations, warranties or conditions of any kind, express or implied, as to the security of any information (including, without limitation, credit card and other personally identifiable information) you may provide to us in the course of using this Site. You are solely responsible for maintaining the confidentiality of your password(s).
+This Site is secured using Entrust SSL certificates which applies security sockets layer software encryption technology to all information that you submit to us through this Site. Except as required for compliance with the Entrust Certificate Management Service, we do not make any representations, warranties or conditions of any kind, express or implied, as to the security of any information (including, without limitation, credit card and other personally identifiable information) you may provide to us in the course of using this Site. You are solely responsible for maintaining the confidentiality of your password(s).
 
 ### Retention of Personally Identifiable Information
 
