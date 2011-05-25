@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the couponheaven.com privacy policy that was archived on 2010-01-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100109122608id_/http%3A//www.couponheaven.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponheaven.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525135529id_/http%3A//www.couponheaven.com/privacy.cfm) for the most accurate reproduction.*
 
-# Coupon Heaven Privacy Policy
+# Coupon Heaven: Home Page
 
 General
 
