@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instrumentpro.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216031403id_/http%3A//www.instrumentpro.com/c-Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instrumentpro.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525040655id_/http%3A//www.instrumentpro.com/c-Privacy) for the most accurate reproduction.*
 
 # Privacy - Instrument Pro
 
@@ -31,7 +31,7 @@
 [World/Latin Percussion](https://web.archive.org/latin-drums/index.html)  
 [Drum Machines](https://web.archive.org/c-drum-machines)  
 [Hardware](https://web.archive.org/c-drum-hardware)  
-[Snare Drums](https://web.archive.org/web/20081216031403id_/http%3A//www.instrumentpro.com/c-drum-snare)  
+[Snare Drums](https://web.archive.org/web/20110525040655id_/http%3A//www.instrumentpro.com/c-drum-snare)  
 [Cymbals](https://web.archive.org/cymbals/index.html)  
 [Accessories](https://web.archive.org/drum-accessories/index.html)  
 [Keyboards:](https://web.archive.org/digital-piano.html)  
@@ -46,9 +46,9 @@
 [Keyboard Accessories](https://web.archive.org/Keyboard-Accessories/index.html)  
 [Recording:](https://web.archive.org/recording-equipment.html)  
 [Multitrack Recorder](https://web.archive.org/multitrack-recorder/index.html)  
-[Computer Hardware](https://web.archive.org/web/20081216031403id_/http%3A//www.instrumentpro.com/c-recording-computer-hardware)  
+[Computer Hardware](https://web.archive.org/web/20110525040655id_/http%3A//www.instrumentpro.com/c-recording-computer-hardware)  
 [Recording Microphones](https://web.archive.org/c-recording-microphones)  
-[Recording Computer Software](https://web.archive.org/web/20081216031403id_/http%3A//www.instrumentpro.com/c-recording-computer-software)  
+[Recording Computer Software](https://web.archive.org/web/20110525040655id_/http%3A//www.instrumentpro.com/c-recording-computer-software)  
 [Recording Mixers](https://web.archive.org/recording-mixers/index.html)  
 [Studio Monitors](https://web.archive.org/studio-monitors/index.html)  
 [Recording Headphones](https://web.archive.org/headphones/index.html)  
