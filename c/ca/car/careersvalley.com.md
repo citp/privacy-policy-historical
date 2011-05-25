@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careersvalley.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228004249id_/http%3A//www.careersvalley.com/privacy-policy-0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careersvalley.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525060430id_/http%3A//www.careersvalley.com/privacy-policy-0) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -45,5 +45,17 @@ Below Paragraph Is Not Applicable Now:
 
 With email extended permission we subscribe your mail address to the applications jobs and placement papers newsletter. Again we respect your email privacy and you can unsubscribe at any time via the link that would be present at the bottom of each newsletter.
 
-I would like to remind you of the " **CareersValley Superhelper Drive** " that is ongoing with overwhelming response. By becoming a Superhelpler you get a chance to download two useful **FREE E-Books with Synonyms, Antonyms and Quans Formulas** to help your preparation.   
+**Have You Downloaded CV careersvalley 3 Usefull Books?**
+
+ **[Recommend CV Solved Placement Papers E-Book And Download 3 Useful E-Books](http://www.careersvalley.com/node/add/referwin)**
+
+Its always a joy when it comes to helping friends. That too, helping them with relevant resources during their important stage of life is going to bring you real sense of satisfaction. Moreover, you get rewarded with three useful Free E-Books for helping. They are
+
+**1\. CareersValley Featured Articles Collection.**
+
+**2\. List Of Synonyms And Antonyms.**
+
+**3\. Quantitative Aptitude Formulas Handbook.**
+
+**[Visit To Help Your Friends This Summer](http://www.careersvalley.com/node/add/referwin)**  
 
