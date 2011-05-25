@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rushlane.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125021309id_/http%3A//www.rushlane.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rushlane.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525214523id_/http%3A//www.rushlane.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Rush Lane
+# Privacy | indian auto cars bikes news and reviews
 
 Internet user privacy is of paramount importance to RushLane and its related sites. The success of our business depend upon our ability to maintain the trust of our users. Below is information regarding RushLane's commitment to protect the privacy of users and to ensure the integrity of the Internet.
 
