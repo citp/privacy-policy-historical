@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zophar.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611211013id_/http%3A//www.zophar.net/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zophar.net privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525095257id_/http%3A//www.zophar.net/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Zophar's Domain
 
