@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thisnext.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125013809id_/http%3A//www.thisnext.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thisnext.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525231558id_/http%3A//www.thisnext.com/company/privacy) for the most accurate reproduction.*
 
-# ThisNext Privacy Policy
+# Privacy Policy - ThisNext
 
 ThisNext knows that you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our privacy policy. By visiting the ThisNext Web site, you are accepting the practices outlined in this Privacy Policy. 
 
