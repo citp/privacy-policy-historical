@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tnaflix.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227091212id_/http%3A//www.tnaflix.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tnaflix.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525033506id_/http%3A//www.tnaflix.com/privacy.php) for the most accurate reproduction.*
 
-# Free Porn | Sex | Porno > Tnaflix - Privacy Policy
+# Tnaflix - Privacy Policy
 
 ## TnaFlix Privacy Policy
 
