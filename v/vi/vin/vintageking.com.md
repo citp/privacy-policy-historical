@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vintageking.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127042617id_/http%3A//vintageking.com/site/files/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vintageking.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525214532id_/http%3A//www.vintageking.com/Privacy-and-Security) for the most accurate reproduction.*
 
-# Privacy Policy | VintageKing.com
+# Privacy and Security | VintageKing.com
 
 Privacy Policy
 
