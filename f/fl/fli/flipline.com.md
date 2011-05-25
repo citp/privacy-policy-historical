@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flipline.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122231737id_/http%3A//www.flipline.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flipline.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525045908id_/http%3A//www.flipline.com/privacy.html) for the most accurate reproduction.*
 
 # Flipline Studios : Privacy Policy
 
