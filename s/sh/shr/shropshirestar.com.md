@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shropshirestar.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231233232id_/http%3A//www.shropshirestar.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shropshirestar.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525231710id_/http%3A//www.shropshirestar.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy « Shropshire Star
 
@@ -10,7 +10,7 @@
   * This Privacy Policy covers the website accessible from www.shropshirestar.com.
   * Our site may, from time to time, contain links to and from websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies and websites. Please check these policies before you submit any personal data to these websites.
   * Shropshire Newspapers Limited is the data controller for the purposes of the Data Protection Act 1998. We are a limited company incorporated in England and Wales with registered number 00783181 and our registered office is 51-53 Queen Street, Wolverhampton, WV1 1ES. Our VAT number is 661536533.
-  * We are notified with the Information Commissioner’s Office and our registration number is Z7551444 which is valid until 6 January 2010.
+  * We are notified with the Information Commissioner’s Office and our registration number is Z7551444 which is valid until 6 January 2012.
 
 
 
