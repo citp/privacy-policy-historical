@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fanartreview.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124055835id_/http%3A//www.fanartreview.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fanartreview.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525073231id_/http%3A//fanartreview.com/privacy.jsp) for the most accurate reproduction.*
 
 # FanArtReview.com - Post your art, photos, or digital art on this art and photograph sharing site.
 
@@ -12,7 +12,7 @@ At this site, you can submit information about other people. For example, you mi
 
 At certain parts of some of our sites, only persons who provide us with the requested personally identifiable information will be able to order products, programs, and services or otherwise participate in the site's activities and offerings. 
 
-We also may collect certain non-personally identifiable information when you visit many of our web pages such as the type of browser you are using (e.g., Netscape, Internet Explorer), the type of operating system you are using, (e.g., Windows '95 or Mac OS) and the domain name of your Internet service provider (e.g., America Online, Earthlink). 
+We also may collect certain non-personally identifiable information when you visit many of our web pages such as the type of browser you are using (e.g., Netscape, Internet Explorer), the type of operating system you are using, (e.g., Windows or Mac OS) and the domain name of your Internet service provider (e.g., America Online, Earthlink). 
 
 ###  How We Use the Information
 
@@ -24,7 +24,7 @@ From time to time, we also may use this information to offer our products, progr
 
 The information we collect in connection with our online forums and communities is used to provide an interactive experience. We use this information to facilitate participation in these online forums and communities and, from time to time, to offer you products, programs, or services. 
 
-If you choose to submit content for publication (e.g., a "art posting online"), we may publish your screen name and other information you have provided to us. 
+If you choose to submit content (e.g., a "photo posted online"), we may share your screen name and other information you have provided to us. 
 
 We sometimes use the non-personally identifiable information that we collect to improve the design and content of our site and to enable us to personalize your Internet experience. We also may use this information in the aggregate to analyze site usage, as well as to offer you products, programs, or services. 
 
@@ -58,4 +58,4 @@ To protect your privacy and security, we will take reasonable steps to help veri
 
 ###  How to Contact Us 
 
-If you have any questions or concerns about the online policy for this site or its implementation you may contact us at [info@fanartreview.com](https://web.archive.org/web/20101124055835id_/http%3A//www.fanartreview.com/formcontactfanstory.jsp). 
+If you have any questions or concerns about the online policy for this site or its implementation you may contact us at [here](https://web.archive.org/web/20110525073231id_/http%3A//fanartreview.com/formcontactfanstory.jsp). 
