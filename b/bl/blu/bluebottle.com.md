@@ -1,19 +1,18 @@
-> *The following text is extracted and transformed from the bluebottle.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224163951id_/http%3A//www.bluebottle.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluebottle.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525043726id_/http%3A//www.bluebottle.com/privacy.php) for the most accurate reproduction.*
 
 # Bluebottle Email: Privacy
 
 [](http://www.addthis.com/bookmark.php "Bookmark using any bookmark manager!")
 
-"Your mail service is fine and so nice." - **Satish K,** _June 2006_
+"I am going to promote your e-mail service as often as possible!" - **_Oliver M_**
 
-"Thank YOU for providing a great service! I've got my whole family hooked!" - **Kerryn M,** _June 2006_
+"Your service is impeccable." - **Perry E,** _June 2006_
 
-  
-"I have been very happy with your service and would recommend it to any of my friends." - **Alex,** _June 2006_
+"I would like to congratulate you on the changes to Bluebottle, especially because it will now display much better on a PDA screen." - **Rod L,** _May 2006_
 
-"I want to tell you that I'm very happy with your service, I never have had a quality like this, you know, you really respect your users." - **Arafat A,** _June 2006_
+"Just wanted to complement you on the POP service that you provide. It is absolutely fantastic." - **Arnav K,** _June 2006_
 
-"A great service! The best free e-mail provider around!"- **_Connagh_**
+"In the BlueBottle fan list, I am on the top."- **_Ratn R_**
 
 ##  Bluebottle - the Only Anti-Spam solution you will ever need
 
