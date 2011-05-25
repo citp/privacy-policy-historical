@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the couponsnapshot.com.au privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123041750id_/http%3A//www.couponsnapshot.com.au/private-policy-from-couponsnapshot.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponsnapshot.com.au privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525075709id_/http%3A//www.couponsnapshot.com.au/private-policy-from-couponsnapshot.html) for the most accurate reproduction.*
 
-# Privacy Policy of using CouponSnapshot Australia
+# {$php_title|default:$page_title|default:$default_title|escape}
 
 **Privacy Policy:**  
 Personal Data  
