@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelintelligence.com privacy policy that was archived on 2010-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100915112338id_/http%3A//www.travelintelligence.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelintelligence.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525043230id_/http%3A//www.travelintelligence.com/privacy-policy) for the most accurate reproduction.*
 
 # The Travel Intelligence Privacy Policy
 
@@ -12,7 +12,7 @@ We may, however, use any details you provide us with in the following ways:
 
 2\. To get this basic information, we use ‘cookies’. Again, this is standard practice: cookies are small data files that we send to your computer to tell us what you like and don't like, help us provide you with a better user experience and allow us to tailor our services to the individual needs of anyone who uses the site. This does _not_ mean that we record or store any of your passwords or other sensitive information.
 
-3\. Lastly, we collect email details in order to send out the [Travel Intelligence newsletter](https://web.archive.org/web/20100915112338id_/http%3A//www.travelintelligence.com/newsletter "Travel Intelligence Newsletter") and any important announcements about TI; we will not, however, ever share them with anyone else. Where we ask for email addresses in the ‘email a friend’ feature, this is purely a convenience measure – these addresses are neither stored nor shared.
+3\. Lastly, we collect email details in order to send out the [Travel Intelligence newsletter](https://web.archive.org/web/20110525043230id_/http%3A//www.travelintelligence.com/newsletter "Travel Intelligence Newsletter") and any important announcements about TI; we will not, however, ever share them with anyone else. Where we ask for email addresses in the ‘email a friend’ feature, this is purely a convenience measure – these addresses are neither stored nor shared.
 
 **
 
@@ -22,10 +22,10 @@ Any Questions?
 
 **
 
-**If you’d like to know more about the legal ins and outs of using Travel Intelligence, please take a look at our[Terms and Conditions page](https://web.archive.org/web/20100915112338id_/http%3A//www.travelintelligence.com/terms-and-conditions "Travel Intelligence Terms and Conditions").**
+**If you’d like to know more about the legal ins and outs of using Travel Intelligence, please take a look at our[Terms and Conditions page](https://web.archive.org/web/20110525043230id_/http%3A//www.travelintelligence.com/terms-and-conditions "Travel Intelligence Terms and Conditions").**
 
  **
 
-On top of that, we’ve tried to deal with as many of the questions that crop up from time to time on our [Frequently Asked Questions page](https://web.archive.org/web/20100915112338id_/http%3A//www.travelintelligence.com/faqs "Frequently Asked Questions"). But if there’s anything else you’d like to know, please feel free to [contact us](https://web.archive.org/web/20100915112338id_/http%3A//www.travelintelligence.com/contact "Contact Travel Intelligence") at any time.
+On top of that, we’ve tried to deal with as many of the questions that crop up from time to time on our [Frequently Asked Questions page](https://web.archive.org/web/20110525043230id_/http%3A//www.travelintelligence.com/faqs "Frequently Asked Questions"). But if there’s anything else you’d like to know, please feel free to [contact us](https://web.archive.org/web/20110525043230id_/http%3A//www.travelintelligence.com/contact "Contact Travel Intelligence") at any time.
 
 **
