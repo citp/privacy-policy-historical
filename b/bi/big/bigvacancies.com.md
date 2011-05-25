@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the bigvacancies.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124054737id_/http%3A//bigvacancies.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigvacancies.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525062437id_/http%3A//bigvacancies.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Jobs, Results, Admissions, Interview Questions, Tutorials & Industry updates
 
   |    
 | [](http://www.bigvacancies.com/) |  |   
 ---|---|---  
-  | [Register](https://web.archive.org/web/20101124054737id_/http%3A//bigvacancies.com/register.php) | [Members List](https://web.archive.org/web/20101124054737id_/http%3A//bigvacancies.com/members/list/) | [Calendar](https://web.archive.org/web/20101124054737id_/http%3A//bigvacancies.com/calendar.php) | [Search](https://web.archive.org/web/20101124054737id_/http%3A//bigvacancies.com/search.php) | [Today's Posts](https://web.archive.org/web/20101124054737id_/http%3A//bigvacancies.com/search.php?do=getdaily) | [Mark Forums Read](https://web.archive.org/web/20101124054737id_/http%3A//bigvacancies.com/forumdisplay.php?do=markread) |    
+  | [Register](https://web.archive.org/web/20110525062437id_/http%3A//bigvacancies.com/register.php) | [Members List](https://web.archive.org/web/20110525062437id_/http%3A//bigvacancies.com/members/list/) | [Calendar](https://web.archive.org/web/20110525062437id_/http%3A//bigvacancies.com/calendar.php) | [Search](https://web.archive.org/web/20110525062437id_/http%3A//bigvacancies.com/search.php) | [Today's Posts](https://web.archive.org/web/20110525062437id_/http%3A//bigvacancies.com/search.php?do=getdaily) | [Mark Forums Read](https://web.archive.org/web/20110525062437id_/http%3A//bigvacancies.com/forumdisplay.php?do=markread) |    
 ---|---|---|---|---|---|---|---  
    
   | 
 
 |   |  
 
-[](http://ext.tyroo.com/click2,AAAAAH37CQCvTEwAAAAAAA.lFAAAAAAAAAAAAAcAAAAAAAAAAAAAAFs6HAAAAAAAVDocAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAkVkaFykBAAAAAAAAADAAABjO45sqAAAAPNLjmyoAAADf0uObKgAAAODo.do5AAAAEAAAAAAAAAA=,,,)  
+[](http://www.s2d6.com/x/?x=c&z=s&v=2033984&k=)  
   
 ---|---  
   
@@ -98,7 +98,7 @@ We reserve the right to modify this privacy statement at any time, so please rev
 
 [](http://optout.doubleclick.net/cgi-bin/dclk/optout.pl)
 
-All times are GMT +5.5. The time now is 11:17 AM.
+All times are GMT +5.5. The time now is 11:54 AM.
 
   
 |    
