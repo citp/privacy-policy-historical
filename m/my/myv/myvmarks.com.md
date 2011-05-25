@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myvmarks.com privacy policy that was archived on 2010-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100328010740id_/http%3A//www.myvmarks.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myvmarks.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525125202id_/http%3A//www.myvmarks.com/privacy) for the most accurate reproduction.*
 
 # myVmarks privacy statement, online favorites, online bookmarks, internet bookmarks
 
