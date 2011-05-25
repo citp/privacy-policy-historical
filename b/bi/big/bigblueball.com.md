@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the bigblueball.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623000727id_/http%3A//www.bigblueball.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigblueball.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525052813id_/http%3A//www.bigblueball.com/privacy) for the most accurate reproduction.*
 
 # BigBlueBall.com Privacy Policy | BigBlueBall
-
-Browse >
-
-[Home](http://www.bigblueball.com/ "Browse to: Home") / Privacy Policy 
 
 Privacy Policy Statement
 
