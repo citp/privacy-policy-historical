@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babycenter.in privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222035315id_/http%3A//www.babycenter.in/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babycenter.in privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525182134id_/http%3A//www.babycenter.in/about/privacy) for the most accurate reproduction.*
 
 # Privacy & Security
 
