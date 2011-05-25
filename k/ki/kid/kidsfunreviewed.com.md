@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kidsfunreviewed.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124194021id_/http%3A//kidsfunreviewed.com/disclosure-policy/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidsfunreviewed.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525043647id_/http%3A//kidsfunreviewed.com/disclosure-policy/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | The Kid's Birthday Fun Review
+# Privacy Policy | The Kid's Fun Review
 
 Privacy Policy for The Kid’s Fun Review
 
