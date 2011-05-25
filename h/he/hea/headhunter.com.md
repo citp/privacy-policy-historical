@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the headhunter.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221063207id_/http%3A//www.careerbuilder.com/JobSeeker/Info/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the headhunter.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525104444id_/http%3A//www.careerbuilder.com/JobSeeker/Info/Privacy.aspx) for the most accurate reproduction.*
 
 # Search jobs online with confidence with CareerBuilder.com, who is committed to your privacy
 
