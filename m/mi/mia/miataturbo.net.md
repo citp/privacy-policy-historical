@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the miataturbo.net privacy policy that was archived on 2009-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090501211356id_/http%3A//www.forumediainc.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the miataturbo.net privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525080812id_/http%3A//www.forumediainc.com/privacy.html) for the most accurate reproduction.*
 
 # ForuMediaInc - Delivering Enthusiasts through our Forums.
+
+**Privacy Statement  
+**
 
 **ForuMedia Inc. - Privacy Statement**
 
@@ -53,5 +56,7 @@ Security
 Changes to this Privacy Statement
 
 ForuMedia may at any time, without notice to you and in its sole discretion, amend this statement from time to time. Please review this statement periodically. Your continued use of ForuMedia websites after any such amendments signifies your acceptance thereof. 
+
+Questions or Suggestions
 
 If you have questions or suggestions about this privacy statement, or your own personal information, please [contact us](http://www.forumediainc.com/contact.html). 
