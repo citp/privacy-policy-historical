@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the article-friend.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223225811id_/http%3A//www.article-friend.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the article-friend.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525030135id_/http%3A//www.article-friend.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
