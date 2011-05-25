@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thenigerianvoice.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125012650id_/http%3A//www.thenigerianvoice.com/NigeriaHome/mg_services/privacy.asp%3Fmenu_id%3D11%26sub_menu_id%3D281) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thenigerianvoice.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525040836id_/http%3A//thenigerianvoice.com/NigeriaHome/mg_services/privacy.asp%3Fmenu_id%3D11%26sub_menu_id%3D281) for the most accurate reproduction.*
 
 # The Nigerian Voice Privacy
 
