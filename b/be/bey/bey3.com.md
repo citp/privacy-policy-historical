@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bey3.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121141705id_/http%3A//bey3.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bey3.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525181926id_/http%3A//bey3.com/privacy-policy) for the most accurate reproduction.*
 
 # Bey3.com إعلانات مبوبة مجانية في الشرق الأوسط. وظائف، عقارات، وسيارات ، وشراء وبيع على
 
