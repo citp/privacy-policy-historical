@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the itgetsbetter.org privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123023129id_/http%3A//www.itgetsbetter.org/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itgetsbetter.org privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525233749id_/http%3A//www.itgetsbetter.org/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | It Gets Better Project
 
-Last Updated: November 1, 2010
+Last Updated: May 10, 2011
 
 **1\. Introduction**
 
@@ -38,7 +38,7 @@ Sharing of Personal Information with Third Parties
 
 ItGetsBetter may share your Personal Information with non-affiliated third parties that are trusted, like-minded organizations. ItGetsBetter may also exchange its support contact list for other non-profit organizations’ lists for targeted uses. These practices are intended to allow ItGetsBetter and trusted, like-minded organizations to communicate with a broader audience about community events, policy concerns, fundraising endeavors, and other information that is likely to be of shared interest.
 
-You may opt out from having ItGetsBetter share your Personal Information to non-affiliated third parties by sending ItGetsBetter an email with “Opt Out of Third Party Sharing” in the subject line to brian[at]artistsgiveback[dot]org.
+You may opt out from having ItGetsBetter share your Personal Information to non-affiliated third parties by sending ItGetsBetter an email with “Opt Out of Third Party Sharing” in the subject line to [info@itgetsbetter.org](mailto:info@itgetsbetter.org).
 
 Third Party Agents
 
@@ -68,7 +68,7 @@ In the event that ItGetsBetter, any affiliate of ItGetsBetter, or substantially 
 
 ItGetsBetter implements and maintains reasonable security procedures and practices appropriate to the nature of the information, to protect the personal information from unauthorized access, destruction, use, modification, or disclosure. You understand and agree, however, that no transmission of data over the internet is guaranteed to be completely secure. It may be possible for third parties not under the control of ItGetsBetter to intercept or access transmissions or private communications unlawfully, including in the case of your contacting ItGetsBetter by email or a “contact us” or similar feature on this website. Accordingly, though ItGetsBetter may take reasonable steps to protect the security and integrity of all Personal Information provided to the Services, due to the nature of the internet, ItGetsBetter cannot guarantee that information, during transmission through the internet or while stored on its system or otherwise in its care, will be absolutely safe from intrusion by others, such as hackers. Any such transmission is done at your own risk. Storage and security of video User Content and any metadata associated therewith, is pursuant to YouTube’s privacy policy.
 
-If you receive an email or other correspondence requesting that you provide any sensitive information that seems suspicious to you, please do not provide such information, and report such request to us at brian[at]artistsgiveback[dot]org.
+If you receive an email or other correspondence requesting that you provide any sensitive information that seems suspicious to you, please do not provide such information, and report such request to us at [info@itgetsbetter.org](mailto:info@itgetsbetter.org).
 
 **9\. Users**
 
@@ -80,8 +80,8 @@ This Privacy Policy will be interpreted under the laws of the United States of A
 
 **11\. Your California Privacy Rights.**
 
-As of January 1, 2005, California Civil Code Section 1798.83 permits end users who are California residents to request certain information regarding disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an email to brian@artistsgiveback.org and include the phrase “1798.83 Privacy Request” in the email subject line.
+As of January 1, 2005, California Civil Code Section 1798.83 permits end users who are California residents to request certain information regarding disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an email to [info@itgetsbetter.org](mailto:info@itgetsbetter.org) and include the phrase “1798.83 Privacy Request” in the email subject line.
 
 **12\. Contact Us**
 
-If you have any questions or comments regarding ItGetsBetter’s privacy practices, you may contact us at brian[at]artistsgiveback[dot]org.
+If you have any questions or comments regarding ItGetsBetter’s privacy practices, you may contact us at [info@itgetsbetter.org](mailto:info@itgetsbetter.org).
