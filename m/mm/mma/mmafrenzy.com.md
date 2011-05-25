@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the mmafrenzy.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124024738id_/http%3A//www.mmafrenzy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mmafrenzy.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525044553id_/http%3A//www.mmafrenzy.com/privacy-policy) for the most accurate reproduction.*
 
-# MMAFrenzy.com Privacy Policy | MMAFrenzy.com
+# MMAFrenzy.com Privacy Policy - MMAFrenzy.com
 
-**MMAFrenzy.com Privacy Policy** [Last updated June 11, 2008]
+**MMAFrenzy.com Privacy Policy** [Last updated May 20, 2011]
 
-This privacy statement (the “Privacy Policy”) applies to all personally identifiable information (collectively, “Personal Data”) and other information that is collected by MMAFrenzy.com (“MMAFrenzy.com”) through its website, including www.mmafrenzy.com, (the “Site”).
+This privacy statement (the “Privacy Policy”) applies to all personally identifiable information (collectively, “Personal Data”) and other information that is collected by MMAFrenzy.com (“MMAFrenzy.com”) through its website, including mmafrenzy.com, (the “Site”).
 
 Please review this Privacy Policy carefully before using the Site.
 
-MMAFrenzy.com takes online privacy very seriously. If you have any questions concerning this privacy policy, please email us at [privacy@mmafrenzy.com](mailto:privacy@mmafrenzy.com).
+MMAFrenzy.com takes online privacy very seriously. If you have any questions concerning this privacy policy, please email us at [contact@mmafrenzy.com](mailto:privacy@mmafrenzy.com).
 
 **MMAFrenzy.com Registered Users – Collection of Personal Data**
 
@@ -28,7 +28,7 @@ MMAFrenzy.com takes online privacy very seriously. If you have any questions con
 
 **Visitors From Outside of the US**
 
-> The Site and the servers upon which the Site are hosted are located in the United States. All matters and material related to the site is governed by the laws of the State of California in the United States. Any Personal Data that users outside of the U.S. provide via the Site will be transferred to the United States, and by visiting the Site and submitting Personal Data, you authorize this transfer.
+> The Site and the servers upon which the Site are hosted are located in the United States. All matters and material related to the site is governed by the laws of the State of North Carolina in the United States. Any Personal Data that users outside of the U.S. provide via the Site will be transferred to the United States, and by visiting the Site and submitting Personal Data, you authorize this transfer.
 
 **Sharing and Disclosing Your Personal Data**
 
