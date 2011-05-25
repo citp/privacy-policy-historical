@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adea.org privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122154711id_/http%3A//www.adea.org/about_adea/pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adea.org privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525045212id_/http%3A//www.adea.org/about_adea/pages/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -81,9 +81,5 @@ Washington, DC 20005
 202-289-7201   
 
 
-| 
-
 |   
----  
-  
-[](http://www.colgateprofessional.com/products/Colgate-Sensitive-Pro-Relief-Desensitizing-Paste/details)
+---|---
