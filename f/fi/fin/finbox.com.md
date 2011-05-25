@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the finbox.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124135553id_/http%3A//www.finbox.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the finbox.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525190207id_/http%3A//www.finbox.com/privacy-policy) for the most accurate reproduction.*
 
 # Finbox | Navigate your Finance Career
-
-**Finbox Website Privacy Policy**  
 
 Finbox Inc. (referred to as "Finbox," "we," "us," "our" and other similar pronouns) makes available this Web site and all site-related services (collectively, the "Site" or "Web site").  We are committed to protecting the privacy of the information of our Site visitors and Members (including all visitors or Members that are entities, individuals, employers, job candidates and general visitors of the Site) (individually and collectively referred to herein as "you"). We also want to provide you with a more rewarding Internet experience by making the advertising and content you see on the Site relevant to you, based on who you are and where your interests lie.  Your loyalty as either a visitor or a Member (i.e., an individual who registers on the Site for access to one or more Site services) is important, and we hope that our concerns regarding your privacy, as described in this policy (the "Privacy Policy" or "Policy"), demonstrate our commitment to making your Unlock Wall Street experience an enjoyable and useful one. 
 
@@ -187,4 +185,4 @@ In the unlikely event that we believe that the security of your personally ident
 
 By providing personally identifiable information to this Site, you understand and consent to the collection, maintenance, processing and transfer of such information in and to the United States and other countries and territories. 
 
-**Effective Date:** December 15, 2009.
+**Effective Date:** December 15, 2009. 
