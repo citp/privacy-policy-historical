@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greenpeace.in privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123054027id_/http%3A//greenpeace.in/safefood/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenpeace.in privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525222455id_/http%3A//greenpeace.in/safefood/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « Order Astelin Online No Prescription
 
