@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wmbfnews.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124030016id_/http%3A//www.wmbfnews.com/story/8774923/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wmbfnews.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525074553id_/http%3A//www.wmbfnews.com/story/8774923/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - WMBFNews.com | Myrtle Beach/Florence, SC | News, Weather, Sports
 
