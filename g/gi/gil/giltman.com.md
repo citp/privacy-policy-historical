@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the giltman.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225065313id_/http%3A//www.gilt.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the giltman.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525042930id_/http%3A//www.gilt.com/company/privacy) for the most accurate reproduction.*
 
 # Gilt Groupe Privacy Policy
 
