@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the travelclick.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628152002id_/http%3A//www.travelclick.net/privacy-policy/index.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelclick.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525231715id_/http%3A//www.travelclick.com/privacy-policy/index.cfm) for the most accurate reproduction.*
 
 # TravelCLICK | Privacy Policy
 
-This Privacy Policy applies to TravelCLICK, Inc. and its subsidiaries (collectively, "TravelCLICK"). In our normal course of business, TravelCLICK handles personal information, including personal information collected through use of this website ([www.travelclick.net](http://www.travelclick.net/)) and other sources. We handle all personal information in our possession in accordance with this Privacy Policy. 
+This Privacy Policy applies to TravelCLICK, Inc. and its subsidiaries (collectively, "TravelCLICK"). In our normal course of business, TravelCLICK handles personal information, including personal information collected through use of this website ([www.travelclick.com](http://www.travelclick.com/)) and other sources. We handle all personal information in our possession in accordance with this Privacy Policy. 
 
 Personal information that we receive from or on behalf of third parties, including our customers and partners, may also be governed by the privacy policies of the respective entity collecting such information. We are not responsible for the policies or actions of our customers or partners with respect to personal information that they collect or that we collect on their behalf. 
 
@@ -28,9 +28,9 @@ We may utilize the services of third party partners to help us manage our busine
 Choice  
 
 
-Should you sign up for our email list and then change your mind and no longer wish to receive e-mail or periodic mailings from us in the future, please let us know by sending an e-mail to [Unsubscribe@travelclick.net](mailto:Unsubscribe@travelclick.net) with your email address in the subject line. 
+Should you sign up for our email list and then change your mind and no longer wish to receive e-mail or periodic mailings from us in the future, please let us know by sending an e-mail to [Unsubscribe@travelclick.com](mailto:Unsubscribe@travelclick.com) with your email address in the subject line. 
 
-If you do not want your personal information to be used or transferred to third parties as set forth in this Privacy Policy, you may send an email to [cs@travelclick.net](mailto:cs@travelclick.net).
+If you do not want your personal information to be used or transferred to third parties as set forth in this Privacy Policy, you may send an email to [cs@travelclick.com](mailto:cs@travelclick.com).
 
 You can also adjust your Internet browser settings to refuse all cookies. However, some TravelCLICK features and services may not operate properly or as quickly if your cookies are disabled.
 
@@ -42,21 +42,21 @@ Except as provided in this Privacy Policy, TravelCLICK does not process personal
 Access  
 
 
-We will provide you with access to your personal information in our possession upon request, subject to a reasonable handling charge. You may request, correct or update such information by sending an email to [cs@travelclick.net](mailto:cs@travelclick.net), with “privacy policy update” in the subject line. We will also delete your personal information from our systems, upon your written request, unless we are required to retain it by law or other legal obligation. 
+We will provide you with access to your personal information in our possession upon request, subject to a reasonable handling charge. You may request, correct or update such information by sending an email to [cs@travelclick.com](mailto:cs@travelclick.com), with “privacy policy update” in the subject line. We will also delete your personal information from our systems, upon your written request, unless we are required to retain it by law or other legal obligation. 
 
 Enforcement  
 
 
 We monitor and verify compliance with the Safe Harbor Principles and this Privacy Policy through an objective self-assessment process. As part of this process, we regularly review our systems and procedures for compliance and effective operation.    
 
-Your satisfaction is important to us. If you have a complaint regarding the use or maintenance of your personal information by TravelCLICK, please contact us at [cs@travelclick.net](mailto:cs@travelclick.net).
+Your satisfaction is important to us. If you have a complaint regarding the use or maintenance of your personal information by TravelCLICK, please contact us at [cs@travelclick.com](mailto:cs@travelclick.com).
 
 We will investigate all complaints promptly and diligently to address your concerns and resolve any disputes quickly. If a complaint or dispute cannot be resolved through our internal process, we agree to independent dispute resolution procedures administered by the American Arbitration Association.
 
 Additional Information  
 
 
-If you have additional questions or concerns, you may contact us at [cs@travelclick.net](mailto:cs@travelclick.net).
+If you have additional questions or concerns, you may contact us at [cs@travelclick.com](mailto:cs@travelclick.com).
 
 For more information about the Safe Harbor program, visit [www.export.gov/safeharbor](http://www.export.gov/safeharbor).
 
