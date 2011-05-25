@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techyard.net privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122103055id_/http%3A//www.techyard.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techyard.net privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525053228id_/http%3A//www.techyard.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy & Disclaimer | TECH YARD
 
