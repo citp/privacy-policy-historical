@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stockgumshoe.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124134107id_/http%3A//www.stockgumshoe.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stockgumshoe.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525043428id_/http%3A//www.stockgumshoe.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Stock Gumshoe Reveals: Privacy Policy
 
