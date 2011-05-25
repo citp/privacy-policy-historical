@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the phaseone.com privacy policy that was archived on 2010-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100920224541id_/http%3A//www.phaseone.com/Phase%2520One/About-Us/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phaseone.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525214233id_/http%3A//www.phaseone.com/Phase%2520One/Find-PhaseOne/About%2520us/Privacy) for the most accurate reproduction.*
 
-# Privacy - Medium Format Camera Systems and Raw Converter Software
+# About Phase One
 
 **Privacy Statement**
 
  Your privacy is important to us, therefore Phase One has created this privacy statement in order to let you know our firm commitment to your privacy.
 
-Our privacy commitment covers Phase One’s website ([www.phaseone.com](http://www.phaseone.com/)) and our products and services.
+Our privacy commitment covers Phase One’s website ([www.phaseone.com](https://web.archive.org/)) and our products and services.
 
  **What information of yours does Phase One collect**
 
