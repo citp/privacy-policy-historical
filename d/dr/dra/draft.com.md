@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the draft.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623004803id_/http%3A//fantasyfootball.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the draft.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525044533id_/http%3A//fantasyfootball.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy :: 2010 Fantasy Football – Leagues and Games, Free News and Headlines, Cheatsheets, Rankings, and Advice.
+# Privacy Policy :: 2011 Fantasy Football – Projections, Leagues, Free News and Headlines, Cheatsheets, Rankings, and Advice.
 
 ## Fantasy Planet Privacy Policy
 
