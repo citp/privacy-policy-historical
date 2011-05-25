@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the davenport.edu privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225043212id_/http%3A//davenport.edu/tabid/386/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the davenport.edu privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525063441id_/http%3A//www.davenport.edu/tabid/386/default.aspx) for the most accurate reproduction.*
 
 # Davenport University > Home > Privacy Policy
 
