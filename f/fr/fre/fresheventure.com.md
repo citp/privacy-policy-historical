@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fresheventure.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124013804id_/http%3A//www.fresheventure.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fresheventure.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525064141id_/http%3A//www.fresheventure.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Internet Business Blog | FresheVenture.com
 
@@ -10,7 +10,7 @@ FresheVenture.com employs the services of AWeber for the FresheVenture Newslette
 
 ## Why You Received Email/Mail From FresheVenture.com:
 
-If you received a mailing from FresheVenture.com, (a) your information is either listed as someone who has expressly shared this address for the purpose of receiving information in the future (”opt-in”), or (b) you have registered or purchased or otherwise have an existing relationship with FresheVenture.com. I respect your time and attention by controlling the frequency of my mailings.
+If you received a mailing from FresheVenture.com, (a) your information is either listed as someone who has expressly shared this address for the purpose of receiving information in the future (“opt-in”), or (b) you have registered or purchased or otherwise have an existing relationship with FresheVenture.com. I respect your time and attention by controlling the frequency of my mailings.
 
 ## Sharing and Usage:
 
