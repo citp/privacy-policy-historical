@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the datingbuddies.com privacy policy that was archived on 2010-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100609125603id_/http%3A//www.datingbuddies.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datingbuddies.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525075224id_/http%3A//www.datingbuddies.com/privacy) for the most accurate reproduction.*
 
 # Online dating with www.datingbuddies.com - Privacy Policy
 
 ## This Privacy Policy is effective for www.datingbuddies.com members  
 Last edition — March 1, 2009
 
-The www.datingbuddies.com web-site and the service is the member of DatingFactory.com network, which is operated by Caerus AG, a company registered under the laws of Switzerland, whose registered office is Lauriedstrasse 1, CH-6300, Zug, Switzerland. 
+The www.datingbuddies.com web-site and the service is the member of Dating Factory network, which is operated by Caerus AG, a company registered under the laws of Switzerland, whose registered office is Lauriedstrasse 1, CH-6300, Zug, Switzerland. 
 
 www.datingbuddies.com is committed to providing you with the professional and high quality introductions and dating service and is therefore committed to protecting your privacy. We follow all the procedures that are set out in this document, and it needs to be read and understood together with the [Terms of use](https://web.archive.org/terms/) of the www.datingbuddies.com web-site. www.datingbuddies.com Privacy policy is intended to ensure that you can use the site and contact other members without having to worry about confidentiality issues. 
 
@@ -21,7 +21,6 @@ www.datingbuddies.com may change some clauses of this Policy from time to time, 
   8. Our members have the following choices to modify or delete their information from our database: 
     * Send an email to [Customer support](https://web.archive.org/contacts/)
     * Log in with your password and change/delete your profile 
-    * Send a regular mail to Caerus AG, Lauriedstrasse 1, CH-6300, Zug, Switzerland 
 
 
 
