@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the auctionadcity.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123224813id_/http%3A//www.auctionadcity.com/index.php%3Fa%3D28%26b%3D145) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the auctionadcity.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525040954id_/http%3A//auctionadcity.com/index.php%3Fa%3D28%26b%3D145) for the most accurate reproduction.*
 
 # Buy/Sell Auction/Classified
 
