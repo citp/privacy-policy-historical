@@ -1,14 +1,15 @@
-> *The following text is extracted and transformed from the bobevans.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203215015id_/http%3A//bobevans.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bobevans.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525052143id_/http%3A//bobevans.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Bob Evans, Discover Farm-Fresh Goodness | Privacy Policy
 
 BobEvans.com knows that you care about how your information is used and shared, which is why we have posted this Privacy Policy. Simply stated, the following Privacy Policy statement explains what information we collect from you, how we use that information and what choices you have with respect to that information.
 
-This Privacy Policy statement applies only to the information collected online in the general portions of the BobEvans.com Web site and any affiliated microsites that reference this policy. If you would like to review the privacy policy for the Kid Times portion of our Web site ([kids.bobevans.com](https://kids.bobevans.com/)) please [click here](https://kids.bobevans.com/).
+This Privacy Policy statement applies only to the information collected online in the general portions of the BobEvans.com Web site and any affiliated micro-sites that reference this policy. If you would like to review the privacy policy for the Kid Times portion of our Web site ([kids.bobevans.com](https://kids.bobevans.com/)) please [click here](https://kids.bobevans.com/).
 
 ### TABLE OF CONTENTS
 
   * What Type of Information do we Collect?
+  * Link to Online Ordering
   * How do we use Personal Information Collected Online?
   * What Information do we Share with or Disclose to Third Parties?
   * Public Forums
@@ -37,21 +38,9 @@ We gather information through two means – navigational information gathered wh
 
 Back to Top
 
-### How do we use Personal Information Collected Online?
+### Link to Online Ordering
 
-BobEvans.com may use the personal information we collect from you for the following purposes:
-
-  * to send information about our products, events, promotions, contests, and recipes;
-  * to respond to your inquiries;
-  * to develop our products, services, Web site and affiliated microsites;
-  * to tailor your experience on our Web site or affiliated microsites and the information sent through e-mail to your interests;
-  * to deliver gift cards that you have ordered, fulfill requests that you have submitted, and respond to a request for a corporate gift;
-  * to fulfill your request to send recipes or other information to another party. Recipient information will only be used for purposes of fulfilling your request. BobEvans.com does not retain or review any personally identifiable information that you may provide when submitting such a request, but in the event of delivery failure we may contact you or the recipient;
-  * to post photographs and videos you submit to the Web site;
-  * to provide you with the location information you request. BobEvans.com also uses the information provided through locator services on an aggregate basis to analyze trends and help us determine what store or product information is most frequently accessed by our visitors; and
-  * to evaluate your employment application. If you elect to complete an employment application through our Web site, any information that you provide to us is only used to enable Bob Evans Farms, Inc. to consider your interest in employment with Bob Evans and, if hired, for employment and business-related purposes.
-
-
+For your convenience, our Web site contains a link to online ordering. When you order online, your information is provided to BobEvans.com and [KudzuInteractive.com](http://www.kudzuinteractive.com/) through [SnapFinger.com.](http://www.snapfinger.com/). BobEvans.com maintains your information according to the terms of our Privacy Policy. For more information on the privacy policies of Kudzu Interactive and/or Snapfinger, please visit the Kudzu Interactive website at [KudzuInteractive.com ](http://www.kudzuinteractive.com/)or the Snapfinger website at [SnapFinger.com.](http://www.snapfinger.com/)
 
 Back to Top
 
