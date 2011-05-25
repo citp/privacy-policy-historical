@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the olympus-europa.com privacy policy that was archived on 2010-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100124223432id_/http%3A//www.olympus-europa.com/privacynotice.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the olympus-europa.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525070759id_/http%3A//www.olympus-europa.com/privacynotice.htm) for the most accurate reproduction.*
 
 # Digital Camera, SLR, Cameras, Olympus, Endoscope, Endoscopy, Diagnostics, microscope, Microscopy, Medical Systems, Industrial Endoscopy, Voice Recorders, Binoculars, Business Solutions, Testing, Instruments, Equipement, Information, Olympus Europe
 
@@ -6,7 +6,7 @@
 **We are Olympus Europa Holding GmbH, (Wendenstraße 14-18, 20097 Hamburg, Germany). All references to “we/our/us” refer to Olympus Europa Holding GmbH.    
 “Personal information” is defined as any information which refers to you personally such as your name, e-mail address and postal address.   
 Please read the following privacy policy to understand how we use your personal information after it has been collected by us.  Please read through this Privacy Policy before submitting any of your personal information to us.  You do not need to submit any of your personal information when browsing our website.   
-If you have any questions about this Privacy Policy at any time, please contact [E-Mail ](mailto:DataPrivacy@olympus-europa.com).  
+If you have any questions about this Privacy Policy at any time, please contact DataPrivacy[at]olympus-europa.com.  
 This privacy policy may be updated from time to time. The date of the most recent revisions will appear on this page so please visit this privacy policy each time before you submit your personal information. 
 
 **2.  When do we collect data?  
@@ -51,7 +51,7 @@ The website contains hyperlinks to websites owned and operated by third parties.
 We study visitor trends since we are interested in the successful dissemination of information through the websites. Our server creates log files of information such as the Internet Protocol (IP) address from your network, what pages were explored and the length of your visit.  Analysis software is used to generate reports which help us to learn more about how we can enhance your experience with the websites.  This information is not used to develop a personal profile of you. The log files are regularly purged. An IP address is a number designated for your computer by your Internet service provider to provide access to the Internet.  Generally, an IP address will change every time your computer connects to the Internet.  However, if you have a broadband connection, it is possible that the IP address that we may gather may contain information that may be deemed identifiable.  This could occur due to the fact that by using certain broadband connections, your IP address would not change and could be associated with your personal computer. We may use your IP address to gather aggregate information on use. But we will only be able to identify you individually if we have the means of linking the IP address to you as a particular user. This usually requires access to additional information which we do not seek.
 
 **10.  Your rights concerning your personal information  
-**You have the right to request a copy of the personal information that we hold on you and to have any errors in that information corrected.  Please address your request to the data protection manager at  [E-Mail ](mailto:DataPrivacy@olympus-europa.com). We will use reasonable efforts to supply, correct or delete personal information about you on our files.  
+**You have the right to request a copy of the personal information that we hold on you and to have any errors in that information corrected.  Please address your request to the data protection manager at DataPrivacy[at]olympus-europa.com. We will use reasonable efforts to supply, correct or delete personal information about you on our files.  
 Furthermore, you have the right to object to the use of your personal information at any time. Please inform us either by using our contact address or the e-mail address stated above.
 
   
