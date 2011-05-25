@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thegame.me privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123232259id_/http%3A//www.thegame.me/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegame.me privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525231733id_/http%3A//www.thegame.me/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - The Game | TheGame.me
+# Privacy Policy - TheGame.me
 
 Your Privacy is important and respected to us at TheGame.me. TheGame.me will from time to time collect non-personal, specific information for the sole purposes of improving and maintaining the TheGame.me website features and content. Non-personal information (including some forms of personal information) may be collected at times either voluntarily or involuntarily through the use of this website. Personal information (such as your email address) may be required for website notifications, registration and to help ensure a secure environment for all users of TheGame.me through the use of such information. Your information will never be sold, distributed or shared with other companies, third-parties or individuals, excluding the rare event in which this website is transferred and/or sold to a new party. 
 
