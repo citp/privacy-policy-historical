@@ -1,13 +1,17 @@
-<!--The following is the downloaded HTML source of the eeweb.com privacy policy that was archived on 2010-12-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101225071901id_/http%3A//www.eeweb.com/policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the eeweb.com privacy policy that was archived on 2011-05-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110525072633id_/http%3A//eeweb.com/policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<meta name="google-site-verification" content="1bfB43YpuciGLVXIVwKej6YIACwfqmUjsqwQbUuQDTw">
 	
 	<title>Privacy Policy | EEWeb</title>
+	
+	    	
 	<link rel="stylesheet" type="text/css" href="/css/main/reset.css">
 	<link rel="stylesheet" type="text/css" href="/css/main/main.css">
+	<!--[if IE 6]><style type="text/css" media="screen">body { padding-top: 0; }</style><![endif]-->
+	<link rel="shortcut icon" href="/pics/site/favicon.ico">
 	<link rel="stylesheet" type="text/css" href="/css/sections/static-pages.css" media="screen">
 	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.0/jquery.min.js"></script>
 	<script type="text/javascript" src="/js/biggerlink/link.js"></script>
@@ -17,16 +21,41 @@
 		});
 	</script>
 	
+	<link rel="alternate" type="application/rss+xml" title="Application Design Notes" href="/feeds/application-design-notes/">
+	<link rel="alternate" type="application/rss+xml" title="Articles" href="/feeds/articles/">
+	<link rel="alternate" type="application/rss+xml" title="Events" href="/feeds/events/">
+	<link rel="alternate" type="application/rss+xml" title="Featured Engineers" href="/feeds/featured-engineers/">
+	<link rel="alternate" type="application/rss+xml" title="Featured Sites" href="/feeds/featured-sites/">
+	<link rel="alternate" type="application/rss+xml" title="Forum Questions" href="/feeds/questions/">
+	<link rel="alternate" type="application/rss+xml" title="Jobs" href="/feeds/jobs/">
+	<link rel="alternate" type="application/rss+xml" title="News" href="/feeds/news/">
+	<link rel="alternate" type="application/rss+xml" title="Projects" href="/feeds/projects/">
+	<link rel="alternate" type="application/rss+xml" title="Quizzes" href="/feeds/quizzes/">
+	<link rel="alternate" type="application/rss+xml" title="Return to Zero Comic" href="/feeds/return-to-zero-comic/">
 </head>
 <body>
+    <div id="site_toolbar">
+        <div class="container_16">
+            <ul>
+                                                    <li class="first name"><a href="/register"><span class="name_style">Join Our Community:</span>&nbsp;&nbsp;Sign-Up</a></li>
+                    <li>or</li>
+                    <li><a href="/login">Login</a></li>
+                            </ul>
+            <div class="clear"></div>
+        </div>
+    </div>
 	
 	<script type="text/javascript">
 		$(document).ready(function() {
 			$('.search_components').val('Part Number / Keyword...');
 
-			$('#browse_catalog').toggle(function() {$('#mega_menu').slideDown('fast');}, function() {$('#mega_menu').slideUp('fast');});
+			$('#browse_catalog').toggle(function() {
+			    if($("#mega_menu:empty").length) {
+			        $("#mega_menu").load("/includes/browse_products_menu", function() {$("#mega_menu").slideDown('fast');});
+			    } else {$('#mega_menu').slideDown('fast');}
+			}, function() {$('#mega_menu').slideUp('fast');});
 
-			$('#close_menu').click(function() {$('#browse_catalog').trigger('click');}); 
+			$('#close_menu').live('click', function() {$('#browse_catalog').trigger('click');}); 
 
 			$('.search_components').click(function() {
 				$(this).val('');
@@ -68,11 +97,12 @@
 		<div class="header clearfix">
 			<a href="/"><img src="/pics/site/electrical-engineering.png" width="215" height="69" alt="EEWeb Electrical Engineering Home" id="logo"></a>
 			<ul id="member_links">
-				
-									<li class="member_links_li top_screen_name no_border_right">Welcome to EEWeb :</li>
-					<li class="member_links_li"><a href="/register">Sign-Up</a></li>
-					<li class="member_links_li no_border_right"><a href="/login" class="login_plus">Login</a></li>
-				
+			    
+                
+                <li id="toolbox_button" class="top_link_li"><a href="/toolbox" style="padding-right:0px;" class="top_link_a">Toolbox</a></li>  
+				<li class="top_link_li"><a href="/application-notes" class="top_link_a">App Note Search</a></li> 
+				<li class="top_link_li no_border_right"><a href="/toolbox/calculator" class="top_link_a">Calculator</a></li>
+                
 				<li>
 					<div id="toolbox_mm_wrap">
 						<div class="toolbox_c">
@@ -178,11 +208,8 @@
 				</li>
 			</ul>
 			
-			<ul class="top_links">  
-				<li id="toolbox_button" class="top_link_li"><a href="/toolbox" style="padding-right:0px;" class="top_link_a">Toolbox</a></li>  
-				<li class="top_link_li"><a href="/application-notes" class="top_link_a">App Note Search</a></li> 
-				<li class="top_link_li no_border_right"><a href="/toolbox/calculator" class="top_link_a">Calculator</a></li>   
-			</ul>
+			
+			<div style="clear:right;"></div>
 			
 			<div id="search_bar">
 				<div id="browse_catalog">&nbsp;</div> 
@@ -194,76 +221,14 @@
 			</div>
 		</div>
 
-		<div id="mega_menu" class="clearfix">
-			<div class="mm_digikey_wrap clearfix">
-				<a href="http://www.digikey.com"><img src="/pics/site/digikey-logo-small.png" alt="component search" id="mm_digikey_logo" width="70" height="35"></a>
-				<h3 id="mm_digikey_header">Browse Products</h3>
-				<div id="close_menu_ul">
-					<div class="close_menu"><a href="/catalog">View Product Index</a></div>
-					<div class="close_menu"><a href="#" id="close_menu" onclick="return false;"><span>X</span> Close Menu</a>|</div>
-				</div>
-			</div>
-			<div class="mm_c">
-				<ul>
-					<li><a target="_blank" href="http://search.digikey.com/scripts/DkSearch/dksus.dll?lang=en&amp;site=US&amp;KeyWords=audio+products" rel="nofollow">Audio Products</a></li>
-					<li><a target="_blank" href="http://search.digikey.com/scripts/DkSearch/dksus.dll?lang=en&amp;site=US&amp;KeyWords=enclosures" rel="nofollow">Boxes, Enclosures</a></li>
-					<li><a target="_blank" href="http://search.digikey.com/scripts/DkSearch/dksus.dll?lang=en&amp;site=US&amp;KeyWords=cable+assemblies" rel="nofollow">Cable Assemblies</a></li>
-					<li><a target="_blank" href="http://search.digikey.com/scripts/DkSearch/dksus.dll?lang=en&amp;site=US&amp;KeyWords=cables" rel="nofollow">Cables, Wires</a></li>
-					<li><a target="_blank" href="http://search.digikey.com/scripts/DkSearch/dksus.dll?lang=en&amp;site=US&amp;KeyWords=capacitors" rel="nofollow">Capacitors</a></li>
-				</ul>
-			</div>
-			<div class="mm_c">
-				<ul>
-					<li><a target="_blank" href="http://search.digikey.com/scripts/DkSearch/dksus.dll?lang=en&amp;site=US&amp;KeyWords=circuit+protection" rel="nofollow">Circuit Protection</a></li>
-					<li><a target="_blank" href="http://search.digikey.com/scripts/DkSearch/dksus.dll?lang=en&amp;site=US&amp;KeyWords=connectors" rel="nofollow">Connectors</a></li>
-					<li><a target="_blank" href="http://search.digikey.com/scripts/DkSearch/dksus.dll?lang=en&amp;site=US&amp;KeyWords=discrete+semiconductor" rel="nofollow">Discrete Semi</a></li>
-					<li><a target="_blank" href="http://search.digikey.com/scripts/DkSearch/dksus.dll?lang=en&amp;site=US&amp;KeyWords=fans+thermal" rel="nofollow">Fans, Thermal</a></li>                      
-					<li><a target="_blank" href="http://search.digikey.com/scripts/DkSearch/dksus.dll?lang=en&amp;site=US&amp;KeyWords=filters" rel="nofollow">Filters</a></li>
-				</ul>
-			</div>
-			<div class="mm_c">
-				<ul>
-					<li><a target="_blank" href="http://search.digikey.com/scripts/DkSearch/dksus.dll?lang=en&amp;site=US&amp;KeyWords=hardware+fasteners" rel="nofollow">Hardware, Fasteners</a></li>
-					<li><a target="_blank" href="http://search.digikey.com/scripts/DkSearch/dksus.dll?lang=en&amp;site=US&amp;KeyWords=inductors+coils+chokes" rel="nofollow">Inductors, Coils, Chokes</a></li>
-					<li><a target="_blank" href="http://search.digikey.com/scripts/DkSearch/dksus.dll?lang=en&amp;site=US&amp;KeyWords=integrated+circuits" rel="nofollow">Integrated Circuits (ICs)</a></li>
-					<li><a target="_blank" href="http://search.digikey.com/scripts/DkSearch/dksus.dll?lang=en&amp;site=US&amp;KeyWords=isolators" rel="nofollow">Isolators</a></li>
-					<li><a target="_blank" href="http://search.digikey.com/scripts/DkSearch/dksus.dll?lang=en&amp;site=US&amp;KeyWords=line+protection" rel="nofollow">Line Protection</a></li>
-				</ul>
-			</div>
-			<div class="mm_c">
-				<ul>
-					<li><a target="blank" href="http://search.digikey.com/scripts/DkSearch/dksus.dll?lang=en&amp;site=US&amp;KeyWords=optoelectronics" rel="nofollow">Optoelectronics</a></li>
-					<li><a target="blank" href="http://search.digikey.com/scripts/DkSearch/dksus.dll?lang=en&amp;site=US&amp;KeyWords=potentiometers" rel="nofollow">Potentiometers</a></li>
-					<li><a target="blank" href="http://search.digikey.com/scripts/DkSearch/dksus.dll?lang=en&amp;site=US&amp;KeyWords=power+supplies" rel="nofollow">Power Supplies</a></li>
-					<li><a target="blank" href="http://search.digikey.com/scripts/DkSearch/dksus.dll?lang=en&amp;site=US&amp;KeyWords=prototyping" rel="nofollow">Prototyping Products</a></li>
-					<li><a target="blank" href="http://search.digikey.com/scripts/DkSearch/dksus.dll?lang=en&amp;site=US&amp;KeyWords=relays" rel="nofollow">Relays</a></li>
-				</ul>
-			</div>
-			<div class="mm_c">
-				<ul>
-					<li><a target="blank" href="http://search.digikey.com/scripts/DkSearch/dksus.dll?lang=en&amp;site=US&amp;KeyWords=resistors" rel="nofollow">Resistors</a></li>
-					<li><a target="blank" href="http://search.digikey.com/scripts/DkSearch/dksus.dll?lang=en&amp;site=US&amp;KeyWords=rf+rfid" rel="nofollow">RF and RFID</a></li>
-					<li><a target="blank" href="http://search.digikey.com/scripts/DkSearch/dksus.dll?lang=en&amp;site=US&amp;KeyWords=sensors+transducers" rel="nofollow">Sensors, Transducers</a></li>
-					<li><a target="blank" href="http://search.digikey.com/scripts/DkSearch/dksus.dll?lang=en&amp;site=US&amp;KeyWords=soldering+desoldering" rel="nofollow">Soldering, Desoldering</a></li>
-					<li><a target="blank" href="http://search.digikey.com/scripts/DkSearch/dksus.dll?lang=en&amp;site=US&amp;KeyWords=static+control+esd" rel="nofollow">Static Control, ESD</a></li>
-				</ul>
-			</div>
-			<div class="mm_c">
-				<ul>
-					<li><a target="blank" href="http://search.digikey.com/scripts/DkSearch/dksus.dll?lang=en&amp;site=US&amp;KeyWords=switches" rel="nofollow">Switches</a></li>
-					<li><a target="blank" href="http://search.digikey.com/scripts/DkSearch/dksus.dll?lang=en&amp;site=US&amp;KeyWords=tapes" rel="nofollow">Tapes, Adhesives</a></li>
-					<li><a target="blank" href="http://search.digikey.com/scripts/DkSearch/dksus.dll?lang=en&amp;site=US&amp;KeyWords=test+equipment" rel="nofollow">Test Equipment</a></li>
-					<li><a target="blank" href="http://search.digikey.com/scripts/DkSearch/dksus.dll?lang=en&amp;site=US&amp;KeyWords=tools" rel="nofollow">Tools</a></li>
-					<li><a target="blank" href="http://search.digikey.com/scripts/DkSearch/dksus.dll?lang=en&amp;site=US&amp;KeyWords=transformers" rel="nofollow">Transformers</a></li>
-				</ul>
-			</div>
-		</div>
+        <div id="mega_menu" class="clearfix"></div>
+
 		<div class="menu_wrap clearfix">
 			<ul class="main_menu clearfix">
 				<li><a href="/" id="menu_">Home</a></li>
 				<li><a href="/toolbox/" id="menu_toolbox">Tools</a></li>
 				<li><a href="/news/" id="menu_news">News</a></li>
-				<li><a href="/discussions/" id="menu_discussions">Discussions</a></li>
+				<li><a href="/electronics-forum/" id="menu_discussions">Forum</a></li>
 				<li><a href="/community/" id="menu_community">Community</a></li>
 				<li><a href="/articles/" id="menu_articles">Articles</a></li>
 				<li><a href="/projects/" id="menu_projects">Projects</a></li>
@@ -273,13 +238,13 @@
 			</ul>
 			<ul class="sub_menu clearfix">
 				
-				<li><a href="/pcb-design" id="menu_pcb-design" style="border-left:none;">PCB Design</a></li>
-				<li><a href="/analog-design" id="menu_analog-design">Analog Design</a></li>
+				<li><a href="/analog-design" id="menu_analog-design" style="border-left:none;">Analog Design</a></li>
 				<li><a href="/rf-design" id="menu_rf-design">RF Design</a></li>
 				<li><a href="/power-managment" id="menu_power-managment">Power Management</a></li>
 				<li><a href="/embedded-design" id="menu_embedded-design">Embedded Design</a></li>
 				<li><a href="/test-and-measure" id="menu_test-and-measure">Test &amp; Measure</a></li>
 				<li><a href="/components" id="menu_components">Components</a></li>
+				<li><a href="/pcb-design" id="menu_pcb-design">PCB Design</a></li>
 			</ul>
 
 			<script type="text/javascript">
@@ -296,6 +261,7 @@
 		</div>
 		<div class="body_wrap clearfix">
 			<div class="container_16">
+
 
     <div class="article_line static_style">
     
@@ -391,7 +357,7 @@
 
 	<h4>Deleting your Account</h4>
 
-	<p>Members may delete their account by an email request. Requests should be sent to <span id="eeEncEmail_H3JxmVOkJO"><a href="mailto:info@eeweb.com">info@eeweb.com</a></span><script type="text/javascript">
+	<p>Members may delete their account by an email request. Requests should be sent to <span id="eeEncEmail_QsBGeNubjn"><a href="mailto:info@eeweb.com">info@eeweb.com</a></span><script type="text/javascript">
 //<![CDATA[
 var l=new Array();
 var output = '';
@@ -400,7 +366,7 @@ for (var i = l.length-1; i >= 0; i=i-1){
 if (l[i].substring(0, 1) == ' ') output += "&#"+unescape(l[i].substring(1))+";"; 
 else output += unescape(l[i]);
 }
-document.getElementById('eeEncEmail_H3JxmVOkJO').innerHTML = output;
+document.getElementById('eeEncEmail_QsBGeNubjn').innerHTML = output;
 //]]>
 </script>.</p>
 
@@ -469,7 +435,7 @@ document.getElementById('eeEncEmail_H3JxmVOkJO').innerHTML = output;
 	<p><span class="caps">EEW</span>eb<br>
 1020 W Main St. 100K<br>
 Boise ID 83702<br>
-Email: <span id="eeEncEmail_PtjczT6jyt"><a href="mailto:info@eeweb.com">info@eeweb.com</a></span><script type="text/javascript">
+Email: <span id="eeEncEmail_irsX0Prfr6"><a href="mailto:info@eeweb.com">info@eeweb.com</a></span><script type="text/javascript">
 //<![CDATA[
 var l=new Array();
 var output = '';
@@ -478,7 +444,7 @@ for (var i = l.length-1; i >= 0; i=i-1){
 if (l[i].substring(0, 1) == ' ') output += "&#"+unescape(l[i].substring(1))+";"; 
 else output += unescape(l[i]);
 }
-document.getElementById('eeEncEmail_PtjczT6jyt').innerHTML = output;
+document.getElementById('eeEncEmail_irsX0Prfr6').innerHTML = output;
 //]]>
 </script></p></div>
   
@@ -489,16 +455,27 @@ document.getElementById('eeEncEmail_PtjczT6jyt').innerHTML = output;
     
 			</div> <!-- container_16 -->
 		</div> <!-- body_wrap -->
-		<div class="container_16 clearfix sub_footer_bg footer">
-			<div class="sub_footer_hwrap clearfix">
-			    <form name="Sform" target="_blank" action="http://search.digikey.com/scripts/DkSearch/dksus.dll" method="get" onsubmit="checkKeyword();">
-			       <input type="hidden" name="lang" value="en"><input type="hidden" name="site" value="US">
-			       <input type="submit" value="&nbsp;" id="search_button_footer">
-			       <input type="text" value="Part Number / Keyword..." accesskey="S" name="KeyWords" id="search_components_footer" class="search_components">
-			    </form>
-			</div>
-	
-			
+		<div class="container_16 clearfix" id="main_footer">
+		<div id="bottom_footer_border">&nbsp;</div>
+		<a href="http://www.digikey.com/techxchange" id="xchange_footer_link">&nbsp;</a>
+		<div id="main_footer_text_1">EEWeb is the official strategic partner of <a href="http://www.digikey.com/techxchange">TechXchange™</a> a user-to user forum where everyone from design engineers to hobbyists can discuss technology, products, designs and more. You can participate in discussions, ask questions of the community or of subject matter experts and learn about new products and the latest innovations.</div>
+		    <ul class="xchange_links" id="xchange_ul_1">
+		      <li><a rel="nofollow" href="http://www.digikey.com/techxchange/community/sensors">Sensors Community</a></li>
+		      <li><a rel="nofollow" href="http://www.digikey.com/techxchange/community/wireless">Wireless Community</a></li>
+		      <li><a rel="nofollow" href="http://www.digikey.com/techxchange/community/microcontroller">Microcontroller Community</a></li>
+		    </ul>
+		    <ul class="xchange_links" id="xchange_ul_2">
+		      <li><a rel="nofollow" href="http://www.digikey.com/techxchange/community/power">Power Community</a></li>
+		      <li><a rel="nofollow" href="http://www.digikey.com/techxchange/community/lighting">Lighting Community</a></li>
+		      <li><a rel="nofollow" href="http://www.digikey.com/techxchange/community/general">General Discussions</a></li>
+		    </ul>
+		   	<form name="Sform" target="_blank" action="http://www.digikey.com/techxchange/search.jspa" method="get" id="xchange_search_form">
+			   <input type="hidden" name="peopleEnabled" value="true">
+			   <input type="hidden" name="userID">
+			   <input type="hidden" name="spotlight" value="false">
+			   <span class="xchange_span_button"><input type="submit" value="GO" id="xchange_search_button"></span>
+			   <input type="text" accesskey="S" name="q" id="xchange_search_box">
+			</form>
 		</div>
 	</div> <!-- page_wrapper -->
 	<div id="page_wrapper_bot">&nbsp;</div>
@@ -512,7 +489,7 @@ document.getElementById('eeEncEmail_PtjczT6jyt').innerHTML = output;
 		    <li><a href="/about">About Us</a></li>
 			<li><a href="/policy">Privacy Policy</a></li>
 			<li><a href="/terms">Terms and Conditions</a></li>
-			<li style="border-right-style: none; padding-left:12px;">© Copyright 2010 Aspen Labs, LLC</li>
+			<li style="border-right-style: none; padding-left:12px;">© Copyright 2011 Aspen Labs, LLC</li>
 		</ul>
 	</div>
 	
@@ -536,8 +513,24 @@ document.getElementById('eeEncEmail_PtjczT6jyt').innerHTML = output;
 
 </script>
 
+<script type="text/javascript">
+  function recordOutboundLink(link, category, action) {
+    _gat._getTrackerByName()._trackEvent(category, action);
+    setTimeout('document.location = "' + link.href + '"', 100);
+  }
 
-  
+  $(document).ready(function() {
+    $("a[href*='http://']:not([href*='"+window.location.hostname+"'])").live('click', function() {
+      recordOutboundLink(this, 'Outbound Links', $(this).attr('href'));
+      return false;
+    });
+
+	$("#search_bar form, .sub_footer_hwrap form").submit(function() {
+	  _gat._getTrackerByName()._trackEvent("Digi-Key Search", $("input[name=KeyWords]", this).val());
+	  return true;
+	})
+  });
+</script>  
 	
 
 
