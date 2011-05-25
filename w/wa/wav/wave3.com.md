@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wave3.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123022546id_/http%3A//www.wave3.com/story/8774923/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wave3.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525213634id_/http%3A//www.wave3.com/story/8774923/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - WAVE 3 News - Louisville, Kentucky
 
