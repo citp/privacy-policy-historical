@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abc6onyourside.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122075947id_/http%3A//www.abc6onyourside.com/sections/station/legal/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abc6onyourside.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525043209id_/http%3A//www.abc6onyourside.com/sections/station/legal/privacy.shtml) for the most accurate reproduction.*
 
 # WSYX ABC 6 Privacy Policy
 
@@ -16,6 +16,8 @@ The Website does not knowingly collect information from any individuals under th
 **Information the Website Collects**
 
 The personally identifying information the Website intentionally collects from users who submit video(s)/posting(s)/email(s) to the Website are those users' names, addresses, telephone numbers, e-mail addresses, age/date of birth and gender . Addition personal information may unintentionally be collected if such information is provided in submitted video(s)/posting(s)/email(s). Personal information included in a video(s)/posting(s) is by its nature available to the general public and no such information should be posted by any user who desires to keep it private. The Station is not responsible for any use which may be made of such information by any third party. 
+
+Like most major websites, the Website uses "cookies." A "cookie" is a small piece of text that a web server stores on your computer in order to make your experience better upon return visits to that website. The Website uses cookies to aggregate information about our users to allow us to see how our visitors navigate the site in order to make improvements in the site's design. Cookies are not a program and do not allow us to access any information on your computer other than the information that we initially placed there.
 
 In addition, we have web logs which collect standard information each time we serve a page on the Website. The web logs provide us with information on our users Internet protocol addresses, the pages of the Website visited and a date and time stamp. This information allows us to administer the website and identify how it is being used. 
 
