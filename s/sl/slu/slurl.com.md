@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slurl.com privacy policy that was archived on 2010-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101107205815id_/http%3A//secondlife.com/corporate/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slurl.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525163405id_/http%3A//secondlife.com/corporate/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Second Life
 
@@ -44,7 +44,7 @@ There are thus different levels of information we collect, depending upon your r
 
 ### Linden Lab’s Protection and Disclosure of Your Information
 
-Except under certain limited circumstances set forth here and in our [Terms of Service](http://secondlife.com/corporate/tos.php) (“Terms of Service”), Linden Lab does not disclose to third parties the personal information or other account-related information you provide us, such as IP address, without your permission. You understand, however, that Linden Lab may disclose your personal or other account-related information under the following circumstances:
+Except under certain limited circumstances set forth here and in our [Terms of Service](https://web.archive.org/corporate/tos.php) ("Terms of Service"), Linden Lab does not disclose to third parties the personal information or other account-related information you provide us, such as IP address, without your permission. You understand, however, that Linden Lab may disclose your personal or other account-related information under the following circumstances:
 
   * If we believe in good faith that such disclosure is necessary under applicable law, or to comply with legal process served on Linden Lab;
   * In order to protect and defend the rights or interests of Linden Lab, Second Life or the users of Second Life;
@@ -83,4 +83,4 @@ You may choose to disclose personal information in our online forums, via your S
 
 ### Amendment of this Policy
 
-We may need to update our Privacy Policy periodically to reflect changes in the types of information we collect, the means we use to collect information, or our usage of collected information. We will make reasonable efforts to alert you to these changes when they occur. Changes take effect immediately upon posting to our Websites. You may update the personal data you provide to us during registration by contacting our [support portal](http://secondlife.com/support). If you wish to update your billing information, you may contact us toll-free (from the US/Canada) at 800-294-1067 or at 703-286-6277.
+We may need to update our Privacy Policy periodically to reflect changes in the types of information we collect, the means we use to collect information, or our usage of collected information. We will make reasonable efforts to alert you to these changes when they occur. Changes take effect immediately upon posting to our Websites. You may update the personal data you provide to us during registration by contacting our [support portal](https://web.archive.org/support/). If you wish to update your billing information, you may contact us toll-free (from the US/Canada) at 800-294-1067 or at 703-286-6277.
