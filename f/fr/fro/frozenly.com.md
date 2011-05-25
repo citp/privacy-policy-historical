@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frozenly.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122220714id_/http%3A//frozenly.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frozenly.com privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526003433id_/http%3A//frozenly.com/privacy-policy) for the most accurate reproduction.*
 
 # frozenly.com | Privacy Policy
 
