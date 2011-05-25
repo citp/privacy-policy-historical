@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the my-spaces.org privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123172045id_/http%3A//www.my-spaces.org/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the my-spaces.org privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525062424id_/http%3A//my-spaces.org/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy of MySpaces
 
@@ -12,3 +12,5 @@ We use third-party advertising companies (mainly Google AdSense - which uses [Do
 
 [Google Advertising and Privacy](http://www.google.com/privacy_ads.html)  
 [Network Advertising Initiative](http://www.networkadvertising.org/)
+
+### Videos of south Indian actresses. 
