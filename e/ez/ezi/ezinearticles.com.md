@@ -1,10 +1,7 @@
-> *The following text is extracted and transformed from the ezinearticles.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522005952id_/http%3A//ezinearticles.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezinearticles.com privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526004725id_/http%3A//ezinearticles.com/privacy-policy.html) for the most accurate reproduction.*
 
 # EzineArticles.com Privacy Policy
 
-| 
-
-EzineArticles Privacy Policy   
 [Last Updated May 22, 2007]
 
 Your privacy is important to EzineArticles.com and we take our responsibility seriously to protect the data that you provide us in the normal course of interacting with our site. Therefore, we have developed the comprehensive privacy policy below to help you better understand what data we collect and how we use it.
