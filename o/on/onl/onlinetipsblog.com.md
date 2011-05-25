@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinetipsblog.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218093040id_/http%3A//www.onlinetipsblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinetipsblog.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525063420id_/http%3A//www.onlinetipsblog.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Online Tips Blog
 
@@ -29,5 +29,4 @@ Confidential and Security
 DoubleClick has implemented security measures in order to protect information being collected from loss, misuse and unauthorized access, disclosure or alteration.
 
 Changes to this Privacy Policy  
-We amend the rights to change this privacy policy from time to time as we add new information.  
-Need a web hosting or domain name? Contact Me for the best Advice.
+We amend the rights to change this privacy policy from time to time as we add new information. 
