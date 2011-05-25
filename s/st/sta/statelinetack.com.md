@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the statelinetack.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205081014id_/http%3A//www.statelinetack.com/CS/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the statelinetack.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525222728id_/http%3A//www.statelinetack.com/cs/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Statelinetack.com
 
@@ -67,7 +67,7 @@ To "opt-out" of receiving State Line Tack communications, do one of the followin
 
 2\. Send an e-mail request to: [ customerservice@statelinetack.com](mailto:customerservice@statelinetack.com)
 
-3\. Call: Toll-free: 1-800-228-9208  
+3\. Call: Toll-free: 1.800.814.4332  
 Monday - Friday: 8 a.m. ET - 8 p.m. ET  
 Saturday: 8:30 a.m. ET - 5 p.m. ET  
 Sunday: Closed  
@@ -116,7 +116,7 @@ Hazle Township, PA 18202
 
 **3\. Phone:**
 
-Toll-free: 1-800-228-9208  
+Toll-free: 1.800.814.4332  
 Monday - Friday: 8 a.m. ET - 8 p.m. ET  
 Saturday: 8:30 a.m. ET - 5 p.m. ET  
 Sunday: Closed
