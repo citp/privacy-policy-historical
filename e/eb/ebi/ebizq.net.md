@@ -1,131 +1,191 @@
-> *The following text is extracted and transformed from the ebizq.net privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613191851id_/http%3A//www.ebizq.net/membership/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebizq.net privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525040818id_/http%3A//www.ebizq.net/membership/privacy.html) for the most accurate reproduction.*
 
-# An SOA, BPM, Decision Management and Cloud Computing Guide for the Enterprise Community.
+# TechTarget, The IT Media ROI Experts
 
-ebizQ manages the [ebizQ.net](https://web.archive.org/) Web site and the [ebizQ Conference](https://web.archive.org/events). ebizQ is committed to maximizing your experience and respecting your privacy while using these information resources.
+TechTarget, Inc. Privacy Policy
 
-**Gold Club Registration**
+Introduction
 
-ebizQ limits access to a portion of its premium content to members of our Gold Club. Registration to the Gold club is free to anyone wishing to join. At the time of registration, we ask that you supply us with personally identifiable information that will enable us to better serve your information needs. ebizQ protects the privacy of this information, and does not sell or barter its member information. However, ebizQ does reserve the right to share your contact details with some content providers and sponsors with your permission, as detailed below.
+TechTarget, Inc. and its affiliates (collectively, “TechTarget”) are committed to protecting our users' privacy. This Privacy Policy is designed to inform users of TechTarget’s network of websites about how TechTarget gathers and uses information provided to, or collected by, TechTarget and under what circumstances TechTarget will disclose such information. TechTarget will take reasonable steps to protect user privacy consistent with the guidelines set forth in this Privacy Policy and with the laws of the United States and all other applicable jurisdictions.
 
-**Gold Club Content**
+TechTarget has certified to the United States Department of Commerce that it adheres to the Safe Harbor framework developed by the United States Department of Commerce in coordination with the European Union. The European Union’s Directive on Data Protection prohibits the transfer of personal data to non-EU countries that do not provide an “adequate” level of privacy protection. Safe Harbor certification permits a “certified” entity to transfer personal data from the EU to the United States in accordance with the EU Directive. 
 
-ebizQ clearly delineates its Gold Club Content from other content with a gold colored coin. ebizQ reserves the right to share your contact information with the content providers and sponsors of its Gold Club content. ebizQ will only share your contact details with the provider or sponsor of the Gold Club content you access. By accessing Gold Club content, you are expressly authorizing ebizQ to share your contact details with the provider of that content, when ebizQ deems it appropriate. When this information is shared, it may be used solely by the provider or sponsor for marketing its own products and services (via telephone, email, and postal mail), and such information will not be sold or disclosed to any third party at any time or in any form whatsoever. 
+[](https://safeharbor.export.gov/list.aspx) [TechTarget’s EU Safe Harbor Privacy Policy](https://web.archive.org/web/20110425154747id_/http://www.techtarget.com/downloads/clientresources/ttgt_eu_safeharbor_privacy_policy.pdf) describes the manner in which TechTarget adheres to the seven Safe Harbor principles of Notice, Choice, Onward Transfer, Access, Security, Data Integrity and Enforcement. 
 
-**Live Events**
+Privacy Policy Details
 
-ebizQ produces free live webinars on important topics in business integration. Attendance to live events and access to recent event archives is available only to Gold Club members. ebizQ will notify you about the availability of this content on the ebizQ.net Web site, the ebizQ Integration Conference, and in e-mail messages. These events are often sponsored. By registering for an event, attending an event, or accessing an archived event, you are consenting to ebizQ providing your personal information to the event sponsor. If you register for an event, the event sponsor may send you, or phone you with, information about their products and services.
+  * Key Definitions
+  * This Privacy Policy Does Not Apply To Third Party Websites
+  * What Information Do We Collect?
+  * Use and Disclosure of the Information We Collect
+  * How Can You Opt Out of Use and Disclosure of Your Information?
+  * Security
+  * Access and Updating of Information
+  * General 
+  * Enforcement
 
-**Vendor Showcase**
 
-The ebizQ Vendor Showcase contains virtual tradeshow booths and vendor listing pages where vendors display their business integration products and services. Inside you can download white papers, read company and product information, and watch demonstration videos. When you download information from their booth or listing, request additional information from the vendor, or participate in a giveaway or survey, you are authorizing ebizQ to share your Gold Club registration information with the vendor whose booth you are visiting. 
 
-**ebizQ &A; **
+Key Definitions 
 
-ebizQ&A; is an interactive discussion forum where members of the Gold Club can interact with industry experts, members of the ebizQ faculty, and share best practices with one another. Posting in the discussion forums allows other Gold Club members to see your username and email address. You can edit this setting to provide other members with additional or less personal information by clicking [here.](https://web.archive.org/forums/login.php?redirect=profile.php&mode=editprofile)
+In this Privacy Policy, we use the following key definitions (other terms are defined in the body of the Policy):
 
-**e-Mail**
+“Co-Branded Site” means a website hosted by a third party business partner of TechTarget, the content and branding of which is shared with that third party business partner under contractual obligations between TechTarget and our partner.
 
-ebizQ uses email to communicate with members of the Gold Club. When you register for the Gold Club, you can choose the e-mail messages you would like to receive from us. If at any time you would like to add or subtract an email subscription from your account, or you would like to change the email address where you receive your subscriptions, please visit the [edit profile page](https://web.archive.org/goldclub/edit_profile.php) to manage your account. You can also send us an email at [support@ebizq.net](mailto:support@ebizq.net). Please allow up to 48 business hours for any changes to take effect.
+“Content” means a white paper, analyst report, webcast, videocast, newsletter, software demo or other document or media presentation that is linked to or displayed on a Site.
 
-**Cookies**
+“Content Sponsor” means a third party that owns or sponsors Content on the Site(s).  
 
-Cookies (small pieces of information that are stored by your browser on your computer's hard drive) enable us to provide you with certain features, such as retaining your log-in information so you don't need to log in with each visit. We also use cookies to compile statistical information regarding site usage. You must have cookies and JavaScript enabled on your system in order to use the ebizQ Integration Conference live events and exhibition hall.
 
-**Sponsors and Advertisers**
+“Member” means a User that (i) registers on one of the Sites to become a member of that Site, (ii) subscribes to a newsletter on one of the Sites or (iii) registers to requests demos, brochures or other product information on or from a Site.   
 
-Our sites contain links to Web sites outside the control of ebizQ. We encourage all of our partners to implement policies and practices that respect the privacy of users. However, ebizQ is not responsible for the privacy practices or content of linked Web sites. ebizQ shall have no liability whatsoever arising from any practices by sponsors or exhibitors outside of our control.
 
-Please note that we review our privacy practices from time to time, and that such practices are subject to change. We ask that our visitors, whether Gold Club members or not, review this page to ensure they understand the most current version of our privacy statement. If you have any questions please contact us at [privacy@ebizQ.net](mailto:privacy@ebizQ.net)
+“Member Information” means information which you provide which may include, but shall not be limited to: your name and corporate title, the name of your company and the department in which you work, your industry group, country, zip code, telephone number, information about software or hardware your company is using, plans your company may have to purchase additional information technology, as well as (i) any Supplemental Information (as defined below) and (ii) Clickstream Data (as defined below) which the Company collects.   
 
-  * Subscribe
-  * Contribute 
 
+“Sites” “TechTarget Site” or “Websites” means the network of websites owned and operated by TechTarget, including bitpipe.com, knowledgestorm.com and the TechnologyGuide.com sites. For purposes hereof, Co-Branded Sites shall be included in the definition of “Sites” and “Websites” except as expressly otherwise provided for herein.  
 
 
-ebizQ is very interested in what you have to say. To contribute an article, an opinion, or to become a blogger, please contact [Editorial Team](https://web.archive.org/company/feedback_form.html).
+“Sponsored Content” means Content available through the Site(s) and owned or sponsored by a third party.   
 
-  * Virtual Conferences
-  * Webinars
-  * Roundtables
 
+“Tracking Technology” means Cookies, Clear GIFs, serving tracking technologies or other technology solutions performing similar functions that are used by TechTarget.   
 
 
-### BPM in Action
+“User” or “you” means any person viewing any page of any of the Sites.
 
-June 23, 2010
+  
+This Privacy Policy Does Not Apply To Third Party Websites
 
-**Business Process Management (BPM) is hitting its stride in 2010.**  
-Many enterprises who are investing in BPM are experiencing significant improvements in business operations, agility and overall business performance. But BPM doesn't operate in a vacuum. There are several related technologies that are converging with BPM to accelerate the business value that can be realized. [Register](http://www.ebizq.net/eventsv2/bpminaction2010.html)
+Some Sponsored Content made available through the Sites is maintained on the website of the Content Sponsor, and not on a TechTarget Site. This means that when you are on a TechTarget Site and click through to that Sponsored Content, you may be leaving the TechTarget Site and, in some cases, will be redirected to the site of the Content Sponsor and subject to the policies of that Content Sponsor. TechTarget Sites also feature ads from third parties (“Advertisers”); when you click on an ad, you will be leaving the TechTarget network of Sites and will be redirected to the Advertiser’s site and subject to the policies of that Advertiser. It should be clear to you when either of these site transfers occur as the “look and feel” of your web page will change, and the URL will no longer refer to the url of a TechTarget Site. This Privacy Policy does not govern the use of, or disclosure of any information you choose to disclose to the Advertiser or Content Sponsor on, the Advertiser or Content Sponsor site.
 
-[View All Virtual Conferences](https://web.archive.org/eventsv2/conferences.html)
+  
+What Information Do We Collect?  
 
-Date: **Jun 09, 2010**   
-Time: **14:30 PM ET- (18:30 GMT) **
 
-[REGISTER TODAY!](http://www.ebizq.net/webinars/12729.html#register)
+**Member Information:** TechTarget’s primary goal in collecting Member Information is to provide you with the best and most useful content and services, and to offer you opportunities to obtain other products and services from us and our partners. Because we derive revenue mainly from advertising, collecting information is essential to keeping our services available to users. We collect Member Information when you provide it to us through the following: when you register on one of our Sites, subscribe to an e-mail newsletter, register for one of our events or register to request certain Content or through surveys, as well as when you register to receive a demonstration or “test-drive” software products. Several of the services that we offer on our Sites may require registration as a condition of use. Once you register with one of the TechTarget Sites, you are no longer anonymous to us. Additionally, we collect Clickstream Data, which becomes part of your Member Information.  
 
-### Best Practices in Moving Processes to the Clouds
 
-Date: **Apr 07, 2010**   
-Time: **13:00 PM ET- (17:00 GMT) **
+**Clickstream Data:** When you access a Site, a small file called a “cookie” is placed on your hard drive. If you register as a Member, TechTarget will use cookies to authenticate your identity when you visit the Sites, collect the data generated in connection with your clickstream activity on the Sites (“Clickstream Data”) and to personalize your user experience on the Sites, including by serving and managing ads based on your activity on the Sites. In all cases, TechTarget uses cookies to track the Clickstream Data of Members on the Sites and to obtain non-personally identifiable information from Users, such as the number of visits to the Sites that a certain User has made, the movement of the User through the Sites, and the searches that the User conducts on the Sites. Please note that TechTarget does not collect Clickstream Data on any websites other than the Sites. Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some TechTarget features and services may not be available to you if your cookies are disabled. We use electronic images known as "clear GIFs" (sometimes called "transparent GIFs", "Web bugs", “pixel tags” or "beacons") that allow us to track general user traffic patterns. TechTarget also automatically receives and records information from our servers and from your browser, including your IP address, the time, and information about the page you requested.   
 
-[REGISTER TODAY!](http://www.ebizq.net/webinars/12288.html#register)
 
-[View All Roundtables](https://web.archive.org/series/34.html)
+**Third Party Clickstream Data:** When you visit the Sites, we may also allow our third party partners to place their own cookies on your computer in order to serve you with relevant advertising online. This third party cookie may transfer non-personally identifiable information to the third party partner in order for them to track your activity when you visit the Sites and on sites outside the TechTarget network for purposes of serving you ads on topics in which you have a demonstrated interest based on your Clickstream Data; please note that we do not share Member Information with these third parties and we can only access cookies that we set on your computer, not the cookies sent to you by other companies. Also, when you leave the TechTarget network of Sites by clicking on Sponsored Content or advertising, these third parties may place cookies or clear GIFs on your computer. This Privacy Policy does not govern the use and disclosure of any information collected by third parties, such as through cookies or clear GIFs, when you visit their web sites or by third parties regarding your clickstream activity on sites other than TechTarget’s network of Sites.   
 
-  * Research Library 
-  * Podcasts 
-  * News 
 
+**Event Registration Information:** When you register on a Site to attend a TechTarget in person event, the registration form requires Users to provide information such as your name and corporate title, company name, address, telephone, email address and/or additional information, including information about software or hardware your company is using, plans your company may have to purchase additional information technology, etc. (“Event Registration Information”).   
 
 
-### Joe McKendrick: Part II of II: Designing Evolve-ability into SOA and IT Systems
+**Third Party Personal Information:** The Sites include an “email a friend” feature, which allows a User to email Content to a third party; we only use the email address of that person for purposes of emailing that Content to that person.  
 
-In part two of Joe McKendrick's recent podcast with Miko Matsumura, chief strategist for Software AG, they talk about how SOA and IT systems need to change and grow and adapt with the organization around it.
 
-[Listen Now](http://www.ebizq.net/blogs/soainaction/2009/05/soas_human_factor.php)
+**Software Demo/Brochure Registration Information:** Some of the Sites offer downloads of free demonstration software and brochures for multiple software solutions. Once a User registers to receive a demo or brochure, their registration information is shared with vendors and/or resellers of those software solutions. This information is forwarded to the vendor and/or reseller so that the User can receive additional information on products or services from that vendor and/or reseller. Additionally, this registration information may also be provided to vendors and/or resellers of similar solutions.  
 
-### Phil Wainewright: Helping Brands Engage with Social Media
 
-Phil Wainewright interviews David Vap, VP of products at RightNow Technologies, and finds out how sharing best practices can help businesses understand how best to engage with online communities. 
+**User Generated Content:** Some Sites feature user generated content in the form of a user review section or forum communities. In order to interact in these forums, a User must first complete the applicable registration form and, in some case, terms of service for the Site. The information provided by the User may be displayed in the User's public profile in our forums and can be viewed by all visitors to this Site. However, to ensure total privacy of our Users, we do not display any User e-mail addresses.   
 
-[Listen Now](http://www.ebizq.net/blogs/connectedweb/2009/05/helping_brands_engage_with_soc.php)
 
-### Peter Schooff: Making Every IT Dollar Result in a Desired Business Outcome: Scott Hebner of IBM Rati
+**Supplementary Information:** TechTarget may supplement Member Information with information about a Member that is publicly available or that is made available by third parties through paid subscriptions. For example, if a Member provides the name of the company for whom she works, we may obtain information showing the number of employees and estimated annual turnover for that company. This information is called “Supplementary Information” and, once added to Member Information, is deemed to be included in that definition.   
 
-Scott Hebner, Vice President of Marketing and Strategy for IBM Rational, discusses a topic on the top of every company's mind today: getting the most from IT investments. 
 
-[Listen Now](http://www.ebizq.net/blogs/2009/05/every_it_dollar_should_result.php)
+**User System Information:** TechTarget’s webcast application provides a system test that determines whether you can view a webcast from your computer. This information is used to optimize the viewing experience and to troubleshoot webcast viewing problems. We do not collect or retain personally identifiable information in conducting these tests.   
 
-### Jessica Ann Mola: Where Will BI Fit In? Lyndsay Wise Explains
 
-In BI, this tough economy and the increasing role of Web 2.0 and MDM are certainly topics on people's minds today. WiseAnalytics' Lyndsay Wise addresses each of them in this informative podcast.
+**Transaction Information:** When you order paid Sponsored Content from the Sites or register to attend a paid in-person event on the Sites, we ask you to complete an order form that requests certain information from you, including a credit card number and expiration date and general contact details.
 
-[Listen Now](http://www.ebizq.net/blogs/2009/05/where_will_bi_fit_in_lyndsay_w.php)
+  
+Use and Disclosure of Information We Collect  
 
-### Dennis Byron: Talking with...Deepak Singh of BPM Provider Adeptia
 
-Deepak Singh, President and CTO of Adeptia, joins ebizQ's Dennis Byron in a podcast that gets its hand around the trend of industry-specific BPM.
+**Member Information:** The Content Sponsors make the Sponsored Content available through TechTarget in return for receiving the Member Information of Users who request their Sponsored Content. Accordingly, if you request Sponsored Content, TechTarget may disclose your Member Information to the Content Sponsor, as set forth in more detail below. **If you do not want this information disclosed to a Content Sponsor, do not request Sponsored Content.** TechTarget’s customer agreements with the Content Sponsors: (a) provide that the Content Sponsor may use this information to contact you via common methods of communication; and (b) prohibit disclosure of the information to any third party other than agents of the Content Sponsor for the permitted marketing purposes set forth above. You should contact the Content Sponsor directly if you have any questions about their use of this information. We use Member Information to deliver email newsletters on topics of interest to Members who have requested those services. We may also send general promotional and marketing materials to our Members, including marketing research surveys. TechTarget, in some cases utilizing a third party provider, deploys surveys and incentives. We use Member Information in aggregated form to understand our customer base and to market our services to our customers.  
 
-[Listen Now](http://www.ebizq.net/blogs/bpminaction/2009/04/talking_with_deepak_singh_of_b.php)
 
-[More Podcasts](https://web.archive.org/podcasts)
+Except as set forth in this Privacy Policy, TechTarget will not disclose Member Information to any third parties, unless we are required to do so by law, regulation or court order.  
 
-  * Most Popular
-  * Quick Guide 
-  * Most Discussed 
 
+**Clickstream Data:** TechTarget uses Cookies to link Members to their Member Information, which allows our system to confirm a user's identity on the Sites and save and recognize Member log-in information so that Members do not have to log in each time they visit the Sites or request Sponsored Content. Also, TechTarget uses Cookies to collect Clickstream Data on the Sites. We use Tracking Technologies for a variety of purposes, including, but not limited to:
 
+  * Help us recognize your computer as a previous visitor, and save and remember any preferences that may have been set while you were visiting one of our Web Sites or a Co-Branded Site.
+  * Track, accumulate and report information on our Sites and Content usage to our partners and customers so that they can measure the effectiveness of advertisements and content viewed on the Web Sites;
+  * Help us customize the content and advertisements you are shown while visiting our Web Sites and potentially other web sites online; 
+  * Determine which features Users like best to help us improve our Content and Sites, personalize your user experience, and measure overall Site effectiveness; and
+  * Disclose aggregated information as detailed below.
 
-### Quick Guide: What is BPM?
 
-[Learn More](http://www.ebizq.net/topics/bpm/features/9744.html)
 
-### Quick Guide: What is Event Processing?
+  
+**Co-Branded Websites:** Member Information collected when you register or log in on a Co-Branded Site, and Clickstream Data collected when on the Co-Branded Site, are generally available both to TechTarget and that partner. However, each partner's use of that Member Information is governed by that partner's privacy policy and may be used for follow up by telephone, email or other common methods. You should contact these partners directly if you have any questions about their use of this information.   
 
-Smart event processing can help your company run smarter and faster. This comprehensive guide helps you research the basics of complex event processing (CEP) and learn how to get started on the right foot with your CEP project using EDA, RFID, SOA, SCADA and other relevant technologies. [Learn More](http://www.ebizq.net/topics/cep/features/9313.html)
 
-### Quick Guide: What is Enterprise 2.0?
+**Disclosure of Aggregated Information:** We provide summary reports to our Content Sponsors, based on our analysis of Clickstream Data, which may include a description of your level of activity on our Sites related to a Sponsor’s Content or campaign. An example of the type of information included in a summary report is "3000 people looked at your white paper this week and, of those 3,000 people, 60% clicked through to read the full white paper." This information is aggregated and does not disclose any Member Information to the Content Sponsors. TechTarget also discloses aggregated user statistics (for example, 25% of our users are interested in Networking) in order to describe our services to prospective customers and partners and other third parties, and for other lawful purposes.  
 
-A lot of people are talking about Enterprise 2.0 as being the business application of Web 2.0 technology. However, there's still some debate on exactly what this technology entails, how it applies to today's business models, and which components bring true value. Some use the term Enterprise 2.0 exclusively to describe the use of social networking technologies in the enterprise, while others use it to describe a web economy platform, or the technological framework behind such a platform. Still others say that Enterprise 2.0 is all of these things. [Learn More](http://www.ebizq.net/topics/web_services/features/9124.html)
+
+**TechTarget Event Registration Information:** When you register to attend a vendor-sponsored TechTarget in person event (including Conferences, Custom Media events and Editorial events), your contact information is used to confirm registrations and send product information and promotional material from TechTarget and the event sponsors (information may also be used to compile broad demographic information). TechTarget may disclose your Event Registration Information to those vendors sponsoring the event. Such vendor’s use of your Event Registration Information is governed by that vendor’s privacy policy.   
+
+
+**Transaction Information:** We use this information to complete the transaction that you have requested, i.e. to deliver information, products or other services that you order and to invoice you. We do not store your credit card information. If you order paid Sponsored Content, we may disclose your Member Information to the Content Sponsor. In addition, we may disclose your name, address and transaction information to agents such as couriers and fulfillment companies in order to effect the transaction and send you the Sponsored Content you have ordered, and we will provide your credit card details only to the relevant bank or credit card company in order to complete the transaction. 
+
+  
+How Can You Opt Out of Use and Disclosure of Your Information?  
+
+
+TechTarget will only use your Member Information for the purposes described in this Privacy Policy or as subsequently authorized by you in writing. You can avoid having your Member Information and Clickstream Data disclosed to Content Sponsors by not requesting their content or by not registering to attend an event. TechTarget operates on the basis that Users can request Sponsored Content and apply to events in return for having the above information provided to the Content Sponsor or Event Sponsor. **If you do not want your information disclosed in this way, you must not request Sponsored Content or register to attend TechTarget events.  
+**
+
+If you do not wish to participate in market research surveys, simply opt-out of any survey email you receive.  
+
+
+Following the registration process, we also allow Users the option to opt-out of receiving emails from TechTarget. Users who opt-in may also remove themselves from emailing lists at any time through the edit profile pages or by following the instructions at the end of any email they received from TechTarget.  
+
+
+If you do not want to receive future communications from TechTarget, please contact us at [webmaster@techtarget.com](mailto:webmaster@techtarget.com) and we will deactivate your membership.  
+
+
+**Member Information provided to us by you is, however, subject to disclosure pursuant to applicable laws.**
+
+  
+Security  
+
+
+TechTarget has implemented reasonable security measures to protect information from loss, misuse and unauthorized access, disclosure, alteration or destruction. Our security systems include authenticated access to internal databases, audits of procedures, and regular reviews of overall Web security.
+
+  
+Access and Updating of Information
+
+The instructions to review, amend, or delete your information may be found in the edit profile area on any of our sites. Users may change information at any time and as often as necessary. Users who are experiencing problems with our services or who have questions about how our services work can contact us by sending an email to: [webmaster@techtarget.com](mailto:webmaster@techtarget.com).
+
+  
+General  
+
+
+**Registration Password:** Your Member Information is password-protected to control access to this profile information by third parties. We recommend that you do not divulge your password to anyone. TechTarget never asks for passwords in unsolicited phone calls or unsolicited emails.  
+
+
+**Links:** The network of TechTarget Sites contains links to other Web sites. TechTarget is not responsible for the privacy practices or the content of those sites. Users should be aware of this when they leave our Sites and review the privacy statements of each Web site they visit that collects information. This Privacy Policy applies solely to information collected by the TechTarget network of Sites.
+
+**Business Transfers:** We are always seeking to improve our network of Web sites and our business. If all or part of TechTarget is sold, merged or otherwise transferred to another entity, the Member Information and Clickstream Data may be transferred as part of that transaction. 
+
+**Amendments:** TechTarget may modify or amend this policy from time to time. If we make any material changes in the way in which your Member Information is collected, used or transferred, we will notify you of these changes on our Site(s). If you object to any of the changes, you can have us delete your information from our database by contacting [webmaster@techtarget.com](mailto:webmaster@techtarget.com).   
+
+
+**Options:** Users who would rather not provide any of the user data requested by our registration process do not need to register with us. You can still view much of the content and use many of the services offered by our Sites without registering.
+
+  
+**Note:** If you choose not to provide certain Member Information when registering for a site, certain products or services may not be available to you.
+
+  
+Enforcement  
+
+
+If you believe that TechTarget has not complied with this Privacy Policy, or if you have any other complaint with regard to collection, use or disclosure of information by TechTarget, you may send a written notice of complaint to:  
+
+
+TechTarget, Inc.  
+275 Grove St.  
+Newton, MA 02466  
+Attention: Member Services  
+Fax: (617) 431-9205   
+E-mail: [webmaster@techtarget.com  
+](mailto:webmaster@techtarget.com)
+
+TechTarget will investigate your complaint and respond to you promptly.   
+
