@@ -1,315 +1,251 @@
-<!--The following is the downloaded HTML source of the onthehouse.com.au privacy policy that was archived on 2010-05-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100524165757id_/http%3A//www.onthehouse.com.au/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the onthehouse.com.au privacy policy that was archived on 2011-05-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110525074409id_/http%3A//www.onthehouse.com.au/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
-<!-- Server: WEB4-->
+<!-- Server: WEB3-->
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
 <meta http-equiv="Pragma" content="no-cache">
 <meta http-equiv="Cache-Control" content="no-cache">
 <meta http-equiv="Pragma-directive" content="no-cache">
 <meta http-equiv="Expires" content="0">
-<meta http-equiv="X-UA-Compatible" content="IE=7">
-<meta name="description" content="onthehouse has everything you need in real estate.  With our combination of free real estate agent listings, private sale capability and free property sales figures we've got the market covered.  All the property information you require is all here in one convenient location.">
-<meta name="keywords" content="Auction results, for sale by owner, free house prices, free property information, property report, property valuation, fsbo, fsbo listing, fsbo listings, house price, house prices, houses for sale by owner, private sale, private house sale, property information, property report, property valuation, real estate price, your house price, real estate, property, Australia, qld, nsw, act, vic, tas, sa, wa, nt, queensland, new south wales, Australian capital territory, Tasmania, south Australia, western Australia, northern territory">
+<meta name="description" content="onthehouse has everything you need in real estate.  With our combination of free real estate agent listings, free property sales figures we've got the market covered.  All the property information you require is all here in one convenient location.">
+<meta name="keywords" content="Auction results, free house prices, free property information, property report, property valuation, house price, house prices, property information, property report, property valuation, real estate price, your house price, real estate, property, Australia, qld, nsw, act, vic, tas, sa, wa, nt, queensland, new south wales, Australian capital territory, Tasmania, south Australia, western Australia, northern territory">
 <meta name="author" content="onthehouse.com.au Pty Ltd">
 <title>Privacy Policy - onthehouse.com.au</title>
-<script type="text/javascript" src="/js/sorttable/sorttable.v3.4.js"></script>
- <script type="text/javascript" src="http://medrx.sensis.com.au/images/sensis/onthehouse/Util.js"></script>
-			<script type="text/javascript">
-			if (typeof(MediaSmart)!='undefined') MediaSmart.Utilities.initialise({
-area: "HOME"	
-});
-</script>   <link rel="stylesheet" type="text/css" href="/css/styles.v3.4.css">
-<script src="/js/common.v3.4.js" type="text/javascript"></script>
-<script src="/js/form_validation.v3.4.js" type="text/javascript"></script>
+<script type="text/javascript" src="/js/sorttable/sorttable.v4.3.js"></script>
+   <link rel="stylesheet" type="text/css" href="/css/styles.v4.3.css">
+<script src="/js/common.v4.3.js" type="text/javascript"></script>
+<script src="/js/form_validation.v4.3.js" type="text/javascript"></script>
 <script src="http://ajax.googleapis.com/ajax/libs/prototype/1.6.0.3/prototype.js" type="text/javascript"></script>
 <script src="http://ajax.googleapis.com/ajax/libs/scriptaculous/1.8.2/scriptaculous.js" type="text/javascript"></script>
-<script type="text/javascript" src="/js/masks.v3.4.js"></script>
-<script type="text/javascript" src="/js/property_v2.v3.4.js"></script>
-<script type="text/javascript" src="/js/buy.v3.4.js"></script>
-<script type="text/javascript" src="/js/suburb_lookup.v3.4.js"></script>
-<script type="text/javascript" src="/js/suburb_region.v3.4.js"></script>
-<script type="text/javascript">function checkSearchForm()
-		{
-			var suburb = $('Suburb');
-			if(suburb.value > '')
-				return true;
-			var suburbs = $('Suburbs');
-			if(suburbs.value > '')
-				return true;
-			alert('You must enter a suburb to start your search');
-			return false;
-		}
-		function selectSearchType(type)
-		{
-			type = type.toLowerCase();
-
-			var priceFrom = document.getElementById('PriceLeft');
-			var priceTo = document.getElementById('PriceRight');
-			var surroundingSuburbs = document.getElementById('SurroundingSuburbs');
-			priceFrom.options.length = 0;
-			priceTo.options.length = 0;
-			if(type=='for_rent')
-			{
-				surroundingSuburbs.checked= true;
-				$('listing_pin_agent_rent').className = 'rounded_box darkgrey_on_white';
-				$('listing_pin_private_rent').className = 'rounded_box darkgrey_on_white';
-				$('listing_pin_rented').className = 'rounded_box darkgrey_on_white';
-				$('listing_pin_agent').className = 'rounded_box grey_on_white';
-				$('listing_pin_private').className = 'rounded_box grey_on_white';
-				$('listing_pin_sold').className = 'rounded_box grey_on_white';
-				$('HomePageSearchForm').action = '/rent/results/map';
-		
-				priceFrom.options[0] = new Option('Any','',false,false);
-				priceTo.options[0] = new Option('Any','',false,false);
-				priceFrom.options[1] = new Option('$50','50',false,false);
-				priceTo.options[1] = new Option('$50','50',false,false);
-				priceFrom.options[2] = new Option('$100','100',false,false);
-				priceTo.options[2] = new Option('$100','100',false,false);
-				priceFrom.options[3] = new Option('$150','150',false,false);
-				priceTo.options[3] = new Option('$150','150',false,false);
-				priceFrom.options[4] = new Option('$200','200',false,false);
-				priceTo.options[4] = new Option('$200','200',false,false);
-				priceFrom.options[5] = new Option('$250','250',false,false);
-				priceTo.options[5] = new Option('$250','250',false,false);
-				priceFrom.options[6] = new Option('$300','300',false,false);
-				priceTo.options[6] = new Option('$300','300',false,false);
-				priceFrom.options[7] = new Option('$350','350',false,false);
-				priceTo.options[7] = new Option('$350','350',false,false);
-				priceFrom.options[8] = new Option('$400','400',false,false);
-				priceTo.options[8] = new Option('$400','400',false,false);
-				priceFrom.options[9] = new Option('$450','450',false,false);
-				priceTo.options[9] = new Option('$450','450',false,false);
-				priceFrom.options[10] = new Option('$500','500',false,false);
-				priceTo.options[10] = new Option('$500','500',false,false);
-				priceFrom.options[11] = new Option('$600','600',false,false);
-				priceTo.options[11] = new Option('$600','600',false,false);
-				priceFrom.options[12] = new Option('$700','700',false,false);
-				priceTo.options[12] = new Option('$700','700',false,false);
-				priceFrom.options[13] = new Option('$800','800',false,false);
-				priceTo.options[13] = new Option('$800','800',false,false);
-				priceFrom.options[14] = new Option('$900','900',false,false);
-				priceTo.options[14] = new Option('$900','900',false,false);
-				priceFrom.options[15] = new Option('$1,000','1000',false,false);
-				priceTo.options[15] = new Option('$1,000','1000',false,false);
-			}
-			else
-			{
-				surroundingSuburbs.checked= false;
-				$('listing_pin_agent_rent').className = 'rounded_box grey_on_white';
-				$('listing_pin_private_rent').className = 'rounded_box grey_on_white';
-				$('listing_pin_rented').className = 'rounded_box grey_on_white';
-				$('listing_pin_agent').className = 'rounded_box darkgrey_on_white';
-				$('listing_pin_private').className = 'rounded_box darkgrey_on_white';
-				$('listing_pin_sold').className = 'rounded_box darkgrey_on_white';
-				$('HomePageSearchForm').action = '/buy/results/map';
-		
-				priceFrom.options[0] = new Option('Any','',false,false);
-				priceTo.options[0] = new Option('Any','',false,false);
-				priceFrom.options[1] = new Option('$50,000','50000',false,false);
-				priceTo.options[1] = new Option('$50,000','50000',false,false);
-				priceFrom.options[2] = new Option('$100,000','100000',false,false);
-				priceTo.options[2] = new Option('$100,000','100000',false,false);
-				priceFrom.options[3] = new Option('$150,000','150000',false,false);
-				priceTo.options[3] = new Option('$150,000','150000',false,false);
-				priceFrom.options[4] = new Option('$200,000','200000',false,false);
-				priceTo.options[4] = new Option('$200,000','200000',false,false);
-				priceFrom.options[5] = new Option('$250,000','250000',false,false);
-				priceTo.options[5] = new Option('$250,000','250000',false,false);
-				priceFrom.options[6] = new Option('$300,000','300000',false,false);
-				priceTo.options[6] = new Option('$300,000','300000',false,false);
-				priceFrom.options[7] = new Option('$350,000','350000',false,false);
-				priceTo.options[7] = new Option('$350,000','350000',false,false);
-				priceFrom.options[8] = new Option('$400,000','400000',false,false);
-				priceTo.options[8] = new Option('$400,000','400000',false,false);
-				priceFrom.options[9] = new Option('$450,000','450000',false,false);
-				priceTo.options[9] = new Option('$450,000','450000',false,false);
-				priceFrom.options[10] = new Option('$500,000','500000',false,false);
-				priceTo.options[10] = new Option('$500,000','500000',false,false);
-				priceFrom.options[11] = new Option('$550,000','550000',false,false);
-				priceTo.options[11] = new Option('$550,000','550000',false,false);
-				priceFrom.options[12] = new Option('$600,000','600000',false,false);
-				priceTo.options[12] = new Option('$600,000','600000',false,false);
-				priceFrom.options[13] = new Option('$650,000','650000',false,false);
-				priceTo.options[13] = new Option('$650,000','650000',false,false);
-				priceFrom.options[14] = new Option('$700,000','700000',false,false);
-				priceTo.options[14] = new Option('$700,000','700000',false,false);
-				priceFrom.options[15] = new Option('$750,000','750000',false,false);
-				priceTo.options[15] = new Option('$750,000','750000',false,false);
-				priceFrom.options[16] = new Option('$800,000','800000',false,false);
-				priceTo.options[16] = new Option('$800,000','800000',false,false);
-				priceFrom.options[17] = new Option('$850,000','850000',false,false);
-				priceTo.options[17] = new Option('$850,000','850000',false,false);
-				priceFrom.options[18] = new Option('$900,000','900000',false,false);
-				priceTo.options[18] = new Option('$900,000','900000',false,false);
-				priceFrom.options[19] = new Option('$950,000','950000',false,false);
-				priceTo.options[19] = new Option('$950,000','950000',false,false);
-				priceFrom.options[20] = new Option('$1 mill','1000000',false,false);
-				priceTo.options[20] = new Option('$1 mill','1000000',false,false);
-				priceFrom.options[21] = new Option('$2 mill','2000000',false,false);
-				priceTo.options[21] = new Option('$2 mill','2000000',false,false);
-				priceFrom.options[22] = new Option('$3 mill','3000000',false,false);
-				priceTo.options[22] = new Option('$3 mill','3000000',false,false);
-				priceFrom.options[23] = new Option('$4 mill','4000000',false,false);
-				priceTo.options[23] = new Option('$4 mill','4000000',false,false);
-				priceFrom.options[24] = new Option('$5 mill','5000000',false,false);
-				priceTo.options[24] = new Option('$5 mill','5000000',false,false);
-			}
-			priceFrom.options[0].selected = true;
-			priceTo.options[priceTo.options.length-1].selected=true;
-		}
-		</script><link rel="stylesheet" type="text/css" href="/css/homepage.v3.4.css">
-<link rel="stylesheet" type="text/css" href="/css/rex.v3.4.css">
-<link rel="stylesheet" type="text/css" href="/css/print.v3.4.css" media="print">
-<!--[if lt IE 8]><link rel='stylesheet' type='text/css' href='/css/ie.v3.4.css' />
-<![endif]-->
-<link rel="stylesheet" type="text/css" href="/css/print_homepage.v3.4.css" media="print">
+<script src="/js/jquery.v4.3.js" type="text/javascript"></script>
+<script src="/js/jquery.tipsy.v4.3.js" type="text/javascript"></script>
+<script src="/js/jquery.ui.v4.3.js" type="text/javascript"></script>
+<script type="text/javascript"><!--
+	var $j = jQuery.noConflict();
+// --></script>
+<script src="/js/tooltips.v4.3.js" type="text/javascript"></script>
+<script src="/js/suburb_lookup.v4.3.js" type="text/javascript"></script>
+<!--[if lt IE 7]><script src="/js/jquery.ui.ie6.v4.3.js" type="text/javascript"></script><![endif]-->
+<script type="text/javascript" src="/js/suburb_region.v4.3.js"></script>
+<script type="text/javascript" src="/js/home.v4.3.js"></script>
+<link rel="stylesheet" type="text/css" href="/css/homepage.v4.3.css">
+<link rel="stylesheet" type="text/css" href="/css/rex.v4.3.css">
+<link rel="stylesheet" type="text/css" href="/css/jqueryui.css">
+<link rel="stylesheet" type="text/css" href="/css/print.v4.3.css" media="print">
+<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/css/ie.v4.3.css" /><![endif]-->
 </head>
-<body id="page_body" onload="  if (typeof(MediaSmart)!='undefined') MediaSmart.insertAllAds();    LoadFlashMap('');" onunload="">
+<body id="page_body" onload="   " onunload="">
 <div id="container">
 <!-- page header //-->
 <div id="page_header">
 <img src="/images/page_logo_print.png" alt="Printing Logo" id="page_print_logo">
 <div id="logo_branding"><a href="http://www.onthehouse.com.au/home/" id="page_logo" title="Home">
-</a><p id="tagline">Cover the whole market</p></div><div id="top_banner_ad"><script type="text/javascript">
-		if (typeof(MediaSmart)!='undefined') MediaSmart.newAd({
-id: "728X90_1",
-width: 728,
-height: 90,
-position: 1
-});
-</script>
+</a><p id="tagline">Cover the whole market</p></div><div id="top_banner_ad">&nbsp;</div>
+<div class="reset"></div>
 </div>
-<div class="reset">&nbsp;</div>
-</div>
-<div class="reset">&nbsp;</div>
+<div class="reset"></div>
 <!-- page menus //-->
 <div id="page_menus">
-<div id="member_login">
-<div id="login_prompt">login</div>
-<div id="login_wrapper">
-<form action="http://www.onthehouse.com.au/home/" method="post" name="LoginForm">
+<div id="member_login"><div id="login_wrapper"><div id="close_box"><a onclick="$j('#member_login').slideUp(250); return false;">close</a></div><form action="http://www.onthehouse.com.au/home/" method="post" name="LoginForm">
 <fieldset class="fieldset_hidden">
-<input type="hidden" name="PERSIST[PHPSESSID]" value="inong6378ssjnvhjkd4hj2h335">
-
-<input type="hidden" name="PERSIST[SERVER_ID]" value="WEB4">
-
-<input type="hidden" name="PERSIST[PriceLeft]" value="">
-
-<input type="hidden" name="PERSIST[PriceRight]" value="">
-
-<input type="hidden" name="PERSIST[LandSizeLeft]" value="">
-
-<input type="hidden" name="PERSIST[LandSizeRight]" value="">
+<input type="hidden" name="PERSIST[PHPSESSID]" value="hkv67b00ado9k57s7hkgor9bf6">
 
 <input type="hidden" name="OS_DEST" value="privacy_policy">
 
-<label for="email" id="login_email_label">email</label>
-<input type="text" name="OS_LOGIN" id="email" class="LoginEmail" size="14" maxlength="255">
+<label for="email" id="login_email_label">Email</label>
+<input type="text" name="OS_LOGIN" value="" id="email" class="LoginEmail" size="14" maxlength="255">
 
-<label for="password" id="login_password_label">password</label>
+<br>
+<label for="password" id="login_password_label">Password</label>
 <input type="password" name="OS_PASSWORD" value="" id="password" class="LoginPassword" size="14" maxlength="32">
 
+<br>
 <input type="hidden" name="OS_FORM" value="Login">
-<input type="submit" name="BUTTON" value="" id="login_button">
-</fieldset>
+<input type="submit" name="BUTTON" value="Login" id="login_button">
+<a href="/my_profile/forgot_password/" class="login_forgot_password">Forgot Your Password?</a></fieldset>
 </form>
-</div>
-</div>
+</div></div>
 <ul id="main_menu">
-<li class="selected">
-<a href="http://www.onthehouse.com.au/home/" class="selected">home</a>
-</li>
-<li class="unselected">
-<a href="http://www.onthehouse.com.au/property_for_sale/" class="unselected">for sale</a>
-</li>
-<li class="unselected">
-<a href="http://www.onthehouse.com.au/property_for_rent/" class="unselected">for rent</a>
-</li>
-<li class="unselected">
-<a href="http://www.onthehouse.com.au/property_research/" class="unselected">sold prices</a>
-</li>
-<li class="unselected">
-<a href="http://www.onthehouse.com.au/list_property/" class="unselected">list property</a>
-</li>
-<li class="unselected">
-<a href="http://www.onthehouse.com.au/reports/" class="unselected">reports</a>
-</li>
-<li class="unselected">
-<a href="http://www.onthehouse.com.au/rex_home/" class="unselected">REX</a>
-</li>
-<li class="unselected">
-<a href="http://www.onthehouse.com.au/news/" class="unselected">news</a>
-</li>
-<li class="unselected">
-<a href="http://www.onthehouse.com.au/join/" class="unselected">join</a>
-</li>
+<li class="selected"><a href="/home/">home</a></li>
+<li class="unselected"><a href="/property_for_sale/">for sale</a></li>
+<li class="unselected"><a href="/property_for_rent/">for rent</a></li>
+<li class="unselected"><a href="/property_research/">sold prices</a></li>
+<li class="unselected"><a href="/property_values/">property values</a></li>
+<li class="unselected"><a href="/list_property/">list property</a></li>
+<li class="unselected"><a href="/find_agent/">find an agent</a></li>
+<li class="unselected"><a href="/reports/">reports</a></li>
+<li class="unselected"><a href="/rex_home/">REX</a></li>
+<li class="unselected"><a href="/news/">news</a></li>
 </ul>
-<div class="reset">&nbsp;</div>
+<div id="member_status">
+<div id="menu_divider">&nbsp;</div>
+<div class="main_menu_blue">
+	<ul><li><a onclick="$j('#member_login').slideDown(250); return false;">login</a></li><li class="last"><a href="/join/">join now!</a></li></ul>
+</div></div>
 </div>
 <div id="page_content" class="rounded_box grey_on_blue">
-<div id="headings_wrap"></div><div class="reset">&nbsp;</div>
-<div id="centre_content"><font color="#000000"><h1>Privacy Policy</h1><p>onthehouse.com.au ("onthehouse") respects the privacy of your personal information. onthehouse is subject to Privacy Legislation, including the National Privacy Principles ("NPPs") under the Privacy Act 1988 (Cth), The Privacy and Personal Information Protection Act (1988) and contractual requirements relating to Privacy pursuant to a number of State and Territory Government Licence Agreements. A copy of the National Privacy Principles are available for your perusal at our premises or you may access a copy from the Office of the Federal Privacy Commissioner. The following Privacy Policy outlines the type of information that is collected by onthehouse and how we use and protect that information. </p><h2>1. WHAT IS PERSONAL INFORMATION?</h2><p>Personal information is any information or an opinion, whether true or not, which identifies an individual (includes health information and sensitive information). When personal information concerns certain matters it is considered sensitive information. Sensitive information is information or opinion about an individuals:</p><ul><li>membership of a political association; </li><li>racial or ethnic origin; </li><li>health or disability; </li><li>membership of a professional or trade association or membership of a trade union; </li><li>political opinions; </li><li>religious beliefs, affiliations or philosophical beliefs; </li><li>criminal record; </li><li>sexual preferences or practices.</li></ul><h2>2. WHO DOES THIS PRIVACY POLICY APPLY TO?</h2><p>onthehouse collects personal information from a variety of sources. This privacy policy applies to the following personal information collected by onthehouse:</p><ul><li>Registration information required to utilise the sell your property facility or email alert service; </li><li>Information as requested by onthehouse to complete surveys and enter competitions; </li><li>Your IP address; </li><li>Cookies and applets;</li><li>Information sourced from State and Territory Government Land Authorities;</li><li>Information sourced from Real Estate Agents.</li></ul><p>This privacy policy does not apply to parties that may be linked or associated with our website. Those website owners are responsible for the privacy of the information they collect and should be contacted directly for details of their privacy policies.</p><h2>3. HOW ONTHEHOUSE COLLECTS PERSONAL INFORMATION</h2><p>Generally, onthehouse will collect personal information directly from you, when you deal with onthehouse online or by email. onthehouse may also collect personal information through various licence agreements with State Government providers and from information provided by Real Estate Agents.</p><p>The type of personal information that onthehouse collects depends on the circumstances of collection and on the type of service you request from onthehouse. The particular purpose for which personal information is collected by onthehouse is generally either specified or reasonably apparent at the time the information is collected. onthehouse usually collects information such as your name, address, contact number, occupation, gender, date of birth and email address. It is not onthehouse's general practice to collect sensitive information and we will only collect sensitive information with your consent.</p><h2>4. HOW ONTHEHOUSE USES PERSONAL INFORMATION </h2><p>onthehouse uses personal information for the primary purpose for which it was collected, or for secondary purposes which are related to the primary purpose. Generally, onthehouse uses personal information for the following purposes:</p><ul><li>to communicate with you; </li><li>to assist in the management and improvement of services, including analysis of future client needs; </li><li>to provide products and services that have been requested; </li><li>to identify ownership of properties advertised on our website; </li><li>to undertake marketing activities; and </li><li>to comply with any laws.</li></ul><h3>Advertisers </h3><p>If you are an advertiser on www.onthehouse.com.au your information is held confidentially in a secure (see security) database. Some of your information will be published in your advertisement, in accordance with your instructions and for the period during which your advertisement is active. Your information is only accessible for alterations by you in your capacity as advertiser or by approved onthehouse staff. It is the advertiser's responsibility to ensure that their details on the onthehouse website are current and correct. </p><p>Security &amp; Scam Alert: Do not provide your log in details to anyone in response to email or phone requests. Click here for more information. </p><h3>Browsers </h3><h3>Privately Advertised Property Enquiries</h3><p>If you have submitted your details to inquire about a privately advertised property, the information may be accessed and reviewed by authorised onthehouse staff and is passed onto the advertiser of the property. If you do not wish for your information to be passed on, please do not complete our online inquiry forms. </p><h3>Licensed Agent Advertised Properties</h3><p>When completing an online form to inquire about a property for sale from a licensed real estate agency, the information provided may be accessed and reviewed by our authorised onthehouse staff and may be passed on to the licensed real estate agency. The information that you provide is given to the licensed real estate agency to allow them to contact you in relation to the supply of information and viewing of the property. The licensed real estate agency is required to follow their own privacy guidelines with your information once received from onthehouse. If you do not wish for your information to be passed on, please do not complete our online inquiry forms. </p><h2>5. WHAT HAPPENS IF AN INDIVIDUAL DOES NOT PROVIDE PERSONAL INFORMATION</h2><p>If you do not provide the personal information onthehouse requests, it may not be able to provide you with the relevant products or services.</p><h2>6. ONTHEHOUSE MAY DISCLOSE PERSONAL INFORMATION</h2><p>onthehouse may disclose your personal information for the purpose which was either specified or reasonably apparent at the time when the information was collected. Depending on the circumstances, onthehouse may disclose personal information to:</p><ul><li>its service providers and specialist advisers; </li><li>advertisers of goods or services on the onthehouse website; </li><li>private or agent property sellers seeking to sell a property; </li><li>any person with a lawful entitlement to obtain the information;</li></ul><p>If onthehouse engages a third party contractor to perform services which involves handling personal information, the contractor will be subject to the same privacy obligations as onthehouse to protect your personal information. onthehouse will also take reasonable steps to prohibit the contractor from using personal information, except for the purposes for which it was supplied.</p><h2>7. DIRECT MARKETING AND PRIVACY</h2><p>onthehouse may periodically use the personal information it collects about you to assist identifying particular products and services which it believes may be of interest and benefit to you. onthehouse may then contact you to let you know about these products and services and how they may benefit you.</p><p>If you do not want to receive any of this information, you should contact onthehouse immediately.</p><h2>8. ACCURACY OF YOUR PERSONAL INFORMATION</h2><p>If onthehouse has accurate personal information about you, it enables onthehouse to provide the best possible service.</p><p>onthehouse will take reasonable steps to ensure that the personal information it collects, uses and discloses is accurate, complete and up to date. Please advise onthehouse as soon as possible if the personal information held is inaccurate, incomplete or out of date. onthehouse will take reasonable steps to ensure your personal information is corrected.</p><h2>9. SECURITY OF PERSONAL INFORMATION</h2><p>onthehouse will take reasonable steps to ensure your personal information is stored in a secure environment protected from unauthorised access, modification and disclosure. onthehouse uses industry standard safeguards to ensure the security of personal information through physical, electronic and managerial procedures. When onthehouse no longer requires personal information, it will safely destroy the information and delete it from its systems.</p><h2>10. ACCESS TO PERSONAL INFORMATION</h2><p>You may request access to any of the personal information onthehouse holds about you. Upon written request, onthehouse will provide you with access to the personal information it holds about you, unless there is an exemption which applies under the Privacy Act.</p><p>Your request for access will be dealt with in a reasonable time. onthehouse may charge you a fee to cover the reasonable cost of retrieval and the supply of the information to you.</p><p>If onthehouse refuses your request for access, it will provide you with reasons for the refusal.</p><h2>11. TRANSFERRING PERSONAL INFORMATION OVERSEAS</h2><p>Sometimes onthehouse will transfer information to persons outside of Australia. By giving us your personal information, you consent to the disclosure of this information.</p><h2>12. HOW TO CONTACT ONTHEHOUSE</h2><p>If you wish to gain access to or correct your personal information or make a complaint about a breach of your privacy, you should contact us.</p><p>Our contact details are available on our website: http://www.onthehouse.com.au/contact_us/ </p><p>onthehouse will respond to your query or complaint as soon as possible. <br></p><p>onthehouse reserves the right to change this Privacy Policy at any time. onthehouse will notify any changes by posting an updated version of the Privacy Policy on the website.</p></font></div><div class="reset">&nbsp;</div>
+<div id="headings_wrap"></div><div class="reset"></div>
+<div id="centre_content"><font color="#000000"><h1>Privacy Policy</h1><p>onthehouse.com.au ("onthehouse") respects the privacy of your personal information. onthehouse is subject to Privacy Legislation, including the National Privacy Principles ("NPPs") under the Privacy Act 1988 (Cth), The Privacy and Personal Information Protection Act (1988) and contractual requirements relating to Privacy pursuant to a number of State and Territory Government Licence Agreements. A copy of the National Privacy Principles are available for your perusal at our premises or you may access a copy from the Office of the Federal Privacy Commissioner. The following Privacy Policy outlines the type of information that is collected by onthehouse and how we use and protect that information. </p><h2>1. WHAT IS PERSONAL INFORMATION?</h2><p>Personal information is any information or an opinion, whether true or not, which identifies an individual (includes health information and sensitive information). When personal information concerns certain matters it is considered sensitive information. Sensitive information is information or opinion about an individuals:</p><ul><li>membership of a political association; </li><li>racial or ethnic origin; </li><li>health or disability; </li><li>membership of a professional or trade association or membership of a trade union; </li><li>political opinions; </li><li>religious beliefs, affiliations or philosophical beliefs; </li><li>criminal record; </li><li>sexual preferences or practices.</li></ul><h2>2. WHO DOES THIS PRIVACY POLICY APPLY TO?</h2><p>onthehouse collects personal information from a variety of sources. This privacy policy applies to the following personal information collected by onthehouse:</p><ul><li>Registration information required to utilise the sell your property facility or email alert service; </li><li>Information as requested by onthehouse to complete surveys and enter competitions; </li><li>Your IP address; </li><li>Cookies and applets;</li><li>Information sourced from State and Territory Government Land Authorities;</li><li>Information sourced from Real Estate Agents.</li></ul><p>This privacy policy does not apply to parties that may be linked or associated with our website. Those website owners are responsible for the privacy of the information they collect and should be contacted directly for details of their privacy policies.</p><h2>3. HOW ONTHEHOUSE COLLECTS PERSONAL INFORMATION</h2><p>Generally, onthehouse will collect personal information directly from you, when you deal with onthehouse online or by email. onthehouse may also collect personal information through various licence agreements with State Government providers and from information provided by Real Estate Agents.</p><p>The type of personal information that onthehouse collects depends on the circumstances of collection and on the type of service you request from onthehouse. The particular purpose for which personal information is collected by onthehouse is generally either specified or reasonably apparent at the time the information is collected. onthehouse usually collects information such as your name, address, contact number, occupation, gender, date of birth and email address. It is not onthehouse's general practice to collect sensitive information and we will only collect sensitive information with your consent.</p><h2>4. HOW ONTHEHOUSE USES PERSONAL INFORMATION </h2><p>onthehouse uses personal information for the primary purpose for which it was collected, or for secondary purposes which are related to the primary purpose. Generally, onthehouse uses personal information for the following purposes:</p><ul><li>to communicate with you; </li><li>to assist in the management and improvement of services, including analysis of future client needs; </li><li>to provide products and services that have been requested; </li><li>to identify ownership of properties advertised on our website; </li><li>to undertake marketing activities; and </li><li>to comply with any laws.</li></ul><h3>Advertisers </h3><p>If you are an advertiser on www.onthehouse.com.au your information is held confidentially in a secure (see security) database. Some of your information will be published in your advertisement, in accordance with your instructions and for the period during which your advertisement is active. Your information is only accessible for alterations by you in your capacity as advertiser or by approved onthehouse staff. It is the advertiser's responsibility to ensure that their details on the onthehouse website are current and correct. </p><p>Security &amp; Scam Alert: Do not provide your log in details to anyone in response to email or phone requests. Click here for more information. </p><h3>Browsers </h3><h3>Privately Advertised Property Enquiries</h3><p>If you have submitted your details to inquire about a privately advertised property, the information may be accessed and reviewed by authorised onthehouse staff and is passed onto the advertiser of the property. If you do not wish for your information to be passed on, please do not complete our online inquiry forms. </p><h3>Licensed Agent Advertised Properties</h3><p>When completing an online form to inquire about a property for sale from a licensed real estate agency, the information provided may be accessed and reviewed by our authorised onthehouse staff and may be passed on to the licensed real estate agency. The information that you provide is given to the licensed real estate agency to allow them to contact you in relation to the supply of information and viewing of the property. The licensed real estate agency is required to follow their own privacy guidelines with your information once received from onthehouse. If you do not wish for your information to be passed on, please do not complete our online inquiry forms. </p><h2>5. WHAT HAPPENS IF AN INDIVIDUAL DOES NOT PROVIDE PERSONAL INFORMATION</h2><p>If you do not provide the personal information onthehouse requests, it may not be able to provide you with the relevant products or services.</p><h2>6. ONTHEHOUSE MAY DISCLOSE PERSONAL INFORMATION</h2><p>onthehouse may disclose your personal information for the purpose which was either specified or reasonably apparent at the time when the information was collected. Depending on the circumstances, onthehouse may disclose personal information to:</p><ul><li>its service providers and specialist advisers; </li><li>advertisers of goods or services on the onthehouse website; </li><li>private or agent property sellers seeking to sell a property; </li><li>any person with a lawful entitlement to obtain the information;</li></ul><p>If onthehouse engages a third party contractor to perform services which involves handling personal information, the contractor will be subject to the same privacy obligations as onthehouse to protect your personal information. onthehouse will also take reasonable steps to prohibit the contractor from using personal information, except for the purposes for which it was supplied.</p><h2>7. DIRECT MARKETING AND PRIVACY</h2><p>onthehouse may periodically use the personal information it collects about you to assist identifying particular products and services which it believes may be of interest and benefit to you. onthehouse may then contact you to let you know about these products and services and how they may benefit you.</p><p>If you do not want to receive any of this information, you should contact onthehouse immediately.</p><h2>8. ACCURACY OF YOUR PERSONAL INFORMATION</h2><p>If onthehouse has accurate personal information about you, it enables onthehouse to provide the best possible service.</p><p>onthehouse will take reasonable steps to ensure that the personal information it collects, uses and discloses is accurate, complete and up to date. Please advise onthehouse as soon as possible if the personal information held is inaccurate, incomplete or out of date. onthehouse will take reasonable steps to ensure your personal information is corrected.</p><h2>9. SECURITY OF PERSONAL INFORMATION</h2><p>onthehouse will take reasonable steps to ensure your personal information is stored in a secure environment protected from unauthorised access, modification and disclosure. onthehouse uses industry standard safeguards to ensure the security of personal information through physical, electronic and managerial procedures. When onthehouse no longer requires personal information, it will safely destroy the information and delete it from its systems.</p><h2>10. ACCESS TO PERSONAL INFORMATION</h2><p>You may request access to any of the personal information onthehouse holds about you. Upon written request, onthehouse will provide you with access to the personal information it holds about you, unless there is an exemption which applies under the Privacy Act.</p><p>Your request for access will be dealt with in a reasonable time. onthehouse may charge you a fee to cover the reasonable cost of retrieval and the supply of the information to you.</p><p>If onthehouse refuses your request for access, it will provide you with reasons for the refusal.</p><h2>11. TRANSFERRING PERSONAL INFORMATION OVERSEAS</h2><p>Sometimes onthehouse will transfer information to persons outside of Australia. By giving us your personal information, you consent to the disclosure of this information.</p><h2>12. HOW TO CONTACT ONTHEHOUSE</h2><p>If you wish to gain access to or correct your personal information or make a complaint about a breach of your privacy, you should contact us.</p><p>Our contact details are available on our website: http://www.onthehouse.com.au/contact_us/ </p><p>onthehouse will respond to your query or complaint as soon as possible. <br></p><p>onthehouse reserves the right to change this Privacy Policy at any time. onthehouse will notify any changes by posting an updated version of the Privacy Policy on the website.</p></font></div><div class="reset"></div>
 <div class="corner bottom_left_corner"><!-- // IE  --></div><div class="corner bottom_right_corner"><!-- // IE --></div></div>
 
 <div id="end_page_div" class="rounded_box blue_on_white">
 <div id="end_page_div_bottom_left" class="corner bottom_left_corner"><!-- // IE  --></div><div id="end_page_div_bottom_right" class="corner bottom_right_corner"><!-- // IE --></div></div>
 
 <div id="page_footer">
-<div id="bottom_ads"><script type="text/javascript">
-		if (typeof(MediaSmart)!='undefined') MediaSmart.newAd({
-id: "300X250_3",
-width: 300,
-height: 250,
-position: 3
-});
-</script>
-<script type="text/javascript">
-		if (typeof(MediaSmart)!='undefined') MediaSmart.newAd({
-id: "300X250_4",
-width: 300,
-height: 250,
-position: 4
-});
-</script>
-<script type="text/javascript">
-		if (typeof(MediaSmart)!='undefined') MediaSmart.newAd({
-id: "300X250_5",
-width: 300,
-height: 250,
-position: 5
-});
-</script>
-</div><div class="reset">&nbsp;</div>
-<br><p><a class="footer_menu" href="http://www.onthehouse.com.au/home/">Home</a>
-&nbsp;&nbsp;|&nbsp;&nbsp;<a class="footer_menu" href="http://www.onthehouse.com.au/contact_us/">Contact</a>
-&nbsp;&nbsp;|&nbsp;&nbsp;<a class="footer_menu" href="http://www.onthehouse.com.au/resources/">Resources</a>
-&nbsp;&nbsp;|&nbsp;&nbsp;<a class="footer_menu" href="http://www.onthehouse.com.au/faq/">FAQ</a>
-&nbsp;&nbsp;|&nbsp;&nbsp;<a class="footer_menu" href="http://www.onthehouse.com.au/advertise/">Advertise With Us</a>
-&nbsp;&nbsp;|&nbsp;&nbsp;<a class="footer_menu" href="http://www.onthehouse.com.au/privacy_policy/">Privacy Policy</a>
-&nbsp;&nbsp;|&nbsp;&nbsp;<a class="footer_menu" href="http://www.onthehouse.com.au/terms_and_conditions/">Terms &amp; Conditions</a>
-&nbsp;&nbsp;|&nbsp;&nbsp;<a class="footer_menu" href="http://www.onthehouse.com.au/sitemap/">Sitemap</a>
+<div id="bottom_ads">&nbsp;&nbsp;&nbsp;</div><div class="reset"></div>
+<br><p class="footer_menu"><a class="footer_menu_item" href="http://www.onthehouse.com.au/home/">Home</a>
+ <span>|</span> <a class="footer_menu_item" href="http://www.onthehouse.com.au/contact_us/">Contact</a>
+ <span>|</span> <a class="footer_menu_item" href="http://www.onthehouse.com.au/faq/">FAQ</a>
+ <span>|</span> <a class="footer_menu_item" href="http://www.onthehouse.com.au/advertise/">Advertise With Us</a>
+ <span>|</span> <a class="footer_menu_item" href="http://www.onthehouse.com.au/privacy_policy/">Privacy Policy</a>
+ <span>|</span> <a class="footer_menu_item" href="http://www.onthehouse.com.au/terms_and_conditions/">Terms &amp; Conditions</a>
+ <span>|</span> <a class="footer_menu_item" href="http://www.onthehouse.com.au/sitemap/">Sitemap</a>
 </p>
-<p>Copyright © 2010 onthehouse.com.au Pty Ltd</p><p><a href="http://www.webstract.com.au">Website development</a> by <a href="http://www.webstract.com.au">Webstract</a></p>
-<br><div class="reset">&nbsp;</div>
-<br><div id="directories">
+<p class="footer_social">Follow us on <a href="http://www.facebook.com/pages/onthehousecomau/10940521346" class="social_facebook" target="_blank">Facebook</a> or <a href="http://twitter.com/onthehouse_au" class="social_twitter" target="_blank">Twitter</a> for updates, information and <span class="givemore">more</span>.</p>
+<p class="footer_copyright">Copyright © 2011 onthehouse.com.au Pty Ltd</p>
+<br><div class="reset"></div>
+<br>   <div class="reset"></div>
+<p>
+Based on information provided by and with the permission of the Western Australian Land Information Authority (2011) trading as Landgate.</p>
+<div id="directories">
 <div id="real_estate_directory">
-<h3>Real Estate Directory</h3>
-<span id="state_heading"><b>States:</b></span>
-<a href="/realestate/NSW/">New South Wales (NSW)</a>, <a href="/realestate/Vic/">Victoria (VIC)</a>, <a href="/realestate/Qld/">Queensland (QLD)</a>, <a href="/realestate/Tas/">Tasmania (TAS)</a>, <a href="/realestate/SA/">South Australia (SA)</a>, <a href="/realestate/WA/">Western Australia (WA)</a>, <a href="/realestate/NT/">Northern Territory (NT)</a>, <a href="/realestate/Act/">Australian Capital Territory (ACT)</a> <span id="capital_heading"><b>Capital Cities:</b></span>
-<a href="/realestate/NSW/sydney/">Sydney Real Estate</a>, <a href="/realestate/Vic/melbourne/">Melbourne Real Estate</a>, <a href="/realestate/Qld/brisbane/">Brisbane Real Estate</a>, <a href="/realestate/WA/perth/">Perth Real Estate</a>, <a href="/realestate/SA/adelaide/">Adelaide Real Estate</a>, <a href="/realestate/Tas/hobart/">Hobart Real Estate</a>, <a href="/realestate/Act/canberra/">Canberra Real Estate</a>, <a href="/realestate/NT/darwin/">Darwin Real Estate</a> </div>
+<h3>Property Values Directory</h3>
+<p><span id="state_heading"><b>States:</b></span>
+<a href="/property_values/NSW/">Property <acronym title="New South Wales">NSW</acronym></a>, <a href="/property_values/QLD/">Property Queensland (QLD)</a>, <a href="/property_values/Act/">Property <acronym title="Australian Capital Territory">ACT</acronym></a> <span id="capital_heading"><b>Major Cities:</b></span>
+<a href="/property_values/Sydney/NSW/">Property Sydney</a>, <a href="/property_values/Brisbane/QLD/">Property Brisbane</a>, <a href="/property_values/Gold+Coast/QLD/">Property Gold Coast</a>, <a href="/property_values/Sunshine+Coast/QLD/">Property Sunshine Coast</a> </p><h3>Real Estate Directory</h3>
+<span id="hot_suburbs"><b>Hot Suburbs:</b></span>
+<a title="Real Estate Mount Morgan" href="/realestate/QLD/Mount+Morgan/4714/">Real Estate Mount Morgan</a>, <a title="Real Estate Dalby" href="/realestate/QLD/Dalby/4405/">Real Estate Dalby</a>, <a title="Real Estate Wendouree" href="/realestate/VIC/Wendouree/3355/">Real Estate Wendouree</a>, <a title="Real Estate Lismore" href="/realestate/NSW/Lismore/2480/">Real Estate Lismore</a>, <a title="Real Estate Bowral" href="/realestate/NSW/Bowral/2576/">Real Estate Bowral</a>, <a title="Real Estate Gatton" href="/realestate/QLD/Gatton/4343/">Real Estate Gatton</a><br><span id="state_heading"><b>States:</b></span>
+<a href="/real+estate/NSW/">Real Estate <acronym title="New South Wales">NSW</acronym></a>, <a href="/real+estate/Vic/">Real Estate Victoria (VIC) </a>, <a href="/real+estate/Qld/">Real Estate Queensland (QLD)</a>, <a href="/real+estate/Tas/">Real Estate Tasmania (TAS)</a>, <a href="/real+estate/SA/">Real Estate South Australia (SA)</a>, <a href="/real+estate/WA/">Real Estate Western Australia (WA)</a>, <a href="/real+estate/NT/">Real Estate Northern Territory (NT)</a>, <a href="/real+estate/Act/">Real Estate <acronym title="Australian Capital Territory">ACT</acronym></a> <span id="capital_heading"><b>Major Cities:</b></span>
+<a href="/real+estate/NSW/sydney/">Sydney Real Estate</a>, <a href="/real+estate/Vic/melbourne/">Melbourne Real Estate</a>, <a href="/real+estate/Qld/brisbane/">Brisbane Real Estate</a>, <a href="/real+estate/Qld/Gold+Coast/">Gold Coast Real Estate</a>, <a href="/real+estate/Qld/Sunshine+Coast/">Sunshine Coast Real Estate</a>, <a href="/real+estate/WA/perth/">Perth Real Estate</a>, <a href="/real+estate/SA/adelaide/">Adelaide Real Estate</a>, <a href="/real+estate/Tas/hobart/">Hobart Real Estate</a>, <a href="/real+estate/Act/canberra/">Canberra Real Estate</a>, <a href="/real+estate/NT/darwin/">Darwin Real Estate</a> <br><span onclick="$('more_hot_suburbs').toggleClassName('NoShow');">More top suburbs</span><div id="more_hot_suburbs"><div class="hot_col"><abbr title="Queensland">Qld</abbr>
+<ul><li><a href="/real+estate/QLD/Agnes+Water/4677/">Real Estate Agnes Water</a></li>
+<li><a href="/real+estate/QLD/Bowen/4805/">Real Estate Bowen</a></li>
+<li><a href="/real+estate/QLD/Brisbane/4000/">Real Estate Brisbane</a></li>
+<li><a href="/real+estate/QLD/Broadbeach/4218/">Real Estate Broadbeach</a></li>
+<li><a href="/real+estate/QLD/Buderim/4556/">Real Estate Buderim</a></li>
+<li><a href="/real+estate/QLD/Caboolture/4510/">Real Estate Caboolture</a></li>
+<li><a href="/real+estate/QLD/Dalby/4405/">Real Estate Dalby</a></li>
+<li><a href="/real+estate/QLD/Eagle+Heights/4271/">Real Estate Eagle Heights</a></li>
+<li><a href="/real+estate/QLD/Goondiwindi/4390/">Real Estate Goondiwindi</a></li>
+<li><a href="/real+estate/QLD/Innisfail/4860/">Real Estate Innisfail</a></li>
+<li><a href="/real+estate/QLD/Kallangur/4503/">Real Estate Kallangur</a></li>
+<li><a href="/real+estate/QLD/Mareeba/4880/">Real Estate Mareeba</a></li>
+<li><a href="/real+estate/QLD/Mooloolaba/4557/">Real Estate Mooloolaba</a></li>
+<li><a href="/real+estate/QLD/Noosa+Heads/4567/">Real Estate Noosa Heads</a></li>
+<li><a href="/real+estate/QLD/Noosaville/4566/">Real Estate Noosaville</a></li>
+<li><a href="/real+estate/QLD/Port+Douglas/4877/">Real Estate Port Douglas</a></li>
+<li><a href="/real+estate/QLD/Southport/4215/">Real Estate Southport</a></li>
+<li><a href="/real+estate/QLD/Surfers+Paradise/4217/">Real Estate Surfers Paradise</a></li>
+<li><a href="/real+estate/QLD/Urangan/4655/">Real Estate Urangan</a></li>
+<li><a href="/real+estate/QLD/Yeppoon/4703/">Real Estate Yeppoon</a></li>
+<ul></ul></ul></div><div class="hot_col"><abbr title="Queensland">Qld</abbr><ul><li><a href="/real+estate/QLD/Banksia+Beach/4507/">Real Estate Banksia Beach</a></li>
+<li><a href="/real+estate/QLD/Benowa/4217/">Real Estate Benowa</a></li>
+<li><a href="/real+estate/QLD/Carrara/4211/">Real Estate Carrara</a></li>
+<li><a href="/real+estate/QLD/Coolangatta/4225/">Real Estate Coolangatta</a></li>
+<li><a href="/real+estate/QLD/Gatton/4343/">Real Estate Gatton</a></li>
+<li><a href="/real+estate/QLD/Labrador/4215/">Real Estate Labrador</a></li>
+<li><a href="/real+estate/QLD/Main+Beach/4217/">Real Estate Main Beach</a></li>
+<li><a href="/real+estate/QLD/Mount+Tamborine/4272/">Real Estate Mount Tamborine</a></li>
+<li><a href="/real+estate/QLD/Nambour/4560/">Real Estate Nambour</a></li>
+<li><a href="/real+estate/QLD/Nanango/4615/">Real Estate Nanango</a></li>
+<li><a href="/real+estate/QLD/North+Lakes/4509/">Real Estate North Lakes</a></li>
+<li><a href="/real+estate/QLD/Ormeau/4208/">Real Estate Ormeau</a></li>
+<li><a href="/real+estate/QLD/Palm+Cove/4879/">Real Estate Palm Cove</a></li>
+<li><a href="/real+estate/QLD/Peregian+Springs/4573/">Real Estate Peregian Springs</a></li>
+<li><a href="/real+estate/QLD/Redland+Bay/4165/">Real Estate Redland Bay</a></li>
+<li><a href="/real+estate/QLD/Runaway+Bay/4216/">Real Estate Runaway Bay</a></li>
+<li><a href="/real+estate/QLD/Springfield+Lakes/4300/">Real Estate Springfield Lakes</a></li>
+<li><a href="/real+estate/QLD/Tewantin/4565/">Real Estate Tewantin</a></li>
+<li><a href="/real+estate/QLD/Torquay/4655/">Real Estate Torquay</a></li>
+<li><a href="/real+estate/QLD/Wynnum/4178/">Real Estate Wynnum</a></li>
+<ul></ul></ul></div><div class="hot_col"><acroymn title="New South Wales">NSW</acroymn><ul><li><a href="/real+estate/NSW/Armidale/2350/">Real Estate Armidale</a></li>
+<li><a href="/real+estate/NSW/Bathurst/2795/">Real Estate Bathurst</a></li>
+<li><a href="/real+estate/NSW/Bowral/2576/">Real Estate Bowral</a></li>
+<li><a href="/real+estate/NSW/Byron+Bay/2481/">Real Estate Byron Bay</a></li>
+<li><a href="/real+estate/NSW/Coffs+Harbour/2450/">Real Estate Coffs Harbour</a></li>
+<li><a href="/real+estate/NSW/Deniliquin/2710/">Real Estate Deniliquin</a></li>
+<li><a href="/real+estate/NSW/Eden/2551/">Real Estate Eden</a></li>
+<li><a href="/real+estate/NSW/Forster/2428/">Real Estate Forster</a></li>
+<li><a href="/real+estate/NSW/Griffith/2680/">Real Estate Griffith</a></li>
+<li><a href="/real+estate/NSW/Inverell/2360/">Real Estate Inverell</a></li>
+<li><a href="/real+estate/NSW/Jindabyne/2627/">Real Estate Jindabyne</a></li>
+<li><a href="/real+estate/NSW/Leeton/2705/">Real Estate Leeton</a></li>
+<li><a href="/real+estate/NSW/Moss+Vale/2577/">Real Estate Moss Vale</a></li>
+<li><a href="/real+estate/NSW/Newcastle/2300/">Real Estate Newcastle</a></li>
+<li><a href="/real+estate/NSW/Orange/2800/">Real Estate Orange</a></li>
+<li><a href="/real+estate/NSW/Parkes/2870/">Real Estate Parkes</a></li>
+<li><a href="/real+estate/NSW/Port+Macquarie/2444/">Real Estate Port Macquarie</a></li>
+<li><a href="/real+estate/NSW/Sydney/2000/">Real Estate Sydney</a></li>
+<li><a href="/real+estate/NSW/Tamworth/2340/">Real Estate Tamworth</a></li>
+<li><a href="/real+estate/NSW/Tweed+Heads/2485/">Real Estate Tweed Heads</a></li>
+<ul></ul></ul></div><div class="hot_col"><acroymn title="New South Wales">NSW</acroymn><ul><li><a href="/real+estate/NSW/Ballina/2478/">Real Estate Ballina</a></li>
+<li><a href="/real+estate/NSW/Grafton/2460/">Real Estate Grafton</a></li>
+<li><a href="/real+estate/NSW/Gunnedah/2380/">Real Estate Gunnedah</a></li>
+<li><a href="/real+estate/NSW/Kempsey/2440/">Real Estate Kempsey</a></li>
+<li><a href="/real+estate/NSW/Kingscliff/2487/">Real Estate Kingscliff</a></li>
+<li><a href="/real+estate/NSW/Long+Beach/2536/">Real Estate Long Beach</a></li>
+<li><a href="/real+estate/NSW/Manly/2095/">Real Estate Manly</a></li>
+<li><a href="/real+estate/NSW/Merrylands/2160/">Real Estate Merrylands</a></li>
+<li><a href="/real+estate/NSW/Moruya/2537/">Real Estate Moruya</a></li>
+<li><a href="/real+estate/NSW/Muswellbrook/2333/">Real Estate Muswellbrook</a></li>
+<li><a href="/real+estate/NSW/Nambucca+Heads/2448/">Real Estate Nambucca Heads</a></li>
+<li><a href="/real+estate/NSW/Nelson+Bay/2315/">Real Estate Nelson Bay</a></li>
+<li><a href="/real+estate/NSW/Pyrmont/2009/">Real Estate Pyrmont</a></li>
+<li><a href="/real+estate/NSW/Queanbeyan/2620/">Real Estate Queanbeyan</a></li>
+<li><a href="/real+estate/NSW/Singleton/2330/">Real Estate Singleton</a></li>
+<li><a href="/real+estate/NSW/Strathfield/2135/">Real Estate Strathfield</a></li>
+<li><a href="/real+estate/NSW/Tenterfield/2372/">Real Estate Tenterfield</a></li>
+<li><a href="/real+estate/NSW/The+Entrance/2261/">Real Estate The Entrance</a></li>
+<li><a href="/real+estate/NSW/Wauchope/2446/">Real Estate Wauchope</a></li>
+<li><a href="/real+estate/NSW/Wingham/2429/">Real Estate Wingham</a></li>
+<ul></ul></ul></div><div class="hot_col"><abbr title="Victoria">VIC</abbr><ul><li><a href="/real+estate/VIC/Ballarat/3350/">Real Estate Ballarat</a></li>
+<li><a href="/real+estate/VIC/Bendigo/3550/">Real Estate Bendigo</a></li>
+<li><a href="/real+estate/VIC/Berwick/3806/">Real Estate Berwick</a></li>
+<li><a href="/real+estate/VIC/Brighton/3186/">Real Estate Brighton</a></li>
+<li><a href="/real+estate/VIC/Cowes/3922/">Real Estate Cowes</a></li>
+<li><a href="/real+estate/VIC/Cranbourne/3977/">Real Estate Cranbourne</a></li>
+<li><a href="/real+estate/VIC/Docklands/3008/">Real Estate Docklands</a></li>
+<li><a href="/real+estate/VIC/Geelong/3220/">Real Estate Geelong</a></li>
+<li><a href="/real+estate/VIC/Mildura/3500/">Real Estate Mildura</a></li>
+<li><a href="/real+estate/VIC/Mornington/3931/">Real Estate Mornington</a></li>
+<li><a href="/real+estate/VIC/Numurkah/3636/">Real Estate Numurkah</a></li>
+<li><a href="/real+estate/VIC/Pakenham/3810/">Real Estate Pakenham</a></li>
+<li><a href="/real+estate/VIC/Point+Cook/3030/">Real Estate Point Cook</a></li>
+<li><a href="/real+estate/VIC/Sale/3850/">Real Estate Sale</a></li>
+<li><a href="/real+estate/VIC/Shepparton/3630/">Real Estate Shepparton</a></li>
+<li><a href="/real+estate/VIC/St+Kilda/3182/">Real Estate St Kilda</a></li>
+<li><a href="/real+estate/VIC/Tarneit/3029/">Real Estate Tarneit</a></li>
+<li><a href="/real+estate/VIC/Torquay/3228/">Real Estate Torquay</a></li>
+<li><a href="/real+estate/VIC/Warrnambool/3280/">Real Estate Warrnambool</a></li>
+<li><a href="/real+estate/VIC/Yarrawonga/3730/">Real Estate Yarrawonga</a></li>
+<ul></ul></ul></div><div class="hot_col"><acronym title="Western Australia">WA</acronym><ul><li><a href="/real+estate/WA/Albany/6330/">Real Estate Albany</a></li>
+<li><a href="/real+estate/WA/Armadale/6112/">Real Estate Armadale</a></li>
+<li><a href="/real+estate/WA/Baldivis/6171/">Real Estate Baldivis</a></li>
+<li><a href="/real+estate/WA/Broome/6725/">Real Estate Broome</a></li>
+<li><a href="/real+estate/WA/Bunbury/6230/">Real Estate Bunbury</a></li>
+<li><a href="/real+estate/WA/Busselton/6280/">Real Estate Busselton</a></li>
+<li><a href="/real+estate/WA/Canning+Vale/6155/">Real Estate Canning Vale</a></li>
+<li><a href="/real+estate/WA/Dawesville/6211/">Real Estate Dawesville</a></li>
+<li><a href="/real+estate/WA/Dunsborough/6281/">Real Estate Dunsborough</a></li>
+<li><a href="/real+estate/WA/East+Perth/6004/">Real Estate East Perth</a></li>
+<li><a href="/real+estate/WA/Ellenbrook/6069/">Real Estate Ellenbrook</a></li>
+<li><a href="/real+estate/WA/Fremantle/6160/">Real Estate Fremantle</a></li>
+<li><a href="/real+estate/WA/Geraldton/6530/">Real Estate Geraldton</a></li>
+<li><a href="/real+estate/WA/Halls+Head/6210/">Real Estate Halls Head</a></li>
+<li><a href="/real+estate/WA/Joondalup/6027/">Real Estate Joondalup</a></li>
+<li><a href="/real+estate/WA/Kalgoorlie/6430/">Real Estate Kalgoorlie</a></li>
+<li><a href="/real+estate/WA/Mandurah/6210/">Real Estate Mandurah</a></li>
+<li><a href="/real+estate/WA/Rockingham/6168/">Real Estate Rockingham</a></li>
+<li><a href="/real+estate/WA/Stirling/6021/">Real Estate Stirling</a></li>
+<li><a href="/real+estate/WA/Wanneroo/6065/">Real Estate Wanneroo</a></li>
+<ul></ul></ul></div></div>
 </div>
- <script type="text/javascript">
-		if (typeof(MediaSmart)!='undefined') MediaSmart.newAd({
-id: "1x1",
-width: 1,
-height: 1,
-position: 1,
-iframeWidth: 0,
-iframeHeight:0
-});
-</script>   </div>
+<br>
+</div>
+<div class="reset"></div>
+<script type="text/javascript">window.setTimeout(function() { $('more_hot_suburbs').addClassName('NoShow'); }, 900); </script></div>
 <div id="StateSalesDisclaimer"></div>
+<div id="sources"></div>
 </div> <!-- End container-->
 <script type="text/javascript">
 				var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
@@ -321,7 +257,7 @@ iframeHeight:0
 					pageTracker._trackPageview();
 				} catch(err) {}</script><script type="text/javascript">
 window.onload=function() {
-  if (typeof(MediaSmart)!='undefined') MediaSmart.insertAllAds();    LoadFlashMap('');}
+   }
 </script>
 
 
