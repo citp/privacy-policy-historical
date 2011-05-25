@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the puzzlepirates.com privacy policy that was archived on 2010-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100323003224id_/http%3A//www.puzzlepirates.com/Privacy.xhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the puzzlepirates.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525081140id_/http%3A//www.puzzlepirates.com/Privacy.xhtml) for the most accurate reproduction.*
 
 # Puzzle Pirates: Three Rings Privacy Policy
 
@@ -32,10 +32,6 @@ Three Rings automatically receives and records information on our server logs fr
 Three Rings uses information for the following general purposes: to customize the content you see, fulfill your requests for products and services, improve our services, contact you, conduct research, and provide anonymous reporting for internal and external clients. 
 
 ##  Children
-
-Puzzle Pirates is operated in two modes, [Puzzle Pirates Original](http://www.puzzlepirates.com/ "http://www.puzzlepirates.com") and [Puzzle Pirates Family](http://www.puzzlepiratesfamily.com/ "http://www.puzzlepiratesfamily.com"). 
-
-Three Rings complies with [COPPA regulations](http://www.ftc.gov/coppa/ "http://www.ftc.gov/coppa/") for Puzzle Pirates Family. This means that we only accept information supplied by parents which is treated as described above. We do not store information about children under 13 (for example, email addresses). 
 
 Three Rings does not accept registrations from children under age 13 on Puzzle Pirates Original. 
 
