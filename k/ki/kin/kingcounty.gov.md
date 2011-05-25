@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the kingcounty.gov privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229015646id_/http%3A//www.kingcounty.gov/About/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kingcounty.gov privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525061010id_/http%3A//www.kingcounty.gov/About/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy and the King County Website
 
 ### Preface
 
-King County, as a government entity, conducts public business and its records related to the business of King County are generally available for public review. Nevertheless, King County is committed, to the extent allowable by law, to protect and secure your personal information contained in King County records. This privacy commitment must be balanced with the rights of public access under [Chapter 42.56 RCW](http://apps.leg.wa.gov/RCW/default.aspx?cite=42.56) (Washington Public Disclosure Act) and consistent with [KCC 2.14.030](https://web.archive.org/web/20101229015646id_/http%3A//www.kingcounty.gov/About/~/media/Council/documents/Clerk/CodeFiles/05_Title_2.ashx) (1.4MB DOC; scroll down to 2.14.030) and any other applicable federal, state, and local statute or regulation.
+King County, as a government entity, conducts public business and its records related to the business of King County are generally available for public review. Nevertheless, King County is committed, to the extent allowable by law, to protect and secure your personal information contained in King County records. This privacy commitment must be balanced with the rights of public access under [Chapter 42.56 RCW](http://apps.leg.wa.gov/RCW/default.aspx?cite=42.56) (Washington Public Disclosure Act) and consistent with [KCC 2.14.030](https://web.archive.org/web/20110525061010id_/http%3A//www.kingcounty.gov/About/~/media/Council/documents/Clerk/CodeFiles/05_Title_2.ashx) (1.4MB DOC; scroll down to 2.14.030) and any other applicable federal, state, and local statute or regulation.
 
 ### Information privacy
 
