@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dipdive.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121225523id_/http%3A//dipdive.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dipdive.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525040724id_/http%3A//dipdive.com/privacy) for the most accurate reproduction.*
 
 # Dipdive | Privacy policy
 
