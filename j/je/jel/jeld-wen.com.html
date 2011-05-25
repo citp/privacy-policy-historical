@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the jeld-wen.com privacy policy that was archived on 2010-12-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101224192202id_/http%3A//www.jeld-wen.com/about-jw/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the jeld-wen.com privacy policy that was archived on 2011-05-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110525044011id_/http%3A//www.jeld-wen.com/about-jw/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 
@@ -14,7 +14,6 @@
   <meta name="generator" content="Joomla! 1.5 - Open Source Content Management">
   <title>Privacy Policy | JELD-WEN Doors &amp; Windows</title>
   <link href="/templates/jeldwen/favicon.ico" rel="shortcut icon" type="image/x-icon">
-  <link rel="stylesheet" href="http://www.jeld-wen.com/plugins/content/attachments.css" type="text/css">
 
 
 <link rel="Shortcut Icon" href="/templates/jeldwen/favicon.ico">
@@ -22,6 +21,7 @@
 <link rel="stylesheet" href="/templates/jeldwen/css/screen.css" media="screen, handheld, projection, tv">
 <link rel="stylesheet" href="/templates/jeldwen/css/colorbox.css">
 <link rel="stylesheet" href="/templates/jeldwen/css/print.css" media="print">
+
 
 <!--[if lte IE 6]>
 	<link rel="stylesheet" href="/templates/jeldwen/css/ie7only.css" />
@@ -34,16 +34,24 @@
 	<link rel="stylesheet" href="/templates/jeldwen/css/ie8only.css" />
 <![endif]-->
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+	var JDEBUG = 0;
+	// console or fake console
+	var noop = function() {};
+	window.console = window.console || {assert:noop,clear:noop,count:noop,debug:noop,dir:noop,dirxml:noop,error:noop,exception:noop,group:noop,groupCollapsed:noop,groupEnd:noop,info:noop,log:noop,profile:noop,profileEnd:noop,table:noop,time:noop,timeEnd:noop,trace:noop,warn:noop};
+
 	//Initialize Jeldwen namespace
-	jeldwen = {};
-	jeldwen.location = {};
-	jeldwen.pagination = {};
-	jeldwen.pdp = {};
-	jeldwen.search = {};
+	jeldwen = {
+		joomla: {
+			component: "com_content",
+			view: "article"
+		},
+		location: {},
+		pagination: {},
+		pdp: {},
+		search: {},
+		techdocs_download: { enabled: true }
+	};
 </script>
-<script type="text/javascript" src="/templates/jeldwen/js/swfobject.js"></script>
-<script type="text/javascript" src="/templates/jeldwen/js/swfaddress.js"></script>
-<script type="text/javascript" src="/templates/jeldwen/js/fluid.js"></script>
 </head>
 
 <body class="com_content">
@@ -56,7 +64,7 @@
 				<h1><a href="/"><img src="/templates/jeldwen/images/logo_new.png" alt="JELD-WEN Windows and Doors"></a></h1>
 				
 				<div id="utilityNav">
-					<p><strong>800.535.3936</strong></p><ul class="menu"><li class="item203"><a href="/contact-us"><span>Customer Support</span></a></li></ul>
+					<span class="phone-number">800.535.3936</span><ul class="menu"><li class="item203"><a href="/contact-us"><span>Customer Support</span></a></li></ul>
 
 <div id="loginWidget">
 <script type="text/javascript" charset="utf-8">
@@ -87,28 +95,26 @@
 			<input type="hidden" value="com_jel_users" name="option">
 			<input type="hidden" name="task" value="login">
 			<input type="hidden" name="return" value="L2Fib3V0LWp3L3ByaXZhY3ktcG9saWN5">
-			<input type="hidden" name="c6fda64f03098b9f43208962731ee31c" value="1">		</form>
+			<input type="hidden" name="743a8d7d634fead42dbefe6994a63fa2" value="1">		</form>
 	</span>
 
 
 
 </div>
-<form action="/search-products" method="post">
-	<label class="utilityNavSearch"><input type="text" id="q" name="q"></label>
+<form>
+	<label class="utilityNavSearch"><input type="text" id="q" name="document_text_t"></label>
 </form>
-	
+
 				</div>
 			</div>
 		</div>
 		</div>
 		<!-- /header -->
-		
 		<div id="main_layout">
 		<div id="main" class="withLeft">
 			<div id="nav_mainAndSub">
 				
-				
-<ul id="nav_main">
+				<ul id="nav_main">
 	
 		
 	<li class="nav_level1 ">
@@ -141,9 +147,34 @@
 											
 											<ul>
 																								
+												<li><a class="navType" href="/catalog/windows/types/double-hung">
+													<span class="navAnimation animationFrames_15" style="background:url(/images/catalog/icons//double_hung_window.png) no-repeat left top;"></span>
+													Double-Hung												</a></li>
+												
+																								
+												<li><a class="navType" href="/catalog/windows/types/single-hung">
+													<span class="navAnimation animationFrames_12" style="background:url(/images/catalog/icons//single_hung_window.png) no-repeat left top;"></span>
+													Single-Hung												</a></li>
+												
+																								
 												<li><a class="navType" href="/catalog/windows/types/awning">
 													<span class="navAnimation animationFrames_15" style="background:url(/images/catalog/icons//awning_window.png) no-repeat left top;"></span>
 													Awning												</a></li>
+												
+																								
+												<li><a class="navType" href="/catalog/windows/types/fixed">
+													<span class="navAnimation animationFrames_15" style="background:url(/images/catalog/icons//fixed_geometric_window.png) no-repeat left top;"></span>
+													Fixed												</a></li>
+												
+																								
+												<li><a class="navType" href="/catalog/windows/types/sliding">
+													<span class="navAnimation animationFrames_12" style="background:url(/images/catalog/icons//sliding_window.png) no-repeat left top;"></span>
+													Sliding												</a></li>
+												
+																								
+												<li><a class="navType" href="/catalog/windows/types/casement">
+													<span class="navAnimation animationFrames_12" style="background:url(/images/catalog/icons//casement_window.png) no-repeat left top;"></span>
+													Casement												</a></li>
 												
 																								
 												<li><a class="navType" href="/catalog/windows/types/bay">
@@ -156,34 +187,9 @@
 													Bow												</a></li>
 												
 																								
-												<li><a class="navType" href="/catalog/windows/types/casement">
-													<span class="navAnimation animationFrames_12" style="background:url(/images/catalog/icons//casement_window.png) no-repeat left top;"></span>
-													Casement												</a></li>
-												
-																								
-												<li><a class="navType" href="/catalog/windows/types/double-hung">
-													<span class="navAnimation animationFrames_15" style="background:url(/images/catalog/icons//double_hung_window.png) no-repeat left top;"></span>
-													Double-Hung												</a></li>
-												
-																								
 												<li><a class="navType" href="/catalog/windows/types/garden">
 													<span style="background:url(/images/catalog/icons//garden_window.png) no-repeat left top;"></span>
 													Garden												</a></li>
-												
-																								
-												<li><a class="navType" href="/catalog/windows/types/fixed">
-													<span class="navAnimation animationFrames_15" style="background:url(/images/catalog/icons//fixed_geometric_window.png) no-repeat left top;"></span>
-													Fixed												</a></li>
-												
-																								
-												<li><a class="navType" href="/catalog/windows/types/single-hung">
-													<span class="navAnimation animationFrames_12" style="background:url(/images/catalog/icons//single_hung_window.png) no-repeat left top;"></span>
-													Single-Hung												</a></li>
-												
-																								
-												<li><a class="navType" href="/catalog/windows/types/sliding">
-													<span class="navAnimation animationFrames_12" style="background:url(/images/catalog/icons//sliding_window.png) no-repeat left top;"></span>
-													Sliding												</a></li>
 												
 																								
 												<li><a class="navType" href="/catalog/windows/types/tilt-and-turn">
@@ -202,13 +208,6 @@
 													
 																								
 												<div>
-													<a href="/catalog/windows/materials/aluminum">
-														<img src="/images/catalog/icons//aluminum.jpg" alt="Aluminum material image">
-														Aluminum													</a>
-																									</div>
-												
-																								
-												<div>
 													<a href="/catalog/windows/materials/wood">
 														<img src="/images/catalog/icons//wood.jpg" alt="Wood material image">
 														Wood													</a>
@@ -219,6 +218,13 @@
 													<a href="/catalog/windows/materials/vinyl">
 														<img src="/images/catalog/icons//vinyl.jpg" alt="Vinyl material image">
 														Vinyl													</a>
+																									</div>
+												
+																								
+												<div>
+													<a href="/catalog/windows/materials/aluminum">
+														<img src="/images/catalog/icons//aluminum.jpg" alt="Aluminum material image">
+														Aluminum													</a>
 																									</div>
 												
 																								
@@ -233,19 +239,19 @@
 											
 											<ul>
 																								
-												<li><a class="navType" href="/catalog/windows/builders/aluminum">
-													<span style="background:url(/images/catalog/icons//buildersaluminummenubar.png) no-repeat left top;"></span>
-													Builders Aluminum												</a></li>
+												<li><a class="navType" href="/catalog/windows/custom/wood">
+													<span style="background:url(/images/catalog/icons//customwoodmenubar.png) no-repeat left top;"></span>
+													Custom Wood												</a></li>
 												
 																								
-												<li><a class="navType" href="/catalog/windows/builders-florida/aluminum">
-													<span style="background:url(/images/catalog/icons//buildersfloridaaluminummenubar.png) no-repeat left top;"></span>
-													Builders Florida Aluminum												</a></li>
+												<li><a class="navType" href="/catalog/windows/siteline-ex/wood">
+													<span style="background:url(/images/catalog/icons//sitelineexwimenubar.png) no-repeat left top;"></span>
+													Siteline EX												</a></li>
 												
 																								
-												<li><a class="navType" href="/catalog/windows/builders/vinyl">
-													<span style="background:url(/images/catalog/icons//buildersvinylmenubar.png) no-repeat left top;"></span>
-													Builders Vinyl												</a></li>
+												<li><a class="navType" href="/catalog/windows/tradition-plus/wood">
+													<span style="background:url(/images/catalog/icons//traditionplusmenubar.png) no-repeat left top;"></span>
+													Tradition Plus												</a></li>
 												
 																								
 												<li><a class="navType" href="/catalog/windows/builders/wood">
@@ -253,14 +259,14 @@
 													Builders Wood												</a></li>
 												
 																								
-												<li><a class="navType" href="/catalog/windows/custom/wood">
-													<span style="background:url(/images/catalog/icons//customwoodmenubar.png) no-repeat left top;"></span>
-													Custom Wood												</a></li>
+												<li><a class="navType" href="/catalog/windows/premium/vinyl">
+													<span style="background:url(/images/catalog/icons//premiumvinylmenubar.png) no-repeat left top;"></span>
+													Premium Vinyl												</a></li>
 												
 																								
-												<li><a class="navType" href="/catalog/windows/premium/aluminum">
-													<span style="background:url(/images/catalog/icons//premiumaluminummenubar.png) no-repeat left top;"></span>
-													Premium Aluminum												</a></li>
+												<li><a class="navType" href="/catalog/windows/builders/vinyl">
+													<span style="background:url(/images/catalog/icons//buildersvinylmenubar.png) no-repeat left top;"></span>
+													Builders Vinyl												</a></li>
 												
 																								
 												<li><a class="navType" href="/catalog/windows/premium-atlantic/vinyl">
@@ -268,24 +274,24 @@
 													Premium Atlantic Vinyl												</a></li>
 												
 																								
-												<li><a class="navType" href="/catalog/windows/premium/vinyl">
-													<span style="background:url(/images/catalog/icons//premiumvinylmenubar.png) no-repeat left top;"></span>
-													Premium Vinyl												</a></li>
+												<li><a class="navType" href="/catalog/windows/premium/aluminum">
+													<span style="background:url(/images/catalog/icons//premiumaluminummenubar.png) no-repeat left top;"></span>
+													Premium Aluminum												</a></li>
 												
 																								
-												<li><a class="navType" href="/catalog/windows/siteline-ex/wood">
-													<span style="background:url(/images/catalog/icons//sitelineexwimenubar.png) no-repeat left top;"></span>
-													Premium Wood Siteline EX												</a></li>
-												
-																								
-												<li><a class="navType" href="/catalog/windows/tradition-plus/wood">
-													<span style="background:url(/images/catalog/icons//traditionplusmenubar.png) no-repeat left top;"></span>
-													Premium Wood Tradition Plus												</a></li>
+												<li><a class="navType" href="/catalog/windows/builders/aluminum">
+													<span style="background:url(/images/catalog/icons//buildersaluminummenubar.png) no-repeat left top;"></span>
+													Builders Aluminum												</a></li>
 												
 																								
 												<li><a class="navType" href="/catalog/windows/premium-atlantic/aluminum">
 													<span style="background:url(/images/catalog/icons//premiumatlanticaluminummenubar.png) no-repeat left top;"></span>
 													Premium Atlantic Aluminum												</a></li>
+												
+																								
+												<li><a class="navType" href="/catalog/windows/builders-florida/aluminum">
+													<span style="background:url(/images/catalog/icons//buildersfloridaaluminummenubar.png) no-repeat left top;"></span>
+													Builders Florida Aluminum												</a></li>
 												
 																							</ul>
 											
@@ -381,16 +387,16 @@
 												
 																								
 												<div>
-													<a href="/catalog/exterior-doors/materials/steel">
-														<img src="/images/catalog/icons//steel.jpg" alt="Steel material image">
-														Steel													</a>
+													<a href="/catalog/exterior-doors/materials/fiberglass">
+														<img src="/images/catalog/icons//fiberglass.jpg" alt="Fiberglass material image">
+														Fiberglass													</a>
 																									</div>
 												
 																								
 												<div>
-													<a href="/catalog/exterior-doors/materials/fiberglass">
-														<img src="/images/catalog/icons//fiberglass.jpg" alt="Fiberglass material image">
-														Fiberglass													</a>
+													<a href="/catalog/exterior-doors/materials/steel">
+														<img src="/images/catalog/icons//steel.jpg" alt="Steel material image">
+														Steel													</a>
 																									</div>
 												
 																								
@@ -405,9 +411,9 @@
 											
 											<ul>
 																								
-												<li><a class="navType" href="/catalog/exterior-doors/architectural/fiberglass">
-													<span style="background:url(/images/catalog/icons//architecturalmenubar.png) no-repeat left top;"></span>
-													Architectural												</a></li>
+												<li><a class="navType" href="/catalog/exterior-doors/custom/wood">
+													<span style="background:url(/images/catalog/icons//customextdoorsmenubar.png) no-repeat left top;"></span>
+													Custom												</a></li>
 												
 																								
 												<li><a class="navType" href="/catalog/exterior-doors/custom/fiberglass">
@@ -415,9 +421,9 @@
 													Aurora												</a></li>
 												
 																								
-												<li><a class="navType" href="/catalog/exterior-doors/custom/wood">
-													<span style="background:url(/images/catalog/icons//customextdoorsmenubar.png) no-repeat left top;"></span>
-													Custom												</a></li>
+												<li><a class="navType" href="/catalog/exterior-doors/architectural/fiberglass">
+													<span style="background:url(/images/catalog/icons//architecturalmenubar.png) no-repeat left top;"></span>
+													Architectural												</a></li>
 												
 																								
 												<li><a class="navType" href="/catalog/exterior-doors/design-pro-smooth-pro/fiberglass">
@@ -430,7 +436,7 @@
 													FiberLast												</a></li>
 												
 																								
-												<li><a class="navType" href="/catalog/exterior-doors/builders/steel">
+												<li><a class="navType" href="/catalog/exterior-doors/contours-energy-saver-and-gladiator/steel">
 													<span style="background:url(/images/catalog/icons//steelmenubar.png) no-repeat left top;"></span>
 													Steel												</a></li>
 												
@@ -505,14 +511,14 @@
 													Glass Panel												</a></li>
 												
 																								
+												<li><a class="navType" href="/catalog/interior-doors/types/bifold">
+													<span class="navAnimation animationFrames_14" style="background:url(/images/catalog/icons//bifold_door.png) no-repeat left top;"></span>
+													Bifold												</a></li>
+												
+																								
 												<li><a class="navType" href="/catalog/interior-doors/types/louver">
 													<span class="navAnimation animationFrames_15" style="background:url(/images/catalog/icons//louver_door.png) no-repeat left top;"></span>
 													Louver												</a></li>
-												
-																								
-												<li><a class="navType" href="/catalog/interior-doors/types/bifold">
-													<span class="navAnimation animationFrames_15" style="background:url(/images/catalog/icons//bifold_door.png) no-repeat left top;"></span>
-													Bifold												</a></li>
 												
 																							</ul>
 											
@@ -550,9 +556,9 @@
 											
 											<ul>
 																								
-												<li><a class="navType" href="/catalog/interior-doors/molded/wood-composite">
-													<span style="background:url(/images/catalog/icons//moldedmenubar.png) no-repeat left top;"></span>
-													Molded												</a></li>
+												<li><a class="navType" href="/catalog/interior-doors/custom/wood">
+													<span style="background:url(/images/catalog/icons//custominteriordoorsmenubar.png) no-repeat left top;"></span>
+													Custom Wood												</a></li>
 												
 																								
 												<li><a class="navType" href="/catalog/interior-doors/custom-carved/wood-composite">
@@ -560,9 +566,9 @@
 													Custom Carved												</a></li>
 												
 																								
-												<li><a class="navType" href="/catalog/interior-doors/custom/wood">
-													<span style="background:url(/images/catalog/icons//custominteriordoorsmenubar.png) no-repeat left top;"></span>
-													Custom Wood												</a></li>
+												<li><a class="navType" href="/catalog/interior-doors/molded/wood-composite">
+													<span style="background:url(/images/catalog/icons//moldedmenubar.png) no-repeat left top;"></span>
+													Molded												</a></li>
 												
 																								
 												<li><a class="navType" href="/catalog/interior-doors/flush/wood-composite">
@@ -656,9 +662,16 @@
 													
 																								
 												<div>
-													<a href="/catalog/patio-doors/materials/aluminum">
-														<img src="/images/catalog/icons//aluminum.jpg" alt="Aluminum material image">
-														Aluminum													</a>
+													<a href="/catalog/patio-doors/materials/wood">
+														<img src="/images/catalog/icons//wood.jpg" alt="Wood material image">
+														Wood													</a>
+																									</div>
+												
+																								
+												<div>
+													<a href="/catalog/patio-doors/materials/fiberglass">
+														<img src="/images/catalog/icons//fiberglass.jpg" alt="Fiberglass material image">
+														Fiberglass													</a>
 																									</div>
 												
 																								
@@ -670,16 +683,9 @@
 												
 																								
 												<div>
-													<a href="/catalog/patio-doors/materials/wood">
-														<img src="/images/catalog/icons//wood.jpg" alt="Wood material image">
-														Wood													</a>
-																									</div>
-												
-																								
-												<div>
-													<a href="/catalog/patio-doors/materials/fiberglass">
-														<img src="/images/catalog/icons//fiberglass.jpg" alt="Fiberglass material image">
-														Fiberglass													</a>
+													<a href="/catalog/patio-doors/materials/aluminum">
+														<img src="/images/catalog/icons//aluminum.jpg" alt="Aluminum material image">
+														Aluminum													</a>
 																									</div>
 												
 																								
@@ -694,34 +700,9 @@
 											
 											<ul>
 																								
-												<li><a class="navType" href="/catalog/patio-doors/builders/aluminum">
-													<span style="background:url(/images/catalog/icons//buildersaluminumpdmenubar.png) no-repeat left top;"></span>
-													Builders Aluminum												</a></li>
-												
-																								
-												<li><a class="navType" href="/catalog/patio-doors/builders/vinyl">
-													<span style="background:url(/images/catalog/icons//buildersvinylpdmenubar.png) no-repeat left top;"></span>
-													Builders Vinyl												</a></li>
-												
-																								
-												<li><a class="navType" href="/catalog/patio-doors/builders/wood">
-													<span style="background:url(/images/catalog/icons//builderswoodpdmenubar.png) no-repeat left top;"></span>
-													Builders Wood												</a></li>
-												
-																								
-												<li><a class="navType" href="/catalog/patio-doors/premium/aluminum">
-													<span style="background:url(/images/catalog/icons//premiumaluminumpdmenubar.png) no-repeat left top;"></span>
-													Premium Aluminum												</a></li>
-												
-																								
-												<li><a class="navType" href="/catalog/patio-doors/premium/vinyl">
-													<span style="background:url(/images/catalog/icons//premiumvinylpdmenubar.png) no-repeat left top;"></span>
-													Premium Vinyl												</a></li>
-												
-																								
-												<li><a class="navType" href="/catalog/patio-doors/premium/wood">
-													<span style="background:url(/images/catalog/icons//sitelineexmenubar.png) no-repeat left top;"></span>
-													Premium Wood Siteline EX												</a></li>
+												<li><a class="navType" href="/catalog/patio-doors/custom/wood">
+													<span style="background:url(/images/catalog/icons//customwoodpdmenubar.png) no-repeat left top;"></span>
+													Custom Wood												</a></li>
 												
 																								
 												<li><a class="navType" href="/catalog/patio-doors/custom/fiberglass">
@@ -729,19 +710,44 @@
 													Aurora												</a></li>
 												
 																								
-												<li><a class="navType" href="/catalog/patio-doors/custom/wood">
-													<span style="background:url(/images/catalog/icons//customwoodpdmenubar.png) no-repeat left top;"></span>
-													Custom Wood												</a></li>
+												<li><a class="navType" href="/catalog/patio-doors/premium/wood">
+													<span style="background:url(/images/catalog/icons//sitelineexmenubar.png) no-repeat left top;"></span>
+													Siteline EX												</a></li>
 												
 																								
 												<li><a class="navType" href="/catalog/patio-doors/tradition-plus/wood">
 													<span style="background:url(/images/catalog/icons//traditionpluspdmenubar.png) no-repeat left top;"></span>
-													Premium Wood Tradition Plus												</a></li>
+													Tradition Plus												</a></li>
+												
+																								
+												<li><a class="navType" href="/catalog/patio-doors/builders/wood">
+													<span style="background:url(/images/catalog/icons//builderswoodpdmenubar.png) no-repeat left top;"></span>
+													Builders Wood												</a></li>
+												
+																								
+												<li><a class="navType" href="/catalog/patio-doors/premium/vinyl">
+													<span style="background:url(/images/catalog/icons//premiumvinylpdmenubar.png) no-repeat left top;"></span>
+													Premium Vinyl												</a></li>
+												
+																								
+												<li><a class="navType" href="/catalog/patio-doors/builders/vinyl">
+													<span style="background:url(/images/catalog/icons//buildersvinylpdmenubar.png) no-repeat left top;"></span>
+													Builders Vinyl												</a></li>
 												
 																								
 												<li><a class="navType" href="/catalog/patio-doors/premium-atlantic/vinyl">
 													<span style="background:url(/images/catalog/icons//premiumatlanticvinylpdmenubar.png) no-repeat left top;"></span>
 													Premium Atlantic Vinyl												</a></li>
+												
+																								
+												<li><a class="navType" href="/catalog/patio-doors/premium/aluminum">
+													<span style="background:url(/images/catalog/icons//premiumaluminumpdmenubar.png) no-repeat left top;"></span>
+													Premium Aluminum												</a></li>
+												
+																								
+												<li><a class="navType" href="/catalog/patio-doors/builders/aluminum">
+													<span style="background:url(/images/catalog/icons//buildersaluminumpdmenubar.png) no-repeat left top;"></span>
+													Builders Aluminum												</a></li>
 												
 																								
 												<li><a class="navType" href="/catalog/patio-doors/premium-atlantic-aluminum/aluminum">
@@ -812,11 +818,6 @@
 											
 											<ul>
 																								
-												<li><a class="navType" href="/catalog/garage-doors/builders/wood-composite">
-													<span class="navAnimation animationFrames_16" style="background:url(/images/catalog/icons//garage_traditional.png) no-repeat left top;"></span>
-													Traditional												</a></li>
-												
-																								
 												<li><a class="navType" href="/catalog/garage-doors/premium/wood-composite">
 													<span class="navAnimation animationFrames_16" style="background:url(/images/catalog/icons//garage_carriage.png) no-repeat left top;"></span>
 													Carriage House												</a></li>
@@ -825,6 +826,11 @@
 												<li><a class="navType" href="/catalog/garage-doors/custom/wood-composite">
 													<span class="navAnimation animationFrames_16" style="background:url(/images/catalog/icons//garage_estate.png) no-repeat left top;"></span>
 													Estate												</a></li>
+												
+																								
+												<li><a class="navType" href="/catalog/garage-doors/builders/wood-composite">
+													<span class="navAnimation animationFrames_16" style="background:url(/images/catalog/icons//garage_traditional.png) no-repeat left top;"></span>
+													Traditional												</a></li>
 												
 																							</ul>
 											
@@ -858,7 +864,7 @@
 	
 			
 </ul>
-<ul class="menu"><li class="parent item21"><a href="/learn/our-products"><span>Learn</span></a><ul><li class="parent item179"><a href="/learn/our-products"><span>Our Products</span></a></li><li class="item234"><a href="/learn/auralast"><span>AuraLast  Wood</span></a></li><li class="parent item107"><a href="/learn/buying-guides"><span>Buying Guides</span></a></li><li class="parent item224"><a href="/learn/environmental-stewardship"><span>Environmental Stewardship</span></a></li><li class="item110"><a href="/learn/how-tos"><span>How-To</span></a></li><li class="item109"><a href="/learn/plan-a-project"><span>Plan a Project</span></a></li><li class="parent item251"><a href="/learn/resources"><span>Resources</span></a></li><li class="item61"><a href="/learn/save-money"><span>Save Money</span></a></li></ul></li><li class="parent item22"><a href="/design-a-inspiration/design-overview"><span>Design &amp; Inspiration</span></a><ul><li class="item178"><a href="/design-a-inspiration/design-overview"><span>Overview</span></a></li><li class="item136"><a href="/designyourown"><span>Design Your Own Door or Window</span></a></li><li class="parent item164"><a href="/design-a-inspiration/design-gallery"><span>Design Gallery</span></a></li></ul></li><li class="parent item39"><a href="/pro-center/overview"><span>Pro Center</span></a><ul><li class="item40"><a href="/pro-center/overview"><span>Overview</span></a></li><li class="item217"><span class="separator"><span>For Professionals</span></span></li><li class="item95"><a href="/pro-center/for-architects"><span>Architects</span></a></li><li class="item207"><a href="/pro-center/for-builders"><span>Builders &amp; Contractors</span></a></li><li class="item92"><a href="/pro-center/for-dealers"><span>Dealers &amp; Distributors</span></a></li><li class="item218"><span class="separator"><span>Tools &amp; Education</span></span></li><li class="item263"><a href="/pro-center/technical-documents"><span>Technical Documents</span></a></li><li class="item239"><a href="/pro-center/performance-ratings"><span>Performance Ratings</span></a></li><li class="item89"><a href="/pro-center/egress-openings-calculator"><span>Egress &amp; Openings Calculator</span></a></li><li class="item248"><a href="http://jeld-wen.ecoscorecard.com"><span>GREENdoc</span></a></li><li class="item266"><a href="http://www.aecdaily.com/en/236763/default/default/search?q=JELD-WEN" target="_blank"><span>Continuing Education</span></a></li><li class="item267"><a href="http://www.parametrx.com/912/templates/index.asp" target="_blank"><span>3D Modeling</span></a></li><li class="item264"><a href="/pro-center/warranty-information"><span>Warranty Information</span></a></li><li class="item240"><a href="/pro-center/coastal-selections"><span>Coastal Selections</span></a></li><li class="item241"><a href="/pro-center/r-5-window"><span>R-5 Window Program</span></a></li><li class="item91"><a href="/pro-center/case-studies"><span>Case Studies</span></a></li><li class="item90"><a href="/pro-center/product-news"><span>Product News</span></a></li><li class="item48"><a href="/pro-center/articles"><span>Articles</span></a></li></ul></li></ul>
+<ul class="menu"><li class="parent item21"><a href="/learn/our-products"><span>Learn</span></a><ul><li class="parent item179"><a href="/learn/our-products"><span>Our Products</span></a></li><li class="parent item234"><a href="/learn/auralast"><span>AuraLast  Wood</span></a></li><li class="parent item107"><a href="/learn/buying-guides"><span>Buying Guides</span></a></li><li class="parent item224"><a href="/learn/environmental-stewardship"><span>Environmental Stewardship</span></a></li><li class="item110"><a href="/learn/how-tos"><span>How-To</span></a></li><li class="item109"><a href="/learn/plan-a-project"><span>Plan a Project</span></a></li><li class="parent item251"><a href="/learn/resources"><span>Resources</span></a></li><li class="item61"><a href="/learn/save-money"><span>Save Money</span></a></li></ul></li><li class="parent item22"><a href="/design-and-inspiration"><span>Design &amp; Inspiration</span></a><ul><li class="item136"><a href="/designyourown"><span>Design Your Own Door or Window</span></a></li><li class="parent item164"><a href="/design-and-inspiration/design-gallery"><span>Design Gallery</span></a></li></ul></li><li class="parent item39"><a href="/pro-center"><span>Pro Center</span></a><ul><li class="item217"><span class="separator"><span>For Professionals</span></span></li><li class="item95"><a href="/pro-center/for-architects"><span>Architects</span></a></li><li class="item207"><a href="/pro-center/for-builders"><span>Builders &amp; Contractors</span></a></li><li class="item92"><a href="/pro-center/for-dealers"><span>Dealers &amp; Distributors</span></a></li><li class="item302"><span class="separator"><span>TECHNICAL DOCUMENTS</span></span></li><li class="parent item300"><a href="/pro-center/technical-documents"><span>Find Technical Documents</span></a></li><li class="item218"><span class="separator"><span>Tools &amp; Education</span></span></li><li class="item267"><a href="http://www.parametrx.com/912/templates/index.asp" target="_blank"><span>3D Drawings</span></a></li><li class="item48"><a href="/pro-center/articles"><span>Articles</span></a></li><li class="item91"><a href="/pro-center/case-studies"><span>Case Studies</span></a></li><li class="item89"><a href="/pro-center/egress-openings-calculator"><span>Egress &amp; Openings Calculator</span></a></li><li class="item240"><a href="/pro-center/coastal-selections"><span>Coastal Selections</span></a></li><li class="item248"><a href="http://jeld-wen.ecoscorecard.com"><span>GREENdoc</span></a></li><li class="item239"><a href="/pro-center/performance-ratings"><span>Performance Ratings</span></a></li><li class="item241"><a href="/pro-center/doe-purchase-program"><span>DOE High Performance Window Program</span></a></li></ul></li></ul>
 				<div class="clear"></div>	
 								
 				<span class="breadcrumbs pathway">
@@ -883,13 +889,13 @@
 	</ul>
 
 				
+				
 				<div class="clearNoHeight"></div>
 			</div>
 			
 							
 								<div id="left_layout">
 				<div id="left">
-					
 					
 
 <div class="moduletable">
@@ -902,27 +908,7 @@
 	
 			<h3 class="module_title">	About JELD-WEN</h3>
 		
-			<ul class="menu"><li class="parent item117"><a href="/about-jw/overview"><span>Overview</span></a></li><li class="item118"><a href="/about-jw/employment"><span>Employment</span></a></li><li class="parent item119"><a href="/about-jw/golf"><span>Golf</span></a></li><li id="current" class="active item122"><a href="/about-jw/privacy-policy"><span>Privacy Policy</span></a></li><li class="parent item123"><a href="/about-jw/newsroom"><span>Newsroom</span></a></li></ul>			
- 	</div>
- 	</div>
- 	<div class="boxBottomLeft"></div>
- 	<div class="boxBottomRight"></div>
-
-</div>
-		
-		</div>
-
-	
-
-<div class="moduletable">
-
-
-<div class="box flexibox_mod">
-	<div class="boxTopRight"></div> 
- 	<div class="boxRight">
-    	<div class="boxContent">
-	
-			<ul class="menu"><li class="item208"><span class="separator"><span>Learn</span></span></li><li class="item209"><a href="/learn/our-products"><span>About Our Products</span></a></li><li class="item244"><a href="/learn/buying-guides"><span>Buying Guides</span></a></li><li class="item212"><a href="/learn/environmental-stewardship"><span>Environmental Stewardship</span></a></li><li class="item211"><a href="/learn/how-tos"><span>How-To</span></a></li><li class="item245"><a href="/learn/plan-a-project"><span>Plan a Project</span></a></li><li class="item210"><a href="/learn/save-money"><span>Save Money</span></a></li><li class="item213"><span class="separator"><span>Design &amp; Inspiration</span></span></li><li class="item214"><a href="/designyourown"><span>Design Your Own Door or Window</span></a></li><li class="item215"><a href="/design-a-inspiration/design-gallery"><span>Design Gallery</span></a></li><li class="item216"><span class="separator"><span>Pro Center</span></span></li><li class="item259"><a href="/pro-center/for-architects"><span>Architects</span></a></li><li class="item260"><a href="/pro-center/for-builders"><span>Builders &amp; Contractors</span></a></li><li class="item262"><a href="/pro-center/for-dealers"><span>Dealers &amp; Distributors</span></a></li><li class="item261"></li></ul>			
+			<ul class="menu"><li class="parent item117"><a href="/about-jw/overview"><span>Overview</span></a></li><li class="item118"><a href="/about-jw/employment"><span>Employment</span></a></li><li class="parent item119"><a href="/about-jw/golf"><span>Golf</span></a></li><li class="parent item304"><a href="/about-jw/sports-sponsorships"><span>Sports Sponsorships</span></a></li><li id="current" class="active item122"><a href="/about-jw/privacy-policy"><span>Privacy Policy</span></a></li><li class="parent item123"><a href="/about-jw/newsroom"><span>Newsroom</span></a></li></ul>			
  	</div>
  	</div>
  	<div class="boxBottomLeft"></div>
@@ -935,7 +921,7 @@
 	
 					
 				</div>
-				</div><!-- /left -->
+				</div>
 				
 				
 				<div id="right_layout">
@@ -956,11 +942,9 @@
 				<h2 class="contentheading">
 			Privacy Policy		</h2>
 				
+			
 				
 				
-		<p class="buttonheading">
-					</p>
-		
 				
 				
 				
@@ -968,7 +952,7 @@
 		<p>We at <strong>JELD-WEN, inc.</strong> (referred to as "<strong>JELD-WEN, inc.</strong>,"  "we," "us," or "our") recognize the importance of protecting the  privacy of certain information ("Information") collected about our  customers and prospective customers (referred to as "Customers," "you,"  or "your"). This privacy statement discloses what Information we gather,  how we use it, and how to correct or change it. By visiting www.jeld-wen.com (the "Website") you acknowledge that you accept the practices and policies outlined in this Policy.</p>
 <p>This privacy ("Policy") discoses what Information we gather, how we use it, and how to correct or change it. This policy does not apply to the practices of companies that <strong>JELD-WEN, inc.</strong> does not own or control, or individuals that <strong>JELD-WEN, inc.</strong> does not employ or manage, including those that are linked to the Website.</p>
 <p>Please note, if you provide us with your email address or phone  number, we or our represenative may send you a follow-up email or phone call.</p>
-<h3>Table of Contents</h3>
+<p><strong>Table of Contents</strong></p>
 <table align="center" border="0">
 <tbody>
 <tr>
@@ -1042,6 +1026,9 @@
 <p>By using this Website, you signify your agreement to this Policy.<br><br> <strong><strong><a name="responsibility_acceptance"></a></strong>Your Responsibility and Acceptance of These Terms</strong><br> You are responsible for maintaining the confidentiality of your account and password, restricting access to your computer, and you agree to accept responsibility for all activities that occur under your account or password.<br><br> Third-party Web sites may refer to our sites and even provide  hyperlinks to specific pages or functions. We are not responsible for  the context in which those referring links are made nor are we  responsible for ensuring those links work properly.</p>
 
 		
+
+				
+		
 				
 		</div>
 
@@ -1063,38 +1050,24 @@
 					 
 <div class="promo promo1">
 	<div class="inner">
+				<img src="http://www.jeld-wen.com/images/stories/featured_articles/promo_design_details.png" alt="image">
+				
+		<h3><a href="/pro-center/technical-documents?icid=TD004">Tech Docs</a></h3>
+			
+		<p>Download 2D CAD drawings and other technical documents.</p>
+		<p id="learnMorePromoLink"><a href="/pro-center/technical-documents?icid=TD004">Learn More</a></p>
+	</div>
+</div>		</div>
+			<div class="moduletable">
+					 
+<div class="promo promo1">
+	<div class="inner">
 				<img src="http://www.jeld-wen.com/images/stories/featured_articles/environmental_partnerships_energystar.png" alt="image">
 				
-		<h3><a href="/learn/save-money/127-lower-your-bills?icid=EF032">Energy Efficiency</a></h3>
+		<h3><a href="/learn/save-money/307-energy-star-qualified-products-from-jeld-wen">Energy Efficiency</a></h3>
 			
 		<p>Stop throwing money out the window and renovate today.</p>
-		<p id="learnMorePromoLink"><a href="/learn/save-money/127-lower-your-bills?icid=EF032">Learn More</a></p>
-	</div>
-</div>		</div>
-			<div class="moduletable">
-					<h3>Trend Toward Smaller</h3>
-					 
-<div class="promo promo1">
-	<div class="inner">
-				<img src="http://www.jeld-wen.com/images/stories/featured_articles/promo_dg_house4.png" alt="image">
-				
-		<h3><a href="/about-jw/newsroom/press-releases/162-top-2011-home-trend-the-boomerang-generation-an-american-homecoming?icid=TTSHArticle033">Trend toward Smaller Homes</a></h3>
-			
-		<p>Americans opt for cozier living spaces.</p>
-		<p id="learnMorePromoLink"><a href="/about-jw/newsroom/press-releases/162-top-2011-home-trend-the-boomerang-generation-an-american-homecoming?icid=TTSHArticle033">Learn More</a></p>
-	</div>
-</div>		</div>
-			<div class="moduletable">
-					<h3>Save Energy, Save Money</h3>
-					 
-<div class="promo promo1">
-	<div class="inner">
-				<img src="http://www.jeld-wen.com/images/stories/featured_articles/icon_lightbulb.png" alt="image">
-				
-		<h3><a href="/learn/save-money?icid=SESM034">Save Energy. Save Money</a></h3>
-			
-		<p>We can help reduce your bills and impact on the environment.</p>
-		<p id="learnMorePromoLink"><a href="/learn/save-money?icid=SESM034">Learn More</a></p>
+		<p id="learnMorePromoLink"><a href="/learn/save-money/307-energy-star-qualified-products-from-jeld-wen">Learn More</a></p>
 	</div>
 </div>		</div>
 	
@@ -1138,7 +1111,7 @@
 		<div id="footer_links">
 			<div id="footer_links_inner">
 						<div class="moduletable">
-					<p>© 2010 JELD-WEN, inc.</p>		</div>
+					<p>© 2011 JELD-WEN, inc.</p>		</div>
 			<div class="moduletable_menu">
 					<ul class="menu"><li class="item187"><a href="/about-jw/overview"><span>About JELD-WEN</span></a></li><li class="item86"><a href="/about-jw/employment"><span>Employment</span></a></li><li class="item87"><a href="/about-jw/newsroom"><span>Newsroom</span></a></li><li class="active item78"><a href="/about-jw/privacy-policy"><span>Privacy Policy</span></a></li><li class="item205"><a href="/contact-us"><span>Customer Support</span></a></li></ul>		</div>
 			<div class="moduletable-twitter">
@@ -1150,7 +1123,8 @@
 		</div>
 			
 	</div>
-</div><!-- /footer -->
+</div>
+
 <script type="text/javascript" src="/templates/jeldwen/js/s_code.js"></script>
 <script type="text/javascript">
 	s.pageName="About-jw:Privacy-policy";s.prop1="About Jw";s.prop2="About-jw:Privacy-policy";s.prop3="Article";	 var s_code=s.t();if(s_code)document.write(s_code);
@@ -1161,25 +1135,27 @@ if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+
 <!-- End SiteCatalyst code version: H.21. -->	
 <script type="text/javascript" src="/templates/jeldwen/js/mbox.js"></script>	
 <div class="mboxDefault"></div>
+
+
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
-<script type="text/javascript" src="/templates/jeldwen/js/jquery-ui-1.8.1.custom.min.js"></script>
-<script type="text/javascript" src="/templates/jeldwen/js/jquery.evtpaginate.js"></script>
-<script type="text/javascript" src="/templates/jeldwen/js/jquery.tinysort.min.js"></script>
-<script type="text/javascript" src="/templates/jeldwen/js/vizToolsFunctions.js"></script>
-<script type="text/javascript" src="/templates/jeldwen/js/plugins.js"></script>
-<script type="text/javascript" src="/templates/jeldwen/js/geolocation.js"></script>
-<script type="text/javascript" src="/templates/jeldwen/js/global.js"></script>
-<script type="text/javascript" src="/templates/jeldwen/js/temp.js"></script>
+<script type="text/javascript" src="http://ajax.microsoft.com/ajax/jquery.templates/beta1/jquery.tmpl.min.js"></script>
+
+<script type="text/javascript" src="/templates/jeldwen/js/fluid.js"></script>
+
+	<script type="text/javascript" src="http://c3212582.r82.cf0.rackcdn.com/final.e3b76b0fa7e0.js"></script>
+
+
 <script type="text/javascript">
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-1834476-12']);
-  _gaq.push(['_trackPageview']);
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-1834476-12']);
+	_gaq.push(['_trackPageview']);
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
 </script>
+
 <script type="text/javascript" src="/foresee/foresee-trigger.js"></script> 
 
 
