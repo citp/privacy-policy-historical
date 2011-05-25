@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eeweb.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225071901id_/http%3A//www.eeweb.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eeweb.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525072633id_/http%3A//eeweb.com/policy) for the most accurate reproduction.*
 
 # Privacy Policy | EEWeb
 
