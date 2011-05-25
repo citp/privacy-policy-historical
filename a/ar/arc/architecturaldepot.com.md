@@ -1,45 +1,110 @@
-> *The following text is extracted and transformed from the architecturaldepot.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205182056id_/http%3A//www.architecturaldepot.com/c/help-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the architecturaldepot.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525044603id_/http%3A//www.architecturaldepot.com/c/help-privacy) for the most accurate reproduction.*
 
 # Privacy Policy: ArchitecturalDepot.com
 
-We Protect Your Privacy
+**What information do we collect?**
 
-At ArchitecturalDepot.com, we are committed to protecting your privacy. We use the information we collect about you to process your order and to provide a more personalized shopping experience. Please read on for more details about our privacy policy.
+We collect information from you when you register on our site, place an order, subscribe to our newsletter, respond to a survey or fill out a form. 
 
-What information do we collect? How do we use it?
+Any data we request that is not required will be specified as voluntary or optional. 
 
-  * When you order, we need to know your name, e-mail address, mailing address, credit card number, and expiration date. This allows us to process and fill your order and notify you of the order status. 
-  * If you have set up an account with us before we store your information for your convenience.  We do not store your credit card information on file. 
-  * We may also use the information we collect to occasionally notify our users about important functional changes to our Web site, new services, and promotional offers we think you'll find valuable. 
-  * When you send a column request or wainscot request to ArchitecturalDepot.com, we ask for your name, e-mail address, and mailing address in order to complete your request. 
-  * We also monitor customer traffic patterns and site usage to help us develop the design and layout of the store and shopping cart.
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously.
 
+Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
+ **What do we use your information for?**
 
-How does ArchitecturalDepot.com protect customer information?
+Any of the information we collect from you may be used in one of the following ways: 
 
-When you shop or access your account information, we offer the use of a secure server. The secure server encryption process, known as Secure Sockets Layer (SSL), encrypts all personal information you input before it is sent to us.
+• To personalize your experience  
+(your information helps us to better respond to your individual needs)
 
-What about "cookies"?
+• To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
-"Cookies" are small pieces of information that are stored by your browser on your computer's hard drive. Our cookies do not contain any personally identifying information, but enable us to provide features such as "remember my password" and to store items in your shopping cart between visits. Most Web browsers automatically accept cookies, but you may change your browser to prevent that. You must allow a cookie to be placed on your hard drive to utilize our commerce section, as that is how we track you during the process. This cookie (it's really called a session variable) is destroyed upon you ordering or closing your browser and we retain no personal information other than that contained in our orders or forms that were directly submitted by you.
+• To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs)
 
-ArchitecturalDepot.com does not disclose personal information to outside parties.
+• To process transactions  
+Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested by the customer. 
 
-ArchitecturalDepot.com does not sell, trade, or rent your personal information. We may choose to do so in the future with trustworthy third parties, but only with your expressed consent. In addition, ArchitecturalDepot.com may provide aggregate statistics about our customers, sales, traffic patterns, and related site information to reputable third-party vendors, but these statistics will include no personally identifying information. ArchitecturalDepot.com may release account information when we believe, in good faith, that such release is reasonably necessary to (i) comply with law, (ii) enforce or apply the terms of any of our user agreements or (iii) protect the rights, property or safety of ArchitecturalDepot.com, our users, or others.
+• To send periodic emails
 
-How do you update or change your personal information?
+The email address you provide for order processing, may be used to send you information and updates pertaining to your order or request, in addition to receiving occasional company news, updates, promotions, related product or service information, etc.
 
-You may update or change your personal information related to your ArchitecturalDepot.com account(s) by accessing your profile section(s) of our website with your e-mail account and password. For other questions related to updating or changing your account information, please send us an e-mail to [sales@architecturaldepot.com](mailto:sales@architecturaldepot.com).
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
-In summary:
+• To administer a contest, promotion, survey or other site feature
 
-We are committed to protecting your privacy. We use your information only to enhance your shopping experience at ArchitecturalDepot.com. Currently we do not sell, trade, or rent your personal information to others, but may choose to do so in the future only with expressed consent.
+ **How do we protect your information?**
 
-Your consent:
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
 
-By using our web site, you acknowledge your consent to the collection and use of this information by ArchitecturalDepot.com. Any future changes to our privacy policy will be posted on this page, so you are always aware of our disclosure policy.
+These security measures include: password protected directories and databases to safeguard your information, SSL (Secure Sockets Layered) technology to ensure that your information is fully encrypted and sent across the Internet securely or PCI Scanning to actively protect our servers from hackers and other vulnerabilities. 
 
-Thank you for your consideration in these matters.
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
 
-ArchitecturalDepot.com
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
+
+ **Do we use cookies?**
+
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
+
+ **Do we disclose any information to outside parties?**
+
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+ **California Online Privacy Protection Act Compliance**
+
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+
+As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the 'Edit Profile' page.
+
+ **Childrens Online Privacy Protection Act Compliance**
+
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+
+ **CAN-SPAM Compliance**
+
+We have taken the necessary steps to ensure that we are compliant with the CAN-SPAM Act of 2003 by never sending out misleading information.
+
+ **Terms and Conditions**
+
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at http://www.architecturaldepot.com/help-terms.html.
+
+ **Your Consent**
+
+By using our site, you consent to our privacy policy.
+
+ **Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. Policy changes will apply only to information collected after the date of the change. 
+
+This policy was last modified on **03-13-2011**
+
+ **Contacting Us**
+
+If there are any questions regarding this privacy policy you may contact us using the information below. 
+
+www.ArchitecturalDepot.com  
+505 W. Lambert Road  
+Brea, CA 92821  
+United States  
+j.morris@architecturaldepot.com  
+888-573-3768
+
+ **Privacy Policy Customer Pledge**
+
+We pledge to you, our customer, that we have made a dedicated effort to bring our privacy policy in line with the the following important privacy laws and initiatives:  
+Federal Trade Commision Fair  
+California Online Privacy Protection Act  
+Childrens Online Privacy Protection Act  
+Privacy Alliance  
+Controlling the Assault of Non-Solicited Pornography and Marketing Act
+
+If at anytime you have a cause that needs to be disputed please fill out the [Trust Guard Dispute Resolution form](http://secure.trust-guard.com/disputesystem/). 
+
+Respectfully, 
+
+Robert Sellek   
+www.ArchitecturalDepot.com 
