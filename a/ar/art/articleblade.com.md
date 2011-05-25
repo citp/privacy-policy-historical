@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articleblade.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124032210id_/http%3A//articleblade.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articleblade.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525050026id_/http%3A//articleblade.com/privacy.php) for the most accurate reproduction.*
 
 # Article Directory | Submit Articles | Free Articles Content
 
@@ -37,3 +37,5 @@ Currently we assign cookies to our readers in order to save their preferences. T
 
 **Third Party Cookies**  
 Many of our advertisers use cookies in order to determine the number of times you have seen an advertisement. This is done to limit the number times you are shown the same advertisement. ArticleBlade.com does not have access to this data. 
+
+Advertisements
