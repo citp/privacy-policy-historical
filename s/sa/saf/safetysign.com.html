@@ -1,7 +1,275 @@
-<!--The following is the downloaded HTML source of the safetysign.com privacy policy that was archived on 2010-11-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101124192037id_/http%3A//safetysign.com/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the safetysign.com privacy policy that was archived on 2011-05-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110525214212id_/http%3A//www.safetysign.com/privacy-policy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" class="js canvas canvastext geolocation rgba hsla multiplebgs borderimage borderradius boxshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions  video audio localstorage sessionstorage webworkers applicationcache fontface linux chrome chrome6 webkit webkit5"><head><script type="text/javascript">$('input[name=new_user_checkout]:radio#register').click(function() {
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" class="js canvas canvastext geolocation rgba hsla multiplebgs borderimage borderradius boxshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions  video audio localstorage sessionstorage webworkers applicationcache fontface linux chrome chrome6 webkit webkit5"><head><script type="text/javascript">$(document).ready(function() {
+
+
+
+//Copy Billing Address to Shipping Address
+/*
+$('#copy-billing').click(function(){
+	
+
+
+if($('#copy-billing').is(":checked")) {
+	
+	$("input#ship-zip-code").val($("input#bill-zip-code").val()).blur().addClass("valid").removeClass("error");
+			
+	$("input#ship-company").val($("input#bill-company").val()).blur().addClass("valid").removeClass("error");
+			
+	$("input#ship-last-name").val($("input#bill-last-name").val()).blur().addClass("valid").removeClass("error");
+			
+	$("input#ship-first-name").val($("input#bill-first-name").val()).blur().addClass("valid").removeClass("error");
+			
+	$("input#ship-phone-number1").val($("input#bill-phone-number1").val()).blur().addClass("valid").removeClass("error");
+	$("input#ship-phone-number2").val($("input#bill-phone-number2").val()).blur().addClass("valid").removeClass("error");
+	$("input#ship-phone-number3").val($("input#bill-phone-number3").val()).blur().addClass("valid").removeClass("error");
+			
+	$("input#ship-fax-number").val($("input#bill-fax-number").val()).blur().addClass("valid").removeClass("error");
+			
+	$("input#ship-address1").val($("input#bill-address1").val()).blur().addClass("valid").removeClass("error");
+	
+	$("input#ship-address2").val($("input#bill-address2").val()).blur().addClass("valid").removeClass("error");
+			
+	$("input#ship-city").val($("input#bill-city").val()).blur().addClass("valid").removeClass("error");
+	
+	
+	
+	$('span#shipping-address-fields select#ship-state',':visible',document.body).each(function(i) {
+		$(this).val($('#billing-add select#state').eq(i).val() );
+		if($(this).val().length > 0 ){
+			$(this).addClass("valid");
+			$(this).removeClass("error");
+			$("#shipping-address cite").hide();
+			}
+	});
+	
+	$('span#shipping-address-fields select#ship-country',':visible',document.body).each(function(i) {
+		$(this).val($('#billing-add select#bill-country').eq(i).val() );
+		if($(this).val().length > 0 ){
+			$(this).addClass("valid");
+			$(this).removeClass("error");
+			$("#shipping-address cite").hide();
+			$('div#shipping-options20').html('');
+			}
+		
+	});
+		
+} else {
+	$('span#shipping-address-fields input', ':visible', document.body).each(function(i) { 
+		//set shipping_fields inputs to blank
+		$(this).val(""); 
+	});
+
+}
+
+});*/
+
+
+
+
+//Show Tax Exempt Message
+/*$("input[name='tax_exempt_status']").change(function(){ 
+	if( $("input[name='tax_exempt_status']:checked").val()=='Y' ) {
+		$("p#tax-exempt-notice").fadeIn("slow");
+	
+	} else {
+		$("p#tax-exempt-notice").fadeOut("fast");
+	}
+	
+
+});*/
+
+$(".nonjs").fadeOut("fast");
+
+$(".hasjs").fadeIn("slow");
+
+/*start ahamd checkout script billing and shipping*/
+$('#default_shipping_address').change(function () {
+	var edit = $(this).attr("value");
+	var action ="makedefault";
+	$.get("/templates/checkout-sec/shipping-status-update.php", {'edit':edit,'action':action},
+	function(){
+		getcheckoutRedirect();
+		} );
+});
+
+
+$('#default_billing_address').change(function () {
+	var edit = $(this).attr("value");
+	var action ="makedefault";
+	$.get("/templates/checkout-sec/billing-status-update.php", {'edit':edit,'action':action},
+	function(){
+		getcheckoutRedirect();
+		} );
+});
+
+function getcheckoutRedirect()
+	{	
+	location.replace("checkout.php");	
+	}	
+/*end ahamd checkout script billing and shipping*/
+
+	
+	//$('input#ship-zip-code').listenForChange();
+	$("input.phone-input").listenForChange();
+	$("select#ship-state").listenForChange();
+	
+	
+	$("#shipping-address input").listenForChange();
+
+	$('form#guest-checkout').validate({
+		invalidHandler: function(e, validator) {
+		var errors = validator.numberOfInvalids();
+		if (errors) {
+		var message = errors == 1
+		? 'You missed 1 field. It has been highlighted below'
+		: 'You missed ' + errors + ' required fields.  They have been highlighted below';
+		$("div.error-message span").html(message);
+		$("div.error-message").show();
+	
+		} else {
+		$("div.error-message").hide();
+		}
+		},
+		rules: {
+			  email: true
+			
+		  }
+	});
+	
+	
+	
+	
+	$('#edit-shopping-cart-button').click(function () {
+		$('div#edit-cart-warning').fadeIn("fast");		
+	});
+	
+	$('#cancel-edit-cart').click(function () {
+		$('div#edit-cart-warning').fadeOut("fast");		
+	});
+	
+	
+	
+	$('#shippingchooser').click(function () {
+		$('div#shipping-options-wrapper').hide();
+		var shipcity = $("div#shipping-address input#ship-city").attr("value");
+		var shipstate = $("div#shipping-address select#ship-state").attr("value");
+		var shipzip = $("div#shipping-address input#ship-zip-code").attr("value");
+		var shipcountry = $("div#shipping-address select#ship-country").attr("value");
+		
+		if(shipcity != "" && shipstate != "" && shipzip != ""){
+			$('div#shipping-options-wrapper').fadeIn("fast");
+			$("#no-shipping-notice").hide();
+			$("div#shipping-address #zip-required").removeClass("highlight");
+			$("#shipping-options").load("process/calculate-shipping-ajax.php", {'shipcity':shipcity,'shipstate':shipstate,'shipzip': shipzip,'shipcountry': shipcountry }, function(){
+			$('div#shipping-options20').html('');
+			$('div#shipping-options').slideDown('fast');
+			} );
+		}else{
+			$('div#shipping-options20').html('');
+			$('div#shipping-options-wrapper').fadeIn("fast");
+			$("#no-shipping-notice").fadeIn("fast");
+			
+		}
+	});
+
+	
+	
+	$('input#ship-zip-code').bind('blur', function () {
+		
+		$('div#shipping-options-wrapper').fadeIn("fast");
+			$('div#no-shipping-notice').hide();
+			var shipcity = $("div#shipping-address input#ship-city").attr("value");
+			var shipstate = $("div#shipping-address select#ship-state").attr("value");
+			var shipzip = $("div#shipping-address input#ship-zip-code").attr("value");
+			var shipcountry = $("div#shipping-address select#ship-country").attr("value");
+			$("div#shipping-address #zip-required").removeClass("highlight");
+	
+		$("#shipping-options").load("process/calculate-shipping-ajax.php", {'shipcity':shipcity,'shipstate':shipstate,'shipzip': shipzip,'shipcountry': shipcountry }, function(){
+			$('div#shipping-options20').html('');
+			$('div#shipping-options').slideDown('fast');
+			
+			} );
+		
+		
+		});
+		
+	$('select#ship-state').bind('change', function () {
+		
+		$('div#shipping-options-wrapper').fadeIn("fast");
+			$('div#no-shipping-notice').hide();
+			var shipcity = $("div#shipping-address input#ship-city").attr("value");
+			var shipstate = $("div#shipping-address select#ship-state").attr("value");
+			var shipzip = $("div#shipping-address input#ship-zip-code").attr("value");
+			var shipcountry = $("div#shipping-address select#ship-country").attr("value");
+			$("div#shipping-address #zip-required").removeClass("highlight");
+	
+		$("#shipping-options").load("process/calculate-shipping-ajax.php", {'shipcity':shipcity,'shipstate':shipstate,'shipzip': shipzip,'shipcountry': shipcountry }, function(){
+			$('div#shipping-options20').html('');
+			$('div#shipping-options').slideDown('fast');
+			
+			} );
+		
+		
+		});
+
+
+
+	emptyZipHighlight();
+	
+	function emptyZipHighlight() {
+		var shipzip = $("div#shipping-address input#ship-zip-code").attr("value");
+		if (shipzip == "") {
+			$("div#shipping-address #zip-required").addClass("highlight");
+		}
+	}
+	
+	
+	
+	function payByMethod(){
+		var typeOfCard = $("div#pay-by-this-method ul li#brimar").hasClass("selected");
+		if (typeOfCard == true) {
+			$("div#pay-by-this-method ul li#brimar a").html("&#8226; Brimar Net 30 Account");
+			$("#credit-card-type-wrapper").hide();
+			$("#credit-card-type-wrapper #credit_card_type").removeClass("required");
+			$("#save-credit-card-info").hide();
+			$("#credit-card-statement").hide();
+		} else{
+			$("#credit-card-type-wrapper #credit_card_type").addClass("required");
+			$("div#pay-by-this-method ul li#credit a").html("&#8226; Credit/Debit Card");
+		}
+	
+	}
+	
+	payByMethod();
+	
+	
+	
+	
+});
+
+/*
+     FILE ARCHIVED ON 10:14:07 Sep 30, 2011 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 11:46:13 Jan 31, 2020.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  PetaboxLoader3.datanode: 368.815 (4)
+  LoadShardBlock: 348.861 (3)
+  CDXLines.iter: 21.695 (3)
+  PetaboxLoader3.resolve: 104.212
+  exclusion.robots: 0.315
+  captures_list: 748.626
+  load_resource: 143.912
+  exclusion.robots.policy: 0.298
+  RedisCDXSource: 371.565
+  esindex: 0.013
+*/</script><script type="text/javascript">$('input[name=new_user_checkout]:radio#register').click(function() {
 		$('div#create-an-account.expandee').fadeIn("fast");
 		$('input#new_user_register').fadeIn('fast',function(){
 			$('div#sign-up-benifit').fadeIn("fast");
@@ -40,119 +308,2133 @@ playback timings (ms):
   RedisCDXSource: 303.596
   LoadShardBlock: 198.911 (3)
   esindex: 0.012
-*/</script><script type="text/javascript">//date for Homepage
-var monthNames = new Array(
-"January","February","March","April","May","June","July",
-"August","September","October","November","December");
+*/</script><script type="text/javascript">$(document).ready(function() {
 
-var dayNames = new Array(
-"Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday");
+if ((screen.height>=770))
+{
+	$("body").addClass("high-res");
+	
+} else {
 
-var now = new Date();
+	$("body").addClass("low-res");
+	
+};
 
-//popups
-window.name="main";
 
-function popGQForm(url) 
-{ 
-	var slideWindow="";
-	slideWindow = window.open(url,'Slideshow','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=no,resizable=yes,width=430,height=680, top=5, left=5');
-	slideWindow.focus();
-}
+if ($.fn.browserTouchSupport.touches) { 
+	$("body").addClass("touch-enabled");
 
-function popSlideShow(url) 
-{ 
-	var slideWindow="";
-	slideWindow = window.open(url,'Slideshow','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=no,resizable=yes,width=513,height=600, top=5, left=5');
-	slideWindow.focus();
-}
+} else {
+	$("body").addClass("not-touch-enabled");
+	
+};
 
-function popSlideShowV(url) 
-{ 
-	var slideWindow="";
-	slideWindow = window.open(url,'Slideshow','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=no,resizable=yes,width=891,height=602, top=5, left=5');
-	slideWindow.focus();
-}
+if ($.layout.name != 'webkit') {
+	$("#landing-page .error-message").fadeIn('fast');
+};
 
-function popSlideShowH(url) 
-{ 
-	var slideWindow="";
-	slideWindow = window.open(url,'Slideshow','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=no,resizable=yes,width=730,height=532, top=5, left=5');
-	slideWindow.focus();
-}
 
-function popContact(url) 
-{ 
-	var pop_width="";
-	if (document.all)
-	{
-		pop_width = 447;
+//$("input.phone-input").mask("(999)999-9999");
+
+$.ajaxSetup({ cache: false });
+
+var ajax_load_large = "<img src='/new_images/ajaxloader/ajax-loader-bw-large.gif' alt='loading...' />";
+var ajax_load_small_orange = "<img src='/new_images/ajaxloader/ajax-loader-small-orange.gif' alt='loading...' />";
+
+
+//Flash Tutorial
+$(".msie6 .remove-for-ie").remove();
+$(".msie7 .remove-for-ie").remove();
+
+
+
+$("a#watch-tutorial-button[rel]").overlay({
+	
+	 mask: { 
+        color: '#333', 
+        loadSpeed: 200, 
+        opacity: 0.5 
+    }, 
+     closeOnClick: false
+ });
+ 
+/*!Global Validation Settings*/
+jQuery.validator.setDefaults({ 
+	
+	/*Set container for error elements */
+	errorElement: "span",
+	wrapper: "cite",
+
+	
+	invalidHandler: function(e, validator) {
+	var errors = validator.numberOfInvalids();
+	if (errors) {
+	var message = errors == 1
+	? 'You missed 1 field. It has been highlighted below'
+	: 'You missed ' + errors + ' required fields.  They have been highlighted on the form.';
+	$("div.error-message span").html(message);
+	$("div.error-message").show();
+	
+	} else {
+	$("div.error-message").hide();
 	}
-	else
-	{
-		pop_width = 430;
+	},	
+	
+	rules: {
+		brimar_card_number: {
+				maxlength: 10
+			},
+		shipphonenumber1 : {
+			minlength: 3,
+			digits: true
+		},
+		
+		phonenumber1 : {
+			minlength: 3,
+			digits: true
+		},
+		
+		shipphonenumber2 : {
+			minlength: 3,
+			digits: true
+		},
+		
+		phonenumber2 : {
+			minlength: 3,
+			digits: true
+		},
+		
+		shipphonenumber3 : {
+			minlength: 4,
+			digits: true
+		},
+		
+		phonenumber3 : {
+			minlength: 4,
+			digits: true
+		}
+	},
+	
+	messages: {
+	
+		shippingmethod: {
+			required: "Please choose a shipping method"
+		},
+		
+		payment : {
+		required : "Please select a payment method"
+		},
+		
+		contact_email : {
+		required : "Please enter your email address"
+		},
+		
+		email : {
+		required : "Please enter your email address"
+		},
+		
+		username : {
+		required : "Please enter a username, this is usually your email address"
+		},
+		
+		userpassword: {
+		required : "Please enter your password"
+		},
+		
+		createpassword: {
+		required : "Please create a password"
+		},
+		
+		confirmpassword: {
+		required : "Please enter your password again",
+		equalTo : "Please enter the same password again"
+		},
+		
+		shipfirstname : {
+		required : "Please enter your first name"
+		},
+		
+		name : {
+		required : "Please enter your name"
+		},
+		
+		firstname : {
+		required : "Please enter your first name"
+		},
+		
+		contact_name : {
+		required : "Please enter your name"
+		},
+		
+		shiplastname : {
+		required : "Please enter your last name"
+		},
+		
+		lastname : {
+		required : "Please enter your last name"
+		},
+		
+		shipphonenumber : {
+		required : "Please enter your phone number"
+		},
+		
+		phonenumber : {
+		required : "Please enter your phone number"
+		},
+		
+		contact_phone : {
+		required : "Please enter your phone number"
+		},
+		
+		shipaddress1 : {
+		required : "Please enter your shipping address"
+		},
+		
+		address1 : {
+		required : "Please enter your billing address"
+		},
+		
+		billaddress1 : {
+		required : "Please enter your billing address"
+		},
+		
+		shipcity : {
+		required : "Please enter your city"
+		},
+		
+		city2 : {
+		required : "Please enter your city"
+		},
+		
+		billcity : {
+		required : "Please enter your city"
+		},
+		
+		sstate : {
+		required : "Please choose a state"
+		},
+		
+		state : {
+		required : "Please choose a state"
+		},
+		
+		shipzip : {
+		required : "Please enter your zip code"
+		},
+		
+		billzip : {
+		required : "Please enter your zip code"
+		},
+		
+		zipcode : {
+		required : "Please enter your zip code"
+		},
+		
+		brimar_card_number : {
+		required: "Please enter your account number",
+		maxlength: "The maximum amount of characters is 10. Ex. ABCDEFN001"
+		},
+		
+		credit_card_number : {
+		required : "Please enter your credit card number",
+		creditcard : "Please enter a valid credit card number"
+		},
+		
+		CCExpiresMonth: {
+			required: "Please select a expiration date"
+		},
+		
+		CCExpiresYear: {
+			required: "Please select a expiration date"
+		},
+		
+		security_code : {
+		required : "Please enter your security code"
+		},
+		
+		brimar_security_number : {
+		required : "Please enter your security code"
+		},
+		
+		shippingmethod: {
+		required: "Please choose a shipping method"
+		},
+		
+		payment : {
+		required : "Please choose a payment method"
+		},
+		
+		message: {
+		required : "Please enter a message"
+		},
+		
+		order_number: {
+		required : "Please enter your order number"
+		},
+		
+		credit_card_type : {
+		required : "Please choose your credit card type"
+		},
+		
+		shipphonenumber1 : {
+		required : "Please enter your phone number"
+		},
+		
+		phonenumber1 : {
+		required : "Please enter your phone number"
+		},
+		
+		shipphonenumber2 : {
+		required : "Please enter your phone number"
+		},
+		
+		phonenumber2 : {
+		required : "Please enter your phone number"
+		},
+		
+		shipphonenumber3 : {
+		required : "Please enter your phone number"
+		},
+		
+		phonenumber3 : {
+		required : "Please enter your phone number"
+		}
+	
+},
+
+groups: {
+	expirationdate: "CCExpiresMonth CCExpiresYear",
+	shipphonenumber: "shipphonenumber1 shipphonenumber2 shipphonenumber3",
+	billphonenumber: "phonenumber1 phonenumber2 phonenumber3"
+
+},
+
+ errorPlacement: function(error, element) { 
+ 	var parentElement = element.parent();
+            if ( element.is(":radio") ) 
+                 error.prependTo( element.parents("div#shipping-options"));
+             else if(element.attr("name") == "CCExpiresMonth" || element.attr("name") == "CCExpiresYear" || element.attr("name") == "phonenumber1" || element.attr("name") == "phonenumber2" || element.attr("name") == "phonenumber3" || element.attr("name") == "shipphonenumber1" || element.attr("name") == "shipphonenumber2" || element.attr("name") == "shipphonenumber3")
+             	error.appendTo(parentElement).addClass("phone-error");
+             else    
+                error.insertAfter(element); 
+			
+ 			}
+});
+
+ 
+/*!Feedback Form Page Slide*/
+
+
+$('form#site-feedback').validate({
+
+invalidHandler: function(e, validator) {
+var errors = validator.numberOfInvalids();
+if (errors) {
+var message = errors == 1
+	? 'You missed 1 field. It has been highlighted below'
+	: 'You missed ' + errors + ' required fields.  They have been highlighted below';
+$("div#feedback-error-message span").html(message);
+$("#feedback-intro").hide();
+$("div#feedback-error-message").show();
+
+} else {
+$("div#feedback-error-message").hide();
+$("#feedback-intro").show();
+}
+},
+rules: {
+    email: {
+      required: true,
+      email: true
+    }
+}, 
+submitHandler: function(form) {
+$(form).ajaxSubmit({
+	beforeSubmit: showLargeLoadGraphic,
+	success: showThankyouMessage
+
+});}});
+
+
+
+
+$("a#feedback").click(function(){ 
+
+var feedbackForm = $("#feedback-form");
+var closeFeedback = $("a.close-siderail")
+
+if (Modernizr.csstransitions) {
+		
+	$(feedbackForm).css("display", "block").bind('webkitAnimationEnd', function() {
+		$(closeFeedback).click(function(){
+			$(feedbackForm).css("-webkit-animation-name","slideouttoright").bind('webkitAnimationEnd', function() {
+				$(feedbackForm).css("display", "none").css("-webkit-animation-name","slideinfromright").unbind('webkitAnimationEnd');
+		});
+		});
+	
+	});
+	
+} else {
+
+	$(feedbackForm).animate({
+	
+		width: ['50%','swing']
+
+	}, "fast", function() {
+			
+	$(closeFeedback).click(function(){ 
+		$(feedbackForm).fadeOut();}
+	)});
+			
 	}
-	var contact="";
-	contact = window.open(url,'ContactUs','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=' + pop_width + ',height=680, top=5, left=5');
-	contact.focus();
-}
+});
+
+function showOther(divToOpen) {
+	$(divToOpen).css("display", "block");
+
+};
 
 
-//parent window linking
- function parentWin(url) {
-            opener.location.href = url;
-            window.close();
-		  }
+//Google Landing Pages 
+if ($.fn.browserTouchSupport.touches) {
+	
+	var divToOpen = $("#other-sign-categories");
+	
+	$("#see-other-categories").bind("touchstart", function(){
+		
+		$(this).css("background-color", "red");
+	
+	return false; });
+	
+	$("#see-other-categories").bind("touchend", function(){
+		
+		showOther(divToOpen);
+	
+	return false; });
+	
+  	
+} else {
 
- function goHome(url) {
-            opener.location.href = url;
-		  }
-		  
-function newsPrevious(article) {
-	var thisArticle = 'centercol_item_mid' + article
-	var previousArticle;
-	switch (thisArticle){
-		case "centercol_item_mid1":
-			previousArticle = 'centercol_item_mid2';
-		break;
-		case "centercol_item_mid2":
-			previousArticle = 'centercol_item_mid3';
-		break;		
-		case "centercol_item_mid3":
-			previousArticle = 'centercol_item_mid4';
-		break;				
-		case "centercol_item_mid4":
-			previousArticle = 'centercol_item_mid5';
-		break;								
-	}	
-	document.getElementById(thisArticle).style.display = 'none';
-	document.getElementById(previousArticle).style.display = 'inline';
-}
+$("#see-other-categories").click(function(){
+	
+	$("#other-sign-categories").slideDown('fast', function(){
+		
+$("#choose-another-category-footer").addClass("opened");
+	
+	$("#close-landing-page-menu").click(function(){
+		$("#other-sign-categories").slideUp('fast');
+		$("#choose-another-category-footer").removeClass("opened");
+	});
 
-function newsNext (article) {
-	var thisArticle = 'centercol_item_mid' + article
-	var nextArticle;
-	switch (thisArticle){
-		case "centercol_item_mid2":
-			nextArticle = 'centercol_item_mid1';
-		break;
-		case "centercol_item_mid3":
-			nextArticle = 'centercol_item_mid2';
-		break;		
-		case "centercol_item_mid4":
-			nextArticle = 'centercol_item_mid3';
-		break;				
-		case "centercol_item_mid5":
-			nextArticle = 'centercol_item_mid4';
-		break;								
-	}	
-	document.getElementById(thisArticle).style.display = 'none';
-	document.getElementById(nextArticle).style.display = 'inline';
-}
+return false;
+});
+
+});}
 
 /*
-     FILE ARCHIVED ON 17:08:34 Oct 02, 2005 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 11:38:20 Jan 31, 2020.
+$("a#watch-tutorial-button").fancybox({
+	'hideOnContentClick': true
+});
+*/
+
+$("div#movie_container").flashembed("/tutorials/custom_tool_demo.swf", { 
+ 	wmode: 'transparent',
+ 	expressInstall: '/tutorials/expressinstall.swf'}); 
+
+//Focus Span next to Radio Buttons
+
+//Clear form fields when user enters text
+
+ $('.clearable').clearField({ blurClass: 'blurredinput', activeClass: 'activeinput' });
+
+
+//Search Autocomplete
+
+$("#search-input").autocomplete( nxt_ac_words, { 
+ 	selectFirst: false,
+	autoFill: false,
+	width: 260,
+	scroll: false });
+
+
+//Shopping Cart Preview Using jQuery Tools Tooltip
+
+var shopPreviewconfig = {    
+     sensitivity: 4, // number = sensitivity threshold (must be 1 or higher)    
+     interval: 200 // number = milliseconds for onMouseOver polling interval    
+        
+};
+
+//Prevent people from using spaces in email
+
+function inputRestrictions() {
+$("input.nospace").alphanumeric({ichars:' '});
+$("input.number-for-sign-input").numeric({});
+$("input.quantity").numeric({});
+$("input#credit-card-number").alphanumeric({ichars:' '}); 
+$("input#credit-card-number").bestupper({}); 
+};
+
+inputRestrictions();
+
+//Set Global Variable for Price
+
+
+function showShoppingCart(shopPreview) {
+
+$('#shopping-cart-preview').slideDown('fast');
+$(shopPreview).removeClass("loading");
+
+}
+
+$('html:not(.msie6,.msie7) a#view-your-shopping-cart').each(function() { 
+	var shopPreview = $(this);
+	$(this).hoverIntent( function() {
+	$('dd#how-much span#go-to-cart').text("Go To Cart");
+	$('span#totalhide').fadeOut('fast');
+	$(this).addClass("showpreview").addClass("loading");
+
+	$('#shopping-cart-preview').load('/shoppingcartpreview.php','',showShoppingCart(shopPreview));
+},
+
+function() {
+	$('dd#how-much span#go-to-cart').text('My Cart:');
+	$('span#totalhide').fadeIn('fast');
+	$('#shopping-cart-preview').hide('fast');
+	$(shopPreview).removeClass("showpreview");
+
+});
+
+})
+
+//Add to Cart Form validation
+
+	//Add a class of current-form to add-to-cart form inputs to isolate validation
+$('form.addtocart input[value = ""]').nextAll("button").attr("disabled","disabled");
+$('form.addtocart input.add-to-cart-input').attr("disabled","");
+
+//Add To Cart Custom Focus
+$("input[name='designapproval']").click(function() {
+	$("input[name='designapproval']").parent("div").removeClass("focus");
+	$(this).parent("div").addClass("focus");
+	var approval = $(this).val(); 	
+	$("input[name='designapprovalchoice']").val(approval);
+	
+});
+
+
+	
+$('form.addtocart input').focus(function(){
+	//$(this).parents("form").addClass("validate-me");
+	$(this).nextAll("button").attr("disabled","");
+	
+});
+	
+//If Item has mounting option show mounting option div
+
+$('form.custom.addtocart input.quantity:text').focus(function(){
+$("div.has-material").fadeOut();
+$("div.has-number-input").fadeOut();
+if ($(this).attr("value")!="") {
+	$(this).next("div.has-material").fadeIn("fast"); }
+});
+
+$('form.custom.addtocart input:text').keypress(function(){
+if ($(this).attr("value")=="") {	
+	$(this).next("div.has-material").show("fast");
+	$(this).next("div.has-number-input").show("fast"); }
+});
+
+$('form.custom.addtocart input:text').blur(function(){
+//$(this).next("div.has-material").show("fast");
+	if ($(this).attr("value")=="") {
+	$(this).nextAll("div.has-material").hide("fast");
+	$(this).nextAll("div.has-number-input").hide("fast");
+}
+});
+//If Item quantity is empty then hide mounting options
+	
+	
+$('form.custom.addtocart input').blur(function(){
+	//$(this).parents("form").removeClass("validate-me");
+});
+//Validate that quanity field is not empty
+
+function validate(formData, jqForm, options) { 
+ 	
+ 	$(".add-to-cart-confirmation.showme").removeClass("showme");
+    var form = jqForm[0];
+    var formParent = $(form).parent();
+
+    if (!form.qtyField.value ) { 
+        return false;
+        
+        
+    } else {
+    $(form).find(".add-to-cart-button").attr("disabled","disabled");
+	$("<div/>", {
+	"class": "adding",
+	text: "Adding...."
+	}).appendTo(formParent);
+    
+    }
+  	
+    var currentquanity = $('tr.data-row.over input[name=qtyField]').fieldValue();
+  	var currentmaterial = $('tr.data-row.over input[name=mounting_choice]').fieldValue();
+  	
+ 	$("tr.data-row.over .add-to-cart-confirmation span.qty").text(currentquanity +'')
+ 	$("tr.data-row.over .add-to-cart-confirmation span.mounting").text(currentmaterial+'')
+ 	$("tr.data-row.over .add-to-cart-confirmation").addClass("showme");
+ 	 
+ 	$("div.has-material").fadeOut("fast");
+ 
+
+}
+
+function validateNumberform(formData, jqForm, options) { 
+ 
+ 	$(".add-to-cart-confirmation.showme").removeClass("showme");
+    var form = jqForm[0]; 
+    if (!form.qtyField.value ) { 
+        return false; 
+    } else if (!form.number_for_sign.value) {
+    	return false; 
+    	
+    }
+  
+    var currentquanity = $('tr.data-row.over input[name=qtyField]').fieldValue();
+  	var currentnumber = $('tr.data-row.over input[name=number_for_sign]').fieldValue();
+ 	
+ 	$("tr.data-row.over .add-to-cart-confirmation span.qty").text(currentquanity +'')
+ 	$("tr.data-row.over .add-to-cart-confirmation span.number").text('With the number ' + currentnumber+'')
+ 	$("tr.data-row.over .add-to-cart-confirmation").addClass("showme");
+ 	 
+ 	$("div.has-number-input").fadeOut("fast");
+ 
+}
+
+
+function showAddConfirm(responseText, statusText, xhr, $form) { 
+	
+	var form = $form
+	var formParent = $(form).parent();
+	$(formParent).removeClass("loading");
+	$(formParent).find("div.adding").remove();
+	$(form).find(".add-to-cart-button").attr("disabled","");
+  $(".add-to-cart-confirmation.showme").fadeIn("fast");
+ 	var updateTop = responseText.split("|");
+  $("div#items-in-your-cart-header dl").effect("highlight", {}, 1000);
+  $("span#totalhide").text(" " + updateTop[2]);
+  $("span#carthide").text(updateTop[1]);
+  
+  $(this).resetForm();
+   $('.clearable').clearField({ blurClass: 'blurredinput', activeClass: 'activeinput' });
+
+
+
+}
+
+//Close confirmation box
+
+
+
+$('form.custom.addtocart.has-number-input').ajaxForm({
+ 
+ 	beforeSubmit: validateNumberform,
+ 	resetForm: true,
+ 	success: showAddConfirm
+ 		
+});
+
+$('form.addtocart:not(.has-number-input)').ajaxForm({
+ 	
+	beforeSerialize: function($form, options) { 
+	      $("<input type='hidden' name='submit_type' value='ajax_submit' />").appendTo($form)         
+	},
+ 	beforeSubmit: validate,
+ 	resetForm: true,
+ 	success: showAddConfirm
+ 		
+});
+
+
+$('.add-to-cart-confirmation a.continue-shopping').click(function(){
+
+	$('.add-to-cart-confirmation.showme').fadeOut("fast");
+	return false;
+
+
+});
+
+
+
+function succesfulContactForm() {
+
+	$(".form-container div.loading").fadeOut("fast")
+	$(".form-container div.thankyou").fadeIn("fast");
+	
+
+}
+
+function showLargeLoadGraphic() {
+
+	$("form.contacting").fadeOut("fast");
+	$(".form-container div.loading").fadeIn("fast").html(ajax_load_large);
+	
+
+}
+
+
+/* !Validate Contact Form */
+$('form#contact-form').validate({
+
+rules: {
+    contact_email: {
+      required: true,
+      email: true
+    }
+}
+//, 
+//submitHandler: function(form) {
+//$(form).ajaxSubmit({
+//	beforeSubmit: showLargeLoadGraphic,
+//	success: succesfulContactForm
+//});}
+});
+
+//If user chooses "other" for return reason then display a message box
+$('#return-reason-selector').change(function() {
+  if ($(this).val() == 'other') { 
+     $("#other-reason-for-return").fadeIn();
+  } else {
+  
+  	 $("#other-reason-for-return").fadeOut();
+  
+}});
+
+
+
+
+jQuery.validator.addMethod("nowhitespace", function(value, element) {
+	return this.optional(element) || /^\S+$/i.test(value);
+}, "Spaces are not allowed"); 
+
+
+$('form#new-user-register').validate({
+invalidHandler: function(e, validator) {
+var errors = validator.numberOfInvalids();
+if (errors) {
+	var message = errors == 1
+		? 'You missed 1 field. It has been highlighted below'
+		: 'You missed ' + errors + ' required fields.  They have been highlighted below';
+	$("div.error-message span").html(message);
+	$("div.error-message").show();
+	
+} else {
+	$("div.error-message").hide();
+}
+},
+rules: {
+    email: {
+      required: true,
+      email: true
+    },
+    createpassword: {
+    	required: true,
+      	minlength: 5,
+      	nowhitespace: true
+    
+    },
+    confirmpassword: {
+      equalTo: "#create-password"
+    }
+    
+  },
+submitHandler: function(form) {
+	
+	$(form).ajaxSubmit(
+{
+	success: function(msg){
+
+	if(msg==1) 
+	{
+	javascript:location.reload(true);
+	}
+	else if(msg==0) 
+	{
+	$('form#new-user-register input#email').removeClass('valid').addClass('error');
+	$('div#email-address-already-in-use').show('fast');
+	
+}}
+
+});
+
+}});
+
+
+//Validate Standalone Guest Form
+
+$('form#new-user-guest-checkout').validate({
+invalidHandler: function(e, validator) {
+var errors = validator.numberOfInvalids();
+if (errors) {
+	var message = errors == 1
+		? 'You missed 1 field. It has been highlighted below'
+		: 'You missed ' + errors + ' required fields.  They have been highlighted below';
+	$("div.error-message span").html(message);
+	$("div.error-message").show();
+	
+} else {
+	$("div.error-message").hide();
+}
+},
+rules: {
+    email: {
+     
+      email: true
+    },
+    createpassword: {
+   
+      	minlength: 5,
+      	nowhitespace: true
+    
+    },
+    confirmpassword: {
+   
+    	equalTo: "#create-password"
+    }
+    
+  }
+});
+
+
+$('form#returning-user-signins').validate({
+	invalidHandler: function(e, validator) {
+	var errors = validator.numberOfInvalids();
+	if (errors) {
+	var message = errors == 1
+	? 'You missed 1 field. It has been highlighted below'
+	: 'You missed ' + errors + ' required fields.  They have been highlighted below';
+	$("div.error-message span").html(message);
+	$("div.error-message").show();
+
+	} else {
+	$("div.error-message").hide();
+	}
+},
+rules: {
+    username: {
+      required: true,
+      email: true
+    }
+    
+  }
+});
+
+//Default form tooltip
+$("input.hastooltip").tooltip({ 
+ 
+    // place tooltip on the right edge 
+    position: "top center", 
+    
+    relative: true, 
+ 
+ 	
+ 	offset: [-10, 0], 
+
+    // a little tweaking of the position 
+ 
+    // use the built-in fadeIn/fadeOut effect 
+    effect: "fade", 
+ 
+    // custom opacity setting 
+    opacity: 1, 
+ 
+    // use this single tooltip element 
+    tip: '.form-tooltip' 
+ 
+});
+
+
+
+//Show home button
+$("div#header.container").hover(function() {
+	$("h1#logo").addClass("preview")
+}, 
+      function () { 
+      	$("h1#logo").removeClass("preview");
+      }
+      
+);
+
+
+
+//Add To Cart Panels
+$("ul#item-detail-slide-navigation").tabs("div#additional-details-slider > div.panel",{
+    effect: 'slide', 
+    fadeOutSpeed: "fast", 
+    rotate: true 
+
+});
+
+//Add to Cart Switch Details and Atributes
+
+$("div#details-navigation ul").tabs("div#detail-attribute-panel > div.details-panel",{
+    effect: 'slide', 
+    fadeOutSpeed: "fast", 
+    rotate: true 
+
+});
+
+function boldLabels(inputToChange) {
+	$(inputToChange).next('label').addClass("chosen");
+}
+
+//NFPA Severity Switcher
+$("div.choose-an-attribute input[type='radio']").click(function() {
+	graphicToChange = $(this).attr("name");
+	switchNumberto = $(this).val().replace(/ /g,'_').toLowerCase();
+	$("div#"+graphicToChange).removeClass();
+	$("div#"+graphicToChange).addClass("hazard_"+switchNumberto);
+	$("div#"+graphicToChange+"-hazard label").removeClass("chosen")
+	inputToChange = $(this)
+	$("input."+graphicToChange).val(switchNumberto);
+	boldLabels(inputToChange);
+});
+
+
+//Set up NFPA Choices as Global Variables
+
+
+
+//Sign Color Switcher
+$("div#choose-color.choose-an-attribute input[type='radio']").click(function() {
+	colorSignToChange = $(this).attr("id");
+	switchNumberto = $(this).val().replace(/ /g,'_').toLowerCase();
+	
+	$("img.current-sign-color").removeClass("current-sign-color").hide();
+	$("img#item-"+colorSignToChange).show().addClass("current-sign-color");
+	$("div#choose-color.choose-an-attribute label").removeClass("chosen")
+	inputToChange = $(this)
+	boldLabels(inputToChange);
+
+})
+
+
+
+/* !Add to Cart Preview Popup */
+
+$('form:not(.custom) input.add-to-cart-input').focus(function() {
+	$("div#loading-text").remove();
+	$(this).after("<div id='loading-text' class='noshow'><h4>You've just added</h4><p><span class='qty'></span><span class='item-added'></span></p></div>");
+		
+$("td.add-to-cart-form a ").click(function() {
+
+itemAddedAttributes();
+	
+}) });
+
+//AddtoCart Verify Quanity if it has a mounting choice then display tooltip
+
+$("form.has-material-option input.remotetooltip").tooltip({ 
+ 
+    // place tooltip on the right edge 
+    position: "center right", 
+ 	
+ 	offset: [-2, 20], 
+    // a little tweaking of the position 
+ 	relative: true, 
+ 
+    // use the built-in fadeIn/fadeOut effect 
+    effect: "fade", 
+ 
+    // custom opacity setting 
+    opacity: 0.9, 
+ 
+    // use this single tooltip element 
+    tip: '.new-user-form-tooltip' 
+ 
+});
+
+
+
+
+$('div#expand-click-area').click(function(){
+	$("div#loading-text").hide();
+	$("div.add-to-cart-confirmation").hide();
+ 	
+})
+
+
+//Remote Sign In
+
+$("html:not(.msie6,.msie7) body:not('#signin-page') a.signin-remote-button[rel]").overlay({
+	expose: { 
+        color: '#333', 
+        loadSpeed: 200, 
+        opacity: 0.5 
+    } 
+ });
+
+$("a#account-trigger").click( function(){
+
+	$('div#why-sign-up-and-login').hide('fast');
+	$('div#create-an-account').show('fast');
+	return false;
+
+});
+
+
+//Set Equal Heights
+
+$.fn.equalHeights = function(px) {
+	$(this).each(function(){
+
+		var currentTallest = 0;
+		$(this).children().each(function(i){
+			if ($(this).height() > currentTallest) { currentTallest = $(this).height(); }
+		});
+		//if (!px || !Number.prototype.pxToEm) currentTallest = currentTallest.pxToEm(); //use ems unless px is specified
+		// for ie6, set height since min-height isn't supported
+		if ($.browser.msie && $.browser.version == 6.0) { $(this).children().css({'height': currentTallest}); }
+		$(this).children().css({'min-height': currentTallest}); 
+		
+	});
+	return this;
+	
+};
+
+//Set Equal Heights for Browse Product Pages
+/*
+$(window).load(function() {
+	
+	$('html:not(.msie6) div.product-subcategory-group').equalHeights(true);
+	$('html:not(.msie6) div#item-image-and-description').equalHeights(true);
+});
+*/
+
+
+
+$("div#custom-signs .edit-info").scrollable({
+	
+	size: 1
+	  
+}).navigator();
+
+function removeItem() {
+	// get handle to scrollable api
+	var api = $("div.edit-form.choose").scrollable();
+
+	// move in 1 millisecond to the end to see what will happen
+	api.end(1);
+
+	// remove last item with jQuery's remove() method
+	api.getItems().filter(".delete").remove();
+
+	// rebuild scrollable and go one step backward
+	api.reload().prev();
+}
+
+
+
+
+//Submit Button Rollovers
+		
+$('input.search-btn').hover(   
+
+	function() {
+		$(this).attr({ src: "images/search_btn.png"});
+	},
+	function() {
+		$(this).attr({ src: "images/search_btn_hover.png"});
+	}
+);
+
+
+//Show and hide Search refinements
+
+$('a.show-more').click(function() {
+	$(this).prev("span.hidden-refined-results").slideToggle("fast").addClass("down");
+	return false
+});
+
+$('a.show-more').toggle(
+
+function() {
+
+	$("span.button-copy",this).html("Show less ");
+
+	return false
+},
+
+function() {
+
+	$("span.button-copy",this).html("Show More ");
+
+	return false
+}
+
+);
+
+//TR Mouse overs
+$('table tr.data-row').mouseover(function(){$(this).addClass("over");}).mouseout(function(){$(this).removeClass("over");});
+
+
+//Highlighting Form Elements
+function highlightFormContainers() {
+$('input,textarea').each(function(){
+	$(this).focus(function() {
+		$(this).parents('div.form-container')
+		.addClass('focused');
+		$(this).prev('label').addClass('focused');
+	
+		}).blur(function() {
+			$(this).parents('div.form-container').removeClass('focused');
+			$(this).prev('label').removeClass('focused');
+	});
+});
+
+}
+
+highlightFormContainers();
+
+
+
+/* !Validate Checkout Form */
+$.metadata.setType("attr", "validate");
+
+
+$(".checkout-form").validate({
+
+rules: {
+	
+
+	credit_card_number: {
+		required: true,
+     	creditcard: true
+	},
+	
+	 email: {
+      required: true,
+      email: true
+    },
+    
+    zipcode: {
+      required: true
+
+    },
+    
+    shipzip: {
+      required: true
+      
+
+    },
+    
+     shippingmethod: {
+      required: true
+
+    }
+    
+ 
+    
+    }
+	});
+
+//Validate Edit Forms
+//Shipping 
+
+
+//http://furrybrains.com/2009/01/02/capturing-autofill-as-a-change-event/
+
+$("form#checkout-form").listenForChange();  
+$("form#edit-shipping-data").listenForChange();  
+
+
+
+//Checkout Optional Steps
+$('input#ship-zip-code').live('blur', function () {
+	
+	var shipcity = $("div#shipping-address input#ship-city").attr("value");
+	var shipstate = $("div#shipping-address select#ship-state").attr("value");
+	var shipzip = $(this).attr("value");
+	var shipcountry = $("div#shipping-address select#ship-country").attr("value");
+
+	$("#shipping-options").load("process/calculate-shipping-ajax.php", {'shipcity':shipcity,'shipstate':shipstate,'shipzip': shipzip,'shipcountry': shipcountry }, function(){
+		$('div#shipping-options').slideDown('fast');
+		} );
+});
+
+$('div#shipping-address-fields select#ship-country').change(function () {
+	
+	var shipcity = $("div#shipping-address input#ship-city").attr("value");
+	var shipstate = $("div#shipping-address select#ship-state").attr("value");
+	var shipcountry = $(this).attr("value");
+	var shipzip = $("div#shipping-address input#ship-zip-code").attr("value");
+	$("#shipping-options").load("process/calculate-shipping-ajax.php", {'shipcity':shipcity,'shipstate':shipstate,'shipzip': shipzip,'shipcountry': shipcountry }, function(){
+		$('div#shipping-options').slideDown('fast');
+		} );
+});
+
+
+// !Display Tax based on Customer's Shipping State //
+
+$("body.NJ .conditional-tax").show();
+
+function initializeTaxStatus() {
+
+$("#ship-state").change(function() {
+    var taxState = $(this).val();
+    if (taxState != "NJ") {
+        $(".conditional-tax").hide();
+    } else {
+          $(".conditional-tax").show();
+    }
+});
+
+}
+
+initializeTaxStatus(); 
+
+$("a#why-is-my-card-declined[rel]").overlay({
+	expose: { 
+        color: '#333', 
+        loadSpeed: 200, 
+        opacity: 0.5 
+    }
+	
+});
+
+$("a#find-ccv-link").click(function() {
+
+	$("#find-ccv").slideDown('fast');
+
+})
+
+
+//Grab checkout form input values
+
+function displayVerifiedAddress(){
+	
+	var verifyshipaddress1 = $('input#ship-address1').val();
+	var verifyshipaddress2 = $('input#ship-address2').val();
+	var verifyshipcity = $('input#ship-city').val();
+	var verifyshipstate = $('input#ship-state').val();
+	var verifyshipzip = $('input#ship-zip-code').val();
+	
+	var UserShipAddress = [verifyshipaddress1,verifyshipaddress2,verifyshipcity,verifyshipstate,verifyshipzip];
+	$('dl.verify-address-preview dd').each(function (i) {
+		$(this).text(UserShipAddress[i]);
+	
+	});	
+		
+	
+	
+};
+
+//Tabs for My Account Page
+$("div.tab-container").tabs("div.options-tab > div.edit-form",{
+	effect: 'slide', 
+	api: true,
+	initialIndex: null
+	
+});
+
+//Scrollable Elements on Verify and My Account pages
+/*
+$(".edit-form.choose").scrollable({
+	vertical: true,
+	clickable: false,
+	size: 2
+	
+}).navigator();
+*/
+
+function showChosenCard(action,edit) {
+	var currentCard = $("input[name='payment']:checked").val();
+if ($("input[name='payment']:checked").val() === 'Brimar') {
+
+	$('div.credit-cards.payment-form').remove();
+	$("div#insert-payment-method").load("/templates/checkout-sec/brimar-card-section.php",{'edit' : edit,'action':action },function(){
+	$('.brimar-container.payment-form').fadeIn('fast');
+	$('div#insert-billing-info').fadeIn('fast');
+	restrictInputforBrimar(currentCard); 
+	
+	});	 	
+	
+		} else if ($("input[name='payment']:checked").val() !== 'Brimar') {
+		
+		$('.brimar-container.payment-form').remove();
+		
+		$("div#insert-payment-method").load("/templates/checkout-sec/credit-card-section.php",{'edit' : edit,'action':action },function(){
+		$('div.credit-cards.payment-form').fadeIn('fast');
+		$('div#insert-billing-info').fadeIn('fast');
+		restrictCreditCardInput(currentCard);
+
+});	
+	}
+} 
+
+/* !Validate Shipping Edit Form */
+function validateThisForm() {
+	
+	$("#edit-shipping-form").validate({
+	
+		rules: {
+		shipzip: {
+      	required: true
+       
+
+    }}
+	
+});
+	 
+$("#edit-payment-data").validate({
+	
+	rules: {
+	credit_card_number: {
+	required: true,
+	creditcard: true
+	}}
+		
+	
+	}); 
+}
+
+
+/* !Get Card */
+
+function GetCardType(number)
+        {            
+            var re = new RegExp("^4");
+            if (number.match(re) != null)
+                return "Visa";
+ 
+            re = new RegExp("^(34|37)");
+            if (number.match(re) != null)
+                return "Amex";
+ 
+            re = new RegExp("^5[1-5]");
+            if (number.match(re) != null)
+                return "Mastercard";
+ 
+            re = new RegExp("^6011");
+            if (number.match(re) != null)
+                return "Discover";
+                
+            
+}
+
+
+function intializeCreditCardNumber() {
+
+$("input#credit-card-number").change(function(){
+
+	var number = $(this).val();
+	var customersCard = GetCardType(number);
+	var newCardImage = "<span id='dynamic-credit-card-image' class='"+customersCard+"'></span>";
+	
+	$("span#dynamic-credit-card-image").remove();
+	$("input#payment-choice").val(customersCard);
+	$("label#credit-card-number-label").append(newCardImage);
+
+	
+	
+});
+
+};
+
+intializeCreditCardNumber(); 
+
+function intializePayByThis() {
+
+$("div#pay-by-this-method ul li a").click(function(){
+	$("div#pay-by-this-method ul li").removeClass("selected");
+	$(this).parent("li").addClass("selected");
+	var typeOfCard = $(this).attr("rel");
+	if (typeOfCard == "credit-card") {
+		$("#current-card-header").text("Enter Your Credit Card Information");
+		$("label#credit-card-number-label span.text").text("Card Number");
+		$("input#credit-card-number").attr('name', 'credit_card_number').val("").attr('title', '<span>Please do not enter any spaces</span>');
+		$("div.card-number").removeClass("net30-card");
+		$("p#net30-pitch").hide();
+		$("a#security-code-help").show();
+		$("input#security-code").attr('name', 'security_code').val("");
+		$("#credit-card-expires-container").fadeIn("fast", function() {
+		
+			$(this).children("select").addClass("required");
+		
+		
+		});
+	
+	} else {
+		$("#current-card-header").text("Enter Your Brimar Net 30 Account Information");
+		$("input#payment-choice").val("Brimar");
+		$("label#credit-card-number-label span.text").text("Account Number");
+		$("input#credit-card-number").attr('name', 'brimar_card_number').val("");
+		$("div.card-number").addClass("net30-card");
+		$("p#net30-pitch").show();
+		$("a#security-code-help").hide();
+		$("input#security-code").attr('name', 'brimar_security_number').val("");
+		$("#credit-card-expires-container").fadeOut("fast", function() {
+		
+			$(this).children("select").removeClass("required");
+		
+		
+		});
+	
+	}
+return false; });
+
+};
+
+
+intializePayByThis(); 
+
+/* !Verification Page Scripts */ 
+
+$('a.edit.inuse').click(function(){ 
+	
+	$("div.inserted").hide('fast').remove();
+	var formBeingEdited = $(this).closest('form');
+	
+	var thisBody = $(this).parents("body").attr('id'); 
+	if (thisBody == 'verify-page'){
+	var edit = $(formBeingEdited).children('input.edit').val();
+	var action = $(formBeingEdited).children('input.action').val();
+	} else { 
+	var edit = "";
+	var action = "";
+	}
+	var myContainer = $(this).closest("div.edit-info");
+	var myHighlight = $(this).closest("div.edit-info").find("div.highlight-edit");
+	var urlToLoad = $(this).attr("rel");
+	var loadFormHere = $(myContainer).find("div.add-new");
+	
+	
+	if (thisBody == 'verify-page'){
+			$(formBeingEdited).data('doingAinlineEdit', 'yes');
+		} else {
+		
+			$(formBeingEdited).data('doingAinlineEdit', 'no');
+		
+		}
+	
+	$(myHighlight).effect("highlight", {}, 1000);
+	$(loadFormHere).load( urlToLoad,{'edit' : edit,'action':action },function(){
+	$(loadFormHere).children("div.inserted").fadeIn('fast').data('currentState', 'on'); 
+	$(loadFormHere).show();
+	intializeCreditCardNumber();
+	intializePayByThis();
+	inputRestrictions();
+	initializeTaxStatus();
+	//showChosenCard(action,edit);
+	validateThisForm(); 
+	var whatIstheState = $(this).children("div.inserted").data('currentState');
+	//$("input.phone-input").mask("(999)999-9999");
+});
+closeEditForm();
+return false;	
+});
+
+
+$('a.edit.inline').click(function(){
+$("div.inserted").hide('fast').remove();
+var myHighlight = $(this).parents("div.account-option-input").find("div.highlight-edit");
+var formBeingEdited = $(this).parents('form');
+$(formBeingEdited).data('doingAinlineEdit', 'yes');
+var urlToLoad = $(this).attr("rel");
+var action = $(formBeingEdited).children('input.action').val();
+var edit = $(formBeingEdited).children('input.edit').val();
+var divBeingEdited = $(this).closest("div.account-option-input");
+var heightToChange = $(divBeingEdited).parents("div.choose");
+var originalHeight = $(divBeingEdited).parents("div.choose").height();
+	function setNewHeight(insertedHeight,insertedForm) {
+		var newHeight = $(divBeingEdited).position().top + parseFloat(insertedHeight) + $(divBeingEdited).height() + 40;
+			$(heightToChange).animate({
+				height: newHeight }, 'slow');	
+			}
+
+	//$(myHighlight).effect("highlight", {}, 1000);
+	var loadFormHere = $(divBeingEdited).find("div.add");
+	$(loadFormHere).load(urlToLoad,{'edit': edit,'action': action},function(){
+	
+	var insertedForm = $(this).children("div.inserted");
+	var insertedHeight = $(insertedForm).css('height');
+		$(insertedForm).fadeIn('fast');
+	//setNewHeight(insertedHeight,insertedForm);
+	inputRestrictions();
+	intializeCreditCardNumber();
+	intializePayByThis();
+	
+	//showChosenCard(action,edit);
+	validateThisForm();
+	//$("input.phone-input").mask("(999)999-9999");
+	var whatIstheState = $(this).children("div.inserted").data('currentState');
+		
+});
+closeEditForm(originalHeight);
+return false;	
+});
+
+/* !Cancel Verify Edit */
+
+
+function closeEditForm(heightToChange,originalHeight,insertedForm) {
+	$("button.canceledit").live("click", function(){
+		var api = $("div.tab-container").tabs("div.options-tab > div.edit-form",{api: true});
+	$(this).click(function(){ api.click(0); });
+		$("div.inserted").fadeOut("fast").remove();
+		$(heightToChange).animate({
+			height: originalHeight}, 'fast');	
+		
+		return false
+	});
+		
+};
+
+
+
+/* verify page shipping record makedefult*/
+$('a.make-default').live("click", function(){ 
+	var rowToMakeDefault = $(this).parents('div.account-option-input');
+	var edit = $(rowToMakeDefault).attr('id');
+	var action = 'makedefault'
+	var pathname = window.location.pathname;
+	var currentDefault = $(this).parents('form').find("div.row.default");
+	var buttonCopy = $(rowToMakeDefault).find("a.make-default span.button-copy");
+	var defaultButtonCopy = $(currentDefault).find("a.make-default span.button-copy");
+	var thisBody = $(this).parents("body").attr('id'); 
+	var urlToLoad = $(this).attr("rel");
+	var currentDefaultDisplay = $(this).parents("form").find("div.inuse-highlight");
+	var textToReload = $(this).parents("form").find("div.inuse-highlight span.reload-me");
+	var sectionId = $(this).parents('form').attr('id');
+	$(rowToMakeDefault).addClass('active');
+
+		function changeDefaultlisting() {
+		
+			$(rowToMakeDefault).addClass('default').removeClass('active');
+			$(currentDefault).removeClass('default');
+			$(buttonCopy).text("Current");
+			$(defaultButtonCopy).text("Make Default");
+			if (thisBody == 'verify-page'){
+			verifyredirect();
+			}
+		
+		}
+	
+	$.ajax({
+	type: "POST",
+	url: urlToLoad,
+	data: {'edit': edit,'action': action},
+	success: function(){
+	$(currentDefaultDisplay).effect("highlight", {}, 1000);
+	
+	if(sectionId == 'edit-shipping-form') {
+			$(currentDefaultDisplay).load("/myaccount.php form#edit-shipping-form span.reload-me",function(){
+		changeDefaultlisting();
+		
+	});} else if (sectionId == 'edit-payment-data') {
+		$(currentDefaultDisplay).load("/myaccount.php form#edit-payment-data span.reload-me",function(){
+		changeDefaultlisting();
+	});}
+	
+	}});
+});
+
+/* !shipping record delete */
+$('a.delete').live("click", function(){ 
+	var rowTodelete = $(this).closest('div.account-option-input');
+	var edit = $(rowTodelete).attr('id');
+	var action = 'delete'
+	var countIcon = $(this).parents("form").find("a.count span.icon");
+	var currentCount = $(countIcon).text();
+	var urlToLoad = $(this).attr("rel");
+	
+	$.prompt('Are Your Sure, you want to delete this address?',{ 
+	buttons: { Ok: true, Cancel: false },
+	callback: function(v,m,f){
+	
+	if(v){
+	
+	$.ajax({
+	type: "POST",
+	url: urlToLoad,
+	data: {'edit': edit,'action': action},
+	success: function(){
+
+	$(rowTodelete).hide('fast').remove();
+	$(countIcon).text(currentCount - 1);
+	if(urlToLoad=="/templates/checkout-sec/billing-status-update.php")
+	{
+	$("#inuse-payment").removeClass('div.inuse-highlight highlight-edit');
+	$("#inuse-payment").hide('fast').remove();
+	$("div#default-billing-options").load("process/get_default_billing_address.php", function(response, status, xhr){
+	$('div#default-billing-options').fadeIn("slow");
+	})
+	}	 
+	
+	
+	}
+	});
+
+	} else{}
+	
+	}
+});
+return false;	
+});
+
+$("a.edit.oneform").click(function(){
+	var myContainer = $(this).closest("div.edit-info");
+	var myHighlight = $(this).closest("div.edit-info").find("div.highlight-edit");
+	$(myHighlight).effect("highlight", {}, 1000);
+	$(myContainer).find('.edit-form').fadeIn('fast').data('currentState', 'on');
+	return false;	
+
+});
+
+
+
+$('div.noajax button.canceledit').click(function() {
+	var myContainerstate = $(this).parents("div.edit-info").find('.edit-form');
+	if (myContainerstate.data('currentState', 'on')) {
+		myContainerstate.data('currentState', 'off');
+		myContainerstate.fadeOut('fast');
+	
+	
+	}
+	return false;	
+});
+
+//Add Class to default elements in My Account/Verification Pages
+
+$('div.edit-form input[type="radio"]').click(function() {
+	$('div.account-option-input').removeClass('focused');
+	$(this).parents('div.account-option-input').addClass('focused rounded-corner');
+	
+});
+
+
+$('div.account-option-input.row').hover(function() {
+	$('div.account-option-input.row').removeClass('focused');
+	$(this).addClass('focused');
+	
+});
+
+
+function restrictInputforBrimar(currentCard) {
+
+	$("input#brimar-card-number").alphanumeric({allcaps:true});
+	$("input.hastooltip").tooltip({ 
+ 
+  // place tooltip on the right edge 
+    position: "top center", 
+    
+    relative: true, 
+ 
+ 	
+ 	offset: [-10, 0], 
+
+    // a little tweaking of the position 
+ 
+    // use the built-in fadeIn/fadeOut effect 
+    effect: "fade", 
+ 
+    // custom opacity setting 
+    opacity: 1, 
+ 
+    // use this single tooltip element 
+    tip: '.form-tooltip' 
+ 
+ 
+});
+	
+ $("body#checkout-page input#brimar-card-number").val(currentCard+" Number");
+ $("#current-card-header").text("Enter Your "+currentCard+" Card Information").effect("highlight", {}, 1000);
+ $('.clearable').clearField({ blurClass: 'blurredinput', activeClass: 'activeinput' });
+
+};
+
+
+/* !Credit Card Input*/
+function restrictCreditCardInput(currentCard) {
+
+	$("input.nospace").alphanumeric({ichars:' ',allcaps:true});
+	$("input.hastooltip").tooltip({ 
+ 
+// place tooltip on the right edge 
+    position: "top center", 
+    
+    relative: true, 
+ 
+ 	
+ 	offset: [-10, 0], 
+
+    // a little tweaking of the position 
+ 
+    // use the built-in fadeIn/fadeOut effect 
+    effect: "fade", 
+ 
+    // custom opacity setting 
+    opacity: 1, 
+ 
+    // use this single tooltip element 
+    tip: '.form-tooltip' 
+ 
+ 
+});
+$("#current-card-header").text("Enter Your "+currentCard+" Account Information").effect("highlight", {}, 1000);
+ $("body#checkout-page input#credit-card-number").val(currentCard+" Number");
+ $('.clearable').clearField({ blurClass: 'blurredinput', activeClass: 'activeinput' });
+
+};
+
+
+//Change payment method form based on what Radio button is clicked. 
+$("input[name='payment']").live("click", function(){
+$('#insert-billing-info').show('fast');
+
+var currentCard = $(this).val();
+$("ul.credit-card-type li").removeClass("selected");
+$(this).parent("li").addClass("selected");
+var action = $('form#edit-payment-data input#billingaction').val();
+
+if ($('form#edit-payment-data').data('doingAinlineEdit') == "yes") {
+	
+	var edit = $('form#edit-payment-data input#billingedit').val();
+}
+
+if ($("input[name='payment']:checked").val() === 'Brimar') {
+	
+	$('ul.credit-cards.payment-form').remove();
+	$("div#insert-payment-method").load("/templates/checkout-sec/brimar-card-section.php",{'edit' : edit,'action':action },function(){
+	$('.brimar-container.payment-form').fadeIn('fast');
+	restrictInputforBrimar(currentCard); 
+	});	
+	
+		
+		} else if ($("input[name='payment']:checked").val() !== 'Brimar') {
+		
+		$('.brimar-container.payment-form').remove();
+		
+		$("div#insert-payment-method").load("/templates/checkout-sec/credit-card-section.php",{'edit' : edit,'action':action },function(){
+		highlightFormContainers();
+		$('ul.credit-cards.payment-form').fadeIn('fast');
+		$("a#security-code-help").tooltip({
+		position: "bottom center"	
+		});
+		restrictCreditCardInput(currentCard);
+});	
+	}
+});
+
+
+
+
+
+
+
+/*direct function*/
+function redirect()
+{
+location.replace("myaccount.php");	
+}
+
+
+function verifyredirect()
+{
+location.replace("verify.php");	
+}
+
+
+//Edit Forms Ajax Submit and update
+
+
+
+$('#edit-shipping-data').ajaxForm({
+	dataType:  'json', 
+	success:   setEditedShippingData,
+	clearForm: 'true'
+	
+});
+$('#edit-billing-data').ajaxForm({
+	dataType:  'json', 
+	success:   setEditedBillingData,
+	clearForm: 'true'
+});
+
+$('#edit-shipping-method').ajaxForm({
+	dataType:  'json', 
+	success:   setEditedShippingMethod,
+	clearForm: 'true'
+});
+
+function setEditedShippingData(data) { 
+
+		$('address#shipping-info').fadeOut("fast").fadeIn("fast")
+		$('span#shipaddress1').text(data.shipaddress1);
+		$('span#shipaddress2').text(data.shipaddress2);
+		$('span#shipcity').text(data.shipcity);
+		$('span#shipstate').text(data.shipstate);
+		$('span#shipzip').text(data.shipzip);
+		$('span#shipfirstname').text(data.shipfirstname);
+		$('span#shiplastname').text(data.shiplastname);
+		$('span#shipcompany').text(data.shipcompany);
+		$('span#shipcountry').text(data.shipcountry);
+		
+		//Close Expanconsoleded Box
+		$('div#edit-shipping-address.expandee').slideToggle("fast");
+}
+
+function setEditedBillingData(data) { 
+		$('address#billing-info').fadeOut("fast").fadeIn("fast")
+		$('span#address1').text(data.address1);
+		$('span#address2').text(data.address2);
+		$('span#city').text(data.city);
+		$('span#state').text(data.state);
+		$('span#zip').text(data.zipcode);
+		$('span#firstname').text(data.firstname);
+		$('span#lastname').text(data.lastname);
+		$('span#company').text(data.company);
+		$('span#country').text(data.country);
+		
+		//Close Expanded Box
+		$('div#edit-billing-address.expandee').slideToggle("fast");
+}
+
+function setEditedShippingMethod(data) { 
+		$('p#current-shipping-method').fadeOut("fast").fadeIn("fast")
+		$('p#current-shipping-method').text(data.shippingmethod);
+
+		
+		//Close Expanded Box
+		$('div#edit-shipping-method.expandee').slideToggle("fast");
+}
+
+
+
+//Sort Order History Tables
+ $("#orderHistory").tablesorter(); 
+
+//Help Tooltips
+$("a.help").tooltip({
+	
+ position: "center left",
+ 
+ events: { 
+    def:      "click,hover",                // default show/hide events for an element 
+    input:     "focus,blur",                        // for all input elements 
+    widget:    "focus mouseover,blur mouseout"   // select, checkbox, radio, button 
+               // the tooltip element 
+},
+effect: 'slide',
+direction: 'left',
+slideOffset: 10,
+bounce: true }
+);
+
+$("#edit-cart").tooltip({ 
+	position: "center left",
+	effect: 'slide',
+	direction: 'left',
+	slideOffset: 10,
+	bounce: true
+	
+});
+
+
+
+$('.click-to-expand').click(function() {
+
+	$(this).toggleClass('selected');
+	$(this).nextAll('div.expandee').slideToggle("fast").addClass("expanded");
+	return false;
+});
+
+$('a.close').click(function() {
+		
+		$(this).parents(".expanded").slideUp("fast").removeClass("expanded");
+});
+
+//Close Notices
+$('div.notice div.close').click(function() {
+		
+		$(this).parent(".notice").fadeOut("fast");
+});
+
+
+//Generate a table of contents
+$("#toc").tableOfContents(
+      $("body.questions .help-container"),      // Scoped to div#wrapper
+      {
+        startLevel: 3,    // H2 and up
+        depth:      4,    // H2 through H5,
+        topLinks:   true // Add "Top" Links to Each Header
+      }
+     
+
+    ); 
+  //Smooth Anchor Scrolling  
+  
+$("a.toc-top-link").click(function(){
+$.scrollTo( 0, 500);
+return false;
+});
+
+
+/* !Validate Contact Form */
+//Change Guest Checkout div based on what Radio button is clicked. 
+$('input[name=new_user_checkout]:radio#register').click(function() {
+		$('div#create-an-account.expandee').fadeIn("fast");
+		$('input#new_user_register').fadeIn('fast',function(){
+		$('div#new-users-signup p.benifits span').html("Register to use <strong>convenient features</strong> and <strong>quick checkout</strong>");
+		});
+		$('div#guest_user_submit-container').fadeOut("fast");
+		
+		//setRegisterformValidation();
+	
+}); 
+
+$('input[name=new_user_checkout]:radio#check_out_as_guest').click(function() {
+		$('div#create-an-account.expandee').fadeOut("fast");
+		$('input#guest_user_submit').fadeIn("fast");
+		$('div#guest_user_submit-container').fadeIn("fast");
+		$('input#new_user_register').fadeOut("fast");
+		$('div#new-users-signup p.benifits span').html("Check out without registering for an account");
+	
+}); 
+
+
+
+
+//Tooltips 
+$(".trigger").tooltip({ 
+    position: ['center', 'center'], 
+ 	offset: [-50,-50], 
+ 	effect: 'slideup',   
+    opacity: 1
+ 
+    
+});
+
+$(".trigger-tweak").tooltip({ 
+    position: ['center', 'center'], 
+ 	offset: [-50,20], 
+ 	effect: 'slideup',   
+    opacity: 1
+ 
+    
+});
+
+//Copy Billing Address to Shipping Address
+
+$('#copy-billing').click(function(){
+
+if($('#copy-billing').is(":checked")) {
+$('#bill-address-fields input',':visible',document.body).each(function(i) {
+
+$(this).val($('#shipping-address input.copy').eq(i).val() );
+});
+
+$('#bill-address-fields select',':visible',document.body).each(function(i) {
+
+	$(this).val($('#shipping-address select').eq(i).val() );
+});
+		
+} else {
+
+$('#bill-address-fields input', ':visible', document.body).each(function(i) { 
+//set shipping_fields inputs to blank
+$(this).val(""); 
+});
+
+}
+
+});
+
+
+//Show Tax Exempt Message
+$("input[name='tax_exempt_status']").change(function(){ 
+	if( $("input[name='tax_exempt_status']:checked").val()=='Y' ) {
+		$("p#tax-exempt-notice").fadeIn("slow");
+	
+	} else {
+		$("p#tax-exempt-notice").fadeOut("fast");
+	}
+	
+
+});
+
+
+
+//Zoom Product Images
+
+//Set the dafault directory for images
+
+  
+function resizeFancybox() {
+	var newHeight = $('div#fancy_div div.table-wrap').height();
+	var newHeightpadding = newHeight + 21;
+	$('div#fancy_outer').height(newHeight + 21);
+
+};
+
+
+$("a.zoom").fancybox({
+'imageScale': true, 
+'overlayShow' : true,
+'zoomSpeedIn' : 300,
+'zoomSpeedOut' : 300,
+'easingIn' : 'easeInCubic',
+'easingOut' : 'easeOutBounce' });
+/*
+$("a.preview-pricing[rel]").overlay({
+	expose: { 
+        color: '#333', 
+        loadSpeed: 200, 
+        opacity: 0.5 
+    },
+    top: '25%'
+   
+});*/
+
+$("a.preview-pricing[rel]").overlay({
+	expose: { 
+        color: '#333', 
+        loadSpeed: 200, 
+        opacity: 0.5 
+    },
+	top: '25%',
+	
+	 onBeforeLoad: function(event) { 
+	    var count = this.getTrigger().parents('div.zoom-preview').find('form.preview-price-form input.count').val();
+		var productno = this.getTrigger().parents('div.zoom-preview').find('form.preview-price-form input.productno').val();
+      	// grab wrapper element inside content
+			var wrap = this.getContent().find(".table-wrap");
+
+			// load the page specified in the trigger
+			wrap.load(this.getTrigger().attr("href"),{'productno':productno });
+		
+    }
+   
+});
+
+
+
+
+$("a.verify-address").fancybox({
+
+ 'hideOnContentClick': true,
+ 'frameWidth' : '300.0',
+  'callbackOnStart' : displayVerifiedAddress
+ 
+});
+
+
+
+
+//Filter Signs by Category
+$('ul#filter a').click(function() {
+
+	$('h3#filtered-category').addClass('hidden');
+	$('div.product-subcategory-group h3').addClass('hidden');
+		$(this).css('outline','none');
+		
+		$('ul#filter .current').removeClass('current');
+		$(this).parent().addClass('current');
+		var filterVal = $(this).text().toLowerCase().replace(/ /g,'-').replace(/\./g,'-').replace(/\//g,'-');
+		
+		var headerVal = $(this).text();		
+		$("div#category-filter").after('<h3 id="filtered-category" class="'+ filterVal +'" >' + headerVal + '</h3>');
+		if(filterVal == 'show-all') {
+			$('li#show-all a').text('Filter Signs');
+			$('li#show-all').addClass('disabled');
+			$('div.product-container.hidden').fadeIn('slow').removeClass('hidden');
+			$('div.product-container').width(140).css('border-left-style','none');
+			$('div.product-subcategory-group h3').fadeIn('slow').removeClass('hidden');
+			$('h3#filtered-category.show-all').addClass('hidden');
+			$('div.product-subcategory-group').css('display','block').css('border-style','solid');
+			
+		} else {
+			
+			$('li#show-all a').text('Show All');
+			$('li#show-all').removeClass('disabled');
+			$('div.product-subcategory-group').css('display','inline').css('border-style','none');
+			$('div.product-container').each(function() {
+			
+				if(!$(this).hasClass(filterVal)) {
+					$(this).fadeOut('normal').addClass('hidden');
+				} else {
+					$(this).fadeIn('slow').removeClass('hidden').width(138).css('border-left-style','solid');
+					
+				
+				}
+			});
+		}
+		
+		return false;
+	});
+
+
+
+
+$(".nonjs").fadeOut("fast");
+
+$(".hasjs").fadeIn("slow");
+
+/*ada sign*/
+
+$('div#filtering-dropdown select#adasign_by_state').change(function () {
+	var state = $("div#filtering-dropdown select#adasign_by_state").attr("value");
+	var subcategory = $('#subcategory').val();
+	$("#response").load("/process/ada-bystate-ajax.php", {'state':state,'subcategory':subcategory }, function(){
+		$('div#response').slideDown('fast');
+		$('div#active').hide();	
+		$('div#activenew').hide();
+		});
+		$("#fun-facts-response").load("/process/ada-bystate-image-ajax.php", {'state':state,'subcategory':subcategory }, function(){
+		$('div#fun-facts-response').slideDown('fast');
+		$('div#fun-facts').hide();	
+		} );
+
+});
+
+
+/*$(".adamap").click(function(){
+var state = $(this).attr( 'value');
+	$('div#filtering-dropdown select#adasign_by_state').val(state);
+	$("#response").load("/process/ada-bystate-ajax.php", {'state':state }, function(response){
+		//alert(response);
+		//$('div#response').append(response);		
+		$('div#response').slideDown('fast');
+		$('div#active').hide();	
+		$('div#activenew').hide();	
+		
+		} );
+
+});*/
+
+
+$("a.product_details_content").fancybox({
+'imageScale': true,
+'overlayShow' : true,
+'zoomSpeedIn' : 500,
+'zoomSpeedOut' : 500
+});
+
+
+$("#search-input_landing").autocomplete( nxt_ac_words, { 
+ 	selectFirst: false,
+	autoFill: false,
+	width: 260,
+	scroll: false });
+
+
+});
+
+/*
+     FILE ARCHIVED ON 10:14:41 Sep 30, 2011 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 11:46:12 Jan 31, 2020.
      JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
 
      ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
@@ -160,16 +2442,293 @@ function newsNext (article) {
 */
 /*
 playback timings (ms):
-  LoadShardBlock: 258.016 (3)
-  CDXLines.iter: 12.206 (3)
-  esindex: 0.011
-  RedisCDXSource: 177.268
-  PetaboxLoader3.datanode: 265.434 (4)
-  load_resource: 205.477
-  captures_list: 451.729
-  exclusion.robots: 0.22
-  exclusion.robots.policy: 0.205
-  PetaboxLoader3.resolve: 179.001
+  exclusion.robots: 0.305
+  PetaboxLoader3.resolve: 58.348
+  PetaboxLoader3.datanode: 410.918 (4)
+  exclusion.robots.policy: 0.283
+  captures_list: 909.133
+  RedisCDXSource: 501.253
+  CDXLines.iter: 21.262 (3)
+  LoadShardBlock: 381.044 (3)
+  esindex: 0.014
+  load_resource: 122.684
+*/</script><script type="text/javascript">/**
+ * Autotab - jQuery plugin 1.1b
+ * http://www.lousyllama.com/sandbox/jquery-autotab
+ * 
+ * Copyright (c) 2008 Matthew Miller
+ * 
+ * Dual licensed under the MIT and GPL licenses:
+ *   http://www.opensource.org/licenses/mit-license.php
+ *   http://www.gnu.org/licenses/gpl.html
+ * 
+ * Revised: 2008-09-10 16:55:08
+ */
+
+(function($) {
+// Look for an element based on ID or name
+var check_element = function(name) {
+	var obj = null;
+	var check_id = $('#' + name);
+	var check_name = $('input[name=' + name + ']');
+
+	if(check_id.length)
+		obj = check_id;
+	else if(check_name != undefined)
+		obj = check_name;
+
+	return obj;
+};
+
+/**
+ * autotab_magic automatically establishes autotabbing with the
+ * next and previous elements as provided by :input.
+ * 
+ * autotab_magic should called after applying filters, if used.
+ * If any filters are applied after calling autotab_magic, then
+ * Autotab may not protect against brute force typing.
+ * 
+ * @name	autotab_magic
+ * @param	focus	Applies focus on the specified element
+ * @example	$(':input').autotab_magic();
+ */
+$.fn.autotab_magic = function(focus) {
+	for(var i = 0; i < this.length; i++)
+	{
+		var n = i + 1;
+		var p = i - 1;
+
+		if(i > 0 && n < this.length)
+			$(this[i]).autotab({ target: $(this[n]), previous: $(this[p]) });
+		else if(i > 0)
+			$(this[i]).autotab({ previous: $(this[p]) });
+		else
+			$(this[i]).autotab({ target: $(this[n]) });
+
+		// Set the focus on the specified element
+		if(focus != null && (isNaN(focus) && focus == $(this[i]).attr('id')) || (!isNaN(focus) && focus == i))
+			$(this[i]).focus();
+	}
+	return this;
+};
+
+/**
+ * This will take any of the text that is typed and
+ * format it according to the options specified.
+ * 
+ * Option values:
+ *	format		text|number|alphanumeric|all|custom
+ *	- Text			Allows all characters except numbers
+ *	- Number		Allows only numbers
+ *	- Alphanumeric	Allows only letters and numbers
+ *	- All			Allows any and all characters
+ *	- Custom		Allows developer to provide their own filter
+ *
+ *	uppercase	true|false
+ *	- Converts a string to UPPERCASE
+ * 
+ *	lowercase	true|false
+ *	- Converts a string to lowecase
+ * 
+ *	nospace		true|false
+ *	- Remove spaces in the user input
+ * 
+ *	pattern		null|(regular expression)
+ *	- Custom regular expression for the filter
+ * 
+ * @name	autotab_filter
+ * @param	options		Can be a string, function or a list of options. If a string or
+ *						function is passed, it will be assumed to be a format option.
+ * @example	$('#number1, #number2, #number3').autotab_filter('number');
+ * @example	$('#product_key').autotab_filter({ format: 'alphanumeric', nospace: true });
+ * @example	$('#unique_id').autotab_filter({ format: 'custom', pattern: '[^0-9\.]' });
+ */
+$.fn.autotab_filter = function(options) {
+	var defaults = {
+		format: 'all',
+		uppercase: false,
+		lowercase: false,
+		nospace: false,
+		pattern: null
+	};
+
+	if(typeof options == 'string' || typeof options == 'function')
+		defaults.format = options;
+	else
+		$.extend(defaults, options);
+
+	for(var i = 0; i < this.length; i++)
+	{
+		$(this[i]).bind('keyup', function(e) {
+			var val = this.value;
+
+			switch(defaults.format)
+			{
+				case 'text':
+					var pattern = new RegExp('[0-9]+', 'g');
+					val = val.replace(pattern, '');
+					break;
+
+				case 'alpha':
+					var pattern = new RegExp('[^a-zA-Z]+', 'g');
+					val = val.replace(pattern, '');
+					break;
+
+				case 'number':
+				case 'numeric':
+					var pattern = new RegExp('[^0-9]+', 'g');
+					val = val.replace(pattern, '');
+					break;
+
+				case 'alphanumeric':
+					var pattern = new RegExp('[^0-9a-zA-Z]+', 'g');
+					val = val.replace(pattern, '');
+					break;
+
+				case 'custom':
+					var pattern = new RegExp(defaults.pattern, 'g');
+					val = val.replace(pattern, '');
+					break;
+
+				case 'all':
+				default:
+					if(typeof defaults.format == 'function')
+						var val = defaults.format(val);
+
+					break;
+			}
+
+			if(defaults.nospace)
+			{
+				var pattern = new RegExp('[ ]+', 'g');
+				val = val.replace(pattern, '');
+			}
+
+			if(defaults.uppercase)
+				val = val.toUpperCase();
+
+			if(defaults.lowercase)
+				val = val.toLowerCase();
+
+			if(val != this.value)
+				this.value = val;
+		});
+	}
+};
+
+/**
+ * Provides the autotabbing mechanism for the supplied element and passes
+ * any formatting options to autotab_filter.
+ * 
+ * Refer to autotab_filter's description for a detailed explanation of
+ * the options available.
+ * 
+ * @name	autotab
+ * @param	options
+ * @example	$('#phone').autotab({ format: 'number' });
+ * @example	$('#username').autotab({ format: 'alphanumeric', target: 'password' });
+ * @example	$('#password').autotab({ previous: 'username', target: 'confirm' });
+ */
+$.fn.autotab = function(options) {
+	var defaults = {
+		format: 'all',
+		maxlength: 2147483647,
+		uppercase: false,
+		lowercase: false,
+		nospace: false,
+		target: null,
+		previous: null,
+		pattern: null
+	};
+
+	$.extend(defaults, options);
+
+	// Sets targets to element based on the name or ID
+	// passed if they are not currently objects
+	if(typeof defaults.target == 'string')
+		defaults.target = check_element(defaults.target);
+
+	if(typeof defaults.previous == 'string')
+		defaults.previous = check_element(defaults.previous);
+
+	var maxlength = $(this).attr('maxlength');
+
+	// defaults.maxlength has not changed and maxlength was specified
+	if(defaults.maxlength == 2147483647 && maxlength != 2147483647)
+		defaults.maxlength = maxlength;
+	// defaults.maxlength overrides maxlength
+	else if(defaults.maxlength > 0)
+		$(this).attr('maxlength', defaults.maxlength)
+	// defaults.maxlength and maxlength have not been specified
+	// A target cannot be used since there is no defined maxlength
+	else
+		defaults.target = null;
+
+	if(defaults.format != 'all')
+		$(this).autotab_filter(defaults);
+
+	// Go to the previous element when backspace
+	// is pressed in an empty input field
+	return $(this).bind('keydown', function(e) {
+		if(e.which == 8 && this.value.length == 0 && defaults.previous)
+			defaults.previous.focus().val(defaults.previous.val());
+	}).bind('keyup', function(e) {
+		/**
+		 * Do not auto tab when the following keys are pressed
+		 * 8:	Backspace
+		 * 9:	Tab
+		 * 16:	Shift
+		 * 17:	Ctrl
+		 * 18:	Alt
+		 * 19:	Pause Break
+		 * 20:	Caps Lock
+		 * 27:	Esc
+		 * 33:	Page Up
+		 * 34:	Page Down
+		 * 35:	End
+		 * 36:	Home
+		 * 37:	Left Arrow
+		 * 38:	Up Arrow
+		 * 39:	Right Arrow
+		 * 40:	Down Arrow
+		 * 45:	Insert
+		 * 46:	Delete
+		 * 144:	Num Lock
+		 * 145:	Scroll Lock
+		 */
+		var keys = [8, 9, 16, 17, 18, 19, 20, 27, 33, 34, 35, 36, 37, 38, 39, 40, 45, 46, 144, 145];
+
+		if(e.which != 8)
+		{
+			var val = $(this).val();
+
+			if($.inArray(e.which, keys) == -1 && val.length == defaults.maxlength && defaults.target)
+				defaults.target.focus();
+		}
+	});
+};
+
+})(jQuery);
+/*
+     FILE ARCHIVED ON 10:13:59 Sep 30, 2011 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 11:46:12 Jan 31, 2020.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 861.148
+  exclusion.robots.policy: 0.108
+  PetaboxLoader3.resolve: 102.691
+  CDXLines.iter: 10.617 (3)
+  RedisCDXSource: 588.26
+  PetaboxLoader3.datanode: 225.509 (4)
+  esindex: 0.008
+  LoadShardBlock: 259.828 (3)
+  exclusion.robots: 0.117
+  load_resource: 120.774
 */</script><script type="text/javascript">eval(function(p,a,c,k,e,d){e=function(c){return(c<a?"":e(parseInt(c/a)))+((c=c%a)>35?String.fromCharCode(c+29):c.toString(36))};if(!''.replace(/^/,String)){while(c--){d[e(c)]=k[c]||e(c)}k=[function(e){return d[e]}];e=function(){return'\\w+'};c=1};while(c--){if(k[c]){p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c])}}return p}('(2($){$.c.f=2(p){p=$.d({g:"!@#$%^&*()+=[]\\\\\\\';,/{}|\\":<>?~`.- ",4:"",9:""},p);7 3.b(2(){5(p.G)p.4+="Q";5(p.w)p.4+="n";s=p.9.z(\'\');x(i=0;i<s.y;i++)5(p.g.h(s[i])!=-1)s[i]="\\\\"+s[i];p.9=s.O(\'|\');6 l=N M(p.9,\'E\');6 a=p.g+p.4;a=a.H(l,\'\');$(3).J(2(e){5(!e.r)k=o.q(e.K);L k=o.q(e.r);5(a.h(k)!=-1)e.j();5(e.u&&k==\'v\')e.j()});$(3).B(\'D\',2(){7 F})})};$.c.I=2(p){6 8="n";8+=8.P();p=$.d({4:8},p);7 3.b(2(){$(3).f(p)})};$.c.t=2(p){6 m="A";p=$.d({4:m},p);7 3.b(2(){$(3).f(p)})}})(C);',53,53,'||function|this|nchars|if|var|return|az|allow|ch|each|fn|extend||alphanumeric|ichars|indexOf||preventDefault||reg|nm|abcdefghijklmnopqrstuvwxyz|String||fromCharCode|charCode||alpha|ctrlKey||allcaps|for|length|split|1234567890|bind|jQuery|contextmenu|gi|false|nocaps|replace|numeric|keypress|which|else|RegExp|new|join|toUpperCase|ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split('|'),0,{}));;(function($){$.extend({metadata:{defaults:{type:'class',name:'metadata',cre:/({.*})/,single:'metadata'},setType:function(type,name){this.defaults.type=type;this.defaults.name=name;},get:function(elem,opts){var settings=$.extend({},this.defaults,opts);if(!settings.single.length)settings.single='metadata';var data=$.data(elem,settings.single);if(data)return data;data="{}";if(settings.type=="class"){var m=settings.cre.exec(elem.className);if(m)
 data=m[1];}else if(settings.type=="elem"){if(!elem.getElementsByTagName)
 return undefined;var e=elem.getElementsByTagName(settings.name);if(e.length)
@@ -660,18 +3219,22 @@ playback timings (ms):
   exclusion.robots.policy: 0.137
   PetaboxLoader3.datanode: 335.332 (4)
 */</script><script type="text/javascript" src="https://web.archive.org/scripts/fallback_for_cdn/jquery.min.js"></script>
-	<title>Safety Signs, Traffic Signs, Parking Signs, Construction Signs   </title>
+	<title>Safety Signs | Traffic Signs | Parking Signs  </title>
+    
 <meta http-equiv="X-UA-Compatible" content="IE=8">
 <meta http-equiv="content-type" content="text-html; charset=utf-8">
-<meta name="google-site-verification" content="6cjqbdrdOlbXTj3UyqA7GXNm5drHACVKeqomNWS6Z94">
-<meta name="description" content="Safety Signs, Parking Signs, Traffic Signs, OSHA Signs, Fast Same Day Shipping, Order Your Safety Signs Direct from USA Manufacturer!">
-<meta name="keywords" content="Safety Signs, parking signs, traffic signs, construction signs, danger signs, no parking signs, road signs, street signs, street name signs, stop signs, Brimar"><meta name="category" content="Signs, Safety Signs, Parking Signs, Traffic Signs, Decals">
+<meta name="google-site-verification" content="og8BB8rdupN2dHbd9_7a4EpodupFs9HzDS2MG9INeEk">
+<meta name="description" content="Safety Signs: Traffic Signs, Parking Signs, Danger Signs, Road Signs - Order Today, Ship Today Direct from USA Manufacturer">
+<meta name="keywords" content="safety signs, traffic signs, parking signs, construction signs, danger signs, road signs, street signs, caution signs"><meta name="category" content="Safety Signs, Traffic Signs, Parking Signs, Road Signs">
 <meta name="revisit-after" content="5 days">
 <meta name="ROBOTS" content="all">
-<link rel="shortcut icon" href="/favicon.ico">
-<link rel="stylesheet" type="text/css" href="/styles/blueprint/screen.css">
-<link rel="stylesheet" type="text/css" href="/styles/styles-new.css">
-<link rel="stylesheet" type="text/css" href="/styles/jquery.fancybox.css">
+
+	<link rel="shortcut icon" href="/favicon.ico">
+	<link rel="stylesheet" type="text/css" href="/styles/blueprint/screen.css">
+	<link rel="stylesheet" type="text/css" href="/styles/styles-new.css">
+    <link rel="stylesheet" type="text/css" href="/styles/landing.css">
+	<link rel="stylesheet" type="text/css" href="/styles/checkout.css">
+	<link rel="stylesheet" type="text/css" href="/styles/jquery.fancybox.css">
 <!--[if IE]>
 <link rel="stylesheet" type="text/css" href="/styles/blueprint/ie.css" />
 <![endif]--> 
@@ -701,11 +3264,37 @@ playback timings (ms):
 <link rel="stylesheet" type="text/css" href="/styles/ie7.css" />
 <![endif]-->
 
-
+<!-- Start Kampyle Css -->
+<link rel="stylesheet" type="text/css" media="screen" href="http://cf.kampyle.com/k_button.css">
+<!-- End Kampyle Css -->
+<!--Start Kampyle Exit-Popup Code--> 
+<script type="text/javascript">
+var k_push_vars = {
+    "display_after_on_page": 30,
+    "display_after": 0,
+	"view_percentage": 0,
+	"popup_font_color": "#000000",
+	"popup_background": "#ffffff",
+	"popup_separator": "#D4E2F0",
+	"header": "Your feedback is important to us!",
+	"question": "Would you be willing to give us a short (1 minute) feedback?",
+	"footer": "Thank you for helping us improve our website",
+	"remind": "Remind me later",
+	"remind_font_color": "#3882C3",	
+	"yes": "Yes",
+	"no": "No",
+	"text_direction": "ltr",
+	"images_dir": "http://cf.kampyle.com/",
+	"yes_background": "#76AC78",
+	"no_background": "#8D9B86",
+	"site_code": 6392199
+}
+</script>
+<!--End Kampyle Exit-Popup Code-->
 
 <script src="/scripts/modernizr-1.1.min.js" type="text/javascript"></script><style>@font-face{font-family:testfont;src:url('data:font/ttf;base64,AAEAAAAMAIAAAwBAT1MvMliohmwAAADMAAAAVmNtYXCp5qrBAAABJAAAANhjdnQgACICiAAAAfwAAAAEZ2FzcP//AAMAAAIAAAAACGdseWYv5OZoAAACCAAAANxoZWFk69bnvwAAAuQAAAA2aGhlYQUJAt8AAAMcAAAAJGhtdHgGDgC4AAADQAAAABRsb2NhAIQAwgAAA1QAAAAMbWF4cABVANgAAANgAAAAIG5hbWUgXduAAAADgAAABPVwb3N03NkzmgAACHgAAAA4AAECBAEsAAUAAAKZAswAAACPApkCzAAAAesAMwEJAAACAAMDAAAAAAAAgAACbwAAAAoAAAAAAAAAAFBmRWQAAAAgqS8DM/8zAFwDMwDNAAAABQAAAAAAAAAAAAMAAAADAAAAHAABAAAAAABGAAMAAQAAAK4ABAAqAAAABgAEAAEAAgAuqQD//wAAAC6pAP///9ZXAwAAAAAAAAACAAAABgBoAAAAAAAvAAEAAAAAAAAAAAAAAAAAAAABAAIAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAEACoAAAAGAAQAAQACAC6pAP//AAAALqkA////1lcDAAAAAAAAAAIAAAAiAogAAAAB//8AAgACACIAAAEyAqoAAwAHAC6xAQAvPLIHBADtMrEGBdw8sgMCAO0yALEDAC88sgUEAO0ysgcGAfw8sgECAO0yMxEhESczESMiARDuzMwCqv1WIgJmAAACAFUAAAIRAc0ADwAfAAATFRQWOwEyNj0BNCYrASIGARQGKwEiJj0BNDY7ATIWFX8aIvAiGhoi8CIaAZIoN/43KCg3/jcoAWD0JB4eJPQkHh7++EY2NkbVRjY2RgAAAAABAEH/+QCdAEEACQAANjQ2MzIWFAYjIkEeEA8fHw8QDxwWFhwWAAAAAQAAAAIAAIuYbWpfDzz1AAsEAAAAAADFn9IuAAAAAMWf0i797/8zA4gDMwAAAAgAAgAAAAAAAAABAAADM/8zAFwDx/3v/98DiAABAAAAAAAAAAAAAAAAAAAABQF2ACIAAAAAAVUAAAJmAFUA3QBBAAAAKgAqACoAWgBuAAEAAAAFAFAABwBUAAQAAgAAAAEAAQAAAEAALgADAAMAAAAQAMYAAQAAAAAAAACLAAAAAQAAAAAAAQAhAIsAAQAAAAAAAgAFAKwAAQAAAAAAAwBDALEAAQAAAAAABAAnAPQAAQAAAAAABQAKARsAAQAAAAAABgAmASUAAQAAAAAADgAaAUsAAwABBAkAAAEWAWUAAwABBAkAAQBCAnsAAwABBAkAAgAKAr0AAwABBAkAAwCGAscAAwABBAkABABOA00AAwABBAkABQAUA5sAAwABBAkABgBMA68AAwABBAkADgA0A/tDb3B5cmlnaHQgMjAwOSBieSBEYW5pZWwgSm9obnNvbi4gIFJlbGVhc2VkIHVuZGVyIHRoZSB0ZXJtcyBvZiB0aGUgT3BlbiBGb250IExpY2Vuc2UuIEtheWFoIExpIGdseXBocyBhcmUgcmVsZWFzZWQgdW5kZXIgdGhlIEdQTCB2ZXJzaW9uIDMuYmFlYzJhOTJiZmZlNTAzMiAtIHN1YnNldCBvZiBKdXJhTGlnaHRiYWVjMmE5MmJmZmU1MDMyIC0gc3Vic2V0IG9mIEZvbnRGb3JnZSAyLjAgOiBKdXJhIExpZ2h0IDogMjMtMS0yMDA5YmFlYzJhOTJiZmZlNTAzMiAtIHN1YnNldCBvZiBKdXJhIExpZ2h0VmVyc2lvbiAyIGJhZWMyYTkyYmZmZTUwMzIgLSBzdWJzZXQgb2YgSnVyYUxpZ2h0aHR0cDovL3NjcmlwdHMuc2lsLm9yZy9PRkwAQwBvAHAAeQByAGkAZwBoAHQAIAAyADAAMAA5ACAAYgB5ACAARABhAG4AaQBlAGwAIABKAG8AaABuAHMAbwBuAC4AIAAgAFIAZQBsAGUAYQBzAGUAZAAgAHUAbgBkAGUAcgAgAHQAaABlACAAdABlAHIAbQBzACAAbwBmACAAdABoAGUAIABPAHAAZQBuACAARgBvAG4AdAAgAEwAaQBjAGUAbgBzAGUALgAgAEsAYQB5AGEAaAAgAEwAaQAgAGcAbAB5AHAAaABzACAAYQByAGUAIAByAGUAbABlAGEAcwBlAGQAIAB1AG4AZABlAHIAIAB0AGgAZQAgAEcAUABMACAAdgBlAHIAcwBpAG8AbgAgADMALgBiAGEAZQBjADIAYQA5ADIAYgBmAGYAZQA1ADAAMwAyACAALQAgAHMAdQBiAHMAZQB0ACAAbwBmACAASgB1AHIAYQBMAGkAZwBoAHQAYgBhAGUAYwAyAGEAOQAyAGIAZgBmAGUANQAwADMAMgAgAC0AIABzAHUAYgBzAGUAdAAgAG8AZgAgAEYAbwBuAHQARgBvAHIAZwBlACAAMgAuADAAIAA6ACAASgB1AHIAYQAgAEwAaQBnAGgAdAAgADoAIAAyADMALQAxAC0AMgAwADAAOQBiAGEAZQBjADIAYQA5ADIAYgBmAGYAZQA1ADAAMwAyACAALQAgAHMAdQBiAHMAZQB0ACAAbwBmACAASgB1AHIAYQAgAEwAaQBnAGgAdABWAGUAcgBzAGkAbwBuACAAMgAgAGIAYQBlAGMAMgBhADkAMgBiAGYAZgBlADUAMAAzADIAIAAtACAAcwB1AGIAcwBlAHQAIABvAGYAIABKAHUAcgBhAEwAaQBnAGgAdABoAHQAdABwADoALwAvAHMAYwByAGkAcAB0AHMALgBzAGkAbAAuAG8AcgBnAC8ATwBGAEwAAAAAAgAAAAAAAP+BADMAAAAAAAAAAAAAAAAAAAAAAAAAAAAFAAAAAQACAQIAEQt6ZXJva2F5YWhsaQ==')}</style>
 <script src="/scripts/LAB.min.js" type="text/javascript"></script>
-
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
 <script>
    $LAB
    	.setOptions({AlwaysPreserveOrder:true})
@@ -715,28 +3304,27 @@ playback timings (ms):
 	.script("/scripts/search-autocomplete.js")
 	.script("/scripts/browserTouchSupport.js")
 	.script("/min/?g=js")
-	.script("/scripts/global.js")
+	.script("/scripts/jquery.autotab-1.1b.js")
+	.script("/scripts/global-safetysign.com.js")
 	.script("/scripts/new-signin.js")
-	
+	.script("/scripts/new-checkout.js")
 </script>
 <!--[if IE 8]>
 	<script src="/scripts/DOMAssistantCompressed-2.7.4.js" type="text/javascript"></script>
 	<script src="/scripts/ie-css3.js" type="text/javascript"></script>
 <![endif]-->
-	</head>	
-<body id="help-index" class="help questions">
-<!-- Start header --> 
-<div id="social-link-bar" class="clearfix">
-<div class="container clearfix">
-	<ul>
-	<li id="facebook-link"><a href="http://www.facebook.com/safetysign" target="_blank">Follow Us on Facebook</a></li>
-	<li id="twitter-link"><a href="http://twitter.com/SignGenius" target="_blank">Follow Us on Twitter</a></li>
-	<li id="blog-link"><a href="http://www.safetysign.us/" target="_blank">The Sign Genius</a></li>
-	</ul>
-		 <a class="close-social"><span>X</span></a>
-	</div>
+<script type="text/javascript">
+//<![CDATA[
+var DID=88295;
+var pcheck=(window.location.protocol == "https:") ? "https://sniff.visistat.com/live.js":"http://stats.visistat.com/live.js";
+document.writeln('<scr'+'ipt src="'+pcheck+'" type="text\/javascript"><\/scr'+'ipt>');
+//]]>
+</script><script src="https://sniff.visistat.com/live.js" type="text/javascript"></script>
 
-</div>
+</head>	
+<body id="help-index" class="help questions low-res not-touch-enabled">
+<!-- Start header --> 
+
 <!-- Click Body -->
 <div id="expand-click-area">
 
@@ -745,24 +3333,28 @@ playback timings (ms):
 <div id="wrapper" class="container"> 
 	<div id="header" class="container"> 
 		<div id="logo-accountinfo-support-promo" class="container">	
-		<a href="http://www.safetysign.com/index.php"><h1 id="logo" class="image-replaced">Safety Signs by Safetysign.com</h1></a>
+		<a href="http://www.safetysign.com/index.php"><h1 id="logo" class="image-replaced">Safety Signs Home of Traffic, Danger, Warning and Caution Signs and Labels</h1></a>
 				<div id="user-account-info" class="span-11">
 					<span id="logged-in">
                     <p>
                                         
-                     					</p><p id="account-management" class="not-logged-in"><a id="you-account" href="https://www.safetysign.com/signin.php" class="signin-remote-button">Sign In or Register</a> | <a id="order-status" href="https://www.safetysign.com/upstracking-guest.php">Track An Order</a>
+                     					</p><p id="account-management" class="not-logged-in"><a id="you-account" href="https://www.safetysign.com/login.php" class="signin-remote-button">Sign In or Register</a> | <a id="order-status" href="https://www.safetysign.com/upstracking-guest.php">Track An Order</a>
 </p>
 					                        
 					</span>
 
+<a href="https://www.resellerratings.com" onclick="window.open('https://seals.resellerratings.com/landing.php?seller=34081','name','height=760,width=780,scrollbars=1'); 
+        return false;" style="padding-left:40px;float:left;">
+        <img style="border:none;" src="//seals.resellerratings.com/seal.php?seller=34081" oncontextmenu="alert('Copying Prohibited by Law - ResellerRatings seal is a Trademark of All Enthusiast, Inc.'); return false;">
+
 <!-- START SCANALERT CODE -->
-<a id="mcafee-header" target="_blank" href="https://www.mcafeesecure.com/RatingVerify?ref=www.safetysign.com"><img width="115" height="32" border="0" src="//images.scanalert.com/meter/www.safetysign.com/22.gif" alt="McAfee SECURE sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law - McAfee Secure is a Trademark of McAfee, Inc.'); return false;"></a>
+</a><a id="mcafee-header" target="_blank" href="https://www.mcafeesecure.com/RatingVerify?ref=www.safetysign.com"><img width="115" height="32" border="0" src="//images.scanalert.com/meter/www.safetysign.com/22.gif" alt="McAfee SECURE sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law - McAfee Secure is a Trademark of McAfee, Inc.'); return false;"></a>
 <!-- END SCANALERT CODE -->
 </div>
 
 
 
-<div><a id="everyday-low-price" href="#low-price">Everyday Low Price</a></div>
+<div><a id="everyday-low-price" href="/price-guarantee.php">Everyday Low Price</a></div>
 <div id="items-in-your-cart-header" class="span-7 last">
 	<a id="view-your-shopping-cart" href="http://www.safetysign.com/shoppingcart.php">
 	<dl class="rounded-corner"><dt></dt>
@@ -810,7 +3402,7 @@ playback timings (ms):
 <div id="search-bar" class="bottom-rounded ">
 		<div class="span-9">
         <form id="site_search" name="search_form" method="get" action="http://www.safetysign.com/search.php">
-		<input type="text" class="text clearable" name="keywords" value="Search by keywords or Item Number" size="30" id="search-input"><button id="search" type="submit" class="button small green">Search</button>
+		<input type="text" class="text clearable blurredinput ac_input" name="keywords" value="Search by keywords or Item Number" size="30" id="search-input" rel="Search by keywords or Item Number" autocomplete="off"><button id="search" type="submit" class="button small green">Search</button>
 		
 		</form>
 		</div>
@@ -820,9 +3412,11 @@ playback timings (ms):
 	<a href="http://www.safetysign.com/help.php">Learning Center<span class="arrow">&gt;</span></a>
 	<a href="http://www.safetysign.com/contact-us.php">Contact Us<span class="arrow">&gt;</span></a></div>
 	<div id="support-links-container" class="span-6 last">
-	<a href="" class="support-links"><img src="/new_images/phone_open.png" alt="phone_open" width="111" height="31"></a>
+	<a href="" class="support-links"><div id="phone_open"><p id="phone_num">800-274-6271</p><p id="phone_hrs">M - F 9am to 5pm</p></div></a>
+	
+	<!--<a href="" class="support-links"><img src="/new_images/phone_open.png" alt="phone_open" width="111" height="31"/></a>-->
 <!-- BEGIN ProvideSupport.com Custom Images Chat Button Code -->
-<div id="ciDA2w" style="sz-index:100;position:absolute"></div><div id="scDA2w" style="display:inline"></div><div id="sdDA2w" style="display:none"><script type="text/javascript" src="https://image.providesupport.com/js/brimar/safe-standard.js?ps_h=DA2w&amp;ps_t=1580471177017&amp;online-image=http://safetysign.com/new_images/live_chat_online.png&amp;offline-image=http://safetysign.com/new_images/live_chat_offline.png"></script></div><script type="text/javascript">var seDA2w=document.createElement("script");seDA2w.type="text/javascript";var seDA2ws=(location.protocol.indexOf("https")==0?"https":"http")+"://image.providesupport.com/js/brimar/safe-standard.js?ps_h=DA2w&ps_t="+new Date().getTime()+"&online-image=http://safetysign.com/new_images/live_chat_online.png&offline-image=http://safetysign.com/new_images/live_chat_offline.png";setTimeout("seDA2w.src=seDA2ws;document.getElementById('sdDA2w').appendChild(seDA2w)",1)</script><noscript><div style="display:inline"><a href="http://www.providesupport.com?messenger=brimar">Online Customer Support</a></div></noscript>
+<div id="ciDA2w" style="sz-index:100;position:absolute"></div><div id="scDA2w" style="display:inline"></div><div id="sdDA2w" style="display:none"><script type="text/javascript" src="https://image.providesupport.com/js/brimar/safe-standard.js?ps_h=DA2w&amp;ps_t=1580471175997&amp;online-image=http://safetysign.com/new_images/live_chat_online.png&amp;offline-image=http://safetysign.com/new_images/live_chat_offline.png"></script></div><script type="text/javascript">var seDA2w=document.createElement("script");seDA2w.type="text/javascript";var seDA2ws=(location.protocol.indexOf("https")==0?"https":"http")+"://image.providesupport.com/js/brimar/safe-standard.js?ps_h=DA2w&ps_t="+new Date().getTime()+"&online-image=http://safetysign.com/new_images/live_chat_online.png&offline-image=http://safetysign.com/new_images/live_chat_offline.png";setTimeout("seDA2w.src=seDA2ws;document.getElementById('sdDA2w').appendChild(seDA2w)",1)</script><noscript><div style="display:inline"><a href="http://www.providesupport.com?messenger=brimar">Online Customer Support</a></div></noscript>
 <!-- END ProvideSupport.com Custom Images Chat Button Code -->
 </div>
 	
@@ -888,13 +3482,28 @@ To view and enjoy this website's functionality to the maximum; we recommend the 
 	<h2 class="help-message">SafetySign.com Privacy Policy</h2>
 <a href="#table-of-contents" class="click-to-expand">Show Table of Contents</a>
 <div id="table-of-contents" class="span-18 last expandee shift-page">
-<ol id="toc" class="span-18"></ol>
+<ol id="toc" class="span-18"><li>
+<a href="#policy-">Policy </a>
+</li>
+<li>
+<a href="#how-secure-is-my-information">How secure is my information?</a>
+</li>
+<li>
+<a href="#how-do-we-use-your-personal-information">How do we use your personal information?</a>
+</li>
+<li>
+<a href="#use-of-your-credit-card-information">Use of your credit card information?</a>
+</li>
+<li>
+<a href="#data-security">Data Security</a>
+</li>
+</ol>
 </div>
 <div class="help-container span-18"> 
 <div class="help-term span-18 prepend-top">
 
 <div class="span-5 append-1">
-<h3 class="help-term">Policy </h3>
+<h3 class="help-term" id="policy-">Policy <a href="#help-index" class="toc-top-link">Back to top</a></h3>
 </div> 
 <div class="span-12 last">
   <p>SafetySign.com does not sell or distribute its customer information to any company or organization. We'll never place your personal information on any mailing list that does not belong to <strong>SafetySign.com (Brimar Industries, Inc</strong>.)</p>
@@ -906,7 +3515,7 @@ To view and enjoy this website's functionality to the maximum; we recommend the 
 	
 <div class="help-term span-18 prepend-top">
 <div class="span-5 append-1">
-<h3 class="help-term">How secure is my information?</h3></div>
+<h3 class="help-term" id="how-secure-is-my-information">How secure is my information?<a href="#help-index" class="toc-top-link">Back to top</a></h3></div>
 <div class="span-12 last"><p>Your information is protected by secure firewalls (communication management computers specially designed to keep information secure and inaccessible by other Internet users). </p>
   <p>You're safe while you shop; and if you choose to store your personal information and credit card numbers with us by registering, it's always secure and protected by your own password. Total security includes firewalls, intruder detection, testing, and physical security.</p>
 </div>
@@ -916,7 +3525,7 @@ To view and enjoy this website's functionality to the maximum; we recommend the 
 
 <div class="help-term span-18 prepend-top">
 <div class="span-5 append-1">
-<h3 class="help-term">How do we use your personal information?</h3></div>
+<h3 class="help-term" id="how-do-we-use-your-personal-information">How do we use your personal information?<a href="#help-index" class="toc-top-link">Back to top</a></h3></div>
 <div class="span-12 last">
 <p>
 » We'll use it to process your order(s).<br>
@@ -929,7 +3538,7 @@ To view and enjoy this website's functionality to the maximum; we recommend the 
 
 <div class="help-term span-18 prepend-top">
 <div class="span-5 append-1">
-<h3 class="help-term">Use of your credit card information?</h3></div>
+<h3 class="help-term" id="use-of-your-credit-card-information">Use of your credit card information?<a href="#help-index" class="toc-top-link">Back to top</a></h3></div>
 <div class="span-12 last"><p>The only people who have access to your credit card information are banking institutions and their intermediaries. The website and hosting company do not store the information in a format that can be directly read by people. All the information is received encrypted and remains encrypted.</p></div>
 
 		
@@ -937,7 +3546,7 @@ To view and enjoy this website's functionality to the maximum; we recommend the 
 
 <div class="help-term span-18 prepend-top">
 <div class="span-5 append-1">
-<h3 class="help-term">Data Security</h3></div>
+<h3 class="help-term" id="data-security">Data Security<a href="#help-index" class="toc-top-link">Back to top</a></h3></div>
 <div class="span-12 last">
   <p>To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, <strong>SafetySign.com</strong> has put in place advanced and appropriate physical, electronic, testing, and managerial procedures to safeguard and secure all the information we collect. </p>
   <p>Although we take careful measures to secure both your information and our physical premises, "perfect security" does not exist on the internet; and our efforts in this regard must necessarily be limited by what is practical in light of our equipment and technology.</p>
@@ -1026,11 +3635,25 @@ To view and enjoy this website's functionality to the maximum; we recommend the 
 
 <a id="bbb-footer" href="https://www.bbb.org/online/consumer/cks.aspx?id=10905111716" target="_blank"><img border="0" alt="Click to verify BBB accreditation and to see a BBB report." src="/new_images/bbbsealh1US.gif" title="Click to verify BBB accreditation and to see a BBB report."></a> 
 </div>
+<!--<p align="center">
+Do you need safety, parking and traffic signs?  You&rsquo;re in luck.  At SafetySign.com, we specialize in providing you with a wide variety of the most affordable and durable signs.  Whether you&rsquo;re looking for standard safety signs, or need something special, we can suit your needs with our selection of standard and customizable signs.  Browse our selection of traffic, parking, and safety signs and place your order today.
+</p>-->
+<div id="social-link-bar" class="clearfix">
+<div class="container clearfix">
+	<ul>
+	<li id="facebook-link"><a href="http://www.facebook.com/safetysign" rel="nofollow" target="_blank">Follow Us on Facebook</a></li>
+	<li id="twitter-link"><a href="http://twitter.com/SignGenius" rel="nofollow" target="_blank">Follow Us on Twitter</a></li>
+	<li id="blog-link"><a href="http://www.safetysign.us/" target="_blank">The Sign Genius</a></li>
+	</ul>
+		 <a class="close-social"><span>X</span></a>
+	</div>
+
+</div>
 <hr>
 <div id="made-in-america" class="span-24"><p>All safety signs by Safetysign.com are manufactured in the USA</p></div>
 <div id="footer-address" class="container"><p>Brimar Industries P.O. Box 467 | 64 Outwater Lane, Garfield NJ 07026 | Phone: 800-274-6271 | Fax: 800-279-6897 | <a href="mailto:sales@safetysign.com">sales@safetysign.com</a></p></div>			
 <div id="copyright_info" class="container">
-<p>© 1988-2010 Brimar Industries, Inc. ,  All Rights Reserved</p>
+<p>© 1988-2011 Brimar Industries, Inc. ,  All Rights Reserved</p>
 
 </div>
 </div>
@@ -1056,41 +3679,33 @@ var pageTracker = _gat._getTracker("UA-219423-1");
 pageTracker._trackPageview();
 } catch(err) {}</script>
 
-<!-- SiteCatalyst code version: H.15.1
-Copyright 1997-2007 Omniture, Inc. More info available at
-http://www.omniture.com -->
-<script language="JavaScript" src="https://www.fathomseo.com/ssl/tracking/fsbrimar.js"></script>
-<script language="JavaScript"><!--
-/* You may give each page an identifying name, server, and channel on
-the next lines. */
-if(!s.campaign) s.campaign=s.getQueryParam('s_kwcid')
-s.events=""
-s.eVar=""
-s.products=""
-s.purchaseID=""
-/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
-if(s.campaign||s.events){var s_code=s.t();if(s_code)document.write(s_code)}//--></script>
-<!-- End SiteCatalyst code version: H.15.1 -->
-<!-- Start Google Code for Homepage Remarketing List -->
 <script type="text/javascript">
-/* <![CDATA[ */
-var google_conversion_id = 1072500077;
-var google_conversion_language = "en";
-var google_conversion_format = "3";
-var google_conversion_color = "666666";
-var google_conversion_label = "dSHnCNTR3gEQ7Zq0_wM";
-var google_conversion_value = 0;
-/* ]]> */
+var _sf_async_config={uid:16447,domain:"safetysign.com"};
+(function(){
+  function loadChartbeat() {
+    window._sf_endpt=(new Date()).getTime();		
+    var e = document.createElement('script');
+    e.setAttribute('language', 'javascript');
+    e.setAttribute('type', 'text/javascript');
+    e.setAttribute('src',
+       (("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://static.chartbeat.com/") +
+       "js/chartbeat.js");
+    document.body.appendChild(e);
+  }
+  var oldonload = window.onload;
+  window.onload = (typeof window.onload != 'function') ?
+     loadChartbeat : function() { oldonload(); loadChartbeat(); };
+})();
+
 </script>
-<script type="text/javascript" src="https://www.googleadservices.com/pagead/conversion.js">
-</script>
-<noscript>
-<div style="display:inline;">
-<img height="1" width="1" style="border-style:none;" alt="" src="https://www.googleadservices.com/pagead/conversion/1072500077/?label=dSHnCNTR3gEQ7Zq0_wM&amp;guid=ON&amp;script=0"/>
-</div>
-</noscript>
-<!-- End Google Code for Homepage Remarketing List -->
+<!--Start Kampyle Feedback Form Button-->
+<div id="k_close_button" class="k_float kc_bottom_sl kc_right"></div><div><a href="http://www.kampyle.com/feedback_form/ff-feedback-form.php?site_code=6392199&amp;lang=en&amp;form_id=66113" target="kampyleWindow" id="kampylink" class="k_float k_bottom_sl k_right" onclick="javascript:k_button.open_ff('site_code=6392199&amp;lang=en&amp;form_id=66113');return false;"><img src="http://cf.kampyle.com/buttons/en/green/en-green-corner-low-right.gif" alt="Feedback Form" border="0"></a></div>
+<!--<div id='k_slogan' class='k_float k_bottom k_right'>
+				<a href='http://www.kampyle.com/online-lead-generation-services' target='_blank'>Generate Leads</a></div>
+--><script src="http://cf.kampyle.com/k_button.js" type="text/javascript"></script>
+<script src="http://cf.kampyle.com/k_push.js" type="text/javascript"></script>
+<!--End Kampyle Feedback Form Button-->
 <!--End Footer-->
 <!-- Scripts Go Here -->
 
-<div id="fancybox-tmp"></div><div id="fancybox-loading"><div></div></div><div id="fancybox-overlay"></div><div id="fancybox-wrap"><div id="fancybox-outer"><div class="fancy-bg" id="fancy-bg-n"></div><div class="fancy-bg" id="fancy-bg-ne"></div><div class="fancy-bg" id="fancy-bg-e"></div><div class="fancy-bg" id="fancy-bg-se"></div><div class="fancy-bg" id="fancy-bg-s"></div><div class="fancy-bg" id="fancy-bg-sw"></div><div class="fancy-bg" id="fancy-bg-w"></div><div class="fancy-bg" id="fancy-bg-nw"></div><div id="fancybox-inner"></div><a id="fancybox-close"></a><a href="javascript:;" id="fancybox-left"><span class="fancy-ico" id="fancybox-left-ico"></span></a><a href="javascript:;" id="fancybox-right"><span class="fancy-ico" id="fancybox-right-ico"></span></a></div></div></body></html>
+<script language="javascript" type="text/javascript" src="https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/js/chartbeat.js"></script><div id="fancybox-tmp"></div><div id="fancybox-loading"><div></div></div><div id="fancybox-overlay"></div><div id="fancybox-wrap"><div id="fancybox-outer"><div class="fancy-bg" id="fancy-bg-n"></div><div class="fancy-bg" id="fancy-bg-ne"></div><div class="fancy-bg" id="fancy-bg-e"></div><div class="fancy-bg" id="fancy-bg-se"></div><div class="fancy-bg" id="fancy-bg-s"></div><div class="fancy-bg" id="fancy-bg-sw"></div><div class="fancy-bg" id="fancy-bg-w"></div><div class="fancy-bg" id="fancy-bg-nw"></div><div id="fancybox-inner"></div><a id="fancybox-close"></a><a href="javascript:;" id="fancybox-left"><span class="fancy-ico" id="fancybox-left-ico"></span></a><a href="javascript:;" id="fancybox-right"><span class="fancy-ico" id="fancybox-right-ico"></span></a></div></div></body></html>
