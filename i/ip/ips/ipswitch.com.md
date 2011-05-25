@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ipswitch.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228021432id_/http%3A//ipswitch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipswitch.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525051428id_/http%3A//www.ipswitch.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — Ipswitch.com
 
@@ -77,6 +77,6 @@ Massachusetts law governs this Policy, excluding conflicts of law principles. An
 If you have any questions about this privacy statement, please contact us:
 
 Ipswitch, Inc.  
-10 Maguire Road – Suite 220  
+83 Hartwell Avenue  
 Lexington, MA 02421  
 781-676-5700 
