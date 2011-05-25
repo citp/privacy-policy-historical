@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goodgoodschina.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229040534id_/http%3A//www.goodgoodschina.com/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodgoodschina.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525132243id_/http%3A//www.goodgoodschina.com/Privacy_Policy) for the most accurate reproduction.*
 
 # get privacy policy on wedding dresses and bridesmaid dresses.
 
@@ -25,7 +25,7 @@ GoodGoodsChina may collect and, on any page, display the total counts that page 
 E-mail Communications
 
 GoodGoodsChina is very concerned about your privacy and we will never provide your email address to a third party without your explicit permission. GoodGoodsChina may send out e-mails with   
-GoodGoodsChina-related news, products, offers, surveys or promotions. You may also receive [notification e-mails](https://web.archive.org/web/20101229040534id_/http%3A//www.goodgoodschina.com/notification%20e-mails) from GoodGoodsChina, which inform you of actions (e.g. friend requests) that   
+GoodGoodsChina-related news, products, offers, surveys or promotions. You may also receive [notification e-mails](https://web.archive.org/web/20110525132243id_/http%3A//www.goodgoodschina.com/notification%20e-mails) from GoodGoodsChina, which inform you of actions (e.g. friend requests) that   
 have been performed on the site. If you do not want to receive e-mail from us, please visit the Email Preferences section of your User Profile and/or follow the instructions contained in the  
 unwanted e-mail message. However, please note that in all cases you will continue to receive all system e-mails (e.g. those regarding forgotten user passwords) and legal notices (e.g. updates to our policies) from us.
 
