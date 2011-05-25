@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the landmarkonthenet.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226223536id_/http%3A//www.landmarkonthenet.com/Business/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the landmarkonthenet.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525204515id_/http%3A//www.landmarkonthenet.com/Business/privacypolicy.aspx) for the most accurate reproduction.*
 
 # landmarkonthenet.com
 
 Category
 
   * [Collections](https://web.archive.org/books-collection)
-  * [Kids World](https://web.archive.org/books-kidsworld)
+  * [Kids Books](https://web.archive.org/books-kidsbooks)
   * [Exclusive Buys](https://web.archive.org/books-exclusivebuys)
 
 
