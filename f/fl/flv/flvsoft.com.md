@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flvsoft.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124053819id_/http%3A//www.flvsoft.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flvsoft.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525181810id_/http%3A//www.flvsoft.com/about/privacy) for the most accurate reproduction.*
 
 # FLV Software - flv encoder, flv converter, flv player, flv downloader
 
