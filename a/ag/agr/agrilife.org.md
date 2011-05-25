@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the agrilife.org privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610052232id_/http%3A//agrilife.tamu.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agrilife.org privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525214234id_/http%3A//agrilife.tamu.edu/privacy) for the most accurate reproduction.*
 
-# Privacy Policy: Texas A&M AgriLife
-
-## Privacy Policy
+# Privacy & Security Policy: Texas A&M AgriLife
 
 The web page you have been viewing was developed by the Texas A&M AgriLife unit of the Texas A&M University System. As such, it maintains this site as a public service. The following is the privacy policy for this site:
 
@@ -36,3 +34,7 @@ We use log analysis tools to create summary statistics, which are used for purpo
   * Protocol - The transport protocol and version used.
 
 
+
+### Information Security
+
+We employ extensive security measures consistent with the Texas Administrative Code (TAC) "Information Security Standards" and Texas A&M University Rules and Standard Administrative Procedures to protect against unauthorized access, disclosure, modification, or destruction of information under our control, as well as the loss, misuse, or alteration of our web sites and/or associated electronic information resources. The information resources that support our web sites undergo an annual information security risk assessment via the [Information Security Awareness Assessment and Compliance](https://isaac.tamu.edu/ISAAC/2009/overview.cfm) (ISAAC) system. The ISAAC system assesses the security posture of information systems and measures compliance with information security standards.
