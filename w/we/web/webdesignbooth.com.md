@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webdesignbooth.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204002641id_/http%3A//www.webdesignbooth.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webdesignbooth.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525073924id_/http%3A//www.webdesignbooth.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,7 +8,7 @@ This is the privacy policy of **WebDesignBooth.com**
 
 ## Usage tracking
 
-For the web user to **WebDesignBooth.com** ’s website, our web server automatically collects information on your domain type, browser used and your IP address for statistical purposes only, which will be used to improve the content of our web page and not sold to other organizations for any purpose. And since we gather certain types of information about our users, we feel you should fully understand our policy and the terms and conditions on the capture and use of those information.
+For the web user to **WebDesignBooth.com** ‘s website, our web server automatically collects information on your domain type, browser used and your IP address for statistical purposes only, which will be used to improve the content of our web page and not sold to other organizations for any purpose. And since we gather certain types of information about our users, we feel you should fully understand our policy and the terms and conditions on the capture and use of those information.
 
 ## Cookies
 
@@ -44,7 +44,7 @@ With respect to Ad Servers, in order to bring you offers that are of interest to
 
 ## Any Changes in the Privacy Policy
 
-In the event if **WebDesignBooth.com** ’s policy on information practices change at some time in the future, we will use only the data collected from the time of our policy change forward.
+In the event if **WebDesignBooth.com** ‘s policy on information practices change at some time in the future, we will use only the data collected from the time of our policy change forward.
 
 ## External Links
 
