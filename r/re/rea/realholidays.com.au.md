@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realholidays.com.au privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230071643id_/http%3A//www.realholidays.com.au/cgi-bin/rsearch%3Fa%3Dv%26t%3Dhol%26id%3D1335) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realholidays.com.au privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525214330id_/http%3A//www.realholidays.com.au/cgi-bin/rsearch%3Fa%3Dv%26t%3Dhol%26id%3D1335) for the most accurate reproduction.*
 
 # Holiday rental properties Australia wide - realholidays.com.au
 
