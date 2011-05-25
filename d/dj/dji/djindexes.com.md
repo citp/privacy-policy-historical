@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the djindexes.com privacy policy that was archived on 2010-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100322193213id_/http%3A//www.djindexes.com/privacy-policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the djindexes.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525021734id_/http%3A//www.djindexes.com/privacy) for the most accurate reproduction.*
 
-# Dow Jones Indexes | Privacy Policy
-
-Print
+# Dow Jones Indexes » » Privacy Policy
 
 Sites Subject to this Privacy Policy
 
@@ -43,7 +41,7 @@ Your Ability to Choose
 
 You can let us know that you do not wish to receive information about special offers and new products and features from CME Indexes, or to have us share your personal information with third parties whose products or services we think may interest you by opting out at the time you give us your personally identifiable information or by contacting us as follows:
 
-  * Contact us by e-mail at [dowjonesindexes@dowjones.com](mailto:dowjonesindexes@dowjones.com) or by postal mail at CME Group Index Services, LLC, P.O. Box 300, Princeton, NJ 08543-0300.
+  * Contact us by e-mail at [dowjonesindexes@djindexes.com](mailto:dowjonesindexes@djindexes.com) or by postal mail at CME Group Index Services, LLC, P.O. Box 300, Princeton, NJ 08543-0300.
 
 
 
@@ -51,7 +49,7 @@ Review and Correction
 
 If you would like to review or update any personally identifiable information that CME Group Index Services, LLC may have about you, you may do so by contacting us as follows:
 
-  * Contact us by e-mail at [dowjonesindexes@dowjones.com](mailto:dowjonesindexes@dowjones.com) or by postal mail at CME Group Index Services, LLC, P.O. Box 300, Princeton, NJ 08543-0300.
+  * Contact us by e-mail at [dowjonesindexes@djindexes.com](mailto:dowjonesindexes@djindexes.com) or by postal mail at CME Group Index Services, LLC, P.O. Box 300, Princeton, NJ 08543-0300.
 
 
 
@@ -75,6 +73,6 @@ When we make any material change to this Privacy Policy, we will inform you by p
 
 Questions, Comments and Concerns
 
-If you have any questions, comments or concerns about our Privacy Policy, you may contact us by e-mail at djiregister@dowjones.com or by postal mail at CME Group Index Services, LLC, Attn: Susan Pellegrino, P.O. Box 300, Princeton, NJ 08543-0300.
+If you have any questions, comments or concerns about our Privacy Policy, you may contact us by e-mail at djiregister@djindexes.com or by postal mail at CME Group Index Services, LLC, Attn: Susan Pellegrino, P.O. Box 300, Princeton, NJ 08543-0300.
 
 This policy was last updated on March 18, 2010.
