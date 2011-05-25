@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the belchfire.net privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623013846id_/http%3A//www.belchfire.net/index.php%3Fshowtopic%3D8794) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the belchfire.net privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525053250id_/http%3A//www.belchfire.net/index.php%3Fshowtopic%3D8794) for the most accurate reproduction.*
 
 # Privacy Policy - Windows XP Themes, Windows Vista Themes, Windows 7 Themes, Desktop Themes
 
@@ -324,5 +324,6 @@ Member No.: 2
 >  [here](http://themes.belchfire.net/w3c/policy.html).
 >   
 >  
-  
+
 > 
+> We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit networkadvertising.org.
