@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rcog.org.uk privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623132819id_/http%3A//www.rcog.org.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rcog.org.uk privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525042550id_/http%3A//www.rcog.org.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Royal College of Obstetricians and Gynaecologists
 
