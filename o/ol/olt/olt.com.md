@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the olt.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229092744id_/http%3A//www.olt.com/main/home/privacysecurity.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the olt.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525202919id_/http%3A//www.olt.com/main/home/privacysecurity.asp) for the most accurate reproduction.*
 
 # OnLine Taxes respects your privacy - Please read our Privacy/Security Policy.
 
