@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the usagc.org privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229215322id_/http%3A//www.usagc.org/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usagc.org privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525215950id_/http%3A//usagc.org/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy policy and statement of USAGC
 
 GREEN CARD LOTTERY  
 **Live, Work and Study in UNITED STATES OF AMERICA**
 
-[Click Here to Register Online !](https://web.archive.org/web/20101229215322id_/http%3A//www.usagc.org/step1.aspx)  
+[Click Here to Register Online !](https://web.archive.org/web/20110525215950id_/http%3A//usagc.org/step1.aspx)  
 WINNERS will get FREE Air Line Ticket to USA*
 
 PRIVACY POLICY AND STATEMENT OF www.usagc.org   
@@ -54,6 +54,4 @@ Correction/Updating Personal Information:
 If a user's personally identifiable information changes, or if a user no longer desires _USAGC Organization_ service, _USAGC Organization_ will endeavor to provide a way to correct, update or remove that user's personal data provided to _USAGC Organization_. This can usually be done at the member information page or by emailing _USAGC Organization_ Customer Support. 
 
 Choice/Opt-out  
-USAGC Organization users have the ability to opt-out of receiving emails from the USAGC Organization. An opt-out request may be sent by email, telephone or fax, or by clicking the link provided at the bottom of each email sent to users. Should a user choose to opt-out of the email subscription, the USAGC Organization will honor the request and will not send additional emails. 
-
-Version 10.3 - Last updated August 2010 
+USAGC Organization users can opt out of receiving emails from the USAGC Organization at any time. The USAGC Organization will honor the request within 7 business days. If a user would like to opt-out of receiving our messages they can send a request by email to [support5@usagc.org](mailto:%20support5@usagc.org), call us at 1-888-283-6165 (06:00 am (GMT) - 08:00 pm (GMT), or send a letter to our postal address: USAGC Organization, Office #1793, 14781 Memorial Drive , Houston, TX 77079. We take our subscribers privacy very seriously. 
