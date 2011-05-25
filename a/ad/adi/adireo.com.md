@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the adireo.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203043648id_/http%3A//www.adireo.com/index.php%3Fview%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adireo.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525182025id_/http%3A//www.adireo.com/index.php%3Fview%3Dprivacy) for the most accurate reproduction.*
 
-# Adireo.com - Free classifieds: jobs, properties, services, dating... - London, England
+# Adireo.com - Free classifieds: jobs, properties, services, dating... - Essex, England
 
 Adireo Privacy Policy 
 
