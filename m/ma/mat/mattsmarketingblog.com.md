@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mattsmarketingblog.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124134041id_/http%3A//mattsmarketingblog.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mattsmarketingblog.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525184053id_/http%3A//mattsmarketingblog.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Internet Marketing Secrets, Affiliate Marketing Blog, Affiliate Internet Marketing
 
@@ -79,4 +79,4 @@ In the event that the web site (or a substantial portion of its assets) is acqui
 
 **Copyright**
 
-Under no circumstance can any content on this website be copied or reproduced in anyway. This includes any of the free videos that are hosted on the domain, www.mattsmarketingblog.com. If any person or company does use the owner of this websites name, video, or blog content without getting written consent from the owner Matthew Carter personally then legal action may be undertaken against the offending parties.
+Under no circumstance can any content on this website be copied or reproduced in anyway. This includes any of the free [affiliate marketing](http://mattsmarketingblog.com/) videos that are hosted on the domain, www.mattsmarketingblog.com. If any person or company does use the owner of this websites name, video, or blog content without getting written consent from the owner Matthew Carter personally then legal action may be undertaken against the offending parties.
