@@ -1,81 +1,60 @@
-> *The following text is extracted and transformed from the kmart.com.au privacy policy that was archived on 2009-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091030020556id_/http%3A//www.kmart.com.au/about/privacypolicy/default.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kmart.com.au privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525060820id_/http%3A//shop.kmart.com.au/webapp/wcs/stores/servlet/ContentDisplay%3FstoreId%3D10701%26catalogId%3D10051%26langId%3D-1%26t%3DfooterContent%26c%3DPrivacy_Policy) for the most accurate reproduction.*
 
-# Kmart Home > Privacy Policy
+# Privacy Policy - Kmart Online Retail
 
-Below is a privacy statement that applies to Kmart.
+### Your privacy is important
 
-####  Introduction
+Kmart is committed to protecting the privacy of everyone who shops or interacts with us, and this policy sets out our commitment to you on privacy.
 
-At Kmart, we are committed to protecting the privacy of everyone who shops or interacts with us.
+We take this responsibility seriously and ensure that we comply with our obligations under the _Commonwealth Privacy Act 1988_ whenever your personal information is collected, used or shared.
 
-This privacy policy applies to Kmart Ltd and its related companies, and covers all personal information we collect about customers and other individuals outside the Kmart group. When we talk about "personal information", we use the definition provided by the Federal Privacy Act - 
+### Our commitment to you
 
-_"Personal information" means information or an opinion (including information or an opinion forming part of a database), whether true or not, and whether recorded in a material form or not, about an individual whose identity is apparent, or can be reasonably ascertained, from the information or opinion._
+Kmart will:
 
-We require all of our employees, contractors, suppliers, business partners and service providers to comply with privacy laws and continually look for ways to meet and exceed our customers' expectations.
-
-#### Collecting Information
-
-We only collect information that is necessary for one or more of our functions or activities, and we only keep it for as long as we may require it for a legitimate business purpose.
-
-When we collect personal information from an individual, we ensure that we do so in a fair manner. We also let the individual know: 
-
-  * the purposes for which the information is being collected 
-  * the organisations, or types of organisations, to whom we may disclose the information
-  * the main consequences (if any) for the individual if all or part of the information is not provided, except to the extent that this is obvious
-  * the fact that the individual can access the information that we hold
-  * how to contact that company about information being collected 
-  * any law that requires us to collect the information.
+  * always use fair and lawful means of collecting your information, and in most circumstances collect your information directly from you;
+  * handle your information securely and carefully, and only use your information if necessary to deliver you a service, or perform other necessary business functions and activities;
+  * not use your information for purposes unrelated to our services without first obtaining your consent; and
+  * wherever possible give you the option of interacting anonymously with us, if practicable and lawful to do so.
 
 
 
-Privacy notices enable our businesses to communicate these matters clearly and consistently wherever we collect personal information.
+### The information we may collect
 
-We will collect personal information directly from the individual concerned whenever practical. However, if we do collect an individual's personal information from a third party, we take reasonable steps to ensure that the individual has been advised of the matters listed above as they apply to both the third party and our own handling of the information.
+What personal information we collect will depend on the service or interaction, but may include name, address, phone and other contact details, merchandise information, and method of payment.
 
-We treat certain kinds of sensitive information, such as health information, with higher standards of security and confidentiality. We will only use this sensitive information with the individual's consent unless the law specifies otherwise.
+Depending on the circumstances, we may collect transaction information through business partners such as FlyBuys and GE Capital Finance (who administer our store cards), or other information such as where you shop or what your areas of interest are.
 
-#### Disclosing Information
+### Why we collect your information
 
-We will only disclose personal information:
+We may collect your information for a number of reasons including to: deliver products or services to you, complete other transactions with you or on your behalf, improve our service, protect against fraud or theft, and provide offers that may be of interest or benefit to you. 
 
-  * for the purposes for which we have advised that we are collecting it, and for related purposes that could reasonably be expected in the circumstances,
-  * with the individual's consent,
-  * as part of the asset sale of Kmart or part of Kmart,
-  * as specified by law. 
+### How we collect your information
 
+The personal information we collect is in most cases supplied directly by you when you give us your details, place an order for goods or services, seek a refund without a receipt, open an account with us, provide feedback to us, or shop in our stores with your FlyBuys or Coles Group Card™.
 
+### How we use your information 
 
-In the course of our business activities, we may need to disclose personal information to our agents, service providers, business partners, government authorities and others, but will always do so in accordance with the above principles. Except where data is transferred as part of the sale of a business or part of a business, we will not sell personal information under any circumstances or share it with anyone for marketing purposes unless we have advised of this on collection or otherwise obtained the individual's consent.
+Kmart will not sell your information to other parties. However, we often need to share your information with companies who perform parts of our service delivery - this includes other companies in the Wesfarmers Group, GE Capital, FlyBuys, and other organisations such as delivery companies, external call centres, mail houses and third party fulfilment centres.
 
-####  Unauthorised Disclosure or Use
+Where we share your information, Kmart will ensure that these third parties undertake to protect your privacy. Where we store your information, Kmart will take all reasonable steps to store your information securely and to protect against the loss, misuse or alteration of your information.
 
-Unauthorised disclosure or use of personal information by our employees, contractors or agents is a serious breach of this policy. Merely accessing information without proper authority is a form of unauthorised use and will not be tolerated. In the event of a breach, we will take appropriate action, which may include disciplinary or legal action.
+### Access to your information
 
-####  Opt-Out
+To access your information please write to our customer service department at: 690 Springvale Road, Mulgrave 3170 VIC, email at [onlineshop@kmart.com.au](mailto:onlineshop@kmart.com.au) or call on 1800 051 800 
 
-We will ensure that each direct marketing offer is checked against our opt-out register and provides a clear opt-out opportunity. We will always provide a nil-cost way of contacting us to opt out of receiving further marketing offers.
+### Direct Marketing
 
-####  Access to Personal Information
+If you do not wish to be contacted by Kmart (about special offers, discounts or other promotional events) write to Kmart customer relations at 690 Springvale Road, Mulgrave 3170 VIC, email at [onlineshop@kmart.com.au](mailto:onlineshop@kmart.com.au) or call on 1800 051 800. 
 
-Individuals will be able to access their personal information upon request. However, we may occasionally need to deny access to information where the law expressly allows it (for example, when someone is under investigation for fraud).
+### Cookies and how they work
 
-We will not provide access to spouses, family members or other third parties unless we are required or permitted by law to do so or have the clear, written authority of the individual concerned.
+When you visit Kmart's website, our site will automatically send you a "cookie". A cookie is a small piece of text sent from a web server to your computer, and is used to identify you only by a random number. This information does not personally identify you, but it does tell us that your computer has visited our site, what areas of the website have been browsed and may allow auto-login when you next visit our site.
 
-####  Security
+### Other websites
 
-Our priority is to protect the personal information that we collect. Personal information will be managed confidentially and securely, and will be destroyed when no longer required.
+Kmart is not responsible for the privacy practices of websites that are linked to Kmart's website. Please take care and check the relevant privacy policies of these external websites before disclosing your information.
 
-We secure personal information in the same way as we safeguard our own sensitive information. We also strive to constantly improve our business processes and the technology we use to protect data.
+### More information 
 
-####  Data Quality
-
-We will take all reasonable steps to ensure that personal data we hold is accurate, complete and up to date, and has been obtained directly from the individual or a reputable third party.
-
-####  Availability and Review of Policy & Privacy Statements
-
-We will make our privacy policy available on request and will provide a link to this policy from the Kmart website.
-
-Privacy statements are issued by Kmart, loyalty programs and some specific business functions. These refer to our privacy policy but give more specific information regarding our data handling practices. They are available through our websites, stores, customer service departments and other points of contact with the public.
-
-This policy will be reviewed from time to time and any amendments will be incorporated in the updated policy and in privacy statements across Kmart where applicable.
+Kmart may update its privacy policy from time to time in line with customer expectations and legislative changes, and an updated policy will be posted on Kmart's website. More information about privacy law is available from the Office of the Privacy Commissioner at [www.privacy.gov.au](http://www.privacy.gov.au/ "Office of the Privacy Commissioner"). Further information about the Wesfarmers Limited Group can be found at [www.wesfarmers.com.au](http://www.wesfarmers.com.au/ "Wesfarmers Website").
