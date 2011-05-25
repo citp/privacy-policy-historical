@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the job-search-engine.com privacy policy that was archived on 2010-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101113060300id_/http%3A//www.job-search-engine.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the job-search-engine.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525072806id_/http%3A//www.job-search-engine.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Juju
 
@@ -81,3 +81,5 @@ If you decide to use Juju’s website or services, your use and any possible dis
 ## Effective Date
 
 This Privacy Policy is effective as of January 3, 2006 and was last updated December 6, 2007.
+
+© 2011 Juju Inc.
