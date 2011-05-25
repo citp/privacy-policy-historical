@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the parishilton.com privacy policy that was archived on 2010-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100925140518id_/http%3A//www.parishilton.com/paris-hilton/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parishilton.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525080041id_/http%3A//www.parishilton.com/privacy-policy.html) for the most accurate reproduction.*
 
 # ParisHilton.com Online Privacy Policy - Paris Hilton
 
