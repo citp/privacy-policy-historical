@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the splendidtable.org privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125041719id_/http%3A//americanpublicmedia.publicradio.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the splendidtable.org privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526082324id_/http%3A//americanpublicmedia.publicradio.org/privacy) for the most accurate reproduction.*
 
 # American Public Media: Privacy
 
@@ -64,26 +64,28 @@ APM does not sell, rent or trade its members' names, mailing addresses, telephon
 
 If you use one of APM's secure online forms to make a contribution to APM or an APM program, your name, complete contact information, and all contributions will go directly to the APM Development Department. Your contribution information will be protected in full compliance with the MPR/APM [Member List Policy](http://minnesota.publicradio.org/support/membership/membership_list_policy.shtml).
 
-**Special Note for Public Insight Network Participants**   
-Public Insight Journalism (PIJ) is a way for people to provide journalists with insights – knowledge and experience – into timely issues. The heart of PIJ is the Public Insight Network, a group of people who have agreed to help us cover the news. APM contacts Public Insight Network participants via survey forms, email and other digital media to ask editorially relevant questions about topics related to our reporting. 
+**Special Note for Public Insight Network Participants**  
+The Public Insight Network (PIN) is a new way for people to share their insights, knowledge and expertise with journalists to make news coverage more accurate, relevant, transparent and trustworthy. If you sign up (link to appropriate partner smart Source URL) to be a source in the PIN, journalists authorized by American Public Media may contact you via telephone, texting, survey forms, email and social media to ask editorially relevant questions about topics related to their reporting. 
 
-**Information provided to APM:** You may join the Public Insight Network via APM or one of the other organizations that uses PIJ in their newsrooms. When you join, you'll be asked to supply:
+> **Information provided to PIN**  
+>  You may join the PIN via APM, SOURCE or any organization authorized to use PIN to inform their reporting. When you sign up, you'll be asked to supply: 
+> 
+>   * Your name and contact information.
+>   * Some personal background information that provides context for your insight. For example, you may be asked to provide your age and educational background.
+>   * Your insight on a topic that is relevant to our reporting.
+> 
 
-  * Your name.
-  * Some personal background information that provides context for your insight. For example, you may be asked to provide your age and educational background. 
-  * Your insight on a topic that is relevant to our reporting. 
 
+> **How APM stores your data**  
+>  The data you supply via PIN is stored in a separate, secure database. It may be accessed by PIN-authorized journalists as part of their reporting. It is never combined with information that you provide as a part of other relationships that you may have with APM or participating PIN newsrooms. For example, it is not combined with the information you provide to APM for membership purposes. 
 
+> **How APM may use your data**  
+>  APM will not use your name, personal information, or the insights you share for any purpose other than the PIN. If you agree to let us broadcast, publish or make public a specific insight, then your permission will apply only to that insight. Permission for use of a specific insight is not deemed permission for the public use of any other prior or future insight. Your name and/or personal information will never be traded, sold, or rented to other organizations. You will never be solicited for a contribution or receive marketing materials from APM, Minnesota Public Radio, any PIN newsroom, or from any other organization as a result of your participation in PIN. Your participation in PIN, and the information and insights you share therein, will have no influence or effect on any other interaction you may have with APM, MPR, or any other PIN newsroom, and vice versa. 
 
-**How APM stores your data:** The data you supply is stored in a separate, secure database at APM. It may be accessed by a small circle of journalists as part of their reporting. It is never combined with information that you provide as a part of other relationships that you may have with APM. For example, it is not combined with the information you provide to APM for membership purposes.
+> **How other PIN newsrooms may use your data**  
+>  APM has relationships with other organizations that use PIN in their journalism, editorial engagement and journalism education. You may sign up for the PIN via APM or any of the other organizations, and the information you share may be visible to participating organizations and may inform their news coverage. How to learn more about PIN: View additional information about the PIN including a list of PIN partners [here](https://www.publicinsightnetwork.org/). 
 
-**How APM may use your data:** APM will not use your name, personal information, or the insights you share for any purpose other than the Public Insight Network. If you agree to let us broadcast, publish or make public a specific insight, then your permission will apply only to that insight. Permission for use of a specific insight is not deemed permission for the public use of any other prior or future insight. Your name and/or personal information will never be traded, sold, or rented to other organizations. You will never be solicited or receive marketing materials from APM, Minnesota Public Radio or from any other organization as a result of your participation in the Public Insight Network. Your participation in the Insight Network, and the information and insights you share therein, will have no influence or effect on any other interaction you may have with APM or MPR, and vice versa.
-
-**How other PIJ newsrooms may use your data:** APM has relationships with other organizations that use PIJ in their newsrooms. You may sign up for the Insight Network via one of those other organizations, and may “opt in” to provide insights to multiple organizations. If you choose to share insights with more than one PIJ newsroom, your prior insights will be visible to journalists in both organizations for background purposes.
-
-**How to learn more about PIJ and the Insight Network:** For additional information about PIJ and the Public Insight Network, please see: <http://americanpublicmedia.publicradio.org/publicinsightjournalism/faq.shtml>.
-
-This “Special Note for Public Insight Network Participants” supplements the other information contained in this “Your Privacy Rights” page. All other portions of “Your Privacy Rights” remain in full force and effect. If a discrepancy arises between the provisions of this Special Note and those found elsewhere on this page, then the provisions of this Special Note will apply.
+This "Special Note for Public Insight Network Participants" supplements the other information contained in this "Your Privacy Rights" page. All other portions of "Your Privacy Rights" remain in full force and effect. If a discrepancy arises between the provisions of this Special Note and those found elsewhere on this page, then the provisions of this Special Note will apply. 
 
 **Your California Privacy Rights**   
 If you are a California resident, beginning on January 1, 2005, California Civil Code Section 1798.83 may entitle you to receive additional information from us regarding our disclosure of personal information to third parties for their direct marketing purposes and your right to opt-out of such disclosure. Please direct all such requests to us at the email and/or regular mail address provided below under "Contact Us". If you do not want your name and contact information to be shared with any company or organization, you may notify us at any time by writing to us at the email and/or regular mail addresses designated below.
@@ -160,6 +162,9 @@ American Public Media ocasionalmente conduce encuestas, a veces en relación con
 APM does not sell, rent or trade its members' names, mailing addresses, telephone numbers or email addresses.
 
 If you use one of APM's secure online forms to make a contribution to APM or an APM program, your name, complete contact information, and all contributions will go directly to the APM Development Department. Your contribution information will be protected in full compliance with the MPR/APM [Member List Policy](http://minnesota.publicradio.org/support/membership/membership_list_policy.shtml).
+
+**Cómo pueden usar sus datos otras salas de noticias PIJ**  
+APM tiene relación con otras organizaciones que usan PIJ en sus salas de noticias y aulas de periodismo. Usted puede registrarse para la Insight Network (Red de Experiencias) por medio de APM o cualquiera de las otras organizaciones, y las experiencias que usted comparta serán visibles para otras organizaciones participantes y pueden informar sus coberturas de noticias.
 
 **Sus derechos de privacidad en California**  
  Si usted es residente de California, a partir del 1 de enero de 2005, el Código Civil de California, Sección 1798.83, podría darle el derecho de recibir información adicional de nosotros sobre la divulgación de información confidencial a terceras partes para propósitos de mercadeo directo y sobre su derecho de optar para que tal divulgación no se realice. Dirija todas sus solicitudes a nuestra dirección de e-mail o de correo regular indicada bajo la sección “Contáctenos”. So no desea que su nombre e información de contacto sea compartida con ninguna compañía u organización, usted puede notificarnos en cualquier momento, escribiéndonos a la dirección de e-mail o de correo regular indicada abajo.
