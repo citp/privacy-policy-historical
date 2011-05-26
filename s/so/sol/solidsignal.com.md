@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solidsignal.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120233409id_/http%3A//www.solidsignal.com/p/%3Fp%3D2554%26d%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solidsignal.com privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526192640id_/http%3A//www.solidsignal.com/p/%3Fp%3D2554%26d%3Dprivacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
