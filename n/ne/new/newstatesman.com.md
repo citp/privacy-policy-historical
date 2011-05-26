@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newstatesman.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229031524id_/http%3A//www.newstatesman.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newstatesman.com privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526153055id_/http%3A//www.newstatesman.com/page/privacy-policy) for the most accurate reproduction.*
 
 # New Statesman - Privacy Policy
 
@@ -70,15 +70,3 @@ Further information about the Data Protection Act can be found here:
 [www.dataprotection.gov.uk](http://www.dataprotection.gov.uk/)
 
 Last updated: November 2006
-
-[](http://www.newstatesman.com/subscribe)
-
-**Newsletter!**  
-Enter your email address below to receive digested summaries of the day's essential comment, opinion and analysis. 
-
-**Newsletter!**  
-Enter your email address here to receive updates from the team 
-
-Vote!
-
-Are the Lib Dems destined to split?
