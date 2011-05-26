@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firerescue1.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225004144id_/http%3A//www.firerescue1.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firerescue1.com privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526022541id_/http%3A//www.firerescue1.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -15,11 +15,11 @@ We are committed to maintaining your confidence and trust with respect to the in
 
 FireRescue1 is dedicated to safeguarding your privacy online. As a policy, we will not sell or otherwise misuse your customer information. Your customer information helps us customize FireRescue1 to your interests and allows us to negotiate valuable member discounts and related services. Please read the following policy to understand how your personal information will be treated as you make full use of our many offerings. 
 
-This privacy policy was last updated on 2/15/2008.
+This privacy policy was last updated on 03/15/2011
 
 [](http://www.truste.org/ivalidate.php?url=www.firerescue1.com&sealid=101)  
   
-**What personally identifiable information does FireRescue1 collect from me?**  
+ **What personally identifiable information does FireRescue1 collect from me?**  
   
 FireRescue1 collects information in several ways from different parts of our network of web sites.
 
@@ -27,7 +27,7 @@ Some personal information is gathered when you register. During registration, Fi
 
 In addition to registration we may ask you for personal information at other times, including (but not limited to) when you enter a sweepstakes, contest or promotion sponsored by FireRescue1 and/or our many partners; when you post a FireRescue1 Classified ad; when you submit a listing for a web site; and when you report a problem with one of our sites or services. If you contact FireRescue1 we may keep a record of that correspondence. FireRescue1 also occasionally asks users to complete surveys that we use for research purposes. Wherever FireRescue1 collects personal information we include a link to this Privacy Policy on that page.  
   
-**What are cookies and how does FireRescue1 use them?**  
+ **What are cookies and how does FireRescue1 use them?**  
   
 As part of offering and providing customizable and personalized services, FireRescue1 uses cookies to store and sometimes track information about you. A cookie is a small amount of data that is sent to your browser from a web server and stored on your computer's hard drive. All sites on FireRescue1 where you are prompted to log-in or that are customizable require that you accept
 
@@ -46,7 +46,7 @@ Advertising networks that serve ads onto FireRescue1 may also use their own cook
 FireRescue1 also collects IP addresses for system administration and to report aggregate information to our advertisers. In addition, FireRescue1 Mail includes IP addresses in outgoing mail message headers. 
 
 Our tracking technology used to for client campaigns throughout the site does not collect any personal identifiable information that you provide as apart of your FireRescue1 membership.  Your personal information stored in cookies is only used for the purposes listed above to help improve your user experience.  
-**How does FireRescue1 use my information?**  
+ **How does FireRescue1 use my information?**  
   
 FireRescue1's primary goal in collecting personal information is to provide you, the user, with a customized experience on our network of sites. This includes personalization services, interactive communications, online shopping and many other types of services, most of which are completely free to you. In order to provide services free of charge, we display advertisements. By knowing a little about you, FireRescue1 is able to deliver more relevant advertisements and content, and hence better service, to you.
 
@@ -54,7 +54,7 @@ In our role of delivering targeted advertisements, FireRescue1 plays the middlem
 
 FireRescue1 does research on our users' demographics, interests, and behavior based on the information provided to us upon registration, during a promotion, from our server log files or from surveys. We do this to better understand and serve our users. This research is compiled and analyzed on an aggregated basis. FireRescue1 may share this aggregated data with advertisers or business partners.  
   
-**Who is collecting information?**  
+ **Who is collecting information?**  
   
 When you are on a FireRescue1 site and are asked for personal information, you are sharing that information with FireRescue1 alone, unless it is specifically stated otherwise. For example, some FireRescue1 services, like FlashoverTV, are offered as a brand of FireRescue1 using the same infrastructure and member database.  This information is stored within a cookie during login and not otherwise collected by a partner company for any purpose.  If data is being collected and/or maintained by any company other than FireRescue1, you will be notified prior to the time of the data collection or transfer. If you do not want your data to be shared, you can choose not to allow the transfer by not using that particular service.  If you have any questions about the use of your information by co-branded sites or experience login problems on a co-branded site please visit the [technical support section](http://www.firerescue1.com/CustomerSupport/TechnicalHelp/).
 
@@ -62,7 +62,7 @@ Promotions that run on FireRescue1 may be sponsored by companies other than Fire
 
 Please be aware that FireRescue1 advertisers or web sites that have links on our site may collect personally identifiable information about you. The information practices of those web sites linked to FireRescue1 are not covered by this privacy statement.  
   
-**With whom does FireRescue1 share my information?**  
+ **With whom does FireRescue1 share my information?**  
   
 As a general rule, FireRescue1 will not disclose any of your personally identifiable information except when we have your permission or under special circumstances, such as when we believe in good faith that the law requires it or under the circumstances described below. Please see the Terms of Service or Use Agreements for each of our products and services for more detailed information about how your personal information may be shared. The following describes some of the ways that your information may be disclosed.
 
@@ -76,7 +76,7 @@ From time to time, you may be offered the opportunity to receive materials or sp
 
 Third Party Data & Data in the Aggregate: Under confidentiality agreements, FireRescue1 may match user information with third party data. Also, FireRescue1 discloses aggregated user statistics (for example, 75% of our users are male and are interested in firefighting) in order to describe our services to prospective partners, advertisers, and other third parties, and for other lawful purposes.  
   
-**Disclosure of Personal Information to Third Parties**  
+ **Disclosure of Personal Information to Third Parties**  
   
 Access to your personal information is restricted to our employees, agents, representatives and service providers and entities for whom we are acting as an agent, licensee or publisher, such as societies and our affiliated group companies, for the purposes set forth above. 
 
@@ -98,7 +98,7 @@ You also have choices with respect to cookies. By modifying your browser prefere
 
 FireRescue1 does not sell, share or rent user information to anyone. We will notify you at the time of data collection or transfer if your data will be shared with a third party and you will always have the option of not permitting the transfer. If you do not wish to allow your data to be shared, you can choose not to use a particular service or not to participate in certain promotions or contests.  
   
-**What is FireRescue1's policy on allowing me to update, correct, or delete my personally identifiable information?**  
+ **What is FireRescue1's policy on allowing me to update, correct, or delete my personally identifiable information?**  
   
 You may edit your FireRescue1 Account Information and your public FireRescue1 Profile at any time by using your FireRescue1 ID and password. If you have forgotten your password, please click [here](http://www.firerescue1.com/forgot) to request a new password. For all other problems signing in to FireRescue1, please [contact us](mailto:customersupport@firerescue1.com).
 
@@ -108,7 +108,7 @@ If you are participating in a FireRescue1 promotion and you wish to update your 
 
 Knowing that you use certain services or features may help us to offer you better and more relevant content and advertisements. But as with all personally identifiable information, we do not make this available to any third parties without your permission. Any user statistics that we may provide to prospective advertisers or partners regarding financial product or service usage on FireRescue1 are provided in the aggregate only and do not include any personally identifiable information about any individual user.  
   
-**Unsubscribing and opting out of personally identifiable information**  
+ **Unsubscribing and opting out of personally identifiable information**  
   
 Your username may be displayed while participating in the FireRescue1 Forums, FlashoverTV and when submitting member comments to any article, tip or video on FireRescue1. Your email address will only be used for us to send you materials that you have subscribed to in the past. We provide you the opportunity to ‘opt-out’ of having your personally identifiable information used for certain purposes, when we ask for this information. If you wish to update or remove any of your personal information please visit your profile page at anytime. If you no longer wish to receive our newsletter or other promotional communications, you may opt-out of receiving them by following the unsubscribe instructions included in each communication, by updating your profile or emailing customersupport@FireRescue1.com. You will be notified when your personal information is collected by any third party that is not our agent/service provider, so you can make an informed choice as to whether or not to share your information with that party.   
   
@@ -116,7 +116,7 @@ Your username may be displayed while participating in the FireRescue1 Forums, Fl
   
 If you choose to use our referral service to tell a friend about our site, we will ask you for your friend’s name and email address. This feature is available with FireRescue1 articles, tips and videos throughout FireRescue1.com and http://flashovertv.FireRescue1.com/. We will automatically send your friend a one-time email inviting him or her to visit the site. FireRescue1 does not store this information and will not send any additional messages to the referred user.  
   
-**Service Providers**  
+ **Service Providers**  
   
 We use other third parties to provide forums on FireResuce1.com. When you sign up for a FireRescue1 member account, we will share your username as necessary for the forums application to provide that service. If you use a bulletin board, blog, or forum on this Web site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums. These third parties are prohibited from using your personally identifiable information for any other purpose than listed above.   
 **What security precautions are in place to protect the loss, misuse, or alteration of my information?**  
@@ -126,11 +126,11 @@ Your FireRescue1 Account Information and FireRescue1 Profile are password-protec
 We recommend that you do not divulge your password to anyone. FireRescue1 will never ask you for your password in an unsolicited phone call or in an unsolicited email. Also remember to sign out of your FireRescue1 account and close your browser window when you have finished your work. This is to ensure that others cannot access your personal information and correspondence if you share a computer with someone else or are using a computer in a public place like a library or Internet cafe.
 
 Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, FireRescue1 cannot ensure or warrant the security of any information you transmit to us or from our online products or services, and you do so at your own risk. Once we receive your transmission, we make our best effort to ensure its security on our systems.  
-**What security precautions are in place to protect the identity and security of Firefighting officials on FireRescue1?**  
+ **What security precautions are in place to protect the identity and security of Firefighting officials on FireRescue1?**  
   
 FireRescue1 has taken several precautions to protect the identity, account names and passwords of officers when they register and log on to FireRescue1.com. All transfer of registration and login information is encrypted using Secure Socket Layer (SSL). Unfortunately, this process cannot be 100% secure and FireRescue1 is not responsible for the misuse of these user names and passwords. Despite all of our precautions, you use FireRescue1 at your own risk.  
   
-**Changes in this Privacy Statement**  
+ **Changes in this Privacy Statement**  
   
 If we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
 
@@ -140,6 +140,6 @@ If you ever have questions regarding the FireRescue1 privacy policy please email
   
 * * *  
   
-_FireRescue1 is a licensee of the TRUSTe Web Privacy Seal Program. TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site www.FireRescue1.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe._
+ _FireRescue1 is a licensee of the TRUSTe Web Privacy Seal Program. TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site www.FireRescue1.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe._
 
-_If you have questions or concerns regarding this statement, you should first contact[customersupport@firerescue1.com](mailto:customersupport@firerescue1.com).  If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php> TRUSTe will then serve as a liaison with us to resolve your concerns._
+ _If you have questions or concerns regarding this statement, you should first contact[customersupport@firerescue1.com](mailto:customersupport@firerescue1.com).  If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php> TRUSTe will then serve as a liaison with us to resolve your concerns._
