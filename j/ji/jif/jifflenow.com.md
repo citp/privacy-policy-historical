@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jifflenow.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125105635id_/http%3A//www.jifflenow.com/website/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jifflenow.com privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526052209id_/http%3A//www.jifflenow.com/website/privacy) for the most accurate reproduction.*
 
 # Welcome to Jiffle | Scheduling Made Simple | Privacy Policy
 
