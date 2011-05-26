@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ymca.net privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202194214id_/http%3A//www.ymca.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ymca.net privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526220033id_/http%3A//www.ymca.net/privacy-policy) for the most accurate reproduction.*
 
 # the Y: Privacy Policy
 
