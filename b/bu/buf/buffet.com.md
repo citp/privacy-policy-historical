@@ -1,33 +1,59 @@
-> *The following text is extracted and transformed from the buffet.com privacy policy that was archived on 2010-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100911105849id_/http%3A//www.buffet.com/legal/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buffet.com privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527003213id_/http%3A//www.buffet.com/privacy-policy) for the most accurate reproduction.*
 
-# Hometown Buffet, Old Country Buffet and Country Buffet
+# Welcome to Buffets, Inc., the Best Buffet in America | Buffet.comBuffets, Inc. Privacy Policy | Buffet.com
 
-We can be reached by writing to Ryan's Restaurant Group, Inc., 1460 Buffet Way, Eagan, MN 55121, or you can reach us by telephone at 651-994-8608. This Policy is effective as of 11/1/07.
+This Privacy Policy is effective January 7, 2011, and governs Buffets, Inc.'s and its subsidiaries' and affiliates' (collectively, "we," "us," and "our") collection and use of information which you supply to us (collectively, "Information") on www.buffetsinc.com, www.buffet.com, www.firemountain.com, www.ryans.com, www.oldcountrybuffet.com, and other websites owned or operated by us or linked to this Privacy Policy(collectively, the "Web Site"). By visiting the Web Site, you consent to our collection and use of Information in accordance with the terms and conditions of this Privacy Policy.
 
-Our web server automatically recognizes each visitor's domain name. For visitors merely browsing our site, we generally collect only the domain name and user-specific browsing data regarding what pages consumers access or visit. With respect to on-line orders or other pages that specifically request the visitor to supply a name and address, telephone number, and payment information (e.g., credit card number and billing address), the data collected is used for processing the order or otherwise fulfilling the page-specific purpose shown unless otherwise provided in this privacy policy.
+If you have any questions or concerns about our use of Information or this Privacy Policy, please write to Buffets, Inc., 1020 Discovery Road, Suite 100, Eagan, MN 55121, or call us at 651-994-8608.
 
-The information we collect is used for internal review to improve the content of our web page, and is shared with agents or contractors who assist in providing support for our internal operations. Except as indicated below, it is not shared with other organizations for commercial purposes. We abide by all legal mandates to disclose data upon court order or at the request of governmental authorities conducting an investigation. We also use the information to verify or enforce compliance with the policies governing our web site and applicable laws or to protect against misuse or unauthorized use.
+Types of Information We Collect and How We Use It
 
-With respect to cookies: We use cookies to record session information, such as items that consumers add to their shopping cart.
+From time to time, we collect various types of Information, including names, postal addresses, e-mail addresses, domain names, telephone numbers, dates of birth, and financial information (e.g., credit card information in connection with your orders for products).
 
-From time to time, we may make the e-mail addresses of those who access our site available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, or do not want to receive e-mail from us in the future, please let us know by writing to us at the above address.
+We collect such Information to monitor the performance of the Web Site, improve the design and functionality of the Web Site, process and manage your requests for the purchase of products, send you updates about our business and promotional information, and for certain other purposes described below.
 
-From time to time, we may provide updates and promotional information to our customer email addresses that are voluntarily provided to us as part of our various clubs and programs. If you do not want us to send you updates and promotional information via email, please let us know by writing to us at the above address.
+If you merely browse the Web Site, we generally only collect your domain name and keep a record of the pages you visit to monitor the performance, and improve the design and functionality, of the Web Site.
 
-From time to time, we may make our customer e-mail lists available to other organizations that we believe to be reputable and whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by writing to us at the above address.
+If you place an order for a product on the Web Site or visit a page that requests you to supply your name, postal address, e-mail address, telephone number, and/or payment information (e.g., credit card number and billing address), we use such Information to process your order or to otherwise fulfill the page-specific purpose shown, unless otherwise provided in this Privacy Policy.
 
-If you supply us with your postal address on line you will only receive the information for which you provided us your address.
+If you supply us with your postal address, you will only receive the information or products for which you provided your postal address.
 
-We sometimes collect telephone numbers from individuals related to the on line orders they have placed. If you object to the sharing of this information with others, please provide us with your name and phone number, and we will remove this information from the lists that we share with other organizations on a go-forward basis. It may, however, be impractical to remove names from lists previously supplied to others.
+If you supply us with your e-mail address in connection with any of our various clubs or programs, we may send you e-mails regarding such clubs and programs, our business, and/or business promotions. If you supply us with your e-mail address but do not want us to send you e-mails, please let us know by writing to us at the above address.
 
-With respect to ad servers: We do not partner with or have special relationships with any ad server companies.
+We may also use Information to comply with applicable orders, laws, and regulations, enforce our corporate policies, protect against misuse or authorized used of Information, and protect our or others' rights, property, or safety.
 
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future, we will post the policy changes to our web site to notify you of these changes, and we will use for these new purposes only data collected from the time of the policy change forward. If you are concerned about how your information is used, you should check back at our web site periodically.
+Customers may request that Information not be used for purposes other than those for which it was originally collected by writing to us at the above address.
 
-Customers may request that their personal information not be used for purposes other than those for which it was originally collected by writing to us at the above address.
+Sharing of Information
 
-Upon written request to the address shown above, we will confirm the types of information currently maintained about the requesting party. This will not reflect information previously collected that has been discarded. Upon request we offer visitors the ability to have factual inaccuracies corrected in information that we maintain about them.
+Except as indicated below, we do not share Information with other organizations for commercial purposes.
 
-With respect to security: When we transfer and receive certain types of sensitive information such as financial information, we redirect visitors to a secure server. Please consult your user documentation supplied by the supplier of your web browsing software to determine how your specific software displays whether a secure server connection is in place. It is the user's obligation to confirm whether such a secure connection is being used when an order is placed. We maintain security measures in place in our physical facilities, or those of our vendors, intended to protect against the loss, misuse or alteration of information that we have collected from you.
+From time to time, we share Information with agents and contractors who provide us with support for our internal operations. For example, if you place an order for a product on the Web Site, we may share Information with a third party to process payment for, and otherwise fulfill, your order. In addition, from time to time, we may share Information with governmental authorities who have ordered or requested us to disclose Information. 
 
-If you feel that this site is not following its stated information policy, you may contact us at the above address or phone number.
+In the event of a sale or transfer of some or all of our assets or business, we may disclose Information to those involved in a transfer of some or all of our assets or business. If such an event were to occur, we would strive to ensure that the recipient treat Information in accordance with this Privacy Policy.
+
+We do not partner, or have special relationships, with any ad server companies.
+
+Cookies
+
+“Cookies” are pieces of information that a web site transfers to an individual's hard drive for record-keeping purposes. We use Cookies to make your use of the Web Site more convenient. For example, we use Cookies to keep a record of products you add to your shopping cart.
+
+If you do not wish to receive Cookies or if you would like your web browser to notify you when you receive Cookies, please refer to the options menu in your web browser. If you disable all Cookies, you may not be able to take advantage of all of the features of the Web Site.
+
+Privacy Policy Updates
+
+We reserve the right to modify this Privacy Policy at any time. In the event we modify this Privacy Policy, we will post the modified Privacy Policy on the Web Site. We suggest that you check the Web Site periodically to review our most up-to-date Privacy Policy. We will use Information in a manner that is consistent with the Privacy Policy in effect at the time we collected such Information.
+
+Security
+
+When we transfer and receive certain types of sensitive Information such as financial information, we redirect visitors to a secure server. Please consult the user documentation supplied by the supplier of your web browsing software to determine how your software indicates whether a secure server connection is in place. It is your obligation to confirm whether such a secure connection is being used when an order is placed. We maintain security measures in place in our physical facilities, or those of our vendors, intended to protect against the loss, misuse or alteration of Information.
+
+General Terms of Use
+
+Please review our [General Terms of Use](https://web.archive.org/conditions-of-use) that explain other terms governing the use of the Web Site.
+
+Other Questions or Concerns?
+
+Upon written request to the address shown above, we will confirm the types and accuracy of Information currently maintained about you; provided, however, we will not be able to reveal Information we collected and subsequently discarded or destroyed. If you discover any inaccuracies in such Information and ask us to correct such inaccuracies, we will do so.
+
+If you feel that the Web Site is not following this Privacy Policy, you may contact us at the above address or phone number.
