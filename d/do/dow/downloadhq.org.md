@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the downloadhq.org privacy policy that was archived on 2010-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100328144714id_/http%3A//www.downloadhq.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downloadhq.org privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526181927id_/http%3A//www.downloadhq.org/privacy.php) for the most accurate reproduction.*
 
 # DownloadHQ - Privacy Policy
 
