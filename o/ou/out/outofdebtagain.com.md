@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the outofdebtagain.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125145011id_/http%3A//www.outofdebtagain.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outofdebtagain.com privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526171711id_/http%3A//www.outofdebtagain.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Out of Debt Again
 
@@ -58,4 +58,5 @@ Thank you,
 
 Mrs. Accountability
 
-P.S. Thank you to [Bob at Christian Personal Finance for graciously allowing me to copy his privacy policy](http://www.christianpf.com/privacy-policy/).
+P.S. Thank you to [Bob at Christian Personal Finance for graciously allowing me to copy his privacy policy](http://www.christianpf.com/privacy-policy/).  
+
