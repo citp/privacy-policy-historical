@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the omron.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120111659id_/http%3A//www.omron.com/general/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omron.com privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526191435id_/http%3A//www.omron.com/general/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | OMRON
+# Privacy Policy | OMRON Global
 
 ### 1\. Definition of "Personal Information"
 
@@ -79,7 +79,7 @@ Applications for disclosure requests, etc. should be sent by post to the address
 To make disclosure requests, etc., you must download and fill out the request form (a) and send it by post with the documents for identity verification (b) and a reply envelope (c) with your address written on it (the address should be the same as that written in the documents for identity verification). Please send these materials to the address noted in section 9 below. Please affix an 800-yen stamp to the reply envelope, as discussed in (c) below. 
     1. Request form 
       * \- Request form for personal information disclosure, amendment, suspension of use, erasure, etc.
-[Download request form PDF<11kb>](https://web.archive.org/web/20101120111659id_/http://www.omron.com/general/privacy/pdf/request_form.pdf)
+[Download request form PDF<11kb>](https://web.archive.org/web/20110526191435id_/http://www.omron.com/general/privacy/pdf/request_form.pdf)
     2. Documents for identity verification  
 (Requests submitted by applicant) 
       1. Enclose **one** of the following documents when submitting a request form: 
