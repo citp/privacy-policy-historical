@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the extremenetworks.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124163344id_/http%3A//www.extremenetworks.com/about-extreme/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extremenetworks.com privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526023204id_/http%3A//www.extremenetworks.com/about-extreme/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Extreme Networks
 
@@ -34,7 +34,7 @@ We do not sell, rent or trade the personal information we collect. Unless we hav
 
 When you register for an account or submit personally identifiable information to Extreme Networks, we will occasionally contact you via email, postal mail, or telephone. This contact may involve notification of new services being offered by Extreme Networks. You may opt-out of this contact by deactivating your account. If you no longer wish to maintain an account with Extreme Networks, please go to our Subscription Profile page, or contact us at [webmaster](mailto:webmaster@extremenetworks.com) and we will remove you from our contacts list. 
 
-In addition, most users may view certain personally identifiable information in our databases by visiting our [Contact Information page](https://web.archive.org/web/20101124163344id_/http%3A//www.extremenetworks.com/about-extreme/contact-us.aspx), by [email to webmaster](mailto:webmaster@extremenetworks.com), or by phone at (408) 579-2800.
+In addition, most users may view certain personally identifiable information in our databases by visiting our [Contact Information page](https://web.archive.org/web/20110526023204id_/http%3A//www.extremenetworks.com/about-extreme/contact-us.aspx), by [email to webmaster](mailto:webmaster@extremenetworks.com), or by phone at (408) 579-2800.
 
 ##  Links to Other Sites
 
