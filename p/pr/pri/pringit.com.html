@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the pringit.com privacy policy that was archived on 2010-11-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101123021422id_/http%3A//www.pringit.com/pages/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pringit.com privacy policy that was archived on 2011-05-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110526082728id_/http%3A//pringit.com/pages/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="X-UA-Compatible" content="IE=7">
@@ -13,6 +13,8 @@ select, option { behavior: url("/media/js/disable.htc"); }
 <title>Privacy Policy  - Pring!</title>
 <script type="text/javascript" src="/media/js/jquery-1.3.2.min.js"></script>
 <script type="text/javascript" src="/media/js/general.js"></script>
+ <script type="text/javascript" src="/media/js/jquery.editinplace.js"></script>
+
 
 
 
@@ -41,7 +43,7 @@ select, option { behavior: url("/media/js/disable.htc"); }
         update_length = subtract_url_length(webping);
 
         
-        $("#status_limit").html(140-update_length);
+        $("#status_limit").html(420-update_length);
 
         //first earasing previous cookie
         set_cookie("webping", webping, -5);
@@ -77,8 +79,8 @@ select, option { behavior: url("/media/js/disable.htc"); }
 
                                             $("#updater_container").dialog({
                                             modal: true,
-                                            height: 415,
                                             width: 699,
+                                            height:480,
                                             autoResize: false,
                                             overlay: {
                                             opacity: 0.5,
@@ -89,7 +91,7 @@ select, option { behavior: url("/media/js/disable.htc"); }
                                             $("#updater_container").show('fast', function() {
                                                 $('#webping').focus();
                                                 $('#webping').select();
-                                                $("#status_limit").html(140-subtract_url_length($('#webping').val()));
+                                                $("#status_limit").html(420-subtract_url_length($('#webping').val()));
 
                                                 if(remaining_data["hourly_limit"] == "-1" || remaining_data["daily_limit"] == "-1")
                                                 {   
@@ -166,8 +168,8 @@ select, option { behavior: url("/media/js/disable.htc"); }
 				<div class="tn_right">
 					<ul>
 						
-						<li><a href="/?view_form=login">Login</a></li>
-                        <li><a href="/">Register</a></li>
+						<li><a href="/?view_form=login&amp;next=">Login</a></li>
+                        <li><a href="/">Sign Up</a></li>
 						
 					</ul>
 				</div>
@@ -212,14 +214,14 @@ select, option { behavior: url("/media/js/disable.htc"); }
 		<div id="footer">
 		
 			<ul>
-				<li>© 2010 Pring</li>
+				<li>© 2011 Pring</li>
 				<li><a href="/pages/about_us/">About Us</a></li>
 				<li><a href="/pages/help/">Help</a></li> 
 				<li><a href="/pages/faq/">FAQ</a></li>
-				<!--<li><a href="/">Jobs </a></li> -->
 				<li><a href="/pages/tos/">Terms</a></li> 
 				<li><a href="/pages/privacy/">Privacy</a></li>
-				<li><a href="http://blog.pringit.com/">Blog</a></li> 
+				<li><a href="http://blog.pringit.com/">Blog</a></li>
+                <li><a href="/pidget_designer/">Pidgets</a></li>
 			</ul>
                         <div class="disclaimer">Pring, e-Business (Pvt) Ltd is not liable for any content. You are responsible for any content posted by you.</div>
 
