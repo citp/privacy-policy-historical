@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailyblogging.org privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223194041id_/http%3A//www.dailyblogging.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyblogging.org privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526043140id_/http%3A//www.dailyblogging.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
