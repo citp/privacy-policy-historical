@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the genesys.com privacy policy that was archived on 2010-12-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101202030908id_/http%3A//www.intercall.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the genesys.com privacy policy that was archived on 2011-05-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110526104825id_/http%3A//www.intercall.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><!-- PageID 184 - published by Open Text Web Solutions 10 - 10.0.1.90 - 30893 -->
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -14,6 +14,39 @@
 <script src="/includes/Utilities.js" language="javascript" type="text/javascript"></script>
 
 
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+<script type="text/javascript" src="http://www.intercall.com/common/js/ui.core.1.5.3.js"></script>
+<script type="text/javascript" src="http://www.intercall.com/common/js/ui.datepicker.js"></script>
+<script type="text/javascript" src="http://www.intercall.com/common/js/ui.tabs.1.6.js"></script>
+<script type="text/javascript" src="http://www.intercall.com/common/js/jquery.cycle.all.min.js"></script>
+<script type="text/javascript" src="http://www.intercall.com/common/js/jquery.pngFix.js"></script>
+<script type="text/javascript" src="http://www.intercall.com/common/js/jquery.validate.js"></script>
+<script type="text/javascript" src="http://www.intercall.com/common/js/effects.core.js"></script>
+<script type="text/javascript" src="http://www.intercall.com/common/js/effects.blind.js"></script>
+<script type="text/javascript">
+$(document).ready(function(){
+    adjustLayout();
+
+ // G.A. tracking extensions
+ $("a[href$=.pdf]").click(function(){
+  pageTracker._trackPageview($(this).attr("href"));
+ });
+ $("a[href$=.exe]").click(function(){
+  pageTracker._trackPageview($(this).attr("href"));
+ });
+ $("a[href$=.msi]").click(function(){
+  pageTracker._trackPageview($(this).attr("href"));
+ });
+ $(".eventtrack").click(function(){
+  var info = $(this).attr("title").split("|");
+  pageTracker._trackEvent(info[0], info[1], info[2]);
+ });
+  });
+</script><script type="text/javascript">
+$(document).ready(function(){
+ $(document).pngFix(); 
+});
+</script>
 </head>
 
 
@@ -45,6 +78,10 @@
 
 
 <li><a href="http://www.intercall.co.jp/">Japan (Japanese)</a></li>
+
+
+
+<li><a href="http://kr.intercallapac.com/">Korea (Korean)</a></li>
 
 
 
@@ -99,6 +136,10 @@
 
 
 
+<li><a href="http://es.intercalleurope.com/">Spain (Spanish)</a></li>
+
+
+
 <li><a href="http://se.intercalleurope.com/">Sweden (Swedish)</a></li>
 </ul>
 </div>
@@ -141,7 +182,7 @@
 
 
 
-<li><a href="http://www.intercall.ca/fr/index.htm">Canada (French)</a></li>
+<li><a href="http://fr.intercall.ca/">Canada (French)</a></li>
 </ul>
 </div>
 </div>
@@ -213,7 +254,12 @@
     </ul>
 
     <ul class="dropDownMenu secondNav" id="dropmenu29">
-        <li><a href="/customer-center/account-management-tools.php"><span>Account Management</span></a></li><li><a href="/customer-center/resources.php"><span>Resources</span></a></li><li><a href="/customer-center/training.php"><span>Training</span></a></li><li><a href="/customer-center/techSupport.php"><span>Technical Support</span></a></li><li><a href="/customer-center/newsletter.php"><span>Newsletter &amp; Blog</span></a></li><li><a href="/customer-center/webinars.php"><span>Webinar Series</span></a></li>
+        <li><a href="/customer-center/account-management-tools.php"><span>Manage My Account</span></a></li><li><a id="29_2" onmouseover="showThirdNav('dropmenu29_2', 'support', 'dropmenu29', '29_2') ;" onmouseout="hideThirdNav('dropmenu29_2', '29_2');" class="flyout" href="/customer-center/learning-center.php"><span>Learning Center</span></a></li><li><a href="/customer-center/techSupport.php"><span>Contact Support</span></a></li>
+    </ul>
+
+    <ul class="dropDownMenu thirdNav" id="dropmenu29_2" onmouseover="showThirdNav('dropmenu29_2', 'support', 'dropmenu29', '29_2') ;" onmouseout="hideAllNav('dropmenu29_2', '29_2', 'support');">
+<li><a href="/customer-center/training.php"><span>Training</span></a></li><li><a href="/customer-center/webinars.php"><span>Webinar Series</span></a></li>
+
     </ul>
 
     <ul class="dropDownMenu secondNav" id="dropmenu28">
@@ -271,7 +317,7 @@ margin-top:2px !important;
   
 <!--BEGIN HEADER TOP NAV * * * * * * * * * * * * * * * * * * * -->
     <div id="topNav">
-        <a id="aboutus" href="/about-us/index.php" class="dropDownOff noborder" rel="dropmenu28"><span>about us</span></a><a id="customercenter" href="/customer-center/index.php" class="dropDownOff" rel="dropmenu29"><span>customer center</span></a><a id="solutions" href="/solutions/index.php" class="dropDownOff" rel="dropmenu33"><span>solutions</span></a><a id="products&amp;services" href="/services/index.php" class="dropDownActive" rel="dropmenu32"><span>products &amp; services</span></a>
+        <a id="aboutus" href="/about-us/index.php" class="dropDownOff noborder" rel="dropmenu28"><span>about us</span></a><a id="support" href="/customer-center/index.php" class="dropDownOff" rel="dropmenu29"><span>support</span></a><a id="solutions" href="/solutions/index.php" class="dropDownOff" rel="dropmenu33"><span>solutions</span></a><a id="products&amp;services" href="/services/index.php" class="dropDownActive" rel="dropmenu32"><span>products &amp; services</span></a>
     </div>
   <script type="text/javascript">
 //tabdropdown.initializetabmenu("tab_menu_id", optional_selected_tab_number)
@@ -292,7 +338,7 @@ tabdropdown.initializetabmenu("topNav")
 
 
 
-<img src="/images/photo_noLeftNav.jpg" alt="Text" border="0" title="">
+<img src="/images/photo-asianLadyGlasses.jpg" alt="Text" border="0" title="">
 
 <img src="/images/background/spacer.gif" alt="" border="0">
     </div>
@@ -432,20 +478,19 @@ tabdropdown.initializetabmenu("topNav")
 
 <li><a href="/about-us/contact-us.php">contact us</a> </li>
 
-<li><a href="http://blog.intercall.com" target="_blank">blog</a> </li>
+<li><a href="/social-media.php">social media</a> </li>
           
-<li class="copyright">© 2006-2010. InterCall is a subsidiary of West Corporation</li>
+<li class="copyright">© 2006-2011. InterCall is a subsidiary of West Corporation</li>
 
   </ul>
     
   <div class="divider"></div>
 </div>
 <!--END FOOTER* * * * * * * * * * * * * * * * * * * -->
-<script type="text/javascript">adjustLayout();</script>
 
 
 <script type="text/javascript" language="JavaScript" src="/elqNow/elqCfg.js"></script>
-<script type="text/javascript" language="JavaScript" src="/elqNow/elqImg.js"></script><layer hidden="true"><img src="https://secure.eloqua.com/visitor/v200/svrGP.aspx?pps=3&amp;siteid=1807&amp;ref2=elqNone&amp;tzo=0&amp;ms=604" border="0" width="1" height="1"></layer>
+<script type="text/javascript" language="JavaScript" src="/elqNow/elqImg.js"></script><layer hidden="true"><img src="https://secure.eloqua.com/visitor/v200/svrGP.aspx?pps=3&amp;siteid=1807&amp;ref2=elqNone&amp;tzo=0&amp;ms=622" border="0" width="1" height="1"></layer>
 
 <script type="text/javascript">
     var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
