@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intercall.com privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202030908id_/http%3A//www.intercall.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intercall.com privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526104825id_/http%3A//www.intercall.com/privacy.php) for the most accurate reproduction.*
 
 # InterCall Privacy Policy | Conference Call Company
 
