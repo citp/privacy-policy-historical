@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sanjac.edu privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129065127id_/http%3A//sanjac.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sanjac.edu privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526102802id_/http%3A//sanjac.edu/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | San Jacinto College
+# Privacy Policy | San Jacinto College | Houston, TX
 
 San Jacinto College is committed to the highest level of integrity in dealing with the private information of our web users as part of our overall commitment to providing a quality web site and service experience for our users. This policy will continue to be assessed against new technologies, business practices and the needs of our users. 
 
