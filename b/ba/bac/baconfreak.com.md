@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the baconfreak.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124174745id_/http%3A//www.baconfreak.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baconfreak.com privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526051827id_/http%3A//www.baconfreak.com/privacy-policy.html) for the most accurate reproduction.*
 
 # BaconFreak.com Privacy Policy
 
@@ -36,7 +36,7 @@ Your information is simply used to process your order, collect payment, and ship
 
 **Contact Us**
 
-If you have any questions or requests for more information, visit our [Help](https://web.archive.org/web/20101124174745id_/http%3A//www.baconfreak.com/info.html) page for our current contact information.
+If you have any questions or requests for more information, visit our [Help](https://web.archive.org/web/20110526051827id_/http%3A//www.baconfreak.com/info.html) page for our current contact information.
 
   
 
