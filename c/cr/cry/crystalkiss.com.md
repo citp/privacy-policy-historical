@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crystalkiss.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223224510id_/http%3A//www.crystalkiss.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crystalkiss.com privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526082609id_/http%3A//www.crystalkiss.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Crystal Kiss - Strange News and more...
 
