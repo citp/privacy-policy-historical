@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the experience-essential-oils.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230081434id_/http%3A//www.experience-essential-oils.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the experience-essential-oils.com privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526235811id_/http%3A//www.experience-essential-oils.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy for Experience-Essential-Oils.com
 
@@ -70,4 +70,5 @@ What's This?
   
 Enjoy this page? Please pay it forward. Here's how...  
   
-[](http://www.sitesell.com/Nan.html)
+  
+
