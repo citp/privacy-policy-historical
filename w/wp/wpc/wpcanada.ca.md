@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the wpcanada.ca privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124224931id_/http%3A//wpcanada.ca/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpcanada.ca privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526060124id_/http%3A//wpcanada.ca/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - WPCanada
-
-## Privacy Policy
+# Privacy Policy » WPCanada
 
 **Introduction**  
 WPCanada is committed to protecting your privacy. This Privacy Policy explains our privacy practices and how that may pertain to you.
@@ -29,7 +27,13 @@ When submitting a communique to us via the [Contact Form](http://wpcanada.ca/con
 
 
 
+You may also voluntarily provide your email address when subscribing to our Email Updates feature.
+
 Your email address will remain private. We will never sell, trade or otherwise share it with anyone without your consent. However, the content of any message sent to us shall be considered public unless otherwise requested by you.
+
+It should be noted that our email subscription feature is handled by Feedburner, a Google property. We have no control over how they may use information you provide them with via this web site. You are encouraged to read their [Privacy Policy](http://www.google.com/intl/en/privacy/ "Google Privacy Policy").
+
+If you do not wish to voluntarily provide your email address to access our email subscription feature you can still subscribe to this web site's content through our [RSS feed](http://wpcanada.ca/feed/rss/ "Full content feed").
 
 **Links**  
 This web site contains many links to other web sites over which we have no control. You are encouraged to familiarize yourself with their Privacy Policies as they may differ from ours.
@@ -40,4 +44,4 @@ We may periodically update this Privacy Policy. If so, the updated version will 
 **Further**  
 If you do not agree with these terms then you should not use this web site.
 
-_Last updated: 10 Jan 2009_
+_Last updated: 01 Feb 2011_
