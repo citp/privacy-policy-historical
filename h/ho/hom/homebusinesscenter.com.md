@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homebusinesscenter.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125144300id_/http%3A//www.homebusinesscenter.com/disclaimer.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homebusinesscenter.com privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526234732id_/http%3A//www.homebusinesscenter.com/disclaimer.html) for the most accurate reproduction.*
 
 # HBC Inc Privacy Policy, Copyright Notice and Liability Disclaimer
 
@@ -23,6 +23,10 @@
 > HomeBusinessCenter.com cannot guarantee any amount of income from a business opportunity or profits from a marketing service since each individual and every home business is different. Your participation in these business opportunities and services is solely at your own risk.
 > 
 > Third Party Ads: Google, as a third party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads based on your visit to our site and other sites on the Internet. You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+> 
+> Bizo, Inc. a provider of business targeting technologies, uses cookies to convert and optimize information about business people into non-personally identifiable business demographic segments called Bizographics. This information includes, but is not limited to, information such as industry, company size, functional area, seniority, location and gender. Visit [Bizo](http://www.bizo.com/businessProfessionals/privacy_policy) to learn more or opt-out of targeting cookies.
+> 
+> This website uses Google Analytics, a web analytics service which uses cookies', which are text files placed on your computer, to help the website analyze how users use the site.
 > 
 > If you have any questions, please do not hesitate to contact us directly at [**HomeBusinessCenter.com**](http://www.homebusinesscenter.com/support.html)
 > 
