@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the precisehire.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222000431id_/http%3A//www.precisehire.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the precisehire.com privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526135123id_/http%3A//www.precisehire.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy - Employment Screening, Same Day Hiring Decisions, Background Checks, Employee Screening, Background Checks
 
