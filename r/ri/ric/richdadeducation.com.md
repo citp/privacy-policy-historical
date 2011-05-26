@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the richdadeducation.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127114206id_/http%3A//richdadeducation.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the richdadeducation.com privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526092300id_/http%3A//www.richdadeducation.com/privacy.aspx) for the most accurate reproduction.*
 
 # Rich Dad Education | Privacy Policy
 
@@ -19,10 +19,10 @@ This Privacy Notice is meant to inform you how Rich Dad Education safeguards you
 Security Notice**  
 Rich Dad Education is committed to safeguarding the private information of our students and customers. We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online.
 
-[](https://web.archive.org/web/20101127114206id_/http%3A//richdadeducation.com/index.aspx)  
+[](https://web.archive.org/web/20110526092300id_/http%3A//www.richdadeducation.com/index.aspx)  
   
 * Robert Kiyosaki will not attend this event.  
-© 2010 Rich Dad Education. All rights reserved. The Rich Dad word mark and logos are owned by Rich Dad Operating Co., LLC and any such use is under license.
+© 2011 Rich Dad Education. All rights reserved. The Rich Dad word mark and logos are owned by Rich Dad Operating Co., LLC and any such use is under license.
 
 The educational training program provided hereunder is not designed or intended to qualify students for employment.  
 Our curriculum is avocational in nature and is intended for the purpose of the accumulation of wealth by, and the personal enrichment, development and enjoyment of, our students.
