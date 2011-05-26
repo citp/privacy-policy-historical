@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the newarticles.us privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523033452id_/http%3A//newarticles.us/index.php%3Fpagedb%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newarticles.us privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526230605id_/http%3A//www.newarticles.us/index.php%3Fpagedb%3Dprivacy) for the most accurate reproduction.*
 
-# privacy submit articles, free article submission
+# NewArticles.Us: new articles, free article submission, article directory
+
+  
+
 
 ## PRIVACY POLICY
 
