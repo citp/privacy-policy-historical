@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ve.com privacy policy that was archived on 2010-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101106170811id_/http%3A//www.ve.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ve.com privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526153016id_/http%3A//www.ve.com/privacy_policy.html) for the most accurate reproduction.*
 
 # VisualAcuity Dashboard Solutions
 
@@ -7,7 +7,7 @@ Visual Engineering is committed to safeguarding your privacy online and we want 
 
 By accessing or otherwise using this site, you agree to be bound contractually by this Privacy Policy.
 
-[[Click here](https://web.archive.org/web/20101106170811id_/http%3A//www.ve.com/privacy_change.html)] for a listing of material changes to this Privacy Policy and their effective dates.
+[[Click here](https://web.archive.org/web/20110526153016id_/http%3A//www.ve.com/privacy_change.html)] for a listing of material changes to this Privacy Policy and their effective dates.
 
 1.    Modification of Privacy Policy.  We reserve the right to modify this Privacy Policy at any time, and without prior notice, by posting an amended Privacy Policy that is always accessible by clicking on the "Legal" link on this site's home page. Your continued use of this site indicates your acceptance of the amended Privacy Policy.  You should check the Privacy Policy through this link periodically for modifications by clicking on the link provided near the top of the Privacy Policy for a listing of material changes and their effective dates.
 
