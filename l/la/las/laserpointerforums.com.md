@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the laserpointerforums.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124225304id_/http%3A//laserpointerforums.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the laserpointerforums.com privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526230701id_/http%3A//laserpointerforums.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - www.laserpointerforums.com
 
