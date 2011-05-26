@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the affiliateblogprofit.com privacy policy that was archived on 2010-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101208100111id_/http%3A//affiliateblogprofit.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affiliateblogprofit.com privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526052430id_/http%3A//affiliateblogprofit.com/privacy.html) for the most accurate reproduction.*
 
 # Simple Website, Easy Free Traffic, Fast PAssive Profits | AffiliateBlogProfit.com
 
