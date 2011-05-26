@@ -1,24 +1,34 @@
-<!--The following is the downloaded HTML source of the listia.com privacy policy that was archived on 2010-05-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100526172653id_/http%3A//www.listia.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the listia.com privacy policy that was archived on 2011-05-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110526085344id_/http%3A//www.listia.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xml:lang="en" lang="en"><head>
   <meta http-equiv="content-type" content="text/html;charset=UTF-8">
-  <title>Auctions for Free Stuff - Listia.com</title>
-  <meta name="keywords" content="listia, free stuff, auction, marketplace, giveaway, buy, sell, list">
+  <title>Give &amp; Get Free Stuff - Listia.com Auctions</title>
+  <meta name="keywords" content="listia, free stuff, auction, marketplace, giveaway, buy, sell, listm recycle, swap, trade">
   <meta name="description" content="Listia is an auction site for Free Stuff where you bid on other people's items using credits instead of real money. We make it easy for users to get rid of stuff they don't need anymore and find stuff they want for free. Listia is a marketplace where people enjoy giving and getting items for free.">
-  <link rel="shortcut icon" href="/favicon.ico">
+    <link rel="shortcut icon" href="/favicon.ico">
+  
+  <link href="/stylesheets/main.css?1306365770" media="screen" rel="stylesheet" type="text/css">
+  <link href="/stylesheets/grid.css?1306365773" media="screen" rel="stylesheet" type="text/css">
+  <link href="/stylesheets/jquery-ui.css?1306365771" media="screen" rel="stylesheet" type="text/css">
 
-  <link href="/stylesheets/main.css?1274859990" media="screen" rel="stylesheet" type="text/css">
-  <script type="text/javascript" src="http://maps.google.com/maps/api/js?key=ABQIAAAAp9D3mhXHUoouu2vqWZeEMRRfKKWjKjg6TPSaGyFaotiYvpo4bhSsTYQY82Fw-JARPLbYwyaXEBFMAg&amp;sensor=false"></script>
+  
+    <script type="text/javascript" src="http://maps.google.com/maps/api/js?key=ABQIAAAAp9D3mhXHUoouu2vqWZeEMRRfKKWjKjg6TPSaGyFaotiYvpo4bhSsTYQY82Fw-JARPLbYwyaXEBFMAg&amp;sensor=false"></script>
   
 
   <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/prototype/1.6.0.3/prototype.js"></script>
   <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/scriptaculous/1.8.2/effects.js"></script>
-  
-  <script src="/javascripts/application.js?1274859990" type="text/javascript"></script>
+
+  <script src="/javascripts/application.js?1306365754" type="text/javascript"></script>
+
+  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.7/jquery-ui.min.js"></script>
+  <script type="text/javascript">
+    jQuery.noConflict();
+  </script>
 
   
-  
+
   <script type="text/javascript">
     // dropdown support in IE
     Event.observe(window, 'load', function() {
@@ -28,30 +38,41 @@
           var li = lis[i];
           if (li.className == 'headlink')
           {
-              li.onmouseover = function() { 
-                this.getElementsByTagName('ul').item(0).style.display = 'block'; 
-                this.getElementsByTagName('ul').item(1).style.display = 'block'; 
+              li.onmouseover = function() {
+                this.getElementsByTagName('ul').item(0).style.display = 'block';
+                this.getElementsByTagName('ul').item(1).style.display = 'block';
               }
-              li.onmouseout = function() { 
+              li.onmouseout = function() {
                 this.getElementsByTagName('ul').item(0).style.display = 'none';
-                this.getElementsByTagName('ul').item(1).style.display = 'none'; 
+                this.getElementsByTagName('ul').item(1).style.display = 'none';
               }
           }
       }
     });
     
-    new Ajax.Request('/sessions/timezone', {asynchronous:true, evalScripts:true, parameters:'offset_minutes='+(-1 * (new Date()).getTimezoneOffset()) + '&authenticity_token=' + encodeURIComponent('iHIRPlethk0CHFUj1Oxouo4XAsgfEXhbCsGUDY8Kgf8=')})
+    new Ajax.Request('/sessions/timezone', {asynchronous:true, evalScripts:true, parameters:'offset_minutes='+(-1 * (new Date()).getTimezoneOffset()) + '&authenticity_token=' + encodeURIComponent('unIyZToTx0aGGciV7a/ZJuxnGWg4y8f8NJ716EGyaR4=')})
     
-  </script>  
+  </script>
+
+  <script src="/javascripts/jquery.placeholder.js?1306365757" type="text/javascript"></script>
+  <script type="text/javascript">
+  Event.observe(window, 'load', function() {
+    jQuery('input[placeholder]').placeholder();
+  });
+  </script>
 
   
 
   
   <script type="text/javascript">
     Event.observe(window, 'load', function() {
-      $('region').value = 'us';
+      if ($('region') != null) {
+        $('region').value = 'us';
+      }
     });
   </script>
+  
+
   
 
 <style type="text/css">
@@ -79,168 +100,242 @@ div#flash_popup {
 
 
 
-</head>
-<body>
-<script src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php" type="text/javascript"></script>
-<script type="text/javascript">
-//<![CDATA[
-             Element.observe(window,'load', function() {
-                FB_RequireFeatures(["XFBML"], function() {
-                  FB.Facebook.init('2922aaa22e75dd4e67590e99a3b83e43','/xd_receiver.html', {});
-                  
-                });
-              });
 
-//]]>
+
+
+</head>
+<body id="body">
+
+
+<div style="background-color:#fff"><div class="fb_redirecting_outer" id="fb_redirecting_outer"><center><div class="fb_redirecting">Logging in with Facebook ...</div></center></div></div>
+
+      <div id="fb-root"></div>
+      <script src="http://connect.facebook.net/en_US/all.js"></script>
+      <script>
+      FB.init({appId: '105469222550', status: true, cookie: true, xfbml: true, channelUrl : 'http://www.listia.com/channel.html' });
+      function fbEnsureInit(callback) {
+        if (callback) { callback(); }
+      }
+      fbEnsureInit(function () {
+        FB.getLoginStatus(function(response) {
+          if (response.session) {
+            new Ajax.Request('/fb/check_cookie', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('unIyZToTx0aGGciV7a/ZJuxnGWg4y8f8NJ716EGyaR4=')})
+          }
+        });
+      });
 </script>
 
 
 
-<div id="top_container">
-  <div id="centered">
 
+
+
+
+
+
+<div id="top_container" style="position:relative">
   
+  <img alt="Yellow" src="/images/layout/yellow.png?1306365703" style="position: absolute; top:33px; display:none">
+  <div id="header" style="background: url(/images/layout/yellow.png) repeat-x 0px 28px; padding-bottom:0px">
 
-    <div id="header">
-      <div id="header_left"><a href="/"><img src="/images/logos/listia.jpg"></a></div>
-      <div id="header_middle">"auctions for free stuff"</div>
-      <div id="header_right">
-        <div id="rewards_auction">
+    <div class="centered">
+      <div id="view_version_a_header">
         
-        
-        
-        
-          <div id="rewards_auction_image"><div style="background: url(http://c0139491.cdn.cloudfiles.rackspacecloud.com/photos/388017/small_thumb.jpg?1272010160) no-repeat center; height: 35px; width: 35px;"><a href="/auction/405637"><img alt="Pair of Shoes under $60" src="/images/layout/frame_35.png?1274859990" width="35"></a></div></div>
-          <div id="rewards_auction_info"><b>Sponsored Auction:</b> <a href="/auction/405637">Pair of Shoes under $60</a></div>
-        
-        
-        </div>
-      </div>
-    </div>
 
-  <div id="main">
+<script type="text/javascript">
+function sort_changed(value) {
+  var region = '';
+  var pp = '';
+  switch (value) {
+    case 'freeship': doSearch('freeship', 'desc', region, '', pp); break;
+    case 'popular': doSearch('bids', 'desc', region, '', pp); break;
+    case 'ending': doSearch('end_time', 'asc', region, '', pp); break;
+    case 'newest': doSearch('start_time', 'desc', region, '', pp); break;
+    case 'lowprice': doSearch('price', 'asc', region, '', pp); break;
+    case 'highprice': doSearch('price', 'desc', region, '', pp); break;
+    case 'distance': doSearch('distance', 'asc', region, '', pp); break;
+    default: doSearch('default', 'asc', region, '', pp); break;
+  }
+}
+</script>
 
+<form action="/search" id="searchform" method="get">
+
+<div style="position: relative">
   
-  <div id="search_bar">
-  <div id="search_bar_top">
+  <div style="position:absolute; top: 4px; left: 2px">
+    <a href="/"><img alt="Listia_cloud" src="/images/logos/listia_cloud.png?1306365703"></a>
+  </div>
+  
+  <div style="height: 64px; margin-left:113px">
     
-<div id="search_bar_top_menus" style="width: 100%;">
+    <div class="static_links">
+      
+      
+        <div class="static_link_div" style="padding: 3px 0px 0px 0px"><fb:login-button show-faces="false" size="small" onlogin="window.location = '/fb/callback';" perms="email,publish_stream">Login with Facebook</fb:login-button></div>
+        <div class="static_link_div"><a href="/login">Login</a></div>
+      
+      <div class="static_link_div">
+        
+        
+          <a href="/credits" class="credit_green">How Do I Get Credits?</a>
+        
+      </div>
+    <div class="clear"></div></div>
+    
+    <div>
+      <div class="mm_box" id="search_box" style="width:454px; border-left:0px; margin-left:21px; padding-left:15px">
+        <div class="left"><input class="search_box" id="q" name="q" placeholder="I'm looking for..." size="15" type="text"></div>
+        <div class="left menu_link" style="margin-left:14px; padding-left: 2px; padding-right: 2px"><a href="#" onclick="return doSearch('', '', '', '', '');">Search</a></div>
+      <div class="clear"></div></div>
 
+      <div class="mm_box" style="width:108px; text-align:center; position: relative;" id="browse_wrapper" onmouseover="show_dropdown('browse');" onmouseout="hide_dropdown('browse');">
+        <div class="menu_link"><a href="/explore">Browse</a></div>
+        
+        
+<div>
+<div id="browse_dropdown" class="browse_dropdown" style="display:none">
 
+  
+  
+    
+    
+    <div style="position: absolute; top: 34px; right: -1px; width: 387px">
+      <div class="left" style="width:264px; height: 0px; border-left: 1px solid #eadc11; border-top: 1px solid #eadc11"></div>
+      <div class="left" style="width:121px; height: 1px; background-color: #fff; border-right: 1px solid #eadc11"></div>
+    <div class="clear"></div></div>
+  
 
-  <div class="search_bar_menu_last"><a href="http://www.listia.com/login">Login</a></div>
-  <div class="search_bar_menu"><a href="http://www.listia.com/signup">Sign Up</a></div>
-  <div class="search_bar_menu"><fb:login-button v="2" size="small" onlogin="window.location = '/link_user_accounts';">Connect with Facebook</fb:login-button></div>
+  <div style="position: absolute; top: 35px; right: -1px; width:385px; background-color:#fff; border-right: 1px solid #eadc11; border-bottom: 1px solid #eadc11; border-left: 1px solid #eadc11; padding:0px; z-index:100">
+  
+          <div class="browse_content" style="width:385px; padding:10px 0px">
+            <ul>
+            <div class="left" style="width: 209px">
+              
+                <li><a href="/browse/antiques">Antiques</a></li>
+              
+                <li><a href="/browse/arts-crafts">Arts &amp; Crafts</a></li>
+              
+                <li><a href="/browse/baby">Baby</a></li>
+              
+                <li><a href="/browse/books">Books</a></li>
+              
+                <li><a href="/browse/cameras-photo">Cameras &amp; Photo</a></li>
+              
+                <li><a href="/browse/cars-vehicles-parts">Cars, Vehicles &amp; Parts</a></li>
+              
+                <li><a href="/browse/cell-phones">Cell Phones</a></li>
+              
+                <li><a href="/browse/clothing-shoes-accessories">Clothing, Shoes &amp; Accessories</a></li>
+              
+                <li><a href="/browse/collectibles">Collectibles</a></li>
+              
+                <li><a href="/browse/computers-networking">Computers &amp; Networking</a></li>
+              
+                <li><a href="/browse/dvds-movies">DVDs &amp; Movies</a></li>
+              
+                <li><a href="/browse/electronics">Electronics</a></li>
+              
+                <li><a href="/browse/health-beauty">Health &amp; Beauty</a></li>
+              
+            </div>
+            <div class="left" style="border-left: 1px solid #c9c9c9; width: 175px">
+              
+                <li><a href="/browse/holiday-seasonal">Holiday &amp; Seasonal</a></li>
+              
+                <li><a href="/browse/home-garden">Home &amp; Garden</a></li>
+              
+                <li><a href="/browse/jewelry-watches">Jewelry &amp; Watches</a></li>
+              
+                <li><a href="/browse/music-instruments">Music &amp; Instruments</a></li>
+              
+                <li><a href="/browse/pet-supplies">Pet Supplies</a></li>
+              
+                <li><a href="/browse/sporting-goods">Sporting Goods</a></li>
+              
+                <li><a href="/browse/toys-hobbies">Toys &amp; Hobbies</a></li>
+              
+                <li><a href="/browse/video-games">Video Games</a></li>
+              
+                <li><a href="/browse/other-stuff">Other Stuff</a></li>
+              
+              <li><a href="http://www.listia.com/popular"><b>Popular Auctions</b></a></li>
+              <li><a href="http://www.listia.com/rewards"><b>Rewards Auctions</b></a></li>
+              <li><a href="http://www.listia.com/featured"><b>Featured Auctions</b></a></li>
+              <li><a href="http://www.listia.com/sponsored_raffles"><b>Sponsored Raffles</b></a></li>
+            </div>
+            </ul>
+          <div class="clear"></div></div>
+        
+  <div class="clear"></div></div>
+</div>
+</div>
+      </div>
 
-
-<div class="search_bar_menu"><a href="http://www.listia.com/list">List Item</a></div>
-
-
-  <div class="search_bar_menu"><b><a href="http://www.listia.com/credits">How Do I Get Credits?</a></b></div>
-
-
+      <div class="mm_box" style="width:108px; text-align:center">
+        <div class="menu_link"><a href="/list">List Auction</a></div>
+      </div>
+      
+      <div class="mm_box" style="width:107px; text-align:center">  
+        <div class="menu_link"><a href="/signup" style="color: #EC008C">Signup</a></div>
+      </div>
+      
+    <div class="clear"></div></div>
+  </div>
 </div>
 
 
 
+<input id="location" name="location" type="hidden">
+
+<input id="lat" name="lat" type="hidden">
+<input id="lon" name="lon" type="hidden">
+<input id="order_by" name="order_by" type="hidden">
+<input id="order" name="order" type="hidden">
+<input id="region" name="region" type="hidden">
+<input id="pp" name="pp" type="hidden">
 
 
+</form>
 
-  </div>
-    
-  <div id="search_bar_bottom">
-    <div id="search_bar_bottom_left">
-      
-  
-      <form action="/search" id="searchform" method="get">
-      <div class="width_100p">
-        <div class="search_bar_form"><label for="q">Search For</label> <input id="q" name="q" placeholder="everything" size="15" type="text"></div>
-        <div class="search_bar_form"><label for="location">Near</label> <input id="location" name="location" placeholder="everywhere" size="15" type="text"></div>
-        <div class="search_right"> <input class="submit_image" onclick="return doSearch('');" src="/images/buttons/search_small.gif?1274859990" type="image"></div>
+<script type="text/javascript">
+Event.observe('q', 'keypress', function(event) {
+  if (event.keyCode == Event.KEY_RETURN) {
+    doSearch();
+    Event.stop(event);
+  }
+});
+Event.observe('location', 'keypress', function(event) {
+  if (event.keyCode == Event.KEY_RETURN) {
+    doSearch();
+    Event.stop(event);
+  }
+});
+
+</script>
+
       </div>
-      <input id="lat" name="lat" type="hidden">
-      <input id="lon" name="lon" type="hidden">
-      <input id="region" name="region" type="hidden">
-      </form>
-      
-    </div>
-    <div id="search_bar_bottom_right">
-      <ul id="cssdropdown">
-        <li class="headlink">
-          <a href="/categories"><img src="/images/layout/clear.gif" width="100" height="28" alt="Browse"></a>
-          <ul class="dropdown_left">
-          
-            <li><a href="/search/1">Antiques</a></li>
-          
-            <li><a href="/search/2">Arts &amp; Crafts</a></li>
-          
-            <li><a href="/search/3">Baby</a></li>
-          
-            <li><a href="/search/4">Books</a></li>
-          
-            <li><a href="/search/5">Cameras &amp; Photo</a></li>
-          
-            <li><a href="/search/6">Cars, Vehicles &amp; Parts</a></li>
-          
-            <li><a href="/search/7">Cell Phones</a></li>
-          
-            <li><a href="/search/8">Clothing, Shoes &amp; Accessories</a></li>
-          
-            <li><a href="/search/9">Collectibles</a></li>
-          
-            <li><a href="/search/10">Computers &amp; Networking</a></li>
-          
-            <li><a href="/search/11">DVDs &amp; Movies</a></li>
-          
-            <li><a href="/search/12">Electronics</a></li>
-          
-          </ul>
-          <ul class="dropdown_right">
-          
-            <li><a href="/search/13">Health &amp; Beauty</a></li>
-          
-            <li><a href="/search/14">Home &amp; Garden</a></li>
-          
-            <li><a href="/search/15">Jewelry &amp; Watches</a></li>
-          
-            <li><a href="/search/16">Music &amp; Instruments</a></li>
-          
-            <li><a href="/search/17">Pet Supplies</a></li>
-          
-            <li><a href="/search/18">Sporting Goods</a></li>
-          
-            <li><a href="/search/19">Toys &amp; Hobbies</a></li>
-          
-            <li><a href="/search/20">Video Games</a></li>
-          
-            <li><a href="/search/21">Other Stuff</a></li>
-          
-          <li><a href="http://www.listia.com/popular"><b>Popular Auctions</b></a></li>
-          <li><a href="http://www.listia.com/rewards"><b>Rewards Auctions</b></a></li>
-          <li><a href="http://www.listia.com/featured"><b>Featured Auctions</b></a></li>
-          
-          </ul>
-        </li>
-      </ul>
     </div>
   </div>
+
+  
+  <div class="centered"><div id="flash">
+  
+  
+  
+  <div id="flash_action_container" class="width_100p" style="display: none;">
+    <div id="flash_action_box"><div id="flash_action"></div></div>
+  </div>
+  
+  
 </div>
+</div>
+  
 
-
-
-
-  <div id="flash">
-    
-    
-    <div id="flash_action_container" class="width_100p" style="display: none;">
-      <div id="flash_action_box"><div id="flash_action"></div></div>
-    </div>
-        
-  </div>
-
-
-
-<div class="left" style="margin: 15px 0 0 0;">
+  
+  <div class="centered">
+    <div id="main">
+      <div class="left" style="margin: 15px 0 0 0;">
 <p>
 <b>Privacy Policy</b>
 <br><br>
@@ -268,14 +363,15 @@ Consumers can have this information corrected by sending us e-mail at the above 
 </div>
 
 
-
+    </div>
   </div>
-
-  </div>
+  
 </div>
 
 
 <div id="sub_footer_container"></div>
+
+
 
 
 <div id="footer_container">
@@ -299,12 +395,12 @@ Consumers can have this information corrected by sending us e-mail at the above 
 &nbsp;&nbsp;
 <a href="http://www.listia.com/user_search">Find a User</a>
 &nbsp;&nbsp;
-<a href="http://twitter.com/listiainc">Follow on Twitter</a>
+<a href="http://twitter.com/listia">Twitter</a>
 &nbsp;&nbsp;
 <a href="http://www.facebook.com/pages/Listia/111259674244">Become A Facebook Fan</a>
 </b></span>
 <br><br><br>
-© 2010 Listia Inc.
+© 2011 Listia Inc.
 &nbsp;&nbsp;
 
 <a href="http://www.listia.com/contact">Contact</a>
@@ -314,8 +410,8 @@ Consumers can have this information corrected by sending us e-mail at the above 
 &nbsp;&nbsp;
 <a href="http://www.listia.com/press">Press</a>
 &nbsp;&nbsp;
-<a href="http://www.listia.com/contest">Video Contest</a>
-&nbsp;&nbsp;
+<!--<a href="http://www.listia.com/contest">Video Contest</a>
+&nbsp;&nbsp;-->
 <a href="http://listia.uservoice.com" target="_blank">Feedback</a>
 &nbsp;&nbsp;
 <a href="http://www.listia.com/charities">Charities</a>
@@ -325,15 +421,21 @@ Consumers can have this information corrected by sending us e-mail at the above 
 
 <a href="http://www.listia.com/auctions_by_category">Auctions by Category</a>
 &nbsp;&nbsp;
+<a href="http://www.listia.com/sponsor">Become a Sponsor</a>
+&nbsp;&nbsp;
+<a href="http://www.listia.com/raffle_rules">Raffle Rules</a>
+&nbsp;&nbsp;
 <a href="http://www.listia.com/terms">Terms</a>
 &nbsp;&nbsp;
 <a href="http://www.listia.com/privacy">Privacy</a>
-</div>
   </div>
+</div>
 
 </div>
 
 <div id="flash_popup" style="display:none;"><div id="flash_popup_t"></div><div id="flash_popup_content"></div><div id="flash_popup_b"></div></div>
+
+
 
 
 
@@ -346,11 +448,14 @@ try {
 var pageTracker = _gat._getTracker("UA-9894721-1");
 
 
+
   pageTracker._setCustomVar(1, "UserType", "Visitor", 2);
 
 
 
   pageTracker._setCustomVar(2, "ReferrerId", "No", 2);
+
+
 
 
 pageTracker._trackPageview();
@@ -359,9 +464,10 @@ pageTracker._trackPageview();
 
   <script type="text/javascript" src="http://api.mixpanel.com/site_media/js/api/mixpanel.js"></script>
   <script type="text/javascript">
-  try { var mpmetrics = MixpanelLib("99944dd1bbc3aa66d476d3bd0aec02e4"); } catch(err) {}  
+  try { var mpmetrics = MixpanelLib("99944dd1bbc3aa66d476d3bd0aec02e4"); } catch(err) {}
   </script>
 
+  <script type="text/javascript" src="http://tracking.dsmmadvantage.com/Clients/Listia/webmetro_dsmmtracker.js"></script>
 
 
 
@@ -371,7 +477,11 @@ pageTracker._trackPageview();
 
 
 
+
+
+
 </script>
+
 
 
 
