@@ -1,8 +1,18 @@
-> *The following text is extracted and transformed from the trustlink.org privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220195250id_/http%3A//trustlink.org/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trustlink.org privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526191435id_/http%3A//trustlink.org/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
+[ ](https://web.archive.org/Home.aspx)
+
+Interested in a company?   
+Search for a company to find out what other TrustLinkers have to say about their experiences. Did they have good or bad experiences? How many other people feel the same way? These questions, along with many others, could be answered when you view the information we have on a company. If you feel compelled to post your own two cents, please do so by posting a review.
+
+  
+
+
+  
 TrustLink Privacy Policy  
+---  
 TrustLink is committed to maintaining your confidence and trust, and accordingly maintains the following privacy policy to protect personal information you provide online.  
    
 TrustLink's Commitment to Online Security  
