@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oce.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219014958id_/http%3A//global.oce.com/Company/legal/Privacy-statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oce.com privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526175348id_/http%3A//global.oce.com/Company/legal/Privacy-statement.aspx) for the most accurate reproduction.*
 
 # Océ privacy statement
 
