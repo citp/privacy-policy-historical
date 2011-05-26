@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cloud.com privacy policy that was archived on 2010-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101107093634id_/http%3A//cloud.com/main/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloud.com privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526200301id_/http%3A//cloud.com/company/privacy-policy) for the most accurate reproduction.*
 
-# Cloud.com Privacy Policy | Cloud.com | The Power Behind Your Cloud
+# Cloud.com Privacy Policy | Cloud.com
 
 ## Personal Information
 
