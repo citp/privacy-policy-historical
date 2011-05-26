@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the intercallonline.com privacy policy that was archived on 2010-08-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100813141642id_/http%3A//www.intercall.com/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the intercallonline.com privacy policy that was archived on 2011-05-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110526104825id_/http%3A//www.intercall.com/privacy.htm) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><!-- PageID 184 - published by Open Text Web Solutions 10 - 10.0.0.86 - 29131 -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><!-- PageID 184 - published by Open Text Web Solutions 10 - 10.0.1.90 - 30893 -->
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta http-equiv="Content-Language" content="en-us"> 
 <meta name="copyright" content="© 2006 InterCall">
@@ -14,6 +14,39 @@
 <script src="/includes/Utilities.js" language="javascript" type="text/javascript"></script>
 
 
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+<script type="text/javascript" src="http://www.intercall.com/common/js/ui.core.1.5.3.js"></script>
+<script type="text/javascript" src="http://www.intercall.com/common/js/ui.datepicker.js"></script>
+<script type="text/javascript" src="http://www.intercall.com/common/js/ui.tabs.1.6.js"></script>
+<script type="text/javascript" src="http://www.intercall.com/common/js/jquery.cycle.all.min.js"></script>
+<script type="text/javascript" src="http://www.intercall.com/common/js/jquery.pngFix.js"></script>
+<script type="text/javascript" src="http://www.intercall.com/common/js/jquery.validate.js"></script>
+<script type="text/javascript" src="http://www.intercall.com/common/js/effects.core.js"></script>
+<script type="text/javascript" src="http://www.intercall.com/common/js/effects.blind.js"></script>
+<script type="text/javascript">
+$(document).ready(function(){
+    adjustLayout();
+
+ // G.A. tracking extensions
+ $("a[href$=.pdf]").click(function(){
+  pageTracker._trackPageview($(this).attr("href"));
+ });
+ $("a[href$=.exe]").click(function(){
+  pageTracker._trackPageview($(this).attr("href"));
+ });
+ $("a[href$=.msi]").click(function(){
+  pageTracker._trackPageview($(this).attr("href"));
+ });
+ $(".eventtrack").click(function(){
+  var info = $(this).attr("title").split("|");
+  pageTracker._trackEvent(info[0], info[1], info[2]);
+ });
+  });
+</script><script type="text/javascript">
+$(document).ready(function(){
+ $(document).pngFix(); 
+});
+</script>
 </head>
 
 
@@ -40,11 +73,19 @@
 
 
 
-<li><a href="http://www.intercallapac.com/">English</a></li>
+<li><a href="http://www.intercallapac.com/">Australia (English)</a></li>
 
 
 
-<li><a href="http://www.intercall.co.jp/">Japanese</a></li>
+<li><a href="http://www.intercall.co.jp/">Japan (Japanese)</a></li>
+
+
+
+<li><a href="http://kr.intercallapac.com/">Korea (Korean)</a></li>
+
+
+
+<li><a href="http://www.intercallapac.com/">Singapore (English)</a></li>
 </ul>
 </div>
 
@@ -59,23 +100,47 @@
 
 
 
-<li><a href="http://www.intercalleurope.com/">English</a></li>
+<li><a href="http://www.intercalleurope.com/">United Kingdom (English)</a></li>
 
 
 
-<li><a href="http://fr.intercalleurope.com/">French</a></li>
+<li><a href="http://be.intercalleurope.com/">Belgium (English)</a></li>
 
 
 
-<li><a href="http://de.intercalleurope.com/">German</a></li>
+<li><a href="http://cz.intercalleurope.com/">Czech Republic (Czech)</a></li>
 
 
 
-<li><a href="http://se.intercalleurope.com/">Swedish</a></li>
+<li><a href="http://dk.intercalleurope.com/">Denmark (Danish)</a></li>
 
 
 
-<li><a href="http://www.intercalleurope.com/nl/">Dutch</a></li>
+<li><a href="http://fi.intercalleurope.com/">Finland (Finnish)</a></li>
+
+
+
+<li><a href="http://fr.intercalleurope.com/">France (French)</a></li>
+
+
+
+<li><a href="http://de.intercalleurope.com/">Germany (German)</a></li>
+
+
+
+<li><a href="http://it.intercalleurope.com/">Italy (Italian)</a></li>
+
+
+
+<li><a href="http://nl.intercalleurope.com/">Netherlands (English)</a></li>
+
+
+
+<li><a href="http://es.intercalleurope.com/">Spain (Spanish)</a></li>
+
+
+
+<li><a href="http://se.intercalleurope.com/">Sweden (Swedish)</a></li>
 </ul>
 </div>
 
@@ -109,15 +174,15 @@
 
 
 
-<li><a href="http://www.intercall.com">English (U.S.)</a></li>
+<li><a href="http://www.intercall.com">United States (English)</a></li>
 
 
 
-<li><a href="http://www.intercall.ca">English (Canada)</a></li>
+<li><a href="http://www.intercall.ca">Canada (English)</a></li>
 
 
 
-<li><a href="http://fr.intercall.ca">French (Canada)</a></li>
+<li><a href="http://fr.intercall.ca/">Canada (French)</a></li>
 </ul>
 </div>
 </div>
@@ -170,7 +235,7 @@
     </ul>
 
     <ul class="dropDownMenu secondNav" id="dropmenu33">
-        <li><a id="33_1" onmouseover="showThirdNav('dropmenu33_1', 'solutions', 'dropmenu33', '33_1') ;" onmouseout="hideThirdNav('dropmenu33_1', '33_1');" class="flyout" href="/solutions/industries/index.php"><span>By Industry</span></a></li><li><a id="33_2" onmouseover="showThirdNav('dropmenu33_2', 'solutions', 'dropmenu33', '33_2') ;" onmouseout="hideThirdNav('dropmenu33_2', '33_2');" class="flyout" href="/solutions/job-functions/index.php"><span>By Job Function</span></a></li><li><a id="33_3" onmouseover="showThirdNav('dropmenu33_3', 'solutions', 'dropmenu33', '33_3') ;" onmouseout="hideThirdNav('dropmenu33_3', '33_3');" class="flyout" href="/solutions/uses/index.php"><span>By Use</span></a></li><li><a href="/solutions/global-conferencing/index.php"><span>International Solutions</span></a></li><li><a href="/solutions/mobile-conferencing/index.php"><span>Mobile Solutions</span></a></li><li><a href="/solutions/travel-reduction.php"><span>Travel Reduction</span></a></li>
+        <li><a id="33_1" onmouseover="showThirdNav('dropmenu33_1', 'solutions', 'dropmenu33', '33_1') ;" onmouseout="hideThirdNav('dropmenu33_1', '33_1');" class="flyout" href="/solutions/industries/index.php"><span>By Industry</span></a></li><li><a id="33_2" onmouseover="showThirdNav('dropmenu33_2', 'solutions', 'dropmenu33', '33_2') ;" onmouseout="hideThirdNav('dropmenu33_2', '33_2');" class="flyout" href="/solutions/job-functions/index.php"><span>By Job Function</span></a></li><li><a id="33_3" onmouseover="showThirdNav('dropmenu33_3', 'solutions', 'dropmenu33', '33_3') ;" onmouseout="hideThirdNav('dropmenu33_3', '33_3');" class="flyout" href="/solutions/uses/index.php"><span>By Use</span></a></li><li><a href="/solutions/global-conferencing/index.php"><span>International Solutions</span></a></li><li><a href="/solutions/mobile-conferencing/index.php"><span>Mobile Solutions</span></a></li><li><a href="/solutions/travel-reduction.php"><span>Travel Reduction</span></a></li><li><a href="/solutions/voip.php"><span>VoIP Solutions</span></a></li>
     </ul>
 
     <ul class="dropDownMenu thirdNav" id="dropmenu33_1" onmouseover="showThirdNav('dropmenu33_1', 'solutions', 'dropmenu33', '33_1') ;" onmouseout="hideAllNav('dropmenu33_1', '33_1', 'solutions');">
@@ -189,7 +254,12 @@
     </ul>
 
     <ul class="dropDownMenu secondNav" id="dropmenu29">
-        <li><a href="/customer-center/account-management-tools.php"><span>Account Management</span></a></li><li><a href="/customer-center/resources.php"><span>Resources</span></a></li><li><a href="/customer-center/training.php"><span>Training</span></a></li><li><a href="/customer-center/techSupport.php"><span>Technical Support</span></a></li><li><a href="/customer-center/newsletter.php"><span>Newsletter &amp; Blog</span></a></li><li><a href="/customer-center/webinars.php"><span>Webinar Series</span></a></li>
+        <li><a href="/customer-center/account-management-tools.php"><span>Manage My Account</span></a></li><li><a id="29_2" onmouseover="showThirdNav('dropmenu29_2', 'support', 'dropmenu29', '29_2') ;" onmouseout="hideThirdNav('dropmenu29_2', '29_2');" class="flyout" href="/customer-center/learning-center.php"><span>Learning Center</span></a></li><li><a href="/customer-center/techSupport.php"><span>Contact Support</span></a></li>
+    </ul>
+
+    <ul class="dropDownMenu thirdNav" id="dropmenu29_2" onmouseover="showThirdNav('dropmenu29_2', 'support', 'dropmenu29', '29_2') ;" onmouseout="hideAllNav('dropmenu29_2', '29_2', 'support');">
+<li><a href="/customer-center/training.php"><span>Training</span></a></li><li><a href="/customer-center/webinars.php"><span>Webinar Series</span></a></li>
+
     </ul>
 
     <ul class="dropDownMenu secondNav" id="dropmenu28">
@@ -247,7 +317,7 @@ margin-top:2px !important;
   
 <!--BEGIN HEADER TOP NAV * * * * * * * * * * * * * * * * * * * -->
     <div id="topNav">
-        <a id="aboutus" href="/about-us/index.php" class="dropDownOff noborder" rel="dropmenu28"><span>about us</span></a><a id="customercenter" href="/customer-center/index.php" class="dropDownOff" rel="dropmenu29"><span>customer center</span></a><a id="solutions" href="/solutions/index.php" class="dropDownOff" rel="dropmenu33"><span>solutions</span></a><a id="products&amp;services" href="/services/index.php" class="dropDownActive" rel="dropmenu32"><span>products &amp; services</span></a>
+        <a id="aboutus" href="/about-us/index.php" class="dropDownOff noborder" rel="dropmenu28"><span>about us</span></a><a id="support" href="/customer-center/index.php" class="dropDownOff" rel="dropmenu29"><span>support</span></a><a id="solutions" href="/solutions/index.php" class="dropDownOff" rel="dropmenu33"><span>solutions</span></a><a id="products&amp;services" href="/services/index.php" class="dropDownActive" rel="dropmenu32"><span>products &amp; services</span></a>
     </div>
   <script type="text/javascript">
 //tabdropdown.initializetabmenu("tab_menu_id", optional_selected_tab_number)
@@ -267,7 +337,9 @@ tabdropdown.initializetabmenu("topNav")
 
 
 
-<img src="/images/photo_noLeftNav.jpg" alt="Text" border="0" title="">
+
+<img src="/images/photo-asianLadyGlasses.jpg" alt="Text" border="0" title="">
+
 <img src="/images/background/spacer.gif" alt="" border="0">
     </div>
   </div>
@@ -359,11 +431,11 @@ tabdropdown.initializetabmenu("topNav")
 <li>Worldwide Asset Purchasing, LLC</li></ul>
 <hr>
 <br><br>
-<p><strong>PERMITTED USES AND DISCLOSURES</strong><br><br>The affiliates of West Corporation (“West”) listed above are Business Associates of Covered Entities with which you may do business. These Covered Entities would include, for example, your insurance company, your dentist, your pharmacy, etc. In the capacity of Business Associate, the Covered Entity you use may provide access to a portion of your protected health information to West. We intend to use or disclose your protected health information for the purposes of fulfilling our obligations to the Covered Entity. These uses or disclosures may include, but are not limited to, the following categories and examples:<br><br><strong>Treatment</strong> — We may use protected health information provided to us by your Covered Entity to inform you of approaching events related to your healthcare. For example, we may notify you a prescription is coming up for refill; or, we may call you because it has been a while since you have ordered supplies for a medical condition and it is time to reorder.<br><br><strong>Payment</strong> — We may use protected health information provided to us by your Covered Entity to inform you of issues related to payment for your healthcare. For example, we may notify you of a past due payment on a medical bill.<br><br><strong>Healthcare operations</strong> — We may use protected health information provided to us by your Covered Entity to assist your Covered Entity in serving you better. For example, we may provide conference capabilities for your physician to consult with other medical staff; we may provide customer service on behalf of your insurance carrier to assist you with your insurance benefits; or, we may provide recall notifications for a recalled medical device you may use.<br><br>
+<p><strong>PERMITTED USES AND DISCLOSURES</strong><br><br>The affiliates of West Corporation (“West”) listed above are Business Associates of Covered Entities with which you may do business. These Covered Entities would include, for example, your insurance company, your dentist, your pharmacy, etc. In the capacity of Business Associate, the Covered Entity you use may provide access to a portion of your protected health information to West. We intend to use or disclose your protected health information for the purposes of fulfilling our obligations to the Covered Entity. These uses or disclosures may include, but are not limited to, the following categories and examples:<br><br><strong>Treatment</strong> – We may use protected health information provided to us by your Covered Entity to inform you of approaching events related to your healthcare. For example, we may notify you a prescription is coming up for refill; or, we may call you because it has been a while since you have ordered supplies for a medical condition and it is time to reorder.<br><br><strong>Payment</strong> – We may use protected health information provided to us by your Covered Entity to inform you of issues related to payment for your healthcare. For example, we may notify you of a past due payment on a medical bill.<br><br><strong>Healthcare operations</strong> – We may use protected health information provided to us by your Covered Entity to assist your Covered Entity in serving you better. For example, we may provide conference capabilities for your physician to consult with other medical staff; we may provide customer service on behalf of your insurance carrier to assist you with your insurance benefits; or, we may provide recall notifications for a recalled medical device you may use.<br><br>
 </p><hr>
 <br><br><strong>OTHER USES AND DISCLOSURES OF PROTECTED HEALTH INFORMATION</strong><br><br>We may contact you, on behalf of your Covered Entity, to provide appointment reminders or information about health-related benefits and services that may be of interest to you.<br><br>We may disclose your protected health information at the direction of your Covered Entity and only as permitted by applicable law. This may include disclosure of your protected health information to your family or friends or any other individual identified by you when they are involved in your care or the payment of your care. We will only disclose the protected health information directly relevant to their involvement in your care or payment. We may also use or disclose your protected health information to notify, or assist in the notification of, a family member, a personal representative, or another person responsible for your care of your location, general condition or death. If you are available, we will give you an opportunity to object to these disclosures, and we will not make these disclosures if you object. If you are not available, we will determine whether a disclosure to your family or friends is in your best interest, and we will disclose only the protected health information that is directly relevant to their involvement in your care.<br><br>When permitted by law, we may coordinate our uses and disclosures of protected health information with public or private entities authorized by law or by charter to assist in disaster relief efforts.<br><br>We may contact you on behalf of your Covered Entity as part of their marketing efforts as permitted by applicable law.<br><br>
 <hr>
-<br><br><strong>SPECIAL SITUATIONS</strong><br><br>Except for the special situations set forth below and the general uses and disclosures described above, we will not use or disclose your protected health information for any other purposes unless you provide a written authorization to your Covered Entity.<br><br><strong>Worker’s Compensation</strong> — We may disclose your protected health information to the extent authorized by and to the extent necessary to comply with laws relating to workers’ compensation or other similar programs established by law.<br><br><strong>Public Health</strong> — When required or permitted by law, we may disclose your protected health information to public health or legal authorities responsible for preventing or controlling disease, injury or disability or performing other public health functions. In addition, we may disclose your protected health information in order to avert a serious threat to health or safety.<br><br><strong>Specialized Government Functions</strong> — We may disclose your protected health information for military and veterans’ activities, national security and intelligence activities and similar special governmental functions as required or permitted by law.<br><br><strong>Health Oversight Agencies</strong> — We may disclose your protected health information to an appropriate health oversight agency, public health authority or attorney involved in health oversight activities.<br><br><strong>Law Enforcement</strong> — We may disclose your protected health information for law enforcement purposes as required or permitted by law or in response to a valid subpoena, court order or other binding authority.<br><br><strong>Judicial and Administrative Proceedings</strong> — We may disclose your protected health information for judicial or administrative proceedings as required or permitted by law or in response to a valid subpoena, court order or other binding authority.<br><br><strong>Food and Drug Administration (“FDA”)</strong> — We may disclose to the FDA, or an entity subject to FDA jurisdiction, your protected health information for public health purposes related to the quality, safety or effectiveness of an FDA-regulated product or activity for which that person has responsibility. For example, your information may be disclosed in connection with the reporting of an adverse event, product defect, product tracking or to provide post marketing surveillance information.<br><br><strong>Disclosures Required by Law </strong>— We may use or disclose your protected health information as required by law provided such use or disclosure complies with and is limited to the relevant requirements of such law.<br><br>
+<br><br><strong>SPECIAL SITUATIONS</strong><br><br>Except for the special situations set forth below and the general uses and disclosures described above, we will not use or disclose your protected health information for any other purposes unless you provide a written authorization to your Covered Entity.<br><br><strong>Worker’s Compensation</strong> – We may disclose your protected health information to the extent authorized by and to the extent necessary to comply with laws relating to workers’ compensation or other similar programs established by law.<br><br><strong>Public Health</strong> – When required or permitted by law, we may disclose your protected health information to public health or legal authorities responsible for preventing or controlling disease, injury or disability or performing other public health functions. In addition, we may disclose your protected health information in order to avert a serious threat to health or safety.<br><br><strong>Specialized Government Functions</strong> – We may disclose your protected health information for military and veterans’ activities, national security and intelligence activities and similar special governmental functions as required or permitted by law.<br><br><strong>Health Oversight Agencies</strong> – We may disclose your protected health information to an appropriate health oversight agency, public health authority or attorney involved in health oversight activities.<br><br><strong>Law Enforcement</strong> – We may disclose your protected health information for law enforcement purposes as required or permitted by law or in response to a valid subpoena, court order or other binding authority.<br><br><strong>Judicial and Administrative Proceedings</strong> – We may disclose your protected health information for judicial or administrative proceedings as required or permitted by law or in response to a valid subpoena, court order or other binding authority.<br><br><strong>Food and Drug Administration (“FDA”)</strong> – We may disclose to the FDA, or an entity subject to FDA jurisdiction, your protected health information for public health purposes related to the quality, safety or effectiveness of an FDA-regulated product or activity for which that person has responsibility. For example, your information may be disclosed in connection with the reporting of an adverse event, product defect, product tracking or to provide post marketing surveillance information.<br><br><strong>Disclosures Required by Law </strong>– We may use or disclose your protected health information as required by law provided such use or disclosure complies with and is limited to the relevant requirements of such law.<br><br>
 <hr>
 <br><br><strong>YOUR RIGHTS REGARDING HEALTH INFORMATION ABOUT YOU</strong><br><br>You have a right to expect your protected health information will be kept secure and used only for legitimate purposes. 
 <ul>
@@ -406,20 +478,19 @@ tabdropdown.initializetabmenu("topNav")
 
 <li><a href="/about-us/contact-us.php">contact us</a> </li>
 
-<li><a href="http://blog.intercall.com" target="_blank">blog</a> </li>
+<li><a href="/social-media.php">social media</a> </li>
           
-<li class="copyright">© 2006-2010. InterCall is a subsidiary of West Corporation</li>
+<li class="copyright">© 2006-2011. InterCall is a subsidiary of West Corporation</li>
 
   </ul>
     
   <div class="divider"></div>
 </div>
 <!--END FOOTER* * * * * * * * * * * * * * * * * * * -->
-<script type="text/javascript">adjustLayout();</script>
 
 
 <script type="text/javascript" language="JavaScript" src="/elqNow/elqCfg.js"></script>
-<script type="text/javascript" language="JavaScript" src="/elqNow/elqImg.js"></script><layer hidden="true"><img src="https://secure.eloqua.com/visitor/v200/svrGP.aspx?pps=3&amp;siteid=2969&amp;ref2=elqNone&amp;tzo=0&amp;ms=466" border="0" width="1" height="1"></layer>
+<script type="text/javascript" language="JavaScript" src="/elqNow/elqImg.js"></script><layer hidden="true"><img src="https://secure.eloqua.com/visitor/v200/svrGP.aspx?pps=3&amp;siteid=2969&amp;ref2=elqNone&amp;tzo=0&amp;ms=901" border="0" width="1" height="1"></layer>
 
 <script type="text/javascript">
     var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
@@ -462,5 +533,8 @@ qacct:"p-d0QMDf-rzD2wE"
 <img src="http://pixel.quantserve.com/pixel/p-d0QMDf-rzD2wE.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
 </noscript>
 <!-- End Quantcast tag -->
+
+
+<script type="text/javascript" src="http://dnn506yrbagrg.cloudfront.net/pages/scripts/0011/0337.js"> </script>
 
 </body></html>
