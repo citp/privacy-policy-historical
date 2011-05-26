@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lustyhealth.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125160136id_/http%3A//www.lustyhealth.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lustyhealth.com privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526030901id_/http%3A//www.lustyhealth.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
