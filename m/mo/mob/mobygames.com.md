@@ -1,88 +1,93 @@
-> *The following text is extracted and transformed from the mobygames.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120112735id_/http%3A//www.mobygames.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobygames.com privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526060313id_/http%3A//www.mobygames.com/info/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This privacy statement discloses the privacy practices of MobyGames, http://www.mobygames.com. Please also review the [Terms of Service](https://web.archive.org/info/terms). 
+This Privacy Policy was last revised on April 15, 2011.
 
-## Information Collection and Use
+Recent updates to this Privacy Policy
 
-MobyGames is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. MobyGames collects information from our users at several different points on our website. 
+MobyGames, a websites and online service operated by GameFly, Inc. ("GameFly," "MobyGames," "we," or "us"), knows that you care how information about you is used and shared. This Privacy Policy explains what information of yours will be collected by GameFly when you use MobyGames.com and other websites and services operated by GameFly in connection with the MobyGames (the "Service"), how the information will be used, and how you can control the collection, correction and/or deletion of information. We will not use or share your information with anyone except as described in this Privacy Policy. This Privacy Policy does not apply to information we collect by other means (including offline) or from other sources. 
 
-## Registration
+**Information We Collect**
 
-In order to use MobyGames to its fullest extent, a user must first complete the registration form. During registration a user is required to give their contact information (such as name and email address). This information is used to contact the user about the services on our site for which they have expressed interest. MobyGames will not sell or share this information with anyone. It is optional for the user to provide demographic information (such as income level and gender), and unique identifiers (such as social security number), but encouraged so we can provide a more personalized experience on our site. 
+User-Provided Information: You provide us information about yourself, such as your name and e-mail address, if you register for a Member account with the Service. We may gather information about the files you download from and upload to the Service.
 
-## User Contributions
+Cookies Information: When you visit the Service, we may send one or more cookies -- a small text file containing a string of alphanumeric characters -- to your computer that uniquely identifies your browser and lets MobyGames help you login faster and enhance your navigation through the site. A cookie may also convey anonymous information about how you browse the Service to us. A cookie does not collect personal information about you. MobyGames uses both session cookies and persistent cookies. A persistent cookie remains on your hard drive after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser's directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the Service may not function properly if the ability to accept cookies is disabled.
 
-Non-personal voluntarily-contributed information and data, including but not limited to reviews, articles, game entries, box and screen images, is the property of MobyGames. MobyGames reserves the right to sell, license, share or rent this information and data. 
+Log File Information: Log file information is automatically reported by your browser each time you access a web page. When you register with or view our site, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol ("IP") address, browser type, referring / exit pages and URLs, number of clicks, domain names, landing pages, pages viewed, and other such information.
 
-## Order
+Clear Gifs Information: When you use the Service, we may employ clear gifs (also known as web beacons) which are used to track the online usage patterns of our users anonymously. No personally identifiable information from your MobyGames account is collected using these clear gifs. In addition, we may also use clear gifs in HTML-based emails sent to our users to track which emails are opened by recipients. The information is used to enable more accurate reporting, improve the effectiveness of our marketing, and make the MobyGames better for our users.
 
-MobyGames may in the future conduct sales transactions. We will request information from the user on our order form. Here a user must provide contact information (like name and shipping address) and financial information (like credit card number, expiration date). This information is used for billing purposes and to fill customer's orders. If we have trouble processing an order, this contact information is used to get in touch with the user. 
+ **How We Use Your Information**
 
-## Cookies
+We use the personal information you submit to operate, maintain, and provide to you the features and functionality of the Service.
 
-A cookie is a piece of data stored on the user's hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. For instance, by setting a cookie on our site, the user would not have to log in a password more than once, thereby saving time while on our site. If a user rejects the cookie, they may still use our site. The only drawback to this is that the user will be limited in some areas of our site. For example, the user will not be able to participate in any of our Sweepstakes, Contests or monthly Drawings that may take place. Cookies can also enable us to track and target the interests of our users to enhance the experience on our site. 
+By providing the MobyGames your email address you consent to our using the email address to send you Service-related notices, including any notices required by law, in lieu of communication by postal mail. We may also use your email address to send you other messages, such as newsletters, changes to features of the Service, or special offers. If you do not want to receive such email messages, you may opt out or change your preferences in your Account Settings page. Opting out may prevent you from receiving email messages regarding updates, improvements, or offers. You may not opt out of Service-related e-mails. If you correspond with us by email, we may retain the content of your email messages, your email address, and our responses.
 
-Some of our business partners use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies. 
+We use the information we gather about Users' download activity to analyze the popularity of particular files and genres, to enhance the end user experience, and to detect and protect the download services from abuse.
 
-## Log Files
+Any personal information or content that you voluntarily disclose for posting to the Service (including your User Content) becomes available to the public. If you remove information that you posted to the Service, copies may remain viewable in cached and archived pages of the Service, or if other Users have copied or saved that information.
 
-We use IP addresses to analyze trends, administer the site, track user's movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information. 
+MobyGames may use certain information about you and/or your User Content without identifying you as an individual to third parties. We do this for purposes such as analyzing how the Service is used, diagnosing service or technical problems, maintaining security, and personalizing advertisements and promotions.
 
-## Sharing
+MobyGames reserves the right, but has no obligation, to monitor the User Content you post on the site. We reserve the right to remove any such information or material for any reason or no reason, including without limitation if in our sole opinion such information or material violates, or may violate, any applicable law or our Terms of Use Agreement, or to protect or defend our rights or property or those of any third party. MobyGames also reserves the right to remove information upon the request of any third party. We use cookies, clear gifs, and log file information to: (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the site; (b) provide custom, personalized content and information; (c) monitor the effectiveness of our Service; (d) monitor aggregate metrics such as total number of visitors and traffic; (e) diagnose or fix technology problems reported by our users or engineers that are associated with certain IP addresses; and (f) help you efficiently access your information after you sign in.
 
-We will share aggregated demographic information with our partners and advertisers. This is not linked to any personal information that can identify any individual person. 
+ **How We Share Your Information**
 
-## Links
+Personally Identifiable Information: MobyGames will not rent or sell your personally identifiable information to others (except as part of a change in ownership as further described below). MobyGames may share your personally identifiable information with third parties solely for the purpose of providing services to you. If we do this, such third parties' use of your information will be bound by this Privacy Policy. We may store personal information in locations outside the direct control of MobyGames (for instance, on servers or databases co-located with hosting providers).
 
-This web site contains links to other sites. Please be aware that we MobyGames are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
+As we develop our business, we may buy or sell assets or business offerings. Customer, email, and visitor information is generally one of the transferred business assets in these types of transactions. We may also transfer such information in the course of corporate divestitures, mergers, or dissolution.
 
-## Newsletter
+From time to time, we may run contests, special offers, or other events or activities ("Events") on the Service together with a third party partner. If you provide information to such third parties, you give them permission to use it for the purpose of that Event and any other use that you approve. We cannot control third parties' use of your information. If you do not want your information to be collected by or shared with a third party, you can choose not to participate in these Events.
 
-MobyGames may in the future produce a newsletter. Users wishing to subscribe to this newsletter have control over their subscription status via their user account settings. 
+Except as otherwise described in this Privacy Policy, GameFly will not disclose personal information to any third party unless required to do so by law or subpoena or if we believe that such action is necessary to (a) conform to the law, comply with legal process served on us or our affiliates, or investigate, prevent, or take action regarding suspected or actual illegal activities; (b) to enforce our Terms of Use, take precautions against liability, to investigate and defend ourselves against any third-party claims or allegations, to assist government enforcement agencies, or to protect the security or integrity of our site; and (c) to exercise or protect the rights, property, or personal safety of MobyGames, our Users or others.
 
-## Surveys & Contests
+Non-Personally Identifiable Information: We may share non-personally identifiable information (such as anonymous usage data, referring/exit pages and URLs, platform types, number of clicks, etc.) with interested third parties to help them understand the usage patterns for certain MobyGames services.
 
-From time-to-time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site. 
+ **Agents and Contractors**
 
-## Tell-A-Friend
+The ads appearing on this Web site are delivered to you by DoubleClick, our Web advertising partner. Information about your visits to this site, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you. For more information about DoubleClick, cookies, and how to "opt-out", please [click here](http://www.google.com/doubleclick/privacy/). Moby Games may allow third-party ad servers or ad networks to serve advertisements on MobyGames.com. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on MobyGames. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or web beacons) to measure the effectiveness of their advertisements and to personalize the advertising content. MobyGames does not provide any personally identifiable information to these third-party ad servers or ad networks without your consent. However, please note that if an advertiser asks MobyGames to show an advertisement to a certain audience and you respond to that advertisement, the advertiser or ad-server may conclude that you fit the description of the audience they are trying to reach. In addition, third-party advertisers may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here for Google](http://www.google.com/privacy_ads.html) or [click here](http://www.networkadvertising.org/managing/opt_out.asp) for a number of advertisers including Google. The MobyGames Privacy Policy does not apply to, and we cannot control the activities of, third-party advertisers. Please consult the respective privacy policies of such advertisers for more information.
 
-MobyGames may in the future use a referral service. If a user elects to use this future referral service for informing a friend about our site, we ask them for the friend's name and email address. MobyGames will automatically send the friend a one-time email inviting them to visit the site. MobyGames stores this information for the sole purpose of sending this one-time email. The friend may contact MobyGames at moby@mobygames.com to request the removal of this information from their database. 
+ **Co-Sponsors and Promotional Partners**
 
-## Security
+From time to time, we may run contests, special offers, or other events or activities ("events") on our Website. Information collected for these events may include personal information (e.g., name, mailing address, etc.) and may be collected by or shared with a third party sponsor, co-sponsor, or other reputable third party (e.g., promotional partner, retailer, or game or magazine publisher). If you provide information to such third parties, you give them permission to use it for the purpose of that event and any other use that you approve. We cannot control third parties' use of your information. If you do not want your information to be collected by or shared with a third party, you can choose not to participate in these events at the time of the contest/event or when the information is collected.
 
-This website takes every precaution to protect our users' information. When users submit sensitive information via the website, your information is protected both online and off-line. 
+In some instances, we may have an arrangement with a promotional partner or retailer, whereby they share with us customer information collected on their website. In the event that we receive such data and combine it with our customer records, the combined information will be treated in accordance with this Privacy Policy. Otherwise, all such information is subject to the privacy policy under which it was collected.
 
-All of our users' information, not just the sensitive information, is restricted in our offices. Only employees who need the information to perform a specific job are granted access to personally identifiable information. Our employees must use password-protected screen-savers when they leave their desk. When they return, they must re-enter their password to re-gain access to your information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Every quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our customers' information is protected. Finally, the servers that we store personally identifiable information on are kept in a secure environment, behind a locked cage. 
+ **How We Protect Your Information**
 
-If you have any questions about the security at our website, you can send an email to moby@mobygames.com. 
+MobyGames uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to MobyGames and you do so at your own risk. Once we receive your transmission of information, MobyGames makes commercially reasonable efforts to ensure the security of our systems, including the processing of billing information through a single socket layer gateway to our billing provider. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.
 
-## Special Offers
+To protect your privacy and security, we take reasonable steps (such as requesting a unique password) to verify your identity before granting you access to your account. You are responsible for maintaining the secrecy of your unique password and account information, and for controlling access to your email communications from the MobyGames, at all times.
 
-We send all new members a welcoming email to verify password and username. Established members will occasionally receive information on products, services, special deals, and a newsletter. Out of respect for the privacy of our users we present the option to not receive these types of communications. Please see our choice and opt-out below. 
+ **Compromise of Personal Information**
 
-## Site and Service Updates
+In the event that personal information is compromised as a result of a breach of security, MobyGames will promptly notify those persons whose personal information has been compromised, in accordance with the notification procedures set forth in this Privacy Policy, or as otherwise required by applicable law.
 
-We also send the user site and service announcement updates. Members are not able to un-subscribe from service announcements, which contain important information about the service. We communicate with the user to provide requested services and in regards to issues relating to their account via email or phone. 
+ **Your Choices About Your Information**
 
-## Correction/Updating Personal Information:
+You may, of course, decline to submit personally identifiable information through the Service, in which case MobyGames may not be able to provide certain services to you. You may update or correct your account information at any time by logging in to your account. You can review and correct the information about you that GameFly keeps on file by contacting us directly at [admin@mobygames.com](mailto:admin@mobygames.com).
 
-If a user's personally identifiable information changes (such as your zip code), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user's personal data provided to us. This can usually be done at the member information page or by emailing our Customer Support. 
+ **Children's Privacy**
 
-## Choice/Opt-out
+Protecting the privacy of young children is especially important. For that reason, MobyGames does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register as Members. If you are under 13, please do not send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 is allowed to provide any personal information to or on MobyGames. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at [admin@mobygames.com](mailto:admin@mobygames.com).
 
-Our users are given the opportunity to 'opt-out' of having their information used for purposes not directly related to our site at the point where we ask for the information. For example, our order form has an 'opt-out' mechanism so users who buy a product from us, but don't want any marketing material, can keep their email address off of our lists. 
+ **Links to Other Web Sites**
 
-Users who no longer wish to receive our newsletter or promotional materials from our partners may opt-out of receiving these communications by replying to unsubscribe in the subject line in the email or email us at mobygames@mobygames.com. 
+We are not responsible for the practices employed by websites linked to or from our website, nor the information or content contained therein. Please remember that when you use a link to go from our website to another website, our Privacy Policy is no longer in effect. Your browsing and interaction on any other website, including those that have a link on our website, is subject to that website's own rules and policies. Please read over those rules and policies before proceeding
 
-Users of our site are always notified when their information is being collected by any outside parties. We do this so our users can make an informed choice as to whether they should proceed with services that require an outside party, or not. 
+ **Notification Procedures**
 
-## Advertising Networks
+It is our policy to provide notifications, whether such notifications are required by law or are for marketing or other business related purposes, to you via email notice, written or hard copy notice, or through conspicuous posting of such notice on our website, as determined by GameFly in its sole discretion. We reserve the right to determine the form and means of providing notifications to you, provided that you may opt out of certain means of notification as described in this Privacy Policy.
 
-MobyGames uses various Ad Networks to resell unsold advertising inventory. Please be aware that we MobyGames are not responsible for the privacy practices of such other Advertising Networks. This privacy statement applies solely to information collected by this Web site. We encourage our users to be aware that these Advertising Networks may have different privacy policies than MobyGames and to read the privacy statements of each and every web site that collects personally identifiable information.   
+ **Changes to Our Privacy Policy**
 
+If we change our privacy policies and procedures, we will post those changes on our website to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it. Changes to this Privacy Policy are effective when they are posted on this page.
 
-## Notification of Changes
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this website, please contact us at [admin@mobygames.com](mailto:admin@mobygames.com) or send mail to:
 
-If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected. 
+MobyGames c/o GameFly, Inc. 5340 Alla Road Suite 110 Los Angeles, CA 90066
+
+Updates
+
+April 15, 2011: We replaced our previous policy with this Privacy Policy. Please review this new Privacy Policy carefully.
