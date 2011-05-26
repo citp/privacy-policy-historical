@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gotomypc.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125015453id_/http%3A//www.gotomypc.com/remote_access/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gotomypc.com privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526150410id_/http%3A//www.gotomypc.com/remote_access/privacy) for the most accurate reproduction.*
 
 # GoToMyPC Privacy Statement | GoToMyPC
 
@@ -28,7 +28,7 @@ If you have questions or concerns regarding this statement, you should first con
 
 
 
-From time to time, Citrix Online may introduce new products and services. To the extent that these new products and services affect this policy, this policy will be updated. Please see [item number 5](https://web.archive.org/web/20101125015453id_/http%3A//www.gotomypc.com/remote_access/g2p_q5) for more details.
+From time to time, Citrix Online may introduce new products and services. To the extent that these new products and services affect this policy, this policy will be updated. Please see [item number 5](https://web.archive.org/web/20110526150410id_/http%3A//www.gotomypc.com/remote_access/g2p_q5) for more details.
 
 **1\. What is GoToMyPC and why is my information needed?**
 
