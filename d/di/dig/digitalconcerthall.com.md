@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitalconcerthall.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224172515id_/http%3A//digitalconcerthall.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalconcerthall.com privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526123844id_/http%3A//www.digitalconcerthall.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy policy | Digital Concert Hall
 
@@ -37,11 +37,23 @@ We shall store this data separately from your personal data so that no connectio
 
 In order to determine that a user used a service more than once, we shall employ so-called cookies. A cookie is a text file that your Internet browser deposits and stores on your computer. The use of such cookies is made with the objective of optimizing our Internet presence and our offers to the benefit of our customers. Such cookies will not be deleted after completion of your session on our website (so-called session cookies), however, such session cookies do not collect personal data.
 
-### § 6 Disclosure
+### § 6 Use of Facebook social plugins
+
+The Digital Concert Hall uses social plugins from the social network facebook.com, which is operated by Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, USA. The plugins are indicated by a Facebook logo.
+
+When you open a Digital Concert Hall page that contains one of these plugins, your browser connects directly with the Facebook servers. The content of the plugin is transferred directly from Facebook to your browser and integrated into the webpage. 
+
+Through the integration of plugins, Facebook receives information from the particular page of the Digital Concert Hall you are accessing. If you are logged in to Facebook, Facebook can add this information to your Facebook account. If you interact with the plugins, for example if you activate the “like” button or add a comment, this information is transferred directly from your browser to Facebook where it is saved. 
+
+For more information regarding the purpose and scope of this data collection, how Facebook collects, processes and uses your personal data, what your rights are, and how to change your privacy settings, please refer to Facebook’s privacy policy.
+
+If you do not want Facebook to collect information about you through the Digital Concert Hall, you must log out from Facebook before visiting the Digital Concert Hall.
+
+### § 7 Disclosure
 
 Upon request by email to [dch@berliner-philharmoniker.de](mailto:dch@berliner-philharmoniker.de), we will provide you with information regarding the data stored on your person or on your email.
 
-### § 7 Revocation
+### § 8 Revocation
 
 (1) Please inform us by email to [dch@berliner-philharmoniker.de](mailto:dch@berliner-philharmoniker.de), should you no longer be interested in receiving certain information or offers, or should you request that information/offers are not sent to you via a certain medium. We shall then comply with your request without delay. 
 
