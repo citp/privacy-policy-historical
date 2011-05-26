@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eurostemcell.org privacy policy that was archived on 2010-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101209124037id_/http%3A//eurostemcell.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eurostemcell.org privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526152700id_/http%3A//www.eurostemcell.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | EuroStemCell
+# Privacy Policy | EuroStemCell | Europe's stem cell hub
 
 The [University of Edinburgh](http://www.ed.ac.uk/) (“ **the University** ”) is committed to preserving your privacy. Please read the following privacy policy to understand how we use and protect the information obtained from those visiting and using this website ( “ **the Site** ”).
 
