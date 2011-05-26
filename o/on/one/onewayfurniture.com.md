@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onewayfurniture.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212064801id_/http%3A//www.onewayfurniture.com/ccprv.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onewayfurniture.com privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526070523id_/http%3A//www.onewayfurniture.com/ccprv.html) for the most accurate reproduction.*
 
 # Your Privacy is Our Priority
 
@@ -103,6 +103,6 @@ If you have questions or concerns regarding this statement, you should first con
 We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a prominent notice on our home page.
 
 One Way Furniture  
-200 Sherwood Ave – 2nd Floor (Not for returns)   
-Farmingdale, N.Y 11735   
+535 Broadhollow Rd - Ste A7 (Not for returns)   
+Melville, N.Y 11747  
 1-800-789-1995
