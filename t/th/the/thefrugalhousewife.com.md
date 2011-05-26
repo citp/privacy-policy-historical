@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thefrugalhousewife.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123195745id_/http%3A//thefrugalhousewife.com/about/policies/disclosure-policy-2/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefrugalhousewife.com privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526230854id_/http%3A//thefrugalhousewife.com/about/policies/disclosure-policy-2/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Frugal Housewife
 
