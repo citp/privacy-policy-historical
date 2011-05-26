@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medindia.net privacy policy that was archived on 2010-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100702223446id_/http%3A//www.medindia.net/includes/medindiaprivacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medindia.net privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526205052id_/http%3A//www.medindia.net/includes/medindiaprivacy.asp) for the most accurate reproduction.*
 
 # Medindia Privacy Policy
 
