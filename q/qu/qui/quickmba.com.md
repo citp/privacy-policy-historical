@@ -1,16 +1,6 @@
-> *The following text is extracted and transformed from the quickmba.com privacy policy that was archived on 2010-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100605180343id_/http%3A//www.quickmba.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quickmba.com privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526064552id_/http%3A//www.quickmba.com/site/privacy) for the most accurate reproduction.*
 
 # QuickMBA Privacy Policy
-
-** [ Accounting](http://www.quickmba.com/accounting/) | [Business Law](http://www.quickmba.com/law/) | [Economics](http://www.quickmba.com/econ/) | [Entrepreneurship](http://www.quickmba.com/entre/) | [Finance](http://www.quickmba.com/finance/) | [Management](http://www.quickmba.com/mgmt/) | [Marketing](http://www.quickmba.com/marketing/) | [Operations](http://www.quickmba.com/ops/) | [Statistics](http://www.quickmba.com/stats/) | [Strategy](http://www.quickmba.com/strategy/)** |    
-  
-**Site Information  
-     [Home](http://www.quickmba.com/)  
-     [Site Map](http://www.quickmba.com/site.shtml)  
-     [About](http://www.quickmba.com/site/about/)  
-     [Contact](http://www.quickmba.com/site/contact/)  
-     [Reprints](http://www.quickmba.com/site/reprints/)  
-     [User Agreement](http://www.quickmba.com/site/agreement/)** | 
 
   
 
@@ -53,11 +43,8 @@ Any changes to this privacy statement will be posted on this site.
 
 * * *
 
-[Home](http://www.quickmba.com/)    [Site Map](http://www.quickmba.com/site.shtml)    [About](http://www.quickmba.com/site/about/)    [Contact](http://www.quickmba.com/site/contact/)    Privacy    [Reprints](http://www.quickmba.com/site/reprints/)    [User Agreement](http://www.quickmba.com/site/agreement/)   
-
+[Home](http://www.quickmba.com/)  |  [Site Map](http://www.quickmba.com/site.shtml)  |  [About](http://www.quickmba.com/site/about/)  |  [Contact](http://www.quickmba.com/site/contact/)  |  Privacy  |  [Reprints](http://www.quickmba.com/site/reprints/)  |  [User Agreement](http://www.quickmba.com/site/agreement/)
 
 The articles on this website are copyrighted material and may not be reproduced,  
 stored on a computer disk, republished on another website, or distributed in any  
-form without the prior express written permission of QuickMBA.com.   
-  
----|---
+form without the prior express written permission of QuickMBA.com. 
