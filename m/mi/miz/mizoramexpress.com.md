@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the mizoramexpress.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219103542id_/http%3A//mizoramexpress.com/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mizoramexpress.com privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527013939id_/http%3A//mizoramexpress.com/index.php/privacy-policy) for the most accurate reproduction.*
 
 # Privacy | Mizoram Express
 
-[ ](http://mizoramexpress.com/wp-content/uploads/terms-of-usage1.jpg)
-
-[ ](http://mizoramexpress.com/wp-content/uploads/terms-of-usage1.jpg)Welcome to Mizoram Express! We appreciate your participation as citizen journalist and visitor. Our goal is to encourage writers in English from all Mizo tribes and concerned citizens to bring to light the good, the bad and the ugly from all aspects of governance to societal practices. However, in order to maintain a civil community, we require you to follow the following basic guidelines:
+[](http://mizoramexpress.com/wp-content/uploads/terms-of-usage1.jpg)Welcome to Mizoram Express! We appreciate your participation as citizen journalist and visitor. Our goal is to encourage writers in English from all Mizo tribes and concerned citizens to bring to light the good, the bad and the ugly from all aspects of governance to societal practices. However, in order to maintain a civil community, we require you to follow the following basic guidelines:
 
 **Right to Delete Posts**
 
