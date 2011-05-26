@@ -1,36 +1,15 @@
-> *The following text is extracted and transformed from the appmobi.com privacy policy that was archived on 2010-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101019081255id_/http%3A//appmobi.com/content.aspx%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appmobi.com privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526233530id_/http%3A//mkt.appmobi.com/index.php%3Fq%3Dnode/56) for the most accurate reproduction.*
 
-# Welcome to appMobi
+# Privacy Policy
 
-|   
----  
-| [](https://web.archive.org/web/20101019081255id_/http%3A//appmobi.com/default.aspx) |   
----|---  
-|    | 
-
-[Resources](https://web.archive.org/web/20101019081255id_/http%3A//appmobi.com/appdev_basics.aspx)
-
-|  | 
-
-[Demo Library](https://web.archive.org/web/20101019081255id_/http%3A//appmobi.com/gallery.aspx)
-
-|  | 
-
-[Pricing](https://web.archive.org/web/20101019081255id_/http%3A//appmobi.com/pricing_plans.aspx)
-
-|  |   |  |  [Community](http://forums.appmobi.com/) |  |  [](http://www.facebook.com/pages/appMobi/228010803682) [](http://twitter.com/appmobi) [](http://www.youtube.com/user/appMobi#g/u)  
----|---|---|---|---|---|---|---|---|---|---|---  
-|     
----  
-| 
-
-**What This Privacy Policy Covers**    
-
+**What This Privacy Policy Covers**
 
   * This policy covers how appMobi treats personal information that appMobi collects and receives, including information related to your past use of appMobi products and services. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available.
   * This policy does not apply to the practices of companies that appMobi does not own or control, or to people that appMobi does not employ or manage. In addition, certain appMobi associated companies have their own privacy statements which can be viewed by visiting the websites of those companies.
 
- **Information Collection and Use**  
+
+
+ **Information Collection and Use**
 
  **General**
 
@@ -40,11 +19,15 @@
   * appMobi automatically receives and records information on our server logs from your browser, including your IP address, appMobi cookie information, and the page you request.
   * appMobi uses information for the following general purposes: to customize the advertising and content you see, fulfill your requests for products and services, improve our services, contact you, conduct research, and provide anonymous reporting for internal and external clients.
 
+
+
  **Children**
 
   * When a child under age 13 attempts to register with appMobi, we ask that he or she have a parent or guardian create a appMobi Family Account to obtain parental permission.
   * appMobi will not contact children under age 13 about special offers or for marketing purposes without a parent's permission.
   * appMobi does not ask a child under age 13 for more personal information, as a condition of participation, than is reasonably necessary to participate in a given activity or promotion.
+
+
 
  **Information Sharing and Disclosure**
 
@@ -59,14 +42,17 @@
     * appMobi advertisers include financial service providers (such as banks, insurance agents, stock brokers and mortgage lenders) and non-financial companies (such as stores, airlines, and software companies).
   * appMobi works with vendors, partners, advertisers, and other service providers in different industries and categories of business. For more information regarding providers of products or services that you've requested please read our detailed reference links.
 
- **Cookies**  
 
+
+ **Cookies**
 
   * appMobi may set and access appMobi cookies on your computer.
   * appMobi lets other companies that show advertisements on some of our pages set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to appMobi' cookies.
   * appMobi uses web beacons to access appMobi cookies inside and outside our network of web sites and in connection with appMobi products and services.
 
- **Your Ability to Edit and Delete Your Account Information and Preferences**  
+
+
+ **Your Ability to Edit and Delete Your Account Information and Preferences**
 
  **General**
 
@@ -75,67 +61,25 @@
   * We reserve the right to send you certain communications relating to the appMobi service, such as service announcements, administrative messages and the appMobi Newsletter, that are considered part of your appMobi account, without offering you the opportunity to opt-out of receiving them.
   * You can delete your appMobi account by visiting our Account Deletion page. Any or all of the information you provided while your account was active might possibly remain in our archived records after your account has been deleted.
 
- **Children  **  
 
+
+ **Children  **
 
   * Parents can review, edit, and delete information relating to their child's appMobi account using tools offered by appMobi Family Accounts.
   * If a parent chooses not to allow us to further collect or use a child's information, parents enrolled in appMobi Family Accounts can delete their child's account by signing into that child's account and then visiting our Account Deletion page. Any or all of the information you provided while your account was active might possibly remain in our archived records after your account has been deleted.
 
- **Confidentiality and Security  **  
 
+
+ **Confidentiality and Security  **
 
   * We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs.
   * We have physical, electronic, and procedural safeguards that comply with federal regulations to protect personal information about you.
 
- **Changes to this Privacy Policy**  
 
+
+ **Changes to this Privacy Policy**
 
   * appMobi may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your appMobi account or by placing a prominent notice on our site.
 
-
-
-|   
-   
-  
-* * *  
-  
-### appMobi lets you painlessly develop open source cross platform apps
-
-Open source apps can be developed using appMobi’s free open source pricing model. We offer a type of app account that is designed for pure open source and there are only a few rules – first, your source code is available to anyone in a public section of the appMobi site, second, neither appMobi nor the developer can make any money from the app. That means no advertising, no in-app charges, nothing. It’s that simple. Open Source Mobile Apps are easy to make using appMobi’s open source pricing plan. 
-
   
 
-
-### appMobi loves PhoneGap
-
-appMobi is the only PhoneGap hosted solution in the world. PhoneGap developers can use appMobi’s SAAS PAAS software as a service platform as a service to build, debug and deploy their PhoneGap apps, whether those apps are for the Apple iPhone, the Apple iPad, the Apple iPod Touch, or Android devices like the Google G1, the Google Nexus 1, or Droid, Droid X, Droid Incredible, or any Android-based tablet devices.
-
-  
-
-
-### Mobile app development, in the cloud
-
-appMobi is the only cloud-based app development environment in the world. We leverage the rock solid 24-7-365 dependability of Amazon’s AWS, Amazon DevPay, and Amazon EC2 services to deliver an amazingly agile and hassle-free development environment. Because appMobi moves the SDK into the “Cloud”, you are free to develop on whatever PC you wish to use (Windows PC, Apple Mac, Linux based) and you are free to develop using whatever text editing tools you like (eMacs, Notepad ++, Crimson, Bluefish, VIM, Komodo, Visual Studio, EditPlus, TextMate, Aptana, Eclipse, Aptana, Netbean). 
-
-  
-
-
-### Develop your apps rapidly using web technologies like HTML5 and CSS
-
-Rapid app development means developing your app without the need to install, configure and learn Apple’s Tool set, which includes a Macintosh, XCode, Interface Builder. Objective C is known to be one of the more difficult variants of C to learn, and it’s further complicated by the need to learn Apple’s 1200 plus API libraries. Rapid app development means bypassing all of that for the ease of HTML, HTML5, CSS, CSS3, and JavaScript coding. That’s Rapid native app development. 
-
-### appMobi’s development platform is extensible with PlugIns 
-
-appMobi offers the web developer the ability to rapidly create native mobile apps using the skills and tools they already possess. appMobi’s recent 3.0 version enables device manufacturers and third party software vendors to create “plugins” that extend the appMobi functionality to use their hardware or software tools. For example, a mobile ad network has created a plugin that allows appMobi developers to instantly access their ad inventory and traffic system using just one line of JavaScript. 
-
-  
-
-
-### New! Develop cross-platform augmented reality apps quickly and easily
-
-Now you can develop apps using augmented reality using appMobi. AppMobi’s new augmented reality features allow you to create cutting edge apps that use the device’s camera to bring the real world into the app, where your app overlays information onto the video for gaming, direction finding, shopping, or whatever. Augmented reality is certain to be a driver of mobile commerce in the coming years and appMobi gives you high performance augmented reality capability now. 
-
-  
-  
-  
- 
