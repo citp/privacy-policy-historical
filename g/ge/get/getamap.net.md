@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the getamap.net privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123160120id_/http%3A//www.getamap.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getamap.net privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526155000id_/http%3A//www.getamap.net/privacy) for the most accurate reproduction.*
 
 # Privacy - Getamap.net
-
-Privacy Policy and Confidentiality
 
 Getamap.net is committed to safeguarding your privacy online.
 
@@ -32,6 +30,17 @@ e. redistribute any content provided by us in any manner whatsoever.
 
 Proprietary Rights  
 Getamap.net and its logo, and other identifying marks of getamap.net are and shall remain the trade-marks and trade names and exclusive property of getamap.net, and any unauthorized use of these marks is unlawful. Other trade-marks on this website are the property of their respective owners. All content on this website is the copyrighted property of getamap.net and is protected by international copyright law. The content on this website may be used by you only for your personal, non-commercial use as provided for in these Terms of Use. Any rights not expressly granted to you are reserved by us. 
+
+  
+
+  * Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website.  
+
+  * Google's use of the DART cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.  
+
+  * Users may opt out of the use of the DART cookie by visiting the [advertising opt-out page](http://www.google.com/privacy_ads.html).
+  
+
+
 
 Contact
 
