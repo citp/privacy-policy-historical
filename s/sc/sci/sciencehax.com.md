@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sciencehax.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127201214id_/http%3A//sciencehax.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sciencehax.com privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526172105id_/http%3A//sciencehax.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Science Hax
 
