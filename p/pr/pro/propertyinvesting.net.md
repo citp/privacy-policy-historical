@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the propertyinvesting.net privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126144042id_/http%3A//www.propertyinvesting.net/content/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the propertyinvesting.net privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526211035id_/http%3A//www.propertyinvesting.net/content/privacy.htm) for the most accurate reproduction.*
 
 # PropertyInvesting.net: Privacy Policy
 
@@ -35,6 +35,6 @@ PropertyInvesting.net will only send personally identifiable information about y
 
 If you place an order for one of our products or services, you will be asked for your name, address and billing information. All orders are processed through Amazon.com or Amazon.co.uk. PropertyInvesting.net will never receive your credit card details. 
 
-See also our [Terms & Conditions](https://web.archive.org/web/20101126144042id_/http%3A//www.propertyinvesting.net/content/terms.htm).
+See also our [Terms & Conditions](https://web.archive.org/web/20110526211035id_/http%3A//www.propertyinvesting.net/content/terms.htm).
 
 back to top
