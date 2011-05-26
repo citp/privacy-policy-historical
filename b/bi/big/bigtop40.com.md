@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigtop40.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227080447id_/http%3A//www.bigtop40.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigtop40.com privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526064717id_/http%3A//www.bigtop40.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # About Us | Privacy policy - Big Top 40 Music Chart
 
