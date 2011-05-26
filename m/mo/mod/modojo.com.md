@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the modojo.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125015145id_/http%3A//my.modojo.com/tos) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modojo.com privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526024330id_/http%3A//my.modojo.com/tos) for the most accurate reproduction.*
 
-# myMO Terms of Service
+# myMO Terms of Service@
 
 **About This Policy**  
 This privacy policy tells you how we use personal information collected at this site. Please read this privacy policy before using the site or submitting any personal information. By using the site, you are accepting the practices described in this privacy policy. You are encouraged to review the privacy policy whenever you visit the site to make sure that you understand how any personal information you provide will be used. 
