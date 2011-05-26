@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thredup.com privacy policy that was archived on 2010-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101210074001id_/http%3A//www.thredup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thredup.com privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526073153id_/http%3A//www.thredup.com/privacy-policy) for the most accurate reproduction.*
 
 # Swap Kids Clothing on thredUP - Privacy Policy
 
@@ -22,7 +22,7 @@ When you access the thredUP website, thredUP may set and access thredUP 'cookies
 
 ### Confidentiality and Security
 
-We limit access to personal information about you to employees who we believe reasonably need that information to provide products or services to you or in order to operate and improve the thredUP website and services [Is this correct? This implies you have access controls in place that only allow some employees to access personal information.]. We will use commercially reasonable efforts to put in place and maintain physical, electronic, and procedural safeguards that comply with applicable federal and state regulations to protect personal information about you.
+We limit access to personal information about you to employees who we believe reasonably need that information to provide products or services to you or in order to operate and improve the thredUP website and services. We will use commercially reasonable efforts to put in place and maintain physical, electronic, and procedural safeguards that comply with applicable federal and state regulations to protect personal information about you.
 
 ### Accessing, Changing and Protecting Your Information
 
