@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mygloss.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127085410id_/http%3A//mygloss.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mygloss.com privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526191853id_/http%3A//mygloss.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | myGLOSS.com: What Women Want To Know | Recipes | Beauty | Health | Motherhood | Life
+# Privacy Policy | myGLOSS :: What Women Want to Know
 
 **Your Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
@@ -27,6 +27,6 @@ Under our Terms of Service, children under 18 are not allowed to access our serv
 **Changes to this Privacy Statement**  
 The contents of this statement may be altered at any time, at our discretion.
 
-If you have any questions regarding the privacy policy of MyGloss then you may [contact](http://mygloss.com/contact/ "contact") us at feedback@mygloss.com
+If you have any questions regarding the privacy policy of MyGloss then you may contact us at feedback@mygloss.com
 
 Last updated Sat, 22 Aug 2009 02:38
