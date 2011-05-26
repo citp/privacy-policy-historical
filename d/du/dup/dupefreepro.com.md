@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dupefreepro.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223225010id_/http%3A//www.dupefreepro.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dupefreepro.com privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526193107id_/http%3A//www.dupefreepro.com/privacy.php) for the most accurate reproduction.*
 
 # DupeFree Pro - PRIVACY POLICY
 
