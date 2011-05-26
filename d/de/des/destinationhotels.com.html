@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the destinationhotels.com privacy policy that was archived on 2010-11-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101123091211id_/http%3A//www.destinationhotels.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the destinationhotels.com privacy policy that was archived on 2011-05-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110526214432id_/http%3A//www.destinationhotels.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN" "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en" class="js-on"><head>
 	<!-- cmt id="meta" type="metatag" limit="1" aux="private:true;"-->
@@ -9,7 +9,7 @@
 <meta name="description" content="Destination Hotels &amp; Resorts features a collection of resorts that offer a large selection of upscale accommodations and services. Each property also features an array of family travel packages, romance packages, spa packages and more. ">
 <!-- /cmt_item-->
 <!-- /cmt--><link rel="image_src" href="http://www.destinationhotels.com/images/interior/dest-facebook-logo.jpg"> <!-- cmt id="global-meta" type="metatag" aux="private:true;" limit="1" -->
-<meta name="verify-v1" content="FAU6fX7ZWnn5azhUT0WCaujVUf4fD5IQjG2yOl15JsQ=">
+<meta name="google-site-verification" content="sVMMaypdDkNrAVhS6ClMOYT_OghFaaakuah8S-X4L_c">
 <meta name="robots" content="all">
 <meta name="rating" content="general">
 <meta name="distribution" content="global">
@@ -24,7 +24,7 @@
 	<meta name="geo.placename" content="Bethesda" />
 	<meta name="geo.country" content="US" />-->
 <!-- /cmt -->
-<link rel="stylesheet" type="text/css" media="screen" href="/css/screen.css">
+	<link rel="stylesheet" type="text/css" media="screen" href="/css/screen.css">
 	<!--[if lte IE 7]><link rel="stylesheet" type="text/css" media="screen" href="/css/ie7.css" /><![endif]-->
 	<!--[if lte IE 6]><link rel="stylesheet" type="text/css" media="screen" href="/css/ie6.css" /><![endif]-->
 	<!--[if lt IE 6]><link rel="stylesheet" type="text/css" media="screen" href="/css/legacy.css" /><![endif]-->
@@ -36,6 +36,7 @@
 		//Global language variable for javascript
 		LANG = 'en';
 		CMT = '';
+		var DOMAIN_TRACKING = 'gc.synxis.com,reservations.synxis.com';
 	</script>
 	<script type="text/javascript" src="/js/jquery.js"></script>
 	<script type="text/javascript" src="/js/jquery.ui.js"></script>
@@ -107,7 +108,7 @@
 			<div id="content">
 				
  	<div id="booking-console">
-        <form name="reservations:console" action="/book.php" method="post" class="track validate inline" target="_blank">
+        <form name="reservations:console" action="/book.php" method="post" class="track track-crossdomain validate inline" target="_blank">
         	<input type="hidden" name="start" value="1"><!-- will bypass step 1, remove if unwanted -->
             <fieldset id="hotel-console">
 				<!-- property page gets class="property" -->
@@ -135,6 +136,7 @@
 <option value="46">InterContinental® Tampa</option>
 <option value="26">The Inverness Hotel and Conference Center</option>
 <option value="10">L'Auberge Del Mar</option>
+<option value="63">The Madison</option>
 <option value="57">Manor Vail Lodge</option>
 <option value="11">Miramonte® Resort &amp; Spa</option>
 <option value="61">Paradise Point Resort &amp; Spa</option>
@@ -153,7 +155,7 @@
 <option value="29">Vail Cascade</option>
 <option value="62">The Villas at Snowmass Club</option>
 <option value="36">Wailea Beach Villas®</option>
-<option value="55">The Wigwam Golf Resort &amp; Spa</option>
+<option value="55">The Wigwam</option>
 <option value="30">Wild Dunes® Resort</option>
 </select>				</div>
 				            </fieldset>
@@ -338,7 +340,35 @@ You can contact us in one of three ways:
 
 				
 <!-- /cmt_item-->
-<!-- /cmt-->
+<!-- /cmt--><div id="facebook-like" style="padding: 10px 0 20px; width: 400px; margin-left: 30px;">
+	<script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script>
+	<fb:like href="http://www.facebook.com/DestinationHotels" show_faces="true"></fb:like>
+	<div id="fb-root"><script async="" src="https://connect.facebook.net/en_US/all.js"></script></div>
+	<script> 
+		window.fbAsyncInit = function () {
+			FB.init({ appId: '205806049433870',
+					  status: true,
+					  cookie: true,
+					  xfbml: true
+			});
+			FB.Event.subscribe('edge.create', function ()
+	{
+				pageTracker._trackEvent('Facebook', 'Like');
+			});
+			FB.Event.subscribe('edge.remove', function () {
+				pageTracker._trackEvent('Facebook',
+	'Unlike');
+			});
+		};
+		(function () {
+			var e = document.createElement('script');
+	e.async = true;
+			e.src = document.location.protocol +
+			'//connect.facebook.net/en_US/all.js';
+			document.getElementById('fb-root').appendChild(e);
+		} ());
+	</script>
+</div>
 			</div>
 			<hr>
 			<div id="sidebar">
@@ -352,19 +382,17 @@ You can contact us in one of three ways:
 						</h3>
 			<div class="rotation-wrapper">
 			<div class="rotation-item clear-float">
-							<h4>Happy Holidays - 3rd Night FREE</h4>
-							<p>Happy Holidays from Destination Resorts Vail with the gift of a FREE night! 
-
-The holidays will be here before you know it and what better...</p>
-							<a href="/specials/happy-holidays-3rd-night-free" class="align-right"><img src="/images/layout/btn-see-package.png" alt="See This Package"></a>
+							<h4>Don't Come a Knockin'</h4>
+							<p>Hang that "Do Not Disturb" sign on the door and escape for a romantic getaway with that special someone.</p>
+							<a href="/specials/dont-come-a-knockin" class="align-right"><img src="/images/layout/btn-see-package.png" alt="See This Package"></a>
 						</div><div class="rotation-item clear-float">
-							<h4>Four Diamond Package</h4>
-							<p>Stowe Mountain Lodge is proud to announce two recent notable recognitions—one by travelers and one by travel industry experts.</p>
-							<a href="/specials/four-diamond-package" class="align-right"><img src="/images/layout/btn-see-package.png" alt="See This Package"></a>
+							<h4>You're the One that I Want</h4>
+							<p>Pop the question or make your sweetheart fall in love with you all over again.</p>
+							<a href="/specials/youre-the-one-that-i-want" class="align-right"><img src="/images/layout/btn-see-package.png" alt="See This Package"></a>
 						</div><div class="rotation-item clear-float">
-							<h4>Unlimited Resort Golf Experience</h4>
-							<p>If you are looking for the premier Oregon golf destination, look no further than Sunriver Resort. Packages starting at $79*.</p>
-							<a href="/specials/unlimited-resort-golf-experience" class="align-right"><img src="/images/layout/btn-see-package.png" alt="See This Package"></a>
+							<h4>Bed and Breakfast</h4>
+							<p>Our Bed and Breakfast promotion includes lodging and our gourmet breakfast buffet for up to two adults. Come enjoy the beauty of Chapel Hill...</p>
+							<a href="/specials/bed-breakfast" class="align-right"><img src="/images/layout/btn-see-package.png" alt="See This Package"></a>
 						</div>					<!-- /loop -->
 					
 					<a href="#" class="rotation-next"><img src="/images/layout/btn-next-offer.gif" alt="Next Offer"></a>
@@ -386,10 +414,10 @@ The holidays will be here before you know it and what better...</p>
 	<div class="box-top">
 		<div class="box-bottom clear-float">
 			<h3>Featured Blog
-			 : Terranea Resort™			</h3>
-							<h4>Holiday Recipes:  Holiday Butternut Squash Soup from Executive Chef, Christian Schmidt</h4>
-				<p>Warm the hearts and bellies of your guests this holiday season with Chef Schmidt’s, Holiday Butternut Squash Soup!&nbsp; As the Executive Chef of Terranea Resort, Christian Schmidt has to “squash” the hunger of the masses by providing healthy, organic, and delicious meals every day.&nbsp; Now it’s y...</p>
-				<a href="/blogs/holiday-recipes-holiday-butternut-squash-soup-from-executive-chef-christian-schmidt" class="align-right"><img src="/images/layout/btn-read-more.png" alt="Read More"></a>
+			 : Paradise Point Resort &amp; Spa			</h3>
+							<h4>Summer Wedding Survival Tips</h4>
+				<p>We’re just a few short weeks away from everyone’s favorite time of year: summer! Which in turn, means something else entirely to brides and those of us in the business: wedding season! We all know that summer is the most popular time of year for weddings (with fall becoming a very close second) ...</p>
+				<a href="/blogs/summer-wedding-survival-tips" class="align-right"><img src="/images/layout/btn-read-more.png" alt="Read More"></a>
 							<a href="/blog/" id="blog-property" class="box-link">View all of our property blogs</a>
 					</div>
 	</div>
@@ -456,12 +484,15 @@ The holidays will be here before you know it and what better...</p>
     <a href="/green-hotels-resorts/" class="logo-middle" style="margin:0; padding:0 48px 0 43px;"><img src="/images/layout/logo-earth.gif" alt=""></a>
     <a href="http://www.loweenterprises.com/" class="track" name="external:loweenterprises.com" target="_blank"><img src="/images/layout/logo-lowe.gif" alt=""></a>
     </div>
-    <div id="copyright" style="margin-top:-5px;">Copyright 1998-2010,<br>
+    <div id="copyright" style="margin-top:-5px;">Copyright 1998-2011,<br>
       Destination Hotels &amp; Resorts, Inc.<br>
       All rights reserved. </div>
   </div>
 </div>
-<!-- tpl--><div id="modal-wrapper">
+<!-- tpl-->
+
+<div id="modal-wrapper">
+	
 			<div class="modal-content" id="modal-widget-download">
 		<a href="#" class="modal-close"><em class="alt">Close</em></a>
 		<h1>Destination Check-In Widget</h1>
@@ -481,31 +512,17 @@ The holidays will be here before you know it and what better...</p>
 <img src="/images/layout/modal-intro.jpg" alt="" border="0">
 </div>
 		<div id="video-list">
-
 			<form name="video" action="#" class="track validate inline">
 				<div class="field" id="select-property">
 					<label for="hotel-video">Select a hotel</label>
 					<select name="hotel-video" size="1" id="hotel-video"><option value="dhr-video">Destination Hotels &amp; Resorts</option>
-<option value="3">Destination Resorts Snowmass</option>
-<option value="4">Destination Resorts Vail</option>
 <option value="33">The Driskill® Hotel</option>
-<option value="7">Estancia La Jolla® Hotel &amp; Spa</option>
-<option value="25">The Gant</option>
-<option value="9">Hamilton Park Hotel &amp; Conference Center</option>
-<option value="40">Hotel ICON®</option>
 <option value="47">Inn and Spa at Loretto</option>
-<option value="46">InterContinental® Tampa</option>
-<option value="26">The Inverness Hotel and Conference Center</option>
 <option value="10">L'Auberge Del Mar</option>
 <option value="11">Miramonte® Resort &amp; Spa</option>
-<option value="18">Royal Palms Resort and Spa</option>
-<option value="19">Skamania Lodge®</option>
 <option value="20">Sunriver Resort®</option>
 <option value="21">Tarrytown House Estate &amp; Conference Center®</option>
-<option value="22">Tempe Mission Palms® Hotel &amp; Conference Center</option>
 <option value="41">Terranea Resort™</option>
-<option value="29">Vail Cascade</option>
-<option value="36">Wailea Beach Villas®</option>
 <option value="30">Wild Dunes® Resort</option>
 </select>				</div>
 			</form>
@@ -513,6 +530,7 @@ The holidays will be here before you know it and what better...</p>
 						</div>
 		</div>
 </div>
+
 <div id="video-bottom" style="display:none;">
 		    <div id="video-push">
 			<div class="package-wrapper rss-item package clear-float">
@@ -544,6 +562,17 @@ The holidays will be here before you know it and what better...</p>
 		    </div>
 		</div>
 	</div>
+	
+	
+</div>
+<div id="modal-video-wrapper">
+	<div id="news-videos">
+		<a class="modal-close" href="#"><img src="/images/modal/close.png" alt="close"></a>
+		<div class="video-content">
+		<h2 class="video-title"></h2>
+		<div id="video-container"></div>
+		</div>
+	</div>	
 </div>
 <div id="browser-warning">
 		<p><strong>It appears you are using an older web browser!</strong> While using our site, you may encounter some trouble along the way. For PC users, we recommend upgrading to the latest version of <a href="http://www.microsoft.com/windows/products/winfamily/ie/default.mspx" rel="nofollow">Internet Explorer</a> or <a href="http://www.mozilla.com/en-US/firefox/" rel="nofollow">Firefox</a>. For Mac users, we recommend the latest version of <a href="http://www.apple.com/macosx/features/safari/" rel="nofollow">Safari</a> or <a href="http://www.mozilla.com/en-US/firefox/" rel="nofollow">Firefox</a>.</p>
