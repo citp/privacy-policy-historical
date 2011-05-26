@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the conserve-energy-future.com privacy policy that was archived on 2010-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100306025917id_/http%3A//www.conserve-energy-future.com/PrivacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conserve-energy-future.com privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526112257id_/http%3A//www.conserve-energy-future.com/PrivacyPolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
