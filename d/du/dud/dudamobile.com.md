@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dudamobile.com privacy policy that was archived on 2010-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101211235932id_/http%3A//dudamobile.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dudamobile.com privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527003936id_/http%3A//www.dudamobile.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -61,3 +61,5 @@ If there are any questions regarding this privacy policy you may contact us usin
 http://www.dudamobile.com  
 [info@dudamobile.com](mailto:info@dudamobile.com)  
   
+
+ 
