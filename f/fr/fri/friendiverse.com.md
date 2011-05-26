@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the friendiverse.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218140913id_/http%3A//www.friendiverse.com/content/file_about_us/dir_language) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the friendiverse.com privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526160146id_/http%3A//www.friendiverse.com/content/file_about_us/dir_language) for the most accurate reproduction.*
 
 # Privacy Policy » Friendiverse - A Diverse Universe of Friends
 
@@ -29,6 +29,6 @@ Our site is monitored continuously for security reasons, development reasons, et
 Please be aware that whenever members voluntarily disclose personal information online - e.g., message boards, file uploads, events, and classifieds - that information becomes public and can be collected and used by others. By posting personal information online in public forums, members may receive unsolicited messages from other parties.  
 Our Privacy Policy is considered an attachment to our Terms & Conditions and you accept and understand this by proceeding with use of our site.  
   
-[ ](http://www.dpbolvw.net/click-2063603-10368625)  
+[ ](http://www.kqzyfj.com/click-2063603-10457780)  
   
-[ ](http://www.anrdoezrs.net/click-2063603-10452423)
+[ ](http://www.dpbolvw.net/click-2063603-10482120)
