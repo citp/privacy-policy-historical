@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the searchbliss.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120010923id_/http%3A//www.searchbliss.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchbliss.com privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526072512id_/http%3A//www.searchbliss.com/privacy.htm) for the most accurate reproduction.*
 
 # SearchBliss Privacy Policies
 
-This privacy statement was last updated on **05/08/2009**. SearchBliss has created this privacy statement in order to disclose our gathering practices for this Web site, [www.searchbliss.com](http://www.searchbliss.com/ "SearchBliss Web Tools").
+This privacy statement was last updated on **03/16/2011**. SearchBliss has created this privacy statement in order to disclose our gathering practices for this Web site, [www.searchbliss.com](http://www.searchbliss.com/ "SearchBliss Web Tools").
 
-We respect and are committed to protecting your privacy. That is why we have created this Privacy Policy. This Privacy Policy lets you know how your personal is processed and used. We promise that we will take steps to use your personal only in ways that are compatible with this Privacy Policy. These policies are only in effect for the Web pages operated by SearchBliss, and opt-in e-mail lists owned by StreamSend, and operated by SearchBliss.
+We respect and are committed to protecting your privacy. That is why we have created this Privacy Policy. This Privacy Policy lets you know how your information is processed and used. We promise that we will take steps to use your personal information only in ways that are compatible with this Privacy Policy. These policies are only in effect for the Web pages operated by SearchBliss, and opt-in e-mail lists owned by StreamSend, and operated by SearchBliss.
 
  **Collected by SearchBliss**
 
