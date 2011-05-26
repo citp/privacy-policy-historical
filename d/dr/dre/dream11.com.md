@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dream11.com privacy policy that was archived on 2010-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101210051009id_/http%3A//www.dream11.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dream11.com privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526233722id_/http%3A//www.dream11.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy - Dream11 - World's No. Fantasy Cricket Game
+# Dream11.com
 
 Dream11 Gaming Private Limited (Dream11) is the Portal Business. Located at [ **www.Dream11.com**](http://www.dream11.com/) and powers / manages various Online Games which are linked to various internet sites and community boards and services hereinafter collectively referred to as Dream11.
 
