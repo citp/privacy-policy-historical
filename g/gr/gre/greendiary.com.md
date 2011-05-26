@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greendiary.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125044156id_/http%3A//www.greendiary.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greendiary.com privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526083617id_/http%3A//www.greendiary.com/privacy-policy.php) for the most accurate reproduction.*
 
 # 
 
