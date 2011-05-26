@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mrwatch.com privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213020557id_/http%3A//www.mrwatch.com/privacy_policy-10-info.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrwatch.com privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526093246id_/http%3A//www.mrwatch.com/privacy_policy-10-info.html) for the most accurate reproduction.*
 
 # Privacy Policy : Mr. Watch : How we protect your information
 
