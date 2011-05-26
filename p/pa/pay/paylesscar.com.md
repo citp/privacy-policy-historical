@@ -1,20 +1,21 @@
-> *The following text is extracted and transformed from the paylesscar.com privacy policy that was archived on 2010-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101208065310id_/http%3A//www.paylesscar.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paylesscar.com privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526044334id_/http%3A//www.paylesscar.com/privacy) for the most accurate reproduction.*
 
-# Payless Car Rental - Privacy
+# Payless Car Rental - Privacy Policy
 
-**PLEASE NOTE:** This privacy policy pertains to PaylessCar.com and any sub-directory below it. **
+**LAST UPDATED:** February 2009
 
-INTRODUCTION
+**PLEASE NOTE:** This privacy policy pertains to PaylessCar.com and any sub-directory below it.
 
-** : Customer privacy is very important and taken very seriously with Payless Car Rental.  It is our policy that customer mail or e-mail information will not be shared with 3rd parties except in the case of contracted partnerships for the purposes of providing added benefits to our customers. Credit information will not be shared with any 3rd party.
+**INTRODUCTION:** Customer privacy is very important and taken very seriously with Payless Car Rental.  It is our policy that customer mail or e-mail information will not be shared with 3rd parties except in the case of contracted partnerships for the purposes of providing added benefits to our customers. Credit information will not be shared with any 3rd party.
 
 Understand that the collection of personal data is necessary to rent a car, enter our sweepstakes or become a member of the Payless Perks program. We believe consumer privacy to be very important; and you have the right to know how that information is being used. The following represents our privacy policy regarding the collection, handling and distribution of your personal data. 
 
 **PERMISSION** : By accessing this website or by entering into a rental agreement with us, or with our franchisees or affiliates, you are giving us, our franchisees and our affiliates permission to use, transmit and store your personal information. 
 
-**SECURITY** : Any substantial personal data received by us through our website is protected and encrypted by Secure Socket Layer (SSL). We have taken what we believe to be reasonable steps to ensure your personal data is accessible only to those whom we designate. 
+**SECURITY** : Any substantial personal data received by us through our website is protected and encrypted by Secure Socket Layer (SSL). We have taken what we believe to be reasonable steps to ensure your personal data is accessible only to those whom we designate.   
 
-We collect customer data in two ways: 
+
+We collect customer data in two ways:
 
 > **1) While making a reservation at Payless.** The information you send will be kept for our records and for our franchisees and affiliates who need that information to provide you a rental car. This information will not be shared with any third parties or any other Payless companies. 
 > 
@@ -22,7 +23,7 @@ We collect customer data in two ways:
 > 
 > If, after signing up for a Payless contest or promotion, you no longer wish to participate, you may Opt-Out of all future mailings from Payless Car Rental System, Inc.
 > 
-> [Click here](https://web.archive.org/customercare-new.asp) to visit the Customer Care page and let us know you'd like to opt-out. 
+> [Click here](https://web.archive.org/customer-care/new-rentals.do) to visit the Customer Care page and let us know you'd like to opt-out. 
 > 
 > Secondly, you may notify us using the “Option Provision” method below, which is a non-electronic version of our Opt-Out system. You may send us a Notification of Removal letter in which, when received by Payless Corporate, we will manually remove your personal information from our promotion database.
 > 
