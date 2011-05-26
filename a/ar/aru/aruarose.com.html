@@ -1,11 +1,11 @@
-<!--The following is the downloaded HTML source of the aruarose.com privacy policy that was archived on 2010-12-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101212043633id_/http%3A//www.aruarose.com/index.php%3Fact%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the aruarose.com privacy policy that was archived on 2011-05-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110526050646id_/http%3A//www.aruarose.com/index.php%3Fact%3Dprivacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head profile="http://www.w3.org/2005/10/profile">
-    <title>ROSE Online (Rush On Seven Episodes) - Free To Play MMORPG</title>
+    <title>ROSE Online - AruaROSE: The Official ROSE Online Free To Play 3D Fantasy MMORPG</title>
     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-    <meta name="description" content="Looking for a Free to Play MMORPG or a Free ROSE Online server? Look no further! Join the largest ROSE Online (Rush On Seven Episodes) International server for free and compete against thousands of other players!">
-    <meta name="keywords" content="AruaROSE, ROSE, ROSE Online, RPG, Role Playing, MMORPG, MMOG, Online Game, Anime, Free To Play">
+	<meta name="description" content="Official website of AruaROSE, the free-to-play 3D fantasy MMORPG game ROSE Online. Free to download, register and play!">
+    <meta name="keywords" content="AruaROSE, ROSE, ROSE Online, free mmo, free to play, f2p, free, massively, multiplayer, online, role playing, free download, Asian MMORPG, online game">
 	<link rel="Shortcut Icon" href="http://www.AruaROSE.com/includes/icon.ico">
 	
 		
@@ -14,38 +14,59 @@
 	<script type="text/javascript" charset="utf-8" src="http://www.AruaROSE.com/includes/jsNew/jQuery.facebox.js"></script>
 	<script type="text/javascript" charset="utf-8" src="http://www.AruaROSE.com/includes/jsNew/jQuery.cookie.js"></script>
 	<script type="text/javascript" charset="utf-8" src="http://www.AruaROSE.com/includes/jsNew/jQuery.tipTip.js"></script>
+	<script type="text/javascript" charset="utf-8" src="http://www.AruaROSE.com/includes/jsNew/jQuery.nivo.slider.js"></script>
 	<script type="text/javascript" charset="utf-8" src="http://www.AruaROSE.com/includes/jsNew/jquery.cluetip.js"></script>
 	<script type="text/javascript" charset="utf-8" src="http://www.AruaROSE.com/includes/jsNew/jQuery.popupWindow.js"></script>
 	<script type="text/javascript" charset="utf-8" src="http://www.AruaROSE.com/includes/jsNew/jQuery.SWF.js"></script>
+	<script type="text/javascript" charset="utf-8" src="http://www.AruaROSE.com/includes/jsNew/jQuery.tablesorter.js"></script>
+	<script type="text/javascript" charset="utf-8" src="http://www.AruaROSE.com/includes/jsNew/jQuery.dataTables.js"></script>
 	<script type="text/javascript" charset="utf-8" src="http://www.AruaROSE.com/includes/jsNew/popup.js"></script>
 	<script type="text/javascript" charset="utf-8" src="http://www.AruaROSE.com/includes/jsNew/login.js"></script>
 	<script type="text/javascript" charset="utf-8" src="http://www.AruaROSE.com/includes/jsNew/menu.js"></script>
+	<script type="text/javascript" charset="utf-8" src="http://www.AruaROSE.com/includes/jsNew/naturalsort.js"></script>
 	
 	<style type="text/css">
-		@import url(http://www.AruaROSE.com/includes/milkbox.css?8236);
-		@import url(http://www.AruaROSE.com/includes/facebox.css?8236);
-		@import url(http://www.AruaROSE.com/includes/tooltips.css?8236);
-		@import url(http://www.AruaROSE.com/includes/tipTip.css?8236);
-		@import url(http://www.AruaROSE.com/includes/style.css?8236);
-		@import url(http://www.AruaROSE.com/includes/navigation.css?8236);
-		@import url(http://www.AruaROSE.com/includes/menu.css?8236);
+		@import url(http://www.AruaROSE.com/includes/milkbox.css?3309);
+		@import url(http://www.AruaROSE.com/includes/facebox.css?3309);
+		@import url(http://www.AruaROSE.com/includes/tooltips.css?3309);
+		@import url(http://www.AruaROSE.com/includes/tipTip.css?3309);
+		@import url(http://www.AruaROSE.com/includes/nivo-slider.css?3309);
+		@import url(http://www.AruaROSE.com/includes/style.css?3309);
+		@import url(http://www.AruaROSE.com/includes/navigation.css?3309);
+		@import url(http://www.AruaROSE.com/includes/menu.css?3309);
+		@import url(http://www.AruaROSE.com/includes/tablesorter.css?3309);
+		@import url(http://www.AruaROSE.com/includes/datatables.css?3309);
+		@import url(http://www.AruaROSE.com/includes/smoothDivScroll.css?3309);
 	</style>
 	
 	<!--[if lte IE 7]>
         <link rel="stylesheet" type="text/css" href="http://www.AruaROSE.com/includes/navigation_ie.css" media="screen" />
     <![endif]-->
+	
+	<!--[if lt IE 8]>
+	<script src="http://ie7-js.googlecode.com/svn/version/2.1(beta4)/IE8.js"></script>
+	<![endif]-->
 <script type="text/javascript">
 $(function() {
 	/* Tooltips */
 	$(".input").tipTip();
 	
 	$(".itemHover").cluetip({
-		showTitle: false
+		showTitle: false,
+		local: false,
+		hideLocal: false,
+		dropShadow: false,
+		arrows: true
 	});
 	
 	/* Facebox */
 	$('a[rel*=facebox]').facebox();
-	$('a[rel*=facybox]').facebox() 
+	$('a[rel*=facybox]').facebox();
+	
+	/* Nivo */
+	$('#slider').nivoSlider({
+		pauseTime: 5000
+	});
 	
 	/* XML Parasing */
 	$.ajax({
@@ -98,6 +119,32 @@ $(function() {
 		});
 	});
 	
+	/* Armory Search */
+	var $placeholder = $('input[placeholder]');
+
+	if ($placeholder.length > 0) {
+
+		var attrPh = $placeholder.attr('placeholder');
+
+		$placeholder.attr('value', attrPh)
+		  .bind('focus', function() {
+
+			var $this = $(this);
+
+			if($this.val() === attrPh)
+				$this.val('').css('color','#171207');
+
+		}).bind('blur', function() {
+
+			var $this = $(this);
+
+			if($this.val() === '')
+				$this.val(attrPh).css('color','#333');
+
+		});
+
+	}
+	
 	/* Stylesheet Switcher */
 	if($.cookie("aruaStyle")) {
 		addCSS($.cookie("aruaStyle"));
@@ -138,19 +185,6 @@ $(function() {
         $(this).removeClass("hover");
         $('ul:first',this).css('visibility', 'hidden');
     }
-
-    /*
-	$("ul.dropdown li").hoverIntent(config);
-    
-    $("ul.dropdown li ul li:has(ul)").find("a:first").append(" &raquo; ");
-	*/
-	
-	$("#header").flash({
-		swf: 	'http://www.aruarose.com/images/site/headers/snow.swf',
-		width:	850,
-		height:	175,
-		wmode: 	'transparent',
-	});
 });
 </script></head>
 
@@ -161,7 +195,7 @@ $(function() {
 <center>
 <div id="main">
 	<div id="header">
-		<!--<img src="http://www.AruaROSE.com/images/site/headers/normal.png" width="850px" height="175px" alt="AruaROSE Header" border="0" />-->		
+		<img src="http://www.AruaROSE.com/images/site/headers/normal.png" width="850px" height="175px" alt="AruaROSE Header" border="0">	
 	</div>
 	
 	<div id="navigationContainer">
@@ -189,40 +223,54 @@ $(function() {
 				<li><a href="http://www.aruarose.com/index.php?act=members&amp;code=purchases">My Purchases</a></li>
 				<li><a href="http://www.aruarose.com/index.php?act=members&amp;code=signatures">My Signatures</a></li>
 				<li><a href="http://www.aruarose.com/index.php?act=members&amp;code=storage">My Storage</a></li>
+				<li><a href="http://www.aruarose.com/index.php?act=members&amp;code=transfer">My Transfers</a>
+					<ul>
+						<li><a href="http://www.aruarose.com/index.php?act=members&amp;code=transfer&amp;step=buyer">Buyer</a></li>
+						<li><a href="http://www.aruarose.com/index.php?act=members&amp;code=transfer&amp;step=seller">Seller</a></li>
+					</ul>
+				</li>
 				<li><a href="http://www.aruarose.com/index.php?act=members&amp;code=mall">Point Mall</a></li>
 			</ul>
 		</li>
-		<!--
-		<li><a href="http://www.aruarose.com/index.php?act=members&code=mall">Point Mall</a>
+		<li><a href="http://www.AruaROSE.com/index.php?act=gameinfo">Game Guides</a>
 			<ul>
-				<li><a href="http://www.aruarose.com/index.php?act=donate">Buy AruaPoints</a></li>
-				<li><a href="http://www.aruarose.com/index.php?act=members&code=mall&step=cat&type=2">Gloves</a></li>
-				<li><a href="http://www.aruarose.com/index.php?act=members&code=mall&step=cat&type=4">Hats</a></li>
-				<li><a href="http://www.aruarose.com/index.php?act=members&code=mall&step=cat&type=1">Masks</a></li>
-				<li><a href="http://www.aruarose.com/index.php?act=members&code=mall&step=cat&type=3">Shoes</a></li>
-				<li><a href="http://www.aruarose.com/index.php?act=members&code=mall&step=cat&type=7">Suits</a></li>
-				<li><a href="http://www.aruarose.com/index.php?act=members&code=mall&step=cat&type=5">Wings</a></li>
-			</ul>
-		</li>
-		-->
-		<li><a href="http://www.AruaROSE.com/index.php?act=gameinfo">Game Info.</a>
-			<ul>
-				<li><a href="http://aruarose.wikia.com/wiki/Job_Classes">Classes</a></li>
-				<li><a href="http://www.aruarose.com/index.php?act=gameinfo&amp;code=gameservers">Game Servers</a></li>
-				<li><a href="http://www.aruarose.com/index.php?act=gameinfo&amp;code=howtoplay">How To Play</a></li>
-				<li><a href="http://aruarose.wikia.com/wiki/Items">Items &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></li>
-				<li><a href="http://aruarose.wikia.com/wiki/Maps">Maps &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></li>
-				<li><a href="http://aruarose.wikia.com/wiki/Monsters">Monsters</a></li>
-				<li><a href="http://aruarose.wikia.com/wiki/NPC">NPCs</a></li>
-				<li><a href="#">Player Rankings</a>
-					<ul class="sub_menu">
-						<li><a href="http://www.aruarose.com/index.php?act=gameinfo&amp;code=gamerscore">GamerScore</a></li>
-						<li><a href="http://www.aruarose.com/index.php?act=gameinfo&amp;code=playerrankings">Level</a></li>
+				<li><a href="">Character Info</a>
+					<ul>
+						<li><a href="/index.php?act=gameinfo&amp;code=classes&amp;step=jobchange">Class Change</a></li>
+						<li><a href="/index.php?act=gameinfo&amp;code=classes&amp;step=dealer">Dealer</a></li>
+						<li><a href="/index.php?act=gameinfo&amp;code=classes&amp;step=hawker">Hawker</a></li>
+						<li><a href="/index.php?act=gameinfo&amp;code=classes&amp;step=muse">Muse</a></li>
+						<li><a href="/index.php?act=gameinfo&amp;code=classes&amp;step=soldier">Soldier</a></li>
 					</ul>
 				</li>
-				<li><a href="http://aruarose.wikia.com/wiki/Storyline">Storyline</a></li>
-				<li><a href="http://www.aruarose.com/index.php?act=gameinfo&amp;code=trailer">Trailer</a></li>
-				<li><a href="http://aruarose.wikia.com/wiki/AruaROSE">Wiki</a></li>
+				<li><a href="">Getting Started</a>
+					<ul>
+						<li><a href="/index.php?act=gameinfo&amp;code=gettingstarted&amp;step=begin">Beginners Guide</a></li>
+						<li><a href="/index.php?act=gameinfo&amp;code=gettingstarted&amp;step=stats">Character Stats</a></li>
+						<li><a href="/index.php?act=gameinfo&amp;code=gettingstarted&amp;step=gui">Game Interface</a></li>
+						<li><a href="/index.php?act=gameinfo&amp;code=gettingstarted&amp;step=installation">Installation Guide</a></li>
+						<li><a href="/index.php?act=gameinfo&amp;code=gettingstarted&amp;step=startup">Startup Guide</a></li>
+						<li><a href="/index.php?act=gameinfo&amp;code=gettingstarted&amp;step=sysreq">System Requirements</a></li>
+					</ul>
+				</li>
+				<li><a href="">Game Basics</a>
+					<ul>
+						<li><a href="/index.php?act=gameinfo&amp;code=gamebasics&amp;step=achievements">Achievements</a></li>
+						<li><a href="/index.php?act=gameinfo&amp;code=gamebasics&amp;step=clans">Clans</a></li>
+						<li><a href="/index.php?act=gameinfo&amp;code=gamebasics&amp;step=crafting">Crafting</a></li>						
+						<li><a href="/index.php?act=gameinfo&amp;code=gamebasics&amp;step=dueling">Dueling</a></li>
+						<li><a href="/index.php?act=gameinfo&amp;code=gamebasics&amp;step=instances">Instances</a></li>
+						<li><a href="/index.php?act=gameinfo&amp;code=gamebasics&amp;step=leveling">Leveling</a></li>
+						<li><a href="/index.php?act=gameinfo&amp;code=gamebasics&amp;step=partying">Partying</a></li>
+						<li><a href="/index.php?act=gameinfo&amp;code=gamebasics&amp;step=pvp">Player vs. Player</a></li>
+						<li><a href="/index.php?act=gameinfo&amp;code=gamebasics&amp;step=refining">Refining</a></li>
+						<li><a href="/index.php?act=gameinfo&amp;code=gamebasics&amp;step=trading">Trading</a></li>
+						<li><a href="/index.php?act=gameinfo&amp;code=gamebasics&amp;step=transport">Transport</a></li>
+						<li><a href="/index.php?act=gameinfo&amp;code=gamebasics&amp;step=unions">Unions</a></li>
+						<li><a href="/index.php?act=gameinfo&amp;code=gamebasics&amp;step=vending">Vending</a></li>
+						<li><a href="/index.php?act=gameinfo&amp;code=gamebasics&amp;step=warehouse">Warehouse</a></li>
+					</ul>
+				</li>
 			</ul>
 		</li>
 		
@@ -235,11 +283,16 @@ $(function() {
 		</li>
 		<li><a href="http://www.AruaROSE.com/index.php?act=support">Support</a>
 			<ul>
-				<li><a href="http://forum.aruarose.com/index.php?/topic/98412-aruarose-client-error-messages/">Error Messages</a></li>
-				<li><a href="http://support.aruarose.com/">Ticket System</a></li>
+				<li><a href="">Common Messages</a>
+					<ul>
+						<li><a href="http://forum.aruarose.com/index.php?/topic/98412-aruarose-client-error-messages/">Client Error Messages</a></li>
+						<li><a href="http://forum.aruarose.com/index.php?/topic/122546-server-disconnected-read-before-posting/">Server Disconnected</a></li>
+						<li><a href="http://forum.aruarose.com/index.php?/topic/111838-technical-faq-read-first/">Technical FAQ</a></li>
+					</ul>
+				</li><li><a href="http://www.aruarose.com/index.php?act=support&amp;code=ticket">Ticket System</a></li>
 			</ul>
 		</li>
-		<li><a href="http://aruarose.wikia.com/wiki/AruaROSE">Wiki</a></li>
+		<li><a href="http://armory.aruarose.com">Armory</a></li>
 		<li><a href="http://www.AruaROSE.com/index.php?act=donate">Donate</a></li>
 	
 		
@@ -282,11 +335,45 @@ $(function() {
 						
 			</div>
 			
+			<!-- Side Buttons -->
+			<div style="float: left; padding: 10px;">
+			
+			<!-- AruaArmory -->
+			<form method="get" action="http://armory.aruarose.com/index.php?act=search" id="search_box">
+				<div class="wrapper">
+					<input type="text" id="search" name="search" placeholder="Search AruaArmory...">
+					<button type="submit" class="search_btn"><img src="http://www.aruarose.com/images/search_icon.png" title="Search"></button>
+				</div>
+			</form>
+			</div>
+			
+			<!-- Voting -->
+			<div id="leftbox">
+				<div id="leftbox_descbox">
+				<div style="padding:1px;">
+					&nbsp; Vote For Us
+				</div>
+				</div>
+			</div>
+			
 			<div style="float:left;width:100%;height:10px;">
 				<!-- AruaROSE! -->
 			</div>
 			
-			<!-- Side Buttons -->
+			<!-- Voting -->
+			<center>
+				<a href="http://www.xtremetop100.com/in.php?site=1132309297" target="_blank">
+					<img src="http://www.xtremeTop100.com/votenew.jpg" border="0" alt="private server">
+				</a>
+				<a href="http://www.gtop100.com/in.php?site=50566" title="Rose Online Top 100" target="_blank">
+					<img src="http://www.gtop100.com/images/votebutton.jpg" border="0" alt="Rose Online Top 100">
+				</a>
+			</center>
+			
+			<div style="float:left;width:100%;height:5px;">
+				<!-- AruaROSE! -->
+			</div>
+			
 			<a href="http://www.AruaROSE.com/index.php?act=downloads" title="Download"><img src="http://www.AruaROSE.com/images/site/download.png" width="180px" height="70px" alt="Download"></a><br>
 			<a href="http://www.AruaROSE.com/index.php?act=register" title="Register"><img src="http://www.AruaROSE.com/images/site/register.png" width="180px" height="70px" alt="Register"></a><br>
 			<a href="http://www.AruaROSE.com/index.php?act=gameinfo&amp;code=howtoplay" title="How To Play"><img src="http://www.AruaROSE.com/images/site/play.png" width="180px" height="70px" alt="Play"></a>
@@ -358,35 +445,17 @@ $(function() {
 			<div id="content">
 
 
-<div id="contentHeader">
-	<div id="innerContentHeader">
-		<h1>Privacy Policy</h1>
-	</div>
-</div>
-
-<br><br><br>
+<h4>Privacy Policy</h4>
 
 Upon registering with AruaROSE, you are required to provide us with your First name, Last Name, Age, and personal Email Address. This information will be used to personalise your experience through the services we provide and we may send you regular personalised emails informing players of Events, News, Updates or other subjects to our choosing.
 <br><br>
 
-<div id="contentSubHeader">
-	<div id="innerContentSubHeader">
-		<h3>Technology Information</h3>
-	</div>
-</div>
-	
-<br><br><br>
+<h5>Technology Information</h5>
 
 For security purposes, we will record your current IP Address and various informations on the browser you are using. We will use this information to monitor how often our services are used by you and also to remember who you are across all of the services provided.
 <br><br>
 
-<div id="contentSubHeader">
-	<div id="innerContentSubHeader">
-		<h3>Information Sharing</h3>
-	</div>
-</div>
-	
-<br><br><br>
+<h5>Information Sharing</h5>
 
 We will not sell, share or make public any personal information held by us to any third parties. This includes, but is not limited to, your First Name, Last Name, Age and Email Address. If, for some reason, we are required to give a third party your personal information, we will do so only with your consent.
 <br><br>
@@ -394,57 +463,27 @@ We will not sell, share or make public any personal information held by us to an
 We may regularly use personal information held by us to offer and provide you customised services.
 <br><br>
 
-<div id="contentSubHeader">
-	<div id="innerContentSubHeader">
-		<h3>Deleteing Personal Information</h3>
-	</div>
-</div>
-	
-<br><br><br>
+<h5>Deleteing Personal Information</h5>
 
 All personal information held by us is tied to a single Account Name chosen by the player upon registration. Account Names and information belonging to an Account Name will never be modified or removed by us. Players are able to edit the personal information that we hold on them through the <a href="http://www.aruarose.com/index.php?act=members&amp;code=account" class="contentLink" title="My Account">My Account</a> section of the website.
 <br><br>
 
-<div id="contentSubHeader">
-	<div id="innerContentSubHeader">
-		<h3>Opt-Out</h3>
-	</div>
-</div>
-	
-<br><br><br>
+<h5>Opt-Out</h5>
 
 By providing us with your personal Email Address, you are automatically agreeing to receive regular emails that we choose to send to all Accounts we hold. Players are able to opt-out from receiving these in the <a href="http://www.aruarose.com/index.php?act=members&amp;code=account" class="contentLink" title="My Account">My Account</a> section of the website.
 <br><br>
 
-<div id="contentSubHeader">
-	<div id="innerContentSubHeader">
-		<h3>Cookies</h3>
-	</div>
-</div>
-	
-<br><br><br>
+<h5>Cookies</h5>
 
 We may store cookies on your Internet Browser to make accessing services we provide easier or for security purposes. Cookies are only temporarily stored on your Internet Browser and you are free to delete them at any time you choose.
 <br><br>
 
-<div id="contentSubHeader">
-	<div id="innerContentSubHeader">
-		<h3>Contact</h3>
-	</div>
-</div>
-	
-<br><br><br>
+<h5>Contact</h5>
 
 Any questions or comments regarding the Privacy Policy should be emailed to <a href="mailto:Matt@AruaROSE.com?SUBJECT=Privacy Policy" class="contentLink" title="Matt@AruaROSE.com">Matt@AruaROSE.com</a>.
 <br><br>
 
-<div id="contentSubHeader">
-	<div id="innerContentSubHeader">
-		<h3>Binding Agreement</h3>
-	</div>
-</div>
-	
-<br><br><br>
+<h5>Binding Agreement</h5>
 
 By the continued use of services provided by us, you are accepting practices set out by our Privacy Policy, and any other policies set before players such as the <a href="http://www.aruarose.com/index.php?act=register" class="contentLink" title="Account Policy">Account Policy</a>. Policies set before players may be ammended without prior notice and it is the players responsibility to check these regularly.
 			</div>
@@ -466,7 +505,7 @@ By the continued use of services provided by us, you are accepting practices set
 	
 	</div>
 	<div id="footer">
-		Local AruaROSE Time: Saturday, 11 December 10:36 (GMT-0600) | <a href="/index.php?act=privacy" title="Privacy Policy">Privacy Policy</a> | <select><option class="aruaStyle" rel="http://www.AruaROSE.com/includes/junon.css">Junon</option><option class="aruaStyle" rel="http://www.AruaROSE.com/includes/luna.css">Luna</option><option class="aruaStyle" rel="http://www.AruaROSE.com/includes/eldeon.css">Eldeon</option><option class="aruaStyle" rel="http://www.AruaROSE.com/includes/oro.css">Oro</option></select>
+		Local AruaROSE Time: Thursday, 26 May 08:05 (GMT+0300) | <a href="/index.php?act=privacy" title="Privacy Policy">Privacy Policy</a> | <select><option class="aruaStyle" rel="http://www.AruaROSE.com/includes/junon.css">Junon</option><option class="aruaStyle" rel="http://www.AruaROSE.com/includes/luna.css">Luna</option><option class="aruaStyle" rel="http://www.AruaROSE.com/includes/eldeon.css">Eldeon</option><option class="aruaStyle" rel="http://www.AruaROSE.com/includes/oro.css">Oro</option></select>
 
 	</div>
 </div>
