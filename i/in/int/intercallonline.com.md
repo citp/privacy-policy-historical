@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intercallonline.com privacy policy that was archived on 2010-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100813141642id_/http%3A//www.intercall.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intercallonline.com privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526104825id_/http%3A//www.intercall.com/privacy.htm) for the most accurate reproduction.*
 
 # InterCall Privacy Policy | Conference Call Company
 
@@ -94,11 +94,11 @@ This Notice applies to the following organizations that are affiliated as part o
 
 The affiliates of West Corporation (“West”) listed above are Business Associates of Covered Entities with which you may do business. These Covered Entities would include, for example, your insurance company, your dentist, your pharmacy, etc. In the capacity of Business Associate, the Covered Entity you use may provide access to a portion of your protected health information to West. We intend to use or disclose your protected health information for the purposes of fulfilling our obligations to the Covered Entity. These uses or disclosures may include, but are not limited to, the following categories and examples:
 
- **Treatment** — We may use protected health information provided to us by your Covered Entity to inform you of approaching events related to your healthcare. For example, we may notify you a prescription is coming up for refill; or, we may call you because it has been a while since you have ordered supplies for a medical condition and it is time to reorder.
+ **Treatment** – We may use protected health information provided to us by your Covered Entity to inform you of approaching events related to your healthcare. For example, we may notify you a prescription is coming up for refill; or, we may call you because it has been a while since you have ordered supplies for a medical condition and it is time to reorder.
 
- **Payment** — We may use protected health information provided to us by your Covered Entity to inform you of issues related to payment for your healthcare. For example, we may notify you of a past due payment on a medical bill.
+ **Payment** – We may use protected health information provided to us by your Covered Entity to inform you of issues related to payment for your healthcare. For example, we may notify you of a past due payment on a medical bill.
 
- **Healthcare operations** — We may use protected health information provided to us by your Covered Entity to assist your Covered Entity in serving you better. For example, we may provide conference capabilities for your physician to consult with other medical staff; we may provide customer service on behalf of your insurance carrier to assist you with your insurance benefits; or, we may provide recall notifications for a recalled medical device you may use.
+ **Healthcare operations** – We may use protected health information provided to us by your Covered Entity to assist your Covered Entity in serving you better. For example, we may provide conference capabilities for your physician to consult with other medical staff; we may provide customer service on behalf of your insurance carrier to assist you with your insurance benefits; or, we may provide recall notifications for a recalled medical device you may use.
 
 * * *
 
@@ -118,21 +118,21 @@ We may contact you on behalf of your Covered Entity as part of their marketing e
 
 Except for the special situations set forth below and the general uses and disclosures described above, we will not use or disclose your protected health information for any other purposes unless you provide a written authorization to your Covered Entity.
 
- **Worker’s Compensation** — We may disclose your protected health information to the extent authorized by and to the extent necessary to comply with laws relating to workers’ compensation or other similar programs established by law.
+ **Worker’s Compensation** – We may disclose your protected health information to the extent authorized by and to the extent necessary to comply with laws relating to workers’ compensation or other similar programs established by law.
 
- **Public Health** — When required or permitted by law, we may disclose your protected health information to public health or legal authorities responsible for preventing or controlling disease, injury or disability or performing other public health functions. In addition, we may disclose your protected health information in order to avert a serious threat to health or safety.
+ **Public Health** – When required or permitted by law, we may disclose your protected health information to public health or legal authorities responsible for preventing or controlling disease, injury or disability or performing other public health functions. In addition, we may disclose your protected health information in order to avert a serious threat to health or safety.
 
- **Specialized Government Functions** — We may disclose your protected health information for military and veterans’ activities, national security and intelligence activities and similar special governmental functions as required or permitted by law.
+ **Specialized Government Functions** – We may disclose your protected health information for military and veterans’ activities, national security and intelligence activities and similar special governmental functions as required or permitted by law.
 
- **Health Oversight Agencies** — We may disclose your protected health information to an appropriate health oversight agency, public health authority or attorney involved in health oversight activities.
+ **Health Oversight Agencies** – We may disclose your protected health information to an appropriate health oversight agency, public health authority or attorney involved in health oversight activities.
 
- **Law Enforcement** — We may disclose your protected health information for law enforcement purposes as required or permitted by law or in response to a valid subpoena, court order or other binding authority.
+ **Law Enforcement** – We may disclose your protected health information for law enforcement purposes as required or permitted by law or in response to a valid subpoena, court order or other binding authority.
 
- **Judicial and Administrative Proceedings** — We may disclose your protected health information for judicial or administrative proceedings as required or permitted by law or in response to a valid subpoena, court order or other binding authority.
+ **Judicial and Administrative Proceedings** – We may disclose your protected health information for judicial or administrative proceedings as required or permitted by law or in response to a valid subpoena, court order or other binding authority.
 
- **Food and Drug Administration (“FDA”)** — We may disclose to the FDA, or an entity subject to FDA jurisdiction, your protected health information for public health purposes related to the quality, safety or effectiveness of an FDA-regulated product or activity for which that person has responsibility. For example, your information may be disclosed in connection with the reporting of an adverse event, product defect, product tracking or to provide post marketing surveillance information.
+ **Food and Drug Administration (“FDA”)** – We may disclose to the FDA, or an entity subject to FDA jurisdiction, your protected health information for public health purposes related to the quality, safety or effectiveness of an FDA-regulated product or activity for which that person has responsibility. For example, your information may be disclosed in connection with the reporting of an adverse event, product defect, product tracking or to provide post marketing surveillance information.
 
- **Disclosures Required by Law** — We may use or disclose your protected health information as required by law provided such use or disclosure complies with and is limited to the relevant requirements of such law.
+ **Disclosures Required by Law** – We may use or disclose your protected health information as required by law provided such use or disclosure complies with and is limited to the relevant requirements of such law.
 
 * * *
 
