@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unlockmobile.org privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231112925id_/http%3A//www.unlockmobile.org/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unlockmobile.org privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526154729id_/http%3A//www.unlockmobile.org/Privacy-Policy) for the most accurate reproduction.*
 
 # Unlockmobile.org - Privacy Policy
 
