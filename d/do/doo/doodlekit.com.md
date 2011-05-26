@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the doodlekit.com privacy policy that was archived on 2009-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090328153018id_/http%3A//doodlekit.com/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doodlekit.com privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526094421id_/http%3A//doodlekit.com/home/privacy) for the most accurate reproduction.*
 
-# Doodlekit | Website Builder | Website Maker | Website Creator - Privacy
+# Privacy - Doodlekit
 
 This privacy notice discloses the privacy practices for ( **www.doodlekit.com** ). This privacy notice applies solely to information collected by this web site. It will notify you of the following:
 
