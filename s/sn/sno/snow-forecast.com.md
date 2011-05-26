@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the snow-forecast.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231015251id_/http%3A//www.snow-forecast.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snow-forecast.com privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526195556id_/http%3A//www.snow-forecast.com/pages/privacy) for the most accurate reproduction.*
 
-# Snow-Forecast.com | Skiing Weather & Snow Reports
+# Snow Forecasts, Snow Reports & Snow Conditions
+
+[Avalanche Safety Gear](http://store.snow-forecast.com/collections/avalanche-transceivers): great deals on transceivers, poles and shovels in our _Online Snow Store_
+
+**The official Snow-Forecast.com iPhone app is now available![click here](http://itunes.apple.com/gb/app/snow-forecast/id418032026?mt=8) to get it**
 
 ## **Privacy Statement for Snow-Forecast.com**
 
