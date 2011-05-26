@@ -1,13 +1,14 @@
-> *The following text is extracted and transformed from the riveroffers.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125030634id_/http%3A//riveroffers.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the riveroffers.com privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526051323id_/http%3A//riveroffers.com/privacy.html) for the most accurate reproduction.*
 
 # RiverOffers.com Privacy Policy
 
-RiverOffers.com is a web site that is owned and operated by Commission River, Inc. and owned subsidiary of Bayhill Capital OTC BB: BHYL
+RiverOffers.com is a web site that is owned and operated by Commission River Corp.
 
 Our mailing address is:
 
-12401 South 450 East, Suite D1  
-Draper, UT 84020
+Commission River Corp.  
+45 W Sego Lily, Suite 220  
+Sandy, UT 84070
 
   
 
