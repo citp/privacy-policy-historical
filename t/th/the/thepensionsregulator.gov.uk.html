@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the thepensionsregulator.gov.uk privacy policy that was archived on 2010-11-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101124134927id_/http%3A//www.thepensionsregulator.gov.uk/privacy-policy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thepensionsregulator.gov.uk privacy policy that was archived on 2011-05-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110526112744id_/http%3A//www.thepensionsregulator.gov.uk/privacy-policy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
   <!-- PageID 42 - published by Open Text Web Solutions 10 - 10.0.1.111 - 30932 -->
@@ -13,6 +13,7 @@
 
   <title>Privacy policy | The Pensions Regulator</title>
   <meta content="text/html; charset=iso-8859-1" http-equiv="content-type">
+  <meta name="description" content="The Pensions Regulator is the regulator of work-based pension schemes in the UK">
   <meta http-equiv="Content-Language" content="en-GB">
   <meta name="DC.coverage.spatial" scheme="ONS SNAC" content="United Kingdom, England, Scotland, Wales">
   <meta name="DC.creator" content="The Pensons Regulator http://www.thepensionsregulator.gov.uk">
@@ -56,10 +57,21 @@
                         $(document).ready(function(){
                             $(".contentTabs").tabs();
                             searchClear();
+                            $("#wysiwygContent a.pdf").before('<span class="pdf">&nbsp;<\/span>');
+                            $("#wysiwygContent a.pdf").removeClass('pdf');
+                            $("#wysiwygContent a.doc").before('<span class="doc">&nbsp;<\/span>');
+                            $("#wysiwygContent a.doc").removeClass('doc');
+                            $("#wysiwygContent a.xls").before('<span class="xls">&nbsp;<\/span>');
+                            $("#wysiwygContent a.xls").removeClass('xls');
+                            $("#wysiwygContent a.ppt").before('<span class="ppt">&nbsp;<\/span>');
+                            $("#wysiwygContent a.ppt").removeClass('ppt');
+                            $("#wysiwygContent a.other").before('<span class="other">&nbsp;<\/span>');
+                            $("#wysiwygContent a.other").removeClass('other');
                         });
   //]]>
   </script><!-- IE6 png fix -->
   <!--[if IE 6]>
+        <link rel="stylesheet" type="text/css" media="screen" href="" />
         <script>
             DD_belatedPNG.fix('.boxOutlineBorder, .boxOutlineBorder .searchBox, .keepUpToDate, .contentBox img');
         </script>
@@ -95,7 +107,7 @@
     <div id="header">
       <div id="globalNav">
         <ul id="globalNavRight">
-          <li class="hidden"><a href="#content" title="" accesskey="s">Skip to content</a></li>
+          <li class="hidden"><a href="#wysiwygContent" title="" accesskey="s">Skip to content</a></li>
 
           <li class="first"><a href="/About-us.aspx" title="About us" accesskey="5"><span>About us</span></a></li>
 
@@ -150,7 +162,7 @@
             </div><!-- End of banner -->
 
             <div class="smplText">
-              <h3>Site usage information</h3>
+              <h2>Site usage information</h2>
 
               <p>The Pensions Regulator uses a web analytics tool from Nedstat to measure and analyse information about the use of this website.</p>
 
@@ -164,17 +176,17 @@
 
               <p>Additionally, we are currently using Google analytics on selected pages of our website. Google's pivacy policy is available at <a class="newWindowR" href="http://www.google.com/privacy.html">www.google.com/privacy.html</a></p>
 
-              <h3>More about cookies</h3>
+              <h2>More about cookies</h2>
 
               <p>A cookie is a small file that contains a unique, anonymous number. It does not contain any personal information. A cookie is stored on your computer when you visit a website and is used to recognise any repeat visits that you make to that site. The cookie cannot be used to identify you on websites of third parties.</p>
 
               <p>It is possible to configure your web browser to refuse cookies or to be informed if a cookie is set. Please refer to your web browser help files for instructions.</p>
 
-              <h3>Log files</h3>
+              <h2>Log files</h2>
 
               <p>The regulator's web communications team periodically analyses the log files for this website. Log files contain data about visitor's use of this website, including IP addresses. Log files do not contain any personal information about you.</p>
 
-              <h4>Email alerts</h4>
+              <h3>Email alerts</h3>
 
               <p>If you subscribe to our news-by-email service your email address will be recorded and stored. We will treat this as proprietary and confidential. You can unsubscribe from this service at any time at which time your email address will be deleted from our news-by-email database.</p>
             </div>
@@ -192,11 +204,15 @@
               <input type="hidden" name="client" value="my_frontend"><input type="hidden" name="proxystylesheet" value="my_frontend"><input type="hidden" name="output" value="xml_no_dtd"><input type="hidden" name="oe" value="UTF-8"><input type="hidden" name="ie" value="UTF-8"><input type="hidden" name="site" value="default_collection">
 
               <fieldset>
-                <ul>
-                  <li id="searchText"><label>Search</label><input name="q" type="text" value="search"></li>
+                <legend>Search form</legend>
 
-                  <li id="searchSubmit"><input type="submit" value="GO"></li>
-                </ul>
+                <div id="searchText">
+                  <label for="q">Search</label><input id="q" name="q" type="text" value="search">
+                </div>
+
+                <div id="searchSubmit">
+                  <input type="submit" value="GO" title="Go">
+                </div>
               </fieldset>
             </form>
           </div><!-- End of boxOutlineBorder -->
@@ -224,7 +240,7 @@
               <ul>
                 <li><a class="email" href="https://forms.thepensionsregulator.gov.uk/subscribe.aspx">Subscribe to news-by-email</a></li>
 
-                <li class="last"><a href="/what-is-rss.aspx" class="rss">Subscribe to news feeds</a></li>
+                <li class="last"><a href="/what-is-rss.aspx" class="rss">Subscribe to news and jobs feeds</a></li>
               </ul>
             </div>
           </div><!-- End of sideBoxWrap -->
@@ -234,7 +250,7 @@
 
       <div id="footer">
         <ul>
-          <li class="first"><a href="/cymraeg.aspx" title="Cymraeg">Cymraeg</a></li>
+          <li class="first"><a href="/cymraeg.aspx" title="Cymraeg" lang="cy" hreflang="cy" xml:lang="cy">Cymraeg</a></li>
 
           <li class=""><a href="/foi.aspx" title="Freedom of information">Freedom of information</a></li>
 
