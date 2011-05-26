@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iloveallaccess.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226011900id_/http%3A//www.iloveallaccess.com/index.php%3Ffile%3Dc-privpol) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iloveallaccess.com privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526222146id_/http%3A//www.iloveallaccess.com/index.php%3Ffile%3Dc-privpol) for the most accurate reproduction.*
 
 # ILoveAllAccess.Com | Where True Fans Get Tickets!
 
