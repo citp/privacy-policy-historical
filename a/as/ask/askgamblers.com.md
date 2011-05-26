@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the askgamblers.com privacy policy that was archived on 2010-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100430200018id_/http%3A//www.askgamblers.com/p-64) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the askgamblers.com privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526154926id_/http%3A//www.askgamblers.com/privacy-policy-p64) for the most accurate reproduction.*
 
 # Please read AskGamblers privacy policy | AskGamblers
 
 ## Privacy Policy
+
+* * *
 
 **1\. General Policy and Information**
 
