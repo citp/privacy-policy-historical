@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bie.org privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125143406id_/http%3A//www.bie.org/legal/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bie.org privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526234429id_/http%3A//www.bie.org/legal/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy Project Based Learning
+# Privacy Policy Project Based Learning | BIE
 
 ## Privacy Policy 
 
