@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blueridgenow.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230230149id_/http%3A//www.blueridgenow.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blueridgenow.com privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526075812id_/http%3A//www.blueridgenow.com/privacypolicy) for the most accurate reproduction.*
 
 # privacypolicy | BlueRidgeNow.com | Times-News
 
