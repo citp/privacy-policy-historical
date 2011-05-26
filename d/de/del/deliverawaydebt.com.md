@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deliverawaydebt.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123222024id_/http%3A//deliverawaydebt.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deliverawaydebt.com privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526193750id_/http%3A//deliverawaydebt.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -22,7 +22,6 @@ We reserve the right to edit or remove comments left on this website at our sole
 **External Links**  
 This web site contains links to other external websites not owned by the owner of this website. We cannot control how your personal information is used on these other websites, so please be sure to see how they use your information by consulting their privacy policies respectively.
 
-  
   
   
   
