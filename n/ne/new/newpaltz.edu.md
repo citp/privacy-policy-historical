@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newpaltz.edu privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125110132id_/http%3A//www.newpaltz.edu/internetprivacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newpaltz.edu privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526030414id_/http%3A//www.newpaltz.edu/internetprivacypolicy.html) for the most accurate reproduction.*
 
 # Welcome to the State University of New York at New Paltz: Internet Privacy Policy
 
@@ -59,7 +59,7 @@ In the event that SUNY New Paltz has collected personal information pertaining t
 SUNY New Paltz is committed to protecting personal information collected through [www.newpaltz.edu](http://www.newpaltz.edu/) against unauthorized access, use or disclosure. Consequently, SUNY New Paltz limits employee access to personal information collected through [www.newpaltz.edu](http://www.newpaltz.edu/) to those employees who need access to the information in the performance of their official duties.
 
 **Cookies**  
-The [Off-Campus Housing Bulletin Board](https://web.archive.org/web/20101125110132id_/http%3A//www.newpaltz.edu/housingbb/) requires users to login before they can post information to the bulletin board. When the user registers, they have the option to have their computer remember their login information ("Store Username and Password") so they won't need to login the next time they visit this site. If the user selects NO for this option, the Web page sets a temporary cookie that expires as soon as the user closes the browser. The purpose of the temporary cookie is to keep track of the user's information while they are viewing/posting to the bulletin board. If the user selects YES for this option, the Web page sets a permanent cookie with the username selected by the user, their e-mail address and their password.
+The [Off-Campus Housing Bulletin Board](https://web.archive.org/web/20110526030414id_/http%3A//www.newpaltz.edu/housingbb/) requires users to login before they can post information to the bulletin board. When the user registers, they have the option to have their computer remember their login information ("Store Username and Password") so they won't need to login the next time they visit this site. If the user selects NO for this option, the Web page sets a temporary cookie that expires as soon as the user closes the browser. The purpose of the temporary cookie is to keep track of the user's information while they are viewing/posting to the bulletin board. If the user selects YES for this option, the Web page sets a permanent cookie with the username selected by the user, their e-mail address and their password.
 
 This is the description that the user sees directly above the option to "Store Username and Password":
 
@@ -72,7 +72,7 @@ The information provided in this privacy policy should not be construed as givin
 For questions regarding this Internet privacy policy, please contact our privacy officer via e-mail at [webmaster@newpaltz.edu](mailto:webmaster@newpaltz.edu) or by regular mail at:
 
 Privacy Compliance Officer  
-Web Management - Office of Public Affairs  
+Web Management - Office of Communication & Marketing  
 SUNY New Paltz  
 1 Hawk Drive   
 New Paltz, NY 12561-2443 
