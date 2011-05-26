@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the miamibeach411.com privacy policy that was archived on 2010-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100902141541id_/http%3A//www.miamibeach411.com/mb411/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the miamibeach411.com privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527002841id_/http%3A//www.miamibeach411.com/mb411/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -37,6 +37,6 @@ With respect to security: we have appropriate security measures in place in our 
 
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our website to notify you of these changes and provide you with the ability to opt out of these new uses. 
 
-For other terms and conditions that apply to your use of the Site, please review our [Legal Statement](https://web.archive.org/web/20100902141541id_/http%3A//www.miamibeach411.com/mb411/copyright.html). 
+For other terms and conditions that apply to your use of the Site, please review our [Legal Statement](https://web.archive.org/web/20110527002841id_/http%3A//www.miamibeach411.com/mb411/copyright.html). 
 
 If you feel that this site is not following its stated information policy, you may contact us at support@miamibeach411.com.
