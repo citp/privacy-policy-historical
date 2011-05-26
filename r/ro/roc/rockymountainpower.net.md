@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rockymountainpower.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611232141id_/http%3A//www.rockymountainpower.net/footer/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rockymountainpower.net privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526234932id_/http%3A//www.rockymountainpower.net/footer/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
@@ -6,4 +6,4 @@ During the application for electric service or other company services, or when u
 
 When you use Rocky Mountain Power's online customer self-service functions, any personal information you enter in fields or forms provided in these services are secured using an industry standard security technology known as Secure Sockets Layer (“SSL”). By using SSL, the Company attempts to safeguard the confidentiality of your user name, password and other personal information. For SSL to work, your browser must be capable of supporting SSL. Please check with your browser manufacturer for details.
 
-Should you apply for credit with Rocky Mounatin Power, we may request information about you from a consumer-reporting agency. In such event, Rocky Mountain Power will not share your consumer report information with any company affiliate or any nonaffiliated third party.
+Should you apply for credit with Rocky Mountain Power, we may request information about you from a consumer-reporting agency. In such event, Rocky Mountain Power will not share your consumer report information with any company affiliate or any nonaffiliated third party.
