@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linkdsl.com privacy policy that was archived on 2010-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100520042726id_/http%3A//www.linkdsl.com/LinkDSL_Code/Pages/PrivacyPolicy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkdsl.com privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526035537id_/http%3A//www.linkdsl.com/LinkDSL_Code/Pages/PrivacyPolicy/Default.aspx) for the most accurate reproduction.*
 
 # Welcome to LINKDSL - Privacy Policy
 
@@ -10,7 +10,7 @@ In addition, our online ordering process requests your contact information, such
 
 We have established multiple security measures to protect against the loss, misuse or alteration of any information under our control. We do not sell personal information to third parties. We will, however, share personal information if we are required by law or, subject to your consent, where a particular service requiring such disclosure is requested by you. 
 
-Please note that our web site contains links to other sites. We are not responsible for the privacy practices of the content of these sites. If you have questions about this privacy statement or the LINKdotNET web site practices, please [contact us](https://web.archive.org/web/20100520042726id_/http%3A//www.linkdsl.com/LinkDSL_Code/Pages/ContactUs/Default.aspx) 
+Please note that our web site contains links to other sites. We are not responsible for the privacy practices of the content of these sites. If you have questions about this privacy statement or the LINKdotNET web site practices, please [contact us](https://web.archive.org/web/20110526035537id_/http%3A//www.linkdsl.com/LinkDSL_Code/Pages/ContactUs/Default.aspx) 
 
   
 
