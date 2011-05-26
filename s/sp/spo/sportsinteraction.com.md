@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportsinteraction.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125142658id_/http%3A//www.sportsinteraction.com/sportsbook/help-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsinteraction.com privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526082426id_/http%3A//www.sportsinteraction.com/sportsbook/help-privacy) for the most accurate reproduction.*
 
 # Privacy Policy From Sports Interaction Sportsbook
 
@@ -97,6 +97,10 @@ Sports Interaction reserves the right to change this privacy statement at any ti
 ### Updating and Changing Information
 
 You can also update or change information which you previously provided us with by [clicking here](http://www.sportsinteraction.com/sportsbook/index.cfm?section=section=myaccount_options&updateSection=mailingAddress&action=display)
+
+### Account Information
+
+Sports Interaction respects your privacy and will not report any information relating to members’ accounts, winnings or losses to any government agencies. It is, therefore, your own responsibility to report any winnings to your respective authorities if this is applicable in your country.
 
 ## Spam Policy
 
