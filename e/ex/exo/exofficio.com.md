@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the exofficio.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229104236id_/http%3A//www.exofficio.com/content/customerservice/privacy_and_security.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exofficio.com privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526150036id_/http%3A//www.exofficio.com/customer-service/privacy) for the most accurate reproduction.*
 
-# ExOfficio - Travel, Outdoor, Camping, Hiking, Safari, Fishing and Adventure Clothing, plus Insect Shield Repellent Apparel. Shirts, pants, shorts, underwear and outerwear for men and women
+# ExOfficio: Privacy and Security
 
-ExOfficio is committed to protecting your privacy. The information collected about you is used to process orders and to offer you a personalized online shopping experience. If you want to know more details about our privacy policy, please continue reading. 
+ExOfficio is committed to protecting your privacy. The information collected about you is used to process orders and to offer you a personalized online shopping experience. If you want to know more details about our privacy policy, please continue reading.
 
-The Information We Gather and How It's Used
+## The Information We Gather and How It's Used
 
   * When you order from ExOfficio online, we need to know your name, e-mail address, mailing address, your credit card number and its expiration date. This information enables us to process and fulfill your order and to notify you of your order status.
   * When you sign up for the ExOfficio Insider Update, you only need to give us your e-mail address.
@@ -15,14 +15,14 @@ The Information We Gather and How It's Used
 
 
 
-Security: How We Protect the Information You Send Us 
+## Security: How We Protect the Information You Send Us
 
-You can be confident that your credit card and personal information will be protected when you shop online with ExOfficio. We use Secure Sockets Layer (SSL) technology to assure the safety of your order. When you place an order, your information is encrypted as it travels the Internet. In addition, once this information reaches ExOfficio, it is NEVER stored online; it is re-encrypted, transmitted through a secure line, and stored off-line. 
+You can be confident that your credit card and personal information will be protected when you shop online with ExOfficio. We use Secure Sockets Layer (SSL) technology to assure the safety of your order. When you place an order, your information is encrypted as it travels the Internet. In addition, once this information reaches ExOfficio, it is NEVER stored online; it is re-encrypted, transmitted through a secure line, and stored off-line.
 
-Information Disclosure and Outside Parties
+## Information Disclosure and Outside Parties
 
-ExOfficio does not sell, trade or rent your personal information with parties outside of ExOfficio. 
+ExOfficio does not sell, trade or rent your personal information with parties outside of ExOfficio.
 
-Customer Consent 
+## Customer Consent
 
-If we make any changes to our online privacy and security policy, those changes will be posted on this page so that you will always know what information is being collected, how it is used, and under what circumstances it is disclosed. 
+If we make any changes to our online privacy and security policy, those changes will be posted on this page so that you will always know what information is being collected, how it is used, and under what circumstances it is disclosed.
