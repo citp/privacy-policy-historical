@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the newyorkpass.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228110829id_/http%3A//www.newyorkpass.com/privacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newyorkpass.com privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527010627id_/http%3A//www.newyorkpass.com/privacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - New York Pass
 
-[Home](https://web.archive.org/web/20101228110829id_/http%3A//www.newyorkpass.com/index.aspx) > [Contact Us](https://web.archive.org/web/20101228110829id_/http%3A//www.newyorkpass.com/contactNYP.aspx) > **Privacy Policy**
+[Home](https://web.archive.org/web/20110527010627id_/http%3A//www.newyorkpass.com/index.aspx) > [Contact Us](https://web.archive.org/web/20110527010627id_/http%3A//www.newyorkpass.com/contactNYP.aspx) > **Privacy Policy**
 
 Leisure Pass North America is committed to protecting your privacy. We will only use the information that we collect about you lawfully (in accordance with the Data Protection Act of 1998)
 
