@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the matchrateplus.com privacy policy that was archived on 2010-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101210060022id_/http%3A//www.matchrateplus.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the matchrateplus.com privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526150825id_/http%3A//matchrateplus.com/Legal/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy
+# Match Rate Plus > Legal > Privacy Policy
 
 MatchRatePLUS.com is committed to protect your privacy, and rigorous procedures have been implemented to ensure this. The following Privacy Policy provides information on how your personal information is collected and used.
 
@@ -43,10 +43,10 @@ We intend to give you as much control as possible over your personal information
 This Web site contains links to other sites that are not owned or controlled by MatchRatePLUS.com. Please be aware that MatchRatePLUS.com is not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies only to information collected by this Web site.
 
 **F. Security:**  
-We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once they receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can send an email to our support department at: support (at) MatchRatePLUS.com
+We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once they receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can send an email to our support department at: [Support@MatchRatePLUS.com](mailto:Support@MatchRatePLUS.com)
 
 **G. How to Contact Us:**  
-If you have any questions about this privacy statement, or would like more information about our company, please contact us at: support (at) MatchRatePLUS.com, or send us a letter to:
+If you have any questions about this privacy statement, or would like more information about our company, please contact us at: [Support@MatchRatePLUS.com](mailto:Support@MatchRatePLUS.com), or send us a letter to:
 
 MatchRatePLUS.com  
 ATTN: Legal Department  
@@ -56,4 +56,4 @@ Phone: (239) 599 3033
 Fax: (239) 599 3034
 
 **H. Changes to our Privacy Policy:**  
-This policy may be revised over time as new features are added to the web site. We will post those changes prominently so that you will always know what information we gather, how we might use that information, and whether we will disclose it to anyone. Please check this site for information about revisions to our privacy policy.
+This policy may be revised over time as new features are added to the web site. We will post those changes prominently so that you will always know what information we gather, how we might use that information, and whether we will disclose it to anyone. Please check this site for information about revisions to our privacy policy. 
