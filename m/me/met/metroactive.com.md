@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metroactive.com privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126133121id_/http%3A//www.metroactive.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metroactive.com privacy policy that was archived on 2011-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110528005600id_/http%3A//www.metroactive.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Metroactive | Metro Newspapers
 
