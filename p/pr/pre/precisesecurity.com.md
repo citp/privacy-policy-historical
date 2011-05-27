@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the precisesecurity.com privacy policy that was archived on 2009-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091124105750id_/http%3A//www.precisesecurity.com/tools-resources/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the precisesecurity.com privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527090535id_/http%3A//www.precisesecurity.com/tools-resources/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
