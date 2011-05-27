@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carrier.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223003439id_/http%3A//www.corp.carrier.com/vgn-ext-templating-carcom/v/index.jsp%3Fvgnextoid%3De1ff0ca5a7508010VgnVCM100000cb890b80RCRD) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carrier.com privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527090454id_/http%3A//www.corp.carrier.com/vgn-ext-templating-carcom/v/index.jsp%3Fvgnextoid%3De1ff0ca5a7508010VgnVCM100000cb890b80RCRD) for the most accurate reproduction.*
 
 # 
 
