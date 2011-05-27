@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the speedywap.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127132934id_/http%3A//www.speedywap.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speedywap.com privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527130827id_/http%3A//www.speedywap.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Technology Social Media Downloads | SpeedyWap
-
-## **Privacy Policy**
+# Privacy Policy | SpeedyWap
 
 **SpeedyWap** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site.
 
