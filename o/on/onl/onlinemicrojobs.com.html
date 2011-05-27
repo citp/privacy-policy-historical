@@ -1,0 +1,1271 @@
+<!--The following is the downloaded HTML source of the onlinemicrojobs.com privacy policy that was archived on 2011-05-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110527182327id_/http%3A//www.onlinemicrojobs.com/privacy.php) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+
+<link href="styles/main.css" rel="stylesheet" type="text/css">
+
+<title>onlinemicrojobs.com - small jobs</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+<meta name="language" content="en">
+
+<meta name="description" content="OnlineMicroJobs will show you how we earn online through this online jobs. ... just go through this website articles and step by step instructions">
+
+<meta name="keywords" content="online jobs, Create online jobs free registration, online pay, withdrawl, deposite,  work, online jobs, Create online jobs free registration, online pay, withdrawl, deposite,  work,online jobs, Create online jobs free registration, online pay, withdrawl, deposite,  work">
+
+<link rel="shortcut icon" href="images/favicon.png">
+
+<script language="Javascript" src="js/div.js"></script>
+
+<script language="Javascript">
+
+
+function divOn (aId_task)
+
+{
+
+	var arrayPageSize = getPageSize();
+
+	var arrayPageScroll = getPageScroll();
+
+	
+
+	//bgrnd4 = '<div style="position:absolute; top:0; left:0; width:100%; height:100%; z-index:300; background-color:#000000; -moz-opacity: 0.6; opacity:.60; filter: alpha(opacity=60);" id=overlay></div>';
+
+	//bgrnd4 = '<div style="position:absolute; top:0; left:0; width: ' + arrayPageSize[0] + '; height:' + arrayPageSize[1] + '; z-index:300; background-color:#000000; -moz-opacity: 0.6; opacity:.60; filter: alpha(opacity=60);" id="overlay"></div>';
+
+	bgrnd4 = '<div style="position:absolute; top:0; left:0; width: 100%; height:' + arrayPageSize[1] + '; z-index:300; background-color:#000000; -moz-opacity: 0.6; opacity:.60; filter: alpha(opacity=60);" id="overlay"></div>';
+
+	document.getElementById("div_popup").innerHTML = bgrnd4;
+
+
+
+	var objFlash = document.getElementById('divek');
+
+	objFlash.style.visibility = "visible";
+
+	objFlash.style.display = 'block';
+
+	objFlash.style.border = "6px solid #4874CD";
+
+	objFlash.style.zIndex = 301;
+
+	objFlash.style.position= "absolute";
+
+	objFlash.style.backgroundColor = "#ffffff";
+
+	
+
+	x = '';	
+
+	x = x + '<table border=0 cellspacing=0 cellpadding=5 width=100%><tr><td align=right>'
+
+	x = x + '<a style="cursor: pointer;" onclick="divOff(); return false;">x<b> close</b></a>';
+
+	x = x + '<b>&nbsp;&nbsp;&nbsp; </b>';
+
+	x = x + '</td></tr></table>';
+
+	x = x + '<iframe name=iframe4 id=iframe4  width=600 height=417 frameborder=0 marginheight=8 marginwidth=8 scrolling=auto></iframe>';
+
+	objFlash.innerHTML = x;
+
+	
+
+	var arrayPageSize = getPageSize();
+
+	var arrayPageScroll = getPageScroll();
+
+
+
+	// center loadingImage if it exists
+
+	if (objFlash)
+
+	{
+
+		objFlash.style.position = 'absolute'; //???
+
+		objFlash.style.top = (((arrayPageSize[3] - 35 - 440) / 2) + 'px');
+
+		objFlash.style.left = (((arrayPageSize[0] - 20 - 600) / 2) + 'px');
+
+		objFlash.style.width = '600';
+
+		objFlash.style.height = '440';
+
+
+
+//		objFlash.style.zIndex = '90';
+
+//		objFlash.style.display = 'block';
+
+	}
+
+	
+
+	var start = new Date();
+
+	var randomnumber=Math.floor(Math.random()*30000);
+
+	xtime = start.getTime();
+
+	dummyvar = xtime + randomnumber;
+
+		
+
+	
+
+	xUrl = "worker_tasks_details.php?dummy=" + dummyvar + "&Id=" + aId_task;
+
+	document.getElementById('iframe4').src = xUrl;
+
+}
+
+
+
+function divOff()
+
+{
+
+	document.getElementById("div_popup").innerHTML = "";
+
+//	document.getElementById("divek").display = "";
+
+	document.getElementById("divek").style.visibility = "hidden";
+
+	
+
+	xUrl = "";
+
+	document.getElementById('iframe4').src = xUrl;
+
+}
+
+
+
+</script>
+
+
+
+<script language="JavaScript">
+
+	
+
+	function show_hide (aId, aAction)
+
+	{
+
+
+
+		var req = null; 
+
+		var start = new Date();
+
+		var randomnumber=Math.floor(Math.random()*30000);
+
+		xtime = start.getTime();
+
+		dummyvar = xtime + randomnumber;
+
+		
+
+		x = 0;
+
+
+
+		//document.ajax.dyn.value="Started...";
+
+ 
+
+		if (window.XMLHttpRequest)
+
+		{
+
+ 			req = new XMLHttpRequest();
+
+
+
+		} 
+
+		else if (window.ActiveXObject) 
+
+		{
+
+			try {
+
+				req = new ActiveXObject("Msxml2.XMLHTTP");
+
+				
+
+			} catch (e)
+
+			{
+
+				try {
+
+					req = new ActiveXObject("Microsoft.XMLHTTP");
+
+					
+
+				} catch (e) {}
+
+			}
+
+			
+
+       	}
+
+
+
+
+
+		req.onreadystatechange = function()
+
+		{ 
+
+			
+
+			//document.ajax.dyn.value="Wait server...";
+
+			if(req.readyState == 4)
+
+			{
+
+				if(req.status == 200)
+
+				{
+
+					//document.ajax.dyn.value="Received:" + req.responseText;	
+
+					
+
+				}	
+
+				else	
+
+				{
+
+					//document.ajax.dyn.value="Error: returned status code " + req.status + " " + req.statusText;
+
+				}	
+
+			} 
+
+		}; 
+
+		
+
+		x = 1;
+
+		xUrl = "jobs_hide_show.php?Action=" + aAction + "&Id=" + aId + "&dummy=" + dummyvar;
+
+		req.open("GET", xUrl, false); 
+
+		req.send(null); 
+
+		
+
+		x = 2;
+
+		xPage_update = "jobs.php?Oto=1" + "&dummy=" + dummyvar;
+
+		req.open("GET", xPage_update, false); 
+
+		req.send(null); 	
+
+		
+
+		d = document.getElementById("jobslist"); 
+
+		d.innerHTML = req.responseText;
+
+		
+
+		
+
+		return true;
+
+	} 
+
+
+
+
+
+	
+
+	</script>
+
+<script language="Javascript">
+
+
+
+
+
+	TaskPrices = new Array();
+
+	TaskPricesUsa = new Array();
+
+
+
+	// all categories - main + sub and prices per task
+
+	
+
+TaskPrices['00'] = 0.00000;
+
+TaskPrices['0000'] = 0.10000;
+
+TaskPrices['0001'] = 0.12000;
+
+TaskPrices['0002'] = 0.10000;
+
+TaskPrices['0003'] = 0.12000;
+
+TaskPrices['02'] = 0.00000;
+
+TaskPrices['0200'] = 0.10000;
+
+TaskPrices['0201'] = 0.15000;
+
+TaskPrices['0202'] = 0.15000;
+
+TaskPrices['0203'] = 0.18000;
+
+TaskPrices['03'] = 0.00000;
+
+TaskPrices['0300'] = 0.10000;
+
+TaskPrices['0301'] = 0.15000;
+
+TaskPrices['0302'] = 0.20000;
+
+TaskPrices['04'] = 0.00000;
+
+TaskPrices['0400'] = 0.10000;
+
+TaskPrices['0401'] = 0.15000;
+
+TaskPrices['0402'] = 0.11000;
+
+TaskPrices['0403'] = 0.12000;
+
+TaskPrices['0404'] = 0.13000;
+
+TaskPrices['05'] = 0.00000;
+
+TaskPrices['0500'] = 0.10000;
+
+TaskPrices['0501'] = 0.12000;
+
+TaskPrices['0502'] = 0.14000;
+
+TaskPrices['0503'] = 0.16000;
+
+TaskPrices['0504'] = 0.10000;
+
+TaskPrices['0505'] = 0.13000;
+
+TaskPrices['0506'] = 0.16000;
+
+TaskPrices['06'] = 0.00000;
+
+TaskPrices['0601'] = 0.15000;
+
+TaskPrices['0602'] = 0.20000;
+
+TaskPrices['0603'] = 0.15000;
+
+TaskPrices['0604'] = 0.20000;
+
+TaskPrices['07'] = 0.00000;
+
+TaskPrices['0700'] = 0.15000;
+
+TaskPrices['0701'] = 0.20000;
+
+TaskPrices['08'] = 0.00000;
+
+TaskPrices['0800'] = 0.50000;
+
+TaskPrices['0801'] = 0.75000;
+
+TaskPrices['0802'] = 0.90000;
+
+TaskPrices['0803'] = 1.25000;
+
+TaskPrices['0804'] = 1.50000;
+
+TaskPrices['0805'] = 0.50000;
+
+TaskPrices['0806'] = 0.75000;
+
+TaskPrices['0807'] = 0.90000;
+
+TaskPrices['0808'] = 1.25000;
+
+TaskPrices['0809'] = 1.75000;
+
+TaskPrices['09'] = 0.00000;
+
+TaskPrices['0900'] = 0.25000;
+
+TaskPrices['0901'] = 0.40000;
+
+TaskPrices['0902'] = 0.60000;
+
+TaskPrices['0903'] = 0.80000;
+
+TaskPrices['10'] = 0.00000;
+
+TaskPrices['1000'] = 0.25000;
+
+TaskPrices['1001'] = 0.35000;
+
+TaskPrices['99'] = 0.00000;
+
+TaskPrices['9900'] = 0.10000;
+
+
+
+
+
+
+
+TaskPricesUsa['00'] = 0.00000;
+
+TaskPricesUsa['0000'] = 0.30000;
+
+TaskPricesUsa['0001'] = 0.32000;
+
+TaskPricesUsa['0002'] = 0.30000;
+
+TaskPricesUsa['0003'] = 0.32000;
+
+TaskPricesUsa['02'] = 0.00000;
+
+TaskPricesUsa['0200'] = 0.30000;
+
+TaskPricesUsa['0201'] = 0.35000;
+
+TaskPricesUsa['0202'] = 0.35000;
+
+TaskPricesUsa['0203'] = 0.38000;
+
+TaskPricesUsa['03'] = 0.00000;
+
+TaskPricesUsa['0300'] = 0.35000;
+
+TaskPricesUsa['0301'] = 0.40000;
+
+TaskPricesUsa['0302'] = 0.50000;
+
+TaskPricesUsa['04'] = 0.00000;
+
+TaskPricesUsa['0400'] = 0.35000;
+
+TaskPricesUsa['0401'] = 0.40000;
+
+TaskPricesUsa['0402'] = 0.36000;
+
+TaskPricesUsa['0403'] = 0.36000;
+
+TaskPricesUsa['0404'] = 0.35000;
+
+TaskPricesUsa['05'] = 0.00000;
+
+TaskPricesUsa['0500'] = 0.35000;
+
+TaskPricesUsa['0501'] = 0.40000;
+
+TaskPricesUsa['0502'] = 0.45000;
+
+TaskPricesUsa['0503'] = 0.50000;
+
+TaskPricesUsa['0504'] = 0.35000;
+
+TaskPricesUsa['0505'] = 0.40000;
+
+TaskPricesUsa['0506'] = 0.42000;
+
+TaskPricesUsa['06'] = 0.00000;
+
+TaskPricesUsa['0601'] = 0.35000;
+
+TaskPricesUsa['0602'] = 0.40000;
+
+TaskPricesUsa['0603'] = 0.35000;
+
+TaskPricesUsa['0604'] = 0.40000;
+
+TaskPricesUsa['07'] = 0.00000;
+
+TaskPricesUsa['0700'] = 0.35000;
+
+TaskPricesUsa['0701'] = 0.40000;
+
+TaskPricesUsa['08'] = 0.00000;
+
+TaskPricesUsa['0800'] = 1.30000;
+
+TaskPricesUsa['0801'] = 1.80000;
+
+TaskPricesUsa['0802'] = 2.80000;
+
+TaskPricesUsa['0803'] = 4.20000;
+
+TaskPricesUsa['0804'] = 5.60000;
+
+TaskPricesUsa['0805'] = 1.50000;
+
+TaskPricesUsa['0806'] = 2.40000;
+
+TaskPricesUsa['0807'] = 3.60000;
+
+TaskPricesUsa['0808'] = 4.20000;
+
+TaskPricesUsa['0809'] = 7.00000;
+
+TaskPricesUsa['09'] = 0.00000;
+
+TaskPricesUsa['0900'] = 0.50000;
+
+TaskPricesUsa['0901'] = 0.80000;
+
+TaskPricesUsa['0902'] = 1.20000;
+
+TaskPricesUsa['0903'] = 2.00000;
+
+TaskPricesUsa['10'] = 0.00000;
+
+TaskPricesUsa['1000'] = 0.50000;
+
+TaskPricesUsa['1001'] = 0.80000;
+
+TaskPricesUsa['99'] = 0.00000;
+
+TaskPricesUsa['9900'] = 0.35000;
+
+
+
+
+
+xSelected_sub_cat = '0000';
+
+xSelected_price = 0;
+
+
+
+function final_cat_and_price()
+
+{
+
+
+
+	CatV = document.getElementById('Cat').value;
+
+//	SubV = document.getElementById('Sub').value;
+
+
+
+	if ((document.getElementById('Sub')== undefined) || (document.getElementById('Sub')== '') || (document.getElementById('Sub')== null))
+
+	{
+
+		FinalCat = CatV;
+
+	}
+
+	else
+
+	{
+
+		SubV = document.getElementById('Sub').value;
+
+		FinalCat = SubV;
+
+	}
+
+			
+
+
+
+//	alert(document.getElementById('Targeting')['INT'].value);
+
+
+
+//chosen_int = document.form2.Targeting[1].checked;
+
+//chosen_us = document.form2.Targeting[0].checked;
+
+
+
+
+
+
+
+chosen_int = document.getElementById("radioint").checked;
+
+chosen_us = document.getElementById("radious").checked;
+
+
+
+
+
+
+
+//alert('int: ' + chosen_int + ' us: '+chosen_us);
+
+		
+
+	if (chosen_int == true)
+
+	{
+
+		FinalPrice = TaskPrices[FinalCat];
+
+	}
+
+	else
+
+	{
+
+		FinalPrice = TaskPricesUsa[FinalCat];
+
+	}
+
+		
+
+	// get correct price and update the number
+
+	
+
+	document.getElementById('pricepertask').innerHTML = ':' + FinalCat + '$' + FinalPrice ;
+
+	
+
+	if (xSelected_price == 0) // first time when we arrive we dont modify anything
+
+	{
+
+		document.getElementById('Payment_per_task').value = FinalPrice.toFixed(2);
+
+	}
+
+	xSelected_price = 0;
+
+	
+
+	calculate_cost();
+
+
+
+}
+
+
+
+
+
+function update_2nd_dropdown()
+
+{
+
+	dd = new Array();
+
+	
+
+	// dropdowns for subcategories
+
+
+
+	
+
+
+
+dd['00'] = '<SELECT onChange="final_cat_and_price()" SIZE=9 NAME=Sub Id=Sub><OPTION value=0000>Click 2x</OPTION><OPTION value=0001>Click 3x</OPTION><OPTION value=0002>Search + Click 1x</OPTION><OPTION value=0003>Search + Click 2x</OPTION></SELECT>';
+
+dd['02'] = '<SELECT onChange="final_cat_and_price()" SIZE=9 NAME=Sub Id=Sub><OPTION value=0200>1 Page</OPTION><OPTION value=0201>2 Pages</OPTION><OPTION value=0202>1 Page + Comment</OPTION><OPTION value=0203>2 Pages + Comment 2x</OPTION></SELECT>';
+
+dd['03'] = '<SELECT onChange="final_cat_and_price()" SIZE=9 NAME=Sub Id=Sub><OPTION value=0300>Simple sign up</OPTION><OPTION value=0301>Sign up to Dating websites - simple</OPTION><OPTION value=0302>Complex Sign up</OPTION></SELECT>';
+
+dd['04'] = '<SELECT onChange="final_cat_and_price()" SIZE=9 NAME=Sub Id=Sub><OPTION value=0400>Short Comment</OPTION><OPTION value=0401>Short Comment with a link</OPTION><OPTION value=0402>Short Comment 2x</OPTION><OPTION value=0403>Short Comment 3x</OPTION><OPTION value=0404>Short Comment 4x + Click 2x</OPTION></SELECT>';
+
+dd['05'] = '<SELECT onChange="final_cat_and_price()" SIZE=9 NAME=Sub Id=Sub><OPTION value=0500>Sign up only</OPTION><OPTION value=0501>Sign up + Post 1x</OPTION><OPTION value=0502>Sign up + Post 2x</OPTION><OPTION value=0503>Sign up + Post 3x</OPTION><OPTION value=0504>Post 2x</OPTION><OPTION value=0505>Post 1x + Link in signature</OPTION><OPTION value=0506>Post 2x + Link in signature</OPTION></SELECT>';
+
+dd['06'] = '<SELECT onChange="final_cat_and_price()" SIZE=9 NAME=Sub Id=Sub><OPTION value=0601>Add me as a Friend</OPTION><OPTION value=0602>Become a Fan</OPTION><OPTION value=0603>Post to your Wall</OPTION><OPTION value=0604>Change profile photo</OPTION></SELECT>';
+
+dd['07'] = '<SELECT onChange="final_cat_and_price()" SIZE=9 NAME=Sub Id=Sub><OPTION value=0700>Follow me on Twitter</OPTION><OPTION value=0701>Post to your Twitter</OPTION></SELECT>';
+
+dd['08'] = '<SELECT onChange="final_cat_and_price()" SIZE=9 NAME=Sub Id=Sub><OPTION value=0800>Write an Article of 45-50 words</OPTION><OPTION value=0801>Write an Article of 85-100 words</OPTION><OPTION value=0802>Write an Article of 185-200 words</OPTION><OPTION value=0803>Write an Article of 275-300 words</OPTION><OPTION value=0804>Write an Article of 375-400 words</OPTION><OPTION value=0805>Re-write an Article of 85-100 words</OPTION><OPTION value=0806>Re-write an Article of 185-200 words</OPTION><OPTION value=0807>Re-write an Article of 275-300 words</OPTION><OPTION value=0808>Re-write an Article of 375-400 words</OPTION><OPTION value=0809>Write an Article of 475-500 words</OPTION></SELECT>';
+
+dd['09'] = '<SELECT onChange="final_cat_and_price()" SIZE=9 NAME=Sub Id=Sub><OPTION value=0900>Text Link to my site</OPTION><OPTION value=0901>Link to my site + Review of at least 50 words</OPTION><OPTION value=0902>Link to my site + Review of at least 100 words</OPTION><OPTION value=0903>Banner + Link to my site</OPTION></SELECT>';
+
+dd['10'] = '<SELECT onChange="final_cat_and_price()" SIZE=9 NAME=Sub Id=Sub><OPTION value=1000>Download only</OPTION><OPTION value=1001>Download + Install</OPTION></SELECT>';
+
+dd['99'] = '<SELECT onChange="final_cat_and_price()" SIZE=9 NAME=Sub Id=Sub><OPTION value=9900>Describe below</OPTION></SELECT>';
+
+	
+
+	
+
+	i = document.getElementById('Cat').selectedIndex;
+
+	v = document.getElementById('Cat').value;
+
+	
+
+	
+
+
+
+	// show 2nd dropdown 
+
+	
+
+
+
+	if ((dd[v] == undefined) || (dd[v] == '') || (dd[v] == null))
+
+	{
+
+		document.getElementById('2nd').innerHTML = "";
+
+	}
+
+	else
+
+	{
+
+		document.getElementById('2nd').innerHTML = dd[v];
+
+	}
+
+	
+
+	
+
+	
+
+	// select 1st option in 2nd dropdown
+
+	
+
+	if ((document.getElementById('Sub')== undefined) || (document.getElementById('Sub')== '') || (document.getElementById('Sub')== null))
+
+	{
+
+	}
+
+	else
+
+	{
+
+		//	document.getElementById('Sub')[xSelected_sub_cat ].selected = true;
+
+		xFound = 0;
+
+
+
+		if (xSelected_sub_cat  != 0) // update only when we came to this HTML for the 1st time
+
+		{
+
+			// select proper sub cat in 2nd dropdown
+
+
+
+			//if ((Sub != undefined) && (Sub != '') && (Sub != null))
+
+			
+
+			for(var i=0;i<document.getElementById('Sub').length;i++)
+
+			{
+
+		
+
+				if(document.getElementById('Sub')[i].value=='0000')
+
+				{
+
+					xFound = 1;
+
+					//alert('MATCHING  sub[i].value=' + Sub[i].value + '........ selected_sub_cat=0000');
+
+					//document.getElementById('Sub')[i].selected = true;
+
+					document.getElementById('Sub').selectedIndex = i;
+
+					// Sub.selectedIndex = i;			
+
+					xSelected_sub_cat = 0;
+
+				}
+
+			}
+
+		}
+
+
+
+		if (xFound == 0)
+
+		{
+
+			document.getElementById('Sub').selectedIndex = 0;
+
+		}
+
+		//	document.getElementById('Sub')[0].selected = true;
+
+	
+
+	}
+
+	
+
+	final_cat_and_price();
+
+
+
+}
+
+
+
+
+
+
+
+
+
+//-----------------------------------------------------
+
+
+
+
+
+function price66(aTarget)
+
+{
+
+//	return;
+
+	//aTarget = 'INT';
+
+	
+
+//	alert(1);
+
+	
+
+	
+
+	if (aTarget == 'USA')
+
+	{
+
+		if (document.getElementById('Payment_per_task').value < 0.35)
+
+		{
+
+			document.getElementById('Payment_per_task').value = 0.35;
+
+		}
+
+	}
+
+	
+
+	
+
+	if (aTarget == 'INT')
+
+	{
+
+		if (document.getElementById('Payment_per_task').value < 0.10)
+
+		{
+
+			document.getElementById('Payment_per_task').value = 0.10;
+
+		}
+
+	}
+
+
+
+	final_cat_and_price();
+
+	calculate_cost();
+
+
+
+
+
+}
+
+
+
+function calculate_cost()
+
+{
+
+	xfee = 0;
+
+	xapproval_fee = 0.75;
+
+
+
+	// cost per position - 2 decimals
+
+	
+
+	x = document.getElementById('Payment_per_task').value;
+
+	x = Math.abs(parseFloat(x).toFixed(2));
+
+	if (isNaN(x)) x = 0;
+
+	x=  x.toFixed(2);
+
+	document.getElementById('Payment_per_task').value = x;
+
+	
+
+	// available position - 0 decimals
+
+
+
+	x = document.getElementById('Available_positions').value;
+
+	x = Math.abs(parseFloat(x).toFixed(0));
+
+	if (isNaN(x)) x = 0;
+
+	document.getElementById('Available_positions').value = x;
+
+
+
+	// minutes - 0 decimals
+
+
+
+	x = document.getElementById('Minutes_to_finish').value;
+
+	x = Math.abs(parseFloat(x).toFixed(0));
+
+	if (isNaN(x)) x = 0;
+
+	document.getElementById('Minutes_to_finish').value = x;
+
+	
+
+	
+
+
+
+
+
+	xPositions = document.getElementById('Available_positions').value;
+
+	xPayment = document.getElementById('Payment_per_task').value;
+
+//	xPayment =  xPayment.toFixed(2);
+
+	
+
+//	xTotal_cost = parseFloat(xPositions * xPayment);
+
+	xTotal_cost = parseFloat(xPositions * xPayment)*(1+xfee/100) + xapproval_fee;
+
+
+
+	
+
+//##	document.getElementById('available_positions2').innerHTML = xPositions;
+
+//##	document.getElementById('payment_per_task2').innerHTML = xPayment;
+
+//##	document.getElementById('total_cost2').innerHTML = xTotal_cost.toFixed(2);
+
+	document.getElementById('total_cost1').innerHTML = xTotal_cost.toFixed(2);
+
+
+
+	return false;
+
+
+
+}
+
+
+
+
+
+
+
+</script>
+
+</head>
+
+<body marginheight="0" marginwidth="0" topmargin="0" leftmargin="0">
+
+
+
+<div align="center">
+  <center>
+  <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="908">
+
+    <tbody><tr>
+      <td width="100%" align="center">
+	  	  <script type="text/javascript"><!--
+google_ad_client = "pub-8969243639856888";
+/* 728x15, created 3/17/11 */
+google_ad_slot = "8767684339";
+google_ad_width = 728;
+google_ad_height = 15;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></td>
+    </tr>
+  </tbody></table>
+  </center>
+</div>
+<div align="center">
+
+	<table border="0" width="908" cellspacing="0" cellpadding="0">
+
+		<tbody><tr>
+
+
+
+			<td><img border="0" src="images/botline.gif" width="908" height="3"></td>
+
+		</tr>
+
+	</tbody></table>
+
+</div>
+
+<table align="center" border="0" cellpadding="0" style="border-collapse: collapse" bordercolor="#111111" width="908" id="AutoNumber4">
+
+    <tbody><tr><td background="images/shdL.gif" width="4">
+
+<img border="0" src="images/p.gif" width="4" height="4"></td>
+
+      <td width="100%">  
+
+  <table border="0" cellpadding="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber6">
+    <tbody><tr>
+
+      <td width="50%" bgcolor="#FFFFFF">
+      <a href="index.php">
+		<img border="0" src="images/logo505.gif" width="387" height="56" hspace="16" vspace="14"></a></td>
+      <td width="50%" bgcolor="#FFFFFF">
+      <p align="right"><a href="index.php">
+      <b>home</b></a><b>&nbsp; </b>|<b>&nbsp; </b><a href="aboutus.php">
+      <b>about us</b></a> <span style="font-size: 11px">&nbsp;&nbsp;&nbsp;&nbsp;
+      </span></p>
+		</td>
+    </tr>
+  </tbody></table>
+   
+<table border="0" cellpadding="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber2" height="30">
+    <tbody><tr>
+      <td bgcolor="#268F15" align="center">
+		<p align="left"><font color="#FFFFFF">&nbsp;&nbsp;&nbsp;&nbsp; <b>&nbsp;Existing user</b></font><b>&nbsp; 
+		</b>
+
+		<a href="login.php"><font color="#FFFF00"><b>Login</b></font></a><b>&nbsp;</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		<font color="#FFFFFF"><b>New user?</b>&nbsp;</font><b><font color="#FFFF00">
+		</font></b> <a href="signup.php"><font color="#FFFF00"><b>Register for 
+		free</b></font></a></p></td>
+      </tr>
+  </tbody></table>
+
+  
+  		</td>
+
+<td align="right" background="images/shdR.gif" width="4">
+
+<img border="0" src="images/p.gif" width="4" height="4"></td>
+
+    </tr>
+
+  </tbody></table><script type="text/javascript" src="js/wz_tooltip.js"></script>
+
+<div align="center">
+
+  <center>  <table align="center" border="0" cellpadding="0" width="908" id="AutoNumber53" style="border-collapse: collapse" bordercolor="#111111">
+    <tbody><tr>
+       <td width="4" bgcolor="#EEEEEE" valign="top" background="images/shdL.gif">
+      <img border="0" src="images/p.gif" width="4" height="4"></td>
+      <td bgcolor="#FFFFFF" align="left">
+          <table border="0" width="100%" cellspacing="0" cellpadding="12">
+			<tbody><tr>
+				<td bgcolor="#F5F5F5">
+
+          <b>&nbsp; Privacy Policy</b></td>
+			</tr>
+			</tbody></table>
+  <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="900" id="AutoNumber52">
+    <tbody><tr>
+      <td width="100%" bgcolor="#dddddd">
+      <img border="0" src="images/p.gif" width="1" height="1"></td>
+    </tr>
+
+  </tbody></table>
+		<table border="0" width="100%" cellspacing="0" cellpadding="20">
+			<tbody><tr>
+				<td>
+					<p style="line-height: 150%;">
+	This policy is effective as of March 1, 2009.</p>
+<p style="line-height: 150%;">
+	Welcome to the onlinemicrojobs Service, a web service utility that connects employers and workers on a micro level. The onlinemicrojobs service is operated by onlinemicrojobs, Inc. and its subsidiaries and affiliates ("us," "we", &nbsp;"onlinemicrojobs", "site" or "onlinemicrojobs.com"). By using or accessing the onlinemicrojobs Service, you agree that you have read, understand and are bound by these Terms of Use ("Terms"). We reserve the right, at our sole discretion, to change or delete portions of these Terms at any time without further notice. Your continued use of the onlinemicrojobs Service after any such changes constitutes your acceptance of the new Terms.</p>
+<p style="line-height: 150%;">
+	<b>onlinemicrojobs Principles</b></p>
+<p style="line-height: 150%;">
+	We built onlinemicrojobs to make it easy to (a) advertise your product (b) find people who will be interested in helping you promote your website, product, etc. (c) find people who will help you do work for you - finish tasks you usually are not able to finish yourself or you want more people to work on a task (d) convert your work into earnings. We understand you may not want everyone in the world to access your personal information; that is why all personal information is hidden from other users. Our &nbsp;privacy settings is very strict and does not allow other users to see any of your personal information except your onlinemicrojobs ID.</p>
+<p style="line-height: 150%;">
+	onlinemicrojobs does not share information with other users. As employer you choose what information you put in response to replying to a worker. As a worker you choose what information you put in response to replying to an employer. We suggest you not to reply with any personal information such as your MSN ID, Skype ID, Email, phone number, etc.. There is no need to publish any of your personal information as all communication in onlinemicrojobs system is based upon user ID.</p>
+<p style="line-height: 150%;">
+	If you are trying to submit finished task and campaign (job) is asking you to (requires you to) &nbsp;enter personal information, credit card information or any other information about you, such campaign violates onlinemicrojobs principles and you should not continue. We suggest you not to continue with that campaign and immediately report this violation to us. Use Contact us form or PlainJob's email and report campaign/job ID and disclose as many details as possible. We will make sure to immediately terminate campaigns that violates our rules.</p>
+<p style="line-height: 150%;">
+	<b>Safe Use of onlinemicrojobs</b></p>
+<p style="line-height: 150%;">
+	In general onlinemicrojobs is suitable for everyone but certain jobs might not be acceptable for some people. If you are a child, below 21 years old or feel offended by adult material, please do not accept a job that might be offensive to you. You should not accept any job that feels offensive or disturbing to you. Every job details should describe what is it about. If you think the job might be offensive, do not continue and do not accept that job. There are plenty of other jobs to select from.</p>
+<p style="line-height: 150%;">
+	<b>The Information We Collect</b></p>
+<p style="line-height: 150%;">
+	When you visit onlinemicrojobs you provide us with two types of information: personal information you knowingly choose to disclose that is collected by us and Web Site use information collected by us as you interact with our Web Site.</p>
+<p style="line-height: 150%;">
+	When you register with onlinemicrojobs, you provide us with certain personal information, such as your name, your email address, your telephone number, your address &nbsp;and any other personal or preference information that you provide to us.</p>
+<p style="line-height: 150%;">
+	When you enter onlinemicrojobs, we collect your browser type and IP address. This information is gathered for all onlinemicrojobs visitors. In addition, we store certain information from your browser using "cookies." A cookie is a piece of data stored on the user's computer tied to information about the user. We use session ID cookies to confirm that users are logged in. These cookies terminate once the user closes the browser. By default, we use a persistent cookie that stores your login information so you don't have to login again when you come back to onlinemicrojobs. You can remove or block this cookie using the settings in your browser if you want to disable this convenience feature. If you don't want other people who use same computer to login to your onlinemicrojobs account then you should always log out of your account after finishing with your activities.</p>
+<p style="line-height: 150%;">
+	You post new campaigns or submit finished tasks on the Site at your own risk. Although you should never disclose your personal information to other users you communicate with, please be aware that no security measures are perfect or impenetrable. We cannot control the actions of other Users with whom you may choose to share information. Therefore, we cannot and do not guarantee that information you post on the Site will not be viewed by unauthorized persons. We are not responsible for circumvention of any privacy settings or security measures contained on the Site. You understand and acknowledge that, even after removal or termination of your account, copies of User Content and your previous actions may remain viewable in cached and archived pages.</p>
+<p style="line-height: 150%;">
+	Any improper collection or misuse of information provided on onlinemicrojobs is a violation of the onlinemicrojobs Terms of Service and should be reported to us using onlinemicrojobs' email published on the Site.</p>
+<p style="line-height: 150%;">
+	If you choose to use our invitation service to tell a friend about our site, we will ask you for information needed to send the invitation, such as your friend's email address. We will send your friend an email or instant message in your name inviting him or her to visit the site, and may send up to two reminders to them. onlinemicrojobs stores this information to send invitations and reminders, to register a friend connection if your invitation is accepted, to allow you to see invitations you have sent, and to track the success of our referral program. Your friend may contact us through the Contact us form on our Contact us or to onlinemicrojobs' email published on the Site to request that we remove this information from our database.</p>
+<p style="line-height: 150%;">
+	onlinemicrojobs may also collect information about you from other sources, such as newspapers, blogs, instant messaging services, etc. in order to provide you with more useful information and a more personalized experience.</p>
+<p style="line-height: 150%;">
+	By using onlinemicrojobs, you are consenting to have your personal data transferred to and processed in the United States and EU countries.</p>
+<p style="line-height: 150%;">
+	<b>Children Under Age 13</b></p>
+<p style="line-height: 150%;">
+	onlinemicrojobs does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register. If you are under 13, please do not attempt to register for onlinemicrojobs or send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 may provide any personal information to or on onlinemicrojobs. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us through the Contact us form or via onlinemicrojobs' email which are both available on the Site.</p>
+<p style="line-height: 150%;">
+	<b>Children Between the Ages of 13 and 18</b></p>
+<p style="line-height: 150%;">
+	We recommend that minors 13 years of age or older ask their parents for permission before sending any information about themselves to anyone over the Internet.</p>
+<p style="line-height: 150%;">
+	<b>Use of Information Obtained by onlinemicrojobs</b></p>
+<p style="line-height: 150%;">
+	When you register with onlinemicrojobs, you create your own account. Your profile information and email &nbsp;are not displayed to other users. Unless you decide to share your personal information with other users, the only information displayed is your account ID. We may occasionally use your name and email address to send you notifications regarding new services offered by onlinemicrojobs that we think you may find valuable.</p>
+<p style="line-height: 150%;">
+	We will also use your mailing address information to send you a PIN code you need to activate payments to you. In case you select check as payment option we will send a check payment to you directly.</p>
+<p style="line-height: 150%;">
+	onlinemicrojobs may send you service-related announcements from time to time through the general operation of the service. For instance, if another users sends you a message regarding a job or a task, you may receive an email alerting you to that fact.</p>
+<p style="line-height: 150%;">
+	Generally, you may opt out of such emails by changing notification settings under "My Account" tab, though onlinemicrojobs reserves the right to send you notices about your account even if you opt out of all voluntary email notifications.</p>
+<p style="line-height: 150%;">
+	We may use information about you that we collect from other sources, including but not limited to newspapers and Internet sources such as blogs, instant messaging services, onlinemicrojobs Platform developers and other users of onlinemicrojobs, to supplement your profile. Where such information is used, we generally allow you to specify in your privacy settings that you do not want this to be done or to take other actions that limit the connection of this information to your profile.</p>
+<p style="line-height: 150%;">
+	<b>Sharing Your Information with Third Parties</b></p>
+<p style="line-height: 150%;">
+	onlinemicrojobs will not share information in your profile with third parties.</p>
+<p style="line-height: 150%;">
+	<b>Users data </b></p>
+<p style="line-height: 150%;">
+	When you use onlinemicrojobs certain information you post or share with other users, such as personal information, campaign data, task data, comments, messages, photos, videos or other information, may be shared with other users. All such sharing of information is done at your own risk. Please keep in mind that when posting any information about a) campaigns or b) tasks to onlinemicrojobs this information may become publicly available.</p>
+<p style="line-height: 150%;">
+	<b>Links</b></p>
+<p style="line-height: 150%;">
+	onlinemicrojobs may contain links to other websites. We are of course not responsible for the privacy practices of other web sites. We encourage our users to be aware when they leave our site or to visit any website they find on onlinemicrojobs to read the privacy statements of each and every web site that collects personally identifiable information. This Privacy Policy applies solely to information collected by onlinemicrojobs.</p>
+<p style="line-height: 150%;">
+	<b>Third Party Advertising</b></p>
+<p style="line-height: 150%;">
+	Advertisements that appear on onlinemicrojobs are sometimes delivered (or "served") directly to users by third party advertisers. They automatically receive your IP address when this happens. These third party advertisers may also download cookies to your computer, or use other technologies such as JavaScript and "web beacons" (also known as "1x1 gifs") to measure the effectiveness of their ads and to personalize advertising content. Doing this allows the advertising network to recognize your computer each time they send you an advertisement in order to measure the effectiveness of their ads and to personalize advertising content. In this way, they may compile information about where individuals using your computer or browser saw their advertisements and determine which advertisements are clicked. onlinemicrojobs does not have access to or control of the cookies that may be placed by the third party advertisers. Third party advertisers have no access to your contact information stored on onlinemicrojobs unless you choose to share it with them.</p>
+<p style="line-height: 150%;">
+	This privacy policy covers the use of cookies by onlinemicrojobs and does not cover the use of cookies or other tracking technologies by any of its advertisers.</p>
+<p style="line-height: 150%;">
+	<b>Changing or Removing Information</b></p>
+<p style="line-height: 150%;">
+	onlinemicrojobs users may modify or delete any of their profile information at any time by sending an email to onlinemicrojobs and request such action to be taken. Information will be updated if onlinemicrojobs staff determines user did a mistake when submitting personal information, mail address, email or any other information submitted. Individuals who wish to deactivate their onlinemicrojobs account may do so by contaction us and request account termination. We will terminate the account. Once account is terminated user will not be able to login and perform any actions otherwise available in onlinemicrojobs system. Removed information may persist in backup copies for a reasonable period of time but will not be generally available to other members of onlinemicrojobs.</p>
+<p style="line-height: 150%;">
+	Where you make use of the communication features of the service to share information with other individuals on onlinemicrojobs, however, (e.g., sending a personal message to another onlinemicrojobs user) or information that was shared by starting a campaign, submitting or rating a task you generally cannot remove such information.</p>
+<p style="line-height: 150%;">
+	<b>Security</b></p>
+<p style="line-height: 150%;">
+	All data entered by our users (except some payment information) is saved on onlinemicrojobs servers. Servers are based in United States operated by a hosting company. Hosting company should is responsible to update the server(s) with latest patches and prevent any possible attacks and prevent other people than those authorized by onlinemicrojobs staff from accessing onlinemicrojobs database.</p>
+<p style="line-height: 150%;">
+	onlinemicrojobs takes appropriate precautions to protect our users' information. Your account information is located on a secured server behind a firewall. When you enter sensitive information (such as credit card number or your password), that information is always entered and processed at online payment system services such as Paypal or 2Checkout or others that are &nbsp;used to perform transactions. Before initiating payment to onlinemicrojobs make sure to read Terms and Privacy policy at Paypal.com and 2Checkout.com.</p>
+<p style="line-height: 150%;">
+	Because email and instant messaging are not recognized as secure communications, we request that you not send private information to us by email or instant messaging services. If you have any questions about the security of onlinemicrojobs Web Site, please contact us through the Contact us form or via onlinemicrojobs email published on the Site.</p>
+<p style="line-height: 150%;">
+	<b>Terms of Use, Notices and Revisions</b></p>
+<p style="line-height: 150%;">
+	Your use of onlinemicrojobs, and any disputes arising from it, is subject to this Privacy Policy as well as our Terms of Use and all of its dispute resolution provisions including arbitration, limitation on damages and choice of law. We reserve the right to change our Privacy Policy and our Terms of Use at any time. Non-material changes and clarifications will take effect immediately, and material changes will take effect within 30 days of their posting on this site. If we make changes, we will post them and will indicate at the top of this page the policy's new effective date. If we make material changes to this policy, we will notify you here, by email, or through notice on our home page. We encourage you to refer to this policy on an ongoing basis so that you understand our current privacy policy. Unless stated otherwise, our current privacy policy applies to all information that we have about you and your account.</p>
+<p style="line-height: 150%;">
+	<b>Contacting the Web Site</b></p>
+<p style="line-height: 150%;">
+	If you have any questions about this privacy policy, please contact us through the Contact us form or via onlinemicrojobs email published on the Site.</p>
+ 
+      	    	</td>
+		    </tr>
+		</tbody></table>
+      <p>&nbsp;</p>
+		<p>&nbsp;</p>
+      <p>&nbsp;</p>
+      </td>
+       <td width="4" bgcolor="#EEEEEE" valign="top" background="images/shdR.gif">
+      <img border="0" src="images/p.gif" width="4" height="4"></td>
+    </tr>
+
+  </tbody></table>
+</center>
+</div>
+<div align="center">
+	<table border="0" width="900" cellspacing="0" cellpadding="0">
+		<tbody><tr>
+			<td bgcolor="#CCCCCC">
+			<img border="0" src="images/p.gif" width="1" height="1"></td>
+
+		</tr>
+	</tbody></table>
+</div>
+<div align="center">
+	<table border="0" width="908" cellspacing="0" cellpadding="0">
+		<tbody><tr>
+			<td><img border="0" src="images/botline.gif" width="908" height="3"></td>
+		</tr>
+	</tbody></table>
+</div>
+
+<div align="center">
+  <center>
+	<table border="0" cellpadding="5" width="890" style="border-collapse: collapse" bordercolor="#111111">
+		<tbody><tr>
+			<td width="" valign="top">
+			<p align="center" style="line-height: 150%">
+			<span style="font-size: 11px">© 2011 onlinemicrojobs.com, All Rights Reserved&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
+			<a href="terms.php"><b>
+
+			<span style="font-size: 11px"><font face="Arial,Helvetica,Tahoma">Terms 
+      of use</font></span></b></a><font face="Arial,Helvetica,Tahoma"><span style="font-size: 11px">&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</span></font><a href="privacy.php"><b><span style="font-size: 11px"><font face="Arial,Helvetica,Tahoma">Privacy 
+      Policy</font></span></b></a><font face="Arial,Helvetica,Tahoma"><span style="font-size: 11px">&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</span></font><a href="faq.php"><b><span style="font-size: 11px"><font face="Arial,Helvetica,Tahoma">FAQ</font></span></b></a><font face="Arial,Helvetica,Tahoma"><span style="font-size: 11px">&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</span></font><b><span style="font-size: 11px; font-weight:700"><font face="Arial,Helvetica,Tahoma"><a href="contact.php"><span style="font-size: 11px">Contact 
+		Us</span></a></font></span></b><br>
+            <span style="font-size: 11px">Developed by:&nbsp;<a href="http://www.OnlineMicroJobs.com" target="_blank">OnlineMicroJobs.com</a></span></p></td>
+		</tr>
+	</tbody></table></center>
+</div><p align="center">
+
+
+
+
+</p></body></html>
