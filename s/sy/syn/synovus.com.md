@@ -1,14 +1,17 @@
-> *The following text is extracted and transformed from the synovus.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225110752id_/http%3A//www.synovus.com/index.cfm%3Fcatid%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the synovus.com privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527034452id_/http%3A//www.synovus.com/index.cfm%3Fcatid%3Dprivacy) for the most accurate reproduction.*
 
 # Synovus
 
   
 |   
 ---  
-12/24/10 5:00 PM  
+5/26/11 5:00 PM  
 **Synovus**  
-SNV: | **$2.69** |  0.00 |  0.00%  
+SNV: | **$2.41** | \+ 0.05 | \+ 2.12%  
 Buy Synovus Stock  
+  
+Rev. September 2010
+
 | FACTS | **WHAT DOES SYNOVUS FINANCIAL CORP (SYNOVUS) DO WITH YOUR PERSONAL INFORMATION?**  
 ---|---  
 Why? | Financial companies choose how they share your personal information. Federal law gives consumers the right to limit some but not all sharing. Federal law also requires us to tell you how we collect, share, and protect your personal information. Please read this notice carefully to understand what we do.  
