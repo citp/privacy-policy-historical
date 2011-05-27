@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freehostingcloud.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225002519id_/http%3A//www.freehostingcloud.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freehostingcloud.com privacy policy that was archived on 2011-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110528011756id_/http%3A//www.freehostingcloud.com/privacy.html) for the most accurate reproduction.*
 
 # FreeHostingCloud
 
