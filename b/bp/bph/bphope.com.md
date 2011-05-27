@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bphope.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224044501id_/http%3A//www.bphope.com/Item.aspx/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bphope.com privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527125838id_/http%3A//bphope.com/Item.aspx/privacy) for the most accurate reproduction.*
 
 # Bipolar Disorder Magazine - Privacy & Security | bphope
 
