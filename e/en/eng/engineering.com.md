@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the engineering.com privacy policy that was archived on 2010-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100731122441id_/http%3A//www.engineering.com/Home/PrivacyPolicy/tabid/197/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the engineering.com privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527183429id_/http%3A//www.engineering.com/Home/PrivacyPolicy/tabid/197/Default.aspx) for the most accurate reproduction.*
 
 # ENGINEERING.com | Privacy Policy
 
-Introduction  
 We at ENGINEERING.com, Inc. ("ENGINEERING.com") are committed to respecting your online privacy and recognize your need to protect any personal identification information ("Personal Information") you share with us. Accordingly, ENGINEERING.com has established this Online Privacy Policy. 
 
 Personal Information means any information that may be used to identify you, including, but not limited to, your first and last name, your home or work address and an email address or other contact information. We have designed ENGINEERING.com's Web pages in such a way that you can visit most public areas without telling us who you are or revealing any Personal Information about yourself. 
