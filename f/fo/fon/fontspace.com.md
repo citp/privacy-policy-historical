@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fontspace.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227011555id_/http%3A//www.fontspace.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fontspace.com privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527231854id_/http%3A//www.fontspace.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
