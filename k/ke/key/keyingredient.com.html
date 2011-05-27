@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the keyingredient.com privacy policy that was archived on 2010-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101231042227id_/http%3A//www.keyingredient.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the keyingredient.com privacy policy that was archived on 2011-05-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110527232358id_/http%3A//www.keyingredient.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 	<script type="text/javascript">var _sf_startpt=(new Date()).getTime();</script>
@@ -54,6 +54,16 @@ function loadAnalytics() {
 		onload: function() {
 			_qacct="p-2bof0y5OeJBJ6";
 			quantserve();
+		}
+	});
+	
+	/* Get Satisfaction */
+	var gs_host = is_ssl ? "https://s3.amazonaws.com/getsatisfaction.com/" : "http://s3.amazonaws.com/getsatisfaction.com/";
+	var gsJs = Asset.javascript(gs_host + "javascripts/feedback-v2.js", {
+		onload: function(){
+			GSFN.feedback_widget.prototype.local_base_url = "http://feedback.keyingredient.com";
+  			GSFN.feedback_widget.prototype.local_ssl_base_url = "http://feedback.keyingredient.com";
+  			var feedback_widget = new GSFN.feedback_widget(feedback_widget_options);
 		}
 	});
 	
