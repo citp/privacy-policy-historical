@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the explainthatstuff.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223145710id_/http%3A//explainthatstuff.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the explainthatstuff.com privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527105106id_/http%3A//www.explainthatstuff.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy: Explain that Stuff!
 
-_Last updated: 27 May 2010._
+_Last updated: 7 May 2011._
 
 We take the issue of Internet privacy (what happens to people's personal information) very seriously.
 
@@ -10,7 +10,7 @@ Here (in plain English) are full details explaining what information our site co
 
 ### What information do we collect?
 
-Like every other website on the Net, our site is hosted on a web server (a powerful computer at our ISP) that keeps a log of all the pages and graphics it serves and where it sends them to. This information is essentially anonymous and statistical: it tells us how many people from Iceland looked at our site last Thursday, but it doesn't tell us anything personal about them. We don't know who those people were, whether they were fishermen or fighter pilots, or what colour socks they were wearing at the time. 
+Like every other website on the Net, our site is hosted on a web server (a powerful computer at our ISP) that keeps a log of all the pages and graphics it serves and where it sends them to. This information is essentially anonymous and statistical: it tells us how many people from Iceland looked at our site last Thursday, but it doesn't tell us anything personal about them. We don't know who those people were, whether they were fishermen or fighter pilots, or what colour socks they were wearing at the time.
 
 The logs don't tell us who you are or where you live—but they do record your IP number (a number that uniquely identifies your computer). They also note what you looked at or downloaded, the operating system and browser you're using, the date and time of your visit, how you came to our site, and so on. Here is an example of one line from our log, recording one hit from one visitor using the (made-up) IP number 12.34.56.78:
 
@@ -30,12 +30,7 @@ Please be aware, however, that our website runs advertisements on most pages and
 
 We have no control over these "third-party cookies" (as they are known). We do not see or have access to any information they may store or collect. They pass directly between your computer and the servers run by our advertisers and affiliate partners. If you would like to know more about how our advertisers and affiliate partners may be using cookies, please refer to the privacy policies on their websites for more information.
 
-At the moment, Google and Amazon are the only advertisers and affiliate partners we are working with. 
-
-  * Google, as a third party vendor, uses cookies (including the [DoubleClick DART cookie](http://www.doubleclick.com/privacy/faq.aspx)) to serve advertisements on our website. Google's use of the DART cookie enables it to serve ads to our users based on their visit to our site and other sites on the Internet. You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). You can learn more about how Google safeguards your privacy by visiting [Google's Privacy Policy](http://www.google.com/privacy.html) website. 
-  * For detailed information about Amazon's use of cookies and personal information, please visit the [Amazon.com Privacy Notice](http://www.amazon.com/privacy) page.
-
-
+At the moment, Google is the only advertiser we are working with.  Google, as a third party vendor, uses cookies (including the [DoubleClick DART cookie](http://www.doubleclick.com/privacy/faq.aspx)) to serve advertisements on our website. Google's use of the DART cookie enables it to serve ads to our users based on their visit to our site and other sites on the Internet. You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). You can learn more about how Google safeguards your privacy by visiting [Google's Privacy Policy](http://www.google.com/privacy.html) website. 
 
 ### How can you control your privacy?
 
@@ -43,11 +38,12 @@ If you're concerned about cookies, you can change the options in your Web browse
 
 ### How can you find out more about privacy issues?
 
-These sites may help you: 
+These sites may help you:
 
+  * [Your Online Choices](http://www.youronlinechoices.com/): A simple guide to how and why advertisers use cookies and how you can control your privacy online. Written mainly for European users.
   * [How Cookies Work](http://www.howstuffworks.com/cookie.htm): From Howstuffworks.
   * [HTTP cookies](http://en.wikipedia.org/wiki/HTTP_cookie): Wikipedia has a fairly lengthy explanation of the issue and links to further information.
 
 
 
-We hope this answers any concerns you have about privacy. If you have any further queries, please don't hesitate to contact us at the email address shown on our [about us](https://web.archive.org/web/20101223145710id_/http%3A//explainthatstuff.com/aboutus.html) page. 
+We hope this answers any concerns you have about privacy. If you have any further queries, please don't hesitate to contact us at the email address shown on our [about us](https://web.archive.org/web/20110527105106id_/http%3A//www.explainthatstuff.com/aboutus.html) page. 
