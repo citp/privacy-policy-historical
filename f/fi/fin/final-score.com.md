@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the final-score.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225183339id_/http%3A//www.final-score.com/content/custserv/help--privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the final-score.com privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527020256id_/http%3A//www.final-score.com/content/custserv/help--privacyPolicy) for the most accurate reproduction.*
 
 # Final Score - Discount Shoes and Apparel
 
