@@ -1,54 +1,65 @@
-> *The following text is extracted and transformed from the adplexity.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120234156id_/http%3A//www.adplexity.com/content/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adplexity.com privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527025001id_/http%3A//adplexity.com/content/privacypolicy) for the most accurate reproduction.*
 
 # Privacy policy - Adplexity LLC Pay Per Click Search Engine Solutions
 
-**What information do we collect?**
+**Adplexity LLC** maintains the web site (www.adplexity.com). The following statement applies only to members of the company or those affiliated in any way and is intended to address concerns about the types of information gathered from the public, if any, and how that information is used.
 
-We collect information from you when you register on our site. 
+**I. Notice of Personal Information**
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.
+The following notice is provided in accordance with Section 559.003(a) of the Texas Government Code:
 
- **What do we use your information for?**
+With few exceptions, you are entitled on your request to be informed about the information Adplexity LLC collects about you;Under Sections 552.021 and 552.023 of the Texas Government Code, you are entitled to receive and review the information; and Under Section 559.004 of the Texas Government Code, you are entitled to have Adplexity LLC correct information about you that is held by Adplexity LLC and is incorrect.
 
-Any of the information we collect from you may be used in one of the following ways: 
+The information that Adplexity LLC collects will be retained and maintained as required by Texas records retention laws (Section 441.180 et. Seq. of the Texas Government Code) and rules. Different types of information are kept for different periods of time.
 
-• To personalize your experience  
-(your information helps us to better respond to your individual needs)
+**II.Cookies**
 
-• To send periodic emails 
+A "cookie" is a small file containing information that is placed on a user's computer by a web server. Typically, these files are used to enhance the user's experience of the site, to help users move between pages in a database, or to customize information for a user.
 
-The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
+Any information that Adplexity LLC web servers may store in cookies is used for internal purposes only. Cookie data is not used in any way that would disclose personally identifiable information to outside parties unless Adplexity LLC is legally required to do so in connection with law enforcement investigations or other legal proceedings.
 
- **How do we protect your information?**
+**III. Logs and Network Monitoring**
 
-We implement a variety of security measures to maintain the safety of your personal information when you access your personal information. 
+Adplexity LLC maintains log files of all access to its site and also monitors network traffic for the purposes of site management. This information is used to help diagnose problems with the server and to carry out other administrative tasks. Log analysis tools are also used to create summary statistics to determine which information is of most interest to users, to identify system problem areas, or to help determine technical requirements.
 
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
+Information such as the following is collected in these files:
 
-After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
+**Hostname** :  the hostname and/or IP address of the computer requesting access to the site
 
- **Do we use cookies?**
+**User-Agent** :  the type of browser, its version, and the operating system of the computer requesting access.
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+**Referrer** :  the web page the user came from
 
-We use cookies to understand and save your preferences for future visits.
+**System date** :  the date and time on the server at the time of access
 
- **Do we disclose any information to outside parties?**
+**Full request** :  the exact request the user made
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+**Status** :  the status code the server returned, e.g., fulfilled request, file not found
 
- **California Online Privacy Protection Act Compliance**
+**Content length** :  the size, in bytes, of the file sent to the user
 
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+**Method** :  the request method used by the browser (e.g., post, get)
 
-As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the 'Edit Profile' page.
+**Universal Resource Identifier (URI)** :  the location of the particular resource requested.  (More commonly known as a URL.)
 
- **Online Privacy Policy Only**
+**Query string of the URI** :  anything after a question mark in a URI.  For example, if a keyword search has been requested, the search word will appear in the query string.
 
-This online privacy policy applies only to information collected through our website and not to information collected offline.
+**Protocol** :  the technical protocol and version used, i.e., http 1.0, ftp, etc.
 
- **Terms and Conditions**
+The above information is not used in any way that would reveal personally identifying information to outside parties unless System Administration is legally required to do so in connection with law enforcement investigations or other legal proceedings.
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [adplexity.com/terms.html](http://naturalclick.com/naturalclick.com/terms.html)
+**IV. E-mail and Form Information**
 
-Email: [info@adplexity.com](mailto:info@companyname.com)
+If a member of the general public sends Adplexity LLC an e-mail message or fills out a web-based form with a question or comment that contains personally identifying information, that information will only be used to respond to the request and analyze trends. The message may be redirected to another government agency or person who is better able to answer your question. Such information is not used in any way that would reveal personally identifying information to outside parties unless Adplexity LLC is legally required to do so in connection with law enforcement investigations or other legal proceedings.
+
+**V. Links**
+
+This site contains links to other sites outside of Adplexity LLC. Adplexity LLC is not responsible for the privacy practices or the content of such websites.
+
+**VI. Security**
+
+This site has security measures in place to protect from loss, misuse and alteration of the information under control of Adplexity LLC.
+
+**Contacting Adplexity LLC:**
+
+If there are any questions about this privacy statement, the practices of this site, or dealings with this website, contact: privacy@adplexity.com
