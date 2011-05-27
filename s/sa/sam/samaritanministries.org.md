@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the samaritanministries.org privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206075129id_/http%3A//www.samaritanministries.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samaritanministries.org privacy policy that was archived on 2011-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110528004300id_/http%3A//www.samaritanministries.org/privacy) for the most accurate reproduction.*
 
 # SMI Privacy Policy
 
