@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the sponsormob.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127132521id_/http%3A//www.sponsormob.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sponsormob.com privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527130409id_/http%3A//www.sponsormob.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Sponsormob
-
-##  Privacy Policy
-
-### Sponsormob is committed to protecting the privacy of internet users. We adhere to industry guidelines and will continue to review and improve our privacy policy and procedures to ensure the protection of consumer privacy.
 
 ### Cookies
 
