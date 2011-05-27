@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shemalesexfiles.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123123011id_/http%3A//shemalesexfiles.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shemalesexfiles.com privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527085658id_/http%3A//www.shemalesexfiles.com/privacy.html) for the most accurate reproduction.*
 
 # Shemale Sex Tube, Free Tranny Tube, Transsexual XXX Movies and T-girl Cumshot Videos
 
