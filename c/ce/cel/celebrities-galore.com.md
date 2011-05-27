@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the celebrities-galore.com privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214011903id_/http%3A//www.celebrities-galore.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebrities-galore.com privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527131740id_/http%3A//celebrities-galore.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -15,27 +15,17 @@ What do the numbers have to say about you?
 
 Top Synergy Group has created this Privacy Statement (Policy) in order to demonstrate our firm commitment to helping our members and visitors better understand what information we collect about them and what may happen to that information. 
 
-The following discloses our information gathering and dissemination practices for Celebrities Galore website.   
-
+The following discloses our information gathering and dissemination practices for Celebrities Galore website.
 
 Make sure to subscribe (LIKE) to our Facebook page for future announcements.
-
-  
-
 
 ## Overview
 
 As part of the normal operation of our services we collect and, in some cases, may disclose information about you. This Privacy Policy describes the information we collect about you and what may happen to that information. By accepting this Privacy Policy and our Terms and Conditions, you expressly consent to our use and disclosure of your personal information in the manner prescribed in this Privacy Policy. This Privacy Policy is incorporated into and subject to the terms of Celebrities Galore's Terms and Conditions. This Privacy Statement is subject to the requirements of applicable local law. 
 
-  
-
-
 ## A Special Note About Children
 
 Children under the age of 13 are not eligible to use our services, and we ask that children (under the age of 13) do not submit any personal information to us. If you are a child, you can use this service only in conjunction with your parents or guardians. 
-
-  
-
 
 ## Information We Collect
 
@@ -49,9 +39,6 @@ We use data collection devices such as "cookies" on certain pages of our Website
 
 We use a third party advertising company, to serve ads on our behalf across the Internet. The third party may also collect anonymous information about your visits to our Web site. This is primarily accomplished through the use of a technology device, commonly referred to as a Web beacon or an action tag, which we place on various Web pages within our Web site or in an html e-mail that allows Atlas DMT to collect anonymous information. Atlas DMT may use information about your visits to this and other Web sites in order to provide ads about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by the third party, [click here](http://www.atlasdmt.com/privacy/). 
 
-  
-
-
 ## Our Use of Your Information
 
 We use information in the files we maintain about you, and the other information we obtain from your current and past activities on the Websites to resolve disputes, troubleshoot problems and enforce our Terms and Conditions. At times, we may look across multiple members to identify problems or resolve disputes, and in particular we may examine your information to identify members multiple Member IDs or aliases. 
@@ -59,9 +46,6 @@ We use information in the files we maintain about you, and the other information
 You agree that we may use personally identifiable information about you to improve our marketing and promotional efforts, to analyze site usage, improve our content and product offerings, and customize our Site's content, layout, and services. These uses improve our site and better tailor it to meet your needs. 
 
 You agree that we may use your information to contact you and deliver information to you that, in some cases, are targeted to your interests, such as targeted banner advertisements, administrative notices, product offerings, and communications relevant to your use on the Websites. By accepting this Privacy Policy, you expressly agree to receive this information. If you do not wish to receive these communications, we encourage you to opt out of the receipt of certain communications by visiting the Membership Services section of our website or send us an email at [Contact Us](http://www.celebrities-galore.com/contact-us). 
-
-  
-
 
 ## Our Disclosure of Your Information
 
@@ -77,15 +61,9 @@ As a matter of policy, we do not sell or rent any personally identifiable inform
 
 **Legal Requests** : Celebrities Galore cooperates with law enforcement inquiries, as well as other third parties to enforce laws, such as: intellectual property rights, fraud and other rights. We can (and you authorize us to) disclose any information about you to law enforcement and other government officials as we, in our sole discretion, believe necessary or appropriate, in connection with an investigation of fraud, intellectual property infringements, or other activity that is illegal or may expose us or you to legal liability. 
 
-  
-
-
 ## Your Use of other Members Information
 
 Our services also include access to instant messaging and chat rooms. As a member you have access to the Members ID No., and you might gain access to other contact information of the member(s) through the regular use of the instant messaging and chat rooms. By accepting this Privacy Policy, you agree that, with respect to other members' personally identifiable information that you obtain through instant messaging communication, the chat rooms and email, Celebrities Galore hereby grants to you a license to use such information only for: (a) Celebrities Galore related communications that are not unsolicited commercial messages, and (b) any other purpose that such member expressly agrees to after adequate disclosure of the purpose(s). In all cases, you must give members an opportunity to remove themselves from your database and a chance to review what information you have collected about them. In addition, under no circumstances, except as defined in this Section, can you disclose personally identifiable information about another member to any third party without our consent and the consent of such other member after adequate disclosure. Celebrities Galore and our members do not tolerate spam. Therefore, without limiting the foregoing, you are not licensed to add a Celebrities Galore member, to your mail list (email or physical mail) without their express written consent after adequate disclosure. To report spam from other Celebrities Galore members, please [Contact Us](http://www.celebrities-galore.com/contact-us). 
-
-  
-
 
 ## Accessing, Reviewing and Changing Your Profile
 
@@ -95,35 +73,20 @@ Upon your written request, we will suspend your membership, contact information,
 
 We will retain our files information you have requested to remove in order in some circumstances, such as to resolve disputes, troubleshoot problems and enforce our terms and conditions. Further, such prior information is never completely removed from our databases due to technical and legal constraints, including stored 'back up' systems. Therefore, you should not expect that all of your personally identifiable information will be completely removed from our databases in response to your requests. 
 
-  
-
-
 ## Control of Your Password
 
 You are responsible for all actions taken with your member ID and password, including fees. Therefore we do not recommend that you disclose your Celebrities Galore password or member ID to any third parties. If you choose to share your member ID and password or your information with third parties to provide you additional services, you are responsible for all actions taken with your member ID and password and therefore should review that third party's privacy policy. If you lose control of your password, you may lose substantial control over your personally identifiable information and may be subject to legally binding actions taken on your behalf. Therefore, if your password has been compromised for any reason, you should immediately change your password. 
-
-  
-
 
 ## Other Information Collectors
 
 Except as otherwise expressly included in this Privacy Policy, this document only addresses the use and disclosure of information we collect from you. To the extent that you disclose your information to other parties, whether they are on our Websites or on other sites throughout the Internet, different rules may apply to their use or disclosure of the information you disclose to them. To the extent that we use third party advertisers, they adhere to their own privacy policies. Since Celebrities Galore does not control the privacy policies of the third parties, you are subject to ask questions before you disclose your personal information to others. 
 
-  
-
-
 ## Security
 
 Celebrities Galore uses industry standard practices to safeguard the confidentiality of your personal identifiable information, including "firewalls" and Secure Socket Layers. Celebrities Galore treats data as an asset that must be protected against loss and unauthorized access. We employ many different security techniques to protect such data from unauthorized access by members inside and outside the company. However, "perfect security" does not exist on the Internet. 
 
-  
-
-
 ## Notice
 
 We may change this Privacy Policy from time to time based on your comments and our need to accurately reflect our data collection and disclosure practices. All changes to this policy are effective after we provide you with at least (30) days' notice of changes by sending email to members. We provide you with (30) days' notice to allow you the opportunity to notify Celebrities Galore if you do not agree to such changes. 
-
-  
-
 
 |  | 
