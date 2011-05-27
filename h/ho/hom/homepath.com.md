@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homepath.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215040116id_/http%3A//www.fanniemae.com/kb/index%3Fpage%3Dhome%26c%3Dlegal_privacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homepath.com privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527232652id_/http%3A//www.fanniemae.com/kb/index%3Fpage%3Dhome%26c%3Dlegal_privacystatement) for the most accurate reproduction.*
 
 # Legal - Privacy Statement | Fannie Mae
 
