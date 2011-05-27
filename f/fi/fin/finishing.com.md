@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the finishing.com privacy policy that was archived on 2010-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100824064320id_/http%3A//www.finishing.com/Home/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the finishing.com privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527042831id_/http%3A//www.finishing.com/Home/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -10,7 +10,7 @@
 
 **Name, city, & State**: Finishing.com is a place of camaraderie for people with metal finishing interests. Therefore we are NOT an anonymous service. When you post an inquiry or response, we require and print your full name, city, and state--like a newspaper or magazine would. If we realize that you are a minor, we don't print your last name. After your posting is no longer current, we will delete your last name upon request.
 
-**E-mail address:** We also require your e-mail address. We don't print it on technical letters (but we do include it on articles submitted to our Editorial page). Please do not disguise your e-mail address because we can't print your posting until an auto-reply confirms that your e-mail address works.
+**E-mail address:** We also require your e-mail address. We don't print it except in special circumstances where you request it. Please do not disguise your e-mail address because we can't print your posting until an auto-reply confirms that your e-mail address works.
 
 **Company name:** We do not require your company name. We print it only if you choose (and then only if we choose).
 
@@ -38,10 +38,10 @@ If you submit an offer which gives us reasonable grounds for suspicion that it i
 
 ### Complaints
 
-If you feel that anyone has spammed you, and that the spammer obtained your contact info through this site, please let us know. Thanks!
+If you feel that anyone has spammed you through info available from this site, please let us know. Thanks!
 
 Ted Mooney <mooney@finishing.com>
 
 * * *
 
-Back to finishing.com [Home Page](https://web.archive.org/web/20100824064320id_/http%3A//www.finishing.com/)
+Back to finishing.com [Home Page](https://web.archive.org/web/20110527042831id_/http%3A//www.finishing.com/)
