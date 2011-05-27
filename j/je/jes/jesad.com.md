@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the jesad.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219125032id_/http%3A//www.jesad.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jesad.com privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527151102id_/http%3A//www.jesad.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - jesad.com
 
-You are here: [Home](http://www.jesad.com/) / Privacy Policy
+### Privacy Policy
 
 At jesad.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit jesad.com, and how we safeguard your information. We never sell your personal information to third parties.
 
