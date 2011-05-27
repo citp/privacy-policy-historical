@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the collider.com privacy policy that was archived on 2010-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101207032300id_/http%3A//www.collider.com/collider-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collider.com privacy policy that was archived on 2011-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110528012743id_/http%3A//collider.com/collider-privacy-policy) for the most accurate reproduction.*
 
 # Collider
 
@@ -72,4 +72,4 @@ Collider reserves the right, at our discretion, to change, modify, add or remove
 
 The information provided in this Privacy Policy should not be construed as giving business, legal, or other advice, or warranting as fail proof, the security of information provided through the Site.
 
-© 2008, Collider.com, LLC
+© 2005-2010, Collider.com
