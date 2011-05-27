@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pennymacusa.com privacy policy that was archived on 2009-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090209013517id_/http%3A//pennymacusa.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pennymacusa.com privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527135722id_/http%3A//www.pennymacusa.com/privacy.php) for the most accurate reproduction.*
 
-# PennyMac
+# PennyMac Home Loan Solutions
 
-### Online and Financial Privacy Notice
+## Online and Financial Privacy Notice
 
 The main goal of PennyMac* is to help you maintain and protect the ownership in your home. This notice explains how we protect and use your personal information in a safe, secure and responsible manner. What you need to know in brief:
 
@@ -66,7 +66,7 @@ We only disclose this data to third parties that assist us in providing vital se
 You may limit how we share your personal information. This is called a right to "opt out". You have two options to consider:
 
   1. Continue receiving product and services offers without taking any action.
-  2. Opt out of information sharing. If you want to opt out, please call us toll-free at (866) 545-9070. Please have your account and billing information available when you call.
+  2. Opt out of information sharing. If you want to opt out, please call us toll-free at (866) 586-9210. Please have your account and billing information available when you call.
 
 
 
@@ -91,8 +91,8 @@ We strive to safeguard your data. We do this by:
 
 
 
-* This privacy notice applies to PennyMac Loan Services, LLC; PennyMac Capital Management, LLC; PNMAC Mortgage Opportunity Fund Investors, LLC; Private National Mortgage Acceptance Company, LLC; and PNMAC Mortgage Co., LLC.
+* This privacy notice applies to PennyMac Loan Services, LLC; PNMAC Capital Management, LLC (PCM); PNMAC Mortgage Opportunity Fund Investors, LLC; Private National Mortgage Acceptance Company, LLC; and PNMAC Mortgage Co., LLC.
 
-Questions about your privacy? Call us at (866) 545-9070
+Questions about your privacy? Call us at (866) 586-9210
 
 _Effective Date of This Notice: September 5, 2008_
