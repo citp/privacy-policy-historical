@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onesite.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124173626id_/http%3A//www.onesite.com/go/legal/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onesite.com privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527090959id_/http%3A//www.onesite.com/go/legal/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -26,7 +26,7 @@ Information about Users that is maintained on our systems is protected using ind
 
 **European Union, Safe Harbor Compliance**
 
-ONEsite is Safe Harbor compliant, for our Safe Harbor policy, [click here](https://web.archive.org/web/20101124173626id_/http%3A//www.onesite.com/go/legal/safeHarbor.html).
+ONEsite is Safe Harbor compliant, for our Safe Harbor policy, [click here](https://web.archive.org/web/20110527090959id_/http%3A//www.onesite.com/go/legal/safeHarbor.html).
 
 **Questions**
 
