@@ -1,16 +1,92 @@
-<!--The following is the downloaded HTML source of the eventim.co.uk privacy policy that was archived on 2010-03-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100302123842id_/http%3A//www.eventim.co.uk/cgi-bin/tickets.html%3Faffiliate%3DEUK%26doc%3Dinfo/dataProtection) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the eventim.co.uk privacy policy that was archived on 2011-05-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110527102627id_/http%3A//www.eventim.co.uk/tickets.html%3Faffiliate%3DEUK%26doc%3Dinfo/dataProtection) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-GB" lang="en-GB"><head>
+
+														
 	
-															
+			
+				
+	
+					
+							<!-- Kein current_kuenstler / current_artist verfügbar! //-->
+	
+
+
+
+	
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+	
+					
+				
+		
+		
+				
+				
+						
+				
+		
+		
+				
+				
+						
+				
+		
+		
+				
+				
+						
+				
+		
+		
+				
+				
+						
+				
+		
+		
+				
+				
+						
+				
+		
+		
+				
+				
+						
+				
+		
+		
+			
+
+
+
+	
+													
+								
 	<!-- v2008.12.1.1259 //-->
-		<title> 	Tickets &amp; Concert tickets - Concerts Musicals Events   </title>
+		<title> 	Tickets &amp; Concert tickets - Concerts Musicals Events - Eventim.co.uk  </title>
 	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
 	<meta http-equiv="content-script-type" content="text/javascript">
 	<meta http-equiv="content-language" content="en">
 
 	<meta name="keywords" content="EVENTIM">
+	
+
+
 	<meta name="description" content="EVENTIM">
 	<meta name="language" content="en">
 	<meta name="revisit-after" content="7 Days">
@@ -20,21 +96,25 @@
 	<meta name="publisher" content="EVENTIM http://www.eventim.co.uk">
 	<meta name="copyright" content="Copyright 2009 by EVENTIM http://www.eventim.co.uk">
 	<meta name="author" content="EVENTIM http://www.eventim.co.uk">
-
-	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+        	    	<meta property="fb:admins" content="556994103,100002365596888">
+            	<meta property="fb:page_id" content="110114015731428">
+    
+	<link rel="shortcut icon" type="image/gif" title="" href="/obj/media/UK-eventim/specialLogos/animated_favicon.gif">
+	
 	<link rel="home" href="http://www.eventim.co.uk/">
 	<link rel="author" href="http://www.eventim.co.uk/">
 	<link rel="copyright" href="http://www.eventim.co.uk/">
 
 	<meta name="MSSmartTagsPreventParsing" content="true">
-	<meta http-equiv="imagetoolbar" content="false">
-		
+	<meta http-equiv="imagetoolbar" content="false">	
 	
 	<link rel="stylesheet" href="/obj/eventim/default/layout/en/css/screen.css" type="text/css" media="screen">
 	<link rel="stylesheet" href="/obj/eventim/default/layout/css/screen.css" type="text/css" media="screen">
+	
 	<link rel="stylesheet" href="/obj/eventim/default/layout/css/print.css" type="text/css" media="print">
 		
-	<link rel="stylesheet" href="/obj/eventim/default/layout/css/modular.css" type="text/css" media="screen">	<link rel="stylesheet" href="/obj/eventim/default/layout/en/css/modular.css" type="text/css" media="screen">	<link rel="stylesheet" href="/obj/eventim/default/layout/css/sidebar.css" type="text/css" media="screen">	<link rel="stylesheet" href="/obj/eventim/default/layout/en/css/sidebar.css" type="text/css" media="screen">	
+<link rel="stylesheet" href="/obj/eventim/default/layout/css/modular.css" type="text/css" media="screen"><link rel="stylesheet" href="/obj/eventim/default/layout/en/css/modular.css" type="text/css" media="screen"><link rel="stylesheet" href="/obj/eventim/default/layout/GB_en/css/modular.css" type="text/css" media="screen">
+<link rel="stylesheet" href="/obj/eventim/default/layout/css/sidebar.css" type="text/css" media="screen">	
 
 
 
@@ -43,87 +123,123 @@
 
 				var eveJsIframeBlank = '/staticsite/blank.htm';
 
-		var eveJsUrl = '/cgi-bin/tickets.html?affiliate=EUK';
+		var eveJsUrl = 'tickets.html?affiliate=EUK';
 	
 			var eveJsCountry = 'GB' || 'DE';
 	
 		var eveJsLanguage = 'en' || 'de';
+		
+
 	
-			
-	function trackHbxAndOpenLink(cfg) {
+	
+	
+	function trackAndOpenLink(cfg) {
+        
+				var cfg = cfg || {};
+		var noTrack = false;
+		
+		if(!cfg.el){			
+			cfg.el = jQuery(cfg.params).find('a').get(0);
+		}
+		
+		if(cfg.code){
+			window.tracking = {
+				linkEl   : cfg.el || document.createElement('A'),
+                url      : cfg.el.href || false,
+				code	 :	cfg.code || false,
+				callback :	cfg.callback || false,
+				target   : cfg.el.target || false,
+				scope	 :	cfg.scope || false
+			}
+		}else{
+		
+           	window.tracking = {
+                 linkEl   : cfg.el || document.createElement('A'),
+                 url      : cfg.el.href || false,
+                 target   : cfg.el.target || false,
+                 code	  : cfg.el.name || false,
+                 callback : cfg.callback || false
+            };
+		}
 		
 						
-		// Sicherstellen, das ein Konfigurations-Objekt vorhanden ist.
-		var cfg = cfg || {};
-		var tmpHbxPrefix = '&lid=';
+		var checkCode = /INT-[0-9]*-\[.*\]\|\|.*/;
 		
-		// Wurde ein Element angegeben, dann den cfg.code davon ermitteln, wenn vorhanden.
-		if((cfg.el || false)) {
-			
-			var searchPattern = new RegExp(RegExp.escape(tmpHbxPrefix), "gi");
-			var searchString  = cfg.el.getAttribute('name') || '';
-			
-			if(searchPattern.test(searchString)) cfg.code = searchString;
+		if(window.tracking.code!="" && window.tracking.code.search(checkCode) > -1){
+			var result = xt_adc(false, window.tracking.code);
+		}else{
+			noTrack = true;
 		}
 		
-		// Auf Existenz der HBX-Methode _hbLink pruefen, um JS-Fehler zu vermeiden.
-		if (typeof _hbLink != "undefined" && (cfg.code || false)) {
+		if(!noTrack){
+			window.setTimeout('openAfterTracking()', 500);
+		}else{
 			
-			// Evtl. &lid= aus dem String entfernen und Prefix anfuegen ...
-			var tmpCode = cfg.code.replace(tmpHbxPrefix, '') + (cfg.postfix || '');
-			
-			// ... Leerzeichen entfernen ...
-			tmpCode = tmpCode.replace(' ', '');
-			
-									
-			// ...dann die Trackingfunktion aufrufen.
-			_hbLink(tmpCode);
+			if(cfg.el.getAttribute("class")!= "popupwindow"){
+				
+				if(cfg.el.getAttribute("target")!= "_blank"){
+					var tmpHref = cfg.el.getAttribute('href') || '';
+					/** Sprachwechsel URL wird per changeScript gesetzt, href darf nicht verwendet werden */
+					if(tmpHref.indexOf('language=') < 0){
+						document.location.href = window.tracking.url;
+					}
+				}
+			}
+				
 		}
 		
-								
-		// Aufruf des Links, wenn angegeben.
-		if((cfg.url || false)) window.location.href = cfg.url;
-		
-		// Aufruf des Callbacks, wenn angegeben.
-		if((cfg.callback || false)) (cfg.callback.scope((cfg.scope || cfg.callback), (cfg.params || [])))();
+		return false;
 	};
 	
+	function openAfterTracking() {
+				        
+        if (window.tracking.url || false) {
+             if (window.tracking.target) {
+                   window.open(window.tracking.url, window.tracking.target);
+             } else {
+                   document.location.href = window.tracking.url;
+             }
+             return;
+        }
+  	};
+	
 			
-	function trackHbxReInitialize() {
+	function trackReInitialize(el) {
 		
-		// Pruefen ob die HBX-Funktion existiert, wenn ja ausfuehren.
-		if((__X || false)) {
+		jQuery(el).find('a').each(function() {
+
+			jQuery(this).click(function() {
+				trackAndOpenLink({ 'el' : this });
+			});			
+		});
 		
-			// Voher noch einen Merker von HBX ruecksetzen, damit neu initialisiert werden kann.
-			_ec = 0;
-			
-			// Initialisieren.
-			__X();
-		}
 	};
+
 	
 // --> ]]>
 </script>
 
-<script src="/obj/eventim/default/layout/js/setup.packed.js" type="text/javascript"></script>
+<script src="/obj/eventim/default/layout/js/setup.js" type="text/javascript"></script>
 
-<script src="/obj/eventim/default/layout/js/jquery.packed.js" type="text/javascript"></script><script src="/obj/eventim/default/layout/js/jquery.popupwindow.packed.js" type="text/javascript"></script>
-<script src="/obj/eventim/default/layout/js/eventim.packed.js" type="text/javascript"></script>
+<script src="/obj/eventim/default/layout/js/jquery.js" type="text/javascript"></script><script src="/obj/eventim/default/layout/js/jquery.popupwindow.js" type="text/javascript"></script>
+<script src="/obj/eventim/default/layout/js/eventim.js" type="text/javascript"></script>
 
-<script src="/obj/eventim/default/layout/js/jquery.validate.packed.js" type="text/javascript"></script>
-<script src="/obj/eventim/default/layout/en/js/jquery.validate.js" type="text/javascript"></script><script src="/obj/eventim/default/layout/js/jquery.validateCustoms.packed.js" type="text/javascript"></script>
+<script src="/obj/eventim/default/layout/js/jquery.autocomplete.js" type="text/javascript"></script>
 
-<script src="/obj/eventim/default/layout/en/js/Eve.js" type="text/javascript"></script><script src="/obj/eventim/default/layout/js/Eve.packed.js" type="text/javascript"></script>
-<script src="/obj/eventim/default/layout/js/Eve/RegisterCards.packed.js" type="text/javascript"></script>
-<script src="/obj/eventim/default/layout/js/Eve/AbstractTexts.packed.js" type="text/javascript"></script>
-<script src="/obj/eventim/default/layout/js/Eve/DynamicLayers.packed.js" type="text/javascript"></script>
-<script src="/obj/eventim/default/layout/js/Eve/ReadMore.packed.js" type="text/javascript"></script>
-<script src="/obj/eventim/default/layout/js/Eve/ItemPager.packed.js" type="text/javascript"></script>
-<script src="/obj/eventim/default/layout/js/Eve/Tooltipps.packed.js" type="text/javascript"></script>
+<script src="/obj/eventim/default/layout/js/jquery.validate.js" type="text/javascript"></script>
+<script src="/obj/eventim/default/layout/en/js/jquery.validate.js" type="text/javascript"></script><script src="/obj/eventim/default/layout/js/jquery.validateCustoms.js" type="text/javascript"></script>
+
+<script src="/obj/eventim/default/layout/en/js/Eve.js" type="text/javascript"></script><script src="/obj/eventim/default/layout/js/Eve.js" type="text/javascript"></script>
+<script src="/obj/eventim/default/layout/js/Eve/RegisterCards.js" type="text/javascript"></script>
+<script src="/obj/eventim/default/layout/js/Eve/AbstractTexts.js" type="text/javascript"></script>
+<script src="/obj/eventim/default/layout/js/Eve/DynamicLayers.js" type="text/javascript"></script>
+<script src="/obj/eventim/default/layout/js/Eve/ReadMore.js" type="text/javascript"></script>
+<script src="/obj/eventim/default/layout/js/Eve/ItemPager.js" type="text/javascript"></script>
+<script src="/obj/eventim/default/layout/js/Eve/Tooltipps.js" type="text/javascript"></script>
 
 <link rel="stylesheet" href="/obj/eventim/default/layout/css/eve.popupLayer.css" type="text/css" media="screen">
-<script src="/obj/eventim/default/layout/js/eve.popupLayer.packed.js" type="text/javascript"></script>
-<script src="/obj/eventim/default/layout/js/eve.metaNavSyncCachedSites.packed.js" type="text/javascript"></script>
+<script src="/obj/eventim/default/layout/js/eve.popupLayer.js" type="text/javascript"></script>
+<script src="/obj/eventim/default/layout/js/eve.metaNavSyncCachedSites.js" type="text/javascript"></script>
 
 
 
@@ -146,62 +262,135 @@
 // --> ]]>
 </script>
 
+<script type="text/javascript" language="javascript">
+// <![CDATA[ <!--
 
-
-
-	<!--WEBSIDESTORY CODE HBX1.0 (Universal)-->
-	<!--COPYRIGHT 1997-2005 WEBSIDESTORY,INC. ALL RIGHTS RESERVED. U.S.PATENT No. 6,393,479B1. MORE INFO:http://websidestory.com/privacy-->
+	var ff36xTextWorkaround = function(){
 	
-	<script type="text/javascript">
-	<!--
-		var _hbEC=0,_hbE=new Array;function _hbEvent(a,b){b=_hbE[_hbEC++]=new Object();b._N=a;b._C=0;return b;}
-		var hbx=_hbEvent("pv");hbx.vpc="HBX0250u";hbx.gn="ehg-ctseventimag.hitbox.com";
-
-		//BEGIN EDITABLE SECTION
-		//CONFIGURATION VARIABLES
-		hbx.acct="DM5911038DDC38EN3";//ACCOUNT NUMBER(S)
+		// Nur ausfuehren wenn Mozilla, andernfalls abbrechen.
+		if (!(jQuery.browser.mozilla || false)) return;
 		
-		hbx.pn="info/dataProtection";//PAGE NAME(S)
+		var tmpVersion = (jQuery.browser.version.replace(/\./gi, '')) * 1;
+		if (typeof tmpVersion != 'number' || tmpVersion < 1920) return;
 		
-		hbx.mlc="GB_en_";//MULTI-LEVEL CONTENT CATEGORY
-		hbx.pndef="normal+WSS-Backup";//DEFAULT PAGE NAME
-		hbx.ctdef="full";//DEFAULT CONTENT CATEGORY
-
-		//OPTIONAL PAGE VARIABLES
-		//ACTION SETTINGS
-		hbx.fv="";//FORM VALIDATION MINIMUM ELEMENTS OR SUBMIT FUNCTION NAME
-		hbx.lt="auto";//LINK TRACKING
-		hbx.dlf="n";//DOWNLOAD FILTER
-		hbx.dft="n";//DOWNLOAD FILE NAMING
-		hbx.elf="n";//EXIT LINK FILTER
-
-		//SEGMENTS AND FUNNELS
-		hbx.seg="1,2,4";//VISITOR SEGMENTATION
-		hbx.fnl="";//FUNNELS
-
-		//CAMPAIGNS
-		hbx.dcmpre="30d";
-		hbx.hqsp="attr";
+		var br = "\n";
 		
-		//CUSTOM VARIABLES
-		hbx.ci="";//CUSTOMER ID
-		hbx.hc1="";//CUSTOM 1
-		hbx.hc2="";//CUSTOM 2
-		hbx.hc3="eventim/euktemp/ | EUK";//CUSTOM 3
-		hbx.hc4="";//CUSTOM 4
-		hbx.hrf="";//CUSTOM REFERRER
-		hbx.pec="";//ERROR CODES
-
-		//INSERT CUSTOM EVENTS
-		//END EDITABLE SECTION
-		//REQUIRED SECTION. CHANGE "YOURSERVER" TO VALID LOCATION ON YOUR WEB SERVER (HTTPS IF FROM SECURE SERVER)
-	//-->
-	</script>
+		jQuery('head').append(
+			'<style type="text/css">' + br +
+			'html > body .mods div.headerNavigation div.quickSearchInput input { padding:4px 0 2px 12px !important; }' + br +
+			'html > body .mods form input.input { padding:3px 5px 1px; }' + br +		
+			'</style>'
+		);
+	};
+	
+	ff36xTextWorkaround();
+	
+// --> ]]>
+</script>
 
 
 
 
-<link rel="stylesheet" href="/obj/eventim/default/feature/advertisement/css/advert.css" type="text/css" media="screen">
+
+
+
+<link media="screen" rel="stylesheet" href="/obj/eventim/default/layout/css/jquery.autocomplete.css" type="text/css">
+
+
+
+
+<script type="text/javascript" language="JavaScript">
+<!--
+
+	var filterLanguage = function(text) {
+
+		var params = ((text || '').split('?')).pop().split('&');
+		
+		for(var i in params) {
+
+			var pair = params[i].split('=');
+			if((pair[0] || '').toUpperCase() == "LANGUAGE") return pair[1] || false;
+		};
+
+		return false;
+	};
+	
+	var switchLanguage = function() {
+
+		// Language filterm
+		var language = filterLanguage((this.getAttribute('href') || ''));
+		
+		// Wurde keine gefunden, dann einfach normal fortfahren.
+		if(!language) return;
+		
+		// ein persistentes language cookie setzen, damit die Sprache vorausgewählt ist, auch wenn der
+		// Browser zwischendurch geschlossen wird
+		var expirationDate = new Date();	
+		expirationDate.setDate(expirationDate.getDate() + 30);
+		var expires = expirationDate.toGMTString();
+		
+		var locationHost = (document.location.host).split(".");
+		var helpDomain = locationHost[1]+"."+locationHost[2];
+		if(locationHost[2] == "co") helpDomain = helpDomain+"."+locationHost[3];
+		
+		document.cookie = "language="+language+"; expires="+expires+"; domain="+helpDomain;	
+				
+		
+		
+		
+												
+			var currentURL = window.location.href || '';
+			var callUrl = false;
+			var splitter = "?";
+			
+			if(window.location.search != "") {
+				
+				var isLanguageInHref = filterLanguage(currentURL);
+
+				if(isLanguageInHref) {
+
+					var regexp = new RegExp("language=" + isLanguageInHref, "gi");
+					callUrl = currentURL.replace(regexp, "language="+language);
+				}
+				
+				splitter = "&";	
+			}
+
+			if(!callUrl) callUrl = currentURL + splitter + 'language=' + language;
+
+			// Sicherstellen, dass immer auf eine Seite und nicht einfach nur auf die
+			// Domain geleitet wird, da AKAMAI die Startseite cached.
+			var currentPathname = window.location.pathname || '';
+			if (currentPathname == '/' || currentPathname == '') callUrl = callUrl.replace('//' + window.location.hostname + currentPathname, '//' + window.location.hostname + '/tickets.html');
+
+			window.location.href = callUrl;
+			
+		
+		return false;
+	};
+
+	jQuery(function() {
+		jQuery('#header #language #languageBtn').mouseup(function() {
+			
+			if((this.isDone || false)) return;
+			
+			jQuery('#languageSelector li ul li a').each(function() {
+		
+				var tmpHref = this.getAttribute('href') || '';
+				
+				// Pruefen ob im Link ein Sprachschalter existiert, wenn nicht, dann ignorieren.
+				if(tmpHref.indexOf('language=') < 0) return;
+
+				jQuery(this).click(switchLanguage);
+			});
+		});
+	});
+	
+//-->
+</script>
+
+
+
 
 
 	<link rel="stylesheet" href="/obj/eventim/default/legacy/en/css/screen.css" type="text/css" media="screen">
@@ -211,21 +400,35 @@
 <body>
 <!-- Wrapper -->
 <div id="wrapper">
-
-				
-
-
-<a name="top"></a>
-
-<!-- Header -->
-	<div id="header" style="position:relative;">
 	
-			<div style="position:absolute;top:0px;left:0px;" id="oldLogo">
+					
+
+
+<a name="top"></a>      
+	
+
+	
+	<!-- Header -->
+    
+
+
+	
+	
+
+	 <div id="header">  
+			<div id="oldLogo">
 		<a name="&amp;lid=header_logo" href="concert-tickets.html?affiliate=EUK" title="Tickets for Concerts, Theatre, Festivals, Sports, Events and Attractions">
-		 							<img src="/obj/eventim/default/layout/en/img/logos/eventim_transparent.gif" width="184" height="109" alt="Tickets for Concerts, Theatre, Festivals, Sports, Events and Attractions">
-				</a>
+		 		
+
+
+		
+	
+					
+		        
+        					<img src="/obj/eventim/default/layout/en/img/logos/eventim_transparent.gif" width="184" height="109" alt="Tickets for Concerts, Theatre, Festivals, Sports, Events and Attractions">
+			        		</a>
     </div>
-	<div class="top">
+	<div class="top">  
 		
 		<div id="logo">
 					</div>
@@ -233,20 +436,20 @@
 		<h1 class="ticketsHeadline"><b>Tickets for Concerts, Theatre, Festivals, Sports, Events &amp; Attractions</b> 
 			
 </h1>
-		<div class="rightHead">
+		<div class="rightHead">  
 			<ul id="metaNav">
-				<li class="cart"><a href="/cgi-bin/tickets.html?affiliate=EUK&amp;doc=shoppingCart&amp;fun=wkb" title="Shopping cart" name="&amp;lid=header_shoppingcart">Shopping cart <span id="shoppingCart">0</span></a></li>
+				<li class="cart"><a href="tickets.html?affiliate=EUK&amp;doc=shoppingCart&amp;fun=wkb" title="Shopping Cart" name="&amp;lid=header_shoppingcart">Shopping Cart <span id="shoppingCart">0</span></a></li>
 				
 																		
 <li class="myEventimLogin">
-		<a href="/cgi-bin/tickets.html?affiliate=EUK&amp;doc=feature/login" name="&amp;lid=header_myeventim" onmouseover="javascript:if(((Eve || {}).DynamicLayers || false)) Eve.DynamicLayers.quickFx(this, { layerEl:'metaNavLogin', offsetY:2, offsetX:1, offsetElReference:'br', layerReference:'tr', triggerCss:'active', profile:'simpleLayer' });" title="MyEVENTIM Login">
+		<a href="tickets.html?affiliate=EUK&amp;doc=feature/login" name="&amp;lid=header_myeventim" onmouseover="javascript:if(((Eve || {}).DynamicLayers || false)) Eve.DynamicLayers.quickFx(this, { layerEl:'metaNavLogin', offsetY:2, offsetX:1, offsetElReference:'br', layerReference:'tr', triggerCss:'active', profile:'simpleLayer' });" title="MyEVENTIM Login">
 		<span class="left">
 			<span class="txt1">MyEVENTIM</span>
 			<span class="txt2"></span>
 			<span class="txt3">Login</span>
 		</span>
 	</a>
-</li>							</ul>
+</li>							</ul>   
 			
 										<div class="mods">
 					<div class="reset">	
@@ -257,20 +460,20 @@
 	<div class="mods">
 		<div class="reset">
 			<div class="formulars">
-				<form action="https://secure.eventim.co.uk/cgi-bin/tnl.dll" method="post" id="qlForm" class="ignoreBecauseLayer">
+				<form autocomplete="off" action="https://secure.eventim.co.uk/tnl.dll" method="post" id="qlForm" class="ignoreBecauseLayer">
 						<input type="hidden" name="fun" value="customer" class="set">
 						<input type="hidden" name="action" value="login" class="set">
-						<input type="hidden" name="id" value="EUK_NO_SESSION" class="set">
+						<input type="hidden" name="affiliate" value="EUK" class="set">
 						<input type="hidden" name="doc" value="feature/login" class="set">
 						<input type="hidden" name="errordoc" value="globalError" class="set">
 						<input type="hidden" name="nextdoc" value="feature/login" class="set">										
 						<div>
-							<label for="qlusername">Username</label>
-							<input name="username" id="qlusername" type="text" class="input required" alt="Username">
+							<label for="qlusername">Username or Email address</label>
+							<input name="username" id="qlusername" type="text" class="input required set" alt="">
 						</div>										
 						<div class="last">
 							<label for="qlpassword">Password</label>
-							<input type="password" name="password" id="qlpassword" class="input required" alt="******">
+							<input type="password" name="password" id="qlpassword" class="input required set" alt="">
 								
 			
 			
@@ -298,10 +501,9 @@
 			</div>
 		</div>
 	</div>
-	
 	<ul>
-		<li><a href="/cgi-bin/tickets.html?affiliate=EUK&amp;doc=feature/forgotPassword" class="popupwindow" rel="forgotPassword" title="Forgotten your login data?" name="&amp;lid=header_myeventim_layer_forgotPassword">Forgotten your password?</a></li>
-		<li><a href="/cgi-bin/tickets.html?affiliate=EUK&amp;doc=feature/customerRegistration" title="I am a new customer" name="&amp;lid=header_myeventim_layer_registerNew">I am a new customer</a></li>
+		<li><a onclick="return xt_click(false, 'C', '8', 'Login::Forgotten Password', 'A');" href="tickets.html?affiliate=EUK&amp;doc=feature/forgotPassword" class="popupwindow" title="Forgotten your login data?" target="_blank">Forgotten your password?</a></li>
+		<li><a href="tickets.html?affiliate=EUK&amp;doc=feature/customerRegistration" title="I am a new customer">I am a new customer</a></li>
 	</ul>
 </div>
 					</div>
@@ -316,9 +518,9 @@
 	// Sicherheitshalber einen Try-Catch-Handler drumbauen, dass wenn was schief geht, kein JavaScript-Fehler angezeigt wird.
 	try {
 	
-		synchronizeCachedMetaNav({
+		var eveMetaNav = new MetaNavigation({
 		
-			'loginCode'                    : "<li class=\"my_eventimLoggedin\"><a href=\"/cgi-bin/tickets.html?affiliate=EUK&amp;doc=feature/login\" title=\"MyEVENTIM Login\" name=\"&lid=header_myeventim_isLoggedIn\">MyEVENTIM</a></li><li class=\"log\"><a href=\"/cgi-bin/tickets.html?affiliate=EUK&amp;fun=tlogoff&amp;doc=feature/logout\" title=\"Logout\" name=\"&lid=header_logout_isLoggedIn\">Logout</a></li>",
+			'loginCode'                    : "<li class=\"my_eventimLoggedin\"><a href=\"tickets.html?affiliate=EUK&amp;doc=feature/login\" title=\"MyEVENTIM Login\" name=\"&lid=header_myeventim_isLoggedIn\">MyEVENTIM</a></li><li class=\"log\"><a href=\"tickets.html?affiliate=EUK&amp;fun=tlogoff&amp;doc=feature/logout\" title=\"Logout\" name=\"&lid=header_logout_isLoggedIn\">Logout</a></li>",
 			'leafletSelector'              : "#metaNav .leaflet",
 			'loginSelector'                : "#metaNav .myEventimLogin",
 			'shoppincCartSpanSelector'     : "#metaNav #shoppingCart",
@@ -329,36 +531,66 @@
 
 //-->
 </script>		
-			</div>
-	
-      	   
-		<div id="language">
-						<a id="languageBtn" href="javascript:void(0);" class="current" onmouseover="javascript:if(((Eve || {}).DynamicLayers || false)) Eve.DynamicLayers.quickFx(this, { layerEl:'languageSelector', offsetY:1, offsetX:2, profile:'clickLayerBottom' });" name="&amp;lid=header_languageSelector">english</a>
-		
-			<form id="changeLocale" action="tickets.html" method="post">
-										  														<input type="hidden" name="doc" value="info/dataProtection">
-						  							<input type="hidden" id="changeLocaleLanguage" name="language">
-				<input type="hidden" id="changeLocaleAffiliate" name="affiliate">
-        	</form>
-		
-			<script type="text/javascript" language="javascript">
-			<!--
 				
-			function changeLanguage(language, affiliate){
+						
+	</div>
+	
+			   
+		<div id="language">
+						<a id="languageBtn" href="javascript:void(0);" class="current" onmouseover="javascript:if(((Eve || {}).DynamicLayers || false)) Eve.DynamicLayers.quickFx(this, { layerEl:'languageSelector', offsetY:1,  offsetX:2 , profile:'clickLayerBottom' });">english</a>
+			<script type="text/javascript" language="javascript">
+				var requests = new Array();
+										  														requests['doc']="info/dataProtection";
+												  						
+			function addHiddenForm(params) {
+				
+				var form = document.createElement("form");
+    			form.setAttribute("method", "post");
+    			form.setAttribute("action", "tickets.html");
+				form.setAttribute("id", "changeLocale");
+				
+			    for(var key in params) {
+			        var hiddenField = document.createElement("input");
+			        hiddenField.setAttribute("type", "hidden");
+			        hiddenField.setAttribute("name", key);
+			        hiddenField.setAttribute("value", params[key]);
+			        form.appendChild(hiddenField);
+			    }
+				
+				var languageField = document.createElement("input");
+		        languageField.setAttribute("type", "hidden");
+		        languageField.setAttribute("name", "language");
+		        languageField.setAttribute("id", "changeLocaleLanguage");
+		        form.appendChild(languageField);
+				
+				var affiliateField = document.createElement("input");
+		        affiliateField.setAttribute("type", "hidden");
+		        affiliateField.setAttribute("name", "affiliate");
+		        affiliateField.setAttribute("id", "changeLocaleAffiliate");
+		        form.appendChild(affiliateField);
+				
+				document.body.appendChild(form);
+			}
 			
+			
+			function changeLanguage(language, affiliate){
 				// Nachschauen ob die parameter, die an die Funktion uebergeben worden,
 				// auch wirklich nicht leer sind ..., andernfalls Abbruch.
 				if(!(language || false)) return false;
 				if(!(affiliate || false)) return false;
 			
-				// language-Input ermitteln, wenn es das nicht gibt, Abbruch!
-				var tmpEl= document.getElementById("changeLocaleLanguage") || false;
-				if(!tmpEl) return false;
-		
+				console.log(requests);
+				//hidden inputs erzeugen
+				addHiddenForm(requests);
+				
 				// Formular ermitteln, wenn es das nicht gibt, Abbruch!
 				var tmpForm=document.getElementById("changeLocale") || false;
 				if(!tmpForm) return false;
 			
+				// language-Input ermitteln, wenn es das nicht gibt, Abbruch!
+				var tmpEl= document.getElementById("changeLocaleLanguage") || false;
+				if(!tmpEl) return false;
+		
 				// Affiliate-Input ermitteln, wenn es das nicht gibt, Abbruch!
 				var tmpAffiliate=document.getElementById("changeLocaleAffiliate") || false;
 				if(!tmpAffiliate) return false;
@@ -368,59 +600,32 @@
 			
 				// Die an die Funktion uebergebene Affiliate im Input setzen ...
 				tmpAffiliate.value = affiliate;
-			
+				
 				// Formular nun absenden!
 				tmpForm.submit();
 
 				// An den Link false also Abbruch des Clicks senden.
 				return false;		
 			};
-		
-			//-->
 			</script>
 		
-						<ul id="languageSelector" style="display: none; border:1px solid #fff !important; border-top:none;">
-		
-		
-			<li onmouseover="changeColor(this);" onmouseout="changeColor(this);"><strong>United Kingdom</strong>
-				<ul>
-									</ul>
-			</li>
-		
-			<li>
-				<a name="&amp;lid=header_languageSelector_layer_CZ" href="http://www.eventim.cz" title="EVENTIM Česká Republika" target="_blank">Česká Republika</a>
-				<ul>
-														</ul>
-			</li>
-		
-			<li><a name="&amp;lid=header_languageSelector_layer_DE" href="http://www.eventim.de" title="EVENTIM Deutschland" target="_blank">Deutschland</a>
-				<ul>
-					<li><a name="&amp;lid=header_languageSelector_layer_DE_de" href="http://www.eventim.de/cgi-bin/tickets.html?affiliate=eve&amp;language=de" title="EVENTIM deutsch" target="_blank">deutsch</a></li>
-					<li><a name="&amp;lid=header_languageSelector_layer_DE_de" href="http://www.eventim.de/cgi-bin/tickets.html?affiliate=evg" title="EVENTIM deutsch" target="_blank">english</a></li>
-				</ul>
-			</li>
-			
-			 <li><a name="&amp;lid=header_languageSelector_layer_NL" href="http://www.eventim.nl" title="EVENTIM Nederland" target="_blank">Nederland</a>
-																					</li>
-			
-			<li><a name="&amp;lid=header_languageSelector_layer_BG" href="http://www.eventim.bg  " title="EVENTIM България" target="_blank">България</a></li>
-			<li><a name="&amp;lid=header_languageSelector_layer_FI" href="http://www.lippu.fi" title="EVENTIM Suomi" target="_blank">Suomi</a></li>
-			<li><a name="&amp;lid=header_languageSelector_layer_IT" href="http://www.ticketone.it " title="EVENTIM Italia" target="_blank">Italia</a></li>
-			<li><a name="&amp;lid=header_languageSelector_layer_HR" href="http://www.eventim.hr" title="EVENTIM Hrvatska" target="_blank">Hrvatska</a></li>			
-			<li><a name="&amp;lid=header_languageSelector_layer_AT" href="http://www.oeticket.com " title="EVENTIM Österreich" target="_blank">Österreich</a></li>
-			<li><a name="&amp;lid=header_languageSelector_layer_PL" href="http://www.eventim.pl" title="EVENTIM Polska" target="_blank">Polska</a></li>
-			<li><a name="&amp;lid=header_languageSelector_layer_OR" href="http://www.eventim.ro" title="EVENTIM România" target="_blank">România</a></li>
-			<li><a name="&amp;lid=header_languageSelector_layer_RU" href="http://www.parter.ru " title="EVENTIM Россия" target="_blank">Россия</a></li>
-			<li><a name="&amp;lid=header_languageSelector_layer_SE" href="http://www.eventim.se " title="EVENTIM Sverige" target="_blank">Sverige</a></li>
-			<li><a name="&amp;lid=header_languageSelector_layer_CH" href="http://www.eventim.ch " title="EVENTIM Switzerland" target="_blank">Switzerland</a></li>
-			<li><a name="&amp;lid=header_languageSelector_layer_RS" href="http://www.eventim-yu.com" title="EVENTIM Србија" target="_blank">Србија</a></li>
-			<li><a name="&amp;lid=header_languageSelector_layer_SK" href="http://www.eventim.sk" title="EVENTIM Slovenská republika" target="_blank">Slovenská republika</a></li>
-			<li><a name="&amp;lid=header_languageSelector_layer_SI" href="http://www.eventim.si" title="EVENTIM Slovenija" target="_blank">Slovenija</a></li>
-			<li><a name="&amp;lid=header_languageSelector_layer_TR" href="http://www.ticketturk.com" title="EVENTIM Türkiye" target="_blank">Türkiye</a></li>
-			<li><a name="&amp;lid=header_languageSelector_layer_HU" href="http://www.eventim.hu  " title="EVENTIM Magyarország" target="_blank" style="border-bottom:none;">Magyarország</a></li>
-		</ul>	
+						
+										<script language="javascript" type="text/javascript">
+				<!--			
+					jQuery.ajax({
+						type: "GET",
+						url: "tickets.html",
+						data: "affiliate=EUK&doc=layout/navigation/languages",
+						success: function(html){
+							//document.write(html);
+							jQuery("#language").append(html);
+						}
+					});
+				-->
+				</script>
+				
 		</div>
-     	
+    	
 		<!-- New Navigation -->
 <div class="mods">
 	<div class="header reset">
@@ -464,17 +669,26 @@
 						
 						
 					
+							
 						
-	
+									
+							
+						
+						
+					
+						
+		
 		
 			
-												
+														
 		
-				
+			
 
 
 <div class="categories">
 
+		
+				
 		
 				
 			
@@ -488,8 +702,9 @@
 				
 				
 				
+				
 		<div class="dropdownBtn">
-					<a href="/cgi-bin/tickets.html?affiliate=EUK&amp;doc=categoryOverview" id="mainNavCategoriesLayerBtnId" onmouseover="javascript:if(((Eve || {}).DynamicLayers || false)) Eve.DynamicLayers.quickFx(this, { triggerCss:'active', layerEl:'mainNavCategoriesLayer', profile:'simpleLayer',offsetX:0, offsetY:5, depth:100, closeElements:'#mainNavCategoriesLayerBtnId' });" name="&amp;lid=header_mainNav_categoryOverview"><span><span>All event categories</span></span></a>
+					<a href="tickets.html?affiliate=EUK&amp;doc=categoryOverview" id="mainNavCategoriesLayerBtnId" onmouseover="javascript:if(((Eve || {}).DynamicLayers || false)) Eve.DynamicLayers.quickFx(this, { triggerCss:'active', layerEl:'mainNavCategoriesLayer', profile:'simpleLayer',offsetX:0, offsetY:5, depth:100, closeElements:'#mainNavCategoriesLayerBtnId', offsetEl : '' });" name="&amp;lid=header_mainNav_categoryOverview"><span><span>All Event Categories</span></span></a>
 			</div>
 	
 			<div id="mainNavCategoriesLayer" class="" style="display:none;">
@@ -501,157 +716,196 @@
 					
 						
 		<div id="mainNavCategories" class="flyoutnavi jsClassForResize">
-		
-							
-				<ul>
-					
-																
-												
-												
-																		
-												
-						
-												
-						<li class="column first">
-					
-																					
-															
-																
-								<div onmouseover="setOver(this);" onmouseout="setOver(this);">
-									
-																											
-																																				
-																																				
-									<h3><a name="&amp;lid=layerCategories_kategorie_13" href="/cgi-bin/tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;showFilter=yes&amp;hkId=13&amp;nurbuchbar=true&amp;tipps=yes">Music <span>(521)</span></a></h3>
-								
-									<ul>
-																					
-																																												
-																																													<li><a name="&amp;lid=layerCategories_kategorie_13_1A" href="/cgi-bin/tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;showFilter=yes&amp;hkId=13&amp;kategorieKuerzel=1A&amp;nurbuchbar=true&amp;tipps=yes">Rock and Pop</a></li>
-																																
-																																												
-																																													<li><a name="&amp;lid=layerCategories_kategorie_13_1B" href="/cgi-bin/tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;showFilter=yes&amp;hkId=13&amp;kategorieKuerzel=1B&amp;nurbuchbar=true&amp;tipps=yes">Alternative and Indie</a></li>
-																																
-																																												
-																																													<li><a name="&amp;lid=layerCategories_kategorie_13_1D" href="/cgi-bin/tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;showFilter=yes&amp;hkId=13&amp;kategorieKuerzel=1D&amp;nurbuchbar=true&amp;tipps=yes">Clubs and Dance</a></li>
-																																
-																																												
-																																													<li><a name="&amp;lid=layerCategories_kategorie_13_1F" href="/cgi-bin/tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;showFilter=yes&amp;hkId=13&amp;kategorieKuerzel=1F&amp;nurbuchbar=true&amp;tipps=yes">Festivals</a></li>
-																																
-																																												
-																																													<li><a name="&amp;lid=layerCategories_kategorie_13_1G" href="/cgi-bin/tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;showFilter=yes&amp;hkId=13&amp;kategorieKuerzel=1G&amp;nurbuchbar=true&amp;tipps=yes">Hard rock and Metal</a></li>
-																																
-																																												
-																																													<li><a name="&amp;lid=layerCategories_kategorie_13_1C" href="/cgi-bin/tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;showFilter=yes&amp;hkId=13&amp;kategorieKuerzel=1C&amp;nurbuchbar=true&amp;tipps=yes">HipHop and Rap</a></li>
-																																
-																																												
-																																													<li><a name="&amp;lid=layerCategories_kategorie_13_1J" href="/cgi-bin/tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;showFilter=yes&amp;hkId=13&amp;kategorieKuerzel=1J&amp;nurbuchbar=true&amp;tipps=yes">R&amp;B/Urban/Soul</a></li>
-																														</ul>
-								</div>
-							
-																																																
-																					</li>
-											
-												
-												
-																		
-												
-						
-												
-						<li class="column">
-					
-																					
-															
-																
-								<div onmouseover="setOver(this);" onmouseout="setOver(this);">
-									
-																											
-																																				
-																																				
-									<h3><a name="&amp;lid=layerCategories_kategorie_14" href="/cgi-bin/tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;showFilter=yes&amp;hkId=14&amp;nurbuchbar=true&amp;tipps=yes">Sport <span>(12)</span></a></h3>
-								
-									<ul>
-																					
-																																												
-																																													<li><a name="&amp;lid=layerCategories_kategorie_14_2F" href="/cgi-bin/tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;showFilter=yes&amp;hkId=14&amp;kategorieKuerzel=2F&amp;nurbuchbar=true&amp;tipps=yes">Football</a></li>
-																														</ul>
-								</div>
-							
-																																																
-																					</li>
-											
-												
-												
-																		
-												
-						
-												
-						<li class="column">
-					
-																					
-															
-																
-								<div onmouseover="setOver(this);" onmouseout="setOver(this);">
-									
-																											
-																																				
-																																				
-									<h3><a name="&amp;lid=layerCategories_kategorie_15" href="/cgi-bin/tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;showFilter=yes&amp;hkId=15&amp;nurbuchbar=true&amp;tipps=yes">Arts and Theatre <span>(3857)</span></a></h3>
-								
-									<ul>
-																					
-																																												
-																																													<li><a name="&amp;lid=layerCategories_kategorie_15_3A" href="/cgi-bin/tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;showFilter=yes&amp;hkId=15&amp;kategorieKuerzel=3A&amp;nurbuchbar=true&amp;tipps=yes">Ballet and Dance</a></li>
-																																
-																																												
-																																													<li><a name="&amp;lid=layerCategories_kategorie_15_3C" href="/cgi-bin/tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;showFilter=yes&amp;hkId=15&amp;kategorieKuerzel=3C&amp;nurbuchbar=true&amp;tipps=yes">Comedy</a></li>
-																																
-																																												
-																																													<li><a name="&amp;lid=layerCategories_kategorie_15_3E" href="/cgi-bin/tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;showFilter=yes&amp;hkId=15&amp;kategorieKuerzel=3E&amp;nurbuchbar=true&amp;tipps=yes">Musicals</a></li>
-																																
-																																												
-																																													<li><a name="&amp;lid=layerCategories_kategorie_15_3G" href="/cgi-bin/tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;showFilter=yes&amp;hkId=15&amp;kategorieKuerzel=3G&amp;nurbuchbar=true&amp;tipps=yes">Plays</a></li>
-																														</ul>
-								</div>
-							
-																																																
-																					</li>
-											
-												
-												
-																		
-												
-						
-												
-						<li class="column">
-					
-																					
-															
-																
-								<div onmouseover="setOver(this);" onmouseout="setOver(this);">
-									
-																											
-																																				
-																																				
-									<h3><a name="&amp;lid=layerCategories_kategorie_16" href="/cgi-bin/tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;showFilter=yes&amp;hkId=16&amp;nurbuchbar=true&amp;tipps=yes">Family and Attra... <span>(1996)</span></a></h3>
-								
-									<ul>
-																					
-																																												
-																																													<li><a name="&amp;lid=layerCategories_kategorie_16_4B" href="/cgi-bin/tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;showFilter=yes&amp;hkId=16&amp;kategorieKuerzel=4B&amp;nurbuchbar=true&amp;tipps=yes">Family shows</a></li>
-																																
-																																												
-																																													<li><a name="&amp;lid=layerCategories_kategorie_16_4F" href="/cgi-bin/tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;showFilter=yes&amp;hkId=16&amp;kategorieKuerzel=4F&amp;nurbuchbar=true&amp;tipps=yes">Museums and Exhibitions</a></li>
-																																
-																																												
-																																													<li><a name="&amp;lid=layerCategories_kategorie_16_4H" href="/cgi-bin/tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;showFilter=yes&amp;hkId=16&amp;kategorieKuerzel=4H&amp;nurbuchbar=true&amp;tipps=yes">Tourist attractions</a></li>
-																														</ul>
-								</div>
-							
-																																																
-																					</li>
-									</ul>
-					</div>
+			    			    				
+    				<ul>
+    					
+    					    					    						
+    						    						
+    						    						
+    						    						    						
+    						    						
+    						
+    						    						
+    						<li class="column first">
+    					
+    							    							    							
+    								    							
+    								    								
+    								<div onmouseover="setOver(this);" onmouseout="setOver(this);">
+    									
+    									    									    									    									
+    									    									    									    									
+    									    									    									    									
+    									<h3><a name="&amp;lid=layerCategories_kategorie_13" href="tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;showFilter=yes&amp;hkId=13&amp;nurbuchbar=true&amp;tipps=yes">Music <span>(615)</span></a></h3>
+    								
+    									<ul>
+    										    											
+    											    											    											    											
+    											    											    											    												<li><a name="&amp;lid=layerCategories_kategorie_13_1A" href="tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;showFilter=yes&amp;hkId=13&amp;kategorieKuerzel=1A&amp;nurbuchbar=true&amp;tipps=yes">Rock and Pop</a></li>
+    											    										    											
+    											    											    											    											
+    											    											    											    												<li><a name="&amp;lid=layerCategories_kategorie_13_1B" href="tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;showFilter=yes&amp;hkId=13&amp;kategorieKuerzel=1B&amp;nurbuchbar=true&amp;tipps=yes">Alternative and Indie</a></li>
+    											    										    											
+    											    											    											    											
+    											    											    											    												<li><a name="&amp;lid=layerCategories_kategorie_13_1L" href="tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;showFilter=yes&amp;hkId=13&amp;kategorieKuerzel=1L&amp;nurbuchbar=true&amp;tipps=yes">Classical</a></li>
+    											    										    											
+    											    											    											    											
+    											    											    											    												<li><a name="&amp;lid=layerCategories_kategorie_13_1D" href="tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;showFilter=yes&amp;hkId=13&amp;kategorieKuerzel=1D&amp;nurbuchbar=true&amp;tipps=yes">Clubs and Dance</a></li>
+    											    										    											
+    											    											    											    											
+    											    											    											    												<li><a name="&amp;lid=layerCategories_kategorie_13_1E" href="tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;showFilter=yes&amp;hkId=13&amp;kategorieKuerzel=1E&amp;nurbuchbar=true&amp;tipps=yes">Country and Folk</a></li>
+    											    										    											
+    											    											    											    											
+    											    											    											    												<li><a name="&amp;lid=layerCategories_kategorie_13_1F" href="tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;showFilter=yes&amp;hkId=13&amp;kategorieKuerzel=1F&amp;nurbuchbar=true&amp;tipps=yes">Festivals</a></li>
+    											    										    											
+    											    											    											    											
+    											    											    											    												<li><a name="&amp;lid=layerCategories_kategorie_13_1G" href="tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;showFilter=yes&amp;hkId=13&amp;kategorieKuerzel=1G&amp;nurbuchbar=true&amp;tipps=yes">Hard Rock and Metal</a></li>
+    											    										    											
+    											    											    											    											
+    											    											    											    												<li><a name="&amp;lid=layerCategories_kategorie_13_1C" href="tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;showFilter=yes&amp;hkId=13&amp;kategorieKuerzel=1C&amp;nurbuchbar=true&amp;tipps=yes">Hip-hop and Rap</a></li>
+    											    										    											
+    											    											    											    											
+    											    											    											    												<li><a name="&amp;lid=layerCategories_kategorie_13_1I" href="tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;showFilter=yes&amp;hkId=13&amp;kategorieKuerzel=1I&amp;nurbuchbar=true&amp;tipps=yes">Jazz and Blues</a></li>
+    											    										    									</ul>
+    								</div>
+    							
+    								    								    								    								    								    								
+    								    							    						</li>
+    					    						
+    						    						
+    						    						
+    						    						    						
+    						    						
+    						
+    						    						
+    						<li class="column">
+    					
+    							    							    							
+    								    							
+    								    								
+    								<div onmouseover="setOver(this);" onmouseout="setOver(this);">
+    									
+    									    									    									    									
+    									    									    									    									
+    									    									    									    									
+    									<h3><a name="&amp;lid=layerCategories_kategorie_14" href="tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;showFilter=yes&amp;hkId=14&amp;nurbuchbar=true&amp;tipps=yes">Sport <span>(3)</span></a></h3>
+    								
+    									<ul>
+    										    											
+    											    											    											    											
+    											    											    											    												<li><a name="&amp;lid=layerCategories_kategorie_14_3H" href="tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;showFilter=yes&amp;hkId=14&amp;kategorieKuerzel=3H&amp;nurbuchbar=true&amp;tipps=yes">Boxing</a></li>
+    											    										    											
+    											    											    											    											
+    											    											    											    												<li><a name="&amp;lid=layerCategories_kategorie_14_2F" href="tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;showFilter=yes&amp;hkId=14&amp;kategorieKuerzel=2F&amp;nurbuchbar=true&amp;tipps=yes">Football</a></li>
+    											    										    									</ul>
+    								</div>
+    							
+    								    								    								    								    								    								
+    								    							    						</li>
+    					    						
+    						    						
+    						    						
+    						    						    						
+    						    						
+    						
+    						    						
+    						<li class="column">
+    					
+    							    							    							
+    								    							
+    								    								
+    								<div onmouseover="setOver(this);" onmouseout="setOver(this);">
+    									
+    									    									    									    									
+    									    									    									    									
+    									    									    									    									
+    									<h3><a name="&amp;lid=layerCategories_kategorie_15" href="tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;showFilter=yes&amp;hkId=15&amp;nurbuchbar=true&amp;tipps=yes">Arts and Theatre <span>(3961)</span></a></h3>
+    								
+    									<ul>
+    										    											
+    											    											    											    											
+    											    											    											    												<li><a name="&amp;lid=layerCategories_kategorie_15_3A" href="tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;showFilter=yes&amp;hkId=15&amp;kategorieKuerzel=3A&amp;nurbuchbar=true&amp;tipps=yes">Ballet and Dance</a></li>
+    											    										    											
+    											    											    											    											
+    											    											    											    												<li><a name="&amp;lid=layerCategories_kategorie_15_3B" href="tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;showFilter=yes&amp;hkId=15&amp;kategorieKuerzel=3B&amp;nurbuchbar=true&amp;tipps=yes">Cabaret</a></li>
+    											    										    											
+    											    											    											    											
+    											    											    											    												<li><a name="&amp;lid=layerCategories_kategorie_15_3C" href="tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;showFilter=yes&amp;hkId=15&amp;kategorieKuerzel=3C&amp;nurbuchbar=true&amp;tipps=yes">Comedy</a></li>
+    											    										    											
+    											    											    											    											
+    											    											    											    												<li><a name="&amp;lid=layerCategories_kategorie_15_3E" href="tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;showFilter=yes&amp;hkId=15&amp;kategorieKuerzel=3E&amp;nurbuchbar=true&amp;tipps=yes">Musicals</a></li>
+    											    										    											
+    											    											    											    											
+    											    											    											    												<li><a name="&amp;lid=layerCategories_kategorie_15_3G" href="tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;showFilter=yes&amp;hkId=15&amp;kategorieKuerzel=3G&amp;nurbuchbar=true&amp;tipps=yes">Plays</a></li>
+    											    										    									</ul>
+    								</div>
+    							
+    								    								    								    								    								    								
+    								    							    						</li>
+    					    						
+    						    						
+    						    						
+    						    						    						
+    						    						
+    						
+    						    						
+    						<li class="column">
+    					
+    							    							    							
+    								    							
+    								    								
+    								<div onmouseover="setOver(this);" onmouseout="setOver(this);">
+    									
+    									    									    									    									
+    									    									    									    									
+    									    									    									    									
+    									<h3><a name="&amp;lid=layerCategories_kategorie_16" href="tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;showFilter=yes&amp;hkId=16&amp;nurbuchbar=true&amp;tipps=yes">Family and Attra... <span>(3258)</span></a></h3>
+    								
+    									<ul>
+    										    											
+    											    											    											    											
+    											    											    											    												<li><a name="&amp;lid=layerCategories_kategorie_16_4B" href="tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;showFilter=yes&amp;hkId=16&amp;kategorieKuerzel=4B&amp;nurbuchbar=true&amp;tipps=yes">Family Shows</a></li>
+    											    										    											
+    											    											    											    											
+    											    											    											    												<li><a name="&amp;lid=layerCategories_kategorie_16_4F" href="tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;showFilter=yes&amp;hkId=16&amp;kategorieKuerzel=4F&amp;nurbuchbar=true&amp;tipps=yes">Museums and Exhibitions</a></li>
+    											    										    											
+    											    											    											    											
+    											    											    											    												<li><a name="&amp;lid=layerCategories_kategorie_16_4H" href="tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;showFilter=yes&amp;hkId=16&amp;kategorieKuerzel=4H&amp;nurbuchbar=true&amp;tipps=yes">Tourist Attractions</a></li>
+    											    										    									</ul>
+    								</div>
+    							
+    								    								    								    								    								    								
+    								    							    						</li>
+    					    						
+    						    						
+    						    						
+    						    						    						
+    						    						
+    						
+    						    						
+    						<li class="column">
+    					
+    							    							    							
+    								    							
+    								    								
+    								<div onmouseover="setOver(this);" onmouseout="setOver(this);">
+    									
+    									    									    									    									
+    									    									    									    									
+    									    									    									    									
+    									<h3><a name="&amp;lid=layerCategories_kategorie_50" href="tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;showFilter=yes&amp;hkId=50&amp;nurbuchbar=true&amp;tipps=yes">Ticket and Hotel P... <span>(21)</span></a></h3>
+    								
+    									<ul>
+    										    											
+    											    											    											    											
+    											    											    											    												<li><a name="&amp;lid=layerCategories_kategorie_50_50A" href="tickets.html?affiliate=EUK&amp;doc=category&amp;fun=kategorieliste&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;showFilter=yes&amp;hkId=50&amp;kategorieKuerzel=50A&amp;nurbuchbar=true&amp;tipps=yes">Packages - Concert</a></li>
+    											    										    									</ul>
+    								</div>
+    							
+    								    								    								    								    								    								
+    								    							    						</li>
+    					    				</ul>
+    								</div>
 		
 							</div>
 	</div>
@@ -696,12 +950,15 @@
 			
 		
 //-->
-</script>
+</script>  
 
 			
-						<div class="cities" style="width:122px;">
+						<div class="cities w122">
 
-				
+	
+					
+		
+	
 				
 				
 				
@@ -711,23 +968,59 @@
 				
 				
 				
+				
 		<div class="dropdownBtn">
-					<a href="javascript:void(0);" id="eveUniqueId1" onmouseover="javascript:if(((Eve || {}).DynamicLayers || false)) Eve.DynamicLayers.quickFx(this, { triggerCss:'active', layerEl:'eveUniqueId2', profile:'simpleLayer',offsetX:0, offsetY:5, depth:100, closeElements:'#eveUniqueId1' });" name="&amp;lid=header_mainNav_cityOverview"><span><span>All locations</span></span></a>
+					<a href="javascript:void(0);" id="mainNavCitiesLayerBtnId" onmouseover="javascript:if(((Eve || {}).DynamicLayers || false)) Eve.DynamicLayers.quickFx(this, { triggerCss:'active', layerEl:'mainNavCitiesLayer', profile:'simpleLayer',offsetX:0, offsetY:5, depth:100, closeElements:'#mainNavCitiesLayerBtnId', offsetEl : '' });" name="&amp;lid=header_mainNav_cityOverview"><span><span>All Cities</span></span></a>
 			</div>
 	
-			<div id="eveUniqueId2" class="" style="display:none;">
+			<div id="mainNavCitiesLayer" class="" style="display:none;">
 		
 		
 		<div class="reset">
 			
-							
+						
 		<div id="mainNavPlaces" class="flyoutnavi">
 			
-									
+									<ul>
+						
+								
+									 <li class="first"><div onmouseover="setOver(this);" onmouseout="setOver(this);"><ul>
+    														
+					<li><a name="&amp;lid=header_layerCities_ortId_186" href="tickets.html?affiliate=EUK&amp;doc=city&amp;fun=ortsliste&amp;ortId=186&amp;tipps=yes&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;nurbuchbar=true">Birmingham</a></li>
+					    																							
+					<li><a name="&amp;lid=header_layerCities_ortId_192" href="tickets.html?affiliate=EUK&amp;doc=city&amp;fun=ortsliste&amp;ortId=192&amp;tipps=yes&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;nurbuchbar=true">Brighton</a></li>
+					    																							
+					<li><a name="&amp;lid=header_layerCities_ortId_184" href="tickets.html?affiliate=EUK&amp;doc=city&amp;fun=ortsliste&amp;ortId=184&amp;tipps=yes&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;nurbuchbar=true">Bristol</a></li>
+					    																							
+					<li><a name="&amp;lid=header_layerCities_ortId_185" href="tickets.html?affiliate=EUK&amp;doc=city&amp;fun=ortsliste&amp;ortId=185&amp;tipps=yes&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;nurbuchbar=true">Cardiff</a></li>
+					    																							
+					<li><a name="&amp;lid=header_layerCities_ortId_183" href="tickets.html?affiliate=EUK&amp;doc=city&amp;fun=ortsliste&amp;ortId=183&amp;tipps=yes&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;nurbuchbar=true">Glasgow</a></li>
+					    				</ul></div></li>									<li><div onmouseover="setOver(this);" onmouseout="setOver(this);"><ul>
+    														
+					<li><a name="&amp;lid=header_layerCities_ortId_187" href="tickets.html?affiliate=EUK&amp;doc=city&amp;fun=ortsliste&amp;ortId=187&amp;tipps=yes&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;nurbuchbar=true">Leeds</a></li>
+					    																							
+					<li><a name="&amp;lid=header_layerCities_ortId_191" href="tickets.html?affiliate=EUK&amp;doc=city&amp;fun=ortsliste&amp;ortId=191&amp;tipps=yes&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;nurbuchbar=true">Leicester</a></li>
+					    																							
+					<li><a name="&amp;lid=header_layerCities_ortId_190" href="tickets.html?affiliate=EUK&amp;doc=city&amp;fun=ortsliste&amp;ortId=190&amp;tipps=yes&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;nurbuchbar=true">Liverpool</a></li>
+					    																							
+					<li><a name="&amp;lid=header_layerCities_ortId_181" href="tickets.html?affiliate=EUK&amp;doc=city&amp;fun=ortsliste&amp;ortId=181&amp;tipps=yes&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;nurbuchbar=true">London</a></li>
+					    																							
+					<li><a name="&amp;lid=header_layerCities_ortId_182" href="tickets.html?affiliate=EUK&amp;doc=city&amp;fun=ortsliste&amp;ortId=182&amp;tipps=yes&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;nurbuchbar=true">Manchester</a></li>
+					    				</ul></div></li>									<li><div onmouseover="setOver(this);" onmouseout="setOver(this);"><ul>
+    														
+					<li><a name="&amp;lid=header_layerCities_ortId_194" href="tickets.html?affiliate=EUK&amp;doc=city&amp;fun=ortsliste&amp;ortId=194&amp;tipps=yes&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;nurbuchbar=true">Newcastle</a></li>
+					    																							
+					<li><a name="&amp;lid=header_layerCities_ortId_189" href="tickets.html?affiliate=EUK&amp;doc=city&amp;fun=ortsliste&amp;ortId=189&amp;tipps=yes&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;nurbuchbar=true">Nottingham</a></li>
+					    																							
+					<li><a name="&amp;lid=header_layerCities_ortId_188" href="tickets.html?affiliate=EUK&amp;doc=city&amp;fun=ortsliste&amp;ortId=188&amp;tipps=yes&amp;detailadoc=erdetaila&amp;detailbdoc=evdetailb&amp;nurbuchbar=true">Sheffield</a></li>
+											        				                            <li><div class="cityLayerPadding">&nbsp;</div></li>				
+						                            <li><div class="cityLayerPadding">&nbsp;</div></li>				
+											    				</ul></div></li>							</ul>
+						
 			<div class="mods">
 				<div class="reset">
 					<div class="formulars">
-	<form action="/cgi-bin/tickets.html?affiliate=EUK" method="get" class="ignoreBecauseLayer">
+	<form action="tickets.html?affiliate=EUK" method="get" class="ignoreBecauseLayer">
 		<input type="hidden" name="affiliate" value="EUK" class="set">
 		<input type="hidden" name="fun" value="search" class="set">
 		<input type="hidden" name="action" value="power" class="set">
@@ -764,8 +1057,50 @@
 			</div>
 	</div>
 </div>			
-						<div class="quickSearch">
-	<form class="last" action="/cgi-bin/tickets.html?affiliate=EUK" method="get">
+									
+								
+				<script type="text/javascript" language="javascript">
+<!--    	
+	
+jQuery(function() {	
+	
+	function log(event, data, formatted) {
+		jQuery("<li>").html( !data ? "No match!" : "Selected: " + formatted).appendTo("#result");
+	}
+	
+	function formatItem(row) {
+		return row[0] + " (<strong>id: " + row[1] + "</strong>)";
+	}
+	function formatResult(row) {
+		return row[0].replace(/(<.+?>)/gi, '');
+	}
+
+	jQuery("#suchbegriff").autocomplete("suggestionSearch.html?affiliate=EUK&fun=search&action=suggestion&doc=search/issuance/suggestion&fuzzy=yes", {
+			max: 8,
+			minChars: 2,
+			width: eval(jQuery("#suchbegriff").width()+14),    			
+			scroll: false,
+			selectFirst: false,
+			matchSubset: false,
+			suggestHeaderTitle: 'Search suggestions'
+
+
+	});
+	
+	jQuery("#suchbegriff").result(function(event, data, formatted){		
+		if (data) {
+				$(this).parent().next().find("input").val(data[1]);		
+				$(this).closest("form").submit();		
+		}
+	});
+		
+	
+});
+
+//-->
+</script>
+<div class="quickSearch notToBePrinted">
+	<form class="last" action="tickets.html?affiliate=EUK" method="get" name="search">
 		<input type="hidden" name="affiliate" value="EUK" class="set">
 		<input type="hidden" name="fun" value="search" class="set">
 		<input type="hidden" name="action" value="search" class="set">
@@ -775,15 +1110,14 @@
 		<input type="hidden" name="kudoc" value="artist" class="set">
 		<input type="hidden" name="sort_by" value="score" class="set">		<input type="hidden" name="sort_direction" value="desc" class="set">
 		<input type="hidden" name="fuzzy" value="yes" class="set">
-		
 		<fieldset class="last">
 			<div class="quickSearchInput">
 				
-													<a class="next nextLight" href="/cgi-bin/tickets.html?affiliate=EUK&amp;doc=search/extendedSearch&amp;fun=search&amp;action=power&amp;show=form" name="&amp;lid=header_extSearch">Advanced search</a>
+													<a class="next nextLight" href="tickets.html?affiliate=EUK&amp;doc=search/extendedSearch&amp;fun=search&amp;action=power&amp;show=form" name="&amp;lid=header_extSearch">Advanced Search</a>
 								
 				<br>
 				
-								<input type="text" class="input required" alt="Search for artists and events" name="suchbegriff" value="">
+							    <input type="text" id="suchbegriff" class="input required ac_input" alt="Search for artists and events" name="suchbegriff" value="" autocomplete="off">
 			</div>
 			
 			<div class="quickSearchBtn">
@@ -801,22 +1135,20 @@
 						</div>
 		</fieldset>
 	</form>
-</div>			
-			<div class="clearFloat"></div>
+</div>					
+						
+			<div class="clearFloat"></div>                      
 		</div>
 	</div>
-</div></div>
-<!-- /Header -->
-
-
-
-<a name="content"></a>
-
+</div>   	</div>
+	<!-- /Header -->
+		<a name="content"></a>
+	
 
 	<!-- Content -->
 	<div class="mods"><div id="content" class="content">
 		
-		<div class="mods"><div class="reset main">
+		<div class="mods mainMods"><div class="reset main" id="mainParent">
 			
 				<h2>Eventim Privacy Policy</h2>
 
@@ -841,10 +1173,12 @@
 				<li><a href="#4">How We Use Personal Information</a></li>
 				<li><a href="#5">Opting Out</a></li>
 				<li><a href="#6">How We Use Financial Information </a></li>
-                <li><a href="#7">Disclosure of Your Personal Information and Financial Information in Compliance with Laws</a></li>
-                <li><a href="#8">Other web sites</a></li>
-				<li class="href"><a href="#9">Our Security Precautions</a></li>
-				<li class="last"><a href="#10">Consumer Protection</a></li>
+                		<li><a href="#7">Disclosure of Your Personal Information and Financial Information in Compliance with Laws</a></li>
+                		<li><a href="#8">Other web sites</a></li>
+				<li><a href="#9">Our Security Precautions</a></li>
+				<li><a href="#10">Consumer Protection</a></li>
+				<li class="last"><a href="#11">Social Network plug-ins</a></li>
+			
 			</ul>
 		</div>		
 	
@@ -864,7 +1198,7 @@
             	We use your IP address to help diagnose problems with our server and to administer the Site. Your IP address is also used to help identify you and to gather broad demographic information about you. Your IP address may also be used to assist in the detection of fraud and we shall have the right to pass this information to the police.
             </p>
     
-    		<div class="toTop"><a href="#top" title="Go to top of page.">Back to top</a></div>
+    		<div class="toTop"><a href="#top" title="Go to top of page.">Back to Top</a></div>
     	</dd>
     
 		<dt class="h3"><a name="2"></a><abbr title="Romeinse twee">II.</abbr>Cookies</dt>
@@ -874,7 +1208,7 @@
                 </p>
         	
 	
-    		<div class="toTop"><a href="#top" title="Go to top of page.">Back to top</a></div>
+    		<div class="toTop"><a href="#top" title="Go to top of page.">Back to Top</a></div>
         </dd>
         
 		<dt class="h3"><a name="3"></a><abbr title="Romeinse drie">III.</abbr> Information We Request Directly From You </dt>
@@ -883,7 +1217,7 @@
             	Our Site's registration forms, order forms and other forms may require you to give us personal information (like your name, address and/or email address). You must register on our site to order tickets, and you will be asked to provide financial information so your order may be processed.   You may retrieve and modify data saved to enable your use of the Site via your user account at any time.  Under certain circumstances, personal data can only be deleted following a certain period of time due to legal or contractual storage obligations. In this case, the affected data will be locked until the time of deletion.
             </p>
     	
-        	<div class="toTop"><a href="#top" title="Go to top of page.">Back to top</a></div>
+        	<div class="toTop"><a href="#top" title="Go to top of page.">Back to Top</a></div>
         </dd>
 	
     	<dt class="h3"><a name="4"></a><abbr title="Romeins vier">IV.</abbr> How We Use Personal Information </dt>
@@ -892,7 +1226,7 @@
             	Your personal information is shared between Eventim and the Promoter or Venue for the particular event for which you are buying tickets in accordance with this Privacy Policy and Eventim's contractual relationship with the Promoter or Venue. Your personal information is used by us to contact you by post, phone or by email when necessary in connection with transactions entered by you on the Site.  We will not use your personal information for communications not associated with your transactions without your explicit consent.  We will not pass your data to third parties unless you provide your explicit consent. 
            	</p>
     		
-            <div class="toTop"><a href="#top" title="Go to top of page.">Back to top</a></div>
+            <div class="toTop"><a href="#top" title="Go to top of page.">Back to Top</a></div>
     	</dd>
     
     	<dt class="h3"><a name="5"></a><abbr title="Romeinse vijf">V.</abbr> Opting Out</dt>
@@ -901,7 +1235,7 @@
             	You may opt out of any of Eventim's regular email contact at any time even if you have previously indicated your consent to such contact at some other time.
             </p>
             
-  			<div class="toTop"><a href="#top" title="Go to top of page.">Back to top</a></div>
+  			<div class="toTop"><a href="#top" title="Go to top of page.">Back to Top</a></div>
    		</dd>
    
     	<dt class="h3"><a name="6"></a><abbr title="Romeinse zes">VI.</abbr> How We Use Financial Information</dt>
@@ -910,7 +1244,7 @@
             	Financial information that is collected is used to authorise payment and bill you for products and services. When you make a purchase on the Site, your consent is given to provide your financial or personal information to those third parties necessary to process your transactions with us, such as credit card companies, banks and the companies that handle shipping on our behalf. This includes exchanging information with other companies and organisations for fraud protection and credit risk reduction. Except as provided above, we will not share financial information with third parties without your prior consent. 
             </p>
             
-   			<div class="toTop"><a href="#top" title="Go to top of page.">Back to top</a></div>
+   			<div class="toTop"><a href="#top" title="Go to top of page.">Back to Top</a></div>
    		</dd>
    
     	<dt class="h3"><a name="7"></a><abbr title="Romeinse zeven">VII.</abbr> Disclosure of Your Personal Information and Financial Information in Compliance with Laws</dt>
@@ -918,7 +1252,7 @@
     		<p> 
             	We may release your personal information or financial information when we believe it is necessary to comply with laws or regulations, to assist law enforcement, to enforce the terms under which you transacted with Eventim, or to protect the rights, property or safety of Eventim, users of the Site or others.
             </p>
-    		<div class="toTop"><a href="#top" title="Go to top of page.">Back to top</a></div>
+    		<div class="toTop"><a href="#top" title="Go to top of page.">Back to Top</a></div>
     	</dd>
     
     	<dt class="h3"><a name="8"></a><abbr title="Romeinse acht">VIII.</abbr> Other web sites </dt>
@@ -927,7 +1261,7 @@
             	This Site may contain links to other web sites, details of which are provided for information only.  Eventim has no responsibility for such sites and nor does it have responsibility for the privacy practices or the content of such web sites or for the privacy policies and practices of other third parties, and you should be careful to read those web sites' privacy policies independently. 
             </p>
     		
-            <div class="toTop"><a href="#top" title="Go to top of page.">Back to top</a></div>
+            <div class="toTop"><a href="#top" title="Go to top of page.">Back to Top</a></div>
     	</dd>
     
     	<dt class="h3"><a name="9"></a><abbr title="Romeinse negen">IX.</abbr> Our Security Precautions</dt>
@@ -939,7 +1273,7 @@
 
             <p></p>
    			
-            <div class="toTop"><a href="#top" title="Go to top of page.">Back to top</a></div>
+            <div class="toTop"><a href="#top" title="Go to top of page.">Back to Top</a></div>
 		</dd>
     
     	<dt class="h3"><a name="10"></a><abbr title="Romeinse negen">X.</abbr> Consumer Protection</dt>
@@ -947,24 +1281,51 @@
         	<p>
             	These General Terms and Conditions (Internet) are subject to the relevant provisions of The Consumer Protection (Distance Selling) Regulations 2000. </p>
    			
-            <div class="toTop"><a href="#top" title="Go to top of page.">Back to top</a></div>
+            <div class="toTop"><a href="#top" title="Go to top of page.">Back to Top</a></div>
+		</dd>
+
+    	<dt class="h3"><a name="11"></a><abbr title="Romeinse negen">XI.</abbr> Social Network plug-ins</dt>
+		<dd>
+        	<p>
+            	Our web site hosts social plug-ins for the many social networks.
+		</p>
+		<p>
+		When a web page containing a social plug-in (such as the ‘Like/Recommend’ or 'Tweet' button) is accessed, the user’s browser connects to the social networks servers 
+		and the content required for the social plug-ins is downloaded. The operator of the social network receives the web address of the web site accessed by the user, 
+		the date and time of access and the IP address of the user amongst other information. If the user is logged into their social network account, the social network may be able to relate the visit to that page 
+		to the user’s social network account. If the user clicks the social network button inside our web site, this information may also be transferred to the social network 
+		and stored there. If the user does not wish this information to be sent to the social network, he or she must log out of their social network before visiting our web site. 
+		If the user of the web site is not a member of the social network, there is still a possibility that the social network will identify and store the user’s IP address.
+		</p>
+		<p>
+		Eventim UK Limited has no control over the content of the plug-ins or of the information transferred to social networks. 
+		The purpose and scope of data collection, the further processing and use of the data by the social networks and the user’s rights and setting options to 
+		protect the user’s privacy can be found in the privacy policies of the networks, for example: <br><br>
+		Facebook privacy policy at http://www.facebook.com/policyphp<br>
+		Twitter privacy policy at http://twitter.com/privacy<br>
+		AddThis privacy policy at http://www.addthis.com/privacy
+		</p>
+   			
+            <div class="toTop"><a href="#top" title="Go to top of page.">Back to Top</a></div>
 		</dd>
   	</dl>
 	
-	<p>Last update: 04.08.2008</p>			
-				<div class="pageSpacer"><hr></div>
+	<p>Last update: 05.04.2011</p>			
+				<div class="pageEnd">
+		<div class="pageSpacer"><hr></div>
 	
-	<div class="pMargins marginBottomL">
-							
-									
-									
-									
-			<a class="back floatLeft " href="javascript:history.back();" title="Call up previous page.">Back</a>
-				
-				
-							<div class="clearFloat"></div>
+    	<div class="pMargins marginBottomL">
+    		    		    			
+    			    			    			
+    			    			    			
+    			    			    			
+    			<a class="back floatLeft " href="javascript:history.back();" title="Call up previous page.">Back</a>
+    		    		
+    		    		
+    		    			    		<div class="clearFloat"></div>
+    	</div>
 	</div>
-					
+    					
 		</div></div>
 		
 				
@@ -974,47 +1335,88 @@
 </div>
 <!-- /Wrapper -->
 
-
-<script language="javascript" type="text/javascript">
-<!--
-	hbx.pn="dataProtection";
-	hbx.pndef="title";
-	hbx.ctdef="full";
-	hbx.seg="";
-	hbx.fnl="";
-	hbx.mlc="About_Eventim/";
-//-->
-</script>
-<!-- Footer -->
-<!-- Footer -->
-<div id="footer">
-
-    <div id="footerIn">	
-		<div>
-							<h5>EVENTIM</h5>
-				<ul>
-																				<li><a name="&amp;lid=footer_investorRelations" href="http://www.eventim.de/cgi-bin/tinfo.dll?doc=invre/eng/invre_start&amp;affiliate=evg" target="_blank">Investor Relations</a></li>					<li><a name="&amp;lid=footer_international" href="/cgi-bin/tickets.html?affiliate=EUK&amp;doc=feature/international">EVENTIM International</a></li>					<li><a name="&amp;lid=footer_terms" href="/cgi-bin/tickets.html?affiliate=EUK&amp;doc=info/terms">Terms and Conditions of sale</a></li>					<li><a name="&amp;lid=footer_dataProtection" href="/cgi-bin/tickets.html?affiliate=EUK&amp;doc=info/dataProtection">Privacy Policy</a></li>					<li><a name="&amp;lid=footer_imprint" href="/cgi-bin/tickets.html?affiliate=EUK&amp;doc=info/imprint">Company information</a></li>				</ul>
-					</div>
-		<div>
-						
-					</div>
-		<div>
-							<h5>Customer service</h5>
-				<ul>
-					<li><a name="&amp;lid=footer_frequentQuestions" href="/cgi-bin/tickets.html?affiliate=EUK&amp;doc=feature/helpContact/start&amp;fun=thelp">FAQ</a></li>					<li><a name="&amp;lid=footer_customerService" href="/cgi-bin/tickets.html?affiliate=EUK&amp;fun=thelpcontent&amp;doc=feature/helpContact/details&amp;hilfeid=6306">Customer Services department</a></li>																			</ul>
-					</div>
-		
+			
 				
-		<div>
-							<h5>Services</h5>
+	
+				
+	<script language="javascript" type="text/javascript">
+	<!--
+		xtnv = document; 				//parent.document or top.document or document 
+		xtsd = "https://logs1125"; 
+		xtsite = "469353"; 			//site number 
+		xtn2 = "8"; 			//level 2 site 
+		xtpage = "dataProtection"; 			//page name (with the use of :: to create chapters) 
+		xt_multc = "&x4=eventim/euktemp/&x5=EUK&x6=false&x7=en-GB"; 			//customised indicators 
+		
+		//do not modify below
+		if (window.xtparam!=null){window.xtparam+=xt_multc;}
+		else{window.xtparam=xt_multc;};
+	//-->
+	</script>
+	<script type="text/javascript" src="/obj/eventim/extensions/global/tracking//UK-eventim/js/xtcore.js"></script> 
+	<noscript> 
+	<img width="1" height="1" src="https://logs1125.xiti.com/hit.xiti?s=469353&s2=8&p=dataProtection" > 
+	</noscript>
+	
+			
+<!-- Footer -->
+
+
+
+	<div id="footer"><!-- Footer -->
+    <div id="footerIn">	
+        	
+        		
+
+
+
+
+
+
+
+
+                                           
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    			<div>
+        			
+				<h5>EVENTIM</h5>
+                
 				<ul>
-					<li><a name="&amp;lid=footer_ticketAlarm" href="/cgi-bin/tickets.html?affiliate=EUK&amp;doc=feature/ticketAlarm&amp;action=show&amp;fun=newsletter">Ticket alert</a></li>					<li><a name="&amp;lid=footer_newsletter" href="/cgi-bin/tickets.html?affiliate=EUK&amp;doc=feature/newsletter&amp;fun=newsletter&amp;action=show">Newsletter</a></li>																									<li><a name="&amp;lid=footer_eventimInfo" href="/cgi-bin/tickets.html?affiliate=EUK&amp;doc=feature/serviceNews/search">Latest news and announcements</a></li>				</ul>
-					</div>
-		<div>
-					</div>
-	</div>
-	</div>
-<!-- /Footer -->
+                	                    	                			<li><a href="tickets.html?affiliate=EUK&amp;fun=investor&amp;doc=eventim/default/info/en/investor" target="_self" title="Investor Relations" onclick="" class="" rel="">Investor Relations</a></li>
+                        					                    	                			<li><a href="tickets.html?affiliate=EUK&amp;doc=feature/international" target="_self" title="EVENTIM International" onclick="" class="" rel="">EVENTIM International</a></li>
+                        					                    	                			<li><a href="tickets.html?affiliate=EUK&amp;doc=info/terms" target="_self" title="Terms and Conditions of Sale" onclick="" class="" rel="">Terms and Conditions of Sale</a></li>
+                        					                    	                			<li><a href="tickets.html?affiliate=EUK&amp;doc=info/dataProtection" target="_self" title="Privacy Policy" onclick="" class="" rel="">Privacy Policy</a></li>
+                        					                    	                			<li><a href="tickets.html?affiliate=EUK&amp;doc=info/imprint" target="_self" title="Company Information" onclick="" class="" rel="">Company Information</a></li>
+                        					                    
+                </ul>
+				
+                
+        		</div>
+        		
+	    	
+        		
+
+
+
+
+
+                                           
+
+ 
 
 
 
@@ -1027,30 +1429,135 @@
 
 
 
+    
+    			<div>
+        			
+				<h5>B2B</h5>
+                
+				<ul>
+                	                    						                    	                			<li><a href="tickets.html?affiliate=EUK&amp;doc=feature/partner" target="_self" title="Partner" onclick="" class="" rel="">Partner</a></li>
+                        					                    
+                </ul>
+				
+                
+        		</div>
+        		
+	    	
+        		
 
 
 
-<script type="text/javascript" language="javascript">
-<!--
 
-							if (!(new RegExp("^GB_en_", "gi")).test((hbx.mlc || ''))) hbx.mlc = "GB_en_" + (hbx.mlc || '');
+
+
+
+                                           
+
+
+
+
+
+
+
+
+
+
+
+    
+    			<div>
+        			
+				<h5>Customer Services</h5>
+                
+				<ul>
+                	                    	                			<li><a href="tickets.html?affiliate=EUK&amp;fun=thelp&amp;doc=feature/helpContact/start&amp;fun=thelp" target="_self" title="FAQ" onclick="" class="" rel="">FAQ</a></li>
+                        					                    	                			<li><a href="tickets.html?affiliate=EUK&amp;fun=thelpcontent&amp;doc=feature/helpContact/details&amp;hilfeid=6306" target="_self" title="Customer Services Department" onclick="" class="" rel="">Customer Services Department</a></li>
+                        					                    						                    						                    
+                </ul>
+				
+                
+        		</div>
+        		
+	    	
+        		
+
+
+	<div class="hotline">
+	<h5>Ticket Hotline: </h5>
+    	    <p>0844 249 1000 </p>
+	
+		
+  	<p class="small last"><a href="tickets.html?affiliate=EUK&amp;fun=thelpcontent&amp;doc=feature/helpContact/details&amp;hilfeid=7122" class="more">Opening Times</a></p>
 
 	
-									
-//-->
-</script>
-
-<script src="/javascript/hbx.js" type="text/javascript" language="javascript1.1"></script>
-<!--END WEBSIDESTORY CODE--><!-- /Footer -->
-
-
-<!--02.03.2010 13:38:42:300 Generiert vom www21 in 8 ms (s = 1; f = 0; p = 7; Request-Nr = 289845 RequestId = 1267452447030932921; Version = 2.7.0.028g; Parser = 1);-->
-
-									
-							
+	
+</div>      
+    				
+				<h5></h5>
+                
+				<ul>
+                	                    
+                </ul>
 				
-			
+                
+        		
+	    	
+        		
 
-			
 
+
+
+
+
+
+
+
+
+
+
+
+                                           
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    			<div>
+        			
+				<h5>Services</h5>
+                
+				<ul>
+                	                    	                			<li><a href="tickets.html?affiliate=EUK&amp;doc=feature/ticketAlarm&amp;action=show&amp;fun=newsletter" target="_self" title="Ticket Alarm" onclick="" class="" rel="">Ticket Alarm</a></li>
+                        					                    	                			<li><a href="tickets.html?affiliate=EUK&amp;fun=newsletter&amp;doc=feature/newsletter&amp;action=show" target="_self" title="Newsletter" onclick="" class="" rel="">Newsletter</a></li>
+                        					                    						                    	                			<li><a href="tickets.html?affiliate=EUK&amp;fun=repstart&amp;doc=feature/fanReport/start" target="_self" title="Fan Report" onclick="" class="" rel="">Fan Report</a></li>
+                        					                    						                    	                			<li><a href="tickets.html?affiliate=EUK&amp;doc=feature/serviceNews/search" target="_self" title="Latest News and Announcements" onclick="" class="" rel="">Latest News and Announcements</a></li>
+                        					                    
+                </ul>
+				
+                
+        		</div>
+        		
+			
+	</div>
+    <!-- important Tipp? -->
+	</div><!-- /Footer -->
+
+
+
+
+
+
+<!-- ec: 0 --><!-- /Footer -->
+
+
+<!--27.05.2011 12:26:27:952 Generiert vom www26 in 53 ms (s = 0; f = 0; p = 53; Request-Nr = 2168449 RequestId = 1305725153226916726; Version = 3.1.0.015; Parser = 1);-->
 </body></html>
