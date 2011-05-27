@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biologycorner.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223194911id_/http%3A//www.biologycorner.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biologycorner.com privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527150830id_/http%3A//www.biologycorner.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Biology Corner
 
