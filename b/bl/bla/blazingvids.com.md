@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blazingvids.com privacy policy that was archived on 2010-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101209141838id_/http%3A//blazingvids.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blazingvids.com privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527132103id_/http%3A//blazingvids.com/info/privacy) for the most accurate reproduction.*
 
 # Blazing Vids - Hundreds Of Adult DVDs For Download
 
