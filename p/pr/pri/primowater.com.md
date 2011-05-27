@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the primowater.com privacy policy that was archived on 2010-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100916021022id_/http%3A//www.primowater.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the primowater.com privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527051914id_/http%3A//www.primowater.com/Other/Privacy-Policy.aspx) for the most accurate reproduction.*
 
-# A better tasting drinking water, better for the environment. Primo Water Taste Perfection. Privacy Policy.
+# Primo Water - PrimoWater.com Privacy Policy
 
-Effective April 4, 2008
+_Effective April 4, 2008_
 
 To provide you with superior service, Primo Water Corporation and its subsidiaries ("Primo," "we" or "us") may collect certain personal information from you when you visit our website. When you submit this information, it will help us to provide you with faster personalized service and it may allow you to access certain promotions, special offers and information about new products and services. We recognize, however, and are committed to protecting, your need for privacy and security as you visit our website.
 
@@ -10,50 +10,36 @@ To demonstrate this commitment, we created this privacy and security statement (
 
 This Statement covers the collection, use, and disclosure of personal information that may be collected by us anytime you interact with us by visiting our website, purchasing our products or when interacting with a Primo customer service representative.
 
-### Collection of Personally Identifiable Information
+**Collection of Personally Identifiable Information**  
+Generally, no personally identifiable information, such as your name or mailing address, will be collected by us when you visit the our website, nor is its submission required for you to visit our website. Occasionally, Primo may offer website programs such as contests, sweepstakes, promotions, surveys, or online services. To participate in these programs, you must have a valid e-mail and mailing address, and you may be required to provide personal information (which may include, but not be limited to, your name, password, telephone numbers, email addresses, mailing addresses, demographic information, and other data) (collectively, "Personal Information"). In addition, there are portions of this website where we may need to collect Personal Information from you for a specific purpose, such as to provide you with information requested by you. We will not collect any Personal Information about you unless you voluntarily provide it to us. Your decision to provide such information and participate in such programs will be entirely voluntary.
 
-Generally, no personally identifiable information, such as your name or mailing address, will be collected by us when you visit the our website, nor is its submission required for you to visit our website.
-
-Occasionally, Primo may offer website programs such as contests, sweepstakes, promotions, surveys, or online services. To participate in these programs, you must have a valid e-mail and mailing address, and you may be required to provide personal information (which may include, but not be limited to, your name, password, telephone numbers, email addresses, mailing addresses, demographic information, and other data) (collectively, "Personal Information"). In addition, there are portions of this website where we may need to collect Personal Information from you for a specific purpose, such as to provide you with information requested by you. We will not collect any Personal Information about you unless you voluntarily provide it to us. Your decision to provide such information and participate in such programs will be entirely voluntary.
-
-### Use of Personal Information
-
+**Use of Personal Information**  
 Primo will be the sole owner of all Personal Information collected through the programs referred to in the preceding paragraph and this website. If you decide to voluntarily provide Primo with Personal Information in relation to one of our website programs, we will store such information in protected databases on secured servers with restricted access.
 
 When Personal Information is collected from you, we will let you know how we will use the Personal Information. In addition to our website and programs, we may use the Personal Information you provide to respond to your inquiry or to process your request for information. Primo will not share or sell your Personal Information with any third party for its marketing use. We may share your Personal Information with other companies we have hired to provide us with specific services. Your Personal Information will only be used by these third parties (or their subcontractors) to perform the assigned services for which they were hired.
 
-Also, through a hosting company for our website, we may collect certain additional information from you as a visitor to our website, such as Internet addresses and browser version and type. This information may be logged by us or our hosting company to help diagnose technical problems, and to administer the website in order to improve the quality of our service. We may also track and analyze non-identifying information and aggregate usage and volume statistical information from our visitors and customers and provide such anonymous statistical information to third parties. It may not be readily apparent that this information is being collected. If you would like to find out more about the privacy practices of our hosting company, please contact us using the contact information provided below and we will provide you with the name of, and contact information for our current hosting company
+Also, through a hosting company for our website, we may collect certain additional information from you as a visitor to our website, such as Internet addresses and browser version and type. This information may be logged by us or our hosting company to help diagnose technical problems, and to administer the website in order to improve the quality of our service. We may also track and analyze non-identifying information and aggregate usage and volume statistical information from our visitors and customers and provide such anonymous statistical information to third parties. It may not be readily apparent that this information is being collected. If you would like to find out more about the privacy practices of our hosting company, please contact us using the contact information provided below and we will provide you with the name of, and contact information for our current hosting company. With your permission, we may use your contact information to send you information about Primo and related products and services. You can always opt-out of these communications.
 
-With your permission, we may use your contact information to send you information about Primo and related products and services. You can always opt-out of these communications. 
-
-### Opting Out of Information Collection
-
+**Opting Out of Information Collection**  
 Our website allows visitors to opt-out of receiving communication when we request Personal Information from you, or through other means as identified. You may opt-out of providing Personal Information by simply not providing such information or by discontinuing the use of our website, or those portions of our website that require you to submit Personal Information. To ensure immediate removal from any of our electronic mailing lists, follow the specific instructions outlined within the communication you receive from us. If, however, you are unable to complete the process described in the communication, please send a copy of the undesired email to the address below and state that you wish to be removed from the mailing list.
 
 You may review, update, modify or remove your Personal Information provided to us at any time. Simply mail a detailed request to the address below.
 
-### Usage Restrictions for Children
-
+**Usage Restrictions for Children**  
 The Primo website is not intended for persons under 13 years of age. Primo does not knowingly collect or intend to collect Personal Information from children through our website in any circumstance. Please do not allow children to provide such information or participate in any of our website programs. If you become aware that this has occurred, please contact us at the address below to request the deletion of that information.
 
-### Third Party Websites
-
+**Third Party Websites**  
 Primo may partner with retailers, manufacturers, or other companies at various times to provide expanded services to our website guests. As part of such a relationship, Primo may share with these companies the use of certain website functions and/or information, and our website may contain links to such partner's sites. Primo is not responsible for the privacy practices or the content of any third party websites. Primo website visitors that link to other websites from the Primo site will need to check the privacy and security policy statement of such third party websites in order to understand such third party's privacy and security policies.
 
-### Certain Disclosures of Personal Information
-
-If Primo sells or transfers part or all of its business assets, consumer information may be one of the business assets transferred as part of the transaction.
-
-Primo may disclose Personal Information in special cases when it believes that disclosure of this information is necessary to comply with or conform to the law or that such disclosure is necessary to protect the users of our website, the website itself, or the public.
+**Certain Disclosures of Personal Information**  
+If Primo sells or transfers part or all of its business assets, consumer information may be one of the business assets transferred as part of the transaction. Primo may disclose Personal Information in special cases when it believes that disclosure of this information is necessary to comply with or conform to the law or that such disclosure is necessary to protect the users of our website, the website itself, or the public.
 
 The Primo website may provide chat rooms, forums, message boards, and/or news groups to its users at various times. Please remember that, unless otherwise stated, any information you disclose in these areas becomes public information. Primo is not responsible for such disclosures. Please exercise caution.
 
-### Cookies
-
+**Cookies**  
 Primo may use a browser feature known as a "cookie," which are small files sent from our website to your computer. Cookies save non-personal information that enhances your use of our website. Cookies do not contain Personal Information and do not identify you personally. They merely recognize your browser. Cookies can be disabled or flagged by your browser. Please refer to the help feature in your browser software for more information. Note - disabling cookies may negatively affect the performance of the Primo website.
 
 Primo also tracks certain navigational information about where you go on our website. This information helps us to determine the most popular and least popular areas of our website so we can provide you with the best website possible. This information is only gathered collectively and is not associated with a specific individual, and it may not be readily apparent that this information is being collected. This type of information may occasionally be provided to third parties to demonstrate interest in our site and to help us administer the website.
 
-### Privacy Statement Revisions
-
-This Statement is subject to change without notice as our website is enhanced and as Internet privacy standards evolve. To ensure that you are fully informed about how your Personal Information may be used, our Statement will always be available for review on our website.
+**Privacy Statement Revisions**  
+This Statement is subject to change without notice as our website is enhanced and as Internet privacy standards evolve. To ensure that you are fully informed about how your Personal Information may be used, our Statement will always be available for review on our website. 
