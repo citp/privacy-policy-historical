@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the g2play.net privacy policy that was archived on 2010-05-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100513053040id_/http%3A//www.g2play.net/store/Privacy-Policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the g2play.net privacy policy that was archived on 2011-05-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110527143438id_/http%3A//www.g2play.net/store/Privacy-Policy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-  <title>G2PLAY.net :: PRIVACY POLICY</title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xml:lang="en" lang="en"><head>
+  <title>G2PLAY.NET - BE SMART, PAY LESS ;) :: PRIVACY POLICY</title>
   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
   <meta http-equiv="Content-Script-Type" content="text/javascript">
   <meta http-equiv="Content-Style-Type" content="text/css">
@@ -31,6 +31,21 @@ var lbl_product_quantity_type_error = "You can specify a number from {{min}} to 
 <!--[if lt IE 7]>
 <script type="text/javascript" src="/store/skin1/iepngfix.js"></script>
 <![endif]-->
+<script type="text/javascript" src="/store/skin1/ajax_cart.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function() {
+            // bind onsubmit event for each form in category view
+            $('#center-main form[name^="orderform_"]').each(function(){
+                var length = $(this).length;
+                if(length == 1) {
+                    $(this).bind('submit', function() {
+                        ajax_cart_submit_product_form(this);
+                        return false;
+                    });
+                }
+            });
+        })
+    </script>
   <link rel="stylesheet" type="text/css" href="/store/skin1/main.css">
   <!--[if lt IE 7]>
   <link rel="stylesheet" type="text/css" href="/store/skin1/main.IE6.css" />
@@ -48,8 +63,40 @@ if (/mozilla/.test(navigator.userAgent.toLowerCase()) && !/(compatible|webkit)/.
                   <link rel="stylesheet" type="text/css" href="/store/skin1/modules/XAffiliate/main.css">
         <base href="http://www.g2play.net/store/">
   <script src="/store/skin1/anchor_fix.js" type="text/javascript"></script>
- </head>
+ <link rel="stylesheet" type="text/css" href="/store/skin1/modules/Smart_Menu/presets/Simple_Grey/main.css">
+<!--[if lt IE 7]>
+<style type="text/css">
+body{behavior:url(/store/skin1/modules/Smart_Menu/csshover3.htc);}
+</style>
+ <![endif]-->
+<link rel="stylesheet" href="/store/skin1/">
+<link rel="stylesheet" href="/store/skin1/modules/xcms/xcms.css">
+    <script type="text/javascript" src="/store/skin1/modules/Social_Shopping/common.js"></script>
+    <link rel="stylesheet" type="text/css" href="/store/skin1/modules/Social_Shopping/main.css">
+    
+        <script type="text/javascript">
+        $(document).ready(function() {
+         imagePreview();
+         reviewPaginate();
+        })
+        </script>
+    
+</head>
 <body>
+<div id="fb-root"><script type="text/javascript" src="https://connect.facebook.net/en_US/all.js" async=""></script></div>
+<script type="text/javascript">
+    window.fbAsyncInit = function() {
+        FB.init({appId: '144386392300552', status: true, cookie: true, xfbml: true});
+    };
+    (function() {
+        var e = document.createElement('script');
+        e.type = 'text/javascript';
+        e.src = document.location.protocol +
+            '//connect.facebook.net/en_US/all.js';
+        e.async = true;
+        document.getElementById('fb-root').appendChild(e);
+    }());
+</script>
 <div id="page-container">
 	<div id="page-container2">
 		<div id="content-container">
@@ -65,7 +112,7 @@ if (/mozilla/.test(navigator.userAgent.toLowerCase()) && !/(compatible|webkit)/.
   </div>
 </noscript>
               <div id="location">
-                        <a href="home.php" class="bread-crumb">G2PLAY.net</a>
+                        <a href="home.php" class="bread-crumb">G2PLAY.NET - BE SMART, PAY LESS ;)</a>
                           <span>::</span>
                                 <font class="bread-crumb last-bread-crumb">PRIVACY POLICY</font>
                         </div>
@@ -74,7 +121,8 @@ if (/mozilla/.test(navigator.userAgent.toLowerCase()) && !/(compatible|webkit)/.
             
                             
             
-            <div class="dialog">
+            
+<div class="dialog">
   <div class="title title-with-sort-row">
     <h2>PRIVACY POLICY</h2>
           <div class="dialog-search-sort-bar">
@@ -112,6 +160,8 @@ We use encryption, firewalls and other technology and security procedures to hel
 <!-- /central space -->
 					</div>
 				</div>
+     
+            
 				<div id="left-bar">
                       <div class="menu-dialog menu-categories-list">
 	<div class="title-bar valign-middle">
@@ -120,109 +170,97 @@ We use encryption, firewalls and other technology and security procedures to hel
   <div class="content">
     
   <ul>
-          <li><a href="http://www.g2play.net/store/Games-under-10/" title="Games Under 10€">Games Under 10€</a></li>
-          <li><a href="http://www.g2play.net/store/MAC-Stuff/" title="MAC Stuff">MAC Stuff</a></li>
-          <li><a href="http://www.g2play.net/store/Pre-Paid-Game-Cards/" title="Pre-Paid Game Cards">Pre-Paid Game Cards</a></li>
+          <li><a href="http://www.g2play.net/store/Merchandise/" title="Merchandise">Merchandise</a></li>
+          <li><a href="http://www.g2play.net/store/Guides/" title="Guides">Guides</a></li>
           <li><a href="http://www.g2play.net/store/Preorders/" title="Preorders">Preorders</a></li>
+          <li><a href="http://www.g2play.net/store/Last-Minute/" title="Last Minute">Last Minute</a></li>
+          <li><a href="http://www.g2play.net/store/Bundle-Deals/" title="Bundle Deals">Bundle Deals</a></li>
+          <li><a href="http://www.g2play.net/store/Games-under-10-EUR/" title="Games Under 10 EUR">Games Under 10 EUR</a></li>
+          <li><a href="http://www.g2play.net/store/Games-Under-5-EUR/" title="Games Under 5 EUR">Games Under 5 EUR</a></li>
+          <li><a href="http://www.g2play.net/store/G1-GamersFirst-Credits/" title="G1 GamersFirst Credits">G1 GamersFirst Credits</a></li>
+          <li><a href="http://www.g2play.net/store/PlayStation-Network-Cards/" title="PlayStation Network Cards">PlayStation Network Cards</a></li>
+          <li><a href="http://www.g2play.net/store/Pre-Paid-Game-Cards/" title="Pre-Paid Game Cards">Pre-Paid Game Cards</a></li>
+          <li><a href="http://www.g2play.net/store/XBOX-LIVE-Points/" title="XBOX LIVE Points">XBOX LIVE Points</a></li>
           <li><a href="http://www.g2play.net/store/Programs-Software/" title="Programs / Software">Programs / Software</a></li>
           <li><a href="http://www.g2play.net/store/age-of-conan/" title="Age of Conan">Age of Conan</a></li>
           <li><a href="http://www.g2play.net/store/Aion/" title="Aion">Aion</a></li>
+          <li><a href="http://www.g2play.net/store/Alice/" title="Alice">Alice</a></li>
           <li><a href="http://www.g2play.net/store/Aliens-Vs.-Predator/" title="Aliens Vs. Predator">Aliens Vs. Predator</a></li>
-          <li><a href="http://www.g2play.net/store/Anno-1404/" title="Anno 1404">Anno 1404</a></li>
-          <li><a href="http://www.g2play.net/store/Arma-2/" title="Arma 2">Arma 2</a></li>
           <li><a href="http://www.g2play.net/store/Assassin-s-Creed/" title="Assassin's Creed">Assassin's Creed</a></li>
           <li><a href="http://www.g2play.net/store/Battlefield-Series/" title="Battlefield Series">Battlefield Series</a></li>
           <li><a href="http://www.g2play.net/store/Battleforge/" title="Battleforge">Battleforge</a></li>
-          <li><a href="http://www.g2play.net/store/BioShock/" title="BioShock">BioShock</a></li>
-          <li><a href="http://www.g2play.net/store/Blood-Bowl/" title="Blood Bowl">Blood Bowl</a></li>
-          <li><a href="http://www.g2play.net/store/Borderlands/" title="Borderlands">Borderlands</a></li>
-          <li><a href="http://www.g2play.net/store/Bundle-Deals/" title="Bundle Deals">Bundle Deals</a></li>
-          <li><a href="http://www.g2play.net/store/Burnout-Paradise/" title="Burnout Paradise">Burnout Paradise</a></li>
+          <li><a href="http://www.g2play.net/store/BRINK/" title="BRINK">BRINK</a></li>
+          <li><a href="http://www.g2play.net/store/Bulletstorm/" title="Bulletstorm">Bulletstorm</a></li>
           <li><a href="http://www.g2play.net/store/Call-of-Duty/" title="Call of Duty">Call of Duty</a></li>
-          <li><a href="http://www.g2play.net/store/Call-of-Juarez-2/" title="Call of Juarez 2">Call of Juarez 2</a></li>
           <li><a href="http://www.g2play.net/store/Champions-Online/" title="Champions Online">Champions Online</a></li>
           <li><a href="http://www.g2play.net/store/Cities-XL/" title="Cities XL">Cities XL</a></li>
+          <li><a href="http://www.g2play.net/store/Civilization/" title="Civilization">Civilization</a></li>
           <li><a href="http://www.g2play.net/store/Command-and-Conquer/" title="Command &amp; Conquer">Command &amp; Conquer</a></li>
           <li><a href="http://www.g2play.net/store/Counter-Strike/" title="Counter-Strike">Counter-Strike</a></li>
           <li><a href="http://www.g2play.net/store/Crysis/" title="Crysis">Crysis</a></li>
-          <li><a href="http://www.g2play.net/store/Day-of-Defeat/" title="Day of Defeat">Day of Defeat</a></li>
+          <li><a href="http://www.g2play.net/store/Darksiders/" title="Darksiders">Darksiders</a></li>
+          <li><a href="http://www.g2play.net/store/Darkspore/" title="Darkspore">Darkspore</a></li>
+          <li><a href="http://www.g2play.net/store/DC-Universe-Online/" title="DC Universe Online">DC Universe Online</a></li>
           <li><a href="http://www.g2play.net/store/Dead-Space/" title="Dead Space">Dead Space</a></li>
-          <li><a href="http://www.g2play.net/store/Diablo-II/" title="Diablo II">Diablo II</a></li>
+          <li><a href="http://www.g2play.net/store/Deus-Ex/" title="Deus Ex">Deus Ex</a></li>
+          <li><a href="http://www.g2play.net/store/Diablo/" title="Diablo">Diablo</a></li>
+          <li><a href="http://www.g2play.net/store/Dirt/" title="Dirt">Dirt</a></li>
           <li><a href="http://www.g2play.net/store/Dragon-Age-Origins/" title="Dragon Age Origins">Dragon Age Origins</a></li>
-          <li><a href="http://www.g2play.net/store/Dungeons-and-Dragons-Online/" title="Dungeons &amp; Dragons Online">Dungeons &amp; Dragons Online</a></li>
+          <li><a href="http://www.g2play.net/store/Duke-Nukem/" title="Duke Nukem">Duke Nukem</a></li>
+          <li><a href="http://www.g2play.net/store/Dungeon-Siege/" title="Dungeon Siege">Dungeon Siege</a></li>
           <li><a href="http://www.g2play.net/store/Empire-Total-War/" title="Empire: Total War">Empire: Total War</a></li>
-          <li><a href="http://www.g2play.net/store/Europa-Universalis-3/" title="Europa Universalis 3">Europa Universalis 3</a></li>
           <li><a href="http://www.g2play.net/store/EvE-Online/" title="EvE Online">EvE Online</a></li>
-          <li><a href="http://www.g2play.net/store/Everquest-II/" title="Everquest II">Everquest II</a></li>
-          <li><a href="http://www.g2play.net/store/Fallout-3-and-Far-Cry-2/" title="Fallout 3 / Far Cry 2">Fallout 3 / Far Cry 2</a></li>
-          <li><a href="http://www.g2play.net/store/FIFA-NHL-PES/" title="FIFA / NHL / PES">FIFA / NHL / PES</a></li>
-          <li><a href="http://www.g2play.net/store/Global-Agenda/" title="Global Agenda">Global Agenda</a></li>
-          <li><a href="http://www.g2play.net/store/Global-MU/" title="Global MU">Global MU</a></li>
-          <li><a href="http://www.g2play.net/store/GoGoRacer-Global/" title="GoGoRacer[Global]">GoGoRacer[Global]</a></li>
+          <li><a href="http://www.g2play.net/store/F.E.A.R/" title="F.E.A.R">F.E.A.R</a></li>
+          <li><a href="http://www.g2play.net/store/F1/" title="F1">F1</a></li>
+          <li><a href="http://www.g2play.net/store/Fable/" title="Fable">Fable</a></li>
+          <li><a href="http://www.g2play.net/store/Fallout/" title="Fallout">Fallout</a></li>
+          <li><a href="http://www.g2play.net/store/FIFA/" title="FIFA">FIFA</a></li>
+          <li><a href="http://www.g2play.net/store/Flashpoint/" title="Flashpoint">Flashpoint</a></li>
+          <li><a href="http://www.g2play.net/store/Football-Manager/" title="Football Manager">Football Manager</a></li>
+          <li><a href="http://www.g2play.net/store/G2play-Headshot-pack/" title="G2play  Headshot pack">G2play  Headshot pack</a></li>
           <li><a href="http://www.g2play.net/store/Grand-Theft-Auto-IV/" title="Grand Theft Auto IV">Grand Theft Auto IV</a></li>
           <li><a href="http://www.g2play.net/store/Guild-Wars/" title="Guild Wars">Guild Wars</a></li>
           <li><a href="http://www.g2play.net/store/Half-Life/" title="Half-Life">Half-Life</a></li>
-          <li><a href="http://www.g2play.net/store/Hearts-of-Iron/" title="Hearts of Iron">Hearts of Iron</a></li>
-          <li><a href="http://www.g2play.net/store/iTunes-Cards/" title="iTunes Cards">iTunes Cards</a></li>
-          <li><a href="http://www.g2play.net/store/James-Cameron-s-Avatar/" title="James Cameron's Avatar">James Cameron's Avatar</a></li>
+          <li><a href="http://www.g2play.net/store/Heroes/" title="Heroes">Heroes</a></li>
+          <li><a href="http://www.g2play.net/store/Homefront/" title="Homefront">Homefront</a></li>
+          <li><a href="http://www.g2play.net/store/Hunted/" title="Hunted">Hunted</a></li>
           <li><a href="http://www.g2play.net/store/Just-Cause/" title="Just Cause">Just Cause</a></li>
-          <li><a href="http://www.g2play.net/store/King-s-Bounty/" title="King's Bounty">King's Bounty</a></li>
-          <li><a href="http://www.g2play.net/store/Knight-Online/" title="Knight Online">Knight Online</a></li>
-          <li><a href="http://www.g2play.net/store/LaMB/" title="LaMB">LaMB</a></li>
+          <li><a href="http://www.g2play.net/store/LaTale-EU-Aeria-Points/" title="LaTale EU - Aeria Points">LaTale EU - Aeria Points</a></li>
+          <li><a href="http://www.g2play.net/store/Lead-and-Gold/" title="Lead and Gold">Lead and Gold</a></li>
           <li><a href="http://www.g2play.net/store/Left-4-Dead/" title="Left 4 Dead">Left 4 Dead</a></li>
           <li><a href="http://www.g2play.net/store/Lineage-II/" title="Lineage II">Lineage II</a></li>
-          <li><a href="http://www.g2play.net/store/Lord-of-The-Rings/" title="Lord of The Rings">Lord of The Rings</a></li>
           <li><a href="http://www.g2play.net/store/Lord-of-The-Rings-Online/" title="Lord of The Rings Online">Lord of The Rings Online</a></li>
-          <li><a href="http://www.g2play.net/store/Lost-Planet/" title="Lost Planet">Lost Planet</a></li>
+          <li><a href="http://www.g2play.net/store/Mafia-2/" title="Mafia 2">Mafia 2</a></li>
           <li><a href="http://www.g2play.net/store/Mass-Effect/" title="Mass Effect">Mass Effect</a></li>
           <li><a href="http://www.g2play.net/store/Medal-of-Honor/" title="Medal of Honor">Medal of Honor</a></li>
           <li><a href="http://www.g2play.net/store/Metro-2033/" title="Metro 2033">Metro 2033</a></li>
           <li><a href="http://www.g2play.net/store/Mirrors-Edge/" title="Mirrors Edge">Mirrors Edge</a></li>
-          <li><a href="http://www.g2play.net/store/Mount-and-Blade/" title="Mount &amp; Blade">Mount &amp; Blade</a></li>
           <li><a href="http://www.g2play.net/store/Napoleon-Total-War/" title="Napoleon Total War">Napoleon Total War</a></li>
           <li><a href="http://www.g2play.net/store/Need-For-Speed-Racing/" title="Need For Speed / Racing">Need For Speed / Racing</a></li>
-          <li><a href="http://www.g2play.net/store/Neverwinter-Nights/" title="Neverwinter Nights">Neverwinter Nights</a></li>
-          <li><a href="http://www.g2play.net/store/Parabellum/" title="Parabellum">Parabellum</a></li>
-          <li><a href="http://www.g2play.net/store/Rainbow-Six-Vegas-2/" title="Rainbow Six Vegas 2">Rainbow Six Vegas 2</a></li>
+          <li><a href="http://www.g2play.net/store/Portal/" title="Portal">Portal</a></li>
+          <li><a href="http://www.g2play.net/store/Pro-Evolution-Soccer/" title="Pro Evolution Soccer">Pro Evolution Soccer</a></li>
           <li><a href="http://www.g2play.net/store/Red-Faction/" title="Red Faction">Red Faction</a></li>
-          <li><a href="http://www.g2play.net/store/Red-Stone/" title="Red Stone">Red Stone</a></li>
-          <li><a href="http://www.g2play.net/store/Sacraboar/" title="Sacraboar">Sacraboar</a></li>
-          <li><a href="http://www.g2play.net/store/Saints-Row-2-and-Speedball-2/" title="Saints Row 2 / Speedball 2">Saints Row 2 / Speedball 2</a></li>
-          <li><a href="http://www.g2play.net/store/Section-8/" title="Section 8">Section 8</a></li>
-          <li><a href="http://www.g2play.net/store/Simulation/" title="Simulation">Simulation</a></li>
-          <li><a href="http://www.g2play.net/store/Spore/" title="Spore">Spore</a></li>
+          <li><a href="http://www.g2play.net/store/Rift/" title="Rift">Rift</a></li>
+          <li><a href="http://www.g2play.net/store/Ruse/" title="Ruse">Ruse</a></li>
+          <li><a href="http://www.g2play.net/store/Serious-Sam/" title="Serious Sam">Serious Sam</a></li>
+          <li><a href="http://www.g2play.net/store/Shogun-Total-War/" title="Shogun Total War">Shogun Total War</a></li>
           <li><a href="http://www.g2play.net/store/Star-Trek-Online/" title="Star Trek Online">Star Trek Online</a></li>
           <li><a href="http://www.g2play.net/store/Star-Wars/" title="Star Wars">Star Wars</a></li>
           <li><a href="http://www.g2play.net/store/Starcraft/" title="Starcraft">Starcraft</a></li>
-          <li><a href="http://www.g2play.net/store/Stargate-Resistance/" title="Stargate Resistance">Stargate Resistance</a></li>
-          <li><a href="http://www.g2play.net/store/Street-Fighter/" title="Street Fighter">Street Fighter</a></li>
           <li><a href="http://www.g2play.net/store/Supreme-Commander/" title="Supreme Commander">Supreme Commander</a></li>
-          <li><a href="http://www.g2play.net/store/Sword-Of-The-New-World/" title="Sword Of The New World">Sword Of The New World</a></li>
-          <li><a href="http://www.g2play.net/store/The-Godfather-II/" title="The Godfather II">The Godfather II</a></li>
-          <li><a href="http://www.g2play.net/store/The-Saboteur/" title="The Saboteur">The Saboteur</a></li>
+          <li><a href="http://www.g2play.net/store/Test-Drive/" title="Test Drive">Test Drive</a></li>
+          <li><a href="http://www.g2play.net/store/The-First-Templar/" title="The First Templar">The First Templar</a></li>
           <li><a href="http://www.g2play.net/store/The-Settlers/" title="The Settlers">The Settlers</a></li>
           <li><a href="http://www.g2play.net/store/The-Sims/" title="The Sims">The Sims</a></li>
-          <li><a href="http://www.g2play.net/store/Tom-Clancy-s-Splinter-Cell/" title="Tom Clancy's Splinter Cell">Tom Clancy's Splinter Cell</a></li>
-          <li><a href="http://www.g2play.net/store/Tomb-Raider/" title="Tomb Raider">Tomb Raider</a></li>
-          <li><a href="http://www.g2play.net/store/Torchlight/" title="Torchlight">Torchlight</a></li>
-          <li><a href="http://www.g2play.net/store/TrackMania-United/" title="TrackMania United">TrackMania United</a></li>
-          <li><a href="http://www.g2play.net/store/Ultima-Online/" title="Ultima Online">Ultima Online</a></li>
-          <li><a href="http://www.g2play.net/store/Unreal-Tournament/" title="Unreal Tournament">Unreal Tournament</a></li>
-          <li><a href="http://www.g2play.net/store/War-Rock/" title="War Rock">War Rock</a></li>
+          <li><a href="http://www.g2play.net/store/The-Witcher/" title="The Witcher">The Witcher</a></li>
+          <li><a href="http://www.g2play.net/store/Two-Worlds/" title="Two Worlds">Two Worlds</a></li>
           <li><a href="http://www.g2play.net/store/Warcraft-3/" title="Warcraft 3">Warcraft 3</a></li>
           <li><a href="http://www.g2play.net/store/Warhammer-40.000/" title="Warhammer 40.000">Warhammer 40.000</a></li>
-          <li><a href="http://www.g2play.net/store/Warhammer-Online-EU/" title="Warhammer Online EU">Warhammer Online EU</a></li>
-          <li><a href="http://www.g2play.net/store/Warhammer-Online-US/" title="Warhammer Online US">Warhammer Online US</a></li>
-          <li><a href="http://www.g2play.net/store/Wolfenstein/" title="Wolfenstein">Wolfenstein</a></li>
+          <li><a href="http://www.g2play.net/store/Warhammer-Online-EU-US/" title="Warhammer Online EU/US">Warhammer Online EU/US</a></li>
           <li><a href="http://www.g2play.net/store/World-of-Warcraft-EU/" title="World of Warcraft EU">World of Warcraft EU</a></li>
           <li><a href="http://www.g2play.net/store/World-of-Warcraft-US/" title="World of Warcraft US">World of Warcraft US</a></li>
-          <li><a href="http://www.g2play.net/store/YU-GI-OH-ONLINE/" title="YU-GI-OH! ONLINE">YU-GI-OH! ONLINE</a></li>
-          <li><a href="http://www.g2play.net/store/Other-Games/" title="Other Games">Other Games</a></li>
-          <li><a href="http://www.g2play.net/store/G1-GamersFirst-Credits/" title="G1 GamersFirst Credits">G1 GamersFirst Credits</a></li>
-          <li><a href="http://www.g2play.net/store/PlayStation-Network-Cards/" title="PlayStation Network Cards">PlayStation Network Cards</a></li>
-          <li><a href="http://www.g2play.net/store/Sony-Online-Entertainment-Cards/" title="Sony Online Entertainment Cards">Sony Online Entertainment Cards</a></li>
-          <li><a href="http://www.g2play.net/store/Wii-Nintendo-Points/" title="Wii / Nintendo Points">Wii / Nintendo Points</a></li>
-          <li><a href="http://www.g2play.net/store/XBOX-LIVE-Points/" title="XBOX LIVE Points">XBOX LIVE Points</a></li>
+          <li><a href="http://www.g2play.net/store/Lowerping-Time-Codes/" title="Lowerping Time Codes">Lowerping Time Codes</a></li>
+          <li><a href="http://www.g2play.net/store/MAC-Stuff/" title="MAC Stuff">MAC Stuff</a></li>
       </ul>
   
   </div>
@@ -239,6 +277,9 @@ We use encryption, firewalls and other technology and security procedures to hel
              	<li><a href="http://www.g2play.net/store/Retail-CD-Keys/">Retail CD Keys</a></li>
              	<li><a href="http://www.g2play.net/store/EA-Games/">EA Games</a></li>
              	<li><a href="http://www.g2play.net/store/MMO-Games/">MMO Games</a></li>
+             	<li><a href="http://www.g2play.net/store/JiNX/">J!NX</a></li>
+             	<li><a href="http://www.g2play.net/store/Killer-Guides/">Killer Guides</a></li>
+             	<li><a href="http://www.g2play.net/store/Level-up-Wear/">Level up Wear</a></li>
       
       
     </ul>
@@ -252,12 +293,6 @@ We use encryption, firewalls and other technology and security procedures to hel
 	</div>
   <div class="content">
         <ul>
-      <li>
-		<a href="giftcert.php">Gift certificates</a>
-	</li>  
-  
-  
-  
       <li>
 		<a href="http://www.g2play.net/store/offers.php">Special offers</a>
 	</li>
@@ -277,28 +312,69 @@ We use encryption, firewalls and other technology and security procedures to hel
                   <li><a href="http://www.g2play.net/store/About-G2PLAY.html">About G2PLAY</a></li>
                         <li><a href="http://www.g2play.net/store/Help.html">Help</a></li>
                         <li><a href="http://www.g2play.net/store/premium-account.html">Premium Accounts</a></li>
-                        <li><a href="http://www.g2play.net/store/How-to-pay.html">How to pay</a></li>
                         <li><a href="http://www.g2play.net/store/Privacy-Policy.html">PRIVACY POLICY</a></li>
                         <li><a href="http://www.g2play.net/store/Terms-of-Service.html">TERMS OF SERVICE</a></li>
+                        <li><a href="http://www.g2play.net/store/jobs.html">Jobs</a></li>
             </ul>
   </div>
 </div>
+          
 				</div>
+           
 				<div id="right-bar">
           
           
-          <div class="menu-dialog menu-minicart">
+          
+<style type="text/css">
+#preview{
+    position:absolute;
+    border:1px solid #ccc;
+    background:#fff;
+    padding:5px;
+    display:none;
+    color:#999;
+}
+#minicart-ajax {margin-bottom: 10px;}
+#cart-content-list {margin-top: 10px;}
+#cart-content-list li{ padding-bottom: 15px; clear: both;}
+#cart-content-list li a.preview-item {float: left; display: block; width: 50px; margin-right: 10px; }
+#cart-content-list a.preview-item img{
+    border: 1px solid #DDDDDD;
+    height: 50px;
+    padding: 3px;
+    width: 50px;
+}
+#cart-content-list div.minicart-item-details {width: 125px; float: right;}
+#confirm-box {
+    display: block;
+    position: fixed;
+    top: 50%;
+    margin-left: 360px;
+    width: 260px;
+    background-color: #ffffff;
+    border:1px solid #999999;
+    padding: 10px;
+    position: fixed;
+    text-align: center !important;
+    z-index: 9999;
+    color: #91908c;
+}
+#confirm-box table td {text-align: center;}
+</style>
+<div class="menu-dialog menu-minicart">
 	<div class="title-bar valign-middle">
     <img class="icon" src="/store/skin1/images/spacer.gif" alt="Your cart">Your cart
 	</div>
   <div class="content">
     
+<div id="minicart-ajax">
   <div class="minicart">
     <div class="valign-middle empty">
         <a href="cart.php"><img src="/store/skin1/images/spacer.gif" alt=""></a>
       <strong>Cart is empty</strong>
     </div>
   </div>
+</div>
 <hr class="minicart">
 <ul>
 	<li><a href="cart.php">View cart</a></li>
@@ -310,57 +386,94 @@ We use encryption, firewalls and other technology and security procedures to hel
   
   
 	<li><a href="orders.php">Orders history</a></li>
-  
+    
   
       <li>
 		<a href="http://www.g2play.net/store/bonuses.php">Bonuses</a>
-	</li>  <div style="text-align:left;font-weight:bold;">Points Available: 0</div>
+	</li>  
+  <div style="text-align:left;font-weight:bold;">Points Available: 0</div>
 </ul>
   </div>
 </div>
                       <div class="menu-dialog menu-auth">
 	<div class="title-bar valign-middle">
-    <img class="icon" src="/store/skin1/images/spacer.gif" alt="Authentication">Authentication
+    <img class="icon" src="/store/skin1/images/spacer.gif" alt="Login">Login
 	</div>
   <div class="content">
     
-  <form action="http://www.g2play.net/store/include/login.php" method="post" name="authform" class="item">
-    <input type="hidden" name="xid" value="962ba22b62b958a602ff424a84e9e6f6">
+    <a href="https://www.g2play.net/store/fb_connect.php" title="Invite &amp; Reward Yourself">
+        <img src="/store/skin1/modules/FB_Invite/invite-reward-homepage.jpg" alt="Invite &amp; Reward Yourself">
+    </a>
+  <form action="https://www.g2play.net/store/include/login.php" method="post" name="authform" class="item">
+    <input type="hidden" name="xid" value="23562c2a84b461c6f4dd8fb59c4bc33e">
     
-      <input type="hidden" name="mode" value="login">
-      <input type="hidden" name="usertype" value="C">
-      <input type="hidden" name="redirect" value="customer">
-      Username<br>
-      <input type="text" name="username" size="17" value=""><br>
-      Password<br>
-      <input type="password" name="password" size="17" maxlength="64" value="">
-      
       <div class="login-buttons">
         
-  
+        
     
-  <button class="button menu-button" type="submit" title="Log in">
-  <span class="button-right"><span class="button-left">Log in</span></span>
-  </button>
+              <div class="button menu-button" title="Secure login" onclick="javascript: self.location = 'https://www.g2play.net/store/secure_login.php?xid=23562c2a84b461c6f4dd8fb59c4bc33e'; if (event) event.cancelBubble = true;">
+    <a href="https://www.g2play.net/store/secure_login.php?xid=23562c2a84b461c6f4dd8fb59c4bc33e">Secure login</a>
+  </div>
         
         
     
               <div class="button menu-button" title="Register" onclick="javascript: self.location = 'register.php'; if (event) event.cancelBubble = true;">
     <a href="register.php">Register</a>
   </div>
-        <div class="clearing"></div>
       </div>
     
-    <div>
-      Remember Me&nbsp;<input type="checkbox" name="remember_me" value="Y">
-    </div>
     <div class="button-row recovery">
       <a href="help.php?section=Password_Recovery">Recover password</a>
     </div>
   </form>
   </div>
-</div>          					
-	   		    <div class="menu-dialog menu-ruby_live_rates">
+</div>          
+                                                    
+          <div class="banners item">
+<div class="menu-dialog">
+	<div class="title-bar valign-middle">
+    <img class="icon" src="/store/skin1/images/spacer.gif" alt="Follow us!">Follow us!
+	</div>
+  <div class="content">
+    
+<iframe src="https://www.facebook.com/plugins/likebox.php?id=125126730849205&amp;width=185&amp;connections=9&amp;stream=false&amp;header=false&amp;height=265" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:185px; height:265px;" allowtransparency="true"></iframe>
+<br><br>
+<ul>
+  <li style="text-align: center;"><a href="http://twitter.com/g2playshop"><img src="/store/skin1/images/twitter.png"></a></li>
+</ul>
+  </div>
+</div></div>
+                              	
+				<div class="menu-dialog">
+	<div class="title-bar valign-middle">
+    <img class="icon" src="/store/skin1/images/spacer.gif" alt="Fun Blog">Fun Blog
+	</div>
+  <div class="content">
+        
+        
+		                
+            
+		                	<div class="xcms-menu-header">Recent Entries</div>
+            <div class="xcms-menu-entries">
+            <ul>
+                                <!--<li><a href="xcms_entry.php?xcmsentryid=105">Heroes 6, will it be great?</a></li>-->
+                <li><a href="Heroes-6-will-it-be-great.html">Heroes 6, will it be great?</a></li>
+                                <!--<li><a href="xcms_entry.php?xcmsentryid=104">Duke demo incoming!</a></li>-->
+                <li><a href="Duke-demo-incoming.html">Duke demo incoming!</a></li>
+                                <!--<li><a href="xcms_entry.php?xcmsentryid=103">FREE GAME when You preorder!</a></li>-->
+                <li><a href="FREE-GAME-when-You-preorder.html">FREE GAME when You preorder!</a></li>
+                            </ul>
+            </div>
+            <div style="float: right;"><a href="xcms.php?xcmscategoryid=2">More Fun Blog</a></div>
+                
+            <div style="float: left;">
+        <a href="http://www.g2play.net/store/xcms_rss.php" title="RSS Feeds"><img src="/store/skin1/modules/xcms/images/rss-icon.gif" border="0" alt="RSS Feeds"></a>
+        </div>
+            
+	
+  </div>
+</div>	                    
+	      		        <div class="menu-dialog menu-ruby_live_rates">
 	<div class="title-bar valign-middle">
     <img class="icon" src="/store/skin1/images/spacer.gif" alt="Currency">Currency
 	</div>
@@ -373,72 +486,54 @@ We use encryption, firewalls and other technology and security procedures to hel
   <td>
   <div>Display your currency:&nbsp;</div>
 	    <select name="s_currency" onchange="javascript: this.form.submit();" style="width: 138px;">
-       
+    
     <option value="AUD">Australian dollar</option>
-       
+    
     <option value="BGN">Bulgarian lev</option>
-       
+    
     <option value="CAD">Canadian dollar</option>
-       
+    
     <option value="CNY">Chinese yuan</option>
-       
+    
     <option value="HRK">Croatian kuna</option>
-       
+    
     <option value="CZK">Czech koruna</option>
-       
+    
     <option value="DKK">Danish krone</option>
-       
-    <option value="EEK">Estonian kroon</option>
-       
-    <option value="EUR" selected="">Euro</option>
-       
+    
+    <option value="EUR">Euro</option>
+    
     <option value="HKD">Hong Kong dollar</option>
-       
+    
     <option value="HUF">Hungarian forint</option>
-       
-    <option value="INR">Indian rupee</option>
-       
-    <option value="IDR">Indonesian rupiah</option>
-       
+    
     <option value="JPY">Japanese yen</option>
-       
+    
     <option value="LVL">Latvian lats</option>
-       
+    
     <option value="LTL">Lithuanian litas</option>
-       
-    <option value="MYR">Malaysian ringgit</option>
-       
-    <option value="MXN">Mexican peso</option>
-       
+    
     <option value="RON">New Romanian leu</option>
-       
+    
     <option value="TRY">New Turkish lira</option>
-       
+    
     <option value="NZD">New Zealand dollar</option>
-       
+    
     <option value="NOK">Norwegian krone</option>
-       
-    <option value="PHP">Philippine peso</option>
-       
+    
     <option value="PLN">Polish zloty</option>
-       
+    
     <option value="GBP">Pound sterling</option>
-       
+    
     <option value="RUB">Russian rouble</option>
-       
+    
     <option value="SGD">Singapore dollar</option>
-       
-    <option value="ZAR">South African rand</option>
-       
-    <option value="KRW">South Korean won</option>
-       
+    
     <option value="SEK">Swedish krona</option>
-       
+    
     <option value="CHF">Swiss franc</option>
-       
-    <option value="THB">Thai baht</option>
-       
-    <option value="USD">US dollar</option>
+    
+    <option value="USD" selected="">US dollar</option>
         </select>
   </td>
 </tr>
@@ -447,7 +542,7 @@ We use encryption, firewalls and other technology and security procedures to hel
     </ul>
   
   </div>
-</div>	   
+</div>	      
             
   
         <div class="menu-dialog menu-news">
@@ -458,75 +553,231 @@ We use encryption, firewalls and other technology and security procedures to hel
     
       <div class="news item">
         
-  <strong>12-05-2010</strong><br>
-  <span style="font-weight: bold;"></span><span style="font-weight: bold; color: rgb(255, 0, 0);"><span style="color: rgb(0, 0, 0);"><span style="color: rgb(255, 0, 0);">HOT 
-FREE KEYS Today!<br>
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			</span></span></span>17th event with <span style="font-weight: bold;">FREE
-
-
-
- KEYS</span> will be today at<span style="font-weight: bold;"></span><span style="font-weight: bold;"> 19:00 CET (GMT+1)</span>!<br>
+  <strong>27-05-2011</strong><br>
+  
+<div style="text-align: center;">
+	
+	
+	<div style="text-align: left;"><span style="font-weight: bold;"><span style="color: rgb(255, 0, 0);"><br>
+				<br>
+				
+				FREE KEYS ANNOUNCEMENT:</span></span><br>
+		
+		
+		
+	due to yesterday huge interest in the free keys promotion (over 30.000 people tried to view the page in one time, so the server collapsed :D) the next FREE KEYS URL location will be announced ONLY via our newsletter (so make sure you are signed in) and our Facebook page (so make sure you are a fan) and the link will be published one day before the event (so make sure you check all the newsletters). If you have any other ideas please let us know via office@g2play.net or check the discussion on FB.<br>
+		
+		
+		</div>
+	<br>
+	
+	
+	
+	<span style="font-weight: bold;"></span></div><span style="font-weight: bold;"><br>
+	
+	
+	
+	G2PLAY is waiting for You on </span><a href="http://www.facebook.com/pages/G2PLAY/125126730849205?v=app_4949752878" style="font-weight: bold;">Facebook!</a><br>
 <br>
-<span style="font-weight: bold; color: rgb(255, 0, 0);"><span style="color: rgb(0, 0, 0);">You
 
 
+<span style="font-weight: bold;">Login to <a href="http://www.g2play.net/store/fb_connect.php">Facebook -&gt; Invite Your Friends -&gt; Get Rewarded</a></span><br>
+<br>
 
- can win cool: </span><span style="color: rgb(0, 0, 0);"><br>
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		</span></span><a class="product-title" href="http://www.g2play.net/store/Battlefield-Bad-Company-2-Standard-Edition-EA-Download-Manager.html" style="font-weight: bold;">Battlefield: Bad Company 2 Standard Edition EA 
-Download Manager </a><br>
-<a class="product-title" href="http://www.g2play.net/store/Tom-Clancy-s-Splinter-Cell-Conviction-Retail-CD-Key.html" style="font-weight: bold;">Tom Clancy's Splinter Cell Conviction  Retail CD 
-Key </a><br>
-<a class="product-title" href="http://www.g2play.net/store/Aliens-Vs-Predator-Steam-Key.html" style="font-weight: bold;">Aliens Vs. Predator Steam Key</a><br>
-<a class="product-title" href="http://www.g2play.net/store/Metro-2033-English-Version-Uncut-Steam-Key.html" style="font-weight: bold;">Metro 2033 English Uncut Version Steam Key </a><br>
-<a class="product-title" href="http://www.g2play.net/store/Left-4-Dead-UNCUT-VERSION-Steam-Key.html" style="font-weight: bold;">Left 4 Dead UNCUT VERSION Steam Key</a><br>
-<span style="font-weight: bold; color: rgb(255, 0, 0);"><span style="color: rgb(0, 0, 0);"></span></span><span style="font-weight: bold; color: rgb(255, 0, 0);"></span><a href="http://www.g2play.net/store/Left-4-Dead-2-UNCUT-VERSION-Steam-Key.html"><span class="bread-crumb last-bread-crumb"></span></a>and other great games!<br>
-<span style="font-weight: bold;"><br>
-	New
- Exlusive Arrival:</span> <a class="product-title" href="http://www.g2play.net/store/Age-of-Conan-Rise-of-the-Godslayer-EU-CD-Key.html" style="font-weight: bold;">Age of Conan: Rise of the Godslayer EU CD Key</a><span style="font-weight: bold;"> <br>
+
+<span style="font-weight: bold;">ALL Battlefield FANS: The Few. The Proud. The Marines. </span><span style="font-weight: bold; text-decoration: underline;"></span><span style="font-weight: bold; text-decoration: underline;"><br>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<a href="http://www.bf3.co.uk/">Join us at bf3.co.uk</a><br>
+	
+	
+	
+	
+	
+	
+	
+	
+	<br>
+	
+	
+	
+	
+	<br>
+	
+	
+	
+	
+	</span><br>
+<span style="font-weight: bold; text-decoration: underline;">Exclusive new arrivals:</span><span style="font-size: 12pt;"><span style="font-weight: bold; text-decoration: underline; font-size: 12pt;"></span></span><span style="font-weight: bold; text-decoration: underline;"><br>
+	
+	
+	
+	
+	
+	
+	
+	
+	</span><p>- <strong><a href="http://www.g2play.net/store/Dirt-3-Retail-Cd-Key.html">Dirt 3 Retail Cd Key</a></strong> - <strong>19.99 EUR</strong> - save <strong>60%!</strong><br>- <strong><a href="http://www.g2play.net/store/Fable-3-Retail-CD-Key.html">Fable 3 Retail CD Key</a></strong> - <strong>19.99 EUR</strong> - save <strong>60%!</strong><br></p><br>
+<br>
+<span style="font-weight: bold; text-decoration: underline;">Weekend Deals:</span><br>
+<p>- <strong><a href="http://www.g2play.net/store/BRINK-Steam-key.html">BRINK Steam key</a></strong> - <strong>30.99 EUR</strong> - save <strong>38%!</strong><br>- <strong><a href="http://www.g2play.net/store/Brink-DLC-Fallout-Pack.html">Brink DLC Fallout Pack Steam Key</a></strong> - <strong>3.99 EUR</strong> - save <strong>50%!</strong><br>- <strong><a href="http://www.g2play.net/store/Portal-2-Steam-Key-Pre-Order.html">Portal 2 Steam Key</a></strong> - <strong>29.99 EUR</strong> - save <strong>40%!</strong><br>- <strong><a href="http://www.g2play.net/store/Crysis-2-EA-Download-Manager.html">Crysis 2 EA Download Manager</a></strong> - <strong>16.99 EUR</strong> - save <strong>58%!</strong><br>- <strong><a href="http://www.g2play.net/store/Dead-Space-2-EA-Download-Manager.html">Dead Space 2 EA Download Manager</a></strong> - <strong>14.99 EUR</strong> - save <strong>63%!</strong><br>- <strong><a href="http://www.g2play.net/store/FIFA-Manager-2011-EA-Download-Manager.html">FIFA Manager 2011 (EA Download Manager) </a></strong> - <strong>19.99 EUR</strong> - save <strong>60%!</strong><br></p><br>
+<br>
+<span style="font-weight: bold; text-decoration: underline;">Featured Games:</span><br>
+<p>- <strong><a href="http://www.g2play.net/store/Darkspore-EA-Download-Manager-Pre-Order.html">Darkspore Limited Edition EA Download Manager</a></strong> - <strong>27.99 EUR</strong> - save <strong>30%!</strong><br>- <strong><a href="http://www.g2play.net/store/Battlefield-Bad-Company-2-Standard-Edition-EA-Download-Manager.html">Battlefield: Bad Company 2 Standard Edition EA Download Manager </a></strong> - <strong>16.99 EUR</strong> - save <strong>43%!</strong><br>- <strong><a href="http://www.g2play.net/store/Starcraft-2-Digital-Download.html">Starcraft 2 EU Multilanguage Version Digital Download  </a></strong> - <strong>39.99 EUR</strong> - save <strong>33%!</strong><br>- <strong><a href="http://www.g2play.net/store/Rift-Digital-Download-30-Days-Included.html">Rift Digital Download + 30 Days Included</a></strong> - <strong>27.99 EUR</strong> - save <strong>44%!</strong><br>- <strong><a href="http://www.g2play.net/store/World-of-Warcraft-60-DAYS-Pre-Paid-Time-Card-EU.html">World of Warcraft 60 DAYS Pre-Paid Time Card EU</a></strong> - <strong>20.99 EUR</strong> - save <strong>16%!</strong><br>- <strong><a href="http://www.g2play.net/store/World-of-Warcraft-Cataclysm-Expansion-EU-Digital-Download.html">World of Warcraft Cataclysm Expansion EU Digital Download</a></strong> - <strong>24.99 EUR</strong> - save <strong>38%!</strong><br>- <strong><a href="http://www.g2play.net/store/World-Of-Warcraft-Battlechest-EU.html">World Of Warcraft Battlechest EU</a></strong> - <strong>16.99 EUR</strong> - save <strong>15%!</strong><br></p><br>
+<br>
+<span style="font-weight: bold; text-decoration: underline;">Pre-orders:</span><br>
+<p>- <strong><a href="http://www.g2play.net/store/Call-of-Duty-Modern-Warfare-3-Steam-Key.html">Call of Duty Modern Warfare 3 Steam Key Pre-order</a></strong> - <strong>39.99 EUR</strong> - save <strong>33%!</strong><br>- <strong><a href="http://www.g2play.net/store/Hunted-the-demon-s-forge-Retail-Cd-Key.html">Hunted The Demon’s Forge Retail Cd Key Pre-order</a></strong> - <strong>29.99 EUR</strong> - save <strong>40%!</strong><br>- <strong><a href="http://www.g2play.net/store/Duke-Nukem-Forever-Steam-Key.html">Duke Nukem Forever Steam Key Pre-Order</a></strong> - <strong>35.99 EUR</strong> - save <strong>40%!</strong><br>- <strong><a href="http://www.g2play.net/store/F.E.A.R.-3-Retail-Cd-Key.html">F.E.A.R. 3 Retail Cd Key Pre-order</a></strong> - <strong>26.99 EUR</strong> - save <strong>33%!</strong><br>- <strong><a href="http://www.g2play.net/store/Red-Faction-Armageddon-Steam-Key.html">Red Faction : Armageddon Steam Key Pre-Order</a></strong> - <strong>33.99 EUR</strong> - save <strong>32%!</strong><br>- <strong><a href="http://www.g2play.net/store/Dungeon-Siege-III-Steam-Key.html">Dungeon Siege III Steam Key Pre-order</a></strong> - <strong>35.99 EUR</strong> - save <strong>28%!</strong><br>- <strong><a href="http://www.g2play.net/store/Alice-Madness-Returns-EA-Download-Manager.html">Alice: Madness Returns EA Download Manager Pre-order</a></strong> - <strong>29.99 EUR</strong> - save <strong>40%!</strong><br>- <strong><a href="http://www.g2play.net/store/Battlefield-3-EA-Download-Manager.html">Battlefield 3 EA Download Manager Pre-Order</a></strong> - <strong>33.99 EUR</strong> - save <strong>15%!</strong><br></p><br>
+<br>
+<span style="font-weight: bold;"><span style="text-decoration: underline;">Extra T-Shirts with bonus key!</span></span><br>
+<p>- <strong><a href="http://www.g2play.net/store/Arrogant-Linux-Elitist-T-Shirt.html">Arrogant Linux Elitist T-Shirt</a></strong> - <strong>17.66 EUR</strong> - save <strong>12%!</strong><br>- <strong><a href="http://www.g2play.net/store/StarCraft-II-Wings-of-Liberty-Battle.html">StarCraft II Wings of Liberty Battle T-Shirt</a></strong> - <strong>17.66 EUR</strong> - save <strong>12%!</strong><br>- <strong><a href="http://www.g2play.net/store/Diablo-III-Special-Edition-T-Shirt.html">Diablo III Special Edition T-Shirt</a></strong> - <strong>16.99 EUR</strong> - save <strong>15%!</strong><br></p><br>
+<br>
+<br>
+<span style="font-weight: bold; text-decoration: underline;">Recently Re-Stocked:</span><br>
+<br>
+<a href="http://www.g2play.net/store/Need-For-Speed-Shift-EA-Download-Manager.html"><span style="font-weight: bold; text-decoration: underline;">Need For Speed Shift EA Download Manager</span></a> <span style="font-weight: bold;">- 13.99 EUR - save 43%!</span><br>
+<a href="http://www.g2play.net/store/The-Sims-3-EA-Download-Manager.html"><span style="font-weight: bold; text-decoration: underline;">The Sims 3 EA Download Manager</span></a><span style="font-weight: bold;">- 17.99 EUR - save 28%!</span><br>
+<a href="http://www.g2play.net/store/Sid-Meier-s-Civilization-V-EN-FR-IT-ES-DE-Languages-Steam-Key.html" style="font-weight: bold;"><span class="name">Sid Meier's Civilization V EN/FR/IT/ES/DE Languages Steam Key</span></a> <span style="font-weight: bold;">- 29.99 EUR - save 40%!</span><a href="http://www.g2play.net/store/Guild-Wars-Eye-of-The-North-Digital-Download.html"><span style="font-weight: bold; text-decoration: underline;"></span></a><a href="http://www.g2play.net/store/Guild-Wars-Eye-of-The-North-Digital-Download.html"><span style="font-weight: bold; text-decoration: underline;"></span></a><a href="http://www.g2play.net/store/Guild-Wars-Eye-of-The-North-Digital-Download.html"><span style="font-weight: bold; text-decoration: underline;"></span></a><br>
+<a href="http://www.g2play.net/store/Ruse-The-Art-of-Deception-Steam-Key.html"><span style="font-weight: bold; text-decoration: underline;">Ruse The Art of Deception Steam Key</span></a> <span style="font-weight: bold;">- 27.99 EUR - save44%!</span><a href="http://www.g2play.net/store/Guild-Wars-Eye-of-The-North-Digital-Download.html"><span style="font-weight: bold; text-decoration: underline;"></span></a><br>
+<a href="http://www.g2play.net/store/Shift-2-Unleashed-EA-Download-Manager.html"><span style="font-weight: bold; text-decoration: underline;">Shift 2 Unleashed EA Download</span></a> <span style="font-weight: bold;">- 22.99 EUR - save 43%!</span><br>
+<a href="http://www.g2play.net/store/Call-of-Duty-4-Modern-Warfare-Scanned-CD-Key.html"><span style="font-weight: bold; text-decoration: underline;"></span></a><a href="http://www.g2play.net/store/The-Settlers-7-Paths-to-a-Kingdom-Retail-CD-Key.html"><span style="font-weight: bold; text-decoration: underline;">The Settlers 7 Paths to a Kingdom</span></a> <span style="font-weight: bold;">- 13.99 EUR!</span><a href="http://www.g2play.net/store/Guild-Wars-Trilogy-Digital-Download.html"><span style="font-weight: bold; text-decoration: underline;"></span></a><br>
+<a href="http://www.g2play.net/store/Counter-Strike-Anthology-Steam-Key.html"><span style="font-weight: bold; text-decoration: underline;">Counter Strike Anthology Steam Key</span></a> <span style="font-weight: bold;">- 11.99 EUR - save 8%!</span><a href="http://www.g2play.net/store/Counter-Strike-Anthology-Steam-Key.html"><span style="font-weight: bold; text-decoration: underline;"></span></a><a href="http://www.g2play.net/store/Half-Life-2-The-Orange-Box-UNCUT-Steam-Key.html"><span style="font-weight: bold; text-decoration: underline;"></span></a><br>
+<a href="http://www.g2play.net/store/Metro-2033-Multi-Language-Uncut-Version-Steam-Key.html"><span style="font-weight: bold; text-decoration: underline;">Metro 2033 Multi Language Uncut Version Steam Key</span></a> <span style="font-weight: bold;">- 9.99 EUR - save 50%!<br>
+	
+	
+	
+	
+	<br>
+	
+	
+	
+	
+	<br>
+	
+	
+	
+	
+	</span><span style="font-weight: bold; text-decoration: underline;">The latest in the blog:<br>
+	
+	
+	
+	
+	
+	
+	
+	
 	
 	
 	
@@ -546,875 +797,841 @@ Key </a><br>
 	
 	
 	
-	<span style="font-weight: bold;">New </span>promotion:<br>
-	</span><a class="product-title" href="http://www.g2play.net/store/Warcraft-3-BattleChest.html" style="font-weight: bold;">Warcraft 3 BattleChest</a><span style="font-weight: bold;"> </span>only <span style="font-weight: bold;">12,99&nbsp;</span> <span style="font-weight: bold;">EUR!</span> <br>
+	
+	
+	
+	
+	
+	
+	
+	
+	</span><a href="http://www.g2play.net/store/Heroes-6-will-it-be-great.html"><span style="font-weight: bold; text-decoration: underline;">Heroes 6, will it be great?</span></a><br>
+<span style="font-weight: bold; text-decoration: underline;"><a href="http://www.g2play.net/store/Duke-demo-incoming.html">Duke demo incoming!</a></span><br>
+<a href="http://www.g2play.net/store/FREE-GAME-when-You-preorder.html"><span style="font-weight: bold;">FREE GAME when You pre-order!</span></a><br>
 <br>
-<span style="font-weight: bold;"><span style="font-weight: bold;">Exclusive
- Pre-order</span>:</span><br>
-<a class="product-title" href="http://www.g2play.net/store/Starcraft-2-Digital-Download.html" style="font-weight: bold;">Starcraft 2 Digital Download Pre-Order </a>only <span style="font-weight: bold;">47,99 EUR! </span>Every preorder includes a 
-great bonus - <span style="font-size: 10pt;"><span style="color: rgb(255, 0, 0); font-size: 10pt;"></span></span><a class="product-title" href="http://www.g2play.net/store/Starcraft-Battlechest-Digital-Download.html" style="font-weight: bold;">Starcraft Battlechest Digital Download</a>!<br>
 <br>
-<span style="font-weight: bold;">Current promotions:</span><br>
-<a style="font-weight: bold;" href="http://www.g2play.net/store/Call-of-Duty-4-Modern-Warfare-UNCUT-VERSION2-Steam-Key.html" class="product-title">Call of Duty: Modern Warfare 2 UNCUT VERSION
- 
-Steam Key</a> only <span style="font-weight: bold;">29,90
+The key comes from the original box of the game. You 
+recieve a scan of the key from us!<span style="font-weight: bold;"><span style="font-weight: bold;"><br>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+			
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		<br>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+			
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		</span></span>New to G2PLAY? <a style="font-weight: bold;" href="http://www.g2play.net/store/About-G2PLAY.html">Find out more</a> why G2PLAY is the most popular alternative 
+game store.<br>
+	
 
- EUR!</span><br>
-<a style="font-weight: bold;" href="http://www.g2play.net/store/Left-4-Dead-UNCUT-VERSION-Steam-Key.html" class="product-title">Left 4 Dead UNCUT VERSION Steam Key</a> with
- FREE
- bonus key <a style="font-weight: bold;" href="http://www.g2play.net/store/Counter-Strike-1.6-8-GAMES-Steam-Key.html" class="product-title">Counter-Strike 1.6 + 8 GAMES Steam Key</a> 
-only 
-for&nbsp; <span style="font-weight: bold;">14,99
-
- EUR!</span> Simply add L4D1 to your cart and you will be emailed the 
-bonus key with it.<br>
-<a class="product-title" href="http://www.g2play.net/store/Norton-360-Version-4.0-3-PCs-1-Year-License-Key.html" style="font-weight: bold;">Norton 360 Version 4.0 3 PCs 1 Year License Key</a>
- for <span style="font-weight: bold;">15,49
-
- EUR!</span><br>
-
-<a href="http://www.g2play.net/store/offers.php?mode=offer&amp;offerid=14"><span style="font-weight: bold; text-decoration: underline;">Buy Age of 
-Conan 60 DAYS and get War Rhino Item FREE</span></a> only <span style="font-weight: bold;">18,99&nbsp;</span> <span style="font-weight: bold;">EUR!</span> Promotion valid until <span style="font-weight: bold;">31st May 2010! </span><br>
+<span style="font-weight: bold;"><br>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+		
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	</span>Support is online 24/7 contact us by email sales@g2play.net  at any 
+time!<br>
+	
+We answer all questions usually within 30 minutes<br>
 <br>
-<span style="font-weight: bold;">Price slashed:</span><br>
-<a style="font-weight: bold;" href="http://www.g2play.net/store/Battlefield-Bad-Company-2-Standard-Edition-EA-Download-Manager.html" class="product-title">Battlefield: Bad Company 2 Standard Edition 
-EA 
-Download Manager</a> for <span style="font-weight: bold;">19,49 EUR!</span><br>
-
-<br>
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	<span style="font-weight: bold;">Many items restocked</span><span style="text-decoration: underline; font-weight: bold;"></span><span style="font-weight: bold;">:&nbsp;</span>&nbsp;<a href="http://www.g2play.net/store/Call-of-Duty-4-Modern-Warfare-UNCUT-VERSION2-Steam-Key.html" class="product-title"><span style="font-weight: bold;">Call of Duty: 
-Modern Warfare 2 UNCUT VERSION 
-Steam Key</span>,</a> <a href="http://www.g2play.net/store/FIFA-Manager-2010-EA-Download-Manager.html" class="product-title"><span style="font-weight: bold;">FIFA Manager 
-2010 (EA Download Manager)</span></a>, <a class="product-title" href="http://www.g2play.net/store/FIFA-Soccer-2010-EA-Download-Manager.html" style="font-weight: bold;">FIFA Soccer 2010 (EA Download Manager)</a>, <a class="product-title" href="http://www.g2play.net/store/EvE-Online-Digital-Download.html" style="font-weight: bold;">EvE Online Digital Download</a><span style="font-weight: bold;">, </span><a style="font-weight: bold;" href="http://www.g2play.net/store/Guild-Wars-Nightfall-Digital-Download.html" class="product-title">Guild Wars Nigh </a><a style="font-weight: bold;" href="http://www.g2play.net/store/Guild-Wars-Eye-of-The-North-Digital-Download.html" class="product-title">Eye of The North Digital Download&nbsp;</a>,&nbsp;<a style="font-weight: bold;" href="http://www.g2play.net/store/The-Lord-of-the-Rings-Online-60-Days-Game-Card-EU.html" class="product-title">The Lord of the Rings Online 60 Days Game 
-Card EU</a><br>
-<br>
-Stay tuned and check our <a href="http://twitter.com/g2playshop"><span style="font-weight: 700;">Twitter.com</span></a>&nbsp;for more info!<br>
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	<span style="font-weight: bold; color: rgb(107, 142, 35);"><br>
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		</span>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<span style="font-weight: bold; color: rgb(255, 0, 0);">Support is 
-online 24/7</span><span style="color: rgb(255, 0, 0);"> </span>contact 
-us by email <span style="font-weight: bold;">sales@g2play.net</span><span style="font-weight: bold;">&nbsp;</span> 
-at any time!<br>
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	We answer all questions usually within 30 minutes!<br>
   <br>
       <a href="news.php" class="small-link prev-news">Previous news</a>
   
@@ -1454,33 +1671,52 @@ at any time!<br>
   </div>
 </div>          
           
+          <div class="banners item">
+<div class="menu-dialog menu-affiliate">
+	<div class="title-bar valign-middle">
+    <img class="icon" src="/store/skin1/images/spacer.gif" alt="How to pay">How to pay
+	</div>
+  <div class="content">
+    
+<b>Payment methods available for your country:</b><br><br>
+If you want to see all payments methods, please <a href="payments.php">click here</a>.
+<p>&nbsp;</p>
+    <div style="text-align: center;">
+                    <p><img src="files/public/images/payment_logos_small/paypal_logo_small1.jpg"></p>
+                    <p><img src="files/public/images/payment_logos_small/paypal_logo_small.jpg"></p>
+                    <p><img src="files/public/images/payment_logos_small/bank_transfer_small.jpg"></p>
+                    <p><img src="files/public/images/payment_logos_small/g2play-logo-rp.gif"></p>
+                    <p><img src="files/public/images/payment_logos_small/g2play-logo-gift.gif"></p>
+                    <p><img src="files/public/images/payment_logos_big/jcb_logo.jpg"></p>
+                    <p><img src="files/public/images/payment_logos_big/americane_logo.gif"></p>
+                    <p><img src="files/public/images/payment_logos_small/diners_logo_small.jpg"></p>
+                    <p><img src="files/public/images/payment_logos_small/visae_logo_small.jpg"></p>
+                    <p><img src="files/public/images/payment_logos_small/paysafecard_logo_small.jpg"></p>
+            </div>
+  </div>
+</div></div>
           
 				</div>
-			</div>
+      			</div>
 		</div>
 		<div class="clearing">&nbsp;</div>
 		<div id="header">
       <div class="line1">
-	<div class="logo"><a href="http://www.g2play.net/store/home.php"><img src="/store/skin1/images/xlogo.gif" alt=""></a></div>
+	<!--<div class="logo"><a href="http://www.g2play.net/store/home.php"><img src="/store/skin1/images/xlogo.gif" alt="" /></a></div>-->
+    <div class="logo"><a href="http://www.g2play.net/store/home.php"><img src="/store/skin1/images/xlogo.gif" alt=""></a></div>
       <div class="tabs">
       <ul>
-                  <li><a href="http://www.g2play.net/store/How-to-pay.html">How to pay</a></li>
+                  <li><a href="http://www.g2play.net/store/payments.php">How To Pay</a></li>
                   <li><a href="help.php?section=contactus&amp;mode=update">Contact Us</a></li>
                   <li><a href="cart.php">Shopping Cart</a></li>
                   <li><a href="home.php">Home</a></li>
-                  <li><a href="http://www.g2play.net/store/crp_referral.php">G2PLAY Reward Points</a></li>
-        
-      </ul>
+              </ul>
     </div>
-  
-	<div class="phones">
-    
-    
-	</div>
+  	<div class="phones">
+        	</div>
 </div>
 <div class="line2">
-  
-    <div class="search">
+      <div class="search">
       <div class="valign-middle">
         <form method="post" action="search.php" name="productsearchform">
           <input type="hidden" name="simple_search" value="Y">
@@ -1500,20 +1736,37 @@ at any time!<br>
         </form>
       </div>
     </div>
-    
-  </div>
+      </div>
 <div class="line3">
-  </div>		</div>
+ <div style="text-align:center;z-index:550;position:relative;width:100%;overflow:visible">
+ <ul class="menu1 smartmenu" id="smartmenu">
+  <li class="level1 start"></li>
+  <li class="level1 first"><a href="http://www.g2play.net/store/About-G2PLAY.html">About G2PLAY</a></li>
+  <li class="level1"><a href="http://www.g2play.net/store/Help.html">Help</a></li>
+  <li class="level1"><a href="http://www.g2play.net/store/premium-account.html">Premium Accounts</a></li>
+  <li class="level1"><a href="http://www.g2play.net/store/Privacy-Policy.html">PRIVACY POLICY</a></li>
+  <li class="level1"><a href="http://www.g2play.net/store/Terms-of-Service.html">TERMS OF SERVICE</a></li>
+  <li class="level1"><a href="http://www.g2play.net/store/jobs.html">Jobs</a></li>
+  <li class="level1 last"><a href="http://www.g2play.net/store/payments.php">How To Pay</a></li>
+  <li class="level1 end"></li>
+ </ul>
+<div class="clearing"></div>
+</div>  </div>		</div>
+		<div style="width: 270px;margin-left: 730px;padding-bottom: 20px;">
+			<a href="http://www.geotrust.com/"><img src="/store/files/public/images/geotrust.gif"></a>
+			<a href="http://www.telesign.com/"><img src="/store/files/public/images/telesin.gif"></a>
+		</div>
 		<div id="footer">
                     
-      <!--- Start TagCloud code --->
+      
+<!--- Start TagCloud code --->
  <br>
 <!--- End TagCloud code --->
 <div class="box">
   <div class="subbox">
     <div class="left">  Powered by X-Cart ecommerce shopping cart software                                                
 </div>
-    <div class="right">Copyright © 2008-2010 G2PLAY.net</div>
+    <div class="right">Copyright © 2008-2011 G2PLAY.NET - BE SMART, PAY LESS ;)</div>
   </div>
 </div>
 		</div>
