@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the defenders.org privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123124606id_/http%3A//action.defenders.org/site/PageServer%3Fpagename%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the defenders.org privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527073910id_/http%3A//action.defenders.org/site/PageServer%3Fpagename%3Dprivacypolicy) for the most accurate reproduction.*
 
 # Defenders of Wildlife: Privacy Policy
 
