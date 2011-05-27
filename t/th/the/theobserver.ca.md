@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the theobserver.ca privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230231932id_/http%3A//theobserver.ca/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theobserver.ca privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527073111id_/http%3A//theobserver.ca/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
-## Osprey Media Publishing Inc.
+## Sun Media Corporation
 
 ### WEB-SITE PRIVACY POLICY
 
@@ -45,7 +45,7 @@ How is Personally Identifiable Information stored?
 
 What choices are available to Visitors regarding collection, use and distribution of the information? 
 
-> Visitors and Authorized Customers may opt out of receiving unsolicited information from or being contacted by us and/or our vendors and affiliated agencies by responding to emails as instructed, or by contacting us at [privacy@ospreymedialp.com](mailto:privacy@ospreymedialp.com)  
+> Visitors and Authorized Customers may opt out of receiving unsolicited information from or being contacted by us and/or our vendors and affiliated agencies by responding to emails as instructed, or by contacting us at [privacy@sunmedia.ca](mailto:privacy@sunmedia.ca)  
 > 
 
 Are Cookies Used on the Site? 
@@ -73,12 +73,12 @@ How does the Site keep Personally Identifiable Information secure?
 
 How can Visitors correct any inaccuracies in Personally Identifiable Information? 
 
-> Visitors and Authorized Customers may contact us to update Personally Identifiable Information about them or to correct any inaccuracies by emailing us at [privacy@ospreymedialp.com](mailto:privacy@ospreymedialp.com)  
+> Visitors and Authorized Customers may contact us to update Personally Identifiable Information about them or to correct any inaccuracies by emailing us at [privacy@sunmedia.ca](mailto:privacy@sunmedia.ca)  
 > 
 
 Can a Visitor delete or deactivate Personally Identifiable Information collected by the Site? 
 
-> We provide Visitors and Authorized Customers with a mechanism to delete/deactivate Personally Identifiable Information from the Site's database by contacting [privacy@ospreymedialp.com](mailto:privacy@ospreymedialp.com). However, because of backups and records of deletions, it may be impossible to delete a Visitor's entry without retaining some residual information. An individual who requests to have Personally Identifiable Information deactivated will have this information functionally deleted, and we will not sell, transfer, or use Personally Identifiable Information relating to that individual in any way moving forward.  
+> We provide Visitors and Authorized Customers with a mechanism to delete/deactivate Personally Identifiable Information from the Site's database by contacting [privacy@sunmedia.ca](mailto:privacy@sunmedia.ca). However, because of backups and records of deletions, it may be impossible to delete a Visitor's entry without retaining some residual information. An individual who requests to have Personally Identifiable Information deactivated will have this information functionally deleted, and we will not sell, transfer, or use Personally Identifiable Information relating to that individual in any way moving forward.  
 > 
 
 What happens if the Privacy Policy Changes? 
@@ -100,11 +100,11 @@ M5A 3X5
 E-Mail: [privacy@sunmedia.ca](mailto:privacy@sunmedia.ca)
 
 Any rights not expressly granted herein are reserved.  
-© 2010 www.theobserver.ca, All rights reserved. Unauthorized duplication or publication of any materials from this Site is expressly prohibited. 
+© 2011 www.theobserver.ca, All rights reserved. Unauthorized duplication or publication of any materials from this Site is expressly prohibited. Commercial use of The Sarnia Observer RSS feeds is strictly forbidden. 
 
 * * *
 
-COPYRIGHT NOTICE.© 1999-2010 [PriorityDigital.com](http://209.204.219.152/) Prepared for: www.theobserver.ca ,All rights reserved. 
+COPYRIGHT NOTICE.© 1999-2011 [PriorityDigital.com](http://209.204.219.152/) Prepared for: www.theobserver.ca ,All rights reserved. 
 
   
 
