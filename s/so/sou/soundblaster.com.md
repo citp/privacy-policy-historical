@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soundblaster.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224090419id_/http%3A//www.creative.com/legal/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soundblaster.com privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527203222id_/http%3A//www.creative.com/legal/privacy.asp) for the most accurate reproduction.*
 
 # Creative Worldwide - Sound Blaster, MP3 Players, Speakers, Web Cameras and more.
 
