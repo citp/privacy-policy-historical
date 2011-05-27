@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wopg.org privacy policy that was archived on 2010-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100717000243id_/http%3A//www.wopg.org/en/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wopg.org privacy policy that was archived on 2011-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110528000915id_/http%3A//www.wopg.org/en/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -11,12 +11,12 @@ We are strongly committed to protecting your privacy online and have taken steps
 
 **What data we collect:**
 
-When you register to our site, we collect the following data: the user ID and password you create; your first and last name; email address; street address, city, state, zip code, and country if provided. When you make a contribution to WOPG through this website, we will also collect your credit card information or you bank account following your request.   
+When you register to our site, we collect the following data: the user ID and password you create; your first and last name; email address; street address, city, state, zip code, and country if provided. When you make a contribution to WOPG through this website, we will also collect your credit card information or your bank account following your request.   
  
 
 **How we safeguard your privacy:**
 
-We use secure technology to safeguard your information and the content on this site. Such information is protected with state-of-the-art  firewalls, including stateful packet inspection. We also routinely perform proactive monitoring and intrusion detection and implement denial of service attack mitigation processes. We use Unix-hardened operating system for our servers, which are maintained by certified security staff.
+We use secure technology to safeguard your information and the content on this site. Such information is protected with state-of-the-art firewalls, including stateful packet inspection. We also routinely perform proactive monitoring and intrusion detection and implement denial of service attack mitigation processes. We use Unix-hardened operating system for our servers, which are maintained by certified security staff.
 
 Links may be provided from this website to other third party websites. In using such links, you should be aware that each third party website will vary in terms of its privacy and data protection policies, and WOPG does not take responsibility for the privacy policies of, and usage of, personal information collected by others including, without limitation, those of any partner or affiliate.  
  
