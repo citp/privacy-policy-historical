@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epromos.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224152535id_/http%3A//www.epromos.com/support/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epromos.com privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527075122id_/http%3A//www.epromos.com/support/privacy-security) for the most accurate reproduction.*
 
 # Privacy and Security | ePromos Promotional Products
 
@@ -21,7 +21,7 @@ We collect aggregate information on what pages consumers access or visit, inform
 
 The information we collect is used for internal review and is then discarded, used to improve the content of our Web page, shared with other reputable organizations to help them contact consumers for marketing purposes, used by us to contact consumers for marketing purposes.
 
-With respect to [cookies](http://www.epromos.com/products/cookies.html): We use cookies to record session information, such as items that consumers add to their shopping cart.
+With respect to cookies: We use cookies to record session information, such as items that consumers add to their shopping cart.
 
 If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address.
 
@@ -57,18 +57,3 @@ We process credit card information by fax and phone. Internally your credit card
 If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
 
 [Back to Top](https://web.archive.org/support/privacy-security/)
-
-### Related Info
-
-  * [Your Web Site and Your Image](http://www.epromos.com/misc-education/web-site-image/ "Your Web Site and Your Image")
-  * [Yom Kippur](http://www.epromos.com/education/calendars/yom-kippur/ "Yom Kippur")
-  * [What’s Your Company’s Promotional Personality?](http://www.epromos.com/education/newsletters/whats-companys-promotional-personality/ "What’s Your Company’s Promotional Personality?")
-  * [Tradeshows: Creating Opportunity](http://www.epromos.com/education/newsletters/tradeshows-creating-opportunity/ "Tradeshows: Creating Opportunity")
-  * [Top Ten Corporate Gifts of 2008](http://www.epromos.com/education/newsletters/top-ten-corporate-gifts-2008/ "Top Ten Corporate Gifts of 2008")
-  * [Top Searches](http://www.epromos.com/misc/top-searches/ "Top Searches")
-  * [Top Promotional Product Searches](http://www.epromos.com/misc/top-promotional-product-searches/ "Top Promotional Product Searches")
-  * [The Great Outdoors](http://www.epromos.com/misc/great-outdoors/ "The Great Outdoors")
-  * [Promotional Wine Bottle Openers, Corkscrews & Bottle Stoppers](http://www.epromos.com/misc/promotional-wine-bottle-openers-corkscrews-bottle-stoppers/ "Promotional Wine Bottle Openers, Corkscrews & Bottle Stoppers")
-  * [Promotional Sweatshirts and Sweatpants](http://www.epromos.com/education/case-studies/promotional-sweatshirts-sweatpants/ "Promotional Sweatshirts and Sweatpants")
-
-
