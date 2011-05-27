@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loyalty360.org privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127122459id_/http%3A//www.loyalty360.org/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loyalty360.org privacy policy that was archived on 2011-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110528013333id_/http%3A//www.loyalty360.org/site/privacy) for the most accurate reproduction.*
 
 # privacy | Loyalty360.org
 
@@ -66,4 +66,4 @@ We use industry-standard encryption technologies when transferring and receiving
 
 If you have a question about Loyalty 360’s privacy policy, please contact us at 4120 Dumont Street Cincinnati, OH 45226 or ethics@loyalty360.org; or 877-433-0819 (fax).
 
-What percentage of your social media followers are also members of your loyalty program?
+What industry do you think is leading the way when it comes to implementing the most innovative and effective loyalty strategies?
