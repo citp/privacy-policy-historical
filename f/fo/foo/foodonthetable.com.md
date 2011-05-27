@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foodonthetable.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224230944id_/http%3A//www.foodonthetable.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodonthetable.com privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527211641id_/http%3A//www.foodonthetable.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Food on the Table
 
