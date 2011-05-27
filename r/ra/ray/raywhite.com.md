@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the raywhite.com privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126113426id_/http%3A//www.raywhite.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raywhite.com privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527143842id_/http%3A//www.raywhite.com/privacy) for the most accurate reproduction.*
 
 # Ray White Group Site Map
 
