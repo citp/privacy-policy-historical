@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peta.org privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229213028id_/http%3A//www.peta.org/about/learn-about-peta/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peta.org privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527033658id_/http%3A//www.peta.org/about/learn-about-peta/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | PETA.org
 
@@ -34,7 +34,7 @@ PETA also uses information gathered via our Web sites to improve our Web-based c
 
 **Does PETA use "cookies" on its Web sites?**
 
-PETA uses "cookies" on some Web pages. A cookie is a small piece of data that is stored on a visitor's hard drive but does not contain any personal information itself. Cookies enhance a visitor's experience by preventing the visitor from having to log in or provide information each time he or she revisits a PETA Web page and by customizing content based on a visitor's interests. Visitors can configure their browsers to refuse cookies or to be alerted when a site is attempting to send a cookie, although some PETA e-commerce pages will not function properly without accepting cookies.
+PETA uses "cookies" on some Web pages. A cookie is a small piece of data that is stored on a visitor's hard drive but does not contain any personal information itself. Cookies enhance a visitor's experience by preventing the visitor from having to log in or provide information each time he or she revisits a PETA Web page and by customizing content based on a visitor's interests. Visitors can configure their browsers to refuse cookies or to be alerted when a site is attempting to send a cookie, although some PETA e-commerce pages will not function properly without accepting cookies. Third party vendors, including Google, use cookies to show website visitors ads based on a visitor’s prior visits to the website. Visitors who wish to opt out of Google's use of cookies in this way can do so by visiting the [Google advertising opt-out page](http://www.google.com/privacy_ads.html).
 
 PETA also uses cookies to administer its Web sites, track visitor movement, and gather broad demographic information for aggregate use. 
 
@@ -56,9 +56,9 @@ When you contribute to PETA online or make a purchase through the PETA Catalog, 
 
 **Does PETA rent, sell, or trade my information?**
 
-PETA occasionally makes the names and postal addresses of members available to reputable advocacy and nonprofit organizations and commercial companies. 
+PETA occasionally makes the names and postal addresses of donors available to reputable advocacy and nonprofit organizations and commercial companies.
 
-If you are a PETA member and you don't want to have your information exchanged with other organizations and companies, please e-mail us at [Donations@peta.org](mailto:Donations@peta.org) or call us at 757-622-7382 to speak to one of our membership service representatives.
+If you are a PETA donor and you don't want to have your information exchanged with other organizations and companies, please e-mail us at [Donations@peta.org](mailto:Donations@peta.org) or call us at 757-622-7382 to speak to one of our membership service representatives. Nondonors can e-mail [NewsManager@peta.org](mailto:NewsManager@peta.org) to manage their e-mail preferences.
 
 The easiest way to correct or change other information regarding your membership is to visit the [members' section](https://web.archive.org/donate/membership-services/more-information.aspx) of our Web site. You can also contact our membership services at [Donations@peta.org](mailto:Donations@peta.org) or 757-622-7382.
 
