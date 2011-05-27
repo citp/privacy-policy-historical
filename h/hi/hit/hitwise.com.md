@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hitwise.com privacy policy that was archived on 2010-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101210074537id_/http%3A//www.hitwise.com/us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hitwise.com privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527210250id_/http%3A//www.hitwise.com/us/privacy-policy) for the most accurate reproduction.*
 
 # Experian Hitwise :: Privacy Policy
 
