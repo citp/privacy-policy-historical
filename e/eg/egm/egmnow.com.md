@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the egmnow.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205041119id_/http%3A//www.egmnow.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the egmnow.com privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527091213id_/http%3A//www.egmnow.com/privacypolicy) for the most accurate reproduction.*
 
 # PRIVACY POLICY | EGMi
 
@@ -90,5 +90,5 @@ Attention: Customer Service
 8840 Wilshire Blvd., Third Floor,  
 Beverly Hills, CA 90211
 
-[www.egmnow.com](https://web.archive.org/web/20101205041119id_/http%3A/)  
+[www.egmnow.com](https://web.archive.org/web/20110527091213id_/http%3A/)  
 [www.egmmediagroup.com](http://www.egmmediagroup.com/)
