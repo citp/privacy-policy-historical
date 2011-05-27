@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the waunakee.k12.wi.us privacy policy that was archived on 2010-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100908191514id_/http%3A//www.waunakee.k12.wi.us/privacynotice.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the waunakee.k12.wi.us privacy policy that was archived on 2011-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110528004250id_/http%3A//www.waunakee.k12.wi.us/privacynotice.cfm) for the most accurate reproduction.*
 
 # Privacy Notice - Waunakee Community School District
 
