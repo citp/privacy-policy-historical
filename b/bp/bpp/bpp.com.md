@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bpp.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125044907id_/http%3A//www.bpp.com/footerlinks/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bpp.com privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527144032id_/http%3A//www.bpp.com/footerlinks/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -227,7 +227,7 @@ We may link to other websites which are not within our control.  Such links are
 
 **Direct marketing**
 
-The BPP company to which your personal information is directed through the Website may wish to contact you by post or telephone, by fax or by email, SMS, voicemail, or other electronic methods which become relevant in the futureto tell you about its products or services, those of other members of the Apollo Group Companies, and/or those of carefully selected third parties.  This is known as “direct marketing”.  Whenever we collect your personal information on the Website we will make it clear if it may be used for direct marketing purposes.  At the same time we will seek your consent to receive this or we will permit you to opt-out of receiving this (depending on applicable laws). 
+The BPP company to which your personal information is directed through the Website may wish to contact you by post or telephone, by fax or by email, SMS, voicemail, or other electronic methods which become relevant in the future to tell you about its products or services, those of other members of the Apollo Group Companies, and/or those of carefully selected third parties.  This is known as “direct marketing”.  Whenever we collect your personal information on the Website we will make it clear if it may be used for direct marketing purposes.  At the same time we will seek your consent to receive this or we will permit you to opt-out of receiving this (depending on applicable laws). 
 
 In direct marketing sent by any of the electronic methods described above the relevant BPP company would provide you with a simple way to refuse further direct marketing by the relevant method. 
 
