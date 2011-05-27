@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kenmore.com privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126042012id_/http%3A//www.kenmore.com/shc/s/nb_10154_12604_NB_PrivacyPolicy%3FadCell%3DWF) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kenmore.com privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527170941id_/http%3A//www.kenmore.com/shc/s/nb_10154_12604_NB_PrivacyPolicy%3FadCell%3DWF) for the most accurate reproduction.*
 
 # Kenmore
 
