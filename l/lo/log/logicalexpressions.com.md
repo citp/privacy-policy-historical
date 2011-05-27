@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the logicalexpressions.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526164109id_/http%3A//logicalexpressions.com/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logicalexpressions.com privacy policy that was archived on 2011-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110528002352id_/http%3A//www.logicalexpressions.com/Privacy.htm) for the most accurate reproduction.*
 
 # Logical Expressions Privacy Policy
 
-### Check out what readers  
-say about our writing...
+**Check out what readers  
+say about our writing...**
 
-#228"Thanks for the help you offer all of us non-computer experts!"\- C.A.
+#352"I just read this week's newsletter, and I had to drop you a quick thank you."\- A.M.
 
 | 
 
@@ -17,6 +17,7 @@ At Logical Expressions, we know that you value your privacy, so we want you to k
   * LEI Forum & Blog - [http://forum.logicalexpressions.com](http://forum.logicalexpressions.com/) & [http://blog.logicalexpressions.com](http://blog.logicalexpressions.com/)
   * IdeaWeaver Software - [ http://www.ideaweaversoftware.com](http://www.ideaweaversoftware.com/)
   * Self-Publishers Online Conference - [http://www.SelfPublishersOnlineConference.com](http://www.selfpublishersonlineconference.com/)
+  * Self Pub U - [http://www.SelfPubU.com](http://www.selfpubu.com/)
   * National Association of Pet Rescue Professionals - [http://www.naprp.com](http://www.naprp.com/)
   * Computor Companion - [ http://www.computorcompanion.com](http://www.computorcompanion.com/)
   * Logical Tips (CC Tips) - [ http://www.logicaltips.com](http://www.logicaltips.com/)
@@ -24,7 +25,7 @@ At Logical Expressions, we know that you value your privacy, so we want you to k
   * Pet Tails - [http://www.pet-tails.com](http://www.pet-tails.com/)
   * Nerdy Musings - [http://www.nerdymusings.com](http://www.nerdymusings.com/)
   * Newsletter Help - [http://www.newsletterhelp.com](http://www.newsletterhelp.com/)
-  * Sandpoint Insider - [ http://www.sandpointinsider.com](http://www.sandpointinsider.com/)
+  * Technohomesteading - [ http://www.technohomesteading.com](http://www.technohomesteading.com/)
   * Web Business Success (book) - [ http://www.logicalebiz.com](http://www.logicalebiz.com/)
   * Vegan Success (book) - [http://www.vegansuccess.com](http://www.vegansuccess.com/)
   * Happy Hound (book) - [http://www.happyhoundbook.com](http://www.happyhoundbook.com/)
@@ -75,20 +76,29 @@ Logical Expressions, Inc.
 Sandpoint, Idaho 83864  
 Phone: 208-265-3636
 
-[Click to contact us by email](https://web.archive.org/web/20100526164109id_/http%3A//logicalexpressions.com/contact.asp)
+[Click to contact us by email](https://web.archive.org/web/20110528002352id_/http%3A//www.logicalexpressions.com/contact.asp)
 
 | 
 
-_You get TWO free reports **The 9 Lives of Content** and **7 Steps to Self Publishing Success** too!_  
+#### Read Articles   
+from   
+The Book Consultant!
 
+[Check out our latest articles](http://www.thebookconsultant.com/)   
+to learn how to profitably publish books.
+
+* * *
 
 **Check Us Out in REDBOOK!**  
 [Read the article about us ](http://www.redbookmag.com/your/letting-intuition-guide-you) in _Redbook Magazine_ (photos too!) 
 
+* * *
+
 [](http://www.bbbonline.org/cks.asp?id=10204251673723180)  
 Logical Expressions is a proud member of the BBB Online Reliability Program
 
-  
+* * *
+
 [](http://www.selfpublishersonlineconference.com/)
 
 [Visit SPOC  
