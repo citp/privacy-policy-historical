@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trishtech.com privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527060401id_/http%3A//www.trishtech.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trishtech.com privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527175439id_/http%3A//www.trishtech.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - TrishTech.com
 
