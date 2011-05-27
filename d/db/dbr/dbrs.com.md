@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dbrs.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215052312id_/http%3A//www.dbrs.com/about/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dbrs.com privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527045838id_/http%3A//www.dbrs.com/about/privacyPolicy) for the most accurate reproduction.*
 
 # DBRS.com - Privacy Policy
 
