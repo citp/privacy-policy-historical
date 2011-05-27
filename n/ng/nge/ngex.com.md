@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ngex.com privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126162105id_/http%3A//www.ngex.com/info/bd/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ngex.com privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527164908id_/http%3A//www.ngex.com/info/bd/privacy.htm) for the most accurate reproduction.*
 
 # NgEX! NigeriaExchange - Nigeria -> Constitution
 
@@ -36,7 +36,7 @@ Out site provides users the opportunity to opt-out of receiving communications f
 
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service.
 
-  1. You can send email to[ remove@ngex.com ](https://web.archive.org/web/20101126162105id_/http%3A//www.ngex.com/info/bd/remove.htm)
+  1. You can send email to[ remove@ngex.com ](https://web.archive.org/web/20110527164908id_/http%3A//www.ngex.com/info/bd/remove.htm)
 
 
 
@@ -44,7 +44,7 @@ This site gives users the following options for removing their information from 
 
 This site gives users the following options for changing and modifying information previously provided.
 
-  1. email [ update@ngex.com](https://web.archive.org/web/20101126162105id_/http%3A//www.ngex.com/info/bd/com.htm)
+  1. email [ update@ngex.com](https://web.archive.org/web/20110527164908id_/http%3A//www.ngex.com/info/bd/com.htm)
 
 
 
