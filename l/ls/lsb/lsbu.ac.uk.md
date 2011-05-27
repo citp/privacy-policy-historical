@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lsbu.ac.uk privacy policy that was archived on 2010-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100417180850id_/http%3A//www.lsbu.ac.uk/accessibility/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lsbu.ac.uk privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527031230id_/http%3A//www.lsbu.ac.uk/accessibility/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Statement | London South Bank University
 
@@ -18,4 +18,6 @@ Visitor statistics do not contain any personally identifiable information about 
 
 ## Cookie Files
 
-A "Cookie" is a small text file that is placed on your computer by a website you have visited. Cookies make your visit to a website easier and improve the quality of the visitor experience. Our Cookies are temporary and are not used to log personal information. Cookies are not able to cause damage to your system or extract personal information. Most browsers are initially set up to accept Cookies. It is important to note that you may not be able to use certain features on our or other websites if you choose not to accept Cookies.
+A "cookie" is a small text file that is placed on your computer by a website you have visited.
+
+The information our website collects by placing a cookie on your computer is used to help us analyse how our website is used so that we can improve its effectiveness and the quality of your web experience. Our cookies are not able to cause damage to your system or extract personal information, and do not read cookie files created by other websites. Most browsers are initially set up to accept cookies, but you can change your browser options to disable the acceptance of cookies. It is important to note that you may not be able to use certain features on our or other websites if you choose not to accept cookies.
