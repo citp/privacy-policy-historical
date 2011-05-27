@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the alshaya.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205101016id_/http%3A//www.alshaya.com/PrivacyPolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alshaya.com privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527125129id_/http%3A//www.alshaya.com/PrivacyPolicy.jsp) for the most accurate reproduction.*
 
 # M.H.Alshaya Co - The Middle East Leading Retailer
 
-Alshaya.com is strongly committed to respecting the privacy of all persons using our website, **<http://www.alshaya.com/>** ("the Web Site") and the protection of any personally identifiable information which we may collect and/ or use as part of our data collection process and/ or which you may choose to share with us. Such personal information will be collected and/ or used in accordance with the terms and conditions of this Privacy Policy, which is part of and incorporated into the Terms of Use of the Web Site [[Terms of Use](https://web.archive.org/web/20101205101016id_/http%3A//www.alshaya.com/TermsOfUse.jsp)]
+Alshaya.com is strongly committed to respecting the privacy of all persons using our website, **<http://www.alshaya.com/>** ("the Web Site") and the protection of any personally identifiable information which we may collect and/ or use as part of our data collection process and/ or which you may choose to share with us. Such personal information will be collected and/ or used in accordance with the terms and conditions of this Privacy Policy, which is part of and incorporated into the Terms of Use of the Web Site [[Terms of Use](https://web.archive.org/web/20110527125129id_/http%3A//www.alshaya.com/TermsOfUse.jsp)]
 
 Your Express Consent to Collection and Use of Information 
 
