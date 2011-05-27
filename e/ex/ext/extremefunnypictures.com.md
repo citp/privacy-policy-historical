@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the extremefunnypictures.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122080452id_/http%3A//www.extremefunnypictures.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extremefunnypictures.com privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527142557id_/http%3A//www.extremefunnypictures.com/privacy.htm) for the most accurate reproduction.*
 
 # PRIVACY STATEMENT
 
@@ -63,13 +63,13 @@ These parties are not allowed to use personally identifiable information except 
 
   
 **Correction/Updating Personal Information:  
-**If a user’s personally identifiable information changes (such as your zip code), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user’s personal data provided to us.  This can be done by [contacting us here.](https://web.archive.org/web/20101122080452id_/http%3A//www.extremefunnypictures.com/feedback.htm)
+**If a user’s personally identifiable information changes (such as your zip code), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user’s personal data provided to us.  This can be done by [contacting us here.](https://web.archive.org/web/20110527142557id_/http%3A//www.extremefunnypictures.com/feedback.htm)
 
   
 **Choice/Opt-out   
 **Our users are given the opportunity to ‘opt-out’ of having their information used for purposes not directly related to our site at the point where we ask for the information.  For example, our order form has an ‘opt-out’ mechanism so users who buy a product from us, but don’t want any marketing material, can keep their email address off of our lists. 
 
-Users who no longer wish to receive our newsletter or promotional materials from our partners may opt-out of receiving these communications by clicking on the remove link at the bottom of every email or may fill in their email address manually [here](https://web.archive.org/web/20101122080452id_/http%3A//www.extremefunnypictures.com/unsubscribe.htm). 
+Users who no longer wish to receive our newsletter or promotional materials from our partners may opt-out of receiving these communications by clicking on the remove link at the bottom of every email or may fill in their email address manually [here](https://web.archive.org/web/20110527142557id_/http%3A//www.extremefunnypictures.com/unsubscribe.htm). 
 
 Users of our site are always notified when their information is being collected by any outside parties.  We do this so our users can make an informed choice as to whether they should proceed with services that require an outside party, or not.
 
