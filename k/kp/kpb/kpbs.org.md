@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the kpbs.org privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126045820id_/http%3A//www.kpbs.org/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kpbs.org privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527090221id_/http%3A//www.kpbs.org/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | KPBS.org
 
-Effective Date April 15, 2009
+Effective Date November 29, 2010
 
 At KPBS, we recognize the importance of privacy to visitors of our Web sites and services (the "KPBS Web Sites" or "Service"). This Privacy Policy explains what type of information is collected from you when you visit the KPBS Web sites and how that information may be used. Please note that this Privacy Policy is separate and distinct from the privacy policies of the web sites that may link to or from KPBS.
 
@@ -49,6 +49,8 @@ Any information that you disclose when participating in the KPBS Community (incl
 In addition, if you send User Materials to KPBS through our Web site, we may print the User Materials, or an excerpt from the User Materials, on the KPBS Web site, read them on air, or otherwise publish them in any other medium, together with your name and location (city, state and/or country) if you provide that information to us.
 
 Excluding information provided by the user when participating in the KPBS Community or sending User Materials to KPBS, which may become public as discussed above, personally-identifying information collected by KPBS is not provided to outside parties except KPBS service vendors, and other third parties when the user specifically consents to such distribution (such as the disclosure of your name to a friend when you email a story to that friend). In these circumstances, the information is provided for the sole purpose of -- and only to the extent necessary for -- delivering the goods to the user, delivering communications from KPBS to users who have 'opted in' to the receipt of these communications, providing services for and on behalf of KPBS, or serving other internal KPBS purposes.
+
+Periodically, KPBS exchanges member mail contact information with other like-minded nonprofit organizations (i.e. The Old Globe, Birch Aquarium, San Diego Historical Society, etc.) for the purposes of our direct mail campaigns. Exchanges are done solely to help offset the costs of list rentals for our direct marketing activities and this benefits both nonprofits. There is no financial compensation involved in exchanges and we do not sell our list. Our members/donors have the right and opportunities to request that their information not be included in such exchanges, if that is their preference. We do not exchange e-mail addresses.
 
 KPBS also may disclose personal information if required to do so by law or if it believes that such action is necessary to (a) comply with the law or with legal process, (b) protect against misuse or unauthorized use of the KPBS Web Sites, or (c) protect the personal safety or property of users of the KPBS Web Sites, the public or KPBS and its employees.
 
