@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atrl.net privacy policy that was archived on 2010-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100917170300id_/http%3A//atrl.net/forums/privacystatement.php%3Fs%3D8d48812a65c60cd136e32f9bb7f07188) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atrl.net privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527093825id_/http%3A//atrl.net/forums/privacystatement.php) for the most accurate reproduction.*
 
 # ATRL - Privacy Statement
 
