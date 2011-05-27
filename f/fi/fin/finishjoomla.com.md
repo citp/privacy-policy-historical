@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the finishjoomla.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224200650id_/http%3A//www.finishjoomla.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the finishjoomla.com privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527160858id_/http%3A//www.finishjoomla.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | FinishJoomla
 
 #### Introduction.
 
-We take your right to privacy seriously and want you to feel comfortable using our web site. This Privacy Policy deals with personally identifiable information (referred to as "Data" below) that may be collected by us on our site. This Policy does not apply to other entities that we do not own or control or persons that are not our employees, agents or within our control. Please take time to read our [Terms of Use](http://www.finishjoomla.com/terms-of-use/).
+We take your right to privacy seriously and want you to feel comfortable using our web site. This Privacy Policy deals with personally identifiable information (referred to as "Data" below) that may be collected by us on our site. This Policy does not apply to other entities that we do not own or control or persons that are not our employees, agents or within our control. Please take time to read our Terms of Use.
 
 #### 1\. Collection of Data.
 
@@ -12,7 +12,7 @@ Our registration process requires only a valid e-mail address and a unique user 
 
 #### 2\. Use of Data.
 
-We may use Data to customize and improve your user experience on this site. We will make efforts so that your Data will not be provided to third parties unless (i) provided for otherwise in this Privacy Policy; (ii) we obtain your consent, such as when you choose to opt-in or opt-out to the sharing of Data; (iii) a service provided on our site requires the interaction with or is provided by a third party, by way of example an Application Service Provider; (iv) pursuant to legal process or law enforcement; (v) we find that your use of this site violates our this Policy, [Terms of Use](http://www.finishjoomla.com/terms-of-use/), other usage guidelines or as deemed reasonably necessary by us to protect our legal rights and/or property; or (vi) this site is purchased by a third party whereby that third party will be able to use the Data in the same manner as we can as set forth in this Policy. In the event you choose to use links that appear on our site to visit other web sites, you are advised to read the privacy policies that appear on those sites.
+We may use Data to customize and improve your user experience on this site. We will make efforts so that your Data will not be provided to third parties unless (i) provided for otherwise in this Privacy Policy; (ii) we obtain your consent, such as when you choose to opt-in or opt-out to the sharing of Data; (iii) a service provided on our site requires the interaction with or is provided by a third party, by way of example an Application Service Provider; (iv) pursuant to legal process or law enforcement; (v) we find that your use of this site violates our this Policy, Terms of Use, other usage guidelines or as deemed reasonably necessary by us to protect our legal rights and/or property; or (vi) this site is purchased by a third party whereby that third party will be able to use the Data in the same manner as we can as set forth in this Policy. In the event you choose to use links that appear on our site to visit other web sites, you are advised to read the privacy policies that appear on those sites.
 
 #### 3\. Cookies.
 
@@ -20,7 +20,7 @@ Like many web sites, we set and use cookies to enhance your user experience, suc
 
 #### 4\. Editing or Deleting Your Account Information.
 
-We provide you with the ability to edit the information in your user account information that you provided to us in registration by using your personal page configuration area. You may request deletion of your user account by contacting our webmaster. Content or other data that you may have provided to us and that is not contained within your user account, such as posts that may appear within our forums, may continue to remain on our site at our discretion even though your user account is deleted. Please see our [Terms of Use](http://www.finishjoomla.com/terms-of-use/) for more information.
+We provide you with the ability to edit the information in your user account information that you provided to us in registration by using your personal page configuration area. You may request deletion of your user account by contacting our webmaster. Content or other data that you may have provided to us and that is not contained within your user account, such as posts that may appear within our forums, may continue to remain on our site at our discretion even though your user account is deleted. Please see our Terms of Use for more information.
 
 #### 5\. Changes to this Privacy Policy.
 
@@ -32,4 +32,4 @@ While this Privacy Policy states our standards for maintenance of Data and we wi
 
 #### 7\. Contact Information.
 
-If you have any questions about this Policy or our web site, please feel free to [contact our webmaster](http://www.finishjoomla.com/contact/).
+If you have any questions about this Policy or our web site, please feel free to contact our webmaster.
