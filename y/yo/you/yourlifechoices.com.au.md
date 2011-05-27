@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourlifechoices.com.au privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224200541id_/http%3A//yourlifechoices.com.au/index.php/articles/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourlifechoices.com.au privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527020123id_/http%3A//www.yourlifechoices.com.au/index.php/articles/privacy) for the most accurate reproduction.*
 
 # 
 
@@ -20,7 +20,7 @@
 
 **Opt-Out**  
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service:  
-You can send an email with “unsubscribe” in the subject line to [](mailto:admin@yourlifechoices.com.au)[admin@yourlifechoices.com.au](mailto:admin@yourlifechoices.com.au)  
+You can send an email with “unsubscribe” in the subject line to [[admin@yourlifechoices.com.au](mailto:admin@yourlifechoices.com.au)](mailto:admin@yourlifechoices.com.au)  
 You can send mail to the following postal address:
 
 > **YOURLifeChoices**  
