@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the raywhite.com privacy policy that was archived on 2010-11-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101126113426id_/http%3A//www.raywhite.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the raywhite.com privacy policy that was archived on 2011-05-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110527143842id_/http%3A//www.raywhite.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US"><head profile="http://gmpg.org/xfn/11">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -172,13 +172,13 @@ $(this).css( 'filter', 'progid:DXImageTransform.Microsoft.AlphaImageLoader(src="
     <dd>
         <ul>
         <li><a href="http://www.raywhiteauction.com/" target="_blank">Auction</a></li>        
-         <li><a href="http://www.raywhiteconcierge.com.au/" target="_blank">Concierge</a></li>
         <li><a href="http://www.raywhiteconcierge.com.au/" target="_blank">Concierge</a></li>
-        <li><a href="http://www.loanmarket.com.au/" target="_blank">Finance</a></li>
+        <li><a href="http://www.loanmarket.com.au/?utm_source=rw-002&amp;utm_medium=Advertising&amp;utm_content=header-dropdown&amp;utm_campaign=RW&amp;ref=rw-002" target="_blank">Finance</a></li>
         <li><a href="http://www.raywhiteinvest.com.au/" target="_blank">Private Client Investment</a></li>
         <li><a href="http://www.raywhite.com/" target="_blank">Residential</a></li>
         <li><a href="http://www.raywhiterural.com.au/" target="_blank">Rural</a></li>
         <li><a href="http://www.raywhitetransact.com.au/" target="_blank">Transact</a></li>
+        <li><a href="http://www.rwdm.com.au/" target="_blank">Development Marketing</a></li>
         </ul>
     </dd>
 </dl> <div id="header">
@@ -414,11 +414,11 @@ jQuery(document).ready(function() {
 						<label> 
 							<span class="formLeft">Office Type</span>
 							<select name="officetype" id="officetype">
-																	<option value="All">All</option>
-																	<option value="Commercial">Commercial</option>
-																	<option value="Residential">Residential</option>
-																	<option value="Rural">Rural</option>
-															</select>
+								                                    <option value="All">All</option>  
+                                    								                                    <option value="Commercial">Commercial</option>  
+                                    								                                    <option value="Residential">Residential</option>  
+                                    								                                    <option value="Rural">Rural</option>  
+                                    															</select>
 						</label>
 					</fieldset>
 					
@@ -441,6 +441,9 @@ jQuery(document).ready(function() {
 								<option value="5" selected="selected">+5km </option>
 								<option value="8">+8km </option>
 								<option value="10">+10km </option>
+
+								<option value="15">+15km </option>
+								<option value="20">+20km </option>
 							</select>
 						</label>
 					</fieldset>
@@ -496,19 +499,19 @@ jQuery(document).ready(function() {
 						<label> 
 							<span class="formLeft">Office Type</span>
 							<select name="officetype" id="officetype">
-																	<option value="All">All</option>
-																	<option value="Commercial">Commercial</option>
-																	<option value="Residential">Residential</option>
-																	<option value="Rural">Rural</option>
-															</select>
+								                                    <option value="All">All</option>  
+                                    								                                    <option value="Commercial">Commercial</option>  
+                                    								                                    <option value="Residential">Residential</option>  
+                                    								                                    <option value="Rural">Rural</option>  
+                                    															</select>
 						</label>
 					</fieldset>
 					
 					<fieldset class="formElement">
 						<label for="" id="fasOfficeLocation"> 
 							<span class="formLeft">Select Location</span>
-							<input class="text" type="text" name="locationsearch" id="locationsearch" value="">
-							<input type="hidden" name="location" id="location" value="">
+                            <input class="text" type="text" name="locationsearch" id="locationsearch" value="">
+							<input type="hidden" name="location" id="location" value="">							
 						</label>
 					</fieldset>
 
@@ -523,6 +526,8 @@ jQuery(document).ready(function() {
 								<option value="5" selected="selected">+5km </option>
 								<option value="8">+8km </option>
 								<option value="10">+10km </option>
+                                <option value="15">+15km </option>
+								<option value="20">+20km </option>
 							</select>
 						</label>
 					</fieldset>
@@ -672,7 +677,7 @@ if (jQuery("#landSize_max").val() == 0){
 </fieldset>
 <fieldset class="formElement" id="surroundlnd">
   <label> <span class="formLeft">Include</span>
-    <select name="surroundRUR" id="surround">
+    <select name="surroundRUR" id="surround" onchange="_gaq.push(['_trackEvent', 'Search Form', 'Rural', 'Surround KM']);">
       <option value="false">This location only</option>
       <option value="10">10kms </option>
 <option value="20">20km </option>
@@ -690,7 +695,7 @@ if (jQuery("#landSize_max").val() == 0){
 <fieldset>
   <span class="formElement"> <span class="formLeft">Property Type</span>
   <label>
-    <select name="types">
+    <select name="types" onchange="_gaq.push(['_trackEvent', 'Search Form', 'Rural', 'Property Type']);">
       <option value="ALL">Show All</option>
       <option value="CRP">Cropping</option>
 <option value="DRY">Dairy</option>
@@ -754,7 +759,7 @@ if (jQuery("#landSize_max").val() == 0){
 <fieldset class="buyprice" style="clear:both;">
   <span class="formElement"> <span class="formLeft">Price:</span>
   <label class="selectBox">
-    <select name="price_min" id="price_min" class="searchDropdown" onchange="checkPriceLimits(this)">
+    <select name="price_min" id="price_min" class="searchDropdown" onchange="_gaq.push(['_trackEvent', 'Search Form', 'Rural', 'Price Min']); ">
       <option value="ANY">$ Min</option>
       <option value="ANY">Any</option>
       <option value="250000">$250,000 </option>
@@ -777,7 +782,7 @@ if (jQuery("#landSize_max").val() == 0){
     </select>
   </label>
   <label class="selectBox">
-    <select name="price_max" id="price_max" class="searchDropdown" onchange="checkPriceLimits(this)">
+    <select name="price_max" id="price_max" class="searchDropdown" onchange=" _gaq.push(['_trackEvent', 'Search Form', 'Rural', 'Price Max']); ">
       <option value="ANY">$ Max</option>
       <option value="ANY">Any</option>
       <option value="250000">$250,000 </option>
@@ -803,7 +808,7 @@ if (jQuery("#landSize_max").val() == 0){
 </fieldset>
 <fieldset class="formElement showPerPage">
   <label> <span class="formLeft">No. per page</span>
-    <select name="resultsPerPage">
+    <select name="resultsPerPage" onchange="_gaq.push(['_trackEvent', 'Search Form', 'Rural', 'Results Per Page']);">
       <option value="10">10 </option>
 <option value="25">25 </option>
 <option value="50">50 </option>
@@ -813,7 +818,7 @@ if (jQuery("#landSize_max").val() == 0){
 </fieldset>
 <span class="formElement">
 <label for="sortsearch" class="shade"> <span class="formLeft">Sort By</span>
-  <select name="sortsearch" id="sortsearch">
+  <select name="sortsearch" id="sortsearch" onchange="_gaq.push(['_trackEvent', 'Search Form', 'Rural', 'Sort']);">
     <option value="suburbASC">Location A - Z </option>
 <option value="suburbDESC">Location Z - A </option>
 <option value="priceASC">Price Lowest to Highest </option>
@@ -1089,16 +1094,6 @@ jQuery(document).ready(function() {
 			  jQuery("fieldset.buyprice").hide();
 			  jQuery("fieldset.rentprice").show();
 	  });
-	  if ((jQuery('input[name="res_status"]:checked').attr('id') == 'res_sal') || (jQuery('input[name="res_status"]:checked').attr('id') == 'res_sold')) {
-	  		activeprice = "buy";
-			inactiveprice = "rent";
-	  }
-	  else  {
-		  	activeprice = "rent";
-			inactiveprice = "buy";
-	  }
-	jQuery("."+activeprice+"price").each(function(){jQuery(this).show();});
-	jQuery("."+inactiveprice+"price").each(function(){jQuery(this).hide();});
 });
 </script>
 
@@ -1121,7 +1116,7 @@ jQuery(document).ready(function() {
 <!-- <input type="submit" value="go" />-->
 <fieldset class="formElement" id="surroundres">
   <label> <span class="formLeft">Include</span>
-    <select name="surround" id="surround">
+    <select name="surround" id="surround" onchange="_gaq.push(['_trackEvent', 'Search Form', 'Residential', 'Surround KM']);">
       <option value="false">This location only</option>
       <option value="2">+2kms </option>
 <option value="3">+3km </option>
@@ -1138,7 +1133,7 @@ jQuery(document).ready(function() {
 </span>
 <fieldset class="formElement">
   <label><span class="formLeft">Building</span>
-    <select name="types">
+    <select name="types" onchange="_gaq.push(['_trackEvent', 'Search Form', 'Residential', 'Property Type']);">
       <option value="ALL">Any</option>
       <option value="ACR">Acreage</option>
 <option value="APT">Apartment</option>
@@ -1156,7 +1151,7 @@ jQuery(document).ready(function() {
 </fieldset>
 <span class="formElement">
 <label for="bedroom_min" class="shade"> <span class="formLeft">Bedrooms</span>
-  <select name="bedroom_min" id="bedroom_min" class="searchDropdown">
+  <select name="bedroom_min" id="bedroom_min" class="searchDropdown" onchange="_gaq.push(['_trackEvent', 'Search Form', 'Residential', 'Bed Min']);">
     <option value="ANY">1 Minimum</option>
     <option value="1">1 +</option>
 <option value="2">2 +</option>
@@ -1169,7 +1164,7 @@ jQuery(document).ready(function() {
 </label>
 </span> <span class="formElement">
 <label for="bathroom_min"> <span class="formLeft">Bathrooms</span>
-  <select name="bathroom_min" id="bathroom_min" class="searchDropdown">
+  <select name="bathroom_min" id="bathroom_min" class="searchDropdown" onchange="_gaq.push(['_trackEvent', 'Search Form', 'Residential', 'Bathroom Min']);">
     <option value="ANY">1 Minimum</option>
     <option value="1">1 +</option>
 <option value="2">2 +</option>
@@ -1180,7 +1175,7 @@ jQuery(document).ready(function() {
 </label>
 </span> <span class="formElement">
 <label for="carpark_min" class="shade"> <span class="formLeft">Car parks</span>
-  <select name="carpark_min" id="carpark_min" class="searchDropdown">
+  <select name="carpark_min" id="carpark_min" class="searchDropdown" onchange="_gaq.push(['_trackEvent', 'Search Form', 'Residential', 'Car Park']);">
     <option value="ANY">Garage +</option>
     <option value="1">1 +</option>
 <option value="2">2 +</option>
@@ -1193,7 +1188,7 @@ jQuery(document).ready(function() {
 <fieldset class="buyprice">
   <span class="formElement"> <span class="formLeft">Price:</span>
   <label class="selectBox">
-    <select name="price_min" id="price_min" class="searchDropdown" onchange="checkPriceLimits(this)">
+    <select name="price_min" id="price_min" class="searchDropdown" onchange="_gaq.push(['_trackEvent', 'Search Form', 'Residential', 'Price Min']);">
       <option value="ANY">$ Min</option>
       <option value="ANY">Any</option>
       <option value="250000">$250,000 </option>
@@ -1216,7 +1211,7 @@ jQuery(document).ready(function() {
     </select>
   </label>
   <label class="selectBox">
-    <select name="price_max" id="price_max" class="searchDropdown" onchange="checkPriceLimits(this)">
+    <select name="price_max" id="price_max" class="searchDropdown" onchange="_gaq.push(['_trackEvent', 'Search Form', 'Residential', 'Price Max']); ">
       <option value="ANY">$ Max</option>
       <option value="ANY">Any</option>
       <option value="250000">$250,000 </option>
@@ -1243,7 +1238,7 @@ jQuery(document).ready(function() {
 <fieldset class="rentprice" style="display:none">
   <span class="formElement"> <span class="formLeft">Rent:</span>
   <label class="selectBox">
-    <select name="rent_min" id="price_min" class="searchDropdown" onchange="checkPriceLimits(this)">
+    <select name="rent_min" id="price_min" class="searchDropdown" onchange="_gaq.push(['_trackEvent', 'Search Form', 'Residential', 'Rent Price Min']); ">
       <option value="ANY">$ Min</option>
       <option value="ANY">Any</option>
       <option value="100">100 $/wk </option>
@@ -1256,7 +1251,7 @@ jQuery(document).ready(function() {
     </select>
   </label>
   <label class="selectBox">
-    <select name="rent_max" id="price_max" class="searchDropdown" onchange="checkPriceLimits(this)">
+    <select name="rent_max" id="price_max" class="searchDropdown" onchange="_gaq.push(['_trackEvent', 'Search Form', 'Residential', 'Rent Price Max']); ">
       <option value="ANY">$ Max</option>
       <option value="ANY">Any</option>
       <option value="100">100 $/wk </option>
@@ -1272,7 +1267,7 @@ jQuery(document).ready(function() {
 </fieldset>
 <fieldset class="formElement showPerPage">
   <label> <span class="formLeft">No. per page</span>
-    <select name="resultsPerPage">
+    <select name="resultsPerPage" onchange="_gaq.push(['_trackEvent', 'Search Form', 'Residential', 'Results Per Page']); ">
       <option value="10">10 </option>
 <option value="25">25 </option>
 <option value="50">50 </option>
@@ -1282,7 +1277,7 @@ jQuery(document).ready(function() {
 </fieldset>
 <span class="formElement">
 <label for="sortsearch" class="shade"> <span class="formLeft">Sort By</span>
-  <select name="sortsearch" id="sortsearch">
+  <select name="sortsearch" id="sortsearch" onchange="_gaq.push(['_trackEvent', 'Search Form', 'Residential', 'Sort']); ">
     <option value="suburbASC">Location A - Z </option>
 <option value="suburbDESC">Location Z - A </option>
 <option value="priceASC">Price Lowest to Highest </option>
@@ -1310,7 +1305,7 @@ jQuery(document).ready(function() {
 
         <fieldset class="formElement" id="surroundlnd">
           <label> <span class="formLeft">Include</span>
-            <select name="surroundRUR" id="surround">
+            <select name="surroundRUR" id="surround" onchange="_gaq.push(['_trackEvent', 'Search Form', 'Lifestyle', 'Surround KM']);">
               <option value="false">This location only</option>
               <option value="10">10kms </option>
 <option value="20">20km </option>
@@ -1332,7 +1327,7 @@ jQuery(document).ready(function() {
   <span class="formElement">
 <span class="formLeft">Price:</span>
 <label class="selectBox">
-<select name="price_min" id="price_min" class="searchDropdown" onchange="checkPriceLimits(this)">
+<select name="price_min" id="price_min" class="searchDropdown" onchange="_gaq.push(['_trackEvent', 'Search Form', 'Lifestyle', 'Price Min']);">
   <option value="ANY">$ Min</option>
   <option value="ANY">Any</option>
   <option value="250000">$250,000 </option>
@@ -1355,7 +1350,7 @@ jQuery(document).ready(function() {
 </select>
 </label>
 <label class="selectBox">
-<select name="price_max" id="price_max" class="searchDropdown" onchange="checkPriceLimits(this)">
+<select name="price_max" id="price_max" class="searchDropdown" onchange="_gaq.push(['_trackEvent', 'Search Form', 'Lifestyle', 'Price Max']);">
   <option value="ANY">$ Max</option>
   <option value="ANY">Any</option>
   <option value="250000">$250,000 </option>
@@ -1383,7 +1378,7 @@ jQuery(document).ready(function() {
 
 <fieldset class="formElement showPerPage">
           <label> <span class="formLeft">No. per page</span>
-            <select name="resultsPerPage">
+            <select name="resultsPerPage" onchange="_gaq.push(['_trackEvent', 'Search Form', 'Lifestyle', 'Results Per Page']); ">
               <option value="10">10 </option>
 <option value="25">25 </option>
 <option value="50">50 </option>
@@ -1393,7 +1388,7 @@ jQuery(document).ready(function() {
         </fieldset>
         <span class="formElement">
         <label for="sortsearch" class="shade"> <span class="formLeft">Sort By</span>
-          <select name="sortsearch" id="sortsearch">
+          <select name="sortsearch" id="sortsearch" onchange="_gaq.push(['_trackEvent', 'Search Form', 'Lifestyle', 'Sort']); ">
             <option value="suburbASC">Location A - Z </option>
 <option value="suburbDESC">Location Z - A </option>
 <option value="priceASC">Price Lowest to Highest </option>
@@ -1421,7 +1416,7 @@ jQuery(document).ready(function() {
 
         <fieldset class="formElement" id="surroundlnd">
           <label> <span class="formLeft">Include</span>
-            <select name="surroundRUR" id="surround">
+            <select name="surroundRUR" id="surround" onchange="_gaq.push(['_trackEvent', 'Search Form', 'Land', 'Surround KM']);">
               <option value="false">This location only</option>
               <option value="10">10kms </option>
 <option value="20">20km </option>
@@ -1443,7 +1438,7 @@ jQuery(document).ready(function() {
   <span class="formElement">
 <span class="formLeft">Price:</span>
 <label class="selectBox">
-<select name="price_min" id="price_min" class="searchDropdown" onchange="checkPriceLimits(this)">
+<select name="price_min" id="price_min" class="searchDropdown" onchange="_gaq.push(['_trackEvent', 'Search Form', 'Land', 'Price Min']);">
   <option value="ANY">$ Min</option>
   <option value="ANY">Any</option>
   <option value="250000">$250,000 </option>
@@ -1466,7 +1461,7 @@ jQuery(document).ready(function() {
 </select>
 </label>
 <label class="selectBox">
-<select name="price_max" id="price_max" class="searchDropdown" onchange="checkPriceLimits(this)">
+<select name="price_max" id="price_max" class="searchDropdown" onchange="_gaq.push(['_trackEvent', 'Search Form', 'Land', 'Price Max']);">
   <option value="ANY">$ Max</option>
   <option value="ANY">Any</option>
   <option value="250000">$250,000 </option>
@@ -1494,7 +1489,7 @@ jQuery(document).ready(function() {
 
 <fieldset class="formElement showPerPage">
           <label> <span class="formLeft">No. per page</span>
-            <select name="resultsPerPage">
+            <select name="resultsPerPage" onchange="_gaq.push(['_trackEvent', 'Search Form', 'Land', 'Results Per Page']); ">
               <option value="10">10 </option>
 <option value="25">25 </option>
 <option value="50">50 </option>
@@ -1504,7 +1499,7 @@ jQuery(document).ready(function() {
         </fieldset>
         <span class="formElement">
         <label for="sortsearch" class="shade"> <span class="formLeft">Sort By</span>
-          <select name="sortsearch" id="sortsearch">
+          <select name="sortsearch" id="sortsearch" onchange="_gaq.push(['_trackEvent', 'Search Form', 'Land', 'Sort']); ">
             <option value="suburbASC">Location A - Z </option>
 <option value="suburbDESC">Location Z - A </option>
 <option value="priceASC">Price Lowest to Highest </option>
@@ -1545,7 +1540,7 @@ jQuery(document).ready(function() {
         <!-- <input type="submit" value="go" />-->
         <fieldset class="formElement" id="surroundres">
           <label> <span class="formLeft">Include</span>
-            <select name="surround" id="surround">
+            <select name="surround" id="surround" onchange="_gaq.push(['_trackEvent', 'Search Form', 'Business', 'Surround KM']);">
               <option value="false">This location only</option>
               <option value="2">+2kms </option>
 <option value="3">+3km </option>
@@ -1588,7 +1583,7 @@ jQuery(document).ready(function() {
   <span class="formElement">
     <span class="formLeft">Sale Price </span>
   <label class="selectBox">
-    <select name="price_min" id="price_min" class="searchDropdown" onchange="checkPriceLimits(this)">
+    <select name="price_min" id="price_min" class="searchDropdown" onchange="_gaq.push(['_trackEvent', 'Search Form', 'Business', 'Price Max']);">
        <option value="ANY" selected="selected">$ Min</option>
             <option value="ANY">Any</option>
             <option value="0">&lt; $250,000 </option>
@@ -1613,7 +1608,7 @@ jQuery(document).ready(function() {
     </select>
   </label>
   <label class="selectBox">
-    <select name="price_max" id="price_max" class="searchDropdown" onchange="checkPriceLimits(this)">
+    <select name="price_max" id="price_max" class="searchDropdown" onchange="_gaq.push(['_trackEvent', 'Search Form', 'Business', 'Price Min']);">
       <option value="ANY" selected="selected">$ Max</option>
             <option value="0">&lt; $250,000 </option>
             <option value="ANY">Any</option>
@@ -1643,7 +1638,7 @@ jQuery(document).ready(function() {
 
 <fieldset class="formElement showPerPage">
           <label> <span class="formLeft">No. per page</span>
-            <select name="resultsPerPage">
+            <select name="resultsPerPage" onchange="_gaq.push(['_trackEvent', 'Search Form', 'Business', 'Results Per Page']);">
               <option value="10">10 </option>
 <option value="25">25 </option>
 <option value="50">50 </option>
@@ -1653,7 +1648,7 @@ jQuery(document).ready(function() {
         </fieldset>
         <span class="formElement">
         <label for="sortsearch" class="shade"> <span class="formLeft">Sort By</span>
-          <select name="sortsearch" id="sortsearch">
+          <select name="sortsearch" id="sortsearch" onchange="_gaq.push(['_trackEvent', 'Search Form', 'Business', 'Sort']);">
             <option value="suburbASC">Location A - Z </option>
 <option value="suburbDESC">Location Z - A </option>
 <option value="priceASC">Price Lowest to Highest </option>
@@ -1672,7 +1667,7 @@ jQuery(document).ready(function() {
         <!-- <input type="submit" value="go" />-->
         <fieldset class="formElement" id="surroundres">
           <label> <span class="formLeft">Include</span>
-            <select name="surround" id="surround">
+            <select name="surround" id="surround" onchange="_gaq.push(['_trackEvent', 'Search Form', 'Holiday', 'Surround KM']);">
               <option value="false">This location only</option>
               <option value="2">+2kms </option>
 <option value="3">+3km </option>
@@ -1723,7 +1718,7 @@ jQuery(document).ready(function() {
 </fieldset>
 <fieldset class="formElement showPerPage">
           <label> <span class="formLeft">No. per page</span>
-            <select name="resultsPerPage">
+            <select name="resultsPerPage" onchange="_gaq.push(['_trackEvent', 'Search Form', 'Holiday', 'Results Per Page']);">
               <option value="10">10 </option>
 <option value="25">25 </option>
 <option value="50">50 </option>
@@ -1733,7 +1728,7 @@ jQuery(document).ready(function() {
         </fieldset>
         <span class="formElement">
         <label for="sortsearch" class="shade"> <span class="formLeft">Sort By</span>
-          <select name="sortsearch" id="sortsearch">
+          <select name="sortsearch" id="sortsearch" onchange="_gaq.push(['_trackEvent', 'Search Form', 'Holiday', 'Sort']);">
             <option value="suburbASC">Location A - Z </option>
 <option value="suburbDESC">Location Z - A </option>
 <option value="priceASC">Price Lowest to Highest </option>
@@ -1794,8 +1789,7 @@ jQuery(document).ready(function() {
         <!-- Email Alert -->
         <div class="shadow" id="emailAlert">
           <h2><strong><a href="http://myproperty.raywhite.com/" target="_blank">EMAIL ALERTS</a></strong><a href="http://myproperty.raywhite.com/"> REGISTER NOW</a></h2>
-        </div>
-      </div>
+        </div>      </div>
       
 <div id="sidebar">
   <h1>Ray White News</h1>
@@ -1803,7 +1797,7 @@ jQuery(document).ready(function() {
     <h2 style="position:static;">Real Estate News</h2>
     <div class="detail">
      	<div id="refeed">
-<div class="feeditems"><p><a href="/news/?nid=4155" rel="nofollow">Ray White is Going, Going .... Google </a></p></div><div class="feeditems"><p><a href="/news/?nid=4062" rel="nofollow">Real Estate Information Evening</a></p></div><div class="feeditems"><p><a href="/news/?nid=4020" rel="nofollow">Social Media In Real Estate</a></p></div><div class="feeditems"><p><a href="/news/?nid=3819" rel="nofollow">Print Advertising is Not Dead</a></p></div><div class="feeditems"><p><a href="/news/?nid=3725" rel="nofollow">A Career Selling Real Estate</a></p></div><div class="feeditems"><p><a href="/news/?nid=3632" rel="nofollow">National Property Media Wrap Up</a></p></div><div class="feeditems"><p><a href="/news/?nid=3266" rel="nofollow">Property in Spring</a></p></div></div>
+<div class="feeditems"><p><a href="/news/?nid=4918" rel="nofollow">WA: Mandurah is on the move again</a></p></div><div class="feeditems"><p><a href="/news/?nid=4895" rel="nofollow">Victoria: in-room auction success</a></p></div><div class="feeditems"><p><a href="/news/?nid=4883" rel="nofollow">NSW: Mudgee�s population and property market changes</a></p></div><div class="feeditems"><p><a href="/news/?nid=4865" rel="nofollow">Villas offer retirement alternative</a></p></div><div class="feeditems"><p><a href="/news/?nid=4862" rel="nofollow">Law change attracts more to real estate</a></p></div><div class="feeditems"><p><a href="/news/?nid=4810" rel="nofollow">Jo Boothroyd's third local real estate business</a></p></div><div class="feeditems"><p><a href="/news/?nid=4789" rel="nofollow">Ray White livestock auctioneer takes national title</a></p></div></div>
     </div>
   </div>
   <div class="sidebarBox shadowDark" style="margin-top:0;">
@@ -1814,16 +1808,17 @@ jQuery(document).ready(function() {
   </div>
     </div>
     </div>
-    <div id="toolImage"><img src="http://www.raywhite.com/wp-content/themes/RWGV1.4/images/toolImages-14-9-10.jpg" alt="tools" width="982" height="174" border="0" usemap="#MapResidential">
+    <div id="toolImage"><img src="http://www.raywhite.com/wp-content/themes/RWGV1.4/images/toolImages-16-3-2011.jpg" alt="tools" width="982" height="155" border="0" usemap="#MapResidential">
     <map name="MapResidential" id="MapResidential">
-      <area shape="rect" coords="14,10,115,162" href="/property-management/" alt="Ray White Property Management">
-      <area shape="rect" coords="128,13,232,161" href="http://www.raywhiteinvest.com.au/" alt="Ray White Invest" target="_blank">
-      <area shape="rect" coords="250,12,357,161" href="http://www.raywhitecommercial.com.au" alt="Ray White Commercial" target="blank">
-      <area shape="rect" coords="369,11,482,161" href="http://www.raywhiterural.com.au" alt="Ray White Rural" target="_blank">
-      <area shape="rect" coords="495,9,599,160" href="http://www.raywhiteinsurance.com.au/" alt="Ray White Insurance" target="_blank">
-      <area shape="rect" coords="615,12,727,160" href="https://payment.raywhite.com/" target="_blank" alt="Pay Your Rent">
-      <area shape="rect" coords="741,10,853,161" href="http://www.raywhiteconcierge.com.au/" alt="Ray White Concierge" target="_blank">
-      <area shape="rect" coords="870,8,977,164" href="http://www.loanmarket.com.au/?ref=rwg-002" alt="Loan Market Home Finance Brokers" target="_blank">
+      <area shape="rect" coords="2,2,102,148" href="/property-management/" alt="Ray White Property Management">
+      <area shape="rect" coords="109,2,208,148" href="http://www.raywhiteinvest.com.au/" alt="Ray White Invest" target="_blank">
+      <area shape="rect" coords="216,2,315,148" href="http://www.raywhitecommercial.com.au" alt="Ray White Commercial" target="blank">
+      <area shape="rect" coords="323,2,427,148" href="http://www.raywhiterural.com.au" alt="Ray White Rural" target="_blank">
+      <area shape="rect" coords="438,2,537,148" href="http://www.raywhiteinsurance.com.au/" alt="Ray White Insurance" target="_blank">
+      <area shape="rect" coords="543,2,648,148" href="https://payment.raywhite.com/" target="_blank" alt="Pay Your Rent">
+      <area shape="rect" coords="656,2,763,148" href="http://www.raywhiteconcierge.com.au/" alt="Ray White Concierge" target="_blank">
+      <area shape="rect" coords="770,2,869,148" href="http://www.loanmarket.com.au/?utm_source=rw-001&amp;utm_medium=Advertising&amp;utm_content=footer-toolbar&amp;utm_campaign=RW&amp;ref=rw-001" alt="Loan Market Home Finance Brokers" target="_blank">
+       <area shape="rect" coords="878,2,976,148" href="http://www.rwdm.com.au/" alt="Development Marketing" target="_blank">
     </map>
   </div>  </div>
     
