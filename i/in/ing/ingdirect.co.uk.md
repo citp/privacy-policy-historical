@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ingdirect.co.uk privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231084640id_/http%3A//www.ingdirect.co.uk/home/privacypolicy.asp%3Fsection%3Dhome) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ingdirect.co.uk privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527041408id_/http%3A//www.ingdirect.co.uk/home/privacypolicy.asp%3Fsection%3Dhome) for the most accurate reproduction.*
 
 # Privacy Policy > About ING Direct > ING Direct
 
@@ -114,7 +114,7 @@ You may need to pay a fee.
 
 Marketing 
 
-Occasionally, we may want to tell you about ING Direct products and services which may be of interest to you. This could be by letter, phone, mobile phone (including text messages) and e-mail.  You have a right to stop us contacting you for this purpose. You may **[contact us](https://web.archive.org/home/contactus.asp "Contact us") **at any time in the future if you want us to stop.  However, choosing not to receive this information from us will mean that you may not receive details about any of our special offers and promotions. 
+Occasionally, we may want to tell you about other products and services which may be of interest to you. This could be by letter, phone, mobile phone (including text messages) and e-mail.  You have a right to stop us contacting you for this purpose. You may **[contact us](https://web.archive.org/home/contactus.asp "Contact us") **at any time in the future if you want us to stop.  However, choosing not to receive this information from us will mean that you may not receive details about any special offers and promotions. 
 
 By clicking [here](http://optout.doubleclick.net/cgi-bin/dclk/optout.pl "Double Click website") , you can also obtain an 'opt out' cookie that will prevent your information from being used to target our adverts on other websites. 
 
