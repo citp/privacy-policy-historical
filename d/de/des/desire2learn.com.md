@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the desire2learn.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125033251id_/http%3A//www.desire2learn.com/contact/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desire2learn.com privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527103743id_/http%3A//www.desire2learn.com/contact/privacy) for the most accurate reproduction.*
 
 # Desire2Learn Incorporated Website Privacy Policy
 
