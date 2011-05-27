@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magnetstreet.com privacy policy that was archived on 2010-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100723235942id_/http%3A//www.magnetstreet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magnetstreet.com privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527051144id_/http%3A//www.magnetstreet.com/privacy-policy) for the most accurate reproduction.*
 
 # MagnetStreet
 
@@ -40,7 +40,7 @@ When you make a purchase, sign up for any MagnetStreet services, or submit a req
 
   * Cookies. 
 
-When you visit this Website, MagnetStreet may send one or more cookies, a small file containing a string of characters, to your computer that uniquely identifies your browser. MagnetStreet uses cookies to improve the quality of this Website by storing user preferences and tracking user trends. Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. Some of this Website's features and services may not function properly if your cookies are disabled.
+When you visit this Website, MagnetStreet may send one or more cookies, a small file containing a string of characters, to your computer that uniquely identifies your browser. MagnetStreet uses cookies to improve the quality of this Website by storing user preferences and tracking user trends. Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. Some of this Website's features and services may not function properly if your cookies are disabled. Third party vendors, including Google, use cookies to serve ads based on user's prior visits to this website.
 
   * User Communications. 
 
@@ -57,6 +57,10 @@ MagnetStreet may present links in a format that tracks whether these links have 
   * Third-Party Web Sites. 
 
 This Policy only applies to this Website and any other website owned and operated by MagnetStreet. Please be aware that MagnetStreet is not responsible for the privacy practices of any other websites and does not exercise control over third-party websites displayed as links anywhere on this Website. These third-party websites may place their own cookies or other files on your computer, collect data, or solicit personally identifiable information from you. In certain instances, if you affirmatively click through to access sponsored content or materials at sponsored websites, or affirmatively click through on a link/ad, that user's information may be shared with the sponsor.
+
+  * Advertising.
+
+Third party vendors, including Google, show MagnetStreet's ads on sites on the internet. Users may opt out of Google's use of cookies by visiting the [Google advertising opt-out page](http://www.google.com/privacy_ads.html). Alternatively users may opt out of third party vendor's use of cookies by visiting the [Network Advertising Initiative opt out page](http://www.networkadvertising.org/managing/opt_out.asp). 
 
 
 
