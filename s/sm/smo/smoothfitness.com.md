@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the smoothfitness.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123195611id_/http%3A//www.smoothfitness.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smoothfitness.com privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527064919id_/http%3A//www.smoothfitness.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Smooth Fitness
 
 Smooth Fitness™ is the #1 seller and manufacturer of quality fitness equipment on the Internet. Our focus is the Internet and our business model is designed around the Internet. What that means to you is that you are dealing with Internet professionals. We respect and are committed to protecting your privacy. This Privacy Policy lets you know how your personal information is processed and explains data collection and use practices throughout our site.  
-[](https://web.archive.org/web/20101123195611id_/http://www.smoothfitness.com/privacy-policy/smooth-history.htm)  
+[](https://web.archive.org/web/20110527064919id_/http://www.smoothfitness.com/privacy-policy/smooth-history.htm)  
 **Does SmoothFitness.com use Cookies?**  
 Smooth Fitness™' Web Site gives out Cookies to your browser. Cookies are a necessary part of our shopping cart, without which you would not be able to purchase on-line with us. We also use cookies to track where in the site you are and how you got there. This information helps us understand better your needs as a consumer, and make changes to our site accordingly. We do not use cookies to track or obtain personal information. 
 
