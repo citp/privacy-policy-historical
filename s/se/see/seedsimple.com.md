@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the seedsimple.com privacy policy that was archived on 2009-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090607031719id_/http%3A//seedsimple.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seedsimple.com privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527225544id_/http%3A//seedsimple.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Seed Simple
-
-Browse >
-
-[Home](http://seedsimple.com/ "Browse to: Home") / Privacy Policy 
 
 The privacy of our visitors to SeedSimple.com is important to us.
 
