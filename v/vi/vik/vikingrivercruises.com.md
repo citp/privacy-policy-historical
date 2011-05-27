@@ -1,6 +1,16 @@
-> *The following text is extracted and transformed from the vikingrivercruises.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120184640id_/http%3A//www.vikingrivercruises.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vikingrivercruises.com privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527074519id_/http%3A//www.vikingrivercruises.com/privacy.aspx) for the most accurate reproduction.*
 
 # Viking River Cruises - Privacy Policy
+
+Debi King  
+
+Travel Dynamics Group
+
+160 Santa Barbara Way
+
+Vista, CA 92083
+
+760-940-0495
 
 ## Privacy Policy
 
