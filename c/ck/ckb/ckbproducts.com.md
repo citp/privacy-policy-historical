@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ckbproducts.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225055512id_/http%3A//www.ckbproducts.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ckbproducts.com privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527215637id_/http%3A//www.ckbproducts.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -36,4 +36,4 @@ During a Secure SSL session, data passed back and forth between your computer an
 Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
 
 **How to Contact Us**   
-Should you have other questions or concerns about these privacy policies, please call us at (214) 951-0488 or send us an email at sales@ckbproducts.com.  Our mailing address is 8212 Chancellor Row, Dallas, Texas 75247
+Should you have other questions or concerns about these privacy policies, please call us at (214) 951-0488 or send us an email at sales@ckbproducts.com.  Our mailing address is 8900 Directors Row, Dallas, Texas 75247
