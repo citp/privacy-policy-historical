@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theworldgeography.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203035826id_/http%3A//www.theworldgeography.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theworldgeography.com privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527094103id_/http%3A//www.theworldgeography.com/p/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy ~ The World Geography
+# THE WORLD GEOGRAPHY: Privacy Policy
 
 **World Geography  **has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site.  
   
@@ -24,5 +24,4 @@ This site contains links to other sites. World Geography is not responsible for 
   
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us.
 
-  
-
+[Read more!](http://www.theworldgeography.com/p/privacy-policy.html)
