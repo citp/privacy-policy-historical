@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the stomping2.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125134320id_/http%3A//www.stomperblog.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stomping2.com privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527090319id_/http%3A//www.stomperblog.com/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy | StomperNet
+# Privacy Policy | Stompernet Blog | Empowering Your Online Success
 
-Browse >
-
-[Home](http://www.stompernet.com/blog "Browse to: Home") / Privacy Policy 
+Since you're new here maybe you'd like to try [StomperNet for $1.00](https://stompernet.infusionsoft.com/saleform/nathnifwu). Thanks for visiting!
 
 StomperNet is committed to protecting your privacy and developing technology  
 that gives you the most powerful and safe online experience. This  
@@ -97,7 +95,7 @@ of StomperNet, or the public.
 **  
 Use of Cookies**
 
-The StomperNet Web site use "cookies" to help you personalize  
+The StomperNet Web site use “cookies” to help you personalize  
 your online experience. A cookie is a text file that is placed on  
 your hard disk by a Web page server. Cookies cannot be used to run  
 programs or deliver viruses to your computer. Cookies are uniquely  
