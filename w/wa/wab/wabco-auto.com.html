@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the wabco-auto.com privacy policy that was archived on 2010-11-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101113120934id_/http%3A//www.wabco-auto.com/footer/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wabco-auto.com privacy policy that was archived on 2011-05-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110527234549id_/http%3A//www.wabco-auto.com/footer/web_privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -12,7 +12,7 @@
 -->
 
 	<base href="http://www.wabco-auto.com/index.php?id=">
-	<link rel="stylesheet" type="text/css" href="typo3temp/stylesheet_024bc3d89e.css">
+	<link rel="stylesheet" type="text/css" href="typo3temp/stylesheet_9f9711b4fc.css">
 	<link rel="stylesheet" type="text/css" href="typo3conf/ext/powermail/css/sampleCSS.css" title="powermail default CSS">
  
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"> 
@@ -29,10 +29,291 @@
 	
 </head><body><input type="hidden" value="0" id="hddLanguage">
 
+					<script>
+		
+//SetCookie(componentList, cookie, 7 );
 
-	<title>Data Protection Policy</title>
+// alert("HI");
+function SetCookie() {
+// alert("SetCookie")
+if(arguments.length < 2) 
+{
+// alert("return"); 
+return; 
+}
+// alert("More than 2 args"); 
+var n = arguments[0];
+// alert ("n =");
+// alert (n);
+var v = arguments[1];
+// alert ("v =");
+// alert (v);
+var d = 0;
+if(arguments.length > 2) { d = parseInt(arguments[2]); }
+var exp = '';
+if(d > 0) {
+	var now = new Date();
+	then = now.getTime() + (d * 24 * 60 * 60 * 1000);
+	now.setTime(then);
+	exp = '; expires=' + now.toGMTString();
+	// alert("exp=");
+      // alert (exp);
+	}
+document.cookie = n + "=" + escape(String(v)) + '; path=/' + exp;
+// alert ("document.cookie =");
+// alert (document.cookie);
+
+} // function SetCookie()
+
+function ReadCookie(n) {
+// alert ("ReadCookie called");
+var cookiecontent = new String();
+if(document.cookie.length > 0) {
+	var cookiename = n+ '=';
+	var cookiebegin = document.cookie.indexOf(cookiename);
+	var cookieend = 0;
+	if(cookiebegin > -1) {
+		cookiebegin += cookiename.length;
+		cookieend = document.cookie.indexOf(";",cookiebegin);
+		if(cookieend < cookiebegin) { cookieend = document.cookie.length; }
+		cookiecontent = document.cookie.substring(cookiebegin,cookieend);
+		}
+	}
+return unescape(cookiecontent);
+} 
+//ReadCookie(componentList);
+
+
+
+// 2/11/2009 : Language code for search
+//alert(document.URL)	;
+szURL = document.URL;
+componentList = szURL.split('/');
+//alert(componentList);
+var languageid = 0;
+var languagetext = 'en';
+var languagedefaulttext = 'Search';
+for(var i =0 ;i< componentList.length ; i++)
+{
+	if(componentList[i] == "de")
+	{	//alert(languageid);
+		languageid = 1;
+languagetext = componentList[i];
+languagedefaulttext = "Suche";
+		//alert(language);
+		//document.getElementById("hddLanguage").value = languageid;
+
+	}
+	if(componentList[i] == "fr")
+	{	//alert(languageid);
+		languageid = 2;
+languagetext = componentList[i];
+languagedefaulttext = "Recherche";
+		//alert(language);
+		//document.getElementById("hddLanguage").value = languageid;
+
+	}
+	if(componentList[i] == "nl")
+	{	//alert(languageid);
+		languageid = 3;
+languagetext = componentList[i];
+languagedefaulttext = "Zoek";
+		//alert(language);
+		//document.getElementById("hddLanguage").value = languageid;
+
+	}
+	if(componentList[i] == "it")
+	{	//alert(languageid);
+		languageid = 4;
+languagetext = componentList[i];
+languagedefaulttext = "Ricerca";
+		//alert(language);
+		//document.getElementById("hddLanguage").value = languageid;
+
+	}
+	if(componentList[i] == "es")
+	{	//alert(languageid);
+		languageid = 5;
+languagetext = componentList[i];
+languagedefaulttext = "Búsqueda";
+		//alert(language);
+		//document.getElementById("hddLanguage").value = languageid;
+
+	}
+	if(componentList[i] == "pt")
+	{	//alert(languageid);
+		languageid = 6;
+languagetext = componentList[i];
+languagedefaulttext = "Pesquisa";
+		//alert(language);
+		//document.getElementById("hddLanguage").value = languageid;
+
+	}	
+	if(componentList[i] == "pl")
+	{	//alert(languageid);
+		languageid = 7;
+languagetext = componentList[i];
+languagedefaulttext = "Szukaj";
+		//alert(language);
+		//document.getElementById("hddLanguage").value = languageid;
+
+	}
+	if(componentList[i] == "ru")
+	{	//alert(languageid);
+		languageid = 8;
+languagetext = componentList[i];
+languagedefaulttext = "Поиск";
+		//alert(language);
+		//document.getElementById("hddLanguage").value = languageid;
+
+	}
+	if(componentList[i] == "cn")
+	{	//alert(languageid);
+		languageid = 9;
+languagetext = componentList[i];
+languagedefaulttext = "关键词";
+		//alert(language);
+		//document.getElementById("hddLanguage").value = languageid;
+
+	}
+
+if(componentList[i] == "at")
+	{	//alert(languageid);
+		languageid = 100;
+languagetext = componentList[i];
+languagedefaulttext = "Search";  //To be changed accroding to the translation
+		//alert(language);
+		//document.getElementById("hddLanguage").value = languageid;
+
+	}
+if(componentList[i] == "be")
+	{	//alert(languageid);
+		languageid = 101;
+languagetext = componentList[i];
+languagedefaulttext = "Search";  //To be changed accroding to the translation
+		//alert(language);
+		//document.getElementById("hddLanguage").value = languageid;
+
+	}
+if(componentList[i] == "br")
+	{	//alert(languageid);
+		languageid = 102;
+languagetext = componentList[i];
+languagedefaulttext = "Search";  //To be changed accroding to the translation
+		//alert(language);
+		//document.getElementById("hddLanguage").value = languageid;
+
+	}
+if(componentList[i] == "jp")
+	{	//alert(languageid);
+		languageid = 103;
+languagetext = componentList[i];
+languagedefaulttext = "Search";  //To be changed accroding to the translation
+		//alert(language);
+		//document.getElementById("hddLanguage").value = languageid;
+
+	}
+if(componentList[i] == "kr")
+	{	//alert(languageid);
+		languageid = 104;
+languagetext = componentList[i];
+languagedefaulttext = "Search";  //To be changed accroding to the translation
+		//alert(language);
+		//document.getElementById("hddLanguage").value = languageid;
+
+	}
+if(componentList[i] == "ch")
+	{	//alert(languageid);
+		languageid = 105
+languagetext = componentList[i];
+languagedefaulttext = "Search";  //To be changed accroding to the translation
+		//alert(language);
+		//document.getElementById("hddLanguage").value = languageid;
+
+	}
+if(componentList[i] == "tr")
+	{	//alert(languageid);
+		languageid = 106
+languagetext = componentList[i];
+languagedefaulttext = "Search";  //To be changed accroding to the translation
+		//alert(language);
+		//document.getElementById("hddLanguage").value = languageid;
+
+	}
+
+
+				
+}
+//alert("succ");
+
+					//read the L variable from the url
+					var regexS = "[\\?&]"+"L"+"=([^&#]*)";
+					var regex = new RegExp(regexS);
+					var results = regex.exec(window.location.href);
+					var path = "";
+					var rssPath = "";
+					var pathPR="";
+					if(results==null)//set the path to default language
+					{
+						path="/index.php?id=37&L="+languageid;
+						pathPR="/index.php?id=20&L="+languageid;
+						rssPath="/index.php?id=127&L="+languageid;
+					}
+					else// set the path to selected language
+					{//alert("succ");
+						path="/index.php?id=37&L="+results[1];
+						pathPR="/index.php?id=20&L="+results[1];
+						rssPath="/index.php?id=127&L="+results[1];
+						languageid = results[1];
+					}					
+
+					function ClearTextBox() 
+					{ var al='###SEARCH_LABEL###';
+					//alert(al);
+					if(document.getElementById('txtSearch').value==languagedefaulttext)
+						{							
+							document.getElementById('txtSearch').value="";
+							
+						}	
+						
+					}
+					
+					function WriteTextBox()
+					{var al='###SEARCH_LABEL###';
+		
+						if(document.getElementById('txtSearch').value=="")
+						{
+							document.getElementById('txtSearch').value= languagedefaulttext;
+							//alert(languageid);
+						}
+						
+					}
+//alert(languagedefaulttext);
+//alert(languagetext);		
+//alert("SetCookieToBeCalled");	
+//var sitepart1 = "/WABCO/"; //Not used on Production server
+var sitepart1 = "/"; //Only for  Production server
+var sitepart3 = "/service/search?words=";
+var siteurl = sitepart1+languagetext+sitepart3; //Not used on Production server
+//alert(sitepart1+languagetext+sitepart3);
+				</script>
+
+<script>
+				function searchenter(){
+if(event.keyCode=='13'){
+var sitepart1 = '/';
+var sitepart3 = '/service/search?words=';
+var siteurl = sitepart1+languagetext+sitepart3;
+//alert(siteurl);
+var txtSearch=document.getElementById('txtSearch').value;window.location=siteurl+txtSearch;
+}
+}
+				</script>
+
+
+	<title>Web Privacy Policy</title>
 	<meta name="generator" content="TYPO3 4.2 CMS">
-	<meta name="keywords" content="WABCO, private policy, data protection">
+	<meta name="keywords" content="WABCO, private policy">
 	<meta name="description" content="WABCO Europe BVBA (&quot;WABCO&quot;) respects individual privacy and values the confidence of its customers, employees, vendors, consumers, business partners and others.">
 	<script type="text/javascript" src="typo3temp/javascript_93077bb238.js"></script>
 
@@ -55,8 +336,8 @@
 					<table align="right" border="0" cellspacing="0" cellpadding="0"> 
 					  <tbody><tr> 
 						<td id="colBorder">
-	<!--  CONTENT ELEMENT, uid:3522/sr_language_menu_pi1 [begin] -->
-		<a id="c3522"></a>
+	<!--  CONTENT ELEMENT, uid:8737/sr_language_menu_pi1 [begin] -->
+		<a id="c8737"></a>
 
 
 	<!--
@@ -67,25 +348,25 @@
 	<div class="tx-srlanguagemenu-pi1">
 		
 		
-				<div class="CUR"><img src="typo3/gfx/content_client.gif" alt="" style="width:7px; height:10px;"><a href="en/footer/data_protection_policy"><img src="typo3conf/ext/sr_language_menu/flags/en.gif" title="English" alt="English" class="tx-srlanguagemenu-pi1-flag"></a></div> 
+				<div class="CUR"><img src="typo3/gfx/content_client.gif" alt="" style="width:7px; height:10px;"><a href="en/footer/web_privacy_policy"><img src="typo3conf/ext/sr_language_menu/flags/en.gif" title="English" alt="English" class="tx-srlanguagemenu-pi1-flag"></a></div> 
 			
-				  <div class="NO"><a href="cn/footer"><img src="typo3conf/ext/sr_language_menu/flags/zh_CN.gif" title="Chinese" alt="Chinese" class="tx-srlanguagemenu-pi1-flag"></a></div> 
+				  <div class="NO"><a href="cn/footer/web_privacy_policy"><img src="typo3conf/ext/sr_language_menu/flags/zh_CN.gif" title="Chinese" alt="Chinese" class="tx-srlanguagemenu-pi1-flag"></a></div> 
 			
 				  <div class="NO"><a href="nl/footer/privacybeleid"><img src="typo3conf/ext/sr_language_menu/flags/nl.gif" title="Nederlands" alt="Nederlands" class="tx-srlanguagemenu-pi1-flag"></a></div> 
 			
-				  <div class="NO"><a href="fr/footer/charte-legale"><img src="typo3conf/ext/sr_language_menu/flags/fr.gif" title="Français" alt="Français" class="tx-srlanguagemenu-pi1-flag"></a></div> 
+				  <div class="NO"><a href="fr/footer/mentions_legales"><img src="typo3conf/ext/sr_language_menu/flags/fr.gif" title="Français" alt="Français" class="tx-srlanguagemenu-pi1-flag"></a></div> 
 			
-				  <div class="NO"><a href="de/footer/haftungsausschluss"><img src="typo3conf/ext/sr_language_menu/flags/de.gif" title="Deutsch" alt="Deutsch" class="tx-srlanguagemenu-pi1-flag"></a></div> 
+				  <div class="NO"><a href="de/footer/datenschutzerklaerung"><img src="typo3conf/ext/sr_language_menu/flags/de.gif" title="Deutsch" alt="Deutsch" class="tx-srlanguagemenu-pi1-flag"></a></div> 
 			
-				  <div class="NO"><a href="it/footer/politica-sulla-privacy"><img src="typo3conf/ext/sr_language_menu/flags/it.gif" title="Italiano" alt="Italiano" class="tx-srlanguagemenu-pi1-flag"></a></div> 
+				  <div class="NO"><a href="it/footer/politica_sulla_privacy"><img src="typo3conf/ext/sr_language_menu/flags/it.gif" title="Italiano" alt="Italiano" class="tx-srlanguagemenu-pi1-flag"></a></div> 
 			
-				  <div class="NO"><a href="pl/footer/ochrona-prywatnosci"><img src="typo3conf/ext/sr_language_menu/flags/pl.gif" title="Polski" alt="Polski" class="tx-srlanguagemenu-pi1-flag"></a></div> 
+				  <div class="NO"><a href="pl/footer/ochrona_prywatnosci"><img src="typo3conf/ext/sr_language_menu/flags/pl.gif" title="Polski" alt="Polski" class="tx-srlanguagemenu-pi1-flag"></a></div> 
 			
-				  <div class="NO"><a href="pt/footer/politica-de-privacidade"><img src="typo3conf/ext/sr_language_menu/flags/pt.gif" title="Português" alt="Português" class="tx-srlanguagemenu-pi1-flag"></a></div> 
+				  <div class="NO"><a href="pt/footer/politica_de_privacidade"><img src="typo3conf/ext/sr_language_menu/flags/pt.gif" title="Português" alt="Português" class="tx-srlanguagemenu-pi1-flag"></a></div> 
 			
-				  <div class="NO"><a href="ru/footer/perepechatyvanii"><img src="typo3conf/ext/sr_language_menu/flags/ru.gif" title="русский язык" alt="русский язык" class="tx-srlanguagemenu-pi1-flag"></a></div> 
+				  <div class="NO"><a href="ru/footer/webperepechatyvanii"><img src="typo3conf/ext/sr_language_menu/flags/ru.gif" title="русский язык" alt="русский язык" class="tx-srlanguagemenu-pi1-flag"></a></div> 
 			
-				  <div class="NO"><a href="es/footer/politica-de-privacidad"><img src="typo3conf/ext/sr_language_menu/flags/es.gif" title="Español" alt="Español" class="tx-srlanguagemenu-pi1-flag"></a></div> 
+				  <div class="NO"><a href="es/footer/politica_de_privacidad"><img src="typo3conf/ext/sr_language_menu/flags/es.gif" title="Español" alt="Español" class="tx-srlanguagemenu-pi1-flag"></a></div> 
 			
 	
 	</div>
@@ -93,7 +374,7 @@
 	<!-- END: Content of extension "sr_language_menu", plugin "tx_srlanguagemenu_pi1" -->
 
 	
-	<!--  CONTENT ELEMENT, uid:3522/sr_language_menu_pi1 [end] -->
+	<!--  CONTENT ELEMENT, uid:8737/sr_language_menu_pi1 [end] -->
 		</td> 
 						<td><img src="fileadmin/templates/main/images/new/flagContainerRight.gif" border="0"></td> 
 					  </tr> 
@@ -117,7 +398,7 @@
 <td align="left">
       WBC 
 
-						<b style="color: red;">$47.79&nbsp;&nbsp;-1.42 &nbsp;&nbsp;</b> 
+						<b style="color: green;">$68.70&nbsp;&nbsp;+ 0.26 &nbsp;&nbsp;</b> 
 					</td>
 					
 				</tr>
@@ -131,9 +412,9 @@
 	</td> 
 						
 <td style="white-space:nowrap">
-<!--<input name="search" type="text" value="Search" class="searchInputField" id="txtSearch" onBlur="WriteTextBox()" onClick="ClearTextBox()"/><img src="fileadmin/templates/main/images/new/searchIcon.gif" border="0" style="margin:0px; vertical-align:bottom" onclick="var txtSearch=document.getElementById('txtSearch').value;
-window.location=siteurl+txtSearch;" onMouseOver="style.cursor='hand'" />--></td> 
-						<td><img src="fileadmin/templates/main/images/new/rss.jpg" border="0" style="margin:0; padding:0" onclick="window.open(rssPath,'_self')" onmouseover="style.cursor='hand'"></td>
+<input name="search" type="text" value="Search" class="searchInputField" id="txtSearch" onblur="WriteTextBox()" onclick="ClearTextBox()" onkeypress="searchenter();"><img src="fileadmin/templates/main/images/new/searchIcon.gif" border="0" style="margin:0px; vertical-align:bottom; cursor:pointer" onclick="var txtSearch=document.getElementById('txtSearch').value;
+window.location=siteurl+txtSearch;"></td> 
+						<td><img src="fileadmin/templates/main/images/new/rss.jpg" border="0" style="margin:0; padding:0; cursor:pointer" onclick="window.open(rssPath,'_self')"></td>
  
 					  </tr> 
 					</tbody></table> 
@@ -144,9 +425,8 @@ window.location=siteurl+txtSearch;" onMouseOver="style.cursor='hand'" />--></td>
 	<div id="menu"><!--###menu### begin -->
 			<div style="display:inline; float:left"> 
 			<table id="menuTable" border="0" cellpadding="0" cellspacing="0"> 
-					<tbody><tr id="menu_2"><td><ul id="yacbddm" class="topmenul1"><li><a href="nc/wabco_a_global_technology_leader_in_commercial_vehicles_wabco" title="Home" class="firstlevellink">HOME</a></li><li><a href="aboutus/who_we_are_wabco" title="About Us" class="firstlevellink topmenul1-ifsub">ABOUT US</a><ul class="topmenul2"><li><a href="aboutus/who_we_are_wabco" title="Who we are">Who we are</a></li><li><a href="cv" class="topmenul2-ifsub">Customer Value</a></li><li><a href="about_us/corporate_presentation" title="Corporate Presentation">Corporate Presentation</a></li><li><a href="about-us/senior-management" title="Senior Management">Senior Management</a></li><li><a href="about-us/board-of-directors" title="Board of Directors">Board of Directors</a></li><li><a href="about_us/suppliers_information_wabco" title="Suppliers Information" class="topmenul2-ifsub">Suppliers Information</a></li><li><a href="nc/about_us/awards_wabco" title="Awards" class="topmenul2-ifsub">Awards</a></li><li><a href="about_us/historical_milestones_wabco" title="Historical Milestones">Historical Milestones</a></li><li><a href="about_us/technology_milestones_wabco" title="Technology Milestones">Technology Milestones</a></li><li><a href="about_us/test_tracks_wabco" title="Test Tracks" class="topmenul2-ifsub">Test Tracks</a></li><li><a href="about_us/policies_practices/values_wabco" title="Values">Values</a></li><li><a href="about-us/policies-practices/piracy-and-counterfeiting-wabco" title="Piracy and Counterfeiting">Piracy and Counterfeiting</a></li><li><a href="about_us/policies_practices/six_sigma_lean_wabco" title="Six Sigma Lean">Six Sigma Lean</a></li><li><a href="about_us/policies_practices/racing_sponsorships_wabco" title="Racing Sponsorships">Racing Sponsorships</a></li><li><a href="about-us/policies-practices/product-safety-wabco" title="Product Safety">Product Safety</a></li><li><a href="about-us/policies-practices/environment-regulation-wabco" title="Environment Regulation">Environment Regulation</a></li><li><a href="about_us/trade_association_membership_wabco" title="Trade Association Membership">Trade Association Membership</a></li><li><a href="about_us/tradeshows_events_wabco" title="Tradeshows &amp; Events">Tradeshows &amp; Events</a></li></ul></li><li><a href="investor-relations" title="Investor Relations" class="firstlevellink">INVESTOR RELATIONS</a></li><li><a href="nc/products_wabco" title="Products" class="firstlevellink topmenul1-ifsub">PRODUCTS</a><ul class="topmenul2"><li><a href="products_wabco/air-management/air-system-protector-plus" title="Air Management" class="topmenul2-ifsub">Air Management</a></li><li><a href="products_wabco/actuators_foundation_brakes/air_disc_brake_pan" title="Actuators &amp; Foundation Brakes" class="topmenul2-ifsub">Actuators &amp; Foundation Brakes</a></li><li><a href="products_wabco/brake_stablity_control/anti_lock_braking_system_anti_spin_regulation_absasr" title="Brake &amp; Stablity Control" class="topmenul2-ifsub">Brake &amp; Stablity Control</a></li><li><a href="intelligenttrailer" class="topmenul2-ifsub">Intelligent Trailer Program</a></li><li><a href="products_wabco/car-systems" title="Car Systems" class="topmenul2-ifsub">Car Systems</a></li><li><a href="service_support/wabco_diagnostic_services_for_commercial_vehicles_wabco" title="Diagnostic Systems" class="topmenul2-ifsub">Diagnostic Systems</a></li><li><a href="products_wabco/driveline_controls/clutch_control" title="Driveline Control" class="topmenul2-ifsub">Driveline Controls</a></li><li><a href="products_wabco/advanced_driver_assistance_systems" title="Advanced Driver Assistance Systems" class="topmenul2-ifsub">Advanced Driver Assistance Systems</a></li><li><a href="products_wabco/suspension-control/air-spring" title="Suspension Control" class="topmenul2-ifsub">Suspension Control</a></li><li><a href="products_wabco/vehicle_electronic_systems/automatic_temperature_control_atc" title="Vehicle Electronic Systems" class="topmenul2-ifsub">Vehicle Electronic Systems</a></li><li><a href="products_wabco/vehicle-accessories/tire-premium-seal" title="Vehicle Accessories" class="topmenul2-ifsub">Vehicle Accessories</a></li><li><a href="service_support/wabco_university" title="WABCO University">WABCO University</a></li></ul></li><li><a href="service_support" title="Service &amp; Support" class="firstlevellink topmenul1-ifsub">SERVICE &amp; SUPPORT</a><ul class="topmenul2"><li><a href="webshop" target="_blank" title="Webshop">Webshop</a></li><li><a href="service_support/inform" target="_self" title="INFORM">INFORM</a></li><li><a href="service_support/wabco_diagnostic_services_for_commercial_vehicles_wabco" title="Diagnostic Services" class="topmenul2-ifsub">Diagnostic Services</a></li><li><a href="service_support/wabco_university" title="WABCO University" class="topmenul2-ifsub">WABCO University</a></li><li><a href="service_support/documentation" title="Documentation">Documentation</a></li><li><a href="service_support/download_center_wabco" title="Download Center">Download Center</a></li><li><a href="equality">Customer Quality</a></li><li><a href="service_support/trailer_service_online" title="Trailer Service Online">Trailer Service Online</a></li><li><a href="trailer_telematics/trailer_telematics" title="Trailer Telematics">TrailerGUARD™</a></li><li><a href="reman/home">WABCO Reman Solutions</a></li></ul></li><li><a href="media_center_wabco" title="Media Center" class="firstlevellink topmenul1-ifsub">MEDIA CENTER</a><ul class="topmenul2"><li><a href="media_center_wabco/press_releases_wabco" title="Press Releases">Press Releases</a></li><li><a href="media_center_wabco/press_kit_wabco" title="Press Kit">Press Kit</a></li><li><a href="media_center_wabco/register_for_press_releases_wabco" title="Register">Register</a></li><li><a href="media_center_wabco/newsletters/aftermarket_spring_2008_wabco" title="Newsletters">Newsletters</a></li><li><a href="media_center_wabco/image_gallery_wabco" title="Image Gallery">Image Gallery</a></li><li><a href="media_center_wabco/videos_wabco" title="Videos">Videos</a></li><li><a href="media_center_wabco/media_contacts_wabco" title="Media Contacts">Media Contacts</a></li></ul></li><li><a href="careers" title="Careers" class="firstlevellink topmenul1-ifsub">CAREERS</a><ul class="topmenul2"><li><a href="careers/global_opportunities" title="Global Opportunities">Global Opportunities</a></li><li><a href="careers/uk" title="UK">UK</a></li><li><a href="careers/usa" title="USA">USA</a></li></ul></li><li><a href="findwabco" title="Contact Us" class="firstlevellink topmenul1-ifsub">CONTACT US</a><ul class="topmenul2"><li><a href="findwabco" title="Advanced Location Finder">Advanced Location Finder</a></li><li><a href="contact_us/headquarters_wabco" title="Headquarters">Headquarters</a></li><li><a href="contact_us/joint_ventures_wabco" title="Joint Ventures">Joint Ventures</a></li><li><a href="contact_us/production_facilities_wabco" title="Production Facilities">Production Facilities</a></li><li><a href="contact_us/training_centers_wabco" title="Training Centers">Training Centers</a></li><li><a href="contact_us/service_direct_contacts" title="Service Direct Contacts">Service Direct Contacts</a></li><li><a href="about_us/suppliers_information_wabco" title="Suppliers Information">Suppliers Information</a></li><li><a href="contact_us/us_sales_service_contacts" title="US Sales &amp; Service Contacts">US Sales &amp; Service Contacts</a></li><li><a href="local">WABCO Offices</a></li></ul></li></ul></td>   <script src="fileadmin/templates/scripts/yacbddm.js" type="text/javascript"></script>
-   <script type="text/javascript">activateMenu('yacbddm')</script>
-</tr> 
+					<tbody><tr id="menu_2"><td><ul id="yacbddm" class="topmenul1"><li><a href="nc/wabco_a_global_technology_leader_in_commercial_vehicles_wabco" title="Home" class="firstlevellink">HOME</a></li><li><a href="aboutus/who_we_are_wabco" title="About Us" class="firstlevellink topmenul1-ifsub">ABOUT US</a><ul class="topmenul2"><li><a href="aboutus/who_we_are_wabco" title="Who we are">Who we are</a></li><li><a href="cv" class="topmenul2-ifsub">Customer Value</a></li><li><a href="about_us/corporate_presentation" title="Corporate Presentation">Corporate Presentation</a></li><li><a href="about-us/senior-management" title="Senior Management">Senior Management</a></li><li><a href="about-us/board-of-directors" title="Board of Directors">Board of Directors</a></li><li><a href="about_us/suppliers_information_wabco" title="Suppliers Information" class="topmenul2-ifsub">Suppliers Information</a></li><li><a href="nc/about_us/awards_wabco" title="Awards" class="topmenul2-ifsub">Awards</a></li><li><a href="about_us/historical_milestones_wabco" title="Historical Milestones">Historical Milestones</a></li><li><a href="about_us/technology_milestones_wabco" title="Technology Milestones">Technology Milestones</a></li><li><a href="about_us/test_tracks_wabco" title="Test Tracks" class="topmenul2-ifsub">Test Tracks</a></li><li><a href="about-us/policies-practices/piracy-and-counterfeiting-wabco" title="Piracy and Counterfeiting">Piracy and Counterfeiting</a></li><li><a href="about_us/policies_practices/six_sigma_lean_wabco" title="Six Sigma Lean">Six Sigma Lean</a></li><li><a href="about_us/policies_practices/racing_sponsorships_wabco" title="Racing Sponsorships">Racing Sponsorships</a></li><li><a href="about-us/policies-practices/product-safety-wabco" title="Product Safety">Product Safety</a></li><li><a href="about-us/policies-practices/environment-regulation-wabco" title="Environment Regulation">Environment Regulation</a></li><li><a href="about_us/trade_association_membership_wabco" title="Trade Association Membership">Trade Association Membership</a></li><li><a href="about_us/tradeshows_events_wabco" title="Tradeshows &amp; Events">Tradeshows &amp; Events</a></li></ul></li><li><a href="investor-relations" title="Investor Relations" class="firstlevellink">INVESTOR RELATIONS</a></li><li><a href="nc/products_wabco" title="Products" class="firstlevellink topmenul1-ifsub">PRODUCTS</a><ul class="topmenul2"><li><a href="products_wabco/air-management/air-system-protector-plus" title="Air Management" class="topmenul2-ifsub">Air Management</a></li><li><a href="products_wabco/actuators_foundation_brakes/air_disc_brake_pan" title="Actuators &amp; Foundation Brakes" class="topmenul2-ifsub">Actuators &amp; Foundation Brakes</a></li><li><a href="products_wabco/brake_stablity_control/anti_lock_braking_system_anti_spin_regulation_absasr" title="Brake &amp; Stablity Control" class="topmenul2-ifsub">Brake &amp; Stablity Control</a></li><li><a href="intelligenttrailer" class="topmenul2-ifsub">Intelligent Trailer Program</a></li><li><a href="products_wabco/car-systems" title="Car Systems" class="topmenul2-ifsub">Car Systems</a></li><li><a href="service_support/wabco_diagnostic_services_for_commercial_vehicles_wabco" title="Diagnostic Systems" class="topmenul2-ifsub">Diagnostic Systems</a></li><li><a href="products_wabco/driveline_controls/clutch_control" title="Driveline Control" class="topmenul2-ifsub">Driveline Controls</a></li><li><a href="products_wabco/advanced_driver_assistance_systems" title="Advanced Driver Assistance Systems" class="topmenul2-ifsub">Advanced Driver Assistance Systems</a></li><li><a href="trc" title="Driver Assistance Systems" class="topmenul2-ifsub">Driver Assistance Systems</a></li><li><a href="products_wabco/suspension-control/air-spring" title="Suspension Control" class="topmenul2-ifsub">Suspension Control</a></li><li><a href="products_wabco/vehicle_electronic_systems/automatic_temperature_control_atc" title="Vehicle Electronic Systems" class="topmenul2-ifsub">Vehicle Electronic Systems</a></li><li><a href="products_wabco/vehicle-accessories/colored-brake-tubes" title="Vehicle Accessories" class="topmenul2-ifsub">Vehicle Accessories</a></li><li><a href="service_support/wabco_university" title="WABCO University">WABCO University</a></li></ul></li><li><a href="service_support" title="Service &amp; Support" class="firstlevellink topmenul1-ifsub">SERVICE &amp; SUPPORT</a><ul class="topmenul2"><li><a href="webshop" target="_blank" title="Webshop">Webshop</a></li><li><a href="service_support/inform" target="_self" title="INFORM">INFORM</a></li><li><a href="service_support/wabco_diagnostic_services_for_commercial_vehicles_wabco" title="Diagnostic Services" class="topmenul2-ifsub">Diagnostic Services</a></li><li><a href="servicepartner/wabcoservicepartnernetwork">Service Partner Network</a></li><li><a href="service_support/wabco_university" title="WABCO University" class="topmenul2-ifsub">WABCO University</a></li><li><a href="service_support/documentation" title="Documentation">Documentation</a></li><li><a href="service_support/download_center_wabco" title="Download Center">Download Center</a></li><li><a href="equality">Customer Quality</a></li><li><a href="service_support/trailer_service_online" title="Trailer Service Online">Trailer Service Online</a></li><li><a href="trailer_telematics/trailer_telematics" title="Trailer Telematics">TrailerGUARD™</a></li><li><a href="reman/home">WABCO Reman Solutions</a></li></ul></li><li><a href="media_center_wabco" title="Media Center" class="firstlevellink topmenul1-ifsub">MEDIA CENTER</a><ul class="topmenul2"><li><a href="media_center_wabco/press_releases_wabco" title="Press Releases">Press Releases</a></li><li><a href="media_center_wabco/press_kit_wabco" title="Press Kit">Press Kit</a></li><li><a href="media_center_wabco/register_for_press_releases_wabco" title="Register">Register</a></li><li><a href="media_center_wabco/image_gallery_wabco" title="Image Gallery">Image Gallery</a></li><li><a href="media_center_wabco/videos_wabco" title="Videos">Videos</a></li><li><a href="media_center_wabco/media_contacts_wabco" title="Media Contacts">Media Contacts</a></li></ul></li><li><a href="careers" title="Careers" class="firstlevellink topmenul1-ifsub">CAREERS</a><ul class="topmenul2"><li><a href="careers/global_opportunities" title="Global Opportunities">Global Opportunities</a></li><li><a href="careers/headquarters" title="Headquarters">Headquarters</a></li><li><a href="careers/uk" title="UK">UK</a></li><li><a href="careers/usa" title="USA">USA</a></li></ul></li><li><a href="worldwide/advanced_location_finder_wabco" title="Contact Us" class="firstlevellink topmenul1-ifsub">CONTACT US</a><ul class="topmenul2"><li><a href="worldwide/advanced_location_finder_wabco" title="Advanced Location Finder">Advanced Location Finder</a></li><li><a href="contact_us/headquarters_wabco" title="Headquarters">Headquarters</a></li><li><a href="contact_us/joint_ventures_wabco" title="Joint Ventures">Joint Ventures</a></li><li><a href="contact_us/production_facilities_wabco" title="Production Facilities">Production Facilities</a></li><li><a href="contact_us/training_centers_wabco" title="Training Centers">Training Centers</a></li><li><a href="contact_us/service_direct_contacts" title="Service Direct Contacts">Service Direct Contacts</a></li><li><a href="about_us/suppliers_information_wabco" title="Suppliers Information">Suppliers Information</a></li><li><a href="contact_us/us_sales_service_contacts" title="US Sales &amp; Service Contacts">US Sales &amp; Service Contacts</a></li><li><a href="local">WABCO Offices</a></li></ul></li></ul></td>   <script src="fileadmin/templates/scripts/yacbddm.js" type="text/javascript"></script>
+   <script type="text/javascript">activateMenu('yacbddm')</script></tr> 
 			</tbody></table>
 			</div>
 			<table id="contactMapContainer">
@@ -159,7 +439,7 @@ window.location=siteurl+txtSearch;" onMouseOver="style.cursor='hand'" />--></td>
 			<table border="0" cellpadding="0" cellspacing="0" width="100%"> 
 			<tbody><tr><td id="menu_1"></td></tr>
 			<tr><td id="menu_1_bottom"></td></tr>
-			<tr><td id="footer_leftmenu"><div class="menu4-level2-no"><a href="footer/sitemap" title="Sitemap" onfocus="blurLink(this);">Sitemap</a></div><div class="menu4-level2-no"><a href="footer/legal-entity" title="Legal Entity" onfocus="blurLink(this);">Legal Entity</a></div><div class="menu1-level2-act"><a href="footer/data_protection_policy" onfocus="blurLink(this);">Data Protection Policy</a></div><div class="menu4-level2-no"><a href="footer/disclaimer" onfocus="blurLink(this);">Disclaimer</a></div><div class="menu4-level2-no"><a href="footer/copyrightterms-of-use" onfocus="blurLink(this);">Copyright/Terms of Use</a></div><div class="menu4-level2-no"><a href="footer/web_privacy_policy" title="Web Privacy Policy" onfocus="blurLink(this);">Web Privacy Policy</a></div></td></tr>		
+			<tr><td id="footer_leftmenu"><div class="menu4-level2-no"><a href="footer/sitemap" title="Sitemap" onfocus="blurLink(this);">Sitemap</a></div><div class="menu4-level2-no"><a href="footer/legal-entity" title="Legal Entity" onfocus="blurLink(this);">Legal Entity</a></div><div class="menu4-level2-no"><a href="footer/data_protection_policy" title="Data Protection Policy" onfocus="blurLink(this);">Data Protection Policy</a></div><div class="menu4-level2-no"><a href="footer/disclaimer" onfocus="blurLink(this);">Disclaimer</a></div><div class="menu4-level2-no"><a href="footer/copyrightterms-of-use" onfocus="blurLink(this);">Copyright/Terms of Use</a></div><div class="menu1-level2-act"><a href="footer/web_privacy_policy" onfocus="blurLink(this);">Web Privacy Policy</a></div></td></tr>		
 			</tbody></table>			 
 			<!--###leftcontainer### end --></td> 
 			<td valign="top" width="100%"> 
@@ -167,75 +447,67 @@ window.location=siteurl+txtSearch;" onMouseOver="style.cursor='hand'" />--></td>
 	
 	<table id="innercontentarea" border="0" width="100%"><tbody><tr>
         <td width="100%"><div id="colNormal">
-	<!--  CONTENT ELEMENT, uid:3353/text [begin] -->
-		<a id="c3353"></a>
+	<!--  CONTENT ELEMENT, uid:8727/text [begin] -->
+		<a id="c8727"></a>
 		<!--  Header: [begin] -->
-			<div class="csc-header csc-header-n1"><h1 class="csc-firstHeader">DATA PROTECTION POLICY</h1></div>
+			<div class="csc-header csc-header-n1"><h1 class="csc-firstHeader">WABCO'S WEB PRIVACY POLICY</h1></div>
 		<!--  Header: [end] -->
 			
 		<!--  Text: [begin] -->
-			<p>WABCO Holdings Inc., together with its affiliates, ("WABCO") respects individual privacy and values the confidence of its customers, employees, vendors, consumers, business partners and others. WABCO collects, uses and discloses personal information in a manner consistent with the laws of the countries in which it does business, and has a tradition of upholding the highest ethical standards in its business practices.
+			<p>WABCO Holdings Inc., together with its affiliates ("WABCO") is committed to protecting the privacy of our website users in accordance with applicable law. &nbsp;
 </p>
-<p>WABCO&nbsp;has an Ethics Committee which (together with other designated people within WABCO) assists in ensuring compliance with this Policy and data security issues. WABCO educates its employees concerning compliance with this Policy and has self-assessment procedures in place to assure compliance. The members of WABCO's&nbsp;Legal Team, together with the designated data protection officer(s) where relevant, are available to any of its valued employees, customers, vendors, business partners or others who may have questions concerning this Policy or data security practices. Relevant contact information is provided herein.
+<p><strong>I. SCOPE</strong>
 </p>
-<p><strong>II. SCOPE</strong>
+<p>This Policy applies to all Personal Information (as defined below) received by WABCO in any format. WABCO sees the Internet and the use of other technologies as valuable tools for communicating and interacting with consumers, vendors, business partners and others. WABCO recognizes the importance of maintaining the privacy of Personal Information collected through websites that it operates. WABCO's sole purpose for operating its websites is to provide Information concerning products and services to the public. In general, visitors can access and use the WABCO websites without revealing any Personal Information. Visitors may elect to voluntarily provide Personal Information via WABCO&nbsp;websites but are not required to do so.
 </p>
-<p>This Policy applies to all Personal information received by WABCO in any format including electronic, paper or verbal. WABCO collects and processes Personal information concerning current and former employees and their respective family members, as well as applicants for employment through its Internet websites, its intranet site, electronic mail and manually. WABCO will not make available or share this information with third parties in ways different than what is disclosed in this Privacy Policy. On a global basis, WABCO will, and will cause its affiliates to, establish and maintain business procedures and data processes that are consistent with this Policy.
+<p>WABCO collects information from visitors to the websites who voluntarily provide Personal Information by filling out and submitting online questionnaires concerning feedback on the website, requesting Information on products or services, or seeking employment. The Personal Information voluntarily provided by website users is contact information limited to the user's name, home and/or business address, phone numbers and email address. WABCO collects this information so it may answer questions and forward requested Information. WABCO does not sell or share this Information with non Agent third parties.
 </p>
-<p>Personal information collected by WABCO from employees, applicants for employment, prospective customers, consumers, vendors, business partners and others may be maintained at its offices in Brussels, Belgium or at other WABCO facilities. WABCO collects Personal information for, among other things, legitimate business reasons such as customer service; product, warranty and claims administration; meeting governmental reporting and records requirements; maintenance of accurate accounts payable and receivable records; internal marketing research; safety and performance management; financial and sales data; contact information; legitimate human resource business reasons such as payroll administration; filling employment positions; administration and operations of its benefit programs; meeting governmental reporting requirements; security, health and safety management; performance management; company network access; and authentication. WABCO does not request or gather information regarding political opinions, religion, philosophy or sexual preference. To the extent WABCO maintains information on an individual's medical health or ethnicity (as legally required), WABCO will protect, secure and use that information in a manner consistent with this Policy and applicable law. All Personal information collected by WABCO will be used for legitimate business purposes consistent with this Policy.
+<p>WABCO may also collect anonymous information concerning website users through the use of "cookies" in order to provide better customer service. "Cookies" are small files that websites place on users' computers to identify the user and enhance the website experience. None of this Information is reviewed at an individual level. Visitors may set their browsers to provide notice before they receive a cookie, giving the opportunity to decide whether to accept the cookie. Visitors can also set their browsers to turn off cookies. If visitors do so, however, some areas of WABCO websites may not function properly.
 </p>
-<p><strong>III. DEFINITIONS</strong>
+<p>WABCO website users have the option to request that WABCO not use Information previously provided, correct information previously provided, or remove information previously provided to WABCO. Those that would like to correct or suppress information they have provided to WABCO should forward such inquiries to: [<em>insert email address</em>]. The inquiries should include the individual's name, address, and other relevant contact information (phone number, email address). WABCO will use all reasonable efforts to honor such requests as quickly as possible.
+</p>
+<p>WABCO websites may contain links to other "non-WABCO" websites. WABCO assumes no responsibility for the content or the privacy policies and practices on those websites. WABCO encourages all users to read the privacy statements of those sites; their privacy practices may differ from those of WABCO.
+</p>
+<p><strong>II. DEFINITIONS</strong>
 </p>
 <p>For purposes of this Policy, the following definitions shall apply:
 </p>
-<p>"Agent" means any third party or WABCO affiliate that uses Personal information provided by WABCO to perform tasks on behalf of or at the instruction of WABCO.
+<p>"Agent" means any third party or WABCO affiliate that uses Personal Information provided by WABCO to perform tasks on behalf of or at the instruction of WABCO.
 </p>
-<p>"Personal information" means any information or set of information that identifies or could be used by or on behalf of WABCO to identify an individual. Personal information does not include information that is encoded or anonymized, or publicly available information that has not been combined with non-public Personal information.
+<p>"Personal Information" means any information or set of information that identifies or could be used by or on behalf of WABCO to identify an individual. Personal Information does not include information that is encoded or anonymized, or publicly available information that has not been combined with non-public Personal Information.
 </p>
-<p>"Sensitive Personal information" means Personal information that reveals race, ethnic origin, trade union membership, or that concerns health, sexual preference or religious beliefs. In addition, WABCO will treat as sensitive Personal information any information received from a third party where that third party treats and identifies the information as sensitive.
+<p>"Sensitive Personal Information" means Personal Information that reveals race, ethnic origin, trade union membership, or that concerns health, sexual preference or religious or philosophical beleifs. In addition, WABCO will treat as sensitive Personal Information any Information received from a third party where that third party treats and identifies the information as sensitive.
 </p>
-<p><strong>IV. PRIVACY PRINCIPLES</strong>
+<p><strong>III. PRIVACY PRINCIPLES</strong>
 </p>
-<p>&nbsp;(1) NOTICE: Where WABCO collects Personal information directly from individuals with the consent of these individuals, it will inform them about the purposes for which it collects and uses Personal information about them, the types of non-agent third parties to which WABCO discloses that information, and the choices and means, if any, WABCO offers individuals for limiting the use and disclosure of their Personal information. Notice will be provided in clear and conspicuous language when individuals are first asked to provide Personal information to WABCO, or as soon as practicable thereafter, and in any event before WABCO uses the information for a purpose other than that for which it was originally collected. WABCO may disclose Personal information if required to do so by law or to protect and defend the rights or property of WABCO.
+<p>&nbsp;(1) NOTICE: Where WABCO collects Personal Information directly from individuals, it will inform them about the purposes for which it collects and uses Personal Information about them, the types of non-agent third parties to which WABCO discloses that information and, as appropriate and required, the choices and the means WABCO offers individuals for limiting the use and disclosure of their Personal Information. Notice will be provided in clear and conspicuous language when individuals are first asked to provide Personal Information to WABCO, or as soon as practicable thereafter, and in any event before WABCO uses the information for a purpose other than that for which it was originally collected. WABCO may disclose Personal Information if required to do so by law or to protect and defend the rights or property of WABCO.
 </p>
-<p>(2) CHOICE: WABCO will offer individuals the opportunity to choose (opt-out) whether their Personal information is (a) to be disclosed to a non-agent third party, or (b) to be used for a purpose other than the purpose for which it was originally collected or subsequently authorized by the individual.
+<p>(2) CHOICE: WABCO will offer individuals the opportunity to choose whether their Personal Information is (a) to be disclosed to a non-agent third party, or (b) to be used for a purpose other than the purpose for which it was originally collected or subsequently authorized by the individual.
 </p>
-<p>For sensitive Personal information, WABCO will give individuals the opportunity to affirmatively and explicitly (opt-in) consent to the disclosure of the information to a non-agent third party or the use of the information for a purpose other than the purpose for which it was originally collected or subsequently authorized by the individual.
+<p>For sensitive Personal Information, WABCO will give individuals the opportunity to affirmatively and explicitly (opt-in) consent to the disclosure of the information to a non-agent third party or the use of the information for a purpose other than the purpose for which it was originally collected or subsequently authorized by the individual.
 </p>
 <p>WABCO will provide individuals with reasonable mechanisms to exercise their choices should requisite circumstances arise.
 </p>
-<p>(3) DATA INTEGRITY: WABCO will use Personal information only in ways that are compatible with the purposes for which it was collected or subsequently authorized by the individual. WABCO will take reasonable steps to ensure that Personal information is relevant to its intended use, accurate, complete and current.
+<p>(3) DATA INTEGRITY: WABCO will use Personal Information only in ways that are compatible with the purposes for which it was collected or subsequently authorized by the individual. WABCO will take reasonable steps to ensure that Personal Information is relevant to its intended use, accurate, complete and current.
 </p>
 <p>(4) TRANSFERS TO AGENTS: WABCO will obtain assurances from its Agents that they will safeguard Personal Information consistently with this Policy. Examples of appropriate assurances that may be provided by Agents include: a contract obligating the Agent to provide at least the same level of protection as is required by the relevant European laws and guidelines, including the EU Directive 95/46/EC (the EU Data Protection Directive), EU standard clauses for data transfers out of the EU and any European Commission adequacy findings (e.g., companies located in Switzerland). Where WABCO has knowledge that an Agent is using or disclosing Personal Information in a manner contrary to this Policy, WABCO will take reasonable steps to prevent or stop the use or disclosure. WABCO holds it Agents accountable for maintaining the trust our employees and customers place in the company.
 </p>
-<p>&nbsp;(5) ACCESS AND CORRECTION: Upon request, WABCO will grant individuals reasonable access to Personal information that it holds about them. In addition, WABCO will take reasonable steps to permit individuals to correct, amend or delete information that is demonstrated to be inaccurate or incomplete. Any employees that desire to review or update their Personal information can do so by contacting their local Human Resources Representative.
+<p>(5) ACCESS AND CORRECTION: Upon request, WABCO will grant individuals reasonable access to Personal Information that it holds about them. In addition, WABCO will take reasonable steps to permit individuals to correct, amend or delete information that is demonstrated to be inaccurate or incomplete. Any employees that desire to review or update their Personal Information can do so by contacting their local Human Resources Representative.
 </p>
-<p>(6) SECURITY: WABCO will take such precautions as are required by applicable laws to protect Personal information in its possession from loss, misuse and unauthorized access, disclosure, alteration and destruction. WABCO protects data in many ways. Physical security is designed to prevent unauthorized access to database equipment and hard copies of sensitive Personal information. Electronic security measures continuously monitor access to our servers and provide protection from hacking or other unauthorized access from remote locations. This protection includes the use of firewalls, restricted access and encryption technology. WABCO limits access to Personal information and data to those persons in WABCO organization, or as agents of WABCO, that have a specific business purpose for maintaining and processing such Personal information and data. Individuals who have been granted access to Personal information are aware of their responsibilities to protect the security, confidentiality and integrity of that information and have been provided training and instruction on how to do so.
+<p>(6) SECURITY: WABCO will take reasonable precautions to protect Personal Information in its possession from loss, misuse and unauthorized access, disclosure, alteration and destruction. WABCO protects data in many ways. Physical security is designed to prevent unauthorized access to database equipment and hard copies of sensitive Personal Information. Electronic security measures continuously monitor access to our servers and provide protection from hacking or other unauthorized access from remote locations. This protection includes the use of firewalls, restricted access and encryption technology. WABCO limits access to Personal Information and data to those persons in WABCO organization, or as agents of WABCO, that have a specific business purpose for maintaining and processing such Personal Information and data. Individuals who have been granted access to Personal Information are aware of their responsibilities to protect the security, confidentiality and integrity of that information and have been provided training and instruction on how to do so.
 </p>
 <p>(7) ENFORCEMENT: WABCO will conduct compliance audits of its relevant privacy practices to verify adherence to this Policy.
 </p>
-<p><strong>V. DISPUTE RESOLUTION</strong>
+<p><strong>IV. DISPUTE RESOLUTION</strong>
 </p>
-<p>Any questions or concerns regarding the use or disclosure of Personal information should be directed to the WABCO&nbsp;Office at the address given below. WABCO will investigate and attempt to resolve complaints and disputes regarding use and disclosure of Personal information in accordance with the principles contained in this Policy.
+<p>Any questions or concerns regarding the use or disclosure of Personal Information should be directed to the WABCO&nbsp;Office at the address given below. WABCO will investigate and attempt to resolve complaints and disputes regarding use and disclosure of Personal Information in accordance with the principles contained in this Policy.
 </p>
 <p>WABCO Europe BVBA<br>Chaussee de Wavre 1789<br>1160 Brussels<br>Belgium<br>Attention: Legal Department
-</p>
-<p><strong>VI. INTERNET PRIVACY</strong>
-</p>
-<p>WABCO sees the Internet, intranets and the use of other technologies as valuable tools for communicating and interacting with consumers, employees, vendors, business partners and others. WABCO recognizes the importance of maintaining the privacy of Personal information collected through websites that it operates. WABCO's sole purpose for operating its websites is to provide information concerning products and services to the public. In general, visitors can reach WABCO on the Web without revealing any Personal information. Visitors on the Web may elect to voluntarily provide Personal information via WABCO&nbsp;websites but are not required to do so. WABCO collects information from visitors to the websites who voluntarily provide Personal information by filling out and submitting online questionnaires concerning feedback on the website, requesting information on products or services, or seeking employment. The Personal information voluntarily provided by website users is contact information limited to the user's name, home and/or business address, phone numbers and email address. WABCO collects this information so it may answer questions and forward requested information. WABCO does not sell or share this information with non-agent third parties.
-</p>
-<p>WABCO may also collect anonymous information concerning website users through the use of "cookies" in order to provide better customer service. "Cookies" are small files that websites place on users' computers to identify the user and enhance the website experience. None of this information is reviewed at an individual level. Visitors may set their browsers to provide notice before they receive a cookie, giving the opportunity to decide whether to accept the cookie. Visitors can also set their browsers to turn off cookies. If visitors do so, however, some areas of WABCO websites may not function properly.
-</p>
-<p>WABCO website users have the option to request that WABCO not use information previously provided, correct information previously provided, or remove information previously provided to WABCO. Those that would like to correct or suppress information they have provided to WABCO should forward such inquiries to: [<em>insert email address</em>].
-</p>
-<p>The inquiries should include the individual's name, address, and other relevant contact information (phone number, email address). WABCO will use all reasonable efforts to honor such requests as quickly as possible.
-</p>
-<p>WABCO websites may contain links to other "non-WABCO" websites. WABCO assumes no responsibility for the content or the privacy policies and practices on those websites. WABCO encourages all users to read the privacy statements of those sites; their privacy practices may differ from those of WABCO.
 </p>
 <p>&nbsp;</p>
 		<!--  Text: [end] -->
 			
-	<!--  CONTENT ELEMENT, uid:3353/text [end] -->
+	<!--  CONTENT ELEMENT, uid:8727/text [end] -->
 		</div></td>
 	</tr><tr></tr></tbody></table>
 </div></td></tr>
@@ -253,7 +525,7 @@ window.location=siteurl+txtSearch;" onMouseOver="style.cursor='hand'" />--></td>
 <div style="width:100%; text-align:center; height:30px; position:table;"> 
  
 <div id="footerArea"><!--###footerArea### begin --> 
-				<table align="center" border="0"><tbody><tr id="footer"><td class="menu3-level1-no"><a href="footer/sitemap" title="Sitemap" onfocus="blurLink(this);">Sitemap</a></td><td class="menu3-level1-no"><a href="footer/legal-entity" title="Legal Entity" onfocus="blurLink(this);">Legal Entity</a></td><td class="menu3-level1-act"><a href="footer/data_protection_policy" onfocus="blurLink(this);">Data Protection Policy</a></td><td class="menu3-level1-no"><a href="footer/disclaimer" onfocus="blurLink(this);">Disclaimer</a></td><td class="menu3-level1-no"><a href="footer/copyrightterms-of-use" onfocus="blurLink(this);">Copyright/Terms of Use</a></td><td class="menu3-level1-no"><a href="footer/web_privacy_policy" title="Web Privacy Policy" onfocus="blurLink(this);">Web Privacy Policy</a></td></tr></tbody></table> 
+				<table align="center" border="0"><tbody><tr id="footer"><td class="menu3-level1-no"><a href="footer/sitemap" title="Sitemap" onfocus="blurLink(this);">Sitemap</a></td><td class="menu3-level1-no"><a href="footer/legal-entity" title="Legal Entity" onfocus="blurLink(this);">Legal Entity</a></td><td class="menu3-level1-no"><a href="footer/data_protection_policy" title="Data Protection Policy" onfocus="blurLink(this);">Data Protection Policy</a></td><td class="menu3-level1-no"><a href="footer/disclaimer" onfocus="blurLink(this);">Disclaimer</a></td><td class="menu3-level1-no"><a href="footer/copyrightterms-of-use" onfocus="blurLink(this);">Copyright/Terms of Use</a></td><td class="menu3-level1-act"><a href="footer/web_privacy_policy" onfocus="blurLink(this);">Web Privacy Policy</a></td></tr></tbody></table> 
 <!--###footerArea### end --></div>	 
  
 </div>
