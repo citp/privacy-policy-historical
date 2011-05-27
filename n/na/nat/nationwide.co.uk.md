@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationwide.co.uk privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526094705id_/http%3A//www.nationwide.co.uk/about_nationwide/membership_matters/cookie_and_privacy_policy/cookie_and_privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationwide.co.uk privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527163441id_/http%3A//www.nationwide.co.uk/about_nationwide/membership_matters/cookie_and_privacy_policy/cookie_and_privacy_policy.htm) for the most accurate reproduction.*
 
 # About Nationwide - Membership matters - Cookie and privacy policy
 
@@ -49,15 +49,21 @@ _You are offered this cookie on the Internet Banking sign on page._
 
 _When we use a cookie for this purpose, we do not record any information that will uniquely identify you. We put together the information from a very large number of users of our website to give us an overall picture of how people visit our site._
 
-  * we use a third party solution to enable Nationwide to monitor and analyse traffic to, from and within our website. Cookies are used as part of this process
+  * we use a third party to enable Nationwide to monitor and analyse traffic to, from and within our website. Cookies are used as part of this process
 
 
 
 _Again no information will be recorded that uniquely identifies you._
 
+  * from time to time we may wish to record personal information about you using cookies
+
+
+
 You may choose to set your browser to not accept any cookies. Please be aware that in doing this, our Internet Bank will not operate correctly.
 
-Find out more about how Nationwide keeps your account secure on our [Security site](https://web.archive.org/security/default.htm).
+For more information about cookies, please visit this website <http://www.aboutcookies.org/>.
+
+Find out more about how Nationwide keeps your account secure on our [Security site](https://web.archive.org/internetbanking/default.htm).
 
 **Definitions**
 
