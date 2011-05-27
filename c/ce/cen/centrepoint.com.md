@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the centrepoint.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130215356id_/http%3A//www.centrepoint.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centrepoint.com privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527062533id_/http%3A//www.centrepoint.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy policy
 
