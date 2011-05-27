@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tecnick.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124220623id_/http%3A//www.tecnick.com/public/code/cp_dpage.php%3Faiocp_dp%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tecnick.com privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527065848id_/http%3A//www.tecnick.com/public/code/cp_dpage.php%3Faiocp_dp%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -37,7 +37,7 @@ A web surfer may choose to opt-out of receiving the benefits associated with our
 
 ### Personally Identifiable Consumer Data - Opt-Out
 
-Users can change or delete their personally-identifiable data simply using the [user area](https://web.archive.org/web/20101124220623id_/http%3A//www.tecnick.com/public/code/cp_edit_user.php) or sending an email to [info@tecnick.com](mailto:info@tecnick.com).
+Users can change or delete their personally-identifiable data simply using the [user area](https://web.archive.org/web/20110527065848id_/http%3A//www.tecnick.com/public/code/cp_edit_user.php) or sending an email to [info@tecnick.com](mailto:info@tecnick.com).
 
 ### Children's Privacy
 
@@ -46,7 +46,3 @@ Tecnick.com is very sensitive to the issue of children's privacy and makes every
 ## Contacting Us
 
 For more information or if you have questions or concerns regarding Tecnick.com's Privacy Statement, please send an e-mail to [info@tecnick.com](mailto:info@tecnick.com). 
-
-  
-  
-
