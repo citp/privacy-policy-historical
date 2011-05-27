@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netcheck.co.nz privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526062917id_/http%3A//www.apn.com.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netcheck.co.nz privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527053046id_/http%3A//www.apn.com.au/privacy.html) for the most accurate reproduction.*
 
 # APN - Privacy statement
 
@@ -6,7 +6,7 @@ APN News & Media Limited is a dynamic media company that is the largest media co
 
 APN News & Media Limited respects your right to privacy. We are sensitive to the concerns that our clients, customers and online users may have with regards to the confidentiality, security and use of their personal information, and would like to reassure you of our position on this matter. The purpose of this Privacy Statement is to tell you what type of information we collect, how we may use that information, whether we disclose it to anyone, and the opportunities you have to access and correct the information we hold.
 
-We encourage you to check the APN News & Media Limited Privacy Statement regularly as this Privacy Statement may change from time to time. If you have any suggestions or concerns that are not addressed in this Privacy Statement, please [Contact Us.](https://web.archive.org/web/20100526062917id_/http%3A//www.apn.com.au/contact.html)
+We encourage you to check the APN News & Media Limited Privacy Statement regularly as this Privacy Statement may change from time to time. If you have any suggestions or concerns that are not addressed in this Privacy Statement, please [Contact Us.](https://web.archive.org/web/20110527053046id_/http%3A//www.apn.com.au/contact.html)
 
 Our commitment to privacy
 
