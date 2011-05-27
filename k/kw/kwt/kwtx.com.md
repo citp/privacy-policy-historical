@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kwtx.com privacy policy that was archived on 2009-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090822162018id_/http%3A//www.kwtx.com/unclassified/34218884.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kwtx.com privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527112747id_/http%3A//www.kwtx.com/unclassified/34218884.html) for the most accurate reproduction.*
 
 # GRAY TELEVISION, INC. PRIVACY POLICY AND YOUR PRIVACY RIGHTS
 
@@ -78,4 +78,10 @@ Except to meet FCC, other regulatory and legal purposes, we will not use, distri
 
 If you have any questions or comments about this policy or our use of Personal Information, you may send an e-mail to lisa.bishop@gray.tv or send a letter to the following address: 
 
-Gray Television, Inc. Attn: Lisa Bishop Vice President Internet Operations & New Media 126 N. Washington Street Albany, GA 31701 We will use reasonable efforts to promptly investigate any complaint you may have regarding our use of Personal Information. Copyright © 2009 Gray Television, Inc. All Rights Reserved.
+Gray Television, Inc.  
+Attn: Lisa Bishop  
+Vice President Digital Media  
+126 N. Washington Street  
+Albany, GA 31701
+
+We will use reasonable efforts to promptly investigate any complaint you may have regarding our use of Personal Information. Copyright © 2010 Gray Television, Inc. All Rights Reserved.
