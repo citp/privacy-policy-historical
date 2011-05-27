@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rusclothing.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125132509id_/http%3A//www.rusclothing.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rusclothing.com privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527090937id_/http%3A//www.rusclothing.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - RusClothing.com
 
