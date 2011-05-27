@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alshop.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130063507id_/http%3A//www.alshop.com/pages/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alshop.com privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527060738id_/http%3A//www.alshop.com/pages/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
