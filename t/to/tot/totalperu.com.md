@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the totalperu.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127010139id_/http%3A//www.totalperu.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totalperu.com privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527022836id_/http%3A//www.totalperu.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy and DMCA Notification for Peru Expat and Travel
 
