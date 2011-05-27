@@ -1,309 +1,839 @@
-<!--The following is the downloaded HTML source of the lifesitenews.com privacy policy that was archived on 2010-07-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100702220928id_/http%3A//www.lifesitenews.com/aboutlifesite/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lifesitenews.com privacy policy that was archived on 2011-05-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110527154746id_/http%3A//www.lifesitenews.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<title>Privacy Policy</title>
-<meta name="Description" content="Daily news, articles, links, and information on politics, abortion, euthanasia, religion, family life, and entertainment.">
-<meta http-equiv="Content-Language" content="en">
-<meta name="Robots" content="all">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta name="google-site-verification" content="fD9gLRmZSxVMp-C9eiyHBl7bTmHAhva4nrC4wA1MPF4">
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<link rel="shortcut icon" href="/lsn-favicon.jpg" type="image/x-icon">
 <meta name="Copyright" content="Copyright LifeSiteNews.com">
-<link rel="alternate" type="application/rss+xml" title="LifeSiteNews.com RSS Feed" href="http://www.lifesitenews.com/ldn/rss/headlines.xml">
-<link rel="start" href="http://www.lifesitenews.com/" title="LifeSiteNews.com Headlines">
-<!-- Dublin Core Metadata Package -->
-<link rel="schema.DC" href="http://purl.org/dc/elements/1.1/">
-<link rel="schema.DCTERMS" href="http://purl.org/dc/terms/">
-<meta name="DC.title" content="LifeSiteNews.com - Your Life, Family and Culture Outpost">
-<meta name="DC.description" content="Daily news, links, and information on politics, abortion, euthanasia, religion, and entertainment.">
-<meta name="DC.date" scheme="DCTERMS.W3CDTF" content="2007-01-01">
-<meta name="DC.publisher" content="LifeSiteNews.com">
-<meta name="DC.identifier" scheme="DCTERMS.URI" content="http://www.lifesitenews.com/">
-<meta name="DC.language" content="en">
-<meta name="DC.type" scheme="DCTERMS.DCMIType" content="Text">
-<meta name="DC.format" content="text/html">
-<meta name="DC.relation.IsPartOf" content="http://www.lifesitenews.com/">
-<meta name="DC.rights" content="Copyright LifeSiteNews.com">
-<!-- /Dublin Core Metadata Package -->
-<link href="http://www.lifesitenews.com/includes/LifeSiteNews.css" rel="stylesheet" type="text/css">
-<script language="JavaScript" type="text/javascript">
-<!--
-
-//JavaScript code for mouseover images
-
-function MM_swapImgRestore() { 
-  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+<link rel="alternate" type="application/rss+xml" href="http://feeds.feedburner.com/LifesitenewscomLatestHeadlines" title="LifeSiteNews Daily RSS feed">
+<title>Privacy Policy | LifeSiteNews.com</title>
+<meta name="description" content="Daily news, articles, links, and information on politics, abortion, euthanasia, religion, family life, and entertainment.">
+<link media="all" type="text/css" rel="stylesheet" href="http://www.lifesitenews.com/?css=style/thickbox_css.v.1297891169">
+<link media="all" type="text/css" rel="stylesheet" href="http://www.lifesitenews.com/?css=style/all_css.v.1305844178">
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+<script type="text/javascript">
+if (typeof jQuery == 'undefined')
+{
+    document.write(unescape("%3Cscript src='/scripts/jquery-1.3.2.min.js' type='text/javascript'%3E%3C/script%3E"));
 }
-function MM_preloadImages() { 
-  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+</script><script src="/scripts/jquery-1.3.2.min.js" type="text/javascript"></script>
+<script type="text/javascript" src="/scripts/jquery-ui.1.5.2.min.js"></script>
+<script type="text/javascript" src="/scripts/audio-player.js"></script>  
+<script type="text/javascript" src="/scripts/main.js"></script>
+<script type="text/javascript" src="/scripts/inputs.js"></script>
+<script type="text/javascript" src="/scripts/jquery.cycle.min.js"></script>
+<script type="text/javascript" src="/scripts/thickbox.js"></script>
+
+<script type="text/javascript">  
+
+       AudioPlayer.setup("/scripts/player.swf", {  
+           width: 300,  
+           initialvolume: 100,  
+           transparentpagebg: "yes",  
+           left: "000000",  
+           lefticon: "FFFFFF",
+           rightbg: "2d3918",
+           righticon: "dfccae",
+           rightbghover: "736930",
+           righticonhover: "2d3918",
+           leftbg:    "d1cd98",
+           lefticon:  "2d3918",
+           volslider: "2d3918",
+           loader:    "737033"
+       });  
+
+function ChangeRegion(region)
+{
+    if(document.getElementById('set_region_code_id').value != region)
+    {
+        document.getElementById('set_region_code_id').value = region;
+        document.changeRegionForm.submit();
+    }
 }
-function MM_findObj(n, d) {
-  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
-    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
-  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
-  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
-  if(!x && d.getElementById) x=d.getElementById(n); return x;
+
+function changeViewAllStoriesDate()
+{
+    var newViewAllYear  = document.viewAllNavigation.storiesYear.options [document.viewAllNavigation.storiesYear.selectedIndex].value;
+    var newViewAllMonth = document.viewAllNavigation.storiesMonth.options [document.viewAllNavigation.storiesMonth.selectedIndex].value;
+    var newViewAllDay   = document.viewAllNavigation.storiesDay.options [document.viewAllNavigation.storiesDay.selectedIndex].value;
+
+    var newViewAllLocation = '/home/all-stories-on-date/' + newViewAllYear + '/' + newViewAllMonth + '/' + newViewAllDay + '/';
+    location = newViewAllLocation;
 }
-function MM_swapImage() { 
-  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
-   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
-}
-
-// Place the popup menu
-function popMenu(imgNum, xOffset, yOffset) { 
-   var imgObj; 
-   if(menuReadyState) { 
-
-      //find image object 
-      imgObj = document.images["pm"+imgNum]; 
-
-      //find position of image 
-      xPos = getRealLeft(imgObj); 
-      yPos = getRealTop(imgObj); 
-
-      //activate menu with returned co-ordinates 
-      activateMenu(imgNum,xPos+xOffset,yPos+imgObj.height+yOffset); 
-   } 
-} 
 
 
-// Prevent JavaScript errors from being displayed
-function stopErrors() {
-   return true;
-}
-window.onerror = stopErrors;
+$(document).ready(function() {  
 
-//-->
+      $('#lifesiteAdList').cycle(
+      {
+         fx: 'fade', 
+         cleartype:  1, // enable cleartype corrections
+         speed: 1000, 
+         timeout: 5000, 
+         pager: '',
+         delay: 2000,
+         pause: 1
+      }); 	
+
+    $('#sidebar_tabs > ul').tabs();
+
+    if ($('#top-stories-aside').length > 0) // existence check
+    {
+        // Make sure the heights of the two columns are the same/balanced
+        var $top_stories_aside_height = $('#top-stories-aside').height();
+        var $top_stories_primary_height = $('#top-stories-primary').height();
+
+        /*alert('primary height is ' + $top_stories_primary_height + ' and the aside height is ' + $top_stories_aside_height);*/
+        if(($top_stories_primary_height + 245) < $top_stories_aside_height)
+            $top_stories_primary_height = $top_stories_primary_height + (($top_stories_aside_height - ($top_stories_primary_height + 245)) / 2);
+        else if(($top_stories_primary_height + 245) > $top_stories_aside_height)
+            $top_stories_aside_height = $top_stories_primary_height + 245;
+
+        $('#top-stories-primary').height($top_stories_primary_height);
+        $('#top-stories-aside').height($top_stories_aside_height);
+    }
+
+    $("#subnav-news-id").hover(
+      function () {
+          var newHTML = $('#subnav-topics-news-id').html();
+          $('#subnav-topics-display-id').html(newHTML);
+      }, 
+      function () {
+      }
+    );
+
+    $("#subnav-opinion-id").hover(
+      function () {
+          var newHTML = $('#subnav-topics-opinion-id').html();
+          $('#subnav-topics-display-id').html(newHTML);
+      }, 
+      function () {
+      }
+    );
+
+    $("#subnav-blog-id").hover(
+      function () {
+          var newHTML = $('#subnav-topics-blog-id').html();
+          $('#subnav-topics-display-id').html(newHTML);
+      }, 
+      function () {
+      }
+    );
+
+    $("#subnav-resources-id").hover(
+      function () {
+          var newHTML = $('#subnav-topics-resources-id').html();
+          $('#subnav-topics-display-id').html(newHTML);
+      }, 
+      function () {
+      }
+    );
+
+    if($('#hiddenSubscriptionPopupBox').length)
+    {
+       tb_show('', '#TB_inline?height=405&width=492&inlineId=hiddenSubscriptionPopupBox&modal=false', null);
+    }
+
+}); 
+
 </script>
 
+<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+<script type="text/javascript">stLight.options({publisher:'6fcb6794-af9b-4245-becf-2c164b8346ca'});</script>
 
-<!--  ULTIMATE DROPDOWN MENU v3.8.3 by Brothercake  -->
-<!--  http://www.brothercake.com/dropdown/  -->
-<script type="text/javascript" language="JavaScript" src="http://www.lifesitenews.com/includes/menuresources/sniffer.js"></script>
-<script type="text/javascript" language="JavaScript" src="http://www.lifesitenews.com/includes/menuresources/custom.js"></script>
-<script type="text/javascript" language="JavaScript" src="http://www.lifesitenews.com/includes/menuresources/style.js"></script>
-
-
-
+<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js"></script>
+<script type="text/javascript">
+   GS_googleAddAdSenseService("ca-pub-6900635172202721");
+   GS_googleEnableAllServices();
+</script>
+<script type="text/javascript">
+   GA_googleAddSlot("ca-pub-6900635172202721", "Right_Mid_Banner_300x250");
+   GA_googleAddSlot("ca-pub-6900635172202721", "Right_Top_Banner_300x250");
+   GA_googleAddSlot("ca-pub-6900635172202721", "Top_Banner_728x90");
+</script>
+<script type="text/javascript">
+   GA_googleFetchAds();
+</script>
 
 </head>
 
-<body style="max-width: 1000px">
+<body>
 
-<div id="header">
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr>
-   <td width="84" align="left" valign="middle"><a href="http://www.lifesitenews.com/"><img src="http://www.lifesitenews.com/images/frontpage/LifeSiteNews.jpg" alt="LifeSiteNews.com" style="width: 400px; height: 84px; border: none; display: block;"></a></td>
-   <td valign="bottom" style="padding-bottom: 14px"><img src="http://www.lifesitenews.com/images/newtemplate/indicators/usa.gif" title="Viewing USA Edition"></td>
-   <td width="100%" align="right" valign="middle">
-      <div style="text-align: right; padding-top: 0px; padding-right: 0px">
-<iframe id="a7678081" name="a7678081" src="http://lsn1.securesites.net/ads/adframe.php?n=a7678081&amp;what=zone:1" framespacing="0" frameborder="no" scrolling="no" width="468" height="60"><a href='http://lsn1.securesites.net/ads/adclick.php?n=a7678081' target='_blank'><img src='http://lsn1.securesites.net/ads/adview.php?what=zone:1&amp;n=a7678081' border='0' alt=''></a></iframe>
-</div>
-      
-   </td>
-</tr>
-</tbody></table>
-
+<div style="margin: 0; padding:0;">
+      <form style="display:none" name="changeRegionForm" id="changeRegionForm" action="/privacy" method="post">
+         <input name="set_region_code" id="set_region_code_id" value="US" type="hidden">
+      </form>
 </div>
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-   <tbody><tr>
-      <td width="200" align="left" valign="top">
-         <div id="menu-top">
-<img src="http://www.lifesitenews.com/images/newtemplate/LifeSiteNews-Menu-Photo08.jpg" style="width: 200px; height: 120px; margin-bottom: 6px; display: block" alt=""><form action="http://www.lifesitenews.com/search/index.html" id="searchform">
-  <p id="searchform">
-    <input type="text" name="q" style="background-color: #e8e8e8; width: 135px; padding-top: 2px" value="Search LifeSiteNews">
-    <input type="submit" name="sa" value="Go">
-  </p>	
-</form>
+   <div id="wrapper">
 
-<div style="text-align: center; margin-top: 7px; margin-bottom: 7px; margin-left: 7px;">			
-<a href="http://www.lifesitenews.com/search/addlsnsearch.html" style="border: none"><img src="http://www.lifesitenews.com/images/newtemplate/addlsnsearch.gif" border="0"></a>
-</div>
+            <div id="header">
+
+         <div class="header-area">
+
+            <ul class="user-area">
+                              <li class="active"><a href="http://www.lifesitenews.com/member/login/"><span>LOGIN</span></a></li>
+               <li><a href="http://www.lifesitenews.com/member/register/"><span>REGISTER</span></a></li>
+                           </ul>
+			
+            <div class="social-networks">
+
+               <ul>
+                  <li class="facebook"><a href="http://www.facebook.com/pages/LifeSiteNewscom/112623813202">facebook</a></li>
+                  <li class="twitter"><a href="http://twitter.com/LifeSite">twitter</a></li>
+                  <li class="rss" style="text-indent:0;"><a href="http://feeds.feedburner.com/LifesitenewscomLatestHeadlines" style="text-indent:0;"><img src="/images/sized/images/feed-icon-25x25.png" width="25" height="25" title="RSS Feed" alt="RSS Feed"></a></li>
+               </ul>
+
+            </div> <!-- end of social-networks -->
+			
+            <div class="region">
+
+               <em>Edition:</em>
+               <ul>
+                  <li class="active"><a href="javascript:void();" onclick="ChangeRegion('US');"><span>US</span></a></li>
+                  <li><a href="javascript:void();" onclick="ChangeRegion('CA');"><span>CANADA</span></a></li>
+                  <li class="international"><a href="javascript:void();" onclick="ChangeRegion('International');"><span>INTERNATIONAL</span></a></li>
+               </ul>
+               <span class="spanish-link"><a href="http://notifam.net/">Español</a></span>
+            </div> <!-- end of region -->
+
+            <form action="/search/" method="POST" class="search-form">
+               <fieldset>
+                  <div class="text">
+                     <input type="text" name="q" value="Search LifeSiteNews">
+                  </div>
+                  <div class="button">
+                     <div><input type="submit" name="sa" value="GO"></div>
+                  </div>
+               </fieldset>
+            </form>  <!-- end of search-form -->
+
+         </div> <!-- end of header-area -->
+
+      </div> <!-- end of header -->
+                
+
+      <div id="main">
+
+         <div class="main-area">
+
+            <div class="main-holder">
+
+                     <div id="skip"><a href="#twocolumn" tabindex="2">Skip to Main Content</a></div>
 	
-<div style="margin-top: 8px"></div><h6>Feature Spotlight</h6>
-<ul id="menu-top-links">
-<li><a title="" href="http://www.lifesitenews.com/features/DevelopmentPeace/">Development and Peace</a></li>
-<li><a href="http://www.lifesitenews.com/ldn/2009/feb/09020616.html">The Surprising Link Video</a></li>
-<li><a title="" href="http://noticiasprofamilia.blogspot.com/">Português LifeSiteNews</a></li>
-<li><a title="" href="http://www.lifesitenews.com/ldn/archive_specialreports.html">LSN Special Reports</a></li>
-<li><a href="http://www.lifesitenews.com/donate/donatecan.php?trok=GoodSearch.com">Help LSN - GoodSearch</a></li>
-<li><a title="" href="http://www.lifesitenews.com/ldn/2009/apr/09042903.html">Effective Communications</a> </li>
-<li><a href="http://www.lifesitenews.com/ldn/2008/jan/08011007.html">Send Letter to Editor</a> </li>
-<li><a href="http://www.lifesitenews.com/abortiontypes/">Abortion Methods</a></li></ul>
-<h6>Subscribe to News</h6>
-<form style="margin-top: 5px; margin-left: 15px; margin-bottom: 7px" action="http://www.lifesitenews.com/ldn/subscribe/index.html" method="post" id="subscribeform">
-    <input type="text" name="email" style="background-color: #e8e8e8; width: 170px; padding-top: 2px" value="E-mail Address">
-    <div style="padding-top: 5px"></div>
-    <input type="radio" name="format" value="HTML" checked=""><span style="color: #ffffff; font-weight: bold">HTML</span> &nbsp;
-    <input type="radio" name="format" value="Text"><span style="color: #ffffff; font-weight: bold">Text</span> &nbsp;&nbsp; 
-    <input type="submit" name="submit" value="Add">
-    <div style="padding-top: 10px"></div>
-</form>
-<ul id="menu-top-links">
-<li><a href="http://www.lifesitenews.com/ldn/subscribe/gift/index.html">Subscribe Friends</a></li>
-<li><a href="http://www.lifesitenews.com/ldn/rss/headlines.xml">RSS News Feed <img src="http://www.lifesitenews.com/images/newtemplate/RSS.gif" style="width: 16px; height: 16px; border: none; padding-left: 4px; padding-top: 4px; vertical-align: text-bottom; display: inline;"></a></li>
-</ul>
-<h6>Quicklinks</h6>
-<ul id="menu-top-links">
-<li><a href="http://www.lifesitenews.com/aboutlifesite/index.html">About LifeSiteNews</a></li>
-<li><a href="http://www.lifesitenews.com/donate/index.html">Donate</a></li>
-<li><a href="http://www.lifesitenews.com/aboutlifesite/contact.html">Contact Us</a></li>
-<li><a href="http://www.lifesitenews.com/ldn/newstips.html">Send News Tips</a></li>
-</ul>
-</div>
-<div id="menu-bottom">
-<h6>Get Involved</h6>
-<ul id="menu-bottom-links">
-<li><a href="" onmouseover="popMenu(0, 135, -8)"><img src="http://www.lifesitenews.com/images/newtemplate/pixel_trans.gif" border="0" name="pm0">Politics</a></li>
-<li><a href="" onmouseover="popMenu(1, 135, -8)"><img src="http://www.lifesitenews.com/images/newtemplate/pixel_trans.gif" border="0" name="pm1">International</a></li>
-<li><a href="" onmouseover="popMenu(2, 135, -8)"><img src="http://www.lifesitenews.com/images/newtemplate/pixel_trans.gif" border="0" name="pm2">What Can I Do?</a></li>
-</ul>
-<h6>Get Informed</h6>
-<ul id="menu-bottom-links">
-<li><a href="" onmouseover="popMenu(3, 135, -8)"><img src="http://www.lifesitenews.com/images/newtemplate/pixel_trans.gif" border="0" name="pm3">Educational Information</a></li>
-<li><a href="" onmouseover="popMenu(4, 135, -8)"><img src="http://www.lifesitenews.com/images/newtemplate/pixel_trans.gif" border="0" name="pm4">News Partners</a></li>
-<li><a href="" onmouseover="popMenu(5, 135, -8)"><img src="http://www.lifesitenews.com/images/newtemplate/pixel_trans.gif" border="0" name="pm5">Culture Features</a></li>
-</ul>
-<h6>Get Help</h6>
-<ul id="menu-bottom-links">
-<li><a class="menu" href="http://www.lifesitenews.com/gethelp/pregnancysupport/" onmouseover="popMenu(6, 135, -8)"><img src="http://www.lifesitenews.com/images/newtemplate/pixel_trans.gif" border="0" name="pm6">Crisis Pregnancy Support</a></li>
-</ul>
-<img src="http://www.lifesitenews.com/images/newtemplate/LifeSiteNews-Menu-Footer.jpg" alt="" style="width: 200px; height: 50px; display: block;"> 
-</div>
-      </td>
-      <td width="100%" align="left" valign="top" bgcolor="#fefefe">
-         <div id="content">
 
-         <!-- Begin Content -->
-         
-         <h2 class="title">Privacy Policy</h2>
+      <div class="ad-area">
 
-         <p class="content">
 
-         LifeSiteNews.com has drafted this document, which details how we gather and disseminate information, 
-         in an effort to demonstrate our strong commitment to online privacy. Please contact us if you 
-         have any questions about our privacy policy.
+      <ul id="lifesiteAdList" style="padding: 0pt; margin: 0pt; float: left; position: relative; width: 220px; height: 100px;">
+         <li style="display: none; z-index: 1; opacity:0; filter:alpha(opacity=0);"><a href="http://www.lifesitenews.com/about"><img src="/images/sized/images/Familywithtext-227x102-223x100.jpg" width="223" height="100" title="Our Mission Statement" alt="Our Mission Statement"></a></li>
+   
+         <li style="position: absolute; top: 0px; left: 0px; display: block; z-index: 10; opacity:1.0; filter:alpha(opacity=100);"><a href="http://www.lifesitenews.com/donate"><img src="/images/sized/images/LSN-Fundraising-227x102-223x100.jpg" width="223" height="100" title="Donate To LifesiteNews.com" alt="Donate To LifesiteNews.com"></a></li>
+      </ul> <!-- end of lifesiteAdList -->
+   
 
-         <br>
-         <br>   
-
-         LifeSite Daily News, a key service in the LifeSiteNews.com family, is an alternative to the mainstream 
-         news media. Every day we gather the most important news on life and family issues from Canada, the 
-         U.S. and around the world. We give you the truth that is usually not available from your local media.  
-         The registration process is used to tailor the news sent to your email address. See "Use of 
-         Registration Information" below.
-
-         <br>
-         <br>   
-
-         For information about LifeSiteNews.com's services, please see the following page: <a class="content" href="http://www.lifesitenews.com/aboutlifesite/">
-         http://www.lifesitenews.com/aboutlifesite/</a>.
-
-         <br>
-         <br>   
-
-         <b>Use of Registration Information</b>
-         <br>
-         Our site's registration area requires customers to supply contact information, such as name and 
-         e-mail address, and demographic information, such as your mailing information, including province/state and country. 
-
-         <br><br>   
-
-         <b>Geographic data</b> (country, province/state, city, postal code and area code) is used only to direct 
-         certain stories or political information to those who would live in the area where it applies.
-
-         <br><br>   
-
-         <b>Use of Order Information</b>
-         <br>
-         When you place an order, LifeSiteNews.com requests information such as address and  credit card number. 
-
-         <br>
-         <br>   
-
-         Your financial information is used for the sole purpose of billing you for products and services. 
-
-         <br><br>   
-
-         <b>Security</b>
-         <br>
-         LifeSiteNews.com features security measures to protect the loss, misuse or alteration of information placed 
-         under our control.  The site utilizes a Thawte SSL digital certificate for secure credit card transactions.
-
-         <br>
-         <br>   
-
-         <b>Children's Guidelines</b>
-         <br>
-         We do not collect or use any online contact information or identifiable off-line contact information 
-         about a child without parental consent. We do not distribute personally identifiable information 
-         about children without parental consent. We do not give children the ability to post or distribute 
-         personal information without prior consent. We do not entice children with games or contests that 
-         would encourage them to disclose personal information.
-
-         <br><br>   
-
-         <b>Subscribe/Unsusbscribe</b>
-         <br>
-         LifeSiteNews.Com allows users to unsubscribe from receiving e-mail from us. To unsubscribe from the mailing 
-         list, please go to the unsubscribe page: <br> 
-         <a class="content" href="http://www.lifesitenews.com/ldn/unsubscribe/">
-         http://www.lifesitenews.com/ldn/unsubscribe/</a>
-
-         <br>
-         <br>   
-
-         <b>Correct/Update Personal Information</b>
-         <br>
-         LifeSiteNews.Com allows you to change or modify your personal information by sending e-mail to  
-         remove an e-mail address or by visiting a designated customer service page.
-
-         <br><br>   
-
-         <b>Disclaimer</b>
-         <br>
-         This site contains links to other sites. LifeSiteNews.com is not responsible for the content or privacy 
-         practices of these sites.
-
-         <br>
-         <br>   
-
-         <b>Contact Us</b>
-         <br>
-         If you have any additional questions or concerns about our privacy policy, please contact us at 
-         <a class="content" href="http://www.lifesitenews.com/aboutlifesite/contact.html">
-         http://www.lifesitenews.com/aboutlifesite/contact.html</a>
-
-         </p>
-
-         <br><br>   
-
-         <!-- End Content -->
-
-         </div>
-      </td>
-   </tr>
-</tbody></table>
-
-<div id="footer">
-<script type="text/javascript" language="javascript" src="http://www.lifesitenews.com/includes/menuresources/menu.js"></script>
-<p><a href="http://www.lifesitenews.com/ldn/subscribe/index.html">Get News by E-mail</a> | <a href="http://www.lifesitenews.com/contribute/index.html">Donate</a> | <a href="http://www.lifesitenews.com/aboutlifesite/index.html">About LifeSiteNews</a> | <a href="http://www.lifesitenews.com/aboutlifesite/contact.html">Contact Us</a> | <a href="http://www.lifesitenews.com/ldn/newstips.html">Send News Tips</a> | <a href="http://www.lifesitenews.com/ldn/rss/headlines.xml">RSS News Feed</a> | <a href="http://www.lifesitenews.com/aboutlifesite/sitemap.html">Site Map</a><br>
-All content copyright 1997-2010 LifeSiteNews.com, all rights reserved. | <a href="http://www.lifesitenews.com/aboutlifesite/legal.html">Legal Information</a> | <a href="http://www.lifesitenews.com/aboutlifesite/privacy.html">Privacy Policy</a></p>
-
-<script src="/__utm.js" type="text/javascript"></script>
-
+         <div class="ad-holder">
+            <!--img src="/images/img02.jpg" width="728" height="90" alt="Advertisement"/-->
 <script type="text/javascript">
+GA_googleFillSlot("Top_Banner_728x90");
+</script>
+
+        </div>  <!-- end of ad-holder -->
+
+         <span class="advertisement-inline">&nbsp;</span>
+
+      </div>  <!-- end of ad-area -->
+	
+      <div class="user-area">
+
+         <h1 class="logo"><a href="/">LifeSiteNews.com Life, Family and Culture News</a></h1>
+         <div class="nav-area">
+
+            <ul id="nav">
+               <li><a href="/" class="home">HOME</a></li>
+               <li><a href="/about" class="about">ABOUT</a></li>
+               <li><a href="/subscribe" class="subscribe">SUBSCRIBE</a></li>
+               <li><a href="/home/write-us/advertise" class="advertise">ADVERTISE</a></li>
+               <li><a href="/news" class="archive">ARCHIVE</a></li>
+               <li><a href="/contact-lifesitenews" class="contact-us">CONTACT US</a></li>
+               <li><a href="/donate" class="donate">DONATE</a></li>
+            </ul>
+            <ul class="sub-nav">
+               <li id="subnav-news-id"><a href="/news" class="news">NEWS</a></li>
+               <li id="subnav-opinion-id"><a href="/article/topic/opinion" class="opinion">OPINION</a></li>
+               <li id="subnav-blog-id"><a href="/blog" class="blogs">BLOGS</a></li>
+               <li id="subnav-resources-id"><a href="/resources" class="resources">RESOURCES</a></li>
+            </ul>
+
+         </div> <!-- end of nav-area -->
+
+      </div> <!-- end of user-area -->
+
+      <div class="category_nav_bar">
+
+         <div id="subnav-topics-display-id" class="items">
+
+            <ul style="float:right;">
+   
+                                    <li><a href="/article/topic/abortion/">Abortion</a></li>                  <li><a href="/article/topic/bioethics/">Bioethics</a></li>                     <li><a href="/article/topic/contraception/">Contraception</a></li>                  <li><a href="/article/topic/culture-of-life/">Culture of Life</a></li>                     <li><a href="/article/topic/euthanasia/">Euthanasia</a></li>                  <li><a href="/article/topic/faith/">Faith</a></li>                  <li><a href="/article/topic/family/">Family</a></li>                  <li><a href="/article/topic/freedom/">Freedom</a></li>                  <li><a href="/article/topic/homosexuality/">Homosexuality</a></li>                  <li><a href="/article/topic/newsbytes/">Newsbytes</a></li>                     <li><a href="/article/topic/politics/">Politics</a></li>                  <li><a href="/article/topic/stem-cells/">Stem Cells</a></li>                        
+                        <li><a href="/article/topic/canada/">Canada</a></li>                  <li><a href="/article/topic/international/">International</a></li>                  <li><a href="/article/topic/usa/">USA</a></li>                                                                                 </ul>
+
+         </div> <!-- end of subnav-topics-display-id -->
+
+         <div id="subnav-topics-news-id" style="display:none;">
+
+            <ul style="float:right;">
+
+               <li><a href="/article/topic/abortion/">Abortion</a></li>               <li><a href="/article/topic/bioethics/">Bioethics</a></li>               <li><a href="/article/topic/contraception/">Contraception</a></li>               <li><a href="/article/topic/culture-of-life/">Culture of Life</a></li>               <li><a href="/article/topic/euthanasia/">Euthanasia</a></li>               <li><a href="/article/topic/faith/">Faith</a></li>               <li><a href="/article/topic/family/">Family</a></li>               <li><a href="/article/topic/freedom/">Freedom</a></li>               <li><a href="/article/topic/homosexuality/">Homosexuality</a></li>               <li><a href="/article/topic/newsbytes/">Newsbytes</a></li>               <li><a href="/article/topic/politics/">Politics</a></li>               <li><a href="/article/topic/stem-cells/">Stem Cells</a></li>
+               <li><a href="/article/topic/canada/">Canada</a></li>               <li><a href="/article/topic/international/">International</a></li>               <li><a href="/article/topic/usa/">USA</a></li>            </ul>
+
+         </div> <!-- end of subnav-topics-news-id -->
+
+         <div id="subnav-topics-opinion-id" style="display:none;">
+
+            <ul style="float:right;">
+
+               <li><a href="/article/topic/abortion/">Abortion</a></li>               <li><a href="/article/topic/bioethics/">Bioethics</a></li>               <li><a href="/article/topic/contraception/">Contraception</a></li>               <li><a href="/article/topic/culture-of-life/">Culture of Life</a></li>               <li><a href="/article/topic/euthanasia/">Euthanasia</a></li>               <li><a href="/article/topic/faith/">Faith</a></li>               <li><a href="/article/topic/family/">Family</a></li>               <li><a href="/article/topic/freedom/">Freedom</a></li>               <li><a href="/article/topic/homosexuality/">Homosexuality</a></li>               <li><a href="/article/topic/newsbytes/">Newsbytes</a></li>               <li><a href="/article/topic/politics/">Politics</a></li>               <li><a href="/article/topic/stem-cells/">Stem Cells</a></li>
+               <li><a href="/article/topic/canada/">Canada</a></li>               <li><a href="/article/topic/international/">International</a></li>               <li><a href="/article/topic/usa/">USA</a></li>            </ul>
+
+         </div> <!-- end of subnav-topics-opinion-id -->
+
+         <div id="subnav-topics-blog-id" style="display:none;">
+
+            <ul style="float:right;">
+               <li><a href="/author/onthebeat">On the Beat</a></li>
+               <li><a href="/author/lrose">Lila Rose</a></li>
+               <li><a href="/author/fpavone">Fr. Frank Pavone</a></li>
+               <li><a href="/author/aschadenberg">Alex Schadenberg</a></li>
+               <li><a href="/author/dmcconchie">Daniel McConchie</a></li>
+               <li><a href="/author/chestertonians">Chestertonians for Life</a></li>
+               <li><a href="/author/StudentsforLife">Students for Life of America</a></li>
+            </ul>
+
+         </div> <!-- end of subnav-topics-blog-id -->
+
+         <div id="subnav-topics-resources-id" style="display:none;">
+
+            <ul style="float:right;">
+
+               <li><a href="/article/topic/get-help/">Get Help</a></li>               <li><a href="/article/topic/get-informed/">Get Informed</a></li>               <li><a href="/article/topic/get-involved/">Get Involved</a></li>               <li><a href="/article/topic/special-report/">Special Reports</a></li>            <li><a href="http://www.lifesitenews.com/resources/development-and-peace">Development and Peace</a></li>
+            </ul>
+
+         </div> <!-- end of subnav-topics-resources-id -->
+
+      </div> <!-- end of category_nav_bar -->
+
+
+
+               <div class="content-area">
+                  
+                  <div id="twocolumn">
+
+
+<style type="text/css">
+ul {
+list-style-position: outside;
+list-style-image: url(arrow.gif);
+list-style-type: square;
+padding: 6px 0 0 6px;
+margin: 0;
+}
+</style>
+
+
+                     <div class="title">
+                        <div class="items"></div>
+                        <h2 style="display:inline;">Privacy Policy</h2>
+                        <div class="article-utility-links" style="float:right; font-size:12px !important; color:#FFF; ">
+   <a href="" onclick="window.open('/home/print_article/static_pages/85/', 'Image', 'width=600,height=550,toolbar=0,status=0,scrollbars=1,location=0,menubar=1,resizable=1');return false;">Print Article</a>&nbsp;&nbsp;| &nbsp;
+   <a href="/static_pages/email-a-friend/privacy-policy/">Email Friend</a>&nbsp;&nbsp;|&nbsp; 
+   <a href="/home/write-us/reprint-permissions/">Reprint Permissions</a>
+</div>
+                     </div>
+
+      <div class="article">
+
+         <h3 style="font-size: 18px; line-height:1.2em; margin-bottom:8px; margin-top:12px;"></h3>
+
+         
+
+         <div class="details-border">
+         </div> <!-- end of details-border-->
+                               
+        
+                   
+        
+        <div class="article-body"><p></p><h3>Privacy Policy</h3>
+
+<p>LifeSiteNews.com has drafted this document, which details how we gather and disseminate information, in an effort to demonstrate our strong commitment to online privacy. Please contact us if you  have any questions about our privacy policy.<br>
+ 
+LifeSite Daily News, a key service in the LifeSiteNews.com family, is an alternative to the mainstream news media. Every day we gather the most important news on life and family issues from Canada, the U.S. and around the world. We give you the truth that is usually not available from your local media. </p>
+
+<p>The registration process is used to tailor the news sent to your email address. See “Use of Registration Information” below.</p>
+
+<p>For information about LifeSiteNews.com’s services, please see the following page: <a class="content" href="http://www.lifesitenews.com/aboutlifesite/"> http://www.lifesitenews.com/aboutlifesite/</a>.</p>
+
+<p><br>
+<strong>Use of Registration Information</strong><br>
+&nbsp; <br>
+Our site’s registration area requires customers to supply contact information, such as name and e-mail address, and demographic information, such as your mailing information, including province/state and country. <br>
+ </p>
+
+<p><b>Geographic data</b> (country, province/state, city, postal code and area code) is used only to direct certain stories or political information to those who would live in the area where it applies.<br>
+ </p>
+
+<p><b>Use of Order Information</b> <br>
+&nbsp;  &nbsp; <br>
+When you place an order, LifeSiteNews.com requests information such as address and  credit card number.&nbsp; Your financial information is used for the sole purpose of billing you for products and services. <br>
+ </p>
+
+<p><b>Security</b> </p>
+
+<p>LifeSiteNews.com features security measures to protect the loss, misuse or alteration of information placed under our control.&nbsp; The site utilizes a Thawte SSL digital certificate for secure credit card transactions.<br>
+&nbsp;  <br>
+<b>Children’s Guidelines</b> </p>
+
+<p>We do not collect or use any online contact information or identifiable off-line contact information about a child without parental consent. We do not distribute personally identifiable information about children without parental consent. We do not give children the ability to post or distribute personal information without prior consent. We do not entice children with games or contests that would encourage them to disclose personal information.<br>
+ </p>
+
+<p><b>Subscribe/Unsusbscribe</b> </p>
+
+<p>LifeSiteNews.Com allows users to unsubscribe from receiving e-mail from us. To unsubscribe from the mailing list, please go to the unsubscribe page: <br>
+ 
+<a class="content" href="http://www.lifesitenews.com/ldn/unsubscribe/"> http://www.lifesitenews.com/ldn/unsubscribe/</a> </p>
+
+<p> <br>
+<b>Correct/Update Personal Information</b> <br>
+&nbsp;  &nbsp;  &nbsp;  <br>
+LifeSiteNews.Com allows you to change or modify your personal information by sending e-mail to remove an e-mail address or by visiting a designated customer service page.<br>
+ </p>
+
+<p><b>Disclaimer</b> </p>
+
+<p>This site contains links to other sites. LifeSiteNews.com is not responsible for the content or privacy practices of these sites.<br>
+ </p>
+
+<p><b>Contact Us</b> </p>
+
+<p>If you have any additional questions or concerns about our privacy policy, please contact us at <a class="content" href="http://www.lifesitenews.com/aboutlifesite/contact.html"> http://www.lifesitenews.com/aboutlifesite/contact.html</a></p><p></p></div> <!-- end of article-body -->
+
+      </div>  <!-- end of article -->
+
+            <div class="links">
+         <ul class="firstrow">
+            <li><a href="/donate/" class="link">Click to Donate</a></li>
+            <li><a href="/home/write-us/news-tips/" class="link">Send News Tips</a></li>
+            <li><a href="/subscribe/" class="link">Subscribe to Newsletters</a></li>
+         </ul>
+      </div> <!-- end of links -->
+
+      <div class="links">
+         <ul class="secondrow">
+            <li><a href="/home/all-latest-stories/" class="link">view all stories on one page</a></li>
+            <li><a href="/news/" class="link">view last 10 days</a></li>
+            <li><a href="/news/" class="link">archives</a></li>
+            <li><a href="/article/topic/special-report/" class="link">special reports</a></li>
+         </ul>
+      </div> <!-- end of links -->
+
+      <div class="socialbar">
+
+         <em>Share this article:</em>
+         <span class="st_twitter_large" displaytext="Tweet"></span><span class="st_facebook_large" displaytext="Facebook"></span><span class="st_ybuzz_large" displaytext="Yahoo! Buzz"></span><span class="st_gbuzz_large" displaytext="Google Buzz"></span><span class="st_email_large" displaytext="Email"></span><span class="st_sharethis_large" displaytext="ShareThis"></span>
+
+      </div> <!-- end of socialbar -->
+
+
+
+
+                  </div> <!-- end of twocolumn -->
+
+                        <div id="sidebar">
+     
+    
+         <div class="ad-holder"><!--img src="/images/img05.jpg" width="300" height="250" alt="Advertisement" class="ad"/-->
+<script type="text/javascript">
+   GA_googleFillSlot("Right_Top_Banner_300x250");
+</script>
+</div>
+
+         <div class="tab-area">
+
+            <div id="sidebar_tabs" class="tabs_widget">
+
+               <ul class="tabnav tabset">
+                  <li><a href="#popular_tab">Popular</a></li> <!-- class="active" -->
+                  <li><a href="#commented_tab">Commented</a></li>
+                  <li class="last"><a href="#topics_tab">Topics</a></li>
+               </ul>
+
+               <div id="popular_tab" class="tabdiv tab-content">
+                  <ul class="list">
+
+                     <li><a href="/news/vatican-cardinal-warns-of-silent-apostasy-says-catholic-charities-must-evan">Vatican Cardinal warns of ‘silent apostasy’; says Catholic charities must evangelize&nbsp;(8771)</a></li>
+
+                     <li><a href="/news/the-light-of-the-world-the-steve-tyler-and-julia-holcomb-story">The Light of the World - the Steven Tyler and Julia Holcomb story&nbsp;(4647)</a></li>
+
+                     <li><a href="/news/pro-life-groups-call-for-pepsi-boycott-over-aborted-fetal-cell-lines">Pro-life groups call for Pepsi boycott over aborted fetal cell lines&nbsp;(4044)</a></li>
+
+                     <li><a href="/news/confusing-teens-about-their-gender-the-radical-new-french-high-school-curri">Confusing teens about their gender: the radical new French high school curriculum&nbsp;(2938)</a></li>
+
+                     <li><a href="/blog/sometimes-the-horror-is-too-much-feticide-and-stopping-the-babys-heart">Sometimes the horror is too much: ‘Feticide’ and stopping the baby’s heart&nbsp;(2820)</a></li>
+
+                     <li><a href="/blog/whats-that-naral-put-a-face-on-the-debate-you-say-you-got-it">What’s that, NARAL? Put a face to the debate, you say? You got it!&nbsp;(2698)</a></li>
+
+                     <li><a href="/news/exclusive-rock-star-steve-tylers-ex-fiancee-breaks-decades-long-silence">EXCLUSIVE: Mother of Steven Tyler’s aborted baby breaks 3-decade silence - is now pro-life&nbsp;(2557)</a></li>
+
+                     <li><a href="/news/un-development-conference-provides-teaching-moments-for-holy-see">UN development conference provides teaching moments for Holy See&nbsp;(2550)</a></li>
+
+                     <li><a href="/news/us-house-blocks-obamacare-funds-for-teaching-abortion-to-new-doctors">U.S. House blocks ObamaCare funds for teaching abortion to new doctors&nbsp;(2273)</a></li>
+
+                     <li><a href="/news/illegal-babies-abducted-by-chinese-population-control-officials">‘Illegal’ babies abducted by Chinese population control officials&nbsp;(1716)</a></li>
+
+                  </ul>
+               </div> <!-- end of tab-content -->
+
+               <div id="commented_tab" class="tabdiv tab-content">
+                  <ul class="list">
+
+                     <li><a href="/news/bin-ladens-porn-stash-a-warning">Bin Laden’s porn stash a ‘warning’&nbsp;(32)</a></li>
+
+                     <li><a href="/news/expert-homosexuality-clearly-a-factor-in-new-priest-abuse-data">Expert: homosexuality clearly a factor in new priest abuse data&nbsp;(28)</a></li>
+
+                     <li><a href="/news/opinion-john-allens-strategy-for-legitimizing-catholic-dissent">John Allen’s strategy for legitimizing Catholic dissent&nbsp;(25)</a></li>
+
+                     <li><a href="/news/parents-of-genderless-baby-criticised-for-parenting-methods">Parents of “genderless” baby criticised for parenting methods&nbsp;(22)</a></li>
+
+                     <li><a href="/news/gay-journalist-lets-face-it-we-want-to-indoctrinate-children">Gay columnist: let’s face it, we want to indoctrinate children&nbsp;(17)</a></li>
+
+                     <li><a href="/news/the-numbers-game-how-many-really-attended-the-2011-canadian-march-for">The numbers game: How many really attended the 2011 Canadian March for Life?&nbsp;(16)</a></li>
+
+                     <li><a href="/news/city-of-moscow-defies-court-order-to-permit-gay-pride-parades">City of Moscow bans ‘gay pride’ parades despite court order to allow them&nbsp;(14)</a></li>
+
+                     <li><a href="/news/canadians-outraged-after-obscene-anti-christian-album-receives-government-f">Canadians outraged after obscene anti-Christian album receives government funds&nbsp;(13)</a></li>
+
+                     <li><a href="/news/philippine-president-calls-civil-disobedience-over-reproductive-health-bill">Philippine President calls civil disobedience over reproductive health bill ‘sedition’&nbsp;(13)</a></li>
+
+                     <li><a href="/news/canadas-march-for-life-makes-a-splash-in-national-media">Canada’s March for Life makes a splash in national media&nbsp;(12)</a></li>
+
+                  </ul>
+               </div> <!-- end of tab-content -->
+
+               <div id="topics_tab" class="tabdiv tab-content">
+            
+                  <a href="/tag/joseph+maraachli" title="joseph maraachli" style="font-size:12px;">joseph maraachli</a> 
+
+                  <a href="/tag/abortion" title="abortion" style="font-size:30px;">abortion</a> 
+
+                  <a href="/tag/homosexuality" title="homosexuality" style="font-size:14px;">homosexuality</a> 
+
+                  <a href="/tag/pope" title="pope" style="font-size:12px;">pope</a> 
+
+                  <a href="/tag/catholic" title="catholic" style="font-size:16px;">catholic</a> 
+
+                  <a href="/tag/dadt" title="dadt" style="font-size:12px;">dadt</a> 
+
+                  <a href="/tag/canada" title="canada" style="font-size:14px;">canada</a> 
+
+                  <a href="/tag/transgender" title="transgender" style="font-size:12px;">transgender</a> 
+
+                  <a href="/tag/eu" title="eu" style="font-size:12px;">eu</a> 
+
+                  <a href="/tag/obama" title="obama" style="font-size:14px;">obama</a> 
+
+                  <a href="/tag/condoms" title="condoms" style="font-size:12px;">condoms</a> 
+
+                  <a href="/tag/christmas" title="christmas" style="font-size:12px;">christmas</a> 
+
+                  <a href="/tag/obamacare" title="obamacare" style="font-size:12px;">obamacare</a> 
+
+                  <a href="/tag/australia" title="australia" style="font-size:12px;">australia</a> 
+
+                  <a href="/tag/feminism" title="feminism" style="font-size:12px;">feminism</a> 
+
+                  <a href="/tag/gay" title="gay" style="font-size:12px;">gay</a> 
+
+                  <a href="/tag/freedom" title="freedom" style="font-size:12px;">freedom</a> 
+
+                  <a href="/tag/church" title="church" style="font-size:12px;">church</a> 
+
+                  <a href="/tag/cchd" title="cchd" style="font-size:12px;">cchd</a> 
+
+                  <a href="/tag/polygamy" title="polygamy" style="font-size:12px;">polygamy</a> 
+
+                  <a href="/tag/alaska" title="alaska" style="font-size:12px;">alaska</a> 
+
+                  <a href="/tag/anglican" title="anglican" style="font-size:12px;">anglican</a> 
+
+                  <a href="/tag/vatican" title="vatican" style="font-size:12px;">vatican</a> 
+
+                  <a href="/tag/aids" title="aids" style="font-size:12px;">aids</a> 
+
+                  <a href="/tag/france" title="france" style="font-size:12px;">france</a> 
+
+                  <a href="/tag/unborn" title="unborn" style="font-size:12px;">unborn</a> 
+
+                  <a href="/tag/sex" title="sex" style="font-size:12px;">sex</a> 
+
+                  <a href="/tag/stem+cells" title="stem cells" style="font-size:12px;">stem cells</a> 
+
+                  <a href="/tag/scalia" title="scalia" style="font-size:12px;">scalia</a> 
+
+                  <a href="/tag/africa" title="africa" style="font-size:12px;">africa</a> 
+
+                  <a href="/tag/lombardi" title="lombardi" style="font-size:12px;">lombardi</a> 
+
+                  <a href="/tag/euthanasia" title="euthanasia" style="font-size:12px;">euthanasia</a> 
+
+                  <a href="/tag/suicide" title="suicide" style="font-size:12px;">suicide</a> 
+
+                  <a href="/tag/population" title="population" style="font-size:12px;">population</a> 
+
+                  <a href="/tag/hivaids" title="hivaids" style="font-size:12px;">hivaids</a> 
+
+                  <a href="/tag/soto" title="soto" style="font-size:12px;">soto</a> 
+
+                  <a href="/tag/philippines" title="philippines" style="font-size:12px;">philippines</a> 
+
+                  <a href="/tag/un" title="un" style="font-size:12px;">un</a> 
+
+                  <a href="/tag/predator" title="predator" style="font-size:12px;">predator</a> 
+
+                  <a href="/tag/vigil" title="vigil" style="font-size:12px;">vigil</a> 
+
+                  <a href="/tag/gibbons" title="gibbons" style="font-size:12px;">gibbons</a> 
+
+                  <a href="/tag/arrest" title="arrest" style="font-size:12px;">arrest</a> 
+
+                  <a href="/tag/students" title="students" style="font-size:12px;">students</a> 
+
+                  <a href="/tag/disney" title="disney" style="font-size:12px;">disney</a> 
+
+                  <a href="/tag/faith" title="faith" style="font-size:12px;">faith</a> 
+
+                  <a href="/tag/liberal" title="liberal" style="font-size:12px;">liberal</a> 
+
+                  <a href="/tag/communion" title="communion" style="font-size:12px;">communion</a> 
+
+                  <a href="/tag/chaput" title="chaput" style="font-size:12px;">chaput</a> 
+
+                  <a href="/tag/culture+of+life" title="culture of life" style="font-size:12px;">culture of life</a> 
+
+                  <a href="/tag/spain" title="spain" style="font-size:12px;">spain</a> 
+
+               </div> <!-- end of tab-content -->
+
+            </div> <!-- end of sidebar_tabs and tabs_widget -->
+
+         </div> <!-- end of tab-area -->
+
+		<!-- block-in -->
+		<div class="block-in">
+			<div class="heading">
+				<h2>Signup for Email</h2>
+			</div>
+			<p>Get our free daily email newsletter.</p>
+			<form action="/subscribe/" class="signup" method="POST">
+				<fieldset>
+					<!--div class="text"><input name="email-address" type="text" value="Email" /></div-->
+					<div class="button">
+					<div><input type="submit" value="Subscribe"></div>
+					</div>
+				</fieldset>
+			</form>
+		</div> <!-- end of block-in -->
+
+		<div class="ad-holder" style="margin-bottom: 16px;"><!--img src="/images/img05.jpg" width="300" height="250" alt="Advertisement" class="ad"/-->
+<script type="text/javascript">
+   GA_googleFillSlot("Right_Mid_Banner_300x250");
+</script>
+</div>
+
+                <iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FLifeSiteNewscom%2F112623813202&amp;width=292&amp;colorscheme=light&amp;connections=10&amp;stream=true&amp;header=true&amp;height=587" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:292px; height:587px;" allowtransparency="true"></iframe>
+
+                <div style="margin-bottom: 16px; line-height:0em;">&nbsp;</div>
+
+                <script src="http://widgets.twimg.com/j/2/widget.js"></script>
+                <script>
+
+                   new TWTR.Widget({
+                     version: 2,
+                     type: 'profile',
+                     rpp: 3,
+                     interval: 6000,
+                     width: 300,
+                     height: 250,
+                     theme: {
+                       shell: {
+                         background: '#757375',
+                         color: '#ffffff'
+                       },
+                       tweets: {
+                         background: '#265e96',
+                         color: '#ffffff',
+                         links: '#8f898f'
+                       }
+                     },
+                     features: {
+                       scrollbar: false,
+                       loop: false,
+                       live: false,
+                       hashtags: true,
+                       timestamp: false,
+                       avatars: false,
+                       behavior: 'all'
+                     }
+                   }).render().setUser('LifeSite').start();
+
+                </script>
+
+	</div> <!-- end of sidebar -->
+
+
+               </div> <!-- end of content-area -->
+		
+            </div> <!-- end of main-holder -->
+
+         </div> <!-- end of main-area -->
+
+      </div> <!-- end of main -->
+		
+          
+   <div id="footer">
+
+      <div class="video-holder">
+
+
+
+         <div class="flash">
+   <iframe title="YouTube video player" class="youtube-player" type="text/html" width="210" height="175" src="http://www.youtube.com/embed/0WTiK9Dd9z0" frameborder="0" allowfullscreen=""></iframe>
+         </div> <!-- end of flash -->
+
+         <div class="text">
+
+            <h2>FEATURED VIDEO</h2>
+            <h3>Powerful Ronald Reagan speech on abortion</h3>
+            <p style="margin-top:8px;"></p>
+            <!--div class="more"><a href="#">More Videos</a></div-->
+
+         </div> <!-- end of text -->
+
+
+
+      </div> <!-- end of video-holder -->
+
+      <div class="column">
+
+         <h2><a href="/article/topic/get-involved">GET INVOLVED</a></h2>
+         <ul>
+
+            <li>   <a href="http://www.parl.gc.ca/common/senmemb/senate/isenator.asp">Find Your Canadian Senator</a>
+</li>
+
+            <li>   <a href="http://webinfo.parl.gc.ca/MembersOfParliament/MainMPsCompleteList.aspx?TimePeriod=Current&amp;Language=E">Find Your Canadian Member of Parliament</a>
+</li>
+
+            <li>   <a href="http://www.senate.gov/general/contact_information/senators_cfm.cfm">Find Your U.S. Senator</a>
+</li>
+
+            <li>   <a href="http://www.house.gov/Welcome.shtml">Find Your U.S. Congressman</a>
+</li>
+
+         </ul>
+
+      </div> <!-- end of column -->
+
+      <div class="column">
+
+         <h2><a href="/article/topic/get-involved">GET INFORMED</a></h2>
+         <ul>
+
+            <li>   <a href="http://www.aul.org">Americans United for Life:</a>
+</li>
+
+            <li>   <a href="http://www.nrlc.org/">National Right to Life Committee</a>
+</li>
+
+            <li>   <a href="http://www.all.org/">American Life League</a>
+</li>
+
+            <li>   <a href="http://www.campaignlifecoalition.com/">Campaign Life Coalition</a>
+</li>
+
+            <li>   <a href="http://www.theinterim.com/">The Interim - Canada’s Life and Family Newspaper</a>
+</li>
+
+            <li>   <a href="http://www.campaignlifecoalition.com/index.php?p=Prenatal_Development">Prenatal Development</a>
+</li>
+
+         </ul>
+
+      </div> <!-- end of column -->
+
+      <div class="column">
+
+         <h2><a href="/article/topic/get-help">GET HELP</a></h2>
+         <ul>
+
+            <li>   <a href="http://www.optionline.org/">American Pregnancy Resource Centers</a>
+</li>
+
+            <li>   <a href="http://www.campaignlifecoalition.com/index.php?p=Pregnancy_help">Canadian Pregnancy Resource Centers</a>
+</li>
+
+         </ul>
+
+      </div>  <!-- end of column -->
+
+<div id="footer-links"><a href="/subscribe/">Get News by E-mail</a> | <a href="/about">About LifeSiteNews</a> | <a href="/contact-lifesitenews">Contact Us</a> | <a href="/home/write-us/news-tips">Send News Tips</a> | <a href="http://feeds.feedburner.com/LifesitenewscomLatestHeadlines">RSS News Feed</a> | <a href="/home/sitemap/">Site Map</a></div>
+
+<div id="footer-identification">All content copyright 1997-2010 LifeSiteNews.com, all rights reserved. | <a href="/legal-info">Legal Information</a> | <a href="/privacy">Privacy Policy</a></div>
+   </div> <!-- end of footer -->
+
+   <div id="skip-back"><a href="#nav" tabindex="3">back to top</a></div>
+
+
+<script type="text/javascript"> 
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script> 
+<script type="text/javascript"> 
 var pageTracker = _gat._getTracker("UA-698266-2");
 pageTracker._initData();
 pageTracker._trackPageview();
+</script> 
+
+
+
+
+
+   </div> <!-- end of wrapper -->
+
+
+
+<script type="text/javascript">
+
+    var imgDivObj = $("#image_wrapper1");
+    var imgObj    = $("#image_wrapper1 img:eq(0)");
+
+    if(imgDivObj && imgObj)
+    {
+        if(imgObj.attr('width') < 450 && imgDivObj.hasClass("img-float-full-width"))
+        {imgDivObj.removeClass("img-float-full-width").addClass("img-float-left");}
+        else if(imgDivObj.hasClass("img-float-full-width"))
+        {
+            imgDivObj.css({ 'text-align': 'center'});
+        }
+        if(!imgDivObj.hasClass("img-float-full-width"))
+            imgDivObj.css({ 'width': imgObj.attr('width')});
+    }
+
 </script>
-</div>
+
 
 
 </body></html>
