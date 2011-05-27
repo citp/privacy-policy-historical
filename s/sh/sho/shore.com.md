@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shore.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124180200id_/http%3A//shore.com/us/policies/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shore.com privacy policy that was archived on 2011-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110528012836id_/http%3A//www.shore.com/us/policies/privacy.html) for the most accurate reproduction.*
 
 # About Us - Privacy Policy - Shore Communications Inc.
 
