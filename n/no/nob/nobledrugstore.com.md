@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nobledrugstore.com privacy policy that was archived on 2009-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090925051524id_/http%3A//www.nobledrugstore.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nobledrugstore.com privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527090236id_/http%3A//www.nobledrugstore.com/privacy_policy.php) for the most accurate reproduction.*
 
 # :: Noble Drug Store :: up to 80% off on your US and Canadian prescription medicines. Offering high quality generic drugs at discounted prices.
 
