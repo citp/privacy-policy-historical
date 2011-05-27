@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the ticketnews.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127132841id_/http%3A//www.ticketnews.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ticketnews.com privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527130802id_/http%3A//www.ticketnews.com/about/privacy) for the most accurate reproduction.*
 
 # TicketNews - Privacy Policy | TicketNews
 
-_Last Updated - April 2010_
+## Privacy Policy
+
+_Last Updated - May 2011_
 
    
 This Privacy Policy discloses the privacy practices of [TicketNews.com](http://www.ticketnews.com/) regarding its treatment of personally identifiable information or other information that may be collected through common use of the site and its products and services.
@@ -10,14 +12,14 @@ This Privacy Policy discloses the privacy practices of [TicketNews.com](http://w
 **This Privacy Policy will address:**  
 
 
-> • [Sites Covered by This Policy](https://web.archive.org/web/20101127132841id_/http%3A//www.ticketnews.com/about/privacy#a)  
->  • [User Information: Collection and Use](https://web.archive.org/web/20101127132841id_/http%3A//www.ticketnews.com/about/privacy#b)  
->  • [Security](https://web.archive.org/web/20101127132841id_/http%3A//www.ticketnews.com/about/privacy#c)  
->  • [User Accounts](https://web.archive.org/web/20101127132841id_/http%3A//www.ticketnews.com/about/privacy#d)  
->  • [Subscription E-mail Services](https://web.archive.org/web/20101127132841id_/http%3A//www.ticketnews.com/about/privacy#e)  
->  • [TicketNewsfeed Widget](https://web.archive.org/web/20101127132841id_/http%3A//www.ticketnews.com/about/privacy#f)  
->  • [Opting-Out and User Access to and Control Over Information](https://web.archive.org/web/20101127132841id_/http%3A//www.ticketnews.com/about/privacy#g)  
->  • [Amendments](https://web.archive.org/web/20101127132841id_/http%3A//www.ticketnews.com/about/privacy#h)
+> • [Sites Covered by This Policy](https://web.archive.org/web/20110527130802id_/http%3A//www.ticketnews.com/about/privacy#a)  
+>  • [User Information: Collection and Use](https://web.archive.org/web/20110527130802id_/http%3A//www.ticketnews.com/about/privacy#b)  
+>  • [Security](https://web.archive.org/web/20110527130802id_/http%3A//www.ticketnews.com/about/privacy#c)  
+>  • [User Accounts](https://web.archive.org/web/20110527130802id_/http%3A//www.ticketnews.com/about/privacy#d)  
+>  • [Subscription E-mail Services](https://web.archive.org/web/20110527130802id_/http%3A//www.ticketnews.com/about/privacy#e)  
+>  • [TicketNewsfeed Widget](https://web.archive.org/web/20110527130802id_/http%3A//www.ticketnews.com/about/privacy#f)  
+>  • [Opting-Out and User Access to and Control Over Information](https://web.archive.org/web/20110527130802id_/http%3A//www.ticketnews.com/about/privacy#g)  
+>  • [Amendments](https://web.archive.org/web/20110527130802id_/http%3A//www.ticketnews.com/about/privacy#h)
 
 * * *
 
@@ -75,7 +77,7 @@ Any user can do the following, at any time, by contacting us via [editorial@tick
 >  • See what data we have about that user, if any;  
 >  • Change or correct any data we have about that user;  
 >  • Have us delete any data we have about that user; and  
->  • Express any concern the user has about our use of that user’s data. 
+>  • Express any concern the user has about our handling of that user's data. 
 
 To unsubscribe from any mass e-mail communication sent by TicketNews.com, follow the "unsubscribe" instructions located near the bottom of each e-mail. Users experiencing difficulty with the unsubscribe process or continuing to receive unsolicited communications should contact [editorial@ticketnews.com](mailto:editorial@ticketnews.com). Unsubscribe requests must include the name of the newsletter from which the user wishes to be unsubscribed.
 
@@ -86,4 +88,4 @@ If a user feels that we are not abiding by this Privacy Policy, the user should 
    
 **AMENDMENTS**
 
-TicketNews.com reserves the right to amend this policy at any time. Policy changes and updates will be posted on this page. Continued use of the site after policy changes have been posted indicates user acceptance of the updated policy.
+TicketNews reserves the right to amend this policy at any time. Policy changes and updates will be posted on this page. Continued use of the site after policy changes have been posted indicates user acceptance of the updated policy.
