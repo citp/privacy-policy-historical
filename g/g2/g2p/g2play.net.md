@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the g2play.net privacy policy that was archived on 2010-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100513053040id_/http%3A//www.g2play.net/store/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the g2play.net privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527143438id_/http%3A//www.g2play.net/store/Privacy-Policy.html) for the most accurate reproduction.*
 
-# G2PLAY.net :: PRIVACY POLICY
+# G2PLAY.NET - BE SMART, PAY LESS ;) :: PRIVACY POLICY
 
 G2PLAY.net respects your privacy and works hard to safeguard the privacy of your personal data. We realize that the exciting growth of the Internet and online services raise questions concerning the nature, use and confidentiality of information collected about consumers. We want you to know that we apply our long-standing commitment of safeguarding privacy to our online and Internet activities. 
 
