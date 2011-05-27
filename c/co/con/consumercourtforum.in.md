@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the consumercourtforum.in privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230155633id_/http%3A//www.consumercourtforum.in/f65/privacy-policy-4727/%23post7612) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumercourtforum.in privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527085057id_/http%3A//www.consumercourtforum.in/f65/privacy-policy-4727/%23post7612) for the most accurate reproduction.*
 
 # Privacy Policy
 
