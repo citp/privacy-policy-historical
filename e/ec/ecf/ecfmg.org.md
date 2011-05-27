@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecfmg.org privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225023350id_/http%3A//www.ecfmg.org/annc/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecfmg.org privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527033631id_/http%3A//www.ecfmg.org/annc/privacy.html) for the most accurate reproduction.*
 
 # ECFMG | ECFMG Privacy Policy
 
