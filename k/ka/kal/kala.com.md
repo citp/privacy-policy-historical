@@ -1,69 +1,174 @@
-> *The following text is extracted and transformed from the kala.com privacy policy that was archived on 2001-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010616125557id_/http%3A//www.afternic.com/index.cfm%3Fa%3Dhelp%26sa%3Dgetstart%26tab%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kala.com privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527152739id_/http%3A//kala.com/common/advertise/privacy.htm) for the most accurate reproduction.*
 
-# Afternic.com - Getting Started
+# Privacy Policy
 
-Your privacy is very important to us. As part of the normal operation of our business services, we collect and, in some cases, disclose information about you. This Privacy Policy outlines the information that we collect about you and what may happen to that information. The privacy policies of this notice apply to [http://www.Afternic.com](https://web.archive.org/web/20010616125557id_/http%3A//www.afternic.com/index.cfm) (hereafter, the Site).
+### DARK BLUE SEA - PRIVACY POLICY
 
-As described below, some of your personally identifiable information is disclosed to third parties and used by us and third parties. By accepting the User Agreement, you expressly consent to our use and disclosure of your personally identifiable information. This Privacy Policy is incorporated into and subject to the terms of the [AFTERNIC.COM, Inc. User Agreement](https://web.archive.org/web/20010616125557id_/http%3A//www.afternic.com/index.cfm?a=help&sa=getstart&tab=useragreement).
+This Privacy Policy explains why and how we collect certain personal information from our customers and the visitors to our websites, and what we do with that information.
 
-AFTERNIC.COM reserves the right to change its privacy policy from time to time. Before policy changes take effect, however we will post notices prominently.
+The Dark Blue Sea group of companies is part of the Photon Group and offers an exciting range of online products and services including domain name registration, website hosting, domain monetization, domain name resale, expiring and deleted domain name services, reseller services and search engine services.
 
- **1\. Information we collect**  
-If you are merely visiting our site, we collect and store only the following information about you:
+The Dark Blue Sea group comprises a number of companies that includes:
 
-  * The IP address of the terminal from which you access the Internet 
-  * The IP address of the website from which you linked directly to our site 
-  * The date and time you access our site 
-  * The browser you used to access the site 
-  * The operating system you used to access the site 
-
-
-
-We use this information to measure the number of visitors to the different sections of our site, and to help us make our site more useful to visitors.
-
-We will not obtain any other personally identifying information about you when you visit our site, unless you choose to provide such information to us.
-
-As a STANDARD MEMBER or EXCHANGE MEMBER, we collect and store additional information about you. To fully use our services, you will need to register using our online form. You will be required to provide us with your contact information and other personal information such as User ID, email address, and billing address. In addition, as an EXCHANGE MEMBER, you will be required to provide your credit card number and its expiration date. We use this credit card information to verify your name, address, and other personally identifying information as well as to process your transactions.
-
-We automatically track certain information about you based upon your behavior on our site. We use this information to analyze user demographics, interests, and behavior to better understand your preferences and improve your AFTERNIC.COM experience.
-
-Cookies are used on certain pages of our site. We offer certain features that are only available through the use of a cookie. Cookies are stored on your hard drive, not on our site. If your browser permits, you are always free to decline our cookies, but you may not be able to use certain site features and will have to enter your personally identifying information manually more often. If you choose to buy, bid, sell, or appraise on our site, we collect information about these behaviors. 
-
-When you successfully buy or sell a domain name, we collect some additional information including name servers, administrative contacts, business identification, special registrar requirements, billing address, bank account number, and tracking information from checks and money orders. Bank account information is deleted when your transaction closes. 
-
-**2\. How we use your information**  
-We use the information we collect from you to transmit administrative notices, buy/sell information and support, billing information, to send you specific information that you have requested, to process your credit card purchases, and to complete the paperwork necessary to transfer a domain name registration. We may also use it to send you information that is targeted to your interests, such as upcoming auctions and promotions. By accepting the User Agreement, you expressly agree to receive this information. Additionally, on appropriate portions of the site, we may display or archive your user name and system- and user-generated feedback, including the comments you submit and that others submit about you.
-
-If you send us personal correspondence, such as emails or letters, or if third parties such as other users send us correspondence about your activities or postings on the site, we may collect such information into a file with information specific to you. We use this information to support your customer inquiries, settle disputes, enforce our User Agreement, maintain our customer ranking system, troubleshoot problems, and to identify you as eligible for special user campaigns. On rare occasions, we may look across multiple users to identify problems, resolve disputes, and evaluate you for multiple user names.
-
-As a general proposition, we do not sell or rent any personally identifiable information about you to any third party. If you choose to use the optional services available on the site, we will, by necessity, provide some of your personally identifiable information to these service providers. However, you can avoid these disclosures by choosing to not use these services. Because we do not control the privacy practices of these third parties, you should evaluate their practices before deciding to use their services.
-
-Unfortunately, due to the existing regulatory environment, we cannot ensure that all of your private communications and other personally identifiable information will never be disclosed in ways not otherwise described in this Privacy Policy. As an example, without limiting the foregoing, AFTERNIC.COM will provide personal data records if required by the order of any court of competent jurisdiction. We may disclose any information about you to law enforcement or other government officials as we, in our sole discretion, believe necessary or appropriate, in connection with an investigation of fraud, intellectual property infringements, or other activity that is illegal and may expose us to legal liability. Therefore, although we use industry standard practices to protect your privacy, we cannot guarantee, and you should not expect, that your personally identifiable information or private communications will remain private.
-
-**3\. Special note about children**  
-Children are not eligible to use our services. We ask that minors do not submit any personal information to us. 
-
-If you believe your child has errantly submitted personally identifying information on the site, please send us an email message with the name of your child, the email address which the child used to contact us, and the child’s postal address. We will notify you if we have any data matching these identifiers. If you can supply the additional information that we require to authenticate your relationship to the data subject, we will delete the data at your request.
-
-**4\. Your use of other users’ information**  
-In order to facilitate community, our service allows you to access other users’ personal information, such as (but not limited to) user name and listed auctions. Further, as a successful buyer or seller, you will be sent the other data subject’s name, address, email address, phone number, fax number, title, DNS information, and registrar identity information. 
-
-By entering into our User Agreement, you agree that, with respect to other user’s personally identifiable information, you obtain through the Site or through an AFTERNIC.COM-related communication or AFTERNIC.COM-facilitated transaction, AFTERNIC.COM hereby grants you license to use such information only for:
-
-  * AFTERNIC.COM -related communications that are not unsolicited commercial messages, and 
-  
-
-  * Any use that such user expressly opts into after adequate disclosure of the purpose(s).
+  * Dark Blue Sea Pty Ltd ABN 47 091 509 796
+  * Fabulous.com Pty Ltd ABN 64 094 218 443 (operates the business Fabulous Domains)
+  * Fabulous Parking Pty Ltd ABN 16 094 225 091
+  * Fabulous.com.au Pty Ltd ABN 34 139 626 994 (trading as Drop.com.au)
+  * Roar.com Pty Ltd ABN 99 094 225 064
+  * Pageseeker.com Pty Ltd ABN 45 090 513 849
+  * Darkblue.com Pty Ltd ABN 14 094 225 082
+  * Yexa.com Pty Ltd ABN 12 094 225 073
+  * Domain8 Pty Ltd ABN 79 135 424 878
+  * Yexa.com.au Pty Ltd ABN 84 137 606 172
+  * Whois Privacy Services Pty Ltd ABN 65 133 058 741
 
 
 
-Additionally, under no circumstances, except those defined in this section, can you disclose personally identifiable information about another user to any third party without our consent and the consent of such other user after adequate disclosure. Note that law enforcement personnel and other rights holders are given different information access rights.
+#### ABOUT THIS PRIVACY POLICY
 
-AFTERNIC.COM and its users will not tolerate any spam. Without limiting the foregoing, you are not licensed to add any AFTERNIC.COM user, even one with whom you have transacted, to your mail (email or physical) or phone list without their express consent after adequate disclosure.
+This Privacy Policy has been drafted to comply with the National Privacy Principles set out in the _Australian Privacy Act 1988 (Cth)_. More information about the Privacy Act is available on the Australian Privacy Commissioner's website at [http://www.privacy.gov.au](http://www.privacy.gov.au/).
 
-**7\. Reviewing and changing your information**  
-Following registration, you can review the information you submitted via your personal MY AFTERNIC account, including your Username and encoded credit card information. 
+#### WHY WE NEED TO COLLECT PERSONAL INFORMATION
 
-Additionally, you can use your MY AFTERNIC account to review and modify other fields, including first and last name, address information, email address, and password. If you choose to change your email address, we will cross-match your new address in our database for relationship to any other data set. We will only allow unique email addresses to be used for registration.
+Personal information is any information that identifies you or by which your identity can be reasonably determined.
 
-At your discretion, you may review and change all fields in your personal domain name profile records at any time.
+The collection, use and disclosure of personal information is essential to enable us to conduct our business of delivering online products and services to our customers and website visitors. For example most of our products and services require some form of registration or subscription, while others require a payment to be made. Contact details of our customers and website visitors may also be required from time to time to notify them of competition prizes they may have won. 
+
+Some of the personal information we collect, including that obtained from our online enquiry/feedback facilities, is used to help us develop and improve the quality of our products and services, which in turn, provides our customers and website visitors with a more satisfying and enjoyable online experience.
+
+Without collecting and making use of your personal information, we may not be able to provide our online products and services to you.
+
+#### WHAT WE DO WITH YOUR PERSONAL INFORMATION
+
+We use personal information that we collect to conduct our business of delivering online products and services and to continually improve our relationship with you.
+
+In order to do this, we share your personal information with our related companies.
+
+Personal information may be used to enable us to send you online promotional material on our range of products and services. You may at any time notify us that you do not wish to receive this material via the unsubscribe facility accompanying the material. Once you have notified us, we will not send you any further promotional material. 
+
+#### HOW WE COLLECT INFORMATION
+
+**Personal Information provided to us**
+
+We collect and store personal information that is voluntarily provided by our customers as part of doing business with us. Such information may include a customer's full name, date of birth, addresses (including home, postal and email address) and telephone numbers. We also collect and securely store customer's payment details such as their credit card details (where necessary).
+
+We collect this personal information and make use of these details to provide you with our products and services and to better manage our relationship with you.
+
+**Website activity, cookies and related technology**
+
+We provide products and services via a number of different websites. When you view one of our websites, our web server records anonymous information such as the time and date the website is viewed and the web pages/URL's requested. This information assists us to improve the structure of our websites and monitor their performance.  
+We also allow third parties with whom we have entered contractual arrangements ("Advertising Providers") to serve advertising on our websites.  
+We make use of cookies and iframes on our websites and permit Advertising Providers to place and read cookies on end users' browsers. These Advertising Providers may use web beacons or similar technologies to collect information in the course of advertisements being served on our websites.
+
+Cookies are pieces of information that a website transfers to your hard drive for record-keeping purposes. The browser stores the information, and sends the information back to the server each time you request a webpage from the server. The use of cookies is an industry standard, utilized by the majority of website operators.
+
+Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or indicate when a cookie is being sent. However, some parts of our websites, or the products and services provided through our websites, may not function properly or may be considerably slower if you do not enable cookies on your Internet browser.  
+The National Advertising Initiative ("NAI") offers an opt-out tool (located at <http://www.networkadvertising.org/managin/opt_out.asp>) for the purpose of allowing consumers to "opt-out" of the behavioural advertising delivered by its member companies. Some of the third parties with whom we have entered into contractual arrangements are members of NAI.  
+We may have iframes embedded on our websites and may enter into contractual arrangements with third parties so that they may analyse your online behaviour. These iframes allow for the collection of non-personally identifiable information about your website visits.
+
+**IP Addresses**
+
+When you access our websites, our website servers register the type of web browsers that you are using and your IP address.
+
+We collect IP addresses for the purposes of system administration, to report aggregate traffic information to our customers, fraud detection and to generally audit the use of our websites. When you request pages from our websites, our servers may log your IP address.
+
+We do not normally link IP addresses to any personal information, which means that your session will be logged, but you otherwise remain anonymous.
+
+We can and will use your IP address to identify you when it is necessary to enforce compliance with our terms of service or to protect the integrity of our services and websites, as well as to protect our interests and those of our other customers.
+
+Some services provided by us, such as certain message boards, may display IP addresses along with the message poster's name and message. Please review each service prior to use and only use those services if you are comfortable with their methods of collection and disclosure of personal information.
+
+#### WHEN WE DISCLOSE PERSONAL INFORMATION
+
+We take all reasonable steps to protect the personal information we hold from misuse and loss and from unauthorized access, modification or disclosure.
+
+We may disclose your personal information where you have consented to us doing so. This consent may be express (eg. in writing or verbal) or implied from your conduct. There may however be times where we are required to disclose personal information without your consent eg. when it is required or authorized by law.
+
+Personal information that you provide to us may be shared among our related companies. Our related companies are required to keep such information private and confidential and otherwise deal with such personal information strictly in accordance with this Privacy Policy.
+
+In order for us to conduct our business, it is necessary to disclose personal information to third parties. We may provide your personal information to third parties with whom we have contracted to provide administrative or other services, including to our affiliated website operators. We will ensure that these third parties are either bound by the Australian Privacy Act or subject to an equivalent law of another jurisdiction.
+
+When you utilize our domain name registration services, we provide your personal information to the registry operator for the relevant top level domain name for the purpose of inclusion in their registry database and the WHOIS service as well as to a third party providing registrar data escrow services (as required by our registrar accreditation agreement with the Internet Corporation for Assigned Names and Numbers ("ICANN")). The WHOIS service allows Internet users to query a domain name to find out the identity and contact details of the registrant. The public WHOIS service is a standard feature of domain name systems around the world. Please see auDA's WHOIS policy at <http://www.auda.org.au/whois-policy> which sets out auDA's guidelines on the collection, disclosure and use of WHOIS data. Please refer to the relevant TLD/ccTLD authority for specific WHOIS data collection policies. We are unable to provide our domain registration services to you without providing your personal information to these parties.
+
+#### TRANSBORDER FLOW OF PERSONAL INFORMATION
+
+We are in the business of delivering online products and services. The Internet has no boundaries and as such we deal with international organizations and companies such as ICANN, registry operators and other service providers. We reasonably believe that these parties are subject to a law, binding scheme or contract which effectively upholds principles of fair handling of the information that are substantially similar to the National Privacy Principles. Without the transfer overseas to these entities, we will be unable to provide our online products and services to you.
+
+#### EPP SHARING ARRANGEMENTS
+
+Fabulous.com.au Pty Ltd, has with the consent of .au Domain Administration Limited, the Australian Domain Name Administrator ("auDA"), entered into an EPP sharing arrangement with Netstart Pty Ltd ACN 111 018 154, an auDA accredited domain name registrar. "EPP" means the connection which the .au registry operator allows registrars to have to the domain name registry. Via the EPP, it is possible for Fabulous.com.au Pty Ltd, Domain8 Pty Ltd and Yexa.com.au Pty Ltd (formerly Domain Candy Pty Ltd) to have access to the registrant information of domain names managed by Netstart Pty Ltd. For this reason, agreements have been signed to protect registrant privacy and whois integrity.
+
+#### PROTECTING KIDS PRIVACY
+
+We are committed to complying with the provisions of the _Children's Online Privacy Protection Act of 1998_ (United States) and its rules and regulations. We encourage parents and guardians to spend time online with their children and to participate in the activities offered on our websites. 
+
+**Notice to Kids**
+
+If you are under 13 years of age, we must get your parent or guardian's permission before we can collect any personal information about you, such as your name, date of birth and your hobbies. 
+
+You are allowed to give us either your email address, or the email address of your parent or guardian, so that we can contact them and ask for their permission to collect your personal information. 
+
+No other information about you should be given to us, or one of our websites, until your parent or guardian has given you permission. 
+
+**Notice to Parents**
+
+Before your child can access most of the interactive products and services we provide, they are required to provide us with certain information about themselves, for example, their name, date of birth and contact details, so that we can register them as a member. 
+
+However, before we collect this personal information from your child, they are required to provide us with an e-mail address at which you, their parent or guardian can be contacted, so that we can obtain your consent. 
+
+Although users under 13 years of age may be allowed to participate in some contests and promotions, if they win, notification and prizes are sent to the parents or guardians at the address specified in the initial registration process. Publication of contest winners' names, ages, or images for individuals under 13 require parental or guardian consent. 
+
+Subject to the below exemptions, the personal information that we collect from your child will be subject to and dealt with in accordance with the terms of this Privacy Policy. 
+
+No information collected from visitors under 13 years of age is used for any promotional purposes whatsoever, unless expressly stated during the collection of this information or during registration for contests or promotions (and in that case, the information collected is used only for the specific contest or promotion). 
+
+We do not allow visitors under 13 years of age to be listed in our member directory or to receive direct promotional communications from us.
+
+#### LINKS TO OTHER WEBSITES
+
+You should be aware that on our affiliated websites, there are links to third party websites. If you "click" on a banner advertisement, a search result or another type of link contained on one of our sites, the "click" may result in you leaving our site and your browser being redirected to a website owned and controlled by a third party. 
+
+In this case, we recommend that you refer to the privacy policy of the websites you visit. We have no control over, and hence accept no responsibility for, the content of these sites or the actions of the operators in relation to the collection of personal information of users of these sites. 
+
+Whilst we make every reasonable effort to protect the privacy of your personal information, we cannot guarantee the security of any information you disclose online and you do so at your own risk. 
+
+You should keep in mind that whenever you give out personal information online, there is a risk that the information can be intercepted and used by third parties without our knowledge. We are in no way responsible or liable for the misuse of personal information obtained in this manner. 
+
+#### ACCESS AND ACCURACY OF PERSONAL INFORMATION
+
+You may request access to any personal information that we hold about you. All requests will be handled as quickly as possible, and we will endeavour to process any request for access within 30 days of its receipt.
+
+We may refuse access to personal information in certain circumstances such as where the information relates to anticipated legal proceedings with you, where denying access is required or authorized by law, where providing access would be likely to prejudice an investigation by an enforcement body or where the request for access is regarded as frivolous or vexatious. If we deny you access to personal information or refuse to correct personal information, we will give you reasons as to why.
+
+#### ENSURING PERSONAL INFORMATION IS UP-TO-DATE
+
+It is very important that the personal information that we hold about you is complete, accurate and up-to-date. Please notify us immediately if there has been any change to your personal information.
+
+If you register a domain name with us, you will be provided with a unique registry key and/or username/password which may be used to access your personal information as well as to amend/update that personal information.
+
+#### PRIVACY COMPLAINTS
+
+If you believe that we have not protected your personal information in accordance with this Privacy Policy, you can lodge a complaint by:
+
+  * Emailing: privacy@darkbluesea.com
+  * Telephoning: +61 7 3007 0070
+  * Faxing: +61 7 3007 0001
+  * Writing to us at:  
+PO Box 757  
+Fortitude Valley QLD 4006
+
+
+
+If you are not satisfied with the result of your complaint to us, you can refer your complaint to the Australian Privacy Commissioner as follows:
+
+  * Telephoning: +61 1300 363 992
+  * Writing to:  
+Privacy Commissioner  
+GPO Box 5218  
+Sydney NSW 2001
+
+
+
+#### YOUR ACCEPTANCE OF THESE TERMS
+
+By using this website or our affiliated websites, you consent to us collecting, using and disclosing your personal information in accordance with this Privacy Policy (as amended from time to time).
