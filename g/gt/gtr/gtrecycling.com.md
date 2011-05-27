@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gtrecycling.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120190319id_/http%3A//www.gtrecycling.com/contents.php%3Fcmd%3Dcontents%26id%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gtrecycling.com privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527125740id_/http%3A//www.gtrecycling.com/contents.php%3Fcmd%3Dcontents%26id%3D2) for the most accurate reproduction.*
 
 # GreenTech Inkjet and Toner Cartridge Recycling
 
