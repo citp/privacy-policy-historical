@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the prepar3d.com privacy policy that was archived on 2010-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100922134826id_/http%3A//www.prepar3d.com/index.php/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prepar3d.com privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527044553id_/http%3A//www.prepar3d.com/privacy) for the most accurate reproduction.*
 
-# Privacy Notice — Lockheed Martin Prepar3D™
+# Privacy Notice – Lockheed Martin - Prepar3D
 
 This Privacy Notice provides important information about your privacy in connection with your use of Lockheed Martin Corporation websites. Please review it carefully. Your continued use of this website constitutes your agreement with this Privacy Notice and any subsequent updates.
 
@@ -30,22 +30,3 @@ We may update this Privacy Notice periodically without prior notice to reflect c
 
 **How to Contact us  
 **If you have questions relating to this Privacy Notice, or for any questions you might have about our privacy practices, please contact our Privacy Office at [privacy.fc-LM@lmco.com](mailto:privacy.fc-LM@lmco.com).
-
-| 
-
-### Recent Posts
-
-  * [Sensor Sneak Peak](http://www.prepar3d.com/index.php/2010/09/20/sensor-sneak-peak/ "Sensor Sneak Peak")
-       Hi Everyone I have a couple o
-  * [Prepar3D Forum online!](http://www.prepar3d.com/index.php/2010/09/15/prepar3d-forum-online/ "Prepar3D Forum online!")
-    There is now a forum on this site. Pleas
-  * [Update on Pricing and Availability](http://www.prepar3d.com/index.php/2010/09/11/update-on-pricing-and-availability/ "Update on Pricing and Availability")
-    Hi Everyone, There have been lots of 
-  * [Prepar3D Coming Soon!](http://www.prepar3d.com/index.php/2010/09/03/prepar3d-coming-soon/ "Prepar3D Coming Soon!")
-    Hi! I am the Program Manager for Prepar3
-  * [New Site](http://www.prepar3d.com/index.php/2010/08/31/new-site/ "New Site")
-    Welcome to our new site! Over the coming
-
-
-
-[](https://web.archive.org/wp-content/uploads/2010/08/CS00086-60_Prepar3D_Product_Card1.pdf)
