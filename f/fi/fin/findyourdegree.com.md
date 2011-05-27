@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the findyourdegree.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224210337id_/http%3A//www.findyourdegree.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findyourdegree.com privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527165525id_/http%3A//www.findyourdegree.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Earn an Online Degree - Online College Search from Top Online Universities - FindYourDegree.com
 
@@ -59,6 +59,8 @@ We do link this automatically-collected data to personally identifiable informat
 ## Cookies
 
 A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We do use cookies on this site. We do link the information we store in cookies to personally identifiable information you submit while on our site. .We link our cookies to your personally identifiable information so that you may visit, search, and sign-up on our site and return several days later without having to reenter the information. Most Web browsers automatically accept cookies. Browsers usually provide the option to disable this feature. We use cookies in the event it creates a better user experience. We use a third-party service that uses cookies to track non-personally identifiable information about visitors to our site in the aggregate to track usage and volume statistics. We have no access or control of these third party cookies.
+
+We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
 
 ## Access
 
