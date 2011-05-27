@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mage-world.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125092331id_/http%3A//www.mage-world.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mage-world.com privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527145523id_/http%3A//www.mage-world.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The World of Magento
 
@@ -25,5 +25,3 @@ It may be necessary, if required by law or judicial or governmental investigatio
  
 
 We reserve the right to modify this privacy policy at any time. We will promptly reflect any such modifications in the Web page. 
-
- 
