@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the feverishthoughts.com privacy policy that was archived on 2010-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101208042143id_/http%3A//www.feverishthoughts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the feverishthoughts.com privacy policy that was archived on 2011-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110528005041id_/http%3A//www.feverishthoughts.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Tricia's Musings
+# Tricia's Musings - Privacy Policy
 
 **Privacy Policy for Tricia’s Musings**
 
@@ -34,7 +34,7 @@ Google, as a third party vendor, uses cookies to serve ads on this site. Google�
 
 www.feverishthoughts.com has no access to or control over these cookies that are used by third-party advertisers.
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.feverishthoughts.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.feverishthoughts.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. If you would like more information about behavioral advertising and would like to know how to prevent your information from being used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp) (link to the NAI universal user opt-out).
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
@@ -45,5 +45,7 @@ Here are links to some of the most popular web browsers cookie information pages
   * [Opera web browser Cookie information](http://www.opera.com/browser/tutorials/security/)
 
 
+
+I would also like to take a moment to mention that _Tricia’s Musings_ is a participant in the Amazon Services LLC Associates Program, Amazon.com.ca, Inc. Associates Program and the Amazon Europe S.a.r.l. Associates Programme an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com, Amazon.ca, and Amazon.UK.
 
 We reserve the right to make changes to this policy. Any changes to this policy will be posted.
