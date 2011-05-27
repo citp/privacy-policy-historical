@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eventim.co.uk privacy policy that was archived on 2010-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100302123842id_/http%3A//www.eventim.co.uk/cgi-bin/tickets.html%3Faffiliate%3DEUK%26doc%3Dinfo/dataProtection) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eventim.co.uk privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527102627id_/http%3A//www.eventim.co.uk/tickets.html%3Faffiliate%3DEUK%26doc%3Dinfo/dataProtection) for the most accurate reproduction.*
 
-# Tickets & Concert tickets - Concerts Musicals Events
+# Tickets & Concert tickets - Concerts Musicals Events - Eventim.co.uk
 
 ## Eventim Privacy Policy
 
@@ -57,7 +57,20 @@ X. Consumer Protection
 
 These General Terms and Conditions (Internet) are subject to the relevant provisions of The Consumer Protection (Distance Selling) Regulations 2000. 
 
-Last update: 04.08.2008
+XI. Social Network plug-ins
+    
+
+Our web site hosts social plug-ins for the many social networks. 
+
+When a web page containing a social plug-in (such as the ‘Like/Recommend’ or 'Tweet' button) is accessed, the user’s browser connects to the social networks servers and the content required for the social plug-ins is downloaded. The operator of the social network receives the web address of the web site accessed by the user, the date and time of access and the IP address of the user amongst other information. If the user is logged into their social network account, the social network may be able to relate the visit to that page to the user’s social network account. If the user clicks the social network button inside our web site, this information may also be transferred to the social network and stored there. If the user does not wish this information to be sent to the social network, he or she must log out of their social network before visiting our web site. If the user of the web site is not a member of the social network, there is still a possibility that the social network will identify and store the user’s IP address. 
+
+Eventim UK Limited has no control over the content of the plug-ins or of the information transferred to social networks. The purpose and scope of data collection, the further processing and use of the data by the social networks and the user’s rights and setting options to protect the user’s privacy can be found in the privacy policies of the networks, for example: 
+
+Facebook privacy policy at http://www.facebook.com/policyphp  
+Twitter privacy policy at http://twitter.com/privacy  
+AddThis privacy policy at http://www.addthis.com/privacy 
+
+Last update: 05.04.2011
   *[I.]: Romeinse één
   *[II.]: Romeinse twee
   *[III.]: Romeinse drie
@@ -68,3 +81,4 @@ Last update: 04.08.2008
   *[VIII.]: Romeinse acht
   *[IX.]: Romeinse negen
   *[X.]: Romeinse negen
+  *[XI.]: Romeinse negen
