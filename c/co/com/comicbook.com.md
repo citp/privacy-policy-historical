@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the comicbook.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125151725id_/http%3A//comicbook.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comicbook.com privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527084929id_/http%3A//comicbook.com/privacy-policy) for the most accurate reproduction.*
 
-# Comicbook.com — Blog
+# Privacy Policy | Comicbook.com
 
 **COMICBOOK.COM, LLC** **Website Privacy Statement**
 
