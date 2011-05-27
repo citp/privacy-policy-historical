@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the slayo.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127191651id_/http%3A//slayo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slayo.com privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527084156id_/http%3A//slayo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Slayo.com
+
+  
+
 
 **Slayo.com Privacy Statement**
 
@@ -53,6 +56,10 @@ We use third-party advertising companies to serve ads when you visit our website
 **Contact Information**
 
 If you have any questions regarding our privacy policy, please contact us.
+
+#### Incoming search terms for the article:
+
+  * [slayo](http://slayo.com/privacy-policy "slayo")
 
   
 
