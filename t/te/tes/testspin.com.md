@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the testspin.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223114039id_/http%3A//www.testspin.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the testspin.com privacy policy that was archived on 2011-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110528210237id_/http%3A//www.testspin.com/privacypolicy) for the most accurate reproduction.*
 
 # Paid Surveys - Get paid for taking online surveys with TestSpin and earn Amazon gift certificates!
 
