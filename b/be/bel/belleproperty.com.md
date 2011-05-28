@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the belleproperty.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205113150id_/http%3A//www.belleproperty.com/other/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the belleproperty.com privacy policy that was archived on 2011-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110528235340id_/http%3A//www.belleproperty.com/other/privacy.php) for the most accurate reproduction.*
 
-# Privacy | www.belleproperty.com
+# Privacy
 
 At Belle Property your privacy is important to us and as such we ensure that we handle your information in accordance with the National Privacy Principles as set out in the 2000 Privacy Act.
 
