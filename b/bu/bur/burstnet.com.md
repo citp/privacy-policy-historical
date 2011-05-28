@@ -1,12 +1,15 @@
-> *The following text is extracted and transformed from the burstnet.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120073513id_/http%3A//www.burstmedia.com/isl/index.asp%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the burstnet.com privacy policy that was archived on 2011-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110528191725id_/http%3A//www.burstmedia.com/isl/index.asp%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Burst Media Privacy Statement
 
 Effective date: 08/25/2010
 
-Fundamentally, the privacy of web users must be protected and the most effective way to preserve that privacy is to confine their data to the site level. Burst Media as well as Burst adConductor collects no personally identifiable data, and therefore, protects user privacy while eliminating an unnecessary costly feature. Burst's TRUSTe license verifies this privacy stance.
+Fundamentally, the privacy of web users must be protected and the most effective way to preserve that privacy is to confine their data to the site level. Burst Media as well as adConductor collects no personally identifiable data, and therefore, protects user privacy while eliminating an unnecessary costly feature. Burst's TRUSTe license verifies this privacy stance.
 
-| [](http://truste.org/ivalidate.php?url=www.burstmedia.com&sealid=102) | [](http://truste.org/ivalidate.php?url=www.burstmedia.com&sealid=102)  
+| [](https://privacy-policy.truste.com/click-with-confidence/eusafe/en/www.burstmedia.com/seal_m "TRUSTe European Safe Harbor 
+certification")  
+[](https://privacy-policy.truste.com/click-with-confidence/wps/en/www.burstmedia.com/seal_m "TRUSTe online privacy certification") | [](https://privacy-policy.truste.com/click-with-confidence/ctv/en/www.burstmedia.com/seal_m "Validate TRUSTe privacy 
+certification")  
 ---|---|---  
   
 TRUSTe
@@ -114,7 +117,7 @@ If you have any questions about security on our Web site, you can email us at [s
 
 Disclosure
 
-Burst openly volunteers its practices of collecting information, its targeting capabilities, and its use of cookies. If you are a **Burst Publisher** and have any questions pertaining to this privacy policy and its contents, please direct your correspondence to [privacy@burstmedia.com](https://web.archive.org/web/20101120073513id_/http://www.burstmedia.com/privacy@burstmedia.com).
+Burst openly volunteers its practices of collecting information, its targeting capabilities, and its use of cookies. If you are a **Burst Publisher** and have any questions pertaining to this privacy policy and its contents, please direct your correspondence to [privacy@burstmedia.com](https://web.archive.org/web/20110528043711id_/http://www.burstmedia.com/privacy@burstmedia.com).
 
 If you are an **adConductor Customer** and have any questions pertaining to this privacy policy and its contents, please direct your correspondence to [privacy@adConductor.com](mailto:privacy@adConductor.com). 
 
