@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobseekersadvice.com privacy policy that was archived on 2010-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100530052715id_/http%3A//www.jobseekersadvice.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobseekersadvice.com privacy policy that was archived on 2011-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110528055426id_/http%3A//jobseekersadvice.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,7 +10,7 @@ This section will give you a brief overview of the information we do collect and
 
 ** Discussion Forum**
 
-In order to participate on our [discussion forum](https://web.archive.org/web/20100530052715id_/http%3A//www.jobseekersadvice.com/forum2/index.php), you need to register.
+In order to participate on our [discussion forum](https://web.archive.org/web/20110528055426id_/http%3A//jobseekersadvice.com/forum2/index.php), you need to register.
 
 The minimum amount of information you need to do this is to add your email address (you also need to select an username and password to login).  You can also add other details about yourself but this is optional.
 
@@ -40,13 +40,13 @@ We use this information to monitor new additions to the site and gauge their eff
 
 **Free CV Appraisals**
 
-We off a [free CV appraisal service](https://web.archive.org/web/20100530052715id_/http%3A//www.jobseekersadvice.com/cv_advice/free_cv_appraisal.htm) on our discussions forums.
+We off a [free CV appraisal service](https://web.archive.org/web/20110528055426id_/http%3A//jobseekersadvice.com/cv_advice/free_cv_appraisal.htm) on our discussions forums.
 
 We encourage you to not post contact details on your CV - the forum is for feedback only and **not** recruitment.
 
 We will never pass your CV onto any other company or organisation.  However, we have many recruiters and employers on our forums so by posting your CV, they may contact you independently.  It is possible for you to withhold your email address when you register on the forums (ie, hide it from other members), so if you do this, the only way people can contact you is by posting on the public forum.
 
-If you have any comments or concerns about our privacy policy, then feel free to [contact us](https://web.archive.org/web/20100530052715id_/http%3A//www.jobseekersadvice.com/contact_us.htm).
+If you have any comments or concerns about our privacy policy, then feel free to [contact us](https://web.archive.org/web/20110528055426id_/http%3A//jobseekersadvice.com/contact_us.htm).
 
 Best Wishes
 
