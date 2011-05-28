@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the equinix.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225084533id_/http%3A//www.equinix.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the equinix.com privacy policy that was archived on 2011-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110528122623id_/http%3A//www.equinix.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Equinix
 
