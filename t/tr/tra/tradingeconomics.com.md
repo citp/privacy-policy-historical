@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the tradingeconomics.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221063645id_/http%3A//www.tradingeconomics.com/TradingSignals/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradingeconomics.com privacy policy that was archived on 2011-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110528031152id_/http%3A//www.tradingeconomics.com/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Free Economic Indicators Charts, Historical Data, News and Forecasts
+
+**PRIVACY POLICY**
 
 **Security Technology**
 
