@@ -1,46 +1,56 @@
-> *The following text is extracted and transformed from the duluthtrading.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619210010id_/http%3A//www.duluthtrading.com/privacysecurity/privacysecurity.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the duluthtrading.com privacy policy that was archived on 2011-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110528034036id_/http%3A//www.duluthtrading.com/privacysecurity/privacysecurity.aspx) for the most accurate reproduction.*
 
 # Privacy & Security - Duluth Trading Company
 
-[](http://www.duluthtrading.com/)
-
-[](http://www.duluthtrading.com/?sectionpath=186)
+[](http://www.duluthtrading.com/store/home.aspx)
 
   * Clothing & Workwear
     * [Men's](http://www.duluthtrading.com/store/clothes-workwear/mens/mens-clothes-and-footwear.aspx)
     * [Women's](http://www.duluthtrading.com/store/clothes-workwear/womens/womens-clothes-and-footwear.aspx)
   * Departments
-    * [Tools, Shop & Garage](http://www.duluthtrading.com/store/departments/tools-shop/garage-and-shop-tools.aspx)
+    * [Tools Shop & Garage](http://www.duluthtrading.com/store/departments/tools-shop/garage-and-shop-tools.aspx)
     * [Truck & Car](http://www.duluthtrading.com/store/departments/truck-car/organization-truck-car.aspx)
-    * [Recreation](http://www.duluthtrading.com/store/departments/recreation-travel-and-outdoor/recreation-travel-and-outdoor.aspx)
     * [Specialty Shops](http://www.duluthtrading.com/store/departments/-specialty-shops/-specialty-shops.aspx)
+    * [Gifts](http://www.duluthtrading.com/store/departments/gifts/gifts.aspx)
     * [New Arrivals](http://www.duluthtrading.com/store/departments/new-arrivals-work-clothes-gear/new-arrivals-work-clothes-gear.aspx)
     * [Sale](http://www.duluthtrading.com/store/departments/clearance-sale-work-wear-gear/clearance-sale-work-wear-gear.aspx)
   * Duluth Ingenuity
+    * [From A to Zipper](http://www.duluthtrading.com/store/duluth-ingenuity/from-a-to-zipper/from-a-to-zipper.aspx)
     * [Longtail Shirts](http://www.duluthtrading.com/store/duluth-ingenuity/longtail-ts-longtail-shirts/longtail-ts-longtail-shirts.aspx)
     * [Fire Hose Workwear](http://www.duluthtrading.com/store/duluth-ingenuity/fire-hose-clothes-apparel/fire-hose-clothes-apparel.aspx)
+    * [BuckNaked Underwear](http://www.duluthtrading.com/store/duluth-ingenuity/buck-naked-underwear/buck-naked-underwear.aspx)
     * [Ballroom Jeans](http://www.duluthtrading.com/store/duluth-ingenuity/gusseted-ballroom-jeans/gusseted-ballroom-jeans.aspx)
+    * [F.O.M. Shirts](http://www.duluthtrading.com/store/duluth-ingenuity/freedom-of-movement-shirts/freedom-of-movement-shirts.aspx)
+    * [DTPro Gloves & Gear](http://www.duluthtrading.com/store/duluth-ingenuity/dtpro-gloves-and-gear/dtpro-gloves-and-gear.aspx)
     * [Sweat Survival](http://www.duluthtrading.com/store/duluth-ingenuity/sweat-survival/sweat-survival.aspx)
+    * [Everyday Workwear](http://www.duluthtrading.com/store/duluth-ingenuity/everyday-workwear/everyday-workwear.aspx)
 
 
   * Inside Duluth
-    * [Workwear Ingenuity](http://www.duluthtrading.com/store/about-duluth/workwear-tough-as-tools/workwear.aspx)
+    * [Flagship Store](http://www.duluthtrading.com/store/about-duluth/flagship-retail-store/flagship-retail-store.aspx)
     * [Lore](http://www.duluthtrading.com/store/about-duluth/lore/lore.aspx)
     * [Meet the Trades Panel](http://www.duluthtrading.com/store/about-duluth/tradespanel/tradespanel.aspx)
+    * [Notes from the Field](http://www.duluthtrading.com/store/about-duluth/customer-stories/customer-stories.aspx)
     * [Duluth Real Women](http://www.duluthtrading.com/store/about-duluth/real-women/real-women.aspx)
+    * [Habitat Builds](http://www.duluthtrading.com/store/about-duluth/habitat-builds/habitat-builds.aspx)
+    * [Watch This!](http://www.duluthtrading.com/store/about-duluth/view-duluth-ads/view-duluth-ads.aspx)
   * Help
+    * [Customer Service](http://www.duluthtrading.com/store/help/customer-service/customer-service.aspx)
     * [Wish List](http://www.duluthtrading.com/store/help/wishlist/wishlistlogin.aspx)
-    * [Customer Service](http://www.duluthtrading.com/store/help/customerservice/customerservice.aspx)
     * [Gift Cards](http://www.duluthtrading.com/store/help/gift-services/help-gift-services.aspx)
+    * [Gift Services](http://www.duluthtrading.com/store/help/-gift-services/-gift-services.aspx)
     * [Get the Catalog](http://www.duluthtrading.com/store/help/catalog/catalog.aspx)
+    * [Sizing Charts](http://www.duluthtrading.com/store/help/size-charts/size-charts.aspx)
+    * [Big & Tall](http://www.duluthtrading.com/store/help/big-sizes-tall-sizing/big-sizes-tall-sizing.aspx)
+    * [Product Reviews](http://www.duluthtrading.com/store/help/product-reviews/product-reviews.aspx)
 
 | | | 
 
-[100% Guarantee](http://www.duluthtrading.com/footer/guarantee/guarantee.aspx)
+[No Bull Guarantee](http://www.duluthtrading.com/store/help/customer-service/satisfaction-guarantee/satisfaction-guarantee.aspx)
 
-| [Customer Service](http://www.duluthtrading.com/customerservice/customerservice.aspx)| [My Account](https://web.archive.org/?processor=asp&asp_processor=store&action=gotologin)| [Cart](http://www.duluthtrading.com/default.asp?sectionpath=193/194&processor=asp&asp_processor=store&action=loadcart)| [](http://www.duluthtrading.com/default.asp?sectionpath=193/194&processor=asp&asp_processor=store&action=loadcart)| [(0) Items](http://www.duluthtrading.com/default.asp?sectionpath=193/194&processor=asp&asp_processor=store&action=loadcart)  
+| [Customer Service](http://www.duluthtrading.com/store/help/customer-service/customer-service.aspx)| [My Account](https://www.duluthtrading.com/default.asp?processor=asp&asp_processor=store&action=gotologin&t=EF46D552)| [Cart](http://www.duluthtrading.com/store/cart.aspx)| [](http://www.duluthtrading.com/store/cart.aspx)| [(0) Items](http://www.duluthtrading.com/store/cart.aspx)  
 ---|---|---|---|---|---|---  
-[](http://www.duluthtrading.com/store/clothes-workwear/mens/mens-clothes-and-footwear.aspx)| [](http://www.duluthtrading.com/store/clothes-workwear/womens/womens-clothes-and-footwear.aspx)| [](http://www.duluthtrading.com/store/departments/tools-shop/garage-and-shop-tools.aspx)| [](http://www.duluthtrading.com/store/departments/truck-car/organization-truck-car.aspx)| [](http://www.duluthtrading.com/store/departments/recreation-travel-and-outdoor/recreation-travel-and-outdoor.aspx)| [](http://www.duluthtrading.com/store/departments/-specialty-shops/-specialty-shops.aspx)| [](http://www.duluthtrading.com/store/departments/new-arrivals-work-clothes-gear/new-arrivals-work-clothes-gear.aspx)| [](http://www.duluthtrading.com/store/departments/clearance-sale-work-wear-gear/clearance-sale-work-wear-gear.aspx)  
+[](http://www.duluthtrading.com/store/clothes-workwear/mens/mens-clothes-and-footwear.aspx)| [](http://www.duluthtrading.com/store/clothes-workwear/womens/womens-clothes-and-footwear.aspx)| [](http://www.duluthtrading.com/store/departments/tools-shop/garage-and-shop-tools.aspx)| [](http://www.duluthtrading.com/store/departments/truck-car/organization-truck-car.aspx)| [](http://www.duluthtrading.com/store/departments/-specialty-shops/-specialty-shops.aspx)| [](http://www.duluthtrading.com/store/departments/gifts/gifts.aspx)| [](http://www.duluthtrading.com/store/departments/new-arrivals-work-clothes-gear/new-arrivals-work-clothes-gear.aspx)| [](http://www.duluthtrading.com/store/departments/clearance-sale-work-wear-gear/clearance-sale-work-wear-gear.aspx)  
 ---|---|---|---|---|---|---|---  
   
 ---  
