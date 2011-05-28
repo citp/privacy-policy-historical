@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the seatgeek.com privacy policy that was archived on 2010-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100314040533id_/http%3A//seatgeek.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seatgeek.com privacy policy that was archived on 2011-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110529001650id_/http%3A//seatgeek.com/privacy) for the most accurate reproduction.*
 
-# SeatGeek | Ticket price forecasts and the best ticket deals
+# Privacy Policy | SeatGeek
 
-If you have questions or concerns regarding this statement, you should first contact the SeatGeek administrators at [admin@SeatGeek.com](mailto:admin@SeatGeek.com).
+If you have questions or concerns regarding this statement, you should first contact the SeatGeek administrators at [hi@SeatGeek.com](mailto:hi@SeatGeek.com).
 
 ## We are committed to protecting your privacy and creating a safe and secure online environment for anyone who visits and buys on our Site.
 
-SeatGeek shares your concern about the protection of your personal information online. This is our policy regarding the privacy of information we collect on our web site located at www.SeatGeek.com (the "Site"). This Privacy Policy includes examples of the types of personal information we collect and the kinds of companies with whom we share such information. These examples are illustrative and should not be considered a complete inventory of our information collection, use and sharing practices. We will comply with applicable Pennsylvania state laws that may restrict the types of information we may disclose about you or require us to provide you with additional notices. Certain services, which you may access on the Site, are provided by our third party partners, and protection of your information relating to such services will be governed by the privacy policy of such third party. By accessing, browsing and using the Site, you acknowledge that you read, understood and agreed to the Privacy Policy described herein.
+SeatGeek shares your concern about the protection of your personal information online. This is our policy regarding the privacy of information we collect on our web site located at www.SeatGeek.com (the "Site"). This Privacy Policy includes examples of the types of personal information we collect and the kinds of companies with whom we share such information. These examples are illustrative and should not be considered a complete inventory of our information collection, use and sharing practices. We will comply with applicable Pennsylvania state laws that may restrict the types of information we may disclose about you or require us to provide you with additional notices. Certain services, which you may access on the Site, are provided by our third party partners, and protection of your information relating to such services will be governed by the privacy policy of such third parties. By accessing, browsing and using the Site, you acknowledge that you read, understood and agreed to the Privacy Policy described herein.
 
 ## Information We Collect
 
@@ -52,7 +52,7 @@ If you chose to opt in to receive promotional or information emails from SeatGee
 
 If you choose to use our referral service to tell a friend about our site, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the Site. SeatGeek stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program.
 
-Your friend may contact us at [admin@SeatGeek.com](mailto:admin@SeatGeek.com) to request that we remove this information from our database.
+Your friend may contact us at [hi@SeatGeek.com](mailto:hi@SeatGeek.com) to request that we remove this information from our database.
 
 ### Future Business Transfers
 
@@ -76,7 +76,7 @@ SeatGeek also uses a third-party advertising company to serve ads when you visit
 
 ## How You Can Access or Change Your Personally Identifiable Information
 
-SeatGeek understands that you may want to change or access your Personal Data. SeatGeek.com collects email addresses, names, and other personally identifiable information from users who register at SeatGeek.com. To change your personally identifiable information, sign in and go to your "My account" page. You may submit requests to change or remove Personal Data by emailing [admin@SeatGeek.com](mailto:admin@SeatGeek.com).
+SeatGeek understands that you may want to change or access your Personal Data. SeatGeek.com collects email addresses, names, and other personally identifiable information from users who register at SeatGeek.com. To change your personally identifiable information, sign in and go to your "My account" page. You may submit requests to change or remove Personal Data by emailing [hi@SeatGeek.com](mailto:hi@SeatGeek.com).
 
 ## Amendments to this Privacy Policy
 
@@ -88,6 +88,6 @@ Persons under the age of 18 are not eligible to use any services on our Site. Se
 
 ## How to Contact Us
 
-Should you have any questions, concerns or comments please email us at [admin@SeatGeek.com](mailto:admin@SeatGeek.com).
+Should you have any questions, concerns or comments please email us at [hi@SeatGeek.com](mailto:hi@SeatGeek.com).
 
 © 2009 SeatGeek, all rights reserved. SEATGEEK, and SEATGEEK are trade marks of SeatGeek. 
