@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indonesiancupid.com privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126113156id_/http%3A//www.indonesiancupid.com/Privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indonesiancupid.com privacy policy that was archived on 2011-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110528033702id_/http%3A//www.indonesiancupid.com/Privacy.cfm) for the most accurate reproduction.*
 
 # IndonesianCupid.com | Privacy Policy
 
@@ -170,7 +170,7 @@ and such other Security measures as we consider reasonable.
 
 We will take reasonable steps to destroy or permanently de-identify Personal Information if it is no longer needed for any Purpose, in a secure manner.
 
-**6\. OPENNES**
+**6\. OPENNESS**
 
 **6.1 Provide Policy**
 
@@ -370,7 +370,7 @@ that is also Personal Information; or
 
 Name
 
-**: Cupid Media Pty Ltd (ACN 104 844 564), which shall include any related body corporate or associate (as those terms are defined in the Corporations Act 2001 (Cth)) of Cupid Media Pty Ltd.  
+**: Cupid Media Pty Ltd (ACN 104 844 564 begin_of_the_skype_highlighting              104 844 564      end_of_the_skype_highlighting), which shall include any related body corporate or associate (as those terms are defined in the Corporations Act 2001 (Cth)) of Cupid Media Pty Ltd.  
 **Address** : PO Box 9304, Gold Coast MC Qld 9726  
 **Phone** : 61 7 5571 1181  
 **Fax Number** : 61 7 3103 4000  
