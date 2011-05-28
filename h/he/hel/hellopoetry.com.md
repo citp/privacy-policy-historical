@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the hellopoetry.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125225904id_/http%3A//hellopoetry.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hellopoetry.com privacy policy that was archived on 2011-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110528021732id_/http%3A//hellopoetry.com/privacy) for the most accurate reproduction.*
 
-# Privacy - Hello Poetry
+# Privacy policy — Hello Poetry
+
+## Privacy policy
 
 We respect your right to privacy.
 
@@ -40,4 +42,4 @@ _People under 13 are not permitted to use Hello Poetry on their own, and so this
 
 ### Questions
 
-If you have questions or suggestions you can contact us at: [hello@hellopoetry.com](mailto:hello@hellopoetry.com)
+If you have questions or suggestions you can contact us at: [@hellopoetry.com](mailto:)
