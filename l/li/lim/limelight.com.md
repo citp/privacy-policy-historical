@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the limelight.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529213455id_/http%3A//www.limelightnetworks.com/content-delivery-company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the limelight.com privacy policy that was archived on 2011-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110528205828id_/http%3A//www.limelightnetworks.com/content-delivery-company/privacy) for the most accurate reproduction.*
 
 # Privacy | Limelight Networks
 
 ## Privay Policy
 
-Welcome to the Limelight Networks (”Limelight”) web site (www.limelightnetworks.com), and any other web sites, networks, applications, or services operated or produced by Limelight (collectively, the “Limelight Platform”). Limelight values the privacy of the users, subscribers, publishers, members, and others who visit and use the Limelight Platform (collectively or individually, “you” or “Users”). 
+Welcome to the Limelight Networks (“Limelight”) web site (www.limelightnetworks.com), and any other web sites, networks, applications, or services operated or produced by Limelight (collectively, the “Limelight Platform”). Limelight values the privacy of the users, subscribers, publishers, members, and others who visit and use the Limelight Platform (collectively or individually, “you” or “Users”). 
 
 By using the Limelight Platform, you expressly consent to the information handling practices described in this Privacy Policy. If you do not agree with our Privacy Policy, please do not use the Limelight Platform. 
 
@@ -16,7 +16,8 @@ If you have questions or concerns regarding this statement, you should first con
 
 TRUSTe will then serve as a liaison with us to resolve your concerns.
 
-Limelight Networks, Inc. complies with the EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union.  
+[](https://privacy-policy.truste.com/click-with-confidence/eusafe/en/www.limelightnetworks.com)Limelight Networks, Inc. complies with the EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union.
+
 The TRUSTe program only covers information that is collected through this Web site, and does not cover information that may be collected through any software downloaded from this web site.
 
 TABLE OF CONTENTS
@@ -42,7 +43,7 @@ Limelight also provides an area for people looking for a job at Limelight Networ
 
 “Cookies” Information: When you access the Limelight Platform, we may send one or more cookies – small text files containing a string of alphanumeric characters – to your computer. Limelight may use both session cookies and persistent cookies. A session cookie disappears after you close your browser. A persistent cookie remains after you close your browser and may be used by your browser on subsequent visits to the Limelight Platform. Persistent cookies can be removed. Please review your web browser “Help” file to learn the proper way to modify your cookie settings. Our cookies are linked to personal information. Some of our business partners (e.g. advertisers) use cookies and other tracking technologies on our site. We have no access to or control over these cookies. This Privacy Policy covers the use of cookies by Limelight only and does not cover the use of cookies by any advertisers. 
 
-“Automatically Collected” Information: When you access the Limelight Platform or open one of our HTML emails, we may automatically record certain information from your system by using different types of tracking technology. This “automatically collected” information may include Internet Protocol address (”IP Address”), a unique user ID, version of software installed, system type, screen resolutions, color capabilities, plug–ins, language settings, cookie preferences, search engine keywords, JavaScript enablement, the content and pages that you access on the Limelight Platform, and the dates and times that you visit the Limelight Platform, paths taken, and time spent on sites and pages. 
+“Automatically Collected” Information: When you access the Limelight Platform or open one of our HTML emails, we may automatically record certain information from your system by using different types of tracking technology. This “automatically collected” information may include Internet Protocol address (“IP Address”), a unique user ID, version of software installed, system type, screen resolutions, color capabilities, plug–ins, language settings, cookie preferences, search engine keywords, JavaScript enablement, the content and pages that you access on the Limelight Platform, and the dates and times that you visit the Limelight Platform, paths taken, and time spent on sites and pages. 
 
 Limelight uses the information that you provide or that we collect to operate, maintain, enhance, and provide all of the features and services found on the Limelight Platform, to allow us to charge and invoice you, as well as to track user–generated content and Users to the extent necessary to comply as a service provider with the Digital Millennium Copyright Act. 
 
