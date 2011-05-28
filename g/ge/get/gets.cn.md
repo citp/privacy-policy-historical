@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gets.cn privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225045848id_/http%3A//www.gets.cn/Privacy_Policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gets.cn privacy policy that was archived on 2011-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110528092803id_/http%3A//www.gets.cn/Privacy_Policy.php) for the most accurate reproduction.*
 
 # Privacy Policy and Guarantee
 
@@ -25,13 +25,13 @@ We may use your IP address to help diagnose problems with our server and to admi
 
 To enhance your shopping experience, our site uses cookies. Cookies are alpha-numeric identifiers that are transferred to your computer's hard drive through your web browser. Cookies make it possible for us to recognize you when you visit. By doing this, we can personalize your return visits and save you time during checkout. For the most rewarding shopping experience, your browser must be set to accept cookies. 
 
-You may, from time to time, receive information from us about new features, new services and special offers we think you'll find valuable. If you'd like to opt out of receiving future email offers from Fire Mountain Gems and Beads, please log in to your account. You will see a number of options for maintaining your account. Select “Change how often you wish to receive email offers.” You’ll see your current selection and a number of options for changing the frequency of emails or opting out. We may share your mailing address with reputable businesses that can provide you with valuable, relevant offers and information. If you do not wish to have your name shared with these carefully screened businesses, please call customer service at 86-10-67628263 or 86-10-67639955. 
+You may, from time to time, receive information from us about new features, new services and special offers we think you'll find valuable. If you'd like to opt out of receiving future email offers from Fire Mountain Gems and Beads, please log in to your account. You will see a number of options for maintaining your account. Select “Change how often you wish to receive email offers.” You’ll see your current selection and a number of options for changing the frequency of emails or opting out. We may share your mailing address with reputable businesses that can provide you with valuable, relevant offers and information. If you do not wish to have your name shared with these carefully screened businesses, please call customer service at 86-10-67653322 or 86-10-67639955. 
 
 This site may now, or in the future, contain links to other sites. Milky Way Jewelry ( Gets.cn )is not responsible for the privacy practices or content of such sites. 
 
 By using our web site or purchasing product from us, you agree to the collection and use of information as set forth in this privacy policy. This policy may be updated at any time. We will post any changes to our privacy policy on this page so that you are always aware of what information we collect and how we use it. 
 
-If, at any time, you have questions or concerns about Gets.cn privacy policy, please feel free to email us at: sales@gets.cn or call customer service, toll-free, at 86-10-67628263 or 86-10-67639955 to speak to one of our friendly Customer Service representatives. 
+If, at any time, you have questions or concerns about Gets.cn privacy policy, please feel free to email us at: sales@gets.cn or call customer service, toll-free, at 86-10-67653322 or 86-10-67639955 to speak to one of our friendly Customer Service representatives. 
 
 Popups and Spam 
 
