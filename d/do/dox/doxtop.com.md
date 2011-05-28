@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doxtop.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204103312id_/http%3A//www.doxtop.com/legals/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doxtop.com privacy policy that was archived on 2011-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110528223736id_/http%3A//www.doxtop.com/legals/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy | doXtop
 
