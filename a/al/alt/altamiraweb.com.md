@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the altamiraweb.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227184830id_/http%3A//www.altamirahrm.com/resolveuid/d0f04759d0818c3fa9761b760c437ae5) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the altamiraweb.com privacy policy that was archived on 2011-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110528154056id_/http%3A//www.altamirahrm.com/en/resolveuid/d0f04759d0818c3fa9761b760c437ae5) for the most accurate reproduction.*
 
-# Privacy — Altamira - On Demand HRM Platforms
+# Privacy — Altamira Recruitment and Employee management software
 
 Our policy regarding the handling of personal data 
 
