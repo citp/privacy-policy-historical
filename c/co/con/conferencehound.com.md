@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the conferencehound.com privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202045143id_/http%3A//conferencehound.com/about/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conferencehound.com privacy policy that was archived on 2011-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110528024008id_/http%3A//conferencehound.com/about/privacy_policy) for the most accurate reproduction.*
 
-# Conference Hound Privacy Policy
+# Conference Hound Privacy Policy | Conference Hound
 
-Last Updated: March 27, 2010
+Last Updated: February 13, 2011
 
 ## Information Collection
 
 Users are not required to first register an account with Conference Hound in order to search and retrieve conference information, or to use the majority of the site. We may choose to store the IP addresses of these users. 
 
-Users have an option of logging in with their Facebook account in order to access enhanced site features that require user sign-in. For these users, we access and store information from their Facebook user account, such as name, country of residence, zip code, birthdate, and more. We may also optionally collect usage information that will be used to customize the content and/or layout of our page for each individual visitor, as well as used to improve the Conference Hound site and our service. This information is not shared with other organizations for commercial purposes without user consent. 
+Users have an option of logging in with their external LinkedIn, Twitter, and Facebook accounts in order to access enhanced site features that require user sign-in. For these users, we access and store information from their external user accounts, such as name, country of residence, zip code, birthdate, and more. We may also optionally collect usage information that will be used to customize the content and/or layout of our page for each individual visitor, as well as used to improve the Conference Hound site and our service. This information is not shared with other organizations for commercial purposes without user consent. 
 
 Conference Hound does not store any user passwords at any time. 
 
