@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lornajane.com.au privacy policy that was archived on 2010-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100928052235id_/http%3A//www.lornajane.com.au/terms-links/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lornajane.com.au privacy policy that was archived on 2011-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110529000404id_/http%3A//www.lornajane.com.au/terms-links/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Lorna Jane
 
