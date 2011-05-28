@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vans.co.uk privacy policy that was archived on 2010-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100607171210id_/http%3A//www.vans.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vans.co.uk privacy policy that was archived on 2011-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110528234813id_/http%3A//www.vans.co.uk/privacy) for the most accurate reproduction.*
 
-# Vans — PRIVACY
+# Vans United Kingdom Skate Shoes, Girls, Apparel, Kids, Skateparks, Contests, Music and more!
 
 We, VF International SAGL, Via Senago 42/e, 6912 Pazzallo, Switzerland, operate the website at [www.vans.eu](http://www.vans.eu/) and are committed to respecting your privacy.  
 We provide this Privacy Statement to make you aware of our privacy policy and practices and of the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on [www.vans.eu](http://www.vans.eu/).
