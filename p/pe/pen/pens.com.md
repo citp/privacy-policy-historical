@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the pens.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228101449id_/http%3A//pens.com/pens/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pens.com privacy policy that was archived on 2011-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110528202355id_/http%3A//www.pens.com/site/content/privacy.jsp) for the most accurate reproduction.*
 
-# National Pen – Privacy Policy
+# Privacy Policy | National Pen Company - Your image is our business
+
+## Privacy Policy - National Pen Respects Your Privacy
 
 What information does National Pen collect?  
 Our primary purpose in collecting personal information is to provide you with a safe, smooth, efficient, and customized experience. This allows us to provide services and features that most likely meet your needs, and to customize our service to make your experience safer and easier. We only collect personal information about you that we consider necessary for achieving this purpose.
@@ -33,4 +35,4 @@ National Pen Company uses industry standard efforts to safeguard the confidentia
 Your information is stored on National Pen Company's servers located in the United States. We use industry standard safeguards to protect your personal information against loss or theft as well as unauthorized access and disclosure to protect your privacy. We treat data as an asset that must be protected against loss and unauthorized access. We employ many different security techniques to protect such data from unauthorized access by users inside and outside the company.
 
 Terms and Conditions of Use  
-View [Terms and Conditions](https://web.archive.org/pens/conditions) of Use of National Pen and pens.com.
+View [Terms and Conditions](http://www.pens.com/site/content/conditions.jsp) of Use of National Pen and pens.com.
