@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 2-surf.net privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227105040id_/http%3A//www.2-surf.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2-surf.net privacy policy that was archived on 2011-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110528060751id_/http%3A//www.2-surf.net/privacy.php) for the most accurate reproduction.*
 
 # Home | 2-surf.net
 
