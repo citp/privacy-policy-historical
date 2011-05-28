@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the applicantstack.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222012841id_/http%3A//www.applicantstack.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the applicantstack.com privacy policy that was archived on 2011-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110528020437id_/http%3A//www.applicantstack.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy « ApplicantStack
 
