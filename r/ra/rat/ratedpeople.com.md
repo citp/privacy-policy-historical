@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ratedpeople.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229230931id_/http%3A//www.ratedpeople.com/m/legal/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ratedpeople.com privacy policy that was archived on 2011-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110528213255id_/http%3A//www.ratedpeople.com/jobform/overlay/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy - Rated People
+# None
 
 ## 
 
@@ -61,10 +61,10 @@ back to top
 
 ## 6\. Access to information
 
-Please [contact us](https://web.archive.org/web/20101229230931id_/http%3A//www.ratedpeople.com/m/legal/$%7Blink:%7Buuid:%7Bd9d931a9-c04a-4793-82e5-11d2341ea2db%7D,repository:%7Bwebsite%7D,handle:%7B/help/contact-us%7D,nodeData:%7B%7D,extension:%7Bhtml%7D%7D%7D) if you would like to know what information we are storing about you. We may ask for proof of identity before providing you with any information requested and reserve the right to refuse to provide information if identity is not established.
+Please [contact us](https://web.archive.org/m/help/contact-us.html) if you would like to know what information we are storing about you. We may ask for proof of identity before providing you with any information requested and reserve the right to refuse to provide information if identity is not established.
 
 Any changes to this policy will be posted on this Website
 
-If you have any further comments or questions regarding our [User Agreement](https://web.archive.org/web/20101229230931id_/http%3A//www.ratedpeople.com/m/legal/$%7Blink:%7Buuid:%7Bece843a0-ab1b-4b3c-9470-93448f9677f3%7D,repository:%7Bwebsite%7D,handle:%7B/legal/user-agreement%7D,nodeData:%7B%7D,extension:%7Bhtml%7D%7D%7D), [Payment Terms](https://web.archive.org/web/20101229230931id_/http%3A//www.ratedpeople.com/m/legal/$%7Blink:%7Buuid:%7Be9a95d5c-0dbd-4d4a-b392-0ce1856970d1%7D,repository:%7Bwebsite%7D,handle:%7B/legal/payment-terms%7D,nodeData:%7B%7D,extension:%7Bhtml%7D%7D%7D) or [Ratings Guide](https://web.archive.org/web/20101229230931id_/http%3A//www.ratedpeople.com/m/legal/$%7Blink:%7Buuid:%7Ba1fb4dfa-b71a-49b2-ac64-2a5dc119e112%7D,repository:%7Bwebsite%7D,handle:%7B/help/faqs/ratings-guide%7D,nodeData:%7B%7D,extension:%7Bhtml%7D%7D%7D) then please [contact us](https://web.archive.org/web/20101229230931id_/http%3A//www.ratedpeople.com/m/legal/$%7Blink:%7Buuid:%7Bd9d931a9-c04a-4793-82e5-11d2341ea2db%7D,repository:%7Bwebsite%7D,handle:%7B/help/contact-us%7D,nodeData:%7B%7D,extension:%7Bhtml%7D%7D%7D) \- we're ready to help.
+If you have any further comments or questions regarding our [User Agreement](https://web.archive.org/m/legal/user-agreement.html), [Payment Terms](https://web.archive.org/m/legal/payment-terms.html) or [Ratings Guide](https://web.archive.org/m/help/faqs/ratings-guide.html) then please [contact us](https://web.archive.org/m/help/contact-us.html) \- we're ready to help.
 
 back to top
