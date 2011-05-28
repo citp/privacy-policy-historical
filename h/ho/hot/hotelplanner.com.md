@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the hotelplanner.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230205425id_/http%3A//www.hotelplanner.com/Privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotelplanner.com privacy policy that was archived on 2011-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110528051408id_/http%3A//www.hotelplanner.com/Privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy - Hotel Planner always protects your privacy when you book your reunion, conference, or any group event.
 
 Information Collection and Use 
 
-Lexyl Travel Technologies, Inc is the sole owner of the information collected on this Web site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. Lexyl collects information from its users at several different points on its Web site. 
+Lexyl Travel Technologies, LLC is the sole owner of the information collected on this Web site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. Lexyl collects information from its users at several different points on its Web site. 
 
 Registration 
 
