@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobilitypass.com privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213195301id_/http%3A//www.mobilitypass.com/index.php%3Froute%3Dinformation/information%26information_id%3D58) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobilitypass.com privacy policy that was archived on 2011-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110528213752id_/http%3A//www.mobilitypass.com/index.php%3Froute%3Dinformation/information%26information_id%3D58) for the most accurate reproduction.*
 
 # Privacy Policy
 
