@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the marist.edu privacy policy that was archived on 2010-12-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101229134929id_/http%3A//www.marist.edu/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the marist.edu privacy policy that was archived on 2011-05-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110528213933id_/http%3A//www.marist.edu/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <title>Privacy Policy: Marist College</title>
@@ -11,9 +11,24 @@
 <link rel="stylesheet" type="text/css" media="print" href="/css/sub-print.css">
 <link rel="stylesheet" type="text/css" media="handheld" href="/css/sub-handheld.css">
 <link rel="stylesheet" type="text/css" media="screen,projection,handheld" href="/menu/udm-style.php">
-<script type="text/javascript" src="/includes/prototype.js"></script>
-<script type="text/javascript" src="/includes/scriptaculous.js?load=effects,controls"></script><script type="text/javascript" src="https://web.archive.org/includes/effects.js"></script><script type="text/javascript" src="https://web.archive.org/includes/controls.js"></script>
+<script type="text/javascript" src="/includes/jquery.min.js"></script>
+<script type="text/javascript" src="/includes/jquery.autoSuggest.js"></script>
 <script type="text/javascript" src="/includes/common.js"></script>
+<script type="text/javascript">
+$(document).ready(function() {
+        $("#autocomplete").autoSuggest({
+                ajaxFilePath : "/webapps/autocomplete/", // path to the ajax server file
+                ajaxParams   : "dummydata=dummyData", // attach all other extra parameters to send to ajaxFilepath
+                autoFill         : false,   // true, false
+                width            : "auto", // auto(obj width), any integer eg : 100px;
+                opacity          : "0.9", // opacity can be anything from 0.1 to 1.0
+                limit            : "10",   // auto(10 records), any integer
+                idHolder         : "id-holder",   // auto(10 records), any integer
+                match            : "contains" // starts,contains,ends
+        });
+	$("#autocomplete").attr("autocomplete","off"); 
+});
+</script>
 </head>
 <body>
 <script type="text/javascript" src="/menu/udm-dom.php"></script>
@@ -26,7 +41,7 @@
    <h1 id="logo">Marist College</h1></div> 
   <div id="topbar_search">
    <form method="get" id="searchbox_011686685756761272083:t9l2p2gvaj4" action="/search/">
-    <div><input type="hidden" name="cx" value="011686685756761272083:t9l2p2gvaj4"><input type="text" id="autocomplete" size="40" name="q" onclick="this.value=''" autocomplete="off"><div id="autocomplete_choices" class="autocomplete" style="display: none;"></div><script type="text/javascript">new Ajax.Autocompleter("autocomplete", "autocomplete_choices", "/webapps/autocomplete/", {paramName: "q", timeout: .4, minChars: 1});</script><input class="button" type="submit" name="sa" value="Search"><input type="hidden" name="cof" value="FORID:11"></div>
+    <div><input type="hidden" name="cx" value="011686685756761272083:t9l2p2gvaj4"><input type="text" id="autocomplete" size="40" name="q" onclick="this.value=''" autocomplete="off"><input class="button" type="submit" name="sa" value="Search"><input type="hidden" name="cof" value="FORID:11"></div>
    </form>
   </div>
  </div> 
@@ -41,9 +56,10 @@
      <li><a href="/about/history.html">History &amp; Heritage</a></li>
      <li><a href="/about/visit.html">Visitors' Center</a></li>
      <li><a href="/about/glance.html">Marist at a Glance</a></li>
-     <li><a href="/about/pdfs/financialstatementsfy09.pdf">Financial Statements</a></li>
+     <li><a href="/about/pdfs/financialstatements.pdf">Financial Statements</a></li>
      <li><a href="/about/board.html">Board of Trustees</a></li>
-     <li><a href="/about/tour/">Online Tour</a></li>
+     <li><a href="/about/tour.html">Online Tour</a></li>
+     <li><a href="/admission/florence/">Marist in Italy</a></li>
      <li><a href="/about/admin.html">Administration</a></li>
      <li><a href="/strategicplanning/">Strategic Plan: Executive Summary</a></li>
     </ul>
@@ -227,6 +243,18 @@ Poughkeepsie, NY 12601
 <div id="footer_container">
  <div id="footer_content">
   <div id="footer_logo"><a href="/"><img src="/images/footer.gif" alt="Marist College"></a></div>
+
+  <div id="social">
+   <div><strong>Connect With Us:</strong>&nbsp;</div>
+   <a href="javascript:newWin('http://www.facebook.com/marist')" onclick="javascript:urchinTracker('/G1/facebook');"><img src="/images/social/facebook.png" alt="Facebook"></a>
+   <a href="javascript:newWin('http://www.youtube.com/user/Marist')" onclick="javascript:urchinTracker('/G1/youtube');"><img src="/images/social/youtube.png" alt="YouTube"></a>
+   <a href="javascript:newWin('http://twitter.com/marist')" onclick="javascript:urchinTracker('/G1/twitter');"><img src="/images/social/twitter.png" alt="Twitter"></a>
+   <a href="javascript:newWin('http://www.flickr.com/photos/maristcollege/')" onclick="javascript:urchinTracker('/G1/flickr');"><img src="/images/social/flickr.png" alt="Flickr"></a>
+   <a href="/publicaffairs/rss.html" onclick="javascript:urchinTracker('/G1/rss');"><img src="/images/social/feed.png" alt="RSS"></a>
+   <a href="javascript:newWin('http://maristfoxtales.wordpress.com/')" onclick="javascript:urchinTracker('/G1/foxtales');"><img src="/images/social/wordpress.png" alt="Fox Tales Blog"></a>
+   <a href="/maristmobile/" onclick="javascript:urchinTracker('/G1/mobile');"><img src="/images/social/mobile.png" alt="Mobile"></a>
+  </div>
+
   <a href="/calendar/">Calendar</a> |
   <a href="/directory/">Directories</a> |
   <a href="/atoz/">Site A-Z Index</a> |
@@ -234,11 +262,11 @@ Poughkeepsie, NY 12601
   <a href="/alumni/waystogive.html">Giving to Marist</a> |
   <a href="javascript:newWin('http://jobs.marist.edu')">Jobs at Marist</a><br>
   Marist College, 3399 North Road, Poughkeepsie, NY 12601; 845.575.3000<br>
-  <span>© Copyright 2007-2010 Marist College. All Rights Reserved. <a href="/disclaimers.html">Disclaimers</a> | <a href="/privacy.html">Privacy Policy</a> | <a href="/contact/">Contact</a></span>
+  <span>© Copyright 2007-2011 Marist College. All Rights Reserved. <a href="/disclaimers.html">Disclaimers</a> | <a href="/privacy.html">Privacy Policy</a> | <a href="/contact/">Contact</a></span>
   <div class="clearer"></div>
  </div>
 </div>
-<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
 _uacct = "UA-320870-1";
 urchinTracker();
 </script>
