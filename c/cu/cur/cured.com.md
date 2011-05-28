@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cured.com privacy policy that was archived on 2010-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100805022551id_/http%3A//cured.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cured.com privacy policy that was archived on 2011-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110528144131id_/http%3A//cured.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
