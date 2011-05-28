@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ocweekly.com privacy policy that was archived on 2010-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100813231125id_/http%3A//www.ocweekly.com/about/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ocweekly.com privacy policy that was archived on 2011-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110528203502id_/http%3A//www.ocweekly.com/about/privacyPolicy) for the most accurate reproduction.*
 
 # Orange County Privacy Policy
 
