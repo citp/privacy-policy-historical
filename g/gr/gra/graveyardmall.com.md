@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the graveyardmall.com privacy policy that was archived on 2010-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100920113405id_/http%3A//graveyardmall.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the graveyardmall.com privacy policy that was archived on 2011-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110528220157id_/http%3A//www.graveyardmall.com/pages/Privacy.html) for the most accurate reproduction.*
 
-# graveyardmall.com
-
-_This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the[Yahoo! Privacy Policy](http://info.yahoo.com/privacy/us/yahoo/details.html) for more information about how Yahoo! uses this information._
-
-## Privacy Policy
+# Privacy
 
 01/01/2010
 
@@ -28,12 +24,12 @@ How That Information Is Used:
 
 Our Commitment To The Security of Your Data
 
-No information is stored on site at Graveyardmall.com all information used is stored by Yahoo Inc. in their encrypted servers and credit card information is viewable by us for a maximum of 30 days
+No information is stored on site at Graveyardmall.com all information used is stored by BigCommerce in their encrypted servers and credit card information is viewable by us for a maximum of 30 days
 
 Contact Us
 
-By email: [Customerservice@graveyardmall.com](mailto:customerservice@graveyardmall.com)
+By email: [customerservice@graveyardmall.com](mailto:customerservice@graveyardmall.com?subject=GraveyardMall%20Customer%20Service)
 
 By standard mail: GraveyardMall.com 2420 Greenleaf Ave Elk Grove Village, IL, 60007
 
-By phone: 888 734-3132 (between 9 a.m. and 3:30 p.m. cdt)
+By phone: 888 734-3132 (9:00 AM - 3:30 PM CDT)
