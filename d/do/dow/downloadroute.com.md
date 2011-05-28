@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the downloadroute.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229044424id_/http%3A//www.downloadroute.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downloadroute.com privacy policy that was archived on 2011-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110528155702id_/http%3A//www.downloadroute.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement - Download Route
 
