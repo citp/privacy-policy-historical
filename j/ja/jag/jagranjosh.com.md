@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jagranjosh.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204124117id_/http%3A//www.jagranjosh.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jagranjosh.com privacy policy that was archived on 2011-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110529001951id_/http%3A//jagranjosh.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - MMI Online Ltd
 
 MMI Online ltd., (MMI) is a Jagran Prakashan ltd. venture.. MMI manages the Online Properties of the ‘Dainik Jagran Group'  including [**www.jagranjosh.com**](http://www.jagranjosh.com/), [**www.jagran.com**](http://www.jagran.com/), **[www.onlymyhealth.com](http://www.onlymyhealth.com/) ** and few others.
 
