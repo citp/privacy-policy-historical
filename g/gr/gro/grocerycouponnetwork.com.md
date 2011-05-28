@@ -1,26 +1,26 @@
-> *The following text is extracted and transformed from the grocerycouponnetwork.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225114259id_/http%3A//www.grocerycouponnetwork.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grocerycouponnetwork.com privacy policy that was archived on 2011-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110529012359id_/http%3A//www.grocerycouponnetwork.com/policy.php) for the most accurate reproduction.*
 
 # Privacy Policy & Terms | Grocery Coupon Network
 
 Effective Date: April 19, 2010
 
-Thank you for visiting the Grocery Coupon Network website located at www.GroceryCouponNetwork.com (the “Website”). The Grocery Coupon Network Website is a media property owned by VonHudman Group, a leading online marketing company. VonHudman Group, ("We," "Us," "Our" or "GroceryCouponNetwork"), understands how important privacy is to Our members ("You," "Your"). We have created this Privacy Policy (“Privacy Policy”) to let You know what information is being collected on the Website, how the information is being used and what choices You have regarding the collection and use of this information. 
+Thank you for visiting the Grocery Coupon Network website located at www.GroceryCouponNetwork.com (the “Website”). The Grocery Coupon Network Website is a media property owned by VonHudman Group, a leading online marketing company. VonHudman Group, ("We," "Us," "Our" or "GroceryCouponNetwork"), understands how important privacy is to Our members ("You," "Your"). We have created this Privacy Policy (“Privacy Policy”) to let You know what information is being collected on the Website, how the information is being used and what choices You have regarding the collection and use of this information.
 
 Please take a moment to review this Privacy Policy and feel free to contact us with any questions that you may have via email at privacy@GroceryCouponNetwork.com or via postal mail at GroceryCouponNetwork, 27 N Wacker Dr Suite 561, Chicago, IL 60606
 
-**WHAT INFORMATION IS COLLECTED?**
+ **WHAT INFORMATION IS COLLECTED?**
 
 Generally, We gather two (2) types of information. The first type of information is the Personally Identifiable Information ("Personal Information") that You provide when You enroll in the Program (as defined in the Grocer yCoupon Network Terms and Conditions (“Terms”)) via the online registration forms on the Website. This Personal Information includes, but is not limited to, Your name, mailing address, email address, date of birth, gender and telephone number.
 
 In addition to the Personal Information that You provide to Us, We will also collect certain information online and offline arising out of Your participation in the Program and use of the Website including, but not limited to, the number and type of Offers (as defined in the Terms) that You have responded to and completed.
 
-**CALIFORNIA RESIDENTS PRIVACY RIGHTS**
+ **CALIFORNIA RESIDENTS PRIVACY RIGHTS**
 
-California State residents who disclose Personal Information to an entity such as Grocery Coupon Network are entitled to either: (1) a list from such entity detailing the categories of Personal Information shared and the third parties to which such information was provided by such entity; or (2) a mechanism by which such California State residents may opt-out of having their Personal Information shared with third-parties. We have elected the second option. You may opt out from having Your Personal Information shared with third-parties by Clicking Here or sending Your request, including Your full name, email address and postal address to: Grocery Coupon Network, 27 N Wacker DR, Suite , Chicago, Il 60606. 
+California State residents who disclose Personal Information to an entity such as Grocery Coupon Network are entitled to either: (1) a list from such entity detailing the categories of Personal Information shared and the third parties to which such information was provided by such entity; or (2) a mechanism by which such California State residents may opt-out of having their Personal Information shared with third-parties. We have elected the second option. You may opt out from having Your Personal Information shared with third-parties by Clicking Here or sending Your request, including Your full name, email address and postal address to: Grocery Coupon Network, 27 N Wacker DR, Suite , Chicago, Il 60606.
 
 Please be advised that where California State residents opt-out from permitting their Personal Information to be shared with third-parties, such individuals may still receive selected offers directly from Us, in accordance with the law. In accordance with California Civil Code Sec. 1789.3, California State residents are entitled to know that they may file grievances and complaints with California Department of Consumer Affairs: by postal mail at 400 R Street, Suite 1080, Sacramento, CA 95814; by telephone at 916-445-1254 or 800-952-5210; or by email to dca@dca.ca.gov.
 
-**HOW DO WE USE THE INFORMATION COLLECTED?**
+ **HOW DO WE USE THE INFORMATION COLLECTED?**
 
 We use Your email address to notify You of Program updates, special offers and promotions. We use Your Personal Information in connection with Your participation in the Program. For example, We request Your mailing address so that We know where to send the Gifts (as defined in the Terms) that You may qualify for through participation in the Program. We also may use this information to notify You via email, postal mail or telephone about new products or services and special promotions that We are offering, as well as to apprise You of Our Sponsors’ (as defined in the Terms) Offers that We feature on the Website.
 
@@ -34,11 +34,11 @@ We reserve the right to send You certain transactional messages relating to the 
 
 We may pre-select certain offers for You to view based on the demographic and geographic information that You submitted while visiting the Website. We may also deliver advertisements to You based on other socio-economic, psychographic, purchase behavior and lifestyle information that We may obtain from third-parties. Additionally, We may pre-fill some or all of the Offers’ data fields with the information that You submitted while on the Website. We may not show all of the pre-filled data fields to You.
 
-**MARKETING PARTNERS**
+ **MARKETING PARTNERS**
 
 The Personal Information that You submit to Grocery Coupon Network remains Your property, but by submitting that Personal Information to Grocery Coupon Network, You grant Grocery Coupon Network the right, subject to applicable state and federal law, to use that Personal Information for marketing purposes. Without limiting the generality of the foregoing, We reserve the right to share, sell, rent, lease and/or otherwise distribute any and all Personal Information with/to any third-party for any and all uses permitted by this Privacy Policy and applicable law. These third-parties may include, but shall not be limited to, providers of direct marketing services and applications, including lookup and reference, data enhancement, suppression and validation, telemarketing and e-mail marketing. We may also use Your Personal Information for any marketing and survey purpose, on Our own behalf and on behalf of Our Sponsors, affiliates and subsidiaries. We may disclose Personal Information to Sponsors, third-party agents and independent contractors that help us operate the Program. By submitting Your e-mail address at the Website and/or registering for the Program, You agree to receive e-mail marketing from Grocery Coupon Network (and other VonHudman Group properties), Our Sponsors and third-party advertisers.
 
-Grocery Coupon Network is able to offer the Program to You, in part, based on Your willingness to be reached by Our Sponsors and third-party advertisers. In connection with this, Your Personal Information will be shared with Sponsors and advertisers on an aggregate and non-aggregate basis. We also use contact information from Your Personal Information to send You information about Grocery Coupon Network and to keep You informed of Our other products and services that may be of interest to You. Please keep in mind, though, that Grocery Coupon Network does not control, and is not responsible for, the practices of Our Sponsors and third-party advertisers. If You wish to stop receiving future communications from Us, Our Sponsors and/or third party advertisers, or if You wish to prevent the transfer and/or sale of Your Personal Information to third parties (subject to restrictions contained in applicable state and federal law), please see the Opt-Out/Unsubscribe section below. 
+Grocery Coupon Network is able to offer the Program to You, in part, based on Your willingness to be reached by Our Sponsors and third-party advertisers. In connection with this, Your Personal Information will be shared with Sponsors and advertisers on an aggregate and non-aggregate basis. We also use contact information from Your Personal Information to send You information about Grocery Coupon Network and to keep You informed of Our other products and services that may be of interest to You. Please keep in mind, though, that Grocery Coupon Network does not control, and is not responsible for, the practices of Our Sponsors and third-party advertisers. If You wish to stop receiving future communications from Us, Our Sponsors and/or third party advertisers, or if You wish to prevent the transfer and/or sale of Your Personal Information to third parties (subject to restrictions contained in applicable state and federal law), please see the Opt-Out/Unsubscribe section below.
 
 In addition, You agree that such act constitutes a purchase, an inquiry and/or an application for purposes of the Amended Telemarketing Sales Rule, 16 CFR §310 et seq. (the “ATSR”). With respect to the ATSR, and notwithstanding that Your telephone number may be listed on the Federal Trade Commission’s Do-Not-Call List, You agree to receive telemarketing from Us, Our Sponsors, third party advertisers and marketers in accordance with the terms of the ATSR.
 
@@ -46,11 +46,11 @@ In addition, You agree that by submitting Your Personal Information at the Websi
 
 When you register with grocerycouponnetwork-offers.com and you leave the box checked stating "Yes, I want to information and offers from grocerycouponnetwork-offers.com " - you explicitly authorize us to share your information with Datran Media to contact you via email."
 
-**SERVICE PROVIDERS**
+ **SERVICE PROVIDERS**
 
 In order to provide the products or services thatyou have requested, We may disclose the information We collect to various service providers, vendors and other third parties that perform services on Our behalf including, but not limited to, email service providers that provide us with technology to deploy email; Sponsors and advertisers that sell the products or services for which You have qualified through the web site; credit reporting agencies from which we obtain Your credit report(s); credit card processors; email communications management firms; call center providers and shipping companies that We may utilize to ship products to You. Our Sponsors and third-party service providers are contractually limited to using the information received from Grocery Coupon Network solely for the purposes of providing You with the services that You requested.
 
-**WHAT IS THE UNSUBSCRIBE PROCESS?**
+ **WHAT IS THE UNSUBSCRIBE PROCESS?**
 
 Grocery Coupon Network Offers:  
 We use Your email address to notify you of Program updates, special offers and promotions. You may select at any time to opt-out from receiving emailed marketing offers from us, our partners and/or affiliated companies using the "Unsubscribe" link at the bottom any future email that you receive from us. You may also unsubscribe from Grocery Coupon Network offers using postmaster@GroceryCouponNetwork.com or via postal mail at Grocery Coupon Network, 27 N Wacker Dr Suite 561, Chicago, IL 60606
@@ -62,13 +62,13 @@ If You prefer not to receive email offers from our non-affiliated third-parties,
 
 Please note that suppressed contact information will not be used for any purpose other than to ensure compliance with Your opt-out request, in response to inquiries by law enforcement and to comply with any other applicable state and/or federal laws regarding Your choices for commercial email marketing, such as CAN-SPAM.
 
-**WHAT ARE COOKIES AND HOW DO WE USE THEM?**
+ **WHAT ARE COOKIES AND HOW DO WE USE THEM?**
 
 Grocery Coupon Network uses a feature of Your Internet browser called a "cookie" to assign a unique identification to Your computer. Cookies are files that Your web browser places on Your computer's hard drive. Cookies can be used to help save and retrieve passwords used on the Website and to save information on past activities and other preferences. Where cookies are used, You do not have to re-enter log-in information every time that You visit the Website. When You visit the Website, our servers read the cookie to help target and personalize Offers to You. For example, the cookie can help ensure that You do not see an Offer that You have already completed. Cookies also let Grocery Coupon Network know if We have repeat visitors. We also use cookies to identify which websites Our repeat visitors are coming from. GroceryCouponNetwork does not and cannot use cookies to retrieve personal information about You from Your computer unless such information was knowingly and willingly provided by You. Grocery Coupon Network respects Your privacy and Grocery Coupon Network’s cookies are not linked to any personal information. Grocery Coupon Network works with third-parties to serve ads on the Website. These ads may contain cookies and/or action tags (also known as single pixel gifs) to measure advertising effectiveness and gather completely anonymous information. We have no access to or control over these cookies or action tags.
 
 You are always free to decline these cookies if Your browser permits, however You may not be able to use certain features on the Website and You may be asked to re-enter Your user ID and password more frequently during Your sessions on the Website.
 
-**HOW DO WE PROTECT PERSONAL INFORMATION?**
+ **HOW DO WE PROTECT PERSONAL INFORMATION?**
 
 We have security measures in place designed to protect the security of Your information. All collected information is stored in a technically and physically secure environment. In addition when You submit Your credit card information or other sensitive information, the 128-bit encrypted Secure Socket Layer (“SSL”) connection scrambles or encrypts Your information before it is sent to Us over the Internet. This protects Your credit card information from being read while it is transferred. SSL is supported by Netscape 2.0+, Microsoft IE 3.0+ and most frame-enabled browsers. Depending on which browser You use, You will know that You are in a secure area by "https" or a small key or padlock in the bottom right hand corner of Your browser indicating that Your transaction is secure. Unfortunately, no security measures can ever be guaranteed to be 100% secure. As a result, while we strive to protect Your Personal Information and sensitive information, we cannot ensure or warrant the security of any information that You transmit to us, and You do so at Your own risk. Once we receive Your transmission, we make reasonable efforts to ensure its security on our systems. Access to Personal Information is strictly limited, and not accessible to the public. All Personal Information is restricted in our offices. Only employees that need the Personal Information to perform a specific job (for example, a customer service representative) are granted access to Personal Information. Our employees are dedicated to ensuring the security and privacy of all Personal Information. Employees not adhering to our firm policies are subject to disciplinary action. In compliance with applicable federal and state laws, we shall notify You and any applicable regulatory agencies in the event that we learn of an information security breach with respect to Your Personal Information. You will be notified via e-mail in the event of such a breach. Please be advised that notice may be delayed in order to address the needs of law enforcement, determine the scope of network damage, and to engage in remedial measures.
 
@@ -76,16 +76,18 @@ DO THESE SAME PRIVACY POLICIES APPLY TO THIRD-PARTY WEBSITES THAT YOU ACCESS THR
 
 No. The Privacy Policy appearing on the Website relates only to Grocery Coupon Network. You will notice that the Website may contain links to other websites, such as websites operated by Our Sponsors. We cannot be responsible for, and shall have no liability in connection with, the privacy and security practices of other websites that You may access through the Website, even if links to those third party websites are displayed within a frame on Our Website. You should always review a particular website's privacy and security policies when visiting that website and before revealing any Personal Information to that website.
 
-**PRIVACY POLICY CHANGES**
+ **PRIVACY POLICY CHANGES**
 
 We reserve the right to change this Privacy Policy at any time in our sole and absolute discretion by posting a notice at the Website explaining that We are changing Our Privacy Policy. The user's continued participation in the Program and/or continued receipt of GroceryCouponNetwork e-mails constitutes an affirmative acknowledgement and acceptance by the user of the modified Privacy Policy. We require You to check back with this page from time to time to review changes to Our Privacy Policy.
 
-**A SPECIAL NOTE REGARDING PEOPLE UNDER THE AGE OF EIGHTEEN (18)**
+ **A SPECIAL NOTE REGARDING PEOPLE UNDER THE AGE OF EIGHTEEN (18)**
 
 Consumers under the age of eighteen (18) are not permitted to submit any Personal Information on the Website or otherwise to Us. Further, We will never knowingly collect or solicit any Personal Information from any individual under the age of eighteen (18). Our intention is to fully comply with the Children’s Online Privacy Protection Act (“COPPA”). Grocery Coupon Network encourages parents and guardians to spend time online with their children and to participate and monitor the interactive activities of their children. If a parent or guardian has knowledge or is made aware of the fact that a child under the age of eighteen (18) has provided Us with Personal Information through the Website or otherwise, Contact Us and We will delete the information about the child from Our database.
 
-**HOW TO CONTACT US**
+ **HOW TO CONTACT US**
 
 If You have any questions about the practices of Grocery Coupon Network, You can contact Us by visiting the Contact Us section of the Website, or via postal mail at Grocery Coupon Network, 27 N Wacker DR, Suite 561, Chicago, Il 60606.
 
 | 
+
+### Check out the GCN Community
