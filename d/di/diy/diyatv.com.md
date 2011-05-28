@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diyatv.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205022305id_/http%3A//diyatv.com/terms-and-privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diyatv.com privacy policy that was archived on 2011-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110528065217id_/http%3A//www.diyatv.com/terms-and-privacy-policy.htm) for the most accurate reproduction.*
 
 # Diyatv.com | Terms and Privacy Policy
 
