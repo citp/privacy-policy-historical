@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the manhattanjobs.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228000856id_/http%3A//www.manhattanjobs.com/mkt/content/js/default.asp%3Fpg%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manhattanjobs.com privacy policy that was archived on 2011-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110528205550id_/http%3A//www.manhattanjobs.com/mkt/content/js/default.asp%3Fpg%3Dprivacy) for the most accurate reproduction.*
 
 # Search Jobs & Resumes in New York, Find Careers & Resources - ManhattanJobs.com
 
