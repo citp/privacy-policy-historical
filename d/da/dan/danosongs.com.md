@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the danosongs.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225164113id_/http%3A//www.danosongs.com/blog/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the danosongs.com privacy policy that was archived on 2011-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110528061017id_/http%3A//www.danosongs.com/blog/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
