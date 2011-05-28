@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlekarma.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619103112id_/http%3A//articlekarma.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlekarma.com privacy policy that was archived on 2011-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110528235916id_/http%3A//articlekarma.com/privacy.php) for the most accurate reproduction.*
 
 # Article Karma Directory
 
@@ -64,4 +64,4 @@ We will let our Visitors and Authorized Customers know about changes to our priv
 **Links:**  
 This web site contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours.   
   
-© 2006 and Beyond **ArticleKarma.Com** , All rights reserved.
+© 2006 - 2011 and Beyond **ArticleKarma.Com** , All rights reserved.
