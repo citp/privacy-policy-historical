@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the whotours.com privacy policy that was archived on 2010-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100304084036id_/http%3A//www.whotours.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whotours.com privacy policy that was archived on 2011-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110529001329id_/http%3A//www.whotours.com/privacy) for the most accurate reproduction.*
 
 # Privacy
-
-[ ](http://www.mb01.com/lnk.asp?o=846&c=10098&a=2627) [ ](http://www.mb01.com/lnk.asp?o=2045&c=30191&a=2627&s1=tourblg)
 
 Tours takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it. See this privacy policy primer to learn more about privacy policies in general.
 
