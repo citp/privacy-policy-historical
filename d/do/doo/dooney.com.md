@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dooney.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130114512id_/http%3A//www.dooney.com/OA_HTML/dbibeCCtpSctDspRte.jsp%3Fsection%3D19976) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dooney.com privacy policy that was archived on 2011-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110528114042id_/http%3A//www.dooney.com/OA_HTML/dbibeCCtpSctDspRte.jsp%3Fsection%3D19976) for the most accurate reproduction.*
 
 # Dooney & Bourke: Privacy Policy
 
