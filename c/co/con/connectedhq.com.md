@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the connectedhq.com privacy policy that was archived on 2010-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101102180041id_/http%3A//connectedhq.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the connectedhq.com privacy policy that was archived on 2011-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110528230655id_/http%3A//connectedhq.com/about/privacy) for the most accurate reproduction.*
 
 # Connected | About
 
