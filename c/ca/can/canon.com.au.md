@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canon.com.au privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213183807id_/http%3A//www.canon.com.au/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canon.com.au privacy policy that was archived on 2011-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110528103948id_/http%3A//canon.com.au/Privacy-Policy) for the most accurate reproduction.*
 
 # Canon - Privacy Policy
 
