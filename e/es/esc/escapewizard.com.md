@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the escapewizard.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226025610id_/http%3A//www.escapewizard.com/pripolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the escapewizard.com privacy policy that was archived on 2011-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110528052919id_/http%3A//www.escapewizard.com/pripolicy.php) for the most accurate reproduction.*
 
 # Escape Wizard
 
@@ -7,7 +7,7 @@
 * * *  
   
 ---  
-|  | [Flights](https://web.archive.org/index.php?flag=fl) | [Travel Packages](https://web.archive.org/travel_packages.php?flag=tp) | [Hotels](https://web.archive.org/hotels.php?flag=htl) | [Cars](https://web.archive.org/cars.php?flag=cr) | [Cruises](https://web.archive.org/cruises.php?flag=cru) | [Deals](https://web.archive.org/deals.php?flag=dls) | [Subscribers](https://web.archive.org/forms.php?flag=sub) |    
+|  | [Flights](https://web.archive.org/index.php?flag=fl) | [Travel Packages](https://web.archive.org/travel_packages.php?flag=tp) | [Hotels](https://web.archive.org/hotels.php?flag=htl) | [Cars](https://web.archive.org/cars.php?flag=cr) | [Cruises](https://web.archive.org/cruises.php?flag=cru) | [Deals](https://web.archive.org/deals.php?flag=dls) | [Destination Guide](https://web.archive.org/destinationguide.php) |    
 ---|---|---|---|---|---|---|---|---  
    
   
