@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americanframe.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123112346id_/http%3A//www.americanframe.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanframe.com privacy policy that was archived on 2011-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110528235154id_/http%3A//www.americanframe.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - American Frame
 
