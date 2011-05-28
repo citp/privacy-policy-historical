@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magpul.com privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202035324id_/http%3A//store.magpul.com/privacy_notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magpul.com privacy policy that was archived on 2011-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110528155600id_/http%3A//store.magpul.com/privacy_notice) for the most accurate reproduction.*
 
 # Magpul Industries Ecommerce
 
