@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mediaplex.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224040150id_/http%3A//www.mediaplex.com/mojo-privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediaplex.com privacy policy that was archived on 2011-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110528180955id_/http%3A//www.mediaplex.com/mojo-privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Mediaplex
 
