@@ -1,8 +1,11 @@
-> *The following text is extracted and transformed from the aza.org privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124183652id_/http%3A//www.aza.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aza.org privacy policy that was archived on 2011-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110528123900id_/http%3A//www.aza.org/privacy) for the most accurate reproduction.*
 
 # Association of Zoos and Aquariums - Privacy Statement for www.aza.org
 
-Thank you for visiting our Web site. We respect your privacy and we will never share your personal information with other organizations. This Privacy Policy governs the URL http://www.AZA.org, and http://lists.aza.org/cgi-bin/mailman/listinfo (hereafter the "Site"). By accessing this Site, you agree to the terms set forth in this Privacy Policy.
+_Last updated on 3/1/2011_   
+
+
+Thank you for visiting our Web site. We respect your privacy. This Privacy Policy governs the URL http://www.AZA.org, and http://lists.aza.org/cgi-bin/mailman/listinfo (hereafter the "Site"). By accessing this Site, you agree to the terms set forth in this Privacy Policy.
 
 ### How to Contact Us
 
@@ -26,6 +29,9 @@ We also collect certain other information that cannot identify you personally wh
 
 AZA uses cookies in order to make the results available for your on-site searches. Cookies are used in the login process to the Members Only section of the Site. The cookies that control the login process expire after 24 hours, unless you use "Member log out", which removes the cookie immediately. A cookie is a small file that is sent out by a web site, accepted by the user's browser, and placed on the user's hard drive. You can always set your browser to warn of cookies being placed, and then chose which cookies you want to accept. AZA does not match any information gathered by cookies with personal information you may have voluntarily submitted to AZA.
 
+AZA may use third-party network advertising companies to serve ads on the Site. Such third-party advertising companies may set up and access cookies on your browser in order to serve these ads. Ads appearing on this site may include DART cookies from Google and its partners to serve ads to visitors based on prior visits to this and other websites. Visitors may opt out of the use of the DART cookie by visiting the [advertising opt-out page](http:// "advertising opt-out page").   
+
+
 ## Use of Information
 
 We may use the information you voluntarily provide to contact you regarding zoo and aquarium issues that we believe may be of interest to you, to keep you updated regarding AZA programs, and to invite you to support our programs. We may also send such information to the people whose e-mail addresses you provide when forwarding AZA electronic content. When we do so, our sole intent is to enlarge our family of informed zoo and aquarium advocates and organizational supporters. Every recipient of our electronic communications can quickly and easily "opt out" of future such communications by following the instructions on any electronic communication we send.
@@ -38,7 +44,7 @@ AZA allows donors to contribute through mobile texts. Donors who contribute in t
 
 ## Other
 
-AZA links to other web sites not affiliated with AZA. AZA attempts to link only to those web sites which also respect a visitor's privacy and the goals of AZA. However, AZA cannot be responsible for the content or policies of third-party web sites. Please check with these third-party organizations or companies for their specific privacy policies. If you find inoperable links or are concerned about any of the sites that AZA currently links to, please inform AZA by contacting us at [generalinquiry@aza.org](mailto:G.e.n.e.r.a.l.I.n.q.u.i.r.y@aza.org).
+AZA links to other web sites not affiliated with AZA. AZA attempts to link only to those web sites which also respect a visitor's privacy and the goals of AZA and does not apply to third party advertising on the site. However, AZA cannot be responsible for the content or policies of third-party web sites. Please check with these third-party organizations or companies for their specific privacy policies. If you find inoperable links or are concerned about any of the sites that AZA currently links to, please inform AZA by contacting us at [generalinquiry@aza.org](mailto:G.e.n.e.r.a.l.I.n.q.u.i.r.y@aza.org).
 
 For more information regarding linking to the AZA web site, please read the Terms of Use on our web site.
 
