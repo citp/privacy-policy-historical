@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asiasociety.org privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119130557id_/http%3A//asiasociety.org/util/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asiasociety.org privacy policy that was archived on 2011-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110528185612id_/http%3A//asiasociety.org/util/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Asia Society
 
