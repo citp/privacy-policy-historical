@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 5starboys.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123022828id_/http%3A//www.5starboys.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 5starboys.com privacy policy that was archived on 2011-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110528163858id_/http%3A//5starboys.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
