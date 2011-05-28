@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the fayobserver.com privacy policy that was archived on 2010-11-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101122093408id_/http%3A//www.fayobserver.com/help/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fayobserver.com privacy policy that was archived on 2011-05-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110528035356id_/http%3A//www.fayobserver.com/help/privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="Head1"><title>
 	FayObserver.com - 
@@ -10,7 +10,7 @@
 <link type="text/css" rel="stylesheet" href="/CMSPages/GetCSS.aspx?stylesheetname=fo-master"> 
 <link rel="shortcut icon" href="elements/images/build/favicon.ico"> 
 <link rel="icon" href="elements/images/build/favicon.ico">
-
+<meta property="og:image" content="/elements/images/build/fo-square-logo.jpg">
 <script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js"></script>
 
 <script type="text/javascript">
@@ -21,34 +21,6 @@
 <script type="text/javascript">
   GA_googleFetchAds();
 </script>
-
-<!-- Javascript Code for the Cookies System -->
-<script type="text/javascript" language="Javascript1.1" src="/elements/js/cookies.aspx"></script>
-
-<!-- Kludgy Javascript Mobile Redirect While Waiting for 5.5 Upgrade (Ick) -->
-<script type="text/javascript">
-  if ( window.location.search.substring(1).match(/fullsite/) )
-  {
-      var d = new Date();
-      d.setDate(d.getDate()+90);
-      setCookie('fullsite','1','','','fayobserver.com');
-  }
-  else
-  {    
-    if (! getCookie('fullsite')) 
-    { 
-      if (  (navigator.userAgent.match(/iPhone/i)) || 
-            (navigator.userAgent.match(/iPod/i)) || 
-            (navigator.userAgent.match(/iPad/i)) ||
-            (navigator.userAgent.match(/Android/i)) ||
-            (navigator.userAgent.match(/Blackberry/i)) )
-      {
-         location.replace("http://m.fayobserver.com");
-      }
-    }
-  }
-</script>
-
 
 <!-- Javascript Code for Zvents Calendar Widgets -->
 <script type="text/javascript" src="/elements/js/zvents_mini_base.aspx"></script>
@@ -112,35 +84,67 @@ $(document).ready(function () {
 	);
 });
 	</script>
+
+<script>
+  function showLoginBox()
+  {
+    document.getElementById('login-box').style.display="block";
+  }
+  
+  function closeLoginBox () 
+  {
+    document.getElementById('login-box').style.display="none";
+  }
+</script>
  
 <link rel="shortcut icon" href="/favicon.ico">
-<link rel="icon" href="/favicon.ico"></head>
-<body class="LTR ENUS" onload="showCarousel();">
-    <form method="post" action="/help/privacy.aspx" id="form1">
-<div>
-<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
-<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTU2MjkyNjQyNw9kFgICARBkZBYCAgMPZBYCZg9kFgJmD2QWCAIDD2QWAmYPZBYCAgIPZBYCZg9kFgJmD2QWAmYPFQIRRk9fTG9jYWxfNzI4eDkwXzERRk9fTG9jYWxfNzI4eDkwXzFkAgcPZBYCZg9kFgICAg9kFgJmD2QWAmYPZBYEAgcPZBYCZg9kFgICAg9kFhhmD2QWAmYPZBYCZg8VBTl3aW5kb3cubG9jYXRpb249Jy92aWRlbz9wYXRoPS8yMDEwLzExLzExMjFvd2xzZXRmcmVlLmZsdidOL2dldGF0dGFjaG1lbnQvNWIxYjJjMDMtMGZhMi00NDkwLTlkOWEtZTQ1NjM3YTgyOTdlL1YtLTExLTIxLW93bC1yZWxlYXNlOy5hc3B4FFY6IDExLzIxIG93bCByZWxlYXNlBVZJREVPSU93bCBmb3VuZCBpbiBPYnNlcnZlciBwYXJraW5nIGxvdCBzZXQgZnJlZSBhZnRlciByZWNvdmVyaW5nIGZyb20gaW5qdXJpZXNkAgEPZBYCZg9kFgJmDxUFc3dpbmRvdy5sb2NhdGlvbj0naHR0cDovL3Bob3Rvcy5mYXlvYnNlcnZlci5jb20vbXljYXB0dXJlL2ZvbGRlci5hc3A/ZXZlbnQ9MTExODc4OSZDYXRlZ29yeUlEPTUxNTM4Jkxpc3RTdWJBbGJ1bXM9MCdJL2dldGF0dGFjaG1lbnQvMTJlZjViMWItNjA2Mi00ZDZlLThlMzYtZTVhODMxZDg3ODlkLzMtMTUtdG9wLXBob3RvczsuYXNweBZTUzogMTEvMjEgUGFwZXIgcGhvdG9zD1NVTkRBWSdTIFBIT1RPU0BWaWV3IGFuZCBidXkgcGhvdG9zIHRoYXQgYXBwZWFyZWQgaW4gVGhlIEZheWV0dGV2aWxsZSBPYnNlcnZlcg0KZAICD2QWAmYPZBYCZg8VBXJ3aW5kb3cubG9jYXRpb249J2h0dHA6Ly9waG90b3MuZmF5b2JzZXJ2ZXIuY29tL215Y2FwdHVyZS9mb2xkZXIuYXNwP2V2ZW50PTExMTg3OTEmQ2F0ZWdvcnlJRD0xMzI5Jkxpc3RTdWJBbGJ1bXM9MCdSL2dldGF0dGFjaG1lbnQvYmMxM2I3OTgtMjYyYS00Yzk2LWIyODctOTNhZjkwMzlmNDI4L1NTLS0xMS0yMC1zYXR1cmRheS1leHRyYTsuYXNweBhTUzogMTEvMjAgc2F0dXJkYXkgZXh0cmEKU0xJREUgU0hPVzFQaG90b3MgZnJvbSB0aGUgTm92LiAyMCBlZGl0aW9uIG9mIFNhdHVyZGF5IEV4dHJhZAIDD2QWAmYPZBYCZg8VBXJ3aW5kb3cubG9jYXRpb249J2h0dHA6Ly9waG90b3MuZmF5b2JzZXJ2ZXIuY29tL215Y2FwdHVyZS9mb2xkZXIuYXNwP2V2ZW50PTExMTk0NjYmQ2F0ZWdvcnlJRD0xMDM1Jkxpc3RTdWJBbGJ1bXM9MCdTL2dldGF0dGFjaG1lbnQvMjUyNzA2YTQtNWMwOS00MzYwLWEzMTEtMTVjYzU4NmUwMTUzL1NTLS0xMS0xOC1Bcm15LUZpZWxkLUJhbmQ7LmFzcHgZU1M6IDExLzE4IEFybXkgRmllbGQgQmFuZApTTElERSBTSE9XNFRoZSBVbml0ZWQgU3RhdGVzIEFybXkgRmllbGQgQmFuZCAmIFNvbGRpZXJzIENob3J1cyBkAgQPZBYCZg9kFgJmDxUFc3dpbmRvdy5sb2NhdGlvbj0naHR0cDovL3Bob3Rvcy5mYXlvYnNlcnZlci5jb20vbXljYXB0dXJlL2ZvbGRlci5hc3A/ZXZlbnQ9MTExODA1NyZDYXRlZ29yeUlEPTU5NzEwJkxpc3RTdWJBbGJ1bXM9MCdZL2dldGF0dGFjaG1lbnQvNDE2NTVkMGItOGUwYy00NDU2LWIzNzItMTFmMzc0N2U3NDEyL1NTLS0xMS0zLVJlbWVtYmVyLU1pc3MtRmF5LTE5NzQ7LmFzcHgjU1M6IDExLzE3IFJlbWVtYmVyLUNocmlzdG1hcyBQYXJhZGUKU0xJREUgU0hPVzVSZW1lbWJlciBUaGlzPyBUaGUgMTk3MyBGYXlldHRldmlsbGUgQ2hyaXN0bWFzIFBhcmFkZWQCBQ9kFgJmD2QWAmYPFQVyd2luZG93LmxvY2F0aW9uPSdodHRwOi8vcGhvdG9zLmZheW9ic2VydmVyLmNvbS9teWNhcHR1cmUvZm9sZGVyLmFzcD9ldmVudD0xMTE4NzI5JkNhdGVnb3J5SUQ9MTMyOSZMaXN0U3ViQWxidW1zPTAnVC9nZXRhdHRhY2htZW50LzUwNjBjOGU1LTk5NzUtNDU3MC1iNDJjLWQ3ZmM5ZjA2ZjcwNS9TUy0tMTEtMTctd291bmRlZC13YXJyaW9yczsuYXNweBpTUzogMTEvMTcgd291bmRlZCB3YXJyaW9ycwpTTElERSBTSE9XLVdvdW5kZWQgV2FycmlvcnMgY29sbGVnZSBzY2hvbGFyc2hpcCBhd2FyZHMNCmQCBg9kFgJmD2QWAmYPFQU5d2luZG93LmxvY2F0aW9uPScvdmlkZW8/cGF0aD0vMjAxMC8xMS8xMTE2c2hhbml5YWRhZC5mbHYnTi9nZXRhdHRhY2htZW50Lzk0YzU2YWU5LWJkZDgtNGI1My04ZTE4LTkyNTgyNzBhODAyYi9WLS0xMS0xNy1zaGFuaXlhLWRhZDsuYXNweBRWOiAxMS8xNyBzaGFuaXlhIGRhZAVWSURFT15CcmFkbGV5IExvY2toYXJ0LCBmYXRoZXIgb2YgU2hhbml5YSBEYXZpcywgdGFsa3MgYWJvdXQgdGhlIGFubml2ZXJzYXJ5IG9mIGhpcyBkYXVnaHRlcidzIGRlYXRoZAIHD2QWAmYPZBYCZg8VBXN3aW5kb3cubG9jYXRpb249J2h0dHA6Ly9waG90b3MuZmF5b2JzZXJ2ZXIuY29tL215Y2FwdHVyZS9mb2xkZXIuYXNwP2V2ZW50PTExMTYyNTkmQ2F0ZWdvcnlJRD02MDA5NyZMaXN0U3ViQWxidW1zPTAnTy9nZXRhdHRhY2htZW50Lzk4YWVlY2EwLTYwNDctNDcwMC04MmM4LTNjZDMyZjkxYjQ3MC9TUy0tMTEtMTYteW91dGgtc3RhcnM7LmFzcHgVU1M6IDExLzE2IHlvdXRoIHN0YXJzC1lPVVRIIFNUQVJTLkNoZWNrIG91dCB0aGVzZSBwaG90b3MgZnJvbSB5b3V0aCBzb2NjZXIgZ2FtZXNkAggPZBYCZg9kFgJmDxUFUXdpbmRvdy5sb2NhdGlvbj0naHR0cDovL3d3dy5mYXlvYnNlcnZlci5jb20vYXJ0aWNsZXMvMjAxMC8xMS8wNy8xMDQ1MjMxP3NhYz1Ib21lJ1IvZ2V0YXR0YWNobWVudC85ODhiMjczZS00MzQ4LTQ1YTQtOWVhMC1jNTgzMDBkYTU5N2MvMTEtOS1TaGFuaXlhLWFubml2ZXJzYXJ5Oy5hc3B4GDExLzkgU2hhbml5YSBhbm5pdmVyc2FyeQ5TUEVDSUFMIFJFUE9SVDJPbmUgeWVhciBsYXRlcjogV2lsbCB0aGVyZSBiZSBqdXN0aWNlIGZvciBTaGFuaXlhP2QCCQ9kFgJmD2QWAmYPFQVQd2luZG93LmxvY2F0aW9uPSdodHRwOi8vd3d3LmZhY2Vib29rLmNvbS8jIS9wYWdlcy9GYXllLU9ic2VydmVyLzE2NjU5NDQ5MzM1Mzc1NCdPL2dldGF0dGFjaG1lbnQvYzcyODFhMGQtYzgxZi00MWQwLWJhYjgtMmQzYjFmYzVlMTk1L0ZhY2Vib29rLS1Gb2xsb3ctRmF5ZTsuYXNweBVGYWNlYm9vazogRm9sbG93IEZheWURRE8gWU9VIExJS0UgRkFZRT9FR2V0IGxvY2FsIG5ld3MgYW5kIG1vcmUgb24gRmFjZWJvb2sgZnJvbSBvdXIgdmVyeSBvd24gRmF5ZSBPYnNlcnZlci4gZAIKD2QWAmYPZBYCZg8VBU53aW5kb3cubG9jYXRpb249J2h0dHA6Ly93d3cuZmF5b2JzZXJ2ZXIuY29tL3NwZWNpYWwvMjAxMC8xMC9SQzIwMTAvaW5kZXguYXNweCdIL2dldGF0dGFjaG1lbnQvZDVlNjQwZTUtNjNkNy00OTUzLWE3ZDktMzEzNjQ0MjUyMzVmL1JlYWRlcnMtQ2hvaWNlOy5hc3B4DlJlYWRlcnMgQ2hvaWNlD1NQRUNJQUwgU0VDVElPThsyMDEwIFJlYWRlcnMnIENob2ljZSBBd2FyZHNkAgsPZBYCZg9kFgJmDxUFRndpbmRvdy5sb2NhdGlvbj0naHR0cDovL3d3dy5mYXlvYnNlcnZlci5jb20vY29udGVzdHMvcG9sbC1jb21pY3MuYXNweCdKL2dldGF0dGFjaG1lbnQvNDdlMjMzMDItNjQ1Zi00ZTUzLWIwNjMtY2E4NDcyNjNhNWRlLzEwLTUtQ29taWNzLXZvdGU7LmFzcHgLQ29taWNzIHZvdGUGQ09NSUNTRlZvdGUgZm9yIHdoaWNoIGNvbWljIHN0cmlwIHNob3VsZCByZXBsYWNlICdDYXRoeScgaW4gb3VyIFN1bmRheSBjb21pY3NkAgkPZBYCZg9kFgICAg9kFgJmD2QWAmYPZBYCZg8VBUh3aW5kb3cubG9jYXRpb249J2h0dHA6Ly9mYXlvYnNlcnZlci5jb20vY29udGVzdHMvQUNDLVBpZ3NraW4tUGlja3MuYXNweCdPL2dldGF0dGFjaG1lbnQvOTQwZGE0YmUtZTdkZi00NmJiLTkzYzktOWIzZTA1OTM1YzdlL0FDQy1QaWdza2luLUNoYWxsZW5nZTsuYXNweBVBQ0MgUGlnc2tpbiBDaGFsbGVuZ2UVQUNDIFBpZ3NraW4gQ2hhbGxlbmdljgFSZWdpc3RlciB0byB3aW4gZm91ciB0aWNrZXRzIHRvIHRoZQ0KQUNDIEZvb3RiYWxsIENoYW1waW9uc2hpcCBnYW1lIGluDQpDaGFybG90dGUgU2F0dXJkYXksIERlYy4gNCBhcyB3ZWxsIGFzDQp0d28tbmlnaHQgaG90ZWwgYWNjb21tb2RhdGlvbnMuZAIJD2QWAgIND2QWAmYPDxYCHgxQb2xsQ29kZU5hbWUFGTExLTIxLTEwLWFpcnBvcnQtc2VjdXJpdHlkZAIPD2QWAmYPZBYCAgIPZBYCZg9kFgJmD2QWAmYPFQIRRk9fTG9jYWxfNzI4eDkwXzIRRk9fTG9jYWxfNzI4eDkwXzJkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYEBS5wbGMkbHQkem9uZUJvdHRvbUJveDIkUG9sbF9ST1Mkdmlld1BvbGwkcmFkMTI1BS5wbGMkbHQkem9uZUJvdHRvbUJveDIkUG9sbF9ST1Mkdmlld1BvbGwkcmFkMTI1BS5wbGMkbHQkem9uZUJvdHRvbUJveDIkUG9sbF9ST1Mkdmlld1BvbGwkcmFkMTI2BS5wbGMkbHQkem9uZUJvdHRvbUJveDIkUG9sbF9ST1Mkdmlld1BvbGwkcmFkMTI2s0dNBZC+VXPDRgUGBgwXLbPUTSU=">
-</div>
+<link rel="icon" href="/favicon.ico"><script type="text/javascript" src="http://s.ppjol.net/pp.js">
 
-<script type="text/javascript">
-//<![CDATA[
-var theForm = document.forms['form1'];
-if (!theForm) {
-    theForm = document.form1;
+{
+
+'zone':"p_9C61pK36WQ5J-Y7C1lRh",
+
+'mode':"meter",
+
+'customPreCheck': "preCheckFayobserver100621",
+
+        'border': "_OSBPWG6CFgmGMUrb1VMoT",
+
+'debug':0
+
+
 }
-function __doPostBack(eventTarget, eventArgument) {
-    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
-        theForm.__EVENTTARGET.value = eventTarget;
-        theForm.__EVENTARGUMENT.value = eventArgument;
-        theForm.submit();
+
+</script><script type="text/javascript">
+
+function preCheckFayobserver100621($)
+
+{
+
+    loc = window.location + '';
+
+
+
+
+
+    if (loc.match(/\/(articles)\/.+/i))
+
+    {
+
+       return 1;
+
     }
+
+       return 0;
+
 }
-//]]>
-</script>
 
-
-<script src="/WebResource.axd?d=ueCdakgBJQcKSo08oBiPMw2&amp;t=634051004073162769" type="text/javascript"></script>
+</script></head>
+<body class="LTR ENUS" onload="showCarousel();">
+    <form name="form1" method="post" action="/help/privacy.aspx" id="form1">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTU2MjkyNjQyNw9kFgICARBkZBYCAgMPZBYCZg9kFgJmD2QWCAIDD2QWAgIBDw8WAh4HVmlzaWJsZWhkZAILD2QWAmYPZBYCAgIPZBYCZg9kFgJmD2QWBAIHD2QWAmYPZBYCAgIPZBYYZg9kFgJmD2QWAmYPFQU1d2luZG93LmxvY2F0aW9uPSdodHRwOi8vd3d3LmZheW9ic2VydmVyLmNvbS9kYXRhYmFzZSdYL2dldGF0dGFjaG1lbnQvOTNlZTkyNTAtNDJhNC00NDc2LWJiNTctOTk2NzcxNDgxZWIyL1B1YmxpYy1SZWNvcmRzLShuby1kZWxldGUpLSgxKTsuYXNweBpQdWJsaWMgUmVjb3JkcyAobm8gZGVsZXRlKQtEQVRBIENFTlRFUkVTZWUgZ292ZXJubWVudCBzYWxhcmllcyBhbmQgb3RoZXIgcHVibGljIGluZm9ybWF0aW9uIGluIG91ciBkYXRhYmFzZXNkAgEPZBYCZg9kFgJmDxUFKHdpbmRvdy5sb2NhdGlvbj0naHR0cDovL2ZiZWxpdGVtYWcuY29tLydZL2dldGF0dGFjaG1lbnQvNjY1ZWMxNjUtNzE4OS00YjFlLWJkMGEtZDA0ZDIzODNhM2IzL1NTLS0xMS0zLVJlbWVtYmVyLU1pc3MtRmF5LTE5NzQ7LmFzcHgVRWxpdGUgKERvIG5vdCBkZWxldGUpDkVMSVRFIE1BR0FaSU5FaFJlYWQgYWJvdXQgSG9sbHkgUGV0cmFldXMgYW5kIGhlciBmaWdodCBhZ2FpbnN0IGZpbmFuY2lhbCBmcmF1ZCBpbiB0aGlzIG1vbnRoJ3MgaXNzdWUgb2YgRWxpdGUgTWFnYXppbmUuZAICD2QWAmYPZBYCZg8VBVB3aW5kb3cubG9jYXRpb249J2h0dHA6Ly93d3cuZmFjZWJvb2suY29tLyMhL3BhZ2VzL0ZheWUtT2JzZXJ2ZXIvMTY2NTk0NDkzMzUzNzU0J08vZ2V0YXR0YWNobWVudC9jNzI4MWEwZC1jODFmLTQxZDAtYmFiOC0yZDNiMWZjNWUxOTUvRmFjZWJvb2stLUZvbGxvdy1GYXllOy5hc3B4FUZhY2Vib29rOiBGb2xsb3cgRmF5ZRFETyBZT1UgTElLRSBGQVlFP0VHZXQgbG9jYWwgbmV3cyBhbmQgbW9yZSBvbiBGYWNlYm9vayBmcm9tIG91ciB2ZXJ5IG93biBGYXllIE9ic2VydmVyLiBkAgMPZBYCZg9kFgJmDxUFRHdpbmRvdy5sb2NhdGlvbj0naHR0cDovL2ZheW9ic2VydmVyLmNvbS9hcnRpY2xlcy8yMDExLzA0LzIzLzEwODcwMDknTy9nZXRhdHRhY2htZW50LzhhZDg3ZjAzLTU1MWYtNDJlNi04YTQzLTRmZWU1NjdlNTY4NC9TUy0tNS0xNy1kaXZpc2lvbi1ydW47LmFzcHgYU3VtbWVyIENhbXBzIChubyBkZWxldGUpCENBTEVOREFSMUxvb2tpbmcgZm9yIGEgc3VtbWVyIGNhbXA/IEhlcmUncyBhIGxpc3Qgb2YgdGhlbS5kAgQPZBYCZg9kFgJmDxUFc3dpbmRvdy5sb2NhdGlvbj0naHR0cDovL3Bob3Rvcy5mYXlvYnNlcnZlci5jb20vbXljYXB0dXJlL2ZvbGRlci5hc3A/ZXZlbnQ9MTI1NTA5NSZDYXRlZ29yeUlEPTU1NjA0Jkxpc3RTdWJBbGJ1bXM9MCdRL2dldGF0dGFjaG1lbnQvNWE1YzhhNmItYmY4ZS00ZDhlLWJiNWEtYmY5OWU2MTdkNGI5L1NTLS01LTI2LWpvcGxpbi10b3JuYWRvOy5hc3B4F1NTOiA1LzI2IGpvcGxpbiB0b3JuYWRvClNMSURFIFNIT1dAUGhvdG9zIG9mIHRoZSBkYW1hZ2UgY2F1c2VkIGJ5IGEgdG9ybmFkbyB0aGF0IHN0cnVjayBKb3BsaW4sIE1vLmQCBQ9kFgJmD2QWAmYPFQVyd2luZG93LmxvY2F0aW9uPSdodHRwOi8vcGhvdG9zLmZheW9ic2VydmVyLmNvbS9teWNhcHR1cmUvZm9sZGVyLmFzcD9ldmVudD0xMjU1MTA2JkNhdGVnb3J5SUQ9MTMyOSZMaXN0U3ViQWxidW1zPTAnVS9nZXRhdHRhY2htZW50LzRmNTEwNGI4LWZiNmMtNDMyYi1iZjhmLTA4MmE4Mjc0NmNkMy9TUy0tNS0yNi1wcmVzaWRlbnRpYWwtYXdhcmQ7LmFzcHgbU1M6IDUvMjYgcHJlc2lkZW50aWFsIGF3YXJkClNMSURFIFNIT1dgNXRoIFNxdWFkcm9uLCA3M3JkIENhdmFscnkgUmVnaW1lbnQsIDNyZCBCcmlnYWRlIENvbWJhdCB0ZWFtIHJlY2VpdmVzIFByZXNpZGVudGlhbCBVbml0IENpdGF0aW9uZAIGD2QWAmYPZBYCZg8VBXJ3aW5kb3cubG9jYXRpb249J2h0dHA6Ly9waG90b3MuZmF5b2JzZXJ2ZXIuY29tL215Y2FwdHVyZS9mb2xkZXIuYXNwP2V2ZW50PTEyNTUwODYmQ2F0ZWdvcnlJRD0xMDQ3Jkxpc3RTdWJBbGJ1bXM9MCdTL2dldGF0dGFjaG1lbnQvYjQzNmFmMTUtYzEzNS00N2FjLTkxZWYtNTMwMWRkYmQ4YWY0L1NTLS01LTI2LXdlc3QtcG9pbnQtZ3JhZHM7LmFzcHgZU1M6IDUvMjYgd2VzdCBwb2ludCBncmFkcwpTTElERSBTSE9XQkNhZGV0cyBncmFkdWF0ZSBmcm9tIHRoZSBVLlMuIE1pbGl0YXJ5IEFjYWRlbXkgaW4gV2VzdCBQb2ludCwgTi5ZLmQCBw9kFgJmD2QWAmYPFQVyd2luZG93LmxvY2F0aW9uPSdodHRwOi8vcGhvdG9zLmZheW9ic2VydmVyLmNvbS9teWNhcHR1cmUvZm9sZGVyLmFzcD9ldmVudD0xMjU1Njc0JkNhdGVnb3J5SUQ9MTMyOSZMaXN0U3ViQWxidW1zPTAnUC9nZXRhdHRhY2htZW50L2M0MjJlNGYzLTdiZjAtNDYwNy04Y2JkLTBiNWE2YjM3ODkxMS9TUy0tNS0yNy1hbWVyaWNhbi1pZG9sOy5hc3B4FlNTOiA1LzI3IGFtZXJpY2FuIGlkb2wKU0xJREUgU0hPVyRTY290dHkgTWNDcmVlcnkgd2lucyAnQW1lcmljYW4gSWRvbCdkAggPZBYCZg9kFgJmDxUFcndpbmRvdy5sb2NhdGlvbj0naHR0cDovL3Bob3Rvcy5mYXlvYnNlcnZlci5jb20vbXljYXB0dXJlL2ZvbGRlci5hc3A/ZXZlbnQ9MTI1NTk3NSZDYXRlZ29yeUlEPTEwMzUmTGlzdFN1YkFsYnVtcz0wJ1UvZ2V0YXR0YWNobWVudC8zOTg2ZTFlNi0xMWFjLTRjZWItOWQ0OC02MjE1MjNlYzY4YjMvU1MtLTUtMjctZmFsbGVuLXNwZWNpYWwtb3BzOy5hc3B4HFNTOiA1LzI3IGZhbGxlbiBzcGVjaWFsIG9wcyAKU0xJREUgU0hPVzVGYWxsZW4gU3BlY2lhbCBPcGVyYXRpb25zIFNvbGRpZXJzJyBNZW1vcmlhbCBjZXJlbW9ueWQCCQ9kFgJmD2QWAmYPFQVyd2luZG93LmxvY2F0aW9uPSdodHRwOi8vcGhvdG9zLmZheW9ic2VydmVyLmNvbS9teWNhcHR1cmUvZm9sZGVyLmFzcD9ldmVudD0xMjU1Njk4JkNhdGVnb3J5SUQ9MTMyOSZMaXN0U3ViQWxidW1zPTAnVy9nZXRhdHRhY2htZW50L2ZiMGExYmJhLWQ3M2QtNDExOS05NTU1LTM0NWU3YjllNmQ0YS9TUy0tNS0yNy1zcHJpbmctbGFrZS1tZW1vcmlhbDsuYXNweB1TUzogNS8yNyBzcHJpbmcgbGFrZSBtZW1vcmlhbApTTElERSBTSE9XIVNwcmluZyBMYWtlIE1lbW9yaWFsIERheSBjZXJlbW9ueWQCCg9kFgJmD2QWAmYPFQVzd2luZG93LmxvY2F0aW9uPSdodHRwOi8vcGhvdG9zLmZheW9ic2VydmVyLmNvbS9teWNhcHR1cmUvZm9sZGVyLmFzcD9ldmVudD0xMjU0ODc0JkNhdGVnb3J5SUQ9NTE1MzgmTGlzdFN1YkFsYnVtcz0wJ0kvZ2V0YXR0YWNobWVudC8xMmVmNWIxYi02MDYyLTRkNmUtOGUzNi1lNWE4MzFkODc4OWQvMy0xNS10b3AtcGhvdG9zOy5hc3B4FVNTOiA1LzI3IFBhcGVyIHBob3Rvcw9GUklEQVknUyBQSE9UT1NAVmlldyBhbmQgYnV5IHBob3RvcyB0aGF0IGFwcGVhcmVkIGluIFRoZSBGYXlldHRldmlsbGUgT2JzZXJ2ZXINCmQCCw9kFgJmD2QWAmYPFQVzd2luZG93LmxvY2F0aW9uPSdodHRwOi8vcGhvdG9zLmZheW9ic2VydmVyLmNvbS9teWNhcHR1cmUvZm9sZGVyLmFzcD9ldmVudD0xMjUzNTU4JkNhdGVnb3J5SUQ9NTk3MTAmTGlzdFN1YkFsYnVtcz0wJ1gvZ2V0YXR0YWNobWVudC85Yjc2ZjJjMy0zZWIxLTRjODEtOTAwMC1hYTM4ODI2M2Q2ZDgvU1MtLTUtMjUtcmVtZW1iZXItdHJhaW4tZGVyYWlsOy5hc3B4HlNTOiA1LzI1IHJlbWVtYmVyLXRyYWluIGRlcmFpbApTTElERSBTSE9XQFJlbWVtYmVyIFRoaXM/IFRyYWluIGRlcmFpbG1lbnQgaW4gZG93bnRvd24gRmF5ZXR0ZXZpbGxlIGluIDE5NzhkAgkPZBYCZg9kFgICAg9kFgJmD2QWAmYPZBYCZg8VBTx3aW5kb3cubG9jYXRpb249J2h0dHA6Ly9tYXJrZXRwbGFjZS5mYXlvYnNlcnZlci5jb20vcmV3YXJkcydFL2dldGF0dGFjaG1lbnQvNWEyM2RmNjYtMjBhYy00MjkzLTljYTUtNzRhMTI5YWFkZWNiL0xOTy0tLU1hcmNoOy5hc3B4EE9ic2VydmVyIFJld2FyZHMPU1BFQ0lBTCBPRkZFUlMhak9ic2VydmVyIFN1YnNjcmliZXJzIGdldCBPYnNlcnZlciBSZXdhcmRzISBMb2cgb24gdG9kYXkgdG8gdmlldyBleGNsdXNpdmUgZGlzY291bnRzIGZyb20gbG9jYWwgYnVzaW5lc3Nlcy5kAg0PZBYCAg0PZBYCZg8PFgIeDFBvbGxDb2RlTmFtZQUNMDUyMl9mYXlfZml2ZWRkAhMPZBYCZg9kFgICAg9kFgJmD2QWAmYPZBYCZg8VAhFGT19Mb2NhbF83Mjh4OTBfMhFGT19Mb2NhbF83Mjh4OTBfMmQYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgoFLnBsYyRsdCR6b25lQm90dG9tQm94MiRQb2xsX1JPUyR2aWV3UG9sbCRyYWQyMzEFLnBsYyRsdCR6b25lQm90dG9tQm94MiRQb2xsX1JPUyR2aWV3UG9sbCRyYWQyMzEFLnBsYyRsdCR6b25lQm90dG9tQm94MiRQb2xsX1JPUyR2aWV3UG9sbCRyYWQyMzIFLnBsYyRsdCR6b25lQm90dG9tQm94MiRQb2xsX1JPUyR2aWV3UG9sbCRyYWQyMzIFLnBsYyRsdCR6b25lQm90dG9tQm94MiRQb2xsX1JPUyR2aWV3UG9sbCRyYWQyMzMFLnBsYyRsdCR6b25lQm90dG9tQm94MiRQb2xsX1JPUyR2aWV3UG9sbCRyYWQyMzMFLnBsYyRsdCR6b25lQm90dG9tQm94MiRQb2xsX1JPUyR2aWV3UG9sbCRyYWQyMzQFLnBsYyRsdCR6b25lQm90dG9tQm94MiRQb2xsX1JPUyR2aWV3UG9sbCRyYWQyMzQFLnBsYyRsdCR6b25lQm90dG9tQm94MiRQb2xsX1JPUyR2aWV3UG9sbCRyYWQyMzUFLnBsYyRsdCR6b25lQm90dG9tQm94MiRQb2xsX1JPUyR2aWV3UG9sbCRyYWQyMzVD84HUFtSNGYenkdT8CeeXL9sSYg==">
+</div>
 
 <div><input type="hidden" name="lng" id="lng" value="en-US">
 </div><script type="text/javascript">
@@ -148,28 +152,49 @@ function __doPostBack(eventTarget, eventArgument) {
 
 //]]>
 </script>
-<script src="/ScriptResource.axd?d=VbafJGwy43OGvKVLFJ6kGN3Whu8hhzWmjr1raOZLq_rkolGMskVngpVba2BT3BlUrNWqe_UW4cbg33OSj9yhSvkj1bWfM6-5o0bcp-dtdeI1&amp;t=fffffffff932625e" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=VbafJGwy43OGvKVLFJ6kGN3Whu8hhzWmjr1raOZLq_rkolGMskVngpVba2BT3BlUhU35AJEBB3DMzDLPrdFDoQCDFStaYFUm2GCE0ALozCw1&amp;t=fffffffff932625e" type="text/javascript"></script>
-<div>
-
-	<input type="hidden" name="__SCROLLPOSITIONX" id="__SCROLLPOSITIONX" value="0">
-	<input type="hidden" name="__SCROLLPOSITIONY" id="__SCROLLPOSITIONY" value="0">
-</div>
+<script src="/ScriptResource.axd?d=VuzWK1AUpI92d5zjOKURi0iHnfc6hrGWBwHXE4c4AXr6vihSQvLEvmL4sJ9DLm-esYk5YWkXJYdWH8UQV4ogmIRz0ZlE7_Ht6FojIQEUD_I1&amp;t=fffffffff932625e" type="text/javascript"></script>
     <div id="manPortal">
 
-</div><script type="text/javascript">
-//<![CDATA[
-Sys.WebForms.PageRequestManager._initialize('manScript', document.getElementById('form1'));
-Sys.WebForms.PageRequestManager.getInstance()._updateControls([], [], [], 90);
-//]]>
-</script>
-
+</div>
      
 <div id="page-wrapper"> 
+    <div id="login-box" style="display: none;">
+      <p>Username:</p>
+      <div id="plc_lt_zoneLoginBox_OpenIDlogon_Fay_pnlLogon" class="OpenIDContainer">
+	
+    <input name="plc$lt$zoneLoginBox$OpenIDlogon_Fay$txtInput" type="text" id="plc_lt_zoneLoginBox_OpenIDlogon_Fay_txtInput" class="LongTextbox">
+    <script type="text/javascript" src="http://www.fayobserver.com/CMSWebparts/Membership/OpenID/OpenID_files/OpenIDSelectorFay.js" id="__openidselector"></script>
+    <script type="text/javascript">
+//<![CDATA[
+var providers = [{ longname: "FayObserver OpenID", shortname: "FayObserver OpenID", url_prefix: "", url_suffix: "http://id.fayobserver.com/", usercalled: "username", website: "http://id.fayobserver.com/", icon: "http://www.fayobserver.com/CMSWebparts/Membership/OpenID/OpenID_files/fayob.ico", id: 1, openid1: false, openid2: true }];
+var iconlocation = "http://www.fayobserver.com/App_Themes/Default/Images/CMSModules/CMS_OpenID/"; 
+var providerlocation = "http://www.fayobserver.com/CMSWebparts/Membership/OpenID/OpenID_files/";
+var idselector_input_id = "plc_lt_zoneLoginBox_OpenIDlogon_Fay_txtInput";
+var displaytextbox = true;
+var otheropenid = "Other OpenID";
+var clicktosignin = "Click to Sign In";
+
+//]]>
+</script>
+    <input type="hidden" name="plc$lt$zoneLoginBox$OpenIDlogon_Fay$hdnValue" id="plc_lt_zoneLoginBox_OpenIDlogon_Fay_hdnValue">
+    <input type="submit" name="plc$lt$zoneLoginBox$OpenIDlogon_Fay$btnSignIn" value="Login" id="plc_lt_zoneLoginBox_OpenIDlogon_Fay_btnSignIn">
+    
+    
+    
+    
+    
+    
+
+</div>
+
+      <p><a href="https://sid.fayobserver.com/cgi-bin/reset">Forgotten password?</a><br><br><a href="/help/terms">Terms of Use</a> | <a href="/help/privacy">Privacy Policy</a> | <a href="/help/comments">Comment Policy</a></p>
+      <p class="register-text"><a href="http://zope.fayobserver.com/register_oid">Don't have an account? Click here to register.</a></p>
+      <p>You need an account to comment on all FayObserver.com articles and blogs.</p>
+      <p class="login-close" onclick="javascript:closeLoginBox();">Close this window</p>
+    </div>
   <div id="header-top-links">
     <ul id="top-links">
       <li class="service" onclick="javascript:pageTracker._trackPageview('clicks/master/top-rewards-link');"><a href="http://zope.fayobserver.com/rewards">OBSERVER REWARDS</a></li>
-      <li class="network" onclick="javascript:pageTracker._trackPageview('clicks/master/910-tab');"><a href="#910network">910 NETWORK</a></li>
       <li class="network" onclick="javascript:pageTracker._trackPageview('clicks/master/fbl-tab');"><a href="http://www.fortbragglife.com">FORT BRAGG LIFE</a></li>
       <li class="network" onclick="javascript:pageTracker._trackPageview('clicks/master/weekendernow-tab');"><a href="http://www.weekendernow.com">WEEKENDER NOW</a></li>
       <li class="marketplace" onclick="javascript:pageTracker._trackPageview('clicks/master/jobs-tab');"><a href="http://capefearemployment.com">JOBS</a></li>
@@ -179,10 +204,15 @@ Sys.WebForms.PageRequestManager.getInstance()._updateControls([], [], [], 90);
       <li class="marketplace" onclick="javascript:pageTracker._trackPageview('clicks/master/yellowpages-tab');"><a href="http://yellowpages.fayobserver.com">YELLOW PAGES</a></li>
       <li class="marketplace" onclick="javascript:pageTracker._trackPageview('clicks/master/boocoo-tab');"><a href="http://fayobserver.boocoo.com">BOOCOO AUCTIONS</a></li>
     </ul>
+    <ul id="login">
+      <li class="login" onclick="javascript:pageTracker._trackPageview('clicks/master/login');showLoginBox();"><div>Login</div></li><li class="login" onclick="window.open('http://zope.fayobserver.com/register_oid')"><div>Register</div></li>
+    </ul>
     <ul id="one">
-      <li class="service" onclick="javascript:pageTracker._trackPageview('clicks/master/customer-service-link');"><a href="#">CUSTOMER SERVICE ▼</a>
+      <li class="service" onclick="javascript:pageTracker._trackPageview('clicks/master/customer-service-link');"><a href="http://www.fayobserver.com/help/services.aspx">Customer Service ▼</a>
         <ul>
-          <li><a href="http://www.fayobserver.com/help/services.aspx">Subscribe</a></li>
+          <li><a href="http://www.fayobserver.com/help/pressplus.aspx">Online Subscription</a></li>
+          <li><a href="http://fayobserver.com/help/services">E-Edition Subscription</a></li>
+          <li><a href="http://fayobserver.com/help/services">Print Subscription</a></li>
           <li><a href="http://marketplace.fayobserver.com/mediakit/contacts.html">Advertise</a></li>
           <li><a href="http://www.fayobserver.com/help/contact.aspx">Contact us</a></li>
         </ul>
@@ -194,7 +224,7 @@ Sys.WebForms.PageRequestManager.getInstance()._updateControls([], [], [], 90);
       <div id="header-search">
         <div class="search-label">Search: </div>
 <div class="search-archives-label"><a href="http://zope.fayobserver.com/search">Search Archives</a></div>
-<div class="search-bar"><div id="plc_lt_zoneSearch_SearchBox_pnlSearch" class="searchBox" onkeypress="javascript:return WebForm_FireDefaultButton(event, 'plc_lt_zoneSearch_SearchBox_btnSearch')">
+<div class="search-bar"><div id="plc_lt_zoneSearch_SearchBox_pnlSearch" class="searchBox">
 	
     <label for="plc_lt_zoneSearch_SearchBox_txtWord" id="plc_lt_zoneSearch_SearchBox_lblSearch" class="search-text">|:</label>
     <input name="plc$lt$zoneSearch$SearchBox$txtWord" type="text" maxlength="1000" id="plc_lt_zoneSearch_SearchBox_txtWord" class="search-field">
@@ -243,18 +273,18 @@ Sys.WebForms.PageRequestManager.getInstance()._updateControls([], [], [], 90);
 		<li><a href="/crime">Crime</a></li>
 		<li><a href="/business">Business</a></li>
 		<li><a href="http://www.legacy.com/obituaries/fayettevilleobserver/">Obituaries</a></li>
-		<li><a href="/world">Nation &amp; World</a></li>
 		<li><a href="/sports">Sports</a></li>
-		<li><a href="/acc">ACC Sports</a></li>
+		<li><a href="/world">Nation &amp; World</a></li>
 		<li><a href="/life">Life</a></li>
 		<li><a href="/events">Events</a></li>
 		<li><a href="/opinion">Opinion</a></li>
 		<li><a href="/columns">Columns</a></li>
 		<li><a href="/blogs">Blogs</a></li>
 		<li><a href="/cheers">Cheers &amp; Jeers</a></li>
-		<li><a href="/weather">Weather</a></li>
 		<li><a href="/video">Videos</a></li>
-		<li><a href="http://photos.fayobserver.com">Photos</a></li>
+		<li><a href="/weather">Weather</a></li>
+		<li><a href="/photos">Photos</a></li>
+		<li><a href="/database">Public Records</a></li>
 		<li><a href="/contests">Contests</a></li>
 	</ul>
 
@@ -295,7 +325,8 @@ Sys.WebForms.PageRequestManager.getInstance()._updateControls([], [], [], 90);
     </div>
   </div>
   <div id="content-column-middle">
-    <div id="content-page"><h2 class="section-header"><span>Privacy Policy</span></h2>
+    <div id="content-page">
+	<h2 class="section-header"><span>Privacy Policy</span></h2>
 <p>Welcome to The Fayetteville Observer and its online service, FayObserver.com, which also hosts FayObserver Blogs, email subscription newsletters, text message alerts and other topic-specific sites (collectively, the "Online Service"). The Fayetteville Observer takes your privacy seriously. Our Privacy Policy explains our policies and practices for collecting, using, maintaining, sharing, and protecting personal information. Our Privacy Policy should be read in conjunction with the Terms of Use Agreement (the "Agreement") between you and Fayetteville Publishing Company, owner of The Fayetteville Observer ("us" or "we") for use of the Online Service.</p>
 <p>From time to time, we may make changes in this Privacy Policy. We will notify you of any such changes by posting them here. Your continued use of the Online Service after we post such changes signifies that you have accepted these changes.</p>
 <p>Our Online Service may contain links to other web sites, including web sites directed to children. We have no control over the privacy practices or the content of these sites. When you link to any other site, you should check the privacy policy of the sponsor of that site.</p>
@@ -328,78 +359,77 @@ Sys.WebForms.PageRequestManager.getInstance()._updateControls([], [], [], 90);
       <h1 class="section-header"><span>Featured</span></h1>
       
 
-        <div class="item" onclick="window.location='/video?path=/2010/11/1121owlsetfree.flv'">
-          <div class="carousel-photo"><img src="/getattachment/5b1b2c03-0fa2-4490-9d9a-e45637a8297e/V--11-21-owl-release;.aspx" alt="V: 11/21 owl release"></div>
-          <div class="carousel-kicker">VIDEO</div>
-          <div class="carousel-text">Owl found in Observer parking lot set free after recovering from injuries</div>
+        <div class="item" onclick="window.location='http://www.fayobserver.com/database'" style="display: block;">
+          <div class="carousel-photo"><img src="/getattachment/93ee9250-42a4-4476-bb57-996771481eb2/Public-Records-(no-delete)-(1);.aspx" alt="Public Records (no delete)"></div>
+          <div class="carousel-kicker">DATA CENTER</div>
+          <div class="carousel-text">See government salaries and other public information in our databases</div>
         </div>
 
-        <div class="item" onclick="window.location='http://photos.fayobserver.com/mycapture/folder.asp?event=1118789&amp;CategoryID=51538&amp;ListSubAlbums=0'" style="display: block;">
-          <div class="carousel-photo"><img src="/getattachment/12ef5b1b-6062-4d6e-8e36-e5a831d8789d/3-15-top-photos;.aspx" alt="SS: 11/21 Paper photos"></div>
-          <div class="carousel-kicker">SUNDAY'S PHOTOS</div>
-          <div class="carousel-text">View and buy photos that appeared in The Fayetteville Observer
-</div>
+        <div class="item" onclick="window.location='http://fbelitemag.com/'">
+          <div class="carousel-photo"><img src="/getattachment/665ec165-7189-4b1e-bd0a-d04d2383a3b3/SS--11-3-Remember-Miss-Fay-1974;.aspx" alt="Elite (Do not delete)"></div>
+          <div class="carousel-kicker">ELITE MAGAZINE</div>
+          <div class="carousel-text">Read about Holly Petraeus and her fight against financial fraud in this month's issue of Elite Magazine.</div>
         </div>
 
-        <div class="item" onclick="window.location='http://photos.fayobserver.com/mycapture/folder.asp?event=1118791&amp;CategoryID=1329&amp;ListSubAlbums=0'" style="display: block;">
-          <div class="carousel-photo"><img src="/getattachment/bc13b798-262a-4c96-b287-93af9039f428/SS--11-20-saturday-extra;.aspx" alt="SS: 11/20 saturday extra"></div>
-          <div class="carousel-kicker">SLIDE SHOW</div>
-          <div class="carousel-text">Photos from the Nov. 20 edition of Saturday Extra</div>
-        </div>
-
-        <div class="item" onclick="window.location='http://photos.fayobserver.com/mycapture/folder.asp?event=1119466&amp;CategoryID=1035&amp;ListSubAlbums=0'">
-          <div class="carousel-photo"><img src="/getattachment/252706a4-5c09-4360-a311-15cc586e0153/SS--11-18-Army-Field-Band;.aspx" alt="SS: 11/18 Army Field Band"></div>
-          <div class="carousel-kicker">SLIDE SHOW</div>
-          <div class="carousel-text">The United States Army Field Band &amp; Soldiers Chorus </div>
-        </div>
-
-        <div class="item" onclick="window.location='http://photos.fayobserver.com/mycapture/folder.asp?event=1118057&amp;CategoryID=59710&amp;ListSubAlbums=0'">
-          <div class="carousel-photo"><img src="/getattachment/41655d0b-8e0c-4456-b372-11f3747e7412/SS--11-3-Remember-Miss-Fay-1974;.aspx" alt="SS: 11/17 Remember-Christmas Parade"></div>
-          <div class="carousel-kicker">SLIDE SHOW</div>
-          <div class="carousel-text">Remember This? The 1973 Fayetteville Christmas Parade</div>
-        </div>
-
-        <div class="item" onclick="window.location='http://photos.fayobserver.com/mycapture/folder.asp?event=1118729&amp;CategoryID=1329&amp;ListSubAlbums=0'">
-          <div class="carousel-photo"><img src="/getattachment/5060c8e5-9975-4570-b42c-d7fc9f06f705/SS--11-17-wounded-warriors;.aspx" alt="SS: 11/17 wounded warriors"></div>
-          <div class="carousel-kicker">SLIDE SHOW</div>
-          <div class="carousel-text">Wounded Warriors college scholarship awards
-</div>
-        </div>
-
-        <div class="item" onclick="window.location='/video?path=/2010/11/1116shaniyadad.flv'">
-          <div class="carousel-photo"><img src="/getattachment/94c56ae9-bdd8-4b53-8e18-9258270a802b/V--11-17-shaniya-dad;.aspx" alt="V: 11/17 shaniya dad"></div>
-          <div class="carousel-kicker">VIDEO</div>
-          <div class="carousel-text">Bradley Lockhart, father of Shaniya Davis, talks about the anniversary of his daughter's death</div>
-        </div>
-
-        <div class="item" onclick="window.location='http://photos.fayobserver.com/mycapture/folder.asp?event=1116259&amp;CategoryID=60097&amp;ListSubAlbums=0'" style="display: block;">
-          <div class="carousel-photo"><img src="/getattachment/98aeeca0-6047-4700-82c8-3cd32f91b470/SS--11-16-youth-stars;.aspx" alt="SS: 11/16 youth stars"></div>
-          <div class="carousel-kicker">YOUTH STARS</div>
-          <div class="carousel-text">Check out these photos from youth soccer games</div>
-        </div>
-
-        <div class="item" onclick="window.location='http://www.fayobserver.com/articles/2010/11/07/1045231?sac=Home'" style="display: block;">
-          <div class="carousel-photo"><img src="/getattachment/988b273e-4348-45a4-9ea0-c58300da597c/11-9-Shaniya-anniversary;.aspx" alt="11/9 Shaniya anniversary"></div>
-          <div class="carousel-kicker">SPECIAL REPORT</div>
-          <div class="carousel-text">One year later: Will there be justice for Shaniya?</div>
-        </div>
-
-        <div class="item" onclick="window.location='http://www.facebook.com/#!/pages/Faye-Observer/166594493353754'">
+        <div class="item" onclick="window.location='http://www.facebook.com/#!/pages/Faye-Observer/166594493353754'" style="display: block;">
           <div class="carousel-photo"><img src="/getattachment/c7281a0d-c81f-41d0-bab8-2d3b1fc5e195/Facebook--Follow-Faye;.aspx" alt="Facebook: Follow Faye"></div>
           <div class="carousel-kicker">DO YOU LIKE FAYE?</div>
           <div class="carousel-text">Get local news and more on Facebook from our very own Faye Observer. </div>
         </div>
 
-        <div class="item" onclick="window.location='http://www.fayobserver.com/special/2010/10/RC2010/index.aspx'">
-          <div class="carousel-photo"><img src="/getattachment/d5e640e5-63d7-4953-a7d9-31364425235f/Readers-Choice;.aspx" alt="Readers Choice"></div>
-          <div class="carousel-kicker">SPECIAL SECTION</div>
-          <div class="carousel-text">2010 Readers' Choice Awards</div>
+        <div class="item" onclick="window.location='http://fayobserver.com/articles/2011/04/23/1087009'">
+          <div class="carousel-photo"><img src="/getattachment/8ad87f03-551f-42e6-8a43-4fee567e5684/SS--5-17-division-run;.aspx" alt="Summer Camps (no delete)"></div>
+          <div class="carousel-kicker">CALENDAR</div>
+          <div class="carousel-text">Looking for a summer camp? Here's a list of them.</div>
         </div>
 
-        <div class="item" onclick="window.location='http://www.fayobserver.com/contests/poll-comics.aspx'">
-          <div class="carousel-photo"><img src="/getattachment/47e23302-645f-4e53-b063-ca847263a5de/10-5-Comics-vote;.aspx" alt="Comics vote"></div>
-          <div class="carousel-kicker">COMICS</div>
-          <div class="carousel-text">Vote for which comic strip should replace 'Cathy' in our Sunday comics</div>
+        <div class="item" onclick="window.location='http://photos.fayobserver.com/mycapture/folder.asp?event=1255095&amp;CategoryID=55604&amp;ListSubAlbums=0'">
+          <div class="carousel-photo"><img src="/getattachment/5a5c8a6b-bf8e-4d8e-bb5a-bf99e617d4b9/SS--5-26-joplin-tornado;.aspx" alt="SS: 5/26 joplin tornado"></div>
+          <div class="carousel-kicker">SLIDE SHOW</div>
+          <div class="carousel-text">Photos of the damage caused by a tornado that struck Joplin, Mo.</div>
+        </div>
+
+        <div class="item" onclick="window.location='http://photos.fayobserver.com/mycapture/folder.asp?event=1255106&amp;CategoryID=1329&amp;ListSubAlbums=0'" style="display: block;">
+          <div class="carousel-photo"><img src="/getattachment/4f5104b8-fb6c-432b-bf8f-082a82746cd3/SS--5-26-presidential-award;.aspx" alt="SS: 5/26 presidential award"></div>
+          <div class="carousel-kicker">SLIDE SHOW</div>
+          <div class="carousel-text">5th Squadron, 73rd Cavalry Regiment, 3rd Brigade Combat team receives Presidential Unit Citation</div>
+        </div>
+
+        <div class="item" onclick="window.location='http://photos.fayobserver.com/mycapture/folder.asp?event=1255086&amp;CategoryID=1047&amp;ListSubAlbums=0'">
+          <div class="carousel-photo"><img src="/getattachment/b436af15-c135-47ac-91ef-5301ddbd8af4/SS--5-26-west-point-grads;.aspx" alt="SS: 5/26 west point grads"></div>
+          <div class="carousel-kicker">SLIDE SHOW</div>
+          <div class="carousel-text">Cadets graduate from the U.S. Military Academy in West Point, N.Y.</div>
+        </div>
+
+        <div class="item" onclick="window.location='http://photos.fayobserver.com/mycapture/folder.asp?event=1255674&amp;CategoryID=1329&amp;ListSubAlbums=0'">
+          <div class="carousel-photo"><img src="/getattachment/c422e4f3-7bf0-4607-8cbd-0b5a6b378911/SS--5-27-american-idol;.aspx" alt="SS: 5/27 american idol"></div>
+          <div class="carousel-kicker">SLIDE SHOW</div>
+          <div class="carousel-text">Scotty McCreery wins 'American Idol'</div>
+        </div>
+
+        <div class="item" onclick="window.location='http://photos.fayobserver.com/mycapture/folder.asp?event=1255975&amp;CategoryID=1035&amp;ListSubAlbums=0'">
+          <div class="carousel-photo"><img src="/getattachment/3986e1e6-11ac-4ceb-9d48-621523ec68b3/SS--5-27-fallen-special-ops;.aspx" alt="SS: 5/27 fallen special ops "></div>
+          <div class="carousel-kicker">SLIDE SHOW</div>
+          <div class="carousel-text">Fallen Special Operations Soldiers' Memorial ceremony</div>
+        </div>
+
+        <div class="item" onclick="window.location='http://photos.fayobserver.com/mycapture/folder.asp?event=1255698&amp;CategoryID=1329&amp;ListSubAlbums=0'">
+          <div class="carousel-photo"><img src="/getattachment/fb0a1bba-d73d-4119-9555-345e7b9e6d4a/SS--5-27-spring-lake-memorial;.aspx" alt="SS: 5/27 spring lake memorial"></div>
+          <div class="carousel-kicker">SLIDE SHOW</div>
+          <div class="carousel-text">Spring Lake Memorial Day ceremony</div>
+        </div>
+
+        <div class="item" onclick="window.location='http://photos.fayobserver.com/mycapture/folder.asp?event=1254874&amp;CategoryID=51538&amp;ListSubAlbums=0'">
+          <div class="carousel-photo"><img src="/getattachment/12ef5b1b-6062-4d6e-8e36-e5a831d8789d/3-15-top-photos;.aspx" alt="SS: 5/27 Paper photos"></div>
+          <div class="carousel-kicker">FRIDAY'S PHOTOS</div>
+          <div class="carousel-text">View and buy photos that appeared in The Fayetteville Observer
+</div>
+        </div>
+
+        <div class="item" onclick="window.location='http://photos.fayobserver.com/mycapture/folder.asp?event=1253558&amp;CategoryID=59710&amp;ListSubAlbums=0'" style="display: block;">
+          <div class="carousel-photo"><img src="/getattachment/9b76f2c3-3eb1-4c81-9000-aa388263d6d8/SS--5-25-remember-train-derail;.aspx" alt="SS: 5/25 remember-train derail"></div>
+          <div class="carousel-kicker">SLIDE SHOW</div>
+          <div class="carousel-text">Remember This? Train derailment in downtown Fayetteville in 1978</div>
         </div>
 
 
@@ -414,13 +444,10 @@ Sys.WebForms.PageRequestManager.getInstance()._updateControls([], [], [], 90);
       <h1 class="section-header"><span>Special promotions</span></h1>
         <div class="promo-items">
 
-        <div class="item" onclick="window.location='http://fayobserver.com/contests/ACC-Pigskin-Picks.aspx'">
-          <div class="carousel-photo"><img src="/getattachment/940da4be-e7df-46bb-93c9-9b3e05935c7e/ACC-Pigskin-Challenge;.aspx" alt="ACC Pigskin Challenge"></div>
-          <div class="carousel-kicker">ACC Pigskin Challenge</div>
-          <div class="carousel-text">Register to win four tickets to the
-ACC Football Championship game in
-Charlotte Saturday, Dec. 4 as well as
-two-night hotel accommodations.</div>
+        <div class="item" onclick="window.location='http://marketplace.fayobserver.com/rewards'">
+          <div class="carousel-photo"><img src="/getattachment/5a23df66-20ac-4293-9ca5-74a129aadecb/LNO---March;.aspx" alt="Observer Rewards"></div>
+          <div class="carousel-kicker">SPECIAL OFFERS!</div>
+          <div class="carousel-text">Observer Subscribers get Observer Rewards! Log on today to view exclusive discounts from local businesses.</div>
         </div>
 
 </div>
@@ -438,12 +465,12 @@ two-night hotel accommodations.</div>
   </div>
   <div class="content-bottom-row">
     <h1 class="section-header"><span>FayObserver Extras</span></h1>
-    <div class="content-bottom-box"><div id="plc_lt_zoneBottomBox2_Poll_ROS_viewPoll_pnlControl" class="PollControl" onkeypress="javascript:return WebForm_FireDefaultButton(event, 'plc_lt_zoneBottomBox2_Poll_ROS_viewPoll_btnVote')">
+    <div class="content-bottom-box"><div id="plc_lt_zoneBottomBox2_Poll_ROS_viewPoll_pnlControl" class="PollControl">
 	
-    <span id="plc_lt_zoneBottomBox2_Poll_ROS_viewPoll_lblTitle" class="PollTitle">UP IN THE AIR</span>
-    <span id="plc_lt_zoneBottomBox2_Poll_ROS_viewPoll_lblQuestion" class="PollQuestion">Will the increased airport security with full body scans or pat downs deter you from flying?</span>
+    <span id="plc_lt_zoneBottomBox2_Poll_ROS_viewPoll_lblTitle" class="PollTitle">VOTE</span>
+    <span id="plc_lt_zoneBottomBox2_Poll_ROS_viewPoll_lblQuestion" class="PollQuestion">Which of the scheduled Fayetteville After Five bands is your favorite?</span>
     <div id="plc_lt_zoneBottomBox2_Poll_ROS_viewPoll_pnlAnswer" class="PollAnswers">
-		<table cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="PollAnswer" colspan="2"><span class="PollAnswerRadio"><input id="plc_lt_zoneBottomBox2_Poll_ROS_viewPoll_rad125" type="radio" name="plc$lt$zoneBottomBox2$Poll_ROS$viewPoll$11-21-10-airport-securityGroup" value="rad125"><label for="plc_lt_zoneBottomBox2_Poll_ROS_viewPoll_rad125">Yes</label></span></td></tr><tr><td style="width: 100%;"><div class="PollGraph"><div class="PollGraph0" style="width:98%">&nbsp;</div></div></td><td style="white-space: nowrap;" class="PollCount">49%</td></tr><tr><td class="PollAnswer" colspan="2"><span class="PollAnswerRadio"><input id="plc_lt_zoneBottomBox2_Poll_ROS_viewPoll_rad126" type="radio" name="plc$lt$zoneBottomBox2$Poll_ROS$viewPoll$11-21-10-airport-securityGroup" value="rad126"><label for="plc_lt_zoneBottomBox2_Poll_ROS_viewPoll_rad126">No</label></span></td></tr><tr><td style="width: 100%;"><div class="PollGraph"><div class="PollGraph1" style="width:100%">&nbsp;</div></div></td><td style="white-space: nowrap;" class="PollCount">50%</td></tr></tbody></table>
+		<table cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="PollAnswer" colspan="2"><span class="PollAnswerRadio"><input id="plc_lt_zoneBottomBox2_Poll_ROS_viewPoll_rad231" type="radio" name="plc$lt$zoneBottomBox2$Poll_ROS$viewPoll$0522_fay_fiveGroup" value="rad231"><label for="plc_lt_zoneBottomBox2_Poll_ROS_viewPoll_rad231">The Tams (May 19)</label></span></td></tr><tr><td style="width: 100%;"><div class="PollGraph"><div class="PollGraph0" style="width:51%">&nbsp;</div></div></td><td style="white-space: nowrap;" class="PollCount">69</td></tr><tr><td class="PollAnswer" colspan="2"><span class="PollAnswerRadio"><input id="plc_lt_zoneBottomBox2_Poll_ROS_viewPoll_rad232" type="radio" name="plc$lt$zoneBottomBox2$Poll_ROS$viewPoll$0522_fay_fiveGroup" value="rad232"><label for="plc_lt_zoneBottomBox2_Poll_ROS_viewPoll_rad232">Cafe Mars (June 16)</label></span></td></tr><tr><td style="width: 100%;"><div class="PollGraph"><div class="PollGraph1" style="width:14%">&nbsp;</div></div></td><td style="white-space: nowrap;" class="PollCount">20</td></tr><tr><td class="PollAnswer" colspan="2"><span class="PollAnswerRadio"><input id="plc_lt_zoneBottomBox2_Poll_ROS_viewPoll_rad233" type="radio" name="plc$lt$zoneBottomBox2$Poll_ROS$viewPoll$0522_fay_fiveGroup" value="rad233"><label for="plc_lt_zoneBottomBox2_Poll_ROS_viewPoll_rad233">The Embers (July 21)</label></span></td></tr><tr><td style="width: 100%;"><div class="PollGraph"><div class="PollGraph2" style="width:100%">&nbsp;</div></div></td><td style="white-space: nowrap;" class="PollCount">134</td></tr><tr><td class="PollAnswer" colspan="2"><span class="PollAnswerRadio"><input id="plc_lt_zoneBottomBox2_Poll_ROS_viewPoll_rad234" type="radio" name="plc$lt$zoneBottomBox2$Poll_ROS$viewPoll$0522_fay_fiveGroup" value="rad234"><label for="plc_lt_zoneBottomBox2_Poll_ROS_viewPoll_rad234">Suicide Blonde (Aug. 18)</label></span></td></tr><tr><td style="width: 100%;"><div class="PollGraph"><div class="PollGraph3" style="width:25%">&nbsp;</div></div></td><td style="white-space: nowrap;" class="PollCount">34</td></tr><tr><td class="PollAnswer" colspan="2"><span class="PollAnswerRadio"><input id="plc_lt_zoneBottomBox2_Poll_ROS_viewPoll_rad235" type="radio" name="plc$lt$zoneBottomBox2$Poll_ROS$viewPoll$0522_fay_fiveGroup" value="rad235"><label for="plc_lt_zoneBottomBox2_Poll_ROS_viewPoll_rad235">The Band of Oz (Sept. 15)</label></span></td></tr><tr><td style="width: 100%;"><div class="PollGraph"><div class="PollGraph4" style="width:42%">&nbsp;</div></div></td><td style="white-space: nowrap;" class="PollCount">57</td></tr></tbody></table>
 	</div>
     <div id="plc_lt_zoneBottomBox2_Poll_ROS_viewPoll_pnlFooter" class="PollFooter">
 		
@@ -455,7 +482,14 @@ two-night hotel accommodations.</div>
 </div>
 
 </div>
-    <div class="content-bottom-box"></div>
+    <div class="content-bottom-box"><div class="content-bottom-box-header">Stock Watch</div>
+          <div id="stocks-ad">
+            <script type="text/javascript">
+              GA_googleAddSlot("ca-pub-0260287827907433", "FO_Wea_135x30");
+              GA_googleFillSlot('FO_Wea_135x30');
+            </script>
+          </div>
+<script src="http://studio-5.financialcontent.com/fayobserver?Module=snapshot&amp;Output=JS"></script><p><a href="http://studio-5.financialcontent.com/fayobserver/markets?">Complete market and stocks report</a></p></div>
     <div class="content-bottom-box-last"><div class="content-bottom-box-header">Things To Do</div><!-- Begin Zvents 5-Day Calendar Widget -->
 <div id="zvents-index-calendar">
 <div class="ZventsQuickSearch">
@@ -634,6 +668,8 @@ two-night hotel accommodations.</div>
         <li><a href="/blogs.aspx">Blogs</a></li>
         <li><a href="http://www.legacy.com/FayettevilleObserver/Obituaries.asp">Obituaries</a></li>
         <li><a href="http://forums.fayettevillenc.com/cgi-bin/forums/ultimatebb.cgi">Forums</a></li>
+        <li><a href="http://fayobserver.com/social">Social Media</a></li>
+        <li><a href="http://www.ifoldsflip.com/title/8774">TV Week</a></li>
       </ul>
     </div>
     <div class="footer-list">
@@ -646,6 +682,7 @@ two-night hotel accommodations.</div>
         <li><a href="http://fayobserver.upickem.net/engine/Registration.aspx?contestid=9891">Text Alerts</a></li>
         <li><a href="http://www.facebook.com/fayobserver">Facebook</a></li>
         <li><a href="http://twitter.com/fayobserver/staff">Twitter</a></li>
+        <li><a href="http://fayobserver.com/social">Social Media</a></li>
       </ul>
     </div>
     <div class="footer-list">
@@ -653,9 +690,11 @@ two-night hotel accommodations.</div>
       <ul>
         <li><a href="/help/about.aspx">About Us</a></li>
         <li><a href="/help/contact.aspx">Contact Us</a></li>
-        <li><a href="/help.aspx">Customer Service</a></li>
+        <li><a href="/help/services.aspx">Customer Service</a></li>
+        <li><a href="/help/pressplus.aspx">Press+</a></li>
         <li><a href="/help/services.aspx">Subscribe</a></li>
         <li><a href="http://marketplace.fayobserver.com/mediakit/">Advertise</a></li>
+        <li><a href="http://fayobserver.com/help/locations">Rack locations</a></li>
         <li><a href="/help.aspx">Help/FAQ</a></li>
         <li><a href="/help/terms.aspx">Terms of Use</a></li>
         <li><a href="/help/privacy.aspx">Privacy Policy</a></li>
@@ -680,12 +719,13 @@ two-night hotel accommodations.</div>
         <li><a href="http://www.popelife.com">Pope Life</a></li>
         <li><a href="http://www.discoverfayetteville.com">Discover Fayetteville</a></li>
         <li><a href="http://www.weekendernow.com">Weekender Now</a></li>
-        <li><a href="http://www.sandspuronline.com">The Sandspur</a></li>
+        <li><a href="http://www.fayobserver.com/location/hopemills">The Sandspur</a></li>
         <li><a href="http://www.next-magazine.com">Next!</a></li>
         <li><a href="http://www.acentolatino.com">Acento Latino</a></li>
         <li><a href="http://celebrations.fayobserver.com">Celebrations</a></li>
         <li><a href="http://paraglideonline.net">Paraglide</a></li>
         <li><a href="http://fbelitemag.com">Elite Magazine</a></li>
+        <li><a href="http://www.ifoldsflip.com/title/8774">TV Week</a></li>
       </ul>
     </div>
     <div class="footer-list">
@@ -699,7 +739,6 @@ two-night hotel accommodations.</div>
         <li><a href="http://events.fayobserver.com">Events</a></li>
         <li><a href="http://fayobserver.com/contests">Contests</a></li>
         <li><a href="http://www.carolina-trader.com/">Carolina Trader</a></li>
-        <li><a href="http://marketplace.fayobserver.com/e-commercials.shtml">E-Commercials</a></li>
         <li><a href="https://focommercial.com/store">Observer Store</a></li>
         <li><a href="http://marketplace.fayobserver.com/mediakit/contacts.html">Advertise</a></li>
       </ul>
@@ -709,7 +748,7 @@ two-night hotel accommodations.</div>
       <ul>
         <li><a href="http://marketplace.fayobserver.com/mediakit/contacts.html">Place an advertisement</a></li>
         <li><a href="https://iorder.fayobserver.com/webbaseFO/en/std/jsp/WebBaseMain.do">Place a classified ad</a></li>
-        <li><a href="http://celebrations.fayobserver.com/Submit-Announce.aspx">Submit a celebration</a></li>
+        <li><a href="http://celebrations.fayobserver.com/Submit-Announcements.aspx">Submit a celebration</a></li>
         <li><a href="http://photos.fayobserver.com/mycapture/photos/Upload.aspx">Post my own photos</a></li>
         <li><a href="http://events.fayobserver.com/listings">Submit an event/calendar item</a></li>
         <li><a href="http://fayobserver.com/cheers/submit.aspx">Submit a cheer or jeer</a></li>
@@ -747,12 +786,6 @@ two-night hotel accommodations.</div>
 
 <script type="text/javascript">
 //<![CDATA[
-
-theForm.oldSubmit = theForm.submit;
-theForm.submit = WebForm_SaveScrollPositionSubmit;
-
-theForm.oldOnSubmit = theForm.onsubmit;
-theForm.onsubmit = WebForm_SaveScrollPositionOnSubmit;
 Sys.Application.initialize();
 //]]>
 </script>
