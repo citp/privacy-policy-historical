@@ -1,69 +1,79 @@
-> *The following text is extracted and transformed from the gamestarmechanic.com privacy policy that was archived on 2009-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090520024926id_/http%3A//gamestarmechanic.com/GSM/web/about/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamestarmechanic.com privacy policy that was archived on 2011-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110528174733id_/http%3A//gamestarmechanic.com/about/privacy) for the most accurate reproduction.*
 
-# About - Privacy Policy
+# Gamestar Mechanic - Privacy Policy
 
-  * [About G*M](https://web.archive.org/web/20090520024926id_/http%3A//gamestarmechanic.com/GSM/web/about/index.html)
-  * [Terms of Service](https://web.archive.org/web/20090520024926id_/http%3A//gamestarmechanic.com/GSM/web/about/terms-of-service.html)
-  * [Privacy Policy](https://web.archive.org/web/20090520024926id_/http%3A//gamestarmechanic.com/GSM/web/about/privacy-policy.html)
-  * [Credits](https://web.archive.org/web/20090520024926id_/http%3A//gamestarmechanic.com/GSM/web/about/credits.html)
+Gamestar Mechanic is an online service that allows users to play, design and share online games. This policy covers how we treat the information we collect and receive from you. Our goal is to create a safe, entertaining and educational online environment that complies with the United States Federal Trade Commission's Children's Online Privacy Protection Rule, effective April 21, 2000.
 
+This Privacy Policy is effective as of May 16, 2011. In the future, our site or our practices may change. When we make changes related to privacy, we will revise this Privacy Policy to reflect the changes. We'll post the updated version here, and we'll notify you if we think the changes will significantly impact the treatment of information you have already provided.
 
+This Privacy Policy applies to the version of Gamestar Mechanic that is open to registration and use by members of the general public. We also make private “realms” of the service available to certain organizations or groups, and it is the responsibility of those organizations or groups to inform their users if their own privacy policies differ from this one. Users within these realms should contact their Realm Administrator for more information.
 
-Gamestar Mechanic understands and appreciates the growing need for protecting the privacy of our customers and their personal information, and such protection is our priority. Please read the following to learn more about our Privacy Policy. This policy covers how we treat the information that we collect and receive from you. If you continue to use and have an Account on our website, www.gamestarmechanic.com ("Site"), you are fully and unconditionally agreeing to comply with and be bound by the following terms and conditions set forth in this Privacy Policy, which together with our Terms of Service, govern Gamestar Mechanic's relationship with you in relation to this Site.
+**Information we collect**
 
-This notice describes only our online information collection and use practices at this Site; it doesn't apply to information we collect about you offline (such as over the phone) or in different situations (such as through email correspondence).
+_Information you provide to us_
 
-This Privacy Policy is effective as of January 1, 2009. In the future, our Site or our practices may change, and if appropriate, we will revise this Privacy Policy to reflect the changes. We'll post the updated version here, and we'll notify you if we think the changes will significantly impact the treatment of information you have already provided. 
+When you register for a Gamestar Mechanic account, we ask for and store certain personal information: a username, a password, birthdate and an email address. We do not require any additional personal information from our users such as name, address or telephone number. We only collect the information that is necessary to allow our users to use the features of Gamestar Mechanic.
 
-## Information We Collect
+We also ask for your birthdate when you register in order to comply with federal guidelines for protecting children. We may also use your birthdate for the purpose of sending you a special gift on your birthday. We will not use your birthdate for any other promotional purposes.
 
-Information You Provide: You provide certain personally identifiable information (such as your name and email address) to Gamestar Mechanic when choosing to participate in various activities on the Site such as registering for an account, chat, posting messages in the games comment section or in our forums, sending feedback, entering contests, responding to surveys, or subscribing to newsletters or other mailing lists. Additional information (such as address) may be collected when uploading a game, or making a purchase.
+For users registering free accounts who enter a birthdate that indicates they are children, we ask for a parent or guardian’s email address. This parent/guardian email address is used right away to notify the parent/guardian that their child has registered to use Gamestar Mechanic and to obtain consent from the parent/guardian for the child to use Gamestar Mechanic. For users registering Premium Accounts who enter a birthdate that indicates they are children, the consent of the parent or guardian is obtained during the process of completing the premium purchase. 
 
-You may choose to disclose information about yourself in our online chat rooms, forums, game comments or in creating user "profiles". Information that you disclose in these areas is public information, and will be accessible to anyone who uses our Site. However, you may choose to have your profile page be public or private. In the case where you chose to make your profile page private, the information there (including challenges won, "my friends" list, etc.) will only be visible to you. 
+We will only use email addresses we collect for communication directly related to Gamestar Mechanic, and every email we send will have clear opt-out instructions. Furthermore, we will never share these email addresses with any third party.
 
-Other Information We Track: This Site uses passive tracking technologies to log non-identifiable information such as IP address, browser type and Site usage (for example: what pages are accessed, how often, referring/exit pages and URLs). We may also employ "cookies" or similar technologies that provide additional functionality to the Site and help us analyze Site usage more accurately. You can set your browser to reject cookies, but if you do, some features on our Site will not function normally.
+Gamestar Mechanic account holders can view the personal information they have provided to us any time they are logged into their account by going to their profile page. At any time, you may request that your personal information be removed from our system and your account be disabled, either from your profile page or by sending a request to [](https://web.archive.org/help/report). If you make such a request, we will disable your account and remove the personal information from our system so that it cannot be used in the future.
 
-Invite a Friend: You may invite friends to join the Gamestar Mechanic community by using the "invite a friend" feature. You will be required to submit your name and email address, as well as their name and email address. Your friend's personal information that you submit in this feature will be used only to send the email you request, and will not be stored or maintained by Gamestar Mechanic.
+_Information we track_
 
-## How We Use This Information
+When you visit the site and use different features of Gamestar Mechanic, our automated software and tools routinely collect information such as IP address, browser type and site usage (for example: what pages are accessed, how much time was spent on each page, etc…).
 
-We use the information we collect to respond to your requests and provide customer service, to remit revenue share payments, process credit card payments, let you know about new games and other news from Gamestar Mechanic, ask for your input and feedback on what we are doing, provide personalized services and recommendations, and as may otherwise be described in this Privacy Policy or at the time that we collect information from you.
+_Community features_
+
+As you use Gamestar Mechanic, you will have the option to participate in an online community with other users. Community features include
+
+• Sharing games you have created with other users  
+• Sharing an online profile with other users  
+• Posting comments, reviews or ratings for your games or games shared by other users
+
+All of these activities are optional, and our goal is to make them part of the safe, fun and educational Gamestar Mechanic experience. Your participation in these activities – as with all of Gamestar Mechanic – is governed by the Rules of Conduct, which describe the acceptable ways to use our site.
+
+We do not ask for or collect any personal information from you in the course of your using the Community Features. In fact, the Terms of Service and Rules of Conduct specifically prohibit users from sharing personal information through Community Features. We make every effort to enforce these rules through electronic tools, selective monitoring by our staff and investigating reports from our community members. You should understand, however, that any information you choose to share through Community Features may be accessible by anyone who uses our site.
+
+_Sharing features_
+
+In certain parts of the Gamestar Mechanic site, you may have the option of sharing something you’ve created or like using an “Invite a Friend” feature. In this case, you will be asked to submit your name and email address, as well as your friend’s name and email address. This information will be used only to send the message you requested, and will not be stored or maintained by Gamestar Mechanic.
+
+_Paid Subscribers_
+
+We require users subscribing to the paid version Gamestar Mechanic to provide us with the information we need to process their payments such as name, address, telephone number and information about the method of payment. We may securely store this information in our system for the purposes of automating future payments and providing customer service. This information pertains to the individual making the purchase, who must be eighteen or older and who may or may not be the actual user of Gamestar Mechanic. Specific terms of use related to Paid Subscribers are described in the Subscriber Agreement.
+
+_Cookies_
+
+In common with many websites, Gamestar Mechanic places small files known as “cookies” on our users’ machines. Cookies allow Gamestar Mechanic to provide a convenient experience for our users by keeping track of user identities as they navigate to different parts of the Gamestar Mechanic site. 
+
+For the best user experience, we recommend that you configure your web browser to accept cookies from Gamestar Mechanic. It is possible to configure your web browser not to accept cookies, but this may cause some features of Gamestar Mechanic not to work properly.
+
+**How we use this information**
+
+We use the information we collect to enable site features; respond to your requests and provide customer service; let you know about new features and other news from Gamestar Mechanic; ask for your input and feedback on what we are doing; and provide personalized services and recommendations.
+
+We may contact you via email to share information that we think will be of interest to you such as new features, product updates and contests. If you would prefer not to receive these updates, you may opt out of them at any time by changing the notification settings on your account settings page. Each of these emails also contains instructions for how to opt out. If you opt out of these notices, you will still receive email from us related specifically to your usage of the site: for example in response to a customer service request.
 
 We use both your personally identifiable information and certain non-personally identifiable site usage data to improve the quality and design of the Site and to create new features, promotions, and services by storing, tracking, and analyzing user preferences and trends.
 
-We may also combine the information you submit to us with information we have collected from you in other forums, such as through emails or offline, or with publicly available information or information we obtain from third parties. 
+_Third parties_
 
-## When We Might Disclose Information
+As part of our regular business conduct, we may securely share information with companies or individuals providing services or acting on our behalf, such as companies providing payment processing, technological or fulfillment services.
 
-As part of our regular business conduct, we may share information with companies or individuals providing services or acting on our behalf, such as companies providing technological or fulfillment services. In the event that there is a change of corporate ownership, the new owners will of course be provided with our files, including information you have submitted.
+Outside of these specific circumstances, we never share your personally identifiable information with third parties. This includes not sharing your personal information with third parties for commercial or marketing purposes.
 
-Unless we tell you first (such as at the time we collect information from you), or unless it is part of a specific program or feature in which you have elected to participate, we do not share personally identifiable information that we have collected (such as name or email address) with other, third-party companies for their own commercial or marketing purposes.
+Occasionally, we may share non-personally identifiable data with third parties such as sponsors or academic researchers who are conducting research involving Gamestar Mechanic. In these circumstances, we only share data in ways that do not result in the third parties obtaining our users’ personal information.
 
-We may also share your information in response to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims. We may also find it necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Gamestar Mechanic's Terms of Service, or as otherwise required by law. 
+**How to contact us**
 
-## Links and Third Parties
+If you have questions or concerns regarding this Privacy Policy, you can contact us via email at [](https://web.archive.org/help/report) or at
 
-From time to time we may include at the Site links to other websites as a service to you. The third party sites are operated by companies that are outside of our control, and your activities at those sites will be governed by the policies and practices of those third parties. We encourage you to review the privacy practices of these third parties before disclosing any personally identifiable information, as we are not responsible for the privacy practices of those sites.
-
-We sometimes work with third parties to add features or advertisements to our Site. These third parties may place cookies on your browser when you visit certain pages of our Site, or collect cookies that they have previously placed, along with the URL of the page you visited. We do not control those third parties or their use of data. In some cases we may provide tools for you to limit data sent to third parties. This privacy policy does not cover those third parties' use of data. 
-
-## When We Might Disclose Information
-
-We use standard and reasonable technological and procedural measures to protect the information you provide. We urge you to protect your password by not sharing it with anyone else, and to take measures to prevent it from unauthorized access or disclosure. For example, select number and letter combinations that would be difficult for a third party (or hacking program) to determine, and do not write down your password next to your computer. To learn more about how to protect yourself online, we encourage you to visit the government's website at [www.onguardonline.gov](http://www.onguardonline.gov/).
-
-## Your Options
-
-If you are receiving Gamestar Mechanic email advertisements and no longer wish to receive those email messages, you may opt out at the time you receive the message by following the instructions in that email. Please allow ten days for your request to be processed.
-
-If you do not agree with the privacy practices described in this Privacy Policy, it may be best to limit your level of interaction with our Site, which could include simply not providing us with personal information. While this will limit the services that our Site is able to provide, most of the games will remain playable. This option may be best for those who do not wish to provide the mandatory information required to set up an account. 
-
-## Contact Us
-
-For questions or concerns regarding the use of personal information you submit to us, please contact us at [support@gamestarmechanic.com](mailto:support@gamestarmechanic.com) or at:
-
-Gamestar Mechanic LLC  
-19 West 24th Street, 12th Floor  
-New York, NY 10010  
-
-
-© 2009 Gamestar Mechanic, LLC. All Rights Reserved.
+Gamestar Mechanic  
+c/o E-Line Media  
+363 7th Ave, 20th Floor  
+New York, NY 10001  
+Tel. 212.534.3275
