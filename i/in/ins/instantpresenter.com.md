@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instantpresenter.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231232435id_/http%3A//www.instantpresenter.com/About/PrivacyStatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instantpresenter.com privacy policy that was archived on 2011-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110528043546id_/http%3A//www.instantpresenter.com/About/PrivacyStatement.aspx) for the most accurate reproduction.*
 
 # Privacy Statement for InstantPresenter Web Conferencing - Web Conferencing, Video Conferencing, Webcast and Webinar Services for Online Meetings and Presentations
 
