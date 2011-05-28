@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beatlesbible.com privacy policy that was archived on 2010-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101105122717id_/http%3A//www.beatlesbible.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beatlesbible.com privacy policy that was archived on 2011-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110528134346id_/http%3A//www.beatlesbible.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | The Beatles Bible
 
@@ -25,7 +25,7 @@ Note that you can change your browser settings to disable cookies if you have pr
   * [Two Beatles download sites to remain closed indefinitely](http://www.beatlesbible.com/2009/11/19/two-beatles-download-sites-to-remain-closed-indefinitely/ "Thursday 19 November 2009")
   * [Google publishes animated tribute to John Lennon](http://www.beatlesbible.com/2010/10/08/google-doodle-john-lennon-animation/ "Friday 8 October 2010")
   * [Release date for The Beatles: Rock Band announced](http://www.beatlesbible.com/2009/03/05/release-date-beatles-rock-band-announced/ "Thursday 5 March 2009")
+  * [George and Pattie Harrison hold a press conference in India](http://www.beatlesbible.com/1966/09/19/george-pattie-harrison-press-conference-india/ "Monday 19 September 1966")
   * [John Lennon albums](http://www.beatlesbible.com/people/john-lennon/albums/ "Friday 3 July 2009")
-  * [Welcome to the Beatles Bible!](http://www.beatlesbible.com/ "Friday 14 March 2008")
 
 
