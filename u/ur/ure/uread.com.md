@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uread.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221234405id_/http%3A//www.uread.com/help.aspx%3F%23policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uread.com privacy policy that was archived on 2011-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110529123047id_/http%3A//www.uread.com/help.aspx%3F%23policy) for the most accurate reproduction.*
 
 # uRead.com: Buy Books Online: Bookstore in India: Highest Discount
 
@@ -151,6 +151,15 @@ The Book(s) which can be ordered by the COD option, will have a small Icon displ
 ##  Is COD available for my destination?
 
 Currently, we are offering COD payment option to more than 2000 Pin Codes **in India only**. (See details/list of locations covered) 
+
+  
+Enter your shipping address pincode | *  
+  |   
+---|---|---  
+Enter your shipping address city  | *  
+  |   
+  
+
 
 ##  Do I have to pay any extra charges for availing the COD payment option? 
 
