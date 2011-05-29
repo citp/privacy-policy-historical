@@ -1,17 +1,14 @@
-> *The following text is extracted and transformed from the arbico-organics.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228092026id_/http%3A//www.arbico-organics.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arbico-organics.com privacy policy that was archived on 2011-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110529091620id_/http%3A//www.arbico-organics.com/category/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Arbico Organics Privacy Policy
 
-| **ARBICO Privacy Policy  
-**Since 1980, ARBICO has taken great pride in the relationships that it has developed with its customers. In keeping with this tradition, ARBICO is dedicated to protecting and respecting your privacy and handling any personal information we obtain from you with care and respect. This Privacy Policy is designed to answer your questions regarding our privacy policies and principles. 
+**ARBICO Privacy Policy  
+**Since 1979, ARBICO has taken great pride in the relationships that it has developed with its customers. In keeping with this tradition, ARBICO is dedicated to protecting and respecting your privacy and handling any personal information we obtain from you with care and respect. This Privacy Policy is designed to answer your questions regarding our privacy policies and principles. 
 
 This is the Privacy Policy of Arizona Biological Control, Inc. (ARBICO). Our postal address is: P.O. Box 8910; Tucson, AZ 85738. We can be reached via email at [info@arbico.com](mailto:info@arbico.com) or you can reach us by telephone at 800-827-2847.
 
 **Visiting Our Website  
-  
 **For each visitor to our website, our web server automatically recognizes only the IP address of your computer. When you make a purchase in the ARBICO Store, request a catalog, ask Dr. Buglady a question, sign up for the Go Organic! Newsletter, or answer one of our surveys, you may choose to give us basic information: name, email address, mailing address, ZIP code, phone, and credit card numbers. This allows us to process your transactions more efficiently, and ultimately, to give you a higher caliber of customer service. When you visit our website, we may collect more information: your Internet service provider's address, the name of the Web page directing you, as well as your clicks and activity on our site. This tracking data helps us understand how to make our site more available and user friendly to our customers.
-
-This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the [Yahoo! Privacy Policy](http://privacy.yahoo.com/privacy/us/) for more information about how Yahoo! uses this information.
 
 **Learning About What You Like  
 **We also gather customer information by observing the purchases you make. Think of it as a concierge service where your customer preferences are remembered for future consideration. By looking at your purchases in context with marketing demographics or with information from companies whose products and services you may be interested in, it helps us seek out products and services you may find relevant and unique. Similarly, other companies may also forward to us additional names, mailing addresses, and email addresses when we have news or product offerings that may be of special interest to their customers. In order to serve you better, we may at times contract with other companies to help us process information. For instance, their assistance can help us better fulfill customer orders, manage and enhance customer data, and comply with postal regulations. 
@@ -78,9 +75,7 @@ ARBICO may ask you to provide "personal information", meaning individually ident
 **ARBICO makes reasonable efforts to maintain the security of your personal information in order to prevent unauthorized access to it through the use of technology and internal procedures. However, ARBICO does not guarantee that unauthorized access will never occur. 
 
 **Partnerships  
-**The ARBICO site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the [Yahoo! Privacy Policy](http://privacy.yahoo.com/privacy/us/) for more information about how Yahoo! uses this information.
-
-We currently contract with online partners to help manage and optimize our Internet business and communications. We use them to send emails that you have agreed to receive. Web cookies are used in those email messages and at our website to help us measure the effectiveness of those emails. You can "opt out" of this email cookie at any time by deleting your name from the ARBICO email mailing list. We reserve the right to change email providers at any time.
+**We currently contract with online partners to help manage and optimize our Internet business and communications. We use them to send emails that you have agreed to receive. Web cookies are used in those email messages and at our website to help us measure the effectiveness of those emails. You can "opt out" of this email cookie at any time by deleting your name from the ARBICO email mailing list. We reserve the right to change email providers at any time.
 
 We may also contract with other partners to help us assess visitation to the ARBICO site. To do this, we place small pixel tags and cookies on our site. While these do allow for tracking of your visits, the data retrieved cannot be used for any reason without our authorization. We control how that data may and may not be used.
 
@@ -99,7 +94,7 @@ ARBICO may also amend our current Privacy Policy at any time. If we amend this P
 
 Please note that, at all times, you are responsible for updating your personal information to provide us your current e-mail address. In the event that the last email address that you have provided us is not valid, or for any other reason is not capable of delivering to you the notice described above, our dispatch of the email containing such notice will nonetheless constitute effective notice of the amendment described in the notice. In any event, an amendment to this Privacy Policy may permit material changes in the way we use and share personal information that you provided us prior to our notification to you of such amendment. If you do not wish to allow such material changes, you must so notify us (in the manner we specify) prior to the effective date of the amendment. If you provide us this notice, we may choose to deactivate your account. Please be advised, however, that, regardless of whether you provide such notice to us, any such amendment to this Privacy Policy will apply to any personal information that you provide us on or after the effective date of such amendment. 
 
-The effective date of this ARBICO Privacy Policy is January 3, 2008. It replaces all prior privacy policies issued by ARBICO. We reserve the right to change the ARBICO Privacy Policy at any time. Any changes to our Privacy Policy will be reflected in the updated version displayed at our corresponding website.
+The effective date of this ARBICO Privacy Policy is January 11, 2010. It replaces all prior privacy policies issued by ARBICO. We reserve the right to change the ARBICO Privacy Policy at any time. Any changes to our Privacy Policy will be reflected in the updated version displayed at our corresponding website.
 
 **Questions Regarding ARBICO Privacy Policy  
 **If you have any questions regarding our Privacy Policy, we will do our best to answer them. Here's how to contact us:
