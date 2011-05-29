@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myitforum.com privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126151346id_/http%3A//www.myitforum.com/absolutenm/templates/%3Fa%3D16826%26z%3D117) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myitforum.com privacy policy that was archived on 2011-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110529163754id_/http%3A//www.myitforum.com/absolutenm/templates/%3Fa%3D16826%26z%3D117) for the most accurate reproduction.*
 
 # myITforum.com Privacy Statement
 
