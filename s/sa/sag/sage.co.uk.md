@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sage.co.uk privacy policy that was archived on 2010-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101210164339id_/http%3A//www.sage.co.uk/footlinks/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sage.co.uk privacy policy that was archived on 2011-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110529130307id_/http%3A//www.sage.co.uk/footlinks/privacy%2520policy.aspx) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -17,7 +17,7 @@ Further information about privacy and data protection issues including the onlin
 
 **2.  Who we are**
 
-We are Sage (UK) Limited, a company registered in England and Wales with company registration number 01045967. Our registered office is at North Park, Newcastle upon Tyne, NE13 9AA. Please see our contact section for more information.   If you have any queries about the information we hold on you, please contact our Data Protection Compliance Officer, who you may write to at the address above, or email at [privacy@sage.com](http://sage.co.uk/privacy@sage.com "Email privacy@sage.com") or telephone on **0191 294 3000**.
+We are Sage (UK) Limited, a company registered in England and Wales with company registration number 01045967. Our registered office is at North Park, Newcastle upon Tyne, NE13 9AA. Please see our contact section for more information.   If you have any queries about the information we hold on you, please contact our Data Protection Compliance Officer, who you may write to at the address above, or email at [privacy@sage.com](mailto:privacy@sage.com) or telephone on **0191 294 3000**.
 
 We are entered in the Register of Data Controllers with registration no. Z6439956. Our entry includes the processing of our TAS and Sage Enterprise Solutions divisions.
 
@@ -81,7 +81,7 @@ Cookies
 
 5.2. If you register to use one of the community areas or other restricted areas on our website, we will use your information to provide those membership services to you.
 
-5.3. If you agree when you register with us or buy from us, we will also use your information for marketing purposes. If you do not want the information we hold on you to be used in this manner, you must first contact us either by writing to our Data Protection Compliance Officer, or by e-mailing us at [support@sage.com](http://sage.co.uk/support@sage.com "Email support@sage.com") and establish your preferences.
+5.3. If you agree when you register with us or buy from us, we will also use your information for marketing purposes. If you do not want the information we hold on you to be used in this manner, you must first contact us either by writing to our Data Protection Compliance Officer, or by e-mailing us at [support@sage.com](http://www.sage.co.uk/support@sage.com "Email support@sage.com") and establish your preferences.
 
 5.4. If you do not object, we will use the information we hold on you to contact you for feedback on your use of our software and/or services and/or website.
 
@@ -111,7 +111,7 @@ Cookies
 
 7.1. You have a right to rectify any errors in information we hold about you, and to change or correct any details you have already given us. Please inform us about changes to your details so that we can keep our records accurate and up to date.
 
-7.2. You also have a right to be removed from any mailing list we hold at any time, but you must first contact us either by writing to our Data Protection Compliance Officer, or e-mailing us at [support@sage.com](http://sage.co.uk/support@sage.com "Email support@sage.com").
+7.2. You also have a right to be removed from any mailing list we hold at any time, but you must first contact us either by writing to our Data Protection Compliance Officer, or e-mailing us at [support@sage.com](http://www.sage.co.uk/support@sage.com "Email support@sage.com").
 
 7.3. You have a right to see a copy of the information we hold about you on payment of a statutory fee, which is currently £10. Before we agree to this, you must provide with sufficient evidence of your identity and sufficient details of the information you wish to see to enable us to locate it.
 
