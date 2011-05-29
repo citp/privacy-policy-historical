@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the htcampus.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231133327id_/http%3A//www.htcampus.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the htcampus.com privacy policy that was archived on 2011-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110529132841id_/http%3A//www.htcampus.com/policy) for the most accurate reproduction.*
 
 # College in India, MBA college India
 
