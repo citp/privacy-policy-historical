@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the immonitor.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219053944id_/http%3A//www.immonitor.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the immonitor.com privacy policy that was archived on 2011-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110529111221id_/http%3A//www.immonitor.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - IMMonitor
 
 Support  
 
 
-[](https://web.archive.org/web/20101219053944id_/http%3A//www.immonitor.com/message.htm)
+[](https://web.archive.org/web/20110529111221id_/http%3A//www.immonitor.com/message.htm)
 
 [ ](http://www.asp-shareware.org/)
 
@@ -24,42 +24,42 @@ IMMonitor Software will take reasonable steps necessary to protect the informati
 
 ##### Our Products
 
-[Yahoo Messenger Monitor](https://web.archive.org/web/20101219053944id_/http%3A//www.immonitor.com/yahoo-messenger-monitor-sniffer.htm)
+[Yahoo Messenger Monitor](https://web.archive.org/web/20110529111221id_/http%3A//www.immonitor.com/yahoo-messenger-monitor-sniffer.htm)
 
 Yahoo Messenger Monitor Sniffer - Monitor Yahoo Messenger conversations on network computers
 
-[MSN Messenger Monitor Sniffer](https://web.archive.org/web/20101219053944id_/http%3A//www.immonitor.com/msn-messenger-monitor-sniffer.htm)
+[MSN Messenger Monitor Sniffer](https://web.archive.org/web/20110529111221id_/http%3A//www.immonitor.com/msn-messenger-monitor-sniffer.htm)
 
 MSN Messenger Monitor Sniffer - Monitor MSN Messenger conversations on network computers
 
-[AIM Monitor Sniffer](https://web.archive.org/web/20101219053944id_/http%3A//www.immonitor.com/aim-monitor-sniffer.htm)
+[AIM Monitor Sniffer](https://web.archive.org/web/20110529111221id_/http%3A//www.immonitor.com/aim-monitor-sniffer.htm)
 
 AIM Monitor Sniffer - Monitor AIM conversations on network computers
 
-[ICQ Monitor Sniffer](https://web.archive.org/web/20101219053944id_/http%3A//www.immonitor.com/icq-monitor-sniffer.htm)
+[ICQ Monitor Sniffer](https://web.archive.org/web/20110529111221id_/http%3A//www.immonitor.com/icq-monitor-sniffer.htm)
 
 ICQ Monitor Sniffer - Monitor ICQ Messenger conversations on network computers
 
-[MySpaceIM Monitor Sniffer](https://web.archive.org/web/20101219053944id_/http%3A//www.immonitor.com/myspaceim-monitor-sniffer.htm)
+[MySpaceIM Monitor Sniffer](https://web.archive.org/web/20110529111221id_/http%3A//www.immonitor.com/myspaceim-monitor-sniffer.htm)
 
 MySpaceIM Monitor Sniffer - Monitor MySpaceIM  conversations on network computers
 
-[IMMonitor Yahoo Messenger Spy](https://web.archive.org/web/20101219053944id_/http%3A//www.immonitor.com/yahoo-messenger-spy.htm)
+[IMMonitor Yahoo Messenger Spy](https://web.archive.org/web/20110529111221id_/http%3A//www.immonitor.com/yahoo-messenger-spy.htm)
 
 IMMonitor Yahoo Messenger Spy - Capture, sniff, and log Yahoo Messenger chat remotely within a LAN
 
-[IMMonitor MSN Spy](https://web.archive.org/web/20101219053944id_/http%3A//www.immonitor.com/msn-spy.htm)
+[IMMonitor MSN Spy](https://web.archive.org/web/20110529111221id_/http%3A//www.immonitor.com/msn-spy.htm)
 
 IMMonitor MSN Spy - Capture, sniff, and log MSN  Messenger chat remotely within a LAN
 
-[IMMonitor AIM Spy](https://web.archive.org/web/20101219053944id_/http%3A//www.immonitor.com/aim-spy.htm)
+[IMMonitor AIM Spy](https://web.archive.org/web/20110529111221id_/http%3A//www.immonitor.com/aim-spy.htm)
 
 IMMonitor AIM Spy - Capture, sniff, and log AIM chat remotely within a LAN
 
-[IMMonitor ICQ Spy](https://web.archive.org/web/20101219053944id_/http%3A//www.immonitor.com/icq-spy.htm)
+[IMMonitor ICQ Spy](https://web.archive.org/web/20110529111221id_/http%3A//www.immonitor.com/icq-spy.htm)
 
 IMMonitor ICQ Spy - Capture, sniff, and log ICQ chat remotely within a LAN
 
-[IMMonitor MySpaceIM Spy](https://web.archive.org/web/20101219053944id_/http%3A//www.immonitor.com/myspaceim-spy.htm)
+[IMMonitor MySpaceIM Spy](https://web.archive.org/web/20110529111221id_/http%3A//www.immonitor.com/myspaceim-spy.htm)
 
 IMMonitor MySpaceIM Spy - Capture, sniff, and log MySpaceIM chat remotely within a LAN
