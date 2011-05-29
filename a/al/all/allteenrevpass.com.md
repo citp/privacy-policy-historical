@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allteenrevpass.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204171445id_/http%3A//www.allteenrevpass.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allteenrevpass.com privacy policy that was archived on 2011-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110529113840id_/http%3A//www.allteenrevpass.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
