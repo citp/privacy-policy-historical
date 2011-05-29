@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ldaamerica.org privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218054439id_/http%3A//www.ldaamerica.org/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ldaamerica.org privacy policy that was archived on 2011-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110530000728id_/http%3A//www.ldaamerica.org/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Learning Disabilities Association of America
 
@@ -28,7 +28,7 @@ From time to time, LDA may request your input to evaluate member benefits, websi
 
 **INFORMATION FROM CHILDREN**
 
-LDA has no intention of collecting any personal information from individuals under 18 years of age. If a child provides us with personal information without the consent of a parent or guardian, the parent or guardian should contact us at [info@ldaamerica.org](https://web.archive.org/web/20101218054439id_/http%3A//www.ldaamerica.org/contact/contact.asp) if they would like to have us delete this information from our files.
+LDA has no intention of collecting any personal information from individuals under 18 years of age. If a child provides us with personal information without the consent of a parent or guardian, the parent or guardian should contact us at [info@ldaamerica.org](https://web.archive.org/web/20110530000728id_/http%3A//www.ldaamerica.org/contact/contact.asp) if they would like to have us delete this information from our files.
 
 **EMAIL REQUESTS**
 
@@ -58,4 +58,4 @@ The web server system employs software programs to monitor network traffic to bl
 
 By becoming a member, donor or constituent of LDA, and /or by using our website, you consent to the collection and use of the information you provide to us as described above. If we make any material changes in our privacy practices or in how we use your personally identifiable information, we will post a prominent notice in the LDA bi-monthly publication Newsbriefs and on our website prior to implementation of the change. 
 
-If you prefer not to receive member benefit offers or requests for donations, please contact LDA toll-free at 1-888-300-6710 or email us at [info@ldaamerica.org](https://web.archive.org/web/20101218054439id_/http%3A//www.ldaamerica.org/contact/contact.asp) or write us at 4156 Library Road, Pittsburgh PA 15234.
+If you prefer not to receive member benefit offers or requests for donations, please contact LDA toll-free at 1-888-300-6710 or email us at [info@ldaamerica.org](https://web.archive.org/web/20110530000728id_/http%3A//www.ldaamerica.org/contact/contact.asp) or write us at 4156 Library Road, Pittsburgh PA 15234.
