@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the centralparknyc.org privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222000038id_/http%3A//www.centralparknyc.org/about/inside-the-conservancy/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centralparknyc.org privacy policy that was archived on 2011-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110530015433id_/http%3A//www.centralparknyc.org/about/inside-the-conservancy/privacy) for the most accurate reproduction.*
 
 # The Official Website of Central Park - Privacy Policy
 
@@ -47,7 +47,7 @@ CPC Web site automatically collects some anonymous "non-personally identifiable"
 ** CPC may engage third-party vendors in order to help us better service our visitors and customers. CPC requires its vendors by contract to maintain the confidentiality and security of CPC information to which they are provided access and restricts the vendors from using the information in any way not expressly authorized by CPC.
 
  **Sharing CPC's List of Supporters  
-** CPC may, on occasion, share the name and the address of inactive members and supporters with other like-minded organizations. Exchanging our list with other reputable charitable organizations is the most cost effective way to find new supporters. As part of CPC's exchange policy, other organizations will have access to a shared list for a limited time and will not have continued access to CPC's list unless an individual voluntarily chooses to respond to their initial mailing. If you prefer not to have your name and address shared in this way, you may request to have your information removed from a shared list at any time by contacting , or calling 212-310-6607. You will also have regular opportunities to opt-out by checking the appropriate box or following the instructions located on solicitation materials.
+** CPC may, on occasion, share the name and the address of inactive members and supporters with other like-minded organizations. Exchanging our list with other reputable charitable organizations is the most cost effective way to find new supporters. As part of CPC's exchange policy, other organizations will have access to a shared list for a limited time and will not have continued access to CPC's list unless an individual voluntarily chooses to respond to their initial mailing. If you prefer not to have your name and address shared in this way, you may request to have your information removed from a shared list at any time by contacting , or calling 212-310-6672. You will also have regular opportunities to opt-out by checking the appropriate box or following the instructions located on solicitation materials.
 
  **Please note:** CPC does not rent or sell donor lists. Active members/donors are always deleted from all shared lists. CPC never shares the information we receive from customers making an online purchase from the Central Park Store.
 
@@ -64,7 +64,7 @@ CPC Web site automatically collects some anonymous "non-personally identifiable"
 ** You may contact us at anytime by e-mailing , or calling 212-310-6600 and letting us know that you would not like to be contacted by telephone or mail.
 
  **Opt out of having your name and postal address shared with other organizations  
-** You may request to have your information removed from a shared list at any time by contacting , or calling 212-310-6607. You will also have regular opportunities to opt-out by checking the appropriate box or following the instructions listed on CPC's solicitation materials.
+** You may request to have your information removed from a shared list at any time by contacting , or calling 212-310-6672. You will also have regular opportunities to opt-out by checking the appropriate box or following the instructions listed on CPC's solicitation materials.
 
 **Data Security  
 ** CPC receives your personal and credit card information using secure socket layering (SSL) technology which prevents disclosure of your information to third parties. SSL is the standard for most browsers and servers and encrypts all of your personal information, including credit card number, name and address so that it cannot be read as the information travels over the Internet.
