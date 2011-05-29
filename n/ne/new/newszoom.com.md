@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newszoom.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219081513id_/http%3A//www.newszoom.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newszoom.com privacy policy that was archived on 2011-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110529153342id_/http%3A//www.newszoom.com/privacy.php) for the most accurate reproduction.*
 
 # NewsZoom.com Privacy Policy
 
