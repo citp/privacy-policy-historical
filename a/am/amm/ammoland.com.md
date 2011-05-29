@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ammoland.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227022640id_/http%3A//www.ammoland.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ammoland.com privacy policy that was archived on 2011-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110529114047id_/http%3A//www.ammoland.com/privacy-policy) for the most accurate reproduction.*
 
 # AmmoLand Privacy Policy | AmmoLand.com Shooting Sports News
 
@@ -41,4 +41,4 @@ We reserve the right to change this policy at any time by notifying guests of th
 
 No tags for this post.
 
-Filed under: by AmmoLand [No Comments »](http://www.ammoland.com/privacy-policy/#respond "Comment on Privacy Policy")
+Filed under: by AmmoLand Comments Off
