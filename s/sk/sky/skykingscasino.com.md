@@ -1,21 +1,10 @@
-> *The following text is extracted and transformed from the skykingscasino.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206070115id_/http%3A//www.skykingscasino.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skykingscasino.com privacy policy that was archived on 2011-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110529103806id_/http%3A//www.skykingscasino.com/privacy.php) for the most accurate reproduction.*
 
-# Online Casino - Sky Kings Casino Internet Gambling-Privacy policy
+# Privacy and Security - Keeping Online Casino Players Safe
 
-|  |   
-  
-  
----  
-| [HOME](https://web.archive.org/web/20101206070115id_/http%3A//www.skykingscasino.com/index.php) |  | [DOWNLOAD](https://web.archive.org/web/20101206070115id_/http%3A//www.skykingscasino.com/download.php) |  | [ABOUT US](https://web.archive.org/web/20101206070115id_/http%3A//www.skykingscasino.com/about.php) |  | [CASHIER](https://web.archive.org/web/20101206070115id_/http%3A//www.skykingscasino.com/banking.php) |  | [PROMOTIONS](https://web.archive.org/web/20101206070115id_/http%3A//www.skykingscasino.com/promotions.php) |  | [SUPPORT](https://web.archive.org/web/20101206070115id_/http%3A//www.skykingscasino.com/support.php) |  | [FAQ](https://web.archive.org/web/20101206070115id_/http%3A//www.skykingscasino.com/faq.php) |  | [VIP LOYALTY](https://web.archive.org/web/20101206070115id_/http%3A//www.skykingscasino.com/loyalty.php)  
----|---|---|---|---|---|---|---|---|---|---|---|---|---|---  
-|   
----  
-|  |  |  |   
----  
-|  |   
+**PRIVACY POLICY For www.SkyKingsCasino.com (“the Website”)**
 
-
-  1. **PURPOSE OF THIS PRIVACY POLICY**
+  1.  **PURPOSE OF THIS PRIVACY POLICY**
 
 The following describes the information gathering and dissemination practices for the Website, which is operated by WHG (International) Limited (registration number DP005080 with the Gibraltar Regulatory Authority) and/or WHG Trading Limited and/or William Hill Malta Limited (individually, and collectively, “ **the Operator** ”).
 
@@ -100,16 +89,4 @@ If at any time You believe that the Operator has not adhered to the principles c
  **This Privacy Policy is effective from 1st December 2009**
 
 
-  
----  
-  
-[](https://web.archive.org/download.php)  
-  
-
-
-  
-  
-|  |   
-  
-  
 
