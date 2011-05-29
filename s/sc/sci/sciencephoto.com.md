@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sciencephoto.com privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129005433id_/http%3A//sciencephoto.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sciencephoto.com privacy policy that was archived on 2011-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110530003051id_/http%3A//www.sciencephoto.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy
+# Science Photo Library
 
 Science Photo Library follows the UK 1998 Data Protection Act and is committed to protecting your privacy. By using this site, you understand and agree to the terms of this policy. For data protection purposes, Science Photo Library is the controller and, unless otherwise noted, is also the processor of data. 
 
@@ -8,7 +8,7 @@ We may update this policy from time-to-time by posting a new version on our webs
 
 * * *
 
-What data we collect 
+What data we collect
 
 When you register on our website, we collect certain information for our records, including your email address, name, company name, street address and phone number. 
 
@@ -21,9 +21,9 @@ We may also collect navigational information including viewed pages, clicked lin
 
 * * *
 
-Changing your details 
+Changing your details
 
-You can change information that you provided to us on registration by accessing the [Your Details](https://web.archive.org/login/login.html) section of the website. You cannot change your password without re-registering. 
+You can change information that you provided to us on registration by accessing the [Your Details](https://web.archive.org/user/details) section of the website. You cannot change your password without re-registering. 
 
   
 
@@ -47,7 +47,7 @@ We may need to disclose information about you if we were required to do so by la
 
 Unsubscribe 
 
-If you would rather not receive marketing communications from us, you can click on the appropriate box on the registration form. Or if you change your mind at a later date, you can edit [Your Details](https://web.archive.org/login/login.html) and choose to opt out from communication sent to you by email and/or mail by ticking the appropriate box. 
+If you would rather not receive marketing communications from us, you can click on the appropriate box on the registration form. Or if you change your mind at a later date, you can edit [Your Details](https://web.archive.org/user/details) and choose to opt out from communication sent to you by email and/or mail by ticking the appropriate box. 
 
 Alternatively, you can unsubscribe from specific emails by clicking on the link at the bottom of the email "Please click here to manage your email subscription". On Your Email Preferences page you can choose which emails to receive. If you leave all the boxes empty, you will get unsubscribed from all marketing emails. 
 
