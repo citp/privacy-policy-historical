@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ethicalconsumer.org privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222143347id_/http%3A//www.ethicalconsumer.org/WebsiteInformation/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ethicalconsumer.org privacy policy that was archived on 2011-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110529072309id_/http%3A//www.ethicalconsumer.org/WebsiteInformation/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy notice for ethicalconsumer.org
 
