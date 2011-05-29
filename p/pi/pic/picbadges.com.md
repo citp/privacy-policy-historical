@@ -1,69 +1,27 @@
-> *The following text is extracted and transformed from the picbadges.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127220336id_/http%3A//www.picbadges.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the picbadges.com privacy policy that was archived on 2011-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110529112750id_/http%3A//www.picbadges.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-What information do we collect?  
-We collect information from you when you register on our site or when you submit your badge or ribbon.
+Picbadges Privacy Policy
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.
+Last Revised January 6th, 2011.
 
-Google, as a third party vendor, uses cookies to serve ads on the site.  
-Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.  
-Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
+PicBadges values users’ and websites’ privacy and therefore has set up this extensive Privacy-Policy in order to notify you when is data stored, what is being processed and what is being disclosed to our clients, which are the websites you visit, in order to allow them better services to You, as a client. Though Company is not a US based organization, its privacy policy is in strict compliance with the US Export Authority’s Safe Harbor Principles (http://www.export.gov/safeharbor) and is in full and strict compliance with all Israeli privacy regulations.
 
-What do we use your information for?
+1\. Information Stored: PicBadges stores specific personally identifiable and non-personally identifiable information, including information obtained from Facebook and other 3rd Parties such as: Your name, Your Email, Your Facebook ID and friend list, information regarding Your use of the Service, Your profile photo and Badges You viewed, created or used.
 
-Any of the information we collect from you may be used in one of the following ways:
+2\. Information not Stored: PicBadges shall never store and shall never request any information relating to Your financial or medical situation, any credit card information or information relating to physical condition. PicBadges shall retain some information regarding Your Philosophical beliefs, trade-union membership, religious or political affiliation solely if You decide to use a PicBadges’ Badge affiliated with such cause or belief.
 
-• To improve our website  
-(we continually strive to improve our website offerings based on the information and feedback we receive from you)
+3\. Processing Information: PicBadges shall process the information through Service and use it in accordance to Your request with Your Facebook Profile, Your Friends and the Users who initiated the Badge You Use.
 
-• To improve customer service  
-(your information helps us to more effectively respond to your customer service requests and support needs)
+4\. Who has Access to Your Information? PicBadges provides access to Your information, including the Badges You published, created and used to: (i) Users browsing the Service; (ii) Your friends, as available through Facebook; (iii) Users who created the Badge; (iv) 3rd parties who provide PicBadges with services such as clearing, image processing, hosting et cetera.
 
-• To send periodic emails  
-The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.  
-Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+5\. Can You Amend the Information? You can always amend and inspect the information retained about You by clicking the “My Account” button in the top right corner. There You may find the Badges You used and the Badges You Created.
 
-Do we use cookies?
+6\. 3rd Party Services & Processing: PicBadges uses the services of 3rd parties, including analytical services, authentication services and others such as Google Analytics and Facebook Connect; Such services collect personally identifiable and non-personally identifiable information; Please make sure that You read and understand the 3rd Party Privacy Policies prior to using Service.
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+7\. Emails and Promotional Activity: PicBadges shall provide You with three different email notifications, all with accordance to these terms of service: (i) Action Based Emails: PicBadges shall inform You when activities are performed in Your Account, such as creating new content, takedown notices were filed or any other information requiring your action; (ii) Event Based Email: PicBadges shall inform you alerts and notifications based on events regarding Your account and/or content, such as when Your PicBadge is not pending or when alerts are received and (iii) Updates: Updates and Notifications Regarding Newsletters and Promotional Activities, which will be sent from time to time, and You may opt-out of. By entering into this Agreement, You hereby grant PicBadges Your consent to receive communication, including unsolicited emails, from PicBadges and PicBadges’ 3rd party affiliates.
 
-We use cookies to keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
+8\. How can I remove all my information? You can always deactivate Your Account or remove all the information retained on PicBadges’ servers by clicking on “Deactivate My Account” and choose what information to remove from PicBadges’ servers; however, please note that (i) PicBadges may retain some information for limited periods of time for review and processing of information; (ii) when you deactivate Your Account, PicBadges retains the data, but does not display it.
 
-Do we disclose any information to outside parties?
-
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
-
-Third party links
-
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
-
-California Online Privacy Protection Act Compliance
-
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
-
-Childrens Online Privacy Protection Act Compliance
-
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
-
-Online Privacy Policy Only
-
-This online privacy policy applies only to information collected through our website and not to information collected offline.
-
-Your Consent
-
-By using our site, you consent to our web site privacy policy.
-
-Changes to our Privacy Policy
-
-If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
-
-This policy was last modified on 01.07.2010
-
-Contacting Us
-
-If there are any questions regarding this privacy policy you may contact us using the information below.
-
-www.picbadges.com  
-support@picbadges.com
+Nevertheless, If you do not think you will use PicBadges again and would like your account deleted, please keep in mind that you will not be able to reactivate your account or retrieve any of the content or information you have added. for having your account permanently deleted with no option for recovery,please send us a specific request using our [contact us](https://web.archive.org/contact/) page.
