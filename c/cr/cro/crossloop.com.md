@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crossloop.com privacy policy that was archived on 2009-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090529060146id_/http%3A//www.crossloop.com/ipage.htm%3Fid%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crossloop.com privacy policy that was archived on 2011-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110530010920id_/http%3A//www.crossloop.com/ipage.htm%3Fid%3Dprivacypolicy) for the most accurate reproduction.*
 
 # CrossLoop - Privacy Policy
 
@@ -75,3 +75,5 @@ Should you have any questions or concerns regarding this Privacy Policy, please 
 This Privacy Policy is subject to revision, and if we make any substantial changes in the way we use or disclose your Personal Information, we will post a notice on this page.  If you object to any such changes, you must cease using the CrossLoop Services. Continued use of the CrossLoop Services following notice of any such changes shall indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes.
 
 This Policy was last updated in November 2007.
+
+© 2006-2011 CrossLoop Inc. All Rights Reserved. 
