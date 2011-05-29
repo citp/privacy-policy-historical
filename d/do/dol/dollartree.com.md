@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dollartree.com privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214164638id_/http%3A//www.dollartree.com/custserv/custserv.jsp%3FpageName%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dollartree.com privacy policy that was archived on 2011-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110530002732id_/http%3A//www.dollartree.com/custserv/custserv.jsp%3FpageName%3DPrivacy) for the most accurate reproduction.*
 
 # Dollar Tree, Inc.: Privacy Policy for Dollar Tree Website
 
@@ -37,7 +37,7 @@ We do not knowingly solicit or collect personally identifiable information onlin
 
 Some sections of the Dollar Tree web site may deposit pieces of information called “cookies” on your computer.  A cookie is a small piece of information stored by a browser on your computer's hard drive.  Cookie technology does not collect personally identifiable information. If a cookie is sent to your computer, your browser only permits that web site to access the cookie it sent. It does not allow access to cookies sent by other web sites.
 
-If you choose to do so, you can change your browser's cookie configuration. Check the “Help” section of your browser for more information. Dollar Tree does not endorse, nor does it participate in the practice of "spamming" (sending of unsolicited promotional e-mail). We comply with the provisions of the CAN-SPAM Act of 2003, as amended. If you believe you have received such a message, [click here to be removed from our database](https://web.archive.org/email-signup).
+If you choose to do so, you can change your browser's cookie configuration. Check the “Help” section of your browser for more information. Dollar Tree does not endorse, nor does it participate in the practice of "spamming" (sending of unsolicited promotional e-mail). We comply with the provisions of the CAN-SPAM Act of 2003, as amended. If you believe you have received such a message, [click here to be removed from our database](http://dollartree.p0.com/dollar-unsubscribe.jsp).
 
 **Notice to California and Vermont Residents**
 
