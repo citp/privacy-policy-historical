@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the proactiveinvestors.co.uk privacy policy that was archived on 2010-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100928132502id_/http%3A//www.proactiveinvestors.co.uk/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proactiveinvestors.co.uk privacy policy that was archived on 2011-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110530001820id_/http%3A//www.proactiveinvestors.co.uk/pages/privacy) for the most accurate reproduction.*
 
-# Proactive Investors - Leading source of Financial News, Investor Forums, CEO Interviews, Financial Columnists, Stock Information
+# Proactive Investors - Leading source of Financial News, Investor Forums, CEO Interviews, Financial Columnists, Stock Information - Privacy
 
 **Proactive Investors Limited (the “Company,” “we” or “us”)** respects your privacy and undertakes to protect any personal information entrusted to it. Generally, you may visit our Site without giving us any information about yourself (but we may use Cookies to gather information about you, even if you do not register as a user – please see the section on Cookies below). There are times when we may need to obtain information from you through a registration process in order to provide certain services. Below we describe how we gather and use data. If you are not comfortable with any of the practices or policies described in our privacy policy, we ask that you discontinue use of our Site. Our privacy policy may change from time to time, so please revisit this page frequently to remain fully informed of our latest practices and policies.
 
@@ -55,6 +55,6 @@ By using this Site, you consent to our collection and use of any personal inform
 
 ## Privacy questions
 
-If you have any questions regarding our privacy policy, please contact us through the [Contact Us](https://web.archive.org/contact_us) page on the Site. You may also view your personal information at any time by logging in to your account page.
+If you have any questions regarding our privacy policy, please contact us through the [Contact Us](https://web.archive.org/contact_us/) page on the Site. You may also view your personal information at any time by logging in to your account page.
 
 ### END.
