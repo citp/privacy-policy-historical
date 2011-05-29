@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uaex.edu privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119163437id_/http%3A//division.uaex.edu/statements.htm%23Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uaex.edu privacy policy that was archived on 2011-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110529194535id_/http%3A//division.uaex.edu/statements.htm%23Privacy) for the most accurate reproduction.*
 
 # Statements, Disclaimers and Freedom of Information for the U of A Division of Agriculture
 
@@ -54,13 +54,13 @@ The University of Arkansas Division of Agriculture maintains records in two (2) 
 All records are subject to the access and confidentiality provisions of the Arkansas Freedom of Information Act, Ark Code Ann., §§ 25-19-101 through 25-19-107, or to other applicable sections of the Arkansas Code. Requests for records under the Freedom of Information Act should be directed to: 
 
 **Division of Agriculture  
-Dr. Milo J. Shult  
+Dr. Mark J. Cochran  
 **Vice-President for Agriculture  
 Administrative Offices  
 2404 N. University Avenue  
 Little Rock, AR 72207  
 501- 686-2540  
-[mjshult@uasys.edu](mailto:mjshult@uasys.edu)  
+[mjcochran@uasys.edu](mailto:mjcochran@uasys.edu)  
 ---  
   
 **Dr. Tony Windham  
@@ -84,14 +84,14 @@ Fax: 501-671-2251
 E-mail: [drothberg@uaex.edu](mailto:drothberg@uaex.edu)   
   
 **  
-Dr. Mark J. Cochran**  
-Associate Vice-President   
+Dr. Richard Roeder**  
+Interim Associate Vice-President   
 for Agriculture - Research  
-AFLS E-108  
+AFLS E-202  
 University of Arkansas  
 Fayetteville, AR 72701   
-479-575-8703  
-E-mail: [mcochran@uark.edu](mailto:mcochran@uark.edu)
+479-575-2120  
+E-mail: [rroeder@uark.edu](mailto:rroeder@uark.edu)
 
 | 
 
