@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the didx.net privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125213223id_/http%3A//www.didx.net/privacy%2520policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the didx.net privacy policy that was archived on 2011-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110530012911id_/https%3A//www.didx.net/privacy%2520policy) for the most accurate reproduction.*
 
 # DIDX - DID/DDI wholesale Service Provider:- Privacy Policy
 
