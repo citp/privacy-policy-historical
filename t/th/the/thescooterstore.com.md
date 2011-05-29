@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thescooterstore.com privacy policy that was archived on 2010-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101207071237id_/http%3A//www.thescooterstore.com/aboutus/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thescooterstore.com privacy policy that was archived on 2011-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110529114522id_/http%3A//www.thescooterstore.com/aboutus/privacypolicy.aspx) for the most accurate reproduction.*
 
 # The SCOOTER Store – Privacy Policy
 
