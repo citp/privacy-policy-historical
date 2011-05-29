@@ -1,76 +1,68 @@
-> *The following text is extracted and transformed from the adsense-secrets.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224014504id_/http%3A//www.infomediainc.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adsense-secrets.com privacy policy that was archived on 2011-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110529103539id_/http%3A//www.adsense-secrets.com/members/privacy) for the most accurate reproduction.*
 
-# Infomedia Inc Privacy Policy
+# Privacy
 
-This is the web site of InfoMedia, Inc.
+** Privacy Policy For: AdSense-Secrets.com**
 
-Our postal address is: 1151 Eagle Drive, Suite 325, Loveland, CO 80537-8020. We can be reached via our [ Support Desk](http://support.infomediainc.com/). Or you can reach us by telephone at (970) 278-0011.
+**Preamble**
 
-The policies below are applicable to worldvillage.com, toylab.com, dealofday.com, freebietracker.com, familyfirst.com and other sites on the World Wide Web portion of the Internet owned and operated by InfoMedia, Inc. 
+Flying Monkey Media, Inc. understands that you may have concerns about safeguarding your privacy on-line. The Privacy Statement that follows explains our views and practices concerning privacy, and how they may pertain to you as you make full use of our many offerings. This statement discloses the privacy practices for all Flying Monkey Media, Inc. websites including the website you are currently visiting where you are reading this Privacy Policy.
 
-InfoMedia, Inc. collects personally identifying information only during (i) contest or sweepstakes Registration, (ii) subscription Registration for sites that require subscription, (iii) opt-in email lists where content is specifically presented, and (iv) online shopping. In addition, Registration is required and information is collected in certain portions of sites in which guests provide content submissions and suggestions or participate in interactive online activities (i.e., community postings, voting, chat, games, or bulletin boards). InfoMedia, Inc. may use such information to fulfill prizes, track compliance with our House Rules, or for editorial and feedback purposes (to the extent that is explained when guests provide the information). In the event that InfoMedia, Inc. plans to post any such information on a site, guests are provided prior notification of such posting and given the option of preventing such posting. 
+**Article 1. Collection of Personal Information from Site Visitors**
 
-**   
-Policies for Individuals Under 13**
+Flying Monkey Media, Inc. automatically collects and/or tracks (1) the home server domain names, IP address, e-mail addresses, type of client computer, and type of Web browser of visitors to Flying Monkey Media, Inc’s Web site, (2) the e-mail addresses of visitors that communicate with Flying Monkey Media, Inc. via e-mail, (3) information such as personal, financial or demographic information, knowingly provided by the visitor in on-line forms, registration forms, surveys, and sweepstakes entries, and (4) information, either in the aggregate or user specific, on what pages visitors access.
 
-InfoMedia, Inc. encourages parents and guardians to spend time online with their children and to participate in the interactive activities offered on the sites.
+Flying Monkey Media, Inc. places Internet cookies on visitors’ hard drives. We use cookies to deliver information and content specific to your interests, and to save your password so you do not have to re-enter it each time you visit our site. Internet cookies save the visitor’s name, password, user-name, screen preferences, the pages of the Flying Monkey Media, Inc’s Web site viewed by the visitor, and the advertisements viewed or clicked by the visitor. When the visitor revisits the Flying Monkey Media, Inc’s Web site, Flying Monkey Media, Inc. will recognize the visitor by the Internet cookie and customize the visitor’s experience accordingly. Internet cookies are stored on the visitor’s hard drive and are not stored, in any form, by Flying Monkey Media, Inc.. Visitors may decline the Internet cookie by using the appropriate feature of their Web browser software, if available.
 
-No information should be submitted to or posted at InfoMedia, Inc.�s Web sites by guests under 13 years of age without the consent of their parent or guardian. 
+**Article 2. Use of Personal Data Collected**
 
-Unless otherwise disclosed during collection, InfoMedia, Inc. does not provide any personally identifying information, regardless of its source, to any third party for any purpose whatsoever.
+Personal data collected by Flying Monkey Media, Inc. will be used by Flying Monkey Media, Inc. for editorial and feedback purposes, for marketing and promotional purposes, for a statistical analysis of users’ behavior, for future product development, for content improvement, to inform advertisers as to how many visitors have seen or clicked their advertisements, and to customize content and layout of Flying Monkey Media, Inc’s site. Names, postal and e-mail addresses, and phone numbers collected may be added to Flying Monkey Media, Inc’s databases and used for future e-mails, calls and mailings regarding site updates, new products and services, upcoming events, and status of orders placed online. Financial information collected may be used to check the user’s qualifications for registration, to bill the user for products and services, to notify the user in the event of sweepstakes winnings, and to notify the relevant taxing and regulatory authorities regarding payments or prizes.
 
-No information collected from guests under 13 years of age is used for any marketing or promotional purposes whatsoever, either inside or outside InfoMedia, Inc. 
+Demographic and profile data collected is used to tailor the visitor’s experience at our site, enabling us to present content we think they might be interested in. We use customer contact information to send the user information about our company and promotional material from some of our partners. The customer’s contact information is also used to contact him or her in the event of a sweepstakes winning, and to notify the relevant taxing and regulatory authorities regarding payments or prizes.
 
-Guests� e-mail addresses are never posted on InfoMedia, Inc. Web sites, except where a guest uses our message boards. The Guest has an option to have his or her email address appear. 
+**Article 3. Disclosure of Personal Data to Third Parties**
 
-   
-**Policies for Individuals 13 Years of Age or Older**
+Flying Monkey Media, Inc. reserves the right to share, rent, sell, or otherwise disclose data it collects on Flying Monkey Media, Inc’s Web site to third parties. Any third party to which Flying Monkey Media, Inc. shares, rents, sells, or otherwise discloses personal data will be carefully pre-screened by Flying Monkey Media, Inc., determined by Flying Monkey Media, Inc. to be reputable, and will use the personal data for marketing products and services which Flying Monkey Media, Inc. determines, in its sole judgment, that visitors might find of interest. Flying Monkey Media, Inc. will disclose to third parties information knowingly and voluntarily disclosed by visitors, or information in aggregate form.
 
-With the permission of a guest who is 13 years of age or over, information submitted at the time of Registration or submission may be used for marketing and promotional purposes by InfoMedia, Inc. and may be shared with our affiliates or companies that have been prescreened by InfoMedia, Inc.. If a guest objects to such use for any reason, he/she may stop that use by e-mail request. Once you have registered with InfoMedia, Inc., every effort will be made to maintain your information in a secure environment by InfoMedia, Inc. and our affiliates. 
+Through the use of third party cookies, an advertiser will be electronically notified when visitors view or click on its advertisements. This site contains links to other sites and Flying Monkey Media, Inc. is not responsible for the privacy practices or the content of such sites.
 
-If you wish to modify your Registration information or stop receiving e-mail updates from InfoMedia, Inc., just send an email request to [Support Desk](http://support.infomediainc.com/).
+**Article 4. Opt-Out Right**
 
-  
-**About IP Addresses**
+We allow users the opportunity to opt-out of receiving communications from us and our partners at the point where we voluntary request information about the visitor. This site also allows users to remove their information from our database. If a user removes his or her information from the Flying Monkey Media, Inc. database it will no longer be used by Flying Monkey Media, Inc. for secondary purposes, disclosed to third parties, or used by Flying Monkey Media, Inc. or third parties to send promotional correspondences to the visitor. Users can remove their information by writing to us via postal mail at the address below, or by sending an email requesting removal to [insert e-mail for remove].
 
-InfoMedia, Inc. collects IP addresses for the purposes of system administration and to report aggregate information to our advertisers.
+Visitors may opt out of having their personal information collected by Flying Monkey Media, Inc., by contacting Flying Monkey Media, Inc. via postal mail to the address below, or via e-mail to support@infomediainc.com.
 
-An IP address is a number that�s automatically assigned to your computer whenever you�re surfing the Web. Web servers -- the big computers that "serve" up Web pages -- automatically identify your computer by its IP address.
+**Article 5. Access to and Ability to Correct Personal Data**
 
-When guests request pages from InfoMedia, Inc. sites, our servers log the guests� IP addresses. We do not link IP addresses to anything personally identifiable. This means that a user�s session will be logged, but the user remains anonymous to us.
+Upon request via postal mail or e-mail, Flying Monkey Media, Inc. will provide to visitors a summary of any personal information retained by Flying Monkey Media, Inc. regarding the visitor. Flying Monkey Media, Inc. will only send personal records to the e-mail address on file for the visitor name associated with it. Visitors may modify, correct, change, or update their personal record or cause their personal record to be removed from Flying Monkey Media, Inc’s database. Visitors may change or modify information previously provided by by contacting Flying Monkey Media, Inc. via postal mail to the address below, or via e-mail to support@infomediainc.com.
 
-   
-**Us** **e of Cookies**
+**Article 6. Collection of Personal Data from Children**
 
-What are cookies? Cookies are pieces of information that a Web site transfers to an individual�s hard drive for record-keeping purposes. Cookies make Web-surfing easier for you by saving your passwords, purchases, and preferences while you�re at our site. The use of cookies is an Industry standard -- you�ll find them at most major Web sites.
+The information and services provided at Flying Monkey Media, Inc.’s web site by Flying Monkey Media, Inc., its affiliates, sponsors, and advertisers are not intended to be viewed by children under 13 years of age. All sweepstakes offered at Flying Monkey Media, Inc. are open to United States residents 18 years or older only. Flying Monkey Media, Inc. will not knowingly permit a child to participate in a game, offering of a prize, or another activity. If a child wins a sweepstakes, that child’s entry will be voided, and another winner will be drawn.
 
-By showing how and when guests use the site, cookies help us see which areas are popular and which are not. Many improvements and updates to the site are based on such data as total number of visitors and pages viewed. This information is most easily tracked with cookies. If you accept the first tracking cookie from any InfoMedia, Inc. web site, you won�t be offered as many afterwards.
+Concerning visitors to its site that it knows are children under 13 years of age, Flying Monkey Media, Inc. maintains the following policies:
 
-   
-**Examples of How InfoMedia, Inc. Sites Use Cookies**
+\- Flying Monkey Media, Inc. will not knowingly collect personal information from children under 13 years of age without prior parental consent, which will include an opportunity for the parent to prevent use of the information and participation in the activity. Without prior parental consent, on-line information will only be used to respond directly to the child’s request and will not be used for other purposes without prior parental consent.
 
-A cookie lets the computers remember that you�ve registered, which allows us to speed up your future activities at our sites. Similarly, The WorldVillage Store Online uses a temporary cookie to track which products you�ve chosen while shopping. The cookie expires once you�re done shopping. Letting it do the record keeping saves you the trouble of entering information over and over again during a single visit. If you decline this cookie, you may have difficulty ordering your selections. 
+\- In the event a child submits information to the Flying Monkey Media, Inc. Web site, the child must provide an e-mail address for the child’s parent or guardian. Thereafter, Flying Monkey Media, Inc. will send an e-mail to the parent or guardian alerting them to the child’s registration and providing instructions on how the parent can provide consent for the child to view the contents of Flying Monkey Media, Inc., or how the parent could view or delete the child’s registration, if so desired.
 
-   
-**How InfoMedia, Inc. Sites Do Not Use Cookies**
+\- Flying Monkey Media, Inc. will not knowingly distribute to third parties any personally identifiable offline contact information concerning children under 13 years of age without prior parental consent.
 
-InfoMedia, Inc. sites never use cookies to retrieve information from your computer that was not originally sent in a cookie. Except as described below, InfoMedia, Inc. sites do not use information transferred through cookies for any promotional or marketing purposes, nor is that information shared with any third parties whatsoever. 
+\- No information collected from children is knowingly used for any marketing or promotional purposes whatsoever, either inside or outside Flying Monkey Media, Inc..
 
-InfoMedia, Inc. sites do not use cookies to identify specific individuals, except in such cases as online shopping (see above) and contest registration (where a cookie allows you to enter a contest every day without registering again each time).
+Article 7. Flying Monkey Media, Inc’s Right to Contact User
 
-You may occasionally get cookies from our advertisers. InfoMedia, Inc. does not control these cookies, and these cookies are not subject to the InfoMedia, Inc. cookie policy. The use of advertising cookies sent by third-party servers is standard in the Internet industry.
+Flying Monkey Media, Inc. reserves the right to contact site visitors regarding account status and changes to subscriber agreements, privacy policy, or any other policies or agreements relevant to site visitors.
 
-Most browsers are initially set to accept cookies. If you�d prefer, you can set yours to refuse cookies or to alert you when cookies are being sent. However, it is possible that some parts of the site, such as the shopping, contest, and game areas, will not function properly if you do so.
+Article 8. Flying Monkey Media, Inc’s Right to Change Privacy Policy
 
-   
-**Links to Other Sites**
+Flying Monkey Media, Inc. reserves the right to change this policy at any time by notifying visitors of the existence and location of the new or revised privacy policy.
 
-Users should be aware that when you are on InfoMedia, Inc. sites you could be directed to other sites that are beyond our control. There are links to other sites from InfoMedia, Inc. sites that take you outside our service. For example, if you click on a banner advertisement or a InfoMedia, Inc. search result, the click takes you off the InfoMedia, Inc. site. This includes links from advertisers, sponsors, and partners that may use InfoMedia, Inc.�s logo as part of a cobranding agreement. These other sites may send their own cookies to users, collect data, or solicit personal information. Always be aware of where you end up.
+Contacting Flying Monkey Media, Inc.
 
-Please keep in mind that whenever you give out personal information online � for example, via message boards or chat � that information can be collected and used by people you don�t know. While InfoMedia, Inc. strives to protect its users� personal information and privacy, we cannot guarantee the security of any information you disclose online, and you do so at your own risk.
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact:
 
-This site uses the services of Tribal Fusion for the serving and/or targeting of ads, promotions and other marketing messages. To do this, Tribal Fusion collects anonymous data typically through the use of cookies. To learn more about Tribal Fusion, including your ability to opt out of the Tribal Fusion system, go to [Tribal Fusion](http://www.tribalfusion.com/).
-
-Your Acceptance of These Terms By using this site, you signify your assent to the InfoMedia, Inc. Privacy Policy. If you do not agree to this policy, please do not use our sites. Your continued use of the InfoMedia, Inc. sites following the posting of changes to these terms will mean you accept those changes. You can send e-mail to us with any further questions. 
-
- 
+Flying Monkey Media, Inc.  
+1151 Eagle Dr Ste 325  
+Loveland, CO 80537  
+[Support Desk](http://support.infomediainc.com/)
