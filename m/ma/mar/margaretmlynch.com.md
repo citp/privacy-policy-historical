@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the margaretmlynch.com privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126151658id_/http%3A//www.margaretmlynch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the margaretmlynch.com privacy policy that was archived on 2011-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110529195933id_/http%3A//www.margaretmlynch.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Emotional Freedom Technique - Margaret M Lynch
 
