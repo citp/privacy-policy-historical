@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dwsports.com privacy policy that was archived on 2010-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101113164550id_/http%3A//www.dwsports.com/fcp/content/privacy-policy/content) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dwsports.com privacy policy that was archived on 2011-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110529103516id_/http%3A//www.dwsports.com/fcp/content/privacy-policy/content) for the most accurate reproduction.*
 
 # DW Sports - Privacy Policy
 
