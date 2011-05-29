@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 1-click-fix.com privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119072634id_/http%3A//1-click-fix.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1-click-fix.com privacy policy that was archived on 2011-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110529125307id_/http%3A//1-click-fix.com/privacy.html) for the most accurate reproduction.*
 
-# 1-Click-Fix
+# 1-Click-Fix Privacy Policy - How we safeguard personal data
 
 ## Privacy Policy
 
