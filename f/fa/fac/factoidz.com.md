@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the factoidz.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125053431id_/http%3A//factoidz.com/pages/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the factoidz.com privacy policy that was archived on 2011-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110529080045id_/http%3A//factoidz.com/pages/privacy.php) for the most accurate reproduction.*
 
 # Expert Advice & Forums on Health, Home Improvement, Finance & more
-
-[](http://factoidz.com/)
 
 At Factoidz we recognize that privacy is important. This Policy applies to all of the products, services and websites offered by Factoidz Inc. or its subsidiaries or affiliated companies (collectively, Factoidz’s “services”). In addition, where more detailed information is needed to explain our privacy practices, we post separate privacy notices to describe how particular services process personal information, which are accessible from the navigation bar to the left of this notice.
 
