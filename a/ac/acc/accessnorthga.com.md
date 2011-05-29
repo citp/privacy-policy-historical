@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the accessnorthga.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228052253id_/http%3A//www.accessnorthga.com/access/etc/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accessnorthga.com privacy policy that was archived on 2011-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110529214504id_/http%3A//www.accessnorthga.com/access/etc/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | AccessNorthGa.com
 
@@ -42,13 +42,11 @@ Our site provides users the opportunity to opt-out of receiving communications f
 
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
 
-You can send email to [info@accessnorthga.com ](mailto:info@accessnorthga.com)
+You can send email using our [contact form](https://web.archive.org/access/contact/). 
 
 ## Correct/Update
 
 This site gives users the following options for changing and modifying information previously provided. 
-
-email [info@accessnorthga.com ](mailto:info@accessnorthga.com)
 
 ## Contacting the Web Site
 
@@ -57,17 +55,6 @@ If you have any questions about this privacy statement, the practices of this si
 Webmaster   
 AccessNorthGa.com   
 1102 Thompson Bridge Rd., N.E.  
-Gainesville, GA 30501  
-[info@accssnorthga.com ](mailto:info@accessnorthga.com)
+Gainesville, GA 30501
 
-  
-| 
-
-**Additional Site Services**
-
-**Address**
-
-1102 Thompson Bridge Rd.  
-Gainesville, GA 30501, 
-
-770-532-9921 
+This posted Privacy Policy was last updated January 1, 2011. 
