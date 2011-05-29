@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the bediscreet.com privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201141643id_/http%3A//www.bediscreet.com/helpprivacy.asp%3Fs%3Ds) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bediscreet.com privacy policy that was archived on 2011-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110530003026id_/http%3A//www.bediscreet.com/helpprivacy.asp%3Fs%3Ds) for the most accurate reproduction.*
 
 # Married Dating at BeDiscreet.com
 
 ### Privacy Policy
 
-(' **We** ') Easy Date Holdings Ltd are committed to protecting and respecting your privacy.
+(' **We** ') IDIGITAL Ltd are committed to protecting and respecting your privacy.
 
 This policy (together with our [terms and conditions of use](https://web.archive.org/helptandc.asp?s=s) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
@@ -14,7 +14,9 @@ We are the data controller for the purposes of the Data Protection Act 1998 (the
 
 We may collect and process the following information about you: 
 
-  * Information that you provide by filling in forms on our site **BeDiscreet** (the ' **Site** ') (including your personal details, contact details and other profile information you submit when you create a membership profile). We may also collect information when you voluntarily complete customer surveys, provide feedback and participate in competitions.
+  * Information that you provide by filling in forms on our site **BeDiscreet** (the ' **Site** ') (including your personal details, contact details, mobile phone number and other profile information you submit when you create a membership profile). We may also collect information when you voluntarily complete customer surveys, provide feedback and participate in competitions.
+  * Information from your web-based email accounts (including your profile picture and other publicly visible information) if you agree to add the Site's email address to the contact lists stored at your email provider's website.
+  * Your location according to the IP address assigned to your PC by your Internet Service Provider.
   * If you contact us, we may keep a record of that correspondence.
   * Details of transactions you carry out through the Site, including any information we require to provide any products or services that you order from us through the Site.
   * Website usage information is also collected using cookies (see below under 'Cookies').
@@ -25,13 +27,26 @@ We use the information we hold about you in the following ways:
 
   * To administer your user account with us (including notifying you of any compatible matches, tips, announcements, updates, special offers or services, should you consent to this).
   * To help us improve the structure, layout and usability of the Site.
-  * To allow you to participate in any interactive features of the Site.
+  * To allow you to participate in any interactive features of the Site(including the features that require the mobile phone number).
   * To help personalise your repeat visits to the Site.
-  * To provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes (see below under ' **Marketing** ' for more information).
+  * To notify you of any compatible matches or any matches who are near your location.
+  * To provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes (see below under ' **Marketing** ' for more information). Such information may be sent to you by email or by SMS (if you provided your mobile phone number).
   * To answer any questions you may raise or respond to any comments you may send to us.
   * To notify you about changes to our service or the functionality of the Site.
   * To carry out market analysis and research.
   * To ensure that you are complying with the [terms and conditions of use](https://web.archive.org/helptandc.asp?s=s) and to comply with our statutory and regulatory obligations.
+
+**What information do we collect about others?**
+
+  * Some features of the Site allow you to share your Site experience with people you know (“your Contacts”), or to invite them to join the Site. When given the option to do so you can choose to upload your Contacts information; we will request their name and email address.
+  * If you give us your password to upload these Contacts through a web based email provider we shall not store your password after you have uploaded your Contacts’ addresses.
+
+**How do we use information about your Contacts?**
+
+  * If you choose to upload your Contact’s name and email address you are allowing us to send an email invitation on your behalf, inviting your Contact to join the Site.
+  * We will store your Contact’s name and email address solely for the purposes of inviting them to join our Site and for associating your Contact with you and other people they may know.
+  * If your Contact does not want us to store their email address which you uploaded to our Site, they can ask us to remove it by contacting us at [datarequest@cupid.com](mailto:datarequest@cupid.com).
+  * We will not store your Contacts information after invitations (up to a maximum of 3) have been sent. Your Contacts will then only receive future emails from us if they choose to accept the invitation and join our Site, or if you use any of our tools to share experiences with your Contacts and you input their email address for us to use again.
 
 **Disclosure of your information**
 
@@ -50,7 +65,7 @@ We may also provide information about you to other users of the Site as reasonab
 
 **Marketing**
 
-We would like to send you information about goods and services offered by us and selected third parties that we think may be of interest to you. If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes please tick the appropriate boxes situated in the ' **my account** ' area of the Site. You can also ask us to not to use your personal information, or to pass your details on to third parties for marketing purposes, by e-mailing us at: [unsubscribe@bediscreet.com](mailto:unsubscribe@bediscreet.com)
+We would like to send you information about goods and services offered by us and selected third parties that we think may be of interest to you. For that, the email address or mobile phone number you have provided can be used. If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes please tick the appropriate boxes situated in the ' **my account** ' area of the Site. You can also ask us to not to use your personal information, or to pass your details on to third parties for marketing purposes, by e-mailing us at: [unsubscribe@bediscreet.com](mailto:unsubscribe@bediscreet.com)
 
 **Cookies**
 
