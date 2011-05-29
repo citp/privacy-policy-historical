@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the translate.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223104003id_/http%3A//www.translate.com/About_ENLASO/Privacy_Pledge.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the translate.com privacy policy that was archived on 2011-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110529215632id_/http%3A//www.translate.com/About_ENLASO/Privacy_Pledge.aspx) for the most accurate reproduction.*
 
 # Privacy Statement | ENLASO
 
