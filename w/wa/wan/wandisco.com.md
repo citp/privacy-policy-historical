@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the wandisco.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205061208id_/http%3A//www.wandisco.com/php/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wandisco.com privacy policy that was archived on 2011-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110529135428id_/http%3A//www.wandisco.com/privacy-policy) for the most accurate reproduction.*
 
-# WANdisco ™ | Subversion, SVN, CVS, Replication, Subversion MultiSite, Subversion Control, Subversion Mirror, Subversion Appliance, Tigris Subversion, Distributed Software Development, SCM, Software Configuration Management, Subversion Support
+# Privacy Policy | WANdisco
 
-| 
+###  PRIVACY STATEMENT  
 
-PRIVACY STATEMENT 
 
 Thank you for visiting WANdisco.com, a WANdisco, Inc. site. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used at our sites. 
 
-THE INFORMATION WE COLLECT 
+###  THE INFORMATION WE COLLECT  
+
 
 At our site, you may order products, enter contests, vote in polls or otherwise express an opinion, subscribe to one of our services such as our online newsletters, or participate in an online forum or community. The types of personally identifiable information that may be collected at these pages include: name, address, e-mail address, telephone number, fax number and information about your interests in and use of various products, programs, and services. 
 
@@ -16,7 +16,8 @@ At certain parts of our site, only persons who provide us with the requested per
 
 We may also collect certain non-personally identifiable information when you visit many of our web pages such as the type of browser you are using (e.g., Internet Explorer, Netscape), the type of operating system you are using, (e.g., Windows 98 or Mac OS) and the domain name of your Internet service provider (e.g., America Online, Earthlink). 
 
-HOW WE USE THE INFORMATION 
+###  HOW WE USE THE INFORMATION  
+
 
 We may use the information you provide about yourself to fulfill your requests for our products, programs, and services, to respond to your inquiries about our offerings, and to offer you other products, programs or services that we believe may be of interest to you. 
 
@@ -32,21 +33,25 @@ We may on occasion combine information we receive online with outside records to
 
 Finally, WANdisco, Inc. sites covered by this Privacy Notice will not use or transfer personally identifiable information provided to us in ways unrelated to the ones described above without also providing you with an opportunity to opt out of these unrelated uses. 
 
-COLLECTION OF INFORMATION BY THIRD-PARTIES AND SPONSORS 
+###  COLLECTION OF INFORMATION BY THIRD-PARTIES AND SPONSORS  
+
 
 Our site contains links to other sites whose information practices may be different than ours. Visitors should consult the other sites' privacy notices as we have no control over information that is submitted to, or collected by, these third parties. 
 
-COOKIES 
+###  COOKIES  
+
 
 To enhance your experience with our sites, many of our web pages use "cookies." Cookies are text files we place in your computer's browser to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information unless you choose to provide this information to us by, for example, registering at one of our sites. However, once you choose to furnish the site with personally identifiable information, this information may be linked to the data stored in the cookie. 
 
 We use cookies to understand site usage and to improve the content and offerings on our sites. For example, we may use cookies to personalize your experience at our web pages (e.g., to recognize you by name when you return to our site), and save your password in password-protected areas. We also may use cookies to offer you products, programs, or services. 
 
-OUR COMMITMENT TO SECURITY 
+###  OUR COMMITMENT TO SECURITY  
+
 
 We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online. 
 
-HOW YOU CAN ACCESS OR CORRECT INFORMATION 
+###  HOW YOU CAN ACCESS OR CORRECT INFORMATION  
+
 
 Access to personally identifiable information that is collected from our site may be accessible for a limited period of time from the point of collection. For example, if you created a password-protected account within our site go back to that portion of the site to review the information you provided. 
 
@@ -55,13 +60,11 @@ You may also send an e-mail or letter to the following e-mail or street address 
 4847 Hopyard Road, Suite 4-208  
 Pleasanton, CA 94588, USA  
 +1 (866) 846-0404 (voice)  
-+1 (866) 247 7584 (fax)  
-
++1 (866) 247 7584 (fax) 
 
 To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections. 
 
-HOW TO CONTACT US 
+###  HOW TO CONTACT US  
 
-If you have any questions or concerns about the WANdisco, Inc. online policy for this site or its implementation you may contact us at privacy@WANdisco.com. 
 
-| 
+If you have any questions or concerns about the WANdisco, Inc. online policy for this site or its implementation you may contact us at privacy [at] WANdisco [dot] com. 
