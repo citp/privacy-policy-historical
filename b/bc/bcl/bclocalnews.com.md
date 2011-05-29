@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bclocalnews.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222153635id_/http%3A//www.bclocalnews.com/privacy_policy%3Fc%3Dy%26curSection%3D%26bc09%3Dtrue) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bclocalnews.com privacy policy that was archived on 2011-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110529100623id_/http%3A//www.bclocalnews.com/privacy_policy%3Fc%3Dy%26curSection%3D%26bc09%3Dtrue) for the most accurate reproduction.*
 
 # BCLocalNews.com - Privacy Policy
 
