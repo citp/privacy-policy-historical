@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the operationdropship.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231130733id_/http%3A//operationdropship.com/support/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the operationdropship.com privacy policy that was archived on 2011-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110529102955id_/http%3A//www.operationdropship.com/support/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
