@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nsgalleries.com privacy policy that was archived on 2010-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100516151323id_/http%3A//www.newsensations.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nsgalleries.com privacy policy that was archived on 2011-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110529075451id_/http%3A//www.newsensations.com/privacy.htm) for the most accurate reproduction.*
 
 # NewSensations.com
 
-[](https://web.archive.org/web/20100516151323id_/http%3A//www.newsensations.com/privacy.htm?o=main)[](http://members.newsensations.com/)[](https://web.archive.org/web/20100516151323id_/http%3A//www.newsensations.com/privacy.htm?o=modellist)[](https://web.archive.org/web/20100516151323id_/http%3A//www.newsensations.com/privacy.htm?o=networklist)[](https://web.archive.org/web/20100516151323id_/http%3A//www.newsensations.com/privacy.htm?o=sets)[](https://web.archive.org/vids/)[](http://www.nscash.com/signup/signup.php?s=2)
+[](https://web.archive.org/web/20110529075451id_/http%3A//www.newsensations.com/privacy.htm?o=main)[](http://members.newsensations.com/)[](https://web.archive.org/web/20110529075451id_/http%3A//www.newsensations.com/privacy.htm?o=modellist)[](https://web.archive.org/web/20110529075451id_/http%3A//www.newsensations.com/privacy.htm?o=networklist)[](https://web.archive.org/web/20110529075451id_/http%3A//www.newsensations.com/privacy.htm?o=sets)[](https://web.archive.org/vids/)[](http://www.nscash.com/signup/signup.php?s=2)
 
 ****
 
@@ -18,4 +18,4 @@ This site automatically receives and records information from your browser inclu
 Information Sharing and Disclosure  
 This site will not sell, rent, or make available your personally identifiable information to anyone. 
 
-[](https://web.archive.org/web/20100516151323id_/http%3A//www.newsensations.com/privacy.htm?o=main)[](http://members.newsensations.com/)[](https://web.archive.org/web/20100516151323id_/http%3A//www.newsensations.com/privacy.htm?o=modellist)[](https://web.archive.org/web/20100516151323id_/http%3A//www.newsensations.com/privacy.htm?o=networklist)[](https://web.archive.org/web/20100516151323id_/http%3A//www.newsensations.com/privacy.htm?o=sets)[](https://web.archive.org/vids/)[](http://www.nscash.com/signup/signup.php?s=2)
+[](https://web.archive.org/web/20110529075451id_/http%3A//www.newsensations.com/privacy.htm?o=main)[](http://members.newsensations.com/)[](https://web.archive.org/web/20110529075451id_/http%3A//www.newsensations.com/privacy.htm?o=modellist)[](https://web.archive.org/web/20110529075451id_/http%3A//www.newsensations.com/privacy.htm?o=networklist)[](https://web.archive.org/web/20110529075451id_/http%3A//www.newsensations.com/privacy.htm?o=sets)[](https://web.archive.org/vids/)[](http://www.nscash.com/signup/signup.php?s=2)
