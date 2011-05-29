@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the free-webhosts.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130182941id_/http%3A//www.free-webhosts.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-webhosts.com privacy policy that was archived on 2011-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110529035714id_/http%3A//www.free-webhosts.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy for "Free Web Hosting" (Free-Webhosts.com)
 
@@ -31,4 +31,4 @@ This website contains numerous links to other sites. We are not responsible for 
 By using this website, you signify your assent to the Free-Webhosts.com privacy policy. We reserve the right to change this privacy policy at any time by posting such changes on this web page, so please check this web page periodically for changes. If you do not agree to the current private policy, please do not use this website.
 
 **Contacting Us**  
-See our [contact](https://web.archive.org/web/20101130182941id_/http%3A//www.free-webhosts.com/contact.php) page.
+See our [contact](https://web.archive.org/web/20110529035714id_/http%3A//www.free-webhosts.com/contact.php) page.
