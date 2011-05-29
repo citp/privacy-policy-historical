@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the balljunkie.com privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119115558id_/http%3A//balljunkie.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the balljunkie.com privacy policy that was archived on 2011-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110529100419id_/http%3A//balljunkie.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Ball Junkie
 
@@ -20,8 +20,6 @@ We have included links on this site for your use and reference. We are not respo
 
 **Changes to this Privacy Statement**  
 The contents of this statement may be altered at any time, at our discretion.  
-If you have any questions regarding the privacy policy of **Ball Junkie** then you may [contact us](http://balljunkie.com/contactus "contact us") at **info@balljunkie.com**
+If you have any questions regarding the privacy policy of **Ball Junkie** then you may contact us at **info@balljunkie.com**
 
 Last updated Tue, 04 May 2010 14:34
-
-[Share on Facebook](http://www.facebook.com/share.php?u=http://balljunkie.com/privacy-policy "Share on Facebook")
