@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cmlibrary.org privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215111718id_/http%3A//www.cmlibrary.org/About_Us/policiesPrivacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cmlibrary.org privacy policy that was archived on 2011-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110530010451id_/http%3A//www.cmlibrary.org/About_Us/policiesPrivacy.asp) for the most accurate reproduction.*
 
 # CMLibrary: About Us: Privacy Policy
 
@@ -6,11 +6,11 @@
   
 * * *
 
-**HOLIDAY HOURS - All libraries will be closed Dec. 24, 25 & 26 for Christmas. [Learn more](http://www.cmlibrary.org/locations/closings.asp)
+**HOLIDAY HOURS - All libraries will be closed Monday, May 30 2011 for Memorial Day.
 
 * * *
 
-Changes to Library fines, fees and services will go into effect January 1. [Learn more](http://www.cmlibrary.org/about_us/in_the_news/releaseDetails.asp?id=483) **
+Summer Hours begin June 5; all libraries closed Sundays. [Learn more](http://ow.ly/53tLC) **
 
 * * *  
   
@@ -39,9 +39,9 @@ The Library is committed to protecting the privacy of visitors to its web sites.
 
 **Related Documents:**
 
-  * [Guidelines for use of Public Access Computers](https://web.archive.org/web/20101215111718id_/http%3A//www.cmlibrary.org/About_Us/policiesPac.asp)
-  * [Internet Use Policy](https://web.archive.org/web/20101215111718id_/http%3A//www.cmlibrary.org/About_Us/policiesInternet.asp)
-  * [The Internet Safety Net: A Guide for Parents](https://web.archive.org/web/20101215111718id_/http%3A//www.cmlibrary.org/About_Us/policiesSafetyNet.asp)
+  * [Guidelines for use of Public Access Computers](https://web.archive.org/web/20110530010451id_/http%3A//www.cmlibrary.org/About_Us/policiesPac.asp)
+  * [Internet Use Policy](https://web.archive.org/web/20110530010451id_/http%3A//www.cmlibrary.org/About_Us/policiesInternet.asp)
+  * [The Internet Safety Net: A Guide for Parents](https://web.archive.org/web/20110530010451id_/http%3A//www.cmlibrary.org/About_Us/policiesSafetyNet.asp)
 
 
 
@@ -54,7 +54,7 @@ The Library is committed to protecting the privacy of visitors to its web sites.
 
 [ESPAÑOL](http://www.systranlinks.com/trans?lp=en_es&url=http%3A%2F%2Fplcmc.org%2F) | [FRANÇAIS](http://www.systranlinks.com/trans?lp=en_fr&url=http%3A%2F%2Fplcmc.org%2F) | [DEUTSCH](http://www.systranlinks.com/trans?lp=en_de&url=http%3A%2F%2Fplcmc.org%2F) | [PORTUGUÊSE](http://www.systranlinks.com/trans?lp=en_pt&url=http%3A%2F%2Fplcmc.org%2F)   Powered by SYSTRAN
 
-[](http://www.facebook.com/cmlibrary) [](http://twitter.com/cmlibrary) [](http://youtube.com/cmlibrary) [](https://web.archive.org/programs/rsslist.asp) [](http://addthis.com/bookmark.php?v=250&username=xa-4bc4924b35e747d4)
+[](http://www.facebook.com/cmlibrary) [](http://twitter.com/cmlibrary) [](http://youtube.com/cmlibrary) [](http://www.flickr.com/photos/plcmc) [](https://web.archive.org/programs/rsslist.asp) [](http://addthis.com/bookmark.php?v=250&username=xa-4bc4924b35e747d4)
 
-© 2010 Charlotte Mecklenburg Library | 310 N. Tryon Street, Charlotte, NC 28202 | 704.416.0100   
+© 2011 Charlotte Mecklenburg Library | 310 N. Tryon Street, Charlotte, NC 28202 | 704.416.0100   
 [Contact Us](https://web.archive.org/Online/Ask_a_Librarian/default.asp) | Comment on this page | [Library Websites](https://web.archive.org/services/plcmcwebsites.asp) | [Privacy Notice](https://web.archive.org/About_Us/policiesPrivacy.asp) | [Internet Policy](https://web.archive.org/about_us/policiesInternet.asp)
