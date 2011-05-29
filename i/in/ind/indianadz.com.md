@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indianadz.com privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119065045id_/http%3A//www.indianadz.com/%3Fq%3Dcontent/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indianadz.com privacy policy that was archived on 2011-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110529132312id_/http%3A//www.indianadz.com/%3Fq%3Dcontent/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
