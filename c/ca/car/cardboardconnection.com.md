@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cardboardconnection.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223214748id_/http%3A//www.cardboardconnection.com/site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cardboardconnection.com privacy policy that was archived on 2011-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110529105818id_/http%3A//www.cardboardconnection.com/site/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy –
 
 **What information do we collect?**
 
@@ -85,3 +85,12 @@ http://www.cardboardconnection.com
 1860 Sandy Plains Road, Ste 204-137  
 Marietta, GA 30066  
 United States
+
+**Check Out Our Exclusive Ranking Guides to:**
+
+  * [Baseball Cards Value](http://www.cardboardconnection.com/baseball/baseball-card/ "baseball card worth")
+  * [Basketball Cards Pricing](http://www.cardboardconnection.com/basketball/basketball-cards/ "basketball cards worth")
+  * [Football Cards Prices](http://www.cardboardconnection.com/football/football-cards-collect/ "football cards worth")
+  * [Hockey Cards Price](http://www.cardboardconnection.com/hockey/hockey-cards/ "hockey card worth")
+
+
