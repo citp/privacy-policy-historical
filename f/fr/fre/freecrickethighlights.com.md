@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freecrickethighlights.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221111947id_/http%3A//www.freecrickethighlights.com/p/disclaimer-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freecrickethighlights.com privacy policy that was archived on 2011-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110529182423id_/http%3A//www.freecrickethighlights.com/p/disclaimer-privacy-policy.html) for the most accurate reproduction.*
 
-# Cricket Highlights Videos, Watch Live Streaming Online | Free Cricket Highlights: DISCLAIMER and PRIVACY POLICY
+# IPL 4 2011 Live Streaming, Highlights Free IPL 2011 Sony Set Max | IPL 2011: Policy
 
 **DISCLAIMER & PRIVACY POLICY**
 
