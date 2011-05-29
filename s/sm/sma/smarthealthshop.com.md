@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smarthealthshop.com privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214015006id_/http%3A//www.smarthealthshop.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smarthealthshop.com privacy policy that was archived on 2011-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110529045158id_/http%3A//www.smarthealthshop.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Smart Health Shop | Supplements, Vitamins, Diet, Weight Loss Sitemap
 
@@ -25,3 +25,5 @@ We guarantee confidentiality and security in all transactions to promote confide
 Contact Us
 
 Send all additional correspondence to: customersupport@smarthealthshop.com
+
+[](https://privacy-policy.truste.com/yahoo-policy/www.smarthealthshop.com "Privacy Policy by TRUSTe")
