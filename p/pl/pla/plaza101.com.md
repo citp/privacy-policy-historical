@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the plaza101.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204104021id_/http%3A//www.plaza101.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plaza101.com privacy policy that was archived on 2011-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110529094508id_/http%3A//www.plaza101.com/privacy.aspx) for the most accurate reproduction.*
 
 # Online Price Comparison Store Product Reviews
 
-##  Privacy Policy
+| 
 
 Plaza101.com is strongly committed to protecting the privacy of its user community. 
 
@@ -18,7 +18,7 @@ When you view our Web site, we may store some information on your computer. This
 
 **Individual User Information**
 
-Plaza101.com will collect personal information if you choose to become a Plaza101.com member. The personal information we collect includes your name, e-mail, and/or work phone, work or home address, company or organization name,. We do not share neither e-mail addresses nor individually identifiable information with any third parties. 
+Plaza101.com will collect personal information if you choose to become a Plaza101.com member. The personal information we collect includes your name, e-mail, and/or work phone, work or home address, company or organization name,. We do not share neither e-mail addresses nor individually identifiable information with any third parties.
 
 **Disclosure**
 
@@ -26,6 +26,6 @@ Plaza101.com reserves the right to access and disclose individually identifiable
 
 If you have any questions about our privacy policy, or believe that we have not adhered to the guidelines set forth above, please [contact us](https://web.archive.org/contact.aspx). 
 
-  
-Thank you.   
+Thank you. 
 
+| 
