@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the rsbot.org privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128154607id_/http%3A//www.jagex.com/p%3D2sA9c0-ltlLB7H6LqG1ya8HsfouobXJr4Av4RGYIPRo/corporate/privacy.ws) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rsbot.org privacy policy that was archived on 2011-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110529132216id_/http%3A//www.jagex.com/p%3D2sA9c0-ltlLB7H6LqG1ya8HsfouobXJr4Av4RGYIPRo/corporate/privacy.ws) for the most accurate reproduction.*
 
 # Jagex Games Studio :: Just About the Game Experience :: Privacy Policy
 
-Effective Date: 24th November, 2010
+Effective Date: 5th May, 2011
 
 **Privacy Policy**
 
@@ -38,6 +38,12 @@ For example:
 
 
 
+Information about you received from Third Parties 
+
+If you access Jagex's Products through an integrated and approved Third Party then you are allowing Jagex access to certain information from that Third Party. The information you allow Jagex to access may vary per Jagex Product and across different Third Party platforms and is affected by the privacy settings you have on your computer or internet device and the choices you make with that Third Party. 
+
+By playing a Jagex Product through a Third Party site or application you are authorising Jagex to collect, store and use in accordance with this Privacy Policy any and all information that you agreed the Third Party could provide to Jagex through that Third Party site or application. 
+
 **Children's privacy practices of Jagex**  
 Jagex's products (RuneScape, War of Legends, Stellar Dawn and FunOrb) and Jagex's websites are not targeted to users under 13 years of age. If you are under 13 years of age, from 24 November 2010 you will not be permitted to create an account for any of these products.
 
@@ -46,7 +52,7 @@ For users who are under 13 who have created accounts prior to 24 November 2010, 
 For users who are under 13 who have created accounts prior to 24 November 2010, if we ask you for your email address as your username and you are under 13, we will not store the email address. Instead the email address will automatically create an encrypted record on our system (known as a hash), which cannot be used by us to re-create the email address. Next time you login, you will be asked for your email address as your username. This will then automatically create a new hash which will then be compared against our existing records in order to allow you to log you in. We will not store your email address in any form that can be used to contact you, although you may be asked to provide your parent’s email address.
 
 **What other information is collected and stored?**  
-We use [cookies](http://www.jagex.com/cookies.ws), collect and store IP-addresses, alphanumeric IDs and other unique identifiers in order to identify specific computers that access our websites. We identify and store the versions of Java and .NET (if any) on your computer along with your browser and operating system.
+We use [cookies](http://www.jagex.com/p=2sA9c0-ltlLB7H6LqG1ya8HsfouobXJr4Av4RGYIPRo/cookies.ws), collect and store IP-addresses, alphanumeric IDs and other unique identifiers in order to identify specific computers that access our websites. We identify and store the versions of Java and .NET (if any) on your computer along with your browser and operating system, and details of your device's hardware and software specifications.
 
 We generate and store logs indicating usage of our websites such as activity in our games and public and private chat communications. This includes monitoring play patterns and anti-tamper checks which verify the correct internal operation of our software and are designed to spot abusive or inappropriate activities.
 
@@ -61,7 +67,7 @@ The information we collect may be used:
 
   1. To process your payment for membership subscriptions or other goods or services ordered on our site or to fulfil such orders.
   2. To provide our customer support service, and to verify any claims or requests you make if you use our customer support service.
-  3. To enforce our [terms and conditions](https://web.archive.org/web/20101128154607id_/http%3A//www.jagex.com/p%3D2sA9c0-ltlLB7H6LqG1ya8HsfouobXJr4Av4RGYIPRo/terms/terms.ws), and prevent or detect hacking activities, security breaches or safety risks in connection with our websites.
+  3. To enforce our [terms and conditions](https://web.archive.org/web/20110529132216id_/http%3A//www.jagex.com/p%3D2sA9c0-ltlLB7H6LqG1ya8HsfouobXJr4Av4RGYIPRo/terms/terms.ws), and prevent or detect hacking activities, security breaches or safety risks in connection with our websites.
   4. To send service announcements and messages (for example, a reminder sent to the members' Message Centre if a subscription payment is due or if member credit has expired).
   5. To aggregate information to generate anonymous statistics regarding use of our websites. We may share this anonymous information with our partners and advertisers. This is not linked to any personal information that can identify any individual person.
   6. For our own internal marketing and demographic studies and to help us improve our websites or to show you adverts on our site which are relevant to your demographic profile.
@@ -85,7 +91,7 @@ We use persistent cookies to track your country (to enable us to provide country
 
 Our advertisers and technology partners also use cookies and other similar technologies. For more information about this, see under "Third Parties" below. 
 
-If you wish to opt-out of the use of cookies [click here](http://www.jagex.com/cookies.ws) for clear instructions. Some features of our site may not be available if you reject cookies. 
+If you wish to opt-out of the use of cookies [click here](http://www.jagex.com/p=2sA9c0-ltlLB7H6LqG1ya8HsfouobXJr4Av4RGYIPRo/cookies.ws) for clear instructions. Some features of our site may not be available if you reject cookies. 
 
 For more information about cookies, [click here](http://www.allaboutcookies.org/). 
 
@@ -142,4 +148,4 @@ The affidavit has to be signed by and in the presence of ‘notary public’. Th
 If you are submitting an affidavit for a child that is under 13 years of age, then please do not include any of their Personally Identifiable Information, this includes their full name, home address, email address or telephone number. If you do include any PII of the child, your submission is your express consent for Jagex to receive and store the PII as reasonably necessary to fulfil your request. 
 
 **Review, correction and deletion of information from our records**  
-If for data protection purposes you are concerned that the personally identifiable information which we hold about you is not accurate, or should you wish to have your personal information removed from our records, please see our [Data Protection Policy](https://web.archive.org/web/20101128154607id_/http%3A//www.jagex.com/p%3D2sA9c0-ltlLB7H6LqG1ya8HsfouobXJr4Av4RGYIPRo/corporate/dataprotect.ws). (Its terms are incorporated into this document by reference.) 
+If for data protection purposes you are concerned that the personally identifiable information which we hold about you is not accurate, or should you wish to have your personal information removed from our records, please see our [Data Protection Policy](https://web.archive.org/web/20110529132216id_/http%3A//www.jagex.com/p%3D2sA9c0-ltlLB7H6LqG1ya8HsfouobXJr4Av4RGYIPRo/corporate/dataprotect.ws). (Its terms are incorporated into this document by reference.) 
