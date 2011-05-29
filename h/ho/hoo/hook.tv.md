@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hook.tv privacy policy that was archived on 2010-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101019033027id_/http%3A//www.hook.tv/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hook.tv privacy policy that was archived on 2011-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110529192848id_/http%3A//www.hook.tv/privacy.php) for the most accurate reproduction.*
 
 # Hook.tv
 
@@ -39,7 +39,7 @@ Hook.tv takes every precaution to protect our users' information. When users sub
 
 Ultimately, your personal information is protected by the password you created when you registered an account with the (or another password you chose after changing a previous password). Please keep this password confidential. No Customer Service Associate or any other representative of Hook.tv will ever ask you for your password. So if you receive any correspondence purportedly coming from us, please do not supply any password in response to any such request. The confidentiality of your password is yours to protect. You may change it anytime by going to the My Account section of Tools that is part of the application. 
 
-If you have any questions about security, please send an e-mail to [support@hook.tv](https://web.archive.org/web/20101019033027id_/http%3A//www.hook.tv/support@hook.tv)
+If you have any questions about security, please send an e-mail to [support@hook.tv](https://web.archive.org/web/20110529192848id_/http%3A//www.hook.tv/support@hook.tv)
 
 **Special Offers**  
 We send all new members confirmation/welcoming e-mail. Established subscribers who become members may receive e-mail on an ongoing basis including the Hook.tv Video Magazine or other similar beneficial correspondence without charge.  You will occasionally receive information on products, services, special deals, in addition to a newsletter. Out of respect for your privacy, we present the option to not receive these types of communications. Please see our opt-out below. 
@@ -63,7 +63,7 @@ By registering or using this Site, you are expressly consenting to our sharing o
 Hook.tv reserves the right, at its sole discretion, to change its Privacy Policy at any time and without notice. If we decide to change our Privacy Policy, we will post the Privacy Policy update on our website so that our users may view our new policy and be aware on an ongoing basis of what information we collect, how we use it, and under which circumstances we share it. If how we use or share your information is a concern, you are advised to review the Privacy Policy each time you visit Hook.tv to see if there have been any changes or updates to the policy. By using this Site and entering your Personal Information, you expressly assent that you have read the current Privacy Policy and agree to the then-prevailing terms pertaining Hook.tv's collection, use and sharing of your information.  
 **  
 Canceling Your Hook.tv Service**  
-At any point, you may elect to cancel your Hook.tv service. To do so, contact us via email at [support@hook.tv.](https://web.archive.org/web/20101019033027id_/http%3A//www.hook.tv/support@hook.tv)   
+At any point, you may elect to cancel your Hook.tv service. To do so, contact us via email at [support@hook.tv.](https://web.archive.org/web/20110529192848id_/http%3A//www.hook.tv/support@hook.tv)   
 **  
 Contacting Hook.tv**  
-If you have any questions about this privacy policy statement you can e-mail us at [support@hook.tv](https://web.archive.org/web/20101019033027id_/http%3A//www.hook.tv/support@hook.tv)
+If you have any questions about this privacy policy statement you can e-mail us at [support@hook.tv](https://web.archive.org/web/20110529192848id_/http%3A//www.hook.tv/support@hook.tv)
