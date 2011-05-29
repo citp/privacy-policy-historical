@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the todaysdod.com privacy policy that was archived on 2010-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101115191901id_/http%3A//www.todaysdod.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the todaysdod.com privacy policy that was archived on 2011-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110529103104id_/http%3A//www.todaysdod.com/privacypolicy.php) for the most accurate reproduction.*
 
-# TodaysDOD.com - Privacy Policy
-
-This is the web site of **TodaysDOD.com**.  
-We can be reached via e-mail at [admin@todaysdod.com](mailto:admin@todaysdod.com)
+# PrivacyPolicy - TodaysDOD.com
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
 
