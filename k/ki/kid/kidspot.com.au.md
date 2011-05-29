@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the kidspot.com.au privacy policy that was archived on 2009-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090912123054id_/http%3A//www.kidspot.com.au/privacy-kidspot.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidspot.com.au privacy policy that was archived on 2011-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110530005956id_/http%3A//www.kidspot.com.au/privacy-kidspot.asp) for the most accurate reproduction.*
 
-# Privacy Policy - Kidspot Australia
+# Privacy Policy
 
 Kidspot Australia values its visitors and clients and respects their privacy. We collect client information in an effort to improve your advertising experience and to communicate with you about our products, services, and promotions. We collect visitor email addresses only if voluntarily provided as part of our newsletter subscription. We do not sell or rent your personal information to third parties. 
 
-This policy describes the personal information we collect about you, why we collect it and how we use it. If you have any questions about our privacy policy, you can always contact Kidspot Australia customer service in any of three ways: [send us an e-mail](https://web.archive.org/web/20090912123054id_/http%3A//www.kidspot.com.au/contact-kidspot.asp), call us at 1300 724 575 or write to us and fax to 61 3 8640 0647. If our information practices change in the future, we will post an updated policy on our website. You can tell if the policy has changed by checking the revision date that appears at the end of this policy. You may exercise your choices about how we collect and use your information at any time. 
+This policy describes the personal information we collect about you, why we collect it and how we use it. If you have any questions about our privacy policy, you can always contact Kidspot Australia customer service in any of three ways: [send us an e-mail](https://web.archive.org/web/20110530005956id_/http%3A//www.kidspot.com.au/contact-kidspot.asp), call us at 1300 724 575 or write to us and fax to 61 3 8640 0647. If our information practices change in the future, we will post an updated policy on our website. You can tell if the policy has changed by checking the revision date that appears at the end of this policy. You may exercise your choices about how we collect and use your information at any time. 
 
 What kind of information does Kidspot Australia collect?  
 How does Kidspot Australia use my information?  
@@ -47,7 +47,7 @@ We use a third-party advertising company to serve ads when you visit our Web sit
 
 ## How do I access my information? How do I change or delete my information?
 
-You can review, change or delete certain personal information related to your use of our site (e.g., name and contact information). For advertisers, simply click "My Account" after logging in to the Advertiser Directory and you'll be able to edit your personal information. You can also ask us to update your personal information, by calling us at 1 300 724 575 or you may [click here to e-mail](https://web.archive.org/web/20090912123054id_/http%3A//www.kidspot.com.au/contact-kidspot.asp) Kidspot Australia customer service. Please be sure to include your e-mail address, full name and password. Please note that any requests to update your personal information may take up to two business days for your e-mail request. To unsubscribe to our monthly newsletter, simply follow the instructions at the bottom of the newsletter.top
+You can review, change or delete certain personal information related to your use of our site (e.g., name and contact information). For advertisers, simply click "My Account" after logging in to the Advertiser Directory and you'll be able to edit your personal information. You can also ask us to update your personal information, by calling us at 1 300 724 575 or you may [click here to e-mail](https://web.archive.org/web/20110530005956id_/http%3A//www.kidspot.com.au/contact-kidspot.asp) Kidspot Australia customer service. Please be sure to include your e-mail address, full name and password. Please note that any requests to update your personal information may take up to two business days for your e-mail request. To unsubscribe to our monthly newsletter, simply follow the instructions at the bottom of the newsletter.top
 
 ## How does Kidspot Australia protect kids' privacy?
 
