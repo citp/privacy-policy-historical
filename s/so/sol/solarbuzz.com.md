@@ -1,65 +1,40 @@
-> *The following text is extracted and transformed from the solarbuzz.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223171453id_/http%3A//www.solarbuzz.com/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solarbuzz.com privacy policy that was archived on 2011-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110530010210id_/http%3A//www.solarbuzz.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Solarbuzz
 
-**  
-** The Solarbuzz.com web site ("Web Site") is owned and operated by Solarbuzz, LLC ("Solarbuzz"). The following privacy statement describes the practice of Solarbuzz with respect to the collection, maintenance and disclosure of information on the Web Site. **  
-**
+Solarbuzz® respects your privacy and protects your personally identifiable information.  This statement outlines our privacy policy as it applies to our Solarbuzz.com website.
 
 **Information Collected**
 
-You can access this Web Site and browse it without providing your personal information. But in order to participate in some of the activities available on, or benefit from services offered on, the Web Site, a user must provide personal information. 
+In our website, we give you the option of providing us with personal information in order to register for conferences, receive more detailed information on our products or services, respond to surveys or submit feedback on the website. The personal information we collect includes your name, the name of your company, your position, address, phone, fax, e-mail, and, to the extent applicable, credit card details. We do not knowingly collect personally identifiable information from persons who are under the age of 18.
 
-**Surveys**
+**How We Use This Information**
 
-To improve services and the quality of the Web Site and to expand our users' experience on the Web Site, we occasionally conduct surveys among users which request the provision of personal information such as name and e-mail address as well as non-personal information regarding users' experiences on the Web Site. Participation in the surveys and the corresponding submission of personal information are optional. 
+When you submit personal information on our web site, the information you submit is used only in connection with the purpose for which it is submitted and otherwise as may be permitted in this paragraph. We do not share your personal information with any third parties, except with our corporate affiliate (which itself would be subject to similar restrictions on use of your information as contained in this Privacy Policy) and, as may be applicable, agents or contractors of Solarbuzz who are required to keep the information confidential and not use it for any other purpose than to carry out the services they are performing for Solarbuzz. In addition, we may be required to disclose your personal information in connection with law enforcement, fraud prevention, regulation, and other legal action or if we reasonably believe it is necessary to do so to protect Solarbuzz or our customers. In the event of the acquisition of Solarbuzz, or substantially all of its assets, the information we have collected from you will be among the acquired assets. Such information will remain subject to restrictions no less stringent than permitted under this Privacy Policy in effect at that time.
 
-**Suggestion, Contact and Feedback**
+**Data Security; Internet Commerce**
 
-To improve services and the quality of the Web Site, we offer users an opportunity to provide their suggestions and contributions by completing the Suggest and/or Feedback forms. By virtue of the forms, we collect personal information such as full name and e-mail address. Through these forms we also solicit the provision of non-personal information. By providing your suggestions and contributions, you grant to Solarbuzz an unrestricted, irrevocable, perpetual and royalty-free license to use, reproduce, display, perform, modify, transmit, distribute and otherwise utilize such suggestions and/or contributions for any purpose. To contact us users must complete the contact form requesting the provision of personal information such as full name and e-mail address. 
+Solarbuzz is committed to data security with respect to information collected on our site. We offer the industry standard security measures available through your browser called SSL encryption, to protect your information, including your credit card details.
 
-**Use of Personal Information Collected**
+**Online Experience**
 
-Personal information collected on this Web Site is used primarily for the purpose it is requested. In particular, contact information, such as name and e-mail address, is used to provide users services they have chosen on this Web Site such as the provision of newsletters. Personal information collected in connection with a contest is used to notify the winners and to award prizes. We also use personal information to provide users with information about new services and products offered on the Web Site and to forward promotional materials from us and our partners. It is important to note that users may opt-out of receiving promotional materials and information about new services on the Web Site. The opt out procedure is discussed in detail below. We may use personal information collected to contact users in connection with their inappropriate use of this Web Site, non-compliance with the [Terms of Use](https://web.archive.org/web/20101223171453id_/http%3A//www.solarbuzz.com/TermsandConditions.htm) or in connection with a complaint filed by another user. We may share personal information collected on the Web Site with our partners and third parties but only with your consent, which can be granted in the form of an opt-out at the points where personal information is collected. We collect and use non-personal information such as demographic data to analyze and develop our marketing strategy and to determine how you found out about us, your interests regarding our services and how to further improve our Web Site based upon user data. We share non-personal information with our partners and third parties.
+Our server log, which records all transactions and the IP addresses that request them, is used to monitor traffic flow on our site in order to manage the site more effectively and to make sure its content is useful. Cookies may occasionally be used only to enhance your experience on our site and to make our site easier for you to navigate. In addition, the Solarbuzz Web server automatically recognizes some information about our visitors, including the company that provides their Internet service. Our server does not automatically recognize names, addresses, e-mail addresses or similar information specific to you as an individual.
 
-**Disclosure Required By Law**
+**Changes to This Privacy Policy**
 
-We may disclose personal information when required by law or in the good faith belief that such action is necessary in order to conform to the requirements of law or comply with legal process served on the Web Site. 
+We may occasionally update this Privacy Policy. If there are material changes in how we may use your personal information, we will post a notice of such changes prior to implementation.
 
-**Opt-Out**
+**Opt Out Policy**
 
-We provide users the opportunity to opt-out from receiving updates regarding new services and products offered on the Web Site, newsletters, promotional materials and from sharing users' personal information with our partners and/or third parties. The opt-out option may be exercised at points where personal information is collected by clicking on the "No" button. If the user has not exercised the opt-out option at the point where personal information is collected, s/he can do it later by contacting us at [customerservice@solarbuzz.com.](mailto:customerservice@solarbuzz.com)
+Our e-mail communications with you will offer you the opportunity to unsubscribe from further Solarbuzz e-mail communications after your request is processed.
 
-**Forums**
+**Contact Solarbuzz**
 
-Forums are very popular informative discussion opportunities for our users. Please note, however, that any information users post during forum sessions becomes public information. Exercise caution when you decide to disclose personal information in forum sessions as all users of the Web Site will have access to this information. 
+If you have any questions about our Privacy Policy or our web site, or wish to confirm, change or delete any of your personal information with us, you may contact:
 
-**Cookies**
-
-A cookie is a piece of data stored on the user's hard drive containing information about the user. Use of a cookie is in no way linked to any personal information. If a user rejects the cookie, s/he may still use the Web Site, although it may affect the functionality of certain services available to the user. Cookies also enable us to track and target the interests of our users to enhance their experience on the Web Site. 
-
-**Log Files**
-
-We collect IP addresses to analyze trends, administer the Web Site, track user's movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personal information. 
-
-**Links**
-
-This privacy statement applies solely to information collected on this Web Site. This Web Site contains links to other web sites. Please be aware that Solarbuzz has no control or influence over the privacy practices of such other web sites. We encourage our users to be aware when they leave the Web Site and to read the privacy statements of each and every web site they visit. 
-
-**Security**
-
-We take every reasonably available precaution to protect our users' information. All of our users' information, not just the sensitive information, is restricted in our offices. Only employees who need the information to perform a specific job are granted access to personal information. This information is password protected. Furthermore, all employees are kept up-to-date on our security and privacy practices. If you have any questions about the security at the Web Site, you can send an email to [info@Solarbuzz.com.](mailto:info@solarbuzz.com)
-
-**Correct/Update**
-
-We provide users with an opportunity to access their personal information to ensure that personal information is correct, accurate and current. To access personal information a user must send us a request at [info@Solarbuzz.com](mailto:info@solarbuzz.com).
-
-**Notification of Changes**
-
-We will use information in accordance with the privacy statement under which the information was collected. If we decide to change our privacy statement, we will post those changes on our homepage so that our users are always aware of the information we collect, how we use it, and the circumstances, if any, under which we disclose it. If at any point we decide to use personal information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not they will allow us to use their personal information in this different manner. 
-
-**Enforcement**
-
-If users have any questions or complaints with respect to the principles outlined in this privacy statement or enforcement of this privacy statement they should contact us at [info@solarbuzz.com](mailto:info@solarbuzz.com). 
-
-Last revised on May 3, 2001. 
+Solarbuzz, a part of The NPD Group  
+900 West Shore Road   
+Port Washington, NY 11050   
+1.888.436.7673  
+1.516.625.2452  
+_Contact:_ [contact@solarbuzz.com](mailto:contact@solarbuzz.com)
