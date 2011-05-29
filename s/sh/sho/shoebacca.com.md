@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shoebacca.com privacy policy that was archived on 2010-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100914113447id_/http%3A//www.shoebacca.com/resources/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoebacca.com privacy policy that was archived on 2011-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110529084548id_/http%3A//www.shoebacca.com/resources/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | SHOEBACCA.com
 
@@ -10,7 +10,7 @@
 
   1. **Acknowledgement and acceptance of terms of use**  
 SHOEBACCA.com is committed to protecting your privacy. This Privacy Statement sets forth our current privacy practices with regard to the information we collect when you or your computer interact with our website. By accessing SHOEBACCA.com, you acknowledge and fully understand SHOEBACCA.com’s Privacy Statement and freely consent to the information collection and use practices described in this Website Privacy Statement.  
-SHOEBACCA.com has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [SHOEBACCA.com](https://web.archive.org/web/20100914113447id_/http%3A//www.shoebacca.com/resources/contact). If you are not satisfied with our response you can contact TRUSTe [here](http://watchdog.truste.com/pvr.php?page=complaint).
+SHOEBACCA.com has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [SHOEBACCA.com](https://web.archive.org/web/20110529084548id_/http%3A//www.shoebacca.com/resources/contact). If you are not satisfied with our response you can contact TRUSTe [here](http://watchdog.truste.com/pvr.php?page=complaint).
   2. **Information We Collect and How We Use It**  
 SHOEBACCA.com collects certain information from and about its users in three ways: directly from our Web Server logs, our users, and with cookies.  
 
@@ -69,4 +69,4 @@ EFFECTIVE DATE: 08/05/2010
 
 
 
-© 2007 - 2010 SHOEBACCA.com or its affiliates. All rights reserved. SHOEBACCA and the SHOEBACCA logo are trademarks of SHOEBACCA.com or its affiliates. 
+© 2007 - 2011 SHOEBACCA.com or its affiliates. All rights reserved. SHOEBACCA and the SHOEBACCA logo are trademarks of SHOEBACCA.com or its affiliates. 
