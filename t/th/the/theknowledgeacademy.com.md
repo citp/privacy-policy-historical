@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theknowledgeacademy.com privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129035043id_/http%3A//www.theknowledgeacademy.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theknowledgeacademy.com privacy policy that was archived on 2011-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110530005030id_/http%3A//www.theknowledgeacademy.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -9,15 +9,18 @@
       * [ **PRINCE2® Training**](https://web.archive.org/training-calendar/prince2-training)
       * [ **ITIL® Training**](https://web.archive.org/training-calendar/itil-training)
       * [ **MSP® Training**](https://web.archive.org/training-calendar/msp-training)
-      * [ **M_o_R® Training**](https://web.archive.org/training-calendar/mor-training)
-      * [ **APMP Training**](https://web.archive.org/training-calendar/apmp-training)
-      * [ **P30® Training**](https://web.archive.org/training-calendar/p3o-training)
-      * [ **Change Management Training**](https://web.archive.org/training-calendar/change-management)
-      * [ **Business Analysis Training**](https://web.archive.org/training-calendar/business-analysis-system-development-training)
+      * [ **M_o_R® Training**](https://web.archive.org/training-calendar/mor-training-courses)
+      * [ **APMP Training**](https://web.archive.org/training-calendar/apmp-training-courses)
+      * [ **P30® Training**](https://web.archive.org/training-calendar/p30-practitioner-training)
+      * [ **Change Management Training**](https://web.archive.org/training-calendar/change-management-courses)
+      * [ **Business Analysis Training**](https://web.archive.org/training-calendar/business-analysis-essentials)
+      * [ **Agile Training**](https://web.archive.org/training-calendar/agile-project-management-foundation-practitioner)
+      * [ **Software Testing Training**](https://web.archive.org/training-calendar/software-testing-foundation)
+      * [ **Six Sigma Training**](https://web.archive.org/training-calendar/lean-six-sigma-green)
     * Course Calendar 2
-      * [ **Personal Development Training**](https://web.archive.org/training-calendar-softskills/presentation-skills-training-courses)
-      * [ **Management Training**](https://web.archive.org/training-calendar-softskills/introduction-to-management-training)
-      * [ **Project Management Training**](https://web.archive.org/training-calendar-softskills/introduction-to-project-management)
+      * [ **Personal Development Training**](https://web.archive.org/training-calendar-softskills/personal-development-training/london)
+      * [ **Management Training**](https://web.archive.org/training-calendar-softskills/management-training/london)
+      * [ **Project Management Training**](https://web.archive.org/training-calendar-softskills/project-management-training/london)
   * [Training Locations](https://web.archive.org/training-locations)
   * [Clients](https://web.archive.org/clients)
   * [Onsite](https://web.archive.org/onsite)
