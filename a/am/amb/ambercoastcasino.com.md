@@ -1,18 +1,24 @@
-> *The following text is extracted and transformed from the ambercoastcasino.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230111433id_/http%3A//www.eurogrand.com/security-privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ambercoastcasino.com privacy policy that was archived on 2011-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110529111110id_/http%3A//www.eurogrand.com/privacy) for the most accurate reproduction.*
 
-# Security & Privacy Policy for Ensuring Maximum Safety
+# Privacy and Security- How Your Personal Data is Safeguarded
 
-|  |   
-|  | 
+### Top Games
 
-[](https://web.archive.org/web/20101230111433id_/http%3A//www.eurogrand.com/free-casino.php)
+Play Now
 
-[](https://web.archive.org/direct_play.php?creferer=DLB:security-privacy.php;a_b_test:FlashRD)
+Play Now
 
-|   
-[Home](https://web.archive.org/) > Security privacy
+Play Now
 
-  1. **PURPOSE OF THIS PRIVACY POLICY**
+### Game Of The Month
+
+### Promotions
+
+[](http://www.eurogrand.com/promotions/refer-a-friend/)
+
+**PRIVACY POLICY For www.EuroGrand.com (“the Website”)**
+
+  1.  **PURPOSE OF THIS PRIVACY POLICY**
 
 The following describes the information gathering and dissemination practices for the Website, which is operated by WHG (International) Limited (registration number DP005080 with the Gibraltar Regulatory Authority) and/or WHG Trading Limited and/or William Hill Malta Limited (individually, and collectively, “ **the Operator** ”).
 
@@ -97,6 +103,4 @@ If at any time You believe that the Operator has not adhered to the principles c
  **This Privacy Policy is effective from 1st December 2009**
 
 
-  
----|---  
-|  | 
+
