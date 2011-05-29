@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the top10-broadband.co.uk privacy policy that was archived on 2010-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101208051959id_/http%3A//top10.com/company/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the top10-broadband.co.uk privacy policy that was archived on 2011-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110529235237id_/http%3A//top10.com/company/legal/privacy) for the most accurate reproduction.*
 
 # Privacy policy – Top10.com
 
