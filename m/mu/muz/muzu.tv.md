@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the muzu.tv privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128015149id_/http%3A//www.muzu.tv/site/privacyPolicy%3Fcountry%3Dus) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the muzu.tv privacy policy that was archived on 2011-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110530005531id_/http%3A//www.muzu.tv/site/privacyPolicy%3Fcountry%3Dus%26locale%3Den) for the most accurate reproduction.*
 
 # MUZU TV - Watch, Create and Share Music Video Playlists
 
@@ -96,7 +96,7 @@ IF THE AUTHORITIES COME KNOCKING...
 
 5.1
 
-We may disclose Your Info to properly authorised third parties to whom we are required to disclose such information by law. This might include disclosing Your Info where we reasonably believe that you are attempting to commit fraud, conduct activities that could bring harm to others, are using Our Website for any other criminal or immoral purpose or are in serious breach of the [terms and conditions of use](https://web.archive.org/site/termsAndConditions) of Our Website. If you are using Our Website for reasons other than simply enjoying the Artist channels and innocently interacting with the Music Guys and other users, please don't worry as this section will not affect you. 
+We may disclose Your Info to properly authorised third parties to whom we are required to disclose such information by law. This might include disclosing Your Info where we reasonably believe that you are attempting to commit fraud, conduct activities that could bring harm to others, are using Our Website for any other criminal or immoral purpose or are in serious breach of the [terms and conditions of use](https://web.archive.org/site/legal) of Our Website. If you are using Our Website for reasons other than simply enjoying the Artist channels and innocently interacting with the Music Guys and other users, please don't worry as this section will not affect you. 
 
 6.1
 
@@ -138,6 +138,10 @@ In order to offer this service both the Music Guys and ourselves do make money b
 
 We use third-party advertising companies to serve ads when you visit Our Website. These companies may use information (not including your name, address, email address or telephone number) about your visits to Our Website and other websites in order to provide advertisements that are more relevant to goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here: [networkadvertising.org](http://networkadvertising.org/consumer/opt_out.asp). 
 
+8.5
+
+MUZU.TV partners with third party ad networks and allows such networks to use cookies to collect non-personally identifiable data for targeting and serving ads. Users can opt-out of this behavioral targeting by visiting the Network Advertising Initiative's consumer page at <http://www.networkadvertising.org/managing/opt_out.asp>. 
+
 9
 
 WE DON'T CONTROL THE WHOLE OF THE WORLD WIDE WEB...
@@ -152,7 +156,7 @@ TEENAGERS AND ABOVE ONLY PLEASE...
 
 10.1
 
-In accordance with our [terms and conditions of use](https://web.archive.org/site/termsAndConditions), we do not knowingly collect personal information from people under the age of 13. If we become aware of the fact that a minor is attempting to submit this information, we will inform the minor that he or she is ineligible to do so. We will then remove this information from our records. 
+In accordance with our [terms and conditions of use](https://web.archive.org/site/legal), we do not knowingly collect personal information from people under the age of 13. If we become aware of the fact that a minor is attempting to submit this information, we will inform the minor that he or she is ineligible to do so. We will then remove this information from our records. 
 
 11
 
