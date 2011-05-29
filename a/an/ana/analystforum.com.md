@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the analystforum.com privacy policy that was archived on 2010-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101025071431id_/http%3A//analystforum.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the analystforum.com privacy policy that was archived on 2011-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110529122533id_/http%3A//analystforum.com/privacy.shtml) for the most accurate reproduction.*
 
 # CFA exam, CAIA exam, FRM exam discussion for Chartered Financial Analyst candidates
 
