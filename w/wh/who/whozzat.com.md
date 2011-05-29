@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whozzat.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224181509id_/http%3A//whozzat.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whozzat.com privacy policy that was archived on 2011-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110529095313id_/http%3A//whozzat.com/privacy.php) for the most accurate reproduction.*
 
 # Free SMS Sites, Support Forum, Live Chat Help, Customer Support Chat
 
@@ -61,7 +61,7 @@ We will automatically receive and collect certain anonymous information in stand
   * Password reminder and Registration confirmation
   * Special feature updates
   * Event based services such as renewal notices, invites, email alerts , reminders etc.,
-  * Promotional SMSes on behalf of our alliance partners
+  * Promotional SMS or [Free SMS](http://whozzat.com/ "free sms sites") on behalf of our alliance partners
 
 
 
