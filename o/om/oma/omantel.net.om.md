@@ -1,41 +1,51 @@
-> *The following text is extracted and transformed from the omantel.net.om privacy policy that was archived on 2009-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090525042247id_/http%3A//www.omantel.net.om/policy/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omantel.net.om privacy policy that was archived on 2011-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110530221435id_/http%3A//www.omantel.om/Omanweblib/privacy.aspx) for the most accurate reproduction.*
 
-# Oman Telecommunication Website - Privacy Policy
+# Omantel - Together
 
-Oman Telecommunications Company - OmanTel knows and respects your concerns about your privacy. Certainly, it is our endeavor and objective to provide quality services to you. This covers you privacy. 
+**Oman Mobile Telecommunications Company LLC** is committed to protecting and respecting your privacy on the World Wide Web. Protection of your private data is one of the yardsticks of our success. 
 
-This privacy policy has been formulated to guide and help you understand the nature of the information we collect from you on your visits to our website and how this gathered personal information will be treated by us.
+**Why we collect your information?**
 
-**How we collect Personal Information:**
+  
+Our primary aim to collect personal information about you is to provide you with smooth, efficient and personalized experience while you use our web services. Your providing us with data allows us to present you with customized features and services that most likely meet your needs.   
+ 
 
-  * Directly from you, when filling regestartion forms/eforms
-  * During your navigation and visits to our website
-  * From our records on how you use your OmanTel services
+  
+**How we collect your information?**
+
+  * Online registration form 
+
+  * Existing records  
+ 
 
 
 
-**Your personal information:**
 
-Personal information held by OmanTel include data you voluntarily provided to us. This could cover your name, date of birth, current and permanat addresses, telephone/mobile phone number, email address,Your OmanTel user name and password. We also hold details of your OmanTel services (including their status), as   
-well as certain details about your personal interests.
+**What includes Personal Identifiable Information?**
 
-**How we use your personal information:**
+  
+Personal information held by Oman Mobile includes your name, date of birth, present/permanent address, your contact number, personal email address and your Oman Mobile's username and password. We also hold details of your Oman Mobile services including their status as well as certain details about your personal interest.  
+ 
 
-Personal information you voluntarily provided will help us to get in touch with you and process your requests where applicable. The information can also be used for marketing or quality assurance purposes. The information you provide will never be sold to any third party for their own marketing purposes without your permission in writing unless it is done on an aggregated basis for statistical purposes and research without any information which can be used to identify you.
+  
+**How we use your personal information?**
 
-**Disclosure to Third Parties:**
+  
+We use personal identifiable information, both contact and supplementary, to enhance our website as well as part of promotion and marketing drive. We also use personal info for statistical analysis of usage of the site to enable us to improve site contents, layout, customization of offerings on products and services. 
 
-We will not sell, trade, rent or release any information to any third party outside Omantel. Disclosure may only be made upon an order from a Judicial or Regulatory Authority
+We use your personal info to send you email on our newsletter, response to online queries or comments and any update on Forum that you have requested. Respecting our users we also provide an opt-out option. 
 
-**Browsing:**
+We request for your information on the website as we hold competition as a part of our promotional drive time-to-time. Updated personal information helps us to notify the result and winner of the competition via email or any other contact medium.
 
-When visiting our website; If our customers voluntarily provided us with their e-mail we will collect the domain names of visitors to our website, aggregate information on what pages they access and other information volunteered, such as survey or contact information. We then use the information we collect to improve the content of our web site, notify subscribers about updates to our web site, or contact subscribers or visitors for marketing purposes. The information we collect is not, under any circumstances, shared with any other companies or organizations for any purpose. Our website is configured to collect the information once you supply us with your e-mail address.  
-Furthermore, If; when visiting our site, you supplied us with your e-mail address, your postal address, or your phone number, you could receive periodic emails, postal mailings, or phone calls from us with information on new products, services, or upcoming events. If you do not wish to receive these, just let us know.
+  
+**Disclosure to Third Parties**
 
-**Contact Us with your Questions and Comments**
+  
+As a general proposition Oman Mobile do not sell, trade, rent or release any personally identifiable information about you to any third party. We, however, reserve the right to disclose about you to Law Enforcement or Judiciary at our discretion if deem necessary or appropriate in connection to any investigation of fraud, intellectual property infringement or other activity that is illegal or may expose to legal liability.   
+ 
 
-Information you provide will be treated as confidential. Online Forms request information to help us provide you with enhanced quality of customer care. Such information provided will be used to respond to your questions, comments or requests by OmanTel.
+  
+**Change of Privacy Policy**
 
-**Privacy policy Changes:**
-
-OmanTel reserve the right to change this privacy policy terms and conditions as and when needed. All the changes will be shown here and you will be informed about them. You will also be informed about the gathered information, how we use them and to whom they are disclosed.
+  
+Oman Mobile reserves the right to add, change or modify the terms and condition of privacy policy. If we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice or notify via email in case user prefers to opt for personal communication before changes go into affect, on our web site notifying users of the change. In case we choose to use your personal information other than the manner stated at the time of collecting information you will be appropriately informed beforehand. You reserve the right in such case to decline to let us use the information.
