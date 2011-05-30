@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the conductormax.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224093341id_/http%3A//conductormax.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conductormax.com privacy policy that was archived on 2011-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110530034112id_/http%3A//conductormax.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Conductor MAX – My ACE Xpress
 
