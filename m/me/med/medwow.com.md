@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medwow.com privacy policy that was archived on 2010-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100106113411id_/http%3A//www.medwow.com/view_content.php%3Fid%3D626) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medwow.com privacy policy that was archived on 2011-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110530070152id_/http%3A//www.medwow.com/view_content.php%3Fid%3D626) for the most accurate reproduction.*
 
 # MedWOW - Used Medical Equipment Marketplace
 
@@ -106,4 +106,4 @@ We may change and update the terms of this Policy from time to time. We therefor
 
 You may send us requests, responses, questions and complaints, by using the ['contact us'](http://www.medwow.com/contact.php) form on MedWOW, or by contacting us at [service@medwow.com](mailto:service@medwow.com).
 
-Copyright © 2010 MedWOW ltd. All rights reserved. 
+Copyright © 2011 MedWOW ltd. All rights reserved. 
