@@ -1,47 +1,171 @@
-<!--The following is the downloaded HTML source of the mouthpiecesports.com privacy policy that was archived on 2010-12-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101228090003id_/http%3A//www.mouthpiecesports.com/index.cfm%3Faction%3DgetPage%26code%3DPRIVACY) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mouthpiecesports.com privacy policy that was archived on 2011-05-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110530175917id_/http%3A//www.sportsbuzz.com/pages/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><script type="text/javascript" src="/CFIDE/scripts/cfform.js"></script>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/CFIDE/scripts/cfform.js"></script>
 <script type="text/javascript" src="/CFIDE/scripts/masks.js"></script>
 
-    
-
-    <title>MouthpieceSports</title>
 	
-	<meta name="description" content="Chicago and national sports coverage, straight from the athlete's mouth including Chicago Bears, Chicago Cubs, Chicago Bulls, Chicago White Sox, and Chicago Blackhawks.  Plus sports news, sports videos, Chicago sports radio and more!">
-	
-	<meta name="keywords" content="MOUTHPIECESPORTS, Chicago Sports Videos, Chicago Sports News, Chicago Sports Blogs, Chicago Sports Scores, Chicago Bears, Chicago Bulls, Chicago Blackhawks, Chicago Cubs, Chicago White Sox, NFL, NBA, NHL, MLB, High School, College">
+	<title>Privacy Policy | SportsBUZZ</title>
 	
 
     <!-- fav icon -->
 	<link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon">
 
 	
-
-	<!-- Include Ext stylesheets -->
-	<link rel="stylesheet" type="text/css" href="/js/ext/resources/css/ext-all.css">
-	<link rel="stylesheet" type="text/css" href="/js/ext/resources/css/xtheme-gray.css">
-
-    <!-- our style sheet -->
+    <!-- our primary style sheet -->
     <link rel="stylesheet" type="text/css" href="/css/styles.css">
 
 	
+
+	<!-- Ext library -->
 	
 	<script type="text/javascript" src="/js/nifty/niftycube.js"></script>
-	
-	<script type="text/javascript" src="/js/swfobject/swfobject.js"></script>
 	
 
 	
 	<script type="text/javascript" src="/js/bt/BTUtils.js"></script>
+	
 
+	
+	
+	<script type="text/javascript">
+	  var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', 'UA-18832524-1']);
+	  _gaq.push(['_trackPageview']);
+
+	  (function() {
+	    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();
+	</script>
+	
+
+
+			<script type="text/javascript" src="/js/jquery/jquery.js"></script>
+			
+			<script type="text/javascript" src="/js/jquery/plugins/colorbox/jquery.colorbox-min.js"></script>
+			
+			<link rel="stylesheet" type="text/css" href="/js/jquery/plugins/colorbox/colorbox.css">
+			
+	
+	<script type="text/javascript">
+	$(document).ready(function(){
+		$('.allAccessLink').colorbox({href:'/go/upgrade-all-access?mode=minimal',iframe:true, innerWidth:680, innerHeight:720, overlayClose:false});
+	});
+
+	// put global sportsbuzz utilties here
+	var GLOBAL = {
+
+		// determine available viewport and control widescreen attrib for video popups
+		allowWidescreenMedia: function() {
+			var x,y;
+			//var maxWidth,maxHeight;
+			if (self.innerHeight) { // all except Explorer
+				x = self.innerWidth;
+				y = self.innerHeight;
+			} else if (document.documentElement && document.documentElement.clientHeight) { // Explorer 6 Strict Mode
+				x = document.documentElement.clientWidth;
+				y = document.documentElement.clientHeight;
+			} else if (document.body) { // other Explorers
+				x = document.body.clientWidth;
+				y = document.body.clientHeight;
+			}
+			return (x >= 1300);   // && y >= 740);
+			/*if ((x > 0 && x < 1300) || (y > 0 && y < 740)) {
+				maxWidth = 720;
+				maxHeight = 480;
+			}
+			return {width:maxWidth,height:maxHeight};*/
+		}
+
+
+	};
+
+	function goShop(){
+		window.open('/go/shop?callingaction=getPage&shopId=0','newWin');
+	}
+
+	$(document).ready(function(){
+		$('img').bind("contextmenu",function(e){
+			alert("All images copyright BUZZNetworks LLC.");
+			return false;
+		});
+
+		$('a.media-poster-link').live('mouseover',function(){
+			var colorBoxOptions = {scrolling:false};
+			var colorBoxReloaded = false;
+
+			// for video, add param if widescreen is available
+			if(this.href.indexOf('playVideo')>0) {
+				colorBoxOptions['href'] = this.href+'&allowWidescreen='+GLOBAL.allowWidescreenMedia();
+			//} else {
+				//colorBoxOptions['maxWidth'] = '800px';
+				//colorBoxOptions['maxHeight'] = '600px';
+			}
+
+			colorBoxOptions['onComplete'] = function(){
+
+				$(this).colorbox.resize();
+
+				/*if(this.href.indexOf('showPhoto') > 0 && !colorBoxReloaded) {
+					//$(this).colorbox.resize();
+					colorBoxReloaded = true;
+					$(this).colorbox.load();
+					return;
+				}*/
+
+				//console.log($(this).find('img.fullSize'));
+				/*$('img.fullSize').load(function() {
+					console.log('img loaded');
+					$(this).colorbox.resize();
+				});*/
+				//setTimeout('$(this).colorbox.resize();console.log("timeout");',3000);
+
+				$('img').bind("contextmenu",function(e){
+					alert("All images copyright BUZZNetworks LLC.");
+					return false;
+				});
+			};
+
+			$(this).colorbox(colorBoxOptions);
+			return true;
+		});
+	});
+	</script>
+
+	
+	
+	
+			<script type="text/javascript" src="/js/jquery/plugins/jquery.overlabel.js"></script>
+			
+<script type="text/javascript">
+// use window load to detect autofill, and skip if browser supports placeholder
+$(window).load(function() {
+//$(document).ready(function(){
+	if(!BTUtils.browserSupportsPlaceholder())
+		$("#global-search-overlabel").overlabel().show();
+});
+</script>
+
+<style>
+.overlabel-wrapper {
+	display:inline-block;
+	margin-top:0;
+	padding-top:0;
+	vertical-align:middle;
+}
+#global-search-overlabel {
+	display:none;
+}
+</style>
 
 <script type="text/javascript">/* <![CDATA[ */
-	if (window.ColdFusion) ColdFusion.required['id-searchString']=true;
+	if (window.ColdFusion) ColdFusion.required['global-search-field']=true;
 /* ]]> */</script>
 <script type="text/javascript">
 <!--
-    _CF_checksearch13634 = function(_CF_this)
+    _CF_checksearchForm = function(_CF_this)
     {
         //reset on submit
         _CF_error_exists = false;
@@ -76,1486 +200,589 @@
     }
 //-->
 </script>
-<link type="text/css" rel="stylesheet" href="/js/nifty/niftyCorners.css" media="screen"></head>
 
-<body id="btBody" class="main" style="position:relative;">
+		<script type="text/javascript">
+	        $(document).ready(function() {
 
+				// both the link and the arrow need to trigger each other's mouseover effects
+				$("#signInLink").hover(
+					function(e) {
+						$("#signInArrowLink").addClass("selectedArrow");
+					},
+					function(e) {
+						if(!$("#loginBox").is(":visible"))
+							$("#signInArrowLink").removeClass("selectedArrow");
+					}
+				);
 
+				$("#signInArrowLink").hover(
+					function(e) {
+						$("#signInLink").addClass("selected");
+					},
+					function(e) {
+						if(!$("#loginBox").is(":visible"))
+							$("#signInLink").removeClass("selected");
+					}
+				);
 
-<div id="bodycontainer">
+	            $("#signInLink,#signInArrowLink").click(function(e) {
+				//$(".triggersDropdown").click(function(e) {
+	                e.preventDefault();
+					$("#loginBox").css('left',$("#signInLink").offset().left).slideDown();
+	                //$("#signInLink").addClass("selected");
+					//$("#signInArrowLink").addClass("selectedArrow");
+					$("#loginArrow").attr("src","/images/arrow-down.png");
+					$("#loginUsername").focus();
+	            });
 
+	            $("#loginBox").mouseup(function() {
+	                return false
+	            });
+	            $(document).mouseup(function(e) {
+	                if($(e.target).parent("#signInLink").length==0) {
+	                   // $("#signInLink").removeClass("selected");
+						//$("#signInArrowLink").removeClass("selectedArrow");
+						$("#loginArrow").attr("src","/images/arrow-right.png");
+	                    $("#loginBox").slideUp();
+	                }
+	            });
 
-<div id="headerWrapper">
-	<div id="header">
+	            $("#loginBox").mouseup(function() {
+	                return false
+	            });
 
-	<table cellspacing="5" cellpadding="0" width="1000">
-	<tbody><tr valign="top">
-		<td width="225">
-		<a href="/"><img src="/images/mps_logo.png" width="225" height="90" class="png" alt="Mouthpiecesports.com - The Voice of the Athlete" title="Click to go to Mouthpiecesports.com home page!"></a><br>
-		<img src="/images/mps_tagline.png" width="225" height="20" class="png" alt="The Voice of the Athlete">
+	        });
+		</script>
 		
-		</td>
-		
-		
-			<td>
-				<a href="http://www.sportsbuzz.com">
-						<img src="/images/header-promo.jpg" width="549" height="106" alt="SportsBUZZ 2 Weeks Free"></a>
+<script type="text/javascript">/* <![CDATA[ */
+	if (window.ColdFusion) ColdFusion.required['loginUsername']=true;
+/* ]]> */</script>
+
+<script type="text/javascript">/* <![CDATA[ */
+	if (window.ColdFusion) ColdFusion.required['loginPassword']=true;
+/* ]]> */</script>
+<script type="text/javascript">
+<!--
+    _CF_checkCFForm_1 = function(_CF_this)
+    {
+        //reset on submit
+        _CF_error_exists = false;
+        _CF_error_messages = new Array();
+        _CF_error_fields = new Object();
+        _CF_FirstErrorField = null;
+
+        //form element email required check
+        if( !_CF_hasValue(_CF_this['email'], "TEXT", false ) )
+        {
+            _CF_onError(_CF_this, "email", _CF_this['email'].value, "Please enter your username.");
+            _CF_error_exists = true;
+        }
+
+        //form element password required check
+        if( !_CF_hasValue(_CF_this['password'], "PASSWORD", false ) )
+        {
+            _CF_onError(_CF_this, "password", _CF_this['password'].value, "Please enter your password.");
+            _CF_error_exists = true;
+        }
 
 
-			</td>
-			<td nowrap="nowrap">
-				<div>
-					<div class="headerHeadline"><strong>Top Mouthpiece Fans</strong></div>
-					
+        //display error messages and return success
+        if( _CF_error_exists )
+        {
+            if( _CF_error_messages.length > 0 )
+            {
+                // show alert() message
+                _CF_onErrorAlert(_CF_error_messages);
+                // set focus to first form error, if the field supports js focus().
+                if( _CF_this[_CF_FirstErrorField].type == "text" )
+                { _CF_this[_CF_FirstErrorField].focus(); }
 
-<script language="javascript" type="text/javascript">
-//function to display the selected item
-function displayTopItem(name){
-	var itemUrl = url;
-		itemUrl = 'http://www.mouthpiecesports.com/index.cfm?action=displayUserHome&screenName='+name;
-	//if we have a display page, show it
-	if (itemUrl != ""){
-		window.location = itemUrl;
-	}
-}
+            }
+            return false;
+        }else {
+            return true;
+        }
+    }
+//-->
 </script>
 
+			<script type="text/javascript" src="/js/jquery/modalWin/modalWin.js"></script>
+			<link type="text/css" rel="stylesheet" href="/js/nifty/niftyCorners.css" media="screen"></head>
 
-<div>
+<body id="btBody" class="main"><div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" style="padding-bottom: 42px; padding-right: 42px; display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear:left"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxLoadedContent" style="width:0; height:0; overflow:hidden" class=""></div><div id="cboxLoadingOverlay" class=""></div><div id="cboxLoadingGraphic" class=""></div><div id="cboxTitle" class=""></div><div id="cboxCurrent" class=""></div><div id="cboxNext" class=""></div><div id="cboxPrevious" class=""></div><div id="cboxSlideshow" class=""></div><div id="cboxClose" class=""></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear:left"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position:absolute; width:9999px; visibility:hidden; display:none"></div></div>
 
-	
-	<div style="position:relative;margin-left:5px;overflow:hidden;white-space:nowrap">
-	
 
-			<div style="float:left;width:27px;;margin:2px;padding:0;text-align:left;overflow:hidden;border:0px solid red;">
-				<div style="width:27;height:27px;margin:0;padding:0;border:0px solid red;">
-					<a style="margin:0;padding:0;" href="http://www.mouthpiecesports.com/index.cfm?action=displayuserhome&amp;contactid=8016">
-						<img id="id_thumb8016" class="thumbTiny" src="/media/images/contacts/8016/thumb_mouthpiece pic.jpg" style="width:25px;height:25px;" title="Jillian Jesk">
-					</a>
-				</div>
-			</div>
-		
+<div id="header">
 
-			<div style="float:left;width:27px;;margin:2px;padding:0;text-align:left;overflow:hidden;border:0px solid red;">
-				<div style="width:27;height:27px;margin:0;padding:0;border:0px solid red;">
-					<a style="margin:0;padding:0;" href="http://www.mouthpiecesports.com/index.cfm?action=displayuserhome&amp;contactid=7941">
-						<img id="id_thumb7941" class="thumbTiny" src="/media/images/contacts/7941/thumb_KD.png" style="width:25px;height:25px;" title="ChiSoxy31">
-					</a>
-				</div>
-			</div>
-		
-
-			<div style="float:left;width:27px;;margin:2px;padding:0;text-align:left;overflow:hidden;border:0px solid red;">
-				<div style="width:27;height:27px;margin:0;padding:0;border:0px solid red;">
-					<a style="margin:0;padding:0;" href="http://www.mouthpiecesports.com/index.cfm?action=displayuserhome&amp;contactid=8210">
-						<img id="id_thumb8210" class="thumbTiny" src="/media/images/contacts/8210/thumb_JB3_60231.JPG" style="width:25px;height:25px;" title="mitch r">
-					</a>
-				</div>
-			</div>
-		
-
-			<div style="float:left;width:27px;;margin:2px;padding:0;text-align:left;overflow:hidden;border:0px solid red;">
-				<div style="width:27;height:27px;margin:0;padding:0;border:0px solid red;">
-					<a style="margin:0;padding:0;" href="http://www.mouthpiecesports.com/index.cfm?action=displayuserhome&amp;contactid=248">
-						<img id="id_thumb248" class="thumbTiny" src="/media/images/contacts/248/thumb_brendon2.jpg" style="width:25px;height:25px;" title="Brendon Ayanbadejo">
-					</a>
-				</div>
-			</div>
-		
-
-			<div style="float:left;width:27px;;margin:2px;padding:0;text-align:left;overflow:hidden;border:0px solid red;">
-				<div style="width:27;height:27px;margin:0;padding:0;border:0px solid red;">
-					<a style="margin:0;padding:0;" href="http://www.mouthpiecesports.com/index.cfm?action=displayuserhome&amp;contactid=11311">
-						<img id="id_thumb11311" class="thumbTiny" src="/media/images/contacts/11311/thumb_Picture 58.png" style="width:25px;height:25px;" title="Sarah Spain">
-					</a>
-				</div>
-			</div>
-		
-
-			<div style="float:left;width:27px;;margin:2px;padding:0;text-align:left;overflow:hidden;border:0px solid red;">
-				<div style="width:27;height:27px;margin:0;padding:0;border:0px solid red;">
-					<a style="margin:0;padding:0;" href="http://www.mouthpiecesports.com/index.cfm?action=displayuserhome&amp;contactid=773">
-						<img id="id_thumb773" class="thumbTiny" src="/media/images/contacts/773/thumb_78946522.jpg" style="width:25px;height:25px;" title="Brian Urlacher">
-					</a>
-				</div>
-			</div>
-		
-
+	<div id="logoArea">
+		<a href="/"><img src="/images/logo.png" width="240" height="122" alt="SportsBUZZ" style="behavior: url(/css/helper/iepngfix.htc)"></a>
 	</div>
 
-</div>
-
-
-					<div class="clear"></div>
-				</div>
-
-				<div class="headerHeadlineSmall" style="width:192px">
-				
-				<a href="/index.cfm?action=fanRegistration&amp;nextPage=/index.cfm?action%3DgetPage%26code%3DPRIVACY">Sign Up</a> |
-				
-				<a href="/index.cfm?action=login&amp;nextPage=/index.cfm?action%3DgetPage%26code%3DPRIVACY">Sign In</a> |
-				
-				<a href="/index.cfm?action=community">Find Friends</a>
-				</div>
-				<div>
-					
-<script type="text/javascript">
-function handleFocussearch13634(fld) {
 	
-	if(fld.value=='Search')
-		fld.value='';
+
 	
-}
+	<div id="navbox">
+		<ul id="nav">
+			
+			<li class="">
+				<a href="/go/home">Home</a>
+			</li>
+			
+			<li class="">
+				<a href="/go/community-teams">Community</a>
+			</li>
+			
+			<li class="">
+				<a href="javascript:goShop()">Shop</a>
+			</li>
+			
+			<li class="">
+				<a href="http://sportsbuzz10.blogspot.com/">Blog</a>
+			</li>
+			
+			<li class="">
+				<a href="/go/subscribe">Join Now</a>
+			</li>
+			
+		</ul>
+	</div>
+	
+
+</div> 
+
+
+<div id="page" class="">
+
+	
+	<div id="toolbar">
+	<div id="toolbarContents">
+
+	<table width="100%" cellpadding="0" cellspacing="0" border="0">
+	<tbody><tr>
+
+	
+
+	<td width="340">
+	
+<script type="text/javascript" language="javascript">
+    $(document).ready(function() {
+
+		$("a.sportsMenu").hover(
+
+			function(e) {
+				//alert("table#sub-"+this.id);
+				$("table.sportSubMenu").hide();
+				$("table#sub-"+this.id).show();
+				$("a.sportsMenu").removeClass("sportsMenuHover");
+				$("#"+this.id).addClass("sportsMenuHover");
+			}
+			,
+			function(e) {
+				$("table.sportSubMenu").hide();
+				$("a.sportsMenu").removeClass("sportsMenuHover");
+			}
+
+		);
+
+		$("table.sportSubMenu").hover(
+
+			function(e) {
+				parent_id = this.id.substring(4);
+				//alert(parent_id);
+				$("#"+parent_id).addClass("sportsMenuHover");
+				$("#"+this.id).show();
+			}
+			,
+			function(e) {
+				$("table.sportSubMenu").hide();
+				$("a.sportsMenu").removeClass("sportsMenuHover");
+			}
+		);
+
+		$('ul.sportsMenu a').each(function(){
+			this.href = this.href + "&parentAction=getPage";
+		});
+    });
 </script>
 
+	<ul id="menuContainer" class="sportsMenu">
+	
+			<li class="pipe">		
+				
 
+				<a id="nfl" class="sportsMenu" href="#">NFL</a>
+				
+						<table class="sportSubMenu" id="sub-nfl">
+						<tbody><tr><td>
 
-
-<form name="search13634" id="search13634" action="/index.cfm?action=globalSearch" method="get" target="_top" onsubmit="return _CF_checksearch13634(this)">
-<input type="hidden" name="action" value="globalSearch">
-<input type="hidden" name="searchAll" value="1">
-<table cellpadding="0" cellspacing="0" border="0" style="margin:0 0 0 5px;padding:0;">
-
-<tbody><tr>
-
-	<td nowrap="nowrap">
-	<input name="searchString" type="text" value="Search" style="width:164px;height:17px;padding:0;margin:0;color:gray" class="x-form-text x-form-field" onfocus="handleFocussearch13634(this)" id="id-searchString" size="20">
-	</td>
-	<td>
-	<input name="GO" class="goButton" type="image" alt="GO!" src="/images/go_button.png">
-	</td>
-</tr>
-</tbody></table>
-</form>
-
-				</div>
-			
-			
-			</td>
+						
+														<div>
+															<a class="active" href="/index.cfm?action=atlanta-falcons">Atlanta Falcons</a>
+														</div>
+													
+														<div>
+															<a class="active" href="/index.cfm?action=chicago-bears">Chicago Bears</a>
+														</div>
+													
+														<div>
+															<a class="active" href="/index.cfm?action=cleveland-browns">Cleveland Browns</a>
+														</div>
+													
+														<div>
+															<a class="active" href="/index.cfm?action=new-orleans-saints">New Orleans Saints</a>
+														</div>
+													
+														<div>
+															<a class="active" href="/index.cfm?action=philadelphia-eagles">Philadelphia Eagles</a>
+														</div>
+													
+														<div>
+															<a class="active" href="/index.cfm?action=washington-redskins">Washington Redskins</a>
+														</div>
+													
+						
+					</td>
+					</tr>	
+					
+					</tbody></table>
+				
+			</li>
 		
+			<li class="pipe">		
+				
+
+				<a id="nba" class="sportsMenu" href="#">NBA</a>
+				
+						<table class="sportSubMenu" id="sub-nba">
+						<tbody><tr><td>
+
+						
+					
+
+					</td></tr><tr>
+						<td></td>
+					</tr>
+					<tr>
+						<td>
+						<form name="CFForm_1" id="CFForm_1" action="/go/notificationemail" method="post" class="roundedForm" onsubmit="return _CF_checkCFForm_1(this)">
+						<input type="hidden" name="sport" value="nba">
+						<div style="font-size:14px;"><strong>Coming in 2011!</strong></div>
+						<div style="font-size:14px;padding:5px 0 10px;">
+							Submit your email and we'll give you a buzz!
+						</div>
+						<div style="font-size:14px;">
+							<input name="email" type="text" maxlength="50" style="width:200px" id="email" size="30">
+							<button type="submit" class="img small">Submit</button>
+						</div>
+						</form>
+
+						</td>
+					</tr>
+					
+					</tbody></table>
+				
+			</li>
 		
+			<li class="pipe">		
+				
+
+				<a id="mlb" class="sportsMenu" href="#">MLB</a>
+				
+						<table class="sportSubMenu" id="sub-mlb">
+						<tbody><tr><td>
+
+						
+					
+
+					</td></tr><tr>
+						<td></td>
+					</tr>
+					<tr>
+						<td>
+						<form name="CFForm_2" id="CFForm_2" action="/go/notificationemail" method="post" class="roundedForm" onsubmit="return _CF_checkCFForm_2(this)">
+						<input type="hidden" name="sport" value="mlb">
+						<div style="font-size:14px;"><strong>Coming in 2011!</strong></div>
+						<div style="font-size:14px;padding:5px 0 10px;">
+							Submit your email and we'll give you a buzz!
+						</div>
+						<div style="font-size:14px;">
+							<input name="email" type="text" maxlength="50" style="width:200px" id="email" size="30">
+							<button type="submit" class="img small">Submit</button>
+						</div>
+						</form>
+
+						</td>
+					</tr>
+					
+					</tbody></table>
+				
+			</li>
+		
+			<li class="">		
+				
+
+				<a id="nhl" class="sportsMenu" href="#">NHL</a>
+				
+						<table class="sportSubMenu" id="sub-nhl">
+						<tbody><tr><td>
+
+						
+					
+
+					</td></tr><tr>
+						<td></td>
+					</tr>
+					<tr>
+						<td>
+						<form name="CFForm_3" id="CFForm_3" action="/go/notificationemail" method="post" class="roundedForm" onsubmit="return _CF_checkCFForm_3(this)">
+						<input type="hidden" name="sport" value="nhl">
+						<div style="font-size:14px;"><strong>Coming in 2011!</strong></div>
+						<div style="font-size:14px;padding:5px 0 10px;">
+							Submit your email and we'll give you a buzz!
+						</div>
+						<div style="font-size:14px;">
+							<input name="email" type="text" maxlength="50" style="width:200px" id="email" size="30">
+							<button type="submit" class="img small">Submit</button>
+						</div>
+						</form>
+
+						</td>
+					</tr>
+					
+					</tbody></table>
+				
+			</li>
+		
+	</ul>
+	
+	</td>
+	
+
+	
+	<td align="right" width="180" nowrap="">
+		
+	</td>
+	<td align="right" width="200" nowrap="">
+		
+
+	<span style="margin:0 10px;">
+	
+		<a class="signIn" id="signInLink" href="/go/myhome">Sign In</a><a class="signInArrow" id="signInArrowLink" href="/go/myhome"><img src="/images/arrow-right.png" style="behavior: url(/css/helper/iepngfix.htc)" id="loginArrow"></a>
+	
+	</span>
+
+	
+	</td>
+
+	<td align="right" nowrap=""> <form name="searchForm" id="global-search-form" action="/index.cfm" method="get" target="_top" onsubmit="return _CF_checksearchForm(this)">
+	<input type="hidden" name="action" value="search">
+	
+	<div class="overlabel-wrapper" style="display:inline-block;margin-top:0;padding-top:0;vertical-align:middle">
+		<label id="global-search-overlabel" for="global-search-field" class="overlabel">Search</label>
+		<input name="searchString" type="text" style="width:150px;height:19px;padding:1px" id="global-search-field" class="search-field" title="Search" placeholder="Search...">
+		<input type="image" src="/images/arrow-button.png" align="top" style="position:relative;top:1px;left:2px">
+	</div>
+	</form>
+</td>
+
 	</tr>
 	</tbody></table>
 
-	</div>
-</div>
+	</div> 
+	</div> 
 
-
-
-	<div class="menuWrapper">
-		
-		<div class="menu">
-			
-	<link rel="stylesheet" type="text/css" href="/js/jquery/superfish/css/superfish.css">
-
-	<script type="text/javascript" src="/js/jquery/jquery.js"></script>
-	
-	<script type="text/javascript" src="/js/jquery/superfish/js/hoverintent.js"></script>
-	
-	<script type="text/javascript" src="/js/jquery/superfish/js/superfish.js"></script>
-	
-	<script type="text/javascript" src="/js/jquery/superfish/js/supersubs.js"></script>
 	
 
-<script type="text/javascript" language="javascript">
-$j = jQuery.noConflict();
-
-$j(document).ready(function(){
-        $j("ul.sf-menu").supersubs({
-            minWidth:    9,   // minimum width of sub-menus in em units
-            maxWidth:    40,   // maximum width of sub-menus in em units
-            extraWidth:  1     // extra width can ensure lines don't sometimes turn over
-                               // due to slight rounding differences and font-family
-        }).superfish({autoArrows:false,dropShadows:false});  // call supersubs first, then superfish, so that subs are
-                         // not display:none when measuring. Call before initialising
-                         // containing tabs for same reason.
-    });
-
-</script>
-
-
-<ul class="sf-menu  sf-js-enabled">
-
-
-		<li class="top_first">
-
-			
-
-
-			<a href="/" class="top_first">Home</a>
-			
-		</li>
-	
-
-		<li class="top">
-
-			
+		<div id="loginBox">
+			<form name="CFForm_1" id="CFForm_1" action="https://www.sportsbuzz.com/go/login" method="post" class="roundedForm" onsubmit="return _CF_checkCFForm_1(this)">
+			<input type="hidden" name="nextPage" value="/go/myhome">
+			<div>
+				Username<br>
+				<input name="email" type="text" maxlength="50" style="width:200px" id="loginUsername" size="30">
+			</div>
+			<div>
+				Password<br>
+				<input name="password" type="password" maxlength="50" style="width:200px" id="loginPassword" size="30">
+			</div>
+			<div>
+				<button type="submit" class="img small">Sign In</button>
+				<span style="margin-left:10px">
+					<input type="checkbox" name="rememberMe" id="loginRememberMe" value="1" checked="checked">
+	            	<label for="loginRememberMe">Remember me</label>
+				</span>
+			</div>
+			<div>
+				<a href="/go/forgotPassword">Forgot your password?</a>
+			</div>
+			<div>
+				<a href="/go/forgotUsername">Forgot your username?</a>
+			</div>
+			</form>
 
 
-			<a href="/community" class="top">Community</a>
-			
-		</li>
-	
-
-		<li class="top">
-
-			
-
-
-			<a href="/my-mps" class="top">My MPS</a>
-			
-		</li>
-	
-
-		<li class="top">
-
-			
-
-
-			<a href="/athletes" class="top">Athletes</a>
-			
-		</li>
-	
-
-		<li class="top">
-
-			
-
-
-			<a href="/blog" class="top">Blog</a>
-			
-		</li>
-	
-
-		<li class="top">
-
-			
-
-
-			<a href="/search/chicago-sports-video" class="top">Video</a>
-			
-		</li>
-	
-
-		<li class="top">
-
-			
-
-
-			<a href="/search/radio" class="top">Radio</a>
-			
-		</li>
-	
-
-		<li class="top">
-
-			
-
-
-			<a href="/search/articles" class="top">Articles</a>
-			
-		</li>
-	
-
-		<li class="top_last">
-
-			
-
-
-			<a href="/about-us" class="top_last">About Us</a>
-			
-		</li>
-	
-</ul>
- 
-			<div class="clear"></div>
 		</div>
-		
-		<div class="menuimg">
-		
-					<div class="headersubmenu">
-						
-	<link rel="stylesheet" type="text/css" href="/js/jquery/superfish/css/superfish.css">
 
-
-<script type="text/javascript" language="javascript">
-$j = jQuery.noConflict();
-
-$j(document).ready(function(){
-        $j("ul.sf-menu").supersubs({
-            minWidth:    9,   // minimum width of sub-menus in em units
-            maxWidth:    40,   // maximum width of sub-menus in em units
-            extraWidth:  1     // extra width can ensure lines don't sometimes turn over
-                               // due to slight rounding differences and font-family
-        }).superfish({autoArrows:false,dropShadows:false});  // call supersubs first, then superfish, so that subs are
-                         // not display:none when measuring. Call before initialising
-                         // containing tabs for same reason.
-    });
-
-</script>
-
-
-<ul class="sf-menu  sf-js-enabled">
-
-
-		<li class="gray_first">
-
-			
-
-
-			<a href="/chicago-bears" class="gray_first">Bears</a>
-			
-				<ul id="inboard" style="visibility: hidden; float: none; width: 9em; display: none;">
-
-				
-
-					
-
-								<li class="lvl2" style="white-space: normal; float: left; width: 100%;">
-									<a href="/chicago-bears" class="lvl2_bold" style="float: none; width: auto;">Bears Home</a>
-									
-								</li>
-								
-
-								<li class="lvl2" style="white-space: normal; float: left; width: 100%;">
-									<a href="/search/chicago-bears-video" class="lvl2" style="float: none; width: auto;">Video</a>
-									
-								</li>
-								
-
-								<li class="lvl2" style="white-space: normal; float: left; width: 100%;">
-									<a href="/search/chicago-bears-articles" class="lvl2" style="float: none; width: auto;">Articles</a>
-									
-								</li>
-								
-
-								<li class="lvl2" style="white-space: normal; float: left; width: 100%;">
-									<a href="/search/chicago-bears-radio" class="lvl2" style="float: none; width: auto;">Radio</a>
-									
-								</li>
-								
-
-								<li class="lvl2" style="white-space: normal; float: left; width: 100%;">
-									<a href="/blog/tag/chicago-bears/" class="lvl2" style="float: none; width: auto;">Blog</a>
-									
-								</li>
-								
-
-								<li class="lvl2" style="white-space: normal; float: left; width: 100%;">
-									<a href="/search/chicago-bears-photos" class="lvl2" style="float: none; width: auto;">Photos</a>
-									
-								</li>
-								
-									<li style="white-space: normal; float: left; width: 100%;">
-										<a href="" class="lvl2" style="float: none; width: auto;">&nbsp;</a>
-									</li>
-									<li style="white-space: normal; float: left; width: 100%;">
-										<a href="" class="lvl2" style="float: none; width: auto;">&nbsp;</a>
-									</li>
-									<li style="white-space: normal; float: left; width: 100%;">
-										<a href="" class="lvl2" style="float: none; width: auto;">&nbsp;</a>
-									</li>
-									<li style="white-space: normal; float: left; width: 100%;">
-										<a href="" class="lvl2" style="float: none; width: auto;">&nbsp;</a>
-									</li>
-									<li style="white-space: normal; float: left; width: 100%;">
-										<a href="" class="lvl2" style="float: none; width: auto;">&nbsp;</a>
-									</li>
-								
-				</ul>
-
-				
-
-						<ul id="outboard" style="margin-left: 9em; width: 22em; visibility: hidden; float: none; display: none;">
-							<li class="outboardTitle" style="white-space: normal; float: left; width: 100%;">
-								<a href="" class="outboardTitle" style="float: none; width: auto;">Bears Features</a>
-							</li>
-							
-								<li class="outboard" style="width: 100%; white-space: normal; float: left;">
-									<a href="/media/defensive-drills-with-chicago-bears-cornerback-peanut-tillman-24975/" style="display: block; float: none; width: auto;" class="outboard">Defensive Drills with Chicago Bears...</a>
-								</li>
-							
-								<li class="outboard" style="width: 100%; white-space: normal; float: left;">
-									<a href="/media/chicago-bears-wr-devin-aromashodu-predicts-a-high-powered-offense-in-2010-24970/" style="display: block; float: none; width: auto;" class="outboard">Chicago Bears WR Devin Aromashodu Predicts a...</a>
-								</li>
-							
-								<li class="outboard" style="width: 100%; white-space: normal; float: left;">
-									<a href="/media/the-chicago-bears-break-down-the-team-and-competition-for-2010-24470/" style="display: block; float: none; width: auto;" class="outboard">The Chicago Bears Break Down the Team and...</a>
-								</li>
-							
-								<li class="outboard" style="width: 100%; white-space: normal; float: left;">
-									<a href="/media/chicago-bears-te-greg-olsen-on-mike-martz-and-the-new-look-team-24717/" style="display: block; float: none; width: auto;" class="outboard">Chicago Bears TE Greg Olsen on Mike Martz and...</a>
-								</li>
-							
-								<li class="outboard" style="width: 100%; white-space: normal; float: left;">
-									<a href="/media/the-chicago-bears-on-the-start-of-2010-minicamp-24709/" style="display: block; float: none; width: auto;" class="outboard">The Chicago Bears on the Start of 2010...</a>
-								</li>
-							
-								<li class="outboard" style="width: 100%; white-space: normal; float: left;">
-									<a href="/media/hanging-with-the-chicago-bears-24702/" style="display: block; float: none; width: auto;" class="outboard">Hanging with the Chicago Bears </a>
-								</li>
-							
-								<li class="outboard" style="width: 100%; white-space: normal; float: left;">
-									<a href="/media/safety-chris-harris-on-his-return-to-the-chicago-bears-24708/" style="display: block; float: none; width: auto;" class="outboard">Safety Chris Harris on His Return to the...</a>
-								</li>
-							
-								<li class="outboard" style="width: 100%; white-space: normal; float: left;">
-									<a href="/media/tattoo-u-inking-of-bears-wide-receiver-earl-bennett-24483/" style="display: block; float: none; width: auto;" class="outboard">Tattoo U: Inking of Bears Wide Receiver Earl...</a>
-								</li>
-							
-								<li class="outboard" style="width: 100%; white-space: normal; float: left;">
-									<a href="/media/chicago-bears-linebacker-lance-briggs-reflects-on-his-offseason-and-new-team-additions-24707/" style="display: block; float: none; width: auto;" class="outboard">Chicago Bears' Linebacker Lance Briggs...</a>
-								</li>
-							
-								<li class="outboard" style="width: 100%; white-space: normal; float: left;">
-									<a href="/media/the-chicago-bears-discuss-the-comic-book-world-of-superheroes-24469/" style="display: block; float: none; width: auto;" class="outboard">The Chicago Bears Discuss the Comic Book...</a>
-								</li>
-							
-						</ul>
-					
-		</li>
 	
 
-		<li class="gray">
-
-			
-
-
-			<a href="/chicago-bulls" class="gray">Bulls</a>
-			
-				<ul id="inboard" style="visibility: hidden; float: none; width: 9em; display: none;">
-
-				
-
-					
-
-								<li class="lvl2" style="white-space: normal; float: left; width: 100%;">
-									<a href="/chicago-bulls" class="lvl2_bold" style="float: none; width: auto;">Bulls Home</a>
-									
-								</li>
-								
-
-								<li class="lvl2" style="white-space: normal; float: left; width: 100%;">
-									<a href="/search/chicago-bulls-video" class="lvl2" style="float: none; width: auto;">Video</a>
-									
-								</li>
-								
-
-								<li class="lvl2" style="white-space: normal; float: left; width: 100%;">
-									<a href="/search/chicago-bulls-articles" class="lvl2" style="float: none; width: auto;">Articles</a>
-									
-								</li>
-								
-
-								<li class="lvl2" style="white-space: normal; float: left; width: 100%;">
-									<a href="/search/chicago-bulls-radio" class="lvl2" style="float: none; width: auto;">Radio</a>
-									
-								</li>
-								
-
-								<li class="lvl2" style="white-space: normal; float: left; width: 100%;">
-									<a href="/blog/tag/chicago-bulls/" class="lvl2" style="float: none; width: auto;">Blog</a>
-									
-								</li>
-								
-
-								<li class="lvl2" style="white-space: normal; float: left; width: 100%;">
-									<a href="/search/chicago-bulls-photos" class="lvl2" style="float: none; width: auto;">Photos</a>
-									
-								</li>
-								
-									<li style="white-space: normal; float: left; width: 100%;">
-										<a href="" class="lvl2" style="float: none; width: auto;">&nbsp;</a>
-									</li>
-									<li style="white-space: normal; float: left; width: 100%;">
-										<a href="" class="lvl2" style="float: none; width: auto;">&nbsp;</a>
-									</li>
-									<li style="white-space: normal; float: left; width: 100%;">
-										<a href="" class="lvl2" style="float: none; width: auto;">&nbsp;</a>
-									</li>
-									<li style="white-space: normal; float: left; width: 100%;">
-										<a href="" class="lvl2" style="float: none; width: auto;">&nbsp;</a>
-									</li>
-									<li style="white-space: normal; float: left; width: 100%;">
-										<a href="" class="lvl2" style="float: none; width: auto;">&nbsp;</a>
-									</li>
-								
-				</ul>
-
-				
-
-						<ul id="outboard" style="margin-left: 9em; width: 22em; visibility: hidden; float: none; display: none;">
-							<li class="outboardTitle" style="white-space: normal; float: left; width: 100%;">
-								<a href="" class="outboardTitle" style="float: none; width: auto;">Bulls Features</a>
-							</li>
-							
-								<li class="outboard" style="width: 100%; white-space: normal; float: left;">
-									<a href="/media/former-chicago-bulls-forward-dickey-simpkins-on-new-coach-and-free-agency-24925/" style="display: block; float: none; width: auto;" class="outboard">Former Chicago Bulls Forward Dickey Simpkins...</a>
-								</li>
-							
-								<li class="outboard" style="width: 100%; white-space: normal; float: left;">
-									<a href="/media/chicago-bulls-vp-john-paxson-on-nba-free-agency-for-2010-24607/" style="display: block; float: none; width: auto;" class="outboard">Chicago Bulls' VP John Paxson on NBA Free...</a>
-								</li>
-							
-								<li class="outboard" style="width: 100%; white-space: normal; float: left;">
-									<a href="/media/del-negro-thanks-the-bulls-organization-24605/" style="display: block; float: none; width: auto;" class="outboard">Del Negro Thanks the Bulls Organization</a>
-								</li>
-							
-								<li class="outboard" style="width: 100%; white-space: normal; float: left;">
-									<a href="/media/the-bulls-try-to-pick-up-the-pieces-in-practice-this-week-24247/" style="display: block; float: none; width: auto;" class="outboard">The Bulls Try to Pick Up the Pieces in...</a>
-								</li>
-							
-								<li class="outboard" style="width: 100%; white-space: normal; float: left;">
-									<a href="/media/the-bulls-talk-about-their-coaching-search-24606/" style="display: block; float: none; width: auto;" class="outboard">The Bulls Talk About Their Coaching Search</a>
-								</li>
-							
-								<li class="outboard" style="width: 100%; white-space: normal; float: left;">
-									<a href="/media/chicago-bulls-guard-flip-murray-talks-about-his-transition-to-the-team-24203/" style="display: block; float: none; width: auto;" class="outboard">Chicago Bulls Guard Flip Murray Talks About...</a>
-								</li>
-							
-								<li class="outboard" style="width: 100%; white-space: normal; float: left;">
-									<a href="/media/chicago-bulls-rookie-forward-taj-gibson-on-his-play-during-joakim-noahs-absence-24202/" style="display: block; float: none; width: auto;" class="outboard">Chicago Bulls Rookie Forward Taj Gibson on...</a>
-								</li>
-							
-								<li class="outboard" style="width: 100%; white-space: normal; float: left;">
-									<a href="/media/new-chicago-bulls-forward-hakim-warrick-gives-his-thoughts-on-joining-the-team-24201/" style="display: block; float: none; width: auto;" class="outboard">New Chicago Bulls Forward Hakim Warrick Gives...</a>
-								</li>
-							
-								<li class="outboard" style="width: 100%; white-space: normal; float: left;">
-									<a href="/media/chicago-bulls-point-guard-derrick-rose-talks-about-his-sophomore-season-24076/" style="display: block; float: none; width: auto;" class="outboard">Chicago Bulls' Point Guard Derrick Rose Talks...</a>
-								</li>
-							
-								<li class="outboard" style="width: 100%; white-space: normal; float: left;">
-									<a href="/media/shannon-brown-lakers-bulls-chicago-23674/" style="display: block; float: none; width: auto;" class="outboard">Shannon Brown Excited to Play Against the...</a>
-								</li>
-							
-						</ul>
-					
-		</li>
-	
-
-		<li class="gray">
-
-			
-
-
-			<a href="/chicago-blackhawks" class="gray">Blackhawks</a>
-			
-				<ul id="inboard" style="visibility: hidden; float: none; width: 9em; display: none;">
-
-				
-
-					
-
-								<li class="lvl2" style="white-space: normal; float: left; width: 100%;">
-									<a href="/chicago-blackhawks" class="lvl2_bold" style="float: none; width: auto;">Blackhawks Home</a>
-									
-								</li>
-								
-
-								<li class="lvl2" style="white-space: normal; float: left; width: 100%;">
-									<a href="/search/chicago-blackhawks-video" class="lvl2" style="float: none; width: auto;">Video</a>
-									
-								</li>
-								
-
-								<li class="lvl2" style="white-space: normal; float: left; width: 100%;">
-									<a href="/search/chicago-blackhawks-articles" class="lvl2" style="float: none; width: auto;">Articles</a>
-									
-								</li>
-								
-
-								<li class="lvl2" style="white-space: normal; float: left; width: 100%;">
-									<a href="/search/chicago-blackhawks-radio" class="lvl2" style="float: none; width: auto;">Radio</a>
-									
-								</li>
-								
-
-								<li class="lvl2" style="white-space: normal; float: left; width: 100%;">
-									<a href="/blog/tag/chicago-blackhawks/" class="lvl2" style="float: none; width: auto;">Blog</a>
-									
-								</li>
-								
-
-								<li class="lvl2" style="white-space: normal; float: left; width: 100%;">
-									<a href="/search/chicago-blackhawks-photos" class="lvl2" style="float: none; width: auto;">Photos</a>
-									
-								</li>
-								
-									<li style="white-space: normal; float: left; width: 100%;">
-										<a href="" class="lvl2" style="float: none; width: auto;">&nbsp;</a>
-									</li>
-									<li style="white-space: normal; float: left; width: 100%;">
-										<a href="" class="lvl2" style="float: none; width: auto;">&nbsp;</a>
-									</li>
-									<li style="white-space: normal; float: left; width: 100%;">
-										<a href="" class="lvl2" style="float: none; width: auto;">&nbsp;</a>
-									</li>
-									<li style="white-space: normal; float: left; width: 100%;">
-										<a href="" class="lvl2" style="float: none; width: auto;">&nbsp;</a>
-									</li>
-									<li style="white-space: normal; float: left; width: 100%;">
-										<a href="" class="lvl2" style="float: none; width: auto;">&nbsp;</a>
-									</li>
-								
-				</ul>
-
-				
-
-						<ul id="outboard" style="margin-left: 9em; width: 22em; visibility: hidden; float: none; display: none;">
-							<li class="outboardTitle" style="white-space: normal; float: left; width: 100%;">
-								<a href="" class="outboardTitle" style="float: none; width: auto;">Blackhawks Features</a>
-							</li>
-							
-								<li class="outboard" style="width: 100%; white-space: normal; float: left;">
-									<a href="/media/blackhawks-talk-about-picking-their-jersey-numbers-24714/" style="display: block; float: none; width: auto;" class="outboard">Blackhawks Talk About Picking Their Jersey...</a>
-								</li>
-							
-								<li class="outboard" style="width: 100%; white-space: normal; float: left;">
-									<a href="/media/chicago-blackhawks-center-jonathan-toews-on-the-fans-and-the-locker-room-24152/" style="display: block; float: none; width: auto;" class="outboard">Chicago Blackhawks Center Jonathan Toews on...</a>
-								</li>
-							
-								<li class="outboard" style="width: 100%; white-space: normal; float: left;">
-									<a href="/media/quick-pics-the-blackhawks-weigh-in-on-chicks-wings-idiots-and-more-18995/" style="display: block; float: none; width: auto;" class="outboard">QUICK PICS: The Blackhawks Weigh In On...</a>
-								</li>
-							
-								<li class="outboard" style="width: 100%; white-space: normal; float: left;">
-									<a href="/media/chicago-blackhawks-adam-burish-trades-in-hockey-stick-for-baseball-bat-21418/" style="display: block; float: none; width: auto;" class="outboard">Chicago Blackhawks' Adam Burish Trades In...</a>
-								</li>
-							
-								<li class="outboard" style="width: 100%; white-space: normal; float: left;">
-									<a href="/media/ver-beauty-part-2-kris-versteeg-on-vegas-american-idol-and-his-unusual-nickname-21303/" style="display: block; float: none; width: auto;" class="outboard">Ver-Beauty Part 2: Kris Versteeg On Vegas,...</a>
-								</li>
-							
-								<li class="outboard" style="width: 100%; white-space: normal; float: left;">
-									<a href="/media/quick-pics-patrick-sharp-cant-escape-the-wings-19255/" style="display: block; float: none; width: auto;" class="outboard">QUICK PICS: Patrick Sharp Can't Escape The...</a>
-								</li>
-							
-								<li class="outboard" style="width: 100%; white-space: normal; float: left;">
-									<a href="/media/patrick-kanes-former-house-mom-and-teammates-on-his-skills-on-the-ice-and-beyond-21324/" style="display: block; float: none; width: auto;" class="outboard">Patrick Kane's Former House Mom &amp; Teammates...</a>
-								</li>
-							
-								<li class="outboard" style="width: 100%; white-space: normal; float: left;">
-									<a href="/media/blackhawks-adam-burish-out-6-months-22966/" style="display: block; float: none; width: auto;" class="outboard">Blackhawks Adam Burish Out 6 Months</a>
-								</li>
-							
-								<li class="outboard" style="width: 100%; white-space: normal; float: left;">
-									<a href="/media/kendall-coyne-22797/" style="display: block; float: none; width: auto;" class="outboard">Life On and Off the Ice with USA Hockey...</a>
-								</li>
-							
-								<li class="outboard" style="width: 100%; white-space: normal; float: left;">
-									<a href="/media/patrick-kane-of-the-chicago-blackhawks-charged-with-robbery-22469/" style="display: block; float: none; width: auto;" class="outboard">Patrick Kane of the Chicago Blackhawks...</a>
-								</li>
-							
-						</ul>
-					
-		</li>
-	
-
-		<li class="gray">
-
-			
-
-
-			<a href="/chicago-cubs" class="gray">Cubs</a>
-			
-				<ul id="inboard" style="visibility: hidden; float: none; width: 9em; display: none;">
-
-				
-
-					
-
-								<li class="lvl2" style="white-space: normal; float: left; width: 100%;">
-									<a href="/chicago-cubs" class="lvl2_bold" style="float: none; width: auto;">Cubs Home</a>
-									
-								</li>
-								
-
-								<li class="lvl2" style="white-space: normal; float: left; width: 100%;">
-									<a href="/search/chicago-cubs-video" class="lvl2" style="float: none; width: auto;">Video</a>
-									
-								</li>
-								
-
-								<li class="lvl2" style="white-space: normal; float: left; width: 100%;">
-									<a href="/search/chicago-cubs-articles" class="lvl2" style="float: none; width: auto;">Articles</a>
-									
-								</li>
-								
-
-								<li class="lvl2" style="white-space: normal; float: left; width: 100%;">
-									<a href="/search/chicago-cubs-radio" class="lvl2" style="float: none; width: auto;">Radio</a>
-									
-								</li>
-								
-
-								<li class="lvl2" style="white-space: normal; float: left; width: 100%;">
-									<a href="/cubsblog/" class="lvl2" style="float: none; width: auto;">Blog</a>
-									
-								</li>
-								
-
-								<li class="lvl2" style="white-space: normal; float: left; width: 100%;">
-									<a href="/search/chicago-cubs-photos" class="lvl2" style="float: none; width: auto;">Photos</a>
-									
-								</li>
-								
-									<li style="white-space: normal; float: left; width: 100%;">
-										<a href="" class="lvl2" style="float: none; width: auto;">&nbsp;</a>
-									</li>
-									<li style="white-space: normal; float: left; width: 100%;">
-										<a href="" class="lvl2" style="float: none; width: auto;">&nbsp;</a>
-									</li>
-									<li style="white-space: normal; float: left; width: 100%;">
-										<a href="" class="lvl2" style="float: none; width: auto;">&nbsp;</a>
-									</li>
-									<li style="white-space: normal; float: left; width: 100%;">
-										<a href="" class="lvl2" style="float: none; width: auto;">&nbsp;</a>
-									</li>
-									<li style="white-space: normal; float: left; width: 100%;">
-										<a href="" class="lvl2" style="float: none; width: auto;">&nbsp;</a>
-									</li>
-								
-				</ul>
-
-				
-
-						<ul id="outboard" style="margin-left: 9em; width: 22em; visibility: hidden; float: none; display: none;">
-							<li class="outboardTitle" style="white-space: normal; float: left; width: 100%;">
-								<a href="" class="outboardTitle" style="float: none; width: auto;">Cubs Features</a>
-							</li>
-							
-								<li class="outboard" style="width: 100%; white-space: normal; float: left;">
-									<a href="/media/chicago-cubs-pitcher-ryan-dempster-on-playing-in-front-of-the-wrigley-crowd-24153/" style="display: block; float: none; width: auto;" class="outboard">Chicago Cubs Pitcher Ryan Dempster on Playing...</a>
-								</li>
-							
-								<li class="outboard" style="width: 100%; white-space: normal; float: left;">
-									<a href="/media/jeff-garlin-24217/" style="display: block; float: none; width: auto;" class="outboard">Jeff Garlin on Books, Wrigley Field &amp; The...</a>
-								</li>
-							
-								<li class="outboard" style="width: 100%; white-space: normal; float: left;">
-									<a href="/media/chicago-cubs-pitcher-randy-wells-on-making-the-best-of-his-opportunity-last-season-23502/" style="display: block; float: none; width: auto;" class="outboard">Chicago Cubs Pitcher Randy Wells on Making...</a>
-								</li>
-							
-								<li class="outboard" style="width: 100%; white-space: normal; float: left;">
-									<a href="/media/former-cubs-pitcher-kerry-wood-brings-chicago-baseball-players-together-for-a-good-cause-23499/" style="display: block; float: none; width: auto;" class="outboard">Former Cubs Pitcher Kerry Wood Brings Chicago...</a>
-								</li>
-							
-								<li class="outboard" style="width: 100%; white-space: normal; float: left;">
-									<a href="/media/cubs-shortstop-ryan-theriot-reveals-the-secret-to-his-success-the-fuzz-21128/" style="display: block; float: none; width: auto;" class="outboard">Cubs Shortstop Ryan Theriot Reveals the...</a>
-								</li>
-							
-								<li class="outboard" style="width: 100%; white-space: normal; float: left;">
-									<a href="/media/batting-practice-with-chicago-pitchers-carlos-zambrano-and-jamie-southern-9874/" style="display: block; float: none; width: auto;" class="outboard">Batting Practice with Chicago Pitchers Carlos...</a>
-								</li>
-							
-								<li class="outboard" style="width: 100%; white-space: normal; float: left;">
-									<a href="/media/chicago-cubs-pitcher-ryan-dempster-pulls-out-a-comedy-routine-23625/" style="display: block; float: none; width: auto;" class="outboard">Chicago Cubs Pitcher Ryan Dempster Has a...</a>
-								</li>
-							
-								<li class="outboard" style="width: 100%; white-space: normal; float: left;">
-									<a href="/media/one-on-one-with-chicago-cubs-pitcher-sean-marshall-22045/" style="display: block; float: none; width: auto;" class="outboard">One-on-One with Chicago Cubs Pitcher Sean...</a>
-								</li>
-							
-								<li class="outboard" style="width: 100%; white-space: normal; float: left;">
-									<a href="/media/chicago-cubs-on-tbs-my-boys-21328/" style="display: block; float: none; width: auto;" class="outboard">Chicago Cubs on TBS's "My Boys"</a>
-								</li>
-							
-								<li class="outboard" style="width: 100%; white-space: normal; float: left;">
-									<a href="/media/the-chicago-cubs-poke-fun-at-ryan-theriots-new-diva-attitude-21232/" style="display: block; float: none; width: auto;" class="outboard">The Chicago Cubs Poke Fun at Ryan Theriot's...</a>
-								</li>
-							
-						</ul>
-					
-		</li>
-	
-
-		<li class="gray">
-
-			
-
-
-			<a href="/chicago-white-sox" class="gray">White Sox</a>
-			
-				<ul id="inboard" style="visibility: hidden; float: none; width: 9em; display: none;">
-
-				
-
-					
-
-								<li class="lvl2" style="white-space: normal; float: left; width: 100%;">
-									<a href="/chicago-white-sox" class="lvl2_bold" style="float: none; width: auto;">White Sox Home</a>
-									
-								</li>
-								
-
-								<li class="lvl2" style="white-space: normal; float: left; width: 100%;">
-									<a href="/search/chicago-white-sox-video" class="lvl2" style="float: none; width: auto;">Video</a>
-									
-								</li>
-								
-
-								<li class="lvl2" style="white-space: normal; float: left; width: 100%;">
-									<a href="/search/chicago-white-sox-articles" class="lvl2" style="float: none; width: auto;">Articles</a>
-									
-								</li>
-								
-
-								<li class="lvl2" style="white-space: normal; float: left; width: 100%;">
-									<a href="/search/chicago-white-sox-radio" class="lvl2" style="float: none; width: auto;">Radio</a>
-									
-								</li>
-								
-
-								<li class="lvl2" style="white-space: normal; float: left; width: 100%;">
-									<a href="/soxblog/" class="lvl2" style="float: none; width: auto;">Blog</a>
-									
-								</li>
-								
-
-								<li class="lvl2" style="white-space: normal; float: left; width: 100%;">
-									<a href="/search/chicago-white-sox-photos" class="lvl2" style="float: none; width: auto;">Photos</a>
-									
-								</li>
-								
-									<li style="white-space: normal; float: left; width: 100%;">
-										<a href="" class="lvl2" style="float: none; width: auto;">&nbsp;</a>
-									</li>
-									<li style="white-space: normal; float: left; width: 100%;">
-										<a href="" class="lvl2" style="float: none; width: auto;">&nbsp;</a>
-									</li>
-									<li style="white-space: normal; float: left; width: 100%;">
-										<a href="" class="lvl2" style="float: none; width: auto;">&nbsp;</a>
-									</li>
-									<li style="white-space: normal; float: left; width: 100%;">
-										<a href="" class="lvl2" style="float: none; width: auto;">&nbsp;</a>
-									</li>
-									<li style="white-space: normal; float: left; width: 100%;">
-										<a href="" class="lvl2" style="float: none; width: auto;">&nbsp;</a>
-									</li>
-								
-				</ul>
-
-				
-
-						<ul id="outboard" style="margin-left: 9em; width: 22em; visibility: hidden; float: none; display: none;">
-							<li class="outboardTitle" style="white-space: normal; float: left; width: 100%;">
-								<a href="" class="outboardTitle" style="float: none; width: auto;">White Sox Features</a>
-							</li>
-							
-								<li class="outboard" style="width: 100%; white-space: normal; float: left;">
-									<a href="/media/gordon-beckham-talks-about-being-the-chicago-white-sox-second-baseman-24183/" style="display: block; float: none; width: auto;" class="outboard">Gordon Beckham Talks About Being the Chicago...</a>
-								</li>
-							
-								<li class="outboard" style="width: 100%; white-space: normal; float: left;">
-									<a href="/media/chicago-white-sox-manager-ozzie-guillen-on-the-status-of-bobby-jenks-24328/" style="display: block; float: none; width: auto;" class="outboard">Chicago White Sox Manager Ozzie Guillen on...</a>
-								</li>
-							
-								<li class="outboard" style="width: 100%; white-space: normal; float: left;">
-									<a href="/media/chicago-white-sox-reliever-scott-linebrink-takes-a-look-at-the-staff-24302/" style="display: block; float: none; width: auto;" class="outboard">Chicago White Sox Reliever Scott Linebrink...</a>
-								</li>
-							
-								<li class="outboard" style="width: 100%; white-space: normal; float: left;">
-									<a href="/media/veteran-shortstop-omar-vizquel-on-reuniting-with-ozzie-guillen-and-the-white-sox-24205/" style="display: block; float: none; width: auto;" class="outboard">Veteran Shortstop Omar Vizquel Playing for...</a>
-								</li>
-							
-								<li class="outboard" style="width: 100%; white-space: normal; float: left;">
-									<a href="/media/white-sox-outfielder-juan-pierre-on-his-relationship-with-south-side-fans-24194/" style="display: block; float: none; width: auto;" class="outboard">White Sox Outfielder Juan Pierre on His...</a>
-								</li>
-							
-								<li class="outboard" style="width: 100%; white-space: normal; float: left;">
-									<a href="/media/new-chicago-white-sox-outfielder-andruw-jones-on-playing-for-the-south-siders-24181/" style="display: block; float: none; width: auto;" class="outboard">New Chicago White Sox Outfielder Andruw Jones...</a>
-								</li>
-							
-								<li class="outboard" style="width: 100%; white-space: normal; float: left;">
-									<a href="/media/chicago-white-sox-starting-pitcher-john-danks-likes-the-teams-chances-in-2010-24193/" style="display: block; float: none; width: auto;" class="outboard">Chicago White Sox Starting Pitcher John Danks...</a>
-								</li>
-							
-								<li class="outboard" style="width: 100%; white-space: normal; float: left;">
-									<a href="/media/chicago-white-sox-third-baseman-mark-teahen-on-settling-in-with-the-ballclub-24220/" style="display: block; float: none; width: auto;" class="outboard">Chicago White Sox Third Baseman Mark Teahen...</a>
-								</li>
-							
-								<li class="outboard" style="width: 100%; white-space: normal; float: left;">
-									<a href="/media/jake-peavy-confident-in-the-white-sox-pitching-staff-in-2010-24026/" style="display: block; float: none; width: auto;" class="outboard">Jake Peavy Confident in the White Sox...</a>
-								</li>
-							
-								<li class="outboard" style="width: 100%; white-space: normal; float: left;">
-									<a href="/media/first-baseman-paul-konerko-on-finishing-his-career-with-the-chicago-white-sox-24071/" style="display: block; float: none; width: auto;" class="outboard">Chicago White Sox First Baseman Paul Konerko...</a>
-								</li>
-							
-						</ul>
-					
-		</li>
-	
-
-		<li class="gray">
-
-			
-
-
-			<a href="/illinois-high-school-sports" class="gray_single">High School</a>
-			
-		</li>
-	
-
-		<li class="gray">
-
-			
-
-
-			<a href="/other-sports" class="gray_single">Other Sports</a>
-			
-		</li>
-	
-</ul>
- 
-						<div class="clear"></div>
-					</div>
-				
-			<div class="clear"></div>
-		</div>
-	</div>
-
-
-
-
-<div id="page">
-	
-	
-	
-	<div id="contentWrapper">
 	<div id="content">
-		
-	<div class="customContent"><p class=""></p><h1>Website Privacy Statement</h1><p></p><p class="">This document was last updated on June 2, 2008.</p><p class=""></p><h3>1. Acknowledgement and acceptance of terms</h3><p></p><p class="">MOUTHPIECESPORTS.COM LLC is committed to protecting your privacy. This Privacy Statement sets forth our current privacy practices with regard to the information we collect when you or your computer interact with our Web site.   By accessing MOUTHPIECESPORTS.COM LLC / MOUTHPIECESPORTS.COM, you acknowledge and fully understand MOUTHPIECESPORTS.COM LLC's Privacy Statement and freely consent to the information collection and use practices described in this Web site Privacy Statement.</p><p class=""></p><h3>2. Participating Merchant Policies</h3><p></p><p class="">Related services and offerings with links from this Web site, including vendor sites, have their own privacy statements that can be viewed by clicking on the corresponding links within each respective Web site. Online merchants and others who participate in MOUTHPIECESPORTS.COM LLC services are encouraged to participate in industry privacy initiatives and to take a responsible attitude towards consumer privacy.  However, since we do not have direct control over the policies or practices of participating merchants and other third parties, we are not responsible for the privacy practices or contents of those sites.  We recommend and encourage that you always review the privacy policies of merchants and other third parties before you provide any personal information or complete any transaction with such parties.</p><p class=""></p><h3>3. Information We Collect and How We Use It</h3><p></p><p class="">MOUTHPIECESPORTS.COM LLC collects certain information from and about its users three ways: directly from our Web Server logs, the user, and with Cookies.</p><p class="">a.Web Server Logs. </p><p class="">When you visit our Web site, we may track information to administer the site and analyze its usage. Examples of information we may track include: </p><p class=""></p><ul><br><li>Your Internet protocol address. </li><br><li>The kind of browser or computer you use. </li><br><li>Number of links you click within the site. </li><br><li>State or country from which you accessed the site.</li> <br><li>Date and time of your visit. </li><br><li>Name of your Internet service provider. </li><br><li>Web page you linked to our site from.</li> <br><li>Pages you viewed on the site.</li><br></ul><p></p><p class="">b. Use of Cookies</p><p class="">MOUTHPIECESPORTS.COM LLC may use cookies to personalize or enhance your user experience.  A cookie is a small text file that is placed on your hard disk by a Web page server.  Cookies cannot be used to run programs or deliver viruses to your computer.  Cookies are uniquely assigned to you, and can only be read by a Web Server in the domain that issued the cookie to you.  </p><p class="">One of the primary purposes of cookies is to provide a convenience feature to save you time.  For example, if you personalize a web page, or navigate within a site, a cookie helps the site to recall your specific information on subsequent visits.  Hence, this simplifies the process of delivering relevant content and eases site navigation by providing and saving your preferences and login information as well as providing personalized functionality.</p><p class="">MOUTHPIECESPORTS.COM LLC reserves the right to share aggregated site statistics with partner companies, but does not allow other companies to place cookies on our Web site unless there is a temporary, overriding customer value (such as merging into MOUTHPIECESPORTS.COM LLC.com a site that relies on third-party cookies).</p><p class="">You have the ability to accept or decline cookies.  Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies. If you reject cookies by changing your browser settings then be aware that this may disable some of the functionality on our Web site.</p><p class="">c.Personal Information Users</p><p class="">Visitors to our Web site can register to purchase services.  When you register, we will request some personal information such as name, address, email, telephone number or facsimile number, account number and other relevant information.  If you are purchasing a service, we will request financial information.  Any financial information we collect is used only to bill you for the services you purchased.  If you purchase by credit card, this information may be forwarded to your credit card provider. For other types of registrations, we will ask for the relevant information. You may also be asked to disclose personal information to us so that we can provide assistance and information to you. For example, such data may be warranted in order to provide online technical support and troubleshooting.</p><p class="">We will not disclose personally identifiable information we collect from you to third parties without your permission except to the extent necessary including:</p><p class=""></p><ul><br><li>To fulfill your service requests for services.</li><br><li>To protect ourselves from liability,</li><br><li>To respond to legal process or comply with law, or</li><br><li>In connection with a merger, acquisition, or liquidation of the company.</li><br></ul><p></p><p class=""></p><h3>4. Use of Web Beacons or GIF files</h3><p></p><p class="">MOUTHPIECESPORTS.COM LLC / MOUTHPIECESPORTS.COM Web pages may contain electronic images known as Web beacons - sometimes also called single-pixel gifs - that allow MOUTHPIECESPORTS.COM LLC to count users who have visited those pages and to deliver co-branded services.  MOUTHPIECESPORTS.COM LLC may include Web beacons in promotional e-mail messages or newsletters in order to determine whether messages have been opened and acted upon.</p><p class="">Some of these Web beacons may be placed by third party service providers to help determine the effectiveness of our advertising campaigns or email communications.  These Web beacons may be used by these service providers to place a persistent cookie on your computer.  This allows the service provider to recognize your computer each time you visit certain pages or emails and compile anonymous information in relation to those page views, which in turn enables us and our service providers to learn which advertisements and emails bring you to our Web site and how you use the site.  MOUTHPIECESPORTS.COM LLC prohibits Web beacons from being used to collect or access your personal information.</p><p class=""></p><h3>5. Accessing Web Account Information</h3><p></p><p class="">We will provide you with the means to ensure that personally identifiable information in your web account file is correct and current.  You may review this information by contacting us by sending an email to our support area ?info@mouthpiecesports.com.</p><p class=""></p><h3>6. Changes to this Statement</h3><p></p><p class="">MOUTHPIECESPORTS.COM LLC has the discretion to occasionally update this privacy statement.  When we do, we will also revise the ?updated? date at the top of this Privacy page.  We encourage you to periodically review this privacy statement to stay informed about how we are helping to protect the personal information we collect.  Your continued use of the service constitutes your agreement to this privacy statement and any updates.</p><p class=""></p><h3>7. Contacting Us</h3><p></p><p class="">If you have questions regarding our Privacy Statement, its implementation, failure to adhere to this Privacy Statement and/or our general practices, please contact us at info@mouthpiecesports.com or send your comments to:</p><p class="">MOUTHPIECESPORTS.COM LLC<br>Attention:  Privacy Statement Personal<br>Customer Service Manager<br>100 North LaSalle, Suite 1015<br>Chicago IL 60602<br>USA</p><p class="">MOUTHPIECESPORTS.COM LLC will use commercially reasonable efforts to promptly respond and resolve any problem or question.</p></div>
-
-
-	</div> <!-- end of content -->
-
 	
 
-	
-	</div> <!-- end of contentWrapper -->
+
+		<h1>Privacy Policy</h1>
 	
 
-	
+<script type="text/javascript">
+var showPop = function(id,url,w,h){
+	openMyModal(
+		id,
+		url,
+		w,h);
+}
+</script>
+<div id="pop1"></div>
+
+<div class="custom-page">
+ This document was last updated on Sept. 7, 2010.  <p>
+</p><h3>1. Acknowledgement and acceptance of terms</h3>  <p>
+BUZZ NETWORKS LLC is committed to protecting your privacy. This Privacy Statement sets forth our current privacy practices with regard to the information we collect when you or your computer interact with our Web site.   By accessing BUZZ NETWORKS LLC / SPORTSBUZZ.COM, you acknowledge and fully understand BUZZ NETWORKS LLC's Privacy Statement and freely consent to the information collection and use practices described in this Web site Privacy Statement.  </p><p>
+</p><h3>2. Participating Merchant Policies</h3>  <p>
+Related services and offerings with links from this Web site, including vendor sites, have their own privacy statements that can be viewed by clicking on the corresponding links within each respective Web site. Online merchants and others who participate in BUZZ NETWORKS LLC services are encouraged to participate in industry privacy initiatives and to take a responsible attitude towards consumer privacy.  However, since we do not have direct control over the policies or practices of participating merchants and other third parties, we are not responsible for the privacy practices or contents of those sites.  We recommend and encourage that you always review the privacy policies of merchants and other third parties before you provide any personal information or complete any transaction with such parties.  </p><p>
+</p><h3>3. Information We Collect and How We Use It</h3>  <p>
+BUZZ NETWORKS LLC collects certain information from and about its users three ways: directly from our Web Server logs, the user, and with Cookies.  </p><p>
+a.Web Server Logs.   </p><p>
+When you visit our Web site, we may track information to administer the site and analyze its usage. Examples of information we may track include:   </p><p>
+</p><ul> <li>Your Internet protocol address. </li> <li>The kind of browser or computer you use. </li> <li>Number of links you click within the site. </li> <li>State or country from which you accessed the site.</li>  <li>Date and time of your visit. </li> <li>Name of your Internet service provider. </li> <li>Web page you linked to our site from.</li>  <li>Pages you viewed on the site.</li> </ul>  <p>
+b. Use of Cookies  </p><p>
+BUZZ NETWORKS LLC may use cookies to personalize or enhance your user experience.  A cookie is a small text file that is placed on your hard disk by a Web page server.  Cookies cannot be used to run programs or deliver viruses to your computer.  Cookies are uniquely assigned to you, and can only be read by a Web Server in the domain that issued the cookie to you.    </p><p>
+One of the primary purposes of cookies is to provide a convenience feature to save you time.  For example, if you personalize a web page, or navigate within a site, a cookie helps the site to recall your specific information on subsequent visits.  Hence, this simplifies the process of delivering relevant content and eases site navigation by providing and saving your preferences and login information as well as providing personalized functionality.  </p><p>
+BUZZ NETWORKS LLC reserves the right to share aggregated site statistics with partner companies, but does not allow other companies to place cookies on our Web site unless there is a temporary, overriding customer value (such as merging into BUZZ NETWORKS LLC a site that relies on third-party cookies).  </p><p>
+You have the ability to accept or decline cookies.  Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies. If you reject cookies by changing your browser settings then be aware that this may disable some of the functionality on our Web site.  </p><p>
+c.Personal Information Users  </p><p>
+Visitors to our Web site can register to purchase services.  When you register, we will request some personal information such as name, address, email, telephone number or facsimile number, account number and other relevant information.  If you are purchasing a service, we will request financial information.  Any financial information we collect is used only to bill you for the services you purchased.  If you purchase by credit card, this information may be forwarded to your credit card provider. For other types of registrations, we will ask for the relevant information. You may also be asked to disclose personal information to us so that we can provide assistance and information to you. For example, such data may be warranted in order to provide online technical support and troubleshooting.  </p><p>
+We will not disclose personally identifiable information we collect from you to third parties without your permission except to the extent necessary including:  </p><p>
+</p><ul> <li>To fulfill your service requests for services.</li> <li>To protect ourselves from liability,</li> <li>To respond to legal process or comply with law, or</li> <li>In connection with a merger, acquisition, or liquidation of the company.</li> </ul>  <p>
+</p><h3>4. Use of Web Beacons or GIF files</h3>  <p>
+BUZZ NETWORKS LLC / SPORTSBUZZ.COM Web pages may contain electronic images known as Web beacons - sometimes also called single-pixel gifs - that allow BUZZ NETWORKS LLC to count users who have visited those pages and to deliver co-branded services.  BUZZ NETWORKS LLC may include Web beacons in promotional e-mail messages or newsletters in order to determine whether messages have been opened and acted upon.  </p><p>
+Some of these Web beacons may be placed by third party service providers to help determine the effectiveness of our advertising campaigns or email communications.  These Web beacons may be used by these service providers to place a persistent cookie on your computer.  This allows the service provider to recognize your computer each time you visit certain pages or emails and compile anonymous information in relation to those page views, which in turn enables us and our service providers to learn which advertisements and emails bring you to our Web site and how you use the site.  BUZZ NETWORKS LLC prohibits Web beacons from being used to collect or access your personal information.  </p><p>
+</p><h3>5. Accessing Web Account Information</h3>  <p>
+We will provide you with the means to ensure that personally identifiable information in your web account file is correct and current.  You may review this information by contacting us by sending an email to our support area info@sportsbuzz.com.  </p><p>
+</p><h3>6. Changes to this Statement</h3>  <p>
+BUZZ NETWORKS LLC has the discretion to occasionally update this privacy statement.  When we do, we will also revise the ?updated? date at the top of this Privacy page.  We encourage you to periodically review this privacy statement to stay informed about how we are helping to protect the personal information we collect.  Your continued use of the service constitutes your agreement to this privacy statement and any updates.  </p><p>
+</p><h3>7. Contacting Us</h3>  <p>
+If you have questions regarding our Privacy Statement, its implementation, failure to adhere to this Privacy Statement and/or our general practices, please contact us at info@sportsbuzz.com or send your comments to:  </p><p>
+BUZZ NETWORKS LLC Attention:  Privacy Statement Personal Customer Service Manager 355 E. Ohio Street, Unit # 3802 Chicago IL 60611 USA  </p><p>
+BUZZ NETWORKS LLC will use commercially reasonable efforts to promptly respond and resolve any problem or question. </p><p>
+</p></div>
+
+
+
+	</div> 
 
 	<div class="clear"></div>
 
 	
-	
+	<div id="footer">
+	<table>
+		<tbody><tr valign="top">
 
-
-<div style="width:980px;margin:0 10px 10px 10px;" class="box nonscrolling">
-	<div class="podTitle">Mouthpiece Links - CHICAGO SPORTS</div>
-
-	
-
-	<div class="footerLink" style="padding:10px;">
-		<div style="float:left;width:135px;">
-			<div>&nbsp;</div>
-		</div>
-		<div style="float:left;width:110px;">
-			<div class="footerLinkTitle">Chicago<br> Features</div>
-			<div class="footerLinkContainer">
-				
-	<link rel="stylesheet" type="text/css" href="/js/jquery/superfish/css/superfish-vertical.css">
-
-
-<script type="text/javascript" language="javascript">
-$j = jQuery.noConflict();
-
-$j(document).ready(function(){
-        $j("ul.sf-menu").supersubs({
-            minWidth:    9,   // minimum width of sub-menus in em units
-            maxWidth:    40,   // maximum width of sub-menus in em units
-            extraWidth:  1     // extra width can ensure lines don't sometimes turn over
-                               // due to slight rounding differences and font-family
-        }).superfish({autoArrows:false,dropShadows:false});  // call supersubs first, then superfish, so that subs are
-                         // not display:none when measuring. Call before initialising
-                         // containing tabs for same reason.
-    });
-
-</script>
-
-
-
-		<li class="footerLink">
-
+			<td width="180">
+			<h3>Quick Links</h3>
+			<div>:: <a href="/">SportsBUZZ Homepage</a></div>
+			<div>:: <a href="/pages/about-us">What's SportsBUZZ.com?</a></div>
 			
-
-
-			<a href="/" class="footerLink">Home</a>
+			<div>:: <a href="/go/contact-us">Contact Us</a></div>
 			
-		</li>
-	
-
-		<li class="footerLink">
-
-			
-
-
-			<a href="/community" class="footerLink">Community</a>
-			
-		</li>
-	
-
-		<li class="footerLink">
-
-			
-
-
-			<a href="/my-mps" class="footerLink">My MPS</a>
-			
-		</li>
-	
-
-		<li class="footerLink">
-
-			
-
-
-			<a href="/athletes" class="footerLink">Athletes</a>
-			
-		</li>
-	
-
-		<li class="footerLink">
-
-			
-
-
-			<a href="/blog" class="footerLink">Blog</a>
-			
-		</li>
-	
-
-		<li class="footerLink">
-
-			
-
-
-			<a href="/search/chicago-sports-video" class="footerLink">Video</a>
-			
-		</li>
-	
-
-		<li class="footerLink">
-
-			
-
-
-			<a href="/search/radio" class="footerLink">Radio</a>
-			
-		</li>
-	
-
-		<li class="footerLink">
-
-			
-
-
-			<a href="/search/articles" class="footerLink">Articles</a>
-			
-		</li>
-	
-
-		<li class="footerLink">
-
-			
-
-
-			<a href="/about-us" class="footerLink">About Us</a>
-			
-		</li>
-	 
+			<div>:: <a href="/pages/privacy-policy">Privacy Policy</a></div>
+			<div>:: Follow us on:<br>
+			<a href="http://twitter.com/sportsbuzz" target="_new"><img src="/images/twitter-small.png" alt="Twitter"></a>
+			<a href="http://www.facebook.com/pages/SportsBUZZ/125551180797600?ref=ts#!/pages/SportsBUZZ/108085632592377" target="_new"><img src="/images/facebook-small.png" alt="Facebook"></a>
 			</div>
-		</div>
-		<div style="float:left;width:110px;">
-			<div>
-				<div class="footerLinkTitle">Chicago<br> Bears</div>
-				<div class="footerLinkContainer">
+			</td>
 
-								<li class="lvl2">
-									<a href="/chicago-bears" class="lvl2_bold">Bears Home</a>
-									
-								</li>
-								
+			<td width="170">
+			<h3>Top Athlete</h3>
+			<div>:: <a href="/go/athletes?sort=newest">Newest Athletes</a></div>
+			<div>:: <a href="/go/athletes?sort=messageCount">Most Active</a></div>
+			<div>:: <a href="/go/athletes?sort=followerCount">Most Popular</a></div>
+			<div>:: <a href="/go/athletes&amp;sort=voteCount">Most Votes</a></div>
+			<div>:: <a href="/go/athletes?sort=commentCount">Most Comments</a></div>
+			<div>:: <a href="/go/community-athletes">Complete List</a></div>
+			</td>
 
-								<li class="lvl2">
-									<a href="/search/chicago-bears-video" class="lvl2">Video</a>
-									
-								</li>
-								
+			<td width="220">
+			<h3>Top Searched Athletes</h3>
+			<div>:: <a href="/go/athlete-display?contactId=29">Chris Cooley</a></div>
+			<div>:: <a href="/go/athlete-display?contactId=74">Alex Brown</a></div>
+			<div>:: <a href="/go/athlete-display?contactId=256">Casey Rabach</a></div>
+			<div>:: <a href="/go/athlete-display?contactId=151">Santana Moss</a></div>
+			<div>:: <a href="/go/athlete-display?contactId=291">Reed Doughty</a></div>
+			<div>:: <a href="/go/athlete-display?contactId=155">Fred Davis</a></div>
+			<div>:: <a href="/go/athlete-display?contactId=884">Garrett Hartley</a></div>
+			<div>:: <a href="/go/athlete-display?contactId=678">Remi Ayodele</a></div>
+			</td>
 
-								<li class="lvl2">
-									<a href="/search/chicago-bears-articles" class="lvl2">Articles</a>
-									
-								</li>
-								
+			<td width="180">
+			<h3>My Account</h3>
+			<div>:: <a href="/go/login">Login</a></div>
+			<div>:: <a href="/go/myhome">My SportsBUZZ Home</a></div>
+			
+			
+			<div>:: <a href="/go/profile">My Profile</a></div>
+			<div>:: <a href="/go/changePassword">Change Password</a></div>
+			
+			<div>:: <a href="/pages/terms-and-conditions">Terms &amp; Conditions</a></div>
+			</td>
 
-								<li class="lvl2">
-									<a href="/search/chicago-bears-radio" class="lvl2">Radio</a>
-									
-								</li>
-								
+			<td width="180">
+			<h3>Help</h3>
+			<div>:: <a href="/go/support">Support Center &amp; F.A.Q.s</a></div>
+			<div>:: <a href="/go/frequently-asked-questions">Common Questions</a></div>
+			<div>:: <a href="/pages/refunds">Refund Policy</a></div>
+			<div>:: <a href="/go/forgotPassword">Lost Your Password?</a></div>
+			<div>:: <a href="/go/contact-us">Contact Us</a></div>
+			
+			<div>:: <a href="/go/sitemap">Sitemap</a></div>
+			
+			</td>
 
-								<li class="lvl2">
-									<a href="/blog/tag/chicago-bears/" class="lvl2">Blog</a>
-									
-								</li>
-								
+		</tr>
+	</tbody></table>
 
-								<li class="lvl2">
-									<a href="/search/chicago-bears-photos" class="lvl2">Photos</a>
-									
-								</li>
-								</div>
-			</div>
-		</div>
-		<div style="float:left;width:110px;">
-			<div>
-				<div class="footerLinkTitle">Chicago<br> Bulls</div>
-				<div class="footerLinkContainer" "="">
-
-								<li class="lvl2">
-									<a href="/chicago-bulls" class="lvl2_bold">Bulls Home</a>
-									
-								</li>
-								
-
-								<li class="lvl2">
-									<a href="/search/chicago-bulls-video" class="lvl2">Video</a>
-									
-								</li>
-								
-
-								<li class="lvl2">
-									<a href="/search/chicago-bulls-articles" class="lvl2">Articles</a>
-									
-								</li>
-								
-
-								<li class="lvl2">
-									<a href="/search/chicago-bulls-radio" class="lvl2">Radio</a>
-									
-								</li>
-								
-
-								<li class="lvl2">
-									<a href="/blog/tag/chicago-bulls/" class="lvl2">Blog</a>
-									
-								</li>
-								
-
-								<li class="lvl2">
-									<a href="/search/chicago-bulls-photos" class="lvl2">Photos</a>
-									
-								</li>
-								</div>
-			</div>
-		</div>
-		<div style="float:left;width:110px;">
-			<div>
-				<div class="footerLinkTitle">Chicago<br> Blackhawks</div>
-				<div class="footerLinkContainer" "="">
-
-								<li class="lvl2">
-									<a href="/chicago-blackhawks" class="lvl2_bold">Blackhawks Home</a>
-									
-								</li>
-								
-
-								<li class="lvl2">
-									<a href="/search/chicago-blackhawks-video" class="lvl2">Video</a>
-									
-								</li>
-								
-
-								<li class="lvl2">
-									<a href="/search/chicago-blackhawks-articles" class="lvl2">Articles</a>
-									
-								</li>
-								
-
-								<li class="lvl2">
-									<a href="/search/chicago-blackhawks-radio" class="lvl2">Radio</a>
-									
-								</li>
-								
-
-								<li class="lvl2">
-									<a href="/blog/tag/chicago-blackhawks/" class="lvl2">Blog</a>
-									
-								</li>
-								
-
-								<li class="lvl2">
-									<a href="/search/chicago-blackhawks-photos" class="lvl2">Photos</a>
-									
-								</li>
-								</div>
-			</div>
-		</div>
-		<div style="float:left;width:110px;">
-			<div>
-				<div class="footerLinkTitle">Chicago<br> Cubs</div>
-				<div class="footerLinkContainer">
-
-								<li class="lvl2">
-									<a href="/chicago-cubs" class="lvl2_bold">Cubs Home</a>
-									
-								</li>
-								
-
-								<li class="lvl2">
-									<a href="/search/chicago-cubs-video" class="lvl2">Video</a>
-									
-								</li>
-								
-
-								<li class="lvl2">
-									<a href="/search/chicago-cubs-articles" class="lvl2">Articles</a>
-									
-								</li>
-								
-
-								<li class="lvl2">
-									<a href="/search/chicago-cubs-radio" class="lvl2">Radio</a>
-									
-								</li>
-								
-
-								<li class="lvl2">
-									<a href="/cubsblog/" class="lvl2">Blog</a>
-									
-								</li>
-								
-
-								<li class="lvl2">
-									<a href="/search/chicago-cubs-photos" class="lvl2">Photos</a>
-									
-								</li>
-								</div>
-			</div>
-		</div>
-		<div style="float:left;width:110px;">
-			<div>
-				<div class="footerLinkTitle">Chicago<br> White Sox</div>
-				<div class="footerLinkContainer">
-
-								<li class="lvl2">
-									<a href="/chicago-white-sox" class="lvl2_bold">White Sox Home</a>
-									
-								</li>
-								
-
-								<li class="lvl2">
-									<a href="/search/chicago-white-sox-video" class="lvl2">Video</a>
-									
-								</li>
-								
-
-								<li class="lvl2">
-									<a href="/search/chicago-white-sox-articles" class="lvl2">Articles</a>
-									
-								</li>
-								
-
-								<li class="lvl2">
-									<a href="/search/chicago-white-sox-radio" class="lvl2">Radio</a>
-									
-								</li>
-								
-
-								<li class="lvl2">
-									<a href="/soxblog/" class="lvl2">Blog</a>
-									
-								</li>
-								
-
-								<li class="lvl2">
-									<a href="/search/chicago-white-sox-photos" class="lvl2">Photos</a>
-									
-								</li>
-								</div>
-			</div>
-		</div>
-		<div style="clear:both;"></div>		
-
+	<table style="margin-top:50px;" width="100%">
+		<tbody><tr>
+			<td width="33%">
+				<a href="http://www.nflplayers.com" target="_blank"><img src="/images/nflpa-badge.jpeg" alt="NFLPA Players Association"></a>
+			</td>
+			<td align="center" style="color:silver">
+				<b>BUZZNetworks, LLC</b><br>
+				44340 Premier Plaza<br>Suite 130<br>Ashburn, VA 20147
+			</td>
+			<td align="right" width="33%">
+			<table>
+				<tbody><tr>
+				<td>
+				<div style="margin-top:0;padding-top:0"><script type="text/javascript" src="https://sealserver.trustwave.com/seal.js?style=normal"></script></div>
+				</td>
+				<td>
+				<div class="AuthorizeNetSeal"><script type="text/javascript" language="javascript">var ANS_customer_id="b08ef1c7-9296-48f0-8bec-0cc7517db0ec";</script> <script type="text/javascript" language="javascript" src="//verify.authorize.net/anetseal/seal.js"></script> <a href="http://www.authorize.net/" id="AuthorizeNetText" target="_blank">Online Payment Service</a> </div>
+				</td>
+				</tr>
+			</tbody></table>
+			</td>
+		</tr>
+	</tbody></table>
 	</div>
 	
-	<div class="footerLink">
-		<div class="footerLinkHorizontalSeparator" style="width:960px;margin:0 10px;font-size:0;"></div>
-	</div>
-	
-	<div class="footerLink" style="padding:10px 10px 25px 20px;height:110px;">
-		<div class="footerLinkTitle" style="margin:0 0 0 120px;">Chicago Sports Athlete Roster</div>
-
-		<div style="float:left;width:135px;">
-			<div>&nbsp;</div>
-		</div>
-		<div style="float:left;width:135px;">
-			<div>
-				<li class="lvl2">
-					<a href="/search/Anthony-Adams" alt="Anthony Adams">Anthony Adams</a>
-				</li>
-				<li class="lvl2">
-					<a href="/search/Brendon-Ayanbadejo" alt="Brendon Ayanbadejo">Brendon Ayanbadejo</a>
-				</li>
-				<li class="lvl2">
-					<a href="/search/Lance-Briggs" alt="Lance Briggs">Lance Briggs</a>
-				</li>
-				<li class="lvl2">
-					<a href="/search/Adam-Burish" alt="Adam Burish">Adam Burish</a>
-				</li>
-				<li class="lvl2">
-					<a href="/search/Brian-Campbell" alt="Brian Campbell">Brian Campbell</a>
-				</li>
-				<li class="lvl2">
-					<a href="/search/Luol-Deng" alt="Luol Deng">Luol Deng</a><br>
-				</li>
-			</div>
-		</div>
-		<div style="float:left;width:135px;">
-			<div>
-				<li class="lvl2">
-					<a href="/search/Chris-Duhon" alt="Chris Duhon">Chris Duhon</a>
-				</li>
-				<li class="lvl2">
-					<a href="/search/Ben-Gordon" alt="Ben Gordon">Ben Gordon</a>
-				</li>
-				<li class="lvl2">
-					<a href="/search/Drew-Gooden" alt="Drew Gooden">Drew Gooden</a>
-				</li>
-				<li class="lvl2">
-					<a href="/search/Tommie-Harris" alt="Tommie Harris">Tommie Harris</a>
-				</li>
-				<li class="lvl2">
-					<a href="/search/Israel-Idonije" alt="Israel Idonije">Israel Idonije</a>
-				</li>
-				<li class="lvl2">
-					<a href="/search/Patrick-Kane" alt="Patrick Kane">Patrick Kane</a>
-				</li>
-			</div>
-		</div>
-		<div style="float:left;width:135px;">
-			<div>
-				<li class="lvl2">
-					<a href="/search/Jason-McKie" alt="Jason McKie">Jason McKie</a>
-				</li>
-				<li class="lvl2">
-					<a href="/search/Ron-Kittle" alt="Ron Kittle">Ron Kittle</a>
-				</li>
-				<li class="lvl2">
-					<a href="/search/Joakim-Noah" alt="Joakim Noah">Joakim Noah</a>
-				</li>
-				<li class="lvl2">
-					<a href="/search/Adewale-Ogunleye" alt="Adewale Ogunleye">Adewale Ogunleye</a>
-				</li>
-				<li class="lvl2">
-					<a href="/search/Kyle-Orton" alt="Kyle Orton">Kyle Orton</a>
-				</li>
-				<li class="lvl2">
-					<a href="/search/Kevin-Payne" alt="Kevin Payne">Kevin Payne</a>
-				</li>
-			</div>
-		</div>
-		<div style="float:left;width:135px;">
-			<div>
-				<li class="lvl2">
-					<a href="/search/Adrian-Peterson" alt="Adrian Peterson">Adrian Peterson</a>
-				</li>
-				<li class="lvl2">
-					<a href="/search/Antwaan-Randle-El" alt="Antwaan Randle El">Antwaan Randle El</a>
-				</li>
-				<li class="lvl2">
-					<a href="/search/Derrick-Rose" alt="Derrick Rose">Derrick Rose</a>
-				</li>
-				<li class="lvl2">
-					<a href="/search/Denis-Savard" alt="Denis Savard">Denis Savard</a>
-				</li>
-				<li class="lvl2">
-					<a href="/search/Brent-Seabrook" alt="Brent Seabrook">Brent Seabrook</a>
-				</li>
-				<li class="lvl2">
-					<a href="/search/Patrick-Sharp" alt="Patrick Sharp">Patrick Sharp</a>
-				</li>
-			</div>
-		</div>
-		<div style="float:left;width:135px;">
-			<div>
-				<li class="lvl2">
-					<a href="/search/Alfonso-Soriano" alt="Alfonso Soriano">Alfonso Soriano</a>
-				</li>
-				<li class="lvl2">
-					<a href="/search/Charles-Tillman" alt="Charles Tillman">Charles Tillman</a>
-				</li>
-				<li class="lvl2">
-					<a href="/search/Jonathan-Toews" alt="Jonathan Toews">Jonathan Toews</a>
-				</li>
-				<li class="lvl2">
-					<a href="/search/Dwyane-Wade" alt="Dwyane Wade">Dwyane Wade</a>
-				</li>
-				<li class="lvl2">
-					<a href="/search/James-Wisniewski" alt="James Wisniewski">James Wisniewski</a>
-				</li>
-				<li class="lvl2">
-					<a href="/search/Kris-Versteeg" alt="Kris Versteeg">Kris Versteeg</a>
-				</li>
-				<li class="lvl2">
-					<a href="/search/Garrett-Wolfe" alt="Garrett Wolfe">Garrett Wolfe</a>
-				</li>
-			</div>
-		</div>
-		<div style="float:left;width:135px;">
-			<div>
-			<div>&nbsp;</div>
-			</div>
-		</div>
-		<div style="clear:both;"></div>		
-
-	</div>
-</div>
-
-
 
 </div> <!-- end of page -->
 
-<div id="footerWrapper">
-<div id="footer">
-	<a href="mailto:icohen@mouthpiecesports.com?subject=Feedback">Feedback</a>
-		| <a href="/index.cfm?action=getPage&amp;code=PRIVACY">Privacy Policy</a>
-		
-		| <a href="/index.cfm?action=getPage&amp;code=TOS">Terms of Service</a>
-		| <a href="/index.cfm?action=submitsendVideo">Submit Video</a>
-		| <a href="/index.cfm?action=mpsContactUs&amp;code=CONTACTUS">Contact Us</a>
-	
-</div>
-</div>
-
-
-
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-var pageTracker = _gat._getTracker("UA-4406857-2");
-pageTracker._initData();
-pageTracker._trackPageview();
-</script>
 
 
 <div class="clear"></div>
 
 
 
-<!-- serverName: 159507-1.159507.com -->
-
-
-</div>
-
-
+<!-- serverName: 149263-4.149263-4.com -->
 
 
 
