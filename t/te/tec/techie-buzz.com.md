@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techie-buzz.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130050905id_/http%3A//techie-buzz.com/privacy-policy%3Futm_source%3Dmenu%26utm_medium%3Dheader%26utm_campaign%3Dfooterlinks) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techie-buzz.com privacy policy that was archived on 2011-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110530164922id_/http%3A//techie-buzz.com/privacy-policy%3Futm_source%3Dmenu%26utm_medium%3Dheader%26utm_campaign%3Dfooterlinks) for the most accurate reproduction.*
 
 # Privacy Policy | Techie Buzz
 
