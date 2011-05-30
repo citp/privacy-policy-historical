@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the musicmagpie.co.uk privacy policy that was archived on 2010-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101211154652id_/http%3A//www.musicmagpie.co.uk/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musicmagpie.co.uk privacy policy that was archived on 2011-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110530122900id_/http%3A//www.musicmagpie.co.uk/privacy.asp) for the most accurate reproduction.*
 
 # Selling your music CDs DVDs and games? Sell for cash the best prices paid
 
