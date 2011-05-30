@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the checkthemarkets.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228162936id_/http%3A//checkthemarkets.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D45) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the checkthemarkets.com privacy policy that was archived on 2011-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110530034936id_/http%3A//checkthemarkets.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D45) for the most accurate reproduction.*
 
 # checkthemarkets.com - Privacy Policy
 
