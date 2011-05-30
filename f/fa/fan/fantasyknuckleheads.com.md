@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fantasyknuckleheads.com privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129194944id_/http%3A//fantasyknuckleheads.com/subscribe/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fantasyknuckleheads.com privacy policy that was archived on 2011-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110530201416id_/http%3A//fantasyknuckleheads.com/subscribe/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Fantasy Knuckleheads
+# Privacy Policy
 
 * * *
 
