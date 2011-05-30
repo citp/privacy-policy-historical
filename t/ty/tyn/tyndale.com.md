@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tyndale.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220035130id_/http%3A//www.tyndale.com/00_Home/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tyndale.com privacy policy that was archived on 2011-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110530153856id_/http%3A//www.tyndale.com/00_Home/privacy.php) for the most accurate reproduction.*
 
 # Tyndale House Publishers - Christian Fiction, Nonfiction, Children's Books and Bibles
 
