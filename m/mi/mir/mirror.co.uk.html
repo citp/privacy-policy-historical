@@ -1,13 +1,11 @@
-<!--The following is the downloaded HTML source of the mirror.co.uk privacy policy that was archived on 2010-12-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101210215304id_/http%3A//www.mirror.co.uk/priv_statement) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mirror.co.uk privacy policy that was archived on 2011-05-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110531002700id_/http%3A//www.mirror.co.uk/priv_statement) for the most accurate reproduction.-->
 
-<!DOCTYPE html SYSTEM "http://images.mirror.co.uk/tm-xhtml1-trans.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" xmlns:pas="http://community.mirror.co.uk/2009/pluckApplicationServer" xmlns:tm="http://www.trinitymirror.com/tm/"><head>
-
+<!DOCTYPE html SYSTEM "http://images.mirror.co.uk/tm-xhtml1-trans.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" xmlns:pas="http://community.mirror.co.uk/2009/pluckApplicationServer" xmlns:tm="http://www.trinitymirror.com/tm/" class="no-js"><head>
 		
 		<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var startLoadTime = (new Date()).getTime();</script>
-		<base href="http://www.mirror.co.uk/priv_statement/">
-
-		
+    
+			<base href="http://www.mirror.co.uk/priv_statement/">
 		
 		<meta http-equiv="Content-Type" content="text/html; CHARSET=UTF-8">
 		<title>Privacy Statement - mirror.co.uk</title>
@@ -16,7 +14,10 @@
 	
 		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js" type="text/javascript"></script>
 	
+			<script type="text/javascript" src="http://images.mirror.co.uk/js/modernizr/modernizr-1.6.min.js"></script>
+		
 	 	<script type="text/javascript" src="http://images.mirror.co.uk/js/m4/lib.js"></script>
+	 	
 		
 		<script type="text/javascript" src="http://images.mirror.co.uk/js/r2/preDisplay.js"></script>
 
@@ -24,16 +25,15 @@
 
 		
 		<script type="text/javascript" src="http://images.mirror.co.uk/js/dhtmlwindowANDgoogleLogoANDxmlhttp.min.js"></script>	
-
-		<link rel="stylesheet" type="text/css" href="http://images.mirror.co.uk/css/m4/structure.css" media="screen">
-	<link rel="stylesheet" type="text/css" href="http://images.mirror.co.uk/css/m4/base.css" media="screen">
-	<!--[if !lt IE 7]>
-	<link rel="stylesheet" type="text/css" href="http://images.mirror.co.uk/css/m4/ie7.css" media="screen"/>
+	<link rel="stylesheet" type="text/css" href="http://images.mirror.co.uk/css/m4/structure.css" media="screen">
+<link rel="stylesheet" type="text/css" href="http://images.mirror.co.uk/css/m4/base.css" media="screen">
+<!--[if !lt IE 7]>
+<link rel="stylesheet" type="text/css" href="http://images.mirror.co.uk/css/m4/ie7.css" media="screen"/>
 	<![endif]-->
-	<!--[if IE 6]>
-	<link rel="stylesheet" type="text/css" href="http://images.mirror.co.uk/css/m4/ie6.css" media="screen"/>
+<!--[if IE 6]>
+<link rel="stylesheet" type="text/css" href="http://images.mirror.co.uk/css/m4/ie6.css" media="screen"/>
 	<![endif]-->
-	<link rel="stylesheet" type="text/css" href="http://images.mirror.co.uk/css/m4/microsites.css" media="screen">
+<link rel="stylesheet" type="text/css" href="http://images.mirror.co.uk/css/m4/microsites.css" media="screen">
 
 			<meta name="Keywords" content="Privacy Statement">
 		
@@ -111,7 +111,33 @@
 				setGoogleLogoIfNeeded(); " onunload="if((typeof geoUnload) != 'undefined') geoUnload();">
 			
 				<!--googleoff: all-->
-			<div id="wrap">
+			
+			<!-- AUDIENCESCIENCE AD TAG CODE -->
+			<script type="text/javascript" src="http://js.revsci.net/gateway/gw.js?csid=J08779&amp;auto=t"></script>
+			<script type="text/javascript">
+				//<![CDATA[
+				var rsi_segs = [];
+				var segs_beg=document.cookie.indexOf('rsi_segs=');
+				if (segs_beg>=0){
+					segs_beg=document.cookie.indexOf('=',segs_beg)+1;
+					if(segs_beg>0){
+						var segs_end=document.cookie.indexOf(';',segs_beg);
+						if(segs_end==-1) segs_end=document.cookie.length;
+						rsi_segs=document.cookie.substring(segs_beg,segs_end).split('|');
+					}
+				}
+				var segLen=20;
+				var segQS="";
+				if (rsi_segs.length<segLen){
+					segLen=rsi_segs.length
+				}
+				for (var i=0;i<segLen;i++){
+					segQS+=("rsi"+"="+rsi_segs[i]+";")					
+				}
+			//]]>			
+			</script>
+			<!-- END AUDIENCESCIENCE AD TAG CODE -->	
+		<div id="wrap">
 	<script type="text/javascript">
 			  var _gaq = _gaq || [];
 			  _gaq.push(['_setAccount', 'UA-229407-1']);
@@ -376,7 +402,7 @@ puffLinks.click(function(){
 	
 	tm.logger.info(['Puff Tracking:', 'Omniture event sent' ], OMNI_DEBUG_LEVEL);
 
-	return !tm.logger.enabled; //if debug mode don't follow link
+	return tm.logger.debugLevel != OMNI_DEBUG_LEVEL; //if debug mode don't follow link
 });
 //Log to console if required.
 tm.logger.debug( [ 'Puff Tracking: Links', puffLinks ], OMNI_DEBUG_LEVEL );
@@ -388,27 +414,7 @@ tm.logger.debug( [ 'Puff Tracking: Links', puffLinks ], OMNI_DEBUG_LEVEL );
 <script type="text/javascript"><!--
 if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
 //--></script>
-<!-- End SiteCatalyst code version: H.17. --><script type="text/javascript">
-//<![CDATA[
-/* Sophus3 logging request. http://www.sophus3.com
- * Mirror Site identifier code for eDataXchange
- * Copyright (c) Sophus3 Ltd 2001-2007. All rights reserved. Patent Pending.
- * Change the value of tc_logging_active to switch off logging on the site. */
-if (typeof tc_logging_active == 'undefined') tc_logging_active = true;
-tc_site_id =    7;
-tc_server_url = "trinity.sophus3.com";
-tc_log_path = "http://images.mirror.co.uk/js/stats/sophus3";
-function sophus3(){
-	$(document).append(
-		"<scr" + "ipt language='JavaScript' type='text/javascript' src='" +
-		tc_log_path + "/logging-code.js'></scr"+"ipt>"
-	);
-}
-$(function(){
-	sophus3();
-});
-//]]>
-</script><div id="header-wrap">
+<!-- End SiteCatalyst code version: H.17. --><div id="header-wrap">
 	<!-- xc:header-top dirpath=/src/webroot/m4/index.cfm -->
 	<div id="header-top">
 				<tm:container name="header-top" path="/src/webroot/m4/index.cfm">
@@ -425,7 +431,7 @@ $(function(){
  <li class="phones"><a href="http://mirrorgogreen.com/">MirrorGoGreen</a></li>
  <li class="tickets"><a href="http://tickets.mirror.co.uk/">Tickets</a></li>
 <li class="poker"><a href="http://www.myoffers.co.uk/default.aspx?promoid=93&amp;src=112339&amp;cid=2070">Comps</a></li>
-<li class="dating"><a href="http://www.mirror.co.uk/advice/money-saving-tips/">Money</a></li>
+<li class="dating"><a href="http://www.mirror.co.uk/advice/money/">Money</a></li>
 </ul>
 </div></tm:contentobject></tm:container></div><script type="text/javascript">AC_FL_RunContent = 0;</script>
 	<script src="http://images.mirror.co.uk/js/m4/AC_RunActiveContent.js" language="javascript"></script>
@@ -513,10 +519,10 @@ $(function(){
 			<a title="go to weather" href="http://www.mirror.co.uk/weather/index.cfm?townid=2271" id="id_weather_link">
 		<span id="weather_town_name">London</span>
 		<span id="weather_condition">
-		<img src="http://images.mirror.co.uk/collections/m4_general/1017.gif" width="17" height="17" border="0" alt="Mist" align="middle">
+		<img src="http://images.mirror.co.uk/collections/m4_general/1002.gif" width="17" height="17" border="0" alt="Sunny spells" align="middle">
 		</span>
-		<span id="weather_min">Min:-2°C</span>
-		<span id="weather_max">Max:-1°C</span>
+		<span id="weather_min">Min:15°C</span>
+		<span id="weather_max">Max:24°C</span>
 			</a>
 		</li>
 		<li class="your-town">
@@ -668,7 +674,7 @@ function writeAuthHeaderLoggedIn(mailAddress, accountURL, logoutURL,
 
 writeAuthHeader(100,
 				true,
-				'http://www.mirror.co.uk/registration/index.cfm',
+				'/registration/index.cfm',
 				null,
 				false,
 				'http://www.mirror.co.uk/community/profile/',
@@ -676,7 +682,7 @@ writeAuthHeader(100,
 				);
 
 	//]]>
-	</script><li class="login"><a href="http://www.mirror.co.uk/registration/index.cfm?redirect=https%3A//web.archive.org/web/20101210215304id_/http%253A//www.mirror.co.uk/priv_statement">login</a></li><li class="register"><a href="http://www.mirror.co.uk/registration/index.cfm?register=1&amp;type=2&amp;redirect=https%3A//web.archive.org/web/20101210215304id_/http%253A//www.mirror.co.uk/priv_statement">register</a></li>
+	</script><li class="login"><a href="/registration/index.cfm?redirect=https%3A//web.archive.org/web/20110531002700id_/http%3A//www.mirror.co.uk/priv_statement/">login</a></li><li class="register"><a href="/registration/index.cfm?register=1&amp;type=2&amp;redirect=https%3A//web.archive.org/web/20110531002700id_/http%3A//www.mirror.co.uk/priv_statement/">register</a></li>
 
 	</ul>
 	<div id="header-logo">
@@ -717,12 +723,14 @@ try {
 if (typeof dartOrd == 'undefined') dartOrd=Math.random()*10000000000000000000;
 if (typeof tm.zones == 'undefined') {tm.zones = "";}
 
+
 (function (x) { if (tm.defer) {tm.defer.defer(x); } else { document.write(x);}})('<scr' +
 	'ipt type="text/javascript" ' +
- 'src="http://ad.uk.doubleclick.net/adj/dailymirror.4240/' +
+ 'src="http://ad.uk.doubleclick.net/adj/mirror.5293/' +
  'priv_statement_leaderboard_top_728x90;sz=728x90,468x60;pos=top;sect=priv_statement;psect=;zone=priv_statement;templ=index;oid=0' + tm.zones  +
  ';dcopt=ist' +
- ';tile=1' +
+ ';tile=' + tm.nextTileValue() +
+ ';' + (typeof segQS != "undefined" ? segQS:"" ) +
  ';ord=' +
  dartOrd +
  ';' + vdnaDoubleClickUrlParams +
@@ -734,9 +742,9 @@ if (typeof tm.zones == 'undefined') {tm.zones = "";}
 
 				//]]></script>
 			<noscript>
-				<a href="http://ad.uk.doubleclick.net/jump/dailymirror.4240/priv_statement_leaderboard_top_728x90;sz=728x90,468x60;pos=top;sect=priv_statement;psect=;zone=priv_statement;templ=index;tile=1;ord=704933089?" target="_blank">
+				<a href="http://ad.uk.doubleclick.net/jump/mirror.5293/priv_statement_leaderboard_top_728x90;sz=728x90,468x60;pos=top;sect=priv_statement;psect=;zone=priv_statement;templ=index;tile=1;ord=820867701?" target="_blank">
 				<img
-					src="http://ad.uk.doubleclick.net/ad/dailymirror.4240/priv_statement_leaderboard_top_728x90;sz=728x90,468x60;pos=top;sect=priv_statement;psect=;zone=priv_statement;templ=index;tile=1;ord=704933089?"
+					src="http://ad.uk.doubleclick.net/ad/mirror.5293/priv_statement_leaderboard_top_728x90;sz=728x90,468x60;pos=top;sect=priv_statement;psect=;zone=priv_statement;templ=index;tile=1;ord=820867701?"
 					
 					border="0"
 					alt="leaderboardAdvertisement" />
@@ -814,14 +822,14 @@ if (typeof tm.zones == 'undefined') {tm.zones = "";}
 					</li>
 				
 					<li>
-						<a href="http://www.mirror.co.uk/news/technology/">
-							Technology
+						<a href="http://www.mirror.co.uk/news/politics/">
+							Politics
 						</a>
 					</li>
 				
 					<li>
-						<a href="http://www.mirror.co.uk/news/city-news/">
-							City
+						<a href="http://www.mirror.co.uk/news/technology/">
+							Technology
 						</a>
 					</li>
 				
@@ -832,8 +840,20 @@ if (typeof tm.zones == 'undefined') {tm.zones = "";}
 					</li>
 				
 					<li>
-						<a href="http://www.mirror.co.uk/news/politics/">
-							Politics
+						<a href="http://www.mirror.co.uk/news/city-news/">
+							City
+						</a>
+					</li>
+				
+					<li>
+						<a href="http://www.mirror.co.uk/news/scottish-news/">
+							Scottish News
+						</a>
+					</li>
+				
+					<li>
+						<a href="http://www.mirror.co.uk/news/london-2012-olympic-games/">
+							London 2012
 						</a>
 					</li>
 				
@@ -856,8 +876,8 @@ if (typeof tm.zones == 'undefined') {tm.zones = "";}
 					</li>
 				
 					<li>
-						<a href="http://www.mirror.co.uk/news/world-cup/">
-							World Cup
+						<a href="http://www.mirror.co.uk/news/the-big-lunch/">
+							The Big Lunch
 						</a>
 					</li>
 				</ul>
@@ -905,8 +925,20 @@ if (typeof tm.zones == 'undefined') {tm.zones = "";}
 					</li>
 				
 					<li>
+						<a href="http://www.mirror.co.uk/sport/british-superbikes/">
+							British Superbikes
+						</a>
+					</li>
+				
+					<li>
 						<a href="http://www.mirror.co.uk/sport/cricket/">
 							Cricket
+						</a>
+					</li>
+				
+					<li>
+						<a href="http://www.mirror.co.uk/sport/rugby-union/">
+							Rugby Union
 						</a>
 					</li>
 				
@@ -935,14 +967,14 @@ if (typeof tm.zones == 'undefined') {tm.zones = "";}
 					</li>
 				
 					<li>
-						<a href="http://www.mirror.co.uk/sport/rugby-union/">
-							Rugby Union
+						<a href="http://www.mirror.co.uk/sport/darts/">
+							Darts
 						</a>
 					</li>
 				
 					<li>
-						<a href="http://www.mirror.co.uk/sport/golf/">
-							Golf
+						<a href="http://www.mirror.co.uk/sport/tennis/">
+							Tennis
 						</a>
 					</li>
 				
@@ -965,14 +997,8 @@ if (typeof tm.zones == 'undefined') {tm.zones = "";}
 					</li>
 				
 					<li>
-						<a href="http://www.mirror.co.uk/sport/top-10s/">
-							Top 10s
-						</a>
-					</li>
-				
-					<li>
-						<a href="http://www.mirror.co.uk/sport/mirror-tickets/">
-							Mirror Tickets
+						<a href="http://www.mirror.co.uk/sport/sports-tickets/">
+							Sports Tickets
 						</a>
 					</li>
 				
@@ -1008,26 +1034,20 @@ if (typeof tm.zones == 'undefined') {tm.zones = "";}
 					</li>
 				
 					<li>
-						<a href="http://www.mirror.co.uk/celebs/x-factor/">
-							X Factor
-						</a>
-					</li>
-				
-					<li>
-						<a href="http://www.mirror.co.uk/celebs/strictly-come-dancing/">
-							Strictly Come Dancing
-						</a>
-					</li>
-				
-					<li>
-						<a href="http://www.mirror.co.uk/celebs/im-a-celebrity/">
-							I'm A Celebrity
-						</a>
-					</li>
-				
-					<li>
 						<a href="http://www.mirror.co.uk/celebs/tv/">
 							TV
+						</a>
+					</li>
+				
+					<li>
+						<a href="http://www.mirror.co.uk/celebs/britain-s-got-talent/">
+							Britain's Got Talent
+						</a>
+					</li>
+				
+					<li>
+						<a href="http://www.mirror.co.uk/celebs/dean-piper/">
+							Dean Piper
 						</a>
 					</li>
 				
@@ -1044,32 +1064,26 @@ if (typeof tm.zones == 'undefined') {tm.zones = "";}
 					</li>
 				
 					<li>
+						<a href="http://www.mirror.co.uk/celebs/coleen-nolan/">
+							Coleen Nolan
+						</a>
+					</li>
+				
+					<li>
+						<a href="http://www.mirror.co.uk/celebs/tess-daly/">
+							Tess Daly
+						</a>
+					</li>
+				
+					<li>
+						<a href="http://www.mirror.co.uk/celebs/nadia-sawalha/">
+							Nadia Sawalha
+						</a>
+					</li>
+				
+					<li>
 						<a href="http://www.mirror.co.uk/celebs/video/">
 							Video
-						</a>
-					</li>
-				
-					<li>
-						<a href="http://www.mirror.co.uk/celebs/pictures/">
-							Pictures
-						</a>
-					</li>
-				
-					<li>
-						<a href="http://www.mirror.co.uk/celebs/celebs-on-sunday/">
-							Celebs On Sunday
-						</a>
-					</li>
-				
-					<li>
-						<a href="http://www.mirror.co.uk/celebs/latest/">
-							Latest
-						</a>
-					</li>
-				
-					<li>
-						<a href="http://www.mirror.co.uk/celebs/topics/">
-							Topics
 						</a>
 					</li>
 				
@@ -1080,8 +1094,8 @@ if (typeof tm.zones == 'undefined') {tm.zones = "";}
 					</li>
 				
 					<li>
-						<a href="http://www.mirror.co.uk/celebs/mirror-tickets/">
-							Mirror Tickets
+						<a href="http://www.mirror.co.uk/celebs/music-tickets/">
+							Music Tickets
 						</a>
 					</li>
 				</ul>
@@ -1111,6 +1125,12 @@ if (typeof tm.zones == 'undefined') {tm.zones = "";}
 					</li>
 				
 					<li>
+						<a href="http://www.mirror.co.uk/life-style/coleen-nolan/">
+							Coleen Nolan
+						</a>
+					</li>
+				
+					<li>
 						<a href="http://www.mirror.co.uk/life-style/nadia-sawalha-food/">
 							Nadia Sawalha
 						</a>
@@ -1119,6 +1139,24 @@ if (typeof tm.zones == 'undefined') {tm.zones = "";}
 					<li>
 						<a href="http://www.mirror.co.uk/life-style/tess-daly/">
 							Tess Daly
+						</a>
+					</li>
+				
+					<li>
+						<a href="http://www.mirror.co.uk/life-style/jeff-brazier-family-talk/">
+							Jeff Brazier
+						</a>
+					</li>
+				
+					<li>
+						<a href="http://www.mirror.co.uk/life-style/karen-barber/">
+							Karen Barber
+						</a>
+					</li>
+				
+					<li>
+						<a href="http://www.mirror.co.uk/life-style/beauty/">
+							Beauty
 						</a>
 					</li>
 				
@@ -1184,20 +1222,32 @@ if (typeof tm.zones == 'undefined') {tm.zones = "";}
 					</li>
 				
 					<li>
+						<a href="http://www.mirror.co.uk/advice/miriam/">
+							Dr Miriam
+						</a>
+					</li>
+				
+					<li>
+						<a href="http://www.mirror.co.uk/advice/agony-aunt/">
+							Agony Aunt
+						</a>
+					</li>
+				
+					<li>
 						<a href="http://www.mirror.co.uk/advice/cash-queens/">
 							Cash Queens
 						</a>
 					</li>
 				
 					<li>
-						<a href="http://www.mirror.co.uk/advice/christmas/">
-							Christmas
+						<a href="http://www.mirror.co.uk/advice/diarmuid-gavin-gardening-column/">
+							Diarmuid Gavin
 						</a>
 					</li>
 				
 					<li>
-						<a href="http://www.mirror.co.uk/advice/money-saving-tips/">
-							Money Saving Tips
+						<a href="http://www.mirror.co.uk/advice/mirror-investigates/">
+							Mirror Investigates
 						</a>
 					</li>
 				
@@ -1208,20 +1258,8 @@ if (typeof tm.zones == 'undefined') {tm.zones = "";}
 					</li>
 				
 					<li>
-						<a href="http://www.mirror.co.uk/advice/miriam/">
-							Dr Miriam
-						</a>
-					</li>
-				
-					<li>
 						<a href="http://www.mirror.co.uk/advice/gardening/">
 							Gardening
-						</a>
-					</li>
-				
-					<li>
-						<a href="http://www.mirror.co.uk/advice/mirror-investigates/">
-							Mirror Investigates
 						</a>
 					</li>
 				
@@ -1238,14 +1276,8 @@ if (typeof tm.zones == 'undefined') {tm.zones = "";}
 					</li>
 				
 					<li>
-						<a href="http://www.mirror.co.uk/advice/mobility/">
-							Mobility
-						</a>
-					</li>
-				
-					<li>
 						<a href="http://www.mirror.co.uk/advice/jobs/">
-							Jobs
+							Get Britain Working
 						</a>
 					</li>
 				</ul>
@@ -1295,8 +1327,8 @@ if (typeof tm.zones == 'undefined') {tm.zones = "";}
 				</a>
 		<ul>
 					<li class="first">
-						<a href="http://www.mirror.co.uk/fun-games/scratchcards/">
-							Scratchcards
+						<a href="http://www.mirror.co.uk/fun-games/simons-cat/">
+							Simon's Cat
 						</a>
 					</li>
 				
@@ -1411,33 +1443,21 @@ if (typeof tm.zones == 'undefined') {tm.zones = "";}
 					<span></span>
 				</li>
 			
-					<tm:contentobject objectid="21369900" method="m4_home_header" type="topic">
-				<li>
-	<a href="http://www.mirror.co.uk/topics/the-ashes/" class="teaser-headline topic">
-	The Ashes 
-	</a>
-	</li> </tm:contentobject> 
-					<tm:contentobject objectid="22734744" method="m4_home_header" type="topic">
-				<li> <a href="http://www.mirror.co.uk/topics/royal-wedding/" class="teaser-headline topic">
-	Royal Wedding </a> </li> </tm:contentobject> 
-					<tm:contentobject objectid="21481829" method="m4_home_header" type="topic">
-				<li>
-	<a href="http://www.mirror.co.uk/topics/the-x-factor/" class="teaser-headline topic">
-	The X Factor 
-	</a>
-	</li> </tm:contentobject> 
-					<tm:contentobject objectid="21492493" method="m4_home_header" type="topic">
-				<li>
-	<a href="http://www.mirror.co.uk/topics/cheryl-cole/" class="teaser-headline topic">
-	Cheryl Cole
-	</a>
-	</li> </tm:contentobject> 
+					<tm:contentobject objectid="22180825" method="m4_home_header" type="topic">
+				<li> <a href="http://www.mirror.co.uk/topics/britain-s-got-talent/" class="teaser-headline topic">
+	Britain's Got Talent </a> </li> </tm:contentobject> 
 					<tm:contentobject objectid="22255175" method="m4_home_header" type="topic">
-				<li>
-	<a href="http://www.mirror.co.uk/topics/3am-co-uk/" class="teaser-headline topic">
-	3am.co.uk 
-	</a>
-	</li> </tm:contentobject> <li>
+				<li> <a href="http://www.mirror.co.uk/topics/3am-co-uk/" class="teaser-headline topic">
+	3am.co.uk </a> </li> </tm:contentobject> 
+					<tm:contentobject objectid="21480949" method="m4_home_header" type="topic">
+				<li> <a href="http://www.mirror.co.uk/topics/katie-price/" class="teaser-headline topic">
+	Katie Price </a> </li> </tm:contentobject> 
+					<tm:contentobject objectid="21492493" method="m4_home_header" type="topic">
+				<li> <a href="http://www.mirror.co.uk/topics/cheryl-cole/" class="teaser-headline topic">
+	Cheryl Cole </a> </li> </tm:contentobject> 
+					<tm:contentobject objectid="21321802" method="m4_home_header" type="topic">
+				<li> <a href="http://www.mirror.co.uk/topics/prince-william/" class="teaser-headline topic">
+	Prince William </a> </li> </tm:contentobject> <li>
 			<a class="teaser-headline topic" href="http://www.mirror.co.uk/topics/">All Topics...</a></li> 
 			</ul>
 		
@@ -1452,6 +1472,8 @@ if (typeof tm.zones == 'undefined') {tm.zones = "";}
       </div><!-- end menu -->
 		</div><!-- end header -->
 		</div><div id="wrap-inner">
+	<div class="wrapper">
+	<div class="container">
 	<div class="corners-top-gray"></div>
 			
 			<div id="body-content">
@@ -1469,53 +1491,40 @@ if (typeof tm.zones == 'undefined') {tm.zones = "";}
 	<!-- xc:centre dirpath=/src/webroot/m4/priv_statement/index.cfm -->
 	<tm:container name="centre" path="/src/webroot/m4/priv_statement/index.cfm">
 					<tm:contentobject objectid="20646457" method="noformat" type="arbitraryhtml">
-				<div id="cookies">
-<h2>PRIVACY POLICY</h2>
-<h3>IN RELATION TO ALL WEB SITE SERVICES OFFERED BY MGN LIMITED ON THIS WEB SITE</h3>
+				<p><strong>PRIVACY POLICY</strong></p>
+<p><strong>IN RELATION TO ALL WEB SITE SERVICES OFFERED BY MGN LIMITED ON THIS WEB SITE</strong></p>
 <p>We are committed to: </p>
 <ul>
- <li> protecting the personal information you give us </li>
- <li> telling you how we use the information we gather about you </li>
- <li> getting your consent to our disclosure of your personal information.
- </li>
- </ul>
+ <li>protecting the personal information you give us </li>
+ <li>telling you how we use the information we gather about you </li>
+ <li>getting your consent to our disclosure of your personal information. </li>
+</ul>
 <p>Our privacy policy is set out in detail below. Any changes to this policy will be posted here. Please also refer to the Terms and Conditions of this web site. MGN Limited is part of Trinity Mirror Plc and when we refer to "we" in this policy we mean the activities of the Trinity Mirror Group. </p>
-<h3>WHY WE COLLECT INFORMATION ABOUT YOU </h3>
-<ul>
- <li> We want to offer you a service which you want to use. We may use information about you to help us customise our site to improve its usefulness to you. It can also help us to choose services we think will interest you. </li>
- <li>	Information about you helps us sell space to advertisers of products and services relevant to you so that we can continue to fund the site through advertising and you can continue to use the site for free. </li>
- <li>	In addition to the services we provide on this web site we want to offer you goods and services provided by us and others (with your consent) which are of interest to you. </li>
- <li>	We compile anonymous records of user trends which we may make use of ourselves, or pass to our associated companies or to unconnected parties. </li>
-</ul>
-<h3>
- WHAT INFORMATION DO WE COLLECT FROM YOU? </h3>
-<ul>
- <li>We may collect information from you when you fill in an online registration form for any of our web site services, (e.g., chat areas, your Profile page, forums, shopping, advisory services, competitions etc.). We may also collect information you give us over the telephone or in written or other communications. The type of information we will collect includes, for example, your name, mailing address, email address, telephone numbers, gender, preferences and, where relevant, financial, credit card or bank details. </li>
- <li>We collect information about your use of our sites' web site services through "cookies". For more information on "cookies" please see our <a href="http://www.mirror.co.uk/cookies/">Cookie Policy</a> which forms part of this Privacy Policy.
- </li>
- <li>Where it is lawful, we may monitor emails you send and receive. </li>
-</ul>
-<h3> YOUR CONSENT </h3>
-<ul>
- <li> We will not make use of your personal information for direct marketing activities, or supply this information to third parties for their direct marketing activities without your consent. When you give us any personal information we may want to use you will be given an opportunity to refuse consent for various uses of your information. </li>
- <li> If having given your consent you subsequently decide you no longer wish to receive direct marketing or information from us or our associated companies or no longer want us to pass your information to third parties, please notify us by email. </li>
-</ul>
-<h3> HOW WE ENSURE PRIVACY IS MAINTAINED </h3>
-<ul>
- <li> 	We endeavour to ensure that your data is stored securely and to prevent unauthorised access. We have security measures in place to protect your information which we monitor regularly. Unfortunately, despite our measures, because of the nature of the Internet, we cannot guarantee that your information will remain at all times 100% secure. The continuing efforts of hackers to defeat even the newest of security systems means that we can never make this promise. </li>
- <li> Please be aware that if you disclose information on chat areas, your Profile page, forums or other public services it may be possible for other people to use this information. We are not responsible for the disclosure of any information you post in this way. </li>
- <li> Our policy is to comply with the Data Protection Act 1998 and the Regulation of Investigatory Powers Act 2000 and all other legislation which governs the maintenance of privacy in your information. </li>
- <li> Our web site provides a number of links to web sites not operated by us or by companies associated with us. We take no responsibility for the use of any information about you which is collected as a result of your use of these web sites and this privacy policy does not extend to any web site operated by anybody other than us. </li>
-</ul>
-<h3> DISCLOSING YOUR INFORMATION TO THIRD PARTIES </h3>
-<ul>
- <li>The personal information you give us is only disclosed to other businesses if we have your permission. In particular, even where we have your consent we will only disclose your financial, credit card or bank details to our agents and/or third party suppliers of products or services on a need to know basis including, for example, in relation to the fulfilment of any e-commerce transactions. </li>
- <li>	We may disclose details about use of our web sites to other businesses e.g. to demonstrate patterns of use to advertisers and other business partners. The information we pass on will not include any personal information by which you may be identified. </li>
- <li>	We may forward your personal details to the Police or another regulatory body if we are asked to do so or wish to do so in order to comply with the law or in relation to any suspected misuse by you of our web site or any of our web site services. </li>
- <li>	We endeavour to prevent unauthorised disclosures of your personal information by other people, but we are not responsible for any unauthorised disclosures or other breaches of security or for the actions of others if the information was passed to them with your authority or with the authority of anybody other than us or our associated companies. </li>
- <li>	Our site(s) include applications, content and/or ads from third parties that may perform user activity tracking in addition to that described herein. </li>
-</ul>
-</div></tm:contentobject></tm:container>
+<p><strong>WHY WE COLLECT INFORMATION ABOUT YOU </strong></p>
+<p>We want to offer you a service which you want to use. We may use information about you to help us customise our site to improve its usefulness to you. It can also help us to choose services we think will interest you. </p>
+<p>Information about you helps us sell space to advertisers of products and services relevant to you so that we can continue to fund the site through advertising and you can continue to use the site for free. </p>
+<p>In addition to the services we provide on this web site we want to offer you goods and services provided by us and others (with your consent) which are of interest to you. </p>
+<p>We compile anonymous records of user trends which we may make use of ourselves, or pass to our associated companies or to unconnected parties. </p>
+<p><strong>WHAT INFORMATION DO WE COLLECT FROM YOU? </strong></p>
+<p>We may collect information from you when you fill in an online registration form for any of our web site services, (e.g., chat areas, your Profile page, forums, shopping, advisory services, competitions etc.). We may also collect information you give us over the telephone or in written or other communications. The type of information we will collect includes, for example, your name, mailing address, email address, telephone numbers, gender, preferences and, where relevant, financial, credit card or bank details. </p>
+<p>We collect information about your use of our sites' web site services through "cookies". For more information on "cookies" please see our Cookie Policy which forms part of this Privacy Policy. </p>
+<p>Where it is lawful, we may monitor emails you send and receive. </p>
+<p><strong>YOUR CONSENT </strong></p>
+<p>We will not make use of your personal information for direct marketing activities, or supply this information to third parties for their direct marketing activities without your consent. When you give us any personal information we may want to use you will be given an opportunity to refuse consent for various uses of your information. </p>
+<p>If having given your consent you subsequently decide you no longer wish to receive direct marketing or information from us or our associated companies or no longer want us to pass your information to third parties, please notify us by email. </p>
+<p><strong>HOW WE ENSURE PRIVACY IS MAINTAINED </strong></p>
+<p>We endeavour to ensure that your data is stored securely and to prevent unauthorised access. We have security measures in place to protect your information which we monitor regularly. Unfortunately, despite our measures, because of the nature of the Internet, we cannot guarantee that your information will remain at all times 100% secure. The continuing efforts of hackers to defeat even the newest of security systems means that we can never make this promise. </p>
+<p>Please be aware that if you disclose information on chat areas, your Profile page, forums or other public services it may be possible for other people to use this information. We are not responsible for the disclosure of any information you post in this way. </p>
+<p>Our policy is to comply with the Data Protection Act 1998 and the Regulation of Investigatory Powers Act 2000 and all other legislation which governs the maintenance of privacy in your information. </p>
+<p>Our web site provides a number of links to web sites not operated by us or by companies associated with us. We take no responsibility for the use of any information about you which is collected as a result of your use of these web sites and this privacy policy does not extend to any web site operated by anybody other than us. </p>
+<p><strong>DISCLOSING YOUR INFORMATION TO THIRD PARTIES </strong></p>
+<p>The personal information you give us is only disclosed to other businesses if we have your permission. In particular, even where we have your consent we will only disclose your financial, credit card or bank details to our agents and/or third party suppliers of products or services on a need to know basis including, for example, in relation to the fulfilment of any e-commerce transactions. </p>
+<p>We may disclose details about use of our web sites to other businesses e.g. to demonstrate patterns of use to advertisers and other business partners. The information we pass on will not include any personal information by which you may be identified. </p>
+<p>We may forward your personal details to the Police or another regulatory body if we are asked to do so or wish to do so in order to comply with the law or in relation to any suspected misuse by you of our web site or any of our web site services. </p>
+<p>We endeavour to prevent unauthorised disclosures of your personal information by other people, but we are not responsible for any unauthorised disclosures or other breaches of security or for the actions of others if the information was passed to them with your authority or with the authority of anybody other than us or our associated companies. </p>
+<p>Our site(s) include applications, content and/or ads from third parties that may perform user activity tracking in addition to that described herein. </p>
+<p>&nbsp;</p>
+<p>Advertisements on our site are provided by another organization. Our advertising partner will serve ads that it believes are most likely to be of interest to you, based on information about your visit to this and other websites (this information is anonymous in that it does not include your name, street address, e-mail address or telephone number). In order to do this, our advertising partner may need to place a cookie (a small text file) on your computer. For more information about this type of online behavioural advertising, about cookies, and about how to turn this features off, please visit <a href="http://www.youronlinechoices.co.uk">http://www.youronlinechoices.co.uk</a>.</p></tm:contentobject></tm:container>
 		</div></div><!-- close content-channel --><div id="content-sidebar">
 	<div class="col_content_right_top">
 	<!-- xc:col_content_right_top dirpath=/src/webroot/m4/priv_statement/index.cfm --><div class="ad0 ad-promobox3">
@@ -1536,11 +1545,13 @@ try {
 if (typeof dartOrd == 'undefined') dartOrd=Math.random()*10000000000000000000;
 if (typeof tm.zones == 'undefined') {tm.zones = "";}
 
+
 (function (x) { if (tm.defer) {tm.defer.defer(x); } else { document.write(x);}})('<scr' +
 	'ipt type="text/javascript" ' +
- 'src="http://ad.uk.doubleclick.net/adj/dailymirror.4240/' +
+ 'src="http://ad.uk.doubleclick.net/adj/mirror.5293/' +
  'priv_statement_promobox3_centre_145x145;sz=145x145;pos=centre;sect=priv_statement;psect=;zone=priv_statement;templ=index;oid=0' + tm.zones  +
- ';tile=24' +
+ ';tile=' + tm.nextTileValue() +
+ ';' + (typeof segQS != "undefined" ? segQS:"" ) +
  ';ord=' +
  dartOrd +
  ';' + vdnaDoubleClickUrlParams +
@@ -1552,9 +1563,9 @@ if (typeof tm.zones == 'undefined') {tm.zones = "";}
 
 				//]]></script>
 			<noscript>
-				<a href="http://ad.uk.doubleclick.net/jump/dailymirror.4240/priv_statement_promobox3_centre_145x145;sz=145x145;pos=centre;sect=priv_statement;psect=;zone=priv_statement;templ=index;tile=24;ord=704933089?" target="_blank">
+				<a href="http://ad.uk.doubleclick.net/jump/mirror.5293/priv_statement_promobox3_centre_145x145;sz=145x145;pos=centre;sect=priv_statement;psect=;zone=priv_statement;templ=index;tile=24;ord=820867701?" target="_blank">
 				<img
-					src="http://ad.uk.doubleclick.net/ad/dailymirror.4240/priv_statement_promobox3_centre_145x145;sz=145x145;pos=centre;sect=priv_statement;psect=;zone=priv_statement;templ=index;tile=24;ord=704933089?"
+					src="http://ad.uk.doubleclick.net/ad/mirror.5293/priv_statement_promobox3_centre_145x145;sz=145x145;pos=centre;sect=priv_statement;psect=;zone=priv_statement;templ=index;tile=24;ord=820867701?"
 					
 						width="145"
 						height="145"
@@ -1581,11 +1592,13 @@ try {
 if (typeof dartOrd == 'undefined') dartOrd=Math.random()*10000000000000000000;
 if (typeof tm.zones == 'undefined') {tm.zones = "";}
 
+
 (function (x) { if (tm.defer) {tm.defer.defer(x); } else { document.write(x);}})('<scr' +
 	'ipt type="text/javascript" ' +
- 'src="http://ad.uk.doubleclick.net/adj/dailymirror.4240/' +
+ 'src="http://ad.uk.doubleclick.net/adj/mirror.5293/' +
  'priv_statement_sky_right_120x600;sz=120x600;pos=right;sect=priv_statement;psect=;zone=priv_statement;templ=index;oid=0' + tm.zones  +
- ';tile=4' +
+ ';tile=' + tm.nextTileValue() +
+ ';' + (typeof segQS != "undefined" ? segQS:"" ) +
  ';ord=' +
  dartOrd +
  ';' + vdnaDoubleClickUrlParams +
@@ -1597,9 +1610,9 @@ if (typeof tm.zones == 'undefined') {tm.zones = "";}
 
 				//]]></script>
 			<noscript>
-				<a href="http://ad.uk.doubleclick.net/jump/dailymirror.4240/priv_statement_sky_right_120x600;sz=120x600;pos=right;sect=priv_statement;psect=;zone=priv_statement;templ=index;tile=4;ord=704933089?" target="_blank">
+				<a href="http://ad.uk.doubleclick.net/jump/mirror.5293/priv_statement_sky_right_120x600;sz=120x600;pos=right;sect=priv_statement;psect=;zone=priv_statement;templ=index;tile=4;ord=820867701?" target="_blank">
 				<img
-					src="http://ad.uk.doubleclick.net/ad/dailymirror.4240/priv_statement_sky_right_120x600;sz=120x600;pos=right;sect=priv_statement;psect=;zone=priv_statement;templ=index;tile=4;ord=704933089?"
+					src="http://ad.uk.doubleclick.net/ad/mirror.5293/priv_statement_sky_right_120x600;sz=120x600;pos=right;sect=priv_statement;psect=;zone=priv_statement;templ=index;tile=4;ord=820867701?"
 					
 						width="120"
 						height="600"
@@ -1611,57 +1624,12 @@ if (typeof tm.zones == 'undefined') {tm.zones = "";}
 		</div><!-- xc:col_content_right dirpath=/src/webroot/m4/priv_statement/index.cfm -->
 		</div>
 		</div>
-		</div><div id="sidebar" class="">
+		</div><div id="sidebar" class="sidebar ">
 	<!-- xc:col_right_sitewide dirpath=/src/webroot/m4/index.cfm -->
 	<div id="col_right_sitewide">
 				<tm:container name="col_right_sitewide" path="/src/webroot/m4/index.cfm">
 					<tm:contentobject objectid="21470612" method="noformat" type="arbitraryhtml">
-				<div style="margin:0px 0;"><a href="http://ad.doubleclick.net/clk;215963217;17837244;l?http://www.mirror.co.uk/mobile/"><img src="http://images.mirror.co.uk/upl/m4/jun2009/7/0/mirror-mobile-ad-362724839.gif" alt="Mirror Mobile"></a></div></tm:contentobject></tm:container></div><!-- xc:col_right_top dirpath=/src/webroot/m4/priv_statement/index.cfm --><div class="ad0 ad-promobox1">
-	<script type="text/javascript">//<![CDATA[
-
-(function (){
-var adWidth = '300',
-	adHeight = '60',
-	vdnaDoubleClickUrlParams = "vdna=0";
-
-try {
-	vdnaDoubleClickUrlParams = vdna.advertising.getRecommendedAdDoubleClickUrlParams(adWidth, adHeight);
-}catch (e){
-	// Discard errors.
-}
-
-
-if (typeof dartOrd == 'undefined') dartOrd=Math.random()*10000000000000000000;
-if (typeof tm.zones == 'undefined') {tm.zones = "";}
-
-(function (x) { if (tm.defer) {tm.defer.defer(x); } else { document.write(x);}})('<scr' +
-	'ipt type="text/javascript" ' +
- 'src="http://ad.uk.doubleclick.net/adj/dailymirror.4240/' +
- 'priv_statement_promobox1_centre_300x60;sz=300x60;pos=centre;sect=priv_statement;psect=;zone=priv_statement;templ=index;oid=0' + tm.zones  +
- ';tile=22' +
- ';ord=' +
- dartOrd +
- ';' + vdnaDoubleClickUrlParams +
- '?"><\/scr' +
- 'ipt>');
-
-
-}());
-
-				//]]></script>
-			<noscript>
-				<a href="http://ad.uk.doubleclick.net/jump/dailymirror.4240/priv_statement_promobox1_centre_300x60;sz=300x60;pos=centre;sect=priv_statement;psect=;zone=priv_statement;templ=index;tile=22;ord=704933089?" target="_blank">
-				<img
-					src="http://ad.uk.doubleclick.net/ad/dailymirror.4240/priv_statement_promobox1_centre_300x60;sz=300x60;pos=centre;sect=priv_statement;psect=;zone=priv_statement;templ=index;tile=22;ord=704933089?"
-					
-						width="300"
-						height="60"
-					
-					border="0"
-					alt="promobox1Advertisement" />
-				</a>
-			</noscript>
-		</div><div class="mpu-ad">
+				<div style="margin:0px 0;"><a href="http://ad.doubleclick.net/clk;215963217;17837244;l?http://www.mirror.co.uk/mobile/"><img src="http://images.mirror.co.uk/upl/m4/jun2009/7/0/mirror-mobile-ad-362724839.gif" alt="Mirror Mobile"></a></div></tm:contentobject></tm:container></div><!-- xc:col_right_top dirpath=/src/webroot/m4/priv_statement/index.cfm --><div class="mpu-ad">
 	<script type="text/javascript">//<![CDATA[
 
 (function (){
@@ -1679,11 +1647,13 @@ try {
 if (typeof dartOrd == 'undefined') dartOrd=Math.random()*10000000000000000000;
 if (typeof tm.zones == 'undefined') {tm.zones = "";}
 
+
 (function (x) { if (tm.defer) {tm.defer.defer(x); } else { document.write(x);}})('<scr' +
 	'ipt type="text/javascript" ' +
- 'src="http://ad.uk.doubleclick.net/adj/dailymirror.4240/' +
+ 'src="http://ad.uk.doubleclick.net/adj/mirror.5293/' +
  'priv_statement_mpu_centre_300x250;sz=300x250,300x600;pos=centre;sect=priv_statement;psect=;zone=priv_statement;templ=index;oid=0' + tm.zones  +
- ';tile=2' +
+ ';tile=' + tm.nextTileValue() +
+ ';' + (typeof segQS != "undefined" ? segQS:"" ) +
  ';ord=' +
  dartOrd +
  ';' + vdnaDoubleClickUrlParams +
@@ -1695,12 +1665,59 @@ if (typeof tm.zones == 'undefined') {tm.zones = "";}
 
 				//]]></script>
 			<noscript>
-				<a href="http://ad.uk.doubleclick.net/jump/dailymirror.4240/priv_statement_mpu_centre_300x250;sz=300x250,300x600;pos=centre;sect=priv_statement;psect=;zone=priv_statement;templ=index;tile=2;ord=704933089?" target="_blank">
+				<a href="http://ad.uk.doubleclick.net/jump/mirror.5293/priv_statement_mpu_centre_300x250;sz=300x250,300x600;pos=centre;sect=priv_statement;psect=;zone=priv_statement;templ=index;tile=2;ord=820867701?" target="_blank">
 				<img
-					src="http://ad.uk.doubleclick.net/ad/dailymirror.4240/priv_statement_mpu_centre_300x250;sz=300x250,300x600;pos=centre;sect=priv_statement;psect=;zone=priv_statement;templ=index;tile=2;ord=704933089?"
+					src="http://ad.uk.doubleclick.net/ad/mirror.5293/priv_statement_mpu_centre_300x250;sz=300x250,300x600;pos=centre;sect=priv_statement;psect=;zone=priv_statement;templ=index;tile=2;ord=820867701?"
 					
 					border="0"
 					alt="mpuAdvertisement" />
+				</a>
+			</noscript>
+		</div><div class="ad0 ad-promobox1">
+	<script type="text/javascript">//<![CDATA[
+
+(function (){
+var adWidth = '300',
+	adHeight = '60',
+	vdnaDoubleClickUrlParams = "vdna=0";
+
+try {
+	vdnaDoubleClickUrlParams = vdna.advertising.getRecommendedAdDoubleClickUrlParams(adWidth, adHeight);
+}catch (e){
+	// Discard errors.
+}
+
+
+if (typeof dartOrd == 'undefined') dartOrd=Math.random()*10000000000000000000;
+if (typeof tm.zones == 'undefined') {tm.zones = "";}
+
+
+(function (x) { if (tm.defer) {tm.defer.defer(x); } else { document.write(x);}})('<scr' +
+	'ipt type="text/javascript" ' +
+ 'src="http://ad.uk.doubleclick.net/adj/mirror.5293/' +
+ 'priv_statement_promobox1_centre_300x60;sz=300x60;pos=centre;sect=priv_statement;psect=;zone=priv_statement;templ=index;oid=0' + tm.zones  +
+ ';tile=' + tm.nextTileValue() +
+ ';' + (typeof segQS != "undefined" ? segQS:"" ) +
+ ';ord=' +
+ dartOrd +
+ ';' + vdnaDoubleClickUrlParams +
+ '?"><\/scr' +
+ 'ipt>');
+
+
+}());
+
+				//]]></script>
+			<noscript>
+				<a href="http://ad.uk.doubleclick.net/jump/mirror.5293/priv_statement_promobox1_centre_300x60;sz=300x60;pos=centre;sect=priv_statement;psect=;zone=priv_statement;templ=index;tile=22;ord=820867701?" target="_blank">
+				<img
+					src="http://ad.uk.doubleclick.net/ad/mirror.5293/priv_statement_promobox1_centre_300x60;sz=300x60;pos=centre;sect=priv_statement;psect=;zone=priv_statement;templ=index;tile=22;ord=820867701?"
+					
+						width="300"
+						height="60"
+					
+					border="0"
+					alt="promobox1Advertisement" />
 				</a>
 			</noscript>
 		</div><!-- xc:col_right_channel dirpath=/src/webroot/m4/priv_statement/index.cfm --><div class="ad0 ad-promobox2">
@@ -1721,11 +1738,13 @@ try {
 if (typeof dartOrd == 'undefined') dartOrd=Math.random()*10000000000000000000;
 if (typeof tm.zones == 'undefined') {tm.zones = "";}
 
+
 (function (x) { if (tm.defer) {tm.defer.defer(x); } else { document.write(x);}})('<scr' +
 	'ipt type="text/javascript" ' +
- 'src="http://ad.uk.doubleclick.net/adj/dailymirror.4240/' +
+ 'src="http://ad.uk.doubleclick.net/adj/mirror.5293/' +
  'priv_statement_promobox2_centre_300x48;sz=300x48;pos=centre;sect=priv_statement;psect=;zone=priv_statement;templ=index;oid=0' + tm.zones  +
- ';tile=23' +
+ ';tile=' + tm.nextTileValue() +
+ ';' + (typeof segQS != "undefined" ? segQS:"" ) +
  ';ord=' +
  dartOrd +
  ';' + vdnaDoubleClickUrlParams +
@@ -1737,9 +1756,9 @@ if (typeof tm.zones == 'undefined') {tm.zones = "";}
 
 				//]]></script>
 			<noscript>
-				<a href="http://ad.uk.doubleclick.net/jump/dailymirror.4240/priv_statement_promobox2_centre_300x48;sz=300x48;pos=centre;sect=priv_statement;psect=;zone=priv_statement;templ=index;tile=23;ord=704933089?" target="_blank">
+				<a href="http://ad.uk.doubleclick.net/jump/mirror.5293/priv_statement_promobox2_centre_300x48;sz=300x48;pos=centre;sect=priv_statement;psect=;zone=priv_statement;templ=index;tile=23;ord=820867701?" target="_blank">
 				<img
-					src="http://ad.uk.doubleclick.net/ad/dailymirror.4240/priv_statement_promobox2_centre_300x48;sz=300x48;pos=centre;sect=priv_statement;psect=;zone=priv_statement;templ=index;tile=23;ord=704933089?"
+					src="http://ad.uk.doubleclick.net/ad/mirror.5293/priv_statement_promobox2_centre_300x48;sz=300x48;pos=centre;sect=priv_statement;psect=;zone=priv_statement;templ=index;tile=23;ord=820867701?"
 					
 						width="300"
 						height="48"
@@ -1766,11 +1785,13 @@ try {
 if (typeof dartOrd == 'undefined') dartOrd=Math.random()*10000000000000000000;
 if (typeof tm.zones == 'undefined') {tm.zones = "";}
 
+
 (function (x) { if (tm.defer) {tm.defer.defer(x); } else { document.write(x);}})('<scr' +
 	'ipt type="text/javascript" ' +
- 'src="http://ad.uk.doubleclick.net/adj/dailymirror.4240/' +
+ 'src="http://ad.uk.doubleclick.net/adj/mirror.5293/' +
  'priv_statement_mputhree_centre_300x250;sz=300x250;pos=centre;sect=priv_statement;psect=;zone=priv_statement;templ=index;oid=0' + tm.zones  +
- ';tile=9' +
+ ';tile=' + tm.nextTileValue() +
+ ';' + (typeof segQS != "undefined" ? segQS:"" ) +
  ';ord=' +
  dartOrd +
  ';' + vdnaDoubleClickUrlParams +
@@ -1782,9 +1803,9 @@ if (typeof tm.zones == 'undefined') {tm.zones = "";}
 
 				//]]></script>
 			<noscript>
-				<a href="http://ad.uk.doubleclick.net/jump/dailymirror.4240/priv_statement_mputhree_centre_300x250;sz=300x250;pos=centre;sect=priv_statement;psect=;zone=priv_statement;templ=index;tile=9;ord=704933089?" target="_blank">
+				<a href="http://ad.uk.doubleclick.net/jump/mirror.5293/priv_statement_mputhree_centre_300x250;sz=300x250;pos=centre;sect=priv_statement;psect=;zone=priv_statement;templ=index;tile=9;ord=820867701?" target="_blank">
 				<img
-					src="http://ad.uk.doubleclick.net/ad/dailymirror.4240/priv_statement_mputhree_centre_300x250;sz=300x250;pos=centre;sect=priv_statement;psect=;zone=priv_statement;templ=index;tile=9;ord=704933089?"
+					src="http://ad.uk.doubleclick.net/ad/mirror.5293/priv_statement_mputhree_centre_300x250;sz=300x250;pos=centre;sect=priv_statement;psect=;zone=priv_statement;templ=index;tile=9;ord=820867701?"
 					
 						width="300"
 						height="250"
@@ -1797,7 +1818,9 @@ if (typeof tm.zones == 'undefined') {tm.zones = "";}
 		</div>		
 			</div> <!-- end body-content -->
 		
-			<div class="corners-bottom-gray"></div><div id="footer">
+			<div class="corners-bottom-gray"></div>
+		</div>
+		</div><div id="footer">
 	<div class="corners-top-gray"></div>
 	
 			<div class="corners-bottom-gray"></div><div class="footer-ad-leaderboard">
@@ -1819,11 +1842,13 @@ try {
 if (typeof dartOrd == 'undefined') dartOrd=Math.random()*10000000000000000000;
 if (typeof tm.zones == 'undefined') {tm.zones = "";}
 
+
 (function (x) { if (tm.defer) {tm.defer.defer(x); } else { document.write(x);}})('<scr' +
 	'ipt type="text/javascript" ' +
- 'src="http://ad.uk.doubleclick.net/adj/dailymirror.4240/' +
+ 'src="http://ad.uk.doubleclick.net/adj/mirror.5293/' +
  'priv_statement_leaderboard2_bottom_728x90;sz=728x90,468x60;pos=bottom;sect=priv_statement;psect=;zone=priv_statement;templ=index;oid=0' + tm.zones  +
- ';tile=10' +
+ ';tile=' + tm.nextTileValue() +
+ ';' + (typeof segQS != "undefined" ? segQS:"" ) +
  ';ord=' +
  dartOrd +
  ';' + vdnaDoubleClickUrlParams +
@@ -1835,9 +1860,9 @@ if (typeof tm.zones == 'undefined') {tm.zones = "";}
 
 				//]]></script>
 			<noscript>
-				<a href="http://ad.uk.doubleclick.net/jump/dailymirror.4240/priv_statement_leaderboard2_bottom_728x90;sz=728x90,468x60;pos=bottom;sect=priv_statement;psect=;zone=priv_statement;templ=index;tile=10;ord=704933089?" target="_blank">
+				<a href="http://ad.uk.doubleclick.net/jump/mirror.5293/priv_statement_leaderboard2_bottom_728x90;sz=728x90,468x60;pos=bottom;sect=priv_statement;psect=;zone=priv_statement;templ=index;tile=10;ord=820867701?" target="_blank">
 				<img
-					src="http://ad.uk.doubleclick.net/ad/dailymirror.4240/priv_statement_leaderboard2_bottom_728x90;sz=728x90,468x60;pos=bottom;sect=priv_statement;psect=;zone=priv_statement;templ=index;tile=10;ord=704933089?"
+					src="http://ad.uk.doubleclick.net/ad/mirror.5293/priv_statement_leaderboard2_bottom_728x90;sz=728x90,468x60;pos=bottom;sect=priv_statement;psect=;zone=priv_statement;templ=index;tile=10;ord=820867701?"
 					
 					border="0"
 					alt="leaderboard2Advertisement" />
@@ -1861,11 +1886,13 @@ try {
 if (typeof dartOrd == 'undefined') dartOrd=Math.random()*10000000000000000000;
 if (typeof tm.zones == 'undefined') {tm.zones = "";}
 
+
 (function (x) { if (tm.defer) {tm.defer.defer(x); } else { document.write(x);}})('<scr' +
 	'ipt type="text/javascript" ' +
- 'src="http://ad.uk.doubleclick.net/adj/dailymirror.4240/' +
+ 'src="http://ad.uk.doubleclick.net/adj/mirror.5293/' +
  'priv_statement_promobox4_centre_208x93;sz=208x93;pos=centre;sect=priv_statement;psect=;zone=priv_statement;templ=index;oid=0' + tm.zones  +
- ';tile=27' +
+ ';tile=' + tm.nextTileValue() +
+ ';' + (typeof segQS != "undefined" ? segQS:"" ) +
  ';ord=' +
  dartOrd +
  ';' + vdnaDoubleClickUrlParams +
@@ -1877,9 +1904,9 @@ if (typeof tm.zones == 'undefined') {tm.zones = "";}
 
 				//]]></script>
 			<noscript>
-				<a href="http://ad.uk.doubleclick.net/jump/dailymirror.4240/priv_statement_promobox4_centre_208x93;sz=208x93;pos=centre;sect=priv_statement;psect=;zone=priv_statement;templ=index;tile=27;ord=704933089?" target="_blank">
+				<a href="http://ad.uk.doubleclick.net/jump/mirror.5293/priv_statement_promobox4_centre_208x93;sz=208x93;pos=centre;sect=priv_statement;psect=;zone=priv_statement;templ=index;tile=27;ord=820867701?" target="_blank">
 				<img
-					src="http://ad.uk.doubleclick.net/ad/dailymirror.4240/priv_statement_promobox4_centre_208x93;sz=208x93;pos=centre;sect=priv_statement;psect=;zone=priv_statement;templ=index;tile=27;ord=704933089?"
+					src="http://ad.uk.doubleclick.net/ad/mirror.5293/priv_statement_promobox4_centre_208x93;sz=208x93;pos=centre;sect=priv_statement;psect=;zone=priv_statement;templ=index;tile=27;ord=820867701?"
 					
 						width="208"
 						height="93"
@@ -1892,64 +1919,7 @@ if (typeof tm.zones == 'undefined') {tm.zones = "";}
 		</div><div class="corners-top-gray"></div>
 			
 			<div id="footer-topics">
-		<!-- xc:footer-most-popular-topics dirpath=/src/webroot/m4/index.cfm -->
-	<div id="footer-most-popular-topics">
-				<tm:container name="footer-most-popular-topics" path="/src/webroot/m4/index.cfm"><div class="containerobj">
-					<tm:contentobject objectid="21096648" method="m4_site_topic_footer" type="list">
-				
-		<div id="list-21096648" class="hot-topics list">
-			
-				<ul>
-			
-				<li class="first">
-					
-						<strong>
-					Hot Topics 
-						</strong>
-					<span></span>
-				</li>
-			
-					<tm:contentobject objectid="21369900" method="m4_home_header" type="topic">
-				<li>
-	<a href="http://www.mirror.co.uk/topics/the-ashes/" class="teaser-headline topic">
-	The Ashes 
-	</a>
-	</li></tm:contentobject>
-					<tm:contentobject objectid="22734744" method="m4_home_header" type="topic">
-				<li> <a href="http://www.mirror.co.uk/topics/royal-wedding/" class="teaser-headline topic">
-	Royal Wedding </a> </li></tm:contentobject>
-					<tm:contentobject objectid="21481829" method="m4_home_header" type="topic">
-				<li>
-	<a href="http://www.mirror.co.uk/topics/the-x-factor/" class="teaser-headline topic">
-	The X Factor 
-	</a>
-	</li></tm:contentobject>
-					<tm:contentobject objectid="21492493" method="m4_home_header" type="topic">
-				<li>
-	<a href="http://www.mirror.co.uk/topics/cheryl-cole/" class="teaser-headline topic">
-	Cheryl Cole
-	</a>
-	</li></tm:contentobject>
-					<tm:contentobject objectid="22255175" method="m4_home_header" type="topic">
-				<li>
-	<a href="http://www.mirror.co.uk/topics/3am-co-uk/" class="teaser-headline topic">
-	3am.co.uk 
-	</a>
-	</li></tm:contentobject>
-					<tm:contentobject objectid="21321802" method="m4_home_header" type="topic">
-				<li> <a href="http://www.mirror.co.uk/topics/prince-william/" class="teaser-headline topic">
-	Prince William </a> </li></tm:contentobject>
-					<tm:contentobject objectid="21350047" method="m4_home_header" type="topic">
-				<li> <a href="http://www.mirror.co.uk/topics/kate-middleton/" class="teaser-headline topic">
-	Kate Middleton </a> </li></tm:contentobject>
-					<tm:contentobject objectid="21280614" method="m4_home_header" type="topic">
-				<li> <a href="http://www.mirror.co.uk/topics/kate-moss/" class="teaser-headline topic">
-	Kate Moss </a> </li></tm:contentobject> <li>
-			<a class="teaser-headline topic" href="http://www.mirror.co.uk/topics/">All Topics...</a></li> 
-			</ul>
-		
-		</div>
-	</tm:contentobject></div></tm:container></div>		
+		<!-- xc:footer-most-popular-topics dirpath=/src/webroot/m4/index.cfm -->		
 			</div> <!-- end footer-topics -->
 		
 			<div class="corners-bottom-gray"></div><div class="corners-top-gray"></div>
@@ -1968,13 +1938,19 @@ if (typeof tm.zones == 'undefined') {tm.zones = "";}
 					
 						<dd>
 					
+						<a class="level2" href="http://www.mirror.co.uk/advice/agony-aunt/">Agony Aunt</a>
+					
+						</dd>
+					
+						<dd>
+					
 						<a class="level2" href="http://www.mirror.co.uk/advice/cash-queens/">Cash Queens</a>
 					
 						</dd>
 					
 						<dd>
 					
-						<a class="level2" href="http://www.mirror.co.uk/advice/christmas/">Christmas</a>
+						<a class="level2" href="http://www.mirror.co.uk/advice/diarmuid-gavin-gardening-column/">Diarmuid Gavin</a>
 					
 						</dd>
 					
@@ -1992,13 +1968,13 @@ if (typeof tm.zones == 'undefined') {tm.zones = "";}
 					
 						<dd>
 					
-						<a class="level2" href="http://www.mirror.co.uk/advice/homes/">Homes</a>
+						<a class="level2" href="http://www.mirror.co.uk/advice/jobs/">Get Britain Working</a>
 					
 						</dd>
 					
 						<dd>
 					
-						<a class="level2" href="http://www.mirror.co.uk/advice/jobs/">Jobs</a>
+						<a class="level2" href="http://www.mirror.co.uk/advice/homes/">Homes</a>
 					
 						</dd>
 					
@@ -2016,19 +1992,7 @@ if (typeof tm.zones == 'undefined') {tm.zones = "";}
 					
 						<dd>
 					
-						<a class="level2" href="http://www.mirror.co.uk/advice/mobility/">Mobility</a>
-					
-						</dd>
-					
-						<dd>
-					
 						<a class="level2" href="http://www.mirror.co.uk/advice/money/">Money</a>
-					
-						</dd>
-					
-						<dd>
-					
-						<a class="level2" href="http://www.mirror.co.uk/advice/money-saving-tips/">Money Saving Tips</a>
 					
 						</dd>
 					
@@ -2055,37 +2019,31 @@ if (typeof tm.zones == 'undefined') {tm.zones = "";}
 					
 						<dd>
 					
+						<a class="level2" href="http://www.mirror.co.uk/celebs/britain-s-got-talent/">Britain's Got Talent</a>
+					
+						</dd>
+					
+						<dd>
+					
 						<a class="level2" href="http://www.mirror.co.uk/celebs/news/">Celebs News</a>
 					
 						</dd>
 					
 						<dd>
 					
-						<a class="level2" href="http://www.mirror.co.uk/celebs/celebs-on-sunday/">Celebs On Sunday</a>
+						<a class="level2" href="http://www.mirror.co.uk/celebs/coleen-nolan/">Coleen Nolan</a>
+					
+						</dd>
+					
+						<dd>
+					
+						<a class="level2" href="http://www.mirror.co.uk/celebs/dean-piper/">Dean Piper</a>
 					
 						</dd>
 					
 						<dd>
 					
 						<a class="level2" href="http://www.mirror.co.uk/celebs/film/">Film</a>
-					
-						</dd>
-					
-						<dd>
-					
-						<a class="level2" href="http://www.mirror.co.uk/celebs/im-a-celebrity/">I'm A Celebrity</a>
-					
-						</dd>
-					
-						<dd>
-					
-						<a class="level2" href="http://www.mirror.co.uk/celebs/latest/">Latest</a>
-					
-						</dd>
-					
-						<dd>
-					
-						<a class="level2" href="http://www.mirror.co.uk/celebs/mirror-tickets/">Mirror Tickets</a>
 					
 						</dd>
 					
@@ -2103,19 +2061,19 @@ if (typeof tm.zones == 'undefined') {tm.zones = "";}
 					
 						<dd>
 					
-						<a class="level2" href="http://www.mirror.co.uk/celebs/pictures/">Pictures</a>
+						<a class="level2" href="http://www.mirror.co.uk/celebs/music-tickets/">Music Tickets</a>
 					
 						</dd>
 					
 						<dd>
 					
-						<a class="level2" href="http://www.mirror.co.uk/celebs/strictly-come-dancing/">Strictly Come Dancing</a>
+						<a class="level2" href="http://www.mirror.co.uk/celebs/nadia-sawalha/">Nadia Sawalha</a>
 					
 						</dd>
 					
 						<dd>
 					
-						<a class="level2" href="http://www.mirror.co.uk/celebs/topics/">Topics</a>
+						<a class="level2" href="http://www.mirror.co.uk/celebs/tess-daly/">Tess Daly</a>
 					
 						</dd>
 					
@@ -2128,12 +2086,6 @@ if (typeof tm.zones == 'undefined') {tm.zones = "";}
 						<dd>
 					
 						<a class="level2" href="http://www.mirror.co.uk/celebs/video/">Video</a>
-					
-						</dd>
-					
-						<dd>
-					
-						<a class="level2" href="http://www.mirror.co.uk/celebs/x-factor/">X Factor</a>
 					
 						</dd>
 					
@@ -2190,7 +2142,7 @@ if (typeof tm.zones == 'undefined') {tm.zones = "";}
 					
 						<dd>
 					
-						<a class="level2" href="http://www.mirror.co.uk/fun-games/scratchcards/">Scratchcards</a>
+						<a class="level2" href="http://www.mirror.co.uk/fun-games/simons-cat/">Simon's Cat</a>
 					
 						</dd>
 					
@@ -2217,7 +2169,19 @@ if (typeof tm.zones == 'undefined') {tm.zones = "";}
 					
 						<dd>
 					
+						<a class="level2" href="http://www.mirror.co.uk/life-style/beauty/">Beauty</a>
+					
+						</dd>
+					
+						<dd>
+					
 						<a class="level2" href="http://www.mirror.co.uk/life-style/cashback-shopping/">Cashback</a>
+					
+						</dd>
+					
+						<dd>
+					
+						<a class="level2" href="http://www.mirror.co.uk/life-style/coleen-nolan/">Coleen Nolan</a>
 					
 						</dd>
 					
@@ -2248,6 +2212,18 @@ if (typeof tm.zones == 'undefined') {tm.zones = "";}
 						<dd>
 					
 						<a class="level2" href="http://www.mirror.co.uk/life-style/horoscopes/">Horoscopes</a>
+					
+						</dd>
+					
+						<dd>
+					
+						<a class="level2" href="http://www.mirror.co.uk/life-style/jeff-brazier-family-talk/">Jeff Brazier</a>
+					
+						</dd>
+					
+						<dd>
+					
+						<a class="level2" href="http://www.mirror.co.uk/life-style/karen-barber/">Karen Barber</a>
 					
 						</dd>
 					
@@ -2322,6 +2298,12 @@ if (typeof tm.zones == 'undefined') {tm.zones = "";}
 					
 						<dd>
 					
+						<a class="level2" href="http://www.mirror.co.uk/news/london-2012-olympic-games/">London 2012</a>
+					
+						</dd>
+					
+						<dd>
+					
 						<a class="level2" href="http://www.mirror.co.uk/news/mobile/">Mobile</a>
 					
 						</dd>
@@ -2352,7 +2334,19 @@ if (typeof tm.zones == 'undefined') {tm.zones = "";}
 					
 						<dd>
 					
+						<a class="level2" href="http://www.mirror.co.uk/news/scottish-news/">Scottish News</a>
+					
+						</dd>
+					
+						<dd>
+					
 						<a class="level2" href="http://www.mirror.co.uk/news/technology/">Technology</a>
+					
+						</dd>
+					
+						<dd>
+					
+						<a class="level2" href="http://www.mirror.co.uk/news/the-big-lunch/">The Big Lunch</a>
 					
 						</dd>
 					
@@ -2377,12 +2371,6 @@ if (typeof tm.zones == 'undefined') {tm.zones = "";}
 						<dd>
 					
 						<a class="level2" href="http://www.mirror.co.uk/news/weird-world/">Weird World</a>
-					
-						</dd>
-					
-						<dd>
-					
-						<a class="level2" href="http://www.mirror.co.uk/news/world-cup/">World Cup</a>
 					
 						</dd>
 					
@@ -2442,6 +2430,12 @@ if (typeof tm.zones == 'undefined') {tm.zones = "";}
 					
 						<dd>
 					
+						<a class="level2" href="http://www.mirror.co.uk/sport/british-superbikes/">British Superbikes</a>
+					
+						</dd>
+					
+						<dd>
+					
 						<a class="level2" href="http://www.mirror.co.uk/sport/columnists/">Columnists</a>
 					
 						</dd>
@@ -2455,6 +2449,12 @@ if (typeof tm.zones == 'undefined') {tm.zones = "";}
 						<dd>
 					
 						<a class="level2" href="http://www.mirror.co.uk/sport/cycling-blog/">Cycling Blog</a>
+					
+						</dd>
+					
+						<dd>
+					
+						<a class="level2" href="http://www.mirror.co.uk/sport/darts/">Darts</a>
 					
 						</dd>
 					
@@ -2479,18 +2479,6 @@ if (typeof tm.zones == 'undefined') {tm.zones = "";}
 						<dd>
 					
 						<a class="level2" href="http://www.mirror.co.uk/sport/fourth-down-blog/">Fourth Down Blog</a>
-					
-						</dd>
-					
-						<dd>
-					
-						<a class="level2" href="http://www.mirror.co.uk/sport/golf/">Golf</a>
-					
-						</dd>
-					
-						<dd>
-					
-						<a class="level2" href="http://www.mirror.co.uk/sport/mirror-tickets/">Mirror Tickets</a>
 					
 						</dd>
 					
@@ -2532,7 +2520,13 @@ if (typeof tm.zones == 'undefined') {tm.zones = "";}
 					
 						<dd>
 					
-						<a class="level2" href="http://www.mirror.co.uk/sport/top-10s/">Top 10s</a>
+						<a class="level2" href="http://www.mirror.co.uk/sport/sports-tickets/">Sports Tickets</a>
+					
+						</dd>
+					
+						<dd>
+					
+						<a class="level2" href="http://www.mirror.co.uk/sport/tennis/">Tennis</a>
 					
 						</dd>
 					
@@ -2610,8 +2604,9 @@ if (typeof tm.zones == 'undefined') {tm.zones = "";}
 	</ul>
 	<ul>
 	<li class="first"><a title="About Us" href="http://www.mirror.co.uk/about-the-mirror/about-us/">About Us</a></li>
+<li><a title="Advertising" href="http://www.mirrorgroup.co.uk/?page_id=344">Advertising</a></li>
 	<li><a title="Contact Us" href="http://www.mirror.co.uk/about-the-mirror/contact-us/">Contact Us</a></li>
-	<li><a title="Sell Your Story" href="http://www.mirror.co.uk/sell-your-story/">Sell Your Story</a></li>
+	<li><a title="Sell Your Story" href="http://www.mirror.co.uk/got-a-story/">Sell Your Story</a></li>
 	<li><a title="Cookie Policy" href="http://www.mirror.co.uk/cookies/">Cookie Policy</a></li>
 	<li><a title="For the Record" href="http://www.mirror.co.uk/about-the-mirror/for-the-record/">For the record</a></li>
 	<li><a title="Privacy Statement" href="http://www.mirror.co.uk/priv_statement">Privacy Statement</a></li>
