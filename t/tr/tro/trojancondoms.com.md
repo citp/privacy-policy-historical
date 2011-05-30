@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trojancondoms.com privacy policy that was archived on 2008-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080607032415id_/http%3A//www.trojancondoms.com/Resources/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trojancondoms.com privacy policy that was archived on 2011-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110530061106id_/http%3A//www.trojancondoms.com/Resources/Privacy.aspx) for the most accurate reproduction.*
 
 # Trojancondoms.com - Privacy Policy
 
