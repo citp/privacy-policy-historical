@@ -1,12 +1,9 @@
-> *The following text is extracted and transformed from the inboxdollars.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226072847id_/http%3A//inboxdollars.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inboxdollars.com privacy policy that was archived on 2011-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110530173719id_/http%3A//www.inboxdollars.com/pages/privacy) for the most accurate reproduction.*
 
 # InboxDollars® - Earn Cash for E-Mail, Surveys, Games, and More!
 
-### Members Login
+  
 
-### Not a Member?
-
-[](https://web.archive.org/members/signup)
 
   1. ## INFORMATION COLLECTION
 
@@ -102,5 +99,11 @@ Mendota Heights, MN 55120
 
 
 
-© Copyright 2000–2010     InboxDollars®     All Rights Reserved  
+  
+
+
+|   
+---|---  
+  
+© Copyright 2000–2011     InboxDollars®     All Rights Reserved  
 InboxDollars® is part of: [CotterWeb Enterprises, Inc.](http://www.cotterweb.net/)
