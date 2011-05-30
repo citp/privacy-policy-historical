@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the immortalnight.com privacy policy that was archived on 2010-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100804004842id_/http%3A//www.immortalnight.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the immortalnight.com privacy policy that was archived on 2011-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110530043802id_/http%3A//www.immortalnight.com/privacy-policy.php) for the most accurate reproduction.*
 
 # 
 
