@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thetrumpet.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230003427id_/http%3A//www.thetrumpet.com/index.php%3Fpage%3Dhelp%26q%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetrumpet.com privacy policy that was archived on 2011-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110530163405id_/http%3A//www.thetrumpet.com/%3Fpage%3Dhelp%26q%3Dprivacy) for the most accurate reproduction.*
 
 # Help | Privacy Policy | theTrumpet.com by the Philadelphia Church of God
 
@@ -32,4 +32,4 @@ The PCG may provide links to Third Party sites for the purpose of enhancing the 
 
 Usage Agreement
 
-Using this site signifies your agreement to terms and conditions of this Privacy Statement. The PCG reserves the right to change this policy at any time. Questions or comments can be sent to [info@pcog.org](mailto:info@pcog.org). 
+Using this site signifies your agreement to terms and conditions of this Privacy Statement. The PCG reserves the right to change this policy at any time. Questions or comments can be sent to [info@pcog.org](https://web.archive.org/web/20110530163405id_/http%3A//www.thetrumpet.com/contact/vasb+cpbt+bet). 
