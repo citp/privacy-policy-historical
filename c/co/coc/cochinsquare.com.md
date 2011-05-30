@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cochinsquare.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130075035id_/http%3A//www.cochinsquare.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cochinsquare.com privacy policy that was archived on 2011-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110531003949id_/http%3A//www.cochinsquare.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Kochi Cochin News
 
@@ -14,7 +14,7 @@ When you register with the Site, we may ask for information not limited to your 
 
 ### Personal Information and its usage
 
-**We may use your Personal Information to:**
+ **We may use your Personal Information to:**
 
   * send you, from time to time, updates or news regarding the Site;
   * respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims;
