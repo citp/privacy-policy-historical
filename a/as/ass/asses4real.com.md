@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asses4real.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102003629id_/http%3A//nerdpass.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asses4real.com privacy policy that was archived on 2011-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110531010202id_/http%3A//www.nerdpass.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
