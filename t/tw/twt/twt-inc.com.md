@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twt-inc.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231231305id_/http%3A//www.turnkeywebtools.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twt-inc.com privacy policy that was archived on 2011-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110530100851id_/http%3A//www.turnkeywebtools.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -14,9 +14,9 @@ E-mail: support@turnkeywebtools.com
 
 Mailing Address:  
 Turnkey Web Tools, Inc.  
-41197 Golden Gate Cir.  
-Suite 101  
-Murrieta, CA 92562  
+11622 El Camino Real  
+Suite 100  
+San Diego, CA 92127  
 USA
 
 **What Information Do We Collect?**
