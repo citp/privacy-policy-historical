@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the natureasia.com privacy policy that was archived on 2010-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101112135358id_/http%3A//www.natureasia.com/en/information/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the natureasia.com privacy policy that was archived on 2011-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110530232159id_/http%3A//www.natureasia.com/en/information/privacy.php) for the most accurate reproduction.*
 
 # NPG Nature Asia-Pacific : Privacy Policy
 
