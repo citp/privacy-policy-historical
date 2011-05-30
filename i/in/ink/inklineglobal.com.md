@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inklineglobal.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123195505id_/http%3A//inklineglobal.com/support/sales_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inklineglobal.com privacy policy that was archived on 2011-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110530070910id_/http%3A//www.inklineglobal.com/support/sales_privacy.html) for the most accurate reproduction.*
 
 # inKline Global, Inc. | Privacy Policy
 
