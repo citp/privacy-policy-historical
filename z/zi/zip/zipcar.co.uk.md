@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zipcar.co.uk privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129174755id_/http%3A//zipcar.co.uk/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zipcar.co.uk privacy policy that was archived on 2011-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110530135611id_/http%3A//zipcar.co.uk/site/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – Zipcar
 
