@@ -1,1211 +1,496 @@
-<!--The following is the downloaded HTML source of the thomson.com privacy policy that was archived on 2008-04-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080401061414id_/http%3A//www.thomson.com/content/footer/privacy_statement) for the most accurate reproduction.-->
-
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
-
-
-	<title>Thomson - Privacy Statement</title>
-    <link rel="stylesheet" type="text/css" href="/css/thomson_main.css">
-    <link rel="stylesheet" type="text/css" href="/css/thomson_corp.css">
-
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <script language="javascript" src="/js/layerdisplay.js"></script>
-    <script language="javascript">
-    
-    // for the left nav and home page nav images    
-    var navImgList = new Array(); 
-    var navList;
-    
-    
-    var section = 'corp';
-    var subsection = 'home';
-    
-    function searchSubmit(formObj){
-	//<!--CR 282 - Anand 09/14/2005 -->
-	var newUrl = 'http://www.searchlearning.thomson.com/search?q=' + formObj.queryText.value + '&site=tl_col&btnG=Go&as_q=&sort=date%3AD%3AL%3Ad1&output=xml_no_dtd&ie=UTF-8&oe=UTF-8&client=default_frontend&proxystylesheet=default_frontend';
-	//<!--CR 282 - Anand 09/14/2005 -->
-	var selectedOption = formObj.search_area[formObj.search_area.selectedIndex].value;
-	//if thomson.com is selected search the entire site
-	if(selectedOption == "thomson"){
-		formObj.allAreas.value="on";
-		formObj.financial.value="on";
-		formObj.healthcare.value="on";
-		//formObj.learning.value="on";
-		formObj.legal.value="on";
-		formObj.scientific.value="on";
-		formObj.taxAndAccounting.value="on";
-		formObj.prSearch.value="off";
-	}
-	else if (selectedOption == "financial"){
-		formObj.financial.value="on";
-		formObj.pressReleases.value="on";
-	}else if (selectedOption == "healthcare"){
-		formObj.healthcare.value="on";
-		formObj.pressReleases.value="on";
-	}else if (selectedOption == "legal"){
-		formObj.legal.value="on";
-		formObj.pressReleases.value="on";
-	}else if (selectedOption == "scientific"){
-		formObj.scientific.value="on";
-		formObj.pressReleases.value="on";
-	}else if (selectedOption == "taxacct"){
-		formObj.taxAndAccounting.value="on";
-		formObj.pressReleases.value="on";
-	}
-	//<!--CR 282 - Anand 09/14/2005 -->
-	//if (selectedOption == "learning"){
-	//	return false;
-	//}
-	//<!--CR 282 - Anand 09/14/2005 -->
-    }
-    function openwin(url, w, h, s) {
-			winstyle = 'top=50,left=50,width='+w+',height='+h;
-			if (s == 'scroll') {
-				winstyle = winstyle + ',scrollbars=yes';
-			}
-			window.open(url,'', winstyle);
-		}
-		
-    function redirect(form)
-        {
-            newPage = form.options[form.selectedIndex].value;
-            if (newPage != "")
-                window.top.location.href = newPage;
-        }
-
-  function openwindow(txt)
-	{
-	window.open(txt,"my_new_window","toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=no, resizable=no, copyhistory=no,width=520,height=500")
-	}
-
-	</script>	
-</head>
-
-
-<body marginheight="0" marginwidth="0" topmargin="0" leftmargin="0" bgcolor="#ffffff" onload="preloadImages()">
-<a name="top"></a>
-
-
- 
-
-<!-- 1207030235068 -->
-
-	
-		 	
-				
-			
-			
-				
-			
-			
-		 
-
-	
-		 	
-				
-			
-			
-				
-			
-			
-		 
-
-	
-		 	
-				
-			
-			
-				
-			
-			
-		 
-
-	
-		 
-
-	
-		 
-
-	
-		 	
-				
-			
-			
-				
-			
-			
-		 
-
-	
-		 	
-				
-			
-			
-				
-			
-			
-		 
-
-
-
-
-
-<script language="javascript">
-
-function newImage(arg) {
-	if (document.images) {
-		rslt = new Image();
-		rslt.src = arg;
-		return rslt;
-	}
-}
-
-function changeImages() {
-	//document.write("test");
-	//if (document.images && (preloadFlag == true)) {
-	//	if(changeImages.arguments[2] != subsection){
-			document[changeImages.arguments[0]].src = changeImages.arguments[1];
-	//	}
-		
-	//}
-}
-
-var preloadFlag = false;
-function preloadImages() {
-
-	if (document.images) {
-			
-			
-			
-			
-				about_over = newImage("/images/topnav/header_2005_03-over.gif");
-			
-			
-			
-				solutions_over = newImage("/images/topnav/header_2005_04-over.gif");
-			
-			
-			
-				pr_over = newImage("/images/topnav/header_2005_05-over.gif");
-			
-			
-			
-				investor_relations_over = newImage("/images/topnav/header_2005_06-over.gif");
-			
-			
-			
-				careers_over = newImage("/images/topnav/header_2005_07-over.gif");
-			
-			
-			
-				
-		preloadFlag = true;
-	}
-
-}
-
-    function navImg(path, pathrollover)
-    {
-        this.states = new Array();
-        this.states["on"] = new Image(); this.states["on"].src = path;
-        this.states["off"] = new Image(); this.states["off"].src = pathrollover;
-        this.states["on_over"] = this.states["on"];
-        this.states["off_over"] = this.states["on"];
-    }
-    
-    var basePath;
-
-    	var dropdownState = "hide";
-	var timerID;
-	function toggleDropdown(state)
-	{
-	
-		dropdownState = state;
-		if (state == "show")
-		{
-			changeImages('header_2005_02', '/images/topnav/header_2005_04-over.gif', 'solutions')
-			timerID = setInterval(displayDropdown,1500);
-		} 
-		else if (state == "hide")
-			changeImages('header_2005_02', '/images/topnav/header_2005_04.gif', 'solutions');
-	
-	}
-	
-    function displayDropdown()
-    {
-        MM_showHideLayers('topNavDropdown','',dropdownState);
-		if (dropdownState == "hide")
-			clearInterval(timerID);
-    }
-	
-    basePath = "/images/topnav/dropdown_";
-    var dropdownImgList = new Array();     
-    dropdownList = ["financial","healthcare","legal","scientific","taxacct"];
-    dropdownListImg = ["/images/topnav/dropdown_financial_off.gif","/images/topnav/1155","/images/topnav/1173","/images/topnav/1180","/images/topnav/1187"];
-    dropdownListOverImg = ["/images/topnav/1151","/images/topnav/1158","/images/topnav/1176","/images/topnav/1183","/images/topnav/1190"];
-    
-    for (var i = 0; i < dropdownList.length; i++)
-    {
-        dropdownImgList[dropdownList[i]] = new navImg(dropdownListImg[i], dropdownListOverImg[i]);
-    }
-    
-    
-    // preloading images for the dropdown    
-    function changeDropdownImage()
-    {  
-    	if (document.images)
-    	{
-    		for (var i=0; i < changeDropdownImage.arguments.length; i+=2)
-    		{      
-			//try{
-			
-		       document[changeDropdownImage.arguments[i]].src = dropdownImgList[changeDropdownImage.arguments[i]].states[changeDropdownImage.arguments[i+1]].src;
-		       //} catch (e) {
-		       	//alert('ERROR :: ' + e + i);
-				//alert('i :: ' + changeDropdownImage.arguments[i]);
-				//alert('i+1 :: ' + changeDropdownImage.arguments[i+1]);
-		       //}
-    		}  
-    	}
-    }
-
-
-</script>
-
-<div id="navBar" class="navBarContainer" align="center">
-
-<table width="762" height="21" border="0" cellpadding="0" cellspacing="0">
-	<tbody><tr><td height="1" colspan="11" class="bg_c"><img vspace="0" src="/images/s.gif" hspace="0" height="1" border="0" alt=""></td></tr>
-	<tr>
-		<td class="bg_c"><img width="1" vspace="0" src="/images/s.gif" hspace="0" height="0" border="0" alt=""></td>
-		<td>
-			<img src="/images/header_2005_01.gif" width="255" height="21" alt=""></td>
-		
-		
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-				
-			
-				
-			
-			
-				
-			
-
-			
-			
-			
-	
-				 	
-		<td>
-			<a href="/" onmouseover="changeImages('header_2005_00', '/images/topnav/header_2005_02-over.gif', '/'); return true;" onmouseout="changeImages('header_2005_00', '/images/topnav/header_2005_02.gif', '/'); return true;" onmousedown="changeImages('header_2005_00', '/images/topnav/header_2005_02-over.gif', '/'); return true;" onmouseup="changeImages('header_2005_00', '/images/topnav/header_2005_02-over.gif', '/'); return true;">
-				<img name="header_2005_00" src="/images/topnav/header_2005_02.gif" border="0" alt="Thomson"></a></td>
-
-
-				
-		
-			
-		
-			
-			
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-				
-			
-				
-			
-			
-				
-			
-
-			
-			
-			
-	
-				 	
-		<td>
-			<a href="/about/" onmouseover="changeImages('header_2005_01', '/images/topnav/header_2005_03-over.gif', 'about'); return true;" onmouseout="changeImages('header_2005_01', '/images/topnav/header_2005_03.gif', 'about'); return true;" onmousedown="changeImages('header_2005_01', '/images/topnav/header_2005_03-over.gif', 'about'); return true;" onmouseup="changeImages('header_2005_01', '/images/topnav/header_2005_03-over.gif', 'about'); return true;">
-				<img name="header_2005_01" src="/images/topnav/header_2005_03.gif" border="0" alt="About Us"></a></td>
-
-	
-			
-		
-			
-			
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-				
-			
-				
-			
-			
-				
-			
-
-			
-			
-			
-	
-				
-			<td>
-			<a href="/solutions/" onmouseover="changeImages('header_2005_02', '/images/topnav/header_2005_04-over.gif', 'solutions'); toggleDropdown('show'); MM_showHideLayers('topNavDropdown','','show'); return true;" onmouseout="changeImages('header_2005_02', '/images/topnav/header_2005_04.gif', 'products'); toggleDropdown('hide'); return true;" onmousedown="changeImages('header_2005_02', '/images/topnav/header_2005_04-over.gif', 'products'); toggleDropdown('show'); MM_showHideLayers('topNavDropdown','','show');  return true;" onmouseup="changeImages('header_2005_02', '/images/topnav/header_2005_04-over.gif', 'products'); toggleDropdown('hide');  return true;">
-				<img name="header_2005_02" src="/images/topnav/header_2005_04.gif" border="0" alt="Products &amp; Solutions"></a></td>
-			
-				
-			
-		
-			
-			
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-				
-			
-				
-			
-			
-				
-			
-
-			
-			
-			
-	
-				 	
-		<td>
-			<a href="/pr/" onmouseover="changeImages('header_2005_03', '/images/topnav/header_2005_05-over.gif', 'pr'); return true;" onmouseout="changeImages('header_2005_03', '/images/topnav/header_2005_05.gif', 'pr'); return true;" onmousedown="changeImages('header_2005_03', '/images/topnav/header_2005_05-over.gif', 'pr'); return true;" onmouseup="changeImages('header_2005_03', '/images/topnav/header_2005_05-over.gif', 'pr'); return true;">
-				<img name="header_2005_03" src="/images/topnav/header_2005_05.gif" border="0" alt="Press Room"></a></td>
-
-	
-			
-		
-			
-			
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-				
-			
-				
-			
-			
-				
-			
-
-			
-			
-			
-	
-				 	
-		<td>
-			<a href="/investor_relations/" onmouseover="changeImages('header_2005_04', '/images/topnav/header_2005_06-over.gif', 'investor_relations'); return true;" onmouseout="changeImages('header_2005_04', '/images/topnav/header_2005_06.gif', 'investor_relations'); return true;" onmousedown="changeImages('header_2005_04', '/images/topnav/header_2005_06-over.gif', 'investor_relations'); return true;" onmouseup="changeImages('header_2005_04', '/images/topnav/header_2005_06-over.gif', 'investor_relations'); return true;">
-				<img name="header_2005_04" src="/images/topnav/header_2005_06.gif" border="0" alt="Investor Relations"></a></td>
-
-	
-			
-		
-			
-			
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-				
-			
-				
-			
-			
-				
-			
-
-			
-			
-			
-	
-				 	
-		<td>
-			<a href="http://www.thomsoncareers.com/ " onmouseover="changeImages('header_2005_05', '/images/topnav/header_2005_07-over.gif', 'careers'); return true;" onmouseout="changeImages('header_2005_05', '/images/topnav/header_2005_07.gif', 'careers'); return true;" onmousedown="changeImages('header_2005_05', '/images/topnav/header_2005_07-over.gif', 'careers'); return true;" onmouseup="changeImages('header_2005_05', '/images/topnav/header_2005_07-over.gif', 'careers'); return true;">
-				<img name="header_2005_05" src="/images/topnav/header_2005_07.gif" border="0" alt="Careers"></a></td>
-
-	
-			
-		
-			
-		
-	</tr>
-</tbody></table>
-
-
-
-
-	<div id="topNavDropdown" class="topNavDropdownHome">
-		<table width="104" border="0" cellpadding="0" cellspacing="0" onmouseover="toggleDropdown('show');" onmouseout="toggleDropdown('hide');">
-		
-			
-			
-			<tbody><tr>
-				
-			    <td><a href="/solutions/financial/" onmouseover="toggleDropdown('show');changeDropdownImage('financial','off');" onmouseout="changeDropdownImage('financial','on');toggleDropdown('hide');">
-			    	<img src="/images/topnav/dropdown_financial_off.gif" width="104" height="14" alt="Financial" name="financial" border="0"></a></td>
-			</tr>
-			
-			
-			
-			
-			<tr>
-				
-			    <td><a href="/solutions/healthcare/" onmouseover="toggleDropdown('show');changeDropdownImage('healthcare','off');" onmouseout="changeDropdownImage('healthcare','on');toggleDropdown('hide');">
-			    	<img src="/images/topnav/1155" width="104" height="14" alt="Healthcare" name="healthcare" border="0"></a></td>
-			</tr>
-			
-			
-			
-			
-			<tr>
-				
-			    <td><a href="/solutions/legal/" onmouseover="toggleDropdown('show');changeDropdownImage('legal','off');" onmouseout="changeDropdownImage('legal','on');toggleDropdown('hide');">
-			    	<img src="/images/topnav/1173" width="104" height="14" alt="Legal" name="legal" border="0"></a></td>
-			</tr>
-			
-			
-			
-			
-			
-			
-			
-			
-			<tr>
-				
-			    <td><a href="/solutions/scientific/" onmouseover="toggleDropdown('show');changeDropdownImage('scientific','off');" onmouseout="changeDropdownImage('scientific','on');toggleDropdown('hide');">
-			    	<img src="/images/topnav/1180" width="104" height="14" alt="Scientific" name="scientific" border="0"></a></td>
-			</tr>
-			
-			
-			
-			
-			<tr>
-				
-			    <td><a href="/solutions/taxacct/" onmouseover="toggleDropdown('show');changeDropdownImage('taxacct','off');" onmouseout="changeDropdownImage('taxacct','on');toggleDropdown('hide');">
-			    	<img src="/images/topnav/1187" width="104" height="14" alt="Tax &amp; Accounting" name="taxacct" border="0"></a></td>
-			</tr>
-			
-			
-		</tbody></table>
+<!--The following is the downloaded HTML source of the thomson.com privacy policy that was archived on 2011-05-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110530052840id_/http%3A//thomsonreuters.com/privacy_policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html><head>
+		<!-- HTML Header -->	
+<title>Privacy Policy - Thomson Reuters</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="content-language" content="en">
+<meta name="author" content="Thomson Reuters">
+<meta name="description" content="
+This Privacy Statement relates solely to the online information collection and use practices of our Web site located at www.thomsonreuters.com (this " web="" site"),="" and="" not="" to="" any="" subdomains="" of="" this..."="">
+<meta name="gsadate" content="Wed Dec 08 10:40:05 CST 2010">
+<link rel="canonical" href="http://thomsonreuters.com/privacy_policy/">
+		<meta name="robots" content="NOODP">
+<meta name="creator" content="Thomson Reuters - http://thomsonreuters.com/">
+<link rel="shortcut icon" type="image/ico" href="/favicon.ico">
+<link rel="apple-touch-icon" href="/page/images/tr_logo_ipad_flat.png">
+	 <link href="http://thomsonreuters.com/css/corpStyle.css?rand=1306732881321" rel="stylesheet" media="screen, projection, print" type="text/css">
+	<link href="http://thomsonreuters.com/page/css/global/basic.css?view=Standard&amp;rand=1306732881321" rel="stylesheet" media="screen, projection, print" type="text/css">
+	<link href="http://thomsonreuters.com/page/css/global/fontFace.css?view=Standard&amp;rand=1306732881321" rel="stylesheet" media="screen, projection, print" type="text/css">
+<script type="text/javascript" async="" src="https://web.archive.org/web/20120404172524/https://ssl.google-analytics.com/ga.js"></script><script src="/js/jquery.plugins.js" type="text/javascript" charset="utf-8"></script>      
+<script src="/js/swfobject.js" type="text/javascript" charset="utf-8"></script>
+<script src="/js/global.js" type="text/javascript" charset="utf-8"></script>
+<script src="/js/tr.js" type="text/javascript" charset="utf-8"></script>
+<script src="/js/date.js" type="text/javascript" charset="utf-8"></script>
+<script src="/js/googleAnalytics.js" type="text/javascript" charset="utf-8"></script>
+	</head>
+	<body><div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" style="padding-bottom: 0px; padding-right: 0px; display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxLoadedContent" style="width: 0px; height: 0px;" class=""></div><div id="cboxLoadingOverlay" class=""></div><div id="cboxLoadingGraphic" class=""></div><div id="cboxTitle" class=""></div><div id="cboxCurrent" class=""></div><div id="cboxNext" class=""></div><div id="cboxPrevious" class=""></div><div id="cboxSlideshow" class=""></div><div id="cboxClose" class=""></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position:absolute; width:9999px; visibility:hidden; display:none"></div></div>
+		<ul id="skip"> 
+	        <li><a href="#top-nav">Skip to global navigation</a></li>
+	        <li><a href="#left-navigation">Skip to secondary navigation</a></li>
+	        <li><a href="#holder-r">Skip to main content</a></li>     
+	    </ul>
+		<div id="main">
+			<div id="header">
+				<!-- Global Header -->	
+<div id="header-top">
+	  <div id="logo">
+	  	  <h1>
+		  	<a href="http://thomsonreuters.com/">
+<img src="http://thomsonreuters.com/page/images/trlogo.jpg" alt="Thomson Reuters Logo" title="Thomson Reuters Logo">
+		  	</a>
+		  </h1>
+	  </div>
+	<div id="header-holder">
+<ul id="header-utils">
+    <li class="language-item">
+        <ul class="dropdown-menu" id="languageSelector">
+            <li class="head-link"><span>English</span>
+                <ul>
+                    <li class="first"><a href="#"><span></span>English</a></li>
+                            <li class="zh-CN" style="display: none;"><a href="#" rel="zh-CN"><span>zh-CN</span></a></li>
+                            <li class="de-DE" style="display: none;"><a href="#" rel="de-DE"><span>de-DE</span></a></li>
+                            <li class="fr-FR" style="display: none;"><a href="#" rel="fr-FR"><span>fr-FR</span></a></li>
+                            <li class="ja-JP"><a href="#" rel="ja-JP"><span>ja-JP</span>日本語</a></li>
+                </ul>
+            </li>
+        </ul>
+    </li>
+    <li class="contact-item" style="padding-left: 0px; border-left: none;"><span>|</span> <a href="/about/contact_us/">Contact Us</a></li>
+</ul>
+	  <form method="get" action="http://search.thomsonreuters.com/search" id="search">
+		<input class="text" type="text" value="Search" name="q" id="searchfield">
+		<input type="image" alt="Search" src="http://thomsonreuters.com/page/images/search-icon.gif">
+		<input type="hidden" value="all" name="chbx">
+		<input type="hidden" value="tr_all" id="site" name="site">
+		<input type="hidden" value="trcom_global_en" id="client" name="client">
+		<input type="hidden" value="trcom_global_en" id="proxystylesheet" name="proxystylesheet">
+		<input type="hidden" value="p" name="filter">
+		<input type="hidden" value="*" name="getfields">
+		<input type="hidden" value="xml_no_dtd" id="output" name="output">
+		<input type="hidden" value="20" name="num">									
+	  </form>
 	</div>
-
-
-
-
-<table width="760" border="0" cellpadding="0" cellspacing="0">
-    <tbody><tr>		
-        <td width="254" align="center"><a href="/"><img src="/images/misc/logo_thomson.gif" width="174" height="45" alt="The Thomson Corporation" border="0"></a></td>   
-        <td width="388" align="right" valign="middle">	
-	<!--CR 282 - Anand 09/14/2005 -->
-	<!--<form action="/search/executeSearchQuery.do" method="GET" onSubmit="searchSubmit(this);">-->	
-	<form name="smplSearchForm" action="/search/SearchQuery.do" method="GET" onsubmit="return searchSubmit(this);">
-	<!--CR 282 - Anand 09/14/2005 -->
-	<input type="text" name="queryText" value="Search" onfocus="if(this.value=='Search')this.value='';">
-			 in 
-	<select name="search_area">
-		<option value="thomson" selected="">Thomson.com</option>
-		<option value="financial">Financial</option>
-		<option value="healthcare">Healthcare</option>
-		<option value="legal">Legal</option>
-		<option value="scientific">Scientific</option>
-		<option value="taxacct">Tax &amp; Accounting</option>
-	</select>
+</div>
+						<!-- Global Naviation -->	
+    <div class="headerNav">
+      <ul id="top-nav" class="nav" style="position: relative; left: 0px;">
+        <li class="first"><a href="http://thomsonreuters.com/">
+Home
+          </a></li>
+            <li class=""> 
+				    	<a href="http://thomsonreuters.com/products_services/">
+Products &amp; Services
+				        </a> 
+                <div class="shadow-border-container summary" style="width: 1324px; display: none;">
+                  <div class="shadow-border-left"></div>
+                  <div class="shadow-border-middle">
+                    <ul>
+                          <li class="first"> <a href="http://thomsonreuters.com/products_services/financial/">
+<img src="http://thomsonreuters.com/content/corporate/images/135x90/ps_landing/ps_financial.jpg?view=Standard" alt="financial" title="financial">
+                            <span class="title">
+Financial
+                            </span> <span class="content">
+                            Comprehensive information solutions for financial market professionals.
+                            </span> </a> 
+                          </li>
+                          <li> <a href="http://thomsonreuters.com/products_services/healthcare/">
+<img src="http://thomsonreuters.com/content/corporate/images/135x90/ps_landing/ps_healthcare.jpg?view=Standard" alt="healthcare" title="healthcare">
+                            <span class="title">
+Healthcare
+                            </span> <span class="content">
+                            Critical information for managing the cost and quality of healthcare.
+                            </span> </a> 
+                          </li>
+                          <li> <a href="http://thomsonreuters.com/products_services/legal/">
+<img src="http://thomsonreuters.com/content/corporate/images/135x90/ps_landing/ps_legal_135x90.jpg?view=Standard" alt="legal" title="legal">
+                            <span class="title">
+Legal
+                            </span> <span class="content">
+                            Legal, compliance, intellectual property and government solutions.
+                            </span> </a> 
+                          </li>
+                          <li> <a href="http://thomsonreuters.com/products_services/media/">
+<img src="http://thomsonreuters.com/content/corporate/images/135x90/ps_landing/ps_media.jpg?view=Standard" alt="media" title="media">
+                            <span class="title">
+Media
+                            </span> <span class="content">
+                            Indispensable news and information for media and business professionals.
+                            </span> </a> 
+                          </li>
+                          <li> <a href="http://thomsonreuters.com/products_services/science/">
+<img src="http://thomsonreuters.com/content/corporate/images/135x90/ps_landing/ps_science.jpg?view=Standard" alt="science" title="science">
+                            <span class="title">
+Science
+                            </span> <span class="content">
+                            Expertise for accelerating research, scientific discovery and innovation.
+                            </span> </a> 
+                          </li>
+                          <li> <a href="http://thomsonreuters.com/products_services/taxacct/">
+<img src="http://thomsonreuters.com/content/corporate/images/135x90/ps_landing/ps_taxacct.jpg?view=Standard" alt="tax_accounting" title="tax_accounting">
+                            <span class="title">
+Tax &amp; Accounting
+                            </span> <span class="content">
+                            Leading solutions for accounting, tax and corporate finance professionals.
+                            </span> </a> 
+                          </li>
+                    </ul>
+                  </div>
+                  <div class="shadow-border-right"></div>
+                </div>
+            </li>
+            <li class=""> 
+				    	<a href="http://thomsonreuters.com/news_ideas/">
+News &amp; Ideas
+				        </a> 
+                <div class="shadow-border-container feature" style="height: 133px; width: 1324px; display: none;">
+                  <div class="shadow-border-left"></div>
+                  <div class="shadow-border-middle">
+                    <div class="subnav-container"> 
+				     <div class="subnav-list">
+	                      <ul>
+	                            	<li class="first">
+										    	<a href="http://thomsonreuters.com/news_ideas/press_releases/">
+Press Releases
+										        </a> 
+									</li>
+	                            	<li>
+										    	<a href="http://thomsonreuters.com/news_ideas/media_contacts/">
+Media Contacts
+										        </a> 
+									</li>
+	                            	<li>
+										    	<a href="http://thomsonreuters.com/news_ideas/articles/">
+Articles
+										        </a> 
+									</li>
+	                            	<li>
+										    	<a href="http://thomsonreuters.com/news_ideas/case_studies/">
+Case Studies
+										        </a> 
+									</li>
+	                            	<li>
+										    	<a href="http://thomsonreuters.com/news_ideas/white_papers/">
+White Papers
+										        </a> 
+									</li>
+	                            	<li>
+										    	<a href="http://thomsonreuters.com/news_ideas/in_the_news/">
+In The News
+										        </a> 
+									</li>
+	                      </ul>
+                      </div>
+                      <div class="subnav-content"> 
+	                      <div class="subnav-border"> 
+			                         <a href="http://blog.thomsonreuters.com/">
+<img src="http://thomsonreuters.com/content/news_ideas/featured/articles/corporate/384263?view=Standard" alt="blog" title="blog">
+				                         <span class="title">
+				                         </span> 
+				                         <span class="subtitle">
+				                         	Join the Conversation, Get Inspired, Share Your Story
+				                         </span> 
+				                         <span class="content">
+				                        	 Visit our new Knowledge Effect Blog.
+				                         </span> 
+			                         </a> 
+				          </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="shadow-border-right"></div>
+                </div>
+            </li>
+            <li class=""> 
+				    	<a href="http://thomsonreuters.com/investor_relations/">
+Investor Relations
+				        </a> 
+                <div class="shadow-border-container list" style="height: 7px; width: 1324px; display: none;">
+                  <div class="shadow-border-left"></div>
+                  <div class="shadow-border-middle">
+                    <div class="subnav-container">
+                      <ul style="width: 1310px;">
+                      </ul>
+                    </div>
+                  </div>
+                  <div class="shadow-border-right"></div>
+                </div>
+            </li>
+            <li class=""> 
+				    	<a href="http://thomsonreuters.com/about/">
+About Us
+				        </a> 
+                <div class="shadow-border-container feature" style="height: 205px; width: 1324px; display: none;">
+                  <div class="shadow-border-left"></div>
+                  <div class="shadow-border-middle">
+                    <div class="subnav-container"> 
+				     <div class="subnav-list">
+	                      <ul>
+	                            	<li class="first">
+										    	<a href="http://thomsonreuters.com/about/exec_team/">
+Executive Team
+										        </a> 
+									</li>
+	                            	<li>
+										    	<a href="http://thomsonreuters.com/about/board_of_directors/">
+Board of Directors
+										        </a> 
+									</li>
+	                            	<li>
+										    	<a href="http://thomsonreuters.com/about/company_history/">
+Company History
+										        </a> 
+									</li>
+	                            	<li>
+										    	<a href="http://thomsonreuters.com/about/sponsorships/">
+Sponsorships
+										        </a> 
+									</li>
+	                            	<li>
+										    	<a href="http://thomsonreuters.com/about/trust_principles/">
+The Trust Principles
+										        </a> 
+									</li>
+	                            	<li>
+										    	<a href="http://thomsonreuters.com/about/awards_recognition/">
+Awards &amp; Recognition
+										        </a> 
+									</li>
+	                            	<li>
+										    	<a href="http://thomsonreuters.com/about/corporate_responsibility/">
+Corporate Responsibility
+										        </a> 
+									</li>
+	                            	<li>
+										    	<a href="http://thomsonreuters.com/about/locations/">
+Locations
+										        </a> 
+									</li>
+	                            	<li>
+										    	<a href="http://thomsonreuters.com/about/our_websites/">
+Our Websites
+										        </a> 
+									</li>
+	                            	<li>
+										    	<a href="http://thomsonreuters.com/about/contact_us/">
+Contact Us
+										        </a> 
+									</li>
+	                      </ul>
+                      </div>
+                      <div class="subnav-content"> 
+	                      <div class="subnav-border"> 
+<img title="" alt="aboutusmegamenu" src="http://thomsonreuters.com/content/corporate/images/25375/ar_2010.jpg" width="220" height="146" style="float: left"><a title="The 2010 Thomson Reuters Annual Report" href="http://ar.thomsonreuters.com/">
+	<span class="title">The 2010 Thomson Reuters Annual Report</span>
+	<span class="subtitle">A digital, multimedia, interactive document offering a unique - and rich - view into the past year.</span></a>
+<span class="content">&nbsp;</span>
+				          </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="shadow-border-right"></div>
+                </div>
+            </li>
+            <li class=""> 
+				    	<a class="external-off" rel="0" href="http://careers.thomsonreuters.com" target="_top">
+Careers
+				        </a>
+                <div class="shadow-border-container list" style="height: 7px; width: 1324px; display: none;">
+                  <div class="shadow-border-left"></div>
+                  <div class="shadow-border-middle">
+                    <div class="subnav-container">
+                      <ul style="width: 1310px;">
+                      </ul>
+                    </div>
+                  </div>
+                  <div class="shadow-border-right"></div>
+                </div>
+            </li>
+      </ul>
+    </div>
+			</div>
+			<div id="content">
+				<!-- Breadcrumb -->
+<div id="breadcrumb">
+		<ul>
+				<li class="first"><a href="http://thomsonreuters.com/">
+Home</a></li>
+					<li style="text-transform: none;">
+Privacy Policy</li>
+		</ul>
 		
-
-	 
-		<input type="image" src="/images/buttons/bu_go.gif" width="16" height="14" alt="Go" align="absmiddle" border="0">
-	
-		<!-- DO NOT DELETE CODE BELOW   For Omniture correlated variables -->
-
-			<input type="hidden" name="section" value="corp">
- 			
- 			
- 			<input type="hidden" name="subsection" value="">
- 			<input type="hidden" name="ternary" value="">
- 			
-
-			
-			<input type="hidden" name="allAreas" value="off">
-		    <input type="hidden" name="legal" value="off">
-            <input type="hidden" name="taxAndAccounting" value="off">
-            <input type="hidden" name="pressReleases" value="off">
-			<input type="hidden" name="financial" value="off">
-            <input type="hidden" name="healthcare" value="off">
-            <input type="hidden" name="scientific" value="off">
-			<input type="hidden" name="prSearch" value="off">
-
-
-
-            <!----------------------------Please Don't touch the Code Above  ------------------------->
-
-
-		</form></td>
-        <td width="120" valign="middle">
-            <img src="/images/s.gif" width="10" height="1" alt="" border="0"><a href="/?view=Search+results&amp;section=corp&amp;success=false">Advanced Search</a>
-        </td>
-    </tr>
-	
-    
-</tbody></table>
-
-
-
-       	
-
-  
-
-<table width="760" border="0" cellpadding="0" cellspacing="0" class="bg_topnav">
-    <tbody><tr>
-        <td class="bg_9" colspan="2"><img src="/images/s.gif" width="760" height="1" alt="" border="0"></td>
-    </tr>
-    <tr>
-    	
-		
-		
-        <td width="178"><a href="/content/"><img src="/images/sections/corp/top_nav/topnav_content.gif" width="178" height="20" alt="" border="0"></a></td>
-		
-        <td width="582"><img src="/images/s.gif" width="582" height="1" alt="" border="0"></td>
-    </tr>
-    <tr>
-        <td class="bg_9" colspan="2"><img src="/images/s.gif" width="760" height="1" alt="" border="0"></td>
-    </tr>
-</tbody></table>
-       
-        
-
-
-
-
-
-<!-- 1207030452748 -->
-
-<table border="0" cellpadding="0" cellspacing="0" width="760">
-    <tbody><tr>
-        
-        <td width="10"><img src="/images/s.gif" width="10" height="1" alt="" border="0"></td>
-        <td width="164" valign="top">
-            <img src="/images/s.gif" width="1" height="8" alt="" border="0"><br>
-            <!--  Begin Leftnav -->
-
- 
-
-<table width="164" border="0" cellpadding="0" cellspacing="0">
-	<tbody><tr>
-		<td>
-		
-			
-				<div id="navcontainer">
-				
-				
-				
-				<ul id="navlist">
-				
-					
-					
-				    	<li><a href="/about/">About Us</a></li>
-					
-				
-					
-					
-				    	<li><a href="/solutions/">Products &amp; Solutions</a></li>
-					
-				
-					
-					
-				    	<li><a href="/pr/">Press Room</a></li>
-					
-				
-					
-					
-				    	<li><a href="/investor_relations/">Investor Relations</a></li>
-					
-				
-					
-					
-				    	<li><a href="http://www.thomsoncareers.com/ ">Careers</a></li>
-					
-				
-				 
-					</ul>
-				
-                 </div>
-				
-							
-			
-
-		</td>
-	</tr>
-      
-        
-
-</tbody></table>
-
-<!-- End leftnav -->
-        </td>
-        <td width="4"><img src="/images/s.gif" width="4" height="1" alt="" border="0"></td>
-        
-        <td width="388" valign="top">
-			
-            
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-			<table width="388" cellspacing="0" cellpadding="0" border="0">
-				<tbody><tr>
-					<td width="1" rowspan="3" class="bg_c"><img width="1" src="/images/s.gif" height="1" border="0" alt=""></td>
-					<td width="13" rowspan="3"><img width="13" src="/images/s.gif" height="8" border="0" alt=""></td>
-					<td width="373"><img width="373" src="/images/s.gif" height="8" border="0" alt=""></td>
-					<td width="1" rowspan="3" class="bg_c"><img width="1" src="/images/s.gif" height="1" border="0" alt=""></td>
-				</tr>
-				<tr>
-					<td>
-						<span class="breadcrumb">
-            				<a href="/">Thomson</a> : 
-            			<br><br>
-       					</span>
-					</td>
-				</tr>
-				<tr>
-					<td>
-					   
-						
-
-
-
-   
-	
-	    <img vspace="0" hspace="0" border="0" src="/images/corporate/page_headers/smhd_cp_privacy.gif">
-	  		<img width="1" src="/images/s.gif" height="1" border="0" alt="">
- 	<br>
-	
-
-						
-						
-			            
-						
-						
-						
-							
+</div>
+				<!-- LeftNav -->
+				<div id="holder-l">
+<div class="title">
+</div>
+      <ul id="left-navigation" style="display: none;">
+        </ul>
+
+
+<h1 class="hidden">Privacy Policy</h1>
+				</div>
+				<div id="holder-r">
+					<div class="title"><h1>Privacy Policy</h1></div>
+							<!-- Middle Column -->
+							<div id="l-cont">
 								
-									<p>This Privacy Statement relates solely to the online information collection and use practices of our Web site located at www.thomson.com (this "Web Site"), and not to any subdomains of this Web Site. We recognize that many visitors and users of this Web Site are concerned about the information they provide to us, and how we treat that information. This Privacy Statement, which may be updated from time to time, has been developed to address those concerns.</p><p>Your use of this Web Site indicates to us that you have read and accept our privacy practices, as outlined in this Privacy Statement. If you have any questions or concerns regarding this Privacy Statement, please contact: <a href="mailto:generalinfo@thomson.com">generalinfo@thomson.com</a>.</p><br><p><span class="subHead">WHAT INFORMATION ABOUT YOU DO WE COLLECT?</span> </p><p>When you visit our Web Site, you may provide us with two types of information: (1) personally identifiable information that you knowingly choose to disclose, which is collected on an individual basis, and (2) general user information that does not contain personally identifiable information, which is collected on an aggregate basis as you browse the Web Site. In some cases, if you choose not to provide us with requested information, you may not be able to access all of our Web Site's content or services.</p><table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="20"><img height="1" alt="" src="http://tmsqa.thomson.com:7001/images/s.gif" width="20" border="0"> </td><td><p><strong>Personally Identifiable Information You Choose to Provide.</strong> </p><p>We may ask for certain personal information from you for the purpose of providing to you content and/or services that you request. For example, if you indicate an interest in receiving press releases about The Thomson Corporation, you are asked to submit your name and e-mail address, which we retain on file, so that we may send you the information that you requested. If you indicate on our E-mail Alert registration form that you are a member of the press, we may also send you information regarding our business. We also request your name and e-mail address each time you contact us by clicking on the "Contact Us" link. We may retain a record of users who have contacted us in order to respond properly to questions or concerns and for purposes of future communications.</p><p><strong>Non-Personally Identifiable Information We Collect.</strong> </p><p>Cookies/ Web server logs: Similar to other commercial Web sites, our Web Site utilizes standard technology called "cookies" and Web server logs to collect information about how our Web Site is used. Cookies are a feature of Web browser software that allows Web servers to recognize the computer used to access a Web site. Cookies are small pieces of data that are stored by a user's Web browser on the user's hard drive. Information gathered through cookies and Web server logs may include the date and time of visits, the pages viewed, time spent at our Web Site, and the Web sites visited just before and just after our Web Site. This information is collected on an aggregate basis. None of this information is associated with you as an individual.</p><p>You can, of course, disable cookies on your computer by indicating this in the preferences or options menus in your browser. However, it is possible that some parts of our Web Site will not operate correctly if you disable cookies. You should consult with your browser's provider/manufacturer if you have any questions regarding disabling cookies.</p></td></tr></tbody></table><br><p><span class="subHead">HOW DO WE USE THE INFORMATION WE COLLECT?</span> </p><p>We use your personally identifiable information to provide you with the information or content that you have requested, and, in some cases, to contact you about our programs, products, features or services. If you no longer wish to receive press releases or any other type of information from us, you may send us an email through our "Contact Us" link or use our E-mail Alert form to change your preferences.</p><p>We use non-identifying information collected on our Web Site in the aggregate to better understand your use of the Web Site and to enhance your enjoyment and experience. For example, we may use the information to improve the design and content of our Web Site or to analyze the programs and services that we offer.</p><p>We may employ other companies and individuals to perform functions on our behalf. Our employees, agents and contractors who have access to personally identifiable information are required to protect the information in a manner that is consistent with this Privacy Statement.</p><p>We may provide access to your personally identifiable information when legally required to do so, to cooperate with police investigations or other legal proceedings, to protect against misuse or unauthorized use of our Web Site, to limit our legal liability and protect our rights, or to protect the rights and safety of visitors to this Web Site or the public. In those instances, the information is provided only for that limited purpose.</p><p>We will not share your personally identifiable information in ways unrelated to those described above without providing you with an opportunity to opt out of such use or otherwise prohibit such unrelated uses.</p><br><p><span class="subHead">HOW DO YOU ACCESS AND/OR MODIFY YOUR INFORMATION OR CHOICES?</span> </p><p>If you visit our Web Site and volunteer personally identifiable information, you may modify, update or delete such information at any time by visiting the E-mail Alert area where you will have the opportunity to access and revise certain of your personally identifiable information, and to update your preferences regarding what information you want to receive from us, or by clicking on the "Contact Us" link and sending us an e-mail. You should be aware, however, that it is not always possible to completely remove or modify information in our databases. In addition, please be aware that your ability to opt out from receiving marketing and promotional materials does not change our right to contact you regarding your use of our Web Site.</p><br><p><span class="subHead">PRIVACY PROTECTIONS FOR CHILDREN USING THE INTERNET</span> </p><p>Protecting children's privacy is important to us. For that reason, we do not collect or maintain information on our Web Site from those we actually know are under the age of 13, nor is any part of our Web Site targeted to attract anyone under 13. We request that all visitors to our Web Site who are under 13 not disclose or provide any personally identifiable information. If we discover that a child under 13 has provided us with personally identifiable information, we will delete that child's personally identifiable information from our records.</p><br><p><span class="subHead">DATA SECURITY</span> </p><p>We take reasonable steps to maintain the security of the personally identifiable information that we collect, including limiting the number of people who have physical access to our database servers, as well as installing electronic security systems that guard against unauthorized access. However, no data transmission over the Internet can be guaranteed to be completely secure. Accordingly, we cannot ensure or warrant the security of any information that you transmit to us, so you do so at your own risk.</p><br><p><span class="subHead">CONSENT TO TRANSFER</span> </p><p>This Web Site is operated in the United States. If you are located outside of the United States, please be aware that any information you provide to us will be transferred to the United States. By using our Web Site, participating in any of our services and/or providing us with your information, you consent to this transfer.</p><p><span class="subHead">LINKS</span> </p><p>This Web Site contains links to third party sites as well as to other sites owned and/or operated by The Thomson Corporation. Please be aware that The Thomson Corporation is not responsible for the privacy practices of any third party sites. Please also be aware that the privacy policies of other Thomson sites may differ significantly from the privacy policy of this Web Site. Therefore, we encourage our users to read the privacy statement of each and every Web site that collects personally identifiable information. This Privacy Statement applies solely to information collected by this Web Site.</p>
-								
-							<br>
-							<img width="1" src="/images/s.gif" height="10" border="0" alt=""><br>
-						
-					</td>
-				</tr>
-				
-			
-			
-						
-			
-			
-
-			</tbody></table>
-				<img src="/images/sections/corp/msc_page_anchor.gif" width="388" height="19" alt="" border="0">
-		
-			
-        </td>
-        <td width="4"><img src="/images/s.gif" width="4" height="1" alt="" border="0"></td>
-        
-        <td width="190" valign="top"><img src="/images/s.gif" width="1" height="8" alt="" border="0"><br>
-			
-           	
-
-
-
-
-			
-        </td>
-    </tr>
-</tbody></table>            
-
-
-
-
-<br><br>
-
-<!-- 1207030003335 -->
-<table width="760" border="0" cellpadding="0" cellspacing="0">
-    <tbody><tr>
-        <td width="175" class="bg_9" colspan="3"><img src="/images/s.gif" width="175" height="1" border="0" alt=""></td>
-        <td width="585" colspan="2"><img src="/images/s.gif" width="585" height="1" border="0" alt=""></td>        
-    </tr>
-    <tr>
-        <td width="10" rowspan="3"><img src="/images/s.gif" width="10" height="1" border="0" alt=""></td>
-        <td width="164" class="footerGrey" rowspan="3" valign="top">
-			<img src="/images/s.gif" width="164" height="5" border="0" alt=""><br>
-            
-
-
-
-
-   
-   <a href="/content/footer/privacy_statement">Privacy Statement</a>
-
-   
-     |
-  
-   <a href="/content/footer/terms_of_use1">Terms of Use</a>
-
-   
-     |
-  
-   <a href="/content/footer/copyright_notices">Copyright Notices</a>
-
-
-
-
-
-
-        </td>
-        <td width="1" class="bg_9" rowspan="2"><img src="/images/s.gif" width="1" height="15" border="0" alt=""></td>
-        <td width="585" colspan="2"><img src="/images/s.gif" width="585" height="14" border="0" alt=""></td>        
-    </tr>
-    <tr>
-        <td width="585" class="bg_9" colspan="2"><img src="/images/s.gif" width="585" height="1" border="0" alt=""></td>
-    </tr>
-    <tr>
-        <td><img src="/images/s.gif" width="1" height="15" border="0" alt=""></td>
-		<td><img src="/images/s.gif" width="15" height="1" border="0" alt=""></td>
-        <td align="left" class="footer">
-            <img src="/images/s.gif" width="569" height="5" border="0" alt=""><br>
-            
-<a href="/">Home</a>
-
-
- | <a href="/sitemap/">Site Map</a>
- 
-
-
- | <a href="/about/">About Us</a>
- 
-
-
- | <a href="/solutions/">Products &amp; Solutions</a>
- 
-
-
- | <a href="/pr/">Press Room</a>
- 
-
-
- | <a href="/investor_relations/">Investor Relations</a>
- 
-
-
- | <a href="http://www.thomsoncareers.com/ ">Careers</a>
- 
-
-
- | <a href="/contact/">Contact Us</a>
- 
-
-<br>
-
-
-
-
-<a href="/solutions/financial/">Financial</a>
-
-
-
-
-	|
-
-<a href="/solutions/healthcare/">Healthcare</a>
-
-
-
-
-	|
-
-<a href="/solutions/legal/">Legal</a>
-
-
-
-
-
-
-
-
-	|
-
-<a href="/solutions/scientific/">Scientific</a>
-
-
-
-
-	|
-
-<a href="/solutions/taxacct/">Tax &amp; Accounting</a>
-
-
-
-<!-- SiteCatalyst code version: G.4.
-
-Copyright 1997-2003 Omniture, Inc. More info available at
-
-http://www.omniture.com -->
-
-
-
-
-
-<script language="JavaScript"><!--
-
-/* You may give each page an identifying name, server, and channel on the next lines. */
-
-var s_pageName=""
-
-var s_server=""
-
-var s_channel=""
-
-var s_pageType=""
-
-var s_prop1=""
-
-var s_prop2=""
-
-var s_prop3=""
-
-//var s_prop5=""
-
-//var s_prop6=""
-
-//var s_prop7=""
-
-//var s_prop8=""
-
-//var s_prop9=""
-
-var s_prop10=""
-
-/* E-commerce Variables */
-
-var s_campaign=""
-
-var s_state=""
-
-var s_zip=""
-
-//var s_events=""
-
-var s_events="event2";
-
-var s_products=""
-
-var s_purchaseID=""
-
-var s_eVar1=""
-
-var s_eVar2=""
-
-var s_eVar3=""
-
-var s_eVar4=""
-
-var s_eVar5=""
-
-/********* INSERT THE DOMAIN AND PATH TO YOUR CODE BELOW ************/
-
-//-->
-
-</script>
-
-<script language="JavaScript" src="/js/s_code_remote.js"></script><img name="s_i_thcorp" height="1" width="1" border="0" alt="" src="https://102.112.2O7.net/b/ss/thcorp/1/G.5-PD-R/s75410214302927?[AQB]&amp;ndh=1&amp;t=31/0/2020%205%3A44%3A51%205%200&amp;ch=corp&amp;events=event2&amp;g=https%3A//web.archive.org/web/20080401061414id_/http%253A//www.thomson.com/content/footer/privacy_statement&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
-
-<!-- End SiteCatalyst code version: G.4. -->
-
-<script language="JavaScript">
-
-<!--
-
-s_wds(s_account); s_ca(s_account);
-
-function sendAnalyticsEvent(str){
-
-ns=s_account; if(str!=null)ns+=","+str;void(s_gs(ns));}
-
-function sendLinkEvent(str,lnkname){
-
-ns=s_account; if(str!=""&&str!=null)ns+=","+str; s_linkType="o"; s_lnk=true;
-
-s_linkName=lnkname; void(s_gs(ns));}
-
-//-->
-
-</script>
-
-
-            </td>
-    </tr>
-</tbody></table>
-<br><br>
-
-
-
-
- 
-
-
-</div></body></html>
+<div id="psContent" style="padding: 0; width: 100%; position: relative; z-index: 1;">
+<!-- Transformed Layout -->
+<div id="cell_2403" class="ps_cell full-length" style="float: left; line-height: normal; word-wrap: break-word;width: 100%;"><div id="field_8870" class="ps_field ps_cell_item" style="line-height: normal;background: none; float: left; width: 100%;">
+<p>
+This Privacy Statement relates solely to the online information collection and use practices of our Web site located at <a title="Home Page" href="/">www.thomsonreuters.com </a>(this "Web Site"), and not to any subdomains of this Web Site. We recognize that many visitors and users of this Web Site are concerned about the information they provide to us, and how we treat that information. This Privacy Statement, which may be updated from time to time, has been developed to address those concerns. 
+</p>
+<p>
+Your use of this Web Site indicates to us that you have read and accept our privacy practices, as outlined in this Privacy Statement. If you have any questions or concerns regarding this Privacy Statement, please contact: <a title="General Info" href="#">general.info@thomsonreuters.com </a>. 
+</p>
+<h3>
+What Information About You Do We Collect? 
+</h3>
+<p>
+When you visit our Web Site, you may provide us with two types of information: (1) personally identifiable information that you knowingly choose to disclose, which is collected on an individual basis, and (2) general user information that does not contain personally identifiable information, which is collected on an aggregate basis as you browse the Web Site. In some cases, if you choose not to provide us with requested information, you may not be able to access all of our Web Site's content or services. 
+</p>
+<h4>
+Personally Identifiable Information You Choose to Provide. 
+</h4>
+<p>
+We may ask for certain personal information from you for the purpose of providing to you content and/or services that you request. For example, if you indicate an interest in receiving press releases about Thomson Reuters, you are asked to submit your name and e-mail address, which we retain on file, so that we may send you the information that you requested. If you indicate on our E-mail Alert registration form that you are a member of the press, we may also send you information regarding our business. We also request your name and e-mail address each time you contact us by clicking on the "Contact Us" link. We may retain a record of users who have contacted us in order to respond properly to questions or concerns and for purposes of future communications. 
+</p>
+<h4>
+Non-Personally Identifiable Information We Collect. 
+</h4>
+<p>
+Cookies/ Web server logs: Similar to other commercial Web sites, our Web Site utilizes standard technology called "cookies" and Web server logs to collect information about how our Web Site is used. Cookies are a feature of Web browser software that allows Web servers to recognize the computer used to access a Web site. Cookies are small pieces of data that are stored by a user's Web browser on the user's hard drive. Information gathered through cookies and Web server logs may include the date and time of visits, the pages viewed, time spent at our Web Site, and the Web sites visited just before and just after our Web Site. This information is collected on an aggregate basis. None of this information is associated with you as an individual. 
+</p>
+<p>
+You can, of course, disable cookies on your computer by indicating this in the preferences or options menus in your browser. However, it is possible that some parts of our Web Site will not operate correctly if you disable cookies. You should consult with your browser's provider/manufacturer if you have any questions regarding disabling cookies. 
+</p>
+<h3>
+How Do We Use the Information We Collect? 
+</h3>
+<p>
+We use your personally identifiable information to provide you with the information or content that you have requested, and, in some cases, to contact you about our programs, products, features or services. If you no longer wish to receive press releases or any other type of information from us, you may send us an email through our "Contact Us" link or use our E-mail Alert form to change your preferences. 
+</p>
+<p>
+We use non-identifying information collected on our Web Site in the aggregate to better understand your use of the Web Site and to enhance your enjoyment and experience. For example, we may use the information to improve the design and content of our Web Site or to analyze the programs and services that we offer. 
+</p>
+<p>
+We may employ other companies and individuals to perform functions on our behalf. Our employees, agents and contractors who have access to personally identifiable information are required to protect the information in a manner that is consistent with this Privacy Statement. 
+</p>
+<p>
+We may provide access to your personally identifiable information when legally required to do so, to cooperate with police investigations or other legal proceedings, to protect against misuse or unauthorized use of our Web Site, to limit our legal liability and protect our rights, or to protect the rights and safety of visitors to this Web Site or the public. In those instances, the information is provided only for that limited purpose. 
+</p>
+<p>
+We will not share your personally identifiable information in ways unrelated to those described above without providing you with an opportunity to opt out of such use or otherwise prohibit such unrelated uses. 
+</p>
+<h3>
+How Do You Access And/Or Modify Your Information or Choices? 
+</h3>
+<p>
+If you visit our Web Site and volunteer personally identifiable information, you may modify, update or delete such information at any time by visiting the E-mail Alert area where you will have the opportunity to access and revise certain of your personally identifiable information, and to update your preferences regarding what information you want to receive from us, or by clicking on the “Contact Us” link and sending us an e-mail. You should be aware, however, that it is not always possible to completely remove or modify information in our databases. In addition, please be aware that your ability to opt out from receiving marketing and promotional materials does not change our right to contact you regarding your use of our Web Site. 
+</p>
+<h3>
+Privacy Protections for Children Using the Internet 
+</h3>
+<p>
+Protecting children's privacy is important to us. For that reason, we do not collect or maintain information on our Web Site from those we actually know are under the age of 13, nor is any part of our Web Site targeted to attract anyone under 13. We request that all visitors to our Web Site who are under 13 not disclose or provide any personally identifiable information. If we discover that a child under 13 has provided us with personally identifiable information, we will delete that child's personally identifiable information from our records. 
+</p>
+<h3>
+Data Security 
+</h3>
+<p>
+We take reasonable steps to maintain the security of the personally identifiable information that we collect, including limiting the number of people who have physical access to our database servers, as well as installing electronic security systems that guard against unauthorized access. However, no data transmission over the Internet can be guaranteed to be completely secure. Accordingly, we cannot ensure or warrant the security of any information that you transmit to us, so you do so at your own risk. 
+</p>
+<h3>
+Consent to Transfer 
+</h3>
+<p>
+This Web Site is operated in the United States. If you are located outside of the United States, please be aware that any information you provide to us will be transferred to the United States. By using our Web Site, participating in any of our services and/or providing us with your information, you consent to this transfer. 
+</p>
+<h3>
+Links 
+</h3>
+<p>
+This Web Site contains links to third party sites as well as to other sites owned and/or operated by&nbsp;Thomson Reuters. Please be aware that&nbsp;Thomson&nbsp;Reuters is not responsible for the privacy practices of any third party sites. Please also be aware that the privacy policies of other Thomson Reuters sites may differ significantly from the privacy policy of this Web Site. Therefore, we encourage our users to read the privacy statement of each and every Web site that collects personally identifiable information. This Privacy Statement applies solely to information collected by this Web Site. 
+</p></div>
+</div>
+</div> <!-- End Page Studio Area -->
+							</div>
+							<!-- Right Column -->
+							<div id="r-cont">
+<div id="psRightColumn" style="padding: 0; width: 100%; position: relative; z-index: 1;">
+<!-- Transformed Layout -->
+</div> <!-- End Page Studio Area -->
+							</div>
+				</div>
+			</div>
+			<!-- Global Footer -->		
+<div id="footer"> 
+	<div id="footer-navigation">
+		<address>
+    	© 2011 Thomson Reuters
+    	</address>
+      	<ul>
+          	<li class="first"> <a href="http://thomsonreuters.com/product_logins/" rel="nofollow">
+Product Logins</a> </li>
+          	<li> <a href="http://thomsonreuters.com/privacy_policy/" rel="nofollow">
+Privacy Policy</a> </li>
+          	<li> <a href="http://thomsonreuters.com/terms_of_use/" rel="nofollow">
+Terms Of Use</a> </li>
+          	<li> <a href="http://thomsonreuters.com/site_map/" rel="nofollow">
+Site Map</a> </li>
+          	<li class="last"> <a href="http://thomsonreuters.com/copyright/" rel="nofollow">
+Copyright</a> </li>
+      	</ul>
+	</div>
+</div>
+<!-- SiteCatalyst code version: H.22.1.
+Copyright 1996-2010 Adobe, Inc. All Rights Reserved
+More info available at http://www.omniture.com -->
+<script language="JavaScript" type="text/javascript" src="/js/s_code_en_US.js"></script>
+<script language="JavaScript" type="text/javascript" charset="utf-8">
+/* You may give each page an identifying name, server, and channel on
+the next lines. */
+s.pageName="";
+s.server="";
+s.channel="";
+s.pageType="";
+s.prop1="";
+s.prop2="";
+s.prop3="";
+s.prop4="";
+s.prop5="";
+s.prop6="";
+s.prop7="";
+s.prop8="";
+s.prop9="";
+s.prop15="";
+s.prop16="";
+s.prop17="";
+s.prop18="";
+/* Conversion Variables */
+s.campaign="";
+s.state="";
+s.zip="";
+s.events="";
+s.products="";
+s.purchaseID="";
+s.eVar1="";
+s.eVar2="";
+s.eVar3="";
+s.eVar4="";
+s.eVar5="";
+null
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)</script>
+<script language="JavaScript" type="text/javascript">
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+</script><noscript><img src="http://thomson.112.2o7.net/b/ss/trcorp2/1/H.22.1--NS/0"
+height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.22.1. -->
+		</div>
+	
+
+
+</body></html>
