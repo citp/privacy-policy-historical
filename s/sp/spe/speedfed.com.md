@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the speedfed.com privacy policy that was archived on 2010-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100828110318id_/http%3A//speedfed.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speedfed.com privacy policy that was archived on 2011-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110530063401id_/http%3A//speedfed.com/static/privacy) for the most accurate reproduction.*
 
 # Privacy | SpeedFed
 
