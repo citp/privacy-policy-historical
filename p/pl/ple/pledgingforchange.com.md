@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pledgingforchange.com privacy policy that was archived on 2010-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100919114726id_/http%3A//pledgingforchange.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pledgingforchange.com privacy policy that was archived on 2011-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110530223728id_/http%3A//pledgingforchange.com/about/privacy) for the most accurate reproduction.*
 
 # Pledging for Change Privacy Policy
 
-Privacy Policy | Comments Policy | Email and Anti Spam Policy | Business and Earnings Disclaimer
+Privacy Policy | [Comments Policy](http://pledgingforchange.com/about/privacy#comments) | [Email and Anti Spam Policy](http://pledgingforchange.com/about/privacy#email) | [Business and Earnings Disclaimer](http://pledgingforchange.com/about/privacy#disclaimer)
 
 ### Privacy Policy
 
@@ -49,11 +49,13 @@ As with all business matters, please ensure that you **undertake your own due di
 
 Pledging for Change does not offer legal or accounting advice. We are not lawyers or accountants.
 
-Some, although not all, of the products and services we feature, make reference to, or link to, may result in us receiving payment in the form of ethical advertising and promotions investment. 
+Some, although not all, of the products and services we feature, make reference to, or link to, may result in us receiving payment in the form of ethical advertising and promotions investment.
 
-These funds do help us with the running costs of the site, our [tree planting](http://pledgingforchange.com/tree-planting "tree planting") and grants intiatives and our revenue share program and we **Thank You** in advance for your support in choosing to employ or purchase our ethical businesses products goods or services.  
+These funds do help us with the running costs of the site, our tree planting and grants intiatives and our revenue share program and we **Thank You** in advance for your support in choosing to employ or purchase our ethical businesses products goods or services.  
 (Any affiliated income ie Amazon book sales will be dedicated to our new social enterprise Land Ahoy)
 
 Thank you
 
-back to top
+[back to top](http://pledgingforchange.com/about/privacy#top)
+
+[Lets connect on Twitter](http://www.twitter.com/@Kar3n2)
