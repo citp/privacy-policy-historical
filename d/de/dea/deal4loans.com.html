@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the deal4loans.com privacy policy that was archived on 2010-12-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101227194618id_/http%3A//www.deal4loans.com/Privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the deal4loans.com privacy policy that was archived on 2011-05-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110530130245id_/http%3A//www.deal4loans.com/Privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -54,7 +54,8 @@
     <li><a href="/car-loans.php" title="Car Loan" rel="dropmenu_cr"><img src="/new-images/cr-btn.jpg" alt="Car Loan" width="127" height="39" style="border:none;"></a></li>
   <li><a href="/credit-cards.php" title="Credit Cards" rel="dropmenu_cc"><img src="/new-images/crd-btn.jpg" alt="Credit Cards" width="139" height="39" border="0" style="border:none;"></a></li>
     <li><a href="/loan-against-property.php" title="Loan Against Property" rel="dropmenu_lap"><img src="/new-images/lap-btn.jpg" alt="Loan Against Property" width="227" height="39" border="0" style="border:none;"></a></li>
-     <li><a href="/gold-loan.php" title="Gold Loan" rel="dropmenu_gld"><img src="/new-images/gld-btn.jpg" alt="Gold Loan" width="166" height="39" border="0" style="border:none;"></a></li>
+<!--      <li><a href="/gold-loan.php" title="Gold Loan" rel="dropmenu_gld"><img src="/new-images/gld-btn.jpg" alt="Gold Loan" width="166" height="39" border="0" style="border:none;"/></a></li> -->
+	      <li><a href="/loans/education-loan/education-loan-student-loan/" title="Education Loan" rel="dropmenu_edu"><img src="/new-images/edu-btn.jpg" alt="Education Loan" width="166" height="39" border="0" style="border:none;"></a></li>
   
 	    <!--     <li><a href="/business-loans.php" title="Business Loan" rel="dropmenu_bl"><img src="new-images/bsns-btn.jpg" alt="Business Loan" width="166" height="39" border="0" style="border:none;"/></a></li> -->
  	  </ul>
@@ -102,7 +103,12 @@
  <!-- <a href="/apply-business-loans.php">Apply Business Loan</a> -->
  <!--  <a href="/Contents_Business_Loan_Mustread.php">Business Loan Must Read</a>
  <a href="/Contents_Business_Loan_Faqs.php">Business Loan FAQs</a> -->
- </div> </td>
+ </div>
+   <div id="dropmenu_edu" class="dropmenudiv_d" style="width: 241px; border-top:none;">
+<a href="/apply-education-loans.php">Apply Education Loan</a>
+ </div>
+ 
+  </td>
   </tr></tbody></table>
   
   <script type="text/javascript">
@@ -296,6 +302,12 @@ var iChars ="/@#$%^&*()+=-[]\\\';,.{}|\":<>?!";
 		document.loan_form.net_salary.focus();
 		return false;
 	}
+	if(!document.loan_form.accept.checked)
+	{
+		alert("Accept the Terms and Condition");
+		document.loan_form.accept.focus();
+		return false;
+	}
 	
 }
 function containsdigit(param)
@@ -392,13 +404,13 @@ return false;
 	 </tr>
 	 <tr>
 	 <td class="frmtxt">City</td>
-	 <td height="25" align="left"><select name="city" style="width:136px;" onchange="tataaig_comp();">
+	 <td height="25" align="left"><select name="city" style="width:136px;">
      <option value="Please Select">Please Select</option><option value="Ahmedabad">Ahmedabad</option><option value="Aurangabad">Aurangabad</option><option value="Bangalore">Bangalore</option><option value="Baroda">Baroda</option><option value="Bhiwadi">Bhiwadi</option><option value="Bhopal">Bhopal</option><option value="Bhubneshwar">Bhubneshwar</option><option value="Chandigarh">Chandigarh</option><option value="Chennai">Chennai</option><option value="Cochin">Cochin</option><option value="Coimbatore">Coimbatore</option><option value="Cuttack">Cuttack</option><option value="Dehradun">Dehradun</option><option value="Delhi">Delhi</option><option value="Faridabad">Faridabad</option><option value="Gaziabad">Gaziabad</option><option value="Gurgaon">Gurgaon</option><option value="Guwahati">Guwahati</option><option value="Hosur">Hosur</option><option value="Hyderabad">Hyderabad</option><option value="Indore">Indore</option><option value="Jabalpur">Jabalpur</option><option value="Jaipur">Jaipur</option><option value="Jamshedpur">Jamshedpur</option><option value="Kanpur">Kanpur</option><option value="Kochi">Kochi</option><option value="Kolkata">Kolkata</option><option value="Lucknow">Lucknow</option><option value="Ludhiana">Ludhiana</option><option value="Madurai">Madurai</option><option value="Mangalore">Mangalore</option><option value="Mysore">Mysore</option><option value="Mumbai">Mumbai</option><option value="Nagpur">Nagpur</option><option value="Nasik">Nasik</option><option value="Navi Mumbai">Navi Mumbai</option><option value="Noida">Noida</option><option value="Patna">Patna</option><option value="Pune">Pune</option><option value="Ranchi">Ranchi</option><option value="Raipur">Raipur</option><option value="Rewari">Rewari</option><option value="Sahibabad">Sahibabad</option><option value="Surat">Surat</option><option value="Thane">Thane</option><option value="Thiruvananthapuram">Thiruvananthapuram</option><option value="Trivandrum">Trivandrum</option><option value="Trichy">Trichy</option><option value="Vadodara">Vadodara</option><option value="Vishakapatanam">Vishakapatanam</option><option value="Vizag">Vizag</option><option value="Others">Others</option>	 </select></td>
 	 </tr>
 	  <tr>
 	 <td class="frmtxt">Net Salary (Yearly)</td>
 	 <td height="25" align="left"><input type="text" name="net_salary" onchange="intOnly(this);" onkeyup="intOnly(this);" onkeypress="intOnly(this);" style="width:133px;"></td>
-	 </tr>	 <tr><td colspan="2"><div id="tataaig_compaign" name="tataaig_compaign"></div></td></tr>
+	 </tr>	 <tr><td colspan="2" style="color:#000000; font-family:Verdana,Arial,Helvetica,sans-serif; font-size:9px; font-weight:normal; text-align:left;"><br><input type="checkbox" name="accept" style="border:none;" checked=""> I authorize Deal4loans.com &amp; its partnering Banks to call me with reference to my loan application  &amp; Agree to <a href="http://www.deal4loans.com/Privacy.php" target="_blank">Privacy Policy</a> and <a href="http://www.deal4loans.com/Privacy.php" target="_blank">Terms and Conditions</a>.<br></td></tr>
 	 <tr><td colspan="2" align="center"> <input type="submit" value="" class="qucksbtn"> </td></tr>
 	 </tbody></table>
 	 </form></td></tr>
@@ -503,7 +515,7 @@ google_ad_height = 250;
 
 <div>
 
-<div style=" width:250px; text-align:right; float:right;  color:#5b5b5b; line-height:35px;">©  Copyright 2010, Deal4loans, India.</div>
+<div style=" width:250px; text-align:right; float:right;  color:#5b5b5b; line-height:35px;">©  Copyright 2011, Deal4loans, India.</div>
 </div>
 
 
