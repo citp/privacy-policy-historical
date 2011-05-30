@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ihispano.com privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129183420id_/http%3A//www.ihispano.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ihispano.com privacy policy that was archived on 2011-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110530163847id_/http%3A//www.ihispano.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | iHispano | The Professional Latino Network
+# SOCIALPRO - PRIVACY POLICY
 
 iHispano.com is committed to protecting the privacy of our users. In addition to providing our users numerous privacy features, iHispano.com has created this Privacy Statement in order to demonstrate in writing our firm commitment to privacy.
 
@@ -39,5 +39,3 @@ iHispano.com reserves the right to modify or amend this Privacy Policy at any ti
 ## How to Contact Us
 
 If you have further questions about our Web site, our products or services, or our privacy policies or practices after reading this Privacy Policy, please contact us at the following E-mail address: [support@ihispano.com](mailto:support@ihispano.com?Subject=Privacy%20Policy).
-
-Bookmark/Search this post with: 
