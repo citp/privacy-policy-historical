@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the netshelter.net privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219073853id_/http%3A//www.netshelter.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netshelter.net privacy policy that was archived on 2011-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110531010004id_/http%3A//www.netshelter.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Consumer privacy is of paramount importance to NetShelter Inc. ("NetShelter"), our advertisers, and the Web publishers in our network. NetShelter is committed to protecting the privacy of consumers, publishers, and advertisers, and to do our part to maintain the integrity of the Internet. NetShelter's combination of proprietary and partner technology allows us to deliver relevant, targeted content to individuals, but not at the expense of individual privacy. This Privacy Policy describes how we gather information from you when you visit the web sites of NetShelter (including all our subsidiaries, affiliates, and networks) and when we serve advertisements on our network of web sites, why we collect this information, and how we may use and share this information. For more details on our practices, [  
-](http://netshelter.net/contact.html)**contact us.**
+](http://www.netshelter.net/contact.html)**contact us.**
 
 **Non-Personally Identifiable Information**   
 NetShelter may collect anonymous data while you are visiting a NetShelter web site or when we serve advertisements on our network of web sites. This anonymous data includes, but not limited to, information such as your IP address, web pages which have been viewed by you, date and time, domain type, and your responses to an advertisement delivered by us or a third party advertising technology vendor. This type of information may be collected using different types of technologies, such as cookies and pixels. This information is not tracked to a specific individual's personally-identifiable information. You may elect not to allow us to use non-personally identifiable information by following the Opt-Out procedures set forth below.
