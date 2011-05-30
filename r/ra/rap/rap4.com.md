@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rap4.com privacy policy that was archived on 2010-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100131100301id_/http%3A//www.rap4.com/paintball/Privacy_Statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rap4.com privacy policy that was archived on 2011-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110530194559id_/http%3A//www.rap4.com/paintball/Privacy_Statement.html) for the most accurate reproduction.*
 
 # Real Action Paintball Privacy Statement
 
