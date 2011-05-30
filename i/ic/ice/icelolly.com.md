@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the icelolly.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220161203id_/http%3A//www.icelolly.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icelolly.com privacy policy that was archived on 2011-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110530022217id_/http%3A//www.icelolly.com/privacy.php) for the most accurate reproduction.*
 
 # Cheap Holidays | Cheap Holiday Deals | Cheap Holiday Offers | icelolly
 
 Icelolly Marketing Limited ("We") are committed to protecting and respecting your privacy.
 
-This policy (together with our [terms of use](https://web.archive.org/web/20101220161203id_/http%3A//www.icelolly.com/termsofuse.php) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
+This policy (together with our [terms of use](https://web.archive.org/web/20110530022217id_/http%3A//www.icelolly.com/termsofuse.php) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
 For the purpose of the Data Protection Act 1998 (the Act), the data controller is Icelolly Marketing Limited registered in England and Wales under company number 05655962 of 97 Storr Hill, Wyke, Bradford, West Yorkshire, BD12 8PQ. 
 
@@ -75,7 +75,7 @@ We may disclose your personal information to third parties:
 
   * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
   * If Icelolly Marketing Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
-  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [terms of use](https://web.archive.org/web/20101220161203id_/http%3A//www.icelolly.com/termsofuse.php) and other agreements; or to protect the rights, property, or safety of Icelolly Marketing Limited, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [terms of use](https://web.archive.org/web/20110530022217id_/http%3A//www.icelolly.com/termsofuse.php) and other agreements; or to protect the rights, property, or safety of Icelolly Marketing Limited, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
 
 
