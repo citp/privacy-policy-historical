@@ -1,30 +1,42 @@
-> *The following text is extracted and transformed from the ratracerebellion.com privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523011727id_/http%3A//www.ratracerebellion.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ratracerebellion.com privacy policy that was archived on 2011-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110530045531id_/http%3A//ratracerebellion.com/privacy.html) for the most accurate reproduction.*
 
-# Work at Home Jobs - free work from home job listing
+# Work at Home Jobs: Free Legitimate Work From Home Job Opportunities
 
-| 
-
-[](https://web.archive.org/web/20100523011727id_/http%3A//www.ratracerebellion.com/index.htm)  
-[](https://web.archive.org/web/20100523011727id_/http%3A//www.ratracerebellion.com/JOBLEADS.html)  
-[](https://web.archive.org/web/20100523011727id_/http%3A//www.ratracerebellion.com/spottingscams.html)  
-[](https://web.archive.org/web/20100523011727id_/http%3A//www.ratracerebellion.com/wah_resources.html)  
-[](https://web.archive.org/web/20100523011727id_/http%3A//www.ratracerebellion.com/freebies.htm)  
-[](http://ratracerebellion.typepad.com/)  
-[](https://web.archive.org/web/20100523011727id_/http%3A//www.ratracerebellion.com/speaking.htm)
-
-[](https://web.archive.org/web/20100523011727id_/http%3A//www.ratracerebellion.com/aboutus.html)  
-[](https://web.archive.org/web/20100523011727id_/http%3A//www.ratracerebellion.com/mediapage.htm)  
-[](https://web.archive.org/web/20100523011727id_/http%3A//www.ratracerebellion.com/contactus.htm)  
-| Note: This site contains advertisements as well as screened job leads. [Please visit our FAQ page for more.](http://www.ratracerebellion.com/FAQ.html)  
-
-
-**Privacy Policy**
-
-| 
-
-[](http://www.tell-a-friend-wizard.com/cgi-bin/tell_opt_new2.cgi?uid=staffcentrix&url=)
-
-At Staffcentrix we recognize that privacy is important, and we are committed to safeguarding your information when you are visiting any of our sites (Staffcentrix.com, RatRaceRebellion.com, 2SecondCommute.com, MSVAS.com, WAHBoom.com).   
+POPULAR LINKS |  | Work at Home Job Lists  
+[Accounting & Financial](https://web.archive.org/web/20110530045531id_/http%3A//ratracerebellion.com/jobs-accounting.htm)  
+[Administrative & Clerical](https://web.archive.org/web/20110530045531id_/http%3A//ratracerebellion.com/jobs-admin.htm)  
+[Artistic](https://web.archive.org/web/20110530045531id_/http%3A//ratracerebellion.com/jobs-artistic.htm)  
+[Blogging](https://web.archive.org/web/20110530045531id_/http%3A//ratracerebellion.com/jobs-blogging.html)  
+[Call Center & Cust. Service](https://web.archive.org/web/20110530045531id_/http%3A//ratracerebellion.com/CS_Comparison.html)  
+[Subject Matter Experts](https://web.archive.org/web/20110530045531id_/http%3A//ratracerebellion.com/jobs-SME.htm)  
+[Courthouse Researchers](https://web.archive.org/web/20110530045531id_/http%3A//ratracerebellion.com/jobs-courthouse.html)  
+[Crafting & Handiwork](https://web.archive.org/web/20110530045531id_/http%3A//ratracerebellion.com/jobs-crafting.html)  
+[Education & Teaching](https://web.archive.org/web/20110530045531id_/http%3A//ratracerebellion.com/jobs-education.htm)  
+[Engineering](https://web.archive.org/web/20110530045531id_/http%3A//ratracerebellion.com/jobs-engineering.htm)  
+[Healthcare & Medical](https://web.archive.org/web/20110530045531id_/http%3A//ratracerebellion.com/jobs-health.htm)  
+[Human Resources](https://web.archive.org/web/20110530045531id_/http%3A//ratracerebellion.com/jobs-HR.htm)  
+[Legal](https://web.archive.org/web/20110530045531id_/http%3A//ratracerebellion.com/jobs-legal.htm)  
+[Medical Transcription & Coding](https://web.archive.org/web/20110530045531id_/http%3A//ratracerebellion.com/jobs-medical.htm)  
+[Miscellaneous](https://web.archive.org/web/20110530045531id_/http%3A//ratracerebellion.com/jobs-misc.htm)  
+[Mystery Shopping](https://web.archive.org/web/20110530045531id_/http%3A//ratracerebellion.com/jobs-mysteryshopping.htm)  
+[Non-Profit](https://web.archive.org/web/20110530045531id_/http%3A//ratracerebellion.com/jobs-nonprofits.htm)  
+[Notaries (Mobile)](https://web.archive.org/web/20110530045531id_/http%3A//ratracerebellion.com/jobs-notary.htm)  
+[Surveys - Paid](https://web.archive.org/web/20110530045531id_/http%3A//ratracerebellion.com/jobs-surveys.htm)  
+[Technical & Web](https://web.archive.org/web/20110530045531id_/http%3A//ratracerebellion.com/jobs-tech.htm)  
+[Transcription (non-medical)](https://web.archive.org/web/20110530045531id_/http%3A//ratracerebellion.com/jobs-transcribe-non-med.htm)  
+[Translation & Linguistic](https://web.archive.org/web/20110530045531id_/http%3A//ratracerebellion.com/jobs-linguist.htm)  
+[WAH Jobs with Benefits](https://web.archive.org/web/20110530045531id_/http%3A//ratracerebellion.com/benefits.html)  
+[Writing & Editing](https://web.archive.org/web/20110530045531id_/http%3A//ratracerebellion.com/jobs-writing.htm)  
+---|---  
+|  [Daily Freebies!](https://web.archive.org/web/20110530045531id_/http%3A//ratracerebellion.com/freebies.htm)  
+| [Great Google Job Search Terms](http://www.ratracerebellion.com/google_search.html)  
+| [Read Our Blog](http://ratracerebellion.typepad.com/)  
+| [Have Us Speak at Your Event](https://web.archive.org/web/20110530045531id_/http%3A//ratracerebellion.com/speaking.htm)  
+| [Information for the Media](https://web.archive.org/web/20110530045531id_/http%3A//ratracerebellion.com/mediapage.htm)  
+| [Privacy Policy](https://web.archive.org/web/20110530045531id_/http%3A//ratracerebellion.com/privacy.html)  
+| [Contact Us](https://web.archive.org/web/20110530045531id_/http%3A//ratracerebellion.com/contactus.htm)  
+  
+Note: This site contains advertisements as well as screened job leads. [Please visit our FAQ page for more](http://www.ratracerebellion.com/FAQ.html).At Staffcentrix we recognize that privacy is important, and we are committed to safeguarding your information when you are visiting any of our sites (Staffcentrix.com, RatRaceRebellion.com, MSVAS.com).   
     
 This Privacy Policy discloses the information gathering and dissemination practices for this site.   
     
@@ -52,16 +64,6 @@ This site contains links to other sites. Staffcentrix is not responsible for the
 This site is supported, in whole or in part, by advertisements from outside companies. As noted above, these ads may contain cookies set by the advertiser, for their own purposes, and we do not have access to or control of the information they gather.   
     
 **Contact Information**  
-If you have any questions or suggestions regarding our privacy policy, please contact us at: cdurst (AT) staffcentrix.com. |    
--
-
-[ ](http://www.dpbolvw.net/click-2238344-10414365)
-
-[ ](http://www.dpbolvw.net/click-2238344-10426272)  
-  
----|---  
-  
-
-
-  
+If you have any questions or suggestions regarding our privacy policy, please contact us at: cdurst (AT) staffcentrix.com.  
+[](https://web.archive.org/web/20110530045531id_/http%3A//ratracerebellion.com/job_postings.html)  
 
