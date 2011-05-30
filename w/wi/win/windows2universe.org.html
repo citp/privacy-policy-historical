@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the windows2universe.org privacy policy that was archived on 2010-12-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101204091925id_/http%3A//www.windows2universe.org/privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the windows2universe.org privacy policy that was archived on 2011-05-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110531003425id_/http%3A//www.windows2universe.org/privacy_policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <!-- template_regular -->
@@ -34,6 +34,29 @@ $(document).ready(function() {
    	 });
 
 	}
+	
+	$('#events_scroll').vTicker({
+		speed: 1000,
+		pause: 20000,
+		showItems: 2
+	});
+
+	$('#bookmark_button').click( function() {
+            $.get( '/php/bookmark.php', $(this).attr('name'), function(data) {
+            $('#bookmark_result').append(data).show();
+          });
+	});
+	
+	 $('#bookmark_result_close').live( 'click',function() {
+            $('#bookmark_result').hide().html('<a href="#" id="bookmark_result_close">x</a>') ;
+        }); 
+        
+        $('#bookmark_remove').live( 'click',function() {
+                $.get( '/php/bookmark.php', $(this).attr('name') + '&action=remove', function(data) {
+                $('#bookmark_result').html('<a href="#" id="bookmark_result_close">x</a>').append(data).show();
+            }); 
+        });
+
 
 	$('#closewindow').live( 'click', function() {
 		$('#donation_ad').hide();
@@ -80,17 +103,11 @@ GA_googleFetchAds();
 </head>
 <body>
 <div id="frame">
-<!-- donation ad -->
-    <div id="donation_ad">
-    <img id="closewindow" src="/images/closewindow.png">
-    <img src="/images/icons/neptune_atmosphere.jpg">
-    Please help support Windows to the Universe with your <a href="/store/home.php?cat=15">donation</a> today!
-    As a free online Earth and space science educational resource, your contributions support continued website
-    development by our small staff of scientists and educators and our professional development programs for teachers.
-     <a href="/donation.html">Find out more</a> about donations to Windows to the Universe.  As a program of the
-     non-profit <a href="http://www.nestanet.org">National Earth Science Teachers Association</a> (a 501(c)(3)),
-     your contributions are tax exempt.  <a href="/store/home.php?cat=15">Pick your level of support!</a>
-    </div>
+<div id="ad_top"><!-- ValueClick Media 728x90 LEADERBOARD CODE for Windows to the Universe -->
+<script language="javascript" src="http://media.fastclick.net/w/get.media?sid=61158&amp;tp=5&amp;d=j&amp;t=n"></script>
+<noscript><a href="http://media.fastclick.net/w/click.here?sid=61158&m=1&c=1" target="_blank">
+<img src="http://media.fastclick.net/w/get.media?sid=61158&tp=5&d=s&c=1" width=728 height=90 border=1></a></noscript>
+<!-- ValueClick Media 728x90 LEADERBOARD CODE for Windows to the Universe --></div>
     <div id="header">
 		<div id="logo"><a href="http://www.windows2universe.org"><img src="/images/logo.gif" border="0"></a></div>
 		
@@ -146,7 +163,8 @@ GA_googleFetchAds();
 </li><li><a href="/earth/Life/life.html">Life</a>
 </li><li><a href="/mythology/planets/Earth/earth.html">Myth</a>
 </li><li><a href="/earth/research_expeditions.html">Exploration</a>
-</li><li class="more"><a href="#">more...</a><ul><li class="more_item"><a href="/earth/ess1.html">Earth System</a>
+</li><li class="more"><a href="#">more...</a><ul><li class="more_item"><a href="/earth/changing_planet/changing_planet.html">Our Changing Planet</a>
+</li><li class="more_item"><a href="/earth/ess1.html">Earth System</a>
 </li><li class="more_item"><a href="/earth/statistics.html">Facts</a>
 </li><li class="more_item"><a href="/php/gallery/gallery.php?id=7">Multimedia</a>
 </li><li class="more_item"><a href="/earth/links.html">Links</a>
@@ -199,7 +217,7 @@ GA_googleFetchAds();
 </li></ul></li></ul></div></li><li><a href="/mythology/myths_stories_art.html" class="parentLink">Culture</a>
 <div class="sub"><ul><li><a href="/mythology/mythology.html">Myth</a>
 </li><li><a href="/art_and_music/storyfolk.html">Stories</a>
-</li><li><a href="28&#10;">Poetry</a>
+</li><li><a href="/art_and_music/poems.html">Poetry</a>
 </li><li><a href="/php/poetry_pictures/poetry_pictures.php">Poetry &amp; Pictures</a>
 </li><li><a href="/art_and_music/books.html">Books</a>
 </li><li><a href="/art_and_music/films.html">Movies</a>
@@ -225,7 +243,7 @@ GA_googleFetchAds();
 <div class="sub"></div></li><li><a href="/teacher_resources/main/teacher_resources.html" class="parentLink">Teachers</a>
 <div class="sub"><ul><li><a href="/teacher_resources/main/gccepdn_main.html">Web Seminars</a>
 </li><li><a href="/teacher_resources/main/frameworks/frameworks_main.html">Frameworks</a>
-</li><li><a href="/teacher_resources/main/activity.html">Activities</a>
+</li><li><a href="/php/teacher_resources/activity.php">Activities</a>
 </li><li><a href="javascript:wb_onclick();">Journal</a>
 </li><li><a href="/teacher_resources/main/w2u_workshops.html">Workshops</a>
 </li><li><a href="/teacher_resources/main/enewsletter.html"> E-Newsletter</a>
@@ -247,6 +265,7 @@ GA_googleFetchAds();
      <!--  <div id="links_sub"> </div> -->
 	<div id="column_left">
             <div id="links_left">
+              
 	                       <!-- AddThis Button BEGIN -->
 		<script type="text/javascript">
 			var addthis_config = { ui_click: true };
@@ -276,30 +295,23 @@ GA_googleFetchAds();
 </li><li><a href="/citizen_science/citizen_science.html">Citizen Science</a>
 </li></ul>
             </div> <!-- links_left -->
-            
+            	  
+	    <div id="hotchalk"><!-- Begin Adify tag for "WideSkyscraper" Ad Space (160x600) ID #1000004835707 -->
+<script type="text/javascript">
+	sr_adspace_id = 1000004835707;
+	sr_adspace_width = 160;
+	sr_adspace_height = 600;
+	sr_ad_new_window = true;
+	sr_adspace_type = "graphic";
+</script>
+<script type="text/javascript" src="http://ad.afy11.net/srad.js?azId=1000004835707">
+</script>
+<!-- End Adify tag for "WideSkyscraper" Ad Space (160x600) ID #1000004835707 --></div>
+  
             <div id="news_left">
  	     	     <div id="ticker"> <h4><a href="/multimedia_gallery/rss_feeds.html">RSS Feeds</a></h4> </div> 
 	    <div id="ticker0" class="rssFeed"><div class="rssError"><p>This API is no longer available.</p></div></div><div id="ticker1" class="rssFeed"><div class="rssError"><p>This API is no longer available.</p></div></div><div id="ticker2" class="rssFeed"><div class="rssError"><p>This API is no longer available.</p></div></div></div>
-            <div id="blogs">    <h4>Science Blogs</h4>
-    <p><a href="http://www.realclimate.org/" target="_blank">Real Climate: climate science from climate scientists</a>
-    </p><p><a href="http://starstuff.blogspot.com/" target="_blank">Star Stuff: science news from an astronomer's perspective</a>
-    </p><p><a href="http://classic.globe.gov/fsl/scientistsblog/" target="_blank">Global Learning and Observations to Benefit the Environment</a>
-    </p><p><a href="http://d-farmer.blogspot.com/" target="_blank">A scientist's life on field campaigns</a></p></div>
-            <div id="sponsors" class="highlight">
-            <img src="/redesign/sponsors1.jpg" usemap="#m_sponsors1" border="0"><br>Generous sponsorship of Windows to the Universe is provided by the Hewlett Foundation, the American Geological Institute, the American Geophysical Union, the National Science Foundation, NASA, NCAR, and the CISM and CMMAP projects.<img src="/redesign/sponsors2.jpg" align="center" usemap="#m_sponsors2" border="0">
-    <map name="m_sponsors2">
-    <area shape="rect" coords="96,30,120,55" href="http://www.nasa.gov" target="_blank" title="NASA" alt="NASA">
-    <area shape="rect" coords="14,30,43,56" href="http://www.cmmap.org/index.html" target="_blank" title="CMMAP" alt="CMMAP">
-    <area shape="rect" coords="45,33,91,52" href="http://www.agu.org" title="AGU" alt="AGU">
-    <area shape="rect" coords="80,11,130,28" href="http://www.bu.edu/cism/" target="_blank" title="CISM" alt="CISM">
-    <area shape="rect" coords="18,10,78,29" href="http://www.ncar.ucar.edu" target="_blank" title="NCAR" alt="NCAR">
-    </map>
-    <map name="m_sponsors1">
-    <area shape="rect" coords="87,7,144,32" href="http://www.hewlett.org" target="_blank" title="Hewlett" alt="Hewlett">
-    <area shape="rect" coords="46,6,79,37" href="http://www.agiweb.org/" target="_blank" title="AGI" alt="AGI">
-    <area shape="rect" coords="4,4,37,38" href="http://www.nsf.gov" target="_blank" title="NSF" alt="NSF">
-</map>      
-        </div>
+
 
     	</div> <!-- column_left -->
 
@@ -357,32 +369,32 @@ Boulder, CO 80305<p></p>
 
         
 		<div id="last_updated">Last modified November 3, 2010 by <a href="/bio/julia.html">Julia Genyuk</a>.</div>   
-  		<div id="adsense_content"><script type="text/javascript"><!--
-google_ad_client = "pub-7815427952014216";
-/* 468x60, created 9/13/10 */
-google_ad_slot = "8530453839";
-google_ad_width = 468;
-google_ad_height = 60;
-//-->
-</script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script></div>
+		 
+		<div class="ad_store_content"><a href="/store/product.php?productid=50" target="_blank"><img src="/store/images/T/xctmpXW53GR.png" border="0" class="left"></a><img src="/images/cart_earth.jpg" class="right"><p></p><h4>Shop Windows to the Universe Science Store!</h4>Enjoy your love of minerals and fossils through jewelry!  We have beautiful Nature's Own <a href="http://www.windows2universe.org/store/home.php?cat=12">jewelry</a> in our <a href="http://www.windows2universe.org/store/home.php">online store</a>, including earrings, necklaces, and pendants! </div> 
+		 
 	    </div> <!-- content-->
-
-	<div id="announce">
-    <strong>News Flash!</strong><ul style="padding-left:10px">
-<li><strong>Now everyone can <a href="/membership.html">become a Member</a> of Windows to the Universe</strong> and get access to 
-<a href="/gen_member_benefits.html">special services, opportunities, and discounts</a>!</li>
-<li><strong>If this website is valuable to you, please help <a href="/donation.html">support Windows to the Universe</a> through your tax deductible <a href="/store/home.php?cat=15">donation</a>! </strong>   
-</li><li><strong><a href="/offers.html">Special Offers</a> for Windows to the Universe Educator Members!</strong> 
-Opportunity for US teachers to join Climate Education Program (only 50 slots available - application deadline December 31, 2010!  Slots will be filled on a first come, first served basis). Free National Fossil Day (October 13) CD and Free 2009 Earth Science Kits on Climate Change - Just pay S&amp;H.  
-    Members - login and click <a href="/offers.html">Special Offers</a> to order.  Not a member -  <a href="/php/registration/reg_check_email_new.php?lang=en">Join today</a>!
-</li></ul></div>
-	
+	<div id="community">       <div id="adrect">
+ <!-- ValueClick Media 300x250 Medium Rectangle CODE for Windows to the Universe -->
+<script language="javascript" src="http://media.fastclick.net/w/get.media?sid=61158&amp;m=6&amp;tp=8&amp;d=j&amp;t=n"></script>
+<noscript><a href="http://media.fastclick.net/w/click.here?sid=61158&m=6&c=1" target="_blank">
+<img src="http://media.fastclick.net/w/get.media?sid=61158&m=6&tp=8&d=s&c=1" width=300 height=250 border=1></a></noscript>
+<!-- ValueClick Media 300x250 Medium Rectangle CODE for Windows to the Universe --></div>
+ 
+  <table border="0">
+  <tbody><tr><td colspan="2" align="center"> <h3>Windows to the Universe Community </h3></td></tr>
+  <tr><td width="50%" align="center"><h3>News</h3></td><td align="center"><h3>Opportunities</h3></td></tr>
+  <tr><td><div class="community_link"><img src="/newsletters/images/10_2006_5.jpg"> <a href="/teacher_resources/main/w2u_workshops.html">Upcoming W2U Events</a></div></td>
+  <td><div class="community_link"><img src="/newsletters/images/11_2006_6.jpg"> <a href="/membership.html">Join Today - Benefits,<br> No Ads!</a></div></td></tr>
+   <tr><td><div class="community_link"><img src="/newsletters/images/4_2009_Corner3.jpg"> <a href="/offers.html">Special Offers for Teachers</a></div></td>
+   <td><div class="community_link"><img src="/images/icons/earthatm_atmoptics.jpg"> <a href="/gen_member_benefits.html">Member Benefits</a></div></td></tr>
+    <tr><td><div class="community_link"><img src="/images/icons/teacher_newsletter.jpg"> <a href="/teacher_resources/main/enewsletter.html">Teacher Newsletter</a></div></td>
+    <td><div class="community_link"><img src="/images/icons/schools_aboutsciedu.jpg"> <a href="/partnership_opportunities.html">Partnership Opportunities</a></div></td></tr>
+  </tbody></table>
+</div>
 
 	    
 		<div id="features" style="display: none;">
-                    <h2>You might also be interested in:</h2><div class="feature"><a href="/store/product.php?productid=54"><img src="/images/tes25_3.jpg" width="155"></a><h2><a href="/store/product.php?productid=54">The Earth Scientist, Volume XXV, Issue 3, Fall 2009</a></h2>The Fall 2009 issue of The Earth Scientist includes a collection of Earth and Space Science articles for you, covering the current efforts to save Louisiana’s Lake Pontchartrain, student research into building design as it relates to earthquake damage, an exciting Earth Science project and resource from the United Kingdom<a class="more" href="/store/product.php?productid=54">...more</a></div><div class="feature"><a href="/bibliography.html"><img src="/teacher_resources/images/frozenfilm1_sm.jpg" width="155"></a><h2><a href="/bibliography.html">Bibliography Information</a></h2>Thank you for visiting Windows to the Universe. Windows to the Universe has been in development since 1995. Over the years, there have been many writers of the pages on the site. Most pages have been worked<a class="more" href="/bibliography.html">...more</a></div><div class="feature"><a href="/sponsor.html"><img src="/earth/images/earth_at_night_sm.jpg" width="155"></a><h2><a href="/sponsor.html">Please Support Windows to the Universe!</a></h2>Donation, Sponsorship, Partnerships This image shows the lights on Earth as seen in darkness from a satellites orbiting our planet. Click on image for full size Image courtesy of NASA, DMSP, and NOAA NGDC.<a class="more" href="/sponsor.html">...more</a></div><div class="feature"><a href="/edu_membership.html"><img src="/teacher_resources/images/IMG_1557.jpg" width="155"></a><h2><a href="/edu_membership.html">Regular Educator Memberships on Windows to the Universe</a></h2>The Windows to the Universe team will be offering memberships for all educators by 1 September 2010 which will provide access to new website capabilities and services, as well as access to an ad-free version<a class="more" href="/edu_membership.html">...more</a></div>
+                    <h2>You might also be interested in:</h2><div class="feature"><a href="/store/product.php?productid=12"><img src="/images/tes26_2.jpg" width="155"></a><h2><a href="/store/product.php?productid=12">The Earth Scientist, Volume XXVI, Issue 2, Summer 2010</a></h2>Our 2010 Summer issue of The Earth Scientist includes six articles dealing with various aspects of Earth Science. An article from NOAA details how lake effect snow can, under the right conditions, actually occur on the narrow Mississippi River.<a class="more" href="/store/product.php?productid=12">...more</a></div><div class="feature"><a href="/bibliography.html"><img src="/teacher_resources/images/frozenfilm1_sm.jpg" width="155"></a><h2><a href="/bibliography.html">Bibliography Information</a></h2>Thank you for visiting Windows to the Universe. Windows to the Universe has been in development since 1995. Over the years, there have been many writers of the pages on the site. Most pages have been worked<a class="more" href="/bibliography.html">...more</a></div><div class="feature"><a href="/sponsor.html"><img src="/earth/images/earth_at_night_sm.jpg" width="155"></a><h2><a href="/sponsor.html">Please Support Windows to the Universe!</a></h2>Donation, Sponsorship, Partnerships This image shows the lights on Earth as seen in darkness from a satellites orbiting our planet. Click on image for full size Image courtesy of NASA, DMSP, and NOAA NGDC.<a class="more" href="/sponsor.html">...more</a></div><div class="feature"><a href="/edu_membership.html"><img src="/teacher_resources/images/IMG_1557.jpg" width="155"></a><h2><a href="/edu_membership.html">Regular Educator Memberships on Windows to the Universe</a></h2>The Windows to the Universe team will be offering memberships for all educators by 1 September 2010 which will provide access to new website capabilities and services, as well as access to an ad-free version<a class="more" href="/edu_membership.html">...more</a></div><div class="feature"><a href="/partnership_opportunities.html"><img src="/teacher_resources/images/roomful_teachers_reno.jpg" width="155"></a><h2><a href="/partnership_opportunities.html">Windows to the Universe Partnership Opportunities for Education and Outreach</a></h2>Are you looking for an effective and efficient education and outreach program to supplement your research activities? Are you struggling to reach a significant audience of students, teachers, and the public?<a class="more" href="/partnership_opportunities.html">...more</a></div>
 		</div> <!-- features -->
 	    
         </div> <!-- column_main -->
@@ -390,7 +402,7 @@ Opportunity for US teachers to join Climate Education Program (only 50 slots ava
        
     <div id="column_right">
         <div id="shop" class="highlight">
-        <h2>Shop Windows to the Universe</h2><a href="/store/product.php?productid=49" target="_blank"><img src="/store/images/eudialyte.jpg" height="90" border="0"></a>This <a href="/store/product.php?productid=49&amp;cat=12&amp;page=1">eudialyte pendant and earrings</a> are available in our <a href="/store/home.php">online store</a>, along with other <a href="/store/home.php?cat=12">jewelry</a>, <a href="/store/home.php?cat=9">minerals</a>, <a href="/store/home.php?cat=10">fossils</a>, <a href="/store/home.php?cat=7">classroom materials</a>, and <a href="/store/home.php?cat=11">household items</a>.        
+        <h2>Shop Windows to the Universe</h2><a href="/store/product.php?productid=55" target="_blank"><img src="/store/images/logo1_white.gif" height="90" border="0"></a>Please help support Windows to the Universe, and our <a href="/teacher_resources/main/teacher_resources.html">activities to help Earth and space science teachers</a>, with a <a href="/store/home.php?cat=15">tax-exempt donation</a> today!        
         </div>
         <div id="login">
 	        <h2>Please log in</h2>
@@ -404,15 +416,31 @@ Opportunity for US teachers to join Climate Education Program (only 50 slots ava
         <p><a href="/membership.html">Become a member</a>
         </p></div>       
         <div id="google_mockup">
-	<script type="text/javascript"><!--
-google_ad_client = "pub-7815427952014216";/* 160x600 new palette, created 8/3/10 */
- google_ad_slot = "2114124271";
-google_ad_width = 160;
-google_ad_height = 600;
-//-->
-</script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>
+	<!-- ValueClick Media 160x600 WIDE SKYSCRAPER CODE for Windows to the Universe -->
+<script language="javascript" src="http://media.fastclick.net/w/get.media?sid=61158&amp;tp=7&amp;d=j&amp;t=n"></script>
+<noscript><a href="http://media.fastclick.net/w/click.here?sid=61158&m=3&c=1" target="_blank">
+<img src="http://media.fastclick.net/w/get.media?sid=61158&tp=7&d=s&c=1" width=160 height=600 border=1></a></noscript>
+<!-- ValueClick Media 160x600 WIDE SKYSCRAPER CODE for Windows to the Universe -->
+        </div>
+	<div id="blogs">    <h4>Science Blogs</h4>
+    <p><a href="http://www.realclimate.org/" target="_blank">Real Climate: climate science from climate scientists</a>
+    </p><p><a href="http://starstuff.blogspot.com/" target="_blank">Star Stuff: science news from an astronomer's perspective</a>
+    </p><p><a href="http://classic.globe.gov/fsl/scientistsblog/" target="_blank">Global Learning and Observations to Benefit the Environment</a>
+    </p><p><a href="http://www.talkingscience.org/category/citizen-science-buzz/" target="_blank">Citizen Science Buzz</a></p></div>
+        <div id="sponsors" class="highlight">
+            <img src="/redesign/sponsors1.jpg" usemap="#m_sponsors1" border="0"><br>Generous sponsorship of Windows to the Universe is provided by the Hewlett Foundation, the American Geological Institute, the American Geophysical Union, the National Science Foundation, NASA, NCAR, and the CISM and CMMAP projects.<img src="/redesign/sponsors2.jpg" align="center" usemap="#m_sponsors2" border="0">
+    <map name="m_sponsors2">
+    <area shape="rect" coords="96,30,120,55" href="http://www.nasa.gov" target="_blank" title="NASA" alt="NASA">
+    <area shape="rect" coords="14,30,43,56" href="http://www.cmmap.org/index.html" target="_blank" title="CMMAP" alt="CMMAP">
+    <area shape="rect" coords="45,33,91,52" href="http://www.agu.org" title="AGU" alt="AGU">
+    <area shape="rect" coords="80,11,130,28" href="http://www.bu.edu/cism/" target="_blank" title="CISM" alt="CISM">
+    <area shape="rect" coords="18,10,78,29" href="http://www.ncar.ucar.edu" target="_blank" title="NCAR" alt="NCAR">
+    </map>
+    <map name="m_sponsors1">
+    <area shape="rect" coords="87,7,144,32" href="http://www.hewlett.org" target="_blank" title="Hewlett" alt="Hewlett">
+    <area shape="rect" coords="46,6,79,37" href="http://www.agiweb.org/" target="_blank" title="AGI" alt="AGI">
+    <area shape="rect" coords="4,4,37,38" href="http://www.nsf.gov" target="_blank" title="NSF" alt="NSF">
+</map>      
         </div>
                 <div class="dfp_ad">
 	<!-- ca-pub-7815427952014216/156x90_top_right -->
@@ -431,27 +459,21 @@ google_ad_height = 600;
 		<script type="text/javascript">
 		GA_googleFillSlot("156x90_top_left");
 		</script>
-		</div>		<div class="dfp_ad">
-		<!-- ca-pub-7815427952014216/156x90_bottom_left -->
-		<script type="text/javascript">
-		GA_googleFillSlot("156x90_bottom_left");
-		</script>
 		</div>
     </div> <!-- column_right -->
 
     <div id="footer">
-  <div id="adsense_bottom">
-   <script type="text/javascript"><!--
-google_ad_client = "pub-7815427952014216";
-/* 728x90 with images, created 9/29/10 */
-google_ad_slot = "3073203671";
-google_ad_width = 728;
-google_ad_height = 90;
-//-->
+  <div id="adsense_bottom"><!-- Begin Adify tag for "Leaderboard" Ad Space (728x90) ID #1000004835807 -->
+<script type="text/javascript">
+	sr_adspace_id = 1000004835807;
+	sr_adspace_width = 728;
+	sr_adspace_height = 90;
+	sr_ad_new_window = true;
+	sr_adspace_type = "graphic";
 </script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+<script type="text/javascript" src="http://ad.afy11.net/srad.js?azId=1000004835807">
 </script>
-   </div>
+<!-- End Adify tag for "Leaderboard" Ad Space (728x90) ID #1000004835807 -->  </div> 
         <div id="footer_content">
           <ul>
           <li><a href="/about_windows.html">About Us</a></li>
@@ -466,7 +488,7 @@ google_ad_height = 90;
           <li><a href="/bibliography.html">Bibliography</a></li>
           </ul>
         </div>
-<div id="copyright">The source of this material is <em>Windows to the Universe</em>, at <a href="http://windows2universe.org">http://windows2universe.org/</a> from the <a href="http://nestanet.org">National Earth Science Teachers Association (NESTA)</a>. The Website was developed in part with the support of <a href="http://www.ucar.edu">UCAR</a> and <a href="http://www.ncar.ucar.edu">NCAR</a>, where it resided from 2000 - 2010.  © 2010 National Earth Science Teachers Association. <em>Windows to the Universe</em>® is a registered trademark of NESTA. All Rights Reserved. See our <a href="/copyright.html">copyright and licenses</a> page for information about how you can use our materials.<a href="/image_linking.html">Site policies</a> and <a href="/disclaimer.html">disclaimer.</a></div>
+<div id="copyright">The source of this material is <em>Windows to the Universe</em>, at <a href="http://windows2universe.org">http://windows2universe.org/</a> from the <a href="http://nestanet.org">National Earth Science Teachers Association (NESTA)</a>. The Website was developed in part with the support of <a href="http://www.ucar.edu">UCAR</a> and <a href="http://www.ncar.ucar.edu">NCAR</a>, where it resided from 2000 - 2010.  © 2011 National Earth Science Teachers Association. <em>Windows to the Universe</em>® is a registered trademark of NESTA. All Rights Reserved. See our <a href="/copyright.html">copyright and licenses</a> page for information about how you can use our materials.<a href="/image_linking.html">Site policies</a> and <a href="/disclaimer.html">disclaimer.</a></div>
     </div>
 </div> <!-- frame -->
 
