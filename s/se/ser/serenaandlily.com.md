@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the serenaandlily.com privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528030302id_/http%3A//www.serenaandlily.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the serenaandlily.com privacy policy that was archived on 2011-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110530152300id_/http%3A//www.serenaandlily.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
