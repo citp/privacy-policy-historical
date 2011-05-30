@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the finviz.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223144641id_/http%3A//www.finviz.com/privacy.ashx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the finviz.com privacy policy that was archived on 2011-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110530151213id_/http%3A//www.finviz.com/privacy.ashx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -48,4 +48,4 @@ Custom Privacy Settings
 We allow registered users to select their preferred level of privacy. The additional privacy settings can be found in My Account > My Profile > Privacy Settings. 
 
 Comments and Questions  
-If you have any questions, comments or concerns about our privacy policy, you may [contact us.](https://web.archive.org/web/20101223144641id_/http%3A//www.finviz.com/contact.ashx)
+If you have any questions, comments or concerns about our privacy policy, you may [contact us.](https://web.archive.org/web/20110530151213id_/http%3A//www.finviz.com/contact.ashx)
