@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arcadia.edu privacy policy that was archived on 2010-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101208212200id_/http%3A//www.arcadia.edu/news/default.aspx%3Fid%3D3096) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arcadia.edu privacy policy that was archived on 2011-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110530032445id_/http%3A//www.arcadia.edu/news/default.aspx%3Fid%3D3096) for the most accurate reproduction.*
 
 # Arcadia University - Web Site Usage Policies
 
