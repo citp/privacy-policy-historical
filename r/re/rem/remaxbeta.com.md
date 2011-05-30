@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the remaxbeta.com privacy policy that was archived on 2010-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100503210116id_/http%3A//www.remax.com/misc/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the remaxbeta.com privacy policy that was archived on 2011-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110530054430id_/http%3A//www.remax.com/misc/privacy_policy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy | RE/MAX International, Inc.
+# Privacy Policy | RE/MAX, LLC.
 
-At RE/MAX International, Inc. your privacy is very important to us. The purpose of this privacy policy is to provide you with a description of the types of information we collect about you when you visit the remax.com web site (the "Web Site"), and how we use that information. By visiting or using the Web Site, you agree to the provisions of this privacy policy. If you do not agree to the terms of this Policy, please do not use the Web Site.
+At RE/MAX, LLC. your privacy is very important to us. The purpose of this privacy policy is to provide you with a description of the types of information we collect about you when you visit the remax.com web site (the "Web Site"), and how we use that information. By visiting or using the Web Site, you agree to the provisions of this privacy policy. If you do not agree to the terms of this Policy, please do not use the Web Site.
 
 This policy only applies to information collected while you are on the Web Site. For more information on how the Web Site may redirect you to other web sites, please see the Links and Redirection to Third Party Sites section below.
 
@@ -23,13 +23,6 @@ In addition, during your visit we automatically collect certain aggregate inform
 We use collected information to make available and to improve our high standard of reliable services. We use such information to:  
 
 
-  * respond to inquiries or service requests and monitor such responses;
-  * provide information about and market our products or services or those of the RE/MAX franchise network of independently owned offices and their affiliated independent real estate agents;
-  * resolve problems; and
-  * manage the Web Site and assess its usage.
-
-
-
 ### Disclosure of Information
 
 When you search for a property, we will redirect you to the site of an independently owned and operated RE/MAX franchise office and provide information you have submitted to us, including the parameters of the search, and if you have registered, your contact information, to that office. Similarly, if you request to be contacted by an agent or office or otherwise request information from us, we will disclose the personally identifiable information you provide to appropriate affiliates of RE/MAX to satisfy your request.
@@ -43,17 +36,10 @@ We may share aggregate (non-personally identifiable) information with certain th
 The Web Site contains links to third party web sites and may redirect you to third party web sites.("Third Party Sites") These include sites of:  
 
 
-  * regional RE/MAX sub-franchisors, many of which are independent of RE/MAX International;
-  * independently owned and operated RE/MAX franchise offices;
-  * independent RE/MAX sales associates affiliated with RE/MAX franchise offices; and
-  * service providers who have a relationship with RE/MAX International, some of whom are permitted to display a RE/MAX logo pursuant to a co-branding agreement.
-
-
-
   
 
 
-Third Party Sites are not under the control of RE/MAX International, and RE/MAX International is not responsible for such Third Party Sites, including without limitation the accuracy, sufficiency, correctness, reliability, veracity, completeness, or timeliness thereof, any link contained therein, or any changes or updates thereto. The inclusion or access to Third Party Sites does not imply an endorsement thereof by RE/MAX International, or of the provider of such content or services, or of any third party web site. RE/MAX International reserves the right to terminate any link or linking program at any time. 
+Third Party Sites are not under the control of RE/MAX, LLC, and RE/MAX, LLC is not responsible for such Third Party Sites, including without limitation the accuracy, sufficiency, correctness, reliability, veracity, completeness, or timeliness thereof, any link contained therein, or any changes or updates thereto. The inclusion or access to Third Party Sites does not imply an endorsement thereof by RE/MAX, LLC, or of the provider of such content or services, or of any third party web site. RE/MAX, LLC reserves the right to terminate any link or linking program at any time. 
 
 Please be aware that when you enter a third party web site, any information you provide, including financial information, is subject to the terms of use and privacy policy of that site.
 
@@ -71,7 +57,7 @@ You must promptly notify us if you become aware that any information provided by
 
 ### Limitation of Liability
 
-UNDER NO CIRCUMSTANCES SHALL RE/MAX INTERNATIONAL BE LIABLE FOR ANY DAMAGES (INCLUDING, BUT NOT LIMITED TO DIRECT, INDIRECT, PUNITIVE, SPECIAL, INCIDENTAL, CONSEQUENTIAL, LOST PROFITS OR LOST REVENUE) THAT RESULT FROM THE USE OF THE INFORMATION OR MATERIALS ON THIS WEB SITE, EVEN IF RE/MAX INTERNATIONAL HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+UNDER NO CIRCUMSTANCES SHALL RE/MAX, LLC BE LIABLE FOR ANY DAMAGES (INCLUDING, BUT NOT LIMITED TO DIRECT, INDIRECT, PUNITIVE, SPECIAL, INCIDENTAL, CONSEQUENTIAL, LOST PROFITS OR LOST REVENUE) THAT RESULT FROM THE USE OF THE INFORMATION OR MATERIALS ON THIS WEB SITE, EVEN IF RE/MAX, LLC HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
 
 ### Governing Law
 
