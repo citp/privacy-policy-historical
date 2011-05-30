@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dev4press.com privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129010141id_/http%3A//www.dev4press.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dev4press.com privacy policy that was archived on 2011-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110530214159id_/http%3A//www.dev4press.com/privacy-policy) for the most accurate reproduction.*
 
 # Dev4Press | Privacy Policy
 
