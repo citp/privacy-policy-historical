@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anh-usa.org privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130052200id_/http%3A//www.anh-usa.org/%3Fpage_id%3D1242) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anh-usa.org privacy policy that was archived on 2011-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110530165112id_/http%3A//www.anh-usa.org/%3Fpage_id%3D1242) for the most accurate reproduction.*
 
 # Privacy Policy | Welcome to the Alliance for Natural Health - USA
 
