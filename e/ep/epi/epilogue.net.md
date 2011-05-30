@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the epilogue.net privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125093728id_/http%3A//www.epilogue.net/support/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epilogue.net privacy policy that was archived on 2011-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110530023838id_/http%3A//www.epilogue.net/support/legal/privacy.html) for the most accurate reproduction.*
 
-# Fantasy Art at Epilogue.net - Privacy Policy - Fantasy and Sci-fi at their best� [Fantasy art, sci-fi art, anime and more!]
+# Fantasy Art at Epilogue.net - Privacy Policy - Fantasy and Sci-fi at their best©
 
 At Epilogue, we respect your privacy and take the responsibility of protecting the personal information that you share with us very seriously. To earn your trust and confidence in Epilogue, we are disclosing our privacy practices and the uses of the information that we gather.
 
 These links provide detailed information about Epilogue's privacy policies:
 
-  * [What general information does Epilogue collect and how is it used?](https://web.archive.org/web/20101125093728id_/http%3A//www.epilogue.net/support/legal/privacy.html#general)
-  * [What personal information does Epilogue collect and how is it used?](https://web.archive.org/web/20101125093728id_/http%3A//www.epilogue.net/support/legal/privacy.html#personal)
-  * [How do I access, change or delete information about myself?](https://web.archive.org/web/20101125093728id_/http%3A//www.epilogue.net/support/legal/privacy.html#howto)
+  * [What general information does Epilogue collect and how is it used?](https://web.archive.org/web/20110530023838id_/http%3A//www.epilogue.net/support/legal/privacy.html#general)
+  * [What personal information does Epilogue collect and how is it used?](https://web.archive.org/web/20110530023838id_/http%3A//www.epilogue.net/support/legal/privacy.html#personal)
+  * [How do I access, change or delete information about myself?](https://web.archive.org/web/20110530023838id_/http%3A//www.epilogue.net/support/legal/privacy.html#howto)
 
 
 
