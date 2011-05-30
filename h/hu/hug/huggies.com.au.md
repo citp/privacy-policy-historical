@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the huggies.com.au privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522235628id_/http%3A//www.huggies.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the huggies.com.au privacy policy that was archived on 2011-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110530024319id_/http%3A//www.huggies.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy policy - Huggies.com.au Huggies.com.au
 
