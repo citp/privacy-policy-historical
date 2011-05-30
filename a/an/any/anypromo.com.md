@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the anypromo.com privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129122241id_/http%3A//www.anypromo.com/t-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anypromo.com privacy policy that was archived on 2011-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110530105915id_/http%3A//www.anypromo.com/t-privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Promotional Products - AnyPromo
-
-
-
-
-| 
 
 ## Overview
 
@@ -264,6 +259,4 @@ Chino,  CA 91710
 
 
 
-This Privacy Policy was last changed on January 1, 2006. If AnyPromo.com makes changes to any terms or conditions of the Privacy Policy, the changes will be posted in this document so that you will always know what information we gather, how we might use that information and to whom we will disclose it. We may change, modify, add or remove portions of this Policy at any time, and any changes will become effective immediately upon being posted unless we tell you otherwise.   
-  
----|---
+This Privacy Policy was last changed on January 1, 2006. If AnyPromo.com makes changes to any terms or conditions of the Privacy Policy, the changes will be posted in this document so that you will always know what information we gather, how we might use that information and to whom we will disclose it. We may change, modify, add or remove portions of this Policy at any time, and any changes will become effective immediately upon being posted unless we tell you otherwise. 
