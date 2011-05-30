@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the inboxdollars.com privacy policy that was archived on 2010-12-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101226072847id_/http%3A//inboxdollars.com/pages/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the inboxdollars.com privacy policy that was archived on 2011-05-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110530173719id_/http%3A//www.inboxdollars.com/pages/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/" xml:lang="en" lang="en"><head>
 	<title>InboxDollars® - Earn Cash for E-Mail, Surveys, Games, and More!</title>
@@ -7,9 +7,22 @@
 	<meta name="description" content="Make money online! InboxDollars® pays its members to: Sign Up, Read E-Mail, Refer Others, Join Survey Sites, Play Games, Complete Offers, and More!">
 	<meta http-equiv="X-UA-Compatible" content="IE=7">
 	<link rel="shortcut icon" href="/favicon.ico">
-	<link rel="stylesheet" type="text/css" href="/css/core.css?v=20090330">
+	
+	<link rel="stylesheet" type="text/css" href="/css/core.css">
+	<link rel="stylesheet" type="text/css" href="/css/core_RS.css?v=20090330">
+	<link href="/css/nav.css" rel="stylesheet" type="text/css">
+
+	
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+	<script type="text/javascript" src="/js/accordscript.js"></script>
+	<script type="text/javascript" src="/js/dropdowntabs.js"></script>
+	
+	<script type="text/javascript" src="/js/jQuery/jquery.min.js"></script>
+	<script type="text/javascript" src="/js/jQuery/jquery.galleria.js"></script>
+	
+
+	
 	<link rel="stylesheet" type="text/css" href="/css/InboxDollars.css?v=20090330">
-    <script type="text/javascript" src="/js/jQuery/jquery-1.3.2.min.js"></script>
 	<meta property="og:title" content="InboxDollars® - the free online rewards club that pays cash.">
 	<meta property="og:image" content="http://www.inboxdollars.com/graphics/site/pages/facebook/app_logo_75x75.jpg">
 
@@ -21,7 +34,6 @@
 	<![endif]-->
 
 	<!-- Javascript -->
-    
 	<script type="text/javascript">
 	function hide(obj) {
 		var obj = document.getElementById(obj);
@@ -35,14 +47,89 @@
 	}
 	
 	</script>
-    
-	<!-- 
-		** Commented out rather than deleted - 3/1/2010 **
-		<script type="text/javascript" src="http://w.sharethis.com/button/sharethis.js#publisher=a50d1459-3723-4bec-8e0e-fa7b77180e1c&amp;type=website">
-		</script>
-	-->
+
 	
+	<script type="text/javascript" src="/js/dom_ready.js"></script>	
 		
+		<script type="text/javascript">			
+
+			var scrollInterval = 0;
+		
+			function scrollDeals ()
+			{
+				$.galleria.next();
+			}
+			
+			function stopInterval()
+			{
+				clearInterval(scrollInterval);
+			}
+						
+		
+			 function loadGal()
+			 {
+		
+			 		document.getElementById('glist').style.visibility = "visible";
+					
+					$('.gallery_demo_unstyled').addClass('gallery_demo'); // adds new class name to maintain degradability
+					
+					$('ul.gallery_demo').galleria({
+						history   : false, // activates the history object for bookmarking, back-button etc.
+						clickNext : true, // helper for making the image clickable
+						insert    : '#main_image', // the containing selector for our main image
+						onImage   : function(image,caption,thumb) { // let's add some image effects for demonstration purposes
+							
+							// fade in the image & caption
+							image.css('display','none').fadeIn(1000);
+							caption.css('display','none').fadeIn(1000);
+							
+							// fetch the thumbnail container
+							var _li = thumb.parents('li');
+							
+							// fade out inactive thumbnail
+							_li.siblings().children('img.selected').fadeTo(500,0.3);
+							
+							// fade in active thumbnail
+							thumb.fadeTo('fast',1).addClass('selected');
+							
+							// add a title for the clickable image
+							//image.attr('title','Next image >>');
+						},
+						onThumb : function(thumb) { // thumbnail effects goes here
+			
+							// fetch the thumbnail container
+							var _li = thumb.parents('li');
+							
+							// if thumbnail is active, fade all the way.
+							var _fadeTo = _li.is('.active') ? '1' : '0.3';
+							
+							// fade in the thumbnail when finnished loading
+							thumb.css({display:'none',opacity:_fadeTo}).fadeIn(1500);
+							
+							// hover effects
+							thumb.hover(
+								function() { thumb.fadeTo('fast',1); },
+								function() { _li.not('.active').children('img').fadeTo('fast',0.3); } // don't fade out if the parent is active
+							)
+						}
+					});
+					
+					
+					scrollInterval = setInterval("scrollDeals()", 5000 );
+					
+				};
+		
+		
+				// Set up for the browser being used
+				window.onDomReady = DomReady;
+		
+				// Tell which action to take
+				window.onDomReady(loadGal);
+		
+				
+		</script>
+	
+	
 	
 </head>
 
@@ -59,27 +146,59 @@
       // The user has logged out, and the cookie has been cleared
     }
   });
-</script>
- 
- 
-<div id="page" class="content_back">
-
-	<!-- header -->
+</script>  
 
 
-			<div id="header" class="default">
-				<a href="/" id="siteName">InboxDollars®</a>
-				<ul id="nav-head">
-					<li class="first"><a href="/">Home</a></li>
-					<li><a href="/advertisers/start">Advertisers</a></li>
-					<li><a href="/pages/faq">FAQ</a></li>
-					<li class="last"><a href="/contacts">Contact&nbsp;Us</a></li>
-				</ul>
-				<a href="/members/signup" id="header-callToAction">
-					<h2>More than 5 Million Members!</h2>
-					<img src="/graphics/site/buttons/joinFree.png" alt="Join Free!" border="0">
-				</a>
-			</div>
+
+	
+			<div class="wrapper"> 			
+								<div class="facebook-tooltip-redesign">
+					Post to Facebook, get 10% of their qualified earnings when your friends join InboxDollars
+				</div>
+					
+				<div>
+			
+					<div class="logoContainer">
+						<div class="floatLeft">
+							<a href="/"><img src="/graphics/rs/site/logos/ibdlogo.png" alt="Logo" id="logo" border="1"></a>
+						</div>
+						<!-- START FACEBOOK ON/ OFF #1 -->
+												<div id="headerFBLike">
+							<fb:like width="200" href="http://www.facebook.com/InboxDollars" show_faces="false" border="1"> </fb:like>
+						</div>
+												<!--  END FACEBOOK ON/ OFF #1 -->
+					</div>
+					
+					
+					
+					<div class="memberboxContainer">			
+						<div id="navHolderRS">
+								<ul id="nav-headRS">
+									<li class="first"><a href="/members/support/knowledgebase" target="_blank">Support&nbsp;Center</a>| </li>
+									<li class="last"><a href="/members/logout">Logout</a></li>								
+								</ul>
+						</div>	
+						<div class="welcomeHolder">
+							<div id="greeting">
+								<p>Welcome back,<br><span class="greetingBold">Cecilia</span></p>
+							</div>				
+						</div>	
+						<div class="facebookHolder">
+							<div>
+																	
+										<a href="/facebook_connect" class="fb_connect_head_btn"><img src="/graphics/site/pages/facebook/fb_connect_head_button.jpg" alt="Connect with Facebook"></a>							
+																</div>												
+						</div>	
+						
+																
+					</div>
+				
+				</div>			
+												
+			</div><!-- END WRAPPER -->
+			
+					
+			
 		
 
 
@@ -99,18 +218,18 @@ $(document).ready(function(){
 				if($.browser.msie){
 					$(".fb_connect_head_btn").hover(
 						function() {
-							$('.facebook-tooltip').show();
+							$('.facebook-tooltip-redesign').show();
 						},
 						function() {
-							$('.facebook-tooltip').hide();
+							$('.facebook-tooltip-redesign').hide();
 						});
 				}else{
-					$(".fb_connect_head_btn").hover(
+				$(".fb_connect_head_btn").hover(
 						function() {
-							$('.facebook-tooltip').fadeIn();
+							$('.facebook-tooltip-redesign').fadeIn();
 					},
 						function() {
-							$('.facebook-tooltip').fadeOut();
+							$('.facebook-tooltip-redesign').fadeOut();
 						});
 				}
  			});
@@ -126,33 +245,612 @@ $(document).ready(function(){
 
 
     
+ 
+<div class="wrapper2">
+	<div id="headerGreenBar">		
 		
-	<!-- Navigation -->
-			<div id="nav-side">
-				<h3 class="heading-membersLogin">Members Login</h3>
-				<div id="loginWithEmailTip" style="display:none;">
-					<p>
-						<b>Try Out the <em>New</em> Log In!</b><br>
-						You can now log in with your Email Address rather than your Username.<br>
-						Give it a try!
-					</p>
+				
+				<div id="offertb">
+					<span style="font-family:Arial; font-style: italic; color: #ffffff; font-size: 14pt;"></span>
+				</div> 
+				<div id="offertb2">
+					<a href="/members/channels/offers/go/3799"><img src="http://www.inboxdollars.com/graphics/rs/site/structure/tboffer2.png"></a>
+				</div>  		
+				
+		
+			
+	</div>
+	
+		
+		<div id="headerGrayBar">		
+			
+			<div id="headerGrayBarLeft">
+							</div>
+			
+			<div id="headerGrayBarRight">
+				<div id="headerCurrentEarnings">
+					<div id="headerCurrentEarningsDollars">
+                    <a href="/members/earnings" target="_self" title="Click here to get your most up-to-date earnings!">
+						9.20</a>
+					</div>
 				</div>
-								
-				<form action="/members/login" method="POST" name="1207076589"><p style="display: none; margin: 0px; padding: 0px;"><input type="hidden" name="data[form][this_forms_name]" value="1207076589" id="Name1207076589"><input type="hidden" name="data[form][this_forms_key]" value="1207076589" id="Key1207076589"><input type="hidden" name="data[form][your_email]" value="" id="your_email"></p>					<label for="MemberUsername">Email Address: <img src="/graphics/site/icons/help.gif" alt="" class="handy" onmouseover="show('loginWithEmailTip');" onmouseout="hide('loginWithEmailTip');"></label>
-					<input name="data[Member][username]" size="12" maxlength="50" tabindex="1" value="" type="text" id="MemberUsername">					<label for="MemberPassword">Password:</label>
-					<input type="password" name="data[Member][password]" size="12" tabindex="2" value="" id="MemberPassword">										
-					<small><a id="forgottenPassword" href="/members/password_lookup" tabindex="5">» Forgot your Password?</a></small>
-					<input type="image" src="/graphics/site/buttons/login-large.png" alt="Login" border="0" id="nav-login" value="submit" tabindex="3">
-				</form>
-				<h3 class="heading-notAMember">Not a Member?</h3>
-				<a class="button" href="/members/signup"><img src="/graphics/site/buttons/joinFree-large.png" alt="Join Free!" border="0" tabindex="4"></a>
+				<div id="headerCurrentEarningsLabel">
+					<div class="currentEarningsLabel"><a href="/members/earnings" target="_self" title="Click here to get your most up-to-date earnings!">Current Earnings:</a></div>
+				</div>
 			</div>
+			
+	</div> </div><!-- END WRAPPER2 -->
 
-	<div id="content">
-<div id="masthead">
+
+<!-- Navigation -->
+<style type="text/css">
+
+.colorTabs{
+	padding: 0px;
+	margin: 0;
+	width: 950px;
+	height: 32px;
+}
+
+.colorTabs ul{
+	font: normal 11px Arial, Verdana, sans-serif;
+	margin:0;
+	padding:0;
+	list-style:none;
+}
+
+.colorTabs li{
+	display: inline;
+	margin:0;
+	padding:0;
+}
+
+/* ######### Style for Drop Down Menu ######### */
+
+.dropmenudiv_e{
+	position:absolute;
+	top: 0;
+	border: 1px solid #657f27; /*THEME CHANGE HERE*/
+	border-width: 1px;
+	font:normal 12px Verdana;
+	line-height:18px;
+	z-index:100;
+	background-color: #eff8d2;
+	width: 200px;
+	visibility: hidden;
+}
+
+.dropmenudiv_e a{
+	width: auto;
+	display: block;
+	text-indent: 5px;
+	border: 0 solid #657f27; /*THEME CHANGE HERE*/
+	border-bottom-width: 1px;
+	padding: 2px 0;
+	text-decoration: none;
+	color: black;
+}
+
+* html .dropmenudiv_e a{ /*IE only hack*/
+	width: 100%;
+}
+
+.dropmenudiv_e a:hover{ /*THEME CHANGE HERE*/
+	background-color: #c8e181;
+}
+
+.colorTabs li a.home{
+	float:left;
+	text-align: center;
+	text-decoration: none;
+	padding: 0;
+	margin: 0px 0px 0px 0px;
+	color: black;
+	font-size: 13px;
+	height: 32px;
+	width:72px;
+	background-color: #5A5A5D;
+}
+.colorTabs li a.home:hover, .colorTabs li.selected a.home{
+background: url(/graphics/rs/site/structure/nav/home_bg_on.jpg);
+background-repeat: repeat;
+background-position: center;
+}
+.colorTabs div.home{
+	background: url(/graphics/rs/site/structure/nav/home_off.png);
+	height: 32px;
+	width:100%;
+	border: 0px;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+.colorTabs div.home:hover, .colorTabs div.home.selected {
+	background: url(/graphics/rs/site/structure/nav/home_on.png);
+	height: 32px;
+	width:100%;
+	border: 0px;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+.offers_menu {
+	border: 2px solid #F4D587;
+	border-top-width: 2px;
+	border-bottom-width: 2px;
+	z-index: 200;
+}
+
+.colorTabs li a.offers{
+	float:left;
+	text-align: center;
+	text-decoration: none;
+	padding: 0;
+	margin: 0px 0px 0px 0px;
+	color: black;
+	font-size: 13px;
+	height: 32px;
+	width:87px;
+	background-color: #5A5A5D;
+}
+.colorTabs li a.offers:hover, .colorTabs li.selected a.offers{
+background: url(/graphics/rs/site/structure/nav/offers_bg_on.jpg);
+background-repeat: repeat;
+background-position: center;
+}
+.colorTabs div.offers{
+	background: url(/graphics/rs/site/structure/nav/offers_off.png);
+	height: 32px;
+	width:100%;
+	border: 0px;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+.colorTabs div.offers:hover, .colorTabs div.offers.selected {
+	background: url(/graphics/rs/site/structure/nav/offers_on.png);
+	height: 32px;
+	width:100%;
+	border: 0px;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+.shopping_menu {
+	border: 2px solid #CEE4AE;
+	border-top-width: 2px;
+	border-bottom-width: 2px;
+	z-index: 200;
+}
+
+.colorTabs li a.shopping{
+	float:left;
+	text-align: center;
+	text-decoration: none;
+	padding: 0;
+	margin: 0px 0px 0px 0px;
+	color: black;
+	font-size: 13px;
+	height: 32px;
+	width:87px;
+	background-color: #5A5A5D;
+}
+.colorTabs li a.shopping:hover, .colorTabs li.selected a.shopping{
+background: url(/graphics/rs/site/structure/nav/shopping_bg_on.jpg);
+background-repeat: repeat;
+background-position: center;
+}
+.colorTabs div.shopping{
+	background: url(/graphics/rs/site/structure/nav/shopping_off.png);
+	height: 32px;
+	width:100%;
+	border: 0px;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+.colorTabs div.shopping:hover, .colorTabs div.shopping.selected {
+	background: url(/graphics/rs/site/structure/nav/shopping_on.png);
+	height: 32px;
+	width:100%;
+	border: 0px;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+.colorTabs li a.surveys{
+	float:left;
+	text-align: center;
+	text-decoration: none;
+	padding: 0;
+	margin: 0px 0px 0px 0px;
+	color: black;
+	font-size: 13px;
+	height: 32px;
+	width:87px;
+	background-color: #5A5A5D;
+}
+.colorTabs li a.surveys:hover, .colorTabs li.selected a.surveys{
+background: url(/graphics/rs/site/structure/nav/surveys_bg_on.jpg);
+background-repeat: repeat;
+background-position: center;
+}
+.colorTabs div.surveys{
+	background: url(/graphics/rs/site/structure/nav/surveys_off.png);
+	height: 32px;
+	width:100%;
+	border: 0px;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+.colorTabs div.surveys:hover, .colorTabs div.surveys.selected {
+	background: url(/graphics/rs/site/structure/nav/surveys_on.png);
+	height: 32px;
+	width:100%;
+	border: 0px;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+.colorTabs li a.games{
+	float:left;
+	text-align: center;
+	text-decoration: none;
+	padding: 0;
+	margin: 0px 0px 0px 0px;
+	color: black;
+	font-size: 13px;
+	height: 32px;
+	width:87px;
+	background-color: #5A5A5D;
+}
+.colorTabs li a.games:hover, .colorTabs li.selected a.games{
+background: url(/graphics/rs/site/structure/nav/games_bg_on.jpg);
+background-repeat: repeat;
+background-position: center;
+}
+.colorTabs div.games{
+	background: url(/graphics/rs/site/structure/nav/games_off.png);
+	height: 32px;
+	width:100%;
+	border: 0px;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+.colorTabs div.games:hover, .colorTabs div.games.selected {
+	background: url(/graphics/rs/site/structure/nav/games_on.png);
+	height: 32px;
+	width:100%;
+	border: 0px;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+.colorTabs li a.coupons{
+	float:left;
+	text-align: center;
+	text-decoration: none;
+	padding: 0;
+	margin: 0px 0px 0px 0px;
+	color: black;
+	font-size: 13px;
+	height: 32px;
+	width:87px;
+	background-color: #5A5A5D;
+}
+.colorTabs li a.coupons:hover, .colorTabs li.selected a.coupons{
+background: url(/graphics/rs/site/structure/nav/coupons_bg_on.jpg);
+background-repeat: repeat;
+background-position: center;
+}
+.colorTabs div.coupons{
+	background: url(/graphics/rs/site/structure/nav/coupons_off.png);
+	height: 32px;
+	width:100%;
+	border: 0px;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+.colorTabs div.coupons:hover, .colorTabs div.coupons.selected {
+	background: url(/graphics/rs/site/structure/nav/coupons_on.png);
+	height: 32px;
+	width:100%;
+	border: 0px;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+.colorTabs li a.videos{
+	float:left;
+	text-align: center;
+	text-decoration: none;
+	padding: 0;
+	margin: 0px 0px 0px 0px;
+	color: black;
+	font-size: 13px;
+	height: 32px;
+	width:87px;
+	background-color: #5A5A5D;
+}
+.colorTabs li a.videos:hover, .colorTabs li.selected a.videos{
+background: url(/graphics/rs/site/structure/nav/videos_bg_on.jpg);
+background-repeat: repeat;
+background-position: center;
+}
+.colorTabs div.videos{
+	background: url(/graphics/rs/site/structure/nav/videos_off.png);
+	height: 32px;
+	width:100%;
+	border: 0px;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+.colorTabs div.videos:hover, .colorTabs div.videos.selected {
+	background: url(/graphics/rs/site/structure/nav/videos_on.png);
+	height: 32px;
+	width:100%;
+	border: 0px;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+.colorTabs li a.tasks{
+	float:left;
+	text-align: center;
+	text-decoration: none;
+	padding: 0;
+	margin: 0px 0px 0px 0px;
+	color: black;
+	font-size: 13px;
+	height: 32px;
+	width:87px;
+	background-color: #5A5A5D;
+}
+.colorTabs li a.tasks:hover, .colorTabs li.selected a.tasks{
+background: url(/graphics/rs/site/structure/nav/tasks_bg_on.jpg);
+background-repeat: repeat;
+background-position: center;
+}
+.colorTabs div.tasks{
+	background: url(/graphics/rs/site/structure/nav/tasks_off.png);
+	height: 32px;
+	width:100%;
+	border: 0px;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+.colorTabs div.tasks:hover, .colorTabs div.tasks.selected {
+	background: url(/graphics/rs/site/structure/nav/tasks_on.png);
+	height: 32px;
+	width:100%;
+	border: 0px;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+.colorTabs li a.refer{
+	float:left;
+	text-align: center;
+	text-decoration: none;
+	padding: 0;
+	margin: 0px 0px 0px 0px;
+	color: black;
+	font-size: 13px;
+	height: 32px;
+	width:107px;
+	background-color: #5A5A5D;
+}
+.colorTabs li a.refer:hover, .colorTabs li.selected a.refer{
+background: url(/graphics/rs/site/structure/nav/refer_bg_on.jpg);
+background-repeat: repeat;
+background-position: center;
+}
+.colorTabs div.refer{
+	background: url(/graphics/rs/site/structure/nav/refer_off.png);
+	height: 32px;
+	width:100%;
+	border: 0px;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+.colorTabs div.refer:hover, .colorTabs div.refer.selected {
+	background: url(/graphics/rs/site/structure/nav/refer_on.png);
+	height: 32px;
+	width:100%;
+	border: 0px;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+.more_menu {
+	border: 2px solid #FFE1B2;
+	border-top-width: 2px;
+	border-bottom-width: 2px;
+	z-index: 200;
+}
+
+.colorTabs li a.more{
+	float:left;
+	text-align: center;
+	text-decoration: none;
+	padding: 0;
+	margin: 0px 0px 0px 0px;
+	color: black;
+	font-size: 13px;
+	height: 32px;
+	width:72px;
+	background-color: #5A5A5D;
+}
+.colorTabs li a.more:hover, .colorTabs li.selected a.more{
+background: url(/graphics/rs/site/structure/nav/more_bg_on.jpg);
+background-repeat: repeat;
+background-position: center;
+}
+.colorTabs div.more{
+	background: url(/graphics/rs/site/structure/nav/more_off.png);
+	height: 32px;
+	width:100%;
+	border: 0px;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+.colorTabs div.more:hover, .colorTabs div.more.selected {
+	background: url(/graphics/rs/site/structure/nav/more_on.png);
+	height: 32px;
+	width:100%;
+	border: 0px;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+.account_menu {
+	border: 2px solid #E6E6E6;
+	border-top-width: 2px;
+	border-bottom-width: 2px;
+}
+
+.colorTabs li a.account{
+	float:left;
+	text-align: center;
+	text-decoration: none;
+	padding: 0;
+	margin: 0px 0px 0px 0px;
+	color: black;
+	font-size: 13px;
+	height: 32px;
+	width:90px;
+	background-color: #387c2c;
+}
+.colorTabs li a.account:hover, .colorTabs li.selected a.account{
+background: url(/graphics/rs/site/structure/nav/account_bg_on.jpg);
+background-repeat: repeat;
+background-position: center;
+}
+.colorTabs div.account{
+	background: url(/graphics/rs/site/structure/nav/account_off.png);
+	height: 32px;
+	width:100%;
+	border: 0px;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+.colorTabs div.account:hover, .colorTabs div.account.selected {
+	background: url(/graphics/rs/site/structure/nav/account_on.png);
+	height: 32px;
+	width:100%;
+	border: 0px;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+</style>
+
+
+<div class="nav" style="width:950px; height:32px; overlfow: auto;">
+
+<!--<div id="colortab" class="ddcolortabs" style="overlfow: auto;" >-->
+<div id="topNavMenu" class="colorTabs">
+<ul>
+	<li id="home_li"><a href="/" title="Home" class="home"><div id="home_li_link_div" class="home"></div></a></li>
+	<li id="offers_li"><a href="/members/channels/offers" title="Offers" class="offers" rel="offers_dropdown"><div id="offers_li_link_div" class="offers"></div></a></li>
+	<li id="shopping_li"><a href="/members/channels/shopping" title="Shopping" class="shopping" rel="shopping_dropdown"><div id="shopping_li_link_div" class="shopping"></div></a></li>
+	<li id="surveys_li"><a href="/members/channels/surveys" title="Surveys" class="surveys"><div id="surveys_li_link_div" class="surveys"></div></a></li>
+	<li id="games_li"><a href="/members/channels/games" title="Games" class="games"><div id="games_li_link_div" class="games"></div></a></li>
+	<li id="coupons_li"><a href="/members/channels/coupons/" title="Coupons" class="coupons"><div id="coupons_li_link_div" class="coupons"></div></a></li>
+	<li id="videos_li"><a href="/members/channels/videos" title="Videos" class="videos"><div id="videos_li_link_div" class="videos"></div></a></li>
+	<li id="tasks_li"><a href="/members/channels/tasks" title="Tasks" class="tasks"><div id="tasks_li_link_div" class="tasks"></div></a></li>
+	<li id="refer_li"><a href="/members/refer" title="Refer Friends" class="refer"><div id="refer_li_link_div" class="refer"></div></a></li>
+	<li id="more_li"><a href="#" title="More" class="more" rel="more_dropdown"><div id="more_li_link_div" class="more"></div></a></li>
+	<li id="account_li"><a href="#" title="My Account" class="account" rel="account_dropdown"><div id="account_li_link_div" class="account"></div></a></li>
+</ul>
+
+<div id="offers_dropdown" class="dropmenudiv_a offers_menu">
+	<ul>
+		<li><a href="/members/channels/offers/index/2" class="noboard_1Col">100% FREE Offers</a></li>
+		<li><a href="/members/channels/offers" class="noboard_1Col">All Offers</a></li>
+		<li><a href="/members/channels/offers/index/3" class="noboard_1Col">Trial Offers</a></li>
+		<li><a href="/members/channels/offers/index/4" class="noboard_1Col">Survey Offers</a></li>
+		<li><a href="/members/channels/offers/index/47" class="noboard_1Col">Repeat Rewards</a></li>
+		<li class="noboard_1Col"><a></a></li>
+		<li><a href="/members/channels/offers/index/40" class="noboard_1Col">As Seen on TV</a> </li>
+		<li><a href="/members/channels/offers/index/5" class="noboard_1Col">Books</a> </li>
+		<li><a href="/members/channels/offers/index/38" class="noboard_2Col licol_first">Children</a> </li>
+		<li><a href="/members/channels/offers/index/6" class="noboard_2Col">Credit Cards</a> </li>
+		<li><a href="/members/channels/offers/index/42" class="noboard_2Col">Entertainment</a> </li>
+		<li><a href="/members/channels/offers/index/7" class="noboard_2Col">Financial</a> </li>
+		<li><a href="/members/channels/offers/index/31" class="noboard_2Col">Flowers &amp; Gift Ideas</a> </li>
+		<li><a href="/members/channels/offers/index/39" class="noboard_2Col">Food &amp; Beverage</a> </li>
+		<li><a href="/members/channels/offers/index/8" class="noboard_2Col">Health &amp; Beauty</a> </li>
+		<li><a href="/members/channels/offers/index/33" class="noboard_2Col">Home &amp; Garden</a> </li>
+		<li><a href="/members/channels/offers/index/9" class="noboard_3Col licol_first">Home Business</a> </li>
+		<li><a href="/members/channels/offers/index/20" class="noboard_3Col">Ink - Printer</a> </li>
+		<li><a href="/members/channels/offers/index/46" class="noboard_3Col">Magazines</a> </li>
+		<li><a href="/members/channels/offers/index/11" class="noboard_3Col">Membership Clubs</a> </li>
+		<li><a href="/members/channels/offers/index/12" class="noboard_3Col">Miscellaneous</a> </li>
+		<li><a href="/members/channels/offers/index/16" class="noboard_3Col">Mobile</a> </li>
+		<li><a href="/members/channels/offers/index/13" class="noboard_3Col">Music &amp; Videos</a> </li>
+		<li><a href="/members/channels/offers/index/14" class="noboard_3Col">Online Services</a> </li>
+		<li><a href="/members/channels/offers/index/35" class="noboard_4Col licol_first">Pets</a> </li>
+		<li><a href="/members/channels/offers/index/37" class="noboard_4Col">Travel</a> </li>
+		<li><a href="/members/channels/offers/index/22" class="noboard_4Col">Weight Loss</a> </li>
+	</ul>
+</div>
+<div id="shopping_dropdown" class="dropmenudiv_a shopping_menu">
+	<ul>
+		<li><a href="/members/channels/shopping/directory" class="noboard_1Col">Store Listings</a></li>
+		<li class="noboard_1Col"><a></a></li>
+		<li><a href="/members/channels/shopping/25" class="noboard_1Col">Automotive</a> </li>
+		<li><a href="/members/channels/shopping/26" class="noboard_1Col">Babies &amp; Kids</a> </li>
+		<li><a href="/members/channels/shopping/5" class="noboard_1Col">Books</a> </li>
+		<li><a href="/members/channels/shopping/28" class="noboard_1Col">Clothing &amp; Shoes</a> </li>
+		<li><a href="/members/channels/shopping/30" class="noboard_1Col">Department Stores</a> </li>
+		<li><a href="/members/channels/shopping/29" class="noboard_1Col">Electronics &amp; Games</a> </li>
+		<li><a href="/members/channels/shopping/31" class="noboard_2Col licol_first">Flowers &amp; Gift Ideas</a> </li>
+		<li><a href="/members/channels/shopping/8" class="noboard_2Col">Health &amp; Beauty</a> </li>
+		<li><a href="/members/channels/shopping/33" class="noboard_2Col">Home &amp; Garden</a> </li>
+		<li><a href="/members/channels/shopping/34" class="noboard_2Col">Jewelry</a> </li>
+		<li><a href="/members/channels/shopping/12" class="noboard_2Col">Miscellaneous</a> </li>
+		<li><a href="/members/channels/shopping/35" class="noboard_2Col">Pets</a> </li>
+		<li><a href="/members/channels/shopping/36" class="noboard_2Col">Sporting Goods &amp; Tickets</a> </li>
+		<li><a href="/members/channels/shopping/37" class="noboard_2Col">Travel</a> </li>
+	</ul>
+</div>
+<div id="more_dropdown" class="dropmenudiv_a more_menu">
+	<ul>
+		<li><a href="/facebook_connect" class="noboard_1Col">Facebook Connect</a></li>
+		<li><a href="/toolbar/install" class="noboard_1Col">InboxDollars Toolbar</a></li>
+		<li><a href="/members/channels/education" class="noboard_1Col">Education Center</a></li>
+		<li><a href="/sweepstakes" class="noboard_1Col">Sweepstakes</a></li>
+		<li class="noboard_1Col"><a></a></li>
+	</ul>
+</div>
+<div id="account_dropdown" class="dropmenudiv_a account_menu">
+	<ul>
+		<li><a href="/members/earnings" class="noboard_1Col">Current Earnings</a></li>
+		<li><a href="/members/profile" class="noboard_1Col">Member Profile</a></li>
+		<li><a href="/members/survey" class="noboard_1Col">Profile Surveys</a></li>
+		<li><a href="/members/payments/request" class="noboard_1Col">Request Payment</a></li>
+		<li><a href="/members/payments/history" class="noboard_1Col">Payment History</a></li>
+		<li><a href="/members/gold_membership" class="noboard_1Col">Gold Membership</a></li>
+		<li><a href="/members/cancel_account&#10;" class="noboard_1Col">Cancel Account</a></li>
+		<li class="noboard_1Col"><a></a></li>
+	</ul>
+</div>
+
+</div>	
+</div>
+
+
+<script type="text/javascript">
+//SYNTAX: tabdropdown.init("menu_id", [integer OR "auto"])
+tabdropdown.init("topNavMenu", '');
+</script>
+
+			
+		
+			
+			
+
+ 
+<div id="mainContentParent">
+
+	<table border="0" cellpadding="0" cellspacing="0">
+		<tbody><tr>
+			<td id="mainContentLeft" valign="top">	
+				<div id="mainContentLeftDiv">
+					<br>
+					<div class="contbord">
+						<div id="masthead">
 	<h1>Privacy Policy</h1>
 	<p>InboxDollars® reserves the right to modify this Privacy Policy at any time. The date and time of the last update will always appear below, which serves as notice to our Users.</p>
-	<p>Last Updated: <i>December 16, 2009 10:00 a.m. CST</i></p>
+	<p>Last Updated: <i>March 10, 2011 9:00 a.m. CST</i></p>
 </div>
 
 
@@ -354,23 +1052,224 @@ $(document).ready(function(){
 	</li>
 </ol>
 
+	
+					</div>
+					<br> 					
+				</div><!--END MAIN CONTENT LEFT DIV -->
+			</td>
+			<td id="mainContentRight" valign="top">               
+                <div id="rtwrap">   
+					<div id="mainContentRightCenter">
+													
+											
+											
+																		
+						<img src="/graphics/rs/specialclubheader.png" alt="Special Club Offer" height="30" style="margin-bottom:10px;">
+
+													<div class="adwrap" style="height: auto; border:solid; border-color:#000; border-width:1px; width:300px; background-color: #FFFFFF;">
+							<a href="/members/channels/offers/go/4134" target="_blank"><img src="http://www.inboxdollars.com/graphics/advertisers/offers/300x250_Kelloggs_C3_40K_Coupon.jpg" border="0"></a>
+							
+											
+							</div>
+				
+												
+						
+						<br><br>
+						
+												
+												
+												
+											
+																													
+											<img src="/graphics/rs/site/structure/featureddealsheader.png" alt="Featured Deals" style="margin-bottom:10px;">
+                    <div class="adwrap" style=" background-color: #ffffff; height: auto; border:solid; border-color:#000; border-width:1px; width:300px;">
+				
+						<div id="demoContainer">									
+						
+							<div class="demo" align="center">							
+							
+								<div id="main_image"></div>									
+										
+								<div id="featuredDealsButtonContainer" align="left">
+									<div class="offerListing">										
+										<div class="item" onmouseover="this.style.backgroundColor='#fdfcf5';" onmouseout="this.style.backgroundColor='transparent';">
+											<div class="item-image">
+												<a class="offerButton" id="featuredDealButtonLink" href="" target="_blank"><span id="featuredDealButtonText">$</span></a>
+											</div>
+										</div>												
+									 </div>								
+								</div>
+									
+								<div align="center" id="featuredDealsNavContainer">
+								
+									<div id="previousSlideShow">
+										<div style="vertical-align: center;"><a class="previousSlideShowLink" onclick="$.galleria.prev(); stopInterval(); return false;" href="#">&lt; PREV</a></div>
+									</div>
+								
+									<div id="featuredDealsNav">										
+
+										<ul id="glist" class="gallery_demo_unstyled" style="visibility: visible;">
+										
+																					
+												<li class="active"><img src="http://www.inboxdollars.com/graphics/advertisers/offers/ADS127_300Qui03-copy.gif" link="/members/channels/offers/go/4010" link2="http://partners.cotterweb.net/z/3195/CD1/%FULL_SUB_ID%" buttontext="Earn $12.00"></li>
+											
+																																	
+												<li><img src="http://www.inboxdollars.com/graphics/advertisers/offers/banner-E-300x250_10.gif" link="/members/channels/offers/go/4049" link2="http://partners.cotterweb.net/z/3315/CD1/%FULL_SUB_ID%" buttontext="Earn $1.00"></li>
+											
+																																	
+												<li><img src="http://www.inboxdollars.com/graphics/advertisers/offers/300x250_smiley_newslogan_static_012511.gif" link="/members/channels/offers/go/3984" link2="http://partners.cotterweb.net/z/1975/CD1/%FULL_SUB_ID%" buttontext="Earn $6.00"></li>
+											
+																																	
+												<li><img src="http://www.awltovhc.com/image-3120907-10820280" link="/members/channels/offers/go/4030" link2="http://www.jdoqocy.com/click-3120907-10820280?sid=%FULL_SUB_ID%" buttontext="Earn $8.00"></li>
+											
+																																	
+												<li><img src="http://www.awltovhc.com/image-2866774-10848908" link="/members/channels/offers/go/4033" link2="http://www.kqzyfj.com/click-2866774-10848908?sid=%FULL_SUB_ID%" buttontext="Earn $2.50"></li>
+											
+																																</ul>										
+
+									</div>
+											
+									<div id="nextSlideShow">
+										<div style="vertical-align: center;"><a class="nextSlideShowLink" onclick="$.galleria.next(); stopInterval(); return false;" href="#"> NEXT &gt;</a></div>
+									</div>
+											
+								</div>		
+								
+							</div>		
+							
+						</div>		
+						
+				</div> <!-- END ADWRAP -->
+                    
+                    <br><br>
+                    
+                    
+                    						
+												<img src="/graphics/rs/whatsnew.png" alt="What's New" height="20" style="margin-bottom:10px;">
+
+													<div class="adwrap" style="height: 125px; border:solid; border-color:#000; border-width:1px; width:300px; background-color: #FFFFFF;">
+							<a href="/members/channels/offers/go/3791" target=""><img src="http://www.inboxdollars.com/graphics/advertisers/offers/facebook_125x300ad2.jpg" border="0"></a>
+							
+														
+							</div>
+				
+												
+						
+						<br><br>
+						
+											
+						
+																		
+					</div>
+                <br>
+				</div> <!-- END RTWRAP -->
+			
+			</td>
+		</tr>
+	</tbody></table>			
+
+</div><!--END mainContentParent -->
+
+              
+
+<div class="contwrap" style="border: 0px solid #ff0000; margin:0 auto; width:950px; overflow: auto; background-color:#E0EADA;">
+
+	
+	<div id="mostPopularOffers_rs">
+		<h3>Most Popular Offers</h3>
+							
+				<!-- this element is used to display popular offers - Jeremy Wegener 9.08.10 -->
+				<div class="enclosed offers" style="width:225px;">
+					<h2>CreditReport.com </h2>
+					<a href="/members/channels/offers/go/2005" class="offerDescription" target="_blank">
+						<img src="http://www.ftjcfx.com/image-3120907-10662460" alt="CreditReport.com" border="0" width="120" height="60">
+						<span class="description">Get your free Credit Score in seconds!  Plus get 7 days of monitoring your Credit Score at all 3 Credit Bureaus.</span>
+					</a>
+					<a href="/members/channels/offers/go/2005" class="offerButton" target="_blank">
+						<span>Earn $8.00</span>
+					</a>
+				</div>          
+     
+  
+
+
+
+
+
+							
+				<!-- this element is used to display popular offers - Jeremy Wegener 9.08.10 -->
+				<div class="enclosed offers" style="width:225px;">
+					<h2>Walmart MoneyCard </h2>
+					<a href="/members/channels/offers/go/4115" class="offerDescription" target="_blank">
+						<img src="http://www.inboxdollars.com/graphics/advertisers/offers/WalmartMoney_120x60.jpg" alt="Walmart MoneyCard" border="0" width="120" height="60">
+						<span class="description">Get your Walmart Visa Prepaid Card and use everywhere Visa debit is accepted, including ATMs! No credit check or bank account required, and no overdraft fees. This is the smart way to manage your money. Signup today!</span>
+					</a>
+					<a href="/members/channels/offers/go/4115" class="offerButton" target="_blank">
+						<span>Earn $1.25</span>
+					</a>
+				</div>          
+     
+  
+
+
+
+
+
+							
+				<!-- this element is used to display popular offers - Jeremy Wegener 9.08.10 -->
+				<div class="enclosed offers" style="width:225px;">
+					<h2>Big Buck Survey </h2>
+					<a href="/members/channels/offers/go/2446" class="offerDescription" target="_blank">
+						<img src="http://www.inboxdollars.com/graphics/advertisers/offers/bigbucks-120x60.gif" alt="Big Buck Survey" border="0" width="120" height="60">
+						<span class="description">Complete a short survey for a chance to win a $1,500 gift card!  Get Rich Rewards! Get your chance to Win Today!</span>
+					</a>
+					<a href="/members/channels/offers/go/2446" class="offerButton" target="_blank">
+						<span>Earn $2.25</span>
+					</a>
+				</div>          
+     
+  
+
+
+
+
+
+							
+				<!-- this element is used to display popular offers - Jeremy Wegener 9.08.10 -->
+				<div class="enclosed offers" style="width:225px;">
+					<h2>Nielsen Online - Digital Voice </h2>
+					<a href="/members/channels/offers/go/4008" class="offerDescription" target="_blank">
+						<img src="http://www.inboxdollars.com/graphics/advertisers/offers/120x60_smiley_newslogan_anim.gif" alt="Nielsen Online - Digital Voice" border="0" width="120" height="60">
+						<span class="description">Join Nielsen Online for FREE for Chances to Win! It's easy. Sign up, download the app &amp; surf the web! Nielsen gives away $10,000 in CASH EACH MONTH—400 Winners every month! Keep the app for 35+ days for your monthly chances to WIN!</span>
+					</a>
+					<a href="/members/channels/offers/go/4008" class="offerButton" target="_blank">
+						<span>Earn $6.00</span>
+					</a>
+				</div>          
+     
+  
+
+
+
+
+
+			            
 	</div>
 
 
 
-	<!-- footer -->
-		<ul id="nav-footer">
+</div>
+<div class="footer" style="background-image:url(/graphics/site/structure/footbar.jpg); height:25px;">	<ul id="nav-footer_rs">
 		<li class="first"><a href="/">Home</a></li>
-		<li><a href="/advertisers">Advertisers</a></li>
+		<li><a href="http://www.cotterweb.net/advertisers.php">Advertisers</a></li>
 		<li><a href="/pages/faq">F.A.Q.</a></li>
 		<li><a href="/contacts" target="_blank">Contact Us</a></li>
 		<li><a href="/pages/terms">Terms of Membership</a></li>
 		<li class="last"><a href="/pages/privacy">Privacy Policy</a></li>
-	</ul></div> <!-- /#page -->
-
+	</ul></div>
 <!-- Copyright notice -->
 <div id="copyright">
-	© Copyright 2000–2010 &nbsp;&nbsp;&nbsp; InboxDollars® &nbsp;&nbsp;&nbsp; All Rights Reserved<br>
+	© Copyright 2000–2011 &nbsp;&nbsp;&nbsp; InboxDollars® &nbsp;&nbsp;&nbsp; All Rights Reserved<br>
 	InboxDollars® is part of: <a href="http://www.cotterweb.net" target="_blank">CotterWeb Enterprises, Inc.</a>
 </div>
 
@@ -383,8 +1282,7 @@ var pageTracker = _gat._getTracker("UA-696666-8");
 pageTracker._initData();
 pageTracker._trackPageview();
 </script>
-<!-- ws12.cotterweb.net -->
-
+<!-- ws11.cotterweb.net -->
 
 
 </body></html>
