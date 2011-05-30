@@ -1,13 +1,15 @@
-> *The following text is extracted and transformed from the fwmrm.net privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218033333id_/http%3A//www.freewheel.tv/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fwmrm.net privacy policy that was archived on 2011-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110530052306id_/http%3A//freewheel.tv/privacy) for the most accurate reproduction.*
 
 # FreeWheel
 
 ## Privacy
 
-This privacy statement (this “Statement”) describes the types of information that FreeWheel Media, Inc. (“FreeWheel” or “we”) collects from users of its corporate Web site ([www.freewheel.tv](http://www.freewheel.tv/)) and the Web site that its customers use to use and access the services FreeWheel provides to its customers ([mrm.freewheel.tv](http://mrm.freewheel.tv/)). This Statement also describes the services that we provide to our customers, including our hosted solution that enables our customers to manage and monetize online video advertising (the "Services"). This Statement also contains our end user opt-out mechanism. Unless otherwise provided in this Statement, this Statement does not cover our offline data practices.
+This privacy statement (this “Statement”) describes the types of information that FreeWheel Media, Inc. (“FreeWheel” or “we”) collects from users of its corporate Web site ([www.freewheel.tv](http://www.freewheel.tv/)) and the Web site that its customers use to use and access the services FreeWheel provides to its customers ([mrm.freewheel.tv](http://mrm.freewheel.tv/)). This Statement also describes the services that we provide to our customers, including our hosted solution that enables our customers to manage and monetize online video advertising (the “Services”). This Statement also contains our end user opt-out mechanism. Unless otherwise provided in this Statement, this Statement does not cover our offline data practices.
 
   
-This Statement is effective as of the date set forth above. We encourage you to check this Statement from time to time. If we make material changes that will affect any personal information that we have already collected from you, we will make reasonable efforts to notify you of the changes[ ](http://google.com/)and to give you the opportunity to opt-out. Your continued use of this Web Site constitutes your acceptance of the current posted privacy policy. If you have questions about our privacy policy, please email us at .
+This Statement is effective as of the date set forth above. We encourage you to check this Statement from time to time. If we make material changes that will affect any personal information that we have already collected from you, we will make reasonable efforts to notify you of the changes[ ](http://google.com/)and to give you the opportunity to opt-out. Your continued use of this Web Site constitutes your acceptance of the current posted privacy policy. If you have questions about our privacy policy, please email us at 
+
+.
 
 ## Privacy policy for the FreeWheel Web Sites
 
@@ -39,7 +41,7 @@ Cookies are files that Web servers place on an Internet user’s computer that a
 
 By electing to receive a special [opt-out cookie](http://cue.v.fwmrm.net/ad/optout), ads delivered to your browser on behalf of customers using FreeWheel’s ad-serving technology will be targeted based only on the non-personally-identifiable information that is automatically transmitted in the Internet environment when an ad request is received by FreeWheel’s ad servers. In such case, your FreeWheel cookie will not be uniquely identified. The non-personally identifiable information that is automatically transmitted includes your browser type, Internet service provider, information about the general content of the site or page displayed on your browser, and other non-personally-identifiable information provided by the Web Site or content provider. When you receive this cookie, FreeWheel’s systems will know that you have opted-out and will not attempt to assign other FreeWheel cookies in the future. Since the FreeWheel opt-out cookie does not contain a unique user number, it does not allow your browser to be identified uniquely.
 
-PLEASE NOTE that if you erase or otherwise alter your browser's cookie file (including upgrading certain browsers) or use a new or different computer, you may need to opt-out again.
+PLEASE NOTE that if you erase or otherwise alter your browser’s cookie file (including upgrading certain browsers) or use a new or different computer, you may need to opt-out again.
 
 ## Security
 
@@ -49,7 +51,7 @@ We maintain security measures in place with the view to protecting against the l
 
 As we continue to develop our business, we may sell certain of our assets. In such transactions, visitor information may be one of the transferred assets. Also, in the event that all or substantially all of our assets are acquired in a transaction, our visitor information may be an asset that is reviewed and transferred. Such a transaction will be disclosed per the guidelines below. Also, we reserve the right to disclose any data we collect at our sites if required by law or valid order of a court or other governmental authority or to protect the health and safety of our employees or the general public.
 
-If we decide to change our privacy policies, we will post those changes to this Privacy Statement, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If, however, we are going to use visitors' personally identifiable information in a manner different from that stated at the time of collection we will notify visitors by posting a notice on our web site for thirty (30) days in advance of such use.
+If we decide to change our privacy policies, we will post those changes to this Privacy Statement, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If, however, we are going to use visitors’ personally identifiable information in a manner different from that stated at the time of collection we will notify visitors by posting a notice on our web site for thirty (30) days in advance of such use.
 
 ## Children
 
