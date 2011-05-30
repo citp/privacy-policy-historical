@@ -1,16 +1,13 @@
-<!--The following is the downloaded HTML source of the styledrops.com privacy policy that was archived on 2010-12-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101210084746id_/http%3A//styledrops.com/interne/customers/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the styledrops.com privacy policy that was archived on 2011-05-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110530225136id_/http%3A//www.styledrops.com/interne/customers/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" dir="ltr"><head>
 <meta http-equiv="content-type" content="text/html; charset=utf-8">
 <meta http-equiv="content-language" content="en">
 <meta name="language" content="EN">
-
-<meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
 <title>Prada Gucci Fendi Tod's Hogan Designer Shoes Handbags and Apparel Made in Italy</title>
 <meta name="description" content="Styledrops sells designer dress shoes, sport shoes, handbags by Prada, Gucci, Tod's, Hogan Dolce and Gabbana and Fendi. At Styledrops you can find Women's and men's styles directly from Italy. Find Prada, Fendi, Gucci, Hogan, Tod's and many others at discounted prices">
-<meta name="keywords" content="Prada womens and mens shoes Fendi Tod's Gucci handbags Hogan Miu Miu Casadei wallets designer apparel women's accessories pullovers Fendi handbags purse leather made in Italy italian ties Zegna ties designer neckties">
-<meta http-equiv="pics-label" content="(pics-1.1 &quot;http://www.icra.org/ratingsv02.html&quot; comment &quot;ICRAonline EN v2.0&quot; l gen true for &quot;http://www.styledrops.com&quot; r (nz 1 vz 1 lz 1 oz 1 cz 1) &quot;http://www.rsac.org/ratingsv01.html&quot; l gen true for &quot;http://www.styledrops.com&quot; r (n 0 s 0 v 0 l 0))"><!-- parte comune head -->
+<meta name="keywords" content="Prada womens and mens shoes Fendi Tod's Gucci handbags Hogan Miu Miu Casadei wallets designer apparel women's accessories pullovers Fendi handbags purse leather made in Italy italian ties Zegna ties designer neckties"><!-- parte comune head -->
 
 <style type="text/css" media="all">@import "/css/interne/new_interne.css";</style>
 
@@ -67,15 +64,107 @@
 <![endif]-->
 
 <!--div#contenuto{ width: expression(document.body.clientWidth < 780 ? "582px":"auto") }-->
-
+ 
+<link rel="stylesheet" type="text/css" href="/css/interne/ddlevelsmenu-base.css">
+<script type="text/javascript" src="/js/ddlevelsmenu.js"></script>
 <script type="text/javascript" src="/js/new_interne.js"></script>
+<script type="text/javascript">
+function changeLang(lang)
+{
+	var nomePath = location.pathname;
+	var get = location.search;
+	
+	var redUrl = '';
+	var url = nomePath.split('/');
+		
+	if(nomePath.indexOf('lang-') > 0)
+	{
+		var lang_old = url[1].split('-');
+		nomePath = nomePath.replace('/lang-' + lang_old[1], '');
+		var cur_old = url[2].split('-');
+		nomePath = nomePath.replace('/cur-' + cur_old[1], '');
+		var cou_old = url[3].split('-');
+		nomePath = nomePath.replace('/cou-' + cou_old[1], '');
+		
+		var cur = cur_old[1];
+		var cou = cou_old[1];
+	}
+	else
+	{
+		var cur = 'usd';
+		var cou = 'us';
+	}
+	
+	if(lang == 'en' && cur == 'usd' && cou == 'us')
+		redUrl += nomePath + get;
+	else
+	{
+		if(nomePath.indexOf('/interne/cart/') < 0)
+			redUrl += '/lang-' + lang + '/cur-' + cur + '/cou-' + cou + nomePath + get;
+		else
+			redUrl += nomePath + get;
+	}
+		
+	cancellaCookie('lang');
+	cancellaCookie('cur');
+	cancellaCookie('cou');
+	scriviCookie('lang', lang, '/');
+	scriviCookie('cur', cur, '/');
+	scriviCookie('cou', cou, '/');
+	
+	location.href = redUrl;
+	
+	return false;
+}
 
-<!-- 
-<script src=http://www.google.com/jsapi type="text/javascript"></script>
-<script type="text/javascript" charset="utf-8">
-google.load('ads', '1', {packages: ['search']});
-</script>
- -->
+function changeCur(cur)
+{
+	var nomePath = location.pathname;
+	var get = location.search;
+	
+	var redUrl = '';
+	var url = nomePath.split('/');
+	
+	if(nomePath.indexOf('lang-') > 0)
+	{
+		var lang_old = url[1].split('-');
+		nomePath = nomePath.replace('/lang-' + lang_old[1], '');
+		var cur_old = url[2].split('-');
+		nomePath = nomePath.replace('/cur-' + cur_old[1], '');
+		var cou_old = url[3].split('-');
+		nomePath = nomePath.replace('/cou-' + cou_old[1], '');
+		
+		var lang = lang_old[1];
+		var cou = cou_old[1];
+	}
+	else
+	{
+		var lang = 'en';
+		var cou = 'us';
+	}
+	
+	if(lang == 'en' && cur == 'usd' && cou == 'us')
+		redUrl += nomePath + get;
+	else
+	{
+		if(nomePath.indexOf('/interne/cart/') < 0)
+			redUrl += '/lang-' + lang + '/cur-' + cur + '/cou-' + cou + nomePath + get;
+		else
+			redUrl += nomePath + get;
+	}
+		
+	cancellaCookie('lang');
+	cancellaCookie('cur');
+	cancellaCookie('cou');
+	scriviCookie('lang', lang, '/');
+	scriviCookie('cur', cur, '/');
+	scriviCookie('cou', cou, '/');
+	
+	location.href = redUrl;
+	
+	return false;
+}
+</script> 
  
 <!-- /parte comune head--><script type="text/javascript">function newWindow(a_str_windowURL, a_str_windowName, a_int_windowWidth, a_int_windowHeight, a_bool_scrollbars, a_bool_resizable, a_bool_menubar, a_bool_toolbar, a_bool_addressbar, a_bool_statusbar, a_bool_fullscreen) 
 {
@@ -409,7 +498,42 @@ function sintetizza(stilista, azione)
 
 /***** funzione che regola la scelta della taglia nelle pagine della categoria e del prodotto***/
 
-function scegliTaglia(questo) 
+function scegliTaglia(questo, dreambox) 
+{
+	mioForm = eval("document." + questo);
+	
+	if(mioForm.sizes.type == 'select-one')
+	{
+		if(mioForm.sizes.selectedIndex == 0)
+		{
+			alert('You have to choose a size for this product');
+			mioForm.action = 'javascript:void(0);';
+		}
+		else
+			inviaDati(mioForm, dreambox);
+	}
+	else if(mioForm.sizes.type == 'hidden')
+		inviaDati(mioForm, dreambox);
+}
+
+function inviaDati(mioForm, dreambox)
+{
+	var itemId = mioForm.prodotto_id.value;
+	if(mioForm.sizes.type == 'select-one')
+		var quantityId = mioForm.sizes.options[mioForm.sizes.selectedIndex].value;
+	else
+		var quantityId = mioForm.sizes.value;
+	
+	if(dreambox)
+		mioForm.action = '/mystyledrops/wishlist/add/' + itemId + '/' + quantityId;
+	else
+		mioForm.action = 'https://www.styledrops.com/interne/cart/index.php';
+	//mioForm.action = '/cart/index/add/' + itemId + '/' + quantityId;
+	
+	mioForm.submit();
+}
+
+/*function scegliTaglia(questo) 
 {
 	mioForm=eval("document."+questo);
 	
@@ -429,9 +553,9 @@ function scegliTaglia(questo)
 
 function inviaDati(mioForm) 
 {
-	mioForm.action="/interne/cart/index.php";
+	mioForm.action="http://www.styledrops.com/interne/cart/index.php";
 	mioForm.submit();
-}
+}*/
 
 /* Funzione che cambia l'action registazione utente in step2.php*/
 
@@ -719,7 +843,7 @@ function viaBici()
 
 }
 
-1</script>
+</script>
 </head>
 
 <body>
@@ -729,51 +853,40 @@ function viaBici()
 <hr>
 <div class="sidebar" id="neroSx"><a href="http://www.styledrops.com/"><img id="logo" src="/imgs/interne/new_interne/logo.gif" alt="Styledrops home page" title="Styledrops home page"></a></div>
 <div class="content" id="neroDx">
-	    	<style type="text/css">
-    	<!--
-    	a#linkCountry {text-decoration:none;color:#FFF;}
-    	a#linkCountry:hover {text-decoration:underline;color:#FFF;}
-    	//-->
-    	</style>
-    	<script type="text/javascript">
-    	<!--
-    	function newWindow(a_str_windowURL, a_str_windowName, a_int_windowWidth, a_int_windowHeight, a_bool_scrollbars, a_bool_resizable, a_bool_menubar, a_bool_toolbar, a_bool_addressbar, a_bool_statusbar, a_bool_fullscreen)
-    	{
-    		var int_windowLeft = (screen.width - a_int_windowWidth) / 2;
-    		var int_windowTop = (screen.height - a_int_windowHeight) / 2;
-    		var str_windowProperties = 'height=' + a_int_windowHeight + ',width=' + a_int_windowWidth + ',top=' + int_windowTop + ',left=' + int_windowLeft + ',scrollbars=' + a_bool_scrollbars + ',resizable=' + a_bool_resizable + ',menubar=' + a_bool_menubar + ',toolbar=' + a_bool_toolbar + ',location=' + a_bool_addressbar + ',statusbar=' + a_bool_statusbar + ',fullscreen=' + a_bool_fullscreen + '';
-    		var obj_window = window.open(a_str_windowURL, a_str_windowName, str_windowProperties);
-    		
-    		if (parseInt(navigator.appVersion) >= 4)
-    			obj_window.window.focus();
-    	}
-    	//-->
-    	</script>
-    	<!--  or country -->
-    	<div id="parteCountry" style="position:relative;top:5px;font-size:15px;">
-       		<span style="float:left;color:#FFF;"><a id="linkCountry" href="/interne/popups/changeParam.php?lang=en&amp;cur=usd&amp;cou=us" onclick="newWindow(this.href, 'parameters', 400, 200, 0, 1, 0, 0, 0, 0, 0); return false;" target="_blank"><strong>Change your language or currency</strong></a></span>
-       		<form name="frmParam" method="post">
-    			<input type="hidden" name="lang">
-    			<input type="hidden" name="cur">
-    			<input type="hidden" name="cou">
-    		</form>
-       	</div>
-		
 	<div>
 		<a href="/interne/customers/form_help.php"><img height="39px" src="/imgs/interne/new_interne/expresshipping.gif"></a>
 	</div>
-	<!-- <span style="color:#FFF;"></span>&nbsp;
-	<span style="color:#4A90CC;"></span> -->
-	
-	<ul id="menuAlto">
-		<li><span class="tabSx"></span><a href="/interne/cart/index.php">shopping bag</a></li>
-		<li><span class="tabSx"></span><a href="http://www.styledrops.com/">home page</a></li>
-		<li id="forum"><span class="tabSx"></span><a href="http://www.glamshoes.com">clearance</a></li>
-		<li><span class="tabSx"></span><a href="http://sunglasses.styledrops.com/">sunglasses</a></li>
-		<li><span class="tabSx"></span><a href="/interne/customers/payments.php">payments</a></li>
-		<li><span class="tabSx"></span><a href="/interne/customers/returns.php">return policy</a></li>
-		<li id="last"><span class="tabSx"></span><a href="/interne/customers/form_help.php">contact us</a></li>
-	</ul>  
+	<div id="ddtopmenubar" style="width:100%;">
+    	<ul id="menuAlto">
+    		<li style="width:45px;"><span class="tabSx" style="width:5px;"></span><a href="http://www.styledrops.com/">home</a></li>
+    		<li style="width:100px;"><span class="tabSx" style="width:5px;"></span><a href="https://www.styledrops.com/interne/cart/index.php">shopping bag</a></li>
+    		<li style="width:85px;" id="forum"><span class="tabSx" style="width:5px;"></span><a href="http://www.glamshoes.com">clearance</a></li>
+    		<li style="width:75px;"><span class="tabSx" style="width:5px;"></span><a href="/interne/customers/payments.php">payments</a></li>
+    		<li style="width:65px;"><span class="tabSx" style="width:5px;"></span><a href="/interne/customers/returns.php">returns</a></li>
+    		<li style="width:95px;"><span class="tabSx" style="width:5px;"></span><a rel="ddsubmenu1" href="javascript:void(0);">language</a></li>
+    		<li style="width:90px;"><span class="tabSx" style="width:5px;"></span><a rel="ddsubmenu2" href="javascript:void(0);">currency</a></li>
+    		<li style="width:110px;" id="forum"><span class="tabSx" style="width:5px;"></span><a style="text-transform:none;" href="http://www.styledrops.com/mystyledrops/index">My<span style="font-weight:100;">Styledrops</span></a></li>
+    		<li style="width:90px;" id="last"><span class="tabSx" style="width:5px;"></span><a href="/interne/customers/form_help.php">contact us</a></li>
+    	</ul>
+    	<br clear="all">
+	</div>
+	<script type="text/javascript">
+    ddlevelsmenu.setup("ddtopmenubar", "topbar");
+    </script>
+    <ul id="ddsubmenu1" class="ddsubmenustyle">
+    	    		<li><a href="javascript:changeLang('en');">English</a></li>
+		    		<li><a href="javascript:changeLang('es');">Español</a></li>
+		    		<li><a href="javascript:changeLang('zh');">中文</a></li>
+		    		<li><a href="javascript:changeLang('de');">Deutsch</a></li>
+		    </ul>
+    <ul id="ddsubmenu2" class="ddsubmenustyle">
+                	<li><a href="javascript:changeCur('usd');">US dollar</a></li>
+    	        	<li><a href="javascript:changeCur('eur');">Euro</a></li>
+    	        	<li><a href="javascript:changeCur('gbp');">Pound</a></li>
+    	        	<li><a href="javascript:changeCur('jpy');">Yen</a></li>
+    	        	<li><a href="javascript:changeCur('aud');">Australian Dollar</a></li>
+    	        	<li><a href="javascript:changeCur('cad');">Canadian Dollar</a></li>
+    		</ul>
 </div>
 <script type="text/javascript">
 <!--
@@ -782,12 +895,12 @@ assegnaCambio('menuAlto', 'tabSx_on', 'tabSx');
 </script>
 <hr>
 <div id="linkLingua">
-	<a href="www.styledrops.com/" alt="Styledrops, en, english, ingles, ??" title="Styledrops, en, english, ingles, ??">www.styledrops.com/</a>
-	<a href="www.styledrops.com/lang-es/" alt="Styledrops, es, spanish, espanol, ??" title="Styledrops, es, spanish, espanol, ??">www.styledrops.com/lang-es/</a>
-	<a href="www.styledrops.com/lang-zh/" alt="Styledrops, zh, chinese, chino, ??" title="Styledrops, zh, chinese, chino, ??">www.styledrops.com/lang-zh/</a>
+	<a href="www.styledrops.com/" alt="Styledrops, en, english, ingles" title="Styledrops, en, english, ingles">www.styledrops.com/</a>
+	<a href="www.styledrops.com/lang-es/" alt="Styledrops, es, spanish, espanol" title="Styledrops, es, spanish, espanol">www.styledrops.com/lang-es/</a>
+	<a href="www.styledrops.com/lang-zh/" alt="Styledrops, zh, chinese, chino" title="Styledrops, zh, chinese, chino">www.styledrops.com/lang-zh/</a>
 	<a href="www.styledrops.com/lang-de/" alt="Styledrops, de, german, deutsch" title="Styledrops, de, german, deutsch">www.styledrops.com/lang-de/</a>
 </div>
-	<!-- inizio colonna di sinistra -->
+		<!-- inizio colonna di sinistra -->
 <!--inizio menu sx-->
 <script type="text/javascript">
 <!-- 
@@ -827,13 +940,15 @@ var rangeId;
 			<li class="menu1CSS"><a href="/chloe-shoes-298.html">Chloè shoes</a></li>
 			<li class="menu1CSS"><a href="/churchs-shoes-238.html">Church's shoes</a></li>
 			<li class="menu1CSS"><a href="/christian-lacroix-shoes-378.html">Christian Lacroix shoes </a></li>
+			<li class="menu1CSS"><a href="/christian-louboutin-shoes-451.html">Christian Louboutin shoes </a></li>
 			<li class="menu1CSS"><a href="/dior-shoes-173.html">Dior shoes</a></li>
 			<li class="menu1CSS"><a href="/dolce-gabbana-shoes-78.html">Dolce &amp; Gabbana shoes</a></li>
 			<li class="menu1CSS"><a href="/dsquared-shoes-232.html">DSquared shoes</a></li>
 			<li class="menu1CSS"><a href="/fendi-shoes-45.html">Fendi shoes</a></li>
 							<li class="menu1CSS"><a href="/ferragamo-shoes.html">Ferragamo shoes</a></li>
 				<li class="menu1CSS"><a href="/hogan-shoes.html">Hogan shoes</a> </li>
-						<li class="menu1CSS"><a href="/jc-de-castelbajac-shoes-447.html">JC de Castelbajac shoes</a></li>
+						<li class="menu1CSS"><a href="/htc-shoes-459.html">HTC shoes</a></li>
+			<li class="menu1CSS"><a href="/jc-de-castelbajac-shoes-447.html">JC de Castelbajac shoes</a></li>
 			<li class="menu1CSS"><a href="/jean-paul-gaultier-shoes-240.html">Jean Paul Gaultier shoes</a></li>
 			<li class="menu1CSS"><a href="/john-galliano-shoes-200.html">John Galliano shoes</a></li>
 			<li class="menu1CSS"><a href="/jimmy-choo-shoes-326.html">Jimmy Choo shoes</a></li>
@@ -846,6 +961,7 @@ var rangeId;
 			<li class="menu1CSS"><a href="/paul-smith-shoes-292.html">Paul Smith shoes</a></li>
         	<li class="menu1CSS"><a href="/ruco-line-shoes-426.html">Ruco Line shoes</a></li>
         	<li class="menu1CSS"><a href="/sergio-rossi-shoes-79.html">Sergio Rossi shoes</a></li>
+			<li class="menu1CSS"><a href="/stephen-venezia-shoes-463.html">Stephen Venezia shoes</a></li>
 							<li class="menu1CSS"><a href="/tods-shoes.html">Tod's shoes</a></li>
 						<li class="menu1CSS"><a href="/tory-burch-shoes-408.html">Tory Burch shoes</a></li>
 			<li class="menu1CSS"><a href="/ugg-shoes-449.html">UGG® shoes</a></li>
@@ -853,6 +969,8 @@ var rangeId;
 			<li class="menu1CSS"><a href="/vivienne-westwood-shoes-178.html">Vivienne Westwood shoes</a></li>
 			<li class="menu1CSS"><a href="/viktor-rolf-shoes-377.html">Viktor &amp; Rolf shoes</a></li>
             <li class="menu1CSS"><a href="/yves-saint-laurent-shoes-171.html">Yves Saint Laurent shoes</a></li>
+            <li class="menu1CSS"><a href="/kork-ease-shoes-461.html">Kork-Ease shoes</a></li>
+            <li class="menu1CSS"><a href="/Worishofer-shoes-462.html">Worishofer shoes</a></li>
             </ul>
             </li>
             <!--women handbags-->
@@ -862,6 +980,7 @@ var rangeId;
                 <li class="menu1CSS"><a href="/gucci-handbags.html">Gucci handbags</a></li>
 						<li class="menu1CSS"><a href="/antoni-and-alison-handbags-439.html">Antoni &amp; Alison handbags</a></li>
 			<li class="menu1CSS"><a href="/balenciaga-handbags-211.html">Balenciaga handbags</a></li>
+			<li class="menu1CSS"><a href="/borbonese-handbags-450.html">Borbonese handbags</a></li>
 			<li class="menu1CSS"><a href="/bottega-veneta-handbags-209.html">Bottega Veneta handbags</a></li>
 			<li class="menu1CSS"><a href="/bulgari-handbags-310.html">Bulgari handbags</a></li>
 			<li class="menu1CSS"><a href="/burberry-handbags-121.html">Burberry handbags</a></li>
@@ -872,6 +991,7 @@ var rangeId;
 			<li class="menu1CSS"><a href="/christian-lacroix-handbags-362.html">Christian Lacroix handbags </a></li>
 			<li class="menu1CSS"><a href="/dior-handbags-175.html">Dior handbags</a></li>
 			<li class="menu1CSS"><a href="/dolce-gabbana-handbags-75.html">Dolce &amp; Gabbana handbags</a></li>
+			<li class="menu1CSS"><a href="/dSquared-handbags-452.html">DSquared handbags</a></li>
 			<li class="menu1CSS"><a href="/fendi-handbags-62.html">Fendi handbags</a></li>
 							<li class="menu1CSS"><a href="/ferragamo-handbags.html">Ferragamo handbags</a></li>
 				<li class="menu1CSS"><a href="/hogan-handbags.html">Hogan handbags</a></li>
@@ -909,11 +1029,12 @@ var rangeId;
 			<li class="menu1CSS"><a href="/burberry-wallets-255.html">Burberry wallets</a></li>
 			<li class="menu1CSS"><a href="/burberry-belts-257.html">Burberry belts</a></li>
 			<li class="menu1CSS"><a href="/bulgari-wallets-344.html">Bulgari wallets</a></li>
-			<li class="menu1CSS"><a href="/bulgari-belts-345.html">Bulgari belts</a></li>
+			<li class="menu1CSS"><a href="/bulgari-accessories-345.html">Bulgari accessories</a></li>
 			<li class="menu1CSS"><a href="/celine-wallets-442.html">Celine wallets</a></li>
 			<li class="menu1CSS"><a href="/dior-belts-365.html">Dior belts</a></li>
 			<li class="menu1CSS"><a href="/dior-hats-410.html">Dior hats</a></li>
 			<li class="menu1CSS"><a href="/dior-wallets-432.html">Dior wallets</a></li>
+			<li class="menu1CSS"><a href="/dolce-gabbana-wallets-299.html">Dolce &amp; Gabbana wallets</a></li>
 			<li class="menu1CSS"><a href="/dolce-gabbana-belts-291.html">Dolce &amp; Gabbana belts</a></li>
 			<li class="menu1CSS"><a href="/dolce-gabbana-jewellery-368.html">Dolce &amp; Gabbana jewellery</a></li>
 			<li class="menu1CSS"><a href="/dolce-gabbana-hats-366.html">Dolce &amp; Gabbana hats</a></li>
@@ -929,10 +1050,12 @@ var rangeId;
             <li class="menu1CSS"><a href="/jean-paul-gaultier-wallets-253.html">Jean Paul Gaultier wallets</a></li>
 			<li class="menu1CSS"><a href="/jean-paul-gaultier-jewellery-391.html">Jean Paul Gaultier jewellery</a></li>
 			<li class="menu1CSS"><a href="/jean-paul-gaultier-watches-197.html">Jean Paul Gaultier watches</a></li>
+			<li class="menu1CSS"><a href="/john-galliano-wallets-382.html">John Galliano wallets </a></li>
 			<li class="menu1CSS"><a href="/john-galliano-belts-381.html">John Galliano belts </a></li>
-			<li class="menu1CSS"><a href="/john-galliano-hats-228.html">John Galliano hats </a></li>
+			<li class="menu1CSS"><a href="/john-galliano-accessories-228.html">John Galliano accessories </a></li>
 			<li class="menu1CSS"><a href="/john-galliano-jewellery-380.html">John Galliano jewellery </a></li>
-			<li class="menu1CSS"><a href="/marc-jacobs-wallets-184.html">Marc Jacobs wallets</a></li>
+			<li class="menu1CSS"><a href="/htc-accessories-456.html">HTC accessories</a></li>
+            <li class="menu1CSS"><a href="/marc-jacobs-wallets-184.html">Marc Jacobs wallets</a></li>
 			<li class="menu1CSS"><a href="/marc-jacobs-jewellery-433.html">Marc Jacobs jewellery</a></li>
 			<li class="menu1CSS"><a href="/miu-miu-wallets-261.html">Miu Miu wallets</a></li>
             <li class="menu1CSS"><a href="/paul-smith-accessories-263.html">Paul Smith accessories</a></li>
@@ -944,18 +1067,26 @@ var rangeId;
 			<li class="menu1CSS"><a href="/vivienne-westwood-wallets-177.html">Vivienne Westwood wallets</a></li>
 			<li class="menu1CSS"><a href="/vivienne-westwood-belts-323.html">Vivienne Westwood belts</a></li>
 			<li class="menu1CSS"><a href="/vivienne-westwood-jewellery-387.html">Vivienne Westwood jewellery</a></li>
-			<li class="menu1CSS"><a href="/yves-saint-laurent-belts-297.html">Yves Saint Laurent belts</a></li>
-              </ul>
+			<li class="menu1CSS"><a href="/vivienne-westwood-accessories-448.html">Vivienne Westwood accessories</a></li>
+            <li class="menu1CSS"><a href="/yves-saint-laurent-belts-297.html">Yves Saint Laurent belts</a></li>
+            </ul>
             </li>
             <li class="menuCSS"><a href="javascript:mmenu('submenu-1-4')"><strong>Clothing</strong></a>
               <ul class="submenu1CSS" id="submenu-1-4">
 	            					<li class="menu1CSS"><a href="/prada-clothing.html">Prada clothing </a></li>
-								<li class="menu1CSS"><a href="/dolce-gabbana-clothing-283.html">Dolce &amp; Gabbana clothing </a></li>
+					<li class="menu1CSS"><a href="/gucci-clothing.html">Gucci clothing </a></li>
+								<li class="menu1CSS"><a href="/balenciaga-clothing-286.html">Balenciaga clothing </a></li>
+				<li class="menu1CSS"><a href="/dolce-gabbana-clothing-283.html">Dolce &amp; Gabbana clothing </a></li>
+				<li class="menu1CSS"><a href="/dondup-clothing-364.html">Dondup clothing </a></li>
 				<li class="menu1CSS"><a href="/jc-de-castelbajac-clothing-414.html">JC de Castelbajac clothing</a></li>
                 <li class="menu1CSS"><a href="/jean-paul-gaultier-clothing-265.html">Jean Paul Gaultier clothing</a></li>
               	<li class="menu1CSS"><a href="/john-galliano-clothing-201.html">John Galliano clothing</a></li>
-				<li class="menu1CSS"><a href="/miu-miu-clothing-187.html">Miu Miu clothing</a></li>
+				<li class="menu1CSS"><a href="/juicy-couture-clothing-455.html">Juicy Couture clothing</a></li>
+			    <li class="menu1CSS"><a href="/givenchy-clothing-453.html">Givenchy clothing</a></li>
+			    <li class="menu1CSS"><a href="/lanvin-clothing-373.html">Lanvin clothing</a></li>
+			    <li class="menu1CSS"><a href="/miu-miu-clothing-187.html">Miu Miu clothing</a></li>
 			    <li class="menu1CSS"><a href="/paul-smith-clothing-347.html">Paul Smith clothing</a></li>
+		    	<li class="menu1CSS"><a href="/ralph-lauren-clothing-454.html">Ralph Lauren clothing</a></li>
 		    	<li class="menu1CSS"><a href="/vivienne-westwood-clothing-266.html">Vivienne Westwood clothing</a></li>
                 <li class="menu1CSS"><a href="/rock-republic-clothing-337.html">Rock &amp; Republic jeans </a></li>
             
@@ -977,22 +1108,27 @@ var rangeId;
 			<li class="menu1CSS"><a href="/prada-shoes-39.html">Prada shoes</a></li>
             <li class="menu1CSS"><a href="/gucci-shoes-48.html">Gucci shoes </a></li>
 			<li class="menu1CSS"><a href="/alberto-guardiani-shoes-376.html">Alberto Guardiani shoes</a></li>
+            <li class="menu1CSS"><a href="/alden-shoes-460.html">Alden shoes</a></li>
             <li class="menu1CSS"><a href="/alexander-mc-queen-shoes-385.html">Alexander Mc Queen shoes</a></li>
             <li class="menu1CSS"><a href="/burberry-shoes-401.html">Burberry shoes</a></li>
 			<li class="menu1CSS"><a href="/car-shoe-shoes-128.html">Car Shoe shoes</a></li>
 			<li class="menu1CSS"><a href="/churchs-shoes-239.html">Church's shoes</a></li>
 			<li class="menu1CSS"><a href="/coverse-special-edition-shoes-438.html">Converse Special Edition shoes</a></li>
+			<li class="menu1CSS"><a href="/crocs-shoes-465.html">Crocs shoes</a></li>
 			<li class="menu1CSS"><a href="/dior-homme-shoes-289.html">Dior Homme shoes</a></li>
 			<li class="menu1CSS"><a href="/dolce-gabbana-shoes-82.html">Dolce &amp; Gabbana shoes</a></li>
 			<li class="menu1CSS"><a href="/dsquared-shoes-231.html">DSquared shoes</a></li>
 			<li class="menu1CSS"><a href="/ferragamo-shoes-84.html">Ferragamo shoes</a></li>
 			<li class="menu1CSS"><a href="/fendi-shoes-332.html">Fendi shoes</a></li>
 			<li class="menu1CSS"><a href="/hogan-shoes-18.html">Hogan shoes</a></li>
+			<li class="menu1CSS"><a href="/jc-de-castelbajac-shoes-469.html">JC de Castelbajac shoes</a></li>
 			<li class="menu1CSS"><a href="/john-galliano-shoes-420.html">John Galliano shoes</a></li>
 			<li class="menu1CSS"><a href="/lanvin-shoes-375.html">Lanvin shoes</a></li>
 			<li class="menu1CSS"><a href="/marc-jacobs-shoes-393.html">Marc Jacobs shoes</a></li>
 			<li class="menu1CSS"><a href="/moncler-shoes-409.html">Moncler shoes</a></li>
 			<li class="menu1CSS"><a href="/paul-smith-shoes-262.html">Paul Smith shoes</a></li>
+			<li class="menu1CSS"><a href="/porsche-design-shoes-467.html">Porsche Design shoes</a></li>
+			<li class="menu1CSS"><a href="/preventi-shoes-464.html">Preventi shoes</a></li>
 			<li class="menu1CSS"><a href="/puma-by-mcqueen-shoes-312.html">Puma by McQueen shoes</a></li>
 			<li class="menu1CSS"><a href="/puma-by-dassler-shoes-313.html">Puma by R. Dassler shoes</a></li>
 			<li class="menu1CSS"><a href="/santoni-shoes-418.html">Santoni shoes</a></li>
@@ -1014,7 +1150,8 @@ var rangeId;
                 <li class="menu1CSS"><a href="/gucci-belts-97.html">Gucci belts</a></li>
                 <li class="menu1CSS"><a href="/gucci-watches-213.html">Gucci watches</a></li>
                 <li class="menu1CSS"><a href="/alexander-mc-queen-wallets-384.html">Alexander Mc Queen wallets </a></li>
-                <li class="menu1CSS"><a href="/dior-belts-365.html">Dior belts</a></li>
+                <li class="menu1CSS"><a href="/bulgari-accessories-345.html">Bulgari accessories</a></li>
+				<li class="menu1CSS"><a href="/dior-belts-365.html">Dior belts</a></li>
 				<li class="menu1CSS"><a href="/dior-hats-410.html">Dior hats</a></li>
 				<li class="menu1CSS"><a href="/dolce-gabbana-belts-291.html">Dolce &amp; Gabbana belts</a></li> 
 				<li class="menu1CSS"><a href="/dolce-gabbana-briefcases-203.html">Dolce &amp; Gabbana briefcases / messenger bags</a></li>
@@ -1037,7 +1174,8 @@ var rangeId;
 				<li class="menu1CSS"><a href="/john-galliano-wallets-382.html">John Galliano wallets </a></li>
                 <li class="menu1CSS"><a href="/john-galliano-handbags-103.html">John Galliano handbags</a></li>
                 <li class="menu1CSS"><a href="/john-galliano-accessories-395.html">John Galliano accessories</a></li>
-                <li class="menu1CSS"><a href="/marc-jacobs-handbags-421.html">Marc Jacobs handbags</a></li>
+                <li class="menu1CSS"><a href="/htc-accessories-456.html">HTC accessories</a></li>
+            	<li class="menu1CSS"><a href="/marc-jacobs-handbags-421.html">Marc Jacobs handbags</a></li>
 				<li class="menu1CSS"><a href="/moncler-hats-423.html">Moncler hats</a></li>
 				<li class="menu1CSS"><a href="/paul-smith-handbags-202.html">Paul Smith handbags</a></li>
 				<li class="menu1CSS"><a href="/paul-smith-accessories-263.html">Paul Smith accessories</a></li>
@@ -1059,8 +1197,10 @@ var rangeId;
               	<li class="menu1CSS"><a href="/gucci-clothing-349.html">Gucci clothing</a></li>
 				<li class="menu1CSS"><a href="/alexander-mcqueen-clothing-359.html">Alexander McQueen clothing</a></li>
 				<li class="menu1CSS"><a href="/antonio-marras-clothing-392.html">Antonio Marras clothing</a></li>
+              	<li class="menu1CSS"><a href="/balmain-clothing-458.html">Balmain clothing</a></li>
               	<li class="menu1CSS"><a href="/christian-dior-clothing-350.html">Christian Dior clothing</a></li>
-                <li class="menu1CSS"><a href="/dolce-gabbana-clothing-244.html">Dolce &amp; Gabbana clothing</a></li>
+                <li class="menu1CSS"><a href="/daniele-alessandrini-clothing-457.html">Daniele Alessandrini clothing</a></li>
+				<li class="menu1CSS"><a href="/dolce-gabbana-clothing-244.html">Dolce &amp; Gabbana clothing</a></li>
 				<li class="menu1CSS"><a href="/dondup-clothing-363.html">Dondup clothing </a></li>
                 <li class="menu1CSS"><a href="/dsquared-clothing-251.html">DSquared clothing</a></li>
                 <li class="menu1CSS"><a href="/fay-clothing-383.html">Fay clothing</a></li>
@@ -1072,6 +1212,7 @@ var rangeId;
 				<li class="menu1CSS"><a href="/marc-jacobs-clothing-370.html">Marc Jacobs clothing</a></li>
                 <li class="menu1CSS"><a href="/paul-smith-clothing-356.html">Paul Smith clothing</a></li>
                 <li class="menu1CSS"><a href="/ralph-lauren-clothing-397.html">Ralph Lauren clothing</a></li>
+                <li class="menu1CSS"><a href="/rick-owens-dark-shadow-clothing-470.html">Rick Owens Dark Shadow clothing</a></li>
                 <li class="menu1CSS"><a href="/roy-roger-s-clothing-435.html">Roy Roger's clothing</a></li>
                 <li class="menu1CSS"><a href="/stone-island-clothing-436.html">Stone Island clothing</a></li>
                 <li class="menu1CSS"><a href="/vivienne-westwood-clothing-259.html">Vivienne Westwood clothing</a></li>
@@ -1090,7 +1231,11 @@ var rangeId;
     			<ul class="submenuCSS" id="submenu-3">
     			  <li class="menuCSS"><strong><a href="javascript:mmenu('submenu-3-1')">Shoes</a></strong> 
                   <ul class="submenu1CSS" id="submenu-3-1">
-                  	<li class="menu1CSS"><a href="/prada-kids-shoes-122.html">Prada Sport shoes</a></li>
+                  	<li class="menu1CSS"><a href="/prada-kids-shoes-122.html">Prada shoes</a></li>
+                  	<li class="menu1CSS"><a href="/gucci-kids-shoes-466.html">Gucci shoes</a></li>
+                  	<li class="menu1CSS"><a href="/clarks-kids-shoes-468.html">Clarks shoes</a></li>
+                  	<li class="menu1CSS"><a href="/hogan-kids-shoes-123.html">Hogan shoes</a></li>
+                  	<li class="menu1CSS"><a href="/tods-kids-shoes-276.html">Tod's shoes</a></li>
                   </ul>
     			 </li>
     		
@@ -1148,7 +1293,7 @@ var rangeId;
 		  <input type="submit" value="go" id="buttonGo" />
 		  <img id="shim" src="/imgs/interne/new_interne/shiim.gif" />
 		</form> -->
-		<form action="http://www2.droplet.it/cgi-bin/newsletter/mail.cgi" method="get" target="_blank">
+		<form action="http://newsletter.styledrops.com/mail.cgi" method="get" target="_blank">
 		  <input type="hidden" name="list" value="styledrops">
 		  <input type="hidden" name="f" value="list">
 		  <input type="hidden" name="set_flavor" value="s">
@@ -1173,7 +1318,6 @@ mostraSel();
 //-->	
 </script>
 <!--/colonna sx-->
-	
 	<div class="content" id="middleContent">
 		<h1 id="titCust">Customer help pages</h1>
 		<div style="height:130px;">
@@ -1216,51 +1360,20 @@ mostraSel();
     </div>
     <br clear="all">
 </div>
-
-		
-		
-			<div id="titCust2">About us</div>
-			<div id="contenutoCust">		   
-				<font color="#666666" size="2"> <strong> Styledrops is committed to respecting the privacy rights of website visitors. The following policy describes how we collect, protect and use information we receive from website visitors. </strong></font>
-				<p><font color="#666666" size="2">STYLEDROPS .com is responsible for this privacy policy. Please note, that when you enter any sub-sites accessible through Styledrops.com, they may have different privacy policies specific to those sites. We encourage you to read the privacy policies of each STYLEDROPS site. </font></p>
-				<p><font color="#666666" size="2"><strong>What information do we collect? </strong><br>
-				• We collect information from you when you register on the site, place an order, respond to a survey or communication such as e-mail, or participate in another site feature. <br>
-				• When ordering or registering, we may ask you for your name, date of birth, e-mail address, mailing address, daytime phone number, credit card information or other information. You may, however, visit our site anonymously or purchase without registering. <br>
-				• We also collect information about gift recipients so that we can fulfill the gift purchase. The information we collect about gift recipients is not used for marketing purposes. <br>
-				• Like many websites, we use “cookies” to enhance  your experience and gather information about visitors and visits to our websites. Please refer to the "Do we use 'cookies' ?"  section below for information about cookies and how we use them. <br>
-				• We also receive and store click-stream data and other information about visits to our websites which may be combined with personal information you have provided. This information is used to analyze and improve the website experience. For more information see the "Do we use 'cookies'?" section below. </font></p>
-				<p><font color="#666666" size="2"><strong>How do we use your information?<br>
-				</strong></font><font color="#666666" size="2">We may use the information we collect from you when you register, purchase products, enter a contest or promotion, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways: <br>
-				• To personalize your site experience and to allow us to deliver the type of content and product offerings in which you are most interested. <br>
-				• To allow us to better service you in responding to your customer service requests. <br>
-				• To quickly process your transactions. <br>
-				• To administer a contest, promotion, survey or other site feature. <br>
-				• If you have opted-in to receive Styledrops e-mail, we may send you periodic e-mails from Styledrops. If you would no longer like to receive Styledrops e-mail, please refer to the “How can you opt-out, remove or modify information you have provided to us?”section below. If you have not opted-in to receive Styledrops e-mail, you will not receive these e-mails. Visitors who register or participate in other site features such as marketing programs and 'members-only' content will be given a choice whether they would like to be on our e-mail list and receive e-mail communications from us. </font></p>
-				<p><font color="#666666" size="2"><strong>How do we protect visitor information?</strong><br> We implement a variety of security measures to maintain the safety of your personal information. Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. When you place orders or access your personal information, we offer the use of a secure server. All sensitive/credit information you supply is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our databases to be only accessed as stated above. </font></p>
-				<p><font color="#666666" size="2"><strong>Do we use “cookies”?<br>
-				</strong></font><font color="#666666" size="2">Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. </font></p>
-				<p><font color="#666666" size="2">You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Netscape Navigator or Internet Explorer) settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. If you turn cookies off, you won't have access to many features that make your site experience more efficient and some of our services will not function properly. However, you can still place orders over the telephone by contacting our customer service numbers:</font><font size="2"><br>
-				</font><font color="#666666" size="2"><strong>For US customers: </strong></font><font size="2"><strong><span class="style1">0039-011-5096531</span></strong></font><font color="#666666" size="2"> (Monday to Friday 8 am - 1.30 pm USA EST) <br>
-				<strong>For China:</strong> +390115096531 (Monday to Friday 9 pm - 2.30 am Central European Time)<br>
-				<strong>For International Customers: +390115096531</strong> (Monday to Friday 2 pm - 7.30 pm CET)</font> </p>
-				<p><font color="#666666" size="2"><strong>Do we disclose the information we collect to outside parties?<br>
-				</strong></font><font color="#666666" size="2">We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice, except as described below. The term “outside parties” does not include STYLEDROPS.com. wholly-owned companies. It also does not include website hosting partners and other parties who assist us in operating our website, conducting Styledrops's business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety. </font></p>
-				<p><font color="#666666" size="2">However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.</font></p>
-				<p><font color="#666666" size="2"><strong>Third party links<br>
-				</strong></font><font color="#666666" size="2">In an attempt to provide you with increased value, we may include third party links on our site. These linked sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these linked sites (including if a specific link does not work). </font></p>
-				<p><font color="#666666" size="2"> <strong>Changes to our policy<br>
-				</strong></font><font color="#666666" size="2">This policy was last modified on September 1, 2003. If we decide to change our privacy policy, we will post those changes on this page. Policy changes will apply only to information collected after the date of the change. </font></p>
-				<p><font color="#666666" size="2"><strong>Questions and feedback<br>
-				</strong></font><font color="#666666" size="2">We welcome your questions, comments, and concerns about privacy. Please send us any and all feedback pertaining to privacy, or any other issue.<br>
-				</font><font color="#666666" size="2"><br>
-				<strong>Online Policy Only<br>
-				</strong></font><font color="#666666" size="2">This online privacy policy applies only to information collected through our website and not to information collected offline.</font><font color="#666666" size="2"><br>
-				<strong><br>Your consent<br>
-				</strong></font><font color="#666666" size="2">By using our site, you consent to our privacy policy.<br>
-				</font><font size="2"></font></p>
-			</div>
-		
-			</div>
+		<div id="titCust2">Privacy policy</div>
+		<div id="contenutoCust"><font size="2" color="#666666"> <strong> Styledrops is committed to respecting the privacy rights of website visitors. The following policy describes how we collect, protect and use information we receive from website visitors. </strong></font>
+<p><font size="2" color="#666666">STYLEDROPS .com is responsible for this privacy policy. Please note, that when you enter any sub-sites accessible through Styledrops.com, they may have different privacy policies specific to those sites. We encourage you to read the privacy policies of each STYLEDROPS site. </font></p>
+<p><font size="2" color="#666666"><strong>What information do we collect? </strong><br> • We collect information from you when you register on the site, place an order, respond to a survey or communication such as e-mail, or participate in another site feature. <br> • When ordering or registering, we may ask you for your name, date of birth, e-mail address, mailing address, daytime phone number, credit card information or other information. You may, however, visit our site anonymously or purchase without registering. <br> • We also collect information about gift recipients so that we can fulfill the gift purchase. The information we collect about gift recipients is not used for marketing purposes. <br> • Like many websites, we use “cookies” to enhance  your experience and gather information about visitors and visits to our websites. Please refer to the "Do we use 'cookies' ?"  section below for information about cookies and how we use them. <br> • We also receive and store click-stream data and other information about visits to our websites which may be combined with personal information you have provided. This information is used to analyze and improve the website experience. For more information see the "Do we use 'cookies'?" section below. </font></p>
+<p><font size="2" color="#666666"><strong>How do we use your information?<br> </strong></font><font size="2" color="#666666">We may use the information we collect from you when you register, purchase products, enter a contest or promotion, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways: <br> • To personalize your site experience and to allow us to deliver the type of content and product offerings in which you are most interested. <br> • To allow us to better service you in responding to your customer service requests. <br> • To quickly process your transactions. <br> • To administer a contest, promotion, survey or other site feature. <br> • If you have opted-in to receive Styledrops e-mail, we may send you periodic e-mails from Styledrops. If you would no longer like to receive Styledrops e-mail, please refer to the “How can you opt-out, remove or modify information you have provided to us?”section below. If you have not opted-in to receive Styledrops e-mail, you will not receive these e-mails. Visitors who register or participate in other site features such as marketing programs and 'members-only' content will be given a choice whether they would like to be on our e-mail list and receive e-mail communications from us. </font></p>
+<p><font size="2" color="#666666"><strong>How do we protect visitor information?</strong><br> We implement a variety of security measures to maintain the safety of your personal information. Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. When you place orders or access your personal information, we offer the use of a secure server. All sensitive/credit information you supply is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our databases to be only accessed as stated above. </font></p>
+<p><font size="2" color="#666666"><strong>Do we use “cookies”?<br> </strong></font><font size="2" color="#666666">Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. </font></p>
+<p><font size="2" color="#666666">You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Netscape Navigator or Internet Explorer) settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. If you turn cookies off, you won't have access to many features that make your site experience more efficient and some of our services will not function properly. However, you can still place orders over the telephone by contacting our customer service numbers:</font><font size="2"><br> </font><font size="2" color="#666666"><strong>For US customers: </strong></font><font size="2"><strong><span class="style1">0039-011-5096531</span></strong></font><font size="2" color="#666666"> (Monday to Friday 8 am - 1.30 pm USA EST) <br> <strong>For China:</strong> +390115096531 (Monday to Friday 9 pm - 2.30 am Central European Time)<br> <strong>For International Customers: +390115096531</strong> (Monday to Friday 2 pm - 7.30 pm CET)</font></p>
+<p><font size="2" color="#666666"><strong>Do we disclose the information we collect to outside parties?<br> </strong></font><font size="2" color="#666666">We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice, except as described below. The term “outside parties” does not include STYLEDROPS.com. wholly-owned companies. It also does not include website hosting partners and other parties who assist us in operating our website, conducting Styledrops's business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety. </font></p>
+<p><font size="2" color="#666666">However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.</font></p>
+<p><font size="2" color="#666666"><strong>Third party links<br> </strong></font><font size="2" color="#666666">In an attempt to provide you with increased value, we may include third party links on our site. These linked sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these linked sites (including if a specific link does not work). </font></p>
+<p><font size="2" color="#666666"> <strong>Changes to our policy<br> </strong></font><font size="2" color="#666666">This policy was last modified on September 1, 2003. If we decide to change our privacy policy, we will post those changes on this page. Policy changes will apply only to information collected after the date of the change. </font></p>
+<p><font size="2" color="#666666"><strong>Questions and feedback<br> </strong></font><font size="2" color="#666666">We welcome your questions, comments, and concerns about privacy. Please send us any and all feedback pertaining to privacy, or any other issue.<br> </font><font size="2" color="#666666"><br> <strong>Online Policy Only<br> </strong></font><font size="2" color="#666666">This online privacy policy applies only to information collected through our website and not to information collected offline.</font><font size="2" color="#666666"><br> <strong><br>Your consent<br> </strong></font><font size="2" color="#666666">By using our site, you consent to our privacy policy.<br> </font></p></div>
+	</div>
 	<!-- inizio footer -->
 
 <div id="contFooter">
@@ -1310,7 +1423,7 @@ mostraSel();
 			<img src="/imgs/home/carte.gif" border="0" usemap="#Map">
             <map name="Map">
               <area shape="rect" coords="4,8,66,48" href="https://usa.visa.com/personal/security/vbv/">
-              <area shape="rect" coords="5,49,64,76" href="http://www.mastercardmerchant.com/securecode/faqs.html">
+              <area shape="rect" coords="5,49,64,76" href="https://www.mastercardmerchant.com/securecode/faqs.html">
               <!-- <area shape="rect" coords="68,50,130,77" href="http://www.paypal.com"> -->
             </map>
 	  </div>
@@ -1322,13 +1435,16 @@ mostraSel();
 		</div></div>
   </div>
 
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
 <script type="text/javascript">
-<!--
-_uacct = "UA-1656623-1";
-urchinTracker();
-//-->
-</script> 
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try{ 
+var pageTracker = _gat._getTracker("UA-1656623-1");
+pageTracker._trackPageview();
+} catch(err) {} 
+</script>
 <!--/ fine footer -->
 </div>
 
