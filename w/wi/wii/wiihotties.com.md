@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wiihotties.com privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129022707id_/http%3A//www.wiihotties.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wiihotties.com privacy policy that was archived on 2011-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110530060807id_/http%3A//www.wiihotties.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Wii Hotties
 
@@ -6,13 +6,13 @@ At www.wiihotties.com, the privacy of our visitors is of extreme importance to u
 
 Any information provided to WiiHotties via comments, e-mail, tweets, or any other communication method will not be distributed in any manner to a third party. Please be assured WiiHotties uses its best efforts to protect the privacy of visitors to this website.
 
-**Log Files**  
+ **Log Files**  
 Like many other Web sites, www.wiihotties.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-**Cookies and Web Beacons**  
+ **Cookies and Web Beacons**  
 www.wiihotties.com does not use cookies.
 
-**DoubleClick DART Cookie**
+ **DoubleClick DART Cookie**
 
 .:: Google, as a third party vendor, uses cookies to serve ads on www.wiihotties.com.
 
