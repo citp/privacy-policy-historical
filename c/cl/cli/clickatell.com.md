@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clickatell.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226095816id_/http%3A//www.clickatell.com/company/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickatell.com privacy policy that was archived on 2011-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110530201655id_/http%3A//www.clickatell.com/company/privacy.php) for the most accurate reproduction.*
 
 # About | Privacy Policy | Clickatell
 
