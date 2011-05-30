@@ -1,30 +1,12 @@
-> *The following text is extracted and transformed from the youtele.com privacy policy that was archived on 2010-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100227053706id_/http%3A//www.youtele.com/youtele08/html/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youtele.com privacy policy that was archived on 2011-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110530052718id_/http%3A//www.youbroadband.in/policy.php) for the most accurate reproduction.*
 
-# YOU Broadband & Cable India Private Limited: Leading High Speed Broadband Internet Service provider in India. Super Fast Connection.
+# YOU Broadband & Cable India Limited: Leading High Speed Broadband Internet Service provider in India. Super Fast Connection.
 
-  * YOU Play
-    * Premium Games
-      * [Games on Demand](http://you.indiagames.com/premium/index.jsp)
-    * Free Games
-      * [Kreeda Games](http://kreeda.youtele.com/)
-      * [Supreme Destiny](http://supremedestiny.youtele.com/supreme.php)
-      * [Level Up Games](http://www.youtele.com/youtele08/html/yourspace/levelupgames.php)
-      * [Games2win](http://www.youtele.com/youtele08/html/yourspace/games2win.php)
-      * [Flash Games](http://www.youtele.com/youtele08/html/yourspace/funzone/funzone.php)
-      * [Free Games Jungle](http://www.youtele.com/youtele08/html/yourspace/funzone/freeflashgames.php)
-  * [YOU Shop](http://www.youshop.in/)
-  * YOU Learn
-    * [24x7 Guru](http://itapps.youtele.com:8100/default/24x7guru/html/index.jsp)
-  * [Greeting Cards](http://www.youtele.com/youtele08/html/greetings.php)
-  * Matrimonial
-    * [Shaadi.com](http://www.shaadi.com/ptnr.php?ptnr=tj5te)
-
-  
 | Privacy  
 ---  
-**What This Privacy Policy Covers**  
+What This Privacy Policy Covers  
   
-  * This policy covers how YOU Broadband & Cable India Private Limited ("Company") treats personal information that the Company collects and receives, including information related to your past use of the Company's products and services. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number etc.
+  * This policy covers how YOU Broadband & Cable India Limited ("Company") treats personal information that the Company collects and receives, including information related to your past use of the Company's products and services. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number etc.
 
 
 
@@ -52,4 +34,13 @@
 
 
 **Changes to this Privacy Policy**  
-The Company may update this policy and display the same in their website without notice to you and such posting will be deemed to have been read by you.
+The Company may update this policy and display the same in their website without notice to you and such posting will be deemed to have been read by you.  
+  
+|   
+---  
+[Site map](http://www.youbroadband.in/sitemap.php) [Privacy Policy](http://www.youbroadband.in/policy.php) [Terms & Conditions](http://www.youbroadband.in/disclaimer.php) [Legal](http://www.youbroadband.in/legal.php) [Careers](http://www.youbroadband.in/careers/our_policy.php) [Contact us](http://www.youbroadband.in/contactus/help_office.php) [Read our blogs](http://www.youbroadband.in/youtelecom_blogs.php) [Customer Testimonials](http://www.youbroadband.in/testimonials.php)  
+YOU Broadband & Cable India Limited  
+  
+"YOU Broadband & Cable India Limited ("Company"), is proposing, subject to statutory and/or regulatory requirements, market conditions and other considerations, an initial public offer of its equity shares ("Equity Shares") of face value Rs. 10/- each and has filed a draft red herring prospectus ("DRHP") with the Securities & Exchange Board of India ("SEBI") in connection therewith. The DRHP is available on the website of SEBI at [www.sebi.gov.in](http://www.sebi.gov.in/), on the website of the Book Running Lead Manager, Edelweiss Capital Limited, at [www.edelcap.com](http://www.edelcap.com/). This advertisement does not constitute or form part of any offer or invitation to sell or issue, or any solicitation of any offer to purchase or subscribe for, any Equity Shares. Any potential investor should note that an investment in the Equity Shares involves a high degree of risk. For details, potential investors should refer to the DRHP filed with the SEBI including the section titled "Risk Factors". This material is not an offer of securities for sale in the United States or elsewhere. The Equity Shares are not being registered under the U.S. Securities Act of 1933, as amended (the "U.S. Securities Act"), or any U.S. state securities laws, and may not be offered or sold within the United States, except pursuant to an exemption from, or in a transaction not subject to, the registration requirements of the U.S. Securities Act and applicable U.S. state securities laws. There will be no public offering of the Equity Shares of the Company in the United States. This material may not be published or distributed in the United States, Canada, Japan or Australia."
+
+< click here to read >
