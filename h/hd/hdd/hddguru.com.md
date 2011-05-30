@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hddguru.com privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202130152id_/http%3A//hddguru.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hddguru.com privacy policy that was archived on 2011-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110530071358id_/http%3A//hddguru.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
