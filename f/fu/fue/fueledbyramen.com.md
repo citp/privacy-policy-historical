@@ -1,13 +1,9 @@
-> *The following text is extracted and transformed from the fueledbyramen.com privacy policy that was archived on 2009-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091222004141id_/http%3A//www.fueledbyramen.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fueledbyramen.com privacy policy that was archived on 2011-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110531000959id_/http%3A//www.fueledbyramen.com/privacy-policy) for the most accurate reproduction.*
 
-# Fueled By Ramen - Privacy Policy
-
-| 
+# Privacy Policy - FueledByRamen.com
 
 **LAST UPDATED:** December 1, 2008
 
-  
-**Privacy Policy**   
 **Fueled By Ramen LLC** (" **Company** ," " **we** ," " **us** ") is concerned about online privacy issues and wants you to be familiar with how we collect, use and disclose your Personally Identifiable Information (as defined below). This Privacy Policy (the " **Policy** ") describes our practices in connection with Personally Identifiable Information that we collect through certain of our web sites, including the site from which you are linking to this Policy (the " **Site** "). This Policy does not govern our collection of information through any web site, or by any other means, other than through the Site; nor does this Policy govern the collection of information by any of our affiliates, including without limitation, those that distribute our music and our joint venture partners (collectively, " **Affiliated Entities** ") or by third parties. 
 
 By using the Site, you agree to the terms and conditions of this Policy. If you do not agree to the terms and conditions of this Policy, please do not use the Site. We reserve the right to change this Policy without prior notice. You can determine when this Policy was last revised by referring to the " _LAST UPDATED_ " legend at the top of this page. Any changes to our Policy will become effective upon our posting of the revised Policy on the Site. Use of the Site following such changes constitutes your acceptance of the revised Policy then in effect. 
@@ -123,39 +119,4 @@ Please note that e-mail communications will not necessarily be secure; according
 
 
   
-© 2007 Copyright Fueled By Ramen LLC | [Privacy Policy](http://www.fueledbyramen.com/privacy) | [Terms of Use](http://www.fueledbyramen.com/terms) | [ParentalGuide.org](http://www.parentalguide.org/) |  | 
 
-[](https://web.archive.org/web/20091222004141id_/http://www.fueledbyramen.com/releases/index.php?id=122)
-
-**A Rocket To The Moon**  
-On Your Side  
-In Stores: 10/13/09  
-[ **BUY NOW**](http://store.fueledbyramen.com/store/show/JFWXP)
-
-[](https://web.archive.org/web/20091222004141id_/http://www.fueledbyramen.com/releases/index.php?id=121)
-
- **Paramore**  
-brand new eyes  
-In Stores: 09/29/09  
-[ **BUY NOW**](http://store.fueledbyramen.com/store/show/T8RU9)
-
-[](https://web.archive.org/web/20091222004141id_/http://www.fueledbyramen.com/releases/index.php?id=120)
-
- **The Swellers**  
-Ups and Downsizing  
-In Stores: 09/29/09  
-[ **BUY NOW**](http://store.fueledbyramen.com/artists/50/store/show/O5118)
-
-[](https://web.archive.org/web/20091222004141id_/http://www.fueledbyramen.com/releases/index.php?id=119)
-
- **The Academy Is...**  
-Lost In Pacific Time  
-In Stores: 09/22/09  
-[ **BUY NOW**](http://store.fueledbyramen.com/store/show/PAXEU)
-
-[](https://web.archive.org/web/20091222004141id_/http://www.fueledbyramen.com/releases/index.php?id=118)
-
- **Various Artists**  
-Jennifer's Body  
-In Stores: 08/25/09  
-[ **BUY NOW**](http://store.fueledbyramen.com/store/show/75867) | 
