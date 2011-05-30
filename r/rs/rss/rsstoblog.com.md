@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rsstoblog.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127142447id_/http%3A//rsstoblog.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rsstoblog.com privacy policy that was archived on 2011-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110530143307id_/http%3A//rsstoblog.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy
 
