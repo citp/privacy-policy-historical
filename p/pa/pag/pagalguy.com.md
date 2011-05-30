@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pagalguy.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123112149id_/http%3A//www.pagalguy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pagalguy.com privacy policy that was archived on 2011-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110530173850id_/http%3A//www.pagalguy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PaGaLGuY.com - India's biggest website for MBA in India, International MBA, CAT, XAT, SNAP, MAT
 
