@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the u-exchange.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123043724id_/http%3A//www.u-exchange.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the u-exchange.com privacy policy that was archived on 2011-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110530220839id_/http%3A//www.u-exchange.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
