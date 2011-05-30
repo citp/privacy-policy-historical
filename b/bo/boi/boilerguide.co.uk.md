@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boilerguide.co.uk privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222111753id_/http%3A//www.boilerguide.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boilerguide.co.uk privacy policy that was archived on 2011-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110530141458id_/http%3A//www.boilerguide.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy
 
