@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the awn.com privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129004811id_/http%3A//www.awn.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awn.com privacy policy that was archived on 2011-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110530163759id_/http%3A//www.awn.com/privacy) for the most accurate reproduction.*
 
 # AWN Privacy Policy | AWN | Animation World Network
 
@@ -23,35 +23,3 @@ Our advertisers and affiliates may be provided general information or data regar
 However, AWN may disclose information you provide if required to do so by law or if we have a good faith belief that disclosure is necessary to (1) comply with the law or with legal process served on AWN; (2) enforce the AWN Terms of Service; (3) protect the rights, property or personal safety of AWN, its users or the public; or (4) respond to claims that any published materials violates the rights of third parties.
 
 In the event that AWN is acquired by another company, your personal information may be part of the assets transferred to the acquiring party.
-
-AWN is owned and operated in the United States of America and our servers are located in the United States of America. Therefore, the collection of user data is governed, to the extent they exist, by United States federal and state privacy law.
-
-**How do I access and modify my registration information?**
-
-All of your registration information is located in your account Profile and Personal Options.  Your profile can be edited at any time, by logging in with your username and password. In addition, within all communications we send you, we will always provide you with instructions for opting out from additional communication.
-
-**How does AWN protect my information?**
-
-AWN has security measures in place to protect the loss, misuse and alteration of the information under our control. Your personal account is protected by your password, which you select. AWN uses commercially reasonable efforts to protect our user data and restricts our employee’s access to such data, except to those whose primary job function it is to maintain this data. Please note that apart from the commercially reasonable efforts we employ, due to conditions beyond our control, we cannot guarantee 100% security of user personal data nor ensure or warrant the security of any information transmitted to us over the Internet and we accept no liability for any unintentional disclosure.
-
-**What about access for children?**
-
-AWN takes children’s online safety very seriously. We do our best not to allow children under the age of 13 to obtain an account and we do not knowingly collect or store any personal information, even in aggregate, about children under the age of 13.
-
-In the event that we or our Affiliates unknowingly send an e-mail or other message to a child (a person under the age of 13 years) who has registered with AWN in violation of the AWN Terms of Service, the child or the child's parent or legal guardian always have the right to opt-out from receiving future e-mails or text messages using the opt-out mechanism contained in the e-mail or message, or to request termination of the child's registration and status as a registered user with AWN.
-
-**What if AWN makes changes to this Privacy Policy?**
-
-AWN periodically may update this Privacy Policy. At our sole discretion, we will attempt to notify our users via email of any updates to this Privacy Policy. However, we encourage you to periodically revisit the Privacy Policy link on the AWN homepage and on the footer of each website page to ensure that you are familiar with the current version. You are responsible for reviewing any revisions to this Privacy Policy and your continued use of the AWN website and services after any change to the policy constitutes your acceptance of the Privacy Policy.
-
-Whom do I contact with questions about the Privacy Policy?
-
-If you have a question or concerns regarding AWN’s website or Privacy Policy, please write us at [privacy@AWN.com](mailto:privacy@awntv.com) or at our postal address:
-
-Attention: AWN Privacy Officer
-
-AWN, Inc.
-
-6525 Sunset Blvd., GS10
-
-Los Angeles, CA  90028
