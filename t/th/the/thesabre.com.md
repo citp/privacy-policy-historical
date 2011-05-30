@@ -1,13 +1,8 @@
-> *The following text is extracted and transformed from the thesabre.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212054134id_/http%3A//www.thesabre.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesabre.com privacy policy that was archived on 2011-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110530075818id_/http%3A//www.thesabre.com/privacy) for the most accurate reproduction.*
 
 # TheSabre.com - Privacy Policy
 
-[](https://web.archive.org/marketplace/)
-
-[Orange Bowl Tickets](https://web.archive.org/orangeBowlTickets.html)  
-[Chick-Fil-A Bowl Tickets](https://web.archive.org/chickfilaBowlTickets.html)
-
-[](http://www.thesabre.com/bgclub/) |  |  [login](http://www.thesabre.com/account/loginScript.php) | [create account](https://secure.thesabre.com/account/options.html)  
+|  |  [login](http://www.thesabre.com/account/loginScript.php) | [create account](https://secure.thesabre.com/account/options.html)  
   
 
 
