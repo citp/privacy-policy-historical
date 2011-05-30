@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the fromnaturewithlove.com privacy policy that was archived on 2010-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100227033039id_/http%3A//www.fromnaturewithlove.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fromnaturewithlove.com privacy policy that was archived on 2011-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110530224813id_/http%3A//www.fromnaturewithlove.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement - FNWL
 
-[](http://www.addthis.com/bookmark.php?v=20)
+[](http://www.addthis.com/bookmark.php?v=250&username=kibby)
 
 Your privacy is very important to us. We have created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this Web site.
 
