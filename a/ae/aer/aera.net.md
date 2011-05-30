@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aera.net privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212041342id_/http%3A//aera.net/Printable.aspx%3Fid%3D377) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aera.net privacy policy that was archived on 2011-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110530075754id_/http%3A//www.aera.net/Printable.aspx%3Fid%3D377) for the most accurate reproduction.*
 
 # 
 
