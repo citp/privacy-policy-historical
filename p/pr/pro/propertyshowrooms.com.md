@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the propertyshowrooms.com privacy policy that was archived on 2010-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101217055028id_/http%3A//www.propertyshowrooms.com/privacy_statement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the propertyshowrooms.com privacy policy that was archived on 2011-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110530225208id_/http%3A//www.propertyshowrooms.com/privacy_statement.asp) for the most accurate reproduction.*
 
 # Propertyshowrooms.com Privacy Statement
 
