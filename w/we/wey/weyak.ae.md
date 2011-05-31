@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weyak.ae privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215155845id_/http%3A//www.etisalat.ae/index.jsp%3Flang%3Den%26type%3Dcontent%26contentid%3Dc6a202334eb5b010VgnVCM1000000c24a8c0RCRD) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weyak.ae privacy policy that was archived on 2011-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110531152539id_/http%3A//www.etisalat.ae/index.jsp%3Flang%3Den%26type%3Dcontent%26contentid%3Dc6a202334eb5b010VgnVCM1000000c24a8c0RCRD) for the most accurate reproduction.*
 
 # Privacy Policy
 
