@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the physicianformulas.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219033815id_/http%3A//physicianformulas.com/store/Scripts/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the physicianformulas.com privacy policy that was archived on 2011-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110531030706id_/http%3A//physicianformulas.com/store/Scripts/privacy.asp) for the most accurate reproduction.*
 
 # 
 
 |  |  |  |  |  |  |  |  |  |  |  |   
 ---|---|---|---|---|---|---|---|---|---|---  
-[](https://web.archive.org/web/20101219033815id_/http%3A//physicianformulas.com/store/Scripts/default.asp) | [](https://web.archive.org/web/20101219033815id_/http%3A//physicianformulas.com/store/Scripts/aboutus.asp) | [](https://web.archive.org/web/20101219033815id_/http%3A//physicianformulas.com/store/Scripts/shipping.asp) | [](https://web.archive.org/web/20101219033815id_/http%3A//physicianformulas.com/store/Scripts/default.asp) |  |  |   
+[](https://web.archive.org/web/20110531030706id_/http%3A//physicianformulas.com/store/Scripts/default.asp) | [](https://web.archive.org/web/20110531030706id_/http%3A//physicianformulas.com/store/Scripts/aboutus.asp) | [](https://web.archive.org/web/20110531030706id_/http%3A//physicianformulas.com/store/Scripts/shipping.asp) | [](https://web.archive.org/web/20110531030706id_/http%3A//physicianformulas.com/store/Scripts/default.asp) |  |  |   
 |   
 |  |  | 
 
 **Total($)= **0.00****
 
-| [](https://web.archive.org/web/20101219033815id_/http%3A//physicianformulas.com/store/Scripts/cart.asp) |   
+| [](https://web.archive.org/web/20110531030706id_/http%3A//physicianformulas.com/store/Scripts/cart.asp) |   
 |  |   
 |  |  |  |  |  |  |  |  |  |  |   
 ---|---|---|---|---|---|---|---|---|---|---  
@@ -42,6 +42,6 @@ We use third party service providers such as credit card processors and delivery
   |   |   
   |   |   
 |   
-| [](https://web.archive.org/web/20101219033815id_/http%3A//physicianformulas.com/store/Scripts/default.asp) | [](https://web.archive.org/web/20101219033815id_/http%3A//physicianformulas.com/store/Scripts/aboutus.asp) | [](https://web.archive.org/web/20101219033815id_/http%3A//physicianformulas.com/store/scripts/prodList.asp) | [](https://web.archive.org/web/20101219033815id_/http%3A//physicianformulas.com/store/Scripts/prodList.asp?special=Y) | [](https://web.archive.org/web/20101219033815id_/http%3A//physicianformulas.com/store/Scripts/contactUs.asp) | [](https://web.archive.org/web/20101219033815id_/http%3A//physicianformulas.com/store/Scripts/shipping.asp) |  |   
+| [](https://web.archive.org/web/20110531030706id_/http%3A//physicianformulas.com/store/Scripts/default.asp) | [](https://web.archive.org/web/20110531030706id_/http%3A//physicianformulas.com/store/Scripts/aboutus.asp) | [](https://web.archive.org/web/20110531030706id_/http%3A//physicianformulas.com/store/scripts/prodList.asp) | [](https://web.archive.org/web/20110531030706id_/http%3A//physicianformulas.com/store/Scripts/prodList.asp?special=Y) | [](https://web.archive.org/web/20110531030706id_/http%3A//physicianformulas.com/store/Scripts/contactUs.asp) | [](https://web.archive.org/web/20110531030706id_/http%3A//physicianformulas.com/store/Scripts/shipping.asp) |  |   
 |   
  
