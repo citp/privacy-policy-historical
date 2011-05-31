@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the desibbrg.org privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216041238id_/http%3A//desibbrg.org/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desibbrg.org privacy policy that was archived on 2011-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110531025107id_/http%3A//desibbrg.org/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
 
 # DesiBBrG Image Hosting » More Information » Privacy Policy
 
