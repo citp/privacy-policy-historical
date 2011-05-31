@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bolmamabol.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127154912id_/http%3A//www.bolmamabol.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bolmamabol.com privacy policy that was archived on 2011-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110601010954id_/http%3A//www.bolmamabol.com/privacy) for the most accurate reproduction.*
 
 # Privacy | BolMamaBol Info Net
 
@@ -8,4 +8,4 @@ We use third-party advertising companies to serve ads when you visit our website
 * Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.  
 * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. [OPT OUT CLICK HERE](http://www.google.com/privacy_ads.html)
 
-Number of View :1167 
+Number of View :2443 
