@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yettoknow.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130065529id_/http%3A//www.yettoknow.com/commitment-to-your-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yettoknow.com privacy policy that was archived on 2011-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110531131453id_/http%3A//www.yettoknow.com/commitment-to-your-privacy) for the most accurate reproduction.*
 
 # Yet To Know | Privacy Protection in modern day romance and socializing is crucial to our community and our company, we treat nothing more importantly then our members privacy
 
@@ -8,7 +8,7 @@ Last Updated: January 1, 2011
 
 ###  Scope and Changes
 
-Separation Degrees Media, Inc., dba Yet To Know ("YTK" or "we") operates the website [www.yettoknow.com](http://www.yettoknow.com/), and permutations thereof that refer to this Website Privacy Statement in a direct hyperlink (the "Websites").
+Yet To Know, Inc. ("YTK" or "we") operates the website [www.yettoknow.com](http://www.yettoknow.com/), and permutations thereof that refer to this Website Privacy Statement in a direct hyperlink (the "Websites").
 
 YTK respects your privacy and we want you to be confident in sharing your information with us. This Website Privacy Statement is designed to inform you of the types of information we collect from users, how we use that information, and the circumstances under which we will share it with third parties. This Privacy Statement applies only to the Websites. It does not apply to your use of any other websites (whether or not operated by us), including any websites which we provide links to or websites of our partners or advertisers, or to any activities which are not online.
 
@@ -153,7 +153,7 @@ YTK wants your Internet surfing experience to be safe. Help protect yourself. If
 
 If you have any questions about this Privacy Policy, the practices of the Website(s), or your use of the Website(s), please contact us at
 
-Separation Degrees Media, Inc.   
+Yet To Know, Inc.   
 2549B Eastbluff Drive, Suite 456   
 Newport Beach, CA 92660   
 [memberservices@yettoknow.com](mailto:memberservices@yettoknow.com)
