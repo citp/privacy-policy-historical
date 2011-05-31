@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buy.at privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203221007id_/http%3A//www.buy.at/w3c/human.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buy.at privacy policy that was archived on 2011-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110531202448id_/http%3A//www.buy.at/w3c/human.php) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
