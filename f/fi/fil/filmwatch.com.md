@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filmwatch.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122214941id_/http%3A//filmwatch.com/site/privacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filmwatch.com privacy policy that was archived on 2011-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110531060047id_/http%3A//filmwatch.com/site/privacystatement) for the most accurate reproduction.*
 
 # Privacy Statement | FilmWatch
 
@@ -24,6 +24,6 @@ By entering filmwatch.com contests, users consent to the use of their name in th
 
 ### Cookies and Advertising
 
-filmwatch.com may use user entered information in combination with site usage information to help display advertisements relevant to the users interest and navigation patterns. filmwatch.com may use cookies to help in tracking these patterns but does not store or collect any personal data in combination with user supplied information. Cookies are small text files that contain a string of alphanumeric characters. You can remove cookies by following directions provided in your Internet browser’s “help” file. For more information about cookies please visit <http://www.allaboutcookies.org/cookies/>. 
+filmwatch.com may use user entered information in combination with site usage information to help display advertisements relevant to the users interest and navigation patterns. filmwatch.com may use cookies to help in tracking these patterns but does not store or collect any personal data in combination with user supplied information. Cookies are small text files that contain a string of alphanumeric characters. You can remove cookies by following directions provided in your Internet browser’s "help" file. For more information about cookies please visit <http://www.allaboutcookies.org/cookies/>. 
 
 filmwatch.com uses additional third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other web sites in order to provide advertisements on this Web site, other sites and other forms of media about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here. [LINK TO NAI OPT-OUT at <http://www.networkadvertising.org/consumer/opt_out.asp>] 
