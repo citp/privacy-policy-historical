@@ -1,21 +1,67 @@
-> *The following text is extracted and transformed from the customlists.net privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214082055id_/http%3A//www.customlists.net/view-cms-4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the customlists.net privacy policy that was archived on 2011-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110531211627id_/http%3A//www.customlists.net/privacy-policy) for the most accurate reproduction.*
 
-# Custom Lists: Privacy Policy
+# Privacy Policy
 
-**Our Commitment to your Privacy**  
-Any information provided by you to Custom Lists is confidential. We will not rent, trade, sell, or supply any data provided by you to any other party.
+This privacy policy sets out how CustomLists.net uses and protects any information that you give CustomLists.net when you use this website. CustomLists.net is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-**Use of Information**  
-From time to time Custom Lists may send you e-mail communications to inform you of new products or special offers that we feel you may be interested in. In all emails we will provide a clear and simple method for you to unsubscribe from the e-mail list so that you will not receive any future e-mails from us.
+CustomLists.net may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 1st November 2010.
 
-**Information Gathered By Custom Lists**  
-We use a feature of your browser called a "cookie" to assign a "User ID". Cookies identify your computer to our servers when you visit our site however they cannot be used to find out your identity or the identities' of any of our users. We also track traffic patterns throughout the Custom Lists web site.
+### **Shop with Confidence at CustomLists.net**
 
-**Consent**  
-Through using our site, you consent to the collection and use of your information by Custom Lists. If we at any point in time decide to change our privacy policy, we will display those changes on the Custom Lists web site.
+At CustomLists.net, we understand your concerns about online security. We use encryption technology to ensure the secure transmission of any personal information you provide while using CustomLists.net. All transactions at our site are conducted using 128-bit Secure Sockets Layer (SSL) encryption. You can easily determine when you're sending data securely by looking at the web address (URL) in your browser window: the first few letters will change from "http" to "https" when you are transmitting information protected by SSL encryption. The "s" in "https" stands for "secure."
 
-**Opt-In/Opt-Out Policy**  
-Once you subscribe to our newsletter distribution list you can easily unsubscribe. Each email newsletter you receive has simple instructions on how to immediately opt out from receiving any further communications from us.
+### **What we Collect**
 
-**Security**  
-Custom Lists strives to ensure the security, integrity and privacy of personally identifiable information of our clients. We use a variety of physical and electronic security measures including restricting physical access to our offices and firewalls and secure databases to keep personal information secure from misuse, loss or unauthorised use or disclosure
+We may collect the following information:
+
+  * Name and job title
+  * Contact information including email address
+  * Demographic information such as postcode, preferences and interests
+  * Other information relevant to customer surveys and/or offers
+
+
+
+### **What we do with the Information we Gather**
+
+We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
+
+  * Internal record keeping.
+  * We may use the information to improve our products and services.
+  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided. 
+  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail.
+  * We may use the information to customise the website according to your interests.
+
+
+
+### **Security**
+
+We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+
+### **How we use Cookies**
+
+A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
+
+We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
+
+Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
+
+You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+
+### **Links to other Websites**
+
+Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+
+### **Controlling Your Personal Information**
+
+You may choose to restrict the collection or use of your personal information in the following ways:
+
+  * Whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
+  * If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at info@flip-media.net
+
+
+
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
+
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please email us at info@flip-media.net
+
+If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
