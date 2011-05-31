@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the campusexplorer.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227004244id_/http%3A//www.campusexplorer.com/company/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the campusexplorer.com privacy policy that was archived on 2011-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110531074759id_/http%3A//www.campusexplorer.com/company/legal/privacy) for the most accurate reproduction.*
 
 # Campus Explorer Privacy Policy
 
@@ -53,6 +53,21 @@ There is a link available on the Campus Explorer log-in page to enable you to ch
 ### Children's Privacy Statement
 
 We do not knowingly collect Personal Information from children under the age of 13. If we become aware that we have inadvertently received Personal Information from a child under the age of 13, we will delete such information from our records.
+
+### Opting Out of Email
+
+If you do not want to receive email from Campus Explorer, please follow the steps outlined below to submit an opt-out request:
+
+  * If you are registered with campusexplorer.com you can change your preferences in your Profile. Sign in to view your Profile, click on “edit email preferences,” and then click the “Unsubscribe” button.
+  * To unsubscribe from an email, click the link to unsubscribe in the next e-mail you receive from us.
+  * To unsubscribe offline, you may contact us by phone at 310-574-2234, or write to:
+
+Campus Explorer  
+2850 Ocean Park Boulevard, Suite 310  
+Santa Monica, CA 90405 
+
+
+
 
 ### Changes to this Privacy Policy
 
