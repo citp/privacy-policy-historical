@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the personalmoneystore.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229160740id_/http%3A//personalmoneystore.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the personalmoneystore.com privacy policy that was archived on 2011-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110531025406id_/http%3A//personalmoneystore.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Personal Money Store Privacy Policy
 
@@ -20,7 +20,7 @@ Through your use and submission of information on our Website, you agree that ev
 
 By providing your personal information, you agree that it may be used for the following purposes: to obtain other information about you from third-parties when the information was improperly or incompletely filled out on our registration form; sharing of your information with trusted third parties such as credit bureaus, affiliated loan providers and/or other financial services providers in accordance with applicable law; considering you for a web site account; and for other marketing products and services that we determine you might find of interest.
 
-We may employ other companies and individuals to perform certain functions on our behalf. These companies and individuals have access to our users’ personal information in order to perform their functions for Personal Money Store, but they are not permitted to use our users’ personal information for other purposes. Examples when other companies or individuals may use our users’ personal information may include sending direct mail and email, SMS text-messaging, telemarketing, analyzing data, removing duplicate information from customer lists and providing marketing analysis.
+We may employ other companies and individuals to perform certain functions on our behalf. These companies and individuals have access to our users’ personal information in order to perform their functions for Personal Money Market, but they are not permitted to use our users’ personal information for other purposes. Examples when other companies or individuals may use our users’ personal information may include sending direct mail and email, SMS text-messaging, telemarketing, analyzing data, removing duplicate information from customer lists and providing marketing analysis.
 
 Any and all sensitive Information that we collect from you and from third-parties as part of your loan application, will be used to determine your eligibility for a loan, should you qualify. If you provide personally identifying information, such as your Social Security number, that information may be used to determine your financial status. Upon qualifying for a loan, your loan-specific financial information will be stored and utilized in accordance with the terms of your applicable lender’s Privacy Policy.
 
@@ -62,9 +62,9 @@ We reserve the right to change our policy at any time and without prior notice t
 
 Should you have any questions about our Privacy Policy, your or you have any additional questions or concerns, please email us at Customer Support.
 
-## Personal Money Store
+## Personal Money Market
 
-Click to Email: [Customer Support](http://tinyurl.com/Email-Customer-Support "Click To Send Us Your Message")
+Click to Email: Customer Support
 
 PO Box 710
 
