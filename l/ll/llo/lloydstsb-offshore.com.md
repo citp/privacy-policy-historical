@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the lloydstsb-offshore.com privacy policy that was archived on 2010-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100929182253id_/http%3A//www.lloydstsb-offshore.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lloydstsb-offshore.com privacy policy that was archived on 2011-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110531155043id_/http%3A//www.lloydstsb-offshore.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy - Lloyds TSB International
 
-## How your personal information is used by Lloyds Banking Group companies
+## How your personal information is used by Lloyds Banking Group companies.
 
 ### 1\. Introduction
 
@@ -16,7 +16,7 @@
 
 ### 2\. Information we collect from you
 
-  1. In general you can visit this Website without telling us who you are or revealing any information about yourself. However, there are parts of this Website where we may need to collect personal information from you, including without limitation your name, post and email addresses, fax and telephone numbers, employment details, date of birth and banking details.
+  1. In general you can visit this Website without telling us who you are or revealing any information about yourself. However, there are parts of this Website where we may need to collect personal information from you, including without limitation your name, post and email addresses, fax and telephone numbers, employment details, date of birth and banking details. 
 
 
 
@@ -24,13 +24,13 @@
 
   1. Domain name information that we collect is not used to personally identify you and instead is aggregated to measure the number of visits, average time spent on the Website, pages viewed etc. We use this information to measure the use of our Website and to improve its contents.
   2. When other personal information, such as your name and email address is collected from you (for example through online forms or via email etc) we generally let you know at the time of collection how we will use that personal information. We may also use the personal information you provide or which we collect via this Website for the purposes of: 
-    1. providing you with services;
-    2. identify products and services which might be suitable for you;
-    3. prevent and detect fraud and other crimes;
-    4. assess lending and insurance risks;
-    5. recover debts;
-    6. manage our and any member of our Group's relationship with you; and
-    7. update our own records about.
+    * providing you with services;
+    * identify products and services which might be suitable for you;
+    * prevent and detect fraud and other crimes;
+    * assess lending and insurance risks;
+    * recover debts;
+    * manage our and any member of our Group's relationship with you; and
+    * update our own records about.
   3. We may also contact you about products and services available from Lloyds Banking Group companies, and from selected companies outside the group, which we believe may interest you or benefit you financially. We may do this by post or by phone unless you have told us not to; and by email, text or other electronic means if you have told us that we can or as otherwise allowed by law. You may tell us at any time if you change your mind. For more information on your marketing preferences please visit Your marketing preferences.
   4. Lloyds Banking Group companies will treat your personal information as confidential but may share it with each other and disclose it outside the Lloyds Banking Group companies if: 
     * you consent;
@@ -64,12 +64,3 @@
   2. Our Website may contain links and banner advertisements to other websites which are outside our control and not covered by this Privacy Policy ("third party websites"). If you access any third party websites using the links provided, the operators of these third party websites may collect information from you which will be used by them in accordance with their privacy policies, which may differ from ours. We do not accept any responsibility for any such third party websites, including without limitation for their accuracy, security, the products or services which they offer or for any information which is collected through them. You are responsible for reviewing and abiding by the privacy policies and website terms and conditions of any such third party websites.
 
 
-
-### 6\. Accessing and updating your information
-
-  1. Under Data Protection legislation you may be entitled to see certain personal information we hold about you and may ask us to make changes to ensure that it is accurate and up-to-date. If you wish to access information which we hold about you or if you would like to contact us about a related data protection matter please write to us at our registered address. We are entitled to charge a small administrative fee to meet our costs in providing you with the information which we hold about you.
-  2. You are responsible for informing us that your personal details have changed: for example, a change of address or to your title. You can do this by visiting a branch or completing and returning a change of name/address form. These can be obtained in branch or downloaded through Internet Banking.
-
-
-
-© Lloyds TSB 2009
