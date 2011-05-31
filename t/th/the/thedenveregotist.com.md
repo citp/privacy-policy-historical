@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thedenveregotist.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127173522id_/http%3A//www.thedenveregotist.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedenveregotist.com privacy policy that was archived on 2011-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110531025409id_/http%3A//www.thedenveregotist.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Denver Egotist
 
