@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webhostingworld.net privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222064533id_/http%3A//www.webhostingworld.net/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webhostingworld.net privacy policy that was archived on 2011-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110531131920id_/http%3A//www.webhostingworld.net/privacy_policy.php) for the most accurate reproduction.*
 
 # Welcome WebHostingWorld.net: Privacy Policy
 
