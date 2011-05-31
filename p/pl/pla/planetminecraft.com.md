@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the planetminecraft.com privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201063426id_/http%3A//www.planetminecraft.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planetminecraft.com privacy policy that was archived on 2011-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110531140804id_/http%3A//www.planetminecraft.com/privacy_policy) for the most accurate reproduction.*
 
-# Planet Minecraft : Supporting the Addiction!
+# Planet Minecraft : Texture Packs, Skins, Projects, Servers & Blogs!
 
 We here at Planet Minecraft greatly respect your privacy and we hope that our users feel that the information they share with us is 100% secure and private. Here are the guidelines we follow at Planet Minecraft to ensure your privacy and our integrity:
 
