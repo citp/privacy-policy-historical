@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the n2yo.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125092235id_/http%3A//www.n2yo.com/about/%3Fa%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the n2yo.com privacy policy that was archived on 2011-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110531153613id_/http%3A//www.n2yo.com/about/%3Fa%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy policy
 
