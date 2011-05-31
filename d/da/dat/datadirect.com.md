@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the datadirect.com privacy policy that was archived on 2010-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100812205242id_/http%3A//web.progress.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datadirect.com privacy policy that was archived on 2011-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110531054015id_/http%3A//web.progress.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Progress Software
 
