@@ -1,28 +1,30 @@
-> *The following text is extracted and transformed from the beatingbroke.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230002953id_/http%3A//www.beatingbroke.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beatingbroke.com privacy policy that was archived on 2011-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110531172832id_/http%3A//www.beatingbroke.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy @ Beating Broke
+# Privacy Policy @ Beating Broke
 
-Privacy Policy for BeatingBroke.com
+**Your Privacy**  
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
 
-The privacy of our visitors to BeatingBroke.com is important to us.
+**Google Adsense and the DoubleClick DART Cookie**  
+Google, as a third party advertisement vendor, uses cookies to serve ads on this site. The use of DART cookies by Google enables them to serve adverts to visitors that are based on their visits to this website as well as other sites on the internet.
 
-At BeatingBroke.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit BeatingBroke.com, and how we safeguard your information. We never sell your personal information to third parties.
+To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following url <http://www.google.com/privacy_ads.html> Tracking of users through the DART cookie mechanisms are subject to Google’s own privacy policies.
 
-Log Files  
-As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.
+Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, Beating Broke has no access or control over these cookies that may be used by third party advertisers. 
 
-Cookies and Web Beacons  
-We do use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums.
+**Collection of Personal Information**  
+When visiting Beating Broke, the IP address used to access the site will be logged along with the dates and times of access. This information is purely used to analyze trends, administer the site, track users movement and gather broad demographic information for internal use. Most importantly, any recorded IP addresses are not linked to personally identifiable information.
 
-We also use third party advertisements on BeatingBroke.com to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
+**Links to third party Websites**  
+We have included links on this site for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these sites may differ from our own. 
 
-DoubleClick DART cookies  
-We also may use DART cookies for ad serving through Google’s DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements). This cookie is used to serve ads specific to you and your interests (”interest based targeting”). The ads served will be targeted based on your previous browsing history (For example, if you have been viewing sites about visiting Las Vegas, you may see Las Vegas hotel advertisements when viewing a non-related site, such as on a site about hockey). DART uses “non personally identifiable information”. It does NOT track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers. You can opt-out of this ad serving on all sites using this advertising by visiting http://www.doubleclick.com/privacy/dart_adserving.aspx 
+**Changes to this Privacy Statement**  
+The contents of this statement may be altered at any time, at our discretion. 
 
-You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
+If you have any questions regarding the privacy policy of Beating Broke then you may contact us at admin@beatingbroke.com 
 
-Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
+This policy was generated by Easy Privacy Policy Plugin [betting football](http://bettingfootball.me.uk/) for WordPress.
 
-AdSense Privacy Policy Provided by [JenSense](https://web.archive.org/web/20101230002953id_/http%3A//www.beatingbroke.com/%E2%80%9Dhttp://www.JenSense.com%E2%80%9D)
+Last updated Tue, 23 Nov 2010 22:22
 
 Popularity: 1% [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]
