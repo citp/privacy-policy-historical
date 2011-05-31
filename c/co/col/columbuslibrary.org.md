@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the columbuslibrary.org privacy policy that was archived on 2010-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100928070450id_/http%3A//www.columbuslibrary.org/ebranch/index.cfm%3Fpageid%3D89) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the columbuslibrary.org privacy policy that was archived on 2011-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110531231832id_/http%3A//www.columbuslibrary.org/ebranch/index.cfm%3Fpageid%3D89) for the most accurate reproduction.*
 
 # CML Privacy Statement
 
