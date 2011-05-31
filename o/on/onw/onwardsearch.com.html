@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the onwardsearch.com privacy policy that was archived on 2010-11-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101130043242id_/http%3A//www.onwardsearch.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the onwardsearch.com privacy policy that was archived on 2011-05-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110531101854id_/http%3A//www.onwardsearch.com/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" class="cufon-active cufon-ready"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -8,7 +8,7 @@
 	<link rel="icon" type="image/x-icon" href="/favicon.ico"> 
 	<link rel="canonical" href="http://www.onwardsearch.com/about/privacy/"> 
 				
-
+	
 	<link href="/css/all.css" rel="stylesheet" type="text/css" media="all">
 	<link href="/css/onward.css" rel="stylesheet" type="text/css" media="all">
 	<script type="text/javascript" src="/js/prototype.js"></script>
@@ -19,6 +19,92 @@
 	<script type="text/javascript" src="/js/cufon-fonts.js"></script>
 	<script type="text/javascript" src="/js/cufon-settings.js"></script>
 	<script type="text/javascript" src="/js/onwardsearch.js"></script>
+    
+    <script type="text/javascript">
+            
+		$j	=	jQuery.noConflict();
+		
+		var	dd_class	=	new Array();
+			dd_class[0]	=	'accordian-plus';
+			dd_class[1]	=	'accordian-minus';
+		
+		var	dd		=	new Array();
+			dd[0]	=	'general';
+			dd[1]	=	'interactive';
+			dd[2]	=	'marketing';
+			dd[3]	=	'mobile';
+			dd[4]	=	'podcast';
+			dd[5]	=	'networkinggroups';
+			dd[6]	=	'careers101';
+			dd[7]	=	'resources';
+		
+		function ddControls(idVal,ww){
+			
+			for(i = 0; i < dd.length; i++){
+				
+				if(idVal == dd[i]){
+					
+					if(ww == 'plus'){
+						$j('#'+idVal).removeClass(dd_class[0]).addClass(dd_class[1]);
+						document.getElementById(idVal).name				=	idVal;
+						document.getElementById(idVal).onclick			=	function(){ddControls(this.name,'minus');};
+						document.getElementById(idVal+'_link').name		=	idVal;
+						document.getElementById(idVal+'_link').onclick	=	function(){ddControls(this.name,'minus');};
+						$j('#'+idVal+'_dd').slideDown();
+					}
+					else{
+						$j('#'+idVal).removeClass(dd_class[1]).addClass(dd_class[0]);
+						document.getElementById(idVal).name				=	idVal;
+						document.getElementById(idVal).onclick			=	function(){ddControls(this.name,'plus');};
+						document.getElementById(idVal+'_link').name		=	idVal;
+						document.getElementById(idVal+'_link').onclick	=	function(){ddControls(this.name,'plus');};
+						$j('#'+idVal+'_dd').slideUp();
+					}
+					
+				}
+				else{
+					
+					if($j('#'+dd[i]).hasClass(dd_class[1])){
+						
+						$j('#'+dd[i]).removeClass(dd_class[1]).addClass(dd_class[0]);
+						document.getElementById(dd[i]).name				=	dd[i];
+						document.getElementById(dd[i]).onclick			=	function(){ddControls(this.name,'plus');};
+						document.getElementById(dd[i]+'_link').name		=	dd[i];
+						document.getElementById(dd[i]+'_link').onclick	=	function(){ddControls(this.name,'plus');};
+						$j('#'+dd[i]+'_dd').slideUp();
+						
+					}
+					
+				}
+				
+			};
+			
+		}
+		
+		$j(document).ready(
+			function(){
+				
+				var	whatisdd	=	$j('#hideswitch').val();
+				
+				for (i = 0; i < dd.length; i++){
+					
+					if(whatisdd == dd[i]){
+						
+						$j('#'+dd[i]).removeClass(dd_class[0]).addClass(dd_class[1]);
+						document.getElementById(dd[i]).onclick			=	function(){ddControls(dd[i],'minus');};
+						document.getElementById(dd[i]+'_link').onclick	=	function(){ddControls(dd[i],'minus');};
+						$j('#'+dd[i]+'_dd').show();
+					}
+					else{
+						$j('#'+dd[i]+'_dd').hide();
+					}
+					
+				}
+				
+			});
+		
+	</script>
+    
 	
 </head>
 	<body>
@@ -39,15 +125,19 @@
 					<li><a href="/locations/San-Francisco-CA/">San Francisco</a></li> 
 					<li><a href="/locations/Washington-DC/">Washington DC</a></li> 
 					<li><a href="/locations/Headquarters-CT/">Nationwide</a></li> 
+					<li><a href="/about/corporate-positions/">Corporate</a></li> 
 				</ul>
 				
 			</div>
 
 		</div>					
 
+
 	
 <div id="wrapper">
 			<div id="main">
+
+	
 				<div id="twocolumns">
 					<!-- breadcrumbs -->
 					
@@ -57,6 +147,8 @@
 								
 								
 									<h1><cufon class="cufon cufon-canvas" alt="Privacy " style="width: 109px; height: 32px;"><canvas width="136" height="32" style="width: 136px; height: 32px; top: 0px; left: -2px;"></canvas><cufontext>Privacy </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Policy" style="width: 84px; height: 32px;"><canvas width="106" height="32" style="width: 106px; height: 32px; top: 0px; left: -2px;"></canvas><cufontext>Policy</cufontext></cufon></h1>
+									
+									<script type="text/javascript"> Cufon.replace('H1'); </script>
 								<div class="content-box">
 											
 
@@ -110,15 +202,17 @@ We will post any changes to our privacy policy on this page.  Questions about ou
 								</div>
 
 					<!-- sidebar -->
-					<div id="sidebar">
+					
+	
+    <div id="sidebar">
 
-
-<a href="http://jobs.onwardsearch.com/apply/"><img src="/images/apply-gs.png" width="300" height="67" border="0" title="Get Started Today"></a>
-<a href="http://jobs.onwardsearch.com/apply/" class="apply-btn">Apply Now</a>
-
-
-						<!-- sidebar section -->
-						
+		
+		<a href="http://jobs.onwardsearch.com/apply/"><img src="/images/apply-gs.png" width="300" height="67" border="0" title="Get Started Today"></a>
+		<a href="http://jobs.onwardsearch.com/apply/" class="apply-btn">Apply Now</a>
+		
+		
+								<!-- sidebar section -->
+								
 
 						<div class="sidebar-section">
 							<h3><cufon class="cufon cufon-canvas" alt="Related " style="width: 66px; height: 18.72px;"><canvas width="82" height="19" style="width: 82px; height: 19px; top: 0px; left: -1px;"></canvas><cufontext>Related </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Pages" style="width: 49px; height: 18.72px;"><canvas width="62" height="19" style="width: 62px; height: 19px; top: 0px; left: -1px;"></canvas><cufontext>Pages</cufontext></cufon></h3>
@@ -138,51 +232,51 @@ We will post any changes to our privacy policy on this page.  Questions about ou
 
 
 
-						<!-- sidebar post -->
-
-							
-						<div class="post-holder">
-							<h3><cufon class="cufon cufon-canvas" alt="@OnwardSearch" style="width: 131px; height: 18.72px;"><canvas width="143" height="19" style="width: 143px; height: 19px; top: 0px; left: -1px;"></canvas><cufontext>@OnwardSearch</cufontext></cufon></h3>
-								
-							<ul class="post">
-
-							
-							
-							
-								<li>
-									<p>HOT JOB: Travel &amp; Leisure Copywriter - Cambridge, Massachusetts #jobs <a href="http://onwrd.us/j11543">http://onwrd.us/j11543</a></p>
-									<em class="time"><a href="http://twitter.com/onwardsearch/statuses/9370940441894914" title="HOT JOB: Travel &amp; Leisure Copywriter - Cambridge, Massachusetts #jobs http://onwrd.us/j11543">Monday November 29th 6:19 PM</a> </em>
-								</li>
-							
-							
-								<li>
-									<p>HOT JOB: CRM with Loyalty experience - Atlanta, Georgia #jobs <a href="http://onwrd.us/j11541">http://onwrd.us/j11541</a></p>
-									<em class="time"><a href="http://twitter.com/onwardsearch/statuses/9367669107073024" title="HOT JOB: CRM with Loyalty experience - Atlanta, Georgia #jobs http://onwrd.us/j11541">Monday November 29th 6:06 PM</a> </em>
-								</li>
-							
-							
-								<li>
-									<p>HOT JOB: Interactive Marketing Leader - Fort Worth, Texas #jobs <a href="http://onwrd.us/j11522">http://onwrd.us/j11522</a></p>
-									<em class="time"><a href="http://twitter.com/onwardsearch/statuses/9341496436195328" title="HOT JOB: Interactive Marketing Leader - Fort Worth, Texas #jobs http://onwrd.us/j11522">Monday November 29th 4:22 PM</a> </em>
-								</li>
-							
-							
-								<li>
-									<p>HOT JOB: Junior-Mid Level Information Architect - Boston, Massachusetts #jobs <a href="http://onwrd.us/j11490">http://onwrd.us/j11490</a></p>
-									<em class="time"><a href="http://twitter.com/onwardsearch/statuses/9331681534148608" title="HOT JOB: Junior-Mid Level Information Architect - Boston, Massachusetts #jobs http://onwrd.us/j11490">Monday November 29th 3:43 PM</a> </em>
-								</li>
-							
-							
-								<li>
-									<p>HOT JOB: SEO Manager - Sunnyvale, California #jobs <a href="http://onwrd.us/j11492">http://onwrd.us/j11492</a></p>
-									<em class="time"><a href="http://twitter.com/onwardsearch/statuses/9312052027850752" title="HOT JOB: SEO Manager - Sunnyvale, California #jobs http://onwrd.us/j11492">Monday November 29th 2:25 PM</a> </em>
-								</li>
-							
-							</ul>
-							<a href="http://twitter.com/onwardsearch/" class="twitter-posts">@OnwardSearch</a>
-						</div>
-					</div>
-
+								<!-- sidebar post -->
+		
+									
+								<div class="post-holder">
+									<h3><cufon class="cufon cufon-canvas" alt="@OnwardSearch" style="width: 131px; height: 18.72px;"><canvas width="143" height="19" style="width: 143px; height: 19px; top: 0px; left: -1px;"></canvas><cufontext>@OnwardSearch</cufontext></cufon></h3>
+										
+									<ul class="post">
+		
+									
+									
+									
+										<li>
+											<p>RT <a href="http://www.twitter.com/anniebonward:">@anniebonward:</a> GRAND advice for Mobile Developers who are looking to better their brand and promote their skills and work! <a href="http://bi">http://bi</a> ...</p>
+											<em class="time"><a href="http://twitter.com/onwardsearch/statuses/74207529537765377" title="RT @anniebonward: GRAND advice for Mobile Developers who are looking to better their brand and promote their skills and work!  http://bi ...">Friday May 27th 4:17 PM</a> </em>
+										</li>
+									
+									
+										<li>
+											<p>Android vs iOS: A Freemium Game Comparison <a href="http://bit.ly/mwWOFL">http://bit.ly/mwWOFL</a> via <a href="http://www.twitter.com/MobileOrchard">@MobileOrchard</a></p>
+											<em class="time"><a href="http://twitter.com/onwardsearch/statuses/74178397613473792" title="Android vs iOS: A Freemium Game Comparison http://bit.ly/mwWOFL via @MobileOrchard">Friday May 27th 2:21 PM</a> </em>
+										</li>
+									
+									
+										<li>
+											<p>HOT JOB: Lead UX Designer - Irvine, California #jobs <a href="http://onwrd.us/j21325">http://onwrd.us/j21325</a></p>
+											<em class="time"><a href="http://twitter.com/onwardsearch/statuses/74168582463950848" title="HOT JOB: Lead UX Designer - Irvine, California #jobs http://onwrd.us/j21325">Friday May 27th 1:42 PM</a> </em>
+										</li>
+									
+									
+										<li>
+											<p><a href="http://www.twitter.com/noheartnoglory">@noheartnoglory</a> Enjoy! Camping is great on it's own, so doing it in Cape Cod this time of year must be even better.</p>
+											<em class="time"><a href="http://twitter.com/onwardsearch/statuses/74152590354563072" title="@noheartnoglory Enjoy! Camping is great on it's own, so doing it in Cape Cod this time of year must be even better.">Friday May 27th 12:38 PM</a> </em>
+										</li>
+									
+									
+										<li>
+											<p>Learn How To Build an Awesome Personal Brand for Your Mobile App Development #Career <a href="http://bit.ly/m27NC7">http://bit.ly/m27NC7</a></p>
+											<em class="time"><a href="http://twitter.com/onwardsearch/statuses/74148816290447360" title="Learn How To Build an Awesome Personal Brand for Your Mobile App Development #Career http://bit.ly/m27NC7">Friday May 27th 12:23 PM</a> </em>
+										</li>
+									
+									</ul>
+									<a href="http://twitter.com/onwardsearch/" class="twitter-posts">@OnwardSearch</a>
+								</div>
+							</div>
+    
 
 				</div>
 			</div>
@@ -253,22 +347,25 @@ We will post any changes to our privacy policy on this page.  Questions about ou
 							</div> 
 						</div> 
 					</li> 
-					<li class=" hover"><a href="/staffing/" class="cufon-link"><cufon class="cufon cufon-canvas" alt="employers" style="width: 71px; height: 16px;"><canvas width="81" height="16" style="width: 81px; height: 16px; top: 0px; left: 0px;"></canvas><cufontext>employers</cufontext></cufon></a></li> 
-					<li class=" hover"><a href="/Career-Resources/" class="cufon-link"><cufon class="cufon cufon-canvas" alt="resources" style="width: 68px; height: 16px;"><canvas width="77" height="16" style="width: 77px; height: 16px; top: 0px; left: 0px;"></canvas><cufontext>resources</cufontext></cufon></a></li> 
+					<li class=" hover"><a href="/Careers/" class="cufon-link"><cufon class="cufon cufon-canvas" alt="career " style="width: 49px; height: 16px;"><canvas width="61" height="16" style="width: 61px; height: 16px; top: 0px; left: 0px;"></canvas><cufontext>career </cufontext></cufon><cufon class="cufon cufon-canvas" alt="center" style="width: 44px; height: 16px;"><canvas width="56" height="16" style="width: 56px; height: 16px; top: 0px; left: 0px;"></canvas><cufontext>center</cufontext></cufon></a></li> 
 					<li class=" hover"><a href="http://blog.onwardsearch.com/" class="cufon-link"><cufon class="cufon cufon-canvas" alt="blog" style="width: 30px; height: 16px;"><canvas width="38" height="16" style="width: 38px; height: 16px; top: 0px; left: 0px;"></canvas><cufontext>blog</cufontext></cufon></a></li> 
+					<li class=" hover"><a href="/staffing/" class="cufon-link"><cufon class="cufon cufon-canvas" alt="employers" style="width: 71px; height: 16px;"><canvas width="81" height="16" style="width: 81px; height: 16px; top: 0px; left: 0px;"></canvas><cufontext>employers</cufontext></cufon></a></li> 
 					<li class=" hover"><a href="/about/contact/" class="cufon-link"><cufon class="cufon cufon-canvas" alt="contact" style="width: 52px; height: 16px;"><canvas width="64" height="16" style="width: 64px; height: 16px; top: 0px; left: 0px;"></canvas><cufontext>contact</cufontext></cufon></a></li> 
 					<li class="active hover last-child"><a href="/about/" class="cufon-link last-child-link"><cufon class="cufon cufon-canvas" alt="about" style="width: 40px; height: 16px;"><canvas width="52" height="16" style="width: 52px; height: 16px; top: 0px; left: 0px;"></canvas><cufontext>about</cufontext></cufon></a> 
 						<!-- drop --> 
-						 
 					</li> 
+				
 				</ul> 
+				<br>
+					<a href="/Careers/"><img src="/images/cc-callout.jpg" alt="" width="286" height="24" class="cc-callout" border="0"></a>
+				
+				
 			</div>
 
-			
 
 </div>
-
 	
+
 		<!-- footer section -->
 		<div class="footer-section">
 			<div class="holder">
@@ -279,9 +376,9 @@ We will post any changes to our privacy policy on this page.  Questions about ou
 						<ul class="news">
 							
 							<li>
-								<h3><a href="http://blog.onwardsearch.com/2010/11/happy-thanksgiving-from-onward-search/">Happy Thanksgiving from Onward Search</a></h3>
-								<em class="author">by Hillary on Wednesday November 24th 4:03 PM</em>
-								<p>Before you take off for the long weekend, everyone here at Onward Search would like to wish you a very safe, wonderful and happy Thanksgiving holiday! <a href="http://blog.onwardsearch.com/2010/11/happy-thanksgiving-from-onward-search/" class="more">Read More</a></p>
+								<h3><a href="http://blog.onwardsearch.com/2011/05/personal-brand-advice-for-mobile-developers/">How Mobile Developers Build Awesome Personal Brands</a></h3>
+								<em class="author">by Hillary O'Keefe on Friday May 27th 12:18 PM</em>
+								<p>Build an impressive personal brand for a successful mobile app development career with tips from the latest Onward Search Career Center Highlight! <a href="http://blog.onwardsearch.com/2011/05/personal-brand-advice-for-mobile-developers/" class="more">Read More</a></p>
 							</li>
 							
 						</ul>
@@ -294,8 +391,8 @@ We will post any changes to our privacy policy on this page.  Questions about ou
 							
 							
 							
-									<a href="http://twitter.com/onwardsearch/statuses/9370940441894914" title="HOT JOB: Travel &amp; Leisure Copywriter - Cambridge, Massachusetts #jobs http://onwrd.us/j11543">HOT JOB: Travel &amp; Leisure Copywriter - Cambridge, Massachusetts #jobs http://onwrd.us/j11543</a>
-									<em class="time"><a href="http://twitter.com/onwardsearch/statuses/9370940441894914" title="HOT JOB: Travel &amp; Leisure Copywriter - Cambridge, Massachusetts #jobs http://onwrd.us/j11543" class="time">Monday November 29th 6:19 PM</a></em>
+									<a href="http://twitter.com/onwardsearch/statuses/74207529537765377" title="RT @anniebonward: GRAND advice for Mobile Developers who are looking to better their brand and promote their skills and work!  http://bi ...">RT @anniebonward: GRAND advice for Mobile Developers who are looking to better their brand and promote their skills and work!  http://bi ...</a>
+									<em class="time"><a href="http://twitter.com/onwardsearch/statuses/74207529537765377" title="RT @anniebonward: GRAND advice for Mobile Developers who are looking to better their brand and promote their skills and work!  http://bi ..." class="time">Friday May 27th 4:17 PM</a></em>
 
 							
 							</li>
