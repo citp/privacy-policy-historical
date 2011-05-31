@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acoustica.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212181543id_/http%3A//www.acoustica.com/company/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acoustica.com privacy policy that was archived on 2011-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110531204645id_/http%3A//www.acoustica.com/company/privacy.htm) for the most accurate reproduction.*
 
 # Acoustica | Privacy Policy
 
