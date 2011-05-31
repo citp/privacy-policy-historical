@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the daceband.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224184833id_/http%3A//daceband.com/page.php%3Fpage%3D6%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daceband.com privacy policy that was archived on 2011-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110531231617id_/http%3A//www.daceband.com/page.php%3Fpage%3D6%23privacy) for the most accurate reproduction.*
 
 # Daceband - make money sharing videos, blogs, photos and music
 
