@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the frontiersin.org privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229153707id_/http%3A//www.frontiersin.org/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frontiersin.org privacy policy that was archived on 2011-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110531121037id_/http%3A//www.frontiersin.org/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Frontiers | Privacy Policy
 
 ### PRIVACY POLICY STATEMENT
 
-© Copyright 2007-2010 Frontiers Media SA.   
+© Copyright 2007-2020 Frontiers Media SA.   
 All rights reserved.
 
 _Please read this Privacy Policy carefully. By using this website, whether or not you register as a user, you consent to the use of your personal information as described in this Privacy Policy. You and Frontiers agree to comply with Frontiers’ Privacy Policy as in force from time to time._
@@ -14,7 +14,7 @@ _Please read this Privacy Policy carefully. By using this website, whether or no
 FRONTIERS takes the privacy of all users of the Website very seriously. This Privacy Policy outlines how your personal information will be treated. Our privacy policy will be reviewed and enhanced from time to time and you should check this page to see our most up-to-date policy. If you would like any further information or have any comments about our Privacy Policy or any other aspect of our website or service, please contact us at:  
 [data.controller@frontiersin.org](mailto:data.controller@frontiersin.org)
 
-This website, and its access and use by all visitors, are governed by the Frontiers [Website Terms of Use](https://web.archive.org/web/20101229153707id_/http%3A//www.frontiersin.org/WebTerms.aspx), which you must read and accept as a condition to using this website.
+This website, and its access and use by all visitors, are governed by the Frontiers [Website Terms of Use](https://web.archive.org/web/20110531121037id_/http%3A//www.frontiersin.org/WebTerms.aspx), which you must read and accept as a condition to using this website.
 
 #### Data Controller
 
@@ -42,7 +42,7 @@ If you choose to register, please select in your profile which of your personal 
 
 The two levels of privacy described above also apply to any activity you carry out on the Frontiers websites, such as posting material, creating events, etc.
 
-Certain information relating to authors of articles published by Frontiers must be displayed publicly. This is dealt with in the [Conditions for Authors.](https://web.archive.org/web/20101229153707id_/http%3A//www.frontiersin.org/AuthorConditions.aspx)
+Certain information relating to authors of articles published by Frontiers must be displayed publicly. This is dealt with in the [Conditions for Authors.](https://web.archive.org/web/20110531121037id_/http%3A//www.frontiersin.org/AuthorConditions.aspx)
 
 #### Cookies
 
