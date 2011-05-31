@@ -1,70 +1,83 @@
-> *The following text is extracted and transformed from the creativeboom.co.uk privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122061316id_/http%3A//www.creativeboom.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creativeboom.co.uk privacy policy that was archived on 2011-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110531025236id_/http%3A//www.creativeboom.co.uk/page/privacy-policy) for the most accurate reproduction.*
 
-# Privacy | Creative Boom
+# Privacy Policy Creative Industries | Creative Boom Magazine
 
-### Privacy
+Creative Boom Ltd (“Creative Boom”) is committed to ensuring that your privacy is protected. This privacy policy explains how we use the information we collect about you, how you can let us know if you prefer to limit the use of that information and procedures that we have in place to safeguard your privacy.
 
-This privacy policy sets out how [Creative Boom Ltd](http://www.creativeboom.co.uk/) uses and protects any information that you give [Creative Boom](http://www.creativeboom.co.uk/) when you use this website.
+By registering as a user and/ or by using our website, you are indicating that you have read this privacy policy and understand that your personal information may be used as described below.
 
-[Creative Boom](http://www.creativeboom.co.uk/) is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
-
-[Creative Boom](http://www.creativeboom.co.uk/) may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from Monday 8th December 2008.
+If you have any comments or queries in connection with our privacy policy please contact us by email at hello@creativeboom.co.uk or write to us at 68H Chapel Mews, Crewe Road, Alsager, Cheshire, ST7 2HA.
 
 ## What we collect
 
-We may collect the following information:
+We may collect personal information from our website and from other communications, such as emails. We may collect the following information:
 
   * name and job title
-  * contact information including email address
-  * demographic information such as postcode, preferences and interests
+  * contact information including mailing and email addresses and telephone and fax numbers
+  * demographic information such as postcode, preferences an interests
   * other information relevant to customer surveys and/or offers
+  * any other information you volunteer to provide to us
+  * information that we receive or obtain from other sources
+  * your domain name and IP address, operating system, browser, version and the website that you visited prior to our site. We may do this by way of a cookie (for more information about cookies see below). 
 
 
 
 ## What we do with the information we gather
 
-We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
+When you provide information to us or we obtain information about you we will store this data and hold it on our computers or in hard copy form.
 
-  * Internal record keeping
-  * We may use the information to improve our products and services
-  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
-  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
+We may use such information for the following purposes:
+
+  * internal record keeping
+  * to monitor and improve our website and any products and/or services we may provide
+  * to send promotional emails about new products, special offers or other information which we think you may find interesting 
+  * to contact you (by email, telephone, mail or otherwise) for market research purposes or to send surveys to you
+  * to contact you (by email, telephone, mail or otherwise) in relation to any competitions we may run on our website
+  * to customise the website according to your interests.
 
 
 
-## Security
+We may give information about you (on the understanding that such information will be kept confidential) to employees and agents (including third parties who distribute prizes for the competitions we run on our website) of Creative Boom.
 
-We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+We may disclose information you provide to us or which we obtain about you:
 
-## How we use cookies
+  * to any law enforcement agency requesting it in connection with the commission of a criminal offence, if we are reasonably satisfied as to the circumstances surrounding the request
+  * to comply with any applicable laws 
+  * to protect other users of our website and ourselves
 
-A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site.
 
-Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
-
-We use traffic log cookies to identify which pages are being used. This helps us analyse data about webpage traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
-
-Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
-
-You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
-
-## Links to other websites
-
-Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website.
-
-Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
 
 ## Controlling your personal information
 
 You may choose to restrict the collection or use of your personal information in the following ways:
 
   * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
-  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at [hello@creativeboom.co.uk](https://web.archive.org/web/20101122061316id_/http://www.creativeboom.co.uk/privacy-policy/hello@creativeboom.co.uk).
+  * if you do not wish to receive promotional emails or surveys or be contacted for market research or prize distribution purposes you can opt-out by notifying us at any time by email at [hello@creativeboom.co.uk](mailto:hello@creativeboom.co.uk)
 
 
 
-We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
+## How we use cookies
 
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to [Creative Boom Ltd.](http://www.creativeboom.co.uk/), 100C Crewe Road, Alsager, Cheshire, Stoke-on-Trent, ST7 2JA.
+A cookie is a piece of data that a website can send to your browser, which may then store it on your computer's hard drive. Cookies let us know who has seen which pages on our website and let us determine how frequently pages are visited. This helps us improve our website and tailor it to our users needs.
 
-If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
+You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+
+## Links to other websites
+
+Our website may contain links to other websites of interest. We are not responsible for the data policies or procedures or content of any linked websites. You should check the privacy policy of each website you visit.
+
+## Sale of business
+
+If our business is sold or integrated with another business, your details may be disclosed to our advisors and any prospective purchaser’s advisers and will be passed on to any new owners of the business.
+
+## Security
+
+We have put in place various security procedures to minimise the risk of unauthorised access or disclosure and to safeguard and secure the information we collect online. However, the internet is not a secure medium and we cannot guarantee the security of any data you disclose on line. You accept the risks of providing information and dealing on line over the internet and will not hold us responsible for any breach of security unless such breach is due to our negligence or wilful default.
+
+## Changes to our privacy policy
+
+We may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes.
+
+## Your rights to access personal information
+
+You have the right, under the Data Protection Act 1998, to receive information about the personal information which we hold about you upon making a written request and payment of a fee, which covers our administration costs in providing such information. If you would like a copy of the information held on you please write to us at 68H Chapel Mews, Crewe Road, Alsager, Cheshire, ST7 2HA. If you believe that any information we are holding on you is incorrect or incomplete, please contact us by email at [hello@creativeboom.co.uk](mailto:hello@creativeboom.co.uk) or write to us at 68H Chapel Mews, Crewe Road, Alsager, Cheshire, ST7 2HA.
