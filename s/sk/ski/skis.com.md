@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the skis.com privacy policy that was archived on 2010-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100608231121id_/http%3A//www.skis.com/cs.php%3Fmode%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skis.com privacy policy that was archived on 2011-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110531124946id_/http%3A//www.skis.com/cs.php%3Fmode%3Dprivacy) for the most accurate reproduction.*
 
-# | Skis.com
+# 
 
 This privacy policy explains how Skis.com collects, uses, and discloses the information of users of the Skis.com Web site (the "Skis.com Web site," or "our Web site").
 
