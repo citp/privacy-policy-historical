@@ -1,65 +1,33 @@
-> *The following text is extracted and transformed from the metontour.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216015940id_/http%3A//www.metontour.com/page.asp%3Fid%3D13322) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metontour.com privacy policy that was archived on 2011-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110531021911id_/http%3A//www.metallica.com/help/privacy-policy.asp) for the most accurate reproduction.*
 
-# MetOnTour
+# METALLICA.com | Privacy Policy
 
-## Privacy Policy
+Metallica.com may use any information you submit to us about yourself during your visit in order to provide you with the ultimate web experience, while keeping you up to date with the latest information about Metallica and the site. Please note that your information is not shared with any other party, except as strictly necessary to process membership applications and merchandise orders, or as required by law. We understand your need to maintain your privacy when using the internet.
 
-Metallica in partnership with Iventa Privacy Policy
+###### Information we collect and how we may use it:
 
-Iventa has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: [www.MetOnTour.com](http://www.metontour.com/).
+We may collect both personally identifiable (name, email, address, credit card information) and non-personally identifiable (gender, zip code, country, age) information.
 
-**I.   Information Iventa gathers**   
-We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to help identify you and your shopping cart and to gather broad demographic information. Our site's registration form requires users to give us contact information (like their name and email address), demographic information (like their zip code, age, or income level), as well as other optional categories (like hobbies, interests, and online habits). We use customer contact information from the registration form to send the user information about our company and promotional material from some of our partners. 
+Personally identifiable information that we may collect may include credit card numbers, address and billing information, which will enable us to process and charge your credit card account for your fan club membership applications and/or merchandise orders.
 
-**II.   Cookies  
-**We use cookies to save your password so you don't have to re-enter it each time you visit our site and for other tracking purposes.  Cookies help customize your experience and make your visits more enjoyable.
+If you sign up on the mailing list, enter contests, complete surveys, or use our forums, we may request your contact information (name, email address, date of birth, zip code, gender, country and language preference, etc.).
 
-**III.   How the information is used  
-**We use customer contact information from the registration form to send the user information about our company and promotional material from some of our partners.  The demographic and profile data that we collect is used to tailor the visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences.  The customer's contact information is also used to contact the visitor when necessary. An Iventa member's email address will only be used by Iventa to periodically contact that member about member-selected interests.  Users may opt-out of receiving future mailings; see the choice/opt-out section below. Financial information that is collected is used for those members wishing to obtain paid services and merchandise.  
+The mailing list is our newsletter that informs you of any events, upcoming shows, and important news. The contest information will be used to notify winners and be able to award prizes. We may use survey information that we gather to monitor and improve the website for our users.
 
-**IV.   With who information is shared  
-**Iventa does not provide individually identifiable information to third parties except as noted under "Limits of Confidentiality."  Iventa uses proprietary technologies to preserve the anonymity of users while matching their interests with targeted information that may be viewed at Iventa's partner websites. Iventa will under no circumstance reveal any member's identity to an advertiser. It is solely at a member's discretion if he or she chooses to provide personally identifiable information to a marketer by making a purchase, requesting additional information, or communicating directly with the company or organization after visiting its web site. Contact information provided by Advertisers and Partners is never provided to third parties except as noted under "Limits of Confidentiality."
+The information collected in conjunction with any of our forums (chat, bulletin boards, etc.) may be used to provide you with the ultimate website experience. Please keep in mind that if you voluntarily disclose personal information in the public forums (bulletin boards or in the chat areas) on this web site, the information that you provide may be collected and used by others. This may result in unsolicited messages from other people. You should NEVER disclose personal contact information (i.e. address, phone number, etc.) to strangers in public forums such as bulletin boards or chat rooms. You hereby accept all risks associated with any such disclosure and acknowledge that Metallica, metallica.com, metclub.com, its agents, administrators, representatives, employees, successors, assigns, and attorneys shall have no responsibility or liability as a result of any such disclosure.
 
-**V.   Limits of Confidentiality**  
-Iventa may, due to the existing legal regulatory and security environment, be forced to disclose individually identifiable information to third parties. In the unlikely event we are forced to investigate or resolve possible problems or inquiries, we can disclose any information to private entities, law enforcement or other government officials as we, in our sole discretion, believe necessary or appropriate.
+Otherwise the only information that we may disclose to a third party vendor would be aggregate non-personal information, such as statistics and demographics. This may include demographic information (gender, general location, age, sales and traffic patterns), but this information is NEVER identifiable. We do not sell, trade, donate, or rent personal information...EVER!
 
-This site contains links to other sites. Iventa **** is not responsible for the privacy practices or the content of such Web sites.
+###### Cookies
 
-**VI.   Security Measures  
-**This site has security measures in place to protect the loss, misuse and alteration of the information under our control.  Iventa has made a substantial investment in the latest server, database, backup and firewall technologies to protect the information assets of the Iventa Network. These technologies are deployed as part of a sophisticated security architecture and protocol. All data resides in a tightly controlled, secure data center. These investments mean that information about the identity and preferences of individual members is never accessible to anyone outside Iventa and its partner sites.
+Cookies are non-personally identifiable information, small pieces of information stored by your browser on your hard drive. They are not programs and cannot be used to read any data or files on your computer and it is unlikely that a cookie will cause a virus. They are used to make viewing our website easier by saving your preferences and password, so you don't have to re-enter it each time you visit our site. Cookies also enable us to gather the amount of times a user has visited our website and the pages that are viewed. We do this in order to better our website. This gives us information as to what is interesting on our site and drives traffic to it and what doesn't.
 
-**VII.   Children's Guidelines  
-**Iventa's website meets the guidelines of TRUSTe's Children's program.  We will not accept registrations from children under the age of 13 due to the [Children's Online Privacy Protection Act](http://www.ftc.gov/bcp/conline/edcams/kidzprivacy/index.html) ("COPPA"). COPPA was enacted to prevent websites from collecting and/or distributing information from children without their parents' consent.  In order to comply with the standards set forth in this Act, Iventa will suspend site registration by children under age 13 indefinitely. For more information on COPPA, please refer to the [Federal Trade Commission Website.](http://www.ftc.gov/privacy/)  Iventa agrees to the following:
+If you wish not to accept cookies, simply choose the "disable your cookies" option on your web browser, as most web browsers are automatically set up to accept cookies. Please keep in mind that this will erase any personalized preferences you have set up and it may be difficult to complete transactions, such as purchasing merchandise, renewing or signing up.
 
-  * NOT collect online contact information for users under 13 years of age
-  * NOT collect personally identifiable offline contact information for users under 13 years of age.
-  * NOT to allow access to Iventa programs for users under 13 years of age.
+###### Children's Privacy:
 
+This website is in compliance with the Children's Online Privacy Protection Act and does not collect use, or disclose the personal information of a child under the age of 13. If a child under the age of 13 registers on our site, we will not accept the registration and the information will be deleted immediately. In the event that a child posts personal information in a public forum, such as boards or chat, we will attempt to delete that information once we become aware of it. You may contact [metbb@metclub.com](mailto:metbb@metclub.com) for any removal of such information.
 
+###### Limits of Liabilities and Legal Process:
 
-**VIII. Choice/Opt-Out  
-** Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor.
-
-This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service.
-
-  * You can visit the following URL: [www.iventa.com/remove](https://web.archive.org/remove)
-  * You can call the following telephone number: (310) 888-1829 
-
-
-
-**VIV. Correct/Update  
-** This site gives users the following options for changing and modifying information previously provided.
-
-  * Visit [www.iventa.com/members/myaccount](https://web.archive.org/members/myaccount.asp)
-  * Call the following telephone number: (310) 888-1829
-
-
-
-**X. Contacting the Web Site  
-** If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact
-
-Iventa Corporation  
-9056 Santa Monica Blvd  
-Suite 307   
-West Hollywood, CA 90069  
-[info@iventa.com](mailto:info@iventa.com)
+We may be forced to disclose personal information in response to legal matters or should the law require it. This would be an unlikely situation, but information could be requested due to a subpoena, court order, or law enforcement agency's request.
