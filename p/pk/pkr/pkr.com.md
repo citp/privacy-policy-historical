@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pkr.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127161342id_/http%3A//www.pkr.com/en/about-pkr/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pkr.com privacy policy that was archived on 2011-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110531033310id_/http%3A//www.pkr.com/en/about-pkr/privacy) for the most accurate reproduction.*
 
 # PKR | Poker support | PKR Privacy policy
 
