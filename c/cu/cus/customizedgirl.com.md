@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the customizedgirl.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221132904id_/http%3A//www.customizedgirl.com/%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the customizedgirl.com privacy policy that was archived on 2011-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110531232524id_/http%3A//www.customizedgirl.com/%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
-# CustomizedGirl - Fashion You Design
+# Customized Girl - Fashion You Design
 
 CustomizedGirl.com 
 
