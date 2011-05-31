@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hyundai.com.au privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230082348id_/http%3A//www2.hyundai.com.au/Privacy/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hyundai.com.au privacy policy that was archived on 2011-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110601001806id_/http%3A//www.hyundai.com.au/Privacy/default.aspx) for the most accurate reproduction.*
 
 # Privacy - Hyundai Motor Company Australia
 
@@ -27,5 +27,5 @@ Hyundai Motor Company Australia Pty Ltd
 Cnr of 394 Lane Cove Road & Hyundai Drive, Macquarie Park NSW 2113   
 Phone: 02 8873 6000   
 Fax: 02 8873 6005   
-Website: [www3.hyundai.com.au](http://www3.hyundai.com.au/ "Hyundai web site")  
+Website: [www.hyundai.com.au](http://www.hyundai.com.au/ "Hyundai web site")  
 E-mail: [privacy@hyundai.com.au](mailto:privacy@hyundai.com.au)
