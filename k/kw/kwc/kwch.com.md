@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kwch.com privacy policy that was archived on 2010-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101116141708id_/http%3A//030b577.netsolhost.com/kwch/docs/Kwch.com_Privacy_Policy_Schurz_Communications_NonACT_903210.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kwch.com privacy policy that was archived on 2011-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110531234611id_/http%3A//030b577.netsolhost.com/kwch/docs/Kwch.com_Privacy_Policy_Schurz_Communications_NonACT_903210.pdf) for the most accurate reproduction.*
 
 # Sunflower Broadcasting
 
