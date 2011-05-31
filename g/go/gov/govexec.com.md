@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the govexec.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205164651id_/http%3A//www.govexec.com/fyi/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the govexec.com privacy policy that was archived on 2011-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110531220631id_/http%3A//www.govexec.com/fyi/privacy.htm) for the most accurate reproduction.*
 
 # GovernmentExecutive.com's Privacy Policy -- GovExec.com
 
@@ -20,3 +20,5 @@ For complete information on DoubleClick's privacy policy, [click here](http://ww
 
 **Any Questions?**   
 For more information on our Privacy Assurance Policy, contact us via e-mail at [webmaster@GovernmentExecutive.com](mailto:webmaster@GovernmentExecutive.com).
+
+**Stay up-to-date with federal news alerts and analysis -[sign up for GovExec's email newsletters](https://web.archive.org/email/?oref=story).**
