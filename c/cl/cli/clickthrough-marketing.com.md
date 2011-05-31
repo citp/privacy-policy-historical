@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the clickthrough-marketing.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212075236id_/http%3A//www.clickthrough-marketing.com/miscellaneous/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickthrough-marketing.com privacy policy that was archived on 2011-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110531113131id_/http%3A//www.clickthrough-marketing.com/miscellaneous/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Clickthrough Marketing
+# Privacy Policy | ClickThrough Marketing
 
 This privacy policy sets out how ClickThrough Marketing uses and protects all information that you give to us when using our website. ClickThrough Marketing is committed to protecting your privacy. Any personally identifiable information that you submit when using our website will only be used in accordance with this privacy statement. From time to time, ClickThrough Marketing may change this policy by updating this page.
 
