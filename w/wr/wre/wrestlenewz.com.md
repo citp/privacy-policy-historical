@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wrestlenewz.com privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201135539id_/http%3A//www.wrestlenewz.com/wrestling/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wrestlenewz.com privacy policy that was archived on 2011-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110531113530id_/http%3A//www.wrestlenewz.com/wrestling/privacy-policy) for the most accurate reproduction.*
 
-# WrestleNewz.com - WWE News, TNA News, WWE Divas Photos, TNA Knockouts Photos
+# Privacy Policy | WWE News, TNA News, WWE Divas Photos, TNA Knockouts Photos - WNZ
 
 WrestleNewz knows that you care about how your personal information is used and shared, and we take your privacy very seriously. Please read the following to learn more about our privacy policy. By visiting our website, you are accepting the practices outlined in this Privacy Policy. 
 
