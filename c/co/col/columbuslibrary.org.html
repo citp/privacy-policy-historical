@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the columbuslibrary.org privacy policy that was archived on 2010-09-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100928070450id_/http%3A//www.columbuslibrary.org/ebranch/index.cfm%3Fpageid%3D89) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the columbuslibrary.org privacy policy that was archived on 2011-05-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110531231832id_/http%3A//www.columbuslibrary.org/ebranch/index.cfm%3Fpageid%3D89) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 		
@@ -327,10 +327,14 @@
 	<tbody><tr>
 		<td colspan="2">
 			
-					<div class="top_menu">
+					<div class="top_menu" style="vertical-align:top;">
 						
-							<span class="margin_right_15">Sep. 28, 2010</span> |
-							<a href="/ebranch/index.cfm?pageid=248" style="margin-left:15px;">contact us</a>
+							<span style="margin-right:7px;">May. 31, 2011</span> |
+							<a href="http://www.columbuslibrary.org/ebranch/index.cfm?pageid=29" style="margin-left:7px;margin-right:7px;">locations</a> |
+							<a href="/ebranch/index.cfm?pageid=248" style="margin-left:7px;margin-right:7px;">contact us</a>
+							<a href="http://www.facebook.com/columbuslibrary" target="_blank"><img src="/images/ebranch/navigation/facebook_icon_small.gif" border="0" style="vertical-align:bottom;"></a>
+							<a href="http://www.twitter.com/columbuslibrary" target="_blank"><img src="/images/ebranch/navigation/twitter_icon_small.gif" border="0" style="vertical-align:bottom;"></a>
+							<a href="http://www.youtube.com/user/ColumbusLibrary" target="_blank"><img src="/images/ebranch/navigation/youtube_icon_small.gif" border="0" style="vertical-align:bottom;"></a>
 						
 					</div>
 				
@@ -349,46 +353,200 @@
 		
 	<tr>
 		<td colspan="2" class="main_header_navigation">
+			<script type="text/javascript">
+	var timeout	= 500;
+	var closetimer	= 0;
+	var ddmenuitem	= 0;
+	var the_mm_id = '';
+	
+	// open hidden layer
+	function mopen(id)
+	{	
+		// cancel close timer
+		mcancelclosetime();
+	
+		// close old layer
+		if(ddmenuitem) {
+			ddmenuitem.style.visibility = 'hidden';
+			if (the_mm_id != '')
+				document.getElementById(the_mm_id).style.background = 'none';
+		}
+
+		// get new layer and show it
+		the_mm_id = 'm'+ id;
+		//document.getElementById(the_mm_id).style.backgroundImage = 'url(/images/ebranch/navigation/chromebg10over.gif)';
+		//document.getElementById(the_mm_id).style.backgroundRepeat = 'repeat-x';
+		//document.getElementById(the_mm_id).style.backgroundPosition = 'center center';
+		document.getElementById(the_mm_id).style.backgroundColor = '#ffffff';
 			
+		ddmenuitem = document.getElementById(id);
+		ddmenuitem.style.visibility = 'visible';
+	}
+	// close showed layer
+	function mclose()
+	{
+		if(ddmenuitem) {
+			ddmenuitem.style.visibility = 'hidden';
+			if (the_mm_id != '')
+				document.getElementById(the_mm_id).style.background = 'none';
+		}
+		
+	}
 	
+	// go close timer
+	function mclosetime()
+	{
+		closetimer = window.setTimeout(mclose, timeout);
+	}
+	
+	// cancel close timer
+	function mcancelclosetime()
+	{
+		if(closetimer)
+		{
+			window.clearTimeout(closetimer);
+			closetimer = null;
+		}
+	}
+	
+	// close layer when click-out
+	document.onclick = mclose; 
+</script>
+<style type="text/css">
+	#sddm
+	{	margin: 0;
+		padding: 0;
+		z-index: 30;
+	}
+	
+	#sddm li
+	{	margin: 0;
+		padding: 0;
+		list-style: none;
+		float: left;
+		font: bold 12px arial;
+	}
+	
+	#sddm li a
+	{	display: block;
+		margin: 0 1px 0 0;
+		padding: 4px 7px;
+		color: #000000;
+		text-align: center;
+		text-decoration: none;
+	}
+	
+	#sddm li a:hover
+	{	
+		/*
+		background: url(/images/ebranch/navigation/chromebg10over.gif) center center repeat-x;
+		*/
+		background-color: #ffffff;
+	}
+	
+	#sddm li a.selected1{
+		background: none;
+	}
+	
+	#sddm div
+	{	position: absolute;
+		visibility: hidden;
+		margin: 0;
+		padding: 0;
+		width: 200px;
+		background: url(/images/ebranch/navigation/dropdown-bg2.gif) top center repeat-x;
+		border-bottom: 2px solid #ED4419;
+	}
+	
+	#sddm div a
+	{	position: relative;
+		display: block;
+		margin: 0;
+		padding: 4px 7px;
+		width: auto;
+		white-space: nowrap;
+		text-align: left;
+		text-decoration: none;
+		color: #494949;
+		font: bold 12px arial;
+	}
 
+	#sddm div a:hover
+	{	
+		background: #fff5e9;
+		text-decoration: underline;
+		color: #d25533;
+	}
 	
+	.arrow_down{
+		margin-bottom: 3px;
+		margin-left: 3px;
+	}
 	
-	
-	
-	
+	#cml_nav_div{
+		display:block;
+		text-align:center !important; 
+		margin-left:auto;
+		margin-right:auto;
+		width:700px;
+	}
+</style>
+<div id="cml_nav_div">
+<ul id="sddm">
+    <li><a href="http://www.columbuslibrary.org/">HOME</a></li>
+    <li>
+		<a href="http://catalog.columbuslibrary.org/" id="mm2" onmouseover="mopen('m2')" onmouseout="mclosetime()">CATALOG<img src="/images/ebranch/navigation/down.gif" border="0" class="arrow_down"></a>
+        <div id="m2" onmouseover="mcancelclosetime()" onmouseout="mclosetime()">
+        	<a href="http://catalog.columbuslibrary.org/">Full Catalog</a>
+        	<a href="http://kidscatalog.columbuslibrary.org/">Kids Catalog</a>
+        </div>
+    </li>
+	<li>
+		<a href="http://www.columbuslibrary.org/reference/" id="mm3" onmouseover="mopen('m3')" onmouseout="mclosetime()">REFERENCE<img src="/images/ebranch/navigation/down.gif" border="0" class="arrow_down"></a>
+        <div id="m3" onmouseover="mcancelclosetime()" onmouseout="mclosetime()">
+        	<a href="http://www.columbuslibrary.org/ebranch/index.cfm?pageid=18&amp;parentid=855">Premium Resources</a>
+        	<a href="http://www.columbuslibrary.org/jobhelp/">Job Help</a>
+			
+			<a href="http://www.columbuslibrary.org/reference#search_resource">Resources by Topic</a>
+	 	</div>
+    </li>
+	<li>
+		<a href="http://www.columbuslibrary.org/ebranch/index.cfm?pageid=73&amp;parentid=482" id="mm5" onmouseover="mopen('m5')" onmouseout="mclosetime()">GREAT READS<img src="/images/ebranch/navigation/down.gif" class="arrow_down" border="0"></a>
+        <div id="m5" onmouseover="mcancelclosetime()" onmouseout="mclosetime()">
+        	<a href="http://www.columbuslibrary.org/greatreadsblog">Great Reads Blog</a>
+        	<a href="http://www.columbuslibrary.org/ebranch/index.cfm?pageid=73&amp;parentid=482#my_nyt">Bestsellers and Features</a>
+        	
+			<a href="http://www.columbuslibrary.org/ereaders">eBooks and Downloadables</a>
+			<a href="http://www.columbuslibrary.org/ebranch/webproxy/sel_check_user.cfm?applicationid=6&amp;siteid=15" target="_blank">Fiction and Nonfiction Guide</a>
+			<a href="http://www.columbuslibrary.org/ebranch/index.cfm?pageid=270&amp;parentid=482">Great Reads by Category</a>
+        </div>
+    </li>
+    <li>
+		<a href="http://kids.columbuslibrary.org/" id="mm6" onmouseover="mopen('m6')" onmouseout="mclosetime()">KIDS<img src="/images/ebranch/navigation/down.gif" border="0" class="arrow_down"></a>
+        <div id="m6" onmouseover="mcancelclosetime()" onmouseout="mclosetime()">
+        	<a href="http://kidscatalog.columbuslibrary.org/">Kids Catalog</a>
+        	<a href="http://kids.columbuslibrary.org/ebranch/index.cfm?pageid=14">Homework</a>
+        	<a href="http://kids.columbuslibrary.org/ebranch/index.cfm?pageid=101">Create and Share</a>
+			<a href="http://kids.columbuslibrary.org/ebranch/index.cfm?pageid=13">Read It</a>
+			<a href="http://www.columbuslibrary.org/ebranch/index.cfm?pageid=271">Great Reads by Category</a>
+        </div>
+    </li>
+	<li>
+		<a href="http://teens.columbuslibrary.org/" id="mm7" onmouseover="mopen('m7')" onmouseout="mclosetime()">TEENS<img src="/images/ebranch/navigation/down.gif" border="0" class="arrow_down"></a>
+        <div id="m7" onmouseover="mcancelclosetime()" onmouseout="mclosetime()">
+        	<a href="http://ebranch2.columbuslibrary.org/teens-blog-it/">Teens Blog</a>
+        	<a href="http://teens.columbuslibrary.org/ebranch/index.cfm?pageid=157">Homework</a>
+        	<a href="http://teens.columbuslibrary.org/ebranch/index.cfm?pageid=164">Express It</a>
+			<a href="http://teens.columbuslibrary.org/ebranch/index.cfm?pageid=141">Read It</a>
+			<a href="http://www.columbuslibrary.org/ebranch/index.cfm?pageid=272">Great Reads by Category</a>
+        </div>
+    </li>
+	<li><a href="http://events.columbuslibrary.org/evanced/lib/eventcalendar.asp?Lib=ALL&amp;dt=sd">EVENTS</a></li>
+	<li><a href="https://dpweb.columbuslibrary.org/servlet_jsp/MyAccount2/?site=CML" target="_blank">MY ACCOUNT</a></li>
+</ul>
+</div>
+<div style="clear:both"></div>
 
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		<a href="/">HOME</a>
-	 | 
-		<a href="http://catalog.columbuslibrary.org/">CATALOG</a>
-	 | 
-		<a href="/reference/">REFERENCE</a>
-	 | 
-		<a href="http://events.columbuslibrary.org/evanced/lib/eventcalendar.asp?Lib=ALL&amp;dt=sd">EVENTS</a>
-	 | 
-		<a href="/ebranch/index.cfm?pageid=29">LOCATIONS</a>
-	 | 
-		<a href="/ebranch/index.cfm?pageid=17">ABOUT</a>
-	 | 
-		<a href="http://www.columbuslibrary.org/jobhelp" target="_blank">JOB HELP</a>
-	 | 
-		<a href="http://dpweb.columbuslibrary.org/servlet_jsp/MyAccount/?site=CML" target="_blank">MY ACCOUNT</a>
-	
 		</td>
 	</tr>
 </tbody></table>
@@ -604,6 +762,104 @@
 						
 					
 					
+					
+						
+					
+					
+					
+					
+					
+					
+					<td valign="top" class="main_left_column_box white_bottom_border2">
+						
+						
+						
+						
+						
+						
+						
+						
+							
+			
+			
+			
+			
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+			
+	
+
+	
+	
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+			
+	
+
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+			
+			
+			<table width="100%" cellspacing="0" cellpadding="0">
+				<tbody><tr>
+				 
+					
+					
+						
+						
+					
+					
 						
 					
 					
@@ -623,7 +879,7 @@
 					
 					
 					
-					<td valign="top" class="cml_left_column_box_border cml_side_menu_background dotted_border_black main_left_column_box padding_5 padding_bottom_7 padding_top_7">
+					<td valign="top" class="cml_findit_bg main_left_column_box padding_7">
 						
 						
 						
@@ -640,13 +896,8 @@
 						
 						
 							<form name="CFForm_1" action="/elements/globals/sta_find_it_result.cfm" method="post" class="form_style" onsubmit="return _CF_checkCFForm_1(this)">
-			<input type="radio" name="search1" value="2">
-			
-				<a href="/ebranch/index.cfm?pageid=18&amp;parentid=855">Premium Resources</a>
-			
-			<br>
-			
-			<input type="radio" name="search1" value="1" checked="checked">
+		<input type="hidden" name="search1" value="1">
+		
 			<a href="http://catalog.columbuslibrary.org">Catalog</a>
 			<br>
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="radio" name="search2" value="1">Title <input type="radio" name="search2" value="2">Author <input type="radio" name="search2" value="3" checked="checked">Keyword
@@ -656,13 +907,20 @@
 				<input type="submit" name="submit" value="GO" class="cml_red_button">
 			</form>
 
-		&gt; <a href="/ebranch/webproxy/sel_check_user.cfm?applicationid=6&amp;url=http://gf8wz7an8m.cs.serialssolutions.com">Advanced Search</a>
+		&gt; <a href="http://ebranch2.columbuslibrary.org/catalog_splash_page_advanced_search">Advanced Search</a>
 	
 						
 						
 					</td>
 					
 						 
+					
+				
+				</tr>
+			</tbody></table>
+	 
+						
+					</td>
 					
 				 
 					
@@ -1317,45 +1575,17 @@ You may choose to provide the library with personal information, as in an email 
 						
 						
 							
-	
+	<div id="cml_new_footer_links">
+		<a href="/ebranch/index.cfm?pageid=17">ABOUT</a> | 
+		<a href="http://www.columbuslibrary.org/ebranch/index.cfm?pageid=29">LOCATIONS</a> | 
+		<a href="/ebranch/index.cfm?pageid=203">DOING BUSINESS WITH THE LIBRARY</a> | 
+		<a href="/ebranch/index.cfm?pageid=187">PUBLIC MATERIALS DISTRIBUTION</a> | 
+		<a href="/ebranch/index.cfm?pageid=88">CODE OF CONDUCT</a> | 
+		<a href="http://foundation.columbuslibrary.org/donate-now" target="_blank">DONATE</a> | 
+		<a href="http://friendsofcml.com/" target="_blank">FRIENDS OF THE LIBRARY</a> | 
+		<a href="/ebranch/index.cfm?pageid=86">VOLUNTEER</a>
+	</div>
 
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		<a href="/">HOME</a>
-	 | 
-		<a href="http://catalog.columbuslibrary.org/">CATALOG</a>
-	 | 
-		<a href="/reference/">REFERENCE</a>
-	 | 
-		<a href="http://events.columbuslibrary.org/evanced/lib/eventcalendar.asp?Lib=ALL&amp;dt=sd">EVENTS</a>
-	 | 
-		<a href="/ebranch/index.cfm?pageid=29">LOCATIONS</a>
-	 | 
-		<a href="/ebranch/index.cfm?pageid=17">ABOUT</a>
-	 | 
-		<a href="http://www.columbuslibrary.org/jobhelp" target="_blank">JOB HELP</a>
-	 | 
-		<a href="http://dpweb.columbuslibrary.org/servlet_jsp/MyAccount/?site=CML" target="_blank">MY ACCOUNT</a>
-	
 <br><br>
 © COPYRIGHT 2009.  THE COLUMBUS METROPOLITAN LIBRARY. ALL RIGHTS RESERVED.
 <br>
