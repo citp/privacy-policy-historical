@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the virtualemployee.com privacy policy that was archived on 2010-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101115081052id_/http%3A//www.virtualemployee.com/virtualhome/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virtualemployee.com privacy policy that was archived on 2011-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110531125436id_/http%3A//www.virtualemployee.com/privacypolicy) for the most accurate reproduction.*
 
-# Outsource | Outsourcing | Outsource to India | Outsourcing to India | Outsource India | Outsourcing India
+# 
 
 The following statement delineates the confidentiality regulations and privacy practices for VirtualEmployee website. This privacy statement is applicable to all linked pages and related documents of VirtualEmployee website. This privacy policy is amendable. VirtualEmployee holds the right to add clause(s) or to delete clause(s). It may also revise the existing clauses. Changes after amendment(s), if any, would be duly incorporated in this privacy document. 
 
