@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chatgf.com privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201014456id_/http%3A//chatgf.com/index.php%3F_o%3DDefault%26_m%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chatgf.com privacy policy that was archived on 2011-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110601005508id_/http%3A//chatgf.com/index.php%3F_o%3DDefault%26_m%3Dprivacy) for the most accurate reproduction.*
 
 # chatgf.com
 
