@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the myefoods.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220153417id_/http%3A//myefoods.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myefoods.com privacy policy that was archived on 2011-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110531035845id_/http%3A//www.myefoods.com/privacypolicy.html) for the most accurate reproduction.*
 
 # eFoods Global - Saving Families One Meal At A Time
 
-This Privacy Policy applies to the main Site as well as related Independent Business Owner (IBO) Sites accessed at www.eFoodsglobal.com.
+This Privacy Policy applies to the main Site as well as related Independent Business Owner (IBO) Sites accessed from myefoods.com. 
 
 We are committed to protecting your privacy and using any personal information you provide responsibly. We believe it is important for you to understand what information we collect from you, how it is used and who will have access to that information.   
 
