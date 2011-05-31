@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wirefly.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229095932id_/http%3A//www.wirefly.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wirefly.com privacy policy that was archived on 2011-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110531075308id_/http%3A//www.wirefly.com/about/privacy) for the most accurate reproduction.*
 
 # Wirefly - We place the utmost importance on protecting your personal information
 
@@ -39,21 +39,6 @@ We value the relationship we have with our customers and are committed to respon
 
 The [Wirefly.com](http://www.wirefly.com/?referringdomain=wirefly&refcode1=&refcode2=&agent=&eid=&zipcode=) store is operated by Simplexity, LLC ("Simplexity"). We provide this notice explaining our online information practices and the choices you can make about the way your information is used at our site. This privacy statement covers the site [www.Wirefly.com.](http://www.wirefly.com/?referringdomain=wirefly&refcode1=&refcode2=&agent=&eid=&zipcode=)
 
-Simplexity is a participant in the TRUSTe Privacy Seal Program. TRUSTe is an independent organization whose mission is to advance privacy and trust in the networked world. Simplexity wants to demonstrate its commitment to your privacy, so we have agreed to disclose our information practices and have our privacy practices reviewed for compliance by TRUSTe.
-
-By displaying the TRUSTe trustmark, Simplexity has agreed to notify you of:
-
-  * What personally identifiable information is collected from you through the web site
-  * How the information is used
-  * With whom the information may be shared
-  * What choices are available to you regarding collection, use and distribution of the information
-  * What security procedures are in place to protect the loss, misuse or alteration of information under Simplexity control.
-  * How you can correct or update your information.
-
-
-
-If you have questions or concerns regarding this privacy policy, or complaints arising from our use of your personal information, please contact our Customer Service Department via certified mail to Simplexity, 10790 Parkridge Boulevard, Suite 200, Reston, VA 20191, or via e-mail at [privacypolicy@simplexity.com](mailto:privacypolicy@simplexity.com). If you do not receive acknowledgment of your inquiry, or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe through the TRUSTe WatchDog Dispute Resolution Process ([www.truste.org/consumers/watchdog_complaint.php](http://www.truste.org/consumers/watchdog_complaint.php)). TRUSTe will then serve as a liaison with Simplexity to resolve your concerns.
-
 ### What Information We Collect and How We Use It
 
 #### Location Information
@@ -92,7 +77,7 @@ If you use our blog on this Web site, you should be aware that any personally id
 
 #### Sharing of Affiliate Information in the Affiliate Sign-Up Process
 
-For wireless services, information submitted by potential Affiliates in the Affiliate Sign-Up Process is submitted to Linkshare. Linkshare's privacy policy can be found at [www.linkshare.com](http://www.linkshare.com/). For home connectivity services, information submitted by potential Affiliates in the Affiliate Sign-Up Process may be submitted to Commission Junction. Commission Junction's privacy policy can be found at www.commissionjunction.com.
+For wireless services, information submitted by potential Affiliates in the Affiliate Sign-Up Process is submitted to Commission Junction. Commission Junction's privacy policy can be found at [www.commissionjunction.com](http://www.cj.com/). 
 
 #### Third Party Sharing of Information
 
@@ -132,7 +117,7 @@ This site may contain links to other Web sites whose information practices may b
 
 #### Security
 
-We have put in place multiple levels of physical and electronic security to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online. These measures include secure web pages, VeriSign SSL certificate ensuring the privacy and security of order information, and HackerSafe certification, representing the highest security scanning standards of the U.S. government and all major credit card providers.
+We have put in place multiple levels of physical and electronic security to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online. These measures include secure web pages, VeriSign SSL certificate ensuring the privacy and security of order information, and McAfee Secure certification, representing the highest security scanning standards of the U.S. government and all major credit card providers.
 
 All information submitted is protected by our secure server, which automatically encrypts your personally identifiable information so that it cannot be read while traveling over the Internet.
 
@@ -156,4 +141,4 @@ Simplexity works with Yahoo! to research certain web site usage and activities o
 
 By visiting this web site, you are accepting the practices described in this Privacy Notice.
 
-#### Last Updated July 2008
+#### Last Updated April 2011
