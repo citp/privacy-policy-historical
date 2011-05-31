@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the craftgossip.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229132130id_/http%3A//craftgossip.com/craftgossipcom-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the craftgossip.com privacy policy that was archived on 2011-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110531231246id_/http%3A//craftgossip.com/craftgossipcom-privacy-policy) for the most accurate reproduction.*
 
 # CraftGossip.com Privacy Policy · Craft Gossip | CraftGossip.com
 
