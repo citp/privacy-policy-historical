@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lockheedfcu.org privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216200605id_/http%3A//lockheedfcu.org/Content/includes/privacy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lockheedfcu.org privacy policy that was archived on 2011-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110601012416id_/http%3A//lockheedfcu.org/Content/includes/privacy.pdf) for the most accurate reproduction.*
 
 # LOCKHEED FEDERAL CREDIT UNION PRIVACY NOTICE
 
