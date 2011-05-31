@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigtitsroundasses.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220072740id_/http%3A//pp.bangbros.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigtitsroundasses.com privacy policy that was archived on 2011-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110531221748id_/http%3A//pp.bangbros.com) for the most accurate reproduction.*
 
 # 
 
