@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shemaledvdclub.com privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128051753id_/http%3A//shemaledvdclub.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shemaledvdclub.com privacy policy that was archived on 2011-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110531135053id_/http%3A//shemaledvdclub.com/info/privacy) for the most accurate reproduction.*
 
 # Shemale DVD Club - Internet's biggest Shemale DVD site
 
