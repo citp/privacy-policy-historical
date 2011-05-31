@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the volnation.com privacy policy that was archived on 2010-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100530080901id_/http%3A//www.volnation.com/blog/volnation-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the volnation.com privacy policy that was archived on 2011-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110531033242id_/http%3A//www.volnation.com/blog/volnation-privacy-policy) for the most accurate reproduction.*
 
 # VolNation Privacy Policy - VolNation Blog
 
@@ -6,7 +6,7 @@
 
 VolNation.com knows that you care about how your personal information is used and shared, and we take your privacy very seriously. Please read the following to learn more about our privacy policy. By visiting our website, you are accepting the practices outlined in this Privacy Policy. 
 
-This Privacy Policy covers VolNation.com’s treatment of personal information that VolNation.com gathers when you are on the VolNation.com website and when you use VolNation.com services. This policy does not apply to the practices of third parties that VolNation.com does not own or control, or to individuals that VolNation.com does not employ or manage. 
+This Privacy Policy covers VolNation.com‘s treatment of personal information that VolNation.com gathers when you are on the VolNation.com website and when you use VolNation.com services. This policy does not apply to the practices of third parties that VolNation.com does not own or control, or to individuals that VolNation.com does not employ or manage. 
 
 **Information Collected by** **VolNation.com** ****  
 We only collect personal information that is relevant to the purpose of our website. This information allows us to provide you with a customized and efficient experience. We do not process this information in a way that is incompatible with this objective. We collect the following types of information from our VolNation.com users: 
@@ -29,7 +29,7 @@ VolNation.com is very concerned about your privacy and we will never provide you
 
 · Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your Web browser to enable our systems to recognize your browser and tell us how and when pages in our website are visited and by how many people. VolNation.com cookies do not collect personal information, and we do not combine information collected through cookies with other personal information to tell us who you are or what your screen name or e-mail address is. 
 
-· The “help” portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. We recommend that you leave the cookies activated because cookies allow you to use some of VolNation.com’s coolest features. 
+· The “help” portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. We recommend that you leave the cookies activated because cookies allow you to use some of VolNation.com‘s coolest features. 
 
 · VolNation.com’s advertising partners may place a cookie on your browser that makes it possible to collect anonymous non-personally identifiable information that ad delivery systems use to present more relevant ads.  If you would prefer to opt-out of this standard practice, please visit our advertising partner Platform-A’s privacy policy and opt-out page. 
 
@@ -57,8 +57,21 @@ VolNation.com may amend this Privacy Policy from time to time, at its sole discr
 
 **Conditions of Use**
 
-If you decide to visit VolNation.com website, your visit and any possible dispute over privacy is subject to this Privacy Policy and our Terms of Use, including limitations on damages, arbitration of disputes, and application of California state law. 
+If you decide to visit VolNation.com website, your visit and any possible dispute over privacy is subject to this Privacy Policy and our Terms of Use, including limitations on damages, arbitration of disputes, and application of Tennessee state law. 
 
 **Effective Date of this Privacy Policy**
 
-This Privacy Policy is effective as of 10/1/2008 and last updated10/1/2008.
+This Privacy Policy is effective as of 10/1/2008 and last updated 5/26/2011.
+
+**Contacting the web site:**
+
+If you have any questions about this privacy statement or your dealings with this web site, you can contact
+
+Attn: Webmaster  
+VolNation.com, Turnkin Media, LLC  
+webmaster@volnation.com
+
+**VolNation.com, Turnkin Media, LLC’s Copyright Agent**
+
+  
+email: webmaster@volnation.com
