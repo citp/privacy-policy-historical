@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the animals-zone.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224050535id_/http%3A//www.animals-zone.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animals-zone.com privacy policy that was archived on 2011-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110602002724id_/http%3A//www.animals-zone.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Animals Zone
 
