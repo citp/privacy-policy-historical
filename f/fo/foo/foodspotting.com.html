@@ -1,42 +1,57 @@
-<!--The following is the downloaded HTML source of the foodspotting.com privacy policy that was archived on 2010-12-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101205230155id_/http%3A//www.foodspotting.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the foodspotting.com privacy policy that was archived on 2011-06-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110601125635id_/http%3A//www.foodspotting.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml"><head>
-<title>
-Foodspotting
-|
-Privacy Policy
-</title>
-<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
-<meta content="Foodspotting is a visual guide to good food and where to find it. It's the easiest way to find and share the foods you love." name="description">
-<link href="/stylesheets/base_packaged.css?1291404341" media="screen" rel="stylesheet" type="text/css">
-<script src="/javascripts/base_packaged.js?1291404341" type="text/javascript"></script>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:addthis="http://www.addthis.com/help/api-spec" xml:lang="en" lang="en"><head>
+  	<title>Foodspotting        |
+        Privacy Policy
+    </title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="description" content="Foodspotting is a visual guide to good food and where to find it. It's the easiest way to find and share the foods you love.">
+    <meta name="keywords" content="dishes, dish, food, reviews, food photos, restaurants, dining, guide, food spotting, menu, local">
+    <link href="/stylesheets/all.css?1306894386" media="screen" rel="stylesheet" type="text/css">
+    <script src="/javascripts/all.js?1306894386" type="text/javascript"></script>
+    <meta name="csrf-param" content="authenticity_token">
+<meta name="csrf-token" content="0UVP8C5wEIJd5aUAjl0d9gwyFXxFNHUaqw01SoMuUyM=">
+    
 
+    <script type="text/javascript">
+      <!--
+        
+      -->  
+    </script>
+    
+    <script type="text/javascript"> 
+      //<![CDATA[
+        document.observe("dom:loaded", function() {
+          if(!$('nav-bar').hasClassName('logged-in')) {
+            FS.check_authenticated();
+          }
+          $$('label.prompted').each(setupPromptedField);
+          
+        });
+      //]]>
+    </script>
+           
+    <style type="text/css">
+      
+    </style>
+    
+    <script type="text/javascript" src="http://use.typekit.com/gmg0plj.js"></script>
+    <script type="text/javascript">
+      try{Typekit.load();}catch(e){}
+    </script>
+      
+  	<!--[if lte IE 8]> 
+      <link href="/stylesheets/iex.css?1306894386" media="all" rel="stylesheet" type="text/css" />
+    <![endif]-->
 
-<script type="text/javascript">
-<!--
-
-document.observe("dom:loaded", function() {
-  $$('label.prompted').each(setupPromptedField);
-});
--->
-</script>
-<style type="text/css">
-
-</style>
-<script src="http://use.typekit.com/gmg0plj.js" type="text/javascript"></script>
-<script type="text/javascript">
-try{Typekit.load();}catch(e){}
-</script>
-<!--[if lte IE 8]>
-<link href="/stylesheets/iex.css?1291404275" media="all" rel="stylesheet" type="text/css" />
-<![endif]-->
-<!--[if lte IE 6]>
-<link href="/stylesheets/ie6.css?1291404275" media="all" rel="stylesheet" type="text/css" />
-<![endif]-->
-</head>
-<body>
-<div id="modal" style="display:none">
+  	<!--[if lte IE 6]> 
+      <link href="/stylesheets/ie6.css?1306894386" media="all" rel="stylesheet" type="text/css" />
+    <![endif]-->	
+  </head>
+      
+  <body>
+    <div id="modal" style="display:none">
 <div class="small" id="modal-facebox">
 <a href="#" id="close-modal" onclick="FS.clear_modal(); return false;">close</a>
 <div id="modal-content"></div>
@@ -44,50 +59,54 @@ try{Typekit.load();}catch(e){}
 <div id="modal-screen"></div>
 </div>
 
-<div class="clearfix" id="wrapper">
-<div id="tooltip" style="display:none">
+    <div id="wrapper" class="clearfix">
+      <div id="tooltip" style="display:none">
 <div class="content"></div>
 <div class="pointer"></div>
 </div>
 
-<div id="header">
-<div class="clearfix" id="nav-bar">
+      <div id="header">
+  <div class="clearfix" id="nav-bar">
 <div class="content">
+
 <div class="logged-out-actions">
 Become a Foodspotter!
 <strong>
-<a href="#" onclick="FS.authenticated_prompt = null;FS.authenticated_callback = null;FS.authenticated_goal = null;; new Ajax.Request('/people/new?goal=header', {asynchronous:true, evalScripts:true}); return false;">Join</a>
+<a href="/people/new?goal=header" before="FS.authenticated_prompt = null;FS.authenticated_callback = null;FS.authenticated_goal = null;" data-remote="true">Join</a>
 </strong>
 or
 <strong>
-<a href="#" onclick="FS.authenticated_prompt = null;FS.authenticated_callback = null;FS.authenticated_goal = null;; new Ajax.Request('/login', {asynchronous:true, evalScripts:true}); return false;">Log in</a>
+<a href="#" onclick="FS.authenticated_prompt = null;FS.authenticated_callback = null;FS.authenticated_goal = null;; new Ajax.Request('/login', {asynchronous:true, evalScripts:true, parameters:'authenticity_token=' + encodeURIComponent('0UVP8C5wEIJd5aUAjl0d9gwyFXxFNHUaqw01SoMuUyM=')}); return false;">Log in</a>
 </strong>
+<span id="connect-button" style="margin-left: 20px"></span>
 </div>
 
-<a href="/" id="logo-small"><img alt="Logo-175px" src="/images/logo-175px.png?1291404275"></a>
+<a href="/" id="logo-small"><img alt="Logo-175px" src="/images/logo-175px.png?1306894386"></a>
 <ul>
 <li><a href="/explore">Explore</a></li>
 <li><a href="/guides">Guides</a></li>
 <li><a href="/people">People</a></li>
 <li><a href="/about">About</a></li>
-<li><a href="/blog">Blog</a></li>
-<li><a href="/iphone">iPhone</a></li>
+<li><a href="/apps">Apps</a></li>
+<li class="last"><a href="/blog">Blog</a></li>
 </ul>
 </div>
 </div>
 
-<div id="flash_notice" style="display:none">
+  <div id="flash_notice" style="display:none">
 <div></div>
 </div>
 
+  
+</div>  
+      
+      
 
-</div>
-
-
-<div class="clearfix" id="container">
-<a href="#" id="back_to_map" onclick="FS.hide_back_to_map();; return false;" style="display:none">Take me Back To The Map!</a>
-<div class="clearfix" id="content">
-<div class="hgroup">
+      <div id="container" class="clearfix">
+        <a href="#" id="back_to_map" onclick="FS.hide_back_to_map();; return false;" style="display:none">Take me Back To The Map!</a>
+            
+        <div id="content" class="clearfix">
+          <div class="hgroup">
 <h1>Privacy Policy</h1>
 </div>
 <p>Effective on November 16, 2010</p>
@@ -186,17 +205,20 @@ You may choose to provide us with another person's e-mail address so that person
 </li>
 </ol>
 
-</div>
-<img alt="Spotter" id="spotter" src="/images/spotter.png?1291404275">
-
-</div>
-</div>
-<div id="footer">
+        </div>
+        
+        <img alt="Spotter" id="spotter" src="/images/spotter.png?1306894386">
+      </div>
+    </div>
+    
+    <div id="footer">
 <div id="foodie-town">
 <div id="footer-content">
 <div class="inset">
 <span class="copy">
-© 2009 Foodspotting
+©
+2011
+Foodspotting
 </span>
 <a href="/about">About</a>
 <small class="divider">·</small>
@@ -204,7 +226,7 @@ You may choose to provide us with another person's e-mail address so that person
 <small class="divider">·</small>
 <a href="/jobs">Jobs</a>
 <small class="divider">·</small>
-<a href="http://foodspotting.tumblr.com">Blog</a>
+<a href="/blog">Blog</a>
 <small class="divider">·</small>
 <a href="/terms">Terms</a>
 <small class="divider">·</small>
@@ -220,9 +242,11 @@ You may choose to provide us with another person's e-mail address so that person
 </div>
 <div id="footer-repeat"></div>
 </div>
-
-
-<script type="text/javascript">
+  
+    
+    
+    
+      <script type="text/javascript">
 var is_ssl = ("https:" == document.location.protocol);
 var asset_host = is_ssl ? "https://s3.amazonaws.com/getsatisfaction.com/" : "http://s3.amazonaws.com/getsatisfaction.com/";
 document.write(unescape("%3Cscript src='" + asset_host + "javascripts/feedback-v2.js' type='text/javascript'%3E%3C/script%3E"));
@@ -239,7 +263,7 @@ feedback_widget_options.style = "idea";
 var feedback_widget = new GSFN.feedback_widget(feedback_widget_options);
 </script>
 
-<script type="text/javascript">
+      <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
@@ -249,6 +273,11 @@ try {
   pageTracker._trackPageview();
 } catch(err) {}
 </script>
+<!-- KISSinsights for foodspotting.com -->
+<script type="text/javascript">
+var _kiq = _kiq || [];
+</script>
+<script src="//s3.amazonaws.com/j.kissinsights.com/u/5809/c22b9a859d0f06f366ba29866e085afb4b07cdca.js" type="text/javascript"></script>
 <script type="text/javascript">
 _qoptions={
 qacct:"p-67HM1Vig24MFw"
@@ -256,9 +285,9 @@ qacct:"p-67HM1Vig24MFw"
 </script>
 <script src="http://edge.quantserve.com/quant.js" type="text/javascript"></script>
 <noscript>
-<img alt='Quantcast' border='0' height='1' src='http://pixel.quantserve.com/pixel/p-67HM1Vig24MFw.gif' style='display: none;' width='1' />
+<img alt='Quantcast' border='0' height='1' src='http://pixel.quantserve.com/pixel/p-67HM1Vig24MFw.gif' style='display: none;' width='1'>
 </noscript>
 
-
-
+    
+  
 </body></html>
