@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the betfair.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130151909id_/http%3A//www.betfair.com/aboutUs/Privacy.Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betfair.com privacy policy that was archived on 2011-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110602001005id_/http%3A//www.betfair.com/aboutUs/Privacy.Policy) for the most accurate reproduction.*
 
 # Betfair
 
@@ -84,7 +84,7 @@ To whom and where personal information may be disclosed?
 
 Your Personal Information may, for the purposes described above, be transferred or disclosed to any company within the Group or, subject to appropriate agreement to third parties, for the processing of that Personal Information on our behalf. The Group may, from time to time, retain third parties to process your Personal Information for the purposes listed above and such processing will be governed by a contract in the form required by law.
 
-Where required by law, your Personal Information may also be disclosed to an applicable governmental, regulatory, sporting or enforcement authority. Additionally, your Personal Information may be disclosed to any regulatory or sporting body in connection with policing the integrity or enforcing the rules of a sport or game and/or prevention and detection of crime and with whom the Group has agreements (Memoranda of Understanding or “MOUs”) from time to time for the sharing of such data and where the Group considers that there are reasonable grounds to suspect that you may be involved in a breach of such rules or the law, have knowledge of a breach of such rules or the law or otherwise pose a threat to the integrity of the relevant sport or game. Those bodies may then use your Personal Information to investigate and act on any such breaches in accordance with their procedures.
+Where required by law, your Personal Information may also be disclosed to an applicable governmental, regulatory, sporting or enforcement authority. Additionally, in circumstances where we deem it appropriate, your Personal Information may be disclosed to any regulatory authority (whether at the request of such authority or otherwise) which has issued Betfair with a gambling operating licence. Your Personal Information may also be disclosed to any regulatory or sporting body in connection with policing the integrity or enforcing the rules of a sport or game and/or prevention and detection of crime and with whom the Group has agreements (Memoranda of Understanding or “MOUs”) from time to time for the sharing of such data and where the Group considers that there are reasonable grounds to suspect that you may be involved in a breach of such rules or the law, have knowledge of a breach of such rules or the law or otherwise pose a threat to the integrity of the relevant sport or game. Those bodies may then use your Personal Information to investigate and act on any such breaches in accordance with their procedures.
 
 In connection with the above purposes it may be necessary, or a legal requirement, for Betfair to disclose information to entities located in countries outside the UK, Malta, the EU and Australia in each case in accordance with appropriate technical and organizational security measures. By agreeing to this policy, by use of the Betfair site or otherwise, you agree that Betfair may store and use historical data relating to you and your account(s) for the purposes outlined in this policy.
 
@@ -133,6 +133,10 @@ Betfair has entered into MOUs with the following regulatory and/or sporting bodi
   * Harness Racing Victoria
   * Greyhound Racing Victoria
   * The Tennis Integrity Unit
+  * Racing Queensland Limited
+  * New Zealand Racing Board
+  * Victorian Racing Integrity Commissioner
+  * Professional Squash Association
 
 
 
@@ -140,11 +144,11 @@ Further MOUs may have been entered with other organizations the details of which
 
 Consent
 
-By providing your Personal Information and registering with us or logging on with us when you enter our website, you explicitly consent to the Group processing and disclosing your Personal Information for the purposes, and otherwise in the manner, set out in this policy, or as otherwise provided in accordance with the Terms and Conditions. If you wish to qualify, vary, modify or limit your consent in relation to marketing communications or in circumstances where any processing of your data is likely to cause damage or distress or such other circumstances as the law allows then you may do so by notifying us in writing. Our contact details are located in the 'Contact Us' pages of our website.
+By providing your Personal Information and registering with us or logging on with us when you enter our website, you explicitly consent to the Group processing and disclosing your Personal Information for the purposes, and otherwise in the manner set out in this policy, or as otherwise provided in accordance with the Terms and Conditions. If you wish to qualify, vary, modify or limit your consent in relation to marketing communications or in circumstances where any processing of your data is likely to cause damage or distress or such other circumstances as the law allows then you may do so by notifying us in writing. Our contact details are located in the 'Contact Us' pages of our website.
 
 General information
 
-You may at any time request a copy of your Personal Information held by Betfair in accordance with subject access rules in the Data Protection Act 1998 (UK), the Privacy Act 1988 (Australia) and the Data Protection Act 2001 (Malta).
+You may at any time request a copy of your Personal Information held by Betfair in accordance with subject access rules in the Data Protection Act 2004 (Gibraltar), the Privacy Act 1988 (Australia) and the Data Protection Act 2001 (Malta).
 
 Betfair reserves the right to change the Privacy Policy including altering the purposes for which it processes your Personal Information. In the event that Betfair considers it appropriate to make any such change, the Privacy Policy will be updated and posted on our site. Your continued use of the site will constitute acceptance of those changes.
 
@@ -180,6 +184,6 @@ NOTE: There may be restrictions placed your betting on Australian Events if you 
 
 
 
-V 01/09 03/08/09
+V 01/11 09/03/11
 
-© 2009 The Sporting Exchange Limited. All rights reserved. BETFAIR® is a registered trade mark of The Sporting Exchange Limited.
+© 2011 The Sporting Exchange Limited. All rights reserved. BETFAIR® is a registered trade mark of The Sporting Exchange Limited.
