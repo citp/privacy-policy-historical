@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the techtipspro.com privacy policy that was archived on 2010-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101231105542id_/http%3A//www.techtipspro.com/2008/11/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the techtipspro.com privacy policy that was archived on 2011-06-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110601190408id_/http%3A//www.techtipspro.com/2008/11/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html dir="ltr" xmlns="http://www.w3.org/1999/xhtml" xmlns:b="http://www.google.com/2005/gml/b" xmlns:data="http://www.google.com/2005/gml/data" xmlns:expr="http://www.google.com/2005/gml/expr"><head>
 <title>Privacy Policy</title>
-<link type="text/css" rel="stylesheet" href="http://www.blogger.com/static/v1/widgets/1743847221-widget_css_bundle.css">
- <link rel="stylesheet" type="text/css" href="http://www.blogger.com/dyn-css/authorization.css?targetBlogID=276518644780761331&amp;zx=c16b157e-1d31-4511-b28a-3d9fe62e36ea">
+<link type="text/css" rel="stylesheet" href="http://www.blogger.com/static/v1/widgets/129348724-widget_css_bundle.css">
+ <link rel="stylesheet" type="text/css" href="http://www.blogger.com/dyn-css/authorization.css?targetBlogID=276518644780761331&amp;zx=e19e6c2a-92ad-4164-857e-4ccacfe91bd0">
 <style type="text/css">#navbar-iframe { display:block }
 </style>
 
@@ -972,7 +972,7 @@ color:black;
 background-color:#d4eaf2;
 }
 </style>
-<script type="text/javascript">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
 var defaultnoimage="http://1.bp.blogspot.com/_u4gySN2ZgqE/SosvnavWq0I/AAAAAAAAArk/yL95WlyTqr0/s400/noimage.png";
 var maxresults=10;
 var splittercolor="#d4eaf2";
@@ -1008,8 +1008,38 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
         window.attachEvent('onload', function(){ object[attribute] = val; });
       }
     }
+    function showRelatedContent(args) {
+      var el = document.getElementById('related-iframe');
+      if (el.parentNode.style.display != 'none') {
+        el.parentNode.style.display = 'none';
+        document.onclick = showRelatedContent.prevOnClick;
+        return;
+      }
+      
+      var match = /(?:^[?]|&)c=([0-9]+)(?:&|(?!.))/.exec(args);
+      if (match !== null) {
+        document.getElementById('related-loading').style.left = match[1] + 'px';
+        el.style.left = Math.max(0, match[1] - parseInt(el.width) / 2) + 'px';
+      }
+      el.src = "http://www.blogger.com"
+          + '/related-content.g?q='
+          + window.location.href
+          + '&id=' + "276518644780761331";
+      el.parentNode.style.display = 'block';
+      showRelatedContent.prevOnClick = document.onclick;
+
+      // Hide related-content dropdown when clicking anywhere but on it.
+      document.onclick = function() {
+        var el = document.getElementById('related-iframe');
+        if (el.parentNode.style.display != 'none') {
+          el.parentNode.style.display = 'none';
+        }
+        document.onclick = showRelatedContent.prevOnClick;
+      };
+    }
   </script>
 <iframe src="http://www.blogger.com/navbar.g?targetBlogID=276518644780761331&amp;blogName=TellyOne&amp;publishMode=PUBLISH_MODE_HOSTED&amp;navbarType=BLUE&amp;layoutType=LAYOUTS&amp;searchRoot=http%3A%2F%2Fwww.techtipspro.com%2Fsearch&amp;blogLocale=en&amp;homepageUrl=http%3A%2F%2Fwww.techtipspro.com%2F&amp;targetPostID=2756861440709925271" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" height="30px" width="100%" id="navbar-iframe" allowtransparency="true" title="Blogger Navigation and Search"></iframe>
+
 <div></div></div></div>
 <div id="outer-wrapper">
 <!-- skip links for text browsers -->
@@ -1042,7 +1072,7 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
 <div class="clear"></div>
 <span class="widget-item-control">
 <span class="item-control blog-admin">
-<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=276518644780761331&amp;widgetType=HTML&amp;widgetId=HTML12&amp;action=editWidget" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML12&quot;));" target="configHTML12" title="Edit">
+<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=276518644780761331&amp;widgetType=HTML&amp;widgetId=HTML12&amp;action=editWidget&amp;sectionId=header-right" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML12&quot;));" target="configHTML12" title="Edit">
 <img alt="" height="18" src="http://img1.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
 </a>
 </span>
@@ -1057,19 +1087,16 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
 <h2>Linkbar</h2>
 <div class="widget-content">
 <ul>
-<li><a href="http://www.techtipspro.com/search/label/Bigg%20Boss%204">Bigg Boss 4</a></li>
-<li><a href="http://www.techtipspro.com/search/label/Bigg%20Boss%204%20Videos">Bigg Boss 4 Videos</a></li>
-<li><a href="http://www.techtipspro.com/search/label/Jhalak%20Dikhlajaa%204%20Videos">Jhalak Dikhla Jaa 4 Videos</a></li>
-<li><a href="http://www.techtipspro.com/search/label/KBC%204">KBC 4</a></li>
+<li><a href="http://www.techtipspro.com/search/label/Ratan%20Ka%20Rishta">Ratan Ka Rishta</a></li>
+<li><a href="http://www.techtipspro.com/search/label/Khatron%20Ke%20Khiladi%204">Khatron Ke Khiladi 4 Torchaar</a></li>
 <li><a href="http://www.techtipspro.com/search/label/Perfect%20Bride">Lux Perfect Bride</a></li>
-<li><a href="http://www.techtipspro.com/search/label/Celebrity">Celebrities</a></li>
 <li><a href="http://www.techtipspro.com/search/label/Health">Health</a></li>
 <li><a href="http://www.techtipspro.com/2009/08/contact-us.html">Contact Us</a></li>
 </ul>
 <div class="clear"></div>
 <span class="widget-item-control">
 <span class="item-control blog-admin">
-<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=276518644780761331&amp;widgetType=LinkList&amp;widgetId=LinkList1&amp;action=editWidget" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;LinkList1&quot;));" target="configLinkList1" title="Edit">
+<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=276518644780761331&amp;widgetType=LinkList&amp;widgetId=LinkList1&amp;action=editWidget&amp;sectionId=linkbar" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;LinkList1&quot;));" target="configLinkList1" title="Edit">
 <img alt="" height="18" src="http://img1.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
 </a>
 </span>
@@ -1092,7 +1119,7 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
 <div class="clear"></div>
 <span class="widget-item-control">
 <span class="item-control blog-admin">
-<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=276518644780761331&amp;widgetType=HTML&amp;widgetId=HTML1&amp;action=editWidget" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML1&quot;));" target="configHTML1" title="Edit">
+<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=276518644780761331&amp;widgetType=HTML&amp;widgetId=HTML1&amp;action=editWidget&amp;sectionId=sidebar1" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML1&quot;));" target="configHTML1" title="Edit">
 <img alt="" height="18" src="http://img1.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
 </a>
 </span>
@@ -1105,7 +1132,7 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
 <div class="clear"></div>
 <span class="widget-item-control">
 <span class="item-control blog-admin">
-<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=276518644780761331&amp;widgetType=HTML&amp;widgetId=HTML2&amp;action=editWidget" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML2&quot;));" target="configHTML2" title="Edit">
+<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=276518644780761331&amp;widgetType=HTML&amp;widgetId=HTML2&amp;action=editWidget&amp;sectionId=sidebar1" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML2&quot;));" target="configHTML2" title="Edit">
 <img alt="" height="18" src="http://img1.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
 </a>
 </span>
@@ -1119,7 +1146,7 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
 <div class="clear"></div>
 <span class="widget-item-control">
 <span class="item-control blog-admin">
-<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=276518644780761331&amp;widgetType=HTML&amp;widgetId=HTML7&amp;action=editWidget" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML7&quot;));" target="configHTML7" title="Edit">
+<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=276518644780761331&amp;widgetType=HTML&amp;widgetId=HTML7&amp;action=editWidget&amp;sectionId=sidebar1" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML7&quot;));" target="configHTML7" title="Edit">
 <img alt="" height="18" src="http://img1.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
 </a>
 </span>
@@ -1128,86 +1155,134 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
 </div><div class="widget Label" id="Label1">
 <h2>Topics of Interests</h2>
 <div class="widget-content cloud-label-widget-content">
+<span class="label-size label-size-2">
+<a dir="ltr" href="http://www.techtipspro.com/search/label/Adalat">Adalat</a>
+</span>
+<span class="label-size label-size-3">
+<a dir="ltr" href="http://www.techtipspro.com/search/label/Ammaji%20Ki%20Gali">Ammaji Ki Gali</a>
+</span>
+<span class="label-size label-size-2">
+<a dir="ltr" href="http://www.techtipspro.com/search/label/Bade%20Acche%20Lagte%20Hain">Bade Acche Lagte Hain</a>
+</span>
 <span class="label-size label-size-3">
 <a dir="ltr" href="http://www.techtipspro.com/search/label/Beauty">Beauty</a>
-</span>
-<span class="label-size label-size-5">
-<a dir="ltr" href="http://www.techtipspro.com/search/label/Bigg%20Boss%204">Bigg Boss 4</a>
 </span>
 <span class="label-size label-size-4">
 <a dir="ltr" href="http://www.techtipspro.com/search/label/Celebrity">Celebrity</a>
 </span>
-<span class="label-size label-size-3">
+<span class="label-size label-size-1">
+<a dir="ltr" href="http://www.techtipspro.com/search/label/Chajje%20Chajje%20Ka%20Pyaar">Chajje Chajje Ka Pyaar</a>
+</span>
+<span class="label-size label-size-2">
+<a dir="ltr" href="http://www.techtipspro.com/search/label/Chhoti%20Si%20Zindagi">Chhoti Si Zindagi</a>
+</span>
+<span class="label-size label-size-2">
+<a dir="ltr" href="http://www.techtipspro.com/search/label/Gili%20Gili%20Gappa">Gili Gili Gappa</a>
+</span>
+<span class="label-size label-size-4">
 <a dir="ltr" href="http://www.techtipspro.com/search/label/goodluck%27s%20posts">goodluck's posts</a>
 </span>
-<span class="label-size label-size-4">
+<span class="label-size label-size-2">
+<a dir="ltr" href="http://www.techtipspro.com/search/label/Gulaal">Gulaal</a>
+</span>
+<span class="label-size label-size-3">
+<a dir="ltr" href="http://www.techtipspro.com/search/label/Hamari%20Saas%20Leela">Hamari Saas Leela</a>
+</span>
+<span class="label-size label-size-1">
+<a dir="ltr" href="http://www.techtipspro.com/search/label/Havan">Havan</a>
+</span>
+<span class="label-size label-size-5">
 <a dir="ltr" href="http://www.techtipspro.com/search/label/Health">Health</a>
 </span>
-<span class="label-size label-size-4">
-<a dir="ltr" href="http://www.techtipspro.com/search/label/Jhalak%20Dikhlajaa%204">Jhalak Dikhlajaa 4</a>
+<span class="label-size label-size-2">
+<a dir="ltr" href="http://www.techtipspro.com/search/label/India%27s%20Got%20Talent%203">India's Got Talent 3</a>
+</span>
+<span class="label-size label-size-1">
+<a dir="ltr" href="http://www.techtipspro.com/search/label/Indira%20Gandhi">Indira Gandhi</a>
+</span>
+<span class="label-size label-size-2">
+<a dir="ltr" href="http://www.techtipspro.com/search/label/Jai%20Somnath-%20Ek%20Prem%20Kahani">Jai Somnath- Ek Prem Kahani</a>
+</span>
+<span class="label-size label-size-2">
+<a dir="ltr" href="http://www.techtipspro.com/search/label/Kahani%20Chandrakanta%20Ki">Kahani Chandrakanta Ki</a>
 </span>
 <span class="label-size label-size-4">
 <a dir="ltr" href="http://www.techtipspro.com/search/label/KBC%204">KBC 4</a>
 </span>
-<span class="label-size label-size-4">
-<a dir="ltr" href="http://www.techtipspro.com/search/label/Khatron%20Ke%20Khiladi%203">Khatron Ke Khiladi 3</a>
+<span class="label-size label-size-3">
+<a dir="ltr" href="http://www.techtipspro.com/search/label/KBC%205">KBC 5</a>
+</span>
+<span class="label-size label-size-2">
+<a dir="ltr" href="http://www.techtipspro.com/search/label/Laagi%20Tujhse%20Lagan">Laagi Tujhse Lagan</a>
+</span>
+<span class="label-size label-size-2">
+<a dir="ltr" href="http://www.techtipspro.com/search/label/Love%20You%20Zindagi">Love You Zindagi</a>
 </span>
 <span class="label-size label-size-3">
-<a dir="ltr" href="http://www.techtipspro.com/search/label/Khatron%20Ke%20Khiladi%203%20Videos">Khatron Ke Khiladi 3 Videos</a>
+<a dir="ltr" href="http://www.techtipspro.com/search/label/Luteri%20Dulhan">Luteri Dulhan</a>
+</span>
+<span class="label-size label-size-1">
+<a dir="ltr" href="http://www.techtipspro.com/search/label/Maa">Maa</a>
 </span>
 <span class="label-size label-size-2">
 <a dir="ltr" href="http://www.techtipspro.com/search/label/Maryada">Maryada</a>
 </span>
-<span class="label-size label-size-3">
+<span class="label-size label-size-4">
 <a dir="ltr" href="http://www.techtipspro.com/search/label/Nach%20Baliye%205">Nach Baliye 5</a>
 </span>
 <span class="label-size label-size-3">
-<a dir="ltr" href="http://www.techtipspro.com/search/label/Pantaloons%20Femina%20Miss%20India%202010">Pantaloons Femina Miss India 2010</a>
+<a dir="ltr" href="http://www.techtipspro.com/search/label/Navya">Navya</a>
 </span>
 <span class="label-size label-size-2">
 <a dir="ltr" href="http://www.techtipspro.com/search/label/Paraya%20Ghar">Paraya Ghar</a>
 </span>
+<span class="label-size label-size-3">
+<a dir="ltr" href="http://www.techtipspro.com/search/label/Phulwa">Phulwa</a>
+</span>
 <span class="label-size label-size-2">
-<a dir="ltr" href="http://www.techtipspro.com/search/label/PC%20Configurations">PC Configurations</a>
+<a dir="ltr" href="http://www.techtipspro.com/search/label/Pratigya">Pratigya</a>
 </span>
 <span class="label-size label-size-3">
-<a dir="ltr" href="http://www.techtipspro.com/search/label/PC%20Tips">PC Tips</a>
-</span>
-<span class="label-size label-size-5">
-<a dir="ltr" href="http://www.techtipspro.com/search/label/Perfect%20Bride">Perfect Bride</a>
-</span>
-<span class="label-size label-size-2">
-<a dir="ltr" href="http://www.techtipspro.com/search/label/Prince%20Dance%20Group">Prince Dance Group</a>
-</span>
-<span class="label-size label-size-1">
-<a dir="ltr" href="http://www.techtipspro.com/search/label/Privacy%20Policy">Privacy Policy</a>
-</span>
-<span class="label-size label-size-2">
-<a dir="ltr" href="http://www.techtipspro.com/search/label/Raaz%20%E2%80%93%20Pichhle%20Janam%20Ka%202">Raaz – Pichhle Janam Ka 2</a>
+<a dir="ltr" href="http://www.techtipspro.com/search/label/Ram%20Milaayi%20Jodi">Ram Milaayi Jodi</a>
 </span>
 <span class="label-size label-size-4">
-<a dir="ltr" href="http://www.techtipspro.com/search/label/Rahul%20Dulhaniya%20Le%20Jaayega">Rahul Dulhaniya Le Jaayega</a>
+<a dir="ltr" href="http://www.techtipspro.com/search/label/Ratan%20Ka%20Rishta">Ratan Ka Rishta</a>
 </span>
 <span class="label-size label-size-3">
-<a dir="ltr" href="http://www.techtipspro.com/search/label/Rahul%20Dulhaniya%20Le%20Jaayega%20Videos">Rahul Dulhaniya Le Jaayega Videos</a>
+<a dir="ltr" href="http://www.techtipspro.com/search/label/Rishton%20Se%20Badi%20Pratha">Rishton Se Badi Pratha</a>
 </span>
 <span class="label-size label-size-2">
-<a dir="ltr" href="http://www.techtipspro.com/search/label/Rakta%20Sambandh">Rakta Sambandh</a>
+<a dir="ltr" href="http://www.techtipspro.com/search/label/Saas%20Bina%20Sasural">Saas Bina Sasural</a>
 </span>
 <span class="label-size label-size-2">
-<a dir="ltr" href="http://www.techtipspro.com/search/label/Ram%20Milaayi%20Jodi">Ram Milaayi Jodi</a>
+<a dir="ltr" href="http://www.techtipspro.com/search/label/Saath%20Nibhana%20Saathiya">Saath Nibhana Saathiya</a>
 </span>
 <span class="label-size label-size-4">
 <a dir="ltr" href="http://www.techtipspro.com/search/label/Sach%20Ka%20Saamna">Sach Ka Saamna</a>
 </span>
-<span class="label-size label-size-2">
-<a dir="ltr" href="http://www.techtipspro.com/search/label/Technology">Technology</a>
+<span class="label-size label-size-3">
+<a dir="ltr" href="http://www.techtipspro.com/search/label/Sach%20Ka%20Saamna%202">Sach Ka Saamna 2</a>
+</span>
+<span class="label-size label-size-1">
+<a dir="ltr" href="http://www.techtipspro.com/search/label/Sanjog%20Se%20Bani%20Sangini">Sanjog Se Bani Sangini</a>
 </span>
 <span class="label-size label-size-2">
-<a dir="ltr" href="http://www.techtipspro.com/search/label/Tera%20Mujhse%20Hai%20Pehle%20Ka%20Nata%20Koi">Tera Mujhse Hai Pehle Ka Nata Koi</a>
+<a dir="ltr" href="http://www.techtipspro.com/search/label/Sanskaar%20Lakshmi">Sanskaar Lakshmi</a>
+</span>
+<span class="label-size label-size-1">
+<a dir="ltr" href="http://www.techtipspro.com/search/label/Sasural%20Genda%20Phool">Sasural Genda Phool</a>
 </span>
 <span class="label-size label-size-2">
-<a dir="ltr" href="http://www.techtipspro.com/search/label/Vidhwa">Vidhwa</a>
+<a dir="ltr" href="http://www.techtipspro.com/search/label/Sasural%20Simar%20Ka">Sasural Simar Ka</a>
+</span>
+<span class="label-size label-size-1">
+<a dir="ltr" href="http://www.techtipspro.com/search/label/Superstud">Superstud</a>
+</span>
+<span class="label-size label-size-2">
+<a dir="ltr" href="http://www.techtipspro.com/search/label/Survivor%20India">Survivor India</a>
+</span>
+<span class="label-size label-size-2">
+<a dir="ltr" href="http://www.techtipspro.com/search/label/Vaidehi">Vaidehi</a>
 </span>
 <span class="label-size label-size-3">
 <a dir="ltr" href="http://www.techtipspro.com/search/label/Yeh%20Ishq%20Haaye">Yeh Ishq Haaye</a>
@@ -1215,7 +1290,7 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
 <div class="clear"></div>
 <span class="widget-item-control">
 <span class="item-control blog-admin">
-<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=276518644780761331&amp;widgetType=Label&amp;widgetId=Label1&amp;action=editWidget" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;Label1&quot;));" target="configLabel1" title="Edit">
+<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=276518644780761331&amp;widgetType=Label&amp;widgetId=Label1&amp;action=editWidget&amp;sectionId=sidebar1" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;Label1&quot;));" target="configLabel1" title="Edit">
 <img alt="" height="18" src="http://img1.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
 </a>
 </span>
@@ -1229,7 +1304,7 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
 <div class="clear"></div>
 <span class="widget-item-control">
 <span class="item-control blog-admin">
-<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=276518644780761331&amp;widgetType=HTML&amp;widgetId=HTML5&amp;action=editWidget" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML5&quot;));" target="configHTML5" title="Edit">
+<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=276518644780761331&amp;widgetType=HTML&amp;widgetId=HTML5&amp;action=editWidget&amp;sectionId=sidebar1" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML5&quot;));" target="configHTML5" title="Edit">
 <img alt="" height="18" src="http://img1.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
 </a>
 </span>
@@ -1316,7 +1391,7 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
     registerGetBlogUrls();
   }
   </script>
-<div id="div-ilngh0cgx8gs" style="width: 100%; "></div>
+<div id="div-985cmdod2h2q" style="width: 100%; "></div>
 <script type="text/javascript">
     var skin = {};
     skin['FACE_SIZE'] = '32';
@@ -1337,7 +1412,7 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
     skin['FONT_FACE'] = "Arial";
     google.friendconnect.container.setParentUrl("/");
     google.friendconnect.container["renderMembersGadget"](
-    {id: "div-ilngh0cgx8gs",
+    {id: "div-985cmdod2h2q",
      height: 260,
      
      
@@ -1352,7 +1427,7 @@ if (window.jstiming) window.jstiming.load.tick('headEnd');
 <div class="clear"></div>
 <span class="widget-item-control">
 <span class="item-control blog-admin">
-<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=276518644780761331&amp;widgetType=Followers&amp;widgetId=Followers1&amp;action=editWidget" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;Followers1&quot;));" target="configFollowers1" title="Edit">
+<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=276518644780761331&amp;widgetType=Followers&amp;widgetId=Followers1&amp;action=editWidget&amp;sectionId=sidebar1" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;Followers1&quot;));" target="configFollowers1" title="Edit">
 <img alt="" height="18" src="http://img1.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
 </a>
 </span>
@@ -1511,7 +1586,7 @@ Subscribe to:
 <div class="clear"></div>
 <span class="widget-item-control">
 <span class="item-control blog-admin">
-<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=276518644780761331&amp;widgetType=HTML&amp;widgetId=HTML3&amp;action=editWidget" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML3&quot;));" target="configHTML3" title="Edit">
+<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=276518644780761331&amp;widgetType=HTML&amp;widgetId=HTML3&amp;action=editWidget&amp;sectionId=main" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML3&quot;));" target="configHTML3" title="Edit">
 <img alt="" height="18" src="http://img1.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
 </a>
 </span>
@@ -1524,7 +1599,7 @@ Subscribe to:
 <div class="clear"></div>
 <span class="widget-item-control">
 <span class="item-control blog-admin">
-<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=276518644780761331&amp;widgetType=HTML&amp;widgetId=HTML16&amp;action=editWidget" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML16&quot;));" target="configHTML16" title="Edit">
+<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=276518644780761331&amp;widgetType=HTML&amp;widgetId=HTML16&amp;action=editWidget&amp;sectionId=main" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML16&quot;));" target="configHTML16" title="Edit">
 <img alt="" height="18" src="http://img1.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
 </a>
 </span>
@@ -1543,7 +1618,7 @@ Subscribe to:
 <div class="clear"></div>
 <span class="widget-item-control">
 <span class="item-control blog-admin">
-<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=276518644780761331&amp;widgetType=HTML&amp;widgetId=HTML14&amp;action=editWidget" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML14&quot;));" target="configHTML14" title="Edit">
+<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=276518644780761331&amp;widgetType=HTML&amp;widgetId=HTML14&amp;action=editWidget&amp;sectionId=sidebar2" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML14&quot;));" target="configHTML14" title="Edit">
 <img alt="" height="18" src="http://img1.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
 </a>
 </span>
@@ -1627,7 +1702,7 @@ Subscribe to:
     registerGetBlogUrls();
   }
   </script>
-<div id="div-1k7iq033m6y7" style="width: 100%; "></div>
+<div id="div-1b6sihbsejk2f" style="width: 100%; "></div>
 <script type="text/javascript">
     var skin = {};
     skin['FACE_SIZE'] = '32';
@@ -1648,7 +1723,7 @@ Subscribe to:
     skin['FONT_FACE'] = "Arial";
     google.friendconnect.container.setParentUrl("/");
     google.friendconnect.container["renderOpenSocialGadget"](
-    {id: "div-1k7iq033m6y7",
+    {id: "div-1b6sihbsejk2f",
      height: 200,
      
        url: "http://bloggerplugins.org/scripts/recent_posts_with_thumbnails_and_more_from_www.bloggerplugins.org.xml",
@@ -1667,7 +1742,7 @@ Subscribe to:
 <div class="clear"></div>
 <span class="widget-item-control">
 <span class="item-control blog-admin">
-<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=276518644780761331&amp;widgetType=Gadget&amp;widgetId=Gadget2&amp;action=editWidget" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;Gadget2&quot;));" target="configGadget2" title="Edit">
+<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=276518644780761331&amp;widgetType=Gadget&amp;widgetId=Gadget2&amp;action=editWidget&amp;sectionId=sidebar2" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;Gadget2&quot;));" target="configGadget2" title="Edit">
 <img alt="" height="18" src="http://img1.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
 </a>
 </span>
@@ -1681,7 +1756,7 @@ Subscribe to:
 <div class="clear"></div>
 <span class="widget-item-control">
 <span class="item-control blog-admin">
-<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=276518644780761331&amp;widgetType=HTML&amp;widgetId=HTML4&amp;action=editWidget" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML4&quot;));" target="configHTML4" title="Edit">
+<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=276518644780761331&amp;widgetType=HTML&amp;widgetId=HTML4&amp;action=editWidget&amp;sectionId=sidebar2" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML4&quot;));" target="configHTML4" title="Edit">
 <img alt="" height="18" src="http://img1.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
 </a>
 </span>
@@ -1711,7 +1786,7 @@ var sc_security="e2d6de83";
 <div class="clear"></div>
 <span class="widget-item-control">
 <span class="item-control blog-admin">
-<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=276518644780761331&amp;widgetType=HTML&amp;widgetId=HTML10&amp;action=editWidget" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML10&quot;));" target="configHTML10" title="Edit">
+<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=276518644780761331&amp;widgetType=HTML&amp;widgetId=HTML10&amp;action=editWidget&amp;sectionId=sidebar2" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML10&quot;));" target="configHTML10" title="Edit">
 <img alt="" height="18" src="http://img1.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
 </a>
 </span>
@@ -1733,7 +1808,7 @@ var sc_security="e2d6de83";
 <div class="clear"></div>
 <span class="widget-item-control">
 <span class="item-control blog-admin">
-<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=276518644780761331&amp;widgetType=HTML&amp;widgetId=HTML11&amp;action=editWidget" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML11&quot;));" target="configHTML11" title="Edit">
+<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=276518644780761331&amp;widgetType=HTML&amp;widgetId=HTML11&amp;action=editWidget&amp;sectionId=sidebar2" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML11&quot;));" target="configHTML11" title="Edit">
 <img alt="" height="18" src="http://img1.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
 </a>
 </span>
@@ -1748,7 +1823,7 @@ var sc_security="e2d6de83";
 <div class="clear"></div>
 <span class="widget-item-control">
 <span class="item-control blog-admin">
-<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=276518644780761331&amp;widgetType=LinkList&amp;widgetId=LinkList2&amp;action=editWidget" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;LinkList2&quot;));" target="configLinkList2" title="Edit">
+<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=276518644780761331&amp;widgetType=LinkList&amp;widgetId=LinkList2&amp;action=editWidget&amp;sectionId=sidebar2" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;LinkList2&quot;));" target="configLinkList2" title="Edit">
 <img alt="" height="18" src="http://img1.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
 </a>
 </span>
@@ -1757,14 +1832,37 @@ var sc_security="e2d6de83";
 </div>
 </div><div class="widget HTML" id="HTML8">
 <div class="widget-content">
-<!-- BEGIN STANDARD TAG - popup or popunder - ROS: Run-of-site - DO NOT MODIFY -->
-<script type="text/javascript" src="http://ad.bharatstudent.com/st?ad_type=pop&amp;ad_size=0x0&amp;section=722156&amp;banned_pop_types=28&amp;pop_times=1&amp;pop_frequency=86400"></script>
-<!-- END TAG -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-23680543-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
 </div>
 <div class="clear"></div>
 <span class="widget-item-control">
 <span class="item-control blog-admin">
-<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=276518644780761331&amp;widgetType=HTML&amp;widgetId=HTML8&amp;action=editWidget" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML8&quot;));" target="configHTML8" title="Edit">
+<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=276518644780761331&amp;widgetType=HTML&amp;widgetId=HTML8&amp;action=editWidget&amp;sectionId=sidebar2" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML8&quot;));" target="configHTML8" title="Edit">
+<img alt="" height="18" src="http://img1.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
+</a>
+</span>
+</span>
+<div class="clear"></div>
+</div><div class="widget HTML" id="HTML9">
+<div class="widget-content">
+<script type="text/javascript" src="http://www.pixazza.com/widget/1151186fc55/"></script>
+</div>
+<div class="clear"></div>
+<span class="widget-item-control">
+<span class="item-control blog-admin">
+<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=276518644780761331&amp;widgetType=HTML&amp;widgetId=HTML9&amp;action=editWidget&amp;sectionId=sidebar2" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML9&quot;));" target="configHTML9" title="Edit">
 <img alt="" height="18" src="http://img1.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
 </a>
 </span>
@@ -1788,25 +1886,7 @@ var sc_security="e2d6de83";
 <div class="lowerbar section" id="lowerbar2"></div>
 </div>
 <div id="lowerbar-wrapper">
-<div class="lowerbar section" id="lowerbar3"><div class="widget HTML" id="HTML13">
-<div class="widget-content">
-<script type="text/javascript">
-if(document.location.protocol=='http:'){
- var Tynt=Tynt||[];Tynt.push('bsodMuZNyr3Q_Rab7jrHtB');Tynt.i={"cc":"1","st":true};
- (function(){var s=document.createElement('script');s.async="async";s.type="text/javascript";s.src='http://tcr.tynt.com/ti.js';var h=document.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);})();
-}
-</script>
-</div>
-<div class="clear"></div>
-<span class="widget-item-control">
-<span class="item-control blog-admin">
-<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=276518644780761331&amp;widgetType=HTML&amp;widgetId=HTML13&amp;action=editWidget" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML13&quot;));" target="configHTML13" title="Edit">
-<img alt="" height="18" src="http://img1.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
-</a>
-</span>
-</span>
-<div class="clear"></div>
-</div>
+<div class="lowerbar section" id="lowerbar3">
 </div>
 </div>
 <div style="clear: both;"></div>
@@ -1820,7 +1900,7 @@ Disclaimer: All the content posted under the 'Comments' category are made by the
 <div class="clear"></div>
 <span class="widget-item-control">
 <span class="item-control blog-admin">
-<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=276518644780761331&amp;widgetType=HTML&amp;widgetId=HTML6&amp;action=editWidget" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML6&quot;));" target="configHTML6" title="Edit">
+<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=276518644780761331&amp;widgetType=HTML&amp;widgetId=HTML6&amp;action=editWidget&amp;sectionId=lowerads" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;HTML6&quot;));" target="configHTML6" title="Edit">
 <img alt="" height="18" src="http://img1.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
 </a>
 </span>
@@ -1855,18 +1935,18 @@ Disclaimer: All the content posted under the 'Comments' category are made by the
 <!-- end credit -->
 <script type="text/javascript">
 if (window.jstiming) window.jstiming.load.tick('widgetJsBefore');
-</script><script type="text/javascript" src="http://www.blogger.com/static/v1/widgets/512629240-widgets.js"></script>
+</script><script type="text/javascript" src="http://www.blogger.com/static/v1/widgets/211018530-widgets.js"></script>
 <script type="text/javascript">
 if (typeof(BLOG_attachCsiOnload) != 'undefined' && BLOG_attachCsiOnload != null) { window['blogger_templates_experiment_id'] = "templatesV1";window['blogger_blog_id'] = '276518644780761331';BLOG_attachCsiOnload('item_'); }_WidgetManager._Init('http://www.blogger.com/rearrange?blogID=276518644780761331','http://www.techtipspro.com/2008/11/privacy-policy.html','276518644780761331');
-_WidgetManager._SetPageActionUrl('http://www.blogger.com/display?blogID=276518644780761331','ayuRqOGB9dltbqu3-8vH1guBHoY:1293792942970','AOuZoY43pDrhuiJM4rT3KZc0M8S8XgabKQ:1293792942970');
-_WidgetManager._SetDataContext([{'name': 'blog', 'data': {'title': 'TellyOne', 'pageType': 'item', 'url': 'http://www.techtipspro.com/2008/11/privacy-policy.html', 'canonicalUrl': 'http://www.techtipspro.com/2008/11/privacy-policy.html', 'homepageUrl': 'http://www.techtipspro.com/', 'enabledCommentProfileImages': true, 'searchLabel': '', 'searchQuery': '', 'pageName': 'Privacy Policy', 'pageTitle': 'TellyOne: Privacy Policy', 'encoding': 'UTF-8', 'locale': 'en', 'isPrivate': false, 'isMobile': false, 'mobileClass': '', 'languageDirection': 'ltr', 'feedLinks': '\74link rel\75\42alternate\42 type\75\42application/atom+xml\42 title\75\42TellyOne - Atom\42 href\75\42http://www.techtipspro.com/feeds/posts/default\42 /\76\n\74link rel\75\42alternate\42 type\75\42application/rss+xml\42 title\75\42TellyOne - RSS\42 href\75\42http://www.techtipspro.com/feeds/posts/default?alt\75rss\42 /\76\n\74link rel\75\42service.post\42 type\75\42application/atom+xml\42 title\75\42TellyOne - Atom\42 href\75\42http://www.blogger.com/feeds/276518644780761331/posts/default\42 /\76\n\74link rel\75\42EditURI\42 type\75\42application/rsd+xml\42 title\75\42RSD\42 href\75\42http://www.blogger.com/rsd.g?blogID\075276518644780761331\42 /\76\n\74link rel\75\42alternate\42 type\75\42application/atom+xml\42 title\75\42TellyOne - Atom\42 href\75\42http://www.techtipspro.com/feeds/2756861440709925271/comments/default\42 /\76\n', 'meTag': '', 'openIdOpTag': '', 'imageSrcTag': '', 'latencyHeadScript': '\74script type\75\42text/javascript\42\76(function() { var a\75window;function c(b){this.t\75{};this.tick\75function(d,i,e){e\75e?e:(new Date).getTime();this.t[d]\75[e,i]};this.tick(\42start\42,null,b)}var f\75new c;a.jstiming\75{Timer:c,load:f};try{var g\75null;if(a.chrome\46\46a.chrome.csi)g\75Math.floor(a.chrome.csi().pageT);if(g\75\75null)if(a.gtbExternal)g\75a.gtbExternal.pageT();if(g\75\75null)if(a.external)g\75a.external.pageT;if(g)a.jstiming.pt\75g}catch(h){};a.tickAboveFold\75function(b){b\75b;var d\0750;if(b.offsetParent){do d+\75b.offsetTop;while(b\75b.offsetParent)}b\75d;b\74\075750\46\46a.jstiming.load.tick(\42aft\42)};var j\75false;function k(){if(!j){j\75true;a.jstiming.load.tick(\42firstScrollTime\42)}}a.addEventListener?a.addEventListener(\42scroll\42,k,false):a.attachEvent(\42onscroll\42,k);\n })();\74/script\076', 'mobileHeadScript': ''}}]);
+_WidgetManager._SetPageActionUrl('http://www.blogger.com/display?blogID=276518644780761331','APq4FmDIHviTbsa4TZdWCcXo6E2PGVA_abshlJ_P2uCx1PHMbJaOTPoJjCbvxIEFasPF-toYJl2cfD_TZ5WxWenuWTmwYP6s0l834GhnV4xBhXRkMx_Rjjw=','AOuZoY5ZPSZaqCe7KPvS6raS5kfVkwsLYQ:1306955048534');
+_WidgetManager._SetDataContext([{'name': 'blog', 'data': {'title': 'TellyOne', 'pageType': 'item', 'url': 'http://www.techtipspro.com/2008/11/privacy-policy.html', 'canonicalUrl': 'http://www.techtipspro.com/2008/11/privacy-policy.html', 'homepageUrl': 'http://www.techtipspro.com/', 'blogspotFaviconUrl': 'http://www.techtipspro.com/favicon.ico', 'enabledCommentProfileImages': true, 'searchLabel': '', 'searchQuery': '', 'pageName': 'Privacy Policy', 'pageTitle': 'TellyOne: Privacy Policy', 'encoding': 'UTF-8', 'locale': 'en', 'isPrivate': false, 'isMobile': false, 'mobileClass': '', 'languageDirection': 'ltr', 'feedLinks': '\74link rel\75\42alternate\42 type\75\42application/atom+xml\42 title\75\42TellyOne - Atom\42 href\75\42http://www.techtipspro.com/feeds/posts/default\42 /\76\n\74link rel\75\42alternate\42 type\75\42application/rss+xml\42 title\75\42TellyOne - RSS\42 href\75\42http://www.techtipspro.com/feeds/posts/default?alt\75rss\42 /\76\n\74link rel\75\42service.post\42 type\75\42application/atom+xml\42 title\75\42TellyOne - Atom\42 href\75\42http://www.blogger.com/feeds/276518644780761331/posts/default\42 /\76\n\74link rel\75\42EditURI\42 type\75\42application/rsd+xml\42 title\75\42RSD\42 href\75\42http://www.blogger.com/rsd.g?blogID\075276518644780761331\42 /\76\n\74link rel\75\42alternate\42 type\75\42application/atom+xml\42 title\75\42TellyOne - Atom\42 href\75\42http://www.techtipspro.com/feeds/2756861440709925271/comments/default\42 /\76\n', 'meTag': '', 'openIdOpTag': '', 'imageSrcTag': '', 'latencyHeadScript': '\74script type\75\42text/javascript\42\76(function() { var a\75window;function c(b){this.t\75{};this.tick\75function(b,i,d){d\75d!\75void 0?d:(new Date).getTime();this.t[b]\75[d,i]};this.tick(\42start\42,null,b)}var e\75new c;a.jstiming\75{Timer:c,load:e};try{var g\75null;a.chrome\46\46a.chrome.csi\46\46(g\75Math.floor(a.chrome.csi().pageT));g\75\75null\46\46a.gtbExternal\46\46(g\75a.gtbExternal.pageT());g\75\75null\46\46a.external\46\46(g\75a.external.pageT);g\46\46(a.jstiming.pt\75g)}catch(h){};a.tickAboveFold\75function(b){var f\0750;if(b.offsetParent){do f+\75b.offsetTop;while(b\75b.offsetParent)}b\75f;b\74\075750\46\46a.jstiming.load.tick(\42aft\42)};var j\75!1;function k(){j||(j\75!0,a.jstiming.load.tick(\42firstScrollTime\42))}a.addEventListener?a.addEventListener(\42scroll\42,k,!1):a.attachEvent(\42onscroll\42,k);\n })();\74/script\076', 'mobileHeadScript': ''}}]);
 _WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML12', 'header-right', null, document.getElementById('HTML12'), {}, 'displayModeFull'));
 _WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML1', 'sidebar1', null, document.getElementById('HTML1'), {}, 'displayModeFull'));
 _WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML2', 'sidebar1', null, document.getElementById('HTML2'), {}, 'displayModeFull'));
 _WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML7', 'sidebar1', null, document.getElementById('HTML7'), {}, 'displayModeFull'));
 _WidgetManager._RegisterWidget('_LabelView', new _WidgetInfo('Label1', 'sidebar1', null, document.getElementById('Label1'), {}, 'displayModeFull'));
 _WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML5', 'sidebar1', null, document.getElementById('HTML5'), {}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_FollowersView', new _WidgetInfo('Followers1', 'sidebar1', null, document.getElementById('Followers1'), {'title': 'Followers', 'codeSnippet': '\74script type\75\42text/javascript\42\76\n        if (!window.google || !google.friendconnect) {\n          document.write(\47\74script type\75\42text/javascript\42\47 +\n              \47src\75\42http://www.google.com/friendconnect/script/friendconnect.js\42\76\47 +\n              \47\74/scr\47 + \47ipt\76\47);\n        }\n      \74/script\76\n\74script type\75\42text/javascript\42\76\n      if (!window.registeredBloggerCallbacks) {\n        window.registeredBloggerCallbacks \75 true;\n\n        \n\n        \n        gadgets.rpc.register(\47requestReload\47, function() {\n          document.location.reload();\n        });\n\n        \n        gadgets.rpc.register(\47requestSignOut\47, function(siteId) {\n          \n          google.friendconnect.container.openSocialSiteId \75 siteId;\n          google.friendconnect.requestSignOut();\n        });\n      }\n    \74/script\76\n\74script type\75\42text/javascript\42\76\n    \n    function registerGetBlogUrls() {\n      gadgets.rpc.register(\47getBlogUrls\47, function() {\n        var holder \75 {};\n        \n          \n            \n            \n              holder.currentPost \75 \42http://www.blogger.com/feeds/276518644780761331/posts/default/2756861440709925271\42;\n            \n            \n            \n              holder.currentComments \75 \42http://www.blogger.com/feeds/276518644780761331/2756861440709925271/comments/default\42;\n            \n            holder.currentPostUrl \75 \42\42;\n            holder.currentPostId \75 2756861440709925271\n          \n          \n          \n            holder.postFeed \75 \42http://www.blogger.com/feeds/276518644780761331/posts/default\42;\n          \n          \n          \n            holder.commentFeed \75 \42http://www.blogger.com/feeds/276518644780761331/comments/default\42;\n          \n          holder.currentBlogUrl \75 \42http://www.techtipspro.com/\42;\n          holder.currentBlogId \75 \042276518644780761331\42;\n        \n        return holder;\n      });\n    }\n  \74/script\76\n\74script type\75\42text/javascript\42\76\n  if (!window.registeredCommonBloggerCallbacks) {\n    window.registeredCommonBloggerCallbacks \75 true;\n\n    gadgets.rpc.register(\47resize_iframe\47, function(height) {\n      var el \75 document.getElementById(this[\47f\47]);\n      if (el) {\n        el.style.height \75 height + \47px\47;\n      }\n    });\n\n    \n    gadgets.rpc.register(\47set_pref\47, function() {});\n\n    registerGetBlogUrls();\n  }\n  \74/script\76\n\74div id\75\42div-ttjvg4kmvnqe\42 style\75\42width: 100%; \42\76\74/div\76\n\74script type\75\42text/javascript\42\76\n    var skin \75 {};\n    skin[\47FACE_SIZE\47] \75 \04732\47;\n    skin[\47HEIGHT\47] \75 \042260\42;\n    skin[\47TITLE\47] \75 \42Followers\42;\n    skin[\47BORDER_COLOR\47] \75 \42transparent\42;\n    skin[\47ENDCAP_BG_COLOR\47] \75 \42transparent\42;\n    skin[\47ENDCAP_TEXT_COLOR\47] \75 \42#000000\42;\n    skin[\47ENDCAP_LINK_COLOR\47] \75 \42#000000\42;\n    skin[\47ALTERNATE_BG_COLOR\47] \75 \42transparent\42;\n    \n    skin[\47CONTENT_BG_COLOR\47] \75 \42transparent\42;\n    skin[\47CONTENT_LINK_COLOR\47] \75 \42#000000\42;\n    skin[\47CONTENT_TEXT_COLOR\47] \75 \42#000000\42;\n    skin[\47CONTENT_SECONDARY_LINK_COLOR\47] \75 \42#FFFFFF\42;\n    skin[\47CONTENT_SECONDARY_TEXT_COLOR\47] \75 \42#000000\42;\n    skin[\47CONTENT_HEADLINE_COLOR\47] \75 \42#000000\42;\n    skin[\47FONT_FACE\47] \75 \42Arial\42;\n    google.friendconnect.container.setParentUrl(\42/\42);\n    google.friendconnect.container[\42renderMembersGadget\42](\n    {id: \42div-ttjvg4kmvnqe\42,\n     height: 260,\n     \n     \n     \n     site: \04205530230172142515277\42,\n      \n     locale: \47en\47 },\n     skin);\n  \74/script\076'}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_FollowersView', new _WidgetInfo('Followers1', 'sidebar1', null, document.getElementById('Followers1'), {'title': 'Followers', 'codeSnippet': '\74script type\75\42text/javascript\42\76\n        if (!window.google || !google.friendconnect) {\n          document.write(\47\74script type\75\42text/javascript\42\47 +\n              \47src\75\42http://www.google.com/friendconnect/script/friendconnect.js\42\76\47 +\n              \47\74/scr\47 + \47ipt\76\47);\n        }\n      \74/script\76\n\74script type\75\42text/javascript\42\76\n      if (!window.registeredBloggerCallbacks) {\n        window.registeredBloggerCallbacks \75 true;\n\n        \n\n        \n        gadgets.rpc.register(\47requestReload\47, function() {\n          document.location.reload();\n        });\n\n        \n        gadgets.rpc.register(\47requestSignOut\47, function(siteId) {\n          \n          google.friendconnect.container.openSocialSiteId \75 siteId;\n          google.friendconnect.requestSignOut();\n        });\n      }\n    \74/script\76\n\74script type\75\42text/javascript\42\76\n    \n    function registerGetBlogUrls() {\n      gadgets.rpc.register(\47getBlogUrls\47, function() {\n        var holder \75 {};\n        \n          \n            \n            \n              holder.currentPost \75 \42http://www.blogger.com/feeds/276518644780761331/posts/default/2756861440709925271\42;\n            \n            \n            \n              holder.currentComments \75 \42http://www.blogger.com/feeds/276518644780761331/2756861440709925271/comments/default\42;\n            \n            holder.currentPostUrl \75 \42\42;\n            holder.currentPostId \75 2756861440709925271\n          \n          \n          \n            holder.postFeed \75 \42http://www.blogger.com/feeds/276518644780761331/posts/default\42;\n          \n          \n          \n            holder.commentFeed \75 \42http://www.blogger.com/feeds/276518644780761331/comments/default\42;\n          \n          holder.currentBlogUrl \75 \42http://www.techtipspro.com/\42;\n          holder.currentBlogId \75 \042276518644780761331\42;\n        \n        return holder;\n      });\n    }\n  \74/script\76\n\74script type\75\42text/javascript\42\76\n  if (!window.registeredCommonBloggerCallbacks) {\n    window.registeredCommonBloggerCallbacks \75 true;\n\n    gadgets.rpc.register(\47resize_iframe\47, function(height) {\n      var el \75 document.getElementById(this[\47f\47]);\n      if (el) {\n        el.style.height \75 height + \47px\47;\n      }\n    });\n\n    \n    gadgets.rpc.register(\47set_pref\47, function() {});\n\n    registerGetBlogUrls();\n  }\n  \74/script\76\n\74div id\75\42div-1fu5bu8xd91pm\42 style\75\42width: 100%; \42\76\74/div\76\n\74script type\75\42text/javascript\42\76\n    var skin \75 {};\n    skin[\47FACE_SIZE\47] \75 \04732\47;\n    skin[\47HEIGHT\47] \75 \042260\42;\n    skin[\47TITLE\47] \75 \42Followers\42;\n    skin[\47BORDER_COLOR\47] \75 \42transparent\42;\n    skin[\47ENDCAP_BG_COLOR\47] \75 \42transparent\42;\n    skin[\47ENDCAP_TEXT_COLOR\47] \75 \42#000000\42;\n    skin[\47ENDCAP_LINK_COLOR\47] \75 \42#000000\42;\n    skin[\47ALTERNATE_BG_COLOR\47] \75 \42transparent\42;\n    \n    skin[\47CONTENT_BG_COLOR\47] \75 \42transparent\42;\n    skin[\47CONTENT_LINK_COLOR\47] \75 \42#000000\42;\n    skin[\47CONTENT_TEXT_COLOR\47] \75 \42#000000\42;\n    skin[\47CONTENT_SECONDARY_LINK_COLOR\47] \75 \42#FFFFFF\42;\n    skin[\47CONTENT_SECONDARY_TEXT_COLOR\47] \75 \42#000000\42;\n    skin[\47CONTENT_HEADLINE_COLOR\47] \75 \42#000000\42;\n    skin[\47FONT_FACE\47] \75 \42Arial\42;\n    google.friendconnect.container.setParentUrl(\42/\42);\n    google.friendconnect.container[\42renderMembersGadget\42](\n    {id: \42div-1fu5bu8xd91pm\42,\n     height: 260,\n     \n     \n     \n     site: \04205530230172142515277\42,\n      \n     locale: \47en\47 },\n     skin);\n  \74/script\076'}, 'displayModeFull'));
 _WidgetManager._RegisterWidget('_HeaderView', new _WidgetInfo('Header1', 'header'));
 _WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML14', 'sidebar2', null, document.getElementById('HTML14'), {}, 'displayModeFull'));
 _WidgetManager._RegisterWidget('_GadgetView', new _WidgetInfo('Gadget2', 'sidebar2', null, document.getElementById('Gadget2'), {}, 'displayModeFull'));
@@ -1875,12 +1955,12 @@ _WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML10', 'sidebar2'
 _WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML11', 'sidebar2', null, document.getElementById('HTML11'), {}, 'displayModeFull'));
 _WidgetManager._RegisterWidget('_LinkListView', new _WidgetInfo('LinkList2', 'sidebar2', null, document.getElementById('LinkList2'), {}, 'displayModeFull'));
 _WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML8', 'sidebar2', null, document.getElementById('HTML8'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML9', 'sidebar2', null, document.getElementById('HTML9'), {}, 'displayModeFull'));
 _WidgetManager._RegisterWidget('_GadgetView', new _WidgetInfo('Gadget1', 'main', null, document.getElementById('Gadget1'), {}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_BlogView', new _WidgetInfo('Blog1', 'main', null, document.getElementById('Blog1'), {'cmtInteractionsEnabled': false, 'commentInteractionIframeUrl': 'http://www.blogger.com/comment-interaction-iframe.g?blogId\075276518644780761331', 'showBacklinks': true, 'postId': '2756861440709925271', 'mobile': false}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_BlogView', new _WidgetInfo('Blog1', 'main', null, document.getElementById('Blog1'), {'cmtInteractionsEnabled': false, 'showBacklinks': true, 'postId': '2756861440709925271'}, 'displayModeFull'));
 _WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML15', 'main', null, document.getElementById('HTML15'), {}, 'displayModeFull'));
 _WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML3', 'main', null, document.getElementById('HTML3'), {}, 'displayModeFull'));
 _WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML16', 'main', null, document.getElementById('HTML16'), {}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML13', 'lowerbar3', null, document.getElementById('HTML13'), {}, 'displayModeFull'));
 _WidgetManager._RegisterWidget('_LinkListView', new _WidgetInfo('LinkList1', 'linkbar', null, document.getElementById('LinkList1'), {}, 'displayModeFull'));
 _WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML6', 'lowerads', null, document.getElementById('HTML6'), {}, 'displayModeFull'));
 _WidgetManager._RegisterWidget('_NavbarView', new _WidgetInfo('Navbar1', 'navbar'));
