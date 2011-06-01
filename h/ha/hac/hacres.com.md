@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hacres.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130150912id_/http%3A//www.hacres.com/contact/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hacres.com privacy policy that was archived on 2011-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110601233216id_/http%3A//www.hacres.com/contact/privacy-policy) for the most accurate reproduction.*
 
 # Hallelujah Acres Privacy Policy
 
