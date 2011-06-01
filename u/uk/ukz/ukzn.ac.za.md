@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ukzn.ac.za privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130094607id_/http%3A//www.ukzn.ac.za/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ukzn.ac.za privacy policy that was archived on 2011-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110601213025id_/http%3A//www.ukzn.ac.za/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
