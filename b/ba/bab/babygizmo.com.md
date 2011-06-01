@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the babygizmo.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212153102id_/http%3A//babygizmo.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babygizmo.com privacy policy that was archived on 2011-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110601215147id_/http%3A//babygizmo.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy - Baby Gizmo™
+# Privacy Policy - BabyGizmo.com
 
 **_Confidentiality/Privacy Policy_**
 
@@ -30,4 +30,4 @@ This site contains links to other sites. BabyGizmo.com is not responsible for th
 
 **_How to Contact Us_**
 
-If you have any comments or questions, please do not hesitate to [contact us](http://www.babygizmo.com/contact.php). 
+If you have any comments or questions, please do not hesitate to [contact us](https://web.archive.org/contact.php). 
