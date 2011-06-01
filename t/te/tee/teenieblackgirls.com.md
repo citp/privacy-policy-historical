@@ -1,0 +1,35 @@
+> *The following text is extracted and transformed from the teenieblackgirls.com privacy policy that was archived on 2011-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110601110449id_/http%3A//www.teenieblackgirls.com/privacy) for the most accurate reproduction.*
+
+# Privacy Policy Statement
+
+**TeenieBlackGirls.com**  
+
+
+**PRIVACY POLICY STATEMENT FOR MARKETSOCIAL LTD WEBSITES**  
+
+
+* * *
+
+Our to Privacy
+
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. The information we collect from you helps us better serve the online community by continually personalizing the electronic payment services we provide.
+
+The Information We Collect
+
+This notice applies to all information collected or submitted on through our processing system. The types of personal information collected at these pages are: a) credit card sign-up page: url you are purchasing goods or services from, name, address, email address, phone number, credit/debit card information, username, password and your agreement to be bound by our terms and conditions and; b) check sign-up page: url you are purchasing good or services from, your name, email address, phone number, bank name, your bank.s routing number, bank account number, username, password, birth date and phone number. You are obligated to provide us with accurate and up-to-date information, and failure to provide us with such information could void any customer agreement.
+
+The Way We Use Information
+
+Protecting personally identifiable information about merchants and consumers is an important part of our business. We share and disclose such information only as described below. We will send personally identifiable information about you to other companies or people when we have your consent to share the information or we need to share your information to provide the product or service you have requested.
+
+We use the information that you provide for such purposes as processing your purchase request, responding to customer service inquiries, loss prevention, improving our service, communicating with you and allowing our clients to provide customers a service and fulfill their obligations to you. You can request to be contacted or provided with more information from our website. Information you submit on our website will be used only properly respond to your requests. Finally, employees have access to your information on a need-to-know basis. We will not sell your information to an independent third party for any reason.
+
+Our Commitment to Data Security
+
+We employ the latest and best techniques available for protecting its systems from intrusion by unauthorized individuals, and is constantly upgrading its security as better methods become available. All information is stored behind firewalls and other sophisticated security systems. In addition, our data center utilizes state-of-the-art physical security measures to prevent unauthorized access to the facility. We will release data when we believe the release is appropriate to comply with the law, enforce our Agreement, and protect the contract rights of our clients. We pass the following data to the owners/operators of the website which you are purchasing goods from: a) credit card sign-up page: url you are purchasing goods or services from, name, address, email address, phone number, credit/debit card information, username, password and your agreement to be bound by our terms and conditions and; b) check sign-up page: url you are purchasing good or services from, your name, email address, phone number, bank name, your bank.s routing number, bank account number, username, password, birth date and phone number.
+
+Spam Policy
+
+We do not condone the use of spam and the sending of unsolicited materials in any form, nor do we control other websites involvement and/or practices in this area.
+
+* * *
