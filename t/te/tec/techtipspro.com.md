@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techtipspro.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231105542id_/http%3A//www.techtipspro.com/2008/11/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techtipspro.com privacy policy that was archived on 2011-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110601190408id_/http%3A//www.techtipspro.com/2008/11/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
