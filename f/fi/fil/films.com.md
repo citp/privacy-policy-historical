@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the films.com privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129084942id_/http%3A//www.films.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the films.com privacy policy that was archived on 2011-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110601022613id_/http%3A//www.films.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Films for the Humanities and Sciences - Privacy Policy
 
