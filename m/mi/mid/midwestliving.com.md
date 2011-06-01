@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the midwestliving.com privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201094224id_/http%3A//www.midwestliving.com/mwl/file.jsp%3Fitem%3D/legal/privacy%26temp%3Dyes) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the midwestliving.com privacy policy that was archived on 2011-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110601195714id_/http%3A//www.midwestliving.com/mwl/file.jsp%3Fitem%3D/legal/privacy%26temp%3Dyes) for the most accurate reproduction.*
 
 # Midwest Living
 
@@ -81,15 +81,15 @@ Return to top
 
 ### How to Correct or Update Your Information:
 
-Meredith Corporation believes strongly in providing you with the ability to access and edit the personally identifying information that you have provided to us through our websites. To update this information, please visit our [](http://www.midwestliving.com/common/myaccount)[My Account](http://www.midwestliving.com/common/myaccount) area. 
+Meredith Corporation believes strongly in providing you with the ability to access and edit the personally identifying information that you have provided to us through our websites. To update this information, please visit our [My Account](https://w1.buysub.com/servlet/CSGateway?cds_mag_code=MWL) area. 
 
 Return to top 
 
 ### Newsletters and Promotions:
 
-**Newsletters.** We may offer you the opportunity to subscribe to email newsletters on various topics that we believe are of interest to our visitors. If you have opted to receive a particular newsletter, you can always unsubscribe later either (1) by following the 'unsubscribe' link located near the bottom of each newsletter, or (2) by going to [My Account](http://www.midwestliving.com/common/myaccount) , selecting "Unsubscribe" from the Newsletter options, unchecking the relevant boxes and pressing the "Update" button.
+**Newsletters.** We may offer you the opportunity to subscribe to email newsletters on various topics that we believe are of interest to our visitors. If you have opted to receive a particular newsletter, you can always unsubscribe later either (1) by following the 'unsubscribe' link located near the bottom of each newsletter, or (2) by going to [My Account](https://w1.buysub.com/servlet/CSGateway?cds_mag_code=MWL) , selecting "Unsubscribe" from the Newsletter options, unchecking the relevant boxes and pressing the "Update" button.
 
-**Promotional Emails.** If you provide us with your email address, from time to time we may send you emails about Meredith products, services and special offers (such as special Meredith magazine subscription offers) that we believe may be of interest to you. When you register, you will also be given an opportunity to tell us whether you would like to receive emails about products, services and special offers from third-party providers. Though we hope that you will find both types of promotional emails helpful, if you decide that you no longer wish to receive either or both types of emails, please go to the [Email Preferences](http://www.midwestliving.com/common/myaccount) page and update your preferences. Of course, you may change your preferences at any time. We will make any changes you request as quickly as we can.
+**Promotional Emails.** If you provide us with your email address, from time to time we may send you emails about Meredith products, services and special offers (such as special Meredith magazine subscription offers) that we believe may be of interest to you. When you register, you will also be given an opportunity to tell us whether you would like to receive emails about products, services and special offers from third-party providers. Though we hope that you will find both types of promotional emails helpful, if you decide that you no longer wish to receive either or both types of emails, please go to the [Email Preferences](https://secure.midwestliving.com/common/profile/member/optout/) page and update your preferences. Of course, you may change your preferences at any time. We will make any changes you request as quickly as we can.
 
 Return to top 
 
@@ -113,7 +113,7 @@ Under California Civil Code Section 1798.83 - also known as the "Shine the Light
 
 The "Shine The Light" law creates an exception for businesses that adopt and disclose to the public (in their privacy policies) a policy of not sharing personal information for direct marketing purposes without offering their customers choices to prevent such disclosures. These businesses are not obligated to provide the lists described above and may respond to requests from California customers by notifying them of their rights to prevent disclosures of personal information for direct marketing purposes and providing a cost-free means of exercising those rights. 
 
-Meredith Corporation qualifies for this latter exception. As further explained in our Online Privacy Policy and [Offline Privacy Policy](https://secure.meredith.com/privacy/policy.html), we offer our customers choices to prevent the disclosure of their personal information to third parties for the third parties' direct marketing purposes. To prevent such disclosures of your information, please follow the instructions in our "Shine The Light" Customer Notice, which is included below for your convenience. You can also request a copy of this Notice by emailing us at [privacy@meredith.com](mailto:privacy@meredith.com). Please note that we are only required to respond to one request for per California customer during the course of any calendar year and we reserve the right not to respond to requests made by means other than through this email address.
+Meredith Corporation qualifies for this latter exception. As further explained in our Online Privacy Policy and [Offline Privacy Policy](http://www.midwestliving.com/mwl/file.jsp?item=/privacy/policy), we offer our customers choices to prevent the disclosure of their personal information to third parties for the third parties' direct marketing purposes. To prevent such disclosures of your information, please follow the instructions in our "Shine The Light" Customer Notice, which is included below for your convenience. You can also request a copy of this Notice by emailing us at [privacy@meredith.com](mailto:privacy@meredith.com). Please note that we are only required to respond to one request for per California customer during the course of any calendar year and we reserve the right not to respond to requests made by means other than through this email address.
 
 Return to top 
 
@@ -123,7 +123,7 @@ The following options are available to any customers who wish to prevent the dis
 
 #### Disclosures of Name and Postal Address Information. 
 
-If you subscribe to a magazine published by Meredith Corporation, or if you otherwise provide us with your name and postal address, we may share this information with other reputable companies that offer products and services that we believe may be of interest to you. To remove your name and postal address from any marketing lists that we sell or rent to third parties, complete the online ["opt-out" form](https://secure.meredith.com/privacy/policy.html) or email your name and address to [privacy@meredith.com](mailto:privacy@meredith.com). If you prefer to contact us by regular mail, send a postcard or letter including your name and postal address to Meredith Corporation, Opt-out Postal: Attn Circulation, 1716 Locust Street, Des Moines, Iowa 50309. 
+If you subscribe to a magazine published by Meredith Corporation, or if you otherwise provide us with your name and postal address, we may share this information with other reputable companies that offer products and services that we believe may be of interest to you. To remove your name and postal address from any marketing lists that we sell or rent to third parties, complete the online ["opt-out" form](http://www.midwestliving.com/mwl/file.jsp?item=/privacy/policy) or email your name and address to [privacy@meredith.com](mailto:privacy@meredith.com). If you prefer to contact us by regular mail, send a postcard or letter including your name and postal address to Meredith Corporation, Opt-out Postal: Attn Circulation, 1716 Locust Street, Des Moines, Iowa 50309. 
 
 #### Disclosures of Website Registration Information.
 
