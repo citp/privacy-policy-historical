@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the coniefoxdress.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130151216id_/http%3A//www.coniefoxdress.com/cms/help/productHelp/policy/clist34.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coniefoxdress.com privacy policy that was archived on 2011-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110601235809id_/http%3A//www.coniefoxdress.com/cms/help/productHelp/policy/clist34.html) for the most accurate reproduction.*
 
-# Dresses, Wedding Dresses, Evening Dresses, Prom Gowns by CONIEFOX Privacy Policy
+# Formal dress,Prom dresses,Formal dresses,Dresses for a wedding by CONIEFOX formal dress Privacy Policy
 
 Privacy
 
