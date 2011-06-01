@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the giantfoodstores.com privacy policy that was archived on 2010-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100909071436id_/http%3A//www.giantfoodstores.com/shareddev/sharedcontent/Company/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the giantfoodstores.com privacy policy that was archived on 2011-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110601083040id_/http%3A//www.giantfoodstores.com/shareddev/sharedcontent/Company/privacypolicy.cfm) for the most accurate reproduction.*
 
 # GIANT® Food Stores
 
