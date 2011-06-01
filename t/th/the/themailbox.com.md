@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themailbox.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206150303id_/http%3A//www.theeducationcenter.com/tec/af/tec/core/nav/page.do%3FNAME%3DPrivacy_Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themailbox.com privacy policy that was archived on 2011-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110601212827id_/http%3A//www.theeducationcenter.com/tec/af/tec/core/nav/page.do%3FNAME%3DPrivacy_Statement) for the most accurate reproduction.*
 
 # The Mailbox.com | Customer Service | Terms and Conditions
 
