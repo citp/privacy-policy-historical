@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobgroupz.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219135054id_/http%3A//jobgroupz.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobgroupz.com privacy policy that was archived on 2011-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110602002128id_/http%3A//www.jobgroupz.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # JobGroupz.com - Real Time Job Seach Made Easy
 
