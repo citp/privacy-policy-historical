@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arakne-links.com privacy policy that was archived on 2010-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101210055311id_/http%3A//www.arakne-links.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arakne-links.com privacy policy that was archived on 2011-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110602011221id_/http%3A//www.arakne-links.com/privacy.php) for the most accurate reproduction.*
 
 # Arakne Links Privacy Policy
 
