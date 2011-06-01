@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dexone.com privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201224215id_/http%3A//www.dexone.com/Legal/DexOne_PrivacyPolicy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dexone.com privacy policy that was archived on 2011-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110601023609id_/http%3A//www.dexone.com/legal/dexone_privacypolicy.pdf) for the most accurate reproduction.*
 
 # Last Updated September 2, 2010 Dex One Corporation and its affiliates (collectively, "Dex One", “we” or “us”) understand and respect your concerns about privacy. This notice describes Dex One’s privacy policy as it pertains to the website at www.DexOne.com (the "Website"). We may from time-to-time revise this privacy policy, and the date of last revision will be available at the top of this page, so please be sure to check back periodically.
 
