@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the esyndicat.com privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213072046id_/http%3A//www.esyndicat.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esyndicat.com privacy policy that was archived on 2011-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110601084516id_/http%3A//www.esyndicat.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy :: eSyndiCat Directory Software, Directory Script
 
@@ -30,4 +30,4 @@ Alternatively you can report piracy using our [contact form](http://www.esyndica
 
 ## Testimonials
 
-eSyndiCat directory software is the best in the market. And what makes is best is the effort done by its coders, to make it simple & easy, as well the way they support their product. Ask them anything & they are ready with the answer.
+Now I'm going to put the script through it's paces, but I can see already it's a great program. I've download 8 scripts and this is the only one with full unicode support, which means I can handle Chinese with it using the utf-8 encoding.
