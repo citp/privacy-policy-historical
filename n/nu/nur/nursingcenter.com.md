@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nursingcenter.com privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126140402id_/http%3A//nursingcenter.com/about/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nursingcenter.com privacy policy that was archived on 2011-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110601110448id_/http%3A//www.nursingcenter.com/about/privacypolicy.asp) for the most accurate reproduction.*
 
 # NursingCenter - About Us - Privacy Policy
 
@@ -7,7 +7,7 @@
 ---|---  
 | Overview  
 ---|---  
-| At NursingCenter, we understand the importance of online privacy, and we strive to keep members informed of our privacy practices. We’ve established the following policies to explain how we use information collected from you. Please read the policy carefully and notify us if you have questions. 
+| At NursingCenter, we understand the importance of online privacy, and we strive to keep members informed of our privacy practices. We've established the following policies to explain how we use information collected from you. Please read the policy carefully and notify us if you have questions.
 
 By becoming a member of this site, you acknowledge that you have read, understood, and accepted the terms of the NursingCenter privacy policy.  
   
