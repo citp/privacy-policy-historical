@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mmorpg.com privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202113952id_/http%3A//www.mmorpg.com/disclaimers.cfm%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mmorpg.com privacy policy that was archived on 2011-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110601202221id_/http%3A//www.mmorpg.com/disclaimers.cfm%23privacy) for the most accurate reproduction.*
 
-# MMORPG.com - Your Headquarters for Online Multiplayer Games, RPG Online Games, Online Role Playing Free Games!
+# Online MMO and MMORPG Gamelist, News, Reviews and Community at MMORPG.com
 
 ## Terms of Use
 
@@ -164,4 +164,4 @@ This web site is the exclusive property of Cyber Creations Inc. and may not be c
 
 All game logos, or game-specific designs are used by permission by the individual publishing company. These images are copyrighted by their respective owners. These images may not be copied or reproduced without permission from their respective owners.
 
-**Copyright © Cyber Creations Inc. 2002-2010**
+**Copyright © Cyber Creations Inc. 2002-2011**
