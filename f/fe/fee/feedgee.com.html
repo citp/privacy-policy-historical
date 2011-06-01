@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the feedgee.com privacy policy that was archived on 2010-12-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101230055732id_/http%3A//feedgee.com/en/PrivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the feedgee.com privacy policy that was archived on 2011-06-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110601173457id_/http%3A//feedgee.com/en/PrivacyPolicy) for the most accurate reproduction.-->
 
 <html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"><meta id="ctl00_metaKeyWords" name="KeyWords" content="Privacy Policy, opt in email advertising, opt in email marketing, opt in email, targeted opt in, mail direct marketing, opt in email list marketing, opt in emails, business mailing lists, business mailing list, email mailing lists, mailing lists, FEEDGEE keywords"><meta id="ctl00_metaDescription" name="Description" content="Privacy Policy At FEEDGEE we respect and protect the privacy of our customers and those who use our website. The following Privacy Statement provides details about how your personal information is collected and used. This privacy statement applies to, FEEDGEE description"><meta id="ctl00_metaClassification" name="Classification" content="email, marketing, opt in lists software, email marketing, webmaster tools, pr, promo, ad, FEEDGEE classification"><title>
 	Privacy Policy | FEEDGEE email marketing tools
@@ -29,12 +29,41 @@
             supportOpen = function (hash) { $(".btnSubmitSupportTicket").removeAttr("disabled"); hash.w.css('opacity', 0.95).fadeIn('2000'); setTimeout(((txtName.value.length > 0) ? "txtMessage" : "txtName") + ".focus()", 100); };
             SubmitSpellingSupportTicket = function () { txtMessage.value = GetSelection(); txtEmail.value = GetSelection(); $("#divSupport").jqmShow(); }
             $("#divSupport").jqm({ overlay: 0, onHide: supportClose, onShow: supportOpen }).jqmAddTrigger('#spanSupport').jqmAddClose('#supportClose');
+
+
+            $("#txtEmail").keyup(function () {
+                reg = new RegExp(/^(("[\w-\s]+")|([\w-]+(?:\.[\w-]+)*)|("[\w-\s]+")([\w-]+(?:\.[\w-]+)*))(@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$)|(@\[?((25[0-5]\.|2[0-4][0-9]\.|1[0-9]{2}\.|[0-9]{1,2}\.))((25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\.){2}(25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\]?$)/i);
+                if (txtEmail.value.search(reg) == -1) {
+                    $(txtEmail).css({ 'background-color': '#FF9999' });
+                    setTimeout("txtEmail.focus()", 120);
+                }
+                else {
+                    $(txtEmail).css({ 'background-color': '#FFFFFF' });
+                }
+
+            });
+
+            $("#txtMessage").keyup(function () {
+                if (txtMessage.value.length == 0) {
+                    $(txtMessage).css({ 'background-color': '#FF9999' });
+                    setTimeout("txtMessage.focus()", 100);
+                }
+                else {
+                    $(txtMessage).css({ 'background-color': '#FFFFFF' });
+                }
+
+            });
+
             $(".btnSubmitSupportTicket").click(function () {
+
                 var valid = false;
                 if (txtMessage.value.length == 0) {
                     $(txtMessage).css({ 'background-color': '#FF9999' });
                     setTimeout("txtMessage.focus()", 100);
                     valid = true;
+                }
+                else {
+                    $(txtMessage).css({ 'background-color': '#FFFFFF' });
                 }
                 if (txtEmail.value.length == 0) {
                     $(txtEmail).css({ 'background-color': '#FF9999' });
@@ -42,7 +71,7 @@
                     valid = true;
                 }
                 else {
-                    reg = new RegExp("^([a-zA-Z0-9_.-])+@(([a-zA-Z0-9-])+.)+([a-zA-Z0-9]{2,4})+$");
+                    reg = new RegExp(/^(("[\w-\s]+")|([\w-]+(?:\.[\w-]+)*)|("[\w-\s]+")([\w-]+(?:\.[\w-]+)*))(@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$)|(@\[?((25[0-5]\.|2[0-4][0-9]\.|1[0-9]{2}\.|[0-9]{1,2}\.))((25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\.){2}(25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\]?$)/i);
                     if (txtEmail.value.search(reg) == -1) {
                         $(txtEmail).css({ 'background-color': '#FF9999' });
                         setTimeout("txtEmail.focus()", 120);
@@ -71,14 +100,17 @@
 <link type="text/css" rel="stylesheet" href="/css/ComboboxGreen/Styles.css"></head>
 <body onload="PageOnLoad();">
     <form name="aspnetForm" method="post" action="" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTM0NTQzNzQ5Ng9kFgJmD2QWBAIBD2QWBgIBDxYCHgdjb250ZW50BYcCUHJpdmFjeSBQb2xpY3ksIG9wdCBpbiBlbWFpbCBhZHZlcnRpc2luZywgb3B0IGluIGVtYWlsIG1hcmtldGluZywgb3B0IGluIGVtYWlsLCB0YXJnZXRlZCBvcHQgaW4sIG1haWwgZGlyZWN0IG1hcmtldGluZywgb3B0IGluIGVtYWlsIGxpc3QgbWFya2V0aW5nLCBvcHQgaW4gZW1haWxzLCBidXNpbmVzcyBtYWlsaW5nIGxpc3RzLCBidXNpbmVzcyBtYWlsaW5nIGxpc3QsIGVtYWlsIG1haWxpbmcgbGlzdHMsIG1haWxpbmcgbGlzdHMsIEZFRURHRUUga2V5d29yZHNkAgIPFgIfAAWPAlByaXZhY3kgUG9saWN5IEF0IEZFRURHRUUgd2UgcmVzcGVjdCBhbmQgcHJvdGVjdCB0aGUgcHJpdmFjeSBvZiBvdXIgY3VzdG9tZXJzIGFuZCB0aG9zZSB3aG8gdXNlIG91ciB3ZWJzaXRlLiBUaGUgZm9sbG93aW5nIFByaXZhY3kgU3RhdGVtZW50IHByb3ZpZGVzIGRldGFpbHMgYWJvdXQgaG93IHlvdXIgcGVyc29uYWwgaW5mb3JtYXRpb24gaXMgY29sbGVjdGVkIGFuZCB1c2VkLiBUaGlzIHByaXZhY3kgc3RhdGVtZW50IGFwcGxpZXMgdG8sIEZFRURHRUUgZGVzY3JpcHRpb25kAgMPFgIfAAVwZW1haWwsIG1hcmtldGluZywgb3B0IGluIGxpc3RzIHNvZnR3YXJlLCBlbWFpbCBtYXJrZXRpbmcsIHdlYm1hc3RlciB0b29scywgcHIsIHByb21vLCBhZCwgRkVFREdFRSBjbGFzc2lmaWNhdGlvbmQCAw9kFhBmD2QWAgIDDw8WAh4OUmFkQ29udHJvbHNEaXIFDn4vUmFkQ29udHJvbHMvZGQCAg8PFgIeC05hdmlnYXRlVXJsBQQvZW4vZGQCAw8PFgQfAgUKL2VuL1Rvb2xzLx4HVmlzaWJsZWdkZAIEDw8WAh8CBQ8vZW4vSGVscENlbnRlci9kZAIFDw8WAh8DaGRkAgYPFCsAAg8WBh4EVGV4dAUHRW5nbGlzaB4FVmFsdWUFAmVuHglJdGVtQ291bnQCA2QUKwADFCsAAQ8WBh8EBQdFbmdsaXNoHwUFAmVuHghTZWxlY3RlZGdkFCsAAQ8WBh8EBQ7QoNGD0YHRgdC60LjQuR8FBQJydR8HaGQUKwABDxYGHwQFFNCj0LrRgNCw0ZfQvdGB0YzQutCwHwUFAnVhHwdoZGQCBw9kFgJmD2QWAgIRDw8WAh8CBRUvZW4vcGFzc3dvcmRSZWNvdmVyeS9kZAIID2QWBAIBDxYCHwQFDlByaXZhY3kgUG9saWN5ZAIDDxYCHwQF+zUKPHA+PHN0cm9uZz48c3BhbiBzdHlsZT0iZm9udC1mYW1pbHk6IFZlcmRhbmE7IGZvbnQtc2l6ZTogMTBwdDsiPkZFRURHRUUgUFJJVkFDWSBHVUFSQU5URUU8L3NwYW4+PC9zdHJvbmc+PHNwYW4gc3R5bGU9ImZvbnQtZmFtaWx5OiBWZXJkYW5hOyBmb250LXNpemU6IDEwcHQ7Ij4KPC9zcGFuPjxzcGFuIHN0eWxlPSIiPjxvOnA+PC9vOnA+PC9zcGFuPjwvcD4KCjxwPjxzcGFuIHN0eWxlPSJmb250LWZhbWlseTogVmVyZGFuYTsgZm9udC1zaXplOiAxMHB0OyI+QXQgPHN0cm9uZz48c3BhbiBzdHlsZT0iZm9udC13ZWlnaHQ6IG5vcm1hbDsgZm9udC1mYW1pbHk6IFZlcmRhbmE7Ij5GRUVER0VFPC9zcGFuPjwvc3Ryb25nPiB3ZSByZXNwZWN0IGFuZCBwcm90ZWN0IHRoZQpwcml2YWN5IG9mIG91ciBjdXN0b21lcnMgYW5kIHRob3NlIHdobyB1c2Ugb3VyIHdlYnNpdGUuIFRoZSBmb2xsb3dpbmcgUHJpdmFjeQpTdGF0ZW1lbnQgcHJvdmlkZXMgZGV0YWlscyBhYm91dCBob3cgeW91ciBwZXJzb25hbCBpbmZvcm1hdGlvbiBpcyBjb2xsZWN0ZWQgYW5kCnVzZWQuIFRoaXMgcHJpdmFjeSBzdGF0ZW1lbnQgYXBwbGllcyB0byB0aGUgPHN0cm9uZz48c3BhbiBzdHlsZT0iZm9udC13ZWlnaHQ6IG5vcm1hbDsgZm9udC1mYW1pbHk6IFZlcmRhbmE7Ij5GRUVER0VFPC9zcGFuPjwvc3Ryb25nPgp3ZWJzaXRlLCBwcm9kdWN0cyBhbmQgc2VydmljZXMgdGhhdCBhcmUgbG9jYXRlZCBpbiBhbmQgbGltaXRlZCB0byB0aGUgPHN0cm9uZz48c3BhbiBzdHlsZT0iZm9udC13ZWlnaHQ6IG5vcm1hbDsgZm9udC1mYW1pbHk6IFZlcmRhbmE7Ij5mZWVkZ2VlLmNvbTwvc3Bhbj48L3N0cm9uZz4KZG9tYWluLiA8L3NwYW4+PHNwYW4gc3R5bGU9IiI+PG86cD48L286cD48L3NwYW4+PC9wPgoKPHA+PHN0cm9uZz48c3BhbiBzdHlsZT0iZm9udC1mYW1pbHk6IFZlcmRhbmE7IGZvbnQtc2l6ZTogMTBwdDsiPkluZm9ybWF0aW9uIENvbGxlY3Rpb24gYW5kIFVzZTwvc3Bhbj48L3N0cm9uZz48c3BhbiBzdHlsZT0iZm9udC1mYW1pbHk6IFZlcmRhbmE7IGZvbnQtc2l6ZTogMTBwdDsiPgo8YnI+CjxzdHJvbmc+PHNwYW4gc3R5bGU9ImZvbnQtd2VpZ2h0OiBub3JtYWw7IGZvbnQtZmFtaWx5OiBWZXJkYW5hOyI+RkVFREdFRTwvc3Bhbj48L3N0cm9uZz48c3Ryb25nIHN0eWxlPSIiPiA8L3N0cm9uZz5pcyB0aGUKc29sZSBvd25lciBvZiBpbmZvcm1hdGlvbiBjb2xsZWN0ZWQgb24gdGhpcyBzaXRlLiBXZSB3aWxsIG5vdCBzZWxsLCBzaGFyZSwgb3IKcmVudCB0aGlzIGluZm9ybWF0aW9uIHRvIG90aGVycyBpbiB3YXlzIGRpZmZlcmVudCBmcm9tIHdoYXQgaXMgZGlzY2xvc2VkIGluCnRoaXMgc3RhdGVtZW50LiA8c3Ryb25nPjxzcGFuIHN0eWxlPSJmb250LXdlaWdodDogbm9ybWFsOyBmb250LWZhbWlseTogVmVyZGFuYTsiPkZFRURHRUU8L3NwYW4+PC9zdHJvbmc+PHN0cm9uZyBzdHlsZT0iIj4gPC9zdHJvbmc+Y29sbGVjdHMgaW5mb3JtYXRpb24gZnJvbSBvdXIgdXNlcnMgYXQgc2V2ZXJhbCBkaWZmZXJlbnQgcG9pbnRzIG9uCm91ciB3ZWJzaXRlLiA8L3NwYW4+PHNwYW4gc3R5bGU9IiI+PG86cD48L286cD48L3NwYW4+PC9wPgoKPHA+PHNwYW4gc3R5bGU9ImZvbnQtZmFtaWx5OiBWZXJkYW5hOyBmb250LXNpemU6IDEwcHQ7Ij5PdXIgd2Vic2l0ZSBvZmZlcnMgb3Bwb3J0dW5pdGllIGZvciB2aXNpdG9ycyB0byByZWdpc3RlciBmb3IgcHJvbW90aW9uYWwKYW5kIGluZm9ybWF0aW9uYWwgbWFpbGluZ3MsIG9ubGluZSB3ZWJpbmFycyBhbmQgcmVzb3VyY2VzLCBhbmQgZm9yIGFzc2lzdGFuY2UKaW4gZXZhbHVhdGluZyBvdXIgc29mdHdhcmUgYW5kIHNlcnZpY2VzLiBUaGlzIHJlZ2lzdHJhdGlvbiBmb3JtIGlzIGxpbmtlZCB0byA8c3Ryb25nPjxzcGFuIHN0eWxlPSJmb250LXdlaWdodDogbm9ybWFsOyBmb250LWZhbWlseTogVmVyZGFuYTsiPkZFRURHRUU8L3NwYW4+PC9zdHJvbmc+J3MKbWFpbGluZyBsaXN0cyBhbmQgcmVxdWlyZXMgdXNlcnMgdG8gZ2l2ZSBjb250YWN0IGluZm9ybWF0aW9uIChzdWNoIGFzIG5hbWUgYW5kCmVtYWlsIGFkZHJlc3MpLiBXZSB1c2UgdGhpcyBjb250YWN0IGluZm9ybWF0aW9uIHRvIHNlbmQgdXNlcnMgaW5mb3JtYXRpb24gYWJvdXQKRkVFREdFRSBwcm9qZWN0IGFuZCBpdHMgcHJvZHVjdHMgYW5kIHNlcnZpY2VzIGlmIHJlcXVlc3RlZCBvciBuZWNlc3NhcnkuIFVzZXJzCm1heSBvcHQtb3V0IG9mIHJlY2VpdmluZyBmdXR1cmUgbWFpbGluZ3MgYXQgYW55IHRpbWUgKHNlZSB0aGUgY2hvaWNlL29wdC1vdXQKc2VjdGlvbiBiZWxvdykuPC9zcGFuPjxzcGFuIHN0eWxlPSIiPjxvOnA+PC9vOnA+PC9zcGFuPjwvcD4KCjxwPjxzdHJvbmc+PHNwYW4gc3R5bGU9ImZvbnQtZmFtaWx5OiBWZXJkYW5hOyBmb250LXNpemU6IDEwcHQ7Ij5TaGFyaW5nIGFuZCBVc2FnZTwvc3Bhbj48L3N0cm9uZz48c3BhbiBzdHlsZT0iZm9udC1mYW1pbHk6IFZlcmRhbmE7IGZvbnQtc2l6ZTogMTBwdDsiPiA8YnI+CldlIHdpbGwgbmV2ZXIgc2hhcmUsIHNlbGwsIG9yIHJlbnQgeW91ciBwZXJzb25hbCBpbmZvcm1hdGlvbiB3aXRoIHRoaXJkIHBhcnRpZXMKZm9yIHRoZWlyIHByb21vdGlvbmFsIHVzZS4gT2NjYXNpb25hbGx5LCB3ZSBlbnRlciBpbnRvIGNvbnRyYWN0cyB3aXRoIHRoaXJkCnBhcnRpZXMgc28gdGhhdCB0aGV5IGNhbiBhc3Npc3QgdXMgaW4gc2VydmljaW5nIHlvdSAoZm9yIGV4YW1wbGUsIHByb3ZpZGluZwpjdXN0b21lciBzZXJ2aWNlKS4gVGhlIGNvbnRyYWN0cyBwcm9oaWJpdCB0aGVtIGZyb20gdXNpbmcgYW55IG9mIHlvdXIgcGVyc29uYWwKaW5mb3JtYXRpb24gZm9yIHRoZWlyIG93biBwdXJwb3NlcywgYW5kIHRoZXkgYXJlIHJlcXVpcmVkIHRvIG1haW50YWluIHRoZQpjb25maWRlbnRpYWxpdHkgb2YgdGhlIGluZm9ybWF0aW9uIHdlIHByb3ZpZGUgdG8gdGhlbS4gTGFzdGx5LCB3ZSBtYXkgZGlzY2xvc2UKb3IgcmVwb3J0IHBlcnNvbmFsIGluZm9ybWF0aW9uIGluIGxpbWl0ZWQgY2lyY3Vtc3RhbmNlcyB3aGVyZSB3ZSBiZWxpZXZlIGluCmdvb2QgZmFpdGggdGhhdCBkaXNjbG9zdXJlIGlzIHJlcXVpcmVkIHVuZGVyIHRoZSBsYXcuIEZvciBleGFtcGxlLCB3ZSBtYXkgYmUKcmVxdWlyZWQgdG8gZGlzY2xvc2UgcGVyc29uYWwgaW5mb3JtYXRpb24gdG8gY29vcGVyYXRlIHdpdGggcmVndWxhdG9ycyBvciBsYXcKZW5mb3JjZW1lbnQgYXV0aG9yaXRpZXMsIHRvIGNvbXBseSB3aXRoIGEgbGVnYWwgcHJvY2VzcyBzdWNoIGFzIGNvdXJ0IG9yZGVyLApzdWJwb2VuYSwgc2VhcmNoIHdhcnJhbnQsIG9yIGxhdyBlbmZvcmNlbWVudCByZXF1ZXN0Ljwvc3Bhbj48c3BhbiBzdHlsZT0iIj48bzpwPjwvbzpwPjwvc3Bhbj48L3A+Cgo8cD48c3Ryb25nPjxzcGFuIHN0eWxlPSJmb250LWZhbWlseTogVmVyZGFuYTsgZm9udC1zaXplOiAxMHB0OyI+TGlua3M8L3NwYW4+PC9zdHJvbmc+PHNwYW4gc3R5bGU9ImZvbnQtZmFtaWx5OiBWZXJkYW5hOyBmb250LXNpemU6IDEwcHQ7Ij4gPGJyPgo8L3NwYW4+PHNwYW4gc3R5bGU9ImZvbnQtZmFtaWx5OiBWZXJkYW5hOyBmb250LXNpemU6IDEwcHQ7Ij5TPC9zcGFuPjxzcGFuIHN0eWxlPSJmb250LWZhbWlseTogVmVyZGFuYTsgZm9udC1zaXplOiAxMHB0OyI+aXRlIHByb3ZpZGVzIGxpbmtzIHRvIHRoaXJkLXBhcnR5IHdlYnNpdGVzLCBzdWNoIGFzCnRob3NlIG9mIG91ciBidXNpbmVzcyBwYXJ0bmVycyBhbmQgYWR2ZXJ0aXNlcnMuIFdoaWxlIG9uIHRoZXNlIHNpdGVzLCA8c3Ryb25nPjxzcGFuIHN0eWxlPSJmb250LWZhbWlseTogVmVyZGFuYTsiPkZFRURHRUU8L3NwYW4+PC9zdHJvbmc+IG9yIGl0cyBwYXJ0bmVycyBtYXkgY29sbGVjdAppbmZvcm1hdGlvbiBhYm91dCB5b3UuIEJlY2F1c2UgPHN0cm9uZz48c3BhbiBzdHlsZT0iZm9udC1mYW1pbHk6IFZlcmRhbmE7Ij5GRUVER0VFPC9zcGFuPjwvc3Ryb25nPgpkb2VzIG5vdCBjb250cm9sIHRoZSBpbmZvcm1hdGlvbiBwb2xpY2llcyBvciBwcmFjdGljZXMgb2YgdGhlc2UgdGhpcmQgcGFydGllcywKeW91IHNob3VsZCByZXZpZXcgdGhlaXIgcHJpdmFjeSBwb2xpY2llcyB0byBsZWFybiBtb3JlIGFib3V0IGhvdyB0aGV5IGNvbGxlY3QKYW5kIHVzZSBwZXJzb25hbGx5IGlkZW50aWZpYWJsZSBpbmZvcm1hdGlvbi48L3NwYW4+PHNwYW4gc3R5bGU9IiI+PG86cD48L286cD48L3NwYW4+PC9wPgoKPHA+PHN0cm9uZz48c3BhbiBzdHlsZT0iZm9udC1mYW1pbHk6IFZlcmRhbmE7IGZvbnQtc2l6ZTogMTBwdDsiPlNlY3VyaXR5PC9zcGFuPjwvc3Ryb25nPjxzcGFuIHN0eWxlPSJmb250LWZhbWlseTogVmVyZGFuYTsgZm9udC1zaXplOiAxMHB0OyI+IDxicj4KV2UgdGFrZSBldmVyeSBwcmVjYXV0aW9uIHRvIHByb3RlY3QgdGhlIGNvbmZpZGVudGlhbGl0eSBhbmQgc2VjdXJpdHkgb2YgeW91cgpwZXJzb25hbCBpbmZvcm1hdGlvbiBieSB1c2luZyBpbmR1c3RyeS1yZWNvZ25pemVkIHNlY3VyaXR5IHNhZmVndWFyZHMgc3VjaCBhcwpmaXJld2FsbHMsIGNvdXBsZWQgd2l0aCBjYXJlZnVsbHkgZGV2ZWxvcGVkIHNlY3VyaXR5IHByb2NlZHVyZXMgdG8gcHJvdGVjdCB5b3VyCmluZm9ybWF0aW9uIGZyb20gbG9zcywgbWlzdXNlIG9yIHVuYXV0aG9yaXplZCBhbHRlcmF0aW9uLiA8L3NwYW4+PHNwYW4gc3R5bGU9IiI+PG86cD48L286cD48L3NwYW4+PC9wPgoKPHA+PHN0cm9uZz48c3BhbiBzdHlsZT0iZm9udC1mYW1pbHk6IFZlcmRhbmE7IGZvbnQtc2l6ZTogMTBwdDsiPkZFRURHRUU8L3NwYW4+PC9zdHJvbmc+PHNwYW4gc3R5bGU9ImZvbnQtZmFtaWx5OiBWZXJkYW5hOyBmb250LXNpemU6IDEwcHQ7Ij4gdGFrZXMKY2FyZSB0byByZWluZm9yY2UgdGhlIGltcG9ydGFuY2Ugb2Ygb3VyIHdlYnNpdGUgdmlzaXRvcnMnIHNlY3VyaXR5IGFuZCBwcml2YWN5CmFtb25nIG91ciBlbXBsb3llZXMuIE91ciBlbXBsb3llZXMgYXJlIHRyYWluZWQgYW5kIHJlcXVpcmVkIHRvIHNhZmVndWFyZCB5b3VyCmluZm9ybWF0aW9uIGFuZCwgdXNpbmcgcGh5c2ljYWwsIGVsZWN0cm9uaWMgYW5kIHByb2NlZHVyYWwgc2FmZWd1YXJkcywgd2UKcmVzdHJpY3QgYWNjZXNzIHRvIHBlcnNvbmFsIGluZm9ybWF0aW9uIHRvIHRob3NlIGVtcGxveWVlcyBhbmQgYWdlbnRzIGZvcgpidXNpbmVzcyBwdXJwb3NlcyBvbmx5LiBBZGRpdGlvbmFsbHksIHdlIHVzZSBpbnRlcm5hbCBhbmQgZXh0ZXJuYWwgcmVzb3VyY2VzIHRvCnJldmlldyB0aGUgYWRlcXVhY3kgb2Ygb3VyIHNlY3VyaXR5IHByb2NlZHVyZXMuIDwvc3Bhbj48c3BhbiBzdHlsZT0iIj48bzpwPjwvbzpwPjwvc3Bhbj48L3A+Cgo8cD48c3Ryb25nPjxzcGFuIHN0eWxlPSJmb250LWZhbWlseTogVmVyZGFuYTsgZm9udC1zaXplOiAxMHB0OyI+Q2hvaWNlL09wdC1vdXQ8L3NwYW4+PC9zdHJvbmc+PHNwYW4gc3R5bGU9ImZvbnQtZmFtaWx5OiBWZXJkYW5hOyBmb250LXNpemU6IDEwcHQ7Ij4gPGJyPgo8c3Ryb25nPjxzcGFuIHN0eWxlPSJmb250LWZhbWlseTogVmVyZGFuYTsiPkZFRURHRUU8L3NwYW4+PC9zdHJvbmc+IHByb3ZpZGVzCnVzZXJzIHRoZSBvcHBvcnR1bml0eSB0byBvcHQtaW4sIG9wdC1vdXQgdmlhIGEgbGluayBpbiB0aGUgZm9vdGVyIG9mIG1vc3QgZW1haWwKbWVzc2FnZXMuIFRoZXNlIG9wdGlvbnMgYXJlIG1hZGUgYXZhaWxhYmxlIHdoZW4geW91IHNpZ24tdXAgZm9yIG91ciBlbWFpbCBsaXN0cwphbmQgaW4gZW1haWwgbWVzc2FnZXMgZGVsaXZlcmVkIGZyb20gdXMuIEFsdGVybmF0aXZlbHksIHlvdSBtYXkgZW1haWwgdXMgYXQgPGEgaHJlZj0ibWFpbHRvOnN1cHBvcnRAZmVlZGdlZS5jb20iPnN1cHBvcnRAZmVlZGdlZS5jb208L2E+LiA8L3NwYW4+PHNwYW4gc3R5bGU9IiI+PG86cD48L286cD48L3NwYW4+PC9wPgoKPHA+PHNwYW4gc3R5bGU9ImZvbnQtZmFtaWx5OiBWZXJkYW5hOyBmb250LXNpemU6IDEwcHQ7Ij5Tb21lIGNvbW11bmljYXRpb25zIChlLmcuIGltcG9ydGFudCBhY2NvdW50IG5vdGlmaWNhdGlvbnMpIGFyZSBuZWNlc3NhcnkKZm9yIGFsbCA8c3Ryb25nPjxzcGFuIHN0eWxlPSJmb250LWZhbWlseTogVmVyZGFuYTsiPkZFRURHRUU8L3NwYW4+PC9zdHJvbmc+CmN1c3RvbWVycy4gWW91IG11c3QgY2FuY2VsIHlvdXIgPHN0cm9uZz48c3BhbiBzdHlsZT0iZm9udC1mYW1pbHk6IFZlcmRhbmE7Ij5GRUVER0VFPC9zcGFuPjwvc3Ryb25nPgphY2NvdW50IHRvIHVuc3Vic2NyaWJlIGZyb20gdGhlc2UgY29tbXVuaWNhdGlvbnMuIFRvIGNhbmNlbCB5b3VyIDxzdHJvbmc+PHNwYW4gc3R5bGU9ImZvbnQtZmFtaWx5OiBWZXJkYW5hOyI+RkVFREdFRTwvc3Bhbj48L3N0cm9uZz4gYWNjb3VudCwgcGxlYXNlIGVtYWlsIHVzIGF0CjxhIGhyZWY9Im1haWx0bzpzdXBwb3J0QGZlZWRnZWUuY29tIj5zdXBwb3J0QGZlZWRnZWUuY29tPC9hPi48L3NwYW4+PHNwYW4gc3R5bGU9IiI+PG86cD48L286cD48L3NwYW4+PC9wPgoKPHN0cm9uZz48c3BhbiBzdHlsZT0iZm9udC1mYW1pbHk6IFZlcmRhbmE7IGZvbnQtc2l6ZTogMTBwdDsiPk5vdGlmaWNhdGlvbiBvZiBDaGFuZ2VzPC9zcGFuPjwvc3Ryb25nPjxzcGFuIHN0eWxlPSJmb250LWZhbWlseTogVmVyZGFuYTsgZm9udC1zaXplOiAxMHB0OyI+IDxicj4KSWYgd2UgZGVjaWRlIHRvIGNoYW5nZSBvdXIgcHJpdmFjeSBwb2xpY3ksIHdlIHdpbGwgcG9zdCB0aG9zZSBjaGFuZ2VzIG9uIHRoZSA8c3Ryb25nPjxzcGFuIHN0eWxlPSJmb250LWZhbWlseTogVmVyZGFuYTsiPkZFRURHRUU8L3NwYW4+PC9zdHJvbmc+IFdlYnNpdGUuIFNvIG91ciB1c2VycyBhcmUKYWx3YXlzIGF3YXJlIG9mIHdoYXQgaW5mb3JtYXRpb24gd2UgY29sbGVjdCwgaG93IHdlIHVzZSBpdCwgYW5kIHVuZGVyIHdoYXQKY2lyY3Vtc3RhbmNlcywgaWYgYW55LCB3ZSBkaXNjbG9zZSBpdC48L3NwYW4+ZBgCBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAQUQY3RsMDAkcmNiTG9jYWxlcwUQY3RsMDAkcmNiTG9jYWxlcw8UKwACZBBmBQdFbmdsaXNoBQJlbmQ=">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTM0NTQzNzQ5Ng9kFgJmD2QWBAIBD2QWBgIBDxYCHgdjb250ZW50BYcCUHJpdmFjeSBQb2xpY3ksIG9wdCBpbiBlbWFpbCBhZHZlcnRpc2luZywgb3B0IGluIGVtYWlsIG1hcmtldGluZywgb3B0IGluIGVtYWlsLCB0YXJnZXRlZCBvcHQgaW4sIG1haWwgZGlyZWN0IG1hcmtldGluZywgb3B0IGluIGVtYWlsIGxpc3QgbWFya2V0aW5nLCBvcHQgaW4gZW1haWxzLCBidXNpbmVzcyBtYWlsaW5nIGxpc3RzLCBidXNpbmVzcyBtYWlsaW5nIGxpc3QsIGVtYWlsIG1haWxpbmcgbGlzdHMsIG1haWxpbmcgbGlzdHMsIEZFRURHRUUga2V5d29yZHNkAgIPFgIfAAWPAlByaXZhY3kgUG9saWN5IEF0IEZFRURHRUUgd2UgcmVzcGVjdCBhbmQgcHJvdGVjdCB0aGUgcHJpdmFjeSBvZiBvdXIgY3VzdG9tZXJzIGFuZCB0aG9zZSB3aG8gdXNlIG91ciB3ZWJzaXRlLiBUaGUgZm9sbG93aW5nIFByaXZhY3kgU3RhdGVtZW50IHByb3ZpZGVzIGRldGFpbHMgYWJvdXQgaG93IHlvdXIgcGVyc29uYWwgaW5mb3JtYXRpb24gaXMgY29sbGVjdGVkIGFuZCB1c2VkLiBUaGlzIHByaXZhY3kgc3RhdGVtZW50IGFwcGxpZXMgdG8sIEZFRURHRUUgZGVzY3JpcHRpb25kAgMPFgIfAAVwZW1haWwsIG1hcmtldGluZywgb3B0IGluIGxpc3RzIHNvZnR3YXJlLCBlbWFpbCBtYXJrZXRpbmcsIHdlYm1hc3RlciB0b29scywgcHIsIHByb21vLCBhZCwgRkVFREdFRSBjbGFzc2lmaWNhdGlvbmQCAw9kFhACAQ9kFgICAw8PFgIeDlJhZENvbnRyb2xzRGlyBQ5+L1JhZENvbnRyb2xzL2RkAgMPDxYCHgtOYXZpZ2F0ZVVybAUEL2VuL2RkAgQPDxYEHwIFCi9lbi9Ub29scy8eB1Zpc2libGVnZGQCBQ8PFgIfAgUPL2VuL0hlbHBDZW50ZXIvZGQCBg8PFgIfA2hkZAIHDxQrAAIPFgYeBFRleHQFB0VuZ2xpc2geBVZhbHVlBQJlbh4JSXRlbUNvdW50AgNkFCsAAxQrAAEPFgYfBAUHRW5nbGlzaB8FBQJlbh4IU2VsZWN0ZWRnZBQrAAEPFgYfBAUO0KDRg9GB0YHQutC40LkfBQUCcnUfB2hkFCsAAQ8WBh8EBRTQo9C60YDQsNGX0L3RgdGM0LrQsB8FBQJ1YR8HaGRkAggPZBYCZg9kFgICEQ8PFgIfAgUVL2VuL3Bhc3N3b3JkUmVjb3ZlcnkvZGQCCQ9kFgQCAQ8WAh8EBQ5Qcml2YWN5IFBvbGljeWQCAw8WAh8EBcUiPHA+PHN0cm9uZz5GRUVER0VFIFBSSVZBQ1kgR1VBUkFOVEVFPC9zdHJvbmc+IDwvcD4KPHA+QXQgRkVFREdFRSB3ZSByZXNwZWN0IGFuZCBwcm90ZWN0IHRoZQogIHByaXZhY3kgb2Ygb3VyIGN1c3RvbWVycyBhbmQgdGhvc2Ugd2hvIHVzZSBvdXIgd2Vic2l0ZS4gVGhlIGZvbGxvd2luZyBQcml2YWN5CiAgU3RhdGVtZW50IHByb3ZpZGVzIGRldGFpbHMgYWJvdXQgaG93IHlvdXIgcGVyc29uYWwgaW5mb3JtYXRpb24gaXMgY29sbGVjdGVkIGFuZAogIHVzZWQuIFRoaXMgcHJpdmFjeSBzdGF0ZW1lbnQgYXBwbGllcyB0byB0aGUgRkVFREdFRSB3ZWJzaXRlLCBwcm9kdWN0cyBhbmQgc2VydmljZXMgdGhhdCBhcmUgbG9jYXRlZCBpbiBhbmQgbGltaXRlZCB0byB0aGUgZmVlZGdlZS5jb20gZG9tYWluLiA8L3A+CjxwPjxzdHJvbmc+SW5mb3JtYXRpb24gQ29sbGVjdGlvbiBhbmQgVXNlPC9zdHJvbmc+IDxicj4KICBGRUVER0VFaXMgdGhlCiAgc29sZSBvd25lciBvZiBpbmZvcm1hdGlvbiBjb2xsZWN0ZWQgb24gdGhpcyBzaXRlLiBXZSB3aWxsIG5vdCBzZWxsLCBzaGFyZSwgb3IKICByZW50IHRoaXMgaW5mb3JtYXRpb24gdG8gb3RoZXJzIGluIHdheXMgZGlmZmVyZW50IGZyb20gd2hhdCBpcyBkaXNjbG9zZWQgaW4KICB0aGlzIHN0YXRlbWVudC4gRkVFREdFRWNvbGxlY3RzIGluZm9ybWF0aW9uIGZyb20gb3VyIHVzZXJzIGF0IHNldmVyYWwgZGlmZmVyZW50IHBvaW50cyBvbgogIG91ciB3ZWJzaXRlLiA8L3A+CjxwPk91ciB3ZWJzaXRlIG9mZmVycyBvcHBvcnR1bml0aWUgZm9yIHZpc2l0b3JzIHRvIHJlZ2lzdGVyIGZvciBwcm9tb3Rpb25hbAogIGFuZCBpbmZvcm1hdGlvbmFsIG1haWxpbmdzLCBvbmxpbmUgd2ViaW5hcnMgYW5kIHJlc291cmNlcywgYW5kIGZvciBhc3Npc3RhbmNlCiAgaW4gZXZhbHVhdGluZyBvdXIgc29mdHdhcmUgYW5kIHNlcnZpY2VzLiBUaGlzIHJlZ2lzdHJhdGlvbiBmb3JtIGlzIGxpbmtlZCB0byBGRUVER0VFJ3MKICBtYWlsaW5nIGxpc3RzIGFuZCByZXF1aXJlcyB1c2VycyB0byBnaXZlIGNvbnRhY3QgaW5mb3JtYXRpb24gKHN1Y2ggYXMgbmFtZSBhbmQKICBlbWFpbCBhZGRyZXNzKS4gV2UgdXNlIHRoaXMgY29udGFjdCBpbmZvcm1hdGlvbiB0byBzZW5kIHVzZXJzIGluZm9ybWF0aW9uIGFib3V0CiAgRkVFREdFRSBwcm9qZWN0IGFuZCBpdHMgcHJvZHVjdHMgYW5kIHNlcnZpY2VzIGlmIHJlcXVlc3RlZCBvciBuZWNlc3NhcnkuIFVzZXJzCiAgbWF5IG9wdC1vdXQgb2YgcmVjZWl2aW5nIGZ1dHVyZSBtYWlsaW5ncyBhdCBhbnkgdGltZSAoc2VlIHRoZSBjaG9pY2Uvb3B0LW91dAogIHNlY3Rpb24gYmVsb3cpLjwvcD4KPHA+PHN0cm9uZz5TaGFyaW5nIGFuZCBVc2FnZTwvc3Ryb25nPiA8YnI+CiAgV2Ugd2lsbCBuZXZlciBzaGFyZSwgc2VsbCwgb3IgcmVudCB5b3VyIHBlcnNvbmFsIGluZm9ybWF0aW9uIHdpdGggdGhpcmQgcGFydGllcwogIGZvciB0aGVpciBwcm9tb3Rpb25hbCB1c2UuIE9jY2FzaW9uYWxseSwgd2UgZW50ZXIgaW50byBjb250cmFjdHMgd2l0aCB0aGlyZAogIHBhcnRpZXMgc28gdGhhdCB0aGV5IGNhbiBhc3Npc3QgdXMgaW4gc2VydmljaW5nIHlvdSAoZm9yIGV4YW1wbGUsIHByb3ZpZGluZwogIGN1c3RvbWVyIHNlcnZpY2UpLiBUaGUgY29udHJhY3RzIHByb2hpYml0IHRoZW0gZnJvbSB1c2luZyBhbnkgb2YgeW91ciBwZXJzb25hbAogIGluZm9ybWF0aW9uIGZvciB0aGVpciBvd24gcHVycG9zZXMsIGFuZCB0aGV5IGFyZSByZXF1aXJlZCB0byBtYWludGFpbiB0aGUKICBjb25maWRlbnRpYWxpdHkgb2YgdGhlIGluZm9ybWF0aW9uIHdlIHByb3ZpZGUgdG8gdGhlbS4gTGFzdGx5LCB3ZSBtYXkgZGlzY2xvc2UKICBvciByZXBvcnQgcGVyc29uYWwgaW5mb3JtYXRpb24gaW4gbGltaXRlZCBjaXJjdW1zdGFuY2VzIHdoZXJlIHdlIGJlbGlldmUgaW4KICBnb29kIGZhaXRoIHRoYXQgZGlzY2xvc3VyZSBpcyByZXF1aXJlZCB1bmRlciB0aGUgbGF3LiBGb3IgZXhhbXBsZSwgd2UgbWF5IGJlCiAgcmVxdWlyZWQgdG8gZGlzY2xvc2UgcGVyc29uYWwgaW5mb3JtYXRpb24gdG8gY29vcGVyYXRlIHdpdGggcmVndWxhdG9ycyBvciBsYXcKICBlbmZvcmNlbWVudCBhdXRob3JpdGllcywgdG8gY29tcGx5IHdpdGggYSBsZWdhbCBwcm9jZXNzIHN1Y2ggYXMgY291cnQgb3JkZXIsCiAgc3VicG9lbmEsIHNlYXJjaCB3YXJyYW50LCBvciBsYXcgZW5mb3JjZW1lbnQgcmVxdWVzdC48L3A+CjxwPjxzdHJvbmc+TGlua3M8L3N0cm9uZz4gPGJyPgogIFNpdGUgcHJvdmlkZXMgbGlua3MgdG8gdGhpcmQtcGFydHkgd2Vic2l0ZXMsIHN1Y2ggYXMKICB0aG9zZSBvZiBvdXIgYnVzaW5lc3MgcGFydG5lcnMgYW5kIGFkdmVydGlzZXJzLiBXaGlsZSBvbiB0aGVzZSBzaXRlcywgRkVFREdFRSBvciBpdHMgcGFydG5lcnMgbWF5IGNvbGxlY3QKICBpbmZvcm1hdGlvbiBhYm91dCB5b3UuIEJlY2F1c2UgRkVFREdFRSBkb2VzIG5vdCBjb250cm9sIHRoZSBpbmZvcm1hdGlvbiBwb2xpY2llcyBvciBwcmFjdGljZXMgb2YgdGhlc2UgdGhpcmQgcGFydGllcywKICB5b3Ugc2hvdWxkIHJldmlldyB0aGVpciBwcml2YWN5IHBvbGljaWVzIHRvIGxlYXJuIG1vcmUgYWJvdXQgaG93IHRoZXkgY29sbGVjdAogIGFuZCB1c2UgcGVyc29uYWxseSBpZGVudGlmaWFibGUgaW5mb3JtYXRpb24uPC9wPgo8cD48c3Ryb25nPlNlY3VyaXR5PC9zdHJvbmc+IDxicj4KICBXZSB0YWtlIGV2ZXJ5IHByZWNhdXRpb24gdG8gcHJvdGVjdCB0aGUgY29uZmlkZW50aWFsaXR5IGFuZCBzZWN1cml0eSBvZiB5b3VyCiAgcGVyc29uYWwgaW5mb3JtYXRpb24gYnkgdXNpbmcgaW5kdXN0cnktcmVjb2duaXplZCBzZWN1cml0eSBzYWZlZ3VhcmRzIHN1Y2ggYXMKICBmaXJld2FsbHMsIGNvdXBsZWQgd2l0aCBjYXJlZnVsbHkgZGV2ZWxvcGVkIHNlY3VyaXR5IHByb2NlZHVyZXMgdG8gcHJvdGVjdCB5b3VyCiAgaW5mb3JtYXRpb24gZnJvbSBsb3NzLCBtaXN1c2Ugb3IgdW5hdXRob3JpemVkIGFsdGVyYXRpb24uIDwvcD4KPHA+RkVFREdFRSB0YWtlcwogIGNhcmUgdG8gcmVpbmZvcmNlIHRoZSBpbXBvcnRhbmNlIG9mIG91ciB3ZWJzaXRlIHZpc2l0b3JzJyBzZWN1cml0eSBhbmQgcHJpdmFjeQogIGFtb25nIG91ciBlbXBsb3llZXMuIE91ciBlbXBsb3llZXMgYXJlIHRyYWluZWQgYW5kIHJlcXVpcmVkIHRvIHNhZmVndWFyZCB5b3VyCiAgaW5mb3JtYXRpb24gYW5kLCB1c2luZyBwaHlzaWNhbCwgZWxlY3Ryb25pYyBhbmQgcHJvY2VkdXJhbCBzYWZlZ3VhcmRzLCB3ZQogIHJlc3RyaWN0IGFjY2VzcyB0byBwZXJzb25hbCBpbmZvcm1hdGlvbiB0byB0aG9zZSBlbXBsb3llZXMgYW5kIGFnZW50cyBmb3IKICBidXNpbmVzcyBwdXJwb3NlcyBvbmx5LiBBZGRpdGlvbmFsbHksIHdlIHVzZSBpbnRlcm5hbCBhbmQgZXh0ZXJuYWwgcmVzb3VyY2VzIHRvCiAgcmV2aWV3IHRoZSBhZGVxdWFjeSBvZiBvdXIgc2VjdXJpdHkgcHJvY2VkdXJlcy4gPC9wPgo8cD48c3Ryb25nPkNob2ljZS9PcHQtb3V0PC9zdHJvbmc+IDxicj4KICBGRUVER0VFIHByb3ZpZGVzCiAgdXNlcnMgdGhlIG9wcG9ydHVuaXR5IHRvIG9wdC1pbiwgb3B0LW91dCB2aWEgYSBsaW5rIGluIHRoZSBmb290ZXIgb2YgbW9zdCBlbWFpbAogIG1lc3NhZ2VzLiBUaGVzZSBvcHRpb25zIGFyZSBtYWRlIGF2YWlsYWJsZSB3aGVuIHlvdSBzaWduLXVwIGZvciBvdXIgZW1haWwgbGlzdHMKICBhbmQgaW4gZW1haWwgbWVzc2FnZXMgZGVsaXZlcmVkIGZyb20gdXMuIEFsdGVybmF0aXZlbHksIHlvdSBtYXkgZW1haWwgdXMgYXQgPGEgaHJlZj0ibWFpbHRvOnN1cHBvcnRAZmVlZGdlZS5jb20iPnN1cHBvcnRAZmVlZGdlZS5jb208L2E+LiA8L3A+CjxwPlNvbWUgY29tbXVuaWNhdGlvbnMgKGUuZy4gaW1wb3J0YW50IGFjY291bnQgbm90aWZpY2F0aW9ucykgYXJlIG5lY2Vzc2FyeQogIGZvciBhbGwgRkVFREdFRSBjdXN0b21lcnMuIFlvdSBtdXN0IGNhbmNlbCB5b3VyIEZFRURHRUUgYWNjb3VudCB0byB1bnN1YnNjcmliZSBmcm9tIHRoZXNlIGNvbW11bmljYXRpb25zLiBUbyBjYW5jZWwgeW91ciBGRUVER0VFIGFjY291bnQsIHBsZWFzZSBlbWFpbCB1cyBhdCA8YSBocmVmPSJtYWlsdG86c3VwcG9ydEBmZWVkZ2VlLmNvbSI+c3VwcG9ydEBmZWVkZ2VlLmNvbTwvYT4uPC9wPgo8c3Ryb25nPk5vdGlmaWNhdGlvbiBvZiBDaGFuZ2VzPC9zdHJvbmc+IDxicj4KSWYgd2UgZGVjaWRlIHRvIGNoYW5nZSBvdXIgcHJpdmFjeSBwb2xpY3ksIHdlIHdpbGwgcG9zdCB0aG9zZSBjaGFuZ2VzIG9uIHRoZSBGRUVER0VFIFdlYnNpdGUuIFNvIG91ciB1c2VycyBhcmUKYWx3YXlzIGF3YXJlIG9mIHdoYXQgaW5mb3JtYXRpb24gd2UgY29sbGVjdCwgaG93IHdlIHVzZSBpdCwgYW5kIHVuZGVyIHdoYXQKY2lyY3Vtc3RhbmNlcywgaWYgYW55LCB3ZSBkaXNjbG9zZSBpdC5kGAIFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYBBRBjdGwwMCRyY2JMb2NhbGVzBRBjdGwwMCRyY2JMb2NhbGVzDxQrAAJkEGYFB0VuZ2xpc2gFAmVuZA==">
 
+
+<script src="/ScriptResource.axd?d=FgF4qxArdZoA3-awWJIjPHDssD4_yHaDZkRRJby3qx4P-j1HEC_lyGvQkYaHaMfwCuRU28_Im5_CBRtQtqkYFJFbF1F8ZwpecmxIh-OzNgfFDKUSLQg51fH-KdDPsZp1DIexCaUvymZvI5QTn1bOL79-H6A1&amp;t=fffffffff9d85fa6" type="text/javascript"></script>
+        
         <div id="ctl00_alpLoading" style="display:none;position: absolute;
             top: 0; left: 0; background-color: Lime; color: Black; font-weight: bold; font-size: 8pt;
             padding: 2px;">
 	
             Loading...
-        <script type="text/javascript" src="/WebResource.axd?d=ynuBJuSmXbA_B4Ht-pg415EjRWdTk8TO6Mpl5FwbiVJlYkbQg-sdnzzfDCCWgmDH6mwLzxfre0SfsQEDN7evkYig5HruYgDJTH-jtIWXO0I1&amp;t=634282842919648750"></script><script type="text/javascript">RadAjaxNamespace.AddPanel( { ClientID : 'ctl00_alpLoading', IsSticky : true, InitialDelayTime: 0, MinDisplayTime: 0, Transparency: 0 } );</script>
+        <script type="text/javascript" src="/WebResource.axd?d=9rBPz07Xbne-WayvcCJRUg45IOFgrcXMxnGtuXdRXUSFWgFOLIjWHZPUp4K_mf_LE6iweK23fc-ljanb6LsEmyyjl8T7r6nvUYCCDwLPm9dgtW3JaPqM0szegtuASFuVsUSaWtVQHAu_u-NlmQwNJBJ3_n5hLPZnfH-957I7UDlWsHSx0&amp;t=634422547430287500"></script><script type="text/javascript">RadAjaxNamespace.AddPanel( { ClientID : 'ctl00_alpLoading', IsSticky : true, InitialDelayTime: 0, MinDisplayTime: 0, Transparency: 0 } );</script>
 </div>
         <table width="80%" height="100%" border="0" align="center" cellpadding="0" cellspacing="0" style="background-color: #f7630b;">
             <tbody><tr>
@@ -107,7 +139,7 @@
                                 
                                 
                                 <div id="ctl00_rcbLocales_wrapper" style="display:inline">
-	<!-- 2.7.1 --><script type="text/javascript" src="/WebResource.axd?d=1IuUWPYlAZPTjkml_weto7hGQSVVaPq2kh5iQJ6SGfY4ca6qxlbcWIDkOGy_AYZPKBW8mVHxmvUzyBShKy5A-RoQXfV_2JRdanTN5VMQtvJF1eeTnwfn-nBm0xodPtrY0&amp;t=634282842920117500"></script><div class="ComboBox_ComboboxGreen" id="ctl00_rcbLocales" style="display:inline; white-space: nowrap;"><input onmouseout="rcbDispatcher('ctl00_rcbLocales','inputimageout',event)" value="English" class="ComboBoxInput_ComboboxGreen" onmouseover="rcbDispatcher('ctl00_rcbLocales','inputimagehover',event)" id="ctl00_rcbLocales_Input" name="ctl00$rcbLocales_Input" onkeydown="rcbDispatcher('ctl00_rcbLocales','keypress',event)" style="width:100px;" type="text" onclick="rcbDispatcher('ctl00_rcbLocales','inputclick',event)" onkeypress="rcbDispatcher('ctl00_rcbLocales','keydown',event)" readonly="readonly"><img alt="" id="ctl00_rcbLocales_Image" src="/css/ComboboxGreen/DropArrow.gif" class="ComboBoxImage_ComboboxGreen" onclick="rcbDispatcher('ctl00_rcbLocales','toggledropdown',event);" onmouseover="rcbDispatcher('ctl00_rcbLocales','inputimagehover',event);" onmouseout="rcbDispatcher('ctl00_rcbLocales','inputimageout',event);"><div id="ctl00_rcbLocales_DropDownPlaceholder" style="position:absolute; display: none; z-index: 300;" class="ComboBoxDropDown_ComboboxGreen"><div id="ctl00_rcbLocales_DropDown" style="overflow:auto;white-space:normal;" onmouseover="rcbDispatcher('ctl00_rcbLocales','mouseover',event)" onmouseout="rcbDispatcher('ctl00_rcbLocales','mouseout',event)" onclick="rcbDispatcher('ctl00_rcbLocales','click',event)"><div id="ctl00_rcbLocales_c0" class="ComboBoxItem_ComboboxGreen">
+	<!-- 2.7.1 --><script type="text/javascript" src="/WebResource.axd?d=gSyLgUSBePKtN7NTOf0q30Jk88IMPppR7i0LVLdpzk-OuPuf0Tmcv-n7oPXepVx8ujwlQ_-QqN9dnKbnRa4VRrzl0xWRm-RX2OjJE9ixMeUkpEE2LeLDT30qc8jt6k_oAcuE-gx7YsBFg46Y6sZ4GRNQXrnLjqGr_wlWNGlTPxrPYvXk0&amp;t=634422547431068750"></script><div class="ComboBox_ComboboxGreen" id="ctl00_rcbLocales" style="display:inline; white-space: nowrap;"><input onmouseout="rcbDispatcher('ctl00_rcbLocales','inputimageout',event)" value="English" class="ComboBoxInput_ComboboxGreen" onmouseover="rcbDispatcher('ctl00_rcbLocales','inputimagehover',event)" id="ctl00_rcbLocales_Input" name="ctl00$rcbLocales_Input" onkeydown="rcbDispatcher('ctl00_rcbLocales','keypress',event)" style="width:100px;" type="text" onclick="rcbDispatcher('ctl00_rcbLocales','inputclick',event)" onkeypress="rcbDispatcher('ctl00_rcbLocales','keydown',event)" readonly="readonly"><img alt="" id="ctl00_rcbLocales_Image" src="/css/ComboboxGreen/DropArrow.gif" class="ComboBoxImage_ComboboxGreen" onclick="rcbDispatcher('ctl00_rcbLocales','toggledropdown',event);" onmouseover="rcbDispatcher('ctl00_rcbLocales','inputimagehover',event);" onmouseout="rcbDispatcher('ctl00_rcbLocales','inputimageout',event);"><div id="ctl00_rcbLocales_DropDownPlaceholder" style="position:absolute; display: none; z-index: 300;" class="ComboBoxDropDown_ComboboxGreen"><div id="ctl00_rcbLocales_DropDown" style="overflow:auto;white-space:normal;" onmouseover="rcbDispatcher('ctl00_rcbLocales','mouseover',event)" onmouseout="rcbDispatcher('ctl00_rcbLocales','mouseout',event)" onclick="rcbDispatcher('ctl00_rcbLocales','click',event)"><div id="ctl00_rcbLocales_c0" class="ComboBoxItem_ComboboxGreen">
 	English
 </div><div id="ctl00_rcbLocales_c1" class="ComboBoxItem_ComboboxGreen">
 	Русский
@@ -178,85 +210,66 @@
                             <td height="100%" colspan="2" style="padding:20px; vertical-align:top;">
                                             
 <h1>Privacy Policy</h1>
-
-<p><strong><span style="font-family: Verdana; font-size: 10pt;">FEEDGEE PRIVACY GUARANTEE</span></strong><span style="font-family: Verdana; font-size: 10pt;">
-</span><span style=""><o:p></o:p></span></p>
-
-<p><span style="font-family: Verdana; font-size: 10pt;">At <strong><span style="font-weight: normal; font-family: Verdana;">FEEDGEE</span></strong> we respect and protect the
-privacy of our customers and those who use our website. The following Privacy
-Statement provides details about how your personal information is collected and
-used. This privacy statement applies to the <strong><span style="font-weight: normal; font-family: Verdana;">FEEDGEE</span></strong>
-website, products and services that are located in and limited to the <strong><span style="font-weight: normal; font-family: Verdana;">feedgee.com</span></strong>
-domain. </span><span style=""><o:p></o:p></span></p>
-
-<p><strong><span style="font-family: Verdana; font-size: 10pt;">Information Collection and Use</span></strong><span style="font-family: Verdana; font-size: 10pt;">
-<br>
-<strong><span style="font-weight: normal; font-family: Verdana;">FEEDGEE</span></strong><strong style=""> </strong>is the
-sole owner of information collected on this site. We will not sell, share, or
-rent this information to others in ways different from what is disclosed in
-this statement. <strong><span style="font-weight: normal; font-family: Verdana;">FEEDGEE</span></strong><strong style=""> </strong>collects information from our users at several different points on
-our website. </span><span style=""><o:p></o:p></span></p>
-
-<p><span style="font-family: Verdana; font-size: 10pt;">Our website offers opportunitie for visitors to register for promotional
-and informational mailings, online webinars and resources, and for assistance
-in evaluating our software and services. This registration form is linked to <strong><span style="font-weight: normal; font-family: Verdana;">FEEDGEE</span></strong>'s
-mailing lists and requires users to give contact information (such as name and
-email address). We use this contact information to send users information about
-FEEDGEE project and its products and services if requested or necessary. Users
-may opt-out of receiving future mailings at any time (see the choice/opt-out
-section below).</span><span style=""><o:p></o:p></span></p>
-
-<p><strong><span style="font-family: Verdana; font-size: 10pt;">Sharing and Usage</span></strong><span style="font-family: Verdana; font-size: 10pt;"> <br>
-We will never share, sell, or rent your personal information with third parties
-for their promotional use. Occasionally, we enter into contracts with third
-parties so that they can assist us in servicing you (for example, providing
-customer service). The contracts prohibit them from using any of your personal
-information for their own purposes, and they are required to maintain the
-confidentiality of the information we provide to them. Lastly, we may disclose
-or report personal information in limited circumstances where we believe in
-good faith that disclosure is required under the law. For example, we may be
-required to disclose personal information to cooperate with regulators or law
-enforcement authorities, to comply with a legal process such as court order,
-subpoena, search warrant, or law enforcement request.</span><span style=""><o:p></o:p></span></p>
-
-<p><strong><span style="font-family: Verdana; font-size: 10pt;">Links</span></strong><span style="font-family: Verdana; font-size: 10pt;"> <br>
-</span><span style="font-family: Verdana; font-size: 10pt;">S</span><span style="font-family: Verdana; font-size: 10pt;">ite provides links to third-party websites, such as
-those of our business partners and advertisers. While on these sites, <strong><span style="font-family: Verdana;">FEEDGEE</span></strong> or its partners may collect
-information about you. Because <strong><span style="font-family: Verdana;">FEEDGEE</span></strong>
-does not control the information policies or practices of these third parties,
-you should review their privacy policies to learn more about how they collect
-and use personally identifiable information.</span><span style=""><o:p></o:p></span></p>
-
-<p><strong><span style="font-family: Verdana; font-size: 10pt;">Security</span></strong><span style="font-family: Verdana; font-size: 10pt;"> <br>
-We take every precaution to protect the confidentiality and security of your
-personal information by using industry-recognized security safeguards such as
-firewalls, coupled with carefully developed security procedures to protect your
-information from loss, misuse or unauthorized alteration. </span><span style=""><o:p></o:p></span></p>
-
-<p><strong><span style="font-family: Verdana; font-size: 10pt;">FEEDGEE</span></strong><span style="font-family: Verdana; font-size: 10pt;"> takes
-care to reinforce the importance of our website visitors' security and privacy
-among our employees. Our employees are trained and required to safeguard your
-information and, using physical, electronic and procedural safeguards, we
-restrict access to personal information to those employees and agents for
-business purposes only. Additionally, we use internal and external resources to
-review the adequacy of our security procedures. </span><span style=""><o:p></o:p></span></p>
-
-<p><strong><span style="font-family: Verdana; font-size: 10pt;">Choice/Opt-out</span></strong><span style="font-family: Verdana; font-size: 10pt;"> <br>
-<strong><span style="font-family: Verdana;">FEEDGEE</span></strong> provides
-users the opportunity to opt-in, opt-out via a link in the footer of most email
-messages. These options are made available when you sign-up for our email lists
-and in email messages delivered from us. Alternatively, you may email us at <a href="mailto:support@feedgee.com">support@feedgee.com</a>. </span><span style=""><o:p></o:p></span></p>
-
-<p><span style="font-family: Verdana; font-size: 10pt;">Some communications (e.g. important account notifications) are necessary
-for all <strong><span style="font-family: Verdana;">FEEDGEE</span></strong>
-customers. You must cancel your <strong><span style="font-family: Verdana;">FEEDGEE</span></strong>
-account to unsubscribe from these communications. To cancel your <strong><span style="font-family: Verdana;">FEEDGEE</span></strong> account, please email us at
-<a href="mailto:support@feedgee.com">support@feedgee.com</a>.</span><span style=""><o:p></o:p></span></p>
-
-<strong><span style="font-family: Verdana; font-size: 10pt;">Notification of Changes</span></strong><span style="font-family: Verdana; font-size: 10pt;"> <br>
-If we decide to change our privacy policy, we will post those changes on the <strong><span style="font-family: Verdana;">FEEDGEE</span></strong> Website. So our users are
+<p><strong>FEEDGEE PRIVACY GUARANTEE</strong> </p>
+<p>At FEEDGEE we respect and protect the
+  privacy of our customers and those who use our website. The following Privacy
+  Statement provides details about how your personal information is collected and
+  used. This privacy statement applies to the FEEDGEE website, products and services that are located in and limited to the feedgee.com domain. </p>
+<p><strong>Information Collection and Use</strong> <br>
+  FEEDGEEis the
+  sole owner of information collected on this site. We will not sell, share, or
+  rent this information to others in ways different from what is disclosed in
+  this statement. FEEDGEEcollects information from our users at several different points on
+  our website. </p>
+<p>Our website offers opportunitie for visitors to register for promotional
+  and informational mailings, online webinars and resources, and for assistance
+  in evaluating our software and services. This registration form is linked to FEEDGEE's
+  mailing lists and requires users to give contact information (such as name and
+  email address). We use this contact information to send users information about
+  FEEDGEE project and its products and services if requested or necessary. Users
+  may opt-out of receiving future mailings at any time (see the choice/opt-out
+  section below).</p>
+<p><strong>Sharing and Usage</strong> <br>
+  We will never share, sell, or rent your personal information with third parties
+  for their promotional use. Occasionally, we enter into contracts with third
+  parties so that they can assist us in servicing you (for example, providing
+  customer service). The contracts prohibit them from using any of your personal
+  information for their own purposes, and they are required to maintain the
+  confidentiality of the information we provide to them. Lastly, we may disclose
+  or report personal information in limited circumstances where we believe in
+  good faith that disclosure is required under the law. For example, we may be
+  required to disclose personal information to cooperate with regulators or law
+  enforcement authorities, to comply with a legal process such as court order,
+  subpoena, search warrant, or law enforcement request.</p>
+<p><strong>Links</strong> <br>
+  Site provides links to third-party websites, such as
+  those of our business partners and advertisers. While on these sites, FEEDGEE or its partners may collect
+  information about you. Because FEEDGEE does not control the information policies or practices of these third parties,
+  you should review their privacy policies to learn more about how they collect
+  and use personally identifiable information.</p>
+<p><strong>Security</strong> <br>
+  We take every precaution to protect the confidentiality and security of your
+  personal information by using industry-recognized security safeguards such as
+  firewalls, coupled with carefully developed security procedures to protect your
+  information from loss, misuse or unauthorized alteration. </p>
+<p>FEEDGEE takes
+  care to reinforce the importance of our website visitors' security and privacy
+  among our employees. Our employees are trained and required to safeguard your
+  information and, using physical, electronic and procedural safeguards, we
+  restrict access to personal information to those employees and agents for
+  business purposes only. Additionally, we use internal and external resources to
+  review the adequacy of our security procedures. </p>
+<p><strong>Choice/Opt-out</strong> <br>
+  FEEDGEE provides
+  users the opportunity to opt-in, opt-out via a link in the footer of most email
+  messages. These options are made available when you sign-up for our email lists
+  and in email messages delivered from us. Alternatively, you may email us at <a href="mailto:support@feedgee.com">support@feedgee.com</a>. </p>
+<p>Some communications (e.g. important account notifications) are necessary
+  for all FEEDGEE customers. You must cancel your FEEDGEE account to unsubscribe from these communications. To cancel your FEEDGEE account, please email us at <a href="mailto:support@feedgee.com">support@feedgee.com</a>.</p>
+<strong>Notification of Changes</strong> <br>
+If we decide to change our privacy policy, we will post those changes on the FEEDGEE Website. So our users are
 always aware of what information we collect, how we use it, and under what
-circumstances, if any, we disclose it.</span>
+circumstances, if any, we disclose it.
 
                             </td>
                         </tr>
@@ -274,7 +287,7 @@ circumstances, if any, we disclose it.</span>
                     <table width="70%" border="0" align="center" cellpadding="0" cellspacing="3" class="footer">
                         <tbody><tr>
                             <td align="center">
-                                ©&nbsp;2010&nbsp;FEEDGEE&nbsp;&nbsp;</td>
+                                ©&nbsp;2011&nbsp;FEEDGEE&nbsp;&nbsp;</td>
                             <td align="center">
                                 <a href="/en/AboutProject/">
                                     About&nbsp;FEEDGEE</a></td>
@@ -305,7 +318,13 @@ circumstances, if any, we disclose it.</span>
              <img src="/i/close.gif" alt="close" class="supportClose" id="supportClose">
         </div>
     
-<script type="text/javascript"></script></form>
+<script type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+Sys.Application.initialize();
+//]]>
+</script>
+</form>
     <link rel="CreateSupportTicket" href="javascript:SubmitSpellingSupportTicket();" id="CtlEnterEventHandler">
 
 <script type="text/javascript">
