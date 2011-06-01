@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getadviced.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130164235id_/http%3A//getadviced.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getadviced.com privacy policy that was archived on 2011-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110602001029id_/http%3A//getadviced.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - GetAdviced.com
 
