@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interracialteengfs.com privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201055413id_/http%3A//interracialteengfs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interracialteengfs.com privacy policy that was archived on 2011-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110601233152id_/http%3A//interracialteengfs.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
