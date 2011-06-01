@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the afp.gov.au privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227232742id_/http%3A//www.afp.gov.au/Global/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afp.gov.au privacy policy that was archived on 2011-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110601173701id_/http%3A//www.afp.gov.au/Global/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy - Australian Federal Police
 
