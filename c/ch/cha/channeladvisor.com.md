@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the channeladvisor.com privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213073153id_/http%3A//www.channeladvisor.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the channeladvisor.com privacy policy that was archived on 2011-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110601092350id_/http%3A//www.channeladvisor.com/legal/privacy.php) for the most accurate reproduction.*
 
 # ChannelAdvisor
 
