@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ugether.com privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201154832id_/http%3A//www.ugether.com/pg/expages/read/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ugether.com privacy policy that was archived on 2011-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110601235535id_/http%3A//www.ugether.com/pg/expages/read/Privacy) for the most accurate reproduction.*
 
 # ugether.com
 
