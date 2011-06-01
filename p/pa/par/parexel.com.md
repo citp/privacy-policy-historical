@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the parexel.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228144744id_/http%3A//www.parexel.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parexel.com privacy policy that was archived on 2011-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110601202539id_/http%3A//www.parexel.com/index.php/privacy-policy) for the most accurate reproduction.*
 
 # PAREXEL International :: Privacy policy
 
