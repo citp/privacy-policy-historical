@@ -1,14 +1,6 @@
-> *The following text is extracted and transformed from the austrade.gov.au privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229085245id_/http%3A//www.austrade.gov.au/Austrade-Privacy-Disclaimer/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the austrade.gov.au privacy policy that was archived on 2011-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110601202155id_/http%3A//www.austrade.gov.au/Austrade-Privacy-Disclaimer/default.aspx) for the most accurate reproduction.*
 
 # Privacy Disclaimer - For Australian exporters - Austrade - Austrade
-
-|  |  |   
----|---  
-  
-|  |   
----  
-  
-| 
 
 Austrade takes the issue of privacy very seriously, including user interactions with its website.
 
@@ -39,7 +31,4 @@ Any information collected is used solely by authorised Austrade staff for the pu
 
 Austrade staff who operate the website, or have access to any user information related to it, are subject to the Australian Privacy Act 1988.  
   
----  
-[](http://www.austrade.gov.au/default.aspx?Mode=BusyEditing&ArticleID=4230#sitetop)  
-  
-| 
+[back to top](http://www.austrade.gov.au/default.aspx?Mode=BusyEditing&ArticleID=4230#sitetop)
