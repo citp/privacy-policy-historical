@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oceansafety.com privacy policy that was archived on 2010-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100530002229id_/http%3A//www.oceansafety.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oceansafety.com privacy policy that was archived on 2011-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110601191648id_/http%3A//www.oceansafety.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Supply & service of marine safety equipment
 
