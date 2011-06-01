@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the alliancebank.com.my privacy policy that was archived on 2009-06-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090620202342id_/http%3A//www.alliancebank.com.my/privacypolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the alliancebank.com.my privacy policy that was archived on 2011-06-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110602003858id_/http%3A//www.alliancebank.com.my/privacypolicy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -297,8 +297,8 @@
 										
 									
 															<tr>
-						<td width="184" height="180" align="left" valign="top" scope="col">
-						<table width="184" height="180" border="0" cellpadding="0" cellspacing="0" bgcolor="#e5e5e5" background="images/common/qlinks_bg.jpg">
+						<td width="184" height="190" align="left" valign="top" scope="col">
+						<table width="184" height="190" border="0" cellpadding="0" cellspacing="0" bgcolor="#e5e5e5" background="images/common/qlinksadv_bg.jpg">
                 			<tbody><tr>
                   				<th width="12" height="30" align="left" valign="top" scope="col">&nbsp;</th>
                   				<th height="30" align="left" class="header-latest" scope="col">Quick links  </th>
@@ -308,28 +308,68 @@
                   				<td width="12" height="90">&nbsp;</td>
                   				<td height="90" valign="top">
 								<table width="100%" border="0" cellspacing="0" cellpadding="0">
-                    				<tbody><tr>
-                      					<th height="22" align="left" scope="col">I want to know...</th>
-                    				</tr>
                     				<script language="JavaScript">
 									<!-- Hide the script from old browsers --
+									var QlUrl='#';
 									function redirect1(form) {
 										var myindex=form.select1.selectedIndex;
-										if (form.select1.options[myindex].value != 0) {
-											QlUrl=form.select1.options[myindex].value;}
+										if (form.select1.options[myindex].value != "#") {
+											form.select3.value="#";
+											QlUrl=form.select1.options[myindex].value;
+											}
+										else {
+											QlUrl='#';
+											}
 										}
 							
 									function redirect2(form) {
 										var myindex=form.select2.selectedIndex;
-										if (form.select2.options[myindex].value != 0) {
-											QlUrl=form.select2.options[myindex].value;}
+										if (form.select2.options[myindex].value != "#") {
+											form.select1.value="#";
+											form.select3.value="#";
+											QlUrl=form.select2.options[myindex].value;
+											}
+										else {
+											QlUrl='#';
+											}
 										}
+										
+									function redirect3(form) {
+										var myindex=form.select3.selectedIndex;
+										if (form.select3.options[myindex].value != "#") {
+											form.select1.value="#";
+											QlUrl=form.select3.options[myindex].value;
+											}
+										else {
+											QlUrl='#';
+											}
+										}
+										
+									function submitform(form) {
+										var myindex3=form.select3.selectedIndex;
+										if (form.select3.options[myindex3].value != "#") {
+											form.select1.value="#";
+											form.select3.value="#";
+											window.open(QlUrl,'_blank','location=0,status=0,menubar=0,toolbar=0,scrollbars=1,resizable=yes,width=660,height=600');
+											QlUrl='#';
+											}
+										else {
+											form.select1.value="#";
+											form.select3.value="#";
+											javascript:window.location=QlUrl;
+											QlUrl='#';
+											}										
+										}
+									
 									//-->
 									</script>
 									<form name="form"></form>
-									<tr>
+									<tbody><tr>
+                      					<th height="22" align="left" scope="col">I want to know...</th>
+                    				</tr>
+                    				<tr>
                       					<td><select name="select1" class="quicklinks" onchange="redirect1(this.form)">
-                      		  			<option selected="selected">----------Please Select----------</option>
+                      		  			<option value="#" selected="selected">----------Please Select----------</option>
                         				<script language="JavaScript">
 										write_select1();
 										</script><option value="/cards.html" title="about Credit Cards">about Credit Cards</option>
@@ -349,24 +389,39 @@
 <option value="/feedback.html" title="how to give feedback">how to give feedback</option>
 
                       					</select></td>
-                    				</tr>                    
+                    				</tr> 
+									<!--                   
                     				<tr>
                       					<th height="22">I  want to apply for...</th>
                     				</tr>
                     				<tr>
                       					<td><select name="select2" class="quicklinks" onchange="redirect2(this.form)">
-                        				<option selected="selected">----------Please Select----------</option>
+                        				<option value="#" selected="selected">----------Please Select----------</option>
                         				<script language="JavaScript">
 										write_select2();
-										</script><option value="https://www.alliancebank.com.my/webapp/forms/cc_form.html">Credit Cards</option>
-<option value="https://www.alliancebank.com.my/webapp/forms/sr_form.html">Credit Card Services Request</option>
-<option value="https://www.alliancebank.com.my/webapp/forms/hp_form.html">Hire Purchase Loan</option>
-<option value="https://www.alliancebank.com.my/webapp/forms/hadmc_form.html">Hybrid Account &amp; Debit MasterCard</option>
+										</script>
+                      					</select></td>
+                    				</tr> 
+									-->                   
+                    				<tr>
+                      					<th height="22">I want to use...</th>
+                    				</tr>
+                    				<tr>
+                      					<td><select name="select3" class="quicklinks" onchange="redirect3(this.form)">
+                        				<option value="#" selected="selected">----------Please Select----------</option>
+                        				<script language="JavaScript">
+										write_select3();
+										</script><option value="/redir.html?url=http://www.bankinginfo.com.my/04_help_and_advice/0401_useful_tools/credit_card_calculator.php?intPrefLangID=1&amp;">Credit Card Calculator</option>
+<option value="/calculator/forms/calc_hp.aspx">Hire Purchase Calculator</option>
+<option value="/calculator/forms/calc_mgt.aspx">Mortgage Calculator</option>
+<option value="/calculator/forms/calc_sf.aspx">Shortfall Calculator</option>
 
                       					</select></td>
                     				</tr>                    
                     				<tr>
-                      					<td height="28" align="right"><a href="javascript:window.location=QlUrl"><img src="images/common/button_go.gif" alt="Go >" width="25" height="19" border="0"></a></td>
+                      					<td height="28" align="right">
+										<input type="button" value="&nbsp;Go&nbsp;" onclick="submitform(this.form)" style="width:40px; height:22px; font-family:Arial; font-size:11px; font-weight:bold; color:#ffffff; background:#CC0000;">
+										</td>
                     				</tr>
 									
                   				</tbody></table>
@@ -389,10 +444,10 @@
 											write_crosssell();
 										</script><tr>
 <td>
-<table width="184" height="150" border="0" cellpadding="0" cellspacing="0" bgcolor="#e5e5e5" background="images/common/crosssell_securitydevice.jpg">
+<table width="184" height="150" border="0" cellpadding="0" cellspacing="0" bgcolor="#e5e5e5" background="images/commercial/cfa_trade.jpg">
 <tbody><tr>
 <th width="12" height="50" align="left" valign="top" scope="col">&nbsp;</th>
-<th height="50" align="left" class="header-latest" scope="col">allianceonline BUSINESS Security Device*</th>
+<th height="50" align="left" class="header-latest" scope="col">Trade Financing &amp; Services</th>
 <td width="12" height="50" align="right" valign="top" scope="col">&nbsp;</td>
 </tr>
 <tr>
@@ -400,13 +455,13 @@
 <td height="90" valign="top">
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
 <tbody><tr>
-<td align="left" valign="top" scope="col"><b><br>*Not applicable for<br>individual<br> accounts</b></td>
+<td align="left" valign="top" scope="col"><b>We oversee all the details,<br>so you can look<br>at the bigger<br>picture.</b></td>
 </tr>
 <tr>
 <td align="left" valign="top" scope="col" height="5"></td>
 </tr>
 <tr>
-<td align="left" valign="top" scope="col"><a href="aol_business_security_device.html" target="_top">Find out more</a>  &gt;</td>
+<td align="left" valign="top" scope="col"><a href="biz_tradefinancingservices.html" target="_top">Find out more</a>  &gt;</td>
 </tr>
 </tbody></table>
 </td>
