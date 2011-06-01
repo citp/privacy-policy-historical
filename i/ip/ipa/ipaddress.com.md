@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ipaddress.com privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201154734id_/http%3A//www.ipaddress.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipaddress.com privacy policy that was archived on 2011-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110601232553id_/http%3A//www.ipaddress.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at . At www.ipaddress.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.ipaddress.com and how it is used. 
+## Privacy Policy for www.ipaddress.com
 
-* * *
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at . At www.ipaddress.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.ipaddress.com and how it is used. 
 
 ## Log Files
 
@@ -28,10 +28,5 @@ If you wish to disable cookies, you may do so through your individual browser op
 
 
 Email: 
-
-Follow us: [](http://www.facebook.com/people/Michael-Paul/1320777517) [](http://twitter.com/michael_paul_)   
-Or Bookmark / share:
-
-[](http://www.addthis.com/bookmark.php)
 
 Permalink for this site: 
