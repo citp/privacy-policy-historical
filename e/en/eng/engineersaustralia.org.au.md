@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the engineersaustralia.org.au privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216162219id_/http%3A//engineersaustralia.org.au/privacy-statement.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the engineersaustralia.org.au privacy policy that was archived on 2011-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110602010603id_/http%3A//www.engineersaustralia.org.au/privacy-statement.cfm) for the most accurate reproduction.*
 
 # Engineers Australia Ι Privacy Statement
 
