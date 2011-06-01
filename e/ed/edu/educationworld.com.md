@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the educationworld.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225172246id_/http%3A//www.educationworld.com/help/privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the educationworld.com privacy policy that was archived on 2011-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110601213736id_/http%3A//www.educationworld.com/help/privacy_policy.shtml) for the most accurate reproduction.*
 
-# Education World ® Help Center: Privacy Policy
-
-  
-Education World respects your right to privacy.
+# Education World: Privacy Policy
 
 When you visit the Education World Web site, you remain anonymous. Before we ask you for any personal information, we will tell you why we want the information and how we plan to use it. We will not provide any personal information to other companies or individuals without your permission. Some areas of our site may require registration. We may ask you for your name, e-mail address, and other basic information. That data will always remain protected, and we will never add you to e-mail lists unless you make a specific request. We will use any information we gather only to help us understand your needs and make Education World more valuable for you. You may choose whether to access pages that require registration. We will always give you the option to elect not to receive additional information from us during the registration process. If you sign up for electronic newsletters, you will find "unsubscribe" instructions readily available in every newsletter and on the Education World Web site. Although the staff of Education World works hard to keep the site a safe education portal, we recommend that children get their parents' permission before giving us any personal information. 
 
