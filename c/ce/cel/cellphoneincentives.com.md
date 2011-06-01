@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cellphoneincentives.com privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213163346id_/http%3A//cellphoneincentives.com/info.htm%3Ftp%3Dprivacy%26promo_name%3D2808name%26catalog_id%3D14845%26gift%3D71) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cellphoneincentives.com privacy policy that was archived on 2011-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110601205402id_/http%3A//cellphoneincentives.com/info.htm%3Ftp%3Dprivacy%26promo_name%3D2808name%26catalog_id%3D14845%26gift%3D71) for the most accurate reproduction.*
 
 # Cellphoneincentives
 
-**November 22, 2010**
+**March 22, 2011**
 
 **Our Commitment To Privacy**
 
@@ -32,23 +32,13 @@ By signing up for our Program you expressly opt in to receive future information
 
 In addition, in the event we consider a transaction involving the purchase or sale of our assets or stock, other companies may review our records, including your Information, to make business decisions about the transaction. Likewise, your Information may be transferred to third parties in the event of the sale or acquisition of our company or any of its assets. The parties who perform services for us (credit card processors, merchant banks, our internet service provider, etc.) also may have access to your information in performing their services.
 
-**_Express Consent:_** By accepting the terms and conditions of this Site and providing your telephone number, you are subscribing to a service that transmits special offers to subscribers via pre-recorded voice messages. 
-
-By subscribing, you are expressly consenting to receive pre-recorded telephone messages from The Firebrand Group, LLC, a Nevada company doing business as Worldwide Commerce Associates (“WCA”) that include special or discounted sales offers. You are subscribing to receive offers only from WCA, and only at the specific numbers(s) you have provided to us. Your consent will be effective regardless of whether the number you have provided: (a) is a home, business, or cell phone line; and/or (b) is or will be registered on any state or federal Do-Not-Call (DNC) list, and shall remain in effect until you revoke your consent and cancel your subscription. 
-
-To unsubscribe: You may cancel your subscription and revoke your consent to receive pre-recorded telephone calls at any time by either (a) utilizing the opt-out procedure included in any message you receive; or (b) by calling 800-269-0281 
-
-NOTE: WCA does not send offers via email, and is unable to honor any unsubscribe requests sent by other companies. If you are receiving offers via email please follow the unsubscribe instructions included therein. 
-
-Text messages: By accepting the terms and conditions of this Site and providing your cell phone number, you are expressly consenting to receive SMS, wireless or other mobile offering to your cell phone from us and other organizations. You understand that your wireless carrier's standard charges and rates apply to these messages. For SMS text messages, you may remove your information by replying "STOP", "END", or "QUIT" to the SMS text message you have received and we will remove your personal information within 10 days of receiving such request. 
-
 **Special Note About Information You Provide Directly To Our Advertisers.**
 
 You are able to access certain advertiser's sites through our site. When you opt to receive information or sign up for an offer from an advertiser, you may be doing so through third party sites and with other companies over which we have no control. You should read those sites' privacy policies to make sure you agree to them before using such sites. If you wish to opt out of those advertisers' mailings, you must do so directly with such advertisers or as otherwise provided on or through their sites.
 
 **Third Party Ad Servers.**
 
-We may serve advertisements within our Web Site either ourselves or by allowing other companies, called third-party ad servers or ad networks, to do so. In addition, some of our advertisers may use the services of third-party ad networks. Some of these third-party ad networks may place a persistent cookie on your computer. Doing this allows the third-party ad network to recognize your computer each time they send you an online advertisement. In this way, third-party ad networks may compile information about where you, or others who are using your computer, saw their advertisements and determine which ads are clicked on. This information allows a third-party ad network to deliver targeted advertisements that they believe will be of most interest to you. We do not have access to or control of the cookies that may be placed by the third-party ad servers or third-party ad networks. Those third-party ad networks that use persistent cookies may offer you a way to opt-out of ad targeting. You may find more information at the web site of either the individual third-party ad network or the Network Advertising Initiative (http://www.networkadvertising.org). 
+We may serve advertisements within our Web Site either ourselves or by allowing other companies, called third-party ad servers or ad networks, to do so. In addition, some of our advertisers may use the services of third-party ad networks. Some of these third-party ad networks may place a persistent cookie on your computer. Doing this allows the third-party ad network to recognize your computer each time they send you an online advertisement. In this way, third-party ad networks may compile information about where you, or others who are using your computer, saw their advertisements and determine which ads are clicked on. This information allows a third-party ad network to deliver targeted advertisements that they believe will be of most interest to you. We do not have access to or control of the cookies that may be placed by the third-party ad servers or third-party ad networks. Those third-party ad networks that use persistent cookies may offer you a way to opt-out of ad targeting. You may find more information at the web site of either the individual third-party ad network or the Network Advertising Initiative (http://www.networkadvertising.org), Privacy Choice (http://www.privacychoice.org/choose), and Digital Advertising Alliance (http://www.aboutads.info/choices/). 
 
 **Security Of Your Information.**
 
@@ -74,4 +64,4 @@ If you are a California resident or another state with specific laws relating to
 
 PLEASE CHECK THIS PRIVACY POLICY PERIODICALLY FOR CHANGES AS WE RESERVE THE RIGHT TO REVISE THIS PRIVACY POLICY. SUCH REVISIONS TO THE PRIVACY POLICY SHALL TAKE EFFECT WHEN POSTED. YOUR CONTINUED USE OF OUR SERVICES THROUGH ANY COMMUNICATION CHANNEL FOLLOWING THE POSTING OF ANY CHANGES TO THE PRIVACY POLICY CONSTITUTES YOUR ACCEPTANCE OF SUCH CHANGES.
 
-**Customer Service Department :** 13762 W. SR. 84 • Suite 612 • Davie, FL 33325 • (954) 653-9350 
+**Customer Service Department :** 13762 W. SR. 84 • Suite 612 • Davie, FL 33325 •
