@@ -1,59 +1,42 @@
-> *The following text is extracted and transformed from the missesdressy.com privacy policy that was archived on 2010-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101112194136id_/http%3A//www.missesdressy.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the missesdressy.com privacy policy that was archived on 2011-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110601225107id_/http%3A//www.missesdressy.com/privacy.html) for the most accurate reproduction.*
 
-# missesdressy.com
+# MissesDressy™ homecoming 2011 prom/evening gowns unique bridesmaid formal cocktail dresses wedding guest
 
-_This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the[Yahoo! Privacy Policy](http://info.yahoo.com/privacy/us/yahoo/details.html) for more information about how Yahoo! uses this information._
+  
 
-What information do we collect?
 
-We collect information from you when you register on our site or place an order.
+### Information Sharing: MissesDressy hates spam as much as you do!
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information.
+Information collected from our customers and visitors will never be sold or transferred to others for any purpose. The information you enter in forms on our website will be used solely to complete your order, and with your permission send you occasional newsletters about our new products and promotions.
 
-What do we use your information for?
+To complete your order, we'll need your name, address, and payment information. Your credit card information will never be stored on our computers. The credit card authorization process is instantaneous and your sensitive credit card information is immediately discarded in accordance with recently implemented e-commerce regulations. We ship items ourselves, so we won't share your shipping address won't be given to anyone. 
 
-Any of the information we collect from you may be used in one of the following ways:
+  
 
-• To improve customer service (your information helps us to more effectively respond to your customer service requests and support needs)
 
-• To process transactions
+### Statistical Information gathering: Totally anonymous!
 
-Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+Knowing where our web traffic comes from helps us learn our customers' demographics and preference better, so we can deliver more relevant content and merchandise. We use website tracking tools by Google that allow us to perform statistical analysis of our visitors. The information used for this purposes is not related to what you enter in forms on our site. The types of information collected by Google Analytics are, for example, browser version and internet connection speed. We do not share statistical information gathered by Google with anyone.
 
-• To send periodic emails
+  
 
-The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
 
-Note: If at any time you would like to unsubscribe from receiving future emails, please send us an e-mail saying "unsubscribe" with your full name at MissesDressy@Yahoo.com..
+### System Security: Military grade!
 
-How do we protect your information?
+Our system uses real-time self-updating technology to thwart attacks by the most sophisticated of hackers. We've invested much effort to ensure that our systems are virtually impenetrable. Regardless, we do not store payment information on our servers. Once a credit card has been authorized or otherwise disapproved by our processor, we discard the credit card information.
 
-We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information.
+The connection between your computer and our systems for the purpose of filling our forms (such as checkout- name, address, payment) is always encrypted through industrial-strength SSL algorithms. When you enter secure portions of our site, you'll see the http:// turn into http **s** :// in the URL, and depending on your browser, you may see other enhanced security markings (such as a golden lock in Firefox and IE).
 
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to?keep the information confidential.
+  
 
-After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days.
 
-Do we use cookies?
+### Our Facility: A fortress!
 
-Yes. Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+Our facility is off-limits to everyone except authorized employees. We have 24x7 camera surveillance, as well as central station alarm which is always armed when we're closed. Our employees are reminded regularly of proper confidentiality policies, such as paper shredding. You can rest assured that we've covered all bases.
 
-We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
+  
 
-Do we disclose any information to outside parties?
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+### Questions?
 
-International Use
-
-None of the products or underlying information or technology available at this Site may be downloaded or otherwise exported into (or to a national or resident of) Cuba, Iraq, Iran, Libya, North Korea, Sudan, Syria, or any other country to which the United States has embargoed goods; or to anyone on the United States Treasury Department’s list of Specially Designated Nationals or the U.S. Commerce Department’s Table of Deny Orders. By downloading from, or using the Site, you represent and warrant that you are not located in, under the control of, or a national or resident of any such country or on any such list. You further agree to indemnify the Company against any and all costs, liabilities, losses or expenses arising from, or relating to, any asserted violation by you of any of the laws and administrative regulations of the United States relating to the control of exports of commodities and technical data.
-
-Your Consent
-
-By using our site, you consent to our privacy policy. Changes to our Privacy Policy If we decide to change our privacy policy, we will post those changes on this page.
-
-Contacting Us
-
-If there are any questions regarding this privacy policy you may contact us using the information below.
-
-MissesDressy@yahoo.com
+Please [contact us](http://www.missesdressy.com/contact_us.php) if you'd like more information. Thank you!
