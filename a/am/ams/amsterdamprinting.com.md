@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amsterdamprinting.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228004427id_/http%3A//www.amsterdamprinting.com/Default.aspx%3FFocusId%3Dprivacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amsterdamprinting.com privacy policy that was archived on 2011-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110601235059id_/http%3A//www.amsterdamprinting.com/Default.aspx%3FFocusId%3Dprivacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | AmsterdamPrinting.com
 
@@ -67,4 +67,4 @@ The site may contain links to third-party websites, which may have privacy polic
 
 Thank you for visiting our site.  If you have any questions or comments about this policy, please send an email to:  **[customerservice@amsterdamprinting.com](mailto:customerservice@amsterdamprinting.com)**.  Please include "Question or Comment" in the subject line.
 
-**Last Updated:** **  December 16, 2010** ****
+**Last Updated:** **  1/10/2011** ****
