@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the liteforex.org privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205173017id_/http%3A//www.liteforex.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liteforex.org privacy policy that was archived on 2011-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110601210526id_/http%3A//www.liteforex.org/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | LiteForex
 
-**Straighthold Investment Group, Inc. ("LiteForex") respects each individual's right to privacy. We value our relationship with you, and we take pride in maintaining loyalty and respect with each individual client by providing you with security. The provisions of this notice apply to former clients as well as our current clients.**  
+**LiteForex Group of Companies, Inc. ("LiteForex") respects each individual's right to privacy. We value our relationship with you, and we take pride in maintaining loyalty and respect with each individual client by providing you with security. The provisions of this notice apply to former clients as well as our current clients.**  
 **  
 PERSONAL INFORMATION  
 **  
@@ -38,7 +38,7 @@ You are not required to supply any of the personal information that we may reque
 
 If you do not wish to have your personal information disclosed to third parties as described in this Policy, please contact us via e-mail at: [compliance@liteforex.org](mailto:compliance@liteforex.org) or send your request to:
 
-**Straighthold Investment Group, Inc.  
+**LiteForex Group of Companies, Inc.  
 Attention: Privacy Officer  
 306 Victoria House, Victoria  
 Mahe, Seychelles**
