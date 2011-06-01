@@ -1,16 +1,7 @@
-> *The following text is extracted and transformed from the royalcaribbean.co.uk privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220062829id_/http%3A//www.royalcaribbean.co.uk/privacyPolicy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the royalcaribbean.co.uk privacy policy that was archived on 2011-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110601215619id_/http%3A//www.royalcaribbean.co.uk/privacyPolicy.do) for the most accurate reproduction.*
 
 # Royal Caribbean International
 
-| 
-
-|  At Royal Caribbean Cruises Ltd.® (RCCL) and Royal Caribbean Cruise Line a/s, we are committed to protecting the personal information that you share with us through the Internet. 
-
-This statement sets forth our privacy policy regarding information you provide to us through the use of our website. This statement also provides you with information on how to prevent your personal information from being collected or shared when you visit our website, respond to our web-based promotions or send us an e-mail.
-
-  
-Most of our websites reside in the United States and your information may therefore be stored outside the European Union, either where you have consented to our use of your data, or, in order to provide the products and services you have requested.    
----  
 **  
 The information we gather**  
 We collect information about you through two principal means: through technology (for example, IP addresses and cookies) and through your voluntary submission of information. _1\. Non-Personally Identifiable Information_  
@@ -49,8 +40,4 @@ None of our websites are targeted at children (minors under thirteen years of ag
 By using our websites, you signify your acceptance of this Privacy Policy. RCCL reserves the right to modify, alter or otherwise update this policy at any time. Visitors are encouraged to review this policy from time to time to stay abreast of any changes. Your continued use of our websites following the posting of any changes to this policy means you accept those changes. **Questions or Comments?**  
 If you have any further questions or comments **regarding our Privacy Policy** , please [send us an e-mail](http://www.royalcaribbean.co.uk/customersupport/contactUsOnline.do) with your questions or comments. 
 
-This privacy policy was last modified on 20 March 2002.  
-  
-|   
-  
-|  |  | 
+This privacy policy was last modified on 20 March 2002.
