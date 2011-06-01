@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justintimberlake.com privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128113120id_/http%3A//www.justintimberlake.com/s/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justintimberlake.com privacy policy that was archived on 2011-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110601213032id_/http%3A//www.justintimberlake.com/s/privacy_policy) for the most accurate reproduction.*
 
 # Justin Timberlake - Justin Timberlake - Privacy Policy
 
