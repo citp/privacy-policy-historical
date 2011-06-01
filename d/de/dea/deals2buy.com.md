@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deals2buy.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224015922id_/http%3A//www.deals2buy.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deals2buy.com privacy policy that was archived on 2011-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110601121447id_/http%3A//www.deals2buy.com/privacy_policy) for the most accurate reproduction.*
 
 # Deals2Buy - Privacy Policy
 
