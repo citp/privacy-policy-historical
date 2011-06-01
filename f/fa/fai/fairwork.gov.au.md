@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fairwork.gov.au privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216160359id_/http%3A//www.fairwork.gov.au/pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fairwork.gov.au privacy policy that was archived on 2011-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110602003832id_/https%3A//www.fairwork.gov.au/pages/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy - Fair Work Ombudsman
 
