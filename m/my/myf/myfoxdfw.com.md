@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myfoxdfw.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130234326id_/http%3A//www.myfoxdfw.com/dpp/about_us/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfoxdfw.com privacy policy that was archived on 2011-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110601213206id_/http%3A//www.myfoxdfw.com/dpp/about_us/Privacy_Policy) for the most accurate reproduction.*
 
 # MyFOXDFW.com Privacy Policy
 
