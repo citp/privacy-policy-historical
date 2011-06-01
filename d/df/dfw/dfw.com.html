@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the dfw.com privacy policy that was archived on 2010-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101231071853id_/http%3A//star-telegram.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dfw.com privacy policy that was archived on 2011-06-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110602010621id_/http%3A//star-telegram.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
  
@@ -116,21 +116,25 @@ mi_live_or_preview = 'live';
     miyahoo.slots.slot_3.ad_delivery_mode = "ipatf";
     miyahoo.slots.slot_3.ad_marker = "";
     miyahoo.slots.slot_4 = {};
-    miyahoo.slots.slot_4.ad_size_list = ["728x90"];
+    miyahoo.slots.slot_4.ad_size_list = ["100x25"];
     miyahoo.slots.slot_4.ad_delivery_mode = "ipatf";
     miyahoo.slots.slot_4.ad_marker = "";
     miyahoo.slots.slot_5 = {};
-    miyahoo.slots.slot_5.ad_size_list = ["160x90"];
+    miyahoo.slots.slot_5.ad_size_list = ["728x90"];
     miyahoo.slots.slot_5.ad_delivery_mode = "ipatf";
     miyahoo.slots.slot_5.ad_marker = "";
     miyahoo.slots.slot_6 = {};
-    miyahoo.slots.slot_6.ad_size_list = ["300x250"];
+    miyahoo.slots.slot_6.ad_size_list = ["160x90"];
     miyahoo.slots.slot_6.ad_delivery_mode = "ipatf";
     miyahoo.slots.slot_6.ad_marker = "";
     miyahoo.slots.slot_7 = {};
     miyahoo.slots.slot_7.ad_size_list = ["300x250"];
-    miyahoo.slots.slot_7.ad_delivery_mode = "ipbtf";
+    miyahoo.slots.slot_7.ad_delivery_mode = "ipatf";
     miyahoo.slots.slot_7.ad_marker = "";
+    miyahoo.slots.slot_8 = {};
+    miyahoo.slots.slot_8.ad_size_list = ["300x250"];
+    miyahoo.slots.slot_8.ad_delivery_mode = "ipbtf";
+    miyahoo.slots.slot_8.ad_marker = "";
 
 
 -->
@@ -175,6 +179,12 @@ mi_live_or_preview = 'live';
 	*/
 	miAppControler.prototype.commenting = 1;
 
+	/*
+	 2 = display static coupon ad
+	*/
+	miAppControler.prototype.findnsave = 1;
+  miAppControler.prototype.dealsaver = 1;
+
 var pageInfo = {'version':1.0};
 pageInfo.section = {};
 pageInfo.section.id = 1062;
@@ -210,6 +220,8 @@ var withinSectionRecommendedKey = "All";
 <script type="text/javascript" src="/static/scripts/jquery.pngFix.js"></script>  
 
 <![endif]-->
+
+
 <script type="text/javascript" src="http://media.star-telegram.com/static/js/st_09-min.js"></script>
 
  
@@ -248,6 +260,7 @@ mi.search = new mi.Search();
 <link href="http://media.star-telegram.com/static/includes/browserupgrade/browserupgrade.css" rel="stylesheet" type="text/css" />
 <script type="text/javascript" src="http://media.star-telegram.com/static/includes/browserupgrade/jquery.cookie.js"></script>
 <![endif]-->
+<script type="text/javascript">if(typeof gomez != "undefined" && gomez.nameEvent){gomez.nameEvent("Head Completed");}</script>
 </head>
  
 
@@ -486,7 +499,7 @@ if (GetCookie(insitecookie)) {
 
 <script type="text/javascript">
 	document.write('<span class="avatarLoginLinks" id="nonmember"><a href="/reg-bin/int.cgi?mode=login' + rurl_qs + '">Sign in</a><span class="separator">|</span><a href="/reg-bin/int.cgi?mode=register">Join</a></span>')
-</script><span class="avatarLoginLinks" id="nonmember"><a href="/reg-bin/int.cgi?mode=login;goto=https://web.archive.org/web/20101231071853id_/http://www.star-telegram.com/privacy-policy/">Sign in</a><span class="separator">|</span><a href="/reg-bin/int.cgi?mode=register">Join</a></span>
+</script><span class="avatarLoginLinks" id="nonmember"><a href="/reg-bin/int.cgi?mode=login;goto=https://web.archive.org/web/20110602010621id_/http://www.star-telegram.com/privacy-policy/">Sign in</a><span class="separator">|</span><a href="/reg-bin/int.cgi?mode=register">Join</a></span>
 <div id="member" class="avatarLogoutLinks">
 
 
@@ -552,12 +565,13 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_3"
  		</div>
 	</div>
 </div><!-- end header_wrap -->
+<script type="text/javascript">if(typeof gomez != "undefined" && gomez.nameEvent){gomez.nameEvent("Masthead Completed");}</script>
  
 	
 
 
 
-       	 
+       	  
 
 
 
@@ -583,19 +597,20 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_3"
 			</li>	
 			<li id="news" class="top"><a href="/local/">News</a>
 				<ul class="sub_nav">
-					<li id="local_news"><a href="/local/">Local news</a></li>
-					<li id="stock_show"><a href="/stockshow/">Stock Show</a></li>
+					<li id="local_news"><a href="/local/">Local</a></li>
+                                        <li id="news_blogs"><a href="/blogs/">Blogs</a></li>
+					<li id="census_2010"><a href="/census/">Census</a></li>
 					<li id="state"><a href="/texas/">Texas</a></li>
 					<li id="dallas"><a href="/dallas/">Dallas</a></li>
-					<li id="crime_and_safety"><a href="/crime/">Crime and Safety</a></li>
+					<li id="crime_and_safety"><a href="/crime/">Crime</a></li>
 					<li id="watchdog"><a href="/watchdog/">Watchdog</a></li>
 					<li id="elections_and_politics"><a href="/politics">Politics</a></li>
 					<li id="elections_and_politics"><a href="/elections">Elections</a></li>
-					<li id="texas_legislature"><a href="/legislature/">Texas Legislature</a></li>
+					<li id="texas_legislature"><a href="/legislature/">Legislature</a></li>
 					<li id="schools"><a href="/schools/">Schools</a></li>
 					<li id="latest_national_headlines"><a href="/nationap/">U.S.</a></li>
 					<li id="latest_world_headlines"><a href="/worldap/">World</a></li>
-					<li id="weird_news"><a href="/weirdnews/">Weird News</a></li>
+					<li id="weird_news"><a href="/weirdnews/">Weird</a></li>
 				</ul>
 			</li>	
 			<li id="obituaries" class="top"><a href="/obituaries">Obituaries</a>
@@ -611,8 +626,8 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_3"
 			</li>
 			<li id="sports" class="top"><a href="/sports">Sports</a>
 				<ul class="sub_nav">
-					<li id="superbowl"><a href="/superbowl">Super Bowl</a></li>
-					<li id="dallas_cowboys"><a href="/cowboys">Cowboys</a></li>
+				<li id="dallas_cowboys"><a href="/cowboys">Cowboys</a></li>
+                                <li id="sports_blogs"><a href="/sportsblogs">Blogs</a></li>
 					<li id="texas_rangers"><a href="/rangers">Rangers</a></li>
 					<li id="mavericks/nba"><a href="/mavericks">Mavericks</a></li>
 					<li id="hockey"><a href="/stars">Stars</a></li>
@@ -641,6 +656,7 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_3"
 			<li id="business" class="top"><a href="/business">Business</a>
 				<ul class="sub_nav">
 					<li><a href="/barnettshale">Barnett Shale</a></li>
+					<li><a href="http://startelegram.typepad.com/barnett_shale">Barnett Shale Blog</a></li>
 					<li><a href="/airlines">Airlines &amp; Aviation</a></li>
                     <li><a href="http://startelegram.typepad.com/sky_talk/">SkyTalk Blog</a></li>
                     <li><a href="http://startelegram.typepad.com/dfwjobs/">DFW Joblog</a></li>
@@ -649,14 +665,15 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_3"
 					<li><a href="/461">Business Wire</a></li>
 				</ul>
 			</li>
-			<li id="entertainment" class="top"><a href="http://www.dfw.com/entertainment/">Entertainment</a>
+			<li id="entertainment" class="top"><a href="http://www.dfw.com">Entertainment</a>
 				<ul class="sub_nav">
 					<li id="tv_guide"><a href="/tvguide/">TV Guide</a></li>
 					<li><a href="http://www.dfw.com/music/">Music</a></li>
 					<li><a href="http://www.dfw.com/dining/">Dining</a></li>
-					<li><a href="http://fwevents.planetdiscover.com/sp?aff=11003">Find a restaurant</a></li>			
-					<li><a href="http://www.dfw.com/movies/">Movies</a></li>
-					<li><a href="http://www.dfw.com/events/">Events</a></li>
+					<li><a href="http://listings.dfw.com">Find a restaurant</a></li>			
+					<li><a href="http://listings.dfw.com">Search listings</a></li>			
+					<li><a href="http://www.dfw.com/movies/">Movies &amp; TV</a></li>
+					<li><a href="http://listings.dfw.com">Events</a></li>
 					<li><a href="http://www.dfw.com/nightlife/">Nightlife</a></li>
 					<li><a href="http://www.dfw.com/bestofdfw">Best of DFW</a></li>
 					<li><a href="/books/">Books</a></li>
@@ -690,7 +707,7 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_3"
 							</ul>
 				</li></ul>
 			</li>		
-			<li id="editorials_and_opinions" class="top"><a href="/opinions/">Opinions</a>
+			<li id="editorials_and_opinions" class="top"><a href="/opinions/">Opinion</a>
 				<ul class="sub_nav">
 					<li id="editorials"><a href="/editorials">Editorials</a></li>
 					<li id="editorial_columnists"><a href="/opinion/columnists">Columnists</a></li>
@@ -718,7 +735,6 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_3"
 					<li id="automotive"><a href="/automotive/">New cars</a></li>
 					<li id="automotive_1"><a href="/automotive/">Used cars</a></li>
 					<li><a href="http://siy.cars.com/siy/index.jsp?aff=ftworth">Sell your car</a></li>
-					<li><a href="http://www.dfwautolink.com">DFW Auto Link</a></li>
 					<li><a href="http://pd.dfw.com/sp?aff=1161&amp;catId=1000000057&amp;skin=100">Star-Cars DFW</a></li>
 					<li><a href="http://www.star-telegram.com/classified-ads/category/Other+Transportation">Boats</a></li>
 					<li><a href="http://www.star-telegram.com/classified-ads/category/Other+Transportation">Motorcycles</a></li>
@@ -744,7 +760,7 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_3"
 				<ul class="sub_nav">
 					<li><a href="http://fortworthstartelegram.adperfect.com/">Place an ad</a></li>
 					<li><a href="/classifieds">Find an ad</a></li>
-					<li><a href="http://www.careerbuilder.com/Default.aspx?lr=cbcb_fwst&amp;cbRecursionCnt=1&amp;cbsid=7dd2e37a1833493cb1e96e4719f78839-292091967-wn-6">Jobs</a></li>
+					<li><a href="http://www.careerbuilder.com/?lr=cbcb_fwst&amp;ff=21">Jobs</a></li>
 					<li><a href="/automotive/">Cars</a></li>
 					<li><a href="/realestate/">Homes</a></li>
 					<li><a href="http://www.gadzoo.com/dfw/gadzoo2/Pets.aspx">Pets</a></li>
@@ -754,27 +770,42 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_3"
 					
 				</ul>
 			</li>	
-			<li id="employment" class="top"><a href="/jobs/">Jobs</a>
+			<li id="employment" class="top"><a href="http://www.careerbuilder.com/?lr=cbcb_fwst&amp;ff=21">Jobs</a>
 				<ul class="sub_nav">
-					<li><a href="http://www.careerbuilder.com/Default.aspx?lr=cbcb_fwst&amp;cbRecursionCnt=1&amp;cbsid=44af965fa61a49129fce82ddf9bbfa97-292092103-wt-6">Find a job</a></li>
+					<li><a href="http://www.careerbuilder.com/?lr=cbcb_fwst&amp;ff=21">Find a job</a></li>
 					<li><a href="http://fortworthstartelegram.adperfect.com/?catid=493&amp;-session=ComboAd:CDAC3F0509d7520DE4mUR138DB57">Post a job</a></li>
 					<li><a href="http://fwevents.planetdiscover.com/sp?aff=11011">Featured Employers</a></li>
-					<li><a href="http://www.digitalmediacommunications.com/fortworth/employment/index_jobs.php?ad_num=" target="_blank">Job videos</a></li>
+					<li><a href="http://www.careerbuilder.com/?lr=cbcb_fwst&amp;ff=21" target="_blank">Job videos</a></li>
 					<li><a href="http://www.virtualcareerevent.com/fortworth">Virtual career expo</a></li>
 				</ul>
 			</li>
-			<li id="shopping" class="top"><a href="http://newspaperads.dfw.com/ROP/Advertisers.aspx">Shopping</a>
-				<ul class="sub_nav">
-					<li><a href="http://newspaperads.dfw.com/ROP/Advertisers.aspx">Newspaper ads</a></li>
-					<li><a href="http://www.star-telegram.com/classifieds">Classified ads</a></li>
-					<li><a href="http://pd.dfw.com/sp?skin=&amp;aff=1109">StarTel pages</a></li>
-					<li><a href="https://www.mydfwstore.com/">MyDFW Store</a></li>
-					<li><a href="http://pd.dfw.com/sp?skin=&amp;aff=1109">Yellow pages</a></li>
-					<li><a href="http://fwst.typepad.com/accents/">Accents</a></li>
-					<li><a href="http://print.coupons.com/couponweb/Offers.aspx?pid=13222&amp;zid=ne65&amp;nid=10&amp;bid=alk0517110524da5554ecc3514">Coupons</a></li>
+			<li id="shopping" class="top"><a href="http://findnsave.star-telegram.com">FindnSave</a>
+	                <ul class="sub_nav">
+					<li><a href="http://findnsave.star-telegram.com/Daily-Deal">Deal of the day</a></li>
+					<li><a href="http://findnsave.star-telegram.com/Coupons">Local Coupons</a></li>
+					<li><a href="http://findnsave.star-telegram.com/PrintCoupons">Grocery Coupons</a></li>
+					<li><a href="http://findnsave.star-telegram.com/rop/Advertisers.aspx">Newspaper ads</a></li>
 					<li><a href="http://www.star-telegram.com/shopping/">Circular Headquarters</a></li>
+					<li><a href="http://www.star-telegram.com/classifieds">Classified ads</a></li>
+					<li><a href="https://www.mydfwstore.com/">MyDFW Store</a></li>
+					<li><a href="http://fwst.typepad.com/accents/">Accents</a></li>
 				</ul>
 			</li>
+                                        <li id="shopping" class="top"><a href="http://www.thedealsaver.com/dfw"><img src="http://media.star-telegram.com/static/media/icons/dealsaver.png"></a>
+</li>
+                        <li class="ad_nav_wrap">
+          <!-- start: nav ad -->
+                    
+ 
+<!-- generic call  -->
+             			<div class="advertisement nav_ad dart" id="dart_100x25_ats_1"><!-- dart_call component cannot be called until dart_init component has been called -->   
+			</div>                   			<div class="advertisement nav_ad yahoo" id="yahoo_100x25_ipatf_1">
+<script><!--
+if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_4");}
+--></script>
+			</div>           <!-- end: nav ad -->
+
+</li>
 		</ul>
 	</div>  <script>
 $('#nav ul > li').each(function() {
@@ -810,7 +841,7 @@ $('#nav ul.sub_nav > li').each(function() {
         <div class="advertisement" id="leaderboard">
             
 <script><!--
-if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_4");}
+if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_5");}
 --></script>
         </div>
     
@@ -820,7 +851,7 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_4"
         <div class="advertisement" id="yahoo_160x90_ipatf_1">
             
 <script><!--
-if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_5");}
+if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_6");}
 --></script>
         </div>
     
@@ -956,7 +987,7 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_5"
         <div class="advertisement" id="yahoo_300x250_ipatf_1">
             
 <script><!--
-if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_6");}
+if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_7");}
 --></script>
         </div>
     
@@ -980,15 +1011,15 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_6"
         <h2 class="most_read_header">Most-read stories</h2>
 <ul class="headline_stack">
 
-<li><a href="http://www.star-telegram.com/2010/12/29/2733845/teen-who-fell-from-overpass-wanted.html#storylink=omni_popular">Teen who fell from overpass wanted to be in the military police</a></li>
+<li><a href="http://www.star-telegram.com/2011/05/31/3117172/justin-bieber-selena-gomez-spotted.html#storylink=omni_popular">Justin Bieber, Selena Gomez spotted at Arlington attractions</a></li>
 
-<li><a href="http://www.star-telegram.com/2010/12/29/2733769/shooter-in-attack-that-killed.html#storylink=omni_popular">Shooter in attack that killed Arlington officer has long criminal history</a></li>
+<li><a href="http://www.star-telegram.com/2011/05/31/3117145/dallas-fort-worth-again-leads.html#storylink=omni_popular">Dallas-Fort Worth again leads nation in job growth</a></li>
 
-<li><a href="http://www.star-telegram.com/2010/12/29/2733757/cowboys-are-facing-big-turnover.html#storylink=omni_popular">Cowboys facing lots of turnover after dismal season</a></li>
+<li><a href="http://www.star-telegram.com/2011/05/31/3116156/colleyville-kid-catches-monster.html#storylink=omni_popular">Colleyville kid catches "monster" catfish</a></li>
 
-<li><a href="http://www.star-telegram.com/2010/12/30/2734198/woman-charged-in-boys-death.html#storylink=omni_popular">Woman charged in 12-year-old Houston boy's death</a></li>
+<li><a href="http://www.star-telegram.com/2011/05/31/3117441/dfw-man-facing-3rd-execution-date.html#storylink=omni_popular">Ex-Army recruiter from DFW facing 3rd execution date</a></li>
 
-<li><a href="http://www.star-telegram.com/2010/12/29/2733816/fire-damages-cullen-davis-home.html#storylink=omni_popular">Fire damages Cullen Davis' home in Colleyville for the third time</a></li>
+<li><a href="http://www.star-telegram.com/2011/06/01/3117642/without-big-change-this-will-be.html#storylink=omni_popular">Without big change, this will be 2006 all over again for the Mavericks</a></li>
 
 </ul>
 	
@@ -1008,17 +1039,17 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_6"
 		                               
 
 <div id="Z - Mom2Momdfw_sidebar">
-<h4><a name="story" storyid="2732356" href="http://www.star-telegram.com/2010/12/29/2732332/tops-of-the-pops.html#">Burst your New Year's Eve bubbly without champagne</a>
+<h4><a name="story" storyid="3117034" href="http://www.star-telegram.com/moms_contests/">Contest: Win Six Flags Over Texas tickets!</a>
 </h4>
-<a class="image_for_summary" href="http://www.star-telegram.com/2010/12/29/2732332/tops-of-the-pops.html#">
+<a class="image_for_summary" href="http://www.star-telegram.com/moms_contests/">
 
 
-	<img class="float_right p_left_10 p_bottom_10" src="http://media.star-telegram.com/smedia/2010/12/29/10/s213-bubbly.thumb.prod_affiliate.58.jpg" alt="" width="92" height="100">
+	<img class="float_right p_left_10 p_bottom_10" src="http://media.star-telegram.com/smedia/2011/05/31/18/sixflagsgiant.thumb.prod_affiliate.58.JPG" alt="" width="170" height="100">
 </a>
 
 
 
-<p class="story_body">Count down the waning moments of 2010 with these sparkling alternatives. | <a href="http://www.dfw.com/2010/12/29/383727/dirty-dozen-run-laugh-party-or.html">Plus: The New Year's-themed Dirty Dozen things to do</a></p>
+<p class="story_body">Tell us your favorite Six Flags Over Texas moment for a chance to win a family 4-pack and parking pass!</p>
  <p class="clear_both more_stories">
 
 <a href="http://www.mom2momdfw.com">More Mom2Mom</a>
@@ -1032,17 +1063,17 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_6"
 		                               
 
 <div id="DFW.com_sidebar">
-<h4><a name="story" storyid="2732620" href="http://www.dfw.com/2010/12/29/383702/our-favorite-meals-of-2010.html">Our favorite Metroplex meals of 2010</a>
+<h4><a name="story" storyid="3112101" href="http://www.dfw.com/2011/05/26/459427/pics-052611-byron-nelson-golf.html">Byron Nelson party pics</a>
 </h4>
-<a class="image_for_summary" href="http://www.dfw.com/2010/12/29/383702/our-favorite-meals-of-2010.html">
+<a class="image_for_summary" href="http://www.dfw.com/2011/05/26/459427/pics-052611-byron-nelson-golf.html">
 
 
-	<img class="float_right p_left_10 p_bottom_10" src="http://media.star-telegram.com/smedia/2010/12/29/12/Summersanta.thumb.prod_affiliate.58.jpg" alt="Summersanta.org at Weinberger's Delicatessan" width="149" height="99">
+	<img class="float_right p_left_10 p_bottom_10" src="http://media.star-telegram.com/smedia/2011/05/31/07/byron077.thumb.prod_affiliate.58.jpg" alt="" width="150" height="100">
 </a>
 
 
 
-<p class="story_body">We chowed our way through North Texas in 2010, and these were our yummiest moments. <a href="http://www.dfw.com/2010/12/29/383687/new-years-eve-menus-that-will.html"><b>Plus: Tempting menus for New Year's Eve</b></a></p>
+<p class="story_body">Things were heating on the fairways and in the Pavilion at the golf tournament in Las Colinas. <br><b>Plus:</b> <a href="http://www.dfw.com/2011/05/30/460692/pics-052811-wolfdance-in-the-stockyards.html">Pics from Wolf Dance in the Stockyards</a></p>
  <p class="clear_both more_stories">
  
 <a href="http://www.dfw.com">More entertainment</a>
@@ -1064,7 +1095,7 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_6"
         <div class="advertisement" id="yahoo_300x250_ipbtf_1">
             
 <script><!--
-if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_7");}
+if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_8");}
 --></script>
         </div>
     
@@ -1085,11 +1116,12 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_7"
 			</div>
 		</div>
 	</div>
-	
+	 
 
 
 
-       	<div id="st_footer" style="background-image: none;">
+       	<script type="text/javascript">if(typeof gomez != "undefined" && gomez.nameEvent){gomez.nameEvent("Starting Footer");}</script>
+<div id="st_footer" style="background-image: none;">
 		<div id="st_footer_content">
 <div id="st_footer_bottom" class="inline_list">
 	<ul id="footer_services">
@@ -1098,7 +1130,7 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_7"
                 <li><a href="http://www.star-telegram.com/privacy-policy#behavioral_targeting">About Our Ads</a></li>
 		<li><a href="http://www.star-telegram.com/copyright">Copyright</a></li>
 		<li><a href="http://www.star-telegram.com/contact/">Contact us</a></li>
-		<li><a href="mailto:webmaster@star-telegram.com">Report a problem</a></li>
+		<li><a href="http://www.star-telegram.com/bugreport">Report a problem</a></li>
 		<li><a href="http://www.star-telegram.com/124#st_full_1_Advertise">Advertise with us</a></li>
 		<li><a href="http://www.mcclatchy.com/">About the McClatchy company</a></li>
 	</ul>
@@ -1117,6 +1149,18 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_7"
 </div>
 </div>
 	
+
+
+ <a name="footanchor"></a><!-- /shared/footer_09.comp -->
+
+
+
+
+
+
+
+
+
 	
 </div> 
  
