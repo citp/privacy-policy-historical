@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the coolworks.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226215020id_/http%3A//www.coolworks.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolworks.com privacy policy that was archived on 2011-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110601210808id_/http%3A//www.coolworks.com/about/privacy.html) for the most accurate reproduction.*
 
-# Cool Works.com®- Jobs in Great Places®
+# Privacy Policy | CoolWorks.com
 
-## We respect your privacy
+We respect your privacy
 
 In these days of spam and online scams, we at Cool Works® are sensitive to the issues of protecting your privacy and your identity. We try to provide the safest possible environment for you to search and apply for jobs. 
 
@@ -72,23 +72,6 @@ Choice/Opt-Out. Cool Works® provides you the opportunity to opt-out of receivin
   3. Call us at 406.848.2380
 
 
-
-#### POST A RESUME 
-
-Posting your resume on Cool Works® puts you in front of hundreds of employers with open positions each day. When you post your resume, we automatically create a registration for you using the username and password that you supply. When you return to the site in the future you will use that same username and password to access and edit your existing resume. 
-
-RESUME PRIVACY OPTIONS 
-
-We know that our job seekers have varying levels of comfort when it comes to posting their resume on the Internet. To accommodate the needs of all users, Cool Works® provides different levels of privacy from which you can choose. 
-
-  * SEARCHABLE RESUME This option gives you the most visibility to the broadest employer audience possible by making your resume searchable to our employer-clients. 
-  * PRIVATE POSTING FOR APPLY ONLINE & BROADCAST ONLY This option allows you to post your resume on Cool Works® without having it searched by employers. The benefit is that you can quickly and easily apply for jobs without retyping your information AND you can elect to receive targeted jobs via broadcast email as they are posted. If you see a questionable job posting or site activity, please report the suspected fraud to us using our feedback form. If you think you have been a victim of fraud, immediately report the committed fraud to your local police and contact us using our feedback form so steps can be taken for your safety. 
-
-
-
-#### GOOGLE ADS
-
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/pdfs/NAI_principles.pdf).
 
 * * * * * * * * * * * 
 
