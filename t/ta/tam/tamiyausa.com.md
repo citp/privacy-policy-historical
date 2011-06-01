@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tamiyausa.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122093314id_/http%3A//www.tamiyausa.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tamiyausa.com privacy policy that was archived on 2011-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110601224534id_/http%3A//www.tamiyausa.com/privacy.php) for the most accurate reproduction.*
 
 # TamiyaUSA.com Privacy Statement
 
@@ -6,14 +6,9 @@
 ---  
   
 ---  
-| 11/16 [Tamiya Fair Live U-Stream](http://www.tamiya.com/english/info/101115tamiya_fair/index.htm) |   
-| 11/14 [Holiday Gift Guide 2010](http://www.tamiyausa.com/product/xmas.php) |   
-| 11/6 [Building the CC-01 FJ40 **Updated**](https://web.archive.org/articles/feature.php?article-id=492) |   
-| 10/29 [Builder Showcase November](https://web.archive.org/articles/feature.php?article-id=479) |   
-| 10/29 [November Calendars](https://web.archive.org/product/stuff.php) |   
-| 10/22 [Tamiya Themed Paint Contest](https://web.archive.org/articles/feature.php?article-id=493) |   
+| 5/2 [Builder Showcase #67](https://web.archive.org/articles/feature.php?article-id=512) |   
 [More News...](https://web.archive.org/news/index.php) |   
-|  |   
+[](https://web.archive.org/articles/feature.php?article-id=3)[](https://web.archive.org/product/stuff.php)[](https://web.archive.org/product/category.php?sub-id=78500)[](https://web.archive.org/articles/feature.php?article-id=144)[](https://web.archive.org/dealers/index.php)[](https://web.archive.org/tcs/index.php) |  |   
 ---|---  
 |   
 | Privacy Statement  
