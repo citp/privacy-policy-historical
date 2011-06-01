@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the berryreporter.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225023246id_/http%3A//www.berryreporter.com/contact/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the berryreporter.com privacy policy that was archived on 2011-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110601215744id_/http%3A//www.berryreporter.com/contact/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Berry Reporter
 
