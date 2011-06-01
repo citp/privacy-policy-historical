@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the visionworkseyewear.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130161235id_/http%3A//www.visionworkseyewear.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visionworkseyewear.com privacy policy that was archived on 2011-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110601184840id_/http%3A//www.visionworkseyewear.com/privacypolicy) for the most accurate reproduction.*
 
-# Visionworks - Privacy Policy
+# Visionworks | Privacy Policy
 
 _(Updated October 16, 2007)_
 
@@ -56,7 +56,7 @@ Our Websites contains links to other websites that are not owned or controlled b
 
 ### Updates to this Online Privacy Policy
 
-This Online Privacy Policy supersedes and replaces all of our previous online privacy policies and statements. It does not supersede or replace our HIPAA Privacy Notice found at [http://www.ecca.com/legal/legal_hipaa.pdf](https://web.archive.org/web/20101130161235id_/http://www.visionworkseyewear.com/privacypolicy/legal_hipaa.pdf "HIPAA Privacy Notice"). Our HIPAA Privacy Notice addresses more specifically our privacy practices and a User's rights concerning any health information that we may receive or maintain concerning the User. 
+This Online Privacy Policy supersedes and replaces all of our previous online privacy policies and statements. It does not supersede or replace our HIPAA Privacy Notice found at [http://www.ecca.com/legal/legal_hipaa.pdf](https://web.archive.org/web/20110601184840id_/http://www.visionworkseyewear.com/privacypolicy/legal_hipaa.pdf "HIPAA Privacy Notice"). Our HIPAA Privacy Notice addresses more specifically our privacy practices and a User's rights concerning any health information that we may receive or maintain concerning the User. 
 
 From time to time, we may update this Online Privacy Policy. Notification of any such updates which contain any material changes will be posted on the homepage of our Websites. Users are encouraged to check our Websites periodically for any material changes to this Online Privacy Policy.
 
