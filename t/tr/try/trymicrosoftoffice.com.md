@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the trymicrosoftoffice.com privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202051812id_/http%3A//www2.buyoffice.microsoft.com/usa/privacy.aspx%3Fculture%3Den-US) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trymicrosoftoffice.com privacy policy that was archived on 2011-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110602003833id_/http%3A//www1.buyoffice.microsoft.com/usa/privacy.aspx%3Fculture%3Den-US) for the most accurate reproduction.*
 
-# Microsoft Office Online
+# 
 
 ** DIGITAL RIVER ONLINE PRIVACY POLICY**
 
@@ -26,7 +26,7 @@ This Privacy Policy does not apply to any Partner Website. WHEN YOU PROVIDE PERS
 
 ** This Privacy Policy is Part of Our Terms and Conditions**
 
-This Privacy Policy is incorporated by reference and is part of the Digital River Terms and Conditions (“Terms and Conditions”) governing your use of this Online Store. Our Terms and Conditions contain the terms on which you may purchase products and services through this Online Store. Please take a few minutes to review our [_Terms and Conditions_](http://www1.buyoffice.microsoft.com/usa/terms.aspx?cache=1123333162&culture=en-us), if you have not already done so.
+This Privacy Policy is incorporated by reference and is part of the Digital River Terms and Conditions (“Terms and Conditions”) governing your use of this Online Store. Our Terms and Conditions contain the terms on which you may purchase products and services through this Online Store. Please take a few minutes to review our [_Terms and Conditions_](http://www1.buyoffice.microsoft.com/usa/terms.aspx?cache=631743214&culture=en-us), if you have not already done so.
 
   **Privacy Notices**
 
