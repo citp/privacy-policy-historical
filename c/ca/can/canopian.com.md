@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canopian.com privacy policy that was archived on 2010-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101209071235id_/http%3A//www.canopian.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canopian.com privacy policy that was archived on 2011-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110602115452id_/http%3A//www.canopian.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Canopian Arcade
 
