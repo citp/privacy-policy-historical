@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the own-free-website.com privacy policy that was archived on 2010-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101018031746id_/http%3A//www.own-free-website.com/en/Privacy-Policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the own-free-website.com privacy policy that was archived on 2011-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110602160733id_/http%3A//www.own-free-website.com/en/Privacy-Policy.php) for the most accurate reproduction.*
 
 # Free Website - Hosting your Homepage for free
 
