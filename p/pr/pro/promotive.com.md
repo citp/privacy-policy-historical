@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the promotive.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522205609id_/http%3A//www.promotive.com/action/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the promotive.com privacy policy that was archived on 2011-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110602135654id_/http%3A//www.promotive.com/action/privacy) for the most accurate reproduction.*
 
 # ProMotive.com - Incentives for Insiders!
 
