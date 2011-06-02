@@ -1,20 +1,34 @@
-<!--The following is the downloaded HTML source of the enrollbusiness.com privacy policy that was archived on 2010-09-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100922235940id_/http%3A//www.enrollbusiness.com/Privacy-Policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the enrollbusiness.com privacy policy that was archived on 2011-06-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110602175908id_/http%3A//us.enrollbusiness.com/Privacy-Policy) for the most accurate reproduction.-->
 
-<html lang="en-US"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html lang="en-US"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<meta name="description" content="Frequently Asked Questions - EnrollBusiness">
 <link href="/Style/Main.css" rel="stylesheet" type="text/css">
 <!--[if IE]>
 	<link href="/Style/all-ie-only.css" rel="stylesheet" type="text/css" />
 <![endif]-->
-<link href="/Style/jquery-ui-1.8rc3.custom.css" rel="stylesheet" type="text/css">
-<link href="/Style/960.css" rel="stylesheet" type="text/css">
+<link href="/Style/jquery-ui.css" rel="stylesheet" type="text/css">
 <link rel="SHORTCUT ICON" href="/Images/EnrollBusiness.ico">
 
-<script type="text/javascript" src="/js/jquery-1.4.2.js"></script>
-<script type="text/javascript" src="/js/jquery-ui-1.8rc3.custom.min.js"></script>
-<script type="text/javascript" src="/js/Common.js"></script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-21409701-1']);
+  _gaq.push(['_setDomainName', '.enrollbusiness.com']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<script type="text/javascript" src="/js/jquery-1.5.min.js" charset="utf-8"></script>
+<script type="text/javascript" src="/js/jquery.ui.autocomplete.js" charset="utf-8"></script>
+<script type="text/javascript" src="/js/Common.js" charset="utf-8"></script>
 <title>EnrollBusiness - Privacy Policy</title>
 <meta name="google-site-verification" content="BBYq6iK7vTpQ0rQZDrKT6-7Ts8nCaU4t6Mdmt-fdG3Q">
 </head>
@@ -22,57 +36,75 @@
 <div id="header">
 	<div id="headerMiddle">
 		<div id="headerMiddleLeft">
-			<div style="margin:0px;padding:0px"><span id="spanEnroll">Enroll</span><span id="spanBusiness">Business</span></div>
-			<div style="margin:0px;padding:0px"><span id="punchLine">Expand your Business Horizons</span></div>
+			<a href="/Home"><img style="margin-top:5px;border:0px" src="/Images/EBLogo.png"></a>
 		</div>
 		<div id="headerMiddleRight" class="ui-corner-all">
-		 
-		<div class="HeaderLogIn">
-			<form action="#" method="post">				
-				<label>Email:</label><input type="text" name="txtUserName" maxlength="60">
-				<label>Password:</label><input type="password" name="txtPassword" maxlength="50">				
-				<input class="button" type="submit" value="Login" name="LogIn">
+				<div class="HeaderLogIn">
+			<form action="#" method="post">
+				<label>Email:</label><input title="Enter Email Address. Your Email Address is your LoginID" type="text" name="txtUserName" maxlength="60">
+				<label>Password:</label><input type="password" name="txtPassword" maxlength="50">
+				<input class="button" type="submit" value="Login" title="Already Registered Users only" name="LogIn">
 				<a href="/Reset-Password">Forgot Password?</a>
-								
-			</form>
+							</form>
 		</div>
-		<div>
-			<input type="button" class="button" value="Register" id="btnRegisterUser">
+		<div style="margin:9px 0px 0px 0px;padding:0px">
+			<a id="btnRegisterUser" href="/RegisterUser" title="Click here to Register New User.">Register New User</a>
 		</div>
 				</div>
 	</div>
 </div>
 <div id="spacer"></div>
+<div id="OuterContainer">
 <div id="MainNavAndSearchContainer">
 	<div id="MainNav">
-		
+
 			<ul>
 				<li style="border-left:0px solid #bbb;"><a href="/Home">Home</a></li>
-								
+				
 				<li><a href="/CreateBusinessProfile">Create Business Profile</a></li>
-				<li><a href="/Business-Profiles">Browse Business Profiles</a></li>			
+				<li><a href="/Business-Profiles">Browse Business Profiles</a></li>
 			</ul>
-		
+
 	</div>
 	<div id="SearchContainer" class="ui-corner-all">
 		<form action="/Search-Business-Profiles" method="post">
-			<label>What do you want?</label>
-			<input type="text" id="txtSearchWhat" size="28" name="txtSearchWhat" value="">
-			<label>Where do you want?</label>
-			<input type="text" id="txtSearchWhere" name="txtSearchWhere" size="28" value="">
-			<input type="submit" class="ui-corner-all ButtonHighlight" value="Search Business" id="btnSearchBusinesses" name="btnSearchBusinesses">
+			<div style="float:left;width:33%">
+			<label>What are you looking for ?</label><br>
+			<input type="text" id="txtSearchWhat" class="SearchTextBoxes" size="28" name="txtSearchWhat" value="">
+			</div>
+			<div style="float:left;width:33%">
+				<label>Where in </label><label id="lblCountrySearch">USA</label>?<br>
+				<input type="text" id="txtSearchWhere" class="SearchTextBoxes" size="28" name="txtSearchWhere" value="">
+			</div>
+			<div style="float:left;width:9%;padding-top:18px;text-align:left">
+				<input type="button" class="ButtonHighlight" value="Search" id="btnSearchBusinesses" name="btnSearchBusinesses">
+				
+			</div>
+			<div class="SearchCountryContainer">
+				<label>Change Country</label><br>
+				<div id="divCountryDropDown">
+					<div class="ContainerTextAndImage">
+						<div class="ImageContainer"><img id="imgCountryFlag" src="/Images/us.png"></div>
+						<div class="TextContainer" id="divSearchCountryName">USA</div>
+					</div>
+					<div class="DropDownArrow"><img id="imgCloseCountryPopup" src="/Images/ArrowDropDown.png"></div>
+				</div>
+            <input type="hidden" id="hiddencid" value="2">
+			</div>
+			<div class="clear">&nbsp;</div>
 		</form>
 	</div>
 </div>
 <div id="clear"></div>
+
 <!-- end #header -->
 
 <div id="container">
 	<div class="container_12">
-		<div id="titleContainer" class="grid_12">
+		<div id="titleContainer">
 			<h1>Privacy Policy</h1>		
 		</div>
-		<div class="grid_2" id="LeftNavForAbout">
+		<div id="LeftNavForAbout">
 			<ul>
 				<li><a href="/About-Us">About Us</a></li>
 				<li><a href="/FAQ">FAQs</a></li>
@@ -80,7 +112,7 @@
 				<li><a href="/Terms-Of-Service">Terms of Service</a></li>
 			</ul>
 		</div>
-		<div class="grid_9" id="AboutContent" style="font-size:0.8em">
+		<div id="AboutContent">
 			<h4>We value your Privacy</h4>
 			<p>
 				At Enrollbusiness.com we recognize the importance of your privacy.
@@ -120,25 +152,149 @@
 		<div class="clear">&nbsp;</div>
 	</div>
 	
-	<div class="clear">&nbsp;</div>		
-	<div id="footer">
-	
-	<p id="FooterLinksContainer">
-	<a href="/About-US">About</a> | 
-	<a href="/Contact-Us">Contact Us</a> | 
-	<a href="/FAQ">FAQs</a> | 
-	<a href="/Privacy-Policy">Privacy Policy</a> | 
-	<a href="/Terms-Of-Service">Terms of Service</a> | 
-	<a href="/Business-Profiles">Sitemap</a>
-	
-	
-	</p>
-	<p style="clear:both">@Copyright 2009, All rights reserved by EnrollBusiness</p>
-	</div>
-	<!-- end #footer -->
 
+	<div class="clear">&nbsp;</div>
+	<div id="footer">
+
+	<p id="FooterLinksContainer">
+	<a href="/About-US">About</a> |
+	<a href="/Contact-Us">Contact Us</a> |
+	<a href="/FAQ">FAQs</a> |
+	<a href="/Privacy-Policy">Privacy Policy</a> |
+	<a href="/Terms-Of-Service">Terms of Service</a> |
+	<a href="/Business-Profiles">Sitemap</a>
+	</p>
+		<p style="clear:both">@Copyright 2011, All rights reserved by EnrollBusiness</p>	
+	</div>	
+	<!-- end #footer -->	
 </div>
 <!-- end #container -->
-
+<div class="clear">&nbsp;</div>
+</div>
+<div id="divCountryListPopup">
+			<ul>
+					<li>
+				<a href="http://AU.EnrollBusiness.com" id="linkCountry4" onclick="SelectCountry(4)">
+									<div class="ImageContainer">
+											<img src="/Images/au.png">
+											</div>
+					<div class="TextContainer">
+					Australia					</div>
+				</a>
+			</li>
+						<li>
+				<a href="http://CA.EnrollBusiness.com" id="linkCountry6" onclick="SelectCountry(6)">
+									<div class="ImageContainer">
+											<img src="/Images/ca.png">
+											</div>
+					<div class="TextContainer">
+					Canada					</div>
+				</a>
+			</li>
+						<li>
+				<a href="http://CN.EnrollBusiness.com" id="linkCountry3" onclick="SelectCountry(3)">
+									<div class="ImageContainer">
+											<img src="/Images/cn.png">
+											</div>
+					<div class="TextContainer">
+					China					</div>
+				</a>
+			</li>
+						<li>
+				<a href="http://DE.EnrollBusiness.com" id="linkCountry5" onclick="SelectCountry(5)">
+									<div class="ImageContainer">
+											<img src="/Images/de.png">
+											</div>
+					<div class="TextContainer">
+					Germany					</div>
+				</a>
+			</li>
+						<li>
+				<a href="http://HK.EnrollBusiness.com" id="linkCountry12" onclick="SelectCountry(12)">
+									<div class="ImageContainer">
+											<img src="/Images/hk.png">
+											</div>
+					<div class="TextContainer">
+					Hong Kong					</div>
+				</a>
+			</li>
+						<li>
+				<a href="http://IN.EnrollBusiness.com" id="linkCountry1" onclick="SelectCountry(1)">
+									<div class="ImageContainer">
+											<img src="/Images/in.png">
+											</div>
+					<div class="TextContainer">
+					India					</div>
+				</a>
+			</li>
+						<li>
+				<a href="http://PH.EnrollBusiness.com" id="linkCountry8" onclick="SelectCountry(8)">
+									<div class="ImageContainer">
+											<img src="/Images/ph.png">
+											</div>
+					<div class="TextContainer">
+					Philippines					</div>
+				</a>
+			</li>
+						<li>
+				<a href="http://RU.EnrollBusiness.com" id="linkCountry9" onclick="SelectCountry(9)">
+									<div class="ImageContainer">
+											<img src="/Images/ru.png">
+											</div>
+					<div class="TextContainer">
+					Russian Federation					</div>
+				</a>
+			</li>
+						<li>
+				<a href="http://ZA.EnrollBusiness.com" id="linkCountry15" onclick="SelectCountry(15)">
+									<div class="ImageContainer">
+											<img src="/Images/za.png">
+											</div>
+					<div class="TextContainer">
+					South Africa					</div>
+				</a>
+			</li>
+						<li>
+				<a href="http://KR.EnrollBusiness.com" id="linkCountry11" onclick="SelectCountry(11)">
+									<div class="ImageContainer">
+											<img src="/Images/kr.png">
+											</div>
+					<div class="TextContainer">
+					South Korea					</div>
+				</a>
+			</li>
+						<li>
+				<a href="http://ES.EnrollBusiness.com" id="linkCountry10" onclick="SelectCountry(10)">
+									<div class="ImageContainer">
+											<img src="/Images/es.png">
+											</div>
+					<div class="TextContainer">
+					Spain					</div>
+				</a>
+			</li>
+						<li>
+				<a href="http://GB.EnrollBusiness.com" id="linkCountry14" onclick="SelectCountry(14)">
+									<div class="ImageContainer">
+											<img src="/Images/gb.png">
+											</div>
+					<div class="TextContainer">
+					United Kingdom					</div>
+				</a>
+			</li>
+						<li>
+				<a href="http://US.EnrollBusiness.com" id="linkCountry2" onclick="SelectCountry(2)">
+									<div class="ImageContainer">
+											<img src="/Images/us.png">
+											</div>
+					<div class="TextContainer">
+					USA					</div>
+				</a>
+			</li>
+					</ul>
+	</div>
+<div id="ToolTipPopupContainer">
+<span id="ToolTipArrowContainer">&nbsp;</span>
+<span id="ToolTipPopup"></span>
+</div>
 
 </body></html>
