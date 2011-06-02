@@ -1,100 +1,85 @@
-> *The following text is extracted and transformed from the elluminate.com privacy policy that was archived on 2010-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101002001306id_/http%3A//www.elluminate.com/Other/Privacy_Policy/%3Fid%3D10) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elluminate.com privacy policy that was archived on 2011-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110602152955id_/http%3A//www.elluminate.com/Other/Privacy_Policy/%3Fid%3D10) for the most accurate reproduction.*
 
-# Privacy Policy :: Elluminate
+# Blackboard Privacy Policy
 
-At Elluminate, we are committed to maintaining the privacy, accuracy and security of your personal information. We have developed this Privacy Policy to describe our privacy policies and practices and how we collect, use and disclose the personal information of those individuals who visit our website. This policy applies to Elluminate USA, Inc., Elluminate, Inc. and our subsidiaries and affiliates ("Elluminate").
+## **Blackboard Privacy Statement**
 
-It is our policy to comply with the privacy legislation within each jurisdiction in which we operate. Sometimes the privacy legislation and / or an individual's right to privacy are different from one jurisdiction to another jurisdiction. If you are unsure if or how this Privacy Policy applies to you, please contact our Privacy Officer for more information.
+The following privacy policy applies to personal data collected at the [www.blackboard.com](http://www.blackboard.com/) or Behind the Blackboard™ (behind.blackboard.com) websites, and data collected for the Blackboard Sync™, Scholar® by Blackboard and SafeAssign™ offerings (collectively, the "Services").  Blackboard Inc. and its affiliates (collectively "Blackboard") are committed to protecting the privacy of its users. Because Blackboard gathers certain types of information about the users of the Services, we believe you should fully understand the terms and conditions surrounding the use of the information we collect. The following discloses our information gathering and dissemination practices for the Services.  If you are using any of the Services through an educational or other institution that is a customer of Blackboard, this policy does not supersede the terms of any agreements between Blackboard and any other party, nor does it affect the terms of any agreement between any user of the Services and their employer, their educational institution or any third party.  Please make sure that you read the terms of any privacy policies that you enter into with parties other than Blackboard, including your employer or educational institution, as those policies may also explain how your personal information is used by those parties.
 
-## What is Personal Information
+Please review the following statement to understand how the information you provide to Blackboard through the Services will be treated.
 
-For the purposes of this Privacy Policy, personal information is any information about an identifiable individual, other than the person's business title or business contact information when used or disclosed for the purpose of business communications.
+**1\. Information Blackboard collects.**
 
-## What Personal Information Do We Collect?
+You are free to utilize the Services without identifying yourself; however, if you would like to utilize or customize some features of the Services, you must first register with Blackboard. When you register, we will request certain personal information, including, but not limited to, contact information, such as your name, city and state, and e-mail address as well as demographic information such as your age, gender and interests. This information better enables us to provide you with content relevant to your interests and provides us with aggregate data that Blackboard uses to improve the Services.  We may also ask you for information about your system or how you use Blackboard products and services.  Please see Section 5, below, for information on how to access or update this information.
 
-You can visit our website without telling us who you are or revealing any information about yourself, including your email address. Our web server may collect information related to your visit to our website, including the IP address and domain used to access our website, the type and version of your browser, the website you came from to access our website, the page you entered and exited at, any page that is viewed by that IP address and what country you are from. We use this information to monitor the performance of our website and on-line services (such as number of visits, average time spent, page views) and for our business purposes such as working to continually upgrade our website and services.
+Blackboard gathers information about all users collectively, such as what areas users visit most frequently and what services users access most often. Blackboard automatically logs IP addresses, session sources, and other data which tracks users' access to the Services. We analyze these logs for sales and marketing purposes as well as system performance monitoring. These logs are analyzed for the aggregate trends they reveal about our customers and how the customers use the Services, not for the behaviors of individual users.
 
-In addition, we may collect personal information (such as your name, email address, company, title, organization type and, where applicable, payment details) when you fill out a form on our website (e.g. to sign up for our email list; register with for a live demonstration; register for a live event; attend a session), when you use our _My Elluminate facility_ , when you use the 'contact us' portion of the website, when you register to use, or are registered by an organization to enable you to use, our services.
+**2\. Purposes of Data Collection**
 
-Where you request information from us, we may use the email address that you provide to send you information about offers on products and services that we believe may be of interest to you. If you have asked us to put you on an email mailing list to provide you with certain information on a regular basis, or if we send you information about our offers on products and services by email, you may ask us to remove you from the list at any time (using the unsubscribe instructions provided with each email).
+Blackboard requests personal information for purposes such as the provision of customer service and support, billing, network management, customer surveys, sales management, support, newsletter subscriptions, user group memberships, event registration and sponsorship, offers of related services, and other exchanges of information.
 
-## How Do We Use Cookies?
+**3\. What Blackboard does with the information it collects.**
 
-When you visit the website, we place a "cookie" on the hard drive of your computer to track your visit. A cookie is a small data file that is transferred to your hard drive through your web browser that can only be read by the website that placed the cookie on your hard drive. The cookie acts as an identification card and allows our website to identify you and to record your passwords and preferences. The cookie allows us to track your visit to the website so that we can better understand your use of our website so that we can customize and tailor the website to better meet your needs.
+Blackboard makes chat rooms, forums, message boards, and/or news groups available in certain areas of the Services. Please remember that any information that is disclosed in these areas becomes public information, and you should exercise caution when deciding to disclose your personal information.
 
-Most web browsers are set to accept cookies. However, on most web browsers you may change this setting to have your web browser either: (1) notify you prior to a website placing a cookie on your hard drive so that you can decide whether or not to accept the cookie; or (2) automatically prevent the placing of a cookie on your hard drive. It should be noted that if cookies are not accepted, you will not be able to access a number of web pages found on the website.
+The personal information you supply to Blackboard will not be given, sold, rented, loaned, or otherwise disclosed to any third parties outside of Blackboard and its agents, except when we have your permission or under special circumstances, such as when we believe in good faith that disclosure is reasonably necessary to (i) comply with legal process, (ii) enforce the Terms of Use, (iii) respond to claims that any content provided by using the Services violates the rights of third parties, or (iv) protect the rights, property, or personal safety of Blackboard, its users, or the public.
 
-## What about Links to Other Websites?
+Blackboard may use aggregated personal information to determine the demographic composition of our user base and to distribute statistics and general marketplace information about Blackboard. This aggregate information does not identify specific users.
 
-Our website may contain links to other websites that may be subject to less stringent privacy standards. We cannot assume any responsibility for the privacy practices, policies or actions of the third parties that operate these websites. Elluminate is not responsible for how such third parties collect, use or disclose your personal information. You should review the privacy policies of these websites before providing them with personal information.
+Certain non-personal information regarding users is recorded by the standard operation of the Internet servers hosting the Services. This information is primarily used to provide users of the Services with an enhanced online experience. Blackboard may disclose aggregated user statistics in order to describe the Services to prospective partners, advertisers, and other third parties, and for other lawful purposes.
 
-## Why Do We Collect, Use, and Disclose Personal Information?
+Some features of the Services may be offered in conjunction with a partner company. In order to provide these features, it may be necessary for either you or us to share your personal information with this company. If you do not want your information to be shared, you can choose not to allow the transfer by not using that particular feature. Also, please be aware that advertisers or Web sites that are linked to the Services may collect personally identifiable information about you. The information practices of those Web sites linked to the Services are not covered by this Privacy Policy and Blackboard is not responsible for the privacy practices or the content of such Web sites.
 
-The personal information collected is used and disclosed for our business purposes, including:
+Blackboard utilizes other companies to provide limited services on its behalf, including but not limited to customer support, web analytics, coordination of mailings and event management.  These companies are permitted to access only the information they require to perform those services. Blackboard requires these companies to maintain the confidentiality of any personal information and prohibits them from using the information for any other purpose than the purpose for which it was collected
 
-  * to establish, maintain and manage our relationship with you;
-  * to be able to review and improve the products and services that we provide to you;
-  * to be able to comply with your requests;
-  * to protect us against error, fraud, theft and damage to our goods and property;
-  * to enable us to comply with applicable law or regulatory requirements ; and
-  * any other reasonable purpose to which you consent.
+**4\. User Options -- Opt-Out**
 
+Users may opt out of receiving future promotional electronic mailings from Blackboard by following the unsubscribe procedures indicated in the mailing.  Individual end users of Blackboard software should contact their educational institution or other organization hosting the software for questions about access to the personal information collected by that institution.  Please contact us at the address below if you have other questions about the information you receive from us or the information that we collect from you.
 
+**5\. Access to Your Information**
 
-Your personal information may be shared with our employees, contractors, consultants, affiliates and other parties who require such information to assist us with establishing, maintaining and managing our relationship with you. In addition, your personal information may be disclosed or transferred to another party in the event of a change in ownership of, or a grant of a security interest in, all or a part of Elluminate.
+Blackboard offers users the ability to correct or change the information collected during registration. Users may change this information at any time and as often as necessary by choosing the "edit personal information" option or other similar functionality offered in the Services.  To access or change your personal information, log in to your account through the Services.  For data not available through such an account, please contact us at the address listed below.
 
-Further, your personal information may be disclosed:
+**6\. Security**
 
-  * as permitted or required by applicable law or regulatory requirements;
-  * to protect the rights and property of Elluminate;
-  * during emergency situations or where necessary to protect the safety of a person or group of persons;
-  * where the personal information is publicly available; or
-  * with your consent.
+All of your personal information is stored on servers at a location designed specifically to ensure that no unauthorized individuals have access to the server or its data. 
 
+**7\. European Union Data Protection**
 
+If you reside in the European Union, upon registration you will be indicating your explicit consent that the personal information you have provided may be transferred and stored in countries outside the EU, including the United States. If you fail to provide your consent, you will not be permitted to access the Services for which registration is required. Blackboard abides by the safe harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union.  
+In order to comply with the European Union’s Safe Harbor Principles, Blackboard commits to the resolution of complaints about your privacy and our collection or use of your personal information.  We have committed to resolve any complaints by European Union citizens relating to this policy, which cannot be resolved directly with our company, through the EU Safe Harbor Dispute Resolution Procedure administered by the Council of Better Business Bureaus, Inc.
 
-We may collect, use or disclose your personal information without your knowledge or consent where we are permitted or required by applicable law or regulatory requirements to do so.
+If you have any questions regarding this policy, please contact:
 
-## Your Consent is Important to Us
+Barbara Lee  
+Blackboard Inc.  
+650 Massachusetts Avenue NW  
+6th Floor  
+Washington, DC  20001-3796  
+Phone: 202-463-4860
 
-By using our website, we assume that you have consented to the collection, use and disclosure of your personal information as explained in this Privacy Policy.
+If you do not receive acknowledgement of your complaint or your complaint is not satisfactorily addressed by Blackboard Inc., you should then contact:
 
-You may change or withdraw your consent at any time, subject to legal or contractual restrictions and reasonable notice, by contacting our Privacy Officer using the contact information set out below. In some circumstances, a change in or withdrawal of consent may severely limit our ability to provide products or services to you. All communications with respect to such withdrawal or variation of consent should be in writing and addressed to our Privacy Officer.
+Council of Better Business Bureaus, Inc.  
+EU Safe Harbor Dispute Resolution Procedure  
+4200 Wilson Boulevard, Suite 800  
+Arlington, VA  22203  
+Phone: 703-276-0100  
+Web: [www.us.bbb.org](http://www.us.bbb.org/)  
+Email: [eusafeharbor@council.bbb.org](mailto:eusafeharbor@council.bbb.org)
 
-We assume that, unless you advise us otherwise, that you have consented to the collection, use and disclosure of your personal information as explained in this Privacy Policy.
+**8\. Blackboard Privacy Policy Statement Changes**
 
-## How is Your Personal Information Protected?
+If Blackboard changes this privacy statement, we will post those changes at [www.blackboard.com/company/privacy.aspx](http://www.blackboard.com/company/privacy.aspx), so that you will always know what information we gather, how we might use that information, and whether we will disclose it to anyone. By using the Services, you signify your assent to the Blackboard Privacy Policy Statement. If you do not agree to this statement, please do not use the Services. Your continued use of the Services following the posting of changes to these terms will mean you accept those changes.
 
-Elluminate endeavors to maintain physical, technical and procedural safeguards that are appropriate to the sensitivity of the personal information in question. These safeguards are designed to prevent your personal information from loss and unauthorized access, copying, use, modification or disclosure.
+**9\. Contact Blackboard**
 
-Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while this website strives to protect your personal information, we cannot warrant the confidentiality or security of any information you transmit to us, and you do so at your own risk.
+If you have any questions about this privacy statement, the information that we collect from you, or the Services, please contact us at [privacy@blackboard.com](mailto:privacy@blackboard.com) or write to:
 
-## Updating Your Personal Information
+Legal Department  
+Blackboard Inc.  
+650 Massachusetts Ave., NW  
+6th Floor  
+Washington, D.C 20001
 
-It is important that the information contained in our records is both accurate and current. If your personal information happens to change during the course of our relationship, please keep us informed of such changes.
-
-In some circumstances we may not agree with your request to change your personal information and will instead append an alternative text to the record in question.
-
-## Access to Your Personal Information
-
-You can ask to see the personal information that we hold about you. If you want to review, verify or correct your personal information, please contact our Privacy Officer using the contact information set out below. Please note that any such communication must be in writing.
-
-When requesting access to your personal information, please note that we may request specific information from you to enable us to confirm your identity and right to access, as well as to search for and provide you with the personal information that we hold about you. We may charge you a fee to access your personal information; however, we will advise you of any fee in advance. If you require assistance in preparing your request, please contact our Privacy Officer.
-
-Your right to access the personal information that we hold about you is not absolute. There are instances where applicable law or regulatory requirements allow or require us to refuse to provide some or all of the personal information that we hold about you. In addition, the personal information may have been destroyed, erased or made anonymous in accordance with our record retention obligations and practices.
-
-In the event that we cannot provide you with access to your personal information, we will endeavour to inform you of the reasons why, subject to any legal or regulatory restrictions.
-
-## Inquiries or Concerns?
-
-If you have any questions or concerns about our privacy policies please contact:
-
-Elluminate from time to time, may make changes to this Privacy Policy to reflect changes in its legal or regulatory obligations or in the manner in which we deal with your personal information. We will post any revised version of this Privacy Policy on our website and we encourage you to refer back to it on a regular basis. This Privacy Policy was last updated in December, 2007.
-
-## Interpretation of This Privacy Policy
-
-Any interpretation associated with this Privacy Policy will be made by our Privacy Officer. This Privacy Policy includes examples but is not intended to be restricted in its application to such examples, therefore where the word 'including' is used, it shall mean 'including without limitation'.
-
-This Privacy Policy does not create or confer upon any individual any rights, or impose upon Elluminate any rights or obligations outside of, or in addition to, any rights or obligations imposed by applicable laws. Should there be, in a specific case, any inconsistency between this Privacy Policy and such laws, this Privacy Policy shall be interpreted, in respect of that case, to give effect to, and comply with, such laws.
-
-DMSLegal/52523/0001/ 2759402v2
+In the event that you are concerned about how data you have provided Blackboard through the Services has been used, please contact us at one of the addresses listed above. Blackboard takes all concerns about privacy and use of data very seriously, and shall endeavor to reply to you within two business days to commence its investigation of your concerns. 
