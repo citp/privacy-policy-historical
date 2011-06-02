@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the broadcastnow.co.uk privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201160938id_/http%3A//www.broadcastnow.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the broadcastnow.co.uk privacy policy that was archived on 2011-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110602134240id_/http%3A//www.broadcastnow.co.uk/privacy) for the most accurate reproduction.*
 
 # 
 
@@ -28,13 +28,15 @@ Finally, Emap is not responsible for all of the web sites that are referred to, 
 
 Please note that countries outside the EEA may not have the same level of protection as countries within the EEA, but We always demand that those parties to whom We transfer data adhere to the same security procedures that We follow ourselves. By submitting your personal information, you consent to such processing and transfers in connection with such orders, offers or services and for any other purposes to which you consent at the time you provide the information.
 
-## The Use Of 'Cookies'
+## IP Addresses and Cookies
 
-In order to enable us to provide you with a personalised browsing experience, this site uses 'cookie' information collection technology. "Cookies" are small pieces of information that are issued to your computer when you enter a website. Cookies are stored by your browser on your computer's hard drive, and they can be used for a wide range of purposes, such as identifying your computer's previous visits to this website, and to ascertain the most popular features of this website. 
+We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users’ browsing actions and patterns, and does not identify any individual.
 
-Why Do We Use Cookies? Like many other websites, this website uses cookies as they enable Broadcast to identify your computer when you visit this website. For example, cookies make it possible for us to identify and automatically log in registered users of certain services on this website without the need for us to ask users for their registration details and password each time they visit. We also use cookies to develop a clearer picture of which parts of this website are the most popular to its visitors, and your preferences. You are not obliged to accept cookies and you may amend your browser's settings to prevent it from accepting cookies. **[Click here](http://www.aboutcookies.org/)** for instructions on how to disable cookies. 
+For the same reason, we may obtain information about your general internet usage by using a cookie file which is stored on the hard drive of your computer or other internet-enabled device. Cookies contain information that is transferred to your computer’s hard drive. They help us to improve our site and to deliver a better and more personalised service. They enable us to estimate our audience size and usage pattern; to store information about your preferences, and so allow us to customise our site according to your individual interests; to recognise you when you return to our site.
 
-Please be aware that if you do disable cookies, certain services on this website may not be available to you and your enjoyment of this website may be impaired.
+You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of our site. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to our site.
+
+Please note that our advertisers may also use cookies, over which we have no control.
 
 ## Feedback, Comments & Suggestions
 
