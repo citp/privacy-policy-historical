@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tamaracinc.com privacy policy that was archived on 2010-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100408021550id_/http%3A//www.tamaracinc.com/Privacy-Policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tamaracinc.com privacy policy that was archived on 2011-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110602175330id_/http%3A//tamaracinc.com/Public/Privacy.aspx) for the most accurate reproduction.*
 
-# Tamarac Inc. | Privacy Policy
+# Tamarac - Privacy Policy
 
 _Tamarac Inc. ("Tamarac") has created this privacy policy to demonstrate our commitment to privacy._
 
