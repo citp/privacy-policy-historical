@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usertesting.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227093042id_/http%3A//www.usertesting.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usertesting.com privacy policy that was archived on 2011-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110602042029id_/http%3A//www.usertesting.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # UserTesting.com Privacy Policy
 
@@ -16,6 +16,8 @@ Anyone using UserTesting.com warrants and promises that they are 13 years of age
 
 UserTesting.com may disclose to authorized law enforcement personnel the personal data from anyone who poses a threat. This might include those that are attempting to commit fraud or those who conduct activities that could bring harm to others. We assume that this is not you so please don't worry.
 
+All results you receive from UserTesting.com are private. You, of course, have the freedom to share them with others (if you'd like, you may share your videos under the [Creative Commons license](http://creativecommons.org/licenses/by/3.0/))
+
 UserTesting.com has a sophisticated security program intended to keep the information stored in our system protected from unauthorized access. We store your information in a secure data center located in the United States. Our system is configured with data encryption, or scrambling technologies and firewalls constructed to the highest industry standards. We also use Secure Socket Layer (SSL) technology that protects the data you send over the Internet. The bottom line is, when it comes to information security, we mean business.
 
 When you visit UserTesting.com we may store information about your web session and assign you one or more 'cookies'. Your browser will store these cookies on your computer in a small text file. For example, when you decide to login as a UserTesting.com member, we store encrypted information in your browser so you don't have to login on every page.
@@ -28,6 +30,6 @@ UserTesting.com reserves the right to modify this privacy statement at any time.
 
 Videos and reviews that are done for your company will be kept confidential. Any samples that appear on our site weren't paid for.
 
-If you have questions about our privacy policy, please [contact us](https://web.archive.org/web/20101227093042id_/http%3A//www.usertesting.com/contactus.aspx). 
+If you have questions about our privacy policy, please [contact us](https://web.archive.org/web/20110602042029id_/http%3A//www.usertesting.com/contactus.aspx). 
 
 **Last updated: Monday, March 8, 2010.**
