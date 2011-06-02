@@ -1,41 +1,58 @@
-> *The following text is extracted and transformed from the vision6.com.au privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120195040id_/http%3A//www.vision6.com.au/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vision6.com.au privacy policy that was archived on 2011-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110602065145id_/http%3A//www.vision6.com.au/about-us/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy — Vision 6 — SMS and Email Marketing Software
+# Privacy Policy | Email Marketing, Social Marketing and SMS Marketing | Vision6
 
-Security, Privacy and Compliance
+### How we collect and use personal information
 
-As part of the Member registration process, we collect personal information and assign a username and password to each Member. We may additionally collect web site visitors' contact information (like their e-mail addresses). Unless you object, this information may be used: 
+As part of the member registration process, Vision6 (we, us, our) collect personal information and assign a username and password to each member. We may additionally collect website visitors' contact information (like their email addresses).
 
-  * to send news, information about our activities and general promotional material which we believe may be useful to you; 
-  * to monitor who is accessing the web site or using services offered on the web site; and 
-  * to profile the type of people accessing the web site. 
+Unless you object, this information may be used to: 
+
+  * Send news, information about our activities and general promotional material which we believe may be useful to you
+  * Monitor who is accessing our website [**www.vision6.com.au**](http://www.vision6.com.au/) or using services offered on the site
+  * Profile the type of people accessing our website.
+  
+
+If you do not wish to have your personal information used in this manner or for any other specific purpose, (other than information required to use the Member Services) please [**contact us**](https://web.archive.org/contact-us).
+
+We will preserve the content of any email you send us if we believe we have the legal requirement to do so.
+
+We may monitor your email message content for trouble-shooting, maintenance purposes, or if any form of email abuse is suspected.
+
+Personal information we collect may be used for analysis, however in such circumstances we would ensure that individuals would remain anonymous. All personal information we collect (including your contact details and, if relevant, credit card details) is kept confidential to the best of our ability.
+
+Although we take security very seriously and do our utmost to protect your information, we cannot guarantee the security of your details. 
+
+### Cookies
+
+****We use cookies that enable us to monitor traffic patterns and to serve you more efficiently. A cookie does not identify you personally but it does identify your computer. You can set your browser to notify you when you receive a cookie. This will provide you with an opportunity to either accept or reject it in each instance.
+
+###  Disclosing your personal information
+
+****We will not sell or otherwise provide your personal information to a third party (unless compelled by law), or make any other use of your personal information, for any purpose which is not incidental to your use of this website. For the removal of doubt, personal information will not be used for any purpose that a reasonable person in your position would not expect.
+
+If you request us not to use personal information in a particular manner or at all, we will adopt all reasonable measures to observe your request.
+
+We may still use or disclose that information if we: 
+
+  * Subsequently notify you of the intended use or disclosure and you do not object to that use or disclosure;
+  * Believe that the use or disclosure is reasonably necessary to assist a law enforcement agency or an agency responsible for government or public security in the performance of their functions
+  * Are required by law to disclose the information.
 
 
 
-If you do not wish to have your personal information used in this manner or for any other specific purpose, apart from necessary information required to use the Member Services, you can e-mail us accordingly.
+### Under 18's
 
-We utilise cookies which enable us to monitor traffic patterns and to serve you more efficiently if you revisit the site. A cookie does not identify you personally but it does identify your computer. You can set your browser to notify you when you receive a cookie and this will provide you with an opportunity to either accept or reject it in each instance.
+****We consider it to be a parent's responsibility to monitor their children's use of our website. Nevertheless, it is our policy not to request personal information from persons known to be under the age of 18 years. Nor do we offer to send any promotional material to persons in that category.
 
-We will not sell or otherwise provide your personal information to a third party (unless compelled by law), or make any other use of your personal information, for any purpose which is not incidental to your use of this web site. For the removal of doubt, personal information will not be used for any purpose which a reasonable person in your position would not expect.
+###  Accessing your personal information
 
-If you request us not to use personal information in a particular manner or at all, we will adopt all reasonable measures to observe your request but we may still use or disclose that information if: 
+****You are entitled to access any of your personal information you previously supplied to us over this website. You are entitled to edit or delete such information unless we are required by law to retain it.
 
-  * we subsequently notify you of the intended use or disclosure and you do not object to that use or disclosure; 
-  * we believe that the use or disclosure is reasonably necessary to assist a law enforcement agency or an agency responsible for government or public security in the performance of their functions; or 
-  * we are required by law to disclose the information. 
+###  Vision6 Privacy Policy changes
 
+****Vision6 reserve the right to make any changes to our Privacy Policy. Any changes made will be updated on this website. It is your responsibility to check our Privacy Policy from time to time to ensure you are aware of any changes.
 
+### Enquiries
 
-We will preserve the content of any e-mail you send us if we believe we have the legal requirement to do so.
-
-Your e-mail message content may be monitored by us for trouble-shooting or maintenance purposes or if any form of e-mail abuse is suspected.
-
-Personal information which we collect may be aggregated for analysis but in such circumstances we would ensure that individuals would remain anonymous.
-
-All personal information which we collect (including your contact details and, if relevant, credit card details) is kept confidential to the best of our ability. You will appreciate, however, that we cannot guarantee the security of transmission.
-
-We consider it is the responsibility of parents to monitor their children's use of our web site. Nevertheless it is our policy not to require personal information from persons known to be under the age of 18 years or offer to send any promotional material to persons in that category.
-
-You are entitled to have access to any personal information relating to you which you have previously supplied to us over this web site. You are entitled to edit or delete such information unless we are required by law to retain it.
-
-If you wish to comment on or query our privacy policy, or if you wish to make an enquiry regarding any personal information relating to you which may be in our possession, please [contact us](https://web.archive.org/web/20101120195040id_/http%3A//www.vision6.com.au/enquiries.html) or phone +61 7 3257 3906 
+****If you wish to comment on or query our Privacy Policy, or would like to enquire about any personal information relating to you which may be in our possession, please[ **contact us**](https://web.archive.org/contact-us) or phone +61 7 3257 3906.
