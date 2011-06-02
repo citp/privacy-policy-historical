@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthwarehouse.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231053747id_/http%3A//www.healthwarehouse.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthwarehouse.com privacy policy that was archived on 2011-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110602135005id_/http%3A//www.healthwarehouse.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy - HealthWarehouse.com
 
@@ -22,3 +22,9 @@ Your privacy is very important to us. Accordingly, we have developed this Policy
 
 
 We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained. 
+
+### Recently Viewed
+
+[ ](http://www.healthwarehouse.com/pramipexole-dihydrochloride-1mg-tablets.html "Pramipexole 1mg Tablets")
+
+ 
