@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the midplay.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227103716id_/http%3A//www.midplay.com/index.php%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the midplay.com privacy policy that was archived on 2011-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110602094150id_/http%3A//www.midplay.com/index.php%3Faction%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy - Play Online Games - Play Free Games Online - Midplay.com!
 
