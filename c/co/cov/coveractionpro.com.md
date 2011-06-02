@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coveractionpro.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227025742id_/http%3A//www.coveractionpro.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coveractionpro.com privacy policy that was archived on 2011-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110602102919id_/http%3A//www.coveractionpro.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Cover Action Pro - Privacy Policy
 
@@ -60,8 +60,8 @@ This policy was last modified on 08.20.09
 **Contacting Us**  
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
-www.CoverActionPro.com  
-2251 N. Rampart #132  
-Las Vegas, Nevada 89129 USA  
+CoverActionPro.com  
+2575 Campus Drive #336  
+Klamath Falls, OR 97601 USA  
 info@coveractionpro.com  
 702-656-1536
