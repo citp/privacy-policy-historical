@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestseniorcareonline.com privacy policy that was archived on 2010-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101210161959id_/http%3A//www.bestseniorcareonline.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestseniorcareonline.com privacy policy that was archived on 2011-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110602052155id_/http%3A//bestseniorcareonline.com/privacy.html) for the most accurate reproduction.*
 
 # 
 
