@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestcxo.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230120111id_/http%3A//www.bestcxo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestcxo.com privacy policy that was archived on 2011-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110602032034id_/http%3A//www.bestcxo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | To be A best CXO
 
