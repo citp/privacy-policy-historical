@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the world-newspapers.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125045943id_/http%3A//www.world-newspapers.com/disclaimer.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the world-newspapers.com privacy policy that was archived on 2011-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110602120209id_/http%3A//www.world-newspapers.com/disclaimer.html) for the most accurate reproduction.*
 
 # World-Newspapers.com Privacy Policy
 
@@ -39,8 +39,6 @@ We can also allow ad companies to use cookies to help serve advertisments. They 
 
 We cannot be responsible for the content of sites that world-newspapers.com links to. If inappropropriate content is added to the site after we have linked to the site please contact us and inform about the linked site.
 
-If you feel that this site is not following its stated information policy, please contact:
-
-Marius Kaitis  
+If you feel that this site is not following its stated information policy, please contact:  
   
- **marius@world-newspapers.com**
+
