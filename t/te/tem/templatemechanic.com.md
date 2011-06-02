@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the templatemechanic.com privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201031646id_/http%3A//www.templatemechanic.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the templatemechanic.com privacy policy that was archived on 2011-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110602131731id_/http%3A//www.templatemechanic.com/policy) for the most accurate reproduction.*
 
 # Privacy Policy » TemplateMechanic - A Community for Designers, Freelancers and Hobbyist
 
@@ -8,7 +8,6 @@ This notice applies to all the information that gets collected or submitted on t
 
   * • Email address
   * • Name
-  * • Email Address
 
 
 
