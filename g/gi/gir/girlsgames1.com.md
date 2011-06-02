@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the girlsgames1.com privacy policy that was archived on 2010-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100511045953id_/http%3A//www.girlsgames1.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the girlsgames1.com privacy policy that was archived on 2011-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110602041210id_/http%3A//www.girlsgames1.com/privacy.htm) for the most accurate reproduction.*
 
 # GirlsGames1.com
-
-## Girls Games Adventure Make Up Dress Up Barbie Painting Fashion Dollhouse Cooking Sue Bratz Games
 
 **Personal Information**  
 GirlsGames1.com does not attempt to collect any personel information. 
@@ -41,4 +39,4 @@ A conspicuous link to the OBA choice mechanism (e.g., opt-out link) provided by 
 All rights reserved, GirlsGames1.com © 2008. All games copyright to their respective owners.
 
 **Contact**  
-If you have any questions please contact us via [contact form](https://web.archive.org/web/20100511045953id_/http%3A//www.girlsgames1.com/contact.html)
+If you have any questions please contact us via girlsgames1.com@gmail.com
