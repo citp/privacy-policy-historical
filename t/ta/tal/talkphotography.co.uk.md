@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the talkphotography.co.uk privacy policy that was archived on 2010-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100602085926id_/http%3A//www.talkphotography.co.uk/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talkphotography.co.uk privacy policy that was archived on 2011-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110602133605id_/http%3A//www.talkphotography.co.uk/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Talk Photography™ - Privacy Policy
 
@@ -56,13 +56,15 @@ However, we may still contact you with what we consider are important updates or
 You may, at any time, remove any voluntary information you enter into your user control panel, except your valid email address and date of birth. These are required to keep your site membership active.   
 We don't delete site accounts on request. If you wish, you may remove ALL information from your profile yourself. However, please note that your account will become restricted if you remove your valid email address, so remove this information last. 
 
-**Advertisements and Skimlinks**
-
-  
+**Advertisements and Skimlinks**   
 Like many other internet sites, the talkphotography.co.uk website contains 'Affiliate links' to assist in raising revenue to help fund the site.   
 To assist us in this we use a tested and trusted technology from Skimlinks.com.   
 Members often post links to external sites, such as online shops and merchants. When you click on one of these links, Skimlinks analyses the URL and if applicable automatically converts it to include the Slack Media Ltd affiliate ID.   
 Should you then make a purchase from the online shop, this generates a small payment to Slack Media Ltd from the relevant affiliate scheme.   
 This is at absolutely no extra cost or inconvenience to you, and is almost completely transparent. 
+
+**Google Adsense and the DoubleClick DART Cookie**   
+As an advertisement provider, Google uses cookies to serve adverts on this site. The use of DART cookies by Google enables them to serve relevant adverts to you based on your previous visits to this and other websites.   
+You may opt out of the DART cookies by visiting the Google Privacy Center at the following url <http://www.google.com/privacy_ads.html>. Tracking of users through the DART cookies are subject to Google's own privacy policies. 
 
 Revision : 01/04/10
