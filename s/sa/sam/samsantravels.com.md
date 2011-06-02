@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the samsantravels.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222082035id_/http%3A//samsantravels.com/pay/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samsantravels.com privacy policy that was archived on 2011-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110602023236id_/http%3A//samsantravels.com/pay/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy- Sam-San Travels, Mumbai India Travel Agent Tour Operator Hotel Bookings
 
