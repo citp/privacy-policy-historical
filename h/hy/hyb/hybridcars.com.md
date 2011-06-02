@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hybridcars.com privacy policy that was archived on 2009-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090803141740id_/http%3A//www.hybridcars.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hybridcars.com privacy policy that was archived on 2011-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110602200801id_/http%3A//www.hybridcars.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Hybrid Cars
 
@@ -21,13 +21,11 @@ We have a simple web statistics program running that tracks how many times each 
 
 ### Email Addresses
 
-We log your email address in three situations:
+We log your email address in these situations:
 
-Hybrid Cars Newsletter – We keep track of email addresses when people sign up for our newsletter. The email address you enter for the newsletter will never be sold or transferred to any other organization. You have the ability to unsubscribe from the newsletter at any time. The form for subscribing and unsubscribing to the newsletter are available [on this site](https://web.archive.org/web/20090803141740id_/http%3A//www.hybridcars.com/newsletter.html) and are included in every email that is sent out.
+Newsletter – We keep track of email addresses when people sign up for our newsletter. The email address you enter for the newsletter will never be sold or transferred to any other organization. You have the ability to unsubscribe from the newsletter at any time. The form for subscribing and unsubscribing to the newsletter are available [on this site](https://web.archive.org/web/20110602200801id_/http%3A//www.hybridcars.com/newsletter.html) and are included in every email that is sent out.
 
 Email Page to a Friend - We log each time someone uses this feature to track how many times it is used, by whom, and from what page. We do this to make sure that someone doesn't abuse the feature by sending multiple emails from the site to the same person. The information is discarded monthly and will never be sold or transferred to any other organization.
-
-Price Pulse - In order to verify the authenticity of the information submitted to our Price Pulse tool, and to prevent false information submitted by salesman and promoters, we send an email to shoppers who are kind enough to share their experiences with other hybrid enthusiasts. The information will never be sold or transferred to any other organization.
 
 If for any reason you receive an email from us and you do not want to receive e-mail from us in the future, please let us know by sending e-mail to [info@hybridcars.com](mailto:info@hybridcars.com).
 
@@ -45,4 +43,8 @@ This site contains links to other web sites. We are not responsible for the priv
 
 ### Complaints
 
-If you feel that this site is not following its stated information policy, you may contact The DMA's Committee on Ethical Business Practices at [mgoldberger@the-dma.org](mailto:mgoldberger@the-dma.org), state or local chapters of the Better Business Bureau, The Federal Trade Commission by phone at 202.FTC-HELP (202.382.4357) or electronically at <http://www.ftc.gov/ftc/complaint.htm>.
+If you feel that this site is not following its stated information policy, you may contact The DMA's Committee on Ethical Business Practices at [mgoldberger@the-dma.org](mailto:mgoldberger@the-dma.org), state or local chapters of the Better Business Bureau, The Federal Trade Commission by phone at 202.FTC-HELP (202.382.4357) or electronically at <https://www.ftccomplaintassistant.gov/>.
+
+* * *
+
+[](https://web.archive.org/feed.xml) [](http://www.hybridcars.com/print/39) [](http://www.hybridcars.com/forward?path=node/39)
