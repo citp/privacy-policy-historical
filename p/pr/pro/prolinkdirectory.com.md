@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prolinkdirectory.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229205105id_/http%3A//www.prolinkdirectory.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prolinkdirectory.com privacy policy that was archived on 2011-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110602025306id_/http%3A//www.prolinkdirectory.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Free Directory, Your SEO Help - Privacy Policy
 
