@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the downloadhelper.net privacy policy that was archived on 2010-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101217043026id_/http%3A//www.downloadhelper.net/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the downloadhelper.net privacy policy that was archived on 2011-06-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110602160833id_/http%3A//www.downloadhelper.net/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <title>DownloadHelper - Media download Firefox extension</title>
@@ -9,6 +9,7 @@
 <meta name="keywords" content="streaming video encoders,educational streaming video,streaming video,mobile streaming video,streaming video recorders,streaming video recording software">
 <meta name="author" content="Michel Gutierrez">
 
+<script type="text/javascript" src="http://download1.downloadhelper.net/yui/build/yahoo-dom-event/yahoo-dom-event.js"></script>
 <link rel="stylesheet" type="text/css" href="http://download1.downloadhelper.net/yui/build/menu/assets/skins/sam/menu.css">
 <script type="text/javascript" src="http://ads.aclap.com/www/delivery/spcjs.php?id=1"></script>
 
@@ -16,7 +17,6 @@
 		if (top.location!= self.location) {	top.location = self.location.href }
 //--></script>
 
-<script type="text/javascript" src="http://http://download1.downloadhelper.net/yui/build/yahoo-dom-event/yahoo-dom-event.js"></script>
 <script type="text/javascript" src="http://download1.downloadhelper.net/yui/build/container/container_core.js"></script>
 <script type="text/javascript" src="http://download1.downloadhelper.net/yui/build/menu/menu.js"></script>
 <script type="text/javascript">
@@ -28,11 +28,18 @@
 			lazyload: true });
 		oMenuBar.render();
 		});
+		YAHOO.util.Event.onContentReady("april-fools", function () {
+			var date=new Date();
+			var day=date.getDate();
+			var month=date.getMonth();
+			if(day==1 && month==3)
+				document.getElementById("april-fools").style.display="block";
+		});
 </script>
 
 <link href="http://download1.downloadhelper.net/style-v3.css" rel="stylesheet" type="text/css">
 <link href="http://download1.downloadhelper.net/style-v3-regular.css" rel="stylesheet" type="text/css">
-<link href="http://www.downloadhelper.net/style-v3-print.css" rel="stylesheet" type="text/css" media="print">
+<link href="http://download1.downloadhelper.net/style-v3-print.css" rel="stylesheet" type="text/css" media="print">
 
 
 <script type="text/javascript"><!--
@@ -103,6 +110,19 @@
 						<ul>
 							<li class="yuimenuitem"><a class="yuimenuitemlabel" href="faq.php">FAQ</a></li>
 							<li class="yuimenuitem"><a class="yuimenuitemlabel" href="manual.php">Manual</a></li>
+							<li class="yuimenuitem"><a class="yuimenuitemlabel" href="faq.php">Tools</a>
+								<div class="yuimenu">
+									<div class="bd">
+										<ul>
+											<li class="yuimenuitem"><a class="yuimenuitemlabel" href="http://www.secrethelper.net/affclick/mig/menu-tools/secrethelper.php">SecretHelper</a></li>
+																			<li class="yuimenuitem"><a class="yuimenuitemlabel" href="tools.php">Video tools</a></li>
+											<li class="yuimenuitem"><a class="yuimenuitemlabel" href="other-tool-check.php">Alternate solutions</a></li>
+											<li class="yuimenuitem"><a class="yuimenuitemlabel" href="graph-compare.php">Compare sites</a></li>
+											<li class="yuimenuitem"><a class="yuimenuitemlabel" href="video-opensearch.php">Video OpenSearch</a></li>
+										</ul>
+									</div>
+								</div>
+							</li>
 							<li class="yuimenuitem"><a class="yuimenuitemlabel" href="pref-help-page.php">Configuration (VDH 4.0+)</a></li>
 							<li class="yuimenuitem"><a class="yuimenuitemlabel" href="conversion-manual.php">Video conversion guide</a></li>
 							<li class="yuimenuitem"><a class="yuimenuitemlabel" href="feature-conv-conf.php">Dynamic conversion configurations</a></li>
@@ -119,19 +139,7 @@
 				</div>		
 			</li>
 			<li class="yuimenubaritem"><a class="yuimenubaritemlabel" href="install.php">Install</a></li>
-			<li class="yuimenubaritem"><a class="yuimenubaritemlabel" href="tools.php">Tools</a>
-				<div class="yuimenu">
-					<div class="bd">
-						<ul>
-							<li class="yuimenuitem"><a class="yuimenuitemlabel" href="http://www.secrethelper.net/affclick/mig/menu-tools/secrethelper.php">SecretHelper</a></li>
-							<li class="yuimenuitem"><a class="yuimenuitemlabel" href="tools.php">Video tools</a></li>
-							<li class="yuimenuitem"><a class="yuimenuitemlabel" href="other-tool-check.php">Alternate solutions</a></li>
-							<li class="yuimenuitem"><a class="yuimenuitemlabel" href="graph-compare.php">Compare sites</a></li>
-							<li class="yuimenuitem"><a class="yuimenuitemlabel" href="video-opensearch.php">Video OpenSearch</a></li>
-						</ul>
-					</div>
-				</div>
-			</li>
+			<li class="yuimenubaritem"><a class="yuimenubaritemlabel" href="http://forum.downloadhelper.net/">Forum</a></li>
 			<li class="yuimenubaritem"><a class="yuimenubaritemlabel" href="partnership.php">Partnership</a>
 				<div class="yuimenu">
 					<div class="bd">
@@ -148,6 +156,10 @@
 </div>
 </div>
 
+
+<div id="april-fools" class="ie-announce" style="display: none;">
+	Google acquires Video DownloadHelper. <a href="google-acquires-video-downloadhelper.php">More details here</a>
+</div>
 
 <div id="leftcol">
 
@@ -211,7 +223,7 @@
 		<div style="text-align: right; padding: 3px 0px 0px 0px; margin: 0px; font-weight: bold;">
 <p style="color: Green; text-align: center;font-size: 12pt; padding-bottom: 3px; border-bottom: 1px solid #C0C0C0; margin-bottom: 3px;">Safe mode</p>
 <a href="safe-mode.php" style="">
-<img src="images/safe-mode-logo.png" border="0">
+<img src="http://download1.downloadhelper.net/images/safe-mode-logo.png" border="0">
 <p>Prevent displaying links to adult content on this site
 </p>
 </a>
@@ -229,29 +241,6 @@
 
 
 
-
-<div class="vt-dialog
- vt-dialog-wbox" style="z-index:2">
- <div class="content">
-  <div class="wrapper">
-   <div class="t"></div>
-   <div class="food">
-		<h2>Video Chat</h2>
-		
-
-<a href="videochathelper.php" target="_blank" style="">
-<p style="text-align: center; font-weight: bold; outline: none;">
-<img src="images/videochathelper-32x32.png" border="0" style="float: left;">
-Firefox-based video chat client. Test VideoChatHelper !
-</p></a><p><a href="videochathelper.php" target="_blank" style="">
-</a>
-
-
-	</p></div>
-   </div>
-  </div>
-  <div class="b"><div></div></div>
-</div>
 <div class="vt-dialog
  vt-dialog-ybox" style="z-index:2">
  <div class="content">
@@ -259,6 +248,7 @@ Firefox-based video chat client. Test VideoChatHelper !
    <div class="t"></div>
    <div class="food">
 		<h2>Video search</h2>
+
 
 <!-- Google CSE Search Box Begins  -->
 <form action="/video-search-results.php" id="searchbox_005536796155304041479:hbixpuuu7l8">
@@ -280,6 +270,20 @@ Firefox-based video chat client. Test VideoChatHelper !
 
 
 
+<div class="vt-dialog
+ vt-dialog-pbox vt-dialog-pbox-title 
+ style=" z-index:2"="">
+ <div class="content">
+  <div class="wrapper">
+   <div class="t"></div>
+   <div class="food">
+		<h2>Help !</h2>
+			<p style="text-align: center;">Please Help US !<br><a href="https://bugzilla.mozilla.org/show_bug.cgi?id=632092" target="_blank">Vote for this Firefox bug at Mozilla</a></p>
+	</div>
+   </div>
+  </div>
+  <div class="b"><div></div></div>
+</div>
 
 
 
@@ -293,9 +297,9 @@ Firefox-based video chat client. Test VideoChatHelper !
 					<li>
 			<a href="kiva.php" style="color: #608060; text-align: center; padding:0; margin: 4px 0px 0px 0px;">
 				<div style="float: none;">DownloadHelper supports the
-				<img src="images/kiva.gif" border="0" style="float: none; padding:0; margin:0; position:relative; top: 3px;">
+				<img src="http://download1.downloadhelper.net/images/kiva.gif" border="0" style="float: none; padding:0; margin:0; position:relative; top: 3px;">
 				initiative</div>
-				<div style="padding-top: 3px;">Already <b>$13550</b> raised by DownloadHelper users <i>(as of Dec 17 04:19)</i></div>
+				<div style="padding-top: 3px;">Already <b>$17400</b> raised by DownloadHelper users <i>(as of Jun 02 16:02)</i></div>
 			</a>
 		</li>
 			</ul>
@@ -403,7 +407,7 @@ Use of information that we gather now is subject to the privacy policy in effect
 
 </div>
 
-<div id="footer">Copyright (c) 2007-2008 
+<div id="footer">Copyright (c) 2007-2011 
 <a href="http://www.downloadhelper.net">www.downloadhelper.net</a>
 -
 <a href="privacy.php">Privacy policy</a>
