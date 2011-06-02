@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flocabulary.com privacy policy that was archived on 2010-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101101115437id_/http%3A//www.flocabulary.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flocabulary.com privacy policy that was archived on 2011-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110602034347id_/http%3A//www.flocabulary.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Flocabulary's Privacy Policy
 
@@ -16,7 +16,11 @@ Yes. Our shopping cart is powered by Yahoo.com, one of the most trusted names in
 
 Online orders are processed and shipped much faster than orders placed over the phone. Online orders ship out three times per week; phone orders ship weekly. Online orders also provide you with an electronic receipt, the ability to view your order’s shipment status and, where applicable, tracking information. 
 
-###  Do you share my information with other companies?
+###  What is your return policy?
+
+Flocabulary products in resalable condition and accompanied by the original invoice may be returned within 30 days of purchase for a refund or exchange. 
+
+### Do you share my information with other companies?
 
 No. We will never share your information with anyone. 
 
