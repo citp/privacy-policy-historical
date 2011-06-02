@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ffiec.gov privacy policy that was archived on 2010-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101104192449id_/http%3A//www.ffiec.gov/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ffiec.gov privacy policy that was archived on 2011-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110602221355id_/http%3A//www.ffiec.gov/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -20,7 +20,11 @@ The FFIEC automatically collects and stores information about your Internet conn
 
 
 
-The FFIEC does not use "cookies." (A cookie is an entry placed in a file on your hard drive by a web site that allows it to monitor your use of the web site, usually without your knowledge.) 
+**Cookies**
+
+The FFIEC, in places, uses only non-persistent cookies (Tier-1 single session cookies), as defined by [OMB Memo 10-22](http://www.whitehouse.gov/sites/default/files/omb/assets/memoranda_2010/m10-22.pdf#page=4). These cookies do not permanently record data and they are not stored on your computer's hard drive.
+
+You may opt out of the above described cookie use by following these browser specific opt-out instructions: (<http://www.usa.gov/optout_instructions.shtml>). Opting out of FFIEC Tier-1 single-session cookies may affect the performance of some FFIEC web applications.
 
 **Information We Collect and Store When You Send an E-mail**
 
@@ -40,7 +44,7 @@ Although questions, comments, and other communications that we receive generally
 
 **Security of the Web Site**
 
-For the security of our site and to ensure that the site remains available to all users, the FFIEC employs software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. See the FFIEC's [Disclaimer](https://web.archive.org/web/20101104192449id_/http%3A//www.ffiec.gov/disclaimer.htm) for additional information on this issue.   
+For the security of our site and to ensure that the site remains available to all users, the FFIEC employs software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. See the FFIEC's [Disclaimer](https://web.archive.org/web/20110602221355id_/http%3A//www.ffiec.gov/disclaimer.htm) for additional information on this issue.   
 
 
 **How to Contact Us about the Web Site**
