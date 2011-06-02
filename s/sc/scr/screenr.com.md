@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the screenr.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224152148id_/http%3A//screenr.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the screenr.com privacy policy that was archived on 2011-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110602045015id_/http%3A//www.screenr.com/privacy) for the most accurate reproduction.*
 
 # Screenr - Privacy
 
@@ -8,11 +8,7 @@ Screenr℠ is created by [Articulate®](http://www.articulate.com/ "Articulate®
 
 ### What information do we collect and how do we use it?
 
-Articulate collects information on our users in two ways: by your voluntary submissions (for instance, when you record or post a screencast); and through cookie technology. Any personally identifiable information (such as your Twitter username or your email address) that you choose to disclose to Articulate is completely up to you. The only way we know something about you personally is if you provide it to us.
-
-### Email and Twitter Username
-
-When posting your first screencast or commenting on a screencast, you may be asked to provide your email address and Twitter username. If you have provided us your Twitter username, Articulate uses the Twitter API to authenticate your Twitter account and post tweets on your behalf. Articulate will use your email address and Twitter account to send you information about Screenr from time to time.
+Articulate collects information on our users in two ways: by your voluntary submissions (for instance, when you record or post a screencast); and through cookie technology. Any personally identifiable information (such as your username or your email address) that you choose to disclose to Articulate is completely up to you. The only way we know something about you personally is if you provide it to us. Articulate will use your email address to send you information about Screenr from time to time.
 
 If you do not wish to receive information from Articulate, please let us know by emailing us at: [privacy@articulate.com](mailto:privacy@articulate.com "privacy@articulate.com")
 
