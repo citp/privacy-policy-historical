@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the botanicgardens.org privacy policy that was archived on 2010-12-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101204142917id_/http%3A//www.botanicgardens.org/content/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the botanicgardens.org privacy policy that was archived on 2011-06-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110602152205id_/http%3A//www.botanicgardens.org/content/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -16,23 +16,30 @@
 <meta name="robots" content="index,follow">
 <meta name="DC.title" content="privacy">
 <link rel="shortcut icon" href="/sites/all/themes/custom/botanicgardensv2/favicon.ico" type="image/x-icon">
-<link type="text/css" rel="stylesheet" media="all" href="/modules/node/node.css?l">
-<link type="text/css" rel="stylesheet" media="all" href="/modules/system/defaults.css?l">
-<link type="text/css" rel="stylesheet" media="all" href="/modules/system/system.css?l">
-<link type="text/css" rel="stylesheet" media="all" href="/modules/system/system-menus.css?l">
-<link type="text/css" rel="stylesheet" media="all" href="/modules/user/user.css?l">
-<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/drupal-contrib/cck/theme/content-module.css?l">
-<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/drupal-contrib/fckeditor/fckeditor.css?l">
-<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/drupal-contrib/tooltips/tooltips.css?l">
-<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/drupal-contrib/cck/modules/fieldgroup/fieldgroup.css?l">
+<link type="text/css" rel="stylesheet" media="all" href="/modules/node/node.css?z">
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/defaults.css?z">
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/system.css?z">
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/system-menus.css?z">
+<link type="text/css" rel="stylesheet" media="all" href="/modules/user/user.css?z">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/drupal-contrib/cck/theme/content-module.css?z">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/drupal-contrib/fckeditor/fckeditor.css?z">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/drupal-contrib/tooltips/tooltips.css?z">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/drupal-contrib/cck/modules/fieldgroup/fieldgroup.css?z">
+
 <link rel="stylesheet" href="/sites/all/themes/custom/botanicgardensv2/global.css" type="text/css" media="screen">
 <link rel="stylesheet" href="/sites/all/themes/custom/botanicgardensv2/sub.css" type="text/css" media="screen">
 <link rel="stylesheet" type="text/css" href="/sites/all/themes/custom/botanicgardensv2/subpagenav.css" media="screen,projection">
 <!--[if lt IE 7]><link rel="stylesheet" type="text/css" media="screen" href="/sites/all/themes/custom/botanicgardensv2/ie6sub.css" /><![endif]-->
 
-<script type="text/javascript" src="/sites/all/themes/custom/botanicgardensv2/js/jquery-1.2.3.js"></script>
+
+
+<link rel="stylesheet" href="/sites/all/themes/custom/botanicgardensv2/js/imageflow/imageflow.css" type="text/css">
+<script src="/sites/all/themes/custom/botanicgardensv2/js/imageflow/imageflow.js" type="text/javascript"></script>
+
+<script type="text/javascript" src="/sites/all/themes/custom/botanicgardensv2/js/lytebox_v3.22/lytebox.js"></script>
+<link rel="stylesheet" href="/sites/all/themes/custom/botanicgardensv2/js/lytebox_v3.22/lytebox.css" type="text/css" media="screen">
+
 	
-<script type="text/javascript" src="/sites/all/themes/custom/botanicgardensv2/js/jquery.easing.1.3.js"></script>
 
 
 <script src="/sites/all/themes/custom/botanicgardensv2/js/jquery.bgiframe.js" type="text/javascript"></script>
@@ -69,6 +76,46 @@ $(document).ready(function(){
 			Cufon.replace('h2');
 			Cufon.replace('h3');
 		</script>
+        
+<script type="text/javascript">
+$(document).ready(function() {
+
+	//When page loads...
+	$(".tab_content").hide(); //Hide all content
+	$("ul.widgetTabs li:first").addClass("active").show(); //Activate first tab
+	$(".tab_content:first").show(); //Show first tab content
+
+	//On Click Event
+	$("ul.widgetTabs li").click(function() {
+
+		$("ul.widgetTabs li").removeClass("active"); //Remove any "active" class
+		$(this).addClass("active"); //Add "active" class to selected tab
+		$(".tab_content").hide(); //Hide all tab content
+
+		var activeTab = $(this).find("a").attr("href"); //Find the href attribute value to identify the active tab + content
+		$(activeTab).fadeIn(); //Fade in the active ID content
+		return false;
+	});
+
+});
+</script>
+
+<script language="javascript">
+			function mailpage()
+			{
+			mail_str = "mailto:?subject=Check out the " + document.title;
+			mail_str += "&body=I thought you might be interested in the " + document.title;
+			mail_str += ". You can view it at, " + location.href;
+			location.href = mail_str;
+			}
+</script>
+
+
+
+
+
+
+
 <meta name="verify-v1" content="7hVxNqZIy6KLr8wYKO1MqbXk4FinrXw1lxIyXUPabo0=">
 </head>
 <body>
@@ -85,12 +132,13 @@ $(document).ready(function(){
 	} catch(err) {}
 </script>
 
+
 <div class="navLeftChunk"><img src="/sites/all/themes/custom/botanicgardensv2/images/sub_nav_leftChunk.gif"></div>
 <!--homepage navigation-->
 <div id="navBar">
 <div id="menu0" class="menu"><a href="/" class="topLink">home</a>
 </div><div id="menu1" class="menu"><a href="/content/plan-your-visit" class="topLink">plan your visit</a>
-<ul class="bgiframeFix" style="display:none;"><li><a href="/content/visitor-information" title="visitor information">visitor information</a></li><li><a href="/content/tours" title="Tours">tours</a></li><li><a href="/content/facility-rental" title="facility rental">facility rental</a></li><li><a href="/content/events-and-exhibits" title="events and exhibits">events and exhibits</a></li><li><a href="http://calendar.botanicgardens.org/calendar/list" target="_blank">calendar</a></li><li><a href="/content/concessions-and-food-service" title="concessions and food service">concessions &amp; food service</a></li><li><a href="/content/shop-gardens" title="gift shop">shop at the gardens</a></li><li><a href="/content/helen-fowler-library" title="helen fowler library">helen fowler library</a></li></ul>
+<ul class="bgiframeFix" style="display:none;"><li><a href="/content/visitor-information" title="visitor information">visitor information</a></li><li><a href="/content/tours" title="Tours">tours</a></li><li><a href="/content/facility-and-garden-rentals" title="facility rental">facility and garden rentals</a></li><li><a href="/content/special-events" title="special events">special events</a></li><li><a href="/content/art-exhibits" title="art exhibits">art exhibits</a></li><li><a href="http://calendar.botanicgardens.org/calendar/list" target="_blank">calendar</a></li><li><a href="/content/concessions-and-food-service" title="concessions and food service">concessions &amp; food service</a></li><li><a href="/content/shop-gardens" title="gift shop">shop at the gardens</a></li><li><a href="/content/helen-fowler-library" title="helen fowler library">helen fowler library</a></li></ul>
 </div><div id="menu2" class="menu"><a href="/content/our-gardens" class="topLink">our gardens</a>
 <ul class="bgiframeFix" style="display:none;"><li><a href="/content/our-gardens-york-street" title="our gardens york street">york street</a></li><li><a href="/content/mordecai-childrens-garden" title="mordecai children’s garden at york street">mordecai children’s garden</a></li><li><a href="/content/our-gardens-chatfield-location" title="our gardens chatfield location">chatfield</a></li><li><a href="/content/our-gardens-mount-goliath" title="our gardens mount goliath">mount goliath</a></li><li><a href="/content/conservation-and-research-plant-collections" title="plant collections">plant collections</a></li><li><a href="/content/whats-blooming" title="what's blooming">what's blooming</a></li></ul>
 </div><div id="menu3" class="menu"><a href="/content/programs" class="topLink">programs</a>
@@ -98,7 +146,7 @@ $(document).ready(function(){
 </div><div id="menu4" class="menu"><a href="/content/conservation-research" class="topLink">conservation &amp; research</a>
 <ul class="bgiframeFix" style="display:none;"><li><a href="/content/conservation-and-research-plant-collections" title="conservation and research plant collections">plant &amp; fungal collections</a></li><li><a href="/content/plant-conservation" title="plant conservation">plant conservation</a></li><li><a href="/content/invasive-plant-research" title="invasive plant research">invasive plant research</a></li></ul>
 </div><div id="menu5" class="menu"><a href="/content/gardening-resources" class="topLink">gardening resources</a>
-<ul class="bgiframeFix" style="display:none;"><li><a href="/content/helen-fowler-library" title="">helen fowler library</a></li><li><a href="/content/gardening-help" title="gardening help">gardening help</a></li><li><a href="/high-altitude-gardener" title="">high-altitude gardener</a></li><li><a href="http://www.plantselect.org/" target="_blank">plant select</a></li><li><a href="http://www.ext.colostate.edu/ptlk/index.html" target="_blank">planttalk</a></li></ul>
+<ul class="bgiframeFix" style="display:none;"><li><a href="/content/helen-fowler-library" title="">helen fowler library</a></li><li><a href="/content/gardening-help" title="gardening help">gardening help</a></li><li><a href="/high-altitude-gardener" title="">high-altitude gardener</a></li><li><a href="http://www.plantselect.org/" target="_blank">plant select</a></li><li><a href="http://www.ext.colostate.edu/ptlk/index.html" target="_blank">planttalk</a></li><li><a href="/content/regional-gardens" title="regional gardens">regional gardens</a></li></ul>
 </div><div id="menu6" class="menu"><a href="/content/get-involved" class="topLink">get involved</a>
 <ul class="bgiframeFix" style="display:none;"><li><a href="/content/volunteer" title="volunteer">volunteer</a></li><li><a href="/content/membership" title="membership">membership</a></li><li><a href="/content/donate" title="donate">donate</a></li><li><a href="/content/planned-giving" title="planned giving">planned giving</a></li><li><a href="/content/corporate-partnership" title="corporate partnership">corporate partnership</a></li><li><a href="/content/green-team" title="green team">green team</a></li><li><a href="/content/gardens-technology-task-force" title="gardens' technology task force">gardens' technology task force</a></li></ul>
 </div><div id="menu7" class="menu last"><a href="/content/about-us" class="topLink last">about us</a>
@@ -121,7 +169,7 @@ $(document).ready(function(){
     	        	<form action="/content/privacy" accept-charset="UTF-8" method="post" id="search-theme-form">
 <div>
 
-	<input type="hidden" name="form_build_id" id="form-5194f3d57875031bf18d1829e9cc0bb7" value="form-5194f3d57875031bf18d1829e9cc0bb7">
+	<input type="hidden" name="form_build_id" id="form-af4bc7c61ceda27b4835d04eb33583e7" value="form-af4bc7c61ceda27b4835d04eb33583e7">
 <input type="hidden" name="form_id" id="edit-search-theme-form" value="search_theme_form">
 	<div class="searchBar">
 	        <div class="selectMenu selectMenuSite" id="selectMenuSearchImage">
@@ -360,7 +408,7 @@ function replaceDefaultText(e) {
       	            
 	     
             
-        <div class="toolBarFeature"><a href="/content/membership"><img src="/sites/all/themes/custom/botanicgardensv2/images/btn_members_get_moore.gif" width="321" height="45" border="0"></a></div>     
+        <div class="toolBarFeature"><a href="/content/membership"><img src="/sites/all/themes/custom/botanicgardensv2/images/btn_members_get_more.gif" width="321" height="45" border="0"></a></div>     
         
         <div class="socialNetworking">
         <a href="/rss.xml" target="_blank"><img src="/sites/all/themes/custom/botanicgardensv2/images/icn_rss.gif" width="24" height="24" alt="Subscribe to our RSS feed" title="Subscribe to our RSS feed"></a>
@@ -378,9 +426,21 @@ function replaceDefaultText(e) {
 <!-- START CONTENT -->
 <div class="subLeftRightWrap clearfix">
     
-    	<div class="leftColumn">		
+    	<div class="leftColumn">	
+        	
+
 		
                           <div class="breadCrumb"><div class="breadcrumb"><a href="/">Home</a> » privacy</div></div>                                        
+            <div class="bonfilsOverview">
+                        </div>
+            
+            <div class="houserOverview">
+                        </div>
+            
+            <div class="eventStack">
+                        </div>
+
+              
                             
 			  			  
               <div id="node-152" class="node clear-block">
@@ -412,18 +472,18 @@ function replaceDefaultText(e) {
   <div class="content">
     <h3><span class="orange">what's</span> <span class="green">blooming?</span></h3>
 <div class="contentBlock whatsBlooming">
-<p><strong><img alt="" width="228" height="174" src="/sites/default/files/bromeliad.jpg"><br>
+<p><strong><img alt="" width="228" height="181" src="/sites/default/files/MarniesPavilion(2).jpg"><br>
 <br>
-See the Gardens now!<br>
-</strong>Orchids, bromeliads and tropical plants are alive with color in Marnie’s Pavilion.<strong>&nbsp;</strong><br>
-<a onclick="pageTracker._trackEvent('Subpage-Rightrail-Links', 'Whats-Blooming', 'November-Link');" href="/content/whats-blooming-november">See highlights of what's blooming in November</a></p>
+See orchids and bromeliads<br>
+</strong>Enjoy indoor waterfalls, the Orangery and the orchid display in Marnie's Pavilion.<strong>&nbsp;</strong><br>
+<a onclick="pageTracker._trackEvent('Subpage-Rightrail-Links', 'Whats-Blooming', 'May-Link');" href="/content/whats-blooming-May">See highlights of what's blooming inside and outside in May</a></p>
 </div>
   </div>
 </div>
-<div id="block-block-59" class="block block-block">
+<div id="block-block-34" class="block block-block">
 
   <div class="content">
-    <p><a class="tile" href="/content/shop-gardens"> </a></p><div class="shopTile1 contentBlock"><div class="shopTile1Text"><a class="tile" href="/content/shop-gardens">Browse over 10,000 items, including all-natural gifts and garden supplies,<br> that have been personally<br> selected by our staff.</a></div></div><a class="tile" href="/content/shop-gardens"> </a><p></p>  </div>
+    <div class="contentBlock offshootsTile"><strong>Come to our York Street café!</strong><br> <span class="offshootsGrey">Visit Offshoots for <br> breakfast, lunch<br> or an afternoon<br> snack. Enjoy a<br> latte, surf the <br> Web via free Wi-Fi, <br> work remotely and relax <br> in one of the cushy chairs or at the laptop bar that looks out on vistas of gardens. </span><a href="/content/concessions-and-food-service" onclick="pageTracker._trackEvent('Subpage-Rightrail-Links', 'Offshoots', 'More-Details-Offshoots-Link');">More details on Offshoots</a></div><p>&nbsp;</p>  </div>
 </div>
                    
       </div>
@@ -464,6 +524,8 @@ See the Gardens now!<br>
   </div>
   <!--this is the end of the footer-->
 </div>
+
+
 
 
 <script type="text/javascript"> Cufon.now(); </script>
