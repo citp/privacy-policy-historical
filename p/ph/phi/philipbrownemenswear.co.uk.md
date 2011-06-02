@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the philipbrownemenswear.co.uk privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202025825id_/http%3A//www.philipbrownemenswear.co.uk/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the philipbrownemenswear.co.uk privacy policy that was archived on 2011-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110602141329id_/http%3A//www.philipbrownemenswear.co.uk/Privacy.aspx) for the most accurate reproduction.*
 
 # Menswear and fashion - Philip Browne Menswear based in Norwich, Norfolk
 
