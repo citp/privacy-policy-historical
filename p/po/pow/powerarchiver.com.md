@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the powerarchiver.com privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201040514id_/http%3A//www.powerarchiver.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powerarchiver.com privacy policy that was archived on 2011-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110602050438id_/http%3A//www.powerarchiver.com/privacy) for the most accurate reproduction.*
 
 # PowerArchiver - Privacy Policy
 
