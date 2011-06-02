@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the penthouse.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218081542id_/http%3A//www.penthouse.com/go/page/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the penthouse.com privacy policy that was archived on 2011-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110602134818id_/http%3A//www.penthouse.com/go/page/privacy.html%3F) for the most accurate reproduction.*
 
 # Penthouse.com PRIVACY POLICY
 
@@ -14,7 +14,7 @@ During the registration process for any of the FFN Websites, you may provide us 
 
 FFN Websites also use "cookies" to store and sometimes track information to make your online experience easier and more personalized. Cookies are small pieces of data that are stored by a user's web browser on the user's hard drive. Cookies may record information a user accesses on one webpage to simplify subsequent interactions with that website by the same user, or to use the information to streamline the user's transactions on related webpages. Cookies make it easier for a user to move from webpage to webpage and to complete transactions over the Internet.
 
-Most major web browsers are set up so that they will initially accept cookies, but you may modify your computer's preferences to issue you an alert when a cookie is downloaded, or to disable the ability of third parties to download a cookie to you. If you choose to reject all cookies, there are areas of FFN Websites that may not function properly. You may obtain further information about cookies and how they function at: [http://en.wikipedia.org/wiki/HTTP_cookie](http://dev8.adultfriendfinder.com/p/offsite.cgi?http://en.wikipedia.org/wiki/HTTP_cookie).
+Most major web browsers are set up so that they will initially accept cookies, but you may modify your computer's preferences to issue you an alert when a cookie is downloaded, or to disable the ability of third parties to download a cookie to you. If you choose to reject all cookies, there are areas of FFN Websites that may not function properly. You may obtain further information about cookies and how they function at: [http://en.wikipedia.org/wiki/HTTP_cookie](http://penthouse.com/p/offsite.cgi?http://en.wikipedia.org/wiki/HTTP_cookie).
 
 We may also use standard Internet technology, such as web beacons or 1x1 "gifs" and other similar technologies (collectively "Pixel Tags"), to track your use of Our Websites. A Pixel Tag is an electronic image, often a single pixel (1x1), that is ordinarily not visible to Site visitors and may be associated with cookies on the visitors' hard drives. We also may include Pixel Tags in advertisements or promotional or other e-mail messages, or to determine whether messages have been opened and acted upon. The information enables us to customize the services we offer. 
 
@@ -90,10 +90,7 @@ You have the following choices to modify or delete your PII from our database:
 * Send an email to [privacy@ffn.com](mailto:privacy@ffn.com)  
 * Log in with your password and modify/delete your profile  
 * Send a snail mail to Friendfinder Networks Inc. at 220 Humboldt Ct, Sunnyvale, CA 94089, United States, Attn: Privacy  
-* Call us at (610) 757-1920 
-
-By using the above contact information, you may also receive emails from third party advertisers.
-
+* Call us at (610) 757-1920
 * **13\. Revisions to this Privacy Policy**
 
 FFN reserves its right, in their sole and absolute discretion, to revise, amend, modify or revoke this Privacy Policy at any time and in any manner to the fullest extent permitted by law. Changes to this Policy will be effective by posting revisions on the FFN Websites.
