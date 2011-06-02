@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the thecpaneladmin.com privacy policy that was archived on 2010-11-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101129084437id_/http%3A//www.thecpaneladmin.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thecpaneladmin.com privacy policy that was archived on 2011-06-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110602164930id_/http%3A//www.thecpaneladmin.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US"><head profile="http://gmpg.org/xfn/11">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -7,13 +7,11 @@
 <title>Privacy :: The cPanel Admin</title>
 
 
-<meta name="generator" content="WordPress 3.0.1"> <!-- leave this for stats -->
+<meta name="generator" content="WordPress 3.1.1"> <!-- leave this for stats -->
 <meta name="description" content="What information do we collect? We collect information from you when you register on our site, subscribe to our newsletter or fill out a form. When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address or phone number. You may, however, visit our site [...]
 
 
-Related posts:<ol><li><a href='http://www.thecpaneladmin.com/legal/' rel='bookmark' title='Permanent Link: Legal'>Legal</a></li>
-<li><a href='http://www.thecpaneladmin.com/about/' rel='bookmark' title='Permanent Link: About'>About</a></li>
-</ol>">
+No related posts.">
 
 <link rel="stylesheet" href="http://www.thecpaneladmin.com/wp-content/themes/BlueMania/style.css" type="text/css" media="screen">
 <link rel="alternate" type="application/rss+xml" title="The cPanel Admin RSS Feed" href="http://www.thecpaneladmin.com/feed/">
@@ -50,18 +48,19 @@ stepcarousel.setup({
 </script>
 
 <link rel="alternate" type="application/rss+xml" title="The cPanel Admin » Privacy Comments Feed" href="http://www.thecpaneladmin.com/privacy/feed/">
-<link rel="stylesheet" id="sociable-front-css-css" href="http://www.thecpaneladmin.com/wp-content/plugins/sociable/sociable.css?ver=3.0.1" type="text/css" media="all">
+<link rel="stylesheet" id="sociable-front-css-css" href="http://www.thecpaneladmin.com/wp-content/plugins/sociable/sociable.css?ver=3.1.1" type="text/css" media="all">
 <link rel="stylesheet" id="wp-pagenavi-css" href="http://www.thecpaneladmin.com/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70" type="text/css" media="all">
-<script type="text/javascript" src="http://www.thecpaneladmin.com/wp-includes/js/jquery/jquery.js?ver=1.4.2"></script>
+<script type="text/javascript" src="http://www.thecpaneladmin.com/wp-includes/js/l10n.js?ver=20101110"></script>
+<script type="text/javascript" src="http://www.thecpaneladmin.com/wp-includes/js/jquery/jquery.js?ver=1.4.4"></script>
 <script type="text/javascript" src="http://www.thecpaneladmin.com/wp-includes/js/comment-reply.js?ver=20090102"></script>
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.thecpaneladmin.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.thecpaneladmin.com/wp-includes/wlwmanifest.xml"> 
 <link rel="index" title="The cPanel Admin" href="http://www.thecpaneladmin.com/">
 <link rel="next" title="Advertise" href="http://www.thecpaneladmin.com/advertise/">
-<meta name="generator" content="WordPress 3.0.1">
+<meta name="generator" content="WordPress 3.1.1">
 <link rel="canonical" href="http://www.thecpaneladmin.com/privacy/">
 
-<!-- All in One SEO Pack 1.6.12.2 by Michael Torbert of Semper Fi Web Design[307,394] -->
+<!-- All in One SEO Pack 1.6.13.2 by Michael Torbert of Semper Fi Web Design[307,394] -->
 <meta name="description" content="What information do we collect? We collect information from you when you register on our site, subscribe to our newsletter or fill out a form. When ordering">
 <!-- /all in one seo pack -->
 <script type="text/javascript" src="http://www.thecpaneladmin.com/wp-includes/js/tw-sack.js?ver=1.6.1"></script>
@@ -69,19 +68,28 @@ stepcarousel.setup({
 //<![CDATA[
 function alo_em_pubblic_form ()
 {
-  document.alo_easymail_widget_form.submit.value="sending...";
+    document.alo_easymail_widget_form.submit.value="sending...";
   document.alo_easymail_widget_form.submit.disabled = true;
   document.getElementById('alo_em_widget_loading').style.display = "inline";
   document.getElementById('alo_easymail_widget_feedback').innerHTML = "";
   
-   var mysack = new sack( 
+   var alo_em_sack = new sack( 
        "http://www.thecpaneladmin.com/wp-admin/admin-ajax.php" );    
 
-  mysack.execute = 1;
-  mysack.method = 'POST';
-  mysack.setVar( "action", "alo_em_pubblic_form_check" );
-  mysack.setVar( "alo_em_opt_name", document.alo_easymail_widget_form.alo_em_opt_name.value );
-  mysack.setVar( "alo_em_opt_email", document.alo_easymail_widget_form.alo_em_opt_email.value );
+  alo_em_sack.execute = 1;
+  alo_em_sack.method = 'POST';
+  alo_em_sack.setVar( "action", "alo_em_pubblic_form_check" );
+  alo_em_sack.setVar( "alo_em_opt_name", document.alo_easymail_widget_form.alo_em_opt_name.value );
+  alo_em_sack.setVar( "alo_em_opt_email", document.alo_easymail_widget_form.alo_em_opt_email.value );
+  
+  alo_em_sack.setVar( "alo_em_error_email_incorrect", "The e-email address is not correct");
+  alo_em_sack.setVar( "alo_em_error_name_empty", "The name field is empty");
+  alo_em_sack.setVar( "alo_em_error_email_added", "Warning: this email address has already been subscribed, but not activated. We are now sending another activation email");
+  alo_em_sack.setVar( "alo_em_error_email_activated", "Warning: this email address has already been subscribed");
+  alo_em_sack.setVar( "alo_em_error_on_sending", "Error during sending: please try again");
+  alo_em_sack.setVar( "alo_em_txt_ok", "Subscription successful. You will receive an e-mail with a link. You have to click on the link to activate your subscription.");
+  alo_em_sack.setVar( "alo_em_txt_subscribe", "Subscribe");
+  alo_em_sack.setVar( "alo_em_lang_code", "");  
   
   var cbs = document.getElementById('alo_easymail_widget_form').getElementsByTagName('input');
   var length = cbs.length;
@@ -91,9 +99,9 @@ function alo_em_pubblic_form ()
   		if ( cbs[i].checked ) lists += cbs[i].value + ",";
   	}
   }
-  mysack.setVar( "alo_em_form_lists", lists );
-  mysack.onError = function() { alert('Ajax error' )};
-  mysack.runAJAX();
+  alo_em_sack.setVar( "alo_em_form_lists", lists );
+  alo_em_sack.onError = function() { alert('Ajax error' )};
+  alo_em_sack.runAJAX();
 
   return true;
 
@@ -102,14 +110,7 @@ function alo_em_pubblic_form ()
 </script>
 
 <script type="text/javascript">var AKPC_IDS = "";</script>
-	<!--[if IE]><script src="http://www.thecpaneladmin.com/wp-content/plugins/wp-gbcf/wp-gbcf_focus.js" type="text/javascript"></script><![endif]-->
-<!-- GBCF -->
-
-
-<!-- Start Of WP Popup Scheduler Script -->
-<link rel="stylesheet" href="http://www.thecpaneladmin.com/wp-content/plugins/wp-popup-scheduler/popup_css.css" type="text/css" media="screen">
-<!-- End Of WP Popup Scheduler Script -->
-
+	
 	<!-- Clean Archives Reloaded v3.2.0 | http://www.viper007bond.com/wordpress-plugins/clean-archives-reloaded/ -->
 	<style type="text/css">.car-collapse .car-yearmonth { cursor: s-resize; } </style>
 	<script type="text/javascript">
@@ -154,6 +155,7 @@ window.google_analytics_uacct = "UA-12228274-2";
 <li class="page_item page-item-4 current_page_item"><a href="http://www.thecpaneladmin.com/privacy/" title="Privacy">Privacy</a></li>
 <li class="page_item page-item-5"><a href="http://www.thecpaneladmin.com/advertise/" title="Advertise">Advertise</a></li>
 <li class="page_item page-item-12"><a href="http://www.thecpaneladmin.com/contact/" title="Contact">Contact</a></li>
+<li class="page_item page-item-765"><a href="http://www.thecpaneladmin.com/partners/" title="Partners">Partners</a></li>
 		</ul>
 	</div>
     <div id="main_search">
@@ -186,19 +188,33 @@ window.google_analytics_uacct = "UA-12228274-2";
 	<div id="desc">We know stuff about cPanel.</div>
 
 	<div id="header_banner"><div class="banner"><script type="text/javascript"><!--
+
 google_ad_client = "ca-pub-7866406607140258";
+
 google_ad_width = 468;
+
 google_ad_height = 60;
+
 google_ad_format = "468x60_as";
+
 google_ad_type = "text_image"; 
+
 google_color_border = "c5c5c5";
+
 google_color_bg = "e5e5f1";
+
 google_color_link = "f26521";
+
 google_color_url = "f26521";
+
 google_color_text = "000000"; 
+
 //-->
+
 </script>
+
 <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+
 </script></div></div>
 </div>
 
@@ -210,31 +226,55 @@ google_color_text = "000000";
 				<div id="board_carusel">
 					<div class="belt">
 					<div class="board_item">
+
 			<!-- board_item -->
+
+			<p><strong><a href="http://www.thecpaneladmin.com/using-dkim-with-exim-and-cpanel/">Using DKIM with Exim and cPanel</a></strong> Similar to the intentions of SPF records and DomainKeys, DKIM is intended to authenticate a sender by using a public/private key pair to digitally sign email, therefore increasing deliverability. At this...</p>
+
+			<p class="more"><a href="http://www.thecpaneladmin.com/using-dkim-with-exim-and-cpanel/">Readmore</a></p>
+
+			<!-- /board_item -->
+
+		</div><div class="board_item">
+
+			<!-- board_item -->
+
+			<p><strong><a href="http://www.thecpaneladmin.com/copy-outgoing-email-on-a-cpanel-server-with-exim/">Copy Outgoing Email on a cPanel Server with Exim</a></strong> A common request we get is how a user can automatically BCC outgoing email to another address. This is most often requested by law firms that need to be able to retain copies of communication. Forwarding...</p>
+
+			<p class="more"><a href="http://www.thecpaneladmin.com/copy-outgoing-email-on-a-cpanel-server-with-exim/">Readmore</a></p>
+
+			<!-- /board_item -->
+
+		</div><div class="board_item">
+
+			<!-- board_item -->
+
+			<p><strong><a href="http://www.thecpaneladmin.com/do-you-care-about-your-customers-data/">Do You Care About Your Customers' Data?</a></strong> I was working a case last week for a new client that's been hosting local business websites for over three years.  As with all of my case studies, I did a short survey of the client's infrastructure, processes,...</p>
+
+			<p class="more"><a href="http://www.thecpaneladmin.com/do-you-care-about-your-customers-data/">Readmore</a></p>
+
+			<!-- /board_item -->
+
+		</div><div class="board_item">
+
+			<!-- board_item -->
+
 			<p><strong><a href="http://www.thecpaneladmin.com/reduce-customer-support-costs/">Tips to Reduce Your Customer Support Costs</a></strong> When hosting websites, whether as a mainstream hosting provider, a hobby, or to supplement another service, it's your job to make sure your customers have access to technical support in case they need...</p>
-			<p class="more"><a href="http://www.thecpaneladmin.com/reduce-customer-support-costs/">Read more</a></p>
+
+			<p class="more"><a href="http://www.thecpaneladmin.com/reduce-customer-support-costs/">Readmore</a></p>
+
 			<!-- /board_item -->
+
 		</div><div class="board_item">
+
 			<!-- board_item -->
+
 			<p><strong><a href="http://www.thecpaneladmin.com/roundcube-mysql-or-sqlite/">Roundcube: MySQL or SQLite?</a></strong> cPanel 11.25 introduces a new feature: The ability to have RoundCube use SQLite instead of MySQL.  After benchmarking resource usage and performance, I've come to the conclusion that SQLite is definitely...</p>
-			<p class="more"><a href="http://www.thecpaneladmin.com/roundcube-mysql-or-sqlite/">Read more</a></p>
+
+			<p class="more"><a href="http://www.thecpaneladmin.com/roundcube-mysql-or-sqlite/">Readmore</a></p>
+
 			<!-- /board_item -->
-		</div><div class="board_item">
-			<!-- board_item -->
-			<p><strong><a href="http://www.thecpaneladmin.com/fix-account-permissions/">Simple Bash Script to Fix Account Permissions</a></strong> This is a simple bash script I wrote to fix the permissions and ownership of files within a cpanel account. To use, simply copy the script your server, chmod 755, and pass the usernames as arguments:
-./fixperms...</p>
-			<p class="more"><a href="http://www.thecpaneladmin.com/fix-account-permissions/">Read more</a></p>
-			<!-- /board_item -->
-		</div><div class="board_item">
-			<!-- board_item -->
-			<p><strong><a href="http://www.thecpaneladmin.com/re-installing-auxiliary-cpanel-software/">Re-Installing Auxiliary cPanel Software</a></strong> Cpanel has a lot of supporting software that you may be using on your server. In case something goes amiss, here is a list of scripts that reinstall cpanel-provided software on your system. For most all...</p>
-			<p class="more"><a href="http://www.thecpaneladmin.com/re-installing-auxiliary-cpanel-software/">Read more</a></p>
-			<!-- /board_item -->
-		</div><div class="board_item">
-			<!-- board_item -->
-			<p><strong><a href="http://www.thecpaneladmin.com/10-free-monitoring-solutions/">10 Free Monitoring Solutions to Consider</a></strong> Server and network monitoring can be crucial to a host's success. I mean, how embarrassing is it when your customers are aware of downtime before you are? You don't have to pay big bucks or spend loads...</p>
-			<p class="more"><a href="http://www.thecpaneladmin.com/10-free-monitoring-solutions/">Read more</a></p>
-			<!-- /board_item -->
+
 		</div>					</div>
 				</div>
 			</div>
@@ -308,39 +348,53 @@ google_color_text = "000000";
     </div>
 
 	<div id="body_right">
-        <div id="sidebar_ads"><div><a href="http://inmotionhosting.com" title="InMotion Hosting"><img src="http://creatives.inmotionhosting.com/125x125.v6.gif" alt="InMotion Hosting"></a></div><div><a href="http://thecpaneladmin.com/advertise" title="Advertising Online"><img src="http://ads.advertisespace.com/ads/AA/Xw/qc/ad_19_125x125.gif" alt="Advertising Online"></a></div><div><a href="http://affiliates.moniker.com/pub/Affiliates?affiliate_id=3419&amp;landingpage=register" title="Moniker"><img src="http://affiliates.moniker.com/images/Moniker/registrations-125x125.gif" alt="Moniker"></a></div><div><a href="http://www.mozy.com/pro/?ref=3f9a896b&amp;kbid=47119&amp;m=25&amp;i=101" title="Mozy"><img src="http://affiliates.mozy.com/b.aspx?id=47119&amp;mm=25&amp;img=pro-backup-plan-125x125.gif" alt="Mozy"></a></div></div>
+        <div id="sidebar_ads"><div><a href="http://www.dosarrest.com" title="DOSArrest"><img src="http://www.thecpaneladmin.com/wp-content/uploads/2011/03/dosarrest1.jpg" alt="DOSArrest"></a></div><div><a href="http://www.webhosting.uk.com/cloud-hosting.php" title="Cloud Hosting UK"><img src="http://www.thecpaneladmin.com/wp-content/uploads/2011/02/WebhostingUK-Cloud.gif" alt="Cloud Hosting UK"></a></div><div><a href="http://thecpaneladmin.com/advertise" title="Advertise Here"><img src="http://adserver.advertisespace.com/ads/AA/Dw/LA/ad_19_125x125_gif" alt="Advertise Here"></a></div><div><a href="http://www.mozy.com/pro/?ref=3f9a896b&amp;kbid=47119&amp;m=25&amp;i=101" title="Mozy"><img src="http://affiliates.mozy.com/b.aspx?id=47119&amp;mm=25&amp;img=pro-backup-plan-125x125.gif" alt="Mozy"></a></div></div>
 		<div id="sidebars">
 				<div id="sidebar" class="sidebars">
 		<ul>
-		<li id="alo-easymail-widget-3" class="widget alo_easymail_widget"><h2 class="widgettitle">Subscribe</h2><div id="alo_em_widget_loading" style="display:none;"><img src="http://www.thecpaneladmin.com/wp-content/plugins/alo-easymail/images/wpspin_light.gif" alt="" style="vertical-align:middle"> sending...</div>
+		<li id="text-8" class="widget widget_text"><h2 class="widgettitle">Services</h2>			<div class="textwidget"><ul>
+<li><a href="http://thecpaneladmin.com/consultation/">General cPanel/WHM Help</a>
+</li>
+<li>
+<a href="http://www.thecpaneladmin.com/pci-compliance-package-cpanel-servers/">
+cPanel PCI Compliance</a>
+</li>
+<li>
+<a href="http://www.thecpaneladmin.com/server-setup-automation/">cPanel Server Setup Automation</a>
+</li>
+</ul></div>
+		</li><li id="alo-easymail-widget-3" class="widget alo_easymail_widget"><h2 class="widgettitle">Subscribe</h2><div id="alo_em_widget_loading" class="alo_em_widget_loading" style="display:none;"><img src="http://www.thecpaneladmin.com/wp-content/plugins/alo-easymail/images/wpspin_light.gif" alt="" style="vertical-align:middle"> sending...</div>
 <div id="alo_easymail_widget_feedback"></div>
-<form name="alo_easymail_widget_form" id="alo_easymail_widget_form" method="post" action="" onsubmit="alo_em_pubblic_form();return false;">
+<form name="alo_easymail_widget_form" id="alo_easymail_widget_form" class="alo_easymail_widget_form alo_easymail_widget_form_public" method="post" action="" onsubmit="alo_em_pubblic_form();return false;">
 <table class="alo_easymail_form_table"><tbody>
   <tr>
-    <td>Name</td>    <td><input type="text" name="alo_em_opt_name" value="" id="opt_name" size="10" maxlength="50"></td>
+    <td>Name</td>    <td><input type="text" name="alo_em_opt_name" value="" id="opt_name" maxlength="50" class="input-text"></td>
   </tr>
   <tr>
     <td>E-mail</td>
-    <td><input type="text" name="alo_em_opt_email" value="" id="opt_email" size="10" maxlength="50"></td>
+    <td><input type="text" name="alo_em_opt_email" value="" id="opt_email" maxlength="50" class="input-text"></td>
   </tr>
 </tbody></table>
-<input type="submit" name="submit" value="Subscribe">
+<input type="submit" name="submit" value="Subscribe" class="input-submit">
 </form>
 </li><li id="pages-3" class="widget widget_pages"><h2 class="widgettitle">Stuff</h2>		<ul>
 			<li class="page_item page-item-400"><a href="http://www.thecpaneladmin.com/archives/" title="Archives">Archives</a></li>
 <li class="page_item page-item-582"><a href="http://www.thecpaneladmin.com/cheat-sheets/" title="Cheat Sheets">Cheat Sheets</a></li>
 <li class="page_item page-item-453"><a href="http://www.thecpaneladmin.com/cpanel-scripts/" title="cPanel Scripts">cPanel Scripts</a></li>
 <li class="page_item page-item-405"><a href="http://www.thecpaneladmin.com/downloads/" title="Downloads">Downloads</a></li>
-<li class="page_item page-item-665"><a href="http://www.thecpaneladmin.com/pci-compliance-package-cpanel-servers/" title="PCI Compliance Package for cPanel Servers">PCI Compliance Package for cPanel Servers</a></li>
+<li class="page_item page-item-765"><a href="http://www.thecpaneladmin.com/partners/" title="Partners">Partners</a></li>
+<li class="page_item page-item-785"><a href="http://www.thecpaneladmin.com/server-setup-automation/" title="Server Setup Automation">Server Setup Automation</a></li>
 		</ul>
 		</li><li id="text-6" class="widget widget_text">			<div class="textwidget"><center>
 <a href="http://cpanel.net/podcast" target="_blank"><img src="http://www.cpanel.net/podcast/images/badge200x53.png" alt="cPanel Podcast" style="border:none"></a>
 </center></div>
-		</li>		<li id="new-tag-cloud" class="widget print_newtagcloud">		<h2>Tags</h2><ul id="newtagcloud"><li><a style="font-size:10px" href="http://www.thecpaneladmin.com/tag/apache/" target="_self">apache</a> <a style="font-size:10px" href="http://www.thecpaneladmin.com/tag/automation/" target="_self">automation</a> <a style="font-size:10px" href="http://www.thecpaneladmin.com/tag/backups/" target="_self">backups</a> <a style="font-size:10px" href="http://www.thecpaneladmin.com/tag/branding/" target="_self">branding</a> <a style="font-size:10px" href="http://www.thecpaneladmin.com/tag/bugs/" target="_self">bugs</a> <a style="font-size:10px" href="http://www.thecpaneladmin.com/tag/cheatsheets/" target="_self">cheatsheets</a> <a style="font-size:10px" href="http://www.thecpaneladmin.com/tag/clamav/" target="_self">clamav</a> <a style="font-size:10px" href="http://www.thecpaneladmin.com/tag/conference/" target="_self">conference</a> <a style="font-size:10px" href="http://www.thecpaneladmin.com/tag/customization/" target="_self">customization</a> <a style="font-size:10px" href="http://www.thecpaneladmin.com/tag/dns/" target="_self">dns</a> <a style="font-size:10px" href="http://www.thecpaneladmin.com/tag/easyapache/" target="_self">easyapache</a> <a style="font-size:10px" href="http://www.thecpaneladmin.com/tag/email/" target="_self">email</a> <a style="font-size:16px" href="http://www.thecpaneladmin.com/tag/exim/" target="_self">exim</a> <a style="font-size:10px" href="http://www.thecpaneladmin.com/tag/firewall/" target="_self">firewall</a> <a style="font-size:22px" href="http://www.thecpaneladmin.com/tag/fixes/" target="_self">fixes</a> <a style="font-size:10px" href="http://www.thecpaneladmin.com/tag/freebies/" target="_self">freebies</a> <a style="font-size:12px" href="http://www.thecpaneladmin.com/tag/ftp/" target="_self">ftp</a> <a style="font-size:24px" href="http://www.thecpaneladmin.com/tag/howto/" target="_self">howto</a> <a style="font-size:10px" href="http://www.thecpaneladmin.com/tag/imap/" target="_self">imap</a> <a style="font-size:12px" href="http://www.thecpaneladmin.com/tag/mail/" target="_self">mail</a> <a style="font-size:10px" href="http://www.thecpaneladmin.com/tag/management/" target="_self">management</a> <a style="font-size:10px" href="http://www.thecpaneladmin.com/tag/money/" target="_self">money</a> <a style="font-size:10px" href="http://www.thecpaneladmin.com/tag/monitoring/" target="_self">monitoring</a> <a style="font-size:10px" href="http://www.thecpaneladmin.com/tag/mysql/" target="_self">mysql</a> <a style="font-size:10px" href="http://www.thecpaneladmin.com/tag/networking/" target="_self">networking</a> <a style="font-size:14px" href="http://www.thecpaneladmin.com/tag/news/" target="_self">news</a> <a style="font-size:10px" href="http://www.thecpaneladmin.com/tag/performance/" target="_self">performance</a> <a style="font-size:10px" href="http://www.thecpaneladmin.com/tag/perl/" target="_self">perl</a> <a style="font-size:12px" href="http://www.thecpaneladmin.com/tag/php/" target="_self">php</a> <a style="font-size:10px" href="http://www.thecpaneladmin.com/tag/postgres/" target="_self">postgres</a> <a style="font-size:10px" href="http://www.thecpaneladmin.com/tag/red5/" target="_self">red5</a> <a style="font-size:10px" href="http://www.thecpaneladmin.com/tag/redhat/" target="_self">redhat</a> <a style="font-size:10px" href="http://www.thecpaneladmin.com/tag/roundcube/" target="_self">roundcube</a> <a style="font-size:14px" href="http://www.thecpaneladmin.com/tag/scripts/" target="_self">scripts</a> <a style="font-size:12px" href="http://www.thecpaneladmin.com/tag/security/" target="_self">security</a> <a style="font-size:10px" href="http://www.thecpaneladmin.com/tag/spam/" target="_self">spam</a> <a style="font-size:10px" href="http://www.thecpaneladmin.com/tag/spamassassin/" target="_self">spamassassin</a> <a style="font-size:10px" href="http://www.thecpaneladmin.com/tag/ssl/" target="_self">ssl</a> <a style="font-size:10px" href="http://www.thecpaneladmin.com/tag/stats/" target="_self">stats</a> <a style="font-size:10px" href="http://www.thecpaneladmin.com/tag/third-party/" target="_self">third party</a> <a style="font-size:16px" href="http://www.thecpaneladmin.com/tag/tips/" target="_self">tips</a> <a style="font-size:20px" href="http://www.thecpaneladmin.com/tag/tricks/" target="_self">tricks</a> <a style="font-size:10px" href="http://www.thecpaneladmin.com/tag/troubleshooting/" target="_self">troubleshooting</a> <a style="font-size:10px" href="http://www.thecpaneladmin.com/tag/webmail/" target="_self">webmail</a> <a style="font-size:18px" href="http://www.thecpaneladmin.com/tag/whm/" target="_self">whm</a></li></ul>		</li><li id="linkcat-2" class="widget widget_links"><h2 class="widgettitle">Sites to Check Out</h2>
+		</li>		<li id="new-tag-cloud" class="widget print_newtagcloud">		<h2>Tags</h2><ul id="newtagcloud"><li><a style="font-size:10px" href="http://www.thecpaneladmin.com/tag/apache/" target="_self">apache</a> <a style="font-size:10px" href="http://www.thecpaneladmin.com/tag/automation/" target="_self">automation</a> <a style="font-size:10px" href="http://www.thecpaneladmin.com/tag/backups/" target="_self">backups</a> <a style="font-size:10px" href="http://www.thecpaneladmin.com/tag/branding/" target="_self">branding</a> <a style="font-size:10px" href="http://www.thecpaneladmin.com/tag/bugs/" target="_self">bugs</a> <a style="font-size:10px" href="http://www.thecpaneladmin.com/tag/cheatsheets/" target="_self">cheatsheets</a> <a style="font-size:10px" href="http://www.thecpaneladmin.com/tag/clamav/" target="_self">clamav</a> <a style="font-size:10px" href="http://www.thecpaneladmin.com/tag/conference/" target="_self">conference</a> <a style="font-size:10px" href="http://www.thecpaneladmin.com/tag/cron/" target="_self">cron</a> <a style="font-size:10px" href="http://www.thecpaneladmin.com/tag/customization/" target="_self">customization</a> <a style="font-size:10px" href="http://www.thecpaneladmin.com/tag/dns/" target="_self">dns</a> <a style="font-size:10px" href="http://www.thecpaneladmin.com/tag/easyapache/" target="_self">easyapache</a> <a style="font-size:10px" href="http://www.thecpaneladmin.com/tag/email/" target="_self">email</a> <a style="font-size:18px" href="http://www.thecpaneladmin.com/tag/exim/" target="_self">exim</a> <a style="font-size:10px" href="http://www.thecpaneladmin.com/tag/firewall/" target="_self">firewall</a> <a style="font-size:22px" href="http://www.thecpaneladmin.com/tag/fixes/" target="_self">fixes</a> <a style="font-size:10px" href="http://www.thecpaneladmin.com/tag/freebies/" target="_self">freebies</a> <a style="font-size:10px" href="http://www.thecpaneladmin.com/tag/ftp/" target="_self">ftp</a> <a style="font-size:24px" href="http://www.thecpaneladmin.com/tag/howto/" target="_self">howto</a> <a style="font-size:10px" href="http://www.thecpaneladmin.com/tag/imap/" target="_self">imap</a> <a style="font-size:10px" href="http://www.thecpaneladmin.com/tag/mail/" target="_self">mail</a> <a style="font-size:10px" href="http://www.thecpaneladmin.com/tag/management/" target="_self">management</a> <a style="font-size:10px" href="http://www.thecpaneladmin.com/tag/money/" target="_self">money</a> <a style="font-size:10px" href="http://www.thecpaneladmin.com/tag/monitoring/" target="_self">monitoring</a> <a style="font-size:10px" href="http://www.thecpaneladmin.com/tag/mysql/" target="_self">mysql</a> <a style="font-size:10px" href="http://www.thecpaneladmin.com/tag/networking/" target="_self">networking</a> <a style="font-size:12px" href="http://www.thecpaneladmin.com/tag/news/" target="_self">news</a> <a style="font-size:10px" href="http://www.thecpaneladmin.com/tag/performance/" target="_self">performance</a> <a style="font-size:10px" href="http://www.thecpaneladmin.com/tag/perl/" target="_self">perl</a> <a style="font-size:10px" href="http://www.thecpaneladmin.com/tag/php/" target="_self">php</a> <a style="font-size:10px" href="http://www.thecpaneladmin.com/tag/postgres/" target="_self">postgres</a> <a style="font-size:10px" href="http://www.thecpaneladmin.com/tag/red5/" target="_self">red5</a> <a style="font-size:10px" href="http://www.thecpaneladmin.com/tag/redhat/" target="_self">redhat</a> <a style="font-size:10px" href="http://www.thecpaneladmin.com/tag/roundcube/" target="_self">roundcube</a> <a style="font-size:14px" href="http://www.thecpaneladmin.com/tag/scripts/" target="_self">scripts</a> <a style="font-size:14px" href="http://www.thecpaneladmin.com/tag/security/" target="_self">security</a> <a style="font-size:10px" href="http://www.thecpaneladmin.com/tag/services/" target="_self">services</a> <a style="font-size:10px" href="http://www.thecpaneladmin.com/tag/spam/" target="_self">spam</a> <a style="font-size:10px" href="http://www.thecpaneladmin.com/tag/spamassassin/" target="_self">spamassassin</a> <a style="font-size:10px" href="http://www.thecpaneladmin.com/tag/ssl/" target="_self">ssl</a> <a style="font-size:10px" href="http://www.thecpaneladmin.com/tag/stats/" target="_self">stats</a> <a style="font-size:10px" href="http://www.thecpaneladmin.com/tag/third-party/" target="_self">third party</a> <a style="font-size:16px" href="http://www.thecpaneladmin.com/tag/tips/" target="_self">tips</a> <a style="font-size:20px" href="http://www.thecpaneladmin.com/tag/tricks/" target="_self">tricks</a> <a style="font-size:10px" href="http://www.thecpaneladmin.com/tag/troubleshooting/" target="_self">troubleshooting</a> <a style="font-size:10px" href="http://www.thecpaneladmin.com/tag/webmail/" target="_self">webmail</a> <a style="font-size:16px" href="http://www.thecpaneladmin.com/tag/whm/" target="_self">whm</a></li></ul>		</li><li id="text-5" class="widget widget_text"><h2 class="widgettitle">Sponsors</h2>			<div class="textwidget"><center>
+
+<a href="http://www.spamexperts.com"><img src="http://www.thecpaneladmin.com/wp-content/uploads/2011/02/spamexperts_160_600_01_02.gif"></a>
+</center></div>
+		</li><li id="linkcat-2" class="widget widget_links"><h2 class="widgettitle">Sites to Check Out</h2>
 	<ul class="xoxo blogroll">
-<li><a href="http://configserver.com" target="_blank">ConfigServer</a></li>
 <li><a href="http://controlpanelblog.com/" target="_blank">Control Panel Blog</a></li>
-<li><a href="http://cplicensing.net" title="Purchase cPanel licenses, obtain FREE scripts for your server" target="_blank">cPlicensing.net</a></li>
 <li><a href="http://erikimh.com/" title="INSIDE THE MIND OF A LINUX SYSTEM ADMINISTRATOR, Resources, information and more" target="_blank">erikimh – linux sysadmin blog</a></li>
 <li><a href="http://www.learncpanel.com/" target="_blank">Learn cPanel</a></li>
 <li><a href="http://www.cyberciti.biz" target="_blank">Nix Craft</a></li>
@@ -351,21 +405,11 @@ google_color_text = "000000";
 	</ul>
 </li>
 		<li id="popularity-lists-1" class="widget widget_popularity_lists">			<h2 class="widgettitle">Popular Posts</h2>			<ul>
-			<li><a href="http://www.thecpaneladmin.com/modifying-smtp-relay-settings-exim/">Modifying SMTP Relay Settings for Exim</a></li><li><a href="http://www.thecpaneladmin.com/changing-exims-sending-ip/">Changing Exim's Sending IP</a></li><li><a href="http://www.thecpaneladmin.com/11-ways-to-free-up-disk-space-on-a-cpanel-server/">11 Ways to Free Up Disk Space on a cPanel Server</a></li><li><a href="http://www.thecpaneladmin.com/cpanel-backup-system/">The cPanel Backup System</a></li><li><a href="http://www.thecpaneladmin.com/increasing-size-of-tmpdsk-tmp/">Increasing the Size of tmpDSK (/tmp)</a></li><li><a href="http://www.thecpaneladmin.com/installing-domainkeys-spf-records/">Installing DomainKeys and SPF Records</a></li><li><a href="http://www.thecpaneladmin.com/securing-ftp-access-on-cpanel-server/">Securing FTP Access on a cPanel Server</a></li><li><a href="http://www.thecpaneladmin.com/installing-ssl-certificate-on-shared-ip/">Installing an SSL Certificate on a Shared IP</a></li><li><a href="http://www.thecpaneladmin.com/cpanel-command-line-dns-cluster-management/">cPanel Command Line DNS and Cluster Management</a></li><li><a href="http://www.thecpaneladmin.com/10-free-monitoring-solutions/">10 Free Monitoring Solutions to Consider</a></li>			</ul>
-		</li><li id="meta-3" class="widget widget_meta"><h2 class="widgettitle">Meta</h2>			<ul>
-			<li><a href="http://www.thecpaneladmin.com/wp-login.php?action=register">Register</a></li>			<li><a href="http://www.thecpaneladmin.com/wp-login.php">Log in</a></li>
-			<li><a href="http://www.thecpaneladmin.com/feed/" title="Syndicate this site using RSS 2.0">Entries <abbr title="Really Simple Syndication">RSS</abbr></a></li>
-			<li><a href="http://www.thecpaneladmin.com/comments/feed/" title="The latest comments to all posts in RSS">Comments <abbr title="Really Simple Syndication">RSS</abbr></a></li>
-			<li><a href="http://wordpress.org/" title="Powered by WordPress, state-of-the-art semantic personal publishing platform.">WordPress.org</a></li>
-						</ul>
-</li><li id="text-5" class="widget widget_text"><h2 class="widgettitle">Sponsors</h2>			<div class="textwidget"><center>
-
+			<li><a href="http://www.thecpaneladmin.com/modifying-smtp-relay-settings-exim/">Modifying SMTP Relay Settings for Exim</a></li><li><a href="http://www.thecpaneladmin.com/changing-exims-sending-ip/">Changing Exim's Sending IP</a></li><li><a href="http://www.thecpaneladmin.com/11-ways-to-free-up-disk-space-on-a-cpanel-server/">11 Ways to Free Up Disk Space on a cPanel Server</a></li><li><a href="http://www.thecpaneladmin.com/increasing-size-of-tmpdsk-tmp/">Increasing the Size of tmpDSK (/tmp)</a></li><li><a href="http://www.thecpaneladmin.com/installing-domainkeys-spf-records/">Installing DomainKeys and SPF Records</a></li><li><a href="http://www.thecpaneladmin.com/cpanel-backup-system/">The cPanel Backup System</a></li><li><a href="http://www.thecpaneladmin.com/installing-ssl-certificate-on-shared-ip/">Installing an SSL Certificate on a Shared IP</a></li><li><a href="http://www.thecpaneladmin.com/php-500-internal-server-errors/">PHP 500 Internal Server Errors</a></li><li><a href="http://www.thecpaneladmin.com/securing-ftp-access-on-cpanel-server/">Securing FTP Access on a cPanel Server</a></li><li><a href="http://www.thecpaneladmin.com/fix-account-permissions/">Simple Bash Script to Fix Account Permissions</a></li>			</ul>
+		</li><li id="text-7" class="widget widget_text"><h2 class="widgettitle">Sponsors</h2>			<div class="textwidget"><center>
 <a href="http://perfectmoney.com/?ref=590342" title="Perfect Money - new generation of Internet payment system">
 <img src="http://perfectmoney.com/img/banners/en_US/accepted_3.jpg" height="75" hspace="5" width="150">
 </a>
-
-
-
 </center></div>
 		</li>			        </ul>
 	</div>
@@ -386,7 +430,9 @@ google_color_text = "000000";
 		<p class="designed">
 		Powered by <a href="http://wordpress.org/">WordPress</a> | 
 		Theme by <a href="http://www.webhostingreport.com/">Web Hosting</a> <br>
-                Hosted by <a href="http://www.inmotionhosting.com">InMotion Hosting</a><br>
+                Hosted by <a href="http://www.inmotionhosting.com">InMotion Hosting</a>| 
+                Protected against viruses and spam by <a href="http://spamexperts.com">SpamExperts</a>
+		<br>
 		<a href="http://www.thecpaneladmin.com/privacy">Privacy</a> | 
 		<a href="http://www.thecpaneladmin.com/legal">Legal</a>
 		</p>
@@ -401,18 +447,7 @@ jQuery(function() {
 	jQuery.post("index.php",{ak_action:"api_record_view", ids: AKPC_IDS, type:"page"}, false, "json");
 });
 </script>
-		<script type="text/javascript" src="http://www.thecpaneladmin.com/wp-content/plugins/wp-popup-scheduler/simple_popup_min.js"></script>
-		<script type="text/javascript" src="http://www.thecpaneladmin.com/wp-content/plugins/wp-popup-scheduler/float.js"></script>
-		<script type="text/javascript">
-		var popup_width = '450';
-		var bg_color = '#FFFFFF';
-		var popup_content = '<div class="wps_closewin_text"><a href="" onclick="document.getElementById(\'WPS_popup_message\').style.visibility=\'hidden\';document.getElementById(\'lightbox_div\').style.visibility=\'hidden\';return false;"><span style="color:#FF6600">[Close Window]</span></a></div><div class="wps_headline"><h2 align="center"><span style="color:#000000"></span></h2></div><div class="wps_body">&lt;p style=\&quot;text-align: center;\&quot;&gt;&lt;strong&gt;&lt;span style=\&quot;font-size: large;\&quot;&gt;We want to help you.&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p style=\&quot;text-align: center;\&quot;&gt;&lt;a href=\&quot;../consultation\&quot; target=\&quot;_blank\&quot;&gt;&lt;img style=\&quot;border: 0; vertical-align: middle; margin: 5px;\&quot; src=\&quot;../wp-content/uploads/2009/12/frustrated.gif\&quot; alt=\&quot;Frustratred?\&quot; width=\&quot;111\&quot; height=\&quot;111\&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;span style=\&quot;color: #000000;\&quot;&gt;Sometimes you just need an expert.&lt;/span&gt;&lt;/strong&gt; If you\'re at your wit\'s end or you just need help managing your servers, why not hire us? We\'re &lt;span style=\&quot;color: #008000;\&quot;&gt;fast&lt;/span&gt;, &lt;em&gt;easy to work with&lt;/em&gt;, and we offer some of the &lt;span style=\&quot;color: #ff6600;\&quot;&gt;lowest consultation rates in the industry.&lt;/span&gt;&amp;nbsp; &lt;a href=\&quot;../consultation\&quot; target=\&quot;_blank\&quot;&gt;Click here to find out more&lt;/a&gt;&lt;/p&gt;&lt;p&gt;While you\'re here, why not also subscribe to our &lt;a href=\&quot;../feed\&quot; target=\&quot;_blank\&quot;&gt;RSS feed&lt;/a&gt; and newsletter?&lt;/p&gt;</div>';
-		var effect = 'lightbox';
-		var delay = 2000;
-		var autoscroll = 1;
-		var popup_left = "center";var popup_top = "center";		loadPopup(popup_content,bg_color,popup_width,effect,popup_left,popup_top,delay,autoscroll);
-	</script>
-
+	
 
 </div>
 <script type="text/javascript">
