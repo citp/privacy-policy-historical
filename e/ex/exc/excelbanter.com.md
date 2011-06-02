@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the excelbanter.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127003208id_/http%3A//excelbanter.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the excelbanter.com privacy policy that was archived on 2011-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110602173742id_/http%3A//excelbanter.com/privacy.php) for the most accurate reproduction.*
 
 # ExcelBanter Privacy Statement
 
@@ -23,16 +23,16 @@ This web site contains links to other sites. Please be aware that we are not res
 **Security**  
 ExcelBanter takes every precaution to protect your information. The server on which this site resides is administered by a commercial hosting company. Access to the server is restricted to trusted personnel and contained in a secure data center. If you have any questions regarding the security at our website, you can send an email to 
 
-[excelbanter@newsgroupbanter.com](https://web.archive.org/web/20101127003208id_/http%3A//excelbanter.com/sendmessage.php). 
+[excelbanter@newsgroupbanter.com](https://web.archive.org/web/20110602173742id_/http%3A//excelbanter.com/sendmessage.php). 
 
 **Site and Service Updates**  
 We occasionally send you site and service announcement updates. During registration members are permitted to opt-out of these mailings. Should you choose not to receive these announcements, ExcelBanter can not be held responsible for notifying you of any any changes made to this policy. 
 
 **Correcting/Updating Personal Information**  
-Your personally identifiable information is always accessible by you and can be changed at any time by visiting your profile page. If you no longer wish to be a member of ExcelBanter, you should email [excelbanter@newsgroupbanter.com](https://web.archive.org/web/20101127003208id_/http%3A//excelbanter.com/sendmessage.php) to have your information permanently deleted from the site. 
+Your personally identifiable information is always accessible by you and can be changed at any time by visiting your profile page. If you no longer wish to be a member of ExcelBanter, you should email [excelbanter@newsgroupbanter.com](https://web.archive.org/web/20110602173742id_/http%3A//excelbanter.com/sendmessage.php) to have your information permanently deleted from the site. 
 
 **Notification of Changes**  
 Notification of changes to our privacy policy are sent to members by way of email announcements. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. During registration members are permitted to opt-out of administrator mailings. Should you choose not to receive these announcements, ExcelBanter can not be held responsible for notifying you of any changes made to this policy. 
 
 **Archiving of posts**  
-This forum archives posts from various newsgroups. It adheres to the 'X-No-Archive: Yes' standard in the headers of the post. If you wish you posts not to be archived on this or other archives which follow this convention, please use this in your message headers. More details relating to archiving of posts can be found at the [faq's](https://web.archive.org/web/20101127003208id_/http%3A//excelbanter.com/faq.php?faq=newsgroups#faq_newsgroups1). If you request a post to be considered for removal, please email the url (web address) to [excelbanter@newsgroupbanter.com](https://web.archive.org/web/20101127003208id_/http%3A//excelbanter.com/sendmessage.php) together with the reason for removal. 
+This forum archives posts from various newsgroups. It adheres to the 'X-No-Archive: Yes' standard in the headers of the post. If you wish you posts not to be archived on this or other archives which follow this convention, please use this in your message headers. More details relating to archiving of posts can be found at the [faq's](https://web.archive.org/web/20110602173742id_/http%3A//excelbanter.com/faq.php?faq=newsgroups#faq_newsgroups1). If you request a post to be considered for removal, please email the url (web address) to [excelbanter@newsgroupbanter.com](https://web.archive.org/web/20110602173742id_/http%3A//excelbanter.com/sendmessage.php) together with the reason for removal. 
