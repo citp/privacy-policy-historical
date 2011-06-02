@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jamesonwhiskey.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212200641id_/http%3A//www.jamesonwhiskey.com/footerNav/privacyGENERIC.aspx%2520%3Fsource%3DTITLE%26TB_iframe%3Dtrue%26height%3D500%26width%3D800%26modal%3Dtrue) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jamesonwhiskey.com privacy policy that was archived on 2011-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110602120432id_/http%3A//www.jamesonwhiskey.com/footerlinks_NOAV/Privacy-Policy.aspx) for the most accurate reproduction.*
 
-# Jameson Irish Whiskey - Jameson Irish Whiskey
+# Jameson Irish Whiskey - Jameson Irish Whiskey home
 
 YOU SHOULD NOT USE THIS WEBSITE IF YOU ARE NOT OF LEGAL DRINKING AGE IN YOUR COUNTY OF RESIDENCE OR IF YOU DO NOT ACCEPT THE TERMS OF THE [TERMS AND CONDITIONS](https://web.archive.org/footerNav/terms_and_conditions.aspx?source=TITLE&TB_iframe=true&height=500&width=600&modal=true) OR THIS PRIVACY STATEMENT. YOUR USE OF THIS WEBSITE SIGNIFIES YOUR ACCEPTANCE OF THIS PRIVACY STATEMENT WHICH IS INCORPORATED INTO THE TERMS AND CONDITIONS.
 
