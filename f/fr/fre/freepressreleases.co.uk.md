@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freepressreleases.co.uk privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230160605id_/http%3A//www.freepressreleases.co.uk/privacy-policy2345211345) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freepressreleases.co.uk privacy policy that was archived on 2011-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110602134133id_/http%3A//www.freepressreleases.co.uk/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D91826%26Itemid%3D62) for the most accurate reproduction.*
 
-# Privacy Policy [91826]
+# Privacy Policy
 
 We are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information.
 
