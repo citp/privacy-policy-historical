@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cyclefish.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226173143id_/http%3A//www.cyclefish.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyclefish.com privacy policy that was archived on 2011-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110602170242id_/http%3A//www.cyclefish.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - CycleFish
 
@@ -8,7 +8,7 @@ Note: the privacy practices set forth in this privacy policy are for this web si
 
 Collection of Information
 
-We collect personally identifiable information (email address, and general location (county and postal code), when voluntarily submitted by our visitors upon registration for a personal profile account on the CycleFish.com website. The email you provide is used to verify that the account registration is from an actual person with verifiable contact, and also used to send activity notifications (which you can optionally choose not to receive in your profile settings, and newsletters and updates from the CycleFish.com website only. Your email is NEVER made visible or available to any other users of the website, advertisers, or any third party. The general location information you provide is only used to delivery content on the website relevant to your area.
+We collect personally identifiable information limited to only your email address, and general location (county and postal code), when voluntarily submitted by our visitors upon registration for a personal profile account on the CycleFish.com website. The email you provide is used to verify that the account registration is from an actual person with verifiable contact, and also used to send activity notifications (which you can optionally choose not to receive in your profile settings), and newsletters and updates from the CycleFish.com website only. Your email is NEVER made visible or available to any other users of the website, advertisers, or any third party. The general location information you provide is only used to display content on the website relevant to your area.
 
 Publicly Posted Information
 
@@ -36,6 +36,12 @@ By phone:
 
 We reserve the right to make changes to this policy. Any changes to this policy will be posted.
 
-| |   
+|  | 
+
+[](http://www.cyclefish.com/business_paid_ads.php)  
+  
+[](http://www.cookscorners.com/)  
+  
+  
   
 Copyright © 2009 CycleFish.com       |       The CycleFish website is proudly hosted at: [**HostGator.com**](http://www.anrdoezrs.net/click-3550386-10409151 "Outstand Hosting Service with Affordable Plans for Any Website")
