@@ -1,20 +1,26 @@
-<!--The following is the downloaded HTML source of the usertesting.com privacy policy that was archived on 2010-12-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101227093042id_/http%3A//www.usertesting.com/PrivacyPolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the usertesting.com privacy policy that was archived on 2011-06-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110602042029id_/http%3A//www.usertesting.com/PrivacyPolicy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head id="page_header">
+    
+    
+
     <link type="text/css" rel="Stylesheet" href="css/smoothness/jquery-ui-1.8rc3.custom.css">
     <link type="text/css" rel="Stylesheet" href="css/common.css">
     <!--[if lte IE 6]>
 		<link rel="stylesheet" type="text/css" media="screen" href="css/ie.css" />    
 	<![endif]-->
 
+
     <script type="text/javascript" src="js/jquery-1.3.2.min.js"></script>
+ <!--   <script type="text/javascript" src="js/jquery-1.4.2.min.js"></script>
+    <script type="text/javascript" src="js/jquery-ui-1.7.3.custom.min.js"></script>
+-->
+    <script type="text/javascript" src="js/jquery-ui-1.8.12.custom.min.js"></script>
 
-    <script type="text/javascript" src="js/jquery-ui-1.7.2.custom.min.js"></script>
+    <script type="text/javascript" src="js/Script.js?634425599964723750"></script>
 
-    <script type="text/javascript" src="js/Script.js?634290102457456250"></script>
-
-    <script type="text/javascript" src="js/common.js?634290102457456250"></script>
+    <script type="text/javascript" src="js/common.js?634425599964723750"></script>
 
     <script type="text/javascript" src="js/cookie.js"></script>
 
@@ -23,7 +29,83 @@
     <script type="text/javascript" src="js/popup.js"></script>
   
     <script type="text/javascript" src="js/AC_RunActiveContent.js"></script>
+	<style>
+	.menu_strip A {
+		background-repeat: no-repeat;
+		width: 73px;
+		height: 43px;
+		display: block;
+		float: left;
+		background-position: 100px 100px;
+	}
+	a#a_index { width: 83px; background-position: -1px 0px }
+	a#a_faq { width: 70px; background-position: -84px 0px }
+	a#a_blog { width: 74px; background-position: -154px 0px }
+	a#a_buzz { width: 74px; background-position: -228px 0px }
+	a#a_aboutus { width: 104px; background-position: -302px 0px }
+	a#a_tryit { width: 79px; background-position: -406px 0px }
+	.background-paper {
+		width: 998px;
+		background-image: url('images/new_images/background_paper_sprite.png');
+		background-repeat: no-repeat;
+		background-position: 998px 90px;
+	}
+	.background-paper-top { background-position: 0px 0px; height: 30px;}
+	.background-paper-bot { background-position: 0px -66px; height: 20px; }
+	.topPadding { padding-top:5px; }
+	</style>
+	<script>
+	var menu_sprite = {
+		"a_index": { pos: -1, pages: ["index"] }
+		,"a_faq": { pos: -84, pages: ["faq"] }
+		,"a_blog": { pos: -154, pages: ["blog"] }
+		,"a_buzz": { pos: -228, pages: ["buzz"] }
+		,"a_aboutus": { pos: -302, pages: ["aboutus", "contactus", "jobs", "whyusertesting"] }
+		,"a_tryit": { pos: -406, pages: ["clientsignup","clientsignupwizardexpressjob"] }
+		,"top_pos" : 0
+		, "over_inc": -47
+		, "selected_inc" : -93
+	};
+	function setNavigationImages(){
+		var _isG = 1;
+		var _isEC = 0;
+		if(window["gwoType"] == undefined) gwoType = '';
+		if(_isG && !_isEC && gwoType == '') {
+			window.setTimeout(setNavigationImages, 1000);
+		}
+		
+		jQuery(".menu_strip A")
+			.css("background-image", "url('images/new_images/menu_sprite1.png')")
+			;
+		jQuery("a#a_tryit")
+			.css("background-position", menu_sprite["a_tryit"]["pos"] + "px " + menu_sprite["top_pos"] + "px")
+			;
+		
+	}
+	var prepare_site_menu = function(){
+		setNavigationImages();
 
+		var curPage = "privacypolicy";
+		jQuery(".menu_strip a").each(function(i, o){
+			if( ("||" + menu_sprite[o.id]["pages"].join("||") + "||").indexOf("||"+ curPage +"||") > -1){
+				this.style.backgroundPosition =  menu_sprite[this.id]["pos"] + "px " + menu_sprite["selected_inc"] + "px";
+				return true;
+			}
+			o.style.backgroundPosition =  menu_sprite[o.id]["pos"] + "px " + menu_sprite["top_pos"] + "px";
+			o.onmouseover = function(e){
+				this.style.backgroundPosition =  menu_sprite[this.id]["pos"] + "px " + menu_sprite["over_inc"] + "px";
+			};
+			o.onmouseout = function(e){
+				this.style.backgroundPosition =  menu_sprite[this.id]["pos"] + "px " + menu_sprite["top_pos"] + "px";
+			};
+		});
+	};
+	jQuery(document).ready(function() {
+		prepare_site_menu();
+		if('False' == 'True')
+            {jQuery("#header_first").css("right","47px");}
+	});
+	</script>
     
     <style>
         H1.PageHeader
@@ -59,24 +141,26 @@
 
 
 
-</head>
+<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 <body>
     <form name="aspnetForm" method="post" action="PrivacyPolicy.aspx" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMjExMzg4Mzk4Ng9kFgJmD2QWAmYPZBYCAgEPZBYQZg8WBB4Lb25tb3VzZW92ZXIFL3RoaXMuc3JjPSdpbWFnZXMvbmV3X2ltYWdlcy9ob21lX21vdXNlb3Zlci5wbmcnHgpvbm1vdXNlb3V0BSx0aGlzLnNyYz0naW1hZ2VzL25ld19pbWFnZXMvaG9tZV9ub3JtYWwucG5nJ2QCAQ8WBB8ABTd0aGlzLnNyYz0naW1hZ2VzL25ld19pbWFnZXMvaG93X2l0X3dvcmtzX21vdXNlb3Zlci5wbmcnHwEFNHRoaXMuc3JjPSdpbWFnZXMvbmV3X2ltYWdlcy9ob3dfaXRfd29ya3Nfbm9ybWFsLnBuZydkAgIPFgQfAAUzdGhpcy5zcmM9J2ltYWdlcy9uZXdfaW1hZ2VzL2V4YW1wbGVzX21vdXNlb3Zlci5wbmcnHwEFMHRoaXMuc3JjPSdpbWFnZXMvbmV3X2ltYWdlcy9leGFtcGxlc19ub3JtYWwucG5nJ2QCAw8WBB8ABS50aGlzLnNyYz0naW1hZ2VzL25ld19pbWFnZXMvRkFRX21vdXNlb3Zlci5wbmcnHwEFK3RoaXMuc3JjPSdpbWFnZXMvbmV3X2ltYWdlcy9GQVFfbm9ybWFsLnBuZydkAgQPFgQfAAUvdGhpcy5zcmM9J2ltYWdlcy9uZXdfaW1hZ2VzL2J1enpfbW91c2VvdmVyLnBuZycfAQUsdGhpcy5zcmM9J2ltYWdlcy9uZXdfaW1hZ2VzL2J1enpfbm9ybWFsLnBuZydkAgUPFgQfAAUzdGhpcy5zcmM9J2ltYWdlcy9uZXdfaW1hZ2VzL2Fib3V0X3VzX21vdXNlb3Zlci5wbmcnHwEFMHRoaXMuc3JjPSdpbWFnZXMvbmV3X2ltYWdlcy9hYm91dF91c19ub3JtYWwucG5nJ2QCBg8WBB8ABS90aGlzLnNyYz0naW1hZ2VzL25ld19pbWFnZXMvYmxvZ19tb3VzZW92ZXIucG5nJx8BBSx0aGlzLnNyYz0naW1hZ2VzL25ld19pbWFnZXMvYmxvZ19ub3JtYWwucG5nJ2QCBw8WBB8ABTF0aGlzLnNyYz0naW1hZ2VzL25ld19pbWFnZXMvdHJ5X2l0X21vdXNlb3Zlci5wbmcnHwEFLnRoaXMuc3JjPSdpbWFnZXMvbmV3X2ltYWdlcy90cnlfaXRfbm9ybWFsLnBuZydkZHB7RmagUp9rysjiGNVJgoGP7lus">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMjExMzg4Mzk4NmRk1G1GbzCrqbEIg5Cee984eBVhYgE=">
 
     <div class="HeaderQuestionDiv1">
         <div style="text-align: left;">
             <div class="HeaderQuestionDiv2">
-                <span>&nbsp;</span><span>
-                    <img src="images/new_images/questions.png" style="vertical-align: bottom;"></span><span>&nbsp;&nbsp;&nbsp;&nbsp;</span><a href="http://www.usertesting.com/signin.aspx" class="LoginLink">Sign In »</a></div>
+                <span>&nbsp;</span>
+                
+                <span>
+                    <img src="images/new_images/questions.png" alt="Questions" style="vertical-align: bottom;"></span><span>&nbsp;&nbsp;&nbsp;&nbsp;</span><a href="http://www.usertesting.com/signin.aspx" class="LoginLink">Sign In »</a></div>
         </div>
     </div>
     <div class="MainContentDiv1">
         <table cellpadding="0" cellspacing="0">
             <tbody><tr>
-                <td style="position: relative;">
+                <td style="position: relative;" class="background-paper background-paper-top">
                     
-                    <img src="images/new_images/background_paper_top_998x30.png" height="30px" width="998"></td>
+                </td>
             </tr>
             <tr style="height: 590px;">
                 <td background="" class="MainContentTD" style="padding-top: 5px;">
@@ -88,16 +172,32 @@
                                         <tbody><tr>
                                             <td class="PageLogo">
                                                 <span style="width: 5px;"></span>
-						
+											
                                                 <a href="http://www.usertesting.com/Index.aspx">
-                                                <img src="images/new_images/new_logo.png"></a>
-						
+                                                <img src="images/new_images/new_logo.png" alt="User Testing.com"></a>
+                                                
+					                	
                                             </td>
-                                            <td align="right" style="vertical-align: top">
-                                                <span><a href="http://www.usertesting.com/index.aspx">
-                                                    <img src="images/new_images/home_normal.png" id="_ctl0__ctl0_img_home" onmouseover="this.src='images/new_images/home_mouseover.png'" onmouseout="this.src='images/new_images/home_normal.png'"></a><!--<a href="index.aspx"><img src="images/new_images/how_it_works_normal.png" id="_ctl0__ctl0_img_howitworks" onmouseover="this.src='images/new_images/how_it_works_mouseover.png'" onmouseout="this.src='images/new_images/how_it_works_normal.png'" /></a><a href="index.aspx"><img src="images/new_images/examples_normal.png" id="_ctl0__ctl0_img_examples" onmouseover="this.src='images/new_images/examples_mouseover.png'" onmouseout="this.src='images/new_images/examples_normal.png'" /></a>--><a href="http://www.usertesting.com/faq.aspx"><img src="images/new_images/FAQ_normal.png" id="_ctl0__ctl0_img_faq" onmouseover="this.src='images/new_images/FAQ_mouseover.png'" onmouseout="this.src='images/new_images/FAQ_normal.png'"></a><a href="http://www.usertesting.com/buzz.aspx"><img src="images/new_images/buzz_normal.png" id="_ctl0__ctl0_img_buzz" onmouseover="this.src='images/new_images/buzz_mouseover.png'" onmouseout="this.src='images/new_images/buzz_normal.png'"></a><a href="http://www.usertesting.com/aboutus.aspx"><img src="images/new_images/about_us_normal.png" id="_ctl0__ctl0_img_aboutus" onmouseover="this.src='images/new_images/about_us_mouseover.png'" onmouseout="this.src='images/new_images/about_us_normal.png'"></a><a href="http://www.usertesting.com/clientsignup.aspx" class="tryit_link"><img src="images/new_images/try_it_normal.png" id="_ctl0__ctl0_img_tryit" onmouseover="this.src='images/new_images/try_it_mouseover.png'" onmouseout="this.src='images/new_images/try_it_normal.png'"></a>
-                                                </span>
-                                            </td>
+											
+											<td align="right" style="vertical-align: top;">
+												
+												<div class="menu_strip" style=" float: right;">
+												<a href="http://www.usertesting.com/index.aspx" id="a_index" style="text-decoration: none; background-image: url(&quot;images/new_images/menu_sprite1.png&quot;); background-position: -1px 0px;">
+                                                    <img src="Images/new_images/transparent.png" alt="Home" style="margin-right:35px; text-decoration:none;"> </a>
+												<a href="http://www.usertesting.com/faq.aspx" id="a_faq" style="text-decoration: none; background-image: url(&quot;images/new_images/menu_sprite1.png&quot;); background-position: -84px 0px;"><img src="Images/new_images/transparent.png" alt="FAQ" style="margin-right:35px;"></a>
+												<a href="http://www.usertesting.com/buzz.aspx" id="a_buzz" style="text-decoration: none; background-image: url(&quot;images/new_images/menu_sprite1.png&quot;); background-position: -228px 0px;"><img src="Images/new_images/transparent.png" alt="Buzz" style="margin-right:35px; text-decoration:none;"></a>
+												<a href="http://www.usertesting.com/aboutus.aspx" id="a_aboutus" style="text-decoration: none; background-image: url(&quot;images/new_images/menu_sprite1.png&quot;); background-position: -302px 0px;"><img src="Images/new_images/transparent.png" alt="About Us" style="margin-right:35px;"></a>
+												
+												<a href="http://www.usertesting.com/blog" id="a_blog" style="text-decoration: none; background-image: url(&quot;images/new_images/menu_sprite1.png&quot;); background-position: -154px 0px;"><img src="Images/new_images/transparent.png" alt="Blog" style="margin-right:35px;"></a>
+												
+												<a href="http://www.usertesting.com/clientsignup.aspx" class="tryit_link" id="a_tryit" style="text-decoration: none; background-image: url(&quot;images/new_images/menu_sprite1.png&quot;); background-position: -406px 0px;"><img src="Images/new_images/transparent.png" alt="Try It" style="margin-right:35px;"></a>
+												<div style="clear: both;"></div>
+                                                </div>
+												
+	
+	
+
+											</td>
                                         </tr>
                                     </tbody></table>
                                 </td>
@@ -171,6 +271,8 @@
             who poses a threat. This might include those that are attempting to commit fraud
             or those who conduct activities that could bring harm to others. We assume that
             this is not you so please don't worry.</p>
+            
+            <p>All results you receive from UserTesting.com are private. You, of course, have the freedom to share them with others (if you'd like, you   may share your videos under the <a href="http://creativecommons.org/licenses/by/3.0/" target="_blank">Creative Commons license</a>)</p>
         <p>
             UserTesting.com
             has a sophisticated security program intended to keep the information stored in
@@ -247,8 +349,7 @@
                                                         </tr>
                                                         <tr style="height: 95px;">
                                                             <td>
-                                                                <a href="clientsignup.aspx">
-                                                                    <img src="images/new_images/small_orange_button_normal.png" id="img_orange" alt="Try It Risk-Free"></a><br>
+                                                                <a href="clientsignup.aspx" class="img_orangeA" id="img_orange" title="Try It Risk-Free"></a><br>
                                                                 <span style="color: White; font-family: Arial; font-size: 10px; font-weight: bold;">
                                                                     <a href="javascript:;" onclick="openMiniPopup('#MoneyBackPopup','.MiniPopup1','.popup_content_div',this, 2);" style="color: white">1-Year Money-Back Guarantee</a></span>
                                                             </td>
@@ -395,13 +496,12 @@
                 </td>
             </tr>
             <tr>
-                <td>
-                    <img src="images/new_images/background_paper_bot_998x30.png" height="18px" width="998"></td>
+                <td class="background-paper background-paper-bot"></td>
             </tr>
             <tr>
                 <td style="text-align: center; padding-bottom: 15px;" class="FooterCell">
-                    <span style="font-family: Arial; color: #002f4d; font-size: 12px;">© 2010 UserTesting.com&nbsp;&nbsp;|&nbsp;&nbsp;<a class="footer" href="http://www.usertesting.com/PrivacyPolicy.aspx">Privacy Policy</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a class="footer" href="http://www.usertesting.com/ContactUs.aspx">Contact Us</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a class="footer" href="http://www.twitter.com/usertesting">Follow
-                                Us on Twitter</a>&nbsp;&nbsp;|&nbsp;&nbsp;<span style="font-weight: bold;"><a class="footer" href="http://www.usertesting.com/BeTester/index.aspx">Get Paid to be a User Tester <span style="color: #487e3a; font-size:14px">$</span></a></span></span>
+                    <span style="font-family: Arial; color: #002f4d; font-size: 12px;">© 2011 UserTesting.com&nbsp;&nbsp;|&nbsp;&nbsp;<a class="footer" href="http://www.usertesting.com/PrivacyPolicy.aspx">Privacy Policy</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a class="footer" href="http://www.usertesting.com/ContactUs.aspx">Contact Us</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a class="footer" href="http://www.twitter.com/usertesting">Follow
+                                Us on Twitter</a>&nbsp;&nbsp;<span style="font-weight: bold;">&nbsp;&nbsp; <a href="http://www.usertesting.com/BeTester/index.aspx"><img src="Images/new_images/get-paid-to-be-a-user-tester.png"></a></span></span>
                     <br>
                     <div style="padding-top:10px; font-family: Arial; color: #002f4d; font-size: 12px;">UserTesting.com: The fast and inexpensive way to do
                         <a href="http://www.usertesting.com/" class="footer normal_text1">usability testing</a>.</div>
@@ -411,11 +511,42 @@
         </tbody></table>
     </div>
     
-
+	<style>
+	.img_orangeA {
+			background-image: url("/images/new_images/sidebar_orange_button_sprite.png");
+			background-repeat: no-repeat;
+			background-position: -0px -0px;
+			width: 178px;
+			height: 45px;
+			display: block;
+			margin: 0px auto;
+	}
+	</style>
     <script>
+		function setupPricingSignupButton(){
+//			var _isG = 1;
+//			var _gwoType = '';
+//			var _isEC = 0;
+//			if(_isG && !_isEC && _gwoType == '') {
+//				window.setTimeout(setupPricingSignupButton, 1000);
+//			}
+			
+			var _o = jQuery("#img_orange");
+			if(! _o || _o.length == 0) return;
+			
+			/*	_o.removeClass("img_orangeA").removeClass("img_orangeB").addClass("img_orangeA");*/
+				_o.get(0).onmouseover =  function() { this.style.backgroundPosition='-0px -46px' };
+				_o.get(0).onmouseout = function() { this.style.backgroundPosition='-0px -0px' };
+			
+		}
         jQuery(document).ready(function() {
-            toggleImage("img_video", "images/new_images/sidebar_video_short_no_trans_normalQT.jpg", "images/new_images/sidebar_video_short_no_trans_mouseoverQT.jpg");
-            toggleImage("img_orange", "images/new_images/small_orange_button_mouseover.png", "images/new_images/small_orange_button_normal.png");
+        toggleImage("img_video", "images/new_images/sidebar_video_short_no_trans_normalQT.jpg", "images/new_images/sidebar_video_short_no_trans_mouseoverQT.jpg");
+			setupPricingSignupButton();
+//            if('old' == 'old'){
+//            toggleImage("img_orange", "images/new_images/small_orange_button_mouseover.png", "images/new_images/small_orange_button_normal.png");
+//            }else{
+//			toggleImage("img_orange", "images/new_images/pricing_and_signup_over.png", "images/new_images/pricing_and_signup_over.png");
+//            }
             preload_images(
                 [
                     "sidebar_video_short_no_trans_mouseoverQT.jpg",
@@ -459,14 +590,6 @@
         jQuery(document).ready(function() {
             preload_images(
         [
-            "about_us_mouseover.png",
-            "buzz_mouseover.png",
-            "examples_mouseover.png",
-            "FAQ_mouseover.png",
-            "home_mouseover.png",
-            "how_it_works_mouseover.png",
-            "try_it_mouseover.png",
-            "blog_mouseover.png"
         ],
         "images/new_images/"
     );
@@ -474,19 +597,9 @@
     </script>
 
     </form>
-<!-- CODE VERSION 4.8.1.24398 -->
+<!-- CODE VERSION 5.10.0.39668 -->
 
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-try {
-var pageTracker = _gat._getTracker("UA-7271775-1");
-pageTracker._trackPageview();
-} catch(err) {}
-
-
+<script>
 function _uGC(l,n,s) {
  if (!l || l=="" || !n || n=="" || !s || s=="") return "-";
  var i,i2,i3,c="-";
@@ -504,12 +617,63 @@ $(document).ready(function() {
 	loadGADataInPage();
 	//updateGAData();
 });
+
+var isG = 1;
+function doGoal(that) {
+    if(!isG) return;
+    try {
+	var gwoTracker = _gat._getTracker("UA-7271775-2");
+	gwoTracker._trackPageview("/3568801827/goal");
+    } catch (err) { }
+}
+
 </script>
 
 <script type="text/javascript">
-document.write(unescape("%3Cscript src='" + ((document.location.protocol=="https:")?"https:":"http:") + "//snapabug.appspot.com/snapabug.js' type='text/javascript'%3E%3C/script%3E"));</script><script src="https://snapabug.appspot.com/snapabug.js" type="text/javascript"></script><script type="text/javascript">
-SnapABug.addButton('435a0483-9fc6-4c4b-a644-cd603679e80d',"1","55%");
+
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-7271775-1");
+pageTracker._trackPageview();
+} catch(err) {}
+
 </script>
+
+
+<script type="text/javascript">	document.write(unescape("%3Cscript src='" + ((document.location.protocol == "https:") ? " https://snapabug.appspot.com" : "http://www.snapengage.com") + "/snapabug.js' type='text/javascript'%3E%3C/script%3E"));</script><script src=" https://snapabug.appspot.com/snapabug.js" type="text/javascript"></script>
+<script type="text/javascript">    if(SnapABug != "undefined") { SnapABug.addButton("435a0483-9fc6-4c4b-a644-cd603679e80d", "1", "55%", true); SnapABug.setStartChat('How can I help you today?'); }</script>
+
+<script type="text/javascript">
+    adroll_adv_id = "QMXORYUZWFH2RAKE3KFWXK";
+    adroll_pix_id = "YXHY6YLIIJHWNDWQDCHQ4A";
+    (function() {
+        var oldonload = window.onload;
+        window.onload = function() {
+            __adroll_loaded = true;
+            var scr = document.createElement("script");
+            var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+            scr.setAttribute('async', 'true');
+            scr.type = "text/javascript";
+            scr.src = host + "/j/roundtrip.js";
+            document.documentElement.firstChild.appendChild(scr);
+            if (oldonload) { oldonload() } 
+        };
+    } ());
+</script>
+
+<script type="text/javascript">
+        	if (typeof (_gat) != 'object') document.write('<sc' + 'ript src="http' +
+(document.location.protocol == 'https:' ? 's://ssl' : '://www') +
+'.google-analytics.com/ga.js"></sc' + 'ript>')
+</script><script src="https://ssl.google-analytics.com/ga.js"></script>
+
+
+	
+	
+
 
 
 
