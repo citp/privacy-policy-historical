@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playtrade.com privacy policy that was archived on 2009-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090227170947id_/http%3A//www.play.com/HOME/HOME/6-/Help.html%3Fpage%3Dpriv) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playtrade.com privacy policy that was archived on 2011-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110602163415id_/http%3A//www.play.com/Help.html%3Fpage%3Dpriv) for the most accurate reproduction.*
 
 # Play.com (UK): DVDs, Music CDs, MP3s, Video Games, Books, Electronics & Gadgets - Free Delivery
 
@@ -33,7 +33,7 @@ For the purposes of Luxembourg's legislation on Data Protection and particularly
 
 ##### The data we collect
 
-The information collected by the aforementioned entities when you register with us at the [www.play.com](http://www.play.com/) website is generally used to communicate with you and improve our services where possible, and specifically, to process payments or enable third parties to carry out technical or commercial supporting functions. These functions may be carried out by us or appointed third parties who are bound by Data Protection covenants and must process the personal information in accordance with this Privacy Policy and the Data Protection Laws of Luxembourg.
+The information collected by the aforementioned entities when you register with us at the [www.play.com](http://www.play.com/)website is generally used to communicate with you and improve our services where possible, and specifically, to process payments or enable third parties to carry out technical or commercial supporting functions. These functions may be carried out by us or appointed third parties who are bound by Data Protection covenants and must process the personal information in accordance with this Privacy Policy and the Data Protection Laws of Luxembourg.
 
 In addition to personal data such as name, e-mail address, delivery address, billing address, credit or debit card number and expiry date, we also analyse data about participants in order to provide a safe shopping environment for all users. Examples of the data we may collect and analyse include the Internet protocol (IP) address used to connect your computer to the Internet, login, password, computer and connection information such as browser type and version, your operating system and platform, the full Uniform Resource Locators (URL) clickstream to, through and from our website (including date and time), cookie number, products you viewed or searched for, your purchase history, personal preferences and any phone number recorded or used to call our customer services number. In using the Site you accept that your personal data may be used for such purposes.
 
