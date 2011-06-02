@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insweb.com privacy policy that was archived on 2010-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100825020534id_/http%3A//www.insweb.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insweb.com privacy policy that was archived on 2011-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110602092950id_/http%3A//www.insweb.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy and Security | InsWeb
 
@@ -6,7 +6,7 @@
 
 [](http://clicktoverify.truste.com/pvr.php?page=validate&url=www.insweb.com&sealid=101)
 
-This Privacy Policy covers the privacy and information sharing practices of InsWeb Corporation, [InsWeb.com](http://www.insweb.com/), [AgentInsider.com](http://www.agentinsider.com/), [FreeInsuranceAdvice.com](http://www.freeinsuranceadvice.com/), [InsuranceRates.com](http://www.insurancerates.com/), [BestInsuranceMatch.com](http://www.bestinsurancematch.com/) and [LowestPolicy.com](http://www.lowestpolicy.com/) (collectively “InsWeb”). For questions about this Privacy Policy, you may write to us at InsWeb Corporation, 11290 Pyrites Way, Suite 200, Gold River, CA 95670.
+This Privacy Policy covers the privacy and information sharing practices of InsWeb Corporation, [InsWeb.com](http://www.insweb.com/), [AgentInsider.com](http://www.agentinsider.com/), [FreeInsuranceAdvice.com](http://www.freeinsuranceadvice.com/), [InsuranceRates.com](http://www.insurancerates.com/), [BestInsuranceMatch.com](http://www.bestinsurancematch.com/) and [LowestPolicy.com](http://www.lowestpolicy.com/) (collectively “InsWeb”). For questions about this Privacy Policy, you may write to us at InsWeb Corporation, 10850 Gold Center Drive, Suite 250, Rancho Cordova, CA 95670.
 
 Insurance Agents. For privacy information concerning insurance agents participating in InsWeb’s AgentInsider® program, [click here](http://www.insweb.com/privacy_policy.html#21).
 
@@ -270,7 +270,7 @@ If you’re a captive insurance agent participating in the AgentInsider® progra
 
 **Electronic Signatures**
 
-InsWeb may provide notices or statements electronically ("Electronic Record"). Consumer may request a paper copy of the Electronic Record by writing to InsWeb at the following address: InsWeb Corporation Attention: Legal Department, 11290 Pyrites Way, Suite 200, Gold River, CA 95670. All electronic communications that meet the requirements set forth herein will be deemed to be valid and authentic, and consumer agrees that such electronic communications will be given the same legal affect as written and signed paper communications. Furthermore, consumer acknowledges and agrees that consumer will not contest the validity of the original or copies, absent proof of altered data, or tampering. 
+InsWeb may provide notices or statements electronically ("Electronic Record"). Consumer may request a paper copy of the Electronic Record by writing to InsWeb at the following address: InsWeb Corporation Attention: Legal Department, 10850 Gold Center Drive, Suite 250, Rancho Cordova, CA 95670. All electronic communications that meet the requirements set forth herein will be deemed to be valid and authentic, and consumer agrees that such electronic communications will be given the same legal affect as written and signed paper communications. Furthermore, consumer acknowledges and agrees that consumer will not contest the validity of the original or copies, absent proof of altered data, or tampering. 
 
 **
 
