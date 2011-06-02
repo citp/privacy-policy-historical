@@ -1,7 +1,9 @@
-> *The following text is extracted and transformed from the thebiznizdir.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203013855id_/http%3A//www.thebiznizdir.com/Privacy_Policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebiznizdir.com privacy policy that was archived on 2011-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110602134910id_/http%3A//thebiznizdir.com/Privacy_Policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - thebiznizdir.com
 
+  
+  
 | 
 
 |   
@@ -25,4 +27,7 @@ When you use thebiznizdir.com, information that your browser sends whenever you 
   
 Cookies and Web Beacons:   
 Thebiznizdir.com does not set or use cookies to track your activity however third parties(eg. Google) may be placing and reading cookies on your browser, or using web beacons to collect information. Information collected are used for the purpose of serving advertisement on this website.   
+   
+  
+© Copyright 2008 The Biz Niz Dir. All rights reserved.  
  
