@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the arrow.com privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129035917id_/http%3A//www.arrow.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arrow.com privacy policy that was archived on 2011-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110603011446id_/http%3A//www.arrow.com/privacy.html) for the most accurate reproduction.*
 
-# Arrow: Privacy Policy
-
-### **Arrow Electronics, Inc.  
-Privacy Policy**
+# Arrow Electronics: Privacy Policy
 
 This policy applies to the collection, use, disclosure and protection of Personal Data, relating to customers of Arrow Electronics, Inc. and all of its subsidiaries and related entities (“Arrow”), suppliers of Arrow, and website users.  This policy is effective as of July 23, 2007 
 
@@ -51,11 +48,11 @@ Arrow will ensure that whenever Personal Data is transferred to foreign countrie
 
 It is Arrow’s policy not to transfer Personal Data to any entity, individual, or organization located in countries that do not provide an adequate level of data protection, unless:
 
-  * You have given your consent;
-  * The transfers are needed to enter into or perform a contract with you;
-  * The transfers are needed for the conclusion or performance of a contract concluded in your interest;
-  * The transfers are made pursuant to approved written contracts or a set of binding corporate rules which protect your rights; or
-  * The transfers are permitted under applicable law.
+  * You have given your consent; 
+  * The transfers are needed to enter into or perform a contract with you; 
+  * The transfers are needed for the conclusion or performance of a contract concluded in your interest; 
+  * The transfers are made pursuant to approved written contracts or a set of binding corporate rules which protect your rights; or 
+  * The transfers are permitted under applicable law. 
 
 
 
@@ -69,10 +66,10 @@ Arrow will deal fairly with each person whose Personal Data is in Arrow’s cust
 
 **Legal Requirements**
 
-  * This Privacy Policy is issued by Arrow and applies exclusively to facilities of Arrow Electronics, Inc. and its subsidiaries and related entities.
-  * Arrow may change this Privacy Policy from time to time as it deems appropriate.  This Policy is made public on our website and is current as at the date written above.
+  * This Privacy Policy is issued by Arrow and applies exclusively to facilities of Arrow Electronics, Inc. and its subsidiaries and related entities. 
+  * Arrow may change this Privacy Policy from time to time as it deems appropriate.  This Policy is made public on our website and is current as at the date written above. 
   * This policy is designed to comply with the Safe Harbor principles available to U.S. companies under the European Commission’s directive on data protection.  As Arrow Electronics, Inc. is a U.S. company, it has decided to voluntarily register for Safe Harbor. 
-  * This document describes Arrow’s privacy policy.  However, this policy does not grant or create any additional rights or remedies for the Data Subjects or any additional obligations on the part of Arrow other than those obligations required by applicable law, including the Safe Harbor.
+  * This document describes Arrow’s privacy policy.  However, this policy does not grant or create any additional rights or remedies for the Data Subjects or any additional obligations on the part of Arrow other than those obligations required by applicable law, including the Safe Harbor. 
 
   
 
