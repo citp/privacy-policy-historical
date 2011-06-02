@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the draftstreet.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229210958id_/http%3A//www.draftstreet.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the draftstreet.com privacy policy that was archived on 2011-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110602061333id_/http%3A//www.draftstreet.com/Privacy.aspx) for the most accurate reproduction.*
 
 # DraftStreet.com - Privacy Policy
 
-## NOTICE: Privacy Policy Effective March __, 2010
+## NOTICE: Privacy Policy Effective March 15th, 2010
 
 ## DraftStreet™ Website Privacy Policy
 
@@ -87,5 +87,6 @@ By using the Site, DraftStreet™ Shop, Sweepstakes and/or DraftStreet™ Servic
 If you have any questions about this Privacy Policy, the practices of the Site, DraftStreet™ Shop, Sweepstakes and/or DraftStreet™ Services or your dealings with same, please e-mail us at [customerservice@draftstreet.com](mailto:customerservice@draftstreet.com), or send a letter to: 
 
 DraftStreet  
-3380 Sumter Ave S  
-St Louis Park, MN 55426 
+111 W 28th St  
+Suite 2B  
+New York, NY 10001
