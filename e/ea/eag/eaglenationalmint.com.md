@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eaglenationalmint.com privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129013604id_/http%3A//www.eaglenationalmint.com/s.nl/it.I/id.6/.f) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eaglenationalmint.com privacy policy that was archived on 2011-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110602052721id_/http%3A//www.eaglenationalmint.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
