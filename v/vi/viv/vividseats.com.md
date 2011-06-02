@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vividseats.com privacy policy that was archived on 2010-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101024170721id_/http%3A//www.vividseats.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vividseats.com privacy policy that was archived on 2011-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110602103905id_/http%3A//www.vividseats.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Vivid Seats
 
@@ -130,8 +130,9 @@ How can I give you feedback or contact you?**
 You can reach us by email customerservice@vividseats.com or you can call us toll-free at 866-848-8499. Please note that messages become our property and, unless you direct otherwise, may be used by us for promotional purposes.
 
 Vivid Seats Ltd.  
-2632 N Halsted St.  
-Chicago, IL 60614  
+344 N. Ogden Ave.  
+4th Floor   
+Chicago, IL 60607  
 Email: customersupport@vividseats.com
 
 Last updated on June 15, 2010 
