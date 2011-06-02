@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comedyfestival.com.au privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130151005id_/http%3A//www.comedyfestival.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comedyfestival.com.au privacy policy that was archived on 2011-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110602091801id_/http%3A//www.comedyfestival.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Melbourne International Comedy Festival
 
