@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the collectors-society.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230065622id_/http%3A//www.collectors-society.com/privacy_statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collectors-society.com privacy policy that was archived on 2011-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110602065455id_/http%3A//www.collectors-society.com/privacy_statement.aspx) for the most accurate reproduction.*
 
 # Privacy and Security statement for Collectors Society
 
@@ -18,4 +18,4 @@ This site contains links to other sites. CCG is not responsible for the privacy 
 
 **Opt-Out.** We provide members the opportunity to opt-out of receiving communications from third parties at any time. You may opt-out at the time you join or at any later time. 
 
-If you have any questions about this privacy and security statement, the practices of this site, or your dealings with this web site, [contact us. ](https://web.archive.org/web/20101230065622id_/http%3A//www.collectors-society.com/ContactUs.aspx)
+If you have any questions about this privacy and security statement, the practices of this site, or your dealings with this web site, [contact us. ](https://web.archive.org/web/20110602065455id_/http%3A//www.collectors-society.com/ContactUs.aspx)
