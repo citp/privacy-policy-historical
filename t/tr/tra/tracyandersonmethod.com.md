@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tracyandersonmethod.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225194901id_/http%3A//tracyandersonmethod.com/%3Fpage_id%3D284) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tracyandersonmethod.com privacy policy that was archived on 2011-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110602235705id_/http%3A//tracyandersonmethod.com/%3Fpage_id%3D56) for the most accurate reproduction.*
 
-# Privacy Policy « Tracy Anderson Method
+# Privacy » Tracy Anderson Method - Train the Method
 
 Welcome to the official website of the Tracy Anderson Method.
 
@@ -14,4 +14,4 @@ We are committed to protecting the privacy of visitors to our website. When you 
 
 **Links to Other Websites.** The Tracy Anderson Method website contains many links to other websites. The Tracy Anderson Method is not responsible for the privacy practices or the content of such websites. No personal information resulting from user registration is shared with such websites.
 
-**Address.** Tracy Anderson: 12345 Ventura Boulevard. Studio City, CA 91604-2511. [Use the following form to electronically submit questions or comments](http://tracyandersonmethod.com/contact-us/).
+**Address.** Tracy Anderson: 12345 Ventura Boulevard. Studio City, CA 91604-2511. [Use the following form to electronically submit questions or comments](https://web.archive.org/wp/?page_id=58).
