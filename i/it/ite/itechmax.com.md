@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itechmax.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227115738id_/http%3A//www.itechmax.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itechmax.com privacy policy that was archived on 2011-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110602111922id_/http%3A//www.itechmax.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | iTechMax
 
@@ -17,7 +17,7 @@ When you post a comment on the site, we ask for your name, email address, websit
 
 As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocal) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.
 
-This blog uses [Google Analytics](http://www.google.com/analytics/), [reinvigorate](http://www.reinvigorate.net/) and [StatCounter](http://www.statcounter.com/) to automatically receive and record information from your browser, including your IP address, cookie information, and the page you request.
+This blog uses [Google Analytics](http://www.google.com/analytics/) and [reinvigorate](http://www.reinvigorate.net/) to automatically receive and record information from your browser, including your IP address, cookie information, and the page you request.
 
 ### Cookies and Web Beacons
 
@@ -33,7 +33,7 @@ I will not rent, sell, or share personal information about you with other people
 
 ## Changes to this Privacy Policy
 
-I may update this policy. In the event that this happens a prominent notice a prominent notice will be made on this site.
+I may update this policy. In the event that this happens a prominent notice will be made on this site.
 
 If you have any question, you can contact me through the [contact page](http://www.itechmax.com/contact-us/).
 
