@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the downloadhelper.net privacy policy that was archived on 2010-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101217043026id_/http%3A//www.downloadhelper.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downloadhelper.net privacy policy that was archived on 2011-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110602160833id_/http%3A//www.downloadhelper.net/privacy.php) for the most accurate reproduction.*
 
 # DownloadHelper - Media download Firefox extension
 
@@ -28,7 +28,7 @@ As many web sites around, we use Google Analytics to collect anonymously informa
 
 Should you contact us for technical support, partnership request or any other reason, we will communicate through email. Your email address will not be disclosed, given or sold to anyone, including third-party partners.
 
-In the case of a technical support mail exchange, we may publish the content of the mail thread (without personal information like email or IP address) to our [knowledge base](https://web.archive.org/web/20101217043026id_/http%3A//www.downloadhelper.net/support-kb.php) as this may be an efficient source of information for the other users.
+In the case of a technical support mail exchange, we may publish the content of the mail thread (without personal information like email or IP address) to our [knowledge base](https://web.archive.org/web/20110602160833id_/http%3A//www.downloadhelper.net/support-kb.php) as this may be an efficient source of information for the other users.
 
 ## Changes to privacy policy
 
