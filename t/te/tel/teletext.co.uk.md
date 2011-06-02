@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teletext.co.uk privacy policy that was archived on 2010-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101113045858id_/http%3A//www.teletext.co.uk/aboutus/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teletext.co.uk privacy policy that was archived on 2011-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110602154029id_/http%3A//www.teletext.co.uk/aboutus/privacy) for the most accurate reproduction.*
 
 # Untitled Page
 
