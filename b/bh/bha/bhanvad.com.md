@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bhanvad.com privacy policy that was archived on 2010-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101217055128id_/http%3A//www.bhanvad.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bhanvad.com privacy policy that was archived on 2011-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110602101056id_/http%3A//www.bhanvad.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # web site directory, web site directories, international web site directory, search engines, international search engines, topsite, forum
 
