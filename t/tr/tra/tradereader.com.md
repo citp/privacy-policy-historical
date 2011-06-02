@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tradereader.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227165149id_/http%3A//www.tradereader.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradereader.com privacy policy that was archived on 2011-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110602105059id_/http%3A//www.tradereader.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Tradereader.com - Privacy Policy for Tender information Daily
 
