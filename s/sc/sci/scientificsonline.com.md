@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scientificsonline.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229221746id_/http%3A//www.scientificsonline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scientificsonline.com privacy policy that was archived on 2011-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110602064623id_/http%3A//www.scientificsonline.com/privacy-policy) for the most accurate reproduction.*
 
 # Your Privacy
 
