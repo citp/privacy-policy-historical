@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigumbrellawebdirectory.com privacy policy that was archived on 2010-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101103002912id_/http%3A//blog.bigumbrellawebdirectory.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigumbrellawebdirectory.com privacy policy that was archived on 2011-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110602151519id_/http%3A//blog.bigumbrellawebdirectory.com/privacy-policy) for the most accurate reproduction.*
 
 # Big Umbrella Web Directory Blog » Privacy Policy
 
@@ -35,4 +35,4 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
-Popularity: 2% [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]
+Popularity: 3% [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]
