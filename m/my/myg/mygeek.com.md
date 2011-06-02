@@ -1,18 +1,16 @@
-> *The following text is extracted and transformed from the mygeek.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225174540id_/http%3A//corporate.adonnetwork.com/public/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mygeek.com privacy policy that was archived on 2011-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110602103721id_/http%3A//www.mygeek.com/privacy-statement.aspx) for the most accurate reproduction.*
 
-# AdOn Network - About AdOn Network: Privacy Policy
+# Privacy Statement
 
-  |  |   | 
-
-#### Privacy Policy
+Privacy Statement
 
 Please note that the Privacy Policy has changed as of 2/26/2008.
 
-## Our Commitment
+Our Commitment
 
 AdOn Network understands how important it is to keep your personal information confidential, especially online. Our commitment to protecting your privacy is outlined in the policies below. Because our privacy policy may be updated periodically, we encourage you to review these pages on a regular basis.
 
-## Information Collected and How It's Used
+Information Collected and How It's Used
 
 **Your IP Address**  
 An IP (Internet Protocol) address is automatically assigned to your computer every time you establish a connection on the Internet. AdOn Network uses your IP address to help diagnose problems with our server and to administer our web site. AdOn Network does not link your IP address to any identifiable personal information.
@@ -36,7 +34,7 @@ Children 18 and under are not eligible to use AdOn Network services without the 
 **Expunging Your Information From Our Records**  
 You may e-mail CustomerService at AdOn Network or use one of the alternate contact methods listed below to remove your contact information from our database provided we have completed all your pending transactions. Please note, however, that information is never completely removed from our history and disaster recovery archives. You may access and edit your account information by logging into your account online and clicking on the "Edit Profile" link.
 
-## Disclosure of Information to Third Parties
+Disclosure of Information to Third Parties
 
 **Personal Information**  
 AdOn Network does not sell, trade, rent, or release your personal information to third parties in ways that are not disclosed in the privacy statement. If we were to ever do so, you will have the opportunity to opt-out beforehand.
@@ -47,14 +45,14 @@ AdOn Network transactional information such as traffic patterns, sales, aggregat
 **Legal Issues**  
 AdOn Network discloses personal information when required by law or in the good-faith belief that such action is necessary for the following:
 
-  * To conform to the edict of the law or comply with a legal process served on AdOn Network or its Web site. 
-  * To protect and defend the property rights of AdOn Network, the AdOn Network Web site, or that of AdOn Network Users. 
-  * Or to act under exigent circumstances to protect the personal safety of AdOn Network Users, employees, or the general public. 
+  * To conform to the edict of the law or comply with a legal process served on AdOn Network or its Web site.
+  * To protect and defend the property rights of AdOn Network, the AdOn Network Web site, or that of AdOn Network Users.
+  * Or to act under exigent circumstances to protect the personal safety of AdOn Network Users, employees, or the general public.
 
 **Other Sites' Policies**  
 AdOn Network has no control over, nor does it bear any of the responsibility for the privacy policies and/or content of any sites or advertisers linked to or on our site. AdOn Network also takes no responsibility for the cookies these sites or advertisers might deposit on your hard drive.
 
-## Safety and Security
+Safety and Security
 
 **Security**  
 After we receive the data at AdOn Network, it is stored on a secure server behind a firewall and cannot be accessed from outside the company. All data is secure and is protected from alteration, loss or misuse. The AdOn Network employees who process your order are the only people with access to your personal information. All AdOn Network employees sign a privacy/security policy agreement, which provides legal confidentiality protections for all AdOn Network Users. Any violation of this policy results in disciplinary action, including possible termination, criminal prosecution, and civil action.
@@ -63,7 +61,7 @@ When our registration/order form asks Users to enter sensitive information (such
 
 While we use SSL encryption to protect sensitive information online, protect all user-information off-line. For example, all of our users' information, not just the sensitive information mentioned above, is subject to restricted use in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Our employees must use password-protected screen-savers when they leave their desk. When they return, they must re-enter their password to re-gain access to your information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Every quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our customers' information is protected. Finally, the servers that we store personally identifiable information on are kept in a secure environment, behind a locked cage.
 
-## Your Consent & Contacting Us
+Your Consent & Contacting Us
 
 **Your Consent**  
 By using the AdOn Network Web site, you consent to the collection, storage, and dissemination of personal data as described above. If we decide to change our privacy policy, we will post those changes to this privacy statement, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email or by means of a notice on our homepage.
@@ -72,8 +70,8 @@ By using the AdOn Network Web site, you consent to the collection, storage, and 
 If you have any questions regarding our privacy policy please contact [customerservice@adonnetwork.com](mailto:customerservice@adonnetwork.com). You can also use this e-mail  
 address to:
 
-  * Opt-out of receiving promotional offers and updates about the site. Service related emails sent by AdOn Network to notify the user cannot be opted-out of unless the user cancels membership or use of the service. 
-  * Notify us of updates to any of your personal account information. 
+  * Opt-out of receiving promotional offers and updates about the site. Service related emails sent by AdOn Network to notify the user cannot be opted-out of unless the user cancels membership or use of the service.
+  * Notify us of updates to any of your personal account information.
 
 AdOn Network  
 Attn: Customer Service  
@@ -81,6 +79,4 @@ Attn: Customer Service
 Suite 205  
 Tempe, AZ 85281
 
-Phone: 602.797.8400 
-
-|   |  |  
+Phone: 602.797.8400
