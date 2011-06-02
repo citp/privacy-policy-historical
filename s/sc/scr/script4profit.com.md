@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the script4profit.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122123919id_/http%3A//www.script4profit.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the script4profit.com privacy policy that was archived on 2011-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110602103512id_/http%3A//www.script4profit.com/privacy) for the most accurate reproduction.*
 
 # EGN Software : Privacy policy | MLM Script | Network Marketing | Reseller | Affiliate | HYIP | Downline Builder | Support System
 
@@ -47,19 +47,43 @@ We may share information with governmental agencies or other companies that help
 (3) In order to provide information on authorized institutions with the aim of prevention of irregularities, and reduce credit risk.
 
 **Contact Us**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please [click here](http://script4profit.com/contact)  
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please [click here](http://www.script4profit.com/contact)  
   
 Changes to this Privacy Policy  
 EGN may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your account or by placing a prominent notice on our site.
 
 | 
 
-[ ](http://script4profit.com/order)  
+[ ](http://www.script4profit.com/order)  
 
 
 |   
 ---  
   
+-. **egHyip 2.1 has been released**  
+
+
+**egHyip 2.1** has been released. We add more powerfull features to realize your need. 
+
+For more information about this release, please refer to the [egHyip details here...](http://script4profit.com/eghyip "eghyip")
+
+-. **Change the base currency from USD to IDR**  
+
+
+We have changed our base currency to our national currency (IDR) , so the US Dollar price will be follow IDR rate. Thank you for your understanding.
+
+-. **Year End Special Offer**  
+
+
+" **Year End Special Offer** "
+
+  * Reduce **10%** for egbusiness purchases
+  * Reduce **20%** for egbusiness additional license purchases
+
+
+
+Limited ...
+
 -. **EGN Premium Hosting**  
 
 
@@ -68,28 +92,6 @@ Please check our hosting plans [here](http://script4profit.com/hosting "EGN Prem
 -. **Indonesian Independence Day Special Price**  
 
 
-To celebrate " **The 65th of Republic Indonesia Independence Day** "on 17th August 2010, EGN gives **Special Price of 10% - 40% discount** for every purchase. This special price only valid from egBusiness Pro 2.0 released  
-
-
-egBusiness Pro version 2.0 released with new features, bug fixes and improvements. Some changes are:
-
-  * Php 5.3.2 ready
-  * Added plugins: Additional field, Ban,Profile photo, Instant messenger
-  * Added feature: Administration over SSL , you can secure your Admin CP, M...
-
--. **egBusiness Special price for April 2010**  
-
-
-We reduce egBusiness price to **$119.60** instead of **$179.50** for April 2010 only. This is limited time offer
-
--. **Small update for egBusiness**  
-
-
-Improve tax setting, Please download the update and replace "modules/members_payment.php" with the new one. Thx.
-
-
-  
-  
-[other news...](http://script4profit.com/news)  
+To celebrate " **The 65th of Republic Indonesia Independence Day** "on 17th August 2010, EGN gives **Special Price of 10% - 40% discount** for every purchase. This special price only valid from  [other news...](http://www.script4profit.com/news)  
   
 [ ](http://www.facebook.com/group.php?gid=313270287971)
