@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redhotpie.com.au privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220013055id_/http%3A//redhotpie.com.au/Terms/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redhotpie.com.au privacy policy that was archived on 2011-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110602092946id_/http%3A//www.redhotpie.com.au/Terms/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Online dating privacy policy on RedHotPie
 
@@ -35,7 +35,7 @@ redhotpie.com.au will not send you any messages that you have not requested. To 
 1\. All messages sent to you from RedHotPie contain an opt-out option or a link to the unsubscribe function.   
 2\. You can unsubscribe by logging into your account via My Account / Profile Settings screen.   
 3\. You can at any time access the unsubscribe system to stop all messages send to an email address ([located here](https://web.archive.org/unsubscribe.aspx)).   
-4\. You can send an email, via our help system, telling us you wish to stop all messages ([located here](https://web.archive.org/web/20101220013055id_/http%3A//redhotpie.com.au/Help/ContactSupportForm.aspx) or [help@redhotpie.com.au](mailto:help@redhotpie.com.au)). 
+4\. You can send an email, via our help system, telling us you wish to stop all messages ([located here](https://web.archive.org/web/20110602092946id_/http%3A//www.redhotpie.com.au/Help/ContactSupportForm.aspx) or [help@redhotpie.com.au](mailto:help@redhotpie.com.au)). 
 
 ## Our Commitment To Data Security
 
