@@ -1,19 +1,26 @@
-<!--The following is the downloaded HTML source of the draftstreet.com privacy policy that was archived on 2010-12-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101229210958id_/http%3A//www.draftstreet.com/Privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the draftstreet.com privacy policy that was archived on 2011-06-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110602061333id_/http%3A//www.draftstreet.com/Privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_Head1"><title>
 	DraftStreet.com - Privacy Policy
-</title><meta name="description" content="Daily and Weekly Fantasy Leagues for Cash Prizes.  Come in any time of the day and find a league to join."><link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+</title><meta id="ctl00_metaDesc" name="description" content="Play daily and weekly fantasy sports money leagues for cash and prizes.  Leagues range from FREE to $5 to $500!"><link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+    <link rel="image_src" href="http://c1304512.cdn.cloudfiles.rackspacecloud.com/share-fb.png">
     
-    <link rel="stylesheet" type="text/css" href="/css/ds.css">
+    <link rel="stylesheet" type="text/css" href="/css/ds.css?rev1355">
+    <link rel="stylesheet" type="text/css" href="/css/share.css?rev1352">
     <link rel="stylesheet" type="text/css" href="/plugins/jquery.dsdialog.0/jquery.dsdialog.0.css">
     <link rel="stylesheet" type="text/css" href="/plugins/contactable/contactable.css">
+    
+        <link rel="stylesheet" type="text/css" href="/css/chat.css">
+    
 	
-	
-	
-    <script type="text/javascript" src="/global.js"></script>
+    <script type="text/javascript" src="/global.js?revision1486"></script>
     <script src="https://www.google.com/jsapi"></script>
-	<script>google.load('jquery', '1.4.1');</script>
+	<script>
+	    google.load('jquery', '1.4.1');
+	    google.load('jqueryui', '1.8.2'); 
+	</script>
+    <script type="text/javascript" src="/plugins/soundmanager2-nodebug-jsmin.js"></script>
     <script type="text/javascript" src="/plugins/jquery.simplemodal-1.3.3.min.js"></script>
     <script type="text/javascript" src="/plugins/jquery.cookie.js"></script>
     <script type="text/javascript" src="/plugins/jquery.autotab.js"></script>
@@ -21,11 +28,16 @@
     <script type="text/javascript" src="/plugins/contactable/jquery.contactable.js"></script>
     <script type="text/javascript" src="/plugins/contactable/jquery.validate.pack.js"></script>
     <script src="/lib/creditcard.js" type="text/javascript"></script>
+    
+        <script type="text/javascript" src="comet-client.ashx"></script>
+        <script type="text/javascript" src="/js/chat.js?rev1406"></script>
+    
     <script type="text/javascript">
         var _globaluserid = -1;
         var _uiService;
-        var _UserService;
+        var _UserService, _userService;
         var _userid = -1;
+        var _userId = _userid;
         var _username = ''; 
         var _useravatar = '';   
         var _moneybalance;
@@ -47,10 +59,10 @@
         var _step = 1;
         var _amount;
         var _email = '';
-        var _firstname = '';
-        var _lastname = '';
-        var _address = '';
-        var _city = '';
+        var _firstname = "";
+        var _lastname = "";
+        var _address = "";
+        var _city = "";
         var _state = '';
         var _zip = '';
         var _hphone = '';
@@ -58,10 +70,13 @@
         var _myrecruitcode = '';
         var _wfirstname, w_lastname, _waddress, _wcity, _wstate, _wzip, _whphone1, _whphone2, _whphone3, _wophone1, _wophone2, _wophone3;
         var _frienduserid, _friendname;
-        var _sslenable = '0';
+        var _sslenable = '1';
         var _checkBalance_localCallback = null;
         var _pcodedesc;
         var _pcode;
+        var _globalChatRoom;
+        var _country = 'US';
+        var top5;
         
         document.onkeypress = keyPress;
         var count = 1;
@@ -69,56 +84,89 @@
             if (!e)
                 e = window.event;
             
-            if (e.keyCode == 13)
-            {
-                event.returnValue=false;
-                event.cancel = true;
+            if (e.keyCode == 13) {
+                e.returnValue=false;
+                e.cancel = true;
             }
         }
         
         $(function() {
-            
             _uiService = new DraftStreet.UIService();
             _UserService = new DraftStreet.UserService();
+            _userService = _UserService;
+            
+            // init sounds
+            soundManager.url = CONFIG.PATHS.WEB + 'plugins/soundmanager-swf/';
+            soundManager.useFlashBlock = false;
+            soundManager.onload = function() {
+                soundManager.createSound('alert', CONFIG.PATHS.WEB + 'sounds/lobby-active-league-alert.mp3');
+                soundManager.createSound('chat-blip', CONFIG.PATHS.WEB + 'sounds/chat-blip.mp3');
+            };
+            
+
+
+            
+                $('#floating-chat-anchor').show();
+                _globalChatRoom = Chat.Init('/chat/global/0', 'side-chat', 0, 0, 320, false, Chat.Formats.FloatRight);
+                toggleGlobalChat($.cookie('hide-global-chat') != 'true', false);
+                
+                $(window)
+                    .resize(function() {
+                        var left = $('#floating-chat-anchor').offset().left;
+                        
+                        $('#floating-chat')
+                            .css('position', 'fixed')
+                            .css('top', '92px')
+                            .css('left', left);
+                    })
+                    .resize();
+            
             
             // set up player news submenu
-            $('#ctl00_liPlayerNews')
-                .mouseenter(function() {
-                    $('#player-news-submenu').show();
-                    $('#insider-content-submenu').hide();
-                });
-
-            $('#player-news-submenu')
-                .mouseleave(function() {
-                    $(this).hide();
-                });
+            $('#ctl00_liPlayerNews').mouseenter(function() {
+                $('#player-news-submenu').show();
+                $('#insider-content-submenu, #sports-submenu').hide();
+            });
+            
+            $('#player-news-submenu').mouseleave(function() {
+                $('#player-news-submenu, #insider-content-submenu, #sports-submenu').hide();
+            });
+            
+            // set up sports submenu
+            $('#ctl00_liSports').mouseenter(function() {
+                $('#sports-submenu').show();
+                $('#player-news-submenu, #insider-content-submenu').hide();
+            });
+            
+            $('#sports-submenu').mouseleave(function() {
+                $('#player-news-submenu, #insider-content-submenu, #sports-submenu').hide();
+            });
                 
-            $('#ctl00_liMyDraftstreet, #ctl00_liInsiderContent, #ctl00_liRules')
-                .mouseenter(function() {
-                    $('#player-news-submenu').hide();
-                });
+            $('#ctl00_liMyDraftstreet, #ctl00_liInsiderContent, #ctl00_liRules').mouseenter(function() {
+                $('#player-news-submenu, #insider-content-submenu, #sports-submenu').hide();
+            });
+            
+            $('#ctl00_liHome').mouseenter(function() {
+                $('#player-news-submenu, #insider-content-submenu, #sports-submenu').hide();
+            });
 
-            $('.top-menu-wrapper')
-                .mouseleave(function() {
-                    $('#player-news-submenu, #insider-content-submenu').hide();
-                });
-
+            $('.top-menu-wrapper').mouseleave(function() {
+                $('#player-news-submenu, #insider-content-submenu, #sports-submenu').hide();
+            });
+            
             // set up insider content submenu
-            $('#ctl00_liInsiderContent')
-                .mouseenter(function() {
-                    $('#insider-content-submenu').show();
-                    $('#player-news-submenu').hide();
-                });
+            $('#ctl00_liInsiderContent').mouseenter(function() {
+                $('#insider-content-submenu').show();
+                $('#player-news-submenu, #sports-submenu').hide();
+            });
             
-            $('#insider-content-submenu')
-                .mouseleave(function() {
-                    $(this).hide();
-                });
+            $('#insider-content-submenu').mouseleave(function() {
+                $('#player-news-submenu, #insider-content-submenu, #sports-submenu').hide();
+            });
             
-            $('#ctl00_liPlayerNews, #ctl00_liRules')
-                .mouseenter(function() {
-                    $('#insider-content-submenu').hide();
-                });
+            $('#ctl00_liPlayerNews, #ctl00_liRules').mouseenter(function() {
+                $('#insider-content-submenu, #sports-submenu').hide();
+            });
 
             // set up feedback
             $('#feedback').contactable({
@@ -133,899 +181,120 @@
             //check if user is loggedin
             globalchecklogin();
             
-            $('#bottom-logout-link')
-                .click(
-                    function() {
-                            _UserService.LogOut(logoutdone,logoutfailed);
-                        }
-                );
-            $('#top-logout-link')
-                 .click(
-                    function() {
-                            _UserService.LogOut(logoutdone,logoutfailed);
-                        }
-                );
-                
-            $('#button-deposit')
-                 .click(
-                    function() {
-                            $('#financial-paymentchoice').show();
-                            $('#financial-error-message').hide();
-                            $('#financial')
-                                .modal({
-                                    opacity: 75,
-                                    overlayCss: { backgroundColor: '#000000' },
-                                    close: true
-                                });
-                            $("#rd-paypal").attr("checked", true);
-                        }
-                );
-                
-            $('#button-withdraw')
-                 .click(
-                    function() {
-                    
-                    if(_moneybalance == 0)
-                    {
-                        basicDialog('Error', 'You cannot withdraw money with a balance of $0', true);
-                    }
-                    else{
-                            $('#financial-withdraw-paypal-table').show();
-                            $('#financial-withdraw-cheque-table').hide();
-                            $('#financial-withdraw-paymentchoice').show();
-                            $('#financial-withdraw-error-message').html('');
-                            $('#financial-withdraw-error-message').hide();
-                            
-                            $('#financial-withdraw-text-note').html('Please note that withdrawal amount must be a minimum of $' + _mindepositamt);
-                            $('input[name="rdwithdraw"]').attr('checked', 'checked');
-                            $('#financial-withdraw')
-                                .modal({
-                                    opacity: 75,
-                                    overlayCss: { backgroundColor: '#000000' },
-                                    close: true
-                                });
-                                
-                            $("#w-paypal").attr("checked", true); 
-                        }
-                        }
-                );
+            $('#bottom-logout-link, #top-logout-link').click(function() {
+                _UserService.LogOut(logoutdone,logoutfailed);
+            });
             
-
-            $('#financial')
-            .dsdialog(
-                {
-                    tabTitle: 'Deposit',
-                    imgPath: '/plugins/jquery.dsdialog.0/images',
-                    useClose: false,
-                    width: '650px'
-                }
-            );
+            // buttons that will send user to the Cashier's page
+            $('#button-deposit, #deposit-btn, #button-withdraw, #withdraw-btn, #button-transfer').click(function() {
+                var params = '';
+                if ($(this).attr('id') == 'button-deposit' || $(this).attr('id') == 'deposit-btn')
+                    params = 'deposit';
+                else if ($(this).attr('id') == 'button-withdraw' || $(this).attr('id') == 'withdraw-btn')
+                    params = 'withdraw';
+                else if ($(this).attr('id') == 'button-transfer')
+                    params = 'transfer';
+                
+                window.location = 'https://www.draftstreet.com/Cashier.aspx?do=' + params;
+                return false;
+            });
             
-            $('#financial-withdraw')
-            .dsdialog(
-                {
-                    tabTitle: 'Withdraw',
-                    imgPath: '/plugins/jquery.dsdialog.0/images',
-                    useClose: false,
-                    width: '650px'
-                }
-            );
+            _uiService.GetYesterdaysTop5MoneyLeaders('leaderboard.June.2011',5,GetYesterdaysTop5MoneyLeaders_Complete,GetYesterdaysTop5MoneyLeaders_Failed);
             
-            if(_userid != '' && _token != '' && _payerid != '')
-            {
-               _paymenttype = 'paypal';
-               _UserService.PPGetExpressCheckout(_token,GetExpressCheckoutComplete, GetExpressCheckoutFailed);
-            }
             
-            $('.button-cancel')
-                 .click(
-                    function() {
-                            _step = 1;
-                            $("#w-check").attr("checked", false);
-                            $("#w-paypal").attr("checked", true); 
-                            $('#financial-withdraw-paypal-table').show();
-                            $('#financial-withdraw-cheque-table').hide();
-                            $('#financial-withdraw-error-message').hide();
-                            $('#financial-error-message').hide(); 
-                            _waddress = '';
-	                        _wcity = '';
-	                        _wstate = '';
-	                        _wzip = '';
-	                        _whphone1 = '';
-	                        _whphone2 = '';
-	                        _whphone3 = '';
-	                        
-                            $.modal.close();
-                        }
-                );
-             $('#close-button')
-                 .click(
-                    function() {
-                            _step = 1;
-                            $('#financial-error-message').hide();
-                            $.modal.close();
-                            
-                        }
-                ); 
-                
-            $('#withdraw-close-button')
-                .click(
-                    function() {
-                        $.modal.close();
-                        
-                        }
-                 ); 
-                
-                
-            
-            $('#button-next-step')
-                .click(
-                    function() {
-                            var _errormessage = '';
-                            
-                            
-	                        
-	                        if(_step != 3)
-	                            _amount = $('#txtAmount').val();
-	                        
-	                        _nameoncard = $('#txtDepositNameOnCard').val();
-	                        _creditcardnumber = $('#txtCreditCardNumber').val();
-	                        _expmonth = $('#txtExpMonth').val();
-	                        _expyear = $('#txtExpYear').val();
-	                        _cvs = $('#txtCVS').val();
-	                        _waddress = $('#txtDepositAddress').val();
-	                        _wcity = $('#txtDepositCity').val();
-	                        _wstate = $('#txtDepositState').val();
-	                        _wzip = $('#txtDepositZip').val();
-	                        _whphone1 = $('#txtDepositHomePhone1').val();
-	                        _whphone2 = $('#txtDepositHomePhone2').val();
-	                        _whphone3 = $('#txtDepositHomePhone3').val();
-                            
-                            if(_step == 1)
-                            {
-                                _paymenttype = $("input[name='payment']:checked").val();
-                                
-                                _UserService.ValidateCode($('#txtPromoCode').val(),ValidateCode_Complete, ValidateCode_Failed);
-                                
-                                if (_wstate == undefined || _wstate == '') {
-                                    $('#txtDepositState').val(_state);
-                                 }
-                                else {
-                                    $('#txtDepositState').val(_wstate);
-                                }
-                                
-                             } 
-                             else if(_step == 2)
-                             {
-                                var _errormessage = '';
-                    
-                                if(_paymenttype == 'paypal')
-                                {
-                                    if($('#txtAmount').val() == '' || !IsDecimal($('#txtAmount').val()))
-                                    {
-                                        _errormessage += '<br>- Please enter a valid amount.';
-                                    }
-                                    else
-                                      {
-                                            if($('#txtAmount').val() < _mindepositamt)
-                                            _errormessage += '<br>- The minimum amount you can deposit is $' + _mindepositamt;
-                                      }
-                                    
-                                    if(_errormessage == '')
-                                    {
-                                        $('#buttonbar').hide();
-                                        $('#processinggif').show(); 
-                                        
-                                        //set paypal token transaction
-                                        _UserService.PPSetExpressCheckout($('#txtAmount').val(), _pcode, PPSetExpressCheckoutComplete, PPSetExpressCheckoutFailed);
-                                        
-                                    }
-                                    else
-                                    {
-                                        _errormessage += '<br><br>';
-                                        $('#financial-error-message').html(_errormessage);
-                                        $('#financial-error-message').show();
-                                    }
-                                }
-                                else
-                                {
-                                      var d = new Date();
-                                      
-                                      if($('#txtAmount').val() == '' || !IsDecimal($('#txtAmount').val()))
-                                      {
-                                          _errormessage += '<br>- Please enter a valid amount.';
-                                      }
-                                      else
-                                      {
-                                            if($('#txtAmount').val() < _mindepositamt)
-                                            _errormessage += '<br>- The minimum amount you can deposit is $' + _mindepositamt;
-                                      }
-                                      
-                                      if(!checkCreditCard ($('#txtCreditCardNumber').val(),_paymenttype))
-                                      {
-                                          _errormessage += '<br>- Please enter a valid credit card number.';
-                                      }
-                                      if($('#txtCVS').val() == '' || ($('#txtCVS').val().length != 3 && $('#txtCVS').val().length != 4) || !IsNumeric($('#txtCVS').val()))
-                                      {
-                                          _errormessage += '<br>- Please enter a valid CVV number.';
-                                      }
-                                      if($('#txtExpMonth').val() == '' || $('#txtExpMonth').val().length != 2 || !IsNumeric($('#txtExpMonth').val()) || $('#txtExpYear').val() == '' || $('#txtExpYear').val().length != 4 || !IsNumeric($('#txtExpYear').val()))
-                                      {
-                                          _errormessage += '<br>- Please enter a valid expiration date.';
-                                      }
-                                      else if($('#txtExpYear').val() < d.getFullYear())
-                                      {
-                                          _errormessage += '<br>- The credit card is expired.';
-                                      }
-                                      else if($('#txtExpYear').val() == d.getFullYear() && $('#txtExpMonth').val() < (d.getMonth()+1))
-                                      {
-                                          _errormessage += '<br>- The credit card is expired.';
-                                      }
-                                      
-                                      if($('#txtDepositNameOnCard').val() == '')
-                                      {
-                                        _errormessage += '<br>- Please enter the name on your credit card.';
-                                      }
-                                      
-                                      if($('#txtDepositAddress').val() == '' || $('#txtDepositAddress').val().length < 3)
-                                    {
-                                        _errormessage += '<br>- Please enter a valid address.';
-                                    }
-                                    
-                                    if($('#txtDepositCity').val() == '' || $('#txtDepositCity').val().length < 3)
-                                    {
-                                        _errormessage += '<br>- Please enter a valid city.';
-                                    }
-                                    
-                                    if($('#txtDepositState').val() == '' || $('#txtDepositState').val().length != 2)
-                                    {
-                                        _errormessage += '<br>- Please enter a valid state.';
-                                    }
-                                    
-                                    
-                                    if($('#txtDepositZip').val() == '' || $('#txtDepositZip').val().length < 5 || !IsNumeric($('#txtDepositZip').val()))
-                                    {
-                                        _errormessage += '<br>- Please enter a valid zip.';
-                                    }
-                                    
-                                                                                                        
-                                      if(_errormessage == '')
-                                      {
-                                            if($('#txtDepositState').val() == 'AZ' ||$('#txtDepositState').val() == 'IA' ||$('#txtDepositState').val() == 'LA' ||$('#txtDepositState').val() == 'MD' ||$('#txtDepositState').val() == 'MT' ||$('#txtDepositState').val() == 'ND' ||$('#txtDepositState').val() == 'PR' ||$('#txtDepositState').val() == 'VT' )
-                                            {
-                                                _step = 1;
-                                                $('#financial-error-message').hide();
-                                                _depositstate = $('#txtDepositState').val();
-                                                $.modal.close();
-                                                basicDialog('Error', 'Sorry, users from ' + _depositstate + ' are currently not allowed to participate in cash leagues', true); 
-                                            }
-                                            else
-                                            {
-                                            
-                                                $('#buttonbar').hide();
-                                                $('#processinggif').show(); 
-                                      
-                                                _UserService.PostCCToPaypal($('#txtAmount').val(),_paymenttype,$('#txtCreditCardNumber').val(),$('#txtExpMonth').val(),$('#txtExpYear').val(),$('#txtCVS').val(), _firstname, _lastname, $('#txtDepositAddress').val(),$('#txtDepositCity').val(),$('#txtDepositState').val(), $('#txtDepositZip').val(), $('#txtDepositHomePhone1').val() + $('#txtDepositHomePhone2').val() + $('#txtDepositHomePhone3').val(),$('#txtDepositNameOnCard').val(),_pcode,CCDeposit_Complete ,CCDeposit_Failed);
-                                            }
-                                      }
-                                      else
-                                      {
-                                          _errormessage += '<br><br>';
-                                          $('#financial-error-message').html(_errormessage);
-                                          $('#financial-error-message').show();
-                                          
-                                              $.modal.close();
-                                              
-                                              $('#financial-error-message').html(_errormessage);
-                                              $('#financial-error-message').show();
-                                              $('#financial')
-                                                .modal({
-                                                    opacity: 75,
-                                                    overlayCss: { backgroundColor: '#000000' },
-                                                    close: true
-                                                });
-                                                
-                                                _step = 2;
-                                                var _logoimage = '<img src="./images/payments/' + _paymenttype + '-logo.jpg" />';
-                                                                
-                                                $('#financial-cc-table').show();
-                                                $('#financial-paymentchoice').hide();
-                                                $('#financial-payment-logo').show();
-                                                $('#financial-promocodemessage').html(_pcodedesc);
-                                                                
-                                                $('#financial-payment-logo').html(_logoimage);
-                                                $('#financial-text').html('Enter the amount and your credit card information');
-                                                $('#financial-header').html('Step 2 of 3');
-                                                $('#financial-text-note').html('Please note that deposit amount must be a minimum of $' + _mindepositamt);
-                                               
-                                               $('#txtAmount').val(_amount); 
-                                               $('#txtDepositNameOnCard').val(_nameoncard);
-                                               $('#txtCreditCardNumber').val(_creditcardnumber);
-                                               $('#txtExpMonth').val(_expmonth);
-                                               $('#txtExpYear').val(_expyear);
-                                               $('#txtCVS').val(_cvs);
-                                               $('#txtDepositAddress').val(_waddress);
-	                                           $('#txtDepositCity').val(_wcity);
-	                                           $('#txtDepositState').val(_wstate);
-	                                           $('#txtDepositZip').val(_wzip);
-	                                           $('#txtDepositHomePhone1').val(_whphone1);
-	                                           $('#txtDepositHomePhone2').val(_whphone2);
-	                                           $('#txtDepositHomePhone3').val(_whphone3);
-                                                      
-                                          
-                                     }
-                                }
-                             }
-                             else
-                             {
-                                
-                                $('#buttonbar').hide();
-                                $('#processinggif').show(); 
-                                $('#financial-text-note').hide();
-                                _UserService.PPDoExpressCheckout(_amount,_token,_payerid, DoExpressCheckoutComplete,DoExpressCheckoutFailed);
-                             }    
-                        }
-                ); 
-                
-                $("#w-paypal").click(
-                    function()
-                    {
-                        $('#financial-withdraw-paypal-table').show();
-                        $('#financial-withdraw-cheque-table').hide();
-                        $('#financial-withdraw-error-message').hide();
-		            }
-	            );
-	            
-	            $("#w-check").click(
-                    function()
-                    {
-                        $('#financial-withdraw-paypal-table').hide();
-                        $('#financial-withdraw-cheque-table').show();
-                        $('#financial-withdraw-error-message').hide();
-                        
-                        if (_wstate == undefined || _wstate == '') {
-                            $('#txtState').val(_state);
-                         }
-                        else {
-                            $('#txtState').val(_wstate);
-                        }
-                        
-                        $('#txtHomePhone1').autotab({ target: 'txtHomePhone2', format: 'numeric' });
-                        $('#txtHomePhone2').autotab({ target: 'txtHomePhone3', format: 'numeric', previous: 'txtMyHomePhone1' });
-	                }
-	            );
-	            
-	            $("#witdraw-button-next-step").click(
-	                function() {
-	                      var _errormessage = '';
-	                      _amount = $('#txtWithdrawAmount').val();
-	                      _paymenttype = $("input[name='rdwithdraw']:checked").val();
-	                      _waddress = $('#txtAddress').val();
-	                      _wcity = $('#txtCity').val();
-	                      _wstate = $('#txtState').val();
-	                      _wzip = $('#txtZip').val();
-	                      _whphone1 = $('#txtHomePhone1').val();
-	                      _whphone2 = $('#txtHomePhone2').val();
-	                      _whphone3 = $('#txtHomePhone3').val();
-	                                      
-	                      
-                          
-	                      if($('#txtWithdrawAmount').val() == '' || !IsDecimal($('#txtWithdrawAmount').val()))
-                          {
-                               _errormessage += '<br>- Please enter a valid amount.';
-                          }
-	                      else
-                          {
-                             if($('#txtWithdrawAmount').val() < _mindepositamt)
-                             _errormessage += '<br>- The minimum amount you can withdraw is $' + _minwithdrawamt;
-                          }
-	                      if(_paymenttype == 'paypal')
-	                      {
-	                            if($('#txtPayPalAccount').val() == '' || !IsEmail($('#txtPayPalAccount').val()))
-                                {
-                                     _errormessage += '<br>- Please enter a valid Paypal Email address.';
-                                }
-	                      
-	                      }
-	                      else
-	                      {
-	                            
-	                            
-	                            if($('#txtAddress').val() == '' || $('#txtAddress').val().length < 3)
-                                {
-                                    _errormessage += '<br>- Please enter a valid address.';
-                                }
-                                
-                                if($('#txtCity').val() == '' || $('#txtCity').val().length < 3)
-                                {
-                                    _errormessage += '<br>- Please enter a valid city.';
-                                }
-                                
-                                if($('#txtState').val() == '' || $('#txtState').val().length != 2)
-                                {
-                                    _errormessage += '<br>- Please enter a valid state.';
-                                }
-                                
-                                
-                                if($('#txtZip').val() == '' || $('#txtZip').val().length < 5 || !IsNumeric($('#txtZip').val()))
-                                {
-                                    _errormessage += '<br>- Please enter a valid zip.';
-                                }
-                                
-                                if($('#txtHomePhone1').val() == '' || $('#txtHomePhone2').val() == '' || $('#txtHomePhone3').val() == '' || $('#txtHomePhone1').val().length != 3 || $('#txtHomePhone2').val().length != 3 || $('#txtHomePhone3').val().length != 4  || !IsNumeric($('#txtHomePhone1').val()) || !IsNumeric($('#txtHomePhone2').val()) || !IsNumeric($('#txtHomePhone3').val()))
-                                {
-                                    _errormessage += '<br>- Please enter a valid home phone.';
-                                }
-                                
-//                                if($('#txtOtherPhone1').val() == '' || $('#txtOtherPhone2').val() == '' || $('#txtOtherPhone3').val() == '' || $('#txtOtherPhone1').val().length != 3 || $('#txtOtherPhone2').val().length != 3 || $('#txtOtherPhone3').val().length != 4 || !IsNumeric($('#txtOtherPhone1').val()) || !IsNumeric($('#txtOtherPhone2').val()) || !IsNumeric($('#txtOtherPhone3').val()))
-//                                {
-//                                    _errormessage += '<br>- Please enter a valid other phone.';
-//                                }
-	                      }
-	                      
-	                      if($('#txtWithdrawPassword').val() == '')
-                          {
-                               _errormessage += '<br>- Please enter your DraftStreet password.';
-                          }
-	                      
-	                      if(_errormessage == '')
-                          {
-                              
-                              $('#withdraw-buttonbar').hide();
-                              $('#withdraw-processinggif').show(); 
-                              $('#financial-withdraw-text-note').hide();
-                              if($("input[name='rdwithdraw']:checked").val() == 'paypal')
-	                          {  
-                                _UserService.InsertWithdraw(_amount,1,$('#txtPayPalAccount').val(),'','','','','','',$('#txtWithdrawPassword').val(),InsertWithdrawComplete,InsertWithdrawFailed);
-                              }
-                              else
-                              {
-                                _UserService.InsertWithdraw(_amount,2,'',$('#txtAddress').val(),$('#txtCity').val(),$('#txtState').val(),$('#txtZip').val(),$('#txtHomePhone1').val() + $('#txtHomePhone2').val() + $('#txtHomePhone3').val(),'',$('#txtWithdrawPassword').val(),InsertWithdrawComplete,InsertWithdrawFailed);
-                              }
-                          }
-                          else
-                          {
-                              
-                              _errormessage += '<br><br>';
-                              $('#financial-withdraw-error-message').html(_errormessage);
-                              $('#financial-withdraw-error-message').show();
-                              if(_paymenttype != 'paypal')
-                              {
-                                  $.modal.close();
-                                  $('#financial-withdraw-paypal-table').hide();
-                                  $('#financial-withdraw-cheque-table').show();
-                                  $('#financial-withdraw-error-message').html(_errormessage);
-                                  $('#financial-withdraw-error-message').show();
-                                  
-                                  $('#financial-withdraw')
-                                    .modal({
-                                        opacity: 75,
-                                        overlayCss: { backgroundColor: '#000000' },
-                                        close: true
-                                    });
-                                    $('#txtHomePhone1').autotab({ target: 'txtHomePhone2', format: 'numeric' });
-                                    $('#txtHomePhone2').autotab({ target: 'txtHomePhone3', format: 'numeric', previous: 'txtMyHomePhone1' });
-                                   
-                                   
-                                   $('#txtWithdrawAmount').val(_amount); 
-                                   $("#w-paypal").attr("checked", false); 
-                                   $("#w-check").attr("checked", true);
-                                   $('#txtAddress').val(_waddress);
-	                               $('#txtCity').val(_wcity);
-	                               $('#txtState').val(_wstate);
-	                               $('#txtZip').val(_wzip);
-	                               $('#txtHomePhone1').val(_whphone1);
-	                               $('#txtHomePhone2').val(_whphone2);
-	                               $('#txtHomePhone3').val(_whphone3);
-	                               
-                                   //$('#txtOtherPhone3').val(_wophone3);
-                              }
-                          }
-	                    //alert($("input[name='rdwithdraw']:checked").val());  
-	                }
-	            );
-                
-             });
-             
-        function ValidateCode_Failed()
-        {     
-            basicDialog('Error', CONFIG.ERROR_MESSAGES[500], true);    
-        }
+        });
         
-        function ValidateCode_Complete(result)
+        function GetYesterdaysTop5MoneyLeaders_Complete(result)
         {
-             
             result = normalizeResult(result);
+
+            if (!result.success)
+                GetYesterdaysTop5MoneyLeaders_Failed();
             
-            var data = eval('(' + result.data + ')');
+            top5 = eval('(' + result.data + ')');
             
-            if (result.success)
+            if(top5.length > 0)
             {
-                $('#financial-error-message').hide();
-                if(data.codedescription != "")
-                {
-                    _pcodedesc = data.codedescription;
-                    _pcode = data.code;
-                    $('#financial-promocodemessage').html(_pcodedesc);
-                }
+                $('#top5-username').html(truncate(top5[0].username,22));
+                    $('#top5-money').html('<span style="color:#ffffff;font-weight:bold;">Winnings :</span> $' + addCommas(top5[0].total_prizes.toFixed(2)));
+                    $('#top5-score').html('<span style="color:#ffffff;font-weight:bold;">Top Score :</span> ' + (top5[0].top_score == 0 ? 'N/A' : top5[0].top_score));
+                    $('#top5-img').attr('src',top5[0].avatar);
                 
-                
-                gotonextstep();
+                var len = top5.length;
+                var i = 0;
+                setInterval(function () {
+                    ++i;
+                    if(i == len)
+                        i = 0;
+                    $('#top5-username').html(truncate(top5[i].username,22));
+                    $('#top5-money').html('<span style="color:#ffffff;font-weight:bold;">Winnings :</span> $' + addCommas(top5[i].total_prizes.toFixed(2)));
+                    $('#top5-score').html('<span style="color:#ffffff;font-weight:bold;">Top Score :</span> ' + (top5[i].top_score == 0 ? 'N/A' : top5[i].top_score));
+                    $('#top5-img').attr('src', top5[i].avatar);
+                    //alert(top5[i].avatar); 
+                }, 5000);
             }
             else
             {
-                var _errormessage = '';
-               
-                _errormessage += CONFIG.ERROR_MESSAGES[result.errorcode];
-                $('#financial-error-message').html('<br>' + _errormessage + '<br><br>');
-                $('#financial-error-message').show();   
+                $('#main-header').attr('src', 'http://c1304512.cdn.cloudfiles.rackspacecloud.com/main_header_01a.jpg');
             }
-        }    
-        
-        function gotonextstep()
-        {
-            if(_paymenttype == 'echeck')
-                _UserService.InsertECheckTracking(insertEcheckCompleted,insertEcheckFailed);
-            else if (_paymenttype == 'paypal')
-                {
-                    _step = 2;
-                    var _logoimage = '<img src="./images/payments/' + _paymenttype + '-logo.jpg" />';
-                                    
-                    $('#financial-cc-table').addClass('moveleft');
-                    $('#financial-cc-table').show();
-                    $('#financial-paymentchoice').hide();
-                    $('#financial-payment-logo').show();
-                    $('#financial-error-message').hide();
-                                    
-                    $('#financial-payment-logo').html(_logoimage);
-                    $('#cc-number').hide();
-                    $('#cc-expdate').hide();
-                    $('#cc-cvs').hide();
-                    $('#cc-address').hide();
-                    $('#cc-name').hide();
-                    $('#financial-text').html('Enter the amount you would like to deposit and click next<br> to go to PayPal and review your information');
-                    $('#financial-header').html('Step 2 of 3');
-                    $('#financial-text-note').html('Please note that deposit amount must be a minimum of $' + _mindepositamt + '<br><br><span style="color:red;">*PayPal eCheck payments may take up to 7 business days to process.  Any funds<br>deposited as well as bonus money associated with a promo code will be available in<br>your DraftStreet account as soon as the payment clears.</span>');
-                    
-                                                
-                }
-             else
-                {
-                    _step = 2;
-                    var _logoimage = '<img src="./images/payments/' + _paymenttype + '-logo.jpg" />';
-                                    
-                    $('#financial-cc-table').show();
-                    $('#financial-paymentchoice').hide();
-                    $('#financial-payment-logo').show();
-                    $('#financial-error-message').hide();
-                                    
-                    $('#financial-payment-logo').html(_logoimage);
-                    $('#financial-text').html('Enter the amount and your credit card information');
-                    $('#financial-header').html('Step 2 of 3');
-                    $('#financial-text-note').html('Please note that deposit amount must be a minimum of $' + _mindepositamt);
-                    
-                }
+            
         }
         
-        function populatedata()
+        function GetYesterdaysTop5MoneyLeaders_Failed()
         {
-                
-            
+            $('#main-header').attr('src', 'http://c1304512.cdn.cloudfiles.rackspacecloud.com/main_header_01a.jpg');
+        }
+        
+        function populatedata() {
             $('#txtAddress').val('');
-                        
-	         $('#txtAddress').val(_address);
-	         $('#txtCity').val(_city);
-	         $('#txtState').val(_state);
-	         $('#txtZip').val(_zip);
-	         $('#txtHomePhone1').val(_hphone.substr(0,3));
-	         $('#txtHomePhone2').val(_hphone.substr(3,3));
-	         $('#txtHomePhone3').val(_hphone.substr(6,4));
-             $('#txtMyAddress').val(_address);
-	         $('#txtMyCity').val(_city);
-	         $('#txtMyState').val(_state);
-	         $('#txtMyZip').val(_zip);
-	         $('#txtMyHomePhone1').val(_hphone.substr(0,3));
-	         $('#txtMyHomePhone2').val(_hphone.substr(3,3));
-	         $('#txtMyHomePhone3').val(_hphone.substr(6,4)); 
-             $('#txtMyFirstName').val(_firstname);
-             $('#txtMyLastName').val(_lastname);
-             $('#txtDepositAddress').val(_address);
-	         $('#txtDepositCity').val(_city);
-	         $('#txtDepositState').val(_state);
-	         $('#txtDepositZip').val(_zip);
-	         $('#txtDepositHomePhone1').val(_hphone.substr(0,3));
-	         $('#txtDepositHomePhone2').val(_hphone.substr(3,3));
-	         $('#txtDepositHomePhone3').val(_hphone.substr(6,4));
-	         if(_address != '')
-	         {
-	            $('#address').html(_address);
+            $('#txtAddress').val(_address);
+            $('#txtCity').val(_city);
+            $('#txtState').val(_state);
+            $('#txtZip').val(_zip);
+            $('#txtHomePhone1').val(_hphone.substr(0,3));
+            $('#txtHomePhone2').val(_hphone.substr(3,3));
+            $('#txtHomePhone3').val(_hphone.substr(6,4));
+            $('#txtMyAddress').val(_address);
+            $('#txtMyCity').val(_city);
+            $('#txtMyState').val(_state);
+            $('#txtMyZip').val(_zip);
+            $('#txtMyHomePhone1').val(_hphone.substr(0,3));
+            $('#txtMyHomePhone2').val(_hphone.substr(3,3));
+            $('#txtMyHomePhone3').val(_hphone.substr(6,4)); 
+            $('#txtMyFirstName').val(_firstname);
+            $('#txtMyLastName').val(_lastname);
+            $('#txtDepositAddress').val(_address);
+            $('#txtDepositCity').val(_city);
+            $('#txtDepositState').val(_state);
+            $('#txtDepositZip').val(_zip);
+            $('#txtDepositHomePhone1').val(_hphone.substr(0,3));
+            $('#txtDepositHomePhone2').val(_hphone.substr(3,3));
+            $('#txtDepositHomePhone3').val(_hphone.substr(6,4));
+            if(_address != '') {
+                $('#address').html(_address);
                 $('#citystatezip').html(_city + ', ' + _state + ', ' + _zip);
                 $('#phone').html(_hphone.substr(0, 3) + '-' + _hphone.substr(3, 3) + '-' + _hphone.substr(6, 4));
-             }
-	         
-        }
-        
-        function InsertWithdrawFailed()
-        {
-            $('#financial-withdraw-error-message').html('<br>Withdraw fail.<br><br>');
-            $('#financial-withdraw-error-message').show();
-            $('#withdraw-buttonbar').show();
-            $('#withdraw-processinggif').hide(); 
-            $('#financial-withdraw-text-note').show();
-        }
-        
-        function InsertWithdrawComplete(result)
-        {
-            result = normalizeResult(result);
-
-            var data = eval('(' + result.data + ')');
-            
-            if (result.success)
-            {
-                var _logoimage = '<img src="./images/payments/' + _paymenttype + '-logo.jpg" />';
-                $('#financial-withdraw-password-table').hide();
-                $('#withdraw-buttonbar').hide();
-                $('#withdraw-processinggif').hide(); 
-                $('#financial-withdraw-error-message').hide();
-                $('#withdraw-closebutton').show();
-                $('#financial-withdraw-paymentchoice').hide();
-                $('#withdraw-table-amount').hide();
-                $('#financial-withdraw-cheque-table').hide();
-                $('#financial-withdraw-paypal-table').hide();
-                $('#financial-withdraw-text').html('<i>Withdraw successful!</i>');
-                $('#financial-withdraw-success-text').html('You have withdrawn $' + _amount + ' to : ' + _logoimage );
-                $('#financial-withdraw-header').html('Step 2 of 2');
-                
-                updatebalance();
-                
-               
-            
             }
-            else
-            {
-                //add error returned with password validation
-                $('#financial-withdraw-error-message').html('<br>' + CONFIG.ERROR_MESSAGES[result.errorcode] + '<br><br>');
-                $('#financial-withdraw-error-message').show();
-                $('#withdraw-buttonbar').show();
-                $('#withdraw-processinggif').hide(); 
-                $('#financial-withdraw-text-note').show();
-            }
-        }
-        
-        function DoExpressCheckoutComplete(result)
-        {
-            result = normalizeResult(result);
-
-            var data = eval('(' + result.data + ')');
-            
-            if (result.success)
-            {
-                updatebalance();
-            
-                var _logoimage = '<img src="./images/payments/' + _paymenttype + '-logo.jpg" />';
-                
-                $('#buttonbar').hide();
-                $('#processinggif').hide(); 
-                $('#financial-error-message').hide();
-                $('#closebutton').show();
-                $('#financial-cc-table').hide();
-                $('#financial-paymentchoice').hide();
-                $('#financial-payment-logo').hide();
-                
-                $('#financial-text').html('<i>Transfer successful!</i>');
-                var _successmessage = 'You have deposited $' + data.amount + ' from : ' + _logoimage;
-                
-                    
-                
-                $('#financial-success-text').html(_successmessage);
-                $('#financial-header').html('Step 3 of 3');
-            
-            }
-            else
-            {
-                alert('docheckout failed');
-                $('#buttonbar').show();
-                $('#processinggif').hide(); 
-            }
-        }
-        
-        function DoExpressCheckoutFailed()
-        {
-            alert('docheckout failed!');
-            $('#buttonbar').show();
-            $('#processinggif').hide();
-        }
-                
-        function GetExpressCheckoutComplete(result)
-        {
-                //Do the GetToken
-            result = normalizeResult(result);
-
-            var data = eval('(' + result.data + ')');
-            
-            if (result.success)
-            {
-                $('#financial')
-                    .modal({
-                        opacity: 75,
-                        overlayCss: { backgroundColor: '#000000' },
-                        close: true
-                    });
-                
-                var _logoimage = '<img src="./images/payments/' + _paymenttype + '-logo.jpg" />';
-                //$('#financial-payment-logo').html(_logoimage);
-                $('#financial-text').html('Thank you for confirming PayPal information.<br>Please click Next to complete payment.<br><br><span style="font-weight:normal;">---------------------------------------------------------<br>Draftstreet deposit&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$' + data.amount + '<br>---------------------------------------------------------</span>');
-                $('#financial-header').html('Step 2 of 3');  
-                _step = 3;
-                _amount = data.amount;
-                
-            }
-            else
-            {
-                alert('PayPal token is not valid');
-                $('#buttonbar').show();
-                $('#processinggif').hide();
-            }
-                
-        }
-        
-        function GetExpressCheckoutFailed()
-        {
-            alert('PayPal token is not valid');
-            $('#buttonbar').show();
-            $('#processinggif').hide();
-        }
-        
-        function PPSetExpressCheckoutComplete(result)
-        {
-            result = normalizeResult(result);
-
-            var data = eval('(' + result.data + ')');
-            
-            if (result.success)
-            {
-                window.location = _sendurl + '&token=' + data.token;
-            }
-            else
-            {
-                $('#buttonbar').show();
-                $('#processinggif').hide(); 
-                
-                $('#step2-error-message').html(data.errormessage);
-                $('#step2-error-message').show();
-            }
-        }
-        
-        function PPSetExpressCheckoutFailed()
-        {
-            $('#buttonbar').show();
-            $('#processinggif').hide(); 
-            
-            $('#step2-error-message').html('An error has occured while communicating with PayPayl.<br>Please try again later.');
-            $('#step2-error-message').show();
-        }
-        
-        function insertEcheckCompleted()
-        {
-            $('#financial-error-message').html('We are sorry but we cannot process e-check at the moment.<br>Please select another payment method.');
-            $('#financial-error-message').show();
-        }
-        
-        function insertEcheckFailed()
-        {
-            $('#financial-error-message').html('We are sorry but we cannot process e-check at the moment.<br>Please select another payment method.');
-            $('#financial-error-message').show();
-        }
-        
-        function CCDeposit_Complete(result)
-        {
-            result = normalizeResult(result);
-
-            var data = eval('(' + result.data + ')');
-            
-            if (result.success)
-            {
-                updatebalance();
-            
-                var _logoimage = '<img src="./images/payments/' + _paymenttype + '-logo.jpg" />';
-                
-                $('#buttonbar').hide();
-                $('#processinggif').hide(); 
-                $('#financial-error-message').hide();
-                $('#closebutton').show();
-                $('#financial-cc-table').hide();
-                $('#financial-paymentchoice').hide();
-                $('#financial-payment-logo').hide();
-                $('#financial-text-note').hide()
-                $('#financial-promocodemessage').hide();
-                $('#financial-text').html('<i>Transfer successful!</i>');
-                var _successmessage = 'You have deposited $' + data.amount + ' from : ' + _logoimage;
-                if(data.successmessage != '' && data.successmessage != 'undefined')
-                {
-                    _successmessage += '<br><br><br><span style="color:red;">* ' + data.successmessage + '</span>';
-                }
-                $('#financial-success-text').html(_successmessage);
-                $('#financial-header').html('Step 3 of 3');
-                
-                if(data.userpixel != '')
-                {
-                    
-                    $('#pixelfire').html(data.userpixel);
-                }
-                
-                if(_address == '')
-                {
-                    _UserService.UpdateUserInfo(_firstname, _lastname, _waddress, _wcity, _wstate, _wzip, _hphone, '', UpdateUserInfoDepositComplete, UpdateUserInfoDepositFailed);
-                }
-                
-                
-            }
-            else
-            {
-                $('#financial-text-note').show();
-                $('#buttonbar').show();
-                $('#processinggif').hide(); 
-                $('#financial-error-message').show();
-                $('#financial-error-message').html(data.responsereasontext);
-            }
-        }
-        
-        function UpdateUserInfoDepositFailed() {
-            
-        }
-        
-        function UpdateUserInfoDepositFailed() {
-            
-        }
-
-        function UpdateUserInfoDepositComplete(result) {
-            result = normalizeResult(result);
-
-            var data = eval('(' + result.data + ')');
-
-            if (result.success) {
-                                               
-                _address = $('#txtDepositAddress').val();
-                _city = $('#txtDepositCity').val();
-                _state = $('#txtDepositState').val();
-                _zip = $('#txtDepositZip').val();
-                                                
-                populatedata();
-            }
-            
         }
         
         function sendemailcomplete() { }
         
-        function CCDeposit_Failed()
-        {
-            $('#buttonbar').show();
-            $('#processinggif').hide(); 
-            $('#financial-text-note').show();
-            alert('failed cc');
+        function logoutdone() {
+            window.location = CONFIG.PATHS.WEB + 'default.aspx';
         }
         
-        function logoutdone()
-        {
-            
-            window.location = 'http://' + window.location.host + CONFIG.PATHS.WEB + 'default.aspx';
+        function logoutfailed() {
+            window.location = CONFIG.PATHS.WEB + 'default.aspx';
         }
         
-        function logoutfailed()
-        {
-            window.location = 'http://' + window.location.host + CONFIG.PATHS.WEB + 'default.aspx';
-        }
-
         function globalchecklogin() {
-
             if (_globaluserid == '' || _globaluserid == -1)
-                globalnotLoggedIN()
+                globalnotLoggedIN();
             else
-                globaluserLoggedIn()
+                globaluserLoggedIn();
         }
 
         function globaluserLoggedIn() {
-            
             $('#bottomforgotpassword').hide();
             $('#top-notloggedin').hide();
             $('#top-loggedin-message').html('You are signed in as <b>' + _username + '</b>');
@@ -1036,7 +305,6 @@
         }
 
         function globalnotLoggedIN() {
-            
             $('#bottom-logout').hide();
             $('#bottommydraftstreet').hide();
             $('#top-loggedin').hide();
@@ -1044,17 +312,14 @@
             $('#bottomforgotpassword').show();
         }  
         
-        function updatebalance()
-        {
+        function updatebalance() {
             _UserService.CheckBalance(checkBalance_Complete, checkBalance_Failed);
         }
         
-        function checkBalance_Complete(result)
-        {
+        function checkBalance_Complete(result) {
             result = normalizeResult(result);
             
-            if(result.success)
-            {
+            if(result.success) {
                 var data = eval('(' + result.data + ')');
 
                 _moneybalance = data.realmoney;
@@ -1069,9 +334,54 @@
             }
         }
         
-        function checkBalance_Failed()
-        {
+        function checkBalance_Failed() {
             //alert('Could not get users balance');
+        }
+        
+        function toggleGlobalChat(show, animate) {
+            $.cookie('hide-global-chat', null, { path: '/' });
+            $.cookie('hide-global-chat', !show, { expires: 365, path: '/' });
+            
+            $('#a-show-chat, #a-hide-chat').hide();
+
+            if (show) {
+                if (_globalChatRoom.latestStatus != Chat.Statuses.Connected)
+                    Chat.Join(_globalChatRoom);
+                
+                if (animate)
+                    $('#side-chat')
+                        .show(
+                            'slide', 
+                            {direction: 'left'}, 
+                            350,
+                            function() {
+                                $('#a-hide-chat').show();
+                            });
+                else
+                {
+                    $('#side-chat').show();                
+                    $('#a-hide-chat').show();
+                }
+            }
+            else {
+                if (_globalChatRoom.latestStatus != Chat.Statuses.Disconnected)
+                    Chat.Leave(_globalChatRoom);
+                    
+                if (animate)
+                    $('#side-chat')
+                        .hide(
+                            'slide', 
+                            {direction: 'left'}, 
+                            350,
+                            function() {
+                                $('#a-show-chat').show();
+                            });
+                else
+                {
+                    $('#side-chat').hide();                
+                    $('#a-show-chat').show();
+                }
+            }
         }
     </script>
     <!--[if gt IE 7]>
@@ -1082,62 +392,65 @@
         }
     </style>
     <![endif]-->
-    
     </head>
 <body>
-    <form name="aspnetForm" method="post" action="/Privacy.aspx" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMjA4MzU0MjMxNmRkUXbR8YgAg+nD8qaS0EPZa1yfRYk=">
+    <form name="aspnetForm" method="post" action="Privacy.aspx" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMjA4MzU0MjMxNmRkpIFpgj34WlJAiBpypqQnuNla9n8=">
 
 
-<script src="/ScriptResource.axd?d=-Jje_sMGyy8fmFY3coW5kDOKpj-fI0VmwvCEdUvw7l8T-K2FpS4N041Fj295mzPg-ys_mDu5PCoe-ZkLa3K59yPn7iPfmiPhrrPmN_iQYIrw5qOdcQxy9soZFXBSOkl1hGQJfzEF8sp6j1BULzLivBnGuxezSLVP_5PD8OIICOtrPdUs0&amp;t=ffffffffd74faa62" type="text/javascript"></script>
-<script type="text/javascript">
-//<![CDATA[
-if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
-//]]>
-</script>
-
-<script src="services/UIService.svc/jsdebug" type="text/javascript"></script>
-<script src="services/UserService.svc/jsdebug" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=lX0MS7JgOmBoX-y1-0Or68fOgh7WRhTnE-iaXrDHuYC7AOvzL7cIVVGKLYsOMuVKs7VWdgJpRr3twvjBhINTn48s7f8FeNFCf4v5sSAj9NI1&amp;t=ffffffffec2d9970" type="text/javascript"></script>
+<script src="services/UIService.svc/js" type="text/javascript"></script>
+<script src="services/UserService.svc/js" type="text/javascript"></script>
     
-    <div id="contentWrapper">
-	    <div class="topBar">
-		    <div class="left">DraftStreet.com - Daily and Weekly Fantasy Sports Leagues for Cash Prizes</div>
-		    <div class="right"><span id="top-notloggedin"><a href="/">Sign In</a>  |  <a href="register.aspx">Sign Up</a></span><span id="top-loggedin"><span id="top-loggedin-message"></span> | <a id="top-logout-link" style="text-transform:none;" href="javascript:void(0);">Log out</a></span>  |  1-888-272-1730</div>
-	    </div>
-	    <div class="header"><a href="./"><img src="/images/main_header_01a.jpg" style="width: 970px; height: 120px;" alt="DraftStreet - The Future of Fantasy Sports"></a></div>
-	    <div class="navWrapper">
-	        <div style="float: left; width: 200px;">
-	            <a href="./"><img src="/images/ds-main-logo.png" style="width: 200px; height: 66px;" alt="DraftStreet"></a>
-	        </div>
-	        <div class="top-menu-wrapper">
-	            <ul id="ctl00_ulTopMenu" class="top-menu">
-	                <li id="ctl00_liHome" style="margin-left: 12px;"><a href="./">Home</a></li>
-	                <li id="ctl00_liMyDraftstreet"><a href="mydraftstreet.aspx">My DraftStreet</a></li>
-	                <li id="ctl00_liPlayerNews">
-	                    <a href="javascript:void(0);">Player News ▼</a>
-	                </li>
-	                
-	                <li id="ctl00_liRules"><a href="rules.aspx">Rules</a></li>
-	                <li id="ctl00_liFAQ"><a href="faq.aspx">FAQ</a></li>
-	                <li id="ctl00_liCashier" style="margin-right: 12px; border-style: none;"><a href="cashier.aspx">Cashier</a></li>
-	            </ul>
-	            <div class="clear"></div>
-                <ul id="player-news-submenu">
-                    <li><a href="player-news.aspx?data=news">Latest News</a></li>
-                    <li><a href="player-news.aspx?data=injuries">Injury News</a></li>
-                </ul>
-	            <div class="clear"></div>
-                <ul id="insider-content-submenu">
-                    <li id="ctl00_liInsiderArticles"><a href="insider-articles.aspx">Articles</a></li>
-                    <li id="ctl00_liDraftAnalytics"><a href="mlb/draft-analytics.aspx">MLB Draft Analytics</a></li>
-                    <li id="ctl00_liDraftAnalyticsNfl"><a href="nfl/draft-analytics.aspx">NFL Draft Analytics</a></li>
-                    <li id="ctl00_liDraftAnalyticsNba"><a href="nba/draft-analytics.aspx" id="ctl00_A1">NBA Draft Analytics</a></li>
-                </ul>
-	        </div>
-	    </div>
     
-        <div id="bodyContent" style="background-color: #ffffff;">
+    <div id="ctl00_masterWrapper" style="margin:0px auto;width:1271px;">
+        <div style="float: left; width: 1014px;">
+            <div id="contentWrapper">
+                
+	                <div class="topBar">
+		                <h1 class="left">Fantasy Sports, Daily and Weekly Fantasy Drafts for Cash Prizes</h1>
+		                <div class="right"><span id="top-notloggedin"><a href="http://www.draftstreet.com/">Sign In</a>  |  <a href="http://www.draftstreet.com/register.aspx">Sign Up</a></span><span id="top-loggedin"><span id="top-loggedin-message"></span> | <a id="top-logout-link" style="text-transform:none;" href="javascript:void(0);">Log out</a></span>  |  1-888-272-1730</div>
+	                </div>
+	                <div class="header"><img id="top5-noclick" src="http://c1304512.cdn.cloudfiles.rackspacecloud.com/transparent.gif" width="280" height="123" style="z-index:10; cursor:default; width: 280px; height: 123px; position: absolute; float: left; margin-left: 693px;margin-top: 0px;"><span id="top5-username" style="color: rgb(255, 255, 255); font-size: 16px; font-weight: bold; position: absolute; float: left; margin-left: 772px; margin-top: 40px;"></span><span id="top5-money" style="font-size: 13px; color:#2C912B; position: absolute; float: left; margin-left: 772px; margin-top: 68px;"></span><span id="top5-score" style="font-size: 13px; color: #2C912B; position: absolute; float: left; margin-left: 772px; margin-top: 87px;"></span><img style="position:absolute;float:left;margin-left:700px;margin-top:44px;" id="top5-img" width="60" height="60"><a style="z-index:1;" href="http://www.draftstreet.com/"><img id="main-header" src="http://c1304512.cdn.cloudfiles.rackspacecloud.com/main_header_winners.jpg" style="z-index:-1;width:970px; height:120px;" alt="DraftStreet - The Future of Fantasy Sports"></a></div>
+	                <div class="navWrapper">
+	                    <div style="float: left; width: 200px;">
+	                        <a href="http://www.draftstreet.com/"><img src="http://c1304512.cdn.cloudfiles.rackspacecloud.com/ds-main-logo.png" style="width:200px; height:66px;" alt="DraftStreet"></a>
+	                    </div>
+	                    <div class="top-menu-wrapper">
+	                        <ul id="ctl00_ulTopMenu" class="top-menu">
+	                            <li id="ctl00_liHome" style="margin-left: 1px;"><a href="http://www.draftstreet.com/">Home</a></li>
+	                            
+	                            <li id="ctl00_liMyDraftstreet"><a href="http://www.draftstreet.com/mydraftstreet.aspx">My DraftStreet</a></li>
+	                            <li id="ctl00_liPlayerNews">
+	                                <a href="javascript:void(0);">Player News ▼</a>
+	                            </li>
+	                            <li id="ctl00_liSports">
+	                                <a href="javascript:void(0);">Sports ▼</a>
+	                            </li>
+	                            
+	                            <li id="ctl00_liRules"><a href="http://www.draftstreet.com/rules.aspx">Rules</a></li>
+	                            <li id="ctl00_liFAQ"><a href="http://www.draftstreet.com/blog">Blog</a><img src="http://c1304512.cdn.cloudfiles.rackspacecloud.com/NewStarburst.gif" style="position: absolute; margin-left: 38px; margin-top: -45px;" alt="DraftStreet"></li>
+	                            
+	                        </ul>
+	                        <div class="clear"></div>
+                            <ul id="player-news-submenu">
+                                <li><a href="http://www.draftstreet.com/player-news.aspx?data=news">Latest News</a></li>
+                                <li><a href="http://www.draftstreet.com/player-news.aspx?data=injuries">Injury News</a></li>
+                            </ul>
+	                        <div class="clear"></div>
+                            <ul id="insider-content-submenu">
+                                <li id="ctl00_liInsiderArticles"><a href="http://www.draftstreet.com/insider-articles.aspx">Articles</a></li><li id="ctl00_liDraftAnalytics"><a href="http://www.draftstreet.com/mlb/draft-analytics.aspx">MLB Draft Analytics</a></li><li id="ctl00_liDraftAnalyticsNfl"><a href="http://www.draftstreet.com/nfl/draft-analytics.aspx">NFL Draft Analytics</a></li><li id="ctl00_liDraftAnalyticsNba"><a id="A1" href="http://www.draftstreet.com/nba/draft-analytics.aspx">NBA Draft Analytics</a></li>
+                            </ul>
+                            <div class="clear"></div>
+                            <ul id="sports-submenu">
+                               <li id="ctl00_li5"><a href="http://www.draftstreet.com/">All</a></li><li id="ctl00_li1"><a href="http://www.draftstreet.com/fantasy/football">Football</a></li><li id="ctl00_li2"><a href="http://www.draftstreet.com/fantasy/baseball">Baseball</a></li><li id="ctl00_li3"><a href="http://www.draftstreet.com/fantasy/basketball">Basketball</a></li><li id="ctl00_li4"><a href="http://www.draftstreet.com/fantasy/hockey">Hockey</a></li>
+                            </ul>
+	                    </div>
+	                </div>
+	            
             
+                <div id="bodyContent" style="background-color: #ffffff;">
+                    
 <div class="sectionTitle">
         <div class="sectionTitleLeft">
             <div class="sectionTitleRight">
@@ -1146,7 +459,7 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
         </div>
     </div>
     <div class="sectionContent clearBG textholder">
-        <h2>NOTICE: Privacy Policy Effective March __, 2010</h2>
+        <h2>NOTICE: Privacy Policy Effective March 15<sup>th</sup>, 2010</h2>
 
         <h2 class="c u">DraftStreet™ Website Privacy Policy</h2>
 
@@ -1293,315 +606,267 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
             <a href="mailto:customerservice@draftstreet.com">customerservice@draftstreet.com</a>, or send a letter to:  
             <br><br>
             DraftStreet<br>
-            3380 Sumter Ave S<br>
-            St Louis Park, MN 55426
+            111 W 28th St<br>
+                        Suite 2B<br>
+                        New York, NY 10001<br><br>
         </p>
     </div>
 
+                </div>
+                <div class="clear"></div>
+	        </div>
+            
+            <div id="bottomWrapper">
+    	        <div class="footer">
+    	            <div style="float: left; width: 150px; height: 60px;">
+    	                <img src="http://c1304512.cdn.cloudfiles.rackspacecloud.com/footer-ds.jpg" style="width: 150px; height: 60px; margin: 0px; padding: 0px;" alt="DraftStreet">
+    	            </div>
+    	            <div style="float: left; width: 678px; padding: 8px 0px 0px 0px;">
+	                    <a href="http://www.draftstreet.com/">Home</a>  |  <a href="http://www.draftstreet.com/aboutus.aspx">About Us</a><span id="bottommydraftstreet">  |  <a href="http://www.draftstreet.com/mydraftstreet.aspx">My Draftstreet</a></span><span id="bottomforgotpassword"> |  <a href="http://www.draftstreet.com/ForgotPassword.aspx">Forgot Password</a></span>  |  <a href="http://www.draftstreet.com/FAQ.aspx">FAQ</a>  |
+	                    <a href="http://www.draftstreet.com/ContactUs.aspx">Contact Us</a>  |  <a href="http://www.draftstreet.com/Terms.aspx">Terms &amp; Conditions</a>  |  <a href="http://www.draftstreet.com/Privacy.aspx">Privacy Policy</a>  |  <a href="http://www.draftstreet.com/links.aspx">Links</a><br><a href="http://www.draftstreet.com/fantasy/daily-fantasy-sports/">Daily Leagues</a>  |  <a href="http://www.draftstreet.com/fantasy/weekly-fantasy-sports/">Weekly Leagues</a>  |  <a href="http://www.draftstreet.com/leaderboard.aspx">Leaderboard</a>
+                        <span id="bottom-logout">|  <a id="bottom-logout-link" href="javascript:void(0);">Log out</a></span>
+                        <br>
+                        Copyright © 2011 DraftStreet™.  All Rights Reserved.
+                    </div>
+    	            <div style="float:left; width:150px; height:60px; margin-left:-5px;">
+    	                <a href="http://www.dkorp.com" target="_blank"><img src="http://c1304512.cdn.cloudfiles.rackspacecloud.com/footer-nss.jpg" style="width:150px; height:60px;" alt=""></a>
+    	            </div>
+    	            <div class="clear"></div>
+	            </div>
+	            <div class="footer_logos"></div>
+	        </div>
+        	
+    	</div>
+    	
+    	<!-- SIDE CHAT -->
+    	<div id="floating-chat-anchor" style="float: left; position: relative; left: -17px; display: none;"></div>
+    	<div id="floating-chat" style="width: 252px;">
+        	<div id="side-chat" style="float: left; margin-left: 5px; width: 219px; display: none;"></div>
+    	    <div style="float: left; width: 28px; padding-top: 28px;">
+        	    <a id="a-show-chat" style="display: none;" href="#" onclick="toggleGlobalChat(true, true); return false;"><img src="http://c1304512.cdn.cloudfiles.rackspacecloud.com/tab-show-chat-28.gif" style="width: 28px; height: 102px;" alt="Show Chat"></a>
+    	        <a id="a-hide-chat" style="display: none;" href="#" onclick="toggleGlobalChat(false, true); return false;"><img src="http://c1304512.cdn.cloudfiles.rackspacecloud.com/tab-hide-chat-28.gif" style="width: 28px; height: 102px;" alt="Hide Chat"></a>
+    	    </div>
+    	</div>
+	</div>
+	
+	<!-- JOIN LIGHTBOXES -->
+    <div id="dialog-join">
+    
+        <!-- FREEROLL/GPP -->
+        <div id="join-freeroll-wrapper" style="display: none;">
+            <div id="join-freeroll-name" class="b c" style="padding: 17px 0px; font-size: 14pt; color: #cc0000;"></div>
+            <div style="float: left; margin-left: 30px; border: solid 1px #c4c4c4; width: 316px;">
+                <table id="tbl-game-info-freeroll">
+                    <tbody><tr>
+                        <td class="attr-name">League Type:</td>
+                        <td id="join-freeroll-league-type" class="attr-value"></td>
+                    </tr>
+                    <tr class="alt">
+                        <td class="attr-name">Starts:</td>
+                        <td id="join-freeroll-starts" class="attr-value"></td>
+                    </tr>
+                    <tr>
+                        <td class="attr-name">Entries Submitted:</td>
+                        <td id="join-freeroll-entries" class="attr-value"></td>
+                    </tr>
+                    <tr class="alt">
+                        <td class="attr-name">Max Entries per User:</td>
+                        <td id="join-freeroll-max-per" class="attr-value"></td>
+                    </tr>
+                    <tr>
+                        <td class="attr-name">Entry Fee:</td>
+                        <td id="join-freeroll-entry-fee" class="attr-value"></td>
+                    </tr>
+                </tbody></table>
+            </div>
+            <div style="float: left; margin-left: 66px; width: 235px;">
+                <div class="b c" style="height: 26px; font-size: 12pt;">
+                    <span style="color: #008C00;">Prize Pool:</span>
+                    <span id="join-freeroll-prize-pool"></span>
+                </div>
+                
+                <div style="border: solid 1px #c4c4c4;">
+                    <table id="tbl-game-info-payouts">
+                        <thead>
+                            <tr>
+                                <td colspan="2">Top 3 Payouts</td>
+                            </tr>
+                        </thead>
+                        <tbody>
+                        </tbody>
+                    </table>
+                </div>
+                <div id="all-payouts" class="c" style="font-size: 9pt; letter-spacing: -1px;">*All payouts are shown on the league scoreboard.</div>
+            </div>
+            <div class="clear"></div>
         </div>
+
+
+        <!-- REGULAR LEAGUE -->
+        <div id="join-regular-wrapper" style="display: none;">
+            <div id="game-info-wrapper">
+                <table id="tbl-game-info">
+                    <thead>
+                        <tr>
+                            <td style="border-left-style: none; min-width: 45px;">League</td>
+                            <td id="td-join-game-reg-id-head">Registration</td>
+                            <td>Sport</td>
+                            <td style="min-width: 74px;">Draft</td>
+                            <td style="min-width: 45px;">Fee</td>
+                            <td>Duration</td>
+                            <td>Format</td>
+                            <td>Players</td>
+                            <td>1st Game</td>
+                            <td style="border-right-style: none;">Prize Pool</td>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td id="td-join-game-id" style="border-left-style: none;"></td>
+                            <td id="td-join-game-reg-id"></td>
+                            <td id="td-join-sport"></td>
+                            <td id="td-join-draft" class="c"></td>
+                            <td id="td-join-entry-fee"></td>
+                            <td id="td-join-duration"></td>
+                            <td id="td-join-format"></td>
+                            <td id="td-join-players"></td>
+                            <td id="td-join-first-game"></td>
+                            <td id="td-join-prize-pool" style="border-right-style: none;"></td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        
+        <!-- PERKS -->
+        <div id="league-panel-perks">
+            <span id="perks-header" class="up green b" style="font-size: 14pt;">Perks</span>
+            <div style="margin: 2px auto; width: 490px;">
+                
+                <div id="perks-entry-fee-wrapper" style="float: left; width: 124px; min-height: 86px; background-color: #d5d5d5;">
+                    <div style="padding-top: 20px; font-size: 12pt;" class="c b up">Entry Fee</div>
+                    <div id="perks-entry-fee"></div>
+                </div>
+                <div id="lst-perks-wrapper" style="float: left; margin-left: 2px; padding: 8px; width: 346px; min-height: 70px; background-color: #d5d5d5;">
+                    <ul id="lst-perks">
+                    </ul>
+                </div>
+                <div style="clear: both;"></div>
+            </div>
+        </div>
+        
+        <div id="dialog-join-password" style="margin-top: 8px;">
+            <span class="up green b" style="font-size: 14pt;">Password:</span>
+            <input id="txt-join-password" type="password">
+        </div>
+        
+        <div id="league-panel-join">
+            <div style="padding: 16px 0px; font-size: 8pt;">
+                By clicking JOIN LEAGUE, I authorize DraftStreet.com to deduct $<span id="disc-entry-fee">-</span> from my account in order to join this league.
+            </div>
+            <div id="join-private-league-disclaimer" style="margin-top: -16px; padding-bottom: 16px; font-size: 8pt;">
+                I also agree to be moved into a different league with the same format should the league creator choose to resize this league.
+            </div>
+            
+            <div style="margin: 0px auto; width: 530px;">
+                <div class="l" style="float: left; width: 265px;">
+                    <a id="a-join-use-voucher" href="javascript:void(0);"><img src="http://c1304512.cdn.cloudfiles.rackspacecloud.com/join-btn-use-voucher.jpg" style="width: 175px; height: 40px;" alt="Use my voucher"><br></a>
+                    <a id="a-join-join" href="javascript:void(0);"><img src="http://c1304512.cdn.cloudfiles.rackspacecloud.com/join-btn-join-40.jpg" style="width: 175px; height: 40px;" alt="Join league"></a>
+                </div>
+                <div class="r" style="float: left; width: 265px;">
+                    <a id="a-join-cancel" href="javascript:void(0);"><img src="http://c1304512.cdn.cloudfiles.rackspacecloud.com/join-btn-cancel-40.jpg" style="width: 120px; height: 40px;" alt="Cancel"></a>
+                </div>
+                <div class="clear"></div>
+            </div>
+        </div>
+        
+        <div id="league-panel-voucher" style="display: none; margin: 0px auto; width: 660px;">
+            <div style="float: left; margin-top: 20px; width: 110px;">
+                <img src="http://c1304512.cdn.cloudfiles.rackspacecloud.com/join-voucher.jpg" style="width: 63px; height: 96px;" alt="DraftStreet voucher">
+            </div>
+            <div style="float: left; margin-top: 20px; width: 340px; font-size: 11pt; font-weight: bold;">
+                <div style="margin: 0px auto; padding: 0px 20px;">
+                    You are joining this league using a $<span id="join-voucher-value"></span> cash-league voucher.
+                </div>
+                <br><br>
+                <a id="a-join-use-voucher-continue" href="javascript:void(0);"><img src="http://c1304512.cdn.cloudfiles.rackspacecloud.com/join-btn-continue.jpg" style="width: 160px; height: 50px;" alt="Continue"></a>
+                <a id="a-join-use-voucher-back" href="javascript:void(0);"><img src="http://c1304512.cdn.cloudfiles.rackspacecloud.com/join-btn-back.jpg" style="width: 160px; height: 50px;" alt="Go back"></a>
+            </div>
+            <div style="float: left; width: 210px;">
+                <div id="unused-vouchers-wrapper" style="margin: 6px auto 0px auto; width: 191px;">
+                    <div class="b c" style="padding-top: 8px; height: 20px; background-image: url('http://c1304512.cdn.cloudfiles.rackspacecloud.com/join-unused-vouchers-top.png'); color: #133A03; font-size: 9pt;">
+                        Your Remaining Vouchers
+                    </div>
+                    <div style="padding-top: 8px; background-image: url('http://c1304512.cdn.cloudfiles.rackspacecloud.com/join-unused-vouchers-bg.png');">
+                        <table style="margin: 0px auto;" id="tbl-unused-vouchers" class="unused-vouchers">
+                            <thead>
+                                <tr>
+                                    <td>Buy-in</td>
+                                    <td></td>
+                                    <td>Quantity</td>
+                                </tr>
+                            </thead>
+                            <tbody>
+                            </tbody>
+                        </table>
+                    </div>
+                    <div style="height: 9px; background-image: url('http://c1304512.cdn.cloudfiles.rackspacecloud.com/join-unused-vouchers-bottom.png');"></div>
+                </div>
+            </div>
+            <div class="clear"></div>
+        </div>
+        
+        <div id="league-panel-leave">
+            <a id="a-leave-unregister" href="javascript:void(0);"><img src="http://c1304512.cdn.cloudfiles.rackspacecloud.com/join-btn-unreg.png" style="width: 230px; height: 50px;" alt="Unregister from league"></a>
+            &nbsp;&nbsp;&nbsp;
+            <a id="a-leave-cancel" href="javascript:void(0);"><img src="http://c1304512.cdn.cloudfiles.rackspacecloud.com/join-btn-cancel.png" style="width: 170px; height: 50px;" alt="Cancel"></a>
+        </div>
+    </div>
+    
+    <div id="dialog-join-congrats">
+        <div id="congrats-top-close" class="r">
+           <a href="#" onclick="$.modal.close(); return false;"><img src="http://c1304512.cdn.cloudfiles.rackspacecloud.com/basic-dialog-close.png" style="width: 16px; height: 16px;" alt="Close"></a>
+        </div>
+        <div id="congrats-message" class="c" style="width: 100%;">Congratulations!  You have successfully joined this league:</div>
+        <div id="game-info-wrapper-congrats">
+            <table id="tbl-game-info-congrats">
+                <thead>
+                    <tr>
+                        <td style="border-left-style: none; min-width: 45px;">ID</td>
+                        <td>Sport</td>
+                        <td style="min-width: 74px;">Draft</td>
+                        <td style="min-width: 45px;">Fee</td>
+                        <td>Duration</td>
+                        <td>Format</td>
+                        <td>Players</td>
+                        <td>1st Game</td>
+                        <td style="border-right-style: none;">Prize Pool</td>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td id="td-join-game-id-congrats" style="border-left-style: none;"></td>
+                        <td id="td-join-sport-congrats"></td>
+                        <td id="td-join-draft-congrats" class="c"></td>
+                        <td id="td-join-entry-fee-congrats"></td>
+                        <td id="td-join-duration-congrats"></td>
+                        <td id="td-join-format-congrats"></td>
+                        <td id="td-join-players-congrats"></td>
+                        <td id="td-join-first-game-congrats"></td>
+                        <td id="td-join-prize-pool-congrats" style="border-right-style: none;"></td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div id="congrats-message-info"></div>
+        <div id="congrats-okbutton">
+            <a id="ok-button" href="javascript:void(0);"><img src="http://c1304512.cdn.cloudfiles.rackspacecloud.com/ok-button.jpg" style="width: 100px; height: 49px;" alt="OK"></a>
+        </div>
+        <div class="share"></div>
         <div class="clear"></div>
     </div>
     
-    <div id="financial" style="display:none;">
-        <div id="financial-header" class="step-header">Step 1 of 3</div>
-        <div id="financial-text" class="step-text">Select your deposit method below and<br>select "NEXT" to continue</div>
-        <div id="financial-text-note" class="step-text-note"></div>
-        <div id="financial-error-message"></div>
-        <div id="financial-success-text"></div>
-        <div id="financial-promocodemessage"></div>
-        <div id="financial-body">
-            <table cellpadding="0" id="financial-paymentchoice" cellspacing="0" border="0" class="financial-table financial-tablecc">
-                <tbody><tr>
-                    <td><img alt="paypal" id="paypal-logo" src="/images/payments/paypal-logo.jpg"></td>
-                    <td><img alt="echeck" id="echeck-logo" src="/images/payments/echeck-logo.jpg"></td>
-                    <td><img alt="visa" id="visa-logo" src="/images/payments/visa-logo.jpg"></td>
-                    <td><img alt="mastercard" id="mastercard-logo" src="/images/payments/mastercard-logo.jpg"></td>
-                    <td><img alt="amex" id="amex-logo" src="/images/payments/amex-logo.jpg"></td>
-                    <td><img alt="discover" id="discover-logo" src="/images/payments/discover-logo.jpg"></td>
-                </tr>
-                <tr>
-                    <td><input name="payment" value="paypal" id="rd-paypal" type="radio" checked="checked"></td>
-                    <td><input name="payment" value="echeck" id="rd-echeck" type="radio"></td>
-                    <td><input name="payment" value="visa" id="rd-visa" type="radio"></td>
-                    <td><input name="payment" value="mastercard" id="rd-mastercard" type="radio"></td>
-                    <td><input name="payment" value="amex" id="rd-amex" type="radio"></td>
-                    <td><input name="payment" value="discover" id="rd-disc" type="radio"></td>
-                </tr>
-                <tr>
-                    <td colspan="6">&nbsp;</td>
-                </tr>
-                <tr id="tr-deposit-promo-code">
-                    <td colspan="6">Promo code (optional) :&nbsp;&nbsp;<input class="payment-input" id="txtPromoCode" maxlength="20" size="25" type="text"></td>
-                </tr>
-            </tbody></table>
-            <div id="financial-payment-logo" class="aligncenter"></div>
-            <table cellpadding="0" cellspacing="0" width="100%" border="0">
-                <tbody><tr>
-                    <td>
-                        <table style="width:620px;" cellpadding="0" cellspacing="0" border="0" id="financial-cc-table" class="financial-table">
-                            <tbody><tr>
-                                <td>
-                                    <table cellpadding="0" cellspacing="0" border="0">
-                                        <tbody><tr>
-                                            <td align="right">Amount :&nbsp;</td>
-                                            <td><span style="position:absolute;margin-top:-8px;font-style:italic;font-weight:bold;font-size:28px;">$</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="margin-top:-3px;"><input style="" class="payment-input" maxlength="8" id="txtAmount" size="10" type="text"></span></td>
-                                        </tr>
-                                        <tr id="cc-name">
-                                            <td align="right">Name on card :&nbsp;</td>
-                                            <td><input class="payment-input" id="txtDepositNameOnCard" maxlength="200" size="30" type="text"></td>
-                                        </tr>
-                                        <tr id="cc-number">
-                                            <td align="right">Credit card number :&nbsp;</td>
-                                            <td><input class="payment-input" id="txtCreditCardNumber" maxlength="16" size="30" type="text"></td>
-                                        </tr>
-                                        <tr id="cc-expdate">
-                                            <td align="right">Expiration date (MM / YYYY) :&nbsp;</td>
-                                            <td><input class="payment-input" id="txtExpMonth" size="4" maxlength="2" type="text">&nbsp;/&nbsp;<input class="payment-input" maxlength="4" size="5" id="txtExpYear" type="text"></td>
-                                        </tr>
-                                        <tr id="cc-cvs">
-                                            <td align="right">CVV # :&nbsp;</td>
-                                            <td><input class="payment-input" id="txtCVS" size="4" maxlength="4" type="text"></td>
-                                        </tr>
-                                    </tbody></table>
-                                </td>
-                                <td id="cc-address">
-                                    <table cellpadding="0" cellspacing="0" border="0">
-                                        
-                                        <tbody><tr>
-                    <td align="right">Address :&nbsp;</td>
-                    <td><input class="payment-input" id="txtDepositAddress" maxlength="200" size="30" type="text"></td>
-                </tr>
-                <tr>
-                    <td align="right">City :&nbsp;</td>
-                    <td><input class="payment-input" id="txtDepositCity" maxlength="200" size="30" type="text"></td>
-                </tr>
-                <tr>
-                    <td align="right">State :&nbsp;</td>
-                    <td><select style="font-size:12px;" class="payment-input" name="txtDepositState" id="txtDepositState"> 
-	<option selected="selected" value=""></option> 
-	<option value="AK">AK</option> 
-	<option value="AL">AL</option> 
-	<option value="AR">AR</option> 
-	<option value="AZ">AZ</option> 
-	<option value="CA">CA</option> 
-	<option value="CO">CO</option> 
-	<option value="CT">CT</option> 
-	<option value="DC">DC</option> 
-	<option value="DE">DE</option> 
-	<option value="FL">FL</option> 
-	<option value="GA">GA</option> 
-	<option value="HI">HI</option> 
-	<option value="IA">IA</option> 
-	<option value="ID">ID</option> 
-	<option value="IL">IL</option> 
-	<option value="IN">IN</option> 
-	<option value="KS">KS</option> 
-	<option value="KY">KY</option> 
-	<option value="LA">LA</option> 
-	<option value="MA">MA</option> 
-	<option value="MD">MD</option> 
-	<option value="ME">ME</option> 
-	<option value="MI">MI</option> 
-	<option value="MN">MN</option> 
-	<option value="MO">MO</option> 
-	<option value="MS">MS</option> 
-	<option value="MT">MT</option> 
-	<option value="NC">NC</option> 
-	<option value="ND">ND</option> 
-	<option value="NE">NE</option> 
-	<option value="NH">NH</option> 
-	<option value="NJ">NJ</option> 
-	<option value="NM">NM</option> 
-	<option value="NV">NV</option> 
-	<option value="NY">NY</option> 
-	<option value="OH">OH</option> 
-	<option value="OK">OK</option> 
-	<option value="OR">OR</option> 
-	<option value="PA">PA</option> 
-	<option value="RI">RI</option> 
-	<option value="SC">SC</option> 
-	<option value="SD">SD</option> 
-	<option value="TN">TN</option> 
-	<option value="TX">TX</option> 
-	<option value="UT">UT</option> 
-	<option value="VA">VA</option> 
-	<option value="VT">VT</option> 
-	<option value="WA">WA</option> 
-	<option value="WI">WI</option> 
-	<option value="WV">WV</option> 
-	<option value="WY">WY</option> 
- 
-</select></td></tr>
-                <tr>
-                    <td align="right">Zip :&nbsp;</td>
-                    <td><input class="payment-input" id="txtDepositZip" maxlength="5" size="4" type="text"></td>
-                </tr>
-                <tr style="visibility:hidden;">
-                    <td align="right">Home Phone :&nbsp;</td>
-                    <td><input class="payment-input" id="txtDepositHomePhone1" maxlength="3" size="2" type="text">&nbsp;-&nbsp;<input class="payment-input" id="txtDepositHomePhone2" maxlength="3" size="2" type="text">&nbsp;-&nbsp;<input class="payment-input" id="txtDepositHomePhone3" maxlength="4" size="3" type="text"></td>
-                </tr>
-                                    </tbody></table>
-                                </td>
-                            </tr>
-                            
-                        </tbody></table>
-                    </td>
-                    
-                </tr>
-            </tbody></table>
-            
-        </div>
-        <div class="step-buttons" id="buttonbar">
-            <a href="javascript:void(0);" id="button-next-step"><img id="button-next" src="/images/button-next.png"></a>
-            <a href="javascript:void(0);" class="button-cancel"><img src="/images/join-btn-cancel.png"></a>
-       </div>
-       <div id="processinggif"><img src="/images/processing.gif"></div>
-       <div id="closebutton"><a href="javascript:void(0);" id="close-button"><img src="/images/button-close.png"></a></div>
-       
-    </div>
-    
-    <div id="financial-withdraw" style="display:none;">
-        <div id="financial-withdraw-header" class="step-header">Step 1 of 2</div>
-        <div id="financial-withdraw-text" class="step-text">Select your withdraw method and enter your amount<br>below and select "NEXT" to continue</div>
-        <div id="financial-withdraw-text-note" class="step-text-note"></div>
-        <div id="financial-withdraw-error-message"></div>
-        <div id="financial-withdraw-success-text"></div>
-        <div id="financial-withdraw-body">
-            <table cellpadding="0" cellspacing="0" border="0" id="withdraw-table-amount">
-                <tbody><tr>
-                    <td width="320" align="right">Amount :&nbsp;</td>
-                    <td align="left"><span style="position:absolute;margin-top:-8px;font-style:italic;font-weight:bold;font-size:28px;">$</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input class="payment-input" id="txtWithdrawAmount" maxlength="5" size="5" type="text"></td>
-                </tr>
-                <tr>
-                    <td colspan="2"></td>
-                </tr>
-            </tbody></table>
-            <table cellpadding="0" id="financial-withdraw-paymentchoice" cellspacing="0" border="0">
-                <tbody><tr>
-                    <td align="center"><img alt="paypal" id="w-paypal-logo" src="/images/payments/paypal-logo.jpg"></td>
-                    <td align="center"><img alt="echeck" id="check-logo" src="/images/payments/check-logo.jpg"></td>
-                </tr>
-                <tr>
-                    <td align="center"><input name="rdwithdraw" id="w-paypal" value="paypal" type="radio"></td>
-                    <td align="center"><input name="rdwithdraw" id="w-check" value="check" type="radio"></td>
-                </tr>
-            </tbody></table>
-            <table cellpadding="0" cellspacing="0" border="0" id="financial-withdraw-paypal-table" class="w-financial-table">
-                <tbody><tr id="paypal-account">
-                    <td width="295" align="right">Paypal Account Email :&nbsp;</td>
-                    <td><input class="payment-input" id="txtPayPalAccount" maxlength="200" size="30" type="text"></td>
-                </tr>
-            </tbody></table>
-            <table cellpadding="0" cellspacing="0" border="0" id="financial-withdraw-cheque-table" style="margin-left:93px" class="w-financial-table">
-                <tbody><tr>
-                    <td align="right">Address :&nbsp;</td>
-                    <td><input class="payment-input" id="txtAddress" maxlength="200" size="30" type="text"></td>
-                </tr>
-                <tr>
-                    <td align="right">City :&nbsp;</td>
-                    <td><input class="payment-input" id="txtCity" maxlength="200" size="30" type="text"></td>
-                </tr>
-                <tr>
-                    <td align="right">State :&nbsp;</td>
-                    <td><select style="font-size:12px;" class="payment-input" name="txtState" id="txtState"> 
-	<option selected="selected" value=""></option> 
-	<option value="AK">AK</option> 
-	<option value="AL">AL</option> 
-	<option value="AR">AR</option> 
-	<option value="AZ">AZ</option> 
-	<option value="CA">CA</option> 
-	<option value="CO">CO</option> 
-	<option value="CT">CT</option> 
-	<option value="DC">DC</option> 
-	<option value="DE">DE</option> 
-	<option value="FL">FL</option> 
-	<option value="GA">GA</option> 
-	<option value="HI">HI</option> 
-	<option value="IA">IA</option> 
-	<option value="ID">ID</option> 
-	<option value="IL">IL</option> 
-	<option value="IN">IN</option> 
-	<option value="KS">KS</option> 
-	<option value="KY">KY</option> 
-	<option value="LA">LA</option> 
-	<option value="MA">MA</option> 
-	<option value="MD">MD</option> 
-	<option value="ME">ME</option> 
-	<option value="MI">MI</option> 
-	<option value="MN">MN</option> 
-	<option value="MO">MO</option> 
-	<option value="MS">MS</option> 
-	<option value="MT">MT</option> 
-	<option value="NC">NC</option> 
-	<option value="ND">ND</option> 
-	<option value="NE">NE</option> 
-	<option value="NH">NH</option> 
-	<option value="NJ">NJ</option> 
-	<option value="NM">NM</option> 
-	<option value="NV">NV</option> 
-	<option value="NY">NY</option> 
-	<option value="OH">OH</option> 
-	<option value="OK">OK</option> 
-	<option value="OR">OR</option> 
-	<option value="PA">PA</option> 
-	<option value="RI">RI</option> 
-	<option value="SC">SC</option> 
-	<option value="SD">SD</option> 
-	<option value="TN">TN</option> 
-	<option value="TX">TX</option> 
-	<option value="UT">UT</option> 
-	<option value="VA">VA</option> 
-	<option value="VT">VT</option> 
-	<option value="WA">WA</option> 
-	<option value="WI">WI</option> 
-	<option value="WV">WV</option> 
-	<option value="WY">WY</option> 
- 
-</select></td></tr>
-                <tr>
-                    <td align="right">Zip :&nbsp;</td>
-                    <td><input class="payment-input" id="txtZip" maxlength="5" size="4" type="text"></td>
-                </tr>
-                <tr>
-                    <td align="right">Home Phone :&nbsp;</td>
-                    <td><input class="payment-input" id="txtHomePhone1" maxlength="3" size="2" type="text">&nbsp;-&nbsp;<input class="payment-input" id="txtHomePhone2" maxlength="3" size="2" type="text">&nbsp;-&nbsp;<input class="payment-input" id="txtHomePhone3" maxlength="4" size="3" type="text"></td>
-                </tr>
-                
-            </tbody></table>
-            <table cellpadding="0" cellspacing="0" border="0" id="financial-withdraw-password-table" class="w-financial-table-pass">
-                <tbody><tr>
-                    <td align="right">Draftstreet password :&nbsp;</td>
-                    <td align="left"><input class="payment-input" id="txtWithdrawPassword" maxlength="20" size="20" type="password"></td>
-                </tr>
-            </tbody></table>
-        </div>
-        <div class="step-buttons" id="withdraw-buttonbar">
-            <a href="javascript:void(0);" id="witdraw-button-next-step"><img id="witdraw-button-next" src="/images/button-next.png"></a>
-            <a href="javascript:void(0);" class="button-cancel"><img src="/images/join-btn-cancel.png"></a>
-       </div>
-       <div id="withdraw-processinggif"><img src="/images//processing.gif"></div>
-       <div id="withdraw-closebutton"><a href="javascript:void(0);" id="withdraw-close-button"><img src="/images/button-close.png"></a></div>
-    </div>
-    
-    <div id="bottomWrapper">
-    	<div class="footer">
-    	    <div style="float: left; width: 150px; height: 60px;">
-    	        <img src="/images/footer-ds.jpg" style="width: 150px; height: 60px; margin: 0px; padding: 0px;" alt="DraftStreet">
-    	    </div>
-    	    <div style="float: left; width: 678px; padding: 8px 0px 0px 0px;">
-	            <a href="default.aspx">Home</a>  |  <a href="aboutus.aspx">About Us</a><span id="bottommydraftstreet">  |  <a href="mydraftstreet.aspx">My Draftstreet</a></span><span id="bottomforgotpassword"> |  <a href="ForgotPassword.aspx">Forgot Password</a></span>  |  <a href="FAQ.aspx">FAQ</a>  |  <a href="ContactUs.aspx">Contact Us</a>  |  <a href="Terms.aspx">Terms &amp; Conditions</a>  |  <a href="Privacy.aspx">Privacy Policy</a><span id="bottom-logout"> | 
-                <a id="bottom-logout-link" href="javascript:void(0);">Log out</a></span>
-                <br>
-                Copyright © 2010 DraftStreet™.  All Rights Reserved.
-            </div>
-    	    <div style="float: left; width: 150px; height: 60px;">
-    	        <a href="http://www.netspheresolutions.com/" target="_blank" style="padding: 0px;"><img src="/images/footer-nss.jpg" style="width: 150px; height: 60px;" alt="Developed by NetSphere Solutions"></a>
-    	    </div>
-    	    <div class="clear"></div>
-	    </div>
-	    <div class="footer_logos"></div>
-	</div>
-    	<div id="pixelfire"></div>
+    <div id="pixelfire"></div>	
     
 
 <script type="text/javascript">
@@ -1612,6 +877,31 @@ Sys.Application.initialize();
 </form>
 
     <div id="feedback"></div>
+    <div id="paypalform" style="visibility:hidden;">
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<input type="hidden" name="cmd" value="_xclick">
+<input type="hidden" name="business" value="VKP3DFK6MXPYL">
+<input type="hidden" name="lc" value="US">
+<input type="hidden" name="item_name" value="DraftStreet Deposit">
+<input type="hidden" name="amount" id="paypalamount" value="0">
+<input type="hidden" name="button_subtype" value="services">
+<input type="hidden" name="no_note" value="1">
+<input type="hidden" name="no_shipping" value="1">
+<input type="hidden" name="custom" id="paypalorder" value="0">
+<input type="hidden" name="rm" value="1">
+<input type="hidden" name="cbt" value="Return to Draftstreet.com">
+<input type="hidden" name="cpp_header_image" value="http://c1304512.cdn.cloudfiles.rackspacecloud.com/ds-main-logo.png">
+<input type="hidden" name="return" value="https://clp.draftstreet.com/cashier.aspx">
+<input type="hidden" name="cancel_return" value="http://clp.draftstreet.com">
+<input type="hidden" name="currency_code" value="USD">
+<input type="hidden" name="tax_rate" value="0.000">
+<input type="hidden" name="shipping" value="0.00">
+<input type="hidden" name="return" value="http://clp.draftstreet.com/cashier.aspx">
+<input type="hidden" name="cancel_return" value="http://clp.draftstreet.com">
+<input type="hidden" name="bn" value="PP-BuyNowBF:btn_paynow_SM.gif:NonHostedGuest">
+<input type="image" id="paypalsubmit" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_SM.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form></div>
 
 <!-- GA -->
 <script type="text/javascript">
@@ -1624,4 +914,4 @@ var pageTracker = _gat._getTracker("UA-12346082-1");
 pageTracker._setDomainName(".draftstreet.com");
 pageTracker._trackPageview();
 } catch(err) {}</script>
-</body></html>
+<div id="sm2-container" class="movieContainer " style="position: absolute; width: 6px; height: 6px; top: -9999px; left: -9999px;"><embed name="sm2movie" id="sm2movie" src="./soundmanager2.swf" width="100%" height="100%" quality="high" allowscriptaccess="always" bgcolor="#ffffff" pluginspage="https://web.archive.org/web/20120428173239/http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" allowfullscreen="false"></div></body></html>
