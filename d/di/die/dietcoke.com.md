@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dietcoke.com privacy policy that was archived on 2010-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101208133854id_/http%3A//www.dietcoke.com/privacy-policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dietcoke.com privacy policy that was archived on 2011-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110602065408id_/http%3A//www.dietcoke.com/privacy-policy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy | Diet Coke
 
