@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bristol.ac.uk privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120235252id_/http%3A//www.bristol.ac.uk/university/web/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bristol.ac.uk privacy policy that was archived on 2011-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110602191907id_/http%3A//bristol.ac.uk/university/web/privacy-policy.html) for the most accurate reproduction.*
 
 # Bristol University | The University | Privacy and Cookie Policy
 
