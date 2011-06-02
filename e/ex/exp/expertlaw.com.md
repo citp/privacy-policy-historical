@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the expertlaw.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225232749id_/http%3A//www.expertlaw.com/terms.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expertlaw.com privacy policy that was archived on 2011-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110602040527id_/http%3A//www.expertlaw.com/terms.html) for the most accurate reproduction.*
 
 # ExpertLaw - Terms of Use and Privacy Policy - Expert Witness, Expert Witnesses.
 
@@ -46,11 +46,11 @@ The forum system uses cookies to store information on your local computer. These
 
 All users agree to any information they enter on this site, whether for registration as an expert, registration and use of the forums, or for any other purpose, being stored in a database. Except as required by law this information will not be disclosed to any third party without your consent; however you agree that the webmaster, administrator and moderators cannot be held responsible for any hacking attempt that may lead to the data being compromised. Examples of when disclosure may be required by law include response to a subpoena or search warrant. 
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/).
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](https://www.networkadvertising.org/).
 
   * Google, as a third party vendor, uses cookies to serve ads on your site. 
   * Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. 
-  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](https://www.google.com/privacy_ads.html).
 
 
 
