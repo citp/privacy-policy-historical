@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sexpillguru.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231143309id_/http%3A//sexpillguru.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sexpillguru.com privacy policy that was archived on 2011-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110602034903id_/http%3A//www.sexpillguru.com/Privacy.html) for the most accurate reproduction.*
 
 # Sex Pill Insider - About
 
