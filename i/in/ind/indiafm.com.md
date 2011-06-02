@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiafm.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224092309id_/http%3A//www.bollywoodhungama.com/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiafm.com privacy policy that was archived on 2011-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110602150955id_/http%3A//www.bollywoodhungama.com/privacy/index.html) for the most accurate reproduction.*
 
 # Bollywood Online on IndiaFM : India's premier Bollywood portal
 
