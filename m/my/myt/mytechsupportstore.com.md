@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mytechsupportstore.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224002541id_/http%3A//www.mytechsupportstore.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mytechsupportstore.com privacy policy that was archived on 2011-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110602162902id_/http%3A//www.mytechsupportstore.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Mytechsupportstore.com
 
