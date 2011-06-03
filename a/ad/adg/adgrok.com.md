@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the adgrok.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212022527id_/http%3A//adgrok.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adgrok.com privacy policy that was archived on 2011-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110603093101id_/http%3A//adgrok.com/privacy-policy) for the most accurate reproduction.*
 
-# AdGrok | Privacy Policy
+# Privacy Policy | AdGrok
 
 When accessing our Website, Electron Mine Inc. will learn certain information about you during your visit. How we will handle information we learn about you depends upon what you do when visiting our site.
 
