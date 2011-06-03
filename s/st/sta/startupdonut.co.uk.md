@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the startupdonut.co.uk privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203201655id_/http%3A//www.startupdonut.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startupdonut.co.uk privacy policy that was archived on 2011-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110603193652id_/http%3A//www.startupdonut.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Start Up Donut
 
