@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webhosting.uk.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125100332id_/http%3A//www.webhosting.uk.com/web-hosting-uk-privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webhosting.uk.com privacy policy that was archived on 2011-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110603161912id_/http%3A//www.webhosting.uk.com/web-hosting-uk-privacy.php) for the most accurate reproduction.*
 
 # Web Hosting UK - Privacy Policy - Data Security - Dedicated Server - VPS Hosting
 
@@ -10,7 +10,7 @@
 
 3\. We also use web cookies. These cookies are parcels of text sent by a server to a web browser and then sent back unchanged by the browser each time it accesses that server. These are also used for authenticating, tracking, and maintaining specific information about users, such as site preferences, browser preferences & general web browsing behaviour. These also help us to identify you as our customer. However if you change your browser settings, these would be of no use at all. 
 
-**Data Safegurading**
+**Data Safeguarding**
 
 1\. We do not provide the information collected from our customers to any external source under any circumstances. However, being a reputed hosting company servicing thousands of clients, WebHosting UK has some social responsibilities also to take care of. As & when a government authorized law-keeping agency or a goverment department approaches us to seek information about a client, we have to lend our help. It is our responsibility as a law abiding company. 
 
