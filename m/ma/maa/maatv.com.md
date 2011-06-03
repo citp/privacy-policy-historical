@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maatv.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220131434id_/http%3A//maatv.com/PrivacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maatv.com privacy policy that was archived on 2011-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110603044720id_/http%3A//maatv.com/PrivacyPolicy.php) for the most accurate reproduction.*
 
 # Maa TV | Leading Telugu Entertainment Channel
 
