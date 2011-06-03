@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the outreach.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203055509id_/http%3A//www.outreach.com/print/articlef.asp%3Farticle_name%3Da-privacypolicy%26N%3D41) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outreach.com privacy policy that was archived on 2011-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110603201605id_/http%3A//www.outreach.com/print/articlef.asp%3Farticle_name%3Da-privacypolicy%26N%3D41) for the most accurate reproduction.*
 
 # Outreach: Church communication and marketing tools
 
