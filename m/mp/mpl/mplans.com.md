@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mplans.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122110815id_/http%3A//www.mplans.com/cm/ps.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mplans.com privacy policy that was archived on 2011-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110603182536id_/http%3A//www.mplans.com/cm/ps.php) for the most accurate reproduction.*
 
-# Marketing Plan Software and Sample Marketing Plans - Mplans.com
+# Sales and Marketing Software and Sample Marketing Plans - Mplans.com
 
  [Home](https://web.archive.org/index.php) > Privacy Policy
 
