@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xmediapartners.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204072319id_/http%3A//www.xmediapartners.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xmediapartners.com privacy policy that was archived on 2011-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110603202550id_/http%3A//www.xmediapartners.com/privacy.php) for the most accurate reproduction.*
 
 # - :: Xmedia Partners
 
@@ -18,7 +18,7 @@ With respect to cookies: We do not set any cookies.
 
 If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address.
 
-With respect to Ad Servers: We attempt to display offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of: Google Adsense at http://www.google.com/privacy_ads.html
+With respect to Ad Servers: We attempt to display offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of: Google Adsense at http://www.google.com/privacy_ads.html 
 
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will contact you before we use your data for these new purposes to notify you of the policy change and to provide you with the ability to opt out of these new uses, we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically.
 
