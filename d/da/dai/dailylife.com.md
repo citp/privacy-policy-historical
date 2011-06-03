@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailylife.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221160027id_/http%3A//www.dailylife.com/page/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailylife.com privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604014337id_/http%3A//www.dailylife.com/page/privacy.html) for the most accurate reproduction.*
 
 # DailyLife.com | Privacy Policy
 
@@ -56,6 +56,8 @@ We do not collect any information from anyone under the age of 13, in compliance
 **Consent**
 
 You consent to our privacy policy by using our website.
+
+**Unsubscribe** : If at any time you wish to unsusbcribe from all direct communications from Daily Life, [please click here](http://dailylife.com/unsubscribe/) At the bottom of all e-mail newsletters, you will have the option to unsubscribe from the mailing list. This link will be located at the bottom of the page. 
 
 **Privacy Policy Changes**
 
