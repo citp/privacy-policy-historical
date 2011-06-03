@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netlibrary.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221083910id_/http%3A//netlibrary.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netlibrary.com privacy policy that was archived on 2011-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110603093941id_/http%3A//www.netlibrary.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # NetLibrary - Privacy Policy
 
