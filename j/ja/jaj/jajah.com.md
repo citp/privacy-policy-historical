@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jajah.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216011836id_/http%3A//www.jajah.com/policy/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jajah.com privacy policy that was archived on 2011-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110603121126id_/http%3A//www.jajah.com/policy/privacy) for the most accurate reproduction.*
 
 # JAJAH IP Telephony Platform / Low-Cost International Calls
 
