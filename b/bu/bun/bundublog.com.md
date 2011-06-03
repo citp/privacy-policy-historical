@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bundublog.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212224211id_/http%3A//bundublog.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bundublog.com privacy policy that was archived on 2011-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110603213907id_/http%3A//bundublog.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | bundublog.com - Free Blog
 
