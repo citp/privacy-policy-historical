@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the egreetings.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220224732id_/http%3A//www1.egreetings.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the egreetings.com privacy policy that was archived on 2011-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110603071703id_/http%3A//www.egreetings.com/privacy-policy) for the most accurate reproduction.*
 
 # www.egreetings.com
 
@@ -45,7 +45,7 @@ From time to time, we may use cookies to track your exposure to certain areas of
 
 We collect and analyze traffic on our web site by keeping track of the IP addresses of our visitors. IP addresses are unique numeric identifiers that are assigned to each computer browser accessing the Internet. An IP address, by itself, cannot identify you personally. However, when combined with other information provided by your Internet Service Provider (ISP), your IP address can be used to identify the computer originating a message. 
 
-Egreetings.com INCLUDES THE SENDER IP ADDRESS IN THE HEADER INFORMATION OF EACH ECARD NOTIFICATION E-MAIL IT SENDS. IT IS AVAILABLE TO THE ECARD RECIPIENT AND ANYONE ELSE WHO IS FORWARDED THE NOTIFICATION E-MAIL. THIS LIMITS YOUR ABILITY TO COMMUNICATE ANONYMOUSLY USING ELECTRONIC ECARDS. ELECTRONIC ECARDS ARE NEITHER INTENDED NOR APPROPRIATE FOR ANONYMOUS COMMUNICATIONS, AND SUCH ACTIVITY IS EXPRESSLY PROHIBITED BY THE ACCEPTABLE USE POLICY IN OUR [TERMS OF SERVICE](http://www.egreetings.com/legal). 
+Egreetings.com INCLUDES THE SENDER IP ADDRESS IN THE HEADER INFORMATION OF EACH ECARD NOTIFICATION E-MAIL IT SENDS. IT IS AVAILABLE TO THE ECARD RECIPIENT AND ANYONE ELSE WHO IS FORWARDED THE NOTIFICATION E-MAIL. THIS LIMITS YOUR ABILITY TO COMMUNICATE ANONYMOUSLY USING ELECTRONIC ECARDS. ELECTRONIC ECARDS ARE NEITHER INTENDED NOR APPROPRIATE FOR ANONYMOUS COMMUNICATIONS, AND SUCH ACTIVITY IS EXPRESSLY PROHIBITED BY THE ACCEPTABLE USE POLICY IN OUR [TERMS OF SERVICE](http://www1.egreetings.com/legal). 
 
 **When You Send An eCard**
 
@@ -89,7 +89,7 @@ This program is conducted strictly on an opt-in basis. In order to receive the o
 
 **Mandatory Communications**
 
-Egreetings.com reserves the right to communicate with you from time to time about important administrative, policy, legal, credit card, and billing matters, which will affect your use of our web sites, including without limitation any alleged violations of our [Terms of Service](http://www.egreetings.com/legal). These communications are mandatory. 
+Egreetings.com reserves the right to communicate with you from time to time about important administrative, policy, legal, credit card, and billing matters, which will affect your use of our web sites, including without limitation any alleged violations of our [Terms of Service](http://www1.egreetings.com/legal). These communications are mandatory. 
 
 **Information Gathered From Members**
 
