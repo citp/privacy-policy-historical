@@ -1,294 +1,542 @@
-<!--The following is the downloaded HTML source of the pinchingyourpennies.com privacy policy that was archived on 2008-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080630213830id_/http%3A//pinchingyourpennies.com/privacy.htm) for the most accurate reproduction.-->
-
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html dir="ltr"><head>
-
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-
-<meta http-equiv="Content-Style-Type" content="text/css">
-
-<link rel="search" href="./search.php" title="Search">
-
-<link rel="help" href="./faq.php" title="FAQ">
-
-<link rel="author" href="./memberlist.php" title="Memberlist">
-
-<title>Pinching Your Pennies</title>
-
-
-
-<script language="JavaScript">
-<!--
-
-
-<!--
-
-function MM_reloadPage(init) {  //reloads the window if Nav4 resized
-
-  if (init==true) with (navigator) {if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
-
-    document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage; }}
-
-  else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload();
-
-}
-
-
-
-MM_reloadPage(true);
-
-// -->
-
-function MM_nbGroup(event, grpName) { //v3.0
-
-  var i,img,nbArr,args=MM_nbGroup.arguments;
-
-  if (event == "init" && args.length > 2) {
-
-    if ((img = MM_findObj(args[2])) != null && !img.MM_init) {
-
-      img.MM_init = true; img.MM_up = args[3]; img.MM_dn = img.src;
-
-      if ((nbArr = document[grpName]) == null) nbArr = document[grpName] = new Array();
-
-      nbArr[nbArr.length] = img;
-
-      for (i=4; i < args.length-1; i+=2) if ((img = MM_findObj(args[i])) != null) {
-
-        if (!img.MM_up) img.MM_up = img.src;
-
-        img.src = img.MM_dn = args[i+1];
-
-        nbArr[nbArr.length] = img;
-
-    } }
-
-
-
-  } else if (event == "over") {
-
-    document.MM_nbOver = nbArr = new Array();
-
-    for (i=1; i < args.length-1; i+=3) if ((img = MM_findObj(args[i])) != null) {
-
-      if (!img.MM_up) img.MM_up = img.src;
-
-      img.src = (img.MM_dn && args[i+2]) ? args[i+2] : args[i+1];
-
-      nbArr[nbArr.length] = img;
-
-    }
-
-  } else if (event == "out" ) {
-
-    for (i=0; i < document.MM_nbOver.length; i++) {
-
-      img = document.MM_nbOver[i]; img.src = (img.MM_dn) ? img.MM_dn : img.MM_up; }
-
-  } else if (event == "down") {
-
-    if ((nbArr = document[grpName]) != null)
-
-      for (i=0; i < nbArr.length; i++) { img=nbArr[i]; img.src = img.MM_up; img.MM_dn = 0; }
-
-    document[grpName] = nbArr = new Array();
-
-    for (i=2; i < args.length-1; i+=2) if ((img = MM_findObj(args[i])) != null) {
-
-      if (!img.MM_up) img.MM_up = img.src;
-
-      img.src = img.MM_dn = args[i+1];
-
-      nbArr[nbArr.length] = img;
-
-  } }
-
-}
-
-function MM_jumpMenu(targ,selObj,restore){ //v3.0
-
-  eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
-
-  if (restore) selObj.selectedIndex=0;
-
-}
-
-
-
-function MM_swapImgRestore() { //v3.0
-
-  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
-
-}
-
-
-
-function MM_preloadImages() { //v3.0
-
-  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
-
-    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
-
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-
-}
-
-
-
-function MM_findObj(n, d) { //v4.01
-
-  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
-
-    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
-
-  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
-
-  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
-
-  if(!x && d.getElementById) x=d.getElementById(n); return x;
-
-}
-
-
-
-function MM_swapImage() { //v3.0
-
-  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
-
-   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
-
-}
-//-->
+<!--The following is the downloaded HTML source of the pinchingyourpennies.com privacy policy that was archived on 2011-06-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110603184020id_/http%3A//www.pinchingyourpennies.com/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html dir="ltr" lang="en-US"><head>
+<meta charset="UTF-8">
+<title>Privacy Policy | Pinching Your Pennies</title>
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="shortcut icon" href="favicon.ico">
+<link rel="stylesheet" type="text/css" media="all" href="http://www.pinchingyourpennies.com/wp-content/themes/pyp/style.css">
+<link rel="pingback" href="http://www.pinchingyourpennies.com/xmlrpc.php">
+<script type="text/javascript" src="http://www.pinchingyourpennies.com/wp-content/themes/pyp/js/jquery.easing.1.2.js"></script>
+<script type="text/javascript" src="http://www.pinchingyourpennies.com/wp-content/themes/pyp/js/jquery.jcarousel.js"></script>
+
+<link href="http://www.pinchingyourpennies.com/wp-content/themes/pyp/css/skin.css" type="text/css" rel="stylesheet">
+
+<script type="text/javascript">
+	$(document).ready(function() {
+		if(/category/.test(window.location))
+			$("#content").css('margin','0 0 0 5px').css('width','688px');
+		$("#menu-header-navigation li a").each(function() {
+			$(this).addClass("iepngfix");
+		});
+		
+        $("#StateSelect").change(function() {
+        	$("#SearchState").attr('href',$(this).attr('value'));
+        });
+        $("#header-navigation-widget-area ul li a").each(function() {
+        	$(this).addClass("iepngfix");
+        });
+		
+		$("#slider-widget-area .widget_categoryposts ul").jcarousel({
+			vertical: false,
+			start: 1,
+			scroll: 2,
+			visible: 2,
+			animation: "fast",
+			wrap: 'circular',
+			auto: 5,
+			itemFallbackDimension: 315
+		});
+		
+	});
 </script>
 
+<!--[if IE]>
 <style type="text/css">
-
-<!--
-
-;
-
-Color: ;
-
-font-weight: bold;
-
-}
-
-.style9 {font-weight: bold}
-
-.style15 {color: #000000}
-
-a:link {
-
-	color: #D1C079;
-
-}
-
-a:visited {
-
-	color: #D1C079;
-
-}
-
-a:hover {
-
-	color: #85704D;
-
-}
-
-.style19 {color: #85704D}
-
-.style33 {color: #FFFFFF; font-size: 24px; }
-
-.style34 {
-
-	font-size: 24px;
-
-	color: #85704D;
-
-}
-
-.style36 {font-size: 18px}
-
-.style37 {color: #FFFFFF; font-size: 18px; }
-a {
-	font-weight: bold;
-}
-
--->
-
+	.form-text {width: 170px;margin-right: 5px;height: 22px;}
+	.tw-content ul li {display: inline;}
+	#tab-link-3-1 {margin-left: 0px !important;}
 </style>
+<![endif]-->
 
+<!--[if IE 8]>
+<style type="text/css">
+.FilterSubmit {top: -3px;}
+</style>
+<![endif]-->
+<!--[if lte IE 7]>
+<style type="text/css">
+	.FilterSubmit {height: 22px !important;top: -4px;line-height: 20px !important;}
+	a.MoreArchive {padding-left: 0 !important;margin-top: 5px;}
+	#SearchState {position: relative;top: -3px;padding: 3px;}
+	#first .xoxo, #fourth .xoxo {position: relative;top: -15px;}
+	.form-text {width: 165px;}
+    #logo-widget-area .textwidget {margin: 0 !important;position: relative;top: -25px;}
+	#site-title {height: 120px;overflow: hidden;}
+    #access a {font-size: 12px;}
+    div.ui-corner-all {width: 288px;overflow: hidden;}
+	#menu-header-navigation, #menu-header-navigation li {padding-top: 2px;}
+	.SidePurpleTop, .SideGreenTop {margin-bottom: -1px;}
+	.tw-tabs {position: relative;}
+	.tw-tabbed-nav {position: relative;left: -12px;background-position: 17px 25px !important;}
+	.tw-tabbed-nav li a, .tw-tabbed-nav li {margin-right: 10px !important;width: 83px;}
+	#tab-link-3-1 {margin-left: 5px !important;margin-right: 7px !important;}
+	#tab-link-3-2 a {position: relative;left: -9px;}
+</style>
+<![endif]-->
+<link rel="alternate" type="application/rss+xml" title="Pinching Your Pennies » Feed" href="http://www.pinchingyourpennies.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="Pinching Your Pennies » Comments Feed" href="http://www.pinchingyourpennies.com/comments/feed/">
+<link rel="stylesheet" id="tabbed-widgets-css" href="http://www.pinchingyourpennies.com/wp-content/plugins/tabbed-widgets/css/tabbed-widgets.css?ver=3.0.5" type="text/css" media="all">
+<script type="text/javascript" src="http://www.pinchingyourpennies.com/wp-includes/js/jquery/jquery.js?ver=1.4.2"></script>
+<script type="text/javascript" src="http://www.pinchingyourpennies.com/wp-includes/js/comment-reply.js?ver=20090102"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.pinchingyourpennies.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.pinchingyourpennies.com/wp-includes/wlwmanifest.xml"> 
+<link rel="index" title="Pinching Your Pennies" href="http://www.pinchingyourpennies.com/">
+<link rel="prev" title="Disclosure" href="http://www.pinchingyourpennies.com/disclosure/">
+<link rel="next" title="Archive" href="http://www.pinchingyourpennies.com/archive/">
+<meta name="generator" content="WordPress 3.0.5">
+<link rel="canonical" href="http://www.pinchingyourpennies.com/privacy-policy/">
+
+<!-- Start Of Script Generated By cforms v11.7.3 [Oliver Seidel | www.deliciousdays.com] -->
+<link rel="stylesheet" type="text/css" href="http://www.pinchingyourpennies.com/wp-content/plugins/cforms/styling/minimal.css">
+<script type="text/javascript" src="http://www.pinchingyourpennies.com/wp-content/plugins/cforms/js/cforms.js"></script>
+<!-- End Of Script Generated By cforms -->
+
+
+
+<!-- Begin - HITS-IE6 PNGFix -->
+<!-- IE6 has not been detected as the users browser version by the server -->
+<!--  End  - HITS-IE6 PNGFix -->
+
+<style type="text/css">div.simplesocial,a.simplesocial{float:left;display:block}a.simplesocial{margin-right:5px;width:16px;height:16px}a.simplesocial:hover{margin-top:-2px}</style>
+<script language="javascript">function simplesocial(t,w,h){
+window.open(t.href, 'simplesocial', 'scrollbars=1,menubar=0,width='+w+',height='+h+',resizable=1,toolbar=0,location=0,status=0,left='+(screen.width-w)/2+',top='+(screen.height-h)/3);
+return false;}</script>
 </head>
-<body><table width="100%" border="3" cellpadding="4" cellspacing="0" bordercolor="#85704D">
 
-  <tbody><tr bordercolor="CCBFAF" bgcolor="CCBFAF">
+<body class="page page-id-299 page-template page-template-default">
+    <div id="header">
 
-    <td height="35" colspan="4" align="left" valign="middle" class="style15"><img src="http://www.pinchingyourpennies.com/graphics/header.jpg" hspace="8" vspace="8" border="0">   
+		<div id="masthead">
+			<div id="branding" role="banner">
+				<div id="site-title">
+					
 
-  </td></tr>
+				<div id="logo-widget-area" class="widget-area">
+					<ul class="xoxo">
+						<li id="text-10" class="widget-container widget_text"><h3 class="widget-title">Pinching Your Pennies Logo</h3>			<div class="textwidget"><a href="/"><img src="http://www.pinchingyourpennies.com/wp-content/uploads/2011/02/pypweblogo.png" alt="Pinching Your Pennies" class="iepngfix"></a></div>
+		</li>					</ul>
+				</div><!-- #logo .widget-area -->
+				</div>
+				<div id="site-description">
+					<div id="HeaderNavWrapper">
+						<div id="LeftHeaderNav" class="iepngfix FL">
+							&nbsp;
+						</div>
+						<div id="MidHeaderNav" class="FL iepngfix">
+							
 
-  
+			<div id="header-navigation-widget-area" role="complementary">
 
-  <tr bordercolor="#85704D" bgcolor="CCBFAF">
+				<div id="header-navigation" class="widget-area">
+					<ul class="xoxo">
+						<li id="nav_menu-3" class="widget-container widget_nav_menu"><h3 class="widget-title">Header Navigation</h3><div class="menu-header-navigation-container"><ul id="menu-header-navigation" class="menu"><li id="menu-item-16160" class="Home menu-item menu-item-type-post_type menu-item-16160"><a href="http://www.pinchingyourpennies.com/">Home</a></li>
+<li id="menu-item-16161" class="Contact menu-item menu-item-type-post_type menu-item-16161"><a href="http://www.pinchingyourpennies.com/contact/">Contact</a></li>
+<li id="menu-item-16163" class="Register menu-item menu-item-type-post_type menu-item-16163"><a href="http://www.pinchingyourpennies.com/register/">Register</a></li>
+<li id="menu-item-16162" class="Login menu-item menu-item-type-post_type menu-item-16162"><a href="http://www.pinchingyourpennies.com/login/">Login</a></li>
+</ul></div></li>					</ul>
+				</div><!-- #header-navigation .widget-area -->
 
-    <td height="25" colspan="3" align="left" valign="top" bordercolor="#85704D" bgcolor="#FFFFFF" class="style15"><table width="100%" border="3" cellpadding="0" cellspacing="0" bordercolor="#85704D">
+			</div><!-- #header-navigation-widget-area -->
+						</div>
+						<div id="RightHeaderNav" class="iepngfix FL">
+							&nbsp;
+						</div>
+						<div class="clear_float">&nbsp;</div>
+					</div>
+					<div class="HeaderWrapper FR">
+						
 
-     <tbody><tr>
+			<div id="header-widget-area" role="complementary">
 
-  <td height="40" colspan="4" align="center" valign="middle" bordercolor="CCBFAF" bgcolor="583434" class="style15"> <div align="center" class="style19"><a href="../index.php" class="catlink">Home</a><img src="templates/vbnew/images/spacer.gif" width="3" height="3" hspace="10" align="absmiddle">  <a href="/forums/index.php" class="catlink">Forums</a><img src="templates/vbnew/images/spacer.gif" width="3" height="3" hspace="10" align="absmiddle"> <a href="http://www.utahshoppingsecrets.com/" class="catlink">PYP Blog</a><img src="templates/vbnew/images/spacer.gif" width="3" height="3" hspace="10" align="absmiddle">  <a href="http://www.pinchingyourpennies.com/forums/forumdisplay.php?f=82" class="catlink">Deals by State</a><img src="templates/vbnew/images/spacer.gif" width="3" height="3" hspace="10" align="absmiddle"> <a href="http://www.pinchingyourpennies.com/couponlists.php" class="catlink">Coupon List</a><img src="templates/vbnew/images/spacer.gif" width="3" height="3" hspace="10" align="absmiddle"> <a href="http://www.pinchingyourpennies.com/CouponIntro.php" class="catlink">Coupons 101</a><img src="templates/vbnew/images/spacer.gif" width="3" height="3" hspace="10" align="absmiddle">  <a href="../groceryguide.php" class="catlink">Grocery Guide</a><img src="templates/vbnew/images/spacer.gif" width="3" height="3" hspace="10" align="absmiddle">  <a href="../forums/register.php?" class="catlink">Register HERE</a><img src="templates/vbnew/images/spacer.gif" width="3" height="3" hspace="10" align="absmiddle">  <a href="../contact.htm" class="catlink">Contact</a> </div>    </td></tr>
+				<div id="header-widget" class="widget-area">
+					<ul class="xoxo">
+						<li id="text-4" class="widget-container widget_text"><h3 class="widget-title">Facebook Like Button</h3>			<div class="textwidget"><script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script><fb:like href="http://www.facebook.com/PinchingYourPennies" show_faces="false" width="205" font="trebuchet ms"></fb:like></div>
+		</li><li id="text-5" class="widget-container widget_text"><h3 class="widget-title">Social Links</h3>			<div class="textwidget"><ul class="Social"><li><a href="http://www.facebook.com/pages/PinchingYourPenniescom/45614349439" target="_blank" class="SocialIcon Facebook  iepngfix">&nbsp;</a></li><li><a href="http://twitter.com/PYP_news" target="_blank" class="SocialIcon Twitter  iepngfix">&nbsp;</a></li><li><a href="/blog" class="SocialIcon Blog  iepngfix">&nbsp;</a></li></ul></div>
+		</li>					</ul>
+				</div><!-- #header-widget .widget-area -->
 
-    </tbody></table>  </td></tr>
+			</div><!-- #header-widget-area -->
+					</div>
+					<div class="clear_float">&nbsp;</div>
+				</div>
+<div id="access" role="navigation">
+			  				<div class="skip-link screen-reader-text"><a href="#content" title="Skip to content">Skip to content</a></div>
+								<div class="menu-header"><ul id="menu-primary-menu" class="menu"><li id="menu-item-25993" class="menu-item menu-item-type-custom menu-item-25993"><a href="/forums">PYP Forums</a></li>
+<li id="menu-item-16184" class="menu-item menu-item-type-post_type menu-item-16184"><a href="http://www.pinchingyourpennies.com/online-coupons-codes/">Online Coupons &amp; Codes</a></li>
+<li id="menu-item-16183" class="menu-item menu-item-type-post_type menu-item-16183"><a href="http://www.pinchingyourpennies.com/coupon-lists/">Grocery Coupons &amp; Lists</a>
+<ul class="sub-menu">
+	<li id="menu-item-16177" class="menu-item menu-item-type-post_type menu-item-16177"><a href="http://www.pinchingyourpennies.com/coupon-lists/arizona/">Arizona</a></li>
+	<li id="menu-item-16206" class="menu-item menu-item-type-post_type menu-item-16206"><a href="http://www.pinchingyourpennies.com/coupon-lists/northern-california/">California – Northern</a></li>
+	<li id="menu-item-16205" class="menu-item menu-item-type-post_type menu-item-16205"><a href="http://www.pinchingyourpennies.com/coupon-lists/southern-california/">California – Southern</a></li>
+	<li id="menu-item-16169" class="menu-item menu-item-type-post_type menu-item-16169"><a href="http://www.pinchingyourpennies.com/coupon-lists/idaho/">Idaho</a></li>
+	<li id="menu-item-16170" class="menu-item menu-item-type-post_type menu-item-16170"><a href="http://www.pinchingyourpennies.com/coupon-lists/nevada/">Nevada</a></li>
+	<li id="menu-item-16172" class="menu-item menu-item-type-post_type menu-item-16172"><a href="http://www.pinchingyourpennies.com/coupon-lists/oregon/">Oregon</a></li>
+	<li id="menu-item-16176" class="menu-item menu-item-type-post_type menu-item-16176"><a href="http://www.pinchingyourpennies.com/coupon-lists/utah/">Utah</a></li>
+	<li id="menu-item-16204" class="menu-item menu-item-type-post_type menu-item-16204"><a href="http://www.pinchingyourpennies.com/coupon-lists/eastern-washington/">Washington – Eastern</a></li>
+</ul>
+</li>
+<li id="menu-item-16175" class="menu-item menu-item-type-post_type menu-item-16175"><a href="http://www.pinchingyourpennies.com/screaming-penny/">Screaming Penny</a></li>
+<li id="menu-item-16164" class="menu-item menu-item-type-post_type menu-item-16164"><a href="http://www.pinchingyourpennies.com/blog/">Blog</a></li>
+<li id="menu-item-16174" class="menu-item menu-item-type-post_type menu-item-16174"><a href="http://www.pinchingyourpennies.com/resources/">Resources</a></li>
+<li id="menu-item-16167" class="menu-item menu-item-type-post_type menu-item-16167"><a href="http://www.pinchingyourpennies.com/freebies/">Freebies</a></li>
+<li id="menu-item-16165" class="menu-item menu-item-type-post_type menu-item-16165"><a href="http://www.pinchingyourpennies.com/coupons-101/">Coupons 101</a></li>
+</ul></div>			</div><!-- #access -->
+			</div><!-- #branding -->
 
-  <tr>
-    <td width="1" align="left" valign="top" bordercolor="#85704D" bgcolor="#85704D" class="style33"><div align="center"> </div>      <div align="center" class="style36"></div>
-    </td><td width="890" align="center" valign="top" bordercolor="#85704D" bgcolor="#FFFFFF" class="style15">      
+			
+		</div><!-- #masthead -->
+	</div><!-- #header -->
+<div id="wrapper" class="hfeed">
+	
+<div id="mainbg">
+	<div id="main">
+		<div id="container">
+			<div id="content" role="main">
 
-      <div align="left">
-        <p><b>We take your right to privacy seriously and want you to feel comfortable using our web site. This Privacy Policy deals with personally identifiable information that may be collected by us on our site. This Policy does not apply to other entities that we do not own or control or persons that are not our employees, agents or within our control. Our Privacy Policy is as follows: </b></p>
-        <p><b>1. Collection of Data.<br>
-  Our registration process requires only a valid e-mail address and a unique user ID and password. Providing us with other information is at your option. Please take note that your user name, e-mail address, or other submissions that you make on this site may contain your real name or other personally identifiable information and, as a result, may appear on this site. Like many web sites, we may also automatically receive general information that is contained in our server log files such as your IP address and cookie information. Information about how advertising may be served on this site is set forth below.</b></p>
-        <p><b>2. Use of Data.<br>
-  We may use personal information to customize and improve your user experience on this site. We will make efforts so that your personal information will not be provided to third parties. In the event you choose to use links that appear on our site to visit other web sites, you are advised to read the privacy policies that appear on those sites.</b></p>
-        <p><b>3. Cookies.<br>
-  Like many web sites, we set and use cookies to enhance your user experience, such as retaining your personal settings. </b></p>
-        <p><b>4. Editing or Deleting Your Account Information.<br>
-  We provide you with the ability to edit the information in your user account information that you provided to us in registration. You may request deletion of your user account by contacting us. Content or other data that you may have provided to us and that is not contained within your user account, such as posts that may appear within our forums, may continue to remain on our site at our discretion even though your user account is deleted. </b></p>
-        <p><b>5. Changes to this Privacy Policy.<br>
-  We may make changes to this Policy from time to time. We will notify you of substantial changes to this Policy either by posting a prominent announcement on our site and/or by sending a message to the e-mail address you have provided to us that is contained within your user settings.</b></p>
-        <p><b>6. NO GUARANTEES.<br>
-  While this Privacy Policy states our standards for maintenance of personal information and we will make efforts to meet them, we are not in a position to guarantee these standards. There may be factors beyond our control that may result in disclosure of data. As a consequence, we disclaim any warranties or representations relating to maintenance or nondisclosure of personal information.</b></p>
-        <p><b>7. Contact Information.<br>
-  If you have any questions about this Policy or our web site, please feel free to contact us at <a href="mailto:%20admin@pinchingyourpennies.com?subject=privacy%20policy">admin@pinchingyourpennies.com</a></b></p>
-      </div>
-      </td><td width="1" align="left" valign="top" bordercolor="#85704D" bgcolor="#85704D" class="style15"><div align="center"> </div>      <div align="center" class="style37"></div>
-    <div align="center">    </div>      </td></tr>
+				<div id="post-299" class="post-299 page type-page hentry">
+											<h1 class="entry-title">Privacy Policy</h1>
+					
+					<div class="entry-content">
+						<p>We take your right to privacy seriously and want you to feel comfortable using our web site. This Privacy Policy deals with personally identifiable information that may be collected by us on our site. This Policy does not apply to other entities that we do not own or control or persons that are not our employees, agents or within our control. Our Privacy Policy is as follows:</p>
+<p><strong>1. Collection of Data.</strong><br>
+Our registration process requires only a valid e-mail address and a unique user ID and password. Providing us with other information is at your option. Please take note that your user name, e-mail address, or other submissions that you make on this site may contain your real name or other personally identifiable information and, as a result, may appear on this site. Like many web sites, we may also automatically receive general information that is contained in our server log files such as your IP address and cookie information. Information about how advertising may be served on this site is set forth below.</p>
+<p><strong>2. Use of Data.</strong><br>
+We may use personal information to customize and improve your user experience on this site. We will make efforts so that your personal information will not be provided to third parties. In the event you choose to use links that appear on our site to visit other web sites, you are advised to read the privacy policies that appear on those sites.</p>
+<p><strong>3. Cookies.</strong><br>
+Like many web sites, we set and use cookies to enhance your user experience, such as retaining your personal settings.</p>
+<p><strong>4. Editing or Deleting Your Account Information.</strong><br>
+We provide you with the ability to edit the information in your user account information that you provided to us in registration. You may request deletion of your user account by contacting us. Content or other data that you may have provided to us and that is not contained within your user account, such as posts that may appear within our forums, may continue to remain on our site at our discretion even though your user account is deleted.</p>
+<p><strong>5. Changes to this Privacy Policy.</strong><br>
+We may make changes to this Policy from time to time. We will notify you of substantial changes to this Policy either by posting a prominent announcement on our site and/or by sending a message to the e-mail address you have provided to us that is contained within your user settings.</p>
+<p><strong>6. NO GUARANTEES.</strong><br>
+While this Privacy Policy states our standards for maintenance of personal information and we will make efforts to meet them, we are not in a position to guarantee these standards. There may be factors beyond our control that may result in disclosure of data. As a consequence, we disclaim any warranties or representations relating to maintenance or nondisclosure of personal information.</p>
+<p><strong>7. Contact Information.</strong><br>
+If you have any questions about this Policy or our web site, please feel free to contact us at admin@pinchingyourpennies.com.</p>
+																	</div><!-- .entry-content -->
+				</div><!-- #post-## -->
 
+				
+			<div id="comments">
+
+
+	<p class="nocomments">Comments are closed.</p>
+
+
+								
+</div><!-- #comments -->
+
+
+			</div><!-- #content -->
+		</div><!-- #container -->
+
+
+		<div id="primary" class="widget-area" role="complementary">
+			<ul class="xoxo">
+
+<li id="tabbed-widget-3" class="widget-container tabbed-widget"><div class="tw-tabs"><div id="tw-content-3-0" class="tw-content"><span style="display:none;">Signup Button</span><h4 id="tw-title-3-0" class="tw-title">Subscribe</h4>			<div class="textwidget"><p class="SubscribeText">Never Miss A Deal!!!</p>
+<form action="http://www.aweber.com/scripts/addlead.pl" accept-charset="UTF-8" method="post" id="aweber-web-form">
+<div><input type="hidden" name="meta_web_form_id" id="edit-meta-web-form-id" value="1795801843">
+<input type="hidden" name="meta_split_id" id="edit-meta-split-id" value="">
+<input type="hidden" name="unit" id="edit-unit" value="screamingpenny1">
+<input type="hidden" name="redirect" id="edit-redirect" value="http://www.pinchingyourpennies.com/newsletters/screaming-penny/welcome">
+<input type="hidden" name="meta_redirect_onlist" id="edit-meta-redirect-onlist" value="http://www.pinchingyourpennies.com/newsletters/screaming-penny/oops/">
+<input type="hidden" name="meta_adtracking" id="edit-meta-adtracking" value="">
+<input type="hidden" name="meta_message" id="edit-meta-message" value="1">
+<input type="hidden" name="meta_required" id="edit-meta-required" value="from">
+<input type="hidden" name="meta_forward_vars" id="edit-meta-forward-vars" value="1">
+<table cellpadding="0" cellspacing="0">
+	<tbody><tr>
+		<td style="vertical-align: middle">
+			<input type="text" maxlength="128" name="from" id="edit-from" size="20" value="" class="form-text">
+		</td>
+		<td style="vertical-align: middle;">
+			<input type="submit" name="submit" id="edit-submit" value="Submit" class="form-submit">
+		</td>
+	</tr>
 </tbody></table>
+<input type="hidden" name="form_build_id" id="form-19404e119f1a4183971c1c0076674ef4" value="form-19404e119f1a4183971c1c0076674ef4">
+<input type="hidden" name="form_token" id="edit-aweber-web-form-form-token" value="c28dcd326a014b4a10c48a1fdd8f4e43">
+<input type="hidden" name="form_id" id="edit-aweber-web-form" value="aweber_web_form"> 
+</div></form>
+<div style="height: 20px;overflow: hidden;">&nbsp;</div>
+<a href="/screaming-penny/" class="NewsletterButton iepngfix">&nbsp;</a></div>
+		</div><div id="tw-content-3-1" class="tw-content"><span style="display:none;">Coupon Lists</span><h4 id="tw-title-3-1" class="tw-title">Coupon Lists</h4><div class="menu-tabbed-coupon-list-container"><ul id="menu-tabbed-coupon-list" class="menu"><li id="menu-item-26702" class="menu-item menu-item-type-post_type menu-item-26702"><a href="http://www.pinchingyourpennies.com/coupon-lists/arizona/">Arizona</a></li>
+<li id="menu-item-26706" class="menu-item menu-item-type-post_type menu-item-26706"><a href="http://www.pinchingyourpennies.com/coupon-lists/northern-california/">California – Northern</a></li>
+<li id="menu-item-26708" class="menu-item menu-item-type-post_type menu-item-26708"><a href="http://www.pinchingyourpennies.com/coupon-lists/southern-california/">California – Southern</a></li>
+<li id="menu-item-26704" class="menu-item menu-item-type-post_type menu-item-26704"><a href="http://www.pinchingyourpennies.com/coupon-lists/idaho/">Idaho</a></li>
+<li id="menu-item-26705" class="menu-item menu-item-type-post_type menu-item-26705"><a href="http://www.pinchingyourpennies.com/coupon-lists/nevada/">Nevada</a></li>
+<li id="menu-item-26707" class="menu-item menu-item-type-post_type menu-item-26707"><a href="http://www.pinchingyourpennies.com/coupon-lists/oregon/">Oregon</a></li>
+<li id="menu-item-26709" class="menu-item menu-item-type-post_type menu-item-26709"><a href="http://www.pinchingyourpennies.com/coupon-lists/utah/">Utah</a></li>
+<li id="menu-item-26703" class="menu-item menu-item-type-post_type menu-item-26703"><a href="http://www.pinchingyourpennies.com/coupon-lists/eastern-washington/">Washington – Eastern</a></li>
+</ul></div></div><div id="tw-content-3-2" class="tw-content"><span style="display:none;">Top Deals</span><h4 id="tw-title-3-2" class="tw-title">Top Deals</h4>			<div class="textwidget"><!-- ++Begin Dynamic Feed Wizard Generated Code++ -->
+  <!--
+  // Created with a Google AJAX Search and Feed Wizard
+  // http://code.google.com/apis/ajaxsearch/wizards.html
+  -->
 
-<br>
+  <!--
+  // The Following div element will end up holding the actual feed control.
+  // You can place this anywhere on your page.
+  -->
+  <div id="feed-control">
+    <span style="color:#676767;font-size:11px;margin:10px;padding:4px;">Loading...</span>
+  </div>
+
+  <!-- Google Ajax Api
+  -->
+  <script src="http://www.google.com/jsapi?key=notsupplied-wizard" type="text/javascript"></script>
+
+  <!-- Dynamic Feed Control and Stylesheet -->
+  <script src="http://www.google.com/uds/solutions/dynamicfeed/gfdynamicfeedcontrol.js" type="text/javascript"></script>
+
+
+  <script type="text/javascript">
+    function LoadDynamicFeedControl() {
+      var feeds = [
+	{title: 'Screaming Deals Online',
+	 url: 'http://www.pinchingyourpennies.com/forums/external.php?type=rss2&forumids=10'
+	},
+	{title: 'Screaming Deals Around Town',
+	 url: 'http://www.pinchingyourpennies.com/forums/external.php?type=rss2&forumids=13'
+	},
+	{title: 'Printing Pennies',
+	 url: 'http://www.pinchingyourpennies.com/forums/external.php?type=rss2&forumids=72'
+	},
+	{title: 'Less Than a Penny',
+	 url: 'http://www.pinchingyourpennies.com/forums/external.php?type=rss2&forumids=11'
+	}];
+      var options = {
+        stacked : false,
+        horizontal : true,
+        title : ""
+      }
+
+      new GFdynamicFeedControl(feeds, 'feed-control', options);
+    }
+    // Load the feeds API and set the onload callback.
+    google.load('feeds', '1');
+    google.setOnLoadCallback(LoadDynamicFeedControl);
+  </script>
+<!-- ++End Dynamic Feed Control Wizard Generated Code++ -->
+</div>
+		</div></div></li><li id="text-8" class="widget-container widget_text"><h3 class="widget-title">Local Deals &amp; Lists</h3>			<div class="textwidget"><p class="StateSelect">Select Your State</p>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td><select id="StateSelect" class="StateSelect">
+    <option selected="selected" value="http://www.pinchingyourpennies.com/forums">Choose your state</option>
+    <option value="http://www.pinchingyourpennies.com/forums/forumdisplay.php?f=19">Alabama</option>
+    <option value="http://www.pinchingyourpennies.com/forums/forumdisplay.php?f=18">Alaska</option>
+    <option value="http://www.pinchingyourpennies.com/forums/forumdisplay.php?f=20">Arizona</option>
+    <option value="http://www.pinchingyourpennies.com/forums/forumdisplay.php?f=21">Arkansas</option>
+    <option value="http://www.pinchingyourpennies.com/forums/forumdisplay.php?f=22">N. California</option>
+    <option value="http://www.pinchingyourpennies.com/forums/forumdisplay.php?f=23">S. California</option>
+    <option value="http://www.pinchingyourpennies.com/forums/forumdisplay.php?f=24">Colorado</option>
+    <option value="http://www.pinchingyourpennies.com/forums/forumdisplay.php?f=25">Connecticut</option>
+    <option value="http://www.pinchingyourpennies.com/forums/forumdisplay.php?f=26">Delaware</option>
+    <option value="http://www.pinchingyourpennies.com/forums/forumdisplay.php?f=27">Florida</option>
+    <option value="http://www.pinchingyourpennies.com/forums/forumdisplay.php?f=28">Georgia</option>
+    <option value="http://www.pinchingyourpennies.com/forums/forumdisplay.php?f=29">Hawaii</option>
+    <option value="http://www.pinchingyourpennies.com/forums/forumdisplay.php?f=30">Idaho</option>
+    <option value="http://www.pinchingyourpennies.com/forums/forumdisplay.php?f=31">Illinois</option>
+    <option value="http://www.pinchingyourpennies.com/forums/forumdisplay.php?f=32">Indiana</option>
+    <option value="http://www.pinchingyourpennies.com/forums/forumdisplay.php?f=33">Iowa</option>
+    <option value="http://www.pinchingyourpennies.com/forums/forumdisplay.php?f=34">Kansas</option>
+    <option value="http://www.pinchingyourpennies.com/forums/forumdisplay.php?f=35">Kentucky</option>
+    <option value="http://www.pinchingyourpennies.com/forums/forumdisplay.php?f=36">Louisianna</option>
+    <option value="http://www.pinchingyourpennies.com/forums/forumdisplay.php?f=37">Maine</option>
+    <option value="http://www.pinchingyourpennies.com/forums/forumdisplay.php?f=38">Maryland</option>
+    <option value="http://www.pinchingyourpennies.com/forums/forumdisplay.php?f=39">Massachusetts</option>
+    <option value="http://www.pinchingyourpennies.com/forums/forumdisplay.php?f=40">Michigan</option>
+    <option value="http://www.pinchingyourpennies.com/forums/forumdisplay.php?f=41">Minnesota</option>
+    <option value="http://www.pinchingyourpennies.com/forums/forumdisplay.php?f=42">Mississippi</option>
+    <option value="http://www.pinchingyourpennies.com/forums/forumdisplay.php?f=43">Missouri</option>
+    <option value="http://www.pinchingyourpennies.com/forums/forumdisplay.php?f=44">Montana</option>
+    <option value="http://www.pinchingyourpennies.com/forums/forumdisplay.php?f=45">Nebraska</option>
+    <option value="http://www.pinchingyourpennies.com/forums/forumdisplay.php?f=46">Nevada</option>
+    <option value="http://www.pinchingyourpennies.com/forums/forumdisplay.php?f=47">New Hampshire</option>
+    <option value="http://www.pinchingyourpennies.com/forums/forumdisplay.php?f=48">New Jersey</option>
+    <option value="http://www.pinchingyourpennies.com/forums/forumdisplay.php?f=49">New Mexico</option>
+    <option value="http://www.pinchingyourpennies.com/forums/forumdisplay.php?f=50">New York</option>
+    <option value="http://www.pinchingyourpennies.com/forums/forumdisplay.php?f=51">North Carolina</option>
+    <option value="http://www.pinchingyourpennies.com/forums/forumdisplay.php?f=52">North Dakota</option>
+    <option value="http://www.pinchingyourpennies.com/forums/forumdisplay.php?f=53">Ohio</option>
+    <option value="http://www.pinchingyourpennies.com/forums/forumdisplay.php?f=54">Oklahoma</option>
+    <option value="http://www.pinchingyourpennies.com/forums/forumdisplay.php?f=55">Oregon</option>
+    <option value="http://www.pinchingyourpennies.com/forums/forumdisplay.php?f=56">Pennsylvania</option>
+    <option value="http://www.pinchingyourpennies.com/forums/forumdisplay.php?f=57">Rhode Island</option>
+    <option value="http://www.pinchingyourpennies.com/forums/forumdisplay.php?f=58">South Carolina</option>
+    <option value="http://www.pinchingyourpennies.com/forums/forumdisplay.php?f=59">South Dakota</option>
+    <option value="http://www.pinchingyourpennies.com/forums/forumdisplay.php?f=60">Tennessee</option>
+    <option value="http://www.pinchingyourpennies.com/forums/forumdisplay.php?f=61">Texas</option>
+    <option value="http://www.pinchingyourpennies.com/forums/forumdisplay.php?f=62">Utah</option>
+    <option value="http://www.pinchingyourpennies.com/forums/forumdisplay.php?f=63">Vermont</option>
+    <option value="http://www.pinchingyourpennies.com/forums/forumdisplay.php?f=64">Virginia</option>
+    <option value="http://www.pinchingyourpennies.com/forums/forumdisplay.php?f=65">Washington</option>
+    <option value="http://www.pinchingyourpennies.com/forums/forumdisplay.php?f=66">West Virginia</option>
+    <option value="http://www.pinchingyourpennies.com/forums/forumdisplay.php?f=67">Wisconsin</option>
+    <option value="http://www.pinchingyourpennies.com/forums/forumdisplay.php?f=68">Wyoming</option>
+    <option value="http://www.pinchingyourpennies.com/forums/forumdisplay.php?f=69">Military/Commissary</option></select>
+</td><td><a id="SearchState" class="StateSubmit GreenBG" href="http://www.pinchingyourpennies.com/forums">Go</a></td></tr></tbody></table></div>
+		</li><li id="text-17" class="widget-container widget_text"><h3 class="widget-title">Links</h3>			<div class="textwidget"><ul>
+<li><a href="http://www.pinchingyourpennies.com/forums/forumdisplay.php?f=10">Online Deals</a></li>
+<li><a target="_blank" href="http://www.citydeals.com/?ref=pinchingpennies">City Deals</a></li>
+<li><a href="http://www.pinchingyourpennies.com/forums/forumdisplay.php?f=5">State Forums</a></li>
+</ul></div>
+		</li><li id="search-2" class="widget-container widget_search"><h3 class="widget-title">Search PYP</h3><form role="search" method="get" id="searchform" action="http://www.pinchingyourpennies.com/">
+	<div><label class="screen-reader-text" for="s">Search for:</label>
+	<input type="text" value="" name="s" id="s">
+	<input type="submit" id="searchsubmit" value="Search">
+	</div>
+	</form></li>			</ul>
+							<div id="archive-widget-area" class="widget-area">
+					<ul class="xoxo">
+						<li id="eg_archives" class="widget widget_archive"><div class="SidePurpleMid"><h3 class="widget-title">Blog Archive</h3></div><ul>	<li><a href="http://www.pinchingyourpennies.com/2011/06/" title="June 2011">June 2011</a>&nbsp;(51)</li>
+	<li><a href="http://www.pinchingyourpennies.com/2011/05/" title="May 2011">May 2011</a>&nbsp;(377)</li>
+	<li><a href="http://www.pinchingyourpennies.com/2011/04/" title="April 2011">April 2011</a>&nbsp;(379)</li>
+	<li><a href="http://www.pinchingyourpennies.com/2011/03/" title="March 2011">March 2011</a>&nbsp;(356)</li>
+	<li><a href="http://www.pinchingyourpennies.com/2011/02/" title="February 2011">February 2011</a>&nbsp;(350)</li>
+	<li><a href="http://www.pinchingyourpennies.com/2011/01/" title="January 2011">January 2011</a>&nbsp;(452)</li>
+	<li><a href="http://www.pinchingyourpennies.com/2010/12/" title="December 2010">December 2010</a>&nbsp;(291)</li>
+	<li><a href="http://www.pinchingyourpennies.com/2010/11/" title="November 2010">November 2010</a>&nbsp;(292)</li>
+	<li><a href="http://www.pinchingyourpennies.com/2010/10/" title="October 2010">October 2010</a>&nbsp;(156)</li>
+	<li><a href="http://www.pinchingyourpennies.com/2010/09/" title="September 2010">September 2010</a>&nbsp;(195)</li>
+<br><a href="/archive" class="MoreArchive">More</a></ul></li>					</ul>
+				</div><!-- #logo .widget-area -->
+										<div id="tag-cloud-widget-area" class="widget-area">
+					<ul class="xoxo">
+						<li id="nktagcloud-2" class="widget widget_nktagcloud"><ul class="wp-tag-cloud">
+	<li><a href="http://www.pinchingyourpennies.com/tag/6pm/" class="tag-link-11473 nktagcloud-10" title="27 topics" rel="tag" style="font-size: 10.07pt;">6pm</a></li>
+	<li><a href="http://www.pinchingyourpennies.com/tag/accessories/" class="tag-link-11516 nktagcloud-8" title="20 topics" rel="tag" style="font-size: 8.8pt;">Accessories</a></li>
+	<li><a href="http://www.pinchingyourpennies.com/online-stores/allposters-com/" class="tag-link-131 nktagcloud-7" title="11 topics" rel="tag" style="font-size: 7.18pt;">Allposters.com</a></li>
+	<li><a href="http://www.pinchingyourpennies.com/tag/amazon/" class="tag-link-5027 nktagcloud-12" title="38 topics" rel="tag" style="font-size: 12.05pt;">Amazon</a></li>
+	<li><a href="http://www.pinchingyourpennies.com/tag/baby-gear/" class="tag-link-11532 nktagcloud-7" title="12 topics" rel="tag" style="font-size: 7.36pt;">Baby Gear</a></li>
+	<li><a href="http://www.pinchingyourpennies.com/online-stores/bestbuy/" class="tag-link-512 nktagcloud-7" title="11 topics" rel="tag" style="font-size: 7.18pt;">BestBuy</a></li>
+	<li><a href="http://www.pinchingyourpennies.com/online-stores/borders/" class="tag-link-233 nktagcloud-8" title="18 topics" rel="tag" style="font-size: 8.44pt;">Borders</a></li>
+	<li><a href="http://www.pinchingyourpennies.com/tag/childrens-place/" class="tag-link-11463 nktagcloud-7" title="14 topics" rel="tag" style="font-size: 7.72pt;">Children's Place</a></li>
+	<li><a href="http://www.pinchingyourpennies.com/online-stores/childrensplace-com/" class="tag-link-406 nktagcloud-8" title="16 topics" rel="tag" style="font-size: 8.08pt;">ChildrensPlace.com</a></li>
+	<li><a href="http://www.pinchingyourpennies.com/online-stores/circuitcity-com/" class="tag-link-658 nktagcloud-7" title="10 topics" rel="tag" style="font-size: 7pt;">CircuitCity.com</a></li>
+	<li><a href="http://www.pinchingyourpennies.com/tag/clothing/" class="tag-link-11464 nktagcloud-13" title="48 topics" rel="tag" style="font-size: 13.85pt;">Clothing</a></li>
+	<li><a href="http://www.pinchingyourpennies.com/online-stores/diapers-com/" class="tag-link-531 nktagcloud-8" title="17 topics" rel="tag" style="font-size: 8.26pt;">Diapers.com</a></li>
+	<li><a href="http://www.pinchingyourpennies.com/online-stores/disneystore-com/" class="tag-link-392 nktagcloud-9" title="23 topics" rel="tag" style="font-size: 9.34pt;">DisneyStore.com</a></li>
+	<li><a href="http://www.pinchingyourpennies.com/tag/ebay-daily-deals/" class="tag-link-11524 nktagcloud-7" title="12 topics" rel="tag" style="font-size: 7.36pt;">Ebay Daily Deals</a></li>
+	<li><a href="http://www.pinchingyourpennies.com/online-stores/elfcosmetics/" class="tag-link-396 nktagcloud-7" title="10 topics" rel="tag" style="font-size: 7pt;">ELFCosmetics</a></li>
+	<li><a href="http://www.pinchingyourpennies.com/online-stores/express/" class="tag-link-618 nktagcloud-7" title="12 topics" rel="tag" style="font-size: 7.36pt;">Express</a></li>
+	<li><a href="http://www.pinchingyourpennies.com/tag/freebie/" class="tag-link-11477 nktagcloud-10" title="31 topics" rel="tag" style="font-size: 10.79pt;">Freebie</a></li>
+	<li><a href="http://www.pinchingyourpennies.com/tag/free-shipping/" class="tag-link-11460 nktagcloud-18" title="71 topics" rel="tag" style="font-size: 18pt;">Free Shipping</a></li>
+	<li><a href="http://www.pinchingyourpennies.com/tag/free-ship-to-store/" class="tag-link-11486 nktagcloud-7" title="14 topics" rel="tag" style="font-size: 7.72pt;">Free Ship to Store</a></li>
+	<li><a href="http://www.pinchingyourpennies.com/online-stores/gap-com/" class="tag-link-173 nktagcloud-7" title="11 topics" rel="tag" style="font-size: 7.18pt;">Gap.com</a></li>
+	<li><a href="http://www.pinchingyourpennies.com/tag/groupon-deals/" class="tag-link-11472 nktagcloud-11" title="34 topics" rel="tag" style="font-size: 11.33pt;">Groupon Deals</a></li>
+	<li><a href="http://www.pinchingyourpennies.com/online-stores/homedepot-com/" class="tag-link-507 nktagcloud-7" title="10 topics" rel="tag" style="font-size: 7pt;">HomeDepot.com</a></li>
+	<li><a href="http://www.pinchingyourpennies.com/tag/housewares/" class="tag-link-11533 nktagcloud-7" title="15 topics" rel="tag" style="font-size: 7.9pt;">Housewares</a></li>
+	<li><a href="http://www.pinchingyourpennies.com/tag/kids-deals/" class="tag-link-11523 nktagcloud-13" title="45 topics" rel="tag" style="font-size: 13.31pt;">Kids Deals</a></li>
+	<li><a href="http://www.pinchingyourpennies.com/online-stores/kmart-com/" class="tag-link-104 nktagcloud-9" title="25 topics" rel="tag" style="font-size: 9.7pt;">Kmart.com</a></li>
+</ul>
+</li></ul>					
+				</div>
+										<div id="callout-widget-area" class="widget-area">
+					<ul>
+						<li id="text-12" class="widget widget_text">			<div class="textwidget"><a target="_blank" href="http://www.shelfreliance.com/pyp"> <img width="265" border="0" src="http://www.shelfreliance.com/img/ads/pyp.jpg" alt="Shelf Reliance"></a><br><br>
+<a target="_blank" href="http://www.dpbolvw.net/click-1495814-10902401">
+<img src="http://www.tqlkg.com/image-1495814-10898900" width="265" height="221" alt="" border="0"></a><br><br><a target="_blank" href="http://linksynergy.walmart.com/fs-bin/click?id=IR2OVDzZM7s&amp;offerid=218564.10002337&amp;subid=0&amp;type=4"><img width="265" border="0" src="http://ad.linksynergy.com/fs-bin/show?id=IR2OVDzZM7s&amp;bids=218564.10002337&amp;subid=0&amp;type=4&amp;gridnum=13" alt="Wal-Mart.com USA, LLC"></a></div>
+		</li></ul></div>					
+				</div><!-- #logo .widget-area -->
+					</div><!-- #primary .widget-area -->
+
+
+	</div><!-- #main -->
+        </div>        <!-- #mainbg -->
+	<div id="footer" role="contentinfo">
+		<div id="colophon">
 
 
 
-    
+			<div id="footer-widget-area" role="complementary">
 
+				<div id="first" class="widget-area">
+					<ul class="xoxo">
+						<li id="nav_menu-4" class="widget-container widget_nav_menu"><div class="menu-footer-menu-container"><ul id="menu-footer-menu" class="menu"><li id="menu-item-26028" class="menu-item menu-item-type-custom menu-item-26028"><a href="/forums">PYP Forums</a></li>
+<li id="menu-item-16156" class="menu-item menu-item-type-post_type menu-item-16156"><a href="http://www.pinchingyourpennies.com/online-coupons-codes/">Online Coupons &amp; Codes</a></li>
+<li id="menu-item-16155" class="menu-item menu-item-type-post_type menu-item-16155"><a href="http://www.pinchingyourpennies.com/coupon-lists/">Grocery Coupons &amp; Lists</a></li>
+<li id="menu-item-16159" class="menu-item menu-item-type-post_type menu-item-16159"><a href="http://www.pinchingyourpennies.com/screaming-penny/">Screaming Penny</a></li>
+<li id="menu-item-16152" class="menu-item menu-item-type-post_type menu-item-16152"><a href="http://www.pinchingyourpennies.com/blog/">Blog</a></li>
+<li id="menu-item-16154" class="menu-item menu-item-type-post_type menu-item-16154"><a href="http://www.pinchingyourpennies.com/freebies/">Freebies</a></li>
+<li id="menu-item-16158" class="menu-item menu-item-type-post_type menu-item-16158"><a href="http://www.pinchingyourpennies.com/resources/">Resources</a></li>
+<li id="menu-item-16153" class="menu-item menu-item-type-post_type menu-item-16153"><a href="http://www.pinchingyourpennies.com/coupons-101/">Coupons 101</a></li>
+</ul></div></li>					</ul>
+				</div><!-- #first .widget-area -->
 
+				<div id="second" class="widget-area">
+					<ul class="xoxo">
+						<li id="rss-3" class="widget-container widget_rss"><h3 class="widget-title"><a class="rsswidget" href="http://www.pinchingyourpennies.com/feed/" title="Syndicate this content"><img style="border:0" width="14" height="14" src="http://www.pinchingyourpennies.com/wp-includes/images/rss.png" alt="RSS"></a> <a class="rsswidget" href="http://www.pinchingyourpennies.com" title="">Recent Post</a></h3><ul><li><a class="rsswidget" href="http://www.pinchingyourpennies.com/2011/06/extra-25-off-select-movies-music-books-deepdiscount-com/" title="Just a few finds… All About Old Mcdonald’s Farm/All About Horses or All About Dinosaurs *several other All About titles also available* Price: $5.32 *$3.99 after code The Wiggles: Getting Strong Was: $14.97 Now: $5.43 *$4.07 after code Scooby-Doo’s OriginalRead More […]">Extra 25% off select Movies, Music &amp; Books @ DeepDiscount.com</a><div class="rssSummary">Just a few finds… All About Old Mcdonald’s Farm/All About Horses or All About Dinosaurs *several other All About titles also available* Price: $5.32 *$3.99 after code The Wiggles: Getting Strong Was: $14.97 Now: $5.43 *$4.07 after code Scooby-Doo’s OriginalRead More […]</div></li></ul></li>					</ul>
+				</div><!-- #second .widget-area -->
 
+				<div id="third" class="widget-area">
+					<ul class="xoxo">
+						<li id="text-18" class="widget-container widget_text"><h3 class="widget-title">Never Miss A Deal</h3>			<div class="textwidget"><div style="height: 10px;">&nbsp;</div>
+<form action="http://www.aweber.com/scripts/addlead.pl" accept-charset="UTF-8" method="post" id="aweber-web-form">
+<div><input type="hidden" name="meta_web_form_id" id="edit-meta-web-form-id" value="1795801843">
+<input type="hidden" name="meta_split_id" id="edit-meta-split-id" value="">
+<input type="hidden" name="unit" id="edit-unit" value="screamingpenny1">
+<input type="hidden" name="redirect" id="edit-redirect" value="http://www.pinchingyourpennies.com/newsletters/screaming-penny/welcome">
+<input type="hidden" name="meta_redirect_onlist" id="edit-meta-redirect-onlist" value="http://www.pinchingyourpennies.com/newsletters/screaming-penny/oops/">
+<input type="hidden" name="meta_adtracking" id="edit-meta-adtracking" value="">
+<input type="hidden" name="meta_message" id="edit-meta-message" value="1">
+<input type="hidden" name="meta_required" id="edit-meta-required" value="from">
+<input type="hidden" name="meta_forward_vars" id="edit-meta-forward-vars" value="1">
+<table cellpadding="0" cellspacing="0">
+	<tbody><tr>
+		<td style="vertical-align: middle">
+			<div style="padding-left: 1px;">
+				<input type="text" maxlength="128" name="from" id="edit-from" size="20" value="" class="form-text">
+			</div>
+		</td>
+<td style="vertical-align: top;">
+				<input type="submit" name="submit" id="edit-submit" value="Submit" class="form-submit">
+		</td>
+	</tr>
+</tbody></table>
+<input type="hidden" name="form_build_id" id="form-19404e119f1a4183971c1c0076674ef4" value="form-19404e119f1a4183971c1c0076674ef4">
+<input type="hidden" name="form_token" id="edit-aweber-web-form-form-token" value="c28dcd326a014b4a10c48a1fdd8f4e43">
+<input type="hidden" name="form_id" id="edit-aweber-web-form" value="aweber_web_form"> 
+</div></form></div>
+		</li>					</ul>
+				</div><!-- #third .widget-area -->
 
+				<div id="fourth" class="widget-area">
+					<ul class="xoxo">
+						<li id="text-7" class="widget-container widget_text">			<div class="textwidget"><ul><li>© 2010 - <a href="/">Pinching Your Pennies</a></li><li><a href="/disclosure">Disclosure</a></li><li><a href="/privacy-policy">Privacy Policy</a></li><li><a href="/terms-conditions">Terms &amp; Conditions</a></li><li><a href="/login">Staff Login</a></li></ul>
+<div style="height: 20px;">&nbsp;</div><ul class="Social"><li><a href="http://www.facebook.com/pages/PinchingYourPenniescom/45614349439" target="_blank" class="SocialIcon Facebook  iepngfix">&nbsp;</a></li><li><a href="http://twitter.com/PYP_news" target="_blank" class="SocialIcon Twitter  iepngfix">&nbsp;</a></li><li><a href="/blog" class="SocialIcon Blog  iepngfix">&nbsp;</a></li></ul></div>
+		</li>					</ul>
+				</div><!-- #fourth .widget-area -->
 
-<br>
+			</div><!-- #footer-widget-area -->
 
-<div align="center"><script type="text/javascript" language="javascript" src="http://www.jdoqocy.com/t165j40qsux30tu6FIPNKGNN?target=_blank&amp;mouseover=Y"></script> 
+			<div id="site-info">
+&nbsp;
+			</div><!-- #site-info -->
 
-              <script type="text/javascript" language="javascript" src="http://www.dpbolvw.net/placeholder-2974080?target=_blank&amp;mouseover=Y"></script></div>
+			<div id="site-generator">
+	&nbsp;
+			</div><!-- #site-generator -->
 
- <p align="center">Copyright 2008, Pinching Your Pennies, LLC. All rights reserved. 
+		</div><!-- #colophon -->
+	</div><!-- #footer -->
 
-  View our <a href="terms.htm" target="_blank"><strong>Terms and Conditions</strong></a>. View 
+<!-- #wrapper -->
 
-  our <span class="style9"><a href="privacy.htm" target="_blank">Privacy Policy</a>.</span></p>
-
-
-
+<script type="text/javascript" src="http://www.pinchingyourpennies.com/wp-includes/js/jquery/ui.core.js?ver=1.7.3"></script>
+<script type="text/javascript" src="http://www.pinchingyourpennies.com/wp-content/plugins/tabbed-widgets/js/jquery-ui-custom.min.js?ver=3.0.5"></script>
+<script type="text/javascript" src="http://www.pinchingyourpennies.com/wp-content/plugins/tabbed-widgets/js/jquery-cookie.min.js?ver=3.0.5"></script>
+<script type="text/javascript">var $rotateoptions = new Array();
+$rotateoptions[3] = new Array();
+$rotateoptions[3]["style"] = "tabs";
+$rotateoptions[3]["rotate"] = 0;
+$rotateoptions[3]["random_start"] = 0;
+$rotateoptions[3]["start_tab"] = 0;
+$rotateoptions[3]["interval"] = 1000;
+</script>
+<script type="text/javascript" src="http://www.pinchingyourpennies.com/wp-content/plugins/tabbed-widgets/js/init-plugin.js"></script>
 
 
 </body></html>
