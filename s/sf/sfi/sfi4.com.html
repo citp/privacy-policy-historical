@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sfi4.com privacy policy that was archived on 2010-12-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101215191332id_/http%3A//www.tripleclicks.com/privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sfi4.com privacy policy that was archived on 2011-06-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110603145336id_/http%3A//www.tripleclicks.com/privacy_policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -7,15 +7,17 @@
 <meta name="verify-v1" content="qvu/+sf801hlEKa/ubeE7GtycPyASNlEkzrvIGjpZV4=">
 <title>TripleClicks Privacy Policy</title>
 <link href="/common/styles/TCdefault.css" rel="stylesheet" type="text/css">
+<link href="/common/styles/colorbox.css" rel="stylesheet" type="text/css">
 <link rel="stylesheet" href="/common/modal/windowfiles/dhtmlwindow.css" type="text/css">
 <script type="text/javascript" src="/common/modal/windowfiles/dhtmlwindow.js"></script><style type="text/css">.highslide img {cursor: url(/common/highslide/highslide/graphics/zoomin.cur), pointer !important;}.highslide-viewport-size {position: fixed; width: 100%; height: 100%; left: 0; top: 0}</style></head><body onload=""><div id="dhtmlwindowholder"><span style="display:none">.</span></div>
 <link rel="stylesheet" href="/common/modal/modalfiles/modal.css" type="text/css">
 <script type="text/javascript" src="/common/modal/modalfiles/modal.js"></script><div id="interVeil"></div>
 
 <script type="text/javascript">
-document.write('<script type="text/javascript" src="/common/javascript.js?' + new Date().getTime() + '"> <\/script>'); </script><script type="text/javascript" src="/common/javascript.js?1580647298156"> </script>
+document.write('<script type="text/javascript" src="/common/javascript.js?' + new Date().getTime() + '"> <\/script>'); </script><script type="text/javascript" src="/common/javascript.js?1580647298562"> </script>
 
-<script type="text/javascript" src="/common/jquery-1.3.2.min.js"></script>
+<script type="text/javascript" src="/common/jquery.min.js"></script>
+<script type="text/javascript" src="/common/jquery.colorbox-min.js"></script>
 <script type="text/javascript" src="/common/jquery.cookies.2.1.0.min.js"></script>
 <script type="text/javascript" src="/common/highslide/highslide-with-gallery.js"></script>
 <script type="text/javascript" src="/common/highslide/highslide/highslide.js"></script>
@@ -177,6 +179,7 @@ border:1px solid #ccc;
  			var A;
  			
  			var msxmlhttp = new Array(
+				'Msxml2.XMLHTTP.6.0',
 				'Msxml2.XMLHTTP.5.0',
 				'Msxml2.XMLHTTP.4.0',
 				'Msxml2.XMLHTTP.3.0',
@@ -889,6 +892,13 @@ border:1px solid #ccc;
 		}
 		
 				
+		// wrapper for auctionXtraUpdate		
+		function x_auctionXtraUpdate() {
+			sajax_do_call("auctionXtraUpdate",
+				x_auctionXtraUpdate.arguments);
+		}
+		
+				
 		// wrapper for placeBid		
 		function x_placeBid() {
 			sajax_do_call("placeBid",
@@ -951,6 +961,41 @@ border:1px solid #ccc;
 				x_getTConnectWorldRank.arguments);
 		}
 		
+				
+		// wrapper for getActiveAuction		
+		function x_getActiveAuction() {
+			sajax_do_call("getActiveAuction",
+				x_getActiveAuction.arguments);
+		}
+		
+				
+		// wrapper for removeItemFromBanner		
+		function x_removeItemFromBanner() {
+			sajax_do_call("removeItemFromBanner",
+				x_removeItemFromBanner.arguments);
+		}
+		
+				
+		// wrapper for setBannerShowImages		
+		function x_setBannerShowImages() {
+			sajax_do_call("setBannerShowImages",
+				x_setBannerShowImages.arguments);
+		}
+		
+				
+		// wrapper for setBannerShowPrices		
+		function x_setBannerShowPrices() {
+			sajax_do_call("setBannerShowPrices",
+				x_setBannerShowPrices.arguments);
+		}
+		
+				
+		// wrapper for setBannerCurrency		
+		function x_setBannerCurrency() {
+			sajax_do_call("setBannerCurrency",
+				x_setBannerCurrency.arguments);
+		}
+		
 		
 updateCart();
 /***********************************************
@@ -984,9 +1029,10 @@ var menu2=new Array()
     menu2[20]='<a href="/results.php?dept=240">Real Estate</a>'
     menu2[21]='<a href="/results.php?dept=241">Romance</a>'
     menu2[22]='<a href="/results.php?dept=15">Sports & Outdoors</a>'
-    menu2[23]='<a href="/results.php?dept=16">Tools & Automotive</a>'
-    menu2[24]='<a href="/results.php?dept=17">Toys, Kids & Baby</a>'
-    menu2[25]='<a href="/results.php?dept=243">Travel</a>'
+    menu2[23]='<a href="/results.php?dept=436">TCredits</a>'
+    menu2[24]='<a href="/results.php?dept=16">Tools & Automotive</a>'
+    menu2[25]='<a href="/results.php?dept=17">Toys, Kids & Baby</a>'
+    menu2[26]='<a href="/results.php?dept=243">Travel</a>'
 		
 var menuwidth='175px' //default menu width
 var menubgcolor='#eeeeee'  //menu bgcolor
@@ -1114,8 +1160,20 @@ clearTimeout(delayhide)
 
 
 
+
+
+
+
+
+
+
+
+
 if (hidemenu_onclick=="yes")
 document.onclick=hidemenu
+
+
+
 
 </script>
 
@@ -1130,8 +1188,8 @@ document.onclick=hidemenu
 <!------------------------------------------------------------------------------ TripleClicks header -->
 <div id="tcHeader">
 
-	<div id="tcLogo">
-   		<a href="/"><img src="/images/logos/logo-TCv3.gif" height="75" width="318" alt="TripleClicks - Buy, Sell, Trade" border="0"></a>	</div>
+<div id="tcLogo">
+<a href="/"><img src="/images/logos/logo-TCv3.gif" height="75" width="318" alt="TripleClicks - Buy, Sell, Trade" border="0"></a>	</div>
 
 	<div id="tcLogin">
         <form method="post" action="/privacy_policy.php">
@@ -1142,74 +1200,75 @@ document.onclick=hidemenu
    	    <input type="image" src="/images/buttons/b_Login.gif" alt="Go" width="43" height="18" align="absmiddle" border="0">
 		<br>
 		Not yet a TripleClicks Member? <a href="member_benefits.php">Join FREE here</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/get">Forget Password?</a><br>
-    
+		    
         
     </form>        
         </div>
-        <div id="tcShoppingCart">
-        <a href="/credits.php">TCredits:</a> <span id="headerCredits">0</span> |  Cart: <span id="cartQty"></span> item <!-- : $<span id='cartSubtotal'>0.00</span> --> | <a href="/cart/viewcart.php">View Cart</a> | <a href="/cart/checkout.php">Checkout</a>          		<br><a href="/myaccount/messageCenter.php">Message Center</a>		 
-        		</div>
-    
-    <div id="tcMenu" style="white-space:none; overflow:hidden;">
-    	<div class="indentmenu">
-            <ul>
-				<li><a href="/customer_care.php" class="current">Customer Care</a></li>
-				<li><a href="/myaccount/">My Account</a></li>
-				<li><a href="/results.php?TOPSELLING">Top Sellers</a></li>
-				<li><a href="/cart/viewwishlist.php">My Wishlist</a></li>
-				<li><a href="/results.php?CLOSEOUTS" }="">Closeouts</a></li>				
-				<li><a href="/results.php?HOTDEALS">Hot Deals</a></li>
-				<li><a href="/member_benefits.php">Member Center</a></li>
-				<li><a href="/myaccount/sell_your_stuff.php">List It!</a></li>
-               	<li><a href="/">Home</a></li>
-			</ul>
-	  </div>
-    </div>
+<div id="tcShoppingCart">
+<a href="/credits.php">TCredits:</a> <span id="headerCredits">0</span> |  Cart: <span id="cartQty"></span> item <!-- : $<span id='cartSubtotal'>0.00</span> --> | <a href="/cart/viewcart.php">View Cart</a> | <a href="/cart/checkout.php">Checkout</a> <br><a href="/myaccount/messageCenter.php">Message Center</a>		 
+</div>
 
-    <form method="post" action="/results.php" id="searchForm">
-    <input type="hidden" name="search" value="t">
-    <div id="tcSearchbar" style="white-space:none;">
-    	<div style="float:right;">
-    		SEARCH 
-   		  <select name="department_search" id="department_search" class="forms" style="width:150px;">
-          <option value="-1">All Departments</option>
-                                <option value="228">Antiques &amp; Collectibles</option>
-                                <option value="1">Apparel</option>
-                                <option value="229">Arts &amp; Crafts</option>
-                                <option value="2">Books</option>
-                                <option value="3">Business</option>
-                                <option value="4">Computers</option>
-                                <option value="363">Digital Downloads</option>
-                                <option value="237">Education</option>
-                                <option value="5">Electronics</option>
-                                <option value="6">Food &amp; Beverage</option>
-                                <option value="7">Gifts &amp; Flowers</option>
-                                <option value="8">Health &amp; Wellness</option>
-                                <option value="9">Home &amp; Garden</option>
-                                <option value="233">Jewelry</option>
-                                <option value="387">Magazine Subscriptions</option>
-                                <option value="11">Miscellaneous</option>
-                                <option value="12">Movies, Music &amp; Games</option>
-                                <option value="13">Personal Care &amp; Beauty</option>
-                                <option value="14">Pet Care</option>
-                                <option value="242">Phones &amp; Accessories</option>
-                                <option value="240">Real Estate</option>
-                                <option value="241">Romance</option>
-                                <option value="15">Sports &amp; Outdoors</option>
-                                <option value="16">Tools &amp; Automotive</option>
-                                <option value="17">Toys, Kids &amp; Baby</option>
-                                <option value="243">Travel</option>
-             		  </select>
-      		FOR&nbsp; 
-      		<input name="text_search" type="text" id="text_search" size="18" class="forms" onkeyup="showLiveResults(this.value)" autocomplete="off">&nbsp; 
-   		  <input type="image" src="/images/buttons/b_Go.gif" alt="Go" width="20" height="18" align="absmiddle">&nbsp;| <a href="/adv_search.php">ADVANCED SEARCH</a>
-		</div>
-        
-             <div style="float:left;">
-                                      <img src="/images/bullets/bul_arrow1.gif" alt="browse departments" width="7" height="8">
-                     <a href="/" onclick="return dropdownmenu(this, event, menu2, '200px')" onmouseout="delayhidemenu()">Browse All Departments</a>        
-                              </div>
-    </div></form>
+<div id="tcMenu" style="white-space:none; overflow:hidden;">
+<div class="indentmenu">
+<ul>
+<li><a href="/customer_care.php" class="current">Customer Care</a></li>
+<li><a href="/myaccount/">My Account</a></li>
+<li><a href="/Wave3/W3index.php">Wave3</a></li>
+<li><a href="/cart/viewwishlist.php">My Wishlist</a></li>
+<li><a href="/results.php?CLOSEOUTS" }="">Closeouts</a></li>				
+<li><a href="/results.php?HOTDEALS">Hot Deals</a></li>
+<li><a href="/member_benefits.php">Member Center</a></li>
+<li><a href="/myaccount/sell_your_stuff.php">List It!</a></li>
+<li><a href="/">Home</a></li>
+</ul>
+</div>
+</div>
+
+<div id="tcSearchbar" style="white-space:none;">
+<form method="post" action="/results.php" id="searchForm">
+<input type="hidden" name="search" value="t">
+<div style="float:right;">
+SEARCH 
+<select name="department_search" id="department_search" class="forms" style="width:150px;">
+<option value="-1">All Departments</option>
+<option value="228">Antiques &amp; Collectibles</option>
+<option value="1">Apparel</option>
+<option value="229">Arts &amp; Crafts</option>
+<option value="2">Books</option>
+<option value="3">Business</option>
+<option value="4">Computers</option>
+<option value="363">Digital Downloads</option>
+<option value="237">Education</option>
+<option value="5">Electronics</option>
+<option value="6">Food &amp; Beverage</option>
+<option value="7">Gifts &amp; Flowers</option>
+<option value="8">Health &amp; Wellness</option>
+<option value="9">Home &amp; Garden</option>
+<option value="233">Jewelry</option>
+<option value="387">Magazine Subscriptions</option>
+<option value="11">Miscellaneous</option>
+<option value="12">Movies, Music &amp; Games</option>
+<option value="13">Personal Care &amp; Beauty</option>
+<option value="14">Pet Care</option>
+<option value="242">Phones &amp; Accessories</option>
+<option value="240">Real Estate</option>
+<option value="241">Romance</option>
+<option value="15">Sports &amp; Outdoors</option>
+<option value="436">TCredits</option>
+<option value="16">Tools &amp; Automotive</option>
+<option value="17">Toys, Kids &amp; Baby</option>
+<option value="243">Travel</option>
+</select>
+FOR&nbsp; 
+<input name="text_search" type="text" id="text_search" size="18" class="forms" onkeyup="showLiveResults(this.value)" autocomplete="off">&nbsp; 
+<input type="image" src="/images/buttons/b_Go.gif" alt="Go" width="20" height="18" align="absmiddle">&nbsp;| <a href="/adv_search.php">ADVANCED SEARCH</a>
+</div>
+</form>    
+<div style="float:left;">
+<img src="/images/bullets/bul_arrow1.gif" alt="browse departments" width="7" height="8">
+<a href="/" onclick="return dropdownmenu(this, event, menu2, '200px')" onmouseout="delayhidemenu()">Browse All Departments</a>        
+</div>
+</div>
 </div>
 <!------------------------------------------------------------------------------ end TripleClicks header -->
 
@@ -1332,6 +1391,12 @@ document.onclick=hidemenu
 		<img src="/images/logos/logo-sfi_sm.gif" alt="SFI" width="59" height="25">
 		<br>
 		<br>
+    	
+		Your TripleClicks<br>
+		Affiliate is:<br>
+		<strong>
+		 
+        </strong>
     	</div>
 	
 <div class="tcClearBoth"></div>
@@ -1342,7 +1407,7 @@ document.onclick=hidemenu
 
 
 
-<span style="font-size:11px;">Copyright @ 2010, Carson Services, Inc.</span>
+<span style="font-size:11px;">Copyright @ 2011, Carson Services, Inc.</span>
 
 </div>
 </div>
