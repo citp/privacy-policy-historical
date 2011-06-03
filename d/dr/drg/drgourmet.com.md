@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drgourmet.com privacy policy that was archived on 2010-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101104200650id_/http%3A//drgourmet.com/pr/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drgourmet.com privacy policy that was archived on 2011-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110603061845id_/http%3A//drgourmet.com/pr/privacy.shtml) for the most accurate reproduction.*
 
 # Dr. Gourmet : Privacy Policy
 
