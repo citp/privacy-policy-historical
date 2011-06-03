@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gordasquefollan.com privacy policy that was archived on 2010-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100531142839id_/http%3A//support.bigfatbeauties.com/support_privacy.php%3Fch_lang%3Dus%26tour%3D1%26id%3D2936%26country%3Dus) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gordasquefollan.com privacy policy that was archived on 2011-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110603022754id_/http%3A//support.bigfatbeauties.com/support_privacy.php%3Fch_lang%3Dus%26tour%3D1%26id%3D2936%26country%3Dus) for the most accurate reproduction.*
 
 # Big Fat Beauties
 
