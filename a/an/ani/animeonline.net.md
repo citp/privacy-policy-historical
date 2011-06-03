@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the animeonline.net privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527074459id_/http%3A//www.animeonline.net/index.php%3Fact%3Dps) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animeonline.net privacy policy that was archived on 2011-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110603104232id_/http%3A//www.animeonline.net/index.php%3Fact%3Dps) for the most accurate reproduction.*
 
 # Anime Online - Privacy Statement
 
