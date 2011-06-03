@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lotto.ie privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220115918id_/http%3A//lotto.ie/en/Info/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lotto.ie privacy policy that was archived on 2011-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110603194417id_/http%3A//www.lotto.ie/en/Info/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy - Lottery
 
