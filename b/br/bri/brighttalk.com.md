@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the brighttalk.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225004625id_/http%3A//www.brighttalk.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brighttalk.com privacy policy that was archived on 2011-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110603105908id_/http%3A//www.brighttalk.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | brighttalk.com
+# Privacy policy
 
 #### BrightTALK™  
 PRIVACY POLICY
