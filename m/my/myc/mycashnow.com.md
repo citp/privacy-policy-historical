@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mycashnow.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221021522id_/http%3A//mycashnow.com/Small-Cash-Loans-privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycashnow.com privacy policy that was archived on 2011-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110603085901id_/http%3A//mycashnow.com/Small-Cash-Loans-privacy-policy.php) for the most accurate reproduction.*
 
-# Secure Online Payday Loans - MyCashNow Privacy Policy
+# Small Cash Loans Privacy Policy | MyCashNow
 
 ## MyCashNow™ Privacy Policy
 
