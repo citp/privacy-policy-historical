@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emiratesgroupcareers.com privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201101733id_/http%3A//emiratesgroupcareers.com/system/ASPX/Link.aspx%3FID%3Dtcm%3A401-395414) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emiratesgroupcareers.com privacy policy that was archived on 2011-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110603020755id_/http%3A//www.emiratesgroupcareers.com/system/ASPX/Link.aspx%3FID%3Dtcm%3A401-395414) for the most accurate reproduction.*
 
 # Privacy Policy | Emirates Group Careers Centre
 
