@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the haohaoreport.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203043653id_/http%3A//www.haohaoreport.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the haohaoreport.com privacy policy that was archived on 2011-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110603193933id_/http%3A//www.haohaoreport.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Hao Hao Report
 
