@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the e-platinumplus.co.uk privacy policy that was archived on 2010-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101210080258id_/http%3A//post.securecbs.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e-platinumplus.co.uk privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604010215id_/http%3A//post.securecbs.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy UK
 
@@ -12,7 +12,7 @@
 
 ## Privacy Policy (CBS Marketing Network Sites)
 
-This page sets forth the privacy policies and practices of Credit Benefit Services, LLC (“CBS”) and its wholly owned websites. Please read this privacy policy carefully since by visiting a CBS site and sharing information with one our companies you agree to be bound by the terms and conditions of this Privacy Policy unless you offer different terms which are accepted by CBS in writing. 
+This page sets forth the privacy policies and practices of Credit Benefit Services, LLC ("CBS") and its wholly owned websites. CBS is a credit intermediary and does not exclusively represent any single lender. Please read this privacy policy carefully since by visiting a CBS site and sharing information with one our companies you agree to be bound by the terms and conditions of this Privacy Policy unless you offer different terms which are accepted by CBS in writing. 
 
   
 
@@ -43,7 +43,7 @@ When a consumer responds to or views an Internet advertisement served by a CBS c
 
 The function of these Cookies is to provide CBS with information for the purpose of paying third-parties commissions when an Internet user clicks on a link, creates a lead, or makes a purchase on an advertiser's Web site; and also to optimize and personalize the Internet user's experience. If the Internet user re-visits the advertiser's site directly, CBS is able to continue to track the user's activities on the advertiser's site and reward the third-party Web site that referred the user. We reserve the right to retain all ad delivery and reporting data as long as may be reasonably necessary for accounting and audit purposes.
 
-Like most standard Web site servers, we use log files to collect Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, platform type, and date/time stamp. We use the information to analyze site usage, administer the site, understand usage and navigation trends in aggregate, and determine the relevance of content. This information, however, is not linked to any personally identifiable information.
+Like most standard Web site servers, we use log files to collect Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, platform type, and date/time stamp. We use the information to analyze site usage, administer the site, understand usage and navigation trends in aggregate, and determine the relevance of content.
 
 We also may use Internet browsing and online purchase data associated with an anonymous identifier to develop a predictive statistical user profile of the end user's needs and interests. CBS does not use Cookies or log files to collect end user's names, physical addresses, email addresses, phone numbers, credit card numbers, NIN, social security numbers, or any other information which can be used to identify a specific person. We may match the IP address and user profile with email address data obtained separately in order to better target campaigns to meet user's interests, but will not share this information with third parties.
 
@@ -62,7 +62,9 @@ CBS and/or our marketing partners may enhance and/or merge PI about consumers wh
 
 CBS may share PI (including information that has been enhanced with information from other sources) with advertisers, agents, processors, sub-contractors, third party marketers, our affiliated entities for their online and/or offline marketing programs or in connection with the sale, merger, consolidation, change in control, transfer of substantial asset, reorganization or liquidation of any of CBS companies. While CBS strongly encourages clients and partners to adopt responsible approaches to online marketing, CBS is not responsible for the information practices of clients or their partners. The collection, use, and disclosure of information by clients and partners are subject to their respective privacy policies, which may differ from CBS's policy.
 
-CBS may release account and any other personal information when we believe release is appropriate to respond to a subpoena or otherwise comply with the law; enforce or apply our [Terms of Use](http://post.securecbs.com/terms.html) and other agreements; or protect the rights, property, or safety of CBS or others. This includes exchanging information with other companies and organizations for fraud protection. 
+CBS may release account and any other personal information when we believe release is appropriate to respond to a subpoena or otherwise comply with the law; enforce or apply our [Terms of Use](http://post.securecbs.com/terms.html) and other agreements; or protect the rights, property, or safety of CBS or others. This includes exchanging information with other companies and organizations for fraud protection.
+
+If false or inaccurate information is provided, including in relation to a person.s identity and fraud is identified, details about this information, including customer Personal Data, will be passed to fraud prevention agencies. Law enforcement agencies may access and use this information. The lender and other organisations may also access and use this information to prevent fraud and money laundering, for example when: checking details on applications for credit and credit related and other facilities; managing credit and credit related accounts or other facilities; recovering debt; checking details on proposals and claims for all types of insurance; and checking details of job applicants and employees. The lender and other organisations may access and use from other countries the information recorded by fraud prevention agencies. For further details of the relevant fraud prevention agencies please contact us as described at the end of this Privacy Policy. 
 
   
 
@@ -138,7 +140,7 @@ YOU UNDERSTAND AND AGREE THAT ANY DISPUTE OVER PRIVACY IS SUBJECT TO THE TERMS A
 
 **CONTACT US**
 
-For more information or if you have questions or concerns regarding the CBS Privacy Policy, please contact us at [legal@creditbenefitservices.com](mailto:legal@creditbenefitservices.com) or you can send correspondence to the following address: Privacy, CBS, 1635 Old 41 Hwy NW, Suite 112-211, Kennesaw, GA 30152, USA.
+For more information or if you have questions or concerns regarding the CBS Privacy Policy, please contact us at [legal@creditbenefitservices.com](mailto:legal@creditbenefitservices.com) or you can send correspondence to the following address: Privacy, CBS, 2451 Cumberland Parkway, Suite 3231, Atlanta, GA 30339-6157, USA.
 
   
 
@@ -224,7 +226,7 @@ YOU UNDERSTAND AND AGREE THAT ANY DISPUTE OVER PRIVACY IS SUBJECT TO THE TERMS A
 
 ## **IX. CONTACT US**
 
-For more information or if you have questions or concerns regarding the CBS Privacy Policy, please contact us at [legal@creditbenefitservices.com](mailto:legal@creditbenefitservices.com) or you can send correspondence to the following address: Privacy, CBS, 1635 Old 41 Hwy NW, Suite 112-211, Kennesaw, GA 30152, USA.
+For more information or if you have questions or concerns regarding the CBS Privacy Policy, please contact us at [legal@creditbenefitservices.com](mailto:legal@creditbenefitservices.com) or you can send correspondence to the following address: Privacy, CBS, 2451 Cumberland Parkway, Suite 3231, Atlanta, GA 30339-6157, USA.
 
 * The agreements linked from this page are to the standard agreements. If you have entered into a custom agreement with the Company, then the references here are to be interpreted as referring to such custom agreement.
 
