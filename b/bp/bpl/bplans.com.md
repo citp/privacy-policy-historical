@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bplans.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224071047id_/http%3A//www.bplans.com/c/ps.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bplans.com privacy policy that was archived on 2011-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110603090924id_/http%3A//www.bplans.com/c/ps.cfm) for the most accurate reproduction.*
 
 # Privacy Policy - Bplans.com
 
@@ -6,7 +6,7 @@
 
 [](https://www.truste.org/validate/3759)
 
-This confirms that Palo Alto Software is a licensee of the TRUSTe Privacy Program. This privacy statement discloses the privacy practices for [paloalto.com](http://www.paloalto.com/?affiliate=1000ventur), [bplans.com](http://www.bplans.com/), [mplans.com](http://www.mplans.com/), [secureplan.com](http://www.secureplan.com/), and all other web sites owned and opperated by Palo Alto Software, Inc. TRUSTe is an independent, non profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because this website wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, this website has agreed to notify you of:
+This confirms that Palo Alto Software is a licensee of the TRUSTe Privacy Program. This privacy statement discloses the privacy practices for [paloalto.com](http://www.paloalto.com/?affiliate=pas), [bplans.com](http://www.bplans.com/), [mplans.com](http://www.mplans.com/), [secureplan.com](http://www.secureplan.com/), and all other web sites owned and opperated by Palo Alto Software, Inc. TRUSTe is an independent, non profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because this website wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, this website has agreed to notify you of:
 
   1. What personally identifiable information of yours or a third party is collected through the website.
   2. The organization collecting the information. 
