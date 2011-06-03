@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the assh.org privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203040437id_/http%3A//www.assh.org/pages/ASSHPrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the assh.org privacy policy that was archived on 2011-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110603201721id_/http%3A//www.assh.org/pages/ASSHPrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # American Society for Surgery of the Hand (ASSH) Privacy Policy
+
+ASSH
 
 In an effort to maintain efficient service while respecting the privacy of ASSH website visitors, ASSH has created and posted the following privacy policy. 
 
@@ -34,3 +36,6 @@ ASSH
 Rosemont, IL 60018  
 Telephone: (847) 384-8300  
 Fax : (847) 384-1435 
+
+|   |  |   |   
+---|---|---|---|---
