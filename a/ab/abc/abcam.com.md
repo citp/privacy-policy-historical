@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the abcam.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130103517id_/http%3A//www.abcam.com/index.html%3Fpageconfig%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abcam.com privacy policy that was archived on 2011-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110603142507id_/http%3A//www.abcam.com/index.html%3Fpageconfig%3Dprivacy) for the most accurate reproduction.*
 
-# Abcam's Privacy Policy
+# Privacy policy | Abcam
 
 ### Introduction
 
@@ -14,11 +14,11 @@ When you browse the Abcam website, we establish a minimal "user profile" for you
 
 Creating an account with us means we can personalize your use of the website and contact you with information that we believe will help you with your research i.e. new and updated products related to your interests, or new services that Abcam is offering. 
 
-You can update your account details by clicking on the 'login / register' link at the top of any page, including configuring the nature of contact from Abcam. 
+You can update your account details by clicking on the 'sign in or register' links at the top of any page, including configuring the nature of contact from Abcam. 
 
 ### Information we collect for ordering
 
-If you place an order with Abcam, we ask you to login or create an account and then prompt you for address and contact details that will allow us to accurately fulfil and invoice you for the items you order. Except for credit card details that you may provide, we will record this information into your user profile so that next time you order you do not have to re-enter these details. Should you wish to review details of an order placed with us, you can see these by logging into your account. 
+If you place an order with Abcam, we ask you to sign in or create an account and then prompt you for address and contact details that will allow us to accurately fulfil and invoice you for the items you order. Except for credit card details that you may provide, we will record this information into your user profile so that next time you order you do not have to re-enter these details. Should you wish to review details of an order placed with us, you can see these by logging into your account. 
 
 ### Personally identifiable information
 
