@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the bushdvd.com privacy policy that was archived on 2010-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100106113215id_/http%3A//www.bushdvd.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bushdvd.com privacy policy that was archived on 2011-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110603145440id_/http%3A//www.bushdvd.com/privacy.asp) for the most accurate reproduction.*
 
 # Movie Rental XXX - Rent XXX DVDs Online - Adult Videos for Rent
 
-[](http://www.truste.org/ivalidate.php?url=www.bushdvd.com&sealid=101)
+[](http://privacy-policy.truste.com/click-with-confidence/ctv/en/www.bushdvd.com/seal_m "Validate TRUSTe privacy certification")
 
 Effective Date: 09/12/2007 
 
-NoCash, Inc. is a licensee of the TRUSTe Web Privacy Seal Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site [www.bushdvd.com](http://www.bushdvd.com/). Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
-
-If you have questions or concerns regarding this statement, you should first contact Jason Holt at [customerservice@bushdvd.com](mailto:customerservice@bushdvd.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php> TRUSTe will then serve as a liaison with us to resolve your concerns. 
+NoCash, Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact Jason Holt at [customerservice@bushdvd.com](mailto:customerservice@bushdvd.com). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint&url=http://www.bushdvd.com). 
 
 Personal Information  
 We do NOT collect any personal information about you except your name, mailing and shipping address, credit card information, and e-mail address. We collect this information to register our users for an account and through our "Contact Us" form so we can reply to inquiries from our customers. Also this information is collected on our Affiliate registration page along with the prospective affiliate's social security number or Tax ID number depending on which applies. 
