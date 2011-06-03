@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the www-answers.com privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201220834id_/http%3A//www.www-answers.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the www-answers.com privacy policy that was archived on 2011-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110603153651id_/http%3A//www-answers.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Www Answers Games
 
-This privacy policy describes how we treat personal information when you visit and/or use www-answers.com (also referred to as the site, the website). If you have any questions or concerns regarding this privacy policy, please do not hesitate to [contact us](https://web.archive.org/web/20101201220834id_/http%3A//www.www-answers.com/contact.html).
+This privacy policy describes how we treat personal information when you visit and/or use www-answers.com (also referred to as the site, the website). If you have any questions or concerns regarding this privacy policy, please do not hesitate to [contact us](https://web.archive.org/web/20110603153651id_/http%3A//www-answers.com/contact.html).
 
 **Automatically logged information**
 
