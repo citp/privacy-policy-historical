@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the storesonlinepro.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203013612id_/http%3A//www.storesonlinepro.com/store/1234/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the storesonlinepro.com privacy policy that was archived on 2011-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110603193017id_/http%3A//www.storesonlinepro.com/store/1234/privacy-policy) for the most accurate reproduction.*
 
 # StoresOnline - Privacy Policy
 
@@ -19,7 +19,7 @@ StoresOnline, Inc. does not sell, rent or trade your e-mail address to third par
 
 
 **Use of Cookies:**  
-StoresOnline, Inc. uses a browser feature known as a cookie, which assigns a unique identification to your computer. Cookies also allow Volusion, Inc. to make our sites more responsive to your needs, by delivering a better and more personalized experience to you. The cookies are typically stored on your computer's hard drive and are used by StoresOnline, Inc. to help track your clicks as you go through the pages within an StoresOnline, Inc. Web site. In addition, StoresOnline, Inc. uses cookies to help keep track of support requests and to tell us whether you have previously visited an Volusion, Inc. website. This allows registered users to avoid reentering information upon every new visit to our site.   
+StoresOnline, Inc. uses a browser feature known as a cookie, which assigns a unique identification to your computer. Cookies also allow StoresOnline, Inc. to make our sites more responsive to your needs, by delivering a better and more personalized experience to you. The cookies are typically stored on your computer's hard drive and are used by StoresOnline, Inc. to help track your clicks as you go through the pages within an StoresOnline, Inc. Web site. In addition, StoresOnline, Inc. uses cookies to help keep track of support requests and to tell us whether you have previously visited an StoresOnline, Inc. website. This allows registered users to avoid reentering information upon every new visit to our site.   
 
 
 **Updating Personal Information:**  
@@ -27,7 +27,7 @@ We prefer to keep your personal information accurate and up-to-date. To do this,
 
 
 **Use of Forums / Discussion Boards:**  
-None of the information contained on our Website is medical, legal, business, or other advice or opinion of StoresOnline, Inc. Any opinion expressed via this service is that of its author. Users are reminded that postings are automatic, instantaneous, and are not pre-reviewed. Additional facts and information on legal or other developments may affect the subjects discussed. Confidential information should not be discussed. Volusion, Inc. assumes no responsibility for the content or consequences, direct or indirect, of communications by users.  
+None of the information contained on our Website is medical, legal, business, or other advice or opinion of StoresOnline, Inc. Any opinion expressed via this service is that of its author. Users are reminded that postings are automatic, instantaneous, and are not pre-reviewed. Additional facts and information on legal or other developments may affect the subjects discussed. Confidential information should not be discussed. StoresOnline, Inc. assumes no responsibility for the content or consequences, direct or indirect, of communications by users.  
 
 
 **Links:**  
