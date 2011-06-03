@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foodchannel.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218190910id_/http%3A//www.foodchannel.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodchannel.com privacy policy that was archived on 2011-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110603020542id_/http%3A//www.foodchannel.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy on The Food Channel®
 
@@ -28,7 +28,7 @@ If a User includes such User’s personally identifiable information as part of 
 
 ### Security of Information
 
-Information about Users that is maintained on Food Channel’s systems is protected using industry standard security measures. However, Food Channel cannot guarantee that the information submitted to, maintained on or transmitted from its systems will be completely secure. Users should please email Food Channel at [info@foodchannel.com](http://mce_host/admin/cms/page/8/edit-plugin/8/info@foodchannel.com) if they would like their information updated or removed from Food Channel’s systems.
+Information about Users that is maintained on Food Channel’s systems is protected using industry standard security measures. However, Food Channel cannot guarantee that the information submitted to, maintained on or transmitted from its systems will be completely secure. Users should please email Food Channel at [info@foodchannel.com](mailto:info@foodchannel.com) if they would like their information updated or removed from Food Channel’s systems.
 
 ### Correcting/Updating Personal Information
 
