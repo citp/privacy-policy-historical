@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carolwrightgifts.com privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202025825id_/http%3A//www.carolwrightgifts.com/content/index.cfm%3Ffuseaction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carolwrightgifts.com privacy policy that was archived on 2011-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110603053244id_/http%3A//www.carolwrightgifts.com/content/index.cfm%3Ffuseaction%3Dprivacy) for the most accurate reproduction.*
 
 # CarolWrightGifts.com | Privacy Policy
 
