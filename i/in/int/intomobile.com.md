@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intomobile.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231045803id_/http%3A//www.intomobile.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intomobile.com privacy policy that was archived on 2011-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110603131739id_/http%3A//www.intomobile.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
