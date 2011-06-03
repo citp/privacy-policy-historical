@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the depressionforums.org privacy policy that was archived on 2010-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100712222120id_/http%3A//www.depressionforums.org/forums/depression-Forums-Privacy-Policy-t10928.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the depressionforums.org privacy policy that was archived on 2011-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110603135810id_/http%3A//www.depressionforums.org/forums/depression-Forums-Privacy-Policy-t10928.html) for the most accurate reproduction.*
 
-# Depression Forums Privacy Policy - Depression Forums - Depression & Mental Health Social Community Support Group
+# The Depression Forums Privacy Policy - The Depression Forums - A Depression & Mental Health Social Community Support Group
 
-**_Privacy Policy_**
+**Privacy Policy**
 
 If you do nothing during your visit but browse through our web site, do searches, read pages, or download information, we will automatically gather and store certain information about your visit. This information does not identify you personally. No information about users/visitors will be sold, shared, or utilized in any commercial way. We automatically collect and store only the following information about your visit:
 
@@ -15,12 +15,13 @@ IP address (an IP address is a number that is automatically assigned to your com
 6\. if you linked to this site from another web site, the address of that web site.
 
 We use this information to help us make our site more useful to visitors -- to learn about the number of visitors to our site, what part of the site they are interested in, how long they use the site, and the types of technology our visitors use.   
-WE DO NOT TRACK OR RECORD INFORMATION ABOUT THE IDENTITY OF INDIVIDUALS AND THEIR VISITS.  
- **  
+**We do not track or record information about the identity of individuals and their visits.**  
+**  
 When you signed up as a member of this Forum you were asked to select a member name of your choosing. These names guarantee your anonymity. Look around. Not only are so many names non descriptive, many are quite creative and humorous.  
-The search engines on the internet cannot in no uncertain terms identify you unless you give your real name and not hide your email address as we suggest.**
+The search engines on the internet cannot in no uncertain terms identify you unless you give your real name and not hide your email address as we suggest.  
+_Please do not continue to use the same user name as you have chosen for other sites!_ This will guarantee your privacy.**
 
- **In addition to your member name, you were asked to supply a password. That has no identifying properties.**
+**In addition to your member name, you were asked to supply a password. That has no identifying properties.**
 
 Lastly you were asked to provide an e-mail address so that we could verify the registration through the procedure described above. That e-mail address is securely stored in our files. That's it guys. Those are the only 3 pieces of identification we require of you.
 
@@ -33,11 +34,11 @@ We don't know your address, your phone number or your social security number or 
 
 Since this is an open and public Forum, there is always the slight possibility that individuals or companies are combing this Forum for their own statistical purposes. We would have no knowledge of that and we truly have no way to stop them. However, even if that were the case, all they could do is tally information in mass to come up with patterns or general insights. You are not an identifiable person on this Forum. You could become a statistic of some analysis, but surely you can see that **your real identity is always and automatically protected since it simply DOES NOT EXIST HERE on our Forums.**
 
- _ **There is no Computer Tracking of Identifiable Information.** _
+**There is no Computer Tracking of Identifiable Information.**
 
 Our Web site does not track, collect or distribute personal information about individual visitors. We regularly compile aggregate statistics (Cookies) that show the number of visitors to our site, the requests we receive for particular information on our Web site, and the Internet Protocol (IP) number that those requests come from. These aggregated statistics may be used by DepressionForums.org to improve the Web site in an ongoing effort to provide better information and services to you. 
 
-**Cookies**
+**About Cookies**
 
 Depression Forums, Inc. is dedicated to protecting the privacy of our visitors and to ensure that our information is accurate, complete, and up-to-date. To be useful we must gain and earn the trust and confidence of our members and visitors. Therefore, with the help of Administration and Members alike, we strive to maintain the highest possible level of integrity. Our principals are based on the best codes of practice and ethical standards. We invite suggestions on how we can do better.
 
@@ -49,9 +50,9 @@ In connection with your use of our site, we ask for and may collect a variety of
 
 You may set your web browser to notify you of cookie placement requests or decline cookies completely. In addition, you can delete the files that contain cookies; those files are stored as part of your Internet browser, however, if you delete cookies that have been sent from our site, this will cause you to reenter data (e.g. login again).
 
- **Advertisments**
+**About Advertisments**
 
- **DEPRESSIONFORUMS.ORG is a private, all volunteer message board.  
+**DEPRESSIONFORUMS.ORG is a private, all volunteer message board.  
 We rely primarily on donations or subscriptions to maintain these forums.   
 [ Your Help ](http://www.depressionforums.org/forums/Donating-Depressionforumsorg-Sponsor-t10361.html)**   
 Any member who continues to post, send PMs and actively use this free service understands that they do so under Our [ **Terms of Service**](http://www.depressionforums.org/forums/Forums-Terms-Service-TOS-and-FAQ-f7.html)
@@ -64,11 +65,12 @@ To make up the shortfall, Depressionforums.org accepts ads from advertising agen
 If you look at the larger sites you will notice similar ads. If you do not wish to see the ads, you may take out a subscription for a nominal price.  
 We appreciate your understanding and wish you all the very best, as we know you do DF. **[Sponsor](http://www.depressionforums.org/forums/Donating-Depressionforumsorg-Sponsor-t10361.html)**
 
- **Sincerely,
+**Sincerely,**
 
-The Depression Forums Administration  
-Depression Forums, Inc.
-
-**
+ **The Depression Forums Administration  
+Depression Forums, Inc.**
 
 Reviewed Nov 9, 2009 by Forum Admin 
+
+  
+
