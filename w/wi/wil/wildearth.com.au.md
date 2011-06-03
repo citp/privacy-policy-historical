@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wildearth.com.au privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201191404id_/http%3A//www.wildearth.com.au/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wildearth.com.au privacy policy that was archived on 2011-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110603045356id_/http%3A//www.wildearth.com.au/privacy.php) for the most accurate reproduction.*
 
 # Wildearth - Camping Equipment, camping gear, hiking gear, swags and hiking equipment specialists
 
