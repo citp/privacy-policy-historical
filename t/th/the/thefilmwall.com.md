@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thefilmwall.com privacy policy that was archived on 2010-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100605153511id_/http%3A//www.thefilmwall.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefilmwall.com privacy policy that was archived on 2011-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110603195414id_/http%3A//www.thefilmwall.com/privacy-policy) for the most accurate reproduction.*
 
 # Watch Free Full Movies Online|Links at The Film Wall | Privacy Policy
 
@@ -6,15 +6,13 @@ Watch Free Movies Online, Download, Buy Full Movies
 
 [](http://www.thefilmwall.com/ "free movies")
 
-### TFW or thefilmwall is a social website to get links to watch free movies online. We grow with your contributions of movies links. You can upload and share movies links to your favorite movies. We try to include a film wall for each movie, however, if we have missed any, please request that in support. Do drop us a line(support form), we love to hear from you. 
+### TFW or thefilmwall is a social website to get links to watch free movies online. We grow with your contributions of movies links. You can upload and share movies links to your favorite movies. We try to include a film wall for each movie, however, if we have missed any, please request that in support. Do drop us a line(support form), we love to hear from you.
 
   
 
 
   
 
-
-## Privacy Policy
 
 Posted On: December 2, 2009  
 
