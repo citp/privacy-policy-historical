@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airchina.us privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130221040id_/http%3A//airchina.us/en/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airchina.us privacy policy that was archived on 2011-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110603101840id_/http%3A//www.airchina.us/en/privacy.html) for the most accurate reproduction.*
 
 # Air China International
 
@@ -69,7 +69,7 @@ In addition to obtaining your personal information, when you use our site, we ma
 * * *
 
 **Children**  
-This web site is not directed at children and we do not knowingly collect information from children under the age of 13.   If we should learn that we have received personal information from a child under 13 years of age we will take reasonable steps to delete this information.  A parent or guardian who believes we may have received personal information from their child should email us at [Privacy@mail.airchina.com.cn](mailto:Privacy@mail.airchina.com.cn) to remove the information or unsubscribe from any promotional contact opportunities.
+This web site is not directed at children and we do not knowingly collect information from children under the age of 13.   If we should learn that we have received personal information from a child under 13 years of age we will take reasonable steps to delete this information.  A parent or guardian who believes we may have received personal information from their child should email us at [Privacy@airchina.com](mailto:Privacy@airchina.com) to remove the information or unsubscribe from any promotional contact opportunities.
 
 * * *
 
@@ -105,9 +105,9 @@ Please note that the Air China Privacy Policy does not cover these other website
 * * *
 
 **Your rights**  
-If you have explicitly consented through our web site, we will, from time to time, use your data to deliver materials about products or services of Air China (and other selected third parties, including Air China ancillary travel and promotion partners) which may be of interest to you by e-mail. You have the right to ask us not to process your data for marketing purposes. You can exercise your right to prevent such processing by informing us through the opt-out boxes on the forms we use to collect your data or at any time thereafter by e-mailing [Privacy@mail.airchina.com.cn](mailto:Privacy@mail.airchina.com.cn).
+If you have explicitly consented through our web site, we will, from time to time, use your data to deliver materials about products or services of Air China (and other selected third parties, including Air China ancillary travel and promotion partners) which may be of interest to you by e-mail. You have the right to ask us not to process your data for marketing purposes. You can exercise your right to prevent such processing by informing us through the opt-out boxes on the forms we use to collect your data or at any time thereafter by e-mailing [Privacy@airchina.com](mailto:Privacy@airchina.com).
 
-For the avoidance of doubt, you may at any time object to our use of your data by sending an email to [Privacy@mail.airchina.com.cn](mailto:Privacy@mail.airchina.com.cn).
+For the avoidance of doubt, you may at any time object to our use of your data by sending an email to [Privacy@airchina.com](mailto:Privacy@airchina.com).
 
 If you are an existing Air China customer, we will only contact you by e-mail with materials about products or services similar to those which have been previously provided to you (unless you consent to receiving e-mails about other products or services by ticking the relevant box situated on the form when we collect your data).
 
@@ -136,12 +136,12 @@ Air China takes your data security very seriously. In addition to complying with
 
 Although your privacy is very important to us, due to the existing legal regulatory and security environment, we cannot fully ensure that your personal information will not be disclosed to third parties. "Perfect security," does not exist on the Internet and under certain circumstances, unauthorized parties may unlawfully intercept or access transmissions or private communications.
 
-If we learn of a security systems breach we may attempt to notify you electronically so that you can take appropriate protective steps. By using this web site or providing personal information to us you agree that we can communicate with you electronically regarding security, privacy and administrative issues relating to your use of this web site. We may post a notice on our web site if a security breach occurs. We may also send an email to you at the email address you have provided to us in these circumstances. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us at [Privacy@mail.airchina.com.cn](mailto:Privacy@mail.airchina.com.cn).
+If we learn of a security systems breach we may attempt to notify you electronically so that you can take appropriate protective steps. By using this web site or providing personal information to us you agree that we can communicate with you electronically regarding security, privacy and administrative issues relating to your use of this web site. We may post a notice on our web site if a security breach occurs. We may also send an email to you at the email address you have provided to us in these circumstances. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us at [Privacy@airchina.com](mailto:Privacy@airchina.com).
 
 * * *
 
 **Contacting Us**  
-If you have other questions, comments or concerns about our privacy practices, please contact us at [Privacy@mail.airchina.com.cn](mailto:Privacy@mail.airchina.com.cn). Please also contact us at this address if you wish to receive a written copy of this Privacy Statement.
+If you have other questions, comments or concerns about our privacy practices, please contact us at [Privacy@airchina.com](mailto:Privacy@airchina.com). Please also contact us at this address if you wish to receive a written copy of this Privacy Statement.
 
 Our full name, address, phone number, corporate identity number and e-mail address are as follows:
 
@@ -163,11 +163,11 @@ Our full name, address, phone number, corporate identity number and e-mail addre
 **Access to Information**  
 Air China provides you reasonable access to information held about you by us. Please contact us, with appropriate proof of your identity, at the e-mail or address below if you wish to make such a request. 
 
-You may delete or rectify any inaccurate information about you by sending us a written request to [privacy@mail.airchina.com.cn](mailto:privacy@mail.airchina.com.cn). You may also have the right to object, on compelling legitimate grounds, to the processing of your personal data by sending us a written request to the same address.
+You may delete or rectify any inaccurate information about you by sending us a written request to [privacy@airchina.com](mailto:privacy@airchina.com). You may also have the right to object, on compelling legitimate grounds, to the processing of your personal data by sending us a written request to the same address.
 
 * * *
 
 **Privacy Modification**  
 Air China reserves the right to amend this Privacy Policy from time to time and the updated versions will be posted on our website and date stamped so that you are aware of when the Privacy Policy was last updated.
 
-This policy was last updated on 03 April, 2009.
+This policy was last updated on 23 December, 2010.
