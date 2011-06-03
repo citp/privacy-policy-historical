@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pp2g.com privacy policy that was archived on 2009-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091215171201id_/http%3A//www.partypeeps2000.com/info/cmsi/PrivacyStatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pp2g.com privacy policy that was archived on 2011-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110603191825id_/http%3A//www.pp2g.com/Info/info/privacystatement) for the most accurate reproduction.*
 
-# Info | Privacy Statement
+# Privacy Statement
 
 PartyPeeps2000.com is dedicated to providing visitors with a highly interactive and personalized experience, while at the same time protecting users from any unexpected use of personally identifiable information (your name, e-mail address, telephone number).  
 Like other Web publishers, we collect information from users in order to deliver more individualized content and advertising to them, but we do so only within the guidelines in this policy.
@@ -41,3 +41,73 @@ Users should check the applicable privacy policies of those third parties when p
 The foregoing policy is effective as of October 1, 2001.  
 PartyPeeps2000.com reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of the sites following the posting of changes to these terms will mean you accept those changes.  
 This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
+
+  * [NEWS](https://web.archive.org/News)
+    * [News](https://web.archive.org/Newss/1)
+    * [Search](https://web.archive.org/Search/News)
+    * [Archive](https://web.archive.org/Newss/2)
+    * [Submit](https://web.archive.org/News/news/newssubmitpage)
+    *  
+    * [Interviews](https://web.archive.org/Interviews/1)
+    * [Search](https://web.archive.org/Search/Interview)
+  * [EVENTS](https://web.archive.org/Events)
+    * [Events Agenda](https://web.archive.org/Events/Agenda)
+    * [Events Submit](https://web.archive.org/Events/events/submitevent)
+    *  
+    * [Locations](https://web.archive.org/Locations/1)
+    * [Search](https://web.archive.org/Search/Location)
+    *  
+    * [Promotors](https://web.archive.org/Promotors/1)
+    * [Booking Offices](https://web.archive.org/BookingOffices/1)
+  * [MEDIA](https://web.archive.org/Pictures/1)
+    * [Pictures](https://web.archive.org/Pictures/1)
+    * [Picture Charts](https://web.archive.org/Pictures/Charts-201106-1)
+    * [Search](https://web.archive.org/Search/MediaPicture)
+    *  
+    * [PP2G.TV Videos](https://web.archive.org/Videos/1)
+  * [FUN](https://web.archive.org/Releases/1)
+    * [Releases](https://web.archive.org/Releases/1)
+    * [Search](https://web.archive.org/Search/Release)
+    * [Archive](https://web.archive.org/Releases/Archive/1)
+    * [Submit](https://web.archive.org/Fun/release/releasesubmitpage)
+    *  
+    * [Artists](https://web.archive.org/Artists/1)
+    * [Labels](https://web.archive.org/Publishers/1)
+    *  
+    * [Contests](https://web.archive.org/Contests/1)
+  * [MEMBERS](https://web.archive.org/LoggedInMembers/1)
+    * [Search](https://web.archive.org/Search/Member)
+    * [Lucky Shot](https://web.archive.org/LuckyShot)
+    * [New Members](https://web.archive.org/NewMembers/1)
+    * [Last Logged In Members](https://web.archive.org/LoggedInMembers/1)
+    * [Birthdays](https://web.archive.org/Birthdays/1)
+    * [Deluxe Members](https://web.archive.org/Deluxe/1)
+    * [Rankings](https://web.archive.org/Rankings)
+    *  
+    * [Forum](https://web.archive.org/Forum)
+    * [Active Topics](https://web.archive.org/Forum/ActiveTopics)
+    * [Search](https://web.archive.org/Search/Forum)
+    *  
+    * [Polls](https://web.archive.org/Polls/1)
+    * [Search](https://web.archive.org/Search/Poll)
+    *  
+  * [SHOP](https://web.archive.org/)
+    *  
+    * [Hotgear Shop](https://web.archive.org/Shop)
+  * [INFO](https://web.archive.org/Info)
+    * [About Us](https://web.archive.org/Info)
+    * [Partners](https://web.archive.org/Info/info/partners)
+    *  
+    * [Contact](https://web.archive.org/Info/info/contact)
+    *  
+    * [Privacy Statement](https://web.archive.org/Info/info/privacystatement)
+    * [Terms Of Service](https://web.archive.org/Info/info/termsofservice)
+    *  
+    * [Faq](https://web.archive.org/Info/faq/index)
+
+
+
+PP2G © 2000-2011 v3.2.192
+
+  
+
