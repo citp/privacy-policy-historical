@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thegloss.com privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202165628id_/http%3A//thegloss.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegloss.com privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604015028id_/http%3A//thegloss.com/privacy) for the most accurate reproduction.*
 
 # Privacy « : TheGloss - A gloss on beauty, fashion, style, love and more
 
