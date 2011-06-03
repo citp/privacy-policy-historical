@@ -1,10 +1,18 @@
-> *The following text is extracted and transformed from the erenterplan.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227060256id_/http%3A//www.erenterplan.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the erenterplan.com privacy policy that was archived on 2011-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110603232823id_/http%3A//www.erenterplan.com/privacy.aspx) for the most accurate reproduction.*
 
 # eRenterPlan - Privacy Policy
 
 [](http://www.truste.org/ivalidate.php?url=www.erenterplan.com&sealid=101)
 
-LeasingDesk Insurance Services is a licensee of the TRUSTe Web Privacy Seal Program.  TRUSTe is an independent organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices.  This Privacy Policy covers the www.eRenterPlan.com website.  Because this Website wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
+LeasingDesk Insurance Services has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at:
+
+LeasingDesk Insurance Services  
+Attention: Legal – Privacy Policy  
+36 Discovery, Suite 220  
+Irvine, CA 92618  
+[privacy@realpage.com.](mailto:privacy@realpage.com)
+
+If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). 
 
 This website is operated by Multifamily Internet Ventures, LCC (“MIV”), d/b/a LeasingDesk Insurance Services (“LDIS”).  This privacy policy (“Privacy Policy”) applies to the information that you provide to LDIS via the www.eRenterPlan.com Website where this Privacy Policy appears in the footer, and/or by use of other services (collectively, the “Services”) that may be provided by other means or media, including as set forth below.
 
