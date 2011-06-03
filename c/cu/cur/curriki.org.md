@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the curriki.org privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228112447id_/http%3A//www.curriki.org/xwiki/bin/view/Main/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the curriki.org privacy policy that was archived on 2011-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110603195033id_/http%3A//www.curriki.org/xwiki/bin/view/Main/PrivacyPolicy) for the most accurate reproduction.*
 
 # Curriki - PrivacyPolicy
 
