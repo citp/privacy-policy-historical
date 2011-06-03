@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the transportdirect.info privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206050212id_/http%3A//www.transportdirect.info/Web2/About/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the transportdirect.info privacy policy that was archived on 2011-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110603044917id_/http%3A//www.transportdirect.info/Web2/About/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # 
 
@@ -9,7 +9,7 @@
 
 ###### 1.  General
 
-1.1  Transport Direct is a division of the Department for Transport whose main contact address for the purpose of this Privacy Policy is Portal Service Team, Transport Direct, Department for Transport, 2nd Floor, 55 Victoria Street, LONDON, SW1H 0EU. (" **Transport Direct** ").   In the course of your use of the Transport Direct website located at www.TransportDirect.info (the " **Website** ") we will only collect your email address.   This Privacy Policy applies to the processing by Transport Direct of your email address.  By accessing and using the Website you are agreeing or have agreed to be bound by the Website Terms and this Privacy policy and you consent to Transport Direct holding, processing and transferring your email address as set out herein.   Transport Direct may at any time modify, recover, alter or update this Privacy Policy
+1.1  Transport Direct is a division of the Department for Transport whose main contact address for the purpose of this Privacy Policy is Portal Service Team, Transport Direct, Department for Transport, Zone 3/14, Great Minster House, 76 Marsham Street, LONDON, SWIP 4DR. (" **Transport Direct** ").   In the course of your use of the Transport Direct website located at www.TransportDirect.info (the " **Website** ") we will only collect your email address.   This Privacy Policy applies to the processing by Transport Direct of your email address.  By accessing and using the Website you are agreeing or have agreed to be bound by the Website Terms and this Privacy policy and you consent to Transport Direct holding, processing and transferring your email address as set out herein.   Transport Direct may at any time modify, recover, alter or update this Privacy Policy
 
   
 
