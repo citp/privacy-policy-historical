@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailyjournal.net privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130151211id_/http%3A//www.dailyjournal.net/view/page/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyjournal.net privacy policy that was archived on 2011-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110603052915id_/http%3A//www.dailyjournal.net/view/page/Privacy_Policy) for the most accurate reproduction.*
 
 # Daily Journal - Privacy Policy
 
