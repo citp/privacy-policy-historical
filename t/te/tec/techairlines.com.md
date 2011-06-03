@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techairlines.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231065859id_/http%3A//www.techairlines.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techairlines.com privacy policy that was archived on 2011-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110603145643id_/http%3A//www.techairlines.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - TechAirlines
 
