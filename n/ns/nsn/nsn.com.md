@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nsn.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130150643id_/http%3A//www.nokiasiemensnetworks.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nsn.com privacy policy that was archived on 2011-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110603232821id_/http%3A//www.nokiasiemensnetworks.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Nokia Siemens Networks
 
