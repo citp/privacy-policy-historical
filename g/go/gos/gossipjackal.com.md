@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gossipjackal.com privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202031425id_/http%3A//www.gossipjackal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gossipjackal.com privacy policy that was archived on 2011-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110603111527id_/http%3A//www.gossipjackal.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy » Gossip Jackal
 
