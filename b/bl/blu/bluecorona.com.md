@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bluecorona.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222103129id_/http%3A//www.bluecorona.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluecorona.com privacy policy that was archived on 2011-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110603101357id_/http%3A//www.bluecorona.com/privacy) for the most accurate reproduction.*
 
 # Blue Corona Privacy Policy | Blue Corona
 
