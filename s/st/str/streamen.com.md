@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the streamen.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125095005id_/http%3A//www.streamen.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streamen.com privacy policy that was archived on 2011-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110603083735id_/http%3A//www.streamen.com/privacy.html%3F) for the most accurate reproduction.*
 
 # Streamen - Privacy
 
@@ -53,5 +53,3 @@ c/o Ariel Secretaries Limited
 1st Flr, Office 102  
 P.O. Box 57528  
 3316 Limassol - Cyprus
-
-Streamen LIVE SEX CAM is the best quality live webcam available. Chat for free live 1-on-1 with these hotties, watch a show you'll never forget or join in on the action and let them see and hear you with our cam2cam feature! Streamen is the most popular live cam community featuring sexy amateurs and pornstars from all over the world.
