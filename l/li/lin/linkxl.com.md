@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linkxl.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219084745id_/http%3A//linkxl.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkxl.com privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604010909id_/http%3A//linkxl.com/privacy-policy) for the most accurate reproduction.*
 
 # Sell and Buy Links - Privacy Policy
 
