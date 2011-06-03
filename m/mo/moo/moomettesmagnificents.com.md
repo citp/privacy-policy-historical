@@ -1,12 +1,16 @@
-> *The following text is extracted and transformed from the moomettesmagnificents.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221104557id_/http%3A//moomettesmagnificents.com/blog/disclosure-policy/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moomettesmagnificents.com privacy policy that was archived on 2011-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110603101342id_/http%3A//moomettesmagnificents.com/blog/disclosure-policy/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement – Moomettes Magnificents | Connecticut Mom Blogger | CT New England | Baby Boomer Grandmom | WAHM Perspective | Consumer Blog
+# Privacy Statement – Moomettes Magnificents | Connecticut Mom Blogger | Grandparents and Grandchildren
 
 Effective Date:  December 15, 2007
 
 **PRIVACY STATEMENT**
 
 Your privacy is important to Moomette’s Magnificents.  This privacy statement provides information about the personal information that Moomette’s Magnificents collects, and the ways in which Moomette’s Magnificents uses that personal information.
+
+**Comment Policy:**
+
+**Rule No. 1. It’s my blog.** As sole author of this blog, I reserve the right to edit comments that I consider are spam, offensive in nature or not family-friendly.
 
 **Personal information collection**
 
