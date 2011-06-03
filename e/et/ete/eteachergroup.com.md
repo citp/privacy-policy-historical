@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eteachergroup.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215114225id_/http%3A//eteachergroup.com/eteacher-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eteachergroup.com privacy policy that was archived on 2011-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110603222214id_/http%3A//eteachergroup.com/eteacher-privacy-policy) for the most accurate reproduction.*
 
 # eTeacher Privacy Policy | eTeacher Online Language Academy
 
