@@ -1,47 +1,58 @@
-> *The following text is extracted and transformed from the workface.com privacy policy that was archived on 2009-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090607071155id_/http%3A//workface.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workface.com privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604003608id_/http%3A//workface.com/privacy-policy) for the most accurate reproduction.*
 
-# workface - where experience matters
+# Privacy Policy | Workface
 
-## Workface Privacy Policy
+## Our Commitment to Privacy
 
-### Our Commitment To Privacy
+We are committed to protecting your privacy online. Our pledge is to secure certain information that you provide us, and to make every reasonable effort to use this information only as you choose. We are pleased to take a leadership role in assisting our customers and other businesses in understanding the importance of using your personal information appropriately.
 
-At Workface Inc., we are committed to protecting your privacy online. Our pledge is to secure certain personal information that you provide us, and to make every reasonable effort to use this information only as you choose. We at workface are pleased to take a leadership role in assisting our customers and other businesses in understanding the importance of using your personal information appropriately.
+## Cookies and Personal Information
 
-Workface collects personal information online when:
+Cookies (small bits of information that websites send to your computer) are used in our system to allow users to login faster. You can turn off this feature in your browser, but be aware that disabling your cookies may adversely affect performance on and could even cause some site features to work incorrectly. 
+
+When you visit we collect data from your computer. This data can include your IP address, browser type, the pages you view on Workface, referring URL and date/time information. The primary use of this information is to deliver you an optimal experience on our site, and help guide future website development.
+
+Shared objects (sometimes referred to as Flash cookies) may be used in identifying your computer and associating you to where your Workface resides on the internet. In addition, when you digitally “pass” your Workface we may use such shared objects to recognize you, although we do so with unique tokens. You can modify the Settings Manager here: <http://macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>. 
+
+We collect personal information online when:
 
   * you register with us
   * you register to receive emails
   * you conduct online transactions
   * you submit questions or comments to us
+  * you submit questions or information to other users
   * you request information or materials
-  * you participate in online projects
+  * you participate in online communications
   * you request we send information
+  * you are logged in and view other profiles
 
 
 
-Workface uses the personal information you provide to:
+We use the personal information you provide to:
 
-  * register you in registration and email programs
-  * create and maintain accounts
-  * process, fulfill, and follow up on site processes
-  * answer your e-mail
-  * send information you request
+  * Register you in the registration and email programs, create and maintain accounts process, fulfill, and follow up on site processes, answer your e-mail and send information.
+  * Provide you with information related to your account, the products or services you use, to better understand your needs and interests, to improve our service and to personalize communications.
+  * Deliver the Workface profile. In most cases, this includes the information you have chosen to display, including, but not limited to, first and last name, company, job title, phone number, fax number, email address, street/city/state/postal address, biographical data, and other information necessary in making it easy for potential customers to both understand and reach out to you.
 
 
 
-We also use this personal information to provide you with information related to your account, the products or services you use, to better understand your needs and interests, to improve our service and to personalize communications.
+## Sharing Your Information
 
-### Sharing Your Personal Information
+Workface has been designed to maintain and distribute your professional identity.   
+Workface has been designed to for commercial purposes only. We advise against using it to store personal information. Nevertheless, we will not sell, rent, or trade the information you provide online unless you permit us to do so. We do share your information with certain business clients and partners as part of the product or service offering of the company and your participation therein. We may disclose information to third parties without your consent for any of the following reasons: to comply with any law, regulation or court order, to cooperate with Government investigations, to help prevent fraud or to enforce or protect the rights of , a service of Workface Inc., its divisions, or its subsidiaries. We reserve the right to transfer your information in connection with the sale or transfer of all or a portion of our business or assets. If the business is sold or transferred, we may give you an opportunity to tell us not to transfer your information. In some cases, this may mean that the new organization will not be able to continue providing you the services or products that Workface provided.
 
-Workface will not sell, rent, or trade the personal information you provide online unless you permit us to do so. We do share your personal information with certain workface business clients as part of the product or service offering of the company and your participation therein. Workface may disclose personal information to third parties without your consent for any of the following reasons: to comply with any law, regulation or court order, to cooperate with Government investigations, to help prevent fraud or to enforce or protect the rights of Workface, its divisions, or its subsidiaries. Workface reserves the right to transfer your personal information in connection with the sale or transfer of all or a portion of our business or assets. If the business is sold or transferred, workface may give you an opportunity to tell us not to transfer your personal information. In some cases, this may mean that the new organization will not be able to continue providing to you the services or products that workface provided.
+## Contact Importer
 
-### Your Choices about Receiving Email
+The Workface contact importer tool allows you to upload your contacts for the purpose of inviting and connecting with the professionals in your network online, as well as sharing your Workface with your contacts. This helps establish credibility and a community around your profile. If you enter in your password for other contact management programs you use to access your contacts, your password is not stored in our system, nor does anyone have access to view it. 
 
-Workface may send you e-mail about your projects or your account and in response to your questions. workface, its divisions, and its subsidiaries may also send you e-mail with information about products and services that may be of interest to you, unless you indicate you do not want to receive them. We will give you an opportunity to let us know your preference regarding the receiving of promotional e-mail when you register for a service, when you provide us with your personal information, or when we send you e-mail. This option applies to promotional e-mail only, as we may find it necessary to send you e-mail relating to your account or order.
+When you use the invite system in Workface, we will send invites on your behalf using your name. We may send follow up emails as well, but there will always be opt out options for these contacts if they no longer wish to receive these messages. The contact information provided will be stored indefinitely to help ensure that users that opt out of messages will never receive messages, and also if any contacts who join Workface can be easily connected with users in their network. 
 
-### Changes to this Privacy Notice
+## Your Choices About Receiving Email
 
-Workface reserves the right to modify this privacy notice from time to time, by posting a prominent announcement on this page, by changing the date of modification or, in the event of a material change, by notifying by e-mail all customers whose personal information we have retained.
+We may send you e-mail as part of the private messaging system, with details about your account, or in response to your questions. Workface Inc., its divisions, and its subsidiaries may also send you e-mail with information about products and services that may be of interest to you. We will give you an opportunity to let us know your preference when you register for a service, when you provide us with your personal information, or when we send you e-mail. This option applies to promotional e-mail only, as we may find it necessary to send you e-mail relating to your account or order, or as part of the services that you have subscribed to.
 
-This Privacy Notice was last amended on 11/15/07.
+## Changes to this Privacy Notice
+
+We reserve the right to modify this privacy notice from time to time, by posting a prominent announcement on this page, by changing the date of modification or, in the event of a material change, by notifying by e-mail all customers whose personal information we have retained. 
+
+This Privacy Notice was last amended on 01/21/2011.
