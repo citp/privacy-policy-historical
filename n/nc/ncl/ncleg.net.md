@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the ncleg.net privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120183238id_/http%3A//www.ncleg.net/Etc/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncleg.net privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604053523id_/http%3A//www.ncleg.net/Etc/Privacy.html) for the most accurate reproduction.*
 
 # North Carolina General Assembly - Privacy Statement
-
-Privacy Statement
 
 **Use of Information:
 
@@ -44,47 +42,3 @@ If you send us e-mail with a question or comment, we will use your e-mail addres
 
 **Length of Time Data Will Be Stored:**  
 Unless you request that we delete any of the information you submitted when you registered for any electronic updates and/or newsletters we may offer, we will store such information indefinitely. 
-
-|  | NCGA Division Links  
----  
-  
-  * [Legislative Library](https://web.archive.org/Library/index.html)
-  * [In the Spotlight](https://web.archive.org/Applications/Blog/Blog.aspx?blogID=16)
-  * [Fiscal Research Division](https://web.archive.org/FiscalResearch/)
-  * [Legislative Drafting Division](https://web.archive.org/LDD/)
-  * [Program Evaluation Division](https://web.archive.org/PED/)
-  * [Research Division](https://web.archive.org/RD/)
-  * [Legislative Publications](https://web.archive.org/gascripts/DocumentSites/browseDocSite.asp?nID=1)
-  * [NCGA Career Opportunities](https://web.archive.org/NCGAInfo/Directories/Jobs.html)
-
-  
-Shortcuts  
-  
-  * [General Statutes](https://web.archive.org/gascripts/statutes/Statutes.asp)
-  * [Session Laws](https://web.archive.org/gascripts/EnactedLegislation/ELTOC.pl?sType=Law)
-  * [Help](https://web.archive.org/gascripts/Help/Help.pl)
-
-  
-Member Look Up  
-[Find Bills By Number](https://web.archive.org/gascripts/BillLookUp/BillLookUp.pl)  
-  
-Session: 
-
-ex.: S253 or H34  
-  
-[Search Bill Text](https://web.archive.org/gascripts/BillSearch/BillSearch.asp)  
-  
-Session:   
-  
-Who Represents Me?  
-  
-Find your full 9 digit zip code  
-or visit [Representation Page](https://web.archive.org/GIS/RandR07/Representation.html).  
-  
-[](https://web.archive.org/gascripts/Redirects/ExitDisclaimer.pl?http://www.nc.gov)
-
-[](https://web.archive.org/ncgainfo/educational/educational.html)
-
-[](https://web.archive.org/ncgainfo/ncslbts/ncslbacktoschool.html)
-
-[](https://web.archive.org/ncgainfo/cistern/cisternhome.html)
