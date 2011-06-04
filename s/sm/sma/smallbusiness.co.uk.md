@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the smallbusiness.co.uk privacy policy that was archived on 2008-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080512004814id_/http%3A//www.smallbusiness.co.uk/5.83.90/corporate/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smallbusiness.co.uk privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604183450id_/http%3A//www.smallbusiness.co.uk/corporate/privacy-policy) for the most accurate reproduction.*
 
-# Our Privacy Policy
+# 
+
+## Privacy policy
 
 This website is operated by Vitesse Media Plc, referred to in this policy as "we" or "us".   
 We are committed to protecting and respecting your privacy online while providing a personalised and valuable service. This policy explains:  
@@ -17,7 +19,7 @@ We are committed to protecting and respecting your privacy online while providin
 Please note that this policy only applies to websites of the Vitesse Media Plc group and not to the websites of other organisations to which we provide links. We cannot accept responsibility for how other sites collect and use your personal data and you should check their privacy policies for details. 
 
 What personal information we collect about you and your use of this website?  
-We collect personal information including your name, email address, payment details and user profile information where applicable through our site registration and via our order and registration forms. Where the information is compulsory, in order to enable us to provide a service to you, this is clearly marked on the forms and within the registration. In other cases the provision of information is voluntary but, if given, will help us to provide you with better or more personalised service.
+We collect personal information including your name, email address, payment details and user profile information where applicable through our site registration and via our order and registration forms. Where the information is compulsory, in order to enable us to provide a service to you, this is clearly marked on the forms and within the registration. In other cases the provision of information is voluntary but, if given, will help us to provide you with better or more personalised service. 
 
 We use cookies to give you access to the sites and collect information about your use of the site. A cookie is a small piece of information which is stored on your computer’s hard drive by your browser. When you visit a site we employ a cookie to recognise subscribers and their access privileges and to count unique visitors. We only use information collected in this way for the purposes outlined in this policy. 
 
@@ -33,7 +35,7 @@ We use and store the information we collect:
 — for any purpose made clear on the collection forms or related pages, including fulfilling orders and billing purposes   
 — to give you log in details for access privileges 
 
-If you do not wish us to store your credit card details please contact us as per the "Updating your details" section below.
+If you do not wish us to store your credit card details please contact us as per the "Updating your details" section below. 
 
 In addition, when you register or subscribe to one of our services, we send you a cookie to help us recognise you. This means that you will not have to log in each time you visit and we will be able to give you the correct access privileges and remember your preferences. 
 
@@ -65,7 +67,7 @@ By submitting your question to smallbusiness.co.uk and in businessGO you agree t
 
 The answer to each question is of necessity general in its nature and may not apply to your particular query or problem as it must be seen in the context of your business. Vitesse Media Plc accepts no responsibility in the event of mistake, omission or misinterpretation and cannot be held liable for any loss suffered as a consequence of any response given on this website or any other Vitesse Media Group publication. 
 
-**Updating your details:** It is important to us that we have your correct contact information so that you don’t miss out on further correspondence or experience problems with the delivery of products. If any of your personal information changes including your email address or payment details, or if you simply wish to cancel any subscription to any service or publication, just let us know by emailing [info@vitessemedia.co.uk](mailto:info@vitessemedia.co.uk) or by edit your profile on SmallBusiness.co.uk, which you can do at any time.
+**Updating your details:** It is important to us that we have your correct contact information so that you don’t miss out on further correspondence or experience problems with the delivery of products. If any of your personal information changes including your email address or payment details, or if you simply wish to cancel any subscription to any service or publication, just let us know by emailing [info@vitessemedia.co.uk](mailto:info@vitessemedia.co.uk) or by edit your profile on SmallBusiness.co.uk, which you can do at any time. 
 
 **Use of data for statistical and technical purposes:** We may feed information we collect about you into anonymised statistical reports about visitors to our site and share these reports with our advertisers and other third parties.  
 We may log the IP addresses and browser types of visitors to the site to help us analyse and resolve technical issues. This information is not linked to any personal information we hold about you. 
@@ -79,5 +81,5 @@ Octavia House, 50 Banner Street, London, EC1Y 8ST
 Tel: 020 7250 7010 Fax: 020 7250 7011.  
 [Privacy@vitessemedia.co.uk](mailto:Privacy@vitessemedia.co.uk)
 
-Andy New 020 7250 7037 [Andy.News@vitessemedia.co.uk](mailto:Andy.News@vitessemedia.co.uk)  
-©Vitesse Media plc 2005
+Blanka Biernat 020 7250 7056 [blanka.biernat@vitessemedia.co.uk](mailto:blanka.biernat@vitessemedia.co.uk?subject=SmallBusiness.co.uk%20Privacy%20Policy)  
+©Vitesse Media plc 2010
