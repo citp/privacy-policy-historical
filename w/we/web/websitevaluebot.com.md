@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the websitevaluebot.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123145918id_/http%3A//www.websitevaluebot.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websitevaluebot.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605011713id_/http%3A//www.websitevaluebot.com/privacy.php) for the most accurate reproduction.*
 
-# WebsiteValueBot's Privacy Policy
+# Website Value Bot Privacy Policy
 
-Website Value Bot is a tool to estimate your website value, this website value estimate is just a guide for webmasters, the real website value is based on 6-12 month revenue so keep that in mind. Also you can view your Google Pagerank, your Alexa rank, your Compete rank, the amount of backlinks you website has, the whois information and other websites hosted on the same server or IP, view estimated daily pageviews and revenue, and the websites server location.
-
-## Privacy Policy
+Privacy Policy
 
 We at Websitevaluebot.com are deeply committed to protecting the privacy of Internet users. We do not share any personally identifiable information about you such as name, address, phone number, or e-mail address. 
 
