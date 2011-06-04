@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the outtravel.it privacy policy that was archived on 2010-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100927212915id_/http%3A//outtravel.it/en/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outtravel.it privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604134620id_/http%3A//www.outtravel.it/en/privacy.asp) for the most accurate reproduction.*
 
 # Privacy - Out Travel
 
