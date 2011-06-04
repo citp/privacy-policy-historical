@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goboom4i.com privacy policy that was archived on 2010-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101103185047id_/http%3A//www.goboom4i.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goboom4i.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605015950id_/http%3A//www.goboom4i.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | GoBoom.search4i.com Social Bookmarking | GoBoom It
 
