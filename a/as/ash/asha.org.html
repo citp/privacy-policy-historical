@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the asha.org privacy policy that was archived on 2010-12-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101212034312id_/http%3A//www.asha.org/sitehelp/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the asha.org privacy policy that was archived on 2011-06-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110604163838id_/http%3A//www.asha.org/sitehelp/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_ctl00_Head1"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script id="EktronSmartMenuJS" type="text/javascript" src="/WorkArea/java/ek_menu_ex.js"></script>
 
@@ -32,7 +32,7 @@
 </div>
 
 
-<script src="/ScriptResource.axd?d=HoiWrCLLg8i2xdvJXOgiV5ib8J8xkjWB9jLdOLB_fPAmdBJ3f4OxbEChUtCd27n8k6wSFHIg_SNMKYiMK7kc9FY43Xweli1NZUl6uHfu31M1&amp;t=ffffffff86f20984" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=LsVYOlH9u_P7i8PvQhuye1ijK35Fk_eI9Q2afhtPQgx8AlwLMPXJCqFg-WMehSYPwxDyWulv3YwtIn7Xj6ebEU4QfEwJ0osSH2O6ZjdFAKw1&amp;t=ffffffff86f20984" type="text/javascript"></script>
 <script type="text/javascript">
 //<![CDATA[
 if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
@@ -56,30 +56,28 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                     
                 <div id="links" class="right">
                     <a href="/eweb/OLSDynamicPage.aspx?Webcode=olsmainpage" class="shop" title="Shop">Shop</a> | <a href="/about/" title="About Us">About Us</a> | <a href="/about/contacts/" title="Contact Us">Contact
-                            Us</a> | <a href="/eweb/" title="My Account">My Account</a> |
+                            Us</a> | <a href="/eweb/" title="My Account">My Account</a> 
             
                             
    
                                 
                                 
-                            <a href="/Templates/ClientLogin.aspx?ReturnUrl=/sitehelp/privacy_policy/" id="ctl00_ctl00_LoginView1_LoginLink" title="Login">
-                            Login</a>
+                           | <a href="/Templates/ClientLogin.aspx?ReturnUrl=/sitehelp/privacy_policy/" id="ctl00_ctl00_LoginView1_LoginLink" title="Login">
+                              Login</a>
                         
                     <a id="ctl00_ctl00_LoginStatus1" href="javascript:__doPostBack('ctl00$ctl00$LoginStatus1$ctl02','')"></a>
                                 
                                 
                                 </div>
             </div>
-            
             <div id="logo" class="left">
                 <h1>
                     <a href="/" title="American Speech-Language-Hearing Association">American
                         Speech-Language-Hearing Association</a></h1>
                 <h2 class="none">
-                    Making effective communication, a human right, accessible and achievable for all.</h2>
-                    
+                    Making effective communication, a human right, accessible and achievable for all.</h2>     
             </div>
-
+            
 
             
                 
@@ -123,7 +121,7 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
         var textfield = document.getElementById('textfield');
         var searchUrl = ReadSearchUrlFromConfig();
         if (trim(textfield.value).length > 0) {
-            window.location = searchUrl + textfield.value;
+            window.location = searchUrl + HandleAmpersand(textfield.value);
             return false;
         }
         else {
@@ -131,6 +129,11 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
             textfield.select();
             return false;
         }
+    }
+
+// Replace ampersands
+    function HandleAmpersand(value) {
+          return value.replace(/&/g,"%26");
     }
 
     function ReadSearchUrlFromConfig()
@@ -170,8 +173,7 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
 </script>
 
 
-
-               
+    
         </div>
         </noindex>
         <!-- HEADER -->
@@ -206,15 +208,7 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
 <div class="nav-menu">
     
     
-    <h4>In This Section:</h4>
-<ul>
-  <li><a href="http://www.asha.org/About/contacts.htm">Contact Us</a></li>
-  <li><a href="http://www.asha.org/sitehelp/link.htm">Linking to This Site</a></li>
-  <li><a href="http://www.asha.org/sitehelp/privacy_policy.htm">Privacy Policy</a></li>
-  <li><a href="http://www.asha.org/sitehelp/terms_of_use.htm">Terms of Use</a></li>
-  <li><a href="/sitemap.aspx">Site Map</a></li>
-  <li><a href="http://www.asha.org/sitehelp/accessibility.htm">Web Site Accessibility</a></li>
-</ul>
+    <h4>In This Section:</h4><ul><li><a href="/About/contacts.htm">Contact Us</a></li><li><a href="/sitehelp/link.htm">Linking to This Site</a></li><li><a href="/sitehelp/privacy_policy.htm">Privacy Policy</a></li><li><a href="/sitehelp/terms_of_use.htm">Terms of Use</a></li><li><a href="/sitemap.aspx">Site Map</a></li><li><a href="/sitehelp/accessibility.htm">Web Site Accessibility</a></li></ul>
     
     
 </div>
@@ -226,9 +220,9 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                 Featured Partner</p>
             <div class="ad">
                 <!-- Begin -  Site: ASHA.org Zone: Left Partner -->
-                <p id="ctl00_ctl00_ContentPlaceHolder1_divPartnerScript" class="ad"><script pin="" language="javascript" type="text/javascript">var browName = navigator.appName;var SiteID = 1;var ZoneID = 1;var browDateTime = (new Date()).getTime();if (browName=='Netscape'){document.write('<s'+'cript lang' + 'uage="jav' + 'ascript" src="http://www.asha.org/admanager/a.aspx?ZoneID=' + ZoneID + '&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=80046&amp;SiteID=' + SiteID + '&amp;Random=' + browDateTime  + '">'); document.write('</'+'scr'+'ipt>');}if (browName!='Netscape'){document.write('<s'+'cript lang' + 'uage="jav' + 'ascript" src="http://www.asha.org/admanager/a.aspx?ZoneID=' + ZoneID + '&amp;Task=Get&amp;IFR=False&amp;PageID=80046&amp;SiteID=' + SiteID + '&amp;Random=' + browDateTime  + '">'); document.write('</'+'scr'+'ipt>');}</script><script language="javascript" src="http://www.asha.org/admanager/a.aspx?ZoneID=1&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=80046&amp;SiteID=1&amp;Random=1580435978805"></script><noscript><a href="http://www.asha.org/admanager/a.aspx?ZoneID=1&amp;Task=Click&amp;Mode=HTML&amp;SiteID=1&amp;PageID=80046" target="_blank"><img src="http://www.asha.org/admanager/a.aspx?ZoneID=1&amp;Task=Get&amp;Mode=HTML&amp;SiteID=1&amp;PageID=80046" width="120" height="600" border="0"  alt=""></a></noscript></p>
+                <p id="ctl00_ctl00_ContentPlaceHolder1_divPartnerScript" class="ad"><script pin="" language="javascript" type="text/javascript">var browName = navigator.appName;var SiteID = 1;var ZoneID = 1;var browDateTime = (new Date()).getTime();if (browName=='Netscape'){document.write('<s'+'cript lang' + 'uage="jav' + 'ascript" src="http://www.asha.org/admanager/a.aspx?ZoneID=' + ZoneID + '&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=80046&amp;SiteID=' + SiteID + '&amp;Random=' + browDateTime  + '">'); document.write('</'+'scr'+'ipt>');}if (browName!='Netscape'){document.write('<s'+'cript lang' + 'uage="jav' + 'ascript" src="http://www.asha.org/admanager/a.aspx?ZoneID=' + ZoneID + '&amp;Task=Get&amp;IFR=False&amp;PageID=80046&amp;SiteID=' + SiteID + '&amp;Random=' + browDateTime  + '">'); document.write('</'+'scr'+'ipt>');}</script><script language="javascript" src="http://www.asha.org/admanager/a.aspx?ZoneID=1&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=80046&amp;SiteID=1&amp;Random=1580435980100"></script><noscript><a href="http://www.asha.org/admanager/a.aspx?ZoneID=1&amp;Task=Click&amp;Mode=HTML&amp;SiteID=1&amp;PageID=80046" target="_blank"><img src="http://www.asha.org/admanager/a.aspx?ZoneID=1&amp;Task=Get&amp;Mode=HTML&amp;SiteID=1&amp;PageID=80046" width="120" height="600" border="0"  alt=""></a></noscript></p>
                 <!-- End -  Site: ASHA.org Zone: Left Partner -->
-                <p class="ad-link"><a href="/about/marketing/partners/">Become A Partner</a></p>
+                <p class="ad-link"><a href="/about/marketing/partners/">Become a Partner</a></p>
             </div>
             
         </div>
@@ -258,7 +252,7 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
 <li>How you can correct any inaccuracies in the information.</li>
 </ul>
 <p>If you feel that ASHA is not abiding by its posted privacy policy, you should first contact the ASHA Action Center at 800-498-2071. <br><br><strong>Information Collection and Use</strong> </p>
-<p>ASHA, or third parties designated by ASHA, collects personally identifiable and non-personally identifiable information from users in a variety of ways. ASHA is the sole owner of all the information collected on the Web site, and may use and share with third parties any and all of the information collected in any manner whatsoever that it deems appropriate for business purposes in its sole discretion.</p>
+<p>ASHA, or third parties designated by ASHA, collects personally identifiable and non-personally identifiable information from users in a variety of ways. ASHA is the sole owner of all the information collected on the Web site, and may use and share with third parties any and all of the information collected in any manner whatsoever that it deems appropriate for business purposes in its sole discretion.&nbsp;</p>
 <p><strong>Registration</strong> </p>
 <p>To access areas designated as "member areas," users must be current members or affiliates of ASHA. The information collected when members join ASHA is also used to control access to these areas of the Web site. ASHA members and affiliates who wish to use the "member areas" of the Web site will be required initially to enter certain personal identification information (e.g., current ASHA account number, last name, e-mail address, username and password) to gain access.</p>
 <p><strong>Online Orders</strong> </p>
@@ -331,7 +325,7 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                 Advertisement</p>
             <div class="ad">
                 <!-- Begin -  Site: ASHA.org Zone: Right Home -->
-                <p id="ctl00_ctl00_ContentPlaceHolder1_divAdScript" class="ad"><script pin="" language="javascript" type="text/javascript">var browName = navigator.appName;var SiteID = 1;var ZoneID = 4;var browDateTime = (new Date()).getTime();if (browName=='Netscape'){document.write('<s'+'cript lang' + 'uage="jav' + 'ascript" src="http://www.asha.org/admanager/a.aspx?ZoneID=' + ZoneID + '&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=80046&amp;SiteID=' + SiteID + '&amp;Random=' + browDateTime  + '">'); document.write('</'+'scr'+'ipt>');}if (browName!='Netscape'){document.write('<s'+'cript lang' + 'uage="jav' + 'ascript" src="http://www.asha.org/admanager/a.aspx?ZoneID=' + ZoneID + '&amp;Task=Get&amp;IFR=False&amp;PageID=80046&amp;SiteID=' + SiteID + '&amp;Random=' + browDateTime  + '">'); document.write('</'+'scr'+'ipt>');}</script><script language="javascript" src="http://www.asha.org/admanager/a.aspx?ZoneID=4&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=80046&amp;SiteID=1&amp;Random=1580435978845"></script><noscript><a href="http://www.asha.org/admanager/a.aspx?ZoneID=4&amp;Task=Click&amp;Mode=HTML&amp;SiteID=1&amp;PageID=80046" target="_blank"><img src="http://www.asha.org/admanager/a.aspx?ZoneID=4&amp;Task=Get&amp;Mode=HTML&amp;SiteID=1&amp;PageID=80046" width="120" height="600" border="0"  alt=""></a></noscript></p>
+                <p id="ctl00_ctl00_ContentPlaceHolder1_divAdScript" class="ad"><script pin="" language="javascript" type="text/javascript">var browName = navigator.appName;var SiteID = 1;var ZoneID = 4;var browDateTime = (new Date()).getTime();if (browName=='Netscape'){document.write('<s'+'cript lang' + 'uage="jav' + 'ascript" src="http://www.asha.org/admanager/a.aspx?ZoneID=' + ZoneID + '&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=80046&amp;SiteID=' + SiteID + '&amp;Random=' + browDateTime  + '">'); document.write('</'+'scr'+'ipt>');}if (browName!='Netscape'){document.write('<s'+'cript lang' + 'uage="jav' + 'ascript" src="http://www.asha.org/admanager/a.aspx?ZoneID=' + ZoneID + '&amp;Task=Get&amp;IFR=False&amp;PageID=80046&amp;SiteID=' + SiteID + '&amp;Random=' + browDateTime  + '">'); document.write('</'+'scr'+'ipt>');}</script><script language="javascript" src="http://www.asha.org/admanager/a.aspx?ZoneID=4&amp;Task=Get&amp;IFR=False&amp;Browser=NETSCAPE4&amp;PageID=80046&amp;SiteID=1&amp;Random=1580435980103"></script><noscript><a href="http://www.asha.org/admanager/a.aspx?ZoneID=4&amp;Task=Click&amp;Mode=HTML&amp;SiteID=1&amp;PageID=80046" target="_blank"><img src="http://www.asha.org/admanager/a.aspx?ZoneID=4&amp;Task=Get&amp;Mode=HTML&amp;SiteID=1&amp;PageID=80046" width="120" height="600" border="0"  alt=""></a></noscript></p>
                 <!-- End -  Site: ASHA.org Zone: Right Home -->
                 <p class="ad-link"><a href="/about/marketing/">Advertise With Us</a></p>
             </div>
@@ -353,12 +347,12 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
             <a href="/sitemap.aspx">Site Map</a> <a href="/sitehelp/privacy_policy/">Privacy Notice</a>
             <a href="/sitehelp/terms_of_use/">Terms of Use</a></div>
         <div class="copyright right">
-            <a href="/sitehelp/copyright/">©1997-2010 American Speech-Language-Hearing Association</a>
+            <a href="/sitehelp/copyright/">©1997-2011 American Speech-Language-Hearing Association</a>
         </div>
         
         
         <div id="Div1" class="print">
-            <span id="ctl00_ctl00_lblCopyrihgt">©1997-2010 American Speech-Language-Hearing Association</span>
+            <span id="ctl00_ctl00_lblCopyrihgt">©1997-2011 American Speech-Language-Hearing Association</span>
         </div>
     </div>
     </noindex>
@@ -379,7 +373,7 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
     
 <div>
 
-	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAgLGpfGHAgK/scL/BB/ZKRzzUeAoRrPR54LeyXqsp85q">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAgKotvKJDgK/scL/BJmvB2J95XdK6zLKV/2/JwPboTOd">
 </div>
 
 <script type="text/javascript">
@@ -387,7 +381,7 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
 Sys.Application.initialize();
 //]]>
 </script>
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTk2NDk0NTMzNg9kFgJmD2QWAmYPZBYCAgMQZGQWCAIDD2QWAmYPZBYCAgEPFgIeBGhyZWYFPy9UZW1wbGF0ZXMvQ2xpZW50TG9naW4uYXNweD9SZXR1cm5Vcmw9L3NpdGVoZWxwL3ByaXZhY3lfcG9saWN5L2QCCQ9kFgYCAQ9kFgICAQ8WAh4EVGV4dAWGBDxoND5JbiBUaGlzIFNlY3Rpb246PC9oND4NCjx1bD4NCiAgPGxpPjxhIGhyZWY9Imh0dHA6Ly93d3cuYXNoYS5vcmcvQWJvdXQvY29udGFjdHMuaHRtIj5Db250YWN0IFVzPC9hPjwvbGk+DQogIDxsaT48YSBocmVmPSJodHRwOi8vd3d3LmFzaGEub3JnL3NpdGVoZWxwL2xpbmsuaHRtIj5MaW5raW5nIHRvIFRoaXMgU2l0ZTwvYT48L2xpPg0KICA8bGk+PGEgaHJlZj0iaHR0cDovL3d3dy5hc2hhLm9yZy9zaXRlaGVscC9wcml2YWN5X3BvbGljeS5odG0iPlByaXZhY3kgUG9saWN5PC9hPjwvbGk+DQogIDxsaT48YSBocmVmPSJodHRwOi8vd3d3LmFzaGEub3JnL3NpdGVoZWxwL3Rlcm1zX29mX3VzZS5odG0iPlRlcm1zIG9mIFVzZTwvYT48L2xpPg0KICA8bGk+PGEgaHJlZj0iL3NpdGVtYXAuYXNweCI+U2l0ZSBNYXA8L2E+PC9saT4NCiAgPGxpPjxhIGhyZWY9Imh0dHA6Ly93d3cuYXNoYS5vcmcvc2l0ZWhlbHAvYWNjZXNzaWJpbGl0eS5odG0iPldlYiBTaXRlIEFjY2Vzc2liaWxpdHk8L2E+PC9saT4NCjwvdWw+ZAIDD2QWAgIBDxYCHglpbm5lcmh0bWwFxAg8c2NyaXB0IHBpbiBsYW5ndWFnZT0iamF2YXNjcmlwdCIgIHR5cGU9InRleHQvamF2YXNjcmlwdCI+dmFyIGJyb3dOYW1lID0gbmF2aWdhdG9yLmFwcE5hbWU7dmFyIFNpdGVJRCA9IDE7dmFyIFpvbmVJRCA9IDE7dmFyIGJyb3dEYXRlVGltZSA9IChuZXcgRGF0ZSgpKS5nZXRUaW1lKCk7aWYgKGJyb3dOYW1lPT0nTmV0c2NhcGUnKXtkb2N1bWVudC53cml0ZSgnPHMnKydjcmlwdCBsYW5nJyArICd1YWdlPSJqYXYnICsgJ2FzY3JpcHQiIHNyYz0iaHR0cDovL3d3dy5hc2hhLm9yZy9hZG1hbmFnZXIvYS5hc3B4P1pvbmVJRD0nICsgWm9uZUlEICsgJyZhbXA7VGFzaz1HZXQmYW1wO0lGUj1GYWxzZSZhbXA7QnJvd3Nlcj1ORVRTQ0FQRTQmYW1wO1BhZ2VJRD04MDA0NiZhbXA7U2l0ZUlEPScgKyBTaXRlSUQgKyAnJmFtcDtSYW5kb209JyArIGJyb3dEYXRlVGltZSAgKyAnIj4nKTsgZG9jdW1lbnQud3JpdGUoJzwvJysnc2NyJysnaXB0PicpO31pZiAoYnJvd05hbWUhPSdOZXRzY2FwZScpe2RvY3VtZW50LndyaXRlKCc8cycrJ2NyaXB0IGxhbmcnICsgJ3VhZ2U9ImphdicgKyAnYXNjcmlwdCIgc3JjPSJodHRwOi8vd3d3LmFzaGEub3JnL2FkbWFuYWdlci9hLmFzcHg/Wm9uZUlEPScgKyBab25lSUQgKyAnJmFtcDtUYXNrPUdldCZhbXA7SUZSPUZhbHNlJmFtcDtQYWdlSUQ9ODAwNDYmYW1wO1NpdGVJRD0nICsgU2l0ZUlEICsgJyZhbXA7UmFuZG9tPScgKyBicm93RGF0ZVRpbWUgICsgJyI+Jyk7IGRvY3VtZW50LndyaXRlKCc8LycrJ3NjcicrJ2lwdD4nKTt9PC9zY3JpcHQ+PG5vc2NyaXB0PjxhIGhyZWY9Imh0dHA6Ly93d3cuYXNoYS5vcmcvYWRtYW5hZ2VyL2EuYXNweD9ab25lSUQ9MSZhbXA7VGFzaz1DbGljayZhbXA7TW9kZT1IVE1MJmFtcDtTaXRlSUQ9MSZhbXA7UGFnZUlEPTgwMDQ2IiB0YXJnZXQ9Il9ibGFuayI+PGltZyBzcmM9Imh0dHA6Ly93d3cuYXNoYS5vcmcvYWRtYW5hZ2VyL2EuYXNweD9ab25lSUQ9MSZhbXA7VGFzaz1HZXQmYW1wO01vZGU9SFRNTCZhbXA7U2l0ZUlEPTEmYW1wO1BhZ2VJRD04MDA0NiIgd2lkdGg9IjEyMCIgaGVpZ2h0PSI2MDAiIGJvcmRlcj0iMCIgIGFsdD0iIj48L2E+PC9ub3NjcmlwdD5kAgsPZBYCAgEPFgIfAgXECDxzY3JpcHQgcGluIGxhbmd1YWdlPSJqYXZhc2NyaXB0IiAgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij52YXIgYnJvd05hbWUgPSBuYXZpZ2F0b3IuYXBwTmFtZTt2YXIgU2l0ZUlEID0gMTt2YXIgWm9uZUlEID0gNDt2YXIgYnJvd0RhdGVUaW1lID0gKG5ldyBEYXRlKCkpLmdldFRpbWUoKTtpZiAoYnJvd05hbWU9PSdOZXRzY2FwZScpe2RvY3VtZW50LndyaXRlKCc8cycrJ2NyaXB0IGxhbmcnICsgJ3VhZ2U9ImphdicgKyAnYXNjcmlwdCIgc3JjPSJodHRwOi8vd3d3LmFzaGEub3JnL2FkbWFuYWdlci9hLmFzcHg/Wm9uZUlEPScgKyBab25lSUQgKyAnJmFtcDtUYXNrPUdldCZhbXA7SUZSPUZhbHNlJmFtcDtCcm93c2VyPU5FVFNDQVBFNCZhbXA7UGFnZUlEPTgwMDQ2JmFtcDtTaXRlSUQ9JyArIFNpdGVJRCArICcmYW1wO1JhbmRvbT0nICsgYnJvd0RhdGVUaW1lICArICciPicpOyBkb2N1bWVudC53cml0ZSgnPC8nKydzY3InKydpcHQ+Jyk7fWlmIChicm93TmFtZSE9J05ldHNjYXBlJyl7ZG9jdW1lbnQud3JpdGUoJzxzJysnY3JpcHQgbGFuZycgKyAndWFnZT0iamF2JyArICdhc2NyaXB0IiBzcmM9Imh0dHA6Ly93d3cuYXNoYS5vcmcvYWRtYW5hZ2VyL2EuYXNweD9ab25lSUQ9JyArIFpvbmVJRCArICcmYW1wO1Rhc2s9R2V0JmFtcDtJRlI9RmFsc2UmYW1wO1BhZ2VJRD04MDA0NiZhbXA7U2l0ZUlEPScgKyBTaXRlSUQgKyAnJmFtcDtSYW5kb209JyArIGJyb3dEYXRlVGltZSAgKyAnIj4nKTsgZG9jdW1lbnQud3JpdGUoJzwvJysnc2NyJysnaXB0PicpO308L3NjcmlwdD48bm9zY3JpcHQ+PGEgaHJlZj0iaHR0cDovL3d3dy5hc2hhLm9yZy9hZG1hbmFnZXIvYS5hc3B4P1pvbmVJRD00JmFtcDtUYXNrPUNsaWNrJmFtcDtNb2RlPUhUTUwmYW1wO1NpdGVJRD0xJmFtcDtQYWdlSUQ9ODAwNDYiIHRhcmdldD0iX2JsYW5rIj48aW1nIHNyYz0iaHR0cDovL3d3dy5hc2hhLm9yZy9hZG1hbmFnZXIvYS5hc3B4P1pvbmVJRD00JmFtcDtUYXNrPUdldCZhbXA7TW9kZT1IVE1MJmFtcDtTaXRlSUQ9MSZhbXA7UGFnZUlEPTgwMDQ2IiB3aWR0aD0iMTIwIiBoZWlnaHQ9IjYwMCIgYm9yZGVyPSIwIiAgYWx0PSIiPjwvYT48L25vc2NyaXB0PmQCCw8WAh8BBV88YSBocmVmPScvc2l0ZWhlbHAvY29weXJpZ2h0Lyc+JmNvcHk7MTk5Ny0yMDEwIEFtZXJpY2FuIFNwZWVjaC1MYW5ndWFnZS1IZWFyaW5nIEFzc29jaWF0aW9uPC9hPmQCDw8PFgIfAQU8JmNvcHk7MTk5Ny0yMDEwIEFtZXJpY2FuIFNwZWVjaC1MYW5ndWFnZS1IZWFyaW5nIEFzc29jaWF0aW9uZGQYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgIFHmN0bDAwJGN0bDAwJExvZ2luU3RhdHVzMSRjdGwwMQUeY3RsMDAkY3RsMDAkTG9naW5TdGF0dXMxJGN0bDAz6JZreLPk0oidSaVpQi9JQE/XDTU=">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTk2NDk0NTMzNg9kFgJmD2QWAmYPZBYCAgMQZGQWCAIDD2QWAmYPZBYCAgEPFgIeBGhyZWYFPy9UZW1wbGF0ZXMvQ2xpZW50TG9naW4uYXNweD9SZXR1cm5Vcmw9L3NpdGVoZWxwL3ByaXZhY3lfcG9saWN5L2QCCQ9kFgYCAQ9kFgICAQ8WAh4EVGV4dAWLAzxoND5JbiBUaGlzIFNlY3Rpb246PC9oND48dWw+PGxpPjxhIGhyZWY9Ii9BYm91dC9jb250YWN0cy5odG0iPkNvbnRhY3QgVXM8L2E+PC9saT48bGk+PGEgaHJlZj0iL3NpdGVoZWxwL2xpbmsuaHRtIj5MaW5raW5nIHRvIFRoaXMgU2l0ZTwvYT48L2xpPjxsaT48YSBocmVmPSIvc2l0ZWhlbHAvcHJpdmFjeV9wb2xpY3kuaHRtIj5Qcml2YWN5IFBvbGljeTwvYT48L2xpPjxsaT48YSBocmVmPSIvc2l0ZWhlbHAvdGVybXNfb2ZfdXNlLmh0bSI+VGVybXMgb2YgVXNlPC9hPjwvbGk+PGxpPjxhIGhyZWY9Ii9zaXRlbWFwLmFzcHgiPlNpdGUgTWFwPC9hPjwvbGk+PGxpPjxhIGhyZWY9Ii9zaXRlaGVscC9hY2Nlc3NpYmlsaXR5Lmh0bSI+V2ViIFNpdGUgQWNjZXNzaWJpbGl0eTwvYT48L2xpPjwvdWw+ZAIDD2QWAgIBDxYCHglpbm5lcmh0bWwFxAg8c2NyaXB0IHBpbiBsYW5ndWFnZT0iamF2YXNjcmlwdCIgIHR5cGU9InRleHQvamF2YXNjcmlwdCI+dmFyIGJyb3dOYW1lID0gbmF2aWdhdG9yLmFwcE5hbWU7dmFyIFNpdGVJRCA9IDE7dmFyIFpvbmVJRCA9IDE7dmFyIGJyb3dEYXRlVGltZSA9IChuZXcgRGF0ZSgpKS5nZXRUaW1lKCk7aWYgKGJyb3dOYW1lPT0nTmV0c2NhcGUnKXtkb2N1bWVudC53cml0ZSgnPHMnKydjcmlwdCBsYW5nJyArICd1YWdlPSJqYXYnICsgJ2FzY3JpcHQiIHNyYz0iaHR0cDovL3d3dy5hc2hhLm9yZy9hZG1hbmFnZXIvYS5hc3B4P1pvbmVJRD0nICsgWm9uZUlEICsgJyZhbXA7VGFzaz1HZXQmYW1wO0lGUj1GYWxzZSZhbXA7QnJvd3Nlcj1ORVRTQ0FQRTQmYW1wO1BhZ2VJRD04MDA0NiZhbXA7U2l0ZUlEPScgKyBTaXRlSUQgKyAnJmFtcDtSYW5kb209JyArIGJyb3dEYXRlVGltZSAgKyAnIj4nKTsgZG9jdW1lbnQud3JpdGUoJzwvJysnc2NyJysnaXB0PicpO31pZiAoYnJvd05hbWUhPSdOZXRzY2FwZScpe2RvY3VtZW50LndyaXRlKCc8cycrJ2NyaXB0IGxhbmcnICsgJ3VhZ2U9ImphdicgKyAnYXNjcmlwdCIgc3JjPSJodHRwOi8vd3d3LmFzaGEub3JnL2FkbWFuYWdlci9hLmFzcHg/Wm9uZUlEPScgKyBab25lSUQgKyAnJmFtcDtUYXNrPUdldCZhbXA7SUZSPUZhbHNlJmFtcDtQYWdlSUQ9ODAwNDYmYW1wO1NpdGVJRD0nICsgU2l0ZUlEICsgJyZhbXA7UmFuZG9tPScgKyBicm93RGF0ZVRpbWUgICsgJyI+Jyk7IGRvY3VtZW50LndyaXRlKCc8LycrJ3NjcicrJ2lwdD4nKTt9PC9zY3JpcHQ+PG5vc2NyaXB0PjxhIGhyZWY9Imh0dHA6Ly93d3cuYXNoYS5vcmcvYWRtYW5hZ2VyL2EuYXNweD9ab25lSUQ9MSZhbXA7VGFzaz1DbGljayZhbXA7TW9kZT1IVE1MJmFtcDtTaXRlSUQ9MSZhbXA7UGFnZUlEPTgwMDQ2IiB0YXJnZXQ9Il9ibGFuayI+PGltZyBzcmM9Imh0dHA6Ly93d3cuYXNoYS5vcmcvYWRtYW5hZ2VyL2EuYXNweD9ab25lSUQ9MSZhbXA7VGFzaz1HZXQmYW1wO01vZGU9SFRNTCZhbXA7U2l0ZUlEPTEmYW1wO1BhZ2VJRD04MDA0NiIgd2lkdGg9IjEyMCIgaGVpZ2h0PSI2MDAiIGJvcmRlcj0iMCIgIGFsdD0iIj48L2E+PC9ub3NjcmlwdD5kAgsPZBYCAgEPFgIfAgXECDxzY3JpcHQgcGluIGxhbmd1YWdlPSJqYXZhc2NyaXB0IiAgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij52YXIgYnJvd05hbWUgPSBuYXZpZ2F0b3IuYXBwTmFtZTt2YXIgU2l0ZUlEID0gMTt2YXIgWm9uZUlEID0gNDt2YXIgYnJvd0RhdGVUaW1lID0gKG5ldyBEYXRlKCkpLmdldFRpbWUoKTtpZiAoYnJvd05hbWU9PSdOZXRzY2FwZScpe2RvY3VtZW50LndyaXRlKCc8cycrJ2NyaXB0IGxhbmcnICsgJ3VhZ2U9ImphdicgKyAnYXNjcmlwdCIgc3JjPSJodHRwOi8vd3d3LmFzaGEub3JnL2FkbWFuYWdlci9hLmFzcHg/Wm9uZUlEPScgKyBab25lSUQgKyAnJmFtcDtUYXNrPUdldCZhbXA7SUZSPUZhbHNlJmFtcDtCcm93c2VyPU5FVFNDQVBFNCZhbXA7UGFnZUlEPTgwMDQ2JmFtcDtTaXRlSUQ9JyArIFNpdGVJRCArICcmYW1wO1JhbmRvbT0nICsgYnJvd0RhdGVUaW1lICArICciPicpOyBkb2N1bWVudC53cml0ZSgnPC8nKydzY3InKydpcHQ+Jyk7fWlmIChicm93TmFtZSE9J05ldHNjYXBlJyl7ZG9jdW1lbnQud3JpdGUoJzxzJysnY3JpcHQgbGFuZycgKyAndWFnZT0iamF2JyArICdhc2NyaXB0IiBzcmM9Imh0dHA6Ly93d3cuYXNoYS5vcmcvYWRtYW5hZ2VyL2EuYXNweD9ab25lSUQ9JyArIFpvbmVJRCArICcmYW1wO1Rhc2s9R2V0JmFtcDtJRlI9RmFsc2UmYW1wO1BhZ2VJRD04MDA0NiZhbXA7U2l0ZUlEPScgKyBTaXRlSUQgKyAnJmFtcDtSYW5kb209JyArIGJyb3dEYXRlVGltZSAgKyAnIj4nKTsgZG9jdW1lbnQud3JpdGUoJzwvJysnc2NyJysnaXB0PicpO308L3NjcmlwdD48bm9zY3JpcHQ+PGEgaHJlZj0iaHR0cDovL3d3dy5hc2hhLm9yZy9hZG1hbmFnZXIvYS5hc3B4P1pvbmVJRD00JmFtcDtUYXNrPUNsaWNrJmFtcDtNb2RlPUhUTUwmYW1wO1NpdGVJRD0xJmFtcDtQYWdlSUQ9ODAwNDYiIHRhcmdldD0iX2JsYW5rIj48aW1nIHNyYz0iaHR0cDovL3d3dy5hc2hhLm9yZy9hZG1hbmFnZXIvYS5hc3B4P1pvbmVJRD00JmFtcDtUYXNrPUdldCZhbXA7TW9kZT1IVE1MJmFtcDtTaXRlSUQ9MSZhbXA7UGFnZUlEPTgwMDQ2IiB3aWR0aD0iMTIwIiBoZWlnaHQ9IjYwMCIgYm9yZGVyPSIwIiAgYWx0PSIiPjwvYT48L25vc2NyaXB0PmQCCw8WAh8BBV88YSBocmVmPScvc2l0ZWhlbHAvY29weXJpZ2h0Lyc+JmNvcHk7MTk5Ny0yMDExIEFtZXJpY2FuIFNwZWVjaC1MYW5ndWFnZS1IZWFyaW5nIEFzc29jaWF0aW9uPC9hPmQCDw8PFgIfAQU8JmNvcHk7MTk5Ny0yMDExIEFtZXJpY2FuIFNwZWVjaC1MYW5ndWFnZS1IZWFyaW5nIEFzc29jaWF0aW9uZGQYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgIFHmN0bDAwJGN0bDAwJExvZ2luU3RhdHVzMSRjdGwwMQUeY3RsMDAkY3RsMDAkTG9naW5TdGF0dXMxJGN0bDAzqmknkTsuxTu8lAt5fz1Noq50iYA=">
 </form>
     
     <script type="text/javascript">
