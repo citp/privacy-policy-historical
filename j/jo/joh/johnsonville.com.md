@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the johnsonville.com privacy policy that was archived on 2010-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101004030342id_/http%3A//www.johnsonville.com/policies/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the johnsonville.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605004745id_/http%3A//www.johnsonville.com/policies/privacy-policy.html) for the most accurate reproduction.*
 
 # Our Privacy Policy - Johnsonville.com
 
