@@ -1,119 +1,89 @@
-> *The following text is extracted and transformed from the sodmg.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610094928id_/http%3A//www.sodmg.com/main/authorization/privacyPolicy%3FpreviousUrl%3Dhttp%253A%252F%252Fwww.sodmg.com%252F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sodmg.com privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604051202id_/http%3A//sodmg.com/privacy/privacy_policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - SODMG.Com
+# privacy - SODMG.com
 
-Updated: February 2007
+### Privacy Policy
 
-We want you to protect your Personal Data. We define Personal Data as any data from which it is practical to directly determine your identity or the identity of any individual. We have established this Privacy Policy to explain how Personal Data is collected on the Ning Platform, and how this Personal Data is used by Ning. Any capitalized term not defined in this Privacy Policy has the meaning which we lay out in the Ning [User Agreement](http://www.sodmg.com/main/authorization/termsOfService?previousUrl=http%3A%2F%2Fwww.sodmg.com%2F). From time to time, we will update this Privacy Policy and will do our best to keep you abreast of these changes by posting a notice on the Ning Platform.
+Date of Last Revision: February 5, 2009
 
-We take protecting your Personal Data very seriously. All Networks running on the Ning Platform are required to meet the terms of our Privacy Policy. That being said, we would like to ask you to be careful and use caution when providing Personal Data to Social Networks built on the Ning Platform. Unfortunately, there is no way we can be responsible for the actions of other Users or Social Networks not developed by Ning.
+This privacy policy governs the collection, storage and use of personal data collected by us, SouljaBoy. It provides you with details about the personal data we collect from you, how we use your personal data and your rights to control personal data we hold about you. Please read this privacy policy carefully – by accessing or browsing this website and network (the " **Services** "), you confirm that you have read, understood and agree to this privacy policy in its entirety. If you do not agree to this privacy policy in its entirety, you must not use the Services. 
 
-**By registering on the Ning Platform, you agree (1) to comply with the terms and conditions of this Privacy Policy, and (2) that Ning and any User may process (i.e., collect, use, etc.) your Personal Data as described in this Privacy Policy or the Terms of Service. Personal Data may be processed by Ning or User(s) in the country where it was collected as well as other countries (including the United States) where laws regarding processing of Personal Data may be less stringent.**
+This privacy policy was last updated on February 5, 2009. Please check back regularly to keep informed of updates to this privacy policy. 
 
-#### Ning and Collection of User Information
+#### Who we are
 
-##### Personally Identifiable User Information
+This social networking website is made available to you by SouljaBoy. We respect your right to privacy and will only process personal data you provide to us in accordance with the Data Protection Act 1998, the Privacy and Electronic Communications (EC Directive) Regulations 2003 and other applicable privacy laws. 
 
-Once you register with Ning and sign in to the Ning Platform, you are not anonymous to Ning.
+If you have any questions about how we collect, store and use personal data, or if you have any other privacy-related questions, please [click here](https://web.archive.org/report/feedback?ref=L3Rlcm1zL3Rlcm1zX2FuZF9jb25kaXRpb25zLmh0bWw%3D "Contact Network Owner") to contact us. 
 
-When registering on Ning, you provide Personal Data, which includes a Ning ID, a User- chosen password, and optionally an email address and a photo. To combat online fraud, Ning may also record your IP address when submitting information. In addition, if you choose to purchase premium services on Ning, you provide necessary information to process your credit card payment, including your billing address. When you use the Ning Address Book service, you also provide contact information of other people (“Address Book”).
+#### An important note about children
 
-In an effort to support group-specific as well as location-based Social Networks, Networks can validate the domain from which your email address originates (e.g., gmail.com or hotmail.com).
+We do not and will not knowingly collect information from any unsupervised child under the age of 13. If you are under the age of 13, you may not use the Services unless you have the consent of, and are supervised by, a parent or guardian. 
 
-To protect your Ning ID account information, please keep your password secure.
+#### The personal data we collect about you
 
-You can decline to share such Personal Data with us by not registering on Ning. Further, you may opt to remove any Personal Data from our active database by contacting Ning and canceling your Ning User account.
+When you access and browse the Services (including when you submit personal data to us through data entry fields on the Services), we may collect the following information from you: 
 
-Ning does not intentionally gather Personal Data about visitors who are under the age of 13.
+  1. Your name; 
+  2. Your age, date of birth and sex; 
+  3. Your postal address; 
+  4. Your phone and e-mail details; 
+  5. Your employment details (these are optional); 
+  6. Your payment details if you choose to subscribe to or otherwise access paid-for content; and 
+  7. Any other personal data that you choose to upload to or post on the Services, including blogs, photographs, messages, hobbies and interests and other personal details. 
 
-##### Cookies and Passive Data Collection
 
-Ning automatically receives and records information on our server logs from your browser, including your IP address, Ning cookie information, and the page you request.
 
-Users should be aware that other websites visited before entering Ning might place personally identifiable information within a User's URL during a visit to their website, and Ning has no control over such websites. Accordingly, some of this information may be logged by a subsequent website that collects URL information. 
+In addition, we may collect anonymised details about visitors to our Services for the purposes of aggregate statistics or reporting purposes. However, no single individual will be identifiable from the anonymised details that we collect for these purposes. 
 
-##### Content and Use of Networks
+#### How we may store and use your information
 
-When you post Content (or send messages) in any Social Network(s) on the Ning Platform that enable direct sharing of information with other Users and visitors, other Users and visitors will have access to any Personal Data in such Content. The Ning Platform keeps track of Content that you have uploaded to a Social Network on Ning as well as the top Users for a Network. Such information, displayed with your Ning ID and photo, if you uploaded one, is available to Users and visitors of the Ning Platform. In addition, the Ning Platform enables other Users to invite you to use Social Networks on Ning.
+We (or third party data processors acting on our behalf) may collect, store and use your personal data listed above for the following purposes: 
 
-Because you may voluntarily disclose any Personal Data in these public areas, you should be careful about the information you choose to disclose. Ning does not control that disclosure, and is not liable in any way for anyone's use or misuse of the information in the disclosure. In other words, use caution and judgment here. 
+  1. to make the Services available to you and to provide you with content which is tailored to your individual tastes; 
+  2. to complete any purchases you make through the Services and to provide you with services that you request; 
+  3. to further develop and improve the Services; 
+  4. to maintain and support any customer account that you have with us; 
+  5. to include (or to permit the inclusion of) advertising within the Services of our own and third party products, services and promotions that we or they think may interest you; 
+  6. where you have given us your consent, to contact you (including by SMS and e-mail) with products, services and promotions which we think may interest you; and 
+  7. where you have given us your consent, to disclose your personal data to carefully chosen third parties so that they may contact you (including by SMS and e-mail) with products, services and promotions which they think may interest you. 
 
-#### How Ning Uses Information
 
-##### Personally Identifiable Information
 
-We will send you administrative messages, and email updates regarding your account, your Social Networks, or the Ning Platform. We may also send you notices of new Content that has been added to Networks in which you may be interested when you have subscribed to such notices. In some cases, we may also send you primarily promotional messages. In your account, you can choose to opt out of promotional messages and new Content notices. You may opt out of receiving administrative messages by canceling your Ning User account. We will not use your Address Book information for our own purposes.
+Other than as set out in this privacy policy, we will not disclose, sell or rent your personal data to any third party unless you have consented to this. If you do consent but later change your mind, you may contact us and we will cease any such activity. 
 
-##### Cookies and Passive Data Collection
+However, if a third party acquires all (or substantially all) of our business and/or assets, we may disclose your personal data to that third party in connection with the acquisition. 
 
-Ning uses cookie, IP address, and URL information to improve the content of the Ningbar, the quality of Ning servers, and to provide enhanced features to Users, where available. Ning uses cookies to save Users' Ning IDs, session validators, and on Users' browsers and hard drives, and may use them to provide tailored products and services to those Users, as they become available.
+We may also disclose your personal data where we are required to do so by applicable law, by order of a court, by a governmental body or by a law enforcement agency. We may also disclose your personal data in the context of investigating or reporting any issue arising in connection with activity by you or content supplied or purporting to be supplied by you, to you or on your behalf that we reasonably believe could be unlawful or otherwise in breach of our terms of service. 
 
-IP Addresses also help us to diagnose problems with our server, to administer the Ning Platform, and to otherwise provide the Ning service to its users. IP addresses may be disclosed to a third party if we believe in good faith that the law or legal process requires it, or to protect the rights or property of Ning, its Users or the general public. 
+#### Technology Licensor disclosures
 
-#### Disclosures
+We may also disclose your personal data to the business that provides us with technology infrastructure and hosting services for the Service (the " **Technology Licensor** "). The Technology Licensor will use your personal data in order to check that you are using the Services in a way that complies with applicable law, does not infringe the rights of any third party, to maintain and improve the infrastructure and hosting services that it provides to us, to serve advertising within the Services of third party products, services and promotions that it thinks may interest you and otherwise in accordance with its privacy policy. 
 
-##### Ning Service Providers
+#### International transfers
 
-Ning may need to provide your Personal Data to third parties to deliver specific services to you (such as hosting services, support services, or credit card payment processing). These third parties are required not to disclose your Personal Data and not to use your Personal Data other than to provide the services requested by Ning.
+We may transfer personal data that we collect from you to third parties (including the Technology Licensor) located in countries that are outside of the European Economic Area where necessary to exercise, or in connection with, the uses of your data described above. Please be aware that countries which are outside the European Economic Area may not offer the same level of data protection as the United Kingdom, although our collection, storage and use of your personal data will continue to be governed by this privacy policy. 
 
-##### Network Creators
+#### Cookies
 
-The Ning Terms of Service require each Network Creator to comply with applicable laws (e.g., CAN-SPAM) and Ning's rules with respect to the Network Creators' use of your Personal Data. As a Network Creator, you may have your own privacy policy applicable to your Network if approved by Ning in advance and in writing (on a case-by-case basis). If you, as a User of a Network, agree to a Network's privacy policy, you agree that any dispute you have with a Network Creator is between you and that Network Creator (and not Ning).
+This website uses cookies to collect information about you. Cookies are small data files which are placed on your computer by this website and which collect certain personal data about you. This enables us to tailor our service offering (including the website) to provide you with products and services which are more relevant to your individual tastes. However, you may change your website browser settings to reject cookies, although please note that if you do this it may impair the functionality of the Services. As each website browser is different, please visit your browser's "Help" menu to learn how to change your cookie preferences. 
 
-##### Law Enforcement
+#### Security
 
-Ning may disclose Personal Data if required by a subpoena or other judicial or administrative order, where required by law, or, at our sole discretion, where we deem necessary to protect the safety of any individual or the general public or to prevent violation of our Terms of Service or the rights of Ning or any third party.
+Whilst we take appropriate technical and organisational measures to safeguard the personal data that you provide to us, no transmission over the Internet can ever be guaranteed secure. Consequently, please note that we cannot guarantee the security of any personal data that you transfer over the Internet to us. 
 
-##### Ning Affiliates
+#### Your rights
 
-Although Ning currently does not have a parent company, any subsidiaries, joint ventures, or other companies under a common control (collectively, “affiliates”), it may in the future. Ning may share some of all of your Personal Data with these affiliates, in which case we will seek to require our affiliates to honor this Privacy Policy.
+You have the following rights: 
 
-##### Change of Ownership
+  1. the right to ask us to provide you with copies of personal data that we hold about you at any time, subject to a fee specified by law (currently £10); 
+  2. the right to ask us to update and correct any out-of-date or incorrect personal data that we hold about you free of charge; and 
+  3. the right to opt out of any marketing communications that we may send you. 
 
-In the event of a change in ownership, or a merger with, acquisition by, or sale of assets to, another entity, we reserve the right to transfer all of Ning's User information, including email addresses, to a separate entity. Ning will notify Users (via a posting on this site or email (in Ning's discretion) of such a transfer, and Users may choose to modify their registration information at that time. This means if you are concerned about your Personal Data migrating to a new owner, you can deactivate your account.
 
-##### Security
 
-Ning uses industry standard security measures to protect the loss, misuse and alteration of the information under our control. Although we make good faith efforts to store the information collected by Ning and Social Networks running on the Ning Platform in a secure operating environment that is not available to the public, Ning cannot guarantee complete security. Further, while we work hard to ensure the integrity and security of our network and systems, we cannot guarantee that our security measures will prevent third-party "hackers" from illegally obtaining this information. Ning does not assume any liability to third parties whose information may be included in your Address Book.
+If you wish to exercise any of the above rights, please e-mail us at the address specified above. 
 
-##### Updating or Removing User Information
+#### Third party sites
 
-Users may, at any time, choose to correct or update the information they have submitted to Ning, by going to their account. Users may remove their User information from Ning's live database by canceling their account. Even if you update or remove your information from our live database, however, your Personal Data may be retained in our backup files and archives.
-
-Registered Users may remove their User information from Ning by canceling their account.
-
-##### No Spam Policy
-
-Our No Spam Policy and Terms of Service prohibit all Users from engaging in any activity involving the sending of email in violation of applicable law. Violations of these policies may result in immediate termination of service and legal action against any spammers.
-
-Any unauthorized use of Ning computer systems is a violation of the Terms of Service and certain federal and state laws, including without limitation the Computer Fraud and Abuse Act (18 U.S.C. section 1030 et seq.), Section 502 of the California Penal Code and Section 17538.45 of the California Business and Professions Code. Such violations may subject the sender and his or her agents to civil and criminal penalties.
-
-Ning offers email masking and relay when Users choose to communicate with other Users on Networks running on the Ning Platform to reduce third party email harvesting and spam. We also encourage Users to choose an email address where they will be comfortable receiving email responses from other Ning Users if they choose, at their sole discretion, to upload a profile or classifieds listings on any Social Network running on the Ning Platform.
-
-##### International Users
-
-By visiting Ning and Social Networks running on the Ning Platform and providing Ning with data, you acknowledge and agree that due to the international dimension of Ning we may use the data collected in the course of our relationship for the purposes identified in this Privacy Policy or in our other communications with you, including the transmission of information outside your resident jurisdiction. In addition, please understand that such data may be stored on servers located in the United States where laws protecting Personal Data may not be as stringent as the laws in your jurisdiction. By providing us with your data, you consent to the transfer of such data.
-
-##### Revisions to This Policy
-
-Ning reserves the right to revise, amend, or modify this policy and our other policies and agreements at any time and in any manner. Notice of any revision, amendment, or modification will be posted on Ning, and a User's continued use of Ning will signify agreement to such changes. 
-
-##### Contacting Ning
-
-Users with questions about this Privacy Policy may contact Ning the following ways:
-
-##### E-Mail
-
-[info@ning.com](mailto:info@ning.com)
-
-##### Postal
-
-Ning  
-735 Emerson Street  
-Palo Alto, CA 94301
-
-**USE OF THE NING SERVICE SIGNIFIES YOUR AGREEMENT TO THE PRIVACY POLICY**
-
-##### Feedback
-
-We welcome your [feedback](mailto:feedback@ning.com) on this document. 
+This website also contains links to other third party websites over which we have no control. Please note that this privacy policy applies only to the personal data that we collect through this website and we cannot be responsible for personal data that third parties may collect, store and use through their independent websites. You should always read the privacy policy of each website you visit carefully. 
