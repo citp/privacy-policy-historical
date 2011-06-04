@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cinema.com privacy policy that was archived on 2010-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101115170701id_/http%3A//www.cinema.com/legal/privacy.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cinema.com privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604190451id_/http%3A//www.cinema.com/legal/privacy.phtml) for the most accurate reproduction.*
 
 # Privacy Statement @ Cinema.com
 
