@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the steelersdepot.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203003825id_/http%3A//www.steelersdepot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the steelersdepot.com privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604163821id_/http%3A//www.steelersdepot.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Steelers Depot
 
@@ -85,6 +85,7 @@ This Privacy Policy is effective as of July 21, 2010 and last updated July 21, 2
 #### Incoming search terms for the article:
 
   * special needs children at steeler training camp
+  * steelers depot rss
   * www the steelers depot com
 
 
