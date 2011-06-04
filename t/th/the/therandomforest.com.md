@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the therandomforest.com privacy policy that was archived on 2010-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101011160449id_/http%3A//therandomforest.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the therandomforest.com privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604151923id_/http%3A//therandomforest.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -24,6 +24,8 @@ We do use a common logging tool called “cookies” to store information. This 
 We also may use third party advertisements to support our site. These ads often come from large reputable companies. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site. When they use these technologies, these advertisers may also receive information about your visit including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash extensions installed.
 
 Again, these are generally large reputable companies. A great example would be Google advertisements through the Google AdSense program. Usually, these companies are using this information for things like geotargeting (this allows them to show Texas plumbing ads to someone in Dallas, for example).
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>
 
 **Interest-Based Advertising**  
 It is also possible for these advertising companies to show certain ads based on the specific sites you have visited (such as showing automobile ads to someone who frequents car sites). This “interest-based advertising” allows advertisers to show ads based on a user’s previous interactions with them, such as visits to advertiser website and also to reach users based on their interests (e.g. “sports enthusiast”).
