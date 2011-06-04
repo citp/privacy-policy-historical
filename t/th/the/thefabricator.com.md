@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thefabricator.com privacy policy that was archived on 2010-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100118161201id_/http%3A//www.fma-communications.com/Privacy-Policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefabricator.com privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604151410id_/http%3A//www.fma-communications.com/Privacy-Policy.cfm) for the most accurate reproduction.*
 
-# FMAC Privacy Policy
+# FMA Communications - Privacy Policy
 
 This Web site is published and maintained by FMA Communications, Inc., with offices located at 833 Featherstone Road, Rockford, IL 61107. 
 
