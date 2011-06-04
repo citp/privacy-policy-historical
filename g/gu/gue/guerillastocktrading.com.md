@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the guerillastocktrading.com privacy policy that was archived on 2010-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100903183228id_/http%3A//www.guerillastocktrading.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guerillastocktrading.com privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604163308id_/http%3A//www.guerillastocktrading.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Guerilla Stock Trading.com
-
-[](http://aecb7bbco0zyerdv3cweu1unpg.hop.clickbank.net/)
 
 At http://www.guerillastocktrading.com we recognize that privacy is important. 
 
@@ -14,14 +12,14 @@ If you have any questions about this Privacy Policy, please feel free to contact
 
 We offer a number of services that do not require you to register for an account or provide any personal information to us, such as access to the blog. 
 
-Cookies – When you visit an advertiser through http://www.guerillastocktrading.com, we send one or more cookies – a small file containing a string of characters – to your computer that uniquely identifies your browser. We use cookies to track credits through our advertisers. Please do not disable cookies in your browser as we have to pay for the cost of maintaining the http://www.guerillastocktrading.com blog. We ask that you be honest when visiting an advertiser through http://www.guerillastocktrading.com by having cookies enabled in your browser, after all, we have been honest with you and we want to continue to pay for the operating costs of this blog. If you support [stock trading](http://www.guerillastocktrading.com/stock-trading/secret-that-improves-your-stock-trading-accuracy-in-the-next-30-seconds-shocker "stock trading") education and have gained valuable information through our blog then please support us. 
+Cookies – When you visit an advertiser through http://www.guerillastocktrading.com, we send one or more cookies – a small file containing a string of characters – to your computer that uniquely identifies your browser. We use cookies to track credits through our advertisers. Please do not disable cookies in your browser as we have to pay for the cost of maintaining the http://www.guerillastocktrading.com blog. We ask that you be honest when visiting an advertiser through http://www.guerillastocktrading.com by having cookies enabled in your browser, after all, we have been honest with you and we want to continue to pay for the operating costs of this blog. If you support stock trading education and have gained valuable information through our blog then please support us. 
 
 Our advertisers may have different privacy practices and we encourage you to read their privacy policies.
 
 Other sites – This Privacy Policy applies to http://www.guerillastocktrading.com services only. We do not exercise control over the ads displayed on our site. These other sites may place their own cookies or other files on your computer, collect data or solicit personal information from you. 
 
   * Google, as a third party vendor, uses cookies to serve ads on your site. 
-  * Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. 
+  * Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. 
   * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
 
 
