@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mizozo.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203201712id_/http%3A//www.mizozo.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mizozo.com privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604115312id_/http%3A//www.mizozo.com/privacy.html) for the most accurate reproduction.*
 
 # Mizozo - Your News, Argued By You! - Privacy Policy
 
