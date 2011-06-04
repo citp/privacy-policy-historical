@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the jobirn.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219030311id_/http%3A//jobirn.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobirn.com privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604075510id_/http%3A//jobirn.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy|Your Insider Referral Network- Jobirn
 
   
 
 
-## **Last Updated:** Oct 14, 2010
+## **Last Updated:** Feb 1, 2011
 
 At InsidersReferral.com, Inc. ("Jobirn" or "we"), we know you are concerned about your privacy, so we developed this Privacy Policy to explain how we collect, use, share and disclose your Personal Information. 
 
@@ -54,7 +54,7 @@ Your contact information will only be shared with another user if both of you ha
 
 ## **Information Sharing and Disclosure**
 
-We do not disclose personal information about your individual visits to Jobirn, or personal information that you provide, such as your name, address, e-mail address, telephone number, credit card number, etc., to any outside parties without your permission, except when we believe the law requires it and otherwise as described in this Privacy Policy or if you affirmatively consent to our doing so. If you choose to receive a service offered on Jobirn, and if that that service is provided by a partner or third-party company (e.g. education opportunity, resume services which are provided by third parties), personal information about you (such as your contact information and other information collected during your visit to Jobirn) will be shared with those partners to the extent necessary for them to provide these services. Third party lead generation company may contact you by phone and/or by email to provide education related information. These third party service providers are only allowed to use personally identifiable information for the purpose of providing the specific services.
+We may disclose your personal information that you provide, such as your name, address, e-mail address, telephone number, credit card number, etc., to third parties, including business partners, independent contractors, auditors, lawyers for purposes that we deem appropriate. If you choose to receive a service offered on Jobirn, and if that that service is provided by a partner or third-party company (e.g. education opportunity, resume services which are provided by third parties), personal information about you (such as your contact information and other information collected during your visit to Jobirn) will be shared with those partners to the extent necessary for them to provide these services. Third party lead generation company may contact you by phone and/or by email to provide education related information. These third party service providers are only allowed to use personally identifiable information for the purpose of providing the specific services.
 
 In addition, if we sell all or part of our business or make a sale or transfer of all or a material part of our assets or are otherwise involved in a merger or transfer of all or a material part of our business, we may transfer your personal information to the party or parties involved as part of that transaction. 
 
@@ -81,8 +81,8 @@ Jobirn reserves the right to update this Privacy Policy at any point. Users will
 If you have any questions or suggestions, please contact us at:  
 InsidersReferral.com, Inc.   
 ATTN: Agreement Issues   
-1388 S King Rd  
-San Jose, CA 95122
+1250 Oakmead Pkwy, Suite 210  
+Sunnyvale, CA 94085
 
 ## Effective Date: May 8, 2008 
 
