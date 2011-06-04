@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magesy.me privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129005400id_/http%3A//www.magesy.me/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magesy.me privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604114652id_/http%3A//www.magesy.me/policy.html) for the most accurate reproduction.*
 
 # Magesy.ME - Privacy Policy » MagesY / Most advanced music community
 
