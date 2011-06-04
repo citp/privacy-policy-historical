@@ -1,157 +1,125 @@
-> *The following text is extracted and transformed from the gopro.com privacy policy that was archived on 2006-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061223100306id_/http%3A//customersupport.networksolutions.com/article.php%3Fid%3D306) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gopro.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605014138id_/http%3A//gopro.com/privacy-policy) for the most accurate reproduction.*
 
-# Domain name and e-mail account questions answered here
+# GoPro.com Privacy Policy
 
-#### Find Answers To Your Questions:
+## About GoPro & This Privacy Policy
 
-Search by keyword or browse by category for immediate answers to frequently asked questions: 
+Effective Date: 1/1/2010 This Privacy Policy governs the following URL: http://www.goprocamera.com 
 
-### Privacy Policy
+## GoPro Contact Info:
 
-**Why A Privacy Policy?**  
+GoPro  
+2450 Cabrillo Hwy S  
+Suite 250  
+Half Moon Bay, CA  
+94019
 
-  
-Network Solutions respects your individual privacy. This Privacy Policy ('Policy') embodies our commitment to its protection through adherence to fair electronic information practices. This Policy puts you, the individual, in control of how your personal information is processed. You have our promise that we will not electronically process your personal information in any way that is incompatible with this Policy.
+GoPro cares deeply about online privacy. If you have any questions concerning this privacy policy, we can be reached via email by filling out our contact form located at the following URL: [www.goprocamera.com/support](https://web.archive.org/support)
 
- **This Privacy Policy protects your privacy by:**
+## Personally Identifiable User Information
 
- **Informing you about:**
+### Registration
 
-  * The types of personal information Network Solutions collects about you through its Web sites; 
-  * How it collects that information; 
-  * The general purposes for which it collects such information; 
-  * The types of organizations to which it discloses the information; 
-  * The choices and means by which individuals may limit its use and disclosure. 
+In order to use certain features of this Web site, we request certain personally identifiable information from you on the registration form and/or require you to create a user name and password. During registration you are required to give contact information (such as name and email address). We use this information to contact you about the services or members on our site in which you have expressed interest. You may have the option to provide demographic information such as interests or profession,; we encourage you to submit this information so we can provide you a more personalized customer experience. Types of communications you may elect to receive from GoPro that require use of personally indentifiable information include Customer Service emails in response to order or product related support issues, Special Promotions and Updates to notify you of promotional opportunities, Newsletters to stay abreast of GoPro related news & events, & Product or Service Announcements to advise of temporary service outages or technical product announcements. GoPro is the sole owner of the information collected on GoProCamera.com. GoPro collects personally identifiable information from our users at several different points on our Web site. 
 
+### Orders
 
+If you purchase a product or service from us, we request certain personally identifiable information from you on our order form. You must provide contact information (such as name, email, and shipping address) and financial information (such as credit card number, expiration date). We use this information for billing purposes and to fill your orders. If we have trouble processing an order, we will use this information to contact you. Types of order-related communications that require use of personal information include Order Confirmation email to confirm the placement, & summarize the contents of your order, Shipping Confirmation email to notify you when your order ships, and Customer Satisfaction Emails to ensure you are satisfied with your GoPro product. 
 
-**Empowering you to choose:**
+### Contest Entries
 
-  * Whether and how certain personal information you provide is used (where such use is unrelated to the uses for which you originally disclosed it); and 
-  * Whether and the manner in which a third party uses certain personal information you provide (where such use is unrelated to the uses for which you originally disclosed it). 
+If you enter a promotion or contest on our site, we require that you provide certain personally identifiable information, including but not limited to your name, address, favorite sports & activities, computer specifications, &website usage preferences. This information is necessary to process your Application and/or Complete Entry, contact you in response to your contest participation, and to improve the GoPro customer experience.. Types of promotion or contest related communications include Complete Entry Confirmation emails confirming your participation in a given promotion or contest, Thank You Emails thanking you for participation in a given promotion or contest, Congratulations Emails advising you that you may have won or advanced to a new stage of a promotion or contest, and Invitations to future contests & events. 
 
+## Uses of Information
 
+The website uses both non-personally-identifiable information and personal information to improve the overall GoPro consumer website experience, provide relevant & targeted content to website Visitors, Customers, & opt-in Subscribers, and to provide paying Customers with efficient communications related to their GoPro order. Our websites use non-personally-identifiable to more efficiently inform the general public about GoPro products, services & community activities, and to improve performance of our websites & business services. Our websites use personal information to facilitate communications between GoPro & interested parties, or to enable the purchase & fulfillment of GoPro products & services. 
 
-**Assuring you that Network Solutions:**
+### Email Communications
 
-  * Takes reasonable precautions to protect personal information from loss, misuse, unauthorized access, disclosure, alteration or destruction; 
-  * Implements reasonable policies and procedures to ensure that personal information is kept only for the purposes for which it has been gathered; 
-  * Uses reasonable measures to ensure that we have accurately and completely recorded the personal information you have provided; and 
-  * Provides you reasonable access to your personal information as well as procedures for correcting or modifying that information where appropriate. 
+GoPro will use your name & email address so that we can contact you via email communications under certain circumstances.
 
+### Orders
 
+If you place an order on GoProCamera.com, we will use your name & email address to send you an Order Confirmation Email, a Shipping Confirmation Email, and Customer Satisfaction Emails. If you do not wish to participate in Customer Satisfaction emails, you may Opt-Out of such emails upon receipt by clicking “Unsubscribe” link contained in the email. 
 
-**Ensuring accountability** to individuals who believe that Network Solutions has not complied with these privacy principles. 
+### Special Offers and Updates
 
-  
-**Third Party Advertising and Cookies**
+We will occasionally send you information on products, services, special promotions, & contests. You can sign up to receive these emails from us on our registration page &/or our order submission page. Out of respect for your privacy, we present the option NOT to receive these types of communications. Please see the “Choice and Opt-out.”
 
-We use third-party advertising companies to serve ads on our Web site and other Web sites. In the course of serving advertisements, these companies may place or recognize a unique 'cookie' on your hard drive, and may use information (not including your name, address, e-mail address, or telephone number) about your visits to this and other web sites in order to measure advertising effectiveness and to provide advertisements about goods and services of interest to you. For more information about this practice and to know your choices about not having your information used by these companies, please visit 
+### Newsletters
 
-[http://www.doubleclick.net/us/corporate/privacy](http://www.doubleclick.net/us/corporate/privacy) and <http://www.accipiter.com/company/privacy.php>. 
+If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you. Out of respect for your privacy, we provide you a way to unsubscribe. Please see the “Choice and Opt-out” section.
 
-Network Solutions shares Web site usage information about visitors to our Web site with a reputable third-party advertising company for the purpose of targeting our Internet banner advertisements on this site and other sites. For this purpose, we and our third-party advertising company note some of the pages you visit on our Web site through the use of pixel tags (also called clear gifs). The information collected by our third-party advertising company through the use of these pixel tags is not personally identifiable. For more information about our third-party advertiser, please click here. To opt out of the targeting program, please click 
+### Service-Related Announcements
 
-[here](http://www.privacychoices.org/).   
-**Information Corrections or Changes** **  
-**  
-You have the ability to correct or change certain information in our records, such as your address and contact information. The process for changing your information begins at<https://www.networksolutions.com/en_US/manage-it/index.jhtml>. You may change this information at any time and as often as necessary. If you need assistance or have questions about correcting information, you can contact us via e-mail at [customerservice@networksolutions.com](mailto:customerservice@networksolutions.com). 
+We will send you service-related announcements on rare occasions when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance, we might send you an email. Generally, you may not opt-out of these communications, which are not promotional in nature. If you do not wish to receive them, you have the option to deactivate your account.
 
-**How We Put Information to Good Use** **  
-**  
-We use information about you for purposes of monitoring and improving our internal operations, as well as to ensure we: (i) bill you properly, (ii) administer your account in accordance with your agreements with us, and (iii) properly perform the services you have requested.
+### Customer Service
 
-We also use the information we collect to monitor and improve our internal operations, as well as to improve the experience of users in our network of sites. For example, we may correlate Web site traffic information with data about individual users. This data helps us to determine how much our customers use parts of the site, allowing us to enhance it to fit the needs of as many of our customers as possible. We may also break down overall usage statistics according to customers' domain names, browser types, and MIME types by reading this information from the browser string (information contained in every user's browser).
+Based upon the personally identifiable information you provide us at the time of registration or purchase, we will send you a confirmation email to verify your username and password. We will also communicate with you in response to your inquiries, to provide the services you request, and to manage your account. We will communicate with you by email or telephone, in accordance with your wishes.
 
-Another example of our use of information to enhance the experience of users in our network of sites is our reliance on cookie files. We use cookie files to make it easier for users to access our site or services. A cookie file is a small data file that certain Web sites write to your hard drive when you visit them. A cookie file can contain information such as a user ID that the site uses to track the pages you have visited. However, the only personal information a cookie can contain is information you supply yourself. A cookie cannot read data off your hard disk or read cookie files created by other sites. We use cookies to track user traffic patterns (as described above) when you register for Network Solutions services. When you register, we may use a cookie to store a unique, random user ID. We use this ID to identify you anonymously in our database and to track the pages you visit on our site.
+### Choice/Opt-out
 
-If you have set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You may refuse cookies by turning them off in your browser; however, some of our sites may require a cookie for access.
+Upon membership registration and order placement, we provide you the option to NOT receive Newsletters & Special Promotions and Updates emails from GoPro. We provide you the opportunity to ‘opt-out’ of having your personally identifiable information used for certain purposes, when we ask for this information. For example, if you purchase a product but do not wish to receive any additional marketing material from us, you can indicate your preference on our order form by leaving the “Opt-In” checkbox blank. If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at support@gopro.com. You will be notified when your personally identifiable information is collected by any third party that is not our service provider, so you can make an informed choice as to whether or not to share your information with that party. If you do not wish to have your personally identifiable information shared and want to opt-out from receiving further communications from any third party that is not our agent or service provider. Please contact that 3rd party directly. 
 
-Finally, we use the information we collect to direct important notices and information affecting your account or services, as well as to provide general information that may be of interest to you, including newsletters, surveys, contest and sweepstake announcements, and information about our service or product offerings or the offerings of our business affiliates. You may opt-out of receiving information from us simply by notifying us of your desire in accordance with the opt-out instructions contained in any information message you receive from us. Note, however, that in order to fulfill our service obligations to you, we must continue sending you notices and other important information affecting your account or services.
+## Non-Personally-Identifiable User Information
 
- **Getting to Know Our Customers**
+For each visitor to our websites, we collect non-personally-identifiable information including IP address, profile information, aggregate user data, preferences, technical session information, browser type. This data is used to manage the website, track website usage, provide context for referring traffic sources, and improve overall website performance. This non-personally-identifiable information may be shared with third-parties to provide more relevant services and advertisements to members. User IP addresses are recorded for security and monitoring purposes. If you arrived at our website via a link from another webpage, we may receive aggregate or otherwise anonymous statistical information about your visit to our site. We monitor customer traffic patterns and site usage to help us develop the design and layout of the site, and to improve the content of our website to better match the interests of our website users.
 
-Network Solutions is in the business of putting people in touch with other people. That requires more than simply offering innovative technical services. It also requires that we understand you, our customer, and your needs. Indeed, we are the Internet's leading domain name registrar because we have taken the time to get acquainted with each one of our many customers.
+### Use of Cookies
 
-We get to know you primarily through the information you provide to us when signing up for, or using, one or more of our services. The information you provide ranges from basic contact information, to payment information, to the technical coordinates of your host servers. The application for domain name registration services found at 
+GoPro uses cookies to store visitors’ preferences and to record session information, such as shopping cart items, for purposes including ensuring that visitors are not repeatedly offered the same advertisements and to customize newsletter, advertising, and Web page content based on browser type and user profile information. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. You may be able to configure your browser to accept or reject all or some cookies, or notify you when a cookie is set — each browser is different, so check the “Help” menu of your browser to learn how to change your cookie preferences. You must, however, enable cookies from GoPro in order to use most functions on the site. Please note that GoPro allows 3rd party advertisers that are presenting advertisements on some of our pages to set and access their cookies on your computer. Advertisers’ use of cookies is subject to their own privacy policies, not the GoPro Privacy Policy.
 
-[www.networksolutions.com](http://www.networksolutions.com/en_US/legal/www.networksolutions.com) is a representative illustration of the information we request of you. All of the information we request from you when purchasing our services is obligatory unless otherwise noted on the relevant form. When you purchase our services, you agree to provide and maintain accurate, complete and updated information.
+### Web Beacons
 
-After you have signed up for our services, we may be in communication with you about your account, technical questions you may have about services provided by us, or any other matter relating to those services. Those communications are essential to our relationship with you and to our ability to provide you with quality services that are responsive to your needs. At the same time, those communications give us helpful insights about you, your preferences and the ways in which we might improve our services. We therefore may maintain this information for future use.
+One or more of our third party advertising partners employ a software technology called Web Beacons, that help us better manage content on our site by informing us what content is effective. Web Beacons are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers’ personally identifiable information.
 
-For operational and quality assurance purposes, we take note of whether and how you use the information and services that we provide, such as by recording site traffic patterns and by maintaining log files of users' access to site files.
+## Ad Servers and Third Party Advertising
 
-The information we receive from or about you is stored on systems designed to prevent the loss, misuse, unauthorized access, disclosure, alteration or destruction of that information. We also encrypt your transmission of sensitive information to us (e.g., credit card numbers, account passwords) in the interest of heightened privacy protection and information integrity. Transactions within our account manager and purchase flows use Secure Sockets Layer (SSL) encryption when transmitting data from your connection to our systems. You may click the lock icon within your web browser to verify the authenticity of any or our SSL certificates. 
+We do not partner with or have special relationships with any ad server companies. Ads appearing on this Web site may be delivered to users by GoPro or one of our Web advertising partners. Our Web advertising partners may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement. In this way, ad servers may compile information about where you, or others who are using your computer, saw their advertisements and determine which ads are clicked on. This information allows an ad network to deliver targeted advertisements that they believe will be of most interest to you. This privacy statement covers the use of cookies by GoPro and does not cover the use of cookies by any advertisers.
 
-**With Whom We May Share Information** **  
-**  
-Pursuant to arrangements with Internet Corporation for Assigned Names and Numbers ('ICANN'), we compile and maintain a publicly accessible registration database that includes basic information about each domain name registered with us, including the names, telephone numbers and e-mail addresses of individuals designated as points of contact for a given domain name. Whether or not applicable domain name registration fees have been paid is also publicly accessible. With the gradual continued privatization of the Domain Name System, and consistent with the rules or policies applicable to that system, or to comply with any changes in law or regulation, we may, if appropriate, take steps to restrict the accessibility and amount of personally identifying information available in the registration database
+## 3rd Party Website Features
 
-When you register a domain name through us, we must disclose your domain name and its associated Internet Protocol ("IP") numbers to the appropriate registry in order to make your chosen domain name a functional address on the Internet. Certain registries also require that we disclose to them the names, postal addresses, telephone and fax numbers, and e-mail addresses of individuals designated as the registrant or points of contact for a given domain name. Each registry discloses certain portions (and in some cases all) of the information we are required to provide to them about your domain name registration. For example, each registry discloses at least each registered domain name and its associated IP numbers ("TLD zone files") to TLD server administrators so that the domain name is capable of functioning as an address on the Internet. Consistent with the current rules and policies for the Domain Name System, such registries also disclose the TLD zone files to other interested persons, provided those persons agree, among other things, not to use the TLD zone files for improper purposes, including the transmission of unsolicited commercial e-mail. Similarly, each registry may compile and maintain a publicly accessible database that includes basic information about each domain name registered with that registry, including the names, telephone and fax numbers, and e-mail addresses of individuals designated as the registrant or points of contact for a given domain name. 
+### Share This
 
-We may share certain information about you with our vendors who are responsible for handling your account or performing other services that you require (including vendors who may update your credit card expiration date and credit card account number if you choose our auto-renew feature). Although we may share financial information (i.e., credit card numbers, banking information), security information (e.g., account passwords) and personal communications (e.g., personal e-mail messages or message board postings) with such vendors when necessary and appropriate, we will not share such information with any other third parties unless directed by you or except in response to formal requests in the form of a subpoena or court order issued in connection with civil or criminal proceedings related to a domain name registration or other services we provide, or in response to requests by law enforcement agencies when we suspect  that you or your agent is using  our services to cause harm or damage to us or others or adversely affect our ability to provide services to our customers
+When you use ShareThis to bookmark and share our products and site, you will be taken to a 3rd party website. Please note that their privacy policy governs the collection and use of the information collected on those sites, including name, email address, & username. Please refer to the ShareThis Privacy Policy for how this information is used: http://sharethis.com/privacy.The email a friend feature collection of third party PII offered within this widget is governed by the ShareThis privacy policy.
 
-Additionally, we may share the information stored on the publicly accessible registration database, as well as other information that is not of a sensitive nature, with carefully selected business partners, including those who offer services that complement those provided by us or which may otherwise be of interest to you. If you do not want us to share information about you with our business partners, you may opt-out of receiving this information through our Account Manager by following the instructions below:
+### TRUSTe
 
-a.       Log into Account Manager at [www.networksolutions.com](http://www.networksolutions.com/en_US/manage-it/);
+GoPro is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site GoProCamera.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. If you have questions or concerns regarding this statement, you should first contact Support Team by completing the email contact form located at http://www.goprocamera.com/contact. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at http://watchdog.truste.com/pvr.php?page=complaint&url= TRUSTe will then serve as a liaison with us to resolve your concerns.
 
-b.       Click “Edit User Info” in the left menu;
+## 3rd Party Service Providers
 
-c.       Scroll to the bottom of the page;
+We use other third parties such as a shipping company to fulfill orders, a credit card processing company to bill you for goods and services, & an email service provider to send out emails on our behalf. When you order products from GoPro, we will share your name, email address, shipping address & order contents as necessary for the third party shipping company to fulfill your order. These third parties are prohibited from using your personally identifiable information for promotional purposes. We do NOT share, sell, rent or trade personally identifiable information with 3rd parties for their promotional purposes.
 
-d.       Select “NO” for the third statement, which reads, “I would like to receive selected and relevant information from Network Solutions partners;” and
+## Links
 
-e.       Click “SAVE.”
+GoPro contains links to other websites. GoPro is not responsible for the privacy policies and/or practices on other sites. When linking to another site, a user should read the privacy policy stated on that site. Our privacy policy only governs information collected on GoPro.
 
-  
-Please note, however, that consistent with the current rules and policies for the Domain Name System, information about you must remain available in the publicly accessible registration database.
+## Correcting/Updating or Removing Information
 
- **How Do I Get My Name Removed from Bulk Access** **  
-**  
-As noted above, we currently make certain information about you available to the general public via our domain name registration database look-up services. These services give users access to such data on a query-by-query basis. Pursuant to our arrangements with ICANN, qualified persons may also access such data on a bulk basis provided they agree, among other things, not to use the data to allow, enable or otherwise support the transmission by e-mail, telephone, or facsimile of mass, unsolicited, commercial advertising or solicitations to entities other than to such qualified persons’ own existing customers; or (ii) sell or redistribute the data to third parties, except insofar as the data is incorporated into a value-added product or service that does not permit the extraction of a substantial portion of the data. If you do not want your personal information disclosed on a bulk basis, you may opt-out of such disclosure through our Account Manager by following the instructions below:
+GoPro users may modify or remove any of their personal information at any time by logging into their account and accessing features such as Edit Profile and Account Info. Users may also email us to correct or change any information by filling out our contact form located at the following URL: [http://www.goprocamera.com/support](https://web.archive.org/support)
 
-a.       Log into Account Manager at [www.networksolutions.com](http://www.networksolutions.com/en_US/legal/www.networksolutions.com);
+## Co-Branded Websites
 
-b.       Click “Edit User Info” in the left menu;
+At times GoPro will partner with 3rd party websites in a co-branded relationship, where a co-branded web page(s) is used to promote GoPro products, services, photos or videos. These web pages may be designed to look & feel just like or GoProCamera.com, but are actually hosted on a different domain. When we enter into co-branded partnerships we may at times share your name and email address in order for GoPro to communicate with you about GoPro related promotions, news, & updates via tools provided by our 3rd party co-branded partner website. Information collected on 3rd party co-branded webpages may not be covered under our privacy statement. All information collected on 3rd party co-branded websites is owned and controlled by that companies privacy statement. Please be sure to read the privacy policy of any website that asks you to submit personally identifiable information.
 
-c.       Scroll to the bottom of the page;
+## Customer Testimonials
 
-d.       Select “NO” for the first statement, which reads, “I choose to have my name included in the Bulk WHOIS data licensed to third parties for domains for which I am the Account Holder or Primary Contact;” and
+At times, we may post customer testimonials on our web site which may contain personally identifiable information. We obtain the customer’s consent via email and/or opt-in methods prior to posting a name, city, or stated activity/interest along with any testimonial.
 
-e.       Click “SAVE.” 
+## Sharing and Disclosure of Information GoPro Collects
 
-**Our Accountability to You** **  
-**  
-By purchasing our services, you obtain the protections of, and consent to the data processing practices described in, this Privacy Policy. When you purchase our services, you also represent to us that you have provided notice to, and obtained consent from, any third party individuals whose personal data you supply to us with regard to: (i) the purposes for which such third party's personal data have been collected, (ii) the intended recipients or categories of recipients of the third party's personal data, (iii) which of the third party's data are obligatory and which data, if any, are voluntary, and (iv) how the third party can access and, if necessary, rectify the data held about them.
+Except as otherwise described in this privacy statement, GoPro will not disclose personal information to any third party unless we believe that disclosure is necessary: (1) to conform to legal requirements or to respond to a subpoena, search warrant or other legal process received by GoPro, whether or not a response is required by applicable law; (2) to enforce the GoPro Terms of Use Agreement or to protect our rights; or (3) to protect the safety of members of the public and users of the service. GoPro reserves the right to transfer personal information to a successor in interest that acquires rights to that information as a result of the sale of GoPro or substantially all of its assets to that successor in interest. For more information, see the “Changes in Our Privacy Policy” section below.
 
-In addition to the privacy protections that we provide, our employees, agents and business partners are independently responsible for ensuring compliance with this Privacy Policy, as described below. 
+## Changes in Our Privacy Policy
 
-**Employee Accountability** **  
-**  
-Only those Network Solutions employees that have a legitimate business purpose for accessing and handling personal information obtained by us are given authorization to do so. The unauthorized access or use of such information by a Network Solutions employee is prohibited and constitutes grounds for disciplinary action.
+From time to time, our information practices may change. To notify you of these changes, we will post the policy changes to our Web site 30 calendar days prior to implementing the changes. If we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
 
-Additionally, our information management systems are configured in such a way as to block or inhibit employees from accessing information that they have no authority to access. 
+## Community and Aggregate Information Security
 
-**The Accountability of Network Solutions' Agents and Business Partners** **  
-**  
-Our trusted vendors and business partners are responsible for processing or handling some of the information that we receive. These vendors and business partners are not authorized to use such information for purposes beyond those specified by us and are required to preserve the confidentiality with which we treat such information.
+GoPro takes precautions to insure that member account information is kept private. We use reasonable measures to protect member information that is stored within our database, and we restrict access to member information to those employees who need access to perform their job functions, such as our customer service personnel and technical staff. Please note that we cannot guarantee the security of member account information. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of member information at any time. For any additional information about the security measures we use on GoPro, please contact us by filling out the contact form located at the following URL: [http://www.goprocamera.com/support](https://web.archive.org/support)
 
-If you feel that Network Solutions, or any of our agents, representatives or employees, is violating this Privacy Policy, please contact us via e-mail at 
+## Personal Information Security
 
-[privacy@networksolutions.com](mailto:privacy@networksolutions.com), by telephone at (703) 668-4600, or by postal mail at:
-
-Network Solutions, LLC  
-Attention: General Counsel  
-13861 Sunrise Valley Dr   
-Suite 300   
-Herndon  VA  20171   
-United States  
-(703) 668-4600 
-
-**Notification of Changes** **  
-**  
-We will post any changes to this Privacy Policy 30 days before their effective date so you will always know what information we collect, how we use it, and under what circumstances, if any, we disclose it. You are responsible for periodically checking our web site for changes to this Privacy Policy. You may opt-out of any posted change to our collection, use or disclosure of your personal information by sending an e-mail to
-
-[ privacy@networksolutions.com](mailto:privacy@networksolutions.com).
-
- **If you have any questions regarding this Privacy Policy, please contact[ privacy@networksolutions.com](mailto:privacy@networksolutions.com).**
+The security of your personal information is important to us. When you enter sensitive information (such as credit card number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). We take the same care when we transmit your sensitive information to 3rd Party Services to facilitate your order by using the same SSL technology. To learn more about SSL, follow this link: <http://en.wikipedia.org/wiki/Transport_Layer_Security>
