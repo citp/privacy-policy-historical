@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the contentwatch.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225095058id_/http%3A//www.contentwatch.com/support/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contentwatch.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605013516id_/http%3A//www.contentwatch.com/support/privacy_policy) for the most accurate reproduction.*
 
 # ContentWatch Privacy Policy
 
@@ -33,5 +33,5 @@ This Privacy Statement is subject to change at any time, at the discretion of Co
 **7\. HOW YOU CONTACT US.** If you need further assistance, if you have any questions or concerns, or if you would like to modify your personally identifiable information in any way, you may send an email to [info@contentwatch.com](mailto:info@contentwatch.com). You may also send mail to the following address:
 
 ContentWatch Corporate Office:  
-2369 West Orton Circle  
-Salt Lake City, Utah 84119 USA
+6949 S High Tech Dr  
+Salt Lake City, Utah 84047 USA
