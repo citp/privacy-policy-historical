@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the almostgaming.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203121454id_/http%3A//www.almostgaming.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the almostgaming.com privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604101019id_/http%3A//www.almostgaming.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Statement | WoW Professions & Talents
 
