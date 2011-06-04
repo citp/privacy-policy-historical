@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chinalawblog.com privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202042442id_/http%3A//www.chinalawblog.com/disclaimers/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chinalawblog.com privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604163820id_/http%3A//www.chinalawblog.com/disclaimers/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy : China Law Blog : China Law for Business
 
