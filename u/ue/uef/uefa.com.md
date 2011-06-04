@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the uefa.com privacy policy that was archived on 2010-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101210073929id_/http%3A//www1.uefa.com/uefa/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uefa.com privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604162951id_/http%3A//www.uefa.com/uefa/privacypolicy.html) for the most accurate reproduction.*
 
-# UEFA Privacy Policy on UEFA.COM
+# UEFA Privacy Policy – UEFA.com
 
-Published: Friday 7 January 2005, 22.40CET
-
- **UEFA  
+**UEFA  
 Union des Associations Européennes de Football  
 Route de Genève 46  
 Case postale  
@@ -59,4 +57,4 @@ UEFA takes your privacy seriously. Please read the following Privacy Policy care
  **Questions or suggestions  
 ** • If you have any questions or suggestions regarding this Privacy Policy, please send an e-mail to **info@uefa.com**.
 
-©uefa.com 1998-2010. All rights reserved.
+©UEFA.com 1998-2011. All rights reserved.
