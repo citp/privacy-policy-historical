@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airstream.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224103351id_/http%3A//www.airstream.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airstream.com privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604102948id_/http%3A//www.airstream.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Airstream, Inc :: Privacy Policy
 
