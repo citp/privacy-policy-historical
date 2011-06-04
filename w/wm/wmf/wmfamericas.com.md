@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wmfamericas.com privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528213230id_/http%3A//policies.wmfamericas.com/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wmfamericas.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605014520id_/http%3A//policies.wmfamericas.com/Privacy-Policy.html) for the most accurate reproduction.*
 
 # WMF Privacy Policy
 
