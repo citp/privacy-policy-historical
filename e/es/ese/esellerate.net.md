@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the esellerate.net privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225041919id_/http%3A//www.esellerate.net/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esellerate.net privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604045901id_/http%3A//www.esellerate.net/privacy_policy) for the most accurate reproduction.*
 
 # eSellerate | Privacy Policy
 
