@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the centsports.com privacy policy that was archived on 2010-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100825103140id_/http%3A//www.centsports.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centsports.com privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604175938id_/http%3A//www.centsports.com/privacy) for the most accurate reproduction.*
 
 # 
 
