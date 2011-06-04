@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the agl.com.au privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203141435id_/http%3A//www.agl.com.au/SiteTools/pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agl.com.au privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605015247id_/http%3A//www.agl.com.au/SiteTools/pages/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy | AGL Energy
 
