@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thatsnonsense.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225162516id_/http%3A//www.thatsnonsense.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thatsnonsense.com privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604044405id_/http%3A//www.thatsnonsense.com/privacy.php) for the most accurate reproduction.*
 
 # None
 
