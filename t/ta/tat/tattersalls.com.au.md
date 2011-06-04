@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the tattersalls.com.au privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203202253id_/http%3A//www.tattsgroup.com/home/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tattersalls.com.au privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604142608id_/http%3A//www.tattsgroup.com/home/privacy.aspx) for the most accurate reproduction.*
 
-# Tatts Group Privacy Policy
+# 
+
+ 
 
 ## 1\. Purpose
 
@@ -70,7 +72,7 @@ Tatts Group will only transfer personal information overseas in circumstances wh
 
 ## 12\. Changes in the Future
 
-Tatts Group reserves the right to change this Privacy Policy at any time and to notify you by posting an updated version of the policy on our website, [www.tattsgroup.com](https://web.archive.org/web/20101203202253id_/http%3A//www.tattsgroup.com/home/default.aspx).
+Tatts Group reserves the right to change this Privacy Policy at any time and to notify you by posting an updated version of the policy on our website, [www.tattsgroup.com](https://web.archive.org/sitecore/shell/Controls/home/default.aspx).
 
 ## 13\. Additional Information on Privacy
 
@@ -87,4 +89,4 @@ Our contact details are as follows:
 Street Address | 615 St.Kilda Rd, Melbourne VIC 3004  
 Postal Address | Locked Bag 888 St.Kilda Rd Central, VIC 8008  
 Phone Number | +61 3 8517 7777  
-Email Address |  [penny.grau@tattsgroup.com](mailto:penny.grau@tattsgroup.com?subject=Enquiry%20from%20Tatts%20Group%20Limited%20website) or [rosann.decampo@tattsgroup.com](mailto:rosann.decampo@tattsgroup.com?subject=Enquiry%20from%20Tatts%20Group%20Limited%20website)
+Email Address | [privacyofficer@tattsgroup.com](mailto:privacyofficer@tattsgroup.com?subject=Enquiry%20from%20Tatts%20Group%20Limited%20website)
