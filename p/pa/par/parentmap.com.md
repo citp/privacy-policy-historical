@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the parentmap.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125015628id_/http%3A//www.parentmap.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parentmap.com privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604054300id_/http%3A//www.parentmap.com/privacy) for the most accurate reproduction.*
 
 # Our Online Privacy Policy - ParentMap.com
 
@@ -30,11 +30,11 @@ We may collect the following information:
   
 **How we use the information collected**
 
-If you submit personal information to us through our Web site, we may use that information to operate and maintain the Web site. For example, the information we collect allows us to send you information via email on upcoming events that may be of interest to you and your family. It allows us to send notifications about anything new and exciting at _ParentMap_ newsmagazine or parentmap.com. We may occasionally conduct online surveys and want to offer you the opportunity to participate, if you choose to. The information also allows us to provide
+If you submit personal information to us through our Web site, we may use that information to operate and maintain the Web site. For example, the information we collect allows us to send you information via email on upcoming events that may be of interest to you and your family. It allows us to send notifications about anything new and exciting at _ParentMap_ newsmagazine or parentmap.com. We may occasionally conduct online surveys and want to offer you the opportunity to participate, if you choose to. The information also allows us to provide advertisers and potential advertisers with aggregate information about our user base and usage patterns.
 
-advertisers and potential advertisers with aggregate information about our user base and usage patterns.
+We also use certain
 
-We also use certain non-personally-identifiable information, such as anonymous cookies, IP address and browser type, to improve the quality and design of our Web site; to create new features, functionality and services by storing and analyzing user preferences and trends; and to further our efforts to police the Web site and enforce our Terms of Use.
+non-personally-identifiable information, such as anonymous cookies, IP address and browser type, to improve the quality and design of our Web site; to create new features, functionality and services by storing and analyzing user preferences and trends; and to further our efforts to police the Web site and enforce our Terms of Use.
 
 **Cookies**
 
@@ -45,7 +45,7 @@ When you visit our Web site, it may pass cookies to your computer. A cookie is a
 We keep your personally identifiable information confidential and we generally do not disclose it, with the following exceptions:
 
   * We share information we collect on our Web site with the _ParentMap_ team. Our employees have access to some of your personally identifiable information for the purpose of helping us run our business. They access and use such data on a “need to know” basis confidentially. The _ParentMap_ team may use this information to invite you to events or introduce you to services that may be of interest to you. 
-  * We may share information from giveaways with carefully selected business partners that provide prizes to _ParentMap_. These companies and organizations may use the information we share to provide you with special opportunities and offers. 
+  * We may share information from giveaways with carefully selected business partners that provide prizes to _ParentMap_. These companies and organizations may use the information we share to provide you with special opportunities and offers. Also, contest winners may be asked to provide information such as physical address and phone number to prize providers for prize fulfillment purposes.
   * Our Web site may also share information with companies that provide support services to us (such as a mailing host or printer). These companies may need information about you in order to perform their functions. These companies are not authorized to use the information we share with them for any other purpose. 
   * We may disclose information you provide to our Web site when we believe disclosure is appropriate to comply with the law or to protect the rights, property, or safety of our Web site, our users, or others.
 
@@ -92,7 +92,7 @@ Seattle, WA 98116-4553
 206-709-9026  
 [Email](mailto:admin@parentmap.com)
 
-|  [< Prev](http://www.parentmap.com/awards) |    |  [Next >](http://www.parentmap.com/editorial-guidelines)  
+|  [< Prev](http://www.parentmap.com/distribution/distribution) |    |  [Next >](http://www.parentmap.com/editorial-guidelines/editorial-guidelines)  
 ---|---|---  
   
-Last Updated on Wednesday, 12 May 2010 11:23   
+Last Updated on Monday, 14 February 2011 08:41   
