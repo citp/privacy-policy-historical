@@ -1,20 +1,18 @@
-> *The following text is extracted and transformed from the redcort.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205054418id_/http%3A//www.redcort.com/company/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redcort.com privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604171352id_/http%3A//www.redcort.com/company/privacypolicy.html) for the most accurate reproduction.*
 
-# Privacy Policy of Redcort Software, Publishers of Virtual TimeClock
+# Privacy Policy of Redcort Software
 
-Redcort Software is completely committed to your privacy. The following statements disclose our information gathering and dissemination practices:  
-  
+## We Value Your Privacy
 
+Redcort Software is completely committed to your privacy. The following statements disclose our information gathering and dissemination practices:
 
 ## Privacy
 
-Our customer information is NEVER shared with any outside entity or agency beyond that which is necessary to complete credit card processing, banking transactions, or comply with a court order.  
-  
-
+Our customer information is NEVER shared with any outside entity or agency beyond that which is necessary to complete credit card processing, banking transactions, or comply with a court order.
 
 ## Security
 
-The redcort.com web site uses the best available security measures to protect against the loss, misuse or alteration of the information under our control. All credit card information and customer data is encrypted and sent via SSL (the most secure method available).
+The redcort.com web site uses industry standard security measures to protect against the loss, misuse or alteration of the information under our control. All credit card information and customer data is encrypted and sent via SSL (the most secure method available).
 
 ## Order Forms
 
@@ -22,7 +20,7 @@ Our site uses order forms for customers to request information, products, and se
 
 ## Choice / Opt Out
 
-To remove your information from our database to assure you receive no future communications or service, [contact us ](https://web.archive.org/web/20101205054418id_/http%3A//www.redcort.com/company/ "Contact Redcort Software")[here](https://web.archive.org/web/20101205054418id_/http%3A//www.redcort.com/company/ "Contact Redcort Software").
+To remove your information from our database to assure you receive no future communications or service, [contact us here](https://web.archive.org/web/20110604171352id_/http%3A//www.redcort.com/company/ "Contact Redcort Software").
 
 ## Other Sites
 
@@ -30,4 +28,20 @@ This site contains links to other web sites that are not affiliated with Redcort
 
 ## Further Information
 
-If you have any questions about this privacy statement or the practices of Redcort Software, [contact us ](https://web.archive.org/web/20101205054418id_/http%3A//www.redcort.com/company/ "Contact Us")[here](https://web.archive.org/web/20101205054418id_/http%3A//www.redcort.com/company/ "Contact Us").
+If you have any questions about this privacy statement or the practices of Redcort Software, [contact us here](https://web.archive.org/web/20110604171352id_/http%3A//www.redcort.com/company/ "Contact Redcort Software").
+
+Last update January 15, 2011
+
+[ ](http://redcort.com/company/aboutus.html "U.S. Based Time Clock software sales and support")
+
+[](http://redcort.com/company/aboutus.html "U.S. Based Time Clock software sales and support")[  
+](http://twitter.com/TimeClockTweets "Follow Virtual Time Clock Software on Twitter!")
+
+[ ](http://twitter.com/TimeClockTweets "Follow Virtual Time Clock Software on Twitter!")
+
+[](http://twitter.com/TimeClockTweets "Follow Virtual Time Clock Software on Twitter!")[  
+](http://www.facebook.com/pages/Fresno-CA/Virtual-TimeClock-Redcort-Software/353767330104 "Follow Virtual Time Clock Software on Facebook!")
+
+[ ](http://www.facebook.com/pages/Fresno-CA/Virtual-TimeClock-Redcort-Software/353767330104 "Follow Virtual Time Clock Software on Facebook!")
+
+[ ](http://www.facebook.com/pages/Fresno-CA/Virtual-TimeClock-Redcort-Software/353767330104 "Follow Virtual Time Clock Software on Facebook!")
