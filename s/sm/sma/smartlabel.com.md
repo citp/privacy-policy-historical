@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the smartlabel.com privacy policy that was archived on 2005-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051018123413id_/http%3A//www.newgistics.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartlabel.com privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604220721id_/http%3A//www.newgistics.com/privacy_policy.aspx) for the most accurate reproduction.*
 
-# Newgistics.com - Privacy Policy
+# Newgistics Privacy Policy
 
-[Home](https://web.archive.org/web/20051018123413id_/http%3A//www.newgistics.com/index.php) > Privacy Policy 
-
-Privacy Policy
-
-Newgistics has created this privacy statement to explain why we collect particular information and how we will protect your personal privacy within our Web sites. The following document discloses our information gathering and dissemination practices for [ www.newgistics.com ](http://www.newgistics.com/index.php) (collectively, the "Site"). Newgistics reserves the right to change this policy at any time by posting a new privacy policy at this location. Any such change will be effective immediately upon posting.
+Newgistics has created this privacy statement to explain why we collect particular information and how we will protect your personal privacy within our Web sites. The following document discloses our information gathering and dissemination practices for [ www.newgistics.com ](https://web.archive.org/) (collectively, the "Site"). Newgistics reserves the right to change this policy at any time by posting a new privacy policy at this location. Any such change will be effective immediately upon posting.
 
 ## What Information We Collect and How We Use That Information
 
@@ -34,5 +30,3 @@ Newgistics will provide personally identifying information about users when requ
 ## Other Web Sites
 
 Our Site contains links to other Web sites. Please note that when you click on one of these links, you are entering another Web site for which Newgistics has no responsibility. We encourage you to read the privacy statements on all such sites as their policies may be different than ours.
-
-Copyright © 2004-2005, Newgistics, Inc. All rights reserved. SmartLabel is a registered trademark of Newgistics, Inc. 
