@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the crazyegg.com privacy policy that was archived on 2010-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100722125110id_/http%3A//www.crazyegg.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crazyegg.com privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604210228id_/http%3A//www.crazyegg.com/privacy) for the most accurate reproduction.*
 
-# Crazy Egg - build heatmaps and track clicks
+# CrazyEgg
 
 At Crazy Egg we recognize that your privacy is important. We value your trust and confidence and are firmly committed to protecting the privacy of our clients and visitors to our website. Crazy Egg is equally committed to protecting the privacy of the information that it gathers. In particular, we want you to know that Crazy Egg is not in the business of selling or renting individuals' personal data to other companies for marketing purposes.
 
@@ -67,7 +67,7 @@ Crazy Egg will not access, modify, or otherwise divulge the statistical informat
 
 Crazy Egg aggregates certain broad categories of data across all the websites using Crazy Egg, such as Internet browser usage and screen resolution.
 
-[Although it does not currently, in the future Crazy Egg may aggregate clientís analytic data with the analytic data of other Crazy Egg clients to compile reports regarding web usage in general, which may be provided to third parties. This information is presented only in an aggregate form, and in no event will we compile specific site data that identifies the client or clientís website visitors without client's permission.]
+[Although it does not currently, in the future Crazy Egg may aggregate clientÃ­s analytic data with the analytic data of other Crazy Egg clients to compile reports regarding web usage in general, which may be provided to third parties. This information is presented only in an aggregate form, and in no event will we compile specific site data that identifies the client or clientÃ­s website visitors without client's permission.]
 
 ### Use of Cookies
 
