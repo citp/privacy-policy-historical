@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kanetix.ca privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224194730id_/http%3A//www.kanetix.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kanetix.ca privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605012018id_/http%3A//www.kanetix.ca/privacy) for the most accurate reproduction.*
 
 # privacy
 
@@ -6,7 +6,7 @@ Your privacy and security
 
 ####  **Our privacy pledge**
 
-Effective on September 20, 2010 
+Effective on May 12, 2011 
 
 _Kanetix_ ® believes in protecting the personal information that you provide us. We have made safe computing and the protection of your privacy an important priority. _Kanetix_ provides insurance quotes/estimates with minimal personal information. Except where mandated by the government and its regulatory bodies or the courts, the personal information that you share with us will not be shared with third parties without your prior consent. 
 
@@ -29,7 +29,7 @@ Cookies are small pieces of information stored on your hard drive. The only pers
 
 Cookie technology can save you time by eliminating the need to re-enter frequently requested information. Cookies also give us capability to understand how visitors use our site. We use this information to optimize our website and improve the visitor experience. 
 
-We use both session ID and persistent cookies to make it easier for you to navigate our site. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. If you choose to tick the box indicating you would like to be remembered, a persistent cookie is set so you don’t have to reenter your login information more than once. If you later decide that you would no longer like to be 'remembered', the cookie will be removed when you log off. You can also remove persistent cookies by following directions provided in your Internet browser’s “help” file. 
+We use both session ID and persistent cookies to make it easier for you to navigate our site. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. If you choose to tick the box indicating you would like to be remembered, a persistent cookie is set so you don't have to reenter your login information more than once. If you later decide that you would no longer like to be 'remembered', the cookie will be removed when you log off. You can also remove persistent cookies by following directions provided in your Internet browser's "help" file. 
 
 **_Advertising_** We partner with a third party ad network to manage our advertising on other sites. Our ad network partner uses cookies to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used to serve you targeted ads, you may opt-out of being served targeted ads by [clicking here](http://www.networkadvertising.org/managing/opt_out.asp). Please note this does not opt you out of being served advertising. You will continue to receive generic ads. 
 Please note that you have the option to set your browser to decline our cookies. If you choose not to receive cookies from _Kanetix_ , you may not be able to use all the services available on the site. These cookies are not tied to your personally identifiable information. 
@@ -46,6 +46,8 @@ In some provinces, _Kanetix_ offers visitors the option of personalized quotes a
 
 Also, from time to time, _Kanetix_ requests and collects personal information from visitors via surveys, contests, "Tell-a-friend" and Renewal Reminder services. Participation is completely voluntary (opt-in). Information requested has included your email address and that of the friend you are referring, name, demographic and insurance-related information. 
 
+Finally, you can log in to our site using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network. 
+
 **Communication of personal identifiable information**   
 At various points on the _Kanetix_ website and when visitors contact _Kanetix_ , visitors may be asked if they consent to sharing their personal information with 3rd parties. If they agree, _Kanetix_ , provides one or more insurance suppliers with their personal information for the purposes of either preparing or validating an insurance quote. 
 
@@ -57,7 +59,7 @@ By submitting your question, comment or suggestion online
 the information you provide becomes the property of _Kanetix_. Where necessary, we may share the information you provide in your email with 3rd parties in order to address your question, comments or concerns. The content of your email may be used for any purpose and _Kanetix_ is free to use any idea contained in it for any purpose whatsoever, including, but not limited to, developing, manufacturing and marketing products using such information. 
 
 **Tell-a-friend**   
-If you choose to use our referral service to tell a friend about our site, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. Kanetix Ltd. does not store this information. 
+If you choose to use our referral service to tell a friend about our site, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. Kanetix Ltd. does not store this information. 
 
 **What is this personally identifiable information used for?**   
 Our surveys are used to identify consumer or improve visitor satisfaction with our site. The 'Tell-a-friend' service sends an email to a friend informing him/her about our site. With our Renewal Reminder service, visitors can elect to have an email reminder sent to them a month before their insurance policy expires. 
@@ -78,7 +80,7 @@ These third parties are prohibited from using your personally identifiable infor
 If you submit a testimonial to be posted on this site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums. 
 
 **How can you change your personal information?**   
-You can change your username (email address) and password online in the 'My _Kanetix_ ' section of the site or you can update your personal information by calling us at 1 888 854 2503 or writing to us at 20 Camden Street, Toronto, Ontario, M5V 1V1. 
+You can change your username (email address) and password online in the 'My _Kanetix_ ' section of the site or you can update your personal information by calling us at 1 (888) 854-2503, (416) 599-9779, or writing to us at [20 Camden Street, Toronto, Ontario, M5V 1V1](http://maps.google.ca/maps/place?cid=11970293001746376940). 
 
 **For your protection**   
 Your password is your private, secret entry code to your account information at _Kanetix_. It is required when you first log in to view or to modify your saved information. Your password keeps your account information private and secure and you can change it as many times as you like. 
@@ -88,7 +90,7 @@ _Kanetix_ contains links to other websites. For example, you may find links to t
 **Opting out**   
 We provide you the opportunity to 'opt-out' of having your personally identifiable information used for certain purposes. For example, in some provinces we may ask your permission to obtain your credit score from a credit reporting agency, or ask you to provide details regarding your credit history. This information, along with the other details you enter will be used to provide you with a personalized offer and to determine the payment options that will be available to you. You can opt to not provide us with this permission and still get quotes. 
 
-Another example in how you can opt out involves our newsletter or renewal reminder service. If you sign up for these optional services we automatically send you a confirmation email specifying the services you requested. From these confirmation emails, you can opt-out of both of these services at any time by replying and indicating your preference to be removed from our lists. You can also opt-out by emailing us at unsubscribe@kanetix.ca, calling us at 1 888 854 2503 or by writing to us at 20 Camden Street, Toronto, Ontario, M5V 1V1. 
+Another example in how you can opt out involves our newsletter or renewal reminder service. If you sign up for these optional services we automatically send you a confirmation email specifying the services you requested. From these confirmation emails, you can opt-out of both of these services at any time by replying and indicating your preference to be removed from our lists. You can also opt-out by emailing us at unsubscribe@kanetix.ca, calling us at 1 (888) 854-2503 or by writing to us at 20 Camden Street, Toronto, Ontario, M5V 1V1. 
 
 You will be notified when your personal information is collected by any third party that is not our one of our service providers, so you can make an informed choice as to whether or not to share your information with that party. 
 
@@ -101,7 +103,7 @@ We reserve the right to disclose your personally identifiable information as req
 **If you have any concerns**   
 We are committed to providing excellent service to you. However, if you have a concern or complaint, please contact us, because we are also committed to working with you to achieve a resolution and following through to a successful conclusion as quickly as possible. In most cases, complaints are resolved simply by discussing it with us. You should be able to get swift results by: 
 
-  * calling one of our customer associates at 1-888-854-2503
+  * calling one of our customer associates at 1 (888) 854-2503
   * [sending us a question through our online form](http://www.kanetix.ca/about_generic_about_us) or,
   * writing to us at: 
 
