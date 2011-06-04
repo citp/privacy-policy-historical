@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techvalidate.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204120436id_/http%3A//www.techvalidate.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techvalidate.com privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604143651id_/http%3A//www.techvalidate.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy : TechValidate
 
