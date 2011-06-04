@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opencrm.co.uk privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231234816id_/http%3A//opencrm.co.uk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opencrm.co.uk privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604120428id_/http%3A//opencrm.co.uk/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
