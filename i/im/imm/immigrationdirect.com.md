@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the immigrationdirect.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229191458id_/http%3A//www.immigrationdirect.com/privacy-policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the immigrationdirect.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605002435id_/http%3A//www.immigrationdirect.com/privacy-policy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy - Immigration Direct - Immigration Services Online
 
@@ -114,7 +114,7 @@ You have choices when it comes to learning about our new offers, products or ser
 
 ## _Links_
 
-We are deeply committed to your right to privacy. However, please note that this Website's Privacy Policy only applies to the Website and not to any other websites that you may access from the Website, each of which may have privacy polices that are materially different from this Privacy Policy. We encourage you to be aware when you leave the Website and to read the privacy policies of each and every other website, as we are not responsible or liable for the commitments and obligations made to you in any privacy policy or the terms and conditions of any such website. 
+We are deeply committed to your right to privacy. However, please note that this Website's Privacy Policy only applies to the Website and not to any other websites that you may access from the Website, each of which may have privacy policies that are materially different from this Privacy Policy. We encourage you to be aware when you leave the Website and to read the privacy policies of each and every other website, as we are not responsible or liable for the commitments and obligations made to you in any privacy policy or the terms and conditions of any such website. 
 
 ## _Security_
 
