@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the buyusa.gov privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612050743id_/http%3A//www.export.gov/about/eg_main_016803.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buyusa.gov privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604131055id_/http%3A//www.export.gov/about/eg_main_016803.asp) for the most accurate reproduction.*
 
-# 
+# Export.gov - Privacy Policy
 
 Note: Export.gov is managed by the International Trade Administration and follows its privacy policy.
+
+**Effective Date: October 24, 2005**
+
+**Privacy Policy**
 
 Thank you for visiting an International Trade Administration (ITA) web site. ITA promotes U.S. exports and American manufacturing and services industries, protects U.S. business interests abroad, safeguards American industries and jobs against unfair trade, and enforces U.S. trade laws. In support of these activities, ITA operates the Export.Gov trade portal and other websites that occasionally collect business or personal information from our customers. We do not collect this type of information without the voluntary consent of the site visitor. ITA and the Department of Commerce extends the same protection to business identifiable information that is afforded to personally identifiable information. 
 
@@ -16,10 +20,17 @@ Our sites do not use "persistent cookies" or any persistent tracking technologie
 
 ITA does collect certain non-personal information to help us better service our site visitors. Information collected includes for example: the IP (Internet Protocol) address from which you accessed our site; the IP address of the website from which you linked to us; the name of your domain; the type of browser and operating system you are using; the date and time our site is accessed; and the pages visited. This information does not identify you personally. 
 
+**Information Collected from E-Mail, Forms and through Site Registration:**
+
 Information you submit may be viewed by various people within the ITA and other Federal agencies actively involved with international trade. If you register on one of our web sites to obtain a benefit, report a trade complaint or use any of our services, you may submit personally identifiable information, such as name, title, name/size of company, or address. Certain ITA services are reserved for U.S. firms and we may use the registration information to contact you for verification purposes before allowing access to the requested service. Information collected from the public on our websites has been authorized by The [Office of Management and Budget (OMB)](http://www.whitehouse.gov/omb/) as required under the [Paperwork Reduction Act](http://www.whitehouse.gov/omb/inforeg_infocoll/). 
+
+**Security, Intrusion, and Detection :**
 
 Unauthorized attempts to upload or change information, or otherwise cause damage to our websites, are strictly prohibited and may be punishable under applicable Federal law. For site security purposes and to ensure that this service remains available to all users, this government computer system employs software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage to the information on our Web sites. Unauthorized attempts to upload information or change information on this service are strictly prohibited and may be punishable under the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act. 
 
 Links to Other Web Sites: Our websites contain links to other federal agencies and private organizations. Websites of those organizations may contain links to outside organizations. This linking does not constitute an endorsement by ITA. These links are provided for user convenience only. 
 
-For more information, please review the [Department of Commerce Privacy Policy Statement](http://www.commerce.gov/privacystatement.html).
+For more information, please review the [Department of Commerce Privacy Policy Statement](http://www.commerce.gov/privacy-policy).
+
+  
+
