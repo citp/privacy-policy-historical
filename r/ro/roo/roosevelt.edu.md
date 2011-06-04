@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roosevelt.edu privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219115523id_/http%3A//roosevelt.edu/ITS/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roosevelt.edu privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604094737id_/http%3A//www.roosevelt.edu/ITS/Privacy.aspx) for the most accurate reproduction.*
 
 # Roosevelt University Privacy Policy
 
