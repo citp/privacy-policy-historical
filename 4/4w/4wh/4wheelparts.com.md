@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4wheelparts.com privacy policy that was archived on 2010-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100326043057id_/http%3A//www.4wheelparts.com/info/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4wheelparts.com privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604091933id_/http%3A//www.4wheelparts.com/info/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy and Site Security Policies
 
@@ -23,34 +23,52 @@ Read more
 
 4 Wheel Parts greatly appreciates your continued business, and we settle for nothing less than a safe, convenient, and altogether enjoyable shopping experience.
 
-Should you have any questions, comments, or concerns about our site, please feel free to contact our [webmaster](mailto:krourke@4wheelparts.com).
+Should you have any questions, comments, or concerns about our site, please feel free to contact our [webmaster](mailto:webmaster@4Wheelparts.com).
 
-4 Wheel Parts is serious about protecting your personal information. You can always browse our site without providing any personal information.
+Your privacy is important to us. To best serve your shopping needs, we endeavor to provide products, services, and offers of value to you. We're able to present meaningful offers to you through the information we collect from our interactions with you, from other customers, and from other parties. The following discloses our information gathering and dissemination practices for this Web site: 4Wheelparts.com.
 
-  * **Personal Records**  
-We do not keep your private information recorded anywhere on our computers -- save for invoices -- and credit card or other such information is never distributed, revealed, or sold for any reason whatsoever. 
+  * **Browsing**
 
-While doing business with you, we may have to gather certain information, such as your name, vehicle, and home or email addresses. We occasionally make our mailing list available to carefully selected companies whose products or services might interest you. If you prefer to have your name withheld, please send your name, address, city, state and zip code with explanation to: 400 West Artesia Blvd, Compton CA 90220.
+We collect certain information when you visit 4Wheelparts.com to improve the quality of your experience. The information that we collect depends upon where you travel within our site. Anytime that you visit our site to browse, read or download information, we collect and store the name of the domain and host from which you access the Internet (for example, msn.com, aol.com, etc…); the Internet protocol (IP) address of the computer you are using; the browser software you use and your operating system; the date and time you access our site; and the Internet address of the website from which you linked directly to our site. We use this information to measure the number of visitors to areas of our site, and to help us make our site more useful and interesting to our visitors.
 
-If you do not wish to receive further material from 4 Wheel Parts, you can simply respond to our email or otherwise tell us that you do not want to receive future communications.
+  * **Cookies**
 
-  * **Online Orders**  
-4 Wheel Parts also collects credit card information from you to process purchases from the site. Network Solutions, a leader in online credit card transactions and security, is used for credit card processing. Whenever you transmit credit card information and other personal information through our site, the numbers and letters are scrambled using encryption technology, making it nearly impossible for the information to be stolen or intercepted. To protect your security, we do not allow you to store your credit card number from session to session.
-  * **Cookies**  
-4 Wheel Parts, like most Web sites, uses a feature of your browser to set a "cookie" on your computer. We cannot tell your name or any personal information about you based solely on the cookie. 
+We use "cookies" on our site to enable you to save your Jeep information and to expedite any future orders. A "cookie" is a small text file that a website can place on your computer's hard drive in order, for example, to collect information about your activities on the site or to make it possible for you to use an online "shopping cart" to keep track of items you wish to purchase. The cookie transmits this information back to the Web site's computer, which, generally speaking, is the only computer that can read it. Most consumers do not know that "cookies" are being placed on their computers when they visit websites. If you want to know when this happens, or to prevent it from happening, you can set your browser to warn you when a website attempts to place a "cookie" on your computer. Our site relies upon the use of cookies to enhance your shopping experience, but our cookies do not contain nor track your personally identifiable information.
 
-Unless you specifically tell us your name and other identifying information, we will never know who you are. All the cookie tells us is what functions you perform when you are on the site so that we can keep track of your transaction. A cookie also helps 4 Wheel Parts note particular traffic patterns on the site so that we can improve what we offer.
+  * **Online Registration Request**
 
-Every browser allows you to reject cookies or to choose which cookies you will accept. Rejecting cookies, however, may sometimes interfere with your ability to use all the features and benefits of our site.
+If you choose to purchase a product from us, we will collect your personally identifiable information, such as your name, e-mail address, billing postal address, shipping postal address, telephone number, credit card number and expiration date ("Purchase Information") in order to properly process your purchase. You may not modify or remove your Purchase Information - even if you cancel or return your product order - as it is necessary to maintain a record of your initial product purchase.
 
-  * **Third Parties**  
-On occasion, we provide non-personal, aggregate information about our users to third parties such as manufacturers and business partners. For example, we may inform a tire manufacturer about what other products its users buy. This information will not identify any user personally.
-  * **Outside Links**  
-4 Wheel Parts may offer links to other sites. Any time you click on a link and are transported to another site, you should be aware that the other site may have a different privacy policy than 4 Wheel Parts. We cannot control the policies of other sites.
-  * **Changes**  
-This privacy policy is subject to change at the sole discretion of 4 Wheel Parts. When we modify it, we will post the changes in a revised policy statement.
+  * **Contest**
+
+We run contests on our site in which we ask visitors for contact information (like e-mail address). We use contact data from our contests to send users information about our company and promotional material from some of our partners. The customer's contact information is also used to contact the visitor when necessary and shared with other companies who may want to contact our visitors. Users may opt-out of receiving future mailings; see the choice/opt-out section below. We use vehicle identification and make and model information to tailor the visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences.
+
+  * **Links to other sites**
+
+This site contains links to other sites. 4Wheelparts.com is not responsible for the privacy practices or the content of such linked Web sites.
+
+  * **Mailing List**
+
+We may make our customer list available to companies whose offerings may be of interest. If you prefer not to receive these mailings, please write to us at: Mail List Preference, 4Wheel Drive Hardware, PO Box 57, Columbiana, OH 44408. We will not give your email address to other companies.
+
+  * **Duplicate Catalog**
+
+If you are receiving more than one copy of our catalog, please send us both mailing labels or call our Customer Service Department and indicate which one is the most correct. Or please share your extra catalog with a "Jeeper" friend.
+
+  * **Printing Errors**
+
+Although every effort is made to keep our catalog and website error free, mistakes sometimes occur. We are not responsible for typographical and or technical errors. Price and shipping rates are subject to change without notice.
+
+  * **How Can I Opt Out of Receiving Further Communication?**
+
+To be removed from your Catalog Mailing List: You can contact us by mail at the address listed above and let us know which specific catalog you wish to stop receiving. We will make every effort to implement any choice you make as soon as possible, but you should allow approximately three months for mailing change requests to be fully implemented.
+
+To unsubscribe from an E-Mail List: Simply send an email to [webmaster@4Wheelparts.com](mailto:webmaster@4Wheelparts.com?subject=REMOVE), subject line: REMOVE.
 
 
+
+
+**NOTE: This policy may be modified from time to time. You are encouraged to review this policy on a monthly basis.**
 
 ## Back to TopInternet Security: How 4WheelParts.com Protects Your Information
 
