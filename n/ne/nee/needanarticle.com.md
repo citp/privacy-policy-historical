@@ -1,23 +1,31 @@
-> *The following text is extracted and transformed from the needanarticle.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125215421id_/http%3A//www.needanarticle.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the needanarticle.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605014610id_/http%3A//needanarticle.com/index2/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# NAA PRivacy Policy
 
-**OUR PRIVACY POLICY**  
-Need-an-article.com is committed to protecting the privacy of our online visitors. We collect information from online visitors who ask to be on our newsletter mailing list and/or receive periodic email announcements. Anyone who wishes can choose to be removed from our mailing list at any time. 
+**Your Privacy**  
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
-In addition, online visitors who wish to purchase a membership through our Web site must provide their name, email address, mailing address, phone number, and credit card number and expiration date. All credit card transactions occur over a secure connection. 
+**Google Adsense and/or DoubleClick DART and other Cookies**  
+Google, as a third party advertisement vendor, uses cookies to serve ads.You may find such ads on these pages, as well as others which use the cookie concept.. The use of DART cookies by Google enables them to serve adverts to visitors that are based on their visits to this website as well as other sites on the internet.
 
-All online visitor data collected by Need-an-article.com/net is protected against unauthorized access. We will not sell, trade, or give your personal information to other companies or organizations. If need-an-article.com as a whole is sold to another party all user's information collected will remain intact with need-an-article.com/net
+To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following url <http://www.google.com/privacy_ads.html> Tracking of users through the DART cookie mechanisms are subject to Google’s own privacy policies.
 
-**Children’s Privacy**
+Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, Need An Article has no access or control over these cookies that may be used by third party advertisers.
 
-We do not knowingly collect personal information from children under the age of 13. If we learn that we have personal information on a child under the age of 13, we will delete that information from our systems. Need-an-article.com encourages parents to go online with their kids. Here are a few tips to help make a child's online experience safer:
+**Our Commitment To Childrens Privacy**  
+Protecting the privacy of the very young is especially important. For that reason, Need An Article will never collect or maintain information at our website from those we actually know are under 18, and no part of our website is structured to attract anyone under 18. Our services are generally not for sale to those under the age of 18.
 
-Teach kids never to give personal information, unless supervised by a parent or responsible adult. Includes name, address, phone, school, etc. 
+**Collection of Personal Information**  
+When visiting Need An Article, the IP address used to access the site will be logged along with the dates and times of access. This information is purely used to analyze trends, administer the site, track users movement and gather broad demographic information for internal use. Most importantly, any recorded IP addresses are not linked to personally identifiable information.
 
-Know the sites your kids are visiting and which sites are appropriate. 
+At no time will your information be released to anyone without being required to satisfy the legal requirement, or to preserve our rights or those of our customers.
 
-Look for Web site privacy policies. Know how your child's information is treated. 
+**Links to third party Websites**  
+We have included links on this site for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these sites may differ from our own.
 
-Check out the FTC's site <<http://www.ftc.gov/bcp/conline/edcams/kidzprivacy/index.html>> for more tips on protecting children's privacy online.  
+**Changes to this Privacy Statement**  
+The contents of this statement may be altered at any time, at our discretion.
 
+If you have any questions regarding the privacy policy of Need An Article then you may contact us at naasupport@gmail.com
+
+Last updated Fri, 30 Jul 2010 23:35
