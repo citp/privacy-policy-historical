@@ -1,262 +1,640 @@
-<!--The following is the downloaded HTML source of the vbtutor.net privacy policy that was archived on 2010-11-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101129203411id_/http%3A//www.vbtutor.net/privacypolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vbtutor.net privacy policy that was archived on 2011-06-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110604163829id_/http%3A//www.vbtutor.net/index.php/privacy_policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-  <meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
-  <title>Privacy policy</title>
-  <meta name="generator" content="Amaya, see http://www.w3.org/Amaya/">
-  <style type="text/css" title="Amaya theme">
-/* Classic style for Amaya Editor Lite */
+<!DOCTYPE html><html dir="ltr" lang="en-US"><head>
+<meta charset="UTF-8">
+<title>Privacy Policy | Visual Basic Tutorial and Resource Center</title>
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="stylesheet" type="text/css" media="all" href="http://www.vbtutor.net/wordpress/wp-content/themes/twentyten/style.css">
+<link rel="pingback" href="http://www.vbtutor.net/wordpress/xmlrpc.php">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+	window.google_analytics_uacct = "UA-3249832-1";
+</script>
+	<meta name="keywords" content="Visual Basic,visual basic,Visual Basic 6,vb,vb6,visual basic turorial,visual basic 2010 tutorial,vb2008,Visual Basic 2010,vb2010,visual basic programming,online degree,online education,university degree,online course,software,computer programming,software enginnering,programming language,vb net,online business course,visual basic net,Visual Basic Tutorial,Visual Basic 6 tutorial,Visual Basic 2005,Visual Basic 2008,VBA,VisualBasic教程，VisualBasic 6 教程 ，VB 教学,Visual Basic程序设计， VB编程， VB教程">
+<script type="text/javascript">
+//<![CDATA[
+var BrowserDetect = {
+init: function () {
+this.browser = this.searchString(this.dataBrowser) || "An unknown browser";
+this.version = this.searchVersion(navigator.userAgent)|| this.searchVersion(navigator.appVersion)|| "an unknown version";
+this.OS = this.searchString(this.dataOS) || "an unknown OS";
+},
+searchString: function (data) {
+for (var i=0;i<data.length;i++)	{
+        var dataString = data[i].string;
+        var dataProp = data[i].prop;
+        this.versionSearchString = data[i].versionSearch || data[i].identity;
+        if (dataString) {if (dataString.indexOf(data[i].subString) != -1)
+                return data[i].identity;}
+        else if (dataProp){return data[i].identity;}
+}
+},
+searchVersion: function (dataString) {
+var index = dataString.indexOf(this.versionSearchString);
+if (index == -1) return;
+return parseFloat(dataString.substring(index+this.versionSearchString.length+1));
+},
+dataBrowser: [
+        {string: navigator.userAgent,subString: "Chrome",identity: "Chrome"},
+        {string: navigator.userAgent,subString: "OmniWeb",versionSearch: "OmniWeb/",identity: "OmniWeb"},
+        {string: navigator.vendor,subString: "Apple",identity: "Safari",versionSearch: "Version"},
+        {prop: window.opera,identity: "Opera"},
+        {string: navigator.vendor,subString: "iCab",identity: "iCab"},
+        {string: navigator.vendor,subString: "KDE",identity: "Konqueror"},
+        {string: navigator.userAgent,subString: "Firefox",identity: "Firefox"},
+        {string: navigator.vendor,subString: "Camino",identity: "Camino"},
+        {string: navigator.userAgent,subString: "Netscape",identity: "Netscape"},
+        {string: navigator.userAgent,subString: "MSIE",identity: "Explorer",versionSearch: "MSIE"},
+        {string: navigator.userAgent,subString: "Gecko",identity: "Mozilla",versionSearch: "rv"},
+        {string: navigator.userAgent,subString: "Mozilla",identity: "Netscape",versionSearch: "Mozilla"}],
+dataOS:[{string: navigator.platform,subString: "Win",identity: "Windows"},
+        {string: navigator.platform,subString: "Mac",identity: "Mac"},
+        {string: navigator.userAgent,subString: "iPhone",identity: "iPhone/iPod"},
+        {string: navigator.platform,subString: "Linux",identity: "Linux"}]
+};
+BrowserDetect.init();
 
-/* default rules for the whole document */
-body {
-    font-size: 12pt;
-    font-family: Times, serif;
-    font-weight: normal;
-    font-style: normal;
-    color: black;
-    background-color: white;
-    line-height: 1em;
-    margin-left: 4em;
-    margin-right: 2em;
-   }
+function bookMark(theurl, thetitle, browser){
+    switch(browser){
+        case "Firefox":
+            window.sidebar.addPanel(thetitle, theurl,"");
+            break;
+        case "Explorer":
+            window.external.AddFavorite( theurl, thetitle);
+            break;
+        case "Chrome":
+        case "Safari":
+        case "Opera":
+        case "Netscape":
+            switch(BrowserDetect.OS){
+            case "Windows":
+            case "Linux":
+            alert('press ctrl+D to bookmark this page');
+            break;
+            case "Mac":
+                alert('press cmd+D to bookmark this page');
+            break;
+            }
+            break;
+    }
+}
+//]]>
+</script>
+                        <style type="text/css" media="screen">
+                                .socialwrap li.icon_text a img, .socialwrap li.iconOnly a img, .followwrap li.icon_text a img, .followwrap li.iconOnly a img{border-width:0 !important;background-color:none;}#follow.right {width:32px;position:fixed; right:0; top:100px;background-color:#878787;padding:10px 0;font-family:impact,charcoal,arial, helvetica,sans-serif;-moz-border-radius-topleft: 5px;-webkit-border-top-left-radius:5px;-moz-border-radius-bottomleft:5px;-webkit-border-bottom-left-radius:5px;border:2px solid #fff;border-right-width:0}#follow.right ul {padding:0; margin:0; list-style-type:none !important;font-size:24px;color:black;}
+#follow.right ul li {padding-bottom:10px;list-style-type:none !important;padding-left:4px;padding-right:4px}
+#follow img{border:none;}#follow.right ul li.follow {margin:0 4px;}
+#follow.right ul li.follow img {border-width:0;display:block;overflow:hidden; background:transparent url(http://www.vbtutor.net/wordpress/wp-content/plugins/share-and-follow/images/impact/follow-right.png) no-repeat -0px 0px;height:79px;width:20px;}
+#follow.right ul li a {display:block;}
+#follow.right ul li.follow span, #follow ul li a span {display:none}.share {margin:0 3px 3px 0;}
+.phat span {display:inline;}
+ul.row li {float:left;list-style-type:none;}
+li.iconOnly a span.head {display:none}
+#follow.left ul.size16 li.follow{margin:0px auto !important}
+li.icon_text a {padding-left:0;margin-right:3px}
+li.text_only a {background-image:none !important;padding-left:0;}
+li.text_only a img {display:none;}
+li.icon_text a span{background-image:none !important;padding-left:0 !important; }
+li.iconOnly a span.head {display:none}
+ul.socialwrap li {margin:0 3px 3px 0 !important;}
+ul.socialwrap li a {text-decoration:none;}ul.row li {float:left;line-height:auto !important;}
+ul.row li a img {padding:0}.size16 li a,.size24 li a,.size32 li a, .size48 li a, .size60 li a {display:block}ul.socialwrap {list-style-type:none !important;margin:0; padding:0;text-indent:0 !important;}
+ul.socialwrap li {list-style-type:none !important;background-image:none;padding:0;list-style-image:none !important;}
+ul.followwrap {list-style-type:none !important;margin:0; padding:0}
+ul.followwrap li {margin-right:3px;margin-bottom:3px;list-style-type:none !important;}
+#follow.right ul.followwrap li, #follow.left ul.followwrap li {margin-right:0px;margin-bottom:0px;}
+.shareinpost {clear:both;padding-top:0px}.shareinpost ul.socialwrap {list-style-type:none !important;margin:0 !important; padding:0 !important}
+.shareinpost ul.socialwrap li {padding-left:0 !important;background-image:none !important;margin-left:0 !important;list-style-type:none !important;text-indent:0 !important}
+.socialwrap li.icon_text a img, .socialwrap li.iconOnly a img{border-width:0}ul.followrap li {list-style-type:none;list-style-image:none !important;}
+div.clean {clear:left;}
+div.display_none {display:none;}
+                        </style>
+                                                <style type="text/css" media="print">
+                                body {background: white;font-size: 12pt;color:black;}
+ * {background-image:none;}
+ #wrapper, #content {width: auto;margin: 0 5%;padding: 0;border: 0;float: none !important;color: black;background: transparent none;}
+ a { text-decoration : underline; color : #0000ff; }
+#menu, #navigation, #navi, .menu {display:none}
+                        </style>
+                        <link rel="image_src" href=""> 
+<link rel="alternate" type="application/rss+xml" title="Visual Basic Tutorial and Resource Center » Feed" href="http://www.vbtutor.net/index.php/feed/">
+<link rel="alternate" type="application/rss+xml" title="Visual Basic Tutorial and Resource Center » Comments Feed" href="http://www.vbtutor.net/index.php/comments/feed/">
+				
+	<script type="text/javascript">//<![CDATA[
+	// Google Analytics for WordPress by Yoast v4.06 | http://yoast.com/wordpress/google-analytics/
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount','UA-3249832-1']);
+	_gaq.push(['_trackPageview']);
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+	// End of Google Analytics for WordPress by Yoast v4.0
+	//]]></script>
+<link rel="alternate" type="application/rss+xml" title="Visual Basic Tutorial and Resource Center » Privacy Policy Comments Feed" href="http://www.vbtutor.net/index.php/privacy_policy/feed/">
+<script type="text/javascript" src="http://www.vbtutor.net/wordpress/wp-includes/js/comment-reply.js?ver=20090102"></script>
+<script type="text/javascript" src="http://www.vbtutor.net/wordpress/wp-includes/js/jquery/jquery.js?ver=1.4.2"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.vbtutor.net/wordpress/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.vbtutor.net/wordpress/wp-includes/wlwmanifest.xml"> 
+<link rel="index" title="Visual Basic Tutorial and Resource Center" href="http://www.vbtutor.net/">
+<link rel="prev" title="Disclaimer" href="http://www.vbtutor.net/index.php/disclaimer/">
+<link rel="next" title="Home" href="http://www.vbtutor.net/">
+<meta name="generator" content="WordPress 3.0.1">
+<link rel="canonical" href="http://www.vbtutor.net/index.php/privacy_policy/">
+<style type="text/css">
+body { background-image: url('http://www.vbtutor.net/wordpress/wp-content/uploads/2010/12/bg1.jpg'); background-repeat: repeat; background-position: top center; background-attachment: fixed; }
+</style>
+<!-- All in one Favicon 2.1 | by Arne Franken, http://www.techotronic.de/ -->                        <link rel="shortcut icon" href="http://www.vbtutor.net/wordpress/wp-content/uploads/2010/12/3files.ico"><!-- All in one Favicon 2.1 | by Arne Franken, http://www.techotronic.de/ --></head>
 
-/* paragraphs */
-p  {
-    padding: 0;
-    margin-top: 0em;
-    margin-bottom: 0em;
-    text-align: justify;
-    text-indent: 1em;
-   }
+<body class="page page-id-79 page-template page-template-default">
+<div id="wrapper" class="hfeed">
+	<div id="header">
+		<div id="masthead">
+			<div id="branding" role="banner">
+								<div id="site-title">
+					<span>
+						<a href="http://www.vbtutor.net/" title="Visual Basic Tutorial and Resource Center" rel="home">Visual Basic Tutorial and Resource Center</a>
+					</span>
+				</div>
+				<div id="site-description">This is the Visual Basic Learning Center where you can learn VB from various tutorials</div>
 
-/* headings */
-h1 {
-    background-color: #e8e1e1;
-    font-size: 150%;
-    font-weight: bold;
-    font-style: normal;
-    font-variant: normal;
-    text-align: center;
-    padding: 0;
-    margin-top: .7em;
-    margin-bottom: 2em;
-   }
-h2 {
-    font-size: 130%;
-    font-weight: bold;
-    font-style: normal;
-    padding: 0;
-    margin-top: .7em;
-    margin-bottom: .7em;
-   }
-h3 {
-    font-size: 100%;
-    font-weight: bold;
-    font-style: normal;
-    padding: 0;
-    margin-top: .5em;
-    margin-bottom: .5em;
-   }
-h4 {
-    font-size: 100%;
-    font-weight: bold;
-    font-style: normal;
-    padding: 0;
-    margin-top: .3em;
-    margin-bottom: .3em;
-   }
-h5 {
-    font-size: 100%;
-    font-weight: bold;
-    font-style: italic;
-    padding: 0;
-    margin-top: .3em;
-    margin-bottom: .3em;
-   }
-h6 {
-    font-size: 100%;
-    font-weight: bold;
-    font-style: normal;
-    padding: 0;
-    margin-top: .3em;
-    margin-bottom: .3em;
-   }
+										<img src="http://www.vbtutor.net/wordpress/wp-content/uploads/2010/12/vbtutorlogo1.png" width="940" height="198" alt="">
+								</div><!-- #branding -->
 
-/* divisions */
-div {
-    padding: 0;
-    margin-top: 0em;
-    margin-bottom: 0em;
-   }
+			<div id="access" role="navigation">
+			  				<div class="skip-link screen-reader-text"><a href="#content" title="Skip to content">Skip to content</a></div>
+								<div class="menu"><ul><li><a href="http://www.vbtutor.net/" title="Home">Home</a></li><li class="page_item page-item-192"><a href="http://www.vbtutor.net/index.php/tutorial/" title="VB Tutorials">VB Tutorials</a><ul class="children"><li class="page_item page-item-391"><a href="http://www.vbtutor.net/index.php/tutorial/visual-basic-6-tutorial/" title="Visual Basic 6 Tutorial">Visual Basic 6 Tutorial</a></li><li class="page_item page-item-251"><a href="http://www.vbtutor.net/index.php/tutorial/visual-basic-2008-tutorial/" title="Visual Basic 2008 Tutorial">Visual Basic 2008 Tutorial</a></li><li class="page_item page-item-257"><a href="http://www.vbtutor.net/index.php/tutorial/visual-basic-2010-tutorial/" title="Visual Basic 2010 Tutorial">Visual Basic 2010 Tutorial</a></li><li class="page_item page-item-263"><a href="http://www.vbtutor.net/index.php/tutorial/excel-vba-tutorial/" title="Excel VBA Tutorial">Excel VBA Tutorial</a></li></ul></li><li class="page_item page-item-202"><a href="http://www.vbtutor.net/index.php/vb-books/" title="VB Books">VB Books</a><ul class="children"><li class="page_item page-item-53"><a href="http://www.vbtutor.net/index.php/vb-books/visual-basic-book-written-by-the-webmaster/" title="Webmaster’s Books">Webmaster’s Books</a></li><li class="page_item page-item-316"><a href="http://www.vbtutor.net/index.php/vb-books/visual-basic-6-books/" title="Visual Basic 6 Books">Visual Basic 6 Books</a></li><li class="page_item page-item-319"><a href="http://www.vbtutor.net/index.php/vb-books/visual-basic-2008-books/" title="Visual Basic 2008 Books">Visual Basic 2008 Books</a></li><li class="page_item page-item-323"><a href="http://www.vbtutor.net/index.php/vb-books/visual-basic-2010-books/" title="Visual Basic 2010 Books">Visual Basic 2010 Books</a></li><li class="page_item page-item-329"><a href="http://www.vbtutor.net/index.php/vb-books/excel-vba-books/" title="Excel VBA Books">Excel VBA Books</a></li><li class="page_item page-item-347"><a href="http://www.vbtutor.net/index.php/vb-books/amazon-com-vb-store/" title="Amazon.com VB Store">Amazon.com VB Store</a></li></ul></li><li class="page_item page-item-240"><a href="http://www.vbtutor.net/index.php/vb6-sample-programs/" title="Sample VB Programs">Sample VB Programs</a><ul class="children"><li class="page_item page-item-505"><a href="http://www.vbtutor.net/index.php/vb6-sample-programs/animated-slot-machine/" title="Animated Slot Machine">Animated Slot Machine</a></li></ul></li><li class="page_item page-item-147"><a href="http://www.vbtutor.net/index.php/latest-articles/" title="Latest News">Latest News</a></li><li class="page_item page-item-265"><a href="http://www.vbtutor.net/index.php/chinesevb/" title="中文Visual Basic教程">中文Visual Basic教程</a></li><li class="page_item page-item-2"><a href="http://www.vbtutor.net/index.php/about/" title="About Us">About Us</a></li><li class="page_item page-item-73"><a href="http://www.vbtutor.net/index.php/disclaimer/" title="Disclaimer">Disclaimer</a></li><li class="page_item page-item-79 current_page_item"><a href="http://www.vbtutor.net/index.php/privacy_policy/" title="Privacy Policy">Privacy Policy</a></li></ul></div>
+			</div><!-- #access -->
+		</div><!-- #masthead -->
+	</div><!-- #header -->
 
-/* lists */
-ul, ol {
-    padding: 0 0 0 2em;
-    margin-top: .1em;
-    margin-bottom: .1em;
-   }
-ul ul, ol ol, ul ol, ol ul {
-    margin-top: .1em;
-    margin-bottom: .1em;
-   }
-li {
-    padding: 0;
-    margin-top: .1em;
-    margin-bottom: .1em;
-    text-align: justify;
-   }
-li p {
-    margin-top: .1em;
-    margin-bottom: .1em;
-   }
-dl {
-    padding: 0;
-    margin-top: .1em;
-    margin-bottom: .1em;
-    margin-left: 1em;
-   }
-dl dl {
-    margin-top: .1em;
-    margin-bottom: .1em;
-   }
-dt {
-    padding: 0;
-    font-weight: bold;
-    margin-top: .1em;
-    margin-bottom: .1em;
-   }
-dd {
-    padding: 0;
-    margin-top: .1em;
-    margin-left: 1.5em;
-    margin-bottom: .1em;
-   }
-dl p {
-    margin-top: .1em;
-    margin-bottom: .1em;
-   }
-th {
-    background-color: #e8e1e1;
-   }
+	<div id="main">
 
-/* inline */
-strong {
-    font-weight: bold;
-   }
-em {
-    font-style: italic;
-   }
-code {
-    font-family: Courier New, Courier, monospace;
-   }
-ins {
-    background-color: inherit;
-    text-decoration: underline;
-   }
-del {
-    text-decoration: line-through;
-   }
+<style type="text/css">
+@import url(http://www.google.com/cse/api/branding.css);
+</style>
+<div class="cse-branding-right" style="background-color:#FFFFFF;color:#000000">
+  <div class="cse-branding-form">
+    <form action="http://www.vbtutor.net/" id="cse-search-box">
+      <div>
+        <input type="hidden" name="cx" value="partner-pub-3033628290023372:qe3erd-33dt">
+        <input type="hidden" name="cof" value="FORID:10">
+        <input type="hidden" name="ie" value="ISO-8859-1">
+        <input type="text" name="q" size="31">
+        <input type="submit" name="sa" value="Search">
+      </div>
+    </form>
+  </div>
+  <div class="cse-branding-logo">
+    <img src="http://www.google.com/images/poweredby_transparent/poweredby_FFFFFF.gif" alt="Google">
+  </div>
+  <div class="cse-branding-text">
+    Custom Search
+  </div>
+</div>
 
-/* anchors */
-a[href] {
-    color: purple;
-    text-decoration: underline;
-   }
-
-/* end */
-  </style>
-</head>
-
-<body>
-<h1 style="text-align:center;margin-left:auto;margin-right:auto;">Privacy
-Policy</h1>
-
-<p>Thank you for visiting our website, vbtutor.net. Our privacy policy
-describes how we collect and use personal information at our website . We are
-committed to protect and safeguard your privacy while visiting our web site. We
-may change our privacy policy from time to time but any changes will be updated
-in this page. </p>
-
-<p></p>
-
-<p style="line-height:2em;"></p>
-
-<p style="line-height:2em;"><strong>Collection of Personal
-Information</strong></p>
-
-<p style="line-height:2em;"></p>
-
-<p></p>
-
-<p>Our website vbtutor.net collects personally identifiable information such as
-name and email address when visitors voluntarily fill up forms to give feedback
-in our guest book or participate in our mailing list. This information is only
-used to improve our website and to provide better services to our visitors .</p>
-
-<p></p>
-
-<p style="line-height:2em;"></p>
-
-<p style="line-height:2em;"><strong>The use of Cookies </strong></p>
-
-<p style="line-height:2em;"></p>
-
-<p></p>
-
-<p>Our website uses cookies for gathering non-personal information such as
-browser type, operating system and number of visitors to our site. Cookies are
-also employed by our advertisers such as Google to serve and display
-advertisements on our website,vbtutor.net If you do not wish to view those
-advertisement, you may configure your web-browser to disable the cookies. </p>
-
-<p style="line-height:2em;"></p>
-
-<p></p>
-
-<p style="line-height:2em;"><strong>Dissemination of Information</strong></p>
-
-<p></p>
-
-<p></p>
-
-<p>Please be assured that we will not share, distribute and sell your personal
-information to outside parties.The information collected is solely used to
-serve our visitors better.</p>
-
-<p></p>
-
-<p style="line-height:2em;"></p>
-
-<p style="line-height:2em;"><strong>Data Security</strong></p>
-
-<p></p>
-
-<p></p>
-
-<p>We assure you that your personally identifiable information is kept secure
-all the time through the implementation of a variety of security measures.</p>
-
-<p></p>
-
-<p style="line-height:2em;"></p>
-
-<p style="line-height:2em;"><strong>Contact Information</strong></p>
-
-<p></p>
-
-<p>If you have any questions about our privacy policy you may contact us using
-the information below:</p>
-
-<p style="line-height:2em;"></p>
-
-<p style="line-height:2em;">e-mail: <a href="mailto:admin@vbtutor.net">admin@vbtutor.net</a></p>
-
-<p style="line-height:2em;"></p>
-
-<p></p>
-
-<p></p>
+<div id="cse-search-results"></div>
+<script type="text/javascript">
+  var googleSearchIframeName = "cse-search-results";
+  var googleSearchFormName = "cse-search-box";
+  var googleSearchFrameWidth = 800;
+  var googleSearchDomain = "www.google.com";
+  var googleSearchPath = "/cse";
+</script>
+<script type="text/javascript" src="http://www.google.com/afsonline/show_afs_search.js"></script>
 
 
-</body></html>
+
+
+
+		<div id="container">
+			<div id="content" role="main">
+
+
+				<div id="post-79" class="post-79 page type-page hentry">
+											<h1 class="entry-title">Privacy Policy</h1>
+					
+					<div class="entry-content">
+						<p></p><p>Your privacy is very important to us. Accordingly, we have developed this Policy 
+
+  in order for you to understand how we collect, use, communicate and make use 
+
+  of personal information. The following outlines our Privacy Policy. </p>
+
+<p>When accessing our Website,  will learn certain information about 
+
+  you during your visit.</p>
+
+<p>Similar to other commercial Web sites, our Web site utilizes a standard technology 
+
+  called "cookies" (see explanation below, "What Are Cookies?") 
+
+  and Web server logs to collect information about how our Web site is used. Information 
+
+  gathered through cookies and Web server logs may include the date and time of 
+
+  visits, the pages viewed, time spent at our Web site, and the Web sites visited 
+
+  just before and just after our Web site, your IP address.</p>
+
+<p><br>
+
+  <strong>What Are Cookies?</strong></p>
+
+<p>A cookie is a very small text document, which often includes an anonymous unique 
+
+  identifier. When you visit a Web site, that site's computer asks your computer 
+
+  for permission to store this file in a part of your hard drive specifically 
+
+  designated for cookies. Each Web site can send its own cookie to your browser 
+
+  if your browser's preferences allow it, but (to protect your privacy) your browser 
+
+  only permits a Web site to access the cookies it has already sent to you, not 
+
+  the cookies sent to you by other sites.</p>
+
+<p><br>
+
+  <strong>IP Addresses</strong></p>
+
+<p>IP addresses are used by your computer every time you are connected to the 
+
+  Internet. Your IP address is a number that is used by computers on the network 
+
+  to identify your computer. IP addresses are automatically collected by our web 
+
+  server as part of demographic and profile data known as “traffic data” 
+
+  so that data (such as the Web pages you request) can be sent to you.</p>
+
+<p><br>
+
+  <strong>Email Information</strong></p>
+
+<p>If you choose to correspond with us through email, we may retain the content 
+
+  of your email messages together with your email address and our responses. We 
+
+  provide the same protections for these electronic communications that we employ 
+
+  in the maintenance of information received online, mail and telephone.</p>
+
+<p><br>
+
+  <strong>How Do We Use the Information That You Provide to Us?</strong></p>
+
+<p>Broadly speaking, we use personal information for purposes of administering 
+
+  our business activities, providing customer service and making available other 
+
+  items and services to our customers and prospective customers.</p>
+
+<p> will not obtain personally-identifying information about you when you 
+
+  visit our site, unless you choose to provide such information to us, nor will 
+
+  such information be sold or otherwise transferred to unaffiliated third parties 
+
+  without the approval of the user at the time of collection.</p>
+
+<p>We may disclose information when legally compelled to do so, in other words, 
+
+  when we, in good faith, believe that the law requires it or for the protection 
+
+  of our legal rights.</p>
+
+<p><strong><br>
+
+  A Special Note About Children</strong></p>
+
+<p>Children are not eligible to use our web site and services and we ask that 
+
+  minors (under the age of 13) do not submit any personal information to us. If 
+
+  you are a minor, you can use this site only in conjunction with permission and 
+
+  guidance from your parents or guardians.</p>
+
+<p><br>
+
+  <strong>How Do We Protect Your Information and Secure Information Transmissions?</strong></p>
+
+<p>Email is not recognized as a secure medium of communication. For this reason, 
+
+  we request that you do not send private information to us by email. However, 
+
+  doing so is allowed, but at your own risk. Some of the information you may enter 
+
+  on our Web site may be transmitted securely via a secure medium known as Secure 
+
+  Sockets Layer, or SSL. Credit Card information is never transmitted via email.</p>
+
+<p> may use software programs to create summary statistics, which are used 
+
+  for such purposes as assessing the number of visitors to the different sections 
+
+  of our site, what information is of most and least interest, determining technical 
+
+  design specifications, and identifying system performance or problem areas.</p>
+
+<p>For site security purposes and to ensure that this service remains available 
+
+  to all users,  uses software programs to monitor network traffic to identify 
+
+  unauthorized attempts to upload or change information, or otherwise cause damage.</p>
+
+<p><br>
+
+  <strong>Policy Changes</strong></p>
+
+<p>We reserve the right to amend this privacy policy at any time with or without 
+
+  notice. However, please be assured that if the Privacy Policy changes in the 
+
+  future, we will not use the personal information you have submitted to us under 
+
+  this Privacy Policy in a manner that is materially inconsistent with this Privacy 
+
+  Policy, without your prior consent.</p>
+
+<p>We are committed to conducting our business in accordance with these principles 
+
+  in order to ensure that the confidentiality of personal information is protected 
+
+  and maintained. </p>
+
+<p><strong><br>
+
+  Contact</strong></p>
+
+<p>If you have any questions regarding this Policy, or your dealings with our 
+
+  web site, please contact us.</p>
+
+<p><br>
+
+  <br>
+
+  <br>
+
+  admin@vbtutor.net</p><p></p>
+<div class="shareinpost"><ul class="socialwrap row"><li class="iconOnly"><a rel="nofollow" target="_blank" href="http://www.blogger.com/blog_this.pyra?t&amp;u=http%3A%2F%2Fwww.vbtutor.net%2Findex.php%2Fprivacy_policy%2F&amp;n=Privacy+Policy&amp;pli=1" onclick="javascript:_gaq.push(['_trackPageview','/yoast-ga/outbound-article/www.blogger.com/blog_this.pyra?t&amp;u=http%3A%2F%2Fwww.vbtutor.net%2Findex.php%2Fprivacy_policy%2F&amp;n=Privacy+Policy&amp;pli=1']);" title="Share this post : Privacy Policy on Blogger"><img src="http://www.vbtutor.net/wordpress/wp-content/plugins/share-and-follow/images/blank.png" height="32" style="background: transparent url(http://www.vbtutor.net/wordpress/wp-content/plugins/share-and-follow/default/32/sprite-32.png) no-repeat;padding:0;margin:0;height:32px;width:32px;background-position:-66px 0px" class="image-32" width="32" alt="blogger"> <span class="head">Blog this!</span></a></li><li class="iconOnly"><a rel="nofollow" target="_blank" href="http://delicious.com/post?url=http%3A%2F%2Fwww.vbtutor.net%2Findex.php%2Fprivacy_policy%2F&amp;title=Privacy+Policy" onclick="javascript:_gaq.push(['_trackPageview','/yoast-ga/outbound-article/delicious.com/post?url=http%3A%2F%2Fwww.vbtutor.net%2Findex.php%2Fprivacy_policy%2F&amp;title=Privacy+Policy']);" title="Bookmark this post : Privacy Policy on Delicious"><img src="http://www.vbtutor.net/wordpress/wp-content/plugins/share-and-follow/images/blank.png" height="32" style="background: transparent url(http://www.vbtutor.net/wordpress/wp-content/plugins/share-and-follow/default/32/sprite-32.png) no-repeat;padding:0;margin:0;height:32px;width:32px;background-position:-198px 0px" class="image-32" width="32" alt="delicious"> <span class="head">Bookmark on Delicious</span></a></li><li class="iconOnly"><a rel="nofollow" target="_blank" href="http://digg.com/submit?url=http%3A%2F%2Fwww.vbtutor.net%2Findex.php%2Fprivacy_policy%2F&amp;title=Privacy+Policy&amp;bodytext=" onclick="javascript:_gaq.push(['_trackPageview','/yoast-ga/outbound-article/digg.com/submit?url=http%3A%2F%2Fwww.vbtutor.net%2Findex.php%2Fprivacy_policy%2F&amp;title=Privacy+Policy&amp;bodytext=']);" title="Digg this post : Privacy Policy"><img src="http://www.vbtutor.net/wordpress/wp-content/plugins/share-and-follow/images/blank.png" height="32" style="background: transparent url(http://www.vbtutor.net/wordpress/wp-content/plugins/share-and-follow/default/32/sprite-32.png) no-repeat;padding:0;margin:0;height:32px;width:32px;background-position:-264px 0px" class="image-32" width="32" alt="digg"> <span class="head">Digg this post</span></a></li><li class="iconOnly"><a rel="nofollow" target="_blank" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.vbtutor.net%2Findex.php%2Fprivacy_policy%2F&amp;t=Privacy+Policy" onclick="javascript:_gaq.push(['_trackPageview','/yoast-ga/outbound-article/www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.vbtutor.net%2Findex.php%2Fprivacy_policy%2F&amp;t=Privacy+Policy']);" title="Recommend this post : Privacy Policy on Facebook"><img src="http://www.vbtutor.net/wordpress/wp-content/plugins/share-and-follow/images/blank.png" height="32" style="background: transparent url(http://www.vbtutor.net/wordpress/wp-content/plugins/share-and-follow/default/32/sprite-32.png) no-repeat;padding:0;margin:0;height:32px;width:32px;background-position:-363px 0px" class="image-32" width="32" alt="facebook"> <span class="head">Recommend on Facebook</span></a></li><li class="iconOnly"><a rel="nofollow" target="_blank" href="http://www.google.com/buzz/post?url=http%3A%2F%2Fwww.vbtutor.net%2Findex.php%2Fprivacy_policy%2F&amp;title=Privacy+Policy" onclick="javascript:_gaq.push(['_trackPageview','/yoast-ga/outbound-article/www.google.com/buzz/post?url=http%3A%2F%2Fwww.vbtutor.net%2Findex.php%2Fprivacy_policy%2F&amp;title=Privacy+Policy']);" title="Buzz up this post : Privacy Policy "><img src="http://www.vbtutor.net/wordpress/wp-content/plugins/share-and-follow/images/blank.png" height="32" style="background: transparent url(http://www.vbtutor.net/wordpress/wp-content/plugins/share-and-follow/default/32/sprite-32.png) no-repeat;padding:0;margin:0;height:32px;width:32px;background-position:-627px 0px" class="image-32" width="32" alt="google_buzz"> <span class="head">Buzz it up</span></a></li><li class="iconOnly"><a rel="nofollow" target="_blank" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fwww.vbtutor.net%2Findex.php%2Fprivacy_policy%2F&amp;title=Privacy+Policy&amp;&amp;summary=" onclick="javascript:_gaq.push(['_trackPageview','/yoast-ga/outbound-article/www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fwww.vbtutor.net%2Findex.php%2Fprivacy_policy%2F&amp;title=Privacy+Policy&amp;&amp;summary=']);" title="Share this post : Privacy Policy on Linkedin"><img src="http://www.vbtutor.net/wordpress/wp-content/plugins/share-and-follow/images/blank.png" height="32" style="background: transparent url(http://www.vbtutor.net/wordpress/wp-content/plugins/share-and-follow/default/32/sprite-32.png) no-repeat;padding:0;margin:0;height:32px;width:32px;background-position:-891px 0px" class="image-32" width="32" alt="linkedin"> <span class="head">Share on Linkedin</span></a></li><li class="iconOnly"><a rel="nofollow" target="_blank" href="http://www.myspace.com/Modules/PostTo/Pages/?u=http%3A%2F%2Fwww.vbtutor.net%2Findex.php%2Fprivacy_policy%2F" onclick="javascript:_gaq.push(['_trackPageview','/yoast-ga/outbound-article/www.myspace.com/Modules/PostTo/Pages/?u=http%3A%2F%2Fwww.vbtutor.net%2Findex.php%2Fprivacy_policy%2F']);" title="Share this post : Privacy Policy via MySpace"><img src="http://www.vbtutor.net/wordpress/wp-content/plugins/share-and-follow/images/blank.png" height="32" style="background: transparent url(http://www.vbtutor.net/wordpress/wp-content/plugins/share-and-follow/default/32/sprite-32.png) no-repeat;padding:0;margin:0;height:32px;width:32px;background-position:-1056px 0px" class="image-32" width="32" alt="myspace"> <span class="head">Share via MySpace</span></a></li><li class="iconOnly"><a rel="nofollow" target="_blank" href="http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.vbtutor.net%2Findex.php%2Fprivacy_policy%2F&amp;title=Privacy+Policy" onclick="javascript:_gaq.push(['_trackPageview','/yoast-ga/outbound-article/www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.vbtutor.net%2Findex.php%2Fprivacy_policy%2F&amp;title=Privacy+Policy']);" title="Share this post : Privacy Policy with Stumblers"><img src="http://www.vbtutor.net/wordpress/wp-content/plugins/share-and-follow/images/blank.png" height="32" style="background: transparent url(http://www.vbtutor.net/wordpress/wp-content/plugins/share-and-follow/default/32/sprite-32.png) no-repeat;padding:0;margin:0;height:32px;width:32px;background-position:-1617px 0px" class="image-32" width="32" alt="stumble"> <span class="head">Share with Stumblers</span></a></li><li class="iconOnly"><a rel="nofollow" target="_blank" href="http://twitter.com/home/?status=Privacy+Policy+-+http%3A%2F%2Fwww.vbtutor.net%2Findex.php%2Fprivacy_policy%2F" onclick="javascript:_gaq.push(['_trackPageview','/yoast-ga/outbound-article/twitter.com/home/?status=Privacy+Policy+-+http%3A%2F%2Fwww.vbtutor.net%2Findex.php%2Fprivacy_policy%2F']);" title="Tweet this post : Privacy Policy on Twitter"><img src="http://www.vbtutor.net/wordpress/wp-content/plugins/share-and-follow/images/blank.png" height="32" style="background: transparent url(http://www.vbtutor.net/wordpress/wp-content/plugins/share-and-follow/default/32/sprite-32.png) no-repeat;padding:0;margin:0;height:32px;width:32px;background-position:-1749px 0px" class="image-32" width="32" alt="twitter"> <span class="head">Tweet about it</span></a></li><li class="iconOnly"><a rel="nofollow" target="_blank" href="http://buzz.yahoo.com/buzz?targetUrl=http%3A%2F%2Fwww.vbtutor.net%2Findex.php%2Fprivacy_policy%2F" onclick="javascript:_gaq.push(['_trackPageview','/yoast-ga/outbound-article/buzz.yahoo.com/buzz?targetUrl=http%3A%2F%2Fwww.vbtutor.net%2Findex.php%2Fprivacy_policy%2F']);" title="Buzz up this post : Privacy Policy "><img src="http://www.vbtutor.net/wordpress/wp-content/plugins/share-and-follow/images/blank.png" height="32" style="background: transparent url(http://www.vbtutor.net/wordpress/wp-content/plugins/share-and-follow/default/32/sprite-32.png) no-repeat;padding:0;margin:0;height:32px;width:32px;background-position:-1980px 0px" class="image-32" width="32" alt="yahoo_buzz"> <span class="head">Buzz it up</span></a></li><li class="iconOnly"><a rel="_self" href="http://www.vbtutor.net/index.php/privacy_policy/feed" title="Follow this post : Privacy Policy comments"><img src="http://www.vbtutor.net/wordpress/wp-content/plugins/share-and-follow/images/blank.png" height="32" width="32" style="background: transparent url(http://www.vbtutor.net/wordpress/wp-content/plugins/share-and-follow/default/32/sprite-32.png) no-repeat;padding:0;margin:0;height:32px;width:32px;background-position:-1452px 0px" class="image-32" alt="rss"> <span class="head">Subscribe to the comments on this post</span></a></li><li class="iconOnly"><a rel="nofollow" target="_self" href="javascript:window.print();" title="Print this post : Privacy Policy for reading later"><img src="http://www.vbtutor.net/wordpress/wp-content/plugins/share-and-follow/images/blank.png" height="32" style="background: transparent url(http://www.vbtutor.net/wordpress/wp-content/plugins/share-and-follow/default/32/sprite-32.png) no-repeat;padding:0;margin:0;height:32px;width:32px;background-position:-1386px 0px" class="image-32" width="32" alt="print"> <span class="head">Print for later</span></a></li><li class="iconOnly"><a rel="nofollow" target="_self" href="javascript:window.bookMark('http%3A%2F%2Fwww.vbtutor.net%2Findex.php%2Fprivacy_policy%2F', 'Privacy+Policy', BrowserDetect.browser);" title="Bookmark this post : Privacy Policy"><img src="http://www.vbtutor.net/wordpress/wp-content/plugins/share-and-follow/images/blank.png" height="32" style="background: transparent url(http://www.vbtutor.net/wordpress/wp-content/plugins/share-and-follow/default/32/sprite-32.png) no-repeat;padding:0;margin:0;height:32px;width:32px;background-position:-99px 0px" class="image-32" width="32" alt="bookmark"> <span class="head">Bookmark in Browser</span></a></li><li class="iconOnly"><a rel="_self" href="mailto:?subject=Visual%20Basic%20Tutorial%20and%20Resource%20Center%20:%20Privacy%20Policy&amp;body=here%20is%20a%20link%20to%20a%20site%20I%20really%20like.%20%20%20http://www.vbtutor.net/index.php/privacy_policy/" title="Tell a friend about this post : Privacy Policy "><img src="http://www.vbtutor.net/wordpress/wp-content/plugins/share-and-follow/images/blank.png" height="32" width="32" style="background: transparent url(http://www.vbtutor.net/wordpress/wp-content/plugins/share-and-follow/default/32/sprite-32.png) no-repeat;padding:0;margin:0;height:32px;width:32px;background-position:-330px 0px" class="image-32" alt="email"> <span class="head">Tell a friend</span></a></li></ul><div class="clean"></div> </div><div style="padding: 10px 0 " class="interactive_bottom"><iframe allowtransparency="true" frameborder="0" scrolling="no" src="http://platform.twitter.com/widgets/tweet_button.html?url=http%3A%2F%2Fwww.vbtutor.net%2Findex.php%2Fprivacy_policy%2F&amp;text=Privacy Policy&amp;count=vertical&amp;lang=  " style="width:65px; height:65px;"></iframe><iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.vbtutor.net%2Findex.php%2Fprivacy_policy%2F&amp;layout=box_count&amp;show_faces=false&amp;width=65&amp;action=like&amp;font=arial&amp;colorscheme=light&amp;height=65" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:65px; height:65px;" allowtransparency="true"></iframe><script src="http://www.stumbleupon.com/hostedbadge.php?s=5&amp;r=http%3A%2F%2Fwww.vbtutor.net%2Findex.php%2Fprivacy_policy%2F"></script></div>																	</div><!-- .entry-content -->
+				</div><!-- #post-## -->
+
+				
+			<div id="comments">
+
+
+			<h3 id="comments-title">5 Responses to <em>Privacy Policy</em></h3>
+
+
+			<ol class="commentlist">
+					<li class="comment even thread-even depth-1" id="li-comment-68">
+		<div id="comment-68">
+		<div class="comment-author vcard">
+			<img alt="" src="http://1.gravatar.com/avatar/9e0669b5f5ef9a60e9d911583e584123?s=40&amp;d=identicon&amp;r=G" class="avatar avatar-40 photo" height="40" width="40">			<cite class="fn"><a href="http://www.lifeinsuranceindiaonline.com" onclick="javascript:_gaq.push(['_trackPageview','/yoast-ga/outbound-commentauthor/http://www.lifeinsuranceindiaonline.com']);" rel="external nofollow" class="url">lic india</a></cite> <span class="says">says:</span>		</div><!-- .comment-author .vcard -->
+		
+		<div class="comment-meta commentmetadata"><a href="http://www.vbtutor.net/index.php/privacy_policy/#comment-68">
+			December 12, 2010 at 12:55 am</a>		</div><!-- .comment-meta .commentmetadata -->
+
+		<div class="comment-body"><p>Great article. Really enjoyed reading your blog posts.</p>
+</div>
+
+		<div class="reply">
+			<a rel="nofollow" class="comment-reply-link" href="/index.php/privacy_policy/?replytocom=68#respond" onclick="return addComment.moveForm(&quot;comment-68&quot;, &quot;68&quot;, &quot;respond&quot;, &quot;79&quot;)">Reply</a>		</div><!-- .reply -->
+	</div><!-- #comment-##  -->
+
+	</li>
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-67">
+		<div id="comment-67">
+		<div class="comment-author vcard">
+			<img alt="" src="http://1.gravatar.com/avatar/96b60b92c3566c12d9be09af8bafad68?s=40&amp;d=identicon&amp;r=G" class="avatar avatar-40 photo" height="40" width="40">			<cite class="fn"><a href="http://www.lifeinsuranceindiaonline.com" onclick="javascript:_gaq.push(['_trackPageview','/yoast-ga/outbound-commentauthor/http://www.lifeinsuranceindiaonline.com']);" rel="external nofollow" class="url">LIC</a></cite> <span class="says">says:</span>		</div><!-- .comment-author .vcard -->
+		
+		<div class="comment-meta commentmetadata"><a href="http://www.vbtutor.net/index.php/privacy_policy/#comment-67">
+			December 11, 2010 at 11:35 pm</a>		</div><!-- .comment-meta .commentmetadata -->
+
+		<div class="comment-body"><p>Got this awesome website via Yahoo answers, a really good post, thanks.</p>
+</div>
+
+		<div class="reply">
+			<a rel="nofollow" class="comment-reply-link" href="/index.php/privacy_policy/?replytocom=67#respond" onclick="return addComment.moveForm(&quot;comment-67&quot;, &quot;67&quot;, &quot;respond&quot;, &quot;79&quot;)">Reply</a>		</div><!-- .reply -->
+	</div><!-- #comment-##  -->
+
+	</li>
+	<li class="comment even thread-even depth-1" id="li-comment-66">
+		<div id="comment-66">
+		<div class="comment-author vcard">
+			<img alt="" src="http://0.gravatar.com/avatar/448c19abeddabafe05e1b22f11355c8a?s=40&amp;d=identicon&amp;r=G" class="avatar avatar-40 photo" height="40" width="40">			<cite class="fn"><a href="http://www.lifeinsuranceindiaonline.com" onclick="javascript:_gaq.push(['_trackPageview','/yoast-ga/outbound-commentauthor/http://www.lifeinsuranceindiaonline.com']);" rel="external nofollow" class="url">life insurance india</a></cite> <span class="says">says:</span>		</div><!-- .comment-author .vcard -->
+		
+		<div class="comment-meta commentmetadata"><a href="http://www.vbtutor.net/index.php/privacy_policy/#comment-66">
+			December 11, 2010 at 11:07 pm</a>		</div><!-- .comment-meta .commentmetadata -->
+
+		<div class="comment-body"><p>Hi mate, I enjoyed your post. Bookmarked it.</p>
+</div>
+
+		<div class="reply">
+			<a rel="nofollow" class="comment-reply-link" href="/index.php/privacy_policy/?replytocom=66#respond" onclick="return addComment.moveForm(&quot;comment-66&quot;, &quot;66&quot;, &quot;respond&quot;, &quot;79&quot;)">Reply</a>		</div><!-- .reply -->
+	</div><!-- #comment-##  -->
+
+	</li>
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-61">
+		<div id="comment-61">
+		<div class="comment-author vcard">
+			<img alt="" src="http://1.gravatar.com/avatar/b9b156eaf6105b1da11f1d17994b5160?s=40&amp;d=identicon&amp;r=G" class="avatar avatar-40 photo" height="40" width="40">			<cite class="fn"><a href="http://www.FixDarkCirclesUnderEyes.com" onclick="javascript:_gaq.push(['_trackPageview','/yoast-ga/outbound-commentauthor/http://www.FixDarkCirclesUnderEyes.com']);" rel="external nofollow" class="url">eye cream for dark circles</a></cite> <span class="says">says:</span>		</div><!-- .comment-author .vcard -->
+		
+		<div class="comment-meta commentmetadata"><a href="http://www.vbtutor.net/index.php/privacy_policy/#comment-61">
+			December 11, 2010 at 5:24 pm</a>		</div><!-- .comment-meta .commentmetadata -->
+
+		<div class="comment-body"><p>Nice post had great time reading it . thanks a lot.</p>
+</div>
+
+		<div class="reply">
+			<a rel="nofollow" class="comment-reply-link" href="/index.php/privacy_policy/?replytocom=61#respond" onclick="return addComment.moveForm(&quot;comment-61&quot;, &quot;61&quot;, &quot;respond&quot;, &quot;79&quot;)">Reply</a>		</div><!-- .reply -->
+	</div><!-- #comment-##  -->
+
+	</li>
+	<li class="comment even thread-even depth-1" id="li-comment-28">
+		<div id="comment-28">
+		<div class="comment-author vcard">
+			<img alt="" src="http://0.gravatar.com/avatar/41b9cd505a9e670ab97b1d903014d2b0?s=40&amp;d=identicon&amp;r=G" class="avatar avatar-40 photo" height="40" width="40">			<cite class="fn"><a href="http://www.articleonlinedirectory.com/Art/554004/420/content-lockdown-a-no-nonsense-review.html" onclick="javascript:_gaq.push(['_trackPageview','/yoast-ga/outbound-commentauthor/http://www.articleonlinedirectory.com/Art/554004/420/content-lockdown-a-no-nonsense-review.html']);" rel="external nofollow" class="url">Content Lockdown</a></cite> <span class="says">says:</span>		</div><!-- .comment-author .vcard -->
+		
+		<div class="comment-meta commentmetadata"><a href="http://www.vbtutor.net/index.php/privacy_policy/#comment-28">
+			December 5, 2010 at 12:48 am</a>		</div><!-- .comment-meta .commentmetadata -->
+
+		<div class="comment-body"><p>Thanks for that awesome posting. It saved MUCH time <img src="http://www.vbtutor.net/wordpress/wp-includes/images/smilies/icon_smile.gif" alt=":-)" class="wp-smiley"> </p>
+</div>
+
+		<div class="reply">
+			<a rel="nofollow" class="comment-reply-link" href="/index.php/privacy_policy/?replytocom=28#respond" onclick="return addComment.moveForm(&quot;comment-28&quot;, &quot;28&quot;, &quot;respond&quot;, &quot;79&quot;)">Reply</a>		</div><!-- .reply -->
+	</div><!-- #comment-##  -->
+
+	</li>
+			</ol>
+
+
+
+								<div id="respond">
+				<h3 id="reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/index.php/privacy_policy/#respond" style="display:none;">Cancel reply</a></small></h3>
+									<form action="http://www.vbtutor.net/wordpress/wp-comments-post.php" method="post" id="commentform">
+																			<p class="comment-notes">Your email address will not be published. Required fields are marked <span class="required">*</span></p>							<p class="comment-form-author"><label for="author">Name</label> <span class="required">*</span><input id="author" name="author" type="text" value="" size="30" aria-required="true"></p>
+<p class="comment-form-email"><label for="email">Email</label> <span class="required">*</span><input id="email" name="email" type="text" value="" size="30" aria-required="true"></p>
+<p class="comment-form-url"><label for="url">Website</label><input id="url" name="url" type="text" value="" size="30"></p>
+												<p class="comment-form-comment"><label for="comment">Comment</label><textarea id="comment" name="comment" cols="45" rows="8" aria-required="true"></textarea></p>						<p class="form-allowed-tags">You may use these <abbr title="HyperText Markup Language">HTML</abbr> tags and attributes:  <code>&lt;a href="" title=""&gt; &lt;abbr title=""&gt; &lt;acronym title=""&gt; &lt;b&gt; &lt;blockquote cite=""&gt; &lt;cite&gt; &lt;code&gt; &lt;del datetime=""&gt; &lt;em&gt; &lt;i&gt; &lt;q cite=""&gt; &lt;strike&gt; &lt;strong&gt; </code></p>						<p class="form-submit">
+							<input name="submit" type="submit" id="submit" value="Post Comment">
+							<input type="hidden" name="comment_post_ID" value="79" id="comment_post_ID">
+<input type="hidden" name="comment_parent" id="comment_parent" value="0">
+						</p>
+											</form>
+							</div><!-- #respond -->
+			<script type="text/javascript" charset="utf-8">
+    jQuery(document).ready(function() {
+        jQuery('#commentform').submit(function() {
+            _gaq.push(
+                ['_setAccount','UA-3249832-1'],
+                ['_trackEvent','comment']
+            );
+        });
+    });    
+</script>
+			
+</div><!-- #comments -->
+
+
+			</div><!-- #content -->
+		</div><!-- #container -->
+
+
+		<div id="primary" class="widget-area" role="complementary">
+			<ul class="xoxo">
+
+<li id="text-4" class="widget-container widget_text"><h3 class="widget-title">Other Tutorials by the Webmaster</h3>			<div class="textwidget"><br>
+<b>
+<ul>
+<li><a href="http://javascript-tutor.net/" onclick="javascript:_gaq.push(['_trackPageview','/yoast-ga/outbound-widget/javascript-tutor.net/']);">JavaScript Tutorial</a>
+</li><li><a href="http://excelvbatutor.com/">Excel VBA Tutorial
+</a></li><li><a href="http://onlinebizguide4you.com" onclick="javascript:_gaq.push(['_trackPageview','/yoast-ga/outbound-widget/onlinebizguide4you.com']);">Online Business Guide</a>
+</li><li><a href="http://www.htmltutor.org/" onclick="javascript:_gaq.push(['_trackPageview','/yoast-ga/outbound-widget/www.htmltutor.org/']);">HTML Tutorial</a>
+
+</li></ul>
+</b>
+
+
+
+</div>
+		</li><li id="text-9" class="widget-container widget_text"><h3 class="widget-title">Subscribe to VB tutorial</h3>			<div class="textwidget"><a href="http://feeds.feedburner.com/VisualBasicTutorialAndResourceCenter" onclick="javascript:_gaq.push(['_trackPageview','/yoast-ga/outbound-widget/feeds.feedburner.com/VisualBasicTutorialAndResourceCenter']);" title="Subscribe to my feed" rel="alternate" type="application/rss+xml"><img src="http://www.feedburner.com/fb/images/pub/feed-icon32x32.png" alt="" style="border:0"></a><a href="http://feeds.feedburner.com/VisualBasicTutorialAndResourceCenter" onclick="javascript:_gaq.push(['_trackPageview','/yoast-ga/outbound-widget/feeds.feedburner.com/VisualBasicTutorialAndResourceCenter']);" title="Subscribe to my feed" rel="alternate" type="application/rss+xml">Subscribe in a reader</a></div>
+		</li><li id="text-10" class="widget-container widget_text">			<div class="textwidget"><script type="text/javascript"><!--
+google_ad_client = "pub-3033628290023372";
+/* 160x600, created 1/26/08 */
+google_ad_slot = "3724556250";
+google_ad_width = 160;
+google_ad_height = 600;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div>
+		</li><li id="text-13" class="widget-container widget_text"><h3 class="widget-title">Download VB2008 book</h3>			<div class="textwidget"><p><a href="http://www.vbtutor.net/vb2008/vb2008book.htm"><img src="http://www.vbtutor.net/VB2008Book/vb2008bookcover.jpg" border="0" alt="" width="160" height="240"></a>
+</p></div>
+		</li><li id="text-12" class="widget-container widget_text">			<div class="textwidget"><script type="text/javascript"><!--
+amazon_ad_tag = "liewvoonkiong"; amazon_ad_width = "160"; amazon_ad_height = "600";//--></script>
+<script type="text/javascript" src="http://www.assoc-amazon.com/s/ads.js"></script></div>
+		</li><li id="text-6" class="widget-container widget_text">			<div class="textwidget"><!-- AddThis Button BEGIN -->
+<div class="addthis_toolbox addthis_default_style ">
+<a href="http://www.addthis.com/bookmark.php?v=250&amp;username=liewvk" onclick="javascript:_gaq.push(['_trackPageview','/yoast-ga/outbound-widget/www.addthis.com/bookmark.php?v=250&amp;username=liewvk']);" class="addthis_button_compact">Share</a>
+<span class="addthis_separator">|</span>
+<a class="addthis_button_preferred_1"></a>
+<a class="addthis_button_preferred_2"></a>
+<a class="addthis_button_preferred_3"></a>
+<a class="addthis_button_preferred_4"></a>
+</div>
+<script type="text/javascript">var addthis_config = {"data_track_clickback":true};</script>
+<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=liewvk"></script>
+<!-- AddThis Button END -->
+		
+</div>
+		</li><li id="text-7" class="widget-container widget_text">			<div class="textwidget"><a href="http://twitter.com/share" onclick="javascript:_gaq.push(['_trackPageview','/yoast-ga/outbound-widget/twitter.com/share']);" class="twitter-share-button" data-url="http://www.vbtutor.net" data-text="Learn how to program in Visual Basic" data-count="horizontal" data-via="liewvk">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+</div>
+		</li>			</ul>
+		</div><!-- #primary .widget-area -->
+
+
+		<div id="secondary" class="widget-area" role="complementary">
+			<ul class="xoxo">
+				<li id="text-14" class="widget-container widget_text">			<div class="textwidget"><a href="http://www.dpbolvw.net/click-4216810-10424994" onclick="javascript:_gaq.push(['_trackPageview','/yoast-ga/outbound-widget/www.dpbolvw.net/click-4216810-10424994']);">SAVE $55.20! HP Smart Buy ProBook 4525s Dual-Core P340 2.20GHz Notebook only $441.79 (was $496.99)after INSTANT rebates (ends 09/30)</a><img src="http://www.tqlkg.com/image-4216810-10424994" width="1" height="1" border="0"></div>
+		</li>		<li id="recent-posts-3" class="widget-container widget_recent_entries">		<h3 class="widget-title">Recent Posts</h3>		<ul>
+				<li><a href="http://www.vbtutor.net/index.php/2011/05/18/job-vacancy-vb-programmers/" title="Job Vacancy for VB programmers">Job Vacancy for VB programmers</a></li>
+				<li><a href="http://www.vbtutor.net/index.php/2011/03/30/amortization-program/" title="Amortization Program">Amortization Program</a></li>
+				</ul>
+		</li><li id="text-11" class="widget-container widget_text"><h3 class="widget-title">Useful Links</h3>			<div class="textwidget"><ul>
+<li><a href="http://www.vb6.us" onclick="javascript:_gaq.push(['_trackPageview','/yoast-ga/outbound-widget/www.vb6.us']);">More VB6 tutorial</a>
+</li></ul></div>
+		</li><li id="archives-3" class="widget-container widget_archive"><h3 class="widget-title">Archives</h3>		<select name="archive-dropdown" onchange="document.location.href=this.options[this.selectedIndex].value;"> <option value="">Select Month</option> 	<option value="http://www.vbtutor.net/index.php/2011/05/"> May 2011 </option>
+	<option value="http://www.vbtutor.net/index.php/2011/03/"> March 2011 </option>
+	<option value="http://www.vbtutor.net/index.php/2010/12/"> December 2010 </option>
+	<option value="http://www.vbtutor.net/index.php/2010/11/"> November 2010 </option>
+	<option value="http://www.vbtutor.net/index.php/2009/11/"> November 2009 </option>
+ </select>
+</li>			</ul>
+		</div><!-- #secondary .widget-area -->
+
+	</div><!-- #main -->
+
+	<div id="footer" role="contentinfo">
+
+		<div id="colophon">
+
+
+
+			<div id="footer-widget-area" role="complementary">
+
+				<div id="first" class="widget-area">
+					<ul class="xoxo">
+						<li id="text-8" class="widget-container widget_text">			<div class="textwidget"><script type="text/javascript"><!--
+google_ad_client = "pub-3033628290023372";
+/* Index_page_bottom, created 12/19/07 */
+google_ad_slot = "1067499274";
+google_ad_width = 728;
+google_ad_height = 15;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div>
+		</li>					</ul>
+				</div><!-- #first .widget-area -->
+
+
+
+
+			</div><!-- #footer-widget-area -->
+
+			<div id="site-info">
+
+			</div><!-- #site-info -->
+
+			<div id="site-generator">
+				
+		</div><!-- #colophon -->
+	</div><!-- #footer -->
+
+</div><!-- #wrapper -->
+
+
+<p><i><font face="Verdana" size="-1">Copyright ® 2010</font></i><font face="Arial"><font face="Verdana" size="2"><font size="-1"><i>
+
+</i>Dr.Liew Voon Kiong<b><i>
+
+	. </i> </b>All rights reserved</font>&nbsp;|</font><i><font size="-1" face="Verdana">Contact: </font>
+
+<font size="-1" color="#FF0070" face="Verdana"><a href="mailto:admin@vbtutor.net">
+
+	admin@vbtutor.net</a></font></i><font face="Verdana" size="2"> </font> 
+
+      </font>
+
+    </p>
+
+
+
+</div></body></html>
