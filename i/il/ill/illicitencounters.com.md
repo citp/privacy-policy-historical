@@ -1,38 +1,58 @@
-> *The following text is extracted and transformed from the illicitencounters.com privacy policy that was archived on 2010-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101030105441id_/http%3A//illicitencounters.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the illicitencounters.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605014621id_/http%3A//www.illicitencounters.com/help/faq/id/3) for the most accurate reproduction.*
 
-# Recommended Site: Illicit Encounters® - About Us - Married Dating Site.
+# Recommended Site - Married Dating UK - Illicit Encounters® - Extra marital affairs and dating
 
-For me, its not about saving marriage, but certainly about bringing back old (and now decreased) attraction.
-
-Member **749
-
-[More testimonials...](https://web.archive.org/about/testimonials)
+  * **Free Registration**
+  * **Free Profile**
+  * **Free Search**
+  * **Free Profile Matching**
 
   
 
 
-[Up to 'About Illicit Encounters®'](https://web.archive.org/about/)
+I just wanted to say thank you after meeting a couple of nice men I met a very special one. Instant attraction for both of us physically and mentally, we met for 5 times and meeting again tomorrow I can't wait.
 
-## Privacy Policy
+Member ***153
 
-[](https://web.archive.org/faq/3/)
+[More testimonials](https://web.archive.org/testimonials) ...
 
-Protecting your privacy is very important to our website. We will not sell, lease or exchange your personal data to third parties without first obtaining your express consent.
+  
 
-This privacy policy describes how we collect and use your data. If you have any questions or comments regarding our privacy policy or its enforcement, please feel free to contact us via our [contact form](https://web.archive.org/?page=contact_us).
-
-Illicit Encounters® collects information our users submit to us such as their name and e-mail address to allow us to identify users and notify them of changes or updates to our service. We also collect personal information submitted by our users in filling out their profile on the service such as gender, location, age, etc. We collect this personal information when our users: sign up as a member; make changes to their member profile information; and send e-mail messages. Members may choose to provide additional information beyond their basic profile for their other profile sections. Providing additional information beyond what is required at registration is entirely optional, but enables our users to better connect and interact with each other. 
-
-Like many other Web sites, Illicit Encounters® uses a standard technology called "cookies." Cookies are small pieces of information stored on your hard drive - not on our site. They can help make the Internet experience quicker and more convenient. Members who disable cookies will not be able to use all the features of Illicit Encounters®. 
-
-We will not sell, lease or exchange your personal data to third parties without first obtaining your express consent, unless required by law or to protect your membership. 
-
-The Illicit Encounters® site may contain links to other Web sites. Please be aware that Illicit Encounters® is not responsible for the privacy practices of other sites our users choose to visit. If our users provide any information directly to parties other than Illicit Encounters®, different rules may apply to the use or disclosure of the personal information disclosed. We encourage you to investigate and ask questions before disclosing your personal information to third parties. 
-
-Please be aware that whenever members voluntarily disclose personal information online - e.g. user profiles, shout messages etc - that information becomes public and can be collected and used by others. By posting personal information online in public forums, members may receive unsolicited messages from other parties.
 
 * * *
 
-[Up to 'About Illicit Encounters®'](https://web.archive.org/about/)
+## What is your Privacy Policy?
 
-There are 416 registered users online 
+  
+This Web site is operated by Illicit Encounters.  
+
+
+All data is owned and managed by Illicit Encounters. Illicit Encounters has created this privacy statement in order to demonstrate our firm commitment to privacy.
+
+All member contact and identification data is kept absolutely confidential and is never disclosed to other members or any other third parties.
+
+The following discloses the information gathering and dissemination practices for this Web site.
+
+Illicit Encounters confirms that all personal data handled and stored by us is done so in strict compliance with the latest Data Protection Act 1998.
+
+Information Automatically Logged : We use your IP address to help diagnose problems with our server and to administer our Web site, and to help identify you and your chosen set up of the web site. Your IP address is also used to gather broad demographic information, and for other purposes.
+
+Cookies : Our Site uses cookies to keep track of your chosen set up of the web site, and to make sure you don't see the same ad repeatedly. We also use cookies to deliver content specific to your interests, to save your password so you don't have to re-enter it each time you visit our site, and for other purposes.
+
+Registration Forms : Our site's registration form requires users to give us contact information (like your name, and email address), and demographic information (like your post/zipcode, age, or interests). Contact information from the registration forms is used to help us find you your "Ideal Partner". The customer's contact information is also used to send promotional material from some of our partners to our customers, and to get in touch with the customer when necessary.
+
+External Links : This site contains links to other sites. Illicit Encounters is not responsible for the privacy practices or the content of such Websites.
+
+Public Forums : This site makes your profile available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
+
+Choice/Opt-Out : Our site provides users the opportunity to delete their profile at any time by request to the online administrator or email to admin@illicitencounters.com.
+
+Email messages on this site are scanned for the sole purpose of detecting fraudulent activity.
+
+Data Quality/Access : Users can change any information provided by using the "Modify Profile" feature.
+
+Contacting the Web Site : If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please do not hesitate to contact us.  
+
+
+There are 90 registered users online  
+
