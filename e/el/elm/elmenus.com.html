@@ -1,0 +1,973 @@
+<!--The following is the downloaded HTML source of the elmenus.com privacy policy that was archived on 2011-06-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110604172934id_/http%3A//elmenus.com/privacy.aspx) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head id="ctl00_Head1"><title>
+	Privacy Policy - elmenus.com
+</title><meta property="og:site_name" content="elmenus.com"><meta property="fb:app_id" content="130949746951756"><link id="ctl00_Link1" rel="shortcut icon" href="favicon.ico" type="image/x-icon"><link id="ctl00_Link2" rel="icon" href="favicon.ico" type="image/ico"><link type="text/css" href="css/uniform.default.css" rel="stylesheet"><link href="javascript/facebox/facebox.css" rel="stylesheet" type="text/css"><link href="css/prettyPhoto.css" rel="stylesheet" type="text/css"><link rel="stylesheet" href="css/style.css">
+  
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="javascript/jquery-1.5.1.min.js" type="text/javascript"></script>
+    <script src="javascript/facebox/facebox.js" type="text/javascript"></script>
+    <script src="javascript/jquery.infieldlabel.js" type="text/javascript"></script>
+    <script type="text/javascript" src="javascript/elmenus.js"></script>
+    <script type="text/javascript" src="javascript/jquery.uniform.min.js"></script>
+    
+    <script type="text/javascript">
+        var reviewBox;
+        $(function () {
+            $(reviewBox).keydown(function (event) {
+                var length = $(this).val().length;
+                if (event.which != 8 && event.which != 0 && length >= 4000) {
+                    $("#reviewlimitmessage").show();
+                    event.preventDefault();
+                }
+                else if (event.which == 8) {
+                    $("#reviewlimitmessage").hide();
+                }
+            });
+
+            var worker;
+            $("#serverMessage").slideDown("slow", function () { worker = setTimeout(function () { $("#serverMessage").slideUp(); }, 20000); });
+            $("#serverMessage span").click(function () { clearTimeout(worker); $("#serverMessage").slideUp("slow"); });
+        });
+    </script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $(".inputsearch label.searchWatermark").inFieldLabels();
+            /* update hint text */
+            if ($(".searchwrapper input[type='hidden']").val() == 'Items') {
+                $('#food-hint').show(); $('#rest-hint').hide();
+                $('#divFoodAutoComplete').show(); $('#divResAutoComplete').hide();
+            }
+            else {
+                $('#food-hint').hide(); $('#rest-hint').show();
+                $('#divFoodAutoComplete').hide(); $('#divResAutoComplete').show();
+            }
+            /* end update hint text*/
+
+
+//            /* hide validation msgs when login */
+//            $('.close_image').bind("click", function () {
+//                $(".ketchup-error").hide();
+//            });
+
+//            $('#ctl00_lnkLoginBox').bind("click", function () {
+//                $(".ketchup-error").hide();
+//            });
+//            /* hide validation msgs when login */
+
+        });
+
+        function ClearAutoComplete() {
+            if (document.getElementById('tat_table')) {
+                document.body.removeChild(document.getElementById('tat_table'));
+            }
+        }
+    </script>
+    
+    
+</head>
+<body>
+<div id="searchloading" style="display:none; z-index:1; position:fixed;background-color:#fff;filter:progid:DXImageTransform.Microsoft.Alpha(opacity=50);opacity:0.7;background-image:url(images/ajax-loader.gif);  background-position:10px 20px;width:200px;height:70px;border-radius: 10px 10px 10px 10px;border: 6px solid #989898;box-shadow: 0 0 4px #A8A8A8;background-repeat:no-repeat;left:43%;top:47%">
+  <div style="color:#C42328;font:bold 24px verdana;margin:20px 0 0 60px"> Loading...</div>
+</div>
+    
+    <!--facebox link-->
+    <form name="aspnetForm" method="post" action="privacy.aspx" id="aspnetForm" onclick="ClearAutoComplete();">
+<input type="hidden" name="ctl00_ToolkitScriptManager2_HiddenField" id="ctl00_ToolkitScriptManager2_HiddenField" value="">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNDMyNDU0NjAzD2QWAmYPZBYEAgEPZBYCAgkPFQERY3RsMDBfbG5rTG9naW5Cb3hkAgMPZBYEAgEPFCsAAg8WBB4LXyFEYXRhQm91bmRnHgtfIUl0ZW1Db3VudAL/////D2RkZAICD2QWAgIBD2QWBGYPFQEkY3RsMDBfbXlVQ0F1dGhlbnRpY2F0aW9uX3R4dFBhc3N3b3JkZAIKD2QWCAIEDxAPFgIfAGdkDxYeAgECAgIDAgQCBQIGAgcCCAIJAgoCCwIMAg0CDgIPAhACEQISAhMCFAIVAhYCFwIYAhkCGgIbAhwCHQIeFh4QBQExBQExZxAFATIFATJnEAUBMwUBM2cQBQE0BQE0ZxAFATUFATVnEAUBNgUBNmcQBQE3BQE3ZxAFATgFAThnEAUBOQUBOWcQBQIxMAUCMTBnEAUCMTEFAjExZxAFAjEyBQIxMmcQBQIxMwUCMTNnEAUCMTQFAjE0ZxAFAjE1BQIxNWcQBQIxNgUCMTZnEAUCMTcFAjE3ZxAFAjE4BQIxOGcQBQIxOQUCMTlnEAUCMjAFAjIwZxAFAjIxBQIyMWcQBQIyMgUCMjJnEAUCMjMFAjIzZxAFAjI0BQIyNGcQBQIyNQUCMjVnEAUCMjYFAjI2ZxAFAjI3BQIyN2cQBQIyOAUCMjhnEAUCMjkFAjI5ZxAFAjMwBQIzMGdkZAIFDxAPFgIfAGdkDxYMAgECAgIDAgQCBQIGAgcCCAIJAgoCCwIMFgwQBQNKYW4FA0phbmcQBQNGZWIFA0ZlYmcQBQNNYXIFA01hcmcQBQNBcHIFA0FwcmcQBQNNYXkFA01heWcQBQNKdW4FA0p1bmcQBQNKdWwFA0p1bGcQBQNBdWcFA0F1Z2cQBQNTZXAFA1NlcGcQBQNPY3QFA09jdGcQBQNOb3YFA05vdmcQBQNEZWMFA0RlY2dkZAIGDxAPFgIfAGdkDxZlAgECAgIDAgQCBQIGAgcCCAIJAgoCCwIMAg0CDgIPAhACEQISAhMCFAIVAhYCFwIYAhkCGgIbAhwCHQIeAh8CIAIhAiICIwIkAiUCJgInAigCKQIqAisCLAItAi4CLwIwAjECMgIzAjQCNQI2AjcCOAI5AjoCOwI8Aj0CPgI/AkACQQJCAkMCRAJFAkYCRwJIAkkCSgJLAkwCTQJOAk8CUAJRAlICUwJUAlUCVgJXAlgCWQJaAlsCXAJdAl4CXwJgAmECYgJjAmQCZRZlEAUEMTkxMQUEMTkxMWcQBQQxOTEyBQQxOTEyZxAFBDE5MTMFBDE5MTNnEAUEMTkxNAUEMTkxNGcQBQQxOTE1BQQxOTE1ZxAFBDE5MTYFBDE5MTZnEAUEMTkxNwUEMTkxN2cQBQQxOTE4BQQxOTE4ZxAFBDE5MTkFBDE5MTlnEAUEMTkyMAUEMTkyMGcQBQQxOTIxBQQxOTIxZxAFBDE5MjIFBDE5MjJnEAUEMTkyMwUEMTkyM2cQBQQxOTI0BQQxOTI0ZxAFBDE5MjUFBDE5MjVnEAUEMTkyNgUEMTkyNmcQBQQxOTI3BQQxOTI3ZxAFBDE5MjgFBDE5MjhnEAUEMTkyOQUEMTkyOWcQBQQxOTMwBQQxOTMwZxAFBDE5MzEFBDE5MzFnEAUEMTkzMgUEMTkzMmcQBQQxOTMzBQQxOTMzZxAFBDE5MzQFBDE5MzRnEAUEMTkzNQUEMTkzNWcQBQQxOTM2BQQxOTM2ZxAFBDE5MzcFBDE5MzdnEAUEMTkzOAUEMTkzOGcQBQQxOTM5BQQxOTM5ZxAFBDE5NDAFBDE5NDBnEAUEMTk0MQUEMTk0MWcQBQQxOTQyBQQxOTQyZxAFBDE5NDMFBDE5NDNnEAUEMTk0NAUEMTk0NGcQBQQxOTQ1BQQxOTQ1ZxAFBDE5NDYFBDE5NDZnEAUEMTk0NwUEMTk0N2cQBQQxOTQ4BQQxOTQ4ZxAFBDE5NDkFBDE5NDlnEAUEMTk1MAUEMTk1MGcQBQQxOTUxBQQxOTUxZxAFBDE5NTIFBDE5NTJnEAUEMTk1MwUEMTk1M2cQBQQxOTU0BQQxOTU0ZxAFBDE5NTUFBDE5NTVnEAUEMTk1NgUEMTk1NmcQBQQxOTU3BQQxOTU3ZxAFBDE5NTgFBDE5NThnEAUEMTk1OQUEMTk1OWcQBQQxOTYwBQQxOTYwZxAFBDE5NjEFBDE5NjFnEAUEMTk2MgUEMTk2MmcQBQQxOTYzBQQxOTYzZxAFBDE5NjQFBDE5NjRnEAUEMTk2NQUEMTk2NWcQBQQxOTY2BQQxOTY2ZxAFBDE5NjcFBDE5NjdnEAUEMTk2OAUEMTk2OGcQBQQxOTY5BQQxOTY5ZxAFBDE5NzAFBDE5NzBnEAUEMTk3MQUEMTk3MWcQBQQxOTcyBQQxOTcyZxAFBDE5NzMFBDE5NzNnEAUEMTk3NAUEMTk3NGcQBQQxOTc1BQQxOTc1ZxAFBDE5NzYFBDE5NzZnEAUEMTk3NwUEMTk3N2cQBQQxOTc4BQQxOTc4ZxAFBDE5NzkFBDE5NzlnEAUEMTk4MAUEMTk4MGcQBQQxOTgxBQQxOTgxZxAFBDE5ODIFBDE5ODJnEAUEMTk4MwUEMTk4M2cQBQQxOTg0BQQxOTg0ZxAFBDE5ODUFBDE5ODVnEAUEMTk4NgUEMTk4NmcQBQQxOTg3BQQxOTg3ZxAFBDE5ODgFBDE5ODhnEAUEMTk4OQUEMTk4OWcQBQQxOTkwBQQxOTkwZxAFBDE5OTEFBDE5OTFnEAUEMTk5MgUEMTk5MmcQBQQxOTkzBQQxOTkzZxAFBDE5OTQFBDE5OTRnEAUEMTk5NQUEMTk5NWcQBQQxOTk2BQQxOTk2ZxAFBDE5OTcFBDE5OTdnEAUEMTk5OAUEMTk5OGcQBQQxOTk5BQQxOTk5ZxAFBDIwMDAFBDIwMDBnEAUEMjAwMQUEMjAwMWcQBQQyMDAyBQQyMDAyZxAFBDIwMDMFBDIwMDNnEAUEMjAwNAUEMjAwNGcQBQQyMDA1BQQyMDA1ZxAFBDIwMDYFBDIwMDZnEAUEMjAwNwUEMjAwN2cQBQQyMDA4BQQyMDA4ZxAFBDIwMDkFBDIwMDlnEAUEMjAxMAUEMjAxMGcQBQQyMDExBQQyMDExZ2RkAhYPEA8WAh8AZ2RkZGQYAgUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgIFKmN0bDAwJG15VUNBdXRoZW50aWNhdGlvbiRjYnhLZWVwTWVTaWduZWRJbgUYY3RsMDAkaW1nQnRuQ2xvc2VFZGl0UGljBRFjdGwwMCRsdkZhdm9yaXRlcw9nZJTVGWMb/EmVwAWUG1mvkg2sUGI7">
+
+
+<script src="/WebResource.axd?d=_1zyrULy6d1KuQA3gqZQ0bF9mNZwcCEVkUwMJmjvgnXhoYfMqV-ikctc1m2nrVwr20AkfreuR4xM62pFddSRVNDvEfq9WGc1F1rDjNk5qWP2mqLsYWBHziQHY1oyYbyB2tLwQzRlX7_AvaGzKrP1k1bUpSs1&amp;t=634416828453906250" type="text/javascript"></script>
+<script src="/WebResource.axd?d=LDGL80O_xHFX3b8B03kcbGpB_IQi8glF9GrcltOo0hZQ3pSIeOCAQRUnDQo6S1e2XhhWC9VBLhsRV5By5uVOdiyyipdNhenJbWQ6m45sR7RT5oAPmIboXNF_DqvPmTeDbLgEjlQnr5BshFNX1o8v2lbqUJE1&amp;t=634416828453906250" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=ZQYhVeIygNJ1rhbChRl9HgWJ8O9VDQyad4fTVCDvsG1BmdPsXP2XqP8BzE3WrnZNu1muGwPQdc4ST3WEvUQnsIk8DClhQDRUGKCnsADw1BLGZaP00&amp;t=11e6618b" type="text/javascript"></script>
+<script src="/privacy.aspx?_TSM_HiddenField_=ctl00_ToolkitScriptManager2_HiddenField&amp;_TSM_CombinedScripts_=%3b%3bAjaxControlToolkit%2c+Version%3d3.5.40412.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d28f01b0e84b6d53e%3aen-US%3a1547e793-5b7e-48fe-8490-03a375b13a33%3ade1feab2%3af9cec9bc%3aa67c2700%3af2c8e708%3a8613aea7%3a3202a5a2%3aab09e3fe%3a87104b7c%3abe6fb298" type="text/javascript"></script>
+    
+    
+    <div class="master-container">
+        <div class="master-header">
+            <div class="master-inner">
+                <!--favorites-->
+                
+                <!--/favorites-->
+                <!--login -->
+                <div id="ctl00_pnlLoginBox" style="display: none;">
+	
+                    <div id="lfacebox" class="facebox" style="left: 363px; top: 152px;">
+                        <div class="popup">
+                            <table>
+                                <tbody>
+                                    <tr>
+                                        <td class="tl">
+                                        </td>
+                                        <td class="b">
+                                        </td>
+                                        <td class="tr">
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td class="b">
+                                        </td>
+                                        <td class="body">
+                                            <div class="content" style="display: block;">
+                                                
+                
+                <script type="text/javascript">
+                    function pageLoad() {
+                      if ($('#suggestCaptcha').html()) {
+                        $find('suggestBox').show();
+                      }
+                      else if ($('#incorrectInfoCaptcha').html()) {
+                        $find('incorrectBox').show();
+                      }
+                      else if ($('#invalidCredentials').html()) {
+                          $find('loginBox').show();
+                        }
+                        }
+                         function txtFirstNameChange() {
+                          if (typeof (Page_Validators) == "undefined") return;
+                          $("#validFirstName").hide();
+                          if (document.getElementById("ctl00_myUCAuthentication_rfvFirstName").isvalid)
+                            $("#validFirstName").show();
+                        }
+                        function txtLastNameChange() {
+                          if (typeof (Page_Validators) == "undefined") return;
+                          $("#validLastName").hide();
+                          if (document.getElementById("ctl00_myUCAuthentication_rfvLastName").isvalid)
+                            $("#validLastName").show();
+                        }
+                        function txtEmailChange() {
+                          if (typeof (Page_Validators) == "undefined") return;
+                          $("#validEmail").hide();
+                          if (document.getElementById("ctl00_myUCAuthentication_rfvEmail").isvalid && document.getElementById("ctl00_myUCAuthentication_revEmail").isvalid && document.getElementById("ctl00_myUCAuthentication_cvEmail").isvalid)
+                            $("#validEmail").show();
+                        }
+                        function txtUsernameChange() {
+                          if (typeof (Page_Validators) == "undefined") return;
+                          $("#validUsername").hide();
+                          if (document.getElementById("ctl00_myUCAuthentication_rfvUsername").isvalid && document.getElementById("ctl00_myUCAuthentication_revUsername").isvalid && document.getElementById("ctl00_myUCAuthentication_cvUsername").isvalid)
+                            $("#validUsername").show();
+                        }
+                        function txtPasswordChange() {
+                          if (typeof (Page_Validators) == "undefined") return;
+                          $("#validPassword").hide();
+                          if (document.getElementById("ctl00_myUCAuthentication_rfvPassword").isvalid && document.getElementById("ctl00_myUCAuthentication_revPassword").isvalid)
+                            $("#validPassword").show();
+                          if ($("#ctl00_myUCAuthentication_txtConfirmPassword").val() != "") txtConfirmPasswordChange();
+                        }
+                        function txtConfirmPasswordChange() {
+                          if (typeof (Page_Validators) == "undefined") return;
+                          $("#validConfirmPassword").hide();
+                          if (document.getElementById("ctl00_myUCAuthentication_rfvPassword").isvalid && document.getElementById("ctl00_myUCAuthentication_revPassword").isvalid && document.getElementById("ctl00_myUCAuthentication_rfvConfirmPassword").isvalid && document.getElementById("ctl00_myUCAuthentication_cvConfirmPassword").isvalid)
+                            $("#validConfirmPassword").show();
+                        } 
+                    function validateIsEmailUnique(sender, args) {
+                      var unique = true;
+                      $("#loadingEmail").show();
+                        $.ajax({
+                            type: "POST",
+                            async: false,
+                            success: function(data) { data.toString().toLowerCase() == "true" ? unique = true : unique = false; },
+                            error: function() { },
+                            dataType: "text",
+                            url: "/Controls/IsEmailUnique.ashx?email=" + args.Value
+                          });
+                          $("#loadingEmail").hide();
+                        args.IsValid = unique;
+                    }
+                    function validateIsUsernameUnique(sender, args) {
+                      var unique = true;
+                      $("#loadingUsername").show();
+                        $.ajax({
+                            type: "POST",
+                            async: false,
+                            success: function(data) { data.toString().toLowerCase() == "true" ? unique = true : unique = false; },
+                            error: function() { },
+                            dataType: "text",
+                            url: "/Controls/IsUsernameUnique.ashx?username=" + args.Value
+                          });
+                          $("#loadingUsername").hide();
+                        args.IsValid = unique;
+                    }
+
+                    $(document).ready(function () {
+                        $("#forgotPassword").click(function () {
+                            $(".divsigin").fadeOut(function () { $(".divforgetpass").fadeIn(); });
+                        });
+                        $
+                        $("#backToLogin").click(function () {
+                            $(".divforgetpass").fadeOut(function () { $(".divsigin").fadeIn(); });
+                        });
+                        $("label.watermark").inFieldLabels();
+                        if ($('#suggestCaptcha').html() != "") {
+                            $("#sfacebox").parent().show();
+                        }
+                        else if ($('#incorrectInfoCaptcha').html() != "") {
+                            $("#ifacebox").parent().show();
+                        }
+                        else if ($('#invalidCredentials').html() != "") {
+
+                            $("#lfacebox").parent().show();
+                        }
+
+                        /* uniform controls */
+                        $(".signup input:text, .signin input:text, .signin input:password, .signup input:password, .signin input:checkbox,.signup input:radio ").uniform();
+
+
+                        /* ketchup validation */
+//                        $.ketchup.message('required', '* Required');
+//                        $.ketchup.message('rangelength', 'Username must 6-20 characters long');
+
+//                        $.ketchup.validation('match', 'Passwords do not match.', function(form, el, value, word) {
+//                          if (word == 'password'){
+//                            return (el.val() == document.getElementById('ctl00_myUCAuthentication_txtPassword').value);
+//                          }
+//                        });
+
+//                        $.ketchup.validation('requireddate', 'Please enter a valid date', function (form, el, value) {
+//                            return (value != 0);
+//                        });
+
+//                        $('#divsigin').ketchup();
+//                        $('#signup').ketchup();
+                    });
+
+               
+                </script>
+                
+                               
+                
+                <div id="faceLogin" class="loginbox">
+
+                    <div class="floatleft signin">
+                        <p class="title">
+                            Login
+                        </p>
+                        
+                        <p id="invalidCredentials" class="validat red"></p>
+
+                        <div class="divsigin " id="divsigin">
+                            <ul class="signin">
+                                <li class="inputbg">
+                                    <label for="ctl00_myUCAuthentication_txtLoginUsername" class="watermark">Email</label>
+                                    <input name="ctl00$myUCAuthentication$txtLoginUsername" type="text" id="ctl00_myUCAuthentication_txtLoginUsername" class="idleField text">
+                                    
+                                </li>
+                                <li class="inputbg">
+                                    <label for="ctl00_myUCAuthentication_txtLoginPassword" class="watermark">Password</label>
+                                    <input name="ctl00$myUCAuthentication$txtLoginPassword" type="password" id="ctl00_myUCAuthentication_txtLoginPassword" class="password">
+                                    
+                                </li>
+                                <li><a href="#" id="forgotPassword">Forgot your pasword?</a></li> 
+                                <li>
+                                    <div class="checker" id="uniform-ctl00_myUCAuthentication_cbxKeepMeSignedIn"><span><input id="ctl00_myUCAuthentication_cbxKeepMeSignedIn" type="checkbox" name="ctl00$myUCAuthentication$cbxKeepMeSignedIn" style="opacity: 0;"></span></div><label for="ctl00_myUCAuthentication_cbxKeepMeSignedIn">Keep me signed in</label>
+                                </li>                               
+                                <li class="loginLi">
+                                    <div class="button" id="uniform-ctl00_myUCAuthentication_btnLogin"><span>Login<input type="submit" name="ctl00$myUCAuthentication$btnLogin" value="Login" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$myUCAuthentication$btnLogin&quot;, &quot;&quot;, true, &quot;Login&quot;, &quot;&quot;, false, false))" id="ctl00_myUCAuthentication_btnLogin" class="submit" style="opacity: 0;"></span></div>
+                                </li>
+                            </ul>
+                        </div>
+                        <!-- div appear when forget password-->
+                        <div class="divforgetpass hide">
+                            <ul class="signin">
+                                <li class="inputbg">
+                                    <label for="ctl00_myUCAuthentication_txtForgotPWEmail" class="watermark">Email</label>                                
+                                    <input name="ctl00$myUCAuthentication$txtForgotPWEmail" type="text" id="ctl00_myUCAuthentication_txtForgotPWEmail" class="idleField text">
+                                </li>
+                                <li>
+                                    <div class="button" id="uniform-ctl00_myUCAuthentication_btnForgotPassword"><span>Send<input type="submit" name="ctl00$myUCAuthentication$btnForgotPassword" value="Send" id="ctl00_myUCAuthentication_btnForgotPassword" class="submit" style="opacity: 0;"></span></div>
+                                    or <a id="backToLogin" href="#">Back to login</a>
+                                    
+                                </li>
+                            </ul>
+                        </div>
+                        <p class="title">
+                            Register and you'll be able to...</p>
+                        <ul class="brings">
+                            <li>
+                                <img src="images/right_icon.png">
+                                Save your favourite restaurants! </li>
+                            <li>
+                                <img src="images/right_icon.png">
+                                Write reviews and share them with your friends! </li>
+                            <li>
+                                <img src="images/right_icon.png">
+                                Receive news and useful updates from elmenus.com! </li>
+                        </ul>
+                    </div> 
+                    <div id="ctl00_myUCAuthentication_Panel1">
+		
+                    <div class="floatright signup" id="signup">
+                        <p class="title">
+                            Register <a href="#" class="close floatright" title="close"></a></p>
+                        <ul class="signup">
+                            <li class="inputbg">
+                                    <label for="ctl00_myUCAuthentication_txtFirstName" class="watermark">First Name</label>
+                                    <input name="ctl00$myUCAuthentication$txtFirstName" type="text" id="ctl00_myUCAuthentication_txtFirstName" onchange="txtFirstNameChange();" class="idleField text">
+                                    <img alt="" id="validFirstName" src="/images/checkright.gif" style="float: right; display: none; position: relative; left: -122px; top: 4px;">
+                                                                        
+                                   
+                            </li>
+                            <li class="inputbg">
+                                    <label for="ctl00_myUCAuthentication_txtLastName" class="watermark">Last Name</label>
+                                    <input name="ctl00$myUCAuthentication$txtLastName" type="text" id="ctl00_myUCAuthentication_txtLastName" onchange="txtLastNameChange();" class="idleField text"> 
+                                    
+                                    <img alt="" id="validLastName" src="/images/checkright.gif" style="float: right; display: none; position: relative; left: -122px; top: 4px;">
+                                                                         
+                                   
+                            </li>
+                            <li class="datebg">
+                                    <label>Date of Birth: </label>
+                                    <br>
+                                   
+                                    
+                                    <div class="selector" id="uniform-ctl00_myUCAuthentication_ddlDOBDay"><span>Day</span><select name="ctl00$myUCAuthentication$ddlDOBDay" id="ctl00_myUCAuthentication_ddlDOBDay" class="selectnarrow" style="opacity: 0;">
+			<option value="0">Day</option>
+			<option value="1">1</option>
+			<option value="2">2</option>
+			<option value="3">3</option>
+			<option value="4">4</option>
+			<option value="5">5</option>
+			<option value="6">6</option>
+			<option value="7">7</option>
+			<option value="8">8</option>
+			<option value="9">9</option>
+			<option value="10">10</option>
+			<option value="11">11</option>
+			<option value="12">12</option>
+			<option value="13">13</option>
+			<option value="14">14</option>
+			<option value="15">15</option>
+			<option value="16">16</option>
+			<option value="17">17</option>
+			<option value="18">18</option>
+			<option value="19">19</option>
+			<option value="20">20</option>
+			<option value="21">21</option>
+			<option value="22">22</option>
+			<option value="23">23</option>
+			<option value="24">24</option>
+			<option value="25">25</option>
+			<option value="26">26</option>
+			<option value="27">27</option>
+			<option value="28">28</option>
+			<option value="29">29</option>
+			<option value="30">30</option>
+
+		</select></div>
+                                    <div class="selector" id="uniform-ctl00_myUCAuthentication_ddlDOBMonth"><span>Month</span><select name="ctl00$myUCAuthentication$ddlDOBMonth" id="ctl00_myUCAuthentication_ddlDOBMonth" class="selectnarrow" style="opacity: 0;">
+			<option value="0">Month</option>
+			<option value="Jan">Jan</option>
+			<option value="Feb">Feb</option>
+			<option value="Mar">Mar</option>
+			<option value="Apr">Apr</option>
+			<option value="May">May</option>
+			<option value="Jun">Jun</option>
+			<option value="Jul">Jul</option>
+			<option value="Aug">Aug</option>
+			<option value="Sep">Sep</option>
+			<option value="Oct">Oct</option>
+			<option value="Nov">Nov</option>
+			<option value="Dec">Dec</option>
+
+		</select></div>
+                                    <div class="selector" id="uniform-ctl00_myUCAuthentication_ddlDOBYear"><span>Year</span><select name="ctl00$myUCAuthentication$ddlDOBYear" id="ctl00_myUCAuthentication_ddlDOBYear" class="selectnarrow" style="opacity: 0;">
+			<option value="0">Year</option>
+			<option value="1911">1911</option>
+			<option value="1912">1912</option>
+			<option value="1913">1913</option>
+			<option value="1914">1914</option>
+			<option value="1915">1915</option>
+			<option value="1916">1916</option>
+			<option value="1917">1917</option>
+			<option value="1918">1918</option>
+			<option value="1919">1919</option>
+			<option value="1920">1920</option>
+			<option value="1921">1921</option>
+			<option value="1922">1922</option>
+			<option value="1923">1923</option>
+			<option value="1924">1924</option>
+			<option value="1925">1925</option>
+			<option value="1926">1926</option>
+			<option value="1927">1927</option>
+			<option value="1928">1928</option>
+			<option value="1929">1929</option>
+			<option value="1930">1930</option>
+			<option value="1931">1931</option>
+			<option value="1932">1932</option>
+			<option value="1933">1933</option>
+			<option value="1934">1934</option>
+			<option value="1935">1935</option>
+			<option value="1936">1936</option>
+			<option value="1937">1937</option>
+			<option value="1938">1938</option>
+			<option value="1939">1939</option>
+			<option value="1940">1940</option>
+			<option value="1941">1941</option>
+			<option value="1942">1942</option>
+			<option value="1943">1943</option>
+			<option value="1944">1944</option>
+			<option value="1945">1945</option>
+			<option value="1946">1946</option>
+			<option value="1947">1947</option>
+			<option value="1948">1948</option>
+			<option value="1949">1949</option>
+			<option value="1950">1950</option>
+			<option value="1951">1951</option>
+			<option value="1952">1952</option>
+			<option value="1953">1953</option>
+			<option value="1954">1954</option>
+			<option value="1955">1955</option>
+			<option value="1956">1956</option>
+			<option value="1957">1957</option>
+			<option value="1958">1958</option>
+			<option value="1959">1959</option>
+			<option value="1960">1960</option>
+			<option value="1961">1961</option>
+			<option value="1962">1962</option>
+			<option value="1963">1963</option>
+			<option value="1964">1964</option>
+			<option value="1965">1965</option>
+			<option value="1966">1966</option>
+			<option value="1967">1967</option>
+			<option value="1968">1968</option>
+			<option value="1969">1969</option>
+			<option value="1970">1970</option>
+			<option value="1971">1971</option>
+			<option value="1972">1972</option>
+			<option value="1973">1973</option>
+			<option value="1974">1974</option>
+			<option value="1975">1975</option>
+			<option value="1976">1976</option>
+			<option value="1977">1977</option>
+			<option value="1978">1978</option>
+			<option value="1979">1979</option>
+			<option value="1980">1980</option>
+			<option value="1981">1981</option>
+			<option value="1982">1982</option>
+			<option value="1983">1983</option>
+			<option value="1984">1984</option>
+			<option value="1985">1985</option>
+			<option value="1986">1986</option>
+			<option value="1987">1987</option>
+			<option value="1988">1988</option>
+			<option value="1989">1989</option>
+			<option value="1990">1990</option>
+			<option value="1991">1991</option>
+			<option value="1992">1992</option>
+			<option value="1993">1993</option>
+			<option value="1994">1994</option>
+			<option value="1995">1995</option>
+			<option value="1996">1996</option>
+			<option value="1997">1997</option>
+			<option value="1998">1998</option>
+			<option value="1999">1999</option>
+			<option value="2000">2000</option>
+			<option value="2001">2001</option>
+			<option value="2002">2002</option>
+			<option value="2003">2003</option>
+			<option value="2004">2004</option>
+			<option value="2005">2005</option>
+			<option value="2006">2006</option>
+			<option value="2007">2007</option>
+			<option value="2008">2008</option>
+			<option value="2009">2009</option>
+			<option value="2010">2010</option>
+			<option value="2011">2011</option>
+
+		</select></div>
+                                
+                        
+
+                            </li>
+                            <li class="inputbg">
+                                    <label for="ctl00_myUCAuthentication_txtEmail" class="watermark">Email</label>
+                                    <input name="ctl00$myUCAuthentication$txtEmail" type="text" id="ctl00_myUCAuthentication_txtEmail" onchange="txtEmailChange();" class="idleField text">
+                                    
+                                    <img alt="" id="loadingEmail" src="/images/loading.gif" style="float: right; display: none; position: relative; left: -142px; top: 2px; width: 16px;">
+                                    <img alt="" id="validEmail" src="/images/checkright.gif" style="float: right; display: none; position: relative; left: -122px; top: 4px;">
+                                    
+                                   
+                                   
+                                       
+                            </li>
+                            <li class="inputbg">
+                                    <label for="ctl00_myUCAuthentication_txtUsername" class="watermark">Nickname</label>
+                                    <input name="ctl00$myUCAuthentication$txtUsername" type="text" id="ctl00_myUCAuthentication_txtUsername" onchange="txtUsernameChange();" class="idleField text">
+                                    
+                                    <img alt="" id="loadingUsername" src="/images/loading.gif" style="float: right; display: none; position: relative; left: -142px; top: 2px; width: 16px;">
+                                    <img alt="" id="validUsername" src="/images/checkright.gif" style="float: right; display: none; position: relative; left: -122px; top: 4px;">
+                                    
+                                    
+                                                                          
+                            </li>
+                            <li class="inputbg">
+                                    <label for="ctl00_myUCAuthentication_txtPassword" class="watermark">Password</label>
+                                    <input name="ctl00$myUCAuthentication$txtPassword" type="password" id="ctl00_myUCAuthentication_txtPassword" onchange="txtPasswordChange();" class="password"> 
+                                    
+                                    <img alt="" id="validPassword" src="/images/checkright.gif" style="float: right; display: none; position: relative; left: -122px; top: 4px;">
+                                    
+                                    
+                            </li>
+                            <li class="inputbg">
+                                    <label for="ctl00_myUCAuthentication_txtConfirmPassword" class="watermark">Confirm Password</label>
+                                    <input name="ctl00$myUCAuthentication$txtConfirmPassword" type="password" id="ctl00_myUCAuthentication_txtConfirmPassword" onchange="txtConfirmPasswordChange();" class="password"> 
+                                    
+                                    <img alt="" id="validConfirmPassword" src="/images/checkright.gif" style="float: right; display: none; position: relative; left: -122px; top: 4px;">
+                                    
+                                    
+                            </li>
+                            <li class="genderLi">
+                                <span id="ctl00_myUCAuthentication_rblGender"><div class="radio" id="uniform-ctl00_myUCAuthentication_rblGender_0"><span class="checked"><input id="ctl00_myUCAuthentication_rblGender_0" type="radio" name="ctl00$myUCAuthentication$rblGender" value="true" checked="checked" style="opacity: 0;"></span></div><label for="ctl00_myUCAuthentication_rblGender_0">Male</label><div class="radio" id="uniform-ctl00_myUCAuthentication_rblGender_1"><span><input id="ctl00_myUCAuthentication_rblGender_1" type="radio" name="ctl00$myUCAuthentication$rblGender" value="false" style="opacity: 0;"></span></div><label for="ctl00_myUCAuthentication_rblGender_1">Female</label></span>
+                            </li>
+                            
+<li><img style="display: block;" src="/captchaimage.aspx" alt="captcha">
+</li>
+<li class="inputbg">
+  <label for="ctl00_myUCAuthentication_CaptchaControl_txtCode" class="watermark watermark">Type code in image</label>
+  <input name="ctl00$myUCAuthentication$CaptchaControl$txtCode" type="text" id="ctl00_myUCAuthentication_CaptchaControl_txtCode" class="input idleField text">
+  
+</li>
+
+                            <li>
+                                <div class="button" id="uniform-ctl00_myUCAuthentication_btnSignup"><span>Register<input type="submit" name="ctl00$myUCAuthentication$btnSignup" value="Register" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$myUCAuthentication$btnSignup&quot;, &quot;&quot;, true, &quot;Signup&quot;, &quot;&quot;, false, false))" id="ctl00_myUCAuthentication_btnSignup" class="submit" display="Dynamic" style="opacity: 0;"></span></div>
+                            </li>
+                        </ul>
+                        <div class="clr">
+                        </div>
+                    </div>
+
+                    
+
+
+	</div>
+
+                    <div class="clear">
+                    </div>
+                    <!--div class="fotterlogin"-->
+                       <div style="float:left;margin-top:35px;">
+                            <fb:login-button onlogin="window.location = '/FBLoginHandler.ashx?returnurl=http%3a%2f%2felmenus.com%2fprivacy.aspx'" length="long" perms="email,user_birthday,publish_stream,offline_access,user_likes" class="floatright marginTop15 marginright123">Connect with Facebook</fb:login-button>
+                        </div>
+                    <!--/div-->
+                </div>
+
+                <script type="text/javascript">
+                    $(document).ready(function () {
+                        $(document).bind("afterReveal.facebox", function () {
+                            $("label.watermark").inFieldLabels();
+                        });
+                    });
+
+                    /*function validatesignin() {
+                        return $('#divsigin').ketchup('isValid');
+                    }
+
+                    function validatesignup() {
+                        return $('#signup').ketchup('isValid');
+                    }*/
+
+
+                    function ClientValidation(source, args) {
+
+                       
+                        if (navigator.userAgent.indexOf("MSIE") != -1) {
+
+                            if (document.all["ctl00_myUCAuthentication_ddlDOBDay"].selectedIndex <=0 || document.all["ctl00_myUCAuthentication_ddlDOBMonth"].selectedIndex <=0 || document.all["ctl00_myUCAuthentication_ddlDOBYear"].selectedIndex <=0)
+                            {
+                            //Ie
+                            args.IsValid = false;
+                            }
+                            else
+                            {
+                             args.IsValid = true;
+                            }
+                        }
+                     else {
+
+
+                         if (document.getElementById("ctl00_myUCAuthentication_ddlDOBDay").selectedIndex <=0 || document.getElementById("ctl00_myUCAuthentication_ddlDOBMonth").selectedIndex <=0 || document.getElementById("ctl00_myUCAuthentication_ddlDOBYear").selectedIndex <=0) {
+                             //Ie
+                             args.IsValid = false;
+                         }
+                         else {
+                             args.IsValid = true;
+                         }
+                        }
+                    }
+
+                </script>
+
+
+
+                                            </div>
+                                            <div class="footer" style="display: block;">
+                                                <a href="#">
+                                                    <input type="image" name="ctl00$imgBtnCloseEditPic" id="ctl00_imgBtnCloseEditPic" class="close_image" title="close" src="/javascript/facebox/closelabel.gif" border="0">
+                                                </a>
+                                            </div>
+                                        </td>
+                                        <td class="b">
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td class="bl">
+                                        </td>
+                                        <td class="b">
+                                        </td>
+                                        <td class="br">
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                
+</div>
+                
+                <!--login /-->
+                <div id="menuContainer">
+                    <ul class="nav" style="float: left;">
+                        <li><a href="/">Home</a></li>
+                        <li><a href="/aboutus.aspx">About Us</a></li>
+                        <li><a href="/addmenu.aspx">Add your Menu</a></li>
+                        
+                        <li id="ctl00_liLogin">
+                            
+                            <a id="ctl00_lnkLoginBox" class="facelink" href="javscript:;">
+                                Login
+                            </a>
+                        </li>
+                        
+                    </ul>
+                    <script type="text/javascript">
+                        $(document).trigger("header.navigation.loaded");
+                    </script>
+                </div>
+                <div id="imageContainer">
+                    </div>
+                <br>
+                <div class="clear">
+                </div>
+                <div class="cont-top" style="width: 100%;">
+                    <div class="logo floatleft">
+                        <!--Show after login-->
+                        <a href="/">
+                            <img src="http://www.elmenus.com/images/elmenuslogo.png" alt="elmenus"></a></div>
+                    <div class="searchwrapper floatleft">
+                        
+                        <span>
+                            <input type="hidden" name="ctl00$hfSearchType" id="ctl00_hfSearchType" value="Restaurants">
+                            <label class="active">
+                                <a class="Restaurants" href="javascript:;" onclick="$('.searchwrapper .active').removeClass('active'); $(this).parent().addClass('active'); $('#ctl00_hfSearchType').val('Restaurants');$('#food-hint').hide();$('#rest-hint').show();$('#divFoodAutoComplete').hide();$('#divResAutoComplete').show();ClearAutoComplete();">
+                                    Restaurants</a></label>
+                            <label>
+                                <a class="Items" href="javascript:;" onclick="$('.searchwrapper .active').removeClass('active'); $(this).parent().addClass('active'); $('#ctl00_hfSearchType').val('Items');$('#rest-hint').hide(); $('#food-hint').show();$('#divFoodAutoComplete').show();$('#divResAutoComplete').hide();ClearAutoComplete();">
+                                    Food</a></label>
+                        </span>
+                       
+                       
+                        <div class="searchcont">
+	
+                           
+                            <div class="inputsearch">
+                               
+                                <div id="divResAutoComplete">
+                                 <label for="ctl00_txtSearch" class="searchWatermark">
+                                    I'm looking for...</label>
+                                    <input name="ctl00$txtSearch" type="text" maxlength="255" id="ctl00_txtSearch" class="input-query idleField" autocomplete="off"><script type="text/javascript">function loadAfterFirstTime() { actb(document.getElementById('ctl00_txtSearch'),new Array(),1); } loadAfterFirstTime(); </script>
+	
+                                </div>
+                                 <div id="divFoodAutoComplete" style="display: none;">
+                                  <label for="ctl00_txtFoodSearch" class="searchWatermark">
+                                    I would like to eat...</label>
+                                    <input name="ctl00$txtFoodSearch" type="text" maxlength="255" id="ctl00_txtFoodSearch" class="input-query idleField" autocomplete="off"><script type="text/javascript">function loadAfterFirstTime() { actb(document.getElementById('ctl00_txtFoodSearch'),new Array(),2); } loadAfterFirstTime(); </script>
+	
+                                 </div>
+
+                            </div>
+                            <input type="button" name="ctl00$btnSearch" value="" onclick="javascript:__doPostBack('ctl00$btnSearch','')" id="ctl00_btnSearch" class="search-submit">
+                           
+                        
+</div>
+                        <div id="rest-hint" style="display: block; width: 505px; padding-left: 5px; margin-top: 7px;
+                            font-style: italic; font-family: Verdana; font-size: 13px;">
+                            Hint: An empty search gives you the full restaurant list!
+                        </div>
+                        <div id="food-hint" style="display: none; width: 505px; padding-left: 5px; margin-top: 7px;
+                            font-style: italic; font-family: Verdana; font-size: 13px;">
+                            Hint: Find the exact dish or ingredient you'd like to eat!
+                            <br>
+                            (Example: mushrooms, burger, duck, lobster,...)</div>
+                    </div>
+                    <div class="clear">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="master-body" id="master-body">
+            <div class="master-inner">
+                
+    <div class="details-left">
+        <div class="box">
+            <div class="aboutus-details">
+                
+                <div class="privacy">
+                    <h1 style="margin: 24pt 0pt 0pt;">
+                        <font face="'times new roman'"><font color="#365f91"><b><font size="4">Privacy Policy</font></b></font></font>
+                    </h1>
+                    <p style="margin: 5pt 0pt;">
+                        <font face="'times new roman'"><b><font size="3">Effective on December 1</font></b></font><font face="'times new roman'"><b><sup><font size="1">st</font></sup></b></font><font face="'times new roman'"><b><font size="3">,&nbsp; 2010</font></b></font><font face="'times new roman'"><b><font size="3">.</font></b></font>
+                    </p>
+                    <p style="margin: 5pt 0pt;">
+                        <font face="'times new roman'"><font size="3">This Privacy Statement ("</font></font><font face="'times new roman'"><b><font size="3">Statement</font></b></font><font face="'times new roman'"><font size="3">") describes the personal information we collect through our websites and
+                                mobile applications (the "</font></font><font face="'times new roman'"><b><font size="3">Site</font></b></font><font face="'times new roman'"><font size="3">"), and how we collect and use it. </font>
+                                </font><font face="'times new roman'"><font size="3">The terms "</font></font><font face="'times new roman'"><b><font size="3">we</font></b></font><font face="'times new roman'"><font size="3">", "</font></font><font face="'times new roman'"><b><font size="3">us</font></b></font><font face="'times new roman'"><font size="3">", and "</font></font><font face="'times new roman'"><b><font size="3">Elmenus.com</font></b></font><font face="'times new roman'"><font size="3">"
+                                                    refer to Elmenus.com</font></font><font face="'times new roman'"><font size="3">.</font></font>
+                    </p>
+                    <h2 style="margin: 5pt 0pt 5pt 36pt;">
+                        <font face="'times new roman'"><font color="#4f81bd"><b><font size="4">1.</font></b></font></font>&nbsp;&nbsp;
+                        <font face="'times new roman'"><font color="#4f81bd"><b><font size="4">Information We
+                            Collect and How We Use It</font></b></font></font>
+                    </h2>
+                    <p style="margin: 5pt 0pt 5pt 36pt;">
+                        <font face="'times new roman'"><i><font size="3">Account information.</font></i></font><font face="'times new roman'"><font size="3"> We ask for and store information about you
+                                when you create an account on the Site, such as your name, email address, and signup
+                                location. You can also import your account information from a third party to make
+                                the Elmenus.com registration process easier. We use your email address to send you
+                                updates, provide services to </font></font><font face="'times new roman'"><font size="3">
+                                    you in connection with the Site</font></font><font face="'times new roman'"><font size="3">. We may also use your signup location, birth date, and gender (if you
+                                        supply them) to displ</font></font><font face="'times new roman'"><font size="3">ay
+                                            relevant advertising to you.</font></font>
+                    </p>
+                    <p style="margin: 5pt 0pt 5pt 36pt;">
+                        <font face="'times new roman'"><i><font size="3">Public content.</font></i></font><font face="'times new roman'"><font size="3"> You can contribute to the Site in a number
+                                of different ways, including writing reviews. We may store these contributions (your
+                                "</font></font><font face="'times new roman'"><b><font size="3">Public Content</font></b></font><font face="'times new roman'"><font size="3">"), display them to other users, and use them
+                                        for promotional purposes. Note that if you include personally identifiable information
+                                        in your Public Content, it can be used and viewed by others. We are not responsible
+                                        for the information you choose to include in your Public Content.</font></font>
+                    </p>
+                    <p style="margin: 5pt 0pt 5pt 36pt;">
+                        <font face="'times new roman'"><i><font size="3">Inviting friends.</font></i></font><font face="'times new roman'"><font size="3"> You can invite your friends to join the Site
+                                by providing their contact information, or by entering your log-in credentials to
+                                import your address book from other sites. We may store and use your friends' contact
+                                information to invite them to join and connect with you on the Site. Your friends
+                                will always have the opportunity to opt-out of receiving further emails from us.</font></font>
+                    </p>
+                    <p style="margin: 5pt 0pt 5pt 36pt;">
+                        <font face="'times new roman'"><i><font size="3">Third party services.</font></i></font><font face="'times new roman'"><font size="3"> We allow you to access third party services,
+                                such as Facebook and Twitter, to share your selected Public Content with those services,
+                                and import information about who you are connected with on those other services
+                                so you can connect with them on the Site. </font></font>
+                    </p>
+                    <p style="margin: 5pt 0pt 5pt 36pt;">
+                        <font face="'times new roman'"><i><font size="3">Activity and log data.</font></i></font><font face="'times new roman'"><font size="3"> We automatically store information related
+                                to your use of the Site, such as the pages you view on the Site, your browser type,
+                                IP address, the phone numbers and names of businesses that you call through the
+                                Site, requested URL, browser language, referring URL, and the date and time of your
+                                visit. We use this type of information to administer the Site and provide the highest
+                                possible level of service to you. We also use this information in the </font>
+                        </font><font face="'times new roman'"><font size="3">aggregate to perform statistical
+                            analyses of user behavior and characteristics in order to measure interest in and
+                            use of the various areas of the Site.</font></font>
+                    </p>
+                    <p style="margin: 5pt 0pt 5pt 36pt;">
+                        <font face="'times new roman'"><i><font size="3">Cookies.</font></i></font><font face="'times new roman'"><font size="3"> We send cookies to your computer in order to
+                                uniquely identify your browser and improve the quality of our service. "</font></font><font face="'times new roman'"><b><font size="3">Cookies</font></b></font><font face="'times new roman'"><font size="3">" refer to small pieces of information that a website sends to your computer's
+                                        hard drive while you are viewing the Site. We may use both session cookies (which
+                                        expire once you close your browser) and persistent cookies (which stay on your computer
+                                        until you delete them). Persistent cookies can be removed by following your browser
+                                        help file directions. If you choose to disable cookies, some areas of the Site may
+                                        not work properly or at all. Our cookies are linked to your information, such as
+                                        your name, email address and password. We enable some of our business partners to
+                                        use cookies in conjunction with your use of the Site. We have no access to or control
+                                        over the use of these cookies. These cookies collect information about your use
+                                        of the Site, such as where you came from, which pages you visited within the Site,
+                                        and possibly other sites you visit if those sites cooperate with the same third
+                                        party, but do not collect your name, email address, contact information or other
+                                        personally identifiable information that by itself would allow the third party to
+                                        identify or contact you.</font></font>
+                    </p>
+                    <p style="margin: 5pt 0pt 5pt 36pt;">
+                        <font face="'times new roman'"><i><font size="3">Feedback.</font></i></font><font face="'times new roman'"><font size="3"> You should feel free to give us feedback, register
+                                a complaint, or ask questions about the Site. We may store your communications,
+                                including any personal information you include in them, so that we can effectively
+                                respond to you.</font></font>
+                    </p>
+                    <p style="margin: 5pt 0pt 5pt 36pt;">
+                        <font face="'times new roman'"><i><font size="3">Administration.</font></i></font><font face="'times new roman'"><font size="3"> We may use the information described above
+                                for routine administrative purposes, such as investigating abuses on the Site, responding
+                                to user inquiries and enforcing and applying our Terms of Service and Statement.</font></font>
+                    </p>
+                    <h2 style="margin: 5pt 0pt 5pt 36pt;">
+                        <font face="'times new roman'"><font color="#4f81bd"><b><font size="4">2.</font></b></font></font>&nbsp;&nbsp;
+                        <font face="'times new roman'"><font color="#4f81bd"><b><font size="4">Transfer of Information</font></b></font></font>
+                    </h2>
+                    <p style="margin: 5pt 0pt 5pt 36pt;">
+                        <font face="'times new roman'"><i><font size="3">Public Content.</font></i></font><font face="'times new roman'"><font size="3"> If you post content for public view on the
+                                Site, we may distribute such Public Content to a wider audience by sharing it (or
+                                portions of it) with third parties so that they can publish it on their own websites
+                                and media platforms. We may ask them to credit you as the source of these contributions
+                                by including your account name and profile photo.</font></font>
+                    </p>
+                    <p style="margin: 5pt 0pt 5pt 36pt;">
+                        <font face="'times new roman'"><i><font size="3">Third party service providers.</font></i></font><font face="'times new roman'"><font size="3"> We may use third parties to provide technical
+                                and customer support, perform tracking and reporting functions, conduct quality
+                                assurance testing, perform payment processing and provide other services in connection
+                                with the Site. We may share information about you with them so that they can perform
+                                the services they are required to perform, but they are not permitted to use your
+                                personal information other than to provide the services requested by you.</font></font>
+                    </p>
+                    <p style="margin: 5pt 0pt 5pt 36pt;">
+                        <font face="'times new roman'"><i><font size="3">Aggregate information.</font></i></font><font face="'times new roman'"><font size="3"> We may share non-personal information in the
+                                aggregate to third parties relating to user behavior in connection with actual or
+                                prospective business relationship with those third parties, such as advertisers
+                                and content distributors. For example, we may disclose the number of users that
+                                have been exposed to, or clicked on, advertising banners.</font></font>
+                    </p>
+                    <p style="margin: 5pt 0pt 5pt 36pt;">
+                        <font face="'times new roman'"><i><font size="3">Investigations.</font></i></font><font face="'times new roman'"><font size="3"> We reserve the right to investigate abuses
+                                on the Site, and enforce and apply our Terms of Service and Statement. We may disclose
+                                information about you to third parties if we have a good faith belief that such
+                                disclosure is reasonably necessary to (a) take action regarding suspected illegal
+                                activities; (b) enforce or apply our Terms of Service and Statement; (c) comply
+                                with legal process and law enforcement instructions and orders, such as a search
+                                warrant, subpoena, statute, judicial proceeding, or other legal process served on
+                                us; or (d) protect our rights, reputation, and property, or that of our users, affiliates,
+                                or the public.</font></font>
+                    </p>
+                    <h2 style="margin: 5pt 0pt 5pt 36pt;">
+                        <font face="'times new roman'"><font color="#4f81bd"><b><font size="4">3.</font></b></font></font>&nbsp;&nbsp;
+                        <font face="'times new roman'"><font color="#4f81bd"><b><font size="4">Managing Your
+                            Information</font></b></font></font>
+                    </h2>
+                    <p style="margin: 5pt 0pt 5pt 36pt;">
+                        <font face="'times new roman'"><font size="3">We provide a number of tools to manage
+                            the use of your information on the Site. You may receive weekly newsletter communications
+                            from us. However, despite any requests to close your account or your indicated email
+                            preferences, we may still need to contact you as required by law or on legal matters,
+                            for example to inform you of any updates to our Terms of Service or this Statement.</font></font>
+                    </p>
+                    <h2 style="margin: 5pt 0pt 5pt 36pt;">
+                        <font face="'times new roman'"><font color="#4f81bd"><b><font size="4">4.</font></b></font></font>&nbsp;&nbsp;
+                        <font face="'times new roman'"><font color="#4f81bd"><b><font size="4">Links</font></b></font></font>
+                    </h2>
+                    <p style="margin: 5pt 0pt 5pt 36pt;">
+                        <font face="'times new roman'"><font size="3">The Site may contain links to third party
+                            websites with which we have no affiliation. Except as set forth herein, we do not
+                            share your personal information with those third parties, and are not responsible
+                            for their privacy practices. We suggest you read the privacy policies on all such
+                            third party websites.</font></font>
+                    </p>
+                    <h2 style="margin: 5pt 0pt 5pt 36pt;">
+                        <font face="'times new roman'"><font color="#4f81bd"><b><font size="4">5.</font></b></font></font>&nbsp;&nbsp;
+                        <font face="'times new roman'"><font color="#4f81bd"><b><font size="4">Our Policy </font>
+                        </b></font></font><font face="'times new roman'"><font color="#4f81bd"><b><font size="4">
+                            Towards</font></b></font></font><font face="'times new roman'"><font color="#4f81bd"><b><font size="4"> Children</font></b></font></font>
+                    </h2>
+                    <p style="margin: 5pt 0pt 5pt 36pt;">
+                        <font face="'times new roman'"><font size="3">The Site is intended for general audiences
+                            and is not directed to children under 13. We do not knowingly collect personal information
+                            from children under 13. If you become aware that your child has provided us with
+                            personal information without your consent, please </font></font><font face="'times new roman'">
+                                <a href="/ContactUs.aspx"><font size="3">contact us</font></a></font><font face="'times new roman'"><font size="3">. If we become aware that a child under 13 has
+                                        provided us with personal information without parental consent, we take steps to
+                                        remove such information and terminate the child's account.</font></font>
+                    </p>
+                    <h2 style="margin: 5pt 0pt 5pt 36pt;">
+                        <font face="'times new roman'"><font color="#4f81bd"><b><font size="4">6.</font></b></font></font>&nbsp;&nbsp;
+                        <font face="'times new roman'"><font color="#4f81bd"><b><font size="4">Security</font></b></font></font>
+                    </h2>
+                    <p style="margin: 5pt 0pt 5pt 36pt;">
+                        <font face="'times new roman'"><font size="3">We follow generally accepted industry
+                            standards to protect the personal information submitted to us, both during transmission
+                            and once we receive it. No method of transmission over the Internet, or method of
+                            electronic storage, is 100% secure, however. Therefore, while we strive to use commercially
+                            acceptable means to protect your personal information, we cannot guarantee its absolute
+                            security.</font></font>
+                    </p>
+                    <h2 style="margin: 5pt 0pt 5pt 36pt;">
+                        <font face="'times new roman'"><font color="#4f81bd"><b><font size="4">7.</font></b></font></font>&nbsp;&nbsp;
+                        <font face="'times new roman'"><font color="#4f81bd"><b><font size="4">Modifications
+                            to this Statement</font></b></font></font>
+                    </h2>
+                    <p style="margin: 5pt 0pt 5pt 36pt;">
+                        <font face="'times new roman'"><font size="3">We may revise this Statement from time
+                            to time. The most current version of the Statement will govern our use of your information
+                            and will always be located </font></font>
+                                <font face="'times new roman'"><font size="3">here</font></font><font face="'times new roman'"><font size="3">.</font></font>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="details-right">
+        <div class="details-ad">
+        </div>
+        <a href="" class="advertise-us"></a>
+    </div>
+    <div class="clear">
+    </div>
+
+            </div>
+        </div>
+        <div class="master-footer">
+            <div class="master-inner">
+                <div class="floatleft">
+                    <img src="images/logo_small.jpg" class="floatleft logo" alt="">
+                    <p class="width400 FooterPClass">
+                        ©2011
+                        elmenus. All rights reserved.
+                    </p>
+                    <div class="clear">
+                    </div>
+                    <ul>
+                        <li class="first-item"><a href="/aboutus.aspx">About Us</a></li>
+                        <li><a href="/ContactUs.aspx">Contact Us</a></li>
+                        <li><a href="/terms.aspx">Terms and Conditions</a></li>
+                        <li><a href="/privacy.aspx">Privacy Policy</a></li>
+                    </ul>
+                </div>
+                <div class="floatright">
+
+                    <a href="http://www.facebook.com/elmenus" title="findus on facebook" class="findus-facebook">Find us on facebook</a><a href="http://www.twitter.com/elmenus" title="followus on twitter" class="followus-twitter">Follow us
+                        on twitter</a></div>
+                <div class="clear">
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="fb-root">
+    </div>
+    <script type="text/javascript" src="http://connect.facebook.net/en_US/all.js"></script>
+    <script type="text/javascript">
+        FB.init({ appId: '130949746951756', status: true, cookie: true, xfbml: true });
+        //        FB.Event.subscribe('auth.login', function (response) {
+        //          window.location.href = 'FBLoginHandler.ashx?returnURL=' + document.URL;
+        //        });
+    </script>
+    <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-13140101-1']);
+        _gaq.push(['_trackPageview']);
+        (function () {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+    
+
+<script type="text/javascript">
+//<![CDATA[
+(function() {var fn = function() {$get("ctl00_ToolkitScriptManager2_HiddenField").value = '';Sys.Application.remove_init(fn);};Sys.Application.add_init(fn);})();Sys.Application.initialize();
+Sys.Application.add_init(function() {
+    $create(Sys.Extended.UI.ModalPopupBehavior, {"BackgroundCssClass":"modalBackground","CancelControlID":"ctl00_imgBtnCloseEditPic","PopupControlID":"ctl00_pnlLoginBox","X":0,"Y":0,"dynamicServicePath":"/privacy.aspx","id":"loginBox"}, null, null, $get("ctl00_lnkLoginBox"));
+});
+//]]>
+</script>
+</form>
+    <script type="text/javascript">        document.write(unescape('%3Cscript type="text/javascript" src="' + document.location.protocol + '//dnn506yrbagrg.cloudfront.net/pages/scripts/0011/5873.js"%3E%3C%2Fscript%3E'))</script><script type="text/javascript" src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0011/5873.js"></script>
+
+
+
+</body></html>
