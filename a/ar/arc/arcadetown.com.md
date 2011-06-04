@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arcadetown.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130120038id_/http%3A//www.arcadetown.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arcadetown.com privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604020050id_/http%3A//www.arcadetown.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy and Information Security Policy - ArcadeTown.com
 
@@ -103,4 +103,4 @@ For customer service matters (including questions relating to this Policy), you 
 
 ArcadeTown is a trademark or registered trademark of Demand Media, Inc in the United States and other countries. 
 
-**NOTICE RE COPYRIGHT OWNERSHIP: (c) 2010 Demand Media, Inc. USA. All rights reserved.**
+**NOTICE RE COPYRIGHT OWNERSHIP: (c) 2011 Demand Media, Inc. USA. All rights reserved.**
