@@ -1,0 +1,73 @@
+> *The following text is extracted and transformed from the imtoolsuite.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605015320id_/http%3A//imtoolsuite.com/privacy_mlm.html) for the most accurate reproduction.*
+
+# Untitled Document
+
+**Our Privacy Policy of IMToolSuite.com & all Subsidiaries**  
+Privacy Notice Table Of Contents:   
+• Our Commitment To Privacy   
+• The Information We Collect   
+• How We Use Information   
+• Our Commitment To Data Security   
+• Our Commitment To Children's Privacy   
+• How To Access Or Correct Your Information   
+• How To Contact Us
+
+By visiting any one of our sites or sending us information, you are accepting the practices described in this Privacy Policy. Your assent to these practices is essential for us to continue operating this website, including the variety of information and services it contains. Similarly, we need you to provide accurate personal information so that you can be contacted and, if you purchase anything, so that we can complete the transaction. You can opt-out and decide not to provide the requested personal information. However, by doing so, you will not receive the information, product, and/or service you are requesting.
+
+When submitting any information on our website you expressly authorize us to use your personal information as explained in this privacy policy, and you consent to receiving commercial email from us, IMToolSuite.com, and any of our subsidiaries. You can expect to receive newsletters, promotions, and other similar offers. Should you wish to discontinue receiving these e-mailings simply unsubscribe using the link in the email you receive.
+
+**Our Commitment To Privacy  **  
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
+
+**The Information We Collect:  **  
+This notice applies to all information collected or submitted on www.IMToolSuite.com and all others subsidiary websites. On some pages, you can order products, make requests, and register to receive information or materials. The types of personal information collected at these pages are:   
+Name   
+Address   
+Email address   
+Phone number   
+Credit/Debit Card Information  
+Survey Information   
+(etc.) 
+
+On some pages, you can submit information about other people. For example, if you want to refer someone, you will need to submit the recipient's address. In this circumstance, the types of personal information collected are:   
+Name   
+Address   
+Phone Number   
+(etc. ) 
+
+**The Way We Use Information:  **  
+We use the information you provide about yourself when placing an order only to complete that order or request. We potentially will share your contact information with marketing partners based on type of orders placed. You payment information will never be shared with outside parties except to the extent necessary to complete that order.
+
+We use the information you provide about someone else when placing an order only to ship the product and to confirm delivery. We do not share this information with outside parties except to the extent necessary to complete that order. 
+
+We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties.
+
+You can potentially register with our website if you would like to receive our updates or newsletters as well as updates on our new products and services. Information you submit on our website will not be used for this purpose unless you fill out the registration form. 
+
+We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals. 
+
+Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses. 
+
+**Our Commitment To Data Security  **  
+To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
+
+**Our Commitment To Children's Privacy:  **  
+Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 16, and no part of our website is structured to attract anyone under 16. 
+
+**How You Can Access Or Correct Your Information  **  
+You can access all your personally identifiable information that we collect online by sending us a notice of change to support@IMToolSuite.com  
+You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. 
+
+**How To Contact Us  **  
+Should you have other questions or concerns about these privacy policies, please contact us by e-mail at support@IMToolSuite.com  
+IMToolSuite.com reserves the right to modify this Privacy Policy at its discretion, or against any customer it believes is abusing this policy. Any such revision or change will be binding and effective immediately after posting of the revised Privacy Policy on www.IMToolSuite.com and subsidiary web sites. You agree to periodically review our Web sites, including the current version of our Privacy Policy. Our Privacy Policy is made available on all our web sites. It is your obligation to review our Privacy Policy for any such revisions. 
+
+This website is owned and operated, or operated under agreement, by:
+
+KJC Marketing Partners LLC  
+2360 Corporate Cir Ste 400  
+Henderson NV 89074  
+702-608-6552  
+IMToolSuite.com
+
+Last Revision 3.07.2011
