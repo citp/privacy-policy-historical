@@ -1,19 +1,17 @@
-> *The following text is extracted and transformed from the national.edu privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223102643id_/http%3A//www.national.edu/PrivacyStatement/Pages/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the national.edu privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604142717id_/http%3A//www.national.edu/privacy-statement) for the most accurate reproduction.*
 
-# National American University - Privacy Statement
+# Privacy Statement | National American University
 
-**National American University Privacy Policy**
+******Introduction**  
+National American University recognizes the importance of protecting your privacy and the information that you share with us. Described below is our policy on the collection, use, disclosure, maintenance and protection of personal information that you provide to us through this website.
 
-**Introduction  
-** National American University recognizes the importance of protecting your privacy and the information that you share with us. Described below is our policy on the collection, use, disclosure, maintenance and protection of personal information that you provide to us through this website.
-
-**Collection of Information  
-** The information that we collect from you through this website will vary depending upon how you use the website and what information you choose to provide to us. Generally, we collect any information that you provide to us through online registrations and applications, participating in games and other activities, posting information on bulletin boards, or other forms of correspondence.
+**Collection of Information**  
+The information that we collect from you through this website will vary depending upon how you use the website and what information you choose to provide to us. Generally, we collect any information that you provide to us through online registrations and applications, participating in games and other activities, posting information on bulletin boards, or other forms of correspondence.
 
 We may also use "cookies" or "scripts" to collect information about your use of the website. You may adjust your Internet browser to disable the use of cookies and scripts; however, some features of this website may not be available without the use of cookies and scripts.
 
 **Your Choice**  
-When we obtain personal information from you, we will provide you with the opportunity to "opt-out" of any use of your information in ways unrelated to fulfilling your requests for information or processing your application for admissions. If you later decide to "opt-out" of such uses, you may do so by contacting us at the following address: [nausupport@national.edu](mailto:nausupport@national.edu). 
+When we obtain personal information from you, we will provide you with the opportunity to "opt-out" of any use of your information in ways unrelated to fulfilling your requests for information or processing your application for admissions. If you later decide to "opt-out" of such uses, you may do so by contacting us at the following address: [nausupport@national.edu](mailto:nausupport@national.edu).
 
 **Use of Information**  
 We use information collected from you for four general purposes: to personalize your online experience when using this website, to send you personalized correspondence, to fulfill your requests for certain information, and to process your application for admissions.
