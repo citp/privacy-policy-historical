@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationalexpresseastcoast.com privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523151727id_/http%3A//www.eastcoast.co.uk/-General-Links-/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalexpresseastcoast.com privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604032330id_/http%3A//www.eastcoast.co.uk/-General-Links-/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy > East Coast
 
@@ -35,6 +35,10 @@ We will use this information for the following reasons:
   * to contact you for market research purposes (see the section under “Marketing” below).
 
 
+
+### Card payment details
+
+Payment card data will be stored on the website for 90 days (a period of time to allow for changes to a journey). When purchasing a ticket, if you select to 'Remember this card', your card details will be stored in 'Your Account' for 18 months after the date of your last booking.
 
 ## Marketing
 
