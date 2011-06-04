@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the instant-registry-fixes.org privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225100710id_/http%3A//www.instant-registry-fixes.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instant-registry-fixes.org privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604233724id_/http%3A//www.instant-registry-fixes.org/privacy) for the most accurate reproduction.*
 
-# Privacy Policy at Instant Registry Fixes
+# Privacy Policy
 
 | 
 
