@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the msgroups.net privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202031656id_/http%3A//msgroups.net/site%7Eprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the msgroups.net privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605014305id_/http%3A//msgroups.net/site%7Eprivacy) for the most accurate reproduction.*
 
 # Privacy
 
