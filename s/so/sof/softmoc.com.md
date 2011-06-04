@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the softmoc.com privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616080716id_/http%3A//www.softmoc.com/us/PrivacyStatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softmoc.com privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604115204id_/http%3A//www.softmoc.com/us/PrivacyStatement.asp) for the most accurate reproduction.*
 
 # Privacy Statement
 
