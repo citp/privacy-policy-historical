@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the website-worth.org privacy policy that was archived on 2010-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101031043103id_/http%3A//www.website-worth.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the website-worth.org privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604060015id_/http%3A//www.website-worth.org/privacy.php) for the most accurate reproduction.*
 
-# Website Valuation Checker Contact
+# Privacy Policy
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at admin@website-worth.org.
 
