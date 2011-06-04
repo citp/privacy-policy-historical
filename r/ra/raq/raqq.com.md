@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the raqq.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204100202id_/http%3A//www.raqq.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raqq.com privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604183200id_/http%3A//raqq.com/privacy.html) for the most accurate reproduction.*
 
 # DMCA
 
