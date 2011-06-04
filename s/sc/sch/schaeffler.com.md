@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the schaeffler.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203020744id_/http%3A//www.schaeffler.com/content.schaeffler.de/en/_global/Privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schaeffler.com privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604081723id_/http%3A//www.schaeffler.com/content.schaeffler.de/en/_global/Privacy.jsp) for the most accurate reproduction.*
 
 # Schaeffler Technologies |
 
@@ -14,17 +14,17 @@ We use the technical data for website administration purposes. This means we use
 
 Security
 
-Schaeffler Technologies GmbH & Co. KGuses technical and organizational security measures in order to safeguard the data we receive from you against accidental or deliberate deletion, manipulation, loss, and against unauthorized persons accessing the information. These security measures are constantly developed to meet new technical standards. 
+Schaeffler GmbH uses technical and organizational security measures in order to safeguard the data we receive from you against accidental or deliberate deletion, manipulation, loss, and against unauthorized persons accessing the information. These security measures are constantly developed to meet new technical standards. 
 
 Our websites may contain links to other external websites. Our data protection policy does not apply for these websites. 
 
 Should you have any questions about how your personal data is processed, any comments or complaints, or should you require further information, please do not hesitate to contact the company or the company data protection officer. 
 
-On request, Schaeffler Technologies GmbH & Co. KG or the company responsible can provide you with information on whether your personal data has been stored by us and if so, which data has been stored. You will find the relevant person to contact on the company’s website. 
+On request, Schaeffler GmbH or the company responsible can provide you with information on whether your personal data has been stored by us and if so, which data has been stored. You will find the relevant person to contact on the company’s website. 
 
 Thomas Biedermann  
 Data Privacy Officer  
-Schaeffler Technologies GmbH & Co. KG  
+Schaeffler GmbH  
 Industriestrasse 1-3  
 91074 Herzogenaurach  
 Federal Republic of Germany  
