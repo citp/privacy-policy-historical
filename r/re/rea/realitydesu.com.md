@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realitydesu.com privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202014527id_/http%3A//forums.realitydesu.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realitydesu.com privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604060405id_/http%3A//forums.realitydesu.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Reality Desu Community Forums - A Games and Anime Resource Center
 
