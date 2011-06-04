@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the audubon.org privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227123212id_/http%3A//audubon.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audubon.org privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604113026id_/http%3A//audubon.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | National Audubon Society
 
