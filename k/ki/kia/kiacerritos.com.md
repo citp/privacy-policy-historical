@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kiacerritos.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121003251id_/http%3A//www.kiacerritos.com/PrivacyPolicy%23privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kiacerritos.com privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604060617id_/http%3A//www.kiacerritos.com/PrivacyPolicy%23privacyPolicy) for the most accurate reproduction.*
 
-# Kia of Cerritos is a Cerritos Kia dealer and a new car and used car Cerritos CA Kia dealership.
+# Privacy Policy of Kia of Cerritos
 
 **1\. Collection of Personal Information** Within this website, Kia and/or the dealer may seek certain personal information provided by the visitor for the purpose of sending product brochures or promotional materials. Information such as name, mailing address, e-mail address, type of request, and any additional information you provide, is collected by Kia and is used to meet your request. The information you provide is used by Kia to improve the services we provide to you. Your information is never given or sold to any third parties. 
 
