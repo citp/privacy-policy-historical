@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the codeworxtech.com privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126235614id_/http%3A//worxware.com/index.php%3Fpg%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codeworxtech.com privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604185936id_/http%3A//worxware.com/index.php%3Fpg%3Dprivacy) for the most accurate reproduction.*
 
 # Worx International Inc.
 
