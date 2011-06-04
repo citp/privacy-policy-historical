@@ -1,12 +1,13 @@
-<!--The following is the downloaded HTML source of the strengthsfinder.com privacy policy that was archived on 2010-12-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101211121202id_/http%3A//strengths.gallup.com/922/Privacy-Statement.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the strengthsfinder.com privacy policy that was archived on 2011-06-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110604090335id_/http%3A//strengths.gallup.com/922/Privacy-Statement.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7"><title>
 	Privacy Statement
 </title>
 
+<script type="text/javascript" src="/assets/js/jquery1_4_2_min.js"></script>
+<script type="text/javascript" src="/assets/js/jquery-ui.min.js"></script>
 <script type="text/javascript" src="/assets/js/common.js"></script>
-<script type="text/javascript" src="/assets/js/jQuery.js"></script>
 <script type="text/javascript" src="/assets/js/jQuery.textarearesizer.js"></script>
 
 <link type="text/css" rel="stylesheet" media="print, screen, handheld, tv" href="/assets/css/general.css"><link type="text/css" rel="stylesheet" media="screen, handheld, tv" href="/assets/css/screen.css"><link type="text/css" rel="stylesheet" media="print" href="/assets/css/print.css"><script type="text/javascript" src="http://sas-origin.OnstreamMedia.com/origin/gallupinc/www/webtrendsTagSD.js"></script><script type="text/javascript" src="http://sas-origin.OnstreamMedia.com/origin/gallupinc/www/webtrendsTrack.js"></script><meta name="description" content="English Privacy Statement"><meta name="robots" content="INDEX,FOLLOW,NOARCHIVE"><meta name="author" content="The Gallup Organization"></head>
@@ -63,10 +64,9 @@
                     
                        <div class="list">
 
-                        <ul class="listlevel1"><li class=""><a href="/110659/Homepage.aspx" target="_parent" title="Home"><span>Home</span></a></li><li class=""><a href="/110440/About-StrengthsFinder-2.aspx" target="_parent" title="Publications"><span>Publications</span></a></li><li class=""><a href="/110893/Purchase.aspx" target="_parent" title="Purchase"><span>Purchase</span></a></li></ul>
+                        <ul class="listlevel1 clearfix"><li class=""><a href="/110659/Homepage.aspx" target="_parent" title="Home"><span>Home</span></a></li><li class=""><a href="/110440/About-StrengthsFinder-2.aspx" target="_parent" title="Publications"><span>Publications</span></a></li><li class=""><a href="/110893/Purchase.aspx" target="_parent" title="Purchase"><span>Purchase</span></a></li><li class="floatR"><a href="#dialog" name="modal" class="lightboxAnchor"><div class="lightboxItem">About Clifton StrengthsFinder</div></a> </li></ul>
 
                        </div>
-                       
                     </div>
                 </div>
             </div>
@@ -209,7 +209,7 @@
                     <div class="mainbr">
                         
                         <div class="copyright">
-                            <span class="literal">Copyright © 2010 Gallup, Inc. All rights reserved.</span>
+                            <span class="literal">Copyright © 2011 Gallup, Inc. All rights reserved.</span>
                         </div>
                         <div class="policies">                            
                             
@@ -257,6 +257,49 @@
 	});
 </script>
 
+<!--[if lte IE 7]>
+<style type="text/css">
+    div.wrap {position:relative;}
+</style>
+<![endif]-->
+
+<script type="text/javascript"> 
+	$(document).ready(function() {
+		$('a[name=modal]').click(function(e) {
+			e.preventDefault();
+			
+			var id = $(this).attr('href');
+			
+			var maskH = $(window).height();
+			var maskW = $(window).width();
+			
+			$('#mask').css({'width':maskW, 'height':maskH});
+			$('#mask').fadeTo('slow',0.7);
+			
+			var winH = $(window).height();
+			var winW = $(window).width();
+			
+			$(id).css('top', winH/2-$(id).height()/2);
+			$(id).css('left', winW/2-$(id).width()/2);
+			
+			$(id).fadeIn(500);
+		});
+		
+		//if close button is clicked
+		$('.window .close').click(function (e) {
+			//Cancel the link behavior
+			e.preventDefault();
+			$('#mask, .window').hide();
+		});		
+		
+		//if mask is clicked
+		$('#mask').click(function () {
+			$(this).hide();
+			$('.window').hide();
+		});
+	});
+</script>
+
 <div>
     <noscript>
         <img alt="" border="0" name="DCSIMG" width="1" height="1" src="http://wsdc.gallup.com/dcspiyoko5k8os3r2ovysvs80_5w8k/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=8.0.3">
@@ -273,6 +316,21 @@
     pageTracker._trackPageview();
 </script>
 
+
+<div id="boxes">
+<div id="dialog" class="window">
+    <img src="/assets/images/lightbox_portrait.png" class="fullpic" alt="Donald O. Clifton, Ph.D." title="Donald O. Clifton"> 
+    <a href="#" class="close"><img src="/assets/images/lightbox_close.png" alt="close" title="close"></a>
+    <div class="dialogText">
+       <h1>Donald O. Clifton, Ph.D. (1924-2003)</h1>
+       <h3>The Father of Strengths-Based Psychology and Creator of the Clifton StrengthsFinder<sup>®</sup></h3>
+       <p>The Clifton StrengthsFinder is the culmination of more than 50 years of Dr. Donald O. Clifton’s lifelong work: 
+leading millions of people around the world to discover their strengths. In 2002, Dr. Clifton was honored by an American
+ Psychological Association Presidential Commendation as the Father of Strengths-Based Psychology.</p>
+     </div>
+</div>
+</div>
+<div id="mask"></div>
 
 
 
