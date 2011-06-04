@@ -1,9 +1,53 @@
-<!--The following is the downloaded HTML source of the fultoncountyga.gov privacy policy that was archived on 2010-12-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101201103618id_/http%3A//www.fultoncountyga.gov/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fultoncountyga.gov privacy policy that was archived on 2011-06-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110604165600id_/http%3A//www.fultoncountyga.gov/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb"><head>
-
-
+<link type="text/css" rel="stylesheet" href="/jquery/theme/contrast.css">
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.5/jquery.min.js"></script>
+<script type="text/javascript">
+<!--
+jQuery.noConflict();
+-->
+</script>
+<script type="text/javascript" src="http://fultoncountyga.gov/jquery/ui.core.js"></script>
+<script type="text/javascript" src="http://fultoncountyga.gov/jquery/ui.dialog.js"></script>
+<script type="text/javascript" src="http://fultoncountyga.gov/jquery/ui.draggable.js"></script>
+<script type="text/javascript" src="http://fultoncountyga.gov/internal_urls.js"></script>
+<script type="text/javascript">
+<!--
+jQuery.extend(jQuery.expr[':'], {
+external: function(a, i, m) {
+if (!a.href) { return false; }
+if (a.hostname && a.hostname !== window.location.hostname) {
+var fixedHostname = a.hostname.replace(/^\s+|\s+$/g, '').replace('www.', '').toLowerCase();
+if (jQuery.inArray(fixedHostname, arr) >= 0) {
+return false; }else return true;
+}else return false;
+}});
+jQuery(document).ready(function() {
+jQuery('#exlinkmsg').hide();
+jQuery('a:external').click(function(e) {
+e.preventDefault();
+var url = jQuery(this).attr('href');
+jQuery('#exlinkmsg').load('http://www.fultoncountyga.gov/disclaimer.html');
+jQuery('#exlinkmsg').show();
+jQuery('#exlinkmsg').dialog({
+modal: true,
+resizable: false,
+overlay: {
+opacity: 0.4,
+background: "black"
+},
+buttons: {
+"Continue": function() {
+window.open(url);
+jQuery(this).dialog("close");
+}
+}});
+}); // Selects all anchors which link to external site/page
+});
+-->
+</script>
   <base href="http://www.fultoncountyga.gov/privacy">
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
   <meta name="robots" content="index, follow">
@@ -138,25 +182,19 @@ div.menu td.last {
 -->
 </style>
 
-
-
 <link rel="stylesheet" href="/templates/system/css/system.css" type="text/css"> 
 <link rel="stylesheet" href="/templates/system/css/general.css" type="text/css">
  
 <link rel="shortcut icon" href="/images/favicon.ico">
  
 <link rel="stylesheet" href="http://www.fultoncountyga.gov/templates/fulco_blue_default/css/template.css" type="text/css"> 
-
 <!--[if lt IE 7.]>
 <script defer type="text/javascript" src="/pngfix/pngfix.js"></script>
 <![endif]-->
-
-
 </head>
-
-
 <body class="bg_page" leftmargin="0" rightmargin="0" topmargin="0" bottommargin="0" marginheight="0">
-
+	<div id="exlinkmsg">
+	</div>
 <div align="center">
 <table width="964" cellpadding="0" cellspacing="0">
 <tbody><tr valign="top">
@@ -173,7 +211,7 @@ div.menu td.last {
 	<input type="hidden" name="Itemid" value="216">
 </form>		</div>
 	</div></td>
-	<td width="143" class="bgtop"><a href="http://www.fultoncountyga.gov/component/content/article/2932"><img src="http://www.fultoncountyga.gov/templates/fulco_blue_default/images/contact_us.gif" width="143" height="71" alt="Contact the County" border="0"></a><br></td>
+	<td width="143" class="bgtop"><a href="/contact-fultoncounty"><img src="http://www.fultoncountyga.gov/templates/fulco_blue_default/images/contact_us.gif" width="143" height="71" alt="Contact the County" border="0"></a><br></td>
 	</tr>
 	<tr>
 	<td colspan="3" class="bgmen" height="32">
@@ -203,7 +241,7 @@ div.menu td.last {
 <a id="menu84" href="http://fultoncountyga.gov/personnel">Employment</a>
 </td> 
 <td class="last"> 
-<a id="menu1127" href="/departments-a-agencies">Departments &amp; Agencies</a>
+<a id="menu1127" href="/departments-and-agencies">Departments &amp; Agencies</a>
 </td> 
 </tr> 
 </tbody></table></div> 
@@ -300,7 +338,7 @@ window.onload = init();
 	<td colspan="3" height="">		<div class="moduletable">
 					<div class="bannergroup">
 
-<div class="banneritem"><img src="http://www.fultoncountyga.gov/images/banners/banner_homepage6.jpg" alt="Banner" border="0"><div class="clr"></div>
+<div class="banneritem"><img src="http://www.fultoncountyga.gov/images/banners/banner_homepage2.jpg" alt="Banner" border="0"><div class="clr"></div>
 	</div>
 
 </div>		</div>
@@ -322,23 +360,52 @@ window.onload = init();
 	<td width="280" class="white">		<div class="moduletablepulldown">
 					
 <!-- Simple Select Box 1.5.4 starts here -->
+
 <script type="text/javascript">
 <!--
+//var safeList = new Array('afcatalog.co.fulton.ga.us', 'fultoncountyga.gov', 'view.liveindexer.com');
 function openpage(link)
-	{
-	if (link!="!")
-		window.open(link);
-	return false;
+{
+	if ( link!="!" && link!== window.location.hostname) {
+		var a =  document.createElement('a');
+		a.href = link;
+		//var fixedHostname = link.replace(/^\s+|\s+$/g, '').replace('www.', '').toLowerCase();
+		var fixedHostname = a.hostname.replace(/^\s+|\s+$/g, '').replace('www.', '').toLowerCase();
+        if (jQuery.inArray(fixedHostname, arr) >= 0) {
+			window.open(link);
+            return false;
+        }
+        else {				
+			jQuery('#exlinkmsg').load('disclaimer.html');
+			jQuery('#exlinkmsg').fadeIn('slow');	
+			jQuery('#exlinkmsg').dialog({
+				modal: true,
+				resizable: false,
+				overlay: {
+					opacity: 0.4,
+					background: "black"
+				},
+				buttons: {
+					"Continue": function() {
+						window.open(link);
+						jQuery(this).dialog("close");
+					}
+				}
+			});															
+			return false;
+		}
 	}
+}
 -->
+
 </script>
 <table cellpadding="0" cellspacing="0" style="width:100%; text-align: center; direction: ltr;">
 	<tbody><tr>
 		<td></td>
 		</tr><tr>		<td>
-			<form method="get" action="">
-				<select name="Select" style="width: auto" onchange="top.location.href=this.options[this.selectedIndex].value">
-				<option value="!">How Do I?</option><option value="http://fultoncountyga.gov/marriage-license2">Get a Marriage License</option><option value="http://fultoncountyga.gov/voter-registration">Register to Vote</option><option value="http://fultoncountyga.gov/hous-programs2">Get Mortgage Assistance</option><option value="http://fultoncountyga.gov/call-for-assistance-bh">Find Mental Health Resources</option><option value="http://fultoncountyga.gov/finance-business-license">Apply for a Business License</option><option value="http://fultoncountyga.gov/hous-financial-services2">Get a Business Loan</option><option value="http://www.fultoncountyga.gov/vendor-self-service">Register as a Vendor</option><option value="http://fultoncountyga.gov/judicial-services-bh">Find Addiction Resources</option><option value="http://fultoncountyga.gov/requesting-a-proclamation">Request a Proclamation</option><option value="http://fultoncountyga.gov/prgrams-and-classes">Learn to Swim</option><option value="http://fultoncountyga.gov/citizens-university">Learn More About How Fulton County Works</option><option value="http://www.fultoncountyga.gov/finance-water-sewer">Pay My Water Bill</option><option value="http://www.fultoncountyga.gov/pw-water-services/2836-water-conservation">Reduce Water Consumption</option><option value="http://www.fultoncountyga.gov/pw-water-services/pw-education-a-outreach/2837-2010-outdoor-watering-schedule">Learn About Outdoor Watering Restrictions</option><option value="/code-enforcement-ecd/complaint-process-code-enforcement">Report Code Violation</option><option value="http://fultoncountyga.gov/agriculture-a-horticulture">Get Gardening Help</option>				</select>
+			<form id="ols_frm" method="get" action="">
+				<select id="ols" name="Select" style="width: auto" onchange="top.location.href=this.options[this.selectedIndex].value">
+				<option value="!">How Do I?</option><option value="/marriage-license2">Get a Marriage License</option><option value="/voter-registration">Register to Vote</option><option value="/resident-financial-assistance">Get Mortgage Assistance</option><option value="/call-for-assistance-bh">Find Mental Health Resources</option><option value="/finance-business-license">Apply for a Business License</option><option value="/finance-a-small-business">Get a Business Loan</option><option value="/vendor-self-service">Register as a Vendor</option><option value="/judicial-services-bh">Find Addiction Resources</option><option value="/requesting-a-proclamation">Request a Proclamation</option><option value="/prgrams-and-classes">Learn to Swim</option><option value="/citizens-university">Learn More About How Fulton County Works</option><option value="/finance-water-sewer">Pay My Water Bill</option><option value="/pw-water-services/2836-water-conservation">Reduce Water Consumption</option><option value="/pw-water-services/pw-education-a-outreach/2837-2010-outdoor-watering-schedule">Learn About Outdoor Watering Restrictions</option><option value="/code-enforcement-ecd/complaint-process-code-enforcement">Report Code Violation</option><option value="/agriculture-a-horticulture">Get Gardening Help</option>				</select>
 			</form>
 		</td>
 	</tr>
@@ -350,23 +417,52 @@ function openpage(link)
 	<td width="310">		<div class="moduletable">
 					
 <!-- Simple Select Box 1.5.4 starts here -->
+
 <script type="text/javascript">
 <!--
+//var safeList = new Array('afcatalog.co.fulton.ga.us', 'fultoncountyga.gov', 'view.liveindexer.com');
 function openpage(link)
-	{
-	if (link!="!")
-		window.open(link);
-	return false;
+{
+	if ( link!="!" && link!== window.location.hostname) {
+		var a =  document.createElement('a');
+		a.href = link;
+		//var fixedHostname = link.replace(/^\s+|\s+$/g, '').replace('www.', '').toLowerCase();
+		var fixedHostname = a.hostname.replace(/^\s+|\s+$/g, '').replace('www.', '').toLowerCase();
+        if (jQuery.inArray(fixedHostname, arr) >= 0) {
+			window.open(link);
+            return false;
+        }
+        else {				
+			jQuery('#exlinkmsg').load('disclaimer.html');
+			jQuery('#exlinkmsg').fadeIn('slow');	
+			jQuery('#exlinkmsg').dialog({
+				modal: true,
+				resizable: false,
+				overlay: {
+					opacity: 0.4,
+					background: "black"
+				},
+				buttons: {
+					"Continue": function() {
+						window.open(link);
+						jQuery(this).dialog("close");
+					}
+				}
+			});															
+			return false;
+		}
 	}
+}
 -->
+
 </script>
 <table cellpadding="0" cellspacing="0" style="width:100%; text-align: center; direction: ltr;">
 	<tbody><tr>
 		<td></td>
 		</tr><tr>		<td>
-			<form method="get" action="">
-				<select name="Select" style="width: auto" onchange="openpage(this.options[this.selectedIndex].value);">
-				<option value="!">Online  Services</option><option value="http://activenet12.active.com/fultonartsclasses/?redir=1">Arts Classes</option><option value="http://www.vitalchek.com/agency_info.aspx?t=birth&amp;p=18884&amp;s=loc">Birth Certificates</option><option value="http://www.ocse.dhr.georgia.gov/portal/site/DHS-OCSE/">Child Support</option><option value="http://www.dds.ga.gov/drivers/dldata.aspx?con=1742949265&amp;ty=dl">Driver's License Renewal</option><option value="http://agency.governmentjobs.com/fulton/default.cfm">Employment Applications</option><option value="http://74.174.59.137:90/doc/">Juvenile Court Hearing Schedule</option><option value="http://www.fultoncourt.org/sca200807/offices/law-library.html">Law Library</option><option value="http://afcatalog.co.fulton.ga.us/uhtbin/cgisirsi/X/0/0/49/">Library Card Catalog</option><option value="http://www.petdata.com/cs/ful/">Pet Licenses</option><option value="http://www.fultonassessor.org/Search/GenericSearch.aspx?mode=ADDRESS">Property Search</option><option value="http://www.afpls.org/index.php?option=com_content&amp;task=view&amp;id=183&amp;Itemid=106">Renew Library Materials</option><option value="http://www.fultoncountyga.gov/county/dpw/index.php?option=com_content&amp;task=blogcategory&amp;id=16&amp;Itemid=23">Road Closures</option><option value="http://services.georgia.gov/gbi/gbisor/SORSearch.jsp">Sex Offender Search</option><option value="http://www.fultoncountytaxes.org/fultoniwr/21_depts_solid_waste.asp">Solid Waste Billing</option><option value="http://www.dailyreportonline.com/Public_Notice/Court_Calendars/listWeekly.asp?court_Disp=state">State Court Calendar</option><option value="http://wms.co.fulton.ga.us/ms/surfacewater/">Surface Water and Drainage</option><option value="http://www.dailyreportonline.com/Public_Notice/Court_Calendars/listWeekly.asp?court_Disp=superior">Superior Court Calendar</option><option value="https://mvd.dor.ga.gov/tags/index.aspx">Vehicle Registration Renewal</option><option value="http://wms.co.fulton.ga.us/ms/voter/">Voting and Precinct Maps</option><option value="https://waterbilling.fultoncountyga.gov/">Water and Sewer Billing</option><option value="http://wms.co.fulton.ga.us/apps/zoning_maps/get_tile.php">Zoning Map</option><option value="http://health.state.ga.us/programs/envservices/inspections.asp">Restaurant Health Inspections</option>				</select>
+			<form id="ols_frm" method="get" action="">
+				<select id="ols" name="Select" style="width: auto" onchange="openpage(this.options[this.selectedIndex].value);">
+				<option value="!">Online  Services</option><option value="http://activenet12.active.com/fultonartsclasses/?redir=1">Arts Classes</option><option value="http://www.vitalchek.com/agency_info.aspx?t=birth&amp;p=18884&amp;s=loc">Birth Certificates</option><option value="http://www.ocse.dhr.georgia.gov/portal/site/DHS-OCSE/">Child Support</option><option value="http://www.dds.ga.gov/drivers/dldata.aspx?con=1742949265&amp;ty=dl">Driver's License Renewal</option><option value="http://agency.governmentjobs.com/fulton/default.cfm">Employment Applications</option><option value="/juvenile-court/doc/">Juvenile Court Hearing Schedule</option><option value="http://www.fultoncourt.org/sca200807/offices/law-library.html">Law Library</option><option value="http://afcatalog.co.fulton.ga.us/uhtbin/cgisirsi/X/0/0/49/">Library Card Catalog</option><option value="http://www.petdata.com/cs/ful/">Pet Licenses</option><option value="http://www.fultonassessor.org/Search/GenericSearch.aspx?mode=ADDRESS">Property Search</option><option value="http://www.afpls.org/index.php?option=com_content&amp;task=view&amp;id=183&amp;Itemid=106">Renew Library Materials</option><option value="http://services.georgia.gov/gbi/gbisor/SORSearch.jsp">Sex Offender Search</option><option value="http://www.fultoncountytaxes.org/fultoniwr/21_depts_solid_waste.asp">Solid Waste Billing</option><option value="http://www.dailyreportonline.com/Public_Notice/Court_Calendars/listWeekly.asp?court_Disp=state">State Court Calendar</option><option value="http://wms.co.fulton.ga.us/ms/surfacewater/">Surface Water and Drainage</option><option value="http://www.dailyreportonline.com/Public_Notice/Court_Calendars/listWeekly.asp?court_Disp=superior">Superior Court Calendar</option><option value="https://mvd.dor.ga.gov/tags/index.aspx">Vehicle Registration Renewal</option><option value="http://wms.co.fulton.ga.us/ms/voter/">Voting and Precinct Maps</option><option value="https://waterbilling.fultoncountyga.gov/">Water and Sewer Billing</option><option value="http://wms.co.fulton.ga.us/apps/zoning_maps/get_tile.php">Zoning Map</option><option value="http://ga.state.gegov.com/georgia/search.cfm?county=Fulton">Restaurant Health Inspections</option>				</select>
 			</form>
 		</td>
 	</tr>
@@ -379,7 +475,7 @@ function openpage(link)
 					
 
 <div style="margin: 10px;">
-<strong id="47fa7c">Share</strong><br>	<a href="#" onclick="location.href='http://del.icio.us/post?v=2&amp;url='+encodeURIComponent(location.href)+'�es=&amp;tags=&amp;title='+encodeURIComponent(document.title);return false;">
+<strong id="bdb189">Share</strong><br>	<a href="#" onclick="location.href='http://del.icio.us/post?v=2&amp;url='+encodeURIComponent(location.href)+'�es=&amp;tags=&amp;title='+encodeURIComponent(document.title);return false;">
 	<img src="http://www.fultoncountyga.gov/modules/mod_socialmedia/socialmedia_buttons/delicious.gif" border="0" alt="del.icio.us" title="del.icio.us" style="border:1px solid #CCCCCC;padding:1px;margin: 0px;">
 	</a>
 		<a href="#" onclick="location.href='http://digg.com/submit?phase=2&amp;url='+encodeURIComponent(location.href)+'&amp;bodytext=&amp;tags=&amp;title='+encodeURIComponent(document.title);return false;">
@@ -397,7 +493,7 @@ function openpage(link)
 	</div>
 <script type="text/javascript">
 <!--
-document.getElementById('47fa7c').innerHTML = 'Share';
+document.getElementById('bdb189').innerHTML = 'Share';
 //-->
 </script>
 		</div>
@@ -483,10 +579,10 @@ document.getElementById('47fa7c').innerHTML = 'Share';
  var suffix = '';
  var attribs = '';
  var path = 'hr' + 'ef' + '=';
- var addy20591 = 'w&#101;bm&#97;st&#101;r' + '&#64;';
- addy20591 = addy20591 + 'F&#117;lt&#111;nC&#111;&#117;ntyG&#97;' + '&#46;' + 'g&#111;v';
- document.write( '<a ' + path + '\'' + prefix + addy20591 + suffix + '\'' + attribs + '>' );
- document.write( addy20591 );
+ var addy37946 = 'w&#101;bm&#97;st&#101;r' + '&#64;';
+ addy37946 = addy37946 + 'F&#117;lt&#111;nC&#111;&#117;ntyG&#97;' + '&#46;' + 'g&#111;v';
+ document.write( '<a ' + path + '\'' + prefix + addy37946 + suffix + '\'' + attribs + '>' );
+ document.write( addy37946 );
  document.write( '<\/a>' );
  //-->
  </script><a href="mailto:webmaster@FultonCountyGa.gov">webmaster@FultonCountyGa.gov</a><script language="JavaScript" type="text/javascript">
@@ -524,7 +620,38 @@ document.getElementById('47fa7c').innerHTML = 'Share';
 	
 	</td>
 	<td width="29" class="bg_content_rt">&nbsp;</td>
-	<td width="208"></td>
+	<td width="208">		<div class="moduletable">
+					<h3>Translate This Page</h3>
+					
+
+<script type="text/javascript">
+//<![CDATA[
+                    if(top.location!=self.location)top.location=self.location;
+        window['_tipoff']=function(){};window['_tipon']=function(a){};
+        function doTranslate(lang_pair) {if(lang_pair.value)lang_pair=lang_pair.value;if(lang_pair=='')return;if(location.hostname=='www.fultoncountyga.gov' && lang_pair=='en|en')return;var lang=lang_pair.split('|')[1];if(location.hostname!='www.fultoncountyga.gov' && lang_pair=='en|en')location.href=unescape(gfg('u'));else if(location.hostname=='www.fultoncountyga.gov' && lang_pair!='en|en')location.href='http://translate.google.com/translate?client=tmpg&hl=en&langpair='+lang_pair+'&u='+escape(location.href);else location.href='http://translate.google.com/translate?client=tmpg&hl=en&langpair='+lang_pair+'&u='+unescape(gfg('u'));}
+        function gfg(name) {name=name.replace(/[\[]/,"\\\[").replace(/[\]]/,"\\\]");var regexS="[\\?&]"+name+"=([^&#]*)";var regex=new RegExp(regexS);var results=regex.exec(location.href);if(results==null)return '';return results[1];}
+            //]]>
+</script>
+
+<div id="google_translate_element"></div>
+<script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({
+    pageLanguage: 'en',
+    includedLanguages: 'en,zh-CN,fr,de,it,ja,ko,pt,es,'
+  }, 'google_translate_element');
+}
+</script>
+<script type="text/javascript" src="http://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+		</div>
+			<div class="moduletable_minibanner">
+					<div class="bannergroup_minibanner">
+
+<div class="banneritem_minibanner"><a href="/component/banners/click/76"><img src="http://www.fultoncountyga.gov/images/banners/newsletter_side_banner.gif" alt="Banner" border="0"></a><div class="clr"></div>
+	</div>
+
+</div>		</div>
+	</td>
 	</tr>
 	<tr><td colspan="5"><br><br><br></td></tr>
 	</tbody></table>
@@ -535,8 +662,8 @@ document.getElementById('47fa7c').innerHTML = 'Share';
 <img src="http://www.fultoncountyga.gov/templates/fulco_blue_default/images/template_bottom.gif" width="964" height="15" alt="" border="0"><br><div class="footer">
  		<div class="moduletablefooter">
 					<div align="center" class="footer">
-<p><a href="/privacy" class="footer"><span style="color: #ffffff;">Privacy Statement</span></a><span style="color: #ffffff;"><span style="font-size: 10pt;"> | </span></span><a href="/translate-this-site" class="footer"><span style="color: #ffffff;">Translate This Site</span></a><span style="color: #ffffff;"><span style="font-size: 10pt;"> | </span></span><a href="/translation-disclaimer" class="footer"><span style="color: #ffffff;">Translation Disclaimer</span></a><span style="color: #ffffff;"><span style="font-size: 10pt;"> | </span></span><a href="/privacy/2932" class="footer"><span style="color: #ffffff;">Contact Us</span></a><span style="color: #ffffff;"><span style="font-size: 10pt;">&nbsp;</span></span><span style="color: #ffffff;"><span style="font-size: 10pt;">| </span></span><a href="/disclaimer" class="footer"><span style="color: #ffffff;">General Disclaimer</span></a></p>
-<p><span style="color: #ffffff;">©2010 Fulton County Government<br>141 Pryor St. Atlanta, GA 30303 | (404)-612-4000</span></p>
+<p><a href="/privacy" class="footer"><span style="color: #ffffff;">Privacy Statement</span></a><span style="color: #ffffff;"><span style="font-size: 10pt;"> | </span></span><a href="/translate-this-site" class="footer"><span style="color: #ffffff;">Translate This Site</span></a><span style="color: #ffffff;"><span style="font-size: 10pt;"> | </span></span><a href="/translation-disclaimer" class="footer"><span style="color: #ffffff;">Translation Disclaimer</span></a><span style="color: #ffffff;"><span style="font-size: 10pt;"> | </span></span><a href="/contact-fultoncounty" class="footer"><span style="color: #ffffff;">Contact Us</span></a><span style="color: #ffffff;"><span style="font-size: 10pt;"> </span></span><span style="color: #ffffff;"><span style="font-size: 10pt;">| </span></span><a href="/disclaimer" class="footer"><span style="color: #ffffff;">General Disclaimer</span></a></p>
+<p><span style="color: #ffffff;">©2011 Fulton County Government<br>141 Pryor St. Atlanta, GA 30303 | (404)-612-4000</span></p>
 </div>		</div>
 	<br>
 </div>
