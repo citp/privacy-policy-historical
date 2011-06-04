@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the invisionpower.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224094132id_/http%3A//www.invisionpower.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the invisionpower.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605002607id_/http%3A//www.invisionpower.com/legal/privacy.php) for the most accurate reproduction.*
 
 # IPS Privacy Policy
 
@@ -45,6 +45,12 @@ You can access all your personally identifiable information that we collect onli
 You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error.
 
 To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. 
+
+## Spam Monitoring Service
+
+The IPS Spam Monitoring Service collects data from those sites using IPS software that choose to participate in the service. The email address and IP address of the registering member is passed to the service to determine the likelihood a registering account is a spam source.
+
+Data from accounts determined not to be spammers are permanently deleted within 48 hours. Data from accounts determined to be spammers may be stored indefinitely to create a block list.
 
 ## How To Contact Us
 
