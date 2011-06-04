@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the garcya.us privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216130533id_/http%3A//garcya.us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the garcya.us privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604120705id_/http%3A//garcya.us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Web Design Blog
 
@@ -24,4 +24,4 @@ Google, as a third party vendor, uses cookies to serve ads on http://Garcya.us/b
 
 Google’s use of the [DART cookie](http://www.doubleclick.com/privacy/faq.aspx) enables it to serve ads to our users based on their visit to our sites and other sites on the Internet.
 
-As a user, you may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
+As a user, you may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
