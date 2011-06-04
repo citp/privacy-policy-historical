@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cash4gold.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123115331id_/http%3A//www.cash4gold.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cash4gold.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605012002id_/http%3A//www.cash4gold.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « Cash4Gold.com
 
