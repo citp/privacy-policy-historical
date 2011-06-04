@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topnewspress.com privacy policy that was archived on 2010-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101208063556id_/http%3A//www.topnewspress.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topnewspress.com privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604034141id_/http%3A//www.topnewspress.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Free Press Release – Top News Press
 
@@ -26,4 +26,4 @@ We have included links on this site for your use and reference. We are not respo
 
 The contents of this statement may be altered at any time, at our discretion.
 
-If you have any questions about the privacy policy of [TopNewsPress.com](https://web.archive.org/web/20101208063556id_/http%3A//) then you may [contact us](http://www.topnewspress.com/contact-us/ "contact us") at [http://www.topnewspress.com/contact-us/](https://web.archive.org/web/20101208063556id_/http%3A//contact-us/)
+If you have any questions about the privacy policy of [TopNewsPress.com](https://web.archive.org/web/20110604034141id_/http%3A//) then you may [contact us](http://www.topnewspress.com/contact-us/ "contact us") at [http://www.topnewspress.com/contact-us/](https://web.archive.org/web/20110604034141id_/http%3A//contact-us/)
