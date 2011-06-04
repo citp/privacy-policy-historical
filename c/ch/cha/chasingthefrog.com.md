@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chasingthefrog.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225091527id_/http%3A//www.chasingthefrog.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chasingthefrog.com privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604043034id_/http%3A//www.chasingthefrog.com/privacy.htm) for the most accurate reproduction.*
 
 # ChasingtheFrog.com PRIVACY POLICY
 
