@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fultoncountyga.gov privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201103618id_/http%3A//www.fultoncountyga.gov/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fultoncountyga.gov privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604165600id_/http%3A//www.fultoncountyga.gov/privacy) for the most accurate reproduction.*
 
 # Privacy Statement
 
