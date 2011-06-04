@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the parkinson.org privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221075740id_/http%3A//www.parkinson.org/Privacy---Terms-of-Use.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parkinson.org privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605015322id_/http%3A//www.parkinson.org/Privacy---Terms-of-Use.aspx) for the most accurate reproduction.*
 
 # National Parkinson Foundation - Privacy & Terms of Use
 
@@ -34,7 +34,7 @@ If you wish to stop receiving any e-mail or other communications from NPF or if 
 
 ### Security
 
-NPF takes data security seriously.  NPF collects data that is covered by the medical privacy law HIPAA and is subjected to periodic audits by our banks and the Better Business Bureau.  Information collected by NPF (besides that which you may submit in the forums) is stored behind a firewall and protected using secure encryption technologies.  While no security steps can offer 100 percent protection we utilize state-of-the-art, industry-standard protocols to prevent unauthorized access to the information we hold. We will limit access to personal information to those NPF personnel with a need to know it. We educate our staff about their duty to protect your privacy and provide training regarding the policy described herein.\
+NPF takes data security seriously.  NPF collects data that is covered by the medical privacy law HIPAA and is subjected to periodic audits by our banks and the Better Business Bureau.  Information collected by NPF (besides that which you may submit in the forums) is stored behind a firewall and protected using secure encryption technologies.  While no security steps can offer 100 percent protection we utilize state-of-the-art, industry-standard protocols to prevent unauthorized access to the information we hold. We will limit access to personal information to those NPF personnel with a need to know it. We educate our staff about their duty to protect your privacy and provide training regarding the policy described herein.
 
 ### Changes
 
