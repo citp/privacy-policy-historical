@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the valenciacc.edu privacy policy that was archived on 2010-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100324023218id_/http%3A//www.valenciacc.edu/AboutUs/whoweare/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valenciacc.edu privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604051828id_/http%3A//valenciacc.edu/AboutUs/whoweare/privacy.cfm) for the most accurate reproduction.*
 
 # Who We Are - Vision, Values & Mission - Valencia Community College
 
-  | 
+|  |   | 
 
 [Who We Are
 
@@ -39,4 +39,7 @@ If you have questions, please contact the Vice President for Policy and General 
 
 Online Privacy, Access and Security [04-38.04] Revision: February 26, 2002
 
-TOP
+TOP  
+  
+---|---  
+| 
