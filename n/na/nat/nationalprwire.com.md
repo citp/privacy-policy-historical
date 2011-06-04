@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationalprwire.com privacy policy that was archived on 2010-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100118201315id_/http%3A//www.nationalprwire.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalprwire.com privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604182300id_/http%3A//www.nationalprwire.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | National PR Wire
 
