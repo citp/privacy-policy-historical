@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the houseinthesun.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121102516id_/http%3A//www.houseinthesun.com/page-privacy-statement-4.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the houseinthesun.com privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604135644id_/http%3A//www.houseinthesun.com/page-privacy-statement-4.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
 ### Privacy Statement
 
-Tribuo AB is totally committed to protecting your privacy when you use our website, HouseInTheSun.com. This policy is to explain how and why we collect the information as a result of your initial enquiry, how we protect it, what we do with it and how you can manage our utilisation of your information or terminate usage.
+House in the sun Scandinavia AB is totally committed to protecting your privacy when you use our website, HouseInTheSun.com. This policy is to explain how and why we collect the information as a result of your initial enquiry, how we protect it, what we do with it and how you can manage our utilisation of your information or terminate usage.
 
 Any questions regarding our Privacy Policy should be directed to contact at HouseInTheSun.com at info @ HouseInTheSun.com.
 
