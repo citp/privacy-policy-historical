@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theminisocial.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203202014id_/http%3A//www.theminisocial.com/theminisocial.php%3Fdo%3Dprivacy.html%26SID%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theminisocial.com privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604125155id_/http%3A//www.theminisocial.com/theminisocial.php%3Fdo%3Dprivacy.html%26SID%3D) for the most accurate reproduction.*
 
 # The Mini Social
 
@@ -39,7 +39,9 @@ Privacy Policy Changes If we decide to change our Privacy Policy for the Site, w
 If you have any questions about this Privacy Policy, please contact us at:
 
 **The Mini Social**
-    911 Rosemount Rd, Los Angeles, CA 91207
+    120 E Santa Anita Ave
+    Burbank, CA 91502
+    866-212-3259
     [customerservice@theminisocial.com](mailto:customerservice@theminisocial.com)
 
 Posted on August 15th, 2008. All rights reserved.
