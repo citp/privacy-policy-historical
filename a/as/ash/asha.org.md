@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asha.org privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212034312id_/http%3A//www.asha.org/sitehelp/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asha.org privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604163838id_/http%3A//www.asha.org/sitehelp/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy for Our Web Site
 
@@ -19,7 +19,7 @@ If you feel that ASHA is not abiding by its posted privacy policy, you should fi
 
 **Information Collection and Use**
 
-ASHA, or third parties designated by ASHA, collects personally identifiable and non-personally identifiable information from users in a variety of ways. ASHA is the sole owner of all the information collected on the Web site, and may use and share with third parties any and all of the information collected in any manner whatsoever that it deems appropriate for business purposes in its sole discretion.
+ASHA, or third parties designated by ASHA, collects personally identifiable and non-personally identifiable information from users in a variety of ways. ASHA is the sole owner of all the information collected on the Web site, and may use and share with third parties any and all of the information collected in any manner whatsoever that it deems appropriate for business purposes in its sole discretion. 
 
 **Registration**
 
