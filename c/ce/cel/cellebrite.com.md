@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cellebrite.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123024329id_/http%3A//www.cellebrite.com/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cellebrite.com privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604071203id_/http%3A//www.cellebrite.com/privacy-statement.html) for the most accurate reproduction.*
 
-# Cellebrite Mobile Data Secured - Cellebrite Privacy Statement
+# Cellebrite - Mobile Forensics and Data transfer solutions - Cellebrite Privacy Statement
 
 Cellebrite has long recognized that individuals with whom we conduct business value their privacy. However, in order to conduct global business in this increasingly electronic economy, the collection of personal information is often necessary and desirable. It is Cellebrite's goal to balance the benefits of e-commerce with the right of individuals to prevent the misuse of their personal information. 
 
