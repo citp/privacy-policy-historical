@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the genomics.cn privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219195426id_/http%3A//www.genomics.cn/en/alonepage.php%3Fid%3D4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the genomics.cn privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604175319id_/http%3A//www.genomics.cn/en/alonepage.php%3Fid%3D4) for the most accurate reproduction.*
 
 # BGI
 
