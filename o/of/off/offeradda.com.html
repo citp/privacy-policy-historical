@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the offeradda.com privacy policy that was archived on 2010-11-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101125193850id_/http%3A//www.offeradda.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the offeradda.com privacy policy that was archived on 2011-06-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110604171449id_/http%3A//www.offeradda.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US"><head profile="http://gmpg.org/xfn/11">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -8,6 +8,7 @@
 <meta name="google-site-verification" content="Ml53siBKzjJhr79ymwJIu-rVOYM-EJVQQvI16TWpggk">
 <meta name="generator" content="WordPress 2.8.5"> <!-- leave this for stats -->
 <meta property="fb:admins" content="1248397011">
+<meta name="cpalead-verification" content="0BmPvMr4UMIF6eCsSFEgE0giKq8Duz2aYK3SaM-JJCV">
 <meta name="cpalead-verification" content="zlYgBszw5sOiTfN59QsFBWVMz6z5Czyn263NssbYEKE">
 <meta name="description" content="Get Next Generation Offers,Shopping Deals,Discounts,Offers,Promotional Products,Freebies,Contest Details,Product Marketing,Gift vouchers,Win Prizes and lot's more on India's largest online portal offeradda.com">
 <meta name="keywords" content="free giftmate, offers, free stuff, contest, vouchers, prizes, win, mobile, shopping, deals, promotional product in india, india, google, yahoo, ">
@@ -56,8 +57,139 @@ GA_googleFetchAds();
 <link rel="canonical" href="http://www.offeradda.com/privacy-policy/">
 <!-- /all in one seo pack -->
 
+
+<style type="text/css">
+
+#topbar{
+position:absolute;
+border: 1px solid black;
+padding: 2px;
+background-color: lightyellow;
+width: 728px;
+height: 110px;
+visibility: hidden;
+z-index: 100;
+}
+
+</style>
+
+<script type="text/javascript">
+
+/***********************************************
+* Floating Top Bar script- © Dynamic Drive (www.dynamicdrive.com)
+* Sliding routine by Roy Whittle (http://www.javascript-fx.com/)
+* This notice must stay intact for legal use.
+* Visit http://www.dynamicdrive.com/ for full source code
+***********************************************/
+
+var persistclose=0 //set to 0 or 1. 1 means once the bar is manually closed, it will remain closed for browser session
+var startX = 420 //set x offset of bar in pixels
+var startY = 1 //set y offset of bar in pixels
+var verticalpos="fromtop" //enter "fromtop" or "frombottom"
+
+function iecompattest(){
+return (document.compatMode && document.compatMode!="BackCompat")? document.documentElement : document.body
+}
+
+function get_cookie(Name) {
+var search = Name + "="
+var returnvalue = "";
+if (document.cookie.length > 0) {
+offset = document.cookie.indexOf(search)
+if (offset != -1) {
+offset += search.length
+end = document.cookie.indexOf(";", offset);
+if (end == -1) end = document.cookie.length;
+returnvalue=unescape(document.cookie.substring(offset, end))
+}
+}
+return returnvalue;
+}
+
+function closebar(){
+if (persistclose)
+document.cookie="remainclosed=1"
+document.getElementById("topbar").style.visibility="hidden"
+}
+
+function staticbar(){
+	barheight=document.getElementById("topbar").offsetHeight
+	var ns = (navigator.appName.indexOf("Netscape") != -1) || window.opera;
+	var d = document;
+	function ml(id){
+		var el=d.getElementById(id);
+		if (!persistclose || persistclose && get_cookie("remainclosed")=="")
+		el.style.visibility="visible"
+		if(d.layers)el.style=el;
+		el.sP=function(x,y){this.style.left=x+"px";this.style.top=y+"px";};
+		el.x = startX;
+		if (verticalpos=="fromtop")
+		el.y = startY;
+		else{
+		el.y = ns ? pageYOffset + innerHeight : iecompattest().scrollTop + iecompattest().clientHeight;
+		el.y -= startY;
+		}
+		return el;
+	}
+	window.stayTopLeft=function(){
+		if (verticalpos=="fromtop"){
+		var pY = ns ? pageYOffset : iecompattest().scrollTop;
+		ftlObj.y += (pY + startY - ftlObj.y)/8;
+		}
+		else{
+		var pY = ns ? pageYOffset + innerHeight - barheight: iecompattest().scrollTop + iecompattest().clientHeight - barheight;
+		ftlObj.y += (pY - startY - ftlObj.y)/8;
+		}
+		ftlObj.sP(ftlObj.x, ftlObj.y);
+		setTimeout("stayTopLeft()", 10);
+	}
+	ftlObj = ml("topbar");
+	stayTopLeft();
+}
+
+if (window.addEventListener)
+window.addEventListener("load", staticbar, false)
+else if (window.attachEvent)
+window.attachEvent("onload", staticbar)
+else if (document.getElementById)
+window.onload=staticbar
+</script>
+
+
+
+<style>
+<!--
+
+#listbutton{
+border:1px solid #4B4B4B;
+background-color:#F3F3F3;
+width:50px;
+height:12px;
+font: normal 11px Arial;
+text-align:center;
+cursor:pointer;cursor:hand;
+}
+
+.expandhighlight, .expandhighlight a{
+color:red;
+}
+
+-->
+</style>
+
+
+<style type="text/css">
+<!--
+#sponsorAdDiv {position:absolute; height:1; width:1px; top:0; left:0;}
+-->
+</style>
+
+
+
 </head>
-<body style="margin-left: 0%; margin-right: 0%; margin-top: 0%; margin-bottom: 0%;">
+<body>
+
+
 
 <div id="head" class="clearfloat">
 
@@ -212,7 +344,11 @@ document.write ("'><\/scr"+"ipt>");
 
 <div id="sidebar-ads">
 <img src="http://www.offeradda.com&lt;/div&gt;&#10;  &#10;&lt;div id=" sidebar-top"=""> 
-			<div class="textwidget"><center>A D V E R T I S E M E N T ▼<br><script type="text/javascript"><!--
+			<div class="textwidget"><script src="http://serve.vdopia.com/adserver/bannerjs/51c0255849be03c3116eee580cd9810a/300x275/rmebanner"></script>
+
+
+
+<center>A D V E R T I S E M E N T ▼<br><script type="text/javascript"><!--
 google_ad_client = "ca-pub-6811301112662590";
 /* Offeradda 300x250 */
 google_ad_slot = "2332031446";
@@ -221,7 +357,11 @@ google_ad_height = 250;
 //-->
 </script>
 <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script></center></div>
+</script></center><br>
+
+<center>A D V E R T I S E M E N T ▼<br>
+<a href="http://track.vcommission.com/aff_c?offer_id=941&amp;aff_id=1082&amp;file_id=6765" target="_blank"><img src="http://go2speed.org/brand/files/vcommission/941/300x50.gif" width="300" height="50" border="0"></a><img src="http://track.vcommission.com/aff_i?offer_id=941&amp;aff_id=1082&amp;file_id=6765" width="1" height="1">
+<!-- // End Ad Tag --></center></div>
 					<div class="textwidget"><br><center>
 <style type="text/css">
 @import url(http://www.google.com/cse/api/branding.css);
@@ -245,7 +385,7 @@ google_ad_height = 250;
     Custom Search
   </div>
 </div>
-
+<script type="text/javascript" src="http://www.zipdial.com/apps/mobileValidationV2/js/widget.php?securityToken=1152ffdd5b580393c66aac6aac109e23571a5c7a&amp;redirect_url=48b75504813631e6034d27856137f8313ddf7150"></script><a href="http://www.indiaeveryday.in/" title="IndiaEveryday - India news and entertainment Aggregator"><img src="http://s.ahan.in/images/favicons/buttons/ied_gray.gif" width="132" height="29" border="0" alt="IndiaEveryday"></a>  
 
 
 <div id="cse-search-results"></div>
@@ -302,7 +442,7 @@ google_ad_height = 600;
 
 <div id="sidebar-right">
 			<div class="textwidget"><center><b>Advertisement ▼</b><br>
-<a href="http://track.vcommission.com/SH1I" target="_blank"><img src="http://go2media.org/brand/files//vcommission/6/120x600.jpg" width="120" height="600" border="0"></a><img src="http://track.vcommission.com/aff_i?offer_id=6&amp;aff_id=1082&amp;file_id=393" width="1" height="1"></center></div>
+<a href="http://track.vcommission.com/aff_c?offer_id=6&amp;aff_id=1082&amp;file_id=8096" target="_blank"><img src="http://go2speed.org/brand/files/vcommission/6/KhojGuru - 120x600.JPG" width="120" height="600" border="0"></a><img src="http://track.vcommission.com/aff_i?offer_id=6&amp;aff_id=1082&amp;file_id=8096" width="1" height="1"></center></div>
 		</div> 
 
 </div>
@@ -312,95 +452,23 @@ google_ad_height = 600;
 <iframe frameborder="0" marginwidth="0" marginheight="0" scrolling="NO" width="300" height="250" src="http://ad.globaltakeoff.net/st?ad_type=iframe&amp;ad_size=300x250&amp;section=1367202"></iframe>
 <!-- END TAG -->
 </center></div>
-					<div class="textwidget"></div>
 		<h3>We are on Facebook</h3>			<div class="textwidget"><center><iframe src="http://www.facebook.com/plugins/likebox.php?id=157097324487&amp;width=300&amp;connections=10&amp;stream=false&amp;header=true&amp;height=287" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:300px; height:287px;" allowtransparency="true"></iframe></center></div>
-					<div class="textwidget"><!-- BEGIN STANDARD TAG - interstitial - ROS: Run-of-site - DO NOT MODIFY -->
+					<div class="textwidget"><center>
+</center>
 
-
-<script type="text/javascript" src="http://content.yieldmanager.com/rmi.js"></script>
-<script language="JavaScript">
-var rm_int_times = 1;
-var rm_int_frequency = 3600;
-var rm_int_hideinms = 20000;
-var rm_ibgcolor = "white";
-var rm_itextcolor = "black";
-var rm_ilinkcolor = "#A91010";
-
-rmistyle();
-</script>
-
-
-<iframe id="rmishim" class="rmishim" src="" frameborder="0" scrolling="no"></iframe>
-<div id="rmiad" class="rmiad">
-<img src="http://content.yieldmanager.com/interstitials/interstitial_logo_328991_1281548947.jpg"><br><br>Offeradda - Next Generation Ads - <a href="#" class="rmilink" onclick="rmikill();">Skip this ad</a><br>
-
-
-<script type="text/javascript" src="http://content.yieldmanager.com/rmtag3.js"></script>
-<script language="JavaScript">
-var rm_host = "http://ad.globaltakeoff.net";
-var rm_section_id = 1367202;
-var rm_interstitial = 1;
-
-if (rmCanShowInterstitial(true)) rmShowInterstitial();
-</script>
-
-
-</div>
-<script language="JavaScript">
-rmShowInterstitialHeader();
-if (rm_int_hideinms > 0) window.setTimeout("rmikill()", rm_int_hideinms);
-</script>
-<!-- END TAG -->
 </div>
 					<div class="textwidget"><center><br><br><a href="http://www.indiblogger.in/" title="IndiBlogger - The Indian Blogger Community">
 <img src="http://www.indiblogger.in/badges/big_inditiger.png" width="145" height="128" border="0" alt="IndiBlogger - The Indian Blogger Community">
-</a></center>
-</div>
-					<div class="textwidget">
+</a>&nbsp; &nbsp; 
 
-
-<!-- BEGIN STANDARD TAG - interstitial - ROS: Run-of-site - DO NOT MODIFY -->
-
-
-<script type="text/javascript" src="http://content.yieldmanager.com/rmi.js"></script>
-<script language="JavaScript">
-var rm_int_times = 1;
-var rm_int_frequency = 86400;
-var rm_int_hideinms = 20000;
-var rm_ibgcolor = "white";
-var rm_itextcolor = "black";
-var rm_ilinkcolor = "#AF2323";
-
-rmistyle();
-</script>
-
-
-<iframe id="rmishim" class="rmishim" src="" frameborder="0" scrolling="no"></iframe>
-<div id="rmiad" class="rmiad">
-<img src="http://content.yieldmanager.com/interstitials/interstitial_logo_363883_1289455071.jpg"><br><br>Offeradda - Next Generation Ads - <a href="#" class="rmilink" onclick="rmikill();">Skip this ad</a><br>
-
-
-<script type="text/javascript" src="http://content.yieldmanager.com/rmtag3.js"></script>
-<script language="JavaScript">
-var rm_host = "http://ad.bharatstudent.com";
-var rm_section_id = 1569238;
-var rm_interstitial = 1;
-
-if (rmCanShowInterstitial(true)) rmShowInterstitial();
-</script>
-
-
-</div>
-<script language="JavaScript">
-rmShowInterstitialHeader();
-if (rm_int_hideinms > 0) window.setTimeout("rmikill()", rm_int_hideinms);
-</script>
-<!-- END TAG -->
+<div id="networkedblogs_nwidget_container" style="height:50px;padding-top:10px;"><div id="networkedblogs_nwidget_above"></div><div id="networkedblogs_nwidget_widget" style="border:0px solid #D1D7DF;background-color:#F5F6F9;margin:0px auto;"><div id="networkedblogs_nwidget_logo" style="padding:1px;margin:0px;background-color:#edeff4;text-align:center;height:21px;"><a href="http://networkedblogs.com/" target="_blank" title="NetworkedBlogs"><img style="border: none;" src="http://static.networkedblogs.com/static/images/logo_small.png" title="NetworkedBlogs"></a></div><div id="networkedblogs_nwidget_body" style="text-align: center;"></div><div id="networkedblogs_nwidget_follow" style="padding:5px;"><a style="display:block;line-height:100%;width:90px;margin:0px auto;padding:4px 8px;text-align:center;background-color:#3b5998;border:1px solid #D9DFEA;border-bottom-color:#0e1f5b;border-right-color:#0e1f5b;color:#FFFFFF;font-family:'lucida grande',tahoma,verdana,arial,sans-serif;font-size:11px;text-decoration:none;" href="http://networkedblogs.com/blog/Offeradda/?ahash=4d448ee642721ddc67129cbe8bf43434">Follow this blog</a></div></div><div id="networkedblogs_nwidget_below"></div></div><script type="text/javascript"><!--
+if(typeof(networkedblogs)=="undefined"){networkedblogs = {};networkedblogs.blogId=699696;networkedblogs.shortName="Offeradda";}
+--></script></center>
 </div>
 		 </div>   
 
 
-</div></div>  
+</div><script src="http://toolbar.wibiya.com/toolbarLoader.php?toolbarId=2238" type="text/javascript"></script></div>  
 
 <div id="front-popular" class="clearfloat">
 
@@ -418,10 +486,17 @@ if (rm_int_hideinms > 0) window.setTimeout("rmikill()", rm_int_hideinms);
 
 <div id="mostcommented" class="clearfloat">
 <h3>Most Commented</h3>
-<ul> 	<li><a href="http://www.offeradda.com/offers/get-a-free-sample-of-ponds-age-miracle-from-idiva/" title="Get a Free Sample of Ponds Age Miracle from iDiva">Get a Free Sample of Ponds Age Miracle from iDiva</a></li> 	 	<li><a href="http://www.offeradda.com/headline/get-free-gifthampers-from-bebeautiful/" title="Get Free Gifthampers from Bebeautiful">Get Free Gifthampers from Bebeautiful</a></li> 	 	<li><a href="http://www.offeradda.com/featured/get-an-free-sample-of-maggi-nutri-licious-paazta/" title="Get an Free Sample of Maggi Nutri-licious Paazta">Get an Free Sample of Maggi Nutri-licious Paazta</a></li> 	 	<li><a href="http://www.offeradda.com/offers/get-free-sample-of-soap-and-others-from-pg/" title="Get free sample of Soap and others from P&amp;G">Get free sample of Soap and others from P&amp;G</a></li> 	 	<li><a href="http://www.offeradda.com/contact-us/" title="Contact Us">Contact Us</a></li> 	  
+<ul> 	<li><a href="http://www.offeradda.com/offers/get-a-free-sample-of-ponds-age-miracle-from-idiva/" title="Get a Free Sample of Ponds Age Miracle from iDiva">Get a Free Sample of Ponds Age Miracle from iDiva</a></li> 	 	<li><a href="http://www.offeradda.com/offers/get-free-aqua-di-gio-sample/" title="Get Free Aqua Di Gio Sample">Get Free Aqua Di Gio Sample</a></li> 	 	<li><a href="http://www.offeradda.com/offers/hp-bharat-bhar-bhar-ke-jeeto-offer/" title="HP Bharat Bhar Bhar ke Jeeto Offer">HP Bharat Bhar Bhar ke Jeeto Offer</a></li> 	 	<li><a href="http://www.offeradda.com/featured/get-an-free-sample-of-maggi-nutri-licious-paazta/" title="Get an Free Sample of Maggi Nutri-licious Paazta">Get an Free Sample of Maggi Nutri-licious Paazta</a></li> 	 	<li><a href="http://www.offeradda.com/headline/get-free-gifthampers-from-bebeautiful/" title="Get Free Gifthampers from Bebeautiful">Get Free Gifthampers from Bebeautiful</a></li> 	  
 </ul>
 
-<h3>Archives</h3>		<select name="archive-dropdown" onchange="document.location.href=this.options[this.selectedIndex].value;"> <option value="">Select Month</option> 	<option value="http://www.offeradda.com/2010/11/"> November 2010 &nbsp;(2)</option>
+<h3>Archives</h3>		<select name="archive-dropdown" onchange="document.location.href=this.options[this.selectedIndex].value;"> <option value="">Select Month</option> 	<option value="http://www.offeradda.com/2011/06/"> June 2011 &nbsp;(1)</option>
+	<option value="http://www.offeradda.com/2011/05/"> May 2011 &nbsp;(7)</option>
+	<option value="http://www.offeradda.com/2011/04/"> April 2011 &nbsp;(3)</option>
+	<option value="http://www.offeradda.com/2011/03/"> March 2011 &nbsp;(6)</option>
+	<option value="http://www.offeradda.com/2011/02/"> February 2011 &nbsp;(8)</option>
+	<option value="http://www.offeradda.com/2011/01/"> January 2011 &nbsp;(1)</option>
+	<option value="http://www.offeradda.com/2010/12/"> December 2010 &nbsp;(3)</option>
+	<option value="http://www.offeradda.com/2010/11/"> November 2010 &nbsp;(2)</option>
 	<option value="http://www.offeradda.com/2010/10/"> October 2010 &nbsp;(4)</option>
 	<option value="http://www.offeradda.com/2010/09/"> September 2010 &nbsp;(7)</option>
 	<option value="http://www.offeradda.com/2010/08/"> August 2010 &nbsp;(21)</option>
@@ -439,14 +514,17 @@ if (rm_int_hideinms > 0) window.setTimeout("rmikill()", rm_int_hideinms);
 <div id="recent_comments" class="clearfloat">
 
 			<div class="textwidget"><a href="" class="loadit" type="ad_size=720x300&amp;section=[1259102]" rel="iframe" rev="width::720::height::300::FRAMEBORDER::0::MARGINWIDTH::0::MARGINHEIGHT ::0::SCROLLING::NO" title=""></a> </div>
-					<div class="textwidget"><center><a href="http://labs.google.co.in/smschannels/subscribe/Offeradda"><img src="http://sites.google.com/site/offeradda/my/Mobile%20Subscription%20of%20Offeradda.jpg"></a></center></div>
+					<div class="textwidget"><center><a href="http://mytoday.com/store/publishers/ADDA"><img src="https://sites.google.com/site/offeradda/dasd/OfferaddaSMS.png"></a></center></div>
 		</div>
 </div>
 
 
-<div id="footer">  Powered by <a href="http://www.sagartech.co.cc">Sagartech</a> | <a href="http://www.offersadda.co.cc" target="_blank"> All rights Reserved © 2009-10</a> Designed by <a href="http://www.offersadda.co.cc" target="_blank">Sagar Shah</a>
+<div id="footer"> <noscript><a href='http://www.wibiya.com/'>Web Toolbar by Wibiya</a></noscript> Powered by <a href="http://www.sagartech.co.cc">Sagartech</a> | <a href="http://www.offersadda.co.cc" target="_blank"> All rights Reserved © 2009-11</a> Designed by <a href="http://www.offersadda.co.cc" target="_blank">NeXT Gen Infotech</a>
 
-<!-- 26 queries. 1.365 seconds. -->
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; 
+<a href="http://www.dmca.com/Protection/Status.aspx?id=65f9182d-dcaa-4949-bf34-de4ab0b0c874" title="Website Content Protection"> <img src="http://images.dmca.com/Badges/dmca_protected_sml_120t.png?id=65f9182d-dcaa-4949-bf34-de4ab0b0c874" alt="Website Content Protection"></a>
+
+<!-- 28 queries. 0.280 seconds. -->
 
 </div>
 
@@ -473,4 +551,98 @@ if (rm_int_hideinms > 0) window.setTimeout("rmikill()", rm_int_hideinms);
 
 
 
-</body></html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript"> 
+ if(typeof(hyperweb_adcount)=="undefined") hyperweb_adcount =1;
+<!--//<![CDATA[
+var m3_u = 'http://hyperwebads.com/hyper/delivery.php'
+document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+document.write ("?hyperweb_sitename="+document.domain);
+document.write ('&amp;hyperweb_adcount=' +hyperweb_adcount++);
+document.write ('&amp;hyperweb_location=footer');
+document.write ("'><\/scr"+"ipt>");
+//]]>-->
+</script><script type="text/javascript" src="http://hyperwebads.com/hyper/delivery.php?hyperweb_sitename=web.archive.org&amp;hyperweb_adcount=3&amp;hyperweb_location=footer"></script>
+
+<!-- Dynamic page generated in 0.229 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2011-06-03 20:14:55 -->
+<!-- super cache --></body></html>
