@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hercle.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225211700id_/http%3A//www.hercle.com/affiliate/accounts/default1/themes/signup/Hercle_Signup/pdfs/IMS_HERCLE_Privacy_Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hercle.com privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604211516id_/http%3A//www.hercle.com/affiliate/accounts/default1/themes/signup/Hercle_Signup/pdfs/IMS_HERCLE_Privacy_Policy.pdf) for the most accurate reproduction.*
 
 # HERCLE™
 
