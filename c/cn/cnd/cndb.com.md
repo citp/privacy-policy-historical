@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cndb.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121031409id_/http%3A//www.cndb.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cndb.com privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604140346id_/http%3A//www.cndb.com/privacy.html) for the most accurate reproduction.*
 
-# CNdb: Privacy Policy
+# Celebrity Nudity Database, nude celeb movie and television reviews | CNdb.com
 
 At CNDB.com, we respect and protect your privacy. Our site is a safe environment for anyone who visits and becomes a member or purchases items from us. As an entertainment-related products and services provider, we are committed to providing you the best possible online service and experience, as well as the best products. The purpose of this policy statement is to fully share with you how we feel about the most important aspects of using this site. 
 
