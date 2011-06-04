@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the privatelabelnutra.com privacy policy that was archived on 2010-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100507000100id_/http%3A//privatelabelnutraceuticals.com/information.php%3Finfo_id%3D32) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the privatelabelnutra.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605015815id_/http%3A//www.privatelabelnutra.com/information.php%3Finfo_id%3D32) for the most accurate reproduction.*
 
 # Private Label
 
@@ -188,10 +188,18 @@ As we continue to develop our business, we might sell or buy stores, subsidiarie
 
 
 If you wish to discontinue receiving email messages from **Private Label Nutraceuticals, LLC** please write to:  
-**Private Label Nutraceuticals, LLC** **  
-****Attn: email unsubscribe** **  
-****INSERT ADDRESS HERE** **** **Or** **** **send an unsubscribe message to INSERT COMPANY EMAIL ADDRESS HERE**   
+**Private Label Nutraceuticals, LLC  
+Attn: email unsubscribe  
+3610 Dekalb Technology Parkway   
+Suite 135   
+Atlanta, GA 30340 
+
+Or
+
+send an unsubscribe message to [CustomerService@privatelabelnutraceuticals.com](mailto:CustomerService@privatelabelnutraceuticals.com)
+
+**   
 We reserve the right to add Individual Information to multiple lists maintained by **Private Label Nutraceuticals, LLC**. For more information about protecting your privacy, you may wish to visit: [www.ftc.gov](http://www.ftc.gov/).    
-Should you have other questions or concerns about this privacy policy, please call us at 1.888.879.0062 or send us an email at **Private Label Nutraceuticals, LLC** **.**
+Should you have other questions or concerns about this privacy policy, please call us at 1.888.289.118 or send us an email at **[Private Label Nutraceuticals, LLC](mailto:CustomerService@privatelabelnutraceuticals.com).**
 
 **Last Updated on January, 2009 ©** **Private Label Nutraceuticals, LLC**
