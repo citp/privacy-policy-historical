@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the dnsstuff.com privacy policy that was archived on 2010-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100311075734id_/http%3A//www.dnsstuff.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dnsstuff.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605011938id_/http%3A//www.dnsstuff.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Statement
 
 ## General Statement
 
-This Privacy Policy ("Privacy Policy") discloses the privacy practices for DNSstuff, LLC d/b/a DNSstuff with regard to your ("You" or "Your") use of the websites ([www.dnsstuff.com](http://www.dnsstuff.com/) and [www.dnsreport.com](http://www.dnsreport.com/) (the "Sites"). DNSstuff is committed to Your privacy. The following policy applies to all of the websites owned by DNSstuff including DNSstuff.com, DNSreport.com and IPv6tools.com. DNSstuff hereby notifies You of:What personally identifiable information of Yours is collected from You through these sites and how the information is used.
+This Privacy Policy ("Privacy Policy") discloses the privacy practices for DNSstuff, LLC d/b/a DNSstuff with regard to your ("You" or "Your") use of the websites ([www.dnsstuff.com](https://www.dnsstuff.com/) and [www.dnsreport.com](http://www.dnsreport.com/) (the "Sites"). DNSstuff is committed to Your privacy. The following policy applies to all of the websites owned by DNSstuff including DNSstuff.com, DNSreport.com and IPv6tools.com. DNSstuff hereby notifies You of:What personally identifiable information of Yours is collected from You through these sites and how the information is used.
 
   1. What personally identifiable information of Yours is collected from You through these sites and how the information is used. 
   2. How the information may be shared.
