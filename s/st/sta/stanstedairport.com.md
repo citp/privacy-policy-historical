@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the stanstedairport.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204134749id_/http%3A//www.stanstedairport.com/portal/page/Stansted%255EGeneral%255EMisc%255EPrivacy%2Bnotice/db949dcdcdb8d110VgnVCM10000036821c0a____/448c6a4c7f1b0010VgnVCM200000357e120a____) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stanstedairport.com privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604115303id_/http%3A//www.stanstedairport.com/portal/page/Stansted%255EGeneral%255EMisc%255EPrivacy%2Bnotice/db949dcdcdb8d110VgnVCM10000036821c0a____/448c6a4c7f1b0010VgnVCM200000357e120a____) for the most accurate reproduction.*
 
 # BAA Stansted: BAA Privacy notice
 
-Last updated: February 2010
+**Last updated: February 2011**
 
 How we use your information
 
-This privacy notice tells you what to expect when BAA collects personal information via our websites.  BAA Ltd and its group companies (“BAA”) each take their obligations with regard to your personal information seriously.  For a list of BAA group companies, please click here.  This privacy notice applies to information we collect about:
+This privacy notice tells you what to expect when BAA collects personal information via our websites.  BAA Airports Ltd and its group companies (“BAA”) each take their obligations with regard to your personal information seriously. This privacy notice applies to information we collect about:
 
   * people who purchase BAA products and services, e.g. car parking
   * people who purchase third party services which are offered via BAA websites, e.g. Flights and Hotels;
@@ -19,7 +19,7 @@ This privacy notice tells you what to expect when BAA collects personal informat
 
 
 
-If you are giving us your personal information in the course of purchasing, registering, or subscribing to a service or product, then we will only use your information in order to provide you with that service or for closely related purposes.  We use some carefully selected third parties to help us deliver these services and products to you but they are only allowed to use your personal information to deliver the service or product you have purchased, registered or subscribed to.  Some of our trusted third parties in supporting these services will transfer your information overseas.
+If you are giving us your personal information in the course of purchasing, registering, or subscribing to a service or product, then we will only use your information in order to provide you with that service or for closely related purposes.  We use some carefully selected third parties to help us deliver these services and products to you but they are only allowed to use your personal information to deliver the service or product you have purchased, registered or subscribed to.  Some of our trusted third parties in supporting these services will transfer your information overseas, but we make sure that your information remains protected and secure.
 
 We will keep your personal information relating to services or products purchased in line with our retention policy which ensures that we keep your details for no longer than is necessary.  Your information will be retained in a secure environment and access to it will be restricted according to the ‘need to know’ principle.
 
@@ -65,7 +65,7 @@ We keep our privacy notice under regular review and we will place any updates on
 How to contact us
 
 Data Protection Manager  
-BAA Ltd  
+BAA Airports Ltd  
 The Compass Centre  
 Nelson Road  
 Hounslow  
