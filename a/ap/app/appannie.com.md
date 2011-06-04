@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the appannie.com privacy policy that was archived on 2010-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100921112313id_/http%3A//www.appannie.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appannie.com privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604113940id_/http%3A//www.appannie.com/help/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | App Annie
 
-App Annie (the “Service”) is a product/service of Exoweb (Cayman) Limited (“We”). We are committed to protecting and respecting your privacy. We understand that the use of the Service requires sensitive statistical and financial data to be stored on our servers, and that steps must be taken to ensure this data stays private. Understand that your privacy and the security of your data is our primary concern.
+App Annie (the “Service”) is a product/service of App Annie Limited (“We”). We are committed to protecting and respecting your privacy. We understand that the use of the Service requires sensitive statistical and financial data to be stored on our servers, and that steps must be taken to ensure this data stays private. Understand that your privacy and the security of your data is our primary concern.
 
 ### WHAT INFORMATION WE COLLECT
 
@@ -24,9 +24,7 @@ Your data will never be sold or shared with a third party. Only you may access y
 
 ### AGGREGATE DATA ANALYSIS AND REPORTS
 
-Because our Service provides iTunes App Store trend analysis in addition to individual app tracking, we provide analysis and reports based off of blinded aggregate data from all of our users. Blinded aggregate data is composite data from multiple members used to provide top-level analysis of the app store. This data will never be displayed or presented in such a manner that your part of the aggregate data is identifiable or can be linked back to you.
-
-You may have your data excluded from any aggregate analysis or report by choosing to opt out of aggregate data analysis. You can do this in your settings page.
+Because our Service provides iTunes App Store trend analysis in addition to individual app tracking, we provide analysis and reports based off of blinded aggregate data from all of our users. Blinded aggregate data is composite data from multiple members used to provide top-level analysis of the app store.
 
 ### POLICY UPDATES
 
@@ -38,8 +36,8 @@ The date of the last update is included at the top of this policy.
 
 If you have any questions or concerns regarding anything in these Terms, please [contact us](https://web.archive.org/help/contact/). Our address is as follows:
 
-Exoweb  
-A207/209 Tianshuiyuan Business Center  
-2 Tianshuiyuan Dongjie, Jintai Lu  
-Chaoyang District, Beijing  
-100026 China
+App Annie Limited  
+Room 2002-3, 20th Floor,  
+Wah Hing Commercial Building,  
+283 Lockhart Road,  
+Wanchai, Hong Kong
