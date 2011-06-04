@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 24hgold.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221024831id_/http%3A//www.24hgold.com/english/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 24hgold.com privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604220802id_/http%3A//www.24hgold.com/english/privacy.aspx) for the most accurate reproduction.*
 
 # 24hGold - Privacy Policy
 
