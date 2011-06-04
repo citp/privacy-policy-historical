@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aruba.com privacy policy that was archived on 2010-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100912082938id_/http%3A//www.aruba.com/Info.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aruba.com privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604143958id_/http%3A//www.aruba.com/Info.aspx) for the most accurate reproduction.*
 
 # Aruba Tourism Authority
 
