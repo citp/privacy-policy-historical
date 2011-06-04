@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the discountschoolsupply.com privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202050913id_/http%3A//www.discountschoolsupply.com/Help/HelpFAQTopic.aspx%3Fhelp_faq_id%3D172) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discountschoolsupply.com privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604232016id_/http%3A//www.discountschoolsupply.com/Help/HelpFAQTopic.aspx%3Fhelp_faq_id%3D172) for the most accurate reproduction.*
 
 # Discount School Supply
 
@@ -127,14 +127,16 @@ When our registration/order form asks you to enter sensitive information (such a
 
 In addition to using SSL encryption to protect sensitive information online, we also take reasonable measures to protect your information off-line. Other than information that is shared (as described in the “Sharing Information” section below), your personally-identifiable information referenced above is restricted in our offices. Within our offices, access to your information is granted to our employees/auditors for the sole purpose of performing specific jobs that relate to our business. (For example, a personal service manager may need to access your contact information.) Employees are instructed on the importance we place on privacy, and when new policies are implemented, we stress the steps employees should take to ensure that our customers’ information is safeguarded. Finally, the servers on which we store personal information are kept in a secure environment, accessible only to authorized employees. 
 
-We also work with security company, McAffe® to add an additional layer to our security protocol. McAffee SECURE™ scans the Discount School Supply website daily and, after it is determined the site is safe and secure, posts its seal of approval with the date of the last scan. Look for the McAfee SECURE™ seal the next time you place an order. 
+We also work with security company, McAfee® to add an additional layer to our security protocol. McAfee SECURE™ scans the Discount School Supply website daily and, after it is determined the site is safe and secure, posts its seal of approval with the date of the last scan. Look for the McAfee SECURE™ seal the next time you place an order. 
 
 If you have any questions about the security at our website, you can send an email to 
 
 [Webmaster@DiscountSchoolSupply.com](mailto:Webmaster@DiscountSchoolSupply.com) (Subject: Security Question). 
 
 **Sharing Information**  
-We do not share your personally-identifiable information with outside marketers except as described in this section. We may share your information with our partners to enhance your experience. (For example, through our partnerships with other companies, we may be able to provide you with products or services that you have requested or to provide you with promotional offers that we believe will be of interest to you.) Excelligence’s partners include all Excelligence® affiliates as well as other selected companies with which Excelligence® or its affiliates have a business relationship. These selected businesses use commercially-strict standards for providing quality products and services, responding to your needs, and safeguarding customer information. If you prefer that we do not share your name and address with our partners, please send an email to [optout@ourcatalog.com](mailto:optout@ourcatalog.com) (Subject: Do Not Share). 
+We do not share your personally-identifiable information with outside marketers except as described in this section. We may share your information with our partners to enhance your experience. (For example, through our partnerships with other companies, you may receive information or offers regarding products or services in which you have previously expressed an interest and/or selected promotional offers that may be of interest to you.) Excelligence’s partners include all Excelligence® affiliates as well as other selected companies with which Excelligence® or its affiliates have a business relationship. These selected businesses use commercially-strict standards for providing quality products and services, responding to your needs, and safeguarding customer information. If you prefer that we do not share your name and address with our partners, please send an email to 
+
+[noshare@excelligence.com](mailto:noshare@excelligence.com) (Subject: Do Not Share). 
 
 In certain circumstances, we may share your information with service providers, such as PayPal, only when such access is necessary to provide operational or other support services. Those service providers agree to maintain confidentiality and security of your information. 
 
