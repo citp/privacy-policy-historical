@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the libraryreserve.com privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126023424id_/http%3A//overdrive.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the libraryreserve.com privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604151703id_/http%3A//overdrive.com/privacypolicy.aspx) for the most accurate reproduction.*
 
-# OverDrive - Global distributor of digital eBooks, audiobooks, music & video for library, school & retail--Privacy Policy
+# OverDrive – Privacy Policy
 
 ## Privacy Policy
 
