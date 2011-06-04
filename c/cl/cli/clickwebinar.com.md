@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the clickwebinar.com privacy policy that was archived on 2010-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101020152833id_/http%3A//www.clickmeeting.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickwebinar.com privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604050914id_/http%3A//www.clickwebinar.com/privacy_policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - ClickMeeting
+# Video Conferencing, Web Conference - Privacy Policy - ClickMeeting
 
 ### Information Security
 
