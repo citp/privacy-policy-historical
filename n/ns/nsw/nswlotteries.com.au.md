@@ -1,128 +1,92 @@
-> *The following text is extracted and transformed from the nswlotteries.com.au privacy policy that was archived on 2008-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080602011232id_/http%3A//www.nswlotteries.com.au/privacypolicy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nswlotteries.com.au privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604142608id_/http%3A//www.tattsgroup.com/home/privacy.aspx) for the most accurate reproduction.*
 
-# :: NSW Lotteries ::
+# 
 
-This Policy sets out the approach New South Wales Lotteries Corporation (NSWLC) has adopted in its collection and management of personal information. NSWLC has created this Privacy Policy to demonstrate and confirm its commitment to your Privacy.
+ 
 
-This Policy relates to personal and sensitive information collected by any means by the Corporation.
+## 1\. Purpose
 
-**1\. Background**  
-NSWLC markets, operates and conducts a wide range of lottery-based gaming activities. These games include Lotto, Lucky Lotteries, Powerball, Lotto Strike, Instant Scratchies, 6 From 38 Pools and Oz Lotto.
+The Board and management of Tatts Group Limited are committed to the protection of the personal information of individuals that it collects in the course of conducting its various businesses. This privacy policy describes how we manage any information that we have about you.
 
-NSWLC is committed to providing the highest levels of customer and player service and respects the right of individuals to maintain their Privacy.
+Personal information of individuals which is collected can be used in connection with the conduct of the businesses of Tatts Group.
 
-New Privacy laws took effect on 21 December 2001. From that date, newly acquired personal and sensitive information obtained by NSWLC or modification of personal and sensitive information already held is subject to the Privacy Act 1988 (the Act) and the National Principles for the Fair Handling of Personal Information (NPPs). 
+## 2\. Scope
 
-**2\. Aims of the Privacy Policy**  
-NSWLC wants to help people understand the reasons behind, and actions taken in, the protection of personal information and will be fair and open about the process. 
+This privacy policy is applicable to Tatts Group Limited and all of its subsidiaries that conduct business within Australia. In this policy, a reference to Tatts Group is a reference to Tatts Group Limited (ACN 108 686 040) and all of its subsidiaries.
 
-The Corporation respects the individual’s right to privacy and is committed to ensuring that the collection, accuracy, storage, use, disclosure, de-identification and destruction of personal information is compliant with the Privacy Act 1988, incorporating the Privacy Amendment (Private Sector) 2000, best practice and the NPPs. 
+## 3\. Compliance with Privacy Legislation
 
-NSWLC will ensure that its employees receive training in the proper handling of personal information. Access to information held by us will be limited to authorised people on a strict, need-to-know basis relevant to their roles and responsibilities.
+Tatts Group is bound by, and will comply with, the National Privacy Principles (NPPs) set out in the Privacy Act 1988 (Act).
 
-**3.How and why NSWLC collects Personal Information?**  
-Often times, personal information is gathered in order to improve service levels to customers. Personal information is information or an opinion, including information or an opinion forming part of a database, whether true or not, and whether recorded in a material form or not, about an individual whose identity is apparent, or can be reasonably ascertained, from the information or opinion. 
+## 4\. Collection of Personal Information
 
-Personal information is essentially collected through the Players Club, Instant Scratchie Second Chance Draws and Prize Claims Forms for the primary purpose of administering our gaming activities and ensuring that players who win prizes obtain their winnings. The personal information NSWLC collects may include: 
+### 4.1 Definition of personal information
 
-• Name;   
-• Address;   
-• Telephone Number;   
-• Ticket Number;   
-• Lottery Product Played; and   
-• Signature.
+Personal information is generally defined as information or an opinion that can identify a person. This usually includes information such as your name, date of birth, address, telephone number and possibly your email address. The type of personal information that Tatts Group may collect about you will depend upon the nature of your relationship with Tatts Group. For example, we may need more information about you to become a Tatts Card and Winners Circle card member or a Telebet account holder than we would if you wished only to enter a promotion conducted by Tatts Group. Where reasonable, we will collect information directly from you and also from your use of our various products and services.
 
-The Players Club Registration Form also has a number of optional fields. NSWLC does not require this information to complete our primary purpose. The optional information aids NSWLC in providing better and more satisfying services to players. If the optional information is not provided, players may not be able to realise the full benefits of membership of the Players Club.
+### 4.2 Privacy Statement/Notice
 
-The Players Club Registration Form, the Instant Scratchie Second Chance Draws and Prize Claims Forms include an opt-out box whereby information is not made available for publication or disclosure. If this box is ticked, details about you will not be published or disclosed.
+At or before the time that Tatts Group collects personal information from you (or, if that is not practicable, as soon as practicable after) it will take reasonable steps to ensure that you are given a privacy statement/notice where you will be made aware of the purpose for collecting that information and how that information will be used.
 
-NSWLC strives to ensure that the information collected is accurate at the time of collection and at the time of use.
+## 5\. Use and Disclosure of Personal Information
 
-**4\. Use and Disclosure of Information**   
-NSWLC collects and uses information for the primary purpose of managing and promoting its lottery games. NSWLC may use information that has been collected to enable the highest possible level of service to be provided to lottery customers. This may include notifying customers of special offers, new products and other opportunities to participate in NSWLC products and services.
+In general, Tatts Group policy is that we will use or disclose personal information for the purpose which was either specified or reasonably apparent at the time of collection. For example to provide our products and services to you and enable you to participate in any loyalty programs that we may be involved in or promotions conducted by Tatts Group. We may also use or disclose it for any other related purpose for which you would reasonably expect it to be used. Tatts Group may also use your personal information to send marketing or promotional material to you, unless you indicate that you do not wish to receive it.
 
-NSWLC will allow players and users of its services to interact with it anonymously wherever it is reasonable and practicable to do so. 
+Tatts Group does not generally disclose personal information to third parties except:
 
-On occasions NSWLC may issue marketing materials to its Players Club Members who have previously supplied information to us. If you do not wish to receive further material, please complete the opt-out provisions on materials sent to you and return it to NSWLC addressed to the Privacy Officer or email [privacy@nswlotteries.com.au](mailto:privacy@nswlotteries.com.au). 
+  * information relevant to the management of Tatts Group businesses which is otherwise available in the public domain;
+  * where third party contractors appointed by Tatts Group require access to personal information held by us to perform services for us or on your behalf; or
+  * where Tatts Group reasonably believes it is necessary to protect any person and/or Tatts Group rights or property;
+  * where Tatts Group is required or authorised by law to do so; or
+  * with your consent.
 
-If you choose not to receive marketing material from NSWLC, you may miss out on special products, offers and opportunities. 
 
-NSWLC will obtain consent for use of personal information for secondary purposes unless the use would be within that person’s reasonable expectations. NSWLC may use the information we hold for the following secondary and related purposes:
 
-• To provide lottery-based gaming services;  
-• To manage and promote those services;  
-• To inform you of the ways our services to you may be improved;  
-• To research and develop our services;  
-• To gain an understanding of your lottery-based gaming needs in order to provide you with a better service; and   
-• To maintain and develop our systems infrastructure.
+## 6\. Tatts Group Websites
 
-NSWLC may disclose your information to: 
+Specific Tatts Group websites may collect "click stream" information (such as areas of our websites you have accessed and the time and date of access) from your use of our websites. Tatts Group may also collect Doubleclick Adserving information (such as whether a marketing campaign has been effective) from your use of our websites.
 
-• Your authorised representatives (eg legal advisers) but only upon receipt of your written authorisation;   
-• Unrelated third parties to enable outsourcing of relevant functions and only for the primary purpose of providing those functions;   
-• Professional advisers including but not limited to accountants, auditors and legal advisers; and   
-• Courts, Government and regulatory authorities as required or authorised by law.
+We may also store "cookie" information, such as user preferences relating to the use of our websites. A cookie is a small data file that may be placed on the computer of a web user (usually in the browser software folder). The information collected is used to customise and improve websites. If you do not want us to store cookie information on your computer, you can set your browser to disable this feature. This may mean you will not be able to take full advantage of Tatts Group services offered on our websites.
 
-In order to efficiently operate our lottery business it is sometimes necessary for NSWLC to obtain various services from outside suppliers. In these instances your personal information may be passed to the contractor undertaking these services. All of our contracts specify that any information passed to the contractors in the course of their duties must be protected, used, secured and disclosed in accordance with the Privacy Act and the NPPs. 
+## 7\. Security of Personal Information
 
-**5\. On-line Collection**  
-NSWLC collects information from its website to assist with website and system administration. The NSWLC website automatically collects the following information:
+Tatts Group will take reasonable steps to (a) protect the personal information it holds from misuse and loss and from unauthorised access, modification or disclosure; and (b) to ensure that the personal information that it collects, uses or discloses is accurate, complete and up to date.
 
-• Server address;   
-• Top level domain name (eg - .gov, .com etc);   
-• Date/Time of visit;   
-• Pages accessed;   
-• Pages Downloaded;   
-• Total time spent on the website and the browser used; and   
-• Time spent on individual pages. 
+## 8\. Seeking Access to Personal Information
 
-NSWLC does not collect email addresses or personal information from computers accessing our website. NSWLC collects email addresses only when you send us a message or when you join the email lottery results service. This information is only used for the purpose of notifying those people of lottery results and is not passed on to any other organisation.
+You are welcome to request access to personal information Tatts Group holds about you. There are certain situations where Tatts Group may decline to give you access to your personal information, and these are set out in the Act. We will give you reasons if we deny access.
 
-It is not mandatory for visitors to the website to provide personal information unless the information is necessary to answer an enquiry, a complaint or to provide a service. NSWLC may ask visitors to the website to provide information voluntarily (eg as part of a competition or questionnaire). Personal information collected on-line will not be sold to third parties or made available for other than the purposes listed above. The NSWLC website sets ‘cookies’ that remind visitors to read and accept the site Use Agreement. The ‘cookies’ do not record or relay any information. The ‘cookies’ expire after 24 hours.
+In specific cases, please write directly to the relevant Tatts Group company and include your name, address, date of birth and signature. We will send you the appropriate access form. In all cases we will inform you if a cost applies to finding and supplying the information before we perform this task.
 
-NSWLC does not provide facilities for the secure transmission of data across the Internet. You should be aware that there are inherent risks in transmitting any data across the Internet or by email.
+## 9\. Changing Information
 
-Occasionally NSWLC may issue marketing materials to players who have previously supplied information to us. If you do not wish to receive further information from NSWLC, please complete the opt-out provisions on material sent to you and return it to NSWLC or email [privacy@nswlotteries.com.au](mailto:privacy@nswlotteries.com.au).
+If you have reason to believe personal information which we hold about you is inaccurate or out of date, please write to the relevant Tatts Group company and include your full name, address, date of birth, membership or account number (if any), signature and specify the information you wish to change.
 
-By using the NSWLC website you acknowledge that have read, understood and agreed to abide by the Privacy Policy and the Licence Agreement.
+## 10\. Anonymous Transactions
 
-NSWLC website may contain links to other sites for your convenience and information. When you access any website othe than [www.nswlotteries.com.au](http://www.nswlotteries.com.au/), please understand that NSWLC is not responsible for the Privacy policies and practices of that site. We suggest you review the Privacy policies of each site that you visit.
+Where it is lawful and practicable to do so, you may transact with Tatts Group without providing personal information.
 
-**6\. Access**  
-Please note that the personal information NSWLC holds about you is information that you have provided to us.
+## 11\. Sending Information Overseas
 
-If you wish to exercise your right under the Privacy Act to seek access to the personal information held by NSWLC about you, or if you believe that the information is incorrect, incomplete or out-of-date, you should contact NSWLC. 
+Tatts Group will only transfer personal information overseas in circumstances where it is permitted by the Act.
 
-All requests to access personal information must be made in writing or by email and addressed to the Privacy Officer at the addresses listed at the end of this document.
+## 12\. Changes in the Future
 
-It will assist NSWLC if you are able to specify the information you are seeking, the approximate date that you provided the information and in what context you provided it. It is NSWLC policy to respond to any such requests within a reasonable timeframe.
+Tatts Group reserves the right to change this Privacy Policy at any time and to notify you by posting an updated version of the policy on our website, [www.tattsgroup.com](https://web.archive.org/sitecore/shell/Controls/home/default.aspx).
 
-NSWLC will generally not charge you for making requests to access any information held about you, however, NSWLC reserves the right to undertake cost recovery for the provision of such information where it is justified.
+## 13\. Additional Information on Privacy
 
-**7\. Information Security**  
-The physical and electronic security systems operated by NSWLC comply with the Privacy Act and the NPPs.
+For further information about privacy issues and the protection of privacy, visit the Australian Federal Privacy Commissioner's website at [www.privacy.gov.au](http://www.privacy.gov.au/).
 
-Personal information will be de-identified or destroyed when it is no longer required. The de-identification and destruction process will be in accordance with the legislation and the NPPs.
+## 14\. Resolving your privacy concerns
 
-NSWLC will review, on a regular and on-going basis, its information security and handling procedures to ensure the fulfilment of our obligations in accordance with the Privacy legislation.
+If you have any issues that you wish to raise with Tatts Group or you wish to make a complaint regarding Tatts Group's management of your personal information please contact us. We take complaints about privacy concerns seriously and we will work to resolve your complaint and correct any errors on our part.
 
-NSWLC personnel and third party contractors, who have a genuine ‘need-to-know’, are permitted to access personal information.
+Our contact details are as follows:
 
-**8\. Complaints & Enquiries**  
-All requests to access personal information must be made in writing or by email and addressed to the Privacy Officer.
-
-If you have a complaint regarding the Corporation's management of your personal information or wish to correct information held by us or wish further information please contact us.
-
-Information about the Privacy Act and the National Principles for the Fair Handling of Personal Information is available from the Federal Privacy Commissioner.
-
-**9\. Contact Details**  
-New South Wales Lotteries Corporation   
-PO Box 6687  
-Silverwater NSW 2128 
-
-+61 2 9752 5500 (phone)   
-+61 2 9752 5511 (fax) 
-
-[privacy@nswlotteries.com.au](mailto:privacy@nswlotteries.com.au)
-
-[www.nswlotteries.com.au](http://www.nswlotteries.com.au/)
+**Tatts Group Limited**  
+---  
+Street Address | 615 St.Kilda Rd, Melbourne VIC 3004  
+Postal Address | Locked Bag 888 St.Kilda Rd Central, VIC 8008  
+Phone Number | +61 3 8517 7777  
+Email Address | [privacyofficer@tattsgroup.com](mailto:privacyofficer@tattsgroup.com?subject=Enquiry%20from%20Tatts%20Group%20Limited%20website)
