@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kgbanswers.co.uk privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124135123id_/http%3A//kgbanswers.co.uk/base/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kgbanswers.co.uk privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605015220id_/http%3A//www.kgbanswers.co.uk/privacy) for the most accurate reproduction.*
 
-# kgb answers
+# kgb answers – high-quality answers on the go
 
 #### INFORMATION ABOUT THE NUMBER AND OUR WEBSITE
 
@@ -10,7 +10,7 @@ We also collect (automatically) some information about your computer when you vi
 
 #### Cookies and Other Web Technologies.
 
-Cookies are small data text files and can be stored on your computer’s hard drive (if your Web browser permits). kgbanswers.co.uk and its associated websites use cookies for the following general purposes:
+Cookies are small data text files and can be stored on your computer's hard drive (if your Web browser permits). kgbanswers.co.uk and its associated websites use cookies for the following general purposes:
 
   * To help us recognize your browser as a previous visitor and save and remember any preferences that may have been set while your browser was visiting our site. For example, if you register on our site, we may use cookies to remember your registration information, so you do not need to log into our site each time you visit.
   * To help measure and research the effectiveness of website features and offerings, advertisements, and e-mail communications.
@@ -65,17 +65,17 @@ Our privacy policy is compliant with the following Statute: UK Data Protection A
 
 Designation of the agency: Information Commissioner
 
-URL:  
-http://www.dataprotection.gov.uk/  
-Address:  
-Information Commissioner's Office  
-Wycliffe House,  
-Water Lane,  
-Wilmslow,  
-Cheshire,  
-SK9 5AF  
-United Kingdom  
-PRIVACY SUPPORT  
+URL:   
+http://www.dataprotection.gov.uk/   
+Address:   
+Information Commissioner's Office   
+Wycliffe House,   
+Water Lane,   
+Wilmslow,   
+Cheshire,   
+SK9 5AF   
+United Kingdom   
+PRIVACY SUPPORT   
 
 
 If you have an enquiry or concern about our privacy policy, please contact: Information and Security Manager, The Number UK Limited, Sterling House, Malthouse Avenue, Cardiff, CF23 8RA.
