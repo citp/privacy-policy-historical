@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportsinsights.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230144544id_/http%3A//sportsinsights.com/company/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsinsights.com privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604142644id_/http%3A//sportsinsights.com/company/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -30,4 +30,4 @@ By using our Site, you acknowledge acceptance of this Privacy Statement in effec
 
 If you have any concerns about our use of your information or about this Privacy Statement, please [Contact Us](https://web.archive.org/contactform.aspx). We will make every reasonable effort to address your concerns and remedy any problems you bring to our attention.
 
-This Privacy Statement was last revised on Sept 27, 2005.
+This Privacy Statement was last revised on 1/12/2011.
