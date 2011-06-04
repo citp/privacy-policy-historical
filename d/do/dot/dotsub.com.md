@@ -1,28 +1,6 @@
-> *The following text is extracted and transformed from the dotsub.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219101807id_/http%3A//dotsub.com/privacyPolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dotsub.com privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604125101id_/http%3A//dotsub.com/privacyPolicy) for the most accurate reproduction.*
 
 # dotSUB Privacy Policy | dotSUB
-
-### Enterprise Solutions
-
-dotSUB is the world's leading solution for creating, translating, and rendering multiple language subtitles for videos across all platforms. 
-
-Our collaborative tools and proprietary back end Project Management System makes it possible to manage complex multiple language translation projects easier, faster and more cost effectively than ever before. 
-
-A full suite of integration tools and a Software Development Kit (SDK) makes it possible for our partners to deploy dynamic subtitles to video players, mobile devices, as well as transcription and video editing systems. 
-
-  
-
-
-### Welcome to dotSUB!
-
-#### Any Video Any Language
-
-On dotSUB you can view, upload, transcribe, and translate any video into and from any language. 
-
-To get started and create your own subtitles, click on the yellow "get started" button below! 
-
-  
-
 
 We respect the privacy of our users, content contributors, and translators and want to make clear to everyone how we use personal information that the dotSUB website and service acquires during the course of its operations. We will never sell or rent your personal information to any third party.
 
