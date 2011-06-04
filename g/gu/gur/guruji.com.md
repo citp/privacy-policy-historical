@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the guruji.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229021134id_/http%3A//www.guruji.com/en/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guruji.com privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604191231id_/http%3A//www.guruji.com/en/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Guruji.com : Privacy Policy
 
-|  [ Guruji Home](https://web.archive.org/web/20101229021134id_/http%3A//www.guruji.com/en/index.html)  
+|  [ Guruji Home](https://web.archive.org/web/20110604191231id_/http%3A//www.guruji.com/en/index.html)  
 ---  
-[ About Guruji](https://web.archive.org/web/20101229021134id_/http%3A//www.guruji.com/en/Aboutguruji.html)  
-[ Management Team](https://web.archive.org/web/20101229021134id_/http%3A//www.guruji.com/en/Management.html)  
-[ Investors](https://web.archive.org/web/20101229021134id_/http%3A//www.guruji.com/en/Investor.html)  
-[ Contact Us](https://web.archive.org/web/20101229021134id_/http%3A//www.guruji.com/en/ContactUs.html)  
-[ FAQ](https://web.archive.org/web/20101229021134id_/http%3A//www.guruji.com/en/WebmasterFAQ.html)  
-[ Career](https://web.archive.org/web/20101229021134id_/http%3A//www.guruji.com/en/Career.html)  
-[ In The News](https://web.archive.org/web/20101229021134id_/http%3A//www.guruji.com/en/Inthenews.html)  
+[ About Guruji](https://web.archive.org/web/20110604191231id_/http%3A//www.guruji.com/en/Aboutguruji.html)  
+[ Management Team](https://web.archive.org/web/20110604191231id_/http%3A//www.guruji.com/en/Management.html)  
+[ Investors](https://web.archive.org/web/20110604191231id_/http%3A//www.guruji.com/en/Investor.html)  
+[ Contact Us](https://web.archive.org/web/20110604191231id_/http%3A//www.guruji.com/en/ContactUs.html)  
+[ FAQ](https://web.archive.org/web/20110604191231id_/http%3A//www.guruji.com/en/WebmasterFAQ.html)  
+[ Career](https://web.archive.org/web/20110604191231id_/http%3A//www.guruji.com/en/Career.html)  
+[ In The News](https://web.archive.org/web/20110604191231id_/http%3A//www.guruji.com/en/Inthenews.html)  
 [ Utilities](http://dir.guruji.com/misc/utilities.php)  
-[ Webmasters](https://web.archive.org/web/20101229021134id_/http%3A//www.guruji.com/en/webmasters.html)  
+[ Webmasters](https://web.archive.org/web/20110604191231id_/http%3A//www.guruji.com/en/webmasters.html)  
 **Privacy Policy**  
   | 
 
@@ -85,4 +85,4 @@ If we decide to change our privacy policy, we will post those changes to this pr
 If we decide to make changes in our email practices, we will post those changes to this privacy policy, the homepage, and other places we deem appropriate. 
 
 **Contacting Guruji.com**   
-If you have any queries or concerns about this privacy policy, please free to contact us at the details provided in the [Contacts Us](https://web.archive.org/web/20101229021134id_/http%3A//www.guruji.com/en/ContactUs.html) page on Guruji.com site. 
+If you have any queries or concerns about this privacy policy, please free to contact us at the details provided in the [Contacts Us](https://web.archive.org/web/20110604191231id_/http%3A//www.guruji.com/en/ContactUs.html) page on Guruji.com site. 
