@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the indiedb.com privacy policy that was archived on 2010-12-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101221113221id_/http%3A//www.indiedb.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the indiedb.com privacy policy that was archived on 2011-06-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110604232727id_/http%3A//www.indiedb.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<title>Privacy Policy - IndieDB - Indie DB</title>
@@ -7,11 +7,19 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<meta name="keywords" content="privacy, indiedb, official, groups, events, company, club, community, programmers, artists">
 	<meta name="description" content="Indie games are changing the world, one giant pixel at a time. With Indie DB we aim to support independent developers and their games, by providing them with a place to showcase their hard work (in-progress or complete) to fans seeking original gaming...">
-	<link rel="stylesheet" type="text/css" media="screen, projection" href="http://static.indiedb.com/external/min/index.php?g=css&amp;11">
+	<meta property="og:title" content="Privacy Policy - IndieDB">
+	<meta property="og:description" content="Indie games are changing the world, one giant pixel at a time. With Indie DB we aim to support independent developers and their games, by providing them with a place to showcase their hard work (in-progress or complete) to fans seeking original gaming...">
+	<meta property="og:site_name" content="Indie DB">
+	<meta property="fb:app_id" content="191623457549756">
+	<meta property="og:type" content="company"> 
+	<meta property="og:url" content="http://www.indiedb.com/groups/indiedb"> 
+	<meta property="og:image" content="http://media.indiedb.com/images/groups/1/3/2915/Indie_Splash.png"> 
+	 
+	<link rel="stylesheet" type="text/css" media="screen, projection" href="http://static.indiedb.com/external/min/index.php?g=css&amp;14">
 	<link rel="stylesheet" type="text/css" media="print" href="http://static.indiedb.com/external/min/index.php?g=cssprint&amp;1">
 	<link rel="icon" href="/favicon.ico" type="image/x-icon">
 	 
-	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://static.indiedb.com/external/min/index.php?g=jquery&amp;2"></script>
+	<script type="text/javascript" async="" src="//api.viglink.com/api/vglnk.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://static.indiedb.com/external/min/index.php?g=jquery&amp;2"></script>
 	
 </head>
 <body>
@@ -142,6 +150,8 @@
 		</ul>
 	</div>
 
+	 
+	 
 	 
 
 	 
@@ -274,17 +284,17 @@
 			<li><a href="/mediakit">Media Kit</a></li>
 			<li><a href="http://www.desura.com" title="Indie Games Digital Distribution">Desura</a></li>
 			<li><a href="/rss" title="Get game news RSS feeds">RSS</a></li>
-			<li class="online"><a href="/members/online"></a></li>
+			<li class="online"><a href="/members/online">113 Online</a></li>
 			<li class="social">
 				<a href="/sitemap">Socialize</a>
-				<a href="http://twitter.com/indiedb" target="_blank" title="Twitter" class="icon twitter"><span>Twitter</span></a>
-				<a href="http://www.facebook.com/IndieDB" target="_blank" title="Facebook" class="icon facebook"><span>Facebook</span></a>
+				<a href="http://twitter.com/indiedb" target="_blank" rel="nofollow" title="Twitter" class="icon twitter"><span>Twitter</span></a>
+				<a href="http://www.facebook.com/IndieDB" target="_blank" rel="nofollow" title="Facebook" class="icon facebook"><span>Facebook</span></a>
 				<a href="http://www.desura.com" target="_blank" title="Desura" class="crossdomain icon desura"><span>Desura</span></a>
-				<a href="http://youtube.com/gamedevtv" target="_blank" title="Youtube" class="icon youtube"><span>Youtube</span></a>
+				<a href="http://youtube.com/gamedevtv" target="_blank" rel="nofollow" title="Youtube" class="icon youtube"><span>Youtube</span></a>
 			</li>
 		</ul>
 		<ul class="copyright clear">
-			<li>© 2010 <a href="http://www.desuranet.com" target="_blank">DesuraNET Pty Ltd.</a>&nbsp; All Rights Reserved.&nbsp; Ready when its done.</li>
+			<li>© 2010 - 2011 <a href="http://www.desuranet.com" target="_blank">DesuraNET Pty Ltd.</a>&nbsp; All Rights Reserved.&nbsp; Making games the indie way.</li>
 			<li class="privacy"><a href="/privacy-policy">Privacy Policy</a></li>
 			<li class="terms"><a href="/terms-of-use">Terms of Use</a></li>
 		</ul>
@@ -294,7 +304,7 @@
 <script type="text/javascript" src="http://static.indiedb.com/external/min/index.php?g=js&amp;6"></script>
 
 <script type="text/javascript" charset="UTF-8"><!--
-var unixtime = 1292931141;
+var unixtime = 1307230048;
 $(document).ready(function() { 
 						var canHide = false;
 						$("#header ul.tabs li.n").hover(function(){
@@ -326,9 +336,19 @@ $("#sitesearch").suggestClick("http://www.indiedb.com/scripts/autocomplete.php?a
 					$("#subheader ul.session").removeClass("sessionlogin");
 				}
 			});
- $("a.thickbox").colorbox({onOpen:function(){ $(".normalmediabox").hide(); }, onClosed:function(){ $(".normalmediabox").show(); }}); });
+ $("a.thickbox").click(function() { $.fn.colorbox({href:$(this).attr("href"), rel:$(this).attr("rel"), open:true, onOpen:function(){ $(".normalmediabox").hide(); }, onClosed:function(){ $(".normalmediabox").show(); }}); return false; }); });
 //-->
 </script>
+ 
+<script type="text/javascript">
+	var gr_ads_zone = 'indie_ros';
+	var gr_ads_size = '1x1';
+</script>
+<script type="text/javascript" src="http://a.giantrealm.com/gr.moddb/a.js">
+</script>
+<noscript>
+<img src="http://ans.giantrealm.com/img/gr.moddb/indie_ros;tile=4;sz=1x1;ord=1307230048" width="0" height="0" alt="" />
+</noscript>
 <script type="text/javascript">
 var _gaq = _gaq || [];
 _gaq.push(['_setAccount', 'UA-104975-12']);
@@ -353,9 +373,21 @@ EXd.write("<img "+EXsrc+"="+EXprot+"://nht-2.extreme-dm.com",
 "/n3.g?login=indiedb&amp;url="+escape(document.URL)+"&amp;pv=&amp;",
 "jv="+EXjv+"&amp;j=y&amp;srw="+EXw+"&amp;srb="+EXb+"&amp;",
 "l="+escape(EXref)+" height=1 width=1>");//-->
-</script><img src="https://nht-2.extreme-dm.com/n3.g?login=indiedb&amp;url=https%3A//web.archive.org/web/20101221113221id_/http%253A//www.indiedb.com/privacy-policy&amp;pv=&amp;jv=n&amp;j=y&amp;srw=800&amp;srb=24&amp;l=" height="1" width="1"><noscript><div id="nneXTReMe"><img height="1" width="1" alt=""
+</script><img src="https://nht-2.extreme-dm.com/n3.g?login=indiedb&amp;url=https%3A//web.archive.org/web/20110604232727id_/http%253A//www.indiedb.com/privacy-policy&amp;pv=&amp;jv=n&amp;j=y&amp;srw=800&amp;srb=24&amp;l=" height="1" width="1"><noscript><div id="nneXTReMe"><img height="1" width="1" alt=""
 src="http://nht-2.extreme-dm.com/n3.g?login=indiedb&amp;url=nojs&amp;j=n&amp;jv=n&amp;pv=" />
 </div></noscript></div>
+ 
+<script type="text/javascript">
+  var vglnk = { api_url: '//api.viglink.com/api',
+                key: 'b756271eb36983a1885a8ab78a233a04' };
+
+  (function(d, t) {
+    var s = d.createElement(t); s.type = 'text/javascript'; s.async = true;
+    s.src = ('https:' == document.location.protocol ? vglnk.api_url :
+             '//cdn.viglink.com/api') + '/vglnk.js';
+    var r = d.getElementsByTagName(t)[0]; r.parentNode.insertBefore(s, r);
+  }(document, 'script'));
+</script>
  
 
 
