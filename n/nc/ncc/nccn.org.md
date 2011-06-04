@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nccn.org privacy policy that was archived on 2010-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100703090726id_/http%3A//www.nccn.org/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nccn.org privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604193258id_/http%3A//www.nccn.org/about/privacy.asp) for the most accurate reproduction.*
 
 # NCCN Privacy Policy
 
