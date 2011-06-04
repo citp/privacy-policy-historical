@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the picplz.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203005641id_/http%3A//picplz.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the picplz.com privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604181201id_/http%3A//picplz.com/privacy) for the most accurate reproduction.*
 
 # picplz privacy policy
 
