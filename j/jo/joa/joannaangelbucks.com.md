@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joannaangelbucks.com privacy policy that was archived on 2010-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100923030522id_/http%3A//www.burningangel.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joannaangelbucks.com privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604110122id_/http%3A//www.burningangel.com/privacy.php) for the most accurate reproduction.*
 
 # Burning Angel:legal/2257
 
