@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 247sports.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212034300id_/http%3A//www.247sports.com/article/Detail/35) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 247sports.com privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604143707id_/http%3A//247sports.com/Article/Privacy-Policy-35) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -26,8 +26,12 @@ Our Commitment To Data Security
 To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online   
 How You Can Access Or Correct Your Information 
 
-You may access, maintain or correct factual errors in all of your personally identifiable information that we collect online with tools that we provide, or by contacting us at the email address below. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.   
-How To Contact Us 
+You may access, maintain or correct factual errors in all of your personally identifiable information that we collect online with tools that we provide, or by contacting us at the email address below. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. 
 
-Should you have other questions or concerns about these privacy policies, please contact us at info@247sports.com.   
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see:   
+[link url="We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>
+
+**How To Contact Us**
+
+Should you have other questions or concerns about these privacy policies, please contact us at [support@247sports.com](mailto:support@247sports.com).   
 
