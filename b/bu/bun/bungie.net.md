@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bungie.net privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205030215id_/http%3A//www.bungie.net/help/privacy_statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bungie.net privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604174638id_/http%3A//www.bungie.net/help/privacy_statement.aspx) for the most accurate reproduction.*
 
 # Bungie.net : Privacy Statement
 
-The Bungie Web sites consisting of Bungie.com, Bungie.net, "7th Column" and the Bungie Store are operated by the Bungie LLC or its suppliers (the “Bungie Web Sites”). This Privacy Statement applies to the Bungie Web Site you are currently viewing and describes what information is collected and used on this Web site. By using the Bungie Web Sites, you consent to the data practices described in this Statement.
+The Bungie Web sites consisting of Bungie.com, Bungie.net, "7th Column" and the Bungie Store are operated by Bungie Inc. or its suppliers (the “Bungie Web Sites”). This Privacy Statement applies to the Bungie Web Site you are currently viewing and describes what information is collected and used on this Web site. By using the Bungie Web Sites, you consent to the data practices described in this Statement.
 
 ####  Collection of your Personal Information
 
@@ -69,10 +69,10 @@ Bungie welcomes your comments regarding this Privacy Statement. If at any time y
 If you have questions regarding this statement or require additional information, please [contact us](https://web.archive.org/help/contact_us.aspx).
 
 Bungie Privacy  
-Bungie, LLC  
-218 Main Street  
-PMB 724  
-Kirkland, WA 98033
+Bungie, Inc.  
+550 106th Avenue NE  
+Suite 207  
+Bellevue, WA 98004-5088
 
 Microsoft, Windows Live, and the Windows Live and flag logo are registered trademarks of Microsoft Corporation in the United States and/or other countries.
 
