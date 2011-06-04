@@ -1,61 +1,37 @@
-> *The following text is extracted and transformed from the spartantailgate.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215174114id_/http%3A//www.spartantailgate.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D14%26Itemid%3D38) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spartantailgate.com privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604143707id_/http%3A//247sports.com/Article/Privacy-Policy-35) for the most accurate reproduction.*
 
 # Privacy Policy
 
-SpartanTailgate.com is deeply committed to protecting the privacy of it's users. Absolutely no user-identifiable information is released to any 3rd parties without the user's consent unless required by law. 
+**Privacy Policy**
 
-**Cookies**
+Our Commitment To Privacy 
 
-SpartanTailgate.com uses cookies on the forums that enable many features. These cookies track login time/date, and, optionally, your login data (set in your user prefs). Using cookies will enable SpartanTailgate.com to remember your login, and display new messages since your last visit. It is highly recommended that you browse SpartanTailgate.com with cookies enabled in your browser. 
+Your privacy is important to us. To protect your privacy we provide this notice explaining our privacy practices and the ways your information is collected and used.   
+The Information We Collect: 
 
-Our advertising partners may also use cookies as part of their advertising campaign but this is independent of this site. 
+This notice applies to all information collected from users or submitted by users on our website. The types of personal information collected includes, but is not limited to: 
 
-**Forums Registration**
+* Name   
+* Address   
+* Email address   
+* Phone number   
+* Credit/Debit Card Information   
+* Other personal profile information 
 
-During the process of registering an account, a valid email address is required. The user has the ability to hide this email from other users (set in user prefs). No email addresses will be shared with any other entity without permission. 
+The Way We Use Information: 
 
-**Message Boards**
+We use the information you provide about yourself when registering for our site to provide a complete user experience on our site. We do not share this information with outside parties except as requested or approved by you. We use email addresses to answer the email we receive and to provide us with an efficient and inexpensive method to contact you. We do not share your email address with outside parties. We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals. Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.   
+Our Commitment To Data Security 
 
-SpartanTailgate.com is primarily a forum Web site, and you should be aware that any personally identifiable information you submit to any of the forum sections can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums. 
+To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online   
+How You Can Access Or Correct Your Information 
 
-Messages in the forum section of the website are authored by individual members, and are not screened or approved by Spartan Tailgate, LLC before becoming publicly posted. All messages express the views of the author, and neither Spartan Tailgate, LLC nor Jelsoft Enterprises Ltd. (developers of vBulletin) will be held responsible for the content of any message. 
+You may access, maintain or correct factual errors in all of your personally identifiable information that we collect online with tools that we provide, or by contacting us at the email address below. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. 
 
-We reserve the right to remove, edit, move or close any thread or message for any reason. 
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see:   
+[link url="We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>
 
-**Links**
+**How To Contact Us**
 
-SpartanTailgate.com frequently links to other websites. We are not responsible for the content or business practices of these websites. When you leave our websites we encourage you to read the destination site's privacy policy. This privacy statement applies solely to information collected by SpartanTailgate.com. 
+Should you have other questions or concerns about these privacy policies, please contact us at [support@247sports.com](mailto:support@247sports.com).   
 
-**Private Messaging**
-
-All private messages belonging to a member remain private at all times. None of the administrators, moderators, or staff at SpartanTailgate.com have access to private messages of members. Spartan Tailgate, LLC will only disclose private messages when required by law. 
-
-Private messages are authored by individual members, and are not screened or approved by Spartan Tailgate, LLC before being sent. All messages express the views of the author, and Spartan Tailgate will not be held responsible for the content of any message. 
-
-Should you receive spam or threatening/abusive private messages, they should be forwarded to a moderator or administrator. 
-
-**Log Files**
-
-As is true of most Web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. 
-
-We use this information to analyze trends, to administer the site, to track users' movements around the site and to gather demographic information about our user base as a whole. We also use your IP address to help diagnose problems with our server and to administer our website - which includes hacks/spamming/abusive posts in which case you may be held liable. 
-
-**Traffic Reports**
-
-Our industry-standard traffic reporting records IP addresses, Internet service provider information, referrer strings, browser types and the date and time pages are loaded. We use this information in the aggregate only to provide traffic statistics to advertisers and to figure out which features and editorials are most popular. 
-
-**Legal proceedings**
-
-We will make every effort to preserve user privacy but Spartan Tailgate, LLC may need to disclose information when required by law. 
-
-**Business Transitions**
-
-If SpartanTailgate.com is acquired by or merges with another firm, the assets of our websites, including personal information, will likely be transferred to the new firm. 
-
-**Notification of Changes**
-
-When Spartan Tailgate, LLC makes changes to this privacy policy we will post those changes here. 
-
-**Contact Information**
-
-If you have any questions regarding our privacy policy, please [contact us](http://www.spartantailgate.com/forums/sendmessage.php).
