@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the strengthsfinder.com privacy policy that was archived on 2010-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101211121202id_/http%3A//strengths.gallup.com/922/Privacy-Statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the strengthsfinder.com privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604090335id_/http%3A//strengths.gallup.com/922/Privacy-Statement.aspx) for the most accurate reproduction.*
 
 # Privacy Statement
 
