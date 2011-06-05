@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the birchbox.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212073948id_/http%3A//birchbox.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the birchbox.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605200025id_/http%3A//www.birchbox.com/privacy-policy) for the most accurate reproduction.*
 
-# Birchbox | Privacy Policy
+# Privacy Policy | Birchbox
 
 Birchbox is committed to respecting and protecting your privacy. This privacy protection section communicates how, when, and why we gather information about our customers and what we do with it.
 
 If you have any questions about the Birchbox.com privacy policies please contact us at:
 
 Birchbox Inc  
-307 Seventh St, Ste #1104  
+307 Seventh St, Ste #2001  
 New York, NY 10001  
 (877) 487-7272[  
 [info@birchbox.com](mailto:info@birchbox.com)](mailto:info@birchbox.com?subject=Privacy%20Policy)
