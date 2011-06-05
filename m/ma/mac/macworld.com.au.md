@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the macworld.com.au privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124134851id_/http%3A//www.macworld.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macworld.com.au privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605052430id_/http%3A//www.macworld.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Australian Macworld
 
@@ -80,3 +80,5 @@ When you provide your e-mail address to us, you agree to receive e-mail from Aus
 In addition, you may change your preferences regarding use of personal data by sending an e-mail to [austmacworld@niche.com.au](mailto:austmacworld@niche.com.au).
 
 If Australian Macworld or any of its products is involved in a merger, acquisition, or sale of some or all of its assets, all personally identifying information and other data will be transferred to the new owner.
+
+One person was compelled to have their say. We encourage you to do the same..
