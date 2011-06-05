@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gaminglagoon.com privacy policy that was archived on 2010-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101020205508id_/http%3A//www.gaminglagoon.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gaminglagoon.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605062824id_/http%3A//www.gaminglagoon.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy for Gaminglagoon.com | Member Security | Free Gaming Collectables, Game cards, Game Points, and Much More Gaming for Free
 
