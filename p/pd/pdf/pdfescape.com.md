@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pdfescape.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204100336id_/http%3A//www.redsoftware.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pdfescape.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605075051id_/http%3A//www.redsoftware.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Red Software
 
@@ -8,10 +8,9 @@ Effective September 1 2010
 
 The following websites ("Red Software Websites") are operated by Red Software and governed by this privacy policy:
 
-  * [http://www.redsoftware.com](http://www.redsoftware.com/)
   * [http://www.pdfescape.com](http://www.pdfescape.com/)
-  * [http://blog.pdfescape.com](http://blog.pdfescape.com/)
   * [http://www.radpdf.com](http://www.radpdf.com/)
+  * [http://www.redsoftware.com](http://www.redsoftware.com/)
 
 
 
