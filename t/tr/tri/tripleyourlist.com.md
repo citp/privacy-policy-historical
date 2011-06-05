@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tripleyourlist.com privacy policy that was archived on 2010-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100917063937id_/http%3A//www.tripleyourlist.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripleyourlist.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606003600id_/http%3A//www.tripleyourlist.com/privacy.php) for the most accurate reproduction.*
 
 # Triple Your List :: Privacy Policy
 
