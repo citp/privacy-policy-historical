@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lovein90days.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203061957id_/http%3A//www.lovein90days.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovein90days.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605022705id_/http%3A//www.lovein90days.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
