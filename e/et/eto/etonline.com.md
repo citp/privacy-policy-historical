@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the etonline.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130040540id_/http%3A//cbsiprivacy.custhelp.com/app/answers/detail/a_id/1265) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etonline.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605230519id_/http%3A//cbsiprivacy.custhelp.com/app/answers/detail/a_id/1265) for the most accurate reproduction.*
 
 # CBS Interactive Privacy Policy Highlights
 
