@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the purpletrail.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225064059id_/http%3A//www.purpletrail.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the purpletrail.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605140100id_/http%3A//www.purpletrail.com/privacypolicy) for the most accurate reproduction.*
 
-# Free Online Invitations, Personalized Holiday Cards & Custom Christmas Cards
+# Online Invitations, Wedding Invitations, Party Invitations by Purple Trail
 
 At PurpleTrail we recognize that privacy is important. This document outlines the types of personal information we receive and collect when you use PurpleTrail's services, as well as some of the steps we take to safeguard information. To adhere to the highest standard of privacy, we have based our policy on that of [Google's](http://www.google.com/privacy.html)
 
