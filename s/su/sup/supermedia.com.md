@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the supermedia.com privacy policy that was archived on 2010-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100414012558id_/http%3A//www.supermedia.com/trust/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supermedia.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605213900id_/http%3A//www.supermedia.com/trust/privacy-security) for the most accurate reproduction.*
 
 # SuperMedia Privacy Policy | SuperMedia.com Advertising
 
@@ -11,7 +11,7 @@ If you have questions or concerns regarding this policy, you should first contac
 
   
 Privacy Policy Effective Date / Updates   
-This Privacy Policy is effective as of January 4, 2010, and was last updated January 4, 2010. Our business changes constantly. This Privacy Policy will change also, and use of information that we gather now is subject to the Privacy Policy in effect at the time of use. If we make changes to this Privacy Policy, we will post the version of the Privacy Policy containing such changes on This Website. If the changes are material, we also will notify you by means of a notice on our home page. You should check our Web site frequently to see recent changes. 
+This Privacy Policy is effective as of January 4, 2010, and was last updated April 22, 2010. Our business changes constantly. This Privacy Policy will change also, and use of information that we gather now is subject to the Privacy Policy in effect at the time of use. If we make changes to this Privacy Policy, we will post the version of the Privacy Policy containing such changes on This Website. If the changes are material, we also will notify you by means of a notice on our home page. You should check our Web site frequently to see recent changes. 
 
 **  
 What information does the Web site gather?**
@@ -129,20 +129,19 @@ As part of the online advertising process, we may use information supplied from 
 
 **  
 Non-Personally Identifiable Information Collected Automatically**  
-A cookie is a small, encrypted data string our server writes to your hard drive that contains your unique User ID for our Web site. Cookies help us to identify returning visitors to our Web site, which allows us to give you a more personalized, useful experience on our Web site. Cookies are used to deliver the appropriate geographic message   
+A cookie is a small, encrypted data string our server writes to your hard drive that contains your unique User ID for our Web site. Cookies help us to identify returning visitors to our Web site, which allows us to give you a more personalized, useful experience on our Web site. Cookies may be placed on This Website by us or by a third-party that provides services to us. Cookies are used to: 
 
-
+  * deliver the appropriate geographic message 
   * manage frequency of ad exposure; avoid over delivery of the same message 
   * tailor an advertisement to better match your interests and preferences 
   * ensure that you see the correct products and pricing applicable to the state in which you live 
   * understand advertising effectiveness 
+  * collect anonymous traffic data 
 
 
 
-  
 Users are free to delete Web site cookies. Most internet browsers enable you to erase cookies from your computer hard drive, block all cookies, or receive a warning before a cookie is stored. To disable cookies, see "Setting Cookie Preferences" at the end of this policy. 
 
-  
 However, some Web sites and ad serving companies have the ability to reestablish your history even after cookie deletion. If you reenter the same site on another occasion, or enter some other site tracked by the ad serving company/network, and specifically provide personal data. Deletion of cookies alone does not prevent ad serving companies from reestablishing history on a user. To do so, you must either continue to decline cookies each time you reenter the site to keep the tracking severed or disable cookies for the new browser session. Users who choose to continually delete cookies and not opt out can have their browser advise them each time a Web site attempts to send a cookie to their system. At that time, you can choose to either Accept or Cancel a cookie. 
 
   
