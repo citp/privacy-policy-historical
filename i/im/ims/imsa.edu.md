@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imsa.edu privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527095957id_/https%3A//www3.imsa.edu/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imsa.edu privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605065834id_/https%3A//www3.imsa.edu/site/privacy) for the most accurate reproduction.*
 
 # Privacy Policy for Websites Under Domain imsa.edu | Illinois Mathematics and Science Academy®
 
@@ -48,7 +48,7 @@ The Illinois Mathematics and Science Academy® uses cookies to:
 
 The Illinois Mathematics and Science Academy® has links to other websites. These include links to web sites operated by other government agencies, nonprofit organizations and private businesses. When you link to another site, you are no longer on a site covered by this Privacy Notice. When you link to another web site, you are subject to the privacy policy of that new site.
 
-1500 W. Sullivan Rd., Aurora, IL 60506-1000. Tel: 630-907-5000. Fax: 630-907-5976.  
+1500 Sullivan Rd., Aurora, IL 60506-1000. Tel: 630-907-5000. Fax: 630-907-5976.  
 Copyright ©1993-2010 IMSA. All rights reserved. Drupal CMS brought to you by IT Engineering.
 
 [](http://www.imsa.edu/)
