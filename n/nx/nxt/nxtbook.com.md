@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nxtbook.com privacy policy that was archived on 2010-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100318054248id_/http%3A//www.nxtbookmedia.com/legal.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nxtbook.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605102511id_/http%3A//www.nxtbookmedia.com/legal.php) for the most accurate reproduction.*
 
 # Nxtbook Media - Today's Digital Publishing Solution
 
