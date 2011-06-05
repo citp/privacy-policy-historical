@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the lebara.co.uk privacy policy that was archived on 2010-10-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101030083655id_/http%3A//www.lebara-mobile.co.uk/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lebara.co.uk privacy policy that was archived on 2011-06-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110605072420id_/http%3A//www.lebara-mobile.co.uk/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta http-equiv="Content-Language" content="en">
 <meta http-equiv="Window-target" content="_top">
@@ -14,27 +14,101 @@
 	
 <link rel="stylesheet" type="text/css" media="projection,screen" href="http://www.assets.lebara.com/assets/CSS/jquery-ui-1.8.2.custom.css">	
 <link rel="stylesheet" type="text/css" media="projection,screen" href="http://www.assets.lebara.com/assets/CSS/lebara.css">
+		
 <link rel="stylesheet" type="text/css" media="projection,screen" href="http://www.assets.lebara.com/assets/CSS/shop.css">
 <link rel="stylesheet" type="text/css" media="projection,screen" href="http://www.assets.lebara.com/assets/CSS/forms.css">
 <link rel="stylesheet" type="text/css" media="print" href="http://www.assets.lebara.com/assets/CSS/print.css">
 	
 <!--[if IE 7]><link rel="stylesheet" type="text/css" href="http://www.assets.lebara.com/assets/CSS/ie7.css" media="screen, projection" /><![endif]-->
 <!--[if IE 8]><link rel="stylesheet" type="text/css" href="http://www.assets.lebara.com/assets/CSS/ie8.css" media="screen, projection" /><![endif]-->
+		
 
-<script type="text/javascript" src="http://www.assets.lebara.com/assets/js/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.assets.lebara.com/assets/js/jquery-1.4.2.min.js"></script>
 <script type="text/javascript" src="http://www.assets.lebara.com/assets/js/jquery-ui-1.8.2.custom.min.js"></script>
 <script type="text/javascript" src="http://www.assets.lebara.com/assets/js/lebara.js"></script>
 
 <script type="text/javascript" src="http://www.assets.lebara.com/assets/js/mylebara.js"></script>
 <script type="text/javascript" src="http://www.assets.lebara.com/assets/js/shop.js"></script>
 <script type="text/javascript">
-			/*<![CDATA[*/	
-			
+lebara.vars.strings.en.bundleCollapsed="Collapse"; 
+lebara.vars.strings.en.bundleExpanded= "Expand";
+
+/*<![CDATA[*/	
+	 		
 			$(document).ready(function(){
 				lebara.init();
+				function boltOnAccordian(){
+					$( "#accordion" ).accordion({
+						autoHeight: false,
+						navigation: true,
+						collapsible: true,
+						header: 'div.header',
+						active: false,
+						changestart: function(event, ui) { 
+							var activeAccordian=ui.newHeader.children(".secButton");
+							var prevAccordian=ui.oldHeader.children(".secButton");
+							
+							if(activeAccordian.hasClass("secButton-max")){
+								activeAccordian.removeClass('secButton-max');
+								activeAccordian.addClass('secButton-min');	
+								var tmpdef=activeAccordian.html();
+								var tmprel=activeAccordian.attr("rel");
+								activeAccordian.html(tmprel);
+								activeAccordian.attr("rel",tmpdef);
+							}
+							if(prevAccordian.hasClass("secButton-min")){
+								prevAccordian.removeClass('secButton-min');
+								prevAccordian.addClass('secButton-max');
+								var tmpdef=prevAccordian.html();
+								var tmprel=prevAccordian.attr("rel");
+								prevAccordian.html(tmprel);
+								prevAccordian.attr("rel",tmpdef);
+							}
+						}
+					});
+				}
+				boltOnAccordian();
+				/*$( "#accordion .header a.secButton" ).click(function(){
+					if($(this).parents(".header").hasClass('ui-corner-top'))
+					{
+						$(this).removeClass('secButton-min');
+						$(this).html(lebara.vars.strings.en.bundleExpanded);
+					}
+					else
+					{
+						$(this).addClass('secButton-min');
+						$(this).html(lebara.vars.strings.en.bundleCollapsed);
+					}
+				})*/
+
 			});
  			/*]]>*/			
 		</script>
+
+
+		<style type="text/css">
+.money_tnc {
+	font-size:1.3em;
+	line-height:130%;
+}
+</style>
+
+		<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-1762436-8']);
+  _gaq.push(['_trackPageLoadTime']);
+  _gaq.push(['_setDomainName', '.lebara-mobile.co.uk']);
+</script> <script type="text/javascript">
+  function LM_track_event(category, action, label) {
+	 if (typeof(label) == "undefined") {
+	 	_gaq.push(['_trackEvent', category, action]);
+	 } else {
+		_gaq.push(['_trackEvent', category, action, label]);
+	 }
+  }
+</script>
+
+
 <script type="text/javascript">
  function getCurrentPageLocation(url){
    if (url != "") {
@@ -54,11 +128,9 @@
 
 
 
+
 <!-- header -->
 <div id="header" class="clear"><!-- header content-->
-
-
-
 
 <div class="content clear"><!--Utility Links -->
 <div class="quickLinks clear">
@@ -80,7 +152,14 @@
 	
 		<li>
 			
-				<a id="cmp_link_top3" href="/GetStarted" target="_self">Get Started</a>
+				<a id="cmp_link_TopUp_header" href="/topup/TopupLogin" target="_self">Top Up</a>
+			
+			
+		</li>
+	
+		<li>
+			
+				<a id="cmp_link_FreeSIm_header" href="/freesim" target="_self">Get A FREE SIM</a>
 			
 			
 		</li>
@@ -90,36 +169,53 @@
 <div class="features clear">
 <div class="quickLinks clear login">
 <ul class="clear">
+
 	
-		<li>
+	<li>
+		
 			
 				<a id="cmp_action_link_top1" href="/login" class="loginTrigger" target="_self">Login</a>
 			
 			
+		
 		</li>
 	
-		<li>
+	<li>
+		
 			
 				<a id="cmp_action_link_top2" href="/Signup" class="" target="_self">Sign Up</a>
 			
 			
+		
 		</li>
+	
 	
 </ul>
 </div>
+
+
 <!-- Language Selector Dropdown -->
+
 <div class="changeLang clear"></div>
+
 <!-- Language Selector Dropdown-END --> <!-- Cart Summary here --> 
 	
 
 
-<div class="shopBasket clear" id="cart" onclick="window.location.href='/view/content/cart?from=/privacy-policy'">
-<a href="/view/CartController" title="Shopping Basket"> <span class="price"><span class="priceLeft">0<span class="accessibility"> Item</span></span></span> </a>
-<div id="existence"><input type="hidden" name="productAlreadyExist" id="productAlreadyExist" value=""></div>
+
+<div class="shopBasket clear" id="cart">
+	<a href="/view/CartController" title="Shopping Basket">
+	<span class="price">
+	<span class="priceLeft">
+	
+	0
+	<span class="accessibility"> Item</span>
+	</span></span>
+	</a>
+	<div id="existence">
+	<input type="hidden" name="productAlreadyExist" id="productAlreadyExist" value="">
+	</div>
 </div>
-
-
-
  <!-- Cart Summary here --></div>
 </div>
 <!-- header content--></div>
@@ -127,13 +223,13 @@
 
 <!-- Navigation -->
 <div id="navigation" class="clear"><!-- Navigation Content-->
-<div class="content"><a href="/" class="logoLebra"><img src="http://www.assets.lebara.com/medias/sys_master/8796148760606.gif" alt="Lebara"></a>
+<div class="content"><a href="/" class="logoLebra"><img src="http://www.assets.lebara.com/medias/sys_master/8800559267870.gif" alt="Lebara"></a>
 <ul class="clear">
 	
 		
 			
 			
-				<li class="clear"><a id="cmp_link_main1" href="/home" target="_self">Home</a> </li>
+				<li class="clear"><a id="cmp_link_main1" href="http://www.lebara-mobile.co.uk" target="_self">Home</a> </li>
 			
 		
 	
@@ -153,7 +249,14 @@
 							
 								
 								
-									<li><a id="link_pay_monthly" href="http://shop.lebara-mobile.co.uk/paymonthly/" target="_self">Pay Monthly</a></li>
+									<li><a id="link_pay_monthly" href="/paymonthly" target="_self">Pay Monthly</a></li>
+								
+							
+						
+							
+								
+								
+									<li><a id="LebaraMoney_link" href="/money" target="_self">Lebara Money</a></li>
 								
 							
 						
@@ -181,14 +284,14 @@
 							
 								
 								
-									<li><a id="link_top_up" href="/topup/home" target="_self">Top Up</a></li>
+									<li><a id="link_free_sim" href="/freesim" target="_self">Free SIM</a></li>
 								
 							
 						
 							
 								
 								
-									<li><a id="link_free_sim" href="/FreeSIM" target="_self">Free SIM</a></li>
+									<li><a id="link_top_up" href="/topup/TopupLogin" target="_self">Top Up</a></li>
 								
 							
 						
@@ -206,7 +309,14 @@
 							
 								
 								
-									<li><a id="link_get_a_sim" href="/Pre-Pay-Cards" target="_self">Get a SIM</a></li>
+									<li><a id="link_lebara_money_getstarted" href="/money/use-card" target="_self">Lebara Money</a></li>
+								
+							
+						
+							
+								
+								
+									<li><a id="link_get_a_sim" href="/freesim" target="_self">Get a SIM</a></li>
 								
 							
 						
@@ -227,13 +337,6 @@
 							
 								
 								
-									<li><a id="link_top_up" href="/topup/home" target="_self">Top Up</a></li>
-								
-							
-						
-							
-								
-								
 									<li><a id="link_keep_your_numher" href="/GetStarted" target="_self">Keep Your Number</a></li>
 								
 							
@@ -248,7 +351,7 @@
 							
 								
 								
-									<li><a id="link_download" href="/internet_on_your_phone" target="_self">Download</a></li>
+									<li><a id="link_top_up" href="/topup/TopupLogin" target="_self">Top Up</a></li>
 								
 							
 						
@@ -260,7 +363,7 @@
 		
 			
 			
-				<li class="clear"><a id="cmp_link_main4" href="/help" target="_self">Help</a> 
+				<li class="clear"><a id="cmp_link_main443" href="/help" target="_self">Help</a> 
 					<ul class="clear">
 						
 							
@@ -287,7 +390,14 @@
 							
 								
 								
-									<li><a id="link_faq" href="/faqs" target="_self">FAQ'S</a></li>
+									<li><a id="Money_help_link" href="/money/faqs" target="_self">Lebara Money Help</a></li>
+								
+							
+						
+							
+								
+								
+									<li><a id="link_faq" href="/faqs" target="_self">FAQs</a></li>
 								
 							
 						
@@ -313,48 +423,55 @@
 		
 			
 			
-				<li class="clear"><a id="cmp_link_main_mylebara_loggedOut" href="/dashboard/Login/Signup" target="_self">MyLebara</a> 
+				<li class="clear"><a id="cmp_link_main_mylebara_loggedIn" href="/dashboard" target="_self">MyLebara</a> 
 					<ul class="clear">
 						
 							
 								
 								
-									<li><a id="link_dashboard" href="/dashboard/Login/Signup" target="_self">Dashboard</a></li>
+									<li><a id="cmp_link_main_dashboard_loggedIn" href="/dashboard" target="_self">Dashboard</a></li>
 								
 							
 						
 							
 								
 								
-									<li><a id="link_top_up" href="/topup/home" target="_self">Top Up</a></li>
+									<li><a id="cmp_link_main_topup_loggedIn" href="/topup/home" target="_self">Top Up</a></li>
 								
 							
 						
 							
 								
 								
-									<li><a id="link_auto_top_up" href="/topup/home" target="_self">Auto Top Up</a></li>
+									<li><a id="cmp_link_main_profile_loggedIn" href="/usagehistory" target="_self">Call History</a></li>
 								
 							
 						
 							
 								
 								
-									<li><a id="link_call_history" href="/dashboard/Login/Signup" target="_self">Call History</a></li>
+									<li><a id="comp_0000000IJZ" href="/topup/history" target="_self">Top Up History</a></li>
 								
 							
 						
 							
 								
 								
-									<li><a id="link_top_up_history" href="/topup/TopupLogin" target="_self">Top Up History</a></li>
+									<li><a id="link_profile_and_settings" href="/user/profile" target="_self">Profile &amp; Settings</a></li>
 								
 							
 						
 							
 								
 								
-									<li><a id="link_profile_settings_loggedout" href="/dashboard/Login/Signup" target="_self">Profile &amp; Settings</a></li>
+									<li><a id="Mylebara_money_link" href="/money/login" target="_self">MyLebara Money</a></li>
+								
+							
+						
+							
+								
+								
+									<li><a id="cmp_link_orders_loggedIn" href="/orders/history" target="_self">Orders</a></li>
 								
 							
 						
@@ -364,18 +481,26 @@
 		
 	
 </ul>
-<!-- form action="#" method="get">
-			 	<div class="searchTopBox">
-					<input type="text" class="enterSearch text" name="searchLebara" id="searchLebara" />
-		            <input id="submitSearchButton" name="submitSearchButton" type="button" class="buttonSearch" value="search" onClick="location.href='/view/content/search?query=' + document.getElementById('searchLebara').value"/>
+		        
+		  <form id="search" action="/view/content/pl_search" method="GET">	
+		  <div class="field search">
+            <div class="searchTopBox">
+              <label class="accessibility">Search</label> 
+			   <div class="searchOuter"><div class="clear fakeInput">
+              <input type="text" id="search" name="search" class="enterSearch text"> </div>
+              <button class="buttonSearch" type="submit">Search</button>
+			     <ul class="dropdownList ui-autocomplete ui-menu ui-widget ui-widget-content ui-corner-all">
+                <li> <a href="#">&nbsp;</a> </li>
+              </ul>
 			</div>
-		</form--></div>
-</div>
-<!-- Navigation -->
+            </div> </div>
+          </form>
+  </div>
+</div><!-- Navigation -->
 	
 		
 		
-			<div id="content" class="twoNav clear" style="background-image:url(http://www.assets.lebara.com/medias/sys_master/8796148039710.jpg);">
+			<div id="content" class="twoNav clear" style="background-image:url(http://www.assets.lebara.com/medias/sys_master/8828183216158.jpg);">
 			<!-- innerContent -->
 			<div id="innerContent"><!-- innerContentBody -->
 			<div class="innerContentBody clear"><!-- [heading content slot] -->
@@ -383,11 +508,11 @@
 				<h1>Privacy Policy</h1>
 			 <!-- contentSmall -->
 			<div id="contentSmall"><!--  [main content slot] --> 
-				<div class="box box-1 clear articlePages"><div class="module"><h1>Privacy Policy</h1> <br> <br> <br> <p><strong>Privacy Policy of Lebara Limited (referred to in this policy as  "we", "us "and "Lebara").</strong></p> <p>Please read this Privacy Policy in conjunction with the General Terms  &amp; Conditions and any other product or service terms of which you have been  notified.</p> <p><strong>1. How We  Collect Informationabout You</strong></p> <ol>     <ol>         <p>1.1 We collect information directly from  you when you are asked to provide personal details about yourself, including  but not limited to when you:</p>         <ol style="list-style:lower-roman">             <li><span dir="ltr"> </span>purchase  products or services from us whether in store, online, by phone or elsewhere;</li>             <li><span dir="ltr"> </span>register  to become a Lebara customer;</li>             <li><span dir="ltr"> </span>submit  enquiries to us or contact us;</li>             <li><span dir="ltr"> </span>enter any  promotions, competitions or prize draws;</li>             <li><span dir="ltr"> </span>use Lebara  products and services;</li>             <li><span dir="ltr"> </span>take part  in market research; and/or</li>             <li><span dir="ltr"> </span>when you  terminate your account with us.</li>         </ol>         <br>         <p>1.2 We collect  information indirectly from you when</p>         <ol style="list-style:lower-roman">             <li><span dir="ltr"> </span>you choose  to register with us and use our service, visit or browse this site or use our  networks</li>             <li><span dir="ltr"> </span>visit or  browse this site or other Lebara Group websites;</li>             <li><span dir="ltr"> </span>browse or  otherwise access the Internet, WAP sites and/or the mobile internet via the services;  or</li>             <li><span dir="ltr"> </span>use our  networks <a name="theinformationwecollect" id="theinformationwecollect"></a></li>         </ol>         <br>         <p>1.3 We collect  information about you from other sources, including but not limited to credit  reference agencies, fraud prevention agencies; and business directories and  other commercially or publicly available sources.</p>     </ol> </ol> <p><strong>2. The Type of Information We Would Collect</strong></p> <ol>     <ol>         <p>1. We collect such information as:</p>         <ol style="list-style:lower-roman;">             <li><span dir="ltr"> </span>your name;</li>             <li><span dir="ltr"> </span>billing  address;</li>             <li><span dir="ltr"> </span>delivery  address;</li>             <li><span dir="ltr"> </span>telephone  number;</li>             <li><span dir="ltr"> </span>your use  of products and services;</li>             <li><span dir="ltr"> </span>how your  conduct and manage your account(s) with us;</li>             <li><span dir="ltr"> </span>debit or  credit card details, banking details and other payment information;</li>         </ol>         <br>         <p>2.2 We collect  such information as:</p>         <ol>             <li><span dir="ltr"> </span>your use  of Lebara Pay Monthly service including but not limited to details of your  ongoing payments and transactions, including those with retailers and our  partners;</li>             <li><span dir="ltr"> </span>debit or  credit card details, banking details and other payment information;</li>         </ol>     </ol> </ol> <p><strong>3. How We  Use Your Information</strong></p> <ol>     <ol>         <p>3.1  We may use and analyse information  about you in order to:</p>         <ol style="list-style:lower-roman;">             <li><span dir="ltr"> </span>provide  you with access to parts of this site;</li>             <li><span dir="ltr"> </span>process  your order;</li>             <li><span dir="ltr"> </span>supply services  and products that you have ordered;</li>             <li><span dir="ltr"> </span>contact  you if necessary;</li>             <li><span dir="ltr"> </span>verify  that you are an authorised user for security purposes;</li>             <li><span dir="ltr"> </span>arrange  for payment of goods or services purchased;</li>             <li><span dir="ltr"> </span>inform you  of any service related message or of any new services or functionality (e.g.  the introduction of a new messaging service);</li>             <li><span dir="ltr"> </span>assist us  with crime and fraud prevention such as to check your identity;</li>             <li><span dir="ltr"> </span>assist you  with any product or services enquiries, including the investigation and  resolution of service affecting issues and dealing with any billing queries you  may have;</li>             <li><span dir="ltr"> </span>investigate  any complaints or other enquiries that you submit to us;</li>             <li><span dir="ltr"> </span>enhance  and personalise the products and services that we offer you and to develop new  products and services;</li>             <li><span dir="ltr"> </span>analyse  markets and produce reports, perform research and statistical analysis and to  monitor usage behaviour (including when you are no longer a Lebara customer);</li>             <li><span dir="ltr"> </span>market our  products and services generally</li>             <li><span dir="ltr"> </span>send  information to you about our products and services from time to time by phone,  post, email, text, MMS, automated dialing equipment or other means (subject to  any objection or preference you may indicate when submitting your details to  us);</li>             <li><span dir="ltr"> </span>inform you  of any products and services offered by other companies that we think may be of  interest to you, provided that you choose to receive this information;</li>             <li><span dir="ltr"> </span>disclose  your personal information or usage of our services to certain third parties;</li>             <li><span dir="ltr"> </span>assess  applications for and make decisions about credit, credit-related services from  you and members of your household;</li>             <li><span dir="ltr"> </span>debt  tracing, debt recovery, credit management and crime, fraud and money laundering  detection and prevention; and</li>             <li><span dir="ltr"> </span>aggregate  information about you, your spending and your use of the services with  information about other users of the services in order to identify trends  ("Aggregated Data"). We may pass Aggregated Data to third parties,  such as advertisers, content providers and business partners or prospective  business partners, to give them a better understanding of our business and to  bring you a better service. Aggregated Data will not contain information from  which you may be personally identified.</li>             <li><span dir="ltr"> </span>analyse  information about you including your calling, searching, browsing and location  data on a personalised or aggregated basis. We may pass this data to the third  parties and we may use this information to provide you with targeted Lebara or  third party offers, promotions, adverts or commercial communications.</li>         </ol>     </ol> </ol> <p><strong>4. Disclosure of your Information</strong></p> <ol>     <ol>         <p>4.1 We may  disclose your information:</p>         <ol style="list-style:lower-roman">             <li><span dir="ltr"> </span>to our  partners, agents and subcontractors (including prospective partners, agents and  subcontractors) who are involved in the delivery of providing products or  services used or ordered by you;</li>             <li><span dir="ltr"> </span>to other  companies in the Lebara Group, including their respective partners, agents and  sub contractors (including their prospective partners, agents and  subcontractors);</li>             <li><span dir="ltr"> </span>to credit  reference agencies and fraud prevention agencies;</li>             <li><span dir="ltr"> </span>to other  communications companies;</li>             <li><span dir="ltr"> </span>to any  relevant public authority or law enforcement agency;</li>             <li><span dir="ltr"> </span>to third  parties for checking details of job applicants and employees;</li>             <li><span dir="ltr"> </span>to third  parties from whom you have chosen to receive marketing information.</li>             <li><span dir="ltr"> </span>where  there is a change (or prospective change) in the ownership of Lebara Limited to  new or prospective owners of Lebara Limited. In these circumstances we would  require them to keep it confidential.</li>             <li><span dir="ltr"> </span>where  required by law, regulation or legal proceedings;</li>             <li><span dir="ltr"> </span>where we  believe it is necessary to protect Lebara or third party rights and property;  or</li>             <li><span dir="ltr"> </span>where you  give us false or inaccurate information and we identify or suspect fraud.</li>             <li><span dir="ltr"> </span>Where we,  or an affiliate processing your data on our behalf, are compelled to do so by  law;</li>             <li><span dir="ltr"> </span>in  response to a valid, legally compliant request by a competent authority;</li>             <li><span dir="ltr"> </span>during  emergencies when we believe physical safety is at risk;</li>             <li><span dir="ltr"> </span>where the  service is moderated; or</li>             <li><span dir="ltr"> </span>in  response to a complaint that that there has been a breach of the services terms  &amp; conditions or any other product or service terms of which you have been  notified.</li>         </ol>         <br>         <p>4.2 Additional  terms and conditions may be presented when signing up for specific products and  services.</p>     </ol> </ol> <p style="list-style:lower-roman"><strong>5. Security  Matters</strong></p> <ol>     <ol style="list-style:lower-roman">         <li><span dir="ltr"> </span>We recognise that you may be concerned  about how we would protect your personal information from misuse and abuse. Lebara  has security teams who are constantly reviewing and enhancing our technical,  physical and managerial procedures and rules to protect your personal data from  unauthorised access, accidental loss and/or destruction.</li>         <li><span dir="ltr"> </span>Where we have contracted with a third  party to provide some part of a service that you have requested, we will ensure  that those agents, by written agreement, are required to implement similar  security measures and will process your information only as authorised by Lebara  to fulfil the service that they have been contracted to provide on our behalf.  Those third parties will <strong><em>not</em></strong> be entitled to use your personal  data for their own purposes.</li>         <li><span dir="ltr"> </span>Please be aware that communications  over the Internet, such as emails/webmails, are not secure unless they have  been encrypted. Your communications may route through a number of countries  before being delivered - this is the nature of the World Wide Web/Internet. Lebara  cannot accept responsibility for any unauthorised access or loss of personal  information that is beyond our control.</li>     </ol> </ol> <p style="list-style:lower-roman"><strong>6. Retention of Information</strong></p> <ol>     <ol>         <p>6.1 We retain  information only for as long as we need it. In relation to the following  information we are required to retain it for not less than six months and not  more than two years in order to ensure that this information is available for  the purpose of the investigation, detection and prosecution of serious crime:</p>         <ol style="list-style:lower-roman">             <li><span dir="ltr"> </span>User ID  and telephone number allocated to any communication entering the public  telephone network;</li>             <li><span dir="ltr"> </span>Name and  address of subscriber to whom an Internet Protocol (IP) address, user ID or  telephone number was allocated at the time of a communication;</li>             <li><span dir="ltr"> </span>User ID or  telephone number of the recipient of an Internet telephony call;</li>             <li><span dir="ltr"> </span>Name and  address of subscriber and user ID of the intended recipient of a communication;</li>             <li><span dir="ltr"> </span>Date and  time of log-in and log-off of our Internet access service, IP address and user  ID of the subscriber;</li>             <li><span dir="ltr"> </span>Internet  service used;</li>             <li><span dir="ltr"> </span>Calling  telephone number for dial-up Internet access of the originator of a communication;  and</li>             <li><span dir="ltr"> </span>Digital  Subscriber Line (DSL) or other end point of the originator of a communication.</li>         </ol>     </ol> </ol> <p><strong>7. Accessing your Information</strong></p> <ol>     <ol>         <p>7.1 If you are  a Lebara Registered Customer, you may verify, update or amend the personal  information you have provided to Lebara online at any time by clicking on  "Edit User Profile" under the website navigation heading "My  Lebara". The 'opt-in' on the website allows you to select whether you  receive marketing information from Lebara only, or from our business partners.  You can opt-out of either or both at any time.</p>         <p>7.2 We can  supply certain types of personal information on request: including but not  limited to billing, name and address, aggregated phone usage. Requests should  be made in writing and include your name, mobile telephone number and proof of  your identity (such as a photocopy of your passport, birth certificate or  driving licence) and address (for example, a copy of a utility bill or bank  statement), and the information you require. We'll charge you £10 to cover the  administrative cost of supplying the requested information. If we hold any  inaccurate information about you, please tell us and we will correct it.</p>         <p>Our  address is: Data Controller<br clear="all">         Lebara Limited<br clear="all">         25 Copthall Avenue<br clear="all">         London<br clear="all">         EC2R 7BP<br clear="all">         UK</p>     </ol> </ol> <p><strong>8. Changes to this Policy</strong></p> <ol>     <p>We will keep  this policy under review and any changes made from time to time will be posted  on this page.</p> </ol> <p><strong>9. Security and Protection of Customer Information</strong><strong> </strong></p> <ol>     <ol>         <p><strong>9.1 Security</strong></p>         <ol style="list-style:lower-roman">             <li><span dir="ltr"> </span>Passwords<br clear="all">             You must not share your password for any message services or Portal access.  Your passwords and the answers to secret questions are your responsibility, and  must not be disclosed to any third party. This is also important for your own  protection.</li>             <li><span dir="ltr"> </span>Data  Security Procedures<br clear="all">             We are constantly reviewing our procedures to protect your personal data from  unauthorised access, accidental loss and/or destruction.<br clear="all">             We may employ third parties to provide services on our behalf. In such cases,  if they collect any data on their own behalf it will be covered by this policy  unless they inform you that they provide their own privacy policy. We do  endeavour to ensure that any partners we use apply the same high standards of  privacy and security over your information. However, we advise you to read  their policy carefully.</li>             <li><span dir="ltr"> </span>Security  of Communications<br clear="all">             Please be aware that communications over the Internet, such as e-mails and  Webmails, are not secure unless they have been encrypted. Your communications  may route through a number of countries before being delivered - this is the  nature of the World Wide Web/Internet. Lebara cannot accept responsibility for  any unauthorised access or loss of personal information that is beyond our  control.</li>             <li><span dir="ltr"> </span>Media  Messaging<br clear="all">             If you are registered with www.Lebara-mobile.co.uk, any Media Messages you send  to an email address, including Media Messages from your phone and messages from  www.lebara-mobile.co.uk, may include personal details such as your registered  first name and last name, your phone number or email address which will be  displayed in the 'from' field of the message.</li>         </ol>         <p><strong>9.2 Users 16 and under</strong><br clear="all">         If you are aged 16 or under, please get your parent or guardian's permission  before providing any personal information or before taking part in any  www.o2.co.uk discussion. Users without this consent are not allowed to provide  us with personal information.</p>         <p><strong>9.3 Co-Branded Micro Sites and Third Party Sites</strong><br clear="all">         Some web pages and Micro Websites included within Lebara’s websites may be  co-branded with third party names, logos, or properties. These Micro Websites  are operated or maintained by or on behalf of Lebara. While such third parties  are sponsors of these web pages or Micro Websites, the third parties do not  share in any personally identifiable information collected within those web  pages or Micro Websites unless otherwise stated.<br clear="all">         This policy does not apply to third party sites that you may access via our  Portals. You should therefore ensure that you are familiar with the applicable  third party privacy policy before entering any personal information on a third  party site.</p>         <p><strong>9.4 Non-EEA Use of Information</strong><br clear="all">         The information you provide to us may be passed to third parties located  outside the European Economic Area. Countries outside the European Economic  Area do not always have strong data protection laws. However we will always  take steps to ensure that your information is used by third parties in  accordance with this policy. Additional terms and conditions may be presented  when signing up for specific products and services.</p>         <p><strong>9.5 Marketing Information from Third Parties</strong><br clear="all">         If you choose to receive marketing information from other companies, we will  only disclose your personal information to these companies where they have  undertaken not to use your personal information for any purpose other than to  provide information to you or other uses to which you have agreed. If you  decide that you no longer want to receive information from a particular  company, you should contact that company directly. You should be aware that if  you subsequently give any personal information to another company, the uses to  which that information may be put will be determined by that company's privacy  policy.</p>     </ol> </ol> <p><strong>10. Cookies </strong></p> <ol>     <p>10.1 We  use Cookies on our site and they can help a website to personalise your visit.  A Cookie is a text-only string of information that a website transfers to the  Cookie file of the browser on your computer's hard disk so that the website  can, among other things, remember who you are. A Cookie will typically contain  the name of the domain from which the Cookie has come, the "lifetime"  of the Cookie, and a value, usually a randomly generated unique number. Three  types of electronic access, storage and/or tracing devices are used on this  website:</p>     <ol style="list-style:lower-roman">         <li><span dir="ltr"> </span>Session  Cookies: which are temporary Cookies that remain in the cookie file of your  browser until you leave the site. This information is not stored after you have  left the site.</li>         <li><span dir="ltr"> </span>Persistent  cookies: which remain in the Cookie file of your browser for much longer  (though how long will depend on the lifetime of the specific cookie but this  may be indefinitely or until deleted).</li>         <li><span dir="ltr"> </span>Web  Beacons: which are electronic images known as Web Beacons (also called  "clear gifs" or "web bugs") that allow us to count the  number of users who have visited these Web pages.</li>     </ol><br>     <p>10.2 Cookies  cannot be used by themselves to identify you. However, if you are an existing  customer and you have logged onto this site and identified yourself as a  customer, we may be able to connect your personal information with your cookie  information.</p> </ol> <p><strong>11. How we use these electronic devices on our website and what information</strong> we collect.</p> <ol style="list-style:lower-roman">     <p>11.1  Session  Cookies: we use Session Cookies to allow you to carry information across pages  of our site and avoid having to re-enter information, during that particular  visit. This information will not be available next time you visit our website.</p>     <p>11.2 Persistent  Cookies: we use Persistent Cookies to help us recognise you as a unique visitor  when you next visit our website. The information stored may be recognised and  used by our web-site next time you visit and we may use this information to  personalise your visits and specifically tailor advertising and/or information  directed toward you. This information may also be used to assist in the  efficiency of the sign up process and to compile anonymous, aggregated  statistics that allow us to understand how users use our website and to help us  improve the structure of our website. Unless specifically deleted, this  information may be stored and accessed for an indefinite period of time. We  cannot identify you personally in this way and we do not collect or monitor  your customer information in conjunction with your Cookie information although  we may collect and monitor your customer information in conjunction with your  Cookie information.</p>     <p>11.3 Web  Beacons: we use Web Beacons to collect only limited information including but  not limited to, a Cookie number, which Web page you visited, the number of  times you visited that Web page, the time and date you visited that Web page,  the length of that visit and a description of the Web page which you visited  and on which the Web Beacon resides. We use this information to compile  anonymous, aggregated statistics that allow us to understand how users use our  website and to help us improve the structure of our website. We can also use  this information to recognise whether you have visited our Website before. Unless  specifically deleted, this information may be stored and accessed for an  indefinite period of time.</p>     <p>11.4 Disabling  Cookies: If you do not wish to accept our Cookies or Web Beacons you can  decline Cookies and/or Web Beacons and/or refuse access to previously stored  information by using your web Browser. The facilities within your web Browser  to allow you to do this will vary from Browser to Browser but they may be found  in the "Privacy" or "Cookies" section of the  "Properties" menu of your Browser. If you require assistance in  disabling Cookies you should refer to the "help" menu within your  Browser. Please note however, that you may not be able to use all of the  interactive features of our Website if Cookies and/or Web Beacons are disabled.</p> </ol> <p><strong>12. Marketing Information from  Third Parties</strong></p> <ol style="list-style:lower-roman">     <p>12.1 If you  choose to receive marketing information from other companies, we will only  disclose your personal information to these companies where they have  undertaken not to use your personal information for any purpose other than to provide  information to you or other uses to which you have agreed. If you decide that  you no longer want to receive information from a particular company, you should  contact that company directly.</p>     <p>12.2 You should  be aware that if you subsequently give any personal information to another  company, the uses to which that information may be put will be determined by  that company's privacy policy.</p> </ol></div></div>
+				<div class="box box-1 clear articlePages"><div class="module"><h1>Privacy Policy</h1> <br> <br> <p>In this privacy policy, if you are a user of <br>   (i)	Lebara Mobile Phone services, references to  "we", "us "and "Lebara" are to Lebara Mobile Ltd.<br>   (ii)	Lebara Money, references to  "we", "us "and "Lebara" are to Lebara Finance Ltd.<br><br>   The Lebara Group consists of Lebara B.V. and its subsidiary companies, which include Lebara Ltd, Lebara Mobile Ltd and Lebara Finance Limited.<br>   Please read this Privacy Policy in conjunction with the applicable General Terms &amp; Conditions and any other product or service terms of which you have been notified.<br><br>   1	<strong>How We Collect Information about You</strong><br>   1.1	We collect information directly from you when you are asked to provide personal details about yourself, including but not limited to when you: <br>   i)	purchase products or services from us whether in store, online, by phone or elsewhere; <br>   ii)	register to become a Lebara customer; <br>   iii)	submit enquiries to us or contact us; <br>   iv)	enter any promotions, competitions or prize draws; <br>   v)	use Lebara products and services; <br>   vi)	take part in market research; and/or <br>   vii)	when you terminate your account with us. <br><br>   <strong>1.2	We collect information indirectly from you when </strong><br>   i)	you choose to register with us and use our service, visit or browse this site or use our networks <br>   ii)	visit or browse this site or other Lebara Group websites; <br>   iii)	browse or otherwise access the Internet, WAP sites and/or the mobile internet via the services; or <br>   iv)	use our networks <br><br>   1.3	We collect information about you from other sources, including but not limited to credit reference agencies, fraud prevention agencies; and business directories and other commercially or publicly available sources. <br><br>   2<strong> The Type of Information We Would Collect</strong><br>   2.1	We collect such information as: <br>   i)	your name;<br>   ii)	billing address; <br>   iii)	delivery address; <br>   iv)	telephone number; <br>   v)	your use of products and services including but not limited to phone numbers and/or email addresses of calls, texts, MMS, emails and other communications made and received by you and the date, duration, time and cost of such communications, your searching, browsing history (including web sites you visit) and location data, address location for billing, delivery, installation or as provided by individual, phone location; <br>   vi)	how your conduct and manage your account(s) with us;<br>   vii)	your use of the Lebara Pay MonthlysService and/or Lebara Money products and card services, including but not limited to details of your ongoing payments and transactions, including those with retailers and our partners;<br>   viii)	debit or credit card details, banking details and other payment information; <br><br>   3	<strong>How We Use Your Information</strong><br>   3.1	We may use and analyse information about you in order to:<br>   i)	provide you with access to parts of this site; <br>   ii)	process your order; <br>   iii)	supply services and products that you have ordered; <br>   iv)	contact you if necessary; <br>   v)	verify that you are an authorised user for security purposes; <br>   vi)	arrange for payment of goods or services purchased; <br>   vii)	inform you of any service related message or of any new services or functionality (e.g. the introduction of a new messaging service); <br>   viii)	assist us with crime and fraud prevention such as to check your identity; <br>   ix)	assist you with any product or services enquiries, including the investigation and resolution of service affecting issues and dealing with any billing queries you may have; <br>   x)	investigate any complaints or other enquiries that you submit to us; <br>   xi)	enhance and personalise the products and services that we offer you and to develop new products and services; <br>   xii)	analyse markets and produce reports, perform research and statistical analysis and to monitor usage behaviour (including when you are no longer a Lebara customer); <br>   xiii)	market our products and services generally <br>   xiv)	send information to you about our products and services from time to time by phone, post, email, text, MMS, automated dialing equipment or other means (subject to any objection or preference you may indicate when submitting your details to us); <br>   xv)	inform you of any products and services offered by other companies that we think may be of interest to you, provided that you choose to receive this information; <br>   xvi)	disclose your personal information or usage of our services to certain third parties. Please see Section 4 below; <br>   xvii)	assess applications for and make decisions about credit, credit-related services from you and members of your household; <br>   xviii)	debt tracing, debt recovery, credit management and crime, fraud and money laundering detection and prevention; and <br>   xix)	aggregate information about you, your spending and your use of the services with information about other users of the services in order to identify trends ("Aggregated Data"). We may pass Aggregated Data to third parties, such as advertisers, content providers and business partners or prospective business partners, to give them a better understanding of our business and to bring you a better service. Aggregated Data will not contain information from which you may be personally identified. <br>   xx)	analyse information about you including your calling, searching, browsing and location data on a personalised or aggregated basis. We may pass this data to the third parties and we may use this information to provide you with targeted Lebara or third party offers, promotions, adverts or commercial communications. <br><br>   <strong>4	Disclosure of your Information</strong><br>   4.1	We may disclose your information:<br>   i)	to members of the Lebara Group, our partners, agents and subcontractors (including prospective partners, agents and subcontractors) who are involved in the delivery of providing products or services used or ordered by you; <br>   ii)	to other companies in the Lebara Group, including their respective partners, agents and sub contractors (including their prospective partners, agents and subcontractors); <br>   iii)	to credit reference agencies and fraud prevention agencies; <br>   iv)	to other communications companies; <br>   v)	to any relevant public authority or law enforcement agency; <br>   vi)	to third parties for checking details of job applicants and employees; <br>   vii)	to third parties from whom you have chosen to receive marketing information. <br>   viii)	where there is a change (or prospective change) in the ownership of Lebara, to new or prospective owners of Lebara. In these circumstances we would require them to keep it confidential. <br>   ix)	where required by law, regulation or legal proceedings; <br>   x)	where we believe it is necessary to protect Lebara or third party rights and property; or <br>   xi)	where you give us false or inaccurate information and we identify or suspect fraud. <br>   xii)	Where we, or an affiliate processing your data on our behalf, are compelled to do so by law; <br>   xiii)	in response to a valid, legally compliant request by a competent authority; <br>   xiv)	during emergencies when we believe physical safety is at risk; <br>   xv)	where the service is moderated; or <br>   xvi)	in response to a complaint that that there has been a breach of the services terms &amp; conditions or any other product or service terms of which you have been notified.<br>   4.2	Additional terms and conditions may be presented when signing up for specific products and services. <br><br>   <strong>5	Security Matters</strong><br>   5.1	We recognise that you may be concerned about how we would protect your personal information from misuse and abuse. The Lebara Group has security teams who are constantly reviewing and enhancing our technical, physical and managerial procedures and rules to protect your personal data from unauthorised access, accidental loss and/or destruction. <br>   5.2	Where we have contracted with a third party to provide some part of a service that you have requested, we will ensure that those agents, by written agreement, are required to implement similar security measures and will process your information only as authorised by Lebara to fulfil the service that they have been contracted to provide on our behalf. Those third parties will not be entitled to use your personal data for their own purposes. <br>   5.3	Please be aware that communications over the Internet, such as emails/webmails, are not secure unless they have been encrypted. Your communications may route through a number of countries before being delivered - this is the nature of the World Wide Web/Internet. Lebara cannot accept responsibility for any unauthorised access or loss of personal information that is beyond our control.<br><br>   <strong>6	Retention of Information</strong><br>   6.1	We retain information only for as long as we need it. In relation to the following information we are required to retain it for not less than six months and not more than two years in order to ensure that this information is available for the purpose of the investigation, detection and prosecution of serious crime:<br>   i)	User ID and telephone number allocated to any communication entering the public telephone network; <br>   ii)	Name and address of subscriber to whom an Internet Protocol (IP) address, user ID or telephone number was allocated at the time of a communication; <br>   iii)	User ID or telephone number of the recipient of an Internet telephony call; <br>   iv)	Name and address of subscriber and user ID of the intended recipient of a communication; <br>   v)	Date and time of log-in and log-off of our Internet access service, IP address and user ID of the subscriber; <br>   vi)	Internet service used; <br>   vii)	Calling telephone number for dial-up Internet access of the originator of a communication; and <br>   viii)	Digital Subscriber Line (DSL) or other end point of the originator of a communication. <br><br>   <strong>7	Accessing your Information</strong><br>   7.1	If you are a Lebara Registered Customer, you may verify, update or amend the personal information you have provided to Lebara online at any time by clicking on "Edit User Profile" under the website navigation heading "My Lebara". The 'opt-in' on the website allows you to select whether you receive marketing information from Lebara only, or from our business partners. You can opt-out of either or both at any time. <br>   7.2	We can supply certain types of personal information on request: including but not limited to billing, name and address, aggregated phone usage. Requests should be made in writing and include your name, mobile telephone number and proof of your identity (such as a photocopy of your passport, birth certificate or driving licence) and address (for example, a copy of a utility bill or bank statement), and the information you require. We'll charge you £10 to cover the administrative cost of supplying the requested information. If we hold any inaccurate information about you, please tell us and we will correct it.<br>   Our address is: Data Controller<br>   Lebara <br>   2nd Floor, 25 Copthall Ave<br>   London<br>   EC2R 7BP<br><br>   <strong>8	Changes to this Policy</strong><br>   We will keep this policy under review and any changes made from time to time will be posted on this page.<br><br>   <strong>9	Security and Protection of Customer Information</strong><br>   9.1	Security <br>   i)	Passwords<br>   You must not share your password for any message services or portal access. Your passwords and the answers to secret questions are your responsibility, and must not be disclosed to any third party. This is also important for your own protection. <br>   ii)	Data Security Procedures<br>   We are constantly reviewing our procedures to protect your personal data from unauthorised access, accidental loss and/or destruction.<br>   We may employ third parties, including members of the Lebara Group, to provide services on our behalf. In such cases, if they collect any data on their own behalf it will be covered by this policy unless they inform you that they provide their own privacy policy. We do endeavour to ensure that any partners we use apply the same high standards of privacy and security over your information. However, we advise you to read their policy carefully. <br>   iii)	Security of Communications<br>   Please be aware that communications over the Internet, such as e-mails and Webmails, are not secure unless they have been encrypted. Your communications may route through a number of countries before being delivered - this is the nature of the World Wide Web/Internet. Lebara cannot accept responsibility for any unauthorised access or loss of personal information that is beyond our control. <br>   iv)	Media Messaging<br>   If you are registered with www.Lebara-mobile.co.uk, any Media Messages you send to an email address, including Media Messages from your phone and messages from www.lebara-mobile.co.uk, may include personal details such as your registered first name and last name, your phone number or email address which will be displayed in the 'from' field of the message. <br>   9.2	Users 16 and under<br>   If you are aged 16 or under, please get your parent or guardian's permission before providing any personal information. Users without this consent are not allowed to provide us with personal information. <br>   9.3	Co-Branded Micro Sites and Third Party Sites<br>   Some web pages and Micro Websites included within Lebara’s websites may be co-branded with third party names, logos, or properties. These Micro Websites are operated or maintained by or on behalf of Lebara. While such third parties are sponsors of these web pages or Micro Websites, the third parties do not share in any personally identifiable information collected within those web pages or Micro Websites unless otherwise stated.<br>   This policy does not apply to third party sites that you may access via our portals. You should therefore ensure that you are familiar with the applicable third party privacy policy before entering any personal information on a third party site. <br>   9.4	Non-EEA Use of Information<br>   The information you provide to us may be passed to third parties located outside the European Economic Area. Countries outside the European Economic Area do not always have strong data protection laws. However we will always take steps to ensure that your information is used by third parties in accordance with this policy. Additional terms and conditions may be presented when signing up for specific products and services. <br>   9.5	Marketing Information from Third Parties<br>   If you choose to receive marketing information from other companies, we will only disclose your personal information to these companies where they have undertaken not to use your personal information for any purpose other than to provide information to you or other uses to which you have agreed. If you decide that you no longer want to receive information from a particular company, you should contact that company directly. You should be aware that if you subsequently give any personal information to another company, the uses to which that information may be put will be determined by that company's privacy policy. <br><br>   <strong>10	Cookies</strong><br>   10.1	We use Cookies on our site and they can help a website to personalise your visit. A Cookie is a text-only string of information that a website transfers to the Cookie file of the browser on your PC/mobile phone so that the website can, among other things, remember who you are. A Cookie will typically contain the name of the domain from which the Cookie has come, the "lifetime" of the Cookie, and a value, usually a randomly generated unique number. Three types of electronic access, storage and/or tracing devices are used on this website: <br>   i)	Session Cookies: which are temporary Cookies that remain in the cookie file of your browser until you leave the site. This information is not stored after you have left the site.<br>   ii)	Persistent cookies: which remain in the Cookie file of your browser for much longer (though how long will depend on the lifetime of the specific cookie but this may be indefinitely or until deleted). <br>   iii)	Web Beacons: which are electronic images known as Web Beacons (also called "clear gifs" or "web bugs") that allow us to count the number of users who have visited these Web pages. <br>   10.2	Cookies cannot be used by themselves to identify you. However, if you are an existing customer and you have logged onto this site and identified yourself as a customer, we may be able to connect your personal information with your cookie information. <br><br>   <strong>11	How we use these electronic devices on our website and what information we collect.</strong><br>   11.1	Session Cookies: we use Session Cookies to allow you to carry information across pages of our site and avoid having to re-enter information, during that particular visit. This information will not be available next time you visit our website. <br>   11.2	Persistent Cookies: we use Persistent Cookies to help us recognise you as a unique visitor when you next visit our website. The information stored may be recognised and used by our web-site next time you visit and we may use this information to personalise your visits and specifically tailor advertising and/or information directed toward you. This information may also be used to assist in the efficiency of the sign up process and to compile anonymous, aggregated statistics that allow us to understand how users use our website and to help us improve the structure of our website. Unless specifically deleted, this information may be stored and accessed for an indefinite period of time. We cannot identify you personally in this way and we do not collect or monitor your customer information in conjunction with your Cookie information although we may collect and monitor your customer information in conjunction with your Cookie information. <br>   11.3	Web Beacons: we use Web Beacons to collect only limited information including but not limited to, a Cookie number, which Web page you visited, the number of times you visited that Web page, the time and date you visited that Web page, the length of that visit and a description of the Web page which you visited and on which the Web Beacon resides. We use this information to compile anonymous, aggregated statistics that allow us to understand how users use our website and to help us improve the structure of our website. We can also use this information to recognise whether you have visited our Website before. Unless specifically deleted, this information may be stored and accessed for an indefinite period of time. <br>   11.4	Disabling Cookies: If you do not wish to accept our Cookies or Web Beacons you can decline Cookies and/or Web Beacons and/or refuse access to previously stored information by using your web Browser. The facilities within your web Browser to allow you to do this will vary from Browser to Browser but they may be found in the "Privacy" or "Cookies" section of the "Properties" menu of your Browser. If you require assistance in disabling Cookies you should refer to the "help" menu within your Browser. Please note however, that you may not be able to use all of the interactive features of our Website if Cookies and/or Web Beacons are disabled. <br><br>   <strong>12	Marketing Information from Third Parties</strong><br>   12.1	If you choose to receive marketing information from other companies, we will only disclose your personal information to these companies where they have undertaken not to use your personal information for any purpose other than to provide information to you or other uses to which you have agreed. If you decide that you no longer want to receive information from a particular company, you should contact that company directly. <br>   12.2	You should be aware that if you subsequently give any personal information to another company, the uses to which that information may be put will be determined by that company's privacy policy.</p> <p>&nbsp;</p></div></div>
 			</div>
 			<div id="sideNavigation"><!-- panel --> <!--  [navigation content slot] -->
 			
-				<!--Privacy Policy -->  <div id="sideNavigation"><ul class="nav">     <li><a target="_self" href="/terms-and-conditions">General T &amp; C's</a></li>    <li><a target="_self" href="/paym-terms-and-conditions">Pay Monthly T &amp; C's</a></li>     <li><a target="_self" href="/mobile-web-terms-conditions">Mobile Web T &amp; C's</a></li>     <li><a target="_self" href="/promotionsterms">Promotions</a></li>     <li><a target="_self" href="/code-of-practice">Code of Practice</a></li>   <li><a target="_self" href="/disclaimer">Disclaimer</a></li>     <li class="active"><span>Privacy Policy</span></li>                </ul></div> <!-- panel -->
+				<ul class="nav">		 <li><a href="/terms-and-conditions" class="link" target="_self">General T &amp; C's</a></li>		 <li><a href="/paym-terms-and-conditions" class="link" target="_self">Pay Monthly T &amp; C's</a></li>		 <li><a href="/mobile-web-terms-conditions" class="link" target="_self">Mobile Web T &amp; C's</a></li>		 <li><a href="/money-t-n-c" class="link" target="_self">Lebara Money T &amp; C's</a></li>		 <li><a href="/promotionsterms" class="link" target="_self">Promotions</a></li>		 <li><a href="/code-of-practice" class="link" target="_self">Code of Practice</a></li>		 <li><a href="/disclaimer" class="link" target="_self">Disclaimer</a></li>		 <li class="active"><span>Privacy Policy</span></li>		 </ul>
 			</div>
 			<!-- panel --></div>
 			<!-- innerContentBody -->
@@ -401,15 +526,18 @@
 
 
 
+
 <div id="footer">
 <div class="content clear">
-	<div>
+	<div> 
 	<h2><a href="/shop" target="_self">Shop</a></h2>
 	<ul>
 		
 			<li><a href="/prepay-home" target="_self">Pay As You Go</a></li>
 		
-			<li><a href="http://shop.lebara-mobile.co.uk/paymonthly/" target="_self">Pay Monthly</a></li>
+			<li><a href="/paymonthly" target="_self">Pay Monthly</a></li>
+		
+			<li><a href="/money" target="_self">Lebara Money</a></li>
 		
 			<li><a href="/prepay/rates" target="_self">Rates</a></li>
 		
@@ -417,20 +545,22 @@
 		
 			<li><a href="/mobileinternet" target="_self">Mobile Internet</a></li>
 		
-			<li><a href="/topup/home" target="_self">Top Up</a></li>
+			<li><a href="/freesim" target="_self">Free SIM</a></li>
 		
-			<li><a href="/FreeSIM" target="_self">Free SIM</a></li>
+			<li><a href="/topup/TopupLogin" target="_self">Top Up</a></li>
 		
 	</ul>
 	</div>
 
-	<div>
+	<div> 
 	<h2><a href="/GetStarted" target="_self">Get Started</a></h2>
 	<ul>
 		
+			<li><a href="/money/use-card" target="_self">Lebara Money</a></li>
+		
 			<li><a href="/prepay-home" target="_self">Pay As You Go</a></li>
 		
-			<li><a href="/topup/home" target="_self">Top Up</a></li>
+			<li><a href="/topup/TopupLogin" target="_self">Top Up</a></li>
 		
 			<li><a href="/Signup" target="_self">Sign Up</a></li>
 		
@@ -438,14 +568,14 @@
 		
 			<li><a href="/whyLebara" target="_self">Why Lebara</a></li>
 		
-			<li><a href="https://mylebara.lebara-mobile.co.uk:9090/mylebarawp/activationpage.aspx " target="_self">Activate Pay Monthly</a></li>
+			<li><a href="https://mylebara.lebara-mobile.co.uk:9090/mylebarawp/activationpage.aspx" target="_self">Activate Pay Monthly</a></li>
 		
 			<li><a href="/AboutLebaraMobile" target="_self">About Lebara</a></li>
 		
 	</ul>
 	</div>
 
-	<div>
+	<div> 
 	<h2><a href="/help" target="_self">Help</a></h2>
 	<ul>
 		
@@ -453,11 +583,13 @@
 		
 			<li><a href="http://store.lebara-mobile.co.uk/storefinder/default.aspx?country=gb&amp;language=en-GB" target="_self">Store Finder</a></li>
 		
+			<li><a href="/money/faqs" target="_self">Lebara Money Help</a></li>
+		
 			<li><a href="/contactus" target="_self">Contact Us</a></li>
 		
 			<li><a href="/handbook" target="_self">Handbook</a></li>
 		
-			<li><a href="/faqs" target="_self">FAQ'S</a></li>
+			<li><a href="/faqs" target="_self">FAQs</a></li>
 		
 			<li><a href="http://www.lebara.com/careers" target="_self">Careers</a></li>
 		
@@ -466,22 +598,20 @@
 	</ul>
 	</div>
 
-	<div>
+	<div> 
 	<h2><a href="/shop/offers" target="_self">Popular</a></h2>
 	<ul>
 		
-			<li><a href="/FreeSIM" target="_self">Free SIM</a></li>
+			<li><a href="/freesim" target="_self">Free SIM</a></li>
 		
 			<li><a href="/mobileinternet" target="_self">Mobile Internet</a></li>
 		
-			<li><a href="/prepay/rates" target="_self">Rates</a></li>
-		
-			<li><a href="/topup/home" target="_self">Top Up</a></li>
+			<li><a href="/topup/TopupLogin" target="_self">Top Up</a></li>
 		
 	</ul>
 	</div>
 
-	<div>
+	<div> 
 	<h2><a href="/contactus" target="_self">Contact Us</a></h2>
 	<ul>
 		
@@ -495,15 +625,13 @@
 		
 			<li><a href="http://www.lebara.com/careers" target="_self">Careers</a></li>
 		
-			<li><a href="/affiliates" target="_self">Affiliates</a></li>
-		
 	</ul>
 	</div>
 </div>
 <div class="quickLinks">
 <h2 class="accessibility">Footer Quick links</h2>
 <ul class="arrowList">
-	<li class="first">© 2010 Lebara</li>
+	<li class="first">© 2011 Lebara</li>
 	
 		<li><a href="/privacy-policy" target="_self">Privacy Policy</a></li>
 	
@@ -520,10 +648,27 @@
 </ul>
 </div>
 </div>
-	 <!-- footer --></div>
-	<!-- wrapper -->
-	<script type="text/javascript">var tmParam = {};tmParam["tmpageref"] = "0";var tmOPV = 0;var tmPageId = 11;var tmAddJs = 1; var tmBaseUrl = "http://pfa.levexis.com/lebara/tagman.cgi"; </script><script type="text/javascript" src="http://res.levexis.com/clientfiles/tmap/lebara.js"></script><script type="text/javascript" src="http://res.levexis.com/js/tman.js"></script><noscript><iframe src="http://res.levexis.com/clientfiles/default/11/lebara.htm" style="border:0px none ; width: 0px; height: 0px;"></iframe></noscript>
+	 <!-- footer --><!-- wrapper -->
+	<div class="accessibility"> <script type="text/javascript">var gapageref = 'en_privacy_policy';</script>
+<script type="text/javascript">
+   if (typeof(gapageref) == 'undefined') {
+    _gaq.push(['_trackPageview']);
+   } else if (gapageref == 0) {
+    _gaq.push(['_trackPageview']);
+   } else {
+    _gaq.push(['_trackPageview', '/'+gapageref]);
+   }   
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
 
+<script type="text/javascript">var tmParam = {};var lang=(RegExp("isoCode" + '=' + '(.+?)(&|$)').exec(location.search)||[,""])[1];var refVal=(RegExp("ref" + '=' + '(.+?)(&|$)').exec(location.search)||[,""])[1];tmParam["language"] = lang;tmParam["campaign_id"] = refVal;tmParam["tmpageref"] = "0";var tmOPV = 0;var tmPageId = 11;var tmAddJs = 1; var tmBaseUrl = "http://pfa.levexis.com/lebara/tagman.cgi"; </script><script type="text/javascript" src="http://res.levexis.com/clientfiles/tmap/lebara.js"></script><script type="text/javascript" src="http://res.levexis.com/js/tman.js"></script><noscript><iframe src="http://res.levexis.com/clientfiles/default/11/lebara.htm" style="border:0px none ; width: 0px; height: 0px;"></iframe></noscript>
+	
+	</div> </div>
+	
 
 
 </body></html>
