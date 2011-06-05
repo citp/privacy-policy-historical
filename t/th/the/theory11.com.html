@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the theory11.com privacy policy that was archived on 2010-11-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101120112729id_/http%3A//www.theory11.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the theory11.com privacy policy that was archived on 2011-06-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110605231019id_/http%3A//www.theory11.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
 	 
@@ -14,13 +14,14 @@
 
 	<link rel="icon" type="image/x-icon" href="/favicon.ico">
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-	<link rel="stylesheet" type="text/css" media="screen,projection" href="http://media.theory11.com/lib/c/exoskeleton.php">
+	<link rel="stylesheet" type="text/css" media="screen,projection" href="http://cdn.theory11.com/css/exoskeleton-110604.css">
+	<!--<link rel="stylesheet" type="text/css" media="screen,projection" href="http://media.theory11.com/lib/c/exoskeleton.php" />-->
 
 	<!--[if lt IE 7]><link rel="stylesheet" type="text/css" media="screen,projection" href="http://media.theory11.com/lib/c/ie.css" /><![endif]-->
 	<!--[if IE 7]><link rel="stylesheet" type="text/css" media="screen,projection" href="http://media.theory11.com/lib/c/ie7.css" /><![endif]-->
 	<!--[if IE 8]><link rel="stylesheet" type="text/css" media="screen,projection" href="http://media.theory11.com/lib/c/ie7.css" /><![endif]-->
 
-	<script type="text/javascript" src="http://code.jquery.com/jquery-1.4.2.min.js"></script>
+	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="https://static.woopra.com/js/woopra.js" type="text/javascript" async=""></script><script type="text/javascript" src="http://code.jquery.com/jquery-1.4.2.min.js"></script>
 	<script src="http://cdn.theory11.com/js/slider-1.8.js" type="text/javascript"></script>
 	<script src="http://cdn.theory11.com/js/easing.js" type="text/javascript"></script>
 	<script src="http://cdn.theory11.com/js/shy.js" type="text/javascript"></script>
@@ -34,6 +35,8 @@
 	<script src="http://cdn.theory11.com/js/mocha.js" type="text/javascript"></script>
 	<script src="http://cdn.theory11.com/js/lights.js" type="text/javascript"></script>
 	<script src="http://cdn.theory11.com/js/instasearch.js" type="text/javascript"></script>
+
+
 
 </head>
 <body class="about story contentpage">
@@ -102,8 +105,8 @@
 	</h2>
 	
 	<ul>
-		<li class="tricks"><a href="http://www.theory11.com/tricks/"><strong>Tricks</strong> <small>Learn magic and&nbsp;cardistry</small></a></li>
-		<li class="cards"><a href="http://www.theory11.com/playingcards/"><strong>Cards</strong> <small>Our exclusive playing cards</small></a></li>
+		<li class="tricks"><a href="http://www.theory11.com/tricks/"><strong>Magic Tricks</strong> <small>Learn magic tricks and&nbsp;cardistry</small></a></li>
+		<li class="cards"><a href="http://www.theory11.com/playingcards/"><strong>Playing Cards</strong> <small>Our exclusive playing cards</small></a></li>
 		<li class="gear"><a href="http://www.theory11.com/gear/"><strong>Gear </strong> <small>Accessories, apparel and gifts</small></a></li>
 		<li class="media"><a href="http://media.theory11.com/"><strong>Media </strong> <small>Videos of magic from our users</small></a></li>
 		<li class="forums"><a href="http://forums.theory11.com/forum.php"><strong>Forums</strong> <small>Discussions and community</small></a></li>
@@ -117,9 +120,53 @@
 
 <div id="darkness"></div>
 
+<script src="http://cdn.theory11.com/js/cookies.js" type="text/javascript"></script>
+
+
+<div class="orange notification" id="jaqkdeck_notification">
+
+<a class="thumb" href="http://www.theory11.com/playingcards/jaqk-cellars-playing-cards.php">
+<img src="http://cdn.theory11.com/images/206x116/jaqk-cellars.jpg" alt="JAQK Playing Cards"></a><h2>
+<a href="http://www.theory11.com/playingcards/jaqk-cellars-playing-cards.php">Limited Edition: JAQK Playing Cards</a></h2>
+
+<a class="close"></a>
+
+<p>A collector's item. A masterpiece. The most elegant decks you've never seen. <a href="http://www.theory11.com/playingcards/jaqk-cellars-playing-cards.php">See Details</a></p>
+
+</div>
+
+<!-- only comment out the above part to remove notification -->
+
+<script type="text/javascript">
+    $(function() {
+
+        $('.notification a.close').click(function() { 
+            var notification = $(this).parents('.notification');
+            var id = notification.attr('id');
+            notification.hide();
+
+            $.cookie(id,'hidden', { expires: 21, path: '/', domain: 'theory11.com' });
+        });
+        
+        $('.notification').each(function() { 
+            var notification = $(this);
+            var id = notification.attr('id');
+            var value = $.cookie(id);
+            if(!value) {
+                notification.addClass('showing');
+            }
+        });
+
+    })
+</script>
+
+
+
 <div class="main container">
 
 <!-- crumbs and subnav -->
+
+
 <div id="top">
 
 
@@ -252,22 +299,22 @@
                 <h3 class="number">2007</h3>
                 <strong>Year Founded</strong>
 
-                <h3 class="number">325,596</h3>
+                <h3 class="number">348,028</h3>
                 <strong><a href="http://forums.theory11.com/">Forum Posts</a></strong>
                 
-                <h3 class="number">26,859</h3>
+                <h3 class="number">29,353</h3>
                 <strong>Unique Forum Threads</strong>
                 
-                <h3 class="number">15,811</h3>
+                <h3 class="number">23,034</h3>
                 <strong>Community Members</strong>
                 
-                <h3 class="number">2,435</h3>
+                <h3 class="number">2,788</h3>
                 <strong><a href="media.php">Media Section Videos</a></strong>
 
-                <h3 class="number">128</h3>
+                <h3 class="number">138</h3>
                 <strong><a href="tricks.php">Amazing Tricks</a></strong>
 
-                <h3 class="number">38</h3>
+                <h3 class="number">42</h3>
                 <strong><a href="artists.php">Official Artists</a></strong>
 
             </div>
@@ -362,8 +409,8 @@
 
 	<div class="copyright">
 
-		<p>© 2010 theory11 llc. All Rights Reserved. </p>
-		<p><em>theory11 and the theory11 logo are trademarks of theory11 llc. All other trademarks are the trademarks of their respective owners. </em></p>
+		<p>© 2011 theory11 llc. All Rights Reserved. </p>
+		<p><em>theory11 and the theory11 logo are trademarks of theory11 llc. All other trademarks are the trademarks of their respective owners. <a id="charmtest"></a></em></p>
 
 	</div><!-- //copyright -->
 
@@ -413,14 +460,40 @@
 </div>
 
 
-<!-- Woopra Code Start -->
-<script type="text/javascript" src="//static.woopra.com/js/woopra.v2.js"></script>
-<script type="text/javascript">
-woopraTracker.setDomain("theory11.com");
-woopraTracker.track();
-</script>
-<!-- Woopra Code End -->			
 
+<!-- Start of Woopra Code -->
+<script type="text/javascript">
+var woo_settings = {idle_timeout:'300000', domain:'theory11.com'};
+var woo_actions = [{type:'pageview',url:window.location.pathname+window.location.search,title:document.title}];
+(function(){
+var wsc = document.createElement('script');
+wsc.src = document.location.protocol+'//static.woopra.com/js/woopra.js';
+wsc.type = 'text/javascript';
+wsc.async = true;
+var ssc = document.getElementsByTagName('script')[0];
+ssc.parentNode.insertBefore(wsc, ssc);
+})();
+</script>
+<!-- End of Woopra Code -->
+		
+
+
+<!-- Google Analytics Start -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-2639244-1']);
+  _gaq.push(['_setDomainName', '.theory11.com']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>	
+<!-- Google Analytics End -->
 
 <!-- Clicky -->
 
@@ -440,6 +513,9 @@ reinvigorate.track("0z1g0-64qg7a3h5j");
 </script>
 
 <!-- -- Reinvigorate ---->
+
+
+
 
 
 
