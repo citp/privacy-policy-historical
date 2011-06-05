@@ -1,32 +1,30 @@
-> *The following text is extracted and transformed from the parship.co.uk privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220064130id_/http%3A//www.parship.co.uk/editorial/footer_navigation/privacy_policy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parship.co.uk privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605230712id_/http%3A//www.parship.co.uk/privacy-policy/index.htm) for the most accurate reproduction.*
 
-# PARSHIP: Find someone really right for you
+# Privacy policy | PARSHIP.co.uk
 
 ## Privacy policy
 
-### Privacy policy
+### This website is owned and operated by PARSHIP GMBH, Brandstwiete 1, 20457, Hamburg, Germany.
 
-This website is owned and operated by PARSHIP GMBH, Brandstwiete 1, 20457, Hamburg, Germany. 
+PARSHIP has created this privacy statement in order to demonstrate our firm commitment to your right to privacy and data protection. We handle all our information gathering and dissemination procedures with every reasonable safeguard for your protection. 
 
-### PARSHIP has created this privacy statement in order to demonstrate our firm commitment to your right to privacy and data protection. We handle all our information gathering and dissemination procedures with every reasonable safeguard for your protection.
-
-We confirm that all personal data handled and stored by us is done so in strict compliance with the UK Data Protection Act 1998. PARSHIP is notified under the Information Commissioner's Public Register of Data Controllers. This publicises details of our processing activities and allows you to understand how your data is being protected. Our registration number is PZ8911281. 
+We confirm that all personal data handled and stored by us is done so in strict compliance with the UK Data Protection Act 1998.
 
 ### What information do we process?
 
-We collect the information set out below from you during the registration process and your use of the PARSHIP service. By submitting this information (including sensitive personal information), you are explicitly agreeing to us processing that information in accordance with this Privacy Statement. Please remember that due to the nature of the PARSHIP service, any information that is disclosed to PARSHIP, except the guarantees of privacy that are stated below, can become public information. You should therefore exercise caution when disclosing personal information. 
+We collect the information set out below from you during the registration process and your use of the PARSHIP service. By submitting this information (including sensitive personal information), you are explicitly agreeing to us processing that information in accordance with this Privacy Statement. Please remember that due to the nature of the PARSHIP service, any information that is disclosed to PARSHIP, except the guarantees of privacy that are stated below, can become public information. You should therefore exercise caution when disclosing personal information.
 
 ### On registration with the website
 
-On initial registration we collate personal information such as your name, date of birth, e-mail address and postal address. We use this information for administrative purposes and to provide you with the PARSHIP service. So for example, we use your e-mail address to send you our newsletters and special offers (if you have chosen to receive them) and we use some of this information to help create your profile. For further information on how we use this information (in a non-identifiable way) for your profile, please see below. 
+On initial registration we collate personal information such as your name, date of birth, e-mail address and postal address. We use this information for administrative purposes and to provide you with the PARSHIP service. So for example, we use your e-mail address to send you our newsletters and special offers (if you have chosen to receive them) and we use some of this information to help create your profile. For further information on how we use this information (in a non-identifiable way) for your profile, please see below.
 
 ### My Profile
 
-To allow other registered users to be able to view a profile about you PARSHIP creates one from a combination of the registration data and personality test results in the My Profile section, which has links to the part of our service where you can upload photographs of yourself. You are also given the opportunity to change the description of yourself. We use the information you provide about your personal preferences (collated on registration and in the My Profile section) to help match you to a potential partner. Some of this information will be visible by other members, such as age, marital status, height, region, occupation etc. Your name, email address, home address and other specific 'identifier' data will NOT be visible to other users. Please remember that you can choose to delete or hide your profile at any time by selecting the relevant option in the 'My PARSHIP/Data & Settings' section of the website. 
+To allow other registered users to be able to view a profile about you PARSHIP creates one from a combination of the registration data and personality test results in the My Profile section, which has links to the part of our service where you can upload photographs of yourself. You are also given the opportunity to change the description of yourself. We use the information you provide about your personal preferences (collated on registration and in the My Profile section) to help match you to a potential partner. Some of this information will be visible by other members, such as age, marital status, height, region, occupation etc. Your name, email address, home address and other specific 'identifier' data will NOT be visible to other users. Please remember that you can choose to delete or hide your profile at any time by selecting the relevant option in the 'My PARSHIP/Data & Settings' section of the website.
 
 ### Communicate with other registered members via the website
 
-If you have registered with the website, we provide a means by which you can communicate with other registered members of the website. We do not use the information disclosed during these communications for any purpose. 
+If you have registered with the website, we provide a means by which you can communicate with other registered members of the website. We do not use the information disclosed during these communications for any purpose.
 
 ### Cookies and log files: 
 
@@ -42,7 +40,7 @@ We do not generally disclose personal information we have collected from you thr
 
 If you register as a member
 
-Information that you disclose to us may be disclosed to employees and agents of PARSHIP for them to administer your account and the gay-PARSHIP service.
+Information that you disclose to us may be disclosed to employees and agents of PARSHIP for them to administer your account and the PARSHIP service.
 
 Our users
 
@@ -62,27 +60,26 @@ If you subscribe to any of our services over this website, we use BIBIT Global P
 
 ### Newsletter unsubscribe:
 
-You can choose to remove yourself from our mailing list at any time, in the 'My PARSHIP/Data & Settings section of the website. 
+You can choose to remove yourself from our mailing list at any time, in the 'My PARSHIP/Data & Settings section of the website.
 
 ### Editing your information:
 
-You can access and edit any information you have previously entered by selecting the 'My PARSHIP/Data & Settings' section of the website. You can also deselect Email notification of further contact matches. 
+You can access and edit any information you have previously entered by selecting the 'My PARSHIP/Data & Settings' section of the website. You can also deselect Email notification of further contact matches.
 
 ### Security: 
 
-We have appropriate measures in place to ensure that personal information is protected against unauthorised access or use, alteration, unlawful or accidental destruction and accidental loss. However, we cannot guarantee the security of the information that you disclose to us. You accept the inherent risks of providing information and dealing on-line and will not hold us responsible for any breach of security unless this is due to our negligence or wilful default. 
+We have appropriate measures in place to ensure that personal information is protected against unauthorised access or use, alteration, unlawful or accidental destruction and accidental loss. However, we cannot guarantee the security of the information that you disclose to us. You accept the inherent risks of providing information and dealing on-line and will not hold us responsible for any breach of security unless this is due to our negligence or wilful default.
 
 ### Right to see your personal information: 
 
-You have the right to see your personal information (as defined under the Data Protection Act 1988) that we keep about you, upon receipt of a written request and payment of a fee. If you wish to make such a request or are concerned that any of the information we hold on you is incorrect or please contact us by writing to the Data Protection Officer, PARSHIP.co.uk, 4 Crinan Street, N1 9XW. 
+You have the right to see your personal information (as defined under the Data Protection Act 1988) that we keep about you, upon receipt of a written request and payment of a fee. If you wish to make such a request or are concerned that any of the information we hold on you is incorrect or please contact us by writing to the Data Protection Officer, PARSHIP.co.uk Brandstwiete 1, 20457 Hamburg, Germany.
 
 ### Changes:
 
-Any changes to this Privacy Policy will be posted on this page so that you are always aware of the information that we collect, how we use it, and under what circumstances we disclose it. 
+Any changes to this Privacy Policy will be posted on this page so that you are always aware of the information that we collect, how we use it, and under what circumstances we disclose it.
 
 ### Contacting PARSHIP:
 
 If you have any questions about this privacy statement, about navigating the website, or about the services that PARSHIP offers, please do not hesitate to contact:
 
-Tony Blin-Stoyle  
-PARSHIP Data Controller (UK). 
+support@parship.co.uk 
