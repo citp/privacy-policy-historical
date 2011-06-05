@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the findouter.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102003154id_/http%3A//www.findouter.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findouter.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605194321id_/http%3A//findouter.com/privacy.html) for the most accurate reproduction.*
 
 # Findouter's privacy policy
 
