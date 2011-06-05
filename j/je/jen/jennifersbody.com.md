@@ -1,75 +1,101 @@
-> *The following text is extracted and transformed from the jennifersbody.com privacy policy that was archived on 2010-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101208062537id_/http%3A//www.ugo.com/corporate/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jennifersbody.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605082536id_/http%3A//www.foxconnect.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy – UGO Entertainment - UGO.com
+# Privacy Policy
 
-This document describes the information gathering, use, and dissemination practices for UGO Entertainment, Inc., and its affiliate and subsidiary companies (“UGO”), in connection with the Web site located at [www.ugo.com](http://www.ugo.com/) and its related sites, including but not limited to:
+FoxConnect ("Fox Connect"), is part of the News America Group, which has adopted a set of Privacy Principles applicable to all its U.S.-based companies. Fox Connect has implemented those Principles in this Privacy Policy, which describes how we collect, use and share personally identifiable information ("PII") we obtain from and about individuals located in the U.S both online and offline.   
 
-(collectively, the “Sites”). This Privacy Statement addresses UGO’s practices regarding information collected only directly through or from the Sites – it does not address or govern any information gathering, use, or dissemination practices related to information collected other than directly through or from the Sites, including, without limitation, from or via telephone, facsimile, postal mail, personal delivery, or other or additional offline means or media. UGO can be contacted by mail at 670 Broadway, 2nd Floor, New York, NY 10012, by phone at (212) 624-3300, by facsimile at (212) 624-3310, or by e-mail at [privacy@ugo.com](mailto:privacy@ugo.com). California and Canadian residents have the right to know how their information may be shared with third parties who engage in direct marketing activities and this Privacy Statement explains our practices and how you can opt-out of having your information shared for such purposes.
 
-## Information Collection
+From time to time Fox Connect may revise this Privacy Policy to reflect industry initiatives or changes in the law, our PII collection and use practices, the features of our web sites, or technology. If we make revisions that change the way we collect or use your PII, those changes will be posted in this Privacy Policy and the effective date will be noted at the beginning of the Policy. Therefore, you should review it periodically so that you are up to date on our most current policies and practices. If Fox Connect materially changes its practices regarding collection or use of your PII, your PII will continue to be governed by the Policy under which it was collected unless you have been provided notice of and have not objected to the change.   
 
-UGO may collect or track (1) the e-mail addresses of visitors that communicate with UGO via e-mail, and (2) information knowingly provided by the visitor in online forms, registration forms, forums, surveys, contests, polls, e-mail, the “Contact Us” section of the Sites, and other online avenues (including, without limitation, demographic, interests, behavior, and personal profile data), (3) the home server domain names, e-mail addresses, IP addresses, type of client computer, files downloaded, search engine used, operating system, and type of Web browser of visitors to the Sites and persons responding to polls, and (4) aggregate and visitor-specific information regarding which pages visitors access. For example:
 
-### Registration
+**_COLLECTION:_** _COLLECTION OF PERSONALLY IDENTIFIABLE INFORMATION ("PII") BY FOX CONNECT_
 
-In order to submit content or participate in the community forums on the Sites, sign up for and/or use UGO services, such as online games, a visitor may be asked to first complete a registration form. During registration a visitor may be required to give their contact information (such as name and email address).
+General. Fox Connect collects personally identifiable information ("PII", that is, information such as your full name, email address, mailing address, credit card information or telephone number) in order to provide you with a requested service or to create or enhance our relationship with you. When we collect PII from you it is because you are voluntarily submitting the information to us in order to participate in activities like sweepstakes, contests, games, surveys, forums, subscription registrations in connection with content or suggestions you submit to us, chats, bulletin boards, or because you want us to furnish you with products, services or information. We may also obtain PII from reputable third parties.    
 
-### Information Collected Via Log Files And Cookies
 
-While a visitor is on the Sites, UGO automatically tracks certain information through log files and, on some pages, through cookies (a cookie is a piece of data stored on the visitor\'s hard drive containing information about the visitor) or Web bugs (a Web “bug” is a file object, which can be a graphic image such as a transparent one pixel-by-one pixel graphics file, which is placed on a Web page or in an e-mail message to monitor user activity). This information may include data regarding a visitor’s most recent visit, the URL they came from, the URL they visit next, the browser they are using, and their IP address. UGO evaluates this data on an aggregate basis and does not associate the information with a visitor’s personal identity.
+Cookies. Cookies are small bits of information that the Internet sites operated by Fox Connect place on the hard drive of your computer. Cookies remember information about your activities on our site and enable Fox Connect to make your visits to our site more enjoyable. For example, cookies can track the things you have placed your "shopping cart" during a visit to our online store. Information about your activities on Fox Connect’s site(s) and other non-personally identifiable information about you may also be used to limit the online ads you encounter to those we believe are consistent with your interests.   
 
-### Newsletter
 
-If a visitor wishes to subscribe to our newsletter, UGO asks for contact information such as name and email address. UGO presents the option to not receive these types of communications. Please see our choice and opt-out below.
+Third party advertisements displayed on Fox Connect's site(s) may also contain cookies set by Internet Advertising companies or advertisers. Fox Connect does not control these cookies and visitors to our web site(s) sent by Internet Advertisers or other companies should check the privacy policy of the advertiser to see whether and how it uses cookies. A pixel tag is a tiny image inserted in a webpage and used to record the number and types of views for that page. Fox Connect may allow third party pixel tags to be present on Fox Connect sites for purpose of advertising, providing services or data and statistics collection. We also may use pixel tags in order to recognize users and assess traffic patterns, and we may include pixel tags and cookies in our e-mail messages in order to count how many e-mail messages have been opened.   
 
-### Surveys, Polls, & Contests
 
-From time-to-time our Sites request information from visitors via surveys, polls, contests, sweepstakes, or other promotions, either sponsored by UGO or one of its business partners. Participation in these surveys, contests, or polls is completely voluntary and the visitor therefore has a choice whether or not to disclose any information (although, for example, mailing address and demographic information may be required to enter contests). Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level).
+Fox Connect may use cookies, pixels or similar tools to relate your use of our web site(s) to PII obtained from you or a reputable third party. For example, if you've asked us to send you information about our upcoming products or promotions, cookie and/or click stream information about your activities on Fox Connect's website(s) may allow us to limit the materials we send you to items we think you will find interesting, based on your prior online activities and preferences. However, if Fox Connect wishes to combine your personal and cookie or clickstream information in this manner, we will obtain your express affirmative consent (i.e., "opt in").   
 
-### Tell-A-Friend
 
-If a visitor elects to use our referral service for informing a friend about our Sites, UGO asks them for the friend\'s name and email address.
+You can program your computer to warn you each time a cookie is being sent or to refuse cookies completely. However, without cookies you won't be able to conduct transactions such as placing an order via our shopping cart or completing a sale for any VHS or DVD merchandise.   
 
-### Special Offers
 
-UGO sends all new members a welcoming email to verify password and username. Established members will occasionally receive information on products, services, special deals, and a newsletter. Out of respect for the privacy of our visitors UGO presents the option to not receive these types of communications. Please see our choice and opt-out below.
+**_NOTICE:_** _FOX CONNECT WILL PROVIDE YOU WITH NOTICE ABOUT ITS PII COLLECTION PRACTICES_
 
-## Use of Information
+When you voluntarily provide PII to Fox Connect, we will make sure you are informed about who is collecting the information, how and why the information is being collected and the types of uses Fox Connect will make of the information. At the time you provide PII, Fox Connect will notify you of your options regarding our use of your PII, including whether we will share it with outside companies (See "Choice" below).   
 
-Personal data collected by UGO may be used by UGO for many reasons, for example, for editorial and feedback purposes, for marketing and promotional purposes, such as to deliver advertisements and promotions targeted to our visitor’s interests, for a statistical analysis of visitors’ behavior, for product development, for content improvement, to deliver promotional information from UGO or its sponsors provided the visitor opted in for these notifications, to contact a visitor, or to customize the content and layout of the Sites. Aggregate visitor data may be used for internal purposes, and individually identifying information, such as names, postal and e-mail addresses, phone numbers, and other personal information which visitors voluntarily provide to UGO may be added to UGO’s databases and used for future calls, mailings, and other communications regarding updates of Sites, new products and services, and upcoming events. Aggregate visitor data may be provided to marketing firms and other organizations that provide marketing and/or marketing support services to UGO.
 
-In addition, registration information may be used to contact the visitor about the services on our Sites for which they have expressed interest. For example, contest information may be used to notify the winners and award prizes and as otherwise set forth in this Privacy Statement. Survey and poll information may be used for purposes of monitoring or improving the use and satisfaction of the Sites, and as otherwise set forth in this Privacy Statement. Tell-A-Friend information may be used by UGO to send the friend a one-time email inviting them to visit the Sites (UGO stores this information for the sole purpose of sending this one-time email). Information collected via cookies or Web bugs may be used to analyze trends, administer the Sites, track visitor\'s movement, and gather broad demographic information for aggregate use.
+This Policy describes the types of other companies that may want to send you information about their products and services and therefore want to share your personal information provided you have given Fox Connect permission to do so (See "Use" below).   
 
-## Disclosure of Information
 
-Identifiable or non-identifiable data may be disclosed or distributed (1) to another party with which UGO enters or reasonably may enter into a corporate transaction, such as, for example, a merger, consolidation, acquisition, or asset purchase, (2) to a third party (a) pursuant to a subpoena, court order, or other form of legal process, (b) in response to a request by or on behalf of any local, state, federal, or other government agency, department, or body, whether or not pursuant to a subpoena, court order, or other form of legal process, or (c) if determined by UGO in its sole judgment that such disclosure or distribution is appropriate to protect the life, health, rights, or property of UGO or any other person or entity, or (3) as necessary to third parties under contract with UGO to improve and provide services associated with the Sites. In situations involving bankruptcy or insolvency, the database containing personal data may be treated as an asset of UGO. Identifiable and non-identifiable visitor information and data which visitors provide to UGO also may be provided to third parties that provide products, information, or services which UGO believes that visitors may be interested in directly or indirectly purchasing or obtaining.
+Sometimes we collect personally identifiable information from consumers in manual format or off-line, such as a post card or subscription form. Providing detailed notice in those situations often proves impractical, so consumers will instead be provided with a short notice that describes how to obtain the full text of this Policy and other relevant information from us.   
 
-While UGO may undertake efforts to see that any third party to or with which UGO shares, rents, sells, or otherwise discloses personal data is under a contractual obligation to use the personal data solely for the purposes for which the data was disclosed, UGO is not responsible for their conduct, actions, omissions, or information handling or dissemination practices and UGO will not be liable therefor.
 
-## Choice/Opt-out
+Fox Connect's web site(s) may be linked to Internet sites operated by other companies. Some of these third party sites may be co-branded with a Fox Connect logo, even though they are not operated or maintained by Fox Connect. Fox Connect's web site(s) may also carry advertisements from other companies. Fox Connect is not responsible for the privacy practices of web sites operated by third parties that are linked to our site(s) or for the privacy practices of third party or national Internet Advertising companies. Once you've left a Fox Connect site via such a link or by clicking on an advertisement, you should check the applicable privacy policy of the third party or advertiser site to determine how they will handle any PII they collect from you.   
 
-Except as necessary for UGO to provide the services, information, or products requested by a visitor, the visitor may opt out of having his or her personally identifiable information, which has been voluntarily provided to UGO through an online form, registration form, forum, survey, contest, poll, the “Contact Us” section of the Sites, or other similar mechanism, prospectively retained by UGO, used by UGO for secondary purposes, or disclosed by UGO to third parties by updating your information at the member information page or contacting UGO via postal mail, e-mail, facsimile, or telephone at the address or numbers set out above. Once UGO has implemented the visitor’s request, UGO will prospectively cease retaining, using for secondary purposes, or disclosing to third parties the personally identifiable information identified by the visitor in his or her request, to the extent directed in the request, except as required by law. (This does not apply to collection of the type of Web browser of the visitor to the Sites or to information provided or collected that does not meet the above description.)
 
-## Third Party Advertisements, Products, and Services
+Fox Connect's web site(s) may also be linked to sites operated by companies affiliated with Fox Connect (i.e., that are part of the News America Group). Although News America Group entities adhere to the Group's Privacy Principles, visitors to those affiliated sites should still refer to their separate privacy policies and practices, which may differ in some respects from this Policy.   
 
-The Sites contains links to other Web sites, advertisements for or placed by third parties, and products or services provided by third party business development partners. UGO is not responsible for the privacy practices of such Web sites, advertisers, or third parties, the products or services provided, or for the content of such sites or advertisements. It is possible that these portions of the Sites, links, or advertisements, themselves, may be used by third parties or others to collect personal or other information about Sites visitors. Often, these companies employ cookie and 1x1 pixel/Web bug technology to collect and use anonymous information about your visits to such Web sites and other Web sites to track the performance of an ad program. In addition, UGO may use third-party advertising companies and networks to serve ads to you on our behalf when you visit our websites. Both UGO and these companies may use information (not including your names, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. It is solely the visitors’ obligation to review and understand the privacy practices and policies of these other Web sites and of these advertisers and third parties. If you would like more information about this practice and to know your choices about not having this information used by other companies, please visit <http://www.networkadvertising.org/optout_nonppii.asp>.If you want to opt out of UGO itself using your information for the purpose of sending you targeted advertisements, please send an email to [privacy@ugo.com](mailto:privacy@ugo.com) with the words “Opt Out” in the subject.
 
-## Non-U.S. Users
+**_CHOICE:_** _FOX CONNECT WILL PROVIDE YOU WITH CHOICES ABOUT THE USE OF YOUR PII_
 
-If you are located outside of the United States, please note that the information you provide to us will be transferred to the United States. By using these Sites, you consent to this transfer. You also consent to the adjudication of any disputes arising in connection with the Sites in the federal and state courts of, and in accordance with the laws of, the state of New York.
+Fox Connect will not use the PII you provide to us for purposes different from the purpose for which it was submitted or share your PII with third parties that are not affiliated with Fox Connect (i.e, not part of the News America Group), except as disclosed in this Privacy Policy or unless we obtain your permission.    
 
-## Security
 
-UGO has implemented numerous security features designed to prevent the unauthorized release of or access to personal information. Please be advised that the confidentiality of any communication or materials transmitted to or from UGO via the Sites or e-mail cannot be guaranteed. Accordingly, UGO is not responsible for the security of information transmitted via the Internet. Instead of communicating with UGO via e-mail or the Internet, visitors can contact UGO by mail, phone, or facsimile at the address or numbers set forth at the beginning of this Privacy Statement. The site located at www.heromachine.com provides for payment via the PayPal system. Payments made through the www.heromachine.com website using PayPal and the information provided during that process are governed solely by the PayPal privacy and security policies, which are located at [www.paypal.com](http://www.paypal.com/).
+**_USE:_** _FOX CONNECT'S USE OF PII_
 
-## Children Under 13
+Fox Connect will use your PII in a manner that is consistent with this Policy. If Fox Connect obtains PII from a third party such as a business partner, our use of that information is governed by this policy.   
 
-The Sites must not be used by children under 13. Children under 13 MUST not submit personal information.
 
-## Changes and Updates
+Fox Connect may share your PII with companies that are affiliated with us, that is are part of the News America Group of companies. Provided you have given us consent, Fox Connect may also share your PII with advertisers and business partners that are not affiliated with Fox Connect, but would like to send you information about their products and services. However, you will always have the opportunity to instruct us not to share your information with third parties when PII is collected.    
 
-UGO may amend this Privacy Statement at any time by posting the amended policy on the Sites. The amended policy shall automatically take effect 30 days after it is first posted on the Sites. Continued use of the Sites after any changes made to this Privacy Statement signifies a visitor’s understanding, intention and agreement to be bound by such change. It is the visitor’s responsibility to monitor this Privacy Statement for changes. Any change to this Privacy Statement shall be effective as to any visitor who has visited the Sites before the change was made.
 
-This Privacy Statement is effective February 9, 2009.
+Fox Connect employees, agents and contractors must have a legitimate business reason to obtain access to your PII. Fox Connect may share your PII with outside contractors or agents who provide services on our behalf. Examples of such services include without limitation website hosting, ad serving, customer service, product purchase services (including order, fulfillment and payment authorization and processing services), fraud prevention and investigation, data analysis and promotional assistance (including sending communications and creating, administering and operating contests, sweepstakes or other games). Such outside contractors or agents may only use PII to provide Fox Connect with a specific service and not for any other purpose unless specified on the Fox Connect website or on any third party website where you participate in the activity(ies).    
 
-Copyright© 2009 UGO Entertainment, Inc. All rights reserved.
+
+There may be instances when Fox Connect may disclose PII without providing you with a choice in order to protect the legal rights of Fox Connect, other companies within the News America Group or their employees, agents and contractors; to protect the safety and security of visitors to our web sites; to protect against fraud and for risk management purposes; or to comply with the law or legal process. In addition, if Fox Connect sells all or part of its business or makes a sale or transfer of assets or is otherwise involved in a merger or business transfer, Fox Connect may transfer your PII to a third party as part of that transaction.   
+
+
+**_SECURITY:_** _FOX Connect PROTECTS THE SECURITY OF PII_
+
+Fox Connect uses reasonable administrative, technical, personnel and physical measures to safeguard PII in its possession against loss, theft and unauthorized use, disclosure or modification. In addition, Fox Connect uses reasonable methods to make sure that PII is accurate, up-to-date and appropriately complete.   
+
+
+**_ACCESS:_** _HOW TO ACCESS, CORRECT OR DELETE YOUR PII_
+
+Visitors to Fox Connect websites may review the PII we maintain about them in our records whenever possible. If you would like to review, correct, or delete this information.  
+
+
+Fox Connect C/O Twentieth Century Fox Home Entertainment Online  
+20102 South Vermont Avenue  
+Torrance, CA 90502  
+Telephone:(888) 223-4369  
+International Callers: (310) 217-4764  
+Fax: (888) 443-4369  
+Email: [privacypolicy@foxhome.com](mailto:privacypolicy@foxhome.com)   
+
+
+Unless otherwise indicated by Fox Connect, your usual operator rates apply to all telephone, email, SMS or other communications.   
+
+
+**_REMEDIES AND COMPLIANCE:_** _HOW TO CONTACT FOX CONNECT ABOUT PRIVACY CONCERNS_
+
+Fox Connect welcomes any suggestions on how to make Fox Connect a better and safer place. If you would like to communicate with us about our Privacy Policy or have privacy issues or complaints regarding this policy, please contact us at:   
+
+
+Fox Connect  
+C/O Twentieth Century Fox Home Entertainment Online  
+20102 South Vermont Avenue  
+Torrance, CA 90502  
+Telephone: (888) 223-4369  
+International Callers: (310) 217-4764  
+Fax: (888) 443-4369  
+Email: [privacypolicy@foxhome.com](mailto:privacypolicy@foxhome.com)   
+
+
+Unless otherwise indicated by Fox Connect, your usual operator rates apply to all telephone, email, SMS or other communications.
