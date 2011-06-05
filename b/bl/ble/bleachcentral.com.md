@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bleachcentral.com privacy policy that was archived on 2010-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100729213137id_/http%3A//www.bleachcentral.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bleachcentral.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605072810id_/http%3A//www.fandom.com/privacy_policy) for the most accurate reproduction.*
 
-# Bleach Central | Privacy Policy
+# Privacy Policy - Fandom
 
 PRIVACY POLICY
 
@@ -202,6 +202,6 @@ _CONTACT INFORMATION AND INFORMATION ABOUT ENFORCEMENT OF OUR POLICY._
 
 For customer service matters (including questions relating to this Policy), you may email us at info@fandom.com. To send us a legal notice, mail it by certified mail (return receipt requested) to: PO Box 807 Venice, CA 90294. When we need to contact you, including when we give a legal notice, we may do so to an email address that we have on file for you or to your Fandom email account, or we may post notice on the Site. You must keep your email address information accurate. If we make a material change to this Policy, we will notify you by posting notice to the Site for at least 30 days and sending you an email to your Fandom email account or to the non-Fandom email address that we have on record for you.
 
-Copyright © 2009. Fandom Entertainmentt LLC
+Copyright © 2009. Fandom Entertainment LLC
 
 [Individual Ad Network Opt-out](http://www.networkadvertising.org/managing/opt_out.asp)
