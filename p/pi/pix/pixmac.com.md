@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pixmac.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230132610id_/http%3A//www.pixmac.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pixmac.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605125546id_/http%3A//www.pixmac.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Pixmac
 
@@ -64,6 +64,18 @@ We use the addthis widget within our blog section to allow our users to share bl
 
 Pixmac offers a blog on the Web Site. If you use the Pixmac' blog, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these discussion threads, blogs or comment boxes.   
 We use the widget within our blog section to allow our users to share blog posts from our site on social networking sites in which they obtain accounts. Pixmac has no access or control over these third party sites.
+
+##  Facebook plugins
+
+Our website uses social plugins (“plugins”) provided by the social network facebook.com, operated by Facebook Inc., 1601 S. California Avenue, Palo Alto, CA 94304, USA (“Facebook”). The plugins are identifiable by a Facebook logo (white letter f on blue background or a thumb up icon) or the notice “Facebook Social Plugin”. For a full list of all social Plugins please seehttp://developers.facebook.com/plugins.
+
+When you visit a page of our website that contains a social plugin, your browser establishes a direct connection to Facebook servers. Facebook directly transfers the plugin content to your browser which embeds the latter into the website, enabling Facebook to receive information about your having accessed the respective page of our website. Thus we have no influence on the data gathered by the plugin and inform you according to our state of knowledge:
+
+The embedded plugins provide Facebook with the information that you have accessed the corresponding page of our website. If you are logged into Facebook, your visit can be assigned to your Facebook account. If you interact with the plugins, for example by clicking “Like”, or entering a comment, the corresponding information is transmitted from your browser directly to Facebook and stored by it. Even if you are not logged into Facebook, there is possibility that the plugins transmits your IP-address to Facebook.
+
+For the information on the purpose and scope of data collection and procession by Facebook, as well as your rights in this respect and settings options for protecting your privacy please visit Facebook’s privacy policy:http://www.facebook.com/policy.php.
+
+ If you are a Facebook member and do not want Facebook to connect the data concerning your visit to our website with your member data already stored by Facebook, please log off Facebook before entering our website. Further you can block Facebook social Plugins by using add-ons for your browser, like the “Facebook Blocker“.
 
 ##  Links
 
