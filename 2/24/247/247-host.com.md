@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 247-host.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227212158id_/http%3A//247-host.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 247-host.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606002331id_/http%3A//www.247-host.com/privacy.html) for the most accurate reproduction.*
 
 # 247-host.com Web Hosting Solutions Worldwide
 
