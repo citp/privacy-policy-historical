@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dailyhoroscope.com privacy policy that was archived on 2010-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101210031036id_/http%3A//www.dailyhoroscope.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyhoroscope.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605064638id_/http%3A//www.dailyhoroscope.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | dailyhoroscope.com
+# DH Privacy Policy
 
 Dailyhoroscope.com has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with 
 
