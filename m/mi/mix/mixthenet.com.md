@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mixthenet.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120213712id_/http%3A//www.mixthenet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mixthenet.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605201050id_/http%3A//www.mixthenet.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
