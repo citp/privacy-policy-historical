@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the confetti.co.uk privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205044429id_/http%3A//www.confetti.co.uk/article/view/6793-8280-0-Privacy_policy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the confetti.co.uk privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605191552id_/http%3A//www.confetti.co.uk/article/view/6793-8280-0-Privacy_policy.do) for the most accurate reproduction.*
 
 # Privacy policy
 
