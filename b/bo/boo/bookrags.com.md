@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookrags.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228024314id_/http%3A//www.bookrags.com/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookrags.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605054342id_/http%3A//www.bookrags.com/about/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,11 +8,11 @@ BookRags may, from time to time send you information about your BookRags account
 
 BookRags may use personally identifiable information, without limitation, to email you updates on your service, general product updates, notices regarding material changes to the site policies, subscription updates and changes, customer service issues, and special offers from BookRags or its partners or affiliates. 
 
-You may choose at any time to opt out of receiving some or all of these communications. To change your settings, please visit "Privacy Settings" under your [My Account](https://web.archive.org/account/) page. You can also select 'unsubscribe' from any of the emails that you receive. 
+You may choose at any time to opt out of receiving some or all of these communications. To change your settings, please visit "Privacy Settings" under your [My Account](https://web.archive.org/account/?CSRT=11018149073553291020) page. You can also select 'unsubscribe' from any of the emails that you receive. 
 
 Because some communications are important to ensure that we provide our users with the highest quality of service, our members cannot opt out of email contact on changes in site policies, customer support services, or any other issues deemed by BookRags to be important to communicate. 
 
-BookRags uses some of your personal information in accordance with the Terms of Service. We may also engage a co-registration program with our partners and we will be able to communicate with you and use demographic data about you. To change your settings, please visit "Privacy Settings" under your [My Account](https://web.archive.org/account/) page. 
+BookRags uses some of your personal information in accordance with the Terms of Service. We may also engage a co-registration program with our partners and we will be able to communicate with you and use demographic data about you. To change your settings, please visit "Privacy Settings" under your [My Account](https://web.archive.org/account/?CSRT=11018149073553291020) page. 
 
 We also reserve the right to assign, sell, license, or otherwise transfer to a third party your personally identifiable information in connection with an assignment, sale, joint venture, or other transfer of all or substantially all of our assets. 
 
