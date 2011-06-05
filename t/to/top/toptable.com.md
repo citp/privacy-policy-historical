@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toptable.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205010610id_/http%3A//www.toptable.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toptable.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605071920id_/http%3A//www.toptable.com/privacy) for the most accurate reproduction.*
 
 # Privacy statement
 
@@ -39,7 +39,7 @@
 
 
 
-By providing your personal details to us, you signify your acceptance of our Privacy Statement. If you do not agree to this statement, please do not provide your personal details to us. This privacy statement is incorporated into, and part of, the Terms and Conditions, which govern your use of the site in general. We will use your information for the purposes set out in paragraph 5 below. You will have an opportunity to unsubscribe whenever we communicate with you. To unsubscribe from toptable.co.uk communications please send an email to [info@toptable.co.uk](mailto:info@toptable.co.uk) with 'unsubscribe' in the subject box. 
+By providing your personal details to us, you signify your acceptance of our Privacy Statement. If you do not agree to this statement, please do not provide your personal details to us. This privacy statement is incorporated into, and part of, the Terms and Conditions, which govern your use of the site in general. We will use your information for the purposes set out in paragraph 5 below. You will have an opportunity to unsubscribe whenever we communicate with you. To unsubscribe from toptable.co.uk communications please send an email to [general@toptable.com](mailto:general@toptable.com) with 'unsubscribe' in the subject box. 
 
 We may need to update this privacy statement from time to time. We recommend that you regularly check this page to ensure that you have read the most recent version. 
 
@@ -59,21 +59,29 @@ By providing any personal information to us, you fully understand and clearly co
 
 We will use information collected from you in the following ways: 
 
-**Marketing purposes**. We may use information for internal marketing analysis, for example, to assess trends amongst our consumers or to measure the amount of traffic to our websites. We may also use your personal information in order to communicate with you about our products and services and those of our subsidiaries, affiliates, and parent companies and any of their related businesses. However, you will be able to opt out of these communications. We may also share non-personal information with others, such as advertisers, in aggregate anonymous form, which means that the information will not contain any personally identifiable information about you. 
+**Marketing purposes** : We may use information for internal marketing analysis, for example, to assess trends amongst our consumers or to measure the amount of traffic to our websites. When you give permission for us to contact you, we use your personal information to tell you about our products and services and those of our subsidiaries, affiliates, and parent companies and any of their related businesses via email. A permission given _on or after 1st Feb 2011_ means you consent to be contacted via email or SMS. However, you will be able to opt out of these communications at any time. We may also share non-personal information with others, such as advertisers, in aggregate anonymous form, which means that the information will not contain any personally identifiable information about you. 
 
-**Transactional purposes**. We may use your personal information in order to respond to your queries and requests and to manage transactions such as credit card payments for any goods that you order from us or any of our agents, or for the fulfilment of such transactions (e.g. delivery). The personal information you provide may be used by an authorised vendor to fulfil that order. 
+**To restaurants** : When you make a restaurant reservation using toptable, your name, telephone number and email address are provided to that restaurant, so that they can, if necessary, confirm any details about applicable dietary requirements, special preferences or requests, set menus, group bookings etc. Your email address is not provided to that restaurant for marketing purposes unless you specifically indicate that you are interested in receiving promotional emails from that restaurant. 
 
-**Third party offers**. We may arrange for carefully selected organisations to send you marketing and promotional information that may be of interest to you. In such circumstances your personal information may be disclosed to these organisations who will agree to be bound by the terms of this privacy statement. We will obtain your permission before we send you any such communications. 
+toptable will only share the information specified above with the restaurant at which you have made reservations using toptable. Restaurants cannot access information pertaining to diners or dining histories from other restaurants, with the exception that restaurants under the same corporate ownership may elect to share diner information between restaurant properties.
 
-**Public (or Interactive) Areas of the Site**. Information that you post on or through the public areas of the site (e.g., chat rooms, bulletin boards and discussion groups) are generally accessible to, and may be collected and used by, others and may result in unsolicited messages or other contact from others. Users of the site are encouraged to exercise caution when providing personal information about themselves in public areas of this site. 
+Restaurants may receive summary reports of feedback from recent diners. If you provide comments about a restaurant (via a toptable review) these will be shared with that restaurant anonymously. However there is the potential that a restaurant may associate a particular feedback with your dining reservation. You may choose not to be anonymous while submitting your comments if you specify your identity or provide contact information such as an email address for the restaurant to use in response to your feedback.
 
-**Sale and Transfer**. In the event of a sale, merger, consolidation, change in control, transfer of substantial assets, reorganisation or liquidation, we may transfer, sell, or assign to third parties information concerning your relationship with us, including without limitation, personally identifiable information that you provide and other information concerning your relationship with us. 
+**Email from restaurants** : You may also consent to receive marketing communications from the restaurant at which you've made a reservation. toptable plays no role in the content, frequency, timing or unsubscription process of any restaurant's marketing communications. If you would like to unsubscribe from a restaurant's marketing communications, please contact the appropriate restaurant directly.
 
-**Administration and Data Management**. We may transfer your personal information to third parties under confidentiality obligations when the performance of any service in relation to the activities above is sub-contracted (e.g. the administration of a marketing campaign). 
+**Transactional purposes** : We may use your personal information in order to respond to your queries and requests and to manage transactions such as credit card payments for any goods that you order from us or any of our agents, or for the fulfilment of such transactions (e.g. delivery). The personal information you provide may be used by an authorised vendor to fulfil that order. Notwithstanding the forgoing, we do not store your financial details.
 
-**Legal purposes**. We may disclose your personal information if permitted by law or required to do so by law or where we believe such action is necessary in order to protect or defend our interests or the interests of our customers or users of our site. 
+**Third party offers** : We may arrange for carefully selected organisations to send you marketing and promotional information that may be of interest to you. In such circumstances your personal information may be disclosed to these organisations who will agree to be bound by the terms of this privacy statement. We will obtain your permission before we send you any such communications. 
 
-**Links**. This site may contain links or references to other Web sites outside of our control. Please be aware that we have no control over these sites and our privacy statement does not apply to these sites. We encourage you to read the privacy statements and terms and conditions of linked or referenced sites you enter. 
+**Public (or interactive) areas of the site** : Information that you post on or through the public areas of the site (e.g., chat rooms, bulletin boards and discussion groups) are generally accessible to, and may be collected and used by, others and may result in unsolicited messages or other contact from others. Users of the site are encouraged to exercise caution when providing personal information about themselves in public areas of this site. 
+
+**Sale and transfer** : In the event of a sale, merger, consolidation, change in control, transfer of substantial assets, reorganisation or liquidation, we may transfer, sell, or assign to third parties information concerning your relationship with us, including without limitation, personally identifiable information that you provide and other information concerning your relationship with us. 
+
+**Administration and data management** : We may transfer your personal information to third parties under confidentiality obligations when the performance of any service in relation to the activities above is sub-contracted (e.g. the administration of a marketing campaign). 
+
+**Legal purposes** : We may disclose your personal information if permitted by law or required to do so by law or where we believe such action is necessary in order to protect or defend our interests or the interests of our customers or users of our site. 
+
+**Links** : This site may contain links or references to other Web sites outside of our control. Please be aware that we have no control over these sites and our privacy statement does not apply to these sites. We encourage you to read the privacy statements and terms and conditions of linked or referenced sites you enter. 
 
 **3\. Use of cookies**
 
@@ -101,4 +109,4 @@ We take security seriously and we take precautions to keep your personal informa
 
 **5\. Your details and contacting us**
 
-You can check what personal information we hold about you, update your information, ask us to remove your information, correct any inaccuracies in such personal information or ask us questions about our Privacy Statement, by contacting us at [info@toptable.co.uk](mailto:info@toptable.co.uk) We will make every effort to respond to your request in a timely manner. 
+You can check what personal information we hold about you, update your information, ask us to remove your information, correct any inaccuracies in such personal information or ask us questions about our Privacy Statement, by contacting us at [general@toptable.com](mailto:general@toptable.com) We will make every effort to respond to your request in a timely manner. 
