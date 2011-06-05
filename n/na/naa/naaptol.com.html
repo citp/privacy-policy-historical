@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the naaptol.com privacy policy that was archived on 2010-12-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101228153916id_/http%3A//www.naaptol.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the naaptol.com privacy policy that was archived on 2011-06-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110605080939id_/http%3A//www.naaptol.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <html><head>
 
@@ -32,6 +32,7 @@ pageTracker._trackPageview();
 <div id="Wrapper">
 	  
 				 
+
 <link rel="alternate" type="application/rss+xml" title="The latest products with lowest price in naaptol" href="/rss.xml">
 <link rel="shortcut icon" href="http://images.naaptol.com/usr/local/csp/staticContent/naaptolImages/np.gif" type="image/x-gif">
 
@@ -52,10 +53,17 @@ pageTracker._trackPageview();
 		path= document.getElementById("contextPathJsp").value;
 }
 </script>
-<div class="npads" style="width:728px;height:90px;padding:10px 0px;text-align:center;margin:0px auto;" align="center"><!--/* OpenX iFrame Tag v2.8.5 */-->
 
-<iframe id="a0712d74" name="a0712d74" src="http://adserver.naaptol.com/openx/www/delivery/afr.php?zoneid=341&amp;target=_blank&amp;cb=INSERT_RANDOM_NUMBER_HERE" frameborder="0" scrolling="no" width="728" height="90"><a href='http://adserver.naaptol.com/openx/www/delivery/ck.php?n=ac9f6414&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://adserver.naaptol.com/openx/www/delivery/avw.php?zoneid=341&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=ac9f6414' border='0' alt='' /></a></iframe></div>
 
+
+
+
+          <div class="npads" style="width:728px;height:90px;padding:10px 0px;text-align:center;margin:0px auto;" align="center">  
+            	<!--/* OpenX iFrame Tag v2.8.5 */-->
+
+<iframe id="a0712d74" name="a0712d74" src="http://adserver.naaptol.com/openx/www/delivery/afr.php?zoneid=341&amp;target=_blank&amp;cb=INSERT_RANDOM_NUMBER_HERE" frameborder="0" scrolling="no" width="728" height="90"><a href='http://adserver.naaptol.com/openx/www/delivery/ck.php?n=ac9f6414&cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://adserver.naaptol.com/openx/www/delivery/avw.php?zoneid=341&cb=INSERT_RANDOM_NUMBER_HERE&n=ac9f6414' border='0' alt='' /></a></iframe>
+            </div>
+            
 <div id="NaaptolHeadNew">
 <div id="cspLogin"> 
 
@@ -66,8 +74,9 @@ pageTracker._trackPageview();
 
 
 
-<script language="JavaScript" type="text/javascript">
-function addInLogFiles(sellerId,productId,catId,url,divId){
+
+<script language="JavaScript" type="text/javascript"> 
+ function addInLogFiles(sellerId,productId,catId,url,divId){
 	var urlUpdate = url;
 	while(urlUpdate.indexOf('&') > -1)
 	{
@@ -88,33 +97,50 @@ function naaptolAffiliateTracking(url){
 		url = "http://"+url;
 	window.open(url);
 }
+function socialnetwork_authenticate(providerId)
+{
+window.open ('/components/thirdparty/socialnetwork/socialnetwork.jsp?id='+providerId,"socialnetworklogin","status=1,width=400,height=400"); 
+}
 
+//method added to remove cookie of product added to cart
+function removeCookie(splrfnum,refreshHeader){
+		invoke("/faces/jsp/updatedShoppingCartPage.jsp?splrfnumIdToRemove="+splrfnum,"displayDiv");	
+		var obj=document.getElementById("cookieDetails");
+		obj.style.visibility = "hidden";
+		obj.style.display = "none";
+	
+	}
 </script>
 <div id="changeHeader">
-<table cellpadding="0" cellspacing="0" border="0"><form id="readMore" action="" method="POST"></form><input type="hidden" name="tab" value="tcontent4"><input type="hidden" name="viewType" value="">
-<form id="buyNow" action="" method="POST"></form><input type="hidden" name="viewType" value=""><form id="minPrice" action="" method="POST"></form><input type="hidden" name="viewType" value="">
+<table cellpadding="0" cellspacing="0" border="0"><form id="readMore" action="" method="POST"></form><input type="hidden" name="tab" value="tcontent4"><input type="hidden" name="viewType" value=""><form id="buyNow" action="" method="POST"></form><input type="hidden" name="viewType" value=""><form id="minPrice" action="" method="POST"></form><input type="hidden" name="viewType" value="">
 <form id="productPage" action="" method="POST"></form><input type="hidden" name="viewType" value=""><input type="hidden" name="tab" value="">
 <form id="categoryPage" action="" method="POST"></form><input type="hidden" name="viewType" value=""><tbody><tr><td></td></tr></tbody></table>  <input type="hidden" name="whichHeader" id="whichHeader" value="naaptol">
   <div class="Right">
 			
-<div id="TopLinks1" class="TopLinksHeader"> <ul> 
+<div id="TopLinks1" class="TopLinksHeader"> 
+			<ul style="padding-bottom: 10px;"> 
 			<li><b>Welcome Guest!</b></li>
-			<li><a id="LoginForm_link" href="#" onclick="doRequest('request:SingleLoginForm','LoginForm_link');return false" class="toplinks">Login</a></li>
+			<li style="border: 0px;"><a id="LoginForm_link" href="#" onclick="doRequest('request:SingleLoginForm','LoginForm_link');return false" class="toplinks">Login</a></li>
+			<li style="border: 0px;"><a id="SocialNetwork_link" href="javascript:socialnetwork_authenticate('facebook')" class="toplinks"><img src="http://images.naaptol.com/usr/local/csp/staticContent/naaptolImages/facebook_icon.gif" alt="Login with Facebook" title="Login with Facebook" style="vertical-align: bottom;" border="0" width="16px" height="16px"></a></li>
+			<li><a id="SocialNetwork_link" href="javascript:socialnetwork_authenticate('google')" class="toplinks"><img src="http://images.naaptol.com/usr/local/csp/staticContent/naaptolImages/google_icon.gif" alt="Login with Google" title="Login with Google" style="vertical-align: bottom;" border="0" width="16px" height="16px"></a></li>
 			<li><a id="LoginForm_link" href="#" onclick="doRequest('request:SingleLoginForm','LoginForm_link');return false" class="toplinks">Q&amp;A</a></li>
 			<li><a id="LoginForm_link" href="#" onclick="doRequest('request:SingleLoginForm','LoginForm_link');return false" class="toplinks">Connections</a></li><a id="LoginForm_link" href="#" onclick="doRequest('request:SingleLoginForm','LoginForm_link');return false" class="toplinks">
 			</a><li><a id="LoginForm_link" href="#" onclick="doRequest('request:SingleLoginForm','LoginForm_link');return false" class="toplinks"></a><a id="LoginForm_link" href="#" onclick="doRequest('request:SingleLoginForm','LoginForm_link');return false" class="toplinks">Lists</a></li>
 			<li><a id="LoginForm_link" href="#" onclick="doRequest('request:SingleLoginForm','LoginForm_link');return false" class="toplinks">History</a></li>
 			<li><a id="LoginForm_link" href="#" onclick="doRequest('request:SingleLoginForm','LoginForm_link');return false" class="toplinks">Profile</a></li>
-			<!--<li><a id="ForgotPassword_link" HREF="#" onclick="doRequest('request:ForgotPassword','ForgotPassword_link');return false" class="toplinks">Forgot Password</a></li>-->
+			
+ 			<!--<li><a id="ForgotPassword_link" HREF="#" onclick="doRequest('request:ForgotPassword','ForgotPassword_link');return false" class="toplinks">Forgot Password</a></li>-->
 			<li><a id="UserSignUp_link" href="/faces/jsp/inviteUserRegistration.jsp" class="toplinks" style="font-weight:bold;">Free Signup</a>
 			<a href="#" onclick="window.open('/faces/events/campaign.jsp?campaign=1','','title=homeshop18,width=650,height=700,toolbar=no,resizable=yes')" class="toplinks" style="font-weight:bold;">
 			<span class="help">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></a></li>
 			<li><a href="/feedback-reviews.html" target="_self" class="toplinks">Feedback</a>  </li>
-			<li><a href="/faces/components/order/trackOrder.jsp" target="_self" class="toplinks"><b>Customer Support</b></a>  </li>
+			<li><a href="/faces/components/order/trackOrder.jsp" target="_self" class="toplinks">Customer Support</a></li>
+			<li style="border: 0px; vertical-align: bottom;"><a href="http://www.youtube.com/user/naaptolvideo" target="_blank&quot;"><img src="http://images.naaptol.com/usr/local/csp/staticContent/naaptolImages/yt.gif" alt="Naaptol Bachat Bazaar" title="Naaptol Bachat Bazaar" style="vertical-align: bottom;" border="0" width="16px" height="16px"></a></li>
+			
 		</ul></div>
- <div id="SellProductLink"> <span><table> <tbody><tr> 
-    		<td><a href="#" id="sellerLoginLink" onclick="checkUserIsLogin('null');return false"><span class="sellreg"></span></a> </td>
-    		<td><a href="http://www.naaptol.com/aboutUs.html"><span class="ntlogo"></span></a> </td>
+ <div id="SellProductLink" style="padding-top:7px;"> <span><table> <tbody><tr> 
+    		<td><a href="#" id="sellerLoginLink" onclick="checkUserIsLogin('null');return false"><span class="sellreg" style="vertical-align: bottom;"></span></a> </td>
+    		<td><a href="http://www.naaptol.com/aboutUs.html"><span class="ntlogo" style="vertical-align: bottom;"></span></a></td>
     		</tr></tbody></table></span> </div> 
 	
 </div><div id="responses"></div></div>
@@ -122,6 +148,7 @@ function naaptolAffiliateTracking(url){
 
 <!-- start-Div for all three popups in one - login signup,forgot  -->
 <div id="request:SingleLoginForm"><input type="hidden" ptype="header" name="url" value="/faces/jsp/signIn.jsp"> <input type="hidden" ptype="header" name="method" value="GET"> <input type="hidden" ptype="header" name="beforerequest" value=""> <input type="hidden" ptype="header" name="afterresponse" value=""> <input type="hidden" ptype="header" name="width" value="240"> <input type="hidden" ptype="header" name="height" value="145"> <input type="hidden" ptype="header" name="status" value="N">  <input type="hidden" ptype="header" name="preRequestId:errorFlag" value="Y">  <input type="hidden" ptype="header" name="responseDisplayType" value="popup">  <input type="hidden" ptype="header" name="posx" value="0">  <input type="hidden" ptype="header" name="posy" value="20">  <input type="hidden" ptype="header" name="popupTitle" value="User-SignIn"> </div>
+
 <!-- End-Div for all three popups div -->
 
 <div id="request:ForgotPassword"> <input type="hidden" ptype="header" name="url" value="/faces/jsp/forgotPassword.jsp"> <input type="hidden" ptype="header" name="method" value="GET"> <input type="hidden" ptype="header" name="beforerequest" value=""> <input type="hidden" ptype="header" name="afterresponse" value=""> <input type="hidden" ptype="header" name="width" value="270"> <input type="hidden" ptype="header" name="height" value="94"> <input type="hidden" ptype="header" name="status" value="N"> <input type="hidden" ptype="header" name="preRequestId:errorFlag" value="Y">  <input type="hidden" ptype="header" name="responseDisplayType" value="popup">  <input type="hidden" ptype="header" name="class" value=""> <input type="hidden" ptype="header" name="posx" value="0">  <input type="hidden" ptype="header" name="posy" value="20">  <input type="hidden" ptype="header" name="popupTitle" value="Forgot Password"> </div>
@@ -182,9 +209,24 @@ function naaptolAffiliateTracking(url){
  <input type="hidden" ptype="header" name="posx" value="5"> 
 <input type="hidden" ptype="header" name="posy" value="28"> 
 <input type="hidden" ptype="header" name="popupTitle" value="Seller-Forgot Password"> 
-</div> 
 </div>
+
+
+ 
+</div>
+
+
+<div id="app" style="width:218px; display:block; position:absolute; top:157px; float:right; margin-left: 568px; ">
+<img src="http://www.naaptol.com/usr/local/csp/staticContent/naaptolImages/dwnAndroid.gif" alt="Naaptol Android App download" title="Naaptol Android App download" width="218" height="52" border="0" usemap="#Map">
+<map name="Map" id="Map">
+<area shape="poly" coords="181,32,59,32,0,31,3,1,216,1,214,47,186,50" href="https://market.android.com/details?id=com.viraltech.naaptol.activity&amp;feature=search_result." target="_blank">
+</map>
+</div>
+
+
 <div id="Head">
+
+
 <div class="leftHead"></div>
 <div class="middleHead">
 
@@ -195,7 +237,10 @@ function naaptolAffiliateTracking(url){
 <h2><a href="/"><img src="http://images.naaptol.com/usr/local/csp/staticContent/naaptolLogos/naaptolLogotitle.gif" alt="Online Shopping India" title="Online Shopping India" width="171" height="27" border="0"></a></h2>
 </div>
 
-<div id="search"> 
+
+<div id="search">
+
+ 
 
 
 <input type="hidden" name="txt" id="txt1" value="">
@@ -206,8 +251,7 @@ function naaptolAffiliateTracking(url){
 		    <li id="_store"><a href="javascript:showTabOnSearch('_store');"><span>Stores</span></a></li>
 		    <li id="_user"><a href="javascript:showTabOnSearch('_user');"><span>Users</span></a></li>
 		    <li id="_user"><a href="http://travel.naaptol.com" target="_blank"><span>Flights &amp; Hotels</span></a></li>
-		    <li id="_user"><a href="http://naaptol.khojle.in" target="_blank"><span>Classified &nbsp; <blink style="font-weight:normal; font-size: 10px;color:red">NEW</blink></span></a></li>
-	    </ul>
+		    </ul>
 	</div>
 	<div id="sr_product" class="SearchComponents" style="float:left;margin-top:0px;">
 		<form name="searchForm" id="formid">
@@ -262,11 +306,12 @@ function naaptolAffiliateTracking(url){
 </div>
 
 <div id="naaptolSms" class="naaptolSms">
-<div style="float: right;vertical-align: top; width:159px; height:50px;"> 
+<div style="float:right;vertical-align: top; width:159px; height:50px;"> 
 <a href="/online-store/WO-shopping-mall-W1435O/Naaptol_Weekly_Hot_Deals.html?utm_source=NT&amp;utm_medium=web&amp;utm_content=hotdeals&amp;utm_campaign=hotdeals_20090804_header" style="cursor:pointer">
 <img style="vertical-align: top;" src="http://images.naaptol.com/usr/local/csp/staticContent/naaptolImages/link_hdeals.gif" alt="Naaptol Hot Deals" title="Naaptol Hot Deals" width="159" height="50">
 </a>
 </div>
+
 <div style="float: right;vertical-align: top; width:159px; height:49px;"> 
 <img style="vertical-align: top;" src="http://images.naaptol.com/usr/local/csp/staticContent/naaptolImages/link_sms.gif" alt="SMS to Naaptol" title="SMS to Naaptol" width="159" height="49">
 <!-- <a href="http://diwali.naaptol.com" target="_blank"><img style="vertical-align: top;" src='http://images.naaptol.com/usr/local/csp/staticContent/naaptolImages/bt_FestiDiwali.gif' alt="Diwali Gifts" title="Diwali Gifts" width="159" height="47"/></a>-->
@@ -296,7 +341,7 @@ function naaptolAffiliateTracking(url){
 
 
 			<td id="show0" class="tabtd" onmouseover="this.className='tabtdOver';divShowHide('categorydiv0','show','show0');" onmouseout="this.className='tabtd';divShowHide('categorydiv0','hide','show0');">
-				<a href="/buy-online/WO-shopping-deals-best-W4O/mobile_phones.html" title="Mobile Phones">Mobiles</a>
+				<a href="/buy/mobile_phones.html" title="Mobile Phones">Mobiles</a>
 			
 			
 	     <input type="hidden" id="columncategorydiv0" value="3">
@@ -306,32 +351,30 @@ function naaptolAffiliateTracking(url){
              <tbody><tr> 
              
              <td width="33%" valign="top"><ul>
-             <li class="MainLink"><a href="/buy-online/WO-shopping-best-deals-W27O/mobile_phones/mobile_pda_and_smartphones.html" title="Mobile PDA and Smartphones">Mobile PDA and Smartphones</a></li>
-             <li class="MainLink"><a href="/buy-online/WO-shopping-best-deals-W28O/mobile_phones/cdma_handsets.html" title="CDMA Handsets">CDMA Handsets</a></li>
-             <li class="MainLink"><a href="/buy-online/WO-shopping-deals-best-W30O/mobile_phones/mobile_accessories.html" title="Mobile Accessories">Mobile Accessories</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W101O/mobile_phones/mobile_accessories/mobile_chargers.html" title="Mobile Chargers">Mobile Chargers</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W102O/mobile_phones/mobile_accessories/data_cables.html" title="Data Cables">Data Cables</a></li>
+             <li class="MainLink"><a href="/buy/mobile_phones/mobile_pda_and_smartphones.html" title="Mobile PDA and Smartphones">Mobile PDA and Smartphones</a></li>
+             <li class="MainLink"><a href="/buy/mobile_phones/cdma_handsets.html" title="CDMA Handsets">CDMA Handsets</a></li>
+             <li class="MainLink"><a href="/buy/mobile_phones/mobile_accessories.html" title="Mobile Accessories">Mobile Accessories</a></li>
+             <li><a href="/buy/mobile_phones/mobile_accessories/mobile_chargers.html" title="Mobile Chargers">Mobile Chargers</a></li>
+             <li><a href="/buy/mobile_phones/mobile_accessories/data_cables.html" title="Data Cables">Data Cables</a></li>
              
              </ul></td>
              
              <td width="33%" valign="top"><ul>
-             <li><a href="/buy-online/WO-shopping-best-deals-W103O/mobile_phones/mobile_accessories/bluetooth.html" title="Bluetooth">Bluetooth</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W104O/mobile_phones/mobile_accessories/carry_cases.html" title="Carry Cases">Carry Cases</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W105O/mobile_phones/mobile_accessories/hands_free.html" title="Hands Free">Hands Free</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W106O/mobile_phones/mobile_accessories/mobile_batteries.html" title="Mobile Batteries">Mobile Batteries</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W135O/mobile_phones/mobile_accessories/bluetooth_speakers.html" title="Bluetooth Speakers">Bluetooth Speakers</a></li>
+             <li><a href="/buy/mobile_phones/mobile_accessories/bluetooth.html" title="Bluetooth">Bluetooth</a></li>
+             <li><a href="/buy/mobile_phones/mobile_accessories/carry_cases.html" title="Carry Cases">Carry Cases</a></li>
+             <li><a href="/buy/mobile_phones/mobile_accessories/hands_free.html" title="Hands Free">Hands Free</a></li>
+             <li><a href="/buy/mobile_phones/mobile_accessories/mobile_batteries.html" title="Mobile Batteries">Mobile Batteries</a></li>
+             <li><a href="/buy/mobile_phones/mobile_accessories/bluetooth_speakers.html" title="Bluetooth Speakers">Bluetooth Speakers</a></li>
              
              </ul></td>
              
              <td width="34%" valign="top"><ul>
-             <li><a href="/buy-online/WO-shopping-best-deals-W172O/mobile_phones/mobile_accessories/memory_card.html" title="Memory Card">Memory Card</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W234O/mobile_phones/mobile_accessories/mobile_holders.html" title="Mobile Holders">Mobile Holders</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W279O/mobile_phones/mobile_accessories/screen_protector.html" title="Screen Protector">Screen Protector</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2494O/mobile_phones/mobile_accessories/other_miscellaneous_accessories.html" title="Other Miscellaneous Accessories">Other Miscellaneous Accessories</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2506O/mobile_phones/mobile_accessories/mobile_phone_housing.html" title="Mobile Phone Housing">Mobile Phone Housing</a></li>
+             <li><a href="/buy/mobile_phones/mobile_accessories/memory_card.html" title="Memory Card">Memory Card</a></li>
+             <li><a href="/buy/mobile_phones/mobile_accessories/mobile_holders.html" title="Mobile Holders">Mobile Holders</a></li>
+             <li><a href="/buy/mobile_phones/mobile_accessories/screen_protector.html" title="Screen Protector">Screen Protector</a></li>
+             <li><a href="/buy/mobile_phones/mobile_accessories/other_miscellaneous_accessories.html" title="Other Miscellaneous Accessories">Other Miscellaneous Accessories</a></li>
+             <li><a href="/buy/mobile_phones/mobile_accessories/mobile_phone_housing.html" title="Mobile Phone Housing">Mobile Phone Housing</a></li>
              
-              <li><a href="/buy-online/WO-shopping-best-deals-W2515O/mobile_phones/mobile_accessories/navigator_accessories.html" title="Navigator Accessories">Navigator Accessories</a></li>
-              
              </ul></td>
              
              </tr>
@@ -340,7 +383,7 @@ function naaptolAffiliateTracking(url){
 	     </div>
 	     
 			</td><td id="show1" class="tabtd" onmouseover="this.className='tabtdOver';divShowHide('categorydiv1','show','show1');" onmouseout="this.className='tabtd';divShowHide('categorydiv1','hide','show1');">
-				<a href="/buy-online/WO-shopping-deals-best-W1O/cameras.html" title="Cameras">Cameras</a>
+				<a href="/buy/cameras.html" title="Cameras">Cameras</a>
 			
 			
 	     <input type="hidden" id="columncategorydiv1" value="3">
@@ -350,38 +393,38 @@ function naaptolAffiliateTracking(url){
              <tbody><tr> 
              
              <td width="33%" valign="top"><ul>
-             <li class="MainLink"><a href="/buy-online/WO-shopping-best-deals-W6O/cameras/digital_cameras.html" title="Digital Cameras">Digital Cameras</a></li>
-             <li class="MainLink"><a href="/buy-online/WO-shopping-best-deals-W7O/cameras/digital_slr.html" title="Digital SLR">Digital SLR</a></li>
-             <li class="MainLink"><a href="/buy-online/WO-shopping-best-deals-W9O/cameras/camcorders.html" title="Camcorders">Camcorders</a></li>
-             <li class="MainLink"><a href="/buy-online/WO-shopping-deals-best-W10O/cameras/film_cameras.html" title="Film Cameras">Film Cameras</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W36O/cameras/film_cameras/focus_free.html" title="Focus Free">Focus Free</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W34O/cameras/film_cameras/compact_zooms.html" title="Compact Zooms">Compact Zooms</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W35O/cameras/film_cameras/slr.html" title="SLR">SLR</a></li>
-             <li class="MainLink"><a href="/buy-online/WO-shopping-best-deals-W8O/cameras/binoculars.html" title="Binoculars">Binoculars</a></li>
+             <li class="MainLink"><a href="/buy/cameras/digital_cameras.html" title="Digital Cameras">Digital Cameras</a></li>
+             <li class="MainLink"><a href="/buy/cameras/digital_slr.html" title="Digital SLR">Digital SLR</a></li>
+             <li class="MainLink"><a href="/buy/cameras/camcorders.html" title="Camcorders">Camcorders</a></li>
+             <li class="MainLink"><a href="/buy/cameras/film_cameras.html" title="Film Cameras">Film Cameras</a></li>
+             <li><a href="/buy/cameras/film_cameras/focus_free.html" title="Focus Free">Focus Free</a></li>
+             <li><a href="/buy/cameras/film_cameras/compact_zooms.html" title="Compact Zooms">Compact Zooms</a></li>
+             <li><a href="/buy/cameras/film_cameras/slr.html" title="SLR">SLR</a></li>
+             <li class="MainLink"><a href="/buy/cameras/binoculars.html" title="Binoculars">Binoculars</a></li>
              
              </ul></td>
              
              <td width="33%" valign="top"><ul>
-             <li class="MainLink"><a href="/buy-online/WO-shopping-best-deals-W285O/cameras/telescope_accessories.html" title="Telescope Accessories">Telescope Accessories</a></li>
-             <li class="MainLink"><a href="/buy-online/WO-shopping-best-deals-W107O/cameras/telescopes.html" title="Telescopes">Telescopes</a></li>
-             <li class="MainLink"><a href="/buy-online/WO-shopping-deals-best-W11O/cameras/camera_accessories.html" title="Camera Accessories">Camera Accessories</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W38O/cameras/camera_accessories/camera_bags.html" title="Camera Bags">Camera Bags</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W39O/cameras/camera_accessories/tripods.html" title="Tripods">Tripods</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W108O/cameras/camera_accessories/camera_chargers.html" title="Camera Chargers">Camera Chargers</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W37O/cameras/camera_accessories/camera_batteries.html" title="Camera Batteries">Camera Batteries</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W252O/cameras/camera_accessories/camera_lenses.html" title="Camera Lenses">Camera Lenses</a></li>
+             <li class="MainLink"><a href="/buy/cameras/telescope_accessories.html" title="Telescope Accessories">Telescope Accessories</a></li>
+             <li class="MainLink"><a href="/buy/cameras/telescopes.html" title="Telescopes">Telescopes</a></li>
+             <li class="MainLink"><a href="/buy/cameras/camera_accessories.html" title="Camera Accessories">Camera Accessories</a></li>
+             <li><a href="/buy/cameras/camera_accessories/camera_bags.html" title="Camera Bags">Camera Bags</a></li>
+             <li><a href="/buy/cameras/camera_accessories/tripods.html" title="Tripods">Tripods</a></li>
+             <li><a href="/buy/cameras/camera_accessories/camera_chargers.html" title="Camera Chargers">Camera Chargers</a></li>
+             <li><a href="/buy/cameras/camera_accessories/camera_batteries.html" title="Camera Batteries">Camera Batteries</a></li>
+             <li><a href="/buy/cameras/camera_accessories/camera_lenses.html" title="Camera Lenses">Camera Lenses</a></li>
              
              </ul></td>
              
              <td width="34%" valign="top"><ul>
-             <li><a href="/buy-online/WO-shopping-best-deals-W253O/cameras/camera_accessories/flashes_light.html" title="Flashes Light">Flashes Light</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2495O/cameras/camera_accessories/miscellaneous_accessories.html" title="Miscellaneous Accessories">Miscellaneous Accessories</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2571O/cameras/camera_accessories/mini_dv_tape.html" title="Mini DV Tape">Mini DV Tape</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2582O/cameras/camera_accessories/camera_lense_filters.html" title="Camera Lense Filters">Camera Lense Filters</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2591O/cameras/camera_accessories/scratch_guard.html" title="Scratch Guard">Scratch Guard</a></li>
-             <li class="MainLink"><a href="/buy-online/WO-shopping-best-deals-W2572O/cameras/monoculars.html" title="Monoculars">Monoculars</a></li>
-             <li class="MainLink"><a href="/buy-online/WO-shopping-best-deals-W2573O/cameras/rangefinders.html" title="Rangefinders">Rangefinders</a></li>
-             <li class="MainLink"><a href="/buy-online/WO-shopping-best-deals-W2574O/cameras/microscope.html" title="Microscope">Microscope</a></li>
+             <li><a href="/buy/cameras/camera_accessories/flashes_light.html" title="Flashes Light">Flashes Light</a></li>
+             <li><a href="/buy/cameras/camera_accessories/miscellaneous_accessories.html" title="Miscellaneous Accessories">Miscellaneous Accessories</a></li>
+             <li><a href="/buy/cameras/camera_accessories/mini_dv_tape.html" title="Mini DV Tape">Mini DV Tape</a></li>
+             <li><a href="/buy/cameras/camera_accessories/camera_lense_filters.html" title="Camera Lense Filters">Camera Lense Filters</a></li>
+             <li><a href="/buy/cameras/camera_accessories/scratch_guard.html" title="Scratch Guard">Scratch Guard</a></li>
+             <li class="MainLink"><a href="/buy/cameras/monoculars.html" title="Monoculars">Monoculars</a></li>
+             <li class="MainLink"><a href="/buy/cameras/rangefinders.html" title="Rangefinders">Rangefinders</a></li>
+             <li class="MainLink"><a href="/buy/cameras/microscope.html" title="Microscope">Microscope</a></li>
              
              </ul></td>
              
@@ -391,7 +434,7 @@ function naaptolAffiliateTracking(url){
 	     </div>
 	     
 			</td><td id="show2" class="tabtd" onmouseover="this.className='tabtdOver';divShowHide('categorydiv2','show','show2');" onmouseout="this.className='tabtd';divShowHide('categorydiv2','hide','show2');">
-				<a href="/buy-online/WO-shopping-deals-best-W2O/computers_-_peripherals.html" title="Computers &amp; Peripherals">Computers</a>
+				<a href="/buy/computers_-_peripherals.html" title="Computers &amp; Peripherals">Computers</a>
 			
 			
 	     <input type="hidden" id="columncategorydiv2" value="5">
@@ -401,90 +444,90 @@ function naaptolAffiliateTracking(url){
              <tbody><tr> 
              
              <td width="20%" valign="top"><ul>
-             <li class="MainLink"><a href="/buy-online/WO-shopping-best-deals-W12O/computers_-_peripherals/desktop_pcs.html" title="Desktop PCs">Desktop PCs</a></li>
-             <li class="MainLink"><a href="/buy-online/WO-shopping-best-deals-W13O/computers_-_peripherals/laptops.html" title="Laptops">Laptops</a></li>
-             <li class="MainLink"><a href="/buy-online/WO-shopping-deals-best-W15O/computers_-_peripherals/storage_devices.html" title="Storage Devices">Storage Devices</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W47O/computers_-_peripherals/storage_devices/memory_cards.html" title="Memory Cards">Memory Cards</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W46O/computers_-_peripherals/storage_devices/usb_drives.html" title="USB Drives">USB Drives</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W128O/computers_-_peripherals/storage_devices/hard_disk_drives.html" title="Hard Disk Drives">Hard Disk Drives</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W43O/computers_-_peripherals/storage_devices/cd_writers.html" title="CD Writers">CD Writers</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W44O/computers_-_peripherals/storage_devices/dvd_rom.html" title="DVD ROM">DVD ROM</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W45O/computers_-_peripherals/storage_devices/dvd_writers.html" title="DVD Writers">DVD Writers</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2417O/computers_-_peripherals/storage_devices/memory_card_readers.html" title="Memory Card Readers">Memory Card Readers</a></li>
-             <li class="MainLink"><a href="/buy-online/WO-shopping-best-deals-W17O/computers_-_peripherals/monitors.html" title="Monitors">Monitors</a></li>
-             <li class="MainLink"><a href="/buy-online/WO-shopping-deals-best-W14O/computers_-_peripherals/printers.html" title="Printers">Printers</a></li>
+             <li class="MainLink"><a href="/buy/computers_-_peripherals/desktop_pcs.html" title="Desktop PCs">Desktop PCs</a></li>
+             <li class="MainLink"><a href="/buy/computers_-_peripherals/laptops.html" title="Laptops">Laptops</a></li>
+             <li class="MainLink"><a href="/buy/computers_-_peripherals/storage_devices.html" title="Storage Devices">Storage Devices</a></li>
+             <li><a href="/buy/computers_-_peripherals/storage_devices/memory_cards.html" title="Memory Cards">Memory Cards</a></li>
+             <li><a href="/buy/computers_-_peripherals/storage_devices/usb_drives.html" title="USB Drives">USB Drives</a></li>
+             <li><a href="/buy/computers_-_peripherals/storage_devices/hard_disk_drives.html" title="Hard Disk Drives">Hard Disk Drives</a></li>
+             <li><a href="/buy/computers_-_peripherals/storage_devices/cd_writers.html" title="CD Writers">CD Writers</a></li>
+             <li><a href="/buy/computers_-_peripherals/storage_devices/dvd_rom.html" title="DVD ROM">DVD ROM</a></li>
+             <li><a href="/buy/computers_-_peripherals/storage_devices/dvd_writers.html" title="DVD Writers">DVD Writers</a></li>
+             <li><a href="/buy/computers_-_peripherals/storage_devices/memory_card_readers.html" title="Memory Card Readers">Memory Card Readers</a></li>
+             <li class="MainLink"><a href="/buy/computers_-_peripherals/monitors.html" title="Monitors">Monitors</a></li>
+             <li class="MainLink"><a href="/buy/computers_-_peripherals/printers.html" title="Printers">Printers</a></li>
              
              </ul></td>
              
              <td width="20%" valign="top"><ul>
-             <li><a href="/buy-online/WO-shopping-best-deals-W40O/computers_-_peripherals/printers/inkjet.html" title="Inkjet">Inkjet</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W41O/computers_-_peripherals/printers/laserjet.html" title="Laserjet">Laserjet</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W42O/computers_-_peripherals/printers/multifunction_device.html" title="Multifunction Device">Multifunction Device</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2323O/computers_-_peripherals/printers/dotmatrix_printers.html" title="Dotmatrix Printers">Dotmatrix Printers</a></li>
-             <li class="MainLink"><a href="/buy-online/WO-shopping-best-deals-W18O/computers_-_peripherals/scanners.html" title="Scanners">Scanners</a></li>
-             <li class="MainLink"><a href="/buy-online/WO-shopping-best-deals-W116O/computers_-_peripherals/projectors.html" title="Projectors">Projectors</a></li>
-             <li class="MainLink"><a href="/buy-online/WO-shopping-deals-best-W16O/computers_-_peripherals/computer_accessories.html" title="Computer Accessories">Computer Accessories</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W349O/computers_-_peripherals/computer_accessories/processors.html" title="Processors">Processors</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W54O/computers_-_peripherals/computer_accessories/web_cameras.html" title="Web Cameras">Web Cameras</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W56O/computers_-_peripherals/computer_accessories/headphones.html" title="Headphones">Headphones</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W55O/computers_-_peripherals/computer_accessories/speakers.html" title="Speakers">Speakers</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W53O/computers_-_peripherals/computer_accessories/mouse.html" title="Mouse">Mouse</a></li>
+             <li><a href="/buy/computers_-_peripherals/printers/inkjet.html" title="Inkjet">Inkjet</a></li>
+             <li><a href="/buy/computers_-_peripherals/printers/laserjet.html" title="Laserjet">Laserjet</a></li>
+             <li><a href="/buy/computers_-_peripherals/printers/multifunction_device.html" title="Multifunction Device">Multifunction Device</a></li>
+             <li><a href="/buy/computers_-_peripherals/printers/dotmatrix_printers.html" title="Dotmatrix Printers">Dotmatrix Printers</a></li>
+             <li class="MainLink"><a href="/buy/computers_-_peripherals/scanners.html" title="Scanners">Scanners</a></li>
+             <li class="MainLink"><a href="/buy/computers_-_peripherals/projectors.html" title="Projectors">Projectors</a></li>
+             <li class="MainLink"><a href="/buy/computers_-_peripherals/computer_accessories.html" title="Computer Accessories">Computer Accessories</a></li>
+             <li><a href="/buy/computers_-_peripherals/computer_accessories/processors.html" title="Processors">Processors</a></li>
+             <li><a href="/buy/computers_-_peripherals/computer_accessories/web_cameras.html" title="Web Cameras">Web Cameras</a></li>
+             <li><a href="/buy/computers_-_peripherals/computer_accessories/headphones.html" title="Headphones">Headphones</a></li>
+             <li><a href="/buy/computers_-_peripherals/computer_accessories/speakers.html" title="Speakers">Speakers</a></li>
+             <li><a href="/buy/computers_-_peripherals/computer_accessories/mouse.html" title="Mouse">Mouse</a></li>
              
              </ul></td>
              
              <td width="20%" valign="top"><ul>
-             <li><a href="/buy-online/WO-shopping-best-deals-W52O/computers_-_peripherals/computer_accessories/keyboards.html" title="Keyboards">Keyboards</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W57O/computers_-_peripherals/computer_accessories/ups.html" title="UPS">UPS</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W149O/computers_-_peripherals/computer_accessories/motherboards.html" title="Motherboards">Motherboards</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W150O/computers_-_peripherals/computer_accessories/ram.html" title="RAM">RAM</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W374O/computers_-_peripherals/computer_accessories/voip.html" title="VOIP">VOIP</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W377O/computers_-_peripherals/computer_accessories/graphic_cards.html" title="Graphic Cards">Graphic Cards</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W381O/computers_-_peripherals/computer_accessories/cleaning_accessories.html" title="Cleaning Accessories">Cleaning Accessories</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2307O/computers_-_peripherals/computer_accessories/audio_cards.html" title="Audio Cards">Audio Cards</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2308O/computers_-_peripherals/computer_accessories/hardware_servers.html" title="Hardware Servers">Hardware Servers</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2327O/computers_-_peripherals/computer_accessories/computer_components.html" title="Computer Components">Computer Components</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2406O/computers_-_peripherals/computer_accessories/cabinets.html" title="Cabinets">Cabinets</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2407O/computers_-_peripherals/computer_accessories/modems.html" title="Modems">Modems</a></li>
+             <li><a href="/buy/computers_-_peripherals/computer_accessories/keyboards.html" title="Keyboards">Keyboards</a></li>
+             <li><a href="/buy/computers_-_peripherals/computer_accessories/ups.html" title="UPS">UPS</a></li>
+             <li><a href="/buy/computers_-_peripherals/computer_accessories/motherboards.html" title="Motherboards">Motherboards</a></li>
+             <li><a href="/buy/computers_-_peripherals/computer_accessories/ram.html" title="RAM">RAM</a></li>
+             <li><a href="/buy/computers_-_peripherals/computer_accessories/voip.html" title="VOIP">VOIP</a></li>
+             <li><a href="/buy/computers_-_peripherals/computer_accessories/graphic_cards.html" title="Graphic Cards">Graphic Cards</a></li>
+             <li><a href="/buy/computers_-_peripherals/computer_accessories/cleaning_accessories.html" title="Cleaning Accessories">Cleaning Accessories</a></li>
+             <li><a href="/buy/computers_-_peripherals/computer_accessories/audio_cards.html" title="Audio Cards">Audio Cards</a></li>
+             <li><a href="/buy/computers_-_peripherals/computer_accessories/hardware_servers.html" title="Hardware Servers">Hardware Servers</a></li>
+             <li><a href="/buy/computers_-_peripherals/computer_accessories/computer_components.html" title="Computer Components">Computer Components</a></li>
+             <li><a href="/buy/computers_-_peripherals/computer_accessories/cabinets.html" title="Cabinets">Cabinets</a></li>
+             <li><a href="/buy/computers_-_peripherals/computer_accessories/modems.html" title="Modems">Modems</a></li>
              
              </ul></td>
              
              <td width="20%" valign="top"><ul>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2418O/computers_-_peripherals/computer_accessories/tv_tuners.html" title="TV Tuners">TV Tuners</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2505O/computers_-_peripherals/computer_accessories/hard_disk_case.html" title="Hard Disk Case">Hard Disk Case</a></li>
-             <li class="MainLink"><a href="/buy-online/WO-shopping-deals-best-W379O/computers_-_peripherals/softwares.html" title="Softwares">Softwares</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W380O/computers_-_peripherals/softwares/security_softwares.html" title="Security Softwares">Security Softwares</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2333O/computers_-_peripherals/softwares/software_educational.html" title="Software Educational">Software Educational</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2334O/computers_-_peripherals/softwares/operating_systems.html" title="Operating Systems">Operating Systems</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2463O/computers_-_peripherals/softwares/multimedia_softwares.html" title="Multimedia Softwares">Multimedia Softwares</a></li>
-             <li class="MainLink"><a href="/buy-online/WO-shopping-deals-best-W2310O/computers_-_peripherals/printer_accessories.html" title="Printer Accessories">Printer Accessories</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2311O/computers_-_peripherals/printer_accessories/cartridges.html" title="Cartridges">Cartridges</a></li>
-             <li class="MainLink"><a href="/buy-online/WO-shopping-deals-best-W2312O/computers_-_peripherals/laptop_accessories.html" title="Laptop Accessories">Laptop Accessories</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W270O/computers_-_peripherals/laptop_accessories/laptop_bags.html" title="Laptop Bags">Laptop Bags</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2313O/computers_-_peripherals/laptop_accessories/laptop_chargers.html" title="Laptop Chargers">Laptop Chargers</a></li>
+             <li><a href="/buy/computers_-_peripherals/computer_accessories/tv_tuners.html" title="TV Tuners">TV Tuners</a></li>
+             <li><a href="/buy/computers_-_peripherals/computer_accessories/hard_disk_case.html" title="Hard Disk Case">Hard Disk Case</a></li>
+             <li class="MainLink"><a href="/buy/computers_-_peripherals/softwares.html" title="Softwares">Softwares</a></li>
+             <li><a href="/buy/computers_-_peripherals/softwares/security_softwares.html" title="Security Softwares">Security Softwares</a></li>
+             <li><a href="/buy/computers_-_peripherals/softwares/software_educational.html" title="Software Educational">Software Educational</a></li>
+             <li><a href="/buy/computers_-_peripherals/softwares/operating_systems.html" title="Operating Systems">Operating Systems</a></li>
+             <li><a href="/buy/computers_-_peripherals/softwares/multimedia_softwares.html" title="Multimedia Softwares">Multimedia Softwares</a></li>
+             <li class="MainLink"><a href="/buy/computers_-_peripherals/printer_accessories.html" title="Printer Accessories">Printer Accessories</a></li>
+             <li><a href="/buy/computers_-_peripherals/printer_accessories/cartridges.html" title="Cartridges">Cartridges</a></li>
+             <li class="MainLink"><a href="/buy/computers_-_peripherals/laptop_accessories.html" title="Laptop Accessories">Laptop Accessories</a></li>
+             <li><a href="/buy/computers_-_peripherals/laptop_accessories/laptop_bags.html" title="Laptop Bags">Laptop Bags</a></li>
+             <li><a href="/buy/computers_-_peripherals/laptop_accessories/laptop_chargers.html" title="Laptop Chargers">Laptop Chargers</a></li>
              
              </ul></td>
              
              <td width="21%" valign="top"><ul>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2314O/computers_-_peripherals/laptop_accessories/laptop_batteries.html" title="Laptop Batteries">Laptop Batteries</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2315O/computers_-_peripherals/laptop_accessories/miscellaneous.html" title="Miscellaneous">Miscellaneous</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2321O/computers_-_peripherals/laptop_accessories/laptop_skins.html" title="Laptop Skins">Laptop Skins</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2529O/computers_-_peripherals/laptop_accessories/laptop_screen_protector.html" title="Laptop Screen Protector">Laptop Screen Protector</a></li>
-             <li class="MainLink"><a href="/buy-online/WO-shopping-deals-best-W2401O/computers_-_peripherals/blank_media.html" title="Blank Media">Blank Media</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2402O/computers_-_peripherals/blank_media/cd-r.html" title="CD-R">CD-R</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2404O/computers_-_peripherals/blank_media/dvd-r.html" title="DVD-R">DVD-R</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2422O/computers_-_peripherals/blank_media/audio_cassettes.html" title="Audio Cassettes">Audio Cassettes</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2423O/computers_-_peripherals/blank_media/video_cassettes.html" title="Video Cassettes">Video Cassettes</a></li>
-             <li class="MainLink"><a href="/buy-online/WO-shopping-deals-best-W2419O/computers_-_peripherals/networking_equipments.html" title="Networking Equipments">Networking Equipments</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2309O/computers_-_peripherals/networking_equipments/wireless_data_cards.html" title="Wireless Data Cards">Wireless Data Cards</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2325O/computers_-_peripherals/networking_equipments/routers.html" title="Routers">Routers</a></li>
+             <li><a href="/buy/computers_-_peripherals/laptop_accessories/laptop_batteries.html" title="Laptop Batteries">Laptop Batteries</a></li>
+             <li><a href="/buy/computers_-_peripherals/laptop_accessories/miscellaneous.html" title="Miscellaneous">Miscellaneous</a></li>
+             <li><a href="/buy/computers_-_peripherals/laptop_accessories/laptop_skins.html" title="Laptop Skins">Laptop Skins</a></li>
+             <li><a href="/buy/computers_-_peripherals/laptop_accessories/laptop_screen_protector.html" title="Laptop Screen Protector">Laptop Screen Protector</a></li>
+             <li class="MainLink"><a href="/buy/computers_-_peripherals/blank_media.html" title="Blank Media">Blank Media</a></li>
+             <li><a href="/buy/computers_-_peripherals/blank_media/cd~r.html" title="CD-R">CD-R</a></li>
+             <li><a href="/buy/computers_-_peripherals/blank_media/dvd~r.html" title="DVD-R">DVD-R</a></li>
+             <li><a href="/buy/computers_-_peripherals/blank_media/audio_cassettes.html" title="Audio Cassettes">Audio Cassettes</a></li>
+             <li><a href="/buy/computers_-_peripherals/blank_media/video_cassettes.html" title="Video Cassettes">Video Cassettes</a></li>
+             <li class="MainLink"><a href="/buy/computers_-_peripherals/networking_equipments.html" title="Networking Equipments">Networking Equipments</a></li>
+             <li><a href="/buy/computers_-_peripherals/networking_equipments/wireless_data_cards.html" title="Wireless Data Cards">Wireless Data Cards</a></li>
+             <li><a href="/buy/computers_-_peripherals/networking_equipments/routers.html" title="Routers">Routers</a></li>
              
-              <li><a href="/buy-online/WO-shopping-best-deals-W2326O/computers_-_peripherals/networking_equipments/switches.html" title="Switches">Switches</a></li>
+              <li><a href="/buy/computers_-_peripherals/networking_equipments/switches.html" title="Switches">Switches</a></li>
               
-              <li><a href="/buy-online/WO-shopping-best-deals-W2329O/computers_-_peripherals/networking_equipments/cables_-_connectors.html" title="Cables &amp; Connectors">Cables &amp; Connectors</a></li>
+              <li><a href="/buy/computers_-_peripherals/networking_equipments/cables_-_connectors.html" title="Cables &amp; Connectors">Cables &amp; Connectors</a></li>
               
-              <li><a href="/buy-online/WO-shopping-best-deals-W2429O/computers_-_peripherals/networking_equipments/broadband.html" title="Broadband">Broadband</a></li>
+              <li><a href="/buy/computers_-_peripherals/networking_equipments/broadband.html" title="Broadband">Broadband</a></li>
               
-              <li class="MainLink"><a href="/buy-online/WO-shopping-best-deals-W2610O/computers_-_peripherals/tablet.html" title="Tablet">Tablet</a></li>
+              <li class="MainLink"><a href="/buy/computers_-_peripherals/tablet.html" title="Tablet">Tablet</a></li>
               
              </ul></td>
              
@@ -494,7 +537,7 @@ function naaptolAffiliateTracking(url){
 	     </div>
 	     
 			</td><td id="show3" class="tabtd" onmouseover="this.className='tabtdOver';divShowHide('categorydiv3','show','show3');" onmouseout="this.className='tabtd';divShowHide('categorydiv3','hide','show3');">
-				<a href="/buy-online/WO-shopping-deals-best-W3O/consumer_electronics.html" title="Consumer Electronics">Gadgets</a>
+				<a href="/buy/consumer_electronics.html" title="Consumer Electronics">Gadgets</a>
 			
 			
 	     <input type="hidden" id="columncategorydiv3" value="5">
@@ -504,105 +547,105 @@ function naaptolAffiliateTracking(url){
              <tbody><tr> 
              
              <td width="20%" valign="top"><ul>
-             <li class="MainLink"><a href="/buy-online/WO-shopping-deals-best-W21O/consumer_electronics/mp3_players_and_ipods.html" title="MP3 players and iPods">MP3 players and iPods</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W68O/consumer_electronics/mp3_players_and_ipods/mp3_and_mp4_players.html" title="MP3 and MP4 Players">MP3 and MP4 Players</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W67O/consumer_electronics/mp3_players_and_ipods/ipods.html" title="iPods">iPods</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W353O/consumer_electronics/mp3_players_and_ipods/ipod_accessories.html" title="Ipod Accessories">Ipod Accessories</a></li>
-             <li class="MainLink"><a href="/buy-online/WO-shopping-deals-best-W2517O/consumer_electronics/gps_-_navigation.html" title="GPS &amp; Navigation">GPS &amp; Navigation</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2518O/consumer_electronics/gps_-_navigation/handheld_navigation.html" title="Handheld Navigation">Handheld Navigation</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2519O/consumer_electronics/gps_-_navigation/outdoor_navigation.html" title="Outdoor Navigation">Outdoor Navigation</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2520O/consumer_electronics/gps_-_navigation/maps_and_softwares.html" title="Maps and Softwares">Maps and Softwares</a></li>
-             <li class="MainLink"><a href="/buy-online/WO-shopping-deals-best-W25O/consumer_electronics/portable_audio.html" title="Portable Audio">Portable Audio</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W92O/consumer_electronics/portable_audio/discmans.html" title="Discmans">Discmans</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W93O/consumer_electronics/portable_audio/fm_radios.html" title="FM Radios">FM Radios</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W94O/consumer_electronics/portable_audio/head_phones_-_head_sets.html" title="Head Phones &amp; Head Sets">Head Phones &amp; Head Sets</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W95O/consumer_electronics/portable_audio/portable_dvd_players.html" title="Portable DVD Players">Portable DVD Players</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W96O/consumer_electronics/portable_audio/portable_speakers.html" title="Portable Speakers">Portable Speakers</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W97O/consumer_electronics/portable_audio/portable_vcd_players.html" title="Portable VCD Players">Portable VCD Players</a></li>
+             <li class="MainLink"><a href="/buy/consumer_electronics/mp3_players_and_ipods.html" title="MP3 players and iPods">MP3 players and iPods</a></li>
+             <li><a href="/buy/consumer_electronics/mp3_players_and_ipods/mp3_and_mp4_players.html" title="MP3 and MP4 Players">MP3 and MP4 Players</a></li>
+             <li><a href="/buy/consumer_electronics/mp3_players_and_ipods/ipods.html" title="iPods">iPods</a></li>
+             <li><a href="/buy/consumer_electronics/mp3_players_and_ipods/ipod_accessories.html" title="Ipod Accessories">Ipod Accessories</a></li>
+             <li class="MainLink"><a href="/buy/consumer_electronics/gps_-_navigation.html" title="GPS &amp; Navigation">GPS &amp; Navigation</a></li>
+             <li><a href="/buy/consumer_electronics/gps_-_navigation/handheld_navigation.html" title="Handheld Navigation">Handheld Navigation</a></li>
+             <li><a href="/buy/consumer_electronics/gps_-_navigation/outdoor_navigation.html" title="Outdoor Navigation">Outdoor Navigation</a></li>
+             <li><a href="/buy/consumer_electronics/gps_-_navigation/maps_and_softwares.html" title="Maps and Softwares">Maps and Softwares</a></li>
+             <li class="MainLink"><a href="/buy/consumer_electronics/portable_audio.html" title="Portable Audio">Portable Audio</a></li>
+             <li><a href="/buy/consumer_electronics/portable_audio/discmans.html" title="Discmans">Discmans</a></li>
+             <li><a href="/buy/consumer_electronics/portable_audio/fm_radios.html" title="FM Radios">FM Radios</a></li>
+             <li><a href="/buy/consumer_electronics/portable_audio/head_phones_-_head_sets.html" title="Head Phones &amp; Head Sets">Head Phones &amp; Head Sets</a></li>
+             <li><a href="/buy/consumer_electronics/portable_audio/portable_dvd_players.html" title="Portable DVD Players">Portable DVD Players</a></li>
+             <li><a href="/buy/consumer_electronics/portable_audio/portable_speakers.html" title="Portable Speakers">Portable Speakers</a></li>
+             <li><a href="/buy/consumer_electronics/portable_audio/portable_vcd_players.html" title="Portable VCD Players">Portable VCD Players</a></li>
              
              </ul></td>
              
              <td width="20%" valign="top"><ul>
-             <li><a href="/buy-online/WO-shopping-best-deals-W124O/consumer_electronics/portable_audio/audio_systems.html" title="Audio Systems">Audio Systems</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2575O/consumer_electronics/portable_audio/portable_multimedia_player.html" title="Portable Multimedia Player">Portable Multimedia Player</a></li>
-             <li class="MainLink"><a href="/buy-online/WO-shopping-deals-best-W20O/consumer_electronics/home_entertainment.html" title="Home Entertainment">Home Entertainment</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W61O/consumer_electronics/home_entertainment/dvd_players.html" title="DVD Players">DVD Players</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W62O/consumer_electronics/home_entertainment/vcd_players.html" title="VCD Players">VCD Players</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W63O/consumer_electronics/home_entertainment/flat_tvs.html" title="Flat TVs">Flat TVs</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W64O/consumer_electronics/home_entertainment/home_theatre.html" title="Home Theatre">Home Theatre</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W65O/consumer_electronics/home_entertainment/plasma_tvs.html" title="Plasma TVs">Plasma TVs</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W66O/consumer_electronics/home_entertainment/lcd_tvs.html" title="LCD TVs">LCD TVs</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W125O/consumer_electronics/home_entertainment/micro_hi-fi.html" title="Micro HI-FI">Micro HI-FI</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W183O/consumer_electronics/home_entertainment/dth.html" title="DTH">DTH</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W295O/consumer_electronics/home_entertainment/led_tvs.html" title="LED TVs">LED TVs</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2317O/consumer_electronics/home_entertainment/audio_and_video_accessories.html" title="Audio and Video Accessories">Audio and Video Accessories</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2448O/consumer_electronics/home_entertainment/portable_tvs.html" title="Portable TVs">Portable TVs</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2516O/consumer_electronics/home_entertainment/tv_accessories.html" title="TV Accessories">TV Accessories</a></li>
+             <li><a href="/buy/consumer_electronics/portable_audio/audio_systems.html" title="Audio Systems">Audio Systems</a></li>
+             <li><a href="/buy/consumer_electronics/portable_audio/portable_multimedia_player.html" title="Portable Multimedia Player">Portable Multimedia Player</a></li>
+             <li class="MainLink"><a href="/buy/consumer_electronics/home_entertainment.html" title="Home Entertainment">Home Entertainment</a></li>
+             <li><a href="/buy/consumer_electronics/home_entertainment/dvd_players.html" title="DVD Players">DVD Players</a></li>
+             <li><a href="/buy/consumer_electronics/home_entertainment/vcd_players.html" title="VCD Players">VCD Players</a></li>
+             <li><a href="/buy/consumer_electronics/home_entertainment/flat_tvs.html" title="Flat TVs">Flat TVs</a></li>
+             <li><a href="/buy/consumer_electronics/home_entertainment/home_theatre.html" title="Home Theatre">Home Theatre</a></li>
+             <li><a href="/buy/consumer_electronics/home_entertainment/plasma_tvs.html" title="Plasma TVs">Plasma TVs</a></li>
+             <li><a href="/buy/consumer_electronics/home_entertainment/lcd_tvs.html" title="LCD TVs">LCD TVs</a></li>
+             <li><a href="/buy/consumer_electronics/home_entertainment/micro_hi~fi.html" title="Micro HI-FI">Micro HI-FI</a></li>
+             <li><a href="/buy/consumer_electronics/home_entertainment/dth.html" title="DTH">DTH</a></li>
+             <li><a href="/buy/consumer_electronics/home_entertainment/led_tvs.html" title="LED TVs">LED TVs</a></li>
+             <li><a href="/buy/consumer_electronics/home_entertainment/audio_and_video_accessories.html" title="Audio and Video Accessories">Audio and Video Accessories</a></li>
+             <li><a href="/buy/consumer_electronics/home_entertainment/portable_tvs.html" title="Portable TVs">Portable TVs</a></li>
+             <li><a href="/buy/consumer_electronics/home_entertainment/tv_accessories.html" title="TV Accessories">TV Accessories</a></li>
              
              </ul></td>
              
              <td width="20%" valign="top"><ul>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2563O/consumer_electronics/home_entertainment/speaker_and_woofer.html" title="Speaker and Woofer">Speaker and Woofer</a></li>
-             <li class="MainLink"><a href="/buy-online/WO-shopping-deals-best-W22O/consumer_electronics/home_appliances.html" title="Home Appliances">Home Appliances</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2399O/consumer_electronics/home_appliances/corner_acs.html" title="Corner ACs">Corner ACs</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W70O/consumer_electronics/home_appliances/washing_machine.html" title="Washing Machine">Washing Machine</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W71O/consumer_electronics/home_appliances/vacuum_cleaner.html" title="Vacuum Cleaner">Vacuum Cleaner</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W72O/consumer_electronics/home_appliances/iron.html" title="Iron">Iron</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W73O/consumer_electronics/home_appliances/coolers.html" title="Coolers">Coolers</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W74O/consumer_electronics/home_appliances/split_ac.html" title="Split AC">Split AC</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W75O/consumer_electronics/home_appliances/window_ac.html" title="Window AC">Window AC</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W114O/consumer_electronics/home_appliances/safety_lockers.html" title="Safety Lockers">Safety Lockers</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W126O/consumer_electronics/home_appliances/dryer.html" title="Dryer">Dryer</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W134O/consumer_electronics/home_appliances/water_coolers.html" title="Water Coolers">Water Coolers</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W173O/consumer_electronics/home_appliances/water_dispenser.html" title="Water Dispenser">Water Dispenser</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W189O/consumer_electronics/home_appliances/sewing_machine.html" title="Sewing Machine">Sewing Machine</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W221O/consumer_electronics/home_appliances/electric_fans.html" title="Electric Fans">Electric Fans</a></li>
+             <li><a href="/buy/consumer_electronics/home_entertainment/speaker_and_woofer.html" title="Speaker and Woofer">Speaker and Woofer</a></li>
+             <li class="MainLink"><a href="/buy/consumer_electronics/home_appliances.html" title="Home Appliances">Home Appliances</a></li>
+             <li><a href="/buy/consumer_electronics/home_appliances/corner_acs.html" title="Corner ACs">Corner ACs</a></li>
+             <li><a href="/buy/consumer_electronics/home_appliances/washing_machine.html" title="Washing Machine">Washing Machine</a></li>
+             <li><a href="/buy/consumer_electronics/home_appliances/vacuum_cleaner.html" title="Vacuum Cleaner">Vacuum Cleaner</a></li>
+             <li><a href="/buy/consumer_electronics/home_appliances/iron.html" title="Iron">Iron</a></li>
+             <li><a href="/buy/consumer_electronics/home_appliances/coolers.html" title="Coolers">Coolers</a></li>
+             <li><a href="/buy/consumer_electronics/home_appliances/split_ac.html" title="Split AC">Split AC</a></li>
+             <li><a href="/buy/consumer_electronics/home_appliances/window_ac.html" title="Window AC">Window AC</a></li>
+             <li><a href="/buy/consumer_electronics/home_appliances/safety_lockers.html" title="Safety Lockers">Safety Lockers</a></li>
+             <li><a href="/buy/consumer_electronics/home_appliances/dryer.html" title="Dryer">Dryer</a></li>
+             <li><a href="/buy/consumer_electronics/home_appliances/water_coolers.html" title="Water Coolers">Water Coolers</a></li>
+             <li><a href="/buy/consumer_electronics/home_appliances/water_dispenser.html" title="Water Dispenser">Water Dispenser</a></li>
+             <li><a href="/buy/consumer_electronics/home_appliances/sewing_machine.html" title="Sewing Machine">Sewing Machine</a></li>
+             <li><a href="/buy/consumer_electronics/home_appliances/electric_fans.html" title="Electric Fans">Electric Fans</a></li>
              
              </ul></td>
              
              <td width="20%" valign="top"><ul>
-             <li><a href="/buy-online/WO-shopping-best-deals-W239O/consumer_electronics/home_appliances/batteries.html" title="Batteries">Batteries</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W382O/consumer_electronics/home_appliances/air_purifiers.html" title="Air Purifiers">Air Purifiers</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2337O/consumer_electronics/home_appliances/emergency_lights.html" title="Emergency Lights">Emergency Lights</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2400O/consumer_electronics/home_appliances/slimline_acs.html" title="Slimline ACs">Slimline ACs</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2442O/consumer_electronics/home_appliances/inverters.html" title="Inverters">Inverters</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2492O/consumer_electronics/home_appliances/air_conditioning_equipments.html" title="Air Conditioning Equipments">Air Conditioning Equipments</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2509O/consumer_electronics/home_appliances/stablizers.html" title="Stablizers">Stablizers</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2564O/consumer_electronics/home_appliances/solar_fans.html" title="Solar Fans">Solar Fans</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2609O/consumer_electronics/home_appliances/electrical_accessories.html" title="Electrical Accessories">Electrical Accessories</a></li>
-             <li class="MainLink"><a href="/buy-online/WO-shopping-deals-best-W26O/consumer_electronics/telephones.html" title="Telephones">Telephones</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W98O/consumer_electronics/telephones/corded_phones.html" title="Corded Phones">Corded Phones</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W99O/consumer_electronics/telephones/cordless_phones.html" title="Cordless Phones">Cordless Phones</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2322O/consumer_electronics/telephones/fax_machines.html" title="Fax Machines">Fax Machines</a></li>
-             <li class="MainLink"><a href="/buy-online/WO-shopping-deals-best-W161O/consumer_electronics/heaters.html" title="Heaters">Heaters</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W158O/consumer_electronics/heaters/geyser.html" title="Geyser">Geyser</a></li>
+             <li><a href="/buy/consumer_electronics/home_appliances/batteries.html" title="Batteries">Batteries</a></li>
+             <li><a href="/buy/consumer_electronics/home_appliances/air_purifiers.html" title="Air Purifiers">Air Purifiers</a></li>
+             <li><a href="/buy/consumer_electronics/home_appliances/emergency_lights.html" title="Emergency Lights">Emergency Lights</a></li>
+             <li><a href="/buy/consumer_electronics/home_appliances/slimline_acs.html" title="Slimline ACs">Slimline ACs</a></li>
+             <li><a href="/buy/consumer_electronics/home_appliances/inverters.html" title="Inverters">Inverters</a></li>
+             <li><a href="/buy/consumer_electronics/home_appliances/air_conditioning_equipments.html" title="Air Conditioning Equipments">Air Conditioning Equipments</a></li>
+             <li><a href="/buy/consumer_electronics/home_appliances/stablizers.html" title="Stablizers">Stablizers</a></li>
+             <li><a href="/buy/consumer_electronics/home_appliances/solar_fans.html" title="Solar Fans">Solar Fans</a></li>
+             <li><a href="/buy/consumer_electronics/home_appliances/electrical_accessories.html" title="Electrical Accessories">Electrical Accessories</a></li>
+             <li class="MainLink"><a href="/buy/consumer_electronics/telephones.html" title="Telephones">Telephones</a></li>
+             <li><a href="/buy/consumer_electronics/telephones/corded_phones.html" title="Corded Phones">Corded Phones</a></li>
+             <li><a href="/buy/consumer_electronics/telephones/cordless_phones.html" title="Cordless Phones">Cordless Phones</a></li>
+             <li><a href="/buy/consumer_electronics/telephones/fax_machines.html" title="Fax Machines">Fax Machines</a></li>
+             <li class="MainLink"><a href="/buy/consumer_electronics/heaters.html" title="Heaters">Heaters</a></li>
+             <li><a href="/buy/consumer_electronics/heaters/geyser.html" title="Geyser">Geyser</a></li>
              
              </ul></td>
              
              <td width="21%" valign="top"><ul>
-             <li><a href="/buy-online/WO-shopping-best-deals-W159O/consumer_electronics/heaters/water_heater.html" title="Water Heater">Water Heater</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W160O/consumer_electronics/heaters/room_heater.html" title="Room Heater">Room Heater</a></li>
-             <li class="MainLink"><a href="/buy-online/WO-shopping-deals-best-W196O/consumer_electronics/security_-_surveillance.html" title="Security &amp; Surveillance">Security &amp; Surveillance</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W197O/consumer_electronics/security_-_surveillance/security_camera.html" title="Security Camera">Security Camera</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W240O/consumer_electronics/security_-_surveillance/security_devices.html" title="Security Devices">Security Devices</a></li>
-             <li class="MainLink"><a href="/buy-online/WO-shopping-deals-best-W233O/consumer_electronics/gaming.html" title="Gaming">Gaming</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W157O/consumer_electronics/gaming/gaming_consoles.html" title="Gaming Consoles">Gaming Consoles</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W193O/consumer_electronics/gaming/gaming_devices.html" title="Gaming Devices">Gaming Devices</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W194O/consumer_electronics/gaming/gaming_media.html" title="Gaming Media">Gaming Media</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2316O/consumer_electronics/gaming/gaming_accessories.html" title="Gaming Accessories">Gaming Accessories</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2561O/consumer_electronics/gaming/educational_toys.html" title="Educational Toys">Educational Toys</a></li>
-             <li class="MainLink"><a href="/buy-online/WO-shopping-deals-best-W2408O/consumer_electronics/measuring_instruments.html" title="Measuring Instruments">Measuring Instruments</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2409O/consumer_electronics/measuring_instruments/cash_counting_machine.html" title="Cash Counting Machine">Cash Counting Machine</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2427O/consumer_electronics/measuring_instruments/bar_code_scanners.html" title="Bar Code Scanners">Bar Code Scanners</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2439O/consumer_electronics/measuring_instruments/weighing_machine.html" title="Weighing Machine">Weighing Machine</a></li>
+             <li><a href="/buy/consumer_electronics/heaters/water_heater.html" title="Water Heater">Water Heater</a></li>
+             <li><a href="/buy/consumer_electronics/heaters/room_heater.html" title="Room Heater">Room Heater</a></li>
+             <li class="MainLink"><a href="/buy/consumer_electronics/security_-_surveillance.html" title="Security &amp; Surveillance">Security &amp; Surveillance</a></li>
+             <li><a href="/buy/consumer_electronics/security_-_surveillance/security_camera.html" title="Security Camera">Security Camera</a></li>
+             <li><a href="/buy/consumer_electronics/security_-_surveillance/security_devices.html" title="Security Devices">Security Devices</a></li>
+             <li class="MainLink"><a href="/buy/consumer_electronics/gaming.html" title="Gaming">Gaming</a></li>
+             <li><a href="/buy/consumer_electronics/gaming/gaming_consoles.html" title="Gaming Consoles">Gaming Consoles</a></li>
+             <li><a href="/buy/consumer_electronics/gaming/gaming_devices.html" title="Gaming Devices">Gaming Devices</a></li>
+             <li><a href="/buy/consumer_electronics/gaming/gaming_media.html" title="Gaming Media">Gaming Media</a></li>
+             <li><a href="/buy/consumer_electronics/gaming/gaming_accessories.html" title="Gaming Accessories">Gaming Accessories</a></li>
+             <li><a href="/buy/consumer_electronics/gaming/educational_toys.html" title="Educational Toys">Educational Toys</a></li>
+             <li class="MainLink"><a href="/buy/consumer_electronics/measuring_instruments.html" title="Measuring Instruments">Measuring Instruments</a></li>
+             <li><a href="/buy/consumer_electronics/measuring_instruments/cash_counting_machine.html" title="Cash Counting Machine">Cash Counting Machine</a></li>
+             <li><a href="/buy/consumer_electronics/measuring_instruments/bar_code_scanners.html" title="Bar Code Scanners">Bar Code Scanners</a></li>
+             <li><a href="/buy/consumer_electronics/measuring_instruments/weighing_machine.html" title="Weighing Machine">Weighing Machine</a></li>
              
-              <li><a href="/buy-online/WO-shopping-best-deals-W2562O/consumer_electronics/measuring_instruments/currency_detector_machine.html" title="Currency Detector Machine">Currency Detector Machine</a></li>
+              <li><a href="/buy/consumer_electronics/measuring_instruments/currency_detector_machine.html" title="Currency Detector Machine">Currency Detector Machine</a></li>
               
-              <li class="MainLink"><a href="/buy-online/WO-shopping-best-deals-W2460O/consumer_electronics/cd_holders_-_stands.html" title="CD Holders &amp; Stands">CD Holders &amp; Stands</a></li>
+              <li class="MainLink"><a href="/buy/consumer_electronics/cd_holders_-_stands.html" title="CD Holders &amp; Stands">CD Holders &amp; Stands</a></li>
               
-              <li class="MainLink"><a href="/buy-online/WO-shopping-deals-best-W2461O/consumer_electronics/tools_-_hardware.html" title="Tools &amp; Hardware">Tools &amp; Hardware</a></li>
+              <li class="MainLink"><a href="/buy/consumer_electronics/tools_-_hardware.html" title="Tools &amp; Hardware">Tools &amp; Hardware</a></li>
               
-              <li><a href="/buy-online/WO-shopping-best-deals-W2462O/consumer_electronics/tools_-_hardware/hand_tools.html" title="Hand Tools">Hand Tools</a></li>
+              <li><a href="/buy/consumer_electronics/tools_-_hardware/hand_tools.html" title="Hand Tools">Hand Tools</a></li>
               
              </ul></td>
              
@@ -612,7 +655,7 @@ function naaptolAffiliateTracking(url){
 	     </div>
 	     
 			</td><td id="show4" class="tabtd" onmouseover="this.className='tabtdOver';divShowHide('categorydiv4','show','show4');" onmouseout="this.className='tabtd';divShowHide('categorydiv4','hide','show4');">
-				<a href="/buy-online/WO-shopping-deals-best-W136O/automobiles.html" title="Automobiles">Automobiles</a>
+				<a href="/buy/automobiles.html" title="Automobiles">Automobiles</a>
 			
 			
 	     <input type="hidden" id="columncategorydiv4" value="3">
@@ -622,40 +665,40 @@ function naaptolAffiliateTracking(url){
              <tbody><tr> 
              
              <td width="33%" valign="top"><ul>
-             <li class="MainLink"><a href="/buy-online/WO-shopping-best-deals-W139O/automobiles/cars.html" title="Cars">Cars</a></li>
-             <li class="MainLink"><a href="/buy-online/WO-shopping-best-deals-W137O/automobiles/motor_bikes.html" title="Motor Bikes">Motor Bikes</a></li>
-             <li class="MainLink"><a href="/buy-online/WO-shopping-best-deals-W138O/automobiles/scooters_-_mopeds.html" title="Scooters &amp; Mopeds">Scooters &amp; Mopeds</a></li>
-             <li class="MainLink"><a href="/buy-online/WO-shopping-deals-best-W175O/automobiles/auto_accessories.html" title="Auto Accessories">Auto Accessories</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2391O/automobiles/auto_accessories/car_inverters.html" title="Car Inverters">Car Inverters</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W177O/automobiles/auto_accessories/auto_utility.html" title="Auto Utility">Auto Utility</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W178O/automobiles/auto_accessories/car_mp3_-_cd_player.html" title="Car Mp3 &amp; CD Player">Car Mp3 &amp; CD Player</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W179O/automobiles/auto_accessories/car_subwoofer_-_speaker.html" title="Car Subwoofer &amp; Speaker">Car Subwoofer &amp; Speaker</a></li>
+             <li class="MainLink"><a href="/buy/automobiles/cars.html" title="Cars">Cars</a></li>
+             <li class="MainLink"><a href="/buy/automobiles/motor_bikes.html" title="Motor Bikes">Motor Bikes</a></li>
+             <li class="MainLink"><a href="/buy/automobiles/scooters_-_mopeds.html" title="Scooters &amp; Mopeds">Scooters &amp; Mopeds</a></li>
+             <li class="MainLink"><a href="/buy/automobiles/auto_accessories.html" title="Auto Accessories">Auto Accessories</a></li>
+             <li><a href="/buy/automobiles/auto_accessories/car_inverters.html" title="Car Inverters">Car Inverters</a></li>
+             <li><a href="/buy/automobiles/auto_accessories/auto_utility.html" title="Auto Utility">Auto Utility</a></li>
+             <li><a href="/buy/automobiles/auto_accessories/car_mp3_-_cd_player.html" title="Car Mp3 &amp; CD Player">Car Mp3 &amp; CD Player</a></li>
+             <li><a href="/buy/automobiles/auto_accessories/car_subwoofer_-_speaker.html" title="Car Subwoofer &amp; Speaker">Car Subwoofer &amp; Speaker</a></li>
              
              </ul></td>
              
              <td width="33%" valign="top"><ul>
-             <li><a href="/buy-online/WO-shopping-best-deals-W180O/automobiles/auto_accessories/car_dvd_player.html" title="Car DVD Player">Car DVD Player</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W181O/automobiles/auto_accessories/car_bluetooth.html" title="Car Bluetooth">Car Bluetooth</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W182O/automobiles/auto_accessories/car_jack.html" title="Car Jack">Car Jack</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W185O/automobiles/auto_accessories/car_battery.html" title="Car Battery">Car Battery</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W186O/automobiles/auto_accessories/car_charger.html" title="Car Charger">Car Charger</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W187O/automobiles/auto_accessories/car_amplifier.html" title="Car Amplifier">Car Amplifier</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W188O/automobiles/auto_accessories/car_vacuum_cleaner.html" title="Car Vacuum Cleaner">Car Vacuum Cleaner</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W222O/automobiles/auto_accessories/car_tyres.html" title="Car Tyres">Car Tyres</a></li>
+             <li><a href="/buy/automobiles/auto_accessories/car_dvd_player.html" title="Car DVD Player">Car DVD Player</a></li>
+             <li><a href="/buy/automobiles/auto_accessories/car_bluetooth.html" title="Car Bluetooth">Car Bluetooth</a></li>
+             <li><a href="/buy/automobiles/auto_accessories/car_jack.html" title="Car Jack">Car Jack</a></li>
+             <li><a href="/buy/automobiles/auto_accessories/car_battery.html" title="Car Battery">Car Battery</a></li>
+             <li><a href="/buy/automobiles/auto_accessories/car_charger.html" title="Car Charger">Car Charger</a></li>
+             <li><a href="/buy/automobiles/auto_accessories/car_amplifier.html" title="Car Amplifier">Car Amplifier</a></li>
+             <li><a href="/buy/automobiles/auto_accessories/car_vacuum_cleaner.html" title="Car Vacuum Cleaner">Car Vacuum Cleaner</a></li>
+             <li><a href="/buy/automobiles/auto_accessories/car_tyres.html" title="Car Tyres">Car Tyres</a></li>
              
              </ul></td>
              
              <td width="34%" valign="top"><ul>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2411O/automobiles/auto_accessories/bike_body_covers.html" title="Bike Body Covers">Bike Body Covers</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2412O/automobiles/auto_accessories/car_body_covers.html" title="Car Body Covers">Car Body Covers</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2413O/automobiles/auto_accessories/misc.html" title="Misc">Misc</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2414O/automobiles/auto_accessories/car_monitors.html" title="Car Monitors">Car Monitors</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2416O/automobiles/auto_accessories/helmets.html" title="Helmets">Helmets</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2488O/automobiles/auto_accessories/alloy_wheels.html" title="Alloy Wheels">Alloy Wheels</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2489O/automobiles/auto_accessories/wheel_covers.html" title="Wheel Covers">Wheel Covers</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2577O/automobiles/auto_accessories/car_seat_cover.html" title="Car Seat Cover">Car Seat Cover</a></li>
+             <li><a href="/buy/automobiles/auto_accessories/bike_body_covers.html" title="Bike Body Covers">Bike Body Covers</a></li>
+             <li><a href="/buy/automobiles/auto_accessories/car_body_covers.html" title="Car Body Covers">Car Body Covers</a></li>
+             <li><a href="/buy/automobiles/auto_accessories/misc.html" title="Misc">Misc</a></li>
+             <li><a href="/buy/automobiles/auto_accessories/car_monitors.html" title="Car Monitors">Car Monitors</a></li>
+             <li><a href="/buy/automobiles/auto_accessories/helmets.html" title="Helmets">Helmets</a></li>
+             <li><a href="/buy/automobiles/auto_accessories/alloy_wheels.html" title="Alloy Wheels">Alloy Wheels</a></li>
+             <li><a href="/buy/automobiles/auto_accessories/wheel_covers.html" title="Wheel Covers">Wheel Covers</a></li>
+             <li><a href="/buy/automobiles/auto_accessories/car_seat_cover.html" title="Car Seat Cover">Car Seat Cover</a></li>
              
-              <li><a href="/buy-online/WO-shopping-best-deals-W2606O/automobiles/auto_accessories/car_air_compressor.html" title="Car Air Compressor">Car Air Compressor</a></li>
+              <li><a href="/buy/automobiles/auto_accessories/car_air_compressor.html" title="Car Air Compressor">Car Air Compressor</a></li>
               
              </ul></td>
              
@@ -665,7 +708,7 @@ function naaptolAffiliateTracking(url){
 	     </div>
 	     
 			</td><td id="show5" class="tabtd" onmouseover="this.className='tabtdOver';divShowHide('categorydiv5','show','show5');" onmouseout="this.className='tabtd';divShowHide('categorydiv5','hide','show5');">
-				<a href="/buy-online/WO-shopping-deals-best-W23O/kitchen_appliances.html" title="Kitchen Appliances">Kitchen</a>
+				<a href="/buy/kitchen_appliances.html" title="Kitchen Appliances">Kitchen</a>
 			
 			
 	     <input type="hidden" id="columncategorydiv5" value="5">
@@ -675,64 +718,64 @@ function naaptolAffiliateTracking(url){
              <tbody><tr> 
              
              <td width="20%" valign="top"><ul>
-             <li class="MainLink"><a href="/buy-online/WO-shopping-deals-best-W50O/kitchen_appliances/dishwashers_-_filters.html" title="Dishwashers &amp; Filters">Dishwashers &amp; Filters</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W81O/kitchen_appliances/dishwashers_-_filters/dishwashers.html" title="Dishwashers">Dishwashers</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W86O/kitchen_appliances/dishwashers_-_filters/water_filters_and_purifiers.html" title="Water Filters and Purifiers">Water Filters and Purifiers</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W130O/kitchen_appliances/dishwashers_-_filters/kitchen_sinks.html" title="Kitchen Sinks">Kitchen Sinks</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2605O/kitchen_appliances/dishwashers_-_filters/kitchen_sink_fittings.html" title="Kitchen Sink Fittings">Kitchen Sink Fittings</a></li>
-             <li class="MainLink"><a href="/buy-online/WO-shopping-deals-best-W49O/kitchen_appliances/mixers_-_grinders.html" title="Mixers &amp; Grinders">Mixers &amp; Grinders</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W78O/kitchen_appliances/mixers_-_grinders/food_processors.html" title="Food Processors">Food Processors</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W79O/kitchen_appliances/mixers_-_grinders/mixer_-_juicer.html" title="Mixer &amp; Juicer">Mixer &amp; Juicer</a></li>
+             <li class="MainLink"><a href="/buy/kitchen_appliances/dishwashers_-_filters.html" title="Dishwashers &amp; Filters">Dishwashers &amp; Filters</a></li>
+             <li><a href="/buy/kitchen_appliances/dishwashers_-_filters/dishwashers.html" title="Dishwashers">Dishwashers</a></li>
+             <li><a href="/buy/kitchen_appliances/dishwashers_-_filters/water_filters_and_purifiers.html" title="Water Filters and Purifiers">Water Filters and Purifiers</a></li>
+             <li><a href="/buy/kitchen_appliances/dishwashers_-_filters/kitchen_sinks.html" title="Kitchen Sinks">Kitchen Sinks</a></li>
+             <li><a href="/buy/kitchen_appliances/dishwashers_-_filters/kitchen_sink_fittings.html" title="Kitchen Sink Fittings">Kitchen Sink Fittings</a></li>
+             <li class="MainLink"><a href="/buy/kitchen_appliances/mixers_-_grinders.html" title="Mixers &amp; Grinders">Mixers &amp; Grinders</a></li>
+             <li><a href="/buy/kitchen_appliances/mixers_-_grinders/food_processors.html" title="Food Processors">Food Processors</a></li>
+             <li><a href="/buy/kitchen_appliances/mixers_-_grinders/mixer_-_juicer.html" title="Mixer &amp; Juicer">Mixer &amp; Juicer</a></li>
              
              </ul></td>
              
              <td width="20%" valign="top"><ul>
-             <li><a href="/buy-online/WO-shopping-best-deals-W83O/kitchen_appliances/mixers_-_grinders/hand_blenders.html" title="Hand Blenders">Hand Blenders</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2498O/kitchen_appliances/mixers_-_grinders/aata_maker.html" title="Aata Maker">Aata Maker</a></li>
-             <li class="MainLink"><a href="/buy-online/WO-shopping-deals-best-W48O/kitchen_appliances/cooking.html" title="Cooking">Cooking</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W80O/kitchen_appliances/cooking/coffee_makers.html" title="Coffee Makers">Coffee Makers</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W82O/kitchen_appliances/cooking/electric_cookers_-_kettles.html" title="Electric Cookers &amp; Kettles">Electric Cookers &amp; Kettles</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W84O/kitchen_appliances/cooking/rice_cookers.html" title="Rice Cookers">Rice Cookers</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W85O/kitchen_appliances/cooking/toasters.html" title="Toasters">Toasters</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W109O/kitchen_appliances/cooking/electric_chimneys.html" title="Electric Chimneys">Electric Chimneys</a></li>
+             <li><a href="/buy/kitchen_appliances/mixers_-_grinders/hand_blenders.html" title="Hand Blenders">Hand Blenders</a></li>
+             <li><a href="/buy/kitchen_appliances/mixers_-_grinders/aata_maker.html" title="Aata Maker">Aata Maker</a></li>
+             <li class="MainLink"><a href="/buy/kitchen_appliances/cooking.html" title="Cooking">Cooking</a></li>
+             <li><a href="/buy/kitchen_appliances/cooking/coffee_makers.html" title="Coffee Makers">Coffee Makers</a></li>
+             <li><a href="/buy/kitchen_appliances/cooking/electric_cookers_-_kettles.html" title="Electric Cookers &amp; Kettles">Electric Cookers &amp; Kettles</a></li>
+             <li><a href="/buy/kitchen_appliances/cooking/rice_cookers.html" title="Rice Cookers">Rice Cookers</a></li>
+             <li><a href="/buy/kitchen_appliances/cooking/toasters.html" title="Toasters">Toasters</a></li>
+             <li><a href="/buy/kitchen_appliances/cooking/electric_chimneys.html" title="Electric Chimneys">Electric Chimneys</a></li>
              
              </ul></td>
              
              <td width="20%" valign="top"><ul>
-             <li><a href="/buy-online/WO-shopping-best-deals-W110O/kitchen_appliances/cooking/cooktops_-_hobs.html" title="Cooktops &amp; Hobs">Cooktops &amp; Hobs</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W112O/kitchen_appliances/cooking/ovens.html" title="Ovens">Ovens</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W113O/kitchen_appliances/cooking/cooking_range.html" title="Cooking Range">Cooking Range</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W115O/kitchen_appliances/cooking/microwave_oven.html" title="Microwave Oven">Microwave Oven</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2541O/kitchen_appliances/cooking/otgs.html" title="OTGs">OTGs</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2554O/kitchen_appliances/cooking/food_maker.html" title="Food Maker">Food Maker</a></li>
-             <li class="MainLink"><a href="/buy-online/WO-shopping-best-deals-W77O/kitchen_appliances/refrigerators.html" title="Refrigerators">Refrigerators</a></li>
-             <li class="MainLink"><a href="/buy-online/WO-shopping-deals-best-W250O/kitchen_appliances/kitchen_utensils.html" title="Kitchen Utensils">Kitchen Utensils</a></li>
+             <li><a href="/buy/kitchen_appliances/cooking/cooktops_-_hobs.html" title="Cooktops &amp; Hobs">Cooktops &amp; Hobs</a></li>
+             <li><a href="/buy/kitchen_appliances/cooking/ovens.html" title="Ovens">Ovens</a></li>
+             <li><a href="/buy/kitchen_appliances/cooking/cooking_range.html" title="Cooking Range">Cooking Range</a></li>
+             <li><a href="/buy/kitchen_appliances/cooking/microwave_oven.html" title="Microwave Oven">Microwave Oven</a></li>
+             <li><a href="/buy/kitchen_appliances/cooking/otgs.html" title="OTGs">OTGs</a></li>
+             <li><a href="/buy/kitchen_appliances/cooking/food_maker.html" title="Food Maker">Food Maker</a></li>
+             <li class="MainLink"><a href="/buy/kitchen_appliances/refrigerators.html" title="Refrigerators">Refrigerators</a></li>
+             <li class="MainLink"><a href="/buy/kitchen_appliances/kitchen_utensils.html" title="Kitchen Utensils">Kitchen Utensils</a></li>
              
              </ul></td>
              
              <td width="20%" valign="top"><ul>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2466O/kitchen_appliances/kitchen_utensils/servewares.html" title="Servewares">Servewares</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2467O/kitchen_appliances/kitchen_utensils/dinnerwares.html" title="Dinnerwares">Dinnerwares</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2469O/kitchen_appliances/kitchen_utensils/bar_and_cocktail_glasses.html" title="Bar and Cocktail Glasses">Bar and Cocktail Glasses</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2470O/kitchen_appliances/kitchen_utensils/cutleries.html" title="Cutleries">Cutleries</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2471O/kitchen_appliances/kitchen_utensils/kitchen_tools_.html" title="Kitchen Tools ">Kitchen Tools </a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2472O/kitchen_appliances/kitchen_utensils/drinkwares_-_glasswares.html" title="Drinkwares &amp; Glasswares">Drinkwares &amp; Glasswares</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2473O/kitchen_appliances/kitchen_utensils/bar_and_wine_accessories.html" title="Bar and Wine Accessories">Bar and Wine Accessories</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2474O/kitchen_appliances/kitchen_utensils/cookwares.html" title="Cookwares">Cookwares</a></li>
+             <li><a href="/buy/kitchen_appliances/kitchen_utensils/servewares.html" title="Servewares">Servewares</a></li>
+             <li><a href="/buy/kitchen_appliances/kitchen_utensils/dinnerwares.html" title="Dinnerwares">Dinnerwares</a></li>
+             <li><a href="/buy/kitchen_appliances/kitchen_utensils/bar_and_cocktail_glasses.html" title="Bar and Cocktail Glasses">Bar and Cocktail Glasses</a></li>
+             <li><a href="/buy/kitchen_appliances/kitchen_utensils/cutleries.html" title="Cutleries">Cutleries</a></li>
+             <li><a href="/buy/kitchen_appliances/kitchen_utensils/kitchen_tools_.html" title="Kitchen Tools ">Kitchen Tools </a></li>
+             <li><a href="/buy/kitchen_appliances/kitchen_utensils/drinkwares_-_glasswares.html" title="Drinkwares &amp; Glasswares">Drinkwares &amp; Glasswares</a></li>
+             <li><a href="/buy/kitchen_appliances/kitchen_utensils/bar_and_wine_accessories.html" title="Bar and Wine Accessories">Bar and Wine Accessories</a></li>
+             <li><a href="/buy/kitchen_appliances/kitchen_utensils/cookwares.html" title="Cookwares">Cookwares</a></li>
              
              </ul></td>
              
              <td width="21%" valign="top"><ul>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2550O/kitchen_appliances/kitchen_utensils/kids_dinner_ware.html" title="Kids Dinner Ware">Kids Dinner Ware</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2557O/kitchen_appliances/kitchen_utensils/storage_containers.html" title="Storage Containers">Storage Containers</a></li>
-             <li class="MainLink"><a href="/buy-online/WO-shopping-deals-best-W371O/kitchen_appliances/safety_accessories.html" title="Safety Accessories">Safety Accessories</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W373O/kitchen_appliances/safety_accessories/insect_killer.html" title="Insect Killer">Insect Killer</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2475O/kitchen_appliances/safety_accessories/fire_extinguishers.html" title="Fire Extinguishers">Fire Extinguishers</a></li>
-             <li class="MainLink"><a href="/buy-online/WO-shopping-best-deals-W2438O/kitchen_appliances/kitchen_shelves_-_baskets.html" title="Kitchen Shelves &amp; Baskets">Kitchen Shelves &amp; Baskets</a></li>
-             <li class="MainLink"><a href="/buy-online/WO-shopping-best-deals-W2481O/kitchen_appliances/waste_food_disposer.html" title="Waste Food Disposer">Waste Food Disposer</a></li>
-             <li class="MainLink"><a href="/buy-online/WO-shopping-best-deals-W2482O/kitchen_appliances/house_keeping.html" title="House Keeping">House Keeping</a></li>
+             <li><a href="/buy/kitchen_appliances/kitchen_utensils/kids_dinner_ware.html" title="Kids Dinner Ware">Kids Dinner Ware</a></li>
+             <li><a href="/buy/kitchen_appliances/kitchen_utensils/storage_containers.html" title="Storage Containers">Storage Containers</a></li>
+             <li class="MainLink"><a href="/buy/kitchen_appliances/safety_accessories.html" title="Safety Accessories">Safety Accessories</a></li>
+             <li><a href="/buy/kitchen_appliances/safety_accessories/insect_killer.html" title="Insect Killer">Insect Killer</a></li>
+             <li><a href="/buy/kitchen_appliances/safety_accessories/fire_extinguishers.html" title="Fire Extinguishers">Fire Extinguishers</a></li>
+             <li class="MainLink"><a href="/buy/kitchen_appliances/kitchen_shelves_-_baskets.html" title="Kitchen Shelves &amp; Baskets">Kitchen Shelves &amp; Baskets</a></li>
+             <li class="MainLink"><a href="/buy/kitchen_appliances/waste_food_disposer.html" title="Waste Food Disposer">Waste Food Disposer</a></li>
+             <li class="MainLink"><a href="/buy/kitchen_appliances/house_keeping.html" title="House Keeping">House Keeping</a></li>
              
-              <li class="MainLink"><a href="/buy-online/WO-shopping-best-deals-W2524O/kitchen_appliances/modular_kitchens.html" title="Modular Kitchens">Modular Kitchens</a></li>
+              <li class="MainLink"><a href="/buy/kitchen_appliances/modular_kitchens.html" title="Modular Kitchens">Modular Kitchens</a></li>
               
              </ul></td>
              
@@ -742,7 +785,7 @@ function naaptolAffiliateTracking(url){
 	     </div>
 	     
 			</td><td id="show6" class="tabtd" onmouseover="this.className='tabtdOver';divShowHide('categorydiv6','show','show6');" onmouseout="this.className='tabtd';divShowHide('categorydiv6','hide','show6');">
-				<a href="/buy-online/WO-shopping-deals-best-W117O/gems_-_jewellery.html" title="Gems &amp; Jewellery">Jewellery</a>
+				<a href="/buy/gems_-_jewellery.html" title="Gems &amp; Jewellery">Jewellery</a>
 			
 			
 	     <input type="hidden" id="columncategorydiv6" value="3">
@@ -752,26 +795,26 @@ function naaptolAffiliateTracking(url){
              <tbody><tr> 
              
              <td width="33%" valign="top"><ul>
-             <li class="MainLink"><a href="/buy-online/WO-shopping-best-deals-W143O/gems_-_jewellery/diamond_jewellery.html" title="Diamond Jewellery">Diamond Jewellery</a></li>
-             <li class="MainLink"><a href="/buy-online/WO-shopping-best-deals-W145O/gems_-_jewellery/gold_jewellery.html" title="Gold Jewellery">Gold Jewellery</a></li>
-             <li class="MainLink"><a href="/buy-online/WO-shopping-best-deals-W146O/gems_-_jewellery/silver_jewellery.html" title="Silver Jewellery">Silver Jewellery</a></li>
-             <li class="MainLink"><a href="/buy-online/WO-shopping-best-deals-W147O/gems_-_jewellery/artificial_jewellery.html" title="Artificial Jewellery">Artificial Jewellery</a></li>
+             <li class="MainLink"><a href="/buy/gems_-_jewellery/diamond_jewellery.html" title="Diamond Jewellery">Diamond Jewellery</a></li>
+             <li class="MainLink"><a href="/buy/gems_-_jewellery/gold_jewellery.html" title="Gold Jewellery">Gold Jewellery</a></li>
+             <li class="MainLink"><a href="/buy/gems_-_jewellery/silver_jewellery.html" title="Silver Jewellery">Silver Jewellery</a></li>
+             <li class="MainLink"><a href="/buy/gems_-_jewellery/artificial_jewellery.html" title="Artificial Jewellery">Artificial Jewellery</a></li>
              
              </ul></td>
              
              <td width="33%" valign="top"><ul>
-             <li class="MainLink"><a href="/buy-online/WO-shopping-best-deals-W165O/gems_-_jewellery/estate_jewellery.html" title="Estate Jewellery">Estate Jewellery</a></li>
-             <li class="MainLink"><a href="/buy-online/WO-shopping-deals-best-W368O/gems_-_jewellery/gemstones.html" title="Gemstones">Gemstones</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W148O/gems_-_jewellery/gemstones/loose_gemstones.html" title="Loose Gemstones">Loose Gemstones</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W369O/gems_-_jewellery/gemstones/gemstone_jewellery.html" title="Gemstone Jewellery">Gemstone Jewellery</a></li>
+             <li class="MainLink"><a href="/buy/gems_-_jewellery/estate_jewellery.html" title="Estate Jewellery">Estate Jewellery</a></li>
+             <li class="MainLink"><a href="/buy/gems_-_jewellery/gemstones.html" title="Gemstones">Gemstones</a></li>
+             <li><a href="/buy/gems_-_jewellery/gemstones/loose_gemstones.html" title="Loose Gemstones">Loose Gemstones</a></li>
+             <li><a href="/buy/gems_-_jewellery/gemstones/gemstone_jewellery.html" title="Gemstone Jewellery">Gemstone Jewellery</a></li>
              
              </ul></td>
              
              <td width="34%" valign="top"><ul>
-             <li class="MainLink"><a href="/buy-online/WO-shopping-best-deals-W378O/gems_-_jewellery/pearl_jewellery.html" title="Pearl Jewellery">Pearl Jewellery</a></li>
-             <li class="MainLink"><a href="/buy-online/WO-shopping-best-deals-W2328O/gems_-_jewellery/jewellery_accessories.html" title="Jewellery Accessories">Jewellery Accessories</a></li>
-             <li class="MainLink"><a href="/buy-online/WO-shopping-best-deals-W2507O/gems_-_jewellery/gift_hamper.html" title="Gift Hamper">Gift Hamper</a></li>
-             <li class="MainLink"><a href="/buy-online/WO-shopping-best-deals-W2521O/gems_-_jewellery/spiritual_jewellery.html" title="Spiritual Jewellery">Spiritual Jewellery</a></li>
+             <li class="MainLink"><a href="/buy/gems_-_jewellery/pearl_jewellery.html" title="Pearl Jewellery">Pearl Jewellery</a></li>
+             <li class="MainLink"><a href="/buy/gems_-_jewellery/jewellery_accessories.html" title="Jewellery Accessories">Jewellery Accessories</a></li>
+             <li class="MainLink"><a href="/buy/gems_-_jewellery/gift_hamper.html" title="Gift Hamper">Gift Hamper</a></li>
+             <li class="MainLink"><a href="/buy/gems_-_jewellery/spiritual_jewellery.html" title="Spiritual Jewellery">Spiritual Jewellery</a></li>
              
              </ul></td>
              
@@ -781,7 +824,7 @@ function naaptolAffiliateTracking(url){
 	     </div>
 	     
 			</td><td id="show7" class="tabtd" onmouseover="this.className='tabtdOver';divShowHide('categorydiv7','show','show7');" onmouseout="this.className='tabtd';divShowHide('categorydiv7','hide','show7');">
-				<a href="/buy-online/WO-shopping-deals-best-W5O/gifts.html" title="Gifts">Gifts</a>
+				<a href="/buy/gifts.html" title="Gifts">Gifts</a>
 			
 			
 	     <input type="hidden" id="columncategorydiv7" value="4">
@@ -791,50 +834,50 @@ function naaptolAffiliateTracking(url){
              <tbody><tr> 
              
              <td width="25%" valign="top"><ul>
-             <li class="MainLink"><a href="/buy-online/WO-shopping-best-deals-W31O/gifts/flowers.html" title="Flowers">Flowers</a></li>
-             <li class="MainLink"><a href="/buy-online/WO-shopping-deals-best-W32O/gifts/cakes_chocolates_-_sweets.html" title="Cakes Chocolates &amp; Sweets">Cakes Chocolates &amp; Sweets</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2533O/gifts/cakes_chocolates_-_sweets/cakes.html" title="Cakes">Cakes</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2534O/gifts/cakes_chocolates_-_sweets/chocolates.html" title="Chocolates">Chocolates</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2535O/gifts/cakes_chocolates_-_sweets/sweets.html" title="Sweets">Sweets</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2536O/gifts/cakes_chocolates_-_sweets/dry_fruits.html" title="Dry Fruits">Dry Fruits</a></li>
-             <li class="MainLink"><a href="/buy-online/WO-shopping-best-deals-W33O/gifts/combo_gift_packs.html" title="Combo Gift Packs">Combo Gift Packs</a></li>
-             <li class="MainLink"><a href="/buy-online/WO-shopping-best-deals-W131O/gifts/rakhis.html" title="Rakhis">Rakhis</a></li>
+             <li class="MainLink"><a href="/buy/gifts/flowers.html" title="Flowers">Flowers</a></li>
+             <li class="MainLink"><a href="/buy/gifts/cakes_chocolates_-_sweets.html" title="Cakes Chocolates &amp; Sweets">Cakes Chocolates &amp; Sweets</a></li>
+             <li><a href="/buy/gifts/cakes_chocolates_-_sweets/cakes.html" title="Cakes">Cakes</a></li>
+             <li><a href="/buy/gifts/cakes_chocolates_-_sweets/chocolates.html" title="Chocolates">Chocolates</a></li>
+             <li><a href="/buy/gifts/cakes_chocolates_-_sweets/sweets.html" title="Sweets">Sweets</a></li>
+             <li><a href="/buy/gifts/cakes_chocolates_-_sweets/dry_fruits.html" title="Dry Fruits">Dry Fruits</a></li>
+             <li class="MainLink"><a href="/buy/gifts/combo_gift_packs.html" title="Combo Gift Packs">Combo Gift Packs</a></li>
+             <li class="MainLink"><a href="/buy/gifts/rakhis.html" title="Rakhis">Rakhis</a></li>
              
              </ul></td>
              
              <td width="25%" valign="top"><ul>
-             <li class="MainLink"><a href="/buy-online/WO-shopping-best-deals-W169O/gifts/name_accessories.html" title="Name Accessories">Name Accessories</a></li>
-             <li class="MainLink"><a href="/buy-online/WO-shopping-best-deals-W170O/gifts/lucky_bamboo.html" title="Lucky Bamboo">Lucky Bamboo</a></li>
-             <li class="MainLink"><a href="/buy-online/WO-shopping-deals-best-W195O/gifts/toys_-_nursery.html" title="Toys &amp; Nursery">Toys &amp; Nursery</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2565O/gifts/toys_-_nursery/games_and_puzzles.html" title="Games and puzzles">Games and puzzles</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2566O/gifts/toys_-_nursery/dolls.html" title="Dolls">Dolls</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2567O/gifts/toys_-_nursery/playing_toys.html" title="Playing Toys">Playing Toys</a></li>
-             <li class="MainLink"><a href="/buy-online/WO-shopping-deals-best-W199O/gifts/stationary.html" title="Stationary">Stationary</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2551O/gifts/stationary/kids_stationary.html" title="Kids Stationary">Kids Stationary</a></li>
+             <li class="MainLink"><a href="/buy/gifts/name_accessories.html" title="Name Accessories">Name Accessories</a></li>
+             <li class="MainLink"><a href="/buy/gifts/lucky_bamboo.html" title="Lucky Bamboo">Lucky Bamboo</a></li>
+             <li class="MainLink"><a href="/buy/gifts/toys_-_nursery.html" title="Toys &amp; Nursery">Toys &amp; Nursery</a></li>
+             <li><a href="/buy/gifts/toys_-_nursery/games_and_puzzles.html" title="Games and puzzles">Games and puzzles</a></li>
+             <li><a href="/buy/gifts/toys_-_nursery/dolls.html" title="Dolls">Dolls</a></li>
+             <li><a href="/buy/gifts/toys_-_nursery/playing_toys.html" title="Playing Toys">Playing Toys</a></li>
+             <li class="MainLink"><a href="/buy/gifts/stationary.html" title="Stationary">Stationary</a></li>
+             <li><a href="/buy/gifts/stationary/kids_stationary.html" title="Kids Stationary">Kids Stationary</a></li>
              
              </ul></td>
              
              <td width="25%" valign="top"><ul>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2491O/gifts/stationary/school_bags.html" title="School Bags">School Bags</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2552O/gifts/stationary/office_stationary.html" title="Office Stationary">Office Stationary</a></li>
-             <li class="MainLink"><a href="/buy-online/WO-shopping-best-deals-W251O/gifts/personalized_merchandise.html" title="Personalized Merchandise">Personalized Merchandise</a></li>
-             <li class="MainLink"><a href="/buy-online/WO-shopping-deals-best-W366O/gifts/cards.html" title="Cards">Cards</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W367O/gifts/cards/greeting_cards.html" title="Greeting Cards">Greeting Cards</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2440O/gifts/cards/ethnic_cards.html" title="Ethnic Cards">Ethnic Cards</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2441O/gifts/cards/birthday_cards.html" title="Birthday Cards">Birthday Cards</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2477O/gifts/cards/kids_birthday_cards.html" title="kids birthday Cards">kids birthday Cards</a></li>
+             <li><a href="/buy/gifts/stationary/school_bags.html" title="School Bags">School Bags</a></li>
+             <li><a href="/buy/gifts/stationary/office_stationary.html" title="Office Stationary">Office Stationary</a></li>
+             <li class="MainLink"><a href="/buy/gifts/personalized_merchandise.html" title="Personalized Merchandise">Personalized Merchandise</a></li>
+             <li class="MainLink"><a href="/buy/gifts/cards.html" title="Cards">Cards</a></li>
+             <li><a href="/buy/gifts/cards/greeting_cards.html" title="Greeting Cards">Greeting Cards</a></li>
+             <li><a href="/buy/gifts/cards/ethnic_cards.html" title="Ethnic Cards">Ethnic Cards</a></li>
+             <li><a href="/buy/gifts/cards/birthday_cards.html" title="Birthday Cards">Birthday Cards</a></li>
+             <li><a href="/buy/gifts/cards/kids_birthday_cards.html" title="kids birthday Cards">kids birthday Cards</a></li>
              
              </ul></td>
              
              <td width="25%" valign="top"><ul>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2483O/gifts/cards/personalized_cards.html" title="Personalized Cards">Personalized Cards</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2530O/gifts/cards/irish_folding_cards.html" title="Irish Folding Cards">Irish Folding Cards</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2531O/gifts/cards/general_cards.html" title="General Cards">General Cards</a></li>
-             <li class="MainLink"><a href="/buy-online/WO-shopping-best-deals-W2490O/gifts/miscellaneous_gifts.html" title="Miscellaneous Gifts">Miscellaneous Gifts</a></li>
-             <li class="MainLink"><a href="/buy-online/WO-shopping-best-deals-W2522O/gifts/gift_voucher.html" title="Gift Voucher">Gift Voucher</a></li>
-             <li class="MainLink"><a href="/buy-online/WO-shopping-best-deals-W2523O/gifts/crackers_and_fireworks.html" title="Crackers and Fireworks">Crackers and Fireworks</a></li>
-             <li class="MainLink"><a href="/buy-online/WO-shopping-best-deals-W2532O/gifts/soft_toys.html" title="Soft Toys">Soft Toys</a></li>
-             <li class="MainLink"><a href="/buy-online/WO-shopping-best-deals-W2568O/gifts/corporate_gifts.html" title="Corporate Gifts">Corporate Gifts</a></li>
+             <li><a href="/buy/gifts/cards/personalized_cards.html" title="Personalized Cards">Personalized Cards</a></li>
+             <li><a href="/buy/gifts/cards/irish_folding_cards.html" title="Irish Folding Cards">Irish Folding Cards</a></li>
+             <li><a href="/buy/gifts/cards/general_cards.html" title="General Cards">General Cards</a></li>
+             <li class="MainLink"><a href="/buy/gifts/miscellaneous_gifts.html" title="Miscellaneous Gifts">Miscellaneous Gifts</a></li>
+             <li class="MainLink"><a href="/buy/gifts/gift_voucher.html" title="Gift Voucher">Gift Voucher</a></li>
+             <li class="MainLink"><a href="/buy/gifts/crackers_and_fireworks.html" title="Crackers and Fireworks">Crackers and Fireworks</a></li>
+             <li class="MainLink"><a href="/buy/gifts/soft_toys.html" title="Soft Toys">Soft Toys</a></li>
+             <li class="MainLink"><a href="/buy/gifts/corporate_gifts.html" title="Corporate Gifts">Corporate Gifts</a></li>
              
              </ul></td>
              
@@ -844,7 +887,7 @@ function naaptolAffiliateTracking(url){
 	     </div>
 	     
 			</td><td id="show8" class="tabtd" onmouseover="this.className='tabtdOver';divShowHide('categorydiv8','show','show8');" onmouseout="this.className='tabtd';divShowHide('categorydiv8','hide','show8');">
-				<a href="/buy-online/WO-shopping-deals-best-W19O/fashion.html" title="Fashion">Fashion</a>
+				<a href="/buy/fashion.html" title="Fashion">Fashion</a>
 			
 			
 	     <input type="hidden" id="columncategorydiv8" value="4">
@@ -854,54 +897,50 @@ function naaptolAffiliateTracking(url){
              <tbody><tr> 
              
              <td width="25%" valign="top"><ul>
-             <li class="MainLink"><a href="/buy-online/WO-shopping-best-deals-W142O/fashion/watches.html" title="Watches">Watches</a></li>
-             <li class="MainLink"><a href="/buy-online/WO-shopping-best-deals-W190O/fashion/opticals.html" title="Opticals">Opticals</a></li>
-             <li class="MainLink"><a href="/buy-online/WO-shopping-deals-best-W200O/fashion/bags.html" title="Bags">Bags</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W269O/fashion/bags/casual_bags.html" title="Casual Bags">Casual Bags</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W271O/fashion/bags/travel_bags.html" title="Travel Bags">Travel Bags</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W272O/fashion/bags/briefcase_-_executive_bags_&#10;.html" title="Briefcase &amp; Executive Bags 
-">Briefcase &amp; Executive Bags 
-</a></li>
-             <li class="MainLink"><a href="/buy-online/WO-shopping-deals-best-W215O/fashion/fashion_accessories.html" title="Fashion Accessories">Fashion Accessories</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2614O/fashion/fashion_accessories/travel_accessories.html" title="Travel Accessories">Travel Accessories</a></li>
+             <li class="MainLink"><a href="/buy/fashion/watches.html" title="Watches">Watches</a></li>
+             <li class="MainLink"><a href="/buy/fashion/opticals.html" title="Opticals">Opticals</a></li>
+             <li class="MainLink"><a href="/buy/fashion/bags.html" title="Bags">Bags</a></li>
+             <li><a href="/buy/fashion/bags/casual_bags.html" title="Casual Bags">Casual Bags</a></li>
+             <li><a href="/buy/fashion/bags/travel_bags.html" title="Travel Bags">Travel Bags</a></li>
+             <li><a href="/buy/fashion/bags/briefcase_-_executive_bags.html" title="Briefcase &amp; Executive Bags">Briefcase &amp; Executive Bags</a></li>
+             <li class="MainLink"><a href="/buy/fashion/fashion_accessories.html" title="Fashion Accessories">Fashion Accessories</a></li>
+             <li><a href="/buy/fashion/fashion_accessories/travel_accessories.html" title="Travel Accessories">Travel Accessories</a></li>
              
              </ul></td>
              
              <td width="25%" valign="top"><ul>
-             <li><a href="/buy-online/WO-shopping-best-deals-W217O/fashion/fashion_accessories/belts.html" title="Belts">Belts</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W218O/fashion/fashion_accessories/wallets.html" title="Wallets">Wallets</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W219O/fashion/fashion_accessories/organizers.html" title="Organizers">Organizers</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W220O/fashion/fashion_accessories/ties.html" title="Ties">Ties</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W230O/fashion/fashion_accessories/cufflinks.html" title="Cufflinks">Cufflinks</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W255O/fashion/fashion_accessories/tie_pins.html" title="Tie Pins">Tie Pins</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W256O/fashion/fashion_accessories/kurta_buttons.html" title="Kurta Buttons">Kurta Buttons</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W268O/fashion/fashion_accessories/caps.html" title="Caps">Caps</a></li>
+             <li><a href="/buy/fashion/fashion_accessories/belts.html" title="Belts">Belts</a></li>
+             <li><a href="/buy/fashion/fashion_accessories/wallets.html" title="Wallets">Wallets</a></li>
+             <li><a href="/buy/fashion/fashion_accessories/organizers.html" title="Organizers">Organizers</a></li>
+             <li><a href="/buy/fashion/fashion_accessories/ties.html" title="Ties">Ties</a></li>
+             <li><a href="/buy/fashion/fashion_accessories/cufflinks.html" title="Cufflinks">Cufflinks</a></li>
+             <li><a href="/buy/fashion/fashion_accessories/tie_pins.html" title="Tie Pins">Tie Pins</a></li>
+             <li><a href="/buy/fashion/fashion_accessories/kurta_buttons.html" title="Kurta Buttons">Kurta Buttons</a></li>
+             <li><a href="/buy/fashion/fashion_accessories/caps.html" title="Caps">Caps</a></li>
              
              </ul></td>
              
              <td width="25%" valign="top"><ul>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2415O/fashion/fashion_accessories/raincoats_and_umbrellas.html" title="Raincoats and Umbrellas">Raincoats and Umbrellas</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2430O/fashion/fashion_accessories/socks_-_hosiery.html" title="Socks &amp; Hosiery">Socks &amp; Hosiery</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2436O/fashion/fashion_accessories/body_art.html" title="Body Art">Body Art</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2479O/fashion/fashion_accessories/jewellery_boxes.html" title="Jewellery Boxes">Jewellery Boxes</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2480O/fashion/fashion_accessories/hair_accessories.html" title="Hair Accessories">Hair Accessories</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2484O/fashion/fashion_accessories/cigarette_cases&#10;.html" title="Cigarette cases
-">Cigarette cases
-</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2485O/fashion/fashion_accessories/swiss_knives.html" title="Swiss Knives">Swiss Knives</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2540O/fashion/fashion_accessories/suspender.html" title="Suspender">Suspender</a></li>
+             <li><a href="/buy/fashion/fashion_accessories/raincoats_and_umbrellas.html" title="Raincoats and Umbrellas">Raincoats and Umbrellas</a></li>
+             <li><a href="/buy/fashion/fashion_accessories/socks_-_hosiery.html" title="Socks &amp; Hosiery">Socks &amp; Hosiery</a></li>
+             <li><a href="/buy/fashion/fashion_accessories/body_art.html" title="Body Art">Body Art</a></li>
+             <li><a href="/buy/fashion/fashion_accessories/jewellery_boxes.html" title="Jewellery Boxes">Jewellery Boxes</a></li>
+             <li><a href="/buy/fashion/fashion_accessories/hair_accessories.html" title="Hair Accessories">Hair Accessories</a></li>
+             <li><a href="/buy/fashion/fashion_accessories/cigarette_cases.html" title="Cigarette cases">Cigarette cases</a></li>
+             <li><a href="/buy/fashion/fashion_accessories/swiss_knives.html" title="Swiss Knives">Swiss Knives</a></li>
+             <li><a href="/buy/fashion/fashion_accessories/suspender.html" title="Suspender">Suspender</a></li>
              
              </ul></td>
              
              <td width="25%" valign="top"><ul>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2587O/fashion/fashion_accessories/contact_lenses.html" title="Contact Lenses">Contact Lenses</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2588O/fashion/fashion_accessories/optical_accessories.html" title="Optical Accessories">Optical Accessories</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2603O/fashion/fashion_accessories/wrist_bands.html" title="Wrist Bands">Wrist Bands</a></li>
-             <li class="MainLink"><a href="/buy-online/WO-shopping-deals-best-W236O/fashion/footwear_-_accessories.html" title="Footwear &amp; Accessories">Footwear &amp; Accessories</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W235O/fashion/footwear_-_accessories/shoes_accessories.html" title="Shoes Accessories">Shoes Accessories</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2525O/fashion/footwear_-_accessories/men_footwear.html" title="Men Footwear">Men Footwear</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2526O/fashion/footwear_-_accessories/women_footwear.html" title="Women Footwear">Women Footwear</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2527O/fashion/footwear_-_accessories/kids_footwear.html" title="Kids Footwear">Kids Footwear</a></li>
+             <li><a href="/buy/fashion/fashion_accessories/contact_lenses.html" title="Contact Lenses">Contact Lenses</a></li>
+             <li><a href="/buy/fashion/fashion_accessories/optical_accessories.html" title="Optical Accessories">Optical Accessories</a></li>
+             <li><a href="/buy/fashion/fashion_accessories/wrist_bands.html" title="Wrist Bands">Wrist Bands</a></li>
+             <li class="MainLink"><a href="/buy/fashion/footwear_-_accessories.html" title="Footwear &amp; Accessories">Footwear &amp; Accessories</a></li>
+             <li><a href="/buy/fashion/footwear_-_accessories/shoes_accessories.html" title="Shoes Accessories">Shoes Accessories</a></li>
+             <li><a href="/buy/fashion/footwear_-_accessories/men_footwear.html" title="Men Footwear">Men Footwear</a></li>
+             <li><a href="/buy/fashion/footwear_-_accessories/women_footwear.html" title="Women Footwear">Women Footwear</a></li>
+             <li><a href="/buy/fashion/footwear_-_accessories/kids_footwear.html" title="Kids Footwear">Kids Footwear</a></li>
              
              </ul></td>
              
@@ -911,7 +950,7 @@ function naaptolAffiliateTracking(url){
 	     </div>
 	     
 			</td><td id="show9" class="tabtd" onmouseover="this.className='tabtdOver';divShowHide('categorydiv9','show','show9');" onmouseout="this.className='tabtd';divShowHide('categorydiv9','hide','show9');">
-				<a href="/buy-online/WO-shopping-deals-best-W151O/health_-_beauty.html" title="Health &amp; Beauty">Health</a>
+				<a href="/buy/health_-_beauty.html" title="Health &amp; Beauty">Health</a>
 			
 			
 	     <input type="hidden" id="columncategorydiv9" value="3">
@@ -921,24 +960,24 @@ function naaptolAffiliateTracking(url){
              <tbody><tr> 
              
              <td width="33%" valign="top"><ul>
-             <li class="MainLink"><a href="/buy-online/WO-shopping-best-deals-W129O/health_-_beauty/fragrances_and_perfumes.html" title="Fragrances and Perfumes">Fragrances and Perfumes</a></li>
-             <li class="MainLink"><a href="/buy-online/WO-shopping-best-deals-W140O/health_-_beauty/cosmetics.html" title="Cosmetics">Cosmetics</a></li>
+             <li class="MainLink"><a href="/buy/health_-_beauty/fragrances_and_perfumes.html" title="Fragrances and Perfumes">Fragrances and Perfumes</a></li>
+             <li class="MainLink"><a href="/buy/health_-_beauty/cosmetics.html" title="Cosmetics">Cosmetics</a></li>
              
              </ul></td>
              
              <td width="33%" valign="top"><ul>
-             <li class="MainLink"><a href="/buy-online/WO-shopping-best-deals-W166O/health_-_beauty/beauty_saloon_-_miscellaneous.html" title="Beauty Saloon &amp; Miscellaneous">Beauty Saloon &amp; Miscellaneous</a></li>
-             <li class="MainLink"><a href="/buy-online/WO-shopping-best-deals-W191O/health_-_beauty/health_supplement.html" title="Health Supplement">Health Supplement</a></li>
+             <li class="MainLink"><a href="/buy/health_-_beauty/beauty_saloon_-_miscellaneous.html" title="Beauty Saloon &amp; Miscellaneous">Beauty Saloon &amp; Miscellaneous</a></li>
+             <li class="MainLink"><a href="/buy/health_-_beauty/health_supplement.html" title="Health Supplement">Health Supplement</a></li>
              
              </ul></td>
              
              <td width="34%" valign="top"><ul>
-             <li class="MainLink"><a href="/buy-online/WO-shopping-best-deals-W216O/health_-_beauty/orthopedic_appliances.html" title="Orthopedic Appliances">Orthopedic Appliances</a></li>
-             <li class="MainLink"><a href="/buy-online/WO-shopping-deals-best-W283O/health_-_beauty/medicines_-_protections.html" title="Medicines &amp; Protections">Medicines &amp; Protections</a></li>
+             <li class="MainLink"><a href="/buy/health_-_beauty/orthopedic_appliances.html" title="Orthopedic Appliances">Orthopedic Appliances</a></li>
+             <li class="MainLink"><a href="/buy/health_-_beauty/medicines_-_protections.html" title="Medicines &amp; Protections">Medicines &amp; Protections</a></li>
              
-              <li><a href="/buy-online/WO-shopping-best-deals-W284O/health_-_beauty/medicines_-_protections/condoms.html" title="Condoms">Condoms</a></li>
+              <li><a href="/buy/health_-_beauty/medicines_-_protections/condoms.html" title="Condoms">Condoms</a></li>
               
-              <li><a href="/buy-online/WO-shopping-best-deals-W2478O/health_-_beauty/medicines_-_protections/personal_hygiene.html" title="Personal Hygiene">Personal Hygiene</a></li>
+              <li><a href="/buy/health_-_beauty/medicines_-_protections/personal_hygiene.html" title="Personal Hygiene">Personal Hygiene</a></li>
               
              </ul></td>
              
@@ -948,7 +987,7 @@ function naaptolAffiliateTracking(url){
 	     </div>
 	     
 			</td><td id="show10" class="tabtd" onmouseover="this.className='tabtdOver';divShowHide('categorydiv10','show','show10');" onmouseout="this.className='tabtd';divShowHide('categorydiv10','hide','show10');">
-				<a href="/buy-online/WO-shopping-deals-best-W203O/apparels.html" title="Apparels">Apparel</a>
+				<a href="/buy/apparels.html" title="Apparels">Apparel</a>
 			
 			
 	     <input type="hidden" id="columncategorydiv10" value="4">
@@ -958,54 +997,54 @@ function naaptolAffiliateTracking(url){
              <tbody><tr> 
              
              <td width="25%" valign="top"><ul>
-             <li class="MainLink"><a href="/buy-online/WO-shopping-deals-best-W204O/apparels/mens_wear.html" title="Mens Wear">Mens Wear</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W214O/apparels/mens_wear/gents_kurtas.html" title="Gents Kurtas">Gents Kurtas</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W243O/apparels/mens_wear/sherwani.html" title="Sherwani">Sherwani</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W244O/apparels/mens_wear/shirts.html" title="Shirts">Shirts</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W245O/apparels/mens_wear/t-shirts.html" title="T-Shirts">T-Shirts</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W257O/apparels/mens_wear/mens_jackets.html" title="Mens Jackets">Mens Jackets</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W259O/apparels/mens_wear/trousers.html" title="Trousers">Trousers</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W260O/apparels/mens_wear/cargos.html" title="Cargos">Cargos</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W264O/apparels/mens_wear/jeans.html" title="Jeans">Jeans</a></li>
+             <li class="MainLink"><a href="/buy/apparels/mens_wear.html" title="Mens Wear">Mens Wear</a></li>
+             <li><a href="/buy/apparels/mens_wear/gents_kurtas.html" title="Gents Kurtas">Gents Kurtas</a></li>
+             <li><a href="/buy/apparels/mens_wear/sherwani.html" title="Sherwani">Sherwani</a></li>
+             <li><a href="/buy/apparels/mens_wear/shirts.html" title="Shirts">Shirts</a></li>
+             <li><a href="/buy/apparels/mens_wear/t~shirts.html" title="T-Shirts">T-Shirts</a></li>
+             <li><a href="/buy/apparels/mens_wear/mens_jackets.html" title="Mens Jackets">Mens Jackets</a></li>
+             <li><a href="/buy/apparels/mens_wear/trousers.html" title="Trousers">Trousers</a></li>
+             <li><a href="/buy/apparels/mens_wear/cargos.html" title="Cargos">Cargos</a></li>
+             <li><a href="/buy/apparels/mens_wear/jeans.html" title="Jeans">Jeans</a></li>
              
              </ul></td>
              
              <td width="25%" valign="top"><ul>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2493O/apparels/mens_wear/dhoties.html" title="Dhoties">Dhoties</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2497O/apparels/mens_wear/sleep_wear.html" title="Sleep Wear">Sleep Wear</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2537O/apparels/mens_wear/mens_suits.html" title="Mens Suits">Mens Suits</a></li>
-             <li class="MainLink"><a href="/buy-online/WO-shopping-deals-best-W205O/apparels/womens_wear.html" title="Womens Wear">Womens Wear</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W209O/apparels/womens_wear/sarees.html" title="Sarees">Sarees</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W210O/apparels/womens_wear/shawls.html" title="Shawls">Shawls</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W211O/apparels/womens_wear/stoles.html" title="Stoles">Stoles</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W212O/apparels/womens_wear/ladies_kurtas.html" title="Ladies kurtas">Ladies kurtas</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W213O/apparels/womens_wear/lingeries.html" title="Lingeries">Lingeries</a></li>
+             <li><a href="/buy/apparels/mens_wear/dhoties.html" title="Dhoties">Dhoties</a></li>
+             <li><a href="/buy/apparels/mens_wear/sleep_wear.html" title="Sleep Wear">Sleep Wear</a></li>
+             <li><a href="/buy/apparels/mens_wear/mens_suits.html" title="Mens Suits">Mens Suits</a></li>
+             <li class="MainLink"><a href="/buy/apparels/womens_wear.html" title="Womens Wear">Womens Wear</a></li>
+             <li><a href="/buy/apparels/womens_wear/leggings.html" title="Leggings">Leggings</a></li>
+             <li><a href="/buy/apparels/womens_wear/sarees.html" title="Sarees">Sarees</a></li>
+             <li><a href="/buy/apparels/womens_wear/shawls.html" title="Shawls">Shawls</a></li>
+             <li><a href="/buy/apparels/womens_wear/stoles.html" title="Stoles">Stoles</a></li>
+             <li><a href="/buy/apparels/womens_wear/ladies_kurtas.html" title="Ladies kurtas">Ladies kurtas</a></li>
              
              </ul></td>
              
              <td width="25%" valign="top"><ul>
-             <li><a href="/buy-online/WO-shopping-best-deals-W241O/apparels/womens_wear/nightwear.html" title="Nightwear">Nightwear</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W242O/apparels/womens_wear/tops.html" title="Tops">Tops</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W261O/apparels/womens_wear/capris.html" title="Capris">Capris</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W262O/apparels/womens_wear/lehengas.html" title="Lehengas">Lehengas</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W263O/apparels/womens_wear/salwaar_suits.html" title="Salwaar Suits">Salwaar Suits</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W273O/apparels/womens_wear/ladies_jeans.html" title="Ladies Jeans">Ladies Jeans</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W282O/apparels/womens_wear/ladies_t-shirts.html" title="Ladies T-Shirts">Ladies T-Shirts</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W365O/apparels/womens_wear/scarves.html" title="Scarves">Scarves</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2298O/apparels/womens_wear/ladies_shirts.html" title="Ladies Shirts">Ladies Shirts</a></li>
+             <li><a href="/buy/apparels/womens_wear/lingeries.html" title="Lingeries">Lingeries</a></li>
+             <li><a href="/buy/apparels/womens_wear/nightwear.html" title="Nightwear">Nightwear</a></li>
+             <li><a href="/buy/apparels/womens_wear/tops.html" title="Tops">Tops</a></li>
+             <li><a href="/buy/apparels/womens_wear/capris.html" title="Capris">Capris</a></li>
+             <li><a href="/buy/apparels/womens_wear/lehengas.html" title="Lehengas">Lehengas</a></li>
+             <li><a href="/buy/apparels/womens_wear/salwaar_suits.html" title="Salwaar Suits">Salwaar Suits</a></li>
+             <li><a href="/buy/apparels/womens_wear/ladies_jeans.html" title="Ladies Jeans">Ladies Jeans</a></li>
+             <li><a href="/buy/apparels/womens_wear/ladies_t~shirts.html" title="Ladies T-Shirts">Ladies T-Shirts</a></li>
+             <li><a href="/buy/apparels/womens_wear/scarves.html" title="Scarves">Scarves</a></li>
              
              </ul></td>
              
              <td width="25%" valign="top"><ul>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2449O/apparels/womens_wear/ladies_sports_wear.html" title="Ladies Sports Wear">Ladies Sports Wear</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2450O/apparels/womens_wear/leisure_wear.html" title="Leisure Wear">Leisure Wear</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2451O/apparels/womens_wear/spegattie.html" title="Spegattie">Spegattie</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2464O/apparels/womens_wear/western_wears.html" title="Western Wears">Western Wears</a></li>
-             <li class="MainLink"><a href="/buy-online/WO-shopping-deals-best-W246O/apparels/boys_wear.html" title="Boys Wear">Boys Wear</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W248O/apparels/boys_wear/boys_wear_-_combo.html" title="Boys Wear &amp; Combo">Boys Wear &amp; Combo</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W294O/apparels/boys_wear/boys_sherwani.html" title="Boys Sherwani">Boys Sherwani</a></li>
-             <li class="MainLink"><a href="/buy-online/WO-shopping-deals-best-W247O/apparels/girls_wear.html" title="Girls Wear">Girls Wear</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W249O/apparels/girls_wear/girls_wear_-_combo.html" title="Girls Wear &amp; Combo">Girls Wear &amp; Combo</a></li>
+             <li><a href="/buy/apparels/womens_wear/ladies_shirts.html" title="Ladies Shirts">Ladies Shirts</a></li>
+             <li><a href="/buy/apparels/womens_wear/ladies_sports_wear.html" title="Ladies Sports Wear">Ladies Sports Wear</a></li>
+             <li><a href="/buy/apparels/womens_wear/spegattie.html" title="Spegattie">Spegattie</a></li>
+             <li><a href="/buy/apparels/womens_wear/western_wears.html" title="Western Wears">Western Wears</a></li>
+             <li class="MainLink"><a href="/buy/apparels/boys_wear.html" title="Boys Wear">Boys Wear</a></li>
+             <li><a href="/buy/apparels/boys_wear/boys_wear_-_combo.html" title="Boys Wear &amp; Combo">Boys Wear &amp; Combo</a></li>
+             <li><a href="/buy/apparels/boys_wear/boys_sherwani.html" title="Boys Sherwani">Boys Sherwani</a></li>
+             <li class="MainLink"><a href="/buy/apparels/girls_wear.html" title="Girls Wear">Girls Wear</a></li>
+             <li><a href="/buy/apparels/girls_wear/girls_wear_-_combo.html" title="Girls Wear &amp; Combo">Girls Wear &amp; Combo</a></li>
              
              </ul></td>
              
@@ -1015,7 +1054,7 @@ function naaptolAffiliateTracking(url){
 	     </div>
 	     
 			</td><td id="show11" class="tabtd" onmouseover="this.className='tabtdOver';divShowHide('categorydiv11','show','show11');" onmouseout="this.className='tabtd';divShowHide('categorydiv11','hide','show11');">
-				<a href="/buy-online/WO-shopping-deals-best-W228O/sports_-_fitness.html" title="Sports &amp; Fitness">Sports</a>
+				<a href="/buy/sports_-_fitness.html" title="Sports &amp; Fitness">Sports</a>
 			
 			
 	     <input type="hidden" id="columncategorydiv11" value="3">
@@ -1025,43 +1064,42 @@ function naaptolAffiliateTracking(url){
              <tbody><tr> 
              
              <td width="33%" valign="top"><ul>
-             <li class="MainLink"><a href="/buy-online/WO-shopping-best-deals-W162O/sports_-_fitness/aerobic_equipments.html" title="Aerobic Equipments">Aerobic Equipments</a></li>
-             <li class="MainLink"><a href="/buy-online/WO-shopping-best-deals-W163O/sports_-_fitness/strength_equipments.html" title="Strength Equipments">Strength Equipments</a></li>
-             <li class="MainLink"><a href="/buy-online/WO-shopping-best-deals-W164O/sports_-_fitness/accessories.html" title="Accessories">Accessories</a></li>
-             <li class="MainLink"><a href="/buy-online/WO-shopping-best-deals-W229O/sports_-_fitness/sports_equipments.html" title="Sports Equipments">Sports Equipments</a></li>
-             <li class="MainLink"><a href="/buy-online/WO-shopping-deals-best-W275O/sports_-_fitness/sports.html" title="Sports">Sports</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2396O/sports_-_fitness/sports/swimming.html" title="Swimming">Swimming</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W276O/sports_-_fitness/sports/cricket.html" title="Cricket">Cricket</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W280O/sports_-_fitness/sports/football.html" title="Football">Football</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W281O/sports_-_fitness/sports/tennis.html" title="Tennis">Tennis</a></li>
+             <li class="MainLink"><a href="/buy/sports_-_fitness/accessories.html" title="Accessories">Accessories</a></li>
+             <li class="MainLink"><a href="/buy/sports_-_fitness/sports_equipments.html" title="Sports Equipments">Sports Equipments</a></li>
+             <li class="MainLink"><a href="/buy/sports_-_fitness/sports.html" title="Sports">Sports</a></li>
+             <li><a href="/buy/sports_-_fitness/sports/swimming.html" title="Swimming">Swimming</a></li>
+             <li><a href="/buy/sports_-_fitness/sports/cricket.html" title="Cricket">Cricket</a></li>
+             <li><a href="/buy/sports_-_fitness/sports/football.html" title="Football">Football</a></li>
+             <li><a href="/buy/sports_-_fitness/sports/tennis.html" title="Tennis">Tennis</a></li>
+             <li><a href="/buy/sports_-_fitness/sports/badminton.html" title="Badminton">Badminton</a></li>
              
              </ul></td>
              
              <td width="33%" valign="top"><ul>
-             <li><a href="/buy-online/WO-shopping-best-deals-W286O/sports_-_fitness/sports/badminton.html" title="Badminton">Badminton</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W287O/sports_-_fitness/sports/squash.html" title="Squash">Squash</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W288O/sports_-_fitness/sports/table_tennis.html" title="Table Tennis">Table Tennis</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W290O/sports_-_fitness/sports/golf.html" title="Golf">Golf</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W291O/sports_-_fitness/sports/volley_ball.html" title="Volley Ball">Volley Ball</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W292O/sports_-_fitness/sports/basket_ball.html" title="Basket Ball">Basket Ball</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W293O/sports_-_fitness/sports/skating.html" title="Skating">Skating</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2425O/sports_-_fitness/sports/boxing.html" title="Boxing">Boxing</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2545O/sports_-_fitness/sports/cycling.html" title="Cycling">Cycling</a></li>
+             <li><a href="/buy/sports_-_fitness/sports/squash.html" title="Squash">Squash</a></li>
+             <li><a href="/buy/sports_-_fitness/sports/table_tennis.html" title="Table Tennis">Table Tennis</a></li>
+             <li><a href="/buy/sports_-_fitness/sports/golf.html" title="Golf">Golf</a></li>
+             <li><a href="/buy/sports_-_fitness/sports/volley_ball.html" title="Volley Ball">Volley Ball</a></li>
+             <li><a href="/buy/sports_-_fitness/sports/basket_ball.html" title="Basket Ball">Basket Ball</a></li>
+             <li><a href="/buy/sports_-_fitness/sports/skating.html" title="Skating">Skating</a></li>
+             <li><a href="/buy/sports_-_fitness/sports/boxing.html" title="Boxing">Boxing</a></li>
+             <li><a href="/buy/sports_-_fitness/sports/cycling.html" title="Cycling">Cycling</a></li>
              
              </ul></td>
              
              <td width="34%" valign="top"><ul>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2546O/sports_-_fitness/sports/_hand_ball.html" title=" Hand Ball"> Hand Ball</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2547O/sports_-_fitness/sports/hiking.html" title="Hiking">Hiking</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2548O/sports_-_fitness/sports/surfing.html" title="Surfing">Surfing</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2549O/sports_-_fitness/sports/horse_riding.html" title="Horse Riding">Horse Riding</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2555O/sports_-_fitness/sports/pool_-_billiards.html" title="Pool &amp; Billiards">Pool &amp; Billiards</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2556O/sports_-_fitness/sports/kids_sports.html" title="Kids Sports">Kids Sports</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2600O/sports_-_fitness/sports/hockey.html" title="Hockey">Hockey</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2601O/sports_-_fitness/sports/bowling.html" title="Bowling">Bowling</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2602O/sports_-_fitness/sports/rugby.html" title="Rugby">Rugby</a></li>
+             <li><a href="/buy/sports_-_fitness/sports/hand_ball.html" title="Hand Ball">Hand Ball</a></li>
+             <li><a href="/buy/sports_-_fitness/sports/hiking.html" title="Hiking">Hiking</a></li>
+             <li><a href="/buy/sports_-_fitness/sports/surfing.html" title="Surfing">Surfing</a></li>
+             <li><a href="/buy/sports_-_fitness/sports/horse_riding.html" title="Horse Riding">Horse Riding</a></li>
+             <li><a href="/buy/sports_-_fitness/sports/pool_-_billiards.html" title="Pool &amp; Billiards">Pool &amp; Billiards</a></li>
+             <li><a href="/buy/sports_-_fitness/sports/kids_sports.html" title="Kids Sports">Kids Sports</a></li>
+             <li><a href="/buy/sports_-_fitness/sports/hockey.html" title="Hockey">Hockey</a></li>
+             <li><a href="/buy/sports_-_fitness/sports/bowling.html" title="Bowling">Bowling</a></li>
              
-              <li><a href="/buy-online/WO-shopping-best-deals-W2607O/sports_-_fitness/sports/baseball.html" title="Baseball">Baseball</a></li>
+              <li><a href="/buy/sports_-_fitness/sports/rugby.html" title="Rugby">Rugby</a></li>
+              
+              <li><a href="/buy/sports_-_fitness/sports/baseball.html" title="Baseball">Baseball</a></li>
               
              </ul></td>
              
@@ -1071,7 +1109,7 @@ function naaptolAffiliateTracking(url){
 	     </div>
 	     
 			</td><td id="show12" class="tabtd" onmouseover="this.className='tabtdOver';divShowHide('categorydiv12','show','show12');" onmouseout="this.className='tabtd';divShowHide('categorydiv12','hide','show12');">
-				<a href="/buy-online/WO-shopping-deals-best-W2578O/books.html" title="Books">Books</a>
+				<a href="/buy/books.html" title="Books">Books</a>
 			
 			
 	     <input type="hidden" id="columncategorydiv12" value="3">
@@ -1081,32 +1119,32 @@ function naaptolAffiliateTracking(url){
              <tbody><tr> 
              
              <td width="33%" valign="top"><ul>
-             <li class="MainLink"><a href="/buy-online/WO-shopping-best-deals-W2615O/books/cooking_books.html" title="Cooking Books">Cooking Books</a></li>
-             <li class="MainLink"><a href="/buy-online/WO-shopping-deals-best-W2579O/books/children_books.html" title="Children Books">Children Books</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2580O/books/children_books/_stories_and_comics.html" title=" Stories and Comics"> Stories and Comics</a></li>
-             <li class="MainLink"><a href="/buy-online/WO-shopping-best-deals-W2581O/books/learning_and_motivation.html" title="Learning and Motivation">Learning and Motivation</a></li>
-             <li class="MainLink"><a href="/buy-online/WO-shopping-deals-best-W2583O/books/novels.html" title="Novels">Novels</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2584O/books/novels/fiction.html" title="Fiction">Fiction</a></li>
+             <li class="MainLink"><a href="/buy/books/cooking_books.html" title="Cooking Books">Cooking Books</a></li>
+             <li class="MainLink"><a href="/buy/books/children_books.html" title="Children Books">Children Books</a></li>
+             <li><a href="/buy/books/children_books/stories_and_comics.html" title="Stories and Comics">Stories and Comics</a></li>
+             <li class="MainLink"><a href="/buy/books/learning_and_motivation.html" title="Learning and Motivation">Learning and Motivation</a></li>
+             <li class="MainLink"><a href="/buy/books/novels.html" title="Novels">Novels</a></li>
+             <li><a href="/buy/books/novels/fiction.html" title="Fiction">Fiction</a></li>
              
              </ul></td>
              
              <td width="33%" valign="top"><ul>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2585O/books/novels/non-fiction.html" title="Non-Fiction">Non-Fiction</a></li>
-             <li class="MainLink"><a href="/buy-online/WO-shopping-best-deals-W2586O/books/business_-_management.html" title="Business &amp; Management">Business &amp; Management</a></li>
-             <li class="MainLink"><a href="/buy-online/WO-shopping-deals-best-W2589O/books/subjective_books.html" title="Subjective Books">Subjective Books</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2592O/books/subjective_books/law.html" title="Law">Law</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2593O/books/subjective_books/medical.html" title="Medical">Medical</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2594O/books/subjective_books/history_and_philosophy.html" title="History and Philosophy">History and Philosophy</a></li>
+             <li><a href="/buy/books/novels/non~fiction.html" title="Non-Fiction">Non-Fiction</a></li>
+             <li class="MainLink"><a href="/buy/books/business_-_management.html" title="Business &amp; Management">Business &amp; Management</a></li>
+             <li class="MainLink"><a href="/buy/books/subjective_books.html" title="Subjective Books">Subjective Books</a></li>
+             <li><a href="/buy/books/subjective_books/law.html" title="Law">Law</a></li>
+             <li><a href="/buy/books/subjective_books/medical.html" title="Medical">Medical</a></li>
+             <li><a href="/buy/books/subjective_books/history_and_philosophy.html" title="History and Philosophy">History and Philosophy</a></li>
              
              </ul></td>
              
              <td width="34%" valign="top"><ul>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2595O/books/subjective_books/psychology.html" title="Psychology">Psychology</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2596O/books/subjective_books/astrology.html" title="Astrology">Astrology</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2597O/books/subjective_books/technology.html" title="Technology">Technology</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2598O/books/subjective_books/autobiography.html" title="Autobiography">Autobiography</a></li>
-             <li><a href="/buy-online/WO-shopping-best-deals-W2599O/books/subjective_books/religious.html" title="Religious">Religious</a></li>
-             <li class="MainLink"><a href="/buy-online/WO-shopping-best-deals-W2590O/books/other_books.html" title="Other Books">Other Books</a></li>
+             <li><a href="/buy/books/subjective_books/psychology.html" title="Psychology">Psychology</a></li>
+             <li><a href="/buy/books/subjective_books/astrology_books.html" title="Astrology Books">Astrology Books</a></li>
+             <li><a href="/buy/books/subjective_books/technology.html" title="Technology">Technology</a></li>
+             <li><a href="/buy/books/subjective_books/autobiography.html" title="Autobiography">Autobiography</a></li>
+             <li><a href="/buy/books/subjective_books/religious.html" title="Religious">Religious</a></li>
+             <li class="MainLink"><a href="/buy/books/other_books.html" title="Other Books">Other Books</a></li>
              
              </ul></td>
              
@@ -1135,8 +1173,6 @@ function naaptolAffiliateTracking(url){
                   
                   
                   
-                  
-                  
            <input type="hidden" id="columnAllCategoriesMenu" value="3">    
            <div class="categoryDivAll" id="AllCategoriesMenu" onmouseover="divShowHide('AllCategoriesMenu','show','show13');" onmouseout="divShowHide('AllCategoriesMenu','hide','show13');">
              <div id="TopSubMenu">
@@ -1144,73 +1180,69 @@ function naaptolAffiliateTracking(url){
                  <tbody><tr>
                  <td width="33%" valign="top"><ul>
 			 
-					<li class="MainLink"><a href="/buy-online/WO-shopping-deals-best-W167O/home_decor.html" title="Home Decor">Home Decor</a></li> 
+					<li class="MainLink"><a href="/buy/home_decor.html" title="Home Decor">Home Decor</a></li> 
 					
-					<li class=""><a href="/buy-online/WO-shopping-best-deals-W168O/home_decor/name_plates.html" title="Name Plates">Name Plates</a></li> 
+					<li class=""><a href="/buy/home_decor/name_plates.html" title="Name Plates">Name Plates</a></li> 
 					
-					<li class=""><a href="/buy-online/WO-shopping-best-deals-W171O/home_decor/art_and_crafts.html" title="Art and Crafts">Art and Crafts</a></li> 
+					<li class=""><a href="/buy/home_decor/art_and_crafts.html" title="Art and Crafts">Art and Crafts</a></li> 
 					
-					<li class=""><a href="/buy-online/WO-shopping-best-deals-W192O/home_decor/digital_photo_frame.html" title="Digital Photo Frame">Digital Photo Frame</a></li> 
+					<li class=""><a href="/buy/home_decor/digital_photo_frame.html" title="Digital Photo Frame">Digital Photo Frame</a></li> 
 					
-					<li class=""><a href="/buy-online/WO-shopping-best-deals-W201O/home_decor/home_textiles.html" title="Home Textiles">Home Textiles</a></li> 
+					<li class=""><a href="/buy/home_decor/home_textiles.html" title="Home Textiles">Home Textiles</a></li> 
 					
-					<li class=""><a href="/buy-online/WO-shopping-best-deals-W254O/home_decor/bathroom_accessories.html" title="Bathroom Accessories">Bathroom Accessories</a></li> 
+					<li class=""><a href="/buy/home_decor/bathroom_accessories.html" title="Bathroom Accessories">Bathroom Accessories</a></li> 
 					
-					<li class=""><a href="/buy-online/WO-shopping-deals-best-W277O/home_decor/home_decorative.html" title="Home Decorative">Home Decorative</a></li> 
+					<li class=""><a href="/buy/home_decor/home_decorative.html" title="Home Decorative">Home Decorative</a></li> 
 					
-					<li class=""><a href="/buy-online/WO-shopping-deals-best-W2299O/home_decor/furniture.html" title="Furniture">Furniture</a></li> 
+					<li class=""><a href="/buy/home_decor/furniture.html" title="Furniture">Furniture</a></li> 
 					
-					<li class=""><a href="/buy-online/WO-shopping-deals-best-W2452O/home_decor/tiles_and_marbles_.html" title="Tiles and Marbles ">Tiles and Marbles </a></li> 
-					
-					<li class=""><a href="/buy-online/WO-shopping-deals-best-W2500O/home_decor/sanitary_wares.html" title="Sanitary wares">Sanitary wares</a></li> 
+					<li class=""><a href="/buy/home_decor/tiles_and_marbles_.html" title="Tiles and Marbles ">Tiles and Marbles </a></li> 
 					
 					</ul></td>
 					<td width="33%" valign="top"><ul> 
 					
-					<li class="MainLink"><a href="/buy-online/WO-shopping-deals-best-W231O/services/sanitary_wares.html" title="Services">Services</a></li> 
+					<li class=""><a href="/buy/home_decor/sanitary_wares.html" title="Sanitary wares">Sanitary wares</a></li> 
 					
-					<li class=""><a href="/buy-online/WO-shopping-best-deals-W232O/services/search_engine_marketing.html" title="Search Engine Marketing">Search Engine Marketing</a></li> 
+					<li class="MainLink"><a href="/buy/services.html" title="Services">Services</a></li> 
 					
-					<li class=""><a href="/buy-online/WO-shopping-best-deals-W2608O/services/tours_-_travels.html" title="Tours &amp; Travels">Tours &amp; Travels</a></li> 
+					<li class=""><a href="/buy/services/search_engine_marketing.html" title="Search Engine Marketing">Search Engine Marketing</a></li> 
 					
-					<li class="MainLink"><a href="/buy-online/WO-shopping-deals-best-W265O/hobbies_-_passion/tours_-_travels.html" title="Hobbies &amp; Passion">Hobbies &amp; Passion</a></li> 
+					<li class=""><a href="/buy/services/tours_-_travels.html" title="Tours &amp; Travels">Tours &amp; Travels</a></li> 
 					
-					<li class=""><a href="/buy-online/WO-shopping-deals-best-W266O/hobbies_-_passion/musical_instruments.html" title="Musical Instruments">Musical Instruments</a></li> 
+					<li class="MainLink"><a href="/buy/hobbies_-_passion.html" title="Hobbies &amp; Passion">Hobbies &amp; Passion</a></li> 
 					
-					<li class=""><a href="/buy-online/WO-shopping-best-deals-W2397O/hobbies_-_passion/astrology.html" title="Astrology">Astrology</a></li> 
+					<li class=""><a href="/buy/hobbies_-_passion/musical_instruments.html" title="Musical Instruments">Musical Instruments</a></li> 
 					
-					<li class="MainLink"><a href="/buy-online/WO-shopping-deals-best-W375O/food_-_beverages/astrology.html" title="Food &amp; Beverages">Food &amp; Beverages</a></li> 
+					<li class=""><a href="/buy/hobbies_-_passion/astrology.html" title="Astrology">Astrology</a></li> 
 					
-					<li class=""><a href="/buy-online/WO-shopping-best-deals-W376O/food_-_beverages/combo_packs.html" title="Combo Packs">Combo Packs</a></li> 
+					<li class="MainLink"><a href="/buy/food_-_beverages.html" title="Food &amp; Beverages">Food &amp; Beverages</a></li> 
 					
-					<li class=""><a href="/buy-online/WO-shopping-best-deals-W2569O/food_-_beverages/liquor_and_beverages.html" title="liquor and beverages">liquor and beverages</a></li> 
-					
-					<li class=""><a href="/buy-online/WO-shopping-best-deals-W2570O/food_-_beverages/food_additives.html" title="Food Additives">Food Additives</a></li> 
+					<li class=""><a href="/buy/food_-_beverages/combo_packs.html" title="Combo Packs">Combo Packs</a></li> 
 					
 			  </ul></td>
 			  <td width="34%" valign="top"><ul>
 			  
-					<li class="MainLink"><a href="/buy-online/WO-shopping-deals-best-W2330O/media/food_additives.html" title="Media">Media</a></li> 
+					<li class=""><a href="/buy/food_-_beverages/liquor_and_beverages.html" title="liquor and beverages">liquor and beverages</a></li> 
 					
-					<li class=""><a href="/buy-online/WO-shopping-deals-best-W2331O/media/video_media.html" title="Video Media">Video Media</a></li> 
+					<li class=""><a href="/buy/food_-_beverages/food_additives.html" title="Food Additives">Food Additives</a></li> 
 					
-					<li class=""><a href="/buy-online/WO-shopping-deals-best-W2443O/media/audible_media.html" title="Audible Media">Audible Media</a></li> 
+					<li class="MainLink"><a href="/buy/media.html" title="Media">Media</a></li> 
 					
-					<li class="MainLink"><a href="/buy-online/WO-shopping-deals-best-W2350O/baby_care_-_maternity/audible_media.html" title="Baby Care &amp; Maternity">Baby Care &amp; Maternity</a></li> 
+					<li class=""><a href="/buy/media/video_media.html" title="Video Media">Video Media</a></li> 
 					
-					<li class=""><a href="/buy-online/WO-shopping-best-deals-W2351O/baby_care_-_maternity/baby_bedding.html" title="Baby Bedding">Baby Bedding</a></li> 
+					<li class=""><a href="/buy/media/audible_media.html" title="Audible Media">Audible Media</a></li> 
 					
-					<li class=""><a href="/buy-online/WO-shopping-best-deals-W2354O/baby_care_-_maternity/baby_carriers.html" title="Baby Carriers">Baby Carriers</a></li> 
+					<li class="MainLink"><a href="/buy/baby_care_-_maternity.html" title="Baby Care &amp; Maternity">Baby Care &amp; Maternity</a></li> 
 					
-					<li class=""><a href="/buy-online/WO-shopping-best-deals-W2410O/baby_care_-_maternity/baby_clothing.html" title="Baby Clothing">Baby Clothing</a></li> 
+					<li class=""><a href="/buy/baby_care_-_maternity/baby_bedding.html" title="Baby Bedding">Baby Bedding</a></li> 
 					
-					<li class=""><a href="/buy-online/WO-shopping-best-deals-W2511O/baby_care_-_maternity/baby_stuffs.html" title="Baby Stuffs">Baby Stuffs</a></li> 
+					<li class=""><a href="/buy/baby_care_-_maternity/baby_carriers.html" title="Baby Carriers">Baby Carriers</a></li> 
 					
-					<li class=""><a href="/buy-online/WO-shopping-best-deals-W2558O/baby_care_-_maternity/nursery_care.html" title="Nursery Care">Nursery Care</a></li> 
+					<li class=""><a href="/buy/baby_care_-_maternity/baby_clothing.html" title="Baby Clothing">Baby Clothing</a></li> 
 					
-					<li class="MainLink"><a href="/buy-online/WO-shopping-deals-best-W2542O/event_supplies/nursery_care.html" title="Event Supplies">Event Supplies</a></li> 
+					<li class=""><a href="/buy/baby_care_-_maternity/baby_stuffs.html" title="Baby Stuffs">Baby Stuffs</a></li> 
 					
-					<li class=""><a href="/buy-online/WO-shopping-deals-best-W2543O/event_supplies/wedding.html" title="Wedding">Wedding</a></li> 
+					<li class=""><a href="/buy/baby_care_-_maternity/nursery_care.html" title="Nursery Care">Nursery Care</a></li> 
 					
 			  </ul></td>
                  
@@ -1243,27 +1275,12 @@ function naaptolAffiliateTracking(url){
               <li class="MainLink"><a href="/WO-stores-WmsstoreO-shop-W0O-best-W1O/featured-stores.html">Featured Stores</a></li>
               <li class="MainLink">
 					
-					<a href="/online-store/WO-shopping-mall-W1695O/Fotomagic.html">Fotomagic</a> 
-					
-					</li>
-					<li class="MainLink">
-					
 					<a href="/online-store/WO-shopping-mall-W1455O/Maxis_Technologies.html">Maxis Technologies</a> 
 					
 					</li>
 					<li class="MainLink">
 					
-					<a href="/online-store/WO-shopping-mall-W1543O/The_Loot.html">The Loot</a> 
-					
-					</li>
-					<li class="MainLink">
-					
 					<a href="/online-store/WO-shopping-mall-W1923O/Wama_Electroappliances_(I)_Pvt._Ltd..html">Wama Electroappliances (I) Pvt. Ltd.</a> 
-					
-					</li>
-					<li class="MainLink">
-					
-					<a href="/online-store/WO-shopping-mall-W1292O/MAARU_NX.html">MAARU NX</a> 
 					
 					</li>
 					<li class="MainLink">
@@ -1276,6 +1293,21 @@ function naaptolAffiliateTracking(url){
 					<a href="/online-store/WO-shopping-mall-W418O/Galileo_Telescope_Makers.html">Galileo Telescope Makers</a> 
 					
 					</li>
+					<li class="MainLink">
+					
+					<a href="/online-store/WO-shopping-mall-W579O/Cosmos_Inc.html">Cosmos Inc</a> 
+					
+					</li>
+					<li class="MainLink">
+					
+					<a href="/online-store/WO-shopping-mall-W433O/Sony_Ericsson_Experience_Store.html">Sony Ericsson Experience Store</a> 
+					
+					</li>
+					<li class="MainLink">
+					
+					<a href="/online-store/WO-shopping-mall-W422O/IMPACT_Computers.html">IMPACT Computers</a> 
+					
+					</li>
 					
 	
    </ul></td>           
@@ -1286,31 +1318,13 @@ function naaptolAffiliateTracking(url){
                  
 					<li class="MainLink">
 					
-					<a href="/online-store/WO-shopping-mall-W579O/Cosmos_Inc.html">Cosmos Inc</a> 
-					
-					</li> 
-					
-					<li class="MainLink">
-					
-					<a href="/online-store/WO-shopping-mall-W433O/Sony_Ericsson_Experience_Store.html">Sony Ericsson Experience Store</a> 
-					
-					</li> 
-					
-					<li class="MainLink">
-					
-					<a href="/online-store/WO-shopping-mall-W1674O/Thin_PC.html">Thin PC</a> 
-					
-					</li> 
-					
-					<li class="MainLink">
-					
 					<a href="/online-store/WO-shopping-mall-W1039O/Mitashi_Edutainment_Pvt..html">Mitashi Edutainment Pvt.</a> 
 					
 					</li> 
 					
 					<li class="MainLink">
 					
-					<a href="/online-store/WO-shopping-mall-W422O/IMPACT_Computers.html">IMPACT Computers</a> 
+					<a href="/online-store/WO-shopping-mall-W407O/J._J._MEHTA_-_SONS.html">J. J. MEHTA &amp; SONS</a> 
 					
 					</li> 
 					
@@ -1322,7 +1336,25 @@ function naaptolAffiliateTracking(url){
 					
 					<li class="MainLink">
 					
-					<a href="/online-store/WO-shopping-mall-W407O/J._J._MEHTA_-_SONS.html">J. J. MEHTA &amp; SONS</a> 
+					<a href="/online-store/WO-shopping-mall-W1121O/Global_Infotech.html">Global Infotech</a> 
+					
+					</li> 
+					
+					<li class="MainLink">
+					
+					<a href="/online-store/WO-shopping-mall-W300O/Ultimate_Solutions.html">Ultimate Solutions</a> 
+					
+					</li> 
+					
+					<li class="MainLink">
+					
+					<a href="/online-store/WO-shopping-mall-W169O/Matrix.html">Matrix</a> 
+					
+					</li> 
+					
+					<li class="MainLink">
+					
+					<a href="/online-store/WO-shopping-mall-W3281O/SundayXpress.com.html">SundayXpress.com</a> 
 					
 					</li> 
 					
@@ -1359,6 +1391,7 @@ You have been Registered Successfully.
  <input type="hidden" ptype="header" name="posy" value="20">
  <input type="hidden" ptype="header" name="popupTitle" value="Thank you">
 </div>
+
 				   
 
 
@@ -1443,7 +1476,7 @@ You have been Registered Successfully.
 
 <br>
 
-<span class="copyright"><b>Copyright © 2010 naaptol.com.</b> 
+<span class="copyright"><b>Copyright © 2011 naaptol.com.</b> 
 	All rights reserved. Designated trademarks, products &amp; brands are the property of their respective owners.</span> 
 	</p>	
 	</div>
