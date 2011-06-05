@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imimpact.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204113921id_/http%3A//imimpact.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imimpact.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605024330id_/http%3A//imimpact.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | IM Impact
 
@@ -33,3 +33,11 @@ IM Impact has no access to or control over these cookies that are used by third-
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. This site’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
+
+#### Incoming search terms for the article:
+
+  * [imimpact com](http://imimpact.com/privacy-policy/ "imimpact com")
+  * [IM impact on access to information](http://imimpact.com/privacy-policy/ "IM impact on access to information")
+  * [policy im](http://imimpact.com/privacy-policy/ "policy im")
+
+
