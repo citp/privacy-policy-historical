@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scad.edu privacy policy that was archived on 2010-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101015121812id_/http%3A//www.scad.edu/website/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scad.edu privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605082204id_/http%3A//www.scad.edu/website/privacy.cfm) for the most accurate reproduction.*
 
 # SCAD > Privacy Policy
 
@@ -10,7 +10,7 @@ Information about visitors to this site may be collected in the form of the foll
 
 **Applications  
 ** Prospective students applying online voluntarily provide personal contact information (e.g. name and mailing address). Information submitted is used by the admission department to process applications and contact applicants.  
-**  
+  **  
 Registration forms  
 ** Many of the events featured throughout the site include online registration forms or forms that may be used to request information, pledge to donate to the university, or otherwise voluntarily submit personal information relating to a specific event. The information in these forms is submitted directly to the department indicated in the event feature and is used by that department only for the purposes indicated to the user when that information is submitted.
 
@@ -51,7 +51,7 @@ Children under age 13 are asked not to submit any information via this site.
 
 By accessing this Web site, you consent to the collection, use and storage of your information by SCAD in the manner described in this policy. In addition, you agree to and are bound to abide by the following terms and conditions:
 
-**Copyright policy  
+  **Copyright policy  
 ** All images, text, programs, and other materials found in the SCAD Web site are protected by the United States copyright laws. Published information cannot be used in any manner prohibited by law or disallowed by licenses, contracts, copyrights, copyrighted material or college regulation. Any commercial use of the images, text, programs or other materials found in the SCAD Web site is strictly prohibited without the express written consent of SCAD.
 
 **Content submission  
