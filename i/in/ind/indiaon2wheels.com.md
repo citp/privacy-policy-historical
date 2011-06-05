@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiaon2wheels.com privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610231555id_/http%3A//www.indiaon2wheels.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiaon2wheels.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605105426id_/http%3A//www.indiaon2wheels.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Indiaon2wheels, India's first online motorcycle magazine
 
