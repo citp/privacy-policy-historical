@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fairloanrate.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230203537id_/http%3A//www.fairloanrate.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fairloanrate.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605232239id_/http%3A//www.fairloanrate.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Fair Loan Rate!
 
