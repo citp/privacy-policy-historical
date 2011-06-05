@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the meed.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205180838id_/http%3A//www.meed.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meed.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605193305id_/http%3A//www.meed.com/privacy-policy) for the most accurate reproduction.*
 
 # MEED: Middle East business intelligence, news, data, analysis, reports, consulting and services
 
@@ -33,11 +33,15 @@ Finally, Emap is not responsible for all of the web sites that are referred to, 
 
 Please note that countries outside the EEA may not have the same level of protection as countries within the EEA, but We always demand that those parties to whom We transfer data adhere to the same security procedures that We follow ourselves. By submitting your personal information, you consent to such processing and transfers in connection with such orders, offers or services and for any other purposes to which you consent at the time you provide the information.
 
-### The Use Of 'Cookies'
+### IP Addresses and Cookies
 
-In order to enable us to provide you with a personalised browsing experience, this site uses 'cookie' information collection technology. "Cookies" are small pieces of information that are issued to your computer when you enter a website. Cookies are stored by your browser on your computer's hard drive, and they can be used for a wide range of purposes, such as identifying your computer's previous visits to this website, and to ascertain the most popular features of this website.
+We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users’ browsing actions and patterns, and does not identify any individual.
 
-MEED uses a third party supplier, Effective Measure, which is an independent measurement and research company that gathers data regarding the visitors to MEED.com on our behalf using cookies and code which is embedded on our website. MEED uses this type of information to help improve the services it provides to its users. For further information, please refer to[ Privacy Statement for Visitors Tracked by Effective Measure](http://www.effectivemeasure.com/index.php/privacy_policy/ "Privacy Statement for Visitors Tracked by Effective Measure")
+For the same reason, we may obtain information about your general internet usage by using a cookie file which is stored on the hard drive of your computer or other internet-enabled device. Cookies contain information that is transferred to your computer’s hard drive. They help us to improve our site and to deliver a better and more personalised service. They enable us to estimate our audience size and usage pattern; to store information about your preferences, and so allow us to customise our site according to your individual interests; to recognise you when you return to our site. 
+
+You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of our site. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to our site. 
+
+Please note that our advertisers may also use cookies, over which we have no control. 
 
 ### Why Do We Use Cookies?
 
@@ -47,7 +51,7 @@ You are not obliged to accept cookies and you may amend your browser's settings 
 
 ### Feedback, Comments & Suggestions
 
-If you have any queries about Our Privacy Policy or any queries about the protection of personal information we hold about you, please do not hesitate to contact us. Our address is **MEED, Greater London House, Hampstead, Road , London, NW1 7EJ**
+If you have any queries about Our Privacy Policy or any queries about the protection of personal information we hold about you, please do not hesitate to contact us. Our address is **Digital Department, MEED, 20th Floor, Al Thuraya Tower 1, Dubai Media City, UAE PO Box 25960**
 
 ### Finally
 
