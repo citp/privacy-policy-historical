@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the psups.com privacy policy that was archived on 2010-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101106112612id_/http%3A//www.psups.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psups.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606005217id_/http%3A//www.psups.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PS UPS
 
