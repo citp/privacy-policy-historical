@@ -1,39 +1,31 @@
-> *The following text is extracted and transformed from the bitsontherun.com privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201061414id_/http%3A//www.bitsontherun.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitsontherun.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605161002id_/http%3A//www.longtailvideo.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | LongTail Video | Home of the JW Player
 
-#### Last updated on Feb. 16, 2010
+1\. Information we gather from our users.
 
-The following Privacy Policy (the “Policy”) applies to the use of the Bits on the Run’s services (the “Services”) and Bits on the Run’s website (the “Website”), which is owned and operated by LongTail Ad Solutions, Inc.
+We receive and store any information you enter on our website. You can choose not to provide certain information, but this will limit your ability to purchase products offered on the website, or to take advantage of some of our features for website customers.
 
-At Bits on the Run we respect the privacy of our users and the importance of the information they entrust to us and we will not sell or commercially exploit your personal information. By using the Website, you accept and allow the collection and use of your personal and non-personal information as outlined below. You should visit this page periodically to review any amendments to our Privacy Policy. Your continued use of the Website indicates your acceptance of any changes to this Privacy Policy.
+We obtain information about you when you purchase a product, partake in a newsletter, or comment with customer service.
 
-## 1\. Personal Information and other data that may be collected
+We also use "cookie" technology on our website. The cookies we use do not reveal any personal information. We use this technology to enhance your experience and to determine for which one of our partners, if any, referred you to our website.
 
-Our primary purpose in collecting personal information is to provide you with a safe, smooth, efficient, and customized experience. We may collect personally identifiable information (“Personal Information”), such as your name and address, including email address, when you or other users provide it to us. We may also collect Personal Information from third parties. We may combine the Personal Information and other data received from different sources. Some collected information is not explicitly submitted by the users of our Website: (i) our server logs automatically and collects information, such as your IP address, your browser type and language, and the date and time of your visit; (ii) we may assign your computer one or more cookies which may collect information to facilitate access to our Website and Services and to personalize your online experience; (iii) we may use standard Internet tools, such as web beacons, which collect information that tracks your use of our Website and our Services to enable us to customize our Services.
+2\. How do we use the information we receive from you?
 
-## 2\. Use of collected information
+We use the information collected from our customers and visitors to our website to provide a superior shopping experience for them.
 
-We may use Personal Information to (i) fulfill, facilitate and improve the services on our Website; (ii) offer products and services that may be of interest to you; (iii) customize the advertising and content on our Website; (iv) manage your account and preferences; (v) identify and protect against fraudulent transactions and other misuses of our Website and Services; and (vi) enforce the Bits on the Run Website Terms and Conditions of Use.
+We also use it to provide more effective customer service, to contact customers regarding their purchases, and to send promotional emails about our products and services that may be of interest to them.
 
-## 3\. Sharing of collected information
+We may also use aggregate customer behavior to analyze our marketing effectiveness. This allows us to further enhance the customer shopping experience.
 
-We will not share Personal Information with others except as indicated in this policy. We may share personal information with: (i) service providers, such as credit-card payment processors, performing services on our behalf; and (ii) other third parties in limited circumstances, such as complying with legal requirements, preventing fraud, and protecting the safety of the users of our Website and our Services. We reserve the right to transfer your Personal Information in the event of a transfer of ownership of the Website and/or Bits on the Run, such as an acquisition by, or merger with another company.
+3\. With whom do we share your information?
 
-## 4\. Your choices
+We do not share your Personally Identifiable Information with third parties, except when required by law enforcement or judicial authorities which may occur from time to time. In this case, we will disclose Personally Identifiable Information upon receipt of a court order or subpoena in order to assist a law enforcement investigation. We reserve the right to report to law enforcement agencies any activities that we in good faith believe to be unlawful.
 
-You may choose: (i) not to provide Personal Information, although that may result in your inability to use certain features of our Website; (ii) to delete or decline cookies by changing your browser settings, although if you do so, some of the features or services of our Website may not function properly; (iii) to review and update your Personal Information by logging into your account. We will take commercially reasonable steps to ensure that your Personal Information is removed from or corrected in our records according to your amendments and updates in your account.
+Use of our Website by children. LongTail Ad Solutions, Inc. does not sell products for purchase by children. If you are under 18 you may use our website only with the accompaniment of a parent or guardian.
 
-## 5\. Security
+4\. Information Collection by Our Advertisers
 
-Your email address and password is the key to your account. Use unique numbers, letters and special characters, and do not disclose this information to anyone. We take commercially reasonable physical, electronic, and other security measures to help safeguard Personal Information from unauthorized access, alteration, or disclosure.
+Personally identifiable information (PII) may be collected by advertisers using LongTail Ad Solutions, Inc. The PII is provided by consumers for purposes such as the purchase of goods and services, order shipment and sweepstakes entry. The information collected is subject to the policies of each advertiser.
 
-## 6\. Changes to this Privacy Policy
-
-This Privacy Policy may be modified by Bits on the Run, at any time without prior notice, and such modifications will be effective upon Bits on the Run's posting of the new Privacy Policy. It is your sole responsibility to review the Privacy Policy on a regular basis to become familiar with any modifications.
-
-## 7\. How to contact us
-
-If you have any questions about our Privacy Policy, please fill out and submit this [contact sheet](https://web.archive.org/contact/).
-
-**Last updated on February 16, 2010**
+LongTail Ad Solutions, Inc. does not make any representation regarding the accuracy or suitability of any of the information contained in those advertisements. LongTail Ad Solutions, Inc. does not accept any responsibility or liability for the conduct or content of those advertisements and the offerings made by those advertisers. Advertisements and links to other sites where goods or services are advertised are not endorsements or recommendations by LongTail Ad Solutions, Inc. of the third-party sites, goods or services. Your access to or use of them is at your own discretion.
