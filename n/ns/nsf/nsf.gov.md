@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nsf.gov privacy policy that was archived on 2010-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101024142656id_/http%3A//www.nsf.gov/policies/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nsf.gov privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605215535id_/http%3A//www.nsf.gov/policies/privacy.jsp) for the most accurate reproduction.*
 
 # US NSF - Privacy Policy
 
