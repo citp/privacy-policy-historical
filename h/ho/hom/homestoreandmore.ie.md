@@ -1,41 +1,81 @@
-> *The following text is extracted and transformed from the homestoreandmore.ie privacy policy that was archived on 2010-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101030225752id_/http%3A//homestoreandmore.ie/page/privacy_security_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homestoreandmore.ie privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605073317id_/http%3A//www.homestoreandmore.ie/privacy-policy/page/footerprivacy) for the most accurate reproduction.*
 
-# Privacy & Security Policy - Home Store + More
+# Privacy Policy at homestore + more
 
-This privacy statement is provided by homestore and more for the information of visitors to our website. 
+privacy policy:
 
-homestore and more are committed to ensuring that the visitor’s privacy is protected. By visiting our website, the visitors consent to the use of their information as set out in this privacy statement. homestore and more may change their privacy statement at any time. If we change our privacy statement we will post the changes on this website. 
+At homestore + more, we respect your privacy and are committed to maintaining it. Full details of our privacy policy are given below. In the event that we make any changes to the policy, the information below will be updated immediately.
 
-Owing to the global nature of the Internet, there is a possibility that your information may be transferred to countries outside the European Economic Area. By submitting your information to homestore and more you consent to these transfers. 
+  
 
-Please note that this privacy statement is subject to the terms and conditions of use of the homestore and more website. 
 
-Use of your personal information 
+  * **How do we use the information you give us?**
+  * **Disclosing information we collect to third parties**
+  * **Customer consent**
+  * **Cookies**
+  * **Feedback**
+  * **Security**
+  * **Usability of the website**
+  * **Accessibility of the website**
 
-homestore and more receive and store any information the visitor enters on our website or give to us in any other way. The visitor can choose not to provide certain information, but then they might not be able to take advantage of some of our features. 
 
-homestore and more use the information that the visitor provides for such purposes as responding to your requests, customizing our online services for the visitor, improving our online services, and communicating with you. 
 
-Where the visitor voluntarily provides personal information, the information may be used for analysis, research or customer service purposes only. homestore and more will use your data for the purpose for which it was originally provided and will not be disclosed in any manner which is incompatible with the purpose for which it was obtained. 
+How do we use the information you give us?
 
-homestore and more will only disclose your data to third parties who are our employees and for purposes in relation to the services we provide to you. In certain cases we share your information with carefully selected third parties who provide services to you on our behalf. In these cases homestore and more will ensure such third parties only use your data in accordance with our instructions and that adequate safeguards are in place to protect your data. 
+We use the information you provide us:  
 
-Other web websites 
 
-From time to time the homestore and more website may contain links to other websites. The links are provided for your convenience and any such link does not imply endorsement by us of the website nor does it imply that there is any association between us and the operators of the website. homestore and more are not responsible for the data policies or procedures or the content of these linked websites.
+  * To administer your account and may disclose your details to our third party service providers for the purpose of processing your order.
+  * And, from time to time, to inform you by post, email or other available means of products, services, promotions and special offers from our retail channel and homestore + more.
+  * We will only contact you by telephone if there is a query regarding your order.
 
-Cookies 
 
-"Cookies" are small pieces of information sent by a web server to a web browser, which enables the server to collect information from the browser and which may then be stored on your system. 
 
-Cookies allow us to understand who has seen which pages and advertisements, to determine how frequently particular pages are visited and to determine the most popular areas of our website. 
+Disclosing information we collect to third parties 
 
-You can usually adjust your browser so that your computer does not accept cookies or tells you when a website tries to put a cookie on your computer. 
+We may pass on non-personal aggregated information about sales and website usage to reputable organisations for research or analysis purposes only.
 
-Please remember, cookies do not contain confidential information such as your home address, telephone number or credit card details. We do not exchange cookies with any third party websites or external data suppliers and only keep cookies for the duration of your visit to our Website. 
+Customer consent
 
-Your browser also generates other information, including which language the website is displayed in, and your Internet Protocol address ("IP address"). An IP address is a set of numbers which is assigned to your computer during a browsing session whenever you log on to the Internet via your internet service provider or your network (if you access the Internet from, for example, a computer at work). Your IP address is automatically logged by our servers and used to collect traffic data about visitors to our websites. We do not use your IP address to identify you personally. 
+By using our website, you consent to the information you provide being processed for any of the above purposes, except where you have chosen to opt out of being contacted by us. If you are registered with My Details, you may change this option at any time. You can also unsubscribe by contacting the Customer Service. Please ensure you list all the email and postal addresses you have given us in the past. Alternatively, write to us at: [info@homestoreandmore.ie](mailto:info@homestoreandmore.ie)
 
-Security 
+Cookies
 
-homestore and more endeavor to take all reasonable steps to protect your personal information. However, we cannot guarantee the security of any data you disclose online. You accept the inherent security risks of providing information and dealing online over the Internet and will not hold us responsible for any breach of security unless this is due to our negligence or willful default.
+Cookies are small pieces of information that are stored by your browser on your computer hard drive. 
+
+We use cookies for the following reasons:   
+
+
+  * To identify you as you travel around our site.
+  * To provide site usage information, which together with purchase information, will further help us improve and develop the products and services we offer. No recognisable personal information is stored in the cookie that can link it back to an individual.
+
+
+
+Feedback
+
+If you have any comments, queries or complaints relating to our privacy policy, please contact us at [info@homestoreandmore.ie](mailto:info@homestoreandmore.ie)
+
+Security
+
+At homestore + more we take your online security very seriously. Our hosting provider is PCI Level 1 compliant and we cannot overstate the importance of that assertion by an independent third party. 
+
+Usability of the website
+
+The homestore + more platform in general has been developed with usability in mind and are constantly making usability improvements to the platform. Our developer team is well trained in usability best practice to ensure that homestore + more website is designed with usability in mind at all times.
+
+Accessibility of the website
+
+At homestore + more we are committed to making our web information and services accessible to everyone, including those with disabilities or visual impairments. With this in mind we constantly strive to make homestoreandmore.ie as accessible as possible to our customers.
+
+This website has been developed to meet Level One recommendations made by W3C Website Accessibility Initiative (WAI) Guidelines, which complies with current IE legislation, including the following:
+
+  * The Disability Act
+  * The Equal Status Act
+  * The Employment Equality Act
+
+
+
+We intend to continue improving our accessibility so if you have difficulty accessing this site and require further help, or if you have any suggestions to help improve our accessibility, please [contact us](mailto:info@homestoreandmore.ie). 
+
+  
+
