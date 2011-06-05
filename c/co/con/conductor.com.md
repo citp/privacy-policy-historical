@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the conductor.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226095753id_/http%3A//www.conductor.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conductor.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605081609id_/http%3A//www.conductor.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Conductor
 
