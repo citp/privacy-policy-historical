@@ -1,7 +1,30 @@
-> *The following text is extracted and transformed from the releasemyad.com privacy policy that was archived on 2010-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100221204417id_/http%3A//www.releasemyad.com/privacy_poliicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the releasemyad.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606011208id_/http%3A//releasemyad.com/privacy_poliicy.php) for the most accurate reproduction.*
 
 # releaseMyAd | Privacy Policy
 
+| 
+
+Privacy Policy  
+  
+---  
+   
+  
+The privacy practices of this statement apply to all our services available under the domain of www.releaseMyAd.com.  
+  
+   
+  
+By visiting this website you agree to be bound by the terms and conditions of this Privacy Policy. If you do not agree please do not use or access the Website.  
+  
+   
+  
+This Privacy Policy describes the information as part of the operation of our website services that we collect from you and what may happen to that information. Subject to the requirements of applicable law, we strive to provide a consistent set of privacy practices for our services to you.  
+  
+   
+  
+By accepting the Privacy Policy and the User Agreement in registration, you expressly consent to our use and disclosure of your personal information in accordance with this Privacy Policy. This Privacy Policy is incorporated into and subject to the terms of the User Agreement. This Privacy Policy is effective upon acceptance in registration for new registering users.  
+  
+   
+  
   1. We value your trust in us and we are committed to protect your privacy. Please read the following policy to understand how your personal information will be treated as you make full use of the Website.
 
   2. From time to time we may reveal general statistical information about our Website and visitors, such as number of visitors, number and type of goods and services purchased, etc.
@@ -66,4 +89,11 @@ By using the Website, you consent to the collection and use of the information y
 We welcome your questions and comments regarding our privacy policy. You may contact us by using the feedback link on our Website. As our business meets the future, our privacy policy may change. We shall endeavor to post notice of changes of policy prominently and with advance notice, but our policy, terms, and conditions in effect at any time will govern our practices and our relationship at that time. You should check back here regularly in case policies or terms and conditions are updated or changed.
 
 
+  
+  
+   
+  
+Copyright © 2010 - 2011 www.ReleaseMyAd.com, All Rights Reserved. 
+
+  
 
