@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the ticketexchangebyticketmaster.com privacy policy that was archived on 2010-12-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101205133609id_/http%3A//www.ticketmaster.com/h/privacy.html%3Ftm_link%3Dtm_homeA_i_pp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ticketexchangebyticketmaster.com privacy policy that was archived on 2011-06-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110605132309id_/http%3A//www.ticketmaster.com/h/privacy.html%3Ftm_link%3Dtm_i_pp) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xml:lang="en"><head>
     <title>Ticketmaster Privacy Policy. Official Ticketmaster Site.</title>
 
 <meta name="description" content="Find and buy tickets: concerts, sports, arts, theater, theatre, broadway shows, family events at Ticketmaster.com">
@@ -9,7 +9,7 @@
     <meta name="keywords" content="tickets, concert tickets, concert listings, concert tour dates, sports tickets, theater tickets, family tickets, hot tickets, buy tickets">
 
 <meta name="rating" content="general">
-<meta name="copyright" content="2010, Ticketmaster">
+<meta name="copyright" content="2011, Ticketmaster">
 <meta name="revisit-after" content="4 Days">
 <meta name="expires" content="never">
 <meta name="distribution" content="global">
@@ -19,15 +19,14 @@
 
 
 <!-- ClickStream MetaTags - End -->
-
 <script language="javascript">
-var global_script_path_foresee = "http://media.ticketmaster.com/en-us/js/ea37cf12bc41ad89c8bba341a5a66065";
+var global_script_path_foresee = "http://media.ticketmaster.com/en-us/js/d91911029306e060805b873f1bd66050";
 var global_html_path_foresee = "http://www.ticketmaster.com";
 </script>
-<script language="JavaScript" type="text/javascript" src="http://media.ticketmaster.com/en-us/js/ea37cf12bc41ad89c8bba341a5a66065/foresee/foresee-alive.js"></script>
-<script language="JavaScript" src="http://media.ticketmaster.com/en-us/js/ea37cf12bc41ad89c8bba341a5a66065/tmjs.js" type="text/javascript"></script>
+<script language="JavaScript" type="text/javascript" src="http://media.ticketmaster.com/en-us/js/d91911029306e060805b873f1bd66050/foresee/foresee-alive.js"></script>
+<script language="JavaScript" src="http://media.ticketmaster.com/en-us/js/d91911029306e060805b873f1bd66050/tmjs.js" type="text/javascript"></script>
 
-<script language="JavaScript" type="text/javascript" src="http://media.ticketmaster.com/en-us/js/ea37cf12bc41ad89c8bba341a5a66065/prototype/prototype.js"></script>
+<script language="JavaScript" type="text/javascript" src="http://media.ticketmaster.com/en-us/js/d91911029306e060805b873f1bd66050/prototype/prototype.js"></script>
 
 <script type="text/javascript"><!--
 var tm_omn_account="tm-USprod,tm-combinedUSprod";
@@ -36,7 +35,7 @@ var isReviews = "";
 var omn_domain_owner = "TM_US:";
 var tm_omni_temp = $H();
 var modules_avail_per_page = $A();
-var market_id = GetCookie('MARKET_ID') ? GetCookie('MARKET_ID') : '38';
+var market_id = GetCookie('MARKET_ID') ? GetCookie('MARKET_ID') : '32';
 tm_omni_temp.set('omnVID','');
 tm_omni_temp.set('omnAID','');
 tm_omni_temp.set('omnEID','');
@@ -73,7 +72,7 @@ var omniCustomClick = Class.create({
         }
         return true;
   },
-  module_link: function(clickmod,inclusiveLink){
+  module_link: function(clickmod,inclusiveLink,tracking_vars){
          this.data = Object.extend({},{
                     linkTrackVars: 'events,eVar13,prop14,eVar14',
                   linkTrackEvents: 'event13',
@@ -89,8 +88,41 @@ var omniCustomClick = Class.create({
          this.data.prop14 = "";
          this.data.linkTrackVars = this.data.linkTrackVars.gsub(/,prop14,eVar14/,"");
        }
+
+      tracking_vars = tracking_vars || {};
+      for ( var tv in tracking_vars ) {
+          this.data[tv] = tracking_vars[tv];
+          this.data.linkTrackVars += ',' + tv;
+      }
+
       this.handleClick();
      },
+    navigation_link2: function( clicklink, options ){
+        options = Object.extend( {
+            np: false,
+            newWin: false,
+            tracking_vars: {}
+        }, options );
+
+        this.data = Object.extend({},{
+            linkTrackVars: 'prop14,eVar14',
+            linkTrackEvents: 'event27',
+            prop14: 'TM_US: ' + clicklink,
+            eVar14: 'TM_US: ' + clicklink
+        },
+            clickLink = clicklink,
+            newPage = options.np,
+            newWindow  = options.newWin
+        );
+
+        for ( var tv in options.tracking_vars ) {
+            this.data[tv] = options.tracking_vars[tv];
+            this.data.linkTrackVars += ',' + tv;
+        }
+
+        tm_omni_temp.set('location_path',options.nav_url);
+        this.handleClick();
+    },
   navigation_link: function(clicklink,np,nav_url,newWin){
          if(!np){np= false;}
          if(newWin != false){newWin = true;}
@@ -135,7 +167,6 @@ var omniCustomClick = Class.create({
 
 var omniTracking = new omniCustomClick();
 
-
 TMDebug = {
     gen_tlog: function() {
         return function(){};
@@ -147,20 +178,13 @@ TMDebug = {
 </script>
 <!-- TM_CUSTOM_SCRIPT -->
 
-<script language="JavaScript" type="text/javascript" src="http://media.ticketmaster.com/en-us/js/ea37cf12bc41ad89c8bba341a5a66065/prototype/builder.js"></script>
-<script language="JavaScript" type="text/javascript" src="http://media.ticketmaster.com/en-us/js/ea37cf12bc41ad89c8bba341a5a66065/prototype/effects.js"></script>
-<script language="JavaScript" type="text/javascript" src="http://media.ticketmaster.com/en-us/js/ea37cf12bc41ad89c8bba341a5a66065/prototype/dragdrop.js"></script>
-<script language="JavaScript" type="text/javascript" src="http://media.ticketmaster.com/en-us/js/ea37cf12bc41ad89c8bba341a5a66065/prototype/controls.js"></script>
-<script language="JavaScript" type="text/javascript" src="http://media.ticketmaster.com/en-us/js/ea37cf12bc41ad89c8bba341a5a66065/prototype/slider.js"></script>
-<script language="JavaScript" type="text/javascript" src="http://media.ticketmaster.com/en-us/js/ea37cf12bc41ad89c8bba341a5a66065/carousel.js"></script>
-<script language="JavaScript" type="text/javascript" src="http://media.ticketmaster.com/en-us/js/ea37cf12bc41ad89c8bba341a5a66065/prototype/tm/popup.js"></script>
-
-
-
-
-
-
-<script language="JavaScript" src="http://media.ticketmaster.com/en-us/js/ea37cf12bc41ad89c8bba341a5a66065/global.js" type="text/javascript"></script>
+<script language="JavaScript" type="text/javascript" src="http://media.ticketmaster.com/en-us/js/d91911029306e060805b873f1bd66050/prototype/builder.js"></script>
+<script language="JavaScript" type="text/javascript" src="http://media.ticketmaster.com/en-us/js/d91911029306e060805b873f1bd66050/prototype/effects.js"></script>
+<script language="JavaScript" type="text/javascript" src="http://media.ticketmaster.com/en-us/js/d91911029306e060805b873f1bd66050/prototype/dragdrop.js"></script>
+<script language="JavaScript" type="text/javascript" src="http://media.ticketmaster.com/en-us/js/d91911029306e060805b873f1bd66050/prototype/controls.js"></script>
+<script language="JavaScript" type="text/javascript" src="http://media.ticketmaster.com/en-us/js/d91911029306e060805b873f1bd66050/prototype/slider.js"></script>
+<script language="JavaScript" type="text/javascript" src="http://media.ticketmaster.com/en-us/js/d91911029306e060805b873f1bd66050/carousel.js"></script>
+<script language="JavaScript" type="text/javascript" src="http://media.ticketmaster.com/en-us/js/d91911029306e060805b873f1bd66050/prototype/tm/popup.js"></script>
 
 
 
@@ -170,25 +194,56 @@ TMDebug = {
 
 
 
+<script language="JavaScript" src="http://media.ticketmaster.com/en-us/js/d91911029306e060805b873f1bd66050/global.js" type="text/javascript"></script>
 
 
 
 
 
 
-<script language="JavaScript" src="http://media.ticketmaster.com/en-us/js/ea37cf12bc41ad89c8bba341a5a66065/base64.js"></script>
 
-<script language="JavaScript" src="http://media.ticketmaster.com/en-us/js/ea37cf12bc41ad89c8bba341a5a66065/unicode.js"></script>
+
+
+
+
+
+
+
+
+
+
+<script language="JavaScript" src="http://media.ticketmaster.com/en-us/js/d91911029306e060805b873f1bd66050/base64.js"></script>
+
+<script language="JavaScript" src="http://media.ticketmaster.com/en-us/js/d91911029306e060805b873f1bd66050/unicode.js"></script>
 
 
         
+
 <script type="text/javascript" language="javascript">
-    <!--
+//<![CDATA[
+
+    new CookieTree( '_E' ).remove( 'flags' );
+
+
+
+    window.js_cookie_domain = "ticketmaster.com";
+
+    TMCookie.remove( 'CART', { domain: js_cookie_domain } );
+    TMCookie.remove( 'CART_SAVE_FAIL', { domain: js_cookie_domain } );
+    TMCookie.remove( 'NTF', { domain: js_cookie_domain } );
+//]]>
+</script>
+<script type="text/javascript" language="javascript">
+//<![CDATA[
     document.domain = "ticketmaster.com";
-    //-->
+//]]>
 </script><script type="text/javascript" language="javascript">
+//<![CDATA[
     var extraWT = new Array();
-</script><script language="JavaScript">
+//]]>
+</script>
+<script type="text/javascript" language="javascript">
+//<![CDATA[
 
 // <!--
 // This code below extracts the contents of the
@@ -271,6 +326,53 @@ function grabUrl() {
 
 }
 
+function starRatingDisplay(rating) {
+    var star_rating = (rating - parseInt(rating)).toFixed(1);    var offset;
+    switch (star_rating) {
+        case "0.1":       
+             if(parseInt(rating) == 0 || parseInt(rating) == 1){
+                 offset = 0;
+             }  
+             else{
+                 offset = 1 - parseInt(rating); 
+             }      
+             break
+        case "0.2": case "0.3":
+             offset = 7;           
+             break
+        case "0.4": case "0.5": case "0.6":
+             offset = 8;       
+             break
+        case "0.7": case "0.8":
+             offset = 9;
+             break
+        case "0.9":
+             if(parseInt(rating) == 0 ){
+                 offset = 15;
+             }
+             else if(parseInt(rating) == 4 ){
+                 offset = 14;
+             }    
+             else{
+                 offset = 15 - parseInt(rating);
+             }                  
+             break
+        default: 
+             if(parseInt(rating) == 1 ){
+                 offset = 0;
+             }
+             else if(parseInt(rating) == 5 ){
+                 offset = -1;
+             }         
+             else{
+                 offset = 1 - parseInt(rating);
+             }
+             break
+     }
+    var final_display_percent = ( parseInt(rating) * 15 +  offset ) + "px";
+    return final_display_percent;
+ }
+
 //////////////////////////////////////////////////////////////////////////
 // Change Location JS for Top Nav and Browse Box
 //////////////////////////////////////////////////////////////////////////
@@ -280,111 +382,115 @@ function grabUrl() {
 var location_text = 'Enter City or Zip Code';
 location_text = location_text.replace(reg_ex,replaceItem);
 
-var page_context_uri = "wQgfHIFUtUOoiuBIuSE5_IAmf99-Ed7ccrEVuf-HbSy0i2uEcq48DZE3Izzsms-bxZrxEa2YRKpxKsC9i8qk1F6NytahIzRLfw";
+var page_context_uri = "hdlOe4Z8w8-NhQxY7B5uKGoleat8gIbnt22H3MHBQR1r-Oc6GgLlFEncB40NJKRcrOroApi6fu7_box6";
 
 
-        new CookieTree( '_E' ).remove( 'did' );
-        new CookieTree( '_E' ).remove( 'mode' );
-        new CookieTree( '_E' ).remove( 'pp' );
-        new CookieTree( '_E' ).remove( 'pw' );
-        new CookieTree( '_E' ).remove( 'cdv' );
-        new CookieTree( '_E' ).remove( 'wad' );
-        new CookieTree( '_E' ).remove( 'sl' );
-
+        var tree = new CookieTree( '_E' );
+        tree.remove( 'mode' );
+        tree.remove( 'pp' );
+        tree.remove( 'pw' );
+        tree.remove( 'cdv' );
+        tree.remove( 'wad' );
+        tree.remove( 'sl' );
+//]]>
 </script>
 
-<!--b4 dc--><!--after dc-->
-
-    <link href="http://media.ticketmaster.com/en-us/css/ea37cf12bc41ad89c8bba341a5a66065/tm/legacy.css" rel="stylesheet" type="text/css">
-    <link href="http://media.ticketmaster.com/en-us/css/ea37cf12bc41ad89c8bba341a5a66065/tm/default.css" rel="stylesheet" type="text/css">
 
 
-
-    
-
-
-    
-
-    <link href="http://media.ticketmaster.com/en-us/css/ea37cf12bc41ad89c8bba341a5a66065/tm/carousel.css" rel="stylesheet" type="text/css">
-    <link href="http://media.ticketmaster.com/en-us/css/ea37cf12bc41ad89c8bba341a5a66065/tm/langoverlay_en-us.css" rel="stylesheet" type="text/css">
-
-
-    
-
-
-    
-
-        <!--[if IE 6]>
-        <style>
-            .lidExpand_sm {background-image: none;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true,sizingMethod=scale, src='http://media.ticketmaster.com/tm/en-us/img/sys/1000/corners/lid_sm_left.png'); }
-            .lidExpand_Lg {background-image: none;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true,sizingMethod=scale, src='http://media.ticketmaster.com/tm/en-us/img/sys/1000/corners/lid_lg_left.png'); }
-            .lidRt_sm {background-image: none;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true,sizingMethod=image, src='http://media.ticketmaster.com/tm/en-us/img/sys/1000/corners/lid_sm_right.png'); }
-            .lidRt_lg {background-image: none;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true,sizingMethod=image, src='http://media.ticketmaster.com/tm/en-us/img/sys/1000/corners/lid_lg_right.png'); }
-            .less #change_location {
-                    background-image: none;
-                    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale, src='http://media.ticketmaster.com/tm/en-us/img/sys/1000/locboxbg_wt.png');
-            }
-            .less #location_button {
-                    background-image: none;
-                    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=image, src='http://media.ticketmaster.com/tm/en-us/img/sys/1000/locboxbg_wt_rt.png');
-            }
-            #locBoxTop {
-                    background-image: none;
-                    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=image, src='http://media.ticketmaster.com/tm/en-us/img/sys/1000/locationbox_top.png');
-            }
-            #locBoxMid {
-                    background-image: none;
-                    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale, src='http://media.ticketmaster.com/tm/en-us/img/sys/1000/locationbox_mid.png');
-            }
-            #locBoxBot {
-                    background-image: none;
-                    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=image, src='http://media.ticketmaster.com/tm/en-us/img/sys/1000/locationbox_bot.png');
-            }
-            #colLeft .lid {
-                    background-image: none;
-                    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale, src='http://media.ticketmaster.com/tm/en-us/img/sys/1000/corners/lid_left.png');
-            }
-            .wrap-myTM .lid {
-                    background-image: none;
-                    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale, src='http://media.ticketmaster.com/tm/en-us/img/sys/1000/corners/lid-mytm.png');
-            }
-            #seeEvents .lid {
-                    background-image: none;
-                    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale, src='http://media.ticketmaster.com/tm/en-us/img/sys/1000/corners/wrap_top_search.png');
-            }
-            #leftCol #seeEvents .lid {
-                    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale, src='http://media.ticketmaster.com/tm/en-us/img/sys/1000/corners/wrap_top_search_rt.png');
-            }
-            .lid-cat .roundBot {
-                    background-image: none;
-                    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale, src='http://media.ticketmaster.com/tm/en-us/img/sys/1000/corners/lid_browse_bot.png');
-            }
-            .lid-cat .roundTop {
-                    background-image: none;
-                    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale, src='http://media.ticketmaster.com/tm/en-us/img/sys/1000/corners/lid_browse_top.png');
-            }
-            .dropdown {
-                    background-image: none;
-                    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale, src='http://media.ticketmaster.com/tm/en-us/img/sys/1000/shad_box.png');
-            }
-            .dropdownSm {
-                    background-image: none;
-                    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale, src='http://media.ticketmaster.com/tm/en-us/img/sys/1000/shad_box_sm.png');
-            }
-            span.dots {
-                    background-image: none;
-                    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=image, src='http://media.ticketmaster.com/tm/en-us/img/sys/1000/attraction/cal_dot.png');
-            }
-
-            #footerBottom a#bottomLogo { background-image: none; filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=image, src='http://media.ticketmaster.com/tm/en-us/img/sys/1000/logoBottom.png'); }
-            #twitterIcon { background-image: none; filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=image, src='http://media.ticketmaster.com/tm/en-us/img/sys/1000/logoTwit.png'); }
-            #facebookIcon { background-image: none; filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=image, src='http://media.ticketmaster.com/tm/en-us/img/sys/1000/logoFB.png'); }
-
-        </style>
-    <![endif]-->
+<link href="http://media.ticketmaster.com/en-us/css/d91911029306e060805b873f1bd66050/tm/legacy.css" rel="stylesheet" type="text/css">
+<link href="http://media.ticketmaster.com/en-us/css/d91911029306e060805b873f1bd66050/tm/default.css" rel="stylesheet" type="text/css">
 
 
 
+
+
+
+
+
+
+
+
+
+<link href="http://media.ticketmaster.com/en-us/css/d91911029306e060805b873f1bd66050/tm/carousel.css" rel="stylesheet" type="text/css">
+<link href="http://media.ticketmaster.com/en-us/css/d91911029306e060805b873f1bd66050/tm/langoverlay_en-us.css" rel="stylesheet" type="text/css">
+
+
+
+
+
+
+
+<!--[if IE 6]>
+    <style>
+        .lidExpand_sm {background-image: none;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true,sizingMethod=scale, src='http://media.ticketmaster.com/tm/en-us/img/sys/1000/corners/lid_sm_left.png'); }
+        .lidExpand_Lg {background-image: none;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true,sizingMethod=scale, src='http://media.ticketmaster.com/tm/en-us/img/sys/1000/corners/lid_lg_left.png'); }
+        .lidRt_sm {background-image: none;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true,sizingMethod=image, src='http://media.ticketmaster.com/tm/en-us/img/sys/1000/corners/lid_sm_right.png'); }
+        .lidRt_lg {background-image: none;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true,sizingMethod=image, src='http://media.ticketmaster.com/tm/en-us/img/sys/1000/corners/lid_lg_right.png'); }
+        .less #change_location {
+                background-image: none;
+                filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale, src='http://media.ticketmaster.com/tm/en-us/img/sys/1000/locboxbg_wt.png');
+        }
+        .less #location_button {
+                background-image: none;
+                filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=image, src='http://media.ticketmaster.com/tm/en-us/img/sys/1000/locboxbg_wt_rt.png');
+        }
+        #locBoxTop {
+                background-image: none;
+                filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=image, src='http://media.ticketmaster.com/tm/en-us/img/sys/1000/locationbox_top.png');
+        }
+        #locBoxMid {
+                background-image: none;
+                filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale, src='http://media.ticketmaster.com/tm/en-us/img/sys/1000/locationbox_mid.png');
+        }
+        #locBoxBot {
+                background-image: none;
+                filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=image, src='http://media.ticketmaster.com/tm/en-us/img/sys/1000/locationbox_bot.png');
+        }
+        #colLeft .lid {
+                background-image: none;
+                filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale, src='http://media.ticketmaster.com/tm/en-us/img/sys/1000/corners/lid_left.png');
+        }
+        .wrap-myTM .lid {
+                background-image: none;
+                filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale, src='http://media.ticketmaster.com/tm/en-us/img/sys/1000/corners/lid-mytm.png');
+        }
+        #seeEvents .lid {
+                background-image: none;
+                filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale, src='http://media.ticketmaster.com/tm/en-us/img/sys/1000/corners/wrap_top_search.png');
+        }
+        #leftCol #seeEvents .lid {
+                filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale, src='http://media.ticketmaster.com/tm/en-us/img/sys/1000/corners/wrap_top_search_rt.png');
+        }
+        .lid-cat .roundBot {
+                background-image: none;
+                filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale, src='http://media.ticketmaster.com/tm/en-us/img/sys/1000/corners/lid_browse_bot.png');
+        }
+        .lid-cat .roundTop {
+                background-image: none;
+                filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale, src='http://media.ticketmaster.com/tm/en-us/img/sys/1000/corners/lid_browse_top.png');
+        }
+        .dropdown {
+                background-image: none;
+                filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale, src='http://media.ticketmaster.com/tm/en-us/img/sys/1000/shad_box.png');
+        }
+        .dropdownSm {
+                background-image: none;
+                filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale, src='http://media.ticketmaster.com/tm/en-us/img/sys/1000/shad_box_sm.png');
+        }
+        span.dots {
+                background-image: none;
+                filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=image, src='http://media.ticketmaster.com/tm/en-us/img/sys/1000/attraction/cal_dot.png');
+        }
+
+        #footerBottom a#bottomLogo { background-image: none; filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=image, src='http://media.ticketmaster.com/tm/en-us/img/sys/1000/logoBottom.png'); }
+        #twitterIcon { background-image: none; filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=image, src='http://media.ticketmaster.com/tm/en-us/img/sys/1000/logoTwit.png'); }
+        #facebookIcon { background-image: none; filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=image, src='http://media.ticketmaster.com/tm/en-us/img/sys/1000/logoFB.png'); }
+         .search-only .ticket-container label { position:relative }
+        span.ie_has_layout { display:inline }
+         .ie6-clearfix { zoom:1; overflow:hidden }
+        #starburst { background-image: none; filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale, src='img/sys/rebrand/starburst.png'); top: 100px;}
+    </style>
+<![endif]-->
 <!--[if IE]>
 <style>
 .ie_has_layout {
@@ -395,12 +501,16 @@ var page_context_uri = "wQgfHIFUtUOoiuBIuSE5_IAmf99-Ed7ccrEVuf-HbSy0i2uEcq48DZE3
             #locBox { zoom:1;
                 filter:progid:DXImageTransform.Microsoft.Shadow(color='#000000',direction='120',strength='5');
              }
+#seeEvents .ie_has_layout { display:inline-block; height:21px }
 </style>
 <![endif]-->
 <!--[if IE]>
 <style>
 .search-module .checkbox-list { padding-right: 20px; }
 .search-module .checkbox-list .details { width: auto; }
+#cat-browse td.widget-fix { vertical-align:top }
+#cat-browse .widget-frame,
+#seeEvents .widget-frame { margin-top: 0; }
 </style>
 <![endif]-->
 
@@ -461,8 +571,10 @@ function buildLink( myFlag ) {
      }
 }
 </script>
-        <div id="topMain"><div id="topLinks">                                    <a href="https://www.ticketmaster.com/member?tm_link=tm_ql_1">My Ticketmaster</a>                                    <a href="http://www.ticketmaster.com/event/1A00438121F71837/?tm_link=tm_ql_2">Gift Cards</a>                                    <a href="http://www.ticketmaster.com/h/stateselecttcenters.html?tm_link=tm_ql_3">Retail Outlets</a>                                    <a class="last" href="http://www.ticketmaster.com/h/help.html?tm_link=tm_ql_4">Help</a>            </div>
-<h2 class="hideContent">Ticketmaster  page</h2>                <a id="logoBox" href="http://www.ticketmaster.com/section?tm_link=tm_logo" title="Ticketmaster Logo"></a><script language="javascript">
+          <div id="starburst_wrap">
+             <div id="starburst"></div>
+          </div> <!-- end starburst_wrap -->        <div id="topMain"><div id="topLinks">                                    <a class="withBar" href="https://www.ticketmaster.com/member?tm_link=tm_ql_1" rel="nofollow">My Ticketmaster</a>                                    <a class="withBar" href="http://www.ticketmaster.com/event/1A0046239DCE0A6D/?tm_link=tm_ql_2">Gift Cards</a>                                    <a class="withBar" href="http://www.ticketmaster.com/h/stateselecttcenters.html?tm_link=tm_ql_3">Retail Outlets</a>                                    <a href="http://www.ticketmaster.com/h/help.html?tm_link=tm_ql_4">Help</a>            </div>
+                <a id="logoBox" href="http://www.ticketmaster.com/section?tm_link=tm_logo" alt="Ticketmaster Home Section" title="Ticketmaster Logo"></a><script language="javascript">
     var reg_ex = new RegExp("&eacute;","g");
     var replaceItem = '\u00E9';
 
@@ -486,18 +598,18 @@ function verifySearchString(form) {
             <input type="hidden" name="tm_link" value="tm_header_search">
             <table border="0" cellpadding="0" cellspacing="5">
                 <tbody><tr>
-                                        <td><label for="q" class="hideContent">Search Ticketmaster by Artist, Team, or Venue</label><input type="text" name="q" title="Enter search term" value="Enter Artist, Team, or Venue" class="text" maxlength="80" onfocus="if(this.value == search_text)this.value=''; this.style.color='#333';" onblur="if(this.value == ''){this.value=search_text; this.style.color='#898989'; }; ">&nbsp;</td>
-                    <td><label for="search" class="hideContent">Enter search term</label><input type="image" name="search" alt="Enter search term" src="http://media.ticketmaster.com/tm/en-us/img/sys/1000/blank.gif" class="search" title="Enter search term">
+                                        <td><input type="text" name="q" title="Search Ticketmaster by Artist, Team, or Venue" value="Enter Artist, Team, or Venue" class="text" maxlength="80" onfocus="if(this.value == search_text)this.value=''; this.style.color='#333';" onblur="if(this.value == ''){this.value=search_text; this.style.color='#898989'; }; ">&nbsp;</td>
+                    <td><label for="search" class="hideContent">Enter search term</label><input type="image" name="search" id="search" alt="Enter search term" src="http://media.ticketmaster.com/tm/en-us/img/sys/1000/blank.gif" class="search">
                     </td>
                 </tr>    
             </tbody></table>
         </form>
     </div>                <div class="clear"></div><div id="locWrapper">
-    <div id="changeLoc" title="Change Location Box">
-    <div class="" onclick="toggleA('locName','locBox'); return false">
-       <a href="" class="more" onclick="return false;" id="locName">        <script language="javascript">
+    <div id="changeLoc">
+    <div>
+       <a href="#" class="more" onclick="toggleA('locName','locBox'); return false" id="locName" title="Change Location Box">        <script language="javascript">
             <!--
-                var my_market = "Raleigh";
+                var my_market = "United States";
                 var location_box_market_name = GetCookie("MARKET_NAME");
                 if( location_box_market_name ) {
                     location_box_market_name = location_box_market_name.base64decode().stripScripts().stripTags().escapeHTML();
@@ -513,7 +625,7 @@ function verifySearchString(form) {
                 else if( my_market != location_box_market_name ) {
                     var npdma_c = GetCookie("NPDMA");
                     var ndma_c = GetCookie("NDMA");
-                    if( npdma_c == ndma_c && '366' == ndma_c ) {
+                    if( npdma_c == ndma_c && '' == ndma_c ) {
                         document.write( my_market );
                     }
                     else if( location_box_market_name ) {
@@ -528,20 +640,20 @@ function verifySearchString(form) {
                 }
             //-->
         </script></a></div>    <div id="locBox" style="display: none">                <form action="/find_area" method="get" onsubmit="return verifyLocationString(this);">
-                    <h5 class="h3 show">Change Location</h5>
+                    <div class="h3 show">Change Location</div>
                     <div class="spacer7px"></div>
                                         <div class="error mgBot10 txt11" id="location_eror_blank" style="display: none">Please enter city or zip code or click "See All Cities" below.</div>
                                         <div class="error mgBot10 txt11" id="location_eror_multiple" style="display: none">We found multiple results matching "<div id="location_results" style="display: inline">keyword</div>".
                         <br>Please choose from the list below                    </div>
                                         <div class="error mgBot10 txt11" id="location_eror_not_found" style="display: none">We could not find this location. Please check your entry (city name only or zip code) or click the "See All Cities" link below.</div>
                     <div class="clear spacer7px"></div>
-                    <label class="hideContent">Enter City or Zip Code</label>
+                    <label class="hideContent" for="location_input">Enter City or Zip Code</label>
                     <input type="text" name="area" id="location_input" onfocus="this.select(value='');" onblur="if(this.value == '')this.value=location_text;" value="Enter City or Zip Code">
                     <input type="image" src="http://media.ticketmaster.com/tm/en-us/img/sys/1000/blank.gif" alt="Submit City or Zip Code" title="Submit City or Zip Code" class="goLg">
                     <div style="width: 250px; display: none;" class="selectOption" id="location_eror_multiple_dropdown">
                         <div class="scrollBox" id="location_multiple_dropdown"></div>
                     </div><div></div>
-                    <a href="/find_area?uri=wQgfHIFUtUOoiuBIuSE5_IAmf99-Ed7ccrEVuf-HbSy0i2uEcq48DZE3Izzsms-bxZrxEa2YRKpxKsC9i8qk1F6NytahIzRLfw&amp;tm_link=tm_changeloc_cities">See All Cities</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.ticketmaster.com/international?tm_link=tm_changeloc_intl">See International</a>
+                    <a href="/find_area?uri=hdlOe4Z8w8-NhQxY7B5uKGoleat8gIbnt22H3MHBQR1r-Oc6GgLlFEncB40NJKRcrOroApi6fu7_box6&amp;tm_link=tm_changeloc_cities">See All Cities</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.ticketmaster.com/international?tm_link=tm_changeloc_intl">See International</a>
                     <input type="hidden" name="tm_link" value="tm_changeloc_go">
                 </form>    </div>
 </div>
@@ -569,12 +681,57 @@ function welcomeMe() {
 }
 welcomeMe();
 </script></div>    
-<div id="navBar">
+    <a class="nfbSkipNav" href="#nfb_skipNav"><img src="http://media.ticketmaster.com/tm/en-us/img/sys/common_new/spacer.gif" width="1" height="1" alt="Skip to main content"></a>
+    <div id="navBar">
             <a href="http://www.ticketmaster.com/section?tm_link=tm_header" id="home">Home</a>
             <a href="http://www.ticketmaster.com/section/concerts?tm_link=tm_music_header" id="music" title="Main Category Music">Music</a>
+            <div id="music_menu" style="display:none;"></div>
+
             <a href="http://www.ticketmaster.com/section/sports?tm_link=tm_sports_header" id="sports" title="Main Category Sports">Sports</a>
+            <div id="sports_menu" style="display:none;"></div>
+
             <a href="http://www.ticketmaster.com/section/arts_theater?tm_link=tm_arts_header" id="arts" title="Main Category Arts &amp; Theater">Arts &amp; Theater</a>
-            <a href="http://www.ticketmaster.com/section/family?tm_link=tm_family_header" id="family" title="Main Category Family">Family</a>    </div>        <div id="contentWrap">
+            <div id="arts_menu" style="display:none;"></div>
+        
+            <a href="http://www.ticketmaster.com/section/family?tm_link=tm_family_header" id="family" title="Main Category Family">Family</a>
+            <div id="family_menu" style="display:none;"></div>
+                <a href="http://www.ticketmaster.com" onclick="omniTracking.navigation_link('tm_header_merchandise',false,'http://www.store.ticketmaster.com'); return false;" id="merchandise" title="Merchandise" target="_blank">Merchandise</a>
+                <script type="text/javascript" language="JavaScript">
+                    var totalWidth=0;
+                       $w('sports arts family especiales merchandise music home').each(function(s){
+                         if($(s)){
+                          totalWidth += parseInt($(s).getWidth())
+                         }
+                       });
+                       $('starburst').setStyle({ width: totalWidth+'px'});
+                </script>
+  <div id="shopCart" style="display:none"> 
+    <a href="https://www.ticketmaster.com/mycart?tm_link=tm_header_mycart">
+      <span class="shopBtn"><strong>My Cart</strong>
+        <span class="cart-basket-total"></span>  
+      </span> 
+      <span class="shopBtnRt"></span>
+    </a> 
+  </div>
+
+<script type="text/javascript" language="JavaScript">
+//<![CDATA[
+{
+    var count = GetCookie("MYCART_COUNT") || 0;
+    if ( count >= 0 ) {
+        $$('.cart-basket-total')[0].innerHTML = [ 
+            ' (<span class="cart_total_items">', count, '</span>',
+            '<span class="hideContent"> items in your cart</span>)'
+        ].join('');
+    }
+    else {        $$('.cart-basket-total')[0].innerHTML = '';
+    }
+    $('shopCart').show();
+}
+//]]>
+</script>
+    </div>
+    <a name="nfb_skipNav" id="nfb_skipNav" class="nfbSkipNav" tabindex="-1">&nbsp;</a>        <div id="contentWrap">
             <div class="frame">
                 <div id="mainContent">	
 
@@ -615,49 +772,48 @@ welcomeMe();
 
 <div id="mainCol-floatLeft">
 	<div class="lid-primary">
-		<span class="floatRight txt12">Last Updated 06-07-10</span>
+		<span class="floatRight txt12">Last Updated 01-14-11</span>
 		<h4>Privacy Policy</h4>
 	</div>
 	<div class="container-neutralZone">
-		<p>Welcome to Ticketmaster! We want you to know that protecting your personal information is very important to us, and we respect your privacy. This Privacy Policy is meant to explain how we use and protect the personal information you share with us. This Policy applies to all users of www.livenation.com or our services, and to any information provided to us.</p>
+		<p>Welcome to Ticketmaster! We want you to know that protecting your personal information is very important to us, and we respect your privacy. This Privacy Policy is meant to explain how we use and protect the personal information you share with us. This Policy applies to all users of www.ticketmaster.com or our services, and to any information provided to us.</p>
 		<p>By using our website, you are accepting the practices we describe here.</p>
 		<p>If you have any questions, please <a href="http://www.ticketmaster.com/h/customer_serve.html">click here</a> for information on how to contact us.</p>
 		<p>Ticketmaster complies with the privacy laws and regulations of the United States of America. Ticketmaster makes no representation that this Site is governed by or operated in accordance with the laws of other nations, or that the Site or any part thereof is appropriate or available for use in any particular jurisdiction. Those who choose to access the Site do so on their own initiative and at their own risk, and are responsible for complying with all local laws, rules and regulations. By using this Site, visitors from outside of the United States of America acknowledge this Site is subject to the laws and regulations of the United States of America, and waive any claims that may arise under their own national laws.</p>
 		<p>Ticketmaster reserves the right to change, modify, add, or remove provisions of this Privacy Policy. Changes to this Privacy Policy will be posted here on this Site. We encourage you to check back from time to time to ensure continuing familiarity with the most current version of our Privacy Policy. You can determine whether the Privacy Policy has been revised since your previous visit to the Site by referring to the "Last Updated" legend at the top of this page. Please read this Privacy Policy carefully. Your use of this Site constitutes your acceptance to be bound by this Privacy Policy without limitation, qualification or change. If at any time you do not accept all the terms and conditions contained herein, you must immediately discontinue use of this Site.</p>
 		<p><b>1. What Information We Collect</b><br><br>
-			Ticketmaster gathers two basic types of information through the Site: "Personally Identifiable Information" (or "PII") and "Non-Personally Identifiable Information" (or "Non-PII"). PII is information that identifies or can identify you as an individual (such as residential address, telephone number, or billing information) and Non-PII is aggregated information, demographic information, IP addresses and any other information that does not reveal your specific identity.</p>
+		Ticketmaster gathers two basic types of information through the Site: "Personally Identifiable Information" (or "PII") and "Non-Personally Identifiable Information" (or "Non-PII"). PII is information that identifies or can identify you as an individual (such as residential address, telephone number, or billing information) and Non-PII is aggregated information, demographic information, IP addresses and any other information that does not reveal your specific identity.</p>
 		<p><b>a. Non-Personally Identifiable Information.</b> When you visit and interact with the Site, Ticketmaster and third parties with whom Ticketmaster has contracted to provide services to Ticketmaster may collect Non-PII (for example, a catalog of the Site pages you visit). Non-PII is anonymous and does not identify you personally. Non-PII is generally collected through the Site from four different sources: Internet protocol addresses and web logs; cookies; pixel tags and other similar technologies; and other Non-PII that you voluntarily provide (as explained below).</p>
 		<p><b>i. IP Protocol Addresses and Web Logs.</b> This Site's web servers automatically collect the Internet Protocol (IP) addresses and log files of visitors. Your IP address is an identifying number that is automatically assigned to your computer by your Internet Service Provider (ISP). This number is identified and logged automatically in our server log files whenever you visit the Site, along with the time(s) of your visit(s) and the page(s) that you visited. This information is collected in an aggregate form only and does not contain any PII. We use your IP address, and the IP addresses of all users, for purposes such as calculating Site usage levels, helping diagnose problems with the Site's servers, and administering the Site. Collecting IP addresses is standard practice on the Internet and is done automatically by many websites. In addition to the Non-PII usage of IP Addresses described above we also may link your IP address to personally identifiable information for fraud prevention purposes.</p>
-		<p><b>ii. Cookies.</b> We and our third party service providers may use a standard technology called a "cookie" to collect information about how you use the Site. Cookies reside on your computer and help the Site recognize your computer's browser as a previous visitor. For example, when you sign in to your My Ticketmaster account, cookies will be used to save your email address and name so the next time you visit your my Ticketmaster account from the same computer we will "remember" your email address and name in order to make your experience faster and simpler.  On occasion our Site may also set a "session cookie" which helps us administer the Site. The session cookie expires when you close your browser and does not retain any information about you after it expires. If you do not want information collected through the use of cookies, you should be able to modify your browser preference to provide you with choices relating to cookies. If you choose to reject cookies, you may be unable to use certain Site services (e.g., those services that require you to log on to the Site in order to participate). </p>
+		<p><b>ii. Cookies.</b> We and our third party service providers may use a standard technology called a "cookie" to collect information about how you use the Site. Cookies reside on your computer and help the Site recognize your computer's browser as a previous visitor. For example, when you sign in to your My Ticketmaster account, cookies will be used to save your email address and name so the next time you visit your My Ticketmaster account from the same computer we will "remember" your email address and name in order to make your experience faster and simpler.  On occasion our Site may also set a "session cookie" which helps us administer the Site. The session cookie expires when you close your browser and does not retain any information about you after it expires. If you do not want information collected through the use of cookies, you should be able to modify your browser preference to provide you with choices relating to cookies. If you choose to reject cookies, you may be unable to use certain Site services (e.g., those services that require you to log on to the Site in order to participate). </p>
 		<p><b>iii. Pixel Tags.</b> We and our service providers may also use so-called "pixel tags," "web beacons," "clear GIFs" or similar means (collectively, "Pixel Tags") in connection with some Site pages and HTML-formatted email messages to track your use of our website in order to provide you with more useful information and a more personalized experience the next time you visit. A Pixel Tag is an electronic image, often a single pixel (1x1), that is ordinarily not visible to Site visitors and may be associated with cookies on the visitors' hard drives. Pixel Tags do not contain any PII and allow us to count users who have visited certain pages of the Site, to deliver branded services, and to help determine the effectiveness of promotional or advertising campaigns. When used in HTML-formatted email messages, Pixel Tags can tell the sender whether and when an email has been opened.</p>
 		<p><b>2. How Information We Collect Is Used</b><br><br>
 			We know it is very important to protect the information you share with us. We take appropriate security measures to help safeguard this information from unauthorized access and disclosure. For example, only authorized employees are permitted to access your personal information, and they may do so only for limited reasons. We also encrypt credit card numbers and other sensitive information before it is sent from your computer to ours. We also use firewalls to help prevent unauthorized access to your personal information.</p>
-		<p>You should feel confident using our website. However, no system can be completely secure. Although we take very significant steps to secure your information, there is always a chance that your information will not always remain secure, and you should always take great care in handling and disclosing your personal information. For example, avoid sending personal information through insecure email. Please refer to the Federal Trade Commission's website at <a href="http://www.ftc.gov/bcp/menus/consumer/data.shtm" target="_blank">http://www.ftc.gov/bcp/menus/consumer/data.shtm</a> for information about how to protect yourself against identity theft.</p>
-		<p><b>a. Non-Personally Identifiable Information.</b> Because Non-PII does not personally identify you, we may use such information for any purpose. For example, we may use Non-PII to measure the number of visits, average time spent on the Site and pages viewed as well as to diagnose problems with our servers and to administer the Site. We may then use this information to analyze and improve the features and functionality of this Site. We may use non-PII information about you and other Site visitors on an aggregate basis to sell and deliver advertising, promotions and content that we believe will be of interest to you.</p>
+		<p>You should feel confident using our website. However, no system can be completely secure. Although we take very significant steps to secure your information, there is always a chance that your information will not always remain secure, and you should always take great care in handling and disclosing your personal information. For example, avoid sending personal information through insecure email. Please refer to the Federal Trade Commission's website at  at <a href="http://www.ftc.gov/bcp/menus/consumer/data.shtm" target="_blank">http://www.ftc.gov/bcp/menus/consumer/data.shtm</a> for information about how to protect yourself against identity theft.</p>
+		<p><b>a. Non-Personally Identifiable Information.</b> Because Non-PII does not personally identify you, we may use such information for any purpose. For example, we may use Non-PII to measure the number of visits, average time spent on the Site and pages viewed as well as to diagnose problems with our servers and to administer the Site. We may then use this information to analyze and improve the features and functionality of this Site. We may use non-PII information about you and other Site visitors to sell and deliver advertising, promotions and content that we believe will be of interest to you.</p>
 		<p>In addition, we reserve the right to share such Non-PII, which does not personally identify you, with third parties, for any purpose. For example, we may share information with advertisers or other third parties that are not part of the Ticketmaster family on an aggregate or other basis that does not disclose any of your PII.</p>
 		<p>In some instances, we may combine Non-PII with PII (such as embedding email addresses in cookies). If we do combine any Non-PII with PII, the combined information will be treated as PII. This "combined" PII is not shared with third parties, except as described in this Policy.</p>
 		<p><b>b. Personally Identifiable Information</b><br><br>
 			<b>i. Site.</b> We may use PII you give us to better tailor your website experience to your interests, to show you content in which you may be interested and to display the content according to your preferences. We may also share your PII within the Ticketmaster business family in order to enhance your experience on other Ticketmaster websites. To the extent we do so, we make sure that your PII receives the same level of protection throughout the Ticketmaster business family. All Ticketmaster companies comply with applicable privacy and security laws and, at a minimum, in any commercial e-mail they send to you, will give you the opportunity to choose not to receive such e-mail messages in the future. Please note that such sharing may involve the collection use, storage, or disclosure of PII outside the United States of America.</p>
-		<p><b>ii. Communications.</b> If you choose to opt-in, we may use your PII to send you information about Ticketmaster and its services as well as promotional material on behalf of some of our partners. If at any time you change your mind and prefer to no longer receive such marketing communications from us, please see the "Opt-In Policy" section below.</p>
+		<p><b>ii. Communications.</b> Unless you opt out, we may use your PII to send you information about Ticketmaster and its services as well as promotional material on behalf of some of our partners. If at any time you change your mind and prefer to no longer receive such marketing communications from us, please see the "Opt-Out Policy" section below.</p>
 		<p><b>iii. Administrative Matters.</b> Ticketmaster reserves the right to contact you in the event of a change in the Site's Terms of Use and/or this Privacy Policy, or to notify you of other administrative matters in connection with the Site (e.g., contacting you to facilitate, complete or confirm a transaction). Because this information may be important to your use of the Site, you may not opt-out of receiving such communications.</p>
 		<p><b>iv. Fulfillment of Requests.</b> Ticketmaster may use your PII to fulfill the purpose for which such PII was provided (e.g., to confirm your registration or fulfill your purchase).</p>
 		<p><b>v. Facilitation of Transactions.</b> Forms on the Site may sometimes be pre-populated with your PII in order to facilitate a transaction between you and Ticketmaster.</p>
 		<p><b>vi. Internal Business Purposes.</b> We may also use your PII for our internal business purposes, such as to target advertising, for data analysis, for audits, for fraud prevention and for other internal purposes.</p>
 		<p><b>vii. Shopping/Commercial Services.</b> This Site may offer merchandise and/or ticket purchase services, which may be offered by us or by one of our e-commerce partners. To the extent the merchandise and/or ticket purchase services are offered by one of our e-commerce partners, such e-commerce partner will be collecting and using the PII you provide. For more information regarding your transactions with our e-commerce partners, please refer to Section 4(b) below.</p>
-		<p>To the extent Ticketmaster is the entity offering the purchase services, when you make a purchase through the Site, we may collect your credit card number or other payment account number (for example, your PayPal account number), billing address and other information related to such purchase (collectively, "Payment Information") from you. We will use the Payment Information that you provide to bill you for your purchase and to fulfill your purchase. By providing your Payment Information, you are authorizing us to give that information to third parties as necessary to confirm and fulfill your order (for example, to process your credit card or payment account number and to send you products you have ordered).</p>
-		<p><b>viii. Email This to a Friend.</b> The Site may allow you to forward certain items posted on Site or links to Site features by email or Instant Messenger to other parties who you believe may be interested. If you wish to use this feature, you may provide us with such other party's email address or Instant Messenger screen name so that we can facilitate your sending of such message to such other party. To do so, any PII you provide in connection with sending such other party the message, such as your name and your email address or Instant Messenger screen name, will, of course, be disclosed to such other party. While, due to technical restrictions, the recipient's email address or Instant Messenger screen names may be retained in our log files, we do not knowingly share it with third parties and we do not use this PII for any purpose except to send this message (unless the recipient has already consented to such use of his/her PII).</p>
+		<p>To the extent Live Nation is the entity offering the purchase services, when you make a purchase through the Site, we may collect your credit card number or other payment account number (for example, your PayPal account number), billing address (including zip code) and other information related to such purchase (collectively, "Payment Information") from you. We will use the Payment Information that you provide to bill you for your purchase and to fulfill your purchase. We may also use your Payment Information to allow us to ship or deliver tickets and/or receipts to you, respond to customer service requests, review and enforce limits on the number of tickets purchased per event and to help prevent credit card fraud. By providing your Payment Information, you are authorizing us to give that information to third parties as necessary to confirm and fulfill your order (for example, to process your credit card or payment account number and to send you products you have ordered).</p>
+		<p><b>viii. Email This to a Friend.</b> The Site may allow you to forward certain items posted on Site or links to Site features by email or Instant Messenger to other parties who you believe may be interested. If you wish to use this feature, you may provide us with such other party's email address or Instant Messenger screen name so that we can facilitate your sending of such message to such other party. To do so, any PII you provide in connection with sending such other party the message, such as your name and your email address or Instant Messenger screen name, will, of course, be disclosed to such other party. While, due to technical restrictions, the recipient's email address or Instant Messenger screen names may be retained in our log files, we do not knowingly share it with third parties and we do not use this PII for any purpose except to send this message (unless the recipient has already consented to such use of his/her PII)..</p>
 		<p><b>ix. Online Surveys/Sweepstakes and Contests.</b> From time to time, we conduct online surveys and offer online sweepstakes or contests on the Site (each, a "Promotion"), and we may collect PII in connection with the same. We may use your PII to contact you regarding your Promotion entry, or to contact you if you win a Promotion (if applicable). You should carefully review the rules, if any, of each Promotion in which you participate through the Site, as they may contain additional important information about Ticketmaster's use of your PII. To the extent such rules conflict with this Privacy Policy, such rules will govern that particular Promotion.</p>
 		<p><b>x. Newsletter and Magazine Subscriptions.</b> When you complete the ticket purchase for our shows, you will be automatically enrolled in our newsletter. In addition, for some shows you may receive a complimentary subscription to a trade magazine. For this purpose, we will provide your name and mailing address to the magazine subscription fulfillment company. You may choose to simultaneously opt out of both subscriptions during the checkout process.</p>
 		<p><b>3. How Personally Identifiable Information We Collect Is Disclosed</b><br><br>
-			<b>a. Affiliate Communications.</b> If you choose to opt-in, we may share your PII with our affiliates, so that our affiliates may send you announcements and notifications of events, products or services that might be of interest to you. For further information, please see the "Opt-In Policy" section below.</p>
-		<p><b>b. Third Party Communications.</b>We may also share your PII with third parties to allow such third parties to send promotional communications to you.  Such third parties may include event providers, such as venues, promoters, artists' representatives and fan clubs, teams, leagues and others who are involved in or bring you events and their contractors.  In addition, when you buy or sell tickets or bid in an auction on our site (or try to do these things), you consent to allow us to provide your personal information to these event providers. </p>
-		<p><b>c. Ticketmaster Service Providers.</b> We work with third parties who provide services including but not limited to data analysis, order fulfillment, credit card processing and other services of an administrative nature. If you use our services, we reserve the right to share your PII with such third parties for the purpose of enabling these third parties to provide such services. We take reasonable steps to ensure these third parties treat PII in a manner comparable to how we do so.</p>
-		<p><b>d. Public Forums and Other Interactive Features.</b> Please be aware that when you disclose PII in a chat room, forum, message board or news groups on the Site, the information may become public and accessible to all or a part of the Site community, so it is important for you to exercise discretion and appropriate caution when deciding to reveal PII in these areas. In addition, when you choose to make a posting on such services, certain PII may be available for other users to view. We urge you to exercise discretion and caution when deciding to disclose your PII, or any other information, on the Site. WE ARE NOT RESPONSIBLE FOR THE USE OF ANY PII YOU VOLUNTARILY DISCLOSE THROUGH THE SITE VIA THESE FORUMS AND OTHER INTERACTIVE FEATURES. Please note that we reserve the right, but have no obligation, to republish content posted in a chat room, forum, message board or news group (including any PII contained therein) as further set forth in our Terms of Use. </p>
+			<b>a. Affiliate Communications and Third Party Communications..</b> Unless you opt out, we may share your PII with our affiliates, including venues, promoters or sponsors of events, artist representatives and fan clubs, teams, leagues and others who are involved in or bring you events.  When you buy or sell tickets or bid in an auction on our Site (or try to do these things), you consent to allow us to provide your PII to these event providers and their contractors. We share this information so these event providers may send you announcements and notifications of events, products or services that might be of interest to you. For further information, please see the "Opt-Out Policy" section below.</p>		
+		<p><b>b. Ticketmaster Service Providers.</b> We work with third parties who provide services including but not limited to data analysis, order fulfillment, credit card processing and other services of an administrative nature. If you use our services, we reserve the right to share your PII with such third parties for the purpose of enabling these third parties to provide such services. We take reasonable steps to ensure these third parties treat PII in a manner comparable to how we do so.</p>
+		<p><b>c. Public Forums and Other Interactive Features.</b> Please be aware that when you disclose PII through a chat room, forum, message board, news group or Facebook feature on the Site, the information may become public and accessible to all or a part of the Site community, so it is important for you to exercise discretion and appropriate caution when deciding to reveal PII in these areas. In addition, when you choose to make a posting on such services, certain PII may be available for other users to view. We urge you to exercise discretion and caution when deciding to disclose your PII, or any other information, on the Site. WE ARE NOT RESPONSIBLE FOR THE USE OF ANY PII YOU VOLUNTARILY DISCLOSE THROUGH THE SITE VIA THESE FORUMS AND OTHER INTERACTIVE FEATURES. Please note that we reserve the right, but have no obligation, to republish content posted in a chat room, forum, message board or news group (including any PII contained therein) as further set forth in our Terms of Use. </p>
 		<p>In the event that you encounter any Site user who you believe is improperly collecting or using information about you or other users, please contact us at <a href="mailto:privacy@livenation.com">privacy@livenation.com</a>.</p>
-		<p><b>e. Online Surveys/Sweepstakes and Contests.</b> We reserve the right to share PII collected in connection with Promotions with the third-party sponsors of any such Promotions (irrespective of whether such Promotions are hosted by us), or otherwise in accordance with the rules applicable to such Promotion. You should carefully review the rules, if any, of each Promotion in which you participate through the Site, as they may contain additional important information about a sponsor's or other third parties' use of your PII. To the extent such rules conflict with this Privacy Policy, such rules will govern that particular Promotion.</p>
-		<p>f. Other Purposes. We also may disclose your information:<br>
+		<p><b>d. Online Surveys/Sweepstakes and Contests.</b> We may share PII collected in connection with Promotions with the third-party sponsors of any such Promotions (irrespective of whether such Promotions are hosted by us), or otherwise in accordance with the rules applicable to such Promotion. You should carefully review the rules, if any, of each Promotion in which you participate through the Site, as they may contain additional important information about a sponsor's or other third parties' use of your PII. To the extent such rules conflict with this Privacy Policy, such rules will govern that particular Promotion.</p>
+		<p>e. Other Purposes. We also may disclose your information:<br>
 			</p><ul>
-				<li>In response to a subpoena or similar investigative demand, a court order, or a request for cooperation from law enforcement or another government agency; to establish or exercise our legal rights; to defend against legal claims; or as otherwise required by law. In such cases, we may raise or waive any legal objection or right available to us.</li>
+				<li>In response to a subpoena or similar investigative demand, a court order, or a request for cooperation from law enforcement or another government agency; to establish or exercise our legal rights; to defend against legal claims; or as otherwise required by law. In such cases, we may raise or waive any legal objection or right available to us. </li>
 				<li>When we believe disclosure is appropriate in connection with efforts to investigate, prevent, or take other action regarding illegal activity, suspected fraud or other wrongdoing; to protect and defend the rights, property or safety of our company, our users, our employees, or others; to comply with applicable law or cooperate with law enforcement; or to enforce our website terms and conditions or other agreements or policies.</li>
 				<li>In connection with a substantial corporate transaction, such as the reorganization or sale of our business, a divestiture, merger, consolidation or asset sale, or in the unlikely event of bankruptcy.</li>
 			</ul>
@@ -667,23 +823,23 @@ welcomeMe();
 		<p><b>b. Transactions With E-Commerce Partners, Vendors and Advertisers.</b> When you provide PII to one of our Site's e-commerce partners, vendors or advertisers, this transaction will occur in connection with the site of the e-commerce partner, vendor or advertiser, not on the Site, and, as such, the PII you provide is collected pursuant to and controlled by the privacy policy of such e-commerce partner, vendor or advertiser. Ticketmaster is not responsible for such parties' privacy policies and we encourage you to familiarize yourself with the applicable privacy policy of the e-commerce site with which you transact business or to contact the operator of such site for more information.</p>
 		<p>Please be aware that at times, at the request of or on behalf of our e-commerce partners, vendors or advertisers, Ticketmaster may "pre-populate" forms with your PII for your review, and, if you so choose, for submission to such e-commerce partners, vendors or advertisers. Accordingly, we encourage you to review each pre-populated form carefully before agreeing to submit your PII to determine who is seeking to collect your information, and to familiarize yourself with the applicable privacy policy governing use of any PII collected about you.</p>
 		<p><b>c. Job Postings.</b> If you apply for a position with Ticketmaster and submit your personal information through our website, the information you submit will be used only in connection with considering and acting upon your application. We may retain your personal information for a period of time, but only for the purpose of considering your application for current or future available positions.</p>
-		<p>If you choose to respond to a job posting on the Site, you may be directed to a third-party site (for example, a third-party site specializing in job postings, such as Monster.com). Any PII you provide will be collected by such third party. We have no control over, and are not responsible or liable for, such third party's use of your PII. Please consult such third party's privacy policy for information regarding their privacy practices.</p>
+		<p>If you choose to respond to a job posting on the Site, you may be directed to a third-party site (for example, a third-party site specializing in job postings, such as Monster.com). Any PII you provide will be collected by such third party. We have no control over, and are not responsible or liable for, such third party's use of your PII. Please consult such third party's privacy policy for information regarding their privacy practices. </p>
 		<p>The third party collecting your PII will share such PII with Ticketmaster so that Ticketmaster can review your information and, if applicable, respond to your query or job application. Please note that Ticketmaster has no obligation to respond to all queries or job applications submitted. Any PII that Ticketmaster receives from such third party will be treated in accordance with this Privacy Policy.</p>
-		<p><b>d. Third Party Advertising.</b> The ads appearing on this Site are delivered to you by our third party advertising partners. In the course of serving advertisements to this Site, our third-party advertiser may place or recognize a unique cookie on your browser. Non-PII about your visits to this Site, such as number of times you have viewed an ad, is used to serve ads to you.</p>
+		<p><b>d. Third Party Advertising.</b> The ads appearing on this Site are delivered to you by our third party advertising partners. In the course of serving advertisements to this Site, our third-party advertiser may place or recognize a unique cookie on your browser. Non-PII about your visits to this Site, such as number of times you have viewed an ad, is used to serve ads to you. Some of these third parties may be advertising networks that are members of the Network Advertising Initiative, which offers a website to opt out of ad targeting from several advertising companies (<a href="http://www.networkadvertising.org" target="_blank">www.networkadvertising.org</a>).</p>
 		<p><b>e. Third Party Links.</b> The Site may contain links to third-party Internet websites, which are not owned or operated by Ticketmaster. We provide such links only as a convenience, and the inclusion of a link on the Site does not imply endorsement of the linked site by Ticketmaster. If you provide any PII through any such third-party website, your transaction will occur on such third party's website (not the Site) and the PII you provide will be collected by, and controlled by the privacy policy of, that third party. We are not responsible for the privacy practices or the content of such third-party websites, including such websites' use of any PII that you provide to them. We strongly encourage you to become familiar with the privacy practices of those sites.</p>
-		<p><b>5. Opt-In Policy</b><br><br>
-			<b>a. Ticketmaster Communications.</b> When you supply Ticketmaster with PII, from time-to-time, in Ticketmaster's discretion, you may be asked to indicate whether you are interested in receiving information from us about special offers in connection with the Site, Ticketmaster and/or our advertisers and partners. If you do choose to opt-in to receive such communications, we may, from time to time, send you marketing communications.</p>
+		<p><b>5. Opt-Out Policy</b><br><br>
+			<b>a. Ticketmaster Communications.</b> When you supply Ticketmaster with PII, from time-to-time, in Ticketmaster's discretion, you may be asked to indicate whether you are interested in receiving information from us about special offers in connection with the Site, Ticketmaster and/or our advertisers and partners. Unless you opt out to receive such communications, we may, from time to time, send you marketing communications. </p>
 		<p>At any time, you can choose to no longer receive commercial or promotional emails from us by clicking on <a href="https://www.ticketmaster.com/member">My Ticketmaster</a> and following the instructions to "manage your email alerts." You may modify your choices at any time in your My Ticketmaster account. Also, in any commercial email we send, you will be given the opportunity to opt out of receiving such messages in the future by clicking on the link at the bottom of the email that says "unsubscribe." It may take up to 10 days for us to process an opt-out request.</p>
 		<p>Even if you have unsubscribed from receiving promotional emails from us, we may send you other types of important e-mail communications without offering you the opportunity to opt out of receiving them. These may include customer service announcements, administrative notices and surveys.</p>
-		<p>Please note that changing information in your My Ticketmaster account or opting out of receiving promotional email communications will affect only future communications from us. If we already provided your information to a third party (such as an event provider) before you changed your preferences or updated your information, you may have to change your preferences directly with that third party as well.</p>
-		<p><b>b. Affiliate and Third Party Communications.</b> From time-to-time in Ticketmaster's discretion, you may be provided with the opportunity to opt-in to receive offers directly from our affiliates and/or from third parties. If you do choose to accept any such offer(s), any PII provided to Ticketmaster for such purposes may be shared with our affiliates and such third-party partner(s), to allow our affiliates and/or such third parties to provide you with such offers. If you change your mind and would prefer that we no longer share your PII with our affiliates and/or with third parties for their marketing purposes, you may opt-out of such future sharing at any time by following the procedure above, provided however, you may not be able to opt out of certain third party offers that are displayed on our Site.</p>
+		<p>Please note that changing information in your My Ticketmaster account or opting out of receiving promotional email communications will affect only future communications from us. If we already provided your information to a third party (such as an event provider) before you changed your preferences or updated your information, you may have to change your preferences directly with that third party as well. </p>
+		<p><b>b. Affiliate and Third Party Communications.</b> From time-to-time in Ticketmaster's discretion, you may be provided with the opportunity to opt-in to receive offers directly from our affiliates and/or from third parties. Unless you opt out to accept any such offer(s), any PII provided to Ticketmaster for such purposes may be shared with our affiliates and such third-party partner(s), to allow our affiliates and/or such third parties to provide you with such offers. If you would prefer that we no longer share your PII with our affiliates and/or with third parties for their marketing purposes, you may opt-out of such future sharing at any time by following the procedure above, provided however, you may not be able to opt out of certain third party offers that are displayed on our Site.</p>
 		<p><b>6. Use of This Site by Children.</b> The Site is not directed to individuals under the age of thirteen (13), and we request that such individuals do not provide PII through the Site. If a parent or guardian becomes aware that his or her child has provided us with personally identifiable information without the parent or guardian's consent by, for example, misrepresenting his or her age, that parent or guardian should contact us at <a href="mailto:privacy@livenation.com">privacy@livenation.com</a>. If Ticketmaster determines that it has collected personal information of children under the age of 13, Ticketmaster will immediately delete such information and any accounts believed to be held by children under 13. Please see our <a href="http://www.ticketmaster.com/h/terms.html">Terms of Use</a> for additional information regarding the use of this Site by minors.</p>
 		<p><b>7. Accessing, Updating or Deleting Information Collected About You.</b> This Site also gives you the opportunity to modify or remove PII that you have provided to us by way of this Site. You may do so by clicking <a href="https://www.ticketmaster.com/member">My Ticketmaster</a> and following the instructions to modify your user information on the Site. To the extent that such information is stored in our databases, we will respond to your changes as soon as reasonably possible. Please note that although this information will not be available on the Site after you delete it, the information may remain stored indefinitely in our backup and archival records. To the extent that such information is not stored in our databases, we cannot always ensure that these corrections or deletions will reach such other databases in a timely manner.</p>
 		<p><b>8. Security of Your PII.</b> Ticketmaster employs reasonable security measures consistent with standard industry practice, for PII collected through this Site, including physical, electronic and operational measures to maintain security and prevent unauthorized access. While Ticketmaster takes all appropriate steps to safeguard PII under our control, unfortunately, no data transmission over the Internet or method of storing data can be guaranteed to be 100% secure. As such, we cannot guarantee that PII supplied by users will not be accessed on our servers, or intercepted while being transmitted to us over the Internet. We assume no liability for any damages you may suffer as a result of interception, alteration or misuse of information during such transfers. If you have reason to believe that there has been any breach of the security of the Site, please contact us at <a href="mailto:privacy@livenation.com">privacy@livenation.com</a>.</p>
 		<p><b>9. Offline vs. Online practices.</b> Please note that this Privacy Policy applies solely to our online information gathering and dissemination practices in connection with the Site, and does not apply to any of our practices conducted offline.</p>
 		<p><b>10. Contacting Ticketmaster Regarding this Site.</b> If you have any questions concerning this Policy, you may send them by email to our Privacy Officer at <a href="mailto:privacy@livenation.com">privacy@livenation.com</a>. Please note that email communications will not necessarily be secure; accordingly you should not include credit card information or other sensitive information in your email correspondence with us. You must send any official correspondence via postal mail to:<br><br>
-			Ticketmaster Entertainment LLC<br>
-			c/o Live Nation Worldwide, Inc.<br>
+			Ticketmaster LLC<br>
+			c/o Live Nation Entertainment, Inc.<br>
 			9348 Civic Center Drive<br>
 			Beverly Hills, CA 90210<br>
 			Attention: Privacy Officer, Legal</p>
@@ -696,7 +852,7 @@ welcomeMe();
 		<p></p>
 		<p>We may provide this information in a standard format that is not specific to you. The designated email address for these requests is <a href="mailto:privacy@livenation.com">privacy@livenation.com</a>.</p>
 		<p>Thanks again for using Ticketmaster!</p>
-		<p>© 2010 Ticketmaster Entertainment LLC. All rights reserved.</p>
+		<p>© 2011 Ticketmaster LLC. All rights reserved.</p>
   </div>
 </div>
 
@@ -711,74 +867,65 @@ welcomeMe();
         <div id="footerTop">
             <div class="frame"><!-- START NEW FOOTER CODE -->
             <div class="footColumn floatLeft">
-                <div class="h5 allCaps">About Us</div> 
+                <h2 class="h5 allCaps">About Us</h2> 
                 <a href="http://www.ticketmaster.com/h/about_us.html?tm_link=tm_i_abouttm">Who We Are</a> 
                 <a href="http://www.ticketmaster.com/ourguarantee?tm_link=tm_i_guarantee">Our Fan Guarantee</a>
-                <a href="http://ticketology.ticketmaster.com?tm_link=tm_i_ticketology">Ticketology</a>
+                <a href="http://blog.ticketmaster.com?tm_link=tm_i_ticketology">Ticketmaster Blog</a>
                 <a href="http://www.ticketmaster.com/international?tm_link=tm_i_intl">Across the Globe</a>
                 <a href="http://www.ticketmaster.com/careers/?tm_link=tm_i_careers">Careers</a>
             </div><!-- end column1 -->
             <div class="vrFloat"></div>
             <div class="footColumn floatLeft">
-                <div class="h5 allCaps">WE'RE HERE TO HELP</div> 
-                <a href="https://www.ticketmaster.com/member?tm_link=tm_i_ma">Your Account</a> 
-                <a href="https://www.ticketmaster.com/member/order_history?tm_link=tm_i_print">Print Tickets</a>
+                <h2 class="h5 allCaps">WE'RE HERE TO HELP</h2> 
+                <a href="https://www.ticketmaster.com/member?tm_link=tm_i_ma" rel="nofollow">Your Account</a> 
+                <a href="https://www.ticketmaster.com/member/order_history?tm_link=tm_i_print" rel="nofollow">Print Tickets</a>
                 <a href="http://www.ticketmaster.com/h/returns.html?tm_link=tm_i_rp">Refund Policy</a>
                 <a href="http://www.ticketmaster.com/h/shipping.html?tm_link=tm_i_sr">Shipping Options</a> 
                 <a href="http://www.ticketmaster.com/h/help.html?tm_link=tm_i_help">Help</a>
             </div><!-- end column2 -->
             <div class="vrFloat"></div>
             <div class="footColumn floatLeft">
-                <div class="h5 allCaps">OUR NETWORK</div> 
+                <h2 class="h5 allCaps">OUR NETWORK</h2> 
                 <a href="http://www.livenation.com/" target="_blank">Live Nation</a>
                 <a href="http://www.houseofblues.com/" target="_blank">House of Blues</a>                <a href="http://www.ticketweb.com/" target="_blank">TicketWeb</a>            </div><!-- end column3 -->
             <div class="vrFloat"></div>
             <div class="footColumn floatLeft">
-                <div class="h5 allCaps">BE A PART OF IT</div> 
-                <a href="http://www.ticketweb.com/tm/ticketyourevent.html" target="_blank">Ticket Your Event</a>            </div><!-- end column4 -->
+                <h2 class="h5 allCaps">BE A PART OF IT</h2> 
+                <a href="http://www.ticketmaster.com/h/ticketyourevent.html" target="_blank" rel="nofollow">Ticket Your Event</a><a href="http://www.ticketmaster.com/customtickets?tm_link=tm_i_customtix">Custom Tickets</a>            </div><!-- end column4 -->
             <div class="clear"></div>
         </div><!-- end frame -->
         </div><!-- end footerTop -->
 
         <div id="footerBottom">
-        <a href="http://www.ticketmaster.com/section?tm_link=tm_i_home" id="bottomLogo"><img src="http://media.ticketmaster.com/tm/en-us/img/sys/1000/logoBottom.png" alt="Bottom Logo"></a>
+        <a href="http://www.ticketmaster.com/section?tm_link=tm_i_home" id="bottomLogo"><img src="http://media.ticketmaster.com/tm/en-us/img/sys/1000/logoBottom.png" alt="Ticketmaster.com"></a>
         
         <span class="allCaps">International:</span><a href="http://www.ticketmaster.ca/" target="_blank">Canada</a> <a href="http://www.ticketmaster.co.uk/" target="_blank">UK</a> <a href="http://www.ticketmaster.ie/" target="_blank">Ireland</a> <a href="http://www.ticketmaster.es/" target="_blank">Spain</a> <a href="http://www.ticketmaster.com.mx/" target="_blank">Mexico</a> <a href="http://www.ticketmaster.com.au/" target="_blank">Australia</a> <a href="http://www.ticketmaster.com/international?tm_link=tm_homeA_i_more" class="space">More</a>        
         <span class="allCaps">PARTNERS:</span>
         <a href="http://www.ticketmaster.com/americanexpress/?tm_link=amex_footer">American Express</a>
         <a href="http://www.ticketmaster.com/blackberry?tm_link=tm_i_bb_foot_a1">BlackBerry</a>
-        <a href="http://www.limos.com" target="_blank">Limos.com</a>
-        <a href="http://www.nba.com/tickets/tickets.html" target="_blank">NBA</a>
-        <a href="http://www.nfl.com/tickets" target="_blank">NFL</a>
-        <a href="http://www.nhl.com/ice/tickets.htm" target="_blank">NHL</a>
-        <a href="http://www.priceline.com/default.asp?refid=PLTICKETMASTER&amp;refclickid=FT_HOMEPAGE" target="_blank">Priceline</a>
+        <a href="http://www.limos.com" target="_blank" rel="nofollow">Limos.com</a>
+        <a href="http://www.nba.com/tickets/tickets.html" target="_blank" rel="nofollow">NBA</a>
+        <a href="http://www.nfl.com/tickets" target="_blank" rel="nofollow">NFL</a>
+        <a href="http://www.nhl.com/ice/tickets.htm" target="_blank" rel="nofollow">NHL</a>
+        <a href="http://www.priceline.com/default.asp?refid=PLTICKETMASTER&amp;refclickid=FT_HOMEPAGE" target="_blank" rel="nofollow">Priceline</a>
         <a href="http://www.slotix.com/" class="space" target="_blank">SLO VIP Services</a>
-        
+        <span class="nobr">
         <span class="allCaps">FOLLOW US:</span>
-        <a href="http://facebook.com/Ticketmaster" id="facebookIcon" target="_blank"><img src="http://media.ticketmaster.com/tm/en-us/img/sys/1000/logoFB.png" alt="Follow us on Facebook"></a>
-        <a href="http://twitter.com/ticketmaster" id="twitterIcon" target="_blank"><img src="http://media.ticketmaster.com/tm/en-us/img/sys/1000/logoTwit.png" alt="Follow us on Twitter"></a>
-
-        <div class="clear"></div>By continuing past this page, you agree to our <a href="http://www.ticketmaster.com/h/terms.html?tm_link=tm_i_terms" class="under">terms of use</a>. <a href="http://www.ticketmaster.com/sitemap?tm_link=tm_i_sitemap" class="left">Site Map</a> <a href="http://www.ticketmaster.com/h/privacy.html?tm_link=tm_i_pp">Privacy Policy</a>&nbsp;
+        <a href="http://facebook.com/Ticketmaster" id="facebookIcon" target="_blank" rel="nofollow"><img src="http://media.ticketmaster.com/tm/en-us/img/sys/1000/logoFB.png" alt="Follow us on Facebook"></a>
+        <a href="http://twitter.com/ticketmaster" id="twitterIcon" target="_blank" rel="nofollow"><img src="http://media.ticketmaster.com/tm/en-us/img/sys/1000/logoTwit.png" alt="Follow us on Twitter"></a>
+        </span>
+        <div class="clear"></div>By continuing past this page, you agree to our <a href="http://www.ticketmaster.com/h/terms.html?tm_link=tm_i_terms" class="under" rel="nofollow">terms of use</a>. <a href="http://www.ticketmaster.com/sitemap?tm_link=tm_i_sitemap" class="left">Site Map</a> <a href="http://www.ticketmaster.com/h/privacy.html?tm_link=tm_i_pp" rel="nofollow">Privacy Policy</a>&nbsp;
 
 <!-- END NEW FOOTER CODE --> 
 <!-- end footerBottom -->
-            © 1999-2010 Ticketmaster. All rights reserved.<br><div id="partnerLinks">
-    <br>
-    <a href="http://www.gifts.com/" target="_blank">Gifts</a>
-    <a href="http://www.hsn.com/" target="_blank">Online Shopping</a>
-    <a href="http://www.outletbuy.com/" target="_blank">Outletbuy</a>
-    <a href="http://www.pronto.com/" target="_blank">Pronto</a>
-    <a href="http://www.shoebuy.com/" class="space" target="_blank">Shoes</a>
-</div><!-- end partnerLinks -->                 </div>
+            © 1999-2011 Ticketmaster. All rights reserved.<br><div id="partnerLinks">
+    <br>OTHER PARTNERS:&nbsp;        <a href="http://www.floraflora.com/" target="_blank">Floraflora</a>
+        <a href="http://www.gifts.com/" target="_blank">Gifts</a>
+        <a href="http://www.hsn.com/" target="_blank">Online Shopping</a>
+        <a href="http://www.pronto.com/" target="_blank">Pronto</a>
+        <a href="http://www.shoebuy.com/" class="space" target="_blank">Shoebuy</a></div><!-- end partnerLinks -->                 </div>
         
         
-<div id="music_menu" style="display:none;"></div>
-<div id="sports_menu" style="display:none;"></div>
-<div id="arts_menu" style="display:none;"></div>
-<div id="family_menu" style="display:none;"></div>
-<div id="especiales_menu" style="display:none;"></div>
-<div id="toros_menu" style="display:none;"></div>
-
 <script language="JavaScript">
     function cat_hov(elem) {
         $(elem.options.links[0].link_id).addClassName('hover');
@@ -800,15 +947,47 @@ welcomeMe();
             onShow: cat_hov,
             onHide: cat_off,
             link_event: ['mouseover','focus'],
-            autohide_timeout: 1
+            autohide_timeout: 1,
+            tabindex: false
         });
     }
-    $w('music sports arts family').each( function(m){
+    var sections = $w('music sports arts family'); 
+
+    sections.each( function(m){
         $(m).observe( 'mouseover', function(){ $(m).addClassName('hover'); } );
         $(m + '_menu').observe( 'mouseover', function(){ $(m).addClassName('hover'); } );
         $(m).observe( 'focus', function(){ $(m).addClassName('hover'); } );
         $(m + '_menu').observe( 'focus', function(){ $(m).addClassName('hover'); } );
         make_menu(m);
+    });
+
+    $(sections.first()).observe('keydown', function(e) {
+      var code = (e && e.which ? e.which : window.event.keyCode);
+      if(e.shiftKey && code == Event.KEY_TAB) {
+        $(sections.first()).removeClassName('hover');
+        $(sections.first() + '_menu').hide();
+      }
+    });
+    
+    $(sections.last()).observe('keydown', function(e) {
+      if ($(this.id + '_menu') == null) {
+        var code = (e && e.which ? e.which : window.event.keyCode);
+        if(!e.shiftKey && code == Event.KEY_TAB) {
+          $(sections.last()).removeClassName('hover');
+          $(sections.last() + '_menu').hide();
+        }
+      }
+    });
+    
+    $(sections.last() + '_menu').observe('keydown', function(e) {
+      var srcElement = e.srcElement ? e.srcElement : e.target;
+      if ((srcElement.nextSiblings().length == 0) && (srcElement.up().nextSiblings().length == 0)) {
+        var code = (e && e.which ? e.which : window.event.keyCode);
+        if(!e.shiftKey && code == Event.KEY_TAB) {
+          $(sections.last()).removeClassName('hover');
+          setTimeout(function() { $(sections.last() + '_menu').hide(); }, 0);
+        }
+      }
     });
 </script>
                 <script language="JavaScript">
@@ -954,7 +1133,7 @@ var NavMenu = Class.create({
     },
     _get_data: function() {
         var dma_id;
-            dma_id = 366;
+            dma_id = 99999;
         getMenu('/json/search/genremenu', menu_data, 'popular_genres', { dma_id : dma_id });
         getMenu('/json/menu', menu_data, 'popular_events', { domain_id: '1', brand: '' });
         new PeriodicalExecuter(
@@ -1012,7 +1191,7 @@ var NavMenu = Class.create({
                     $( this.popular_genres[cat].menu ).className = add_class;
                 }
     
-                var d_table = new Element('table', { cellspacing: 0, cellpadding: 0, border: 0, 'class': 'dd_table'});
+                var d_table = new Element('table', { cellspacing: 0, cellpadding: 0, border: 0, 'class': 'dd_table', id: 'subNav_' + this.popular_genres[cat].menu});
                 var t_row = new Element('tr');
                 var c_row = new Element('tr');
                 if( this.popular_genres[cat].popular && this.popular_genres[cat].popular.length ) {
@@ -1024,7 +1203,7 @@ var NavMenu = Class.create({
                     this.popular_genres[cat].popular.each(
                         function(d, idx) {
                             idx += 1;
-                            var link = new Element('a', {href:'http://www.ticketmaster.com/browse?category=' + this.genres[cat][d] + '&root=' + cat + '&rdc_select=n93&dma=366&type=selected&tm_link=tm_' + this.popular_genres[cat].track + '_header_l' + idx});
+                            var link = new Element('a', {href:'http://www.ticketmaster.com/browse?category=' + this.genres[cat][d] + '&root=' + cat + '&rdc_select=n31&dma=&type=selected&tm_link=tm_' + this.popular_genres[cat].track + '_header_l' + idx});
                             link.update( d );
                             g_cell.appendChild( link );
                         }.bind(this)
@@ -1069,6 +1248,9 @@ var NavMenu = Class.create({
                     d_table.appendChild( t_body );
                     $( this.popular_genres[cat].menu ).innerHTML = '';
                     $( this.popular_genres[cat].menu ).appendChild( d_table );
+                    
+
+
                 }
             }.bind(this)
         );
@@ -1080,14 +1262,7 @@ function makeNav() {
 document.observe("dom:loaded",makeNav);
 </script>
 
-
-
-
-
-
-
-
-<script type="text/javascript" src="http://media.ticketmaster.com/en-us/js/ea37cf12bc41ad89c8bba341a5a66065/omniture_tracker.js"></script>
+<script type="text/javascript" src="http://media.ticketmaster.com/en-us/js/d91911029306e060805b873f1bd66050/omniture_tracker.js"></script>
 <script type="text/javascript"> 
 var omni_recognized;
 var cookie_id = GetCookie("MID");
@@ -1113,7 +1288,7 @@ tm_omn.prop5  = ""  /* Internal Search Term    */
 tm_omn.prop6  = ""  /* Total # of Search Results Returned */
 tm_omn.prop7  = ""  /* Search Refinements      */
 tm_omn.prop8  = ""  /* Ticket Insurance        */
-tm_omn.prop9  = "localized_" + omni_recognized;  /* Navigation State        */
+tm_omn.prop9  = "national_" + omni_recognized;  /* Navigation State        */
 tm_omn.prop10  = ""  /* Flash Version   */
 tm_omn.prop11  = ""  /* Set Location Value      */
 tm_omn.prop12  = tm_omni_temp.get('prop12') ? tm_omni_temp.get('prop12') : '';  /* Modules Available       */
@@ -1122,6 +1297,8 @@ tm_omn.prop14  = new $H( location.search.toQueryParams() ).get('tm_link'); /* Na
 tm_omn.prop15  = "en-us"  /* Language        */
 tm_omn.prop16  = "TM_US: Help: Privacy Policy"  /* Page Name - Detailed  */  
 tm_omn.prop17  = "TM_US"  /* which domain  */ 
+tm_omn.prop27 = GetCookie("BID") ? GetCookie("BID") : "";
+tm_omn.prop28 = GetCookie("SID") ? GetCookie("SID") : "";
 tm_omn.eVar2  = ""  /* Level 1 */
 tm_omn.eVar3  = ""  /* Level 2 */   
 tm_omn.eVar7  = "" /* Internal Search Term    */
@@ -1160,6 +1337,9 @@ if ( Discrete.id ) {
     tm_omn.eVar49 = Discrete.id;
 }
 tm_omn.eVar50  = GetCookie("MID_MD5") ? GetCookie("MID_MD5") : "";  /* CustomerID MD5     */
+tm_omn.eVar52 = calc52();
+tm_omn.eVar53 = tm_omn.prop27;
+tm_omn.eVar54 = tm_omn.prop28;
 tm_omn.pageType = ""
 tm_omn.purchaseID  = ""  /* Purchase ID     */
 tm_omn.state  = ""  /* User Billing State */     
@@ -1176,13 +1356,16 @@ if(tm_omni_temp.get('recentViewCarousel')){
      tm_omn.prop12 = tm_omni_temp.get('recentViewCarousel');
     }
 }
+
+
+
      if(!location.href.include('html.ng/site')){
          tm_omn.t()
     }
 function initshare(){
     new PeriodicalExecuter(function(pe) {
          if( $('at_hover') ) {
-            var shareDivs = $$('div:([onclick*=addthis_sendto])');
+            var shareDivs = $$('div[onclick*=addthis_sendto]');
                 shareDivs = shareDivs.uniq();
              shareDivs.each( function(d){
                 var attr =  d.readAttribute('onclick');
@@ -1307,6 +1490,39 @@ function calc43() {
     }
 }
 
+function calc52() {
+    var c_v = GetCookie("GEO_OMN");
+    if ( c_v == null || c_v.length == 0 ) {
+        return 'Geotargeting Not Enabled';
+    }
+    else {
+        switch( c_v ) {
+          case "ba":
+            return 'No Call Made Browse Area Cookie';
+          case "ua":
+            return 'No Call Made User Area Cookie';
+          case "in":
+            return 'In Area';
+          case "out":
+            return 'Out of Area';
+          case "unk":
+            return 'Unidentifiable';
+          case "aol":
+            return 'AOL';
+          case "corp":
+            return 'Corporation';
+          case "anon":
+            return 'Anonymous';
+          case "sat":
+            return 'Satellite';
+          case "seo":
+            return 'SEO Crawler';
+          default:
+            return 'Geotargeting No Data';
+        }
+    }
+}
+
 function calc15() {
     var q_p = location.search.toQueryParams();
     if( q_p.tm_link ) {
@@ -1366,17 +1582,24 @@ function calc15() {
 
 
 function validateTmLink(val){
+// added tm_artist_rc and tm_artist_rv as a fix for artist page recommendation bug
+// this should either be remove or replace artist_rc and artist_rv after we confirm
+// artist should have prefix or not
 var arrLinkTest = [
                      /^(tm_)(home|homeA|music|sports|arts|family|specials|toros)_(ts|c|d|event|g|h|j|k|lv|n|artist)(\d+)$/i,
                      /^(artist_rc_)(\w+)$/i,
                      /^(artist_rv_)(\w+)$/i,
+                     /^(tm_artist_rc_)(\w+)$/i,
+                     /^(tm_artist_rv_)(\w+)$/i,
+                     /^(edp_artist_)(\w+)$/i,
                      /^(mytm_recommend_image|mytm_recommend_name)(\d+)$/i,
-                     /^(tm_)(home|homeA|music|sports|arts|family|specials|toros)(_rc_)(findtix|image|name|moredates)\d+$/i,
-                     /^(tm_)(home|homeA|music|sports|arts|family|specials|toros)(_rv_)(findtix|image|name|moredates)\d+$/i,
+                     /^(tm_)(home|homeA|music|sports|arts|family|specials|toros)(_rc_)(findtix|image|name|moredates|rating)\d+$/i,
+                     /^(tm_)(home|homeA|music|sports|arts|family|specials|toros)(_rv_)(findtix|image|name|moredates|rating)\d+$/i,
+                     /^(\w*)(_rv_|_rc_|_recommend_)(rating|viewed)\d+/i,
                      /^(tm_)(home|browse|section|search|artist|venue|mytm)(_rv_)(\w*)/i,
                      /(_rv_)(image|name)\d+$/i,
                      /^(tm_)(home|homeA|music|sports|arts|family|specials|toros)(\w*)_(r|f)(\d+)$/i,
-                     /^(mytm_favEvent_local\w*)|(mytm_favEvent_else_Name)$/i,
+                     /^(mytm_favEvent_local\w*)|(mycart_favEvent_local\w*)|(mytm_favEvent_else_Name)$/i,
                      /^(tm_homeA_popular)(\d+)$/i,
                      /^(tm_\w*)(_b_1000)(\d+_\d+)$/i
                             ]
@@ -1430,16 +1653,22 @@ try{
 
 
 
+
+
+
+
+
+
+
+
+
+
 <script type="text/javascript">
 function cs_rating( page_type,id,rate,appcontext,mid ) {
 }
 </script>
 
-<!-- START - Omniture code TOP -->
-<!-- CODE to paste below BODY tag at top of page -->
-
-
-<script language="JavaScript" type="text/javascript" src="http://media.ticketmaster.com/en-us/js/ea37cf12bc41ad89c8bba341a5a66065/foresee/foresee-trigger.js"></script>
+<script language="JavaScript" type="text/javascript" src="http://media.ticketmaster.com/en-us/js/d91911029306e060805b873f1bd66050/foresee/foresee-trigger.js"></script>
 
 
 
