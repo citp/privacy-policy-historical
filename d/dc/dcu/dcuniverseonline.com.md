@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the dcuniverseonline.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204063116id_/http%3A//www.station.sony.com/sonyonline/privacy.vm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dcuniverseonline.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605105406id_/http%3A//www.station.sony.com/sonyonline/privacy.vm) for the most accurate reproduction.*
 
 # Station.com
 
 | 
+
+[](https://www.esrb.org/confirm/soe-confirmation.jsp)
 
 [](https://www.esrb.org/confirm/soe-confirmation.jsp)
 
