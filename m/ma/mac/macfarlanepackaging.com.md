@@ -1,49 +1,64 @@
-> *The following text is extracted and transformed from the macfarlanepackaging.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125193606id_/http%3A//macfarlanepackaging.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macfarlanepackaging.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605025259id_/http%3A//www.macfarlanepackaging.com/security-privacy) for the most accurate reproduction.*
 
-# - Macfarlane Packaging
+# | Security & Privacy Policy
 
-**Your Information and How We Use It** To process your order we will require the following details:
+**Security**
 
-  * Name
-  * E-mail Address
-  * Telephone Number
-  * Order Delivery Address
-  * Credit/Debit Card Details (or Macfarlane Packaging credit account details)
-  * Credit/Debit Card Billing Address (or Macfarlane Packaging credit account details)
+We take all security issues very seriously. We understand that security is a major concern to some customers and therefore implement security systems that provide security to the latest industry standards.
 
+We are confident that credit card information entered on this site will not be accessed by any unauthorised person or company. Our secure sockets layer (SSL) encryption uses 128-bit encryption: the highest level possible.
 
+As customers enter our checkout process, all browsers go into secure mode. Secure mode is indicated by the appearance of a locked padlock icon at the bottom of the browser screen.
 
-The above information enables us to process your request and notify you of acceptance of your order. 
+Customer credit card details are not held on the Internet. Once a payment is validated and approved, credit card details are deleted. As a result, customers are required to re-enter credit card details each time an order is placed online with us. Although inconvenient, this ensures maximum security for ordering online at Macfarlane Packaging.
 
-Telephone numbers are used to make urgent contact regarding any issues with your order. Unless otherwise advised, telephone numbers may be passed to couriers to arrange for the convenient delivery of your order. 
+This site has security measures in place to protect the loss, misuse, and alteration of the information under our control.
 
-When you register with us, you can select whether you would like to receive information about new products, promotions and discounts from us via e-mail. If in the past, you have chosen to be notified, and no longer wish to receive information, please click on the unsubscribe link found at the bottom of all promotional emails sent, or email [unsubscribe@macfarlanepackaging.com](mailto:unsubscribe@macfarlanepackaging.com) and we will remove your details. 
+Our sales order management system and internal network is protected by the latest proxy technology.
 
-**Safety and Security of Your Information** Our site uses secure server software to protect your information whenever an order is placed. All customer information is encrypted before being sent to minimise the risk of interception. 
+ **Privacy Policy**
 
-We follow strict security procedures as required under UK Data Protection Legislation (the Data Protection Act 1998) to protect information stored about our customers.
+Macfarlane Packaging has created this privacy statement  to demonstrate our firm commitment to privacy. The following outlines the information gathering and usage practices for this web site: www.macfarlanepackaging.com
 
-**Macfarlane Packaging's Internal Confidentiality**
+Macfarlane Packaging is the trading name of Macfarlane Group UK Ltd.
 
-We protect your privacy in four ways:
+Any information that you provide to us will be stored and processed in accordance with the Data Protection Act 1998.
 
-  * Access to customer account information is limited to those who need access for the performance of their job.
-  * All systems operate through full login and password controls. 
-  * All employees are required to sign a confidentiality clause as part of their terms of employment.
-  * Confidentiality and database access controls are reviewed periodically and updated as required to further protect your personal data.
+We will hold and transmit your information in a safe, confidential and secure environment.
 
+We will not sell or rent your personal information to third parties.
 
+ **Your Data**
 
-**Third Party Access** We do _not_ disclose customer information to third parties other than when order details are processed as part of the order fulfillment process. In these instances third parties are supplied with the necessary customer information to complete their activities, and are not in any way permitted to disclose customer details to additional third parties.
+When becoming a new customer you agree to our terms and condidtions and privacy policy. The information you provide shall be held and may be used by Macfarlane Packaging for the following purposes:
 
-**Customer Rights**
+Informing you about forthcoming events organised by or on behalf of Macfarlane Packaging telling you about products, services and offers available from Macfarlane Packaging and operating and administering such products, services and offers; processing of applications for, and administering membership of, this website; providing you with updates and information about Macfarlane Packaging; and helping Macfarlane Packaging through analysis and assessment to better understand and develop our business, including new and innovative products and services.
 
-For any reason, customers can contact [customerservices@macfarlanepackaging.com](mailto:customerservices@macfarlanepackaging.com) and request details of all personal and account information held by us. Alternatively customers can view all personal and account information held by us, through their online account.  
+If agreed by you, Macfarlane Packaging may also pass your information to credit reference and fraud prevention agencies, which may keep a record of that information.
 
-**Use of 'Cookies'**
+Communication between Macfarlane Packaging and you may be by letter, phone, fax and/or e-mail or other electronic means.
 
-Our web site uses session cookies. They do not contain any personally identifiable information. If you prefer your browser software should enable you not to accept cookies. This will not affect your use of our web site.
+IMPORTANT: By registering with Macfarlane Packaging and/or using this website you consent to Macfarlane Packaging using your data in this way.
 
-**Consent**
+ **Shopping Online**
 
-Your use of our web site signifies consent to the collection, processing and use of personal information by us for the purposes of administering and dealing with orders, reference checking including fraud detection, processing payments, market research and marketing purposes as outlined above.  
+When becoming a new customer on line with Macfarlane Packaging or purchasing goods on line we record your Internet IP address for our records for reference to any fraudulent payment transactions.  
+ ** **
+
+**Cookies**
+
+We use session based cookies to help you maintain your shopping basket and any details you submit during your visit. We do not store permanent cookies on your computer, and you will need to login with your registered user name and password each time you wish to purchase goods from the website.
+
+ **New Customer Forms**
+
+Our website's new customer form requires users to give us contact information (like your name, email, postal address, etc). Contact information from this form is used to supply information about Macfarlane Packaging to you at a later date.
+
+Users may opt-in to receive future mailings from us via email and post. You can change these options within your profile at a later date under "my account".
+
+**Data Quality/Access**
+
+This site gives users the following options for changing and modifying information previously provided once logged in, though the "my account" section.
+
+**Contacting Us**
+
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, please contact [marketing@macfarlanepackaging.com](mailto:marketing@macfarlanepackaging.com).
