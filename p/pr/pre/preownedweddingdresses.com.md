@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the preownedweddingdresses.com privacy policy that was archived on 2010-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100131074202id_/http%3A//www.preownedweddingdresses.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the preownedweddingdresses.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606010007id_/http%3A//www.preownedweddingdresses.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy | www.preownedweddingdresses.com
+# Privacy Policy | PreOwnedWeddingDresses.com
 
 **PRIVACY POLICY**
 
