@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the codeproject.com privacy policy that was archived on 2010-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100810024507id_/http%3A//www.codeproject.com/info/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codeproject.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605021844id_/http%3A//www.codeproject.com/info/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - CodeProject
 
-Last updated: Sunday, July 1, 2007
+Last updated: Tuesday, May 10, 2011
 
-The Code Project is committed to protecting your privacy and to developing technology that gives you the most powerful and secure online experience. 
+The Code Project is committed to protecting your privacy and to developing technology that gives you the most powerful and secure online experience.
 
-This privacy statement explains data collection and use practices of The Code Project and The Code Project's website codeproject.com (the " **Site** ") (for purposes of this privacy policy, The Code Project and the Site shall collectively, be referred to as " **We** " or " **The Code Project** "). 
+This privacy statement explains data collection and use practices of The Code Project and The Code Project's website codeproject.com (the " **Site** ") (for purposes of this privacy policy, The Code Project and the Site shall collectively, be referred to as " **We** " or " **The Code Project** ").
 
-The "Site" refers to http://www.codeproject.com and all other Web properties owned or operated by The Code Project now and in the future (or anything that replaces, supplements, or supersedes the Web as the site of The Code Project). 
+The "Site" refers to http://www.codeproject.com and all other Web properties owned or operated by The Code Project now and in the future (or anything that replaces, supplements, or supersedes the Web as the site of The Code Project).
 
 By providing personal information to The Code Project, you are consenting to the information collection and use practices described in this privacy statement.
 
@@ -16,7 +16,7 @@ By providing personal information to The Code Project, you are consenting to the
 
 ## PRIVACY PRINCIPLES
 
-As part of our commitment to treat your personal information with respect, we operate in accordance with the following ten principles (the " **Principles** "): 
+As part of our commitment to treat your personal information with respect, we operate in accordance with the following ten principles (the " **Principles** "):
 
 Principle 1 - Accountability  
 Principle 2 - Identifying Purposes  
@@ -27,11 +27,11 @@ Principle 6 - Accuracy
 Principle 7 - Safeguarding Customer Information  
 Principle 8 - Openness  
 Principle 9 - Customer Access  
-Principle 10 - Handling Customer Complaints and Suggestions
+Principle 10 - Handling Customer Complaints and Suggestions 
 
 ## Principle 1 - Accountability
 
-We will maintain and protect the personal information under our control. We have designated an individual who is accountable for compliance with the Principles. If you have questions about our privacy statement or our use of your information, or if you need help changing your personal information, please contact us by sending e-mail to [ webmaster@codeproject.com](mailto:webmaster@codeproject.com) or contacting us at:
+We will maintain and protect the personal information under our control. We have designated an individual who is accountable for compliance with the Principles. If you have questions about our privacy statement or our use of your information, or if you need help changing your personal information or to opt-out, please contact us by sending e-mail to [ webmaster@codeproject.com](mailto:webmaster@codeproject.com) or contacting us at:
 
 > The Code Project  
 >  503-250 Ferrand Drive   
@@ -40,27 +40,29 @@ We will maintain and protect the personal information under our control. We have
 
 ## Principle 2 - Identifying Purposes
 
-The purposes for which personal information is collected by us will be identified to you before or at the time the information is collected. 
+The purposes for which personal information is collected by us will be identified to you before or at the time the information is collected.
 
 ## Principle 3 - Consent
 
-Except where required or permitted by law your informed consent is required for our collection, use or disclosure of your personal information. 
+Except where required or permitted by law your informed consent is required for our collection, use or disclosure of your personal information.
 
 ## Principle 4 - Limiting Collection
 
-The personal information collected by us shall be limited to those details necessary for the purposes identified to you. To that end, please note the following description of the time of information collected and the reason we collect such information. 
+The personal information collected by us shall be limited to those details necessary for the purposes identified to you. To that end, please note the following description of the type of information collected and the reason we collect such information. The Code Project does not require any financial or payment information. Additionally The Code Project does not intentionally collect information from any individual under the age of 13 years.
+
+Additionally, none of the material or advertising on The Code Project is intended to attract audiences under the age of 13, and as such The Code Project does not intentionally collect information from any individual under the age of 13 years
 
 ### Personal Information
 
-If you would like to create a new member account, we will collect your name and email address. In addition, at your option, if you would like to increase your profile on the Site or with The Code Project generally, or if you would like to be considered by potential employers for employment (please see Principle 5 for a discussion on this point), you may also provide whatever personal information you choose including, without limitation, a brief personal description, lists of interests and experience, where you live, the time zone in which you are in, your occupation, birthday, links to home pages, a picture of yourself and a message board signature. In some limited instances, we may require your credit card information to accommodate your requests to process transactions or access information on any financial transactions carried out with the Site. 
+If you would like to create a new member account, we will collect your name and email address. In addition, at your option, if you would like to increase your profile on the Site or with The Code Project generally, or if you would like to be considered by potential employers for employment (please see Principle 5 for a discussion on this point), you may also provide whatever personal information you choose including, without limitation, a brief personal description, lists of interests and experience, where you live, the time zone in which you are in, your occupation, birthday, links to home pages, a picture of yourself and a message board signature. In some limited instances, we may require your credit card information to accommodate your requests to process transactions or access information on any financial transactions carried out with the Site.
 
-Of course, any time you choose to post an editorial, or other message on the Site, that information is stored by The Code Project and is viewed, together with the biographical information you have provided, by all users of the Site. 
+Of course, any time you choose to post an editorial, or other message on the Site, that information is stored by The Code Project and is viewed, together with the biographical information you have provided, by all users of the Site.
 
 **Please know that only your name and email is necessary to create a new member account, the provision of all other information is optional depending on what you are looking to do on the Site and with The Code Project.**
 
 ### Cookies
 
-We use cookies to store your viewing preferences on the Site and, at your choosing, to store your login information so that once you have logged in you do not need to repeat the login process. We also use a session cookie, meaning it expires soon after you leave the registration process and is not placed on your hard drive, to store your session information during your visit to the Site.
+We use cookies, a piece of text stored on a user’s computer by their web browser, to store your viewing preferences on the Site and, at your choosing, to store your login information so that once you have logged in you do not need to repeat the login process. We also use a session cookie, meaning it expires soon after you leave the registration process and is not placed on your hard drive, to store your session information during your visit to the Site.
 
 ### Anonymous Information
 
@@ -81,6 +83,10 @@ We use your personal information for the following purposes:
   * To display your biography at the end of articles and tutorials submitted by you. 
 
 
+
+### Safeguarding Personal Information
+
+The Code Project strictly protects the security of your personal information, including any financial information, and honors your choices for its intended use. Data is stored in password-controlled servers with limited access. While no security infrastructure is foolproof, we carefully protect your data from loss, misuse, unauthorized access or disclosure, alteration or destruction.
 
 ### Potential Employment Opportunities
 
@@ -151,7 +157,7 @@ To help us keep your personal information up-to-date, we encourage you to amend 
 
 ## Principle 10 - Handling Customer Complaints and Suggestions
 
-If you have questions about our privacy statement or our use of your information, or if you need help changing your personal information, please contact us by sending e-mail to [webmaster@codeproject.com](mailto:webmaster@codeproject.com) or contacting us at: 
+If you have questions about our privacy statement or our use of your information, or if you need help changing or removing your personal information, please contact us by sending e-mail to [webmaster@codeproject.com](mailto:webmaster@codeproject.com) or contacting us at: 
 
 > The Code Project  
 >  503-250 Ferrand Drive   
@@ -172,6 +178,5 @@ This agreement, your use of the Web Site, and all related matters are governed s
 
 We may occasionally update this privacy statement. When we do, we will also revise the "last updated" date at the top of the privacy statement. For material changes to this privacy statement, we will notify you either by placing a prominent notice on the home page of our web site or by directly sending you a notification. We encourage you to periodically review this privacy statement to stay informed about how we are protecting the personal information we collect. Your continued use of the service constitutes your agreement to this privacy statement and any updates. 
 
-  
   
 
