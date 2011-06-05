@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vmn.net privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203063636id_/http%3A//www.vmn.net/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vmn.net privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605202831id_/http%3A//www.vmn.net/privacypolicy.html) for the most accurate reproduction.*
 
 # VMN.net
 
