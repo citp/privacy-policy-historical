@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the humana.com privacy policy that was archived on 2010-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100928051335id_/http%3A//www.humana.com/resources/about/legal/privacy/internet.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the humana.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605191250id_/http%3A//www.humana.com/resources/about/legal/internet.aspx) for the most accurate reproduction.*
 
 # Internet Privacy Statement - Humana
 
@@ -22,9 +22,9 @@ TRUSTe is an independent organization whose mission is to advance privacy and tr
 
 If you have questions or concerns about this Internet Privacy Statement, you should first contact:
 
-Humana Privacy Office   
-PO Box 1438   
-Louisville, KY 40202 
+Humana Privacy Office
+    PO Box 1438
+    Louisville, KY 40202
 
 If you do not receive acknowledgment of your inquiry, or your inquiry is not addressed satisfactorily, you should then [contact TRUSTe](http://watchdog.truste.com/pvr.php?page=complaint&url "contact TRUSTe"). TRUSTe will then serve as a liaison with this web site to resolve your concerns.
 
@@ -56,15 +56,13 @@ When you log in to the secured section of the web site, you have the option to c
 
 ### Technology Use on the Humana.com Web Site
 
-Humana collects information about you and your use of our web site through the use of session cookies. Session cookies are small text files that are stored within your computer's temporary memory. These temporary files are used to facilitate your navigation throughout the web site. Cookies grant you access to both secured and unsecured areas and are only used for session tracking. Cookies are required to gain access to the secured areas of our web site. Access to these secured areas will not be granted if the cookie is rejected. This web site's cookies are not tied to personally identifiable information. Information that is automatically logged for the purpose of producing reports containing hit volumes are: Query String, Status, Bytes Sent, User-Agent (Browser Type), and Cookie Referrer.
+Information about you and your use of this website is collected through the use of session cookies. Session cookies are small text files that are stored within your computer. These files are used to facilitate your navigation throughout this website.
 
-As is true of most web sites, Humana gathers certain information automatically and stores that information within our web site log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.
+Persistent cookies are small computer files that are transferred to your computer's hard drive. These stored files are used in the generation of data that is fed to a contracted third party for website usage analysis. Reports created using this information will provide Humana with a better understanding of the use of this website. You may choose one of three different levels of data collection associated with the use of the persistent cookie. [Transfer to Persistent Cookie Opt-out Options for more information](https://web.archive.org/resources/about/legal/opt-out.aspx "Transfer to Persistent Cookie Opt-out Options for more information"). Information stored within both session and persistent cookies are not tied to your Personally Identifiable Information.
 
-We use this information, which does not identify individual users, to analyze trends, to administer the web site, to track users’ movements around the site and to gather demographic information about our user base as a whole. We do not link this automatically-collected data to personally identifiable information.
+If you are concerned about the storage and use of cookies, you may be able to direct your Internet browser to notify you and seek approval whenever a cookie is being sent to your hard drive. You may also delete a cookie manually from your hard drive through your Internet browser or other programs. You can also set your browser to refuse all cookies. Please note, however, that some parts of this website may not function properly or be available to you if you refuse to accept a cookie or choose to disable the acceptance of cookies
 
-Humana may use a third-party tracking service that uses cookies, web beacons and log files to track non-personally identifiable information about visitors to our site in the aggregate.
-
-Personally identifiable information provided to Humana may be subject to disclosure to judicial or other government subpoenas, warrants, court order or any other legal process. Humana reserves the right to disclose the personally identifiable information that was provided by you, as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our web site.
+To gauge the effectiveness of this website, we may collect non-personal information about our website users. This information may include, among other things, your: IP address, browser type, internet service provider (ISP), domain names, referring/exit pages, operating system, date/time stamp, and clickstream data. We use this information, which does not identify individual users, to analyze trends, to administer the website, to track users’ movements around the site and to gather demographic information about our user base as a whole. We do not link this automatically collected data to personal information.
 
 ### Internal Security Procedures
 
@@ -84,7 +82,7 @@ This Internet Privacy Statement is effective as of July 2000 and was last update
 
 This web site is maintained by Humana Inc.
 
-Mailing Address   
-Humana Inc.   
-500 West Main Street   
-Louisville, KY 40202 
+Mailing Address
+    Humana Inc.
+    500 West Main Street
+    Louisville, KY 40202
