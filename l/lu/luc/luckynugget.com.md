@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the luckynugget.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225144703id_/http%3A//www.luckynugget.com/security-and-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luckynugget.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605042748id_/http%3A//www.luckynugget.com/security-and-privacy.aspx) for the most accurate reproduction.*
 
 # The Lucky Nugget Online Casino – Security & Privacy
 
-We have created this privacy policy (?Privacy Policy?) to outline our firm commitment to your privacy. Our policy is based on the Gibraltar Data Protection Act 2004 and the principles held within that Act. It will also inform you of type of Personal Data we process when you use our Site, why we process this Data and how we use this Data.
+We have created this privacy policy to outline our firm commitment to your privacy. Our policy is based on the Malta Data Protection Act 2001 and the principles held within that Act. It will also inform you of type of Personal Data we process when you use our Site, why we process this Data and how we use this Data.
 
 By using www.luckynugget.co.uk you acknowledge and accept both the terms and conditions of this privacy policy and the purposes and methods of processing for which your Personal Data is collected.
 
 ## How your Personal Data is stored and used
 
-During the registration process and when you subsequently use your lucky nugget account, specific Personal Data (?Personal Data?) is collected including, but not limited to, first and last name, date of birth, credit card Data, home or other physical address, email address, phone number or other contact Data.
+During the registration process and when you subsequently use your lucky nugget account, specific Personal Data is collected including, but not limited to, first and last name, date of birth, credit card Data, home or other physical address, email address, phone number or other contact Data.
 
-Your Personal Data is held by us on servers based in Gibraltar and Canada and elsewhere from time to time.
+Your Personal Data is held by us on servers based in Malta and Canada and elsewhere from time to time.
 
 All of your Data is collected and stored in a secure and protected environment and is correct as it is provided. You are entitled by law to have a copy of the Personal Data recorded and to have any Personal Data corrected. You may change your personal details at anytime by sending us an [email](https://web.archive.org/contact/call-us.aspx).
 
@@ -48,4 +48,4 @@ Where there is a link from this website to another relevant site, this privacy p
 
 ## Your consent
 
-By clicking "I agree" during the registration process or by your continued use of the Site following the posting of this Privacy Policy (as applicable), you agree to this Privacy Policy. This is our entire and exclusive Privacy Policy and it supersedes any earlier version. This Privacy Policy should be read in conjunction with our [Terms and Conditions](https://web.archive.org/web/20101225144703id_/http%3A//www.luckynugget.com/terms-and-conditions.aspx "Casino Rules") . We may periodically make changes to this Privacy Policy and will notify you of these changes by posting the modified terms on our online site.
+By clicking "I agree" during the registration process or by your continued use of the Site following the posting of this Privacy Policy (as applicable), you agree to this Privacy Policy. This is our entire and exclusive Privacy Policy and it supersedes any earlier version. This Privacy Policy should be read in conjunction with our [Terms and Conditions](https://web.archive.org/web/20110605042748id_/http%3A//www.luckynugget.com/terms-and-conditions.aspx "Casino Rules") . We may periodically make changes to this Privacy Policy and will notify you of these changes by posting the modified terms on our online site.
