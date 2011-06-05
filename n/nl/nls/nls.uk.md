@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the nls.uk privacy policy that was archived on 2010-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100924182634id_/http%3A//nls.uk/about/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nls.uk privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605055514id_/http%3A//www.nls.uk/about-us/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - National Library of Scotland
 
-For some aspects of our service we need to collect specific personal details from you. 
+For some aspects of our service we need to collect specific personal details from you.
 
-We collect and store personal information in line with the **Data Protection Act 1998**. This means: 
+We collect and store personal information in line with the **Data Protection Act 1998**. This means:
 
   * We will only use the information for the purposes we have stated.
   * We will only hold on to the information as long as is necessary for these purposes.
@@ -13,7 +13,7 @@ We collect and store personal information in line with the **Data Protection Act
 
 
 
-Occasionally we may send you relevant information about the National Library of Scotland – for example: 
+Occasionally we may send you relevant information about the National Library of Scotland - for example:
 
   * new NLS services that we think may interest you
   * disruptions that affect access to the collections, reading rooms or website.
@@ -22,7 +22,7 @@ Occasionally we may send you relevant information about the National Library of 
 
 #### Contact us
 
-If you have any concerns about the information we may hold about you, please contact us. 
+If you have any concerns about the information we may hold about you, please contact us.
 
   * E-mail the Corporate Information Officer: [g.hawley@nls.uk](mailto:g.hawley@nls.uk)
   * Tel: 0131 623 3700
@@ -38,13 +38,10 @@ EH1 1EW
 
 #### Freedom of Information
 
-You can also make a request under the Freedom of Information (Scotland) Act (FOISA). Use the above contact details or fill in our online [FOISA enquiry form](https://web.archive.org/web/20100924182634id_/http%3A//nls.uk/info/foi/request_form.html). 
+You can also make a request under the Freedom of Information (Scotland) Act (FOISA). Use the above contact details or fill in our online [FOISA enquiry form](https://web.archive.org/info/foi/request_form.cfm).
 
-  * [More about Freedom of Information](https://web.archive.org/web/20100924182634id_/http%3A//nls.uk/info/foi/index.html)
+  * [More about Freedom of Information](https://web.archive.org/about-us/freedom-of-information)
 
 
 
-[Home page](https://web.archive.org/web/20100924182634id_/http%3A//nls.uk/index.html)
-
-  
-
+[Home page](https://web.archive.org/)
