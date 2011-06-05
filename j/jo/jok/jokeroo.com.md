@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jokeroo.com privacy policy that was archived on 2010-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100706200032id_/http%3A//www.jokeroo.com/s/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jokeroo.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605220811id_/http%3A//www.jokeroo.com/s/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Jokeroo
 
@@ -45,3 +45,5 @@ If you feel that this site is not following its stated information policy, you m
  **Notification of Changes**
 
 If we change this privacy policy, we will post those changes on our home page so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.
+
+ 
