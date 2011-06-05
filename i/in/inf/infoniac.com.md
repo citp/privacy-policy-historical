@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the infoniac.com privacy policy that was archived on 2010-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100127104759id_/http%3A//www.infoniac.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infoniac.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605145656id_/http%3A//www.infoniac.com/privacy-policy.html) for the most accurate reproduction.*
 
-# InfoNIAC
+# InfoNIAC - Latest Inventions
 
-InfoNIAC is aware of the fact that you care about the use of your personal information and how this information is shared, and our team takes your privacy seriously. It is important that you read and understand our privacy policy. By visiting InfoNIAC you accepting the information stipulated in this Privacy Policy. 
+InfoNIAC is aware of the fact that you care about the use of your personal information and how this information is shared, and our team takes your privacy seriously. It is important that you read and understand our privacy policy. By visiting InfoNIAC you accept the information stipulated in this Privacy Policy. 
 
 This privacy policy cannot be applied to the third parties that InfoNIAC does not own or manage, or to individuals that do not work at InfoNIAC. 
 
