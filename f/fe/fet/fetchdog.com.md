@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the fetchdog.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204120310id_/http%3A//www.fetchdog.com/Shop%3Fdsp%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fetchdog.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605192723id_/http%3A//www.fetchdog.com/Shop%3Fdsp%3Dprivacypolicy) for the most accurate reproduction.*
 
 # Dog Supplies | Dog Beds, Dog Toys | Dog Products | FetchDog
 
-**Updated 5/27/08**
+**Updated 02/25/11**
 
 **WE ARE COMMITTED TO SAFEGUARDING YOUR PRIVACY ONLINE.   PLEASE READ THIS PRIVACY POLICY CAREFULLY BEFORE USING THIS SITE. **
 
@@ -22,7 +22,7 @@ If you do not agree with these terms, do not provide any personally identifiable
 
 **3.   Feedback**
 
-We welcome any and all questions and feedback. For privacy-related issues, please contact us at: Fetch Enterprises, Inc., 100 Fore Street, Portland, ME 04101; [legal@fetchdog.com](mailto:legal@fetchdog.com); or 207-791-7892
+We welcome any and all questions and feedback. For privacy-related issues, please contact us at: Fetch Enterprises, Inc., 100 Fore Street, Portland, ME 04101; [legal@fetchdog.com](mailto:legal@fetchdog.com); or 207-347-2200
 
 **4.   Data and Information We Collect**
 
