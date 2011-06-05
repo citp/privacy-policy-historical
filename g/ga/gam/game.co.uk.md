@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the game.co.uk privacy policy that was archived on 2010-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100801083233id_/http%3A//www.game.co.uk/Help/%7Eh3915/FirstTime) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the game.co.uk privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605062511id_/http%3A//www.game.co.uk/Help/%7Eh3915/FirstTime) for the most accurate reproduction.*
 
 # Help: Security - Privacy Policy - GAME.co.uk
 
@@ -30,6 +30,8 @@ The information we hold will be accurate and up to date. You can check the infor
 If you find any inaccuracies we will delete or correct them.
 
 The personal information which we hold will be held securely in accordance with our internal security policy and the law.
+
+To ensure that your credit, debit or charge card is not being used without your consent, we will validate name, address and other personal information supplied by you during the order process against appropriate third party databases. By accepting these terms and conditions you consent to such checks being made. In performing these checks personal information provided by you may be disclosed to a registered Identity Reference Agency which may keep a record of the information. You can rest assured that this is done only to confirm your identity and that there is active credit at the name and address supplied. Please note that although an actual credit check is not performed the search may be logged on your file but your credit rating will be unaffected. All information provided by you will be treated securely and strictly in accordance with the Data Protection Act 1998.
 
 We use CyberSource for processing of security information and this data is passed outside the EEA (European Economic Area) to the U.S.A. and then back to the UK. CyberSource has been certified by Visa, U.S.A. and Visa International as being compliant with the Cardholder Information Security Program and the Account Information Security program, respectively, which must be renewed annually after follow-up audits. To date, these are the most stringent security requirements in the industry having to do with how consumer data is secured, technologically as well as from a process standpoint.
 
