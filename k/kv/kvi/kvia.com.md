@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kvia.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204122230id_/http%3A//www.kvia.com/inside/22683433/detail.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kvia.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605030310id_/http%3A//www.kvia.com/inside/22683433/detail.html) for the most accurate reproduction.*
 
 # Privacy Policy - Inside KVIA News Story - KVIA El Paso
 
