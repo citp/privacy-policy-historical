@@ -1,17 +1,18 @@
-<!--The following is the downloaded HTML source of the linkme.com.au privacy policy that was archived on 2010-05-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100527023303id_/http%3A//www.linkme.com.au/PrivacyStatement.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the linkme.com.au privacy policy that was archived on 2011-06-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110605064234id_/http%3A//www.linkme.com.au/PrivacyStatement.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head><title>
 	Privacy Statement
 </title><meta content="linkme privacy, linkme privacy policy, linkme privacy statement" name="keywords">
 <meta content="Our privacy statement proves that linkme cares about your privacy." name="description">
-<link href="/ui/css/universal-layout.css" rel="stylesheet">
-<link href="/ui/css/header-and-nav.css" rel="stylesheet">
-<link href="/ui/css/text-links-headings.css" rel="stylesheet">
-<link href="/ui/css/widgets_and_lists.css" rel="stylesheet">
+<link href="/content/11.2.9.4/css/universal-layout.min.css" rel="stylesheet">
+<link href="/content/11.2.9.4/css/header-and-nav.min.css" rel="stylesheet">
+<link href="/content/11.2.9.4/css/fonts/fonts.min.css" rel="stylesheet">
+<link href="/content/11.2.9.4/css/text-links-headings.min.css" rel="stylesheet">
+<link href="/content/11.2.9.4/css/widgets-and-lists.min.css" rel="stylesheet">
 <link href="/ui/css/sidebar.css" rel="stylesheet">
-<link href="/ui/css/forms.css" rel="stylesheet">
-<link href="/ui/css/forms_v2.css" rel="stylesheet">
+<link href="/content/11.2.9.4/css/forms.min.css" rel="stylesheet">
+<link href="/content/11.2.9.4/css/forms2.min.css" rel="stylesheet">
 <link href="/ui/css/messaging.css" rel="stylesheet">
 <link href="/ui/css/controls/login.css" rel="stylesheet">
 <link href="/ui/styles/LeftNav.css" rel="stylesheet">
@@ -23,7 +24,8 @@
         
         <script type="text/javascript" language="javascript" src="/js/Javascript.aspx"></script>
         <script src="/js/Prototype.js" type="text/javascript"></script>
-<script src="/js/ClickTrackerJs.aspx" type="text/javascript"></script>
+<script src="/js/scriptaculous.js" type="text/javascript"></script>
+<script src="/js/LinkMeUI/behaviours/TooltipBehaviour.js" type="text/javascript"></script>
 
     
     
@@ -40,60 +42,62 @@
     <div id="container">
     
         <div id="header">
-               
-    
-<div id="header-container">
+            
 
-    <div id="header-links-container">
-        <div id="header-links">
-            <ul class="horizontal_action-list action-list">
+<div id="header-links-container">
+    <script type="text/javascript">
+        function loadPage(url) {
+            window.location = url;
+        }
+    </script>
+    <div id="header-links">
+        <div class="left-section">
 
-                
-		            <li><a href="/employers/employer.aspx" title="Employer Home">Employer site</a></li>
-                
-                    <li><a href="/AboutUs.aspx">About LinkMe</a></li>
-                
-                    <li><a href="/PrivacyStatement.aspx">Privacy</a></li>
-                    <li><a href="/ui/unregistered/common/ContactUsForm.aspx?returnUrl=%2fPrivacyStatement.aspx">Contact</a></li>
-                
-            
-            </ul>
-            
-            
-		    
-		        <ul class="horizontal_action-list action-list" id="logged-in">
-		            <li><a href="/LogIn.aspx">Log in</a></li>
-		            <li><a href="/Join.aspx">Join</a></li>
-		        </ul>
-		        
-            
+            <div id="logo" onclick="javascript:loadPage('/');"></div>
+
+            <div id="nav">
+	            <div class="nav-menu">	  
+
+                    <div class="header-link">
+                        <a href="/guests/Profile.aspx"><span class="menu-text">Profile</span></a>
+                    </div>
+
+		            <div class="has-submenu_nav-toplevel-item header-link">
+			            <a href="http://www.linkme.com.au/search/jobs"><span class="menu-text">Jobs</span></a>
+		            </div>
+
+		            <div class="header-link">
+			            <a href="/guests/Friends.aspx"><span class="menu-text">Friends</span></a>
+		            </div>
+
+	                <div class="has-submenu_nav-toplevel-item header-link">
+		                <a href="/groups/public"><span class="menu-text">Groups</span></a>
+	                </div>
+
+	                <div class="has-submenu_nav-toplevel-item header-link">
+		                <a href="/career/Index.aspx"><span class="menu-text">Resources</span></a>
+	                </div>
+
+		            <div class="header-link">
+			            <a href="/guests/Messages.aspx"><span class="menu-text">Messages</span></a>
+		            </div>
+
+	            </div>
+            </div>
         </div>
-    </div>    
-	<div id="logo">
-		<a href="/" title="Home"></a>
-	</div>
+        <div class="right-section">
+            <div id="action-links">
+                <div class="rhs-links">
 
-    
+                    <div class="employer switch-link" onclick="javascript:loadPage('/employers');"></div>
+                    <div class="login-join switch-link" onclick="javascript:loadPage('/login');"></div>
 
-<div id="nav">
-    <ul>
-        
-            <li><a href="/guests/Profile.aspx">Profile</a></li>
-        
-            <li><a href="http://www.linkme.com.au/search/jobs">Jobs</a></li>
-        
-            <li><a href="/guests/Friends.aspx">Friends</a></li>
-        
-            <li><a href="/groups/public">Groups</a></li>
-        
-            <li><a href="/career/index.aspx">Resources</a></li>
-        
-            <li><a href="/guests/Messages.aspx">Messages</a></li>
-        
-    </ul>
+                </div>
+            </div>
+        </div>       
+    </div>
 </div>
-
-</div>
+<div id="header-links-container-shadow"></div>
 
         </div>
 
@@ -120,9 +124,7 @@
 //]]>
 </script>
 
-<script src="/ScriptResource.axd?d=AX_e5iu1Q9MBiC_OkWb4MbJCTu-tmYoMWdrmBE6wt1KzXZU64A7gkbgy791U11dfD9-ZHzW66w3wN7J8Jv8RIxJ_TTwpGgxinGG0cV190wo1&amp;t=ffffffffe892f2e8" type="text/javascript"></script>
-                        
-
+<script src="/ScriptResource.axd?d=ZRdcp4Wxx_vJfKLO-hR4v_uKVTBuFBX900U0E2t3iGFSXlteUtbzLFZhK0pA8J6_X3nYfT9m_3SbtA9AiXmgbzbcnAT4DP-tAqmZroZ87GKTAaXmAROuGtb2MAnVvJCmVroI27PEG8dJ0mNoH2Gq5ef1rRI1&amp;t=1a87351f" type="text/javascript"></script>
                         
                         
                         <div id="form-container">
@@ -131,20 +133,16 @@
 
 	<div id="left-nav">
         
-            <p><a href="/AboutUs.aspx">About LinkMe</a></p>
-        
-            <p><a href="/Partners.aspx">Our partners</a></p>
-        
-            <p><a href="/TermsAndConditions.aspx">Terms and conditions</a></p>
-        
-            <p><a class="current-page" href="/PrivacyStatement.aspx">Privacy statement</a></p>
-        
-            <p><a href="/media/index.aspx">Media room</a></p>
-        
-            <p><a href="/Affiliates.aspx">Affiliates</a></p>
-        
-            <p><a href="/CareersAtLinkMe.aspx">Careers at LinkMe</a></p>
-        
+
+<p><a href="/AboutUs.aspx">About LinkMe</a></p>
+<p><a href="/Partners.aspx">Our partners</a></p>
+<p><a href="/TermsAndConditions.aspx">Terms and conditions</a></p>
+<p><a href="/PrivacyStatement.aspx" class="current-page">Privacy statement</a></p>
+<p><a href="/media/index.aspx">Media room</a></p>
+<p><a href="/Affiliates.aspx">Affiliates</a></p>
+<p><a href="/CareersAtLinkMe.aspx">Careers at LinkMe</a></p>
+
+
         
 	</div>
 
@@ -267,7 +265,7 @@ Sys.Application.initialize();
 			                    <span class="rememberme_checkbox checkbox"><input id="ctl00_ctl00_ctl00_Body_ucSidebarContainer_ctl01_ucLogin_chkLoginPersist" type="checkbox" name="ctl00$ctl00$ctl00$Body$ucSidebarContainer$ctl01$ucLogin$chkLoginPersist" tabindex="1013"><label for="ctl00_ctl00_ctl00_Body_ucSidebarContainer_ctl01_ucLogin_chkLoginPersist">Remember me</label></span>
 			                </div>
     			            <div class="forgotpassword_link_control link_control control">
-	    		                <a id="lnkForgotPassword" class="forgotpassword_link link" href="/ui/unregistered/common/RequestNewPassword.aspx">Forgot password?</a>
+	    		                <a id="lnkForgotPassword" class="forgotpassword_link link" href="/accounts/newpassword?userType=Member">Forgot password?</a>
 		    	            </div>
 		    	        </div>
 		                <div class="login_button_control button_control control">
@@ -280,13 +278,12 @@ Sys.Application.initialize();
     		
 		    
 		        <div class="login-join-links">
-		            Join as <a href="/Join.aspx" title="Member LinkMe" name="Login/MemberJoin">Member</a>
-		            or <a href="/employers/Join.aspx" title="Employer Join" name="Login/EmployerJoin">Employer</a>
+		            Join as <a href="/join" title="Member LinkMe" name="Login/MemberJoin">Member</a>
+		            or <a href="/employers/join" title="Employer Join" name="Login/EmployerJoin">Employer</a>
 		        </div>
 		    
 		</div>
 	</div>
-	<div class="login-box-bottom"> </div>
 </div>
 
 	
@@ -300,20 +297,57 @@ Sys.Application.initialize();
         
         <div id="footer">
             
-    <style>
-        .footer {}
-    </style>
-    <p>
-        <a class="footer" href="/AboutUs.aspx">About LinkMe</a>
-        <a class="footer" href="/TermsAndConditions.aspx">Terms of use</a>
-        <a class="footer" href="/Affiliates.aspx">Affiliates</a>
-        <a class="footer" href="/PrivacyStatement.aspx">Privacy</a>
-        <a class="footer" href="/ui/unregistered/common/ContactUsForm.aspx?returnUrl=%2fPrivacyStatement.aspx">Contact</a>
-	    © Copyright LinkMe Pty Ltd
-	    
-    </p>
-  
+    
+<div class="footer_ascx">
+    <div class="footer-holder">
+        <div class="footer-links-holder">
+            <div class="left-section">
 
+                <div class="logo" onclick="javascript:loadPage('/');"></div>
+                
+                <div class="copyright">© Copyright LinkMe Pty Ltd</div>
+            </div>
+            <div class="right-section">
+                <div class="main-links">
+                    <div class="bullet"></div>
+                    <div class="footer-link"><a href="/AboutUs.aspx">About</a></div>
+                    <div class="bullet"></div>
+                    <div class="footer-link"><a href="/ui/unregistered/common/ContactUsForm.aspx#faq">Help/FAQs</a></div>
+                    <div class="bullet"></div>
+                    <div class="footer-link"><a href="/ui/unregistered/common/ContactUsForm.aspx">Contact Us</a></div>
+                    
+                    <div class="separator"></div>
+                    <div class="bullet member-bullet"></div>
+                    <div class="footer-link member-link"><a href="/">Candidate Site</a></div>
+                    <div class="bullet employer-bullet"></div>
+                    <div class="footer-link employer-link"><a href="/employers">Employer Site</a></div>
+                    
+                </div>
+                <div class="sub-links">
+                    <div class="bullet"></div>
+                    <div class="footer-link"><a href="/TermsAndConditions.aspx">Terms of use</a></div>
+                    <div class="bullet"></div>
+                    <div class="footer-link"><a href="/Affiliates.aspx">Affiliates</a></div>
+                    <div class="bullet"></div>
+                    <div class="footer-link"><a href="/PrivacyStatement.aspx">Privacy</a></div>
+                </div>
+            </div>
+        </div>
+        <div class="divider"></div>
+        <div class="seo-links-holder">
+            <div class="seo-links">
+                <div class="footer-link"><a href="/jobs">Jobs</a></div>
+                <div class="footer-link"><a href="/jobs">Australian Jobs</a></div>
+                <div class="footer-link"><a href="/jobs/-/it-telecommunications-jobs">IT Jobs</a></div>
+                <div class="footer-link"><a href="/jobs/-/accounting-jobs">Accounting Jobs</a></div>
+                <div class="footer-link"><a href="/jobs/melbourne-jobs">Melbourne Jobs</a></div>
+                <div class="footer-link"><a href="/jobs/sydney-jobs">Sydney Jobs</a></div>
+                <div class="footer-link"><a href="/jobs/brisbane-jobs">Brisbane Jobs</a></div>
+            </div>
+        </div>
+    </div>
+</div>
+  
 
     <!-- Start Google Analytics Tracker (control) -->
     <script type="text/javascript">
@@ -321,13 +355,26 @@ Sys.Application.initialize();
         document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
     </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
     <script type="text/javascript">
+    
+        String.prototype.startsWith = function(prefix) {
+            return this.indexOf(prefix) === 0;
+        }
+
         if (typeof _gat != "undefined")
         {
             var pageTracker = _gat._getTracker("UA-286262-1");
             pageTracker._initData();
             pageTracker._setVar("Guest");
 
+            var url = window.location.href.replace(new RegExp('^https?://'), ''); // Strip protocol
+            var host = window.location.host;
             
+            if (url.startsWith(host))   //if (startsWith(url, host))
+            {
+                url = url.substr(host.length); // Strip hostname
+            }
+
+            pageTracker._trackPageview(url);
         }
     </script>
     <!-- End Google Analytics Tracker (control) -->
