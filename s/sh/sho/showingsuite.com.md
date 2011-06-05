@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the showingsuite.com privacy policy that was archived on 2010-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100416055044id_/http%3A//www.showingsuite.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the showingsuite.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605182745id_/http%3A//www.showingsuite.com/company/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - ShowingSuite.com
 
