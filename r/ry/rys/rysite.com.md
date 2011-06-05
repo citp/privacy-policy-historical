@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rysite.com privacy policy that was archived on 2010-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100728040212id_/http%3A//www.rysite.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rysite.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605161104id_/http%3A//www.rysite.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
