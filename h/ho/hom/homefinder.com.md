@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homefinder.com privacy policy that was archived on 2010-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100416122153id_/http%3A//www.homefinder.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homefinder.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605140311id_/http%3A//www.homefinder.com/company/privacy) for the most accurate reproduction.*
 
 # HomeFinder.com :: Company :: Privacy Policy
 
@@ -111,13 +111,12 @@ International users
 
 If you are an international user, by using the Site, you agree that HomeFinder.com may collect, use and transfer your personal information as described in this Policy, including transfers outside the country where you live. If you reside in a country in the European Union or other jurisdiction that provides access rights under law, you may access your personal information or have it corrected or updated by using the interface available at [http://www.HomeFinder.com/realestate/sell](http://www.homefinder.com/realestate/sell) (in the case of an SLP account) or by contacting us at the email address set forth below. In some jurisdictions, you may be charged a reasonable fee for access to information.
 
-If you have any questions about this Privacy Policy, please contact us via the Site's feedback form at   
-[http://www.HomeFinder.com/company/feedback](http://www.homefinder.com/company/feedback).
+If you have any questions about this Privacy Policy, please [contact us](http://www.homefinder.com/company/contact).
 
 © 2009 HomeFinder.com, 175 West Jackson, Chicago, IL 60604
 
 Last updated on November 9, 2009
 
-[^ Back to Top](http://www.homefinder.com/company/privacy#top)  
+[^ Back to Top](https://www.homefinder.com/company/privacy#top)  
   
 ---|---
