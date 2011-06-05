@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lightchan.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221025707id_/http%3A//www.lightchan.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lightchan.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605152640id_/http%3A//www.lightchan.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Light Chan
 
@@ -13,6 +13,11 @@ Like many other Web sites, www.lightchan.com makes use of log files. The informa
 
 Cookies and Web Beacons  
 www.lightchan.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
+
+DoubleClick DART Cookie  
+.:: Google, as a third party vendor, uses cookies to serve ads on www.lightchan.com  
+.:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to www.lightchan.com and other sites on the Internet.  
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include Google Adsense, Commission Junction, Widget Bucks, Adbrite, Clickbank, Azoogle, Chitika, Linkshare, Amazon, Kontera.
 
