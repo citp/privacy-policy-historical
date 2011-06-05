@@ -1,0 +1,432 @@
+<!--The following is the downloaded HTML source of the adfoc.us privacy policy that was archived on 2011-06-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110605211837id_/http%3A//adfoc.us/privacy.php) for the most accurate reproduction.-->
+
+<html><head>
+<title>AdFoc.us | Privacy Policy</title>
+<meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
+<meta name="keywords" content="adfocus, adfoc.us, short links, tinyurl, bitly, bit.ly, earn money, link advertising, tiny url, url shortener">
+<meta name="description" content="Earn money for visitors sent to your shortened URLs with AdFoc.us! Get paid for every advertisement viewed through your links.">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/js/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" src="/js/fancybox/jquery.mousewheel-3.0.2.pack.js"></script>
+<script type="text/javascript" src="/js/fancybox/jquery.fancybox-1.3.1.js"></script>
+<script type="text/javascript" src="/js/amcharts/amcharts.js"></script>
+<script type="text/javascript" src="/js/amcharts/raphael.js"></script>
+<script type="text/javascript" src="/js/datatables/datatables.js"></script>
+<link href="/js/datatables/page.css" rel="stylesheet" type="text/css">
+<link href="/js/datatables/table.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" type="text/css" href="/js/fancybox/jquery.fancybox-1.3.1.css" media="screen"> 
+
+<script type="text/javascript" charset"utf-8"="">
+	$(document).ready(function() {
+		$('#advertise-countryPayoutTable').dataTable( { 
+			"sPaginationType": "full_numbers", 
+			"sDom": '<"toolbar">frtip', 
+			"bFilter": false,"bInfo": false, 
+			"iDisplayLength": 20
+		} );
+	} );
+</script>
+
+<script type="text/javascript"> 
+	$(document).ready(function() {
+		$("#popupJoinNow").fancybox({
+			'showCloseButton'	: true,
+			'overlayColor'		: '#ffefdb',
+			'width'				: '60%',
+			'height'			: '80%',
+			'autoScale'			: true,
+			'transitionIn'		: 'none',
+			'transitionOut'		: 'none',
+			'type'				: 'iframe'
+		});
+		$("#popupForgotPassword").fancybox({
+			'showCloseButton'	: true,
+			'overlayColor'		: '#ffefdb',
+			'width'				: '60%',
+			'height'			: '80%',
+			'autoScale'			: true,
+			'transitionIn'		: 'none',
+			'transitionOut'		: 'none',
+			'type'				: 'iframe'
+		});
+		$("#popupAdvertiseMoreInfoReferrer").fancybox({
+			'showCloseButton'	: true,
+			'overlayColor'		: '#ffefdb',
+			'width'				: '60%',
+			'height'			: '80%',
+			'autoScale'			: true,
+			'transitionIn'		: 'none',
+			'transitionOut'		: 'none',
+			'type'				: 'iframe'
+		});
+		$("#popupAdvertiseMoreInfoFrequencyCap").fancybox({
+			'showCloseButton'	: true,
+			'overlayColor'		: '#ffefdb',
+			'width'				: '60%',
+			'height'			: '80%',
+			'autoScale'			: true,
+			'transitionIn'		: 'none',
+			'transitionOut'		: 'none',
+			'type'				: 'iframe'
+		});
+		$("#popupAdvertiseMoreInfoBidding").fancybox({
+			'showCloseButton'	: true,
+			'overlayColor'		: '#ffefdb',
+			'width'				: '60%',
+			'height'			: '80%',
+			'autoScale'			: true,
+			'transitionIn'		: 'none',
+			'transitionOut'		: 'none',
+			'type'				: 'iframe'
+		});
+		$("#popupAdvertiseMoreInfoEditCampaign").fancybox({
+			'showCloseButton'	: true,
+			'overlayColor'		: '#ffefdb',
+			'width'				: '60%',
+			'height'			: '80%',
+			'autoScale'			: true,
+			'transitionIn'		: 'none',
+			'transitionOut'		: 'none',
+			'type'				: 'iframe'
+		});
+		$(".popupLinkEdit").fancybox({
+			'showCloseButton'	: true,
+			'overlayColor'		: '#ffefdb',
+			'width'				: '60%',
+			'height'			: '80%',
+			'autoScale'			: true,
+			'transitionIn'		: 'none',
+			'transitionOut'		: 'none',
+			'type'				: 'iframe'
+		});
+		$(".popupLinkDelete").fancybox({
+			'showCloseButton'	: true,
+			'overlayColor'		: '#ffefdb',
+			'width'				: '60%',
+			'height'			: '80%',
+			'autoScale'			: true,
+			'transitionIn'		: 'none',
+			'transitionOut'		: 'none',
+			'type'				: 'iframe'
+		});
+	});
+</script>
+
+<script type="text/javascript"> 
+	function showSingleLinkBox() {
+		document.getElementById("singleShrinkBox").style.display="";
+		document.getElementById("multipleShrinkBox").style.display="none";
+	}
+
+	function showMultipleLinkBox() {
+		document.getElementById("singleShrinkBox").style.display="none";
+		document.getElementById("multipleShrinkBox").style.display="";
+	}
+
+	function linkDeleteConfirmation(id) {
+		var where_to= confirm("Are you sure you want to delete this link?");
+		if (where_to== true) {
+			window.location="./?deleteLinkId="+id;
+		}
+	}
+
+	function campaignDeleteConfirmation(id) {
+		var where_to= confirm("Are you sure you want to delete this campaign?");
+		if (where_to== true) {
+			window.location="?deleteCampaignId="+id;
+		}
+	}
+
+	function linkDeleteCheckAll(chk) {
+		chk = document.getElementsByName(chk);
+		for (i = 0; i < chk.length; i++)
+			chk[i].checked = true ;
+	}
+
+	function linkDeleteUnCheckAll(chk) {
+		chk = document.getElementsByName(chk);
+		for (i = 0; i < chk.length; i++)
+			chk[i].checked = false ;
+	}
+
+	function campaignDeleteCheckAll(chk) {
+		chk = document.getElementsByName(chk);
+		for (i = 0; i < chk.length; i++)
+			chk[i].checked = true ;
+	}
+
+	function campaignDeleteUnCheckAll(chk) {
+		chk = document.getElementsByName(chk);
+		for (i = 0; i < chk.length; i++)
+			chk[i].checked = false ;
+	}
+
+	function ajaxRequest(){
+		var activexmodes=["Msxml2.XMLHTTP", "Microsoft.XMLHTTP"] // activeX versions in IE
+		if (window.ActiveXObject){ // test support for ActiveXObject in IE
+			for (var i=0; i<activexmodes.length; i++){
+				try{
+					return new ActiveXObject(activexmodes[i])
+				}
+				catch(e){
+					// suppress
+				}
+			}
+		}
+		else if (window.XMLHttpRequest) // mozilla,safari,chrome,opera
+			return new XMLHttpRequest()
+		else
+			return false
+	}
+	
+	function shrinkSingle() {
+		var mygetrequest=new ajaxRequest()
+		mygetrequest.onreadystatechange=function() {
+			if (mygetrequest.readyState==4) {
+				if (mygetrequest.status==200 || window.location.href.indexOf("http")==-1) {
+					document.getElementById("shrinkResult").innerHTML=mygetrequest.responseText
+				}
+			}
+		}
+		var urlvalue=encodeURIComponent(document.getElementById("singleUrl").value)
+		mygetrequest.open("POST", "/js/api/jquery.shrink_single.php?url="+urlvalue, true)
+		mygetrequest.send(null)
+	}
+
+	function shrinkSingleNoUser() {
+		var mygetrequest=new ajaxRequest()
+		mygetrequest.onreadystatechange=function() {
+			if (mygetrequest.readyState==4) {
+				if (mygetrequest.status==200 || window.location.href.indexOf("http")==-1) {
+					document.getElementById("shrinkResult").innerHTML=mygetrequest.responseText
+				}
+			}
+		}
+		var urlvalue=encodeURIComponent(document.getElementById("singleUrlNoUser").value)
+		mygetrequest.open("POST", "/js/api/jquery.shrink_singleNoUser.php?url="+urlvalue, true)
+		mygetrequest.send(null)
+	}
+
+	function shrinkMultiple() {
+		var mygetrequest=new ajaxRequest()
+		mygetrequest.onreadystatechange=function() {
+			if (mygetrequest.readyState==4) {
+				if (mygetrequest.status==200 || window.location.href.indexOf("http")==-1) {
+					document.getElementById("shrinkResult").innerHTML=mygetrequest.responseText
+				}
+			}
+		}
+		var urlvalue=encodeURIComponent(document.getElementById("multipleUrl").value)
+		var parameters="url="+urlvalue
+		mygetrequest.open("POST", "/js/api/jquery.shrink_multiple.php", true)
+		mygetrequest.setRequestHeader("Content-type", "application/x-www-form-urlencoded")
+		mygetrequest.send(parameters)
+	}
+
+	function linkEdit(id) {
+		var mygetrequest=new ajaxRequest()
+		mygetrequest.onreadystatechange=function() {
+			if (mygetrequest.readyState==4) {
+				if (mygetrequest.status==200 || window.location.href.indexOf("http")==-1) {
+					document.getElementById("linkEditOriginal_"+id).style.display="none";
+					document.getElementById("linkEditResult_"+id).style.display="";
+					document.getElementById("linkEditResult_"+id).innerHTML=mygetrequest.responseText
+				}
+			}
+		}
+		mygetrequest.open("POST", "/js/api/jquery.linkEdit.php?id="+id, true)
+		mygetrequest.send(null)
+	}
+
+	function linkEditCancel(id) {
+		document.getElementById("linkEditResult_"+id).style.display="none";
+		document.getElementById("linkEditOriginal_"+id).style.display="";
+	}
+
+	function campaignEdit(id) {
+		var mygetrequest=new ajaxRequest()
+		mygetrequest.onreadystatechange=function() {
+			if (mygetrequest.readyState==4) {
+				if (mygetrequest.status==200 || window.location.href.indexOf("http")==-1) {
+					document.getElementById("campaignEditOriginal_"+id).style.display="none";
+					document.getElementById("campaignEditResult_"+id).style.display="";
+					document.getElementById("campaignEditResult_"+id).innerHTML=mygetrequest.responseText
+				}
+			}
+		}
+		mygetrequest.open("POST", "/js/api/jquery.campaignEdit.php?id="+id, true)
+		mygetrequest.send(null)
+	}
+
+	function campaignEditCancel(id) {
+		document.getElementById("campaignEditResult_"+id).style.display="none";
+		document.getElementById("campaignEditOriginal_"+id).style.display="";
+	}
+</script>
+
+
+<style type="text/css">
+	A:link {text-decoration: none; color: #8e8e8e;}
+	A:visited {text-decoration: none; color: #8e8e8e;}
+	A:active {text-decoration: none; color: #8e8e8e;}
+	A:hover {text-decoration: underline; color: #8e8e8e;}
+
+	A.userTitleLink:link {text-decoration: none; color: #464646; font-weight: bold;}
+	A.userTitleLink:visited {text-decoration: none; color: #464646; font-weight: bold;}
+	A.userTitleLink:active {text-decoration: none; color: #464646; font-weight: bold;}
+	A.userTitleLink:hover {text-decoration: underline; color: #464646; font-weight: bold;}
+</style>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-22601934-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+    
+  /* break us out of any containing iframes */
+  if (top != self) { top.location.replace(self.location.href); }
+
+  
+</script>
+</head>
+<body bgcolor="#ffefdb" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<center>
+<table id="Table_01" width="800" border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+		<td>
+			<img src="/images/index_01.png" width="251" height="84" alt=""></td>
+		<td colspan="3">
+						<a href="/" alt="AdFoc.us"><img src="/images/index_02.png" width="302" height="84" border="0" alt="AdFoc.us"></a>
+						</td>
+		<td colspan="2">
+			<img src="/images/index_03.png" width="247" height="84" alt=""></td>
+	</tr>	<tr>
+		<td colspan="6">
+			<div style="-moz-border-radius: 15px; border-radius: 15px; background-color: #ffd55a; padding: 30px; font-family: Arial; font-size: 14px;">
+			<h1>Privacy Policy</h1>
+
+			This statement was last updated March 22, 2011.<br><br>
+
+			The term 'AdFoc.us' or 'us' or 'we' refers to the owner of the website 'AdFoc.us'. The term 'you' refers to the user or viewer of our website. The term 'Content' refers to the website you are using in conjunction with the Service.<br><br>
+
+
+			We at AdFoc.us respect the privacy of our visitors and are committed to preserving your online safety by preserving your privacy at anytime you visit or communicate with our site. Our privacy policy has been provided and reviewed by the solicitors at Legal Centre who specialise in online internet contracts.<br><br>
+
+			Our Terms of Use and Privacy Policy offers you a thorough explanation regarding your personal data provided to us or any data we may collect from you.<br><br>
+
+			This Privacy Policy is updated from time to time; therefore, it should be reviewed occasionally.<br><br>
+
+			[For the purpose of the Data Protection Act 1998, AdFoc.us is our data controller.]<br><br>
+
+			1. Collected Information<br><br>
+
+			Data can be collected and processed during the operations of our website. The following are ways we may perform these actions:<br><br>
+
+			1.1 Data regarding your visit(s) to our website and any resources used are collected. The following is included and not limited to: location data, weblogs, traffic data, and any other communication information.<br><br>
+
+			1.2 Any forms you filled out on our site allows us to collect data such as registering for information or when you complete a purchase.<br><br>
+
+			1.3 If for any reason you communicate with our personnel or site we may collect information.<br><br>
+
+			2. Cookie Usage<br><br>
+
+			There are instances where we may use cookies to gather information regarding our services in a mathematical collection for our website and our advertisers.<br><br>
+
+			Any information collected will not have any identifying data. It is statistical data about our visitors and how they have used our site. No personal details will be shared that could identify you.<br><br>
+
+			We may assemble information about your common internet use with a cookie file. When used, the cookies are downloaded to your computer automatically. The cookie is stored on the hard drive, with transferred information. The data sought by the cookie helps us improve our website and any service offered to you.<br><br>
+
+			Your browser has the ability to decline cookies. This is done by setting your browser options to decline all cookies. Note: if you do decline the download of cookies, some aspects of our site may not work or allow you access.<br><br>
+
+			Our advertisers may download cookies to which we have no control. If used, these cookies are downloaded by clicking on an advertisement found on our website.<br><br>
+
+			3. Our Use of Your Information<br><br>
+
+			Information stored or collected regarding you helps us improve and offer services you need. The following list contains how we might use your data:<br><br>
+
+			3.1 Any request you make of our site or personnel allows us to use information you provided us with, relating to the products or services we have. We may also send information on products or services you may be interested in, as long as consent has been received.<br><br>
+
+			3.2 Contract Commitments: To meet any Commitment we make to you.<br><br>
+
+			3.3 Changes or Improvements made to the site can warrant use of your information, with regard to notification of such changes.<br><br>
+
+			3.4 An existing customer may be contacted regarding products and services related to any item of previous sale you made on our site.<br><br>
+
+			3.5 We may use data or allow third parties to use information that is not related to goods or services you may be interested in. We or third parties contact you only if consent has been provided by you at anytime, based on information we collected.<br><br>
+
+			3.6 Any new customer can only be contacted by us or third parties if consent has been offered via our site. We only send communications you have consented to.<br><br>
+
+			3.7 Anyone who does not wish to give consent for our site or third party use has the opportunity to decline. Once we receive your withhold for consent we will remove your details from any mailings or third party communications.<br><br>
+
+			3.8 None of the information collected about you will offer identifiable characteristics. Information shared to a third party is statistical only. We will not reveal who you are, only mathematical information about our visitors.<br><br>
+
+			4. Personal Data Storage<br><br>
+
+			4.1 Locations outside the European Economic Area may be used for transferring data we collect about you. These data sites are for storing or processing of your information. The information we share outside the European Economic Area may be shared with staff based on the process and storage of said data. It may include such processes as processing a payment or offering support for your service or product needs. The staff processing or storing information may work for our suppliers outside the European Economic Area. By submitting your data to use you have agreed to this transfer and storage of data. We take all reasonable action to ensure the safety of your personal data in agreement with this Privacy Policy.<br><br>
+
+			4.2 Information we are provided will be stored on secure servers. Transaction data is encrypted for your safety.<br><br>
+
+			4.3 You should understand data via online transmission is not completely secure. We cannot guarantee full protection and security data, only that we take all reasonable action to protect information sent to us electronically. Transmission of any data by you is at your own risk. Where applicable you may be given access to sections of our site that require a password. You are responsible for the passwords safety and confidentiality.<br><br>
+
+			5. Information Disclosure<br><br>
+
+			5.1 At times we may disclose personal information to persons in our group. This can include subsidiaries, holding companies, or any other subsidiaries involved in our business, if applicable.<br><br>
+
+			5.2 Third Party disclosure may occur for the following reasons:<br><br>
+
+			5.2.1 Selling any or all of our business to a third party may result in sharing your information.<br><br>
+
+			5.2.2 At any time when we are legally required to we may disclose information about you and your visits to our sites.<br><br>
+
+			5.2.3 To prevent fraud and help in fraud protection in order to reduce credit risk, we may disclose information.<br><br>
+
+			6. Third Party Links<br><br>
+
+			Third party links may be discovered on our site. These third party links have their own privacy policy, which you agree to when you click on the link. We are not responsible nor do we accept responsibility for third party links. Our liability covers us only on our site, and thus we do not accept liability for third party links as we have no control over them.<br><br>
+
+			7. Information Accessibility<br><br>
+
+			We cannot withhold data we collect about you, as per The Data Protection Act 1998. This act provides you with access to any information we may hold on you. If you wish to have access about our data collection on you please pay our fee of ?10. The fee covers our costs for processing your request and getting the data to you. Please use the contact details below to formulate your data access request.<br><br>
+
+			8. Contacting Us<br><br>
+
+			Please feel free to contact us with queries, requests, or comments you may have about our Privacy Policy. We welcome any communication via our <a href="contact.php" alt="Contact Us">contact form</a>.
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="6">
+			&nbsp;
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<img src="/images/spacer.gif" width="251" height="1" alt=""></td>
+		<td>
+			<img src="/images/spacer.gif" width="149" height="1" alt=""></td>
+		<td>
+			<img src="/images/spacer.gif" width="61" height="1" alt=""></td>
+		<td>
+			<img src="/images/spacer.gif" width="92" height="1" alt=""></td>
+		<td>
+			<img src="/images/spacer.gif" width="74" height="1" alt=""></td>
+		<td>
+			<img src="/images/spacer.gif" width="173" height="1" alt=""></td>
+	</tr>
+</tbody></table>
+</center>
+<div style="width: 100%; text-align: center;">
+	<div style="font-family: Arial; font-size: 15px; color: #8e8e8e; width: 800px; margin-left: auto; margin-right: auto; display: inline-block;"> 
+		<span style="float: left;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://paypal.com" target="_blank"><img src="/images/paypal_payments.gif" border="0"></a><a href="http://alertpay.com" target="_blank"><img src="/images/alertpay_payments.gif" border="0"></a><a href="http://twitter.com/adfocushelp" target="_blank"><img src="/images/twitter_icon.png" border="0"></a></span>
+		<span style="float: right;"><a href="/payout_rates.php" alt="Payout Rates">Payout Rates</a> | <a href="/faq.php" alt="Frequently Asked Questions">FAQ</a> | <a href="http://adfocus.proboards.com/" alt="AdFoc.us Forum" target="_blank">Forum</a> | <a href="/privacy.php" alt="Privacy Policy">Privacy</a> | <a href="/terms.php" alt="Terms and Conditions">Terms</a> | <a href="http://adfocus.proboards.com/index.cgi?board=support" alt="Contact">Contact Us</a></span><br><span style="float: right; font-size: 11px;">Copyright © 2011 AdFoc.us Limited. All Rights reserved.</span>
+	</div>
+</div>
+<br>
+
+<div id="fancybox-tmp"></div><div id="fancybox-loading"><div></div></div><div id="fancybox-overlay"></div><div id="fancybox-wrap"><div id="fancybox-outer"><div class="fancy-bg" id="fancy-bg-n"></div><div class="fancy-bg" id="fancy-bg-ne"></div><div class="fancy-bg" id="fancy-bg-e"></div><div class="fancy-bg" id="fancy-bg-se"></div><div class="fancy-bg" id="fancy-bg-s"></div><div class="fancy-bg" id="fancy-bg-sw"></div><div class="fancy-bg" id="fancy-bg-w"></div><div class="fancy-bg" id="fancy-bg-nw"></div><div id="fancybox-inner"></div><a id="fancybox-close"></a><a href="javascript:;" id="fancybox-left"><span class="fancy-ico" id="fancybox-left-ico"></span></a><a href="javascript:;" id="fancybox-right"><span class="fancy-ico" id="fancybox-right-ico"></span></a></div></div></body></html>
