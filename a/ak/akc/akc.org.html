@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the akc.org privacy policy that was archived on 2010-12-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101212094426id_/http%3A//www.akc.org/about/site/privacystatement.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the akc.org privacy policy that was archived on 2011-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110606002334id_/http%3A//www.akc.org/about/site/privacystatement.cfm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 
@@ -112,6 +112,11 @@
         sendOAS( slotId, px, vProto, vServ, randId, vPrvSlotIds['REALMEDIA247']  );
 
       }else if( "Position2" == slotId ){ 
+        var px     = getPx( '' );
+        var vProto = getProto();
+        var vServ  = getOasServer( vProto );
+        sendOAS( slotId, px, vProto, vServ, randId, vPrvSlotIds['REALMEDIA247']  );
+
       }else if( "Position3" == slotId ){ 
       }
     }
@@ -121,8 +126,8 @@
     vSlotIds[3]="Position1";
     vSlotIds[4]="Frame2";
     vSlotIds[5]="Frame1";
-    vPrvSlotIds['REALMEDIA247']=new Array("BottomRight", "Position1", "Frame2", "Frame1");
-    vPrvSlotIds['EMPTY']=new Array("Position3", "Position2");
+    vPrvSlotIds['REALMEDIA247']=new Array("BottomRight", "Position2", "Position1", "Frame2", "Frame1");
+    vPrvSlotIds['EMPTY']=new Array("Position3");
   //-->
 </script>
 <!-- post jsAd html -->
@@ -384,26 +389,30 @@ function Go(){return}
     <ul>
       <li><a class="flyout" href="javascript: void(0)" title="Contact AKC">Contact AKC</a>
        <ul>
-        <li><a href="/contact/contact_akc.cfm" title="General Inquiries">General Inquiries</a></li>
-        <li><a href="/contact/online_accounts_form.cfm" title="My AKC Online Account Help">My AKC Online Account Help</a></li>
-		<li><a href="/contact/tech_support_contact_form.cfm?form_type=old" title="Online Dog Registration Help">Online Dog Registration Help</a></li>
-		<li><a href="/contact/tech_support_contact_form.cfm?form_type=oll" title="Online Litter Registration Help">Online Litter Registration Help</a></li>
-		<li><a href="/contact/order_inquiries.cfm" title="Order Inquiries">Order Inquiries</a></li>
-		<li><a href="/contact/para_asistencia_en_espanol.cfm" title="Para Asistencia En Espanol">Para Asistencia En Espanol</a></li>
-		<li><a href="/contact/contact_registration.cfm" title="Registration Questions">Registration Questions</a></li>
+        <li><a href="/contact/index.cfm?action=contact_akc" title="General Inquiries">General Inquiries</a></li>
+        <li><a href="/contact/index.cfm?action=contact_tech_support&amp;form_type=ola" title="My AKC Online Account Help">My AKC Online Account Help</a></li>
+		<li><a href="/contact/index.cfm?action=contact_tech_support&amp;form_type=old" title="Online Dog Registration Help">Online Dog Registration Help</a></li>
+		<li><a href="/contact/index.cfm?action=contact_tech_support&amp;form_type=oll" title="Online Litter Registration Help">Online Litter Registration Help</a></li>
+        <li><a href="/contact/index.cfm?action=contact_tech_support&amp;form_type=obc" title="Online Breeder's Classifieds Help">Online Breeder's Classifieds Help</a></li>
+        <li><a href="/contact/index.cfm?action=contact_tech_support&amp;form_type=olp" title="Online Event Management Help">Online Event Management Help</a></li>
+		<li><a href="/contact/index.cfm?action=contact_registration" title="Registration Questions">Registration Questions</a></li>
+		<li><a href="/contact/blocks/order_inquiries.cfm" title="Order Inquiries">Order Inquiries</a></li>
+		<li><a href="/contact/blocks/para_asistencia_en_espanol.cfm" title="Para Asistencia En Espanol">Para Asistencia En Espanol</a></li>
 		<li><a href="/about/depts/specialservices.cfm" title="AKC Special Services Department">Special Services Department</a></li>
 		<li><a href="/about/telephone_directory.cfm" title="AKC Telephone Directory">Telephone Directory</a></li>
         <li><a href="/about/po_box_conversion_table.cfm" title="Updated AKC Addresses">Updated AKC Addresses</a></li>
-		<li><a href="/contact/webemailform.cfm" title="Website/Online Store Inquiries">Website/Online Store Inquiries</a></li>
+		<li><a href="/contact/index.cfm?action=contact_tech_support&amp;form_type=webemailform" title="Website/Online Store Inquiries">Website/Online Store Inquiries</a></li>
        </ul>
 	   </li>
-      <li class="last"><a class="flyout" href="javascript: void(0)" title="Useful Information">Useful Information</a>
+	   
+       <li class="last"><a class="flyout" href="javascript: void(0)" title="Useful Information">Useful Information</a>
        <ul>
-        <li><a href="/contact/customer_commitment.cfm" title="AKC Customer Commitment Statement">Customer Commitment Statement</a></li>
-        <li><a href="/contact/holidays.cfm" title="AKC Holiday Schedule">Holiday Schedule</a></li>
+        <li><a href="/contact/blocks/customer_commitment.cfm" title="AKC Customer Commitment Statement">Customer Commitment Statement</a></li>
+        <li><a href="/contact/blocks/holidays.cfm" title="AKC Holiday Schedule">Holiday Schedule</a></li>
 		<li><a href="/about/hours.cfm" title="AKC Hours of Operation and Addresses">Hours of Operation and Addresses</a></li>
        </ul>
 	   </li>
+	   
 	 </ul>
   </li>
 </ul>
@@ -412,7 +421,7 @@ function Go(){return}
 <ul>
   <li><h2>Technical Support</h2>
     <ul>
-      <li><a class="flyout" href="javascript: void(0)" title="Online Support Pages">Online Support Pages</a>
+      <li class="last"><a class="flyout" href="javascript: void(0)" title="Online Support Pages">Online Support Pages</a>
        <ul>
         <li><a href="/support/" title="Online Support Home">Online Support Home</a></li>
         <li><a href="/support/cookie_test.cfm" title="Cookie Test">Cookie Test</a></li>
@@ -423,18 +432,7 @@ function Go(){return}
 		<li><a href="/support/system_check.cfm" title="System Compatibility Test">System Compatibility Test</a></li>
 		<li><a href="/about/site/about.cfm" title="AKC Website Info and FAQs">Website Info and FAQs</a></li>
        </ul>
-	   </li>
-      <li class="last"><a class="flyout" href="javascript: void(0)" title="Online Contact Forms">Online Contact Forms</a>
-       <ul>
-	   <li><a href="/contact/tech_support_contact_form.cfm?form_type=old" title="Online Dog Registration Help">Online Dog Registration Help</a></li>
-		<li><a href="/contact/tech_support_contact_form.cfm?form_type=oll" title="Online Litter Registration Help">Online Litter Registration Help</a></li>
-        <li><a href="/contact/tech_support_contact_form.cfm?form_type=obc" title="Online Breeder's Classifieds Help">Online Breeder's Classifieds Help</a></li>
-        <li><a href="/contact/tech_support_contact_form.cfm?form_type=olp" title="Online Event Management Help">Online Event Management Help</a></li>
-		<li><a href="/contact/webemailform.cfm" title="Online Store Help">Online Store Help</a></li>
-		<li><a href="/contact/webemailform.cfm" title="Other Website Help">Other Website Help</a></li>
-       </ul>
-	   </li>
-	   
+	  </li>
 	 </ul>
   </li>
 </ul>
@@ -483,6 +481,9 @@ function Go(){return}
 
  
 </div>
+
+
+
 	
 	
 
@@ -692,14 +693,14 @@ jsAd( "Bottom")
 			<li><a href="/about/california_privacy.cfm" title="Your CA Privacy Rights">Your CA Privacy Rights</a></li>
 		</ul>
 		
-		<span><a href="/about/site/copy.cfm" title="AKC Copyright and Trademark Statement">© 2010 American Kennel Club® (AKC Copyright and Trademark Statement)</a></span>
+		<span><a href="/about/site/copy.cfm" title="AKC Copyright and Trademark Statement">© 2011 American Kennel Club® (AKC Copyright and Trademark Statement)</a></span>
 	</div>
 <!--googleon: index-->
 
 
 
 
-<div id="breed_images_box"> <div id="breedheaderimage"> <a href="/breeds/norwegian_lundehund/index.cfm"><img src="//images.akc.org/template/header/breeds/norwegian_lundehund.png" width="227" height="90" border="0"></a> 
+<div id="breed_images_box"> <div id="breedheaderimage"> <a href="/breeds/english_springer_spaniel/index.cfm"><img src="//images.akc.org/template/header/breeds/english_springer_spaniel.png" width="227" height="90" border="0"></a> 
 </div>
 
 
@@ -933,7 +934,7 @@ color: #9dc5fb;
 <!--
 jsAd( "Position1")
 //-->
-</script><script language="JavaScript1.1" src="https://oasc11.247realmedia.com/RealMedia/ads/adstream_jx.ads/www.akc.org/web/20101212094426id_/http%3A//www.akc.org/about/site/privacystatement.cfm/288924034@BottomRight,Position1,Frame2,Frame1!Position1"></script>
+</script><script language="JavaScript1.1" src="https://oasc11.247realmedia.com/RealMedia/ads/adstream_jx.ads/www.akc.org/web/20110606002334id_/http%3A//www.akc.org/about/site/privacystatement.cfm/2092435600@BottomRight,Position2,Position1,Frame2,Frame1!Position1"></script>
 </div>
 
 <div id="Position2_ad" class="hide_all" style="margin-bottom:10px;margin-left: 0px;margin-right: 0px;">
@@ -941,7 +942,7 @@ jsAd( "Position1")
 <!--
 jsAd( "Position2")
 //-->
-</script>
+</script><script language="JavaScript1.1" src="https://oasc11.247realmedia.com/RealMedia/ads/adstream_jx.ads/www.akc.org/web/20110606002334id_/http%3A//www.akc.org/about/site/privacystatement.cfm/2092435600@BottomRight,Position2,Position1,Frame2,Frame1!Position2"></script>
 </div>
 
 <div id="Position3_ad" class="hide_all" style="margin-bottom:10px;margin-left: 0px;margin-right: 0px;">
@@ -957,7 +958,7 @@ jsAd( "Position3")
 <!--
 jsAd( "Frame1")
 //-->
-</script><script language="JavaScript1.1" src="https://oasc11.247realmedia.com/RealMedia/ads/adstream_jx.ads/www.akc.org/web/20101212094426id_/http%3A//www.akc.org/about/site/privacystatement.cfm/288924034@BottomRight,Position1,Frame2,Frame1!Frame1"></script>
+</script><script language="JavaScript1.1" src="https://oasc11.247realmedia.com/RealMedia/ads/adstream_jx.ads/www.akc.org/web/20110606002334id_/http%3A//www.akc.org/about/site/privacystatement.cfm/2092435600@BottomRight,Position2,Position1,Frame2,Frame1!Frame1"></script>
 </div>
 
 <div id="Frame2_ad" class="hide_all" style="margin-left: 0px;margin-right: 0px;">
@@ -965,7 +966,7 @@ jsAd( "Frame1")
 <!--
 jsAd( "Frame2")
 //-->
-</script><script language="JavaScript1.1" src="https://oasc11.247realmedia.com/RealMedia/ads/adstream_jx.ads/www.akc.org/web/20101212094426id_/http%3A//www.akc.org/about/site/privacystatement.cfm/288924034@BottomRight,Position1,Frame2,Frame1!Frame2"></script>
+</script><script language="JavaScript1.1" src="https://oasc11.247realmedia.com/RealMedia/ads/adstream_jx.ads/www.akc.org/web/20110606002334id_/http%3A//www.akc.org/about/site/privacystatement.cfm/2092435600@BottomRight,Position2,Position1,Frame2,Frame1!Frame2"></script>
 </div>
 
 <div id="BottomRight_ad" class="hide_all" style="margin-left: 0px;margin-right: 0px;">
@@ -973,7 +974,7 @@ jsAd( "Frame2")
 <!--
 jsAd( "BottomRight")
 //-->
-</script><script language="JavaScript1.1" src="https://oasc11.247realmedia.com/RealMedia/ads/adstream_jx.ads/www.akc.org/web/20101212094426id_/http%3A//www.akc.org/about/site/privacystatement.cfm/288924034@BottomRight,Position1,Frame2,Frame1!BottomRight"></script>
+</script><script language="JavaScript1.1" src="https://oasc11.247realmedia.com/RealMedia/ads/adstream_jx.ads/www.akc.org/web/20110606002334id_/http%3A//www.akc.org/about/site/privacystatement.cfm/2092435600@BottomRight,Position2,Position1,Frame2,Frame1!BottomRight"></script>
 </div>
 
 </div>
@@ -1030,64 +1031,64 @@ height:20px;
 		            
 
 <h2>Quick Poll:</h2>
-<p>What activity is most likely to cause you to visit the AKC website?</p>
+<p>What pet product or service costs do you think will increase most in the coming year?</p>
 <form action="/poll/akc_quick_poll.cfm" method="post">
-		<input name="cde_poll" type="hidden" value="20100612024707">	
+		<input name="cde_poll" type="hidden" value="20110106045321">	
 <table cellpadding="3" cellspacing="0" border="0">
 	
 		
 			<tbody><tr>
 				<td width="20" valign="top">
 					
-						<input name="cde_answer" type="radio" value="201006120247071">
+						<input name="cde_answer" type="radio" value="201101060453211">
 					
 			  	</td>
 				<td>
-					Register a dog or litter<br>
+					Dog food<br>
 				</td>
 			</tr>
 		
 			<tr>
 				<td width="20" valign="top">
 					
-						<input name="cde_answer" type="radio" value="201006120247072">
+						<input name="cde_answer" type="radio" value="201101060453212">
 					
 			  	</td>
 				<td>
-					Find a puppy for sale near me<br>
+					Supplements and over the counter medications<br>
 				</td>
 			</tr>
 		
 			<tr>
 				<td width="20" valign="top">
 					
-						<input name="cde_answer" type="radio" value="201006120247073">
+						<input name="cde_answer" type="radio" value="201101060453213">
 					
 			  	</td>
 				<td>
-					Search for event information or results<br>
+					Veterinary care<br>
 				</td>
 			</tr>
 		
 			<tr>
 				<td width="20" valign="top">
 					
-						<input name="cde_answer" type="radio" value="201006120247074">
+						<input name="cde_answer" type="radio" value="201101060453214">
 					
 			  	</td>
 				<td>
-					Manage my dog or litter records <br>
+					Grooming<br>
 				</td>
 			</tr>
 		
 			<tr>
 				<td width="20" valign="top">
 					
-						<input name="cde_answer" type="radio" value="201006120247075">
+						<input name="cde_answer" type="radio" value="201101060453215">
 					
 			  	</td>
 				<td>
-					Needing information about a specific breed<br>
+					Dog related travel and accomodations<br>
 				</td>
 			</tr>
 		
@@ -1103,7 +1104,7 @@ height:20px;
                     </div>
 					
 	<div id="sidebar_main_machine">
-	sloughi - ecom - akc7
+	rhodesian - ecom - akc6
 	</div> 
 
 
@@ -1226,21 +1227,24 @@ qacct:"p-0eXam7IyheRCk"
 <!-- End Quantcast tag -->
 
 
-<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript">
-</script>
+
+
+
 <script type="text/javascript">
-_uacct = "UA-2957907-1";
-urchinTracker();
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-2957907-1");
+pageTracker._setLocalRemoteServerMode(); 
+pageTracker._trackPageview();
 </script>
 
 
 
 
 
-
-
-
-<script src="/__utm.js" type="text/javascript"></script>
 
 
 
