@@ -1,36 +1,8 @@
-> *The following text is extracted and transformed from the 701panduan.com privacy policy that was archived on 2010-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100422215602id_/http%3A//www.701panduan.com/disclaimer.html%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 701panduan.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605132159id_/http%3A//www.701panduan.com/privacy.php) for the most accurate reproduction.*
 
-# 701Panduan- Disclaimer
+# Privacy Policy | 701Panduan.com
 
-**DISCLAIMER**
-
-701Panduan Sdn Bhd kindly reminds that you read carefully and fully understand this disclaimer before using 701Panduan.com for searching lifestyle and business information. The policy will govern your use of 701panduan.com.
-
-“You” and “User” refer to User’s use of 701Panduan.com represents his/her consent of all the contents in this DISCLAIMER. “The Company” refers to Advertiser or Dealer Information.
-
-(1)  Considering that 701Panduan.com displays business information automatically in a non-human-indexed manner according to the keywords entered by the user, 701Panduan Sdn Bhd shall not take any responsibility, or undertake any liability, warranties for all but not limited to incidents, negligence, infringement, and subsequent losses (including infection of computer viruses due to linking to other websites) due to use of 701Panduan.com.
-
-(2)  The truthfulness and legality of company information, business information or product information from the use of 701Panduan shall be solely guaranteed by The Company and is not relevant to 701Panduan in any way, nor shall 701Panduan be held liable for that.
-
-(3)  You shall bear all risks for using the search result. 701Panduan Sdn Bhd makes no warranty, in any form, that the search result can meet the demands of the user, that the search service will not be interrupted, that the search result is secure, error-free, prompt or legal. 701Panduan Sdn Bhd shall not be held legally responsible in any way for failure in using 701Panduan.com caused by any reasons, including but not limit to faults in network traffic or communication lines.
-
-(4)  In case that any entity or person believes that the contents that can be searched through 701Panduan.com may infringe upon its right to information network dissemination, they shall directly contact the specific Company or Dealer for resolution. The liability shall be solely borne by the Company or Dealer. It shall not be related to, or borne by 701Panduan Sdn Bhd.
-
-(5)  The website may be conflicting with some software installed on the user’s computer systems. 701Panduan Sdn Bhd shall not take any responsibility for interest losses thus incurred. Any material downloaded or otherwise obtained though the use of the service is done at your own discretion and risk. You will be solely responsible to for any damage to your computer and loss of data due to the downloaded material.
-
-(6)  701Panduan shall not be held responsible for any losses, whether direct, indirect, or consequential, in computer hardware, software damages, or information exposures, etc, arising from use or nonuse of the service provided by 701Panduan.
-
-(7)  You shall be solely responsible for any infringement of the third party interest in information provided to 701Panduan by uploading, communicating, entering or any other manners.
-
-701Panduan Sdn Bhd reserves the rights to change its terms and conditions of Service from time to time as deem necessary at its sole discretion.
-
-**The Information We Collect**
-
-We may use your information to improve our marketing and promotional efforts, to statistically analyze site usage, to improve our content and product offerings and to customize our Site's content, layout and service. When you submit business information, your information will not be disclosed to third party without your consent. We do not sell, trade or exchange any personally information of our Users. We may use information to execute marketing campaign from time to time. You will be given opportunity to opt out from any marketing and communications with 701Panduan Sdn Bhd.
-
-PRIVACY POLICY
-
-[701Panduan Sdn Bhd ](http://www.701panduan.com/)(“701Panduan”) collects information from users for a number of reasons.
+[701Panduan Sdn Bhd ](http://www.701panduan.com/)("701Panduan") collects information from users for a number of reasons.
 
 Please read carefully our policy below on data collection and use of the data collected. This policy applies to web sites and services that are owned and/or operated by 701Panduan. We do not exercise control over the sites displayed as search results or links from within our various sites or services and assume no responsibility for their content or privacy policies. A link from our site to another site does not imply endorsement of that site.
 
@@ -72,7 +44,7 @@ your information may be disclosed to and used by such third parties. Although we
 
 _**Can you change and update your particulars?**_
 
-We encourage you to change or update your particulars, if the same are inaccurate or not updated, and you may do so at [Information Updates](https://web.archive.org/submit/submit.html)  page.
+We encourage you to change or update your particulars, if the same are inaccurate or not updated, and you may do so at [Information Updates](http://www.701panduan.com/submit/submit.html)  page.
 
 _**How your data is protected**_
 
