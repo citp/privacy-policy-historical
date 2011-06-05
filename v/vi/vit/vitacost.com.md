@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vitacost.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224100754id_/http%3A//www.vitacost.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vitacost.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605233309id_/http%3A//www.vitacost.com/Privacy) for the most accurate reproduction.*
 
 # Vitacost.com Web Site Privacy Statment - Vitacost
 
@@ -64,6 +64,7 @@ We have several types of third-party relationships.
   3. We use outside shipping companies to fulfill orders. These companies do not retain, share, store or use personally identifiable information, including email address, for any other purposes.
   4. We provide certain third party offers for your consideration. Should you choose to place an order with one of these partners, in some cases we will share certain information, including email address, necessary to facilitate your transaction with them. We will always ask for your consent prior to sharing your information with anyone.
   5. Vitacost.com handles the sending of order related and customer service related messages internally, as well as advertising related emails. Vitacost service providers do not retain nor use your personal information, including your email address for any other purpose except to provide the service on our behalf.
+  6. We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies,[ click here.](http://www.networkadvertising.org/managing/opt_out.asp)
 
 
 
