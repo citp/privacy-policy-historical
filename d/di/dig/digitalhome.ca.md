@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the digitalhome.ca privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224122825id_/http%3A//www.digitalhome.ca/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalhome.ca privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605025758id_/http%3A//www.digitalhome.ca/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy : Digital Home
+# Privacy Policy : Hugh Thompson's Digital Home
 
 You are here: [Home](http://www.digitalhome.ca/) / [About](http://www.digitalhome.ca/about/) / Privacy Policy
 
