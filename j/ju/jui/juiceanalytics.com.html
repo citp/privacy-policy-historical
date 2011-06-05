@@ -1,473 +1,279 @@
-<!--The following is the downloaded HTML source of the juiceanalytics.com privacy policy that was archived on 2010-11-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101101182002id_/http%3A//www.juiceanalytics.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the juiceanalytics.com privacy policy that was archived on 2011-06-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110605160553id_/http%3A//www.juiceanalytics.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html lang="en"><head>
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-	<meta name="keywords" content="">
-	<meta name="description" content="">
-	<title>Juice Inc Privacy Policy</title>
-
-  	<!-- Framework CSS -->
-	<link title="Agile Analytics Weblog" type="application/rss+xml" rel="alternate" href="http://feeds.feedburner.com/JuiceAnalytics">
-	<link title="Open Juice: Technical Topics" type="application/rss+xml" rel="alternate" href="http://feeds.feedburner.com/OpenJuiceBlog">
-	<link title="Juice Analytics Combined Feed" type="application/rss+xml" rel="alternate" href="http://feeds.feedburner.com/JuiceAnalyticsCombinedFeed">
-	<link rel="stylesheet" href="http://media.juiceanalytics.com/media/css/blueprint/compressed/screen.css" type="text/css" media="screen, projection">
-	<link rel="stylesheet" href="http://media.juiceanalytics.com/media/css/blueprint/compressed/print.css" type="text/css" media="print">
-
-
-	<link rel="shortcut icon" href="http://media.juiceanalytics.com/images/favicon.ico">
-	
-	<!-- Import fancy-type plugin for the sample section. -->
-	<link rel="stylesheet" href="http://media.juiceanalytics.com/media/css/blueprint/plugins/fancy-type/fancy-type.css" type="text/css" media="screen, projection">
-	<link rel="stylesheet" href="http://media.juiceanalyticsceanalytics.com/media/css/blueprint/plugins/buttons/buttons.css" type="text/css" media="screen, projection">
-	<link rel="stylesheet" href="http://media.juiceanalytics.com/media/css/blueprint/plugins/css-classes/css-classes.css" type="text/css" media="screen, projection">
-	<link rel="stylesheet" href="http://media.juiceanalytics.com/media/css/videobox.css" type="text/css" media="screen">
-	<link rel="stylesheet" href="http://media.juiceanalytics.com/media/css/writing.css" type="text/css" media="screen">
-	
-	<link rel="stylesheet" type="text/css" href="http://media.juiceanalytics.com/media/shadowbox/build/css/shadowbox.css">
-	<link rel="stylesheet" href="http://media.juiceanalytics.com/media/css/commonjuice.css" type="text/css" media="screen">
-
-	<script type="text/javascript" src="http://media.juiceanalytics.com/media/js/jquery-1.2.3.min.js"></script>
-	<script type="text/javascript" src="http://media.juiceanalytics.com/media/js/jquery.color.js"></script>
-	<script type="text/javascript" src="http://media.juiceanalytics.com/media/js/jquery.form.js"></script>
-	<!--<script type="text/javascript" src="http://media.juiceanalytics.com/media/js/mootools-release-1.11.js"></script>-->
-	<!--<script type="text/javascript" src="http://media.juiceanalytics.com/media/js/mootools-beta-1.2b2-compatible.js"></script>-->
-	<!--<script type="text/javascript" src="http://media.juiceanalytics.com/media/js/mootools-svn.js"></script>-->
-	<script type="text/javascript" src="http://media.juiceanalytics.com/media/js/sm-iepng.js" defer="defer" charset="ISO-8859-1"></script>
-
-	<script type="text/javascript" src="http://media.juiceanalytics.com/media/shadowbox/build/js/adapter/shadowbox-jquery.js"></script>
-	<script type="text/javascript" src="http://media.juiceanalytics.com/media/shadowbox/build/js/shadowbox.js"></script>
-
-	<!--<script type="text/javascript" src="http://media.juiceanalytics.com/media/js/swfobject.js"></script>
-	<script type="text/javascript" src="http://media.juiceanalytics.com/media/js/videobox.js"></script>-->
-	<style>
-	#configurator2 {
-		height: 0;
-	}
-	</style>
-
-<script type="text/javascript" charset="utf-8">
-var sliders = {};
-// alert('top');
- 
-$(document).ready(function(){
-	$("#configurator2").height('auto');
-	$("#configurator2").hide();
-				
-	Shadowbox.init();
-	
-	
-	
-	
-	$('#solutions').removeClass('current');
-	$('#aboutus').removeClass('current');
-	$('#resources').removeClass('current');
-	
-$('solutions').addClass('current');
-
-
-	// browser specific handling
-	if (jQuery.browser.msie) {
-		if (parseInt(jQuery.browser.version) <= 6) {
-			$(".leftbody").css({ backgroundImage: 'none'});
-			$(".contentsbody").css({ backgroundImage: 'none'});
-		}
-		else {
-		}
-	}
-	else {
-	}
-	
- 	// $("subscribe-tool").click(function(){
- 	//    		alert("Thanks for visiting!");
- 	// });
-	$("#subscribe-tool").click(function(){
-		$("#configurator2").slideDown(1000);
-		$('#subscribecol').animate({ backgroundColor: '#fff' },1000).animate({ backgroundColor: '#ff4' }).animate({ backgroundColor: '#fff' });
-		return false;
-	});
-	$("#browse-tool").click(function(){
-		$("#configurator2").slideDown(1000);
-		$('#filtercol').animate({ backgroundColor: '#fff' },1000).animate({ backgroundColor: '#ff4' }).animate({ backgroundColor: '#fff' });
-		return false;
-	});
-	$("#buttonCancel").click(function(){
-		$("#configurator2").slideUp(1000);
-		return false;
-	});
-
-	$(".year").hide();
-	$("#yr2008link").click(function() {
-		$("#yr2008").slideToggle(500);
-		return false;
-	});
-	$("#yr2007link").click(function() {
-		$("#yr2007").slideToggle(500);
-		return false;
-	});
-	$("#yr2006link").click(function() {
-		$("#yr2006").slideToggle(500);
-		return false;
-	});
-	$("#yr2005link").click(function() {
-		$("#yr2005").slideToggle(500);
-		return false;
-	});
-	
-
-});
-
-	</script>
-	
-
-	<style>
-	
-	#content {
-		background-color: #fff; 
-		border-top: 0px solid #ddf; 
-		border-bottom: 1px solid #ccc;
-	}
-	
-	#flatpage-content {
-		padding: 20px
-	}
-	
-	#flatpage-logo {
- 		float: right; 
-		padding: 0; 
-		margin-right: 30px; 
-		margin-top: -5px;
-	}	
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<!--<title>Juice Analytics - Home Page</title>-->
+		<title>Juice Inc. Privacy Policy – Juice Analytics</title>
+		<link rel="stylesheet" type="text/css" media="all" href="http://www.juiceanalytics.com/wp-content/themes/juiceanalytics3/_ui/css/main.css">
+		<!--[if lte IE 8]><link rel="stylesheet" type="text/css" media="all" href="http://www.juiceanalytics.com/wp-content/themes/juiceanalytics3/_ui/css/ie.css" /><![endif]-->
+		<link rel="stylesheet" type="text/css" media="print" href="http://www.juiceanalytics.com/wp-content/themes/juiceanalytics3/_ui/css/print.css">
+		<link rel="stylesheet" type="text/css" media="screen" href="http://www.juiceanalytics.com/wp-content/themes/juiceanalytics3/_ui/css/lightwindow.css">
 		
+		<link rel="pingback" href="http://www.juiceanalytics.com/xmlrpc.php">
+		<link rel="shortcut icon" href="http://www.juiceanalytics.com/wp-content/themes/juiceanalytics3/_ui/images/favicon.ico">
 
-	</style>
-
-	
-</head>
-<body onload="">
-
-<div class="leftbody">
-	<div class="contentsbody">
-	
-		<div class="container">  
-			<div class="column span-24">
-			<style type="text/css">
-
-#nav, #nav ul { /* all lists */
-	padding: 0;
-	margin: 0;
-	list-style: none;
-	font-family: "Helvetica Neue",Tahoma,Helvetica,Arial,sans-serif;
-	height: 70px;
-	line-height: 1;
-	z-index: 400;
-	background-color: transparent;
+		<link rel="alternate" type="application/rss+xml" title="Juice Analytics » Feed" href="http://www.juiceanalytics.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="Juice Analytics » Comments Feed" href="http://www.juiceanalytics.com/comments/feed/">
+<link rel="stylesheet" id="contact-form-7-css" href="http://www.juiceanalytics.com/wp-content/plugins/contact-form-7/styles.css?ver=2.4.4" type="text/css" media="all">
+<link rel="stylesheet" id="wp-pagenavi-css" href="http://www.juiceanalytics.com/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70" type="text/css" media="all">
+<script type="text/javascript" src="http://www.juiceanalytics.com/wp-includes/js/l10n.js?ver=20101110"></script>
+<script type="text/javascript" src="http://www.juiceanalytics.com/wp-content/themes/juiceanalytics3/_ui/js/jquery-1.4.2.min.js?ver=1.4.2"></script>
+<script type="text/javascript" src="http://www.juiceanalytics.com/wp-content/plugins/collapsing-archives/collapsFunctions.js?ver=1.7"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.juiceanalytics.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.juiceanalytics.com/wp-includes/wlwmanifest.xml"> 
+<link rel="index" title="Juice Analytics" href="http://www.juiceanalytics.com/">
+<link rel="prev" title="Case Studies" href="http://www.juiceanalytics.com/case-studies/">
+<link rel="next" title="Jobs at Juice" href="http://www.juiceanalytics.com/jobs-at-juice/">
+<meta name="generator" content="WordPress 3.1.2">
+<link rel="canonical" href="http://www.juiceanalytics.com/privacy/">
+<style type="text/css">
+    #sidebar span.collapsing.archives {
+        border:0;
+        padding:0; 
+        margin:0; 
+        cursor:pointer;
 }
+#sidebar span.monthCount, span.yearCount {text-decoration:none; color:#333}
+#sidebar li.collapsing.archives a.self {font-weight:bold}
+#sidebar ul.collapsing.archives.list li {
+       margin:0 0 0 .8em;
+       text-indent:-1em}
 
-#nav a {
-	display: block;
-	width: 10em;
-	z-index: 400;
-	text-decoration: none;
-	color: #283B59;
-	
-}
-
-#nav li { /* all list items */
-	float: right;
-	width: 160px; /* width needed or else Opera goes nuts */
-	z-index: 400;
-}
-#nav li li {
-	width: 200px;
-}
-#nav li div {
-	font-size: 1.05em;
-	height: 70px;
-	margin-top: 0px;
-}
-#nav li div a {
-	padding-top: 50px;
-	padding-left: 5px;
-}
-#nav li.current {
-	background-color: white;
-	background-image: url('http://media.juiceanalytics.com/media/images/topnav_current_background.png');
-}
-
-
-#nav li ul { /* second-level lists */
-	position: absolute;
-	padding-top: 0;
-	margin-top: 0;
-	background-color: #B4C9ED;
-	height: auto;
-	opacity: .90;
-	-moz-opacity: .90;
-	cursor: pointer;
-	width: 200px;
-	left: -999em; /* using left instead of display to hide menus because display: none isn't read by screen readers */
-	z-index: 400;
-}
-/* Hides from IE-mac \*/
-* html #topnav li ul {
-	filter: alpha(opacity=90);
-	filter: progid:DXImageTransform.Microsoft.Alpha(opacity=90);
-}
-/* End hide from IE-mac */
-html>body #topnav li ul {
-	top: 100%;
-}
-#nav li li a:hover {
-	border-left: 1.2em solid #DF6701;
-	margin-left: -1.2em;
-	padding-left: 5px;
-}
-#nav li li a {
-	margin-top: 2px;
-	margin-left: 10px;
-	line-height: 1.2em;
-}
-
-#nav .divider {
-	font-size: 1px;
-	line-height: 3px;
-	display: block;
-	border-bottom: 1px #283B59 dotted;
-}
-
-
-#nav li:hover ul, #nav li.sfhover ul { /* lists nested under hovered list items */
-	left: auto;
-	z-index: 400;
-}
-
-#content {
-	clear: left;
-}
-
-</style>
-
-<script type="text/javascript"><!--//--><![CDATA[//><!--
-
-sfHover = function() {
-	var sfEls = document.getElementById("nav").getElementsByTagName("LI");
-	for (var i=0; i<sfEls.length; i++) {
-		sfEls[i].onmouseover=function() {
-			this.className+=" sfhover";
-		}
-		sfEls[i].onmouseout=function() {
-			this.className=this.className.replace(new RegExp(" sfhover\\b"), "");
-		}
-	}
-}
-if (window.attachEvent) window.attachEvent("onload", sfHover);
-
-//--><!]]></script>
-
-
-
-
-<div id="topbar" class="column span-24">
-
-<ul id="nav">
-	<li style="width: 200px">
-		<!-- Google CSE Search Box Begins  -->
-<form id="searchform" action="http://www.juiceanalytics.com/search/" style="height: 20px">
-  <div>
-    <input type="hidden" name="cx" value="005940481744917333489:xkaohuvei4c">
-    <input type="hidden" name="cof" value="FORID:11">
-    <input type="text" name="q" size="14">
-    <input type="submit" name="sa" value="Search">
-  </div>
-</form>
-<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
-		<!-- Google CSE Search Box Ends -->
-	</li>
-	
-	<li id="aboutus">
-		<div><a href="http://www.juiceanalytics.com/about/juice/" class="current">About&nbsp;Us</a></div>
-		<ul>
-			<li>&nbsp;</li>
-			<li><a href="http://www.juiceanalytics.com/about/contact/">Contact Us </a></li>
-			<li><span class="divider">&nbsp;</span></li>
-			<li><a href="http://www.juiceanalytics.com/about/juice/">About Juice</a></li>
-			<li><a href="http://www.juiceanalytics.com/about/jobs/">Joining Juice</a></li>
-			
-			<li><span class="blankline">&nbsp;</span></li>
-		</ul>
-	</li>
-
-	<li id="resources">
-		<div><a href="http://www.juiceanalytics.com/writing/">Resources&nbsp;&amp;&nbsp;Writing</a></div>
-		<ul>
-			<li>&nbsp;</li>
-			<li><span class="subcategory">Our Writing</span></li>
-			<li><a href="http://www.juiceanalytics.com/writing/">Agile&nbsp;Analytics&nbsp;Weblog</a></li>
-			<li><span class="description">Writing on analytics in business, Excel and PowerPoint tips</span></li>
-			<li><a href="http://www.juiceanalytics.com/openjuice/">Open Juice</a></li>
-			<li><span class="description">Technical topics, code &amp; more</span></li>
-			<li><span class="divider">&nbsp;</span></li>
-			<li><span class="subcategory">Tools</span></li>
-			<!--<li><img src="http://media.juiceanalytics.com/media/images/bubble.gif" alt="Bubble Charts" /></li>-->
-			<li><a href="http://www.juiceanalytics.com/chartchooser/"><span class="linkitem">Chart Chooser</span></a></li>
-			<li><span class="description">Tufte compliant charts for Excel and PowerPoint</span></li>
-			<li><a href="https://addons.mozilla.org/en-US/firefox/addon/11120"><span class="linkitem" style="font-size: 95%">Enhanced&nbsp;Google&nbsp;Analytics</span></a></li>
-			<li><span class="description">Firefox extension</span></li>
-			<li><a href="http://recoveryact.juiceanalytics.com"><span class="linkitem">Recovery&nbsp;Act&nbsp;TreeMap</span></a></li>
-			<li><a href="http://www.juicekit.org/demos/treemap4flex/index.html"><span class="linkitem">Census&nbsp;Data&nbsp;TreeMap</span></a></li>
-			<!--<li>
-				<span class="divider">&nbsp;</span>
-			</li>
-			<li>
-				<span class="subcategory">Code</span>
-			</li>
-			<li>
-				<a href="http://www.juiceanalytics.com/code"><span class="linkitem">Our Code</span></a>
-			</li>-->
-			<li>&nbsp;</li>
-		</ul>
-	</li>
-
-	<li id="solutions">
-		<div><a href="http://www.juiceanalytics.com/">Solutions</a></div>
-		<ul>
-			<li>&nbsp;</li>
-			<li><span class="subcategory">Services</span></li>
-			<li><a href="http://www.juiceanalytics.com/solutions/analytical_applications/">Analytical&nbsp;Applications</a></li>
-			<li><span class="description">We design custom analytical tools &amp; applications</span></li>
-			<li><a href="http://www.juiceanalytics.com/solutions/dashboard_evaluation/">Dashboard&nbsp;Evaluation</a></li>
-			<li><span class="description">A fast, economical way to improve your dashboards</span></li>
-
-			<li><span class="subcategory">Products</span></li>
-			<!--<li><a href="http://www.concentrateme.com/"><span class="linkitem">JuiceKit </span></a></li>
-			<li><span class="description">Flash visualization toolkit</span></li>-->
-			<li><a href="http://www.juicekit.org/"><span class="linkitem">JuiceKit</span></a></li>
-			<li><span class="description">Our open-source visualization framework</span></li>
-			<li><a href="http://www.concentrateme.com/"><span class="linkitem">Concentrate</span></a></li>
-			<li><span class="description">Summarizing the long tail of search</span></li>
-			<li><span class="subcategory">Juice at work</span></li>
-			<li><a href="http://www.juiceanalytics.com/solutions/case_studies/">Case&nbsp;Studies</a></li>
-			<li><a href="http://www.juiceanalytics.com/solutions/industry_expertise/">Industry Expertise</a></li>
-			<li><a href="http://www.juiceanalytics.com/solutions/perspective/"><span class="linkitem">Our perspective on Business&nbsp;Intelligence</span></a></li>
-			<li><span class="blankline">&nbsp;</span></li>
-		</ul>
-	</li>
-
-
-</ul>
-
-
-</div><!-- end search and drop downs -->
-
-
-			
-			
-			</div>
-
-			<div id="content" class="column span-24">
-				
-<div class="column span-24" id="flatpage-content">
-	<a href="/"><img src="http://media.juiceanalytics.com/media/images/juicelogo_blue_70.png" id="flatpage-logo" title="Juice Analytics"></a>
-	
-	
-	<div class="span-18">
-<h1>Juice Inc. Privacy Policy</h1>
-
-<p>Juice Inc. operates several websites including juiceanalytics.com and concentrateme.com. It is Juice Inc.’s policy to respect your privacy regarding any information we may collect while operating our websites.</p>
-
-<h3 id="website_visitors">Website Visitors</h3>
-
-<p>Like most website operators, Juice Inc. collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Juice Inc.’s purpose in collecting non-personally identifying information is to better understand how Juice Inc.’s visitors use its website. From time to time, Juice Inc. may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.</p>
-
-<p>Juice Inc. also collects potentially personally-identifying information like Internet Protocol (IP) addresses. Juice Inc. does not use such information to identify its visitors, however, and does not disclose such information, other than under the same circumstances that it uses and discloses personally-identifying information, as described below.</p>
-
-<h3 id="gathering_of_personally_identifying_information">Gathering of Personally-Identifying Information</h3>
-
-<p>Certain visitors to Juice Inc.’s websites choose to interact with Juice Inc. in ways that require Juice Inc. to gather personally-identifying information. The amount and type of information that Juice Inc. gathers depends on the nature of the interaction. For example, we ask visitors who sign up for an account at concentrateme.com to provide a username and email address. Those who engage in transactions with Juice Inc. – by purchasing access to the concentrateme.com Paid Services, for example – are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, Juice Inc. collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with Juice Inc.. Juice Inc. does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.</p>
-
-<h3 id="aggregated_statistics">Aggregated Statistics</h3>
-
-<p>Juice Inc. may collect statistics about the behavior of visitors to its websites. Juice Inc. may display this information publicly or provide it to others. However, Juice Inc. does not disclose personally-identifying information other than as described below.</p>
-
-<h3 id="protection_of_certain_personally_identifying_information">Protection of Certain Personally-Identifying Information</h3>
-
-<p>Juice Inc. discloses potentially personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on Juice Inc.’s behalf or to provide services available at Juice Inc.’s websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using Juice Inc.’s websites, you consent to the transfer of such information to them. Juice Inc. will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, Juice Inc. discloses potentially personally-identifying and personally-identifying information only when required to do so by law, or when Juice Inc. believes in good faith that disclosure is reasonably necessary to protect the property or rights of Juice Inc., third parties or the public at large. If you are a registered user of an Juice Inc. website and have supplied your email address, Juice Inc. may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with Juice Inc. and our products. We primarily use our development- or other blogs to communicate this type of information, so we expect to keep this type of email to a minimum. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. Juice Inc. takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.</p>
-
-<h3 id="cookies">Cookies</h3>
-
-<p>A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. Juice Inc. uses cookies to help Juice Inc. identify and track visitors, their usage of Juice Inc. website, and their website access preferences. Juice Inc. visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Juice Inc.’s websites, with the drawback that certain features of Juice Inc.’s websites may not function properly without the aid of cookies.</p>
-
-<h3 id="uploaded_data">Uploaded Data</h3>
-
-<p>Certain of Juice Inc.’s sites may allow visitors to upload data to Juice Inc.’s websites for analytic or visualization purposes. Although Juice Inc. manages the data storage and databases and maintains all rights to Juice Inc. applications, users retain all rights to their data. Juice Inc. will not share any uploaded data with third parties, unless specific consent is given by the user.</p>
-
-<p>Users may give specific permission to allow Juice Inc. to use uploaded data internally to improve the quality of our services. If the user opts in to Juice data usage, we restrict access to this data to Juice employees, contractors and agents who need to know that information in order to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.</p>
-
-<p>Any uploaded data deleted from the concentrateme.com application will be permanently removed from Juice Inc. systems after 3 weeks, including backup copies. </p>
-
-<h3 id="data_security">Data Security</h3>
-
-<p>Juice Inc. will take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store personal data.</p>
-
-<p>Juice Inc. restricts access to personal information to Juice Inc. employees, contractors and agents who need to know that information in order to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.</p>
-
-<h3 id="privacy_policy_changes">Privacy Policy Changes</h3>
-
-<p>Although most changes are likely to be minor, Juice Inc. may change its Privacy Policy from time to time, and at Juice Inc.’s sole discretion. Juice Inc. encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.</p>
-
-<p style="color: #666; font-size: 90%"><em>Thanks to the kind people of <a href="http://wordpress.com/">WordPress.com</a> for making portions of this document available under the Creative Commons Sharealike license.</em></p>
-</div>
-
-	
-</div>
-
-			</div>
-
-			<div class="column span-24 footer">
-			    
-				<div class="column span-24">
-  <div class="column span-3">
-    <br>
-    </div>
-  <div class="column span-18">
-    <br>
-    <a style="color:white" href="/about/jobs/">Joining Juice</a> | 
-    <a style="color:white" href="/about/contact/">Contact Us</a> |
-    <a style="color:white" href="/about/privacy/">Privacy Policy</a><br>
-    © 2005—2009 Juice Inc.
-    <br>
-    </div>
-  <div class="column span-3 last">
-    <br>
-    <!-- Site Meter XHTML Strict 1.0 -->
-    <script type="text/javascript" src="http://s47.sitemeter.com/js/counter.js?site=s47juice">
-      </script>
-    </div>
-</div>
-<!-- Copyright (c)2006 Site Meter -->
-
-				
-			</div>
-
-		</div>
-	</div>
-</div>
-
-
+#sidebar ul.collapsing.archives.list ul.collapsing.archives.list:before, 
+  #sidebar ul.collapsing.archives.list li.collapsing.archives:before, 
+  #sidebar ul.collapsing.archives.list li.collapsing.archives.item:before {
+       content:'';
+  } 
+#sidebar ul.collapsing.archives.list li.collapsing.archives {list-style-type:none}
+#sidebar ul.collapsing.archives.list li.collapsing.archives .sym {
+   font-size:1.2em;
+   font-family:Monaco, 'Andale Mono', 'FreeMono', 'Courier new', 'Courier', monospace;
+   cursor:pointer;
+    padding-right:5px;}
+    </style>
 <script type="text/javascript">
+//<![CDATA[
+var _wpcf7 = { cached: 1 };
+//]]>
+</script>
+	<script type="text/javascript">
+				quoteRotator = {
+					i: 1,
+					quotes: ["<i>The commonality between science and art is in trying to see profoundly&mdash;to develop strategies of seeing and showing.<br />- Edward Tufte</i>",
+"<i>There are many true statements about complex topics that are too long to fit on a PowerPoint slide. <br />- Edward Tufte</i",
+"<i>I think it is important for software to avoiding imposing a cognitive style on workers and their work.<br/>- Edward Tufte</i>",
+
+					],
+					numQuotes: 3,
+					fadeDuration: 1,
+					fadeoutDuration: 1,
+					delay: 10,
+					quotesInit: function(){
+						if (this.numQuotes < 1){
+							document.getElementById('quoterotator').innerHTML="No Quotes Found";
+						} else {
+							this.quoteRotate();
+							setInterval('quoteRotator.quoteRotate()', (this.fadeDuration + this.fadeoutDuration + this.delay) * 1000);
+						}
+					},
+					quoteRotate: function(){
+						jQuery('#quoterotator').hide().html(this.quotes[this.i - 1]).fadeIn(this.fadeDuration * 1000).css('filter','').delay(this.delay * 1000).fadeOut(this.fadeoutDuration * 1000);
+						this.i = this.i % (this.numQuotes) + 1;
+					}
+	
+				}
+			</script><script type="text/javascript">var showText='Read More ';var hideText='Read Less ';</script><script type="text/javascript" src="http://www.juiceanalytics.com/wp-content/plugins/sliding-read-more/jquery-1.4.2.min.js"></script><script type="text/javascript" src="http://www.juiceanalytics.com/wp-content/plugins/sliding-read-more/jslide.js"></script>
+<!-- Typekit JS code -->
+<script type="text/javascript" src="http://use.typekit.com/xvd2tbr.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+<!-- Typekit JS code end -->
+<meta id="syntaxhighlighteranchor" name="syntaxhighlighter-version" content="3.1.1">
+	</head>
+	<body class="page page-id-10001 page-template page-template-page-visualization-php visualizationresources">
+
+		<ol id="accessibility-nav">
+			<li><a href="#navigation">Skip to navigation</a></li>
+			<li><a href="#content">Skip to content</a></li>
+			<li><a href="#sidebar">Skip to sidebar</a></li>
+		</ol><!-- / accessibility-nav -->
+
+		<div class="container">
+
+			<div id="header">
+					<h1 class="juiceanalytics"><a href="http://www.juiceanalytics.com/">Juice Analytics<span></span></a></h1>
+					<p>Your data is meant for action.</p>
+				<ul class="nav-top">
+						<!--
+					<li>
+														<a href="http://www.juiceanalytics.com/login/"  title="Login">LOGIN</a>
+											</li>
+					<li><a href="http://www.juiceanalytics.com/">HOME</a></li>
+						-->
+				</ul>
+				<form method="get" action="http://www.juiceanalytics.com/">
+					<fieldset>
+						<label class="hide" for="search">Search:</label>
+						<input type="text" value="Search" id="search" name="s">
+					</fieldset>
+				</form>
+
+<ul id="navigation" class="menu"><li class="services"><a>Services</a>
+<ul class="sub-menu">
+	<li><a href="http://www.juiceanalytics.com/dashboard-and-application-design/">Dashboard and Application Design</a></li>
+	<li><a href="http://www.juiceanalytics.com/case-studies/">Case Studies</a></li>
+	<li><a href="http://www.juiceanalytics.com/perspective/">Our Perspective on Business Intelligence</a></li>
+</ul>
+</li>
+<li class="gallery"><a title="Gallery" href="http://www.juiceanalytics.com/gallery/">Gallery</a>
+<ul class="sub-menu">
+	<li><a title="Show all" href="http://www.juiceanalytics.com/gallery/">Show all</a></li>
+	<li><a href="http://www.juiceanalytics.com/chart-chooser/">Chart Chooser</a></li>
+	<li><a href="http://analyticsvisualizations.appspot.com/juicekit/AnalyticsVisualization.html">Google Analytics Visualizations</a></li>
+	<li><a href="http://www.juiceanalytics.com/nfl-visualization/">NFL&nbsp;Visualization</a></li>
+</ul>
+</li>
+<li class="our-writing"><a href="http://www.juiceanalytics.com/writing/">Our Writing</a>
+<ul class="sub-menu">
+	<li><a title="Recent Posts" href="http://www.juiceanalytics.com/writing/">Recent Posts</a></li>
+	<li><a href="http://www.juiceanalytics.com/visitors-guide/">Visitor’s Guide</a></li>
+</ul>
+</li>
+<li class="visualization-resources"><a href="http://www.juiceanalytics.com/visualization-resources/">Visualization Resources</a>
+<ul class="sub-menu">
+	<li><a href="http://www.juiceanalytics.com/white-papers-guides-and-more/">White Papers, Guides, and More</a></li>
+	<li><a href="http://www.juiceanalytics.com/free-tools/">Free Tools for Data</a></li>
+	<li><a href="http://www.juiceanalytics.com/visualization-prizes/">Earn Visualization Prizes</a></li>
+</ul>
+</li>
+<li class="about-juice"><a title="About Juice" href="http://www.juiceanalytics.com/about-juice/">About Juice</a>
+<ul class="sub-menu">
+	<li><a href="http://www.juiceanalytics.com/about-juice/">About Us</a></li>
+	<li><a href="http://www.juiceanalytics.com/jobs-at-juice/">Jobs at Juice</a></li>
+	<li><a href="http://www.juiceanalytics.com/contact-us/">Contact Us</a></li>
+</ul>
+</li>
+</ul>
+			</div><!-- / #header -->			<div class="wrapper-content">
+
+				<div id="content">
+
+				<div class="wrapper-inner">
+                
+                
+                
+                
+
+									<div class="h2 visualizationresources">
+						
+													<h2 style="text-indent: 0;">Juice Inc. Privacy Policy</h2>
+																	</div>
+						<p><em>Juice Inc. operates several websites including juiceanalytics.com and concentrateme.com. It is Juice Inc.’s policy to respect your privacy regarding any information we may collect while operating our websites.</em></p>
+<h3>Website Visitors</h3>
+<p>Like most website operators, Juice Inc. collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Juice Inc.’s purpose in collecting non-personally identifying information is to better understand how Juice Inc.’s visitors use its website. From time to time, Juice Inc. may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.</p>
+<p>Juice Inc. also collects potentially personally-identifying information like Internet Protocol (IP) addresses. Juice Inc. does not use such information to identify its visitors, however, and does not disclose such information, other than under the same circumstances that it uses and discloses personally-identifying information, as described below.</p>
+<h3>Gathering of Personally-Identifying Information</h3>
+<p>Certain visitors to Juice Inc.’s websites choose to interact with Juice Inc. in ways that require Juice Inc. to gather personally-identifying information. The amount and type of information that Juice Inc. gathers depends on the nature of the interaction. For example, we ask visitors who sign up for an account at concentrateme.com to provide a username and email address. Those who engage in transactions with Juice Inc. – by purchasing access to the concentrateme.com Paid Services, for example – are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, Juice Inc. collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with Juice Inc.. Juice Inc. does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.</p>
+<h3>Aggregated Statistics</h3>
+<p>Juice Inc. may collect statistics about the behavior of visitors to its websites. Juice Inc. may display this information publicly or provide it to others. However, Juice Inc. does not disclose personally-identifying information other than as described below.</p>
+<h3>Protection of Certain Personally-Identifying Information</h3>
+<p>Juice Inc. discloses potentially personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on Juice Inc.’s behalf or to provide services available at Juice Inc.’s websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using Juice Inc.’s websites, you consent to the transfer of such information to them. Juice Inc. will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, Juice Inc. discloses potentially personally-identifying and personally-identifying information only when required to do so by law, or when Juice Inc. believes in good faith that disclosure is reasonably necessary to protect the property or rights of Juice Inc., third parties or the public at large. If you are a registered user of an Juice Inc. website and have supplied your email address, Juice Inc. may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with Juice Inc. and our products. We primarily use our development- or other blogs to communicate this type of information, so we expect to keep this type of email to a minimum. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. Juice Inc. takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.</p>
+<h3>Cookies</h3>
+<p>A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. Juice Inc. uses cookies to help Juice Inc. identify and track visitors, their usage of Juice Inc. website, and their website access preferences. Juice Inc. visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Juice Inc.’s websites, with the drawback that certain features of Juice Inc.’s websites may not function properly without the aid of cookies.</p>
+<h3>Uploaded Data</h3>
+<p>Certain of Juice Inc.’s sites may allow visitors to upload data to Juice Inc.’s websites for analytic or visualization purposes. Although Juice Inc. manages the data storage and databases and maintains all rights to Juice Inc. applications, users retain all rights to their data. Juice Inc. will not share any uploaded data with third parties, unless specific consent is given by the user.</p>
+<p>Users may give specific permission to allow Juice Inc. to use uploaded data internally to improve the quality of our services. If the user opts in to Juice data usage, we restrict access to this data to Juice employees, contractors and agents who need to know that information in order to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.</p>
+<p>Any uploaded data deleted from the concentrateme.com application will be permanently removed from Juice Inc. systems after 3 weeks, including backup copies.</p>
+<h3>Data Security</h3>
+<p>Juice Inc. will take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store personal data.</p>
+<p>Juice Inc. restricts access to personal information to Juice Inc. employees, contractors and agents who need to know that information in order to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.</p>
+<h3>Privacy Policy Changes</h3>
+<p>Although most changes are likely to be minor, Juice Inc. may change its Privacy Policy from time to time, and at Juice Inc.’s sole discretion. Juice Inc. encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.</p>
+<p>Thanks to the kind people of <a href="http://www.wordpress.com">WordPress.com</a> for making portions of this document available under the Creative Commons Sharealike license.</p>
+						
+												
+				                
+                
+
+				</div>
+
+				</div>
+
+				<div id="sidebar">
+													</div>
+			</div><!-- / .wrapper-content -->
+			<div id="footer">
+
+				<dl>
+					<dt>Reston <span>(headquarters)</span></dt>
+					<dd>
+						<address><a href="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=11529+Sunrise+Valley+Drive,+%238+Reston,+VA+20191+&amp;sll=33.914054,-84.341411&amp;sspn=0.015848,0.02208&amp;ie=UTF8&amp;hq=&amp;hnear=11529+Sunrise+Valley+Dr,+Reston,+Fairfax,+Virginia+20191&amp;ll=38.919353,-77.235947&amp;spn=0.475466,0.706558&amp;z=11&amp;iwloc=A" rel="_blank">11529 Sunrise Valley Drive, #8<br>
+						Reston, VA 20191</a></address>
+					</dd>
+				</dl>
+				<dl>
+					<dt>Atlanta</dt>
+					<dd>
+						<address><a href="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=115+Perimeter+Center+Place,+Suite+570+30346&amp;aq=&amp;sll=37.0625,-95.677068&amp;sspn=42.85226,89.472656&amp;ie=UTF8&amp;hq=&amp;hnear=115+Perimeter+Center+Pl+%23570,+Dunwoody,+DeKalb,+Georgia+30346&amp;ll=33.920572,-84.337921&amp;spn=0.352128,0.699005&amp;z=11" rel="_blank">115 Perimeter Center Place, Suite 570<br>
+						Atlanta, GA 30346</a></address>
+					</dd>
+				</dl>
+				<ul class="contact">
+					<li class="phone">571.482.7760</li>
+					<li class="email"><a href="mailto:info@juiceanalytics.com">info@juiceanalytics.com</a></li>
+					<li class="vcard"><a href="http://www.juiceanalytics.com/wp-content/themes/juiceanalytics3/_media/Juice Analytics.vcf">vcard</a></li>
+				</ul>
+				<ul class="contact">
+					<li class="twitter"><a href="http://www.twitter.com/juiceanalytics" rel="_blank">@juiceanalytics</a></li>
+					<li class="rss"><a href="http://feeds.feedburner.com/JuiceAnalytics">Subscribe</a> <a href="http://www.juiceanalytics.com/writing/">Blog</a></li>
+				</ul>
+				<a href="http://www.juiceanalytics.com/" class="juiceanalytics">Juiceanalytics</a>
+				<p class="copy"><a href="http://www.juiceanalytics.com/privacy/">Privacy Policy</a> © 2005-2011 Juice Analytics, Inc.</p>
+			</div><!-- / #footer -->
+
+		</div><!-- / .container -->
+
+		<script type="text/javascript" src="http://www.juiceanalytics.com/wp-content/plugins/contact-form-7/jquery.form.js?ver=2.52"></script>
+<script type="text/javascript" src="http://www.juiceanalytics.com/wp-content/plugins/contact-form-7/scripts.js?ver=2.4.4"></script>
+		<script type="text/javascript" src="http://www.juiceanalytics.com/wp-content/themes/juiceanalytics3/_ui/js/jquery-ui-1.8.5.custom.min.js"></script>
+		<!--[if lte IE 8]><script type="text/javascript" src="http://www.juiceanalytics.com/wp-content/themes/juiceanalytics3/_ui/js/selectivizr.js"></script><![endif]-->
+		<script type="text/javascript" src="http://www.juiceanalytics.com/wp-content/themes/juiceanalytics3/_ui/js/jquery.tools.min.js"></script>
+		<script type="text/javascript" src="http://www.juiceanalytics.com/wp-content/themes/juiceanalytics3/_ui/js/jquery.sha1.js"></script>
+		<script type="text/javascript" src="http://www.juiceanalytics.com/wp-content/themes/juiceanalytics3/_ui/js/jquery.sparkline.js"></script>
+		<script type="text/javascript" src="http://www.juiceanalytics.com/wp-content/themes/juiceanalytics3/_ui/js/jquery.hashmask.js"></script>
+		<script type="text/javascript" src="http://www.juiceanalytics.com/wp-content/themes/juiceanalytics3/_ui/js/jquery.hoverIntent.minified.js"></script>
+		<script type="text/javascript" src="http://www.juiceanalytics.com/wp-content/themes/juiceanalytics3/_ui/js/main.js"></script>
+		
+		<!-- LightWindow -->
+		<script type="text/javascript">lw_path = "http://www.juiceanalytics.com/wp-content/themes/juiceanalytics3/_ui/images/lightwindow/";</script>
+		<script type="text/javascript" src="http://www.juiceanalytics.com/wp-content/themes/juiceanalytics3/_ui/js/lightwindow/prototype.js"></script>
+		<script type="text/javascript" src="http://www.juiceanalytics.com/wp-content/themes/juiceanalytics3/_ui/js/lightwindow/effects.js"></script>
+		<script type="text/javascript" src="http://www.juiceanalytics.com/wp-content/themes/juiceanalytics3/_ui/js/lightwindow/lightwindow.js"></script>
+			
+						<script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
 <script type="text/javascript">
+try{ 
 var pageTracker = _gat._getTracker("UA-1759542-1");
-pageTracker._initData();
-pageTracker._setVar('');
 pageTracker._trackPageview();
-</script>
+} catch(err) {} 
+</script>			
+
+	
 
 
 
 
 
-</body></html>
+
+
+
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+Minified using disk
+Page Caching using disk (user agent is rejected)
+Database Caching 35/47 queries in 0.020 seconds using disk
+
+Served from: www.juiceanalytics.com @ 2011-06-05 12:05:54 --></body></html>
