@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learnandmaster.com privacy policy that was archived on 2010-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101101192301id_/http%3A//www.learnandmaster.com/main/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learnandmaster.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605150322id_/http%3A//www.learnandmaster.com/main/pages/privacy-policy) for the most accurate reproduction.*
 
 # Legacy Learning Systems Privacy Policy | Guitar, Piano, Drums, Painting, Photography, Ballroom Dance DVD Instruction
 
