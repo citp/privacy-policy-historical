@@ -1,8 +1,20 @@
-> *The following text is extracted and transformed from the soundonsound.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231082944id_/http%3A//www.soundonsound.com/information/SOSPrivacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soundonsound.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605162424id_/http%3A//www.soundonsound.com/information/SOSPrivacyPolicy.php) for the most accurate reproduction.*
 
 # SOS Privacy Policy
 
-| 
+**On the 26th May 2011 changes to the EU Data Retention Directive became law. The updated legislation requires a web site owner to disclose the use of tracking files such as "Cookies" and explain their use. The site must also explicitly request the consent of the user to install cookies on their computer. Under the new law, these changes must be fully implemented within the next 12 months. Sound On Sound will be complying with the new legislation and is working towards a comprehensive solution. This will require considerable re-programming work and will be implemented over two phases.**
+
+This Privacy Policy relates to the following SOS-owned websites:
+
+**soundonsound.com**
+
+**performing-musician.com**
+
+**sos-smartguides.com**
+
+**sosawards.com**
+
+These sites are owned and run by the SOS Publications group of companies. Some services and/or features mentioned below may not be available on all our sites.
 
 1\. Information SOS Gathers and Tracks  
 SOS gathers two types of information about users: data that users provide through optional, voluntary registrations on our sites and in certain Competitions; and data SOS gathers through aggregating tracking information derived mainly by counting page views throughout our sites and click-throughs on advertisements. Such information enables us to better tailor our content to readers' needs and to help our advertisers better understand the demographics of our web site audience. The only situation in which SOS divulges information about an individual user to a third party is with certain Competitions but _only with the user's express prior consent._
@@ -10,18 +22,15 @@ SOS gathers two types of information about users: data that users provide throug
 SOS gathers user information in the following processes:
 
 • Registration  
-Several SOS sites offer free registration to users: SOS Reader Ads and SOS Forum, for example. By registering, users can enter the sites without having to log on each time; they gain access to the polls; and they can take advantage of personalisation (the ability to select content according to a user-supplied profile).
+Several SOS sites offer free registration to users: Reader Ads and Forum, for example. By registering, users can enter the sites without having to log on each time; they gain access to the polls; and they can take advantage of personalisation (the ability to select content according to a user-supplied profile).
 
 During registration the user _is required_ to supply a first name, last name, and password. In addition, the user can opt to subscribe to various SOS electronic newsletters and to have his or her email address and/or URL appear in postings.
 
-• SOS Polls  
+• Polls  
 The SOS sites offer interactive polls to users so they can easily share their opinions with other users and see what the SOS audience thinks about important issues. SOS uses a system to "tag" users after they have voted, so they can vote only once on a particular question. This tag is not correlated with information about individual users.
 
-• SOS Auctions [ under construction ]  
-To actively participate in auctions, users must register (this is separate from SOS registration). During registration the user _is required_ to supply a username and password, along with a name, full address, daytime phone, and credit card information. SOS will _never_ divulge personally identifiable information to a third party (except to comply with federal and state laws).
-
-• SOS Forum  
-Users of the SOS Forum discussion groups must register for these services (it is free of charge) in order to _post/reply_ messages; there is no requirement to register in order to read/browse messages. During Forum registration the user _is required_ to supply a Display Name, Password, valid Email Address, and to state whether or not they are an existing SOS Subscriber.
+• Forum  
+Users of the Forum discussion groups must register for these services (it is free of charge) in order to _post/reply_ messages; there is no requirement to register in order to read/browse messages. During Forum registration the user _is required_ to supply a Display Name, Password, valid Email Address, and to state whether or not they are an existing SOS Subscriber.
 
 • Electronic Newsletters  
 From time to time, the SOS sites may offer a free electronic newsletter to users. Users can also subscribe to the newsletters at the time of registration. SOS gathers the email addresses of users who voluntarily subscribe. Users may remove themselves from this mailing list by following the instructions included at the end of each newsletter.
@@ -32,13 +41,13 @@ SOS also uses the feature of your browser software to set a "cookie" on your sys
 
 While aggregate counts of click-through patterns may be provided to advertisers on request, an advertiser will never know that a specific user clicked their ad. SOS does not target advertising against specific user information and SOS will not provide specific user information to any third party company.
 
-• SOS Forum's "Email This Topic To A Friend" Service  
+• Forum's "Email This Topic To A Friend" Service  
 A Forum reader can choose to electronically forward a news story or discussion thread to someone else by clicking the link at the top of that topic. The user must provide their email address as well as that of the recipient. This information is used _only_ in the case of transmission errors and, of course, to let the recipient know who sent the story. The information is not used for any other purpose.
 
 • Surveys  
 Occasionally SOS conducts user surveys to better target our content to our audience. We sometimes share the aggregated demographic information in these surveys with our advertisers and partners. We _never share_ any of this information about specific individuals with any third party.
 
-• SOS Competitions  
+• Competitions  
 SOS regularly runs Competitions in which we request certain personal information. At a minimum, the required information includes name and email address; in some cases, the user must answer mandatory survey questions about a range of other personal data. The information gathered in the entry form is used to verify the entrant's identity, to send the entrant an email notification that their entry has been received, and to contact winners and/or prize recipients. There is only one situation in which SOS will divulge this information to a third party _provided the user gives express consent:_
 
 1\. A user may expressly choose to receive additional information from the Competition sponsor, in which case the user's personally identifiable information is divulged to the advertiser.
@@ -48,18 +57,18 @@ Because the rules and terms of each Competition can vary, all information about 
 • Usage Tracking  
 SOS tracks user traffic patterns throughout all of our sites.
 
-SOS sometimes tracks and catalogues the search terms that users enter in our main site Search engine and SOS Forum search engine, but this tracking is never associated with individual users.
+SOS sometimes tracks and catalogues the search terms that users enter in our main site Search engine and Forum search engine, but this tracking is anonymous and never associated with individual users.
 
 • Cookies  
-A _cookie_ is a small data file that certain web sites write to your hard drive when you visit them. A cookie file can contain information such as a user ID that the site uses to track the pages you've visited. But the only personal information a cookie can contain is information you supply yourself. A cookie can't read data off your hard disk or read cookie files created by other sites. SOS uses cookies to track user traffic patterns (as described above), when you register as a Subscriber, site visitor or SOS Forum member, and when you click an advert:
+A _cookie_ is a small data file that certain web sites write to your hard drive when you visit them. A cookie file can contain information such as a user ID that the site uses to track the pages you've visited. But the only personal information a cookie can contain is information you supply yourself. A cookie can't read data off your hard disk or read cookie files created by other sites. SOS uses cookies to track user traffic patterns (as described above), when you register as a Subscriber, site visitor or Forum member, and when you click an advert:
 
-> **Registration:** when you register, SOS uses a cookie to store a unique, random user ID. We do not store passwords or any personal information about you. We use this ID to identify you anonymously in our database and to track the pages you visit on our site. Cookies also enable you to enter SOS sites (eg. the SOS Forum) as a member without having to log on each time, and to visit member-restricted "Subscribers-only" areas of the SOS sites. We encrypt the user ID for added security.
+> **Registration:** when you register, SOS uses a cookie to store a unique, random user ID. We do not store passwords or any personal information about you. We use this ID to identify you anonymously in our database and to track the pages you visit on our site. Cookies also enable you to enter SOS sites (eg. the Forum) as a member without having to log on each time, and to visit member-restricted "Subscribers-only" areas of the SOS sites. We encrypt the user ID for added security.
 > 
 > **Adverts:** SOS's online advertising system delivers a cookie to better track ad impressions and click-through rates.
 
 If you've set your browser to warn you before accepting cookies, you will receive the warning message with each cookie.
 
-**You can refuse cookies by turning them off in your browser.** You do not need to have cookies turned on to use any SOS site, though it does make your experience a more enjoyable one. _However, you do need cookies to participate actively in the SOS Forum discussion groups._
+**You can refuse cookies by turning them off in your browser.** You do not need to have cookies turned on to use any SOS site, though it does make your experience a more enjoyable one. _However, you do need cookies to participate actively in the Forum discussion groups._
 
 • Opt-in Email Newsletters  
 SOS from time to time offers free email newsletters to users, such as the eSub newsletter for subscribers and the Competition Winners newsletter. When users subscribe to any SOS newsletter, they are given the opportunity to opt in, or join, announcement lists administered directly by SOS. Users may have their email addresses removed from the opt-in announcement lists at any time by following the instructions printed in the email newsletters.
@@ -75,7 +84,7 @@ SOS uses any information _voluntarily_ given by our users to enhance their exper
 
   * As stated above, SOS uses information that users voluntarily provide in order to send out electronic newsletters and to enable users to participate in polls, competitions, discussion groups, and auctions. We send out email newsletters to subscribers on a regular basis (depending on the newsletter), and occasionally send out special editions when we think subscribers might be particularly interested in something we are doing (eg. attending an exhibition or launching a new service, etc). _SOS never shares newsletter mailing lists with any third parties, including advertisers or partners_ , but it may on occasion send newsletters on behalf of advertisers to members of announcement lists who have opted in to this service. 
   * We use tracking information to determine which areas of our sites users like and don't like, based on traffic to those areas. SOS does not track what individual users read, but rather how many times each article is viewed. This helps us continue to write more relevant articles and to build a better web site for you. 
-  * We track search terms entered in the main SOS earch engine and the SOS Forum search engine, as these are invaulable indicators of what interests our users. However, we don't track which terms a particular user enters. 
+  * We track search terms entered in the main Site search engine and the Forum search engine, as these are invaulable indicators of what interests our users. However, we don't track which terms a particular user enters. 
   * SOS creates aggregrate reports on user demographics and traffic patterns for ourselves and our advertisers. This enables our advertisers to advertise more effectively, and allows our users to receive advertisements that are pertinent to their interests. 
   * Data submitted during registration for opt-in email announcement newsletters is never shared with third parties. SOS may use aggregated data regarding users' responses to the opt-in email announcement newsletters program to improve the service and to provide information to the companies sending the opt-in email announcements and to other advertisers. 
 
@@ -98,6 +107,7 @@ SOS offers users the ability to correct or change the information collected duri
 6\. Delete/Deactivate Policy  
 Users may unsubscribe to any of our electronic newsletters at any time by following the instructions contained at the end of each newsletter you have subscribed to.
 
-_July 2003_
+_May 2008_
 
-| Sunday 31st December 2006
+  
+
