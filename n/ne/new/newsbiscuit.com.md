@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newsbiscuit.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203010907id_/http%3A//www.newsbiscuit.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsbiscuit.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605225044id_/http%3A//www.newsbiscuit.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | NewsBiscuit
 
