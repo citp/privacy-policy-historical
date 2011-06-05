@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the channelchooser.com privacy policy that was archived on 2009-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090527004058id_/http%3A//www.channelchooser.com/us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the channelchooser.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605033118id_/http%3A//www.channelchooser.com/we/privacy) for the most accurate reproduction.*
 
-# Watch Online Live TV Channels, Movies, Episodes and Television Shows on ChannelChooser. For Free.
+# ChannelChooser - Privacy Policy
 
 This Privacy Policy describes the collection, use and disclosure of information ChannelChooser.com. ("ChannelChooser") receives and collects when you access or use ChannelChooser services from the ChannelChooser website (located at www.ChannelChooser.com) (the "Site") or when you access or use ChannelChooser services via the websites of our video service distribution partners (the "Partner Sites"). 
 
