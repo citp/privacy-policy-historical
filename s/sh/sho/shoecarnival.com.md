@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the shoecarnival.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225090940id_/http%3A//www.shoecarnival.com/content/112/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoecarnival.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605173214id_/http%3A//www.shoecarnival.com/content/112/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Shoe Carnival :: Privacy Policy
 
 **Welcome**   
-Welcome to [http://www.shoecarnival.com/](https://web.archive.org/web/20101225090940id_/http%3A//www.shoecarnival.com/content/112/ww.shoecarnival.com/). This site is owned by Shoe Carnival, Inc. **Your privacy is very important to us.** This policy is intended to give you a clear understanding about our practices regarding collection, use, and disclosure of information that you may provide via this site. Please be sure to read this entire Privacy Policy before using or submitting information to this site.
+Welcome to [http://www.shoecarnival.com/](https://web.archive.org/web/20110605173214id_/http%3A//www.shoecarnival.com/content/112/ww.shoecarnival.com/). This site is owned by Shoe Carnival, Inc. **Your privacy is very important to us.** This policy is intended to give you a clear understanding about our practices regarding collection, use, and disclosure of information that you may provide via this site. Please be sure to read this entire Privacy Policy before using or submitting information to this site.
 
  **Your Consent**  
 By using this site, you agree to the terms of this Privacy Policy. Whenever you submit information via this site, you consent to the collection, use, and disclosure of that information in accordance with this Privacy Policy. 
