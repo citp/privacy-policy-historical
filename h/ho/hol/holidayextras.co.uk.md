@@ -1,15 +1,16 @@
-> *The following text is extracted and transformed from the holidayextras.co.uk privacy policy that was archived on 2010-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100317102700id_/http%3A//www.holidayextras.co.uk/about-us/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holidayextras.co.uk privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605100246id_/http%3A//www.holidayextras.co.uk/about-us/privacy-policy.html) for the most accurate reproduction.*
 
 # Holiday Extras - privacy policy | How we use your information
+
+"I would just like to thank you for the kind way you have dealt with us not only once but twice this year. We were unfortunate enough to not get away due to the ash cloud in April and you gave us a full refund, and again we were unlucky with the snow and then the spanish strike and a full refund was given. Without any hassle. What a professional service you have provided, we will continue to use you every time we fly. So again, thank you so much for helping us out,we lost a fair amount of money on both occasions, I wish other company's were more like you."  
+Kind Regards  
+**Marie & Paul Stone**
 
 "Once again I was given a speedy and professional service. The staff are always helpful and cheerful over the phone and make sure that you get the best deal around. Holiday Extras always makes your custom and you feel important and are always there to help with any questions or problems."  
 **Mr Lings**
 
-"Easily booked online on Christmas Day - when other companies' websites were offline!. Then we got very good service when we arrived in the middle of the night. Thank you."  
-**Mr McAllister**
-
-"I tried another parking group recently and was not impressed. I have always used Holiday Extras and the experience of using the other provider brought me straight back to where I know the service is 1st class."  
-**Mr Taylor**
+“I’ve used HolidayExtras.com on numerous occasions and I am always impressed with their service and their competitive prices. I find their website easy to navigate, use and I have the peace of mind that I know my car is looked after in their car parks. Their service and understanding during the volcanic ash disruption was amazing – a great demonstration of their dedication to customer service.”  
+**Gina Fox**
 
 "Really pleased with the easy and accurate service from Holiday Extras. Would definitely use again to add the finishing touches to our holiday."  
 **Mrs Golder**
@@ -20,7 +21,12 @@
 "Excellent service. We had a flat tyre on our return, but a compressor was provided to get us underway. We'll be booking again, and that says it all".  
 **Mr Addy**
 
-Our privacy policy
+**[Our latest awards](https://web.archive.org/about-us/holiday-extras-awards.html)**  
+**[Sponsorships](https://web.archive.org/about-us/holiday-extras-sponsorship.html)**  
+**[Registered office](https://web.archive.org/about-us/registered-office.html)**  
+**[Our trademarks](https://web.archive.org/about-us/holiday-extras-trademarks.html)**  
+**[Directions to Holiday Extras](https://web.archive.org/about-us/directions-holiday-extras.html)**  
+**[About you](https://web.archive.org/about-us/about-you.html)**
 
 ## What personal information do we ask for?
 
