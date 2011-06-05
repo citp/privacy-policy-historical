@@ -1,8 +1,10 @@
-<!--The following is the downloaded HTML source of the pjtv.com privacy policy that was archived on 2010-11-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101120190626id_/http%3A//www.pjtv.com/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pjtv.com privacy policy that was archived on 2011-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110606012814id_/http%3A//www.pjtv.com/privacy_policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en"><head>
+<!DOCTYPE html><html lang="en" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
   <title>PJTV - Privacy Policy</title>
+  
+
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   
   <meta name="google-site-verification" content="QTzdxLxppqyKvU34Zw-Ro2T44Cof0LLvXlLiW9Q3khU">
@@ -12,8 +14,9 @@
   <link rel="alternate" type="application/rss+xml" title="Video RSS Feed" href="/?cmd=video-rss">
   <link rel="icon" type="image/x-icon" href="/favicon.ico">
   <link rel="shortcut icon" href="/favicon.ico">
-  <link rel="stylesheet" type="text/css" href="http://cdn3.pjtv.com/css/main.css?20101118">
-  <script type="text/javascript" src="http://cdn3.pjtv.com/js/build/pjtv.lib.js?20101118"></script>
+  <link rel="stylesheet" type="text/css" href="http://cdn3.pjtv.com/css/main.css?20110601">
+  <link rel="stylesheet" type="text/css" href="http://cdn1.pjtv.com/css/macro.css?20110601">
+  <script type="text/javascript" src="http://cdn3.pjtv.com/js/build/pjtv.lib.js?20110601"></script>
   
 </head>
 <body>
@@ -43,7 +46,7 @@
         <td class="bl">
         
           <a href="http://www.pjtv.com/">Home</a>
-          <a href="http://www.pjtv.com/?cmd=library&amp;series-id=All&amp;tag-id=22&amp;from-date=All&amp;to-date=All&amp;include-future=false&amp;sort=date&amp;reverse=true&amp;page=1&amp;library-results-per-page=10&amp;all-text=false&amp;newValue=&amp;video-id=&amp;query-string-library=chetwynd">Library</a>
+          <a href="http://www.pjtv.com/?cmd=library&amp;series-id=All&amp;tag-id=22&amp;from-date=All&amp;to-date=All&amp;include-future=false&amp;sort=date&amp;reverse=true&amp;page=1&amp;library-results-per-page=10&amp;all-text=false&amp;newValue=&amp;video-id=&amp;query-string-library=">Library</a>
         
           <a href="http://www.pjtv.com/subscribe/">Subscribe</a>
           
@@ -60,6 +63,15 @@
     </tbody>
   </table>
 </div>
+<div id="fb-root"><script src="https://connect.facebook.net/en_US/all.js" async=""></script></div>
+<script type="text/javascript">
+(function() {
+  var e = document.createElement('script');
+  e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
+  e.async = true;
+  document.getElementById('fb-root').appendChild(e);
+}());
+</script>
 
 
 <div style="height:90px;position:relative;" class="noprint">&nbsp;</div>
@@ -67,15 +79,14 @@
 <style type="text/css">
 #achievement-notification
 {
-  border: 2px solid #a8abba;
   position: fixed;
-  width: 420px;
-  margin-left: 285px;
-  border: 1px solid #ff9b0b;
-  background: #ffffff;
-  color: #000000;
+  width: 507px;
+  margin-left: 265px;
+  background: transparent;
+  color: #21426a;
   z-index: 1001;
   display: none;
+  padding: 0;
 }
 #achievement-notification a,
 #achievement-notification b,
@@ -85,15 +96,57 @@
 }
 #achievement-notification-content
 {
-  padding: 20px;
+  padding: 0 17px;
+  width: 431px;
+}
+.achievement-notification-top
+{
+  width: 507px;
+  height: 45px;
+  background: transparent url(http://cdn3.pjtv.com/images//achievement/achievementNotification/popup_top.png?20110601) no-repeat 0 0;
+}
+.achievement-notification-bot
+{
+  width: 507px;
+  height: 67px;
+  background: transparent url(http://cdn3.pjtv.com/images//achievement/achievementNotification/popup_bot.png?20110601) no-repeat 0 0;
+}
+.achievement-notification-mid
+{
+  width: 507px;
+  background: transparent url(http://cdn3.pjtv.com/images//achievement/achievementNotification/popup_mid.png?20110601) repeat-y 0 0;
+}
+#achievement-notification-content-close
+{
+  width: 34px;
+  height: 33px;
+  top: 1px;
+  right: 35px;
+  position: absolute;
+  cursor: pointer;
+  /* background: url(/images/btn_delete.png) no-repeat -1px 0; */
+}
+#achievement-notification-content-close:hover
+{
+  background-position: -20px 0;
 }
 </style>
 <script type="text/javascript">
 function achievementNotification()
 {
-	
-    return false;
+	// refresh the mm page right side bar if applicable
+  if ( window.ManagedPage !== undefined
+		  && ManagedPage.achievementCategoryChartViewCategoryId != null
+		  && ManagedPage.achievementCategoryChartViewCategoryId != '' ) {
+    ManagedPage.generateRightSideBar(
+        ManagedPage.achievementCategoryChartViewCategoryId,
+        ManagedPage.achievementCategoryChartViewInvert,
+        ManagedPage.achievementCategoryChartViewReturnLink);
+  }
   
+
+     return false;
+
 }
 
 function toggleAchievementNotification()
@@ -111,7 +164,12 @@ function earnAchievement(type, item)
 </script>
 <div id="earn-achievement-ajax"></div>
 <div id="achievement-notification" class="user-search-form">
-  <div id="achievement-notification-content"></div>
+  <div id="achievement-notification-content-close" onclick="achievementNotification();"></div>
+  <div class="achievement-notification-top"></div>
+  <div class="achievement-notification-mid">
+    <div id="achievement-notification-content"></div>
+  </div>
+  <div class="achievement-notification-bot"></div>
 </div>
 
 
@@ -248,7 +306,7 @@ function earnAchievement(type, item)
     <a href="http://www.pjtv.com/?cmd=website-feedback-popup&amp;norId=55780" target="_blank" onclick="window.open('http://www.pjtv.com/?cmd=website-feedback-popup&amp;norId=55780', 'PJTV', 'width=650,height=650'); return false;">Contact Us</a>
   </div>
   <p id="copyright">
-  © PJTV 2008-2010
+  © PJTV 2008-2011
   </p>
 </div>
 
@@ -257,6 +315,13 @@ function earnAchievement(type, item)
 <div id="bn" style="position:absolute;top:56px;width:990px; ">
   <div class="sn">
     <ul class="t" style="margin:0;padding:0;">
+      
+      <li style="display:inline;z-index:15;">
+        
+        
+        <a class="featuredLink" href="http://www.pjtv.com/?cmd=mpg&amp;mpid=349&amp;series-id=89">James Poulos</a>
+        
+      </li>
       
       <li style="display:inline;z-index:15;">
         
@@ -296,6 +361,13 @@ function earnAchievement(type, item)
       <li style="display:inline;z-index:15;">
         
         
+        <a class="featuredLink" href="http://www.pjtv.com/?cmd=mpg&amp;mpid=56">Bill Whittle</a>
+        
+      </li>
+      
+      <li style="display:inline;z-index:15;">
+        
+        
         <a class="featuredLink" href="http://www.pjtv.com/?cmd=mpg&amp;mpid=90">Roger L. Simon</a>
         
       </li>
@@ -304,6 +376,12 @@ function earnAchievement(type, item)
         
         
         <a class="featuredLink" href="http://www.pjtv.com/?cmd=mpg&amp;mpid=163">Stephen Kruiser</a>
+        
+      </li>
+      
+      <li style="display:inline;z-index:15;">
+        
+        <a class="featuredLink" href="http://bit.ly/aewtx4">Tony Katz</a>
         
       </li>
       
@@ -344,27 +422,6 @@ function earnAchievement(type, item)
         
       </li>
       
-      <li style="display:inline;z-index:15;">
-        
-        <a class="featuredLink" href="http://bit.ly/9zMvQP">Panthergate Coverage</a>
-        
-      </li>
-      
-      <li style="display:inline;z-index:15;">
-        
-        <a class="featuredLink" href="/">Past Programs</a>
-        
-        <ul class="subnav" style="z-index:14;">
-          <li class="padding">&nbsp;</li>
-          
-          <li class="first"><a href="http://www.pjtv.com/?cmd=mpg&amp;mpid=56">Bill&nbsp;Whittle/Afterburner</a></li>
-          
-          <li><a href="http://www.pjtv.com/?cmd=mpg&amp;mpid=117">Medically&nbsp;Incorrect</a></li>
-          
-        </ul>
-        
-      </li>
-      
     </ul>
     <div class="d"></div>
     <ul class="b" style="margin:0;padding:0;z-index:4;">
@@ -372,21 +429,7 @@ function earnAchievement(type, item)
       <li style="display:inline;z-index:10;">
         
         
-        <a class="featuredLink" href="http://www.pjtv.com/?cmd=mpg&amp;mpid=183">Minority Report</a>
-        
-      </li>
-      
-      <li style="display:inline;z-index:10;">
-        
-        
-        <a class="featuredLink" href="http://www.pjtv.com/?cmd=mpg&amp;mpid=146" style="color:#ffcc66 !important;">PJTV MEMBERS ONLY  </a>
-        
-      </li>
-      
-      <li style="display:inline;z-index:10;">
-        
-        
-        <a class="featuredLink" href="http://www.pjtv.com/?cmd=mpg&amp;mpid=95">Tea Party TV</a>
+        <a class="featuredLink" href="http://www.pjtv.com/?cmd=mpg&amp;mpid=387" style="color:#ffcc66 !important;">Muslim Brotherhood</a>
         
       </li>
       
@@ -400,7 +443,42 @@ function earnAchievement(type, item)
       <li style="display:inline;z-index:10;">
         
         
+        <a class="featuredLink" href="http://www.pjtv.com/?cmd=mpg&amp;mpid=113">Front Page</a>
+        
+      </li>
+      
+      <li style="display:inline;z-index:10;">
+        
+        
+        <a class="featuredLink" href="http://www.pjtv.com/?cmd=mpg&amp;mpid=183">Minority Report</a>
+        
+      </li>
+      
+      <li style="display:inline;z-index:10;">
+        
+        
+        <a class="featuredLink" href="http://www.pjtv.com/?cmd=mpg&amp;mpid=146" style="color:#ffcc66 !important;">Members Only</a>
+        
+      </li>
+      
+      <li style="display:inline;z-index:10;">
+        
+        
+        <a class="featuredLink" href="http://www.pjtv.com/?cmd=mpg&amp;mpid=95">Tea Party </a>
+        
+      </li>
+      
+      <li style="display:inline;z-index:10;">
+        
+        
         <a class="featuredLink" href="http://www.pjtv.com/?cmd=mpg&amp;mpid=163">Kruiser Control</a>
+        
+      </li>
+      
+      <li style="display:inline;z-index:10;">
+        
+        
+        <a class="featuredLink" href="http://www.pjtv.com/?cmd=mpg&amp;mpid=349&amp;series-id=89" style="color:#ffcc66 !important;">The Bottom Line</a>
         
       </li>
       
@@ -414,7 +492,7 @@ function earnAchievement(type, item)
       <li style="display:inline;z-index:10;">
         
         
-        <a class="featuredLink" href="http://www.pjtv.com/?cmd=mpg&amp;mpid=119">More Shows</a>
+        <a class="featuredLink" href="http://www.pjtv.com/?cmd=mpg&amp;mpid=113">More  </a>
         
         <ul class="subnav" style="z-index:9;">
           <li class="padding">&nbsp;</li>
