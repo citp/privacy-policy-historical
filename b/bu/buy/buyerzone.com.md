@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buyerzone.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225015033id_/http%3A//www.buyerzone.com/corporate/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buyerzone.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606014633id_/http%3A//www.buyerzone.com/pages/corporate/privacy.html) for the most accurate reproduction.*
 
 # BuyerZone Privacy Policy
 
