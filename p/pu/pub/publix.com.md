@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the publix.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218030008id_/http%3A//www.publix.com/PrivacyPolicy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the publix.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605141416id_/http%3A//www.publix.com/PrivacyPolicy.do) for the most accurate reproduction.*
 
 # Publix Privacy Policy
 
@@ -284,7 +284,7 @@ _Publix FamilyStyle ® magazine subscription_
 
 
 
-[Health & Wellness](http://www.publix.com/wellness/WellnessAndPharmacy.do) section:
+[Wellness](http://www.publix.com/wellness/Home.do "Wellness") section:
 
 _Publix GreenWise Market ® magazine subscription_
 
@@ -351,7 +351,8 @@ If you apply online for a pharmacist position, Publix may collect the following 
 
 
 
-Publix also may request and gather information that is relevant to your consideration as a pharmacist candidate, such as information about your prior employment (required) and relevant experience (required), highest educational level attained (required), specific degrees obtained (optional), primary language (optional), additional languages spoken  (optional), desired job location (required), desired salary/pay rate (optional),  desired contractual status (required), eligibility status (required), immediate availability  (optional), date available (optional), resume (required), and a list of your core skills and their duration (required).  
+Publix also may request and gather information that is relevant to your consideration as a pharmacist candidate, such as information about your prior employment (required) and relevant experience (required), highest educational level attained (required), specific degrees obtained (optional), primary language (optional), additional languages spoken  (optional), desired job location (required), desired salary/pay rate (optional),  desired contractual status (required), eligibility status (required), immediate availability  (optional), date available (optional), resume (required), and a list of your core skills and their duration (required).
+
 You may also apply for certain store management, clerical, technical and professional openings in our Stores, our Corporate Offices, our Distribution Centers, our Manufacturing Plants, and related departments by visiting the online Publix Job Center.  If you complete an online application at the Publix Job Center, Publix may collect the following personal information:
 
   * User name and password (required) - to log in to the application page
@@ -417,7 +418,7 @@ Publix may also ask for some personal information, such as names, phone numbers,
 ** We will share aggregated demographic information with our partners and advertisers. This is not linked to any personal information that identifies any individual person. Publix may use your profile information (such as the number of people in your household, the number of pets you have, etc.) to create personalized content, offers, services, and advertising, but this information will only be used by Publix and its affiliates. Publix and its affiliates may release information when required to do so by law (for example, under a subpoena, court order or other regulatory requirement or to maintain or protect the security of the site).  
 
 **Security**  
-Publix uses secure connections during the transmission of pharmacy refill transactions, the transaction of Gift Card sales, and in the Publix Preschool Pals and Publix Baby Club sections of our site - specifically, with regard to Publix Preschool Pals and Publix Baby Club, the submission of online employment applications, those pages dealing with sign in, registration and membership information. This means that information collected during the transmission of pharmacy refill transactions, the transaction of Gift Card sales, and in the Publix Preschool Pals and Publix Baby Club sections of our site, the submission of online employment applications,  is encrypted before it is sent over the Internet between your computer and Publix computers. The technology used is called Secure Socket Layer (SSL). Through the use of this technology, your information collected during the transmission of pharmacy refill transactions, the transaction of Gift Card sales, and in the Publix Preschool Pals and Publix Baby Club sections of our site, and the submission of online employment applications, is encrypted on your computer, sent through the Internet as jumbled code and decoded on either Publix's secure server or the systems of the third party transacting the credit card sale. You can verify that the connection is secure because you will see a key or a padlock at the bottom of your browser. Another identifier of a secure connection is the URL (or Web site address); the address will change from [http://www.publix.com](http://www.publix.com/) to [https://www.publix.com](https://web.archive.org/) when a secure connection is in place.
+Publix uses secure connections during the transmission of pharmacy refill transactions, the transaction of Gift Card sales, and in the Publix Preschool Pals and Publix Baby Club sections of our site - specifically, with regard to Publix Preschool Pals and Publix Baby Club, the submission of online employment applications, those pages dealing with sign in, registration and membership information. This means that information collected during the transmission of pharmacy refill transactions, the transaction of Gift Card sales, and in the Publix Preschool Pals and Publix Baby Club sections of our site, the submission of online employment applications, is encrypted before it is sent over the Internet between your computer and Publix computers. The technology used is called Secure Socket Layer (SSL). Through the use of this technology, your information collected during the transmission of pharmacy refill transactions, the transaction of Gift Card sales, and in the Publix Preschool Pals and Publix Baby Club sections of our site, and the submission of online employment applications, is encrypted on your computer, sent through the Internet as jumbled code and decoded on either Publix's secure server or the systems of the third party transacting the credit card sale. You can verify that the connection is secure because you will see a key or a padlock at the bottom of your browser. Another identifier of a secure connection is the URL (or Web site address); the address will change from [http://www.publix.com](http://www.publix.com/) to [https://www.publix.com](https://web.archive.org/) when a secure connection is in place.
 
 **Links**  
 Our site may contain links to other sites. Please be aware that Publix is not responsible for the privacy policies of other sites. We encourage our shoppers to be aware when they leave our Web site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy policy applies solely to the information collected by our Web site.  
@@ -429,6 +430,6 @@ If we decide to change our privacy policy, we will post those changes on our hom
 Please let us know if you have any questions about our Privacy Policy. Simply send us an [e-mail](https://web.archive.org/contact/SendUsAMessage.do).  
 
 **COPYRIGHT NOTICE**  
-Copyright© 2010 Publix Asset Management Company. All rights reserved. Any rights not expressly granted herein are reserved.  
+Copyright© 2011 Publix Asset Management Company. All rights reserved. Any rights not expressly granted herein are reserved.  
 
-Last modified: 10/2010
+Last modified: 1/2011
