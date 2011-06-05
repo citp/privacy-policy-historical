@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jostens.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205014000id_/http%3A//www.jostens.com/apps/shop/help/shared/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jostens.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605195740id_/http%3A//www.jostens.com/apps/shop/help/shared/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
