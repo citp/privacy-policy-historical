@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the megauploadindex.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123210339id_/http%3A//www.megauploadindex.com/terms.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the megauploadindex.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605193410id_/http%3A//www.megauploadindex.com/terms.php) for the most accurate reproduction.*
 
 # Software/Movie/Music/Ebook Store associates with Amazon!
 
