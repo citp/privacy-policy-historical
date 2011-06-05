@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ymail.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204023336id_/http%3A//privacy.yahoo.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ymail.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605052031id_/http%3A//privacy.yahoo.com) for the most accurate reproduction.*
 
 # Yahoo! Privacy Policy
 
@@ -20,7 +20,7 @@ This policy does not apply to the practices of companies that Yahoo! does not ow
 
 Yahoo! participates in the Safe Harbor program developed by the U.S. Department of Commerce and the European Union. To view our certification, visit the U.S. Department of Commerce's [Safe Harbor Web site](http://www.export.gov/safeharbor/). For more information about Yahoo!'s participation in the Safe Harbor program, please visit our [Safe Harbor](http://info.yahoo.com/privacy/us/yahoo/safeharbor/) details page.
 
-Return to Top
+Return to top
 
 ## INFORMATION COLLECTION AND USE
 
@@ -44,7 +44,7 @@ Yahoo! does not contact children under age 13 about special offers or for market
 
 Yahoo! does not ask a child under age 13 for more personal information, as a condition of participation, than is reasonably necessary to participate in a given activity or promotion.
 
-Return to Top
+Return to top
 
 ## INFORMATION SHARING AND DISCLOSURE
 
@@ -67,7 +67,7 @@ Yahoo! displays targeted advertisements based on personal information. Advertise
 
 Yahoo! works with vendors, partners, advertisers, and other service providers in different industries and categories of business. For more information regarding providers of products or services that you've requested please read our detailed [reference links](http://info.yahoo.com/privacy/us/all/). 
 
-Return to Top
+Return to top
 
 ## COOKIES
 
@@ -94,11 +94,11 @@ You can delete your Yahoo! account by visiting our [Account Deletion](https://ed
 
 ### Children
 
-Parents can review, edit, and delete information relating to their child's Yahoo! account using tools offered by [Yahoo! Family Accounts](http://family.yahoo.com/). 
+Parents can review, edit, and delete information relating to their child's Yahoo! account using tools offered by [Yahoo! Family Accounts](http://info.yahoo.com/privacy/us/family/details.html). 
 
 If a parent chooses not to allow us to further collect or use a child's information, parents enrolled in Yahoo! Family Accounts can delete their child's account by signing into that child's account and then visiting our [Account Deletion](https://edit.yahoo.com/config/delete_user) page. Please [click here](http://info.yahoo.com/privacy/us/yahoo/datastorage/) to read about information that might possibly remain in our archived records after your account has been deleted. 
 
-Return to Top
+Return to top
 
 ## CONFIDENTIALITY AND SECURITY
 
@@ -112,13 +112,11 @@ To learn more about security, including the security steps we have taken and sec
 
 Yahoo! may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your Yahoo! account or by placing a prominent notice on our site. 
 
-Return to Top
+Return to top
 
 ## QUESTIONS AND SUGGESTIONS
 
-[Yahoo! is TRUSTe-certified](http://clicktoverify.truste.com/pvr.php?page=validate&url=www.yahoo.com&sealid=101). This certification applies to all English-language sites under the Yahoo.com domain. If you feel that your inquiry has not been satisfactorily addressed, you should contact [TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php), an independent privacy organization. TRUSTe serves as a liaison with Yahoo! to resolve your concern. 
-
-If you have questions or suggestions, please complete a [feedback form](http://add.yahoo.com/fast/help/us/privacy/cgi_feedback?radio30=radio305) or you can contact us at:
+If you have questions, suggestions, or wish to make a complaint, please complete a [feedback form](http://add.yahoo.com/fast/help/us/privacy/cgi_feedback?radio30=radio305) or you can contact us at:
 
 Yahoo! Inc.  
 Customer Care - Privacy Policy Issues  
@@ -126,6 +124,8 @@ Customer Care - Privacy Policy Issues
 Sunnyvale, CA 94089  
 (408) 349-5070
 
+If you feel that your inquiry has not been satisfactorily addressed, please click [here](http://info.yahoo.com/privacy/us/yahoo/consumeragencies/) for information on consumer agencies that may be able to provide you with additional assistance.
+
 Effective Date: November 22, 2006
 
-Return to Top
+Return to top
