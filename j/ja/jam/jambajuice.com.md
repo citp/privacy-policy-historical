@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jambajuice.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120211955id_/http%3A//www.jambajuice.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jambajuice.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605123111id_/http%3A//www.jambajuice.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Jamba Juice
 
@@ -34,7 +34,7 @@ The Site may contain links to other sites, including among others those of adver
 
 **How You Can Access or Correct Your Information**
 
-You can access, change, or delete information pertaining to your jambacard registration at the Manage Profile section after you have signed into your account on the Site. You can also change other personally identifiable information you have provided to us, by going to the [Contact Us](http://www.jambajuice.com/contactus) section of the Site, and sending us an e-mail request.
+You can access, change, or delete information pertaining to your jambacard registration at the Manage Profile section after you have signed into your account on the Site. You can also change other personally identifiable information you have provided to us, by going to the [Contact Us](https://web.archive.org/contactus) section of the Site, and sending us an e-mail request.
 
 **Security**
 
@@ -42,7 +42,7 @@ In connection with the jambacard, your personally identifiable and financial inf
 
 **Contact Us**
 
-If you have any questions or concerns regarding this privacy policy or our use of your information, please call us at 1-866-4R-FRUIT, [Contact Us](http://www.jambajuice.com/contactus) via e-mail or write to us at Jamba Juice Support Center, 6475 Christie Avenue, Suite 150, Emeryville, CA 94608.
+If you have any questions or concerns regarding this privacy policy or our use of your information, please call us at 1-866-4R-FRUIT, [Contact Us](https://web.archive.org/contactus) via e-mail or write to us at Jamba Juice Support Center, 6475 Christie Avenue, Suite 150, Emeryville, CA 94608.
 
 For privacy or security questions regarding the jambacard, please call us at 1-866-4R-FRUIT or contact us via e-mail at [jambacard@jambajuice.com](mailto:jambacard@jambajuice.com) or write to us at Jamba Juice Support Center, 6475 Christie Avenue, Suite 150, Emeryville, CA 94608.
 
