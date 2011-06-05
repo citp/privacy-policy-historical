@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toursbylocals.com privacy policy that was archived on 2010-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100218145714id_/http%3A//www.toursbylocals.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toursbylocals.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606000340id_/http%3A//www.toursbylocals.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
