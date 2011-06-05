@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the ecvv.com privacy policy that was archived on 2010-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100111053709id_/http%3A//www.ecvv.com/aboutus/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecvv.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606014500id_/http%3A//www.ecvv.com/aboutus/Privacy_Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | ecvv.com
-
-## Privacy Policy
 
 Welcome to Ecvv.com,This is our policy to protect your own privacy. By using this site, you may be clear with how your personal information is used and the process of our work. This policy may change without notice, so please check back periodically. 
 
