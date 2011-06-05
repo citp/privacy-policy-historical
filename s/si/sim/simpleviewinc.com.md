@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the simpleviewinc.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121170628id_/http%3A//www.simpleviewinc.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simpleviewinc.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605184804id_/http%3A//www.simpleviewinc.com/privacy) for the most accurate reproduction.*
 
-# simpleview Inc. | CVB Tourism Software | Destination Marketing Solutions
+# Destination Marketing Solutions | CVB Tourism Software | simpleview Inc.
 
 **simple** view, inc. values your privacy. That's why we're doing everything we can to protect your personal information. This Privacy Policy explains what personal information we collect, what we do with it, what we don't do with it, and how we keep it safe. By visiting this website, you are accepting the practices described in this Privacy Policy.
 
