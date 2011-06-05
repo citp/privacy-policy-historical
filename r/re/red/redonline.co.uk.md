@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the redonline.co.uk privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206080824id_/http%3A//www.redonline.co.uk/pages/privacy2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redonline.co.uk privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605192221id_/http%3A//www.redonline.co.uk/pages/privacy2) for the most accurate reproduction.*
 
-# Privacy / Pages / Home - REDONLINE
-
-Pages
-
-### Privacy
-
-###### David Martin, Tuesday 30 November 2010
+# Privacy / Pages / Home Page - Red Online
 
 Hachette Filipacchi (UK) Limited:  
 **PRIVACY POLICY**  
