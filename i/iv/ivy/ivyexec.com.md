@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the ivyexec.com privacy policy that was archived on 2009-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090503114146id_/http%3A//www.ivyexec.com/professionals/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ivyexec.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605115505id_/https%3A//www.ivyexec.com/professionals/page/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Ivy Exec, Intelligence @ Work, Jobs for highly qualified professionals
+# Privacy Policy | Ivy Exec
+
+### Privacy Statement
 
 Ivy Exec is committed to respecting the privacy of our users and providing a safe and secure experience for all professionals and employers. Please read the following to learn about the ways in which we collect and use your information. Ivy Exec contains links to other Web sites over which we have no control. We are not responsible for the privacy policies or practices of other Web sites to which you choose to link from our Sites. We encourage you to review the privacy policies of those other Web sites so you can understand how they collect, use and share your information.
 
@@ -16,7 +18,9 @@ The personal contact information (i.e. street address, phone number, email addre
 
 In your use of the site, we store such information as jobs you've applied to, jobs you've viewed, your resume, and similar information. We use this information for our internal purposes and do not share it with any third parties.
 
-We use Pay Pal to provide credit card processing services on our site. For more information on PayPal's privacy policy, click [here](http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/ua/policy_privacy-outside).
+We use Pay Pal to provide credit card processing services on our site. For more information on PayPal's privacy policy, click here.
+
+If you choose to use IvyExec.com's invitation service to tell a friend about our site, we will ask you for information needed to send the invitation, such as your friend's email address. If you choose to import your friend's information, IvyExec.com will not store your password after importing your friend's information. We will send your friend an email in your name inviting him or her to visit the site, and may send up to three reminders to them. Your friend may contact us at http://www.ivyexec.com:8080/remove to request that we remove this information from our database.
 
 ### Internet Protocol Address
 
