@@ -1,20 +1,21 @@
-> *The following text is extracted and transformed from the webwiz.co.uk privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610063731id_/http%3A//www.webwiz.co.uk/legal/privacy_statement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webwiz.co.uk privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605024907id_/http%3A//www.webwiz.co.uk/legal/privacy-statement.htm) for the most accurate reproduction.*
 
 # Web Wiz Data Protection and Privacy Policy
 
 |    
   
+  
 
 
-'Web Wiz' is committed to respecting the privacy of individuals who use the 'Web Wiz' web sites and operate and are registered under the The UK Data Protection Act, registration number Z9639938, you can view the full Privacy Statement below. 
+'Web Wiz' is committed to respecting the privacy of individuals who use the 'Web Wiz' websites and operate and are registered under the The UK Data Protection Act, registration number Z9639938, you can view the full Privacy Statement below. 
 
   1. **Please find below our privacy policy for 'Web Wiz'**  
-We are 'Web Wiz' and our registered address is Unit 10E Dawkins Road Industrial Estate, Poole, Dorset, England. Web Wiz takes the privacy of its customers data very seriously. Please read the following policy to understand how we will treat your personal data after it has been collected by us through your use of this web site.
+We are 'Web Wiz' and our registered address is Unit 10E Dawkins Road Industrial Estate, Poole, Dorset, England. Web Wiz takes the privacy of its customers data very seriously. Please read the following policy to understand how we will treat your personal data after it has been collected by us through your use of this website.
   2. **When do we collect data?**  
 We can collect data on you from a variety of different sources these include. 
     1. When you purchase products or services from the site or via any of our other distribution channels. 
     2. When you become a subscriber;
-    3. When you enter data into a form on the web site; 
+    3. When you enter data into a form on the website; 
     4. When you speak to our customer services personnel; 
     5. When you activate your product via our License Activation Server 
     6. Via explicit data capture measures, for example by entering competitions, completing surveys, registering products, registering to use the support forum; 
@@ -42,9 +43,9 @@ By their very nature the Forum, Guestbook, Listing Directories, etc. are open to
 Parents or guardians that find that their children have given private information in accessing any parts of 'Web Wiz' can request that this information be destroyed by emailing using the [contact us form](https://web.archive.org/contact/). 
 
   6. **Cookies**  
-Each web site owned and operated by 'Web Wiz' uses cookies. A cookie is a small text file of which there are two types:  
+Each website owned and operated by 'Web Wiz' uses cookies. A cookie is a small text file of which there are two types:  
 **  
-Session cookies:** These are used to maintain something called session state. If you consider your journey through the site to be a conversation with us and this cookie just reminds the site where we were in that conversation. These are required for the site to function for example when you login into client or forum areas of the web site or make a purchase. 
+Session cookies:** These are used to maintain something called session state. If you consider your journey through the site to be a conversation with us and this cookie just reminds the site where we were in that conversation. These are required for the site to function for example when you login into client or forum areas of the website or make a purchase. 
 
 **Permanent cookies:** These store data on your hard drive. You can view them by looking in the cookies directory of your browser installation if you are interested. They last for a long time and each time you come to our site you send us a copy of them. We use them to identify you between visits. For instance when you login into the support or community forums a cookie is created to maintain your login to the system. 
 
@@ -53,11 +54,11 @@ You can block cookies but they are required for certain parts if the site to wor
   7. **Data**  
 In the UK we operate and are registered in accordance with applicable data protection legislation.
   8. **Consent**  
-By disclosing your personal information to us using this web site or over the telephone, you consent to the collection, storage and processing of your personal information by 'Web Wiz' in the manner set out in this Privacy Policy. Some information and emails sent to 'Web Wiz' may be used as testimonials but no email address or contact details will be displayed.
+By disclosing your personal information to us using this website or over the telephone, you consent to the collection, storage and processing of your personal information by 'Web Wiz' in the manner set out in this Privacy Policy. Some information and emails sent to 'Web Wiz' may be used as testimonials but no email address or contact details will be displayed.
   9. **Change/Modify Details**  
-If you need to Modify or Change your personal details after you have made a purchase or registered to use certain parts of the web site please contact us as soon as possible.
+If you need to Modify or Change your personal details after you have made a purchase or registered to use certain parts of the website please contact us as soon as possible.
   10. **Contact**  
-If you have any questions or concerns about the information we hold about you, you can also [contact us.](http://www.webwizguide.info/contact/default.asp)
+If you have any questions or concerns about the information we hold about you, you can also [contact us.](https://web.archive.org/contact/)
 
 
 
