@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webhostingbuzz.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223212329id_/http%3A//www.webhostingbuzz.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webhostingbuzz.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605203317id_/http%3A//www.webhostingbuzz.com/privacy-policy.php) for the most accurate reproduction.*
 
 # WebHostingBuzz's Privacy Policy
 
