@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the dh.gov.uk privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206002908id_/http%3A//www.dh.gov.uk/en/Privacypolicy/DH_4110944) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dh.gov.uk privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605180348id_/http%3A//www.dh.gov.uk/en/Privacypolicy/DH_4110944) for the most accurate reproduction.*
 
 # Privacy policy : Department of Health - Privacy policy
 
-## Privacy policy
+## Privacy and cookies
 
   * **Last modified date:**
 
-27 November 2008
+26 May 2011
 
 
 
@@ -19,9 +19,55 @@ In accordance with the Data Protection Act, we have a legal duty to protect any 
 
 ### Site usage
 
-We do not use cookies for collecting user information.  Log files allow us to record visitor's use of the site to enable us to enhance the future layout of the site.  The data we gather in this way does not contain any personal information or information about which other sites you have visited.
-
 If you provide feedback on our website we will only use it to develop and improve the site.  We will keep the actual feedback for six months after which it will be deleted but analysis of feedback may be kept.
+
+When we provide services, we want to make them easy, useful and reliable. Where services are delivered on the internet, this sometimes involves placing small amounts of information on your device, for example, computer or mobile phone. These include small files known as cookies. They cannot be used to identify you personally.
+
+These pieces of information are used to improve services for you through, for example:
+
+  * enabling a service to recognise your device so you don't have to give the same information several times during one task
+  * recognising that you may already have given a username and password so you don't need to do it for every web page requested
+  * measuring how many people are using services, so they can be made easier to use and there's enough capacity to ensure they are fast
+
+
+
+You can manage these small files yourself and learn more about them through "Internet browser cookies - what they are and how to manage them".  
+
+
+  * [Managing cookies - more information available on the Directgov website  (opens new window)](http://www.direct.gov.uk/managingcookies)
+
+
+
+### Our use of cookies
+
+We use the following cookies on our website
+
+  **Cookie** : Speed-trap  
+ **Name** : dohCSADBID, dohCSAuvt  
+ **Purpose** : So service is available when you want it and fast, we measure numbers and volumes of visitors.
+
+  
+ **Cookie** : Speed-trap  
+ **Name** : usy46gabsosd  
+ **Purpose** : To understand what visitors want to use and not to use, so we can improve the service you receive and archive what is not used
+
+ **Cookie** : Google Analytics  
+ **Name** :__utma, __utmb, __utmz, __qca  
+ **Purpose** : So service is available when you want it and fast, we measure numbers and volumes of visitors.
+
+  
+ **Cookie** : ReCaptcha  
+ **Name** : PREF  
+ **Purpose** : To remember your selections or preferences that you’ve already made when looking at information or using a service. We use this in our email this page functionality.
+
+ **Cookie** : ReCaptcha  
+ **Name** : NID  
+ **Purpose** : In completing a task, to enable you to complete the task without re-entering information already given. We use this in our email this page functionality.
+
+  
+ **Cookie** : Bespoke cookie  
+ **Name** : STYLE  
+ **Purpose** : To remember your selections or preferences that you’ve already made when looking at information or using our service.
 
 ### Statement coverage
 
@@ -38,10 +84,3 @@ If the privacy policy changes in any way, we will place an updated version on th
 ### Contacting us
 
 If you have any questions about this privacy statement or the practices of this site, please:
-
-### Glossary of terms
-
-  * Cookies are files containing information about visitors to a web site (e.g. user name and preferences). This information is provided by the user during the first visit to a web server. The server records this information in a text file and stores this file on the visitor's hard drive. When the visitor accesses the same web site again the server looks for the cookie and configures itself based on the information provided.
-  * Log files are files created by a web or proxy server which contains all of the access information regarding the activity on that server.
-
-
