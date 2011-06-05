@@ -1,631 +1,705 @@
-<!--The following is the downloaded HTML source of the toptable.co.uk privacy policy that was archived on 2009-02-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090216124158id_/http%3A//www.toptable.co.uk/feature.cfm%3FfID%3D8) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the toptable.co.uk privacy policy that was archived on 2011-06-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110605071920id_/http%3A//www.toptable.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html><head>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<script type="text/javascript" src="/script/elo.js"></script>
-<script type="text/javascript" src="/script/domFunctions.js"></script>
-<script type="text/javascript" src="/script/showMapLink.js"></script>
-<script type="text/javascript">ELO.functionsToCallOnload.push("showMapLink('rFinderMapResults')");</script>
-<link rel="stylesheet" media="all" href="/styles/firefox.css" type="text/css">
-<link rel="stylesheet" media="all" href="/styles/alt_layout.css" type="text/css">
-<link rel="stylesheet" media="all" href="/styles/newStyles.css" type="text/css">
-<script language="javascript1.2" src="/includes/drag.cfm" type="text/javascript"></script>
-<script language="JavaScript1.2">//quicksearch checker
-function checksearch(aForm) {
-if ((aForm.search.value == '') || (aForm.search.value == 'search')){
-eerrorCenter('Sorry, please could you enter something into the quick search box. Thanks');
-}
-else {
-aForm.submit();
-}
-return false;
-}
-function menu_mouseOver(menuName,color) {
-picCell = document.getElementById(menuName + 'picCell');
-picCell.style.backgroundColor = color;
-}
-function menu_mouseLeave(menuName) {
-picCell = document.getElementById(menuName + 'picCell');
-picCell.style.backgroundColor = '';
-}
-function ResetTime(time) {
-if (time == "Exact") {
-document.frmBook.TimeExact.value = "";
-} 
-else {
-document.frmBook.from.value = "";
-document.frmBook.to.value = "";
-}
-}
-function IsNumeric(strString) {
-   var strValidChars = "0123456789";
-   var strChar;
-   var blnResult = true;
-   if (strString.length == 0) return false;
-   //  test strString consists of valid characters listed above
-   for (i = 0; i < strString.length && blnResult == true; i++)
-  {
-  strChar = strString.charAt(i);
-  if (strValidChars.indexOf(strChar) == -1)
- {
- blnResult = false;
- }
-  }
-   return blnResult;
-}
-function checkRestFinder(frm) {
-var frmyear = frm.Month.value.substring(0,4);
-var frmmonth = frm.Month.value.substring(4, 6);
-var frmday = frm.Day.value;
-var today = new Date();
-if ((frmyear == today.getYear) && (frmmonth == (today.getMonth + 1)) && (frmday < today.getDay)) {
-eerrorCenter('Sorry, please can you choose a diferent date becuase you cannot search for a date in the past. Thanks');
-}
-/* else if (frm.size.value == '') {
-try {
-eerrorCenter('Sorry, please could you enter the number of people you\'d like to search for. Thanks');
-}
-catch (ex) {
-alert(ex.message);
-}
-} */
-else if (frm.size.value != '' && IsNumeric(frm.size.value) == false) {
-try {
-eerrorCenter('Sorry, please could you double check the number of people you\'d like to search for as it doesn\'t appear to be a number. Thanks');
-}
-catch (ex) {
-alert(ex.message);
-}
-}
-else {
-frm.submit();
-}
-return false;
-}
-function submitLoginForm() {
-aForm = document.loginForm;
-if (aForm.email.value == '') {
-eerrorCenter('Sorry, please could you enter your email. Thanks');
-aForm.email.focus();
-return false;
-}
-else if (aForm.password.value == '') {
-eerrorCenter('Sorry, please could you enter your password. Thanks');
-aForm.password.focus();
-return false;
-}
-else {
-aForm.submit();
-}
-}
-function left(str, n){
-if (n <= 0)
-return "";
-else if (n > String(str).length)
-return str;
-else
-return String(str).substring(0,n);
-}
-function right(str, n){
-if (n <= 0)
-   return "";
-else if (n > String(str).length)
-   return str;
-else {
-   var iLen = String(str).length;
-   return String(str).substring(iLen, iLen - n);
-}
-}
-function popupxy(url,x,y) {
-leftPos = 0;
-topPos = 0;
-if (screen) {
-leftPos = (screen.width / 2) - (x/2);
-topPos = (screen.height / 2) - (y/2);
-}
-if (left(url, 1) != '/') {
-window.open('http://www.toptable.co.uk/' + url,'','width=' + x + ',height=' + y + ',left='+leftPos+',top='+topPos+',toolbar=none,scrollbars=none');
-}
-else {
-window.open('http://www.toptable.co.uk' + url,'','width=' + x + ',height=' + y + ',left='+leftPos+',top='+topPos+',toolbar=none,scrollbars=none');
-}
-}
-window.name = "main";
-var currentTopFiveSection = 'booked';
-function showTopFiveSection(section) {
-hideTopFiveSection();
-document.getElementById('topFive_' + section).style.display = '';
-document.getElementById('topFive_' + section + '_header').className = 'topFive_active';
-currentTopFiveSection = section;
-}
-function hideTopFiveSection() {
-document.getElementById('topFive_' + currentTopFiveSection).style.display = 'none';
-document.getElementById('topFive_' + currentTopFiveSection + '_header').className = 'topFive_inactive';
-currentTopFiveSection = '';
-}
-var currentGroupsTopFiveSection = 'rated';
-function showGroupsTopFiveSection(section) {
-hideGroupsTopFiveSection();
-document.getElementById('groupsTopFive_' + section).style.display = '';
-document.getElementById('groupsTopFive_' + section + '_header').className = section + '_active';
-currentGroupsTopFiveSection = section;
-}
-function hideGroupsTopFiveSection() {
-document.getElementById('groupsTopFive_' + currentGroupsTopFiveSection).style.display = 'none';
-document.getElementById('groupsTopFive_' + currentGroupsTopFiveSection + '_header').className = currentGroupsTopFiveSection + '_inactive';
-currentGroupsTopFiveSection = '';
-}
-function checkEnter(e){ //e is event object passed from function invocation
-var characterCode //literal character code will be stored in this variable
-if(e && e.which){ //if which property of event object is supported (NN4)
-e = e
-characterCode = e.which //character code is contained in NN4's which property
-}
-else { e = event
-characterCode = e.keyCode //character code is contained in IE's keyCode property
-}
-if(characterCode == 13){ //if generated character code is equal to ascii 13 (if enter key)
-document.forms[0].submit() //submit the form
-return false } else {return true }
-}</script>
-<script language="JavaScript" src="/script/errScripts.cfm" type="text/javascript"></script>
-<script language="JavaScript" src="/script/wz_dragdrop.js" type="text/javascript"></script>
-<script language="JavaScript" src="/script/bikky.js" type="text/javascript"></script>
-<script language="JavaScript" src="/script/tracking.js" type="text/javascript"></script>
-<script src="/script/swfobject.js" language="javascript" type="text/javascript"></script>
-<script src="/script/mootools.v1.11.js" type="text/javascript"></script>
-<title>privacy statement - Online UK and London Restaurants Booking and Guide from toptable.co.uk</title>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<meta name="keywords" content="privacy statement, london restaurant guide, online restaurant booking, business lunches, restaurant special offers, spanish, japanese, italian, indian, private room, pre-theatre, greek, chinese, vegetarian, thai, paris, west end, london">
-<meta name="description" content="Find, view and book quality Restaurants online in London and throughout the UK, Paris and Dublin with toptable.co.uk">
-<script language="javascript" type="text/javascript">
-function docLoaded() {
-/*writeTracking();*/
-}
-</script>
-<meta name="y_key" content="3fe337c376316395"> 
-<meta name="verify-v1" content="kNi8vD2Nvwk7F8QyQEpI1WlEhdY3ZBZ4fxaO8bW9P7o="> 
-</head>
-<body>
-<noscript>
-<p>Your browser does not appear to support Javascript.</p>
+<!DOCTYPE html><html id="ctl00_pageHtmlTag" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns="http://www.w3.org/1999/xhtml" lang="en-GB" xml:lang="en-GB"><head id="ctl00_pageHtmlHead"><link rel="canonical" href="http://www.toptable.com/privacy/"><link href="/styles/tt-styles-min.css?ver=40.0" rel="stylesheet" media="screen, print"><link href="/styles/print-min.css?ver=40.0" rel="stylesheet" media="print">
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">document.write("<style type=\"text/css\">.js-sol{display:block!important;}.js-hol{display:none!important;}</style>");</script><style type="text/css">.js-sol{display:block!important;}.js-hol{display:none!important;}</style>
+    
+    <!--[if IE 6]>
+        <link href='/styles/ie6-min.css?ver=40.0' rel='stylesheet' media='screen, print'/>
+    <![endif]-->
+    <!--[if IE 7]>
+        <link href='/styles/ie7-min.css?ver=40.0' rel='stylesheet' media='screen, print'/>
+    <![endif]-->
+
+    <meta charset="utf-8"><meta id="ctl00_metaDescription" name="description" content="toptable is a leading online restaurant booking service in the UK, which features some of the top restaurants in over 15 countries."><meta id="ctl00_metaKeywords" name="keywords" content="venue, restaurant, bar, club, reviews, booking, online"><meta name="verify-v1" content="s8S0ny2OsScY8FTcpYDNVcYaVdTURdJ6kReJCa2itCI="><meta name="msvalidate.01" content="284B9E010AE04E7A5C7709C5425A6605"><link rel="apple-touch-icon" href="//media.toptable.com/images/icons/iphone-homescreen.png"><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script><title>
+	Privacy statement 
+</title></head>
+
+<body id="ctl00_pageBody">
+
+    <form name="aspnetForm" method="post" action="#" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNzUxNzI5NjY5D2QWAmYPZBYCAgEPFgQeBGxhbmcFBWVuLUdCHgh4bWw6bGFuZwUFZW4tR0IWBAIBD2QWBmYPFgIeBFRleHQFQDxsaW5rIHJlbD0iY2Fub25pY2FsIiBocmVmPSJodHRwOi8vd3d3LnRvcHRhYmxlLmNvbS9wcml2YWN5LyIgLz5kAgIPFgIeB2NvbnRlbnQFgwF0b3B0YWJsZSBpcyBhIGxlYWRpbmcgb25saW5lIHJlc3RhdXJhbnQgYm9va2luZyBzZXJ2aWNlIGluIHRoZSBVSywgd2hpY2ggZmVhdHVyZXMgc29tZSBvZiB0aGUgdG9wIHJlc3RhdXJhbnRzIGluIG92ZXIgMTUgY291bnRyaWVzLmQCCw8WAh8CBXI8c2NyaXB0IHBpbiB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiIHNyYz0iaHR0cDovL2FqYXguZ29vZ2xlYXBpcy5jb20vYWpheC9saWJzL2pxdWVyeS8xLjUuMS9qcXVlcnkubWluLmpzIj48L3NjcmlwdD5kAgMPZBYCAgEPZBYMAgYPZBYCAgEPFgIeB1Zpc2libGVoZAIIDw8WAh8EaGRkAgkPZBYCAgEPZBYIAgMPEGRkFgBkAgUPDxYCHwIFAkdvZGQCBw8PFgIeDEVycm9yTWVzc2FnZQUpUGxlYXNlIGVudGVyIGEgc2VhcmNoIHRlcm0gZS5nLiBSaG9kZXMgMjRkZAIJDw8WAh8FBS9TZWFyY2ggdGVybXMgbXVzdCBiZSBhdCBsZWFzdCAzIGNoYXJhY3RlcnMgbG9uZ2RkAg0PZBYCAgEPZBYSZg8PFgIfBGhkFgICAQ8UKwACZGRkAgkPFgIfBGdkAgsPFgIfBGhkAg4PZBYEAgEPFgIfBGdkAgMPDxYCHwRnZGQCDw8PFgIfBGhkFgICAQ9kFgICAQ8PFgIeC05hdmlnYXRlVXJsBRYvbG9jYXRpb24vdHJlZS8/bD0zMzAzZGQCEA9kFgYCAQ9kFgICAQ8PFgIfBgUXL2xvY2F0aW9uL3dvcmxkLz9sPTMyOTlkZAIDDxYCHgtfIUl0ZW1Db3VudAIDFgYCAQ9kFgICAQ8PFgYfBgUWL2xvY2F0aW9uL2NvbnRlbnQvP2w9Nx8CBQZMb25kb24eB1Rvb2xUaXAFBkxvbmRvbmRkAgIPZBYCAgEPDxYGHwYFGS9sb2NhdGlvbi9jb250ZW50Lz9sPTMzMDUfAgUFUGFyaXMfCAUFUGFyaXNkZAIDD2QWAgIBDw8WBh8GBRkvbG9jYXRpb24vY29udGVudC8/bD0zMzA3HwIFCE5ldyBZb3JrHwgFCE5ldyBZb3JrZGQCBQ8WAh8HAgcWEAIBD2QWAgIBDw8WBh8GBRkvbG9jYXRpb24vY29udGVudC8/bD0zMzI0HwIFBk1hZHJpZB8IBQZNYWRyaWRkZAICD2QWAgIBDw8WBh8GBRkvbG9jYXRpb24vY29udGVudC8/bD0zMzA0HwIFBFJvbWUfCAUEUm9tZWRkAgMPZBYCAgEPDxYGHwYFGS9sb2NhdGlvbi9jb250ZW50Lz9sPTMzMTQfAgUJQW1zdGVyZGFtHwgFCUFtc3RlcmRhbWRkAgQPZBYCAgEPDxYGHwYFGS9sb2NhdGlvbi9jb250ZW50Lz9sPTMzMTYfAgUIQnJ1c3NlbHMfCAUIQnJ1c3NlbHNkZAIFD2QWAgIBDw8WBh8GBRkvbG9jYXRpb24vY29udGVudC8/bD0zMzE5HwIFBkJlcmxpbh8IBQZCZXJsaW5kZAIGD2QWAgIBDw8WBh8GBRkvbG9jYXRpb24vY29udGVudC8/bD0zNDU0HwIFBkxpc2Jvbh8IBQZMaXNib25kZAIHD2QWAgIBDw8WBh8GBRkvbG9jYXRpb24vY29udGVudC8/bD0zNTA0HwIFCU1hcnJha2VjaB8IBQlNYXJyYWtlY2hkZAIID2QWAmYPFQEXL2xvY2F0aW9uL3dvcmxkLz9sPTMyOTlkAhIPZBYCAgEPDxYEHwYFQ2h0dHA6Ly9teW9mZmVycy5jby51az9zcmM9MjA0NTk5JmNpZD0yMTA2JnI9MSZub3BvcHVwPTEmcHJvbW9pZD0xMDEfAgUMY29tcGV0aXRpb25zZGQCEw8WAh8EZxYCAgEPDxYEHwYFGWh0dHA6Ly9ibG9nLnRvcHRhYmxlLmNvbS8fAgUNdG9wdGFibGUgYmxvZ2RkAhoPZBYCZg8WAh4EaHJlZgUhaHR0cDovL3d3dy5mYWNlYm9vay5jb20vdG9wdGFibGUvZAIPD2QWBgIBDw8WAh8EaGRkAgMPZBYCZg9kFhACAw8WAh8CBVpFaXRoZXIgeW91ciB1c2VybmFtZSBvciBwYXNzd29yZCBhcmUgaW5jb3JyZWN0LCBwbGVhc2UgdHJ5IGFnYWluIG9yIGNsaWNrICdyZXNldCBwYXNzd29yZCdkAgkPDxYCHwIFEWVtYWlsIGlzIHJlcXVpcmVkZGQCDQ8PFgIfAgUPTG9nIGluIFBhc3N3b3JkZGQCDw8PFgIfAgUOcmVzZXQgcGFzc3dvcmRkZAIRDw8WAh8CBRFlbWFpbCBpcyByZXF1aXJlZGRkAhMPDxYCHwIFDlJlc2V0IHBhc3N3b3JkZGQCFQ8QDxYCHwIFC1JlbWVtYmVyIG1lZGRkZAIXDw8WBB4LUG9zdEJhY2tVcmwFLGh0dHBzOi8vd3d3LnRvcHRhYmxlLmNvbS9sb2dpbi9hdXRoZW50aWNhdGUvHwIFBkxvZyBpbmRkAgUPZBYCZg8WAh4Fc3R5bGUFDGRpc3BsYXk6bm9uZWQCEg8PFgIfBGhkFgQCBw8UKwACZGRkAgkPEGRkFgBkGAUFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYBBThjdGwwMCRNeUFjY291bnRMb2dpbkNvbnRyb2wxJFJpZ2h0TmF2TG9naW4kTmF2UmVtZW1iZXJNZQUtY3RsMDAkR29vZ2xlQW5hbHl0aWNzVHJhY2tlciRUcmFja2VyTXVsdGlWaWV3Dw9kZmQFLmN0bDAwJFJlZmluZUxvY2F0aW9uQ29udHJvbCRMb2NhdGlvbkxpbmtMaXN0ZXIPZ2QFO2N0bDAwJExlZnRIYW5kTmF2JFBvcHVsYXJDaXR5TGlua3NDb250cm9sJFBvcHVsYXJDaXRpZXNMaXN0D2dkBR9jdGwwMCRMb2dvQ29udHJvbCRMb2dvTXVsdGlWaWV3Dw9kZmTCfDIfPgqMaufJJpu+n15Oqms4uw==">
+
+
+<input type="hidden" name="__PREVIOUSPAGE" id="__PREVIOUSPAGE" value="rZan834RmSS1oCDSFqIhiSTUwzcAc41SiTVfw22VBvA1">
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWDQKVyZnOCwL29Mj9CQK3w8i9BwLmm8uQBQK5ouS8CgKRxqGgDgKbj433CQL38YiNBAKAhc6fDALfjYrOAwLbrO3IDgKr1N+/DgKC46D9CfnrZ3Hq2VT9Knt1eoOKQSD8B25C">
+        
+
+
+        <input type="hidden" class="client-script-phrases" value="[{&quot;Key&quot;:&quot;Masters.Main.SearchLabel&quot;,&quot;Value&quot;:&quot;city, area, postcode, landmark or restaurant name&quot;},{&quot;Key&quot;:&quot;Controls.MasterPage.SearchBox.RestaurantTypeLabel&quot;,&quot;Value&quot;:&quot;Restaurant&quot;},{&quot;Key&quot;:&quot;Controls.MasterPage.SearchBox.LocationTypeLabel&quot;,&quot;Value&quot;:&quot;Location&quot;},{&quot;Key&quot;:&quot;Controls.MasterPage.SearchBox.LandmarkTypeLabel&quot;,&quot;Value&quot;:&quot;Landmark&quot;},{&quot;Key&quot;:&quot;Controls.MasterPage.SearchBox.StationTypeLabel&quot;,&quot;Value&quot;:&quot;Station&quot;},{&quot;Key&quot;:&quot;Controls.MasterPage.SearchBox.PostcodeTypeLabel&quot;,&quot;Value&quot;:&quot;Postcode&quot;},{&quot;Key&quot;:&quot;Controls.MasterPage.SearchBox.PerformPostcodeSearchLabel&quot;,&quot;Value&quot;:&quot;postcode search&quot;},{&quot;Key&quot;:&quot;Controls.NavLoginControl.NavUserNameLabel&quot;,&quot;Value&quot;:&quot;log in email&quot;},{&quot;Key&quot;:&quot;Controls.NavLoginControl.PasswordWatermark&quot;,&quot;Value&quot;:&quot;password   &quot;}]">
+        <input name="ctl00$HiddenClientUserId" type="hidden" id="ctl00_HiddenClientUserId" class="client-user-id" value="-1">
+        <input name="ctl00$HiddenClientUserEmail" type="hidden" id="ctl00_HiddenClientUserEmail" class="client-user-email">
+        <input name="ctl00$HiddenClientBaseUrl" type="hidden" id="ctl00_HiddenClientBaseUrl" class="client-base-url" value="/">
+        
+       
+    
+        
+        <div id="wrapper">
+            
+            
+<div id="header">
+    <div id="logo">
+        
+                <div id="ctl00_LogoControl_LogoSlot_theSlot"><a title="toptable.com" href="http://www.toptable.com" onclick="s_objectID=&quot;http://www.toptable.com/_venice_english+(united+kingdom)_1&quot;;return this.s_oc?this.s_oc(e):true"><img title="toptable.com" src="http://media.toptable.com/images/en/34596.jpg" alt="toptable.com" border="0"></a></div>
+            
+    </div>
+    <div id="logo-print">
+        <img id="ctl00_LogoControl_Image1" src="//media.toptable.com/images/toptable-logo-print.gif" alt="toptable" border="0">
+    </div>
+</div>
+
+            <div id="search-bar" class="ontop">
+
+                
+<div id="language-select">
+    
+    <a href="http://www.toptable.fr" class="fr-FR" onclick="s_objectID=&quot;http://www.toptable.fr/_venice_english+(united+kingdom)_1&quot;;return this.s_oc?this.s_oc(e):true">toptable.fr</a> 
+    <a href="http://www.toptable.de" class="de-DE" onclick="s_objectID=&quot;http://www.toptable.de/_venice_english+(united+kingdom)_1&quot;;return this.s_oc?this.s_oc(e):true">toptable.de</a>
+</div>
+
+                <p id="sign-in-btn">
+                    <a href="https://www.toptable.com/login/?returnurl=%2fprivacy%2f" onclick="s_objectID=&quot;https://www.toptable.com/login/?returnurl=%2fprivacy%2f_venice_english+(united+kingdom)_1&quot;;return this.s_oc?this.s_oc(e):true">
+                        sign in / register</a>
+                </p>
+                
+                
+
+<fieldset id="search-tool">
+    <div id="ctl00_SearchBox_QuickSearchPanel" class="input">
+	
+        <input name="ctl00$SearchBox$SearchText" type="text" id="ctl00_SearchBox_SearchText" accesskey="s" class="text quick-search">
+        
+        <input type="submit" name="ctl00$SearchBox$SearchButton" value="Go" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$SearchBox$SearchButton&quot;, &quot;&quot;, true, &quot;QuickSearch&quot;, &quot;&quot;, false, false))" id="ctl00_SearchBox_SearchButton" class="submit" title="Search">
+        <div class="hide">
+            &nbsp;
+            &nbsp;
+        </div>
+        
+    
+</div>
+</fieldset>
+
+                
+                
+            </div>
+            <div id="content-container">
+                <div id="main-content">
+                    <div id="content-body">
+                        
+                        
+
+<ul class="dropdown">
+    
+            <li>
+                <a id="ctl00_lb_or_ctl00_LocLink" title="Home" href="/" onclick="s_objectID=&quot;https://web.archive.org/_venice_english+(united+kingdom)_1&quot;;return this.s_oc?this.s_oc(e):true">Home</a>
+                <ul id="ctl00_lb_or_ctl00_InnerUL">
+                    
+                            <li><a id="ctl00_lb_or_ctl00_ir_ctl00_LocLink" title="Austria" href="/location/content/?l=3499" onclick="s_objectID=&quot;https://web.archive.org/location/content/?l=3499_venice_english+(united+kingdom)_1&quot;;return this.s_oc?this.s_oc(e):true">Austria</a></li>
+                        
+                            <li><a id="ctl00_lb_or_ctl00_ir_ctl01_LocLink" title="Belgium" href="/location/content/?l=3315" onclick="s_objectID=&quot;https://web.archive.org/location/content/?l=3315_venice_english+(united+kingdom)_1&quot;;return this.s_oc?this.s_oc(e):true">Belgium</a></li>
+                        
+                            <li><a id="ctl00_lb_or_ctl00_ir_ctl02_LocLink" title="Channel Islands" href="/location/content/?l=4741" onclick="s_objectID=&quot;https://web.archive.org/location/content/?l=4741_venice_english+(united+kingdom)_1&quot;;return this.s_oc?this.s_oc(e):true">Channel Islands</a></li>
+                        
+                            <li><a id="ctl00_lb_or_ctl00_ir_ctl03_LocLink" title="France" href="/location/content/?l=3301" onclick="s_objectID=&quot;https://web.archive.org/location/content/?l=3301_venice_english+(united+kingdom)_1&quot;;return this.s_oc?this.s_oc(e):true">France</a></li>
+                        
+                            <li><a id="ctl00_lb_or_ctl00_ir_ctl04_LocLink" title="Germany" href="/location/content/?l=3309" onclick="s_objectID=&quot;https://web.archive.org/location/content/?l=3309_venice_english+(united+kingdom)_1&quot;;return this.s_oc?this.s_oc(e):true">Germany</a></li>
+                        
+                            <li><a id="ctl00_lb_or_ctl00_ir_ctl05_LocLink" title="Ireland" href="/location/content/?l=3317" onclick="s_objectID=&quot;https://web.archive.org/location/content/?l=3317_venice_english+(united+kingdom)_1&quot;;return this.s_oc?this.s_oc(e):true">Ireland</a></li>
+                        
+                            <li><a id="ctl00_lb_or_ctl00_ir_ctl06_LocLink" title="Italy" href="/location/content/?l=3303" onclick="s_objectID=&quot;https://web.archive.org/location/content/?l=3303_venice_english+(united+kingdom)_1&quot;;return this.s_oc?this.s_oc(e):true">Italy</a></li>
+                        
+                            <li><a id="ctl00_lb_or_ctl00_ir_ctl07_LocLink" title="Malta" href="/location/content/?l=4846" onclick="s_objectID=&quot;https://web.archive.org/location/content/?l=4846_venice_english+(united+kingdom)_1&quot;;return this.s_oc?this.s_oc(e):true">Malta</a></li>
+                        
+                            <li><a id="ctl00_lb_or_ctl00_ir_ctl08_LocLink" title="Netherlands" href="/location/content/?l=3313" onclick="s_objectID=&quot;https://web.archive.org/location/content/?l=3313_venice_english+(united+kingdom)_1&quot;;return this.s_oc?this.s_oc(e):true">Netherlands</a></li>
+                        
+                            <li><a id="ctl00_lb_or_ctl00_ir_ctl09_LocLink" title="Portugal" href="/location/content/?l=3419" onclick="s_objectID=&quot;https://web.archive.org/location/content/?l=3419_venice_english+(united+kingdom)_1&quot;;return this.s_oc?this.s_oc(e):true">Portugal</a></li>
+                        
+                            <li><a id="ctl00_lb_or_ctl00_ir_ctl10_LocLink" title="Spain" href="/location/content/?l=3302" onclick="s_objectID=&quot;https://web.archive.org/location/content/?l=3302_venice_english+(united+kingdom)_1&quot;;return this.s_oc?this.s_oc(e):true">Spain</a></li>
+                        
+                            <li><a id="ctl00_lb_or_ctl00_ir_ctl11_LocLink" title="Sweden" href="/location/content/?l=3595" onclick="s_objectID=&quot;https://web.archive.org/location/content/?l=3595_venice_english+(united+kingdom)_1&quot;;return this.s_oc?this.s_oc(e):true">Sweden</a></li>
+                        
+                            <li><a id="ctl00_lb_or_ctl00_ir_ctl12_LocLink" title="Switzerland" href="/location/content/?l=3500" onclick="s_objectID=&quot;https://web.archive.org/location/content/?l=3500_venice_english+(united+kingdom)_1&quot;;return this.s_oc?this.s_oc(e):true">Switzerland</a></li>
+                        
+                            <li><a id="ctl00_lb_or_ctl00_ir_ctl13_LocLink" title="UK" href="/location/content/?l=1" onclick="s_objectID=&quot;https://web.archive.org/location/content/?l=1_venice_english+(united+kingdom)_1&quot;;return this.s_oc?this.s_oc(e):true">UK</a></li>
+                        
+                    
+                </ul>
+            </li>
+        
+            <li>
+                <a id="ctl00_lb_or_ctl01_LocLink" title="Italy" href="/location/content/?l=3303" onclick="s_objectID=&quot;https://web.archive.org/location/content/?l=3303_venice_english+(united+kingdom)_2&quot;;return this.s_oc?this.s_oc(e):true">Italy</a>
+                <ul id="ctl00_lb_or_ctl01_InnerUL">
+                    
+                            <li><a id="ctl00_lb_or_ctl01_ir_ctl00_LocLink" title="Ancona" href="/location/content/?l=4983" onclick="s_objectID=&quot;https://web.archive.org/location/content/?l=4983_venice_english+(united+kingdom)_1&quot;;return this.s_oc?this.s_oc(e):true">Ancona</a></li>
+                        
+                            <li><a id="ctl00_lb_or_ctl01_ir_ctl01_LocLink" title="Bologna" href="/location/content/?l=4871" onclick="s_objectID=&quot;https://web.archive.org/location/content/?l=4871_venice_english+(united+kingdom)_1&quot;;return this.s_oc?this.s_oc(e):true">Bologna</a></li>
+                        
+                            <li><a id="ctl00_lb_or_ctl01_ir_ctl02_LocLink" title="Lake Como" href="/location/content/?l=4989" onclick="s_objectID=&quot;https://web.archive.org/location/content/?l=4989_venice_english+(united+kingdom)_1&quot;;return this.s_oc?this.s_oc(e):true">Lake Como</a></li>
+                        
+                            <li><a id="ctl00_lb_or_ctl01_ir_ctl03_LocLink" title="Liguria" href="/location/content/?l=4968" onclick="s_objectID=&quot;https://web.archive.org/location/content/?l=4968_venice_english+(united+kingdom)_1&quot;;return this.s_oc?this.s_oc(e):true">Liguria</a></li>
+                        
+                            <li><a id="ctl00_lb_or_ctl01_ir_ctl04_LocLink" title="Milan" href="/location/content/?l=3323" onclick="s_objectID=&quot;https://web.archive.org/location/content/?l=3323_venice_english+(united+kingdom)_1&quot;;return this.s_oc?this.s_oc(e):true">Milan</a></li>
+                        
+                            <li><a id="ctl00_lb_or_ctl01_ir_ctl05_LocLink" title="Naples" href="/location/content/?l=4629" onclick="s_objectID=&quot;https://web.archive.org/location/content/?l=4629_venice_english+(united+kingdom)_1&quot;;return this.s_oc?this.s_oc(e):true">Naples</a></li>
+                        
+                            <li><a id="ctl00_lb_or_ctl01_ir_ctl06_LocLink" title="Parma" href="/location/content/?l=4986" onclick="s_objectID=&quot;https://web.archive.org/location/content/?l=4986_venice_english+(united+kingdom)_1&quot;;return this.s_oc?this.s_oc(e):true">Parma</a></li>
+                        
+                            <li><a id="ctl00_lb_or_ctl01_ir_ctl07_LocLink" title="Rome" href="/location/content/?l=3304" onclick="s_objectID=&quot;https://web.archive.org/location/content/?l=3304_venice_english+(united+kingdom)_1&quot;;return this.s_oc?this.s_oc(e):true">Rome</a></li>
+                        
+                            <li><a id="ctl00_lb_or_ctl01_ir_ctl08_LocLink" title="Sardinia" href="/location/content/?l=4716" onclick="s_objectID=&quot;https://web.archive.org/location/content/?l=4716_venice_english+(united+kingdom)_1&quot;;return this.s_oc?this.s_oc(e):true">Sardinia</a></li>
+                        
+                            <li><a id="ctl00_lb_or_ctl01_ir_ctl09_LocLink" title="Sicily" href="/location/content/?l=4719" onclick="s_objectID=&quot;https://web.archive.org/location/content/?l=4719_venice_english+(united+kingdom)_1&quot;;return this.s_oc?this.s_oc(e):true">Sicily</a></li>
+                        
+                            <li><a id="ctl00_lb_or_ctl01_ir_ctl10_LocLink" title="Turin" href="/location/content/?l=3598" onclick="s_objectID=&quot;https://web.archive.org/location/content/?l=3598_venice_english+(united+kingdom)_1&quot;;return this.s_oc?this.s_oc(e):true">Turin</a></li>
+                        
+                            <li><a id="ctl00_lb_or_ctl01_ir_ctl11_LocLink" title="Tuscany" href="/location/content/?l=4969" onclick="s_objectID=&quot;https://web.archive.org/location/content/?l=4969_venice_english+(united+kingdom)_1&quot;;return this.s_oc?this.s_oc(e):true">Tuscany</a></li>
+                        
+                            <li><a id="ctl00_lb_or_ctl01_ir_ctl12_LocLink" title="Venice" href="/location/content/?l=3322" onclick="s_objectID=&quot;https://web.archive.org/location/content/?l=3322_venice_english+(united+kingdom)_1&quot;;return this.s_oc?this.s_oc(e):true">Venice</a></li>
+                        
+                            <li><a id="ctl00_lb_or_ctl01_ir_ctl13_LocLink" title="Verona" href="/location/content/?l=4888" onclick="s_objectID=&quot;https://web.archive.org/location/content/?l=4888_venice_english+(united+kingdom)_1&quot;;return this.s_oc?this.s_oc(e):true">Verona</a></li>
+                        
+                    
+                </ul>
+            </li>
+        
+            <li>
+                <a id="ctl00_lb_or_ctl02_LocLink" title="Venice" href="/location/content/?l=3322" onclick="s_objectID=&quot;https://web.archive.org/location/content/?l=3322_venice_english+(united+kingdom)_2&quot;;return this.s_oc?this.s_oc(e):true">Venice</a>
+                <ul id="ctl00_lb_or_ctl02_InnerUL">
+                    
+                            <li><a id="ctl00_lb_or_ctl02_ir_ctl00_LocLink" title="Burano" href="/location/content/?l=4862" onclick="s_objectID=&quot;https://web.archive.org/location/content/?l=4862_venice_english+(united+kingdom)_1&quot;;return this.s_oc?this.s_oc(e):true">Burano</a></li>
+                        
+                            <li><a id="ctl00_lb_or_ctl02_ir_ctl01_LocLink" title="Mestre" href="/location/content/?l=4747" onclick="s_objectID=&quot;https://web.archive.org/location/content/?l=4747_venice_english+(united+kingdom)_1&quot;;return this.s_oc?this.s_oc(e):true">Mestre</a></li>
+                        
+                            <li><a id="ctl00_lb_or_ctl02_ir_ctl02_LocLink" title="Sant' Elena" href="/location/content/?l=4916" onclick="s_objectID=&quot;https://web.archive.org/location/content/?l=4916_venice_english+(united+kingdom)_1&quot;;return this.s_oc?this.s_oc(e):true">Sant' Elena</a></li>
+                        
+                    
+                </ul>
+            </li>
+        
+</ul>
+
+                        
+                        
+    
+
+    
+<p>By providing your personal details to us, you signify your acceptance of our Privacy Statement. If you do not agree to this statement, please do not provide your personal details to us. This privacy statement is incorporated into, and part of, the Terms and Conditions, which govern your use of the site in general. We will use your information for the purposes set out in paragraph 5 below. You will have an opportunity to unsubscribe whenever we communicate with you. To unsubscribe from toptable.co.uk communications please send an email to <a href="mailto:general@toptable.com" onclick="s_objectID=&quot;mailto:general@toptable.com_venice_english+(united+kingdom)_1&quot;;return this.s_oc?this.s_oc(e):true">general@toptable.com</a> with 'unsubscribe' in the subject box. </p>
+<p>We may need to update this privacy statement from time to time. We recommend that you regularly check this page to ensure that you have read the most recent version. </p>
+<p><strong>1. Collecting personal information</strong></p>
+<p>You can decide what personal information you provide to us. We will only collect personal information that you choose to provide. Where possible, we will enable you to select how we will use this information (for example, by choosing to opt-in or opt-out of receiving special promotional offers). </p>
+<p>You may choose to provide us with personal information if, for example, you: contact us with an enquiry; register on the site, fill out a survey or other form with your personal information included; request us to provide you with information; enter a competition; post information to public areas of the site or participate in a promotion. </p>
+<p>You have the opportunity to choose not to opt-in receive communications from us at any point where we request information about you. </p>
+<p>By providing any personal information to us, you fully understand and clearly consent to the transfer of such personal information to, and the collection and processing of such information in, other countries or territories. Any such transfer and processing by us will be in accordance with this privacy policy. </p>
+<p><strong>Third parties</strong> (including but not limited to software providers, advertisers and ad placement agencies) may also use tracking technologies by or through the site. We have no responsibility or liability for any tracking, data collection or other activities of such third parties. </p>
+<p><strong>2. Our use of personal information</strong></p>
+<p>We will use information collected from you in the following ways: </p>
+<p><strong>Marketing purposes</strong>: We may use information for internal marketing analysis, for example, to assess trends amongst our consumers or to measure the amount of traffic to our websites. When you give permission for us to contact you, we use your personal information to tell you about our products and services and those of our subsidiaries, affiliates, and parent companies and any of their related businesses via email. A permission given <em>on or after 1st Feb 2011</em> means you consent to be contacted via email or SMS. However, you will be able to opt out of these communications at any time. We may also share non-personal information with others, such as advertisers, in aggregate anonymous form, which means that the information will not contain any personally identifiable information about you.
+</p>
+<p><strong>To restaurants</strong>: When you make a restaurant reservation using toptable, your name, telephone number and email address are provided to that restaurant, so that they can, if necessary, confirm any details about applicable dietary requirements, special preferences or requests, set menus, group bookings etc. Your email address is not provided to that restaurant for marketing purposes unless you specifically indicate that you are interested in receiving promotional emails from that restaurant. </p>
+<p>toptable will only share the information specified above with the restaurant at which you have made reservations using toptable. Restaurants cannot access information pertaining to diners or dining histories from other restaurants, with the exception that restaurants under the same corporate ownership may elect to share diner information between restaurant properties.</p>
+<p>Restaurants may receive summary reports of feedback from recent diners. If you provide comments about a restaurant (via a toptable review) these will be shared with that restaurant anonymously. However there is the potential that a restaurant may associate a particular feedback with your dining reservation. You may choose not to be anonymous while submitting your comments if you specify your identity or provide contact information such as an email address for the restaurant to use in response to your feedback.</p>
+<p><strong>Email from restaurants</strong>: You may also consent to receive marketing communications from the restaurant at which you've made a reservation. toptable plays no role in the content, frequency, timing or unsubscription process of any restaurant's marketing communications. If you would like to unsubscribe from a restaurant's marketing communications, please contact the appropriate restaurant directly.</p>
+<p><strong>Transactional purposes</strong>: We may use your personal information in order to respond to your queries and requests and to manage transactions such as credit card payments for any goods that you order from us or any of our agents, or for the fulfilment of such transactions (e.g. delivery). The personal information you provide may be used by an authorised vendor to fulfil that order. Notwithstanding the forgoing, we do not store your financial details.</p>
+<p><strong>Third party offers</strong>: We may arrange for carefully selected organisations to send you marketing and promotional information that may be of interest to you. In such circumstances your personal information may be disclosed to these organisations who will agree to be bound by the terms of this privacy statement. We will obtain your permission before we send you any such communications. </p>
+<p><strong>Public (or interactive) areas of the site</strong>: Information that you post on or through the public areas of the site (e.g., chat rooms, bulletin boards and discussion groups) are generally accessible to, and may be collected and used by, others and may result in unsolicited messages or other contact from others. Users of the site are encouraged to exercise caution when providing personal information about themselves in public areas of this site. </p>
+<p><strong>Sale and transfer</strong>: In the event of a sale, merger, consolidation, change in control, transfer of substantial assets, reorganisation or liquidation, we may transfer, sell, or assign to third parties information concerning your relationship with us, including without limitation, personally identifiable information that you provide and other information concerning your relationship with us. </p>
+<p><strong>Administration and data management</strong>: We may transfer your personal information to third parties under confidentiality obligations when the performance of any service in relation to the activities above is sub-contracted (e.g. the administration of a marketing campaign). </p>
+<p><strong>Legal purposes</strong>: We may disclose your personal information if permitted by law or required to do so by law or where we believe such action is necessary in order to protect or defend our interests or the interests of our customers or users of our site. </p>
+<p><strong>Links</strong>: This site may contain links or references to other Web sites outside of our control. Please be aware that we have no control over these sites and our privacy statement does not apply to these sites. We encourage you to read the privacy statements and terms and conditions of linked or referenced sites you enter. </p>
+<p><strong>3. Use of cookies</strong></p>
+<p>In common with many websites, we use "cookies" to help us gather the following information from visitors to toptable.co.uk, for example: </p>
 <ul>
-<li><a href="/search_results.cfm/qs/bftID|41/">Private Restaurant Rooms</a></li>
-<li><a href="/search_results.cfm/qs/bftID|92/">Business Lunches</a></li>
-<li><a href="/atoz.cfm">Restaurant Guide</a></li>
-<li><a href="/search_results.cfm/qs/bftID|40/">Pre Theatre Restaurants</a></li>
-<li><a href="/specialoffers.cfm">Restaurant Special Offers</a></li>
-<li><a href="/features/paris.cfm">Restaurants in Paris</a></li>
-<li><a href="/search_results.cfm/qs/bftID|90/">American restaurants</a></li>
-<li><a href="/search_results.cfm/qs/bftID|1/">british restaurants</a></li>
-<li><a href="/search_results.cfm/qs/bftID|2/">chinese restaurants</a></li>
-<li><a href="/search_results.cfm/qs/bftID|3/">french restaurants</a></li>
-<li><a href="/search_results.cfm/qs/bftID|60/">fusion restaurants</a></li>
-<li><a href="/search_results.cfm/qs/bftID|4/">greek restaurants</a></li>
-<li><a href="/search_results.cfm/qs/bftID|5/">halal restaurants</a></li>
-<li><a href="/search_results.cfm/qs/bftID|85/">healthy eating restaurants</a></li>
-<li><a href="/search_results.cfm/qs/bftID|6/">indian restaurants</a></li>
-<li><a href="/search_results.cfm/qs/bftID|7/">italian restaurants</a></li>
-<li><a href="/search_results.cfm/qs/bftID|9/">japanese restaurants</a></li>
-<li><a href="/search_results.cfm/qs/bftID|8/">kosher restaurants</a></li>
-<li><a href="/search_results.cfm/qs/bftID|10/">mexican restaurants</a></li>
-<li><a href="/search_results.cfm/qs/bftID|13/">middle eastern restaurants</a></li>
-<li><a href="/search_results.cfm/qs/bftID|11/">modern european restaurants</a></li>
-<li><a href="/search_results.cfm/qs/bftID|12/">north african restaurants</a></li>
-<li><a href="/search_results.cfm/qs/bftID|59/">oriental restaurants</a></li>
-<li><a href="/search_results.cfm/qs/bftID|14/">seafood restaurants</a></li>
-<li><a href="/search_results.cfm/qs/bftID|91/">spanish restaurants</a></li>
-<li><a href="/search_results.cfm/qs/bftID|61/">steak restaurants</a></li>
-<li><a href="/search_results.cfm/qs/bftID|15/">thai restaurants</a></li>
-<li><a href="/search_results.cfm/qs/bftID|16/">vegetarian restaurants</a></li>
+    <li>the IP address from which you access the site </li>
+    <li>the type of browser and operating system used to access the site </li>
+    <li>the date and time of your access to the site </li>
+    <li>the pages you visit </li>
+    <li>the internet address of the website from which you accessed the site </li>
 </ul>
-</noscript> <div id="err" class="errbox" style="width: 200px; height: 83px; top: 4px; left: 0px; z-index: 302; cursor: auto;">
-<table cellpadding="0" cellspacing="0" style="border:3px solid #CC0066;width:200px;" id="errBoxTable" onmousedown="initializedragie();" onmouseover="drag_dropns(err);" onmouseout="dragswitch=0">
-<tbody><tr>
-<td class="pinkBg" style="padding:0px 0px 0px 0px;height:25px;text-align:left;">
-<a href="javascript: ehide('err');" title="close"><img src="/img/errClose.gif" style="float:right; border:0px none "></a>
-<h2 style="margin:0px 0px 0px 0px ">&nbsp;</h2>
-</td>
-</tr>
-<tr>
-<td style="padding:5px 5px 5px 5px;text-align:left;background-color:white;">
-<div id="2">
-<span id="errText" class="normal"><h3 style="margin:0px 0px 0px 0px;">Sorry, please can you enter your password. Thanks</h3></span>
-<span id="closeMe" class="normal"><a href="javascript: ehide('err');" class="black">close me...</a></span>
+<p>A cookie is a small data file that our server sends to your browser when you visit the site. The use of cookies helps us to assist your use of certain aspects of the site. You can delete cookies at any time or you can set your browser to reject or disable cookies. If you do disable cookies some functions on the site may not work correctly. </p>
+<p>We use information from cookies, for example, to learn about the number of visitors to our site and the type of technology that our visitors use. Cookies help us to monitor what sort of content is popular and to assess visitors browsing habits. When a user revisits the site, we may recognise the user by the cookie and customise the user's experience accordingly. We can use this information to continually improve the content and usability of the site. </p>
+<p>We may compile and report to third parties (such as advertisers) aggregate statistics about our users in terms of numbers, traffic patterns and related site information. </p>
+<p>We do not connect the information collected through cookies with other information that is personally identifiable, unless required or permitted to do so by law or to enforce the Terms &amp; Conditions. </p>
+<p><strong>4. How we protect your information</strong></p>
+<p>We take security seriously and we take precautions to keep your personal information secure. We have put in place appropriate physical, electronic and managerial procedures to safeguard the information we collect. However, due to the open communication nature of the Internet, toptable.co.uk cannot guarantee that communications between you and toptable.co.uk, or information stored on toptable.co.uk servers, will be free from unauthorised access by third parties. </p>
+<p><strong>5. Your details and contacting us</strong></p>
+<p>You can check what personal information we hold about you, update your information, ask us to remove your information, correct any inaccuracies in such personal information or ask us questions about our Privacy Statement, by contacting us at <a href="mailto:general@toptable.com" onclick="s_objectID=&quot;mailto:general@toptable.com_venice_english+(united+kingdom)_2&quot;;return this.s_oc?this.s_oc(e):true">general@toptable.com</a> We will make every effort to respond to your request in a timely manner. </p>
+
+
+
+    
+
+                    </div>
+                    <div id="content-menu">
+                        
+<div id="menu">
+    <span class="change-location js-sol"><a href="/location/find/?l=3322" title="title" onclick="s_objectID=&quot;https://web.archive.org/location/find/?l=3322_venice_english+(united+kingdom)_1&quot;;return this.s_oc?this.s_oc(e):true">
+        Change my location
+    </a></span>
+    <div id="ctl00_LeftHandNav_NavigationPanel">
+	
+        
+        <div class="menu-group location">
+            <h2>
+                <a href="/location/content/?l=3322" onclick="s_objectID=&quot;https://web.archive.org/location/content/?l=3322_venice_english+(united+kingdom)_3&quot;;return this.s_oc?this.s_oc(e):true">
+                    Venice
+                    
+                </a>
+            </h2>
+            <ul>
+                
+
+
+
+                
+                <li id="ctl00_LeftHandNav_liMostPopular"><a href="/venues/most-popular/?l=3322" title="most booked" onclick="s_objectID=&quot;https://web.archive.org/venues/most-popular/?l=3322_venice_english+(united+kingdom)_1&quot;;return this.s_oc?this.s_oc(e):true">
+                    Most booked</a></li>
+                <li id="ctl00_LeftHandNav_liTopDinerRated"><a href="/venues/top-rated/?l=3322" title="top diner rated" onclick="s_objectID=&quot;https://web.archive.org/venues/top-rated/?l=3322_venice_english+(united+kingdom)_1&quot;;return this.s_oc?this.s_oc(e):true">
+                    Top diner rated</a></li>
+                <li id="ctl00_LeftHandNav_liCuisines"><a href="/location/cuisines/?l=3322" title="cuisines" onclick="s_objectID=&quot;https://web.archive.org/location/cuisines/?l=3322_venice_english+(united+kingdom)_1&quot;;return this.s_oc?this.s_oc(e):true">
+                    Cuisines</a></li>
+                <li id="ctl00_LeftHandNav_liBestFors"><a href="/location/best-fors/?l=3322" title="best for" onclick="s_objectID=&quot;https://web.archive.org/location/best-fors/?l=3322_venice_english+(united+kingdom)_1&quot;;return this.s_oc?this.s_oc(e):true">
+                    Best for</a></li>
+                <li id="ctl00_LeftHandNav_liAll"><a href="/venues/?l=3322" title="all restaurants" onclick="s_objectID=&quot;https://web.archive.org/venues/?l=3322_venice_english+(united+kingdom)_1&quot;;return this.s_oc?this.s_oc(e):true">
+                    All restaurants</a></li>
+                
+                
+                <li id="ctl00_LeftHandNav_liLatestReviews"><a href="/location/reviews/?l=3322" title="latest reviews" onclick="s_objectID=&quot;https://web.archive.org/location/reviews/?l=3322_venice_english+(united+kingdom)_1&quot;;return this.s_oc?this.s_oc(e):true">
+                    Latest reviews</a></li>
+                <li id="ctl00_LeftHandNav_liTopRewards"><a href="/rewards/?l=3322" title="spend my points" onclick="s_objectID=&quot;https://web.archive.org/rewards/?l=3322_venice_english+(united+kingdom)_1&quot;;return this.s_oc?this.s_oc(e):true">
+                    Spend my points</a></li>
+            </ul>
+        </div>
+        <div id="ctl00_LeftHandNav_OfferLinks" class="menu-group offers">
+            <h2 id="ctl00_LeftHandNav_OfferNavHeader">
+                <a href="/venues/offers/?l=3322" onclick="s_objectID=&quot;https://web.archive.org/venues/offers/?l=3322_venice_english+(united+kingdom)_1&quot;;return this.s_oc?this.s_oc(e):true">
+                    Venice offers
+                    
+                </a>
+            </h2>
+            <ul id="ctl00_LeftHandNav_OfferCategoryLinks">
+		<li><a href="/venues/offers/?l=3322&amp;sortby=newest" onclick="s_objectID=&quot;https://web.archive.org/venues/offers/?l=3322&amp;sortby=newest_venice_english+(united+kingdom)_1&quot;;return this.s_oc?this.s_oc(e):true">Latest offers</a></li>
+	</ul>
+            
+
+
+
+        </div>
+        
+        
+        
+        
+
+<div class="menu-group">
+
+    <h2 id="ctl00_LeftHandNav_IntLinks_InternationalLinksHeader">
+        <a id="ctl00_LeftHandNav_IntLinks_HeaderLink" href="/location/world/?l=3299" onclick="s_objectID=&quot;https://web.archive.org/location/world/?l=3299_venice_english+(united+kingdom)_1&quot;;return this.s_oc?this.s_oc(e):true">international</a>
+    </h2>
+    
+    
+            <ul>
+        
+            <li>
+                <a id="ctl00_LeftHandNav_IntLinks_FirstRepeater_ctl01_LocLink" title="London" href="/location/content/?l=7" onclick="s_objectID=&quot;https://web.archive.org/location/content/?l=7_venice_english+(united+kingdom)_1&quot;;return this.s_oc?this.s_oc(e):true">London</a></li>
+            <li>
+                <a id="ctl00_LeftHandNav_IntLinks_FirstRepeater_ctl02_LocLink" title="Paris" href="/location/content/?l=3305" onclick="s_objectID=&quot;https://web.archive.org/location/content/?l=3305_venice_english+(united+kingdom)_1&quot;;return this.s_oc?this.s_oc(e):true">Paris</a></li>
+            <li>
+                <a id="ctl00_LeftHandNav_IntLinks_FirstRepeater_ctl03_LocLink" title="New York" href="/location/content/?l=3307" onclick="s_objectID=&quot;https://web.archive.org/location/content/?l=3307_venice_english+(united+kingdom)_1&quot;;return this.s_oc?this.s_oc(e):true">New York</a></li>
+            </ul>
+    
+    
+            <ul class="more-links">
+        
+            <li>
+                <a id="ctl00_LeftHandNav_IntLinks_SecondRepeater_ctl01_LocLink" title="Madrid" href="/location/content/?l=3324" onclick="s_objectID=&quot;https://web.archive.org/location/content/?l=3324_venice_english+(united+kingdom)_1&quot;;return this.s_oc?this.s_oc(e):true">Madrid</a>
+            </li>
+        
+            <li>
+                <a id="ctl00_LeftHandNav_IntLinks_SecondRepeater_ctl02_LocLink" title="Rome" href="/location/content/?l=3304" onclick="s_objectID=&quot;https://web.archive.org/location/content/?l=3304_venice_english+(united+kingdom)_2&quot;;return this.s_oc?this.s_oc(e):true">Rome</a>
+            </li>
+        
+            <li>
+                <a id="ctl00_LeftHandNav_IntLinks_SecondRepeater_ctl03_LocLink" title="Amsterdam" href="/location/content/?l=3314" onclick="s_objectID=&quot;https://web.archive.org/location/content/?l=3314_venice_english+(united+kingdom)_1&quot;;return this.s_oc?this.s_oc(e):true">Amsterdam</a>
+            </li>
+        
+            <li>
+                <a id="ctl00_LeftHandNav_IntLinks_SecondRepeater_ctl04_LocLink" title="Brussels" href="/location/content/?l=3316" onclick="s_objectID=&quot;https://web.archive.org/location/content/?l=3316_venice_english+(united+kingdom)_1&quot;;return this.s_oc?this.s_oc(e):true">Brussels</a>
+            </li>
+        
+            <li>
+                <a id="ctl00_LeftHandNav_IntLinks_SecondRepeater_ctl05_LocLink" title="Berlin" href="/location/content/?l=3319" onclick="s_objectID=&quot;https://web.archive.org/location/content/?l=3319_venice_english+(united+kingdom)_1&quot;;return this.s_oc?this.s_oc(e):true">Berlin</a>
+            </li>
+        
+            <li>
+                <a id="ctl00_LeftHandNav_IntLinks_SecondRepeater_ctl06_LocLink" title="Lisbon" href="/location/content/?l=3454" onclick="s_objectID=&quot;https://web.archive.org/location/content/?l=3454_venice_english+(united+kingdom)_1&quot;;return this.s_oc?this.s_oc(e):true">Lisbon</a>
+            </li>
+        
+            <li>
+                <a id="ctl00_LeftHandNav_IntLinks_SecondRepeater_ctl07_LocLink" title="Marrakech" href="/location/content/?l=3504" onclick="s_objectID=&quot;https://web.archive.org/location/content/?l=3504_venice_english+(united+kingdom)_1&quot;;return this.s_oc?this.s_oc(e):true">Marrakech</a>
+            </li>
+        
+                <li>
+                    <a href="/location/world/?l=3299" onclick="s_objectID=&quot;https://web.archive.org/location/world/?l=3299_venice_english+(united+kingdom)_2&quot;;return this.s_oc?this.s_oc(e):true">
+                        view all cities
+                    </a>
+                </li>
+            </ul>
+        
+    
+    <ul class="more">
+	    <li><a><span>+</span> more</a></li>
+    </ul>
 </div>
-</td>
-</tr>
-</tbody></table>
+        <div class="menu-group">
+            <h2>
+                <span>
+                    More</span>
+            </h2>
+            <ul>
+                
+                <li id="ctl00_LeftHandNav_liMyOffersCoUk">
+                    <a id="ctl00_LeftHandNav_MyOffersCoUkLink" href="http://myoffers.co.uk?src=204599&amp;cid=2106&amp;r=1&amp;nopopup=1&amp;promoid=101" target="_blank" onclick="s_objectID=&quot;http://myoffers.co.uk/?src=204599&amp;cid=2106&amp;r=1&amp;nopopup=1&amp;promoid=101_venice_english+(united+kingd_1&quot;;return this.s_oc?this.s_oc(e):true">competitions</a>
+                </li>
+                
+                <li id="ctl00_LeftHandNav_liNewsAndGossip">
+                    <a id="ctl00_LeftHandNav_NewsAndGossipLink" href="http://blog.toptable.com/" onclick="s_objectID=&quot;http://blog.toptable.com/_venice_english+(united+kingdom)_1&quot;;return this.s_oc?this.s_oc(e):true">toptable blog</a>
+                </li>
+                <li id="ctl00_LeftHandNav_liHotels"><a href="http://www.octopustravel.com/Enter.jsp?Siteid=toptable&amp;culture=en-GB" onclick="s_objectID=&quot;http://www.octopustravel.com/Enter.jsp?Siteid=toptable&amp;culture=en-GB_venice_english+(united+kingd_1&quot;;return this.s_oc?this.s_oc(e):true">
+                    hotels
+                </a></li>
+                
+                
+            </ul>
+        </div>
+        <div class="menu-group">
+            
+            
+        </div>
+        <div class="menu-group">
+            
+            <h2><span>Follow Us</span></h2>
+            <ul>
+                <li id="ctl00_LeftHandNav_liFollowUsOnTwitter"><a href="http://twitter.com/toptable" class="twitter" onclick="s_objectID=&quot;http://twitter.com/toptable_venice_english+(united+kingdom)_1&quot;;return this.s_oc?this.s_oc(e):true">
+                    on twitter
+                </a></li>
+                <li id="ctl00_LeftHandNav_liFollowUsOnFacebook"><a href="http://www.facebook.com/toptable/" id="ctl00_LeftHandNav_FacebookPageLink" class="facebook" onclick="s_objectID=&quot;http://www.facebook.com/toptable/_venice_english+(united+kingdom)_1&quot;;return this.s_oc?this.s_oc(e):true">
+                    on facebook
+                </a></li>
+            </ul>
+        </div>
+    
 </div>
-<div id="bodycontent" style="width:915px;">
-<div id="maincontentcontainer" style="float:left; width:750px;">
-<div id="header"><table width="100%" border="0" align="center">
-<tbody><tr>
-<td width="280" style="padding:0px;">
-<a href="/" title="toptable"><img src="http://media.toptable.com//cms/image/all_5_FA7974F7-F319-F7F0-93D7B9664ED23815.gif" alt="toptable" border="0"></a>
-</td>
-<td align="left" valign="top" style="padding:0px ">
-<div id="banner">
-<!--  begin ad tag: toptable/generic  (468x60) -->
-<script language="JavaScript" type="text/javascript">
-ord = (typeof(ord)!='undefined') ? ord : Math.random()*10000000000000000;
-document.write('<scr'+'ipt language="JavaScript" src="http://ad.doubleclick.net/adj/toptable/feature;type=feature;id=8;sz=468x60;tile=1;ord='+ord+'?" type="text/javascript"></scr'+'ipt>');
-</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/toptable/feature;type=feature;id=8;sz=468x60;tile=1;ord=988571271963421?" type="text/javascript"></script>
-<noscript>
-<a href="http://ad.doubleclick.net/jump/toptable/feature;type=feature;id=8;sz=468x60;tile=1;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/toptable/feature;type=feature;id=8;sz=468x60;tile=1;ord=123456789?" width="468" height="60" border="0" alt=""></a>
-</noscript>
-<!-- End ad tag -->
+    
+    
+    
 </div>
-</td>
-</tr>
-</tbody></table>
+<div class="slot-spacing">
+    <div id="ctl00_LeftHandNav_SlotImage1_theSlot"></div>
 </div>
-<div id="nav">
-<form method="get" action="/search_redirect.cfm">
-<div id="left_corner_search_head">
-<h2>search</h2>
+
+                    </div>
+                </div>
+                <div id="side-content">
+                    <div class="slot-spacing">
+                    
+                          
+
+<div id="RightNavMyAccountLogin" class="hide">
+    
+    
+    <div id="ctl00_MyAccountLoginControl1_RightNavLogin_NavLoginBox" class="rnav-login">
+    <h2>Sign In</h2>
+    
+    <div class="content">
+        <div class="error">
+            
+        </div>
+        <div class="input nav-username">
+            <input type="hidden" name="ctl00$MyAccountLoginControl1$RightNavLogin$ReturnUrl" id="ctl00_MyAccountLoginControl1_RightNavLogin_ReturnUrl" value="http://www.toptable.com/privacy/">
+            <input name="ctl00$MyAccountLoginControl1$RightNavLogin$NavUserName" type="text" id="ctl00_MyAccountLoginControl1_RightNavLogin_NavUserName" class="text">
+            
+        </div>
+        <div class="input nav-password">
+            <input name="ctl00$MyAccountLoginControl1$RightNavLogin$NavPassword" type="password" id="ctl00_MyAccountLoginControl1_RightNavLogin_NavPassword" class="text">
+            
+        </div>
+        <div class="forgotten">
+            <a id="ctl00_MyAccountLoginControl1_RightNavLogin_NavForgottenPasswordLink" href='javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions("ctl00$MyAccountLoginControl1$RightNavLogin$NavForgottenPasswordLink", "", true, "ResetPasswordValidation", "", false, true))' onclick="s_objectID=&quot;javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(ctl00$MyAccountLoginControl1_1&quot;;return this.s_oc?this.s_oc(e):true">reset password</a>
+            
+            <noscript>
+                <input type="submit" name="ctl00$MyAccountLoginControl1$RightNavLogin$NavResetPasswordButton" value="Reset password" id="ctl00_MyAccountLoginControl1_RightNavLogin_NavResetPasswordButton" class="password-link" />
+            </noscript>    
+        </div>
+        <div class="input remember">
+            <span class="checkbox"><label for="ctl00_MyAccountLoginControl1_RightNavLogin_NavRememberMe">Remember me</label><input id="ctl00_MyAccountLoginControl1_RightNavLogin_NavRememberMe" type="checkbox" name="ctl00$MyAccountLoginControl1$RightNavLogin$NavRememberMe"></span>
+        </div>
+        <div class="btn">
+            <input type="submit" name="ctl00$MyAccountLoginControl1$RightNavLogin$NavLoginButton" value="Log in" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$MyAccountLoginControl1$RightNavLogin$NavLoginButton&quot;, &quot;&quot;, false, &quot;&quot;, &quot;https://www.toptable.com/login/authenticate/&quot;, false, false))" id="ctl00_MyAccountLoginControl1_RightNavLogin_NavLoginButton" class="submit">
+        </div>
+    </div>
 </div>
-<div id="left_corner_search_body">
-<div class="form_row">
-<input name="search" size="15" value="" type="text" class="fixed_100_width">
+<div class="login-attention-alert">
+    <span><strong>Please log in</strong>&nbsp;►</span>
 </div>
-<div class="form_row">
-<select name="type" class="fixed_105_width">
-<option value="name">restaurant</option>
-<option value="bar">bar / club</option>
-<option value="chain">restaurant chain</option>
-<option value="area">area / city</option>
-<option value="street">street</option>
-<option value="cuisine">cuisine</option>
-<option value="postcode">postcode</option>
-<option value="tube_station">station</option>
-<option value="tourist_attraction">tourist attraction</option>
-</select>
+
+   
+    <div id="ctl00_MyAccountLoginControl1_MyAccountFunctionBox_NavMyAccountBox" class="rnav-myaccount" style="display:none">
+    <h2>My account</h2>
+    
+    <div class="content">
+        <ul class="links">
+            <li><a href="/rewards/" onclick="s_objectID=&quot;https://web.archive.org/rewards/_venice_english+(united+kingdom)_1&quot;;return this.s_oc?this.s_oc(e):true">Reward points: <span id="ctl00_MyAccountLoginControl1_MyAccountFunctionBox_Points"></span></a></li>
+            <li><a href="/myaccount/" title="My Details" onclick="s_objectID=&quot;https://web.archive.org/myaccount/_venice_english+(united+kingdom)_1&quot;;return this.s_oc?this.s_oc(e):true">My details</a></li>
+            <li><a href="/myaccount/shortlists/" title="My shortlists" onclick="s_objectID=&quot;https://web.archive.org/myaccount/shortlists/_venice_english+(united+kingdom)_1&quot;;return this.s_oc?this.s_oc(e):true">My shortlists</a></li>
+            <li><a href="/myaccount/bookings/history/" title="My bookings" onclick="s_objectID=&quot;https://web.archive.org/myaccount/bookings/history/_venice_english+(united+kingdom)_1&quot;;return this.s_oc?this.s_oc(e):true">My bookings</a></li>
+            <li id="ctl00_MyAccountLoginControl1_MyAccountFunctionBox_AlertsListItem"><a href="/myaccount/alerts/" title="My offer alerts" onclick="s_objectID=&quot;https://web.archive.org/myaccount/alerts/_venice_english+(united+kingdom)_1&quot;;return this.s_oc?this.s_oc(e):true">My offer alerts</a></li>
+            <li><a href="/logout/" title="Log off" onclick="s_objectID=&quot;https://web.archive.org/logout/_venice_english+(united+kingdom)_1&quot;;return this.s_oc?this.s_oc(e):true">Log off</a></li>
+        </ul>
+    </div>
 </div>
-<div class="form_row">
-<div class="right_col">
-<input type="image" src="/img/buttons/green/go2.gif" class="go_button">
+
 </div>
-</div>
-</div>
-</form> 
-<div id="leftNavContainer">
-<h5>restaurants</h5><div><ul><li id="moreList46"><a href="/">home</a></li><li id="moreList15"><a href="/events/">parties &amp; events</a></li><li id="moreList4"><a href="/bestfor.cfm">best for</a></li><li id="moreList9"><a href="/bestfor.cfm">cuisines</a></li><li id="moreList63"><a href="/casualdining/">casual dining</a></li></ul></div><h5>special offers</h5><div><ul><li id="moreList65"><a href="/feature/?fid=755">50% off</a></li><li id="moreList66"><a href="/feature/?fid=759">dine from £10</a></li><li id="moreList68"><a href="/feature/?fid=456">all offers</a></li></ul></div><h5>services</h5><div><ul><li id="moreList17"><a href="/barsandclubs/">bars &amp; clubs</a></li><li id="moreList18"><a href="http://toptable.eolts.co.uk/">dinner &amp; theatre</a></li><li id="moreList47"><a href="http://www.octopustravel.com/Enter.jsp?Siteid=toptable" target="_blank">hotels</a></li><li id="moreList19"><a href="/feature.cfm?fid=60">news &amp; gossip</a></li><li id="moreList20"><a href="/mytoptable.cfm">my account</a></li><li id="moreList21"><a href="/feature.cfm?fid=200">top reward points</a></li></ul></div><h5>destinations</h5><div><ul><li id="moreList24"><a href="/location.cfm?id=464">edinburgh</a></li><li id="moreList23"><a href="/location.cfm?ID=7">london</a></li><li id="moreList25"><a href="/location.cfm?ID=2847">manchester</a></li></ul><div id="hiddenList69"><ul><li id="moreList22" style="display:none;"><a href="/feature/?fid=510">uk map</a></li><li id="moreList28" style="display:none;"><a href="/location.cfm?ID=2313">birmingham</a></li><li id="moreList50" style="display:none;"><a href="/location.cfm?ID=144">aberdeen</a></li><li id="moreList27" style="display:none;"><a href="/location.cfm?ID=3016">bath</a></li><li id="moreList29" style="display:none;"><a href="/location.cfm?ID=699">brighton</a></li><li id="moreList48" style="display:none;"><a href="/location.cfm?ID=1741">cardiff</a></li><li id="moreList51" style="display:none;"><a href="/location.cfm?ID=131">cheshire</a></li><li id="moreList30" style="display:none;"><a href="/location.cfm?ID=401">glasgow</a></li><li id="moreList58" style="display:none;"><a href="/location.cfm?ID=3019">bristol</a></li><li id="moreList33" style="display:none;"><a href="/location.cfm?ID=2167">leeds</a></li><li id="moreList32" style="display:none;"><a href="/location.cfm?ID=2941">liverpool</a></li><li id="moreList49" style="display:none;"><a href="/location.cfm?ID=2575">nottingham</a></li><li id="moreList64" style="display:none;"><a href="/location.cfm?ID=1219">newcastle</a></li><li id="moreList31" style="display:none;"><a href="/location.cfm?ID=2029">york</a></li></ul></div><ul><li id="moreList69" style="display:none;text-align:right;"><a href="#" style="color:#666666;">+ uk cities</a>
-</li><li id="moreList36"><a href="/location.cfm?ID=3305">paris</a></li><li id="moreList44"><a href="/location.cfm?ID=3321">lille</a></li></ul><div id="hiddenList70"><ul><li id="moreList60" style="display:none;"><a href="/location.cfm?ID=3350">annecy</a></li><li id="moreList57" style="display:none;"><a href="/location.cfm?ID=3351">bordeaux</a></li><li id="moreList59" style="display:none;"><a href="/location.cfm?ID=3378">calais</a></li><li id="moreList55" style="display:none;"><a href="/location.cfm?ID=3337 ">deauville</a></li><li id="moreList92"><a href="/location.cfm?ID=3412">dijon</a></li><li id="moreList52" style="display:none;"><a href="/location.cfm?ID=3342">le touquet</a></li><li id="moreList61" style="display:none;"><a href="/location.cfm?ID=3345">lyon</a></li><li id="moreList62" style="display:none;"><a href="/location.cfm?ID=3343">marseille</a></li><li id="moreList56" style="display:none;"><a href="/location.cfm?ID=3348">nice</a></li><li id="moreList93"><a href="/location.cfm?ID=3404">rennes</a></li><li id="moreList53" style="display:none;"><a href="/location.cfm?ID=3347">toulouse</a></li><li id="moreList88" style="display:none;"><a href="/location.cfm?id=3441">strasbourg</a></li></ul></div><ul><li id="moreList70" style="display:none;text-align:right;"><a href="#" style="color:#666666;">+ french cities</a>
-</li><li id="moreList39" style="display:none;"><a href="/location.cfm?ID=3314">amsterdam</a></li><li id="moreList40"><a href="/location.cfm?ID=3306">barcelona</a></li><li id="moreList91"><a href="/location.cfm?id=3323">milan</a></li><li id="moreList98"><a href="/location.cfm?ID=3324">madrid</a></li><li id="moreList102"><a href="/location.cfm?id=3506">vienna</a></li><li id="moreList103"><a href="/location.cfm?ID=3502">zurich</a></li></ul><div id="hiddenList71"><ul><li id="moreList85" style="display:none;"><a href="/location.cfm?ID=3449">algarve</a></li><li id="moreList99"><a href="/location.cfm?id=3505">geneva</a></li><li id="moreList41"><a href="/location.cfm?ID=3319">berlin</a></li><li id="moreList42" style="display:none;"><a href="/location.cfm?ID=3320">bilbao</a></li><li id="moreList43"><a href="/location.cfm?ID=3316">brussels</a></li><li id="moreList89"><a href="/location.cfm?ID=3454">lisbon</a></li><li id="moreList84"><a href="/location.cfm?ID=3420">munich</a></li><li id="moreList86"><a href="/location.cfm?id=3411">florence</a></li><li id="moreList87"><a href="/location.cfm?id=3421">hamburg</a></li><li id="moreList97"><a href="/location.cfm?ID=3504">marrakech</a></li><li id="moreList54" style="display:none;"><a href="/location.cfm?id=3318">dublin</a></li><li id="moreList94"><a href="/location.cfm?ID=3472">frankfurt</a></li><li id="moreList95"><a href="/location.cfm?ID=3424">porto</a></li><li id="moreList100"><a href="/location.cfm?ID=3498">cologne</a></li><li id="moreList101"><a href="/location.cfm?ID=3596">stockholm</a></li><li id="moreList81" style="display:none;"><a href="/location.cfm?ID=3304">rome</a></li><li id="moreList96"><a href="/location.cfm?ID=3474">seville</a></li><li id="moreList83" style="display:none;"><a href="/location.cfm?ID=3410">tenerife</a></li><li id="moreList35"><a href="/location.cfm?ID=3307">new york</a></li><li id="moreList45" style="display:none;"><a href="/location.cfm?ID=3322">venice</a></li></ul></div><ul><li id="moreList71" style="display:none;text-align:right;"><a href="#" style="color:#666666;">+ worldwide cities</a>
-</li></ul></div><script language="javascript" type="text/javascript">
-//<![CDATA[
-window.addEvent('domready', function(){var moreList45 = document.getElementById('moreList45');if(moreList45) {moreList45.style.visibility = 'visible';moreList45.style.display = 'block';}var moreList83 = document.getElementById('moreList83');if(moreList83) {moreList83.style.visibility = 'visible';moreList83.style.display = 'block';}var moreList81 = document.getElementById('moreList81');if(moreList81) {moreList81.style.visibility = 'visible';moreList81.style.display = 'block';}var moreList54 = document.getElementById('moreList54');if(moreList54) {moreList54.style.visibility = 'visible';moreList54.style.display = 'block';}var moreList42 = document.getElementById('moreList42');if(moreList42) {moreList42.style.visibility = 'visible';moreList42.style.display = 'block';}var moreList85 = document.getElementById('moreList85');if(moreList85) {moreList85.style.visibility = 'visible';moreList85.style.display = 'block';}var moreList71 = document.getElementById('moreList71');if(moreList71) {moreList71.style.visibility = 'visible';moreList71.style.display = 'block';}var moreList39 = document.getElementById('moreList39');if(moreList39) {moreList39.style.visibility = 'visible';moreList39.style.display = 'block';}var moreList88 = document.getElementById('moreList88');if(moreList88) {moreList88.style.visibility = 'visible';moreList88.style.display = 'block';}var moreList53 = document.getElementById('moreList53');if(moreList53) {moreList53.style.visibility = 'visible';moreList53.style.display = 'block';}var moreList56 = document.getElementById('moreList56');if(moreList56) {moreList56.style.visibility = 'visible';moreList56.style.display = 'block';}var moreList62 = document.getElementById('moreList62');if(moreList62) {moreList62.style.visibility = 'visible';moreList62.style.display = 'block';}var moreList61 = document.getElementById('moreList61');if(moreList61) {moreList61.style.visibility = 'visible';moreList61.style.display = 'block';}var moreList52 = document.getElementById('moreList52');if(moreList52) {moreList52.style.visibility = 'visible';moreList52.style.display = 'block';}var moreList55 = document.getElementById('moreList55');if(moreList55) {moreList55.style.visibility = 'visible';moreList55.style.display = 'block';}var moreList59 = document.getElementById('moreList59');if(moreList59) {moreList59.style.visibility = 'visible';moreList59.style.display = 'block';}var moreList57 = document.getElementById('moreList57');if(moreList57) {moreList57.style.visibility = 'visible';moreList57.style.display = 'block';}var moreList60 = document.getElementById('moreList60');if(moreList60) {moreList60.style.visibility = 'visible';moreList60.style.display = 'block';}var moreList70 = document.getElementById('moreList70');if(moreList70) {moreList70.style.visibility = 'visible';moreList70.style.display = 'block';}var moreList31 = document.getElementById('moreList31');if(moreList31) {moreList31.style.visibility = 'visible';moreList31.style.display = 'block';}var moreList64 = document.getElementById('moreList64');if(moreList64) {moreList64.style.visibility = 'visible';moreList64.style.display = 'block';}var moreList49 = document.getElementById('moreList49');if(moreList49) {moreList49.style.visibility = 'visible';moreList49.style.display = 'block';}var moreList32 = document.getElementById('moreList32');if(moreList32) {moreList32.style.visibility = 'visible';moreList32.style.display = 'block';}var moreList33 = document.getElementById('moreList33');if(moreList33) {moreList33.style.visibility = 'visible';moreList33.style.display = 'block';}var moreList58 = document.getElementById('moreList58');if(moreList58) {moreList58.style.visibility = 'visible';moreList58.style.display = 'block';}var moreList30 = document.getElementById('moreList30');if(moreList30) {moreList30.style.visibility = 'visible';moreList30.style.display = 'block';}var moreList51 = document.getElementById('moreList51');if(moreList51) {moreList51.style.visibility = 'visible';moreList51.style.display = 'block';}var moreList48 = document.getElementById('moreList48');if(moreList48) {moreList48.style.visibility = 'visible';moreList48.style.display = 'block';}var moreList29 = document.getElementById('moreList29');if(moreList29) {moreList29.style.visibility = 'visible';moreList29.style.display = 'block';}var moreList27 = document.getElementById('moreList27');if(moreList27) {moreList27.style.visibility = 'visible';moreList27.style.display = 'block';}var moreList50 = document.getElementById('moreList50');if(moreList50) {moreList50.style.visibility = 'visible';moreList50.style.display = 'block';}var moreList28 = document.getElementById('moreList28');if(moreList28) {moreList28.style.visibility = 'visible';moreList28.style.display = 'block';}var moreList22 = document.getElementById('moreList22');if(moreList22) {moreList22.style.visibility = 'visible';moreList22.style.display = 'block';}var moreList69 = document.getElementById('moreList69');if(moreList69) {moreList69.style.visibility = 'visible';moreList69.style.display = 'block';}
-if(document.getElementById('hiddenList71')){var slider71 = new Fx.Slide('hiddenList71');slider71.status = 'closed';$('moreList71').addEvent('click', function(e){e = new Event(e);var moreButton = document.getElementById('moreList71');if(slider71.status == 'open'){slider71.slideOut();slider71.status = 'closed';if(moreButton){moreButton.innerHTML = moreButton.innerHTML.replace('>- close<','>+ more<');}}else{slider71.slideIn();slider71.status = 'open';if(moreButton){moreButton.innerHTML = moreButton.innerHTML.replace('>+ more<','>- close<');}}e.stop();});if(slider71.status == 'closed') slider71.hide();}
-if(document.getElementById('hiddenList70')){var slider70 = new Fx.Slide('hiddenList70');slider70.status = 'closed';$('moreList70').addEvent('click', function(e){e = new Event(e);var moreButton = document.getElementById('moreList70');if(slider70.status == 'open'){slider70.slideOut();slider70.status = 'closed';if(moreButton){moreButton.innerHTML = moreButton.innerHTML.replace('>- close<','>+ more<');}}else{slider70.slideIn();slider70.status = 'open';if(moreButton){moreButton.innerHTML = moreButton.innerHTML.replace('>+ more<','>- close<');}}e.stop();});if(slider70.status == 'closed') slider70.hide();}
-if(document.getElementById('hiddenList69')){var slider69 = new Fx.Slide('hiddenList69');slider69.status = 'closed';$('moreList69').addEvent('click', function(e){e = new Event(e);var moreButton = document.getElementById('moreList69');if(slider69.status == 'open'){slider69.slideOut();slider69.status = 'closed';if(moreButton){moreButton.innerHTML = moreButton.innerHTML.replace('>- close<','>+ more<');}}else{slider69.slideIn();slider69.status = 'open';if(moreButton){moreButton.innerHTML = moreButton.innerHTML.replace('>+ more<','>- close<');}}e.stop();});if(slider69.status == 'closed') slider69.hide();}});
-//]]>
-</script>
-</div>
-<div style="width:120px;padding:0px;margin:1px 0px 0px 0px;"><div style="border: 1px dotted #33CCCC;">
-<div style="padding:0px;margin:0px;"><a href="/destination/index.cfm"><img src="/img/green_Map_small.gif" width="118" height="50" onmouseover="this.src='/img/pink_Map_small.gif';" onmouseout="this.src='/img/green_Map_small.gif';" border="0"></a></div>
-<div style="padding-bottom:3px;margin:0px;text-align:center;font-size:9px; font-family:Arial, Helvetica, sans-serif; font-weight:normal;"><a href="/destination/index.cfm" class="grnLink">find restaurants by map</a></div>
-</div></div> 
-<div style="width:120px;margin-top:5px;overflow:hidden;padding:0px;">
-</div>
-</div>
-<div id="mainContent">
-<div id="intro" class="lightGreenBg">
-<div id="denOffer" style="float:right; display:none"><img src="/img/denOffer.gif" width="98" height="11"></div>
-<h1>privacy statement</h1>
-<hr>
-<h4> toptable.co.uk Limited is committed to ensuring that your privacy is protected. This policy explains how we use the information we collect about you, how you can instruct us if you prefer to limit the use of that information and procedures that we have in place to safeguard your privacy.</h4>
-</div>
-<div id="insideContent">
-<div id="feature">
-<div id="textBlock">
-<a name="24"></a>
-<table border="0" width="100%" cellpadding="0" cellspacing="0">
-<tbody><tr>
-<td>
-<div id="textBlockItem" no="" style=""> <h2 no="" style="">Privacy Statement</h2><p>By providing your personal details to us, you signify your acceptance of our Privacy Statement. If you do not agree to this statement, please do not provide your personal details to us. This privacy statement is incorporated into, and part of, the Terms and Conditions, which govern your use of the site in general. We will use your information for the purposes set out in paragraph 5 below. You will have an opportunity to unsubscribe whenever we communicate with you. To unsubscribe from toptable.co.uk communications please send an email to <a href="mailto:info@toptable.co.uk" class="gLink">info@toptable.co.uk</a> with 'unsubscribe' in the subject box.
-<br>
-<br>We may need to update this privacy statement from time to time. We recommend that you regularly check this page to ensure that you have read the most recent version.
-<br>
-<br><b>1. Collecting personal information</b>
-<br>
-<br>You can decide what personal information you provide to us. We will only collect personal information that you choose to provide. Where possible, we will enable you to select how we will use this information (for example, by choosing to opt-in or opt-out of receiving special promotional offers).
-<br>
-<br>You may choose to provide us with personal information if, for example, you: contact us with an enquiry; register on the site, fill out a survey or other form with your personal information included; request us to provide you with information; enter a competition; post information to public areas of the site or participate in a promotion.
-<br>
-<br>You have the opportunity to choose not to opt-in receive communications from us at any point where we request information about you.
-<br>
-<br>By providing any personal information to us, you fully understand and clearly consent to the transfer of such personal information to, and the collection and processing of such information in, other countries or territories. Any such transfer and processing by us will be in accordance with this privacy policy.
-<br>
-<br><b>Third parties</b> (including but not limited to software providers, advertisers and ad placement agencies) may also use tracking technologies by or through the site. We have no responsibility or liability for any tracking, data collection or other activities of such third parties.
-<br>
-<br><b>2. Our use of personal information</b>
-<br>
-<br>We will use information collected from you in the following ways:
-<br>
-<br><b>Marketing purposes</b>. We may use information for internal marketing analysis, for example, to assess trends amongst our consumers or to measure the amount of traffic to our websites. We may also use your personal information in order to communicate with you about our products and services and those of our subsidiaries, affiliates, and parent companies and any of their related businesses. However, you will be able to opt out of these communications. We may also share non-personal information with others, such as advertisers, in aggregate anonymous form, which means that the information will not contain any personally identifiable information about you.
-<br>
-<br><b>Transactional purposes</b>. We may use your personal information in order to respond to your queries and requests and to manage transactions such as credit card payments for any goods that you order from us or any of our agents, or for the fulfilment of such transactions (e.g. delivery). The personal information you provide may be used by an authorised vendor to fulfil that order.
-<br>
-<br><b>Third party offers</b>. We may arrange for carefully selected organisations to send you marketing and promotional information that may be of interest to you. In such circumstances your personal information may be disclosed to these organisations who will agree to be bound by the terms of this privacy statement. We will obtain your permission before we send you any such communications.
-<br>
-<br><b>Public (or Interactive) Areas of the Site</b>. Information that you post on or through the public areas of the site (e.g., chat rooms, bulletin boards and discussion groups) are generally accessible to, and may be collected and used by, others and may result in unsolicited messages or other contact from others. Users of the site are encouraged to exercise caution when providing personal information about themselves in public areas of this site.
-<br>
-<br><b>Sale and Transfer</b>. In the event of a sale, merger, consolidation, change in control, transfer of substantial assets, reorganisation or liquidation, we may transfer, sell, or assign to third parties information concerning your relationship with us, including without limitation, personally identifiable information that you provide and other information concerning your relationship with us.
-<br>
-<br><b>Administration and Data Management</b>. We may transfer your personal information to third parties under confidentiality obligations when the performance of any service in relation to the activities above is sub-contracted (e.g. the administration of a marketing campaign).
-<br>
-<br><b>Legal purposes</b>. We may disclose your personal information if permitted by law or required to do so by law or where we believe such action is necessary in order to protect or defend our interests or the interests of our customers or users of our site.
-<br>
-<br><b>Links</b>. This site may contain links or references to other Web sites outside of our control. Please be aware that we have no control over these sites and our privacy statement does not apply to these sites. We encourage you to read the privacy statements and terms and conditions of linked or referenced sites you enter.
-<br>
-<br><b>3. Use of cookies</b>
-<br>
-<br>In common with many websites, we use "cookies" to help us gather the following information from visitors to toptable.co.uk, for example:
-<br>
-<br>· the IP address from which you access the site
-<br>
-<br>· the type of browser and operating system used to access the site
-<br>
-<br>· the date and time of your access to the site
-<br>
-<br>· the pages you visit
-<br>
-<br>· the internet address of the website from which you accessed the site
-<br>
-<br>A cookie is a small data file that our server sends to your browser when you visit the site. The use of cookies helps us to assist your use of certain aspects of the site. You can delete cookies at any time or you can set your browser to reject or disable cookies. If you do disable cookies some functions on the site may not work correctly.
-<br>
-<br>We use information from cookies, for example, to learn about the number of visitors to our site and the type of technology that our visitors use. Cookies help us to monitor what sort of content is popular and to assess visitors browsing habits. When a user revisits the site, we may recognise the user by the cookie and customise the user's experience accordingly. We can use this information to continually improve the content and usability of the site.
-<br>
-<br>We may compile and report to third parties (such as advertisers) aggregate statistics about our users in terms of numbers, traffic patterns and related site information.
-<br>
-<br>We do not connect the information collected through cookies with other information that is personally identifiable, unless required or permitted to do so by law or to enforce the Terms &amp; Conditions.
-<br>
-<br><b>4. How we protect your information</b>
-<br>
-<br>We take security seriously and we take precautions to keep your personal information secure. We have put in place appropriate physical, electronic and managerial procedures to safeguard the information we collect. However, due to the open communication nature of the Internet, toptable.co.uk cannot guarantee that communications between you and toptable.co.uk, or information stored on toptable.co.uk servers, will be free from unauthorised access by third parties.
-<br>
-<br><b>5. Your details and contacting us</b>
-<br>
-<br>You can check what personal information we hold about you, update your information, ask us to remove your information, correct any inaccuracies in such personal information or ask us questions about our Privacy Statement, by contacting us at <a href="mailto:info@toptable.co.uk" class="gLink">info@toptable.co.uk</a> We will make every effort to respond to your request in a timely manner. </p><div style="clear:both;"></div>
-</div>
-</td>
-</tr>
-</tbody></table>
-</div>
-</div>
-</div>
-</div>
-<div id="adBar">
-<div id="right_corner_login" class="">
-<form action="/index.cfm" method="post">
-<div id="right_corner_login_head">
-<h2>log in</h2>
-</div>
-<div id="right_corner_login_body">
-<div class="form_row">
-<div class="left_col">email</div> <div class="right_col"><input name="email" size="7" value="" type="text"></div>
-</div>
-<div class="form_row">
-<div class="left_col">password </div> <div class="right_col"><input name="password" size="7" value="" type="password"></div>
-</div>
-<div class="login_form_row_no_height clearfix">
-<div class="left_col">
-<a href="/index.cfm" class="grnLinkNotBold smallfont" title="forgotten your password?">forgotten password?</a><br>
-</div>
-<div class="right_col">
-<input name="action" value="login" type="hidden">
-<input type="image" src="/img/buttons/green/go2.gif" class="go_button margin_right_2">
-</div>
-</div>
-</div>
-</form>
-</div>
-<div id="oho">
-<div class="inner">
-<h2 style="margin-top:-3px;margin-bottom:7px; font-weight:bold">hottest offers</h2>
-<p class="hoPfixIE"> <a href="http://www.toptable.co.uk/venues/restaurants/?id=4127" title="" name="&amp;lid=3034"> The Green (EC1) </a> </p>
-<p class="text"> <a href="http://www.toptable.co.uk/venues/restaurants/?id=4127" title="" name="&amp;lid=3034"> 50% off food</a> </p>
-<a href="http://www.toptable.co.uk/venues/restaurants/?id=4127" title="" name="&amp;lid=3034" style="color: #009999"> book now</a> 
-<hr>
-<p class="hoPfixIE"> <a href="http://toptable.eolts.co.uk/" title="" name="&amp;lid=2593"> Book a theatre ticket</a> </p>
-<p class="text"> <a href="http://toptable.eolts.co.uk/" title="" name="&amp;lid=2593"> Earn 400 points</a> </p>
-<a href="http://toptable.eolts.co.uk/" title="" name="&amp;lid=2593" style="color: #009999"> book now</a> 
-<hr>
-<p class="hoPfixIE"> <a href="http://www.octopustravel.com/Enter.jsp?Siteid=toptable " title="" name="&amp;lid=2045"> Book a hotel</a> </p>
-<p class="text"> <a href="http://www.octopustravel.com/Enter.jsp?Siteid=toptable " title="" name="&amp;lid=2045"> Earn up to 1400 points</a> </p>
-<a href="http://www.octopustravel.com/Enter.jsp?Siteid=toptable " title="" name="&amp;lid=2045" style="color: #009999"> book now</a> 
-</div>
-</div>
-<div class="lightGreenBg" style="text-align:center; padding-bottom:10px">
-<span class="rss"><a href="http://rss.services.toptable.com//specialOffers/" title="Special offers RSS feed"><img src="/img/rss/rss_smaller.gif" alt="Special offers RSS feed" border="0"></a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/features/rssFeeds.cfm" title="Special offers RSS feed">learn more</a></span>
-</div>
-</div>
+        
+                    </div>
+                    <div class="slot-spacing">
+                        
+    
+                        
+                        
+                    </div>
+                    
+                    
+                    
+                    
+                    <div class="flash-area skyscraper-container">
+                        <input type="hidden" class="dart-url" value="http://ad.uk.doubleclick.net/adj/toptable/en-GB;type=privacy;location=Venice;tile=1;sz=160x600;ord=865774677?"><noscript><a href="http://ad.uk.doubleclick.net/jump/toptable/en-GB;type=privacy;location=Venice;tile=1;sz=160x600;ord=865774677?" target="_blank"><img border="0" src="http://ad.uk.doubleclick.net/ad/toptable/en-GB;type=privacy;location=Venice;tile=1;sz=160x600;ord=865774677?" /></a></noscript>
+                    </div>
+                    
+                    
+                </div>
+                
+ <div id="countries-container">
+                <ul>
+                    <li><a href="/location/content/?l=3499" class="au" onclick="s_objectID=&quot;https://web.archive.org/location/content/?l=3499_venice_english+(united+kingdom)_2&quot;;return this.s_oc?this.s_oc(e):true">AU</a></li>
+                    <li><a href="/location/content/?l=3315" class="be" onclick="s_objectID=&quot;https://web.archive.org/location/content/?l=3315_venice_english+(united+kingdom)_2&quot;;return this.s_oc?this.s_oc(e):true">BE</a></li>
+                    <li><a href="/location/content/?l=3500" class="ch" onclick="s_objectID=&quot;https://web.archive.org/location/content/?l=3500_venice_english+(united+kingdom)_2&quot;;return this.s_oc?this.s_oc(e):true">CH</a></li>
+                    <li><a href="/location/content/?l=3309" class="de" onclick="s_objectID=&quot;https://web.archive.org/location/content/?l=3309_venice_english+(united+kingdom)_2&quot;;return this.s_oc?this.s_oc(e):true">DE</a></li>
+                    <li><a href="/location/content/?l=3302" class="es" onclick="s_objectID=&quot;https://web.archive.org/location/content/?l=3302_venice_english+(united+kingdom)_2&quot;;return this.s_oc?this.s_oc(e):true">ES</a></li>
+                    <li><a href="/location/content/?l=3301" class="fr" onclick="s_objectID=&quot;https://web.archive.org/location/content/?l=3301_venice_english+(united+kingdom)_2&quot;;return this.s_oc?this.s_oc(e):true">FR</a></li>
+                    <li><a href="/location/content/?l=3317" class="ie" onclick="s_objectID=&quot;https://web.archive.org/location/content/?l=3317_venice_english+(united+kingdom)_2&quot;;return this.s_oc?this.s_oc(e):true">IE</a></li>
+                    <li><a href="/location/content/?l=3303" class="it" onclick="s_objectID=&quot;https://web.archive.org/location/content/?l=3303_venice_english+(united+kingdom)_3&quot;;return this.s_oc?this.s_oc(e):true">IT</a></li>
+                    <li><a href="/location/content/?l=4619" class="ma" onclick="s_objectID=&quot;https://web.archive.org/location/content/?l=4619_venice_english+(united+kingdom)_1&quot;;return this.s_oc?this.s_oc(e):true">MA</a></li>
+                    <li><a href="/location/content/?l=3313" class="nl" onclick="s_objectID=&quot;https://web.archive.org/location/content/?l=3313_venice_english+(united+kingdom)_2&quot;;return this.s_oc?this.s_oc(e):true">NL</a></li>
+                    <li><a href="/location/content/?l=3419" class="pt" onclick="s_objectID=&quot;https://web.archive.org/location/content/?l=3419_venice_english+(united+kingdom)_2&quot;;return this.s_oc?this.s_oc(e):true">PT</a></li>
+                    <li><a href="/location/content/?l=3595" class="se" onclick="s_objectID=&quot;https://web.archive.org/location/content/?l=3595_venice_english+(united+kingdom)_2&quot;;return this.s_oc?this.s_oc(e):true">SE</a></li>
+                    <li><a href="/location/content/?l=1" class="uk" onclick="s_objectID=&quot;https://web.archive.org/location/content/?l=1_venice_english+(united+kingdom)_2&quot;;return this.s_oc?this.s_oc(e):true">UK</a></li>
+                    <li><a href="/location/content/?l=3300" class="us" onclick="s_objectID=&quot;https://web.archive.org/location/content/?l=3300_venice_english+(united+kingdom)_1&quot;;return this.s_oc?this.s_oc(e):true">US</a></li>
+                </ul>
+            </div>
+            </div>
+            
 <div id="footer">
-<div style="margin-bottom:8px;">
-<ul class="inLine noListImage">
-<li class="inLineListItem"><a title="restaurants in belgium" href="/location.cfm?ID=3316" style="text-decoration:none;"><img src="/images/flags/belgium.gif" alt="" align="top" border="0"></a></li>
-<li class="inLineListItem"><a title="restaurants in germany" href="/feature/?fid=769" style="text-decoration:none;"><img src="/images/flags/germany.gif" alt="" align="top" border="0"></a></li>
-<li class="inLineListItem"><a title="restaurants in spain" href="/feature/?fid=767" style="text-decoration:none;"><img src="/images/flags/spain.gif" alt="" align="top" border="0"></a></li>
-<li class="inLineListItem"><a title="restaurants in france" href="/feature/?fid=766" style="text-decoration:none;"><img src="/images/flags/france.gif" alt="" align="top" border="0"></a></li>
-<li class="inLineListItem"><a title="restaurants in ireland" href="/search_results.cfm?sid=271" style="text-decoration:none;"><img src="/images/flags/ireland.gif" alt="" align="top" border="0"></a></li>
-<li class="inLineListItem"><a title="restaurants in italy" href="/feature/?fid=768" style="text-decoration:none;"><img src="/images/flags/italy.gif" alt="" align="top" border="0"></a></li>
-<li class="inLineListItem"><a title="restaurants in holland" href="/location.cfm?ID=3314" style="text-decoration:none;"><img src="/images/flags/netherlands.gif" alt="" align="top" border="0"></a></li>
-<li class="inLineListItem"><a title="restaurants in usa" href="/location.cfm?ID=3307" style="text-decoration:none;"><img src="/images/flags/us.gif" alt="" align="top" border="0"></a></li>
-<li class="inLineListItem"><a title="restaurants in portugal" href="/feature/?fid=785" style="text-decoration:none;"><img src="/images/flags/portugal.gif" alt="" align="top" border="0"></a></li>
-<li class="inLineListItem"><a title="restaurants in austria" href="/location.cfm?ID=3506" style="text-decoration:none;"><img src="/images/flags/austria.gif" alt="" align="top" border="0"></a></li>
-<li class="inLineListItem"><a title="restaurants in sweden" href="/location.cfm?ID=3596" style="text-decoration:none;"><img src="/images/flags/sweden.gif" alt="" align="top" border="0"></a></li>
-</ul>
-</div>
-<div style="clear:both"></div> 
-  <h2 style="color:#CC0066">
-  
-<a href="/mytoptable.cfm" title="change your booking" style="color:##CC0066;text-decoration:none">change your booking</a>
-|
-<a href="/feature.cfm?fID=105" title="online help" style="color:##CC0066;text-decoration:none">online help</a>
-&nbsp;&nbsp;&nbsp;
-<span class="rss">
-<a href="/features/rssFeeds.cfm" class="grnLink"><img src="/img/rss/rss_smaller.gif" border="0" alt="rss"></a>
-</span>
-  </h2>
-<h4>
-<a href="/feature/?fid=554" title="restaurateurs" class="grnLink">restaurateurs</a>
-|
-<a href="/feature.cfm?fid=325" title="advertise" class="grnLink">advertise</a>
-|
-<a href="/about/press/" title="press" class="grnLink">press</a>
-|
-<a href="/about/" title="about us" class="grnLink">about us</a>
-|
-<a href="/feature.cfm?fID=8" title="privacy" class="grnLink">privacy</a>
-|
-<a href="/feature.cfm?fID=10" title="terms" class="grnLink">terms</a>
-|
-<a href="/feature.cfm?fid=38" title="jobs" class="grnLink">jobs</a>
-|
-<a href="/feature.cfm?fid=672" title="widgets" name="&amp;lid=101" class="grnLink">widgets</a>
-</h4>
-<div style="color:#666666;font-size:12px;">customer services: 0870 850 8454</div>
-</div>
-</div>
-<div id="advertcontainer" style="width:160px;float: right; margin-left:5px; margin-top:70px;">
-<div id="skyscraper" style="width:160px; height:600px; background-color:#ffffff; float:right;">
-<!--  begin ad tag: toptable/generic  (120x600,160x600) -->  <script language="JavaScript" type="text/javascript">  ord = (typeof(ord)!='undefined') ? ord : Math.random()*10000000000000000;  document.write('<scr'+'ipt language="JavaScript" src="http://ad.doubleclick.net/adj/toptable/feature;type=feature;id=8;sz=120x600,160x600;tile=2;pos=1;ord='+ord+'?" type="text/javascript"></scr'+'ipt>');  </script><script language="JavaScript" src="http://ad.doubleclick.net/adj/toptable/feature;type=feature;id=8;sz=120x600,160x600;tile=2;pos=1;ord=988571271963421?" type="text/javascript"></script>  <noscript>  <a href="http://ad.doubleclick.net/jump/toptable/feature;type=feature;id=8;sz=120x600,160x600;tile=2;pos=1;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/toptable/feature;type=feature;id=8;sz=120x600,160x600;tile=2;pos=1;ord=123456789?" border="0" alt=""></a>  </noscript>  <!-- End ad tag -->
-</div>
-</div>
-</div>
-<script type="text/javascript">
-<!--
-SET_DHTML('err');
-//-->
-</script>
-<!-- START Nielsen//NetRatings SiteCensus V5.2 -->
-<!-- COPYRIGHT 2006 Nielsen//NetRatings -->
-<script type="text/javascript">
-var _rsCI="toptable";
-var _rsCG="0";
-var _rsDN="//secure-uk.imrworldwide.com/";
-var _rsCC=0;
-</script>
-<script type="text/javascript" src="//secure-uk.imrworldwide.com/v52.js"></script>
-<noscript>
-<img src="//secure-uk.imrworldwide.com/cgi-bin/m?ci=toptable&amp;cg=0" alt=""/>
-</noscript>
-<!-- END Nielsen//NetRatings SiteCensus V5.2 -->
-<!-- IonMail -->
-<script type="text/javascript">
-//<![CDATA[
-var pageRef = 'feature page'; //which page
-//date: format - yyyymmdd
-var bkDate1='';
-var bkDate2='';
-//numeric: format - (accepts period) i.e. "1.50"
-var bkFloat1='';
-var bkFloat2='';
-//numeric: format - (no period) i.e. "100"
-var bkNumber1='';
-var bkNumber2='';
-//string: format - (Alpha Numeric A-Z a-z 0-9)
-var bkString1='';
-var bkString2='';
-//]]>
-</script>
-<script type="text/javascript" src="/script/ionMail_tags.js"></script>
-<!-- / IonMail -->
-<script type="text/javascript"> 
-//<![CDATA[
-if (window.location.toString().indexOf("bbcam=") > -1) 
-{ 
-r=document.referrer; 
-document.write("<p><img src=http://rs0.co.uk/gif.php?bbcid=1147&amp;bbact=a1&amp;bbval='0'&amp;bbref='",r,"' height=1 width=1 border=0 /></p>"); 
-} 
-//]]>
-</script>
-<!--WEBSIDESTORY CODE HBX1.0 (Universal)-->
-<!--COPYRIGHT 1997-2005 WEBSIDESTORY,INC. ALL RIGHTS RESERVED. U.S.PATENT No. 6,393,479B1. MORE INFO:http://websidestory.com/privacy-->
-<script type="text/javascript" language="javascript">
-//<![CDATA[
-var _hbEC=0,_hbE=new Array;function _hbEvent(a,b){b=_hbE[_hbEC++]=new Object();b._N=a;b._C=0;return b;}
-var hbx=_hbEvent("pv");hbx.vpc="HBX0200u";hbx.gn="ehg-toptable.hitbox.com";
-//BEGIN EDITABLE SECTION
-//CONFIGURATION VARIABLES
-hbx.dcmpre="";
-hbx.cp="null";
-hbx.hlt="";
-hbx.hc2="";
-hbx.dft="n";
-hbx.hra="privacy+statement";
-hbx.fnl="";
-hbx.cmpn="";
-hbx.dcmp="";
-hbx.hrf="";
-hbx.cpd="";
-hbx.pn="privacy+statement";
-hbx.fv="";
-hbx.seg="";
-hbx.lt="auto";
-hbx.dcmpn="";
-hbx.hcv="";
-hbx.mlc="/features/cms+generated";
-hbx.gpn="";
-hbx.hqsr="";
-hbx.hqsp="";
-hbx.elf="n";
-hbx.gp="";
-hbx.hc3="";
-hbx.dlf="n";
-hbx.dcmpe="";
-hbx.pndef="title";
-hbx.hcn="";
-hbx.hla="";
-hbx.ci="";
-hbx.cmp="";
-hbx.ctdef="full";
-hbx.pec="";
-hbx.acct="DM561121CKRA";
-hbx.hc4="";
-hbx.hc1="";
-
-//INSERT CUSTOM EVENTS
-//END EDITABLE SECTION
-//REQUIRED SECTION. CHANGE "YOURSERVER" TO VALID LOCATION ON YOUR WEB SERVER (HTTPS IF FROM SECURE SERVER)
-//]]>
-</script>
-<script type="text/javascript" language="javascript1.1" defer="" src="/script/hbx.js"></script>
-<!--END WEBSIDESTORY CODE-->
-<script type="text/javascript">
-//<![CDATA[
-var title = 'TITLE';
-try {
-if (title == unescape('%u0054%u0049%u0054%u004C%u0045') && document.title) title = document.title;
-document.write('<p><img width="0" height="0" border="0" src="http://media.adrevolver.com/adrevolver/trace?adpath=882&amp;title=' + escape(title) + '&amp;ref=' + escape(document.referrer) + '&amp;rnd=' + Math.round(Math.random() * 10000000) + '" /></p>');
-} catch(e){}
-//]]>
-</script><p><img width="0" height="0" border="0" src="http://media.adrevolver.com/adrevolver/trace?adpath=882&amp;title=privacy%20statement%20-%20Online%20UK%20and%20London%20Restaurants%20Booking%20and%20Guide%20from%20toptable.co.uk&amp;ref=&amp;rnd=7341981"></p>
-<script language="JavaScript" type="text/javascript" src="/script/mxm_roi_library.js"></script>
-<script language="JavaScript" type="text/javascript">
-//<![CDATA[
-try {
-mxm_roi_tracking();
-}
-catch(err) {
-}
-//]]>
-</script>
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
-<script type="text/javascript">
-//<![CDATA[
-_uacct = "UA-2621903-1";
-urchinTracker();
-//]]>
-</script>
-<script language="JavaScript">var tcdacmd="dt";</script>
-<script src="http://an.tacoda.net/an/14804/slf.js" language="JavaScript"></script>
-<div style="visibility: hidden">
+    <div class="wide">
+        <h3 class="logo">
+            <img id="ctl00_Footer_Image1" src="/images/toptable-logo-footer.gif" alt="toptable" border="0">
+            
+        </h3>
+        <ul class="icon-list">
+            <li class="icon-question"><a href="/feature/?id=2436" onclick="s_objectID=&quot;https://web.archive.org/feature/?id=2436_venice_english+(united+kingdom)_1&quot;;return this.s_oc?this.s_oc(e):true">
+                Customer Support</a>
+            </li>
+            <li class="icon-party"><strong>
+                Parties &amp; Events</strong>
+                020 7299 2949
+            </li>
+            <li class="icon-change"><a href="/myaccount/bookings/history/" onclick="s_objectID=&quot;https://web.archive.org/myaccount/bookings/history/_venice_english+(united+kingdom)_2&quot;;return this.s_oc?this.s_oc(e):true">
+                Change or cancel a booking
+            </a></li>
+            <li class="icon-help"><a href="/myaccount/" onclick="s_objectID=&quot;https://web.archive.org/myaccount/_venice_english+(united+kingdom)_2&quot;;return this.s_oc?this.s_oc(e):true">
+                Your account</a> </li>
+        </ul>
+    </div>
+    <div class="wide no-border">
+        <h3>
+            Commercial</h3>
+        <ul>
+            <li><a href="/advertising/" onclick="s_objectID=&quot;https://web.archive.org/advertising/_venice_english+(united+kingdom)_1&quot;;return this.s_oc?this.s_oc(e):true">
+                Advertise with us</a></li>
+            <li><a href="/partnerships/" onclick="s_objectID=&quot;https://web.archive.org/partnerships/_venice_english+(united+kingdom)_1&quot;;return this.s_oc?this.s_oc(e):true">
+                Become a booking partner</a></li>
+            <li><a href="/restaurateurs/" onclick="s_objectID=&quot;https://web.archive.org/restaurateurs/_venice_english+(united+kingdom)_1&quot;;return this.s_oc?this.s_oc(e):true">
+                Restaurateurs</a></li>
+            <li id="ctl00_Footer_CasualDiningFooterLinkItem"><a href="/advertising/casual/" onclick="s_objectID=&quot;https://web.archive.org/advertising/casual/_venice_english+(united+kingdom)_1&quot;;return this.s_oc?this.s_oc(e):true">
+                Casual dining advertising</a></li>
+            <li><a href="http://press.toptable.com/" id="ctl00_Footer_RecentPressLink" onclick="s_objectID=&quot;http://press.toptable.com/_venice_english+(united+kingdom)_1&quot;;return this.s_oc?this.s_oc(e):true">
+                Press office</a></li>
+        </ul>
+    </div>
+    <div class="wide">
+        <h3>
+            toptable</h3>
+        <ul>
+            <li><a href="/terms-and-conditions/" onclick="s_objectID=&quot;https://web.archive.org/terms-and-conditions/_venice_english+(united+kingdom)_1&quot;;return this.s_oc?this.s_oc(e):true">
+                Terms and conditions</a></li>
+            <li><a href="/privacy/" onclick="s_objectID=&quot;https://web.archive.org/privacy/_venice_english+(united+kingdom)_1&quot;;return this.s_oc?this.s_oc(e):true">
+                Privacy</a></li>
+            <li><a href="/feature/?id=2319" onclick="s_objectID=&quot;https://web.archive.org/feature/?id=2319_venice_english+(united+kingdom)_1&quot;;return this.s_oc?this.s_oc(e):true">Review guidelines</a></li>
+            <li><a href="/about-us/" onclick="s_objectID=&quot;https://web.archive.org/about-us/_venice_english+(united+kingdom)_1&quot;;return this.s_oc?this.s_oc(e):true">
+                About us</a></li>
+            <li><a href="/about-us/people/" onclick="s_objectID=&quot;https://web.archive.org/about-us/people/_venice_english+(united+kingdom)_1&quot;;return this.s_oc?this.s_oc(e):true">
+                People</a></li>
+            <li id="ctl00_Footer_EmploymentFooterLinkItem"><a href="/about-us/jobs/" onclick="s_objectID=&quot;https://web.archive.org/about-us/jobs/_venice_english+(united+kingdom)_1&quot;;return this.s_oc?this.s_oc(e):true">
+                Careers</a></li>
+            <li><a href="/about-us/contact-us/" onclick="s_objectID=&quot;https://web.archive.org/about-us/contact-us/_venice_english+(united+kingdom)_1&quot;;return this.s_oc?this.s_oc(e):true">
+                Contact us</a></li>
+        </ul>
+    </div>
+    <div>
+        <h3>
+            United Kingdom</h3>
+        <ul>
+            <li><a href="/location/tree/?l=1" onclick="s_objectID=&quot;https://web.archive.org/location/tree/?l=1_venice_english+(united+kingdom)_1&quot;;return this.s_oc?this.s_oc(e):true">
+                UK index</a></li>
+            <li><a href="/location/content/?l=2313" onclick="s_objectID=&quot;https://web.archive.org/location/content/?l=2313_venice_english+(united+kingdom)_1&quot;;return this.s_oc?this.s_oc(e):true">
+                Birmingham</a></li>
+            <li><a href="/location/content/?l=464" onclick="s_objectID=&quot;https://web.archive.org/location/content/?l=464_venice_english+(united+kingdom)_1&quot;;return this.s_oc?this.s_oc(e):true">
+                Edinburgh</a></li>
+            <li><a href="/location/content/?l=401" onclick="s_objectID=&quot;https://web.archive.org/location/content/?l=401_venice_english+(united+kingdom)_1&quot;;return this.s_oc?this.s_oc(e):true">
+                Glasgow</a></li>
+            <li><a href="/location/content/?l=2167" onclick="s_objectID=&quot;https://web.archive.org/location/content/?l=2167_venice_english+(united+kingdom)_1&quot;;return this.s_oc?this.s_oc(e):true">
+                Leeds</a></li>
+            <li><a href="/location/content/?l=2941" onclick="s_objectID=&quot;https://web.archive.org/location/content/?l=2941_venice_english+(united+kingdom)_1&quot;;return this.s_oc?this.s_oc(e):true">
+                Liverpool</a></li>
+            <li><a href="/location/content/?l=7" onclick="s_objectID=&quot;https://web.archive.org/location/content/?l=7_venice_english+(united+kingdom)_2&quot;;return this.s_oc?this.s_oc(e):true">
+                London</a></li>
+            <li><a href="/location/content/?l=2847" onclick="s_objectID=&quot;https://web.archive.org/location/content/?l=2847_venice_english+(united+kingdom)_1&quot;;return this.s_oc?this.s_oc(e):true">
+                Manchester</a></li>
+        </ul>
+    </div>
+    <div>
+        <h3>
+            France index</h3>
+        <ul>
+            <li><a href="/location/tree/?l=3301" onclick="s_objectID=&quot;https://web.archive.org/location/tree/?l=3301_venice_english+(united+kingdom)_1&quot;;return this.s_oc?this.s_oc(e):true">
+                France</a></li>
+            <li><a href="/location/content/?l=3342" onclick="s_objectID=&quot;https://web.archive.org/location/content/?l=3342_venice_english+(united+kingdom)_1&quot;;return this.s_oc?this.s_oc(e):true">
+                Le Touquet</a></li>
+            <li><a href="/location/content/?l=3321" onclick="s_objectID=&quot;https://web.archive.org/location/content/?l=3321_venice_english+(united+kingdom)_1&quot;;return this.s_oc?this.s_oc(e):true">
+                Lille</a></li>
+            <li><a href="/location/content/?l=3345" onclick="s_objectID=&quot;https://web.archive.org/location/content/?l=3345_venice_english+(united+kingdom)_1&quot;;return this.s_oc?this.s_oc(e):true">
+                Lyon</a></li>
+            <li><a href="/location/content/?l=3343" onclick="s_objectID=&quot;https://web.archive.org/location/content/?l=3343_venice_english+(united+kingdom)_1&quot;;return this.s_oc?this.s_oc(e):true">
+                Marseille</a></li>
+            <li><a href="/location/content/?l=3348" onclick="s_objectID=&quot;https://web.archive.org/location/content/?l=3348_venice_english+(united+kingdom)_1&quot;;return this.s_oc?this.s_oc(e):true">
+                Nice</a></li>
+            <li><a href="/location/content/?l=3305" onclick="s_objectID=&quot;https://web.archive.org/location/content/?l=3305_venice_english+(united+kingdom)_2&quot;;return this.s_oc?this.s_oc(e):true">
+                Paris</a></li>
+            <li><a href="/location/content/?l=3347" onclick="s_objectID=&quot;https://web.archive.org/location/content/?l=3347_venice_english+(united+kingdom)_1&quot;;return this.s_oc?this.s_oc(e):true">
+                Toulouse</a></li>
+        </ul>
+    </div>
+    <div>
+        <h3>
+            World</h3>
+        <ul>
+            <li><a href="/location/?l=3299" onclick="s_objectID=&quot;https://web.archive.org/location/?l=3299_venice_english+(united+kingdom)_1&quot;;return this.s_oc?this.s_oc(e):true">
+                World map</a></li>
+            <li><a href="/location/content/?l=3307" onclick="s_objectID=&quot;https://web.archive.org/location/content/?l=3307_venice_english+(united+kingdom)_2&quot;;return this.s_oc?this.s_oc(e):true">
+                New York</a></li>
+            <li><a href="/location/content/?l=3306" onclick="s_objectID=&quot;https://web.archive.org/location/content/?l=3306_venice_english+(united+kingdom)_1&quot;;return this.s_oc?this.s_oc(e):true">
+                Barcelona</a></li>
+            <li><a href="/location/content/?l=3319" onclick="s_objectID=&quot;https://web.archive.org/location/content/?l=3319_venice_english+(united+kingdom)_2&quot;;return this.s_oc?this.s_oc(e):true">
+                Berlin</a></li>
+            <li><a href="/location/content/?l=3316" onclick="s_objectID=&quot;https://web.archive.org/location/content/?l=3316_venice_english+(united+kingdom)_2&quot;;return this.s_oc?this.s_oc(e):true">
+                Brussels</a></li>
+            <li><a href="/location/content/?l=3318" onclick="s_objectID=&quot;https://web.archive.org/location/content/?l=3318_venice_english+(united+kingdom)_1&quot;;return this.s_oc?this.s_oc(e):true">
+                Dublin</a></li>
+            <li><a href="/location/content/?l=3304" onclick="s_objectID=&quot;https://web.archive.org/location/content/?l=3304_venice_english+(united+kingdom)_3&quot;;return this.s_oc?this.s_oc(e):true">
+                Rome</a></li>
+            <li><a href="/location/content/?l=3322" onclick="s_objectID=&quot;https://web.archive.org/location/content/?l=3322_venice_english+(united+kingdom)_4&quot;;return this.s_oc?this.s_oc(e):true">
+                Venice</a></li>
+        </ul>
+    </div>
+    <div class="base">
+        <p class="copyright">©
+        2011
+        toptable.co.uk Ltd
+        All rights reserved</p>
+        <p class="address">toptable.co.uk ltd
+        Registered office:
+        5 New Street Square, London, EC4A 3TW, UK
+            Company number: 3914016</p>
+    </div>
 </div>
 
+            
+            <div id="banner-ad">
+                <input type="hidden" class="dart-url" value="http://ad.uk.doubleclick.net/adj/toptable/en-GB;type=privacy;location=Venice;tile=2;sz=728x90;ord=865774677?"><noscript><a href="http://ad.uk.doubleclick.net/jump/toptable/en-GB;type=privacy;location=Venice;tile=2;sz=728x90;ord=865774677?" target="_blank"><img border="0" src="http://ad.uk.doubleclick.net/ad/toptable/en-GB;type=privacy;location=Venice;tile=2;sz=728x90;ord=865774677?" /></a></noscript>
+            </div>
+            
+            
+<script language="JavaScript" type="text/javascript">var s_account='ttbltoptableprod';</script>
+<script language="JavaScript" type="text/javascript" src="/script/s_code.js?ver=16.0"></script>
+<script language="JavaScript" type="text/javascript"><!--
+/* You may give each page an identifying name, server, and channel on
+the next lines. */
+s.pageName="site.privacy";
+s.server="WWW3.10";
+s.channel="Site.Privacy";
+s.pageType="";
+s.referrer="";
+s.prop1="venice";
+s.prop2="english+(united+kingdom)";
+s.eVar40="WWW3.10";
+s.eVar41="15";
+s.eVar14="English+(United+Kingdom)";
+s.eVar15="en";
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+<script language="JavaScript" type="text/javascript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script>
+<!-- End SiteCatalyst code version: H.16. -->
 
 
-		
-		</body></html>
+            
+                    
+
+        </div>
+        
+    
+
+</form>
+
+<script type="text/javascript">
+//<![CDATA[
+var __cultureInfo = '{"name":"en-GB","numberFormat":{"CurrencyDecimalDigits":2,"CurrencyDecimalSeparator":".","IsReadOnly":false,"CurrencyGroupSizes":[3],"NumberGroupSizes":[3],"PercentGroupSizes":[3],"CurrencyGroupSeparator":",","CurrencySymbol":"£","NaNSymbol":"NaN","CurrencyNegativePattern":1,"NumberNegativePattern":1,"PercentPositivePattern":0,"PercentNegativePattern":0,"NegativeInfinitySymbol":"-Infinity","NegativeSign":"-","NumberDecimalDigits":2,"NumberDecimalSeparator":".","NumberGroupSeparator":",","CurrencyPositivePattern":0,"PositiveInfinitySymbol":"Infinity","PositiveSign":"+","PercentDecimalDigits":2,"PercentDecimalSeparator":".","PercentGroupSeparator":",","PercentSymbol":"%","PerMilleSymbol":"‰","NativeDigits":["0","1","2","3","4","5","6","7","8","9"],"DigitSubstitution":1},"dateTimeFormat":{"AMDesignator":"AM","Calendar":{"MinSupportedDateTime":"\/Date(-62135596800000)\/","MaxSupportedDateTime":"\/Date(253402300799999)\/","AlgorithmType":1,"CalendarType":1,"Eras":[1],"TwoDigitYearMax":2029,"IsReadOnly":false},"DateSeparator":"/","FirstDayOfWeek":1,"CalendarWeekRule":0,"FullDateTimePattern":"dd MMMM yyyy HH:mm:ss","LongDatePattern":"dd MMMM yyyy","LongTimePattern":"HH:mm:ss","MonthDayPattern":"dd MMMM","PMDesignator":"PM","RFC1123Pattern":"ddd, dd MMM yyyy HH\u0027:\u0027mm\u0027:\u0027ss \u0027GMT\u0027","ShortDatePattern":"dd/MM/yyyy","ShortTimePattern":"HH:mm","SortableDateTimePattern":"yyyy\u0027-\u0027MM\u0027-\u0027dd\u0027T\u0027HH\u0027:\u0027mm\u0027:\u0027ss","TimeSeparator":":","UniversalSortableDateTimePattern":"yyyy\u0027-\u0027MM\u0027-\u0027dd HH\u0027:\u0027mm\u0027:\u0027ss\u0027Z\u0027","YearMonthPattern":"MMMM yyyy","AbbreviatedDayNames":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"ShortestDayNames":["Su","Mo","Tu","We","Th","Fr","Sa"],"DayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"AbbreviatedMonthNames":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec",""],"MonthNames":["January","February","March","April","May","June","July","August","September","October","November","December",""],"IsReadOnly":false,"NativeCalendarName":"Gregorian Calendar","AbbreviatedMonthGenitiveNames":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec",""],"MonthGenitiveNames":["January","February","March","April","May","June","July","August","September","October","November","December",""]}}';//]]>
+</script><script src="/ScriptResource.axd?d=qkTEXNrW5LnTBUrMwwMN98vXTqgxxAc_KbasaVzHWRzyA_yzj9986lrrm6WETA4PPGzkmRcEetrOg0Xs16Glr5itTpdsb_03x3ArDX41e9w1&amp;t=ffffffffdf97b863" type="text/javascript"></script><script src="../script/min/script-manager-min.js?ver=40.0" type="text/javascript"></script><script src="../webservices/freetextsearch.svc/js" type="text/javascript"></script><script>
+    $(function() {
+        $("ul.dropdown li").hover(function() {
+            $(this).addClass("hover");
+            $('ul:first', this).css('visibility', 'visible');
+        }, function() {
+            $(this).removeClass("hover");
+            $('ul:first', this).css('visibility', 'hidden');
+        });
+        if ($().bgIframe) { $("ul.dropdown").find('ul').bgIframe(); }
+    });
+</script><script>
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-2621903-4']);
+            _gaq.push(['_setDomainName', 'none']);
+            _gaq.push(['_setAllowLinker', true]);
+            _gaq.push(['_trackPageview']);
+        </script><script>     
+            (function() {
+             var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+             ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+             var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+        </script><script type="text/javascript">
+//<![CDATA[
+Sys.Application.initialize();
+//]]>
+</script>
+
+</body></html>
