@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tvkim.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226092133id_/http%3A//www.komando.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvkim.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605023220id_/http%3A//www.komando.com/privacy.aspx) for the most accurate reproduction.*
 
-# Komando.com, Website for The Kim Komando Radio Show®, Privacy Policy
+# Privacy Policy - Komando.com, Website for The Kim Komando Radio Show®
 
 | 
 
