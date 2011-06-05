@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the muziic.com privacy policy that was archived on 2010-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100831233039id_/http%3A//www.muziic.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the muziic.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605214306id_/http%3A//www.muziic.com/privacypolicy) for the most accurate reproduction.*
 
 # Muziic - Privacy Policy
 
