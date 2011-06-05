@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marcjacobs.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226001944id_/http%3A//www.marcjacobs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marcjacobs.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605192731id_/http%3A//www.marcjacobs.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Marc Jacobs
 
@@ -71,4 +71,4 @@ The Promotion Entities make no warranties, and hereby disclaim any and all warra
 
  **WINNER’S LIST/OFFICIAL RULES:** To obtain a copy of any legally-required winners list, send a self-addressed stamped envelope to: The Marc Jacobs Spring/Summer 2011 "Bang” T-Shirt Sweepstakes Winners List, c/o Marc Jacobs International, LLC 72 Spring Street, 2nd Floor, New York, New York 10012. All such requests must be received within six (6) weeks after the end of the Promotion Period. These Official Rules will be posted on the Website during the Promotion Period.
 
-© 2010 Marc Jacobs International LLC 
+© 2011 Marc Jacobs International LLC 
