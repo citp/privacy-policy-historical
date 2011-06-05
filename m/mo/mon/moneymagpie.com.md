@@ -1,115 +1,6 @@
-> *The following text is extracted and transformed from the moneymagpie.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122185012id_/http%3A//www.moneymagpie.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneymagpie.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605201011id_/http%3A//www.moneymagpie.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Moneymagpie
-
-…for a richer life
-
-  * [Make  
-Money](https://web.archive.org/make-money/)
-    * [Buying & Selling](https://web.archive.org/tag/buying-&-selling/)
-    * [Fun Money Makers](https://web.archive.org/tag/fun-money-makers/)
-    * [Quick Money Makers](https://web.archive.org/tag/quick-money-makers/)
-    * [Small Business](https://web.archive.org/tag/small-business/)
-      * [Small Business Blog](https://web.archive.org/small-business-blog/)
-    * [Use Your Body](https://web.archive.org/tag/use-your-body/)
-    * [Use Your Computer](https://web.archive.org/tag/use-your-computer/)
-    * [Use Your Hobbies](https://web.archive.org/tag/use-your-hobbies/)
-    * [Use Your Home](https://web.archive.org/tag/use-your-home/)
-    * [Use Your Things](https://web.archive.org/tag/use-your-things/)
-    * [Use Your Time](https://web.archive.org/tag/use-your-time/)
-  * [Saving &  
-Investing](https://web.archive.org/saving-investing/)
-    * [Banking](https://web.archive.org/tag/banking/)
-    * [Collecting](https://web.archive.org/tag/collecting/)
-    * [Investing](https://web.archive.org/tag/investing/)
-      * [Investing & Finances](https://web.archive.org/investing-finances/)
-    * [Investing for Children](https://web.archive.org/tag/investing-for-children/)
-    * [Saving](https://web.archive.org/tag/saving/)
-    * [Financial Planning](https://web.archive.org/tag/financial-planning/)
-    * [Pensions](https://web.archive.org/tag/pensions/)
-    * [Tax](https://web.archive.org/tag/tax/)
-  * [Comparisons  
- ](https://web.archive.org/comparisons/)
-    * [Mortgages](https://web.archive.org/mortgage-advice-service/)
-    * [Credit Cards](https://web.archive.org/credit-cards-comparisons/)
-    * [Insurance](https://web.archive.org/best-insurance-deals/)
-      * [Car Insurance](http://track.omguk.com/?PID=4978&AID=4107&CID=1000447&MID=4922&WID=11307)
-      * [Travel Insurance](http://track.omguk.com/?PID=4980&AID=4107&CID=1000449&MID=4922&WID=11307)
-      * [Home Insurance](http://track.omguk.com/?PID=4979&AID=4107&CID=1000448&MID=4922&WID=11307)
-      * [Health Insurance](http://www.activequote.com/health-insurance/?ref=moneymagpie)
-      * [Life Insurance](http://www.moneymagpie.com/life-insurance/)
-      * [Pet Insurance](http://www.awin1.com/cread.php?platform=dl&awinmid=1854&awinaffid=72610&clickref=&p=https%3A%2F%2Fwww.beatthatquote.com%2Fcapture%2Fpet_insurance%2Fpet_information%3Faffid%3D!!!id!!!)
-      * [Motorbike Insurance](http://www.awin1.com/cread.php?platform=dl&awinmid=1854&awinaffid=72610&clickref=&p=https%3A%2F%2Fwww.beatthatquote.com%2Fcapture%2Fmotor_bike_insurance%2Fvehicle_detail%3Faffid%3D!!!id!!!)
-      * [Mobile Phone Insurance](http://scripts.affiliatefuture.com/AFClick.asp?affiliateID=98991&merchantID=2382&programmeID=6421&mediaID=0&tracking=&url=http://www.insurance2go.co.uk/mobile/)
-      * [Income Protection](http://www.moneymagpie.com/income-protection/)
-      * [Mortgage Protection](http://www.moneymagpie.com/mortgage-protection/)
-      * [Critical Illness](http://www.moneymagpie.com/critical-illness/)
-    * [Current Accounts](https://web.archive.org/current-accounts-comparisons/)
-    * Savings 
-      * [Saving](https://web.archive.org/savings-account-comparisons/)
-      * [ISAs](https://web.archive.org/isas-comparisons/)
-    * [Loans](https://web.archive.org/loans-comparisons/)
-    * [Utilities](https://web.archive.org/cheapest-utilities-bills/)
-      * [Switch Energy Supplier](http://www.moneymagpie.com/switch-energy-supplier/)
-      * [Cheaper Landline](http://redirectingat.com/?id=462X739&url=http%3A%2F%2Fhomephone.consumerchoices.co.uk%2F%3FPartner%3Dmoneymagpie)
-    * [Cash for Mobile](https://web.archive.org/recycle-your-mobile-for-cash/)
-    * [Find an IFA](https://web.archive.org/find-an-independent-financial-advisor/)
-    * Cheaper Broadband 
-      * [Cheaper Home Broadband](http://broadband.consumerchoices.co.uk/?Partner=moneymagpie)
-      * [Cheap Mobile Broadband](http://mobile.broadbandgenie.co.uk/partner/moneymagpie)
-    * [Cheap Flights](https://web.archive.org/skyscanner/)
-    * [Cheap Travel](https://web.archive.org/travel-comparisons/)
-  * [Latest Bargains   
- ](https://web.archive.org/bargains/)
-    * [Smart Spending](https://web.archive.org/tag/smart-spending/)
-      * [The Thrift Blog](https://web.archive.org/the-stylish-thrift-blog/)
-    * [Health and Beauty](https://web.archive.org/tag/health-and-beauty/)
-    * [Free Stuff](https://web.archive.org/tag/free-stuff/)
-    * [Gadgets](https://web.archive.org/tag/gadgets/)
-    * [Gifts](https://web.archive.org/tag/gifts/)
-    * [Travel Bargains](https://web.archive.org/tag/travel-bargains/)
-    * [For the Home](https://web.archive.org/tag/home/)
-  * [Credit Cards   
-& Loans ](https://web.archive.org/credit-cards/)
-    * [Credit Cards](https://web.archive.org/tag/credit-cards/)
-    * [Credit Record](https://web.archive.org/tag/credit-rating/)
-    * [Loans](https://web.archive.org/tag/loans/)
-  * [Home &  
-Mortgages](https://web.archive.org/home-mortgages/)
-    * [Money Making at Home](https://web.archive.org/tag/home/)
-    * [Money Saving at Home](https://web.archive.org/tag/home/)
-    * [Mortgages](https://web.archive.org/tag/mortgages/)
-    * [Utilities](https://web.archive.org/tag/utilities/)
-    * [Property](https://web.archive.org/tag/property/)
-  * [Lifestyle  
- ](https://web.archive.org/lifestyle/)
-    * [Children & Finance](https://web.archive.org/tag/children-and-finance/)
-      * [The Teen Blog](https://web.archive.org/the-teen-blog/)
-    * [Ethical](https://web.archive.org/tag/ethical/)
-    * Families 
-      * [Couples](https://web.archive.org/tag/couples/)
-      * [Families](https://web.archive.org/tag/families/)
-      * [Family Blog](https://web.archive.org/the-family-blog/)
-    * [Food](https://web.archive.org/tag/food/)
-      * [Food Blog](https://web.archive.org/food-blog/)
-    * [Green](https://web.archive.org/tag/green/)
-    * [Silver Surfers](https://web.archive.org/tag/silver-surfers/)
-    * [Travel](https://web.archive.org/tag/travel/)
-    * [Fun Days Out](https://web.archive.org/tag/fun-days-out/)
-    * [Free Living](https://web.archive.org/tag/free-living/)
-    * [Students](https://web.archive.org/tag/students/)
-      * [Student Blog](https://web.archive.org/the-student-blog/)
-    * [Insurance](https://web.archive.org/tag/insurance/)
-    * [Rip-Off Britain](https://web.archive.org/rip-off-britain/)
-  * [Debt Issues   
-  ](https://web.archive.org/borrowing-debt/)
-    * [Bankruptcy & Repossession](https://web.archive.org/tag/bankruptcy-&-debt/)
-    * [Get out of Debt](https://web.archive.org/tag/get-out-of-debt/)
-    * [Credit Record](https://web.archive.org/tag/credit-record/)
-  * [Forum  
- ](http://forum.moneymagpie.com/)
-
-
 
   1. This Privacy Policy sets out how we will deal with the personal information which you provide to us while using the website located at www.moneymagpie.com (the “Site”) and/or the services provided from it (the “Services”).  We may change this Privacy Policy from time to time and such changes will take effect from the date and time the revised Privacy Policy is available on the Site.
   2. To provide the Site and the Services, it is necessary for us to hold and process certain personal information.  We take reasonable care in keeping this information secure and preventing any unauthorised access or unlawful use of it. All personal information is processed by us in accordance with data protection legislation applicable in the UK.
@@ -119,6 +10,18 @@ Mortgages](https://web.archive.org/home-mortgages/)
   6. We will only keep your personal information for as long as is necessary for the purposes for which that personal information was given to us.
   7. We may use ‘cookies’ while you access the Site to avoid the need to re-enter details on different occasions. If you do not wish to receive ‘cookies’, you may change the settings on your computer or browser accordingly.
   8. Please note that, from time to time, we may transfer your personal data for internal business purposes to locations outside the European Economic Area, some of which may have different data protection laws to the UK, or no data protection laws.  Note that in respect of information transmitted to the US, we shall only transmit such information to entities that comply with suitable policies.
-  9. If you have any queries about this Privacy Policy or wish to resume receiving information which you may have previously opted out of receiving, please contact us using the [email form](http://www.moneymagpie.com/contact-us/) or by writing to:  **MoneyMagpie Limited, 18 High West Street, Dorchester, Dorset, DT1 1UW**.
+  9. If you have any queries about this Privacy Policy or wish to resume receiving information which you may have previously opted out of receiving, please contact us using the [email form](http://www.moneymagpie.com/contact-us/) or by writing to:  **MoneyMagpie Limited, 18 High West Street, Dorchester, Dorset, DT1 1UW**.
 
 
+
+### Cookies
+
+Cookies are small amounts of data that are sent to your browser from our web server and are stored on your computer’s hard drive, not on our Site. The MoneyMagpie website implements 3rd party services by Google which generate cookies that allow us to track site usage anonymously, in order to monitor and improve our web services. Also, cookies are generated by services such as Google Maps
+
+You are always free to decline cookies by adjusting your browser settings; however, removing cookies may hamper the display of some interactive services.
+
+### New European Directive on Using Cookies
+
+We won’t use cookies to gather personal information about you, however cookies might be generated by the 3rd party services we use to track anonymous information about our website usage and to provide interactive services.
+
+Questions regarding this privacy policy should be emailed to [webadmin@moneymagpie.com](mailto:%20webadmin@moneymagpie.com)
