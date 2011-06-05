@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the sessionmagazine.com privacy policy that was archived on 2010-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101116143908id_/http%3A//www.sessionmagazine.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sessionmagazine.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605122241id_/http%3A//www.sessionmagazine.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Session Magazine
-
-## Privacy Policy
 
 **Session Magazine** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site.
 
