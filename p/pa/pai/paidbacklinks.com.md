@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the paidbacklinks.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127084013id_/http%3A//www.paidbacklinks.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paidbacklinks.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605111416id_/http%3A//www.paidbacklinks.com/privacy.php) for the most accurate reproduction.*
 
-# 10 Free Backlinks -PaidBacklinks.com, Get Backlinks, One Way Text Links, Build BacklinksFast
-
-##  Privacy Policy 
+# PaidBacklinks.com, Get Backlinks, One Way Text Links, Build Backlinks Fast
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy. 
 
