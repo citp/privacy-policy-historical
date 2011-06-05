@@ -1,7 +1,8 @@
-<!--The following is the downloaded HTML source of the alldaygiveaways.com privacy policy that was archived on 2010-12-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101220222006id_/http%3A//www.alldaygiveaways.com/giveaways-contests-sweepstakes/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the alldaygiveaways.com privacy policy that was archived on 2011-06-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110605042109id_/http%3A//www.alldaygiveaways.com/giveaways-contests-sweepstakes/privacypolicy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html xmlns:fb="http://www.facebook.com/2008/fbml"><head>
+	<meta name="msvalidate.01" content="402CAAF418CB43561F9FE41F954141C2">
 						<title>All Day Giveaways | Sweepstakes | Free Contest Giveaway | Privacy Policy</title>
 				<meta name="Keywords" content="All Day Giveaways, ADGA, AllDayGiveaways.Com, free, contest, sweepstakes, giveaways, online-sweepstakes, online sweepstakes, online contests, enter free contests, free online contests, free sweepstakes, win prizes online, win prizes online, where to enter contests, where to enter sweepstakes, contests, sweepstakes, drawing, giveaway, prizes, competitions, contests, games, lotto, freebies, enter contests, enter sweepstakes, free prizes, win real prizes, free contests, win prizes for free, CONTEST, Canada sweepstakes, SWEEPSTAKES, win, WIN, prize, PRIZES, sweepstakes online, sweepstake giveaway, photo contests, paid surveys, free, FREE, cash, freebies, rewards, free getaways, vacation deals">
 		<meta name="Description" content="All Day Giveaways - Free Contests, Sweepstakes &amp; Giveaways! Win Free Prizes. Join or Free. Amazing Giveaways running daily.">
@@ -13,83 +14,583 @@
 		<link rel="STYLESHEET" type="text/css" href="/stylesheets/styles.css">
 	<link rel="STYLESHEET" type="text/css" href="/stylesheets/publishers.css">
 	<link rel="STYLESHEET" type="text/css" media="print" href="/stylesheets/print.css">
-		<link rel="STYLESHEET" type="text/css" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.4/themes/redmond/jquery-ui.css">
+		<link rel="stylesheet" href="/stylesheets/jquery-ui.css" type="text/css">
 	<link rel="icon" href="/favicon.ico">
-	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+	<!--[if IE 7]>
+	    <link rel="stylesheet" type="text/css" href="/stylesheets/ie7.css">
+	<![endif]-->
+	<!--[if IE 8]>
+	    <link rel="stylesheet" type="text/css" href="/stylesheets/ie8.css">
+	<![endif]-->
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
 	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.4/jquery-ui.min.js"></script>
 	<script type="text/javascript" src="/static/js/header.js"></script>
-	<script type="text/javascript">
+	<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
 
-	  var _gaq = _gaq || [];
-	  _gaq.push(['_setAccount', 'UA-16609500-1']);
-	  _gaq.push(['_setDomainName', '.alldaygiveaways.com']);
-	  _gaq.push(['_trackPageview']);
+        <!-- Google Analytics -->
+        <script type="text/javascript">
+		$(document).ready(function() {
+			
+			userLoggedIn = 0;
+			userEligible = 0;
+			
+			$("#loginPopupx").click(function(){
+				$(".login_quick").slideToggle(300);
+				return false;
+			});
 
-	  (function() {
-	    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-	    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-	  })();
+			FB.init({appId: '159069364127665', status: true, cookie: true, xfbml: true});
+
+			$("input[name=search]").bind('keyup', function() {
+				
+				getSearchResults($("input[name=search]").val());
+			});
+
+			var lock = false; //to prevent too many actions building up
+			
+			//selecting interests (press and depress)
+			$(".interest_bar > .item").click(function(){
+
+				if(!lock) {
+
+					lock = true;
+
+					showLoading();
+
+					var button = $(this);
+
+					if (!button.hasClass('on')) {
+						$.ajax({
+							type: 'POST',
+							url: '/',
+							dataType: 'json',
+							data: {changeInterest: button.attr("id")},
+							success: function(output) {
+								button.addClass('on');
+
+								//to make interest icon colored
+								var src = button.children('.interest_link').children('.interest_icon').attr("src");
+								var srcArray = src.split('_bw');
+								button.children('.interest_link').children('.interest_icon').attr("src", srcArray[0] + srcArray[1]);
+								lock = false;
+								
+								printOutput(output);
+							}
+						});
+					}
+					else {
+						$.ajax({
+							type: 'POST',
+							url: '/',
+							dataType: 'json',
+							data: {changeInterest: button.attr("id")},
+							success: function(output) {
+								button.removeClass('on');
+
+								//to make interest icon black and white
+								var src = button.children('.interest_link').children('.interest_icon').attr("src");
+								var srcArray = src.split('.');
+								button.children('.interest_link').children('.interest_icon').attr("src", srcArray[0] + '_bw.' + srcArray[1]);
+								lock = false;
+
+								printOutput(output);
+							}
+						});
+					}
+
+				}
+
+				return false;
+			});
+
+			$(".selectAll").click(function(){
+
+				showLoading();
+
+				$.ajax({
+					type: 'POST',
+					url: '/',
+					dataType: 'json',
+					data: {changeInterest: 'all'},
+					success: function(output) {
+						//to make all interest icons colored
+						$('.interest_icon').each(function(index) {
+
+							if(!$(this).parent().parent().hasClass("on")) {
+								var src = $(this).attr("src");
+								var srcArray = src.split('_bw');
+								$(this).attr("src", srcArray[0] + srcArray[1]);
+							}
+						});
+
+						$(".item").addClass('on');
+
+						printOutput(output);
+						
+					}
+				});
+				return false;
+			});
+
+			$(".selectNone").click(function(){
+
+				showLoading();
+				
+				//clear the search
+				$("#searchInput").val("");
+
+				$.ajax({
+					type: 'POST',
+					url: '/',
+					dataType: 'json',
+					data: {changeInterest: 'none'},
+					success: function(output) {
+						//to make all interest icons black and white
+						$('.interest_icon').each(function(index) {
+
+							if($(this).parent().parent().hasClass("on")) {
+								var src = $(this).attr("src");
+								var srcArray = src.split('.');
+								$(this).attr("src", srcArray[0] + '_bw.' + srcArray[1]);
+							}
+						});
+						
+						$(".item").removeClass('on');
+
+						printOutput(output);
+
+					}
+				});
+				return false;
+			});
+
+			$("#searchButton").click(function(){
+
+				showLoading();
+
+				$.ajax({
+					type: 'POST',
+					url: '/',
+					dataType: 'json',
+					data: {search: $("#searchInput").val()},
+					success: function(output) {
+
+						printOutput(output);
+
+					}
+				});
+				return false;
+			});
+
+			$(".selectSortBy, .selectOrder, .selectEntry").change(function(){
+				returnSort();
+				return false;
+			});
+			
+			$('.popup').click(function(event) {
+				var width  = 575,
+				height = 400,
+				left   = ($(window).width()  - width)  / 2,
+				top    = ($(window).height() - height) / 2,
+				url    = this.href,
+				opts   = 'status=1' +
+					',width='  + width  +
+					',height=' + height +
+					',top='    + top    +
+					',left='   + left;
+
+				window.open(url, 'twitter', opts);
+
+				return false;
+			});
+
+		});
+
+		//returns contests sorted and filtered by selected settings
+		function returnSort(){
+
+			showLoading();
+
+			var sort = {};
+
+			sort['sortBy'] = $(".selectSortBy").val();
+			sort['order'] = $(".selectOrder").val();
+			sort['entry'] = $(".selectEntry").val();	
+
+			$.ajax({
+				type: 'POST',
+				url: '/',
+				dataType: 'json',
+				data: {changeSort: JSON.stringify(sort)},
+				success: function(output) {
+
+					printOutput(output);
+				}
+			});
+			return false;
+		}
+
+		function goNext(){
+
+			showLoading();
+
+			$.ajax({
+				type: 'POST',
+				url: '/',
+				dataType: 'json',
+				data: {nextPage: true},
+				success: function(output) {
+
+					printOutput(output);
+				}
+			});
+			return false;
+		}
+
+		function goPrev(){
+
+			showLoading();
+
+			$.ajax({
+				type: 'POST',
+				url: '/',
+				dataType: 'json',
+				data: {prevPage: true},
+				success: function(output) {
+
+					printOutput(output);
+				}
+			});
+			return false;
+		}
+
+		function gotoPage(pageNum){
+
+			showLoading();
+
+			$.ajax({
+				type: 'POST',
+				url: '/',
+				dataType: 'json',
+				data: {gotoPage: pageNum},
+				success: function(output) {
+
+					printOutput(output);
+
+				}
+			});
+			return false;
+		}
+
+		function getRewards(contestId, provider){
+
+			var rewards = {};
+			
+			rewards['contestId'] = '' + contestId;
+			rewards['provider'] = '' + provider;
+			
+			$.ajax({
+				type: 'POST',
+				url: '/',
+				data: {getRewards: JSON.stringify(rewards)},
+				success: function(output) {
+
+					if(parseInt(output) >= 1) {
+						points = parseInt($('.status').html());
+
+						$('.status').html(points +  parseInt(output));
+					}
+				}
+			});
+			
+			return false;
+		}
+		
+		//Function to post form via AJAX
+		//Input: None
+		var entrySubmitted = false;
+		function ajaxPostEnterForm(){
+
+			//copy the survey data to the form
+			var target = document.getElementById("surveyData");
+			var child = document.getElementById("survey");
+			if(child != null){
+				target.appendChild( child );
+			}
+
+			//copy the bonus ballots data to the form
+			target = $("#bonusBallotsData");
+			child = $(".bonus-ballots-count");
+			if(child != null){
+				target.append( child );
+			}
+			
+			var data = $('#enterForm').serialize() + '&submit=1';
+
+			//TODO: submit the form via AJAX
+			$.ajax({
+				type: 'POST',
+				url: '/contests/enter/',
+				data: data,
+				success: function(output) {
+					entrySubmitted = true;
+				}
+			});
+			
+		}
+		
+		function printOutput(output){
+			$(".main_inner").html('');
+
+			if(output[output.length - 1]['total'] == 0){
+				$(".no_result").show();
+			} else {
+				$(".no_result").hide();
+			}
+			
+			var results = '';
+			if(output[output.length - 1]['total'] != 0){
+				
+				results = '<h5 class="search_info">';
+				
+				results += output[output.length - 1]['total'];
+				results += ' Results <span class="text_blue">';
+
+				if(output[output.length - 1]['search'] != '') {
+					results += ' for ' + output[output.length - 1]['search'];
+				}
+
+				results += ' (';
+
+				results += ((output[output.length - 1]['currentPage'] - 1) * output[output.length - 1]['pageSize']) + 1;
+
+				results += ' - ';
+
+				if(output[output.length - 1]['currentPage'] == output[output.length - 1]['numPages']){
+					results += output[output.length - 1]['total'];
+				} else {
+					results += ((output[output.length - 1]['currentPage'] - 1) * output[output.length - 1]['pageSize']) + output[output.length - 1]['pageSize']
+				}
+
+				results += ' of ' + output[output.length - 1]['total'] + ')</span></h5>';
+			}
+			
+			$(".main_inner").append(results);
+
+			if(output != null){
+				for (i = 0; i < output.length - 1; i++) { //the last element contains currentPage and numPages
+					
+					var result = '<div class="result ';
+					
+					if(output[i]['entered'] != null){
+						result += output[i]['entered'];
+					}
+
+					result +=		'"><div class="cast"></div><div class="thumb">\n\
+									<div class="thumb_holder">\n\
+										<a title="' + output[i]['name'] + '" href="' + output[i]['contestUrl'] + '">\n\
+											<img border="0" alt="' + output[i]['name'] + '" src="' + output[i]['imageUrl'] + '">\n\
+										</a>\n\
+									</div>\n\
+								</div>\n\
+								<div class="info">\n\
+									<div class="flag">\n\
+										' + output[i]['flagHTML'] + '\n\
+									</div>\n\
+									<a class="name" href="' + output[i]['contestUrl'] + '">' + output[i]['name'] + '</a>\n\
+									<div class="clear"></div>\n\
+								</div>\n\
+							</div>';
+					
+					$(".main_inner").append(result);
+
+				}
+			}
+
+			updatePaging('paging_holder', output[output.length - 1]['currentPage'], output[output.length - 1]['numPages']);
+
+			//how long should the page be
+			if(output.length <= 5){
+				$('.main_inner').css('height', '260px');
+			}else{
+				$('.main_inner').css('height', '520px');
+			}
+
+			return false;
+		}
+
+                var _gaq = _gaq || [];
+                _gaq.push(['_setAccount', 'UA-16609500-1']);
+                _gaq.push(['_setDomainName', 'none']);
+                _gaq.push(['_setAllowLinker', true]);
+                _gaq.push(['_trackPageview']);
+
+                (function() {
+                        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+                })();
+
+                //displays potential results as they type in the search bar
+		function getSearchResults(input) {
+
+                        $.ajax({
+                                type: 'POST',
+                                url: '/',
+                                dataType: 'json',
+                                data: {getSearchResults: input},
+                                success: function(output) {
+					$("#search-result-holder").html('');
+					//alert(output.length);
+                                        for (i = 0; i < output.length; i++) {
+						$("#search-result-holder").append('<div class="search-result"><a href="' + output[i]['contestUrl'] + '" >' + output[i]['name'] + '<img height="50" src="' + output[i]['imageUrl'] + '" >' + '</a></div>');
+					}
+                                },
+				error: function(output) {
+					$("#search-result-holder").html('');
+                                }
+                        });
+			return false;
+                };
+
+		function showLoading() {
+
+                        $(".main_inner").html('<CENTER><img src="/static/img/loading.gif" style="margin-top: 55px;"></CENTER>');
+
+			return false;
+                };
+
+		//INPUT: location: name of the class to write the paging
+		function updatePaging(location, currentPage, numPages){
+			location = $("." + location);
+
+			location.html('');
+
+			//if first page
+			if(currentPage != 1){
+				$(".paging_holder").append('<a href="#" onclick="return goPrev();" class="btn_arrow_sm_left"><span></span></a>');
+			}
+
+			var i = 1;
+			for (i = 1; i <= numPages; i++)
+			{
+				var link = '<a href="#" onclick="return gotoPage(' + i + ');" class="pg_number';
+
+				if(i == currentPage){
+					link += ' on';
+				}
+
+				link += '">';
+
+				link += i;
+
+				link += '</a>';
+
+				$(".paging_holder").append(link);
+			}
+
+			//if last page
+			if(currentPage != numPages){
+				$(".paging_holder").append('<a href="#" onclick="return goNext();" class="btn_arrow_sm_right"><span></span></a>');
+			}
+
+			return false;
+		};
 
 	</script>
 </head>
-<body class="help"><!-- ADD 'signedin' WHEN USER IS SIGNED IN -->
+<body class="policy">
+
 	<div class="outer">
 		<div class="wrapper">
 			<div class="header">
-				<div class="signin">
-					<div class="signup">
-						<h5>Free to join! Free to win!</h5>
-						<div class="buttons"><a href="/giveaways-contests-sweepstakes/signup/" class="btn_lg"><span>New? Sign Up!</span></a></div>
+				<div class="top_holder">
+					<a href="/" class="logo">All Day Giveaways</a>
+					<div class="nav">
+						<ul>
+							<li class="nav_giveaways"><a href="/contests/"><span>Giveaways!</span></a></li>
+							<li class="nav_points"><a href="/giveaways-contests-sweepstakes/diamond_points/"><span>Diamond Points</span></a></li>															
+							<li class="nav_winners"><a href="/giveaways-contests-sweepstakes/winners_circle"><span>Winner's Circle</span></a></li>
+							<li class="nav_about"><a href="/giveaways-contests-sweepstakes/about/"><span>How it works</span></a></li>																	
+						</ul>
 					</div>
-					<div class="login">
-						<h5>Already a member?</h5>
-						<div class="buttons"><a href="/giveaways-contests-sweepstakes/login/" class="btn"><span>Login</span></a></div>
-					</div>
-				</div>
-				<div class="member_signin" id="memberBar"><!-- ADD CLASS 'on' ONCLICK-->
-					<p>Welcome back</p>
-					<h5 class="name"></h5>
-					<div class="buttons"><a href="#" class="btn_options"><span>My Account</span></a></div>
-					<div class="dropdown">
-						<table border="0" cellspacing="0">
-							<tbody><tr><td><a href="/giveaways-contests-sweepstakes/getting_started/">Get Started</a></td></tr>							<tr><td><a href="/giveaways-contests-sweepstakes/dashboard/">Dashboard</a></td></tr>
-							<tr><td><a href="/giveaways-contests-sweepstakes/referrals/">Referrals</a></td></tr>
-							<tr><td><a href="/giveaways-contests-sweepstakes/interests/">My Interests</a></td></tr>							
-							<tr><td><a href="/giveaways-contests-sweepstakes/profile/">Profile</a></td></tr>
-							<tr><td><a href="/giveaways-contests-sweepstakes/refer/">Refer Friends</a></td></tr>
-							<tr><td><a href="/giveaways-contests-sweepstakes/logout/">Logout</a></td></tr>
-						</tbody></table>
+					<div id="fb-root"></div>
+					<script src="http://connect.facebook.net/en_US/all.js"></script>
+					<div class="signin_holder">
+						<div class="return">
+							<h5>Already a member? <a id="loginPopupx" href="/giveaways-contests-sweepstakes/login/">Login</a></h5>
+							<div class="clear"></div>
+						</div>
+						<div class="dropdown login_quick" style="display: none;">
+							<form action="/giveaways-contests-sweepstakes/login/" method="post">
+								<div class="login_title">Login using Facebook</div>
+								<div class="fb_login"><fb:login-button size="large" perms="publish_stream,user_interests,user_birthday,user_location,email,offline_access" onlogin="document.location.href=&quot;http://www.alldaygiveaways.com/giveaways-contests-sweepstakes/login/facebook/&quot;;" id="fb-login-link">Connect</fb:login-button></div>
+								<h3 style="margin: 5px auto;">OR</h3>
+								<div class="login_title">Login with email address</div>								
+								<table cellspacing="0" border="0" class="tbl_lg">
+									<tbody><tr>
+										<td class="col_1" colspan="2"><label>Email address</label><br><input type="text" name="emailAddress" id="emailAddress" value=""></td>
+									</tr>
+									<tr>
+										<td class="col_1" colspan="2"><label>Password</label><br><input type="password" name="password"></td>
+									</tr>
+									<tr>
+										<td class="col_1"><a href="/giveaways-contests-sweepstakes/forgotpassword/">Forgot password</a></td>
+										<td class="col_2"><div class="buttons"><span class="btn_sm"><span><input type="submit" value="Login" name="submit"></span></span></div></td>
+									</tr>
+								</tbody></table>
+							</form>							
+						</div>										
+												
 					</div>
 					<div class="clear"></div>
-				</div>
-				<a href="/" class="logo">All Day Giveaways</a>				
+				</div>				
 				<div class="search">
 					<div class="search_field">
 						<form action="/contests/" method="get" id="searchForm">
-							<input type="text" class="searchform" name="search" value="">
+							<input type="text" id="searchInput" class="searchform" autocomplete="off" name="search" value="">
+							<div class="options" id="searchBar">
+																	<a href="/giveaways-contests-sweepstakes/login/" class="btn_more">My Interests</a>
+															</div>
 							<div class="buttons">
-								<div class="options" id="searchBar">
-																	</div>
-								<span class="btn"><span><input type="submit" value="Search"></span></span>
+																	<span class="btn"><span><input type="submit" value="Search"></span></span>
+															</div>
+						</form>												
+					</div>
+					<div class="signin">				
+						<div class="sign_inner">
+							<h5>Want to enter?<br>Join for free!</h5>
+							<div class="buttons"><a href="/giveaways-contests-sweepstakes/signup/" class="btn"><span>Sign up</span></a></div>
+							<div class="clear"></div>
+						</div>
+					</div>
+					<div class="pts_balance">
+						<div class="member_signin" id="memberBar">							
+							<div class="inside">
+								<h5 class="name" id="memberMenuBar"><a href="#" class="btn_more"></a></h5><div class="clear"></div>
+								<a href="/giveaways-contests-sweepstakes/points/" class="pts"><span><b></b>pts</span></a>
 							</div>
-							<input type="hidden" name="sorting"><input type="hidden" name="tier">
-						</form>
-						<div class="clear"></div>
-					</div>														
+							<a href="/giveaways-contests-sweepstakes/profile/" class="avatar"><img src="/static/img/profile_picture_sm.gif" border="0" alt=""></a>
+							<div class="clear"></div>																			
+							<div class="dropdown">
+								<table border="0" cellspacing="0">									
+									<tbody><tr><td><a href="/giveaways-contests-sweepstakes/dashboard/">Dashboard</a></td></tr>
+									<tr><td><a href="/giveaways-contests-sweepstakes/referrals/">Friend Referrals</a></td></tr>
+									<tr><td><a href="/giveaways-contests-sweepstakes/points/">My Points</a></td></tr>
+									<tr><td><a href="/giveaways-contests-sweepstakes/interests/">My Interests</a></td></tr>							
+									<tr><td><a href="/giveaways-contests-sweepstakes/profile/">Profile</a></td></tr>
+																		<tr><td><a href="/giveaways-contests-sweepstakes/logout/">Logout</a></td></tr>
+								</tbody></table>
+							</div>
+							<div class="clear"></div>
+						</div>						
+					</div>					
+					<div class="clear"></div>
 				</div>
-				<div class="nav">
-					<ul>
-						<li class="nav_giveaways"><a href="/contests/"><p>Giveaways<span>Enter to win!</span></p></a></li>
-						<!--li class="nav_winners"><a href="/winnerscircle/"><p>Winner's Circle<span>The lucky winners</span></p></a></li-->
-												<li class="nav_about"><a href="/giveaways-contests-sweepstakes/about/"><p>What is ADGA?<span>How it works</span></p></a></li>						
-					</ul>
-				</div>
-				
-				<div class="clear"></div>
-			</div>
-												
-			<!-- content_top was here -->
+				<div id="search-result-holder"></div>
+								
+			</div>			
+										
 			<div class="content">
 				<div class="inner">
 	<div class="general">
@@ -225,7 +726,39 @@ and use authorization granted to Site visitors.</p>
 	</div>
 				</div>
 			</div>			
-		</div><div class="links clear"><a href="/giveaways-contests-sweepstakes/tos/">Terms of Service</a>&nbsp;&nbsp;&nbsp;<a href="/giveaways-contests-sweepstakes/privacypolicy/">Privacy Policy</a>&nbsp;&nbsp;&nbsp;<a href="/giveaways-contests-sweepstakes/faq/">FAQs</a>&nbsp;&nbsp;&nbsp;<a href="/giveaways-contests-sweepstakes/contact/">Contact Us</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="text_orange">© All Day Giveaways 2010</span></div>
+		</div>
+		<div class="links clear">
+			<div class="links_inner">
+				<div class="left">
+					<h3>We're pretty social</h3>
+					<h5 class="social_icon"><a href="http://www.facebook.com/fansofalldaygiveaways" target="new" class="fb">Like us on Facebook</a></h5>
+					<h5 class="social_icon"><a href="http://twitter.com/alldaygiveaways" target="_new" class="twitter">Follow us on Twitter</a></h5>
+				</div>
+				<!--div class="left link_signup">
+					<h3>Signup for our newsletter</h3>
+					<p style="margin-bottom: 5px;">Get the latest giveaway info emailed to you</p>
+					<input type="text" class="form_field">
+					<div class="buttons">	
+						<span class="btn_sm"><span><input type="submit" value="Signup"></span></span>
+					</div><div class="clear"></div>
+				</div-->
+				<div class="left link_signup">
+					<h3>Run a giveaway</h3>
+					<p>See how running a Giveaway with All Day Giveaways<br>can benefit your business.&nbsp;<a href="/giveaways-contests-sweepstakes/contact/">Contact us</a></p>
+				</div>
+				<div class="clear"></div>			
+				<hr>
+				<div class="left">
+					<a href="/giveaways-contests-sweepstakes/tos/">Terms of Service</a>&nbsp;&nbsp;&nbsp;<a href="/giveaways-contests-sweepstakes/privacypolicy/">Privacy Policy</a>&nbsp;&nbsp;&nbsp;<a href="/giveaways-contests-sweepstakes/faq/">FAQs</a>&nbsp;&nbsp;&nbsp;<a href="/giveaways-contests-sweepstakes/contact/">Contact Us</a>
+					<br>
+					<span>© All Day Giveaways 2010</span>	
+				</div>
+				<div class="right">
+					<h2>1-877-511-ADGA<span class="normal">(2342)</span></h2>
+				</div>
+				<div class="clear"></div>
+			</div>			
+		</div>
 	</div>
 	
 	<div class="footer">
@@ -238,8 +771,5 @@ and use authorization granted to Site visitors.</p>
 		</div>
 		
 	</div>
-	<!-- FOOTPRINT HTML START -->
-	<script type="text/javascript" src="http://script.footprintlive.com/?site=www.alldaygiveaways.com"></script><noscript><a href="http://www.footprintlive.com" target="_blank"><img src="http://img.footprintlive.com/?cmd=nojs&amp;site=www.alldaygiveaways.com" border="0" /></a></noscript>
-	<!-- FOOTPRINT HTML END -->
 
 </body></html>
