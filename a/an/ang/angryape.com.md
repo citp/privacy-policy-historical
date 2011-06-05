@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the angryape.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102004653id_/http%3A//angryape.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the angryape.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605105930id_/http%3A//www.omgmusic.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | AngryApe
+# Privacy
 
-Last updated: April 5th, 2009
+Last updated: January 1st, 2010
 
 We take your privacy very seriously, and we are committed to maintaining the trust of our users. This Privacy Policy will help you understand what types of personal information we collect about you, and how we use it.
 
