@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mddhosting.com privacy policy that was archived on 2009-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090710012533id_/http%3A//www.mddhosting.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mddhosting.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605061754id_/http%3A//www.mddhosting.com/privacy.php) for the most accurate reproduction.*
 
 # MDDHosting - Privacy Policy
 
@@ -37,3 +37,5 @@ Any changes to our Privacy Policy will be placed here and will supersede this ve
 **Contacting Us**
 
 If you have any questions about our Privacy Policy, or if you want to know what information we have collected about you, please [contact us here](https://web.archive.org/support/contact.php).  You can also correct any factual errors in that information or require us to remove your details from any list under our control. 
+
+Last updated: April 14, 2011 at 06:57:50 AM EDT.
