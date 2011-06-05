@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the httpool.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227040707id_/http%3A//www.httpool.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the httpool.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605030259id_/http%3A//www.httpool.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Httpool Online Advertising
 
