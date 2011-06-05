@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the columbus.gov privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204152052id_/http%3A//www.columbus.gov/content.aspx%3Fid%3D7082) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the columbus.gov privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605200422id_/http%3A//www.columbus.gov/content.aspx%3Fid%3D7082) for the most accurate reproduction.*
 
 # Welcome to City of Columbus
 
