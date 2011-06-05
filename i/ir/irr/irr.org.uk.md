@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the irr.org.uk privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206012253id_/http%3A//www.irr.org.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irr.org.uk privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605041649id_/http%3A//www.irr.org.uk/privacy) for the most accurate reproduction.*
 
 # IRR: Privacy policy
 
