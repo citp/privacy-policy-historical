@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the msccruises.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227052527id_/http%3A//www.msccruises.com/gl_en/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the msccruises.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605084907id_/http%3A//www.msccruises.com/gl_en/Privacy.aspx) for the most accurate reproduction.*
 
 # MSC Cruises : Privacy Policy
 
@@ -7,6 +7,9 @@ Important information pursuant to article 13 of the Italian Privacy Code
 (Law Decree 196, dated 30 June 2003)
 
 Pursuant to article 13 of the Italian Privacy Code (Law Decree 196/2003), MSC Crociere S.p.A. (hereafter "MSC" for short) hereby provides the following important information on the subject of processing the personal data of users visiting the website [www.msccruises.com](http://www.msccruises.com/) (hereafter the "site" for short), also reachable via other internet domains (e.g. [www.msccrociere.it](http://www.msccrociere.it/)).
+
+  
+
 
   * Data controller
   * Granting access to personal data
