@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the magna.com privacy policy that was archived on 2008-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081114131112id_/http%3A//magna.com/magna/en/privacy/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magna.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605101723id_/http%3A//www.magna.com/magna/en/privacy/privacy.aspx) for the most accurate reproduction.*
 
-# Welcome to Magna International Inc.
+# Website Privacy Policy - Magna International Inc.
 
 ### Privacy Statement
 
@@ -10,7 +10,7 @@ Personal information is information that is personally identifiable to you. Pers
 
 #### Registration Forms 
 
-Our Web site has registration forms requiring users to give us contact information. Contact information from these registration forms are used to send users information about our company, provided they have indicated they would like to receive such material. Users may opt-out of receiving future mailings using our [Update Form](https://web.archive.org/magna/en/investors/request/update.aspx) or they may opt-out of receiving future email alerts using [Email Alerts](http://phx.corporate-ir.net/phoenix.zhtml?c=86334&p=irol-alerts).
+Our Web site has registration forms requiring users to give us contact information. Contact information from these registration forms are used to send users information about our company, provided they have indicated they would like to receive such material. Users may opt-out of receiving future mailings using our [Update Form](https://web.archive.org/magna/en/investors/request/update.aspx) or they may opt-out of receiving future email alerts using [Email Alerts](https://web.archive.org/magna/en/investors/emailalerts/default.aspx).
 
 #### Information Sharing 
 
