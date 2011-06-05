@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the centrum.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227034855id_/http%3A//www.pfizer.com/general/privacy_policy_transitioned.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centrum.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605034952id_/http%3A//www.pfizer.com/general/privacy_policy_transitioned.jsp) for the most accurate reproduction.*
 
 # Transitioned Privacy Policy | Pfizer: the world's largest research-based pharmaceutical company
 
