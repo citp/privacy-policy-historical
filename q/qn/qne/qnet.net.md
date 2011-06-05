@@ -1,10 +1,14 @@
-> *The following text is extracted and transformed from the qnet.net privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213054507id_/http%3A//www.qnet.net/privacy_policy/privacy_policy/en) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qnet.net privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605024443id_/http%3A//www.qnet.net/privacy_policy/privacy_policy/en) for the most accurate reproduction.*
 
 # QNet | Direct Selling - Privacy Policy
 
-QNet is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the QNet website and governs data collection and usage. By using the QNet website, you consent to the data practices described in this statement.
+**QNet is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience.
 
-**Collection of your Personal Information**
+This Statement of Privacy applies to the QNet website and governs data collection and usage. By using the QNet website, you consent to the data practices described in this statement.
+
+**
+
+ **Collection of your Personal Information**
 
 QNet collects personally identifiable information, such as your e-mail address, name, home or work address or telephone number. QNet also collects anonymous demographic information, which is not unique to you, such as your ZIP code, age, gender, preferences, interests and favourites.
 
