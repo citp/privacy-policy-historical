@@ -1,17 +1,16 @@
-<!--The following is the downloaded HTML source of the madisonseating.com privacy policy that was archived on 2010-11-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101127025743id_/http%3A//www.madisonseating.com/security-and-privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the madisonseating.com privacy policy that was archived on 2011-06-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110605044251id_/http%3A//www.madisonseating.com/security-and-privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
 <title>Security &amp; Privacy at MadisonSeating.com</title>
 
-
+<base href="http://www.madisonseating.com/">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta http-equiv="Content-Language" content="en">
 <meta name="description" content="Thank visiting Madison Seating value customer privacy security information treat your information with sensitivity security deserve expect know have many choices where shop thank advance your patronage postal address Suite 1554 York 10001 reached e-mail info@madisonseating reach telephone Toll Free 1-888-704-3435 each visitor page server automatically recognizes only consumer domain name e-mail address where possible collect e-mail addresses those communicate">
 <meta name="keywords" content="Aeron chair, aeron, herman miller, herman miller chair, herman miller chairs, herman miller furniture, mirra, mirra chairs, embody chair, eames, eames chair, eames lounge chair, eames furniture, knoll, knoll furniture, kartell, kartell furniture, steelcase, steelcase chair, steelcase leap chair, leap chair, vitra, office chair, office furniture ergonomic chair, freedom chair, MadisonSeating.com">
 
 
-<base href="http://www.madisonseating.com/">
 <link href="/skins/electro/customer/images/icons/favicon.ico" rel="shortcut icon">
 
 <link href="/skins/electro/customer/styles.css" rel="stylesheet" type="text/css">
@@ -20,23 +19,31 @@
 <!--[if lte IE 7]>
 <link href="/skins/electro/customer/styles_ie.css" rel="stylesheet" type="text/css" />
 <![endif]-->
-<link href="/skins/electro/customer/addons/buy_together/styles.css" rel="stylesheet" type="text/css"><link href="/skins/electro/customer/addons/my_changes/images/icons/favicon.ico" rel="shortcut icon">
+<link href="/skins/electro/customer/addons/buy_together/styles.css" rel="stylesheet" type="text/css">
+<!--[if lte IE 7]>
+<link href="/skins/electro/customer/addons/buy_together/styles_ie.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+<link href="/skins/electro/customer/addons/quick_search/styles.css" rel="stylesheet" type="text/css">
+<link href="/skins/electro/customer/addons/shop_by_features/styles.css" rel="stylesheet" type="text/css">
+<link href="/skins/electro/customer/addons/news_and_emails/styles.css" rel="stylesheet" type="text/css">
+<link href="/skins/electro/customer/addons/discussion/styles.css" rel="stylesheet" type="text/css">
+<link href="/skins/electro/customer/addons/hot_deals_block/styles.css" rel="stylesheet" type="text/css"><link href="/skins/electro/customer/addons/my_changes/images/icons/favicon.ico" rel="shortcut icon">
 <link href="/skins/electro/customer/addons/my_changes/css/custom.css" rel="stylesheet" type="text/css">
-<link href="/skins/electro/customer/addons/hot_deals_block/styles.css" rel="stylesheet" type="text/css"><link href="/skins/electro/customer/addons/autosuggest/styles.css" rel="stylesheet" type="text/css">
-
 <script type="text/javascript" src="/lib/jquery/jquery.js"></script>
 <script type="text/javascript" src="/js/core.js"></script>
 <script type="text/javascript" src="/js/ajax.js"></script>
 <script type="text/javascript">
 //<![CDATA[
 var index_script = 'index.php';
+var current_path = '';
+var changes_warning = 'Y';
 
 var lang = {
 	cannot_buy: 'You cannot buy the product with these option variants ',
 	no_products_selected: 'No products selected',
-	error_no_items_selected: 'No items selected! At least one checkbox must be ticked off to perform this action.',
+	error_no_items_selected: 'No items selected! At least one check box must be selected to perform this action.',
 	delete_confirmation: 'Are you sure you want to delete the selected items?',
-	text_out_of_stock: 'Out of stock',
+	text_out_of_stock: 'Out-of-stock',
 	in_stock: 'In stock',
 	items: 'item(s)',
 	text_required_group_product: 'Please select a product for the required group [group_name]',
@@ -44,14 +51,14 @@ var lang = {
 	warning: 'Warning',
 	loading: 'Loading...',
 	none: 'None',
-	text_are_you_sure_to_proceed: 'Are you sure you want to proceed? ',
+	text_are_you_sure_to_proceed: 'Are you sure you want to proceed?',
 	text_invalid_url: 'You have entered an invalid URL',
-	text_cart_changed: 'Items in the shopping cart have been changed. Please press \"OK\" to save changes or \"Cancel\" to leave items unchanged.',
-	error_validator_email: 'The e-mail address in the <b>[field]<\/b> field is invalid.',
-	error_validator_confirm_email: 'The e-mail addresses in the <b>[field]<\/b> and confirmation fields do not match.',
+	text_cart_changed: 'Items in the shopping cart have been changed. Please click on \"OK\" to save changes, or on \"Cancel\" to leave the items unchanged.',
+	error_validator_email: 'The email address in the <b>[field]<\/b> field is invalid.',
+	error_validator_confirm_email: 'The email addresses in the <b>[field]<\/b> field and confirmation fields do not match.',
 	error_validator_phone: 'The phone number in the <b>[field]<\/b> field is invalid. The correct format is (555) 555-55-55 or 55 55 555 5555.',
 	error_validator_integer: 'The value of the <b>[field]<\/b> field is invalid. It should be integer.',
-	error_validator_multiple: 'The <b>[field]<\/b> field does not have selected options.',
+	error_validator_multiple: 'The <b>[field]<\/b> field does not contain the selected options.',
 	error_validator_password: 'The passwords in the <b>[field2]<\/b> and <b>[field1]<\/b> fields do not match.',
 	error_validator_required: 'The <b>[field]<\/b> field is mandatory.',
 	error_validator_zipcode: 'The ZIP / Postal code in the <b>[field]<\/b> field is incorrect. The correct format is [extra].',
@@ -59,11 +66,15 @@ var lang = {
 	text_page_loading: 'Loading... Your request is being processed, please wait.',
 	view_cart: 'View cart',
 	checkout: 'Checkout',
-	product_added_to_cart: 'Product added to your cart',
-	products_added_to_cart: 'Products added to your cart',
-	product_added_to_wl: 'Product added to your Wish list',
-	product_added_to_cl: 'Product added to your Compare list',
-	close: 'Close'
+	product_added_to_cart: 'Product was added to your cart',
+	products_added_to_cart: 'Products were added to your cart',
+	product_added_to_wl: 'Product was added to your Wish list',
+	product_added_to_cl: 'Product was added to your Compare list',
+	close: 'Close',
+	error: 'Error',
+	error_ajax: 'Oops, something goes wrong ([error]). Please try again.',
+	text_changes_not_saved: 'Your changes have not been saved.',
+	text_data_changed: 'Your changes have not been saved.\n\nPress OK to continue, or Cancel to stay on the current page.'
 }
 
 var warning_mark = "&lt;&lt;";
@@ -117,36 +128,36 @@ $(document).ready(function(){
 </script>
 <![endif]-->
 
-<!--<script type="text/javascript" src="/skins/electro/customer/addons/my_changes/js/snowstorm.js"></script>
+
+<script type="text/javascript" src="/addons/buy_together/js/func.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+	lang['buy_together_fill_the_mandatory_fields'] = '_buy_together_fill_the_mandatory_fields';
+//]]>
+</script>
+<script type="text/javascript" src="/addons/quick_search/js/func.js"></script><!--<script type="text/javascript" src="/skins/electro/customer/addons/my_changes/js/snowstorm.js"></script>
 <!-- now, we'll customize the snowStorm object 
 <!--<script type="text/javascript">
 snowStorm.snowColor = '#99ccff'; // blue-ish snow!?
 snowStorm.useTwinkleEffect = true; // let the snow flicker in and out of view
 </script> -->
 
-<script type="text/javascript" src="/skins/electro/customer/addons/my_changes/js/secure-comodo.js"></script><script type="text/javascript" src="/addons/autosuggest/js/func.js"></script>
-<script src="https://ssl.google-analytics.com/ga.js" async="true"></script></head>
+<script type="text/javascript" src="/skins/electro/customer/addons/my_changes/js/secure-comodo.js"></script><script src="https://ssl.google-analytics.com/ga.js" async="true"></script></head>
 
 <body>
 <div class="helper-container">
 	<a name="top"></a>
 	
 <div id="ajax_loading_box" class="ajax-loading-box"><div class="right-inner-loading-box"><div id="ajax_loading_message" class="ajax-inner-loading-box">Loading...</div></div></div>
+
 	
 
-<div class="cm-notification-container">
 
-</div>
 
-		
+
 <div id="container" class="container">
-		<div id="header">
-<div class="header-helper-container">
-	<div class="logo-image">
-		<a href="/"><img src="/skins/electro/customer/images/madison-seating-logo-customer.png" width="271" height="46" border="0" alt="MadisonSeating.com"></a>
-	</div>
-	
-	<p class="quick-links">&nbsp;
+		<div id="header"><p class="quick-links">&nbsp;
 			<a href="/">Home</a>
 			<a href="about-madison-seating.html">About Us</a>
 			<a href="contact-us.html">Contact Us</a>
@@ -154,10 +165,16 @@ snowStorm.useTwinkleEffect = true; // let the snow flicker in and out of view
 			<a href="terms-of-use.html"> Terms of Use  </a>
 			<a href="security-and-privacy.html">Security &amp;  Privacy</a>
 	</p>
+<div class="header-helper-container">
+	<div class="logo-image">
+		<a href="/"><img src="/skins/electro/customer/images/madison-seating-logo-customer.png" width="271" height="46" border="0" alt=""></a>
+	</div>
 	
+	
+	<div class="phone-number"></div>
 	
 <div id="top_menu">
-<ul class="top-menu dropdown"><li class="first-level "><span><a href="/">Home</a></span></li><li class="first-level "><span><a href="/index.php?dispatch=categories.catalog">Catalog</a></span></li><li class="first-level "><span><a href="/index.php?dispatch=profiles.update">My Account</a></span></li><li class="first-level "><span><a href="/index.php?dispatch=checkout.cart">View cart</a></span></li><li class="first-level "><span><a href="about-madison-seating.html">Company</a></span>
+<ul class="top-menu dropdown"><li class="first-level "><span><a href="/">Home</a></span></li><li class="first-level "><span><a href="/index.php?dispatch=categories.catalog">Catalog</a></span></li><li class="first-level "><span><a href="/index.php?dispatch=profiles.update">My Account</a></span></li><li class="first-level "><span><a href="/index.php?dispatch=checkout.cart">View cart</a></span></li><li class="first-level cm-active"><span><a href="about-madison-seating.html">Company</a></span>
 <ul class="dropdown-vertical-rtl">
 			<li>
 		<a href="/about-madison-seating.html">About us</a>
@@ -175,30 +192,7 @@ snowStorm.useTwinkleEffect = true; // let the snow flicker in and out of view
 		<a href="/security-and-privacy.html">Security &amp; Privacy</a>
 			</li>
 		</ul>
-</li><li class="first-level cm-active"><span><a href="contact-us.html">Contact Us</a></span>
-<ul class="dropdown-vertical-rtl">
-			<li>
-		<a href="/contact-sales-department.html">Sales</a>
-			</li>
-		<li class="h-sep">&nbsp;</li>
-			<li>
-		<a href="/bulk-orders.html">Bulk Orders</a>
-			</li>
-		<li class="h-sep">&nbsp;</li>
-			<li>
-		<a href="/contact-customer-service-department.html">Customer Service</a>
-			</li>
-		<li class="h-sep">&nbsp;</li>
-			<li>
-		<a href="/contact-claims-department.html">Claims Department</a>
-			</li>
-		<li class="h-sep">&nbsp;</li>
-			<li>
-		<a href="/contact-returns-department.html">Returns Department</a>
-			</li>
-		</ul>
-</li></ul>
-
+</li><li class="first-level "><span><a href="contact-us.html">Contact Us</a></span></li></ul>
 </div>
 <span class="helper-block">&nbsp;</span>
 </div>
@@ -207,15 +201,15 @@ snowStorm.useTwinkleEffect = true; // let the snow flicker in and out of view
 	<span class="float-left">&nbsp;</span>
 	<span class="float-right">&nbsp;</span>
 	<div class="top-tools-helper">
-		<div class="float-right" id="sign_io"><!--dynamic:sign_io-->
-														 
-				<a id="sw_login" href="index.php?dispatch=auth.login_form&amp;return_url=index.php%3Fdispatch%3Dpages.view%26page_id%3D4">Sign in</a>
+		<div class="float-right" id="sign_io">
+										<a id="sw_login" href="/index.php?dispatch=auth.login_form&amp;return_url=index.php%3Fdispatch%3Dpages.view%26page_id%3D4">Sign in</a>
 				or
-				<a href="index.php?dispatch=profiles.add">Register</a>
+				<a href="/index.php?dispatch=profiles.add">Register</a>
 						
-					<!--/dynamic--><!--sign_io--></div>
+					<!--sign_io--></div>
 		<div class="top-search">
-			<form action="index.php" name="search_form" method="get">
+			
+<form action="/" name="search_form" method="get">
 <input type="hidden" name="subcats" value="Y">
 <input type="hidden" name="type" value="extended">
 <input type="hidden" name="status" value="A">
@@ -224,14 +218,26 @@ snowStorm.useTwinkleEffect = true; // let the snow flicker in and out of view
 <input type="hidden" name="pname" value="Y">
 <input type="hidden" name="pkeywords" value="Y">
 <input type="hidden" name="search_performed" value="Y">
- 
+
+<div class="qsearch-result border cm-popup-box" id="quick_search_result">
+
+	<div class="center">No data found</div>
+
+<p class="right">
+	<a class="extra-link" onclick="$('#quick_search_result').hide();">Close</a>
+</p>
+<!--quick_search_result--></div>
+
+<script type="text/javascript">
+	var qs_min_length = 3
+</script> 
 
 <span class="search-products-text">Search:</span>
 
 <select name="cid" class="search-selectbox">
 	<option value="0">- All categories -</option>
-		<option value="91">Office &amp; Home</option>
-		<option value="88">Kitchen &amp; Dining</option>
+		<option value="91">Home Office</option>
+		<option value="88">Dining &amp; Kitchen</option>
 		<option value="90">Living Room</option>
 		<option value="58">Bedroom</option>
 		<option value="64">Entertainment</option>
@@ -241,10 +247,9 @@ snowStorm.useTwinkleEffect = true; // let the snow flicker in and out of view
 		<option value="60">Mirrors</option>
 	</select>
 
-<input type="text" name="q" value="" onfocus="this.select();" class="search-input"><input type="image" src="/skins/electro/customer/images/icons/go.gif" alt="Search" title="Search" class="go-button"><input type="hidden" name="dispatch" value="products.search"><a href="index.php?dispatch=products.search" class="search-advanced">Advanced search</a>
+<input type="text" name="q" value="" onfocus="this.select();" class="search-input"><input type="image" src="/skins/electro/customer/images/icons/go.gif" alt="Search" title="Search" class="go-button"><input type="hidden" name="dispatch" value="products.search"><a href="/index.php?dispatch=products.search" class="search-advanced">Advanced search</a>
 
-</form>
-		</div>
+</form>		</div>
 	</div>
 </div>
 
@@ -253,37 +258,36 @@ snowStorm.useTwinkleEffect = true; // let the snow flicker in and out of view
 	<span class="float-right">&nbsp;</span>
 	<div class="content-tools-helper clear">
 		
-<div id="cart_status">
-<!--dynamic:cart_status-->
-<div class="float-left">
-			<img id="sw_cart_box" class="cm-combination cm-combo-on valign hand" src="/skins/electro/customer/images/icons/empty_cart_icon.gif" alt="Cart is empty" title="Cart is empty"><strong>&nbsp;&nbsp;&nbsp;Cart is empty</strong>
-		
-	<div id="cart_box" class="cart-list hidden cm-popup-box cm-smart-position">
-		<img src="/skins/electro/customer/images/icons/empty_cart_list_icon.gif" alt="Cart" class="cm-popup-switch hand cart-list-icon">
-		<div class="list-container">
-			<div class="list">
-							<p class="center">Cart is empty</p>
-						</div>
-			<div class="buttons-container">
-				<a href="index.php?dispatch=checkout.cart" class="view-cart">View cart</a>
-				<a href="index.php?dispatch=checkout.checkout">Checkout</a>			</div>
+	<div id="cart_status">
+	<div class="float-left">
+					<img id="sw_cart_box" class="cm-combination cm-combo-on valign hand" src="/skins/electro/customer/images/icons/empty_cart_icon.gif" alt="Cart is empty" title="Cart is empty"><strong>&nbsp;&nbsp;&nbsp;Cart is empty</strong>
+			
+		<div id="cart_box" class="cart-list hidden cm-popup-box cm-smart-position">
+			<img src="/skins/electro/customer/images/icons/empty_cart_list_icon.gif" alt="Cart" class="cm-popup-switch hand cart-list-icon">
+			<div class="list-container">
+				<div class="list">
+									<p class="center">Cart is empty</p>
+								</div>
+				<div class="buttons-container">
+					<a href="/index.php?dispatch=checkout.cart" class="view-cart">View cart</a>
+									</div>
+			</div>
 		</div>
 	</div>
-</div><!--/dynamic-->
 
-<div class="checkout-link">
+	<div class="checkout-link">
 
-<a href="index.php?dispatch=checkout.checkout">Checkout</a>
-</div>
-<!--cart_status--></div>		<div class="float-right">
+	<a href="/index.php?dispatch=checkout.checkout">Checkout</a>
+
+	</div>
+	<!--cart_status--></div>
+		<div class="float-right">
 			
-			<!--dynamic:languages-->
-						<!--/dynamic-->
-
+			
 					</div>
 	</div>
 </div></div>
-	<div class="phone-number"></div>	
+		
 	<div id="content">
 		<div class="content-helper clear">
 						
@@ -293,6 +297,11 @@ snowStorm.useTwinkleEffect = true; // let the snow flicker in and out of view
 	<div class="breadcrumbs">
 		<a href="/">Home</a><img src="/skins/electro/customer/images/icons/breadcrumbs_arrow.gif" class="bc-arrow" border="0" alt=">"><a href="/company-information.html">Company</a><img src="/skins/electro/customer/images/icons/breadcrumbs_arrow.gif" class="bc-arrow" border="0" alt=">">Security &amp; Privacy
 	</div>
+					
+
+
+<div class="cm-notification-container"></div>
+					
 					<div class="mainbox-container">
 		<h1 class="mainbox-title"><span>Security &amp; Privacy</span></h1>
 		<div class="mainbox-body">
@@ -317,9 +326,7 @@ snowStorm.useTwinkleEffect = true; // let the snow flicker in and out of view
 <p>With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.</p>
 <p>If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.</p>
 <!-- bottom banners -->
-		
-		
-	</div>
+		</div>
 	
 
 
@@ -333,168 +340,45 @@ snowStorm.useTwinkleEffect = true; // let the snow flicker in and out of view
 				<div class="sidebox-wrapper ">
 	<h3 class="sidebox-title"><span>Specials</span></h3>
 	<div class="sidebox-body"><ul>
-		<li><a href="/clearance-en.html" title="Clearance ">Clearance </a></li>
-		<li><a href="/discontinued-en.html" title="Discontinued">Discontinued</a></li>
-		<li><a href="/nicks-and-scratches-en.html" title="Nicks &amp; Scratches">Nicks &amp; Scratches</a></li>
-		<li><a href="/herman-miller-aeron.html" title="Herman Miller Aeron">Herman Miller Aeron</a></li>
-	</ul>
-</div>
+<li><a href="/mega-clearance.html">Mega Clearance </a></li>
+<li><a href="/herman-miller-aeron.html.html">Herman Miller Aeron</a></li>
+</ul></div>
 	<div class="sidebox-bottom"><span>&nbsp;</span></div>
-</div>
-<div class="sidebox-categories-wrapper ">
+</div><div style="border: solid 1px #D9DBDD; padding: 12px; background-color: #f7f7f7; font-size: 12px; margin-bottom: 14px;"><a style="text-decoration:none;" href="shop-by-brand.html">Shop by Brand</a></div><div class="sidebox-categories-wrapper ">
 	<h3 class="sidebox-title"><span>Categories</span></h3>
 	<div class="sidebox-body">
-					<ul class="menu-root-categories">
-			<li><a href="/office-and-home-furniture.html" class="underlined-bold">Office &amp; Home</a></li>
-		</ul>
-								<ul class="menu-subcategories">
-								<li style="padding-left: 13px;"><a href="/office-and-home-furniture/big-and-tall.html" class="subcategories-link">Big &amp; Tall</a></li>
-							<li style="padding-left: 13px;"><a href="/office-and-home-furniture/office-chairs.html" class="subcategories-link">Office Chairs</a></li>
-							<li style="padding-left: 13px;"><a href="/office-and-home-furniture/office-armless-chairs.html" class="subcategories-link">Office Armless Chairs</a></li>
-							<li style="padding-left: 13px;"><a href="/office-and-home-furniture/office-side-chairs-and-drafting-chairs.html" class="subcategories-link">Side &amp; Drafting Chairs</a></li>
-							<li style="padding-left: 13px;"><a href="/office-and-home-furniture/side-chairs.html" class="subcategories-link">Side Chairs</a></li>
-							<li style="padding-left: 13px;"><a href="/office-and-home-furniture/home-and-office-decor.html" class="subcategories-link">Home/Office Decor</a></li>
-							<li style="padding-left: 13px;"><a href="/office-and-home-furniture/reception-chairs.html" class="subcategories-link">Reception Furniture</a></li>
-							<li style="padding-left: 13px;"><a href="/office-and-home-furniture/coat-racks.html" class="subcategories-link">Coat Racks</a></li>
-							<li style="padding-left: 13px;"><a href="/office-and-home-furniture/desks-hucth-file-cabinets.html" class="subcategories-link">Desks/Hutch/File Cabinets</a></li>
-							<li style="padding-left: 13px;"><a href="/office-and-home-furniture/conference-tables.html" class="subcategories-link">Conference Tables</a></li>
-							<li style="padding-left: 13px;"><a href="/office-and-home-furniture/office-and-home-collections-and-sets.html" class="subcategories-link">Collections &amp; Sets</a></li>
-							<li style="padding-left: 13px;"><a href="/office-and-home-furniture/accessories.html" class="subcategories-link">Accessories</a></li>
-								</ul>
-							<ul class="menu-root-categories">
-			<li><a href="/kitchen-and-dining-room-furniture.html" class="underlined-bold">Kitchen &amp; Dining</a></li>
-		</ul>
-								<ul class="menu-subcategories">
-								<li style="padding-left: 13px;"><a href="/kitchen-and-dining-room-furniture/bar-cabinets.html" class="subcategories-link">Bar Cabinets</a></li>
-							<li style="padding-left: 13px;"><a href="/kitchen-and-dining-room-furniture/bar-and-counter-stool.html" class="subcategories-link">Bar &amp; Counter Stools</a></li>
-							<li style="padding-left: 13px;"><a href="/kitchen-and-dining-room-furniture/bar-and-counter-tables.html" class="subcategories-link">Bar &amp; Counter Tables</a></li>
-							<li style="padding-left: 13px;"><a href="/kitchen-and-dining-room-furniture/bar-and-table-sets.html" class="subcategories-link">Bar &amp; Table Sets</a></li>
-							<li style="padding-left: 13px;"><a href="/kitchen-and-dining-room-furniture/dining-tables.html" class="subcategories-link">Dining Tables</a></li>
-							<li style="padding-left: 13px;"><a href="/kitchen-and-dining-room-furniture/dining-chiars.html" class="subcategories-link">Dining Chairs</a></li>
-							<li style="padding-left: 13px;"><a href="/kitchen-and-dining-room-furniture/side-chairs-en.html" class="subcategories-link">Side Chairs</a></li>
-							<li style="padding-left: 13px;"><a href="/kitchen-and-dining-room-furniture/benches-en.html" class="subcategories-link">Benches</a></li>
-							<li style="padding-left: 13px;"><a href="/kitchen-and-dining-room-furniture/racks.html" class="subcategories-link">Bakers Racks </a></li>
-							<li style="padding-left: 13px;"><a href="/kitchen-and-dining-room-furniture/kitchen-and-dining-collections-and-sets.html" class="subcategories-link">Collections &amp; Sets</a></li>
-							<li style="padding-left: 13px;"><a href="/kitchen-and-dining-room-furniture/tabletop-lazy-susans.html" class="subcategories-link">Tabletop Lazy Susans</a></li>
-								</ul>
-							<ul class="menu-root-categories">
-			<li><a href="/living-room-furniture.html" class="underlined-bold">Living Room</a></li>
-		</ul>
-								<ul class="menu-subcategories">
-								<li style="padding-left: 13px;"><a href="/living-room-furniture/sofas-and-armchairs.html" class="subcategories-link">Sofas &amp; Armchairs</a></li>
-							<li style="padding-left: 13px;"><a href="/living-room-furniture/sofa-bed.html" class="subcategories-link">Sofa/Bed</a></li>
-							<li style="padding-left: 13px;"><a href="/living-room-furniture/arm-chairs.html" class="subcategories-link">Arm Chairs</a></li>
-							<li style="padding-left: 13px;"><a href="/living-room-furniture/lounge-chairs.html" class="subcategories-link">Lounge Chairs</a></li>
-							<li style="padding-left: 13px;"><a href="/living-room-furniture/occasional-chair.html" class="subcategories-link">Occasional Chair</a></li>
-							<li style="padding-left: 13px;"><a href="/living-room-furniture/bean-bags.html" class="subcategories-link">Home Accents</a></li>
-							<li style="padding-left: 13px;"><a href="/living-room-furniture/benches-en-2.html" class="subcategories-link">Benches</a></li>
-							<li style="padding-left: 13px;"><a href="/living-room-furniture/coffee-tables.html" class="subcategories-link">Coffee Tables</a></li>
-							<li style="padding-left: 13px;"><a href="/living-room-furniture/console-tables.html" class="subcategories-link">Console Tables</a></li>
-							<li style="padding-left: 13px;"><a href="/living-room-furniture/side-tables.html" class="subcategories-link">Side Tables</a></li>
-							<li style="padding-left: 13px;"><a href="/living-room-furniture/home-theater-seating.html" class="subcategories-link">Home Theater Seating</a></li>
-							<li style="padding-left: 13px;"><a href="/living-room-furniture/recliners.html" class="subcategories-link">Recliners</a></li>
-							<li style="padding-left: 13px;"><a href="/living-room-furniture/ottoman.html" class="subcategories-link">Ottoman</a></li>
-								</ul>
-							<ul class="menu-root-categories">
-			<li><a href="/bedroom-furniture.html" class="underlined-bold">Bedroom</a></li>
-		</ul>
-								<ul class="menu-subcategories">
-								<li style="padding-left: 13px;"><a href="/bedroom-furniture/baby-cribs.html" class="subcategories-link">Baby Cribs</a></li>
-							<li style="padding-left: 13px;"><a href="/bedroom-furniture/bunk-beds.html" class="subcategories-link">Bunk Beds</a></li>
-							<li style="padding-left: 13px;"><a href="/bedroom-furniture/benches-en-2-3.html" class="subcategories-link">Benches</a></li>
-							<li style="padding-left: 13px;"><a href="/bedroom-furniture/bedroom-collections-and-sets.html" class="subcategories-link">Bedroom Collections &amp; Sets</a></li>
-							<li style="padding-left: 13px;"><a href="/bedroom-furniture/bookcases.html" class="subcategories-link">Bookcases</a></li>
-							<li style="padding-left: 13px;"><a href="/bedroom-furniture/seating.html" class="subcategories-link">Seating</a></li>
-								</ul>
-							<ul class="menu-root-categories">
-			<li><a href="/entertainment-units.html" class="underlined-bold">Entertainment</a></li>
-		</ul>
-							<ul class="menu-root-categories">
-			<li><a href="/all-outdoor-furniture.html" class="underlined-bold">Outdoor Furniture</a></li>
-		</ul>
-								<ul class="menu-subcategories">
-								<li style="padding-left: 13px;"><a href="/all-outdoor-furniture/outdoor-furniture.html" class="subcategories-link">All Outdoor Furniture</a></li>
-							<li style="padding-left: 27px;"><a href="/all-outdoor-furniture/outdoor-furniture/bar-tables.html" class="subcategories-link">Bar Tables</a></li>
-							<li style="padding-left: 27px;"><a href="/all-outdoor-furniture/outdoor-furniture/benches.html" class="subcategories-link">Benches</a></li>
-							<li style="padding-left: 27px;"><a href="/all-outdoor-furniture/outdoor-furniture/chaise-lounges.html" class="subcategories-link">Chaise Lounges</a></li>
-							<li style="padding-left: 27px;"><a href="/all-outdoor-furniture/outdoor-furniture/tables.html" class="subcategories-link">Coffee/Side Tables</a></li>
-							<li style="padding-left: 27px;"><a href="/all-outdoor-furniture/outdoor-furniture/daybeds.html" class="subcategories-link">Daybeds</a></li>
-							<li style="padding-left: 27px;"><a href="/all-outdoor-furniture/outdoor-furniture/dining-chairs-tables.html" class="subcategories-link">Dining Chairs/Tables</a></li>
-							<li style="padding-left: 27px;"><a href="/all-outdoor-furniture/outdoor-furniture/hammocks.html" class="subcategories-link">Hanging Chairs</a></li>
-							<li style="padding-left: 27px;"><a href="/all-outdoor-furniture/outdoor-furniture/ottoman-en.html" class="subcategories-link">Ottoman</a></li>
-							<li style="padding-left: 27px;"><a href="/all-outdoor-furniture/outdoor-furniture/patio-chairs.html" class="subcategories-link">Patio Chairs</a></li>
-							<li style="padding-left: 27px;"><a href="/all-outdoor-furniture/outdoor-furniture/outdoor-collections-and-sets.html" class="subcategories-link">Sets &amp; Collections</a></li>
-							<li style="padding-left: 27px;"><a href="/all-outdoor-furniture/outdoor-furniture/sofas.html" class="subcategories-link">Sofas</a></li>
-							<li style="padding-left: 27px;"><a href="/all-outdoor-furniture/outdoor-furniture/stools.html" class="subcategories-link">Stools</a></li>
-							<li style="padding-left: 27px;"><a href="/all-outdoor-furniture/outdoor-furniture/accesories.html" class="subcategories-link">Accesories</a></li>
-								</ul>
-							<ul class="menu-root-categories">
-			<li><a href="/bookcases-and-shelving.html" class="underlined-bold">Shelving</a></li>
-		</ul>
-							<ul class="menu-root-categories">
-			<li><a href="/lighting.html" class="underlined-bold">Lighting</a></li>
-		</ul>
-							<ul class="menu-root-categories">
-			<li><a href="/mirrors.html" class="underlined-bold">Mirrors</a></li>
-		</ul>
-		</div>
+<div class="clear">
+	<ul id="vmenu_36" class="dropdown dropdown-vertical">
+		<li class="dir"><ul><li class="dir"><ul><li><a href="/office-and-home-furniture/office-chairs/office-side-chairs-and-drafting-chairs.html">Drafting Chairs</a></li><li class="h-sep">&nbsp;</li><li><a href="/office-and-home-furniture/office-chairs/office-armless-chairs.html">Armless Chairs</a></li><li class="h-sep">&nbsp;</li><li><a href="/office-and-home-furniture/office-chairs/side-chairs.html">Side Chairs</a></li></ul><a href="/office-and-home-furniture/office-chairs.html">Office Chairs</a></li><li class="h-sep">&nbsp;</li><li><a href="/office-and-home-furniture/desks-hucth-file-cabinets.html">Desks</a></li><li class="h-sep">&nbsp;</li><li><a href="/office-and-home-furniture/conference-tables.html">Conference Tables</a></li><li class="h-sep">&nbsp;</li><li><a href="/office-and-home-furniture/reception-chairs.html">Reception Furniture</a></li><li class="h-sep">&nbsp;</li><li><a href="/office-and-home-furniture/file-cabinets.html">File Cabinets</a></li><li class="h-sep">&nbsp;</li><li><a href="/office-and-home-furniture/bookcases.html">Bookcases</a></li><li class="h-sep">&nbsp;</li><li><a href="/office-and-home-furniture/accessories.html">Accessories</a></li><li class="h-sep">&nbsp;</li><li><a href="/office-and-home-furniture/home-and-office-decor.html">Home/Office Decor</a></li><li class="h-sep">&nbsp;</li><li><a href="/office-and-home-furniture/organizers.html">Organizers</a></li></ul><a href="/office-and-home-furniture.html">Home Office</a></li><li class="h-sep">&nbsp;</li><li class="dir"><ul><li><a href="/kitchen-and-dining-room-furniture/kitchen-and-dining-collections-and-sets.html">Dining Collections &amp; Sets</a></li><li class="h-sep">&nbsp;</li><li><a href="/kitchen-and-dining-room-furniture/dining-tables.html">Dining Tables</a></li><li class="h-sep">&nbsp;</li><li><a href="/kitchen-and-dining-room-furniture/dining-chairs.html">Dining Chairs</a></li><li class="h-sep">&nbsp;</li><li><a href="/kitchen-and-dining-room-furniture/china-cabinets.html">China Cabinets</a></li><li class="h-sep">&nbsp;</li><li><a href="/kitchen-and-dining-room-furniture/bar-and-table-sets.html">Bar Sets</a></li><li class="h-sep">&nbsp;</li><li><a href="/kitchen-and-dining-room-furniture/bar-and-counter-tables.html">Bar &amp; Counter Tables</a></li><li class="h-sep">&nbsp;</li><li><a href="/kitchen-and-dining-room-furniture/bar-and-counter-stool.html">Bar &amp; Counter Stools</a></li><li class="h-sep">&nbsp;</li><li><a href="/kitchen-and-dining-room-furniture/bar-cabinets.html">Bar Cabinets</a></li><li class="h-sep">&nbsp;</li><li><a href="/kitchen-and-dining-room-furniture/kitchen-tables.html">Kitchen Tables</a></li><li class="h-sep">&nbsp;</li><li><a href="/kitchen-and-dining-room-furniture/benches-en.html">Benches</a></li><li class="h-sep">&nbsp;</li><li><a href="/kitchen-and-dining-room-furniture/cabinets-and-storage.html">Cabinets &amp; Storage</a></li><li class="h-sep">&nbsp;</li><li><a href="/kitchen-and-dining-room-furniture/racks.html">Bakers Racks </a></li><li class="h-sep">&nbsp;</li><li><a href="/kitchen-and-dining-room-furniture/buffets.html">Buffets &amp; Servers</a></li><li class="h-sep">&nbsp;</li><li><a href="/kitchen-and-dining-room-furniture/tabletop-lazy-susans.html">Tabletop Lazy Susans</a></li><li class="h-sep">&nbsp;</li><li><a href="/kitchen-and-dining-room-furniture/side-chairs-en.html">Side Chairs</a></li></ul><a href="/kitchen-and-dining-room-furniture.html">Dining &amp; Kitchen</a></li><li class="h-sep">&nbsp;</li><li class="dir"><ul><li><a href="/living-room-furniture/living-room-collections-and-sets.html">Collections &amp; Sets</a></li><li class="h-sep">&nbsp;</li><li><a href="/living-room-furniture/sofas-and-armchairs.html">Sofas &amp; Armchairs</a></li><li class="h-sep">&nbsp;</li><li><a href="/living-room-furniture/sofa-bed.html">Sofa/Bed</a></li><li class="h-sep">&nbsp;</li><li><a href="/living-room-furniture/arm-chairs.html">Arm Chairs</a></li><li class="h-sep">&nbsp;</li><li><a href="/living-room-furniture/recliners.html">Recliners</a></li><li class="h-sep">&nbsp;</li><li><a href="/living-room-furniture/futons-and-foldables.html">Futons &amp; Foldables</a></li><li class="h-sep">&nbsp;</li><li><a href="/living-room-furniture/ottoman.html">Ottomans &amp; Chaises</a></li><li class="h-sep">&nbsp;</li><li><a href="/living-room-furniture/benches-en-2.html">Benches</a></li><li class="h-sep">&nbsp;</li><li><a href="/living-room-furniture/coffee-tables.html">Coffee Tables</a></li><li class="h-sep">&nbsp;</li><li><a href="/living-room-furniture/console-tables.html">Console Tables</a></li><li class="h-sep">&nbsp;</li><li><a href="/living-room-furniture/side-tables.html">Side &amp; End Tables</a></li><li class="h-sep">&nbsp;</li><li><a href="/living-room-furniture/home-theater-seating.html">Home Theater Seating</a></li><li class="h-sep">&nbsp;</li><li><a href="/living-room-furniture/tv-units.html">TV Units</a></li><li class="h-sep">&nbsp;</li><li><a href="/living-room-furniture/occasional-tables.html">Occasional Tables</a></li><li class="h-sep">&nbsp;</li><li><a href="/living-room-furniture/occasional-chair.html">Occasional Chair</a></li><li class="h-sep">&nbsp;</li><li><a href="/living-room-furniture/childrens-chares.html">Childrens Chairs</a></li><li class="h-sep">&nbsp;</li><li><a href="/living-room-furniture/bean-bags.html">Home Accents</a></li><li class="h-sep">&nbsp;</li><li><a href="/living-room-furniture/fireplaces.html">Fireplaces</a></li><li class="h-sep">&nbsp;</li><li><a href="/living-room-furniture/lounge-chairs.html">Lounge Chairs</a></li><li class="h-sep">&nbsp;</li><li><a href="/living-room-furniture/coat-racks.html">Coat Racks</a></li></ul><a href="/living-room-furniture.html">Living Room</a></li><li class="h-sep">&nbsp;</li><li class="dir"><ul><li><a href="/bedroom-furniture/bedroom-collections-and-sets.html">Bedroom Collections &amp; Sets</a></li><li class="h-sep">&nbsp;</li><li><a href="/bedroom-furniture/beds.html">Beds</a></li><li class="h-sep">&nbsp;</li><li><a href="/bedroom-furniture/bunk-beds.html">Bunk Beds</a></li><li class="h-sep">&nbsp;</li><li><a href="/bedroom-furniture/daybeds-en.html">Daybeds</a></li><li class="h-sep">&nbsp;</li><li><a href="/bedroom-furniture/headboards-and-footboards.html">Headboards &amp; Footboards </a></li><li class="h-sep">&nbsp;</li><li><a href="/bedroom-furniture/nightstands.html">Nightstands</a></li><li class="h-sep">&nbsp;</li><li><a href="/bedroom-furniture/dressers-and-chests.html">Dressers &amp; Chests</a></li><li class="h-sep">&nbsp;</li><li><a href="/bedroom-furniture/armoires.html">Armoires</a></li><li class="h-sep">&nbsp;</li><li><a href="/bedroom-furniture/vanitys.html">Vanitys</a></li><li class="h-sep">&nbsp;</li><li><a href="/bedroom-furniture/benches-en-2-3.html">Benches</a></li><li class="h-sep">&nbsp;</li><li><a href="/bedroom-furniture/seating.html">Seating</a></li><li class="h-sep">&nbsp;</li><li><a href="/bedroom-furniture/mirror.html">Mirrors</a></li><li class="h-sep">&nbsp;</li><li><a href="/bedroom-furniture/baby-cribs.html">Baby Cribs</a></li></ul><a href="/bedroom-furniture.html">Bedroom</a></li><li class="h-sep">&nbsp;</li><li><a href="/entertainment-units.html">Entertainment</a></li><li class="h-sep">&nbsp;</li><li class="dir"><ul><li><a href="/all-outdoor-furniture/outdoor-collections-and-sets.html">Sets &amp; Collections</a></li><li class="h-sep">&nbsp;</li><li><a href="/all-outdoor-furniture/sofas.html">Sofas/Armchairs</a></li><li class="h-sep">&nbsp;</li><li><a href="/all-outdoor-furniture/patio-chairs.html">Patio Chairs</a></li><li class="h-sep">&nbsp;</li><li><a href="/all-outdoor-furniture/benches.html">Benches</a></li><li class="h-sep">&nbsp;</li><li><a href="/all-outdoor-furniture/daybeds.html">Daybeds</a></li><li class="h-sep">&nbsp;</li><li><a href="/all-outdoor-furniture/chaise-lounges.html">Chaise Lounges</a></li><li class="h-sep">&nbsp;</li><li><a href="/all-outdoor-furniture/ottoman-en.html">Ottoman</a></li><li class="h-sep">&nbsp;</li><li><a href="/all-outdoor-furniture/dining-chairs-tables.html">Dining Chairs/Tables</a></li><li class="h-sep">&nbsp;</li><li><a href="/all-outdoor-furniture/tables.html">Coffee/Side Tables</a></li><li class="h-sep">&nbsp;</li><li><a href="/all-outdoor-furniture/bar-tables.html">Bar Tables</a></li><li class="h-sep">&nbsp;</li><li><a href="/all-outdoor-furniture/hammocks.html">Hanging Chairs</a></li><li class="h-sep">&nbsp;</li><li><a href="/all-outdoor-furniture/stools.html">Stools</a></li><li class="h-sep">&nbsp;</li><li><a href="/all-outdoor-furniture/accesories.html">Accesories</a></li><li class="h-sep">&nbsp;</li><li><a href="/all-outdoor-furniture/outdoor-furniture.html">All Outdoor Furniture</a></li></ul><a href="/all-outdoor-furniture.html">Outdoor Furniture</a></li><li class="h-sep">&nbsp;</li><li><a href="/bookcases-and-shelving.html">Shelving</a></li><li class="h-sep">&nbsp;</li><li><a href="/lighting.html">Lighting</a></li><li class="h-sep">&nbsp;</li><li><a href="/mirrors.html">Mirrors</a></li>	</ul>
+</div></div>
 	<div class="sidebox-bottom"><span>&nbsp;</span></div>
-</div>
-
-<div class="sidebox-wrapper ">
-	<h3 class="sidebox-title"><span>Information</span></h3>
-	<div class="sidebox-body"><ul>
-		<li><a href="/about-madison-seating.html" title="About us">About us</a></li>
-		<li><a href="/contact-us-old.html" title="Contact us">Contact us</a></li>
-		<li><a href="/testimonials.html" title="Testimonials">Testimonials</a></li>
-		<li><a href="/terms-of-use.html" title="Terms of Use">Terms of Use</a></li>
-		<li><a href="/security-and-privacy.html" title="Security &amp; Privacy">Security &amp; Privacy</a></li>
-	</ul>
-</div>
-	<div class="sidebox-bottom"><span>&nbsp;</span></div>
-</div>
-<div class="sidebox-wrapper ">
-	<h3 class="sidebox-title"><span>Bestsellers</span></h3>
-	<div class="sidebox-body"><ul class="bullets-list">
-
-	<li>
-		<a href="/aeron-highly-adjustable-by-herman-miller.html" title="Aeron Fully Loaded By Herman Miller">Aeron Fully Loaded By Herman Miller</a>
-	</li>
-	<li>
-		<a href="/aeron-posture-fit-chair-by-herman-miller.html" title="Aeron Posture Fit Chair by Herman Miller">Aeron Posture Fit Chair by Herman Miller</a>
-	</li>
-	<li>
-		<a href="/leap-chair-by-steelcase.html" title="Leap Chair by Steelcase">Leap Chair by Steelcase</a>
-	</li>
-
-</ul>
-</div>
-	<div class="sidebox-bottom"><span>&nbsp;</span></div>
-</div>
-<div class="sidebox-wrapper ">
+</div><div class="sidebox-wrapper ">
 	<h3 class="sidebox-title"><span>My account</span></h3>
-	<div class="sidebox-body"><!--dynamic:my_account-->
-
+	<div class="sidebox-body">
 <ul class="arrows-list">
-			<li><a href="index.php?dispatch=auth.login_form&amp;return_url=%2Fsecurity-and-privacy.html" class="underlined">Sign in</a> / <a href="index.php?dispatch=profiles.add" class="underlined">Register</a></li>
-		<li><a href="index.php?dispatch=orders.search" class="underlined">Orders</a></li>
+			<li><a href="/index.php?dispatch=auth.login_form&amp;return_url=index.php%3Fdispatch%3Dpages.view%26page_id%3D4" class="underlined">Sign in</a> / <a href="/index.php?dispatch=profiles.add" class="underlined">Register</a></li>
+		<li><a href="/index.php?dispatch=orders.search" class="underlined">Orders</a></li>
+
 
 </ul>
 
-<div class="updates-wrapper">
+<div class="updates-wrapper" id="track_orders">
 
-<form action="index.php" method="get" name="track_order_quick">
+<form action="/" method="get" class="cm-ajax" name="track_order_quick">
+<input type="hidden" name="result_ids" value="track_orders">
 
 <p>Track my order(s):</p>
 
 <div class="form-field">
-<label for="track_order_item" class="cm-required hidden">Track my order(s):</label>
-<input type="hidden" name="redirect_url" value="/security-and-privacy.html"><input type="text" size="20" class="input-text cm-hint" id="track_order_item" name="track_data" value="Order ID/E-mail"><input type="image" src="/skins/electro/customer/images/icons/go.gif" alt="Go" title="Go" class="go-button"><input type="hidden" name="dispatch" value="orders.track_request"></div>
+<label for="track_order_item5" class="cm-required hidden">Track my order(s):</label>
+	<input type="text" size="20" class="input-text cm-hint" id="track_order_item5" name="track_data" value="Order ID/Email">
+	<input type="image" src="/skins/electro/customer/images/icons/go.gif" alt="Go" title="Go" class="go-button">
+<input type="hidden" name="dispatch" value="orders.track_request">	</div>
 
 </form>
 
+<!--track_orders--></div>
 </div>
-<!--/dynamic--></div>
 	<div class="sidebox-bottom"><span>&nbsp;</span></div>
 </div>
 			</div>
@@ -511,28 +395,16 @@ snowStorm.useTwinkleEffect = true; // let the snow flicker in and out of view
 </div>
 <script type="text/javascript" src="https://s7.addthis.com/js/250/addthis_widget.js#pub=xa-4b146e58504bde62"></script>
 <!-- AddThis Button END -->
-<br>
-		<div class="ad-container center">
-				<img class=" " src="/images/banner/black-firday-cyber-monday-free-shipping.gif" width="172" height="291" alt="Black Friday - Cyber Monday Free Shipping Storewide" border="0">			</div>
-	
-
-
-
-<div class="sidebox-wrapper hidden cm-hidden-wrapper">
+<br><div class="ad-container center">
+		<a href="/index.php?dispatch=statistics.banners&amp;banner_id=17">		<img class=" " src="/images/promo/59/clearance.jpg" width="166" height="297" alt="Stock Clearance Sale" border="0">		</a>	</div><div class="sidebox-wrapper hidden cm-hidden-wrapper">
 	<h3 class="sidebox-title"><span>Feature comparison</span></h3>
-	<div class="sidebox-body"><!--dynamic:feature_comparison-->
-<div id="comparison_list">
+	<div class="sidebox-body"><div id="comparison_list">
 
 
 <!--comparison_list--></div>
-<!--/dynamic--></div>
-	<div class="sidebox-bottom"><span>&nbsp;</span></div>
 </div>
-		<div class="ad-container center">
-		<a href="/index.php?dispatch=statistics.banners&amp;banner_id=11" target="_blank">		<img class=" " src="/images/banner/price-match-banner.jpg" width="171" height="231" alt="We price match" border="0">		</a>	</div>
-	
-
-<p><img src="skins/electro/customer/addons/my_changes/images/icons/credit-card-logos.gif" alt="Credit Card Accepted" width="120" height="80"></p>
+	<div class="sidebox-bottom"><span>&nbsp;</span></div>
+</div><p><img src="skins/electro/customer/addons/my_changes/images/icons/credit-card-logos.gif" alt="Credit Card Accepted" width="120" height="80"></p>
 <!-- TrustLogo Html Builder Code: Shows the logo at URL https://www.madisonseating.com/skins/electro/customer/images/icons/secure_site.gif Logo type is  ("SC4") undefined //-->
 <p><a id="comodoTL" href="http://www.instantssl.com">SSL</a>
 <script type="text/javascript">// <![CDATA[
@@ -548,21 +420,20 @@ TrustLogo("https://www.madisonseating.com/skins/electro/customer/addons/my_chang
 </p>
 <p><a href="http://www.maxmind.com/app/ccfd_landing" target="_new"><img src="https://www.maxmind.com/images/protected_by_maxmind1.gif" border="0" alt="" width="144" height="48"></a></p>
 <p><img src="skins/electro/customer/addons/my_changes/images/icons/quality-security.gif" alt="Quality and Secure Shopping" width="121" height="80"></p>
-
-		<div class="ad-container center">
-		<a href="/index.php?dispatch=statistics.banners&amp;banner_id=10" target="_blank">		<img class=" " src="/images/banner/madions-seating-faceboook.gif" width="171" height="53" alt="" border="0">		</a>	</div>
-	
 			</div>
-								</div>
+									
+					</div>
 	</div>
 	
 	<div id="footer">
 		<div class="footer-helper-container">
-						
+			<div class="footer-top-helper"><span class="float-left">&nbsp;</span><span class="float-right">&nbsp;</span></div>
+			
 <div class="bottom-search center">
 	<span class="float-left">&nbsp;</span>
 	<span class="float-right">&nbsp;</span>
-	<form action="index.php" name="search_form" method="get">
+	
+<form action="/" name="search_form" method="get">
 <input type="hidden" name="subcats" value="Y">
 <input type="hidden" name="type" value="extended">
 <input type="hidden" name="status" value="A">
@@ -571,14 +442,26 @@ TrustLogo("https://www.madisonseating.com/skins/electro/customer/addons/my_chang
 <input type="hidden" name="pname" value="Y">
 <input type="hidden" name="pkeywords" value="Y">
 <input type="hidden" name="search_performed" value="Y">
- 
+
+<div class="qsearch-result border cm-popup-box" id="quick_search_result">
+
+	<div class="center">No data found</div>
+
+<p class="right">
+	<a class="extra-link" onclick="$('#quick_search_result').hide();">Close</a>
+</p>
+<!--quick_search_result--></div>
+
+<script type="text/javascript">
+	var qs_min_length = 3
+</script> 
 
 <span class="search-products-text">Search:</span>
 
 <select name="cid" class="search-selectbox">
 	<option value="0">- All categories -</option>
-		<option value="91">Office &amp; Home</option>
-		<option value="88">Kitchen &amp; Dining</option>
+		<option value="91">Home Office</option>
+		<option value="88">Dining &amp; Kitchen</option>
 		<option value="90">Living Room</option>
 		<option value="58">Bedroom</option>
 		<option value="64">Entertainment</option>
@@ -590,8 +473,7 @@ TrustLogo("https://www.madisonseating.com/skins/electro/customer/addons/my_chang
 
 <input type="text" name="q" value="" onfocus="this.select();" class="search-input"><input type="image" src="/skins/electro/customer/images/icons/go.gif" alt="Search" title="Search" class="go-button"><input type="hidden" name="dispatch" value="products.search">
 
-</form>
-</div>
+</form></div>
 <p class="quick-links">
 			<a href="/">Home</a>
 			<a href="about-madison-seating.html">About Us</a>
@@ -601,12 +483,13 @@ TrustLogo("https://www.madisonseating.com/skins/electro/customer/addons/my_chang
 			<a href="security-and-privacy.html">Security &amp;  Privacy</a>
 	</p>
 <p class="bottom-copyright class">
-Copyright © 2005-2010 MadisonSeating.com.  All rights reserved on text and illustrations.
+Copyright © 2005-2011 MadisonSeating.com.  All rights reserved on text and illustrations.
 <br>
 <a href="http://www.innovationdesignworks.com" style="color: rgb(164, 164, 164); text-decoration: none;">Website Design by Innovation Designworks</a>
 </p>
 
 
+			<div class="footer-bottom-helper"><span class="float-left">&nbsp;</span><span class="float-right">&nbsp;</span></div>
 		</div>
 	</div>
 </div>
@@ -616,7 +499,7 @@ Copyright © 2005-2010 MadisonSeating.com.  All rights reserved on text and illu
 <script type="text/javascript">
 //<![CDATA[
 $(document).ready(function(){
-	jQuery.ajaxRequest('index.php?dispatch=statistics.collect', {
+	jQuery.ajaxRequest('/index.php?dispatch=statistics.collect', {
 		method: 'post',
 		data: {
 			've[url]': location.href,
@@ -629,7 +512,7 @@ $(document).ready(function(){
 			've[screen_x]': (screen.width || null),
 			've[screen_y]': (screen.height || null),
 			've[color]': (screen.colorDepth || screen.pixelDepth || null),
-			've[time_begin]': 1290826663.92
+			've[time_begin]': 1307248972.35
 		},
 		hidden: true
 	});
@@ -638,7 +521,7 @@ $(document).ready(function(){
 </script>
 
 <noscript>
-<object data="index.php?dispatch=statistics.collect&amp;ve[url]=http%3A%2F%2Fwww.madisonseating.com%2Fsecurity-and-privacy.html&amp;ve[title]=Security%20%26%20Privacy%20at%20MadisonSeating.com&amp;ve[referrer]=&amp;ve[time_begin]=1290826663.92" width="0" height="0"></object>
+<object data="/index.php?dispatch=statistics.collect&amp;ve%5Burl%5D=%2Fsecurity-and-privacy.html&amp;ve%5Btitle%5D=Security+%26+Privacy+at+MadisonSeating.com&amp;ve%5Breferrer%5D=http%3A%2F%2Fwww.madisonseating.com%2F&amp;ve%5Btime_begin%5D=1307248972.35" width="0" height="0"></object>
 </noscript>
 <script type="text/javascript">
 //<![CDATA[
