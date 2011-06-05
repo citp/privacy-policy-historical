@@ -1,10 +1,11 @@
-<!--The following is the downloaded HTML source of the freelancer.co.nz privacy policy that was archived on 2010-12-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101203004115id_/http%3A//www.freelancer.co.nz/page.php%3Fp%3Dinfo/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the freelancer.co.nz privacy policy that was archived on 2011-06-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110605071950id_/http%3A//www.freelancer.co.nz/page.php%3Fp%3Dinfo/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 <title>
 Freelancer.co.nz | Online Jobs | Freelance Employment | Outsourcing Services | Programmers | Web Design | Freelancers 
 </title>
+
 
  <meta name="description" content="Freelancer.co.nz is the ultimate freelance jobs website. We have thousands of freelance jobs online for freelance programmers, web designers, graphic designers, writers and more. We have hundreds of thousands of professional freelancers ready to bid on your outsourced projects.">
  
@@ -37,20 +38,18 @@ Freelancer.co.nz | Online Jobs | Freelance Employment | Outsourcing Services | P
 <link rel="shortcut icon" href="http://www.freelancer.co.nz/favicon.ico">
 
 
-<link href="./gaf_style.css?28" rel="stylesheet" type="text/css">
+
+
+<link href="./css/gaf_style.css?77" rel="stylesheet" type="text/css">
 <!--[if lt IE 7]><link href="./css/pngfix.css?1" media="screen" rel="stylesheet" type="text/css" /><![endif]-->
-<script src="//cdn4.freelancer.co.nz/js/cufon-yui.js" type="text/javascript"></script>
-<script src="//cdn2.freelancer.co.nz/js/Avenir_LT_Std_750.font.js" type="text/javascript"></script>
+
+<script src="//cdn6.freelancer.co.nz/js/jquery-1.4.4.min.gaf.js?1" type="text/javascript"></script>
+<script src="//cdn4.freelancer.co.nz/js/searchbar.js?1" type="text/javascript"></script>
+<script src="//cdn3.freelancer.co.nz/js/functions.js?17" type="text/javascript"></script>
+<script src="//cdn6.freelancer.co.nz/js/scripts.js?4" type="text/javascript"></script>
+<script src="//cdn6.freelancer.co.nz/js/formTools/formTools.js" type="text/javascript"></script>
 <script type="text/javascript">
-Cufon.replace('h1');
-</script>
-<script src="//ajax.googleapis.com/ajax/libs/prototype/1.6.1.0/prototype.js" type="text/javascript"></script>
-<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
-<script src="//cdn5.freelancer.co.nz/js/searchbar.js" type="text/javascript"></script>
-<script src="//cdn3.freelancer.co.nz/js/functions.js?6" type="text/javascript"></script>
-<script src="//cdn2.freelancer.co.nz/js/showhide.js?2" type="text/javascript"></script>
-<script src="//cdn6.freelancer.co.nz/js/howto-panel.js?2" type="text/javascript"></script>
-<script type="text/javascript">
+JQ = jQuery.noConflict();
 function getUserIdfromCookie()
 {
         var cookie_base = "GETAFREE";
@@ -73,18 +72,15 @@ function getUserIdfromCookie()
 function updateStatus()
 {
         var updateOnlinePeriod = 120; //60 secs in all
-        var url = "./users/onUpdateOnlineStatus.php";
-        new Ajax.Updater('', url,
-                {
-                        method     : "post",
-                        onLoading  : function(){  },
-                        parameters : "cachetimeout="+updateOnlinePeriod
-                }
-        );
+		JQ.ajax({
+			type: 'POST',
+			data: {cachetimeout: updateOnlinePeriod},
+			url:   "./users/onUpdateOnlineStatus.php"
+		});
         setTimeout('updateStatus()',updateOnlinePeriod*1000);
 }
 
-JQ = jQuery.noConflict();
+
 JQ(document).ready(function () {
 	setTimeout('updateStatus()', 120*1000);
 });
@@ -119,6 +115,7 @@ JQ(document).ready(function () {
 </head>
 
 <body>
+
 <div id="c9d-container">
 
 
@@ -142,6 +139,11 @@ JQ(document).ready(function () {
 			jq(".lgn-wrp").hide();
 		});
 		//End Login Area
+		
+		var gotoURL = jq('input[name=goto]').val();
+		if (gotoURL) {
+			jq('#register-link').attr('href',jq('#register-link').attr('href')+'?goto='+gotoURL);
+		}
 	});
 	
 (function($) {
@@ -164,7 +166,7 @@ JQ(document).ready(function () {
 			<div class="rgt">
 				<div id="loginFl">
 					<div class="lgn-hd">
-						<div class="lgn-cnr-tl png"><a class="register-area" href="/users/signup.php">Register</a></div>
+						<div class="lgn-cnr-tl png"><a id="register-link" class="register-area" href="/users/signup.php">Register</a></div>
 						<div class="lgn-btn"></div>
 					</div>
 					<div class="lgn-wrp">
@@ -175,12 +177,41 @@ JQ(document).ready(function () {
 								<input class="lgn_input" maxlength="150" type="text" name="username" value="Username" onblur="javascript: if(this.value=='') { this.value='Username';}" onfocus="javascript: if(this.value=='Username') {this.value='';};">
 								<p></p>
 								<input class="lgn_input" maxlength="150" type="password" name="passwd" value="Password" onblur="javascript: if(this.value=='') { this.value='Password';}" onfocus="javascript: if(this.value=='Password') {this.value='';};">
-								<p></p>
-								<p></p>
+                                <table style="vertical-align:top">
+                                <tbody><tr>
+                                <td style="vertical-align:top">
 								<input class="lgn_btn_sbmt" type="submit" value="Login">
+                                </td>
+                                <td style="vertical-align:top">
 								<input id="loginpermanent" type="checkbox" name="savelogin" tabindex="3" style="">&nbsp;<label class="lgn-text" for="loginpermanent">Remember me</label>
-								<br><br>
-								<a href="/users/signup.php">Register Account?</a><span style="color: black;">&nbsp;&nbsp; | &nbsp;</span> <a href="/users/forgot.php" class="lgn-fgt">Forgot details?</a><br><br><br>
+								<div>
+								<a href="/users/signup.php">Register Account?</a><span style="color: black;">&nbsp; 
+								| &nbsp;</span> <a href="/users/forgot.php" class="lgn-fgt">Forgot details?</a>
+								</div>
+                                </td>
+                                </tr>
+                                <tr>
+                                <td colspan="2">
+								<div style="padding:5px 0px 0px 3px;text-align:left;">
+									<fb:login-button onlogin="facebook_verifyLoginStatus()" perms="offline_access,user_education_history,user_location,user_hometown,user_website,user_work_history,email" autologoutlink="true">Login with Facebook</fb:login-button>
+<div id="fb-root"></div>
+<script src="//connect.facebook.net/en_US/all.js"></script>
+<script>
+FB.init({
+	appId: '161165917275038',
+	status: true,
+	cookie: true,
+	channelUrl:"http://www.freelancer.co.nz/facebook/channel.html",
+	xfbml: true
+});
+</script>
+
+<script src="/js/facebook-login.js?6"></script>
+
+								</div>
+                                </td>
+                                </tr>
+                                </tbody></table>
 							</form>
 						</div>
 						<div class="lgn-btm">
@@ -194,7 +225,7 @@ JQ(document).ready(function () {
 		<script>
 var clicked = false; 
 JQ(document).ready(function() {
-	var obj = JQ(".head-logo").next(); 
+	var obj = JQ("#container-domain-logos");
 	/*
 	JQ(".head-logo").hover(
 		function() {
@@ -215,12 +246,12 @@ JQ(document).ready(function() {
 		} else {
 			clicked = true; 
 			JQ(".head-dropdown").css("background-position", "right"); 
-			obj.css('left', (parseFloat(JQ(".head-logo-linkarea").offset().left)+36.0).toString()+'px').css('top', parseFloat(JQ(".head-logo-linkarea").css('height')).toString()+'px'); 
+			obj.css('left', (parseFloat(JQ(".head-logo-linkarea").offset().left)+12).toString()+'px').css('top', parseFloat(JQ(".head-logo-linkarea").css('height')).toString()+'px');
 			obj.show(); 
 		}
 	});
 	JQ(window).resize(function() {
-		obj.css('left', (parseFloat(JQ(".head-logo-linkarea").offset().left)+36.0).toString()+'px').css('top', parseFloat(JQ(".head-logo-linkarea").css('height')).toString()+'px'); 
+		obj.css('left', (parseFloat(JQ(".head-logo-linkarea").offset().left)+12).toString()+'px').css('top', parseFloat(JQ(".head-logo-linkarea").css('height')).toString()+'px');
 	}); 
 	JQ(document).click(function(e) {
 		if(e.pageX < JQ(".head-dropdown").offset().left || e.pageX > JQ(".head-dropdown").offset().left + parseInt(JQ(".head-dropdown").css("width"))
@@ -235,69 +266,17 @@ JQ(document).ready(function() {
 </script>
 
 <span class="c9d-freelancer-logo head-logo"><a href="http://www.freelancer.co.nz/" class="head-logo-linkarea"></a><span class="head-dropdown png"></span>
-</span><a class="dropdown-freemarket" href="http://www.freelancer.co.nz/marketplace/"></a>
-
-<script src="//cdn5.freelancer.co.nz/js/domain-switcher.js?1">
-</script>
-<span class="c9d-domain-switcher">
-	<div id="domain-switcher-current">
-		<div class="flag">
-			<img src="//cdn2.freelancer.co.nz/images/domain_flags/nz.png">
-		</div>
-		<div id="domain-switcher-arrow">
-			<img src="//cdn4.freelancer.co.nz/images/domain-switcher-arrow.png">
-		</div>
-	</div>
-	<div id="domain-switcher-list">
-		
-		<div class="domain">
-			<div class="flag">
-				<a href="http://www.freelancer.com"><img alt="Go to global site" src="//cdn6.freelancer.co.nz/images/domain_flags/us.png"></a>
-			</div>
-			<div class="name">
-				<a href="http://www.freelancer.com">United States (International)</a>
-			</div>
-			<div style="clear: both"></div>
-		</div>
-		
-		<div class="domain">
-			<div class="flag">
-				<a href="http://www.freelancer.com.au"><img alt="Go to Australia site" src="//cdn2.freelancer.co.nz/images/domain_flags/au.png"></a>
-			</div>
-			<div class="name">
-				<a href="http://www.freelancer.com.au">Australia</a>
-			</div>
-			<div style="clear: both"></div>
-		</div>
-		
-		<div class="domain current">
-			<div class="flag">
-				<a href="http://www.freelancer.co.nz"><img alt="Go to New Zealand site" src="//cdn2.freelancer.co.nz/images/domain_flags/nz.png"></a>
-			</div>
-			<div class="name">
-				<a href="http://www.freelancer.co.nz">New Zealand</a>
-			</div>
-			<div style="clear: both"></div>
-		</div>
-		
-		<div class="domain">
-			<div class="flag">
-				<a href="http://www.freelancer.co.uk"><img alt="Go to UK site" src="//cdn3.freelancer.co.nz/images/domain_flags/uk.png"></a>
-			</div>
-			<div class="name">
-				<a href="http://www.freelancer.co.uk">United Kingdom</a>
-			</div>
-			<div style="clear: both"></div>
-		</div>
-		
-	</div>
 </span>
+<span id="container-domain-logos">
+<a class="dropdown-freemarket" href="http://www.freelancer.co.nz/marketplace/"></a><a class="dropdown-tycoontalk" href="http://tycoontalk.freelancer.com/"></a>
+</span>
+<span class="container-domain-switcher"></span>
 
     </div>
 </div>
 
-<!-- BEGIN BANNER New Zealand-->
-<div id="new-zealand">
+
+<!-- BEGIN BANNER -->
 <div id="c9d-banner2">
 		<div class="grid c9d-bn2">
 		<!--[if IE 6]>
@@ -307,15 +286,18 @@ JQ(document).ready(function() {
 		<![endif]-->
 
 		<h1 id="topheader">Terms of Service</h1>
-		<div class="rgt c9d-ad">
+		
+		<a href="https://www.freelancer.co.nz/buyers/create.php" class="ns_btn-big ns_right"><span>Post a Project »</span></a>
+		
+		<!-- ><div class="rgt c9d-ad">
 	
 			<a href="http://contest.freelancer.com/" class="c9d-blk2">
-				<img src="//cdn5.freelancer.co.nz/img/banners_rotate/362x96-1.jpg" width="362" height="96"></a>
+				<img src="//cdn5.freelancer.co.nz/img/banners_rotate/362x96-1.jpg" width="362" height="96" /></a>
 	
 	
+		</div> -->
 		</div>
-		</div>
-</div></div>
+</div>
 <!-- END BANNER -->
 
 <!-- BEGIN MENU1 -->
@@ -351,7 +333,7 @@ JQ(document).ready(function() {
 					#post_project_menu_button {width: 105px};
 				</style>
 				<![endif]-->
-				<li id="post_project_menu_button" style="" class="c9d-curpg"><a href="http://www.freelancer.co.nz/buyers/create.php">Post Project</a></li>
+				<li id="post_project_menu_button" style="" class="c9d-curpg"><a href="https://www.freelancer.co.nz/buyers/create.php">Post Project</a></li>
 				<li class="c9d-nl">&nbsp;|&nbsp;</li>
 
 				<li class="submenu"><a href="http://www.freelancer.co.nz/sellers/"><span></span>Browse Jobs</a>
@@ -360,6 +342,8 @@ JQ(document).ready(function() {
 						<li><a href="http://www.freelancer.co.nz/projects/all.php">Latest Projects</a></li>
 						<li><a href="http://www.freelancer.co.nz/projects/featured.php">Latest Featured</a></li>
 						<li><a href="http://www.freelancer.co.nz/projects/fulltime.php">Latest Fulltime</a></li>
+						<li><a href="http://www.freelancer.co.nz/projects/all.php?sort=bid_enddate:1&amp;biddingEnds=1">Ending Soon</a></li>
+						<li class="last"><a href="http://www.freelancer.co.nz/projects/myskills.php">My Skills</a></li>
 						</ul>
 				</div>
 				</li>
@@ -370,7 +354,7 @@ JQ(document).ready(function() {
 				<div class="inner-boundary">
 						<ul class="inner-border">
 						<li><a href="http://www.freelancer.co.nz/sellers/">Bid On Projects</a></li>
-						<!-- <li><a href="">Invite Friends</a></li> -->
+						<li><a href="http://www.freelancer.co.nz/friend-invitation/inviteFriends.php">Invite Friends</a></li>
 						<li><a href="http://www.freelancer.co.nz/affiliates/">Affiliate Program</a></li>
 						<!-- <li><a href="">Sell Items</a></li> -->
 						<li><a href="http://www.freelancer.co.nz/affiliate-api.html">Affiliate API</a></li>
@@ -480,14 +464,14 @@ Aggregate Information--Freelancer.com collects non-identifying, general, generic
 </div>
 
 <!-- BEGIN FOOTER -->
-
 <div id="c9d-footer">
                 <div class="grid">
                                 <div class="rgt c9d-lnk">
                                                 <div class="twi">
                                                                 <a href="http://www.freelancer.co.nz/info/about.php">About Us</a>
                                                                 <a href="http://www.freelancer.co.nz/affiliates/">Affiliates</a>
-                                                                <a href="http://www.freelancer.co.nz/affiliate-api.html">Affiliate API</a>
+                                                                <a href="http://www.freelancer.co.nz/info/advertise.php">Advertise with Us</a>
+                                                                <a href="http://contest.freelancer.com/">Contests</a>
                                                                 <a href="http://www.freelancer.co.nz/info/events.php">Upcoming Events</a>
                                                                 <a href="http://www.freelancer.co.nz/info/press.php">Press Releases</a>
                                                                 <a href="http://www.freelancer.co.nz/info/media.php">In The News</a>
@@ -495,62 +479,60 @@ Aggregate Information--Freelancer.com collects non-identifying, general, generic
                                                                 <a href="http://www.freelancer.co.nz/users/top_users.php">Top Users</a>
                                                                 <a href="http://www.freelancer.co.nz/info/careers.php">Careers</a>
                                                                 <a href="http://www.freelancer.co.nz/page.php?p=info/terms">Terms</a>
+                                                                <a href="http://www.freelancer.co.nz/dmca/">DMCA</a>
                                                                 <a href="http://www.freelancer.co.nz/page.php?p=info/privacy">Privacy Policy</a>
                                                 </div>
                                 </div>
                                 <div class="rgt c9d-lnk">
                                 <div class="twi">
-						
-						<a href="http://www.freelancer.co.nz">5429 users online now.</a>
-						
+						<a href="http://www.freelancer.co.nz"><span class="COUNT-ONLINE-USER"></span> users online now.</a>
 
 						<a href="http://www.twitter.com/freelancer">Corporate Twitter<img src="//cdn5.freelancer.co.nz/img/twitter-16x16.png" width="16" height="16"></a>
 						<a href="http://www.twitter.com/getafreelancer">Jobs on Twitter<img src="//cdn5.freelancer.co.nz/img/twitter-16x16.png" width="16" height="16"></a>
 						<a href="http://blog.freelancer.com">Read Our Blog<img src="//cdn2.freelancer.co.nz/img/blog-icon-box-orange-16.png" width="16" height="16"></a>
 						<a href="http://www.facebook.com/pages/Freelancer/353386506511">Facebook<img src="//cdn2.freelancer.co.nz/img/small_facebook_icon.png" width="16" height="16"></a>
+						<a href="http://www.youtube.com/freelancerchannel">Youtube<img src="//cdn4.freelancer.co.nz/img/youtube_16x16.png" width="16" height="16"></a>
                                                 <a href="http://www.freelancer.co.nz/rss.xml">Jobs via RSS<img src="//cdn6.freelancer.co.nz/images/rss.gif" width="14" height="14" alt="rss"></a>
                                                 <a href="http://www.google.com/coop/trust/add?user=017293852443800877047&amp;sig=__bsH1R9i0c-Ik5F7PHhcH5-Lat0w=">Add to your Google search results</a>
                                 </div>
                 </div>
                 <div class="c9d-about">
-                                <h4>WHAT IS FREELANCER.CO.NZ? <img src="//cdn3.freelancer.co.nz/images/fl_icon_brd_sml.png" style="vertical-align: middle;"></h4>
+                    <h4 style="text-transform: uppercase;">What is Freelancer.co.nz? <img src="//cdn3.freelancer.co.nz/images/fl_icon_brd_sml.png" style="vertical-align: middle;"></h4>
 
-                                <p> Kia ora! <a href="http://www.freelancer.co.nz"> Freelancer.co.nz </a> the largest outsourcing and crowdsourcing marketplace in the
-                                    world connects New Zealand small businesses to 1,950,769 professionals
-                                    globally.  We connect people from Wellington to Warsaw, Christchurch
-                                    to Colombo and Auckland to Argentina!
-                                </p>
-                                <p>Did you know you can outsource just about anything online?  Projects
-                                    start at $30 and the average project size is under $200!  We have
-                                    freelancers waiting right now who are ready to bid on your project,
-                                    whatever it may be.  Why not revamp your company logo for around $30,
-                                    then have another freelancer design you a website incorporating your
-                                    new logo for $250?  Growing your business has never been easier (or
-                                    cheaper!).  Our freelancers are also experts in SEO and will help your
-                                    website get to the top of search listings for as little as $700.  You
-                                    can even get freelancers finding new business and making calls on your
-                                    behalf.  In addition, our freelancers also have skills in iPad and
-                                    iPhone application programming, software design, engineering, data
-                                    entry, telemarketing, accounting and legal and that's just the start.
-                                </p>
-                                <p>You can also earn extra cash by promoting <a href="http://www.freelancer.co.nz"> Freelancer.co.nz </a> from your
-                                    existing website.  Our affiliate program allows users to add banners
-                                    on their website.  If users click through, we share the revenue!
-                                    There's nothing stopping you from getting started right now!
-                                </p>
-                                <p><a href="http://www.freelancer.co.nz"> Freelancer.co.nz </a> takes your safety and security very seriously.  A
-                                    secure milestone payment system means that you only pay for the work
-                                    that you are happy with and our online dispute system allows for the
-                                    quick resolving of any issues.  We are always looking out for the best
-                                    interests of our valued users.
-                                </p>
+                <p> Kia ora! <a href="http://www.freelancer.co.nz"> Freelancer.co.nz </a> the largest outsourcing and crowdsourcing marketplace in the
+                    world connects New Zealand small businesses to <span class="COUNT-REGISTERED-USER"></span> professionals
+                    globally.  We connect people from Wellington to Warsaw, Christchurch
+                    to Colombo and Auckland to Argentina!
+                </p>
+                <p>Did you know you can outsource just about anything online?  Projects
+                    start at $30 and the average project size is under $200!  We have
+                    freelancers waiting right now who are ready to bid on your project,
+                    whatever it may be.  Why not revamp your company logo for around $30,
+                    then have another freelancer design you a website incorporating your
+                    new logo for $250?  Growing your business has never been easier (or
+                    cheaper!).  Our freelancers are also experts in SEO and will help your
+                    website get to the top of search listings for as little as $700.  You
+                    can even get freelancers finding new business and making calls on your
+                    behalf.  In addition, our freelancers also have skills in iPad and
+                    iPhone application programming, software design, engineering, data
+                    entry, telemarketing, accounting and legal and that's just the start.
+                </p>
+                <p>You can also earn extra cash by promoting <a href="http://www.freelancer.co.nz"> Freelancer.co.nz </a> from your
+                    existing website.  Our affiliate program allows users to add banners
+                    on their website.  If users click through, we share the revenue!
+                    There's nothing stopping you from getting started right now!
+                </p>
+                <p><a href="http://www.freelancer.co.nz"> Freelancer.co.nz </a> takes your safety and security very seriously.  A
+                    secure milestone payment system means that you only pay for the work
+                    that you are happy with and our online dispute system allows for the
+                    quick resolving of any issues.  We are always looking out for the best
+                    interests of our valued users.
+                </p>
 
                                 <a href="http://www.freelancer.co.nz/info/about.php" class="c9d-bline">READ MORE ABOUT THE COMPANY</a>
                                 <div class="c9d-copy">
-                                                <em>(c) Copyright 2010 Freelancer Technology Pty Limited. All Rights Reserved.</em>
+                                                <em>(c) Copyright 2011 Freelancer Technology Pty Limited. All Rights Reserved.</em>
                                                 <em>Freelancer is a trademark of Freelancer Technology Pty Limited (ACN 142 189 759)</em>
- <a href="http://www.software.com/publisher/adobe/" title="Adobe Software">Adobe Software</a> 
- * <a href="http://www.bigwebmaster.com" target="_new">Webmaster Resources</a> *  <a href="http://www.ozzu.com" target="_new">Webmaster Forum</a>
 <br>
 <br>
 <br>
@@ -558,7 +540,6 @@ Aggregate Information--Freelancer.com collects non-identifying, general, generic
                 </div>
 </div>
 </div>
-
 <!-- END FOOTER-->
 
 <!-- Start Quantcast tag -->
@@ -569,7 +550,7 @@ qacct:"p-a2f84LLXCV-zs"
 </script>
 <script type="text/javascript" src="//secure.quantserve.com/quant.js"></script>
 <noscript>
-<img src="//secure.quantserve.com/pixel/p-a2f84LLXCV-zs.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+<img src="//secure.quantserve.com/pixel/p-a2f84LLXCV-zs.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast" />
 </noscript>
 <!-- End Quantcast tag -->
 
@@ -596,7 +577,6 @@ var google_conversion_value = 0;
 
 
 
-<script type="text/javascript"> Cufon.now(); </script>
 <script type="text/javascript">
 var _sf_async_config={uid:6163,domain:"freelancer.com"};
 (function(){
@@ -615,11 +595,22 @@ var _sf_async_config={uid:6163,domain:"freelancer.com"};
 	loadChartbeat : function() { oldonload(); loadChartbeat(); };
 })();
 </script>
-<!-- 0.0605 -->
+<script type="text/javascript">
+        <!--//--><![CDATA[//><!--
+                jQuery = jQuery.noConflict();
+                jQuery(document).ready(function(){
+                        accordion();
+                });
+        //--><!]]>
+</script>
+<!-- 0.0867 -->
 
 
 
 
+<script src="/js/rotation.js?3" type="text/javascript"></script>
+
+<script src="//cdn2.freelancer.co.nz/js/_ajax_general.js?1" type="text/javascript"></script>
 
 
 
