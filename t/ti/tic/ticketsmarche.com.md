@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ticketsmarche.com privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201161148id_/http%3A//www.ticketsmarche.com/showNews.html%3FidNews%3D132) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ticketsmarche.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605050438id_/http%3A//www.ticketsmarche.com/showNews.html%3FidNews%3D132) for the most accurate reproduction.*
 
 # Ticketsmarche.com - Tickets for Concerts, Sports, Art, Theater, Family, Cinema, Sight Seeing
 
