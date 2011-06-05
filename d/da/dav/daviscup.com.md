@@ -1,49 +1,43 @@
-> *The following text is extracted and transformed from the daviscup.com privacy policy that was archived on 2009-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090925021015id_/http%3A//www.daviscup.com/about/legal.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daviscup.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605030750id_/http%3A//www.daviscup.com/en/help/privacy-policy.aspx) for the most accurate reproduction.*
 
-# daviscup.com - Legal Information
+# Davis Cup - Help - Privacy Policy
 
-The following provides detail about our Privacy Policy. 
+**This Privacy Policy sets out how we use and protect any information that you give us when you use this website. ******
 
-We treat your privacy seriously.
+We are committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
- _Notice: This policy only applies to websites run by the ITF and not to the companies, individuals, organisations or other websites to which there are links._
+We may change this policy from time to time by updating this page. You can always find the latest version of our privacy policy here.
 
- **Consent**
+_This policy was last updated on 26 October 2010._
 
-Your use of this web site signifies your consent to us collecting and using personal information about you as specified below in accordance with this Policy. Should we choose to change our Policy for any reason, the changes will be posted here, so that you are always kept informed of how we collect and use your personal information, and when we may disclose it. 
+**By visiting this website, you are accepting and consenting to the practices described in this Privacy Policy**
 
-**How Do We Collect Information About You And How Is It Used?**
+#### Controllers of data
 
-You may provide personal information when communicating with us.
+This site ([www.daviscup.com](http://www.daviscup.com/)) is owned and operated by the International Tennis Federation. Our address is ITF Licensing (UK) Ltd, Bank Lane, Roehampton, London SW15 5XZ, United Kingdom. Our company registration number is 2584446.
 
-You may order a product or a service and give your name, email address, delivery address, credit or debit card number and expiry date so that the order can be processed and your products (or services where appropriate) delivered to you. Sometimes you may be asked for your telephone number.
+#### What information do we collect
 
-You may provide data in connection with tournaments and rankings which may be published on the net.
+We only collect information that allows us to see how well our website is performing. This means that we collect data on how visitors are using our website, which pages they visit, which files they view, and how often this happens.
 
-If you enter a competition or promotion we will ask for your name, address and Email address.
+At no stage is any personal information about you collected by us, nor is any information stored that could be used by us to individually identify you or your visit to this website.
 
-We will collect information about your tastes and preferences both when you tell us what these are and by analysis of customer traffic. 
+#### What do we do with any information that we collect
 
-It may be that some of the personal information you give us (for instance about your lifestyle or health) is sensitive personal data within the meaning of the Data Protection Act 1998. Any such information ("sensitive information") will only be disclosed with your express consent.
+We use the visit data to generate aggregated visitor and website usage statsitics to help us see how popular the different areas of our site are and how well they are performing
 
-It may be that you provide to us details of credit or debit cards or bank accounts in order to make payments to us.
+#### What about Cookies?
 
-We may use personal information collected about you to personalise your visits to our web site and recommend goods or services to you. We also use the information to help us develop the design and layout of our web site to ensure that our sites are as useful and enjoyable as possible.
+A cookie is a small amount of data, which often includes a unique identifier, that is sent to your computer or mobile phone internet browser from a website and is stored on your device's hard drive.
 
-We may use personal information collected about you to let you know about functionality changes to our web site or changes to our terms and conditions of use.
+Cookies record information about your preferences when visiting this website and allow us to tailor the presentation of information on daviscup.com to your preferences - such as whether you would like to see the site in English or Spanish.
 
-Sometimes (and only in accordance with preferences selected by you) we or our affiliated companies might use the personal information collected about you to let you know about, new goods, services or offers that you might find interesting. If you do not wish to receive such information please email us using our [feedback form](http://www.daviscup.com/feedback.asp?userid=7).
+By changing the privacy settings in your browser you are able to block cookies if you wish. However, if cookies are disabled for daviscup.com certain personalisation features of this website may not function and you may not be able to take full advantage of all of the website's features.
 
- **Traffic Data**
+#### Sharing any information about you or your visit
 
-We may provide aggregate statistics about our sales, customers, traffic patterns and other site information to third parties, but these statistics will not include any information that could personally identify you.
+We may share aggregated statistics about the performance of this website as a whole (website analytics) with our partners or other third parties, but this will not include any information that could uniquely identify you or your visit to this website.
 
- **Other Disclosures**
+#### Links to other websites
 
-We reserve the right to access and disclose individually identifiable information to comply with applicable laws and lawful government requests, to operate its systems properly or to protect itself or its users.
-
- **How Do We Protect Your Information?**
-
-We have strict security procedures covering the storage and disclosure of your information in order to prevent unauthorised access and to comply with the Data Protection Act 1998. This means that sometimes we may ask you for proof of identity before disclosing any personal information to you.
-
-^ [Back to top ](http://www.daviscup.com/about/legal.asp#top)
+Our site includes links to other websites. We do not provide any personally identifiable information to these third-party websites, and we are not responsible for the content on these sites.
