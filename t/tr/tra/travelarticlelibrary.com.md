@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the travelarticlelibrary.com privacy policy that was archived on 2010-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100208144646id_/http%3A//www.travelarticlelibrary.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelarticlelibrary.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606005721id_/http%3A//www.travelarticlelibrary.com/privacy.php) for the most accurate reproduction.*
 
-# FREE TRAVEL ARTICLES... HOLIDAYS, VACATIONS, AIR, CRUISES, DESTINATIONS, TOURS, RESORTS, ADVENTURES,
+# FREE TRAVEL ARTICLES... HOLIDAYS, VACATIONS, AIRLINES, CRUISES, DESTINATIONS, TOURS, RESORTS, ADVENTURES,
 
 ## Our Address & Contact Information
 
