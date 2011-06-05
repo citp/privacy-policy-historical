@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the technocarehub.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124010824id_/http%3A//technocarehub.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the technocarehub.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605155254id_/http%3A//technocarehub.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy » TechnoCareHub
+# Privacy Policy | TechnoCareHub
+
+[no comments](http://technocarehub.com/privacy-policy/#commentlist)
 
 TechnoCareHub has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site.  
 Third Party Advertising:  
@@ -18,6 +20,4 @@ To prevent unauthorized access, maintain data accuracy, and ensure the correct u
 Our Commitment To Children’s Privacy:  
 Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.  
 Contacting the Web Site:  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us](http://technocarehub.com/contact-us "contact us").
-
-[](http://www.addthis.com/bookmark.php?v=250&username=bellajones086)
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us](http://technocarehub.com/contact-us/ "contact us").
