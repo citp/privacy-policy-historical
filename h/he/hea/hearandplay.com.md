@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hearandplay.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124233534id_/http%3A//www.hearandplay.com/main/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hearandplay.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605085802id_/http%3A//www.hearandplay.com/main/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Hear and Play Music Learning Center
 
