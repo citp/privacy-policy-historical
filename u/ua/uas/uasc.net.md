@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uasc.net privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206003143id_/http%3A//www.uasc.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uasc.net privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605195551id_/http%3A//www.uasc.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | UNITED ARAB SHIPPING COMPANY (S.A.G.)
 
