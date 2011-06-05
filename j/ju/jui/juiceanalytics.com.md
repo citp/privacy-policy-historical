@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the juiceanalytics.com privacy policy that was archived on 2010-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101101182002id_/http%3A//www.juiceanalytics.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the juiceanalytics.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605160553id_/http%3A//www.juiceanalytics.com/privacy) for the most accurate reproduction.*
 
-# Juice Inc Privacy Policy
+# Juice Inc. Privacy Policy – Juice Analytics
 
-Juice Inc. operates several websites including juiceanalytics.com and concentrateme.com. It is Juice Inc.’s policy to respect your privacy regarding any information we may collect while operating our websites.
+_Juice Inc. operates several websites including juiceanalytics.com and concentrateme.com. It is Juice Inc.’s policy to respect your privacy regarding any information we may collect while operating our websites._
 
 ### Website Visitors
 
@@ -32,7 +32,7 @@ Certain of Juice Inc.’s sites may allow visitors to upload data to Juice Inc.�
 
 Users may give specific permission to allow Juice Inc. to use uploaded data internally to improve the quality of our services. If the user opts in to Juice data usage, we restrict access to this data to Juice employees, contractors and agents who need to know that information in order to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.
 
-Any uploaded data deleted from the concentrateme.com application will be permanently removed from Juice Inc. systems after 3 weeks, including backup copies. 
+Any uploaded data deleted from the concentrateme.com application will be permanently removed from Juice Inc. systems after 3 weeks, including backup copies.
 
 ### Data Security
 
@@ -44,4 +44,4 @@ Juice Inc. restricts access to personal information to Juice Inc. employees, con
 
 Although most changes are likely to be minor, Juice Inc. may change its Privacy Policy from time to time, and at Juice Inc.’s sole discretion. Juice Inc. encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
 
-_Thanks to the kind people of[WordPress.com](http://wordpress.com/) for making portions of this document available under the Creative Commons Sharealike license._
+Thanks to the kind people of [WordPress.com](http://www.wordpress.com/) for making portions of this document available under the Creative Commons Sharealike license.
