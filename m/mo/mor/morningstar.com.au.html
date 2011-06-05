@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the morningstar.com.au privacy policy that was archived on 2010-05-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100528065431id_/http%3A//www.morningstar.com.au/About/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the morningstar.com.au privacy policy that was archived on 2011-06-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110605031121id_/http%3A//www.morningstar.com.au/About/Privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     <meta http-equiv="X-UA-Compatible" content="IE=7">
@@ -14,9 +14,12 @@
         }
     </script>
 
-    <title>
-        Privacy - Morningstar.com.au</title>
-    <meta name="description" content="Privacy">
+    <title>Privacy - Morningstar.com.au</title>
+    <link rel="SHORTCUT ICON" href="/Content/images/favicon.ico">
+    
+    <!-- meta name="description" content="Privacy" /-->
+    <meta name="description" content="Morningstar provides investment research for stocks, funds, ETF's, hybrids, and LIC's as well as financial data, news, and investing articles and videos.">
+    
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     
     <link rel="stylesheet" type="text/css" href="/Content/css/master.css">
@@ -32,14 +35,25 @@
         }
     </style>
 
+    <link rel="stylesheet" type="text/css" href="/Content/css/jtip.css">
+    <!-- tooltip -->
+  <script type="text/javascript" src="/Content/scripts/jquery-1.3.2.min.js"></script>
+  <script type="text/javascript" src="/Content/scripts/jquery.qtip-1.0.0-rc3.min.js"></script> 
+  <script type="text/javascript" src="/Content/scripts/jtip.js"></script>
+  <!-- tooltip ends-->
     <script type="text/javascript" src="/Content/scripts/javascript.js"></script>
 
     <script type="text/javascript" src="/Content/scripts/amcharts/amline/swfobject.js"></script>
 
     <script type="text/javascript" src="/Content/scripts/jQuery/jquery.js"></script>
-
     <script type="text/javascript" src="http://ads.morningstar.com.au/www/delivery/spcjs.php"></script>
+  <!-- Delete before commit 
+    <script type="text/javascript" src="/Content/scripts/g.raphael-min.js"></script>
+    <script type="text/javascript" src="/Content/scripts/g.raphael.js"></script>
+    <script type="text/javascript" src="/Content/scripts/g.bar.js"></script> -->
 
+    <script type="text/javascript" src="/Content/scripts/highcharts/js/highcharts.js"></script>
+      
     <!-- dth TODO: this should be removed from Site.Master -->
 
     <script type="text/javascript">
@@ -79,6 +93,11 @@
             so.write(div);
         }
 
+
+        // charts (EarningSurprise, ForecastEarningTrends, CurrentAnalystRecommendation)
+        function renderCharts(options) {
+            var chart = new Highcharts.Chart(options);
+        }
     </script>
 
     <link rel="stylesheet" href="/Content/scripts/sifr/sIFR-screen.css" type="text/css" media="screen">
@@ -114,6 +133,7 @@
 </head>
 <body onload="setFocus()">
     <div id="wrapper">
+        
         <div id="header">
             <div id="logo">
                 <a href="/">
@@ -138,13 +158,12 @@
                 
                 <a href="/Security/Login" class="company">Log In</a>
                 
-                <a href="/About/Premium" class="company">Premium</a> <a href="http://corporate.morningstar.com.au/" class="company">Company Site</a> <a href="http://corporate.morningstar.com/US/asp/subject.aspx?filter=refresh&amp;xmlfile=126.xml" class="company">Company News</a>
+                <a href="/About/Premium" class="company">Premium</a> <a href="http://corporate.morningstar.com/au" class="company">Company Site</a> <a href="http://corporate.morningstar.com/US/asp/subject.aspx?filter=refresh&amp;xmlfile=126.xml" class="company">Company News</a>
             </div>
             
             <div id="greeter">
                 
-                <span class="welcome">Welcome, please <u><a href="/Security/Login">
-                    log in</a></u></span>
+                <span class="welcome">Welcome, please <u><a href="/Security/Login">log in</a></u></span>
                 
             </div>
             
@@ -217,17 +236,26 @@
         
                     <a href="/Stocks" class="tab_n">Stocks</a>                    
         
-                    <a href="/Hybrids" class="tab_n">Hybrids&nbsp;&nbsp;<span style="font-size:11; color:red"><b>New</b></span></a>                    
+                    <a href="/SpecialReports" class="tab_n">Special Reports</a>                    
+        
+                    <a href="/Hybrids" class="tab_n">Hybrids</a>                    
+        
+
+                    <a href="/TechnicalAnalysis" class="tab_n">&nbsp;Tech Analysis&nbsp;</a>
+
         
                     <a href="/Funds" class="tab_n">Funds</a>                    
         
+                    <a href="/ETFs" class="tab_n">ETFs</a>                    
+        
                     <a href="/Tools" class="tab_n">Tools</a>                    
         
-                    <a href="/SMSF" class="tab_n">SMSFs&nbsp;&nbsp;<span style="font-size:11; color:red"><b>New</b></span></a>            
+                    <a href="/SMSF" class="tab_n">SMSFs</a>                    
         
-                    <a href="/Learn" class="tab_n">Learn&nbsp;&nbsp;<span style="font-size:11; color:red"><b>New</b></span></a>                    
+                    <a href="/Learn" class="tab_n">Learn</a>                    
         
 </div>        
+
         
         <div id="AutoCompleteMessage" class="AutoCompleteMessage" style="display: none">
             <table border="1px">
@@ -391,7 +419,7 @@
         </script>
 
         <!-- /New header stuff -->
-        
+         <!-- closing tag for print me condition for header area. -->
         <div id="maincontent">
             
 
@@ -418,83 +446,112 @@
         <span onclick="ShowStocks()" class="leftStockNavArrowRight" id="StocksSect"><a href="/Stocks">Stocks</a></span>
         <div id="Stocks" class="hide">
         
-                <a class="leftStockNavselect" href="/Stocks/ASXReport">ASX Market Report</a>                  
-              
-                <a class="leftStockNavselect" href="/Stocks/OSReport">Overseas Market Report</a>                  
-              
-                <a class="leftStockNavselect" href="/Stocks/Huntleys">Introducing YMW</a>                  
-              
-                <a class="leftStockNavPrem" href="/Stocks/YMW">YMW Issue 19</a>                  
-              
-                <a class="leftStockNavPrem" href="/Stocks/YMW/Archive">Newsletter Archive</a>                  
-              
-                <a class="leftStockNavPrem" href="/Stocks/ResearchArchive">Research Archive</a>                  
-              
-                <a class="leftStockNavPrem" href="/Stocks/Changes">Recommendation Changes</a>                  
-              
-                <a class="leftStockNavPrem" href="/Tools/StockScreenerPreset">Analyst Searches</a>                  
-              
-                <a class="leftStockNavPrem" href="/Stocks/SpecialReports">Special Reports</a>                  
-              
-                <a class="leftStockNavselect" href="/Stocks/CorpCalendar">Corporate Calendar</a>                  
-              
-                <a class="leftStockNavselect" href="/Stocks/UpcomingDividends">Upcoming Dividends</a>                  
-              
-                <a class="leftStockNavselect" href="/Stocks/UpcomingFloats">Upcoming Floats</a>                  
-              
-                <a class="leftStockNavselect" href="/Tools/StockScreener">Stock Screener</a>                  
-              
-                <a class="leftStockNavselect" href="/Stocks/StockOfTheWeek">Featured Stock</a>                  
-              
-                <a class="leftStockNavselect" href="/Stocks/SignalGDigest">Company News Digest</a>                  
-              
-                <a class="leftStockNavselect" href="/Stocks/Methodology">Our Research Methodology</a>                  
-              
+                    <a class="leftNavItemFreeRegistered" href="/Stocks/ASXReport">ASX Market Report</a>                  
+        
+                    <a class="leftNavItemFreeRegistered" href="/Stocks/OSReport">Overseas Market Report</a>                  
+        
+                    <a class="leftNavItemFree" href="/Stocks/Huntleys">Introducing YMW</a>                  
+        
+                    <a class="leftNavItemPremium" href="/Stocks/YMW">YMW Issue 20</a>                  
+        
+                    <a class="leftNavItemFreeRegisteredVisible" href="/Stocks/YMW/Archive">Newsletter Archive</a>                  
+        
+                    <a class="leftNavItemFreeRegisteredVisible" href="/Stocks/ResearchArchive">Research Archive</a>                  
+        
+                    <a class="leftNavItemPremium" href="/Stocks/Changes">Recommendation Changes</a>                  
+        
+                    <a class="leftNavItemPremium" href="/Tools/StockScreenerPreset">Analyst Searches</a>                  
+        
+                    <a class="leftNavItemFree" href="/Stocks/CorpCalendar">Corporate Calendar</a>                  
+        
+                    <a class="leftNavItemFreeRegistered" href="/Stocks/UpcomingDividends">Upcoming Dividends</a>                  
+        
+                    <a class="leftNavItemFreeRegistered" href="/Stocks/UpcomingFloats">Upcoming Floats</a>                  
+        
+                    <a class="leftNavItemFreeRegistered" href="/Tools/StockScreener">Stock Screener</a>                  
+        
+                    <a class="leftNavItemFreeRegistered" href="/Stocks/StockOfTheWeek">Featured Stock</a>                  
+        
+                    <a class="leftNavItemFree" href="/Stocks/SignalGDigest">ASX300 News Digest</a>                  
+        
+                    <a class="leftNavItemFree" href="/Stocks/Methodology">Our Research Methodology</a>                  
+        
+        </div>
+
+        <span onclick="ShowSpecial Reports()" class="leftStockNavArrowRight" id="Special ReportsSect"><a href="/SpecialReports">Special Reports</a></span>
+        <div id="Special Reports" class="hide">
+        
+                    <a class="leftNavItemFree" href="/Archive/Articles/SpecialReportArticles">Articles Archive</a>                  
+        
         </div>
 
         <span onclick="ShowHybrids()" class="leftStockNavArrowRight" id="HybridsSect"><a href="/Hybrids">Hybrids</a></span>
         <div id="Hybrids" class="hide">
+        
+                    <a class="leftNavItemFreeRegistered" href="/Hybrids/Archive">Articles Archive</a>                  
+        
+                    <a class="leftNavItemFreeRegistered" href="/Hybrids/HybridsLatestPrices">Latest Prices</a>                  
+        
+        </div>
+
+        <span onclick="ShowTechnical Analysis()" class="leftStockNavArrowRight" id="Technical AnalysisSect"><a href="/TechnicalAnalysis">Technical Analysis</a></span>
+        <div id="Technical Analysis" class="hide">
+        
+                    <a class="leftNavItemFree" href="/Archive/Articles/TechnicalAnalysisArticles">Articles Archive</a>                  
         
         </div>
 
         <span onclick="ShowFunds()" class="leftStockNavArrowRight" id="FundsSect"><a href="/Funds">Funds</a></span>
         <div id="Funds" class="hide">
         
-                <a class="leftStockNavPrem" href="/Funds/ResearchArchive">Research Reports</a>                  
-              
-                <a class="leftStockNavselect" href="/Funds/ResearchReportsAll">All Analyst Reports</a>                  
-              
-                <a class="leftStockNavselect" href="/Funds/MorningstarRatings">Ratings Limitations</a>                  
-              
-                <a class="leftStockNavPrem" href="/article/funds/fund-times/2062">Fund Times</a>                  
-              
-                <a class="leftStockNavPrem" href="/Funds/TimesArchive">Fund Archive</a>                  
-              
-                <a class="leftStockNavselect" href="/Tools/FundScreener">Fund Screener</a>                  
-              
-                <a class="leftStockNavselect" href="/article/funds/why-fund-categories-matter/42">About our Categories</a>                  
-              
-                <a class="leftStockNavselect" href="/Funds/FundsFaq">Funds FAQ</a>                  
-              
+                    <a class="leftNavItemPremium" href="/Funds/ResearchArchive">Research Reports</a>                  
+        
+                    <a class="leftNavItemFreeRegistered" href="/Funds/ResearchReportsAll">All Analyst Reports</a>                  
+        
+                    <a class="leftNavItemFreeRegistered" href="/Funds/MorningstarRatings">Ratings Limitations</a>                  
+        
+                    <a class="leftNavItemPremium" href="/funds/article/fund-times/3276">Fund Times</a>                  
+        
+                    <a class="leftNavItemPremium" href="/Funds/TimesArchive">Fund Archive</a>                  
+        
+                    <a class="leftNavItemFreeRegistered" href="/Tools/FundScreener">Fund Screener</a>                  
+        
+                    <a class="leftNavItemFreeRegistered" href="/funds/article/why-fund-categories-matter/42">About our Categories</a>                  
+        
+                    <a class="leftNavItemFreeRegistered" href="/Funds/FundsFaq">Funds FAQ</a>                  
+        
+        </div>
+
+        <span onclick="ShowETFs()" class="leftStockNavArrowRight" id="ETFsSect"><a href="/ETFs">ETFs</a></span>
+        <div id="ETFs" class="hide">
+        
+                    <a class="leftNavItemPremium" href="/ETFs/ResearchReportArchive">Research Archive</a>                  
+        
+                    <a class="leftNavItemFree" href="/ETFs/Methodology">Research Methodology</a>                  
+        
+                    <a class="leftNavItemFree" href="/ETFs/ETFsLatestPrices">Latest Prices</a>                  
+        
+                    <a class="leftNavItemFree" href="/ETFs/PerformanceTable">Performance Table</a>                  
+        
         </div>
 
         <span onclick="ShowTools()" class="leftStockNavArrowRight" id="ToolsSect"><a href="/Tools">Tools</a></span>
         <div id="Tools" class="hide">
         
-                <a class="leftStockNavselect" href="/Portfolio">Portfolio</a>                  
-              
-                <a class="leftStockNavselect" href="http://www.morningstar.com.au/NewPort/images/Mstar/NewDataDefs/FAQ.html" target="_blank">Portfolio Help</a>                  
-              
-                <a class="leftStockNavselect" href="/Tools/StockScreener">Stock Screener</a>                  
-              
-                <a class="leftStockNavselect" href="/Tools/Alerts">Alerting Tool</a>                  
-              
-                <a class="leftStockNavPrem" href="/Tools/StockScreenerPreset">Analyst stock searches</a>                  
-              
-                <a class="leftStockNavselect" href="/Tools/FundScreener">Fund Screener</a>                  
-              
-                <a class="leftStockNavselect" href="/Tools/UsingFundScreener">Using the Fund Screener</a>                  
-              
+                    <a class="leftNavItemFreeRegistered" href="/Portfolio">Portfolio</a>                  
+        
+                    <a class="leftNavItemFreeRegistered" href="http://www.morningstar.com.au/NewPort/images/Mstar/NewDataDefs/FAQ.html">Portfolio Help</a>                  
+        
+                    <a class="leftNavItemFreeRegistered" href="/Tools/StockScreener">Stock Screener</a>                  
+        
+                    <a class="leftNavItemFreeRegistered" href="/Tools/Alerts">Alerting Tool</a>                  
+        
+                    <a class="leftNavItemPremium" href="/Tools/StockScreenerPreset">Analyst stock searches</a>                  
+        
+                    <a class="leftNavItemFreeRegistered" href="/Tools/FundScreener">Fund Screener</a>                  
+        
+                    <a class="leftNavItemFreeRegistered" href="/Tools/UsingFundScreener">Using the Fund Screener</a>                  
+        
         </div>
 
         <span onclick="ShowSMSFs()" class="leftStockNavArrowRight" id="SMSFsSect"><a href="/SMSF">SMSFs</a></span>
@@ -507,25 +564,75 @@
         
         </div>
 
+        <span onclick="ShowVideo Archive()" class="leftStockNavArrowRight" id="Video ArchiveSect"><a href="/Archive/Videos">Video Archive</a></span>
+        <div id="Video Archive" class="hide">
+        
+                    <a class="leftNavItemFree" href="/Archive/Videos/GeneralVideos">General</a>                  
+        
+                    <a class="leftNavItemFree" href="/Archive/Videos/StocksVideos">Stocks</a>                  
+        
+                    <a class="leftNavItemFree" href="/Archive/Videos/HybridsVideos">Hybrids</a>                  
+        
+                    <a class="leftNavItemFree" href="/Archive/Videos/TechnicalAnalysisVideos">Technical Analysis</a>                  
+        
+                    <a class="leftNavItemFree" href="/Archive/Videos/FundsVideos">Funds</a>                  
+        
+                    <a class="leftNavItemFree" href="/Archive/Videos/ETFVideos">ETFs</a>                  
+        
+                    <a class="leftNavItemFree" href="/Archive/Videos/SMSFVideos">SMSFs</a>                  
+        
+                    <a class="leftNavItemFree" href="/Archive/Videos/LearnVideos">Learn</a>                  
+        
+        </div>
+
+        <span onclick="ShowArticle Archive()" class="leftStockNavArrowRight" id="Article ArchiveSect"><a href="/Archive/Articles">Article Archive</a></span>
+        <div id="Article Archive" class="hide">
+        
+                    <a class="leftNavItemFree" href="/Archive/Articles/NewsArticles">News</a>                  
+        
+                    <a class="leftNavItemFree" href="/Archive/Articles/StocksArticles">Stocks</a>                  
+        
+                    <a class="leftNavItemFree" href="/Archive/Articles/SpecialReportArticles">Special Reports</a>                  
+        
+                    <a class="leftNavItemFree" href="/Archive/Articles/FundsArticles">Funds</a>                  
+        
+                    <a class="leftNavItemFree" href="/Archive/Articles/ETFArticles">ETFs</a>                  
+        
+                    <a class="leftNavItemFree" href="/Archive/Articles/FeaturesArticles">Features</a>                  
+        
+                    <a class="leftNavItemFree" href="/Archive/Articles/HybridsArticles">Hybrids</a>                  
+        
+                    <a class="leftNavItemFree" href="/Archive/Articles/TechnicalAnalysisArticles">Technical Analysis</a>                  
+        
+                    <a class="leftNavItemFree" href="/Archive/Articles/Smsfs">SMSFs</a>                  
+        
+                    <a class="leftNavItemFree" href="/Archive/Articles/Learn">Learn</a>                  
+        
+                    <a class="leftNavItemFree" href="/Archive/Articles/FundTimesArticles">Fund Times</a>                  
+        
+                    <a class="leftNavItemFree" href="/Archive/Articles/AskTheAnalystArticles">Ask the Analyst</a>                  
+        
+                    <a class="leftNavItemFree" href="/Archive/Articles/ChinaWrapArticles">China Wrap</a>                  
+        
+        </div>
+
         <span onclick="ShowAbout()" class="leftStockNavArrow" id="AboutSect"><a href="/About">About</a></span>
         <div id="About" class="show">
         
-                <a class="leftStockNavselect" href="/About/Advertise">Advertise</a>                  
-              
-                <a class="leftStockNavselect" href="http://corporate.morningstar.com/US/asp/subject.aspx?filter=refresh&amp;xmlfile=126.xml" target="_blank">Company News</a>                  
-              
-                <a class="leftStockNavselect" href="http://corporate.morningstar.com/" target="_blank">Company Site</a>                  
-              
-                <a class="leftStockNavselect" href="/s/pdf/newsletters/Huntleys_Glossary_Of_Terms.pdf">Glossary</a>                  
-              
-                <a class="leftStockNavselect" href="/About/Help">Help</a>                  
-              
-                
-                <a style="color: White;" class="leftStockNavselect highlight" href="/About/Privacy">Privacy Policy</a>
-                
-                
-                <a class="leftStockNavselect" href="/About/Terms">Terms and Conditions</a>                  
-              
+                    <a class="leftNavItemFree" href="/About/Advertise">Advertise</a>                  
+        
+                    <a class="leftNavItemFree" href="http://corporate.morningstar.com/US/asp/subject.aspx?filter=refresh&amp;xmlfile=126.xml" target="_blank">Company News</a>                  
+        
+                    <a class="leftNavItemFree" href="http://corporate.morningstar.com/" target="_blank">Company Site</a>                  
+        
+                    <a class="leftNavItemFree" href="/s/pdf/newsletters/Huntleys_Glossary_Of_Terms.pdf">Glossary</a>                  
+        
+                    <a class="leftNavItemFree" href="/About/Help">Help</a>                  
+        
+                        <a style="color: White;" class="leftNavItemFree highlight" href="/About/Privacy">Privacy Policy</a>
+        
+                    <a class="leftNavItemFree" href="/About/Terms">Terms and Conditions</a>                  
+        
         </div>
 
 
@@ -537,55 +644,6 @@ imgArrowOn.src = "/Content/images/cover_navarrow.gif";
 
 var imgArrowOff = new Image();
 imgArrowOff.src = "/Content/images/arrow_right.gif";
-
-function ShowStocks()
-{
-    document.getElementById("Stocks").className = "show";
-    document.getElementById("Funds").className = "hide";
-    document.getElementById("Tools").className = "hide";
-    document.getElementById("About").className = "hide";
-    document.getElementById("StocksSect").className = "leftStockNavArrow";
-    document.getElementById("FundsSect").className = "leftStockNavArrowRight";
-    document.getElementById("ToolsSect").className = "leftStockNavArrowRight";
-    document.getElementById("AboutSect").className = "leftStockNavArrowRight";
-}
-
-function ShowFunds()
-{
-    document.getElementById("Stocks").className = "hide";
-    document.getElementById("Funds").className = "show";
-    document.getElementById("Tools").className = "hide";
-    document.getElementById("About").className = "hide";
-    document.getElementById("StocksSect").className = "leftStockNavArrowRight";
-    document.getElementById("FundsSect").className = "leftStockNavArrow";
-    document.getElementById("ToolsSect").className = "leftStockNavArrowRight";
-    document.getElementById("AboutSect").className = "leftStockNavArrowRight";
-}
-
-function ShowTools()
-{
-    document.getElementById("Stocks").className = "hide";
-    document.getElementById("Funds").className = "hide";
-    document.getElementById("Tools").className = "show";
-    document.getElementById("About").className = "hide";
-    document.getElementById("StocksSect").className = "leftStockNavArrowRight";
-    document.getElementById("FundsSect").className = "leftStockNavArrowRight";
-    document.getElementById("ToolsSect").className = "leftStockNavArrow";
-    document.getElementById("AboutSect").className = "leftStockNavArrowRight";
-}
-
-function ShowAbout()
-{
-    document.getElementById("Stocks").className = "hide";
-    document.getElementById("Funds").className = "hide";
-    document.getElementById("Tools").className = "hide";
-    document.getElementById("About").className = "show";
-    document.getElementById("StocksSect").className = "leftStockNavArrowRight";
-    document.getElementById("FundsSect").className = "leftStockNavArrowRight";
-    document.getElementById("ToolsSect").className = "leftStockNavArrowRight";
-    document.getElementById("AboutSect").className = "leftStockNavArrow";
-}
-
 
 
 </script>
@@ -647,36 +705,47 @@ function ShowAbout()
     </div>
 
         </div>
+        
         <!-- New Footer -->
         <div class="footerwrap">
             <div class="footer_Links" style="border-top: 1px solid #A7AAAF;">
                 <div class="footer_Links_row1">
-                    <a href="/About/PremiumMembership" class="footer_text3">Premium
-                        Pricing</a> <a href="/About/Help" class="footer_text3">Help</a>
-                    <a href="/About/Advertise" class="footer_text3">Advertising
-                        Opportunities</a> <a href="http://www.morningstaradviser.com.au/productpages/essentials.asp" class="footer_text3">Licensing Opportunities</a> <a href="http://www.morningstar.com.au/s/documents/Glossary_morningstar.pdf" target="_blank" class="f_text3">Glossary</a>&nbsp;&nbsp;&nbsp;&nbsp;
-                    <a href="/About/fsg" class="footer_text3">FSG</a> <a href="/About/Contact" class="footer_text3">Contact Us</a>
+                    <a href="/About/PremiumMembership" class="footer_text3">Premium Pricing</a> 
+                    <a href="/About/Help" class="footer_text3">Help</a>
+                    <a href="/About/Advertise" class="footer_text3">Advertising Opportunities</a> 
+                    <a href="http://www.morningstaradviser.com.au/productpages/essentials.asp" class="footer_text3">Licensing Opportunities</a> 
+                    <a href="http://www.morningstar.com.au/s/documents/Glossary_morningstar.pdf" target="_blank" class="f_text3">Glossary</a>&nbsp;&nbsp;&nbsp;&nbsp;
+                    <a href="/About/fsg" class="footer_text3">FSG</a> 
+                    <a href="/About/Contact" class="footer_text3">Contact Us</a>
+                    <a href="http://corporate.morningstar.com/au/asp/subject.aspx?xmlfile=5718.xml" target="_blank" class="footer_text3">Careers</a>
                     <!-- <a href="http://news.morningstar.com/rss/rss.html" class="footer_text3">RSS</a> -->
                 </div>
             </div>
             <div class="footer_Sites">
                 <div class="footer_Sites_row1">
-                    International Sites: <a href="http://www.morningstar.com" target="_blank" class="footer_text4">
-                        United States</a> <a href="http://www.morningstar.ca/" target="_blank" class="footer_text4">
-                            Canada</a> <a href="http://www.cn.morningstar.com/main/default.aspx" target="_blank" class="footer_text4">China</a> <a href="http://www.morningstar.fr/" target="_blank" class="footer_text4">France</a> <a href="http://www.morningstarfonds.de/de/default.aspx?lang=de-DE" target="_blank" class="footer_text4">Germany</a> <a href="http://www.hk.morningstar.com/" target="_blank" class="footer_text4">Hong Kong</a> <a href="http://www.morningstar.it/it/default.aspx?lang=it-IT" target="_blank" class="footer_text4">Italy</a> <a href="http://www.morningstar.nl/nl/default.aspx?lang=nl-NL" target="_blank" class="footer_text4">The Netherlands</a>
+                    International Sites: 
+                    <a href="http://www.morningstar.com" target="_blank" class="footer_text4">United States</a> 
+                    <a href="http://www.morningstar.ca/" target="_blank" class="footer_text4">Canada</a> 
+                    <a href="http://www.cn.morningstar.com/main/default.aspx" target="_blank" class="footer_text4">China</a> 
+                    <a href="http://www.morningstar.fr/" target="_blank" class="footer_text4">France</a> 
+                    <a href="http://www.morningstarfonds.de/de/default.aspx?lang=de-DE" target="_blank" class="footer_text4">Germany</a> 
+                    <a href="http://www.hk.morningstar.com/" target="_blank" class="footer_text4">Hong Kong</a> 
+                    <a href="http://www.morningstar.it/it/default.aspx?lang=it-IT" target="_blank" class="footer_text4">Italy</a> 
+                    <a href="http://www.morningstar.nl/nl/default.aspx?lang=nl-NL" target="_blank" class="footer_text4">The Netherlands</a>
                     <a href="http://www.morningstar.no/" target="_blank" class="footer_text4">Norway</a>
-                    <a href="http://www.morningstar.es/es/default.aspx?lang=es-ES" target="_blank" class="footer_text4">
-                        Spain</a> <a href="http://www.morningstar.co.uk/uk/default.aspx" target="_blank" class="footer_text4">U.K.</a>
+                    <a href="http://www.morningstar.es/es/default.aspx?lang=es-ES" target="_blank" class="footer_text4">Spain</a> 
+                    <a href="http://www.morningstar.co.uk/uk/default.aspx" target="_blank" class="footer_text4">U.K.</a>
                 </div>
             </div>
             <div class="footer_Copyright">
                 <div class="footer_Copyright_row1">
                     © Copyright
-                    2010
-                    Morningstar, Inc. All rights reserved. Please read our <a class="f_text4" target="_blank" href="http://www.morningstar.com.au/about/disclaimer" rel="nofollow"><u>Terms of Use</u></a>
+                    2011
+                    Morningstar, Inc. All rights reserved. Please read our <a class="f_text4" href="/About/Terms" rel="nofollow"><u>Terms of Use</u></a>
                     and <a class="f_text4" target="_blank" href="http://www.morningstar.com.au/About/Privacy" rel="nofollow"><u>Privacy Policy.</u></a></div>
             </div>
         </div>
+        
         <!-- /New Footer -->
 
         <script src="/Content/scripts/TickerComplete.js" type="text/javascript"></script>
@@ -742,7 +811,7 @@ function ShowAbout()
 
         <!-- Morningstar Build -->
         <!--
-			MORNINGSTARAUWEBSITE-QA-496 (Revision: ${custom.svn.revision.number})
+			MORNINGSTARAUWEBSITE-QA-752 (Revision: ${custom.svn.revision.number})
 		-->
     </div>
     <input name="ASXCode_hdn2" type="hidden" id="ASXCode_hdn2">
@@ -759,7 +828,7 @@ function ShowAbout()
             <img src="//secure-au.imrworldwide.com/cgi-bin/m?ci=auditbc-au&amp;cg=0&amp;cc=1"
                 alt="" /></div>
     </noscript>
-    <!-- END Nielsen Online SiteCensus V5.3 -->
+    
 
 
 </body></html>
