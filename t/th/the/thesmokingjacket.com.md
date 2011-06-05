@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thesmokingjacket.com privacy policy that was archived on 2010-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100723111203id_/http%3A//www.thesmokingjacket.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesmokingjacket.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606000106id_/http%3A//www.thesmokingjacket.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Smoking Jacket
 
