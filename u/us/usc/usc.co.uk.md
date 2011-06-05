@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usc.co.uk privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125190912id_/http%3A//www.usc.co.uk/Privacy-Policy/M116_EDITORIAL_CONTENT_PRIVACY_POLICY%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usc.co.uk privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605210744id_/http%3A//www.usc.co.uk/Privacy-Policy/M116_EDITORIAL_CONTENT_PRIVACY_POLICY%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
 # Privacy Policy @ USC
 
