@@ -1,84 +1,141 @@
-> *The following text is extracted and transformed from the everlast.com privacy policy that was archived on 2009-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090309075017id_/http%3A//www.everlast.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everlast.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605230253id_/http%3A//www.everlast.com/privacy.asp) for the most accurate reproduction.*
 
-# Privacy Policy from Everlast.com
+# Everlast Worldwide - Privacy Policy
 
-Everlast Worldwide is committed to protecting your privacy. 
+The Sports Direct International plc group and our family of brands, which include, but are not limited to Everlast, Lonsdale, Dunlop, Slazenger and Antigua (collectively, "SDI") collect customer information to help us to serve you better. We respect your privacy and are committed to maintaining and using this information responsibly. This privacy policy addresses the use and disclosure of personal information we collect from you. By visiting any of our websites, or providing your information to us, you are accepting the practices described in this privacy policy.
 
-### What This Privacy Policy Covers
+• Information we collect about you  
+• How we use this information  
+• Marketing email communications  
+• Changing address or catalog preferences  
+• How we work with third party service providers  
+• Your online account  
+• Links to other sites  
+• Cookies and web beacons  
+• Privacy of young children  
+• Your California rights  
+• Security  
+• Accessing our websites from outside the U.S.  
+• Privacy policy updates
 
-  * This policy covers how Everlast treats personal information that Everlast collects and receives, including information related to your past purchase(s) of Everlast products. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available. 
-  * This policy does not apply to the practices of companies that Everlast does not own or control or to people that Everlast does not employ or manage. 
+Any personal information you provide to us is maintained on secure servers and our internal systems. We collect information when you register online or update your account, log-in, place an order, opt-in to receive our emails, shop online, request a catalog or participate in a sweepstakes, contest, promotion or survey. We may also collect information from you in our stores or through our catalogs or other marketing material. This information may include, but is not limited to, your contact information (for example, your name, email address, billing and shipping addresses and phone number) and your credit card information.
 
+If you create an online account, you also have the option of providing your product preferences and demographic information. If you use our "email this style to a friend" functionality found on all product pages, or if you choose to send an email from our site to a friend, we will also collect your friend's name and email address. Your friend's information is only used to send the forwarding email and is not saved in our customer or marketing databases.
 
+In addition to the information that you voluntarily provide when using our site, we may also record information that your web browser routinely shares with websites. This may include your browser type, browser language, Internet Protocol address, software and hardware attributes, the date and time of your visit, the geographical location of the Internet Protocol address, and the pages that you visit. This will generally be anonymous data that we collect on an aggregate basis. We will not try to associate anonymous data with your personally identifiable data.
 
-### Information Collection and Use
+When you supply your postal address, either when requesting a catalog or placing an order, you may receive catalogs by mail from us. We also occasionally make our postal list available for limited use by unaffiliated third parties.
 
-#### General
+When you place an order on any of our websites, we use this information to process and track your order and contact you via email, postal mail or phone if we have any questions or concerns regarding your order. If you provide an email address during checkout, you will also receive order confirmation and shipping status emails.
 
-  * Everlast collects personal information when you register with Everlast, when you use [Everlast products or services](http://info.yahoo.com/privacy/us/all/), when buy Everlast products from our website, our catalogs ore our weekly e-mails. 
-  * Everlast may combine information about you that we have from our records and sources with information we obtain from business partners or other companies. This information will be used to make our marketing efforts more efficient. 
-  * When you register or purchase with Everlast, we ask for information such as your name, email address, postal address, ZIP code, credit card numbers and personal interests. . When you register with Everlast and sign in to our services, you are not anonymous to us. 
-  * Everlast collects information about your transactions with us and with some of our business partners. 
-  * Everlast automatically receives and records information on our server logs from your browser, including your [IP address](http://info.yahoo.com/privacy/us/yahoo/ip/), Everlast [cookie](http://info.yahoo.com/privacy/us/yahoo/cookies/) information, and the page you request. 
-  * Everlast uses information for the following general purposes: to customize the advertising and content you see, fulfill your requests for products and services, improve our services, contact you, conduct research, and provide anonymous reporting for internal and external clients. 
-  * The information we collect may also be shared with other marketers to bring you offers of interest. If you prefer that we do not share your name and address with other 
+We also maintain a record of your purchases made on any of our websites and combine this with information you have provided in our retail stores or over the phone in order to serve you better. We may combine information you provide with demographic information and information that is publicly available. We may also use information about your product preferences and interests in order to improve our site design and enhance your shopping experience.
 
+When we offer sweepstakes, contests, promotions or surveys, you may be required to provide certain personal information so we can notify winners and/or fulfill promotional obligations. In these instances, you have the option to receive emails or other communications from us regarding our products, services, contests, and promotions. Even if you have previously chosen not to receive email or postal mail from us, you may still receive information as it relates to the sweepstakes, contest, promotion or survey in which you have participated. 
 
+We may also share your information, including, without limitation, your email address (but not your credit card information) with unaffiliated third parties that would enable them to contact you about products or services you may be interested in. In the unlikely event of a sale of some or all of our business, SDI may disclose your personal information to a purchaser that agrees to abide by the terms and conditions of this privacy policy.
 
-### Information Sharing and Disclosure
+You should also be aware that we may disclose specific information about you if required to do so by law, governmental request, to respond to subpoenas, court orders, administrative orders or other legal process or based on our good faith belief that it is necessary to conform or comply with such law, request or court order, to prevent fraud, to protect our rights or to protect the users of our websites or the public.
 
-Everlast takes seriously your privacy and are committed to handling your data responsibly. Everlast only shares information in the following circumstances:
+At various points on our websites, you have the option to join our email list and receive information about our products, services and offers. Also, if you provide us with your email address when you register online or update your account, log-in, place an order, opt-in to receive our emails, shop online, request a catalog or participate in a sweepstakes, contest, promotion or survey, you may automatically be added to our email list and receive marketing or promotional information from us. 
 
-  * We provide the information to trusted partners who work on behalf of or with Everlast under confidentiality agreements. However, these companies do not have any independent right to share this information. 
-  * We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims. 
-  * We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Everlast's terms of use, or as otherwise required by law. 
-  * We transfer information about you if Everlast is acquired by or merged with another company. In this event, Everlast will notify you before information about you are transferred and becomes subject to a different privacy policy. 
-  * The information that you give us and information about your order may be combined with other personally identifiable information (such as demographic information and past purchase history) available from our records and other sources. This information will be used to make our future marketing efforts more efficient. This information may also be shared with other marketers to bring you offers of interest. If you prefer that we do not share your name and address with other marketers, please email us at [optout@everlast.com](mailto:optout@everlast.com)
+If you do not wish to receive SDI marketing emails, you may opt out by clicking on the unsubscribe link found at the bottom of all SDI marketing emails, or you may email customer service at [customerservice@everlast.com](mailto:customerservice@everlast.com) with the following:
 
+• The phrase "no email" in the subject line  
+• Your name and email address
 
+From time to time, we may share your information, including, without limitation, email addresses (but not your credit card information), with unaffiliated third parties whose products or services may be of interest to you and who have their own privacy policy in place. If you do not wish to receive marketing emails from these third parties, you may opt-out by emailing customer service at [customerservice@everlast.com](mailto:customerservice@everlast.com) with the following:  
+• The phrase "do not share email" in the subject line  
+• Your name and email address 
 
-Everlast works with vendors, partners, and other service providers in different industries and categories of business. For more information regarding providers of products or services that you've requested please read our detailed reference links. 
+You can also contact us via postal mail regarding any of the above by writing to:  
+Everlast Worldwide  
+183 Madison Suite 1701  
+New York, NY, 10016
 
-### Communications with You
+Or you may contact us by phone at 888-863-8375, 24 hours a day, seven days a week.  
+Please be aware that it can take up to 10 business days to remove you from our marketing email lists. If you opt-out from receiving our marketing emails, you will continue to receive order confirmation and shipping status emails.
 
-  1. Everlast complies with the CAN-SPAM Act of 2003. 
-  2. We identify marketing messages and ads as such. We will not disguise or mislead you about e-mails coming from Everlast either in the "From" "To" or "Subject" lines. 
-  3. Everlast maintains clear methods to opt-out that are available in each separate communication, and available 24/7/365 on our website. We encourage you to set and express your e-mail preferences. We strive to offer you maximum flexibility in directing us how best to communicate with you. 
-  4. Everlast's physical address is 1350 Broadway, suite 2300 New York, NY 10018. It is listed on all communication and on our website so you have added ways to contact us and instruct us about your communication preferences and options. Sharon Carroll is our Customer Advocate and is the point of contact for our customers. 
+If you do not want to receive SDI catalogs, please send an email to [customerservice@everlast.com](mailto:customerservice@everlast.com) with the following:
 
-
-
-### Cookies
-
-  * Everlast may set and access Everlast [cookies](http://info.yahoo.com/privacy/us/yahoo/cookies/) on your computer. 
-  * Everlast may share cookie data or analyses of cookie usage with partner companies. Other companies' use of their cookies is subject to their own privacy policies, not this one. Other companies do not have access to Everlast's cookies. 
-
-
-
-### Third-Party Web Beacons
-
-  * We use third-party web beacons from Yahoo! to help analyze where visitors go and what they do while visiting our website. Yahoo! may also use anonymous information about your visits to this and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Yahoo!, [click here](https://reports.web.analytics.yahoo.com/optout,OptOut.vm?domain=a.analytics.yahoo.com). 
-
-
-
-### Confidentiality and Security
-
-  * We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs. 
-  * We have physical, electronic, and procedural safeguards that comply with federal regulations to protect personal information about you. 
+• The phrase "no catalog" in the subject line  
 
 
+• Your name and your complete mailing address as it appears on your catalog
 
-### Changes to this Privacy Policy
+  
+You will receive an email confirmation that your request has been received and processed. Although we strive to update our mailing list as frequently as possible, you might receive another catalog before we are able to remove you. If you do not want promotional offers or catalogs mailed to you from third parties, please send an email to[ optout@everlast.com](mailto:optout@everlast.com) with the following:
 
-  * Everlast may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your Everlast account or by placing a prominent notice on our site. 
+  
+• The phrase "do not share catalog" in the subject line  
+• Your name and your complete mailing address as it appears on your catalog 
 
+If you want to change your postal or email address, please send an email to [customerservice@everlast.com](mailto:customerservice@everlast.com) with the following: 
 
+• The phrase "address change" in the subject line  
+• Your name, complete old postal or email address and the new address that you would like to change it to
 
-### Questions and Suggestions
+You will receive an email confirmation that your request has been received and processed. You can also contact us via postal mail regarding any of the above by writing to: Everlast Worldwide, 183 Madison Suite 1701, New York, NY, 10016
 
-  * [Everlast is Hacker Safe certified](http://www.truste.org/ivalidate.php?url=www.yahoo.com&sealid=101). This certification applies to all English-language sites under the Everlast.com domain. 
-  * If you have questions or suggestions, please complete a [feedback form](http://www.everlast.com/contact-everlast-boxing.html) or you can contact us at: EVERLAST WORLDWIDE 1350 Broadway, suite 2300 New York, NY 10018 
+Or you may contact us by phone at 888-863-8375, 24 hours a day, seven days a week.
 
+Some of our websites are operated by licensees, and we require them to follow these same privacy practices, except that they will also share the information they collect with us. SDI works with reputable third parties who perform services on our behalf. Sometimes these service providers need information about our customers in order to do their jobs, such as fulfill orders and promotions, maintain and manage our customer database and report on customer behavior and/or preferences. When SDI allows these service providers access to your information, we require them to maintain your information in confidence and we do not permit them to use it in any way other than to help us provide you with better service. 
 
+We currently use the services of a few carefully selected marketing companies to help manage and optimize our Internet business and communications. These companies help us to measure the effectiveness of our advertising and better understand how visitors use our sites. To do this, cookies and web beacons are placed on our websites on our behalf. The type of information collected in this manner includes pages visited, products viewed and products placed in your shopping cart.
 
-_This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the[Yahoo! Privacy Policy](http://privacy.yahoo.com/privacy/us/) for more information about how Yahoo! uses this information._
+By supplementing our records, this information helps us to identify what pages are most attractive to our visitors, which of our products most interest our customers and what kinds of offers our customers like to see. Although our marketing partners record the information coming from our sites on our behalf, the data subsequently retrieved cannot be used for any reason without our authorization. If you prefer that we not include your information in our ongoing analysis to improve our websites, products and offers, you can "opt-out" by [clicking here](mailto:optout@everlast.com). 
+
+In addition, we may share statistical, demographic and other non-personally identifiable information with third party companies to help manage and optimize our Internet business and communications.
+
+When setting up an online account at any of our websites, you will be prompted to select a password. The retrieval of personal information relating to you and your order history is only available to you if you provide the correct password that you have created. After providing your password, you can edit or delete your information at any time through the "my account" page. 
+
+If you forget your password, you can request that it be emailed to your email address. We will not give passwords out over the phone, nor will we email them to a different address than the one used to register. If you request to have your password emailed to you, your credit card information will be automatically deleted from your profile for your protection.
+
+Your address book, located in the "my account" page of each website, is your personal storage space. We do not use the information in your address book to send email promotions or catalogs by mail. When you enter names in your address book, those names will be accessible on your computer to place online orders on our website, whether you are logged in or not. If you are using a public computer, please click on the link on your order confirmation page that prompts you to "click here to clear all information" after placing your order to maximize privacy.
+
+To enhance your shopping experience, our websites may include links to other sites outside our family of brands. Those websites will have their own privacy policies that you may wish to review. SDI has no responsibility for these linked websites, outside of our family of brands.
+
+Cookies are bits of information that we automatically store on your computer if your computer accepts cookies. We use both session cookies, which are deleted after you close your browser, and persistent cookies, which remain on your computer until they expire or you delete them.
+
+Cookies do not retain any personally identifiable information such as your name, address or any financial information, on your computer. We use cookies to recognize you and your preferences in order to improve the shopping process and provide you with a customized experience on our websites. SDI places a unique user ID number on your cookie which allows us to access information that we can then use to improve your shopping experience, such as holding items in your shopping bag, accessing your address book, or providing you with customized pages based on your past viewing or purchasing history.
+
+If you do not wish to have cookies on your system, you can set your browser preferences to refuse them. In order to disable cookies, please consult your browser's "help" section for instructions. Web beacons are small strings of code that are placed in a web page. They are sometimes called "clear GIFs" (Graphics Interchange Format) or "pixel tags".
+
+Web beacons are most often used in conjunction with cookies to monitor activity on our websites. When you visit a particular web page, web beacons notify us of your visit. Since web beacons are used in combination with cookies, if you disable cookies the web beacons will only detect an anonymous website visit. 
+
+SDI is concerned about the privacy of young children and we do not knowingly collect any personal information from a child under 13. We do not intend to sell products to children on our websites and all children's products we sell are intended for purchase by adults only.
+
+SDI collects various types of personal information about you both online and offline, as described in this privacy policy. Under California law, customers of SDI who are residents of California may request certain information about our disclosure of personal information during the prior calendar year to third parties for their direct marketing purposes. 
+
+To make such a request, please write to us at the following address:
+
+Everlast Worldwide, 183 Madison Suite 1701, New York, NY, 10016
+
+Alternatively, you may send us an email at [customerservice@everlast.com](mailto:customerservice@everlast.com) with the words "California Privacy Rights" in the subject line. 
+
+The security of your information is very important to us. We use 256-bit Secure Socket Layer (SSL) technology to protect the security of your online order information. SSL technology encrypts your order information to protect it from being decoded by anyone other than SDI. Once you enter the checkout page your computer will begin communicating with our server in secure mode.
+
+You can tell that you are in secure mode by the following:  
+• The "http" in the web address will be replaced by "https"  
+• Depending on the browser, you will see either a padlock or a solid key in the lower section of the browser window
+
+Only browsers that use the 256-bit Secure Socket Layer technology are able to order through our websites. 
+
+If your browser does not support SSL, you can get an upgrade at [Microsoft's](http://www.microsoft.com/windows/internet-explorer/?ocid=ie8_b_6b68c7ed-cae9-4f92-907c-968a796d8c2d) or [Mozilla's](http://www.mozilla.com/en-US/) home page.
+
+While we implement these and other security measures on our sites, please note that 100% security is not always possible. You play a role in protecting your information as well. Because your password permits access to your personal information, please keep your password secret and do not disclose it to others.
+
+If you visit one of our websites from outside of the U.S., you may be directed to a site that operates in the specific country or region from which you are accessing the internet. In that case, you will be subject to the privacy practices associated with that site, which may be different than the practices on the U.S. site. If you are visiting our U.S. websites from a location outside of the United States, you will be connected through and to servers located within the United States.
+
+All online orders will be accepted and fully processed in and shipped from the United States and all information you provide will be securely maintained on web servers and our internal systems located within the United States. By providing your information to us, you agree that all personal information will be used in accordance with this privacy policy.
+
+We may update our privacy policy from time to time and our use of the information we collect is subject to the terms of the privacy policy in effect when we collect that information. Whenever we make a change, we will post the updated policy at this site and we encourage you to check our policy periodically. If we propose to modify our policy in a way that would significantly change the way that we use your information, we will provide you with a meaningful way to opt out of those new uses. If you have any questions or concerns regarding our privacy policy, please contact us:
+
+By email: [customerservice@everlast.com](mailto:customerservice@everlast.com)
+
+By phone: 888-863-8375, 24 hours a day, seven days a week
+
+By fax: 913-888-2198
+
+By mail: Everlast Worldwide, 183 Madison Suite 1701, New York, NY, 10016
+
+Effective as of 10/01/2009.
