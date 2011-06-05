@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the environment-agency.gov.uk privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215010948id_/http%3A//www.environment-agency.gov.uk/help/35770.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the environment-agency.gov.uk privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605034041id_/http%3A//www.environment-agency.gov.uk/help/35770.aspx) for the most accurate reproduction.*
 
 # Environment Agency - Privacy policy
 
@@ -43,14 +43,21 @@ We share the general concern over the safety and security of personal informatio
 
 ## Cookies 
 
-Cookies are text files, which identify your computer to our server. Cookies in themselves do not identify the individual user, just the computer used. We may use cookies on some of our web pages.
+When we provide services, we want to make them easy, useful and reliable. Where services are delivered on the internet, this sometimes involves placing small amounts of information on your device, for example, computer or mobile phone. These include small files known as cookies. They cannot be used to identify you personally.
 
-We also use an external agent to analyse usage behaviour on our behalf. To enable this we use a ‘unique visitor cookie’ to obtain information about your use of our site, such as whether you have visited our site more than once and how you found us. 
+These pieces of information are used to improve services for you through, for example:
 
-This information allows us to more effectively tailor our site to make its use easier. You can read the external agent's privacy policy on the [Nielsen Netratings](http://www.netratings.com/privacy.jsp?section=leg_scs) website. 
+  * enabling a service to recognise your device so you don't have to give the same information several times during one task 
+  * recognising that you may already have given a username and password so you don't need to do it for every web page requested 
+  * measuring how many people are using services, so they can be made easier to use and there's enough capacity to ensure they are fast 
 
-Through modification of browser preferences, you can elect to accept all cookies, receive notification when a cookie is set, or decline all cookies. 
 
-  * [Further information about deleting cookies](http://www.aboutcookies.org/Default.aspx?page=2%3C%3E "Information about deleting cookies")  
+
+You can manage these small files yourself and learn more about them:
+
+  * **[Internet browser cookies - what they are and how to manage them](http://www.direct.gov.uk/en/SiteInformation/DG_197506?CID=Central&PLA=url_mon&CRE=managing_cookies "Internet browser cookies on the Direct Gov website")**
+
+
+  * **[Our use of cookies](https://web.archive.org/help/130361.aspx "Our use of cookies")**
 
 
