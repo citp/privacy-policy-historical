@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alldaygiveaways.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220222006id_/http%3A//www.alldaygiveaways.com/giveaways-contests-sweepstakes/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alldaygiveaways.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605042109id_/http%3A//www.alldaygiveaways.com/giveaways-contests-sweepstakes/privacypolicy) for the most accurate reproduction.*
 
 # All Day Giveaways | Sweepstakes | Free Contest Giveaway | Privacy Policy
 
