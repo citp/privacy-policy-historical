@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ringling.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204153525id_/http%3A//www.ringling.com/TextContent.aspx%3Fid%3D11828%26parentID%3D348%26assetFolderID%3D364) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ringling.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605025520id_/http%3A//www.ringling.com/TextContent.aspx%3Fid%3D11828%26parentID%3D348%26assetFolderID%3D364) for the most accurate reproduction.*
 
 # Privacy Policy
 
