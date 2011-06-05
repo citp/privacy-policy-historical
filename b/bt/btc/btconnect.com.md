@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the btconnect.com privacy policy that was archived on 2010-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100605031958id_/http%3A//www2.bt.com/btPortal/application%3Forigin%3Dbtb_footer.jsp%26event%3Dbea.portal.framework.internal.portlet.event%26pageid%3Dmb_form%26portletid%3Dmb_form%26portletns%3Dmb_form%26wfevent%3DLink.mb_form%26com.bea.event.type%3Dlinkclick%26oLDesc%3DPrivacy%2BPolicy%26oSiteArea%3Dbtb.mya%26oPJsp%3Dbtb_footer.jsp%26oPt%3Dmb_rcol_services%26oLName%3DprivacyPolicy%26oOJsp%3D%26oPg%3Dmy_account%26siteArea%3Dbtb.mya%26type%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the btconnect.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605025122id_/http%3A//www2.bt.com/btPortal/application%3Forigin%3Dbtb_footer.jsp%26event%3Dbea.portal.framework.internal.portlet.event%26pageid%3Dmb_form%26portletid%3Dmb_form%26portletns%3Dmb_form%26wfevent%3DLink.mb_form%26com.bea.event.type%3Dlinkclick%26oLDesc%3DPrivacy%2BPolicy%26oSiteArea%3Dbtb.mya%26oPJsp%3Dbtb_footer.jsp%26oPt%3Dmb_rcol_services%26oLName%3DprivacyPolicy%26oOJsp%3D%26oPg%3Dmy_account%26siteArea%3Dbtb.mya%26type%3Dprivacy) for the most accurate reproduction.*
 
 # BT.com | Small & medium business | Your account
 
@@ -82,9 +82,7 @@ We may ask you for information to enable us to provide a service to you and we c
 We do not use this information to:   
    
   
-  * identify individuals visiting our website; or
-  * analyse your visits to any other websites (except that we do track you if you go to websites carrying our banner, but we do not identify personal details while we do this); or
-  * track any Internet searches which you may make while on our website.
+  * analyse your visits to any other websites (except that we do track you if you go to websites carrying our banner, but we do not identify personal details while we do this)
 
   
 Return to top  
