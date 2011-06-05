@@ -1,535 +1,630 @@
-<!--The following is the downloaded HTML source of the mybobs.com privacy policy that was archived on 2010-02-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100203231929id_/http%3A//www.mybobs.com/about/privacy_policy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mybobs.com privacy policy that was archived on 2011-06-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110605193513id_/http%3A//www.mybobs.com/about/privacy_policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html lang="en" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" dir="ltr"><head>
-	<title>MyBob's Privacy Policy</title>
-	<meta name="description" content="MyBob's is concerned about your privacy.">	
-	<meta http-equiv="imagetoolbar" content="no">
-	<meta name="MSSmartTagsPreventParsing" content="true">	
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-	<link rel="stylesheet" type="text/css" href="/styles/screen.css" media="screen, print">
-	<link rel="shortcut icon" href="/favicon.ico" type="image/ico">	
-	
-	<script language="javascript" type="text/javascript" src="/scripts/dbAjax.js"></script>
-	<script type="text/javascript" src="/scripts/jquery/jquery.js"></script>
-	<script type="text/javascript" src="/scripts/jquery/ui.jquery.js"></script>
-	<script type="text/javascript" src="/scripts/dimensions-jquery.js"></script>
-	<script type="text/javascript" src="/scripts/tooltip-jquery.js"></script>
-	<script type="text/javascript" src="/scripts/my-jquery.js"></script> <!-- This contains the unique jquery code written for this site -->
-	
-	<!--[if lte IE 6]>
-		<link rel="stylesheet" type="text/css" href="/styles/ie6.css" media="screen, print" />
-		<script defer type="text/javascript" src="/scripts/pngfix.js"></script>
-		<script type="text/javascript">
-			// IE6-only jquery magic
-			$(document).ready(function(){	
-				
-				// When the last main-nav item is hovered over...
-				$("#topNavLastItem").hover(function(){
-					// Hide the Sort By: select element...
-					$('#sortByTop').css('visibility','hidden');
-				}, function(){
-					// Show the select element again when hovered off.
-					$('#sortByTop').css('visibility','visible');
-				});	
-							
-			});
-		</script>	
-	<![endif]-->
-	
-	<!--[if gte IE 7]>
-		<link rel="stylesheet" type="text/css" href="/styles/ie7.css" media="screen, print" />
-	<![endif]-->
-	
-	<script type="text/javascript">
-		// This will call a special style sheet for users of Safari.
-		var detect = navigator.userAgent.toLowerCase();
-		if (checkIt('safari')){
-			document.write('<link rel="stylesheet" type="text/css" href="/styles/safari.css" media="screen, print" />');
-		}
-		function checkIt(string){
-			var place = detect.indexOf(string) + 1;
-			return place;
-		}
-		
-		// This will call a special style sheet for users of Firefox on Mac OS X.
-		if (navigator.userAgent.indexOf('Firefox') != -1 && navigator.userAgent.indexOf('Mac OS X') != -1) {
-			document.write('<link rel="stylesheet" type="text/css" href="/styles/osx-firefox.css" media="screen, print" />');
-		}
-	</script><link rel="stylesheet" type="text/css" href="/styles/safari.css" media="screen, print">	
-	<script type="text/javascript" src="../scripts/general.js"></script>
-	<script language="javascript" type="text/javascript">
-	    $(document).ready(function(){
-            $("#canBobDeliver").click(function() {
-	            dbAJAX("/scripts/postback/deliveryZones.aspx", "?zip=" + $(this).siblings(".formTextInput").attr("value"), canBobDeliver);
-	        });
-	        GetCartCount();
-	    });
-	    
-	    function canBobDeliver(x) {
-	        var y = x.split("||");
-	        var result = y[0];
-            if (y.length > 1) {
-                result += "<p>Our nearby locations.<ul>";
-                for (i=1; i < y.length; i++) {
-                    var z = y[i].split("|");
-                    result += "<li>" + z[0] + " (" + z[1] + " miles)</li>";
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-Strict.dtd"><html lang="en" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" dir="ltr"><head><title>
+	Privacy Policy
+</title><meta http-equiv="imagetoolbar" content="no"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><link rel="shortcut icon" href="/favicon.ico" type="image/ico">
+
+        <!-- JAVASCRIPT : JQUERY -->
+        <script src="/scripts/jquery/jquery-1.4.2.min.js" type="text/javascript"></script>
+        <script src="/scripts/jquery/jquery-ui-1.8.5.custom.min.js" type="text/javascript"></script>
+        
+        <!-- JAVASCRIPT : PLUGINS -->
+        <script src="/scripts/dimensions-jquery.js" type="text/javascript"></script>
+        <script src="/scripts/tooltip-jquery.js" type="text/javascript"></script>
+        <script src="/scripts/swfobject_source.js" type="text/javascript"></script>
+
+        <!-- JAVASCRIPT : SITE SPECIFIC -->
+        <script src="/scripts/core.js" type="text/javascript"></script>
+        <script src="/scripts/general.js" type="text/javascript"></script>
+        
+        <!--[if lte IE 6]>
+	        <script defer type="text/javascript" src="/scripts/pngfix.js"></script>
+	        <script type="text/javascript">
+		        // IE6-only jquery magic
+		        $(document).ready(function(){	
+        			
+			        // When the last main-nav item is hovered over...
+			        $("#topNavLastItem").hover(function(){
+				        // Hide the Sort By: select element...
+				        $('#sortByTop').css('visibility','hidden');
+			        }, function(){
+				        // Show the select element again when hovered off.
+				        $('#sortByTop').css('visibility','visible');
+			        });	
+		        });
+	        </script>	
+        <![endif]-->
+        
+         <!-- CSS -->
+        <link rel="stylesheet" type="text/css" href="/styles/reset.css" media="screen, print"><link rel="stylesheet" type="text/css" href="/styles/layout.css" media="screen, print"><link rel="stylesheet" type="text/css" href="/styles/screen.css" media="screen, print">
+
+        <script type="text/javascript">
+            if (window.devicePixelRatio) {  //If WebKit browser
+                if (escape(navigator.javaEnabled.toString()) == 'function%20javaEnabled%28%29%20%7B%20%5Bnative%20code%5D%20%7D') {
+                    //alert('Chrome');
+                    document.write('<link rel="stylesheet" type="text/css" href="/styles/browser/chrome.css" media="screen, print" />');
+                } else if (escape(navigator.javaEnabled.toString()) != 'function%20javaEnabled%28%29%20%7B%20%5Bnative%20code%5D%20%7D') {
+                    //alert('Safari');
+                    document.write('<link rel="stylesheet" type="text/css" href="/styles/browser/safari.css" media="screen, print" />');
                 }
-                result += "</ul></p>";
             }
-            
-	       $("#canBobDeliverResult").html(result);
+            // This will call a special style sheet for users of Firefox on Mac OS X.
+            if (navigator.userAgent.indexOf('Firefox') != -1 && navigator.userAgent.indexOf('Mac OS X') != -1) {
+                document.write('<link rel="stylesheet" type="text/css" href="/styles/browser/Gecko.css" media="screen, print" />');
+            }
+            if (navigator.userAgent.indexOf('Opera') != -1) {
+                document.write('<link rel="stylesheet" type="text/css" href="/styles/browser/opera.css" media="screen, print" />');
+            }
 
-	    }
-	</script>
-<style type="text/css">
-#innerLeftCol li{
-	margin-left: 23px;
-}
-</style>
-</head>
-<body class="layout3Col">
-	<div id="wrapper">
-	    <p id="skipLink">
+	    </script><link rel="stylesheet" type="text/css" href="/styles/browser/chrome.css" media="screen, print">
+	    
+        
+        
+        
+        
+        <!--[if IE 6]><link rel="stylesheet" type="text/css" href="/styles/browser/ie6.css" media="screen, print" /><![endif]-->    
+        <!--[if IE 7]><link rel="stylesheet" type="text/css" href="/styles/browser/ie7.css" media="screen, print" /><![endif]-->
+        <!--[if IE 8]><link rel="stylesheet" type="text/css" href="/styles/browser/ie8.css" media="screen, print" /><![endif]-->
+    <meta name="pageName" content="privacy"><meta name="description" content="This privacy notice discloses the privacy practices for . This privacy notice applies solely to information collected by this web site. It will notify you of the following: 
+ 
+ What personally identifiable information is collected from you through the web site, how it is used and with whom it may be shared. 
+ What choices are available to you regarding the use of your data. 
+ The security procedures in place to protect the misuse of your information. 
+ How you can correct any inaccuracies in the information. 
+ 
+ Information Collection, Use, and Sharing 
+ We are the sole owners of the information collected on this site. We only have access to/collect information that you voluntarily give us via email or other direct contact from you. We will not sell or rent this information to anyone. 
+ We will use your information to respond to you, regarding the reason you contacted us. We will not share your information with any third party outside of our organization, other than as necessary to fulfill your request, e.g. to ship an order. 
+ Unless you ask us not to, we may contact you via email in the future to tell you about specials, new products or services, or changes to this privacy policy. 
+ Your Access to and Control Over Information 
+ You may opt out of any future contacts from us at any time. You can do the following at any time by contacting us via the email address or phone number given on our website: 
+ 
+ See what data we have about you, if any. 
+ Change/correct any data we have about you. 
+ Have us delete any data we have about you. 
+ Express any concern you have about our use of your data. 
+ 
+ Security 
+ We take precautions to protect your information. When you submit sensitive information via the website, your information is protected both online and offline. 
+ Wherever we collect sensitive information (such as credit card data), that information is encrypted and transmitted to us in a secure way. You can verify this by looking for a closed lock icon at the bottom of your web browser, or looking for &quot;https&quot; at the beginning of the address of the web page. 
+ While we use encryption to protect sensitive information transmitted online, we also protect your information offline. Only employees who need the information to perform a specific job (for example, billing or customer service) are granted access to personally identifiable information. The computers/servers in which we store personally identifiable information are kept in a secure environment. 
+ If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone at 1-800-723-BOBS or via email...."><meta name="keywords"></head>
+
+    <body>
+        <div class="layout3Col">
+    <div id="wrapper" class="general privacy">
+        <p id="skipLink">
     <a href="#pageContent">Skip straight to the content on this page</a>
 </p>
-<div id="logoPromoWrap">
-    <a href="/" id="companyLogo">
-        <img src="/images/bobs-discount-furniture-logo.gif" alt="Bob's Discount Furniture" title="">
-    </a>
-    
-    <!--p id="headerPromo2"><a href="/roomplanner/default.aspx"><img src="/images/roomPlanBtn.gif" alt="My Bob's Room Planner" title="" /><span>My Bob's<br />Room Planner</span></a></p-->
-</div>
-<!-- /#logoPromoWrap -->
-<div id="searchMetaNav">
-    <form action="/search/default.aspx" method="get">
-        <p>
-            <input type="text" name="s" id="headerSearchInput">
-            <input type="submit" value="Search" id="headerSearchSubmit">
-        </p>
-    </form>
-    <ul>
-        <li class="firstItemRed">
-            <a href="/roomplanner/default.aspx" class="">Room Planner</a>
-        </li>
-        <li class="secondItemRed">
-            <a href="/locations">Locations</a>
-        </li>
-        <li>
-            <a href="/ask_bob">Ask Bob</a>
-        </li>
-        <li>
-            <a href="/gift_cards">Gift Cards</a>
-        </li>
-        <li>
-            <a href="/financing">Financing</a>
-        </li>
-        <li>
-            <a href="/customer/faq.aspx">FAQ</a>
-        </li>
-        <li>
-            <a href="/register">Register</a>
-        </li>
-        <li>
-            <strong>
-                <a href="/shoppingcart/">
-                    Shopping Cart: <span id="shoppingCartCount" runat="server"></span>
-                </a>
-            </strong>
-        </li>
-    </ul>
-</div>
 
-		
+<div id="navWrap">
+	<div id="logoPromoWrap">
+		<a href="/" id="companyLogo">
+			<img src="/images/bobs-discount-furniture-logo.gif" alt="Bob's Discount Furniture" title="Bob's Discount Furniture">
+		</a>
+		<div id="headerPromo1">
+			
+			
+		</div>
+
+
+	</div>
+	<div id="searchMetaNav">
+		<form action="/search/default.aspx" method="get">
+			<p>
+				<input type="text" name="s" id="headerSearchInput">
+				<input type="submit" value="Search" id="headerSearchSubmit">
+			</p>
+		</form>
+		<ul>
+			<li class="firstItemRed">
+				<a href="/roomplanner" class="">Room Planner</a>
+			</li>
+			<li class="secondItemRed">
+				<a href="/locations">Locations</a>
+			</li>
+			<li>
+				<a href="/ask_bob">Ask Bob</a>
+			</li>
+			<li>
+				<a href="/gift_cards">Gift Cards</a>
+			</li>
+			<li>
+				<a href="/financing">Financing</a>
+			</li>
+			<li>
+				<a href="/faqs">FAQ</a>
+			</li>
+			<li>
+				<a href="/register">Register</a>
+			</li>
+			<li>
+				<strong>
+					<a href="/shoppingcart/">
+						Shopping Cart: <span id="shoppingCartCount" runat="server">0</span>
+					</a>
+				</strong>
+			</li>
+
+		</ul>
+	</div>
+
+
+</div>
+<!-- NAV WRAP -->
+
+
 <!-- /#searchMetaNav -->
-<span class="clearBoth"><!-- do not remove --></span>
+<span class="clearBoth">
+    <!-- do not remove -->
+</span>
 <hr>
-<div id="topNav">
+<div id="topNav" class="showtag">
+    
 
 
-		<ul>
+        <ul>
 			
-		<li>
-		<a href="/fabric.aspx">LIVING ROOMS<!--[if IE 7]><!--></a><!--<![endif]-->
-		<!--[if lte IE 6]><table><tr><td><![endif]-->
-	
+        <li>
+            <a href="/fabric">
+                LIVING ROOMS<!--[if IE 7]><!-->
+            </a>
+            <!--<![endif]-->
+            <!--[if lte IE 6]><table><tr><td><![endif]-->
 
-		<ul>
+
+
+        <ul>
 				
-		<li>
-		<a href="/fabric.aspx">Fabric</a>
-	
-		</li>
-	
-			
-		<li>
-		<a href="/leather.aspx">Leather</a>
-	
-		</li>
-	
-			
-		<li>
-		<a href="/sectionals.aspx">Sectionals</a>
-	
-		</li>
-	
-			
-		<li>
-		<a href="/motion.aspx">Motion</a>
-	
-		</li>
-	
-			
-		<li>
-		<a href="/recliners.aspx">Recliners</a>
-	
-		</li>
-	
-			
-		<li>
-		<a href="/accentchairs.aspx">Accent Chairs</a>
-	
-		</li>
-	
-			
-		<li>
-		<a href="/sleepersofas.aspx">Sleeper Sofas</a>
-	
-		</li>
-	
-			
-		<li class="lastItem">
-		<a href="/occasionaltables.aspx">Occasional Tables</a>
-	
-		</li>
-	
+        <li>
+            <a href="/fabric">Fabric</a>
 
-		</ul>
+        </li>
+
+			
+        <li>
+            <a href="/leather">Leather</a>
+
+        </li>
+
+			
+        <li>
+            <a href="/sectionals">Sectionals</a>
+
+        </li>
+
+			
+        <li>
+            <a href="/motion">Motion</a>
+
+        </li>
+
+			
+        <li>
+            <a href="/recliners">Recliners</a>
+
+        </li>
+
+			
+        <li>
+            <a href="/accentchairs">Accent Chairs</a>
+
+        </li>
+
+			
+        <li>
+            <a href="/KidsChairs">Kids' Chairs</a>
+
+        </li>
+
+			
+        <li>
+            <a href="/sleepersofas">Sleeper Sofas</a>
+
+        </li>
+
+			
+        <li class="lastItem">
+            <a href="/occasionaltables">Occasional Tables</a>
+
+        </li>
+
+
+        </ul>
+
 	
-	
-		</li><!--[if lte IE 6]></td></tr></table></a><![endif]-->
-	
+        </li>
+        <!--[if lte IE 6]></td></tr></table></a><![endif]-->
+
 		
-		<li>
-		<a href="/adultbedrooms.aspx">BEDROOMS<!--[if IE 7]><!--></a><!--<![endif]-->
-		<!--[if lte IE 6]><table><tr><td><![endif]-->
-	
+        <li>
+            <a href="/adultbedrooms">
+                BEDROOMS<!--[if IE 7]><!-->
+            </a>
+            <!--<![endif]-->
+            <!--[if lte IE 6]><table><tr><td><![endif]-->
 
-		<ul>
+
+
+        <ul>
 				
-		<li>
-		<a href="/adultbedrooms.aspx">Adult</a>
-	
-		</li>
-	
-			
-		<li>
-		<a href="/youthbedrooms.aspx">Children</a>
-	
-		</li>
-	
-			
-		<li class="lastItem">
-		<a href="/metalbedsandmore.aspx">Metal Beds &amp; More</a>
-	
-		</li>
-	
+        <li>
+            <a href="/adultbedrooms">Adult</a>
 
-		</ul>
-	
-	
-		</li><!--[if lte IE 6]></td></tr></table></a><![endif]-->
-	
-		
-		<li>
-		<a href="/diningrooms.aspx">DINING ROOMS</a>
-	
-		</li>
-	
-		
-		<li>
-		<a href="/Bob_O_Pedic.aspx">MATTRESSES<!--[if IE 7]><!--></a><!--<![endif]-->
-		<!--[if lte IE 6]><table><tr><td><![endif]-->
-	
+        </li>
 
-		<ul>
+			
+        <li>
+            <a href="/youthbedrooms">Children</a>
+
+        </li>
+
+			
+        <li class="lastItem">
+            <a href="/metalbedsandmore">Metal Beds &amp; More</a>
+
+        </li>
+
+
+        </ul>
+
+	
+        </li>
+        <!--[if lte IE 6]></td></tr></table></a><![endif]-->
+
+		
+        <li>
+            <a href="/DININGROOMS">
+                DINING ROOMS<!--[if IE 7]><!-->
+            </a>
+            <!--<![endif]-->
+            <!--[if lte IE 6]><table><tr><td><![endif]-->
+
+
+
+        <ul>
 				
-		<li>
-		<a href="/Bob_O_Pedic.aspx">Bob O Pedic </a>
-	
-		</li>
-	
-			
-		<li>
-		<a href="/innerspring.aspx">Innerspring</a>
-	
-		</li>
-	
-			
-		<li>
-		<a href="/naturally_bobs_latex.aspx">Naturally Bob's</a>
-	
-		</li>
-	
-			
-		<li class="lastItem">
-		<a href="/Adjustable_Beds.aspx">Power Bob</a>
-	
-		</li>
-	
+        <li>
+            <a href="/diningroomsets">Dining Room Sets</a>
 
-		</ul>
+        </li>
+
+			
+        <li class="lastItem">
+            <a href="/Servers">Servers</a>
+
+        </li>
+
+
+        </ul>
+
 	
-	
-		</li><!--[if lte IE 6]></td></tr></table></a><![endif]-->
-	
+        </li>
+        <!--[if lte IE 6]></td></tr></table></a><![endif]-->
+
 		
-		<li>
-		<a href="/fireplaces.aspx">HOME ACCENTS<!--[if IE 7]><!--></a><!--<![endif]-->
-		<!--[if lte IE 6]><table><tr><td><![endif]-->
-	
+        <li>
+            <a href="/mattresses">
+                MATTRESSES<!--[if IE 7]><!-->
+            </a>
+            <!--<![endif]-->
+            <!--[if lte IE 6]><table><tr><td><![endif]-->
 
-		<ul>
+
+
+        <ul>
 				
-		<li>
-		<a href="/bars.aspx">Bars</a>
-	
-		</li>
-	
-			
-		<li>
-		<a href="/curios.aspx">Curio Showoffs</a>
-	
-		</li>
-	
-			
-		<li>
-		<a href="/fireplaces.aspx">Electric Fireplaces</a>
-	
-		</li>
-	
-			
-		<li class="lastItem">
-		<a href="/rugs.aspx">Rugs</a>
-	
-		</li>
-	
+        <li>
+            <a href="/Bob_O_Pedic">Bob O Pedic </a>
 
-		</ul>
+        </li>
+
+			
+        <li>
+            <a href="/innerspring">Innerspring</a>
+
+        </li>
+
+			
+        <li>
+            <a href="/naturally_bobs_latex">Naturally Bob's</a>
+
+        </li>
+
+			
+        <li class="lastItem">
+            <a href="/Adjustable_Beds">Power Bob</a>
+
+        </li>
+
+
+        </ul>
+
 	
-	
-		</li><!--[if lte IE 6]></td></tr></table></a><![endif]-->
-	
+        </li>
+        <!--[if lte IE 6]></td></tr></table></a><![endif]-->
+
 		
-		<li class="topNavWideItem">
-		<a href="/mediawallunits.aspx">Entertainment Centers<!--[if IE 7]><!--></a><!--<![endif]-->
-		<!--[if lte IE 6]><table><tr><td><![endif]-->
-	
+        <li>
+            <a href="/fireplaces">
+                HOME ACCENTS<!--[if IE 7]><!-->
+            </a>
+            <!--<![endif]-->
+            <!--[if lte IE 6]><table><tr><td><![endif]-->
 
-		<ul>
+
+
+        <ul>
 				
-		<li>
-		<a href="/mediawallunits.aspx">Media Wall Units</a>
-	
-		</li>
-	
-			
-		<li class="lastItem">
-		<a href="/tvconsoles_tvc.aspx">TV Consoles</a>
-	
-		</li>
-	
+        <li>
+            <a href="/AccentChests">Accent Chests</a>
 
-		</ul>
+        </li>
+
+			
+        <li>
+            <a href="/bars">Bars</a>
+
+        </li>
+
+			
+        <li>
+            <a href="/curios">Curios</a>
+
+        </li>
+
+			
+        <li>
+            <a href="/fireplaces">Electric Fireplaces</a>
+
+        </li>
+
+			
+        <li class="lastItem">
+            <a href="/rugs">Rugs</a>
+
+        </li>
+
+
+        </ul>
+
 	
-	
-		</li><!--[if lte IE 6]></td></tr></table></a><![endif]-->
-	
+        </li>
+        <!--[if lte IE 6]></td></tr></table></a><![endif]-->
+
 		
-		<li class="topNavLastItem">
-		<a href="/desks.aspx">Home Office<!--[if IE 7]><!--></a><!--<![endif]-->
-		<!--[if lte IE 6]><table><tr><td><![endif]-->
-	
+        <li class="topNavWideItem">
+            <a href="/mediawallunits">
+                Entertainment Centers<!--[if IE 7]><!-->
+            </a>
+            <!--<![endif]-->
+            <!--[if lte IE 6]><table><tr><td><![endif]-->
 
-		<ul>
+
+
+        <ul>
 				
-		<li>
-		<a href="/desks.aspx">Desks</a>
-	
-		</li>
-	
+        <li>
+            <a href="/mediawallunits">Media Wall Units</a>
+
+        </li>
+
 			
-		<li>
-		<a href="/filecabinets.aspx">File Cabinets</a>
+        <li class="lastItem">
+            <a href="/tvconsoles_tvc">TV Consoles</a>
+
+        </li>
+
+
+        </ul>
+
 	
-		</li>
-	
+        </li>
+        <!--[if lte IE 6]></td></tr></table></a><![endif]-->
+
+		
+        <li class="topNavLastItem">
+            <a href="/desks">
+                Home Office<!--[if IE 7]><!-->
+            </a>
+            <!--<![endif]-->
+            <!--[if lte IE 6]><table><tr><td><![endif]-->
+
+
+
+        <ul>
+				
+        <li>
+            <a href="/desks">Desks</a>
+
+        </li>
+
 			
-		<li>
-		<a href="/bookcases.aspx">Book Cases</a>
-	
-		</li>
-	
+        <li>
+            <a href="/filecabinets">File Cabinets</a>
+
+        </li>
+
 			
-		<li class="lastItem">
-		<a href="/slidingdoorbookcases.aspx">Sliding Door Book Cases</a>
-	
-		</li>
-	
+        <li>
+            <a href="/bookcases">Book Cases</a>
 
-		</ul>
-	
-	
-		</li><!--[if lte IE 6]></td></tr></table></a><![endif]-->
-	
+        </li>
 
-		</ul>
-	
-</div><!-- /#topNav -->
+			
+        <li class="lastItem">
+            <a href="/slidingdoorbookcases">Sliding Door Book Cases</a>
 
-		<hr>
-		<div id="pageContent">
-			<div id="leftCol">
-				<div id="leftColBob">
-					<img src="/images/left-col-bob.jpg" alt="What else can I say. The price tells the whole story.">
-				</div><!-- /#leftColBob -->
-			</div><!-- /#leftCol -->
-			<div id="rightCol">
-				<div id="innerColWrap">
-					<div id="innerRightCol">
-						<p>Join My Bob’s Online Club to be the first to hear about some Untouchable deals, new store openings and other announcements. I may even give you a sneak preview of new Untouchable deals BEFORE I release them over the airwaves.</p>
-						<hr class="visibleHR">
-						<p>Can Bob’s deliver furniture to your home? Enter your zip code to see if we deliver to your area:</p>
-					    <p><input type="text" class="formTextInput" size="5"> <input type="button" id="canBobDeliver" class="formSubmit" value="SUBMIT"></p>
-					    <div id="canBobDeliverResult"></div>
-					</div><!-- /#innerRightCol -->
-					<div id="innerLeftCol">
-						<h1>Privacy Policy</h1>
-						<hr class="visibleHR">
+        </li>
 
 
-<p>This privacy notice discloses the privacy practices for <a href="http://www.mybobs.com">http://www.mybobs.com</a>. This privacy notice applies solely to information collected by this web site. It will notify you of the following:</p>
+        </ul>
 
+	
+        </li>
+        <!--[if lte IE 6]></td></tr></table></a><![endif]-->
+
+		
+        <li class="pitStoreItem">
+            <a href="/epit/">PIT</a>
+
+        </li>
+
+
+        </ul>
+
+</div>
+<!-- /#topNav -->
+
+<hr>
+
+        <div id="pageContent">
+            <div id="leftCol">
+                
+                <div id="leftColBob">
+    <img src="/images/left-col-bob.jpg" alt="What else can I say. The price tells the whole story.">
+</div>
+<!-- /#leftColBob -->
+
+            </div>
+            <!-- /#leftCol -->
+            <div id="rightCol">
+                <div id="innerColWrap">
+                    <div id="innerRightCol">
+			
+                    </div>
+                    <!-- /#innerRightCol -->
+                    <div id="innerLeftCol">
+                        <h1>Privacy Policy</h1>
+                        <hr class="visibleHR">
+                        <p>This privacy notice discloses the privacy practices for <a href="http://www.mybobs.com">http://www.mybobs.com</a>. This privacy notice applies solely to information collected by this web site. It will notify you of the following:</p>
 <ol>
-   <li>What personally identifiable information is collected from you through the web site, how it is used and with whom it may be shared.</li>
-   <li>What choices are available to you regarding the use of your data.</li>
-   <li>The security procedures in place to protect the misuse of your information.</li>
-   <li>How you can correct any inaccuracies in the information.</li>
+<li>What personally identifiable information is collected from you through the web site, how it is used and with whom it may be shared.</li>
+<li>What choices are available to you regarding the use of your data.</li>
+<li>The security procedures in place to protect the misuse of your information.</li>
+<li>How you can correct any inaccuracies in the information.</li>
 </ol>
-
 <h2>Information Collection, Use, and Sharing</h2>
 <p>We are the sole owners of the information collected on this site. We only have access to/collect information that you voluntarily give us via email or other direct contact from you. We will not sell or rent this information to anyone.</p>
-
 <p>We will use your information to respond to you, regarding the reason you contacted us. We will not share your information with any third party outside of our organization, other than as necessary to fulfill your request, e.g. to ship an order.</p>
-
 <p>Unless you ask us not to, we may contact you via email in the future to tell you about specials, new products or services, or changes to this privacy policy.</p>
-
 <h2>Your Access to and Control Over Information</h2>
 <p>You may opt out of any future contacts from us at any time. You can do the following at any time by contacting us via the email address or phone number given on our website:</p>
-
 <ul>
-    <li>See what data we have about you, if any.</li>
-    <li>Change/correct any data we have about you.</li>
-    <li>Have us delete any data we have about you.</li>
-    <li>Express any concern you have about our use of your data.</li>
+<li>See what data we have about you, if any.</li>
+<li>Change/correct any data we have about you.</li>
+<li>Have us delete any data we have about you.</li>
+<li>Express any concern you have about our use of your data.</li>
 </ul>
-
 <h2>Security</h2>
 <p>We take precautions to protect your information. When you submit sensitive information via the website, your information is protected both online and offline.</p>
-
 <p>Wherever we collect sensitive information (such as credit card data), that information is encrypted and transmitted to us in a secure way. You can verify this by looking for a closed lock icon at the bottom of your web browser, or looking for "https" at the beginning of the address of the web page.</p>
-
-<p>While we use encryption to protect sensitive information transmitted online, we also protect your information offline. Only employees who need the information to perform a specific job (for example, billing or customer service) are granted access to personally identifiable information. The computers/servers in which we store personally identifiable information are kept in a secure environment.
-</p>
+<p>While we use encryption to protect sensitive information transmitted online, we also protect your information offline. Only employees who need the information to perform a specific job (for example, billing or customer service) are granted access to personally identifiable information. The computers/servers in which we store personally identifiable information are kept in a secure environment.</p>
 <p>If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone at 1-800-723-BOBS or via email.</p>
+                    </div>
+                    <!-- /#innerLeftCol -->
+                </div>
+                <!-- /#innerColWrap -->
+            </div>
+            <!-- /#rightCol -->
 
-                        
-						
-					</div><!-- /#innerLeftCol -->
-				</div><!-- /#innerColWrap -->
-			</div><!-- /#rightCol -->
-		</div><!-- /#pageContent -->
-		<hr>
-		
+        </div>
+        <!-- /#pageContent -->
+        <hr>
+        
 
-	<div id="footer">
-	<ul>
+        <div id="footer">
+            <ul>
 			
-		<li class="firstItem">
-		<a href="/about">About Bob's</a>
-	
-		</li>
-	
-		
-		<li>
-		<a href="/employment">Employment</a>
-	
-		</li>
-	
-		
-		<li>
-		<a href="/news">News Room</a>
-	
-		</li>
-	
-		
-		<li>
-		<a href="/outreach">Bob's Outreach / High School Heroes</a>
-	
-		</li>
-	
-		
-		<li>
-		<a href="/charity/default.aspx">Charitable Foundation</a>
-	
-		</li>
-	
-		
-		<li>
-		<a href="/about/privacy_policy.aspx">Privacy Policy</a>
-	
-		</li>
-	
-		
-		<li>
-		<a href="/about/terms.aspx">Terms &amp; Conditions</a>
-	
-		</li>
-	
+        <li class="firstItem">
+            <a href="/about">About Bob's</a>
 
-		</ul>
-		<a target="_blank" href="https://www.bbb.org/online/consumer/cks.aspx?id=103070710122233518"><img src="/images/bbbsealO2.gif" class="imgA" title="Click to verify BBB accreditation and to see a BBB report." alt="Click to verify BBB accreditation and to see a BBB report."></a>
+        </li>
+
+		
+        <li>
+            <a href="/employment">Employment</a>
+
+        </li>
+
+		
+        <li>
+            <a href="/news">News Room</a>
+
+        </li>
+
+		
+        <li>
+            <a href="/outreach">Bob's Outreach / High School Heroes</a>
+
+        </li>
+
+		
+        <li>
+            <a href="/charity">Charitable Foundation</a>
+
+        </li>
+
+		
+        <li>
+            <a href="/about/privacy_policy">Privacy Policy</a>
+
+        </li>
+
+		
+        <li>
+            <a href="/about/terms">Terms &amp; Conditions</a>
+
+        </li>
+
+
+        </ul>
 		<table width="135" border="0" cellpadding="2" cellspacing="0" title="Click to Verify - This site chose VeriSign SSL for secure e-commerce and confidential communications.">
-<tbody><tr>
-<td width="135" align="center" valign="top"><script src="https://seal.verisign.com/getseal?host_name=www.mybobs.com&amp;size=S&amp;use_flash=NO&amp;use_transparent=NO&amp;lang=en"></script>
-</td>
-</tr>
-</tbody></table>
-		<p>© 2008 All Rights Reserved<br>
-      Web Site Built and Maintained By <a href="http://www.digitalbungalow.com">Digital Bungalow, Inc.</a> 
-    </p>
-		<span class="clearBoth"><!-- do not remove --></span>
-	</div><!-- /#footer -->
-	
-	</div><!-- /#wrapper -->
-	<!--CSM TRACK START Place this code on every page directly before google analytics-->
-<script src="https://www.csm-secure.com/Scripts/ClickTracking.js" type="text/javascript"></script> 
-<script type="text/javascript">
-    _clientID = "65";
-    _expiryDays = 90; // 90 days 
-    TrackPage(); 
-</script> 
+			<tbody><tr>
+				<td width="135" align="center" valign="top"><script src="https://seal.verisign.com/getseal?host_name=www.mybobs.com&amp;size=S&amp;use_flash=NO&amp;use_transparent=NO&amp;lang=en"></script>
+				</td>
+			</tr>
+		</tbody></table>
+        <p>
+            © 2011 All Rights Reserved<br>
+            Web Site Built and Maintained By <a href="http://www.digitalbungalow.com">Digital Bungalow, Inc.</a>
+        </p>
+		<p style="margin-top: 7px; line-height: 12px;">
+			NBA and NBA member team trademarks, logos, identifications, statistics and<br>
+				game-action photographs, video and audio are the exclusive property of NBA<br>
+					Properties, Inc. and may not be used without the prior written consent of<br>
+						NBA Properties, Inc. ©2011 NBA Properties, Inc. All rights reserved.<br>
 
-<!--CSM TRACK END-->
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-var pageTracker = _gat._getTracker("UA-188975-28");
-pageTracker._initData();
-pageTracker._trackPageview();
-</script>
-	
+        </p>
+        <span class="clearBoth">
+            <!-- do not remove -->
+        </span>
+        </div>
+        <!-- /#footer -->
 
-</body></html>
+
+		
+		<script type="text/javascript">
+			var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+			document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+		</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+		<script type="text/javascript">
+			var pageTracker = _gat._getTracker("UA-188975-28");
+			pageTracker._initData();
+			pageTracker._trackPageview();
+		</script>
+
+        <!-- /#footer -->
+
+    </div>
+    <!-- /#wrapper -->
+</div>
+
+        
+    
+
+
+
+
+                                 <div id="ui-datepicker-div" class="ui-datepicker ui-widget ui-widget-content ui-helper-clearfix ui-corner-all ui-helper-hidden-accessible"></div></body></html>
