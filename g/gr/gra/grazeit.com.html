@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the grazeit.com privacy policy that was archived on 2010-12-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101203165937id_/http%3A//www.grazeit.com/disclaimer/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the grazeit.com privacy policy that was archived on 2011-06-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110605072925id_/http%3A//www.grazeit.com/disclaimer/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 			<title>GRAZEit privacy policy</title>
@@ -10,7 +10,7 @@
 		<link href="/css/common.css" type="text/css" rel="stylesheet" media="screen">
 		<link href="/css/lightbox.css" type="text/css" rel="stylesheet" media="screen">
 		<script type="text/javascript" src="/js/mootools-1.2-core-yc.js"></script>
-		<script type="text/javascript" src="/js/common.js?v=1.0.0.0"></script>
+		<script type="text/javascript" src="/js/common.js?v=1.0.0.1"></script>
 		<script type="text/javascript" src="/js/lightbox.js"></script>
 		<!--[if lt IE 7]>
 		<script defer type="text/javascript" src="/js/ie6fixes.js"></script>
@@ -20,53 +20,33 @@
 
 <body>
 	
-
 		<div id="FooterBackground">
 			<div id="Header">
-				<div id="HeaderContent">
-					<div id="QuickUrlAccessTab" onclick="slideQuickUrl();">Quick URL Access</div>
-					<div id="HeaderInsides">
-						<a href="/home/" id="homelink"><img src="/images/grazeit_logo.gif" alt="grazeit Homepage"></a>
-
-						<div id="UserActions">
-							<p>
-								
-									<strong>Hey there!</strong>
-								
-								<br>
-								
-									<span class="link" onclick="openLBLogin();">Login</span> | <span class="link" onclick="openLBRegister('','');">Sign up</span>
-								
-							</p>
-							<div class="SpreadSearch">
-						
-								<span class="link" id="SpreadButton" onclick="openLBLogin();">Create a graze</span>
-						
-								<form id="Search" action="/search/" method="get">
-									<div class="txt txt_color"><input type="text" id="q" name="q" value="search..." onfocus="hideSearchText(this, 'search...');" onblur="hideSearchText(this, 'search...');"></div>
-									<input type="submit" class="btn" value="">
-									<p class="advanced"><span class="link" id="AdvancedTxt" onclick="openAdvancedSearch();">Advanced search options</span></p>
-								</form>
-							</div>
-						</div>
-
-						<div id="Links">
-						
-								<span class="link" onclick="openLBLogin();">Me</span>
-						
-							<a href="/download/">Download</a>
-							<a href="/grazes/">Popular</a>
-							<a href="/grazers/">Grazers</a>
-						
-								<span class="link last" onclick="openLBLogin();">Invite</span>
-						
-						</div>
-					</div>
-					<div id="AdvancedSearch">&nbsp;</div>
-
-				</div>
-				<div class="clear">&nbsp;</div>
-			</div>
+	            <div class="sidepad" id="headerlinks">
+					<div id="logolink"><a href="/home/" id="homelink"><img src="/images/grazeit.png" alt="GRAZEit homepage"></a></div>                        
+					    <div id="navi">
+                            
+						    <ul>
+							    <li class="active">
+								    <a href="/">Home</a>
+							    </li>
+							    <li>
+								    <a href="/benefits/">Benefits</a>
+							    </li>
+							    <li>
+								    <a href="/overview/">How do I GRAZEit?</a>
+							    </li>
+						    </ul>
+						    
+					    </div>
+                        
+					    <div id="ua">
+					        
+						    <a id="signin" onclick="openLBLogin();">Sign In</a>
+						    
+					    </div>			            
+    			 </div>
+		    </div>
 
 			<div id="MiddleBackground">
 				<div id="Middle">
@@ -127,22 +107,11 @@
 			<div id="Footer" style="display: block;">
 				<div>
 					<img src="/images/Footer_BG_Right.gif" alt="" class="right">
-					<span>Copyrights <b>grazeit</b> 2010 <a href="/disclaimer/terms/">Terms of service</a> <a href="/disclaimer/privacy/">Privacy Policy</a></span>
+					<span>Copyrights <b>grazeit</b> 2011 <a href="/disclaimer/terms/">Terms of service</a> <a href="/disclaimer/privacy/">Privacy Policy</a></span>
 					<img src="/images/Footer_BG_Left.gif" alt="" class="left">
 
-					<a href="/about/">About GRAZEit</a> | <a href="http://blog.grazeit.com/">Blog</a> | <a href="/about/traffic/">Draw Traffic</a> | <a href="/about/spread/">Tips for clicks</a> | <a href="/categories/">Categories</a> | <a href="/faq/">FAQs</a> | <a href="/about/contact/">Contact</a>
+					<a href="/about/">About GRAZEit</a> | <a href="http://blog.grazeit.com/">Blog</a> | <a href="/categories/">Categories</a> | <a href="/grazes/">Popular</a> | <a href="/overview/">Overview</a> | <a href="/benefits/">Benefits</a> | <a href="/about/contact/">Contact</a>
 				</div>
-			</div>
-		</div>
-		<div id="QuickUrlAccess" style="top: -56px;">
-			<div class="quacontent">
-				<a class="popular" href="/pages/">Hottest pages today</a>
-				<div class="desc">If you have the <a href="/download/">add-on</a> installed - just go to the page and watch the GRAZEit snippet.</div>
-				<div class="inputbg">
-					<input type="text" id="txtQUA" onkeyup="var e = e || event; loadQUAResults(e, this.value);" onkeydown="var e = e || event; scrollQUAResults(e);" value="http://www.example.com/" onfocus="hideSearchText(this, 'http://www.example.com/');" onblur="hideSearchText(this, 'http://www.example.com/');">
-					<div id="QUAResults">&nbsp;</div>
-				</div>
-				<label for="txtQUA">Show grazes spread on this page:</label>
 			</div>
 		</div>
 		<script type="text/javascript">
@@ -153,18 +122,6 @@ document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.
 var pageTracker = _gat._getTracker("UA-5776545-1");
 pageTracker._setDomainName("www.grazeit.com");
 pageTracker._trackPageview();
-
-try
-{
-	if(aGrazeImpressions)
-	{
-		for(var iGraze=0; iGraze<aGrazeImpressions.length; iGraze++)
-		{
-			pageTracker._trackEvent('Impressions', 'imp_gid_'+aGrazeImpressions[iGraze][0], 'imp_spid_'+aGrazeImpressions[iGraze][1], 0);
-		}
-	}
-}
-catch(e) {}
 </script>
 
 </body></html>
