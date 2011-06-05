@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the mybobs.com privacy policy that was archived on 2010-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100203231929id_/http%3A//www.mybobs.com/about/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mybobs.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605193513id_/http%3A//www.mybobs.com/about/privacy_policy) for the most accurate reproduction.*
 
-# MyBob's Privacy Policy
-
-Join My Bob’s Online Club to be the first to hear about some Untouchable deals, new store openings and other announcements. I may even give you a sneak preview of new Untouchable deals BEFORE I release them over the airwaves.
-
-* * *
-
-Can Bob’s deliver furniture to your home? Enter your zip code to see if we deliver to your area:
+# Privacy Policy
 
 * * *
 
@@ -44,6 +38,6 @@ We take precautions to protect your information. When you submit sensitive infor
 
 Wherever we collect sensitive information (such as credit card data), that information is encrypted and transmitted to us in a secure way. You can verify this by looking for a closed lock icon at the bottom of your web browser, or looking for "https" at the beginning of the address of the web page.
 
-While we use encryption to protect sensitive information transmitted online, we also protect your information offline. Only employees who need the information to perform a specific job (for example, billing or customer service) are granted access to personally identifiable information. The computers/servers in which we store personally identifiable information are kept in a secure environment. 
+While we use encryption to protect sensitive information transmitted online, we also protect your information offline. Only employees who need the information to perform a specific job (for example, billing or customer service) are granted access to personally identifiable information. The computers/servers in which we store personally identifiable information are kept in a secure environment.
 
 If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone at 1-800-723-BOBS or via email.
