@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthpartners.com privacy policy that was archived on 2010-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101103020214id_/http%3A//www.healthpartners.com/portal/208.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthpartners.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605102939id_/http%3A//www.healthpartners.com/portal/208.html) for the most accurate reproduction.*
 
 # HealthPartners.com - Our Privacy Policy
 
