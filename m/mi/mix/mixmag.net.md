@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mixmag.net privacy policy that was archived on 2010-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100921212621id_/http%3A//www.mixmag.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mixmag.net privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605192824id_/http%3A//www.mixmag.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy :: Mixmag
 
