@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the thenatureanimals.com privacy policy that was archived on 2010-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100925065317id_/http%3A//www.thenatureanimals.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thenatureanimals.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605220526id_/http%3A//www.thenatureanimals.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | The Nature Animals
 
-**The Naturea Animals** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site.
+**The Nature Animals** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site.
 
 **Third Party Advertising**
 
