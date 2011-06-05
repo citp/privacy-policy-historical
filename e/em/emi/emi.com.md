@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the emi.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229225935id_/http%3A//www.emimusic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emi.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605053321id_/http%3A//www.emimusic.com/privacy) for the most accurate reproduction.*
 
 # Privacy | EMI Music
 
-**Last Updated 23 September 2010**
+**Last Updated 7 February 2011**
 
-This is the Privacy Policy of EMI Group Limited and its subsidiary companies (collectively “EMI”, “we”, “us”), which applies to this website (the “Website”).  A full list of the EMI group companies that may jointly use personal data about you pursuant to this policy is available [to download here](http://www.emimusic.com/wp-content/uploads/2010/10/List-of-EMI-Group-Companies.pdf).  EMI Group Limited is the entity responsible for the management of jointly used personal data.
+This is the Privacy Policy of EMI Group Limited and its subsidiary companies (collectively “ **EMI** ”, “ **we** ”, “ **us** ”), which applies to this website (the “ **Website** ”).  A full list of the EMI group companies that may jointly use personal data about you pursuant to this policy is available at [http://www.emimusic.com/d2c/emi-list-of-companies/](https://web.archive.org/d2c/emi-list-of-companies/ "/d2c/emi-list-of-companies/").
 
-In conjunction with any applicable Terms and Conditions of Use, this policy sets out the basis on which any personal data you provide will be collected, processed and stored by us. Please read it carefully. By visiting this Website you are accepting and consenting to the practices described in this Privacy Policy which may be amended from time to time.  If you use the Website after we have published such changes, you will be agreeing to be bound by those changes.  If you do not agree to be bound by this policy at any time, you should not use the Website.
+EMI Group Limited is the entity responsible for the management of jointly used personal data.
+
+In conjunction with any applicable Terms and Conditions of Use, this policy sets out the basis on which any personal data you provide will be collected, processed and stored by us. Please read it carefully. By visiting this Website you are accepting and consenting to the practices described in this Privacy Policy which may be amended from time to time.  If you use the Website after we have published such changes, you will be agreeing to be bound by those changes.  If you do not agree to be bound by this policy at any time, you should not use the Website.
 
 **Children**
 
@@ -38,7 +40,7 @@ This Privacy Policy explains the following:
   * We keep a record of any electronic correspondence you send us.  This helps us to keep track of any problems or concerns you may have had with our Website or services.
 
 
-  * If retail opportunities are provided, when you place an order, a third party payment processor will collect a credit card number or other payment account number. This record will be stored and processed in the United Kingdom and other countries (see further below under “How we store data about you” and “How we use personal data about you”).
+  * If retail opportunities are provided, when you place an order, we may collect a credit card number or other payment account number. This record will be stored and processed in the United Kingdom and other countries (see further below under “How we store data about you” and “How we use personal data about you”).
 
 
   * Please note that sometimes on particular web pages on the Website we will require you to provide additional personal data. When we do this we will specify further on these web pages why we are collecting this data and how we will use it.
@@ -47,7 +49,7 @@ This Privacy Policy explains the following:
 
 **Analysis Tools and our use of cookies**
 
-  * We currently use analytic companies (such as Google Analytics) to analyse how visitors use our Website and to find ways of improving it.  To do this, we use Web beacons, pixel tags, clear GIFs and cookies on the Website; these are text files that collect and log site user behaviour information including IP addresses (the number automatically assigned to your computer by your Internet Service Provider) in an anonymous form. The information collected is transmitted to the relevant analytic companies and used to compile statistical reports for us.  The information concerned is not used to track or collect any information which may be used to identify a particular individual.  All information is used and held anonymously. ** __**
+  * We currently use Google Analytics to analyse how visitors use our Website and to find ways of improving it.  To do this, we use Web beacons, pixel tags, clear GIFs and cookies on the Website; these are text files that collect and log site user behaviour information including IP addresses (the number automatically assigned to your computer by your Internet Service Provider) in an anonymous form. The information collected is transmitted to Google and used to compile statistical reports for us.  The information concerned is not used to track or collect any information which may be used to identify a particular individual.  All information is used and held anonymously. ** __**
 
 
   * We may also use cookies and other technologies to optimise your experience on the Website.  Cookies are pieces of information that a website transfers to your hard drive to store and sometimes track information about you. Cookies can be used to recognise users when they return and may help us to customise the Website for you based on your preferences.  Cookies may also be used to identify the user’s geographic location and enable us to restrict particular services to users in certain countries. Although they do identify a user’s computer, cookies do not personally identify users and passwords and credit card information are not stored in cookies.
@@ -104,17 +106,14 @@ We may also share anonymised, aggregated data, such as access statistics, with t
 
 We may use the information we collect to contact you by post, email and telephone (including automated calls, and by SMS text messages and other multimedia electronic messages such as picture messaging) so as to contact you:
 
-•     in relation to the functioning of any services you have signed up for in order to ensure that we can deliver the services to you;
+  * in relation to the functioning of any services you have signed up for in order to ensure that we can deliver the services to you;
+  * to provide you with further information;
+  * in relation to any contribution you have made to the Website, e.g. on our message boards;
+  * to invite you to participate in surveys about our services (participation is always voluntary);
+  * for marketing purposes subject to any elections that you have made in this respect;
+  * about a submission you have made to the Website, including any content you provide.
 
-•     to provide you with further information;
 
-•     in relation to any contribution you have made to the Website, e.g. on our message boards;
-
-•     to invite you to participate in surveys about our services (participation is always voluntary);
-
-•     for marketing purposes subject to any elections that you have made in this respect;
-
-•     about a submission you have made to the Website, including any content you provide.
 
 We will not send you unsolicited premium rate SMS messages (which are SMS messages you pay to receive), although your service provider may impose a charge on messages that you receive. Please check with your service provider for details.  You will be given the opportunity to opt-out of receiving such marketing information at the point when your details are collected.  All promotional information from us will come with instructions on how to opt-out from receiving further information in the future.
 
@@ -148,4 +147,4 @@ Where you contribute to the Website, we will generally only keep your content fo
 
 **Further Information; How to contact us**
 
-If you have questions about personal data relating to you, or our privacy policy, or wish to change or update data we hold about you, please contact us at [privacy@emimusic.com](mailto:privacy@emimusic.com).  To see all of the information we have about you, and to correct any inaccuracies, change your options in relation to the information you wish to receive or to cancel your registration, please write to The Data Controller, EMI Group Limited, 27 Wrights Lane, London W8 5SW. Any access request may be subject to a fee of £10 to meet our costs in providing these details.  Residents of the United States may send questions and communications regarding personal data and our privacy policy to [privacy@emimusic.com](mailto:privacy@emimusic.com).
+If you have questions about personal data relating to you, or our privacy policy, or wish to change or update data we hold about you, please contact us at [privacy@emimusic.com](mailto:privacy@emimusic.com).  To see all of the information we have about you, and to correct any inaccuracies, change your options in relation to the information you wish to receive or to cancel your registration, please write to The Data Controller, EMI Group Limited, 27 Wrights Lane, London W8 5SW.  Any access request may be subject to a fee of £10 to meet our costs in providing these details.  Residents of the United States may send questions and communications regarding personal data and our privacy policy to [privacypolicy@emimusic.com](mailto:privacypolicy@emimusic.com)
