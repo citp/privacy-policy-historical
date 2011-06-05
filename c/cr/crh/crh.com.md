@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the crh.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227194931id_/http%3A//www.crh.com/crhcorp/siteservices/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crh.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605195617id_/http%3A//www.crh.com/site-tools/privacy.aspx) for the most accurate reproduction.*
 
-# CRH - Privacy
+# Privacy - CRH
 
-**Use of Information**  
+**Use of Information**   
 Investis Limited ("we") will not collect any information about individuals, except where it is specifically and knowingly provided by them. Examples of such information are:
 
 Your name  
@@ -25,6 +25,3 @@ Any changes to this policy will be posted here.
 
 **Security**  
 Investis Limited treats all the data held with the utmost care and security. Any details you give will remain completely confidential.
-
-  
-
