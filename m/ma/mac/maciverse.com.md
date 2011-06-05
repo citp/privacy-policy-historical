@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the maciverse.com privacy policy that was archived on 2010-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101103181214id_/http%3A//www.maciverse.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maciverse.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605165012id_/http%3A//www.maciverse.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Mac Help from Maciverse
+# Privacy Policy | Maciverse
 
 **Privacy Policy for Maciverse.com**
 
@@ -23,3 +23,7 @@ Users may opt out of the use of the DART cookie by visiting the [Google ad and c
 You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security.  However, this can affect how you are able to interact with our site as well as other websites.  This could include the inability to login to services or programs, such as logging into forums or accounts.
 
 AdSense Privacy Policy Provided by  [JenSense](http://www.jensense.com/) with modifications provided by Maciverse.com
+
+##### About Dan Hinckley
+
+Dan is an experienced Mac user who converted to Apple products when they introduced them on Intel Processors. He loves helping others get more out of their devices! Subscribe to Maciverse.com to get the latest from Dan and the Maciverse Team!!
