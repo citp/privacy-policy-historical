@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rba.gov.au privacy policy that was archived on 2010-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101009041615id_/http%3A//www.rba.gov.au/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rba.gov.au privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605144036id_/http%3A//www.rba.gov.au/privacy/index.html) for the most accurate reproduction.*
 
 # RBA: Privacy Statement
 
@@ -97,13 +97,13 @@ Links to other websites are provided to help us meet your needs but the Reserve 
 
 If you provide the Reserve Bank with personal information via e-mail or any other means, your information may become part of the records of the Reserve Bank. The Reserve Bank takes all reasonable care to secure personal information and protect it against unauthorised access and misuse. If you are submitting personal or other information over the Internet please note that, while all attempts are made to ensure security of information transmitted to this site, there is a possibility that information you send could be seen by a third party while it is in transit. 
 
-Personal information from our ISP logs will only be disclosed if the Reserve Bank is required by law to do so. 
+Information from our ISP logs will only be disclosed if the Reserve Bank is required by law to do so. 
 
 ### Access to Information
 
 No attempt will be made by the Reserve Bank to identify visitors or their browsing activities except where required by law or when authorised by Reserve Bank management in connection with investigations into possible breaches of the law. 
 
-When required by law, e.g. search warrant or subpoena, personal information requested (including an inspection of our ISP logs) will be provided to law enforcement agencies, courts or regulatory bodies. 
+When required by law, e.g. search warrant or subpoena, information requested (including an inspection of our ISP logs) will be provided to law enforcement agencies, courts or regulatory bodies. 
 
 ### Amendment of Personal Information
 
@@ -133,7 +133,7 @@ AUSTRALIA
   
 ### Use and Disclosure of Information
 
-Your personal information will only be used for the purpose for which you provide it, and will not be added to a mailing list or provided to a third party unless you request that this be done. We will not disclose your personal information without your consent except where required by law or when authorised by Reserve Bank management in connection with investigations into possible breaches of the law. 
+Your personal information will only be used for the purpose for which you provide it, and will not be added to a mailing list or provided to a third party unless you request that this be done. We will not disclose your personal information without your consent except where required or authorised by law or when authorised by Reserve Bank management in connection with investigations into possible breaches of the law. 
 
 As part of the Reserve Bank’s commitment to meeting the needs of the public for information about its policies and operations, the Reserve Bank may occasionally conduct non-compulsory surveys of users of Reserve Bank information. Prior to collecting survey results, the Reserve Bank will: 
 
