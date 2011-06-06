@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the research-int.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225104730id_/http%3A//www.tnsglobal.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the research-int.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606174521id_/http%3A//www.tnsglobal.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy policy
 
