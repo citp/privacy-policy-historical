@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the unisa.edu.au privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201235958id_/http%3A//www.unisa.edu.au/footer/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unisa.edu.au privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606233129id_/http%3A//www.unisa.edu.au/footer/privacy) for the most accurate reproduction.*
 
 # Privacy statement
 
-[ < back]()
+[ < back](http://www.unisa.edu.au/blueprint/default.asp)
 
 The University of South Australia respects the privacy of your personal information by adhering to privacy laws. This page outlines how the University manages information collected through the use of its website. This information does not extend to external websites linked from the University website.
 
@@ -41,6 +41,6 @@ The network which hosts this facility has sophisticated security and publishing 
 
 ## Internal users of the UniSA computer environment
 
-The University has an onus to ensure that unacceptable behaviour does not occur on the computer systems and the policy [relating to privacy on the University's IT network](http://www.unisa.edu.au/ists/Governanceinit/Policies/pppg/protocols.asp). formalises this commitment.
+The University has an onus to ensure that unacceptable behaviour does not occur on the computer systems and the policy [relating to privacy on the University's IT network](http://www.unisa.edu.au/ists/Governanceinit/Policies/pppg/protocols.asp) formalises this commitment.
 
 top^
