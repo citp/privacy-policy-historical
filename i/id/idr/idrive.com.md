@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the idrive.com privacy policy that was archived on 2010-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100823022112id_/http%3A//www.idrive.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idrive.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606101100id_/http%3A//www.idrive.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy policy for IDrive online backup
 
@@ -22,12 +22,12 @@ You can go to your personal profile (after logging into the IDrive website) and 
 Security  
 Your Password should never be shared with anyone unless you intend to do collaborative work with others who need read/write access to your files. When we receive certain types of sensitive information such as financial information, we redirect visitors to the secure portion of our site using industry standard SSL. This site has security measures in place to protect the loss, misuse and alteration of the information under our control. The user data is password protected. 
 
-For details, do see the [Terms of the IDrive](https://web.archive.org/web/20100823022112id_/http%3A//www.idrive.com/terms.htm) service. 
+For details, do see the [Terms of the IDrive](https://web.archive.org/web/20110606101100id_/http%3A//www.idrive.com/terms.htm) service. 
 
 IDrive may use cookies for user session tracking. The cookies are used solely for identifying user sessions and do not store any personal information regarding the user.   
   
 Security and HIPAA compliance   
-IDrive assists Health care providers to be HIPAA compliant. Please refer to [HIPAA compliance of IDrive](https://web.archive.org/web/20100823022112id_/http%3A//www.idrive.com/online-backup-hipaa.htm).
+IDrive assists Health care providers to be HIPAA compliant. Please refer to [HIPAA compliance of IDrive](https://web.archive.org/web/20110606101100id_/http%3A//www.idrive.com/online-backup-hipaa.htm).
 
 Correct/Update  
 This site gives users the following options for changing and modifying information previously provided. 
