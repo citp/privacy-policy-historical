@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sendit.com privacy policy that was archived on 2010-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101217042814id_/http%3A//www.sendit.com/privacy-policy.info) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sendit.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606102959id_/http%3A//www.sendit.com/privacy-policy.info) for the most accurate reproduction.*
 
 # Privacy Policy - Sendit.com
 
