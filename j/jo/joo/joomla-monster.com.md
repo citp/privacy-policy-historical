@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joomla-monster.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230193110id_/http%3A//www.joomla-monster.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joomla-monster.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606141214id_/http%3A//www.joomla-monster.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy » Joomla-Monster.com Joomla Templates and Virtuemart themes
 
@@ -25,7 +25,7 @@ The email address you provide for order processing, may be used to send you info
  **How do we protect your information?**
 
   * We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
-  * We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required toï¿½keep the information confidential.
+  * We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
   * After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
 
   
