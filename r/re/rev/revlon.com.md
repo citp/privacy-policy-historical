@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the revlon.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124162222id_/http%3A//www.revlon.com/en/Revlon-Home/Revlon-Corporate/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revlon.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606020713id_/http%3A//www.revlon.com/Revlon-Home/Revlon-Corporate/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
