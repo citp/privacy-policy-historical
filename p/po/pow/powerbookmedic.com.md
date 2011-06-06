@@ -1,10 +1,9 @@
-> *The following text is extracted and transformed from the powerbookmedic.com privacy policy that was archived on 2008-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081011153603id_/http%3A//www.powerbookmedic.com/Privacy-p-16.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powerbookmedic.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606125024id_/http%3A//www.powerbookmedic.com/Privacy-p-16.html) for the most accurate reproduction.*
 
 # Privacy
 
-|  |   
----  
-  
+| 
+
 At Powerbookmedic.com, we understand it is important to protect the privacy of our customers and guests who visit our website ("the Site") or use e-mail to communicate with us. We know that it takes a great deal of trust on your part to shop with us online and we take that trust very seriously and make it our highest priority to ensure the security and confidentiality of your personal information you provide us.
 
 This Privacy Statement describes our policies and practices for the Site and e-mail communications in the areas of: Notice, Consent, Access, Security, and Enforcement.
@@ -35,8 +34,8 @@ This Privacy Statement describes our policies and practices for the Site and e-m
 
 **_Collected Information._** Powerbookmedic.com. may collect information from you in several different ways on the Site including the following:
 
-  * **Online Ordering and Account Registration**. In order to process orders for our products that you place with us, we will collect Personal Information in order to process appropriate charges to you. We may also establish individual user accounts on the Site to improve service and make special offers to you. During account registration and or online ordering we may collect such Personal Information as your name, address, telephone number, e-mail address, credit card number, expiration date, and billing and shipping information as necessary.  We may, at our discretion, edit your information entered into our database in order to process your order more efficiently and for administrative purposes.  However, this process does not carry further funtions. 
-  * **Referral Information**. The Site may include a referral service whereby you may provide information on other persons or entities (such as name and email address) in order to inform them about the Site and our products. If you provide such referral information,  Powerbookmedic.com. may send email messages to the referred party inviting them to visit the Site, or to otherwise inform them about our products. The referred party may contact Powerbookmedic.com. at [sales@powerbookmedic.com ](mailto:sales@powerbookmedic.com)to request the removal of their information from the Powerbookmedic.com. database. 
+  * **Online Ordering and Account Registration**. In order to process orders for our products that you place with us, we will collect Personal Information in order to process appropriate charges to you. We may also establish individual user accounts on the Site to improve service and make special offers to you. During account registration and or online ordering we may collect such Personal Information as your name, address, telephone number, e-mail address, credit card number, expiration date, and billing and shipping information as necessary.� We may, at our discretion, edit your information entered into our database in order to process your order more efficiently and for administrative purposes.� However, this process does not carry further functions. 
+  * **Referral Information**. The Site may include a referral service whereby you may provide information on other persons or entities (such as name and email address) in order to inform them about the Site and our products. If you provide such referral information,� Powerbookmedic.com. may send email messages to the referred party inviting them to visit the Site, or to otherwise inform them about our products. The referred party may contact Powerbookmedic.com. at [support@powerbookmedic.com ](mailto:support@powerbookmedic.com)to request the removal of their information from the Powerbookmedic.com. database. 
   * **Site Usage**. Powerbookmedic.com. may monitor your activities, preferences, and transactional data (such as your IP address) relating to your use of the Site and/or Services and log this information. This information may be used to diagnose Site technical problems, or problems with your account. 
   * **Cookies**. Cookies are data files that are written onto your computer by a website, and stay there unless removed by you. Cookies enable us to recognize your computer when you revisit the Site, and recall your Site preferences to enhance your experience in using the Site. We do not use cookies to collect or use any information about your visits to other websites and do not knowingly allow any third party (other than our affiliates) to create cookies or otherwise collect any information from our Site. Consult your browser Help menu to learn more about how you can configure your browser software to notify you when your computer receives a new cookie. Note that you may also be able to configure your browser to disable the creation of cookies entirely (although your full interactive use of the Site may be adversely impacted if you do this). 
   * **Third Party Sources**. To better serve you, Powerbookmedic.com. may supplement the information received from you with information from 3rd party sources. To enhance its ability to tailor the Site to your preferences, Powerbookmedic.com. may combine habit data with similar data from its business or advertising partners, to create more personalized user profiles.
@@ -59,7 +58,7 @@ Powerbookmedic.com. takes commercially reasonable steps to protect the security 
 
 **4\. Enforcement**
 
-If for some reason you believe Powerbookmedic.com. has not adhered to the principles of this Privacy Statement, please notify us by e-mail at [sales@powerbookmedic.com](mailto:sales@powerbookmedic.com), and we will do our best to determine and correct the problem promptly.
+If for some reason you believe Powerbookmedic.com. has not adhered to the principles of this Privacy Statement, please notify us by e-mail at [support@powerbookmedic.com](mailto:support@powerbookmedic.com), and we will do our best to determine and correct the problem promptly.
 
 **5\. Additional Information**
 
@@ -78,8 +77,5 @@ If for some reason you believe Powerbookmedic.com. has not adhered to the princi
 **_Notification of Privacy Statement Changes._** Notice of any changes to this Privacy Statement will be posted on the Powerbookmedic.com. homepage so that you can always be aware of what information Powerbookmedic.com. collects, how it is used, and under what circumstances, if any, it will be disclosed. We reserve the right to change this Privacy Policy at any time, and it is your responsibility to visit this page and to learn of our revised Privacy Policy. At our option, we also may send e-mail notices and reminders to you concerning this Privacy Policy from time to time, but you should check this website frequently for any recent changes.
 
 PowerbookMedic.com uses pixels, or transparent GIF files, to help manage online advertising. These GIF files are provided by our ad management partner, DoubleClick. These files enable DoubleClick to recognize a unique cookie on your Web browser, which in turn enables us to learn which advertisements bring users to our website. The cookie was placed by us, or by another advertiser who works with DoubleClick. With both cookies and Spotlight technology, the information that we collect and share is anonymous and not personally identifiable. It does not contain your name, address, telephone number, or email address. For more information about DoubleClick, including information about how to opt out of these technologies, go to[http://www.doubleclick.net/us/corporate/privacy].   
-  
-   
-  
   
  
