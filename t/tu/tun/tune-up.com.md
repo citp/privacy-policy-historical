@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tune-up.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125102334id_/http%3A//www.tune-up.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tune-up.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606152714id_/http%3A//www.tune-up.com/company/privacy) for the most accurate reproduction.*
 
 # TuneUp America - Company - Privacy policy
 
