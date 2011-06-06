@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dealslist.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222010921id_/http%3A//www.dealslist.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealslist.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606053948id_/http%3A//www.dealslist.com/privacy.php) for the most accurate reproduction.*
 
 # 
 
@@ -14,5 +14,7 @@ For each visitor to our Web page, our Web server automatically recognizes only t
 With respect to cookies: We do not set any cookies. If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address. We collect IP addresses for the purpose of system administration and for studying how our visitors use the site. With these information, we can further improve our service to you. 
 
 When you click on links and/or ad banners that take you to third-party web sites, you will be subject to the third parties' privacy policies. While we support the protection of privacy on the Internet, Dealslist.com cannot be responsible for the actions of third parties. We encourage you to read the posted privacy statement whenever interacting with any web site. 
+
+We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit networkadvertising.org.
 
 If you feel that this site is not following its stated information policy, you may contact us at the above address. 
