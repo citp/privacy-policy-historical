@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the videospider.tv privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220042430id_/http%3A//www.videospider.tv/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videospider.tv privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606114945id_/http%3A//www.videospider.tv/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Video Spider.tv
 
