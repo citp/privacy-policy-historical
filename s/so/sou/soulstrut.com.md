@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the soulstrut.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206161713id_/http%3A//www.soulstrut.com/index.php/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soulstrut.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606062225id_/http%3A//www.soulstrut.com/index.php/privacy) for the most accurate reproduction.*
 
-# User Driven Community for the Discerning DJ, Musician, and Collector | Soul Strut
+# Today's DJ, Musician, and Collector | Soul Strut
 
 ## Privacy Policy
 
@@ -44,4 +44,4 @@ A cookie is a string of information that a website stores on a visitors computer
 
 Although most changes are likely to be minor, Soul Strut may change its Privacy Policy from time to time, and in Soul Struts sole discretion. Soul Strut encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
 
-This Privacy Policy was derived from Wordpress's version which is available under a Creative Commons Sharealike license.
+This Privacy Policy was derived from Wordpress’s version which is available under a Creative Commons Sharealike license.
