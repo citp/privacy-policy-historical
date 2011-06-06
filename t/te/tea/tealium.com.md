@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tealium.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122092916id_/http%3A//www.tealium.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tealium.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606125209id_/http%3A//www.tealium.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Tealium
+# Privacy Policy
 
 This privacy policy addresses Tealium’s (hereafter referred to as “the Company”) current practices and policies with regard to data collected through this web site. The term “personal data” refers to personally identifiable information about you, such as your name, mailing address, e-mail address, telephone number, and any other information that identifies you personally.
 
@@ -28,13 +28,7 @@ This technology does not identify you personally. It simply enables us to compil
 
 ## Cookies
 
-In order to collect the anonymous data described in the preceding paragraph, the Company uses “cookies”. Cookies are small pieces of data or data files, which are sent by a web site to your browser and stored on your computer. They are used to understand general traffic patterns on our web site. The information stored in the cookies is only used for statistical tracking purposes and not for individual identification. Cookies do not damage your computer. In order for certain applications on the Company’s websites to function properly, if at all it is necessary for your computer to accept cookies. You can set your browser to notify you when you receive a cookie. This enables you to decide if you want to accept it or not.
-
-## Tealium Social Media
-
-We also use JavaScript that allows us to determine if you've been to social media sites such as blogs, news articles, videos, and other similar pages that mention our brand. The information helps us measure the effectiveness of social media and online PR. We do not collect any personally identifiable information and all information is at the aggregate level. If you'd like to opt out of this service, please click the opt-out link.
-
-If you've already opted out of this service and would like to opt back in, you may opt back in here.
+In order to collect the anonymous data described in the preceding paragraph, the Company uses “cookies”. Cookies are small pieces of data or data files, which are sent by a web site to your browser and stored on your computer. They are used to understand general traffic patterns on our web site. The information stored in the cookies is only used for statistical tracking purposes and not for individual identification. Cookies do not damage your computer. In order for certain applications on the Company’s web sites to function properly, if at all it is necessary for your computer to accept cookies. You can set your browser to notify you when you receive a cookie. This enables you to decide if you want to accept it or not.
 
 ## Children
 
@@ -42,7 +36,7 @@ The Company does not knowingly collect personal data from children under the age
 
 ## Link to Other Sites
 
-This privacy policy applies to this website and all websites operated by the Company. This site contains hyperlinks to web sites that are not operated by the Company. These hyperlinks are provided for your reference and convenience only and do not imply any endorsement of the activities of these third-party web sites or any association with their operators. The Company does not control these web sites and is not responsible for their data practices or terms of service. We urge you to review the privacy policy and terms of service posted on any site you visit before using the site or providing any personal data about yourself.
+This privacy policy applies to this web site and all web sites operated by the Company. This site contains hyperlinks to web sites that are not operated by the Company. These hyperlinks are provided for your reference and convenience only and do not imply any endorsement of the activities of these third-party web sites or any association with their operators. The Company does not control these web sites and is not responsible for their data practices or terms of service. We urge you to review the privacy policy and terms of service posted on any site you visit before using the site or providing any personal data about yourself.
 
 ## Governing Law
 
@@ -52,4 +46,4 @@ This privacy policy forms part of our web site Terms of Use and as such shall be
 
 If you have any questions about this privacy policy or concerns about the way the Company uses personal data, please contact us.
 
-This policy was last updated on March 22, 2010.
+This policy was last updated on October 22, 2010.
