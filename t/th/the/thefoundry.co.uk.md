@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thefoundry.co.uk privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203033941id_/http%3A//www.thefoundry.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefoundry.co.uk privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606072459id_/http%3A//www.thefoundry.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | The Foundry
 
@@ -80,8 +80,8 @@ If you have any other queries relating to your privacy and the use of your perso
 Jonathan Barson   
 Chief Operating Officer   
 The Foundry Visionmongers Ltd   
-1 Wardour Street   
-London   
-W1D 6PA   
-England  
+6th Floor   
+48 Leicester Square   
+London WC2H 7LT   
+United Kingdom  
 [info@thefoundry.co.uk](mailto:info@thefoundry.co.uk)
