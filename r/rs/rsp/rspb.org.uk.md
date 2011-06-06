@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the rspb.org.uk privacy policy that was archived on 2009-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090927003746id_/http%3A//www.rspb.org.uk/help/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rspb.org.uk privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606044700id_/http%3A//www.rspb.org.uk/help/privacy.aspx) for the most accurate reproduction.*
 
 # The RSPB: About our site: Privacy and security
 
-[](https://web.archive.org/web/20090927003746id_/http%3A//www.rspb.org.uk/help/privacy.asp?view=print)
+[Print](https://web.archive.org/help/privacy.aspx?view=print)
 
 This statement applies to:
 
@@ -44,15 +44,15 @@ Where other companies are used to capture data or undertake fulfilment services 
 
 By providing personal data you consent to its processing as described in this Privacy Policy. The first time you are asked to submit your personal details you will see the following notice:
 
-We respect your privacy and will not sell your personal data to any third party.
-
-The RSPB and RSPB Sales Ltd will use your details to tell you about our conservation and fundraising; to run your membership; to conduct analysis and to contact you for research purposes. If you do not wish to receive marketing information in the following ways, please tick the relevant box:
-
-[ ] Mail   [ ] Telephone   [ ] E-mail   [ ] Text
-
-For further information on the full range of our activities and your privacy choices, please see our Privacy Policy or contact Supporter Services on tel: 01767 693680.
-
-By submitting this registration form, you will be indicating your consent to receiving marketing messages from us UNLESS you have indicated an objection to receiving such messages by ticking the appropriate box.
+> We respect your privacy and will not sell your personal data to any third party.
+> 
+> The RSPB and RSPB Sales Ltd will use your details to tell you about our conservation and fundraising; to run your membership; to conduct analysis and to contact you for research purposes. If you do not wish to receive marketing information in the following ways, please tick the relevant box:
+> 
+> [ ] Mail   [ ] Telephone   [ ] E-mail   [ ] Text
+> 
+> For further information on the full range of our activities and your privacy choices, please see our Privacy Policy or contact Supporter Services on tel: 01767 693680.
+> 
+> By submitting this registration form, you will be indicating your consent to receiving marketing messages from us UNLESS you have indicated an objection to receiving such messages by ticking the appropriate box.
 
 ### Users aged under 18
 
