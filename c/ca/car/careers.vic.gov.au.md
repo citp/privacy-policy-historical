@@ -1,78 +1,49 @@
-> *The following text is extracted and transformed from the careers.vic.gov.au privacy policy that was archived on 2010-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100608001021id_/http%3A//www.careers.vic.gov.au/CA256D160006CABE/0/859A5F2B1235F914CA256F72007E78AD%3FOpenDocument) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careers.vic.gov.au privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606231610id_/http%3A//www.careers.vic.gov.au/info/privacy-policy) for the most accurate reproduction.*
 
-# Careers with Victorian Government Australia : Privacy Statement
+# Privacy Policy - Careers.vic.gov.au
 
-[Home](https://web.archive.org/CA256D160006CABE/0/AADE7CDE200130E6C125703C00464FF3?OpenDocument "Home") /Privacy Statement
+## Privacy Policy
 
-**Government's Privacy Statement**
+> Government's Privacy Statement 
 
-The Victorian Government and our service providers value the privacy of every individual's personal information and health information. 
+The careers.vic.gov.au website (careers website) provides access to the Victorian Government's online recruitment service.  It streamlines the recruitment process, making it easier for you to apply for a job with the Victorian Government.
 
-We are committed to protecting the information we collect and use and comply with our obligations under he _Information Privacy Act 2000_ and the _Health Records Act 2001._
+**What you should know**
 
-Protecting your privacy and your personal and health information is an important aspect of the way we create, organise and implement our activities on-line and off-line. 
+The eRecruitment process is designed to protect the privacy of you personal information.  This Privacy Collection Notice provides you with an account of the ways in which your personal information is collected and handled within the eRecruitment system.  This includes any personal information you provide when: 
 
-**Collecting Personal Information**
+  * Registering for an account with the careers website 
 
-You can access this website homepage and browse our site without disclosing personal information. The Victorian Government will only record your email address and/or contact details if you send our site a message. 
+  * Creating a candidate profile 
 
-The personal information we collect includes: 
+  * Submitting a job application 
 
-•  The content of any electronic forms you submit via the website, requesting us to provide services, information or take actions  
-•  Information submitted if you take part in an online survey  
-•  Any messages or comments you submit to email addresses displayed on this website, which may include personal information such as name, email address and telephone number. 
+  * Registering to receive job email alerts 
 
-The information is collected for the purposes of responding to the matters raised in your correspondence. 
 
-The Victorian Government also collects statistics to assist in making the site more usable. We do this using software techniques such as clickstream data, cookies and web beacons. For an explanation of how these techniques are used on the website, see 'Statistical Collection Methods' below. These statistics may qualify as personal information under the _Information Privacy Act 2000_ , however, they are not used to identify individual users of the website. For example, we do not collect names and email addresses. 
 
-**Using and Disclosing Information**
 
-We will only use personal and health information provided for the purposes for which it was collected. 
+Providing you with notice about the collection and handling of your personal information is a requirement under the Victorian _Information Privacy Act 2000.  _
 
-We will ensure that your personal and health information will not be disclosed to other State institutions and authorities except if required by law or other regulation. 
+Your personal information is collected for recruitment and workforce planning purposes within the Victorian Government.  Recruitment purposes include considering and responding to your job applications, providing you with information about prospective jobs or enabling you to receive relevant job alerts. 
 
-When you provide the Victorian Government with personal and health information about other individuals, we rely on you to make them aware that such information will or may be provided to the Government, the types of third parties the Government may provide it to, the relevant purposes that the Government and such third parties will use it for, and how they can access it. 
+Recruitment information may also be used for workforce planning purposes.  This involves HRX and the Victorian Government departments/agencies generating activity analysis reports and performance analytics.  These reports do not contain any identifying personal information.  Otherwise, your personal information may only be used and disclosed as permitted under the  _Information Privacy Act 2000.  _
 
-We have implemented technology and security policies, rules and measures to protect the personal information that we have under our control. However, you should be aware that there are risks in transmitting information across the Internet. So while we strive to protect such information, we cannot ensure or warrant the security of any information transmitted to us online and individuals do so at their own risk. If you are concerned about conveying sensitive material to us over the Internet, you might prefer to contact us by telephone or mail. 
+**Is online recruitment secure?**
 
-Once any personal information comes into our possession, we will take reasonable steps to protect that information from misuse and loss and from unauthorised access, modification and disclosure. We will remove personal information from our system where it is no longer required, except where archiving is required and in compliance with the _Public Records Act 1973._
+From the moment your information is submitted to the careers website it is subject to a range of rigorous secruity protections including encryption, firewalls and auditing and monitoring of access to the eRecruitment system.  All internet traffic is subject to encryption. 
 
-**Statistical Collection Methods**
+**Access to your own information**
 
-The website, through our web monitoring service provider, uses clickstream data, cookies and web beacons to provide us with information to assist in making the site more useable, as outlined below. 
+You may access your own information and update your details via your eRecruitment account at any time.  Once you have submitted a job application it is not possible to amend the application itself.  If you would like to edit an application please contact the relevant hiring department to change details within your application.  
 
-**Clickstream Data**
+For enquiries relating to privacy issues at careers.vic.gov.au please contact 
 
-Clickstream data refers to visitor logs and statistics that provide useful information about users' online experience without identifying individuals. Typical clickstream data collected includes:  
-\- A visitor's computer address (i.e. Internet Protocol (IP) address) and relevant domains  
-\- Times and dates of site visits  
-\- Pages accessed (including most visited and least visited) and files downloaded  
-\- Browsers and operating systems used by visitors 
+Privacy Officer
 
-This website uses clickstream data purely for statistical purposes (such as the most popular searches and the times of the day that the website is used most and least) without identifying individual users. 
-
-**Cookies**
-
-A cookie is a block of data that is shared between a web server and a user's browser. Cookies may give the server information about a computer's identity and website visiting patterns and preferences. The Victorian Government website does not use cookies to identify individual users. 
-
-**Web beacons**
-
-A web beacon is a technology that records web page usage statistics. The website uses web beacons to collect clickstream data, but does not use beacons to identify individual users. 
-
-**Gaining access to personal information**
-
-Should you wish to gain access to, or correction of, your personal information held by the Victorian Government, you may contact the person within the Government who holds the information, or else, you should contact the Privacy Officer. 
-
-For enquiries relating to privacy issues at careers.vic.gov.au contact: 
-
-Privacy Officer  
+  
 State Services Authority  
-1 Treasury Place  
-Melbourne VIC 3002  
+3 Treasury Place  
+Melbourne 3000 VIC  
 Email: [privacy@ssa.vic.gov.au](mailto:privacy@ssa.vic.gov.au)  
-Tel: 9651- 1321 
-
-**Please note:** This Privacy Statement does not extend beyond this website. When linking to other sites from this website, we recommend that you read the privacy statement of that site to familiarise yourself with its privacy principles. 
-
-© State Services Authority 2005 
+Telephone: 03 9651- 5309
