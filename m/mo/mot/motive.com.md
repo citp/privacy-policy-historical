@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the motive.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206003122id_/http%3A//www.alcatel-lucent.com/wps/portal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motive.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606065729id_/http%3A//www.alcatel-lucent.com/wps/portal/privacy) for the most accurate reproduction.*
 
 # Privacy
 
 **Our Commitment to Privacy and Protection of Your Personal Data**
 
-Compagnie Financière Alcatel-Lucent (CFAL), a wholly owned subsidiary of Alcatel-Lucent, and all Alcatel-Lucent legal entities (collectively “Alcatel-Lucent”) recognize that our employees, and the individuals who represent companies with whom we conduct business, value their privacy. However, in order to conduct a global business in this increasingly electronic economy, the collection of the personal data of individuals is often necessary. We respect your right to privacy and are committed to protecting your personal data. It is our goal to balance the benefits of e-commerce with your right, as an individual, to prevent the misuse of your personal data.
+Alcatel-Lucent International, a wholly owned subsidiary of Alcatel-Lucent, and all Alcatel-Lucent legal entities (collectively “Alcatel-Lucent”) recognize that our employees, and the individuals who represent companies with whom we conduct business, value their privacy. However, in order to conduct a global business in this increasingly electronic economy, the collection of the personal data of individuals is often necessary. We respect your right to privacy and are committed to protecting your personal data. It is our goal to balance the benefits of e-commerce with your right, as an individual, to prevent the misuse of your personal data.
 
 **What Is Personal Data**
 
-Personal data means any information that, when used alone or combined with other data, may be 
-
-used to identify an individual. This includes, but is not limited to, an individual’s first and last name, e-mail address, mailing and/or residential addresses, telephone number, title, birth date, gender, occupation, customer contact information and/or other personal information that may be required in order for us to provide a service you request, or may have requested, at our web sites.
+Personal data means any information that, when used alone or combined with other data, may be used to identify an individual. This includes, but is not limited to, an individual’s first and last name, e-mail address, mailing and/or residential addresses, telephone number, title, birth date, gender, occupation, customer contact information and/or other personal information that may be required in order for us to provide a service you request, or may have requested, at our web sites.
 
 **Compliance With Laws**
 
@@ -18,7 +16,7 @@ Alcatel-Lucent strives to comply with all applicable and known laws around the w
 
 **US Subsidiary - Safe Harbor Privacy Statement**
 
-For personal data of individuals that the Alcatel-Lucent US subsidiary, Alcatel-Lucent USA Inc., receives from countries covered by the European Directive 95/46/EC, Alcatel-Lucent is committed to handling such personal data in accordance with the Safe Harbor Principles. You can find the Safe Harbor certification of Alcatel-Lucent USA Inc. at: [**http://web.ita.doc.gov/safeharbor/shlist.nsf/webPages/safe+harbor+list**](http://web.ita.doc.gov/safeharbor/shlist.nsf/webPages/safe+harbor+list). For more information about the Safe Harbor Principles, please visit the U.S. Department of Commerce's web site at <http://www.export.gov/safeharbor/SH_overview.asp>.
+For personal data of individuals that the Alcatel-Lucent US subsidiary, Alcatel-Lucent USA Inc., receives from countries covered by the European Directive 95/46/EC, Alcatel-Lucent is committed to handling such personal data in accordance with the Safe Harbor Principles. Alcatel-Lucent USA Inc. complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Alcatel-Lucent USA Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Alcatel-Lucent USA Inc.’s certification, please visit <http://www.export.gov/safeharbor/>
 
 **Web Sites Covered by Our Privacy Statement**
 
@@ -68,9 +66,9 @@ We have put in place appropriate physical, electronic and managerial procedures 
 
 Please take note of the following to ensure the security of your personal data and other confidential information you may provide online:
 
-  * You should be aware that when you disclose personal data or other confidential information in discussion forums, blogs or chat rooms, such personal data or other confidential information is accessible to and collectable by others who are present or who may have access to the forum, blog or chat room.
-  * Alcatel-Lucent advises you to protect yourself against unauthorized access to your computer and disclosure of your Alcatel-Lucent password.
-  * If you believe that your password has been compromised, you should immediately change your password.
+  * You should be aware that when you disclose personal data or other confidential information in discussion forums, blogs or chat rooms, such personal data or other confidential information is accessible to and collectable by others who are present or who may have access to the forum, blog or chat room. 
+  * Alcatel-Lucent advises you to protect yourself against unauthorized access to your computer and disclosure of your Alcatel-Lucent password. 
+  * If you believe that your password has been compromised, you should immediately change your password. 
 
 
 
@@ -86,9 +84,9 @@ Alcatel-Lucent wants to ensure that any personal data you provide remains accura
 
 **Contacting Us**
 
-We value your opinions and feedback. Please [email us any questions or comments about our Global Privacy and Data Protection Web Site Policy Statement](https://web.archive.org/wps/portal/!ut/p/kcxml/04_Sj9SPykssy0xPLMnMz0vM0Y_QjzKLd4w3MfQFSZnFG8Q76kfCRIL0vfV9PfJzU_UD9AtyI8odHRUVAY9dlIY!/delta/base64xml/L0lJayEvUUd3QndJQSEvNElVRkNBISEvNl9BXzJFQi9lbl93dw!!?LMSG_CABINET=Corporate&LMSG_CONTENT_FILE=Forms/Registration/Alcatel_Lucent_Data_Privacy_Inquiry.xml), or write us at:
+We value your opinions and feedback. Please [email us any questions or comments about our Global Privacy and Data Protection Web Site Policy Statement](http://www.alcatel-lucent.com/wps/portal/!ut/p/kcxml/04_Sj9SPykssy0xPLMnMz0vM0Y_QjzKLd4w3MfQFSZnFG8Q76kfCRIL0vfV9PfJzU_UD9AtyI8odHRUVAY9dlIY!/delta/base64xml/L0lJayEvUUd3QndJQSEvNElVRkNBISEvNl9BXzJFQi9lbl93dw!!?LMSG_CABINET=Corporate&LMSG_CONTENT_FILE=Forms/Registration/Alcatel_Lucent_Data_Privacy_Inquiry.xml), or write us at:
 
-Alcatel-Lucent   
+Alcatel-Lucent  
 Chief Privacy and Data Protection Counsel - Law  
 Room 6E236  
 600 – 700 Mountain Avenue  
@@ -96,6 +94,6 @@ Murray Hill, New Jersey 07974
 
 **Complying with and Changing Our Global Privacy and Data Protection Web Site Policy Statement**
 
-The Alcatel-Lucent Global Privacy and Data Protection Web Site Policy Statement was last updated on 10 March 2009. Alcatel-Lucent utilizes the self-assessment approach to assure our continuing compliance with our Global Privacy and Data Protection Web Site Policy Statement. From time to time, Alcatel-Lucent verifies that the policy statement is accurate and in line with applicable laws, comprehensive for the information intended to be covered, prominently displayed, completely implemented, and in conformity with the U.S. Commerce Department’s Safe Harbor Principles.
+The Alcatel-Lucent Global Privacy and Data Protection Web Site Policy Statement was last updated on 31 May 2011. Alcatel-Lucent utilizes the self-assessment approach to assure our continuing compliance with our Global Privacy and Data Protection Web Site Policy Statement. From time to time, Alcatel-Lucent verifies that the policy statement is accurate and in line with applicable laws, comprehensive for the information intended to be covered, prominently displayed, completely implemented, and in conformity with the U.S. Commerce Department’s Safe Harbor Principles.
 
 Alcatel-Lucent reserves the right to make changes to this policy statement from time to time without notice to you. We recommend that all visitors and users of this web site re-visit the Alcatel-Lucent Global Privacy and Data Protection Web Site Policy Statement page occasionally to learn of any new privacy practices or changes to our policy. Your continued use of the Alcatel-Lucent web sites indicates your acknowledgement and/or acceptance of any changes to the Alcatel-Lucent Global Privacy and Data Protection Web Site Policy Statement.
