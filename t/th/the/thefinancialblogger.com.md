@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thefinancialblogger.com privacy policy that was archived on 2010-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101117014701id_/http%3A//www.thefinancialblogger.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefinancialblogger.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606174305id_/http%3A//www.thefinancialblogger.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
