@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ulsterbank.co.uk privacy policy that was archived on 2010-12-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101206123352id_/http%3A//ulsterbank.co.uk/ni/personal/privacy.ashx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ulsterbank.co.uk privacy policy that was archived on 2011-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110606161803id_/http%3A//www.ulsterbank.co.uk/ni/personal/privacy.ashx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html lang="en-gb" xml:lang="en-gb" xmlns="http://www.w3.org/1999/xhtml"><head xmlns:ext="urn:extensions">
 		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -10,9 +10,9 @@
 		<meta name="description" content="">
 		<meta name="keywords" content="">
 		<meta name="robots" content="">
-		<meta name="copyright" content="Copyright UlsterBank.com (c) 2010">
+		<meta name="copyright" content="Copyright UlsterBank.com (c) 2011">
 		<meta name="author" content="ulsterbank.com">
-		<meta name="created" content="06/12/2010 12:33:51">
+		<meta name="created" content="06/06/2011 17:18:02">
 		<meta name="mlc" content="DEFAULT/NI/PERSONAL/PRIVACY">
 		<meta name="channel" content="NI">
 		<title>Ulster Bank: Privacy</title>
@@ -79,7 +79,7 @@
 		<script type="text/javascript">omtr.tc.init();</script>
 		<noscript> </noscript>
 		<script type="text/javascript">
-						  var s_account = "rbsulsterdev";
+							  var s_account = "rbsulsternilive";
 						</script>
 		<script type="text/javascript" src="/templates/script/analytics/s_code.js">
 		</script>
@@ -88,7 +88,7 @@
 				<a name="access-navigation"> </a>
 				<div id="topMinorLinks">
 					<div id="regionIndicatorText">
-						<p>Ulster Bank Personal Banking, Northern Ireland<a href="/roi/personal.ashx" title="Switch to Republic of Ireland">(Switch to Republic of Ireland)</a></p>
+						<p>Ulster Bank Personal Banking, Northern Ireland<a href="http://www.ulsterbank.ie" title="Switch to Republic of Ireland">(Switch to Republic of Ireland)</a></p>
 					</div>
 					<div id="minorLinks">
 						<ul>
@@ -192,6 +192,9 @@
 					<ul class="dropdown" id="daily-banking">
 						<li>
 							<a href="/ni/personal/daily-banking/current-accounts.ashx" title="Click to view Daily Banking - Current accounts">Current accounts</a>
+						</li>
+						<li>
+							<a href="/ni/personal/daily-banking/debit-cards.ashx" title="Click to view Daily Banking - Debit Cards">Debit Cards</a>
 						</li>
 						<li>
 							<a href="/ni/personal/daily-banking/credit-cards.ashx" title="Click to view Daily Banking - Credit Cards">Credit Cards</a>
@@ -337,7 +340,7 @@
 			<div class="clearboth"> </div>
 			<div id="footer">
 				<ul>
-					<li id="firstFooter">© 2010</li>
+					<li id="firstFooter">© 2011</li>
 					<li>
 						<a href="/ni/personal/legal.ashx">Legal</a>
 					</li>
@@ -409,17 +412,31 @@
       
 			s.currencyCode= "GBP";
 		<!--Start of SiteCatalyst props-->
-        s.server = "REMLXSOBWS01E";
+        s.server = "REMLXSOBWS01F";
 
-        
+		if(!document.location.href.match('global/cao.ashx'))
+		{
+				
         		s.prop4 = "GLOBAL";
       		
 			var scpn = "UBNI>PERSONAL>PRIVACY";			
 		
 			s.pageName = "GLOBAL: UBNI>PERSONAL>PRIVACY"			
-					
+		
+	
+		
 		scPageNamePreTab = s.pageName;
 		
+		}
+			else
+		{		
+			var pageName =  s.getPreviousValue(s.pageName,'gpv_pn');
+			var newPageName = pageName.replace("PREAPPLY","OA");
+			newPageName = newPageName.replace("PREAPPLY","OPENACCOUNT");			
+			s.pageName = newPageName.replace("OA","PREAPPLY");
+		}
+		
+			
         splitscPageName();
         if (eventPageName)
         s.pageName += eventPageName;
@@ -429,11 +446,11 @@
 			s.prop13 = s.getPreviousValue(s.pageName,'gpv_pn');
 		}
 		
-        s.currentYear="2010"; // set year
+        s.currentYear="2011"; // set year
 		s.prop14 = scFulldate(); // Set full date
 		s.prop15= scHour(); // Set time - hour
 		s.prop16= scDay(); // Set day
-		
+				
         // Set weekday - work out weekday or weekend
         
             if (s.prop16.match("Saturday|Sunday"))
@@ -459,10 +476,11 @@
 		  s.eVar15 = s.prop15;
 		  s.eVar16 = s.prop16;
 		  s.eVar17 = s.prop17;		  
-
+	  		  
           
           campaignHandling();
 
+		
           
           var sch = (s.pageName.substring(s.pageName.indexOf(':') != -1 ? 1+s.pageName.indexOf(':') : 0));
           s.hier1 = sch.replace(/ /g,"");
@@ -476,18 +494,37 @@
               s.prop21 = ""; 
          
   
-          setEvents(scPreEvents);
-		  
-		  
-          setProduct("");
-			
-          if (s.pageType)
-          s.pageName="";
-
-          //page load time
-          s.prop26 = (new Date().getTime() - scStartTime.getTime());
 				
-          renderScImageTag();
+		  
+		if(!document.location.href.match('global/cao.ashx'))
+		{
+			setEvents(scPreEvents);
+			setProduct("");
+			if(document.location.href.match('preapply.ashx'))
+			{
+				s.getPreviousValue(s.products,'gpv_prods');
+			}
+		}
+		else
+		{
+		 try{
+				var prods =  s.getPreviousValue(s.products,'gpv_prods');
+				s.prop4 ="PREAPPLY";
+				setEvents(scPreEvents);			
+				setCaoProductEvent(prods);
+			}
+			catch(e){}
+		}	
+		
+		
+		if (s.pageType)
+          s.pageName="";
+		  
+		
+        //page load time          
+		s.prop26 = (new Date().getTime() - scStartTime.getTime());
+		
+        renderScImageTag();
       }
       catch (e){}
 
@@ -497,7 +534,7 @@
 		
 		checkEventFunctions();		
 		checkForBranchLocatorForm(val);		
-		checkForBranchLocatorFilter(val);
+		checkForBranchLocatorFilter(val);		
         scSetUpPageVars();
     }
     catch (e){}
