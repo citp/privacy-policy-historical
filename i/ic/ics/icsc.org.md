@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the icsc.org privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124021602id_/http%3A//www.icsc.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icsc.org privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606130639id_/http%3A//www.icsc.org/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy
-
-  
-
+# ICSC - International Council of Shopping Centers
 
 Your privacy is important to us. To better protect your privacy, we provide this notice explaining our information practices and the choices you can make about the way your information is collected and used. All capitalized terms not defined in this Privacy Policy shall have the meanings assigned to them in the Terms and Conditions for use of the Web Site, located at <http://www.icsc.org/terms.php>.
 
