@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snapsurveys.com privacy policy that was archived on 2010-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101115054138id_/http%3A//www.snapsurveys.com/legal/privacy-policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snapsurveys.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606113514id_/http%3A//www.snapsurveys.com/legal/privacy-policy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,13 +6,9 @@ Our Privacy Policy describes how we capture and use the information we gather ab
 
 [](http://clicktoverify.truste.com/pvr.php?page=validate&url=www.snapsurveys.com&sealid=102)
 
-Snap Surveys, Ltd  is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site www.snapsurveys.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
+Snap Surveys, Ltd has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. This privacy statement covers the Web site www.snapsurveys.com. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at privacy@snapsurveys.com. If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). 
 
-If you have questions or concerns regarding this statement, please send an email to: [privacy@snapsurveys.com](mailto:privacy@snapsurveys.com).  If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at [http://watchdog.truste.com/pvr.php?page=complaint&url](http://watchdog.truste.com/pvr.php?page=complaint&url) TRUSTe will then serve as a liaison with us to resolve your concerns.
-
-The TRUSTe program only covers information that is collected through this Web site, and **does not** cover information that may be collected through any software downloaded from this Web site.
-
-Snap Surveys, Ltd.  complies with the EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union
+Snap Surveys, Ltd.  complies with the EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union. Information regarding the E.U. Safe Harbor Framework can be found at: <http://export.gov/safeharbor>. 
 
 ### Information Collected During Registration
 
@@ -38,6 +34,11 @@ You have the option of receiving email notifications each time someone replies t
 
 If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, or delete by making the change within your account once logged in or by emailing our Customer Support at [info@snapsurveys.com](mailto:info@snapsurveys.com). We will respond to your request to access within 30 days. 
 
+### Data Retention
+
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [privacy@snapsurveys.com](mailto:privacy@snapsurveys.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.   
+
+
 ### Cookies
 
 A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies on this site. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. 
@@ -60,7 +61,7 @@ Occasionally we ask for information via online surveys from our website. Informa
 
 ### Forums/Private Messages
 
-If you use the forum or Private Messages on this Web site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums or private messages. Please note that you have the ability to hide your e-mail address within the forum section by clicking on “Board Settings” and then going to “privacy settings”.
+If you use the forum or Private Messages on this Web site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums or private messages. Please note that you have the ability to hide your e-mail address within the forum section by clicking on “Board Settings” and then going to “privacy settings”. To request removal of your personal information from our blog or community forum, contact us at [privacy@snapsurveys.com](mailto:privacy@snapsurveys.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why. 
 
 ### Polls
 
@@ -100,4 +101,4 @@ If we decide to change our privacy policy, we will post those changes to this pr
 
 We reserve the right to modify this privacy statement at any time, so please review it frequently.  If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
 
-Last Updated on 04/14/2010
+Last Updated on 03/09/2011
