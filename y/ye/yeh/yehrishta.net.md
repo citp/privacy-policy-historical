@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yehrishta.net privacy policy that was archived on 2010-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101107201917id_/http%3A//www.yehrishta.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yehrishta.net privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606224756id_/http%3A//www.yehrishta.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Yeh Rishta Kya Kehlata Hai
 
@@ -23,6 +23,6 @@ You can choose to disable or selectively turn off our cookies or third-party coo
 
 Deleting cookies does not mean you are permanently opted out of any advertising program.  Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
 
-Rating: 9.6/ **10** (8 votes cast)
+Rating: 9.7/ **10** (14 votes cast)
 
-Rating: **+4** (from 6 votes)
+Rating: **+5** (from 7 votes)
