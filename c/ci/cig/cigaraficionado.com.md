@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cigaraficionado.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127154107id_/http%3A//www.cigaraficionado.com/display/show/id/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cigaraficionado.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606095730id_/http%3A//www.cigaraficionado.com/display/show/id/privacy_policy) for the most accurate reproduction.*
 
 # | Cigar Aficionado
 
