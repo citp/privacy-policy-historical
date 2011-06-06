@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the textmarks.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121232028id_/http%3A//www.textmarks.com/front/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the textmarks.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606131357id_/http%3A//www.textmarks.com/front/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | TextMarks | SMS and Text Alerts Made Easy | SMS API
 
@@ -73,6 +73,6 @@ textmarks.com_
 
 Alternatively, you may contact us at:  
 TextMarks, Inc.  
-2235 Octavia Street  
-San Francisco, CA 94109  
+Pier 38, The Embarcadero  
+San Francisco, CA 94107  
 
