@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the agu.org privacy policy that was archived on 2010-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100706033855id_/http%3A//www.agu.org/about/governance/policies/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agu.org privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606111721id_/http%3A//www.agu.org/about/governance/policies/privacy.shtml) for the most accurate reproduction.*
 
 # AGU Privacy Policy
 
@@ -44,4 +44,4 @@ A “cookie” is a file a Web site stores in a user’s computer for future ref
 
 AGU links to other Web sites that are not controlled by AGU. A link from the AGU Web site is not an AGU endorsement for any company, organization, or individual. AGU is not responsible for the privacy practices or the content of those sites.
 
-AGU is a worldwide scientific community that advances, through unselfish cooperation in research, the understanding of Earth and space for the benefit of humanity.
+AGU galvanizes a community of Earth and space scientists that collaboratively advances and communicates science and its power to ensure a sustainable future.
