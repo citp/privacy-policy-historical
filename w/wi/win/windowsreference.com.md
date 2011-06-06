@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the windowsreference.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204012756id_/http%3A//www.windowsreference.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the windowsreference.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606210033id_/http%3A//www.windowsreference.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Windows Reference
-
-If you're new here, you may want to subscribe to Windows Reference [RSS feed](http://feeds.feedburner.com/WindowsReference) Thanks for visiting!
 
 The privacy of our visitors to windowsreference.com is important to us.
 
