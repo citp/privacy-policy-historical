@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dr.com privacy policy that was archived on 2010-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100604194952id_/http%3A//dr.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dr.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606175656id_/http%3A//www.dr.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
