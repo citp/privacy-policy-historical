@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the surfstitch.com privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119081416id_/http%3A//www.surfstitch.com/info/footer_privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surfstitch.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606091342id_/http%3A//www.surfstitch.com/info/footer_privacy_policy) for the most accurate reproduction.*
 
-# SurfStitch - Online Surf Shop | Boardshorts, Bikinis, Tees, Dresses & Surfing Gear
+# SURFSTITCH - AUSTRALIA'S #1 FOR SURF & FASHION | Boardshorts, Bikinis, Tees, Dresses & Surfing Gear
 
 [](http://www.surfstitch.com/home)
 
@@ -94,12 +94,12 @@ WHAT'S IN STORE | SHIPPING & RETURNS | HOW CAN WE HELP? | FURTHER INFORMATION
 [Mens](http://www.surfstitch.com/category/mens-clothing) | [Footwear](http://www.surfstitch.com/category/footwear) | [Gift Wrapping](http://www.surfstitch.com/info/Gift_Wrapping) | [Contact Us](http://www.surfstitch.com/info/footer_contact_us) | [Promotions](http://www.surfstitch.com/info/footer_promotions) | [Testimonials](https://web.archive.org/info/Testimonials)  
 ---|---|---|---|---|---  
 [Womens](http://www.surfstitch.com/category/womens-clothing) | [Bags](http://www.surfstitch.com/category/bags) | [Free Australian Shipping](http://www.surfstitch.com/info/Australian_Delivery) | [My Account](https://www.surfstitch.com/myAccount/myAccountLogin.jsp) | [Gift Card](http://www.surfstitch.com/gift/buyGiftCertificate.jsp) | [Affiliate Program](https://web.archive.org/info/Affiliate_Program)  
-[Kids](http://www.surfstitch.com/category/kids-clothing) | [Watches](http://www.surfstitch.com/category/watches) | [Express New Zealand Shipping](http://www.surfstitch.com/info/New_Zealand_Delivery) | [General FAQ](http://www.surfstitch.com/info/General_FAQ) | [About Us](http://www.surfstitch.com/info/footer_about_us) | [Look Book](https://web.archive.org/info/Look_book)  
+[Kids](http://www.surfstitch.com/category/kids-clothing) | [Watches](http://www.surfstitch.com/category/watches) | [Express New Zealand Shipping](http://www.surfstitch.com/info/New_Zealand_Delivery) | [General FAQ](http://www.surfstitch.com/info/General_FAQ) | [About Us](http://www.surfstitch.com/info/footer_about_us) | [Partners](https://web.archive.org/info/Partners)  
 [Accessories](http://www.surfstitch.com/category/accessories) | [Wetsuits](http://www.surfstitch.com/category/wetsuits) | [Express International Shipping](http://www.surfstitch.com/info/International_Delivery) | [Ordering FAQ](http://www.surfstitch.com/info/Ordering_FAQ) | [Terms and Conditions](http://www.surfstitch.com/info/footer_terms_and_conditions) | [Popular Searches](http://search.surfstitch.com/)  
-[Sale](http://www.surfstitch.com/category/sale) | [Surf](http://www.surfstitch.com/category/surf) | [Australian Returns](http://www.surfstitch.com/info/Australian_Returns) | [Shipping FAQ](http://www.surfstitch.com/info/Shipping_FAQ) | [Site Map](http://www.surfstitch.com/info/footer_site_map) |    
-[Brands A-Z](http://www.surfstitch.com/brand) | [Snow](http://www.surfstitch.com/category/snow) | [International Returns](http://www.surfstitch.com/info/International_Returns) | [Returns FAQ](http://www.surfstitch.com/info/Returns_FAQ) | [Privacy Policy](http://www.surfstitch.com/info/footer_privacy_policy) |    
+[Sale](http://www.surfstitch.com/category/sale) | [Surf](http://www.surfstitch.com/category/surf) | [Australian Returns](http://www.surfstitch.com/info/Australian_Returns) | [Shipping FAQ](http://www.surfstitch.com/info/Shipping_FAQ) | [Site Map](http://www.surfstitch.com/info/footer_site_map) | [This and That Magazine](http://www.surfstitch.com/info/This_And_That)  
+[Brands A-Z](http://www.surfstitch.com/brand) | [Snow](http://www.surfstitch.com/category/snow) | [International Returns](http://www.surfstitch.com/info/International_Returns) | [Returns FAQ](http://www.surfstitch.com/info/Returns_FAQ) | [Privacy Policy](http://www.surfstitch.com/info/footer_privacy_policy) | [This and That Blog](http://blog.surfstitch.com/)  
   
-Copyright SurfStitch 2010 All rights reserved
+Copyright SurfStitch 2011 All rights reserved
 
 [](http://www.verisign.com.au/ssl-certificate/)
 
