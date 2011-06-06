@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tcd.ie privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203002629id_/https%3A//www.tcd.ie/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tcd.ie privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606161732id_/https%3A//www.tcd.ie/privacy) for the most accurate reproduction.*
 
 # Privacy - Trinity College Dublin
 
