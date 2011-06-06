@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ultimaterollercoaster.com privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528153616id_/http%3A//www.ultimaterollercoaster.com/info/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultimaterollercoaster.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606183702id_/http%3A//www.ultimaterollercoaster.com/info/privacy.shtml) for the most accurate reproduction.*
 
 # Ultimate Rollercoaster | Privacy Policy
 
@@ -6,7 +6,7 @@ It is our desire at Ultimate Rollercoaster® to protect the privacy of our guest
 
 **Collection of Personal Information**
 
-You can visit the Ultimate Rollercoaster web site without revealing any personal, identifiable information. The only information collected during a normal visit is your IP address, computer operating system type and version, screen resolution, color depth, Internet browser type and version, browser size, referring URL (if any) and a record of the content you viewed, along with the date and time of those requests. During normal browsing we do not collect or store information such as your name, mailing address or email address.
+You can visit the Ultimate Rollercoaster® web site without revealing any personal, identifiable information. The only information collected during a normal visit is your IP address, computer operating system type and version, screen resolution, color depth, Internet browser type and version, browser size, referring URL (if any) and a record of the content you viewed, along with the date and time of those requests. During normal browsing we do not collect or store information such as your name, mailing address or email address.
 
 This information gathered during this usage may be used to generate reports that measure site usage activity. This information is used to improve the site experience and monitor the activity on our servers. We may also share this information with advertisers and affiliates for information purposes.
 
@@ -95,14 +95,14 @@ Should exception to our information sharing policy exist, full disclosure will b
 
 In some situations we may collect and/or store your email address. Ultimate Rollercoaster is concerned about unsolicited email, otherwise known as Spam. Therefore, it is our policy not to sell or share any email address with third parties, unless consent is given or the intended use is clearly stated at the time of collection. However we do reserve the right to use your email address for internal use.
 
-On occasion you may receive email from Ultimate Rollercoaster for informative or promotional purposes. If at any time you wish to be removed from our e-mail lists, please [Contact Us](https://web.archive.org/web/20100528153616id_/http%3A//www.ultimaterollercoaster.com/info/contact.shtml) to send your remove request. Please include the email address to be removed and if applicable a copy of the message you received. We promise to do our best to honor all remove requests.
+On occasion you may receive email from Ultimate Rollercoaster for informative or promotional purposes. If at any time you wish to be removed from our e-mail lists, please [Contact Us](https://web.archive.org/web/20110606183702id_/http%3A//www.ultimaterollercoaster.com/info/contact.shtml) to send your remove request. Please include the email address to be removed and if applicable a copy of the message you received. We promise to do our best to honor all remove requests.
 
 You may also opt out of receiving electronic messages from Ultimate Rollercoaster by contacting us via postal mail. Please send your request, including the e-mail address you are receiving messages from us to:
 
 Ultimate Rollercoaster.com  
-1100 Irvine Blvd #440  
-Tustin, CA 92782  
-714.389-3613
+101 Colorado Street #3503  
+Austin, TX 78701  
+(512) 547-3535
 
 **Hyperlinks**
 
@@ -116,6 +116,6 @@ Ultimate Rollercoaster can in no way guarantee your confidential use of this web
 
 **Questions and Contact Information**
 
-Please [Contact Us](https://web.archive.org/web/20100528153616id_/http%3A//www.ultimaterollercoaster.com/info/contact.shtml) with any questions you may have regarding our Privacy Policy.
+Please [Contact Us](https://web.archive.org/web/20110606183702id_/http%3A//www.ultimaterollercoaster.com/info/contact.shtml) with any questions you may have regarding our Privacy Policy.
 
-_Last updated: January 6, 2010_
+_Last updated: October 25, 2010_
