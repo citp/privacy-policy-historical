@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the verybest.com privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201043402id_/http%3A//www.verybest.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the verybest.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606170820id_/http%3A//www.verybest.com/info/privacy) for the most accurate reproduction.*
 
 # VERYBEST.COM • Guide To The World’s Very Best Products & Services
 
-## Privacy Policy - Last Review: March 24, 2010
+## Privacy Policy - Last Review: January 19, 2011
 
 We are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information. You are able to visit much of this website without providing any personally identifiable information. Sometimes, however, we do request personally identifiable information to provide you with the services that you request. 
 
@@ -77,4 +77,4 @@ The website contains links to other websites whose privacy policies or practices
 
 ## Updating Information
 
-If you do you not want to receive information about products or services or if you wish to access, delete or correct your information, please access your account and make the changes online. Alternatively you may contact us at privacy[AT]verybest.com or by mail at: Exceeding Ltd. P.O. Box 54337, 3723 Limassol, Cyprus 
+If you do you not want to receive information about products or services or if you wish to access, delete or correct your information, please access your account and make the changes online. Alternatively you may contact us at privacy[AT]verybest.com 
