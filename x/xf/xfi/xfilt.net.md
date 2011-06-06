@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the xfilt.net privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227081037id_/http%3A//www.xfilt.net/%3Fpage_id%3D4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xfilt.net privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606215609id_/http%3A//www.xfilt.net/%3Fpage_id%3D4) for the most accurate reproduction.*
 
 # Privacy Policy | NEWS-Many Costs
 
-**xfilt.net** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site:    xfilt.net
+**xfilt.net   **has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site:    **xfilt.net**
 
 **External Links**  
-\- This site contains links to other sites. xfilt.net  is not responsible for the privacy practices or the content of such Web sites.
+\- This site contains links to other sites.  **xfilt.net** is not responsible for the privacy practices or the content of such Web sites.
 
 **Security**  
 \- This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. E-Mail addresses are not stored on this webserver.
