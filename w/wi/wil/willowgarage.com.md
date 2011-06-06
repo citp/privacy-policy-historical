@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the willowgarage.com privacy policy that was archived on 2010-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101102162354id_/http%3A//www.willowgarage.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the willowgarage.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606020651id_/http%3A//www.willowgarage.com/pages/privacy) for the most accurate reproduction.*
 
 # Willow Garage Privacy Policy | Willow Garage
 
