@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the search.us.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226185306id_/http%3A//search.us.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the search.us.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606024827id_/http%3A//search.us.com/privacy.html) for the most accurate reproduction.*
 
 # Search.us.com
 
