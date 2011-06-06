@@ -1,164 +1,209 @@
-<!--The following is the downloaded HTML source of the rodanandfields.com privacy policy that was archived on 2009-12-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091201040602id_/http%3A//www.rodanandfields.com/RFContent.aspx%3FPageId%3D215) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rodanandfields.com privacy policy that was archived on 2011-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110606020001id_/https%3A//www.rodanandfields.com/Pages/Company/About/More/Privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_Head1"><title>
-	Privacy Policy
-</title><meta name="title" content="Rodan + Fields"><meta name="description" content="Founded in 2002, Rodan + Fields Dermatologists ® is a skincare company committed to connecting people with the products, the knowledge, the resources and the opportunities to change skin and to change lives."><link rel="image_src" href="https://www.rodanandfields.com/uploads/DocsSignature.jpg">
-    
-    <link rel="stylesheet" type="text/css" href="/Content/Corporate/Css/main.css" media="all"><link href="Content/Css/netsteps.css" rel="stylesheet" type="text/css" media="all"><link rel="stylesheet" type="text/css" href="Content/Css/sIFR-print.css" media="print"><link rel="stylesheet" type="text/css" href="Content/Css/sIFR-screen.css" media="screen"><link rel="stylesheet" type="text/css" href="Content/Css/checkout.css" media="screen">
-    
-    <!-- compliance patch for microsoft browsers -->
-    <!--[if lt IE 8]>
-    <link rel="stylesheet" type="text/css" href="Content/css/ie.css" />
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" class="cufon-active cufon-ready"><head><title>
+	Rodan + Fields
+</title><meta name="title" content="Rodan + Fields"><meta name="description" content="Founded in 2002, Rodan + Fields Dermatologists ® is a skincare company committed to connecting people with the products, the knowledge, the resources and the opportunities to change skin and to change lives."><link rel="image_src" href="https://www.rodanandfields.com/uploads/DocsSignature.jpg"><link rel="stylesheet" type="text/css" href="/Content/Css/jqModal.css"><link rel="stylesheet" type="text/css" href="/Content/Corporate/Css/main.css" media="all"><link rel="stylesheet" type="text/css" href="/Content/Css/netsteps.css" media="all"><link rel="stylesheet" type="text/css" href="/Content/Css/checkout.css" media="screen">
+	<script type="text/javascript" src="/Content/Scripts/Quotes.js"></script>
+	<script type="text/javascript" src="/Content/Scripts/jquery-1.4.2.min.js"></script>
+	<script type="text/javascript" src="/Content/Scripts/Utilities.js"></script>
+	<script type="text/javascript" src="/Content/Scripts/jqModal.js"></script>
+	<script type="text/javascript" src="/Content/Scripts/WebCallback.js"></script>
+	<script type="text/javascript" src="/Content/Scripts/slimbox2.js"></script>
+	<script type="text/javascript" src="/Content/Shared/Scripts/flowplayer-3.1.4.min.js"></script>
+	<script type="text/javascript" src="/Content/Scripts/cufon-yui.js"></script><style type="text/css">cufon{text-indent:0!important;}@media screen,projection{cufon{display:inline!important;display:inline-block!important;position:relative!important;vertical-align:middle!important;font-size:1px!important;line-height:1px!important;}cufon cufontext{display:-moz-inline-box!important;display:inline-block!important;width:0!important;height:0!important;overflow:hidden!important;text-indent:-10000in!important;}cufon canvas{position:relative!important;}}@media print{cufon{padding:0!important;}cufon canvas{display:none!important;}}</style>
+	<script type="text/javascript" src="/Content/Scripts/Trade_Gothic_LT_Std_700.font.js"></script>
+	<script type="text/javascript">
+		$(function () {
+			$('#LeftNav .Nav .SubNav li').each(function () {
+				var item = $(this);
+				if (!item.find('a').hasClass('selected'))
+					item.css('background', 'none');
+			});
+			// putting the jQuery dom objects into variables keeps jQuery from having to parse the dom multiple times
+			var password = $("#password");
+			var $loginButton = $('#loginButton');
+			$(".username").watermark("Login - Email");
+			$('.password').watermark('Password');
+
+			$('#uxGetAccountLink').hide();
+
+			password.keyup(function (e) {
+				if (e.keyCode == 13) {
+					$loginButton.click();
+				}
+			});
+
+			$loginButton.click(function (e) {
+				e.preventDefault();
+
+				$.post('/Account/Login', { username: $('#username').val(), password: $('#password').val() }, function (data) {
+					if (!data.message) {
+						window.location = window.location;
+					}
+					else
+						$('#loginError').html(data.message);
+				}, 'json');
+			});
+
+			// find out if we need to display any modal for a notice
+			$.ajax({
+				url: '/Account/GetNotices',
+				cache: false,
+				dataType: 'json',
+				success: function (results) {
+					//alert('hasPolicyNotice: ' + results.hasPolicyNotice + ', hasRenewalNotice: ' + results.hasRenewalNotice);
+					if (results.hasPolicyNotice) {
+						$('#alertsDialog').jqm({
+							ajax: '/Account/PolicyNotice',
+							modal: true
+						}).jqmShow();
+					}
+					else if (results.hasRenewalNotice) {
+						$('#alertsDialog').jqm({
+							ajax: '/Account/RenewalNotice',
+							modal: true,
+							onHide: function () {
+								$.post('/Account/RenewLater');
+							}
+						}).jqmShow();
+					}
+				}
+			});
+
+			//Add GlobalPopup Listener
+			var globalPopup = $('.globalPopup');
+			globalPopup.click(function (e) {
+				$.post('/Static/GetGlobalPopupContent', { Url: globalPopup.attr('URL') }, function (results) {
+					$('.globalPopupContent').html(results.Content);
+					$('.globalPopupWindow').jqm({ modal: false }).css('width', 500).css('height', 400).css('overflow', 'auto').jqmShow();
+				}, 'json');
+			});
+		});
+		// Session expiration handling
+		window.setTimeout('endSession();', '1140000');
+		function endSession() {
+			if (window.location.pathname.indexOf('/Shopping') > -1) {
+				redirect();
+			}
+			else if (window.location.pathname.indexOf('/Enrollment') > -1) {
+				redirect();
+			}
+			else if (window.location.pathname.indexOf('/Profiles') > -1) {
+				redirect();
+			}
+		}
+		function redirect() {
+			alert("Your session has expired. You will be redirected to the home page.");
+			url = '/EndSession.aspx';
+			document.location = url;
+		}
+		function SetPageMode(pageMode) {
+			$.post('/Edit/UpdatePageMode', { pageMode: pageMode }, function () {
+				location.reload(true);
+			});
+		}
+
+		$('#invalidContentMsg').hide();
+
+		Cufon.replace('h1');
+		Cufon.replace('h2');
+		Cufon.replace('h3');
+		Cufon.replace('h4');
+		Cufon.replace('.SubBox .caption');
+		Cufon.replace('.BagMessages .Wrap div b');
+		Cufon.replace('.OptionsHeader .floatRight h5');
+
+	</script>
+	<!-- microsoft browser detection -->
+	<!--[if IE 8]>
+    <script type="text/javascript">
+    $(function() {
+    $('body').addClass("IE8");
+    })
+    </script>
     <![endif]-->
-    <!--[if lt IE 7]>
-    <script src="/Content/Scripts/IE7.js" type="text/javascript"></script>
+	<!--[if IE 7]>
+    <script type="text/javascript">
+    $(function() {
+    $('body').addClass("IE7");
+    })
+    </script>
     <![endif]-->
-<meta name="keywords" content=""></head>
-<body id="">
-    <form name="aspnetForm" method="post" action="RFContent.aspx?PageId=215" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTI1NzM1MjE1NA8WAh4VQ3VycmVudE5hdmlnYXRpb25MaW5rMs0EAAEAAAD/////AQAAAAAAAAAMAgAAAEtOZXRTdGVwcy5DTVMuT2JqZWN0cywgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwFAQAAACxOZXRTdGVwcy5DTVMuT2JqZWN0cy5CdXNpbmVzcy5OYXZpZ2F0aW9uTGluaxIAAAADX2lkCV9saW5rTmFtZQlfcGFnZU5hbWUIX2xpbmtVcmwHX2FjdGl2ZQpfc3RhcnREYXRlCF9lbmREYXRlCV9wYXJlbnRJZApfc29ydEluZGV4B19wYWdlSWQMX21pbkNoaWxkcmVuDF9tYXhDaGlsZHJlbg1fY2FuQmVEZWxldGVkB19zaXRlSWQRX25hdmlnYXRpb25UeXBlSWQHX3BhcmVudAtfY2hpbGRMaW5rcwZfZGVwdGgAAQEBAAAAAAAAAAAAAAAEBAAIAQ0NCAcICAgBCAgsTmV0U3RlcHMuQ01TLk9iamVjdHMuQnVzaW5lc3MuTmF2aWdhdGlvbkxpbmsCAAAAME5ldFN0ZXBzLkNNUy5PYmplY3RzLkJ1c2luZXNzLk5hdmlnYXRpb25MaW5rTGlzdAIAAAAIAgAAAEEEAAAGAwAAABJSK0YgUHJpdmFjeSBQb2xpY3kGBAAAAAAGBQAAABovUkZDb250ZW50LmFzcHg/UGFnZUlkPTIxNQEAQFcgUwVRCABAVyBTBVEIPAQAAAoA1wAAAAAAAAAAAAAAAQAAAAAAAAAACgoAAAAACxYCZg9kFgICAQ9kFggCBg8PZBYCHgpvbmtleXByZXNzBf0BdmFyIHJlc3VsdCA9IGRvY3VtZW50LmFsbCA/IHdpbmRvdy5ldmVudC5rZXlDb2RlIDogZXZlbnQud2hpY2g7IGlmIChyZXN1bHQgPT0gMTMpIHsgaWYgKGRvY3VtZW50LmFsbCkgeyBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnY3RsMDBfdXhMb2dpbicpLmNsaWNrKCk7IH0gZWxzZSB7IHZhciB0YXJnZXQgPSBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnY3RsMDBfdXhMb2dpbicpLmhyZWY7IGV2YWwodGFyZ2V0KTsgfSByZXR1cm4gZmFsc2U7fWQCBw8PZBYCHwEF/QF2YXIgcmVzdWx0ID0gZG9jdW1lbnQuYWxsID8gd2luZG93LmV2ZW50LmtleUNvZGUgOiBldmVudC53aGljaDsgaWYgKHJlc3VsdCA9PSAxMykgeyBpZiAoZG9jdW1lbnQuYWxsKSB7IGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdjdGwwMF91eExvZ2luJykuY2xpY2soKTsgfSBlbHNlIHsgdmFyIHRhcmdldCA9IGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdjdGwwMF91eExvZ2luJykuaHJlZjsgZXZhbCh0YXJnZXQpOyB9IHJldHVybiBmYWxzZTt9ZAIQDw8WAh4TQ3VycmVudE5hdmlnYXRpb25JZALBCGRkAhIPZBYCAgMPDxYCHwICwQhkZGSZ9Ks0/3CDgnJB7YAuV+eovYEVEQ==">
-
-
-<script src="/Content/Scripts/sifr.js" type="text/javascript"></script>
-<script src="/Content/Scripts/sifr-config.js" type="text/javascript"></script>
-<script src="/Content/Scripts/Quotes.js" type="text/javascript"></script>
-<script src="/Content/Scripts/jquery-1.3.2.min.js" type="text/javascript"></script>
-<script src="/Content/Scripts/WebCallback.js" type="text/javascript"></script>
-<script src="/Content/Scripts/slimbox2.js" type="text/javascript"></script>
-<script type="text/javascript">
-//<![CDATA[
-jQuery.noConflict();//]]>
-</script>
-
-<script src="/ScriptResource.axd?d=9QjYf-aKeBNt39ZV7hv4BILL9RAW4MGBzlOaFAj7jpXBJRIYuH8DR_0P7DlvFR88Qxe2GBGSSdWRLEYDQ3hWMo6oYDorrxiRnEt2qQyHBcA1&amp;t=ffffffffec2d9970" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=NWZlTxtv-ApxQ4DG8QCkTARjFskg2-JUvwteWPJG-jk2eTGD6gFqWDUQoaw2Z4SHr5H3Ad9Z9GcYjxmFBpOOiw2&amp;t=4e0b8ae9" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=NWZlTxtv-ApxQ4DG8QCkTARjFskg2-JUvwteWPJG-jkANJrAeUdwqi4LfpahdndCVHCuoyOk1jhmh0Cwsd3ypQ2&amp;t=4e0b8ae9" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=NWZlTxtv-ApxQ4DG8QCkTARjFskg2-JUvwteWPJG-jkTgsRptOsBsrPyO1PmzQClh8XBcjx8jpf5EFYAU8IMSXG0XNopUGjmAE3UY_BPaQY1&amp;t=4e0b8ae9" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=NWZlTxtv-ApxQ4DG8QCkTARjFskg2-JUvwteWPJG-jmwazKWWoCI96tv_jmplrtN8MPbrr2Z9PhRdCSCh_FjFVdee6XiXb3SygWgHZO6WMY1&amp;t=4e0b8ae9" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=NWZlTxtv-ApxQ4DG8QCkTARjFskg2-JUvwteWPJG-jkEWzN2OxIVehWPpeWZcDO-qIUUk14hWLZ3dE1xVHqbWW86lboE_K3dH4H2U1xagXo1&amp;t=4e0b8ae9" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=NWZlTxtv-ApxQ4DG8QCkTARjFskg2-JUvwteWPJG-jkwi81lPzyxbAvF9tnZO4Vjio62HfSOfttQZYwxKPyB7Oui-Q9eAIsQ_VoQCpBwGA0sfKq1FCzpqgd8LihPo2rk0&amp;t=4e0b8ae9" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=NWZlTxtv-ApxQ4DG8QCkTARjFskg2-JUvwteWPJG-jkaWfvqTQTzGMPRLwvvx96C2te6O2N_2b5XCKQt47trjrfqDUFz86igkXDDWug4NlH99hV-xedH8SY7vbfUVTf60&amp;t=4e0b8ae9" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=NWZlTxtv-ApxQ4DG8QCkTARjFskg2-JUvwteWPJG-jmoYE1swoDySsi-KqjGiRbUGbTeRzpPiKTvox-3cI9mdlEyWRqeT-5vvAKKvk0ZSO41&amp;t=4e0b8ae9" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=NWZlTxtv-ApxQ4DG8QCkTARjFskg2-JUvwteWPJG-jmYq20r66z5VEPiRMpblMUSkVaPE22RNBzFUDpfXX-JG4CHnyJjzLtij8Gx2VGLS9k1&amp;t=4e0b8ae9" type="text/javascript"></script>
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWDQKP0M+zAQKErpC4CQKgxM+bAwLQ+eaIAQKry6SeBgLZ+p/qCQKE8sGzBQL0+rn4AwLE2IvTDQKHu6DjDwLsvIkrAprM/owOAqPfqK4J28WBHaHb6xjN31YgoEBG4TqmiMs=">
-    
-    <div id="ctl00_editmode" class="editmode" style="display: none;">
-        <div id="editmodelinks">
-            <a id="ctl00_ReturnToAdmin" href="javascript:__doPostBack('ctl00$ReturnToAdmin','')">
-            <span>You Are In  Mode</span>
-            Click Here Return to MyWebsiteAdmin
-            </a>
-            <p>
-                <a href="http://www.rodanandfields.com/RFContent.aspx?PageId=215&amp;PageMode=Live" class="EditMode EMlive">Switch to Live Mode</a>
-            </p>
-        </div>
-    </div>
-    <div id="PageWrapper">
-        <div id="TopPane">
-            <p id="Logo">
-                <a id="ctl00_uxHomeLink" href="Home.aspx"><img id="ctl00_Image1" title="Home" src="Content/Corporate/Images/RF-logo-trans.png" border="0"></a>
-            </p>
-             
-                <div id="ConsultantBanner">
-                    <div id="BannerWrapper">
-                        <div id="BannerCap">
-                            <p>
-                                <span>Email Address:</span>
-                                <input name="ctl00$uxEmail" type="text" id="ctl00_uxEmail" class="textinput" onkeypress="var result = document.all ? window.event.keyCode : event.which; if (result == 13) { if (document.all) { document.getElementById('ctl00_uxLogin').click(); } else { var target = document.getElementById('ctl00_uxLogin').href; eval(target); } return false;}">
-                            </p>
-                            <p>
-                                <span>Password:</span>
-                                <input name="ctl00$uxPassword" type="password" id="ctl00_uxPassword" class="textinput" onkeypress="var result = document.all ? window.event.keyCode : event.which; if (result == 13) { if (document.all) { document.getElementById('ctl00_uxLogin').click(); } else { var target = document.getElementById('ctl00_uxLogin').href; eval(target); } return false;}">
-                            </p>
-                            <p class="LoginSubmit">
-                                <a id="ctl00_uxLogin" title="Log In" class="LoginButton" href="javascript:__doPostBack('ctl00$uxLogin','')"><span>Log In</span></a>
-                            </p>
-                            
-                        </div>
-                        <div id="BannerEnd">
-                            <p>
-                                
-                                <a id="ctl00_uxForgotPasswordLink" href="ForgotPassword.aspx">Forgot Password?</a>
-                                <!-- <a href="">Retrieve Password</a>
-                                
-                                <a href="">Find an Independant Consultant</a>-->
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                
-                
-                
-            
-            </div>
-            
-            <!-- PWS -->
-            
-            
-            
-
-            <a id="ctl00_uxPoliciesTarget" href="javascript:__doPostBack('ctl00$uxPoliciesTarget','')" style="display: none;"></a>
-
-            <div id="ctl00_uxPoliciesPanel" class="modalPanel" style="display: none;">
-	            
-                <div class="modalCaption">
-                    <h3>New Policies &amp; Procedures</h3>
-                </div>
-                <div class="modalBody">
-                    
-                    <p>
-                        Rodan + Fields announces changes to the Policies and Procedures effective Monday, November 23, 2009. It is the responsibility of all Consultants to be familiar with and comply with the new Policies and Procedures.
-                    </p>
-                    <br>
-                    <a id="ctl00_uxOpenPolicies" target="_blank">Open new Policies and Procedures</a>
-                    <span id="ctl00_uxPoliciesAcceptRadio"><input id="ctl00_uxPoliciesAcceptRadio_0" type="radio" name="ctl00$uxPoliciesAcceptRadio" value="Accept"><label for="ctl00_uxPoliciesAcceptRadio_0">I have read and accept the new policies and procedures</label><br><input id="ctl00_uxPoliciesAcceptRadio_1" type="radio" name="ctl00$uxPoliciesAcceptRadio" value="Deny"><label for="ctl00_uxPoliciesAcceptRadio_1">I DO NOT accept the new policies and procedures</label></span>
-                    <br>
-                    <a id="ctl00_uxAcceptPolicy" class="button" href='javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions("ctl00$uxAcceptPolicy", "", true, "Policies", "", false, true))'>Continue</a>&nbsp;
-                    &nbsp;
-                </div>
-            
-</div>
-
-            <div id="SiteBody">
-                <div id="Container">
-                    <div id="Col1">
-                        <div id="LeftNav">
-                            <ul><li><a href="http://www.rodanandfields.com/Home.aspx"><span>Home</span></a></li><li class="selected"><a href="http://www.rodanandfields.com/RFContent.aspx?PageId=167"><span>Company</span></a><ul id="SubNav"><li class="selected"><a href="http://www.rodanandfields.com/RFContent.aspx?PageId=187"><span>About Us</span></a></li><li><a href="http://www.rodanandfields.com/RFContent.aspx?PageId=217"><span>PFC Foundation</span></a></li><li><a href="http://www.rodanandfields.com/RFContent.aspx?PageId=191"><span>Press Room</span></a></li><li><a href="http://www.rodanandfields.com/RFContent.aspx?PageId=192"><span>Contact Us</span></a></li></ul></li><li><a href="http://www.rodanandfields.com/Shopping/Catalogs.aspx?PageId=165"><span>Products</span></a></li><li><a href="http://www.rodanandfields.com/RFContent.aspx?PageId=173"><span>Business System</span></a></li><li><a href="http://www.rfespanol.com/"><span>RF Espanol</span></a></li></ul>
-                        </div>
-                        
-                        
-                        <span class="ClearAll PadSpacer"></span>
-                        <!-- Dr. Quotes -->
-                        <div id="QuotePad">
-                            <blockquote>
-
-                                <script type="text/javascript">
-			           //display the Dr. Quotes
-                        //document.write("<p>"  + quotes[index] + "\n<img src='/Content/Images/quote-end-trans.png' class='endquote'/></p>");
-                                </script>
-
-                            </blockquote>
-                        </div>
-                        <!--/ End Dr. Quotes -->
-                    </div>
-                    
-    
+	<!--[if IE 6]>
+    <script type="text/javascript">
+    $(function() {
+    $('body').addClass("IE6");
+    })
+    </script>
+    <![endif]-->
+	
+</head>
+<body id="Privacy Policy">
+	<div id="PageWrapper">
+		<div id="TopPane">
+			<p id="Logo">
+				<a href="/" title="Rodan and Fields Dermatologists">
+					<img src="/Content/Corporate/Images/RFlogo.gif" alt="Rodan and Fields Dermatologists">
+				</a>
+			</p>
+			
+			
+			<div id="ConsultantBanner">
+				<div id="BannerWrapper">
+					<div id="BannerCap">
+						<p>
+							<input id="username" type="text" class="textinput watermark username" title="Login - Email" style="color: rgb(119, 119, 119);">
+						</p>
+						<p>
+							<input id="password" type="password" class="textinput watermark password" style="display: none;"><input type="text" id="passwordWatermarkReplacement" class="textinput watermark password" value="Password" style="color: rgb(119, 119, 119); width: 100px; height: 11px;">
+						</p>
+						<p class="LoginSubmit">
+							<a id="loginButton" href="javascript:void(0);" class="LoginButton" title="Log In"><span>
+								Log In</span> </a>
+						</p>
+						<p id="loginError" class="LoginError">
+						</p>
+					</div>
+					<div id="BannerEnd">
+						<p>
+							<a id="uxGetAccountLink" href="/Enrollment/Retail/Profile.aspx" style="display: none;">Create An Account</a>
+							<a id="uxForgotPasswordLink" href="/ForgotPassword.aspx">Forgot Password?</a>
+						</p>
+					</div>
+				</div>
+			</div>
+			
+		</div>
+		<div id="invalidContentMsg"></div>
+		<div id="SiteBody">
+			<div id="Container">
+				<div id="Col1">
+					<div id="LeftNav">
+						<ul class="Nav"><li><a href="/Home"><span>Home</span></a></li><li class="SubTab"><a href="/Pages/Company"><span>Company</span></a></li><li class="SubTab"><a href="/Shop"><span>Products</span></a></li><li class="SubTab"><a href="/Pages/Business"><span>Business System</span></a></li></ul>
+					</div>
+					
+					
+					<span class="ClearAll PadSpacer"></span>
+					<!-- Dr. Quotes -->
+					<div id="QuotePad">
+						<blockquote>
+							<script type="text/javascript">
+								//display the Dr. Quotes
+								//document.write("<p>"  + quotes[index] + "\n<img src='/Content/Images/quote-end-trans.png' class='endquote'/></p>");
+							</script>
+						</blockquote>
+					</div>
+					<!--/ End Dr. Quotes -->
+				</div>
+				
     <div id="ContentWrapper">
-    
-	    <div id="HeaderCol">
+        <div id="HeaderCol">
+            <h1><cufon class="cufon cufon-canvas" alt="Privacy " style="width: 116px; height: 35px;"><canvas width="155" height="42" style="width: 155px; height: 42px; top: -8px; left: -6px;"></canvas><cufontext>Privacy </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Policy" style="width: 92px; height: 35px;"><canvas width="123" height="42" style="width: 123px; height: 42px; top: -8px; left: -6px;"></canvas><cufontext>Policy</cufontext></cufon></h1>
             
             
-            <h1>More About Us</h1>
-            
-            
-            
-            <ul class="PageLinks"><li><a href="http://www.rodanandfields.com/RFContent.aspx?PageId=214"><span>Terms and Conditions</span></a></li><li class="selected"><a href="http://www.rodanandfields.com/RFContent.aspx?PageId=215"><span>R+F Privacy Policy</span></a></li><li><a href="http://www.rodanandfields.com/RFContent.aspx?PageId=225"><span>Satisfaction Guarantee</span></a></li><li><a href="http://www.rodanandfields.com/RFContent.aspx?PageId=216"><span>Disclaimer</span></a></li></ul>
-            
-            
-            <span class="ClearAll"></span>
         </div>
-    
+        <span class="ClearAll"></span>
         <div id="RFContent">
             <div class="ColContent"><div class="body"><div>Rodan + Fields LLC (“Rodan + Fields,” “we,” “us”) is concerned about privacy issues and wants you to be familiar with how we collect, use and disclose Personally Identifiable Information (as defined below) about you that you provide us through RodanandFields.com (the "Site"). Please note that this Privacy Policy governs only information provided to Rodan + Fields. It does not govern our collection of information through any website, or by any other means, other than through the Site; nor does this Privacy Policy govern the collection of information by Rodan + Fields Independent Consultants who distribute and market Rodan + Fields products ("Consultants").</div>
 <div>By using the Site, you agree to the terms of this <span>Privacy </span>Policy and our <b><span>Terms and conditions</span></b> If you do not agree to the terms of this Policy and our <b>Terms and Conditions</b>, please do not use the Site. We reserve the right to change this Privacy Policy without prior notice. You can determine when this Privacy Policy was last revised by referring to the "<i>Last Updated</i>" legend at the top of this page. Any changes to our Privacy Policy will become effective upon our posting of the revised Policy on the Site. Use of the Site following such changes constitutes your acceptance of the revised Privacy Policy then in effect.</div>
@@ -185,7 +230,7 @@ jQuery.noConflict();//]]>
 <div>v. &nbsp; &nbsp; <b>E-mails to Friends. </b>We may provide functionality to permit you to send messages regarding Site-related content to a friend through the Site. If you wish to use this feature, you may provide us with your friend’s e-mail address so that we can facilitate your sending of such message to your friend. Rodan + Fieldsmayretain the friend’s email address and mayuse it for any other purpose described in this Privacy Policy.</div>
 <div>vi. &nbsp;&nbsp; <b>Promotions. </b>We may operate sweepstakes, contests and similar promotions (collectively, "Promotions") through the Site. We typically ask you for certain PII when you enter and, if applicable, win a Promotion. You should carefully review the rules, if any, of each Promotion in which you participate through the Site, as they may contain additional important information about Rodan + Field’s use of PII about you. To the extent that the terms and conditions of such rules concerning the treatment of PII about you conflict with this Policy, the terms and conditions of such rules shall control.</div>
 <div>vii.&nbsp;<b>Internal Business Purposes. </b>We may also use PII about you for our internal business purposes, such as data analysis, audits and so forth.</div>
-<div><b>b.</b> &nbsp; &nbsp; <b>Non-Personally Identifiable Information. </b>Because Non-PII does not personally identify you, we may use such information for any purpose. In addition, we reserve the right to share such Non‑PII, which does not personally identify you, with Consultants and other third parties, for any purpose.</div>
+<div><b>b.</b> &nbsp; &nbsp; <b>Non-Personally Identifiable Information. </b>Because Non-PII does not personally identify you, we may use such information for any purpose. In addition, we reserve the right to share such Non-PII, which does not personally identify you, with Consultants and other third parties, for any purpose.</div>
 <div>i. &nbsp; &nbsp;&nbsp; <b>Aggregate Information. </b>We may use the information you provide in aggregate (Non-PII) form for internal business purposes, such as generating statistics and developing marketing plans. We may collect, store or accumulate certain Non-PII concerning your use of the Site, such as information regarding which of our pages are most popular. We may share or transfer Non-PII with or to our Consultants, licensees and partners.</div>
 <div><b>c.</b> &nbsp; &nbsp; In some instances, we may combine Non-PII with PII (such as embedding e-mail addresses in cookies). If we do combine any Non-PII with PII, the combined information will be treated by us as PII as long as it is so combined (see <b>Section 2.a</b> above).</div>
 <div><b>3.</b> &nbsp; &nbsp; <b>Disclosure of Personally Identifiable Information </b></div>
@@ -223,136 +268,86 @@ jQuery.noConflict();//]]>
 <div>&nbsp;</div>
 <div>&nbsp;</div><!--endbody--></div><span class="ListContentClear"></span></div>
         </div>
-        
-        
-    </div>
+	</div>
 
-
-                    <span class="ClearAll"></span>
-                </div>
-                <span class="ClearAll"></span>
-            </div>
-                
-            
-            
-            
-            
-            
-                    
-                    <a id="ctl00_lnkModalTarget" href="javascript:__doPostBack('ctl00$lnkModalTarget','')" style="display: none;"></a>
-                    
-                    <div id="ctl00_RenewalBody" class="modalPanel" style="display: none;">
-	
-                        <div class="modalCaption">
-                            <h3>Consultant Renewal</h3>
-                        </div>
-                        <div class="modalBody">
-                            <span id="ctl00_lblRenewalMsg"></span>
-                            <br><br>
-                            <a id="ctl00_lnkRenewalAccept" class="button" href="javascript:__doPostBack('ctl00$lnkRenewalAccept','')">Renew now</a>&nbsp;&nbsp;&nbsp;&nbsp;
-                            <a id="ctl00_lnkRenewalDecline" class="button" href="javascript:__doPostBack('ctl00$lnkRenewalDecline','')">Renew later</a>
-                        </div>
-                    
-</div>
-                
-                        
-        <span class="ClearAll"></span>  
-         
-        </div>
-        <!-- Footer -->
-        <div id="FooterPane">
-            <!--<div id="TickerTape">
-                <img id="ctl00_TempTicker" src="Content/Images/temptick.gif" border="0" />
+				<span class="ClearAll"></span>
+			</div>
+			<span class="ClearAll"></span>
+		</div>
+		
+		
+	</div>
+	<!-- Footer -->
+	<div id="FooterPane">
+		<!--<div id="TickerTape">
+                <img id="ctl00_TempTicker" src="../../../../Content/Images/temptick.gif" border="0" />
             </div>-->
-            <div class="FooterContent">
-                <ul class="Right">
-                    <label>
-                        ©2008 Rodan &amp; Fields, LLC. All Rights Reserved.</label>
-                    <a id="ctl00_uxTermsLink" href="RFContent.aspx?PageId=214">Terms &amp; Conditions</a>&nbsp;
-                    <a id="ctl00_uxPrivacyLink" href="RFContent.aspx?PageId=215">Privacy Policy</a>&nbsp;
-                    <a id="ctl00_uxSatisfactionLink" href="RFContent.aspx?PageId=225">Satisfaction Guarantee</a>&nbsp;
-                    <a id="ctl00_uxDisclaimerLink" href="RFContent.aspx?PageId=216">Disclaimer</a>&nbsp;
-                    <a id="ctl00_uxContactLink" href="RFContent.aspx?PageId=192">Contact Us</a>
-                </ul>
-                <div class="Left">
-                   
-                     
-                     <!-- (c) 2005, 2009. Authorize.Net is a registered trademark of CyberSource Corporation --> 
-                     <div class="AuthorizeNetSeal"> 
-                     <script type="text/javascript" language="javascript">
-                         var ANS_customer_id = "3316b4e7-aec2-4fac-9de5-77a16896df77";</script> 
-                     <script type="text/javascript" language="javascript" src="//verify.authorize.net/anetseal/seal.js"></script> 
-                     <a href="http://www.authorize.net/" id="AuthorizeNetText" target="_blank">Payment Processing</a> 
-                     </div>
-                     
-                      <div class="DSAlogo">
-                        <a href="http://www.dsa.org/ethics/">
-                        <img id="ctl00_uxDSALogo" src="Content/Images/dsamemberlogo_sm02.gif" alt="DSA Member" border="0"></a>
-                    </div>
-                    
-                            
-                </div>
-            </div>
-            <span class="ClearAll"></span>
-        </div>
-        <span class="ClearAll"></span>
-        <!-- End Footer -->
-    
-
-<script type="text/javascript">
-//<![CDATA[
-Sys.Application.initialize();
-Sys.Application.add_init(function() {
-    $create(AjaxControlToolkit.ModalPopupBehavior, {"BackgroundCssClass":"modalBackground","PopupControlID":"ctl00_uxPoliciesPanel","dynamicServicePath":"/RFContent.aspx","id":"ctl00_uxPoliciesModal"}, null, null, $get("ctl00_uxPoliciesTarget"));
-});
-Sys.Application.add_init(function() {
-    $create(AjaxControlToolkit.ModalPopupBehavior, {"BackgroundCssClass":"modalBackground","PopupControlID":"ctl00_RenewalBody","Y":255,"dynamicServicePath":"/RFContent.aspx","id":"ctl00_modal"}, null, null, $get("ctl00_lnkModalTarget"));
-});
-//]]>
-</script>
-</form>
-
-    <script language="javascript" type="text/javascript">
-        window.setTimeout('endSession();', '1140000');
-        function endSession() {
-            //                if(window.location.pathname != '/Home.aspx' && window.location.pathname != '/Reports/TreeView.aspx')
-            if (window.location.pathname.indexOf('/Shopping') > -1) {
-                redirect();
-            }
-            else if (window.location.pathname.indexOf('/Enrollment') > -1) {
-                redirect();
-            }
-            else if (window.location.pathname.indexOf('/Profiles') > -1) {
-                redirect();
-            }
-        }
-        function redirect() {
-            alert("Your session has expired. You will be redirected to the home page.");
-            url = '/EndSession.aspx';
-            document.location = url;
-        }
-
-        //             function ShowPopup() {
-        //                
-        //                //__doPostBack('ctl00$uxLogin','');
-        //             }
-    </script>
-    
-    
-    
-        <script type="text/javascript">
-            var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-            document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-        </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-        
-            <script type="text/javascript">
-                try {
-                    var pageTracker = _gat._getTracker("UA-7327543-1");
-                    pageTracker._trackPageview();
-                } catch (err) { }
-            </script>
-        
+		<div class="FooterContent">
+			<div class="Right">
+				<ul class="Nav"><li><label>©2010 Rodan &amp; Fields, LLC. All Rights Reserved.</label></li><li><a href="/Pages/Company/About/More/Terms"><span>Terms &amp; Conditions</span></a></li><li><a href="/Pages/Company/About/More/Privacy"><span>Privacy Policy</span></a></li><li><a href="/Pages/Company/About/More/Guarantee"><span>Satisfaction Guarantee</span></a></li><li><a href="/Pages/Company/About/More/Disclaimer"><span>Disclaimer</span></a></li><li><a href="/Pages/Company/Contact"><span>Contact Us</span></a></li></ul>
+			</div>
+			<br>
+			<div class="Left">
+				<!-- (c) 2005, 2009. Authorize.Net is a registered trademark of CyberSource Corporation -->
+				<div class="AuthorizeNetSeal">
+					<script type="text/javascript" language="javascript">
+						var ANS_customer_id = "3316b4e7-aec2-4fac-9de5-77a16896df77";</script>
+					<script type="text/javascript" language="javascript" src="//verify.authorize.net/anetseal/seal.js"></script>
+					<a href="http://www.authorize.net/" id="AuthorizeNetText" target="_blank">Payment Processing</a>
+				</div>
+				<div class="DSAlogo">
+					<a href="http://www.dsa.org/">
+						<img id="ctl00_uxDSALogo" src="../../../../Content/Images/dsamemberlogo_sm02.gif" alt="DSA Member" border="0"></a> <a href="http://www.dsa.org/ethics/" id="uxDSACodeOfEthics" target="_blank">DSA Code of Ethics</a>
+				</div>
+				
+			</div>
+		</div>
+		<span class="ClearAll"></span>
+	</div>
+	<span class="ClearAll"></span>
+	<!-- End Footer -->
+	
+	<div id="editmode" class="editmode" style="display : none;">
+		<div id="editmodelinks">
+			
+			<span>You Are In
+				Live
+				Mode</span>
+			
+			<p>
+				
+			</p>
+		</div>
+	</div>
+	<div class="jqmWindow" id="alertsDialog" style="min-width: 400px; min-height: 400px;
+		max-width: 500px; overflow: auto;">
+	</div>
+	<!-- Global Popup Windows -->
+	<div class="jqmWindow LModal globalPopupWindow">
+		<div style="float: right; padding: 5px;">
+			<a href="javascript: void(0);" class="jqmClose">Close</a></div>
+		<div class="clear">
+		</div>
+		<div class="globalPopupContent">
+		</div>
+		<div style="float: right; padding: 5px;">
+			<a href="javascript: void(0);" class="jqmClose">Close</a></div>
+		<div class="clear">
+		</div>
+	</div>
+	
+	<script type="text/javascript">
+		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+	</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+	
+	<script type="text/javascript">
+		try {
+			var pageTracker = _gat._getTracker("UA-7327543-1");
+			pageTracker._trackPageview();
+		} catch (err) { }
+	</script>
+	
 
 
-
-</body></html>
+<div id="lbOverlay" style="display: none;"></div><div id="lbCenter" style="display: none;"><div id="lbImage"><div style="position: relative;"><a id="lbPrevLink" href="#"></a><a id="lbNextLink" href="#"></a></div></div></div><div id="lbBottomContainer" style="display: none;"><div id="lbBottom"><a id="lbCloseLink" href="#"></a><div id="lbCaption"></div><div id="lbNumber"></div><div style="clear: both;"></div></div></div></body></html>
