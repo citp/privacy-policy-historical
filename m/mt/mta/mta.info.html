@@ -1,18 +1,22 @@
-<!--The following is the downloaded HTML source of the mta.info privacy policy that was archived on 2010-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101217140355id_/http%3A//www.mta.info/mta/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mta.info privacy policy that was archived on 2011-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110606025312id_/http%3A//www.mta.info/mta/privacy.htm) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
 <title>MTA - Internet Privacy Policy</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+
 <link rel="shortcut icon" href="/siteimages/favicon.ico">
-<link rel="stylesheet" type="text/css" href="/css/reset.css">
-<link rel="stylesheet" type="text/css" href="/css/fonts.css">
 <link rel="stylesheet" type="text/css" href="/css/base.css">
 <link rel="stylesheet" type="text/css" href="/css/topbar.css">
-<link rel="stylesheet" type="text/css" href="/css/mainbox.css">
+<link rel="stylesheet" type="text/css" href="/css/formalize.css">
+<link rel="stylesheet" type="text/css" href="/css/jquery.datepick.css">
 <link rel="stylesheet" type="text/css" media="print" href="/css/print.css">
- <script type="text/javascript" src="/js/jquery-1.4.4.min.js"></script> 
-<link rel="stylesheet" type="text/css" href="/css/template.css"><link rel="stylesheet" type="text/css" href="/css/820_grid.css"><style type="text/css" media="all">
+
+<!-- jQuery include should be at the top -->
+<script language="javascript" type="text/javascript" src="/js/jquery-1.4.4.min.js"></script>
+
+<link rel="stylesheet" type="text/css" href="/css/template.css"><link rel="stylesheet" type="text/css" href="/css/homepage.css"><link rel="stylesheet" type="text/css" href="/css/grid.css"><style type="text/css" media="all">
 @import url(/mta/mtahq_custom.css);
 h1 {font-size: 20px}
 h2 {font-size: 14px}
@@ -24,53 +28,96 @@ h2 {font-size: 14px}
 	width:20em;
 }
 </style>
-
-<script type="text/javascript">
-$(document).ready(function(){
-	$("#breadcrumbs").load("/phpmenu/bc.php","url="+location.href+"&title="+document.title.replace("&","%26").replace("+","%2B"));
-});
-</script>
-<!--[if IE 7]>
-<style>#webnav {margin-top:-3px;}</style>
+<!--[if IE]>
+<style>
+.roundCorners {
+	border: 1px solid;
+	border-color: #b4b4b4;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	background: #fff;
+	behavior: url(/css/border-radius.htc);
+}
+</style>
+<![endif]-->
+<!--[if gt IE 7]>
+<style>
+#agency-spnews {margin-top: 10px;padding: 10px;background: #d4ebfc;overflow: auto;height: 210px;}
+</style>
 <![endif]-->
 <!--[if IE 6]>
 <style>
-#webnav {margin-top:-3px;}
+#topbar { margin: 0; padding:0;	height: 122px; width: 961px;}
+#horizontalcssmenu ul#cssmenu1 li{ position: relative; display: inline;	float: left; border: none; }
 </style>
 <![endif]-->
 </head>
-<body>
-<div id="mainbox">
-<div id="topbar">
-<div id="search" style="float:right;margin-right:48px;margin-top:17px;"> 
-        <form id="searchform" method="get" action="http://search.mta.info/search">
-        <input type="hidden" name="site" value="my_collection">
-        <input type="hidden" name="client" value="my_collection">
-        <input type="hidden" name="proxystylesheet" value="my_collection">
-        <input type="hidden" name="output" value="xml_no_dtd">
-        <input type="text" name="q" alt="searchinputbox" size="12" maxlength="255" value="">
-        <input name="btnG" id="searchbutton" type="image" value="Search" src="/siteimages/search_button_side.gif" alt="Search">
-      </form>
-</div>
-<a href="/"><img src="/template/images/mta_logo.png"></a>
-<!-- <img id="searchbutton" src="/template/images/topbar_search.png">-->
 
-<div id="webnav">
-<ul class="nav">
-    <li class="home"><a href="/">Home</a></li>
-    <li class="schedules"><a href="/schedules/">Schedules, Fares &amp; Tolls</a></li>
-    <li class="maps"><a href="/maps/">Maps</a></li>
-    <li class="service"><a href="/service/">Planned Service Changes</a></li>
-    <li class="accessibility"><a href="/accessibility/">Accessibility</a></li>
-    <li class="about"><a href="/about/">About the MTA</a></li>
-    <li class="doingbusiness"><a href="/business/">Doing Business with Us</a></li>
-    	<li class="faqs"><a href="/faqs.htm">FAQs/Contact Us</a></li>
-</ul>
-</div> <!-- close webnav -->
-</div> <!-- close topbar -->
-<div id="agencybranding"></div>
-<div id="breadcrumbs"></div>
-<div id="contentbox"> 
+<body>
+
+<div id="mainbox">
+	
+	<div id="topbar">
+		<div id="branding">
+			<a href="/"><img src="/template/images/mta_info.gif"></a>
+		</div>
+		
+		<div id="search">
+			<ul id="topbar-links">
+				<li class="list_h" style="margin-left:4px;"><a href="/accessibility">Accessibility</a></li>
+				<li class="list_h" style="margin-left:4px;"><a href="http://assistive.usablenet.com/tt/http://mta.info/index.html">Text-only</a></li>
+				<li class="list_h" style="margin-left:4px;"><a href="/sitemap">Site Map</a></li>
+				<li class="list_h" style="margin-left:4px;"><a href="/faqs.htm">FAQs/Contact Us</a></li>
+			</ul><br>
+	
+			<form id="searchform" method="get" action="http://search.mta.info/search">
+				<input type="hidden" name="site" value="my_collection">
+				<input type="hidden" name="client" value="my_collection">
+				<input type="hidden" name="proxystylesheet" value="my_collection">
+				<input type="hidden" name="output" value="xml_no_dtd">				
+				
+				<input type="submit" name="btnG" value="search" id="searchbutton" style="padding: 1px 8px;">
+				<input type="text" name="q" id="searchinputbox" alt="searchinputbox" size="12" maxlength="255" value="">
+			</form>
+		</div>
+
+		<div id="horizontalcssmenu" style="clear: both;">	
+			<ul id="cssmenu1">
+				<li style="width: 71px; border-left: none;"><a href="/index.html" style="padding-left:18px;">Home<span class="arrowdiv"></span></a>
+					<ul style="top: 333px;"> 
+						<li><a href="/index.html">MTA Home</a></li>
+						<li><a href="/nyct">NYC Transit</a></li>
+						<li><a href="/lirr">Long Island Rail Road</a></li>						
+						<li><a href="/libus">Long Island Bus</a></li>
+						<li><a href="/mnr">Metro-North Railroad</a></li>
+						<li><a href="/bandt">Bridges and Tunnels</a></li>
+						<li><a href="/capconstr">Capital Construction</a></li>
+					</ul> 
+				</li>
+				<li style="width: 95px;"><a href="/schedules">Schedules</a></li>
+				<li style="width: 113px;"><a href="/fares">Fares &amp; Tolls</a></li>
+				<li style="width: 61px;"><a href="/maps">Maps</a></li>
+				<li style="width: 195px;"><a href="/service">Planned Service Changes</a></li>
+				<li style="width: 123px;"><a href="/about">About the MTA</a></li>
+				<li style="width: 180px;"><a href="/business">Doing Business With Us</a></li>
+				<li style="width: 115px;"><a href="/accountability/" style="padding-right:23px;">Transparency<span class="arrowdiv"></span></a>
+					<ul style="top: 317px;">
+						<li><a href="/accountability">Main Page</a></li>
+						<li><a href="/mta/boardmaterials.html">Board Materials</a></li>
+						<li><a href="/mta/budget/">Budget Info</a></li>
+						<li><a href="/mta/capitalprogram.html">Capital Program Info</a></li>
+						<li><a href="http://www.mta.info/capitaldashboard/10_14/CapitalDashBoard7.html">Capital Program Dashboard</a></li>
+						<li><a href="/news/">Press Releases and News</a></li>
+						<li><a href="/mta/ind-perform/">Performance Indicators</a></li>
+					</ul>
+				</li>
+			</ul>	
+		</div>
+	
+	</div> <!-- close topbar -->
+
+		<div id="contentbox" class="roundCorners clearfix">
 <!-- Enter Content Here -->
     <h1>The Metropolitan Transportation Authority and its Subsidiary and Affiliated 
       Agencies' Internet Privacy Policy</h1>
@@ -304,13 +351,28 @@ $(document).ready(function(){
         New York, New York 10017</p>
     </div>
 <!-- End Content -->
-<div class="container">
-	<div class="span-14 last">
-	<div id="translate">
-	<div id="google_translate_element"></div><!-- close google_translate_element -->
-	</div><!-- close translate -->
+</div> <!-- close contentbox -->
+
+<div class="container clear">
+	<div class="span-18 pad-10">
+		<div id="translate">
+			<div id="google_translate_element">
+				<div id="temp_GT" class="span-18">
+					<p style="float: left; margin:0 0 5px 0; padding:0;"><input type="button" value="Google Translate" style="text-align:left; margin-top:-3px; padding:2px 8px;"></p>
+					<p style="float: left; margin:0; padding:0;">Powered by <span style="white-space: nowrap;"><a target="_blank" href="http://translate.google.com" class="goog-logo-link"><img src="http://translate.googleapis.com/translate_static/img/mini_google.png">Translate</a></span></p>
+				</div>
+			</div><!-- close google_translate_element -->
+		</div><!-- close translate -->
 	</div><!-- close span-14 last -->
-	</div>
+	
+<!-- JavaScript Includes -->
+<script type="text/javascript" src="/js/csshorizontalmenu.js"></script>
+
+
+	
+</div> <!-- Close of Container -->
+
+<!--
 <script>
 function googleTranslateElementInit() {
   new google.translate.TranslateElement({
@@ -319,7 +381,25 @@ function googleTranslateElementInit() {
 }
 </script>
 <script src="http://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
-</div> <!-- close contentbox -->
+-->
+
+<script>
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({
+    pageLanguage: 'en'
+  }, 'google_translate_element');
+}
+
+$("#temp_GT").click(function() {
+	var fileref = document.createElement('script');
+    	fileref.setAttribute("type", "text/javascript");
+    	fileref.setAttribute("src", "http://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit");
+
+    	document.getElementsByTagName("head")[0].appendChild(fileref);
+	$("#temp_GT").hide();
+});
+</script>
+
 </div> <!-- close mainbox -->
 
 </body></html>
