@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the outdoorphotographer.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225225335id_/http%3A//www.outdoorphotographer.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outdoorphotographer.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606152724id_/http%3A//www.outdoorphotographer.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | OutdoorPhotographer.com
 
@@ -100,4 +100,5 @@ We can be reached via e-mail at [marketing@wernerpublishing.com](mailto:marketin
 
 | 
 
-Get 11 Issues of Outdoor Photographer for only $14.97! That's 77% off the cover price!
+Get 11 Issues of Outdoor Photographer for only $14.97!  
+That's 77% off the cover price!
