@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acbar.org privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619211305id_/http%3A//www.acbar.org/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D12%26Itemid%3D40) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acbar.org privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606082751id_/http%3A//acbar.org/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D12%26Itemid%3D40) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -22,10 +22,9 @@ Please keep in mind that when you apply for jobs advertised on acbar.org, you sh
 
 Acbar.org does not sell, rent or share your personal information with other people or non-affiliated third parties except to provide you with the products or services you have requested. When you give us permission, or under these circumstances:
 
-  * Acbar.org observes the process of law and will establish or exercise our legal rights or defend ourselves against legal claims; 
-  * Acbar.org believes in sharing information in order to investigate, prevent or act on illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Acbar.org's terms of use, or as otherwise required by the law;
+· Acbar.org observes the process of law and will establish or exercise our legal rights or defend ourselves against legal claims; 
 
-
+· Acbar.org believes in sharing information in order to investigate, prevent or act on illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Acbar.org's terms of use, or as otherwise required by the law;
 
 **Use of Cookies**
 
@@ -39,7 +38,7 @@ Acbar.org links the information we store in cookies to any personally identifiab
 
 **Enforcement of this Statement of Privacy**
 
-If you have questions regarding this statement, please contact us at [www.acbar.org](https://web.archive.org/). We will look into your problem and serve you to resolve your concerns.
+If you have questions regarding this statement, please contact us at [www.acbar.org](http://www.acbar.org/). We will look into your problem and serve you to resolve your concerns.
 
 **Changes to this Statement**
 
@@ -51,5 +50,5 @@ Acbar.org encourages you to review this Statement periodically to be informed of
 Acbar.org welcomes your comments regarding this Statement of Privacy. If you believe that we have not adhered to this Statement, please contact us by telephone, email or post:
 
 Address: House # 69, Shaheed Tomb, Chahar Rahi Shaheed, Share-e-Now, Kabul,  Afghanistan  
-Phone: 0093 (0)700 23 49 72   
-Email:  [ ](mailto:%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20var%20prefix%20=%20'mailto:';%20var%20suffix%20=%20'';%20var%20attribs%20=%20'';%20var%20path%20=%20'hr'%20+%20'ef'%20+%20'=';%20var%20addy64956%20=%20'webinfo'%20+%20'@';%20addy64956%20=%20addy64956%20+%20'acbar'%20+%20'.'%20+%20'org';%20document.write\(%20'%3Ca%20'%20+%20path%20+%20'\\''%20+%20prefix%20+%20addy64956%20+%20suffix%20+%20'\\''%20+%20attribs%20+%20'%3E'%20\);%20document.write\(%20addy64956%20\);%20document.write\(%20'%3C\\/a%3E'%20\);%20//--%3E%20%3C/script%3E%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20document.write\(%20'%3Cspan%20style=\\'display:%20none;\\'%3E'%20\);%20//--%3E%20%3C/script%3EThis%20e-mail%20address%20is%20being%20protected%20from%20spambots.%20You%20need%20JavaScript%20enabled%20to%20view%20it%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20document.write\(%20'%3C/'%20\);%20document.write\(%20'span%3E'%20\);%20//--%3E%20%3C/script%3E)[webinfo@acbar.org](mailto:webinfo@acbar.org)
+Phone: 0093 (0)77 59 34 919   
+Email: [](mailto:%20%3cscript%20language='JavaScript'%20type='text/javascript'%3e%20%3c!--%20var%20prefix%20=%20'mailto:';%20var%20suffix%20=%20'';%20var%20attribs%20=%20'';%20var%20path%20=%20'hr'%20+%20'ef'%20+%20'=';%20var%20addy12617%20=%20'webinfo'%20+%20'@';%20addy12617%20=%20addy12617%20+%20'acbar'%20+%20'.'%20+%20'org';%20document.write\(%20'%3ca%20'%20+%20path%20+%20'\\''%20+%20prefix%20+%20addy12617%20+%20suffix%20+%20'\\''%20+%20attribs%20+%20'%3e'%20\);%20document.write\(%20addy12617%20\);%20document.write\(%20'%3c\\/a%3e'%20\);%20//--%3e%20%3c/script%3e%20%3cscript%20language='JavaScript'%20type='text/javascript'%3e%20%3c!--%20document.write\(%20'%3cspan%20style=\\'display:%20none;\\'%3e'%20\);%20//--%3e%20%3c/script%3eThis%20e-mail%20address%20is%20being%20protected%20from%20spambots.%20You%20need%20JavaScript%20enabled%20to%20view%20it%20%3cscript%20language='JavaScript'%20type='text/javascript'%3e%20%3c!--%20document.write\(%20'%3c/'%20\);%20document.write\(%20'span%3e'%20\);%20//--%3e%20%3c/script%3e) [webinfo@acbar.org](mailto:webinfo@acbar.org)
