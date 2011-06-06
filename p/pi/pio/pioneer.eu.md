@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pioneer.eu privacy policy that was archived on 2010-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101007221414id_/http%3A//www.pioneer.eu/eur/content/company/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pioneer.eu privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606115722id_/http%3A//www.pioneer.eu/eur/content/company/company/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Pioneer Europe
 
@@ -55,6 +55,8 @@ In addition to the companies mentioned and for the purposes described above, we 
 Your personal information may be transferred to outside contractors to provide services for us. They may be used to provide technical support. We require that these contractors keep your personal information secure and confidential. We also require that these contractors use personal information only on behalf of PIONEER EUROPE NV.
 
 At all time you may opt out for the sharing of your personal information with third parties. This can be done via the account page of our online registration area.
+
+When you submit a product review, your nickname and country can be openly viewed by others. Depending on your Shared settings, which can be changed at any time via the account page of our online registration area, you also share your first name, photo, and links.
 
 **5\. Links**
 
