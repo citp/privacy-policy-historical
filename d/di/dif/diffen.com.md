@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the diffen.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620053153id_/http%3A//www.diffen.com/difference/Diffen%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diffen.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606065547id_/http%3A//www.diffen.com/difference/Diffen%3APrivacy_policy) for the most accurate reproduction.*
 
-# Diffen:Privacy policy - Difference and Comparison - Diffen
-
-### From Diffen
+# Diffen:Privacy policy - Difference and Comparison | Diffen
 
 ## Contents
 
@@ -49,7 +47,7 @@ Diffen will set a temporary session cookie (PHPSESSID) whenever you visit the si
 
 More cookies may be set when you log in or use the chat feature, to avoid typing in your user name (or optionally password) on your next visit. These last up to 30 days. You may clear these cookies after use if you are using a public machine and don't wish to expose your username to future users of the machine. (If so, clear the browser cache as well.) 
 
-Diffen uses third-party advertising companies (such as Google AdSense) to serve ads when you visit our website. These companies may set their own cookies and/or may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. This information includes the user's browser, operating system, [IP address](http://en.wikipedia.org/wiki/Ip_address "http://en.wikipedia.org/wiki/Ip_address"), [ISP](http://en.wikipedia.org/wiki/Internet_Service_Provider "http://en.wikipedia.org/wiki/Internet_Service_Provider") etc. If you would like more information about such practices click [here](http://www.google.com/privacy_ads.html "http://www.google.com/privacy_ads.html"). Please also note that 
+Diffen uses third-party advertising companies (such as Google AdSense and Infolinks) to serve ads when you visit our website. These companies may set their own cookies and/or may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. This information includes the user's browser, operating system, IP address, [ISP](http://en.wikipedia.org/wiki/Internet_Service_Provider "http://en.wikipedia.org/wiki/Internet_Service_Provider") etc. If you would like more information about such practices click [here](http://www.google.com/privacy_ads.html "http://www.google.com/privacy_ads.html"). Please also note that 
 
   * Google, as a third party vendor, uses cookies to serve ads on Diffen. 
   * Google's use of the [DART cookie](http://www.doubleclick.com/privacy/faq.aspx "http://www.doubleclick.com/privacy/faq.aspx") enables it to serve ads to you based on your visit to Diffen and other sites on the Internet. 
