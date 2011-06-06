@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the automanager.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125165316id_/http%3A//www.automanager.com/legal/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the automanager.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606040257id_/http%3A//www.automanager.com/legal/privacy-policy.aspx) for the most accurate reproduction.*
 
-# AutoManager.com | Legal Notices | Privacy Policy
+# Legal Notices: Privacy Policy | AutoManager.com
 
 AutoManager is commited to protecting your privacy. You can visit most pages on our site without giving us any information about yourself, but sometimes we do need information to provide services that you request, and this privacy statement explains data collection and use in those situations. This privacy statement applies to all of the products, services, and websites offered by AutoManager. Please read this complete privacy statement.
 
@@ -23,7 +23,7 @@ In some limited-entry sections our website, we will use your personal informatio
 
 We do not sell, rent, or lease our customer lists to third parties. We may work with other companies to provide limited services on our behalf that you have requested. We will only provide those companies the information they need to deliver the service, and they are prohibited from using that information for any other purpose.
 
-AutoManager may disclose your personal information if required to do so by law or in the good-faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on AutoManager or the site; (b) protect and defend the rights or property of AutoManager and its family of Web sites, or (c) act in urgent circumstances to protect the personal safety of AutoManager employees, users of AutoManager products or services, or members of the public.
+AutoManager may disclose your personal information if required to do so by law or in the good-faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on AutoManager or the site; (b) protect and defend the rights or property of AutoManager and its family of websites, or (c) act in urgent circumstances to protect the personal safety of AutoManager employees, users of AutoManager products or services, or members of the public.
 
 Your information may be stored and processed in the United States or any other country in which AutoManager or its affiliates, subsidiaries or agents maintain facilities, and by using this site, you consent to any such transfer of information outside of your country. AutoManager abides by the safe harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union.
 
@@ -43,8 +43,8 @@ AutoManager.com is a general audience site and does not knowingly collect any pe
 
 ## Use of Cookies
 
-AutoManager.com only uses cookies in connection with access to certain limited-entry sections of our website. If you choose to not have your browser accept cookies from the AutoManager.com Web site, you will be able to view all of the general-access areas, however you will not be able to access some services on the site.
+AutoManager.com only requires cookies in connection with access to certain limited-entry sections of our website. If you choose to not have your browser accept cookies from the AutoManager.com website, you will be able to view all of the general-access areas, however you will not be able to access some services on the site.
 
 ## Changes to this Policy
 
-AutoManager will occasionally update this privacy policy. When we do, we will also revise the "Last Updated" date at the top of the privacy policy. For material changes to this policy, AutoManager will notify you by placing prominent notice on the Web site.
+AutoManager will occasionally update this privacy policy. When we do, we will also revise the "Last Updated" date at the top of the privacy policy. For material changes to this policy, AutoManager will notify you by placing prominent notice on the website.
