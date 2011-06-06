@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the financecp.com privacy policy that was archived on 2010-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100824020654id_/http%3A//financecp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the financecp.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606044003id_/http%3A//financecp.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Finance Capital Plus
 
