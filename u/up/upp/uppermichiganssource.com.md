@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uppermichiganssource.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205010354id_/http%3A//www.uppermichiganssource.com/about/about.aspx%3Fid%3D640) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uppermichiganssource.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606043042id_/http%3A//www.uppermichiganssource.com/about/about.aspx%3Fid%3D640) for the most accurate reproduction.*
 
 # About : UpperMichigansSource.com
 
@@ -6,7 +6,7 @@
 
 At Barrington Broadcasting Corporation, "Barrington," we are committed to protecting the privacy, accuracy and reliability of any personal information you choose to provide and to safeguarding such information from loss, misuse, unauthorized access, disclosure, alteration and destruction. This privacy policy applies to those Web sites that are part of the Barrington Network.
 
-Please read this privacy policy carefully. This privacy policy may change from time to time, so please check back often. If you have any questions or comments regarding this privacy policy, please contact us by sending an [e-mail message](mailto:info@barringtontv.com).
+Please read this privacy policy carefully. This privacy policy may change from time to time, so please check back often. If you have any questions or comments regarding this privacy policy, please contact us by sending an [e-mail message](mailto:contact@barringtontv.com).
 
 **Collection of Personal Information**
 
@@ -97,7 +97,7 @@ Barrington Interactive
 Barrington Broadcasting Corporation  
 2500 W. Higgins Road, Suite 155  
 Hoffman Estates, IL 60169  
-[Send an Email Message](mailto:info@barringtontv.com)
+[Send an Email Message](mailto:contact@barringtontv.com)
 
 We will use reasonable efforts to promptly investigate any complaint you may have regarding our use of personal information.
 
