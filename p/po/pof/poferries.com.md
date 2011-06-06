@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the poferries.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513071505id_/http%3A//www.poferries.com/tourist/content/pages/template/_footer_privacy_policy_privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poferries.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606124503id_/http%3A//www.poferries.com/tourist/content/pages/template/_footer_Other_privacy_policy_privacy_policy.htm) for the most accurate reproduction.*
 
 # privacy policy - P&O Ferries
 
