@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acciontransexual.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206034803id_/http%3A//support.shesashemale.com/support_privacy.php%3Fch_lang%3Dus%26tour%3D1%26id%3D2926%26country%3Dus) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acciontransexual.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606033625id_/http%3A//support.shesashemale.com/support_privacy.php%3Fch_lang%3Dus%26tour%3D1%26id%3D2926%26country%3Dus) for the most accurate reproduction.*
 
 # She's a Shemale
 
