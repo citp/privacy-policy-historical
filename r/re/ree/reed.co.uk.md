@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reed.co.uk privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230132554id_/http%3A//www.reed.co.uk/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reed.co.uk privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606114911id_/http%3A//www.reed.co.uk/Privacy.aspx) for the most accurate reproduction.*
 
 # reed.co.uk - Privacy
 
@@ -26,6 +26,8 @@ Any policy changes, either due to business reasons or future changes in legislat
 
 **What are 'cookies' and why do we use them?**   
 'Cookies' are ways of saving a small amount of personal information. We use cookies to save your user name and details about what type of job you are looking for. This allows easy access to our site, with recommendations that are relevant to you. If your computer is shared by other people, we advise that you select the 'Don't remember my details' option when you sign out of your account. This will remove all details from the cookie. If you would like [more information on 'cookies'](http://www.aboutcookies.org/Default.aspx?page=5 "This link will open in a new window") please follow the link.
+
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit <http://networkadvertising.org/managing/opt_out.asp>.
 
 **How do you remove your name from the database?**   
 Under the Employment Agencies Act, reed.co.uk is obliged to hold your data for 12 months after it was last used. After 12 months of non-usage we will contact you and ask you if you want to keep your details on our database. If you do not indicate by signing in to reed.co.uk that you wish your details to be retained on our database, we will archive your account.
