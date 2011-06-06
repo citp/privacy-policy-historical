@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getintravel.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221125518id_/http%3A//www.getintravel.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getintravel.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606034236id_/http%3A//www.getintravel.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Travel Guides, Luxury Travel and Travel Info
 
