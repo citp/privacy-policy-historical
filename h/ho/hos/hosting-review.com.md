@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hosting-review.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227120952id_/http%3A//www.hosting-review.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hosting-review.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606183150id_/http%3A//www.hosting-review.com/privacy.shtml) for the most accurate reproduction.*
 
 # Hosting-Review Privacy Statement
 
@@ -28,10 +28,9 @@ In order to ensure security and protection of collected information, all employe
 Personal information collected through Hosting-Review may be corrected or updated through various methods. All information must be updated by contacting Hosting-Review staff either through e-mail or postal mail. All changes may be sent to Hosting-Review by sending an e-mail to [info@hosting-review.com](mailto:info@hosting-review.com). Alternatively, you may contact us in writing at: 
 
 Hosting-Review  
-150 Randall Street  
-Suite 201  
-Oakville, ON   
-Canada L6J 1P4
+5063 North Service Road, Ste 100  
+Burlington, ON   
+Canada L7L 5H6
 
 **Notification of Changes**  
 In the event that there is a change in the privacy practices at Hosting-Review, all members of Hosting-Review will be contacted via the e-mail address on record. 
