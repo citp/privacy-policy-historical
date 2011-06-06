@@ -1,159 +1,106 @@
-> *The following text is extracted and transformed from the isport.com privacy policy that was archived on 2007-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070717044323id_/http%3A//www.mbase.com.au/privacy/Multibase_privacy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isport.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606090743id_/http%3A//www.isport.com/privacy) for the most accurate reproduction.*
 
-# Protecting your privacy
+# Privacy | iSport.com
 
-                                       Multibase WebAustralis Pty Ltd
-                                            ACN 063 962 916 ABN 54 063 962 916
-                                          Protecting your privacy
-The main business of Multibase WebAustralis is to develop, market, deliver and support technology
-products and services.
-Multibase WebAustralis privacy policy
-Multibase WebAustralis (Multibase) is committed to protecting your personal privacy. This Privacy Policy
-outlines the type of information that is collected by Multibase, and how we use and protect it. The policy tells
-you what to do if you do not want your personal information collected, and how you can change information
-you have already provided to us. This policy applies only to the business information that we collect and to
-our web site. Our customers’ web sites are covered by separate policies.
-Multibase complies with the Privacy Act 1988 (Commonwealth) and any code approved by the Privacy
-Commissioner under section 18BB of the Privacy Act 1988 (Cth). This includes the National Privacy
-Principles introduced on 21 December, 2001.
-Your consent to this privacy policy
-By using our services, including our web site, you say that you agree with the terms of our current Privacy
-Policy as described in this document. If you do not agree with any part of this Policy, it is not possible to use
-our services.
-Collection of personal information
-As used in this Privacy Policy, 'personal information' means personally identifiable information such as your
-name, street address, email address, telephone number, and credit card information.
-When you request a product or service from us, or inquire about our products and services, you may be
-asked to provide personal information so that you can buy a product or service from us, receive information
-or mailings, request customer support, make a comment or enquiry or for a variety of other reasons.
-When you provide us with personal information, you are authorising us to use that information in accordance
-with the terms of this Privacy Policy, which includes your right to limit our use of the personal information
-(see Who to Contact below).
-We may supplement the information that you provide to us with other information we hold already or that we
-receive from third parties. We do this in order to manage the services and products that we provide to you.
-We also may do this for marketing purposes in order to provide more targeted products and service to meet
-your needs.
-How we collect information about you, and how we use it
-Product and service information: If you have purchased products or services from Multibase, we will hold
-your contact details as well as details of the services that we provide to you and the use that you make of
-those services. Those details are primarily used to manage the service that we provide, to send you
-information about the relevant products, or any upgrades that become available, latest developments, and
-forthcoming events.
-Technical Support: If you contact Multibase Customer Service, or seek online support from us, we will hold
-your contact details and, if you have paid for a service, your credit card or other payment details. We
-generally keep a record of the problem that you report and any actions that we recommend.
-Information for marketing: If we have collected your details from an enquiry you made or because we think
-you may be interested in one of our products or services, we will hold your contact details and details of
-information that send to you. The personal information we hold is used to communicate with you on the
-topics you have indicated an interest in or that we believe that you may be interested in.
-All of the above information is stored on our internal systems, not on a publicly accessible server.
-When you visit a page: When you visit our web site, or a web site hosted on our web servers, the web
-server will track the IP address you come from (a number assigned to your computer whenever you connect
-                      Level 1, 11-17 Khartoum Rd, Macquarie Park, NSW 2113 Australia
-                                  PO Box 1989 Macquarie Centre NSW 2113
-  Tel: +61 2 9805 1911 Fax: +61 2 9805 1931 Email: info@mbase.com.au Web: www.mbase.com.au
+By using or accessing [www.iSport.com](http://www.isport.com/) (the “Site”), you are accepting the practices described in this Privacy Policy. [iSport.com](http://www.isport.com/) (110 Rio Robles, San Jose, California 95134) has been awarded TRUSTe's Privacy Seal, signifying that this privacy policy — which contains the company’s practices — has been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html). These requirements include transparency, accountability, and choice regarding the use of your personal information. 
+
+If you have questions or complaints regarding our privacy policy or practices, please contact us at [customerservice@isport.com](mailto:customerservice@isport.com). If you are not satisfied with our response, you can contact [TRUSTe](http://watchdog.truste.com/pvr.php?page=complaint). The TRUSTe program only covers information that is collected through this website. It does not cover information that may be collected through software downloaded from the site. 
+
+## The Information We Collect
+
+When you visit the Site, you provide us with two types of information: Personal information you knowingly choose to disclose, and information that we collect automatically as you interact with our Site. 
+
+When you sign up to iSport, you provide us with your name, email, gender, and birth date. During the registration process, we give you the opportunity to provide additional profile information, such as where you went to school, your favorite sports, your cell phone number, the languages you speak, and a place to upload photos and videos. There are some cases where we may ask for additional information for security reasons or to provide you with specific services. Once you register, you can visit your profile at any time to add or remove personal information. 
+
+We cannot control what other users do with your information, so please use common sense regarding the information you include in your profile and provide to other users. Review your profile settings carefully. When you publish content or information using the “Display to Everyone” setting, it means that everyone, including people who are not members of iSport, can access that information. 
+
+We also collect information from you automatically. For example: When you enter the Site, we automatically collect your browser type and IP address. This information is gathered from all who visit the Site. In addition, we store certain information from your browser using "cookies." A cookie is a piece of data stored on your computer to enable our systems to recognize your computer and provide you with certain features. The “Help” portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies. It will also tell you how to get notification from the browser when you receive a new cookie, or how to disable cookies altogether. 
+
+You can also disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-ons settings or visiting the website of its manufacturer. Because cookies allow you to take advantage of some of our essential features, however, we recommend that you leave them turned on. 
+
+We use Google Analytics, a third-party tracking service that uses cookies to track non-personally identifiable information about our visitors. This is done in order to capture statistics on collective usage and volume. Some of our business partners (e.g., Google Analytics) use cookies on our site. We have no access to, or control over, these cookies. This privacy statement covers the use of cookies by [iSport.com](http://www.isport.com/) only and does not cover the use of cookies by any third-party service. 
+
+When you use the Site, you may set up a personal profile, form relationships, send messages, perform searches and queries, and transmit information through various channels. The Site may also collect information about you from other sources — such as blogs and instant-messaging services — as well as other users of the Site. We will list you in our publicly accessible member directory. If you do not want to be listed in our directory, contact us at [customerservice@isport.com](mailto:customerservice@isport.com). 
+
+As more fully stated in the “Terms of Use” page, you submit content to the Site at your own risk. Please be aware that no security measures are perfect or impenetrable. We cannot control the actions of other users with whom you may choose to share your information. Therefore, we cannot and do not guarantee: (1) that the content you post on the Site will not be viewed by unauthorized persons; or (2) that those who view your content (whether authorized or not) will not misuse it. We are not responsible for circumvention of any privacy settings or security measures contained on the Site. You understand and acknowledge that, even after removal, copies of your content may remain viewable in cached and archived pages, or if other users have copied or stored your content. 
+
+Any improper collection or misuse of information provided on the Site is a violation of our Terms of Use and should be reported via our [Contact Form](https://web.archive.org/contact/). 
+
+## Use of Information Obtained by Us
+
+The information that we collect — from what you tell us and what we gather automatically — is used for one or more of the following general purposes: 
+
+  * To customize the content you see
+  * To improve our services
+  * To tell you about products or services that may be of interest to you
+  * To contact you
+  * To conduct advertising and research.
 
 
-to the Internet), what URL you came from, the browser type and computing platform you are using, which
-pages were requested, and the duration of your session. The only way that we can connect this with any
-individual information about you is if you buy something from our site, in which case we may connect the IP
-address you came from with some personal information.
-We may use this information to analyse the way that site visitors use our site, in order to improve our site
-and the services that we offer.
-Sometimes we use your IP address to help diagnose problems with our server, and to administer our Web
-sites. We also use this information to track which areas of our sites users use and don't use based on traffic
-to those areas. We do not as a matter of course use this to track what individual users read, but rather how
-well each page or section of the site performs overall.
-Occasionally, in order to troubleshoot a problem with a web application such as a shopping cart, we review a
-web server log to identify the pages that a particular user viewed in a web site.
-Public Forums: Multibase web sites may make chat rooms, forums, message boards, and/or news groups
-available to its users. Please remember that any information that is disclosed in these areas becomes public
-information and you should exercise caution when deciding to disclose your personal information.
-Cookies: A cookie is a small data file that certain web sites write to your hard drive when you visit them. A
-cookie file contains information such as a user ID that the site uses to track the pages you've visited. But the
-only personal information a cookie can contain is information you supply yourself. A cookie can't read data
-off your hard disk or read cookie files created by other sites.
-Some Multibase web sites use cookies to collect other information during your visit to our web site, such as
-the particular site areas you visit and the products or services you buy through our web site. Cookies may
-also be used to help speed up your future activities at our site. For example, a site can recognise that you
-have provided Personal Information to use and refrain from requesting the same information a second time.
-Most browsers are initially set to accept a cookie. If you'd prefer you can set your browser to refuse cookies
-or to alert you when cookies are being sent. Refusal of cookies at the site you enter may result in an inability
-to visit certain areas of the site or to receive personalised information when you visit the site.
-We collect this information to better tailor our site and our products to your interests and needs.
-Multibase and other web sites: Some Multibase sites are operated jointly with or on behalf of other
-reputable organisations. For example, Multibase operates the iSport Australasia web sites. These sites may
-offer special terms and conditions that differ from Multibase’s standard terms and conditions, which may
-handle your personal information differently. If different privacy policies apply, they will be available on those
-web sites. If they are our contractors, that are bound by our privacy policies.
-Multibase sites and these other sites may contain links to websites outside of the services that we provide.
-These linked sites are not under the control of Multibase, and we are not responsible for the conduct of
-companies linked to our web site. Before disclosing your personal information on any other web site, we
-advise you to examine the terms and conditions of using their web sites.
-Your information and third parties
-Your personal information and the information we gather through the products and services that we provide
-to you are used by Multibase for the express purpose for which it was collected. It may also be used by us to
-improve our products, services, business processes, product collateral etc, and to contact you regarding
-other products and services which may be of interest to you (including those we may offer jointly with other
-companies). At any time you may opt out of such future contact. (See Who to Contact below.)
-We do not provide personal information to other companies except where they are subcontractors or
-suppliers directly involved in the delivery of your product or service. We do not provide your personal
-information to third parties to use for their own marketing purposes.
-Our subcontractors and suppliers are bound by our privacy policy and by confidentiality agreements, and are
-not authorised by us to use your personal information in any other way. At any time you may request
-information about the suppliers or subcontractors involved in the provision of your products or services.
-Please note that we will release your personal information if required to do so by law, or by search warrant,
-subpoena or court order.
-Security of information
-We take reasonable precautions to keep your personal information secure. Access to your personal
-information is permitted among our employees only on a need-to-know basis.
-If the personal information that we have about you is no longer needed for the purposes stated in this
-privacy policy, we will take reasonable steps to destroy or permanently de-identify personal information.
- G:\Marketing\Privacy\Multibase_privacy.doc                                                                   Page 2
+
+We will share your personal information with third parties only in the ways that are described in this privacy statement. We do not sell your personal information to third parties. 
+
+## Communications from the Site
+
+We may occasionally send you information on products, services, special deals, and promotions on our site. Out of respect for your privacy, we present you the option to not receive this type of information. To opt out of receiving this type of information, contact us via the feedback option that is always displayed along the far left of your screen toward the top of the page. 
+
+You can invite others to be members of our site by importing contacts from email address books. We use the username and password of the email account from which you wish to import your contacts only to invite new members to the Site. 
+
+## Sharing Your Information with Third Parties
+
+We sometimes release user information on an aggregated basis (meaning that the information from many iSport users is grouped in a way that does not disclose the personal information of any particular user). 
+
+If you choose to create a profile or submit information for inclusion on the Site, this information will, in fact, be available to users of the Site. 
+
+If the ownership of our business changes, either completely or substantially, we may transfer your information to the new owner so that the Site can continue to operate. 
+
+Furthermore, in certain situations described below, we will provide your personally identifying information to third parties: 
+
+  * We may provide information to service providers to help us bring you the services we offer. For example, we may use third parties to host the Site, to send out email updates about the Site, to send you targeted advertising, or to remove repetitive information from our user lists. In connection with these offerings and business operations, our service providers may have access to your personal information for use in connection with these business activities. 
+  * We may be required to disclose user information pursuant to lawful requests, such as subpoenas or court orders, or in compliance with applicable laws. Additionally, we may share account or other information when we believe it is necessary to comply with law, protect our interests or property, or prevent fraud or other illegal activity perpetrated through the Site or using our name. This may include sharing information with other companies, lawyers, or government agencies. 
+  * We may offer products or services jointly with other companies and individuals using the Site. (Collectively, these may be referred to as the “Third-Party Providers.”) You understand and agree that if you use the Site to connect with a Third-Party Provider, we may share your information with the applicable Third-Party Provider to facilitate your transaction. 
+  * When you ask us to invite a friend to join iSport, we will send your friend a message on your behalf using your name. If you choose to use our referral service (called “Invite Friends” on the Site), we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. iSport stores this information for the purposes of sending this one-time email and tracking the success of our referral program. Your friend may contact us at [customerservice@isport.com](mailto:customerservice@isport.com) to request that we remove this information from our database. 
 
 
-All our staff are trained in the importance of protecting your personal information, and in the methods by
-which we do so. Our staff are bound by confidentiality agreements to keep your personal information secure.
-In certain cases, certain Multibase staff or contractors may have access to information about our customers
-or information about our customer’s clients. This information is considered confidential, and staff are trained
-and supervised in privacy principles and procedures, and operate under confidentiality agreements.
-Multibase has checks and balances in place covering who has access to this information, and there are
-safeguards to ensure that this information is protected against misuse or loss, and from unauthorised
-access, modification or disclosure. Should the situation arise, we will comply with all reasonable directions
-from our clients in respect of dealing with their confidential or personal Information including returning or
-destroying the information.
-Accuracy of information
-Multibase takes reasonable steps to make sure that the personal information that we collect, use or disclose
-is accurate, complete and up to date. From time to time, we may contact you to check that our information is
-accurate.
-Access to your personal information
-Multibase will provide you with reasonable access to the personal information that we hold about you,
-except where doing so would contravene the National Privacy Principles. If providing this information would
-impose unreasonable costs on Multibase, we will advise you of the reasons for this and that a reasonable
-charge will be imposed to obtain the information for you.
-If you can establish that the information about you is not accurate, complete and up to date, we will take
-reasonable steps to correct this information.
-Complaint handling procedure
-If you have a complaint about breaches of this Privacy Policy, in the first instance please contact Multibase
-in one of the ways below.
-Multibase will investigate your complaint, with reference to Part V of the Privacy Act. If you are not satisfied
-with the way that we respond to your complaint, your next step is to refer your complaint to the Office of the
-Federal Privacy Commissioner. The complaint will then be dealt with as determined by the Privacy
-Commissioner.
-Changes in our policy
-Multibase reserves the right to change this Privacy Policy at our discretion. If we decide to change our
-Privacy Policy we will post those changes on our web site. We encourage you to visit this site frequently to
-stay informed.
-Who to contact
-Please write to us by one of the means below if you have any comments or questions about this Privacy
-Statement or to report any breaches of the Privacy Policy. We will respond to you within 2 business days in
-most cases.
-Multibase is committed to protecting your privacy. Please do not hesitate to contact us if you have any
-questions, comments or concerns about this Privacy Policy.
-Multibase WebAustralis Pty Ltd ACN 063 962 916 ABN 41 063 962 916
-Level 1, 11-17 Khartoum Rd, Macquarie Park NSW 2113
-PO Box 1989 Macquarie Centre NSW 2113
-Telephone:             02 9805 1911 Fax: 02 9805 1931
-Email:                 customerservice@mbase.com.au
-Web:                   www.mbase.com.au
- G:\Marketing\Privacy\Multibase_privacy.doc                                                                  Page 3
+
+Please note that because the third parties described above operate independently from iSport, iSport bears no responsibility for the activities of any of these third parties with regard to their privacy and security policies. 
+
+By using or accessing the Site, you consent to the disclosures described above. It is iSport's policy to not distribute any personally identifying information about you to third parties without your consent (usually communicated through either an “opt-out” or “opt-in” notification or mechanism), except as otherwise explicitly set forth in this privacy policy. 
+
+## General Privacy Information
+
+You can use the Site to share information with other users and communicate directly with them. iSport may also make various public forums (such as message boards, chat rooms or news groups) available to its users. Please use common sense about the personal information you disclose to others. You are solely responsible for any postings you make on public forums on iSport, and for maintaining the secrecy of your passwords and/or any account information. Please be careful and responsible whenever you use the Site. 
+
+Furthermore, [iSport.com](http://www.isport.com/) may contain links to partners, advertisers and third-party websites and services that may collect data. iSport may also be linked to by, and in some cases framed by, certain partner websites. Each of the websites (linked from iSport, or linking to iSport) will have separate privacy and data collection practices, independent of iSport, and iSport has no responsibility or liability for these independent policies or actions and is not responsible for the privacy practices or the content of such websites. We encourage our users to be aware when they leave our site to read the privacy statements of each and every website that collects personally identifiable information. This Privacy Policy applies solely to information collected by the Site. 
+
+You can link to our site using social-networking services, such as Facebook & Twitter. These services allow you to share information about your activities on iSport. They will authenticate your identity and provide you the option to share certain personal information, such as your name and email address, in order to link between the sites. 
+
+## Changing or Removing Information
+
+You can review and modify most of your personal information at any time by accessing your account. Also, upon your request, we will use commercially reasonable efforts to functionally remove you and your personal information from the Site. Removed information may persist in backup or archived copies, but will not be generally available to the users of the Site or other third parties. 
+
+## Security
+
+The security of your personal information is important to us. We follow generally accepted standards to protect the personal information submitted to us, both during transmission and in storage of your data. However, no method of transmission over the Internet or method of electronic storage is 100-percent secure. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our website, you can contact us at [customerservice@isport.com](mailto:customerservice@isport.com). 
+
+## Children Ages 13 through 17
+
+Minors age 13 or older can use the Site only in conjunction with, and under the supervision of, a parent or guardian who has agreed to the Terms of Use and this Privacy Policy. 
+
+## Children under Age 13
+
+We do not knowingly collect or solicit personal information from anyone under the age of 13. If you are under age 13, please do not use this Site or send any information about yourself to us. This information includes your name, address, telephone number, or email address. In the event that we learn of collected personal information from a person under the age of 13, we will delete that information as quickly as possible. If you believe that we might have any information from or about a person under the age of 13, please contact us at [customerservice@isport.com](mailto:customerservice@isport.com). 
+
+## Terms of Use, Notices and Revisions
+
+Your use of the Site, and any disputes arising from it, is subject to this Privacy Policy, as well as our Terms of Use and all of its dispute resolution provisions, including limitation on damages and choice of law. We reserve the right to change our Privacy Policy and our Terms of Use at any time. We may update this privacy statement to reflect changes to our information practices. If we make any material changes, we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. 
+
+## Contacting the Site
+
+If you have any questions about this privacy policy, please contact us at [customerservice@isport.com](mailto:customerservice@isport.com) or by post mail: 
+
+iSport Customer Service
+
+110 Rio Robles
+
+San Jose, California 95134
