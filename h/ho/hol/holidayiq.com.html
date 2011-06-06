@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the holidayiq.com privacy policy that was archived on 2007-12-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071211060514id_/http%3A//www.holidayiq.com/privacypolicy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the holidayiq.com privacy policy that was archived on 2011-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110606081426id_/http%3A//www.holidayiq.com/privacypolicy.php) for the most accurate reproduction.-->
 
 <html><head>
 	<title>HolidayIQ | Home</title>
 <link href="irs_stylesheet.css" rel="stylesheet">
 
 <!-- Code to be included in the header section starts-->
-<script>
+<script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script>
 // var page_name = "HolidayIQ | Home";
 </script>
 <!-- <script src="js/usertrack.js" type="text/javascript"></script> -->
@@ -14,128 +14,126 @@
 
 </head>
 <body leftmargin="0" topmargin="0" rightmargin="0" bottommargin="0" marginwidth="0" marginheight="0">
-<!-- Annie :: DHTML POPUP-->
+
+<script language="javascript" src="http://www.holidayiq.com/scripts/login_validate.js?version=1"></script>
 <style type="text/css">
-#fadeinbox{
-position:absolute;
-border: 2px solid #32A604 ;
-background-color: #32A604 ;
-z-index: 100;
-visibility:hidden;
+/* Login Box Start */
+.loginheader {
+	font-family:Arial;
+	font-size:11px;
+	font-weight:bold;
+	color:#FFFFFF;
+}
+.loginheader a {
+	font-family:Arial;
+	font-size:11px;
+	font-weight:bold;
+	color:#FFFFFF;
+}
+.loginheader a:hover {
+	font-family:Arial;
+	font-size:11px;
+	font-weight:bold;
+	color:#FFFFFF;
+}
+.loginheader a:visited {
+	font-family:Arial;
+	font-size:11px;
+	font-weight:bold;
+	color:#FFFFFF;
+}
+.loginheader a:active {
+	font-family:Arial;
+	font-size:11px;
+	font-weight:bold;
+	color:#FFFFFF;
+}
+.inputLogin {
+	width:65px;
+	/*height:18px;*/
+	font: 11px Arial;
+	background-color: #FFFFFF;
+	color: #102132;
+	border-top: 1px solid #CCCCCC;
+	border-left:none;
+	border-right:none;
+	border-bottom:none;
+	margin-right: 0px;
+	padding-top:2px;
+	padding-left:2px;
+}
+.loginlinks {
+	font-family:arial;
+	font-size:9px;
+	font-weight:normal;
+	color:#F02300;
+	text-decoration:none;
+}
+.loginlinks a {
+	font-family:arial;
+	font-size:9px;
+	font-weight:normal;
+	color:#F02300;
+	text-decoration:none;
+}
+.loginlinks a:hover {
+	font-family:arial;
+	font-size:9px;
+	font-weight:normal;
+	color:#F02300;
+	text-decoration:none;
+}
+.loginlinks a:visited {
+	font-family:arial;
+	font-size:9px;
+	font-weight:normal;
+	color:#F02300;
+	text-decoration:none;
+}
+.loginlinks a:active {
+	font-family:arial;
+	font-size:9px;
+	font-weight:normal;
+	color:#F02300;
+	text-decoration:none;
+}
+.welcome {
+	font-family:arial;
+	font-size:11px;
+	font-weight:bold;
+	color:#333333;
+	text-decoration:none;
+}
+.welcomename {
+	font-family:arial;
+	font-size:11px;
+	font-weight:normal;
+	color:#333333;
+	text-decoration:none;
+}
+/* Login Box End */
+</style>
+<style type="text/css">
+.destbgsearch
+{
+	border-right:solid 0px #cccccc;
+	border-left:solid 0px #CFCDCD;
+	border-top:solid 1px #FFFFFF;
+	border-bottom:solid 0px #CFCDCD;
+	padding: 4px; 
+    background-color: #EAEAEA;
+}
+.copysearchbold {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #333333; FONT-FAMILY: Verdana;
+}
+.destbgsearch123{
+	border-right: 0px #FF6600;
+	border-left: 0px #EAEAEA;
+	border-top: 0px #EAEAEA;
+	border-bottom: 0px #EAEAEA;
+		height:16;
 }
 </style>
-<script type="text/javascript">
-
-/***********************************************
-* Sticky Note script- © Dynamic Drive DHTML code library (www.dynamicdrive.com)
-* Visit DynamicDrive.com for hundreds of DHTML scripts
-* This notice must stay intact for legal use
-* Go to http://www.dynamicdrive.com/ for full source code
-***********************************************/
-
-//Specify display mode. 3 possible values are:
-//1) "always"- This makes the fade-in box load each time the page is displayed
-//2) "oncepersession"- This uses cookies to display the fade-in box only once per browser session
-//3) integer (ie: 5)- Finally, you can specify an integer to display the box randomly via a frequency of 1/integer...
-// For example, 2 would display the box about (1/2) 50% of the time the page loads.
-
-var displaymode1="oncepersession"
-
-var enablefade="no" //("yes" to enable fade in effect, "no" to disable)
-var autohidebox="no"
-//var autohidebox=["yes", 10] //Automatically hide box after x seconds? [yes/no, if_yes_hide_after_seconds]
-var showonscroll1="no" //Should box remain visible even when user scrolls page? ("yes"/"no)
-var IEfadelength=1 //fade in duration for IE, in seconds
-var Mozfadedegree=0.05 //fade in degree for NS6+ (number between 0 and 1. Recommended max: 0.2)
-
-////////No need to edit beyond here///////////
-
-if (parseInt(displaymode1)!=NaN)
-var random_num=Math.floor(Math.random()*displaymode1)
-
-
-
-function mozfadefx(){
-if (parseFloat(objref1.style.MozOpacity)<1)
-objref1.style.MozOpacity=parseFloat(objref1.style.MozOpacity)+Mozfadedegree
-else{
-clearInterval(mozfadevar)
-controlledhidebox()
-}
-}
-
-function staticfadebox(){
-var ie=document.all && !window.opera
-var scroll_top=(ie)? iebody.scrollTop : window.pageYOffset
-objref1.style.top=scroll_top+docheight/2-objheight/2+"px"
-}
-
-function hidefadebox(){
-objref1.style.visibility="hidden"
-if (typeof showonscrollvar1!="undefined")
-clearInterval(showonscrollvar1)
-}
-
-function controlledhidebox(){
-if (autohidebox[0]=="yes"){
-var delayvar=(enablefade=="yes" && objref1.filters)? (autohidebox[1]+objref1.filters[0].duration)*1000 : autohidebox[1]*1000
-setTimeout("hidefadebox()", delayvar)
-}
-}
-
-function initfunction(){
-setTimeout("displayfadeinbox()", 100)
-}
-
-function get_cookie(Name) {
-var search = Name + "="
-var returnvalue = ""
-if (document.cookie.length > 0) {
-offset = document.cookie.indexOf(search)
-if (offset != -1) {
-offset += search.length
-end = document.cookie.indexOf(";", offset)
-if (end == -1)
-end = document.cookie.length;
-returnvalue=unescape(document.cookie.substring(offset, end))
-}
-}
-return returnvalue;
-}
-
-if (displaymode1=="oncepersession" && get_cookie("fadedin")=="" || displaymode1=="always" || parseInt(displaymode1)!=NaN && random_num==0){
-if (window.addEventListener)
-window.addEventListener("load", initfunction, false)
-else if (window.attachEvent)
-window.attachEvent("onload", initfunction)
-else if (document.getElementById)
-window.onload=initfunction
-//document.cookie="fadedin=yes"
-document.cookie="fadedin=yes;path=/"
-}
-
-//once the message window is closed, it should not be displayed again --add the foll code, hide the above, displaymode1="always" 
-/*
-if (get_cookie("fadedin")=="" && displaymode1=="always" || parseInt(displaymode1)!=NaN && random_num==0){
-alert("This is first");
-if (window.addEventListener)
-window.addEventListener("load", initfunction, false)
-else if (window.attachEvent)
-window.attachEvent("onload", initfunction)
-else if (document.getElementById)
-window.onload=initfunction
-document.cookie="fadedin=yes"
-}
-*/
-
-
-
-</script>
-
-<!-- Annie::End DHTML POPUP-->
-
-<script language="javascript" src="scripts/login_validate.js"></script>
-
 <script>
 	function gotoresourcefolderpage(gotoFile, uri)
 	{
@@ -144,13 +142,13 @@ document.cookie="fadedin=yes"
 		var isTrue = false;
 		//alert(gotoFile);
 
-		if((uri.indexOf("states") != -1) || (uri.indexOf("destinations") != -1))
+		if((uri.indexOf("states") != -1) || (uri.indexOf("destinations") != -1) || (uri.indexOf("/videos/") != -1) || (uri.indexOf("/rss/") != -1) || (uri.indexOf("/hotelvideos/") != -1))
 		{
 			gotoloc = "../"+gotoFile;	
 			isTrue = true;
 		}
 
-		if((uri.indexOf("experiences") != -1) || (uri.indexOf("itineraries") != -1) || (uri.indexOf("photos") != -1) || (uri.indexOf("reviews") != -1))
+		if((uri.indexOf("experiences") != -1) || (uri.indexOf("itineraries") != -1) || (uri.indexOf("photos") != -1) || (uri.indexOf("reviews") != -1) || (uri.indexOf("states/videos") != -1) || (uri.indexOf("destinations/videos") != -1))
 		{
 			gotoloc ="../../"+gotoFile;
 			isTrue = true;
@@ -165,134 +163,110 @@ document.cookie="fadedin=yes"
 		window.location.href=gotoloc;
 	}
 </script>
-
-
-
-<script language="JavaScript" src="javascript/new_nav.js"></script>
-
-<script language="JavaScript" src="http://www.holidayiq.com/javascript/others_popup.js"></script>
-<!-- Annie :: POPUP -->
-<div id="fadeinbox" style="filter:progid:DXImageTransform.Microsoft.RandomDissolve(duration=1) progid:DXImageTransform.Microsoft.Shadow(color=gray,direction=135) ; -moz-opacity:0">
-
-<table cellpadding="0" cellspacing="0">
-<tbody><tr><td class="copy" align="right" style="color: white;font-family: verdana;font-size: 10px"><a href="#" onclick="hidefadebox();return false" style="color: white;font-family: verdana;font-size: 10px"><b>Close X<b></b></b></a></td></tr>
-
-<tr><td colspan="2" style="color: white;font-family: verdana;font-size: 10px">
-<a href="http://www.holidayiq.com/xchangelanding.php?cp=contestlandingpage&amp;sl=popup"><img src="http://www.holidayiq.com/images/home_ad_logo.jpg" border="0"></a></td></tr>
-</tbody></table>
-</div>
-<!-- Annie :: End POPUP -->
-
-<map name="Map">
-	<area shape="rect" coords="1,-3,70,11" onclick="gotoresourcefolderpage('forgotpass.php', '/privacypolicy.php')" alt="Forgot password?" title="Forgot password?">
-	<area shape="rect" coords="1,11,71,23" onclick="gotoresourcefolderpage('registration.php', '/privacypolicy.php')" alt="New User Register Free" title="New User Register Free">
-  </map><table width="960" border="0" cellspacing="0" cellpadding="0">
-
-    
-  <tbody><tr valign="top">
-	<form name="login" method="post" action="logincheck.php" onsubmit="return validatelogin(this)"></form>
-	<td><a href="http://www.holidayiq.com/home.php"><img src="images/logo-iq-holiday.gif" alt="HolidayIQ - Formerly India Resorts Survey" width="165" height="47" border="0"></a></td>
-	<td valign="top">
-	<table width="100%" align="center" border="0" valign="top">
-	  <tbody><tr valign="top"><td><img src="images/spacer.gif" width="15"> </td>
-	      <td>
-			<!-- begin ZEDO for channel: Header Banner , publisher: default , Ad Dimension: Full Banner - 468 x 60 -->
-				<script language="JavaScript">
-				var zflag_nid="733"; var zflag_cid="72"; var zflag_sid="0"; var zflag_width="468"; var zflag_height="60"; var zflag_sz="0"; 
-				</script>
-				<script language="JavaScript" src="http://d2.zedo.com/jsc/d2/fo.js"></script>
-			<!-- end ZEDO for channel: Header Banner , publisher: default , Ad Dimension: Full Banner - 468 x 60 -->
-		 </td>
-     </tr>
-	</tbody></table>
-	</td>
-	<td align="right" valign="top" class="small">
-	<table cellspacing="0" cellpadding="0" width="290" border="0">
-	<tbody>
-	  <tr>
-		
-		<td class="smallcopy" valign="center" align="left" width="60">
-		<input name="email_id" type="text" class="login" value="Email ID" size="10" onfocus="if (this.value='Email ID'){this.value='';} ">
-		</td>
-		<td class="smallcopy" valign="center" align="left" width="60">
-		<input name="password" type="password" class="login" value="password" size="10" onfocus="if (this.value='password'){this.value='';} ">
-		</td>
-		<td valign="center" align="left" width="23">
-		<input type="image" height="13" width="20" src="images/MnGobutton.gif" align="middle" value="submit" border="none" name="image22">
-		<input id="ref_page22" type="hidden" value="/privacypolicy.php" name="ref_page">
-		</td>
-		<td valign="center" align="right" width="82">
-		<img style="cursor:pointer" height="22" src="images/imagemap.gif" width="70" usemap="#Map" border="0">
-		</td>
-	  </tr>
-	  <!-- <tr><td>&nbsp;</td></tr> -->
-	<!-- <tr><td colspan="5" align="right"> --><!--<A style="cursor:hand" onclick="javascript:window.location.href='mailers/hiqpreview.html';"><font color="red" face="Arial, Helvetica, sans-serif" size="2"><b>CEO's Message</b></font></A>--><!-- </td></tr> -->
-	</tbody>
-	</table>
-	</td>
-	
-  </tr>
-    
-  
-			
-  
-
- 
-<tr>
-	<td height="16" colspan="3"><img src="images/spacer.gif" width="1" height="16"></td>
-</tr>
-
-<tr>
-
-<td colspan="3">
-	<!-- main links start -->
-	<table width="960" border="0" cellpadding="0" cellspacing="0">
-	  <tbody><tr>
-
-
-<td width="89"><a onclick="gotoresourcefolderpage('home.php', '/privacypolicy.php')" style="cursor:pointer" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('homer1','','images/btn_home_on.gif',1)"><img src="images/btn_home_off.gif" alt="Home" width="89" height="20" border="0" name="homer1"></a></td>
-
-
-
-
-<td width="89"><a onclick="gotoresourcefolderpage('findadestinationnew.php', '/privacypolicy.php')" style="cursor:pointer" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('use2','','images/btn_destinations_on.gif',1)"><img src="images/btn_destinations_off.gif" alt="Destinations" width="89" height="20" border="0" name="use2" id="use"></a></td>
-
-
-
-<!-- 
-<td width="88"><a href="rateresort.php" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('rate2','','images/btn_ratehotel_on.gif',1)"><img src="images/btn_ratehotel_off.gif" alt="Rate a Hotel" width="88" height="20" border="0" name="rate2" id="rate"></a></td>
-
- -->
-
-
-<td width="89"><a onclick="gotoresourcefolderpage('India-Hotels-Resorts-Vacations.html', '/privacypolicy.php')" onmouseout="MM_swapImgRestore()" style="cursor:pointer" onmouseover="MM_swapImage('find2','','images/hotels_on.gif',1)"><img src="images/hotels.gif" alt="Find a Hotel" width="89" height="20" border="0" name="find2" id="find"></a></td>
-
-
-
-
-<td width="89"><a onclick="gotoresourcefolderpage('destination_photographs.php', '/privacypolicy.php')" style="cursor:pointer" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('howrate2','','images/btn_photographs_on.gif',1)"><img src="images/btn_photographs_off.gif" alt="Photographs" width="89" height="20" border="0" name="howrate2" id="howrate"></a></td>
-
-
-<td width="89"><a onclick="gotoresourcefolderpage('connectiq.php', '/privacypolicy.php')" style="cursor:pointer" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('community2','','images/community_on.gif',1)"><img src="images/community.gif" alt="Community" width="89" height="20" border="0" name="community2" id="community"></a></td>
-
- 
-
-<td width="89"><a onclick="gotoresourcefolderpage('activeholidays_index.php', '/privacypolicy.php')" onmouseout="MM_swapImgRestore()" style="cursor:pointer" onmouseover="MM_swapImage('MnNavi8','','images/btn_adventures_on.gif',1)"><img src="images/btn_adventures_off.gif" alt="Adventure" width="89" height="20" border="0" name="MnNavi8"></a></td>
-
-
-
-	<td width="117"><a onclick="gotoresourcefolderpage('forumindex.php', '/privacypolicy.php')" onmouseout="MM_swapImgRestore()" style="cursor:pointer" onmouseover="MM_swapImage('MnNavi9','','images/btn_xchange_on.gif',1)"><img src="images/btn_xchange_off.gif" alt="XChange" width="117" height="20" border="" name="MnNavi9" id="MnNavi"></a></td>
-					
-
-<!--<td width="427" height="10" style="background-image:url(images/color_band.gif); background-repeat:y;">&nbsp;</td>-->
-<td width="310"><img src="images/color_band.gif" alt="Forum" width="310" height="20" border="" name="colorband"></td>
-
+<script language="JavaScript" src="http://www.holidayiq.com/javascript/new_nav.js"></script>
+<table width="960" border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr>
+		<td colspan="3" height="7"><img src="http://www.holidayiq.com/images/spacer.gif" width="1" height="7"></td>
 	</tr>
-  </tbody></table>						
-	<!-- main links ends -->
-</td>
-</tr>
-</tbody></table><form name="irs">
+		
+	<tr>
+		<td width="165" height="60" align="left" valign="middle">
+			<a href="http://www.holidayiq.com/"><img src="/images/logo-iq-holiday.gif" alt="HolidayIQ - Formerly India Resorts Survey" width="165" height="47" border="0"></a>
+		</td>
+		<td width="514" height="60" align="right">
+			<table width="514" border="0" align="center" cellpadding="0" cellspacing="0">
+				<tbody><tr>
+					<td width="7" height="60" valign="top"><img src="/images/spacer.gif" width="7"></td>
+					<td width="514" height="60" align="right" valign="bottom">
+
+					  <a href="http://www.holidayiq.com/shareIQ.php"><img src="http://www.holidayiq.com/images/shareIQ_img.gif" border="0"></a>
+				  </td>
+					<td width="7" height="60" valign="top"><img src="/images/spacer.gif" width="7"></td>
+				</tr>
+		  </tbody></table>
+		</td>
+		<td width="277" height="60" align="right" class="small" id="topNavLoginSection">
+			<table width="277" height="60" border="0" align="right" cellpadding="0" cellspacing="0">
+				<tbody><tr>
+					<td rowspan="2" align="right" valign="top"><img src="/images/spacer.gif" alt="" width="50" height="1" border="0"></td>
+					<td align="left" valign="top" bgcolor="#E6E6E6" class="loginheader"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tbody><tr>
+                        <td align="left" valign="top" bgcolor="#DF0000" class="loginheader"><img src="/images/spacer.gif" width="1" height="15" border="0"></td>
+                        <td width="100%" align="left" valign="top" bgcolor="#DF0000" class="loginheader">&nbsp;&nbsp;&nbsp;Member Login</td>
+                      </tr>
+                    </tbody></table></td>
+				</tr>
+				<tr bgcolor="#E3E9E7">
+					<td align="center" valign="middle" bgcolor="#E6E6E6" class="copy">
+						<table border="0" cellpadding="1" cellspacing="1">
+						<form name="login" method="post" action="http://www.holidayiq.com/logincheck.php" onsubmit="return validatelogin(this)"></form>
+							<tbody><tr>
+							  <td align="left" valign="middle" class="copy">
+                                <input name="email_id" class="inputLogin" value="Email ID" size="12" onfocus="if (this.value='Email ID'){this.value='';} " type="text"></td>
+								<td align="left" valign="middle" class="copy">
+								<input name="password" class="inputLogin" value="password" size="12" onfocus="if (this.value='password'){this.value='';} " type="password"></td>
+								<td align="left" valign="middle" class="copy">
+									<input src="/images/LoginGo.gif" value="Go" name="btnLoginGo" align="middle" type="image" alt="Go">
+								</td>
+							</tr>
+							<tr>
+							  <td align="left" valign="middle" nowrap="" class="loginlinks">&nbsp;<a href="/registration.php" title="New User Register Free" style="cursor:pointer">Register Free!</a></td>
+							  <td align="left" valign="middle" nowrap="" class="loginlinks">&nbsp;<a href="/forgotpass.php" title="Forgot password?">Forgot password?</a></td>
+						      <td align="left" valign="middle" nowrap="" class="loginlinks">&nbsp;</td>
+							</tr>
+						<input id="ref_page22" value="/privacypolicy.php" name="ref_page" type="hidden">
+						
+				  </tbody></table>				  </td>
+				</tr>
+		  </tbody></table>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="3" height="7"><img src="http://www.holidayiq.com/images/spacer.gif" width="1" height="7"></td>
+	</tr>	
+	<tr>
+		<td colspan="3">
+		<!-- main links start -->
+			<table width="960" border="0" cellpadding="0" cellspacing="0" class="navcontainer">
+				<tbody><tr>
+				<td width="85"><a class="normal" href="/">Home</a></td><td width="95"><a class="normal" href="/findadestinationnew.php">Destinations</a></td><td width="85"><a class="normal" href="/India-Hotels-Resorts-Vacations.html">Hotels</a>
+					</td><td width="95"><a class="normal" href="http://flights.holidayiq.com">Flights<font style="position:relative;top:-5px;color:red;font-size:8px;">New</font></a></td><td width="85"><a class="normal" href="/intl/worldOverview">International</a>
+				</td><td width="90"><a class="normal" href="/India-Travel-Agents.php">Travel Agents</a>
+					</td><td width="85"><a class="normal" href="/India-Travel-Photos.html">Photos</a></td><td width="85"><a class="normal" href="/videos/India-Travel-Videos.html">Videos</a></td><td width="85"><a class="normal" href="/India-Travel-Forums.html">Forum</a></td><td width="170" align="left"><img src="/images/color_band.gif" width="170" height="20" border="" name="colorband"></td>				</tr>
+			</tbody></table>
+		<!-- main links ends -->		
+		<!-- Search box start-->
+			<table cellpadding="0" cellspacing="0" border="0" width="100%" class="destbgsearch">
+				<tbody><tr>
+					<td height="4"><img src="http://www.holidayiq.com/images/spacer.gif" width="1" height="4"></td>
+				</tr> 
+				<tr>
+					<td class="copysearchbold">&nbsp;&nbsp;&nbsp;HolidayIQ - Discover Intelligent Holiday Planning!</td>
+					<td>
+					<form name="searchfrm_top" method="POST" onsubmit="return validate_top(this)">
+						<table cellpadding="0" cellspacing="0" border="0" align="right">
+							<tbody><tr>
+								<td>
+									<div><input type="text" size="35" class="destbgsearch123" name="Search_from_frm_top" value="Search" maxlength="100" onfocus="if (this.value='Search'){this.value='';}"></div>
+								</td>
+								<td>
+									<div><input id="SubmitTop" name="SubmitTop" type="image" src="http://www.holidayiq.com/images/go_search_sml.gif" border="0" alt="Go"></div>
+								</td>
+							</tr>
+						</tbody></table>
+					</form>
+					</td>	
+				</tr>
+				<tr>
+					<td height="5"><img src="http://www.holidayiq.com/images/spacer.gif" width="1" height="5"></td>
+					<td height="5"><img src="http://www.holidayiq.com/images/spacer.gif" width="1" height="5"></td>
+				</tr>
+			</tbody></table>
+		<!-- Search box end-->
+		</td>
+	</tr>
+</tbody></table>
+<form name="irs">
 <!--Main contents starts here-->
 <table width="1000" border="0" cellpadding="0" cellspacing="0">
 <tbody><tr>
@@ -385,39 +359,335 @@ document.cookie="fadedin=yes"
  </tr>
 </tbody></table>
 </form>
-<table width="855" cellpadding="0" cellspacing="0" border="0">
-    <tbody><tr>
-      <td width="18" rowspan="5">&nbsp;</td>
-      <td><img src="/img/b3b3b3.gif" border="0" height="15" width="1"></td>
-    </tr>
-	<tr>
-	  <td class="link" height="18" valign="middle" align="left">
-		<a onclick="gotoresourcefolderpage('forpropertiesdec.php', '/privacypolicy.php')" style="cursor:pointer" class="link">For Properties</a> | 
-		<a onclick="gotoresourcefolderpage('BusinessEnquiry.php', '/privacypolicy.php')" style="cursor:pointer" class="link">Business Enquiry</a> | 
-		<a onclick="gotoresourcefolderpage('feedback.php', '/privacypolicy.php')" style="cursor:pointer" class="link">Feedback</a> | 
-		<a onclick="gotoresourcefolderpage('forthepress.php', '/privacypolicy.php')" style="cursor:pointer">For Press</a> | 
-		<a onclick="gotoresourcefolderpage('addresort.php', '/privacypolicy.php')" style="cursor:pointer">Add a Hotel</a> | 
-		<a onclick="gotoresourcefolderpage('cpc_ads_why_ires.php', '/privacypolicy.php')" style="cursor:pointer">Advertise with Us</a> | <a onclick="gotoresourcefolderpage('usefullinks.php', '/privacypolicy.php')" style="cursor:pointer">Useful Links</a> | <a onclick="gotoresourcefolderpage('explain.php#symbol', '/privacypolicy.php')" style="cursor:pointer">Rating Explained</a> | 
-		<a onclick="gotoresourcefolderpage('whatsnew.php', '/privacypolicy.php')" style="cursor:pointer" class="link">What's New</a>
-	  </td>
-	</tr>
-	<tr>
-	  <td bgcolor="#E5E5E5"><img src="/img/b3b3b3.gif" width="1" height="1"></td>
-	</tr>
-	<tr>
-	  <td><img src="/img/b3b3b3.gif" width="1" height="3"></td>
-	</tr>
-	<tr>
-	  <td valign="top" class="copy">© Copyright 2005-06. Leisure &amp; Lifestyle Information Services Pvt. Ltd. All rights reserved.<br>
-        <a onclick="gotoresourcefolderpage('aboutus.php', '/privacypolicy.php')" style="cursor:pointer" class="link">About Us</a> | 
-		<a onclick="gotoresourcefolderpage('joinus.php', '/privacypolicy.php')" style="cursor:pointer" class="link">Join Us</a> | 
-		<a onclick="gotoresourcefolderpage('contactus.php', '/privacypolicy.php')" style="cursor:pointer" class="link">Contact Us</a> | 
-	    <a onclick="gotoresourcefolderpage('terms.php', '/privacypolicy.php')" style="cursor:pointer" class="link">Terms of Use</a> <font class="link">|</font> 
-	    <a onclick="gotoresourcefolderpage('privacypolicy.php', '/privacypolicy.php')" style="cursor:pointer" class="link">Privacy Policy</a> <font class="link">|</font> 
-	    <a onclick="gotoresourcefolderpage('Disclaimer.php', '/privacypolicy.php')" style="cursor:pointer" class="link">Disclaimer</a><br>
-	  <br></td>
-	</tr>
+
+<style type="text/css">
+
+.homeFooter {
+	border:1px solid #CCCCCC;
+	background: #FFF;
+	width:920px;
+	height:0px;
+	font-size:11px
+}
+</style>
+	
+<!-- bottom links starts -->
+		
+<!--New footer-->
+		<!-- bottom links starts -->
+	
+<!-- New footer-Mohit-->
+<div class="footerblock" style="width: 910">
+
+
+			<table width="100%" border="0" cellpadding="0" cellspacing="0" class="homeFooter">
+  <tbody><tr style="padding-top:5px;">
+    <th scope="col" width="198px" style="padding-left:5px; padding-top:5px;" align="left"><strong><span style="color:#000000">India Hotels by HolidayIQ</span></strong></th>
+    <th scope="col" align="left"><strong><span style="color:#000000">International Hotels by Wego</span></strong></th>
+    <th scope="col" align="left"><strong><span style="color:#000000">Information</span></strong></th>
+    <th scope="col" align="left"><strong><span style="color:#000000">Top Holiday Packages</span></strong></th>
+    <th scope="col" align="left"><strong><span style="color:#000000">Theme Holidays</span></strong></th>
+  </tr>
+  <tr>
+    <th scope="row">&nbsp;</th>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <th scope="row" valign="top" style="padding-left:5px; padding-bottom:10px;"><table width="220" border="0" cellpadding="0" cellspacing="0" class="copy">
+  <tbody><tr>
+    <th scope="row" class="copy" align="left"><a href="http://www.holidayiq.com/Popular-Agra-Hotels-Resorts-Reviews-Ratings-Tariff-Rates-255-1-yes-destination.html"> Agra Hotels </a></th>
+    <td align="left"><a href="http://www.holidayiq.com/Popular-Kolkata-Hotels-Resorts-Reviews-Ratings-Tariff-Rates-418-25-yes-destination.html">Kolkata Hotels </a>
+  </td></tr>
+  <tr>
+    <th scope="row" class="copy" align="left"><a href="http://www.holidayiq.com/bangalore-hotels-293">Bangalore Hotels</a></th>
+    <td align="left"><a href="http://www.holidayiq.com/Popular-Kochi(Cochin)-Hotels-Resorts-Reviews-Ratings-Tariff-Rates-335-15-yes-destination.html">Kochi Hotels </a></td>
+  </tr>
+  <tr>
+    <th scope="row" class="copy" align="left"><a href="http://www.holidayiq.com/Popular-Chennai-Hotels-Resorts-Reviews-Ratings-Tariff-Rates-328-12-yes-destination.html">Chennai Hotels</a></th>
+    <td align="left"><a href="http://www.holidayiq.com/Popular-Jaipur-Hotels-Resorts-Reviews-Ratings-Tariff-Rates-383-6-yes-destination.html">Jaipur Hotels </a></td>
+  </tr>
+  <tr>
+    <th scope="row" class="copy" align="left"><a href="http://www.holidayiq.com/Popular-Mysore-Hotels-Resorts-Reviews-Ratings-Tariff-Rates-472-13-yes-destination.html">Mysore Hotels</a></th>
+     <td align="left"><a href="http://www.holidayiq.com/shimla-hotels-549">Shimla Hotels</a>
+  </td></tr>
 </tbody></table>
+</th>
+    <td valign="top"><table width="250" border="0" cellpadding="0" cellspacing="0" class="copy">
+  <tbody><tr>
+    <th scope="col" class="copy" align="left"><a href="http://www.wego.com/hotels/thailand/bangkok"> Bangkok Hotels </a></th>
+    <th scope="col" class="copy" align="left"><a href="http://www.wego.com/hotels/indonesia/bali">Bali Hotels </a></th>
+  </tr>
+  <tr>
+    <th scope="row" class="copy" align="left"><a href="http://www.wego.com/hotels/china/hong-kong">Hong Kong Hotels</a></th>
+    <td class="copy" align="left"><a href="http://www.wego.com/hotels/united-states/las-vegas">Las Vegas Hotels </a></td>
+  </tr>
+  <tr>
+    <th scope="row" class="copy" align="left"><a href="http://www.wego.com/hotels/malaysia/kuala-lumpur">Kuala Lumpur Hotels</a></th>
+    <td class="copy" align="left"><a href="  http://www.wego.com/hotels/united-states/new-york-city">New York Hotels </a></td>
+  </tr>
+  <tr>
+    <th scope="row" class="copy" align="left"><a href="http://www.wego.com/hotels/singapore/singapore">Singapore Hotels</a></th>
+    <td class="copy" align="left"><a href="http://www.wego.com/hotels/thailand/phuket">Phuket Hotels</a></td>
+  </tr>
+</tbody></table></td>
+    <td valign="top"><table width="130" border="0" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <th scope="col" class="copy" align="left"><a href="http://www.holidayiq.com/India-Hotels-Resorts-Vacations.html">Hotels</a></th>
+  </tr>
+  <tr>
+    <th scope="row" class="copy" align="left"><a href="http://www.holidayiq.com/Weather-India">Weather</a></th>
+  </tr>
+  <tr>
+    <th scope="row" class="copy" align="left"><a href="http://www.holidayiq.com/findadestinationnew.php">Destinations</a></th>
+  </tr>
+  <tr>
+    <th scope="row" class="copy" align="left"><a href="http://www.holidayiq.com/How-To-Reach-India">How To Reach</a></th>
+  </tr>
+</tbody></table>
+</td>
+    <td valign="top"><table width="200" border="0" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <th scope="col" class="copy" align="left"><a href="http://www.holidayiq.com/Coorg-Packages-339-13-yes-0.html">Coorg Packages</a></th>
+  </tr>
+  <tr>
+    <th scope="row" class="copy" align="left"><a href="http://www.holidayiq.com/Munnar-Packages-469-15-yes-0.html">Munnar Packages</a></th>
+  </tr>
+  <tr>
+    <th scope="row" class="copy" align="left"><a href="http://www.holidayiq.com/Chikmagalur-Packages-330-13-yes-0.html">Chikmagalur Packages</a></th>
+  </tr>
+  <tr>
+    <th scope="row" class="copy" align="left"><a href="http://www.holidayiq.com/Arunachal-Pradesh-Packages-278-34-yes--0.html">Arunachal Pradesh Packages</a></th>
+  </tr>
+</tbody></table>
+</td>
+    <td valign="top"><table width="150" border="0" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <th scope="col" class="copy" align="left"><a href="http://www.holidayiq.com/Beach-Holidays-1-Theme-Holidays.html">Beach Holidays</a></th>
+  </tr>
+  <tr>
+    <th scope="row" class="copy" align="left"><a href="http://www.holidayiq.com/Hill-Holidays-2-Theme-Holidays.html">Hill Holidays</a></th>
+  </tr>
+  <tr>
+    <th scope="row" class="copy" align="left"><a href="http://www.holidayiq.com/Honeymoon-9-Theme-Holidays.html">Honeymoons</a></th>
+  </tr>
+  <tr>
+    <th scope="row" class="copy" align="left"><a href="http://www.holidayiq.com/Pilgrimages-5-Theme-Holidays.html">Pilgrimage</a></th>
+  </tr>
+  
+</tbody></table>
+</td>
+  </tr>
+</tbody></table>
+
+
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+			<span class="bottomlinks">
+				<a href="http://www.holidayiq.com/forpropertiesdec.php">For Hotels</a> |
+				<a href="http://www.holidayiq.com/BusinessEnquiry.php">Business Enquiry</a> | 
+				<a href="http://www.holidayiq.com/feedback.php">Feedback</a> | 
+				<a href="http://www.holidayiq.com/forthepress.php">For Press</a> | 
+				<a href="http://www.holidayiq.com/addresort.php">Add a Hotel</a> | 
+				<a href="http://www.holidayiq.com/adddestination.php">Add a Destination</a> | 
+				<!-- <a onclick="gotoresourcefolderpage('advertise-with-us.php', '/privacypolicy.php')" style="cursor:pointer" class="link" rel="nofollow">Advertise with Us</a> -->
+				<a href="http://www.holidayiq.com/advertise-with-us.php" style="cursor:pointer" class="link">Advertise with Us</a> | 
+				<a href="http://www.holidayiq.com/whatsnew.php">What's New</a> | <a href="http://www.holidayiq.com/sitemap.php" style="cursor:pointer" class="link">Sitemap</a>| <a href="http://www.holidayiq.com/ror.xml" style="cursor:pointer" class="link"> ROR Sitemap</a> | <a href="http://m.holidayiq.com" style="cursor:pointer" class="link">Mobile</a>  <a href="http://harinair.wordpress.com/" style="cursor:pointer" class="link" target="_blank">CEO Blog</a>
+			</span>
+			<!--<div class="footerline"></div>-->
+			<br>
+			<br>
+			<span style="font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 9px;">Network: <a href="http://www.wego.com" style="cursor:pointer" class="link" target="_blank">wego.com </a>is a travel search engine that helps you find cheap hotels,cheap flights,vacation packages,tours,car rentals and travel deals | <a href="http://www.Commonfloor.com" style="cursor:pointer" class="link" target="_blank">Commonfloor</a> | <a href="http://www.toostep.com" style="cursor:pointer" class="link" target="_blank">Toostep</a> </span>
+			<br>
+			<span class="copy">© Copyright 2005-11. Leisure &amp; Lifestyle Information Services Pvt. Ltd. All rights reserved.<br></span>
+			<a href="http://www.holidayiq.com/aboutus.php">About Us</a> | 
+			<a href="http://www.holidayiq.com/joinus.php">Join Us</a> | 
+			<a href="http://www.holidayiq.com/contactus.php">Contact Us</a> | 
+			<a href="http://www.holidayiq.com/terms.php">Terms of Use</a> | 
+			<a href="http://www.holidayiq.com/privacypolicy.php">Privacy Policy</a> | 
+			<a href="http://www.holidayiq.com/Disclaimer.php">Disclaimer</a> | 
+			<a href="http://www.holidayiq.com/explain.php#symbol">Rating Explained</a> |
+			<a href="http://www.holidayiq.com/usefullinks.php">Useful Links</a> | <a href="http://www.holidayiq.com/connectiq.php" style="cursor:pointer" class="link">Travellers</a> | <a href="http://www.holidayiq.com/indianstates.php" style="cursor:pointer" class="link">All Cities</a> 
+		
+
+			<br>
+		</div>
+
+<script>
+
+  var _comscore = _comscore || [];
+
+  _comscore.push({ c1: "2", c2: "7400917" });
+
+  (function() {
+
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+
+    el.parentNode.insertBefore(s, el);
+
+  })();
+
+</script>
+
+<noscript>
+
+  <img src="http://b.scorecardresearch.com/p?c1=2&c2=7400917&cv=2.0&cj=1" />
+
+</noscript>
+
+<link href="http://www.holidayiq.com//intl/css/international.footeroverlay.css" type="text/css" rel="stylesheet">
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js"></script>
+<link rel="stylesheet" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/themes/ui-lightness/jquery-ui.css">
+<link rel="stylesheet" href="http://www.holidayiq.com//intl/css/jqueryui-datepicker-autocomplete.css"> 
+<div id="bahbox" style="display: none;">
+	<form name="holidaypkg1" method="post" style="display: inline">
+	<input type="hidden" name="channel" value="FOOTR">
+	<input type="hidden" name="pageTagGa" value="">	
+	<input type="hidden" name="Destination_id" value="">
+	<input type="hidden" name="datefrom" value="">
+	<input type="hidden" name="submitaction" value="populate">
+	<input type="hidden" name="action_new" value="populate">
+
+	<table border="0" width="247">
+	<tbody><tr bgcolor="#ebebeb">
+		<td colspan="2">
+			<table cellpadding="0" cellspacing="0" width="100%" border="0">
+				<tbody><tr style="line-height: 0.9">
+					<td align="left">
+					<img src="http://img.holidayiq.com/images/footerOverlayBAHheader.gif" align="top" width="27" height="27">&nbsp;</td><td align="right"><span style="font-family: verdana;font-size:16px;color:#2f588c;"><b>1.5 Million</b></span><b> <span style="font-family: verdana;font-size:14px;color:#2f588c;">Bookings</span> </b><br><span class="copy">done</span>
+					&nbsp;
+					</td>
+					<td width="6">&nbsp;</td>
+					<td align="center" width="30" bgcolor="#2f588c" id="minimise" style="cursor: hand;cursor:pointer"><img src="http://img.holidayiq.com/images/footerOverlayMinimise.gif" width="13" height="10" align="center" style="cursor: hand;cursor:pointer"></td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+
+	<tr>
+
+	<td colspan="2">
+
+		<table border="0">
+			<tbody><tr>
+				<td class="textGreyVerdana14" width="50%" align="left">I want to go to</td>
+				<td class="textGreyVerdana14" width="50%">Length of trip</td>
+			</tr>
+			<tr>
+				<td>
+					<input class="textFooterBahGrey12" type="text" id="destinations_listing1" name="destinations_listing1" value="Choose destination" style="width: 125px;" onfocus="_gaq.push(['_trackEvent','Footeroverlay','','DestName',1]);">
+					<input type="hidden" value="" name="destnamelist" id="destnamelist1">
+
+					<!-- <input type="hidden" value="{$aDestinationDetails[0].Destination_id}" name="destnamelist" id="destnamelist" />
+					<input class="textBlack12" type="text" style="width:360px" id="destinations_listing" name="destinations_listing" value="{$destination}"/> -->
+
+				</td>
+				<td><select name="nights" style="width:100px" class="textFooterBahGrey12" onchange="_gaq.push(['_trackEvent','Footeroverlay','','Noofnights',1]);">
+																<option value="-1">-Select-</option>
+																<option value="1">1 night</option>
+																<option value="2">2 nights</option>
+																<option value="3">3 nights</option>
+																<option value="4">4 nights</option>
+																<option value="5">5 nights</option>
+																<option value="6">6 nights</option>
+																<option value="7">7 nights</option>
+																<option value="99">more than 7 nights</option>
+																</select>															
+				</td>
+			</tr>
+			<tr><td height="10"></td></tr>
+			<tr>
+				<td class="textGreyVerdana14" align="left">Starting Date</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td><!-- <input style="width:95%" type="text" class="bookingbox_startdateBox" readOnly  id="domId1-field" name="domId1-field" value="dd/mm/yyyy" onfocus="showCalendarControl(this);">	 -->	<input size="18" type="text" class="textFooterBahGrey12" id="domId1-field1" name="domId1-field" value="dd/mm/yyyy" onchange="_gaq.push(['_trackEvent','Footeroverlay',''','Date',1]);">		</td>
+				<td class="textGreyVerdana12"><input type="checkbox" name="sdate" id="sdate" onchange="_gaq.push(['_trackEvent','Footeroverlay','','Flexible',1]);">Flexible Date</td>
+			</tr>
+			<tr><td height="10"></td></tr>
+			<tr>
+				<td colspan="2" align="center"><img onclick="javascript:bookThisPackage1('holidaypkg1',0,1);_gaq.push(['_trackEvent','Footeroverlay','','Submit',1]);" src="http://img.holidayiq.com/images/footerOverlaySubmit.gif" width="155" height="26" style="cursor: hand;cursor:pointer"></td>
+			</tr>
+			</tbody></table>
+
+			</td>
+
+	</tr>
+
+	</tbody></table>
+	</form>
+  </div>
+
+
+<div id="footeroverlay" height="32" style="display: none">
+	<table border="0" width="100%" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+		<td width="10px"></td>
+		<td height="32" style="background-color:#2f588c;" width="200" class="textVerdanaWhite14">
+			&nbsp;&nbsp;Why Book with HolidayIQ
+		</td>
+		<td align="left" width="10"> 
+		<img src="http://img.holidayiq.com/images/footerOverlayRightArrow.gif" width="10" height="34" align="center">
+		</td>
+		<td style="border-top:1px solid #b5b5b5;background-color: #ebebeb;" valign="top">
+				<table cellpadding="0" cellspacing="0" style="border-top: 1px solid white;" width="100%" height="32">
+				<tbody><tr>
+				<!-- <td width="110" valign="middle"></td> -->
+					<td>
+						<table border="0" cellspacing="0" cellpadding="0" width="70%" height="32" align="center" id="bahtxttbl" style="width: 100%;"><tbody><tr>
+							<td class="textGreyVerdana14" align="center" id="bahtxt1" style="font-size: 10px;">1,000+ Expert Travel Partners</td>		
+							<td class="textGreyVerdana14" align="center" id="bahtxt2" style="border-left: 1px solid rgb(181, 181, 181); border-right: 1px solid rgb(249, 249, 249); font-size: 10px;">100,000+ hotels</td>
+							<td class="textGreyVerdana14" align="center" id="bahtxt3" style="border-left: 1px solid rgb(181, 181, 181); font-size: 10px;">25,000+ Packages</td>
+						</tr></tbody></table>
+					</td>
+
+				<!-- <td width="123" valign="middle"></td> -->
+				
+				<td width="246px;" align="center" id="bahrighttext" class="textGreenVerdana14" style="border-left: 1px solid #b5b5b5; border-right: 1px solid #f9f9f9;">&nbsp;&nbsp;Holiday Experts | Lowest Prices 
+				</td>
+				<td width="246px;" align="right" id="uparrow" style="display: none;cursor: hand;cursor:pointer"><img src="http://img.holidayiq.com/images/footerOverlayBookMyHoliday_2.gif" width="215" height="30"><img src="http://img.holidayiq.com/images/footerOverlayUpArrow.gif" width="30" height="30" style="cursor: hand;cursor:pointer"></td>
+
+				
+				</tr>
+				</tbody></table>
+		</td>
+		<td width="10px" style="border-left: 1px solid #BCBCBC;">&nbsp;</td>
+	</tr>
+	</tbody></table>
+</div>
+<script src="http://www.holidayiq.com//intl/js/jqueryui-datepicker-autocomplete.min.js"></script>
+<script>
+var HTTP_PATH = "http://www.holidayiq.com/intl/";
+var ORIGINAL_HTTP_PATH= "http://www.holidayiq.com/";
+if(screen.width<=800 && screen.height<=600) {
+	document.getElementById('bahtxt1').style.fontSize = '10px';
+	document.getElementById('bahtxt2').style.fontSize = '10px';
+	document.getElementById('bahtxt3').style.fontSize = '10px';
+	document.getElementById('bahtxttbl').style.width = '100%';
+}
+</script>
+
+<script src="http://www.holidayiq.com/js/footeroverlay.js" defer="defer">
+
+
+</script><script src="http://www.holidayiq.com/js/bahpopunder.js" type="text/javascript"></script>
 
 <!-- Code to be included in the bottom section starts-->
 <script language="JavaScript1.1">
