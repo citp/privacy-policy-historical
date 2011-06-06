@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the long-mcquade.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203002645id_/http%3A//www.long-mcquade.com/content/7) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the long-mcquade.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606224950id_/http%3A//www.long-mcquade.com/content/7) for the most accurate reproduction.*
 
 # Long & McQuade - Content
 
@@ -78,14 +78,14 @@ We take responsibility for the handling and confidentiality of the personal info
 have procedures in place to deal with any questions or complaints regarding our privacy policy.  
 Questions regarding this policy or our practices may be directed to our Privacy Officer:
 
-Mr. Chris Russell  
+Mr. Steve Long  
 722 Rosebank Rd.  
 Pickering, ON  
 L1W 4B2
 
 PH 905-837-9785  
 FAX 905-837-9786  
-Email crussell@long-mcquade.com
+Email slong@long-mcquade.com
 
 If your question or issue is not resolved to your satisfactions, you may contact the office of the Privacy  
 Commissioner for Canada or the Privacy Commissioner for your province as appropriate.
