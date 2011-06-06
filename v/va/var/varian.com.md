@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the varian.com privacy policy that was archived on 2010-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100601093141id_/http%3A//www.varian.com/us/corporate/legal/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the varian.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606025013id_/http%3A//www.varian.com/us/corporate/legal/privacy_statement.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
