@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the globalgolf.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205234340id_/http%3A//www.globalgolf.com/aboutus/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalgolf.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606125318id_/http%3A//www.globalgolf.com/aboutus/privacy) for the most accurate reproduction.*
 
-# GlobalGolf.com Privacy Policy
+# Privacy Policy at GlobalGolf.com
 
 Your privacy is very important to GlobalGolf.com Inc ("herein referred to as either “GlobalGolf.com,” “GlobalValueCommerce,” “We,” or “Us”). We are committed to respecting your privacy on this site. To fulfill the sales orders submitted by our customers (“our Services”), we will require information (including address and credit card information) regarding our customers (“Users”). We will maintain the confidentiality of information provided in accordance with our Privacy Policy.
 
@@ -12,7 +12,7 @@ GLOBALGOLF.COM may provide certain demographic information it collects to third 
 The information we collect may also include information you submit about others, including the name, e-mail address or physical address of a gift recipient. We only use information you submit about other people to deliver information, products, or services specifically requested by you or to cooperate with law enforcement officials in the investigation of alleged unlawful activities of our customers.
 
 **2\. Information That Is Personally Identifiable**  
-Our registration format requests certain contact information from our Users. We collect information that is personally identifiable through the registration and purchasing process when processing your order. When a User completes an order, the format will require personally identifiable information for each User, including: 
+Our registration format requests certain contact information from our Users. We collect information that is personally identifiable through the registration and purchasing process when processing your order. When a User completes an order, the format will require personally identifiable information for each User, including:
 
   * Contact information (including name, home address, email address)
   * Unique identifiers ( including credit card numbers)
