@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newwest.net privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123215542id_/http%3A//www.newwest.net/plain/entry/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newwest.net privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607015706id_/http%3A//www.newwest.net/plain/entry/privacy_policy) for the most accurate reproduction.*
 
 # New West Network | Privacy Policy
 
