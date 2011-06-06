@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rankflip.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222133312id_/http%3A//rankflip.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rankflip.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606121801id_/http%3A//rankflip.com/privacy) for the most accurate reproduction.*
 
 # Privacy « RankFlip.com – Flip PageRank & Expired Domains For BIG Profits!
 
