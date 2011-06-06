@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wildlife-pictures-online.com privacy policy that was archived on 2010-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100921231700id_/http%3A//www.wildlife-pictures-online.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wildlife-pictures-online.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606041025id_/http%3A//www.wildlife-pictures-online.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy for Wildlife Pictures Online and Wildlife Photography Blog
 
@@ -58,4 +58,4 @@ Your use of this site indicates acceptance of this privacy policy.
 
 #### Contact Information 
 
-Concerns or questions about this privacy policy can be directed to the publisher, Scotch Macaskill, using our [Contact Form](https://web.archive.org/web/20100921231700id_/http%3A//www.wildlife-pictures-online.com/contact-form.html). | 
+Concerns or questions about this privacy policy can be directed to the publisher, Scotch Macaskill, using our [Contact Form](https://web.archive.org/web/20110606041025id_/http%3A//www.wildlife-pictures-online.com/contact-form.html). | 
