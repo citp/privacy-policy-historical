@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unipune.ac.in privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205034926id_/http%3A//unipune.ac.in/university_files/privacy_statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unipune.ac.in privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606225430id_/http%3A//www.unipune.ac.in/university_files/privacy_statement.htm) for the most accurate reproduction.*
 
 # General Site Disclaimer : The University of Pune offers undergraduate, postgraduate and doctoral programs in sciences, languages, social sciences, law, management and other interdisciplinary programs.
 
