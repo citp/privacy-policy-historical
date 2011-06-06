@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the passports.govt.nz privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205234308id_/http%3A//www.passports.govt.nz/Your-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the passports.govt.nz privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606183116id_/http%3A//www.passports.govt.nz/Your-privacy) for the most accurate reproduction.*
 
 # Your privacy - New Zealand Passports (passports.govt.nz)
 
