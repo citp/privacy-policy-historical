@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the carsuk.net privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205010354id_/http%3A//www.carsuk.net/privacy-policy-for-cars-uk) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carsuk.net privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606033205id_/http%3A//www.carsuk.net/privacy-policy-for-cars-uk) for the most accurate reproduction.*
 
-# Privacy Policy for Cars UK | Cars UK | UK Car News
-
-Browse >
-
-[Home](http://www.carsuk.net/ "Browse to: Home") / Privacy Policy for Cars UK 
+# Privacy Policy for Cars UK | Cars UK
 
 The privacy of our visitors to CARS UK is important to us.
 
