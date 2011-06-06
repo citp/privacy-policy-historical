@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the accessplace.com privacy policy that was archived on 2010-12-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101225203447id_/http%3A//www.accessplace.com/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the accessplace.com privacy policy that was archived on 2011-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110607011356id_/http%3A//www.accessplace.com/privacy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml"><head>
 				<title>AccessPlace privacy policy, personal user data, third party sites, children and user consent</title>
@@ -30,21 +30,30 @@
 
 
 				<meta name="description" content="AccessPlace.com uniquely combines a selection of the best websites covering dozens of topics with a locally organised and professionally vetted UK business database.">
-				<link rel="stylesheet" href="/style.css" type="text/css" media="screen">
+				<link rel="stylesheet" href="/style/desktop-0940030611.min.css" type="text/css" media="screen">
 		<link rel="shortcut icon" href="/favicon.ico">
-				
-<!--[If lt IE 7]>
+				<!--[If lt IE 8]> 
+	<style>
+	#quotation.type-b input{
+		height: 15px;
+	}
+	#quotation input.btn{
+		height: 24px;
+	}
+	</style>
+<![EndIf]-->
 
-<style>
-.moreinfo2{
-	background-image: none;
-	line-height:12px;
-	height:12px;
-}
-.imgpad2{
-	height:12px;
-}
-</style>
+<!--[If lt IE 7]>
+	<style>
+	.moreinfo2{
+		background-image: none;
+		line-height:12px;
+		height:12px;
+	}
+	.imgpad2{
+		height:12px;
+	}
+	</style>
 <![EndIf]-->
 	</head>
 	<body>
@@ -101,7 +110,10 @@
 							<h2><a name="ThirdPartySites">Third Party Sites</a></h2>
 							<p>AccessPlace links to other sites in order to provide you with additional useful information and services. Third party Internet sites and services accessible through AccessPlace have separate privacy and data collection practices, independent of us. AccessPlace has no responsibility or liability for these independent policies or actions. Please be careful and responsible whenever you're online. We encourage you to look for and review the privacy policies of any third-party site you visit. </p>
 							
-							<h2><a name="StandardUserData">Standard User Data</a></h2>
+							<h2><a name="AccessPlaceQuote">AccessPlace Quotes</a></h2>
+							<p>The AccessPlace Quotes service is provided via a third party, ServiceMagic.co.uk. When you fill out a quote form on AccessPlace the information goes through to ServiceMagic.co.uk who pass it on to their approved contractors in order to provide you with the best possible quote. ServiceMagic.co.uk's privacy policy can be found <a href="/redirect.php?redir=4cjc1VpxY6zrq6DXmpLj3pjZjbGb4reWyI9wqaCjpOTNq4HQ7mLkj7yd3M2W1YiysJjcmdXPqJXa8WymUYJosoiZmQ==" target="_blank" rel="external">here</a>
+							
+							</p><h2><a name="StandardUserData">Standard User Data</a></h2>
 							<p>The standard data we collect about our users is not personally identifiable information, meaning it is not information which identifies them as an individual. By using any of AccessPlace services or reading its content, you agree that you understand the nature of this data collection. </p>
 							<p>When you log onto AccessPlace, certain standard information is normally collected by our servers. This information may include, but may not be limited to, the location or website from which you came, the time you spend on parts of AccessPlace or its related sites, the software you use to browse the Internet (for example Netscape or Microsoft Internet Explorer), the amount of information you access from AccessPlace and quantity of pages downloaded. This data collection is standard and common to most websites on the Internet. </p>
 							<p>This information does not identify you as an individual, and none of this information will be disclosed in any form that is specific to you as a user of AccessPlace, unless otherwise stated. AccessPlace will not otherwise knowingly retain and/or disclose this standard data other than in an aggregate forms. </p>
@@ -163,7 +175,7 @@
 				<div id="footer-content">
 
 				    <div id="footer-left">
-										 <a href="http://www.accessplace.com/" rel="sidebar" title="AccessPlace Web Directory" id="bm">Bookmark</a> | 
+										<a href="http://www.accessplace.com/" rel="sidebar" title="AccessPlace Web Directory" id="bm">Bookmark</a> | 
 					<!--[if IE]> 
 					<script type="text/javascript"> 
 						tempf=function(){ 
@@ -182,7 +194,7 @@
 		  	  		<a href="/welcome.htm#CopyrightNotice">Copyright</a> | 
 		  	  		<a href="/privacy.htm">Privacy Policy</a> |
 		  	  		<a href="/disclaimer.htm">Disclaimer</a><br><br>
-		  	  		© 1999-2010 accessplace.com - All Rights Reserved
+		  	  		© 1999-2011 accessplace.com - All Rights Reserved
 				    </div>
 
 				    <div id="footer-right">
@@ -209,8 +221,14 @@
 			</div>
 			
 		</div>
-		<script type="text/javascript" src="/jquery-1.4.2-min.js"></script>
-		<script type="text/javascript" src="/quotes.js"></script>
+		<script type="text/javascript" src="/lib/jquery-1.4.2-min.js"></script>
+		<script type="text/javascript">
+			/*<![CDATA[*/
+				if(document.getElementById('quoteform')) {	
+					document.write(unescape("%3Cscript src='/lib/quote-1.1-min.js' type='text/javascript' charset='utf-8'%3E%3C/script%3E"));
+				}
+			/*]]>*/
+		</script>			
 			
 			
 </body></html>
