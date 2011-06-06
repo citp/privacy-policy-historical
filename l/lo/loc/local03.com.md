@@ -1,56 +1,39 @@
-> *The following text is extracted and transformed from the local03.com privacy policy that was archived on 2009-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090531165728id_/http%3A//localworldnumber.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the local03.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606232749id_/http%3A//local03.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Privacy
+# Privacy Policy
 
-_1-877-LOCAL-03 (1-877-562-2503)_ (US)   _03-7222222_ (Israel)   _44-20-335-538-12_ (UK)   _32-2-7924815_ (Belgium)   _61-2-8014-7268_ (Australia)
+English /  Português /  Español /  עברית
 
-LocalWorldNumber, Inc. (“we”, “us”, “our”) realizes how important it is to you to understand what happens to your Personal Information when you use our service. We are committed to protecting the privacy of data that you, the user ("you"), submit to this website or to websites under our operation and control (“Website”). To demonstrate this commitment, we have adopted this privacy policy ("Privacy Policy"). Our policy is based on the principles of notice/awareness, choice/consent, access/participation, and integrity/security in the collection and use of all information regarding our users and their activities at the Website. Please review this policy carefully each time you use the Website, as it is subject to change at any time with or without notice by us. Whether or not we place notice on the Website indicating that this Privacy Policy has been modified, it is your obligation to review the Privacy Policy from time to time. By accessing the Website, you are affirmatively indicating your agreement and consent to this Privacy Policy. Any changes to the Privacy Policy will be effective immediately upon posting to the Website.   
+PRIVACY POLICY 1\. This Privacy Policy explains how OMNITelecom Ltd. ("Omni" or "We") collects, uses, and protects your information in relation to the Local03 Service ("the Service").   
+Please read this Privacy Policy before using the Local03 site ("the Site") and/or purchasing the Service.  
+Please note that by using the Site and/or any part thereof, and/or by purchasing and/or using the Service, you represent that you have read this Privacy Policy, understood it, accepted it, and agreed to abide by its terms.
 
+2\. You agree that any and all of the Information provided by you shall be accurate and truthful.
 
-## Notice of Privacy Policy
+3\. Information We collect from you includes, but is not limited to, any of the following: name, postal address, e-mail address, and billing information ("the Information").   
+We may also survey you to understand more about your preferences concerning the Service.
 
-  
-LocalWorldNumber, Inc, and its subsidiaries and affiliates (collectively “we”, “our”, “us”), provides our customers ("you") with a broad range of hosted and Internet-based telecommunications services, software and client-based applications, including access numbers around the world, long-distance and local telephone services, and Voice-over-Internet Protocol (VOIP) communications, features and functionalities more fully described on[ www.LocalWorldNumber.com](http://www.localworldnumber.com/) . As used herein, the term “Service” refers collectively to all our hosted and Internet-based telecommunications services, as well as any documentation related. 
+4\. The following are the primary ways in which we collect the Information:  
+\- You provide it to us (whether by using the Site or in conversation with our representative);  
+\- We collect it automatically when you use the Site and/or use the Service;  
+\- We obtain it from other sources, such as credit card agencies.
 
-This Privacy Policy supplements and is incorporated into the LocalWorldNumber ”Terms of Use Agreement”,currently available on the Website, and you agree to be bound by all of the terms and conditions of this Privacy Policy. We reserve the right to modify this Privacy Policy at any time by posting the amended version on the Website and such amended Privacy Policy shall become effective immediately upon such posting. By continuing to use the Service, you agree to the terms of the then-current version of this Privacy Policy. If at any time you do not agree to the terms of this Privacy Policy, your sole remedy is to discontinue using the Service. If you have any questions about this Privacy Policy, please contact us at the e-mail address specified in the contact details.
+5\. We may collect, store, and use the Information for any purpose related to the Service, including, without limitation, your use thereof, our provisioning thereof, third parties relevant to provision, and/or your use of the Service.  
+We may use the Information to contact you about any aspect concerning the Service (including, without limitation, updates and offers) and/or your use thereof, and may use it for investigating prohibited activity.  
+ In order to provide the service, it is sometimes necessary to share the information with third parties; in such cases we will make an effort to ensure that the third parties will protect the privacy of the shared information.  
+We may use the information to collect fees in accordance with the service terms of use, and may provide that information to other agencies for collection purposes.  
+We may also use your data for internal marketing and trend analysis.   
+We may use the information to contact you regarding promotions and other services offered by us or by our affiliates, without disclosing your personal information to our affiliates.   
+We may also at any time disclose any of the Information:   
+(i) pursuant to any legal demand from a competent authority, and   
+(ii) to third parties relevant to provision and/or your use of the Service (in which events you will not necessarily receive notification of such disclosure, and you agree that you will not have any claim and/or demand with relation to such disclosure and/or lack of notification thereof).
 
-Information that may be collected based on your use of the Service includes Personal Information and Non-Personal Information. "Personal Information" is information that would allow someone to identify or contact you, including, for example, your full name, address, telephone number, or email address, as well as information that is associated with or linked to such contact information. "Non-Personal Information" is information that is not associated with or linked to the individually identifying contact information of a specific person including without limitation information about your use of the Service, also referred to as "Usage Data". "Aggregate Data" is the combined information collected from all of the users of the Service, or from subgroups of our users, which does not contain any individually identifying contact information. In other words, Aggregate Data is never connected to you individually. 
+6\. In the event that Omni will acquire additional companies as subsidiaries, or will be bought by another company, the personal data collected will generally be one of the business assets transferred.   
+We reserve the right to transfer personal data with such transaction as a part of our business assets.
 
-1\. What Types of Information Is Collected and Why?
+7\. We will not use and/or disclose the Information other than as expressly permitted in this PRIVACY POLICY.
 
-**Personal Information**. You provide certain Personal Information to us when you: (a) register and sign up for the Service, (b) log into your account with the Service, or (c) use the Service, submit forms, or send other information to us.  
-We may also receive Personal Information about you from other users, our partners, affiliates, or third parties, who may communicate information to us about you.
-
-**Non-Personal Information.** We may collect Non-Personal Information as well. Our software and servers may automatically collect Usage Information, which includes, but is not limited to, your frequency and duration of interaction with the Service.
-
-**Information collected by Cookies**. We may also make use of website "cookies" to help you use the Service more easily and to help us continuously improve the Website and the value of the Service to you. A "cookie" is a small data file that a website can send to your browser, which may then be stored on your hard drive to help that website "remember" information about you when you return to that website, such as the specific web pages you previously visited. You may have the option of setting your browser to reject cookies; however, doing so may negatively impact the performance of the Website or restrict us in effectively serving your needs and interests. The "Help" portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. The Personal Information and Non-Personal Information allows us to efficiently and properly serve you, and to contact you should the need arise in order to respond appropriately to your requests.
-
-**Information collected by 3rd parties.** We have contracted with several outside vendors ("3rd parties") to monitor certain pages of our Web site for the purpose of reporting web traffic, statistics, advertisement 'click-throughs', and/or other activities on our site. Where authorized by us, 3rd parties may use cookies, Web beacons, and/or other monitoring technologies to compile anonymous statistics on our Web site visitors. No personally identifiable data is collected by or transferred by us to 3rd parties. 
-
-**2\. How May We Use Your Personal Information?**
-
-We may use your Personal and Non-Personal Information to improve the quality of the Service and to boost the relevance of the offering delivered to you. We may use your Personal and Non-Personal Information to provide you with content (such as offers, advertisements, voicemails, and other promotions) that we believe will be of interest to you. We will retain information collected on a secure server so that on re-visiting the Website, your access can be more easily expedited. We may use this information in an aggregated form to measure the number of visits, average time spent on the Website, pages viewed, and other related statistics. We collect this information to measure the use of the Website and to improve the content of the Website. We may use your personally identifying information to identify you as a user of the Website and to assist and speed the completion of transactions through the Website. We may use your email address to contact you directly regarding services or products that we, in our sole discretion, believe may be of interest to you. We may also use information collected about your preferences and activities on the Website, such as the particular pages you visit on the Website, your history of purchases, and/or other transactions that you effect through the Website. We may vary the content you receive in future visits to the Website based on your past preferences and activities.
-
-We use Usage Data to maintain and improve the Service. We may also use Usage Data to do such things as operate and enhance the Service and negotiate with vendors and advertisers.
-
-**3\. Disclosure of Your Information  
-**   
-By using the Service, you consent to our disclosure of your information to our partners, affiliates, parent and subsidiary(s) (“Partners”). Other than disclosure of your Personal Information to our Partners, we will never disclose any of your Personal Information except when given your permission or under special circumstances, such as when we believe in good faith that the law requires it or under the circumstances described below.
-
-Due to legal rules beyond our control, we cannot fully ensure that your private communications and other Personal Information will not be disclosed to other third parties. For example, if we need to investigate or resolve possible problems or inquiries, or if we receive a subpoena requesting information about you or communications by or to you, we can, and you authorize us to (without any opportunity by you to challenge the validity of the request or the subpoena), disclose any information about you to law enforcement or other government officials or the party serving the subpoena as we believe necessary or appropriate.
-
-**5\. Privacy Protections for Children**
-
-We feel very strongly about protecting the privacy of children and encourages children to involve their parents in any online activities in which they participate. In order to protect the privacy of younger Internet users, children under the age of 18 are prohibited from registering for the Service.
-
-**6\. Accuracy and Access**
-
-Certain areas of the Website may restrict access to specific individuals through the use of passwords and through providing personal data. We strive to keep your personally identifiable information accurate. We will provide you with access to your information, including online access to your registration data so that you may view, update or correct your information on the Website. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting you access or enabling you to make corrections. Any links to third-party web sites on the Website are provided solely as a convenience to you. If you use these links, you will leave our Website. We have not reviewed all of these third party sites and do not control and is not responsible for any of these sites, their content, or their privacy policies. Thus, we do not endorse or make any representations about them, or any information, software or other products or materials found there, or any results that may be obtained from using them. If you decide to access any of the third party sites linked to the Website, you do so at your own risk.
-
-**8\. Our Security Procedures**
-
-Please keep in mind that no data transmission over the Internet or any wireless network can be guaranteed to be 100% secure. As a result, while we strive to protect your Personal Information, we cannot ensure or warrant the security of any information you transmit to us or from the Service, and you do so at your own risk. Once we receive your transmission, we exert commercially reasonable effort to ensure its security on our systems by implementing industry-standard security measures.
-
-**9\. General.  
-**   
-This Privacy Policy is governed by the internal substantive laws of the State of California in the United States, without regard to its conflict of laws principles. Jurisdiction for any claims arising under or out of this Privacy Policy shall lie exclusively with the state and federal courts in San Mateo County, California, and you further consent to the exercise of personal jurisdiction of the courts therein. If any provision of this Privacy Policy is found to be invalid by a court having competent jurisdiction, the invalidity of such provision shall not affect the validity of the remaining provisions of this Privacy Policy, which shall remain in full force and effect. Under no circumstances shall we have any liability whatsoever for any consequential, incidental, indirect or special damages arising out of the breach of this Privacy Policy, however occasioned. Furthermore, nothing in this Privacy Policy shall increase our liability or otherwise alter or amend any of the terms and conditions under the LocalWorldNumber® Terms of Use and End-User License Agreement
+8\. The Site may contain links to other sites the information practices of which may be different from those of Omni.   
+If you enter such site through such a link, We advise that you consult the privacy policy of the site, as We have no control over information that is submitted to, or collected by, such site.   
+Please note that this PRIVACY POLICY may be revised from time to time, and you are requested to check it from time to time.   
+At any point in time, the current version then posted on the Site is the applicable version. 
