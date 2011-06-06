@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vureel.com privacy policy that was archived on 2010-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100117154229id_/http%3A//www.vureel.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vureel.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606155017id_/http%3A//www.vureel.com/privacy) for the most accurate reproduction.*
 
 # VuReel HD Videos
 
@@ -10,9 +10,9 @@ Vureel respects the privacy and sensitivity of any information you may give us, 
 
 ## Information Collected and Uses
 
-Vureel chiefly collects personal information during the [sign up](http://vureel.com/signup) process. During this process, the following information are mandatory:
+Vureel chiefly collects personal information during the [sign up](http://www.vureel.com/signup) process. During this process, the following information are mandatory:
 
-  * **Username** : This is your online identifier; it will be publicly viewable on your **profile pages ([sample](http://vureel.com/users/mhbernheim))** as well as on any tablature you submit.
+  * **Username** : This is your online identifier; it will be publicly viewable on your **profile pages ([sample](http://www.vureel.com/users/mhbernheim))** as well as on any tablature you submit.
   * **Password** : Your password will be stored in an encrypted hash format in a secure database. Nobody will be able to view or decode your password (not even the site administrators!)
   * **Valid email address** : The email address you provide us will only be used for account notifications, for example, when a video associated to your account is removed due to copyright concerns. It will also be used for password recovery. Your email will not be disclosed to anyone.
 
@@ -34,6 +34,9 @@ Vureel also runs **3rd-party advertisements** and **statistics software**. The i
 If you decide to to contact us, your email and name will remain confidential and be used solely for communicating with you regarding the subject of the contact.
 
 Finally, any **videos published** by you are published with the clear intention for them to be publicly viewable.
+
+  
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here http://www.networkadvertising.org/managing/opt_out.asp 
 
 ## Our Commitment to Privacy
 
