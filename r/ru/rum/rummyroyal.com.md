@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rummyroyal.com privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528135518id_/http%3A//www.rummyroyal.com/about_us/security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rummyroyal.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606082503id_/http%3A//www.rummyroyal.com/about_us/security.html) for the most accurate reproduction.*
 
 # Security and Privacy
 
