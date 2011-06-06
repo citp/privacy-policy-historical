@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rodanandfields.com privacy policy that was archived on 2009-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091201040602id_/http%3A//www.rodanandfields.com/RFContent.aspx%3FPageId%3D215) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rodanandfields.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606020001id_/https%3A//www.rodanandfields.com/Pages/Company/About/More/Privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Rodan + Fields
 
 Rodan + Fields LLC (“Rodan + Fields,” “we,” “us”) is concerned about privacy issues and wants you to be familiar with how we collect, use and disclose Personally Identifiable Information (as defined below) about you that you provide us through RodanandFields.com (the "Site"). Please note that this Privacy Policy governs only information provided to Rodan + Fields. It does not govern our collection of information through any website, or by any other means, other than through the Site; nor does this Privacy Policy govern the collection of information by Rodan + Fields Independent Consultants who distribute and market Rodan + Fields products ("Consultants").
 
@@ -52,7 +52,7 @@ vi.    **Promotions.** We may operate sweepstakes, contests and similar promot
 
 vii.  **Internal Business Purposes.** We may also use PII about you for our internal business purposes, such as data analysis, audits and so forth.
 
-**b.**     **Non-Personally Identifiable Information.** Because Non-PII does not personally identify you, we may use such information for any purpose. In addition, we reserve the right to share such Non‑PII, which does not personally identify you, with Consultants and other third parties, for any purpose.
+**b.**     **Non-Personally Identifiable Information.** Because Non-PII does not personally identify you, we may use such information for any purpose. In addition, we reserve the right to share such Non-PII, which does not personally identify you, with Consultants and other third parties, for any purpose.
 
 i.      **Aggregate Information.** We may use the information you provide in aggregate (Non-PII) form for internal business purposes, such as generating statistics and developing marketing plans. We may collect, store or accumulate certain Non-PII concerning your use of the Site, such as information regarding which of our pages are most popular. We may share or transfer Non-PII with or to our Consultants, licensees and partners.
 
