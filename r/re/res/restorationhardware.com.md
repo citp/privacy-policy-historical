@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the restorationhardware.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206081730id_/http%3A//www.restorationhardware.com/customer-service/privacy-policy.jsp%3Flink%3Dbotnav_privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the restorationhardware.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606125138id_/http%3A//www.restorationhardware.com/customer-service/privacy-policy.jsp%3Flink%3Dbotnav_privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Restoration Hardware
 
