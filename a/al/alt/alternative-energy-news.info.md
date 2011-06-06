@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alternative-energy-news.info privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225084625id_/http%3A//www.alternative-energy-news.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alternative-energy-news.info privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606192249id_/http%3A//www.alternative-energy-news.info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -25,6 +25,3 @@ Note that you can change your browser settings to disable cookies if you have pr
 ## Contact Information
 
 Concerns or questions about this privacy policy can be directed to **admin[AT]aenews.info** for further clarification.
-
-**Feel free to leave a comment...  
-and oh, if you want a pic to show with your comment, go get a [gravatar](http://en.gravatar.com/)!**
