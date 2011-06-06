@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the utest.com privacy policy that was archived on 2010-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100823210217id_/http%3A//www.utest.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utest.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606174430id_/http%3A//www.utest.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | uTest
 
@@ -10,7 +10,7 @@ When you participate on the uTest.com web site, we request certain information. 
 
 If you supply uTest.com with your postal address on-line you will only receive the information for which you provided us your address. Users who supply us with their telephone numbers on-line will only receive telephone contact from us with information regarding orders they have placed on-line.
 
-Personally Identifiable Information-When visiting uTest.com's or any Client's Web site and signing up for or using uTest.com services through any Service Page, you may choose to supply uTest.com with information that identifies users personally. For Testers, , this information may include name and contact information, gender, birth date, occupation and industry, shipping and billing information, behavior patterns, purchase history, and other information.
+Personally Identifiable Information-When visiting uTest.com's or any Client's Web site and signing up for or using uTest.com services through any Service Page, you may choose to supply uTest.com with information that identifies users personally. For Testers, this information may include name and contact information, gender, birth date, occupation and industry, shipping and billing information, behavior patterns, purchase history, and other information.
 
 From time to time, uTest.com may use customer information for new, innovative and unanticipated uses not previously disclosed or described in our privacy notice. If our information practices change at some time in the future we will post the policy changes to the uTest.com web site to notify you of these changes and provide you with the ability to opt out of these new uses or changes. If you are concerned about how your information is used, you should check back at our web site periodically.
 
