@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slimming.com privacy policy that was archived on 2010-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100121024718id_/http%3A//www.slimming.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slimming.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606070846id_/http%3A//www.slimming.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Slimming.com
 
@@ -60,7 +60,7 @@ SLIMMING.COM LTD. will use reasonable efforts to protect customers' personal inf
 
 **8\. Access to Personal Information**
 
-SLIMMING.COM LTD. will afford you a reasonable opportunity to review the personal information in your file, if you so request by calling 0115 9798445 or writing to: 
+SLIMMING.COM LTD. will afford you a reasonable opportunity to review the personal information in your file, if you so request by calling 0115 979 8484 or writing to: 
 
 Slimming.com Ltd.   
 Unit 3A Park Lane Business Centre   
