@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hamariweb.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221041244id_/http%3A//www.hamariweb.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hamariweb.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606082852id_/http%3A//www.hamariweb.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Hamariweb.com
 
