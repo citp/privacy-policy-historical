@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scentiments.com privacy policy that was archived on 2009-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090525231025id_/http%3A//www.scentiments.com/Home/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scentiments.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606074455id_/http%3A//www.scentiments.com/Home/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Statement
 
