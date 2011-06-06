@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soundoflife.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611214125id_/http%3A//www.soundoflife.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soundoflife.net privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606115022id_/http%3A//www.soundoflife.net/privacy) for the most accurate reproduction.*
 
 # Privacy | Love Quotes and Sayings
 
