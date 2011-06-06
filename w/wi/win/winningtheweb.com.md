@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winningtheweb.com privacy policy that was archived on 2009-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090918093645id_/http%3A//www.winningtheweb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winningtheweb.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606205922id_/http%3A//www.winningtheweb.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
