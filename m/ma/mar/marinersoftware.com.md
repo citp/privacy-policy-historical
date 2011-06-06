@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marinersoftware.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206000254id_/http%3A//www.marinersoftware.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marinersoftware.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606073227id_/http%3A//www.marinersoftware.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Mariner Software
 
