@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the samesame.com.au privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610062017id_/http%3A//www.samesame.com.au/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samesame.com.au privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606074907id_/http%3A//www.samesame.com.au/policy) for the most accurate reproduction.*
 
 # SameSame.com.au ~ Our Policy
 
