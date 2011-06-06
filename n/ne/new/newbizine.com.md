@@ -1,27 +1,33 @@
-> *The following text is extracted and transformed from the newbizine.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204040734id_/http%3A//newbizine.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newbizine.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606101301id_/http%3A//newbizine.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | NewBiZine Article Directory
 
-**NewBiZine** takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it.
+****  
+We look forward to receiving your articles, but we DO NOT under any circumstances accept submissions from bots or services we have not approved. The captcha is there to prove you are human. Any attempts to bypass it using automated services is a blatant disregard for our Terms of Service and will be dealt with accordingly. Please be sure you agree with these terms prior to signing up.
 
-## Routine Information Collection
+ **Privacy Policy**  
+This Privacy Policy addresses the handling of any and all personal information that is recorded via author profile or when you submit an article. 
 
-All web servers track basic information about their visitors. This information includes, but is not limited to, IP addresses, browser details, timestamps and referring pages. None of this information can personally identify specific visitors to this site. The information is tracked for routine administration and maintenance purposes.
+Information collected outside of that supplied by you in your contact details and author profile is limited to IP address and the date of your request or submission.
 
-## Cookies and Web Beacons
+The privacy policy does not apply to the practices of other companies advertised, or otherwise listed, on the web site, nor does it extend to people that the website does not employ or manage. 
 
-Where necessary, NewBiZine uses cookies to store information about a visitor's preferences and history in order to better serve the visitor and/or present the visitor with customized content.
+**Author Anonymity**  
+The website does not provide or guarantee author anonymity. Users must agree that they are aware that any and all personal information provided to the website may be visible to the general public at any time; and therefore should take precaution in what data is provided.
 
-Advertising partners and other third parties may also use cookies, scripts and/or web beacons to track visitors to our site in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies. 
+Personal details provided and shown on the website are always the responsibility of the providing party. 
 
-## Controlling Your Privacy
+**Information Security and Disclosure**  
+Your email address and contact information is stored in a secure database. It is never sold or released without your consent. The website does however maintain the right to contact you when necessary. By providing your contact information, you hereby give permission for the website and its owners/employees to contact you via email. 
 
-Note that you can change your browser settings to disable cookies if you have privacy concerns. Disabling cookies for all sites is not recommended as it may interfere with your use of some sites. The best option is to disable or enable cookies on a per-site basis. Consult your browser documentation for instructions on how to block cookies and other tracking mechanisms.
+**Information Use**  
+As a registered user of the website, you are entering into a business relationship whereby the website provides promotion of your article content. In exchange, the website reserves the right to contact you via the email address supplied to notify you of changes to the website or service; to provide useful information; and to send announcements of offers and promotions on behalf of our advertisers and partners.
 
-## Special Note About Google Advertising
+You may request to be removed from the mailing list at any time, by replying to the received email or clicking on the unsubscribe link when supplied.
 
-Any advertisements served by Google, Inc., and affiliated companies may be controlled using cookies. These cookies allow Google to display ads based on your visits to this site and other sites that use Google advertising services. Learn how to [opt out of Google's cookie usage](http://www.google.com/privacy_ads.html). As mentioned above, any tracking done by Google through cookies and other mechanisms is subject to Google's own privacy policies. 
+At the sole discretion of website management, any and all spam complaints may result in membership termination. 
 
-## Contact Information
+**Changes to the Privacy Policy**  
+The website retains the right to change the privacy policy from time to time. It is your responsibility to review the policy from time to time and be aware of any changes. 
 
-Concerns or questions about this privacy policy can be directed to for further clarification.
+Last updated Tue, 10 May 2011 02:59
