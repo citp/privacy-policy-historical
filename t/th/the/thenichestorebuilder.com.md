@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thenichestorebuilder.com privacy policy that was archived on 2010-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100420113910id_/http%3A//www.thenichestorebuilder.com/terms-conditions) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thenichestorebuilder.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606185129id_/http%3A//www.thenichestorebuilder.com/terms-conditions) for the most accurate reproduction.*
 
 # Terms & Conditions | Niche Store Builder
 
