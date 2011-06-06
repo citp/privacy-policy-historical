@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avadirect.com privacy policy that was archived on 2010-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101210220650id_/http%3A//www.avadirect.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avadirect.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606081547id_/http%3A//www.avadirect.com/privacy.asp) for the most accurate reproduction.*
 
 # AVADirect Custom Computers - Privacy and Security
 
