@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecu.edu.au privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223013307id_/http%3A//www.ecu.edu.au/supplemental/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecu.edu.au privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606102950id_/http%3A//www.ecu.edu.au/supplemental/privacy) for the most accurate reproduction.*
 
 # ECU | Privacy statement : Supplemental
 
