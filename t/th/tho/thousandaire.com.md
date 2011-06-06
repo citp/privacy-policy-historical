@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thousandaire.com privacy policy that was archived on 2010-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100924054854id_/http%3A//www.thousand-aire.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thousandaire.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606063322id_/http%3A//www.thousandaire.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Thousand-aire
+# Privacy Policy | Thousandaire
 
 **Your Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
