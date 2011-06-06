@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the accessline.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205044635id_/http%3A//www.accessline.com/index_acc.asp%3Fnav%3Dlegal%26subnav%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accessline.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606073049id_/http%3A//www.accessline.com/index_acc.asp%3Fnav%3Dlegal%26subnav%3Dprivacy) for the most accurate reproduction.*
 
 # AccessLine Voice Services
 
