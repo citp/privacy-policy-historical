@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the traveltura.co.uk privacy policy that was archived on 2010-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100712064545id_/http%3A//traveltura.digital-trip.co.uk/Info/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traveltura.co.uk privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606081830id_/http%3A//www.traveltura.com/Info/Privacy.htm) for the most accurate reproduction.*
 
 # Traveltura Privacy Policy - TravelTura
 
@@ -53,6 +53,6 @@ service purchased unless you give Traveltura your permission to do so.
 
 © Traveltura 2010. All Rights Reserved. 
 
-Registered Address: Lorem Ipsum, Deller Vatu, Compus Mentus. Company No: 000123456. VAT No: 001245789645. 
+Registered Address: Traveltura.com Ltd, 3 Littlestone Road, New Romney, Kent, TN28 8LN. Company No: 04276398 
 
 Website designed and built by Digital Trip 
