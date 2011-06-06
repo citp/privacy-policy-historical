@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digrecent.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224093741id_/http%3A//www.digrecent.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digrecent.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606051913id_/http%3A//www.digrecent.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | DigRecent.com
 
