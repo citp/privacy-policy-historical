@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mashery.com privacy policy that was archived on 2010-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101207071859id_/http%3A//www.mashery.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mashery.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606231744id_/http%3A//www.mashery.com/privacy) for the most accurate reproduction.*
 
 # Mashery - Privacy Policy
 
@@ -77,7 +77,7 @@ By using the Website, you signify your assent to the Mashery Privacy Policy. If 
 
 #### 11\. Terms of Use
 
-Use of the Website is governed by the Mashery Terms of Use viewable at [http://www.mashery.com/terms/](https://web.archive.org/terms/).
+Use of the Website is governed by the Mashery Terms of Use viewable at [http://mashery.com/terms/](https://web.archive.org/terms/).
 
 _Effective Date: November 6, 2006._
 
