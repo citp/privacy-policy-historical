@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the accessplace.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225203447id_/http%3A//www.accessplace.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accessplace.com privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607011356id_/http%3A//www.accessplace.com/privacy.htm) for the most accurate reproduction.*
 
 # AccessPlace privacy policy, personal user data, third party sites, children and user consent
 
@@ -17,6 +17,10 @@ If you give us permission to use your email address and name we are not responsi
 ## Third Party Sites
 
 AccessPlace links to other sites in order to provide you with additional useful information and services. Third party Internet sites and services accessible through AccessPlace have separate privacy and data collection practices, independent of us. AccessPlace has no responsibility or liability for these independent policies or actions. Please be careful and responsible whenever you're online. We encourage you to look for and review the privacy policies of any third-party site you visit. 
+
+## AccessPlace Quotes
+
+The AccessPlace Quotes service is provided via a third party, ServiceMagic.co.uk. When you fill out a quote form on AccessPlace the information goes through to ServiceMagic.co.uk who pass it on to their approved contractors in order to provide you with the best possible quote. ServiceMagic.co.uk's privacy policy can be found [here](https://web.archive.org/redirect.php?redir=4cjc1VpxY6zrq6DXmpLj3pjZjbGb4reWyI9wqaCjpOTNq4HQ7mLkj7yd3M2W1YiysJjcmdXPqJXa8WymUYJosoiZmQ==)
 
 ## Standard User Data
 
