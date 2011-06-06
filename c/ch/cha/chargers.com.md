@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chargers.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229075000id_/http%3A//www.chargers.com/footer/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chargers.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606112938id_/http%3A//www.chargers.com/footer/privacy-policy.html) for the most accurate reproduction.*
 
 # San Diego Chargers | Privacy Policy
 
