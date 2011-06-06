@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the desimad.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124053820id_/http%3A//www.desimad.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desimad.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606043409id_/http%3A//www.desimad.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Desimad | Privacy Policy
 
