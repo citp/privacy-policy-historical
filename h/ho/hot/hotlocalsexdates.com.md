@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotlocalsexdates.com privacy policy that was archived on 2010-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100414032553id_/http%3A//www.hotlocalsexdates.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotlocalsexdates.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606045024id_/http%3A//www.hotlocalsexdates.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Hot Local Sex Dates: Join Right Now for FREE - Hot Locals Online Now so Search through thousands of LOCAL PROFILES on HotLocalSexDates.com
 
