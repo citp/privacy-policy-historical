@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nataliemaclean.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206141918id_/http%3A//www.nataliemaclean.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nataliemaclean.com privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607005204id_/http%3A//www.nataliemaclean.com/privacy) for the most accurate reproduction.*
 
 # NatDecants Privacy Policy | Natalie MacLean
 
