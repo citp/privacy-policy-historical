@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the presentermedia.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229220602id_/http%3A//www.presentermedia.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the presentermedia.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606023004id_/http%3A//www.presentermedia.com/privacy_policy.html) for the most accurate reproduction.*
 
-# Presenter Media - PowerPoint Templates, 3D Animations and Clipart for Microsoft PowerPoint
+# Presenter Media - PowerPoint Templates, 3D Animations and Clipart
 
 We respect and are committed to protecting your privacy. That is why we have adopted this Privacy Policy. This Privacy Policy lets you know how your personal information is processed and used. We promise that we will take steps to use your personal information only in ways that are compatible with this Privacy Policy. The following policies are only in effect for the Web pages, newsletters, discussion forums and lists and opt-in announcement lists owned and operated by PresenterMedia. 
 
