@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the perfectworld.com privacy policy that was archived on 2010-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101207153719id_/http%3A//www.perfectworld.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perfectworld.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606031921id_/http%3A//www.perfectworld.com/about/privacy) for the most accurate reproduction.*
 
-# Perfect World Entertainment - Free MMORPG | Play Free Online Video Games
+# Perfect World
 
 Date of Last Revision: July 17, 2008
 
@@ -104,7 +104,7 @@ Please note that certain types of personal information that is necessary to chec
 
 To have access to your personal information, you must provide sufficient proof of identification as we request, and we reserve the right to deny access to any user if we believe there is a question about your identity. Moreover, we reserve the right to retain your information in our files if we believe it is necessary or advisable to resolve disputes, enforce the Terms of Service, and for technical and legal requirements and constraints related to the Website.
 
-#### No guarentees
+#### No guarantees
 
 While this Policy states our intended policies and practices for the collection, use and handling of personal information and we endeavor to follow such policies and practices, we are not in a position to guarantee these standards. There may be factors beyond our control that may result in disclosure of personal information or in the handling of personal information in a manner other than as stated in this Policy. As a consequence, we disclaim any warranties or representations relating to maintenance or nondisclosure of any personal information collected from visitors and users.
 
