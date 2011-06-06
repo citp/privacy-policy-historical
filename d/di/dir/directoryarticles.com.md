@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the directoryarticles.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204063043id_/http%3A//directoryarticles.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directoryarticles.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606185544id_/http%3A//directoryarticles.com/privacy) for the most accurate reproduction.*
 
 # DirectoryArticles.com|Privacy
 
