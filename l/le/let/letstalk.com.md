@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the letstalk.com privacy policy that was archived on 2010-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100915030334id_/http%3A//www6.letstalk.com/about/security1.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the letstalk.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606112131id_/http%3A//www.letstalk.com/about/security1.htm) for the most accurate reproduction.*
 
 # Privacy & Security
 
 [](http://www.truste.org/ivalidate.php?url=www.letstalk.com&sealid=101)Privacy Policy  
-_Last Updated: 11/16/2009_
+_Last Updated: 3/25/2011_
 
 **Your Privacy Is Not for Sale**  
 Simply put, we do not and will not sell your personally identifiable information to anyone, for any reason. 
@@ -17,7 +17,7 @@ If you have questions or concerns regarding this statement, you should first [co
 What kind of information do we collect?  
 We collect information at several stages during your interaction with LetsTalk.com. When you first enter our site, we note your IP address in connection to your shopping cart and to help with administrating the site. As you browse the site, we record your zipcode via a cookie so we can serve more location specific information on your next visit. (Learn more about [cookies](https://web.archive.org/about/security1.htm#cookies)) 
 
-When you buy a product, you give us contact and shipping information (like your name, address, phone number, e-mail address, etc.) and credit information like Social Security number, date of birth, credit card and driver's license identification. We use this information to process and fulfill your order and to protect you from false purchases made in your name. 
+When you buy a product, you give us contact and shipping information (like your name, address, phone number, e-mail address, etc.) and credit information like Social Security number, date of birth, credit card and driver's license identification, if your order contains products that need to be activated by a carrier. We use this information to process and fulfill your order and to protect you from false purchases made in your name. 
 
 What if I am reluctant to provide information online?  
 Not a problem, you may contact [Customer Service](https://web.archive.org/about/contact1.htm) and give them your information through fax or via the telephone. If you elect not to provide the information necessary for a service contract, you may choose to acquire a pre-paid service agreement. 
@@ -27,7 +27,7 @@ Your contact and shipping information is given to the carriers providing your wi
 
 LetsTalk.com uses your information to follow-up on your order and to provide you updated information on our company, products and services. Your service provider and manufacturer may also send you similar information. 
 
-We use third-party advertising companies to serve ads and collect information when you visit our website. These companies will NOT have access to or use any personally identifiable information (including your name, address, email address or telephone number) but will use other non-personal information about your visits to this and other websites in order to provide advertisements on this website, other sites, and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here: <http://networkadvertising.org/consumer/opt_out.asp>. If you would like more information about personalized advertising from Microsoft or would like to opt out, click here: <http://privacy.microsoft.com/en-us/fullnotice.mspx#display>.
+We use third-party advertising companies to serve ads and collect information when you visit our website. These companies will NOT have access to or use any personally identifiable information (including your name, address, email address or telephone number) but will use other non-personal information about your visits to this and other websites in order to provide advertisements on this website, other sites, and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here: <http://networkadvertising.org/consumer/opt_out.asp>. 
 
 Our site provides the opportunity to opt-in to receive mailings without purchasing from LetsTalk.com. All promotional newsletters have instructions on how to be removed from our mailing list or unsubscribe. Subscribers may also contact us [via email](https://web.archive.org/about/emailsubmit.htm?htId=6). We do not collect email addresses of recipients of newsletters forwarded by LetsTalk.com subscribers. 
 
@@ -96,18 +96,30 @@ Although LetsTalk cookies cannot harm your computer and do not contain any perso
 How to enable session cookies:  
 (If you do not know your browser version, click on help in your browser menu and then click the About... option) 
 
-Microsoft Internet Explorer 6.0 and 7.0  
-Select Tools -> Internet Options and click on the "Privacy" tab.  
-In Settings, click on "Advanced".  
+Microsoft Internet Explorer 7.0 or 8.0  
+Click Start > Control Panel. (Note: with Windows XP Classic View, click the Windows Start button > Settings > Control Panel).  
+Double-click the Internet Options icon  
+Click the Privacy tab.   
+Click the Advanced button.  
 To edit the default settings (which do allow permanent cookies) check the box that reads "Override Automatic Cookie Handling".  
 This will allow you to set First & Third Party cookie handling. (For LetsTalk.com you may set any option you want to here, including Blocking Cookies.)  
 You must check the box that reads, "Always allow session cookies".  
 
 
-Microsoft Internet Explorer 5.0  
-Select Tools -> Internet Options and click on the "Security" tab.  
-The default selection, "Medium," supports cookies, but you can click on the "Custom Level" button to check.  
-Scroll down until you see the word "Cookies" and verify that the radio button next to "Enable" is selected in both options. 
+Microsoft Internet Explorer 6.0  
+Click Start > Control Panel. (Note: with Windows XP Classic View, click the Windows Start button > Settings > Control Panel).  
+Click the Advanced button.  
+To edit the default settings (which do allow permanent cookies) check the box that reads "Override Automatic Cookie Handling".  
+This will allow you to set First & Third Party cookie handling. (For LetsTalk.com you may set any option you want to here, including Blocking Cookies.)  
+You must check the box that reads, "Always allow session cookies".  
+
+
+Mozilla Firefox 3.0, 3.5, 3.6  
+Select Tools -> Options and click on "Privacy" in the list on the left.  
+Set 'Firefox will': to Use custom settings for history.  
+Check the box next to Accept cookies from sites to enable cookies, or uncheck it to disable them.  
+Click OK.  
+
 
 Mozilla Firefox 1.8  
 Select Tools -> Options and click on "Privacy" in the list on the left.  
@@ -116,58 +128,15 @@ Beneath "Allow sites to set cookies" also check the box "for the originating web
 You may also change the default setting for Keep Cookies from "until they expire" -> "until I close Firefox".  
 Click OK 
 
-Mozilla Firefox 1.0.6  
-Select Tools -> Options and click on "Privacy" in the list on the left.  
-Select Cookies '+' which will expand the view for Cookies  
-Beneath "Allow sites to set cookies" also check the box "for the originating website only"  
-You may also change the default setting for Keep Cookies from "until they expire" -> "until I close Firefox".  
-Click OK  
+Chrome 8.0, 9.0, 10.0  
+Click the Tools menu.  
+Select Options.  
+Click the Under the Hood tab.  
+Click Content settings in the 'Privacy' section.  
+Make sure Allow local data to be set is selected to allow both first-party and third-party cookies. For any given webpage, first-party cookies are cookies that are set by the site domain listed in the address bar. Third-party cookies come from other domain sources that have items, such as ads or images, embedded on the page. If you only want to accept first-party cookies, check the box next to Block all third-party cookies without exception.  
 
 
-Netscape 8.1  
-Select Tools -> Options  
-In "Options" dialogue box, go to Security and Privacy (right column) and click on the Privacy link. Select Cookies '+' which will expand the view for Cookies  
-In "Keep Cookies" drop-down menu -> "until I close Netscape"  
-Click OK  
-
-
-Netscape 7.0  
-Select Edit -> Preferences -> Click Privacy & Security -> Cookies  
-You must select one of the 3 "Enable Cookies" options (Enable All, Enable for originating web site or Enable based on privacy settings)  
-You may then check the box that reads, "Limit maximum lifetime of cookies to: Current Session"  
-
-
-Netscape 6.0  
-Select Edit -> Preferences -> Click Privacy & Security -> Cookies  
-You may select "Enable Cookies for the originating web site only"  
-
-
-Opera 9.2  
-Select Tools -> Preferences -> and click on the Advanced tab.  
-Click Cookies in the left column  
-Select radio button "Accept only cookies from the site I visit"  
-You may also check the box underneath that says "Delete new cookies when exiting Opera"  
-Click OK  
-
-
-Additionally, this version of Opera allows you to set different settings for different sites. If you want to set a custom setting for Letstalk that will not override settings that you currently have for other sites:  
-Under header "Cookie settings can be adapted to each site" -> Manage Cookies  
-Click on "Add..." button -> General tab. In the "Site" filed, type "http://www.letstalk.com".  
-Click on Cookies tab  
-Select radio button "Accept only cookies from the site I visit"  
-You may also check the box underneath that says "Delete new cookies when exiting Opera"  
-Click OK  
-
-
-Opera 8.01  
-Select Tools -> Preferences -> and click on the "Advanced" tab.  
-Click Cookies in the left column  
-Under Normal cookies set, "Let me decide each time I receive one"  
-Under Third Party cookies set, "Accept only cookies set to the server itself".  
-Click OK  
-
-
-Safari 2.0  
+Safari 5.0  
 Choose Preferences from the Safari menu -> Security. Select Never if you don't want to store any cookies on your computer. This may prevent you from using some websites.  
 Click Always to accept and remember all cookies  
 Click "Only from sites you navigate to" to prevent storing cookies that come from websites other than those you open.  
