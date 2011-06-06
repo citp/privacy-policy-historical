@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thehorse.com privacy policy that was archived on 2010-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101110151056id_/http%3A//www.thehorse.com/ViewArticle.aspx%3FID%3D2545) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehorse.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606135542id_/http%3A//www.thehorse.com/ViewArticle.aspx%3FID%3D2545) for the most accurate reproduction.*
 
 # The Horse | TheHorse.com Privacy Policy
 
@@ -61,9 +61,3 @@ If a user's personally identifiable information changes (such as your zip code),
 If we decide to change our privacy policy, we will post a notification of such change on our home page. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users of such intentions via e-mail. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.
 
 If you feel that this company is not abiding by its posted privacy policy, please send an e-mail to [admin@TheHorse.com](mailto:admin@%3CB%3ETheHorse.com%3C/b%3E?subject=%3CB%3ETheHorse.com%3C/b%3E%20Privacy%20Policy).
-
-Most Popular
-
-| 
-
-Featured Free Reports 
