@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tacori.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206031037id_/http%3A//www.tacori.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tacori.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606045947id_/http%3A//www.tacori.com/privacy_policy.php) for the most accurate reproduction.*
 
 # 
 
