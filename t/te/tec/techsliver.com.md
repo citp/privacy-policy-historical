@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techsliver.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218113143id_/http%3A//www.techsliver.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techsliver.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606132558id_/http%3A//www.techsliver.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
