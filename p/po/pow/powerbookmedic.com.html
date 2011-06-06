@@ -1,17 +1,15 @@
-<!--The following is the downloaded HTML source of the powerbookmedic.com privacy policy that was archived on 2008-10-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081011153603id_/http%3A//www.powerbookmedic.com/Privacy-p-16.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the powerbookmedic.com privacy policy that was archived on 2011-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110606125024id_/http%3A//www.powerbookmedic.com/Privacy-p-16.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<title> Privacy 
-
-
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<title>Privacy
 </title>
 <meta http-equiv="content-type" content="text/html; charset=utf-8">
-<meta name="description" content="Powerbook Medic offers Powerbook Parts &amp; Powerbook Repair as well as Manuals &amp; Upgrades for Apple Macintosh G3 and G4 powerbooks &amp; ibooks as well as iPod parts and iPod Repair.">
-<meta name="keywords" content="powerbook parts,powerbook repair, powerbook, ibook parts, macbook, macbook pro, iphone, g4, titanium, g3, series, pismo, lombard, bronze, wallstreet,aluminum, dual usb, ibook, apple, macintosh, lcd, screen, display, hard drive, ac, power,battery, charger, memory, upgrade, iPod parts, iPod repair, iPod">
+<meta name="description" content="Mac Parts and send in Mac Repair service for your Apple Macbook, iPhone or iPad. ">
+<meta name="keywords" content="Apple iPad iPhone Mac repair parts upgrade Macbook Pro iPod Powerbook MacbookPro 3G 4G Macintosh Broken Glass Screen Display fix">
 <meta name="robots" content="index, follow">
 <meta name="GOOGLEBOT" content="INDEX, FOLLOW">
-
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
 <script type="text/javascript">
 <!--
 var number_format_dec = '.';
@@ -23,20 +21,338 @@ var images_dir = "/xcart1/skin1/images";
 var lbl_no_items_have_been_selected = 'No items have been selected';
 var current_area = 'C';
 -->
-</script><script src="/xcart1/skin1/common.js" language="JavaScript" type="text/javascript"></script>
-<script type="text/javascript" language="JavaScript 1.2" src="/xcart1/skin1/swfobject.js"></script>
-<link rel="stylesheet" href="/xcart1/skin1/skin1.css">
+</script>
+<script src="/xcart1/skin1/common.js" language="JavaScript" type="text/javascript"></script>
+<!--<script type="text/javascript" language="JavaScript 1.2" src="/xcart1/skin1/swfobject.js"></script>-->
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.powerbookmedic.com/wordpress/feed/rss">
+<link rel="stylesheet" href="/xcart1/skin1/css/powerbookmedic-static.css">
+<link rel="icon" href="/favicon.gif" type="image/gif"> 
+<link type="text/css" media="screen" rel="stylesheet" href="/xcart1/skin1/css/colorbox.css">
+<link type="text/css" media="screen" rel="stylesheet" href="/xcart1/skin1/css/jquery-ui-1..13.custom.css">
+<script type="text/javascript" src="/xcart1/skin1/javascript/jquery.min.js"></script>
+<script type="text/javascript" src="/xcart1/skin1/javascript/jquery-ui-1..13.custom.min.js"></script>
+<script type="text/javascript" src="/xcart1/skin1/javascript/jquery.colorbox-min.js"></script>
+<script type="text/javascript" src="/xcart1/skin1/javascript/swfobjectv2.js"></script>
+<script type="text/javascript" src="/xcart1/ajax.js"></script> 
+<!--[if lt IE 7]><script type="text/javascript" src="/xcart1/skin1/javascript/iehover-fix.js"></script><![endif]-->
+<script type="text/javascript">
+var productcode_array = new Array();
+var weight_array = new Array();
+var avail_array = new Array();
+var cat_productid_array = new Array();
+var cat_avail_array = new Array();
 
-	<!--[if IE]><link rel="stylesheet" type="text/css" href="css/ie.css" media="screen"/><![endif]-->
+function live_inventory(id) {
+	var productid = id;
+	$.get("/xcart1/live_inventory.php", { inventory: productid },function(data) {
+		if(data) {
+			var products = data.split("<br>");
+			for ( var i in products ) {
+				var details = products[i].split(",");
+				productcode_array[i] = details[0].replace('\r','');
+				avail_array[i] = details[1];
+				weight_array[i] = details[2];
+			}
+			var first_in_stock = -1;
+			var index = 0;
+			while ( index < avail_array.length) {
+				if(avail_array[index] > 0) {
+					first_in_stock = index;
+					$("#add_cart_table").removeClass("addlarge_unavailable");
+					$("#add_cart_table").addClass("addlarge");
+					$(".stock_notify_span").hide();
+					if(avail_array[first_in_stock] < 1) {
+						$("#product_avail_txt").html("No items available");
+					}
+					else {
+						$("#product_avail_txt").html(avail_array[first_in_stock]+" item(s) available");
+					}
+					live_inventory_quantity(avail_array[first_in_stock]);
+					break;
+				}
+				index++;
+			}
+			if(first_in_stock < 0) {
+				$("#add_cart_table").removeClass("addlarge");
+				$("#add_cart_table").addClass("addlarge_unavailable");
+				$(".stock_notify_span").show();
+				if(avail_array[0] < 1) {
+					$("#product_avail_txt").html("No items available");
+				}
+				else {
+					$("#product_avail_txt").html(avail_array[0]+" item(s) available");
+				}
+			}
+		}
+	});
+}
+function live_inventory_quantity(amount) {
+	if(document.getElementById("product_avail")) {
+		document.getElementById("product_avail").length = 0;
+		if(amount < 1) {
+			document.getElementById("product_avail").add(new Option("Out of stock",0), null);
+		}
+		else {
+			for (var i=1;i<=amount;i++) {
+				try {
+					document.getElementById("product_avail").add(new Option(i,i), null);
+				}
+				catch(e) {
+					document.getElementById("product_avail").add(new Option(i,i));
+				}
+				if(i == 50) {
+					break;
+				}
+			}
+		}
+	}
+}
+function live_inventory_change(i) {
+	var n = i - 1;
+	if(avail_array[n] > 0) {
+		$("#add_cart_table").removeClass("addlarge_unavailable");
+		$("#add_cart_table").addClass("addlarge");
+		$(".stock_notify_span").hide();
+		$("#product_avail_txt").html(avail_array[n]+" item(s) available");
+	}
+	else {
+		$("#add_cart_table").removeClass("addlarge");
+		$("#add_cart_table").addClass("addlarge_unavailable");
+		$(".stock_notify_span").show();
+		$("#product_avail_txt").html(avail_array[n]+" item(s) available");
+	}
+	live_inventory_quantity(avail_array[n]);
+}
+</script>
+<script type="text/javascript">
+//This hides the inline content if JavaScript is supported.
+document.write("<style type='text/css'>.hidden{display:none;}<\/style>");
 
- 
-<script language="JavaScript" src="http://www.powerbookmedic.com/xcart1/mootools.js"></script>
-<script language="JavaScript" src="http://www.powerbookmedic.com/xcart1/ajax.js"></script> 
+$(document).ready(function(){
 
+	//Examples of how to assign the ColorBox event to elements.
+	$("a[rel='gallery']").colorbox({slideshow:true,slideshowAuto:true,transition:"elastic", contentCurrent:"{current} / {total}"});
+	$("a[rel='gallery1']").colorbox({slideshow:true,slideshowAuto:true,transition:"elastic", contentCurrent:"{current} / {total}"});
+	
+	$("a.colorboxauto").colorbox({initialWidth:400,initialHeight:400});
+	$("a.colorboxpricing").colorbox({width:625,height:675});
+	
+	$("a.colorbox").live("click",function(){
+		$(this).colorbox({open:true,iframe:true,width:600,height:550});
+		return false;
+	});
+	
+	$("a.colorboxmovie").live("click",function(){
+		$(this).colorbox({href:"/xcart1/skin1/quicktime.html",open:true});
+		return false;
+	});
+	
+	$.ajaxSetup ({cache: false}); 
+	
+	$write = $("#po200,#po256,#po356,#po99,#po54,#po83,#po136,#po180,#po53,#po55,#po411");
+	$quantity_index = 0;
+	
+	$('#keyboard li .functionkeys,.arrows,.btmrow,.eject,.symbol,.letter,.tab,.capslock,.space,.left-shift,.right-shift,.delete,.return').click(function(){
+		var $this = $(this),
+			character = $this.html(); // If it's a lowercase letter, nothing happens to this variable
+		
+		$this.css("background","#BDBDBD");
+		$this.css("border-color","#818181");
+		
+		var $currentvalue = $write.val(); 
+		// Add the character
+		if($currentvalue.length > 0) {
+			$write.val($write.val() + "," + character);
+			$quantity_index = $quantity_index + 1;
+			$("#product_avail option:eq("+$quantity_index+")").attr("selected","selected");
+		}
+		else {
+			$write.val(character);
+		}
+	});
+	
+	$('#startover').click(function(){
+		$write.val('');
+		$('#keyboard li').css("background","#FFFFFF");
+		$('#keyboard li').css("border-color","#B8B8B8");
+		$quantity_index = 0;
+		$("#product_avail option:eq(0)").attr("selected","selected");
+	});
+	
+	$('#eztooltip').mouseover(function(){
+		$('#mytooltip').css('left',findPosX(document.getElementById('eztooltip')));
+		$('#mytooltip').css('top',findPosY(document.getElementById('eztooltip')));
+		$('#mytooltip').fadeIn('fast');
+	});
+	$('#eztooltip').mouseout(function(){
+		$('#mytooltip').hide();
+	});
+	$("#pageflip").hover(function() { //On hover...
+		$("#pageflip img , .msg_block").stop()
+			.animate({ //Animate and expand the image and the msg_block (Width + height)
+				width: '307px',
+				height: '319px'
+			}, 500);
+		} , function() {
+		$("#pageflip img").stop() //On hover out, go back to original size 50x52
+			.animate({
+				width: '50px',
+				height: '52px'
+			}, 220);
+		$(".msg_block").stop() //On hover out, go back to original size 50x50
+			.animate({
+				width: '50px',
+				height: '50px'
+			}, 200); //Note this one retracts a bit faster (to prevent glitching in IE)
+	});
+	$('#identifynumber').keyup(function(event) {
+		var serial = $(this).val();
+		serial = jQuery.trim(serial);
+		
+		if (serial.length > 12) {
+			$('#decoding').show('fast');
+			$('#decoding').html("<img src='http://www.powerbookmedic.com/images/loading.gif' style='width: 16px;'>&nbsp;&nbsp;Invalid Number.");
+		}
+		else if (serial.length == 11 || serial.length == 12 || serial.length == 5) {
+			$('#decoding').hide();
+			$('#decoding').html("<img src='http://www.powerbookmedic.com/images/loading.gif' style='width: 16px;'>");
+			$.get("/identify-mac-serial.php", { serial: serial,  size: "slim" },
+				function(data) {
+					if(data) {
+						$("#serialdata").html(data);
+						$("#serialdiv").show();
+					}
+					else {
+						$('#decoding').show('fast');
+					}
+				});
+		}
+		else if (serial.length > 0)
+			$('#decoding').show('fast');
+		else {
+			$("#serialdiv").hide('fast');
+			$("#serialdata").html("");
+			$('#decoding').hide();
+			$('#decoding').html("<img src='http://www.powerbookmedic.com/images/loading.gif' style='width: 16px;'>");
+		}
+	});
+	$("#add_device_form").submit(function() {
+		$.get("identify-mac-serial.php",{ add_device: $("#identifynumber").val(), type: "cookie", count: "0" },function(html) {
+			if(html) {
+				$("#device_td").html(html);
+				window.location.reload(true);
+			}
+		});
+		return false;
+	});
+	$(".filterrefine").click(function() {
+		var html = $(this).html();
+		if(html.indexOf("+") > 0) {
+			html = html.replace("+","-");
+		} else {
+			html = html.replace("-","+");
+		}
+		$(this).html(html);
+		$(this).next().toggle();
+	});
+	if($("#dailydeal").length) {
+		$.get("/xcart1/dailydeal.php",function(html){
+			if(html) {
+				$("#dailydeal").html(html);
+			}
+		});
+	}
+	$(".pbm_filter_show").live('click',function() {
+		var filter = $(this).attr('id');
+		filter = filter.replace('show_','');
+		if(filter) {
+			$("#"+filter).toggle("fast",function() {
+				if($("#show_"+filter).html().indexOf("Show") > 0) {
+					$("#show_"+filter).html("<i>...Hide</i>");
+				}
+				else {
+					$("#show_"+filter).html("<i>...Show All</i>");
+				}
+			});
+		}
+	});
+});
+</script><style type="text/css">.hidden{display:none;}</style>
+<style>
+.filterrefinecontents {
+display: none;
+}
+.filtershow {
+display: block;
+}
+.filterrefine {
+cursor: pointer;
+}
+</style>
+<!--[if lt IE 7]>
+<script language="JavaScript">
+function correctPNG() // correctly handle PNG transparency in Win IE 5.5 & 6.
+{
+   var arVersion = navigator.appVersion.split("MSIE")
+   var version = parseFloat(arVersion[1])
+   if ((version >= 5.5) && (document.body.filters)) 
+   {
+      for(var i=0; i<document.images.length; i++)
+      {
+         var img = document.images[i]
+         var imgName = img.src.toUpperCase()
+         if (imgName.substring(imgName.length-3, imgName.length) == "PNG")
+         {
+            var imgID = (img.id) ? "id='" + img.id + "' " : ""
+            var imgClass = (img.className) ? "class='" + img.className + "' " : ""
+            var imgTitle = (img.title) ? "title='" + img.title + "' " : "title='" + img.alt + "' "
+            var imgStyle = "display:inline-block;" + img.style.cssText 
+            if (img.align == "left") imgStyle = "float:left;" + imgStyle
+            if (img.align == "right") imgStyle = "float:right;" + imgStyle
+            if (img.parentElement.href) imgStyle = "cursor:hand;" + imgStyle
+            var strNewHTML = "<span " + imgID + imgClass + imgTitle
+            + " style=\"" + "width:" + img.width + "px; height:" + img.height + "px;" + imgStyle + ";"
+            + "filter:progid:DXImageTransform.Microsoft.AlphaImageLoader"
+            + "(src=\'" + img.src + "\', sizingMethod='scale');\"></span>" 
+            img.outerHTML = strNewHTML
+            i = i-1
+         }
+      }
+   }    
+}
+window.attachEvent("onload", correctPNG);
+</script>
+<![endif]-->
+<script type="text/javascript"><!--//--><![CDATA[//><!--
 
+sfHover = function() {
+	var sfEls = document.getElementById("nav").getElementsByTagName("LI");
+	for (var i=0; i<sfEls.length; i++) {
+		sfEls[i].onmouseover=function() {
+			this.className+=" sfhover";
+		}
+		sfEls[i].onmouseout=function() {
+			this.className=this.className.replace(new RegExp(" sfhover\\b"), "");
+		}
+	}
+}
+if (window.attachEvent) window.attachEvent("onload", sfHover);
 
-<script language="JavaScript">if (window.name == "quickrates") { window.opener.location.reload(); window.close(); }</script>
-
+//--><!]]></script>
+<!--[if IE 5]>
+<style>
+#leftcol_cartproducts a {
+float: left;
+clear: both;
+width: 100%;
+}
+</style>
+<![endif]-->
+<!--[if lte IE 6]>
+<style>
+#leftcol_cartproducts a {height: 1%;}
+</style>
+<![endif]-->
 <script type="text/javascript">
 // Javascript Base64 encode / decode routines used with permission. http://rumkin.com/tools/compression/base64.php
 var keyStr="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=";function encode64(input){var output="";var chr1,chr2,chr3;var enc1,enc2,enc3,enc4;var i=0;do{chr1=input.charCodeAt(i++);chr2=input.charCodeAt(i++);chr3=input.charCodeAt(i++);enc1=chr1>>2;enc2=((chr1&3)<<4)|(chr2>>4);enc3=((chr2&15)<<2)|(chr3>>6);enc4=chr3&63;if(isNaN(chr2)){enc3=enc4=64;}else if(isNaN(chr3)){enc4=64;}output=output+keyStr.charAt(enc1)+keyStr.charAt(enc2)+keyStr.charAt(enc3)+keyStr.charAt(enc4);}while(i<input.length);return output;}function decode64(input){var output="";var chr1,chr2,chr3;var enc1,enc2,enc3,enc4;var i=0;input=input.replace(/[^A-Za-z0-9\+\/\=]/g,"");do{enc1=keyStr.indexOf(input.charAt(i++));enc2=keyStr.indexOf(input.charAt(i++));enc3=keyStr.indexOf(input.charAt(i++));enc4=keyStr.indexOf(input.charAt(i++));chr1=(enc1<<2)|(enc2>>4);chr2=((enc2&15)<<4)|(enc3>>2);chr3=((enc3&3)<<6)|enc4;output=output+String.fromCharCode(chr1);if(enc3!=64){output=output+String.fromCharCode(chr2);}if(enc4!=64){output=output+String.fromCharCode(chr3);}}while(i<input.length);return output;}var __fts_width = screen.width;
@@ -52,7 +368,12 @@ __fts_params += "title=" + encode64(__fts_title) + "&";
 __fts_params += "url=" + encode64(__fts_url) + "&";
 __fts_params += "referrer=" + encode64(__fts_referrer);
 document.write("<sc"+"ript type=\"text/javascript\" src=\"http://www.powerbookmedic.com/xcart1/mm_tmon_script.php?" + __fts_params + "\"></sc"+"ript>");
-</script><script type="text/javascript" src="http://www.powerbookmedic.com/xcart1/mm_tmon_script.php?width=ODAw&amp;height=NjAw&amp;title=UHJpdmFjeQ==&amp;url=aHR0cHM6Ly93ZWIuYXJjaGl2ZS5vcmcvd2ViLzIwMDgxMDExMTUzNjAzaWRfL2h0dHAlM0EvL3d3dy5wb3dlcmJvb2ttZWRpYy5jb20vUHJpdmFjeS1wLTE2Lmh0bWw=&amp;referrer=AA=="></script>
+</script><script type="text/javascript" src="http://www.powerbookmedic.com/xcart1/mm_tmon_script.php?width=ODAw&amp;height=NjAw&amp;title=UHJpdmFjeQ==&amp;url=aHR0cHM6Ly93ZWIuYXJjaGl2ZS5vcmcvd2ViLzIwMTEwNjA2MTI1MDI0aWRfL2h0dHAlM0EvL3d3dy5wb3dlcmJvb2ttZWRpYy5jb20vUHJpdmFjeS1wLTE2Lmh0bWw=&amp;referrer=AA=="></script>
+<script src="/xcart1/skin1/modules/XAuth/ui/js/jquery-ui-1.8.9.custom.min.js" type="text/javascript"></script>
+<script src="/xcart1/skin1/modules/XAuth/popup_open.js" type="text/javascript"></script>
+<script src="/xcart1/skin1/modules/XAuth/controller.js" type="text/javascript"></script>
+<link rel="stylesheet" type="text/css" href="/xcart1/skin1/modules/XAuth/ui/css/redmond/jquery-ui-1.8.9.custom.css">
+<link rel="stylesheet" type="text/css" href="/xcart1/skin1/modules/XAuth/main.css">
 <script type="text/javascript">
 <!--
 function setNewLng() {
@@ -70,705 +391,463 @@ else
 -->
 </script>
 </head>
-<body onload="movelayer();" onresize="movelayer();">
-<table align="center">
-<tbody><tr><td><table>
-<tbody><tr> 
-	
-	<td>
-
-<div id="header">
-			<div class="header">
-				<strong><a href="http://www.powerbookmedic.com">PowerbookMedic.com - YOUR MAC. OUR PATIENT.</a></strong>
-				<ul class="support">
-					
-					<li class="online"><img style="cursor: pointer;" onclick="javascript: window.open('http://www.powerbookmedic.com/xcart1/sns/openChat.php', '_blank', 'status=yes,toolbar=no,menubar=no,location=no,width=800,height=900')" border="0" src="http://www.powerbookmedic.com/xcart1/sns/operatorButton.js.php" id="snsOperatorButton" alt="Powered by Sales-n-Stats"><script type="text/javascript">
+<body onload="movelayer();" onresize="movelayer();"><div id="cboxOverlay" style="display: none;"></div><div id="colorbox" style="padding-bottom: 20px; padding-right: 0px; display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxLoadedContent" class="" style="width: 0px; height: 0px;"></div><div id="cboxLoadingOverlay" class=""></div><div id="cboxLoadingGraphic" class=""></div><div id="cboxTitle" class=""></div><div id="cboxCurrent" class=""></div><div id="cboxSlideshow" class=""></div><div id="cboxNext" class=""></div><div id="cboxPrevious" class=""></div><div id="cboxClose" class=""></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position:absolute; top:0; left:0; width:9999px; height:0;"></div></div>
 <!--
-if (document.getElementById('snsOperatorButton')) document.getElementById('snsOperatorButton').style.display = '';
+<div id="pageflip">
+<a href="http://www.powerbookmedic.com/sell.php">
+<img src="/xcart1/skin1/images/imagesv3/page_flip.png" alt="" />
+<span class="msg_block"></span>
+</a>
+</div>
 -->
-</script>
-<noscript><a href="http://www.powerbookmedic.com/xcart1/sns/leaveMessage.php?noscript=true" target="_blank"><img src="http://www.powerbookmedic.com/xcart1/sns/operatorButton.js.php?script=no" style="cursor: pointer" alt="Powered by Sales-n-Stats" /></a></noscript>
-				</li>
-				</ul>
-				<ul class="services">
-					<li class="repair" onclick="window.location='/Take-Apart-Repair-Manuals-p-1-c-258.html';">
-						<a href="http://www.powerbookmedic.com/Take-Apart-Repair-Manuals-p-1-c-258.html">Free Repair Guides</a>
-						<p>For Self Repair</p>
-					</li>
-					<li class="search">
-						<p><strong>Search</strong> for parts by keyword<br> or Apple part #:</p>
-						
-						<form method="get" action="/xcart1/_search.php" name="productsearchform"><input type="hidden" name="is_hc" value="Y">							
-							<div id="search-form">
-							<input type="hidden" name="mode" value="search">
-							<input type="text" name="q" autocomplete="off" value="" id="q" style="background-color: #FFFFFF; width=100px;" onkeyup="sendRequest(this.value);" onresize="sendRequest(this.value);" onkeypress="cursorevent(event);movelayer();"><a href="javascript:document.productsearchform.submit()"><!-- <img src="/xcart1/skin1/images/go_menu.gif" width="35" height="15" alt="" border=0 align="absmiddle"> -->&nbsp;<img src="/xcart1/skin1/images/images/btn-go.gif"></a>
-							<div id="searchResults" name="searchResults" style="background-color: #db7623; text-align: left; z-index: 100; position: absolute; top: 146px; left: 202px; width: 555px; border: 1px solid #db7623; font-size: 6pt; display: none;"></div>
-						</div>
-												</form>
-						
-					</li>
-					<li class="browse">
-						<p>&nbsp;<strong>Browse</strong> for Parts:</p>
-						<form name="browseform"><input type="hidden" name="is_hc" value="Y">
-							<div id="model">
-								<select name="browsemodel" id="browsemodel" class="ajaxdrop" onchange="sendBrowseRequest(this.value);closeSearchPanel();movelayer();">
-									<option value="">Select a model</option>
-									<optgroup label="Laptops" style="color: #F37421; background-color: #FFFFFF;">
-									<option value="446" style="color: black;">Macbook</option>
-									<option value="376" style="color: black;">Aluminum G4</option>
-									<option value="250" style="color: black;">Titanium G4</option>
-									<option value="251" style="color: black;">Pismo G3</option>
-									<option value="252" style="color: black;">Lombard G3</option>
-									<option value="253" style="color: black;">Wallstreet G3</option>
-									<option value="369" style="color: black;">White iBook G3</option>
-									<option value="419" style="color: black;">iBook G4</option>
-									<option value="255" style="color: black;">iBook Clamshell</option>
-									<option value="343" style="color: black;">Older Models</option>
-									</optgroup>
-									<optgroup label="Desktops" style="color: #F37421; background-color: #FFFFFF;">
-									<option value="436" style="color: black;">Mac Mini</option>
-									</optgroup>
-									<optgroup label="iPods" style="color: #F37421; background-color: #FFFFFF;">
-									<option value="510" style="color: black;">iPod Video</option>
-									<option value="513" style="color: black;">iPod Photo</option>
-									<option value="509" style="color: black;">iPod Nano</option>
-									<option value="557" style="color: black;">iPod Nano 2nd Gen</option>
-									<option value="511" style="color: black;">iPod Mini</option>
-									<option value="512" style="color: black;">iPod Shuffle</option>
-									<option value="514" style="color: black;">iPod 4th Gen</option>
-									<option value="515" style="color: black;">iPod 3rd Gen</option>
-									<option value="516" style="color: black;">iPod 1/2 Gen</option>
-									<option value="508" style="color: black;">iPod U2 Special</option>
-									</optgroup>
-								</select>
-							</div>
-							<div id="modelPanel" name="modelPanel" style="background-color: #db7623; text-align: left; z-index: 100; position: absolute; top: 146px; left: 364px; width: 395px; height: 80px; font-size: 6pt; display: none;">
-								<div style="padding-left: 5px;">
-									<br>
-									<span id="browseselect2"><select name="browsecategory" id="browsecategory" class="ajaxdrop" disabled="">
-										<option>Select a category</option>
-									</select></span>
-									<br><br>
-									<span id="browseselect3"><select name="browseproduct" id="browseproduct" class="ajaxdrop" disabled="">
-										<option>Select a product</option>
-									</select></span><br>
-									<div valign="bottom" style="float: right; padding-top: 3px; padding-bottom: 6px; padding-right: 3px;">
-										<a onclick="closeModelPanel();" onmouseover="this.style.cursor='pointer';"><b>X&nbsp;Close</b></a><br>
-									</div>
-								</div>
-							</div>
-						</form>
-					</li>
-					<li class="cart">
-						<p><a href="/xcart1/cart.php"><strong>Shopping Cart</strong></a>
-						
-												<br>your cart is empty 
-												
-						</p>
-					</li>
-				</ul>
-			</div>
-	
-	
-		</div></td>
+<table align="center">
+<tbody><tr><td>
+<table>
+<tbody><tr> 
+<td>
+<div style="width:1050px;margin:0px auto;">
+<a href="http://www.powerbookmedic.com/">
+<img src="/xcart1/skin1/images/imagesv3/logo.jpg" width="285" height="72" border="0" alt="Mac Repair and Mac Parts from Powerbook Medic" style="padding-left:30px;padding-top:10px;float:left;"></a>
+<div id="mytooltip" style="float:left;display: none;width:250px;height:75px;position: absolute;">
+<p align="left">The <b>Easy Search</b> feature allows visitors to search all of our available criteria in just one search bar. You can search by category, model, keyword or part number all in the Easy Search bar!</p>
+</div>
+<div id="headerinfo">
+<div class="header-image-phone"></div>
+<a href="http://messenger.providesupport.com/messenger/powerbookmedic.html" title="Live Mac Support from 8 to 5 CS" onclick="window.open(this.href,'window','width=500,height=430,resizable,scrollbars,toolbar,menubar') ;return false;"><div class="header-image-live"></div></a>
+<a href="/xcart1/skin1/orderstatus.html" class="colorboxauto cboxElement"><div class="header-image-order"></div></a>
+<a href="/xcart1/cart.php"><div class="header-image-cart"></div></a>
+<div style="float: left;padding-top:2px;">&nbsp;
+<a href="/xcart1/cart.php" class="headerinfo">Cart </a>
+</div>
+<p style="padding:0px; margin:10px 0px;"></p><hr style="width: 478px;"><p></p>
+<table align="right" cellpadding="0" cellspacing="0" style="padding-bottom: 10px;">
+<tbody><tr>
+<td width="115" align="left" class="ezsearch" nowrap="">
+<i>Easy Search</i> [<span class="tooltip" id="eztooltip"> ? </span>]
+</td>
+<td align="right">
+<form method="get" action="/xcart1/_search.php" name="productsearchform"><input type="hidden" name="is_hc" value="Y">							
+<div id="search-form">
+<input type="hidden" name="mode" value="search">
+<input type="text" name="q" autocomplete="off" value="" id="q" style="background-color: #FFFFFF; width=100px;" onkeyup="getLiveSearchResults(this.value);" onresize="getLiveSearchResults(this.value);" onkeypress="cursorevent(event);movelayer();">
+<div id="searchResults" style="text-align: left; opacity: 0.95; z-index: 5000; height: auto; width: 405px; position: absolute; top: 100px; left: 655px; font-size: 6pt; display: none; border: 1px solid rgb(102, 102, 102); border-radius: 1em; background-color: rgb(102, 102, 102); padding: 1em; right: 1465px;">
+<div id="searchResultsFrame" style="position: relative; top: -5px;"></div>
+</div>
+
+</div></form></td>
+<td align="left" style="none" nowrap="">
+<!-- <a href="javascript:document.productsearchform.submit()"> --><!-- <img src="/xcart1/skin1/images/go_menu.gif" width="35" height="15" alt="" border=0 align="absmiddle"> -->&nbsp;<img src="/xcart1/skin1/images/imagesv3/ezsearch_button.gif" width="36" height="30" onclick="javascript:document.productsearchform.submit()" onmouseover="this.style.cursor='pointer';" onmouseout="this.style.cursor='default';"><!-- </a> -->
+</td>
+</tr>
+</tbody></table>
+</div>
+<ul id="nav" class="clearfix">
+<li><a href="http://www.powerbookmedic.com/" class="navleft">Home</a></li>
+<li><a href="http://www.powerbookmedic.com/mac-repair.php" class="free">Repair Guides</a></li>
+<li><a href="http://www.powerbookmedic.com/mac-service.php">Send-In Repair</a>
+<ul>
+<li><a href="http://www.powerbookmedic.com/mac-service.php">Mac Repair</a></li>
+<li><a href="http://www.powerbookmedic.com/Macbook-Pro-and-Macbook-Logic-Board-Repair-p-67.html">Logic Board Repair</a></li>
+<li><a href="http://www.powerbookmedic.com/iphone/">iPhone Repair</a></li>
+<li><a href="http://www.powerbookmedic.com/ipod/">iPod Repair</a></li>
+<li><a href="http://www.powerbookmedic.com/ipad/">iPad Repair</a></li>
+<li><a href="http://www.powerbookmedic.com/hard_drive_data_recovery.php">Mac Hard Drive Data Recovery</a></li>
+<li><a href="http://www.powerbookmedic.com/support/index.php?_m=tickets&amp;_a=submit&amp;step=1&amp;departmentid=3">Request a Repair Quote</a></li>
+<li><a href="/xcart1/schedule.php">Schedule a Repair</a></li>
+</ul>
+</li>
+<li><a href="#">Parts by Category</a>
+<ul>
+<li><a href="http://www.powerbookmedic.com/Refurbished-Units-p-1-c-580.html">Used and Refurb Macs</a></li>
+<li><a href="http://www.powerbookmedic.com/Accessories-p-1-c-650.html">Accessories</a></li>
+<li><a href="http://www.powerbookmedic.com/Powerbook-iBook-Macbook-Hard-Drive-Upgrades-Pro-p-1-c-256.html">Hard Drive Upgrades</a></li>
+<li><a href="http://www.powerbookmedic.com/Ram-Upgrades-p-1-c-257.html">Ram Memory Upgrades</a></li>
+<li><a href="http://www.powerbookmedic.com/Battery-Replacements-p-1-c-442.html">Battery Replacements</a></li>
+<li><a href="http://www.powerbookmedic.com/Optical-Drive-Upgrades-p-1-c-441.html">Superdrive / Combo Drives</a></li>
+<li><a href="http://www.powerbookmedic.com/Keyboards--Keys-p-1-c-440.html">Keyboards &amp; Keys</a></li>
+<li><a href="http://www.powerbookmedic.com/LCD-Display-Replacements-p-1-c-503.html">LCD Display Replacements</a></li>
+<li><a href="http://www.powerbookmedic.com/Power-Adapters-Cords-p-1-c-531.html">Power Adapters</a></li>
+<li><a href="http://www.powerbookmedic.com/Wireless--Airport-p-1-c-351.html">Wireless &amp; Airport</a></li>
+<li><a href="http://www.powerbookmedic.com/Software--Disk-Utilities-p-1-c-353.html">System Software</a></li>
+<li><a href="http://www.powerbookmedic.com/Tools-Tape-Etc-p-1-c-413.html">Tools, Tape, Etc...</a></li>
+<li><a href="http://www.powerbookmedic.com/Mac-Jewelry-p-1-c-610.html">Mac Jewelry</a></li>
+<li><a href="http://www.powerbookmedic.com/iPad-Parts---LCD-Display-Glass-Digitizer-Logic-Board-p-1-c-612.html">iPad Parts</a></li>
+<li><a href="http://www.powerbookmedic.com/parts/">Apple Parts List</a></li>
+</ul>
+</li>
+<li><a href="#">Parts by Model</a>
+<ul>
+<li><a href="http://www.powerbookmedic.com/MacBook--Macbook-Pro-Parts-and-Repair-p-1-c-446.html">Macbook &amp; Macbook Pro</a></li>
+<li><a href="http://www.powerbookmedic.com/iPod-Parts--iPod-Repair-p-1-c-373.html">iPod &amp; iPhone Parts</a></li>
+<li><a href="http://www.powerbookmedic.com/iPad-Parts---LCD-Display-Glass-Digitizer-Logic-Board-p-1-c-612.html">iPad</a></li>
+<li><a href="http://www.powerbookmedic.com/Powerbook-G4-Aluminum-p-1-c-376.html">Powerbook G4 Aluminum</a></li>
+<li><a href="http://www.powerbookmedic.com/Powerbook-G4-Titanium-p-1-c-250.html">Powerbook G4 Titanium</a></li>
+<li><a href="http://www.powerbookmedic.com/White-iBook-G4-p-1-c-419.html">iBook G4</a></li>
+<li><a href="http://www.powerbookmedic.com/White-iBook-G3-Dual-USB-p-1-c-369.html">iBook G3</a></li>
+<li><a href="http://www.powerbookmedic.com/Powerbook-G3----Pismo---Lombard---Wallstreet-p-1-c-252.html">Powerbook G3</a></li>
+<li><a href="http://www.powerbookmedic.com/Mac-Mini-p-1-c-436.html">Mac Mini</a></li>
+<li><a href="http://www.powerbookmedic.com/iMac-p-1-c-571.html">iMac</a></li>
+<li><a href="http://www.powerbookmedic.com/Mac-Pro-Upgrade-Parts-and-Service-p-1-c-599.html">Mac Pro</a></li>
+<li><a href="http://www.powerbookmedic.com/PowerMac-G5-p-1-c-602.html">PowerMac G5</a></li>
+<li><a href="http://www.powerbookmedic.com/Amazon-Kindle-Parts-for-Repair-p-1-c-641.html">Amazon Kindle Parts</a></li>
+<li><a href="http://www.powerbookmedic.com/HTC-Google-Nexus-One-Parts-p-1-c-648.html">Google Nexus One Parts</a></li>
+<li><a href="http://www.powerbookmedic.com/Blackberry-Service-Parts-for-Blackberry-Repair-p-1-c-633.html">Blackberry Parts</a></li>
+<li><a href="http://www.powerbookmedic.com/Sony-PSP-Parts-for-Repair-p-1-c-634.html">Sony PSP Parts</a></li>
+<li><a href="http://www.powerbookmedic.com/HP-Parts-p-1-c-642.html">HP Parts</a></li>
+<li><a href="http://www.powerbookmedic.com/Gateway-Parts-p-1-c-644.html">Gateway Parts</a></li>
+</ul>
+</li>
+<li><a href="http://www.powerbookmedic.com/identify-mac-serial.php">ID Your Mac</a>
+</li>
+<li><a href="http://www.powerbookmedic.com/sell.php">Sell It</a>
+</li>
+<li><a href="http://www.powerbookmedic.com/support/index.php?_m=tickets&amp;_a=submit" id="support" title="support">Support</a>
+<ul>
+<li><a href="http://www.powerbookmedic.com/support/index.php?_m=tickets&amp;_a=submit">Contact Us</a></li>
+<li> <a href="/xcart1/skin1/orderstatus.html" class="colorboxauto cboxElement">Order Status</a></li>
+<li> <a href="/xcart1/orders.php?mode=search" "="">Account Login</a></li>
+<li><a href="http://www.powerbookmedic.com/forum/">Forums</a></li>
+<li><a href="/xcart1/help.php?section=Password_Recovery">Recover Password</a></li>
+<li><a href="http://www.powerbookmedic.com/Powerbook-Medic---About-Us-p-22.html">About Us / FAQ</a></li>
+<li><a href="http://www.powerbookmedic.com/Dealer-Discounts-p-36.html">Reseller Accounts</a></li>
+<li><a href="http://www.powerbookmedic.com/Dealer-and-Educational-Discounts-p-37.html">Educational Accounts</a></li>
+<li><a href="/xcart1/help.php?section=conditions">Warranty Policy</a></li>
+<li><a href="/xcart1/help.php?section=business">Terms &amp; Conditions</a></li>
+<li><a href="http://www.powerbookmedic.com/Privacy-p-16.html">Privacy Policy</a></li>
+<li><a href="http://www.powerbookmedic.com/International-Shipping-p-23.html">International Shipping</a></li>
+<li><a href="http://www.powerbookmedic.com/support/index.php?_m=tickets&amp;_a=submit&amp;step=1&amp;departmentid=8">Request Mac Parts</a></li>
+</ul>
+</li>
+<li><a href="http://www.powerbookmedic.com/wordpress" class="navright">Blog</a>
+<ul>
+<li><a href="http://www.powerbookmedic.com/wordpress">Our Mac Blog</a></li>
+<li><a href="/xcart1/help.php?section=publicity">Newsletter</a></li>
+<li><a href="http://www.twitter.com/powerbookmedic">Twitter</a></li>
+<li><a href="http://www.powerbookmedic.com/wordpress/feed/rss">RSS</a></li>
+<li><a href="http://www.facebook.com/pages/Huntsville-AL/POWERBOOKMEDICCOM/89907684250">Facebook</a></li>
+<li><a href="http://www.powerbookmedic.com/forum">Forums</a></li>
+
+</ul>
+</li></ul>
+<div id="modelPanel" style="background-color: rgb(102, 102, 102); text-align: left; z-index: 100; position: absolute; top: 136px; left: 422px; width: 650px; height: 80px; font-size: 6pt; color: white; display: none;">
+<div style="padding-left: 5px;">
+<br>
+<span id="browseselect2"><select name="browsecategory" id="browsecategory" class="ajaxdrop" disabled="">
+<option>Select a category</option>
+</select></span>
+<br><br>
+<span id="browseselect3"><select name="browseproduct" id="browseproduct" class="ajaxdrop" disabled="">
+<option>Select a product</option>
+</select></span><br>
+<div style="float: right; padding-top: 3px; padding-bottom: 6px; padding-right: 3px; color: #FFFFFF; font-size: 1.4em;">
+<span onclick="closeModelPanel();" onmouseover="this.style.cursor='pointer';"><b>X&nbsp;Close</b></span><br>
+</div>
+</div>
+</div>
+</div></td>
 </tr>
 </tbody></table>
 <table>
-<!--<tr> 
-	<td colspan="2" class="HeadThinLine"><img src="/xcart1/skin1/images/spacer.gif" class="Spc" alt="" /></td>
-</tr>-->
-<!--<tr> 
-	<td class="HeadLine" height="22">
-<form method="post" action="/xcart1/search.php" name="productsearchform"><input type="hidden" name="is_hc" value="Y" />
-<input type="hidden" name="simple_search" value="Y" />
-<input type="hidden" name="mode" value="search" />
-<input type="hidden" name="posted_data[by_title]" value="Y" />
-<input type="hidden" name="posted_data[by_shortdescr]" value="Y" />
-<input type="hidden" name="posted_data[by_fulldescr]" value="Y" />
-<input type="hidden" name="posted_data[by_productid]" value="Y" />
-<input type="hidden" name="posted_data[by_sku]" value="Y" />
-<input type="hidden" name="posted_data[including]" value="all" />
-<table cellpadding="0" cellspacing="0">  
-<tr> 
-	<td class="TopLabel" style="padding-left: 20px; padding-right: 5px;">Search:</td>
-	<td valign="middle"><input type="text" name="posted_data[substring]" size="16" value="" /></td>
-	<td valign="middle" style="padding-left: 5px; padding-right: 20px;"><a href="javascript: document.productsearchform.submit();"><img src="/xcart1/skin1/images/go.gif" class="GoImage" alt="" /></a></td>
-	<td><a href="/xcart1/search.php"><u>Advanced Search</u></a></td>
-</tr>
 </table>
-</form>	</td>
-	<td class="HeadLine" align="right">
-&nbsp;
-	</td>
-</tr>-->
-
-<tbody><tr> 
-	<td colspan="2" class="HeadLine">
-<form action="/xcart1/include/login.php" method="post" name="toploginform"><input type="hidden" name="is_hc" value="Y">
-<input type="hidden" name="mode" value="logout">
-<input type="hidden" name="redirect" value="customer">
-
-<table cellpadding="0" cellspacing="0" width="100%">
-<tbody><tr>
-
-</tr>
-</tbody></table>
-
-</form>
-	</td>
-</tr>
-
-
-<!-- <tr> 
-	<td colspan="2" class="HeadThinLine"><img src="/xcart1/skin1/images/spacer.gif" class="Spc" alt="" /></td>
-</tr> -->
-
-</tbody></table><script src="http://www.powerbookmedic.com/xcart1/sns/tracker.js.php" type="text/javascript"></script>
-<noscript><img style="display: none" src="http://www.powerbookmedic.com/xcart1/sns/static.php" alt="" /></noscript>
 <!-- main area -->
 <table>
 <tbody><tr>
 <td valign="top">
-<div class="side-bar">
-				<a href="http://www.powerbookmedic.com/Apple-Powerbook-Repair-iBook-Repair-Parts-Hinges-G3-G4-p-3.html" class="repair"><span>REPAIR CENTER</span></a>
-				<div class="navigation">
-					<ul>
-						<li><a href="http://www.powerbookmedic.com/">HOME PAGE</a></li>
-						<li><a href="http://www.powerbookmedic.com/Take-Apart-Repair-Manuals-p-1-c-258.html">FREE GUIDES</a></li>
-						<li><a href="http://www.powerbookmedic.com/Apple-Model-Identification---Powerbook-iBook-Macbook-and-iPod-p-15.html">IDENTIFY MODEL</a></li>
-						<li><a href="http://www.powerbookmedic.com/forum/">FORUMS</a></li>
-						<li><a href="http://www.powerbookmedic.com/support/index.php?_m=tickets&amp;_a=submit">SUPPORT</a></li>
-						<li><a href="/xcart1/orders.php?mode=&amp;orderid=&amp;status=&amp;StartMonth=01&amp;StartDay=1&amp;StartYear=2003&amp;EndMonth=12&amp;EndDay=31&amp;EndYear=2015">MY ACCOUNT</a></li>
-					</ul>
-				</div>
-				<h2>Browse by Model</h2>
-				<ul class="browse-model">
-					<li><a href="http://www.powerbookmedic.com/MacBook--Macbook-Pro-Parts-and-Repair-p-1-c-446.html">MacBook &amp; Macbook Pro</a></li>
-					<li><a href="http://www.powerbookmedic.com/iPod-Parts--iPod-Repair-p-1-c-373.html">iPod &amp; iPhone</a></li>
-					<li><a href="http://www.powerbookmedic.com/Powerbook-G4-Aluminum-p-1-c-376.html">Powerbook G4 Aluminum</a></li>
-					<li><a href="http://www.powerbookmedic.com/Powerbook-G4-Titanium-p-1-c-250.html">Powerbook G4 Titanium</a></li>
-					<li><a href="http://www.powerbookmedic.com/White-iBook-G4-p-1-c-419.html">iBook G4</a></li>
-					<li><a href="http://www.powerbookmedic.com/White-iBook-G3-Dual-USB-p-1-c-369.html">iBook G3 Dual USB</a></li>
-					<li><a href="http://www.powerbookmedic.com/iBook-Clamshell-p-1-c-255.html">iBook Clamshell</a></li>
-					<li><a href="http://www.powerbookmedic.com/Powerbook-G3-Pismo-p-1-c-251.html">Powerbook G3 Pismo</a></li>
-					<li><a href="http://www.powerbookmedic.com/Powerbook-G3-Lombard-p-1-c-252.html">Powerbook G3 Lombard</a></li>
-					<li><a href="http://www.powerbookmedic.com/Powerbook-G3-Wallstreet-p-1-c-253.html">Powerbook G3 Wallstreet</a></li>
-					<li><a href="http://www.powerbookmedic.com/Mac-Mini-p-1-c-436.html">Mac Mini</a></li>
-					<li><a href="http://www.powerbookmedic.com/iMac-p-1-c-571.html">iMac</a></li>
-					<li><a href="http://www.powerbookmedic.com/Refurbished-Units-p-1-c-580.html">Refurbished Units</a></li>
-				</ul>
-				<h2>Browse by Category</h2>
-				<ul class="browse-category">
-					<li><a href="http://www.powerbookmedic.com/Powerbook-iBook-Macbook-Hard-Drive-Upgrades-Pro-p-1-c-256.html">Hard Drive Upgrades</a></li>
-					<li><a href="http://www.powerbookmedic.com/Ram-Upgrades-p-1-c-257.html">Ram Memory Upgrades</a></li>
-					<li><a href="http://www.powerbookmedic.com/Battery-Replacements-p-1-c-442.html">Battery Replacements</a></li>
-					<li><a href="http://www.powerbookmedic.com/Optical-Drive-Upgrades-p-1-c-441.html">Superdrive  / Combo Drives</a></li>
-					<li><a href="http://www.powerbookmedic.com/Keyboards--Keys-p-1-c-440.html">Keyboards &amp; Keys</a></li>
-					<li><a href="http://www.powerbookmedic.com/LCD-Display-Replacements-p-1-c-503.html">LCD Display Replacements</a></li>
-					<li><a href="http://www.powerbookmedic.com/Power-Adapters-Cords-p-1-c-531.html">Power Adapters</a></li>
-					<li><a href="http://www.powerbookmedic.com/Wireless--Airport-p-1-c-351.html">Wireless &amp; Airport</a></li>
-					<li><a href="http://www.powerbookmedic.com/Software--Disk-Utilities-p-1-c-353.html">Software &amp; Disk Utility</a></li>
-					<li><a href="http://www.powerbookmedic.com/Tools-Tape-Etc-p-1-c-413.html">Tools, Tape, Etc...</a></li>
-					<li><a href="http://www.powerbookmedic.com/Titanium-G4-Hinges-p-1-c-407.html">Titanium G4 Hinges</a></li>
-				</ul>
-</div>
-
-
-
-
-
-
 </td>
-<td width="556" valign="top">
+<td width="850" valign="top">
 <!-- central space -->
-
-
-
-
-<table cellpadding="0" cellspacing="0" style="padding-top: 10px;"><tbody><tr><td>
+<!-- <table cellpadding="0" cellspacing="0" style="padding-top: 10px;"><tr><td>
 <div class="dialogtop"></div>
-<div class="dialogmiddle"><table cellpadding="0" cellspacing="0"><tbody><tr><td style="padding-left: 8px; padding-right: 8px; padding-top: 2px;"><div class="dialogtarget"></div></td><td><span style="font-size: 1.3em; font-weight: bold;color:#000000;">Privacy</span></td></tr></tbody></table></div>
+<div class="dialogmiddle"><table cellpadding="0" cellspacing="0"><tr><td style="padding-left: 8px; padding-right: 8px; padding-top: 2px;"><div class="dialogtarget"></div></td><td><span style="font-size: 1.3em; font-weight: bold;color:#000000;">Privacy</span></td></tr></table></div>
 <div class="dialogbottom"></div>
 </td></tr>
 <tr><td>
 <div class="DialogBorder">
-	<div class="DialogBox" valign="left">		<p class="main">At Powerbookmedic.com, we understand it is important to protect the privacy of our customers and guests who visit our website ("the Site") or use e-mail to communicate with us. We know that it takes a great deal of trust on your part to shop with us online and we take that trust very seriously and make it our highest priority to ensure the security and confidentiality of your personal information you provide us.</p>
-
-		<p class="main">This Privacy Statement describes our policies and practices
-
-        for the Site and e-mail communications in the areas of: Notice, Consent,
-
-        Access, Security, and Enforcement.</p>
-
-		<p class="main"><b><i>BY USING OUR WEBSITE, YOU AGREE TO THESE POLICIES.</i></b></p>
-
-		<p class="main"><b>1. Notice</b></p>
-
-		<table cellpadding="0" width="75%" border="0" align="center">
-
-			<tbody><tr>
-
-				<td valign="top" width="25" class="main">
-
-					<p><b>a.</b></p>
-
-				</td>
-
-				<td style="PADDING-RIGHT: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt" valign="top" class="main">
-
-					<p><b><u>General.</u></b> We will ask you when we need information
-
-                that personally identifies you or allows us to contact you ("Personal
-
-                Information"). Generally this information is requested if you
-
-                place an online order for our products, if you register for an
-
-                account on the Site, or if you contact us for information. We
-
-                use your Personal Information for the following primary purposes: </p>
-
-					<ul type="disc">
-
-						<li>To facilitate your orders of our products.
-
-
-
-						</li><li>To make the site easier for you to use by not having to
-
-                  enter information more than once.
-
-
-
-						</li><li>To help you quickly find information on the Site.
-
-
-
-						</li><li>To alert you to special offers, updated information and other new services from Powerbookmedic.com.</li>
-
-					</ul>
-
-				</td>
-
-			</tr>
-
-			<tr>
-
-				<td valign="top" width="25" class="main">
-
-					<p><b>b.</b></p>
-
-				</td>
-
-				<td style="PADDING-RIGHT: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt" valign="top" class="main">
-
-					<p><b><u>Collected Information.</u></b> Powerbookmedic.com. may collect information from you in several different ways on the Site including the following:</p>
-
-					<ul>
-
-						<li><b>Online Ordering and Account Registration</b>. In order
-
-                  to process orders for our products that you place with us,
-
-                  we will collect Personal Information in order to process appropriate
-
-                  charges to you. We may also establish individual user accounts
-
-                  on the Site to improve service and make special offers to you.
-
-                  During account registration and or online ordering we may collect
-
-                  such Personal Information as your name, address, telephone
-
-                  number, e-mail address, credit card number, expiration date,
-
-                  and billing and shipping information as necessary.&nbsp; We
-
-                  may, at our discretion, edit your information entered into
-
-                  our database in order to process your order more efficiently
-
-                  and for administrative purposes.&nbsp; However, this process
-
-                  does not carry further funtions.
-
-
-
-						</li><li><b>Referral Information</b>. The Site may include a referral service whereby you may provide information on other persons or entities (such as name and email address) in order to inform them about the Site and our products. If you provide such referral information,&nbsp; Powerbookmedic.com. may send email messages to the referred party inviting them to visit the Site, or to otherwise inform them about our products. The referred party may contact Powerbookmedic.com. at <a href="mailto:sales@powerbookmedic.com">sales@powerbookmedic.com </a>to request the removal of their information from the Powerbookmedic.com. database.
-
-
-
-						</li><li><b>Site Usage</b>. Powerbookmedic.com. may monitor your activities, preferences, and transactional data (such as your IP address) relating to your use of the Site and/or Services and log this information. This information may be used to diagnose Site technical problems, or problems with your account.
-
-
-
-						</li><li><b>Cookies</b>. Cookies are data files that are written
-
-                  onto your computer by a website, and stay there unless removed
-
-                  by you. Cookies enable us to recognize your computer when you
-
-                  revisit the Site, and recall your Site preferences to enhance
-
-                  your experience in using the Site. We do not use cookies to
-
-                  collect or use any information about your visits to other websites
-
-                  and do not knowingly allow any third party (other than our
-
-                  affiliates) to create cookies or otherwise collect any information
-
-                  from our Site. Consult your browser Help menu to learn more
-
-                  about how you can configure your browser software to notify
-
-                  you when your computer receives a new cookie. Note that you
-
-                  may also be able to configure your browser to disable the creation
-
-                  of cookies entirely (although your full interactive use of
-
-                  the Site may be adversely impacted if you do this).
-
-
-
-						</li><li><b>Third Party Sources</b>. To better serve you, Powerbookmedic.com. may supplement the information received from you with information from 3rd party sources. To enhance its ability to tailor the Site to your preferences, Powerbookmedic.com. may combine habit data with similar data from its business or advertising partners, to create more personalized user profiles.</li>
-
-					</ul>
-
-				</td>
-
-			</tr>
-
-			<tr>
-
-				<td valign="top" width="25" class="main">
-
-					<p><b>c.</b></p>
-
-				</td>
-
-				<td style="PADDING-RIGHT: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt" valign="top" class="main">
-
-					<p><b><u>Disclosure of Collected Information.</u></b> As a general policy, Powerbookmedic.com. does not knowingly or intentionally disclose to non-affiliated third parties any specific Personal Information about you that we collect via the Site including your name, address, phone number, e-mail address, credit card information, billing or shipping information, site usage, or site preferences. However, we reserve the right to outsource certain activities such as shipping and credit card processing to our business partners. In such case, we will disclose to these business partners only such information as is required to facilitate your transactions, and we will require our business partners to protect and refrain from disclosing your information to other third parties. Further, Powerbookmedic.com. will cooperate with official law enforcement inquiries, such as fraud investigations and subpoenas, and will disclose your information when necessary to comply with state and federal laws and regulations</p>
-
-				</td>
-
-			</tr>
-
-		</tbody></table>
-
-		<p class="main"><b>2. Consent</b></p>
-
-		<p class="main">If you choose not to provide personal information on
-
-        the Site when requested, you can still use most of the Site, however
-
-        you will not be able to place online orders for our products, access
-
-        areas that require registration, or use certain other features of the
-
-        Site. It is our intent to inform you before we collect Personal Information
-
-        via our Site information forms, and to tell you what we intend to do
-
-        with the information. You have the option not to provide the information,
-
-        and in the future you may also be able to "opt out" of certain uses of
-
-        the information. </p>
-
-		<p class="main"><b>3. Security</b></p>
-
-		<p></p>
-
-		<p class="main">Powerbookmedic.com. takes commercially reasonable steps to protect the security of your Personal Information, and honors your choices for its intended use. We carefully protect your data from loss, misuse, unauthorized access or disclosure, alteration, or destruction both online and off-line. To the extent that you are asked to enter sensitive information (such as credit card number) online at the Site, that information is protected from access by any third parties using commercial practices prevalent within the online industry (e.g., Secure Sockets Layer ("SSL") technology). <b>When such security technology is used, depending on your
-
-        browser software, you will be notified by various means such as by the "lock" icon
-
-        located at the bottom the Netscape Navigator and Microsoft Internet Explorer
-
-        screens.</b></p>
-
-		<p class="main"><b>4. Enforcement</b></p>
-
-		<p class="main">If for some reason you believe Powerbookmedic.com. has not adhered to the principles of this Privacy Statement, please notify us by e-mail at <a href="mailto:sales@powerbookmedic.com">sales@powerbookmedic.com</a>, and we will do our best to determine and correct the problem promptly.</p>
-
-		<p class="main"><b>5. Additional Information</b></p>
-
-		<table cellpadding="0" width="75%" border="0" align="center">
-
-			<tbody><tr>
-
-				<td valign="top" width="25" class="main">
-
-					<p><b>a.</b></p>
-
-				</td>
-
-				<td style="PADDING-RIGHT: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt" valign="top" class="main">
-
-					<p><b><u>Links. </u></b>The Site may contain links to other sites, however, please be aware that Powerbookmedic.com. is not responsible for and cannot control the privacy practices of such other sites. We encourage you to be aware when you leave the Site, and to read the privacy statements of each and every web site that collects personally identifiable information. This Privacy Statement applies solely to information collected by the Powerbookmedic.com. Site.</p>
-
-				</td>
-
-			</tr>
-
-			<tr>
-
-				<td valign="top" width="25" class="main">
-
-					<p><b>b.</b></p>
-
-				</td>
-
-				<td style="PADDING-RIGHT: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt" valign="top" class="main">
-
-					<p><b><u>Notification of Privacy Statement Changes.</u></b> Notice of any changes to this Privacy Statement will be posted on the Powerbookmedic.com. homepage so that you can always be aware of what information Powerbookmedic.com. collects, how it is used, and under what circumstances, if any, it will be disclosed. We reserve the right to change this Privacy Policy at any time, and it is your responsibility to visit this page and to learn of our revised Privacy Policy. At our option, we also may send e-mail notices and reminders to you concerning this Privacy Policy from time to time, but you should check this website frequently for any recent changes.</p><br><br> 
-
-
-
+<div class="DialogBox"> -->
+<div id="whole_container" class="clearfix">
+<div id="whole_container_top"></div>
+<div id="whole_container_content">
+<h1> Privacy Policy </h1><br>
+<p class="main">At Powerbookmedic.com, we understand it is important to protect the privacy of our customers and guests who visit our website ("the Site") or use e-mail to communicate with us. We know that it takes a great deal of trust on your part to shop with us online and we take that trust very seriously and make it our highest priority to ensure the security and confidentiality of your personal information you provide us.</p>
+<p class="main">This Privacy Statement describes our policies and practices
+for the Site and e-mail communications in the areas of: Notice, Consent,
+Access, Security, and Enforcement.</p>
+<p class="main"><b><i>BY USING OUR WEBSITE, YOU AGREE TO THESE POLICIES.</i></b></p>
+<p class="main"><b>1. Notice</b></p>
+<table cellpadding="0" width="75%" border="0" align="center">
+<tbody><tr>
+<td valign="top" width="25" class="main">
+<p><b>a.</b></p>
+</td>
+<td style="PADDING-RIGHT: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt" valign="top" class="main">
+<p><b><u>General.</u></b> We will ask you when we need information
+that personally identifies you or allows us to contact you ("Personal
+Information"). Generally this information is requested if you
+place an online order for our products, if you register for an
+account on the Site, or if you contact us for information. We
+use your Personal Information for the following primary purposes: </p>
+<ul type="disc">
+<li>To facilitate your orders of our products.
+</li><li>To make the site easier for you to use by not having to
+enter information more than once.
+</li><li>To help you quickly find information on the Site.
+</li><li>To alert you to special offers, updated information and other new services from Powerbookmedic.com.</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td valign="top" width="25" class="main">
+<p><b>b.</b></p>
+</td>
+<td style="PADDING-RIGHT: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt" valign="top" class="main">
+<p><b><u>Collected Information.</u></b> Powerbookmedic.com. may collect information from you in several different ways on the Site including the following:</p>
+<ul>
+<li><b>Online Ordering and Account Registration</b>. In order
+to process orders for our products that you place with us,
+we will collect Personal Information in order to process appropriate
+charges to you. We may also establish individual user accounts
+on the Site to improve service and make special offers to you.
+During account registration and or online ordering we may collect
+such Personal Information as your name, address, telephone
+number, e-mail address, credit card number, expiration date,
+and billing and shipping information as necessary.� We
+may, at our discretion, edit your information entered into
+our database in order to process your order more efficiently
+and for administrative purposes.� However, this process
+does not carry further functions.
+</li><li><b>Referral Information</b>. The Site may include a referral service whereby you may provide information on other persons or entities (such as name and email address) in order to inform them about the Site and our products. If you provide such referral information,� Powerbookmedic.com. may send email messages to the referred party inviting them to visit the Site, or to otherwise inform them about our products. The referred party may contact Powerbookmedic.com. at <a href="mailto:support@powerbookmedic.com">support@powerbookmedic.com </a>to request the removal of their information from the Powerbookmedic.com. database.
+</li><li><b>Site Usage</b>. Powerbookmedic.com. may monitor your activities, preferences, and transactional data (such as your IP address) relating to your use of the Site and/or Services and log this information. This information may be used to diagnose Site technical problems, or problems with your account.
+</li><li><b>Cookies</b>. Cookies are data files that are written
+onto your computer by a website, and stay there unless removed
+by you. Cookies enable us to recognize your computer when you
+revisit the Site, and recall your Site preferences to enhance
+your experience in using the Site. We do not use cookies to
+collect or use any information about your visits to other websites
+and do not knowingly allow any third party (other than our
+affiliates) to create cookies or otherwise collect any information
+from our Site. Consult your browser Help menu to learn more
+about how you can configure your browser software to notify
+you when your computer receives a new cookie. Note that you
+may also be able to configure your browser to disable the creation
+of cookies entirely (although your full interactive use of
+the Site may be adversely impacted if you do this).
+</li><li><b>Third Party Sources</b>. To better serve you, Powerbookmedic.com. may supplement the information received from you with information from 3rd party sources. To enhance its ability to tailor the Site to your preferences, Powerbookmedic.com. may combine habit data with similar data from its business or advertising partners, to create more personalized user profiles.</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td valign="top" width="25" class="main">
+<p><b>c.</b></p>
+</td>
+<td style="PADDING-RIGHT: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt" valign="top" class="main">
+<p><b><u>Disclosure of Collected Information.</u></b> As a general policy, Powerbookmedic.com. does not knowingly or intentionally disclose to non-affiliated third parties any specific Personal Information about you that we collect via the Site including your name, address, phone number, e-mail address, credit card information, billing or shipping information, site usage, or site preferences. However, we reserve the right to outsource certain activities such as shipping and credit card processing to our business partners. In such case, we will disclose to these business partners only such information as is required to facilitate your transactions, and we will require our business partners to protect and refrain from disclosing your information to other third parties. Further, Powerbookmedic.com. will cooperate with official law enforcement inquiries, such as fraud investigations and subpoenas, and will disclose your information when necessary to comply with state and federal laws and regulations</p>
+</td>
+</tr>
+</tbody></table>
+<p class="main"><b>2. Consent</b></p>
+<p class="main">If you choose not to provide personal information on
+the Site when requested, you can still use most of the Site, however
+you will not be able to place online orders for our products, access
+areas that require registration, or use certain other features of the
+Site. It is our intent to inform you before we collect Personal Information
+via our Site information forms, and to tell you what we intend to do
+with the information. You have the option not to provide the information,
+and in the future you may also be able to "opt out" of certain uses of
+the information. </p>
+<p class="main"><b>3. Security</b></p>
+<p></p>
+<p class="main">Powerbookmedic.com. takes commercially reasonable steps to protect the security of your Personal Information, and honors your choices for its intended use. We carefully protect your data from loss, misuse, unauthorized access or disclosure, alteration, or destruction both online and off-line. To the extent that you are asked to enter sensitive information (such as credit card number) online at the Site, that information is protected from access by any third parties using commercial practices prevalent within the online industry (e.g., Secure Sockets Layer ("SSL") technology). <b>When such security technology is used, depending on your
+browser software, you will be notified by various means such as by the "lock" icon
+located at the bottom the Netscape Navigator and Microsoft Internet Explorer
+screens.</b></p>
+<p class="main"><b>4. Enforcement</b></p>
+<p class="main">If for some reason you believe Powerbookmedic.com. has not adhered to the principles of this Privacy Statement, please notify us by e-mail at <a href="mailto:support@powerbookmedic.com">support@powerbookmedic.com</a>, and we will do our best to determine and correct the problem promptly.</p>
+<p class="main"><b>5. Additional Information</b></p>
+<table cellpadding="0" width="75%" border="0" align="center">
+<tbody><tr>
+<td valign="top" width="25" class="main">
+<p><b>a.</b></p>
+</td>
+<td style="PADDING-RIGHT: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt" valign="top" class="main">
+<p><b><u>Links. </u></b>The Site may contain links to other sites, however, please be aware that Powerbookmedic.com. is not responsible for and cannot control the privacy practices of such other sites. We encourage you to be aware when you leave the Site, and to read the privacy statements of each and every web site that collects personally identifiable information. This Privacy Statement applies solely to information collected by the Powerbookmedic.com. Site.</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="25" class="main">
+<p><b>b.</b></p>
+</td>
+<td style="PADDING-RIGHT: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt" valign="top" class="main">
+<p><b><u>Notification of Privacy Statement Changes.</u></b> Notice of any changes to this Privacy Statement will be posted on the Powerbookmedic.com. homepage so that you can always be aware of what information Powerbookmedic.com. collects, how it is used, and under what circumstances, if any, it will be disclosed. We reserve the right to change this Privacy Policy at any time, and it is your responsibility to visit this page and to learn of our revised Privacy Policy. At our option, we also may send e-mail notices and reminders to you concerning this Privacy Policy from time to time, but you should check this website frequently for any recent changes.</p><br><br> 
 PowerbookMedic.com uses pixels, or transparent GIF files, to help manage online advertising. These GIF files are provided by our ad management partner, DoubleClick. These files enable DoubleClick to recognize a unique cookie on your Web browser, which in turn enables us to learn which advertisements bring users to our website. The cookie was placed by us, or by another advertiser who works with DoubleClick. With both cookies and Spotlight technology, the information that we collect and share is anonymous and not personally identifiable. It does not contain your name, address, telephone number, or email address.  For more information about DoubleClick, including information about how to opt out of these technologies, go to[http://www.doubleclick.net/us/corporate/privacy].
+</td>
+</tr>
+</tbody></table>
+</div>
+</div>
 
-				</td>
-
-
-
-			
-
-		</tr></tbody></table>
-
-	
-
-
-
-	
-
-	
-
-
-
-	
-
-
-
-	
-
-	
-
-
-
-	
-
-
+<!--
 &nbsp;</div>
 </div>
-</td></tr></tbody></table><br>
-
+</td></tr></table><br>
+-->
 <!-- /central space -->
 &nbsp;
 </td>
-
 </tr>
 </tbody></table>
-
 <!--
-
-
-
-
-
-
-
-<DIV>
-<select name="SelectURL" onChange="window.location=this.options[this.selectedIndex].value">
+<select name="SelectURL" onChange="currency_converter(,this.options[this.selectedIndex].value);">
 <option>Choose your currency...</option>
-
-
-    <option value="/xcart1/usercurr.php?Copt=5&page=pageid%3D16%26sl%3DUS">US Dollar (Default)</option>
-    
-
-
-
-    <option value="/xcart1/usercurr.php?Copt=7&page=pageid%3D16%26sl%3DUS">Euro</option>
-    
-
-
-
-    <option value="/xcart1/usercurr.php?Copt=8&page=pageid%3D16%26sl%3DUS">Australian, Dollar</option>
-    
-
-
-
-    <option value="/xcart1/usercurr.php?Copt=9&page=pageid%3D16%26sl%3DUS">Brazilian Real</option>
-    
-
-
-
-    <option value="/xcart1/usercurr.php?Copt=10&page=pageid%3D16%26sl%3DUS">British Pound Sterling</option>
-    
-
-
-
-    <option value="/xcart1/usercurr.php?Copt=11&page=pageid%3D16%26sl%3DUS">Brunei Dollar</option>
-    
-
-
-
-    <option value="/xcart1/usercurr.php?Copt=12&page=pageid%3D16%26sl%3DUS">Canadian Dollar</option>
-    
-
-
-
-    <option value="/xcart1/usercurr.php?Copt=13&page=pageid%3D16%26sl%3DUS">Chilean Peso</option>
-    
-
-
-
-    <option value="/xcart1/usercurr.php?Copt=14&page=pageid%3D16%26sl%3DUS">Chinese, Yuan Renminbi</option>
-    
-
-
-
-    <option value="/xcart1/usercurr.php?Copt=15&page=pageid%3D16%26sl%3DUS">Czech Republic, Koruny</option>
-    
-
-
-
-    <option value="/xcart1/usercurr.php?Copt=16&page=pageid%3D16%26sl%3DUS">Danish, Kroner</option>
-    
-
-
-
-    <option value="/xcart1/usercurr.php?Copt=17&page=pageid%3D16%26sl%3DUS">Hong Kong Dollar</option>
-    
-
-
-
-    <option value="/xcart1/usercurr.php?Copt=18&page=pageid%3D16%26sl%3DUS">Hungarian, Forint</option>
-    
-
-
-
-    <option value="/xcart1/usercurr.php?Copt=19&page=pageid%3D16%26sl%3DUS">Icelandic, Kronur</option>
-    
-
-
-
-    <option value="/xcart1/usercurr.php?Copt=20&page=pageid%3D16%26sl%3DUS">Indian, Rupee</option>
-    
-
-
-
-    <option value="/xcart1/usercurr.php?Copt=21&page=pageid%3D16%26sl%3DUS">Israel, New Shekels</option>
-    
-
-
-
-    <option value="/xcart1/usercurr.php?Copt=22&page=pageid%3D16%26sl%3DUS">Japanese, Yen</option>
-    
-
-
-
-    <option value="/xcart1/usercurr.php?Copt=23&page=pageid%3D16%26sl%3DUS">Mexican, Peso</option>
-    
-
-
-
-    <option value="/xcart1/usercurr.php?Copt=24&page=pageid%3D16%26sl%3DUS">New Zealand, Dollar</option>
-    
-
-
-
-    <option value="/xcart1/usercurr.php?Copt=25&page=pageid%3D16%26sl%3DUS">Norwegian, Krone</option>
-    
-
-
-
-    <option value="/xcart1/usercurr.php?Copt=26&page=pageid%3D16%26sl%3DUS">Russian, Ruble</option>
-    
-
-
-
-    <option value="/xcart1/usercurr.php?Copt=27&page=pageid%3D16%26sl%3DUS">Swedish, Krona</option>
-    
-
-
-
-    <option value="/xcart1/usercurr.php?Copt=28&page=pageid%3D16%26sl%3DUS">Swiss, Franc</option>
-    
-
-
-
-    <option value="/xcart1/usercurr.php?Copt=29&page=pageid%3D16%26sl%3DUS">Taiwan, New Dollar</option>
-    
-
-
-
-    <option value="/xcart1/usercurr.php?Copt=30&page=pageid%3D16%26sl%3DUS">United Arab Emirates, Dirham</option>
-    
-
-
-
-    <option value="/xcart1/usercurr.php?Copt=31&page=pageid%3D16%26sl%3DUS">Venezuela, Bolivares Fuertes</option>
-    
-
+<option value="5">US Dollar (Default)</option>
+<option value="7">Euro</option>
+<option value="8">Australian, Dollar</option>
+<option value="9">Brazilian Real</option>
+<option value="10">British Pound Sterling</option>
+<option value="11">Brunei Dollar</option>
+<option value="12">Canadian Dollar</option>
+<option value="13">Chilean Peso</option>
+<option value="14">Chinese, Yuan Renminbi</option>
+<option value="15">Czech Republic, Koruny</option>
+<option value="16">Danish, Kroner</option>
+<option value="17">Hong Kong Dollar</option>
+<option value="18">Hungarian, Forint</option>
+<option value="19">Icelandic, Kronur</option>
+<option value="20">Indian, Rupee</option>
+<option value="21">Israel, New Shekels</option>
+<option value="22">Japanese, Yen</option>
+<option value="23">Mexican, Peso</option>
+<option value="24">New Zealand, Dollar</option>
+<option value="25">Norwegian, Krone</option>
+<option value="26">Russian, Ruble</option>
+<option value="27">Swedish, Krona</option>
+<option value="28">Swiss, Franc</option>
+<option value="29">Taiwan, New Dollar</option>
+<option value="30">United Arab Emirates, Dirham</option>
+<option value="31">Venezuela, Bolivares Fuertes</option>
 </select>
-<DIV>
-
-
-
-
-
-
-
-
-
-
-
-
 <br>
-
 -->
-
-	</td>
+</td>
 </tr>
 <tr>
-	<td><img src="/xcart1/skin1/images/spacer.gif" class="Spc" alt=""></td>
-</tr>
-<tr>
-	<td class="BottomRow">
-<div id="footer">
-		<div class="footer-nav">
-			<h2>Information</h2>
-			<ul>
-				<li class="no-sep"><a href="http://powerbookmedic.com/xcart1/help.php?section=business">Terms &amp; Conditions</a></li>
-				<li><a href="http://powerbookmedic.com/xcart1/help.php?section=conditions">Warranty Policy</a></li>
-				<li><a href="http://www.powerbookmedic.com/Dealer-and-Educational-Discounts-p-37.html">Educational and Dealer Discounts</a></li>
-				<li><a href="http://powerbookmedic.com/xcart1/help.php?section=Password_Recovery">Recover Password</a></li>
-				<li class="no-sep"><a href="http://www.powerbookmedic.com/xcart1/help.php?section=publicity">Newsletter</a></li>
-				<li><a href="http://www.powerbookmedic.com/Privacy-p-16.html">Privacy Notice</a></li>
-				<li><a href="http://powerbookmedic.com/xcart1/pages.php?pageid=22">About Us</a></li>
-				<li><a href="http://www.powerbookmedic.com/support/index.php?_m=tickets&amp;_a=submit">Contact Us</a></li>
-				<li><a href="http://www.powerbookmedic.com/xcart1/sitemap.php">Site Map</a></li>
-				<li><a href="http://www.powerbookmedic.com/International-Shipping-p-23.html">International Shipping</a></li>
-				<li><a href="http://www.powerbookmedic.com/support/index.php?_m=tickets&amp;_a=submit&amp;step=1&amp;departmentid=8">Request a Part</a></li>
-			</ul>
-		</div>
-		<div class="banners">
-			<ul>
-				<li><img src="/xcart1/skin1/images/images/banner1.gif" alt="image"></li>
-				<li><!-- START SCANALERT CODE -->
-<a target="_blank" href="http://www.scanalert.com/RatingVerify?ref=www.powerbookmedic.com"><img width="94" height="54" border="1" src="https://images.scanalert.com/meter/www.powerbookmedic.com/13.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE  is a Trademark of ScanAlert'); return false;"></a>
-<!-- END   SCANALERT CODE -->
-</li>
-				<li><a href="http://www.bbbonline.org/cks.asp?id=104082512333645808"><img src="/xcart1/skin1/images/images/banner3.gif" alt="image"></a></li>
-				<li><a href="http://www.bizrate.com/ratings_guide/cust_reviews__mid--61087.html"><img src="/xcart1/skin1/images/images/banner4.gif" alt="image"></a></li>
-			</ul>
-		</div>
-		<p>Copyright © 2008 PowerbookMedic.com LLC</p>
-	</div>	</td>
+<td class="BottomRow">
+<div id="product_category_container">
+<h1>Product <b>Categories</b></h1>
+<div style="float:left;width:400px;padding-top:5px;">
+<div style="float:left;clear:left;width:175px;">
+<a href="http://www.powerbookmedic.com/Powerbook-iBook-Macbook-Hard-Drive-Upgrades-Pro-p-1-c-256.html">Mac Hard Drive Upgrades</a><br>
+<hr>
+<a href="http://www.powerbookmedic.com/Ram-Upgrades-p-1-c-257.html">Ram Memory Upgrades</a><br>
+<hr>
+<a href="http://www.powerbookmedic.com/Battery-Replacements-p-1-c-442.html">Mac Battery Replacements</a><br>
+<hr>
+<a href="http://www.powerbookmedic.com/Optical-Drive-Upgrades-p-1-c-441.html">Superdrive / Combo Drives</a><br>
+<hr>
+<a href="http://www.powerbookmedic.com/Keyboards--Keys-p-1-c-440.html">Keyboards &amp; Keys</a><br>
+<hr>
+<a href="http://www.powerbookmedic.com/LCD-Display-Replacements-p-1-c-503.html">LCD Display Replacements</a><br> 
+<hr>
+</div>
+<div style="float:right;padding-left:20px;width:175px;">
+<a href="http://www.powerbookmedic.com/Power-Adapters-Cords-p-1-c-531.html">Apple Power Adapter</a><br>
+<hr>
+<a href="http://www.powerbookmedic.com/Wireless--Airport-p-1-c-351.html">Wireless &amp; Airport</a><br>
+<hr>
+<a href="http://www.powerbookmedic.com/Software--Disk-Utilities-p-1-c-353.html">Software &amp; Disk Utility</a><br>
+<hr>
+<a href="http://www.powerbookmedic.com/Tools-Tape-Etc-p-1-c-413.html">Tools, Tape, Etc...</a><br>
+<hr>
+<a href="http://www.powerbookmedic.com/iPod-Parts--iPod-Repair-p-1-c-373.html">iPhone Parts</a><br>
+<hr>
+<a href="http://www.powerbookmedic.com/iPad-Parts---LCD-Display-Glass-Digitizer-Logic-Board-p-1-c-612.html">iPad Parts</a>
+<hr>
+</div>
+</div>
+<div style="float:left;padding-left:10px;width:550px;">
+<div id="product_category_banners" style="width:545px;padding-left:5px;">
+<table style="width:100%;">
+<tbody><tr>
+<td>
+<a href="http://www.bizrate.com/ratings_guide/cust_reviews__mid--61087.html" target="_blank">
+<img src="http://medals.bizrate.com/medals/dynamic/61087_medal.gif" alt="BizRate Customer Certified (GOLD) Site - Powerbook Medic Reviews at Bizrate" width="125" height="73" align="top" border="0"></a>						</td>
+<td>
+<a title="Click for the Business Review of Powerbookmedic.com, a Computers - Service &amp; Repair in Huntsville AL" href="http://www.bbb.org/northern-alabama/business-reviews/computers-service-and-repair/powerbookmediccom-in-huntsville-al-900004847#sealclick"><img alt="Powerbookmedic.com is a BBB Accredited Business. Click for the BBB Business Review of this Computers - Service &amp; Repair in Huntsville AL" style="border: 0;" src="/xcart1/skin1/images/images/bbbsealh1.png"></a>
+</td>
+<td>
+<div style="padding:5px;background-color:#FFFFFF;border:1px solid #FFF;-moz-border-radius:10px;-webkit-border-radius:10px;">
+<img src="/xcart1/skin1/images/images/banner1.gif" width="141" height="49" alt="image">
+</div>
+</td>
+<td>
+<a href="http://www.techbargains.com/laptopcomputernotebookreview.cfm" target="_blank"><img id="featuredTB" alt="Cheap Laptops Deals at TechBargains" width="120" border="0" height="60"></a><script type="text/javascript" src="http://cdn1.techbargains.com/tbimageweb/js/featured-on-techbrgns.js"></script>						</td>
 </tr>
 </tbody></table>
+</div>
+</div>
+</div>
+<div style="width:100%;text-align:center;clear:left;">
+<table width="985" style="text-align:left;">
+<tbody><tr>
+<td>
+<font color="#b2b1b1">Copyright 2011 PowerbookMedic.com, LLC </font><br>
+<a href="/xcart1/help.php?section=business">Terms &amp; Conditions</a> |<a href="/xcart1/help.php?section=conditions"> Warranty Policy</a> | <a href="http://www.powerbookmedic.com/Dealer-and-Educational-Discounts-p-37.html">Educational and Dealer Discounts</a> | <a href="/xcart1/help.php?section=Password_Recovery">Recover Password</a> | <a href="http://www.powerbookmedic.com/wordpress/feed/rss">RSS</a><br>
+<a href="/xcart1/help.php?section=publicity">Newsletter</a> | <a href="http://www.powerbookmedic.com/Privacy-p-16.html">Privacy Notice</a> | <a href="http://www.powerbookmedic.com/Powerbook-Medic---About-Us-p-22.html">About Us</a> | <a href="http://www.powerbookmedic.com/support/index.php?_m=tickets&amp;_a=submit">Contact Us</a> | <a href="/xcart1/sitemap.php">Site Map</a> | <a href="http://www.powerbookmedic.com/International-Shipping-p-23.html">International Shipping</a> | <a href="http://www.powerbookmedic.com/support/index.php?_m=tickets&amp;_a=submit&amp;step=1&amp;departmentid=8">Request a Part</a> | <a href="/xcart1/orders.php?mode=search" class="VertMenuItems">Account Login </a>
+</td>
+<td width="300" align="right">
+<img src="/xcart1/skin1/images/imagesv3/logo.jpg">
+</td>
+</tr>
+</tbody></table>
+<table width="100%">
+<tbody><tr bgcolor="#f5f5f5">
+<td height="20">
+</td>
+</tr>
+</tbody></table>
+</div>
+<!-- Woopra Code Start -->
+<script type="text/javascript" src="//static.woopra.com/js/woopra.v2.js"></script>
+<script type="text/javascript">
+woopraTracker.track();
+</script>
+<!-- Woopra Code End --> 
+</td>
+</tr>
+</tbody></table>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript" language="JavaScript">
+</script>
+<script type="text/javascript">
+	_uacct = "UA-522905-1";
 
+	urchinTracker();
+</script>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-522905-1");
+pageTracker._trackPageview();
+</script>
+<script type="text/javascript" src="http://static.rpxnow.com/js/lib/rpx.js"></script>
+<script type="text/javascript">
+<!--
+var xauth_rpx_app_id = 'efpoedgaimipeeabjjgj';
+var xauth_rpx_language = 'en';
+var xauth_http_protocol = 'http';
+
+RPXNOW.init(
+  {
+    appId: xauth_rpx_app_id,
+    xdReceiver: xcart_web_dir + '/skin1/modules/XAuth/rpx_xdcomm.html'
+  }
+);
+
+var lbl_xauth_rpx_share_comment = "Share comment";
+var lbl_xauth_rpx_look_this_product = "Look at this product {{product}} on www.powerbookmedic.com";
+var lbl_xauth_rpx_invoice_share_note = "I\'ve just placed an order at www.powerbookmedic.com";
+var xauth_catalogs_customer = "http://www.powerbookmedic.com/xcart1";
+var xauth_current_host = "www.powerbookmedic.com";
+-->
+</script>
 </body></html>
