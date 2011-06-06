@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the goodluckbuy.com privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201142204id_/http%3A//www.goodluckbuy.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodluckbuy.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606054841id_/http%3A//www.goodluckbuy.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy policy - Electronic digital products and spare parts accessories wholesale goodluckbuy.com
+# - Electronic digital products and spare parts accessories wholesale goodluckbuy.com
 
 i-Cart is committed to protecting your privacy.  
 This privacy statement discloses what information we gather about you when you visit the i-Cart.cn Site and describes how we use that information. Our policy is to keep the personal information we receive from our Site completely confidential and used solely for internal purposes. We will not share your personal information with any other parties.
