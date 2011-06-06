@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exclusively.in privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215010132id_/http%3A//exclusively.in/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exclusively.in privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606083453id_/http%3A//exclusively.in/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Exclusively In
 
