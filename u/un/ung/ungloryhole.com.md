@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the ungloryhole.com privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201091433id_/http%3A//ungloryhole.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ungloryhole.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606055333id_/http%3A//ungloryhole.com/privacy-policy) for the most accurate reproduction.*
 
 # 
 
 Privacy Policy   
 
 
-Your privacy is of utmost importance to us. This Privacy Policy (the "Policy") applies to the butterloads.com sthis Policy appears and which are owned/controlled by the Company. As noted below, please be aware that we may change our Privacy Policy in the future and it is your obligation to review this Privacy Policy from time to time and the effective date listed with it.   
+Your privacy is of utmost importance to us. This Privacy Policy (the "Policy") applies to the UngloryHole.com this Policy appears and which are owned/controlled by the Company. As noted below, please be aware that we may change our Privacy Policy in the future and it is your obligation to review this Privacy Policy from time to time and the effective date listed with it.   
 
 
 Adults Only Service   
@@ -45,7 +45,7 @@ We process credit card transactions via industry standard encryption through thi
 Emails From Us and use of Your Email Address   
 
 
-Your email address will be used by us to contact you when we have special offers or other information to provide you. Such information may include, without limitation, new services offered by us, information relating to your account and other information related to your subscription to the Sites. We may send you emails prior to and after you have terminated your membership to our service until such time as you advise us, in accordance with the procedures explained below, that you no longer wish to receive email from us. If you no longer wish to receive emails from us please unsubscribe from [_unsubscribe mailer_](mailto:unmailer@programthree.com) , or send us an email to [_support@hazecash.com_](mailto:support@hazecash.com). We and our advertising partners fully comply with the federal CAN-SPAM Act and as such all emails from us and our advertising partners will always, among other required disclosures, have a place for you to opt out of receipt of further email correspondence. Please note we will never send you an email directly or through our marketing partners without your consent. **Please immediately report any emails you may receive, without your prior authorization, that purport to promote the Sites.**   
+Your email address will be used by us to contact you when we have special offers or other information to provide you. Such information may include, without limitation, new services offered by us, information relating to your account and other information related to your subscription to the Sites. We may send you emails prior to and after you have terminated your membership to our service until such time as you advise us, in accordance with the procedures explained below, that you no longer wish to receive email from us. If you no longer wish to receive emails from us please unsubscribe from [_unsubscribe mailer_](mailto:unmailer@programthree.com) , or send us an email to [_help@aprosupport.com_](mailto:help@aprosupport.com). We and our advertising partners fully comply with the federal CAN-SPAM Act and as such all emails from us and our advertising partners will always, among other required disclosures, have a place for you to opt out of receipt of further email correspondence. Please note we will never send you an email directly or through our marketing partners without your consent. **Please immediately report any emails you may receive, without your prior authorization, that purport to promote the Sites.**   
 
 
 Advertisements   
