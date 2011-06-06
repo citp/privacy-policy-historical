@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mtv.co.uk privacy policy that was archived on 2010-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100927025603id_/http%3A//www.mtv.co.uk/terms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mtv.co.uk privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606050049id_/http%3A//www.mtv.co.uk/terms/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | MTV UK
 
@@ -29,6 +29,8 @@ We collect your information in the following ways.
 -          opt in to receive any of our newsletters or other marketing information
 
 -          rate or post any comments regarding content cast a vote on anything within our online services 
+
+-           register to access paid premium content on our MTV OD service
 
 ·         If it is passed to us by Social Project Inc when you join one of our online communities from another community within the Social Project Network (see “ _Our Online Communities and Social Project_” Section below and the [_SP Privacy Policy_](http://www.socialproject.com/PrivacyPolicy.html) for more details on this) 
 
@@ -64,7 +66,7 @@ In addition and with your consent we (and if applicable, our partners or other t
 
 We also reserve the right to access and disclose your personal information in order to comply with applicable laws, to comply with lawful requests from governments, law enforcement agencies or parties whose request we reasonably consider to be justified in connection with any allegations by any party about your abuse of our services, to operate our systems properly or to protect ourselves or our users. 
 
-Some of the partners and third parties with whom we share your information may be outside of the European Union, by using our online services you consent to the transfer of your personal information outside of the EU.
+Some of the partners and third parties with whom we share your information for the purposes set out above may be outside of the European Union and in countries which may provide a lower standard of protection for personal data, by using our online services you consent to the transfer of your personal information outside of the EU.
 
 **5.        ****OUR ONLINE COMMUNITIES AND SOCIAL PROJECT**
 
@@ -118,4 +120,4 @@ We have taken steps to ensure that your personal information is secure, includin
 
 In the unlikely event that we sell or otherwise dispose of some or all of our business to another party, we reserve the right to transfer your information as part of any assets sold or disposed of and you consent to such transfer. 
 
-This policy was last updated on 1st March 2008.
+This policy was last updated on 29th November 2010.
