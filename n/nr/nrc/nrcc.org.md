@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nrcc.org privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202032910id_/http%3A//www.nrcc.org/about/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nrcc.org privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607004257id_/http%3A//www.nrcc.org/about/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy | National Republican Congressional Committee
 
@@ -48,4 +48,9 @@ We reserve the right to revise or update this privacy policy at any time. While 
  **What are your Messaging Service (SMS) Terms and Conditions?**  
  
 
-For Terms and Conditions, [click here](http://www.nrcc.org/default/NRCC%20Terms.pdf). Opt-out at any time. Text message "END" or **"STOP"** to 777218. For support, text message **"HELP"** to 777218, call 1-800-888-0714 or [email our support team](mailto:support@mobileFKM.com?subject=Opt-out%20Request).  Message and data rates may apply.  
+For Terms and Conditions, [click here](http://www.nrcc.org/default/NRCC%20Terms.pdf). Opt-out at any time. Text message "END" or **"STOP"** to 777218. For support, text message **"HELP"** to 777218, call 1-800-888-0714 or [email our support team](mailto:support@mobileFKM.com?subject=Opt-out%20Request).  Message and data rates may apply.    
+ 
+
+ **Opting Out From Cookies**
+
+If you’d like to opt-out from having The NRCC or AdNexus collect your Non-Personally Identifiable Information (Non-PII) in connection with their Platform, please [Click Here](http://ib.adnxs.com/optout). When you opt out, we will place an opt-out cookie on your computer. The opt-out cookie tells us not to collect your Non-PII to help us tailor our Clients’ online advertisement campaigns. Please note that if you delete, block or otherwise restrict cookies, or if you use a different computer or Internet browser, you may need to renew your opt-out choice.
