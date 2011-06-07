@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the jobcentrenigeria.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203014659id_/http%3A//www.jobcentrenigeria.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobcentrenigeria.com privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607122314id_/http%3A//www.jobcentrenigeria.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Job Vacancies Nigeria! - Latest Graduate jobs online, Careers Opportunities
-
-**Privacy Policy**
+# Privacy Policy | Jobs in Nigeria - Latest Jobs in Nigeria, Recruitment Employment In Nigeria
 
 This website uses third-party advertising companies to serve ads when visiting this site. These third parties may collect and use information (but not your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, you can visit **[Google’s Advertising and Privacy](http://www.google.com/privacy_ads.html)** page.
 
@@ -14,7 +12,7 @@ We respect your privacy and we are committed to safeguarding your privacy while
 
 **RSS Feeds and Email Updates**
 
-If a user wishes to subscribe to our JobcentreNigeria RSS Feeds or obcentreNigeria Email Updates (powered by Google – Feedburner), we ask for contact information such as name and email address. This subscriptions provide easy tools for users of this blog to opt-out of these communications at any time. Your personal information will never be sold or given to a third party. We hate Spam as much as you do.
+If a user wishes to subscribe to our JobcentreNigeria RSS Feeds or JobcentreNigeria Email Updates (powered by Google – Feedburner), we ask for contact information such as name and email address. This subscriptions provide easy tools for users of this blog to opt-out of these communications at any time. Your personal information will never be sold or given to a third party. We hate Spam as much as you do.
 
 **Log Files and Stats**
 
