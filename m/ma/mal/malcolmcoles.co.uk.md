@@ -1,15 +1,17 @@
-> *The following text is extracted and transformed from the malcolmcoles.co.uk privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122111025id_/http%3A//www.malcolmcoles.co.uk/blog/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the malcolmcoles.co.uk privacy policy that was archived on 2011-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110608013000id_/http%3A//www.malcolmcoles.co.uk/blog/privacy) for the most accurate reproduction.*
 
-# Privacy » Malcolm Coles
+# Privacy policy - Malcolm Coles
 
-##  Privacy 
+[Home](http://www.malcolmcoles.co.uk/blog/) » Privacy
 
-I'm running Google Adsense, so I need to have a privacy policy. So here it is.
+## Privacy
+
+I’m running Google Adsense, so I need to have a privacy policy. So here it is.
 
 I use third-party advertising companies (ie Google) to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).
 
   * Google, as a third party vendor, uses cookies to serve ads on your site.
-  * Google's use of the DART cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.
+  * Google’s use of the DART cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.
   * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
 
