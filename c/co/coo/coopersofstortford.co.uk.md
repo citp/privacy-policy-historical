@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coopersofstortford.co.uk privacy policy that was archived on 2010-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101115130633id_/http%3A//www.coopersofstortford.co.uk/cid/MOPPSO11YAQA0HMUC5BDPX58O1HVO6MQ/security-policy-andamp-privacy-artlcs_security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coopersofstortford.co.uk privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607201616id_/http%3A//www.coopersofstortford.co.uk/security-policy-andamp-privacy-artlcs_security) for the most accurate reproduction.*
 
 # Security Policy & Privacy
 
@@ -14,15 +14,15 @@ The information we learn from customers helps us personalise and continually imp
 
 ## What we do with your data 
 
-If you do not want to receive e-mail from us, please unsubscribe from our mailing list. Or opt-out of mailings when creating your account. We may use your address and email to send you our mail order catalogue or emails containing information on new products, special offers and services or upcoming events. If you do not wish to receive such mailings, please either opt-out when creating you account, visit the My Account page, or contact us using the details above. Your phone number will only be used in the event that we need to contact you regarding an order.
+If you do not want to receive e-mail from us, please unsubscribe from our mailing list or opt-out of mailings when creating your account. We may use your address and email to send you our mail order catalogue or emails containing information on new products, special offers and services or upcoming events. If you do not wish to receive such mailings, please either opt-out when creating your account, visit the My Account page, or contact us using the details above. Your phone number will only be used in the event that we need to contact you regarding an order.
 
 ## 3rd Parties
 
 We know that you care how information about you is used and shared and we appreciate your trust in us to do that carefully and sensibly. We occasionally make our mailing list available to other carefully selected organizations whose products and services may be of interest to you. We do not share your email address with other organizations. If you would prefer not to be included in such mailings, please write to the address below.  
- ** _Coopers of Stortford  
+ **Coopers of Stortford  
 11 Bridge Street,  
 Bishop's Stortford, HERTS,  
-CM23 2JU._**
+CM23 2JU.**
 
 ## Accessing your data
 
@@ -32,4 +32,5 @@ To view your transaction information (e.g., dates on which you made purchases, a
 
 With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that you have provided us when creating your account. 
 
-**The Enterprise Department Ltd , The Despatch Centre, Haslemere Industrial Estate, Pig Lane, Bishop's Stortford. CM23 3HG Vat No. 650062669**
+**The Enterprise Department Ltd , 11 Bridge Street, Bishop's Stortford, HERTS, CM23 2JU  
+Vat No. 650062669 **
