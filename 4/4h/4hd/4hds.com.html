@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the 4hds.com privacy policy that was archived on 2010-12-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101206071321id_/http%3A//4hds.com/about.php%3Ftype%3D14) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 4hds.com privacy policy that was archived on 2011-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110607230133id_/http%3A//4hds.com/about.php%3Ftype%3D14) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 <title>4HDS.com - Webcam Stream Ranking System</title>
@@ -15,7 +15,7 @@
 
 <script language="JavaScript" type="text/javascript">
 var chatroomid = 1;
-var setChatName = 'Guest40868';
+var setChatName = 'Guest50625';
 var setChatUserId = 0;
 var userLoggedIn = 0;
 function setChatUserName (value) {
@@ -40,10 +40,18 @@ if (tempArray == '') { alert('Please enable JavaScript for AdToll.com even if yo
 }
 
 
+
 function generateThumbPlayer3(space,remoteSite,remoteId) {
 var theBox = document.getElementById(space);
 if (remoteSite == '1') { //stickam 
-theBox.innerHTML = '<embed src="http://player.stickam.com/flash/stickam/stickam_player.swf?userID=' + remoteId + '&amp;userType=204&amp;skinType=large&amp;app=stickam_chat_large.swf&amp;langID=en&amp;skinName=large0" type="application/x-shockwave-flash" width="221" height="221">';
+
+//theBox.innerHTML = 'Option Offline';
+
+//theBox.innerHTML = 'http://player.stickam.com/flash/stickam/stickam_player.swf?userType=204&userSiteID=0&langID=en&isOnStickam=1&zid=0&userID=NUMBER&userName=NAME&app=mmxPlayer.swf';
+
+theBox.innerHTML = '<embed src="http://player.stickam.com/flash/stickam/stickam_player.swf?userType=205&userSiteID=1015547&langID=en&isOnStickam=0&zid=external&userID=' + remoteId + '&userName=&app=mmxPlayer.swf" type="application/x-shockwave-flash" width="221" height="221">';
+
+//theBox.innerHTML = '<embed src="http://player.stickam.com/flash/stickam/stickam_player.swf?userID=' + remoteId + '&amp;userType=204&amp;skinType=large&amp;app=stickam_chat_large.swf&amp;langID=en&amp;skinName=large0" type="application/x-shockwave-flash" width="221" height="221">';
 theBox.scrollTop+=2;
 //theBox.innerHTML = '<iframe src="http://360pal.com/text2html.php?title=Player&text=%3Ciframe%20src%3D%22http%3A//www.stickam.com/largeChatNew.do%3FuId%3D' + remoteId + '%22%20name%3D%22camSlotFrame%22%20width%3D%22925%22%20height%3D%22845%22%20scroll%3D%22no%22%3E%3C/iframe%3E" name="camSlotFrame' + space + '" id="camSlotFrame' + space + '" width="335" height="255"></iframe><br><font size="1">' + space + ' | <a href="http://www.stickam.com/largeChatNew.do?uId=' + remoteId + '" target="_blank">Open Room</a> | <a href="javascript:generatePlayer(\'' + space + '\',\'clear\',\'0\');">[Close Slot]</a><a href="javascript:resizeElement(\'camSlotFrame' + space + '\',\'600\',\'510\');">[Expand]</a><a href="javascript:resizeElement(\'camSlotFrame' + space + '\',\'335\',\'255\');">[Shrink]</a></font>';
 }//stickam
@@ -52,10 +60,33 @@ theBox.innerHTML = '';
 }//else
 }//function generateThumbPlayer3
 
+function generateThumbPlayer3(space,remoteSite,remoteId,remoteName) {
+var theBox = document.getElementById(space);
+if (remoteSite == '1') { //stickam 
+//theBox.innerHTML = '<embed src="http://player.stickam.com/stickamPlayer/vo/' + remoteId + '" type="application/x-shockwave-flash">';
+//theBox.innerHTML = 'Thumbnail Offline';
+theBox.innerHTML = '<embed src="http://player.stickam.com/flash/stickam/stickam_player.swf?app=stickam_simple_video_player.swf" flashvars="userID=' + remoteId + '&amp;userType=204&amp;skinType=large&amp;app=stickam_simple_video_player.swf&amp;videoWidth=240&amp;videoHeight=180&amp;zid=liveStream&amp;langID=en&amp;skinName=large0" scale="noscale" allowscriptaccess="always" type="application/x-shockwave-flash" width="236" height="177">';
+
+//theBox.innerHTML = '<embed src="http://player.stickam.com/flash/stickam/stickam_player.swf?app=stickam_chat_large.swf" flashvars="userID=' + remoteId + '&amp;userType=204&amp;skinType=large&amp;app=stickam_chat_large.swf&amp;videoWidth=220&amp;videoHeight=210&amp;zid=liveStream&amp;langID=en&amp;skinName=large0" allowscriptaccess="always" type="application/x-shockwave-flash" width="221" height="221">';
+//theBox.scrollTop+=2;
+}//stickam
+else {
+theBox.innerHTML = '';
+}//else
+}//function generateThumbPlayer3
+
+
+function generateThumbPlayer4(space,remoteSite,remoteId,remoteName) {
+generateThumbPlayer4(space,remoteSite,remoteId);
+}
+
 function generateThumbPlayer4(space,remoteSite,remoteId) {
 var theBox = document.getElementById(space);
 if (remoteSite == '1') { //stickam 
-theBox.innerHTML = '<embed src="http://player.stickam.com/flash/stickam/stickam_player.swf?userID=' + remoteId + '&amp;userType=204&amp;skinType=large&amp;app=stickam_chat_large.swf&amp;langID=en&amp;skinName=large0" type="application/x-shockwave-flash" width="300" height="300">';
+//theBox.innerHTML = '<embed src="http://player.stickam.com/flash/stickam/stickam_player.swf?userID=' + remoteId + '&amp;userType=204&amp;skinType=large&amp;app=stickam_chat_large.swf&amp;langID=en&amp;skinName=large0" type="application/x-shockwave-flash" width="300" height="300">';
+
+theBox.innerHTML = '<embed src="http://player.stickam.com/stickamPlayer/vo/' + remoteId + '" type="application/x-shockwave-flash">';
+
 theBox.scrollTop+=2;
 //theBox.innerHTML = '<iframe src="http://360pal.com/text2html.php?title=Player&text=%3Ciframe%20src%3D%22http%3A//www.stickam.com/largeChatNew.do%3FuId%3D' + remoteId + '%22%20name%3D%22camSlotFrame%22%20width%3D%22925%22%20height%3D%22845%22%20scroll%3D%22no%22%3E%3C/iframe%3E" name="camSlotFrame' + space + '" id="camSlotFrame' + space + '" width="335" height="255"></iframe><br><font size="1">' + space + ' | <a href="http://www.stickam.com/largeChatNew.do?uId=' + remoteId + '" target="_blank">Open Room</a> | <a href="javascript:generatePlayer(\'' + space + '\',\'clear\',\'0\');">[Close Slot]</a><a href="javascript:resizeElement(\'camSlotFrame' + space + '\',\'600\',\'510\');">[Expand]</a><a href="javascript:resizeElement(\'camSlotFrame' + space + '\',\'335\',\'255\');">[Shrink]</a></font>';
 }//stickam
@@ -289,9 +320,9 @@ alt="joomla visitors" ></a></div></noscript>
 <td valign="top">
 <div style="border-left: thin solid white; padding-left: 10px;">
 <h2>Help</h2>
-<a href="http://www.simpleclan.com/clan.php?option=chat&amp;id=28">Chat</a><br>
+<a href="http://suzam.com/4hds">Chat</a><br>
 <a href="about.php?type=13">Contact Us</a><br>
-<a href="http://www.simpleclan.com/clan.php?option=forum&amp;id=28">Forum</a>
+<a href="webmasters.php">Webmasters</a>
 </div>
 </td>
 <td valign="top">
