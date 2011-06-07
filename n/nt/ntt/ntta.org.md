@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ntta.org privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123112603id_/http%3A//www.ntta.org/WorkingWithUs/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ntta.org privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607051601id_/http%3A//www.ntta.org/WorkingWithUs/PrivacyPolicy.htm) for the most accurate reproduction.*
 
 # NTTA: About NTTA
 
