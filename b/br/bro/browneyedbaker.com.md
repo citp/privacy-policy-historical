@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the browneyedbaker.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206080536id_/http%3A//www.browneyedbaker.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the browneyedbaker.com privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607194403id_/http%3A//www.browneyedbaker.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Brown Eyed Baker
 
@@ -77,3 +77,6 @@ Please review our other policies, such as our Terms and Conditions of Use, poste
 If you have any questions about this Privacy Policy or practices related to this Web Site, please contact michelle@browneyedbaker.com.
 
 This policy was last updated on August 24, 2010
+
+Tags: [Uncategorized](http://www.browneyedbaker.com/category/uncategorized/ "Uncategorized")  
+
