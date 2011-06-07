@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the lotame.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206093636id_/http%3A//www.lotame.com/privacy-center/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lotame.com privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607073819id_/http%3A//www.lotame.com/privacy-center/privacy) for the most accurate reproduction.*
 
 # LOTAME » PRIVACY CENTER » PRIVACY POLICY
 
 [HOME](http://www.lotame.com/ "Go to HOME.") » [Privacy Center](http://www.lotame.com/privacy-center/ "Go to Privacy Center.") » Privacy Policy
-
-PRIVACY POLICY [Access Preferences Manager](http://www.lotame.com/preferences.html) and [Opt-Out Here](http://www.lotame.com/preferences.html)
 
 Last Updated: May 26, 2010 [Annotated Review of Policy Updates](http://www.lotame.com/uploads/privacyPolicy/Blackline%20Comparing%204-21-09%20Lotame%20Privacy%20Policy%20to%20Updated%205-26-10%20Privacy%20Policy.pdf) Effective Date: July 1, 2010
 
@@ -32,4 +30,4 @@ There are other limited circumstances in which we may share data.  We may provi
 
 **Contact Us:** To contact us with any questions, comments, or suggestions, please email us at [privacy@lotame.com](mailto:privacy@lotame.com) or write to us at the address below.
 
-Lotame Solutions, Inc. Suite 2000 8850 Stanford Blvd. Columbia, Maryland, 21045
+Lotame Solutions, Inc. Suite 2000 8850 Stanford Blvd. Columbia, Maryland, 21045 
