@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wi-fi.org privacy policy that was archived on 2010-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100819001102id_/http%3A//www.wi-fi.org/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wi-fi.org privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607033251id_/http%3A//www.wi-fi.org/privacy_policy.php) for the most accurate reproduction.*
 
 # Wi-Fi Alliance: Privacy Policy
 
@@ -34,8 +34,8 @@ Web site visitors may opt-in to receive updates regarding press releases, events
 Our web site may provide links to third party sites. Since we do not control those web sites, we encourage you to review the privacy policies of these third party web sites. 
 
 **Wi-Fi Alliance**  
-3925 West Braker Lane  
-Austin, Texas 78759  
+10900-B Stonelake Boulevard, Suite 126  
+Austin, TX 78759  
 USA  
-E-mail: [web@wi-fi.org](mailto:web@wi-fi.org).  
-Last update: October, 2006 
+E-mail: [web@wi-fi.org](mailto:web@wi-fi.org)  
+Last update: October 2006 
