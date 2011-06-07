@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hoseasons.co.uk privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231204611id_/http%3A//www.hoseasons.co.uk/WebPages/shared/SecurityAndPrivacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hoseasons.co.uk privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607185226id_/http%3A//www.hoseasons.co.uk/WebPages/shared/SecurityAndPrivacy.aspx) for the most accurate reproduction.*
 
-# Hoseasons
+# Hoseasons - Security & Privacy Information
 
-## **Why are your card details safe?**
+## Why are your card details safe?
 
 Our Secure server software (SSL) is the industry standard and is among the best software available today for secure commerce transactions. It encrypts ALL OF YOUR PERSONAL INFORMATION, including your credit or debit card number, name and address, which means that your details cannot be read as the information travels over the internet. Only Hoseasons can read your personal information.
 
@@ -12,10 +12,7 @@ In the extremely unlikely event that your card details are obtained and used fra
 
 Did you know? The risk of credit card fraud is 100 times greater when you hand your card to the waiter in a restaurant than when you shop on the Internet! Modern day encryption technology, used by many Web sites like ours, virtually eliminates credit card fraud on the Internet.
 
-  
-
-
-## **Privacy Statement**
+## Privacy Statement
 
 In order to process your booking, we need to collect certain personal details from you. These details will usually include the names and addresses of party members, credit/debit card or other payment details and special requirements such as those relating to any disability or medical condition which may affect the chosen holiday arrangements. If we need any other personal details, we will tell you before we obtain them from you.
 
