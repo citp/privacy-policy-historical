@@ -1,9 +1,11 @@
-> *The following text is extracted and transformed from the pinellascounty.org privacy policy that was archived on 2008-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080807175455id_/http%3A//www.pinellascounty.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinellascounty.org privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607223523id_/http%3A//www.pinellascounty.org/privacy.htm) for the most accurate reproduction.*
 
-# Privacy & Security Notice
+# Pinellas County, Florida Privacy and Security Notice
 
 **[SB 80](http://www.flsenate.gov/data/session/2006/Senate/bills/billtext/pdf/s0080c1.pdf)\- **  
-E-mail addresses are public records under Florida law and are not exempt from public-records requirements. If you do not want your e-mail address to be subject to being released pursuant to a public-records request, do not send electronic mail to this entity. Instead, contact this office by telephone or in writing, via the United States Postal Service. [view phone directory](https://web.archive.org/web/20080807175455id_/http%3A//www.pinellascounty.org/phone.htm)
+E-mail addresses are public records under Florida law and are not exempt from public-records requirements. If you do not want your e-mail address to be subject to being released pursuant to a public-records request, do not send electronic mail to this entity. Instead, contact this office by telephone or in writing, via the United States Postal Service. [view phone directory](https://web.archive.org/web/20110607223523id_/http%3A//www.pinellascounty.org/contactus_locate.htm)
+
+* * *
 
 Thank you for visiting the Pinellas County website and reviewing our privacy policy. We will collect no personal information about you when you visit our website unless you choose to provide that information to us.
 
@@ -12,27 +14,14 @@ Here is how we handle information about your visit to our website:
 **Information collected and stored automatically**  
 If all you do during your visit is browse through the website, read pages, or download information, we will gather and store certain information about your visit automatically. This information does not identify you personally. Only the following information is automatically collected and stored about your visit: 
 
-|  | 
+  * The Internet domain (for example, "xcompany.com" if you use a private Internet access account, or "yourschool.edu" if you connect from a university's domain) and IP address (an IP address is a number that is automatically assigned to your computer whenever you are surfing the Web) from which you access our website;
+  * The type of browser and operating system used to access our site; 
+  * The date and time you access our site; 
+  * The pages you visit; and 
+  * If you linked to our website from another website, the address of that website.
 
-The Internet domain (for example, "xcompany.com" if you use a private Internet access account, or "yourschool.edu" if you connect from a university's domain) and IP address (an IP address is a number that is automatically assigned to your computer whenever you are surfing the Web) from which you access our website;   
-  
----|---  
-| 
 
-The type of browser and operating system used to access our site;   
-  
-| 
 
-The date and time you access our site;   
-  
-| 
-
-The pages you visit; and   
-  
-| 
-
-If you linked to our website from another website, the address of that website.   
-  
 We use this information to help us make the site more useful to visitors -- to learn about the number of visitors to our site and the types of technology our visitors use. We do not track or record information about individuals and their visits.
 
 **If you send us personal information**    
@@ -59,3 +48,5 @@ Unauthorized attempts to upload information or change information on this servic
 
 **Links to other web sites**  
 The website has links to many other governmental agencies. In some cases we link to private organizations. Once you link to another site, you are subject to the privacy policy of the new site.
+
+return to top
