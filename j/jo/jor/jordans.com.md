@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jordans.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216155247id_/http%3A//www.jordans.com/en/Privacy%2520Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jordans.com privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607193857id_/http%3A//jordans.com/en/Privacy%2520Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Jordan's Furniture
 
