@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wabash.edu privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226040545id_/http%3A//www.wabash.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wabash.edu privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607185421id_/http%3A//www.wabash.edu/privacy) for the most accurate reproduction.*
 
 # Wabash College: Privacy Statement for www.wabash.edu
 
@@ -28,7 +28,7 @@ Our site makes extensive use of forms for web users to request information about
 
 ### Links to External Sites
 
-This site contains links to external sites as well as sites that are not considered official web pages of Wabash College. This may include personal homepages of students, faculty, and staff containing the URL http://persweb.wabash.edu. **Wabash College** is not responsible for the privacy practices or the content of such web sites. Links to these sites are provided as a courtesy and do not imply an endorsement by Wabash College of the site. When notified of sites within the Wabash domain that may violate privacy or copyright practices, Wabash College will make every reasonable effort to bring the site into compliance or remove it from our servers. For more information on our copyright practices, [click here](https://web.archive.org/web/20101226040545id_/http://wabash.edu/copyright.cfm). 
+This site contains links to external sites as well as sites that are not considered official web pages of Wabash College. This may include personal homepages of students, faculty, and staff containing the URL http://persweb.wabash.edu. **Wabash College** is not responsible for the privacy practices or the content of such web sites. Links to these sites are provided as a courtesy and do not imply an endorsement by Wabash College of the site. When notified of sites within the Wabash domain that may violate privacy or copyright practices, Wabash College will make every reasonable effort to bring the site into compliance or remove it from our servers. For more information on our copyright practices, [click here](https://web.archive.org/web/20110607185421id_/http://www.wabash.edu/copyright.cfm). 
 
 ### Public Forums
 
