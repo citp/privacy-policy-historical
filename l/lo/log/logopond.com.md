@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the logopond.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227114513id_/http%3A//logopond.com/PP.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logopond.com privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607141846id_/http%3A//logopond.com/PP.php) for the most accurate reproduction.*
 
-# LogoPond - Identity Inspiration -
+# Logopond - Identity Inspiration
 
 ## Privacy Policy
 
