@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yamli.com privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213105616id_/http%3A//www.yamli.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yamli.com privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607164403id_/http%3A//www.yamli.com/privacy) for the most accurate reproduction.*
 
 # Yamli Privacy Policy
 
