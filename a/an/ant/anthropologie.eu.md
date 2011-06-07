@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anthropologie.eu privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224034710id_/http%3A//www.anthropologie.eu/page/privacyandsecurity) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anthropologie.eu privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607071405id_/http%3A//www.anthropologie.eu/page/privacyandsecurity) for the most accurate reproduction.*
 
 # Privacy & security | Anthropologie
 
