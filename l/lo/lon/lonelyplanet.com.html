@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the lonelyplanet.com privacy policy that was archived on 2010-12-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101229022041id_/http%3A//www.lonelyplanet.com/legal/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lonelyplanet.com privacy policy that was archived on 2011-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110607183931id_/http%3A//www.lonelyplanet.com/legal/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -117,7 +117,7 @@
                        var dblClickTargeting = [adZone, dcopt, adKeywords].join (';').replace(/;;+/, ';');
 	                   document.write('<script src="http://ad.doubleclick.net/adj/2009.lonelyplanet/' + dblClickTargeting + segQS + 'tile=' + tile + ';sz=728x90;ord=' + ord + '?" type="text/javascript"><\/script>');
 	                   // ]]>
-	               </script><script src="http://ad.doubleclick.net/adj/2009.lonelyplanet/legal;dcopt=ist;ctt=world;tile=1;sz=728x90;ord=8954497083?" type="text/javascript"></script>
+	               </script><script src="http://ad.doubleclick.net/adj/2009.lonelyplanet/legal;dcopt=ist;ctt=world;tile=1;sz=728x90;ord=6098042253?" type="text/javascript"></script>
 	               <noscript>
 	                   <div><a href="http://ad.doubleclick.net/jump/2009.lonelyplanet/rest-of-site;sz=728x90;ord=123456789?"> <img width="728" src="http://ad.doubleclick.net/ad/2009.lonelyplanet/rest-of-site;sz=728x90;ord=123456789?" height="90" alt="Advertising" /> </a></div> 
 	               </noscript>
@@ -150,18 +150,21 @@
         </li>
         
         <li class="tab hotelsHostels">
-            <a class="navHead" href="http://hotels.lonelyplanet.com"><span>Hotels &amp; hostels</span></a>
+            <a class="navHead" href="http://hotels.lonelyplanet.com"><span>Hotels</span></a>
         </li>
 
-		<li class="tab travelservices" style="display:none">
-			<a class="navHead" href="http://www.lonelyplanet.com/bookings"><span>Travel services</span></a>
+		<li class="tab flightsNav">
+			<a class="navHead" href="http://www.lonelyplanet.com/bookings/flights.do"><span>Flights</span></a>
 		</li>
 		
-		<li class="tab traveldeals" style="display:none">
-			<a class="navHead" href="http://www.lonelyplanet.com/bookings"><span>Travel deals</span></a>
-		</li>
-
-            <li class="signInRegister cartDivider">
+        <li class="tab travelDealNav" style="display:none">
+            <a class="navHead" href="http://www.lonelyplanet.com/bookings/index.do?regionId=1"><span>Travel deals</span></a>
+        </li>
+        <li class="tab insuranceNav" style="display:none">
+            <a class="navHead" href="http://www.lonelyplanet.com/bookings/insurance.do"><span>Insurance</span></a>
+        </li>
+ 
+                <li class="signInRegister cartDivider">
                 <noscript>
                     <p><a href="http://www.lonelyplanet.com/members">My profile</a></p>
                 </noscript>
@@ -178,131 +181,125 @@
 </div>
 
 <script type="text/javascript">
-// <![CDATA[
-		// show travel services tab straight away if cookie is available
-		if (jQuery.cookies.get("continent") != null){
-			travelServicesTab = new TravelServicesTab("NA", "li.traveldeals", "li.travelservices");
-	      	travelServicesTab.show();
-		}
-		
-	    jQuery(document).ready(function($){
-	      travelServicesTab = new TravelServicesTab("NA", "li.traveldeals", "li.travelservices");
-	      travelServicesTab.show();
-	    });
-	 // ]]>
-</script>
 
-  <script type="text/javascript">
-	
-   // <![CDATA[
-    
-    function gotoSignIn() {
-        window.location="https://secure.lonelyplanet.com/sign-in" + "/login?service=" + escape(window.location);                          
-    }
-    
-    function logout()
-    {
-        var options = {
-            domain: 'lonelyplanet.com',
-            path: '/',
-            secure: true
+    // <![CDATA[
+        
+        function gotoSignIn() {
+            window.location="https://secure.lonelyplanet.com/sign-in" + "/login?service=" + escape(window.location);                          
         }
         
-        jQuery.cookies.del('lpCookie', options);
-        
-        window.location="https://secure.lonelyplanet.com/sign-in/logout";
-    } 
-    
-    var enhanceSignonWidget = function($,options) {
-        var widget = $('#mainNav .signInRegister').empty(),
-            userSignedIn = function() {
-                return typeof(lpLoggedInUsername) !== "undefined" && lpLoggedInUsername !== "";
-            },
-            displaySigninRegisterWidget = function() {
-                var signInButton = $('<button id="signinbutton" value="Sign in" class="submitBtnShort"><span>Sign in</span></button>')
-                signInButton.click(gotoSignIn);
-                widget.append(signInButton).append('<p><a id="registerlinkcart" href="' + options.registerLink + '">Register</a></p>');
-            },
-            avatar = function() {
-                return '<img src="' + options.membersUrl + '/' + lpLoggedInUsername + '/mugshot/mini" alt="avatar" class="member"/>';
-            },
-            displayUnreadMessageCount = function() {
-
-                var refreshUnreadCount = function() {
-                    $.getJSON(
-                        options.membersUrl + '/' + lpLoggedInUsername + '/messages/count?callback=?',
-                        function(data) { 
-                            var unread_indicator = $("#mainNav #unread");                            
-                            if (data.unread_count > 0) {
-                              unread_indicator.text(data.unread_count);
-                              unread_indicator.addClass("newMail");
-                            } else {
-                              unread_indicator.text("0");
-                              unread_indicator.removeClass("newMail");
-                            }
-                        }
-                    );
-                };
-
-                refreshUnreadCount();
-                if (options.unreadMessageRefresh > 0) {
-                    setInterval(refreshUnreadCount, options.unreadMessageRefresh);
-                    
-                }
-                
-            },
-            displayUserShortcutMenu = function() {
-                var menu = $('<a class="navHead" href="'+options.membersUrl+'">' +
-                               avatar() +
-                               '<span id="loggedInUsername">' + lpLoggedInUsername + '</span>' +
-                               '<span id="unread"></span>' +
-                               '<img class="arrow" src="' + options.staticUrl + '/images/15x15_trans.gif" alt="More shortcuts" />' +
-                             '</a>' + 
-                             '<ul class="menu hidden">' + 
-                               '<li><a href="' + options.membersUrl + '"> My profile </a></li>' +
-                               '<li><a href="' + options.membersUrl + '/' + lpLoggedInUsername +'/edit"> Settings </a></li>' +
-                               '<li><a href="' + options.messagesUrl + '"> Messages </a></li>' +
-                               '<li><a href="' + options.favouritesUrl + '/"> My favourites </a></li>' +
-                               '<li><a href="' + options.tripPlannerUrl + '/myTrips"> My trips </a></li>' +
-                               '<li><a href="' + options.forumPostsUrlTemplate.replace('[USERNAME]', lpLoggedInUsername) + '"> Forum activity </a></li>' +
-                               '<li class="signout"><a href="' + options.signOutUrl + '" onClick="logout(); return false;"> Sign out </a></li>' +
-                             '</ul>');
-                widget.addClass('userLoggedIn');
-                widget.removeClass('signInRegister').
-                    addClass('tab').
-                    append(menu);
-
-                $('#unread').click(function(e) {
-                    e.preventDefault();
-                    window.location = options.membersUrl + '/' + lpLoggedInUsername + '/messages';
-                  });
-                
-            };
-
+        function logout()
+        {
+            var options = {
+                domain: 'lonelyplanet.com',
+                path: '/',
+                secure: true
+            }
             
+            jQuery.cookies.del('lpCookie', options);
+            
+            window.location="https://secure.lonelyplanet.com/sign-in/logout";
+        } 
+        
+        var enhanceSignonWidget = function($,options) {
+            var widget = $('#mainNav .signInRegister').empty(),
+                userSignedIn = function() {
+                    return typeof(lpLoggedInUsername) !== "undefined" && lpLoggedInUsername !== "";
+                },
+                displaySigninRegisterWidget = function() {
+                    var signInButton = $('<button id="signinbutton" value="Sign in" class="submitBtnShort"><span>Sign in</span></button>')
+                    signInButton.click(gotoSignIn);
+                    widget.append(signInButton).append('<p><a id="registerlinkcart" href="' + options.registerLink + '">Register</a></p>');
+                },
+                avatar = function() {
+                    return '<img src="' + options.membersUrl + '/' + lpLoggedInUsername + '/mugshot/mini" alt="avatar" class="member"/>';
+                },
+                displayUnreadMessageCount = function() {
     
-        if(userSignedIn()) {
-            displayUserShortcutMenu();
-            displayUnreadMessageCount();
-        }
-        else {
-            displaySigninRegisterWidget();
-        }
-    }(jQuery,
-      {registerLink: 'https://secure.lonelyplanet.com/members/registration/new',
-       unreadMessageRefresh: 120000,
-       membersUrl: 'http://www.lonelyplanet.com/members',
-       groupsUrl: 'http://www.lonelyplanet.com/groups',
-       staticUrl: 'http://static.lonelyplanet.com/static-ui',
-       messagesUrl: 'http://www.lonelyplanet.com/members/messages',
-       favouritesUrl: 'http://www.lonelyplanet.com/favourites',
-       tripPlannerUrl: 'http://www.lonelyplanet.com/trip-planner',
-       forumPostsUrlTemplate: 'http://www.lonelyplanet.com/thorntree/profile.jspa?username=[USERNAME]',
-       signOutUrl: 'https://secure.lonelyplanet.com/sign-in/logout'});
-
-   // ]]>
+                    var refreshUnreadCount = function() {
+                        $.getJSON(
+                            options.membersUrl + '/' + lpLoggedInUsername + '/messages/count?callback=?',
+                            function(data) { 
+                                var unread_indicator = $("#mainNav #unread");                            
+                                if (data.unread_count > 0) {
+                                  unread_indicator.text(data.unread_count);
+                                  unread_indicator.addClass("newMail");
+                                } else {
+                                  unread_indicator.text("0");
+                                  unread_indicator.removeClass("newMail");
+                                }
+                            }
+                        );
+                    };
     
-  </script>
+                    refreshUnreadCount();
+                    if (options.unreadMessageRefresh > 0) {
+                        setInterval(refreshUnreadCount, options.unreadMessageRefresh);
+                        
+                    }
+                    
+                },
+                displayUserShortcutMenu = function() {
+                    var menu = $('<a class="navHead" href="'+options.membersUrl+'">' +
+                                   avatar() +
+                                   '<span id="loggedInUsername">' + lpLoggedInUsername + '</span>' +
+                                   '<span id="unread"></span>' +
+                                   '<img class="arrow" src="' + options.staticUrl + '/images/15x15_trans.gif" alt="More shortcuts" />' +
+                                 '</a>' + 
+                                 '<ul class="menu hidden">' + 
+                                   '<li><a href="' + options.membersUrl + '"> My profile </a></li>' +
+                                   '<li><a href="' + options.membersUrl + '/' + lpLoggedInUsername +'/edit"> Settings </a></li>' +
+                                   '<li><a href="' + options.messagesUrl + '"> Messages </a></li>' +
+                                   '<li><a href="' + options.favouritesUrl + '/"> My favourites </a></li>' +
+                                   '<li><a href="' + options.tripPlannerUrl + '/myTrips"> My trips </a></li>' +
+                                   '<li><a href="' + options.forumPostsUrlTemplate.replace('[USERNAME]', lpLoggedInUsername) + '"> Forum activity </a></li>' +
+                                   '<li class="signout"><a href="' + options.signOutUrl + '" onClick="logout(); return false;"> Sign out </a></li>' +
+                                 '</ul>');
+                    widget.addClass('userLoggedIn');
+                    widget.removeClass('signInRegister').
+                        addClass('tab').
+                        append(menu);
+    
+                    $('#unread').click(function(e) {
+                        e.preventDefault();
+                        window.location = options.membersUrl + '/' + lpLoggedInUsername + '/messages';
+                      });
+                    
+                };   
+                        
+            if(userSignedIn()) {
+                displayUserShortcutMenu();
+                displayUnreadMessageCount();
+            }
+            else {
+                displaySigninRegisterWidget();
+            }
+        }(jQuery,
+          {registerLink: 'https://secure.lonelyplanet.com/members/registration/new',
+           unreadMessageRefresh: 120000,
+           membersUrl: 'http://www.lonelyplanet.com/members',
+           groupsUrl: 'http://www.lonelyplanet.com/groups',
+           staticUrl: 'http://static.lonelyplanet.com/static-ui',
+           messagesUrl: 'http://www.lonelyplanet.com/members/messages',
+           favouritesUrl: 'http://www.lonelyplanet.com/favourites',
+           tripPlannerUrl: 'http://www.lonelyplanet.com/trip-planner',
+           forumPostsUrlTemplate: 'http://www.lonelyplanet.com/thorntree/profile.jspa?username=[USERNAME]',
+           signOutUrl: 'https://secure.lonelyplanet.com/sign-in/logout'});
+    
+  
+        var continents = [ "NA", "SA" ];
+        
+        if(jQuery.cookies.get("continent") != null){
+            travelServicesTab = new TravelServicesTab(continents, "li.travelDealNav", "li.insuranceNav");
+            travelServicesTab.show();
+        }
+        
+        jQuery(document).ready(function($){
+            travelServicesTab = new TravelServicesTab(continents, "li.travelDealNav", "li.insuranceNav");
+            travelServicesTab.show();
+        });
+    // ]]>  
+</script>
   </div>
 </div>
         <div id="pageTitleWrap">
@@ -489,6 +486,34 @@
         </div>
         
 <div id="sidebar">
+	<div class="rightLegal roundedContainer">
+		<h3>Targeted advertising update</h3>
+		<p>
+			As of January 2011, lonelyplanet.com will be using AudienceScience technology to deliver targeted advertising to our site visitors, a practice widely used across the internet called "behavioural targeting".
+		</p>
+		<p>
+			The system we are using is a type of "onsite behavioural targeting” which uses "cookies” to discover general information about which pages on our sites you visit. It also looks at IP addresses to add general information about the country, city or region in which you are located, along with your domain name (e.g. what internet service provider you use).
+		</p>
+		<p>
+			This information enables you to be grouped with other people of similar interests and places you in a "market segment”. We can then display advertisements onto our sites which we believe people in your market segment will find relevant.
+		</p>
+		<p>
+			We believe this makes the advertising more interesting and useful to you, and also helps us increase the value we get out of our websites and from our advertisers, and therefore ultimately gives us a greater ability to invest in great content for the benefit of all our site visitors.
+		</p>
+		<p> 
+			It is important to note that at no time will we or our service providers attempt to identify you individually, and at no time do we know who you are or what pages you individually have been looking at – we simply aggregate the relevant information to create the market segments of groups of people.
+		</p>
+		<p>
+			Also, this "onsite behavioural targeting” functionality is different from other forms of behavioural targeting in that we will only look at your journey across lonelyplanet.com and other BBC Worldwide-owned websites and we do not use or share data with or from non-BBC Worldwide sites.
+		</p>
+		<p>
+			Further information about cookies, the technology solution itself and the company that runs the technology for us, AudienceScience, is available in our <a href="http://www.lonelyplanet.com/legal/cookies">Privacy and Cookies Policy</a>.
+		</p>
+		<p>
+			If at any time you do not want your site visit looked at by us in this way, you can turn the technology off and "opt out” by following the instructions in AudienceScience’s privacy policy available at <a rel="external" href="http://audiencescience.com/privacy.asp">http://audiencescience.com/privacy.asp</a>.
+		</p>
+	</div>
+
   <div class="lpComponent clearfix">
     <h2 class="related">Related links</h2>
     <ul class="clearfix">
@@ -500,9 +525,9 @@
   </div>
 
     <!-- MPU -->
-	<div id="mpu" class="mpuWrapper sldMPU">
-		<div class="mpuInner">
-			<div class="adContainer" id="adContainer_mpu">
+    <div id="mpu" class="mpuWrapper sldMPU">
+        <div class="mpuInner">
+            <div class="adContainer" id="adContainer_mpu">
 	<script type="text/javascript"> 
 		// <![CDATA[
 		if(typeof(ord)=="undefined"){var ord=Math.floor(Math.random()*10000000000)}; 
@@ -513,7 +538,7 @@
 			'ctt=world;tnm=;' + segQS + 'tile=' + tile + ';sz=300x250,300x500,300x600;ord=' + ord + 
 			'?" type="text/javascript" ><\/script>'); 
 		// ]]> 
-	</script><script src="http://ad.doubleclick.net/adj/2009.lonelyplanet/legal;ctt=world;tnm=;tile=2;sz=300x250,300x500,300x600;ord=8954497083?" type="text/javascript"></script>
+	</script><script src="http://ad.doubleclick.net/adj/2009.lonelyplanet/legal;ctt=world;tnm=;tile=2;sz=300x250,300x500,300x600;ord=6098042253?" type="text/javascript"></script>
 	<noscript> 
 		<div> 
 			<a href="http://ad.doubleclick.net/jump/2009.lonelyplanet/rest-of-site;dcopt=ist;ctt=world;tnm=;sz=300x250,300x500,300x600;ord=123456789?">
@@ -522,10 +547,10 @@
 			</a> 
 		</div> 
 	</noscript> 
-				<p>Advertisement</p>
-			</div>
-		</div>
-	</div>
+                <p>Advertisement</p>
+            </div>
+        </div>
+    </div>
     <script type="text/javascript">
 		//<![CDATA[
 		$(document).ready(function(){
@@ -633,11 +658,13 @@
 	    </script>
     	<div>
 	        <a href="http://www.lonelyplanet.com"><img src="http://static.lonelyplanet.com/static-ui/images/lp-logo-footer.gif" alt="Lonely Planet logo"></a>
-	        <p>© 2010 Lonely Planet. All rights reserved. No part of this site may be reproduced without our written permission.</p>
+	        <p>© 2011 Lonely Planet. All rights reserved. No part of this site may be reproduced without our written permission.</p>
+	        <p>This website is owned by BBC Worldwide, which is a commercial company owned by the BBC.</p>
 	    </div>
 	</div>
 	
-
+	
+        <script type="text/javascript" src="http://js.revsci.net/gateway/gw.js?csid=J08781&amp;auto=t"></script>
 <div class="doubleClickTracking">
     <script type="text/javascript"> 
         // <![CDATA[
@@ -651,8 +678,10 @@
                         dcopt + adKeywords + segQS + 'tile=' + tile + ';sz=1x1;ord=' + ord + 
                           '?" type="text/javascript" ><\/script>'); 
         // ]]> 
-    </script><script src="http://ad.doubleclick.net/adj/2009.lonelyplanet/legal;ctt=world;tile=3;sz=1x1;ord=8954497083?" type="text/javascript"></script>
+    </script><script src="http://ad.doubleclick.net/adj/2009.lonelyplanet/legal;ctt=world;tile=3;sz=1x1;ord=6098042253?" type="text/javascript"></script>
 </div>
+
+
      
 </div>
 <div class="hidden">
