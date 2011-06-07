@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twibes.com privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202004653id_/http%3A//www.twibes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twibes.com privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607071713id_/http%3A//www.twibes.com/privacy-policy) for the most accurate reproduction.*
 
 # Twibes Twitter Groups
 
