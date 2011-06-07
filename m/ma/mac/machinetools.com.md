@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the machinetools.com privacy policy that was archived on 2010-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100115140630id_/http%3A//www.machinetools.com/us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the machinetools.com privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607145216id_/http%3A//www.machinetools.com/us/privacy) for the most accurate reproduction.*
 
 # MachineTools.com: The Leading Worldwide Metalworking Industry Marketplace
-
-  
-| 
 
 **Importance of Your Privacy**. At MachineTools, your privacy is of great importance to us. We understand that you entrust us with your private information to provide various services described at the web site located at [www.machinetools.com](http://www.machinetools.com/) (the “Web site”). In exchange for your trust, you expect and deserve our commitment to treat your information with respect and in accordance with this Privacy Policy. Rest assured that we protect your privacy. Under no circumstances will MachineTools sell or share any personal information about you to or with any person or organization except (i) as authorized by you, (ii) with licensors, (iii) as may be required by law or court order, or (iv) as otherwise set forth in this Privacy Policy. The Privacy Policy below describes the standards we adhere to in handling information about you and any personal information you submit through the Web site.
 
@@ -68,6 +65,3 @@ If we make a change to our Privacy Policy in the future that will affect how we 
 **This Privacy Policy was last updated on May 23, 2006.**
 
 **Please Print and Retain a Copy of This Agreement for Your Records.**
-
-| [](https://web.archive.org/us/demo) |   
----|---
