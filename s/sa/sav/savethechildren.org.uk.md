@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the savethechildren.org.uk privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613054438id_/http%3A//www.savethechildren.org.uk/en/141.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savethechildren.org.uk privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607041735id_/http%3A//www.savethechildren.org.uk/en/141.htm) for the most accurate reproduction.*
 
-# Save the Children UK : Privacy policy
+# Privacy policy: Save the Children UK
 
 Save the Children's processing of your personal data is governed by the Data Protection Act 1998.
 
