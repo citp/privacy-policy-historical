@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wivb.com privacy policy that was archived on 2010-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101209222546id_/http%3A//www.wivb.com/subindex/About_Us/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wivb.com privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607161541id_/http%3A//www.wivb.com/subindex/About_Us/Privacy_Policy) for the most accurate reproduction.*
 
 # About Us > Privacy Policy | WIVB.com
 
