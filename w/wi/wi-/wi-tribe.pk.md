@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wi-tribe.pk privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229204756id_/http%3A//www.wi-tribe.pk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wi-tribe.pk privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607193749id_/http%3A//www.wi-tribe.pk/privacy-policy) for the most accurate reproduction.*
 
 # privacy policy | wi-tribe
 
