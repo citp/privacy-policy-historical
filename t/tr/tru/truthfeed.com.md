@@ -1,15 +1,19 @@
-> *The following text is extracted and transformed from the truthfeed.com privacy policy that was archived on 2007-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071129151943id_/http%3A//sedoparking.com/templates/elements/almondnet.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truthfeed.com privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607181133id_/http%3A//truthfeed.com/pages/privacy_policy) for the most accurate reproduction.*
 
-# Our Use of Your Information
+# Privacy Policy | TruthFeed
 
-In general, you can browse a large portion of this site without telling us who you are or revealing any personal information about yourself. Once you give us your personal information, you are not anonymous to us. You will be notified when your personal information is collected by any third party that is not our agent/service provider so that you can make an informed choice as to whether or not to share your information with that party.
+When accessing our Website, TruthFeed will learn certain information about you during your visit. How we will handle information we learn about you depends upon what you do when visiting our site.
 
-We may automatically collect certain information based upon your behavior on the site. We use this information to do internal research on our users' demographics, interests, and behavior in order to serve our users better. This information may include the URL that you come from or go to (whether this URL is on the site or not), your computer browser information, and your IP address.
+If you visit our site to read or download information on our pages, we collect and store only the following information about you:
 
-We allow advertisers and other business partners to place "cookies" onto your computer when you visit this website. These "cookies" are placed to keep track of the web searches you make while visiting this website, as well as your web surfing behavior on this website and other websites you may visit. That information is used to show you advertisements tailored to your interests on this and other websites, and/or to keep track of your response to each ad. If you would like more information about this practice and would like to know your choices about not having this information used to target ads to you, please [click here](http://www.networkadvertising.org/consumer/opt_out.asp).
+1\. The name of the domain from which you access the Internet  
+2\. The date and time you access our site  
+3\. The Internet address of the website you used to link directly to our site. 
 
-Please be advised that we have no access to or control over our business partner's "cookies". This privacy statement covers the use of "cookies" by this site only and does not cover the use of "cookies" by any advertisers.
+If you identify yourself by sending us an e-mail containing personal information, then the information collected will be solely used to respond to your message.
 
-If you send us personal correspondence, such as emails or letters, or if other users or third parties send us correspondence about your activities on the site, we may collect such information into a file specific to you.
+The information collected is for statistical purposes. TruthFeed may use software programs to create summary statistics, which are used for such purposes as assessing the number of visitors to the different sections of our site, what information is of most and least interest, determining technical design specifications, and identifying system performance or problem areas.
 
-You agree that we may use your information to contact you and deliver information to you that, in some cases, is targeted to your perceived interests, such as targeted banner advertisements, administrative notices, product offerings, and communications relevant to your use of the site. Through your access and use of this site, you hereby expressly agree to receive this information.
+For site security purposes and to ensure that this service remains available to all users, TruthFeed uses software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage.
+
+TruthFeed will not obtain personally-identifying information about you when you visit our site, unless you choose to provide such information to us, nor will such information be sold or otherwise transferred to unaffiliated third parties without the approval of the user at the time of collection.
