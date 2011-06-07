@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the oakland.edu privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230141439id_/http%3A//www.oakland.edu%3Fid%3D1645%26sid%3D205) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oakland.edu privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607061023id_/http%3A//www.oakland.edu%3Fid%3D1645%26sid%3D205) for the most accurate reproduction.*
 
 # OU Web Privacy Statement - Policies and Regulations - Oakland University
 
 At Oakland University, we strive to respect the privacy of our website visitors because your privacy is important to us. Using the Internet should be a pleasant experience, and we want to help you make it enjoyable. This privacy statement describes what information we collect and how that information is protected and used with those ideas in mind. 
 
 Information Gathered   
-websites you visit may gather information about you. Sometimes you are asked to supply information such as your name, address or e-mail address. Other times processes built into the website gather information. 
+Websites you visit may gather information about you. Sometimes you are asked to supply information such as your name, address or e-mail address. Other times processes built into the website gather information. 
 
 We may ask you for information to answer a request that you have submitted to Oakland University. An example would be your name and address for mailing admissions or employment information. Information sent to Oakland University via Web data entry may be read, filed, stored, forwarded, responded to or printed by Oakland University staff members for the purpose of answering and tracking your request. In some cases, the university may outsource the collection of information, such as with admissions or employment applications, and your information may be read, filed, stored, forwarded, responded to or printed by employees of a third-party vendor providing services under contract with the university. 
 
