@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the whichwebdesigncompany.com privacy policy that was archived on 2010-04-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100413134052id_/http%3A//www.whichwebdesigncompany.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the whichwebdesigncompany.com privacy policy that was archived on 2011-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110607105928id_/http%3A//www.whichwebdesigncompany.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 	<title>Privacy Policy | Which Web Design Company</title>
@@ -34,11 +34,21 @@ document.write(unescape("%3Cscript src='" + userflyHost + "/users/41172/userfly.
 var WRInitTime=(new Date()).getTime();
 </script>
 <!-- ClickTale end of Top part -->
+<script type="text/javascript">
 
+var companyId=0;
+$(document).ready(function(){
+	$('#rankGraphics').mouseover(function() {
+		$(this).css('z-index', '10');
+	}).mouseout(function() {
+		$(this).css('z-index', '00');
+	});
+})
+</script>
 	<div id="back">
-	<div id="wrap">
+	<div id="wrap" style="position: relative;">
+		<a id="rankGraphics" style="display: block; width: 230px; height: 185px; position: absolute; top: 300px; left: -38px; background-image: url(/html/i/wwdc-rank-graphic.png); z-index: 0;" href="/how-it-works#faq_3"></a>
 		<div id="container">
-		
 
 				<div id="header">
 
@@ -52,9 +62,9 @@ var WRInitTime=(new Date()).getTime();
 						<div class="wrap">
 
 							<div class="register pink small">
-							<a href="http://www.whichwebdesigncompany.com/">Home</a>&nbsp;|&nbsp;<a href="http://www.whichwebdesigncompany.com/uk/register"><strong>ADD a company FREE</strong></a>&nbsp;|&nbsp;<a href="#" onclick="showLogin(this); return false;">Company Login</a>&nbsp;|&nbsp;<a href="http://www.facebook.com/search/?q=wwdc&amp;init=quick#/pages/Which-Web-Design-Company/19815061704?ref=ts"><img src="/html/i/subscribe_facebook.png" align="texttop"></a><a href="http://twitter.com/whichwdc"><img src="/html/i/subscribe_twitter4.png" align="texttop"></a>
+							<a href="http://www.whichwebdesigncompany.com/">Home</a>&nbsp;|&nbsp;<a href="http://www.whichwebdesigncompany.com/uk/register"><strong>ADD a company FREE</strong></a>&nbsp;|&nbsp;<a href="#" onclick="showLogin(this); return false;">Company Login</a>&nbsp;|&nbsp;<a href="http://www.facebook.com/pages/Which-Web-Design-Company/19815061704"><img src="/html/i/subscribe_facebook.png" align="texttop"></a><a href="http://twitter.com/whichwdc"><img src="/html/i/subscribe_twitter4.png" align="texttop"></a>
 							</div>
-							<input type="text" id="qsField" name="" value="Quick Search" class="quicksearch s small" autohide="Quick Search" onkeyup="if (event.keyCode==13) document.location.href='http://www.whichwebdesigncompany.com/designers?search&amp;lfKeyword='+$('#qsField').val();">
+							<input type="text" id="qsField" name="" value="Quick Search" class="quicksearch s small" autohide="Quick Search" onkeyup="if (event.keyCode==13) {trackEvent('visitor', 'top-search'); document.location.href='http://www.whichwebdesigncompany.com/designers?search&amp;lfKeyword='+$('#qsField').val();}">
 							<a href="#" class="button ico_right w90" onclick="document.location.href='http://www.whichwebdesigncompany.com/designers?search&amp;lfKeyword='+$('#qsField').val(); return false;"><span>Search</span></a>
 							<a href="#" class="default country ho" id="country_closed"><span></span>Home&nbsp;</a>
 
@@ -66,14 +76,14 @@ var WRInitTime=(new Date()).getTime();
 					</div>
 
 
-					<div id="main_stats"><h1>3982 Web Design Companies Reviewed - an independent and unbiased resource</h1></div>
+					<div id="main_stats"><h1>5339 Web Design Companies Reviewed - an independent and unbiased resource</h1></div>
 					<div id="main_menu">
 						<div id="main_menu_left"></div>
 						<a href="/about-us">About WWDC</a> |
 						<a href="/how-it-works">FAQ</a> |
-						<a href="/blog" target="_blank">Blog</a> |
-						<a href="/news">News</a> |
-						<a href="/uk/recommendations">Recommended Businesses</a> |
+						<!--<a href="/blog" target="_blank">Blog</a> |-->
+						<!--<a href="/news">News</a> |
+						<a href="/uk/recommendations">Recommended Businesses</a> |    -->
 						<a href="/uk/articles">Resources and Articles</a>&nbsp;&nbsp;
 					
 					</div>
@@ -82,9 +92,9 @@ var WRInitTime=(new Date()).getTime();
 			</div>
 <!--  End Of Header -->
 
-			<div id="content">
+			<div id="content" style="position: relative; z-index: 2;">
 
-				
+             	
 <div id="main_offer_new_sub">
 	<table>
 		<tbody><tr>
@@ -107,10 +117,10 @@ var WRInitTime=(new Date()).getTime();
 				
 
 				<div id="main">
-					
+				   	
 	                
-					
-					<div class="panel wp_740 title clr">
+					<!---->
+                 	<div class="panel wp_740 title clr">
     <div class="top">
         <h1 class="title">Privacy Policy</h1>
 
@@ -127,7 +137,7 @@ var WRInitTime=(new Date()).getTime();
 
 
 
-				<div id="sidebar">
+				<div id="sidebar" style="z-index: 10;">
 					<div class="panel wp_220" id="favoritesPanel" style="display: none;">
 	<div class="top">
 		
@@ -151,7 +161,7 @@ var WRInitTime=(new Date()).getTime();
 </div>
 
 					
-					<div class="panel wp_220" style="display: none;" id="loginPanel">
+					<div class="panel wp_220" id="loginPanel" style="display: none;"> 
 	<div class="top">
 		
 		<div class="title">
@@ -178,59 +188,46 @@ var WRInitTime=(new Date()).getTime();
 	</div>
 	<div class="btm"></div>
 </div>
-					<div class="panel wp_220 counter">
-	<div class="top">
-		<div class="box" style="text-align: center; padding: 0px 0 15px 0;">
-		<div style="font-size: 11px;">Advertisement:</div>
-<a href="http://en.fotolia.com/WWDC" target="_blank" title="Fotolia"><img src="/ads/200x200-fotolia.jpg" alt="Fotolia" style="margin-bottom: 10px!Important;"></a>
-	<a href="http://www.jiffysites.co.uk/" target="_blank" title="Affordable Website Design"><img src="/ads/banner_jiffy.gif" alt="Affordable Website Design" style="margin-bottom: 10px!Important;"></a>
-	<a href="http://www.simplewebhosting.co.uk/secure/link.php?id=1" target="_blank" title="Simplewebhosting.co.uk"><img src="/ads/banner_simplewebhosting.gif" alt="Simplewebhosting.co.uk" style="margin-bottom: 10px!Important;"></a>
-	
-		</div>
-	</div>
-	<div class="btm"></div>
+				    <div class="panel wp_220 counter">
+<div class="top">
+  <div class="title" style="font-size: 14px;">WWDC on Facebook</div>
+  <iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FWhich-Web-Design-Company%2F19815061704&amp;width=216&amp;colorscheme=light&amp;show_faces=false&amp;stream=false&amp;header=true&amp;height=62" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:216px; height:72px;" allowtransparency="true"></iframe>
+</div>
+<div class="btm"></div>
+</div>
+
+<div class="panel wp_220 counter">
+<div class="top" style="text-align: center;">
+<a href="http://www.whichwebdesigncompany.com/advertise">Advertise here<br>
+Click for more details</a>
+</div>
+<div class="btm"></div>
 </div>
 
 <div class="panel wp_220 counter">
 	<div class="top">
-		<div class="box" style="text-align: center; padding: 15px 0 15px 0;">
-			<a href="http://www.whichwebdesigncompany.com/advertise" style="font-size: 20px; color: #E51A82; text-decoration: none;"><b>Advertise here</b></a><br><span style="font-size: 12px; color: #999999;">Special offers available for limited time</span>
-		</div>
-	</div>
-	<div class="btm"></div>
-</div>
-
-
-<div class="panel wp_220 counter">
-	<div class="top">
 		<div class="box" style="text-align: center; padding: 0px 0 15px 0;">
-		<div style="font-size: 11px;">Advertiser Links:</div>
-<a href="http://www.crearecommunications.co.uk/" style="font-size: 12px; color: #006600; display: block;" target="_blank">SEO</a>
-			<div class="line"></div><a href="http://www.nsdesign.co.uk" style="font-size: 12px; color: #006600; display: block;" target="_blank">Glasgow Web Design</a>
-			<div class="line"></div><a href="http://www.e-commercewebdesign.co.uk/" style="font-size: 12px; color: #006600; display: block;" target="_blank">e-commerce website design</a>
-			<div class="line"></div><a href="http://www.ampheon.co.uk/wd" style="font-size: 12px; color: #006600; display: block;" target="_blank">Ampheon Web Design, London</a>
-			<div class="line"></div><a href="http://www.crearedesign.co.uk" style="font-size: 12px; color: #006600; display: block;" target="_blank">Web Design</a>
-			<div class="line"></div><a href="http://www.jiffysites.co.uk/" style="font-size: 12px; color: #006600; display: block;" target="_blank">Affordable Website Design</a>
-			
+		<!--<div style="font-size: 11px;">Advertisement:</div>-->
+
+
+		   <!--	<a onclick="trackEvent('visitor', 'ad-findiphone', '0');" href="http://www.ifindiphone.com" target="_blank" title="findiphone"><img src="/ads/WWDC_Ad1.png" alt="findiphone" style="margin-bottom: 10px!Important;"/></a>
+            <br>            <br>-->
+            <a onclick="trackEvent('visitor', 'ad-facebook', '0');" href="http://www.tribalcafe.co.uk/facebook-marketing/" target="_blank" title="facebook"><img src="/ads/facebook_ad.gif " alt="facebook" style="margin-bottom: 10px!Important;"></a>
+            <br>            <br>
+           <a onclick="trackEvent('visitor', 'ad-gomobile', '0');" href="http://www.tribalcafe.co.uk/go-mobile/" target="_blank" title="gomobile"><img src="/ads/gomobile_ad.gif " alt="gomobile" style="margin-bottom: 10px!Important;"></a>
+            <br>            <br>
+            <!--<iframe src="http://dev.tribalcafe.co.uk/ads/wwdc-facebook/ad.html" width="220" height="220" frameborder="0" id="tribalcafe_facebook" scrolling="no"></iframe>
+            <br>                            <br>
+            <iframe src="http://dev.tribalcafe.co.uk/ads/wwdc-gomobile/ad.html" width="220" height="220" frameborder="0" id="tribalcafe_gomobile" scrolling="no"></iframe>
+                -->
+
+
+            
+
 		</div>
 	</div>
 	<div class="btm"></div>
 </div>
-
-<!--<div class="panel wp_220 counter">
-	<div class="top">
-
-		<div class="box" style="text-align: center; padding-top: 15px;">
-
-
-		</div>
-
-	</div>
-	<div class="btm"></div>
-</div>
--->
-
-
 				</div>
 <!--  End Of Sidebar -->
 			
@@ -250,10 +247,12 @@ var WRInitTime=(new Date()).getTime();
 		<div id="footer">
 			<div class="wrap">
 				<p>
-					<a href="http://www.whichwebdesigncompany.com/advertise">Advertise</a> &nbsp;|&nbsp;<a href="http://www.whichwebdesigncompany.com/affiliate-program"><b class="pink">Affiliate Program</b></a> &nbsp;|&nbsp;<a href="http://www.whichwebdesigncompany.com/media" rel="nofollow">Media</a> &nbsp;|&nbsp;<a href="http://www.whichwebdesigncompany.com/how-it-works" rel="nofollow">FAQ</a> &nbsp;|&nbsp;<a href="http://www.whichwebdesigncompany.com/privacy-policy" rel="nofollow">Privacy Policy</a> &nbsp;|&nbsp;<a href="http://www.whichwebdesigncompany.com/terms-of-use" rel="nofollow">Terms of use</a> &nbsp;|&nbsp;<a href="http://www.whichwebdesigncompany.com/contact-us" rel="nofollow">Contact Us</a> &nbsp;|&nbsp;<a href="http://www.whichwebdesigncompany.com/about-us">About Us</a> 
+					<a href="http://www.whichwebdesigncompany.com/advertise">Advertise</a> &nbsp;|&nbsp;<a href="http://www.whichwebdesigncompany.com/uk/register"><b class="pink">ADD a company FREE</b></a> &nbsp;|&nbsp;<a href="http://www.whichwebdesigncompany.com/media" rel="nofollow">Media</a> &nbsp;|&nbsp;<a href="http://www.whichwebdesigncompany.com/how-it-works" rel="nofollow">FAQ</a> &nbsp;|&nbsp;<a href="http://www.whichwebdesigncompany.com/privacy-policy" rel="nofollow">Privacy Policy</a> &nbsp;|&nbsp;<a href="http://www.whichwebdesigncompany.com/terms-of-use" rel="nofollow">Terms of use</a> &nbsp;|&nbsp;<a href="http://www.whichwebdesigncompany.com/contact-us" rel="nofollow">Contact Us</a> &nbsp;|&nbsp;<a href="http://www.whichwebdesigncompany.com/about-us">About Us</a> 
+                    | <a href="/uk/recommendations">Recommended Businesses</a>
 				</p>
 				<p class="copy">
-					©2006-2010, <a href="/">Which Web Design Company.com</a>
+					©2011 <a href="/">Which Web Design Company Limited</a>. All rights reserved. <br>
+                    Incorporated in England and Wales. Registration no. 7482483.
 				</p>
 			</div>
 		</div>
@@ -279,6 +278,8 @@ if(document.location.protocol!='https:')
 <script type="text/javascript">
 if(typeof ClickTale=='function') ClickTale(36176,0.09,"www");
 </script>
+
 <!-- ClickTale end of Bottom part -->
+<span id="hiddenInfo"></span>
 
 </body></html>
