@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the unitab.com privacy policy that was archived on 2010-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100608125414id_/http%3A//unitab.com/content/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unitab.com privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607194030id_/http%3A//unitab.com/content/info/privacy.html) for the most accurate reproduction.*
 
-# UNiTAB.com
+# TattsBet.com
 
-UNiTAB Limited and its related bodies corporate (collectively **UNiTAB** or **we** or **us** ) respect your privacy and are committed to protecting your personal information. This section tells you how we collect information when you visit this site and what we do with it.
+TattsBet Limited and its related bodies corporate (collectively **TattsBet** or **we** or **us** ) respect your privacy and are committed to protecting your personal information. This section tells you how we collect information when you visit this site and what we do with it.
 
 **What information do we collect about you**
 
@@ -16,9 +16,9 @@ In addition we may use your information to provide you with special offers, info
 
 **Who we share your personal information with**
 
-Apart from companies that are part of UNiTAB, and as may be required by law, we may also pass your personal information to organisations that are contracted to perform certain services for us. This includes Australia Post and mailing houses (including mailing houses that distribute emails).
+Apart from companies that are part of Tatts Group, and as may be required by law, we may also pass your personal information to organisations that are contracted to perform certain services for us. This includes Australia Post and mailing houses (including mailing houses that distribute emails).
 
-We do not disclose your personal information to organisations outside the UNiTAB group for their marketing purposes, although we may send you marketing information on their behalf.
+We do not disclose your personal information to organisations outside the Tatts Group for their marketing purposes, although we may send you marketing information on their behalf.
 
 **Use of Cookies**
 
