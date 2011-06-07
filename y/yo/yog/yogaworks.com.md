@@ -1,33 +1,31 @@
-> *The following text is extracted and transformed from the yogaworks.com privacy policy that was archived on 2008-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080422082415id_/http%3A//www.yogaworks.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yogaworks.com privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607193646id_/http%3A//yogaworks.com/Privacy-Policy.aspx) for the most accurate reproduction.*
 
-# YogaWorks - Privacy Policy
+# YogaWorks - Legal/Privacy Policy
 
-[Click here to view PDF](https://web.archive.org/web/20080422082415id_/http%3A//www.yogaworks.com/documents/YogaworksPolicy-FINAL04.11.08.pdf) 
+Choose Location
 
-YogaWorks is committed to protecting your privacy. 
+Search By Instructor
 
-Visitors to our web-site are completely anonymous. 
+[
 
-We do not collect any information from your computer 
+](https://web.archive.org/en/Yogashop.aspx)
 
-without your input.
+YogaWorks is committed to protecting your privacy. Visitors to our web-site are completely anonymous. We do not collect any information from your computer without your input.  In the event that we ask for personal information, for follow-up, you provide this information solely at your discretion. 
 
-In the event that we ask for personal information, for follow-up, 
+If you fill out an on-line survey you may choose to remain completely anonymous. YogaWorks will never share any personal information with any third parties. We will not rent, sell, disclose or distribute your information to any outside parties.  If this policy changes or is modified in any way, the amendments will be listed in this section of the Yogaworks website.
 
-you provide this information solely at your discretion. 
+Featured Pose
 
-If you fill out an on-line survey you may choose to remain 
+Anjaneyasana 
 
-completely anonymous. 
+Another name for this pose is Low Lunge.  It is a terrific stretch for runners.  Be careful to keep your knee directly over your ankle.
 
-YogaWorks will never share any personal information with 
+[](https://web.archive.org/Home/Contact.aspx?PROMO_ID={BC1BCFE0-BA7E-42C9-994D-13516E2DF9B7})
 
-any third parties. 
+Not a Member?
 
-We will not rent, sell, disclose or distribute your information 
+Learn More about Membership
 
-to any outside parties.
+Enjoy unlimited yoga and mindful fitness classes every month...
 
-If this policy changes or is modified in any way, the amendments 
-
-will be listed in this section of the Yogaworks website.
+[](https://web.archive.org/Home/Contact.aspx?PROMO_ID={83AC7527-2E82-4893-B5E5-F415EF2E9096})
