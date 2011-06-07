@@ -1,85 +1,85 @@
-> *The following text is extracted and transformed from the virgingames.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509105032id_/http%3A//www.virgingames.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virgingames.com privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607092740id_/http%3A//www.virgingames.com/privacypolicy.aspx%3Fprivacy%3Dpoker) for the most accurate reproduction.*
 
-# Virgin Games
+# None
 
-Here at Virgin Games, we're committed to ensuring that all your personal information that is collected is kept private and protected. We make sure that the Virgin Games website is absolutely secure in the collection and use of your personal information. 
+This privacy policy forms part of our website’s General Terms and Conditions. 
 
-You also have complete control over the information stored about you and what types of information, if any, you'd like to receive. Sometimes you may be asked to provide proof of identity before we show you your personal information - that's so we can prevent unauthorised access. We'll keep prying eyes out! 
+In addition to what is set out below, we are bound by applicable data protection legislation including the Data Protection laws of Malta, Guernsey and the UK. 
 
-**Staying in touch**
+We will protect your personal information and respect your privacy in accordance with best business practices and all applicable laws. We have adopted the following Privacy Policy which will apply to you when you use our Website:
 
-We'd love to hear from you. You can get in touch by visiting the [Contact us](http://www.virgingames.com/contactus.aspx) section, by [clicking here](http://www.virgingames.com/contactus.aspx) We'll give you contact information for all the Products that make up Virgin Games, including the Virgin casino, Virgin poker and Virgin bingo. Visit the [Contact us](http://www.virgingames.com/contactus.aspx) section if you have a general enquiry, customer service related enquiry or if you just want to say hi. 
+**"Personal Information"** shall be defined as any information about you which is personally identifiable, such as your name, address, telephone number, email address, birth date and billing information.
 
-For enquiries directly relating to the [www.virgingames.com](http://www.virgingames.com/) website, you can contact us by email or post using the following addresses: 
+Your Personal Information will be processed by Virgin Games Guernsey Limited and by other companies in the Virgin Games Group.
 
-Post:   
-The Webmaster,   
-Virgin Games   
-Landmark House,   
-Hammersmith Bridge Rd,   
-London, ENGLAND.   
-W6 9DA 
+Most Personal Information is supplied by you on a voluntary basis and some is gathered automatically by our systems such as statistical data on your use of our Website. If you do not wish to provide Personal Information on the basis set out in this Privacy Policy you should not complete the personal details in the spaces provided. However, in that case we regret that you will be unable to make full use of our Website. 
 
-Email: [support@casino.virgingames.com](mailto:support@casino.virgingames.com)
+By using our Website you acknowledge that you have read the terms of this Privacy Policy and that you consent to the use of your Personal Information for the purposes set our herein.
 
-If you'd like to alter any of the contact details we hold on you please refer to the Product where you registered and we'll be happy to help. 
+We may need to change this Privacy Policy from time to time to keep up with technological and/or legal requirements in order to provide you with the best possible service. Please ensure that you have read our most recent policy statement when you visit our Website.
 
-**Getting to know you**
+## How we may use Personal Information
 
-We collect personal details, such as your email address, your friend's email address if you are using our refer-a-friend scheme, your Flying Club number if you are taking part in the High Flyer Club when you choose to take part in either the Virgin Games refer-a-friend scheme or the Virgin casino High Flyer Club. 
+We will only use Personal Information we collect from you during the account registration process in the following ways:
 
-We'll only use your data to complete the task you have given us permission to do. For example if you enter your details into our refer-a-friend system then we will only use the information to facilitate contact between you and your friend. 
-
-In the case of refer-a-friend we will only ever contact your friend directly if they chose to sign up with one of the Virgin Games products and opt in to receiving marketing communication. All of the Virgin Games product suite (Casino, Poker, Bingo) give customers the option to either receive or not to receive marketing communications. 
-
-**Why we're interested**
-
-We will only collect information on you to carry out the action you have requested. These action are 1) Refer-a-friend 2) High Flyer points redemption. 
-
-We don't collect or keep your personal data unless it is strictly necessary for the above purposes. We don't keep it for longer than is necessary, either. 
-
-**Your secret's safe with us!**
-
-Your personal information will not be transferred to other companies without your consent, except: 
-
-  * as required by law 
-  * if you're a prize winner (we need to get your prize to you!) 
-  * if you've requested specific information
+  * To set up, operate and manage your account;
+  * to deliver our gaming service;
+  * to provide user support and payment services;
+  * to carry out necessary security and identity verification checks (including disclosure of information to third parties including financial institutions, age verification and credit reporting agencies);
+  * to process any of your online transactions;
+  * to complete a transaction initiated by you;
+  * to process any of your requests for information;
+  * to monitor website usage levels and the quality of the gaming service we provide;
+  * to inform you, from time to time, about products and services that we consider may interest you;
+  * to periodically send you written communications to announce important service changes, technical issue updates and changes to terms and conditions and/or rules;
+  * to comply with our regulatory duties, obligations and responsibilities with relevant regulators;
+  * to conform to legal requirements or comply with legal processes;
 
 
 
-We may use your personal data in order to analyse our customer base, and statistical information may be shared with third parties and other Virgin Group companies - but we'll keep it anonymous. 
+Occasionally we'll carry out some research on our database of people who have registered with us. We'll use this for internal purposes only. The main reason is to help us make sure that we provide you with everything that you - our audience - is looking for.
 
-We will **never** rent or sell our customer lists to any other organisation or individual. Customer lists may be used to process customer information and research customer's needs and preferences. 
+If you give us your consent by ticking the box when you register with us, then we may share your personal data with other Virgin Group companies so that they may contact you with any information they believe may be of interest to you. Or, we may send you details of goods, services, promotions and offers provided by other Virgin Group companies which we think may interest you.
 
-You should be aware that if our website contains links to other websites then these sites may have different privacy and security policies. We don't have any control over them, and take no responsibility. In particular please read and accept the privicy policies for each of the Products before playing them. 
+(hereinafter the "Purposes"). 
 
-A list of third parties and other Virgin Group companies that personal data may be shared with is available on request, just use the above contact details. 
+We will not sell, lease, share or disclose your Personal Information except as set forth in this Privacy Policy nor will we send you unsolicited information regarding any third party commercial offers or advertisements.
 
-**Outside the EU**
+Telephone calls, e-mails and live support chat logs to and from our Customer Services Team may be recorded for training and security purposes.
 
-You should be aware that countries outside the European Union may have a lower standard of protection for personal information than that required by the Data Protection Act 1998. If it is necessary to transfer your data to a company based outside the EU (e.g. for the purpose of completing a contract for your benefit) then we'll make every effort to ensure that your personal data is processed in accordance with the Data Protection Act 1998, as implementing the EU Directive on the Protection of Personal Data (95/46/EC), and any other Act or Acts replacing or modifying such Act for the time being in force, through the implementation of an agreement ensuring adequate protection of your personal data. 
+We may transfer your Personal Information in the event of business sale or insolvency.
 
-**Safe and sure**
+If at any time you wish us to stop processing your Personal Information for the above Purposes then please contact our [Customer Support Team](mailto:help@virgingames.com).
 
-Our website has security installed to ensure that any personal data entered onto the site is protected against loss, misuse or alteration. 
+We have the right to share your Personal Information with other Virgin Group companies, our affiliates, subsidiaries, agents and suppliers only for the Purposes set out above. All recipients of your Personal Information shall be bound by this Privacy Policy and applicable data protection and privacy laws to keep your Personal Information private.
 
-However, due to the nature of the Internet, we can't guarantee the protection of your personal information and we can't be responsible for any outcomes resulting from a breach of security when the website is used. 
+We will retain your Personal Information for a period of time after your last transaction and/or account closure in accordance with our legal and regulatory obligations after which time it will be securely destroyed.
 
-We're confident in our security, and it is always a top priority to ensure we do not have any problems. 
+## Overseas Transfer of your Personal Information
 
-**Cookies**
+Personal Information collected by us may be stored and processed in any country in which we or its affiliates, subsidiaries, supplies or agents maintain facilities. In connection with the provision of our services we may need to transfer data (including Personal Information) to other Virgin Games Group companies.
 
-We use "cookies" to store and collect information regarding your usage of the website. These types of cookies aren't the chocolate chip kind, they're small pieces of information stored by the browser on your computer's hard drive. They send information stored on them back to our web server when you access our website. These cookies do not contain any personally identifying information, but they do enable us to put in place personal settings and load your personal preferences. This makes it a better experience for you. 
+We also have the right to disclose your Personal Information to relevant recipients if we are required to do so by law, or if we believe in good faith that such disclosure is necessary to: (a) comply with any legal process served on the company or its gaming service; (b) protect and defend our rights and/or property; (c) protect the safety of other users of the gaming service or the public or; (d) investigate any suspected violations of our General Terms and Conditions or user guidelines or License Agreement, fraud or other similar and/or unlawful activity performed by you.
 
-**Keeping an eye on us!**
+## Cookies
 
-You can request, at any time, access to the personal information we hold about you. You should write to us at the above address requesting access to your personal information. You are entitled to be told by us, as the data controller, whether we or someone else on your behalf is processing your personal information; what personal information we hold; details of the purposes for the processing; and details of any third party to whom your personal information has been disclosed. 
+We use cookies to obtain non-personal information from on-line visitors to provide them with the best possible personalised on-line experience. Cookies are small markers sent by our web server to your web browser and they enable us to improve our Websites and better tailor them to meet your needs. We use cookies to analyse site usage, improve our content and product offerings and to customise promotional efforts, site content and layout. You can find out more about how Internet sites use cookies on [www.aboutcookies.org](http://www.aboutcookies.org/). 
 
-**In the future...**
+If you wish to turn off cookies, please consult the "Help" menu on the menu bar of most browsers, which will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive new cookies and how to prevent cookies altogether. If you do disable cookies, we may be unable to optimise your visit to our site and/or you may not be eligible for certain offers / promotions and your experience on our website could be hindered.
 
-This policy may change, and if it does, any changes will be identified on the Virgingames.com website. That way you'll always be fully aware of what information is collected, how it's used and under which circumstances it may be made available. 
+## Updating your information
 
-**Talk to us**
+If you wish to update your Personal Information you may do so at any time by contacting our Customer Support Team At the moment players may only amend info up to their first deposit. You may request a copy of your Personal Information held by us by contacting our [Customer Support Team](mailto:help@virgingames.com).
 
-If you have any queries, comments or complaints regarding this privacy policy, just get in touch! 
+## Contacting us
+
+If at any time you believe that we have not adhered to the principles contained with this Privacy Policy, please notify us by email at [help@virgingames.com](mailto:help@virgingames.com) and we will use all reasonable efforts to promptly identify and correct the problem.
+
+Questions regarding this Privacy Policy should be directed to [help@virgingames.com](mailto:help@virgingames.com) or by post to:
+
+Customer Support Manager  
+Virgin Games Guernsey Limited  
+c/o 3rd Floor  
+Landmark House  
+Hammersmith Bridge Road  
+London W6 9DR. 
