@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the labarchives.com privacy policy that was archived on 2010-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100827191213id_/http%3A//labarchives.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the labarchives.com privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607225348id_/http%3A//www.labarchives.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy | LabArchives, LLC.
+# Privacy | LabArchives Electronic Lab Notebook
 
 LabArchives, LLC knows that you care how information about you is used and shared and we appreciate your trust in us to do that carefully and sensibly. This notice describes our privacy policy.
 
