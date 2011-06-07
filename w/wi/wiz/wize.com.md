@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wize.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230222019id_/http%3A//wize.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wize.com privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607184355id_/http%3A//wize.com/privacy) for the most accurate reproduction.*
 
 # Wize Product Reviews Privacy Policy
 
@@ -140,6 +140,6 @@ If you have any questions about this Website Privacy Statement, the practices of
 
 Privacy Officer  
 Nextag, Inc.  
-1300 South El Camino Real, Suite 600  
-San Mateo, CA 94402  
-[LegalNotices@nextag.com](mailto:LegalNotices@nextag.com) ([click here](http://deals.nextag.com/serv/deal/serv/main/emailcampaign/optout.jsp) to opt out of receiving Nextag mailings) 
+2955 Campus Dr., Suite 300  
+San Mateo, CA 94403  
+[LegalNotices@nextag.com](mailto:&#76;&#101;&#103;&#97;&#108;&#78;&#111;&#116;&#105;&#99;&#101;&#115;&#64;&#110;&#101;&#120;&#116;&#97;&#103;&#46;&#99;&#111;&#109;) ([click here](http://deals.nextag.com/serv/deal/serv/main/emailcampaign/optout.jsp) to opt out of receiving Nextag mailings) 
