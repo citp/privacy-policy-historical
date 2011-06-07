@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the littleleague.org privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121000806id_/http%3A//www.littleleague.org/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the littleleague.org privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607054329id_/http%3A//www.littleleague.org/PrivacyPolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
