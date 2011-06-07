@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the princessauto.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206144043id_/http%3A//www.princessauto.com/index.php%3Foption%3Dcom_weblinks%26view%3Dweblink%26id%3D6%26catid%3D12) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the princessauto.com privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607033050id_/http%3A//www.princessauto.com/index.php%3Foption%3Dcom_weblinks%26view%3Dweblink%26id%3D6%26catid%3D12) for the most accurate reproduction.*
 
 # Privacy Policy
 
