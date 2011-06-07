@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mdlinx.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230101214id_/http%3A//usa.m3.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mdlinx.com privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607203938id_/http%3A//usa.m3.com/privacy-policy.html) for the most accurate reproduction.*
 
 # M3 USA - Privacy Policy
 
@@ -70,6 +70,10 @@ Users may unsubscribe to any of our electronic newsletters or discussion lists a
 ### Opt-in Announcement List Privacy Policy
 
 When you register for our services you may be given the option of joining an opt-in list. If you choose to sign up, you will receive information or participate in campaigns relevant to the specialty you selected from select third parties who have entered into agreements with us. You may have your email address removed from our opt-in announcement lists at any time by deselecting the opt-in list option. M3 is not responsible for the content of emails you may receive when you have elected to opt-in to a particular opt-in list. 
+
+### Dispute Resolution and EU Safe Harbor Statement
+
+M3 participates in the EU Safe Harbor Privacy Framework as set forth by the United States Department of Commerce. As part of our [participation](https://www.export.gov/safehrbr/list.aspx) in the safe harbor, we have agreed to TRUSTe dispute resolution for disputes relating to our compliance with the Safe Harbor Privacy Framework. If you have any complaints regarding our compliance with the Safe Harbor you should first contact us (as provided above). If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by [Internet here](http://watchdog.truste.com/pvr.php?page=complaint&url=), fax to 415-520-3420, or mail to Watchdog Complaints, TRUSTe, 55 2nd Street, 2nd Floor, San Francisco, CA, USA 94105. If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe's dispute resolution process, click [here](http://watchdog.truste.com/pvr.php?page=complaint&url=) or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English. 
 
 ##### Mailing Address
 
