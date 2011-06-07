@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pokemon.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121102426id_/http%3A//www.pokemon.com/us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pokemon.com privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607055142id_/http%3A//www.pokemon.com/us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pokemon.com
 
@@ -12,7 +12,7 @@ Our Privacy Commitment
 
 Pokémon respects the privacy rights of our online visitors and recognizes the importance of protecting all information that you may choose to share with us.
 
-We also recognize the need to provide additional protections for children who visit our Websites. To learn about our privacy protections for kids under the age of 13, [click here](http://www.pokemon.com/us/privacy-policy/) to read Pokémon's Kids Privacy Policy.
+We also recognize the need to provide additional protections for children who visit our Websites. To learn about our privacy protections for kids under the age of 13, [click here](http://www.pokemon.com/us/privacy-policy/#kids) to read Pokémon's Kids Privacy Policy.
 
 This Privacy Policy and the certification seal shown on this page confirms that Pokémon is a member in good standing of [ESRB's Privacy Online Program](http://www.esrb.org/privacy/index.jsp). The [ESRB's Privacy Online Program](http://www.esrb.org/privacy/index.jsp) is designed to ensure that our websites' information disclosure practices are responsible and appropriate. To protect your privacy, we have voluntarily undertaken this privacy initiative and all of our websites have been reviewed and certified by ESRB Privacy Online to meet established online information collection and use practices. As part of this privacy program, we are subject to frequent audits of our websites and other enforcement and accountability mechanisms administered independently by the ESRB.
 
