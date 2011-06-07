@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the escrow.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216091512id_/https%3A//escrow.com/resources/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the escrow.com privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607121339id_/https%3A//www.escrow.com/resources/privacy_policy.asp) for the most accurate reproduction.*
 
 # Escrow.com: Privacy Policy
 
@@ -40,7 +40,7 @@ Changes to Your Account
 
 Escrow.com gives you the ability to change or edit your personal information contained in your profile.
 
-Additionally, Escrow.com gives you the opportunity to deactivate your account if you choose. Contact us by filling out the [customer support form](https://web.archive.org/web/20101216091512id_/https%3A//escrow.com/support/support_form.asp) and request the deactivation of your account. If you have active transactions open, your account will be deactivated after your transactions have been resolved.
+Additionally, Escrow.com gives you the opportunity to deactivate your account if you choose. Contact us by filling out the [customer support form](https://web.archive.org/web/20110607121339id_/https%3A//www.escrow.com/support/support_form.asp) and request the deactivation of your account. If you have active transactions open, your account will be deactivated after your transactions have been resolved.
 
 We reserve the right to retain information after you have deactivated your account or information that you have requested to be removed in order to comply with applicable law, resolve disputes and enforce our rights.
 
