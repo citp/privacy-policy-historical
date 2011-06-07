@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netgalley.com privacy policy that was archived on 2010-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101207015816id_/http%3A//netgalley.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netgalley.com privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607033508id_/http%3A//www.netgalley.com/about/privacy) for the most accurate reproduction.*
 
 # NetGalley : Privacy Policy
 
