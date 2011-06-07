@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hyperboards.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125213608id_/http%3A//www.hyperboards.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hyperboards.com privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607024201id_/http%3A//www.hyperboards.com/privacy) for the most accurate reproduction.*
 
-# Hyperboards.com - free forum and message board hosting.
+# Privacy Policy - Free Forums - Hyperboards
 
   * The privacy policy was last updated on May 23rd, 2009.
 
