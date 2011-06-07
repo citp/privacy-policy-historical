@@ -1,8 +1,36 @@
-> *The following text is extracted and transformed from the adb.org privacy policy that was archived on 2010-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101208072922id_/http%3A//www.adb.org/help/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adb.org privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607023819id_/http%3A//www.adb.org/help/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - ADB.org
 
+| | [Main](https://web.archive.org/Help/default.asp)  
   
+---|---  
+| [First Time Visitors](https://web.archive.org/Help/FirstTime/default.asp)  
+  
+| [What's New](https://web.archive.org/Help/whatsnew.asp)  
+  
+| [RSS Feeds](https://web.archive.org/RSS/default.asp)  
+  
+| [Site Map](https://web.archive.org/Help/sitemap.asp)  
+  
+| [Style Guide](https://web.archive.org/Documents/Handbooks/Style_Usage/default.asp)  
+  
+| [How to Use the Search](https://web.archive.org/Help/search.asp)  
+  
+|  **[Privacy Policy](https://web.archive.org/Help/privacy.asp)  
+**  
+| [ Terms of Use](https://web.archive.org/Help/terms.asp)  
+  
+| [Communities and Networks](https://web.archive.org/help/communities-networks.asp)  
+  
+  
+* * *  
+  
+| [Preview the New ADB.org](https://web.archive.org/Help/preview.asp)  
+  
+| |   
+  
+|    
 
 
   * Choice/Opt-Out
