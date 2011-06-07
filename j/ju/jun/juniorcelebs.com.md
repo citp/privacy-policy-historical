@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the juniorcelebs.com privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214070249id_/http%3A//crushable.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the juniorcelebs.com privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607112040id_/http%3A//crushable.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy « : Crushable - Crushable gives you the celebrity news, style and scoop on the stuff you care about.
 
