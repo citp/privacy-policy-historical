@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldprofit.com privacy policy that was archived on 2010-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101109014139id_/http%3A//site.worldprofit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldprofit.com privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607193913id_/http%3A//site.worldprofit.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Worldprofit.com
 
