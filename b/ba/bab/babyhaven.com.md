@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the babyhaven.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620103214id_/http%3A//www.babyhaven.com/content/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babyhaven.com privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607040035id_/http%3A//www.babyhaven.com/site/content.aspx%3Fsection%3Dprivacy) for the most accurate reproduction.*
 
-# BabyHaven.com Privacy Policy
+# Baby Products, Strollers, Baby Safety
 
 |  Babyhaven.com takes the privacy and security of our customers very seriously. We take all possible precautions and safety measures to make sure that each customer enjoys a safe and secure shopping experience. 
 
