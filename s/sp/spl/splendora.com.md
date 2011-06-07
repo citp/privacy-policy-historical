@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the splendora.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230183147id_/http%3A//www.splendora.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the splendora.com privacy policy that was archived on 2011-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110608004735id_/http%3A//www.splendora.com/privacy) for the most accurate reproduction.*
 
 # Terms of Service and Privacy Policy | Splendora
 
