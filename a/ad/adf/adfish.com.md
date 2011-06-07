@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adfish.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231233941id_/http%3A//www.adfish.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adfish.com privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607035643id_/http%3A//www.adfish.com/privacy.php) for the most accurate reproduction.*
 
 # AdFish
 
