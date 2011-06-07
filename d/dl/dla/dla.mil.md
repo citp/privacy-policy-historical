@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dla.mil privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206120044id_/http%3A//www.dla.mil/policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dla.mil privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607051830id_/http%3A//www.dla.mil/policy.aspx) for the most accurate reproduction.*
 
 # Defense Logistics Agency - DLA Privacy and Security Notice
 
