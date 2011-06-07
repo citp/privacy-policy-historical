@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the merriam.com privacy policy that was archived on 2010-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100408193116id_/http%3A//www.merriam-webster.com/info/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the merriam.com privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607033543id_/http%3A//www.merriam-webster.com/info/privacy.htm) for the most accurate reproduction.*
 
 # Merriam-Webster Online
+
+## _Updated September 27, 2010_
 
 Merriam-Webster is committed to respecting the privacy of visitors to its Web sites. The guidelines below explain how we protect the privacy of visitors to Merriam-Webster OnLine and its features.
 
@@ -10,7 +12,7 @@ Merriam-Webster protects the identity of visitors to Merriam-Webster OnLine by l
 
 Merriam-Webster does not knowingly collect or solicit personally identifiable information from or about children under 13, except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe Merriam-Webster has any information from or about anyone under 13, please e-mail us at [privacy@m-w.com](mailto:privacy@m-w.com).
 
-All personally identifiable information collected through Merriam-Webster OnLine is used by Merriam-Webster and its staff to process and manage subscriptions, track site usage patterns and statistics, or to deliver services through the site; such information may also be used by the company for market research or for prize or information-request fulfillment unless otherwise indicated. Such information will not be posted or published by us, and, except as specified below in this privacy policy regarding anonymous aggregated data, or to provide services to you on behalf of Merriam-Webster OnLine, it will not be provided to third-party providers without consent.
+All personally identifiable information you provide to us for subscriptions through Merriam-Webster OnLine is used by Merriam-Webster and its staff to process and manage subscriptions, analyze the demographic of our subscribers, or to deliver services through the site; such information may also be used by the company for prize or information-request fulfillment unless otherwise indicated. Such information will not be posted or published by us, and will be shared with third parties only for the purpose of payment processing.
 
 If you choose to provide personally identifiable information to us, you may receive the following types of e-mails from us:
 
@@ -29,7 +31,7 @@ Merriam-Webster may also disclose personally identifiable information in special
 
 ## Anonymous Information
 
-Anonymous aggregated data may be provided to other companies we do business with for statistical or market research purposes. For example, we may report to advertisers that a certain percentage of our site's visitors are adults between the ages of 25 and 35.
+Anonymous aggregated data may be provided to other companies we do business with for statistical purposes. For example, we may report to advertisers that a certain percentage of our site's visitors are adults between the ages of 25 and 35.
 
 ## Cookies—Use by Merriam-Webster; Opting Out
 
@@ -41,13 +43,20 @@ A beacon is an electronic file object (typically a transparent image) placed in 
 
 Merriam-Webster uses the services of one or more third parties to present or target the advertisements, promotions, and other marketing messages that you may see on various Web pages,to conduct research about such advertisements, promotions, and other marketing messages, and to analyze visits to this and other Web sites. To do this, such third-party providers may collect anonymous data through the use of cookies, beacons, and by other means. Merriam-Webster does not permit any of these companies to collect personally identifiable information about visitors to Merriam-Webster OnLine using cookies or beacons or any other means. Our Privacy Policy does not cover any use of information that such third parties may have collected from visitors or the method used by such third parties to collect that information (e.g., cookies and beacons). If you would like more information about this practice or to opt out of having this information used by companies that are part of the Network Advertising Initiative to provide targeted ads, please visit [http://www.networkadvertising.org](http://www.networkadvertising.org/). 
 
-To manage browser cookies, please see your browser's privacy settings. To manage Flash cookies, please use the Adobe Flash Player Settings Manager here:
+Merriam-Webster's ad server, AdTech, uses cookies to prevent you from seeing the same ad too many times. You can opt out of Ad Tech cookies by following this link: <http://www.adtechus.com/privacy/>
 
+Merriam-Webster works with several ad networks that use cookies or beacons to provide you with ads that are relevant to you. The cookies and beacons of many networks, including Collective Media, can be opted out of on the NAI site above. Others can be opted out of through the links below: 
+
+Adconion <http://www.adconion.com/us/privacy-policy/the-adconion-cookie.html>
+
+DoubleClick <http://www.doubleclick.com/privacy/faq.aspx>
+
+Google <http://www.google.com/privacy_ads.html>
+
+To manage or delete browser cookies, please see your browser's privacy settings.
+
+To manage or delete Flash cookies, please use the Adobe Flash Player Settings Manager here:  
 <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>
-
-## Google AdSense Advertising Cookie and Privacy Policy
-
-The [DoubleClick DART cookie](http://www.doubleclick.com/privacy/faq.aspx) is used by Google in the ads served on Merriam-Webster OnLine. When you visit Merriam-Webster Online and either view or click on an ad, a cookie may be dropped on your browser. The data gathered from this cookie will be used to help AdSense publishers better serve and manage the ads on their site(s) and across the web. Google's use of the DART cookie enables it to serve ads to you based on your visits to Merriam-Webster Online and other sites on the Internet. Visitors may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
 ## Security
 
