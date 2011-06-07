@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easydriverpro.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227054750id_/http%3A//www.easydriverpro.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easydriverpro.com privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607210409id_/http%3A//www.easydriverpro.com/privacy.php) for the most accurate reproduction.*
 
 # Easy Driver Pro - Privacy Policy
 
@@ -13,6 +13,8 @@ This website utilizes industry standard analytics packages which gathers limited
 Additionally, cookies may be used to provide easier and faster access to website features such as logins and/or repeat visits. Cookies are very small text files that are stored on personal computers for reference purposes. We do not link the information we store in cookies to any personally identifiable information you have submitted while on our site.
 
 We use both session ID cookies and persistent cookies. A session cookie expires when your browser is closed, and a persistent cookie may stay on your hard drive for an extended period. Session cookies make it easier for you to navigate our site; persistent cookies can perform such activities as storing your password for forums or blogs so you do not have to sign in every time you visit those areas, and/or may be used to enable us to track and target the interests of our users so as to enhance the overall experience of using our site.
+
+We use remarketing tags which means that third party vendors, including Google, show our ads on sites on the internet and use cookies to serve ads based on a user's prior visits to our website. You may opt out of Google's and other vendor's use of remarketing cookies by visiting [Google advertising opt-out page](http://www.google.com/privacy/ads/) or/and [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/managing/opt_out.asp).
 
 We have no access to or administration abilities over any cookies that are used by any advertisers on our site. 
 
@@ -49,4 +51,4 @@ If you have any questions or concerns regarding this privacy policy, or you wish
 
 support(at)easydriverpro.com
 
-This privacy policy was last updated on April 25, 2010.
+This privacy policy was last updated on May 01, 2011.
