@@ -1,99 +1,97 @@
-> *The following text is extracted and transformed from the creditscore.com privacy policy that was archived on 2010-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101113181647id_/http%3A//www.creditscore.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creditscore.com privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607062218id_/http%3A//www.creditscore.com/privacy-policy) for the most accurate reproduction.*
 
-# CreditScore.com | Privacy Policy
+# Privacy Policy | CreditScore
 
-##  Last updated: July 30th, 2009. To see what has changed, [ click here]().
+[](https://web.archive.org/Default "freecreditreport.com\(TM\) from Experian\(R\)")  
+  
+| 
 
-Welcome! We are committed to maintaining the privacy and security of your personal information. This Privacy Policy provides information about our privacy practices and applies to all information collected on this site. Our Privacy Policy may change periodically as we respond to evolving technology, changes in our products or services and/or consumer needs and expectations.
+|   
+---  
+  
+_Last Revised: 1/14/2010_
 
-##  Types of information we collect
+ConsumerInfo.com, Inc. ("we" or "us") wants you to be familiar with what information we collect about you, how the information is being used and what choices you have regarding the collection and use of the information. This Privacy Policy (the "Policy") describes our practices in connection with information that we collect through our websites (collectively, the "Site"). Please take a moment to review this Policy and feel free to contact us with any questions at 1-877-297-7793.
 
-###  Anonymous Information
+By using the Site, you agree to the terms of this Policy. If you do not agree to the terms of this Policy, please do not use the Site. We reserve the right to change this Policy without prior notice. You agree to obtain annual notices of, and changes to, this Policy electronically by visiting this Site. You can determine when this Policy was last revised by referring to the "Last Revised" legend at the top of this page. Any changes to our Policy will become effective upon our posting of the revised Policy on the Site. Use of the Site following such changes constitutes your acceptance of the revised Policy then in effect. Therefore, we encourage you to review this Site from time to time for changes to our Policy.
 
-Anonymous information refers to information that cannot be linked to a specific individual. Anonymous information is analyzed and used to make general improvements to our web site and the services we provide. We may collect anonymous information either directly or from a third-party. The anonymous information we collect may include, but is not limited to:
+**WHAT TYPES OF INFORMATION DO WE COLLECT ABOUT YOU?**  
+We collect personal information and non-personal information through the Site. Personal information is information that identifies you as an individual. Non-personal information is aggregated information, demographic information, IP addresses and any other information that does not reveal your specific identity.
 
-  * The browser and operating system used
-  * Which of our web pages is visited and for how long
-  * Search terms used to find our web site
-  * Date and time the site is accessed
-  * Length of time spent on our web site
+_**Personal information.**_ We may collect the following types of personal information: 
 
-
-
-Additionally, we may take your personally identifiable information and make it non-personally identifiable, either by combining it with information about other individuals or by removing items such as your name or address that make the resulting information personally identifiable to you. Once information is de-personalized in this manner, there are no restrictions under this Privacy Policy upon our rights to aggregate or de-personalize your personal information, and we may use and/or share the resulting non-personally identifiable information with third-parties in any manner.
-
-###  Personally Identifiable Information
-
-Personally identifiable information refers to information that can be linked to a specific individual. We collect your personal information only if you decide to register for, log on, or visit our web sites, purchase one of our products or services, participate in a free trial or other promotional program, participate in our affiliate program, subscribe to our newsletter, participate in one or more of our contests or surveys, request further information related to promotional offers on our site, or transact other business with us. Personally identifiable information may be collected on applications, forms and in correspondence (written or oral). Personally identifiable information may include, but is not limited to:
-
-  * Name (first and last)
-  * Address (current and previous home and/or billing)
-  * Email address
-  * Telephone numbers
-  * Social Security number
-  * Date of birth
-  * Employment information
-  * Credit card information
-  * Information in your credit report (used to verify identity)
-  * At times, we may also use IP addresses to collect information regarding visits to various parts of our web sites
+  * Information provided by you when ordering credit-related products through the Site. For example, you will be required to submit personal information such as your name, address, social security number, date of birth, telephone number and e-mail address.
+  * Information provided about your children when enrolling your children in child identity monitoring products. For example, as a legal guardian, you will be required to submit the child's first and last name, Social Security number, and date of birth in order to register that child in identity monitoring with the credit bureau.
+  * Credit and debit card account information collected from you or your credit reports when enrolling in our card registry product. For example, we will collect credit and debit card account information from you on our sites, over the phone, and from your credit reports from the three national credit reporting companies in order to cancel the cards per your request in the event that they are lost or stolen. 
+  * When you make a purchase through the Site, we may collect your credit card number or other payment account number, billing address and other information related to such purchase (collectively, **"Payment Information"** ) from you.
+  * Other information we collect, such as city of birth and mother's maiden name, is used to verify your identity in the event you forget your login information required for our online products.
+  * Information you provide us through customer service correspondence and general feedback.
 
 
 
-In general, personally identifiable information is used for the purpose for which you provide it. Certain services offered through us cannot be provided without personally identifiable information. Specifically, personally identifiable information is used to verify the identity of the one requesting access to a credit report to ensure that no one else has access to your credit report.
+_**Non-Personal information.**_ When you visit the Site, we may collect non-personal information, such as a catalog of the Site pages you visit. Non-personal information is generally collected through the Site from the following sources: server log files, environmental variables, cookies, pixel tags and other similar technologies and information that you voluntarily provide. 
 
-Our web sites may also use a variety of technical methods for tracking purposes, including tracking pixels. Tracking pixels are small pieces of data that are embedded in images on the pages of web sites. These technical methods are used to analyze the traffic patterns on our web sites, such as how often our users visit various parts of our web sites. These technical methods may involve the communication of information either directly to us or to another party authorized by us to collect information on our behalf. We may also use these technical methods in HTML emails that we send our visitors to determine whether they have opened those emails and/or clicked on links in those emails. The information obtained from the use of these technical methods may be collected in a form that is personally identifiable.
-
-###  How We Share Your Information
-
-When you order a product or service through us, we must share some of your personally identifiable information with third-parties in order to fulfill your order. We cannot, for example, retrieve your credit report or credit score without sharing your personal information with the provider of that service. We cannot process your order payment without sharing personal information with our credit card payment processor. These third-parties are not permitted to use your personal information for any purpose other than to provide the requested service.
-
-We may also share your information with affiliated and non-affiliated third-parties to offer products or services that may be of interest or benefit to our customers. If you prefer not to receive such offers, you may indicate your preference when you place an order, when you receive such an offer or by updating your account information.
-
-Additionally, if you choose, we may disclose information that is collected about you to our affiliated and non-affiliated third-parties for purposes of marketing and to provide you with offers as to products we feel may be in furtherance of your interest. To the extent that you express interest in certain products or categories of products, we may also provide you with the opportunity to obtain additional information and offers as to those products. If you do not wish to receive such offers, you may opt-out. New members may opt-out during initial enrollment and existing members must contact us directly to opt-out. Please note that we cannot be responsible for the privacy policies of any web site, or vendor other than ourselves.
-
-We may also disclose your personal information when we believe in good faith that such disclosures are required by law, or will help to: enforce our Terms of Use; enforce contest, sweepstakes, promotions, and/or game rules; protect your safety or security, including the safety and security of property that belongs to you; and/or, protect the safety and security of our web sites, our company(ies), and/or third-parties, including the safety and security of property that belongs to us or third-parties.
-
-###  Former Customers
-
-Even if you are no longer our customer, our Privacy Policy will apply to you.
-
-###  Security
-
-We maintain strict physical, technical and administrative standards to protect the personal information we collect and use to provide our services. Information is encrypted and transmitted via a Secure Sockets Layer (SSL). Pages which use this technology can be identified by "https" at the beginning of the URL. Additional procedures are in place to protect your information from unauthorized access. This includes, but is not limited to, internal and external firewalls and physical security of the premises.
-
-Consumers who use our web sites and services can further enhance the security of their information by following reasonable personal security measures. This would include safeguarding your password and not leaving your information on an unattended computer.
-
-###  Cookies
-
-What Is A Cookie?
-
-We use cookies to enhance the navigation of our site and delivery of our services. Examples of how we use cookies include, but are not limited to:
-
-  * Providing a personalized greeting when you return to the web site
-  * Gathering data about the use of our web site
-  * Storing your preferences relating to marketing offers
+  * **Server Log Files.** Your Internet Protocol (IP) address is a number that is automatically assigned to the computer that you are using by your Internet Service Provider (ISP). This number is identified and logged automatically in our server log files whenever you visit the Site, along with the time(s) of your visit(s) and the page(s) that you visited. We use your IP address, and the IP addresses of all users, for purposes such as calculating Site usage levels, helping diagnose problems with the Site's servers, and administering the Site. Collecting IP addresses is standard practice on the Internet and is done automatically by many websites.
+  * **Environmental Variables.** We and our service providers may also collect certain environmental variables, such as computer type (Windows or Macintosh), screen resolution, OS version, Internet browser, and Internet browser version. These environmental variables are collected by most browsers, and can be used to optimize your experience on the Site.
+  * **Cookies and Similar Technologies.** We, our service providers, and/or non-affiliated Third-parties, may use "cookies" or similar technologies on the Site. Cookies are data that a web server transfers to an individual's computer for recordkeeping purposes. Cookies are an industry standard used by many websites, and can facilitate your ongoing access to and use of a particular website; cookies do not cause damage to your computer systems or files. If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows you to automatically decline cookies, or to be given the choice of declining or accepting the transfer of a particular cookie, or cookies from a particular website, to your computer. Additionally, please see the "Your Choices" section below for instructions on how to opt-out of sharing certain information related to the use of cookies.
+  * **Pixel Tags.** We, our service providers, and/or non-affiliated Third-parties, may also use so-called "pixel tags," "web beacons," "clear GIFs" or similar means (collectively, **"Pixel Tags"** ) in connection with some Site pages and HTML-formatted e-mail messages to, among other things, compile aggregate statistics about Site usage and response rates. A Pixel Tag is an electronic image, often a single pixel (1x1), that is ordinarily not visible to Site visitors and may be associated with Cookies on the visitors' hard drives. Pixel Tags allow us to count users who have visited certain pages of the Site, to deliver branded services, to provide online advertising, and to help determine the effectiveness of promotional or advertising campaigns. When used in HTML-formatted e-mail messages, Pixel Tags can tell the sender whether and when the e-mail has been opened.
+  * **Information That You Voluntarily Provide.** We also collect non-personal information (e.g., your geographic location, etc.) when you voluntarily provide such information to us. When such information is not combined with any personal information, such information is considered to be non-personal information, as it does not personally identify you or any other user. Additionally, we may aggregate personal information in a manner such that the end-product does not personally identify you or any other user of the Site, for example, by using personal information to calculate the percentage of our users who have a particular telephone area code. Such aggregate information is considered non-personal information for purposes of this Policy.
+  * Please note that if we combine any non-personal information with personal information, the combined information will be treated by us as personal information as long as it is so combined.
 
 
 
-We may use cookies to identify you as a recipient of a marketing offer. Any such offer will contain instructions for opting out of future offers. We may also use a third-party tracking service that uses cookies to gather anonymous statistics about the use of our web site.
+**HOW DO WE USE THE INFORMATION COLLECTED?**  
+_**Personal Information.**_ We may use personal information we collect in the following ways: 
 
-We do not use cookies to collect information about your Internet activity on any web site other than on our site.
+  * **Fulfillment of Requests.** We may use personal information collected about you to provide you with products, services or information that you request.
+  * **Administrative Communications.** From time to time we may use personal information to send to you important information regarding the Site, or changes to our terms, conditions, and policies. Because this information may be important to your use of the Site, you may not opt-out of receiving such communications.
+  * **Other Communications.** From time to time, we may use personal information to inform you of products, programs, services and promotions that we believe may be of interest to you. If you would prefer that we do not send such email marketing messages to you, please see the "Your Choices" section below.
+  * **Purchases.** We may use personal information, including Payment Information in order to fulfill your purchase.
+  * **Promotions.** We may operate sweepstakes, contests and similar promotions (collectively, **"Promotions"** ) through the Site. We typically ask you for certain personal information when you enter and, if applicable, win a Promotion. You should carefully review the rules, if any, of each Promotion in which you participate through the Site, as they may contain additional important information about our use of personal information. To the extent that the terms and conditions of such rules concerning the treatment of personal information conflict with this Policy, the terms and conditions of such rules will control.
+  * **Internal Business Purposes.** We may also use personal information for our internal business purposes, such as data analysis and audits. In addition, we may also use personal information to enhance our information and to aid us in providing our customers with targeted promotions.
 
-If you have chosen to reject cookies, you will not be able to use all features of our site.
 
-###  Notification of Changes to this Privacy Policy
 
-We may amend this Privacy Policy at any time, but will notify users in advance of any material change, by posting a notice of the change in a prominent position on the home page of the our web site. If the amendment would permit us to share your personal information with third-parties in a manner materially different than described in this Privacy Statement, unless required by law or court order or in order to safeguard the operations of our site or our customers, you will be given an opportunity to inform us that you do not consent to such sharing of your personal information.
+_**Non-Personal Information.**_ Because non-personal information does not personally identify you, we may use such information for any purpose. In addition, we reserve the right to disclose such non personal information to other third parties, for any purpose.
 
-###  Possible Merger or Acquisition
+In some instances, we may combine non-personal information with personal information. If we combine any non-personal information with personal information so that it personally identifies you, the combined information will be treated by us as personal information as long as it is combined.
 
-In the event we go through a business transition, such as a merger, acquisition by another company, or sale or disposal of all or a portion of our assets, your personally identifiable information will likely be among the assets transferred. The acquirer's privacy policy might be different than our privacy policy or the acquirer might choose to amend our privacy policy. You will be notified by means of notice on our sites for thirty (30) days of any such change in ownership or control of your personal information. For more information, please refer to the section labeled "Notification of Changes to this Privacy Policy," above.
+We may, along with our affiliates and marketing partners enhance and/or merge personal information about you with data collected from other sources and use it in direct and/or online marketing and, to the extent permitted by law, individual reference and look-up service programs. In the event we enhance and/or merge such personal information with data collected from other sources, we will take reasonable steps to maintain the integrity and quality of that information.
 
-###  Contact us
+**DO WE DISCLOSE INFORMATION TO THIRD PARTIES?**  
+We may disclose information about you to affiliated and non-affiliated third parties. 
 
-You may contact us with comments or questions regarding our Privacy Policy at [support@creditreport.com](mailto:support@creditreport.com). Or, write to us at:
+  * **Affiliates.** We may disclose the information that we collect to our affiliated companies to provide the products you request, to enhance our products to better suit your needs, and from time to time for marketing purposes.
+  * **Business Partners.** We may partner with other companies to offer you products or services or to fulfill the products or services that you order. We may disclose personal information and/or non-personal or de-identified information collected about you to such third-party partners for the purposes described in this Policy.
+  * **Service Providers.** We work with third parties who provide services including but not limited to data analysis, order fulfillment, list enhancement and other administrative services. We may disclose personal information to such third parties for the purpose of enabling these third parties to provide services to us. Such services may include: marketing distribution, email list management services, advertising, certain product functionalities, customer support, web hosting, customer data management and enhancement, fulfillment services (e.g., companies that fill product orders or coordinate mailings), research and surveys, data analysis and email service.
+  * **Assignment.** We reserve the right to transfer any and all information that we collect from Site users to an affiliate or a third party in the event of any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets or stock (including without limitation in connection with any bankruptcy or similar proceedings).
+  * **Law enforcement; emergencies; compliance; other purposes permitted by law.** Notwithstanding any other provision of this Policy to the contrary, we reserve the right to disclose personal information to others as we believe appropriate (a) to comply with legal process; (b) to respond to governmental requests; (c) to enforce our Terms of Use; (d) to protect the rights, privacy, safety or property of ConsumerInfo.com, Inc., our affiliated companies, you or others; (e) to permit us to pursue available remedies or limit the damages that we may sustain; and (f) for any other purpose permitted by applicable law.
+  * **Aggregate, Non-Personal, or De-identified Information.** We may share aggregated information (i.e., information about you and other customers collectively, but not specifically identifiable to you) and other non-personal, de-identified, or anonymous information we collect with third parties, including affiliates to develop and deliver targeted advertising on our Site and on the websites of third parties. If you would prefer that we do not utilize cookies with your website experience, or would prefer to restrict the use of cookies with network advertising partners, please see the "Your Choices" section below.
 
-RE: Privacy Policy  
-Mighty Net, Inc.  
-P.O. Box 1829  
-Agoura Hills, CA 91376-1829 
+
+
+**YOUR CHOICES**  
+You have choices when it comes to updating your information, learning about new offers or products offered by us, our partners or affiliates. If you do not wish to receive offers of products from us, our partners or affiliates, here are the methods in which you can opt out: 
+
+  * **ConsumerInfo.com, Inc. Commercial Email.** If you prefer not to receive emails from us about offers and Promotions please unsubscribe via the unsubscribe link in an email, or contact us at 1-877-297-7793. Alternatively, you may opt-out of commercial email directly on the order form while placing a new order.
+  * **Cookies.** Subject to the section above pertaining to cookies and similar technologies, you have the ability to prohibit being served an advertisement based on cookie technology. We utilize reputable third-party vendors to serve advertisements. If however, you are not comfortable with cookies, you can adjust the settings within your browser to further prohibit being served a cookie. Please see the browser's instructions to perform this task. Additionally, the Network Advertising Initiative (NAI) has developed an opt-out tool with the express purpose of allowing consumers to "opt-out" of the targeted advertising delivered by its member networks. We may share anonymous or de-identified information with such member networks for the purposes of delivering targeted advertising; however you may visit the NAI opt-out page and opt-out of this cookie tracking if you do not wish to receive targeted advertising. Please visit: <http://www.networkadvertising.org/optout_nonppii.asp> for more information.
+  * **Changing information.** Corrections or updates to your information including your email address, phone number, mailing address, credit card information or password reminder phrase can be made through the edit profile section of your account on the Site. If necessary, other corrections or updates to your information can be made by contacting a customer care representative at 1-877-297-7793. For your protection, our customer care representatives may request supporting documents before making any changes or updates to your membership information.
+
+
+
+We will endeavor to comply with your request as soon as reasonably practicable. Please note that if you opt-out as described above, we will not be able to remove personal information about you from the databases of third parties with which we have already disclosed personal information as of the date that we implement your opt-out request. If you wish to cease receiving marketing-related e-mails from third parties, please contact such third parties directly or utilize any opt-out mechanisms set forth in their respective privacy policies or marketing-related emails.
+
+**HOW DO WE PROTECT YOUR INFORMATION?**  
+We have security measures and tools, such as firewalls, in place to help protect against the loss, misuse and alteration of the information under our control. Unfortunately, no data transmission over the Internet or data storage system can be guaranteed to be 100% secure. If you have reason to believe that your interaction with us is no longer secure (for example, if you feel that the security of any account you might have with us has been compromised), please notify us of the problem as soon as possible by contacting us in accordance with the Section "Contacting Us" below (note that if you choose to notify us via physical mail, this will delay the time it takes for us to respond to the problem).
+
+**LINKS**  
+The Site may contain links to third-party websites. These linked sites are not under our control and we are not responsible for the privacy practices or the contents of any such linked site, or any link contained in any linked site. We provide such links only as a convenience, and the inclusion of a link on the Site does not imply endorsement of the linked site by us. If you provide any personal information through any such third-party website, your transaction will occur on the third party's website (not the Site) and the personal information you provide will be collected by, and controlled by the privacy policy of, that third party. We recommend that you familiarize yourself with the privacy policies and practices of any third parties. PLEASE NOTE THAT THIS POLICY DOES NOT ADDRESS THE PRIVACY OR INFORMATION PRACTICES OF ANY THIRD PARTIES.
+
+**LOCATION**  
+We control and operate the Site from the United States, and the Site is not intended to subject us to the laws or jurisdiction of any state, country or territory other than that of the United States. We do not represent or warrant that the Site, or any part thereof, is appropriate or available for use in any particular jurisdiction. Those who choose to access the Site do so on their own initiative and at their own risk, and are responsible for complying with all local laws, rules and regulations. We may limit the Site's availability, in whole or in part, to any person, geographic area or jurisdiction we choose, at any time and in our sole discretion.
+
+**A SPECIAL NOTE REGARDING INDIVIDUALS UNDER 18 YEARS OLD**  
+The Site is not directed to individuals under the age of eighteen (18), and we request that such individuals not provide personal information through the Site. If you are under 18 years of age, you may browse our Site; however, you may not provide personal information to us such as name, address, or email address, and you may not register for, enroll in, and/or make product purchases.
+
+**CONTACTING US**  
+If you have any questions regarding this Policy, please contact us at 1-877-297-7793. Please note that email communications will not necessarily be secure; accordingly you should not include credit card information or other sensitive information in your email correspondence with us. 
