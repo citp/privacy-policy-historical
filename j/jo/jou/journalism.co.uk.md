@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the journalism.co.uk privacy policy that was archived on 2010-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100915190908id_/http%3A//www.journalism.co.uk/36/125) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the journalism.co.uk privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607215533id_/http%3A//www.journalism.co.uk/36/125) for the most accurate reproduction.*
 
-# Journalism.co.uk :: Privacy policy
+# Privacy policy | Journalism.co.uk
 
 We are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information
 
