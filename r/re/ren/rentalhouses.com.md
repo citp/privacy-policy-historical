@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rentalhouses.com privacy policy that was archived on 2010-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100331111156id_/http%3A//www.rentalhouses.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rentalhouses.com privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607070217id_/http%3A//www.rentalhouses.com/privacy-policy) for the most accurate reproduction.*
 
-# RentalHouses.com Privacy Policy
+# RentalHouses.com Houses for rent, search homes or Houses for rent.
 
 ### Privacy Policy
 
@@ -40,21 +40,21 @@ We allow users of some of our websites to send articles or links by e-mail to ot
 
 Personal information is available to Consumer Source and its technical and fulfillment agents and consultants who make this site and our publications, products and services available to you. Anonymous information may be made available to our advertisers, sponsors and promotional and business partners. We share your personal information with third parties only as described below:
 
-**Consumer Source and Its Agents.** All companies and service providers working for Consumer Source must comply with our information collection, use and disclosure policies, and are not permitted to sell your information to third parties or to use it except as authorized by us and you, or as permitted or required by law.
+**Consumer Source and Its Agents.** All companies and service providers working for Consumer Source must comply with our information collection, use and disclosure policies, and are not permitted to sell your information to third parties or to use it except as authorized by us and you, or as permitted or required by law. 
 
-**Participating Vendors.** Some of our websites offer opportunities to make purchases online from special participating vendors. Any time you order from a participating vendor, that vendor will automatically have all the information related to the order. Participating vendors may use that information to advise you directly of other products and offerings that they provide. Consumer Source is not responsible for their privacy policies, and urges you to inquire about their information practices.
+**Participating Vendors.** Some of our websites offer opportunities to make purchases online from special participating vendors. Any time you order from a participating vendor, that vendor will automatically have all the information related to the order. Participating vendors may use that information to advise you directly of other products and offerings that they provide. Consumer Source is not responsible for their privacy policies, and urges you to inquire about their information practices. 
 
-**Credit Card Companies.** As in any transaction, your credit card company will have all relevant information about the name of the vendor, item(s) purchased, and date and total cost. Consumer Source will not otherwise provide any personal data to your credit card company.
+**Credit Card Companies.** As in any transaction, your credit card company will have all relevant information about the name of the vendor, item(s) purchased, and date and total cost. Consumer Source will not otherwise provide any personal data to your credit card company. 
 
-**Advertisers, Sponsors and Promotional and Business Partners.** We may share anonymous, aggregate demographic information (such as gender, age, income, hobbies, interests, etc.), and anonymous information obtained from cookies and similar technologies, with our advertisers, sponsors, promotional and business partners, and with participating vendors at websites offering online sales opportunities. No personally identifiable information is disclosed to any of these third parties in providing these reports.
+**Advertisers, Sponsors and Promotional and Business Partners.** We may share anonymous, aggregate demographic information (such as gender, age, income, hobbies, interests, etc.), and anonymous information obtained from cookies and similar technologies, with our advertisers, sponsors, promotional and business partners, and with participating vendors at websites offering online sales opportunities. No personally identifiable information is disclosed to any of these third parties in providing these reports. 
 
-**Third Party Venders.** Sometimes we will give you the opportunity to opt in to receive e-mail offers from third parties not affiliated with Consumer Source. If you decide to accept these offers, we will provide, with your consent, your contact information to the third party. At our websites, visitors will also have opportunities to sign up directly with certain advertisers and sponsors to enter contests or sweepstakes, receive e-mail updates, or to receive information directly from them. Third party vendors and advertisers will also use technical and other consultants. We urge visitors to carefully review the privacy policies of these firms. Consumer Source is not responsible for the privacy policies and procedures of any third party.
+**Third Party Venders.** Sometimes we will give you the opportunity to opt in to receive e-mail offers from third parties not affiliated with Consumer Source. If you decide to accept these offers, we will provide, with your consent, your contact information to the third party. At our websites, visitors will also have opportunities to sign up directly with certain advertisers and sponsors to enter contests or sweepstakes, receive e-mail updates, or to receive information directly from them. Third party vendors and advertisers will also use technical and other consultants. We urge visitors to carefully review the privacy policies of these firms. Consumer Source is not responsible for the privacy policies and procedures of any third party. 
 
 Offline and online contact information is handled differently.
 
-**Offline.** As is customary in the publications business, offline contact information is shared with third parties who may send you offers or information about their products or services. You must opt-out if you do not wish to receive information from us or third parties by mail.
+**Offline.** As is customary in the publications business, offline contact information is shared with third parties who may send you offers or information about their products or services. You must opt-out if you do not wish to receive information from us or third parties by mail. 
 
-**Online.** Your e-mail address is not shared with third parties unless you opt-in to receiving information from third parties. We may extend e-mail offers to users or subscribers on behalf of our business partners about a particular product or service that may be of interest to you, but only if you have indicated that you would like to receive those offers. If you wish to receive such offers, we do not share or disclose your name or e-mail address to those business partners, but will send you the information or offers on their behalf.
+**Online.** Your e-mail address is not shared with third parties unless you opt-in to receiving information from third parties. We may extend e-mail offers to users or subscribers on behalf of our business partners about a particular product or service that may be of interest to you, but only if you have indicated that you would like to receive those offers. If you wish to receive such offers, we do not share or disclose your name or e-mail address to those business partners, but will send you the information or offers on their behalf. 
 
 #### Important Note
 
@@ -66,6 +66,8 @@ Your Web browser offers so-called "cookies" which store small amounts of data on
 
 Some of our Web pages may contain electronic images known as Web beacons. These images allow us to count users who have visited those pages and to deliver co-branded services. Web beacons are not used to access your personally identifiable information but they are a technique we use to compile aggregated statistics about our website usage.
 
+We work with third-party data analytics and online targeting companies. Some of these companies may use anonymous information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide data and targeting recommendations based on which we may provide advertisements about goods and services of interest to you. To learn more about this practice or about your choice to opt-out of this practice please click [here](http://www.networkadvertising.org/)
+
 #### Third Party Advertisers
 
 We use reputable third parties to serve some or all of the advertisements that are placed within our sites. These third parties may use information (not including personally identifiable information) about your visits to our sites and other sites to assist in serving advertisements to you. They may share anonymous information with their clients such as date/time of the banner ad shown, the specific ad shown, the IP address, etc. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here: http://www.networkadvertising.org/consumer/opt_out.asp. Consumer Source is not responsible for the privacy policies and procedures of any third party.
@@ -74,14 +76,14 @@ We use reputable third parties to serve some or all of the advertisements that a
 
 To review, correct or update your contact information or change your preferences, you may:
 
-  * As a registered user or if you have an online account at one of our websites, you may be able to log on and update or change your contact or account information. Check the site for further information. 
+  * As a registered user or if you have an online account at one of our websites, you may be able to log on and update or change your contact or account information. Check the site for further information.
   * Unsubscribe to any of our online e-mail updates by following the unsubscribe instructions in the body of any message.
-  * Write to us and update your contact information or ask that we not share your personal contact information with third parties at:
+  * Write to us and update your contact information or ask that we not share your personal contact information with third parties at: 
 
 Consumer Source Inc.,   
-Attn: Privacy Coordinator  
+Attn: Privacy Coordinator   
 3585 Engineering Drive, Suite 100,   
-Norcross, Georgia 30092.
+Norcross, Georgia 30092. 
 
 
 
@@ -113,12 +115,12 @@ If you have any questions about this Privacy Policy or our privacy practices, pl
 Or you can contact us by mail at:
 
 Privacy Coordinator   
-Consumer Source, Inc.  
-3585 Engineering Drive, Suite 100  
-Norcross, Georgia 30092
+Consumer Source, Inc.   
+3585 Engineering Drive, Suite 100   
+Norcross, Georgia 30092 
 
 #### Copyright
 
-© Copyright 2007 Consumer Source Inc. All rights reserved.
+© Copyright 2011 Consumer Source Inc. All rights reserved.
 
-Last updated July 2nd, 2007
+Last updated May 12th, 2011
