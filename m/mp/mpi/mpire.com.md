@@ -1,20 +1,22 @@
-> *The following text is extracted and transformed from the mpire.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226064642id_/http%3A//www.adxpose.com/privacyPolicy.page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mpire.com privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607040158id_/http%3A//www.adxpose.com/privacyPolicy.page) for the most accurate reproduction.*
 
 # AdXpose® - Privacy Policy
 
-**Last Updated: May 29, 2010**
+**Last Updated: March 24, 2011**
 
-The Mpire website and services made available from the website or otherwise by Mpire are owned and operated by Mpire Corporation (“Mpire”). At Mpire, we understand that you value your privacy, and we want to help make your experience with our site and services (referred to in this policy collectively as our “services”) satisfying and safe. This policy describes our collection of information, including personal information, in connection with our services, and explains how we use and disclose this information. To make this policy easy to find, we make it available from our homepage and at every point where personal information may be requested.
+**Our Commitment to Your Privacy**
 
-Mpire is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site www.adxpose.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
+The AdXpose website and services made available from the website or otherwise by AdXpose are owned and operated by AdXpose, Inc. (“AdXpose”). At AdXpose, we understand that you value your privacy, and we want to help make your experience with our site and services (referred to in this policy collectively as our “services”) satisfying and safe. This policy describes our collection of information, including personal information, in connection with our services, and explains how we use and disclose this information. To make this policy easy to find, we make it available from our homepage and at every point where personal information may be requested.
 
-If you have questions or concerns regarding this statement, you should first contact [privacy@mpire.com](mailto:privacy@mpire.com) If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at [http://watchdog.truste.com/pvr.php?page=complaint&url=](http://watchdog.truste.com/pvr.php?page=complaint&url=)
+AdXpose is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the website www.adxpose.com, and because this website wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
+
+If you have questions or concerns regarding this statement, you should first contact [privacy@adxpose.com](mailto:privacy@adxpose.com) If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at [http://watchdog.truste.com/pvr.php?page=complaint&url=](http://watchdog.truste.com/pvr.php?page=complaint&url=)
 
 TRUSTe will then serve as a liaison with us to resolve your concerns.
 
 **Personal Information We Collect and How We Use It**
 
-" **Personal information** ," as used in this policy, is information that may be used to identify an individual, such as name or email address. We collect personal information in the course of providing our services to you and you may also make personal information available to others as necessary to provide the service. Below are some examples of the types of personal information we collect and the ways in which we use it: 
+**"Personal information"** , as used in this policy, is information that may be used to identify an individual, such as name or email address. We collect personal information in the course of providing our services to you and you may also make personal information available to others as necessary to provide the service. Below are some examples of the types of personal information we collect and the ways in which we use it: 
 
   * Information you provide - We collect personal information that users provide through optional, voluntary submissions, such as via your use of our registration form, any search query dialog box or feature, or email to us. You may also provide personal information to us in other ways, such as by requesting user support. We use personal information we collect to respond to your inquiry or request, to provide, improve, and develop our services, to tailor your user experience, to prevent or investigate fraudulent or inappropriate usage of our services, to enable you to participate in contests and promotions, for research and development and for the other purposes described in this policy. Depending on your account settings, certain other information you provide may be available to other users.
   * In addition, we may use your email address to deliver targeted marketing messages from us. You may opt-out from receiving these marketing messages by following the instructions provided in the messages. 
@@ -35,21 +37,21 @@ If we directly combine any non-personal information gathered through passive mea
 
 **Disclosure of Personal and Other Information**
 
-We may provide personal information to our subsidiaries, affiliated companies, and other trusted businesses or persons for the purpose of providing our services and for our other purposes described in this policy. We limit the personal information shared with these third parties to that which is necessary to carry out those functions and require that our partners respect and comply with applicable law as a condition of doing business with them. We do not share, sell rent or trade personal information with third parties for promotional purposes.
+We may provide personal information to our subsidiaries, affiliated companies, and other trusted businesses or persons for the purpose of providing our services and for our other purposes described in this policy. We limit the personal information shared with these third parties to that which is necessary to carry out those functions and require that our partners respect and comply with applicable law as a condition of doing business with them. We do not share, sell rent or trade personal information with third parties for promotional purposes. 
 
 We may share personal information with third parties (including regulatory or law enforcement authorities) in order to carry out a user's request or if we believe that doing so is legally required or is in our interest to protect our property or other legal rights (including, but not limited to, enforcement of our agreements), or the rights or property of others.
 
-If you post any of your information to a public area of our site, please be aware that it is no longer “personal information” for the purposes of this policy, and we or anyone else may use such information without restriction. If you provide access to personal or other information to a limited set of other users through any of our privacy controls or other settings, please understand that Mpire has no control over how others may collect, use or disclose such information.
+If you post any of your information to a public area of our site, please be aware that it is no longer “personal information” for the purposes of this policy, and we or anyone else may use such information without restriction. If you provide access to personal or other information to a limited set of other users through any of our privacy controls or other settings, please understand that AdXpose has no control over how others may collect, use or disclose such information.
 
 **Our Commitment to Data Security**
 
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. Please be aware, however, that no data transmissions over the Internet or other networks can be guaranteed to be 100% secure. Consequently, we cannot ensure or warrant the security or integrity of any information you transmit to us. You transmit information to us at your own risk. Once we receive personal information, we make reasonable efforts to protect it from unauthorized access, disclosure, alteration, or destruction. But we cannot represent or guarantee that personal information will not be accessed, disclosed, altered or destroyed. Data will be retained for a minimum of ten years from the time of collection unless otherwise instructed by the data owner.
+To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. Please be aware, however, that no data transmissions over the Internet or other networks can be guaranteed to be 100% secure. Consequently, we cannot ensure or warrant the security or integrity of any information you transmit to us. You transmit information to us at your own risk. Once we receive personal information, we make reasonable efforts to protect it from unauthorized access, disclosure, alteration, or destruction. But we cannot represent or guarantee that personal information will not be accessed, disclosed, altered or destroyed.
 
-If Mpire learns of a security systems breach we may attempt to notify you electronically so that you can take appropriate protective steps. Mpire may post a notice through the service if a security breach occurs. If this happens, you will need a web browser enabling you to access the service. Mpire may also send an email to you at the email address you have provided to us in these circumstances. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. 
+If AdXpose learns of a security systems breach we may attempt to notify you electronically so that you can take appropriate protective steps. AdXpose may post a notice through the service if a security breach occurs. If this happens, you will need a web browser enabling you to access the service. AdXpose may also send an email to you at the email address you have provided to us in these circumstances. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. 
 
 **Our Commitment to Children's Privacy**
 
-Mpire does not knowingly collect personal information from children under 13 years of age. In the event that Mpire learns it has collected any such information it will take steps immediately to delete any such information. The services are not directed at children.
+AdXpose does not knowingly collect personal information from children under 13 years of age. In the event that AdXpose learns it has collected any such information it will take steps immediately to delete any such information. The services are not directed at children.
 
 **How You Can Access or Correct Your Information**
 
@@ -79,9 +81,9 @@ We reserve the right to modify this privacy statement at any time, so please rev
 
 **How To Contact Us**
 
-Should you have other questions or concerns about this privacy policy, please send us an email at [privacy@mpire.com](mailto:privacy@mpire.com). You can also write to us at:  
-Mpire Corporation  
-1725 Westlake Avenue N. Suite 203  
-Seattle, WA 98109  
-Attention: Privacy Officer  
+Should you have other questions or concerns about this privacy policy, please send us an email at [privacy@adxpose.com](mailto:privacy@adxpose.com). You can also write to us at:
 
+AdXpose, Inc.  
+1418 3rd Ave Suite 300  
+Seattle, WA 98101  
+Attention: Privacy Officer
