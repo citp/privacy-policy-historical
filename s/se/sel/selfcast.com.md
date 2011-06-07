@@ -1,116 +1,85 @@
-> *The following text is extracted and transformed from the selfcast.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211083526id_/http%3A//selfcast.com/StaticPages/Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the selfcast.com privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607183215id_/http%3A//www.selfcast.com/privacy.html) for the most accurate reproduction.*
 
-# Selfcast | Privacy Policy
+# Privacy Policy
 
-RawFlow Limited (“ **we** ”, “ **us** ” and “ **our** ”) are committed to protecting and respecting your privacy.
+This document was last updated on October 02, 2010.
 
-This policy (together with our [Terms of Use](http://www.selfcast.com/StaticPages/Conditions.aspx) and Selfcast [End User Licence Agreement](http://www.selfcast.com/StaticPages/License.aspx) (and any other documents referred to therein) describes the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
+* * *
 
-Unless otherwise defined below, defined terms referred to in this Privacy Policy shall have the meaning set out in the Selfcast [Terms of Use](http://www.selfcast.com/StaticPages/Conditions.aspx).
+## Section 1. Acknowledgement and Acceptance of Terms.
 
-## Data Protection Act 1998
+We are committed to protecting your privacy. This Privacy Statement sets forth our current privacy practices with regard to the information we collect when you or your computer interact with our website. By accessing this website, you acknowledge and fully understand our Privacy Statement and freely consent to the information collection and use practices described in this Website Privacy Statement.
 
-For the purpose of the Data Protection Act 1998 (the “Act”), the data controller is RawFlow Limited of The Old Pump House, 19 Hooper Street, London E1 8BU.
+* * *
 
-## How we collect information
+## Section 2. Participating Merchant Policies
 
-We may collect and process the following information about you:
+Related services and offerings with links from this website, including vendor sites, have their own privacy statements that can be viewed by clicking on the corresponding links within each respective website. Online merchants and others who participate in our services are encouraged to participate in industry privacy initiatives and to take a responsible attitude towards consumer privacy. However, since we do not have direct control over the policies or practices of participating merchants and other third parties, we are not responsible for the privacy practices or contents of those sites. We recommend and encourage that you always review the privacy policies of merchants and other third parties before you provide any personal information or complete any transaction with such parties.
 
-**1.** In order to access the Selfcast service for the first time, you may be asked to create a user account by providing information including your first and last name, a valid email address and a password. Subsequently, you may be asked to sign in using your registered email address and password, which we refer to as your “credentials”. As part of creating your user account, you may also be requested to provide questions and secret answers, which we use to help verify your identity and assist in resetting your password, as well as an alternate email address. Finally, a unique ID number will be assigned to your credentials which will be used to identify your credentials and associated information.
+* * *
 
-**2.** We ask you to provide personal information, such as your e-mail address, name, company name, home or work address or telephone number. We may also collect demographic information, such as your ZIP or postal code, age, gender, preferences, interests and favourites.
+## Section 3. Information We Collect and How We Use It
 
-**3.** We may collect information about your visit, including the pages you view, the links you click and other actions taken in connection with the Site and other RawFlow sites and services. We also collect certain standard information that your browser sends to every website you visit, such as your IP address, browser type and language, access times and referring Web site addresses.
+Anyone under the age of 18, may only use this site and its services in conjunction with and under the supervision of their parents or guardians, and with express permission from us. For this reason, we ask that anyone under the age of 18 should not submit any personal information through our site. This website collects certain information from and about its users three ways: directly from our Web Server logs, information provided by user, and with Cookies.
 
-**4.** When you use the Services to distribute User Content to other Users of the Services, we may collect information about the User Content you are distributing including the title, description, genre, type (audio or video) and location information. In addition, if you use the Selfcast User Microsite feature, you will be able to create and edit your own page on the Site, which will contain addition information about you (that you provide) and which will be visible to other users of the Services.
+* * *
 
-**5.** When you receive newsletters or promotional e-mail, we may use web beacons, customised links or similar technologies to determine whether the e-mail has been opened and which links you click in order to provide you more focused e-mail communications or other information.
+## a. Web Server Logs
 
-**6.** In order to offer you a more consistent and personalised experience in your interactions with the Services and us, information collected through one RawFlow service may be combined with information obtained through other RawFlow services. We may also supplement the information we collect with information obtained from other companies. For example, we may use services from other companies that enable us to derive a general geographic area based on your IP address in order to customise certain services to your geographic area.
+When you visit our Website, we may track information to administer the site and analyze its usage. Examples of information we may track include:
 
-## IP Addresses and Cookies
-
-We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about Users’ browsing actions and patterns, and does not identify any individual.
-
-For the same reason, we may obtain information about your general internet usage by using a cookie file which is stored on the hard drive of your computer. Cookies are small text files that are placed on your hard disk by a web page server. Cookies cannot be used programs or deliver viruses to your computer. They help us to improve the Services and to deliver a better and more personalised service. They enable us:
-
-  * to estimate our audience size and usage pattern; 
-  * to store information about your preferences, and so allow us to customise the Site; according to your individual interests; 
-  * to speed up your searches; and 
-  * to recognise you when you return to the Site. 
+  * Your Internet protocol address.
+  * The kind of browser or computer you use.
+  * Number of links you click within the site.
+  * State or country from which you accessed the site.
+  * Date and time of your visit.
+  * Name of your Internet service provider.
+  * Web page you linked to our site from.
+  * Pages you viewed on the site.
 
 
 
-We use ‘session’ cookies which to confirm that users are logged on to the Site. These cookies terminate one the User closes the browser. You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of the Site. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to the Site.
+* * *
 
-Please note that our advertisers may also use cookies, over which we have no control.
+## b. Use of Cookies
 
-## Where we store your personal data
+This site uses cookies to personalize or enhance your user experience. A cookie is a small text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a Web Server in the domain that issued the cookie to you. One of the primary purposes of cookies is to provide a convenience feature to save you time. For example, if you personalize a web page, or navigate within a site, a cookie helps the site to recall your specific information on subsequent visits. Hence, this simplifies the process of delivering relevant content and eases site navigation by providing and saving your preferences and login information as well as providing personalized functionality. We reserve the right to share aggregated site statistics with partner companies. For more information about how our third-party service providers may use cookies, please see Section 4, below. You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies. If you reject cookies by changing your browser settings then be aware that this may disable some of the functionality on our Website.
 
-The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area (" **EEA** "). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
+* * *
 
-All information you provide to us is stored on our secure servers. Where we have given you (or where you have chosen) a password which enables you to access certain parts of the Site, you are responsible for keeping this password confidential. You must not share your password with anyone. If you are sharing a computer with anyone you should always choose to log out before leaving a site or service to protect access to your information from subsequent users.
+## c. Use of Personal Information
 
-## How we keep your information secure
+Visitors to our website can register to purchase services. When you register, we will request some personal information such as name, address, email, telephone number or facsimile number, account number and other relevant information. If you are purchasing a service, we will request financial information. Any financial information we collect is used only to bill you for the services you requested and/or purchased and any applicable fees that are compliant with our Terms of Use. If you purchase by credit card, the information may be forwarded to your credit card provider. For other types of registrations, we will ask for the relevant information. You may also be asked to disclose personal information to us so that we can provide assistance and information to you. For example, such data may be warranted in order to provide online technical support and troubleshooting. Under some circumstances we may require some additional financial information, including, without limitation, your billing address, bank account information, and tracking information from checks or money orders. We will not disclose personally identifiable information we collect from you to third parties without your permission except to the extent necessary including:
 
-We are committed to protecting the security of your personal information. As such, all information you provide to us is stored on our secure servers and we use a variety of security technologies and procedures to help protect your personal information from unauthorised access, use or disclosure.
+* * *
 
-Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to the Site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
-
-## How we use the information we collect
-
-We use information held about you in the following ways:
-
-  * to ensure that content from the Site is presented in the most effective manner for you and for your computer; 
-  * to allow us to operate and improve the Site and deliver the services or carry out the transactions you have requested in the most effective manner; 
-  * performing research and analysis aimed at improving our products, services and technologies; 
-  * to allow you to participate in interactive features of our service, when you choose to do so; and 
-  * to notify you about changes to our service. 
+  * To fulfill your service requests for services,
+  * To protect ourselves from liability,
+  * To respond to legal process or comply with law, or
+  * In connection with a merger, acquisition, or liquidation of the company.
 
 
 
-We do not disclose information about identifiable individuals to our advertisers, but we may provide them with aggregate information about our users. We may also use such aggregate information to help advertisers reach the kind of audience they want to target. We may make use of the personal data we have collected from you to enable us to comply with our advertisers' wishes by displaying their advertisement to that target audience.
+* * *
 
-## Children under age 13
+Please note that we will use your information and other information we obtain from your current and past activities on the site to resolve any disputes, troubleshoot problems, collect fees owed, pay amounts due you, or verify your account data. We employ many different security techniques to protect any personal data from unauthorized access by users inside and outside the company, however please be aware that "perfect security" does not exist on the Internet or with any digital or physical data.
 
-In accordance with our [Terms of Use](http://www.selfcast.com/StaticPages/Conditions.aspx), we do not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register to use the Services. If you are under 13, please do not send any information about yourself to us. No one under the age of 13 is allowed to provide any personal information to RawFlow or to use any of the Services. In the event that we learn that we have collected personal information from a child under age 13, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at [legal@rawflow.com](mailto:legal@rawflow.com).
+* * *
 
-## Children aged between ages 13 and 14
+## Section 4. Third Party Advertisers, Use of Web Beacons or GIF Files
 
-We require that children over the age of 13 ask their parents or legal guardians for permission before sending any information about themselves over the Internet.
+This Website may contain electronic images known as Web beacons, sometimes also called single-pixel gifs, that allow us to count users who have visited those pages and to deliver co-branded services. We may include Web beacons in promotional e-mail messages or newsletters in order to determine whether messages have been opened and acted upon. Some of these Web beacons may be placed by third party service providers to help determine the effectiveness of our advertising campaigns or email communications. These Web beacons may be used by these service providers to place a persistent cookie on your computer. This allows the service provider to recognize your computer each time you visit certain pages or emails and compile anonymous information in relation to those page views, which in turn enables us and our service providers to learn which advertisements and emails bring you to our website and how you use the site. This information in addition to the web searches you make while visiting this website and your web surfing behavior on this site and other websites you may visit is used to show you advertisements tailored to your interests on other websites and other forms of media. If you would like to know more about these practices and your choices about not having this information used to target ads to you, please click [here](http://www.networkadvertising.org/managing/opt_out.asp). We prohibit Web beacons from being used to collect or access your personal information.
 
-## Disclosure of your information
+* * *
 
-Selfcast enables you to distribute live audio and video content and other information about yourself with other Users. We allow you to choose the information you share with other Users. 
+## 5\. Accessing Web Account Information
 
-We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries.
+We will provide you with the means to ensure that personally identifiable information in your web account file is correct and current. You may review this information by contacting us by sending an email to our support attendant via our contact form.
 
-In addition, some RawFlow services may be co-branded and offered in conjunction with another company. If you register for or use such services, both RawFlow and the other company may receive information collected in conjunction with the co-branded services.
+* * *
 
-We may disclose your personal information to third parties:
+## 6\. Changes to this Statement
 
-  * in the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets; 
-  * if RawFlow Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets; and 
-  * if we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [Terms of Use](http://www.selfcast.com/StaticPages/Conditions.aspx) and other agreements; or to protect the rights, property, or safety of RawFlow Limited, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction. 
+We have the discretion to occasionally update this privacy statement. When we do, we will also revise the "updated" date at the top of this Privacy page. We encourage you to periodically review this privacy statement to stay informed about how we are helping to protect the personal information we collect. Your continued use of the service constitutes your agreement to this privacy statement and any updates.
 
-
-
-In accordance with out [TERMS OF USE](http://www.selfcast.com/StaticPages/Conditions.aspx), we may disclose your identity to any third party who claims that any User Content posted or uploaded by you to the Site or delivered by you using the Services to other Users of the Services constitutes a violation of their intellectual property rights, or of their right to privacy OR ANY BREACH OF LAW OR REGULATION IN ANY JURISDICTION.
-
-## Your rights
-
-You may have the ability to view or edit your personal information online. In order to help prevent your personal information from being viewed by others, you will be required to sign in with your credentials.
-
-You have the right to request details of the information we hold about you and to delete or rectify any inaccurate information about you by sending us a written request to [legal@rawflow.com](mailto:legal@rawflow.com) stating your full name and your address. A small administrative charge may be made for fulfilling this request.
-
-The Site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites
-
-You have the right to ask us not to process your personal data for marketing purposes. We will inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data (if any). You can also exercise the right at any time by contacting us at [legal@rawflow.com](mailto:legal@rawflow.com)
-
-## Changes to our privacy policy
-
-[www.selfcast.com](http://www.selfcast.com/) is under a continuing development process. Any changes we may make to our privacy policy in the future will be posted on this page. You should check this page from time to time to ensure you are happy with any changes.
-
-## Contact
-
-RawFlow welcomes your comments regarding this privacy policy. If you have any questions about this policy or believe that we have not adhered to it, please contact us at: [legal@rawflow.com](mailto:legal@rawflow.com)
+* * *
