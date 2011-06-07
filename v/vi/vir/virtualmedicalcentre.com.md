@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the virtualmedicalcentre.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122102223id_/http%3A//www.virtualmedicalcentre.com/featuredpages.asp%3Fartid%3D86) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virtualmedicalcentre.com privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607120908id_/http%3A//www.virtualmedicalcentre.com/health/privacy-policy/86) for the most accurate reproduction.*
 
-# Privacy Policy - Virtual Medical Centre
+# Privacy Policy
 
   * Privacy policy overview
   * What personal information does VMC collect and how does VMC use your personal information?
@@ -39,7 +39,7 @@ VMC will not collect your personal information unless you have consented and giv
 Where and what personal information is collected and how it is used:
 
  **  
-[Sign-up page](https://web.archive.org/web/20101122102223id_/http%3A//www.virtualmedicalcentre.com/signup.asp)**
+[Sign-up page](https://web.archive.org/signup.asp)**
 
  _General Patient Membership_
 
@@ -59,7 +59,7 @@ Where and what personal information is collected and how it is used:
 
 
   
-[ **Surveys**](https://web.archive.org/web/20101122102223id_/http%3A//www.virtualmedicalcentre.com/survey.asp)
+[ **Surveys**](https://web.archive.org/survey.asp)
 
 Surveys are conducted on both the website and enewsletters. They are optional.
 
@@ -71,7 +71,7 @@ Surveys are conducted on both the website and enewsletters. They are optional.
 
 
 [  
- **Continuing Medical Education (CME) (Health Professionals only)**](https://web.archive.org/web/20101122102223id_/http%3A//www.virtualmedicalcentre.com/featuredpages.asp?artid=59&title=CME-Continuing-Medical-Education)
+ **Continuing Medical Education (CME) (Health Professionals only)**](https://web.archive.org/featuredpages.asp?artid=59&title=CME-Continuing-Medical-Education)
 
   * What personal information is collected: The CME program collects the following information from health professionals who choose to participate in the education program: title, name, email, username, password, college, college identification number.
   * The health professional also submits educational materials (including edited disease information, research on relevant clinical trials, case study and clinical audit).
@@ -81,7 +81,7 @@ Surveys are conducted on both the website and enewsletters. They are optional.
 
 
 [  
- **Tools**](https://web.archive.org/web/20101122102223id_/http%3A//www.virtualmedicalcentre.com/tools.asp)
+ **Tools**](https://web.archive.org/tools.asp)
 
   * What personal information is collected: Tools collect your responses to the questions in the tool. Some tools are for health promotion purposes, some for symptom management, some for investigation analysis and some for drug dose conversions.
   * Some tools give the option for you to enter your name so you can print the tool and results and take it to the doctor with you. However, we do not save your name.
@@ -103,7 +103,7 @@ Every effort is made to ensure that personal information held on members is curr
 
 You can review any personal information VMC collects about you. You may recommend changes to personal information you believe is an error by submitting a written request.
 
-If you believe that your personal information is being used for a purpose other than what you intended it for, [contact VMC](https://web.archive.org/web/20101122102223id_/http%3A//www.virtualmedicalcentre.com/featuredpages.asp?artid=83 "Contact us").
+If you believe that your personal information is being used for a purpose other than what you intended it for, [contact VMC](https://web.archive.org/featuredpages.asp?artid=83 "Contact us").
 
 A member's identity needs to be validated before his⁄her personal information is divulged when requested. In all cases, VMC will take reasonable steps to verify your identity before granting access to personal information or making corrections. If in doubt we do not divulge any information.
 
@@ -129,14 +129,7 @@ An individual can configure their browser to accept all cookies, reject all cook
   
 
 
-#### Website Tools
-
-#### Article Tools
-
-  
-
-
-#### Mini Sites Dates:
+#### Popular Health Topics Dates:
 
   
 
