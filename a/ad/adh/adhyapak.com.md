@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adhyapak.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123224045id_/http%3A//www.adhyapak.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adhyapak.com privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607072937id_/http%3A//www.adhyapak.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Adhyapak.com: Privacy policy
 
