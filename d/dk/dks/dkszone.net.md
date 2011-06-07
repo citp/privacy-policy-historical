@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dkszone.net privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223184446id_/http%3A//www.dkszone.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dkszone.net privacy policy that was archived on 2011-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110608014904id_/http%3A//www.dkszone.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | dkszone.net
 
