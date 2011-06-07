@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the drugs.com privacy policy that was archived on 2010-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100913090358id_/http%3A//www.drugs.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drugs.com privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607134311id_/http%3A//www.drugs.com/support/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy for Drugs.com
 
 For the purposes of this privacy policy, the terms "we", "us", "our" and "Drugs.com" refer to the Drugsite Trust. The terms "You" and "End-User" refer to You as a user of this Site.
 
+**For third party advertising information and opt-out options please[click here](https://web.archive.org/support/privacy/advertising.html)**
+
 ## TRUSTe
 
-[](http://www.truste.org/ivalidate.php?url=www.drugs.com&sealid=101)Drugs.com is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site [www.drugs.com](http://www.drugs.com/). Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
+[](http://clicktoverify.truste.com/pvr.php?page=validate&url=www.drugs.com&sealid=101)Drugs.com is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site [www.drugs.com](http://www.drugs.com/). Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
 
 If you have questions or concerns regarding this statement, you should first contact:
 
@@ -15,11 +17,11 @@ If you have questions or concerns regarding this statement, you should first con
 > Auckland 0632  
 > New Zealand  
 > Telephone: +64 9 476 8500  
-> By e-mail: priv[........](http://mailhide.recaptcha.net/d?k=01hq_xXpyrjrPTaqcY4PgMtg==&c=aQznZYkoGGL5FX4GHkW6Yk5pDc0Fk7MS8QuhXYqURB0= "Reveal this e-mail address")@drugs.com
+> By e-mail: priv[........](http://www.google.com/recaptcha/mailhide/d?k=01hq_xXpyrjrPTaqcY4PgMtg==&c=aQznZYkoGGL5FX4GHkW6Yk5pDc0Fk7MS8QuhXYqURB0= "Reveal this e-mail address")@drugs.com
 
-If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with us to resolve your concerns. 
+If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://watchdog.truste.com/pvr.php?page=complaint>. TRUSTe will then serve as a liaison with us to resolve your concerns.
 
-Drugs.com collects no personal information about you when you visit our web site unless otherwise stated or unless you choose to provide this information to us (such as through registration on our site, MedNotes, or on the product information submission forms). However, we may collect and store certain information automatically. This information will not be shared with anyone beyond the web site support staff, except when required by law enforcement investigation (such as to comply with a judicial proceeding, court order or subpoena), and will be used only as a source of anonymous statistical information. This information may include:
+Drugs.com collects no personal information about you when you visit our web site unless otherwise stated or unless you choose to provide this information to us (such as through registration on our site, Mednotes, or on the product information submission forms). However, we may collect and store certain information automatically. This information will not be shared with anyone beyond the web site support staff, except when required by law enforcement investigation (such as to comply with a judicial proceeding, court order or subpoena), and will be used only as a source of anonymous statistical information. This information may include:
 
   * Internet Protocol (IP) address of the domain from which You access the Internet, either Your individual address or the proxy provided by Your Internet Service Provider (ISP). 
   * Date and time You access our site. 
@@ -51,11 +53,7 @@ However, Your e-mail message, question, or comment may be forwarded to other Dru
 
 ### Security
 
-Drugs.com follows generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. We use SSL (Secure Socket Layer) technology to protect your sensitive information on our site. If you have any questions about security on our Web site, you can send an [email](http://www.drugs.com/contact.html) using our contact form.
-
-### Forum/Bulletin Board
-
-If you use any forum/bulletin board or chat room on this site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums. Drugs.com also reserves the right to terminate the accounts of visitors who use these services in a manner inconsistent with our Terms of Use.
+Drugs.com follows generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. We use SSL (Secure Socket Layer) technology to protect your sensitive information on our site. If you have any questions about security on our Web site, you can send an [email](http://www.drugs.com/support/contact.html) using our contact form.
 
 ### Refer a Friend
 
@@ -65,30 +63,44 @@ If you choose to use our referral service to tell a friend about our site, we wi
 
 In order to use some areas of this web site, you must first complete the registration form. During registration you are required to provide contact information such as your name, age, email address, preferred username, password and preferred subscriptions. We will only use this information to contact you about the services on our site in which you have expressed interest. You also have the option to provide demographic information to us; we encourage you to submit this information so we can provide you a more personalized experience on our site. 
 
-If your personally identifiable information changes, or if you no longer desire our service, you may update or deactivate your information by signing into your account or by emailing our [Customer Support](http://www.drugs.com/contact.html) or by contacting us by telephone or postal mail at the contact information listed above.
+If your personally identifiable information changes, or if you no longer desire our service, you may update or deactivate your information by signing into your account or by emailing our [Customer Support](http://www.drugs.com/support/contact.html) or by contacting us by telephone or postal mail at the contact information listed above.
 
 ### E-mail Disclosure
 
 If you subscribe to receive e-mail, we will only send messages to notify you about the services on our site in which you have expressed interest. These e-mails may contain an occasional sponsor message. E-mail messages sent to you will always contain at least one clearly visible link to unsubscribe.
 
-### MedNotes
+### Mednotes
 
-To store a medication profile using Drugs.com [MedNotes](https://www.drugs.com/mednotes.html), you will need to create an account. When You create a Drugs.com Account, we ask for your email address and a password, which is used to protect your account from unauthorized access. You control who can access the information stored in MedNotes. You are the only user who can view and edit your MedNotes profiles. Any information in your MedNotes profiles will not be shared with anyone beyond the web site support staff, except when required by law enforcement investigation (such as to comply with a judicial proceeding, court order or subpoena), and will be used only as a source of anonymous statistical information. Drugs.com will use aggregate data to publish drug usage statistics, drug interaction data and drug treatment combinations. None of this data can be used to personally identify an individual. No data from MedNotes will be sold to any other party.
+To store a medication profile using Drugs.com [Mednotes](https://www.drugs.com/mednotes.html), you will need to create an account. When You create a Drugs.com Account, we ask for your email address and a password, which is used to protect your account from unauthorized access. You control who can access the information stored in Mednotes. You are the only user who can view and edit your Mednotes profiles. Any information in your Mednotes profiles will not be shared with anyone beyond the web site support staff, except when required by law enforcement investigation (such as to comply with a judicial proceeding, court order or subpoena), and will be used only as a source of anonymous statistical information. Drugs.com will use aggregate data to publish drug usage statistics, drug interaction data and drug treatment combinations. None of this data can be used to personally identify an individual. No data from Mednotes will be sold to any other party.
 
-### Third Party Advertising
+### Personally Identifiable Information (PII)
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here.](http://www.networkadvertising.org/managing/opt_out.asp) Some of these companies use cookies on our site. We have no access to or control over these cookies. This privacy statement covers the use of cookies by Drugs.com only and does not cover the use of cookies by any third-party advertising companies. 
+#### Community/Forum/Bulletin Board/Answers/
 
-### "Opting out"
+If you choose to participate in any community or social oriented parts of the Drugs.com website, such as a forum, bulletin board, blog, chatroom, Q&A, reviews or comments section, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit. Drugs.com also reserves the right to terminate the accounts of visitors who use these services in a manner inconsistent with our Terms of Use.
 
-We provide you the opportunity to ’opt-out’ of having your personally identifiable information used for certain purposes, when we ask for this information. For example, if you set up an account but do not wish to receive any additional marketing material from us, you can indicate your preference during signup. If you no longer wish to receive our newsletters, you may opt-out of receiving them by following the instructions included in each newsletter, by signing into your account or by [emailing us](http://www.drugs.com/contact.html).
+#### Data Retention
 
-### Legal Disclosure
+Drugs.com may retain personally identifiable information for the purpose of improving your user experience as a site member. This data is removed when your account with Drugs.com is closed, terminated or upon request.
+
+#### Opting Out
+
+We provide you the opportunity to ’opt-out’ of having your personally identifiable information used for certain purposes, when we ask for this information. For example, if you set up an account but do not wish to receive any additional marketing material from us, you can indicate your preference during signup. If you no longer wish to receive our newsletters, you may opt-out of receiving them by following the instructions included in each newsletter, by signing into your account or by [emailing us](http://www.drugs.com/support/contact.html).
+
+#### Removal
+
+To request the removal of publicly displayed personally identifiable information, you may contact us through our [support system](http://www.drugs.com/support/contact.html). In order for us to consider your request, you are required to include your account name and links to any page(s) where you believe any such personally identifiable information exists. For each instance, you must also provide clear instructions describing the exact position/location of the personally identifiable information on any page. 
+
+#### Legal Disclosure
 
 Drugs.com reserves the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Web site.
+
+### Updating and Closing Your Account
+
+You may update or close/delete your account at any time. When a member is signed in a prominent link is provided to comprehensive account settings including options to permanently delete their account and to opt in or out of email newsletters. Deleting your account will also remove any personally identifiable information that may have been submitted to Drugs.com upon registration. 
 
 ### Changes to the Privacy Policy
 
 If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our homepage.
 
-Updated: February 24, 2010
+Updated: May 13th, 2011
