@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the iste.org privacy policy that was archived on 2010-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100830225715id_/http%3A//www.iste.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iste.org privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607035824id_/http%3A//www.iste.org/privacy-policy.aspx) for the most accurate reproduction.*
 
-# ISTE | ISTE Privacy Policy Notice
+# ISTE | Privacy Policy
 
-  
-
+### ISTE Privacy Policy Notice
 
 ISTE is sincerely committed to protecting the privacy of our membership, as well as all others who come to our Web site in search of Educational Technology resources and information. In order to better serve our constituency, we may collect certain types of data from those who visit the Web site:
 
@@ -16,8 +15,8 @@ ISTE is sincerely committed to protecting the privacy of our membership, as well
 >  180 W. 8th Avenue, Suite 300  
 >  Eugene, OR  97401-2916 USA  
 >  E-mail: [mailinglists@iste.org](mailto:mailinglists@iste.org)  
->  Phone: 541.302.3786  
+>  Phone: 541.434.8903  
 >  Fax: 541.302.3778  
 > 
 
-Please see our complete [Privacy Policy under Legal Notices](https://web.archive.org/Content/NavigationMenu/AboutISTE/Legal_Notice/ISTEs_Legal_Notice.htm) for more detailed information.
+Please see our complete [Privacy Policy under Legal Notices](http://www.iste.org/legal-notice.aspx) for more detailed information.
