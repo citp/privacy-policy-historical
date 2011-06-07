@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the convio.com privacy policy that was archived on 2010-11-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101113173804id_/http%3A//www.convio.com/convio/policies/%23Privacy_Policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the convio.com privacy policy that was archived on 2011-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110607185605id_/http%3A//www.convio.com/convio/policies/%23Privacy_Policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
@@ -14,12 +14,12 @@
 <script type="text/javascript">
 if (typeof CONVIO=="undefined" || ! CONVIO) { var CONVIO = {}; }
 CONVIO.pageUserName = '999:0';
-CONVIO.pageSessionID = 'buesoi1tq2.app243a';
+CONVIO.pageSessionID = '1gqp2buar1.app243a';
 CONVIO.pageSessionName = 'JServSessionIdr004';
 </script>
 
 <script language="JavaScript" type="text/javascript" src="/components/cookie/cookie.js"></script>
-<script type="text/javascript" src="/system/auth/session-status.jsp?nocache=1289669884539"></script>
+<script type="text/javascript" src="/system/auth/session-status.jsp?nocache=1307472966032"></script>
 
 <script type="text/javascript">
 
@@ -52,10 +52,15 @@ Policies | Convio</title>
 
 <meta name="description" content="Nonprofit Marketing and Online Donations: Convio provides Internet Software for Online Fundraising, Email Marketing, Advocacy, Event Fundraising">
 
-<link href="http://www.convio.com/css/style.css" rel="stylesheet" type="text/css">
+<link href="http://www.convio.com/css/stylesheet_2011.css" rel="stylesheet" type="text/css">
+<link href="http://www.convio.com/css/style_hold.css" rel="stylesheet" type="text/css">
 <script src="http://www.convio.com/js/css_browser_selector.js" type="text/javascript"></script>
 <script src="http://www.convio.com/js/jquery-1-2-6-min.js" type="text/javascript"></script>
 
+<link rel="stylesheet" type="text/css" href="http://www.convio.com/css/anylinkcssmenu.css">
+<!--[if IE]>
+        <link rel="stylesheet" type="text/css" href="css/stylesheet_2011_ie.css" />
+<![endif]-->
 
 <script type="text/javascript" src="http://www.convio.com/js/cc-signup.js"></script>
 
@@ -120,7 +125,121 @@ padding: 2px 20px;
 
 
 
+<!--Begin Progressive Profiling include please don't remove code between these comments as it is core functionality. Contact astroud or enorman for  questions -->
+<link type="text/css" media="screen" rel="stylesheet" href="http://www.convio.com/css/colorbox.css">
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+<script type="text/javascript" src="http://www.convio.com/js/colorbox/jquery-colorbox-min.js"></script>
 
+<script type="text/javascript">
+//test comment for updated
+//1st priority - hard coded values
+var LeadSource = '';
+var CampaignName = '';
+var CampaignID = '';
+var retURL = '';
+
+
+$(document).ready(function(){
+
+var Dt = new Date();
+var Ms = Dt.getMilliseconds();
+
+//2nd priority - from URL
+if (LeadSource == ''){
+	LeadSource = urlParam("LeadSource");
+}
+if (CampaignName == ''){
+	CampaignName = urlParam("CampaignName");
+}
+if (CampaignID == ''){
+	CampaignID = urlParam("CampaignID");
+}
+if (retURL == ''){
+	retURL = urlParam("retURL");
+}
+
+	$(".open_gate").click(function(){
+		var docid = $(this).attr("rel");
+		//3rd priority - from Link
+		if (retURL == '')
+		{
+			retURL = $(this).attr("link");
+		}
+		if (CampaignID == '')
+		{
+			CampaignID = $(this).attr("cid");
+		}
+
+		$.getScript('http://now.eloqua.com/visitor/v200/svrGP.aspx?pps=50&siteid=633&DLKey=31d750f1-7d7e-4c2b-a672-3ab2dbecea03&DLLookup=&ms=' + Ms, function(){
+			if (typeof GetElqContentPersonalizationValue == "function"){
+				if(GetElqContentPersonalizationValue('V_ElqEmailAddress') != "")
+				{
+					$.getScript('http://now.eloqua.com/visitor/v200/svrGP.aspx?pps=50&siteid=633&DLKey=fa1b28f4-db71-41e1-8869-e35b9aee7609&DLLookup=%3CEmailAddress%3E'+GetElqContentPersonalizationValue('V_ElqEmailAddress')+'%3C/EmailAddress%3E&ms=' + Ms, function() {
+						if (typeof GetElqGroupMembershipStatus == "function") {
+							if (GetElqGroupMembershipStatus('{8D6B0EB2-01E2-42DB-9FFA-9320CA5E4A76}') == true)
+							{
+								  location.replace("http://now.eloqua.com/e/f2.aspx?elqFormName=PF-GatedFormStep4&elqSiteID=633&docid="+docid+"&LeadSource="+LeadSource+"&CampaignName="+CampaignName+"&CampaignID="+CampaignID+"&retURL="+retURL+"&email="+GetElqContentPersonalizationValue('V_ElqEmailAddress'));
+							}
+							else if(GetElqGroupMembershipStatus('{EF8E95C5-41EA-4D4C-A75A-99FAAE2E66EF}') == true)
+							{
+								$.fn.colorbox({href:"http://www.convio.com/assets/ppf/form2-3.html?docid="+docid+"&LeadSource="+LeadSource+"&CampaignName="+CampaignName+"&CampaignID="+CampaignID+"&retURL="+retURL+"&email="+GetElqContentPersonalizationValue('V_ElqEmailAddress'), iframe:true, innerWidth:400, innerHeight:500});
+							}
+							else if(GetElqGroupMembershipStatus('{4C8F0756-F30F-405A-912F-B46F676813AD}') == true)
+							{
+								$.fn.colorbox({href:"http://www.convio.com/assets/ppf/form2-2.html?docid="+docid+"&LeadSource="+LeadSource+"&CampaignName="+CampaignName+"&CampaignID="+CampaignID+"&retURL="+retURL+"&email="+GetElqContentPersonalizationValue('V_ElqEmailAddress'), iframe:true, innerWidth:400, innerHeight:500});
+							}
+							else
+							{
+								$.fn.colorbox({href:"http://www.convio.com/assets/ppf/form2-1.html?docid="+docid+"&LeadSource="+LeadSource+"&CampaignName="+CampaignName+"&CampaignID="+CampaignID+"&retURL="+retURL+"&email="+GetElqContentPersonalizationValue('V_ElqEmailAddress'), iframe:true, innerWidth:400, innerHeight:500});
+							}
+						}
+						else
+						{
+							$.fn.colorbox({href:"http://www.convio.com/assets/ppf/form2-1.html?docid="+docid+"&LeadSource="+LeadSource+"&CampaignName="+CampaignName+"&CampaignID="+CampaignID+"&retURL="+retURL+"&email="+GetElqContentPersonalizationValue('V_ElqEmailAddress'), iframe:true, innerWidth:400, innerHeight:550});
+						}
+					});
+				}
+				else
+				{
+					$.fn.colorbox({href:"http://www.convio.com/assets/ppf/form2-1.html?docid="+docid+"&LeadSource="+LeadSource+"&CampaignName="+CampaignName+"&CampaignID="+CampaignID+"&retURL="+retURL, iframe:true, innerWidth:400, innerHeight:500});
+				}
+			}
+			else
+			{
+				$.fn.colorbox({href:"http://www.convio.com/assets/ppf/form2-1.html?docid="+docid+"&LeadSource="+LeadSource+"&CampaignName="+CampaignName+"&CampaignID="+CampaignID+"&retURL="+retURL, iframe:true, innerWidth:400, innerHeight:500});
+			}
+		});
+	});
+});
+function urlParam(name)
+{
+	var results = new RegExp('[\\?&]' + name + '=([^&#]*)').exec(location.href);
+	if (!results) { return ""; }
+	return results[1] || "";
+}
+</script>
+<!--End PPF include -->
+
+
+<!--Start Code for anylinkcss Navigation Menu-->
+<link rel="stylesheet" type="text/css" href="http://www.convio.com/css/anylinkcssmenu.css">
+
+<script type="text/javascript" src="http://www.convio.com/js/anylinkcssmenu.js">
+
+/***********************************************
+* AnyLink CSS Menu script v2.0- © Dynamic Drive DHTML code library (www.dynamicdrive.com)
+* This notice MUST stay intact for legal use
+* Visit Project Page at http://www.dynamicdrive.com/dynamicindex1/anylinkcss.htm for full source code
+***********************************************/
+
+</script>
+
+<script type="text/javascript">
+
+//anylinkcssmenu.init("menu_anchors_class") ////Pass in the CSS class of anchor links (that contain a sub menu)
+anylinkcssmenu.init("anchorclass")
+</script>
+<!--End Code for anylinkcss Navigation Menu-->
 
 
 </head>
@@ -128,7 +247,7 @@ padding: 2px 20px;
 <a name="top"></a><table width="960" align="center" cellpadding="0" cell="0">
   <tbody><tr>
     <td class="header"><div id="logo"><a href="http://www.convio.com/"><img src="http://www.convio.com/images/cnv09/convio_logo.jpg" alt="Nonprofit Software - Fundraising &amp; Donor Management" border="0"></a> </div>
-<div id="utilnav">888-528-9501&nbsp;|&nbsp;<a href="http://www.convio.com/convio/info.html">INFO@CONVIO.COM</a> &nbsp;|&nbsp; <a href="http://www.convio.com/contact">CONTACT</a>&nbsp;|&nbsp; <a href="http://www.convio.com/careers">CAREERS</a> 
+<div id="utilnav"><span style="float:right;">888-528-9501&nbsp;|&nbsp;<a href="http://www.convio.com/convio/info.html" rel="nofollow">INFO@CONVIO.COM</a>&nbsp;|&nbsp;<a href="http://www.convio.com/contact">CONTACT</a>&nbsp;|&nbsp;<a href="http://www.convio.com/careers" title="Jobs and Worklife at Convio" rel="nofollow">CAREERS</a>&nbsp;|&nbsp;<a href="http://open.convio.com" title="The Convio Open Initiative - APIs, extensions and more for Convio software" rel="nofollow">FOR DEVELOPERS</a> </span>
       <div id="search"><form id="searchForm" name="gs" action="search.jsp" method="get" style="margin: 0px;"><input type="hidden" name="sfga" value="00D000000009LHQ">
 <fieldset><input id="search_input" value="Search" class="clearClick" onfocus="this.value=''" name="query" type="text"><input src="http://www.convio.com/images/bg_search_a.gif" alt="Search" name="btnG" value="Search" class="mcmsSearch" id="search_go" type="image" width="29" height="22">
 </fieldset></form>
@@ -138,18 +257,106 @@ padding: 2px 20px;
   </tr>
   <tr>
     <td class="main-nav">
-      <ul id="nav">
-       <li><a href="http://www.convio.com/our-products" id="cornerL">OUR PRODUCTS </a></li>
-       <li><a href="http://www.convio.com/our-services">OUR SERVICES </a></li>
-        <li><a href="http://www.convio.com/our-research" id="nav2">OUR RESEARCH</a></li>
-        <li><a href="http://www.convio.com/our-clients" id="nav3">OUR CLIENTS</a></li>
-        <li><a href="http://www.convio.com/our-partners" id="nav4">OUR PARTNERS</a></li>
-        <li><a href="http://www.convio.com/convio" id="cornerR">ABOUT US</a></li>
-     </ul>
-      <ul id="nav2">
-        <li><a href="http://www.convio.com/for-our-clients.html" id="nav5">FOR CLIENTS</a></li>
+   <!--NAV BAR START-->
+<div id="main-nav">
+<ul class="nav">
+  <li><a href="#" id="cornerL" title="Nonprofit Software Solutions" style="width:100px; text-align:center" class="anchorclass" rel="productsmenu">PRODUCTS </a></li>
+</ul>
+<div id="productsmenu" class="anylinkcsscols">
+  <div class="prodcolumn-wrapper">
+    <div class="prodcolumn">
+      <div style="padding-left:10px"><span style="color:#766a62; font-size:120%">For small or mid-size nonprofits that need...</span></div>
+      <ul>
+        <li><a href="http://www.convio.com/our-products/common-ground.html">A Donor Database</a></li>
+        <li><a href="http://www.convio.com/our-products/common-ground.html">Help with Online Fundraising</a></li>
       </ul>
-      </td>
+    </div>
+    <div class="prodcolumn">
+      <div style="padding-left:10px"><span style="color:#766a62; font-size:120%">For large or multi-affiliate organizations that need...</span></div>
+      <ul>
+        <!--<li><a href="">CRM and Analytics</a></li>-->
+        <li><a href="http://www.convio.com/our-products/fundraising.html">Email Marketing and Fundraising</a></li>
+        <li><a href="http://www.convio.com/our-products/cms.html">Content Management</a></li>
+        <li><a href="http://www.convio.com/our-products/advocacy.html">Advocacy</a></li>
+        <li><a href="http://www.convio.com/our-products/teamraiser.html">TeamRaiser for Special Events</a></li>
+      </ul>
+    </div>
+  </div>
+</div>
+<ul class="nav">
+  <li><a href="http://www.convio.com/our-services" title="Convio Nonprofit Services" style="width:100px; text-align:center" class="anchorclass" rel="servicesmenu">SERVICES</a></li>
+</ul>
+<div id="servicesmenu" class="anylinkcsscols">
+  <div class="column">
+    <ul>
+      <li><a href="http://www.convio.com/our-services/client-success-services.html">Client Success Services</a></li>
+      <li><a href="http://www.convio.com/our-services/client-support.html">Client Support</a></li>
+      <li><a href="http://www.convio.com/our-services/deployment-services.html">Deployment Services</a></li>
+    </ul>
+  </div>
+</div>
+<ul class="nav">
+  <li><a href="http://www.convio.com/our-research" title="Resources for Nonprofits and Fundraising" style="width:100px; text-align:center" class="anchorclass" rel="resourcesmenu">RESOURCES</a></li>
+</ul>
+<div id="resourcesmenu" class="anylinkcsscols">
+  <div class="column">
+    <ul>
+      <li><a href="http://www.convio.com/our-research/best-practices-guides.html">How-To Guides</a></li>
+      <li><a href="http://www.convio.com/our-research/nonprofit-sector-research.html">Nonprofit Sector Research</a></li>
+      <li><a href="http://www.convio.com/our-research/on-demand-webinars.html">On-demand Webinars</a></li>
+      <li><a href="http://www.convio.com/our-research/newsletter/">Convio Connection Newsletter</a></li>
+    </ul>
+  </div>
+</div>
+<ul class="nav">
+  <li><a href="http://www.convio.com/our-clients" id="nav3" title="Clients Using Convio's Nonprofit Software" style="width:100px; text-align:center" class="anchorclass" rel="clientsmenu">CLIENTS</a></li>
+</ul>
+<div id="clientsmenu" class="anylinkcsscols">
+  <div class="column">
+    <ul>
+      <li><a href="http://www.convio.com/our-clients/case-studies/">Case Studies</a></li>
+      <li><a href="http://www.convio.com/our-clients/sectors/">By Sector</a></li>
+      <li><a href="http://www.convio.com/our-clients/video-testimonials.html">Video Testimonials</a></li>
+    </ul>
+  </div>
+</div>
+<ul class="nav">
+  <li><a href="http://www.convio.com/our-partners" id="nav4" title="Convio's Technology Partnerships" style="width:100px; text-align:center" class="anchorclass" rel="partnersmenu">PARTNERS</a></li>
+</ul>
+<div id="partnersmenu" class="anylinkcsscols">
+  <div class="column">
+    <ul>
+      <li style="color:#766a62; font-size:120%">Our Partners</li>
+      <li><a href="http://www.convio.com/our-partners/find-a-convio-partner.html">Find a Convio Partner</a></li>
+      <li style="color:#766a62; font-size:120%">Become a Partner</li>
+      <li><a href="http://www.convio.com/our-partners/become-a-partner.html">Partner Inquiry</a></li>
+      <li><a href="http://www.convio.com/our-partners/testimonials.html">Partner Testimonials</a></li>
+    </ul>
+  </div>
+</div>
+<ul class="nav">
+  <li><a href="http://www.convio.com/convio" id="cornerR" title="About Convio Nonprofit Solutions" style="width:100px; text-align:center" class="anchorclass" rel="aboutmenu">ABOUT US</a></li>
+</ul>
+<div id="aboutmenu" class="anylinkcsscols">
+  <div class="column">
+    <ul>
+      <li><a href="http://www.convio.com/convio/careers/">Careers at Convio</a></li>
+      <li><a href="http://www.convio.com/convio/certifications-awards.html">Certifications and Awards</a></li>
+      <li><a href="http://www.convio.com/convio/community-collaborations.html">Community Collaborations</a></li>
+      <li><a href="http://ir.convio.com/">Investor Relations</a></li>
+      <li><a href="http://www.convio.com/convio/company-background.html">Company Background</a></li>
+      <li><a href="http://www.convio.com/convio/events/">Events</a></li>
+      <li><a href="http://www.convio.com/convio/leadership.html">Leadership</a></li>
+      <li><a href="http://www.convio.com/convio/news/">News Room</a></li>
+    </ul>
+  </div>
+</div>
+
+<ul class="nav2">
+  <li><a href="http://www.convio.com/for-our-clients.html" id="nav5" title="Convio - For Clients" rel="nofollow">FOR CLIENTS</a></li>
+</ul>
+</div>
+<!--NAV BAR END-->      </td>
   </tr>
   <tr>
     <td><!--Content Section-->
@@ -158,7 +365,7 @@ padding: 2px 20px;
           <td valign="top" class="col-left">
         <div id="leftNav">     
         <!--Action Nav -->
-        <div id="sectionNavigation-184336388" style="DISPLAY: inline">
+        <div id="sectionNavigation-242704427" style="DISPLAY: inline">
 
 
 
@@ -220,7 +427,7 @@ padding: 2px 20px;
 
 
 
-<div class="linksetLinkExternal navigationItem"><a href="http://phx.corporate-ir.net/phoenix.zhtml?c=212073&amp;p=irol-IRHome">Investor Relations</a></div>
+<div class="linksetLinkExternal navigationItem"><a href="http://ir.convio.com">Investor Relations</a></div>
 
 
 
@@ -273,22 +480,7 @@ padding: 2px 20px;
 
 
            <!--Get Started -->
-      <div id="item-184336389" style="DISPLAY: inline">
-
-
-
-
-
-  
-
-<div id="get_started_interior">
-<div id="get_started_title">
-<h3 class="header">Get Started</h3></div>
-<ul id="nav_get_started">
-<li><a title="Download a Brochure" onclick="MM_openBrWindow('http://www.convio.com/download-a-brochure.html','brochures','resizable=yes,width=550,height=360')" href="#">DOWNLOAD A BROCHURE</a> 
-</li><li><a href="http://www.convio.com/reg/request-a-demo.html" title="Request a Demo">REQUEST A DEMO</a> 
-</li><li><a href="http://www.convio.com/our-research/newsletter/" title="Convio Connection Newsletter">RECEIVE OUR NEWSLETTER</a> </li></ul></div>
-</div>
+      <!--<DIV class=templateComponent id="item-242068762" style="DISPLAY: inline"></DIV>-->
            </td>
           <td valign="top" class="two-column">
            
@@ -304,7 +496,9 @@ padding: 2px 20px;
 
 
 
+
 <div id="contentDiv">
+
   <script type="text/javascript" src="/components/form/form.js"></script>
   <script type="text/javascript" src="/components/cookie/cookie.js"></script>
 <table id="pagelayout" cellspacing="0" cellpadding="0" width="100%" border="0">
@@ -340,12 +534,15 @@ padding: 2px 20px;
 </span>
 </div>
 <h1>Policies</h1>
-<br>
+<p>&nbsp;</p>
 <ul>
 <li>
 <div class="teaser"><a href="#Privacy_Policy">Privacy Policy</a></div>
-</li><li>
-<div class="teaser"><a title="Client Engagement Principles" href="#Client_Engagement_Principles">Client Engagement Principles</a></div></li></ul>
+</li>
+<li>
+<div class="teaser"><a href="#Client_Engagement_Principles" title="Client Engagement Principles">Client Engagement Principles</a></div>
+</li>
+</ul>
 <h3><a name="Privacy_Policy"></a>Privacy Policy</h3>
 <p>Registering with us allows you to take advantage of all our unique services as a Convio.com registered user, including reports on critical developments affecting the world of nonprofits, stories on Internet technology for nonprofits from leading consultants in the field, best practices in technology for nonprofits, tips and strategies from your peers in nonprofits on how to get the most out of technology, and announcements of new Convio releases. </p>
 <p>Convio, Inc. ("Convio") has created this Privacy Policy to explain why we collect particular information and how we will protect your personal privacy within our website. The following discloses our information gathering and dissemination practices for the website located at the URL www.convio.com and any other site provided by Convio (collectively, the "Site").</p>
@@ -353,21 +550,31 @@ padding: 2px 20px;
 <p>Because we want to demonstrate our commitment to your privacy, this Privacy Policy notifies you of: </p>
 <ol>
 <li>What personally identifiable information of yours is collected through the Site; 
-</li><li>Who collects such information; 
-</li><li>How such information is used; 
-</li><li>With whom your information may be shared; 
-</li><li>What choices you have regarding collection, use and distribution of your information; 
-</li><li>What kind of security procedures are in place to protect the loss, misuse or alteration of information under our control; 
-</li><li>and, How you can correct any inaccuracies in your information. </li></ol>
-<p>Questions regarding this statement should be directed to Convio by sending an email to <a title="E-mail webmaster@convio.com" href="mailto:webmaster@convio.com">webmaster@convio.com</a>. Please reference this Privacy Policy in your subject line. </p>
+</li>
+<li>Who collects such information; 
+</li>
+<li>How such information is used; 
+</li>
+<li>With whom your information may be shared; 
+</li>
+<li>What choices you have regarding collection, use and distribution of your information; 
+</li>
+<li>What kind of security procedures are in place to protect the loss, misuse or alteration of information under our control; 
+</li>
+<li>and, How you can correct any inaccuracies in your information. </li>
+</ol>
+<p>Questions regarding this statement should be directed to Convio by sending an email to <a href="mailto:webmaster@convio.com" title="E-mail webmaster@convio.com">webmaster@convio.com</a>. Please reference this Privacy Policy in your subject line. </p>
 <h2>What Information We Collect and How We Use That Information</h2>
 <p>Our registration forms require users to give us contact information that may include name, email address, format preference (HTML vs. Text), address, interests, and similar information. We do not request or store sensitive information from our visitors such as credit card or social security numbers. We use customer contact information from the registration forms to send the user requested information about our company. We never sell, share or trade any of our customer information with other companies. </p>
 <h2>Contact and Profile Information</h2>
 <p>Convio is the sole owner of the information collected on the Site. This Site does not collect personally identifying information about users except when you specifically and knowingly provide it. For example, we collect information from you in the following ways: </p>
 <ul>
 <li>Some areas of our Site request or require contact and other information. 
-</li><li>During the registration process, we collect personal and other information such as your name, address, and email address. 
-</li><li>Demographic and profile data (e.g., age, gender and income level) may also be collected at our Site. We use such data to improve our marketing and promotional efforts, to statistically analyze site usage, to improve our content and product offerings and to customize our site's content, layout, and services. </li></ul>
+</li>
+<li>During the registration process, we collect personal and other information such as your name, address, and email address. 
+</li>
+<li>Demographic and profile data (e.g., age, gender and income level) may also be collected at our Site. We use such data to improve our marketing and promotional efforts, to statistically analyze site usage, to improve our content and product offerings and to customize our site's content, layout, and services. </li>
+</ul>
 <p>Additionally, this data may be shared with advertisers or other third parties solely on an aggregated basis. We do not share any personally identifying information with any third party without your consent, except to a court or governmental agency if required by law. </p>
 <h2>Internet Protocol Address</h2>
 <p>We collect an IP address from all visitors to our Site. An IP address is a number that is automatically assigned to your computer when you use the Internet. We use IP addresses to help diagnose problems with our server, administer our Site, analyze trends, track users' movement, gather broad demographic information for aggregate use in order for us to improve the Site, and deliver customized, personalized content. IP addresses are not linked to personally identifiable information.</p>
@@ -381,16 +588,19 @@ padding: 2px 20px;
 <h2>Choice/Opt-Out</h2>
 <p>Convio provides users with the opportunity to opt-out of receiving communications from us at any time. Convio gives users the following options for removing their information from our database to not receive future communications. </p>
 <ul>
-<li>You can email us at <a title="E-mail webmaster@convio.com" href="mailto:webmaster@convio.com">webmaster@convio.com</a>. 
-</li><li>You can click on the "Unsubscribe" link included at the bottom of your email and follow the instructions on the web page. </li></ul>
+<li>You can email us at <a href="mailto:webmaster@convio.com" title="E-mail webmaster@convio.com">webmaster@convio.com</a>. 
+</li>
+<li>You can click on the "Unsubscribe" link included at the bottom of your email and follow the instructions on the web page. </li>
+</ul>
 <p>Our unsubscribe requests are processed immediately. </p>
 <h2>Correct/Update</h2>
 <p>Convio gives you the following options for changing and modifying information previously provided. Upon your request, we will also remove any other personally identifying information we may retain from our databases. To make any such changes or requests: </p>
 <ul>
-<li>Email us at <a title="E-mail webmaster@convio.com" href="mailto:webmaster@convio.com">webmaster@convio.com</a>. </li></ul>
+<li>Email us at <a href="mailto:webmaster@convio.com" title="E-mail webmaster@convio.com">webmaster@convio.com</a>. </li>
+</ul>
 <p>Additional residual information may remain in our archives and records, but this information will not be used for any commercial purpose. We reserve the right to maintain information on users who have violated our Terms of Use or who have had their access to our Site blocked. </p>
 <h2>Tell-A-Friend &amp; Email this Page Services</h2>
-<p>If a user elects to use our referral service for informing a friend about our Site, we ask them for the friend's name and email address. Convio will automatically send the friend a one-time email inviting them to visit the Site. Convio stores this information for the sole purpose of sending this one-time email. The friend may contact Convio at <a title="E-mail webmaster@convio.com" href="mailto:webmaster@convio.com">webmaster@convio.com</a> to request the removal of this information from our database. </p>
+<p>If a user elects to use our referral service for informing a friend about our Site, we ask them for the friend's name and email address. Convio will automatically send the friend a one-time email inviting them to visit the Site. Convio stores this information for the sole purpose of sending this one-time email. The friend may contact Convio at <a href="mailto:webmaster@convio.com" title="E-mail webmaster@convio.com">webmaster@convio.com</a> to request the removal of this information from our database. </p>
 <h2>Surveys</h2>
 <p>We may conduct occasional online surveys via our website or via an email newsletter. These surveys are entirely voluntary and you may easily decline to participate. Participating in an online survey does not automatically add your name to the subscriber list for the Convio Newsletter. </p>
 <h2>Other Websites</h2>
@@ -398,7 +608,7 @@ padding: 2px 20px;
 <h2>Contacting the Website</h2>
 <p>If you have any questions about this Privacy Policy, the practices of this Site, or your dealings with this Site, you can contact: </p>
 <p>Mailing Address:<br>11501 Domain Drive <br>Suite 200 <br>Austin, TX 78758<br><br>888-528-9501 Toll-free Phone </p>
-<p>You can also send an email to <a title="E-mail webmaster@convio.com" href="mailto:webmaster@convio.com">webmaster@convio.com</a>.</p>
+<p>You can also send an email to <a href="mailto:webmaster@convio.com" title="E-mail webmaster@convio.com">webmaster@convio.com</a>.</p>
 <p><a href="#top">Back to top</a></p>
 <p>&nbsp;</p>
 <h3><a name="Client_Engagement_Principles"></a>Client Engagement Principles</h3>
@@ -409,7 +619,12 @@ padding: 2px 20px;
 <td class="col-right" valign="top"><!--Right Column -->
 <div id="right_column"> 
 <div id="right_content"> </div></div></td></tr></tbody></table>
+
+
 </div>
+
+
+
 
 
 
@@ -467,13 +682,16 @@ CONVIO.user.isAnonymous = true;
 
 
 
+
+				 
+
 <br>
           </td>
          </tr>
       </tbody></table>
 
   </td></tr><tr>
-    <td style="padding-top:20px;"><div id="item-184336390" style="Float:left; margin-left: 285px; width: 150px">
+    <td style="padding-top:20px;"><div id="item-242704428" style="Float:left; margin-left: 285px; width: 150px">
 
 
 
@@ -484,7 +702,7 @@ CONVIO.user.isAnonymous = true;
 <a class="a2a_dd" href="http://www.addtoany.com/share_save"><img src="http://static.addtoany.com/buttons/share_save_171_16.png" width="171" height="16" border="0" alt="Share/Bookmark"></a><script type="text/javascript">a2a_show_title=1;</script><script type="text/javascript" src="http://static.addtoany.com/menu/page.js"></script>
 
 </div>
-  <div id="printer_friendly-184336391" style="Float:right; margin-right: 200px; width: 250px">
+  <div id="printer_friendly-242704429" style="Float:right; margin-right: 200px; width: 250px">
 
 
 
@@ -519,14 +737,10 @@ CONVIO.user.isAnonymous = true;
 
 
   <tr>
-    <td><div id="footer">
-<div id="sm-links"><ul id="sm-buttons"><li style="font-weight:bold;">Connect with Convio:</li>
-
-<li><a href="http://www.facebook.com/pages/Convio/18963684104" target="_blank"><img src="http://www.convio.com/images/logos/facebook.gif" alt="Convio on Facebook" border="0">Facebook</a></li>
-<li><a href="http://www.flickr.com/photos/convio/" target="_blank"><img src="http://www.convio.com/images/logos/flickr.gif" alt="Convio on Flickr" border="0">Flickr</a></li>
-<li><a href="http://twitter.com/convio" target="_blank"><img src="http://www.convio.com/images/logos/twitter.gif" alt="Convio on Twitter" border="0">Twitter</a></li>
-<li><a href="http://www.youtube.com/convioblog" target="_blank"><img src="http://www.convio.com/images/logos/youtube-1.gif" alt="Convio on YouTube" border="0">YouTube</a></li></ul></div>
-<div id="poweredBy-184336392" style="DISPLAY: inline">
+    <td>
+<!--start footer-->
+  <div id="footer">
+    <div id="poweredBy-242704430" style="DISPLAY: inline">
 
 
 
@@ -552,8 +766,13 @@ CONVIO.user.isAnonymous = true;
     nonprofit software</a>
 </div>
 <!-- END: Powered By -->
-</div> 888-528-9501 | <a href="mailto:info@convio.com">INFO@CONVIO.COM</a> | <a href="http://www.convio.com/contact">CONTACT</a> | <a href="http://www.convio.com/careers">CAREERS</a> | <a href="http://www.convio.com/convio/policies">POLICIES</a> | <a href="http://www.convio.com/sitemap">SITE MAP</a><br>
-     Copyright 2010, Convio, Inc. All rights reserved.</div></td>
+</div>    <!-- END: Powered By -->
+    <div id="bottom-links"> 888-528-9501 | <a href="mailto:info@convio.com">INFO@CONVIO.COM</a> | <a href="http://www.convio.com/contact" title="Convio Email Address Phone">CONTACT</a> | <a href="http://www.convio.com/careers" title="Jobs at Convio">CAREERS</a> | <a href="http://open.convio.com" title="The Convio Open Initiative - APIs, extensions and more for Convio software" rel="nofollow">FOR DEVELOPERS</a> | <a href="http://www.convio.com/convio/policies" title="Convio Policies">POLICIES</a> | <a href="http://www.convio.com/sitemap" title="Convio Site Map">SITE MAP</a><br>
+      Copyright 2011, Convio, Inc. All rights reserved.</div>
+  </div>
+  <div class="clear"></div>  
+  <!--end footer-->
+</td>
   </tr>
 </tbody></table>
 <title>Policies | Convio</title>
@@ -561,26 +780,21 @@ CONVIO.user.isAnonymous = true;
 
 
 
-
-<div id="include-184336393" style="DISPLAY: inline">
-
+<div id="item-242704431" style="DISPLAY: inline">
 
 
 
 
 
+  
 
-<span class="includeDocument">
-
-
-
-
-
-
-
-
-
-<!-- Google Analytics -->
+<!-- begin Apogee Results CRM integration -->
+<script type="text/javascript">// <![CDATA[
+var domain    =    "convio.com";
+var imptest    =    false;
+// ]]></script>
+<script src="http://www.convio.com/js/apoCookieFunctions-1-2a.js" type="text/javascript"></script>
+<!-- <<<<<<  change "/scripts" to your scripts directory where you put the "apoCookieFunctions-1.2.js" file --><!-- end Apogee Results CRM integration --><!-- Google Analytics -->
 <script type="text/javascript">// <![CDATA[
 	  var _gaq = _gaq || [];
 	  _gaq.push(['_setAccount', 'UA-418575-1']);
@@ -693,7 +907,6 @@ var imptest    =    false;
 	window.onload = SetElqContent2;
 // ]]></script>
 <!-- / Eloqoa form pre-populate -->
-</span>
 </div>
 
 
@@ -701,6 +914,7 @@ var imptest    =    false;
 
 
 
-<!-- 10.12.0.31:8900 -->
+
+<!-- 10.12.0.37:8900 -->
 
 </body></html>
