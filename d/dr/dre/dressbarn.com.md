@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dressbarn.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229231125id_/http%3A//www.dressbarn.com/customer-service/safety-security-and-privacy/t%23Privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dressbarn.com privacy policy that was archived on 2011-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110608002336id_/http%3A//www.dressbarn.com/customer-service/safety-security-and-privacy/t%23Privacy_policy) for the most accurate reproduction.*
 
 # Customer Service | Safety Security And Privacy at Dressbarn.com
 
@@ -72,3 +72,29 @@ Unless you have signed up in our stores or on our web site to receive our promot
 6) _Equal Opportunity Employer._ **dressbarn** is an Equal Opportunity Employer. All persons shall have the opportunity to be considered for employment without regard to their race, color, religion, national origin, ancestry, alienage or citizenship status, age, disability or handicap, perceived disability or handicap, sex, marital status, veteran status, sexual orientation, or any other characteristic protected by applicable federal, state, or local laws.
 
 7) _Compliance With Laws._ Access to and use of this Site is subject to all applicable international, federal, state, and local laws and regulations. User agrees not to use this Site in any way which violates such laws or regulations.
+
+The dressbarn Mobile Fashion Club will provide SMS text announcements related to sales, store activities, online and offline promotions, trends and fashion to users who have opted in from the web and from keyword opt-in. 
+
+If your mobile operator is not participating, you will not receive a reply to your messages. Some operators may not support some services. Pre-paid users may not be able to participate – Check with your mobile operator. 
+
+You'll receive up to eight (8) messages per month. There is no additional charge from dressbarn related to this service. Your mobile operator may charge standard data and other text messaging fees for text messages sent and received. To stop a service at any time, reply FASHION2 STOP to 87812 if you opted in from dressbarn.com. Text FASHION STOP if you opted in anywhere else. Or, just text STOP to 87812 to end all messages. Text FASHION HELP, or FASHION2 HELP to 87812 to receive help information, or just reply HELP to any message. 
+
+Any messages you send in text messages become our property. No remuneration is implied or offered. News and data delivered are believed to be accurate at the time of delivery. 
+
+For Support, email [customerservice@dressbarn.com](mailto:customerservice@dressbarn.com) or call 1-800-dressbarn (1-800-373-7722). 
+
+**FAQ:**
+
+Having some trouble signing up for the dressbarn Mobile Fashion Club? Here are some tips and tricks to help you become a member! 
+
+Q: I'm not receiving a confirmation message. A: Check the list of supported carriers to make sure yours is participating! Participating carriers are: AT&T, Verizon Wireless, Sprint, T-Mobile, Nextel, Virgin Mobile, CellularOne, nTelos, Cincinnati Bell Wireless, US Cellular, and Alltel.  
+A: Check the number you’re texting to make sure it's 87812. 
+
+Q: I have a BlackBerry and I don’t get a response, or I keep getting an error message. What can I do?  
+A: Try saving 87812 as a contact in your phone before sending the text message. 
+
+Q: I have saved the number as a contact and still no confirmation text. Can you help?  
+A: Your SMS inbox may be full. Try rebooting your phone by taking out the battery and restarting it. 
+
+Q: I'm still having trouble signing up for the dressbarn Mobile Fashion Club. What should I do?  
+A: You can call us at 1-800-dressbarn (1-800-373-7722). If you have trouble after normal business hours please send us an email at [customerservice@dressbarn.com](mailto:customerservice@dressbarn.com) and one of our representatives will get back to you shortly. 
