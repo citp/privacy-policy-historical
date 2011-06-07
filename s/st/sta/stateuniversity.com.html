@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the stateuniversity.com privacy policy that was archived on 2010-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101231082901id_/http%3A//www.stateuniversity.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the stateuniversity.com privacy policy that was archived on 2011-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110607224628id_/http%3A//www.stateuniversity.com/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -7,8 +7,8 @@
   <title>Privacy Policy</title>
 	<link href="http://feeds.feedburner.com/StateuniversityBlog" rel="alternate" title="RSS" type="application/rss+xml">
 
-	<script src="http://assets1.stateuniversity.com/javascripts/base_packaged.js?1293688519" type="text/javascript"></script>
-	<link href="http://assets3.stateuniversity.com/stylesheets/base_packaged.css?1293688524" media="all" rel="stylesheet" type="text/css">
+	<link href="http://cdn.stateuniversity.com/assets/base.css" media="all" rel="stylesheet" type="text/css">
+	<script src="http://cdn.stateuniversity.com/assets/base.js" type="text/javascript"></script>
 <script type="text/javascript" async="" src="http://tcr.tynt.com/javascripts/Tracer.js?user=d1CwI4pPar3PzPacn9QLBk&amp;amp;s=50&amp;amp;st=1"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="http://edge.quantserve.com/quant.js"></script><script src="https://c.compete.com/bootstrap/197e39a0b655b0eda08274e2455f3a4a/bootstrap.js" type="text/javascript" async=""></script></head>
 <body id="about">
   <script type="text/javascript">
@@ -104,7 +104,7 @@ window.google_analytics_uacct = 'UA-161942-2';
 	<div class="menu">
 		<ul>
 		  <li>
-		    <a href="http://www.stateuniversity.com/" class="active logo" rel="nofollow"><img alt="Stateu_super_nav_bg" height="22" src="http://assets0.stateuniversity.com/images/stateu_super_nav_bg.png?1293688509" title="State Universities" width="157"></a>
+		    <a href="http://www.stateuniversity.com/" class="active logo" rel="nofollow"><img alt="Stateu_super_nav_bg" height="22" src="http://cdn.stateuniversity.com/images/stateu_super_nav_bg.png" title="State Universities" width="157"></a>
 		  </li>
 			<li>
 							<span>State Universities</span>
@@ -174,20 +174,28 @@ dialogBox = new Dialogbox();
 
 
 		<div id="searchbox">
-			<form action="http://www.jrank.org/api/search/v2" method="GET">
-<fieldset class="searchBox">
-	<label><a href="http://www.jrank.org">Site Search Engine</a></label>	<select name="key">
-	  <option value="8a8885a5adffa5ea98f8f19285767c2acb813152">Colleges / Universities</option>
-	  <option value="12deb290bc58615072d41a583348cd56873adc9e">Elementary / Secondary Schools</option>
-  </select>
-	<input class="queryText" type="text" name="q" value="">
-	<input class="querySubmit" type="Submit" value="Search">
-</fieldset>
-</form>
+			<div class="in_place_editor">
+	<form action="/school/search" id="search_form" method="get">  <fieldset class="searchBox">
+    <label for="school_name"><a href="http://www.jrank.org">Site Search Engine</a></label>    <div class="field">
+  		      
+      <input id="model_auto_completer_hf_9ac4269ff041796c6f3c292952fdd2e755f35c5b" name="school[id]" type="hidden" value="">
+      <input autocomplete="off" class="queryText" id="model_auto_completer_tf_9ac4269ff041796c6f3c292952fdd2e755f35c5b" name="school[name]" onchange="window.setTimeout(function () {this.value = this.model_auto_completer_cache}.bind(this), 200)" onfocus="if (this.model_auto_completer_cache == undefined) {this.model_auto_completer_cache = this.value}" type="text" value="">
+      <div class="auto_complete" id="model_auto_completer_tf_9ac4269ff041796c6f3c292952fdd2e755f35c5b_auto_complete"></div>
+      <script type="text/javascript">
+//<![CDATA[
+var model_auto_completer_tf_9ac4269ff041796c6f3c292952fdd2e755f35c5b_auto_completer = new Ajax.Autocompleter('model_auto_completer_tf_9ac4269ff041796c6f3c292952fdd2e755f35c5b', 'model_auto_completer_tf_9ac4269ff041796c6f3c292952fdd2e755f35c5b_auto_complete', '/school/auto_complete_model_for_school_name', {afterUpdateElement: function(element, value) { var model_id = /(\d+)$/.exec(value.id)[1]; $("model_auto_completer_hf_9ac4269ff041796c6f3c292952fdd2e755f35c5b").value = model_id; element.model_auto_completer_cache = element.value; (function(v_element, value, h_element, id_value) { $('search_form').submit(); })(element, value, $("model_auto_completer_hf_9ac4269ff041796c6f3c292952fdd2e755f35c5b"), model_id); } , indicator:'school_name_progress', minChars:3})
+//]]>
+</script>
+
+
+  		<img alt="Busy" class="busy" id="school_name_progress" src="http://cdn.stateuniversity.com/images/busy.gif" style="display: none;">
+		</div>
+  </fieldset>
+  </form></div>
 		</div>
 		
 		<div id="footer">
-	Copyright © 2010 – StateUniversity.com –
+	Copyright © 2011 – StateUniversity.com –
 	<a href="http://www.stateuniversity.com/about/copyright" rel="nofollow">Copyright Notice</a> /
 	<a href="http://www.stateuniversity.com/about/privacy" rel="nofollow">Privacy Policy</a> /
       <a href="mailto:contact@stateuniversity.com">Contact StateUniversity.com</a>
