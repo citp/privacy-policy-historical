@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the pesi.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222000605id_/http%3A//pesi.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pesi.com privacy policy that was archived on 2011-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110608011905id_/http%3A//pesi.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - PESI
+# Privacy Policy
 
-### PESI PRIVACY POLICY 
+### PRIVACY POLICY 
 
 #### Privacy Policy
 
-PESI, LLC has created this privacy policy in order to demonstrate our firm commitment to your privacy. We highly value the trust and confidence our customers have developed in PESI throughout the past twenty-five years of business. In short, we would do nothing to jeopardize these relationships. To illustrate our intent, the following discloses our information collection, utilization, and protection practices for this website: [http://www.pesi.com/](https://web.archive.org/).
+CMI Education has created this privacy policy in order to demonstrate our firm commitment to your privacy. We highly value the trust and confidence our customers have developed throughout the past twenty-five years of business. In short, we would do nothing to jeopardize these relationships. To illustrate our intent, the following discloses our information collection, utilization, and protection practices for this website: [http://www.pesi.com/](https://web.archive.org/).
 
 #### Information Collection
 
