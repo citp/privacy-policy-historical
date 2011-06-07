@@ -1,8 +1,10 @@
-<!--The following is the downloaded HTML source of the bis.org privacy policy that was archived on 2010-06-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100612195356id_/http%3A//www.bis.org/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bis.org privacy policy that was archived on 2011-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110607220551id_/http%3A//www.bis.org/privacy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta http-equiv="Content-Script-Type" content="text/javascript">
+	<meta http-equiv="Content-Style-Type" content="text/css">
 
 	<meta name="description" content="Privacy policy">
 	<meta http-equiv="Last-Modified" content="Sat, 12 Aug 2006 18:00:00 GMT">
@@ -13,7 +15,9 @@
 	<link rel="icon" href="/favicon.ico" type="image/x-icon">
 	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
 	
-	<link href="/dcms/css/standard.css" type="text/css" rel="stylesheet">
+	<link href="/dcms/css/bis.css" type="text/css" rel="stylesheet">
+	<link media="print" href="/dcms/css/print.css" type="text/css" rel="stylesheet">
+	
 	
 	<!-- JavaScript variable to set the active Menu -->
 	<script type="text/javascript" src="/dcms/js/standard.js"></script>
@@ -27,114 +31,252 @@
 	<div id="accessibilityLinks">
 		<a href="#accessibilityLinks" title="access keys list" accesskey="0"></a><a href="#center" title="skip navigation" accesskey="1"></a><a href="#sp_q" title="quick search" accesskey="2"></a><a title="main menu" href="#main_menu" accesskey="3"></a><a title="local menu" href="#local_menu" accesskey="4"></a><a title="sitemap" href="/sitemap/" accesskey="5"></a>
 	</div>
-	<div id="header">
-		<div id="header_left">
-			<a id="website_logo" href="/"><img width="401" height="64" src="/img/logo.gif" alt="The Bank for International Settlements"></a>
+	<div id="top">
+		<ul id="top_links" title="Top links">
+			<li class="first"><a title="RSS Feeds" class="rss" href="/rss/index.htm">RSS</a></li>
+			<li><a class="twitter" title="Follow us on twitter" href="http://twitter.com/BIS_org"><img alt="Follow us on twitter" src="/img/twitter.gif" width="16" height="16" style="margin-bottom:-4px;"></a></li>
+			<li><a title="E-mail alert" class="email" href="/emailalert.htm">E-mail alert</a></li>
+			<li><a title="Sitemap" href="/sitemap/">Sitemap</a></li>
+			<li><a title="FAQ" href="/about/faq.htm">FAQ</a></li>
+			<li><a title="Contact" href="/about/contact.htm">Contact</a></li>			<li style="display:none" id="logout_link"><a href="/dcms/login?logout=true">Log out</a></li>
+		</ul>
+	</div>
+	<div id="logo_and_search">
+		<div id="las_left">
+			<a id="website_logo" href="/index.htm"><img width="408" height="42" src="/img/logo_bis.gif" alt="The Bank for International Settlements"></a>
 		</div>
-		<div id="header_right">
-			<ul id="header_links" title="Header links">
-				<li class="first"><a class="rss" href="/rss/index.htm">RSS</a></li>
-								<li><a href="/privacy.htm?format=print" target="_blank" rel="external">Print-friendly</a></li> 
-				<li><a href="/emailalert.htm">E-mail alert</a></li>
-				<li><a href="/about/faq.htm">FAQ</a></li>
-				<li><a href="/about/contact.htm">Contact</a></li>				<li style="display:none" id="logout_link"><a href="/dcms/login?logout=true">Log out</a></li>
-			</ul>
-			<div class="hr"> </div>
+		<div id="las_right">
 			<div id="search_form">
-				<p><a href="/sitemap/">Sitemap</a> | <a href="/search/?adv=1">Advanced search</a> | </p>
 				<form id="frmSearch" action="/search/" method="get" accept-charset="UTF-8">
 					<fieldset id="quick_search">
-						<input id="sp_q" name="q" maxlength="80" size="19" type="text">
-						<label for="sp_q" accesskey="2">
-							<a href="javascript:submitQuickSearch();" onclick="submitQuickSearch();"><img src="/img/list-arrow.gif" alt="Go"> Go
-								<input style="display:none;" id="sp_submit" type="submit" value="Go">
-							</a>
-						</label>
+						<input class="search_field" id="sp_q" name="q" maxlength="80" size="19" type="text" onfocus="if(this.value==='Search')this.value='';" onblur="if(this.value==='')this.value='Search';" value="Search">
+						<input class="go" type="submit" value="Go">
 					</fieldset>
 					<input type="hidden" id="adv" name="adv" value="1">
 				</form>
+			</div>
+			<div id="advanced_search">
+				<p><a href="/search/?adv=1">Advanced search</a></p>
 			</div>
 		</div>
 	</div>
 	<div id="header_separator"> </div>
 	<div id="navigation_main">
-		<ul id="main_menu">
+		<ul id="main_menu" class="dropdown">
 			<li id="mm_first"><a href="/about/index.htm">About BIS</a>
-					<ul title="About BIS">
-							<li><a href="/about/index.htm">Overview</a></li>
-							<li><a href="/about/orggov.htm">Organisation</a></li>
-							<li><a href="/about/functions.htm">Activities</a></li>
-							<li><a href="/about/history.htm">History</a></li>
-							<li><a href="/about/legal.htm">Legal information</a></li>
-							<li><a href="/regional_offices.htm">Representative offices</a></li>
-							<li><a href="/goto.htm?Http://sh.webhire.com/servlet/av/search?SearchFields=ACCT_ID&amp;ACCT_ID=550&amp;SiteName=Internet&amp;ResultTemplate=AVResult.html&amp;SortField=JOB_TITLE&amp;SortOrder=Ascend">Recruitment</a></li>
-							<li><a href="/about/contact.htm">Contact</a></li>
-					</ul>
+				<ul>
+					<li class=""><a href="/about/index.htm">Overview</a></li>
+					<li class="submenu"><a href="/about/orggov.htm">Organisation</a>						<ul>
+							<li><a href="/about/board.htm">Board of Directors</a></li>
+							<li><a href="/about/officials.htm">Management</a></li>
+							<li><a href="/about/agm.htm">Annual General Meeting</a></li>
+						</ul>
+					</li>
+					<li class=""><a href="/about/functions.htm">Activities</a></li>
+					<li class="submenu"><a href="/about/history.htm">History</a>						<ul>
+							<li><a href="/about/history.htm">Overview</a></li>
+							<li><a href="/about/formerofficials.htm">Former Management</a></li>
+							<li><a href="/about/formerboard.htm">Former Board</a></li>
+							<li><a href="/about/chronology.htm">BIS Chronology</a></li>
+							<li><a href="/about/archive.htm">Archive collections</a></li>
+							<li><a href="/about/usingarchive.htm">Conditions for using the archives</a></li>
+						</ul>
+					</li>
+					<li class="submenu"><a href="/about/legal.htm">Legal information</a>						<ul>
+							<li><a href="/about/at_bis.htm">Administrative Tribunal of the BIS (ATBIS)</a></li>
+							<li><a href="/about/arb_trib.htm">Hague Arbitral Tribunal</a></li>
+							<li><a href="/about/warning0405.htm">Fraudulent schemes</a></li>
+							<li><a href="/about/shareswd.htm">Shares withdrawal</a></li>
+						</ul>
+					</li>
+					<li class="submenu"><a href="/regional_offices.htm">Representative offices</a>						<ul>
+							<li><a href="/about/repoffice_americas.htm">Americas Office</a></li>
+							<li><a href="/about/repoffice_asia.htm">Asian Office</a></li>
+						</ul>
+					</li>
+					<li class="submenu"><a href="/careers/index.htm">Careers</a>						<ul>
+							<li><a href="/careers/working_environment.htm">Why join the BIS?</a></li>
+							<li><a href="/careers/departments.htm">BIS departments</a></li>
+							<li><a href="/careers/profiles.htm">Meet our people</a></li>
+							<li><a href="/careers/application_procedure.htm">Applying to the BIS</a></li>
+							<li><a href="/careers/relocating_to_basel.htm">Relocating</a></li>
+							<li><a href="/careers/partners_basel.htm">Information for partners</a></li>
+							<li><a href="/careers/vacancies.htm">Current vacancies</a></li>
+						</ul>
+					</li>
+					<li class=""><a href="/about/contact.htm">Contact</a></li>
+				</ul>
 			</li>
 			<li><a href="/central_bank_hub_overview.htm">Central bank hub</a>
-					<ul title="Central bank hub">
-							<li><a href="/central_bank_hub_overview.htm">Overview</a></li>
-							<li><a href="/cbanks.htm">Central bank websites</a></li>
-							<li><a href="/list/cbspeeches/index.htm">Central bankers' speeches</a></li>
-							<li><a href="/ijcb.htm">International Journal of Central Banking</a></li>
-							<li><a href="/regauth.htm">Regulatory authorities</a></li>
-							<li><a href="/cbhub/index.htm">Research hub</a></li>
-					</ul>
+				<ul>
+					<li class=""><a href="/central_bank_hub_overview.htm">Overview</a></li>
+					<li class=""><a href="/cbanks.htm">Central bank websites</a></li>
+					<li class=""><a href="/list/cbspeeches/index.htm">Central bankers' speeches</a></li>
+					<li class=""><a href="/ijcb.htm">International Journal of Central Banking</a></li>
+					<li class=""><a href="/regauth.htm">Regulatory authorities and supervisory agencies</a></li>
+					<li class="submenu"><a href="/cbhub/index.htm">Research hub</a>						<ul>
+							<li><a href="/cbhub/wnew.htm">Recent additions</a></li>
+							<li><a href="/cbhub/sources.htm">by Institution</a></li>
+							<li><a href="/cbhub/list/jel_classifications/index.htm">by JEL classification</a></li>
+							<li><a href="/cbhub/list/authors/index.htm">by Author</a></li>
+							<li><a href="/cbhub/search.htm">Search titles and abstract</a></li>
+							<li><a href="/hub/emailalert.htm">Research Hub email alert</a></li>
+						</ul>
+					</li>
+				</ul>
 			</li>
 			<li><a href="/stability.htm">Monetary &amp; financial stability</a>
-					<ul title="Monetary &amp; financial stability">
-							<li><a href="/stability.htm">Overview</a></li>
-							<li><a href="/publ/bcbsca.htm">Basel II</a></li>
-							<li><a href="/bcbs/index.htm">Basel Committee on Banking Supervision</a></li>
-							<li><a href="/cgfs/index.htm">Committee on the Global Financial System</a></li>
-							<li><a href="/cpss/index.htm">Committee on Payment and Settlement Systems</a></li>
-							<li><a href="/ifc/index.htm">Irving Fisher Committee</a></li>
-							<li><a href="/fsi/aboutfsi.htm">Financial Stability Institute</a></li>
-							<li><a href="/about/comsecr.htm">Other BIS-hosted organisations</a></li>
-					</ul>
+				<ul>
+					<li class=""><a href="/stability.htm">Overview</a></li>
+					<li class="submenu"><a href="/bcbs/basel3.htm">Basel III</a>						<ul>
+							<li><a href="/list/basel3/index.htm">Compilation of documents that form "Basel III"</a></li>
+						</ul>
+					</li>
+					<li class="submenu"><a href="/bcbs/index.htm">Basel Committee on Banking Supervision</a>						<ul>
+							<li><a href="/bcbs/history.htm">History of the Committee</a></li>
+							<li><a href="/about/factbcbs.htm">Fact sheet</a></li>
+							<li><a href="/list/bcbs/index.htm">Publications</a></li>
+							<li><a href="/list/press_releases/said_7/index.htm">Press releases</a></li>
+							<li><a href="/bcbs/speeches.htm">Speeches</a></li>
+							<li><a href="/bcbs/events/index.htm">Events</a></li>
+							<li><a href="/bcbs/jointforum.htm">Joint Forum</a></li>
+							<li><a href="/list/bcbs_wp/index.htm">Working Papers</a></li>
+							<li><a href="/list/bcbs_nl/index.htm">Newsletters</a></li>
+							<li><a href="/bcbs/commentletters/commentletters.htm">Comments by BCBS</a></li>
+						</ul>
+					</li>
+					<li class="submenu"><a href="/cgfs/index.htm">Committee on the Global Financial System</a>						<ul>
+							<li><a href="/about/factcgfs.htm">Fact sheet</a></li>
+							<li><a href="/cgfs/mandate.htm">Mandate</a></li>
+							<li><a href="/list/cgfs/index.htm">Publications</a></li>
+						</ul>
+					</li>
+					<li class="submenu"><a href="/cpss/index.htm">Committee on Payment and Settlement Systems</a>						<ul>
+							<li><a href="/cpss/cpssinfo.htm">Background information</a></li>
+							<li><a href="/list/cpss/index.htm">Publications</a></li>
+							<li><a href="/about/factcpss.htm">Fact sheet</a></li>
+							<li><a href="/cpss/paysysinfo.htm">Payment system information</a></li>
+							<li><a href="/statistics/payment_stats.htm">Payment statistics</a></li>
+							<li><a href="/cpss/cpsspubl_es.htm">Index of Spanish translations</a></li>
+							<li><a href="/publ/cpss00b.htm">Glossary of Terms</a></li>
+							<li><a href="/cpss/cpsspubl_fr.htm">Index of French translations</a></li>
+							<li><a href="/cpss/cpsscontacts.htm">Contact CPSS</a></li>
+						</ul>
+					</li>
+					<li class="submenu"><a href="/ifc/index.htm">Irving Fisher Committee</a>						<ul>
+							<li><a href="/ifc/factsheet.htm">Fact sheet</a></li>
+							<li><a href="/ifc/publications.htm">Publications</a></li>
+							<li><a href="/ifc/members.htm">Members</a></li>
+							<li><a href="/ifc/events.htm">Events</a></li>
+							<li><a href="/ifc/history.htm">History</a></li>
+							<li><a href="/ifc/contact.htm">Contact</a></li>
+						</ul>
+					</li>
+					<li class="submenu"><a href="/fsi/aboutfsi.htm">Financial Stability Institute</a>						<ul>
+							<li><a href="/fsi/activities.htm">Events and programme</a></li>
+							<li><a href="/fsi/fsiconnect.htm">FSI Connect</a></li>
+							<li><a href="/fsi/fsipapers.htm">Publications</a></li>
+							<li><a href="/fsi/contact.htm">Contact FSI</a></li>
+						</ul>
+					</li>
+					<li class=""><a href="/about/comsecr.htm">Other BIS-hosted organisations</a></li>
+				</ul>
 			</li>
 			<li><a href="/banking/index.htm">Banking services</a>
-					<ul title="Banking services">
-							<li><a href="/banking/index.htm">Bank for central banks</a></li>
-							<li><a href="/banking/finserv.htm">Products and services</a></li>
-							<li><a href="/banking/balsheet.htm">Financial statements</a></li>
-					</ul>
+				<ul>
+					<li class=""><a href="/banking/index.htm">Bank for central banks</a></li>
+					<li class=""><a href="/banking/finserv.htm">Products and services</a></li>
+					<li class=""><a href="/banking/balsheet.htm">Financial statements</a></li>
+				</ul>
 			</li>
 			<li><a href="/forum/research.htm">Publications &amp; research</a>
-					<ul title="Publications &amp; research">
-							<li><a href="/forum/research.htm">Research at BIS</a></li>
-							<li><a href="/publ/annualreport.htm">Annual Report</a></li>
-							<li><a href="/publ/quarterly.htm">Quarterly Review</a></li>
-							<li><a href="/list/bispapers/index.htm">BIS Papers</a></li>
-							<li><a href="/list/wpapers/index.htm">Working Papers</a></li>
-							<li><a href="/publ/cmtpubl.htm">Committee publications</a></li>
-							<li><a href="/list/conferences/index.htm">Conferences</a></li>
-							<li><a href="/publ/other.htm">Other publications</a></li>
-							<li><a href="/arp/index.htm">Asian research programme</a></li>
-					</ul>
+				<ul>
+					<li class=""><a href="/forum/research.htm">Research at BIS</a></li>
+					<li class=""><a href="/publ/annualreport.htm">Annual Report</a></li>
+					<li class=""><a href="/publ/quarterly.htm">Quarterly Review</a></li>
+					<li class="submenu"><a href="/list/bispapers/index.htm">BIS Papers</a>						<ul>
+							<li><a href="/publ/conf.htm">Conference papers</a></li>
+							<li><a href="/publ/econ.htm">Economic papers</a></li>
+							<li><a href="/publ/plcy.htm">Policy papers</a></li>
+						</ul>
+					</li>
+					<li class=""><a href="/list/wpapers/index.htm">Working Papers</a></li>
+					<li class="submenu"><a href="/publ/cmtpubl.htm">Committee publications</a>						<ul>
+							<li><a href="/list/bcbs/index.htm">Basel Committee on Banking Supervision</a></li>
+							<li><a href="/list/cpss/index.htm">Committee on Payment and Settlement Systems</a></li>
+							<li><a href="/list/cgfs/index.htm">Committee on the Global Financial System</a></li>
+						</ul>
+					</li>
+					<li class=""><a href="/list/conferences/index.htm">Conferences</a></li>
+					<li class="submenu"><a href="/publ/other.htm">Other publications</a>						<ul>
+							<li><a href="/publ/meth.htm">Historical Data and Methodology</a></li>
+							<li><a href="/list/g10publications/index.htm">Group of Ten</a></li>
+						</ul>
+					</li>
+					<li class="submenu"><a href="/arp/index.htm">Asian research programme</a>						<ul>
+							<li><a href="/arp/index.htm">News</a></li>
+							<li><a href="/arp/about.htm">About the Programme</a></li>
+							<li><a href="/list/arp_research/index.htm">Research papers</a></li>
+							<li><a href="/list/arp_conferences/index.htm">Conferences</a></li>
+							<li><a href="/arp/arn.htm">Asian research networks</a></li>
+							<li><a href="/arp/links.htm">Links</a></li>
+							<li><a href="/arp/contact.htm">Contacts</a></li>
+						</ul>
+					</li>
+				</ul>
 			</li>
 			<li><a href="/statistics/index.htm">Statistics</a>
-					<ul title="Statistics">
-							<li><a href="/statistics/index.htm">About BIS statistics</a></li>
-							<li><a href="/statistics/bankstats.htm">Banking</a></li>
-							<li><a href="/statistics/secstats.htm">Securities</a></li>
-							<li><a href="/statistics/derstats.htm">Derivatives</a></li>
-							<li><a href="/statistics/eer/index.htm">Effective exchange rates</a></li>
-							<li><a href="/triennial.htm">Foreign exchange</a></li>
-							<li><a href="/publ/r_debt.htm">External debt</a></li>
-							<li><a href="/statistics/payment_stats.htm">Payment systems</a></li>
-					</ul>
+				<ul>
+					<li class="submenu"><a href="/statistics/index.htm">About BIS statistics</a>						<ul>
+							<li><a href="/statistics/relcal.htm">Release calendar</a></li>
+						</ul>
+					</li>
+					<li class="submenu"><a href="/statistics/bankstats.htm">Banking</a>						<ul>
+							<li><a href="/statistics/bankstats.htm">Locational</a></li>
+							<li><a href="/statistics/consstats.htm">Consolidated</a></li>
+							<li><a href="/statistics/provdata.htm">Commentary on preliminary data</a></li>
+						</ul>
+					</li>
+					<li class=""><a href="/statistics/secstats.htm">Securities</a></li>
+					<li class="submenu"><a href="/statistics/derstats.htm">Derivatives</a>						<ul>
+							<li><a href="/publ/otc_hy.htm">Regular OTC Derivatives Market</a></li>
+						</ul>
+					</li>
+					<li class=""><a href="/statistics/eer/index.htm">Effective exchange rates</a></li>
+					<li class=""><a href="/triennial.htm">Foreign exchange</a></li>
+					<li class=""><a href="/publ/r_debt.htm">External debt</a></li>
+					<li class=""><a href="/statistics/payment_stats.htm">Payment systems</a></li>
+					<li class=""><a href="/statistics/pp.htm">Property prices</a></li>
+				</ul>
 			</li>
 			<li><a href="/press/overview.htm">Press &amp; speeches</a>
-					<ul title="Press &amp; speeches">
-							<li><a href="/press/overview.htm">Overview</a></li>
-							<li><a href="/list/press_releases/index.htm">Press releases</a></li>
-							<li><a href="/list/mgtspeeches/index.htm">BIS management speeches</a></li>
-							<li><a href="/list/cbspeeches/index.htm">Central bankers' speeches</a></li>
-							<li><a href="/press/photo_gallery.htm">BIS photo gallery</a></li>
-							<li><a href="/about/embargo.htm">Embargo area</a></li>
-							<li><a href="/press/wnew.htm">News archive</a></li>
-					</ul>
+				<ul>
+					<li class=""><a href="/press/overview.htm">Overview</a></li>
+					<li class=""><a href="/list/press_releases/index.htm">Press releases</a></li>
+					<li class=""><a href="/list/mgtspeeches/index.htm">BIS management speeches</a></li>
+					<li class=""><a href="/list/cbspeeches/index.htm">Central bankers' speeches</a></li>
+					<li class=""><a href="/press/photo_gallery.htm">BIS photo gallery</a></li>
+					<li class=""><a href="/about/embargo.htm">Embargo area</a></li>
+					<li class="submenu"><a href="/press/wnew.htm">News archive</a>						<ul>
+							<li><a href="/press/wnew.htm">2011</a></li>
+							<li><a href="/press/wnew_10.htm">2010</a></li>
+							<li><a href="/press/wnew_09.htm">2009</a></li>
+							<li><a href="/press/wnew_08.htm">2008</a></li>
+							<li><a href="/press/wnew_07.htm">2007</a></li>
+							<li><a href="/press/wnew_06.htm">2006</a></li>
+							<li><a href="/press/wnew_05.htm">2005</a></li>
+							<li><a href="/press/wnew_04.htm">2004</a></li>
+							<li><a href="/press/wnew_03.htm">2003</a></li>
+							<li><a href="/press/wnew_02.htm">2002</a></li>
+							<li><a href="/press/wnew_01.htm">2001</a></li>
+							<li><a href="/press/wnew_00.htm">2000</a></li>
+							<li><a href="/press/wnew_99.htm">1999</a></li>
+							<li><a href="/press/wnew_98.htm">1998</a></li>
+							<li><a href="/press/wnew_97.htm">1997</a></li>
+							<li><a href="/press/wnew_pre97.htm">Pre-1997</a></li>
+						</ul>
+					</li>
+				</ul>
 			</li>
 		</ul>
 		<div id="background_top"> </div>
@@ -146,9 +288,11 @@
 		<div id="center" class="column">
 			<div id="breadcrumbs">
 				<ul>
-					<li><a href="/" accesskey="h">BIS home</a></li>
+					<li class="first"><a href="/" accesskey="h">Home</a></li>
+					<li class="last">Privacy policy</li>
 				</ul>
 			</div>
+	<br class="clear-floats">
 			<h1>Privacy policy</h1>
 			<div class="hr"> </div>
 
@@ -227,5 +371,6 @@
 		pageTracker._initData();
 		pageTracker._trackPageview();
 	</script>
+
 
 </body></html>
