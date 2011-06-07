@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getauto.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227014345id_/http%3A//www.dominionenterprises.com/main/do/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getauto.com privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607090108id_/http%3A//www.dominionenterprises.com/main/do/Privacy_Policy) for the most accurate reproduction.*
 
 # Dominion Enterprises | Privacy Policy
 
@@ -74,6 +74,9 @@ You may obtain information regarding the personally identifiable information tha
 ****Usage Terms****
 
 Access to and use of this Web site is subject to compliance with this Web site’s Terms of Use.
+
+Unsubscribe Requests  
+To unsubscribe from email communications, please enter your email address and select the name of the business from the list on our [Email Opt Out Form](http://www.dominionenterprises.com/main/do/DE_Email_Opt_Out_Form).
 
 ****Special Note for Parents****
 
