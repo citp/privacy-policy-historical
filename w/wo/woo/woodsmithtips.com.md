@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the woodsmithtips.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617191225id_/http%3A//www.augusthome.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woodsmithtips.com privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607033658id_/http%3A//www.augusthome.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - August Home Publishing Company
 
