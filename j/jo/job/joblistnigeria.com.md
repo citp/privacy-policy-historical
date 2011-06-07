@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joblistnigeria.com privacy policy that was archived on 2010-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101217011727id_/http%3A//joblistnigeria.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joblistnigeria.com privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607042546id_/http%3A//joblistnigeria.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy - Jobs in Nigeria - Job Vacancies in Nigeria
 
@@ -49,6 +49,11 @@ If you wish to disable cookies, you may do so through your individual browser op
 Unfortunately, email and online fraud are continuing concerns for virtually all businesses and organizations that operate on the Internet. Please be aware that, Joblist Nigeria can never request for your personal information either online or offline. If you receive an email or pop-up window requesting that you sign in to JoblistNigeria.com and provide your personal information, do not respond. If you suspect any fraud, send us an email through [admin@joblistnigeria.com](mailto:admin@joblistnigeria.com) and we will take appropriate action which might include reporting them to EFCC
 
 **Effective date:** November 1, 2009
+
+Jobs in Nigeria
+
+  * [recently advertised jobs in Nigeria](http://joblistnigeria.com/about/privacy "recently advertised jobs in Nigeria")
+  * [demographic information on nigeria 2011](http://joblistnigeria.com/about/privacy "demographic information on nigeria 2011")
 
   
 
