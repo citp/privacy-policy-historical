@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the plasticsurgery.org privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126101929id_/http%3A//www.plasticsurgery.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plasticsurgery.org privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607134024id_/http%3A//www.plasticsurgery.org/Privacy-.html) for the most accurate reproduction.*
 
-# Privacy
+# Privacy on the ASPS Website
 
 The American Society of Plastic Surgeons (ASPS) believes that user privacy is integral to the success, growth and use of the Internet. This statement describes the practices that ASPS will follow in respect to the privacy of site users. This statement may be reviewed and changed as new services and programs are introduced which require modifications to this statement. ASPS encourages you to re-read this Privacy Policy periodically.
 
