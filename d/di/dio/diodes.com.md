@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diodes.com privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214170734id_/http%3A//diodes.com/legal/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diodes.com privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607222453id_/http%3A//www.diodes.com/legal/policy.html) for the most accurate reproduction.*
 
 # == Diodes, Inc. ==
 
@@ -6,7 +6,7 @@
 
 ### 1\. Scope and Content
 
-This Privacy Policy explains how Diodes Incorporated, 15660 N. Dallas Parkway, Suite 850, Dallas, Texas 75248, USA ("Diodes") handles your Personal Data collected through Diodes' website. Personal Data is any information relating to an identified or identifiable person, for example, your e-mail address, name or phone number. This Privacy Policy does not apply to information that Diodes collects offline.
+This Privacy Policy explains how Diodes Incorporated, 4949 Hedgcoxe Road, Suite 200, Plano, Texas 75024 USA ("Diodes") handles your Personal Data collected through Diodes' website. Personal Data is any information relating to an identified or identifiable person, for example, your e-mail address, name or phone number. This Privacy Policy does not apply to information that Diodes collects offline.
 
 ### 2\. Anonymous Usage of Diodes' Website
 
@@ -44,4 +44,4 @@ We reserve the right to change this policy. While we do not intend to make chang
 
 If you have any questions about our privacy policy, you can click here at [Corporate Legal](mailto:rick_yeh@diodes.com) to send an email request.
 
-Policy last revised on November 11, 2008
+Policy last revised on April 29, 2011
