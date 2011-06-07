@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the glassesdirect.co.uk privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206073538id_/http%3A//www.glassesdirect.co.uk/pacp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glassesdirect.co.uk privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607184118id_/http%3A//www.glassesdirect.co.uk/pacp) for the most accurate reproduction.*
 
 # Privacy Policy
 
 * * *
 
-### 1\. INTRODUCTION
+## 1\. INTRODUCTION
 
 ### PLEASE DO NOT SEND EMAILS OR REGISTER ON THE SITE IF YOU DO NOT WANT THAT INFORMATION TO BE PROCESSED BY US IN THE WAYS DESCRIBED BY THIS NOTICE. BY PROVIDING US WITH INFORMATION ON THE SITE, YOU CONSENT TO THE TRANSFER OF PERSONAL DATA AS DESCRIBED IN THE FOLLOWING POLICY
 
@@ -14,7 +14,7 @@ Prescription Eyewear Limited, trading as Glasses Direct ("we") run this site www
 
 Your access, use of and submission of an order via the Site constitutes your explicit consent to the collection, use and transfer of your personal data, in the manner described in this Privacy & Cookie Policy ("the Policy"). If you disagree with the way we process data collected on the Site, we recommend that you do not use the Site. If you wish to obtain further information about us and/or the contents of this Privacy and Cookie Policy, you can contact us by email, post or telephone.
 
-### 2\. WHAT TYPE OF DATA DO WE COLLECT ABOUT YOU?
+## 2\. WHAT TYPE OF DATA DO WE COLLECT ABOUT YOU?
 
 Personal data relating to Internet users viewing the Site may be collected through the Site on each of the following occasions:
 
@@ -26,7 +26,7 @@ Personal data relating to Internet users viewing the Site may be collected throu
 
 
 
-### 3.WHAT IS A COOKIE?
+## 3.WHAT IS A COOKIE?
 
 A cookie is a tiny element of data that is stored on your computer's hard drive by your web browser when you access a website. The Site makes use of the following types of cookie technology:
 
@@ -41,7 +41,7 @@ We may use third-party advertising companies or affiliates to display advertisem
 
 You do not have to agree to the use of cookies. For information on how to reject cookies, see below Removing and Disabling Cookies Section. However, in order to use the payment section of the Site, we recommend that you do not block the recording of cookies on your computer.
 
-### 4\. REMOVING AND DISABLING COOKIES
+## 4\. REMOVING AND DISABLING COOKIES
 
 If you don’t want us to place cookies on your computer at all, you can set your browser to disable or reject cookies. This will mean that no websites will be able to place cookies on your computer. You can do this by adjusting the preferences within your browser. This may mean, however, that you will not be able to enjoy full use of all parts of the Site.
 
@@ -49,7 +49,7 @@ If you want to remove previously-stored cookies, you can manually delete the coo
 
 To find out exactly how to disable/remove, please go to <http://www.aboutcookies.org/default.aspx>
 
-### 5\. WHAT WE DO WITH THE INFORMATION WE COLLECT ABOUT YOU
+## 5\. WHAT WE DO WITH THE INFORMATION WE COLLECT ABOUT YOU
 
   1.  _DATA COLLECTED BY WEB SERVERS AND COOKIES_
 
@@ -76,7 +76,7 @@ If you specify on the "Cardholder Details" page that you are interested in recei
 
 
 
-### 6\. TRANSFER OF THE DATA COLLECTED VIA THE SITE TO THIRD PARTIES
+## 6\. TRANSFER OF THE DATA COLLECTED VIA THE SITE TO THIRD PARTIES
 
 Data collected by web servers and cookies are not transferred to any third parties.
 
@@ -93,11 +93,11 @@ Data collected through the Site may also be transferred to others from time to t
 
 
 
-### 7\. TRANSFERRING YOUR DATA OUTSIDE EUROPE
+## 7\. TRANSFERRING YOUR DATA OUTSIDE EUROPE
 
 Currently we do not transfer your data outside Europe.
 
-### 8\. SUBJECT ACCESS RIGHTS
+## 8\. SUBJECT ACCESS RIGHTS
 
 At law you have the following rights
 
@@ -109,18 +109,18 @@ At law you have the following rights
 
 We will comply with such rights as provided under applicable law. If you wish to exercise your subject access right, please contact us in writing at the address set out on the Site with sufficient information to identify yourself and the information you require. We will respond to your request within 40 days. We reserve the right to charge £10 for complying with a subject access request.
 
-### 9\. SECURITY
+## 9\. SECURITY
 
 Except if provided to others in the circumstances set out in this Policy, the data supplied by you will be kept on the Site’s secured servers and computer systems, protected from outside intrusions.
 
-### 10\. LINKS FROM THE WEBSITE TO OTHER WEBSITES
+## 10\. LINKS FROM THE WEBSITE TO OTHER WEBSITES
 
 The Site may contain links to the websites of our business partners, advertisers or other third parties. We do not control the privacy policies or the terms of use of the websites reached through the links from the Site. These may differ from the policy and terms of use of the Site. You will need to determine if they are acceptable to you and your Company. We accept no responsibility for the content or the privacy practices employed by such other websites.
 
-### 11\. CHANGES TO THIS PRIVACY AND COOKIE POLICY
+## 11\. CHANGES TO THIS PRIVACY AND COOKIE POLICY
 
 We reserve the right to make changes to this Policy from time to time and reserve the right to do so. Any changes to the Policy will appear on this page, which you should check from time to time. By continuing to use the site you are deemed to accept changes to this Policy.
 
-### 12\. CONTACTING US
+## 12\. CONTACTING US
 
 If you have any questions about any aspect of this Policy or want to discuss how we handle your data you can contact us by email, post or telephone.
