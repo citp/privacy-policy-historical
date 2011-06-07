@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the telecompaper.com privacy policy that was archived on 2008-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080724104208id_/http%3A//www.telecompaper.com/aboutus/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telecompaper.com privacy policy that was archived on 2011-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110608013200id_/http%3A//www.telecompaper.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Telecompaper's Privacy Policy
+# Telecompaper Privacy Policy
 
 Your privacy is important to us. This policy covers how Telecom.paper BV (“Telecompaper”) treats personal information that Telecompaper collects and receives. Personal information is information about you that is personally identifiable such as your name, address, e-mail address, or phone number, and that is not otherwise publicly available.
 
@@ -15,7 +15,7 @@ When you browse our website, you do so anonymously unless you have logged in. We
 
 Access to certain Telecompaper web pages requires a login and a password. The use of those web pages, and the information from those sites, is be governed by our Terms and Conditions.
 
-At no point does Telecompaper receive any payment details. Bibit provides payment processing services to Telecompaper. Please refer to [www.bibit.com](http://www.bibit.com/) for more information.
+At no point does Telecompaper receive any payment details. Adyen provides payment processing services to Telecompaper. Please refer to [www.adyen.com](http://www.adyen.com/) for more information.
 
   
 
