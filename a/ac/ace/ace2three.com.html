@@ -1,327 +1,209 @@
-<!--The following is the downloaded HTML source of the ace2three.com privacy policy that was archived on 2010-12-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101221113427id_/http%3A//www.ace2three.com/privacypolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ace2three.com privacy policy that was archived on 2011-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110607140841id_/http%3A//www.ace2three.com/privacypolicy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/innerpage.dwt" codeOutsideHTMLIsLocked="false" --><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<!-- InstanceBeginEditable name="doctitle" -->
-<title>Play Indian Rummy Card Games Online and Win Cash Prizes</title>
-<!-- InstanceEndEditable -->
-<!-- Styles -->
-<link rel="stylesheet" href="css/main.css" type="text/css">
-<link rel="stylesheet" href="css/home.css" type="text/css">
-<link rel="stylesheet" href="css/inner.css" type="text/css">
-
-
+<title>Ace2Three - Privacy Policy</title>
 <!-- icons -->
-<link rel="shortcut icon" href="favicon.ico">
-<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<link rel="shortcut icon" href="http://www.ace2three.com/favicon.ico">
+<link rel="apple-touch-icon" href="http://www.ace2three.com/apple-touch-icon.png">
+<link href="css/master.css" rel="stylesheet" type="text/css">
+<link href="css/inner.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="css/login_lightbox.css">
 
-<!-- Scripts -->
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="Scripts/jquerynew.js"></script>
-<script src="Scripts/nodownloadscript.js" type="text/javascript"></script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="Scripts/jquery.js"></script>
 <script type="text/javascript" src="Scripts/jquery.validate.js"></script>
+<script type="text/javascript" src="Scripts/validate.js"></script>
 <script type="text/javascript" src="Scripts/jquery.cookie.js"></script>
-
-<script language="javascript" type="text/javascript">
-	var name = "#floatMenu";
-	var menuYloc = null;
-
-		$(document).ready(function()
-                {
-                    var remember = $.cookie('remember');
-                    if ( remember == 'true' )
-                    {
-
-                    var username = $.cookie('username');
-                    var password = $.cookie('password');
-                    // autofill the fields
-                    $('#textfield3').attr("value", username);
-                    $('#textfield4').attr("value", password);
-                    $('#checkbox3').attr("checked",true);
-                    }
-			menuYloc = parseInt($(name).css("top").substring(0,$(name).css("top").indexOf("px")))
-			$(window).scroll(function () {
-				offset = menuYloc+$(document).scrollTop()+"px";
-				$(name).animate({top:offset},{duration:500,queue:false});
-			});
-
-                        $("#loginform").validate({ rules: {userid: {required: true,minlength: 4,maxlength: 12 },pwd:{required: true,minlength:6,maxlength:20 }}});
-                        $("#Submit3").click(function()
-                         {
-                             if ($('#checkbox3').attr('checked'))
-                             {
-                                var username = $('#textfield3').attr("value");
-                                var password = $('#textfield4').attr("value");
-                                // set cookies to expire in 14 days
-                                $.cookie('username', username, { expires: 14 });
-                                $.cookie('password', password, { expires: 14 });
-                                $.cookie('remember', true, { expires: 14 });
-                             }
-                             else
-                             {
-                                // reset cookies
-                                $.cookie('username', null);
-                                $.cookie('password', null);
-                                $.cookie('remember', null);
-                             }
-
-                               if($("#loginform").valid())
-                               {
-                                   $userid = document.getElementById("textfield3").value;
-                                    $password = document.getElementById("textfield4").value;
-
-
-                       $.post("ValidateUserLoginDts", {userid:$userid,pwd:$password}, function(xml)
-                            {
-                                var st =  $("report",xml).text()
-                            if(st =='OK'||st=='Session')
-                              {
-                                    document.location ="accountDetails.jsp";
-                                    return true;
-                              }
-                            else
-                                {
-                                      $("#logingMsg").html(st);
-                                      return false;
-                                }
-	            });
-                    return false;
-                               }
-                               else
-                                   {
-
-                                   }
-
-
-                    });
-
-
-
-		});
-	 </script>
-
-<!--Ace2Three Analysis -->
-<meta name="google-site-verification" content="9dy_8W90wSAOMr8nCGZ_NonV5wx6u_ygaJsBU9afw3s">
-<meta name="verify-v1" content="4u8tWl0MF1056xoLxGTmXguOW7x+dtd0Xxmc76PnA/Y=">
-<meta name="y_key" content="e8c145d1dd14e0f3">
-
-
-<!-- Ace2Three SEO -->
-<meta name="keywords" content="rummy online game, rummy cards, rummy, cards game, card rummy">
-
-<meta name="description" content="Play online card games at home with Friends with Multi-Level Collapsible Stake Tournaments and Multi-Player options, India’s top cards gaming site.">
-
-<meta name="author" content="Betrand">
-<meta name="ROBOTS" content="index, follow, ALL">
-<meta name="copyright" content="Copyright (c) Ace2Three, All rights reserved">
-
-<!-- InstanceBeginEditable name="head" --><!-- InstanceEndEditable -->
-
-
-
+<script type="text/javascript" src="Scripts/remember.js"></script>
 </head>
-<body>
-<table width="990" border="0" align="center" cellpadding="0" cellspacing="0" class="bg">
-  <tbody><tr>
-    <td valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-      <tbody><tr>
-        <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+<body onload="return sessionChk();">
+<div id="index_wrapper">
+  <!--index_wrapper Start -->
+  <div class="index_header">
+    <!--index_header Start -->
+    <div class="logo"><a href="index.html"><img src="images/Ace2Three_logo.png" alt="Ace2Three" width="250" height="80" longdesc="http://ace2three.com"></a></div>
+    <div class="index_logins">
+      <!-- index_logins Start -->
+      <div class="fb_icon_index" id="logoutBtnHtml" style="display:none;"><a href="Logout.do"> <img src="images/logout_btn.png" alt="Logout"></a></div>
+      <div class="fb_icon_index" id="myAccountBtn"><a href="javascript:void(0)" id="myAccount"></a></div>
+      
+      <div class="clear"></div>
+      <div class="forgotpassword_index"><a id="Forgot" style="display:none;" href="javascript:void(0)" onclick="document.getElementById('light_forgot').style.display='block';document.getElementById('fade_forgot').style.display='block'">Forgot password?</a></div>
+    </div>
+    <!--index_logins End -->
+    <div class="index_menu">
+      <!-- index_menu Start -->
+      <ul>
+           <li class="c_none"><a href="aboutrummy.html" title="About Online Card Game Rummy">About Rummy</a></li>
+        <li class="c1"><a href="tourneyInfo.html" title="Online Rummy Tournaments">Tournaments</a></li>
+        <li class="c2"><a href="downloads.html" title="Online Rummy Downloads">Download</a></li>
+        <li class="c3"><a href="ace2threePromotions.html" title="Online Rummy Promotional Offers">Promotions</a></li>
+        <li class="c4"><a href="newFeatures.html" title="New Features">What's New</a></li>
+      </ul>
+    </div>
+    <!--index_menu End -->
+  </div>
+  <!--index_header End -->
+  <div class="clear"></div>
+  <div class="inner_body">
+    <!--inner_body Start -->
+     <div class="abtus_left">
+     	<h1>About Us</h1>
+        <div class="clear"></div>
+     	<ul>
+        	<li><a href="aboutus.html">The Company</a></li>
+            <li><a href="certification.html">Certification</a></li>
+            <li><a href="news.html">News</a></li>
+          <li><a href="pressreleases.html">Press Releases</a></li>
+            <li>Privacy Policy</li>
+          <li><a href="disclaimer.html">Disclaimer</a></li>
+            <li><a href="termsandconditions.html">Terms and Conditions</a></li>
+        </ul>
+     </div>
+    <div class="abtus_mid">
+      <!--abtus_mid Start -->
+      <div class="pri_pol_tit font18 " align="left">Privacy Policy</div>
+      <div class="rt_pnl_tab"><a id="HomeLink" class="home_txt" href="#">Home</a> &gt;&gt; Privacy Policy</div>
+      <div class="pri_pol_content">
+        <!--pri_pol_content Start -->
+        <h1>Your Privacy Is Important</h1>
+        <div class="pri_pol_inner_con"> At Ace2Three.com, we provide online skill games for fun and excitement in an accessible,understandable and trust-worthy environment. As part of this we are committed to protecting the privacy of our members and users. The privacy statement explains what information we collect from our members and users, how we use the information, and what choices are available to our users and members. </div>
+        <h1>The information we collect</h1>
+        <div class="pri_pol_inner_con"> We require the users to register with us in order to access our games. For this, we collect the personal information of our users. Examples of this include Name, address, e-mail address, and telephone number. If you do not provide the required information you may not be able to access the features we provide. We also collect information other than your personal information such as your IP address. Such information is not associated with your personal information and cannot be linked to you personally. We may use IP addresses to analyze trends, administer the site, track user's movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information. Ace2Three.com is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. </div>
+        <h1><strong>Ace2Three.com's usage of the information collected</strong></h1>
+        <div class="pri_pol_inner_con"> Ace2Three.com does not disclose your personal information to any third    party without first receiving your permission. By registering on our    website, however, you grant permission for your personal information to    be shared and/or used as stated in this privacy policy. We may need to    disclose information when required by law.  We use your personal   information to improve our service and your  experience on our sites and   provide our users with new offers, products  and services. Your   personal information may be disclosed to sponsors  and suppliers of   prizes for our winners available through our site.  Ace2Three.com has   the required security to protect the loss, misuse and  alteration of   information you provide us. Your registration data is  password   protected where only you can access your information.  Ace2Three.com is   not responsible for any activity which is undertaken  when your password   is used. We suggest you not to disclose your  password to anyone. </div>
+        <h1>Children's Privacy</h1>
+        <div class="pri_pol_inner_con">Ace2Three.com is committed to protecting the privacy of children and to    complying with the Children's Online Privacy Protection Act ("COPPA").    Ace2Three.com does not knowingly collect personal information from    children under the age of 13. <br>
+        </div>
+        <div class="clear"></div>
+        <ul class="pp_ul">
+          <li>If,   in our current website or software, a user identifies himself or      herself as a child under the age of 13, we will not collect, store or      use any personal information.</li>
+          <li>If we   receive personal information that we discover was provided by  a   child   under the age of 13, we will promptly delete this information    in a   secure manner.</li>
+        </ul>
+        <h1><strong>Consent</strong></h1>
+        <div class="pri_pol_inner_con">By using our website, it is understood that you have given your consent    to the collection and use of this information by Ace2Three.com and its    partners and affiliates. From time to time, we may change our methods    of collecting information and modify our privacy policy. We will post    those changes on this page so that you are always aware of what    information we collect, how we use it, and under what circumstances we    disclose it.</div>
+      </div>
+      <!--pri_pol_content Start -->
+    </div>
+    <!--abtus_mid End -->
+   
+  </div>
+  <!--inner_body End -->
+  <div class="clear"></div>
+   <!--login Light Box  Start -->
 
-           <tbody><tr>
-            <td width="323"><a href="http://www.ace2three.com"><img src="images/home/ace2three_logo.jpg" alt="Ace2Three Logo"></a></td>
-            <td class="header_bg_index">
-                 <div class="header-div"></div>
-            <table width="95%" border="0" align="right" cellpadding="0" cellspacing="0">
+  <div id="fade" class="black_overlay"></div>
+  <div id="test" class="preloader">
+      <img align="absmiddle" src="images/loader.gif" alt="">
+  </div>
+  <form method="post" action="">
+      <div id="light" class="white_content" style="display: none">
 
-              <tbody><tr>
-    		<td class="nav_btn"><a href="aboutgame.html" title="About Online Card Game Rummy"> About Rummy</a></td>
-                <td class="nav_btn"><a href="tourneyInfo.html" title="Online Rummy Tournaments">Tournaments</a></td>
-                <td class="nav_btn"><a href="downloads.html" title="Online Rummy Downloads">Download </a></td>
-                <td class="nav_btn"><a href="ace2threePromotions.html" title="Online Rummy Promotional Offers">Promotions </a></td>
-                <td class="nav_btn"><a href="newFeatures.html" title="New Features">What's New</a></td>
-              </tr>
-            </tbody></table></td>
-          </tr>
-        </tbody></table></td>
-      </tr>
-      <tr>
-        <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
-          <tbody><tr>
-            <td align="center" valign="top"><table width="98%" border="0" align="center" cellpadding="0" cellspacing="0">
-              <tbody><tr>
-                <td><img src="images/inner/content_header_left_corner.gif" width="10" height="28" alt=""></td>
-                <td valign="top" class="content_header"><!-- InstanceBeginEditable name="title-header" -->
-                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
-                    <tbody><tr>
-                      <td>Privacy Policy</td>
-                      <td width="350" align="right" class="page_nav"><a href="index.html" title="Online Rummy Home">Home</a> &gt;&gt; Privacy Policy</td>
-                    </tr>
-                  </tbody></table>
-                <!-- InstanceEndEditable --></td>
-                <td><img src="images/inner/content_header_right_corner.gif" width="10" height="28" alt=""></td>
-                </tr>
-              <tr>
-                <td class="left_border"></td>
-                <td align="left" bgcolor="#fefcef" class="content_padding"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-                  <tbody><tr>
-                    <td width="181" valign="top" bgcolor="#943408" class="my_account_top_bg"><!-- InstanceBeginEditable name="myaccount_panel" -->
-                      <table width="100%" border="0" cellpadding="0" cellspacing="0">
-                        <tbody><tr>
-                          <td><table width="100%" border="0" cellpadding="0" cellspacing="0">
-                            <tbody><tr>
-                              <td>
-                                  <form id="loginform" method="post" action="" class="loginForm">
-                                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
-                                <tbody><tr>
-                                  <td><div class="login_text">Login</div></td>
-                                </tr>
-                                <tr>
-                                  <td><table width="90%" border="0" align="center" cellpadding="0" cellspacing="0">
-                                    <tbody><tr>
-                                      <td class="login_text_feild">Nick Name</td>
-                                    </tr>
-                                    <tr>
-                                        <td class="alertMsg_white" height="30" valign="top"><input name="userid" type="text" class="textfeild_innerlogin" id="textfield3" maxlength="12"></td>
-                                    </tr>
-                                    <tr>
-                                      <td class="login_text_feild">Password</td>
-                                    </tr>
-                                    <tr>
-                                        <td class="alertMsg_white" height="30" valign="top"><input name="pwd" type="password" class="textfeild_innerlogin" id="textfield4" maxlength="20"></td>
-                                    </tr>
-                                           <tr>
-                                               <td id="logingMsg" class="alertMsg_white">
+    <!--white_content Start-->
+    <div class="login_bg">
+      <!--login_bg Start-->
+      <div class="login_tt_close">
+        <h2>Login</h2>
+        <div class="login_close"><a id="closeMark" href="javascript:void(0)"><img src="images/close_icon.gif" alt="Close"></a></div>
+      </div>
+      <div class="login_inner">
+        <div class="lgn_txt">Nick Name :</div>
+        <div class="lgn_txt_box">
+          <input type="text" maxlength="15" class="lgn_textfield" name="userid" id="userid">
+        </div>
+      </div>
+      <div align="center" class="loginAlertMsg" id="userid_warn"></div>
+      <div class="login_inner">
+        <div class="lgn_txt">Password :</div>
+        <div class="lgn_txt_box">
+          <input type="password" maxlength="20" class="lgn_textfield" name="userid" id="pwd">
+        </div>
+      </div>
+      <div align="center" class="loginAlertMsg" id="pwd_warn"></div>
+      <div class="login_inner">
+        <div class="lgn_btn">
+            <input type="submit" value="Login" class="img_btn" name="button" id="signin_submit">
+        </div>
+        <div class="login_inner">
+          <div class="rem_chk">
+            <input type="checkbox" tabindex="7" value="1" name="remember_me" id="remember">
+            Remember me</div>
+          <div class="forgot_ps"><a id="ForgotInLogin" href="javascript:void(0)">Forgot password? </a> </div>
+        </div>
+      </div>
+    </div>
+    <!--login_bg End-->
+  </div>
+  </form>
 
-                                                </td>
-                                          </tr>
-                                  </tbody></table></td>
-                                </tr>
-                                <tr>
-                                  <td align="center"><table width="95%" border="0" align="center" cellpadding="0" cellspacing="0">
-                                    <tbody><tr>
-                                      <td height="30" align="center" valign="middle" class="rememberme"><input name="checkbox3" type="checkbox" class="Checkbox" id="checkbox3">
-                                        Remember me </td>
-                                      <td><input name="Submit2" type="submit" class="inner_login_btn" id="Submit3" value="Login"></td>
-                                    </tr>
-                                    <tr>
-                                      <td height="30" class="newuser_forgotpassword_links"><a href="forgotPassword.jsp" title="Forgot Password">Forgot password?</a></td>
-                                      <td align="center" class="newuser_forgotpassword_links"><a href="userRegistration.jsp" id="newuser" title="Ace2Three Registration">Register</a></td>
-                                    </tr>
-                                  </tbody></table></td>
-                                </tr>
-                              </tbody></table>
-                                  </form></td>
-                            </tr>
-                            <tr>
-                              <td>&nbsp;</td>
-                            </tr>
-                            
-                          </tbody></table></td>
-                        </tr>
-                        
-                      </tbody></table>
-                    <!-- InstanceEndEditable --></td>
-                    <td width="700" height="800" valign="top">
-                    <!-- InstanceBeginEditable name="main-container" -->
-                    <table width="95%" align="center" cellpadding="0" cellspacing="0">
-                      <tbody><tr>
-                        <td class="subhdr_08"><strong>
-                          Your Privacy Is Important</strong></td>
-                      </tr>
-                      <tr>
-                        <td class="text_01">At Ace2Three.com, we provide online skill games for fun and excitement  in an accessible,understandable and trust-worthy environment. As part  of this we are committed to protecting the privacy of our members and  users. The privacy statement explains what information we collect from  our members and users, how we use the information, and what choices are  available to our users and members.</td>
-                      </tr>
-                      <tr>
-                        <td class="subhdr_08"><strong>The information we collect</strong></td>
-                      </tr>
-                      <tr>
-                        <td class="text_01">We require the users to register with us in order to access our games.  For this, we collect the personal information of our users. Examples of  this include Name, address, e-mail address, and telephone number. If  you do not provide the required information you may not be able to  access the features we provide.  We also collect information other than your personal information such  as your IP address. Such information is not associated with your  personal information and cannot be linked to you personally.  We may use IP addresses to analyze trends, administer the site, track  user's movement, and gather broad demographic information for aggregate  use. IP addresses are not linked to personally identifiable  information. Ace2Three.com is the sole owner of the information  collected on this site. We will not sell, share, or rent this  information to others in ways different from what is disclosed in this  statement. <br></td>
-                      </tr>
-                      <tr>
-                        <td class="subhdr_08"><strong>Ace2Three.com's usage of the information collected</strong></td>
-                      </tr>
-                      <tr>
-                        <td class="text_01">Ace2Three.com does not disclose your personal information to any third  party without first receiving your permission. By registering on our  website, however, you grant permission for your personal information to  be shared and/or used as stated in this privacy policy. We may need to  disclose information when required by law.  We use your personal information to improve our service and your  experience on our sites and provide our users with new offers, products  and services. Your personal information may be disclosed to sponsors  and suppliers of prizes for our winners available through our site.  Ace2Three.com has the required security to protect the loss, misuse and  alteration of information you provide us. Your registration data is  password protected where only you can access your information.  Ace2Three.com is not responsible for any activity which is undertaken  when your password is used. We suggest you not to disclose your  password to anyone. </td>
-                      </tr>
-                      <tr>
-                        <td>&nbsp;</td>
-                      </tr>
-                      <tr>
-                        <td class="subhdr_08"><strong>Children's Privacy</strong></td>
-                      </tr>
-                      <tr>
-                        <td class="text_01">Ace2Three.com is committed to protecting the privacy of children and to  complying with the Children's Online Privacy Protection Act ("COPPA").  Ace2Three.com does not knowingly collect personal information from  children under the age of 13. <br>
-                          <br>
-                          <table width="100%" border="0" cellspacing="0" cellpadding="0">
-                            <tbody><tr>
-                              <td width="6%" valign="top" class="text_01">a) </td>
-                              <td width="94%" valign="top" class="text_01">If, in our current website or software, a user identifies himself or  herself as a child under the age of 13, we will not collect, store or  use any personal information.</td>
-                            </tr>
-                            <tr>
-                              <td valign="top" class="text_01">b)</td>
-                              <td valign="top" class="text_01"> If we receive personal information that we discover was provided by  a child under the age of 13, we shall promptly delete this information  in a secure manner.</td>
-                            </tr>
-                          </tbody></table></td>
-                      </tr>
-                      <tr>
-                        <td class="subhdr_08"><strong>Consent</strong></td>
-                      </tr>
-                      <tr>
-                        <td class="text_01">By using our website, it is understood that you have given your consent  to the collection and use of this information by Ace2Three.com and its  partners and affiliates. From time to time, we may change our methods  of collecting information and modify our privacy policy. We will post  those changes on this page so that you are always aware of what  information we collect, how we use it, and under what circumstances we  disclose it.</td>
-                      </tr>
-                      <tr>
-                        <td>&nbsp;</td>
-                      </tr>
-                      <tr>
-                        <td>&nbsp;</td>
-                      </tr>
-                    </tbody></table>
-                    <!-- InstanceEndEditable -->
-                    </td>
-                    <td width="200" valign="top">
-                  <div id="floatMenu"><a href="#"><img src="images/inner/Playnow_btn.gif" title="Click here to play now" onclick="openWindow()" alt="Play Now " width="159" height="47"></a></div>
-                    </td>
-                  </tr>
-                  <tr>
-                    <td height="9"><img src="images/inner/myaccount_bottom_bg.gif" width="181" height="10" alt=""></td>
-                    <td height="9" valign="top"></td>
-                    <td height="9" valign="top"></td>
-                  </tr>
-                </tbody></table></td>
-                <td class="right_border">&nbsp;</td>
-                </tr>
-              <tr>
-                <td valign="top" class="left_bottom_corner">&nbsp;</td>
-                <td class="bottom_border">&nbsp;</td>
-                <td valign="top" class="right_bottom_corner">&nbsp;</td>
-                </tr>
-            </tbody></table></td>
-          </tr>
-        </tbody></table></td>
-      </tr>
-     <tr>
-          <td height="100" class="ftr_links" align="left" valign="middle"><table width="975" align="left" border="0" cellpadding="0" cellspacing="0">
-          <tbody><tr>
-            <td class="fotter_bg"><table border="0" cellpadding="5" cellspacing="0" class="ftr_pay_opt" width="990">
-  <tbody><tr>
-      <td width="300px">&nbsp;</td>
-      <td align="left" valign="middle"><img src="images/hdfc-logo.gif" width="132" height="39" alt="HDFC"></td>
-    <td align="center" valign="middle"><img src="images/ccavenue_logo.gif" width="153" height="22" alt="CCAvenue"></td>
-    <td align="center" valign="middle"><img src="images/techPRO.png" width="101" height="39" alt="TechProcess"></td>
-    <td align="center" valign="middle"><img src="images/mol_logo.png" width="50" height="37" alt="MOL"></td>
-    <td align="center" valign="middle"><img src="images/RNG_Blue.gif" width="94" height="32" alt="RNG"></td>
-    <td align="center" valign="middle" width="250px">© 2007 Ace2Three</td>
-  </tr>
-</tbody></table></td>
-          </tr>
-          <tr>
-              <td class="ftr_links"><a href="privacypolicy.html">Privacy Policy</a> | <a href="disclaimer.html">Disclaimer</a> | <a href="termsandconditions.html">Terms and Conditions</a> | <a href="aboutus.html">About Us</a> | <a href="inviteFriend.html">Refer &amp; Earn</a> | <a href="news.html">Ace2Three in the News</a> | <a href="certification.html">Certification</a> | <a href="sitemap.html">Site Map</a> | <a href="jobs.html">We are hiring</a> | <a href="contact.html">Contact Us</a></td>
-          </tr>
-        </tbody></table></td>
-      </tr>
-    </tbody></table></td>
-  </tr>
-</tbody></table>
+<!--login Light Box  End -->
+
+<!-- Forgot Light Box  Start -->
+<div id="fade_forgot" class="black_overlay"></div>
+ <form id="ForgotPassword" action="#" method="post" name="forgotPassword">
+     <div id="light_forgot" class="white_content" style="display: none"> <!--white_content Start-->
+ <div class="login_bg">  <!--login_bg Start-->
+   <div class="login_tt_close">
+      <h2>Forgot Password</h2>
+      <div class="login_close"> <a id="closeMark2" href="javascript:void(0)"><img src="images/close_icon.gif" alt="Close"></a></div>
+   </div>
+      <div class="login_inner">
+        <div class="lgn_txt">Nick Name :</div>
+        <div class="lgn_txt_box">
+         <input type="text" maxlength="15" class="lgn_textfield" name="forgotPassworduserid" id="useridfp">
+        </div>
+    </div>
+          <div align="center" class="loginAlertMsg" id="userid_warnFP"></div>
+    <div class="login_inner">
+        <div class="lgn_txt">Email :</div>
+        <div class="lgn_txt_box">
+           <input type="text" class="lgn_textfield" name="forgotPasswordemailid" id="emailidfp">
+        </div>
+    </div>
+     <div align="center" class="loginAlertMsg" id="pwd_warnFP"></div>
+
+       <div class="login_inner">
+
+        <div class="frgt_btn">
+          <div class="frgt_submit_btn"><input type="submit" value="Submit" name="button" id="submit_fp" class="login_btn"></div>
+          <div class="frgt_submit_btn"><input type="button" value="Reset" name="button" id="submit_fp_reset" class="login_btn"></div>
+        </div>
+           <div class="forgot_inner	">If you have forgotten your Nick Name, please send an email to info@ace2three.com. &nbsp;  &nbsp;  &nbsp;&nbsp;&nbsp;     </div>
+
+      </div>
+   </div> <!--login_bg End-->
+   </div> <!--white_content End-->
+  </form>
+<!-- Forgot Light Box  End -->
+  <div class="clear"></div>
+  <div class="index_payment">
+    <!--index_payment Start -->
+    <div class="payment_left">
+      <div class="creti_txt">Certified By</div>
+      <div class="certifiedby_logo"><a href="certification.html" target="new" title="Random Number Generation Certificate">
+          <img src="images/itechlabs_certi.gif" alt="ITech Labs Certification">
+          </a></div>
+    </div>
+    <div class="paymentpartners">
+      <div class="creti_txt">Payment Partners</div>
+      <div class="paymet_logo"><img src="images/hdfcbank_payment.gif" alt="HDFC"></div>
+      <div class="paymet_logo"><img src="images/ccavenue_payment.gif" alt="CCAvenue"></div>
+      <div class="paymet_logo"><img src="images/techprocess_payment.gif" alt="Tech Process"></div>
+      <div class="paymet_logo"><img src="images/mol_payment.gif" alt="MOL"></div>
+    </div>
+    <div class="paymet_logo ace2three2007">© 2007 Ace2Three</div>
+  </div>
+  
+</div>
+<!--index_wrapper End -->
+<!--index_payment End -->
+  <div class="clear"></div>
+  <div class="index_footer">
+    <!--index_footer Start -->
+     <a href="aboutus.html">About Us</a> |  <a href="privacypolicy.html"> Privacy Policy</a> | <a href="disclaimer.html">Disclaimer</a> | <a href="termsandconditions.html">Terms and Conditions</a> | <a href="certification.html">Certification</a> | <a href="faqs.html">FAQs</a> | <a href="contactus.html">Contact Us</a> 
+  </div>
+  <!--index_footer End -->
 <script type="text/javascript">
 
   var _gaq = _gaq || [];
@@ -337,5 +219,4 @@
 </script>
 
 
-<!-- InstanceEnd -->
 </body></html>
