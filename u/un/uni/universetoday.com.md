@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the universetoday.com privacy policy that was archived on 2010-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101115210821id_/http%3A//www.universetoday.com/28582/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the universetoday.com privacy policy that was archived on 2011-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110608004537id_/http%3A//www.universetoday.com/28582/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Universe Today
+# Privacy Policy
 
-[Universe Today](http://www.universetoday.com/) is run by me, Fraser Cain, and only me, and I’m pretty serious about maintaining your privacy. I don’t like to get spam, and can appreciate that you don’t want to get any either. So, here’s the deal…
+Universe Today is run by me, Fraser Cain, and only me, and I’m pretty serious about maintaining your privacy. I don’t like to get spam, and can appreciate that you don’t want to get any either. So, here’s the deal…
 
- **What Information is Collected**  
-When you visit [Universe](http://www.universetoday.com/36425/the-universe/) Today, my webserver automatically logs the following information, which I use to understand general usage of the website. This is completely standard. Pretty much every single website on the entire Internet stores traffic logs exactly like this.
+**What Information is Collected**  
+When you visit Universe Today, my webserver automatically logs the following information, which I use to understand general usage of the website. This is completely standard. Pretty much every single website on the entire Internet stores traffic logs exactly like this.
 
 * Your IP address  
 * What pages were visited, and when  
@@ -15,15 +15,10 @@ When you visit [Universe](http://www.universetoday.com/36425/the-universe/) Toda
 
 This information is collected completely anonymously. So, I don’t know who you are, just that someone came to the website and looked at a few pages.
 
-If you subscribe to [the Universe](http://www.universetoday.com/36425/the-universe/) Today newsletter, then you’ll be giving me a little personal information about yourself (your email address, name, etc.). Personal information collected is NEVER sold or rented to any outside party without your consent.
+If you subscribe to the Universe Today newsletter, then you’ll be giving me a little personal information about yourself (your email address, name, etc.). Personal information collected is NEVER sold or rented to any outside party without your consent.
 
- **Advertising Network**  
-Universe Today uses Google as a third-party vendor to serve advertisements on the website. Google uses the Doubleclick DART cookie to serve ads to you based on your visit to this site and other sites on the Internet. You may opt out of the use of the DART cookie by visiting the[ Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+**Advertising Network**  
+Universe Today uses Google as a third-party vendor to serve advertisements on the website. Google uses the Doubleclick DART cookie to serve ads to you based on your visit to this site and other sites on the Internet. You may opt out of the use of the DART cookie by visiting the[ Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
 
- **Questions and Comments**  
+**Questions and Comments**  
 If you have any questions or comments about this privacy policy, please don’t hesitate to send me an email at info@universetoday.com
-
-Return top
-
-  
-
