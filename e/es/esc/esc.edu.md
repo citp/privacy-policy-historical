@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the esc.edu privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120020537id_/http%3A//www.esc.edu/ESConline/Across_ESC/UnderConstruction.nsf/wholeshortlinks2/Web%2BPrivacy%2BPolicy%3Fopendocument) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esc.edu privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607052133id_/http%3A//www.esc.edu/ESConline/Across_ESC/UnderConstruction.nsf/wholeshortlinks2/Web%2BPrivacy%2BPolicy%3Fopendocument) for the most accurate reproduction.*
 
 # Web Privacy Policy
 
