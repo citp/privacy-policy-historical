@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insurancequotes.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231232935id_/http%3A//www.insurancequotes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insurancequotes.com privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607064040id_/http%3A//www.insurancequotes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | InsuranceQuotes.com
 
@@ -70,4 +70,4 @@ This Site may contain links or references to other Web sites outside of our cont
 
 By using this Site, you signify your acceptance of our Privacy Policy. If you do not agree to this policy, please do not use our Site. We reserve the right, at our discretion, to change, modify, add, or remove portions from this policy at any time so visitors are encouraged to review this policy from time to time. Your continued use of our Site following the posting of changes to these terms means you accept these changes.
 
-Should you have any other questions about our Privacy Policy, please call us at 845-708-5526.
+Should you have any other questions about our Privacy Policy, please call us at 800-795-2886.
