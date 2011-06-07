@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iburst.co.za privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127222004id_/http%3A//www.iburst.co.za/neuvo.aspx%3Flink%3Dsite_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iburst.co.za privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607151758id_/http%3A//www.iburst.co.za/neuvo.aspx%3Flink%3Dsite_privacy) for the most accurate reproduction.*
 
 # Welcome to iBurst
 
