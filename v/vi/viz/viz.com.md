@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the viz.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225053015id_/http%3A//www.viz.com/termsofuse/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viz.com privacy policy that was archived on 2011-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110608013428id_/http%3A//viz.com/privacy) for the most accurate reproduction.*
 
-# VIZ, LLC . privacy policy
-
-|    
-[home](https://web.archive.org/index.php) > [privacy policy](https://web.archive.org/termsofuse/privacy)
+# Privacy Policy | VIZ Media
 
 Last Updated: January 29, 2010
 
@@ -132,8 +129,4 @@ San Francisco, CA 94133
 
 From time to time, we may update this privacy notice, you can always tell the last date this privacy policy was updated by checking the data at the top of the privacy policy. We will notify you about material changes in the way we treat personally identifiable information by posting a revised policy on our Site. We encourage you to periodically check back and review this policy so that you always will know what information we collect, how we use it, and to whom we disclose it.
 
-Our sites ©2006 VIZ Media, LLC: All Rights Reserved.
-
-back to the top
-
-| 
+Our sites ©2011 VIZ Media, LLC: All Rights Reserved.
