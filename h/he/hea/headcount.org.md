@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the headcount.org privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229024440id_/http%3A//www.headcount.org/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the headcount.org privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607222432id_/http%3A//www.headcount.org/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | HeadCount | Register to Vote!
 
