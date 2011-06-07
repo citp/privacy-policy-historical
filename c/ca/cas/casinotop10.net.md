@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the casinotop10.net privacy policy that was archived on 2010-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101209083751id_/http%3A//www.casinotop10.net/privacy-policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the casinotop10.net privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607182320id_/http%3A//www.casinotop10.net/privacy-policy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy
 
