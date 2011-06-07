@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hearingdirect.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229142146id_/http%3A//www.hearingdirect.com/pages/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hearingdirect.com privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607084952id_/http%3A//www.hearingdirect.com/pages/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - HearingDirect.com ™
 
@@ -45,7 +45,7 @@ You do not have to agree to the use of cookies. For information on how to reject
 If you don't want us to place cookies on your computer at all, you can set your browser to disable or reject cookies. This will mean that no websites will be able to place cookies on your computer. You can do this by adjusting the preferences within your browser. This may mean, however, that you will not be able to enjoy full use of all parts of the Site.
 
 If you want to remove previously-stored cookies, you can manually delete the cookies at any time. This will not prevent websites from placing further cookies on your computer.  
-To find out exactly how to disable/remove, please go to <http://www.aboutcookies.org/default.aspx>.
+To find out exactly how to disable/remove, please go to [http://www.aboutcookies.org/default.aspx](http://www.aboutcookies.org/default.aspx).
 
 ### 5\. WHAT WE DO WITH THE INFORMATION WE COLLECT ABOUT YOU
 
