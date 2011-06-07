@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the downloadfestival.co.uk privacy policy that was archived on 2009-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090226061054id_/http%3A//www.downloadfestival.co.uk/legal/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downloadfestival.co.uk privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607033640id_/http%3A//www.downloadfestival.co.uk/legal/privacy_policy) for the most accurate reproduction.*
 
-# Download Festival 2009
+# Privacy Policy - Download Festival
 
 ## PRIVACY POLICY
 
