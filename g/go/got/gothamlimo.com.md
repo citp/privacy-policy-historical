@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the gothamlimo.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124035406id_/http%3A//gothamlimo.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gothamlimo.com privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607223144id_/http%3A//www.gothamlimo.com/privacy.html) for the most accurate reproduction.*
 
-# 
+# Gotham Limousine Service
 
 Gotham Limousine has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices. 
 
-This privacy statement is applicable to: gothamlimo.com; limousines.com; nyc-answers.com; and gothamlimo.050.com. 
+This privacy statement is applicable to the website: gothamlimo.com
 
 We use your IP address to help diagnose problems with our server, and to administer our Web site. IP addresses are logged to track a user's session. This gives Gotham Limousine an idea of which parts of our site users are visiting. We do not link IP addresses to anything personally identifiable. This means that a users session will be tracked, but the user will be anonymous. 
 
@@ -48,4 +48,4 @@ If you have any questions about this privacy statement, the practices of this si
 
 Customer Support
 
-Bens Limousine Service  11-01 43rd Avenue  Long Island City, NY 11101  1-718-433-1212  1-800-227-5060  support@gothamlimo.com 
+Bens Limousine Service  50-19 49th Street  Woodside, NY 11377  1-718-433-1212  1-800-227-5060  support@gothamlimo.com 
