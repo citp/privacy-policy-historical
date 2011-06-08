@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the deliaonline.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221202514id_/http%3A//www.deliaonline.com/home/our-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deliaonline.com privacy policy that was archived on 2011-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110608090310id_/http%3A//www.deliaonline.com/home/our-privacy-policy.html) for the most accurate reproduction.*
 
-# Our privacy policy - Home - from Delia Online
+# Our privacy policy | from Delia Online
 
-[Return to listing](https://web.archive.org/recipes/galleries/summer-fruits-soft-options/)
+[Return to listing](https://web.archive.org/web/20110608090310id_/http%3A//www.deliaonline.com/home/our-privacy-policy.html)
 
 At Delia Online we are committed to protecting your privacy. Any personal information we request from you will be safeguarded under the Data Protection Act 1998. This Act regulates the processing of information relating to individuals, including the holding, use or disclosure of such information. Our data is stored in a secure database protected by a number of access controls. 
 
