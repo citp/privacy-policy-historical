@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the moneycone.com privacy policy that was archived on 2010-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101209213540id_/http%3A//www.moneycone.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneycone.com privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609012621id_/http%3A//www.moneycone.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Money Cone
+
+* * *
 
 At moneycone.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by moneycone.com and how it is used.
 
