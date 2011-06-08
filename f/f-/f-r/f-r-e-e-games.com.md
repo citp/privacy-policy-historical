@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the f-r-e-e-games.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206062931id_/http%3A//www.gifmania.org/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the f-r-e-e-games.com privacy policy that was archived on 2011-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110608235252id_/http%3A//www.gifmania.org/Privacy) for the most accurate reproduction.*
 
 # Gifmania Network Website Privacy Policy
 
 **Summary** |    
 ---|---  
-Information NOT Collected - PII | We do not collect personally identifiable information (data collected with an intention to identify and contact a person such as name, address, telephone number or e-mail address) (hereinafter “PII”). However, the Lead Generation business does collect PII.  More information on the collection of PII can be found on clicking on the following link to Lead Generation’s [privacy policy](https://web.archive.org/web/20101206062931id_/http://www.gifmania.org/Privacy/lead_web_privacy.shtml).  
+Information NOT Collected - PII | We do not collect personally identifiable information (data collected with an intention to identify and contact a person such as name, address, telephone number or e-mail address) (hereinafter “PII”). However, the Lead Generation business does collect PII.  More information on the collection of PII can be found on clicking on the following link to Lead Generation’s [privacy policy](https://web.archive.org/web/20110608235252id_/http://www.gifmania.org/Privacy/lead_web_privacy.shtml).  
 Information Collected - Non-PII | The non-personally identifiable information we collect may include as an example, IP address, browser types, operating systems, domain names, access dates and times, referring website addresses, online transactions and browsing and search activity.  
 How Used | We may use your Non-PII (“Information”) for the following general purposes: enhancement of our services, marketing, and to more effectively match advertisements and website content to your interests. Click on the link for more detailed information.  
 Sharing Your Information | We may share your Information with third party service providers we have contracted with, ValueClick, Inc. and its subsidiaries and affiliates, including ValueClick Media (“Value Click Entities”), third party marketing partners, business partners and our clients.   
