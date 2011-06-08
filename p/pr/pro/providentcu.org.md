@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the providentcu.org privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223181142id_/http%3A//providentcu.org/AFrames/MembershipFrames/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the providentcu.org privacy policy that was archived on 2011-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110608021410id_/http%3A//providentcu.org/AFrames/MembershipFrames/Privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,84 +6,108 @@
 
 Print
 
-### We take safeguarding your information seriously.
+| 
 
-Provident Credit Union and its affiliate, Provident Services Corporation, (PSC), are committed to providing you with financial products and services to meet your financial objectives at every stage of your life. We understand the importance of safeguarding your member information. You can count on us to provide you with the responsive, professional service you deserve. Plus, you can trust Provident to protect your privacy and security at all times. 
+Facts
 
-This Privacy Policy describes how Provident and PSC collect and use your personal and financial information, and how we maintain the confidentiality and accuracy of such information. This policy is provided pursuant to Title V of the Gramm-Leach-Bliley Act (the Federal Privacy Act) and the Fair Credit Reporting Act Affiliate Marketing rule.
+| 
 
-If you have questions after reading this notice, please contact us at (650) 508-0300 or (800) 632-4600.
-
-### Important highlights of our commitment to our members.
-
-  * We do not sell member information with outside parties or to third parties.
-  * We are committed to protecting your member information in every transaction, at every level of our organization.
-  * We are committed to helping you protect your privacy every day.
-  * What follows is more information about our Privacy Policy, and what we do to protect your member information at Provident Credit Union.
-
-
-
-### Information We Collect About You
-
-We collect and maintain your non-public personal information to serve you and to administer your business relationship with Provident and PSC. Non-public personal information is personally identifiable financial information that you provide to us; as a result of a transaction between you and Provident and PSC; or information that we otherwise obtain about you in connection with providing a financial product or service.
-
-  * **We collect non-public personal information about you from a variety of sources, such as:**  
- 
-    * Information we receive from you on applications or forms received verbally, electronically, or in writing, including information such as Social Security numbers, addresses, e-mail addresses, income, assets, and debt;
-    * Information we receive from a consumer reporting agency, including information we receive from a third party such as a credit bureau providing your credit history, credit score, or employment verification;
-    * Information created as a result of your being a customer of PSC or your being a Provident member or nonmember joint owner on a deposit or loan account, such as account numbers, personal identification numbers (PIN), and passwords;
-    * Information about your transactions with us, our affiliates, or others, including information about your transactions or experiences, such as insurance contracts issued to you, brokerage accounts, loan or deposit balance histories;
-    * Information received from other sources to verify information that you provide on an application. This may be obtained from your current or past employers or other institutions where you have conducted financial transactions in the past.
+What does Provident Credit Union do with your personal information?  
   
- 
-  * **Parties who receive information from us--** The member information we collect is used to serve your accounts and meet your financial needs. Information may be used among the Provident affiliates, as well as with authorized third parties (see section 3 for further description), for a number of purposes, such as:  
- 
-    * To protect your accounts from unauthorized access or identity theft.
-    * To process your requests such as loan applications, purchases, and ATM withdrawals.
-    * To service your accounts by issuing checks, ATM cards, and account statements.
-    * To keep you informed about financial services of interest to you.
+---|---  
   
- 
-  * **We share information with third parties when they are acting on our behalf, or acting jointly with us.** We may disclose the information we collect, as described above, with third parties that are acting on our behalf, including:  
- 
-    * Companies that perform support services for us, such as data processors, technical systems consultants and programmers, check printers, or companies that help us market Provident's products and services.
-    * Financial institutions such as insurance companies or lenders that are acting in under joint programs with us, and provide financial services that are different than those we provide to you. If you prefer not to receive information about special offers from these companies, you may instruct us not to share member information for this purpose. Indicate your preference on the attached notification form and return it to us at any time.
-    * There are other situations when we may disclose to third parties the member information we collect as permitted or required by law. In these cases, third parties could include credit bureaus, government entities, courts or other entities (in response to subpoenas and other legal processes), and those with whom you have requested us to share information.
+Why?
+
+| Financial companies choose how they share your personal information. Federal law gives consumers the right to limit some but not all sharing. Federal law also requires us to tell you how we collect, share, and protect your personal information. Please read this notice carefully to understand what we do.  
   
-  Please note: Provident does not share member information with other companies for the purpose of marketing their products to you, unless you specifically request in advance that we do so.
+What? 
+
+| The types of personal information we collect and share depend on the product or services you have with us. This information can include: 
+
+  * Social security number
+  * Income
+  * Account balances
+  * Payment
+  * Credit history
+  * Credit scores
+
+When you are no longer our member, we continue to share your information as described in this notice.  
+  
+How? 
+
+| All financial companies need to share members' personal information to run their everyday business. In the section below, we list the reasons financial companies can share their customers' personal information; the reasons Provident Credit Union chooses to share, and whether you can limit the sharing.  
+Reasons we can share your personal information | Does Provident Credit Union share? | Can you limit this sharing?  
+---|---|---  
+For our everyday business purposes — such as to process your transactions, maintain your account(s), respond to court orders and legal investigations, or report to credit bureaus | Yes | No  
+For our marketing purposes — to offer our products and services to you | Yes | Yes*  
+For joint marketing with other financial companies | Yes | Yes*  
+For our affiliates' everyday business purposes — information about your transactions and experiences | No | We don't share  
+For our affiliates' everyday business purposes — information about your creditworthiness | No | We don't share  
+For our affiliates to market to you | Yes | Yes*  
+For nonaffiliates to market to you | Yes | Yes*  
+  
+To limit our sharing 
+
+| 
+
+  * Call (800) 632-4600 — our menu will prompt you through your choice(s) or
+  * [Click here](https://web.archive.org/web/20110608021410id_/http%3A//providentcu.org/AFrames/MembershipFrames/PrivacyForm.html) for an online [Privacy Form](https://web.archive.org/web/20110608021410id_/http%3A//providentcu.org/AFrames/MembershipFrames/PrivacyForm.html) that can be filled out, printed, and mailed.
 
 
 
-### Disclosure of Information About Former Members
+**Please Note:**  
+If you are a new member, we can begin sharing your information (30) days from the date we sent this notice. When you are no longer our member, we continue to share your information as described in this notice.
 
-If you decide to terminate your membership with Provident Credit Union or its affiliates, we will not share information we have collected about you, except as may be permitted or required by law.
+* You can contact us at any time to limit our sharing of printed and electronic marketing materials tailored especially for you.  
+  
+---|---  
+  
+Questions? 
 
-### How We Protect and Use Member Information
+| Call (800) 632-4600 or (650) 508-0300  
+  
+Who we are  
+  
+---  
+Who is providing this notice? | Provident Credit Union  
+  
+What we do  
+  
+---  
+How does Provident Credit Union protect my personal information? | To protect your information from unauthorized access and use, we use security measures that comply with federal law. These measures include computer safeguards and secured files and buildings.  
+How does Provident Credit Union collect my personal information? | We collect your personal information, for example, when you 
 
-We are committed to protecting the security and integrity of member information through procedures and technology designed for this purpose. For example:
+  * Open an account or deposit money
+  * Pay your bills or apply for a loan
+  * Use your credit or debit card
 
-  * We limit employee access to member information to those who have a business reason to know this information. Employees are required to honor our code of conduct, which includes standards to protect member confidentiality. They are subject to disciplinary action if they fail to do so.
-  * We maintain policies and procedures covering the proper physical security of workplaces and records.
-  * Our physical, electronic, and procedural safeguards meet or exceed federal standards regarding the protection of customer information.We require independent contractors and third parties who work with us to adhere to strict privacy standards through their contracts with use.
-  * We use technological means (such as backup files, virus detection and eradication software, firewalls, and other computer software and hardware) to protect against unauthorized access or alterations to member data.
+We also collect your personal information from others, such as credit bureaus, affiliates, or other companies.  
+Why can't I limit all sharing? | Federal law gives you the right to limit only 
 
+  * Sharing for affiliates' everyday business purposes — information about your creditworthiness
+  * Affiliates from using your information to market to you
+  * Sharing for nonaffiliates to market to you
 
+State laws and individual companies may give you additional rights to limit sharing.  
+What happens when I limit sharing for an account I hold jointly with someone else? | Your choices will apply to everyone on your account.  
+  
+Definitions  
+  
+---  
+Affiliates | Companies related by common ownership or control. They can be financial and non-financial companies. 
 
-### What Members Can Do to Help
+  * Our affiliates include companies like Provident Plus or CUE Financial Planning; financial companies such as Affinion Benefits Group; nonfinancial companies and others such as Autoland.
 
-Provident Credit Union and its affiliates are committed to protecting the privacy of its members and customers. You can help by following these simple guidelines:
+  
+Non-affiliates | Companies not related by common ownership or control. They can be financial and non-financial companies. 
 
-  * Protect your account numbers, card numbers, PINs (personal identification numbers) and passwords. Never keep your PIN with your check card or credit card which can provide free access to your accounts if your card is lost or stolen. 
-  * Use caution when disclosing your account numbers, social security numbers, etc. to other persons. If someone calls you, explains the call is on behalf of the Credit Union, and asks for your account number, you should beware. Official credit union staff will have access to your information and will not need to ask for it.
-  * Keep your information current. It is important that we have current information on how to reach you. If we detect potentially fraudulent or unauthorized activity or use of an account, we will attempt to contact you immediately. If your address or phone number changes, please let us know.
-  * Let us know if you have questions. Please do not hesitate to call us -- we are here to serve you!
+  * Non-affiliates we share with can include companies that perform support services for us such as data processors, technical systems consultants and programmers, check printers or companies that help us market Provident's products and services.
 
+  
+Joint marketing | A formal agreement between nonaffiliated financial companies that together market financial products or services to you. 
 
+  * Our joint marketing partners include insurance companies
 
-### Your Right to Opt-Out
-
-If you do not want us to give information about you to third parties, you can opt out at any time by contacting our Call Center at (650) 508-0300, or by completing the "[Opt Out](https://web.archive.org/web/20101223181142id_/http%3A//providentcu.org/AFrames/MembershipFrames/PrivacyForm.html)" form below and returning it in person to one of our [community branch locations](https://web.archive.org/providentIF.asp?i=branches), or mailing it to us at the address provided on the form. It may take up to four weeks to implement your request.
-
-Your preference will apply to all accounts linked to your Member Number. For joint accounts, any account holder can make their selection on behalf of the other joint account holders.
-
-[Privacy Form](https://web.archive.org/web/20101223181142id_/http%3A//providentcu.org/AFrames/MembershipFrames/PrivacyForm.html)
+  
+  
+[Privacy Form](https://web.archive.org/web/20110608021410id_/http%3A//providentcu.org/AFrames/MembershipFrames/PrivacyForm.html)
