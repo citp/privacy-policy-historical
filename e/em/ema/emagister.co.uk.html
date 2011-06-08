@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the emagister.co.uk privacy policy that was archived on 2010-12-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101227064202id_/http%3A//www.emagister.co.uk/web/pagina/privacidad) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the emagister.co.uk privacy policy that was archived on 2011-06-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110608154720id_/http%3A//www.emagister.co.uk/web/pagina/privacidad) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 <title>Emagister</title>
@@ -14,7 +14,7 @@
 <tr class="cabcontacto">
 <td class="cabcontacto">
 <a href="http://www.emagister.co.uk/">
-<img border="0" src="http://content.emagistercdn.com/7215/img/centro/uk/logotipos/logofgris.gif">
+<img border="0" src="http://content.emagistercdn.com/12480/img/centro/uk/logotipos/logofgris.gif">
 </a>
 </td>
 </tr>
@@ -24,12 +24,12 @@
 </tbody></table>
 <!-- Content -->
 <table cellpadding="3" cellspacing="0" border="0" width="100%">
-<tbody><tr class="cabcontacto"><td class="cabcontacto"><img src="http://content.emagistercdn.com/7215/img/web/_common/backgrounds/shim.gif" width="1" height="1"></td></tr>
+<tbody><tr class="cabcontacto"><td class="cabcontacto"><img src="http://content.emagistercdn.com/12480/img/web/_common/backgrounds/shim.gif" width="1" height="1"></td></tr>
 <tr class="cabcontacto"><td class="cabcontacto">&nbsp;&nbsp;&nbsp;Privacy Policy Emagister.co.uk</td></tr>
-<tr class="cabcontacto"><td class="cabcontacto"><img src="http://content.emagistercdn.com/7215/img/web/_common/backgrounds/shim.gif" width="1" height="1"></td></tr>
+<tr class="cabcontacto"><td class="cabcontacto"><img src="http://content.emagistercdn.com/12480/img/web/_common/backgrounds/shim.gif" width="1" height="1"></td></tr>
 </tbody></table>
 <table cellpadding="12" cellspacing="0" width="100%">
-<tbody><tr class="tdplanas"><td class="tdplanas"><a target="_blank" href="http://clicktoverify.truste.com/pvr.php?page=validate&amp;url=www.emagister.co.uk&amp;sealid=101"><img border="0" src="http://www.emagister.co.uk/images/truste_seal_ctv_en_60.png"></a></td></tr>
+<tbody><tr class="tdplanas"><td class="tdplanas"><a target="_blank" href="http://clicktoverify.truste.com/pvr.php?page=validate&amp;url=www.emagister.co.uk&amp;sealid=101"><img border="0" src="http://content.emagistercdn.com/12480/img/web/_common/iconos/truste_seal_ctv.gif"></a></td></tr>
 <tr class="tdplanas">
 <td class="tdplanas">
 <b style="font-size:12pt;">Privacy Policy</b><br><br>
@@ -184,8 +184,9 @@ Email: <a href="mailto:info@emagister.co.uk">info@emagister.co.uk</a><br>
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
 try {
 var _gaq = _gaq || [];
-_gaq.push(['_setAccount', 'UA-3409936-1']); var baseurl = location.pathname + location.search;
-var readableVal = "mxr=/SEG/courses/PRIVACIDAD/mxr=/SEG/courses/PRESULTADO/TPS/cscs test/1";
+_gaq.push(['_setAccount', 'UA-3409936-1']);
+var baseurl = location.pathname + location.search;
+var readableVal = "mxr=/SEG/courses/PRIVACIDAD/mxr=/SEG/courses/PRIVACIDAD";
 if (location.search.match(/\?/)) {
 readableVal = "&" + readableVal;
 } else {
@@ -193,16 +194,44 @@ readableVal = "?" + readableVal;
 }
 var trackerVal = baseurl+readableVal;
 _gaq.push(['_trackPageview', trackerVal]);
-// TODO: TestAB // Seteo de libreria de analytics en modo asíncrono
+var testAb = $.parseJSON(getCookie('testab'));
+var testsActivos = '';
+var sep = '';
+if (testAb!=null) {
+$.each(testAb, function(key, value) {
+if (value != '') {
+testsActivos = testsActivos+sep+'testAB_'+key+'_'+value;
+sep = '/';
+}
+});
+testsActivos = testsActivos + sep + sep;
+}
+var getVar = getCookie('__utmv');
+var hasValue = -1;
+if (getVar) {
+hasValue = getVar.indexOf(testsActivos);
+}
+if ( hasValue == -1 && testsActivos != '') {
+_gaq.push(['_setVar',testsActivos]);
+} else if (testsActivos == '') {
+var expires= new Date();
+document.cookie = "__utmv" + "=" + escape (' ') +
+"; expires=" + expires.toGMTString() +
+"; path=/" + ";domain=emagister.co.uk";
+}
+} catch(error) {};
+// Seteo de libreria de analytics en modo asíncrono
 // Nota: se hace el append justo despues de inicializar el array push para que se setee en ie6/ie7.
+try {
 (function() {
-var ga = document.createElement('script'); ga.type = 'text/javascript';
+var ga = document.createElement('script');
+ga.type = 'text/javascript';
 ga.async = true;
 ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
 var s = document.getElementsByTagName('script')[0];
 s.parentNode.insertBefore(ga, s);
 })();
-} catch(error) { };
+} catch(error) {};
 </script>
 <!-- Nielsen -->
 <script type="text/javascript">
