@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the joomseller.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216204917id_/http%3A//joomseller.com/JS-TOS/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joomseller.com privacy policy that was archived on 2011-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110608182530id_/http%3A//joomseller.com/js-tos/privacy.html) for the most accurate reproduction.*
 
 # Privacy | JS TOS
 
-JoomSeller("Joomla® Seller") is committed to protecting your privacy. This Privacy Policy explains our privacy practices for our website, www.JoomSeller.com on the World Wide Web (the "Site"), as well as for JoomSeller services that may be accessed through the normal use of our products (the "Services"). You can travel through most of our Site without giving us any information about yourself. But sometimes we do need information to provide services that you request. The following statement explains our information-gathering and dissemination practices. Please read the complete JoomSeller Privacy Policy.
+JoomSeller("Joomla!!® Seller") is committed to protecting your privacy. This Privacy Policy explains our privacy practices for our website, www.JoomSeller.com on the World Wide Web (the "Site"), as well as for JoomSeller services that may be accessed through the normal use of our products (the "Services"). You can travel through most of our Site without giving us any information about yourself. But sometimes we do need information to provide services that you request. The following statement explains our information-gathering and dissemination practices. Please read the complete JoomSeller Privacy Policy.
 
   * General Information
   * Information Collection and Use
@@ -19,7 +19,7 @@ JoomSeller may periodically update this Privacy Policy. If so, JoomSeller will p
 
 By using this Site or any products or services provided through the Site, you expressly consent to the use and disclosure of information as described in this Privacy Policy. **IF YOU DO NOT AGREE WITH ANY OF THE TERMS BELOW, YOU SHOULD NOT USE THIS SITE OR THE PRODUCTS OR SERVICES OFFERED BY JOOMSELLER AT THIS SITE.**
 
-Please note that the JoomSeller Users Forum is covered by its own privacy policy, which is available for review at any time. And has been protected by **Joomla® core**.
+Please note that the JoomSeller Users Forum is covered by its own privacy policy, which is available for review at any time. And has been protected by **Joomla!!® core**.
 
 ### Information Collection and Use
 
