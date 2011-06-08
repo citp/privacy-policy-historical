@@ -1,14 +1,13 @@
-> *The following text is extracted and transformed from the tradearabia.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204190702id_/http%3A//www.tradearabia.com/general/privacystatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradearabia.com privacy policy that was archived on 2011-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110608090600id_/http%3A//www.tradearabia.com/general/privacystatement.asp) for the most accurate reproduction.*
 
-# Trade Arabia - Online business directory with over 200,000 profiles
+# Trade Arabia Business Directory
 
-|  |  |   
+|   
 ---|---  
-  |   
   
 |  | [](http://www.tradearabia.com/)  
 ---  
-| Saturday, December 04, 2010  
+| Wednesday, June 08, 2011  
   
 |  | 
 
@@ -64,5 +63,5 @@ Tradearabia.com welcomes your continuous input regarding our Privacy Policy or o
 ---|---|---  
    
   
-[Advertising](https://web.archive.org/web/20101204190702id_/http%3A//www.tradearabia.com/general/advertise.asp) | [Contact](https://web.archive.org/web/20101204190702id_/http%3A//www.tradearabia.com/general/contact.asp) | [ Feedback](https://web.archive.org/web/20101204190702id_/http%3A//www.tradearabia.com/general/feedback.asp) | [Privacy Statement](https://web.archive.org/web/20101204190702id_/http%3A//www.tradearabia.com/general/privacystatement.asp) | [ Terms of Service](https://web.archive.org/web/20101204190702id_/http%3A//www.tradearabia.com/general/serviceterms.asp) | [Web Feeds](https://web.archive.org/web/20101204190702id_/http%3A//www.tradearabia.com/rss)  
-Copyright (c) 2009, Al Hilal Publishing & Marketing Group
+[Advertising](https://web.archive.org/web/20110608090600id_/http%3A//www.tradearabia.com/general/advertise.asp) | [Contact](https://web.archive.org/web/20110608090600id_/http%3A//www.tradearabia.com/general/contact.asp) | [ Feedback](https://web.archive.org/web/20110608090600id_/http%3A//www.tradearabia.com/general/feedback.asp) | [Privacy Statement](https://web.archive.org/web/20110608090600id_/http%3A//www.tradearabia.com/general/privacystatement.asp) | [ Terms of Service](https://web.archive.org/web/20110608090600id_/http%3A//www.tradearabia.com/general/serviceterms.asp) | [Web Feeds](https://web.archive.org/web/20110608090600id_/http%3A//www.tradearabia.com/rss)  
+Copyright (c) 2011, Al Hilal Publishing & Marketing Group
