@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dp-db.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219082711id_/http%3A//www.dp-db.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dp-db.com privacy policy that was archived on 2011-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110608055822id_/http%3A//www.dp-db.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
