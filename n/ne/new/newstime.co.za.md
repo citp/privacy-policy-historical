@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newstime.co.za privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221122229id_/http%3A//www.newstime.co.za/Uploads/NewsTime%2520Privacy%2520Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newstime.co.za privacy policy that was archived on 2011-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110608234840id_/http%3A//newstime.co.za/Uploads/NewsTime%2520Privacy%2520Policy.pdf) for the most accurate reproduction.*
 
 # Please read the Privacy Policy and our notices regarding Terms and Conditions and Forums. By continuing to use NewsTime, you agree to abide by the terms of these documents.
 
