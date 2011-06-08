@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winamp.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224231131id_/http%3A//www.winamp.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winamp.com privacy policy that was archived on 2011-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110608090507id_/http%3A//www.winamp.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Winamp
 
@@ -38,7 +38,7 @@ Your Winamp Information may also include certain technical information gathered 
 
 Your Winamp Information may be collected and stored in the United States, even if you use Winamp Services in another country.
 
-Winamp Services include integrated offerings and technologies provided by AOL Inc. to bring you certain optional services, such as the Winamp Orgler and sharing of Winamp Skins. These Winamp Services may use the Screen Name Service, or similar technologies, to authenticate you on Winamp websites and the AOL Network. Your use of the Screen Name Service and associated services account will be subject to the [AOL Network Terms of Service](http://about.aol.com/aolnetwork/terms_use) and [Privacy Policy](http://about.aol.com/aolnetwork/aol_pp). You can learn more about other benefits of the Screen Name Service, including its ability to facilitate your use of websites outside the AOL Network, by visiting [Screen Name Service](http://my.screenname.aol.com/).
+Winamp Services include integrated offerings and technologies provided by AOL Inc. to bring you certain optional services, such as the Winamp Orgler and sharing of Winamp Skins. These Winamp Services may use the Screen Name Service, or similar technologies, to authenticate you on Winamp and AOL Websites. Your use of the Screen Name Service and associated services account will be subject to the AOL [Terms of Service](http://legal.aol.com/TOS) and [Privacy Policy](http://privacy.aol.com/). You can learn more about other benefits of the Screen Name Service, including its ability to facilitate your use of websites outside of AOL, by visiting [Screen Name Service](http://my.screenname.aol.com/).
 
 #### How Your Winamp Information is Used
 
@@ -113,7 +113,7 @@ Winamp has established safeguards to help prevent unauthorized access to or misu
 
 #### How to Contact Us
 
-If you have any questions or concerns about the Winamp Privacy Policy or its implementation, you may contact us by clicking [here](mailto:support@winamp.com?subject=Privacy%20Policy%20Inquiry) to send an email. Please be sure to include "Privacy Policy" within the subject line.
+If you have any questions or concerns about the Winamp Privacy Policy or its implementation, you may contact us by clicking [here](mailto:support@winamp.com?subject=Privacy20Inquiry) to send an email. Please be sure to include "Privacy Policy" within the subject line.
 
 #### Changes to this Privacy Policy
 
