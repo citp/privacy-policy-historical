@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wealthwire.com privacy policy that was archived on 2010-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101209134724id_/http%3A//wealthwire.com/subscription/manage/%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wealthwire.com privacy policy that was archived on 2011-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110608134417id_/http%3A//www.wealthwire.com/subscription/manage/%23privacy) for the most accurate reproduction.*
 
 # Wealth Wire - Subscription Management
 
