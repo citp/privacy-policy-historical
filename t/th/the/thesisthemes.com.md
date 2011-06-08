@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thesisthemes.com privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202041133id_/http%3A//thesisthemes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesisthemes.com privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609011136id_/http%3A//thesisthemes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -35,6 +35,7 @@ If you wish to disable cookies, you may do so through your individual browser op
 ### Follow [@ThesisThemes](http://www.twitter.com/thesisthemes/)  
 on Twitter
 
-  * "I bought Thesis Play on Monday and by the end of the day my website was customized just the way I wanted it - Thanks Thesis Themes!" Jeff C  — yesterday
+  * > We've been busy developing kick-ass skins and haven't had time to tweet! Sorry!
+
 
 
