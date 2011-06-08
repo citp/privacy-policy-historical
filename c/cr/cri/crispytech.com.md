@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the crispytech.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226101745id_/http%3A//www.crispytech.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crispytech.com privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609005653id_/http%3A//www.crispytech.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+Advertisement
 
 We respect your privacy and we are fully committed to safeguarding your privacy while online at this site [Crispy Tech](http://www.crispytech.com/). The following discloses the information gathering and dissemination practices for this website.
 
@@ -10,11 +12,11 @@ Like most standard Web site servers, we use log files. This includes Internet Pr
 
 ####  **E-mail Subscription**
 
-If a user wishes to subscribe to [Crispy Tech](https://web.archive.org/web/20101226101745id_/http://www.crispytech.com/) posts via e-mail _(powered by Feedburner)_ , we ask for contact information such as name and email address. We have respect for our user’s privacy and choice, so a way to opt-out of these communications is provided.
+If a user wishes to subscribe to [Crispy Tech](https://web.archive.org/web/20110609005653id_/http%3A//) posts via e-mail _(powered by Feedburner)_ , we ask for contact information such as name and email address. We have respect for our user’s privacy and choice, so a way to opt-out of these communications is provided.
 
 #### Cookies
 
-A cookie is a piece of data stored on the user’s computer tied to information about the user. This site uses cookies for tracking visitors’ activity. Some of our business partners may use cookies on our site (for example, advertisers). However, [Crispy Tech](https://web.archive.org/web/20101226101745id_/http://www.crispytech.com/) have no access to or control over these cookies, once we have given permission for them to set cookies for advertising. You can choose not to accept cookies by modifying your browser settings. At any time, you may remove any cookie stored on your hard drive by deleting them in your browser’s settings or manually.
+A cookie is a piece of data stored on the user’s computer tied to information about the user. This site uses cookies for tracking visitors’ activity. Some of our business partners may use cookies on our site (for example, advertisers). However, [Crispy Tech](https://web.archive.org/web/20110609005653id_/http%3A//) have no access to or control over these cookies, once we have given permission for them to set cookies for advertising. You can choose not to accept cookies by modifying your browser settings. At any time, you may remove any cookie stored on your hard drive by deleting them in your browser’s settings or manually.
 
 #### Links
 
@@ -27,3 +29,5 @@ We may use outside ad companies to display ads on this Web site. These companies
 ####  **Contact Information**
 
 If you have any suggestion or question regarding [Crispy Tech’s](http://www.crispytech.com/) privacy policy, please contact by filling up the [contact form](http://www.crispytech.com/contact/).
+
+Advertisement
