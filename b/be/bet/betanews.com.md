@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the betanews.com privacy policy that was archived on 2010-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101217052522id_/http%3A//www.betanews.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betanews.com privacy policy that was archived on 2011-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110608073105id_/http%3A//www.betanews.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Betanews
+# Privacy Policy
 
 ## Privacy Statement for Betanews, Inc.
 
