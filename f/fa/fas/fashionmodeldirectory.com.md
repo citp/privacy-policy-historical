@@ -1,95 +1,98 @@
-> *The following text is extracted and transformed from the fashionmodeldirectory.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230224828id_/http%3A//www.fashionmodeldirectory.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fashionmodeldirectory.com privacy policy that was archived on 2011-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110608053314id_/http%3A//www.fashionmodeldirectory.com/info/privacy) for the most accurate reproduction.*
 
 # The Fashion Model Directory (FMD) - FashionModelDirectory.com
 
-| [](https://web.archive.org/models)| [](https://web.archive.org/models)  
----|---  
-[](https://web.archive.org/agencies/)| [](https://web.archive.org/agencies/)  
-[](https://web.archive.org/magazines/)| [](https://web.archive.org/magazines/)  
-[](https://web.archive.org/designers/)| [](https://web.archive.org/designers/)  
-[](https://web.archive.org/brands/)| [](https://web.archive.org/brands/)  
-[](https://web.archive.org/specials/)| [](https://web.archive.org/specials/)  
-[](http://forums.fmd1.com/)| [](http://forums.fmd1.com/)  
-[](https://web.archive.org/info/about/)| [](https://web.archive.org/info/about/)  
-  
-[](http://www.facebook.com/fashionmodeldirectory)
+This Policy describes the information that the Fashion Model Directory and its operated Websites (collectively, the “websites” or “we”) collect about you, how this information is used and the choices you can make about the uses of your personal information.   
+This Privacy Policy applies to Fashionmodeldirectory.com and all subordinated domains and projects.
 
-[](http://twitter.com/fmd1_com)
+## I. Type of Information we collect
 
-| PRIVACY POLICY (MODELS, AGENCIES AND DESIGNERS)  
----  
-  
-(as of November 1, 2005) 
+We generally collect information from you, with your specific knowledge and consent. For instance, when you register on our site, subscribe to our newsletter, respond to a survey, enter a sweepstakes or contest or fill out a form.   
+When registering for any portion of our services, you may be asked to enter your name, e-mail address, mailing address or phone number. Optional information, such as your age or gender, may also be requested.  
+When you visit our Websites, we may automatically collect information about the type of web browser you use, the operating system you are running, the website that referred you, and your Internet Protocol (“IP”) address, which is usually associated with your geographic location and place from which you enter the Internet. You may, however, visit our site anonymously.
 
-All of the model, agency and designer information contained on the Fashion Model Directory is available elsewhere in the public domain or has been provided by the models, agencies and designers themselves, their families (or their agencies). However, we respect the privacy of all models, agencies and designers - if you are a model, agency or designer featured here and you object to the inclusion of any information relating to you, or if such information is incorrect, please email to our **Privacy Contacts**  below and we will gladly amend or delete it.   
-****  
-  
-PRIVACY POLICY FOR USERS  
-  
-(as of November 1, 2005) 
+## II. Use of Information provided by you
 
-In addition to reviewing this privacy policy, please read the [User Agreement](https://web.archive.org/info/dua). This Privacy Policy applies to all **Fashion Model Directory** websites (following named "Service" i.c.c. "Service Provider"), including www.fashionmodeldirectory.com and www.fmd1.com.  
-Your use of the Fashion Model Directory constitutes agreement to its terms and conditions.   
-This Privacy Policy may be modified from time to time; the date of the most recent revisions will appear on this page, so check back often. Continued access of the Fashion Model Directory by you will constitute your acceptance of any changes or revisions to the Privacy Policy.   
-It is the goal of the Fashion Model Directory to bring you information that is tailored to your individual needs and, at the same time, protect your privacy. The following is a summary of the various ways we treat the information you provide us while using our site.   
-  
-THE TYPE OF INFORMATION THE SERVICE COLLECTS  
-  
-Fashion Model Directory generally collects personally identifying information with your specific knowledge and consent. For instance, when you enter a contest, complete a survey, subscribe to our newsletters or register for a user account, you are asked to provide information such as your e-mail address and name. Optional information such as your age or gender may also be requested.   
-  
-HOW THE FASHION MODEL DIRECTORY USES INFORMATION PROVIDED BY YOU  
-  
-The Fashion Model Directory uses this information to provide you with the service you have requested. For example, if you subscribe to our newsletter, we may use your e-mail address to send you a confirmation notice and your mailing address to send you our newsletter. 
+Any of the information we collect from you may be used in one of the following ways: 
 
-The Fashion Model Directory **does not** sell our users' e-mail addresses, neither we share e-mail address and sell or share all other information with third parties. If you've registered on Fashion Model Directory, you may also change or update your member preferences or information within any section of the site where you have signed up, registered or created any type of account.   
-  
-COOKIES  
-  
-You may have read about "cookies," nuggets of information that are placed by a Website in a storage place on your own computer. We use cookies to control the display of ads, to track usage patterns on the site,to deliver editorial content, and to record registration and personalization information. For example, if you register on any part of the Fashion Model Directory ,you can opt to save your user name and password on your computer. We can provide this convenience by placing a cookie on your computer.   
-Our cookies may contain personally identifiable information. Some of our advertisers occasionally serve you cookies as well. We **don’t** have control over cookies placed by advertisers such as Google Ads or related.   
-If you don't want cookies, your Web browser likely includes an option that allows you to not accept them. However, if you set your browser to refuse cookies, some portions of the Fashion Model Directory may not function properly.   
-While your individual information is protected as outlined above, we reserve the right to use aggregated, **anonymous data** about our users as a group for any business purpose, such as analyzing usage trends and seeking compatible advertisers and partners.   
-  
- INTERNET PROTOCOL (IP) ADDRESS  
-  
-Your Internet Protocol (IP) address is usually associated with the placefrom which you enter the Internet, like your Internet Service Provider, your company or your university. We may use your IP address to help diagnose problems with our server, gather broad demographic information and administer the Fashion Model Directory.   
-  
-KIDS AND PARENTS   
-  
-The Fashion Model Directory is not intended for use by children, especially those under age 13. No one under age 13 is allowed to provide any personal information or use our public discussion areas and forums. If your children disclose information about themselves in our public discussion areas, they may get unsolicited messages from other parties. Accordingly, you should tell them not to do so.   
-If you're worried about your children's activities or their privacy on our site, we encourage you to e-mail our Privacy Contacts. If you have other concerns or questions about any aspect of this policy, you may also e-mail our **Privacy Contacts**.  
- 
+**1.** To personalize your experience  
+Your information helps us to better respond to your individual needs.  
+**2.** To improve our website  
+We continually strive to improve our website offerings based on the information and feedback we receive from you.  
+**3.** To improve customer service  
+Your information helps us to more effectively respond to your customer service requests and support needs.  
+**4.** To process transactions  
+Your private information will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering   
+**5.** To send periodic emails  
+The email address you provide will only be used to send you information and updates pertaining to our services.
 
- **Privacy Contacts:**  
- **  
-**
+We may also use the information to send you confirmation notices, and to communicate with you about new features, products or services, and/or to improve the services that we offer by tailoring them to your needs.  
+We may allow access to our database by third parties that provide us with necessary services, such as technical or content maintenance, but only for the purpose of and to the greatest possible extent necessary to provide our services.  
+Under certain circumstances, we may also provide some of your information to our advertisers, so that they are able to serve tailored ads that match your interests.
 
- **If you don't agree to the terms contained in this User Agreement, please exit the Service.  
-Please click the back button on your browser to return to the previous page.   
- **  
-  
-|  |    
-  
-  
-|   
----|---  
-  
-  
-newsletter  
----  
-  
-Sign up for our newsletter!
+## III. Sharing of Information with Partners
 
-email:   
-  
-  
+We may collect and provide aggregate information about our visitors to our advertisers, sponsors, promotional partners and affiliates, such as how many persons visited a particular page or activity, the average age of our visitors on the site or page, or the likes and dislikes of our visitors, but this information does not include personal information about any individual visitor.   
+We may obtain geographic information such as zip code clustering from other sources, but this aggregate information will not reveal any personal information about a specific visitor. We may also obtain other demographic information from third parties for marketing purposes or to display more relevant advertising. 
+
+## IV. Third Party Advertisements and their Technologies
+
+The major part of the online advertising on the website is being delivered by third-party advertising companies, which may use cookies so that they are able, among other things, to determine whether you have already seen a certain advertisement and avoid showing duplicate advertisements.  
+These cookies may also enable the advertising companies to serve you tailored ads. Online advertising companies generally conduct this activity in an anonymous format, with online information not combined with information that would allow for your identification, such as a name, address or email address.   
+If you need more information about the collection, use and disclosure practices of our third party advertising companies and to know your choices about not having this information used by these companies, visit our [ advertising page ](http://www.fashionmodeldirectory.com/templates/v4/%E2%80%9D/info/advertising/%E2%80%9D) and follow the links to the company websites.  
+You may “opt-out” of certain third party programs by following the instructions located [at NAI here](http://www.fashionmodeldirectory.com/templates/v4/%E2%80%9Dhttp://www.networkadvertising.org/managing/opt_out.asp%E2%80%9D). 
+
+## V. Special Information Sharing
+
+Other than as disclosed in this Privacy Policy, we may disclose and share your personal information with companies other than our affiliates:
+
+\- when it is required by law, regulation, legal process or enforceable governmental request  
+\- when we believe disclosure would enhance or improve operation of our websites or services  
+\- when we believe the disclosure is necessary to protect the safety of our visitors  
+\- to gather broad demographic information and to otherwise administer our Websites.  
+
+
   
 
 
-|  | 
+## VI. Protection of Information
 
-[](http://www.twitter.com/fmd1_com)
+We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information.   
+When you submit personal information on our Websites, such information is protected both online and offline.   
+The users databases are protected in a secure facility. Please be advised that, although we take reasonable technological precautions to protect your data, no data transmission over the Internet can be guaranteed to be 100% secure.   
+Therefore, our Websites cannot warrant that your information will be absolutely secure. Any transmission of data through our Websites is therefore at your own risk.  
+Although we protect your personal information as outlined above, we reserve the right to use, transfer and share anonymous data about our visitors as a group for certain business purpose, such as analyzing usage trends and enhanced advertiser compatibility.
 
-[register now!](https://web.archive.org/register) | [about](https://web.archive.org/info/about) | [sitemap](https://web.archive.org/sitemap) | [advertise](https://web.archive.org/info/advertising) | [contact us](https://web.archive.org/contact) © 1998-2010 Fashion Model Directory. All rights reserved. 
+## VII. Newsletter
 
-Use of this site constitutes acceptance of our [ Copyright](https://web.archive.org/info/cipa/), [ User Agreement](https://web.archive.org/info/dua), [ Disclaimer ](https://web.archive.org/info/disclaimer) and [ Privacy Policy](https://web.archive.org/info/privacy). The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Fashion Model Directory. Any unauthorized or uncredited use of this material will result in possible prosecution. All 3rd party copyrights and trademarks are the property of their respective owners. 
+If you do not wish to receive our newsletter or commercial communications from us by e-mail, simply follow the unsubscribe instructions contained within the e-mail. 
+
+## VIII. Cookies
+
+Cookies are small files that a site or its service provider transfers to your computer through your Web browser that enables the Websites or service providers systems to recognize your browser and remember certain information such as username for the Websites.  
+We use cookies to understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+
+## IX. Third party links
+
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party Websites have separate and independent privacy policies and we have therefore no responsibility or liability for the content and activities of these linked Websites.   
+However, we seek to protect the integrity of our Websites and welcome any feedback about linked Websites.
+
+## X. California Online Privacy Protection Act Compliance
+
+Since we respect your privacy we have taken the necessary safety measures to be in compliance with the California Online Privacy Protection Act. Consequently we will not distribute your personal information to outside parties without your consent.  
+As part of the California Online Privacy Protection Act, our users may make any changes to their information at anytime by logging into our Websites and going to the 'My Profile' page. Please note that this doesn’t include the username.
+
+## XI. Childrens Online Privacy Protection Act Compliance 
+
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our websites and services are all directed to people who are at least 13 years old or older.
+
+## XII. Your Consent 
+
+By using our site, you agree to our privacy policy.
+
+## XIII. Changes to Privacy Policy 
+
+Changes to this privacy policy will be posted on this page.   
+_Last Update: May 6th 2011_
+
+## [Please contact us if you have further questions.](http://www.fashionmodeldirectory.com/contact/)
