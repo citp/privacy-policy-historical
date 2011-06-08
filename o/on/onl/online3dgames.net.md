@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the online3dgames.net privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121121829id_/http%3A//www.online3dgames.net/Privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the online3dgames.net privacy policy that was archived on 2011-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110608051630id_/http%3A//www.online3dgames.net/Privacy_policy.html) for the most accurate reproduction.*
 
 # 
 
