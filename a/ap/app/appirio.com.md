@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appirio.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224181250id_/http%3A//www.appirio.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appirio.com privacy policy that was archived on 2011-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110608191305id_/http%3A//www.appirio.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Appirio
 
@@ -96,8 +96,9 @@ You can also import email contacts using this widget. The widget will import ema
 
 If you have any questions regarding this Privacy Policy please contact us via email at [security@appirio.com](mailto:security@appirio.com) or at: 
 
-900 Concar Drive   
-San Mateo, CA 94402  
+2207 Bridgepoint Parkway  
+Suite 300  
+San Mateo, CA 94404  
 Tel: (650) 268-9911  
 Toll Free: (888) 680-SaaS (7227)
 
