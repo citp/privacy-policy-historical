@@ -1,13 +1,37 @@
-<!--The following is the downloaded HTML source of the linklicious.me privacy policy that was archived on 2010-12-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101204045115id_/http%3A//linklicious.me/Privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the linklicious.me privacy policy that was archived on 2011-06-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110608171452id_/http%3A//www.linklicious.me/Privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" class="cufon-active cufon-ready"><head><title>
-	Linklicious.me - Scheduled RSS Feeds to get your Backlinks Indexed FAST
-</title><link href="Css/linklicious-style.css" rel="stylesheet" type="text/css"><link href="/Css/smoothness/jquery-ui-1.8.4.custom.css" rel="stylesheet" type="text/css">
-    <script src="https://static.woopra.com/js/woopra.js" type="text/javascript" async=""></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js" type="text/javascript"></script>
-    <script src="Scripts/cufon-yui.js" type="text/javascript"></script><style type="text/css">cufon{text-indent:0!important;}@media screen,projection{cufon{display:inline!important;display:inline-block!important;position:relative!important;vertical-align:middle!important;font-size:1px!important;line-height:1px!important;}cufon cufontext{display:-moz-inline-box!important;display:inline-block!important;width:0!important;height:0!important;overflow:hidden!important;text-indent:-10000in!important;}cufon canvas{position:relative!important;}}@media print{cufon{padding:0!important;}cufon canvas{display:none!important;}}</style>
-    <script src="Scripts/mentone_600.font.js" type="text/javascript"></script>
-    <script src="Scripts/replace.js" type="text/javascript"></script>
+	Linklicious.me - Scheduled RSS Feeds to get your Backlinks Crawled FAST
+</title><link href="/Css/linklicious-style.css" rel="stylesheet" type="text/css"><link href="/Css/linklicious-style2.css" rel="stylesheet" type="text/css"><link href="/Css/smoothness/jquery-ui-1.8.4.custom.css" rel="stylesheet" type="text/css">
+    <script src="https://static.woopra.com/js/woopra.js" type="text/javascript" async=""></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js" type="text/javascript"></script>
+    <script src="/Scripts/cufon-yui.js" type="text/javascript"></script><style type="text/css">cufon{text-indent:0!important;}@media screen,projection{cufon{display:inline!important;display:inline-block!important;position:relative!important;vertical-align:middle!important;font-size:1px!important;line-height:1px!important;}cufon cufontext{display:-moz-inline-box!important;display:inline-block!important;width:0!important;height:0!important;overflow:hidden!important;text-indent:-10000in!important;}cufon canvas{position:relative!important;}}@media print{cufon{padding:0!important;}cufon canvas{display:none!important;}}</style>
+    <script src="/Scripts/mentone_600.font.js" type="text/javascript"></script>
+    <script src="/Scripts/replace.js" type="text/javascript"></script>
+    
+    <script type="text/javascript">
+        function changeBox() {
+            //alert("hello");
+            $("#ptxt").removeClass("show").addClass("hide");
+            $("#htxt").removeClass("hide").addClass("show");
+            $("#txtPassword").focus();
+        }
+        function restoreBox() {
+            if ($("#txtPassword").val() == '') {
+                $("#htxt").removeClass("show").addClass("hide");
+                $("#ptxt").removeClass("hide").addClass("show");
+            }
+        }
+        $(function () {
+            $("#txtPassword2").focus(function () { changeBox() });
+            $("#txtPassword").blur(function () { restoreBox() });
+            $("#txtUsername").focus(function () {
+                if (this.value == this.defaultValue) this.value = '';
+            }).blur(function () {
+                if (this.value == '') this.value = this.defaultValue;
+            });
+        });
+    </script>
     
     <style type="text/css">
         p
@@ -18,8 +42,9 @@
 </head>
 <body>
     <form method="post" action="Privacy.aspx" id="form1" class="container">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTY1NDU2MTA1MmRkVt8uirWsUS2m0N7pKUvsU1sH4cxEygoco8rWzVbbh2w=">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTY1NDU2MTA1MmQYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgEFDmN0bDAwJGJ0bkxvZ2lu3/czFbYJadU83cqw77m2X4SGzeCbKTFKr9ffcEbHwHI=">
 
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBQK99dnBBAL32/OTDAKB7YO1BQKB7cu1BQLnrI+ZDwks1PzHcdxkPlgT9a77LiUTI+qoyi1bJmsazDVQJDaF">
     <div class="header">
         <div class="center header-bg">
             <div class="loggedin">
@@ -27,6 +52,14 @@
             </div>
             <div class="logo"><a href="Default.aspx"><img src="images/global/linklicious-logo.png" alt="Linklicious.me Logo"></a></div>
             <div class="spidie"><img src="images/global/spidie.png" alt="Spidie Mc"></div>
+                
+            <div class="loginHolder">
+                <div class="field2 loginmargin"><input name="ctl00$txtUsername" type="text" value="USER NAME" id="txtUsername" tabindex="1" class="textfield2"></div>
+                <div id="ptxt" class="field2 loginmargin show"><input name="ctl00$txtPassword2" type="text" value="PASSWORD" id="txtPassword2" tabindex="2" class="textfield2"></div>
+                <div id="htxt" class="field2 loginmargin hide"><input name="ctl00$txtPassword" type="password" id="txtPassword" tabindex="2" class="textfield2"></div>
+                <input type="image" name="ctl00$btnLogin" id="btnLogin" class="fLeft loginbtn" src="Images/Home/Login2.png" alt="Login">
+                <a href="/ForgotPassword.aspx" class="greyLink forgotPW">Forgot Password?</a>
+            </div>
                 
             <div class="clear"></div>
         </div>
@@ -328,12 +361,18 @@
     <div class="footerWrapper">
    	  <div class="footerBg">
       	<div class="footer">
-        	<div class="fLeft footertxt footerLink"><a href="Privacy.aspx">Privacy Policy</a>|<a href="Terms.aspx">Terms of Use</a>|<a href="Disclaimer.aspx">Disclaimer</a>|<a href="Contact.aspx">Contact Us</a></div>
-            <div class="fRight footertxt">© 2010 Linklicious.me</div>
+        	<div class="fLeft footertxt footerLink"><a href="Privacy.aspx">Privacy Policy</a>|<a href="Refunds.aspx">Refund Policy</a>|<a href="Terms.aspx">Terms of Use</a>|<a href="Disclaimer.aspx">Disclaimer</a>|<a href="FAQs.aspx">FAQs</a>|<a href="Contact.aspx">Contact Us</a></div>
+            <div class="fRight footertxt">© 2011 Linklicious.me<br>Current Server Time: 06/08/2011 12:14</div>
+            <div class="clear"></div>
         </div>
+        <div class="footerDrk">
+        	<a href="http://www.onehourbacklinks.com"><img src="/images/global/footer-affil.png" width="843" height="47"></a>
+        </div>
+      	<div class="clear"></div>
       </div>
-   </div>
+    </div>
     </form>
+
 
 <script type="text/javascript">
     var _gaq = _gaq || [];
@@ -357,5 +396,6 @@
         ssc.parentNode.insertBefore(wsc, ssc);
     })();
 </script>
+
 
 </body></html>
