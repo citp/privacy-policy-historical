@@ -1,6 +1,18 @@
-> *The following text is extracted and transformed from the loopholelewy.com privacy policy that was archived on 2010-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100607065310id_/http%3A//loopholelewy.com/loopholelewy/main-nav/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loopholelewy.com privacy policy that was archived on 2011-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110608150921id_/http%3A//loopholelewy.com/loopholelewy/main-nav/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
+
+## Deductions for Late Filers
+
+If you missed the April 18 deadline and filed an extension, you have until **October 17, 2011** to file your Form 1040. 
+
+_**Don't overlook any deductions when you're ready to file.**_
+
+[10 Oddball Tax Deductions](http://www.kqzyfj.com/qg121nmvsmu9DBGHJJB9BAFCHBHG)
+
+[11 Most Overlooked Tax Deductions](http://www.kqzyfj.com/2c111uoxuowBFDIJLLDBDCHEFICE)
+
+## Privacy Policy
 
 **KEEPING YOUR PERSONAL INFORMATION IN STRICT CONFIDENCE IS IMPORTANT.**
 
