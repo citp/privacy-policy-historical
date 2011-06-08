@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fantage.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221090939id_/http%3A//www.fantage.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fantage.com privacy policy that was archived on 2011-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110608220057id_/http%3A//play.fantage.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Welcome to a Fantastic Age!
 
