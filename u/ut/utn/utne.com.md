@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the utne.com privacy policy that was archived on 2010-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100608171437id_/http%3A//www.utne.com/help/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utne.com privacy policy that was archived on 2011-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110608202318id_/http%3A//www.utne.com/help/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Ogden Publications Privacy Policy
 
