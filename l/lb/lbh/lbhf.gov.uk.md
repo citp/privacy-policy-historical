@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lbhf.gov.uk privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125012449id_/http%3A//www.lbhf.gov.uk/Directory/Links/40888_Privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lbhf.gov.uk privacy policy that was archived on 2011-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110608214926id_/http%3A//www.lbhf.gov.uk/Directory/Links/40888_Privacy_policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Hammersmith & Fulham
 
@@ -52,4 +52,4 @@ Our Registration Number is Z5124889
 **_Security_ **   
 We have strict security measures in place to prevent the alteration, loss or misuse of information on our computers. Our online payments are subject to the tightest security under our control.
 
-**(4)** If you would like to know more, including about how we look after your information, please see our [Information Charter](https://web.archive.org/Directory/Council_and_Democracy/Data_Protection_and_Freedom_of_Information/Freedom_of_Information_Act/130526_Information_Charter.asp) or contact the [Information Management Team](https://web.archive.org/Directory/Council_and_Democracy/Data_Protection_and_Freedom_of_Information/Data_Protection_Act/39929_Data_Protection_Act.asp).
+**(4)** If you would like to know more, including about how we look after your information, please see our [Information Charter](https://web.archive.org/Directory/Council_and_Democracy/Data_Protection_and_Freedom_of_Information/Data_Protection_Act/130526_Information_Charter.asp) or contact the [Information Management Team](https://web.archive.org/Directory/Council_and_Democracy/Data_Protection_and_Freedom_of_Information/Data_Protection_Act/39929_Data_Protection_Act.asp).
