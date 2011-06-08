@@ -1,18 +1,12 @@
-> *The following text is extracted and transformed from the manpacks.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218165207id_/http%3A//manpacks.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manpacks.com privacy policy that was archived on 2011-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110608131705id_/http%3A//www.manpacks.com/about/privacy) for the most accurate reproduction.*
 
 # About Manpacks, a subscription service for your socks, t-shirts and underwear
 
-## Your Privacy
+## Here at Manpacks we take your privacy very seriously. 
 
-### Here at Manpacks we take your privacy very seriously. 
+### We collect information in order to:
 
-We collect information in order to:
-
-  * process your order;
-  * provide you with customer support;
-  * send you newsletters, surveys, and special offers.
-
-
+Process your order; provide you with customer support; send you newsletters, surveys, and special offers.
 
 Manpacks will set and access our own cookies on your computer to allow you to make purchases and interact with the site. We also use web beacons to gather anonymous, aggregated statistical information (e.g. unique hits, page views, etc.) about our website traffic.
 
