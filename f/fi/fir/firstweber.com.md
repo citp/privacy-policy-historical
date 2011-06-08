@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firstweber.com privacy policy that was archived on 2010-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101208025659id_/http%3A//www.firstweber.com/consumer-notices/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstweber.com privacy policy that was archived on 2011-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110608023216id_/http%3A//www.firstweber.com/consumer-notices/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | First Weber Group REALTORS®
 
