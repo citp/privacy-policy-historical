@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rep-am.com privacy policy that was archived on 2009-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090710045110id_/http%3A//www.rep-am.com/about_us/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rep-am.com privacy policy that was archived on 2011-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110608142259id_/http%3A//www.rep-am.com/about_us/privacy_statement) for the most accurate reproduction.*
 
-# The Republican-American About Us
+# The Republican-American Privacy Statement
 
 Online Privacy Statement
 
