@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the cargill.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223095725id_/http%3A//www.cargill.com/privacy/index.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cargill.com privacy policy that was archived on 2011-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110608142708id_/http%3A//www.cargill.com/privacy/index.jsp) for the most accurate reproduction.*
 
 # Cargill: Privacy
+
+English | [Portuguese](https://web.archive.org/web/20110608142708id_/http%3A//www.cargill.com/privacy/compromisso-privacidade/index.jsp)
 
 Effective Date: September 5, 2008 
 
