@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the national.com.au privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620173824id_/http%3A//www.nab.com.au/wps/wcm/connect/nab/nab/home/About_Us/10/1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the national.com.au privacy policy that was archived on 2011-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110608205222id_/http%3A//www.nab.com.au/wps/wcm/connect/nab/nab/home/About_Us/10/1) for the most accurate reproduction.*
 
 # NAB - National Australia Bank Privacy Policy
 
 ## Respecting your privacy and the law
 
-The privacy of your personal information has always been important to us at the National Australia Bank Group (“ **Group** ”). We are committed to respecting your right to privacy and protecting your personal information. We are bound by the National Privacy Principles in the _Privacy Act 1988 (Commonwealth)_ and any relevant Health Privacy Principles under State legislation 1, as well as other applicable laws and codes affecting your personal information. Our staff are trained to respect your privacy in accordance with our standards, policies and procedures.
+The privacy of your personal information has always been important to us at the National Australia Bank Group (" **Group** "). We are committed to respecting your right to privacy and protecting your personal information. We are bound by the National Privacy Principles in the _Privacy Act 1988 (Commonwealth)_ and any relevant Health Privacy Principles under State legislation 1, as well as other applicable laws and codes affecting your personal information. Our staff are trained to respect your privacy in accordance with our standards, policies and procedures.
 
 The Group is the National Australia Bank Limited and its subsidiaries such as MLC Ltd. It includes all our banking, financing, funds management, financial planning, superannuation, insurance, broking and e-commerce organisations.
+
+1 For example, those contained in the Health Records Act 2001 (Vic), Health Records and Information Privacy Act 2002 (NSW) or the privacy provisions contained in Part 2 of the Health Records (Privacy and Access) Act 1997 (ACT).
 
 ## About this Privacy Policy
 
@@ -40,7 +42,7 @@ In line with modern business practices common to many financial institutions and
 
 ### The relevant organisations are those
 
-  * involved in providing, managing or administering your product or service such as third party suppliers, other Group organisations, loyalty and affinity program partners, printers, posting services, call centres, lenders [mortgage](https://web.archive.org/wps/wcm/connect/nab/nab/home/about_us/10/1) insurers and our advisers
+  * involved in providing, managing or administering your product or service such as third party suppliers, other Group organisations, loyalty and affinity program partners, printers, posting services, call centres, lenders mortgage insurers and our advisers
   * which are Group organisations who wish to tell you about their products or services that might better serve your financial, e-commerce and lifestyle needs or promotions or other opportunities, and their related service providers, except where you tell us not to
   * who are your financial advisers and their service providers
   * involved in maintaining, reviewing and developing our business systems, procedures and infrastructure including testing or upgrading our computer systems
@@ -145,7 +147,7 @@ This is subject to some exceptions including:
 If you have any issues you wish to raise with the Group, or would like to discuss any issues about our Privacy Policy, then you are able to do so a number of ways:
 
   * You are always welcome to speak directly to our staff and they will do their best to resolve your issue. If investigation is required we will keep you advised of progress. If staff are unable to resolve the matter, it will be escalated as appropriate to facilitate resolution.
-  * You call our freecall Feedback Line on 1800 152 015 any time between 8am and 8pm Monday to Friday EST.
+  * You call our freecall Feedback Line on **1800 152 015** any time between 8am and 8pm Monday to Friday EST.
   * You can email your issue on [feedback@nab.com.au](mailto:feedback@nab.com.au).
   * You can fill out a “Resolving Problems” form outlining your issue that will then be forwarded to our customer satisfaction teams. You can obtain one of these forms from any of our branches or ask for one to be sent to you (see "Contacting Us" below).
 
@@ -184,15 +186,12 @@ The Insurer can be contacted at:
 Level 21, 50 Bridge Street,  
 Sydney NSW 2000
 
-For more information about our Privacy Policy, please call 13 22 65 and select the option to speak to a Customer Service Representative.
+For more information about our Privacy Policy, please call **13 22 65** and select the option to speak to a Customer Service Representative.
 
-Download a copy of the [request for access – personal information form (PDF, 229K)](https://web.archive.org/wps/wcm/connect/cb8566804bc60d03978f972345045098/Personal_Information_Request_for_Access.pdf?MOD=AJPERES&CACHEID=cb8566804bc60d03978f972345045098 "request for access – personal information form \(PDF, 229K, opens in new window\)").
+Download a copy of the [request for access – personal information form](https://web.archive.org/wps/wcm/connect/4fe192804b9d3813b588f7f1eeeae8e9/Personal_Information_Request_for_Access.pdf?MOD=AJPERES&CACHEID=4fe192804b9d3813b588f7f1eeeae8e9 "request for access – personal information form \(PDF, 229K, opens in new window\)") (PDF, 229K).
 
-Hearing impaired customers with telephone typewriters can contact us on 13 36 77
+Hearing impaired customers with telephone typewriters can contact us on **13 36 77**
 
-For more information about privacy in general, you can visit the Federal Privacy Commissioner’s website
+For more information about privacy in general, you can visit the [Federal Privacy Commissioner’s website](http://privacy.gov.au/ "Federal Privacy Commissioner’s website \(External site, opens in new window\)")
 
-Download a copy of [NAB’s Privacy Policy (PDF, 68K)](https://web.archive.org/wps/wcm/connect/7ec9ec804bc62702a1bfb32345045098/NAB_Privacy_Policy.pdf?MOD=AJPERES&CACHEID=7ec9ec804bc62702a1bfb32345045098 "NAB’s Privacy Policy \(PDF, 68K, opens in new window\)")
-
-  
-
+Download a copy of [NAB’s Privacy Policy](https://web.archive.org/wps/wcm/connect/6c746b804b9d5379bfc8fff1eeeae8e9/NAB_Privacy_Policy.pdf?MOD=AJPERES&CACHEID=6c746b804b9d5379bfc8fff1eeeae8e9 "NAB’s Privacy Policy \(PDF, 68K, opens in new window\)") (PDF, 68K)
