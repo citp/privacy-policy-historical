@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pasepremium.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228224808id_/http%3A//support.allpremiumpass.com/support_privacy.php%3Fch_lang%3Dus%26tour%3D1%26id%3D3046%26country%3Dus) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pasepremium.com privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609002659id_/http%3A//support.allpremiumpass.com/support_privacy.php%3Fch_lang%3Dus%26tour%3D1%26id%3D3046%26country%3Dus) for the most accurate reproduction.*
 
 # All Premium Pass
 
