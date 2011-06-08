@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the linklicious.me privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204045115id_/http%3A//linklicious.me/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linklicious.me privacy policy that was archived on 2011-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110608171452id_/http%3A//www.linklicious.me/Privacy.aspx) for the most accurate reproduction.*
 
-# Linklicious.me - Scheduled RSS Feeds to get your Backlinks Indexed FAST
+# Linklicious.me - Scheduled RSS Feeds to get your Backlinks Crawled FAST
 
 ## Privacy Policy
 
