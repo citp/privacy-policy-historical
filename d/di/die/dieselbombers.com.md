@@ -1,152 +1,59 @@
-> *The following text is extracted and transformed from the dieselbombers.com privacy policy that was archived on 2010-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100217231306id_/http%3A//www.dieselbombers.com/faq.php%3Ffaq%3Dvb_faq%23faq_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dieselbombers.com privacy policy that was archived on 2011-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110608132409id_/http%3A//www.internetbrands.com/ib/privacy/enthusiasts%3Fsite%3Ddieselbombers.com) for the most accurate reproduction.*
 
-# Diesel Bombers - FAQ: vBulletin FAQ
+# Site Privacy Policy
 
-PRIVACY POLICY - COMMITMENT TO YOUR PRIVACY
+dieselbombers.com ("Site")
 
-This site is owned and operated by DieselBombers.com. Your privacy on the Internet is of the utmost importance to us. At DieselBombers.com, we want to make your experience online satisfying and safe.
+Privacy Statement
 
-Because we gather certain types of information about our users, we feel you should fully understand our policy and the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather and how we use it.
+We are committed to safeguarding your privacy online. This privacy policy applies to your information that we collect and receive; it does not apply to practices of businesses that we do not own or control or people we do not employ. At no time will we sell your information or release your personally-identifiable data without your permission. You can visit this Site without revealing who you are or providing any personal information about yourself.
 
-INFORMATION DieselBombers.com GATHERS AND TRACKS
+By using this Site, you agree to the terms of this privacy policy. Please read the following policy to understand how your personal information will be treated as you use our services. The following discloses our information gathering and dissemination practices.
 
-DieselBombers.com gathers two types of information about users:
+This Site contains links to other sites. These include links to resources in related topics and third-party sites that offer other related products. If you visit another website through a link on our site, please consult the privacy policy of the website you are visiting. We are not responsible for the privacy practices or the content of other websites that you may visit.
 
-* Information that users provide through optional, voluntary submissions. These are voluntary submissions to receive our electronic newsletters, to participate in our message boards or forums, to email a friend, and from participation in polls and surveys:
+Browsing the Site
 
-* Information DieselBombers.com gathers through aggregated tracking information derived mainly by tallying page views throughout our sites. This information allows us to better tailor our content to readers' needs and to help our advertisers and sponsors better understand the demographics of our audience. Because DieselBombers.com derives its revenue mainly from sponsorships and advertising, providing such aggregated demographic data is essential to keeping our service free to users. Under no circumstances does DieselBombers.com divulge any information about an individual user to a third party.
+If you browse through the Site without entering any personal data, we will gather and store certain information about your visit. This information does not identify you personally and cannot be linked back to you unless you decide at some point to identify yourself. If you are only browsing, we collect the following information: IP address, the type of browser and operating system used to access our site, the date and time you access our site, the pages you visit (click-through), and if you linked to our website from another website, the address of that website as well as additional information related to your visit. We use your IP address to help diagnose problems with our server, and to administer the Site.
 
-DieselBombers.com Gathers User Information In The Following Processes:
+Information Collected
 
-Optional Voluntary Information
+We collect the email addresses of consumers who communicate with us or through our authorized vendors via email.
 
-We offer the following free services, which require some type of voluntary submission of personal information by users:  
-Privacy Policy Sample
+Any information provided by consumers becomes our property once received by us and may be used and disclosed as permitted in this Policy.
 
-The following is a list of different policies which can be edited to remove the parts of the policy that are not needed. You should also add anything to this policy template that you may have on your site.
+We may share your personal information with our affiliated companies in order to identify products or services in which you may have interest, to improve our user experience and generally to engage in market research and for other internal business purposes. We may also aggregate your personal information with others' information and prepare reports on site usage, purchase history or other factors for sale or distribution to others. Those reports are aggregated and include no personally identifying information. Finally, we may use your personal information to send you email or postal communications regarding products or services offered by us or by third parties with whom we have relationships in which we think you may be interested. We do not share, sell, trade or rent your personal information to third parties for unknown reasons. You may at any time choose not to receive promotional emails from us by contacting us at [information@internetbrands.com](mailto:information@internetbrands.com). Notwithstanding the foregoing, we may continue to contact you for the purpose of communicating information relating to this Site, as well as to facilitate, complete, or confirm any transaction that you may enter into or responding to your inquiry or request.
 
-1\. Electronic newsletters policy (Dispatches)
+If you prefer for us not to provide your name and email or postal address to third parties for direct marketing purposes, please contact us at [information@internetbrands.com](mailto:information@internetbrands.com).
 
-We will offer a free electronic newsletter to users. DieselBombers.com gathers the email addresses of users who voluntarily subscribe. Users may remove themselves from this mailing list by following the link provided in every newsletter that points users to the subscription management page. Users can also subscribe to the newsletters at the time of registration.
+Use of Forums
 
-2\. Message boards/forums policy
-
-Users of the site's Message Boards and Forums must register separately for these services (both are free of charge) in order to post messages, although they needn't register to visit the site. During registration the user is required to supply a username, password, and email address.
-
-3\. "E-mail this to a friend" policy
-
-Our site users can choose to electronically forward a link, page, or documents to someone else by clicking "e-mail this to a friend". The user must provide their email address, as well as that of the recipient. This information is used only in the case of transmission errors and, of course, to let the recipient know who sent the email. The information is not used for any other purpose.
-
-4\. Polling
-
-We may offer interactive polls to users so they can easily share their opinions with other users and see what our audience thinks about important issues. Opinions or other responses to polls are aggregated and are not identifiable to any particular user. DieselBombers.com may use a system to "tag" users after they have voted, so they can vote only once on a particular question. This tag is not correlated with information about individual users.
-
-5\. Surveys
-
-DieselBombers.com may occasionally conduct user surveys to better target our content to our audience. We sometimes share the aggregated demographic information in these surveys with our sponsors, advertisers and partners. We never share any of this information about specific individuals with any third party.  
-Privacy Policy Template changes
-
-The policy clause about children below is becoming more important as it is nearly impossible to tell the age of any visitor. We recommend adding this sample line to all your forms that request information.
-
-Children
-
-Consistent with the Federal Children's Online Privacy Protection Act of 1998 (COPPA), we will never knowingly request personally identifiable information from anyone under the age of 13 without requesting parental consent.
-
-Usage tracking
-
-DieselBombers.com tracks user traffic patterns throughout all of our sites. However, we do not correlate this information with data about individual users.DieselBombers.com does break down overall usage statistics according to a user's domain name, browser type, and MIME type by reading this information from the browser string (information contained in every user's browser).
-
-DieselBombers.com sometimes tracks and catalogs the search terms that users enter in our Search function, but this tracking is never associated with individual users. We use tracking information to determine which areas of our sites users like and don't like based on traffic to those areas. We do not track what individual users read, but rather how well each page performs overall. This helps us continue to build a better service for you.
+If you choose to transmit, submit or post information through the Site's chat rooms, bulletin boards or other forums (the "Forums"), we will collect that information you provide. We retain this information as necessary to resolve disputes, provide customer support and troubleshoot problems as permitted by law and pursuant to our Terms of Use.
 
 Cookies
 
-We may place a text file called a "cookie" in the browser files of your computer. The cookie itself does not contain Personal Information although it will enable us to relate your use of this site to information that you have specifically and knowingly provided. But the only personal information a cookie can contain is information you supply yourself. A cookie can't read data off your hard disk or read cookie files created by other sites. DieselBombers.com uses cookies to track user traffic patterns (as described above). Our advertising system delivers a one-time cookie to better track ad impressions and click rates.
-
-You can refuse cookies by turning them off in your browser. If you've set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You do not need to have cookies turned on to use this site. However, you do need cookies to participate actively in message boards, forums, polling and surveys.  
-Privacy Policy Use
-
-How the information you gather is used if relevent.
-
-USE OF INFORMATION
-
-DieselBombers.com uses any information voluntarily given by our users to enhance their experience in our network of sites, whether to provide interactive or personalized elements on the sites or to better prepare future content based on the interests of our users.
-
-As stated above, we use information that users voluntarily provide in order to send out electronic newsletters and to enable users to participate in polls, surveys, message boards, and forums. We send out newsletters to subscribers on a regular schedule (depending on the newsletter), and occasionally send out special editions when we think subscribers might be particularly interested in something we are doing. DieselBombers.com never shares newsletter mailing lists with any third parties, including advertisers, sponsors or partners.
-
-When we use tracking information to determine which areas of our sites users like and don't like based on traffic to those areas. We do not track what individual users read, but rather how well each page performs overall. This helps us continue to build a better service for you. We track search terms entered in Search function as one of many measures of what interests our users. But we don't track which terms a particular user enters.
-
-DieselBombers.com creates aggregate reports on user demographics and traffic patterns for advertisers, sponsors and partners. This allows our advertisers to advertise more effectively, and allows our users to receive advertisements that are pertinent to their needs. Because we don't track the usage patterns of individual users, an advertiser or sponsor will never know that a specific user clicked their ad. We will not disclose any information about any individual user except to comply with applicable law or valid legal process or to protect the personal safety of our users or the public.
-
-SHARING OF THE INFORMATION
-
-DieselBombers.com uses the above-described information to tailor our content to suit your needs and help our advertisers better understand our audience's demographics. This is essential to keeping our service free. We will not share information about individual users with any third party, except to comply with applicable law or valid legal process or to protect the personal safety of our users or the public.
-
-SECURITY
-
-DieselBombers.com operates secure data networks protected by industry standard firewall and password protection systems. Our security and privacy policies are periodically reviewed and enhanced as necessary and only authorized individuals have access to the information provided by our customers.
-
-OPT-OUT POLICY
-
-We give users options wherever necessary and practical. Such choices include:
-
-* Opting not to register to receive our electronic newsletters.
-
-* Opting not to participate in certain interactive areas, which completely alleviates the need to gather any personally identifiable information from our users
-
-YOUR CONSENT
-
-By using this site, you consent to the collection and use of this information by DieselBombers.com. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
-
-Addionally ,
-
-This privacy statement applies solely to information collected by this web site. 
-
-Because Diesel Bombers gathers certain types of information about our users, we feel you should fully understand the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather and how we use it.
-
-Log Files
-
-We use IP addresses to analyse trends, track user's movement, and to gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information. 
-
-Links
-
-This web site contains links to other sites. Please be aware that we [Diesel Bombers.com] are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site, and to read the privacy statements of each and every web site that collects personally identifiable information. 
+We may place "cookies" on your personal computer. "Cookies" are small identifiers sent from a web server and stored on your computer's hard drive, similar to a license plate, that help us to recognize you if you visit our website again. Also, our site uses cookies to track how you found our site. Cookies are not designed to be used to get data from your hard drive, your e-mail or any other personal data about you. To protect your privacy, we do not use cookies to store or transmit any personal information about you on the Internet. You can reject cookies by changing your browser settings. Please note, however, that if you reject our cookies, it is possible that some web pages may not properly load, your access to certain information might be denied or you might have to enter information about yourself more than once.
 
 Security
 
-DieselBombers.com takes every precaution to protect users' information. When users submit information via the web site this information is protected both online and off-line.
+This site has reasonable security measures in place to protect the loss, misuse and alteration of the information under our control.
 
-Cookies
+Third Party Advertising 
 
-Our site may use cookies to help track usage patterns on our site. A cookie is a piece of data stored on the user's hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. For instance, by setting a cookie on our site, the user would not have to log in a password more than once, thereby saving time while on our site. If a user rejects the cookie, they may still use our site. The only drawback to this, is that the user will be limited in some areas of our site. Cookies can also enable us to track and target the interests of our users to enhance the experience on our site. Some of our business partners use cookies on their sites. However, we have no access to, or control over these cookies. We Use Cookies to Track Your Read and Unread Posts 
+We use third-party advertising companies to serve ads when you visit our website. These companies use non-personally identifiable information regarding your visit to this website and other sites, such as the user IP address, pages viewed, date and time of your visit, and number of times you have viewed an ad (but not your name, address, or other personal information), to serve ads to you on this site and other sites that may be of interest to you. In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser.
 
-Third parties may be placing and reading cookies on your browser, or using web beacons to collect information as a result of ads serving on this website
+Specifically, Google, as a third party vendor, uses cookies to serve ads on this website. Google´s use of the DART cookie enables it to serve ads to you based on your visit to this website and other websites on the Internet. You may opt out of the use of the DART cookies by visiting the Google ad and content network [privacy policy](http://www.google.com/privacy_ads.html).
 
-We fully and accurately disclose Our use of third party technology, including AUCTIONADS's tracking technology, use of cookies and options for discontinuing use of such cookies. Google Ads And Amazon Ads 
+In addition, we use clear GIFs or pixel tags to help manage our online advertising. These clear GIFs enable our ad serving company to recognize a browser's cookie when a browser visits this site. This allows us to learn which banner ads bring users to our website. The information we collect and share through this technology is not personally identifiable.
 
-PayPal is our Funds Transfer Of Choice , We have a Secure Connection In and Out When Donation , Upgrading Ect... Using this service
+To learn more about these practices and your choices about not having this information used by these companies please [click here](http://www.networkadvertising.org/consumer/opt_out.asp).
 
-Confidentiality of Personal Information
+Contacting the Web Site
 
-We will not sell, trade, or rent your personally identifiable information to others outside of DieselBombers.com. Any information that you provide will not be attributable to you, as collected information is generally viewed at the aggregate level. 
+Please be aware that we may change our Privacy Policy from time to time. If we do, we will update this Privacy Policy at our website, so be sure to check back here frequently.
 
-We Will Not Sell Your Email Address To Other Companies , Your Information is Safe with us Including your Phone and Mailing Address , Real Name Ect...
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this Web site, you can contact: [information@internetbrands.com](mailto:information@internetbrands.com).
 
-Legal Disclaimer
+dieselbombers.com
 
-We may disclose personal information when required by law or in the good-faith belief that such action is necessary in order to conform to the edicts of the law, or to comply with a legal process served on our web site.
-
-**Google Ads**
-
-**If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at[dieselminded@dieselbombers.com](mailto:dieselminded@dieselbombers.com)
-
-The privacy of our visitors to http://www.dieselbombers.com is important to us.
-
-At Diesel Bombers, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit http://www.dieselbombers.com, and how we safeguard your information. We never sell your personal information to third parties. 
-
-**
-
-**The Diesel Bombers has a third-party advertising account and relationship with Google and its AdSense program. At any time http://www.dieselbombers.com has the right to temporarily suspend its participation in the Google Adsense program in which you may or may not see Google Adsense ads on the site. By visiting http://www.dieselbombers.com, and any pages within http://www.dieselbombers.com containing Google AdSense advertising, you agree to, accept, and understand the following:**
-
-* **Google, as a third party vendor, uses cookies to serve ads on http://www.dieselbombers.com.**
-* **Google's use of the DART cookie enables it to serve ads to users of[ http://www.dieselbombers.com](http://www.dieselbombers.com/) based on their visit to http://www.dieselbombers.com and other sites on the Internet. **
-* **Users of http://www.dieselbombers.com may opt out of the use of the DART cookie by visiting the[Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).**
+March 24, 2009
