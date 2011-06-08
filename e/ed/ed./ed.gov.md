@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ed.gov privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221001444id_/http%3A//www.ed.gov/notices/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ed.gov privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609003345id_/http%3A//www.ed.gov/notices/privacy/index.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -76,7 +76,7 @@ Our policy discloses the privacy practices for the ED website. But ED provides l
 7\. Social Media  
 
 
-ED is using third-party **[social media sites](https://web.archive.org/about/overview/focus/social-media.html)** to provide ED content in formats that may be useful or interesting; however, ED.gov is the official source of information from the U.S. Department of Education (ED). ED cannot attest to the accuracy of other information provided by these or any other linked sites. Using these third-party sites does not constitute an endorsement by ED or any of its employees of the sponsors of the sites or the information or products presented on the sites. Also, please be aware that the privacy protection provided at ED.gov may not be available on these third-party sites.
+ED is using third-party **[social media sites](https://web.archive.org/about/overview/focus/social-media.html)** to provide ED content in formats that may be useful or interesting; however, ED.gov is the official source of information from the U.S. Department of Education (ED). ED cannot attest to the accuracy of other information provided by these or any other linked sites. Using these third-party sites does not constitute an endorsement by ED or any of its employees of the sponsors of the sites or the information or products presented on the sites. Also, please be aware that the privacy protection provided at ED.gov may not be available on these third-party sites. Please note that when ED uses social media sites, ED does not collect or in any way use personally identifiable information.
 
  TOP
 
