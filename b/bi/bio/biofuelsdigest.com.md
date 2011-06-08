@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the biofuelsdigest.com privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214062712id_/http%3A//biofuelsdigest.com/bdigest/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biofuelsdigest.com privacy policy that was archived on 2011-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110608140925id_/http%3A//biofuelsdigest.com/bdigest/privacy-policy) for the most accurate reproduction.*
 
-# Privacy : Biofuels Digest - biofuels, biodiesel, ethanol, algae, jatropha, green gasoline, green diesel, and biocrude daily news
+# Privacy : Biofuels Digest
 
 Privacy  
 Ascension Publishing Inc. (“AP”) collects and uses the personal information that you submit online as described herein. AP reserves the right to modify the terms of this policy at any time. Such modifications shall become effective immediately upon posting. Your continued use of, or registration with, AP shall constitute your acceptance of these terms. If you do not agree to the terms of this policy, in whole or in part, you are not authorized to use the website and should terminate registration by following the opt-out instructions.
@@ -23,4 +23,4 @@ AP registrants may opt-out of receiving further communications from AP at any ti
 Assignment  
 In its sole discretion, AP may transfer, sell or assign your personal information collected on and through this website to one or more third parties, as a result of the sale, merger, consolidation, change in control, transfer of substantial assets, reorganization or liquidation of AP.
 
-Rating: 0.0/ **5** (0 votes cast)
+Rating: 0.0/ **10** (0 votes cast)
