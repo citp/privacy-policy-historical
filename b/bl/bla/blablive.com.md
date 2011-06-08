@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the blablive.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206161630id_/http%3A//myblab.com/staticpages/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blablive.com privacy policy that was archived on 2011-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110608232820id_/http%3A//www.myblab.com/staticpages/Privacy.htm) for the most accurate reproduction.*
 
 # Christian Social Networking and Online Christian Community
 
-[ ](https://web.archive.org/web/20101206161630id_/http%3A//myblab.com/Default.aspx)[](http://myblab.com/Default.aspx)
+[ ](https://web.archive.org/web/20110608232820id_/http%3A//www.myblab.com/Default.aspx)[](http://myblab.com/Default.aspx)
 
 ** Effective January 1, 2010:  **
 
