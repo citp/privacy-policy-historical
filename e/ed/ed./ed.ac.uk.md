@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ed.ac.uk privacy policy that was archived on 2010-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100722021741id_/http%3A//www.ed.ac.uk/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ed.ac.uk privacy policy that was archived on 2011-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110608132025id_/http%3A//www.ed.ac.uk/about/website/privacy-policy) for the most accurate reproduction.*
 
-# Website privacy policy | About the University
+# Website privacy policy | About our website
 
 The University of Edinburgh (“ **the University** ”) is committed to preserving your privacy. Please read the following privacy policy to understand how we use and protect the information obtained from those visiting and using the University’s website www.ed.ac.uk (the “ **Site** ”).
 
- **By using the Site you consent to the collection/retention and use of your personal information in accordance with this policy.**
+By using the Site you consent to the collection/retention and use of your personal information in accordance with this policy.
 
 ## Information that we collect from you 
 
@@ -92,4 +92,4 @@ If you have any queries concerning your personal information or any questions on
 
 
 
-This article was published on May 2, 2008 
+This article was published on Mar 18, 2011 
