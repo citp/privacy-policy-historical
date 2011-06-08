@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foreignpolicy.com privacy policy that was archived on 2010-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100706120921id_/http%3A//www.foreignpolicy.com/articles/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foreignpolicy.com privacy policy that was archived on 2011-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110608075633id_/http%3A//www.foreignpolicy.com/articles/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Foreign Policy
 
@@ -8,21 +8,21 @@ Cookies help track a person's “session” while online. They are used on our s
 
 Many browsers are set to accept cookies. You may prefer to set your browser to refuse cookies. It is possible, however, that some areas of this site will not function properly, if you do so. This is especially likely when trying to order a product. 
 
-Product, content, and subscription purchases made on ForeignPolicy.com are directed through a secure transaction server to protect your personal and financial information.
+Product, content, and subscription purchases made on ForeignPolicy.com are directed through a secure transaction server to protect your personal and financial information. 
 
 Other information collected on our Web site is not personally identifiable and is done so by our Web server in aggregate. This information allows us to track general patterns, such as browser and platform usage and site traffic. 
 
-**FP** does not rent, sell, or otherwise make available to third parties the personally-identifiable information collected on our Web site (other than in connection with magazine subscriptions ordered, as explained below) without your express permission.
+**FP** does not rent, sell, or otherwise make available to third parties the personally-identifiable information collected on our Web site (other than in connection with magazine subscriptions ordered, as explained below) without your express permission. 
 
 Occasionally, **FP** makes portions of its magazine subscription mailing list available to reputable companies and organizations whose products or services we feel may be of interest to you. Many of our subscribers find this a valuable and timesaving service. If you would rather not receive these mailings, please send us a request in writing at one of the addresses below asking us not to release your name to third parties. Please allow 12 weeks for your request to take effect. 
 
 **By Mail:**
 
 FOREIGN POLICY   
-P.O. Box 474  
-Mt. Morris, IL 61054-8499 
+P.O. Box 283  
+Congers, NY 10920-0283 
 
 |   
 ---|---  
   
-If you have questions or concerns about **FP** ’s Privacy Policy, please contact us at [FP@ForeignPolicy.com](mailto:%20FP@ForeignPolicy.com).
+If you have questions or concerns about **FP** ’s Privacy Policy, please contact us at [FP@ForeignPolicy.com](mailto:FP@ForeignPolicy.com). 
