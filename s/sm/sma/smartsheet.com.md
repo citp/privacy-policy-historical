@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartsheet.com privacy policy that was archived on 2010-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101112152057id_/http%3A//www.smartsheet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartsheet.com privacy policy that was archived on 2011-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110608131423id_/http%3A//www.smartsheet.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Smartsheet
 
