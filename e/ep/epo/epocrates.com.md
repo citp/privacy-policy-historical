@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epocrates.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227204239id_/http%3A//www.epocrates.com/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epocrates.com privacy policy that was archived on 2011-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110608233011id_/http%3A//www.epocrates.com/company/privacy.html) for the most accurate reproduction.*
 
 # Epocrates Privacy Policy
 
@@ -102,7 +102,7 @@ Epocrates also aims to provide you with relevant information on a variety of top
 
 How to update your profile:
 
-Please visit the home page of our website at [www.epocrates.com](https://web.archive.org/web/20101227204239id_/http%3A//www.epocrates.com/), click on "My Account", and then sign in using your email address and password. To opt in or out of email communications, go to the bottom of the form and make the selection of your choices. If you select a box, you will **NOT** receive emails of the type listed. You may also request profile changes by sending an email to [support@epocrates.com](mailto:support@epocrates.com).
+Please visit the home page of our website at [www.epocrates.com](https://web.archive.org/web/20110608233011id_/http%3A//www.epocrates.com/), click on "My Account", and then sign in using your email address and password. To opt in or out of email communications, go to the bottom of the form and make the selection of your choices. If you select a box, you will **NOT** receive emails of the type listed. You may also request profile changes by sending an email to [support@epocrates.com](mailto:support@epocrates.com).
 
 top
 
