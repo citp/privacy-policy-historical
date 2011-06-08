@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigcamtube.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221192840id_/http%3A//www.bigcamtube.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigcamtube.com privacy policy that was archived on 2011-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110608160532id_/http%3A//www.bigcamtube.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | BigCamTube.com
 
@@ -48,7 +48,7 @@ It is important for you to protect against unauthorized access to your account p
 
 gives you access to the following information about you for the limited purpose of viewing and, in certain cases, updating that information. This list will change as our Web site evolves.
 
-[Your Account](https://web.archive.org/my-account/?PHPSESSID=m9obanb11lefcaa35ole8ngfu5)
+[Your Account](https://web.archive.org/my-account/?PHPSESSID=s1kiaq3n9q05kadmd49m11dt06)
 
 ### What Choices Do I Have?
 
