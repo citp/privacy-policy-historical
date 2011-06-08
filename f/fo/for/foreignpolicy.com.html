@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the foreignpolicy.com privacy policy that was archived on 2010-07-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100706120921id_/http%3A//www.foreignpolicy.com/articles/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the foreignpolicy.com privacy policy that was archived on 2011-06-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110608075633id_/http%3A//www.foreignpolicy.com/articles/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" class="js"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -8,12 +8,14 @@
     <meta property="fb:app_id" content="107151292643652">
 	    <meta property="og:title" content="Privacy Policy"> 
             <meta property="og:site_name" content="Foreign Policy">
-     	    <meta property="og:url" content="http://www.foreignpolicy.com/node/62514"> 	
-    <link type="text/css" rel="stylesheet" media="all" href="/files/css/css_e19063154d2017e23f94d51032a002be.css">
+     	    <meta property="og:url" content="http://www.foreignpolicy.com/node/62514">
+     	    <meta property="og:image" content="http://www.foreignpolicy.com/images/fp_logo.jpg">    <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico"> 	
+    <link type="text/css" rel="stylesheet" media="all" href="http://www.foreignpolicy.com/files/css/css_e7d3e74ed0b73056d8826ac5b120156b.css">
     <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/fp/fp_home_frame.css"> 
     <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/fp/fpmain.css"> 
     <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/fp/flashpoints.css"> 
     <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/fp/fsi_widget.css">
+    <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/fp/more_menu.css">
     <link href="/sites/all/themes/fpmain/print.css" rel="stylesheet" type="text/css" media="print">
     <!--[if lte IE 6]>
        <link href="http://www.foreignpolicy.com/fp_home_ie6.css" rel="stylesheet" type="text/css" />
@@ -22,10 +24,12 @@
     <!--[if IE 7]>
        <link href="http://www.foreignpolicy.com/fp_home_ie7.css" rel="stylesheet" type="text/css" />
        <link href="/sites/all/themes/fpmain/ie_fix.css" rel="stylesheet" type="text/css" />
+       <link href="/sites/all/themes/fp/more_menu_ie7.css" rel="stylesheet" type="text/css" />
     <![endif]-->
     <!--[if gte IE 8]>
        <link rel="stylesheet" type="text/css" href="http://www.foreignpolicy.com/fp_home_ie8.css" />
        <link rel="stylesheet" type="text/css" href="/sites/all/themes/fp/ie_fix8.css" />
+       <link href="/sites/all/themes/fp/more_menu_ie8.css" rel="stylesheet" type="text/css" />
     <![endif]-->
     <!--[if lte IE 7]>
        <link href="/sites/all/themes/fpmain/fsi_toc_ie.css" rel="stylesheet" type="text/css" />
@@ -33,9 +37,10 @@
     <![endif]-->
     
     
-    <script type="text/javascript" src="/misc/jquery.js?Y"></script>
-<script type="text/javascript" src="/misc/drupal.js?Y"></script>
-<script type="text/javascript" src="/sites/all/modules/nice_menus/nice_menus.js?Y"></script>
+    <script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript" src="/misc/jquery.js?C"></script>
+<script type="text/javascript" src="/misc/drupal.js?C"></script>
+<script type="text/javascript" src="/sites/all/modules/mollom/mollom.js?C"></script>
+<script type="text/javascript" src="/sites/all/modules/nice_menus/nice_menus.js?C"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
 jQuery.extend(Drupal.settings, {"basePath":"\/"});
@@ -45,7 +50,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/"});
 <!--//--><![CDATA[//><!--
 
     Drupal.behaviors.external_links = function(context) {
-      $("a[@href^=http]").each(function() {
+      $("a[href^=http]").each(function() {
         if($(this).attr("href").indexOf("foreignpolicy.com") == -1) {
           $(this).attr("target", "_blank"); 
         }
@@ -55,6 +60,18 @@ jQuery.extend(Drupal.settings, {"basePath":"\/"});
 //--><!]]>
 </script>
 
+<!-- Chartbeat -->
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+    
+<script src="/sites/all/themes/fp/js/jquery.nivo.slider.pack.js" type="text/javascript"></script>
+<script type="text/javascript">
+    $(window).load(function() {
+        $('#thinkers-slider').nivoSlider({
+        effect:'fade',
+        pauseTime:7500
+    });
+    });
+</script>  
     <script src="/sites/all/themes/fpmain/js/jquery.scrollTo-1.4.2-min.js"></script>
     <script src="/sites/all/themes/fpmain/js/tools.scrollable-1.0.4.min.js"></script>
 
@@ -88,7 +105,35 @@ jQuery.extend(Drupal.settings, {"basePath":"\/"});
           $('#pop-comm-day').show();
           return false;
        });
-                  });
+       //newsletter singup
+          $('#newsletter-signup').submit(function(){
+          $('.email_warning').empty();
+          $('#newsletter-signup .existing').empty();
+          $('#newsletter-signup .failure').empty();
+          $('#newsletter-signup .failure_warnings').empty();
+          $('#newsletter-signup li#success').hide();
+          $('#newsletter-signup #submit').append('<div class="submitting">Submitting your details...</div>');
+              if($('#newsletter-signup input#EmailAddress').val().length == 0){
+                     $('.email_warning').append("<p class='failure'>Please enter your email address</p>");
+                     $('#newsletter-signup .submitting').hide();
+                     return false;
+                 }
+            var this_element = $(this);
+            var form_data = this_element.serialize();
+            if(form_data.indexOf("Email") == -1){
+             form_data =  'EmailAddress='+$('#newsletter-signup input#EmailAddress').val()+'&'+form_data;
+            }
+            $.ajax({type: "POST",
+                     url: "/newsletter/signup/index.php",
+                      data: form_data,
+                      success: function(data) {
+                        $('#newsletter-signup .submitting').hide();
+                        $('#newsletter-signup ol').append(data)
+                      }
+                    });
+              return false;
+          });
+                  }); // Close document ready
     </script>
     <script type="text/javascript">
       var addthis_pub="fpstaff";
@@ -98,8 +143,22 @@ jQuery.extend(Drupal.settings, {"basePath":"\/"});
        }
     </script>
     <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js"></script>
-
-  </head>
+    <!-- Double Click JS -->
+    <!-- Google Double Click Code -->
+<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
+</script>
+<script type="text/javascript">
+GS_googleAddAdSenseService("ca-pub-5500462750907867");
+GS_googleEnableAllServices();
+</script>
+<!-- DFP doesnt support URL targetting so this is a quick work around -->
+<script type="text/javascript">
+GA_googleFetchAds();
+</script>
+<!--End of Google Double Click Code -->
+    
+    <!-- Translaton JS -->
+      </head>
        <body>
       <div id="fb-root"><script type="text/javascript" src="http://connect.facebook.net/en_US/all.js" async=""></script></div>
                 <script type="text/javascript">
@@ -124,66 +183,349 @@ jQuery.extend(Drupal.settings, {"basePath":"\/"});
       <div id="header">
         
 <div>
+<!-- FP Header -->
 <div id="flag">
-     <a href="http://www.foreignpolicy.com" style="position:relative !important;"><img id="fp_logo" src="http://www.foreignpolicy.com/images/fp_logo.jpg" width="140" height="141"></a>
-     <ul>
-      <li id="leaderboard">
-        	<div id="buffer" style="display: block; width: 728px; height: 90px"><!-- BEGIN ADVERTPRO CODE BLOCK --><script language="JavaScript" type="text/javascript"><!--
-document.write('<SCR'+'IPT src="http://foreignpolicy.advertserve.com/servlet/view/banner/javascript/zone?zid=3&keywords=&pid=0&random='+Math.floor(89999999*Math.random()+10000000)+'&millis='+new Date().getTime()+'" language="JavaScript" type="text/javascript"></SCR'+'IPT>');//--></script><script src="http://foreignpolicy.advertserve.com/servlet/view/banner/javascript/zone?zid=3&amp;keywords=&amp;pid=0&amp;random=90678171&amp;millis=1580396241793" language="JavaScript" type="text/javascript"></script>
-<noscript><A href="http://foreignpolicy.advertserve.com/servlet/click/zone?zid=3&keywords=&pid=0&lookup=true&position=1" target="_blank"><IMG src="http://foreignpolicy.advertserve.com/servlet/view/banner/image/zone?zid=3&keywords=&pid=0&position=1" hspace="0" vspace="0" border="0" alt="Subscribe to Foreign Policy magazine now!"></A></noscript><!-- END ADVERTPRO CODE BLOCK --></div>   
-        </li>
-        <li><a href="https://www.cambeywest.com/subscribe/?p=frp&amp;f=paid&amp;s=I101HBNK" target="_blank"><img src="http://www.foreignpolicy.com/files/fp_uploaded_images/100212_sub_bunker_ad.jpg" width="96" height="101"></a></li>
-      </ul>
-
-     <ul>
-        <li><a href="http://www.foreignpolicy.com/issues/current"><img src="http://www.foreignpolicy.com/images/m_magazine.jpg"></a></li>
-      	<li><a href="http://www.foreignpolicy.com/archive"><img src="http://www.foreignpolicy.com/images/m_archive.jpg"></a></li>
-        <li id="search">
-        <form action="http://www.google.com/search" method="get" name="fp_search">
-        	<input type="hidden" name="sitesearch" value="foreignpolicy.com">
-        	<div id="search_box">
-				<input id="search_box_form" maxlength="30" name="q" type="text">
-                </div>
-
-                <div id="search_sub">
-        		<input id="search_sub_button" name="" value=" " type="submit">
-                </div>
-          </form>
-        </li>
-        <li><a href="http://globalnews.foreignpolicy.com"><img src="http://www.foreignpolicy.com/images/m_global_news.jpg"></a></li>
-        <li><a href="http://www.foreignpolicy.com/node/33012"><img src="http://www.foreignpolicy.com/images/m_rss_v2.jpg"></a></li>
-      </ul>	
-</div></div>
-        <div id="sub_nav">
-           <ul>
-              <li style="vertical-align: middle; padding-top: 5px;">
-                <span id="date">JULY 6, 2010</span>
-              </li>
-              <li>
-		<img src="/files/fp_uploaded_images/100426_blogroll-update.jpg" usemap="#fp_snav"> 
-		<map name="fp_snav" id="fp_snav">               
-		  <area shape="rect" coords="2,3,98,25" href="http://blog.foreignpolicy.com" alt="Passport">              
-	          <area shape="rect" coords="103,3,186,25" href="http://drezner.foreignpolicy.com" alt="Drezner">              
-		  <area shape="rect" coords="191,3,256,25" href="http://ricks.foreignpolicy.com" alt="Ricks">              
-                  <area shape="rect" coords="259,3,325,25" href="http://walt.foreignpolicy.com" alt="Walt">              
-                  <area shape="rect" coords="329,3,451,25" href="http://afpak.foreignpolicy.com" alt="AfPak Channel">              
-                  <area shape="rect" coords="455,3,597,25" href="http://mideast.foreignpolicy.com" alt="Mideast Channel">              
-                  <area shape="rect" coords="602,3,723,25" href="http://shadow.foreignpolicy.com" alt="Shadow Govt.">              
-                  <area shape="rect" coords="727,3,819,25" href=" http://thecable.foreignpolicy.com" alt="The Cable"> 
-                </map>
-              </li>
-           </ul>
+  <a href="http://www.foreignpolicy.com" style="position:relative !important;">
+    <img id="fp_logo" src="http://www.foreignpolicy.com/images/fp_logo.jpg" width="140" height="141">
+  </a>
+  <ul>
+    <li id="leaderboard">
+      <div id="buffer" style="display: block; width: 728px; height: 90px">
+          <!-- Google Double Click Code -->
+                    <script type="text/javascript">
+            GA_googleAddSlot("ca-pub-5500462750907867", "www_leaderboard");
+            GA_googleFillSlot("www_leaderboard");
+          </script>
+        <!--End of Google Double Click Code -->
+      </div>   
+    </li>
+    <li>
+      <a href="https://www.cambeywest.com/subscribe/?p=frp&amp;f=paid&amp;s=I101HBNK" target="_blank">
+        <img src="http://www.foreignpolicy.com/files/fp_uploaded_images/100212_sub_bunker_ad.jpg" width="96" height="101">
+      </a>
+    </li>
+  </ul>
+  <ul>
+    <li>
+      <a href="http://www.foreignpolicy.com/issues/current"><img src="http://www.foreignpolicy.com/images/m_magazine.jpg"></a>
+    </li>
+    <li>
+      <a href="http://www.foreignpolicy.com/archive"><img src="http://www.foreignpolicy.com/images/m_archive.jpg"></a>
+    </li>
+    <li id="search">
+      <form action="http://www.google.com/search" method="get" name="fp_search">
+        <input type="hidden" name="sitesearch" value="foreignpolicy.com">
+        <div id="search_box">
+	  <input id="search_box_form" maxlength="30" name="q" type="text">
         </div>
+        <div id="search_sub">
+          <input id="search_sub_button" name="" value=" " type="submit">
+        </div>
+      </form>
+    </li>
+    <li>
+         <a href="/user"><img src="http://foreignpolicy.com/files/fp_uploaded_images/100520_m_login.jpg"></a>
+       </li>
+    <li>
+      <a href="http://www.foreignpolicy.com/node/33012"><img src="http://www.foreignpolicy.com/images/m_rss_v2.jpg"></a>
+    </li>
+  </ul>
+</div>
+<div id="sub_nav">
+  <ul class="drp_menu">
+    <li id="td-date">
+      <span>JUNE 8, 2011</span>
+    </li> 
+    <li id="directory" class="subnav-menuitem">
+               <div id="directory-box" class="subnav-bound-box">
+                    <div class="subnav-more">
+                      <div class="more-wrapper">
 
-        <!--
-        <div class="clear"></div>
-        -->
+                        <ul class="subnav_col">
+			            <li class="header">BLOGS</li>
+
+                                    <li><a href="http://drezner.foreignpolicy.com">Daniel Drezner</a></li>
+                                    <li><a href="http://hoffman.foreignpolicy.com">David Hoffman</a></li>
+                                    <li><a href="http://khanna.foreignpolicy.com">Parag Khanna</a></li>
+                                    <li><a href="http://lynch.foreignpolicy.com">Marc Lynch</a></li>
+                                    <li><a href="http://prestowitz.foreignpolicy.com/">Clyde Prestowitz</a></li>
+                                    <li><a href="http://ricks.foreignpolicy.com">Tom Ricks</a></li>
+                                    <li><a href="http://rothkopf.foreignpolicy.com">David Rothkopf</a></li>   
+                                    <li class="borderless"><a href="http://walt.foreignpolicy.com">Stephen Walt</a><hr></li>
+                                    <li><a href="http://thecable.foreignpolicy.com">The Cable</a></li>   
+                                    <li><a href="http://eurasia.foreignpolicy.com">The Call</a></li>
+                                    <li><a href="http://bosco.foreignpolicy.com">The Multilateralist</a></li>
+                                    <li><a href="http://neteffect.foreignpolicy.com">Net Effect</a></li>
+                                    <li><a href="http://oilandglory.foreignpolicy.com">The Oil and the Glory</a></li>
+                                    <li><a href="http://blog.foreignpolicy.com">Passport</a></li>
+                                    <li><a href="http://shadow.foreignpolicy.com">Shadow Govt.</a></li>   
+                                    <li><a href="http://turtlebay.foreignpolicy.com">Turtle Bay</a></li>
+                                    <li class="borderless"><a href="http://wikileaks.foreignpolicy.com">WikiLeaked</a></li>
+                                </ul>
+                        <ul class="subnav_col">
+			            <li class="header">CHANNELS</li>
+                                    <li><a href="http://afpak.foreignpolicy.com">AfPak</a></li>
+                                    <li class="borderless"><a href="http://mideast.foreignpolicy.com">Middle East</a><hr></li>
+                                    <li><a href="http://www.foreignpolicy.com/the_food_issue">The Food Issue</a></li> 
+                           			<li><a href="http://www.foreignpolicy.com/deep_dive">Deep Dive Briefing</a></li>                                    
+                                    <li><a href="http://www.foreignpolicy.com/in_other_words">FP Books</a></li>
+                                    <li><a href="http://www.foreignpolicy.com/china">China</a></li>
+                                    <li><a href="http://www.foreignpolicy.com/category/topic/energy">Energy</a></li>
+                                    <li><a href="http://www.foreignpolicy.com/category/topic/india">India</a></li>
+                                    <li><a href="http://www.foreignpolicy.com/russia">Russia</a></li>
+			            <li class="header">WEEKLY COLUMNS</li>
+                                    <li><a href="http://www.foreignpolicy.com/category/section/the_optimist">Charles Kenny</a></li>
+                                    <li><a href="http://www.foreignpolicy.com/category/section/terms_of_engagement">James Traub</a></li>
+				    <li><a href="http://www.foreignpolicy.com/category/section/the_lwot">Legal War on Terror</a></li>   
+				    <li><a href="http://www.foreignpolicy.com/category/section/small_wars">Small Wars Journal</a></li>
+                           <li class="header">SPECIAL REPORTS</li>
+                           <li><a href="http://www.foreignpolicy.com/arab_revolution">The Arab Revolution</a></li>
+                           <li><a href="http://www.foreignpolicy.com/failedstates">Failed States Index</a></li>   
+                           <li><a href="http://www.foreignpolicy.com/articles/2010/11/29/the_fp_top_100_global_thinkers">Top 100 Global Thinkers</a></li>   
+                           <li class="borderless"><a href="http://www.foreignpolicy.com/articles/2010/08/11/the_global_cities_index_2010">Global Cities Index</a></li>
+
+                        </ul>
+                         <ul class="subnav_col">
+                           <li class="header">FEATURES</li>
+                           <li><a href="http://www.foreignpolicy.com/category/section/argument">Arguments</a></li>   
+                           <li><a href="http://www.foreignpolicy.com/category/section/photo_essay">Photo Essays</a></li>
+                           <li><a href="http://www.foreignpolicy.com/category/section/the_list">The List</a></li>   
+                           <li><a href="http://www.foreignpolicy.com/category/section/think_again">Think Again</a></li>   
+                           <li><a href="http://www.foreignpolicy.com/category/section/explainer">FP Explainer</a></li>   
+                           <li><a href="http://www.foreignpolicy.com/category/section/prime_numbers">Prime Numbers</a></li>   
+                           <li class="header">PRINT MAGAZINE</li>
+                           <li><a href="http://www.foreignpolicy.com/issues/current">Latest Issue</a></li>   
+                           <li><a href="http://www.foreignpolicy.com/archive">Archive</a></li>   
+                           <li class="borderless"><a href="https://www.cambeywest.com/subscribe/?p=frp&amp;f=paid&amp;s=I101HBNK" target="_blank">Subscribe</a></li>   
+                         </ul>
+                      </div>
+                    </div>
+               </div>
+
+        </li>
+        <li id="blogs" class="subnav-menuitem">
+               <div id="blogs-box" class="subnav-bound-box">
+                    <div class="subnav-more">
+                      <div class="more-wrapper">
+                        <ul class="subnav_col">
+                                    <li><a href="http://drezner.foreignpolicy.com">Daniel Drezner</a></li>
+                                    <li><a href="http://hoffman.foreignpolicy.com">David Hoffman</a></li>
+                                    <li><a href="http://khanna.foreignpolicy.com">Parag Khanna</a></li>
+                                    <li><a href="http://lynch.foreignpolicy.com">Marc Lynch</a></li>
+                                    <li><a href="http://prestowitz.foreignpolicy.com/">Clyde Prestowitz</a></li>
+                                    <li><a href="http://ricks.foreignpolicy.com">Tom Ricks</a></li>
+                                    <li><a href="http://rothkopf.foreignpolicy.com">David Rothkopf</a></li>   
+                                    <li class="borderless"><a href="http://walt.foreignpolicy.com">Stephen Walt</a><hr></li>
+                                    <li><a href="http://thecable.foreignpolicy.com">The Cable</a></li>   
+                                    <li><a href="http://eurasia.foreignpolicy.com">The Call</a></li>
+                                    <li><a href="http://bosco.foreignpolicy.com">The Multilateralist</a></li>
+                                    <li><a href="http://neteffect.foreignpolicy.com">Net Effect</a></li>
+                                    <li><a href="http://oilandglory.foreignpolicy.com">The Oil and the Glory</a></li>
+                                    <li><a href="http://blog.foreignpolicy.com">Passport</a></li>
+                                    <li><a href="http://shadow.foreignpolicy.com">Shadow Govt.</a></li>   
+                                    <li><a href="http://turtlebay.foreignpolicy.com">Turtle Bay</a></li>
+                                    <li class="borderless"><a href="http://wikileaks.foreignpolicy.com">WikiLeaked</a></li>
+                         </ul>
+                      </div>
+                    </div>
+               </div>      
+        </li>
+        <li id="channels" class="subnav-menuitem">
+               <div id="channels-box" class="subnav-bound-box">
+                    <div class="subnav-more">
+                      <div class="more-wrapper">
+                        <ul class="subnav_col">
+                                    <li><a href="http://afpak.foreignpolicy.com">AfPak</a></li>
+                                    <li class="borderless"><a href="http://mideast.foreignpolicy.com">Middle East</a><hr></li>
+                                    <li><a href="http://www.foreignpolicy.com/deep_dive">Deep Dive Briefing</a></li>                                    
+                                    <li><a href="http://www.foreignpolicy.com/in_other_words">FP Books</a></li>
+                                    <li><a href="http://www.foreignpolicy.com/china">China</a></li>
+                                    <li><a href="http://www.foreignpolicy.com/category/topic/energy">Energy</a></li>
+                                    <li><a href="http://www.foreignpolicy.com/category/topic/india">India</a></li>
+                                    <li class="borderless"><a href="http://www.foreignpolicy.com/russia">Russia</a></li>
+                        </ul>
+                      </div>
+                    </div>
+               </div>      
+        </li>
+        <li id="newsbriefs" class="subnav-menuitem">
+               <div id="newsbriefs-box" class="subnav-bound-box">
+                    <div class="subnav-more">
+                      <div class="more-wrapper">
+                        <ul class="subnav_col">
+                                                          			       <li>
+                                  <a href="http://blog.foreignpolicy.com/">Morning Brief: Syria accuses protesters of opening fire on security forces</a>
+                                </li>
+			     			       <li>
+                                  <a href="http://afpak.foreignpolicy.com/posts/2011/06/07/daily_brief_pakistan_us_dispute_militants_fate">AfPak Daily brief: Pakistan, U.S. dispute militant's fate</a>
+                                </li>
+			     			       <li class="borderless">
+                                  <a href="http://mideast.foreignpolicy.com/posts/2011/06/07/mideast_news_brief_yemeni_government_rejects_opposition_offer_for_transition_talks">Mideast Mideast news brief: Yemeni government rejects opposition offer for transition talks   </a>
+                                </li>
+			                              </ul>
+                      </div>
+                    </div>
+               </div>
+      </li>
+        <li id="latestarticles" class="subnav-menuitem">
+               <div id="latestarticles-box" class="subnav-bound-box">
+                    <div class="subnav-more">
+                      <div class="more-wrapper">
+                        <ul class="subnav_col">
+                                                          			       <li>
+   			        <a href="http://www.foreignpolicy.com/articles/2011/06/07/dont_fear_the_reaper">Don't Fear the Reaper - by Charli Carpenter and Lina Shaikhouni</a>
+                               </li>
+			     			       <li>
+   			        <a href="http://www.foreignpolicy.com/articles/2011/06/07/crowded_waters">Crowded Waters - by Abraham M. Denmark</a>
+                               </li>
+			     			       <li>
+   			        <a href="http://www.foreignpolicy.com/articles/2011/06/07/state_of_emergency">State of Emergency - by Simon Henderson</a>
+                               </li>
+			     			       <li>
+   			        <a href="http://www.foreignpolicy.com/articles/2011/06/07/giving_away_the_farm">Giving Away the Farm - by R. James Woolsey and Rebeccah Heinrichs</a>
+                               </li>
+			     			       <li>
+   			        <a href="http://www.foreignpolicy.com/articles/2011/06/07/tweeter_beware">Tweeter Beware - by Joshua E. Keating</a>
+                               </li>
+			     			       <li>
+   			        <a href="http://www.foreignpolicy.com/articles/2011/06/06/pool_party_at_salehs">Pool Party at Saleh's - by Lauren Goulding</a>
+                               </li>
+			     			       <li>
+   			        <a href="http://www.foreignpolicy.com/articles/2011/06/06/al_qaedas_toughest_task">Al Qaeda's Toughest Task - by Raffaello Pantucci</a>
+                               </li>
+			     			       <li class="borderless">
+   			        <a href="http://www.foreignpolicy.com/articles/2011/06/06/paying_for_peace">Paying for Peace - by Charles Kenny</a>
+                               </li>
+			                             </ul>
+                      </div>
+                    </div>
+               </div>      
+        </li>
+        <li id="latestposts" class="subnav-menuitem">
+               <div id="latestposts-box" class="subnav-bound-box">
+                    <div class="subnav-more">
+                      <div class="more-wrapper">
+                        <ul class="subnav_col">
+                                                          			       <li>
+   			         <a href="http://mideast.foreignpolicy.com/posts/2011/06/07/misplaced_fears_about_the_upcoming_turkish_election">The Middle East Channel: Misplaced fears about the upcoming Turkish election</a>
+                               </li>
+			     			       <li>
+   			         <a href="http://oilandglory.foreignpolicy.com/posts/2011/06/07/who_has_time_to_worry_about_opec">The Oil and the Glory: Who has time to worry about OPEC?</a>
+                               </li>
+			     			       <li>
+   			         <a href="http://mideast.foreignpolicy.com/posts/2011/06/07/state_of_emergency">The Middle East Channel: State of emergency</a>
+                               </li>
+			     			       <li>
+   			         <a href="http://blog.foreignpolicy.com/posts/2011/06/07/who_abducted_australias_x_files">FP Passport: Who abducted Australia's x-files?</a>
+                               </li>
+			     			       <li>
+   			         <a href="http://blog.foreignpolicy.com/posts/2011/06/07/4_barrels_1500_barrels_whos_counting">FP Passport: 4 barrels? 1,500 barrels? Who's counting?</a>
+                               </li>
+			     			       <li>
+   			         <a href="http://thecable.foreignpolicy.com/posts/2011/06/07/f1_fact_finding_report_finds_no_indication_of_any_problems_in_bahrain">The Cable: F1 fact-finding report finds "NO indication of any problems" in Bahrain</a>
+                               </li>
+			     			       <li>
+   			         <a href="http://blog.foreignpolicy.com/posts/2011/06/07/china_to_friedman_the_world_is_round">FP Passport: China to Friedman: The world is round</a>
+                               </li>
+			     			       <li class="borderless">
+   			         <a href="http://prestowitz.foreignpolicy.com/posts/2011/06/07/kissinger_in_china_triumph_or_disaster">Prestowitz: Kissinger in China: Triumph or disaster?</a>
+                               </li>
+			                             </ul>
+                      </div>
+                    </div>
+               </div>      
+        </li>
+    </ul>
+</div>
+<!--[if lte IE 6]>
+<div id="browser_warning" style="display: none;">
+Your browser is no longer supported.  Some features on this site will not work.  Please upgrade to a modern browser.<br />
+<a href='http://www.mozilla.com/?from=sfx&amp;uid=308943&amp;t=556'><img src='http://sfx-images.mozilla.org/firefox/3.6/110x32_get_blue.png' alt='Spread Firefox Affiliate Button' border='0' /></a>
+<a href="http://www.google.com/chrome">
+  <img src="http://foreignpolicy.com/files/fp_uploaded_images/100519_chrome_logo.jpg" />
+</a>
+<a href="http://www.microsoft.com/windows/internet-explorer/default.aspx">
+  <img src="http://www.microsoft.com/library/media/1033/windows/images/internet-explorer/default/ie8_logo.gif"/>
+</a>
+<a id="close" href="#" onclick="document.cookie='hidebrowsermsg=1; domain=.foreignpolicy.com; path=/'; document.getElementById('browser_warning').style.display='none';">hide this</a>
+<br />
+</div>
+<script type="text/javascript">
+function readCookie(name) {
+  var nameEQ = name + "=";
+  var ca = document.cookie.split(';');
+  for(var i=0;i < ca.length;i++) {
+    var c = ca[i];
+    while (c.charAt(0)==' ') c = c.substring(1,c.length);
+    if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+  }
+  return null;
+}
+if(readCookie("hidebrowsermsg") != "1")
+  document.getElementById("browser_warning").style.display = "block";
+</script>
+<![endif]-->
+<!-- End FP Header -->
+</div>
       </div> <!-- /#header -->
       <div id="theatre">
                                                 
         <!-- PRINCIPAL CONTENT-->
         <div id="content-lz">
-                    <!--paging_filter--><div class="art-mast"><h1>Privacy Policy</h1></div><br><div id="art-body"><p><b>FOREIGN POLICY</b> respects our subscribers’ and Web site users’ right to privacy. Personally identifiable information is collected on our Web site only when voluntarily provided by the user. This information is used to deliver requested items such as the <b>FP</b> <i>e</i>-Alert newsletter, purchased products, content or Forum access, or magazine subscriptions. We also use this information to make your experience on ForeignPolicy.com more enjoyable and convenient. </p><p>Cookies help track a person's “session” while online. They are used on our site to gather basic tracking information and to monitor the presentation of advertisements. They are especially necessary when  ordering a product online. Cookies are not related to any personally identifiable information and are not used to retrieve information from your computer that was not originally sent in a cookie. </p><p>Many browsers are set to accept cookies. You may prefer to set your browser to refuse cookies. It is possible, however, that some areas of this site will not function properly, if you do so. This is especially likely when trying to order a product. </p><p>Product, content, and subscription purchases made on ForeignPolicy.com are directed through a secure transaction server to protect your personal and financial information.</p><p>Other information collected on our Web site is not personally identifiable and is done so by our Web server in aggregate. This information allows us to track general patterns, such as browser and platform usage and site traffic. </p><p><b>FP</b> does not rent, sell, or otherwise make available to third parties the personally-identifiable information collected on our Web site (other than in connection with magazine subscriptions ordered, as explained below) without your express permission.</p><p>Occasionally, <b>FP</b> makes portions of its magazine subscription mailing list available to reputable companies and organizations whose products or services we feel may be of interest to you. Many of our subscribers find this a valuable and timesaving service. If you would rather not receive these mailings, please send us a request in writing at one of the addresses below asking us not to release your name to third parties. Please allow 12 weeks for your request to take effect. </p><table width="100%" border="0" align="center">	<tbody>		<tr valign="top">			<td>			<div align="center">			<b>By Mail:</b><br>			<br>			FOREIGN POLICY <br>			P.O. Box 474<br>			Mt. Morris, IL 61054-8499			</div>			</td>    			<td>			<div align="center">			<div align="center">			<b>Electronically:</b><br>			<br>			<a href="/redirect/1660.php" target="_blank">FP Customer Service </a>			</div>			</div>			</td>  		</tr>	</tbody></table><br>If you have questions or concerns about <b>FP</b>’s Privacy Policy, please contact us at <a href="mailto:%20FP@ForeignPolicy.com">FP@ForeignPolicy.com</a>.</div>
+                    <!--paging_filter--><div class="art-mast">
+<h1>Privacy Policy</h1>
+</div>
+<br>
+<div id="art-body">
+<p>
+<b>FOREIGN POLICY</b> respects our subscribers’ and Web site users’ right to privacy. Personally identifiable information is collected on our Web site only when voluntarily provided by the user. This information is used to deliver requested items such as the <b>FP</b> <i>e</i>-Alert newsletter, purchased products, content or Forum access, or magazine subscriptions. We also use this information to make your experience on ForeignPolicy.com more enjoyable and convenient. 
+</p>
+<p>
+Cookies help track a person's “session” while online. They are used on our site to gather basic tracking information and to monitor the presentation of advertisements. They are especially necessary when ordering a product online. Cookies are not related to any personally identifiable information and are not used to retrieve information from your computer that was not originally sent in a cookie. 
+</p>
+<p>
+Many browsers are set to accept cookies. You may prefer to set your browser to refuse cookies. It is possible, however, that some areas of this site will not function properly, if you do so. This is especially likely when trying to order a product. 
+</p>
+<p>
+Product, content, and subscription purchases made on ForeignPolicy.com are directed through a secure transaction server to protect your personal and financial information. 
+</p>
+<p>
+Other information collected on our Web site is not personally identifiable and is done so by our Web server in aggregate. This information allows us to track general patterns, such as browser and platform usage and site traffic. 
+</p>
+<p>
+<b>FP</b> does not rent, sell, or otherwise make available to third parties the personally-identifiable information collected on our Web site (other than in connection with magazine subscriptions ordered, as explained below) without your express permission. 
+</p>
+<p>
+Occasionally, <b>FP</b> makes portions of its magazine subscription mailing list available to reputable companies and organizations whose products or services we feel may be of interest to you. Many of our subscribers find this a valuable and timesaving service. If you would rather not receive these mailings, please send us a request in writing at one of the addresses below asking us not to release your name to third parties. Please allow 12 weeks for your request to take effect. 
+</p>
+<table border="0" align="center" width="100%">
+	<tbody>
+		<tr valign="top">
+			<td>
+			<div align="center">
+			<b>By Mail:</b><br>
+			<br>
+			FOREIGN POLICY <br>
+			P.O. Box 283<br>
+			Congers, NY 10920-0283 
+			</div>
+			</td>
+			<td>
+			<div align="center">
+			<div align="center">
+			<b>Electronically:</b><br>
+			<br>
+			<a target="_blank" href="https://www.cambeywest.com/subscribe/?p=frp&amp;f=custserve">FP Customer Service </a>
+			</div>
+			</div>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+If you have questions or concerns about <b>FP</b>’s Privacy Policy, please contact us at <a href="mailto:FP@ForeignPolicy.com">FP@ForeignPolicy.com</a>. 
+</div>
+
         </div> 
 
         <!-- RIGHT RAIL -->
@@ -192,17 +534,10 @@ document.write('<SCR'+'IPT src="http://foreignpolicy.advertserve.com/servlet/vie
 <div>
 <!-- BIG BOX AD -->
 <div id="big-box-top">
-<script language="JavaScript" type="text/javascript">
-  <!--
-  document.write('<SCR'+'IPT src="http://foreignpolicy.advertserve.com/servlet/view/banner/javascript/zone?zid=23&keywords=&pid=0&random='+Math.floor(89999999*Math.random()+10000000)+'&millis='+new Date().getTime()+'&referrer='+escape(document.location)+'" language="JavaScript" type="text/javascript"></SCR'+'IPT>');
-  //-->
-</script><script src="http://foreignpolicy.advertserve.com/servlet/view/banner/javascript/zone?zid=23&amp;keywords=&amp;pid=0&amp;random=50954210&amp;millis=1580396241848&amp;referrer=https%3A//web.archive.org/web/20100706120921id_/http%253A//www.foreignpolicy.com/articles/privacy_policy" language="JavaScript" type="text/javascript"></script>
-<noscript>
-  <A href="http://foreignpolicy.advertserve.com/servlet/click/zone?zid=23&pid=0&lookup=true&position=1&keywords=" target="_blank">
-    <IMG src="http://foreignpolicy.advertserve.com/servlet/view/banner/image/zone?zid=23&pid=0&position=1&keywords=" hspace="0" vspace="0" border="0" alt="Subscribe to Foreign Policy magazine now!">
-  </A>
-</noscript>
-
+       <script type="text/javascript">
+       GA_googleAddSlot("ca-pub-5500462750907867", "www_bigbox");
+       GA_googleFillSlot("www_bigbox");
+       </script>
 </div>
 <!-- END BIG BOX AD -->
 
@@ -210,10 +545,19 @@ document.write('<SCR'+'IPT src="http://foreignpolicy.advertserve.com/servlet/vie
 
 <div>
 <!-- FB STK -->
-                 <div id="fb-soc-box">
-                       <a href="http://www.foreignpolicy.com/mynetwork"> <img border="0" src="http://www.foreignpolicy.com/files/fp_uploaded_images/facebook_hed.png "></a>
-			<fb:activity width="300" height="196" header="false" site="foreignpolicy.com" border_color="#FFFFFF" font="Arial"></fb:activity> 
+                  <div id="fb-soc-box">
+                        <a href="http://www.foreignpolicy.com/mynetwork"> <img border="0" src="http://www.foreignpolicy.com/files/fp_uploaded_images/100721_facebook_hed2.png "></a>
                    </div>
+                   <div id="fb-tabbed-pane">
+                   <a href="#" class="button-active" onclick="$('#fb-tabbed-pane1').show(); $('#fb-tabbed-pane2').hide(); $('#fb-tabbed-pane a').removeClass('button-active'); $(this).addClass('button-active');  return false;">Friends' Activity</a>
+                   <a href="#" class="" onclick="$('#fb-tabbed-pane1').hide(); $('#fb-tabbed-pane2').show(); $('#fb-tabbed-pane a').removeClass('button-active'); $(this).addClass('button-active'); return false;">Most Liked</a>
+                   </div>
+                   <div id="fb-tabbed-pane1">
+                        <fb:activity width="300" height="196" header="false" site="foreignpolicy.com" border_color="#FFFFFF" font="Arial"></fb:activity> 
+                    </div>
+                   <div id="fb-tabbed-pane2">
+           			    <fb:recommendations width="300" height="196" header="false" site="foreignpolicy.com" border_color="#FFFFFF" font="Arial" recommendations="true"></fb:recommendations>
+           			</div>
                    <!-- END FB STK --></div>
 
 <div>
@@ -227,7 +571,7 @@ document.write('<SCR'+'IPT src="http://foreignpolicy.advertserve.com/servlet/vie
                               <p><a href="#" class="popcommday">MOST<br>COMMENTED</a></p>
                            </div>
                            <div id="list-wrapper">
-                              <ol class="gray_nav_opt" id="pop-art-list"><!-- count=7689 --><li><a href="http://www.foreignpolicy.com/articles/2010/06/21/postcards_from_hell">Postcards from Hell</a></li><!-- count=7580 --><li><a href="http://www.foreignpolicy.com/articles/2010/07/02/the_least_free_places_on_earth_2010">The Least Free Places on Earth: 2010</a></li><!-- count=6233 --><li><a href="http://www.foreignpolicy.com/articles/2010/07/04/the_world_s_worst_theme_parks">The World's Worst Theme Parks</a></li><!-- count=4031 --><li><a href="http://www.foreignpolicy.com/articles/2010/06/21/the_worst_of_the_worst">The Worst of the Worst</a></li><!-- count=1419 --><li><a href="http://www.foreignpolicy.com/articles/2010/06/28/the_long_haul ">The Long Haul</a></li></ol>
+                              <ol class="gray_nav_opt" id="pop-art-list"><!-- count=2231 --><li><a href="http://www.foreignpolicy.com/articles/2011/06/03/Beijings_blue_water_navy">Beijing's Blue-Water Navy</a></li><!-- count=1829 --><li><a href="http://www.foreignpolicy.com/articles/2011/06/06/remembering_six_days_in_1967">Remembering Six Days in 1967</a></li><!-- count=1716 --><li><a href="http://www.foreignpolicy.com/articles/2011/05/04/war_dog">War Dog</a></li><!-- count=1463 --><li><a href="http://www.foreignpolicy.com/articles/2011/06/06/pool_party_at_salehs">Pool Party at Saleh's</a></li><!-- count=1365 --><li><a href="http://www.foreignpolicy.com/articles/2011/06/03/unfinished_business">Unfinished Business</a></li></ol>
                            </div>
                         </div><div id="pop-art-week" class="pop-art" style="display:none">
                            <div class="gray_nav_opt" id="pop-hed">
@@ -239,7 +583,7 @@ document.write('<SCR'+'IPT src="http://foreignpolicy.advertserve.com/servlet/vie
                              <p><a href="#" class="popcommweek">MOST<br>COMMENTED</a></p>
                            </div>
                            <div id="list-wrapper">
-                              <ol class="gray_nav_opt" id="pop-art-list"><!-- count=70230 --><li><a href="http://www.foreignpolicy.com/articles/2010/07/02/the_least_free_places_on_earth_2010">The Least Free Places on Earth: 2010</a></li><!-- count=31765 --><li><a href="http://www.foreignpolicy.com/articles/2010/07/04/the_world_s_worst_theme_parks">The World's Worst Theme Parks</a></li><!-- count=28028 --><li><a href="http://www.foreignpolicy.com/articles/2010/07/01/le_scandal">Le Scandal</a></li><!-- count=24422 --><li><a href="http://www.foreignpolicy.com/articles/2010/06/29/red_team">Red Team</a></li><!-- count=18850 --><li><a href="http://www.foreignpolicy.com/articles/2010/06/30/soldiers_in_waiting">Soldiers in Waiting</a></li></ol>
+                              <ol class="gray_nav_opt" id="pop-art-list"><!-- count=24740 --><li><a href="http://www.foreignpolicy.com/articles/2011/06/02/where_the_river_ends">Where the River Ends</a></li><!-- count=14892 --><li><a href="http://www.foreignpolicy.com/articles/2011/06/03/Beijings_blue_water_navy">Beijing's Blue-Water Navy</a></li><!-- count=9539 --><li><a href="http://www.foreignpolicy.com/articles/2011/06/02/yemen_on_the_brink_of_war">Yemen: On the Brink of War</a></li><!-- count=7982 --><li><a href="http://www.foreignpolicy.com/articles/2011/06/02/libyan_limbo">Libyan Limbo</a></li><!-- count=6961 --><li><a href="http://www.foreignpolicy.com/articles/2011/06/03/pakistan_s_black_pearl">Pakistan's Black Pearl</a></li></ol>
                            </div>
                         </div><div id="pop-comm-day" class="pop-art" style="display:none">
                           <div class="gray_nav_opt" id="pop-hed">
@@ -251,7 +595,7 @@ document.write('<SCR'+'IPT src="http://foreignpolicy.advertserve.com/servlet/vie
                              <p class="selected">MOST<br>COMMENTED</p>
                           </div>
                           <div id="list-wrapper">
-                             <ol class="gray_nav_opt" id="pop-art-list"><!-- count=46 --><li><a href="http://www.foreignpolicy.com/articles/2010/07/02/unsettled">Unsettled</a></li><!-- count=10 --><li><a href="http://www.foreignpolicy.com/articles/2010/06/29/red_team">Red Team</a></li><!-- count=10 --><li><a href="http://www.foreignpolicy.com/articles/2010/07/04/its_not_the_economy_stupid">It's Not the Economy, Stupid</a></li><!-- count=9 --><li><a href="http://www.foreignpolicy.com/articles/2010/07/02/hiding_in_plain_sight">Hiding In Plain Sight</a></li><!-- count=5 --><li><a href="http://www.foreignpolicy.com/articles/2010/07/02/the_least_free_places_on_earth_2010">The Least Free Places on Earth: 2010</a></li></ol>
+                             <ol class="gray_nav_opt" id="pop-art-list"><!-- count=45 --><li><a href="http://www.foreignpolicy.com/articles/2011/06/06/remembering_six_days_in_1967">Remembering Six Days in 1967</a></li><!-- count=6 --><li><a href="http://www.foreignpolicy.com/articles/2011/06/03/pakistan_s_black_pearl">Pakistan's Black Pearl</a></li><!-- count=5 --><li><a href="http://www.foreignpolicy.com/articles/2011/06/03/think_again_bob_gates">Think Again: Bob Gates</a></li><!-- count=4 --><li><a href="http://www.foreignpolicy.com/articles/2011/06/06/paying_for_peace">Paying for Peace</a></li><!-- count=4 --><li><a href="http://www.foreignpolicy.com/articles/2011/05/09/the_myth_of_9_billion">The Myth of 9 Billion</a></li></ol>
                           </div>
                        </div><div id="pop-comm-week" class="pop-art" style="display:none">
                            <div class="gray_nav_opt" id="pop-hed">
@@ -263,7 +607,7 @@ document.write('<SCR'+'IPT src="http://foreignpolicy.advertserve.com/servlet/vie
                               <p class="selected">MOST<br>COMMENTED</p>
                            </div>
                            <div id="list-wrapper">
-                              <ol class="gray_nav_opt" id="pop-art-list"><!-- count=102 --><li><a href="http://www.foreignpolicy.com/articles/2010/07/02/unsettled">Unsettled</a></li><!-- count=60 --><li><a href="http://www.foreignpolicy.com/articles/2010/06/28/unfinished_business">Unfinished Business</a></li><!-- count=53 --><li><a href="http://www.foreignpolicy.com/articles/2010/06/29/red_team">Red Team</a></li><!-- count=32 --><li><a href="http://www.foreignpolicy.com/articles/2010/07/02/the_least_free_places_on_earth_2010">The Least Free Places on Earth: 2010</a></li><!-- count=32 --><li><a href="http://www.foreignpolicy.com/articles/2010/07/01/le_scandal">Le Scandal</a></li></ol>
+                              <ol class="gray_nav_opt" id="pop-art-list"><!-- count=60 --><li><a href="http://www.foreignpolicy.com/articles/2011/06/06/remembering_six_days_in_1967">Remembering Six Days in 1967</a></li><!-- count=38 --><li><a href="http://www.foreignpolicy.com/articles/2011/05/31/the_hawks_of_south_asia">The Hawks of South Asia</a></li><!-- count=25 --><li><a href="http://www.foreignpolicy.com/articles/2011/05/30/the_virtues_of_folding">The Virtues of Folding</a></li><!-- count=23 --><li><a href="http://www.foreignpolicy.com/articles/2011/06/01/obamas_illegal_war">Obama's Illegal War</a></li><!-- count=17 --><li><a href="http://www.foreignpolicy.com/articles/2011/06/03/think_again_bob_gates">Think Again: Bob Gates</a></li></ol>
                            </div>
                        </div></div>
 
@@ -272,14 +616,14 @@ document.write('<SCR'+'IPT src="http://foreignpolicy.advertserve.com/servlet/vie
                        <div id="cover-story">
                  	  <div id="cover-hed">
                 	     <img src="/sites/all/themes/fpmain/images/cover_story.gif">
-                          </div><div class="cp_tile "><div class="view view-minifront view-id-minifront view-display-id-block_1 view-dom-id-2">
+                          </div><div class="cp_tile "><div class="view view-minifront view-id-minifront view-display-id-block_1 view-dom-id-1">
     
   
   
       <div class="view-content">
         <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
     
-<a href="http://www.foreignpolicy.com/articles/2010/07/04/the_world_s_worst_theme_parks"><img class="imagefield imagefield-field_minifront" width="300" height="154" alt="" src="http://ricks.foreignpolicy.com/files/100702_July5_cover_theme_parksMINI.jpg?1278347735"></a>
+<a href="http://www.foreignpolicy.com/articles/2011/06/07/tweeter_beware"><img class="imagefield imagefield-field_minifront" width="300" height="155" alt="" src="http://www.foreignpolicy.com/files/coverone6-7-11.mini_.jpg?1307489167"></a>
   </div>
     </div>
   
@@ -297,7 +641,7 @@ document.write('<SCR'+'IPT src="http://foreignpolicy.advertserve.com/servlet/vie
                    <a href="http://www.foreignpolicy.com/issue/flash_points.php"><img border="0" src="/sites/all/themes/fpmain/images/flashp-hed.jpg"></a>
                           <div id="flash-bind"> 
                               <div class="flash-wrap"> 
-                                <!-- root element for the items --><div class="cp_tile "><div class="view view-flashpointsnewsfeed view-id-flashpointsnewsfeed view-display-id-default view-dom-id-3">
+                                <!-- root element for the items --><div class="cp_tile "><div class="view view-flashpointsnewsfeed view-id-flashpointsnewsfeed view-display-id-default view-dom-id-2">
     
   
   
@@ -305,28 +649,27 @@ document.write('<SCR'+'IPT src="http://foreignpolicy.advertserve.com/servlet/vie
       <div class="item-list">
     <ul class="items">
 
-             <li><p class="blog_dept"><a href="http://www.foreignpolicy.com">TURTLE BAY</a></p><p class="blog_art"><a href="http://turtlebay.foreignpolicy.com/posts/2010/07/02/holbrooke_to_push_for_taliban_free_terror_list">Why is Richard Holbrooke going to New York?</a></p>
-   <p class="by_line">BY COLUM LYNCH</p>
+             <li><p class="blog_dept"><a href="http://www.foreignpolicy.com">CLYDE PRESTOWITZ</a></p><a href="http://prestowitz.foreignpolicy.com/posts/2011/06/07/kissinger_in_china_triumph_or_disaster"><img src="http://www.foreignpolicy.com/files/fp_uploaded_images/110607_henryk.jpg"></a><p class="blog_art"><a href="http://prestowitz.foreignpolicy.com/posts/2011/06/07/kissinger_in_china_triumph_or_disaster">What if Kissinger was wrong to go to China?</a></p>
 </li>
-                  <li><p class="blog_dept"><a href="http://www.foreignpolicy.com">OIL AND GLORY</a></p><p class="blog_art"><a href="http://oilandglory.foreignpolicy.com/posts/2010/07/02/israel_versus_lebanon_hydrocarbons_edition">Israel vs. Lebanon: Hydrocarbon edition</a></p>
-   <p class="by_line">BY STEVE LEVINE</p>
+                  <li><p class="blog_dept"><a href="http://www.foreignpolicy.com">MULTILATERALIST</a></p><p class="blog_art"><a href="http://bosco.foreignpolicy.com/posts/2011/06/07/targeted_killing_should_the_administration_say_more">Why the Obama administration won't justify targeted killing</a></p>
+   <p class="by_line">BY DAVID BOSCO</p>
 </li>
-                  <li><p class="blog_dept"><a href="http://www.foreignpolicy.com">PASSPORT</a></p><a href="http://blog.foreignpolicy.com/posts/2010/07/02/kim_jong_un_succession_watch"><img src="http://foreignpolicy.com/files/fp_uploaded_images/100702_0_kju.jpg"></a><p class="blog_art"><a href="http://blog.foreignpolicy.com/posts/2010/07/02/kim_jong_un_succession_watch">The Kim Jong Un succession rumor mill churns on</a></p>
-   <p class="by_line">BY JOSHUA KEATING</p>
+                  <li><p class="blog_dept"><a href="http://www.foreignpolicy.com">ARGUMENT</a></p><a href="http://www.foreignpolicy.com/articles/2011/06/07/state_of_emergency"><img src="http://www.foreignpolicy.com/files/fp_uploaded_images/110607_bahrain.jpg"></a><p class="blog_art"><a href="http://www.foreignpolicy.com/articles/2011/06/07/state_of_emergency">Bahrain's charm offensive falls flat</a></p>
+   <p class="by_line">BY SIMON HENDERSON</p>
 </li>
-                  <li><p class="blog_dept"><a href="http://www.foreignpolicy.com">MIDEAST CHANNEL</a></p><p class="blog_art"><a href="http://mideast.foreignpolicy.com/posts/2010/07/01/iraqs_political_love_triangle">Iraq's political love triangle</a></p>
-   <p class="by_line">BY SEAN KANE</p>
+                  <li><p class="blog_dept"><a href="http://www.foreignpolicy.com">PASSPORT</a></p><a href="http://blog.foreignpolicy.com/posts/2011/06/07/china_to_friedman_the_world_is_round"><img src="http://www.foreignpolicy.com/files/fp_uploaded_images/110607_friedman.jpg"></a><p class="blog_art"><a href="http://blog.foreignpolicy.com/posts/2011/06/07/china_to_friedman_the_world_is_round">China to Friedman: The world is round</a></p>
+   <p class="by_line">BY JOSHUA E. KEATING</p>
 </li>
-                  <li><p class="blog_dept"><a href="http://www.foreignpolicy.com">ARGUMENT</a></p><a href="http://www.foreignpolicy.com/articles/2010/07/04/its_not_the_economy_stupid"><img src="http://foreignpolicy.com/files/fp_uploaded_images/100705_bibi.jpg"></a><p class="blog_art"><a href="http://www.foreignpolicy.com/articles/2010/07/04/its_not_the_economy_stupid">What Barack should tell Bibi this week</a></p>
-   <p class="by_line">BY MICHELE DUNNE</p>
+                  <li><p class="blog_dept"><a href="http://www.foreignpolicy.com">SHADOW GOVT.</a></p><p class="blog_art"><a href="http://shadow.foreignpolicy.com/posts/2011/06/07/rothkopf_is_wrong_on_afghanistan_paul_miller">David Rothkopf is wrong about Afghanistan</a></p>
+   <p class="by_line">BY PAUL MILLER</p>
 </li>
-                  <li><p class="blog_dept"><a href="http://www.foreignpolicy.com">SMALL WARS</a></p><p class="blog_art"><a href="http://www.foreignpolicy.com/articles/2010/07/02/this_week_at_war_the_pentagons_own_private_welfare_state">The Pentagon's own private welfare state</a></p>
-   <p class="by_line">BY ROBERT HADDICK</p>
+                  <li><p class="blog_dept"><a href="http://www.foreignpolicy.com">MORNING BRIEF</a></p><a href="http://blog.foreignpolicy.com/node/835506"><img src="http://www.foreignpolicy.com/files/fp_uploaded_images/110607_syriansoldierresized.jpg"></a><p class="blog_art"><a href="http://blog.foreignpolicy.com/node/835506">Syria accuses protesters of opening fire on security forces</a></p>
+   <p class="by_line">BY DAVID KENNER</p>
 </li>
-                  <li><p class="blog_dept"><a href="http://www.foreignpolicy.com">DAVID ROTHKOPF</a></p><a href="http://rothkopf.foreignpolicy.com/posts/2010/07/02/i_can_t_wait_for_barack_obama_s_second_term"><img src="http://foreignpolicy.com/files/fp_uploaded_images/100702_obama.jpg"></a><p class="blog_art"><a href="http://rothkopf.foreignpolicy.com/posts/2010/07/02/i_can_t_wait_for_barack_obama_s_second_term">I can't wait for Obama's second term</a></p>
+                  <li><p class="blog_dept"><a href="http://www.foreignpolicy.com">DANIEL DREZNER</a></p><p class="blog_art"><a href="http://drezner.foreignpolicy.com/posts/2011/06/07/what_are_financial_markets_telling_us_about_the_debt_ceiling">Why aren't the markets freaking out about the debt ceiling?</a></p>
 </li>
-                  <li class="last"><p class="blog_dept"><a href="http://www.foreignpolicy.com">AFPAK CHANNEL</a></p><a href="http://afpak.foreignpolicy.com/posts/2010/07/02/pakistans_dueling_drones_debate"><img src="http://foreignpolicy.com/files/fp_uploaded_images/100702_droneflash102560501b.jpg"></a><p class="blog_art"><a href="http://afpak.foreignpolicy.com/posts/2010/07/02/pakistans_dueling_drones_debate">For drones or against? It's time for Pakistan to decide.</a></p>
-   <p class="by_line">BY IMTIAZ GUL</p>
+                  <li class="last"><p class="blog_dept"><a href="http://www.foreignpolicy.com">AFPAK CHANNEL</a></p><p class="blog_art"><a href="http://afpak.foreignpolicy.com/posts/2011/06/07/daily_brief_pakistan_us_dispute_militants_fate">Daily brief: Pakistan, U.S. dispute militant's fate</a></p>
+   <p class="by_line">BY ANDREW LEBOVICH</p>
 </li>
            </ul>
 </div>
@@ -353,18 +696,18 @@ document.write('<SCR'+'IPT src="http://foreignpolicy.advertserve.com/servlet/vie
 <!-- PHOTO ESSAYS -->
                    <div id="photo-essay-wig">
                        <div class="gray_nav_opt" id="pe-hed"><img class="float-left" src="/sites/all/themes/fpmain/images/photo_ess_hed.gif"><span>
-                          <img src="/sites/all/themes/fpmain/images/arr-indent.gif">&nbsp;<a href="http://www.foreignpolicy.com/node/30067"><b class="fp_red">See All Photo Essays</b></a></span>
+                          <img src="/sites/all/themes/fpmain/images/arr-indent.gif">&nbsp;<a href="http://www.foreignpolicy.com/category/section/photo_essay"><b class="fp_red">See All Photo Essays</b></a></span>
                        </div>
                        <div id="pe-plate">
                	       <ul><div class="cp_tile ">
         <li>
-   <a href="http://www.foreignpolicy.com/articles/2010/06/28/the_long_haul"><img src="/files/fishermanslideRAILa.jpg"></a>
-   <p class="art_title"><a href="http://www.foreignpolicy.com/articles/2010/06/28/the_long_haul">The Long Haul: Fishermen Around the World</a></p>
+   <a href="http://www.foreignpolicy.com/articles/2011/05/04/war_dog"><img src="/files/resized110504_wardogs1.jpg"></a>
+   <p class="art_title"><a href="http://www.foreignpolicy.com/articles/2011/05/04/war_dog">War Dog</a></p>
 </li>
 
     <li>
-   <a href="http://www.foreignpolicy.com/articles/2010/06/21/postcards_from_hell"><img src="/files/postcardssiderail.jpg"></a>
-   <p class="art_title"><a href="http://www.foreignpolicy.com/articles/2010/06/21/postcards_from_hell">Postcards from Hell</a></p>
+   <a href="http://www.foreignpolicy.com/articles/2011/04/25/how_food_explains_the_world"><img src="/files/110424_foodexplains_pigsside.jpg"></a>
+   <p class="art_title"><a href="http://www.foreignpolicy.com/articles/2011/04/25/how_food_explains_the_world">10 Ways You Are What You Eat</a></p>
 </li>
 
 </div></ul>
@@ -373,7 +716,7 @@ document.write('<SCR'+'IPT src="http://foreignpolicy.advertserve.com/servlet/vie
                    <!-- END PHOTO ESSAYS --></div>
 
 <div>
-<!-- CURRENT ISSUE --><div class="cp_tile "><div class="view view-currentissue view-id-currentissue view-display-id-block_1 view-dom-id-4">
+<!-- CURRENT ISSUE --><div class="cp_tile "><div class="view view-currentissue view-id-currentissue view-display-id-block_1 view-dom-id-3">
     
   
   
@@ -381,29 +724,29 @@ document.write('<SCR'+'IPT src="http://foreignpolicy.advertserve.com/servlet/vie
         <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
     <div id="current-issue"> 
    <div id="issue-hed">
-       <img class="float-left" src="/sites/all/themes/fpmain/images/current_issue_hed.gif"><span>July/August 2010</span>
+       <img class="float-left" src="/sites/all/themes/fpmain/images/current_issue_hed.gif"><span>May/June 2011</span>
    </div> 
-   <a href="http://www.foreignpolicy.com/node/288511"><img src="http://ricks.foreignpolicy.com/files/COVER_FP_180_small.jpg" id="cover"></a> 
+   <a href="http://www.foreignpolicy.com/node/770931"><img src="http://www.foreignpolicy.com/files/cover186medpromo.jpg" id="cover"></a> 
    <ul id="iss_content"> 
        <li> 
             <p class="sec">
-               AN FP SPECIAL REPORT            </p> 
-            <p class="art"><a href="http://www.foreignpolicy.com/articles/2010/06/21/the_failed_states_index_2010">The 2010 Failed States Index</a></p> 
+               Cover Story            </p> 
+            <p class="art"><a href="http://www.foreignpolicy.com/articles/2011/04/25/the_new_geopolitics_of_food">The New Geopolitics of Food</a></p> 
        </li> 
        <li> 
             <p class="sec">
-               FEATURE            </p> 
-            <p class="art"><a href="http://www.foreignpolicy.com/articles/2010/06/21/night_of_the_living_wonks">Night of the Living Wonks</a></p> 
+               Feature            </p> 
+            <p class="art"><a href="http://www.foreignpolicy.com/articles/2011/04/25/the_ultimate_ally">America Needs Israel Now More Than Ever</a></p> 
        </li> 
        <li> 
             <p class="sec">
-               THINK AGAIN            </p> 
-            <p class="art"><a href="http://www.foreignpolicy.com/articles/2010/06/07/think_again_ronald_reagan">Ronald Reagan</a></p> 
+               Think Again            </p> 
+            <p class="art"><a href="http://www.foreignpolicy.com/articles/2011/04/25/think_again_dictators">Dictators</a></p> 
        </li> 
        <li style="background-image: none;"></li> 
        <div id="sub_link"> 
-            <p class="iss_link"><img src="/sites/all/themes/fpmain/images/arr-indent.gif">&nbsp;<a href="http://www.foreignpolicy.com/node/288511">See Entire Issue</a></p> 
-            <p class="iss_link"><img src="/sites/all/themes/fpmain/images/arr-indent.gif">&nbsp;<a href="http://www.foreignpolicy.com/node/288511">Preview Digital Edition</a></p> 
+            <p class="iss_link"><img src="/sites/all/themes/fpmain/images/arr-indent.gif">&nbsp;<a href="http://www.foreignpolicy.com/node/770931">See Entire Issue</a></p> 
+            <p class="iss_link"><img src="/sites/all/themes/fpmain/images/arr-indent.gif">&nbsp;<a href="http://www.zinio.com/express3?issn=0015-7228" target="_blank">Preview Digital Edition</a></p> 
        </div> 
    </ul> 
 </div>
@@ -425,6 +768,13 @@ document.write('<SCR'+'IPT src="http://foreignpolicy.advertserve.com/servlet/vie
                    <!-- END FP JOBS --></div>
 
 <div>
+<div id="WPL-CS-Widget"></div>
+<script type="text/javascript">
+  var adOptions = [{width: 'auto', height: 'auto', container: 'WPL-CS-Widget'}];
+</script>
+<script type="text/javascript" src="http://media3.washingtonpost.com/wp-srv/wapolabs/cdn/prod/1_3/js/rev_platform_ads_setup.js"></script></div>
+
+<div>
 <!-- START SLATE GROUP FEEDS -->
                      <div id="slate_box">
                         <a href="http://www.slate.com" target="_blank"><img src="http://www.foreignpolicy.com/images/slate_bar.png" border="0"></a>
@@ -437,17 +787,17 @@ document.write('<SCR'+'IPT src="http://foreignpolicy.advertserve.com/servlet/vie
     <ul>
           <li class="views-row views-row-1 views-row-odd views-row-first">  
   <div class="views-field-title">
-                <span class="field-content"><a href="http://www.slate.com/id/2258112/entry/0/?from=rss" target="_blank">Wild, weird, wonderful stories about the elements that make up our universe.</a></span>
+                <span class="field-content"><a href="http://www.slate.com/id/2296329/?from=rss" target="_blank">Ethanol subsidies: Do Iowans even care about them anymore?</a></span>
   </div>
 </li>
           <li class="views-row views-row-2 views-row-even">  
   <div class="views-field-title">
-                <span class="field-content"><a href="http://www.slate.com/id/2258112/entry/2258111/?from=rss" target="_blank">Wild, weird, wonderful stories about the elements that make up our universe.</a></span>
+                <span class="field-content"><a href="http://www.slate.com/id/2296463/?from=rss" target="_blank">Food television shows: MasterChef, The Next Food Network Star, and Rocco's Dinner Party reviewed.</a></span>
   </div>
 </li>
           <li class="views-row views-row-3 views-row-odd views-row-last">  
   <div class="views-field-title">
-                <span class="field-content"><a href="http://www.slate.com/id/2259548/?from=rss" target="_blank">"Wissahickon Schist"</a></span>
+                <span class="field-content"><a href="http://www.slate.com/id/2296446/?from=rss" target="_blank">Fired journalists take shots at their former bosses.</a></span>
   </div>
 </li>
       </ul>
@@ -460,43 +810,9 @@ document.write('<SCR'+'IPT src="http://foreignpolicy.advertserve.com/servlet/vie
   
 </div> </div><!-- END SLATE TEMPLATE -->
                      </div>
-                     <div id="big_money_box">
-                        <a href="http://www.thebigmoney.com" target="_blank"><img src="http://www.foreignpolicy.com/images/090504_big_money_banner.gif" border="0"></a>
-                        <!-- START BIG MONEY TEMPLATE --><div class="cp_tile "><div class="view view-newsfeedlist view-id-newsfeedlist view-display-id-block_1 view-dom-id-6">
-    
-  
-  
-      <div class="view-content">
-      <div class="item-list">
-    <ul>
-          <li class="views-row views-row-1 views-row-odd views-row-first">  
-  <div class="views-field-title">
-                <span class="field-content"><a href="http://feeds.thebigmoney.com/click.phdo?i=5f5e3935ca9655c5da30fcc557ea5b17" target="_blank">USPS Wants to Cut Saturday Deliveries to Save Money</a></span>
-  </div>
-</li>
-          <li class="views-row views-row-2 views-row-even">  
-  <div class="views-field-title">
-                <span class="field-content"><a href="http://feeds.thebigmoney.com/click.phdo?i=14f58611c5825283bb1962f92f0c7e62" target="_blank">Apple Finally Admits Antenna Glitches</a></span>
-  </div>
-</li>
-          <li class="views-row views-row-3 views-row-odd views-row-last">  
-  <div class="views-field-title">
-                <span class="field-content"><a href="http://feeds.thebigmoney.com/click.phdo?i=db99cbc76df0b586d5572676c2e45799" target="_blank">The Jetpacks Are Coming! The Jetpacks Are Coming!</a></span>
-  </div>
-</li>
-      </ul>
-</div>    </div>
-  
-  
-  
-  
-  
-  
-</div> </div><!-- END BIG MONEY TEMPLATE -->
-                     </div>
                      <div id="the_root_box">
                         <a href="http://www.theroot.com" target="_blank"><img src="http://www.foreignpolicy.com/images/090504_the_root_banner.gif" border="0"></a>
-                        <!-- START THE ROOT TEMPLATE --><div class="cp_tile "><div class="view view-newsfeedlist view-id-newsfeedlist view-display-id-block_1 view-dom-id-7">
+                        <!-- START THE ROOT TEMPLATE --><div class="cp_tile "><div class="view view-newsfeedlist view-id-newsfeedlist view-display-id-block_1 view-dom-id-6">
     
   
   
@@ -505,17 +821,17 @@ document.write('<SCR'+'IPT src="http://foreignpolicy.advertserve.com/servlet/vie
     <ul>
           <li class="views-row views-row-1 views-row-odd views-row-first">  
   <div class="views-field-title">
-                <span class="field-content"><a href="http://www.theroot.com/views/jazzinomics" target="_blank">Jazzonomics</a></span>
+                <span class="field-content"><a href="http://www.theroot.com/views/satoshi-kanazawa-glenn-beck-pseudoscience" target="_blank">Is Satoshi Kanazawa the Glenn Beck of Pseudoscience?</a></span>
   </div>
 </li>
           <li class="views-row views-row-2 views-row-even">  
   <div class="views-field-title">
-                <span class="field-content"><a href="http://www.theroot.com/views/essence-music-festival-vs-new-orleans" target="_blank">The Essence Music Festival vs. New Orleans</a></span>
+                <span class="field-content"><a href="http://www.theroot.com/buzz/gabrielle-union-responds-rihannas-man-down-video" target="_blank">Gabrielle Union Responds to Rihanna's 'Man Down' Video</a></span>
   </div>
 </li>
           <li class="views-row views-row-3 views-row-odd views-row-last">  
   <div class="views-field-title">
-                <span class="field-content"><a href="http://www.theroot.com/views/how-much-do-you-musicians-really-make" target="_blank">The Music Industry's Funny Money</a></span>
+                <span class="field-content"><a href="http://www.theroot.com/buzz/candorville-06-08-11-0" target="_blank">Candorville: Watch Your Words</a></span>
   </div>
 </li>
       </ul>
@@ -539,7 +855,7 @@ document.write('<SCR'+'IPT src="http://foreignpolicy.advertserve.com/servlet/vie
            
 <div>
 <!--paging_filter--><p><a href="http://twitter.com/FP_magazine" target="_blank"><b>Follow us on Twitter</b></a> | <a href="http://www.facebook.com/foreign.policy.magazine" target="_blank"><b>Visit us on Facebook</b></a> | <a href="http://www.foreignpolicy.com/node/33012"><b>Follow us on RSS</b></a> | <a href="https://www.cambeywest.com/subscribe/?p=frp&amp;f=paid&amp;s=I101AFSUB" target="_blank"><b>Subscribe to Foreign Policy</b></a></p>
-<p><a href="#"><strong>About FP:</strong></a> <a href="http://www.foreignpolicy.com/articles/meet_the_staff">Meet the Staff</a> | <a href="http://www.foreignpolicy.com/advertising/mag_international.php">Foreign Editions</a> | <a href="http://www.foreignpolicy.com/articles/reprint_permissions">Reprint Permissions</a> | <a href="http://www.foreignpolicy.com/advertising/">Advertising</a> | <a href="http://www.foreignpolicy.com/advertising/conferences.php">Corporate Programs</a> | <a href="http://www.foreignpolicy.com/articles/writers_guidelines">Writers’ Guidelines</a> | <a href="http://www.foreignpolicy.com/articles/press_room">Press Room</a> | <a href="http://www.foreignpolicy.com/articles/employment">Work at FP</a>
+<p><a href="http://www.foreignpolicy.com/about_us"><strong>About FP</strong></a> | <a href="http://www.foreignpolicy.com/articles/meet_the_staff">Meet the Staff</a> | <a href="http://www.foreignpolicy.com/advertising/mag_international.php">Foreign Editions</a> | <a href="http://www.foreignpolicy.com/articles/reprint_permissions">Reprint Permissions</a> | <a href="http://www.foreignpolicy.com/advertising/">Advertising</a> | <a href="http://www.foreignpolicy.com/advertising/conferences.php">Corporate Programs</a> | <a href="http://www.foreignpolicy.com/articles/writers_guidelines">Writers’ Guidelines</a> | <a href="http://www.foreignpolicy.com/articles/press_room">Press Room</a> | <a href="http://www.foreignpolicy.com/articles/employment">Work at FP</a>
 
         </p>
         
@@ -548,12 +864,12 @@ document.write('<SCR'+'IPT src="http://foreignpolicy.advertserve.com/servlet/vie
         <p><a href="http://www.foreignpolicy.com/articles/privacy_policy">Privacy Policy</a> | <a href="http://www.foreignpolicy.com/articles/disclaimer">Disclaimer</a> | <a href="http://www.foreignpolicy.com/articles/contact_us">Contact Us</a></p>
         <div align="center"><img src="http://www.foreignpolicy.com/images/spacer.gif" alt="" height="10" width="10"><a href="http://www.foreignpolicy.com"><img src="http://www.foreignpolicy.com/images/footer_logo.gif" alt="FP Logo" border="0" height="27" width="129"></a></div>
 
-        <p><br>
+          <p><br>
         1899 L Street NW, Suite 550 | Washington, DC 20036 | Phone: 202-728-7300 | Fax: 202-728-7342
         <br>
-        <a href="http://www.foreignpolicy.com">FOREIGN POLICY</a> is published by the Slate Group, a division of Washingtonpost.Newsweek Interactive, LLC
+        <a href="http://www.foreignpolicy.com">FOREIGN POLICY</a> is published by the Slate Group, a division of The Washington Post Company
         <br>
-        All contents ©2009 Washingtonpost.Newsweek Interactive, LLC. All rights reserved.
+        All contents ©2011 The Slate Group, LLC. All rights reserved.
         </p>
        <p>&nbsp;</p></div>
     </div> <!-- /#footer -->
@@ -575,6 +891,20 @@ document.write('<SCR'+'IPT src="http://foreignpolicy.advertserve.com/servlet/vie
       <img src="http://pixel.quantserve.com/pixel/p-5cYn7dCzvaeyA.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
     </noscript>
     <!-- End Quantcast tag -->
+	<!-- Begin comScore Tag -->
+	<script>
+	  var _comscore = _comscore || [];
+	  _comscore.push({ c1: "2", c2: "3005617" });
+	  (function() {
+	    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+	    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+	    el.parentNode.insertBefore(s, el);
+	  })();
+	</script>
+	<noscript>
+	  <img src="http://b.scorecardresearch.com/p?c1=2&c2=3005617&cv=2.0&cj=1" />
+	</noscript>
+	<!-- End comScore Tag -->
   
 <!-- SiteCatalyst code version: H.13. Copyright 1997-2007 Omniture, Inc. More info available at http://www.omniture.com -->
 <script type="text/javascript" language="JavaScript" src="http://blog.foreignpolicy.com/js/s_code.js"></script>
@@ -583,6 +913,7 @@ s.pageName="fp - /articles/privacy_policy";
 s.channel="fp - unknown";
 s.hier1="www | uncategorized";
 s.hier2="foreignpolicy.com | www | uncategorized";
+s.prop2="";
 s.prop3="article";
 s.prop5="";
 s.prop12="";
@@ -616,6 +947,38 @@ var pageTracker = _gat._getTracker("UA-6874192-1");
 pageTracker._trackPageview();
 } catch(err) {}</script>
 
+<!-- Chartbeat -->
+<script type="text/javascript">
+var _sf_async_config={uid:9250,domain:"foreignpolicy.com"};
+(function(){
+  function loadChartbeat() {
+    window._sf_endpt=(new Date()).getTime();
+    var e = document.createElement('script');
+    e.setAttribute('language', 'javascript');
+    e.setAttribute('type', 'text/javascript');
+    e.setAttribute('src',
+       (("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://static.chartbeat.com/") +
+       "js/chartbeat.js");
+    document.body.appendChild(e);
+  }
+  var oldonload = window.onload;
+  window.onload = (typeof window.onload != 'function') ?
+     loadChartbeat : function() { oldonload(); loadChartbeat(); };
+})();
+
+</script>
+
+<script type="text/javascript">
+    var headers = ['directory', 'blogs', 'channels', 'newsbriefs', 'latestarticles', 'latestposts'];
+    for(var i=0; i<headers.length; i++) {
+      jQuery("#" + headers[i]).hover(function() {
+	  jQuery('#' + this.id + '-box').fadeIn(150);
+	},
+	function() {
+	  jQuery('#' + this.id + '-box').fadeOut(150);
+	});
+    }
+</script>
   
 
-</body></html>
+<script language="javascript" type="text/javascript" src="https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/js/chartbeat.js"></script></body></html>
