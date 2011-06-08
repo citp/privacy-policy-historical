@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the data.gov privacy policy that was archived on 2010-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101217234637id_/http%3A//www.data.gov/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the data.gov privacy policy that was archived on 2011-06-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110608065950id_/http%3A//www.data.gov/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Data.gov - Privacy Policy</title>
@@ -9,19 +9,18 @@
 <meta name="robots" content="INDEX,FOLLOW">
 <meta name="REVISIT-AFTER" content="10 DAYS">
 <link rel="shortcut icon" href="/favicon.ico">
-
-<link type="text/css" rel="stylesheet" media="screen" href="/css/style.css?v=5c5">
-<link type="text/css" rel="stylesheet" media="print, handheld" href="/css/print.css?v=5c5">
-<!--[if lt IE 7]><link type="text/css" rel="stylesheet" href="/css/ie6.css?v=5c5"><![endif]-->
-<!--[if IE 7]><link type="text/css" rel="stylesheet" href="/css/ie7.css?v=5c5"><![endif]-->
-<link type="text/css" rel="stylesheet" media="all" href="/css/nav.css?v=5c5">
-<link type="text/css" rel="stylesheet" media="all" href="/css/tabs.css?v=5c5">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/js/jquery-1.4.4.min.js"></script>
+<link type="text/css" rel="stylesheet" media="screen" href="/css/style.css?v=5d13">
+<link type="text/css" rel="stylesheet" media="print, handheld" href="/css/print.css?v=5d13">
+<!--[if lt IE 7]><link type="text/css" rel="stylesheet" href="/css/ie6.css?v=5d13"><![endif]-->
+<!--[if IE 7]><link type="text/css" rel="stylesheet" href="/css/ie7.css?v=5d13"><![endif]-->
+<link type="text/css" rel="stylesheet" media="all" href="/css/nav.css?v=5d13">
+<link type="text/css" rel="stylesheet" media="all" href="/css/tabs.css?v=5d13">
 <link type="text/css" rel="stylesheet" media="all" href="/css/jquery.rating.css">
 <link type="text/css" rel="stylesheet" media="all" href="/thickbox/thickbox.css">
-<script type="text/javascript" src="/js/javascript.js?v=5c5"></script>
-<script type="text/javascript" src="/js/jquery-1.3.2.min.js"></script>
+<script type="text/javascript" src="/js/javascript.js?v=5d13"></script>
 <script type="text/javascript" src="/js/jquery-ui-1.7.1.custom.min.js"></script>
-<script type="text/javascript" src="/js/data.gov.js?v=5c5"></script>
+<script type="text/javascript" src="/js/data.gov.js?v=5d13"></script>
 <script type="text/javascript" src="/js/jquery.rating.js"></script>
 <script src="/js/dw_event.js" type="text/javascript"></script>
 <script src="/js/dw_cookies.js" type="text/javascript"></script>
@@ -55,28 +54,28 @@ dw_fontSizerDX.set(10, 9, 13, ['.privacy'] );
 dw_fontSizerDX.set(10, 9, 15, ['.footer'] );
 dw_Event.add( window, 'load', dw_fontSizerDX.init );
 </script>
-<script src="/thickbox/externallinks.js?v=5c5" type="text/javascript"></script>
+<script src="/thickbox/externallinks.js?v=5d13" type="text/javascript"></script>
 <script src="/thickbox/jquery-plugins.js" type="text/javascript"></script>
 <script src="/thickbox/jquery.thickbox.js" type="text/javascript"></script>
-<script src="/thickbox/jqfunctions.js?v=5c5" type="text/javascript"></script>
+<script src="/thickbox/jqfunctions.js?v=5d13" type="text/javascript"></script>
 <script src="/thickbox/jquery.jcarousel.pack.js" type="text/javascript"></script>
 <script>
 $(document).ready(
 		function() {
             message = "Search our catalogs..";
-			$('form[action="http://search.usa.gov/search"]').submit(function(){
-				obj = $('form[action="http://search.usa.gov/search"] input[name="query"]')
+			$('#usagov-search').submit(function(){
+				obj = $('#usagov-search input[name="q"]')
 				if(obj.val()==message || obj.val()==''){
 					obj.val("");
 					return true;
 				}
 			});
-			$('form[action="http://search.usa.gov/search"] input[name="query"]').focus(function(){
+			$('#usagov-search input[name="q"]').focus(function(){
 				if($(this).val()== message){
 					$(this).val("");
 				};
 			});
-			$('form[action="http://search.usa.gov/search"] input[name="query"]').blur(function(){
+			$('#usagov-search input[name="q"]').blur(function(){
 				if($(this).val()==''){
 				    $(this).val(message);
 				}
@@ -128,11 +127,10 @@ $(document).ready(
 </div>
 <div class="logo-pad">
 	<div class="logo ">
-<a href="/"><img src="/images/logo.gif" width="232" height="55" border="0" alt="Data.gov - Empowering People; Go to Data.gov home page" class="logo-img"></a>
-		<form action="http://search.usa.gov/search" method="get">
+<a href="/"><img src="/images/logo.png" width="208" height="55" border="0" alt="Data.gov - Empowering People; Go to Data.gov home page" class="logo-img"></a>
+    	<form action="http://explore.data.gov/browse" method="get" id="usagov-search">
 		<label class="hidden-offscreen" for="search-query">Text to search for</label>
-		<input type="text" class="text" name="query" id="search-query" value="Search our catalogs..">
-		<input type="hidden" name="affiliate" value="datagov">
+		<input type="text" class="text" name="q" id="search-query" value="Search our catalogs..">
 		<input type="image" class="search" src="/images/search.jpg" width="104" height="28" alt="Search Data.gov catalogs">
 		</form>
 	</div>
@@ -146,19 +144,19 @@ $(document).ready(
 	<div class="nav">
 		<ul class="nice-menu">
 			<li class="first"><a href="/" title="Data.gov home" id="active-home">Home</a></li>
-			<li class="has-items"><a href="/catalog" title="Browse our catalogs" id="active-directory">Data</a>
+			<li class="has-items"><a href="http://explore.data.gov/" title="Browse our catalogs" id="active-directory">Data</a>
 			<ul class="sub-menu">
-				<li class="wide">
-				<a href="/catalog/raw" title="View raw data catalog">Raw Data Catalog</a>
-				<a href="/catalog/geodata" title="View geodata catalog">Geodata Catalog</a>
+				<li class="narrow">
+				<a href="http://explore.data.gov/catalog/raw/" title="Explore raw data">Raw Data</a>
+				<a href="/catalog/geodata" title="View geodata catalog">Geodata</a>
 				</li>
 			</ul></li>
-			<li><a href="/catalog/tools" title="View tool catalog" id="active-tools">Tools</a></li>
-			<li><a href="/community" title="Data.gov community">Community</a></li>
+			<li><a href="http://explore.data.gov/catalog/apps/" title="View apps and tools">Apps</a></li>
+			<li><a href="/communities" title="Data.gov communities">Community</a></li>
 			<li><a href="/metric" title="View Data.gov metrics" id="active-metric">Metrics</a></li>
-			<li><a href="/dialogue" title="Join the Dialogue" id="active-dialogue">Dialogue</a></li>
+			<li><a href="/opendatasites" title="Open data sites" id="active-community">Open Data Sites</a></li>
 			<li><a href="/pastfeatureddatasets" title="Gallery of previously highlighted datasets" id="active-gallery">Gallery</a></li>
-			<li class="last"><a href="/whatsnew" title="What is new at Data.gov - Updated on December 14, 2010" id="active-whatsnew">What's New <img src="/images/nav-updated.gif" width="36" height="9" border="0" class="nav-updated" alt="Updated on December 14, 2010"></a></li>
+			<li class="last"><a href="/whatsnew" title="What is new at Data.gov - Updated on March 14, 2011" id="active-whatsnew">What's New</a></li>
 		</ul>
 	</div>
 </div>
@@ -166,29 +164,274 @@ $(document).ready(
 <div class="content-pad-outer">
 <div class="content-pad">
 <div class="content ">
-  <h1>Privacy Policy</h1>
-  <p>Data.gov is committed to protecting the privacy and security of visitors to this website. Outlined below is the Data.gov online privacy policy. If you have questions about this policy, <a href="contact">please let us know.</a> </p>
-  <p><strong>Collection and disclosure of information:</strong>  In order for us to communicate effectively with visitors to Data.gov, providing your email address is optional to allow feedback. If you provide an email address on any of the text boxes available on this website (i.e., "Comment on this Data", "Contact Us", "Suggest a Dataset"), your email address will not be stored or retrieved by the Data.gov system. A Privacy Impact Assessment (PIA) was completed stating that Personally Identifiable Information (PII) will not be collected on the Data.Gov system; therefore, a system of records notice (SORN) is not required. Email addresses received on the aforementioned forms are directed to a federally managed email system, which meets all appropriate requirements. The Information Collection approval number for Data.gov is 3090-0284.</p>
-  <p><strong>Online Comments and Personal Information:</strong> Any comments you provide are categorized as public information. Compilations of your comments may be provided to national leaders (without email address) and other individuals participating in Data.gov efforts. Comments may also be made available online to the public without the use of any optionally provided email addresses. </p>
-  <p><strong>Browser information collected on the web site:</strong> Ratings of datasets are collected to track the usefulness of certain datasets and improve the value of Data.gov. Data.gov does not gather, request, record, require, collect or track any Internet users' personal information through these processes.</p>
-  <p><strong>Cookies:</strong> A cookie is a tiny piece of data stored by a user's browser that helps a website or service recognized that user's unique computer. You can remove or block cookies by changing the settings of your browser.</p>
-  <p>Session specific cookies may be used on Data.gov to improve the user experience and for basic web metrics. These cookies expire in a very short time frame or when a browser window closes and are permitted by current Federal guidelines.</p>
-  <p>The Federal Government has <a href="http://www.whitehouse.gov/omb/memoranda/m03-22.html#20" target="_blank">guidelines for the use of persistent cookies</a>. The goals of the guidelines are to enable the useful functioning of Federal websites while protecting individual privacy. Data.gov does not use persistent cookies. </p>
-  <p><strong>Children's privacy:</strong> Data.gov complies with the <a href="http://www.ftc.gov/ogc/coppa1.htm" target="_blank">Children's Online Privacy Protection Act of 1998</a> (COPPA) that helps to protect the safety and privacy of children online. COPPA and its accompanying FTC regulation constitutes United States Federal law that protects the privacy of children using the Internet. Personal information from children under 13 is not knowingly collected, nor are children under 13 knowingly contacted by Data.gov. Data.gov does not intend to solicit information of any kind from children under 13. It is possible that Data.gov may receive emails pertaining to children under 13. If Data.gov is notified of this, as soon as the information is verified, parental consent will be immediately obtained or the email will be deleted from the email box servicing Data.gov.</p>
-  <p><strong>Security:</strong> A variety of physical, electronic and procedural safeguards are maintained to protect information. For example, commercially reasonable tools and techniques are used to protect against unauthorized access to Data.gov systems. Data.gov has been Certified and Accredited (C&amp;A) by the General Services Administration (GSA). Also, access to email received is restricted to those who need such access in the course of their duties for Data.gov. </p>
-  <p><strong>Linking: </strong>Data.gov may contain links to websites created and maintained by other public and/or private organizations. Data.gov provides these links as a service to our users. When users link to an outside website, they are leaving the Data.gov site and are subject to the privacy and security policies of the owners/sponsors of the outside website(s). The Data.gov linking policy is the same as the <a href="http://www.usa.gov/About/Linking_Policy.shtml" title="USA.gov Linking Policy" target="_blank">USA.gov Linking Policy</a>.</p>
-  <p><strong>Changes to this policy</strong>: The Data.gov privacy policy will be revised or updated if practices change, or if better ways to keep you informed are developed. You should refer to this page often for the latest information and the effective date of any changes. If changes are made to this policy, a new policy will be posted on our site and the date at the bottom of the page will be updated. Changes to the policy will not apply retroactively.<br>
-  <br>
-    If you have any questions or concerns, please <a href="/contact">contact us.</a></p>
-    <p>May 21, 2009</p>
+<h1>Privacy Policy</h1>
+<p>
+Data.gov is committed to protecting the privacy and security of visitors 
+to this website. Data.gov does not collect personal information when you 
+visit our website unless you choose to provide that information.  Outlined 
+below is the Data.gov online privacy policy. If you have questions about 
+this policy, 
+<a href="/contact">please let us know</a>.
+</p>
+<h2>
+Information Collected and Stored Automatically
+		</h2>
+<div class="indented">
+
+<p>
+When you visit Data.gov, we may store some or all of the following: the 
+Internet address from which you access Data.gov, date and time, the Internet 
+address of the website from which you linked to Data.gov, the name of the 
+file or words you searched, items clicked on a page, and the browser and 
+operating system used.
+</p>
+<p>
+This information is used to measure the number of visitors to the various 
+sections of our site and identify system performance or problem areas. We 
+also use this information to help us develop the site, analyze patterns of 
+usage, and to make the site more useful. This information is not used for 
+associating search terms or patterns of site navigation with individual users. 
+Data.gov periodically deletes its Web logs. On occasion, Data.gov may provide 
+this information to third party entities it contracts with for the purposes 
+of research analysis.
+</p>
+		</div>
+<h2>
+Cookies
+		</h2>
+<div class="indented">
+
+<p>
+When you visit some websites, their web servers generate pieces of information 
+known as cookies. Cookies are commonly used to recognize your computer in the future.
+</p>
+<p>
+Data.gov uses per-session cookies to serve technical purposes, like providing 
+seamless navigation through Data.gov. These cookies do not permanently record 
+data and they are not stored on your computer’s hard drive. Data.gov’s 
+session cookies are available only during an active browser session. 
+When you close your browser, the session cookie disappears.
+</p>
+<p>
+Data.gov also uses persistent cookies to be able to track the number of unique visitors to the site.
+</p>
+<p>
+Users can choose to disable cookies using their web browsers.  It will not 
+affect their ability to search for, review and retrieve data on the site.
+</p>
+		</div>
+<h2>
+Personal Information
+		</h2>
+<div class="indented">
+
+<p>
+Users are NOT required to provide any information to search, retrieve, download, 
+filter and otherwise use the data available on Data.gov.  There are some optional 
+uses of Data.gov that require a user account.  They include participation in some 
+Data.gov Communities, commenting on blog posts or datasets, suggesting datasets, 
+and saving specific views created by the user on the Data.gov platform.  If you 
+choose to use these options, you need to create a user account by providing an 
+email address and user name.  Email addresses are not made public  and are
+used for authentication only. 
+If you choose to provide us with personal 
+information—like filling out a <a href="/contact">Contact us</a> form 
+with an email address and submitting it to us through the website—we 
+use that information to respond to your message, and to help get you the 
+information you requested. 
+Your email address will not be stored or retrieved by Data.gov. 
+We only share the information you give us with 
+another government agency if your question relates to that agency, or as 
+otherwise required by law. Data.gov never collects information or creates 
+individual profiles for commercial marketing.
+</p>
+<p>
+While you must provide an email address and user name for the optional uses of Data.gov, 
+you should NOT include any other personal 
+information, especially 
+<a href="http://www.ssa.gov/pubs/10002.html#protect">Social Security numbers</a>.
+</p>
+<p>
+Data.gov is NOT a Privacy Act System of Record.  Submission of any information is 
+voluntary, and the collection of email addresses is being done purely for the purpose of authentication.
+</p>
+		</div>
+<h2>
+User Profiles and Online Comments
+		</h2>
+<div class="indented">
+
+<p>
+Users creating accounts can pick any user name.  It does not have to be the user’s 
+real name or email address.  Users have the option of uploading additional information 
+such as an image, location, tags, and other social profiles.  Providing additional information is entirely voluntary.
+</p>
+<p>
+Any comments you provide are categorized as public information. Compilations 
+of your comments may be provided to national leaders (without email address) 
+and other individuals participating in Data.gov efforts. Comments may also be 
+made available online to the public without the use of any optionally provided 
+email addresses, but with the user name.
+</p>
+		</div>
+<h2>
+Browser Information Collected on the Website
+		</h2>
+<div class="indented">
+
+<p>
+Ratings of datasets are collected to track the usefulness of certain datasets 
+and improve the value of Data.gov. Data.gov does not gather, request, record, 
+require, collect or track any Internet users’ personal information 
+through these processes.
+</p>
+		</div>
+<h2>
+Site Security
+		</h2>
+<div class="indented">
+
+<p>
+For site security purposes and to ensure that this service remains available 
+to all users, this government computer system employs commercial software 
+programs to monitor network traffic to identify unauthorized attempts to 
+upload or change information, or otherwise cause damage.
+</p>
+<p>
+Except for authorized law enforcement investigations, no other attempts are 
+made to identify individual users or their usage habits. Raw data logs are 
+used for no other purposes and are scheduled for regular destruction in 
+accordance with National Archives and Records Administration guidelines.
+</p>
+<p>
+Unauthorized attempts to upload information or change information on this 
+service are strictly prohibited and may be punishable under the Computer 
+Fraud and Abuse Act of 1986 and the National Information Infrastructure 
+Protection Act. 
+</p>
+<p>
+A variety of physical, electronic and procedural safeguards are maintained 
+to protect information. For example, commercially reasonable tools and 
+techniques are used to protect against unauthorized access to Data.gov 
+systems. Data.gov has been Certified and Accredited (C&amp;A) by the General 
+Services Administration (GSA). Also, access to email received is restricted 
+to those who need such access in the course of their duties for Data.gov.
+</p>
+		</div>
+<h2>
+External Links
+		</h2>
+<div class="indented">
+
+<p>
+Data.gov may contain links to websites created and maintained by other 
+public and/or private organizations. Data.gov provides these links as a 
+service to our users. When users link to an outside website, they are leaving 
+the Data.gov site and are subject to the privacy and security policies of 
+the owners/sponsors of the outside website(s). You are encouraged to 
+familiarize yourself with these policies. The Data.gov linking policy 
+is the same as the 
+<a href="http://www.usa.gov/About/Linking_Policy.shtml">USA.gov Linking Policy</a>.
+</p>
+		</div>
+<h2>
+Children’s Privacy
+		</h2>
+<div class="indented">
+
+<p>
+Data.gov complies with the 
+<a href="http://www.ftc.gov/ogc/coppa1.htm">Children’s Online Privacy Protection Act of 1998</a> 
+(COPPA) that helps to protect the safety and privacy of children online. 
+COPPA and its accompanying FTC regulation constitute United States Federal 
+law that protects the privacy of children using the Internet. Personal 
+information from children under 13 is not knowingly collected, nor are 
+children under 13 knowingly contacted by Data.gov. Data.gov does not intend 
+to solicit information of any kind from children under 13. It is possible 
+that Data.gov may receive emails pertaining to children under 13. If 
+Data.gov is notified of this, as soon as the information is verified, 
+parental consent will be immediately obtained or the email will be deleted 
+from the email box servicing Data.gov.
+</p>
+		</div>
+<h2>
+Prohibitions
+		</h2>
+<div class="indented">
+
+<p>
+Data.gov will not link to any website that exhibits hate, bias, or 
+discrimination. Data.gov reserves the right to deny or remove any link that 
+contains misleading information or unsubstantiated claims, or is determined 
+to be in conflict with Data.gov’s policies.
+</p>
+		</div>
+<h2>
+Disclaimer of Endorsement
+		</h2>
+<div class="indented">
+
+<p>
+The information posted on the Data.gov website includes hypertext links or 
+pointers to information created and maintained by other public and/or private 
+organizations. Data.gov provides these links and pointers solely for our 
+users’ information and convenience. When users select a link to an 
+outside website, they are leaving the Data.gov site and are subject to the 
+privacy and security policies of the owners or sponsors of the outside website.
+</p>
+<ul>
+<li>
+The General Services Administration (GSA) and Data.gov <strong>do not</strong> 
+control or guarantee the accuracy, relevance, timeliness, or completeness of 
+information contained on a linked website.
+</li>
+<li>
+GSA and Data.gov <strong>do not</strong> endorse the organizations sponsoring 
+linked websites and we <strong>do not</strong> endorse the views they 
+express or the products or services they offer.
+</li>
+<li>
+GSA and Data.gov <strong>cannot</strong> authorize the use of copyrighted 
+materials contained in linked websites. Users must request such authorization 
+from the sponsor of the linked website.
+</li>
+<li>
+GSA and Data.gov <strong>are not</strong> responsible for transmissions 
+users receive from linked websites.
+</li>
+<li>
+GSA and Data.gov <strong>do not</strong> guarantee that outside websites 
+comply with Section 508 (accessibility requirements) of the Rehabilitation Act.
+</li>
+</ul>
+		</div>
+<h2>
+Changes to this Policy
+		</h2>
+<div class="indented">
+
+<p>
+The Data.gov privacy policy will be revised or updated if practices change, 
+or if better ways to keep you informed are developed. You should refer to 
+this page often for the latest information and the effective date of any 
+changes. If changes are made to this policy, a new policy will be posted on 
+our site and the date at the bottom of the page will be updated. Changes to 
+the policy will not apply retroactively.
+</p>
+<p>
+The <a href="http://www.gsa.gov/portal/content/102237">full Privacy Impact Assessment for Data.gov</a> is available on GSA.gov.
+</p>
+<p>
+If you have any questions or concerns, please 
+<a href="/contact">contact us</a>.
+</p>
+		</div>
 <div class="clear">&nbsp;</div>
 </div>
 </div>
 </div>
 <div class="footer-pad">
 	<div class="footer">
-		<a href="/"><img src="/images/logo-small.gif" alt="Data.gov" width="65" height="13" align="bottom"></a>
-		&nbsp;&nbsp;
 		<a href="/about" title="About Data.gov">About</a> |
 		<a href="/faq" title="Frequently Asked Questions">FAQ</a> |
 		<a href="/contact" title="Contact Info">Contact Info</a> |
@@ -196,6 +439,8 @@ $(document).ready(
 		<a href="/accessibility" title="Accessibility">Accessibility</a> |
 		<a href="/privacypolicy" title="Privacy Policy">Privacy Policy</a> |
 		<a href="/sitemap.html" title="Sitemap">Sitemap</a>
+		<br>
+		<img src="/images/logo_gs.png" width="197" height="47" alt="Data.gov">
 		<br>
 			</div>
 </div>
@@ -209,6 +454,20 @@ $(document).ready(
 	</div>
 	<div align="center"><b>We hope your visit was informative and enjoyable.</b></div>
 </div>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-17367410-17']);
+  _gaq.push(['_setDomainName', '.data.gov']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
 
 
 </body></html>
