@@ -1,0 +1,889 @@
+<!--The following is the downloaded HTML source of the eurotunnel.com privacy policy that was archived on 2011-06-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110608025137id_/http%3A//www.eurotunnel.com/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml" lang="en"><head><meta scheme="a1afcc517bec909bf5c3fddea7c83c3d" name="TS345a95" content="ee733357e34feb4f"><!--9cc5da25f89a21d1fbb5ffa18da0bb73--><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/uploadedFiles/resources/js-lib/Google-analytics/et_xtrtrkr.js?1613"></script><script type="text/javascript">if(window.addEventListener){window.addEventListener("load",fetchcsloader,false);}else{if(window.attachEvent){window.attachEvent("onload",fetchcsloader);}else{onload=fetchcsloader;}}
+var jsepee={};jsepee['ILLEGAL_VALUE']=0xffff;jsepee['DEFAULT_PORT']="80";var e=document.getElementsByTagName('meta');jsepee['CSHUI_RANDOM_DATA_NODE']=null;for(var i=0;i<e.length;i++){if(e[i].getAttribute('scheme')&&e[i].getAttribute('scheme')==='a1afcc517bec909bf5c3fddea7c83c3d'){jsepee['CSHUI_RANDOM_DATA_NODE']=e[i];}}
+if(jsepee['CSHUI_RANDOM_DATA_NODE']!==undefined&&jsepee['CSHUI_RANDOM_DATA_NODE']!==null){jsepee['CSHUI_COOKIE_NAME']=jsepee['CSHUI_RANDOM_DATA_NODE'].getAttribute('name')+'_77';jsepee['CSHUI_COOKIE_VALUE_TRUE']='true'+'_'+jsepee['CSHUI_RANDOM_DATA_NODE'].getAttribute('content');jsepee['CSHUI_MONITOR_KEYBOARD']=true;jsepee['CSHUI_MONITOR_MOUSE']=true;}
+jsepee['CSHUI_MOUSEMOVE_EVENTS_TARGET']=3;jsepee['CSHUI_MOUSEMOVE_MAX_EVENTS']=1024;jsepee['CSHUI_MOUSEMOVE_EVENTS_COUNTER']=0;jsepee['CSHUI_MOUSEMOVE_LAST_X_LOCATION']=0;jsepee['CSHUI_MOUSEMOVE_LAST_Y_LOCATION']=0;jsepee['CSHUI_MOUSEMOVE_IS_CONTINUOUS']=0;jsepee['CSHUI_KEYBOARD_EVENTS_TARGET']=1;jsepee['CSHUI_KEYBOARD_EVENTS_COUNTER']=0;jsepee.new_url=function(){return{'literal':"",'methodId':this.method2id("GET"),'host':"",'port':"",'protocolId':"",'path':"",'fileExtension':"",'parameters':[]};};jsepee.new_das_item=function(){return{'page':{'URL':this.new_url(),'referrer':this.new_url(),'characterEncoding':"UTF-8",'cookie':[]},'links':{},'forms':{},'cshui':'false'+'_'+jsepee['CSHUI_RANDOM_DATA_NODE'].getAttribute('content')};};jsepee.new_das=function(){return{};};jsepee['das']=jsepee.new_das();jsepee.protocol2id=function(protocol){if(protocol=="http:"){return 0;}else if(protocol=="https:"){return 1;}
+return this.ILLEGAL_VALUE;};jsepee.get_file_extension=function(path){var lastIndexOfSlash=path.lastIndexOf("/");var file="";if(lastIndexOfSlash<0){file=path;}else{file=path.substring(lastIndexOfSlash+1);}
+var lastIndexOfDot=file.lastIndexOf(".");var ext="";if(lastIndexOfDot>=0){ext=file.substring(lastIndexOfDot+1);}
+return ext;};jsepee.extract_parameters_from_query_string=function(search){if(!search){return[];}
+var item=search.substring(1).split("&");var params=[];for(var i=0;i<item.length;++i){var pair=item[i].split("=");params.push({name:pair[0],value:decodeURIComponent(pair[1])});}
+return params;};jsepee.get_parsed_url=function(a){return{'literal':a.href,'host':a.host,'port':a.port||this['DEFAULT_PORT'],'protocolId':this.protocol2id(a.protocol),'path':a.pathname,'fileExtension':this.get_file_extension(a.pathname),'parameters':this.extract_parameters_from_query_string(a.search)};};jsepee.is_relative_url=function(u){return/^\w+:/.test(u)===false;
+};
+
+jsepee.parse_url = function(w,nu){
+ var a = w.document.createElement("a");
+ a.href = nu;
+ var parsed_url = this.get_parsed_url(a);
+ if (this.is_relative_url(parsed_url.literal)){
+  a.href = this.url2abs(w,nu);
+ }
+ parsed_url = this.get_parsed_url(a);
+ return parsed_url;
+};
+
+jsepee.update_page_URL = function(w) {
+ var this_page = this['das'][w.location.href];
+ var this_URL = this_page['page']['URL'];
+ this_URL['literal']= w.location.href;
+ this_URL['host']= w.location.host;
+ this_URL['port']= w.location.port || this['DEFAULT_PORT'];
+ this_URL['protocolId']= this.protocol2id(w.location.protocol);
+ this_URL['path']= w.location.pathname;
+ this_URL['fileExtension']= this.get_file_extension(this_URL['path']);
+ this_URL['_parameters']= this.extract_parameters_from_query_string(w.location.search);
+ return this;
+};
+
+jsepee.update_page_referrer = function(w) {
+ var r = this.parse_url(w,w.document.referrer);
+ var this_page = this['das'][w.location.href];
+ var this_referrer = this_page['page']['referrer'];
+ this_referrer['literal'] = r['literal'];
+ this_referrer['host'] = r['host'];
+ this_referrer['port'] = r['port'] || this['DEFAULT_PORT'];
+ this_referrer['protocolId'] = r['protocolId'];
+ this_referrer['path'] = r['path'];
+ this_referrer['fileExtension'] = r['fileExtension']; 
+ this_referrer['parameters'] = r['parameters']; 
+
+ return this;
+};
+
+jsepee.update_page_characterEncoding = function(w) {
+ var ce = w.document.characterSet;
+ if (!w.document.characterSet) {
+  ce=w.document.charset;
+  if (!w.document.charset) {
+   ce = w.document.defaultCharset;
+  }
+ }
+ if (!ce) {
+  ce = "JSEPEE could not identify character encoding";
+ }
+ var this_page = this['das'][w.location.href];
+ this_page.page.characterEncoding = ce;
+ return this;
+};
+
+jsepee.is_cookie_enabled = function(w) {
+ if (typeof w.document.cookie == "string"){
+  if (w.document.cookie.length != 0){
+   return true;
+  }
+  w.document.cookie = 'test';
+  var is_cookie_enabled = w.document.cookie == 'test';
+  w.document.cookie = "";
+  return is_cookie_enabled;
+ }
+ return false;
+};
+
+jsepee.extract_cookies = function(w) {
+ var my_cookies = w.document.cookie || window.document.cookie || document.cookie;
+ var cookies = [];
+ var chunk = my_cookies.split(/\s*;\s*/);for(var i=0;i<chunk.length;++i){var pair=chunk[i].split(/\s*=\s*/);var cookie_name=pair[0];var cookie_value=pair.slice(1,pair.length).join('');cookies.push({name:cookie_name,value:cookie_value});}
+return cookies;};jsepee.update_page_cookies=function(w){if(this.is_cookie_enabled(w)===false){return this;}
+var this_page=this['das'][w.location.href];this_page.page.cookie=this.extract_cookies(w);return this;};jsepee.update_page=function(w){this.update_page_URL(w).update_page_referrer(w).update_page_characterEncoding(w).update_page_cookies(w);return this;};jsepee.update_parsed_url=function(w,pu){if(!this['das'][w.location.href]['links'].hasOwnProperty(pu['literal'])){this['das'][w.location.href]['links'][pu['literal']]={'literal':pu['literal'],'methodId':this.method2id("GET"),'host':pu['host'],'port':pu['port']||this[DEFAULT_PORT],'protocolId':pu['protocolId'],'path':pu['path'],'fileExtension':pu['fileExtension'],'parameters':pu['parameters']};}
+return this;};jsepee.get_html_url_sources=function(){return{"a":["href"],"applet":["code","codebase"],"area":["href"],"bgsound":["src"],"body":["background"],"embed":["src"],"frame":["longdesc","src"],"head":["profile"],"iframe":["longdesc","src"],"img":["longdesc","src","usemap"],"input":["action","src","usemap"],"link":["href"],"object":["codebase","data","usemap"],"script":["src"],"td":["background"]};};jsepee.update_links=function(w){var link=this.get_html_url_sources();for(var t in link){if(link.hasOwnProperty(t)===false){continue;}
+var node=w.document.getElementsByTagName(t);for(var i=0;i<node.length;++i){for(var j=0;j<link[t].length;++j){var n=node[i];var url=n.getAttribute(link[t][j]);if(url){this.update_parsed_url(w,this.parse_url(w,url));}}}}
+return this;};jsepee.make_form_key=function(index,action,method){return index+"|"+action+"|"+method;};jsepee.resolve_form_action_url=function(w,indx){if(w.document.forms[indx].getAttribute('action')===undefined){return w.location.href;}
+var u=w.document.forms[indx].getAttribute('action');var parsed_url=this.parse_url(w,u);return parsed_url.literal;};jsepee.resolve_form_method=function(w,indx){return w.document.forms[indx].getAttribute('method')?w.document.forms[indx].getAttribute("method").toUpperCase():"GET";};jsepee.parameter_type_enumeration={"time":0,"button":1,"checkbox":2,"file":3,"hidden":4,"image":5,"password":6,"radio":7,"submit":8,"text":9,"textarea":10,"option":11,"select":11,"select-multiple":11,"select-one":11,"range":12,"color":13,"search":14,"month":15,"url":16,"week":17,"datetime":18,"reset":19,"email":20,"number":21,"datetime-local":22,"date":23};jsepee.parameter_type2id=function(pt){if(this.parameter_type_enumeration.hasOwnProperty(pt)){return this.parameter_type_enumeration[pt];}
+return this.ILLEGAL_VALUE;};jsepee.make_parameter_key=function(parameter_name,parameter_type_id){return parameter_name+"|"+parameter_type_id;};jsepee.update_form_parameters=function(page_form,das_form){for(var i=0;i<page_form.elements.length;++i){var e=page_form.elements[i];var pname=e.name;if(pname===undefined){pname='';}
+var p={'name':pname,'type':e.type,'typeId':this.parameter_type2id(e.type.toLowerCase()),'value':{}};var pvalue='IF YOU SEE THIS VALUE THEN YOU HAVE A JSEPEE BUG';if(e.tagName=="INPUT"||e.tagName=="TEXTAREA"){pvalue=e.value;if(pvalue===undefined){pvalue='';}
+p.value[pvalue]=pvalue;}else{for(var j=0;j<e.options.length;++j){pvalue=e.options[j].value;if(pvalue===undefined){pvalue="";}
+p.value[pvalue]={pvalue:pvalue};}}
+var parameter_key=this.make_parameter_key(p['name'],p['typeId']);p.parameter_key=parameter_key;if(!das_form['parameters'].hasOwnProperty(parameter_key)){das_form['parameters'][parameter_key]=p;}else{for(var v in p['value']){if(!p['value'].hasOwnProperty(v)){continue;}
+das_form['parameters'][parameter_key]['value'][v]={v:v};}}}};jsepee.method_enumeration={"GET":1,"POST":2,"OPTIONS":3,"HEAD":4,"PUT":5,"DELETE":6,"TRACE":7,"CONNECT":8,"PROPPATCH":9,"ACL":10,"PROPFIND":11,"COPY":12,"MOVE":13,"LOCK":14,"MKCOL":15,"UNLOCK":16,"CHECKOUT":17,"CHECKIN":18,"REPORT":19,"VERSION_CONTROL":20,"MERGE":21};jsepee.method2id=function(http_method){if(this.method_enumeration.hasOwnProperty(http_method)){return this.method_enumeration[http_method];}
+return ILLEGAL_VALUE;};jsepee.update_forms=function(w){var f=this['das'][w.location.href]['forms'];for(var i=0;i<w.document.forms.length;++i){var action=this.parse_url(w,this.resolve_form_action_url(w,i));var method=this.resolve_form_method(w,i);var methodId=this.method2id(method);action['methodId']=methodId;var form_key=this.make_form_key(i,action['literal'],method);if(!f.hasOwnProperty(form_key)){f[form_key]={'methodId':methodId,'action':action,'parameters':{},'form_key':form_key};}
+this.update_form_parameters(w.document.forms[i],f[form_key]);}
+return this;};jsepee.traverse=function(w){this.update_links(w).update_forms(w);return this;};jsepee.implant_human_user_activity_indicator_event_listeners=function(w){var that=this;this.log_mousemove_event=function(e){that.das[w.location.href].cshui=jsepee['CSHUI_COOKIE_VALUE_TRUE'];that.update_cshui_cookie(w);if(that['CSHUI_MONITOR_MOUSE']){if(w.document.removeEventListener){w.document.removeEventListener('mousemove',that.log_mousemove_event,false);}else if(w.document.detachEvent){w.document.detachEvent("on"+'mousemove',that.log_mousemove_event);}else{w['on'+'mousemove']=null;}}
+if(that['CSHUI_MONITOR_KEYBOARD']){if(w.document.removeEventListener){w.document.removeEventListener('keypress',that.log_keyboard_event,false);}else if(w.document.detachEvent){w.document.detachEvent("on"+'keypress',that.log_keyboard_event);}else{w['on'+'keypress']=null;}}
+return;};this.log_keyboard_event=function(e){if(that.das[w.location.href].cshui==that['CSHUI_COOKIE_VALUE_TRUE']){return;}
+that['CSHUI_KEYBOARD_EVENTS_COUNTER']++;if(that['CSHUI_KEYBOARD_EVENTS_TARGET']<=that['CSHUI_KEYBOARD_EVENTS_COUNTER']){that.das[w.location.href].cshui=jsepee['CSHUI_COOKIE_VALUE_TRUE'];that.update_cshui_cookie(w);if(that['CSHUI_MONITOR_MOUSE']){if(w.document.removeEventListener){w.document.removeEventListener('mousemove',that.log_mousemove_event,false);}else if(w.document.detachEvent){w.document.detachEvent("on"+'mousemove',that.log_mousemove_event);}else{w['on'+'mousemove']=null;}}
+if(that['CSHUI_MONITOR_KEYBOARD']){if(w.document.removeEventListener){w.document.removeEventListener('keypress',that.log_keyboard_event,false);}else if(w.document.detachEvent){w.document.detachEvent("on"+'keypress',that.log_keyboard_event);}else{w['on'+'keypress']=null;}}}};if(this['CSHUI_MONITOR_MOUSE']){if(w.document.addEventListener){w.document.addEventListener('mousemove',this.log_mousemove_event,false);}else if(w.document.attachEvent){w.document.attachEvent("on"+'mousemove',this.log_mousemove_event);}else{w['on'+'mousemove']=this.log_mousemove_event;}}
+if(this['CSHUI_MONITOR_KEYBOARD']){if(w.document.addEventListener){w.document.addEventListener('keypress',this.log_keyboard_event,false);}else if(w.document.attachEvent){w.document.attachEvent("on"+'keypress',this.log_keyboard_event);}else{w['on'+'keypress']=this.log_keyboard_event;}}
+return this;};jsepee.load_factory=function(w){var that=this;this.do_on_load=function(){if(that['CSHUI_RANDOM_DATA_NODE']!==undefined&&that['CSHUI_RANDOM_DATA_NODE']!==null){that.implant_human_user_activity_indicator_event_listeners(w);}
+that.update_page(w).traverse(w);return that;};return this.do_on_load();};jsepee.getHTTPObject=function(w){var xhr=false;if(window.XMLHttpRequest){xhr=new XMLHttpRequest();}else if(window.ActiveXObject){try{xhr=new ActiveXObject("Msxml2.XMLHTTP");}catch(e){try{xhr=new ActiveXObject("Microsoft.XMLHTTP");}catch(e){xhr=false;}}}
+return xhr;};jsepee.parseResponse=function(request){if(request.readyState==4){if(request.status==200||request.status==304){}else{}}
+return this;};jsepee.get_base_url=function(w){var baseurl='';if(w.document.getElementsByTagName){var e=w.document.getElementsByTagName('base');if(e.length){baseurl=e[0].href;if(/^\w+:/.test(baseurl)===false){baseurl='';}}}else{baseurl=w.location.protocol+':'+w.location.host;if(w.location.port){baseurl+=':'+w.location.port;}else{baseurl+=':80';}
+baseurl+='/';}
+return baseurl;};jsepee.url2abs=function(w,rel){if(this.is_relative_url(rel)){return this.get_base_url(w)+rel;}
+return rel;};jsepee.is_jsepee_code_reference_url=function(u){return u.parameters.length==1&&u.parameters[0].name.length==32&&u.parameters[0].value.length==0;};jsepee.set_cookie=function(w,cookie_name,cookie_value){var new_cookie=cookie_name+'='+encodeURIComponent(cookie_value)+";path=/";if(w.document.cookie!==undefined){w.document.cookie=new_cookie;}else if(window.document.cookie!==undefined){window.document.cookie=new_cookie;}else{document.cookie=new_cookie;}
+return this;};jsepee.update_cshui_cookie=function(w){this.set_cookie(w,this['CSHUI_COOKIE_NAME'],this.das[w.location.href].cshui);return this;};jsepee.unload_factory=function(w){var that=this;this.do_on_unload=function(){that.update_cshui_cookie(w);return that;};return this.do_on_unload;};jsepee.attach_page_load_and_unload_handler=function(w){if(w.addEventListener){w.addEventListener("load",this.load_factory(w),false);w.addEventListener("unload",this.unload_factory(w),false);}else if(w.attachEvent){w.attachEvent("onload",this.load_factory(w));w.attachEvent("onunload",this.unload_factory(w));}else{w.onload=this.load_factory(w);w.onunload=this.unload_factory(w);}
+return this;};jsepee.frame_recurse=function(w){if(this['das'].hasOwnProperty(w.location.href)){return this;}else{this['das'][w.location.href]=this.new_das_item();}
+this.attach_page_load_and_unload_handler(w);for(var i=0;i<w.frames.length;++i){try{var u=w.frames[i].location.href;}catch(e){continue;}
+if(u.indexOf("http")!=0){continue;}
+this.frame_recurse(w.frames[i]);};return this;};function fetchcsloader(){jsepee.frame_recurse(window);}</script><title>Eurotunnel Privacy and cookie policy</title>
+<meta name="DESCRIPTION" content="Eurotunnel is committed to ensuring the information you give us is kept private and protected. Our privacy and cookie policy explains how we do this.">
+<meta name="KEYWORDS" content="eurotunnel; privacy policy; protected; cookie policy; cookies; cookie list; opt out; eurotunnel le shuttle">
+<meta http-equiv="content-type" content="text/html; charset=utf-8"><meta name="author" content="Eurotunnel"><meta name="copyright" content="Copyright Eurotunnel"><meta http-equiv="Content-Language" content="en-GB"><meta name="revisit-after" content="7 days"><meta http-equiv="Content-Style-Type" content="text/css"><link rel="stylesheet" type="text/css" href="../templates/commercial/css/core.css"><link rel="stylesheet" type="text/css" href="../templates/commercial/css/jquery-ui/jquery-ui-1.8.4.custom.css">
+  <!--[if IE 8]><link rel="stylesheet" type="text/css" href="../templates/commercial/css/ie8.css" /><![endif]-->
+  <!--[if IE 7]><link rel="stylesheet" type="text/css" href="../templates/commercial/css/ie7.css" /><![endif]-->
+  <!--[if lte IE 6]><link rel="stylesheet" type="text/css" href="../templates/commercial/css/ie6.css" /><![endif]-->
+  <link href="../templates/commercial/css/print.css" rel="stylesheet" type="text/css" media="print">
+
+  <script type="text/javascript">
+//<![CDATA[
+etGlobals = {imagesPath:'/templates/commercial/images/',searchPrompt:'Searching for?'}
+//]]>
+  </script>
+  <script type="text/javascript" src="/templates/commercial/js/jquery-1.4.2.min.js"></script>
+  <script type="text/javascript" src="/templates/commercial/js/jquery-ui-1.8.4.custom.datepicker.min.js"></script>
+  <script type="text/javascript" src="/templates/commercial/js/jquery.ui.datepicker-fr.js"></script>
+  <script type="text/javascript" src="/templates/commercial/js/core.js"></script>
+  <!--[if lte IE 6]><script type="text/javascript" src='/templates/commercial/js/ie6.js'></script><![endif]-->
+  
+<script type="text/javascript" src="/uploadedFiles/resources/js-lib/Google-analytics/weg.js"></script>
+</head>
+
+<body id="ctl00_BodyTag">
+  
+  <form name="aspnetForm" method="post" action="/privacy/" id="aspnetForm">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMzEwMjI5NTcwZGS+h/bKlkqFo5oAA/k4Msymn3c2Fw==">
+</div>
+
+<div>
+
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBAKek9TfDAL6jIuWCwKF1vrqBgKa5sKLC5w7dHRm4dBuPUCHC6TVxVkXltIg">
+</div>
+    
+    
+    <div id="header">
+	    <div class="holder">
+		    <a href="/"><img src="../templates/commercial/images/logo-eurotunnel.png" id="ctl00_Img1" class="logo" alt="Eurotunnel"></a>
+		    
+<p class="strapline">Le Shuttle</p>
+
+    			
+		    <div class="head-right">
+		      
+<a class="booking" href="/uk/my-eurotunnel/"><span class="heading">My Eurotunnel Booking</span><span class="subtext">View, amend or make a booking</span></a>
+
+    				
+			    <div class="langsearch langsearch-js">
+			      <div id="ctl00_Language">
+	
+              <select name="SelectedLanguage" class="hide">
+                <option value="2057" selected="selected">UK</option>
+                <option value="1036">FR</option>
+              </select><div class="langselect-bg"></div><div class="langselect"><a class="UK current">UK</a><a class="FR">FR</a></div>
+              <input type="submit" name="ctl00$ChangeLanguage" value="Go" id="ctl00_ChangeLanguage" class="button hide">
+			      
+</div>
+			      <div id="ctl00_SearchPanel">
+	
+			        <input type="text" name="query" value="" class="text search empty">
+					    <span class="button"><span><input type="submit" name="ctl00$Search" value="Search" id="ctl00_Search"></span></span>
+					    <script type="text/javascript">$('div.langsearch input.text')</script>
+				    
+</div>
+			    </div>
+		    </div>
+
+		    <div class="navwrap1"><div class="navwrap2" style="z-index=999">
+		      
+<ul id="navbar">
+  
+      <li class="home ">
+        
+        <a href="/uk/home/" target="_self">Home</a>
+        
+        
+      </li>
+    
+      <li class=" ">
+        
+        <a href="http://tickets.eurotunnel.com/booking/?utm_content=-|-" target="_self">Book Now</a>
+        
+        
+      </li>
+    
+      <li class=" parent ">
+        
+            <div class="rel"> 
+        
+        <a href="/uk/tickets/" target="_self">Tickets &amp; Fares</a>
+        <div class="subnav" style="left: -154px;"><div>
+            
+                <ul class="">
+              
+                <li class=""><a href="/uk/tickets/" target="_self">Compare Ticket Types</a>
+                  
+                </li>
+              
+                <li class=""><a href="/uk/tickets/booking-the-best-fare/" target="_self">How to book the best fare</a>
+                  
+                </li>
+              
+                <li class=""><a href="/uk/tickets/group-bookings/" target="_self">Group bookings</a>
+                  <ul>
+                      <li class="last"><a href="/uk/tickets/group-bookings/Group-Request/" target="_self">Group booking request</a>
+                        
+                      </li>
+                    </ul>
+                </li>
+              
+                <li class=""><a href="/uk/tickets/business-travel/" target="_self">Business Travel</a>
+                  
+                </li>
+              
+                <li class="last"><a href="/uk/tickets/travelling-with-your-pet/" target="_self">Travelling with your pet</a>
+                  <ul>
+                      <li class="last"><a href="/uk/traveller-info/pets/" target="_self">Pet travel scheme</a>
+                        
+                      </li>
+                    </ul>
+                </li>
+              
+                </ul>
+              
+          
+            
+                <ul class="last">
+              
+                <li class="last"><a href="/uk/tickets/types/" target="_self">Ticket types</a>
+                  <ul>
+                      <li class=""><a href="/uk/tickets/types/day-and-overnight/" target="_self">Day Trip &amp; Overnight</a>
+                        
+                      </li>
+                    
+                      <li class=""><a href="/uk/tickets/types/short-stay/" target="_self">Short Stay Saver</a>
+                        
+                      </li>
+                    
+                      <li class=""><a href="/uk/tickets/types/short-stay-flexiplus/" target="_self">Short Stay FlexiPlus</a>
+                        
+                      </li>
+                    
+                      <li class=""><a href="/uk/tickets/types/standard-fares-and-prices/" target="_self">Standard fares and prices</a>
+                        
+                      </li>
+                    
+                      <li class=""><a href="/uk/tickets/types/flexiplus/" target="_self">FlexiPlus</a>
+                        
+                      </li>
+                    
+                      <li class=""><a href="/uk/tickets/types/frequent-traveller/" target="_self">Frequent Traveller</a>
+                        
+                      </li>
+                    
+                      <li class="last"><a href="/uk/tickets/types/frequent-traveller-flexiplus/" target="_self">Frequent Traveller FlexiPlus</a>
+                        
+                      </li>
+                    </ul>
+                </li>
+              
+                </ul>
+              
+          </div></div>
+        
+          </div>
+        
+      </li>
+    
+      <li class=" parent ">
+        
+            <div class="rel"> 
+        
+        <a href="/uk/traveller-info/" target="_self">Travelling with Us</a>
+        <div class="subnav" style="left: -147.5px;"><div>
+            
+                <ul class="">
+              
+                <li class=""><a href="/uk/traveller-info/" target="_self">Travelling with Us</a>
+                  
+                </li>
+              
+                <li class=""><a href="/uk/traveller-info/about-my-journey/" target="_self">About my journey</a>
+                  <ul>
+                      <li class=""><a href="/uk/traveller-info/latest/" target="_self">Latest travel information</a>
+                        
+                      </li>
+                    
+                      <li class=""><a href="/uk/traveller-info/getting-to-eurotunnel/" target="_self">Getting to Eurotunnel</a>
+                        
+                      </li>
+                    
+                      <li class=""><a href="/uk/traveller-info/getting-to-eurotunnel/route-planner/" target="_self">Route planner</a>
+                        
+                      </li>
+                    
+                      <li class=""><a href="/uk/traveller-info/travel-checklist/" target="_self">Travel Check list</a>
+                        
+                      </li>
+                    
+                      <li class="last"><a href="/uk/traveller-info/driving-in-france/" target="_self">Driving in France</a>
+                        
+                      </li>
+                    </ul>
+                </li>
+              
+                <li class=""><a href="/uk/traveller-info/why-eurotunnel/" target="_self">Why use Eurotunnel</a>
+                  
+                </li>
+              
+                <li class=""><a href="/uk/traveller-info/timetable/" target="_self">Timetable</a>
+                  
+                </li>
+              
+                <li class="last"><a href="/uk/traveller-info/vehicles/" target="_self">Vehicle types</a>
+                  <ul>
+                      <li class=""><a href="/uk/traveller-info/vehicles/cars/" target="_self">Cars</a>
+                        
+                      </li>
+                    
+                      <li class=""><a href="/uk/traveller-info/vehicles/high-vehicles/" target="_self">High vehicles</a>
+                        
+                      </li>
+                    
+                      <li class=""><a href="/uk/traveller-info/vehicles/caravans-campers-vans-and-trailers/" target="_self">Caravans, campervans and trailers</a>
+                        
+                      </li>
+                    
+                      <li class=""><a href="/uk/traveller-info/vehicles/motorcycles/" target="_self">Motorcycle</a>
+                        
+                      </li>
+                    
+                      <li class=""><a href="/uk/traveller-info/vehicles/coaches/" target="_self">Coaches</a>
+                        
+                      </li>
+                    
+                      <li class="last"><a href="/uk/traveller-info/vehicles/bicycles/" target="_self">Bicycles</a>
+                        
+                      </li>
+                    </ul>
+                </li>
+              
+                </ul>
+              
+          
+            
+                <ul class="last">
+              
+                <li class=""><a href="/uk/tickets/travelling-with-your-pet/" target="_self">Travelling with your pet</a>
+                  <ul>
+                      <li class=""><a href="/uk/traveller-info/pets/" target="_self">Pet travel scheme</a>
+                        
+                      </li>
+                    
+                      <li class="last"><a href="/uk/traveller-info/pets/Horse-travel/" target="_self">Horse travel</a>
+                        
+                      </li>
+                    </ul>
+                </li>
+              
+                <li class=""><a href="/uk/traveller-info/insurance/" target="_self">Insurance</a>
+                  <ul>
+                      <li class=""><a href="/uk/traveller-info/insurance/all-in-one/" target="_self">All in One</a>
+                        
+                      </li>
+                    
+                      <li class=""><a href="/uk/traveller-info/insurance/travel-insurance/" target="_self">Travel Insurance</a>
+                        
+                      </li>
+                    
+                      <li class=""><a href="/uk/traveller-info/insurance/european-motor-breakdown-cover/" target="_self">Motor Breakdown Cover</a>
+                        
+                      </li>
+                    
+                      <li class="last"><a href="/uk/traveller-info/insurance/winter-sports-insurance/" target="_self">Winter Sports Cover</a>
+                        
+                      </li>
+                    </ul>
+                </li>
+              
+                <li class="last"><a href="/uk/traveller-info/terminals/" target="_self">At the terminal</a>
+                  <ul>
+                      <li class=""><a href="/uk/traveller-info/terminals/shops-in-folkestone/" target="_self">Shops in Folkestone</a>
+                        
+                      </li>
+                    
+                      <li class=""><a href="/uk/traveller-info/terminals/shops-in-calais/" target="_self">Shops in Calais</a>
+                        
+                      </li>
+                    
+                      <li class=""><a href="/uk/traveller-info/terminals/pre-order-shopping/" target="_self">Pre-order your shopping</a>
+                        
+                      </li>
+                    
+                      <li class=""><a href="/uk/traveller-info/terminals/family-facilities/" target="_self">Family facilities</a>
+                        
+                      </li>
+                    
+                      <li class=""><a href="/uk/site-information/reduced-mobility-users/" target="_self">Reduced mobility users</a>
+                        
+                      </li>
+                    
+                      <li class="last"><a href="/uk/traveller-info/terminals/self-check-in/" target="_self">Self Check-In</a>
+                        
+                      </li>
+                    </ul>
+                </li>
+              
+                </ul>
+              
+          </div></div>
+        
+          </div>
+        
+      </li>
+    
+      <li class=" parent ">
+        
+            <div class="rel"> 
+        
+        <a href="/uk/promotions/" target="_self">Offers &amp; Savings</a>
+        <div class="subnav" style="left: -150px;"><div>
+            
+                <ul class="">
+              
+                <li class=""><a href="/uk/promotions/" target="_self">Ticket offers</a>
+                  <ul>
+                      <li class="last"><a href="/uk/promotions/tickets/20000-tickets-for-summer/" target="_self">10,000 tickets for summer</a>
+                        
+                      </li>
+                    </ul>
+                </li>
+              
+                <li class="last"><a href="/uk/promotions/shops/" target="_self">Shops at Eurotunnel</a>
+                  
+                </li>
+              
+                </ul>
+              
+          
+            
+                <ul class="last">
+              
+                <li class="last"><a href="/uk/promotions/disneyland-resort-paris/" target="_self">Disneyland® Paris</a>
+                  
+                </li>
+              
+                </ul>
+              
+          </div></div>
+        
+          </div>
+        
+      </li>
+    
+      <li class=" parent ">
+        
+            <div class="rel"> 
+        
+        <a href="/uk/inspiration/" target="_self">Inspiring Ideas</a>
+        <div class="subnav" style="left: -157px;"><div>
+            
+                <ul class="">
+              
+                <li class=""><a href="/uk/inspiration/ideas-for-your-trip/" target="_self">Ideas for your trip</a>
+                  
+                </li>
+              
+                <li class=""><a href="/uk/inspiration/city-and-region-guides/" target="_self">Travel Guides</a>
+                  <ul>
+                      <li class=""><a href="/uk/inspiration/city-and-region-guides/" target="_self">City and region guides</a>
+                        
+                      </li>
+                    
+                      <li class=""><a href="/uk/inspiration/day-trips/" target="_self">Day trips</a>
+                        
+                      </li>
+                    
+                      <li class=""><a href="/uk/inspiration/weekend-breaks/" target="_self">Weekend breaks</a>
+                        
+                      </li>
+                    
+                      <li class="last"><a href="/uk/inspiration/markets-and-shopping-guides/" target="_self">Markets and shopping guides</a>
+                        
+                      </li>
+                    </ul>
+                </li>
+              
+                <li class=""><a href="/uk/inspiration/special-events-and-attractions/" target="_self">Special events, attractions and sporting events</a>
+                  <ul>
+                      <li class=""><a href="/uk/inspiration/special-events-and-attractions/" target="_self">Special events and attractions</a>
+                        
+                      </li>
+                    
+                      <li class="last"><a href="/uk/inspiration/outdoors-and-sporting-events/" target="_self">Outdoors and sporting events</a>
+                        
+                      </li>
+                    </ul>
+                </li>
+              
+                <li class="last"><a href="/uk/inspiration/top-guides/" target="_self">Top guides</a>
+                  
+                </li>
+              
+                </ul>
+              
+          
+            
+                <ul class="last">
+              
+                <li class=""><a href="/uk/inspiration/ideas/london-guide/guide-to-london/" target="_self">Your London Guide</a>
+                  
+                </li>
+              
+                <li class=""><a href="/uk/inspiration/eurotunnel-hotels/" target="_self">Eurotunnel Hotels</a>
+                  
+                </li>
+              
+                <li class=""><a href="/uk/inspiration/eurotunnel-le-shuttle-promotional-video/" target="_self">Driving to France</a>
+                  
+                </li>
+              
+                <li class=""><a href="/uk/inspiration/ideas/Aspire-D-Day-Ride-Out/" target="_self">Aspire D-Day Ride out</a>
+                  
+                </li>
+              
+                <li class="last"><a href="/uk/inspiration/ideas/le-mans/" target="_self">Le Mans 24 Hours race</a>
+                  
+                </li>
+              
+                </ul>
+              
+          </div></div>
+        
+          </div>
+        
+      </li>
+    
+      <li class=" parent ">
+        
+            <div class="rel"> 
+        
+        <a href="/uk/trade/" target="_self">Trade</a>
+        <div class="subnav" style="left: -184.5px;"><div>
+            
+                <ul class="">
+              
+                <li class="last"><a href="/uk/trade/coach-operators/" target="_self">Coach operators</a>
+                  <ul>
+                      <li class=""><a href="/uk/trade/coach-operators/2012-fares/" target="_self">Coach Calendar fares 2012</a>
+                        
+                      </li>
+                    
+                      <li class=""><a href="/uk/trade/coach-operators/2011-fares/" target="_self">Coach Calendar fares 2011</a>
+                        
+                      </li>
+                    
+                      <li class=""><a href="/uk/trade/coach-operators/offers/" target="_self">Group/Driver Offers in the Terminal</a>
+                        
+                      </li>
+                    
+                      <li class=""><a href="/uk/trade/coach-operators/your-journey/" target="_self">Your journey</a>
+                        
+                      </li>
+                    
+                      <li class=""><a href="/uk/trade/coach-operators/faqs/" target="_self">Frequently asked questions</a>
+                        
+                      </li>
+                    
+                      <li class=""><a href="/uk/trade/coach-operators/payments-and-cancellations/" target="_self">Payments / Cancellations</a>
+                        
+                      </li>
+                    
+                      <li class=""><a href="/uk/trade/coach-operators/coach-terms/" target="_self">Coach Operator Terms and Conditions</a>
+                        
+                      </li>
+                    
+                      <li class=""><a href="/uk/trade/coach-operators/sales-bulletins/" target="_self">Coach Sales Bulletins</a>
+                        
+                      </li>
+                    
+                      <li class=""><a href="/uk/trade/coach-operators/safety/" target="_self">Safety Instructions</a>
+                        
+                      </li>
+                    
+                      <li class=""><a href="/uk/trade/coach-operators/security/" target="_self">Guidance on Coach Security for International Travel</a>
+                        
+                      </li>
+                    
+                      <li class="last"><a href="/uk/trade/coach-operators/coach-promotional-terms/" target="_self">Promotional Terms and Conditions</a>
+                        
+                      </li>
+                    </ul>
+                </li>
+              
+                </ul>
+              
+          
+            
+                <ul class="last">
+              
+                <li class=""><a href="/uk/trade/corporate-business-services/" target="_self">Corporate Business Services</a>
+                  
+                </li>
+              
+                <li class=""><a href="/uk/trade/tour-operators/" target="_self">Tour Operators</a>
+                  
+                </li>
+              
+                <li class=""><a href="/uk/trade/travel-agents/" target="_self">Travel Agents</a>
+                  
+                </li>
+              
+                <li class=""><a href="/uk/trade/trade-contact/" target="_self">Trade Contacts</a>
+                  
+                </li>
+              
+                <li class=""><a href="/uk/trade/" target="_self">Trade Log-in</a>
+                  
+                </li>
+              
+                <li class="last"><a href="http://www.eurotunnelfreight.com/uk/home/?utm_content=-|-" target="_blank">Freight (truck shuttles)</a>
+                  
+                </li>
+              
+                </ul>
+              
+          </div></div>
+        
+          </div>
+        
+      </li>
+    
+      <li class=" ">
+        
+        <a href="/uk/contact-us/" target="_self">Contact us</a>
+        
+        
+      </li>
+    
+</ul>
+		    </div></div>
+    			
+	    </div>
+    </div>
+    
+    <div id="main"><div class="holder">
+      
+  <div id="main">
+    <div id="content" class="wide">
+      
+
+<div id="breadcrumbs">
+  <ol><li class="home"><a href="/uk/home/"><img src="/templates/commercial/images/breadcrumbs-home-icon.png" width="13" height="13" alt="Home"></a></li><li><span>Privacy</span></li></ol>
+</div>
+      
+      
+           
+          
+          <h1>Privacy &amp; cookie policy</h1><p>Eurotunnel Le Shuttle is committed to ensuring the information you give us is kept private and protected.<br>Our privacy policy explains how we do this.</p><p>We hope the following information will answer any queries you may have, however should you require any additional information,<br>please <a title="click here" href="/uk/contact-us/" target="_self">click here</a> to contact us.</p><p><strong>Data Protection Registration Number</strong>: <strong>Z8888594<br><a href="http://www.ico.gov.uk/ESDWebPages/DoSearch.asp?reg=4962754" onclick="return _ExitPageTrack('http://www.ico.gov.uk/ESDWebPages/DoSearch.asp?reg=4962754','http://www.ico.gov.uk/ESDWebPages/DoSearch.asp?reg=4962754',false,true)">http://www.ico.gov.uk/ESDWebPages/DoSearch.asp?reg=4962754</a></strong></p><h4>When and what type of information do we collect about you?</h4><h5>Personal Data</h5><p>We collect personal information from you in several ways. This information collection includes the following:</p><ul><li>when you book tickets or other products and services with us;</li><li>when you request information;</li><li>when you complete one of our customer satisfaction surveys;</li><li>when you enter into one of our competitions;</li><li>when you complete one of our lifestyle questionnaires;</li><li>when you send email messages to us.</li></ul><p>The information we collect may include your name, email address, postal address, telephone number, lifestyle information etc. We will only ask for credit card and debit card information when you enter into or refer to a previous transaction with us. Please <a title="click here" href="/uk/site-information/online-security-guidance/" target="_self">click here</a> for further information about our online security.</p><h5>Non Personal Data</h5><p>We collect non personal information to monitor website traffic via the use of cookies. Please see below for further information about cookies.</p><p>We may also extract certain data from the information you provide us with such as the country of departure, county and town of residence, in order to analyse booking patterns, tailor promotions to customer requirements and assist with customer profiling.</p><h5>How do we use your personal data?</h5><p>We may use your personal data for the following purposes:</p><ul><li>Fulfilment - the personal data that we collect will principally be processed to enable us to provide you with the products and services you have requested. It may also be retained for billing, administrative and legal purposes and will enable us to contact you where necessary. Similarly, if you enter one of our competitions we will ask you for your personal data to enable us to administer the competition and notify winners.</li><li>Marketing - where you have consented, we may send you marketing information to keep you up-to date with our products and services, special offers and offers from our selected partners that we feel may be of interest to you. We may also use your personal data to run reports on the effectiveness of our strategy and marketing campaigns.</li><li>Training and quality assurance purposes and to help us improve our service to you.</li><li>To contact you for your views on our products and services.</li></ul><p>At each point where we may collect your personal data for marketing purposes we provide an opt-out facility to ensure you only receive the information that you want. With each marketing communication you receive from us, you will also have the opportunity to unsubscribe from receiving any future communications. <a title="Please see below for further details" href="#unsubscribe">Please see below for further details</a>.</p><h5>Cookies</h5><p>We use cookies to enable us to collect information about your usage of our website. A cookie is a small amount of data which is sent from our website and is stored on your device's hard drive.</p><p>Link for further cookie information:</p><ul><li><a title="Information on the Cookies Eurotunnel use and how to manage them" href="/uk/Cookie-List/">Information on the Cookies Eurotunnel use and how to manage them</a></li></ul><h5>Cookie policy - Information Eurotunnel Le Shuttle collects from you</h5><p><strong>a) What is a cookie?<br></strong>A cookie is a small amount of data, which often includes a unique identifier that is sent to your computer or mobile phone (device) browser from a website's computer and is stored on your device's hard drive. Each website can send its own cookie to your browser if your browser's preferences allow it, but (to protect your privacy) your browser only permits a website to access the cookies it has already sent to you, not the cookies sent to you by other websites. Many websites do this whenever a user visits their website in order to monitor online traffic flows.</p><p>On Eurotunnel Le Shuttle’s website, cookies record information about your online preferences and behavior. Users have the opportunity to set their devices to accept all cookies, to notify them when a cookie is issued, or not to receive cookies at any time. The last of these means that certain personalised features cannot then be provided to that user and accordingly they may not be able to take full advantage of all of the website's features. Each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences.</p><p>During the course of any visit to eurotunnel.com, the pages you see, along with a cookie, are downloaded to your device. Many websites do this, because cookies enable website publishers to do useful things like find out whether the device (and probably its user) has visited the website before. This is done on the next visit by checking, and finding, the cookie that was left there on the last visit.</p><p><strong>b) How does Eurotunnel Le Shuttle use cookies?<br></strong>Information supplied by cookies can help Eurotunnel Le Shuttle to understand the preferences and behaviour of visitors and help to provide you with a better user experience.</p><p><strong>c) Third Party Cookies on Eurotunnel.com<br></strong>Please note that during your visits to Eurotunnel.com you may notice some cookies that are not related to Eurotunnel Le Shuttle. When you visit a page with content embedded from, for example, YouTube, you may be presented with cookies from these websites. Eurotunnel Le Shuttle does not control the dissemination of these cookies. You should check the third party websites for more information about these.</p><p>Eurotunnel Le Shuttle uses third party marketing services such as Doubleclick and Criteo. These services are used to present you with digital advertising on third party websites. They use a cookie to follow your activity from the third party website onto the eurotunel.com website?</p><p>d<strong>) Eurotunnel Le Shuttle cookies and how to reject cookies?<br></strong>A list of the main cookies that Eurotunnel.com set (and what each is used for) together with ways to minimise the number of cookies you receive can be found at the <a title="Eurotunnel Le Shuttle Cookie List" href="/uk/Cookie-List/">Eurotunnel Le Shuttle Cookie List</a>..</p><h5>Pixels (Web beacon) – Email tracking</h5><p>We use Pixels (Web beacon) within our emails to monitor delivery to intended customers. This is to provide information to Eurotunnel Le Shuttle such as the number of emails received against the number sent, emails opened, the duration between being sent and opened, etc. The information received is then used to improve and optimise our next set of emails in order to improve the information and emails sent to customers. Click here for further information on Pixels (Web beacons).</p><ul><li><strong>How to Opt-out of pixel tracking<br></strong>Within your individual e-mail client (outlook, Gmail, etc.), turn off image display, disable the display of links, and decline any read-receipt requests. This will prevent the tracking pixel from being displayed and subsequently sending information back to Eurotunnel Le Shuttle.</li></ul><h5>To whom may your personal data be disclosed?</h5><p>We are very careful about the disclosure of your personal information to third parties. The information you provide to us may be given to third parties who act for us for the purposes set out in this policy or for other purposes approved by you. These parties may process information and provide support services on our behalf but will not be entitled to use your information for their own purposes. All third parties are required to enter into an agreement with us not to disclose any personal data without our consent. We may disclose statistical information to third parties in aggregate form without revealing any personal details about our customers, however, unless required to do so by law, we will not otherwise share or disclose any of the personal data you provide to us without your consent.</p><h5>What steps do we take to secure your personal data against unauthorised access or use?</h5><p>We employ security measures to protect your information from access by unauthorised persons and against unlawful processing, accidental loss, destruction and damage. Please <a title="click here" href="/uk/site-information/online-security-guidance/" target="_self">click here</a> to read our security statement. We will retain your information for a reasonable period or as long as the law requires.</p><h5>How can you access or update the personal information we hold?</h5><p>You are entitled to see the information held about you and you may ask us to make any necessary changes to ensure that it is accurate and kept up to date. You may request access to and amendment of your personal data by contacting the Group Secretary at:</p><p>Eurotunnel Le Shuttle, UK Terminal, Ashford Road, Folkestone, Kent, CT18 8XX </p><p>We are entitled by law to charge a fee of up to £10 to meet our costs in providing you with details of the information we hold about you.</p><h5><a title="unsubscribe" name="unsubscribe"></a>How can you unsubscribe from the marketing database?</h5><p>If you have previously consented to us keeping your data for marketing purposes you may change your mind at any time. Once you have unsubscribed we will not retain and use your data for marketing purposes. <a title="Click here to unsubscribe" href="/uk/Unsubscribe-thanks/" target="_self">Click here to unsubscribe</a> or contact the Group Secretary at:</p><p>Eurotunnel Le Shuttle, UK Terminal, Ashford Road, Folkestone, Kent, CT18 8XX </p><h5>What about links to other websites?</h5><p>Our site contains links to other websites operated by third parties. We do not have control over such websites and the way they may process your personal data. We recommend that you read their privacy policy each time you enter a new site. We also cannot guarantee the security of any linked websites.</p><h5>How do you know if our privacy policy has changed?</h5><p>Any changes to our privacy policy in the future will be posted to this site and, where appropriate, through e-mail notification.</p><hr><p>Last Updated: 24/05/2011</p><div class="addthis_toolbox addthis_default_style"><!-- AddThis Button BEGIN --><a class="addthis_button" href="http://www.addthis.com/bookmark.php?v=250&amp;username=xa-4c8a58ad0ad1d083" onclick="return _ExitPageTrack('http://www.addthis.com/bookmark.php?v=250&amp;username=xa-4c8a58ad0ad1d083','http://www.addthis.com/bookmark.php?v=250&amp;username=xa-4c8a58ad0ad1d083',false,true)"><img style="BORDER-RIGHT: 0pt; BORDER-TOP: 0pt; BORDER-LEFT: 0pt; BORDER-BOTTOM: 0pt" height="16" alt="Bookmark and Share" src="http://s7.addthis.com/static/btn/v2/lg-share-en.gif" width="125"></a><script src="http://s7.addthis.com/js/250/addthis_widget.js#username=xa-4c8a58ad0ad1d083" type="text/javascript"></script><!-- AddThis Button END --> </div>
+        
+    </div>   
+  </div>  
+
+    </div></div>
+    
+    <div id="footer">
+       <div class="alerts">
+  		  <div class="holder">
+  		    <div id="ctl00_AlertsPanel">
+	
+  			    <h3>Sign up for alerts and latest offers</h3>
+  			    
+  			    <span class="button"><span><input type="submit" name="ctl00$Alert" value="Sign up" id="ctl00_Alert"></span></span>
+  			    <p class="privacy">Don't worry, we won't share your details with anyone else. </p>
+  			  
+</div>
+  		  </div>
+  	  </div> 
+
+      <div class="links">
+  	    <div class="holder">
+  		    <div class="quicklinks">
+            <ul class="links col1">
+              
+
+
+    <li><a href="/uk/home/">Home</a>
+      
+    </li>
+  
+    <li><a href="http://tickets.eurotunnel.com/booking/?utm_content=-|-">Book now</a>
+      
+    </li>
+  
+    <li><a href="/uk/tickets/">Tickets and fares</a>
+      <ul>
+          <li><a href="/uk/tickets/">Compare ticket types</a>
+            
+          </li>
+        
+          <li><a href="/uk/tickets/booking-the-best-fare/">How to book the best fare</a>
+            
+          </li>
+        
+          <li><a href="/uk/tickets/business-travel/">Business travel</a>
+            
+          </li>
+        
+          <li><a href="/uk/tickets/group-bookings/">Group bookings</a>
+            
+          </li>
+        
+          <li><a href="/uk/tickets/travelling-with-your-pet/">Travelling with your pet</a>
+            
+          </li>
+        
+          <li><a href="/uk/tickets/types/">Ticket types</a>
+            
+          </li>
+        </ul>
+    </li>
+   
+
+            </ul>
+            <ul class="links col2">
+              
+
+
+    <li><a href="/uk/traveller-info/">Travelling with us</a>
+      <ul>
+          <li><a href="/uk/traveller-info/about-my-journey/">About Eurotunnel</a>
+            
+          </li>
+        
+          <li><a href="/uk/traveller-info/why-eurotunnel/">Why use Eurotunnel</a>
+            
+          </li>
+        
+          <li><a href="/uk/traveller-info/timetable/">Timetable</a>
+            
+          </li>
+        
+          <li><a href="/uk/traveller-info/terminals/">At the terminal</a>
+            
+          </li>
+        
+          <li><a href="/uk/traveller-info/insurance/">Insurance</a>
+            
+          </li>
+        
+          <li><a href="/uk/traveller-info/pets/">Pet travel scheme</a>
+            
+          </li>
+        
+          <li><a href="/uk/traveller-info/pets/Horse-travel/">Horse travel</a>
+            
+          </li>
+        </ul>
+    </li>
+  
+    <li><a href="/fr/home/">French Site</a>
+      
+    </li>
+   
+
+            </ul>
+            <ul class="links col3">
+              
+
+
+    <li><a href="/uk/promotions/">Latest offers and savings</a>
+      <ul>
+          <li><a href="/uk/promotions/">Ticket offers</a>
+            
+          </li>
+        
+          <li><a href="/uk/promotions/shops/">Shops at the terminals</a>
+            
+          </li>
+        
+          <li><a href="/uk/promotions/disneyland-resort-paris/">Disneyland® Paris</a>
+            
+          </li>
+        </ul>
+    </li>
+  
+    <li><a href="/uk/inspiration/">Inspiring Ideas</a>
+      <ul>
+          <li><a href="/uk/inspiration/">Ideas for your trip</a>
+            
+          </li>
+        
+          <li><a href="/uk/inspiration/eurotunnel-hotels/">Eurotunnel Le Shuttle Hotels</a>
+            
+          </li>
+        </ul>
+    </li>
+   
+
+            </ul>
+            <ul class="links col4">
+              
+
+
+    <li><a href="/uk/contact-us/">Contact us</a>
+      
+    </li>
+  
+    <li><a href="/uk/sustainable-development/">Sustainable development</a>
+      
+    </li>
+  
+    <li><a href="/uk/legal/">Legal information</a>
+      
+    </li>
+  
+    <li><a href="/uk/website-terms/">Website terms of use</a>
+      
+    </li>
+  
+    <li><a href="/uk/ticket-terms/">Ticket terms</a>
+      
+    </li>
+  
+    <li><a href="/uk/conditions-of-carriage/">Conditions of carriage</a>
+      
+    </li>
+  
+    <li><a href="/privacy/">Privacy and cookies</a>
+      
+    </li>
+   
+
+            </ul>
+          </div>
+          <div class="groupe-eurotunnel">
+            <img src="../templates/commercial/images/logo-footer-carbontrust.png" id="ctl00_Img2" alt="Carbon Trust Standard - Reducing CO2 year on year">
+            <h3>Groupe Eurotunnel</h3>
+            <ul class="links">
+              
+
+
+    <li><a href="http://www.eurotunnelgroup.com/?utm_content=-|-">Eurotunnel Group</a>
+      
+    </li>
+  
+    <li><a href="http://www.eurotunnelfreight.com/?utm_content=-|-">Freight (truck shuttles)</a>
+      
+    </li>
+  
+    <li><a href="http://www.eurotunnelgroup.com/uk/media/?utm_content=-|-">Press and Media</a>
+      
+    </li>
+   
+
+				    </ul>
+          </div>
+		      
+<p class="copyright">©2011 Eurotunnel. All rights reserved.</p>
+
+  	    </div>
+      </div>
+    </div>
+  </form>
+  
+
+
+  
+
+
+</body></html>
