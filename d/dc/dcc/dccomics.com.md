@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dccomics.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121204356id_/http%3A//dccomics.com/dccomics/legal/%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dccomics.com privacy policy that was archived on 2011-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110608192903id_/http%3A//www.dccomics.com/dccomics/legal/%3Faction%3Dprivacy) for the most accurate reproduction.*
 
 # DC Comics | Legal
 
