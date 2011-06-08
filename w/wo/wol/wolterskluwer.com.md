@@ -1,17 +1,8 @@
-> *The following text is extracted and transformed from the wolterskluwer.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223162602id_/http%3A//www.wolterskluwer.com/WK/Site/Info/Privacy%2BStatement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wolterskluwer.com privacy policy that was archived on 2011-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110608125539id_/http%3A//www.wolterskluwer.com/Pages/Privacy-Statement.aspx) for the most accurate reproduction.*
 
-# Wolters Kluwer :: Privacy Statement
+# Wolters Kluwer | Privacy Statement
 
-  * [About Us](http://www.wolterskluwer.com/WK/About+Us/)
-  * [Investors](http://www.wolterskluwer.com/WK/Investors/)
-  * [Press](http://www.wolterskluwer.com/WK/Press/)
-  * [Corporate Governance](http://www.wolterskluwer.com/WK/Corporate+Governance/)
-  * [Sustainability](http://www.wolterskluwer.com/WK/Sustainability/)
-  * [Careers](http://www.wolterskluwer.com/WK/Careers/)
-
-
-
-## Privacy Statement 
+## Privacy Statement
 
 Welcome to this Corporate Website. This site is owned by Wolters Kluwer nv. This Privacy Policy is designed to tell you about our practices regarding collection, use, and disclosure of information that you may provide via this site.
 
@@ -19,7 +10,8 @@ Please be sure to read this entire Privacy Policy before using or submitting inf
 
 #### Your Consent
 
-By using this site, you agree with the terms of this Privacy Policy. Whenever you submit information via this site, you consent to the collection, use, and disclosure of that information in accordance with this Privacy Policy.
+By using this site, you agree with the terms of this Privacy Policy. Whenever you submit information via this site, you consent to the collection, use, and disclosure of that information in accordance with this Privacy Policy.  
+
 
 #### Active Information Collection
 
@@ -47,18 +39,20 @@ You can also set your browser to block the placing of cookies at all, but you sh
 
 Except as otherwise stated, we may use your information to improve the content of our site, to customize the site to your preferences, to communicate information to you (if you have requested it), for our marketing and research purposes, and for the purposes specified in this Privacy Policy. We may disclose your personally identifiable information where required by applicable laws, court orders, or government regulations.
 
-[Back to top](http://www.wolterskluwer.com/WK/Templates/WKContentNoNav.aspx?NRMODE=Published&NRORIGINALURL=%2fWK%2fSite%2fInfo%2fPrivacy%2bStatement%2ehtm&NRNODEGUID=%7b5CCC5B6A-47B1-448F-848E-36F04BA7EF1A%7d&NRCACHEHINT=Guest#top)
+Back to top
 
  **E-mail address  
 ** If you subscribe to our e-mail alerts, we collect your e-mail address. This address will only be used for keeping you informed as indicated. If you wish to unsubscribe from our e-mail alert list, you can do so at any moment as indicated in every e-mail you receive or by contacting us through [info@wolterskluwer.com.](mailto:info@wolterskluwer.com.)
 
 #### Access and Correction
 
-To keep your personally identifiable information accurate, current, and complete, please contact us as about any incorrect information. We will update or correct personally identifiable information in our possession that you have previously submitted via this site.
+To keep your personally identifiable information accurate, current, and complete, please contact us as about any incorrect information. We will update or correct personally identifiable information in our possession that you have previously submitted via this site.  
+
 
 #### Security
 
-We take reasonable steps to protect your personally identifiable information as you transmit your information from your computer to our site and to protect such information from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. You should keep in mind that no Internet transmission is ever 100% secure or error-free. In particular, e-mail sent to or from this site may not be secure, and you should therefore take special care in deciding what information you send to us via e-mail. Moreover, where you use passwords, ID numbers, or other special access features on this site, it is your responsibility to safeguard them.
+We take reasonable steps to protect your personally identifiable information as you transmit your information from your computer to our site and to protect such information from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. You should keep in mind that no Internet transmission is ever 100% secure or error-free. In particular, e-mail sent to or from this site may not be secure, and you should therefore take special care in deciding what information you send to us via e-mail. Moreover, where you use passwords, ID numbers, or other special access features on this site, it is your responsibility to safeguard them.  
+
 
 #### Links to Other Web Sites
 
