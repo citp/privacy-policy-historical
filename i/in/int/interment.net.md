@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the interment.net privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613154103id_/http%3A//www.interment.net/statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interment.net privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609005053id_/http%3A//www.interment.net/statement.htm) for the most accurate reproduction.*
 
 # Privacy Statement - Cemetery Records Online
-
-| 
 
 ###  Privacy Statement for Cemetery Records Online 
 
@@ -58,12 +56,12 @@ If you have any questions about this privacy statement, the practices of this si
 
 [ stevepjohnson@mchsi.com ](mailto:stevepjohnson@mchsi.com)
 
-#### Sponsored Genealogy Links
+####  Genealogy Links
 
-  * [USA Death Records, 1900-Present](http://d.peoplesearchads.com/ck.php?zoneid=175&bannerid=163&oadest=http%3A//www.genealogyarchives.com/GA.aspx?_act=deathRecords&location=US&cam=419&utm_source=Interment.net&utm_campaign=TextLinks) \- Genealogy Archives
-  * [USA Obituary Records, 1900-Present](http://d.peoplesearchads.com/ck.php?zoneid=175&bannerid=165&oadest=http%3A//www.genealogyarchives.com/GA.aspx?_act=obituaries&location=US&cam=419&utm_source=Interment.net&utm_campaign=TextLinks) \- Genealogy Archives
-  * [USA Birth Records, 1900-Present](http://d.peoplesearchads.com/ck.php?zoneid=175&bannerid=167&oadest=http%3A//www.genealogyarchives.com/GA.aspx?_act=birthRecords&location=US&cam=419&utm_source=Interment.net&utm_campaign=TextLinks) \- Genealogy Archives
-  * [USA Marriage Records, 1900-Present](http://d.peoplesearchads.com/ck.php?zoneid=175&bannerid=166&oadest=http%3A//www.genealogyarchives.com/GA.aspx?_act=marriageRecords&location=US&cam=419&utm_source=Interment.net&utm_campaign=TextLinks) \- Genealogy Archives
-  * [USA Vital Records, 1900-Present](http://d.peoplesearchads.com/ck.php?zoneid=175&bannerid=169&oadest=http%3A//www.genealogyarchives.com/GA.aspx?_act=vitalRecords&location=US&cam=419&utm_source=Interment.net&utm_campaign=TextLinks) \- Genealogy Archives
+  * [USA Death Records, 1900-Present](http://d.peoplesearchads.com/ck.php?zoneid=175&bannerid=163&oadest=http%3A//www.archives.com/GA.aspx?_act=deathRecords&location=US&cam=419&utm_source=Interment.net&utm_campaign=TextLinks) \- Genealogy Archives
+  * [USA Obituary Records, 1900-Present](http://d.peoplesearchads.com/ck.php?zoneid=175&bannerid=165&oadest=http%3A//www.archives.com/GA.aspx?_act=obituaries&location=US&cam=419&utm_source=Interment.net&utm_campaign=TextLinks) \- Genealogy Archives
+  * [USA Birth Records, 1900-Present](http://d.peoplesearchads.com/ck.php?zoneid=175&bannerid=167&oadest=http%3A//www.archives.com/GA.aspx?_act=birthRecords&location=US&cam=419&utm_source=Interment.net&utm_campaign=TextLinks) \- Genealogy Archives
+  * [USA Marriage Records, 1900-Present](http://d.peoplesearchads.com/ck.php?zoneid=175&bannerid=166&oadest=http%3A//www.archives.com/GA.aspx?_act=marriageRecords&location=US&cam=419&utm_source=Interment.net&utm_campaign=TextLinks) \- Genealogy Archives
+  * [USA Vital Records, 1900-Present](http://d.peoplesearchads.com/ck.php?zoneid=175&bannerid=169&oadest=http%3A//www.archives.com/GA.aspx?_act=vitalRecords&location=US&cam=419&utm_source=Interment.net&utm_campaign=TextLinks) \- Genealogy Archives
 
 
