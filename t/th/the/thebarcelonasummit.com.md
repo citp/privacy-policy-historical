@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the thebarcelonasummit.com privacy policy that was archived on 2009-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091123161558id_/http%3A//www.thebarcelonasummit.com/en/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebarcelonasummit.com privacy policy that was archived on 2011-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110608192402id_/http%3A//theeuropeansummit.com/en/page/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy :: Barcelona Summit 2010
+# Privacy Policy :: The European Summit 2011
 
 ## ANDREAS BISCHOFF S.L. PRIVACY POLICY
 
-Thebarcelonasummit.com is an Andreas Bischoff S.L site. In protecting your privacy we are providing this statement detailing our online data practices and the options you have about the way your data is collected and used on these Andreas Bischoff S.L. sites.
+Theeuropeansummit.com is an Andreas Bischoff S.L site. In protecting your privacy we are providing this statement detailing our online data practices and the options you have about the way your data is collected and used on these Andreas Bischoff S.L. sites.
 
 ## Collecting Data
 
@@ -24,8 +24,8 @@ To better understand our site traffic, many of our Internet pages use "cookies" 
 
 ## Data Changes
 
-For instructions on how you can access the unique user specific data that this Andreas Bischoff Events site has collected about you online, or how to correct factual errors in such data, please contact us at [info@thebarcelonasummit.com](mailto:info@thebarcelonasummit.com).To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections.
+For instructions on how you can access the unique user specific data that this Andreas Bischoff Events site has collected about you online, or how to correct factual errors in such data, please contact us at andreas@theeuropeansummit.com. To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections.
 
 ## Contact Information
 
-If you have any questions or concerns about the Andreas Bischoff S.L. online policy for this site or its implementation you may contact us at [www.thebarcelonasummit.com](https://web.archive.org/web/20091123161558id_/http%3A//www.thebarcelonasummit.com/) .
+If you have any questions or concerns about the Andreas Bischoff S.L. online policy for this site or its implementation you may contact us at [www.theeuropeansummit.com](https://web.archive.org/web/20110608192402id_/http%3A//theeuropeansummit.com/) .
