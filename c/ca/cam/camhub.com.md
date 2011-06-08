@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the camhub.com privacy policy that was archived on 2010-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100301172646id_/http%3A//www.camhub.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the camhub.com privacy policy that was archived on 2011-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110608090525id_/http%3A//www.camhub.com/privacy.html%3F) for the most accurate reproduction.*
 
-# CamHub - Privacy Policy
+# CamHub - Privacy
 
 [Home](http://www.camhub.com/) / Privacy Policy
 
@@ -53,5 +53,3 @@ c/o Ariel Secretaries Limited
 1st Flr, Office 102  
 P.O. Box 57528  
 3316 Limassol - Cyprus
-
-Welcome to CamHub, the hottest live web cam community! Our girls are working hard to give you the best live sex shows and sex chat on the internet so come and stream some of the hottest hardcore & amateur webcam girls one on one. CamHub lets you chose from a variety of hot webcam girls that you want to see when you want to see.
