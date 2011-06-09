@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pressxchange.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219064549id_/http%3A//pressxchange.com/en/help/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pressxchange.com privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609180440id_/http%3A//www.pressxchange.com/en/help/Privacy) for the most accurate reproduction.*
 
 # Read the pressXchange.com Privacy Policy
 
