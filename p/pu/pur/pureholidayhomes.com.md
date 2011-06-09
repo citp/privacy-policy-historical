@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pureholidayhomes.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229215325id_/http%3A//www.pureholidayhomes.com/terms_and_conditions%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pureholidayhomes.com privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609081144id_/http%3A//www.pureholidayhomes.com/terms_and_conditions%23privacy) for the most accurate reproduction.*
 
 # Terms and conditions
 
@@ -9,7 +9,7 @@
 
 “you” and “your” means any and all persons using this website including, without limitation and where applicable, property owners;
 
-“we”, “us” and “our” means Pure Holdings;
+“we”, “us” and “our” means pureholidayhomes.com;
 
 “website” means this website with the URL www.pureholidayhomes.com;
 
@@ -40,10 +40,10 @@
 7\. Save for property owners in relation to their properties. this website is for your personal and non commercial use only. You may only download, print, store and use any material appearing on the website for the purpose of researching and/or making a holiday rental booking for yourself, family or friends or sending the same onto family or friends for like purpose. We grant you a non exclusive, revocable licence to use our website for and limited to this purpose and for these activities. All other activities are expressly prohibited. Except as expressly authorised by these terms or as we agree in writing in advance, you may not modify, copy, download, print, distribute, transmit, display, reproduce, publish, license, create derivative works from, transfer, sell or in any other way use or make available any material appearing on this website. We may terminate your licence to use and may prevent your using our website in the event of your breaching these terms. You also agree to indemnify us for all claims, liabilities, damages, losses, costs and all other sums of whatever nature which we suffer or incur as a result of your breach of these terms.
 
 **Intellectual property rights**  
-8\. The contents of this website constitute a database for the purpose of The Copyright and Rights in Databases Regulations 1997. All rights relating to this database belong to Pure Holdings. The contents of this website and the material it contains are also protected by copyright. Such copyright belongs to Pure Holdings, the property owners and other third parties.
+8\. The contents of this website constitute a database for the purpose of The Copyright and Rights in Databases Regulations 1997. All rights relating to this database belong to pureholidayhomes.com. The contents of this website and the material it contains are also protected by copyright. Such copyright belongs to pureholidayhomes.com, the property owners and other third parties.
 
 **Privacy policy**  
-9\. For the purposes of the Data Protection Act 1998, we  Pure Holdings are a data controller. This privacy policy sets out how we collect and use personal data from your visit to our website. It covers this website only.  Links to other websites and any information collected by those sites are not covered by this privacy policy. You should check the privacy policy of any other website before using it. This privacy policy may be amended or added to from time to time so you should regularly check it.
+9\. For the purposes of the Data Protection Act 1998, we pureholidayhomes.com are a data controller. This privacy policy sets out how we collect and use personal data from your visit to our website. It covers this website only.  Links to other websites and any information collected by those sites are not covered by this privacy policy. You should check the privacy policy of any other website before using it. This privacy policy may be amended or added to from time to time so you should regularly check it.
 
 **How do we collect personal data?**  
 In common with most websites, our website uses cookies. A ‘cookie’ is a small data file which our website server stores on your computer in order to collect information about your visit to our website and to remember you when you visit again at a later date. ****   The main purpose of a cookie is to identify users and to personalise their visit by customising web pages for their use. We may also use third parties who will collect non personally identifiable data (such as the IP address of a user’s computer) to analyse site visits, display advertising, conduct surveys or carry out other similar activities. In the course of doing so, they may place their own cookies on your computer so that they can collect information about your visit and customise their services and advertising for later visits accordingly. You may if you wish disable or delete such cookies through your internet browser. However, doing so may mean you will be unable to access this website or parts of it, your experience of our website will be adversely affected and/or you will not receive information or advertising which is relevant to your personal interests.  
@@ -93,11 +93,11 @@ If you believe that any of your personal details which we are processing are ina
 **Terms applicable only to property owners**
 
 **Payment and renewal**  
-18\. Payment for advertising your property with us is made through the website using our PayPal™ account. Alternative methods of payment include RBS Worldpay or wire transfer.
+18\. Payment for advertising your property with us is made through the website using our PayPal™ account. Alternative methods of payment include Worldpay or wire transfer.
 
-19\. Subject to these terms, properties are advertised on the website for a period of 3, 6 or 12 months at a time. Subscription fees are non refundable. Properties will be automatically advertised on the website for a further 12 month period on the expiry of any 12 month advertising period and you will be automatically debited with the applicable payment unless you advise us by e-mail to the applicable e-mail address prior to the expiry of the 12 month period that you do not wish to renew your advertising. We will notify you by e-mail that your 12 month advertising period is about to expire approximately 1 month in advance. Failure to receive this communication does not invalidate the automated renewal. The responsibility to cancel the renewal is that of the advertiser.
+19\. Subject to these terms, properties are advertised on the website for a period of 3, 6 or 12 months at a time. Subscription fees are non refundable.
 
-20\. You may cancel any automatic renewal and receive a refund of any payment which has been automatically deducted in respect of the renewal providing you notify us by e-mail to the applicable e-mail address within 14 days after payment has been deducted.
+20\. Upon the expiry of your advertising period, renewal of your listing is at your own discretion and is not mandatory.
 
 **Ability to advertise and to enter into contracts in respect of the property**  
 21\. By loading material relating to a property onto this website, you warrant and confirm that you are legally entitled to do so and legally have full power and authority to enter into a contract with any person(s) or entity wishing to make a booking of the property for holiday rental purposes (subject always to your right to refuse particular bookings). Contracts for the rental of the property are entered into directly between you and person(s) or entity wishing to make a booking without any involvement on our part. We are entitled to require you to produce appropriate proof of your individual identity, your ownership of the property or authority to represent the owner in advertising and entering into contracts for use of the property for holiday purposes.
@@ -110,6 +110,3 @@ If you believe that any of your personal details which we are processing are ina
 
 **Owner VERIFICATION badge**    
 24\. The VERIFIED badge used by pureholidayhomes.com on its site is an indication that the owner of a property detailed on its site has undergone a rigorous examination into their identity (using GB Group’s identity verification services) for the purposes of preventing fraud. If you wish to check that the owner of a particular property detailed on pureholidayhomes.com’s site that is using the VERIFIED badge has been vetted by pureholidayhomes.com, please contact us at [contact@pureholidayhomes.com](mailto:contact@pureholidayhomes.com) with details of the property concerned.  We will then run a check of the details against our database. GB Group’s ID verification system, which is used by pureholidayhomes.com, checks the credentials of property owners advertising on its site against a number of national and international databases.  Although the process is rigorous, it cannot provide an absolute guarantee against instances of fraud occurring.  Consequently, neither GB Group or pureholidayhomes.com accept responsibility for any loss, liability and damage that may be incurred by users of this site as a result of a fraudulent representation made any person advertising their property on this site and all warranties, conditions and other terms implied by statute or common law are hereby excluded.
-
-The copyright in this document belongs to MB Solicitors Limited, Studio 3, The Quays, Concordia Street, Leeds LS1 6LA   
-Tel 0113 2424444 Ref CGI
