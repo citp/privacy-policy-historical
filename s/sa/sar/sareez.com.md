@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sareez.com privacy policy that was archived on 2010-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101209083417id_/http%3A//www.sareez.com/help.php%3Fhelp_id%3D38) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sareez.com privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609040533id_/http%3A//www.sareez.com/help.php%3Fhelp_id%3D38) for the most accurate reproduction.*
 
 # Privacy Policy | Bridal Sarees, Wedding Sarees, Traditional Sarees, Designer Sarees, Embroidered Sarees, Salwar Kameez
 
