@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bindaasbargain.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226184510id_/http%3A//www.bindaasbargain.com/ourpolicies/%23privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bindaasbargain.com privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609073025id_/http%3A//www.bindaasbargain.com/ourpolicies/%23privacy-policy) for the most accurate reproduction.*
 
 # BindaasBargain.com Our Policies
 
