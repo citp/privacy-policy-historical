@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the websitegrader.com privacy policy that was archived on 2010-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100813112744id_/http%3A//www.hubspot.com/privacy-policy/tabid/47008/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websitegrader.com privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609043118id_/http%3A//www.hubspot.com/privacy-policy/tabid/47008/Default.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
-## Last Updated: July 9, 2009
+## Last Updated: April 6, 2011
 
 ### HubSpot is committed to protecting your privacy. This Statement of Privacy applies to the HubSpot website and governs data collection and usage. By using the HubSpot website, you consent to the data practices described in this statement.
 
@@ -10,7 +10,7 @@
 
 HubSpot collects personally identifiable information, such as your e-mail address, name, home and/or work address and/or telephone number. HubSpot also collects anonymous demographic information, which is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites.
 
-There is also information about your computer hardware and software that is automatically collected by HubSpot. This information can include: your IP address, browser type, domain names, access times and referring website addresses. This information is used by HubSpot for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the HubSpot website. 
+There is also information about your computer hardware and software that is automatically collected by HubSpot. This information can include: your IP address, browser type, domain names, access times and referring website addresses. This information is used by HubSpot for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the HubSpot website.
 
 In the event that you contact us for customer support through the website, we may also request that you provide additional User Information relevant to the support requested by you. Users are under no obligation to provide such information. However, we cannot guarantee that we can provide customer support in the event that relevant information related to the use of our products or services is withheld. We may retain communications relating to customer support, and/or information drawn from such communications, for statistical and/or reference purposes.
 
@@ -63,10 +63,13 @@ HubSpot will occasionally update this Statement of Privacy to reflect company an
 
 If you have questions regarding this statement, you should first contact us at info@hubspot.com. If you do not receive acknowledgement of your inquiry or we have not addressed your inquiry to your satisfaction, you should then contact us at abuse@hubspot.com.
 
+## To Unsubscribe From HubSpot
+
+You may unsubscribe from HubSpot marketing communications by clicking on the “unsubscribe” link located on the bottom of the company’s emails. Additionally, you may unsubscribe by contacting HubSpot Support at 1-888-HUBSPOT (1-888-482-7768).
+
 ## Contact Information
 
-HubSpot welcomes your comments regarding this Statement of Privacy. If you believe that HubSpot has not adhered to this Statement, please contact HubSpot at hubspotadmin@hubspot.com. We will use commercially reasonable efforts to promptly determine and remedy the problem.  
-
+HubSpot welcomes your comments regarding this Statement of Privacy. If you believe that HubSpot has not adhered to this Statement, please contact HubSpot at hubspotadmin@hubspot.com. We will use commercially reasonable efforts to promptly determine and remedy the problem. HubSpot is located at 25 First Street, 2nd Floor, Cambridge, MA 02141.  We can be reached by phone at 1-888-HUBSPOT (1-888-482-7768).
 
   
 
