@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tamebay.com privacy policy that was archived on 2010-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101210072657id_/http%3A//tamebay.com/about-tamebay/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tamebay.com privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609204519id_/http%3A//tamebay.com/about-tamebay/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : TameBay : eBay & ecommerce made easy
 
