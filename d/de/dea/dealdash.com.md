@@ -1,13 +1,8 @@
-> *The following text is extracted and transformed from the dealdash.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229065836id_/http%3A//www.dealdash.com/page.php%3Fid%3D11) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealdash.com privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609184517id_/http%3A//www.dealdash.com/page.php%3Fid%3D11) for the most accurate reproduction.*
 
 # DealDash™ - Privacy policy
 
-Recreational Shopping Inc.  
-440 N. Wolfe Rd.  
-Sunnyvale, CA 94085  
-United States of America
-
- 1\. General
+1\. General
 
 Your data is collected and processed by us exclusively according to statutory regulations.  
 You may use DealDash.com at any time without registering. When you visit our website, data is saved on our servers in an anonymous format, as is the website that you visit us from, the websites that you proceed to from our site, and your IP address.  
