@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the bangyoulater.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222230022id_/http%3A//www.bangyoulater.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bangyoulater.com privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609161513id_/http%3A//www.bangyoulater.com/privacy) for the most accurate reproduction.*
 
 # Free Porn, Sex Videos, Pussy Movies, Porn Tube, Free XXX Porno
-
-[](https://web.archive.org/invite/)
-
-[](https://web.archive.org/upload/)
 
 This document details important information regarding the use and disclosure of User Data collected on Bangyoulater.com
 
@@ -43,5 +39,3 @@ Upon registration to Bangyoulater.com, it is your duty to remember your username
 YOUR RIGHTS 
 
 You are entitled as a right to access and modify your Data by doing so directly on the website. If you run into any problems, don't hesitate to contact us at [bangyoulater@gmail.com](mailto:bangyoulater@gmail.com)
-
- 
