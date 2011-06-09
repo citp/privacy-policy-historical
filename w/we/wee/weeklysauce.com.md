@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weeklysauce.com privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129012418id_/http%3A//www.weeklysauce.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weeklysauce.com privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609035359id_/http%3A//www.weeklysauce.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Weekly Sauce
 
@@ -26,7 +26,7 @@ In compliance with the 1998 Children’s Online Privacy Protection Act (COPPA), 
 
 **Third party links and co-brand relationships**
 
-In an attempt to provide increased value to our visitors, WeeklySauce® may choose various third party websites to link to and from, and frame within, its own website. WeeklySauce® may also participate in co-branding and other relationships to offer information, programs and other services and features to its users. However, even if the third party is affiliated with WeeklySauce®, WeeklySauce® has no control over these linked sites, and each of these sites has separate privacy and data collection practices independent of WeeklySauce®. As such, we have no responsibility or liability for these independent policies or actions, and are not responsible for the privacy practices or the content of any such websites. These linked sites are only for your convenience and you therefore access them at your own risk. Accordingly, please carefully review the data collection policies on each of these websites.
+In an attempt to provide increased value to our visitors, WeeklySauce® may choose various third party websites to link to and from, and frame within, its own website. WeeklySauce® may also participate in co-branding and other relationships to offer information, programs and other services and features to its users. However, even if the third party is affiliated with WeeklySauce®, WeeklySauce® has no control over these linked sites, and each of these sites has separate privacy and data collection practices independent of WeeklySauce®. As such, we have no responsibility or liability for these independent policies or actions, and are not responsible for the privacy practices or the content of any such websites. These linked sites are only for your convenience and you therefore access them at your own risk. Accordingly, please carefully review the data collection policies on each of these websites. To review Coupons.com’s privacy policy, [click here](http://www.couponsinc.com/Corporate/Privacy.aspx "Coupons.com Privacy Policy").
 
 **Your consent, policy changes and change of ownership**
 
@@ -34,4 +34,4 @@ By using our website, you consent to the collection and use of information by We
 
 **Additional Information**
 
-This notice details the privacy policies of WeeklySauce® for all of its users of its website, including how WeeklySauce® protects information provided or collected through this website. If you have questions regarding this policy or the practices of WeeklySauce®, contact us at WeeklySauce®, Privacy Division, located at 5455 Wilshire Blvd, Ste 903, Los Angeles, CA 90036. 
+This notice details the privacy policies of WeeklySauce® for all of its users of its website, including how WeeklySauce® protects information provided or collected through this website. If you have questions regarding this policy or the practices of WeeklySauce®, contact us at WeeklySauce®, Privacy Division, located at 5455 Wilshire Blvd, Ste 903, Los Angeles, CA 90036.
