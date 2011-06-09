@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tva.gov privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224201434id_/http%3A//www.tva.gov/abouttva/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tva.gov privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609052127id_/http%3A//www.tva.gov/abouttva/privacy.htm) for the most accurate reproduction.*
 
 # TVA Privacy Policy
 
