@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beautyden.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228180943id_/http%3A//glammedia.com/about_glam/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beautyden.com privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609183557id_/http%3A//www.glammedia.com/about_glam/legal/privacy.php) for the most accurate reproduction.*
 
 # Glam Media . About Glam . Legal . Privacy
 
@@ -98,7 +98,7 @@ YOU UNDERSTAND AND AGREE THAT GLAM MEDIA'S LIABILITY REGARDING ANY DISPUTE OVER 
 
 ## _This Privacy and Security Policy Applies to U.S. Customers_
 
- The Glam Media Sites are hosted in the United States and are intended for United States visitors.  This Privacy and Security Policy applies to customer relationships established in the United States. Parts of this Privacy and Security Policy may not apply to visitors outside the United States. Like almost every website, the Glam Media Sites may be accessed by an international audience. If you are a non-U.S. visitor to any of the Glam Media Sites, by providing us with data, you acknowledge and agree that your personal information may be processed for the purposes identified in this Privacy and Security Policy. In addition, such data may be stored on servers located outside your resident jurisdiction, which may have less stringent privacy practices than your own. By providing us with your data, you consent to the transfer of such data. 
+The Glam Media Sites are hosted in the United States and are intended for United States visitors.  This Privacy and Security Policy applies to customer relationships established in the United States. Parts of this Privacy and Security Policy may not apply to visitors outside the United States. Like almost every website, the Glam Media Sites may be accessed by an international audience. If you are a non-U.S. visitor to any of the Glam Media Sites, by providing us with data, you acknowledge and agree that your personal information may be processed for the purposes identified in this Privacy and Security Policy. In addition, such data may be stored on servers located outside your resident jurisdiction, which may have less stringent privacy practices than your own. By providing us with your data, you consent to the transfer of such data. 
 
 ## _Our Privacy and Security Policy Will Change Over Time_
 
@@ -111,22 +111,9 @@ Glam Media Sites may contain links to third-party sites, which are maintained by
 
 ## _Glam Media Sites Are Not for Use by Children_
 
-Children are not eligible to use Glam Media Sites. We ask that minors (under the age of 18) only use Glam Media Sites in conjunction with your parents or guardians. Children under 13 should not send any information about themselves to Glam Media Sites. If a child under 13 submits information through any Glam Media Site, and Glam Media becomes aware that the person submitting the information is a child, we will attempt to delete this information as soon as possible. Because we do not knowingly collect any personal information about children under 13, we do not use or disclose such information to third parties.
-
-## _Mergers, Acquisitions, and Bankruptcy_
-
-If Glam Media should ever file for bankruptcy or merge with another company, or if Glam Media should decide to buy another business or sell or reorganize part or all of Glam Media’s business, Glam Media may be required to disclose both the information you provide to Glam Media and the information gathered by Glam Media to prospective or actual purchasers and other parties. It is Glam Media’s practice to obtain appropriate protections for information disclosed in these types of transactions. Glam Media cannot, however, guarantee that Glam Media's Privacy and Security Policy will remain unchanged if Glam Media is sold or merges with another company. 
-
-## _Trademark Notice_
-
-Glam, Glam Media, GlamAdapt, and Tinker are trademarks of Glam Media, Inc.
-
-## _Our Contact Information_
+Children are not eligible to use Glam Media Sites. We ask that minors (under the age of 18) only use Glam Media Sites in conjunction with your parents or guardians.
 
 Glam Media, Inc.  
 2000 Sierra Point Parkway  
 Suite 1000, 10th Floor  
-Brisbane, CA 94005  
-
-
-[Contact Us](http://www.glammedia.com/contact_us/)
+Brisbane, CA 94005
