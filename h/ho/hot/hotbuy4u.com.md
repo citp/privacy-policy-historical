@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hotbuy4u.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231223332id_/http%3A//www.hotbuy4u.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotbuy4u.com privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609173552id_/http%3A//www.hotbuy4u.com/privacy.cfm) for the most accurate reproduction.*
 
-# Premier Products International - name brand products at wholesale prices!
+# Hotbuy4u.com - Name Brand Merchandise at Wholesale Prices
 
 This privacy notice discloses the privacy practices for www.hotbuy4u.com. This privacy notice applies solely to information collected by this web site. It will notify you of the following: 
 
@@ -18,7 +18,9 @@ We will use your information to respond to you, regarding the reason you contact
 
 Unless you ask us not to, we may contact you via email in the future to tell you about specials, new products or services, or changes to this privacy policy. 
 
-**Your Access to and Control Over Information** You may opt out of any future contacts from us at any time. You can do the following at any time by contacting us via the email address or phone number given on our website or by logging into our site: 
+**Your Access to and Control Over Information**
+
+You may opt out of any future contacts from us at any time. You can do the following at any time by contacting us via the email address or phone number given on our website or by logging into our site: 
 
   * See what data we have about you, if any. 
   * Change/correct any data we have about you. 
