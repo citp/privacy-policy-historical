@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the egames.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231203622id_/http%3A//www.egames.com/privacy%2Bstatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the egames.com privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609071055id_/http%3A//www.egames.com/privacy%2Bstatement.html) for the most accurate reproduction.*
 
 # Games - Download Free Online Games! | eGames: Support > PRIVACY STATEMENT
 
