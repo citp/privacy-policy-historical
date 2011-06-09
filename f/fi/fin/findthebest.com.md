@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the findthebest.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225042953id_/http%3A//www.findthebest.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findthebest.com privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609220023id_/http%3A//www.findthebest.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | FindTheBest.com
 
@@ -61,4 +61,7 @@ Judgment upon any award rendered by the arbitrator shall be final, binding and c
 
 We welcome your questions and feedback on our Privacy Policy. To contact us, [click here](http://www.findthebest.com/contact-us).
 
-Attn: Privacy Policy FindTheBest.com, Inc. 509 E. Montecito St. 2nd Floor Santa Barbara, CA 93103 
+Attn: Privacy Policy  
+FindTheBest.com, Inc.  
+15 W. Figueroa St.  
+Santa Barbara, CA 93101
