@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cqc.org.uk privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214132948id_/http%3A//www.cqc.org.uk/privacystatement.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cqc.org.uk privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610004836id_/http%3A//www.cqc.org.uk/privacystatement.cfm) for the most accurate reproduction.*
 
 # Privacy statement
 
