@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the dfsdirectsales.com privacy policy that was archived on 2010-12-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101206145409id_/http%3A//www.dfsdirectsales.com/StoreCatalog/ctl641/sitecontent/Privacy/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dfsdirectsales.com privacy policy that was archived on 2011-06-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110609214240id_/http%3A//www.dfsdirectsales.com/StoreCatalog/ctl641/sitecontent/Privacy/Privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 		
@@ -17,6 +17,8 @@
 	            		<script type="text/javascript" language="javascript1.1" src="/edealinv/js/jquery/jquery-1.2.6.pack.js"></script>
     	<script type="text/javascript" language="javascript1.1" src="/edealinv/js/jquery/jquery.effects.core.js"></script>
     
+    		<script type="text/javascript" src="/ctlimg/dell/js/main.js"></script>
+        
 			
 	<script type="text/javascript" language="javascript1.1" src="/edealinv/servlet/ExecMacro?nurl=/catalog/dell/js/storefrontfunctions.inc&amp;ctl_nbr=641"></script>	
 	
@@ -158,20 +160,18 @@
 	
 								
 		
-								<script language="JAVASCRIPT" src="/ctlimg/Dell/js/aboutparainfo.js" type="TEXT/JAVASCRIPT"></script> 
-	<script type="text/javascript">
-		function checkQuicksearchNote() {
-			var el = document.getElementById('query');
-			if(el.value == 'Keyword Search') {
-				el.value = '';
-			} else if(el.value == '') {
-				el.value = 'Keyword Search'
-			}
-		}
-	</script>
-	
-		
-	
+							<script language="JAVASCRIPT" src="/ctlimg/Dell/js/aboutparainfo.js" type="TEXT/JAVASCRIPT"></script> 
+<script type="text/javascript">
+function checkQuicksearchNote() {
+	var el = document.getElementById('query');
+	if(el.value == 'Keyword Search') {
+		el.value = '';
+	}
+	else if(el.value == '') {
+		el.value = 'Keyword Search'
+	}
+}
+</script>
 
 
 
@@ -179,157 +179,120 @@
 
 
 
-	
-	<script language="JavaScript">
-	function skip(){
+
+<script language="JavaScript">
+function skip(){
 	var theSelect=document.formx.select;
 	var dir=theSelect.options[theSelect.selectedIndex].value;
 	document.location=dir
-	}
-	</script>
-			<style type="text/css">
+}
+</script>
+<style type="text/css">
+table.dropDown td {
+	padding-left:10px;
+	background-color:#EFEFEF;
+}
+</style>
 
-		table.dropDown td {padding-left: 10px; background-color: #EFEFEF}
-		
-	</style>
-	
-	<script language="JavaScript">
-		function showMenu_new(which)
-		{			
-			document.getElementById(which).style.display = 'block';
-			if(document.getElementById("tab_"+which))
-			document.getElementById("tab_"+which).style.backgroundColor = "#EEEEEE";
-		}
-		
-		
-		function hideMenu_new(which)
-		{
-			document.getElementById(which).style.display = 'none';
-			if(document.getElementById("tab_"+which))
-			document.getElementById("tab_"+which).style.backgroundColor = "#FFFFFF";
-			
-		}
-	</script>	
-	
-	<!-- start masthead -->
-<div class="headertoplinks">
-			<div id="tollFree"><span id="usflag"><img src="/ctlimg/Dell/us.gif" border="0" alt="" title=""> United States</span>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.dfsdirectsales.com/edealinv/servlet/ExecMacro?nurl=control/ContactUsForm.vm&amp;ctl_nbr=641">Contact Us</a> or Call Toll Free: 1.800.891.8595</div>
-			<div id="accountNav">
-                                <span id="headerLogon">
-									<script language="javascript">
-                        				// Grab all the cookies to see if the customer is logged in or not.
-                        				var allcookies = document.cookie;
-                        				var flCustLogon = false;
-                        					
-                        				// let's see what cookies we have
-                        				var cookieList = allcookies.split("; ");
-                        				
-                        				for(var i=0; i<cookieList.length; i++)
-                        				{
-                        					var mycookie = cookieList[i].split("=");
-                        					var mycookieKey = mycookie[0];
-                        					var mycookieVal = mycookie[1];
-                        			
-                        					// we only want to worry about the edeal cookie session.
-                        					if(mycookieKey == "EISESSION_ID")
-                        					{		
-                        						//alert("cookie key :" + mycookieKey);
-                        						//alert("cookie val :" + mycookieVal);
-                        					
-                        						// check to make sure that this session cookie isn't empty
-                        						if(!mycookieVal || mycookieVal == "")
-                        						{
-                        							//alert("my cookie is dead dawg");
-                        							flCustLogon = false;
-                        						}
-                        						else
-                        						{
-                        							//alert("still clicking clicking");
-                        							flCustLogon = true;
-                        						}
-                        					}
-                        				}
-                        				
-                        				// now dynamically generate the rest of the header portion.
-                        				if(flCustLogon)
-                        				{
-                        					document.write('<A HREF="http://www.dfsdirectsales.com/edealinv/servlet/Logoff?ctl_nbr=641&nurl=control/StoreLogon.vm" TARGET="_top">Logout</A>');
-                        				}
-                        				else
-                        				{
-                        					document.write('<A HREF="http://www.dfsdirectsales.com/edealinv/servlet/ExecMacro?nurl=control/StoreLogon.vm&ctl_nbr=641" TARGET="_top">Sign in</A>');
-                        				}
-                        				
-                        				
-                        			</script><a href="http://www.dfsdirectsales.com/edealinv/servlet/ExecMacro?nurl=control/StoreLogon.vm&amp;ctl_nbr=641" target="_top">Sign in</a>
-								</span>
-								<span class="separator"><!-- clean --></span>
-								
-																                                
-                                <span id="headerMinicart" onmouseover="showMenu_new('headerMinicartDisplay')" onmouseout="hideMenu_new('headerMinicartDisplay')"><!-- span id="counter_minicart"></span --><span id="CartTotal"></span>&nbsp;&nbsp;&nbsp;<a class="BLUE" href="http://www.dfsdirectsales.com/edealinv/servlet/ExecMacro?nurl=control/AddOrder.vm&amp;ctl_nbr=641&amp;omni_scView=scView" target="_top">My Cart</a></span>
-                                <div id="headerMinicartDisplay" onmouseover="showMenu_new('headerMinicartDisplay')" onmouseout="hideMenu_new('headerMinicartDisplay')">
-                                                                        
+<script language="JavaScript">
+function showMenu_new(which) {			
+	document.getElementById(which).style.display = 'block';
+	if(document.getElementById("tab_"+which))
+		document.getElementById("tab_"+which).style.backgroundColor = "#EEEEEE";
+}
+function hideMenu_new(which) {
+	document.getElementById(which).style.display = 'none';
+	if(document.getElementById("tab_"+which))
+		document.getElementById("tab_"+which).style.backgroundColor = "#FFFFFF";
+}
+</script>
+
+<!-- start masthead -->
+<div class="headertoplinks clearfix">
+	<div id="tollFree1">
+        <span id="usflag"><img src="/ctlimg/Dell/us.gif" border="0" alt="" title=""> United States</span>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.dfsdirectsales.com/edealinv/servlet/ExecMacro?nurl=control/ContactUsForm.vm&amp;ctl_nbr=641">Contact Us</a> or Call Toll Free: 1.800.891.8595
+    </div>
+    
+    <div id="cartAccount" class="clearfix">
+    
+        <div id="welcomeInfo" style="">&nbsp;</div>
+        
+        <div id="headerMinicart" class="clearfix" onmouseover="showMenu_new('headerMinicartDisplay')" onmouseout="hideMenu_new('headerMinicartDisplay')">
+        	<span id="CartTotal"></span><span id="cartLink" style=""><a class="BLUE" href="http://www.dfsdirectsales.com/edealinv/servlet/ExecMacro?nurl=control/AddOrder.vm&amp;ctl_nbr=641&amp;omni_scView=scView" target="_top">My Cart</a></span>
+            <div id="headerMinicartDisplay" onmouseover="showMenu_new('headerMinicartDisplay')" onmouseout="hideMenu_new('headerMinicartDisplay')">
+                
 <div id="miniCart" style="background-color:#FFFFFF; width:100%;">
 
 	<div id="miniCartDisplay"></div>	
 	<iframe src="/edealinv/servlet/ExecMacro?nurl=control/MiniCart.vm&amp;ctl_nbr=641" name="minicartiframe" id="minicartiframe" class="show" width="1" height="1" marginwidth="0" marginheight="0" scrolling="no" frameborder="0"></iframe>
 		
-</div>                                </div>
-                                
-							</div>
-	
-</div>			
-                <div id="logo" onclick="window.location = 'http://www.dfsdirectsales.com/'"><!-- clean --></div>
-				<div id="headerContent">
-                    <div class="upper">
-						<div class="left">
-    						
-    						<ul>
-								<li class="DFSText">Dell Financial Services</li>
-    							<li id="tab_supportBox" onmouseover="showMenu_new('supportBox')" onmouseout="hideMenu_new('supportBox')"><a href="javascript:;">Support</a>
-						<div class="sub" id="supportBox" onmouseover="showMenu_new('supportBox')" onmouseout="hideMenu_new('supportBox')">
-		                        <a href="http://www.dfsdirectsales.com/edealinv/servlet/ExecMacro?nurl=control/ContactUsForm.vm&amp;ctl_nbr=641">Contact Us Form</a>
-								<a href="http://www.dfsdirectsales.com/dell/ctl641/sitecontent/TopFiveFaq/TopFiveFaq">Top Five FAQs</a>
-								<a href="http://www.dfsdirectsales.com/dell/ctl641/sitecontent/Faq/Faq">General FAQs</a>
-								<a href="http://www.dfsdirectsales.com/dell/ctl641/sitecontent/technicalFAQ/technicalFAQ">Technical FAQs</a>
-								<a href="http://www.dfsdirectsales.com/StoreCatalog/ctl641/sitecontent/helpfulLinks/helpfulLinks">Helpful Links</a>
-								<a href="http://www.dfsdirectsales.com/dell/ctl641/sitecontent/dellModels/dellModels">About Dell Models</a>
-						</div>
-						</li>
+</div>            </div>
+		</div>
+    	
+        <div class="separator1"><!-- clean --></div>
+                <script type="text/javascript">
+			if(flCustLogon) {
+				document.write(unescape('%3Cdiv id="accountInfo"%3E%3CA HREF="http://www.dfsdirectsales.com/edealinv/servlet/Logoff?ctl_nbr=641&amp;nurl=control/StoreLogon.vm" TARGET="_top"%3ELogout%3C/A%3E%3C/div%3E'));
+			}
+			else {
+				document.write(unescape('%3Cdiv id="accountInfo"%3E%3CA HREF="http://www.dfsdirectsales.com/edealinv/servlet/ExecMacro?nurl=control/StoreLogon.vm&amp;ctl_nbr=641" TARGET="_top"%3ESign In%3C/A%3E%3C/div%3E'));
+			}
+		</script><div id="accountInfo"><a href="http://www.dfsdirectsales.com/edealinv/servlet/ExecMacro?nurl=control/StoreLogon.vm&amp;ctl_nbr=641" target="_top">Sign In</a></div>
+        
+    <!--/cartAccount--></div>
 
-    							<li id="tab_myAccount"><a href="http://www.dfsdirectsales.com/edealinv/servlet/ExecMacro?nurl=control/MyAccount.vm&amp;ctl_nbr=641">My Account</a></li>
-								<li id="tab_sitemap"><a href="http://www.dfsdirectsales.com/sitemap.htm">Site Map</a></li>
-								<li id="tab_usefullinks" onmouseover="showMenu_new('usefullinks')" onmouseout="hideMenu_new('usefullinks')"><a href="javascript:;">Useful Links</a>
-						<div class="sub" id="usefullinks" onmouseover="showMenu_new('usefullinks')" onmouseout="hideMenu_new('usefullinks')">					
-							<a href="http://www.dfsdirectsales.com/StoreCatalog/ctl641/sitecontent/InTheBox/InTheBox">What's In The Box?</a>
-							<a href="http://www.dfsdirectsales.com/StoreCatalog/ctl641/sitecontent/LimitedWarranty/LimitedWarranty">Standard 100 Day Limited Warranty</a>
-							<a href="http://www.dfsdirectsales.com/StoreCatalog/ctl641/sitecontent/Promotions/Promotions">Free Trial Software</a>
-							<a href="http://www.dfsdirectsales.com/StoreCatalog/ctl641/sitecontent/Faq/Faq#Shipping">Systems ship the next business day.</a>
-						</div>
-						</li>
-    						</ul>
-						</div>
-						<div id="headerWidgets" class="right">
+<!--/headertoplinks--></div>
+			
+<div id="logo" onclick="window.location = 'http://www.dfsdirectsales.com/'"><!-- clean --></div>
 
-							<div id="quicksearch">
-								<form method="GET" action="/edealinv/servlet/ExecMacro" name="searchForm" onsubmit="checkQuicksearchNote()">
-    								<input type="hidden" value="control/BrowseCatalog.vm" name="nurl">
-    								<input type="hidden" value="control/BrowseCatalog.vm" name="eurl">
-    								<input type="hidden" value="control/BrowseCatalog.vm" name="rurl">
-    								<input type="hidden" value="641" name="ctl_nbr">
-    								<input type="hidden" value="" name="path">
-    								<input type="hidden" value="" name="offset">
-    								<input type="hidden" value="" name="hits">
-    								<input type="hidden" value="" name="sortby">
-    								<input type="hidden" value="" name="queryType">				
-    								<input type="text" id="query" class="main" value="Keyword Search" title="Keyword Search" name="query" maxlength="40" onfocus="checkQuicksearchNote()" onblur="checkQuicksearchNote()">
-									<input type="image" class="submit" alt="GO" src="/ctlimg/Dell/search_field_button.gif">
-								</form>
-							</div>
-                        </div>
-                    </div>
-                    
-					<div class="lower">
+<div id="headerContent">
+    <div class="upper">
+        <div class="left">
+        <ul>
+            <li class="DFSText">Dell Financial Services</li>
+            <li id="tab_supportBox" onmouseover="showMenu_new('supportBox')" onmouseout="hideMenu_new('supportBox')"><a href="javascript:;">Support</a>
+                <div class="sub" id="supportBox" onmouseover="showMenu_new('supportBox')" onmouseout="hideMenu_new('supportBox')">
+                <a href="http://www.dfsdirectsales.com/edealinv/servlet/ExecMacro?nurl=control/ContactUsForm.vm&amp;ctl_nbr=641">Contact Us Form</a>
+                <a href="http://www.dfsdirectsales.com/dell/ctl641/sitecontent/TopFiveFaq/TopFiveFaq">Top Five FAQs</a>
+                <a href="http://www.dfsdirectsales.com/dell/ctl641/sitecontent/Faq/Faq">General FAQs</a>
+                <a href="http://www.dfsdirectsales.com/dell/ctl641/sitecontent/technicalFAQ/technicalFAQ">Technical FAQs</a>
+                <a href="http://www.dfsdirectsales.com/StoreCatalog/ctl641/sitecontent/helpfulLinks/helpfulLinks">Helpful Links</a>
+                <a href="http://www.dfsdirectsales.com/dell/ctl641/sitecontent/dellModels/dellModels">About Dell Models</a>
+                </div>
+            </li>
+            
+            <li id="tab_myAccount"><a href="http://www.dfsdirectsales.com/edealinv/servlet/ExecMacro?nurl=control/MyAccount.vm&amp;ctl_nbr=641">My Account</a></li>
+            <li id="tab_sitemap"><a href="http://www.dfsdirectsales.com/sitemap.htm">Site Map</a></li>
+            <li id="tab_usefullinks" onmouseover="showMenu_new('usefullinks')" onmouseout="hideMenu_new('usefullinks')"><a href="javascript:;">Useful Links</a>
+                <div class="sub" id="usefullinks" onmouseover="showMenu_new('usefullinks')" onmouseout="hideMenu_new('usefullinks')">					
+                <a href="http://www.dfsdirectsales.com/StoreCatalog/ctl641/sitecontent/InTheBox/InTheBox">What's In The Box?</a>
+                <a href="http://www.dfsdirectsales.com/StoreCatalog/ctl641/sitecontent/LimitedWarranty/LimitedWarranty">Standard 100 Day Limited Warranty</a>
+                <a href="http://www.dfsdirectsales.com/StoreCatalog/ctl641/sitecontent/Promotions/Promotions">Free Trial Software</a>
+                <a href="http://www.dfsdirectsales.com/StoreCatalog/ctl641/sitecontent/Faq/Faq#Shipping">Systems ship the next business day.</a>
+                </div>
+            </li>
+			        </ul>
+        </div>
+        <div id="headerWidgets" class="right">
+            <div id="quicksearch">
+            <form method="GET" action="/edealinv/servlet/ExecMacro" name="searchForm" onsubmit="checkQuicksearchNote()">
+                <input type="hidden" value="control/BrowseCatalog.vm" name="nurl">
+                <input type="hidden" value="control/BrowseCatalog.vm" name="eurl">
+                <input type="hidden" value="control/BrowseCatalog.vm" name="rurl">
+                <input type="hidden" value="641" name="ctl_nbr">
+                <input type="hidden" value="" name="path">
+                <input type="hidden" value="" name="offset">
+                <input type="hidden" value="" name="hits">
+                <input type="hidden" value="" name="sortby">
+                <input type="hidden" value="" name="queryType">				
+                <input type="text" id="query" class="main" value="Keyword Search" title="Keyword Search" name="query" maxlength="40" onfocus="checkQuicksearchNote()" onblur="checkQuicksearchNote()">
+                <input type="image" class="submit" alt="GO" src="/ctlimg/Dell/search_field_button.gif">
+            </form>
+            </div>
+        </div>
+	<!--/upper--></div>
+
+	<div class="lower">
 	<!--change? categoryId before  |$sc_id_real |  -->
 <script type="text/javascript" language="JavaScript"><!--
 function HideContent(d) {
@@ -376,7 +339,7 @@ function ShowContent(d) {
 
 
  
-		
+			
 
 
 
@@ -408,13 +371,12 @@ function ShowContent(d) {
     						
     																													    				<div id="subcat0" class="Flyout" onmouseover="ShowContent('0'); return true;" onmouseout="HideContent('0'); return true;">
 							        					        					
-        					        												        						        						        	
-        						        					    						    							    								<div class="subcategories">
-    															<a class="sublevel_off" href="http://www.dfsdirectsales.com/dell/ctl641/cp43621/cl2/inspironxps">Inspiron/XPS</a>
-    	    				    
+        					        					        						        						        	
+        						        					    
         				        					
         					        												        						        						        	
-        						        					    						    															<a class="sublevel_off" href="http://www.dfsdirectsales.com/dell/ctl641/cp43622/cl2/latitude">Latitude</a>
+        						        					    						    							    								<div class="subcategories">
+    															<a class="sublevel_off" href="http://www.dfsdirectsales.com/dell/ctl641/cp43622/cl2/latitude">Latitude</a>
     	    				    
         				        					
         					        												        						        						        	
@@ -430,7 +392,7 @@ function ShowContent(d) {
         			    				</div>
 					
 			                </li>
-		    															    										    										    								    			<li class="mainlevel" onmouseover="ShowContent('1'); return true;" onmouseout="HideContent('1'); return true;"><a id="menucat1" class="" href="http://www.dfsdirectsales.com/dell/notebooks/ctl641/cp11869/cl1">Notebooks</a>
+		    															    										    										    								    			<li class="mainlevel" onmouseover="ShowContent('1'); return true;" onmouseout="HideContent('1'); return true;"><a id="menucat1" class="" href="http://www.dfsdirectsales.com/dell/desktops/ctl641/cp11867/cl1">Desktops</a>
 			    		    					    	    				    	    				
 
 
@@ -447,48 +409,12 @@ function ShowContent(d) {
         					        					        						        						        	
         						        					    
         				        					
-        					        												        						        						        	
-        						        					    						    							    								<div class="subcategories">
-    															<a class="sublevel_off" href="http://www.dfsdirectsales.com/dell/ctl641/cp19263/cl2/latitude">Latitude</a>
-    	    				    
-        				        					
-        					        												        						        						        	
-        						        					    						    															<a class="sublevel_off" href="http://www.dfsdirectsales.com/dell/ctl641/cp30420/cl2/precision">Precision</a>
-    	    				    
-        				        					
-        					        												        						        						        	
-        						        					    						    															<a class="sublevel_off" href="http://www.dfsdirectsales.com/dell/ctl641/cp46281/cl2/vostro">Vostro</a>
-    	    				    
-        				    					    						</div>
-    					        				
-        				
-        			    				</div>
-					
-			                </li>
-		    															    										    										    								    			<li class="mainlevel" onmouseover="ShowContent('2'); return true;" onmouseout="HideContent('2'); return true;"><a id="menucat2" class="" href="http://www.dfsdirectsales.com/dell/desktops/ctl641/cp11867/cl1">Desktops</a>
-			    		    					    	    				    	    				
-
-
-
-
-
-
-
-
-
-    						
-    																													    				<div id="subcat2" class="Flyout" onmouseover="ShowContent('2'); return true;" onmouseout="HideContent('2'); return true;">
-							        					        					
-        					        												        						        						        	
-        						        					    						    							    								<div class="subcategories">
-    															<a class="sublevel_off" href="http://www.dfsdirectsales.com/dell/ctl641/cp19256/cl2/dimensionxps">Dimension/XPS</a>
-    	    				    
-        				        					
         					        					        						        						        	
         						        					    
         				        					
         					        												        						        						        	
-        						        					    						    															<a class="sublevel_off" href="http://www.dfsdirectsales.com/dell/ctl641/cp19257/cl2/optiplex">Optiplex</a>
+        						        					    						    							    								<div class="subcategories">
+    															<a class="sublevel_off" href="http://www.dfsdirectsales.com/dell/ctl641/cp19257/cl2/optiplex">Optiplex</a>
     	    				    
         				        					
         					        												        						        						        	
@@ -504,7 +430,35 @@ function ShowContent(d) {
         			    				</div>
 					
 			                </li>
-		    															    										    										    								    			<li class="mainlevel" onmouseover="ShowContent('3'); return true;" onmouseout="HideContent('3'); return true;"><a id="menucat3" class="" href="http://www.dfsdirectsales.com/dell/workstations/ctl641/cp11871/cl1">Workstations</a>
+		    															    										    										    								    			<li class="mainlevel" onmouseover="ShowContent('2'); return true;" onmouseout="HideContent('2'); return true;"><a id="menucat2" class="" href="http://www.dfsdirectsales.com/dell/workstations/ctl641/cp11871/cl1">Workstations</a>
+			    		    					    	    				    	    				
+
+
+
+
+
+
+
+
+
+    						
+    																													    				<div id="subcat2" class="Flyout" onmouseover="ShowContent('2'); return true;" onmouseout="HideContent('2'); return true;">
+							        					        					
+        					        												        						        						        	
+        						        					    						    							    								<div class="subcategories">
+    															<a class="sublevel_off" href="http://www.dfsdirectsales.com/dell/ctl641/cp19264/cl2/desktops">Desktops</a>
+    	    				    
+        				        					
+        					        												        						        						        	
+        						        					    						    															<a class="sublevel_off" href="http://www.dfsdirectsales.com/dell/ctl641/cp19265/cl2/laptops">Laptops</a>
+    	    				    
+        				    					    						</div>
+    					        				
+        				
+        			    				</div>
+					
+			                </li>
+		    															    										    										    								    			<li class="mainlevel" onmouseover="ShowContent('3'); return true;" onmouseout="HideContent('3'); return true;"><a id="menucat3" class="" href="http://www.dfsdirectsales.com/edealinv/servlet/ExecMacro?nurl=control%2FBrowseCatalog.vm&amp;eurl=control%2FBrowseCatalog.vm&amp;rurl=control%2FBrowseCatalog.vm&amp;ctl_nbr=641&amp;path=c641-def-USD-230%23%23-1%23%23-1~~nf188||59&amp;offset=0&amp;hits=&amp;sortby=&amp;queryType=&amp;query=">Hot Deals</a>
 			    		    					    	    				    	    				
 
 
@@ -518,23 +472,55 @@ function ShowContent(d) {
     						
     																													    				<div id="subcat3" class="Flyout" onmouseover="ShowContent('3'); return true;" onmouseout="HideContent('3'); return true;">
 							        					        					
+        					        					        						        						        	
+        						        					    
+        				        					
+        					        					        						        						        	
+        						        					    
+        				        					
+        					        					        						        						        	
+        						        					    
+        				    					        				
+        				
+        			    				</div>
+					
+			                </li>
+		    															    										    										    								    			<li class="mainlevel" onmouseover="ShowContent('4'); return true;" onmouseout="HideContent('4'); return true;"><a id="menucat4" class="" href="http://www.dfsdirectsales.com/dell/electronics__accessories/ctl641/cp57130/cl1">Electronics &amp; Accessories</a>
+			    		    					    	    				    	    				
+
+
+
+
+
+
+
+
+
+    						
+    																													    				<div id="subcat4" class="Flyout" onmouseover="ShowContent('4'); return true;" onmouseout="HideContent('4'); return true;">
+							        					        					
         					        												        						        						        	
         						        					    						    							    								<div class="subcategories">
-    															<a class="sublevel_off" href="http://www.dfsdirectsales.com/dell/ctl641/cp19264/cl2/desktops">Desktops</a>
+    															<a class="sublevel_off" href="http://www.dfsdirectsales.com/dell/ctl641/cp57642/cl2/docking_stations">Docking Stations</a>
     	    				    
         				        					
         					        												        						        						        	
-        						        					    						    															<a class="sublevel_off" href="http://www.dfsdirectsales.com/dell/ctl641/cp19265/cl2/laptops__notebooks">Laptops / Notebooks</a>
+        						        					    						    															<a class="sublevel_off" href="http://www.dfsdirectsales.com/dell/ctl641/cp57131/cl2/monitors">Monitors</a>
     	    				    
+        				        					
+        					        												        						        						        	
+        						        					    						    															<a class="sublevel_off" href="http://www.dfsdirectsales.com/dell/ctl641/cp57133/cl2/printers">Printers</a>
+    	    				    
+        				        					
+        					        					        						        						        	
+        						        					    
         				    					    						</div>
     					        				
         				
         			    				</div>
 					
 			                </li>
-		    															    										    										    								    			<li class="mainlevel" onmouseover="ShowContent('4'); return true;" onmouseout="HideContent('4'); return true;"><a id="menucat4" class="" href="http://www.dfsdirectsales.com/edealinv/servlet/ExecMacro?nurl=control%2FBrowseCatalog.vm&amp;eurl=control%2FBrowseCatalog.vm&amp;rurl=control%2FBrowseCatalog.vm&amp;ctl_nbr=641&amp;path=c641-def-USD-230%23%23-1%23%23-1%7E%7Enf188%7C%7C59&amp;offset=0&amp;hits=&amp;sortby=&amp;queryType=&amp;query=">Hot Deals</a>
-			    		    					                </li>
-		    															    										    										    								    			<li class="mainlevel" onmouseover="ShowContent('5'); return true;" onmouseout="HideContent('5'); return true;"><a id="menucat5" class="" href="http://www.dfsdirectsales.com/dell/electronics__accessories/ctl641/cp57130/cl1">Electronics &amp; Accessories</a>
+		    															    										    										    								    			<li class="mainlevel" onmouseover="ShowContent('5'); return true;" onmouseout="HideContent('5'); return true;"><a id="menucat5" class="" href="http://www.dfsdirectsales.com/dell/partsandaccessories/ctl641/cp11866/cl1">Parts &amp; Add-ons</a>
 			    		    					    	    				    	    				
 
 
@@ -547,41 +533,6 @@ function ShowContent(d) {
 
     						
     																													    				<div id="subcat5" class="Flyout" onmouseover="ShowContent('5'); return true;" onmouseout="HideContent('5'); return true;">
-							        					        					
-        					        												        						        						        	
-        						        					    						    							    								<div class="subcategories">
-    															<a class="sublevel_off" href="http://www.dfsdirectsales.com/dell/ctl641/cp57642/cl2/docking_stations">Docking Stations</a>
-    	    				    
-        				        					
-        					        												        						        						        	
-        						        					    						    															<a class="sublevel_off" href="http://www.dfsdirectsales.com/dell/ctl641/cp57131/cl2/monitors">Monitors</a>
-    	    				    
-        				        					
-        					        					        						        						        	
-        						        					    
-        				        					
-        					        												        						        						        	
-        						        					    						    															<a class="sublevel_off" href="http://www.dfsdirectsales.com/dell/ctl641/cp57132/cl2/projectors">Projectors</a>
-    	    				    
-        				    					    						</div>
-    					        				
-        				
-        			    				</div>
-					
-			                </li>
-		    															    										    										    								    			<li class="mainlevel" onmouseover="ShowContent('6'); return true;" onmouseout="HideContent('6'); return true;"><a id="menucat6" class="" href="http://www.dfsdirectsales.com/dell/partsandaccessories/ctl641/cp11866/cl1">Parts &amp; Add-ons</a>
-			    		    					    	    				    	    				
-
-
-
-
-
-
-
-
-
-    						
-    																													    				<div id="subcat6" class="Flyout" onmouseover="ShowContent('6'); return true;" onmouseout="HideContent('6'); return true;">
 							        					        					
         					        					        						        						        	
         						        					    
@@ -607,16 +558,22 @@ function ShowContent(d) {
 </div>
 
 
-					</div>
-									                                </div>
-                <div style="clear:both;"></div>
-		<div id="headerBottomArea">
-<table width="985"><tbody><tr>
-<td align="left"><div>Dell Financial Services&nbsp;&nbsp;<a href="http://www.dfsdirectsales.com/">Home</a>&nbsp;&nbsp;<font size="+1">Premium Grade Refurbished Off Lease Dell Computers &amp; Accessories</font></div>
-</td><td align="right">
-<div><!-- <img src="/ctlimg/Dell/credit_card_paypal_logos20.gif" border="0"> -->&nbsp;&nbsp;<a href="http://www.twitter.com/dfsdirectsales" target="_blank"><img src="/ctlimg/Dell/twitter_sm.gif" border="0"></a><img border="0" src="/ctlimg/dell/spacer.gif" width="10" height="1"><a href="http://www.facebook.com/search/?q=dfs&amp;init=quick#/pages/DFSDirectSales/129979948365" target="_blank"><img src="/ctlimg/Dell/fb_sm.gif" border="0"></a></div>
-</td></tr></tbody></table>
-	<!-- end masthead -->					
+	<!--/lower--></div>
+<!--/headerContent--></div>
+<div style="clear:both;"></div>
+
+<div id="headerBottomArea">
+<table width="985">
+<tbody><tr>
+	<td align="left">
+    	<div>Dell Financial Services&nbsp;&nbsp;<a href="http://www.dfsdirectsales.com/">Home</a>&nbsp;&nbsp;<font size="+1">Premium Grade Refurbished Off Lease Dell Computers &amp; Accessories</font></div>
+	</td>
+	<td align="right">
+		<div><!-- <img src="/ctlimg/Dell/credit_card_paypal_logos20.gif" border="0"> -->&nbsp;&nbsp;<a href="http://www.twitter.com/dfsdirectsales" target="_blank"><img src="/ctlimg/Dell/twitter_sm.gif" border="0"></a><img border="0" src="/ctlimg/dell/spacer.gif" width="10" height="1"><a href="http://www.facebook.com/search/?q=dfs&amp;init=quick#/pages/DFSDirectSales/129979948365" target="_blank"><img src="/ctlimg/Dell/fb_sm.gif" border="0"></a></div>
+	</td>
+</tr>
+</tbody></table>
+<!-- end masthead -->					
 		
 								
 		
@@ -989,7 +946,19 @@ function ShowContent(d) {
 <div id="rightnav_banners" class="customTextDisplay">	
 	
 			
-	<a href="http://www.dfsdirectsales.com/dell/ctl641/cp57642/cl2/docking_stations"><img border="0" src="/ctlimg/dell/banner_side_spot1_2010_09_10.jpg" width="241"></a><br><img border="0" height="10" src="/ctlimg/blank.gif" width="1"><br><img border="0" height="10" src="/ctlimg/blank.gif" width="1"><br><a href="http://www.dfsdirectsales.com/dell/ctl641/cp57131/cl2/monitors"><img border="0" src="/ctlimg/dell/banner_side_spot2_2010_11_17.jpg" width="241"></a><br><img border="0" height="10" src="/ctlimg/blank.gif" width="1"><br><br>
+	<a href="http://www.dfsdirectsales.com/dell/laptops/ctl641/cp43620/cl1">
+<img border="0" src="/ctlimg/dell/banner_side_2011_06_09_Lapt.jpg" width="241">
+</a>
+<br>
+<img border="0" height="10" src="/ctlimg/blank.gif" width="1">
+<br>
+<img border="0" height="10" src="/ctlimg/blank.gif" width="1">
+<br>
+<a href="http://www.dfsdirectsales.com/dell/desktops/ctl641/cp11867/cl1">
+<img border="0" src="/ctlimg/dell/banner_side_2011_06_09_Desk.jpg" width="241">
+</a>
+<br>
+<img border="0" height="10" src="/ctlimg/blank.gif" width="1"><br><br>
 
 </div>				
 		
@@ -1179,7 +1148,6 @@ function ShowContent(d) {
 <tr>
 <td valign="top">
 <div class="footerlinkstitle">Shop</div>
-<div class="footerlink"><a href="http://www.dfsdirectsales.com/dell/notebooks/ctl641/cp11869/cl1">Notebooks</a></div>
 <div class="footerlink"><a href="http://www.dfsdirectsales.com/dell/laptops/ctl641/cp43620/cl1">Laptops</a></div>
 <div class="footerlink"><a href="http://www.dfsdirectsales.com/dell/desktops/ctl641/cp11867/cl1">Desktops</a></div>
 <div class="footerlink"><a href="http://www.dfsdirectsales.com/dell/workstations/ctl641/cp11871/cl1">Workstations</a></div>
@@ -1248,7 +1216,7 @@ For Refurbished Used Dell Computer customers of the 50 United States and the Dis
 
 
 <br>
-<a class="REG" href="http://www.dfsdirectsales.com">Home</a> | <a class="REG" href="http://www.dfsdirectsales.com/StoreCatalog/ctl641/sitecontent/SiteTerms/SiteTerms">Site Terms</a> | <a class="REG" href="http://www.dfsdirectsales.com/StoreCatalog/ctl641/sitecontent/TermsAndConditions/TermsAndConditions">Terms and Conditions of Sale</a> | <a class="REG" href="http://www.dfsdirectsales.com/StoreCatalog/ctl641/sitecontent/LimitedWarranty/LimitedWarranty">Limited Warranty</a>  | <a class="REG" href="https://www.dellbatteryprogram.com" target="BLANK">Laptop Battery recall</a>  | <a class="REG" href="http://www.dfsdirectsales.com/StoreCatalog/ctl641/sitecontent/Privacy/Privacy">Privacy Policy</a> | <a class="REG" href="http://www.dfsdirectsales.com/StoreCatalog/ctl641/sitecontent/aboutDFS/aboutDFS">About DFS</a> | <a class="REG" href="http://www.dfsdirectsales.com/StoreCatalog/ctl641/sitecontent/contactUs/contactUs">Contact Us</a> | <a class="REG" href="http://www.dfsdirectsales.com/StoreCatalog/ctl641/sitecontent/Faq/Faq">FAQ</a> | <a class="REG" href="http://www.dfsdirectsales.com/sitemap.htm">Site Map</a>
+<a class="REG" href="http://www.dfsdirectsales.com">Home</a> | <a class="REG" href="http://www.dfsdirectsales.com/StoreCatalog/ctl641/sitecontent/SiteTerms/SiteTerms">Site Terms</a> | <a class="REG" href="http://www.dfsdirectsales.com//StoreCatalog/ctl641/sitecontent/TermsAndConditions/TermsAndConditions">Terms and Conditions of Sale</a> | <a class="REG" href="http://www.dfsdirectsales.com/StoreCatalog/ctl641/sitecontent/LimitedWarranty/LimitedWarranty">Limited Warranty</a>  | <a class="REG" href="https://www.dellbatteryprogram.com" target="BLANK">Laptop Battery recall</a>  | <a class="REG" href="http://www.dfsdirectsales.com/StoreCatalog/ctl641/sitecontent/Privacy/Privacy">Privacy Policy</a> | <a class="REG" href="http://www.dfsdirectsales.com/StoreCatalog/ctl641/sitecontent/aboutDFS/aboutDFS">About DFS</a> | <a class="REG" href="http://www.dfsdirectsales.com/StoreCatalog/ctl641/sitecontent/contactUs/contactUs">Contact Us</a> | <a class="REG" href="http://www.dfsdirectsales.com/StoreCatalog/ctl641/sitecontent/Faq/Faq">FAQ</a> | <a class="REG" href="http://www.dfsdirectsales.com/sitemap.htm">Site Map</a>
 
 </center>
 </td></tr>
@@ -1284,7 +1252,7 @@ All Dell refurbished computers, Dell computer systems and accessories are refurb
 <div id="footer_truition" class="customTextDisplay">	
 	
 			
-	<a href="http://truition.com" target="_blank"><img border="0" src="/ctlimg/dell/h_truition_logo.gif"></a><br>
+	<a href="http://www.cdcecommerce.com" target="_blank"><img border="0" src="/ctlimg/dell/CDCeCommerce_logo.gif"></a><br>
 
 </div>				
 		
@@ -1314,7 +1282,7 @@ All Dell refurbished computers, Dell computer systems and accessories are refurb
 <!-- SiteCatalyst code version: H.3.
 Copyright 1997-2005 Omniture, Inc. More info available at
 http://www.omniture.com -->
-<script language="JavaScript" src="/ctlimg/Dell/inc/s_code.js" type="text/javascript"></script><img name="s_i_DFSDirectSales" height="1" width="1" border="0" alt="" src="https://DFSDirectSales.122.2O7.net/b/ss/DFSDirectSales/1/H.3-pdv-2/s31999954650642?[AQB]&amp;ndh=1&amp;t=31/0/2020%2022%3A13%3A55%205%200&amp;ns=DFSDirectSales&amp;pageName=Privacy%20Policy&amp;g=https%3A//web.archive.org/web/20101206145409id_/http%253A//www.dfsdirectsales.com/StoreCatalog/ctl641/sitecontent/Privacy/Privacy&amp;cc=USD&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
+<script language="JavaScript" src="/ctlimg/Dell/inc/s_code.js" type="text/javascript"></script><img name="s_i_DFSDirectSales" height="1" width="1" border="0" alt="" src="https://DFSDirectSales.122.2O7.net/b/ss/DFSDirectSales/1/H.3-pdv-2/s37496694329788?[AQB]&amp;ndh=1&amp;t=31/0/2020%2022%3A13%3A57%205%200&amp;ns=DFSDirectSales&amp;pageName=Privacy%20Policy&amp;g=https%3A//web.archive.org/web/20110609214240id_/http%253A//www.dfsdirectsales.com/StoreCatalog/ctl641/sitecontent/Privacy/Privacy&amp;cc=USD&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
 <script language="JavaScript" type="text/javascript"><!--
 /* You may give each page an identifying name, server, and channel on
 the next lines. */
