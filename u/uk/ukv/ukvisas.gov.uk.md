@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ukvisas.gov.uk privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221144652id_/http%3A//www.ukvisas.gov.uk/en/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ukvisas.gov.uk privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609163429id_/http%3A//www.ukvisas.gov.uk/en/privacypolicy) for the most accurate reproduction.*
 
 # User information: Privacy Policy
 
