@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the yugiohcardguide.com privacy policy that was archived on 2010-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101207092327id_/http%3A//www.yugiohcardguide.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yugiohcardguide.com privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609184036id_/http%3A//www.yugiohcardguide.com/privacy.html) for the most accurate reproduction.*
 
 # YuGiOhCardGuide.com Privacy Statement
 
 **YuGiOhCardGuide.com:**  
-This is a web site owned and operated by Jonathan Glassman.  
-Jonathan can be reached by e-mail via our [web form here](https://web.archive.org/contact.html). 
+This is a web site owned and operated by [Chakra Sites, Inc.](http://www.chakrasites.com/)  
+Chakra Sites, Inc. can be reached by e-mail via our [web form here](https://web.archive.org/contact.html). 
 
 **Collection of Information:**  
 For each visitor to this web site, our web server does not recognize a user's domain or e-mail address. We collect aggregate information on what pages visitors access, referring URL, operating systems, browser type, and other such, non-personally identifiable information.
