@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the time-to-run.com privacy policy that was archived on 2008-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080512005456id_/http%3A//www.time-to-run.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the time-to-run.com privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609221450id_/http%3A//www.time-to-run.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy for www.time-to-run.com
 
@@ -6,7 +6,8 @@
 
 Privacy Policy for www.time-to-run.com
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at info@dmg-projects.com.
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at   
+info @ dmg-projects.com.
 
 At www.time-to-run.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.time-to-run.com and how it is used.
 
