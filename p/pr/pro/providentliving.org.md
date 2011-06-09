@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the providentliving.org privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221123552id_/http%3A//www.providentliving.org/content/display/0%2C11666%2C6189-1-3199-1%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the providentliving.org privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609230435id_/http%3A//www.providentliving.org/content/display/0%2C11666%2C6189-1-3199-1%2C00.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
