@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quickflix.com.au privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229215102id_/http%3A//www.quickflix.com.au/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quickflix.com.au privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610001906id_/http%3A//www.quickflix.com.au/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy policy at Quickflix
 
