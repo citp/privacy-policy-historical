@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the draftsight.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204182856id_/http%3A//www.3ds.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the draftsight.com privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609071855id_/http%3A//www.3ds.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Dassault Systèmes
 
-Dassault Systèmes SA, a French corporate entity registered in the registry of commerce of Versailles under n° 479 953 226, located 10, Rue Marcel Dassault, 78140 Vélizy-Villacoublay, FRANCE, (hereinafter “DS”) processes Personal Data (as defined below) of people browsing the [www.3ds.com](http://www.3ds.com/) website of Dassault Systèmes (the "Site").
+Dassault Systèmes SA, a French corporate entity registered in the registry of commerce of Versailles under n° 322 306 440, located 10, Rue Marcel Dassault, 78140 Vélizy-Villacoublay, FRANCE, (hereinafter “DS”) processes Personal Data (as defined below) of people browsing the [www.3ds.com](http://www.3ds.com/) website of Dassault Systèmes (the "Site").
 
 This “Privacy Policy” lets You (as defined below) know how DS collects and uses Your Personal Data and how You can control its use. 
 
