@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exterminate-it.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227074746id_/http%3A//www.exterminate-it.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exterminate-it.com privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609060611id_/http%3A//www.exterminate-it.com/privacy-policy) for the most accurate reproduction.*
 
 # Exterminate It!: Privacy Policy
 
@@ -73,4 +73,4 @@ We send e-mails using the following addresses:
 
 If you have any questions or comments concerning this policy, please contact us at [privacy@exterminate-it.com](mailto:privacy@exterminate-it.com).
 
-CURIOLAB S.M.B.A., Center Boulevard 5, office 208, Copenhagen S, 2300, Denmark, +45.36965533
+CURIOLAB S.M.B.A., Amagertorv 15, 2, 1160 Copenhagen K, Denmark, +45.36965533
