@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the jo-games.com privacy policy that was archived on 2010-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101106021502id_/http%3A//www.jo-games.com/front/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jo-games.com privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609205602id_/http%3A//www.jo-games.com/front/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-BigRebelMedia ("Jo-Games") operates a variety of web sites ("Web Site" or "Site") including www.jo-games.com and is committed to protecting the privacy of our Web Site users ("Users") and BigRebelMedia members ("Members"). To that end, we offer this Privacy Policy to inform our Members and Users (referred to individually, or collectively, as "you") of how we collect, use and disclose your personal information. BigRebelMedia will take reasonable steps to protect your personal information in accordance with this Privacy Policy and applicable laws. To make this notice easy to find, we provide a link to our policy at the bottom of most pages of our Web Site. 
+BigRebelMedia ("Jo-Games") operates a variety of web sites ("Web Site" or "Site") including www.jo-games.com and is committed to protecting the privacy of our Web Site users ("Users") and BigRebelMedia members ("Members"). To that end, we offer this Privacy Policy to inform our Members and Users (referred to individually, or collectively, as "you") of how we collect, use and disclose your personal information. BigRebelMedia will take reasonable steps to protect your personal information in accordance with this Privacy Policy and applicable laws. To make this notice easy to find, we provide a link to our policy at the bottom of most pages of our Web Site.
 
-BigRebelMedia defines personal information as information about an individual that enables someone to identify or contact a person and includes, among other things, a person's full name, address, telephone number and e-mail address, as well as other information we maintain about a person in identifiable form in combination with one of the foregoing identifiers, such as account history, financial information, titles rented or purchased or categories of products rented or purchased. Categories of personal information that we collect include, for example: 
+BigRebelMedia defines personal information as information about an individual that enables someone to identify or contact a person and includes, among other things, a person's full name, address, telephone number and e-mail address, as well as other information we maintain about a person in identifiable form in combination with one of the foregoing identifiers, such as account history, financial information, titles rented or purchased or categories of products rented or purchased. Categories of personal information that we collect include, for example:
 
 \- Basic identifying information such as e-mail address and first and last names  
 \- Security information such as password  
@@ -20,6 +20,9 @@ BigRebelMedia defines personal information as information about an individual th
 \- Complaints, questions and information submitted to customer service agents or similar individuals either in person, by phone, by e-mail or by entry on a Site  
 \- Site behavior such as pages visited or searches requested  
 \- Browser information such as browser version, connection speed, IP address and the presence of various related plug-ins and tools such as media players  
+
+
+
 
 
 BigRebelMedia collects personal information from you when you voluntarily submit that information to BigRebelMedia, for example: when you register on a Site; sign up for a subscription service; register for our e-newsletter service; participate in one of our sweepstakes, contests, or surveys; respond to an offer; purchase or rent products; or request to be on a mailing list. After you have registered your e-mail address on the Site and if you have clicked "Remember Me" or signed in to the Site, BigRebelMedia collects Site behavior and browser information as you navigate through the Site. This information may be used to create a profile that we keep on individual Users that details their preferences, personal information and behavior. Consequently, collected information is tied to the User's personally identifiable information and may be used to provide offers and improve the content of the Site for the User. This profile may also be used to tailor a User's visit to our Web Site, and to direct pertinent marketing promotions to them.
