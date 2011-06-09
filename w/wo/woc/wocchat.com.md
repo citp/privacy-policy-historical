@@ -1,21 +1,27 @@
-> *The following text is extracted and transformed from the wocchat.com privacy policy that was archived on 2009-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090512222928id_/http%3A//www.wocchat.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wocchat.com privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609190239id_/http%3A//www.wocchat.com/policy) for the most accurate reproduction.*
 
-# Wocchat Privacy Policy » Free live chat rooms, adult community
+# Privacy Policy » Free chat rooms
 
-**Wocchat Privacy Policy**
+Privacy Policy for wocchat.com
 
-Wocchat.com does not hold any of your personal information, the only information kept on this website, is IP addresses of each logged user, on registration and each time you login to wocchat.com, this information is stored securely and will not be passed onto anyone.  This information is kept for security reasons and may be used if you break our terms and conditions to ban a user.
+The privacy of our visitors to wocchat.com is important to us.
 
-**Subscription Payments**
+At wocchat.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit wocchat.com, and how we safeguard your information. We never sell your personal information to third parties however.
 
-Any information submitted by the buyer for any of our subscription packages will be used solely for the purpose of completing the transaction, delivering the product and addressing any customer service issues.
+All information on this website will be crawled by search engines and will be indexed into their cache, so please dont put any information on wocchat.com that you dont want people to be able to find via search engines
 
-These payments are processed not by us, but by 2checkout, so the information does not get stored at wocchat.com.
+Log Files
 
-**Refund Policy**
+As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.
 
-If you are unhappy with your subscription with wocchat.com please let us know within 14 days of the purchase and we will be happy to refund your money
+Cookies and Web Beacons
 
-Our email address is [webmaster@wocchat.com](mailto:webmaster@wocchat.com) for any queries
+We do use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums.
 
-Admin 
+We also use third party advertisements on wocchat.com to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
+
+You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts. 
+
+Please do not post inappropriate content on this site, it will get you removed from the site or even reported for to your ISP.
+
+Some conversations on this website are logged for security reasons, along with details of private messages, these will never be published anywhere and are only for use in extreme situations for example with police enquiries.
