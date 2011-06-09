@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tgr.ph privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630075511id_/http%3A//www.telegraph.co.uk/topics/about-us/3691972/Privacy-and-Cookie-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tgr.ph privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609091024id_/http%3A//www.telegraph.co.uk/topics/about-us/3691972/Privacy-and-Cookie-Policy.html) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy - Telegraph
 
@@ -6,82 +6,80 @@ This Privacy and Cookie Policy explains how Telegraph Media Group Limited uses a
 
 1\. **How do we information do we gather?**
 
-1\. Information is gathered in two ways: 
+(1) indirectly (e.g. using website technology or technology when you use a Telegraph application for a mobile device); and 
 
-1\. indirectly (e.g. using website technology or technology when you use a Telegraph application for a mobile phone device); and 
+(2) directly (e.g. when you sign up to create a Telegraph.co.uk profile, download a mobile device application or return coupons published in our newspapers). 
 
-2\. directly (e.g. when you sign up to create a telegraph.co.uk profile, download a mobile device application or return coupons published in our newspapers). 
-
-2\. When responding to promotions, offers etc. by postcard, if you do not wish for your details to be used by us to send you promotions and offers, please make this clear by stating "No Offers". 
+1.2. When responding to promotions, offers etc. by postcard, if you do not wish for your details to be used by us to send you promotions and offers, please make this clear by stating "No Offers". 
 
 2\. **What information do we gather?**
 
-1\. We gather information that relates to, and can identify you (e.g. your name and address) and information that does not identify you (e.g. the location of your device when interacting with one of our mobile device applications). 
+2.1 We gather information that relates to, and can identify you (e.g. your name and address) and information that does not identify you (e.g. the location of your device when interacting with one of our mobile device applications). 
 
 3\. **Use of your information**
 
-1\. We might use your personal information to: 
+3.1 We might use your personal information to: 
 
-1\. remember you when you visit our website and track your browsing patterns by using cookies. You can prevent this; section 5 deals with this in more detail. 
+(1) remember you when you visit our website and track your browsing patterns by using cookies. You can prevent this; section 5 deals with this in more detail. 
 
-2\. ensure any products or services you receive are correctly administered. 
+(2) ensure any products or services you receive are correctly administered. 
 
-3\. log your location when you interact with one of our applications for a mobile device. 
+(3) log your location when you interact with one of our applications for a mobile device. 
 
-4\. contact you by mail or telephone to let you know about any of our products, services or promotions (which, in some cases may be provided by third parties) if you give us permission. 
+(4). contact you by mail or telephone to let you know about any of our products, services or promotions (which, in some cases may be provided by third parties) if you give us permission. 
 
-5\. ensure materials on the website are presented in the most effective manner for you and your computer. 
+(5) ensure materials on the website are presented in the most effective manner for you and your computer. 
 
-6\. collate and log numeric internet addresses to improve the website and to monitor website usage. 
+(6) collate and log numeric internet addresses to improve the website and to monitor website usage. 
 
 4\. **Accessing and updating your personal information**
 
-1\. You can update your details and marketing preferences by accessing your account pages on the website, by emailing [data.protection@telegraph.co.uk](mailto:data.protection@telegraph.co.uk) or by writing to us at Data Department, Victory House, Meeting House Lane, Chatham, Kent, ME4 4TT. 
+4.1 You can update your details and marketing preferences by accessing your account pages on the website, by emailing [data.protection@telegraph.co.uk](mailto:data.protection@telegraph.co.uk) or by writing to us at Data Department, Victory House, Meeting House Lane, Chatham, Kent, ME4 4TT. 
 
-2\. You have the right to access the personal information held about you. To obtain a copy of the personal information we hold about you, please send an email to [data.protection@telegraph.co.uk](mailto:data.protection@telegraph.co.uk). There will be an administrative charge of £10 for providing a copy of this information. 
+4.2 You have the right to access the personal information held about you. To obtain a copy of the personal information we hold about you, please send an email to [data.protection@telegraph.co.uk](mailto:data.protection@telegraph.co.uk). There will be an administrative charge of £10 for providing a copy of this information. 
 
 5\. **Cookies**
 
-1\. A cookie is a small piece of information sent by a web server to the web browser, which enable the web server to collect information from the browser. We use cookies to remember you when you visit this website to keep track of your browsing patterns and to build up a profile of how you and other users use the website. Find out more about the use of cookies on [http://www.cookiecentral.com](http://www.cookiecentral.com/). 
+5.1 A cookie is a small piece of information sent by a web server to the web browser, which enable the web server to collect information from the browser. We use cookies to remember you when you visit this website to keep track of your browsing patterns and to build up a profile of how you and other users use the website. Find out more about the use of cookies on [http://www.cookiecentral.com](http://www.cookiecentral.com/). 
 
-2\. Most browsers allow you to turn off cookies. If you want to know how to do this please look at the “help” menu on your browser. However, switching off cookies may restrict your use of the website and/or delay or affect the way in which the website operates. 
+5.2 Most browsers allow you to turn off cookies. If you want to know how to do this please look at the “help” menu on your browser. However, switching off cookies may restrict your use of the website and/or delay or affect the way in which the website operates. Telegraph.co.uk uses cookies as part of our commenting system. Please ensure cookies are switched on on your browser if you wish to comment on the website. 
 
 6\. **Third party advertising cookies**
 
-1\. Most of the advertisements you see on the website are generated by third parties. Some of these third parties generate their own cookies to track how many people have seen a particular advertisement (or use the services of third parties to do this), and to track how many people have seen it more than once. These cookies cannot be used to identify an individual; they can only be used for statistical purposes, for example, in providing you with advertisements that are more relevant to your interests. Some of the information gleaned from third party cookies will be aggregated with other anonymous information for statistical purposes. The third party companies that generate these cookies have their own, very strict, privacy policies but we don't have access to these cookies; other than allowing them to be served, we have no role to play in these cookies at all (although we may use statistical information arising from these third party cookies and provided to us by third parties, to improve the targeting of advertisements to users of the website). 
+6.1 Most of the advertisements you see on the website are generated by third parties. Some of these third parties generate their own cookies to track how many people have seen a particular advertisement (or use the services of third parties to do this), and to track how many people have seen it more than once. These cookies cannot be used to identify an individual; they can only be used for statistical purposes, for example, in providing you with advertisements that are more relevant to your interests. Some of the information gleaned from third party cookies will be aggregated with other anonymous information for statistical purposes. The third party companies that generate these cookies have their own, very strict, privacy policies but we don't have access to these cookies; other than allowing them to be served, we have no role to play in these cookies at all (although we may use statistical information arising from these third party cookies and provided to us by third parties, to improve the targeting of advertisements to users of the website). 
 
-2\. If you would like to disable "third party" cookies generated by advertisers or providers of targeted advertising services, you can turn them off by going to the third party's website and getting them to generate a one-time "no thanks" cookie that will stop any further cookies being written to your machine. Here are links to the two main third party advertising platforms we use, each of which have instructions on how to do this: 
+6.2 If you would like to disable "third party" cookies generated by advertisers or providers of targeted advertising services, you can turn them off by going to the third party's website and getting them to generate a one-time "no thanks" cookie that will stop any further cookies being written to your machine. Here are links to the two main third party advertising platforms we use, each of which have instructions on how to do this: 
 
 <http://www.doubleclick.com/us/about_doubleclick/privacy/ad-cookie/>
 
 <http://www.revenuescience.com/site/privacy.asp>
 
-3\. You can also visit the trade body representing these advertising bodies for more information on how to opt out of these cookies: <http://www.networkadvertising.org/optout_nonppii.asp>
+6.3 You can also visit the trade body representing these advertising bodies for more information on how to opt out of these cookies: <http://www.networkadvertising.org/optout_nonppii.asp>
 
 7\. **Security**
 
-1\. The password you provide when registering with the website is encrypted to ensure protection against unauthorised access to your personal information. 
+7.1 The password you provide when registering with the website is encrypted to ensure protection against unauthorised access to your personal information. 
 
-2\. We invest in high-quality security and do our utmost to protect user privacy. No data transmission over the Internet can be entirely secure, and therefore we cannot guarantee the security of your personal information and/or use of the website. Any information that you send is at your own risk and may be read by others. However once we have received your personal information we use strict procedures to protect the security of your personal information. 
+7.2 We invest in high-quality security and do our utmost to protect user privacy. No data transmission over the Internet can be entirely secure, and therefore we cannot guarantee the security of your personal information and/or use of the website. Any information that you send is at your own risk and may be read by others. However once we have received your personal information we use strict procedures to protect the security of your personal information. 
 
 8\. **Disclosing your information**
 
-1\. We may disclose your personal information if we are approached by a potential buyer of our business, if we required to do so by law or in good-faith believing such action is necessary to comply with the law. 
+8.1 We may disclose your personal information if we are approached by a potential buyer of our business, if we required to do so by law or in good-faith believing such action is necessary to comply with the law. 
 
-2\. We sometimes share your personal information with third parties who are our subcontractors or providers of various products and services on our behalf e.g. the providers of the services available on our “Offers” page: <http://www.telegraph.co.uk/sponsored/offers/>. 
+8.2 We sometimes share your personal information with third parties who are our subcontractors or providers of various products and services on our behalf e.g. the providers of the services available on our “Offers” page: <http://www.telegraph.co.uk/sponsored/offers/>. 
 
-3\. We never sell personal information, or pass it to third parties for marketing purposes without your permission. 
+8.3 We never sell personal information, or pass it to third parties for marketing purposes without your permission. 
 
 9\. **Where we store your personal information**
 
-1\. The personal information that we collect from you may be sent and stored outside the European Economic Area ("EEA") in order to carry out the activities listed in “Use of Your Information”. 
+9.1 The personal information that we collect from you may be sent and stored outside the European Economic Area ("EEA") in order to carry out the activities listed in “Use of Your Information”. 
 
 10\. **Changes to this Policy**
 
-1\. If we change our Policy, we will post the changes on this page. Please check the website regularly for any changes to this Policy. 
+10.1 If we change our Policy, we will post the changes on this page. Please check the website regularly for any changes to this Policy. 
 
-11\. If you don't feel we're adhering to this Policy, what should you do? 
+11\. **If you don't feel we're adhering to this Policy, what should you do?**
 
-1\. If you believe that we have not adhered to this Policy, please notify us by email at [data.protection@telegraph.co.uk](mailto:data.protection@telegraph.co.uk) and we will try to solve the problem promptly 
+11.1 If you believe that we have not adhered to this Policy, please notify us by email at [data.protection@telegraph.co.uk](mailto:data.protection@telegraph.co.uk) and we will try to solve the problem promptly 
 
-This Policy was last updated on 21st May 2010. 
+This Policy was last updated on 11th August 2010. 
