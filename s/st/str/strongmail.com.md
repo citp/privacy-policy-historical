@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the strongmail.com privacy policy that was archived on 2010-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101210012457id_/http%3A//www.strongmail.com/site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the strongmail.com privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609204820id_/http%3A//www.strongmail.com/site/privacy-policy) for the most accurate reproduction.*
 
-# StrongMail's Privacy Policy | StrongMail
+# Social Media & Email Marketing Company Privacy Policy | StrongMail
+
+## StrongMail Privacy Policy
 
 This Privacy Policy describes the online information practices of StrongMail Systems, Inc. and StrongMail Systems UK, Ltd (each and together “StrongMail”), including the collection of information related to you, and, where applicable for a social media product or service, information related to your customers, clients and/or users and the information about others (“friends”) that they choose to share (including without limitation personal information or PII). This policy describes how StrongMail does or will use, process, store and protect such information. Our primary purpose in collecting information is to provide our products and services through a safe, effective, efficient and rewarding experience. Unless otherwise stated, this policy does not apply to offline information collection.
 
@@ -106,7 +108,7 @@ StrongMail can be reached by contacting:
 StrongMail Systems, Inc.  
 1300 Island Drive, Suite 200  
 Redwood City, CA 94065  
-**Phone:** (650) 421-4200  
+**Phone:** (650) 421-4255  
 **Fax:** (650) 421-4201  
 **[privacy@strongmail.com](mailto:privacy@strongmail.com)**
 
