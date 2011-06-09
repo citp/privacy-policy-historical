@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the canucks.com privacy policy that was archived on 2010-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101210142949id_/http%3A//www.nhl.com/ice/m_page.htm%3Fid%3D64440) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canucks.com privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609234739id_/http%3A//www.nhl.com/ice/m_page.htm%3Fid%3D64440) for the most accurate reproduction.*
 
-# NHL.com - Mobile
+# NHL.com - The National Hockey League
 
 **NHL Mobile Privacy Policy Highlights  
 **(To view the NHL Mobile Terms of Service [**click here**](http://www.nhl.com/ice/m_page.htm?id=64441)) **  
