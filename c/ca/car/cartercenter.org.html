@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cartercenter.org privacy policy that was archived on 2010-11-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101120123205id_/http%3A//cartercenter.org/about/faqs/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cartercenter.org privacy policy that was archived on 2011-06-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110609185044id_/http%3A//www.cartercenter.org/about/faqs/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US"><head profile="http://gmpg.org/xfn/11">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -179,7 +179,7 @@
 		<a href="javascript:window.location.href = window.location.href + '?printerFriendly=true';" class="printLink" style="float: left; height: 20px; line-height: 20px; display: block;
 			margin: 0px 10px 0px 0px;">
 			<img src="/resources/images/icon_print.gif" alt="Print This Page" align="middle" style="width: 20px; height: 12px; margin: 3px 2px 0px 0px; border: none; float: left;">Print
-			This Page</a> <a href="/SendToAFriend/EmailSubmitForm.aspx?step=0&amp;URL=http://cartercenter.org/about/faqs/privacy.html" class="printLink" style="float: left; height: 20px; line-height: 20px; display: block;
+			This Page</a> <a href="/SendToAFriend/EmailSubmitForm.aspx?step=0&amp;URL=http://www.cartercenter.org/about/faqs/privacy.html" class="printLink" style="float: left; height: 20px; line-height: 20px; display: block;
 				margin: 0px 10px 0px 0px;">
 				<img src="/resources/images/icon_mail.gif" alt="E-Mail This Page" align="middle" style="width: 20px; height: 12px; margin: 3px 2px 0px 0px; border: none; float: left;">E-Mail
 				This Page</a>
@@ -197,12 +197,12 @@
 			<!-- /AddThis Button -->
 		</div>
 		<div id="FacebookPanel" style="float: left; margin: px 0px; height: 20px; width: 100px;
-			overflow: hidden; background:white url(/resources/images/FacebookPanel.jpg) no-repeat;"><iframe src="http://www.facebook.com/plugins/like.php?href=http%3a%2f%2fcartercenter.org%2fabout%2ffaqs%2fprivacy.html&amp;layout=button_count&amp;show_faces=false&amp;width=100&amp;action=like&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:21px;" allowtransparency="true"></iframe></div>
+			overflow: hidden; background:white url(/resources/images/FacebookPanel.jpg) no-repeat;"><iframe src="http://www.facebook.com/plugins/like.php?href=http%3a%2f%2fwww.cartercenter.org%2fabout%2ffaqs%2fprivacy.html&amp;layout=button_count&amp;show_faces=false&amp;width=100&amp;action=like&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:21px;" allowtransparency="true"></iframe></div>
 
 		<script type="text/javascript">
 			jQuery(document).ready(function() {
 				setTimeout(function() {
-					var _RequestUrl = 'http%3a%2f%2fcartercenter.org%2fabout%2ffaqs%2fprivacy.html';
+					var _RequestUrl = 'http%3a%2f%2fwww.cartercenter.org%2fabout%2ffaqs%2fprivacy.html';
 					if (typeof _RequestUrl != "undefined" && _RequestUrl.length > 0)
 						jQuery("#FacebookPanel").html("<iframe src=\"http://www.facebook.com/plugins/like.php?href=" + _RequestUrl + "&amp;layout=button_count&amp;show_faces=false&amp;width=100&amp;action=like&amp;colorscheme=light&amp;height=21\" scrolling=\"no\" frameborder=\"0\" style=\"border:none; overflow:hidden; height:21px;\" allowTransparency=\"true\"></iframe>");
 				}, 1000)
@@ -225,19 +225,29 @@
 			<div class="rightColumn">
 				
 <div class="donate">
-	<a href="https://secure3.convio.net/carter/site/Donation2?idb=693950898&amp;df_id=1220&amp;1220.donation=form1&amp;JServSessionIdr004=tauosdnmt2.app303a" target="_blank">
-		<img src="/resources/images/landing_donateBtn.jpg" border="0" alt="Donate">
-	</a>
-	
-	<div class="emailSignupContainer">
-		<form style="margin: 0px; padding: 0px;">
-		<input class="emailField" id="email" name="email" type="text" value="Get E-Mail Updates About Our Work" onfocus="if (this.value == 'Get E-Mail Updates About Our Work') this.value='';" onblur="if (this.value == '') this.value='Get E-mail Updates About Our Work';">
-		<!--<input class="emailSubmit" name="submit" type="image" src="/resources/images/submitBtn2.gif" alt="SUBMIT" />-->
-		<a href="javascript:donateEmail();">
-			<img src="/resources/images/submitBtn2.gif" align="top" alt="" border="0"></a>
-		</form>
-	</div>
-	
+    <a href="https://secure3.convio.net/carter/site/Donation2?idb=693950898&amp;df_id=1220&amp;1220.donation=form1&amp;JServSessionIdr004=tauosdnmt2.app303a" target="_blank">
+        <img src="/resources/images/landing_donateBtn.jpg" border="0" alt="Donate">
+    </a>
+    
+    <div class="emailSignupContainer">
+<!-- Insert code below into emailSignupContainer div -->
+<script type="text/javascript">
+function setValue(x){
+  document.getElementById('s_emailaddress').value=x;
+}
+</script>
+<form method="POST" action="http://donate.cartercenter.org/site/Survey" style="margin: 0px; padding: 0px;">
+<input type="hidden" name="cons_info_component" id="cons_info_component" value="t">
+<input type="text" name="cons_email" id="cons_email" value="Get E-Mail Updates About Our Work." class="emailField" onfocus="this.value='';" onchange="setValue(this.value);">
+<input type="text" name="denySubmit" id="denySubmit" value="" alt="This field is used to prevent form submission by scripts." style="display:none;">
+<input type="image" src="https://secure3.convio.net/carter/images/20101229/submitBtn.gif" class="emailSubmit" name="ACTION_SUBMIT_SURVEY_RESPONSE" id="ACTION_SUBMIT_SURVEY_RESPONSE" value="Submit">
+<input type="reset" name="reset" id="reset" value="Reset Answers" class="Button" style="display:none;">
+<input type="submit" name="ACTION_CANCEL_RESPONSE_SUBMIT" id="ACTION_CANCEL_RESPONSE_SUBMIT" value="Skip Survey" class="Button" style="display:none;">
+<input type="hidden" name="SURVEY_ID" id="SURVEY_ID" value="2301">
+<input type="hidden" name="s_emailaddress" id="s_emailaddress">
+</form>    
+    </div>
+    
 </div>
 
 				<div class="sideBarBlock"><div class="sideBarPadding"><div style="clear: both; height: 12px;"></div></div></div>
@@ -260,7 +270,7 @@
 		<div class="footerContainer">
 			<div class="footerNav">
 					<a href="/about/contact.html" class="footerLink">Contact Us</a>|
-					<a href="http://carter.convio.net/site/UserLogin?NEXTURL=http%3A%2F%2Fcarter.convio.net%2Fsite%2FPageServer%3Fpagename%3Demail_signup%26cons_email%3D" class="footerLink">Manage Your Profile</a>|
+					<a href="http://carter.convio.net/site/ConsProfileUser" class="footerLink">Manage Your Profile</a>|
 					<a href="http://carter.convio.net/site/PageServer?pagename=email_signup" target="_blank" class="footerLink">E-Mail Sign-Up</a>|
 					<a href="http://www.emory.edu" target="_blank" class="footerLink">Emory University</a>|
 					<a href="http://www.jimmycarterlibrary.org" target="_blank" class="footerLink">Jimmy Carter Library &amp; Museum</a>|
@@ -284,7 +294,7 @@
 			</div>        
 		</div>
 		<!-- end footerConainer -->
-				<span class="footerLink">© 2010 The Carter Center. All Rights Reserved</span>
+				<span class="footerLink">© 2011 The Carter Center. All Rights Reserved</span>
 	</div>
 	<!-- end Footer -->
 	<!--<div style="position:absolute; z-index:10000; top:0px; left:0px; font-family:Arial; background:white;">~/templates/redesign_sub_about.aspx</div>-->
