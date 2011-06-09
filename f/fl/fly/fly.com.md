@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fly.com privacy policy that was archived on 2010-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101026024519id_/http%3A//www.fly.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fly.com privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609062122id_/http%3A//www.fly.com/privacy) for the most accurate reproduction.*
 
 # Fly.com Privacy Policy
 
@@ -12,9 +12,9 @@ What This Privacy Policy ("Policy") Covers
 
   * This Policy explains the privacy practices of Travelzoo Inc. and its family of related companies (collectively, "Travelzoo") and applies to your use of Travelzoo's online products and services including various e-mail newsletters published by Travelzoo, the Websites that link to this policy, and any related information services (collectively, the "Online Services").  
  
-  * This Policy covers how Travelzoo treats the personal information we collect and receive related to your use of our Online Services.   
+  * This Policy covers how Travelzoo treats personal information and non-personal information we or third-parties may collect and receive related to your use of our Online Services.   
  
-  * When we refer to "personal information," what we mean is any information about you that is personally identifiable like your name, address, e-mail address, or phone number, and any other information that is not otherwise publicly available.   
+  * When we refer to "personal information," what we mean is any information about you that is personally identifiable like your name, address, e-mail address, or phone number, and any other information that is not otherwise publicly available. When we refer to "non-personal information," what we mean is any information that is not personal information.  
  
   * Please understand that this Policy does not apply to the practices of people or companies that Travelzoo does not own, control, employ, or manage.  
  
@@ -35,7 +35,7 @@ What This Privacy Policy ("Policy") Covers
 
 Sharing and Disclosing Information
 
-  * Travelzoo does not rent or sell personal information about you to third parties, however, we reserve the right to share the personal information we collect about you through our Online Services with third parties when we have your permission or under the circumstances described below.   
+  * Travelzoo does not rent or sell personal information about you to third parties. We reserve the right for third parties to collect non-personal information. We also reserve the right to share the personal information we collect about you through our Online Services with third parties when we have your permission or under the circumstances described below.   
  
   * Travelzoo may use the data we collect about you for the following purposes:   
  
@@ -77,7 +77,7 @@ Cookies and Other Technologies
 
 Your Account Information and Preferences
 
-  * Travelzoo respects your right to control how your personal information is used. Travelzoo may give you the opportunity to request communications from vendors, partners, advertisers, and other service providers. For more information about these opportunities, to edit your personal information, to unsubscribe from receiving Travelzoo services you previously requested, to alter expressed preferences or to terminate your account if you previously created one, please visit your [User Profile](http://www.travelzoo.com/profiles/).  
+  * Travelzoo respects your right to control how your personal information is used. Travelzoo may give you the opportunity to request communications from vendors, partners, advertisers, and other service providers. For more information about these opportunities, to edit your personal information, to unsubscribe from receiving Travelzoo services you previously requested, to alter expressed preferences or to terminate your account if you previously created one, please visit your [User Profile](http://www.travelzoo.com/profiles/). For more information on how to opt-out of having non-personal information collected by third parties, visit the consumer opt-out section of networkadvertising.org.  
  
   * We reserve the right to send you certain communications relating to the Travelzoo Online Services or your account, such as service announcements and administrative messages, without offering you the opportunity to opt out of receiving them.   
  
