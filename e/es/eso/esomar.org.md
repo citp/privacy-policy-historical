@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the esomar.org privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125142342id_/http%3A//www.esomar.org/index.php/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esomar.org privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609081816id_/http%3A//www.esomar.org/index.php/privacy-policy.html) for the most accurate reproduction.*
 
 # ESOMAR - Privacy Policy
 
@@ -19,6 +19,8 @@ ESOMAR respects the personal data of members and customers and does not sell, re
 ESOMAR does not request personal data from you, other than to process a transaction or application for ESOMAR membership and/or company listing in the ESOMAR Directory, a registration for an ESOMAR event, or an order for an ESOMAR publication, such as the online Directory of members* or for analytical research.
 
 ESOMAR will also use your personal data to inform you about activities, products and services of ESOMAR and relevant third parties, unless you have notified ESOMAR that you do not to wish to receive such information.
+
+ESOMAR will only share your personal information with a third party if you expressly ask to receive information from them. Please note that to stop receiving information from a third party, you will need to contact them directly.
 
 *Only Members are entitled to access the Directory of Members.
 
@@ -83,4 +85,4 @@ This privacy policy is governed by and construed in accordance with the law of t
 
 ESOMAR reserves the right to change any of the terms of this privacy policy at any time and without notice. ESOMAR therefore recommends that you review this privacy policy from time to time, or before making a transaction.
 
-Amsterdam, 10 September 2009
+Amsterdam, 1 February 2011
