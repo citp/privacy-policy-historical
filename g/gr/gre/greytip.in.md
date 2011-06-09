@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the greytip.in privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231133940id_/http%3A//www.greytip.in/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greytip.in privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609211851id_/http%3A//www.greytip.in/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Greytip Online
 
 At Greytip Software Pvt. Ltd., we believe it is your right to know what information we collect, how we use it, and what your options are for its use. This privacy policy applies to all of the products and services offered by Greytip or its subsidiaries or affiliated companies ("The Company", "Greytip", "Greytip Online", "Service", "we", "us", "our", and terms of similar meaning).
 
-Greytip Software adheres to the [US Safe Harbor Privacy Principles](http://www.export.gov/safeharbor/) of: Notice, Choice, Onward Transfer, Access, Security, Data Integrity, and Enforcement.
+Greytip Software adheres to the [US Safe Harbor Privacy Principles](https://www.export.gov/safeharbor/) of: Notice, Choice, Onward Transfer, Access, Security, Data Integrity, and Enforcement.
 
-By accepting the Privacy Policy in registration or by visiting and using the Site, you expressly consent to our collection, use and disclosure of your personal information in accordance with this Privacy Policy. This Privacy Policy is incorporated into and subject to our [Terms of Use.](https://web.archive.org/web/20101231133940id_/http%3A//www.greytip.in/content/terms-service)
+By accepting the Privacy Policy in registration or by visiting and using the Site, you expressly consent to our collection, use and disclosure of your personal information in accordance with this Privacy Policy. This Privacy Policy is incorporated into and subject to our [Terms of Use.](https://web.archive.org/web/20110609211851id_/http%3A//www.greytip.in/content/terms-service)
 
 If you have any questions about this Privacy Policy, please feel free to contact us through our website or write to us at:
 
