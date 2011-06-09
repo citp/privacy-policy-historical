@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the springer.com privacy policy that was archived on 2010-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101210073913id_/http%3A//www.springer.com/generic/privacy%3FSGWID%3D0-40111-0-0-0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the springer.com privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609204828id_/http%3A//www.springer.com/generic/privacy%3FSGWID%3D0-40111-0-0-0) for the most accurate reproduction.*
 
 # Journals, Academic Books & Online Media | Springer
 
