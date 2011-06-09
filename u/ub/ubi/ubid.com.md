@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ubid.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225013707id_/http%3A//www.ubid.com/help/docs/privacy-security-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ubid.com privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609233451id_/http%3A//www.ubid.com/help/docs/privacy-security-policy.aspx%3Ffooter) for the most accurate reproduction.*
 
 # What is uBid.com's Privacy & Security Policy? - uBid.com
 
