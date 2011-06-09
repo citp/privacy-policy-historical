@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oregon.gov privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216011939id_/http%3A//www.oregon.gov/DAS/EISPD/EGOV/termsconditions.shtml%23Privacy_Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oregon.gov privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609101502id_/http%3A//www.oregon.gov/DAS/EISPD/EGOV/termsconditions.shtml%23Privacy_Statement) for the most accurate reproduction.*
 
 # E-government Privacy and Terms and Conditions
 
