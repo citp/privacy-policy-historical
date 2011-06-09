@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the site24x7.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127152900id_/http%3A//www.site24x7.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the site24x7.com privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609094822id_/http%3A//site24x7.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Site24x7 - Privacy Policy
 
@@ -93,7 +93,7 @@ We make take every effort including periodic reviews to ensure that Personal Inf
 
 ## **Notification of Changes**
 
-Any changes to the Site24x7 Privacy Policy will be posted on our websites in order to keep you informed of any changes in nature of information collected, manner of collection, use and sharing of information. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify you by email and provide you with the ability to opt out of these new uses unless you have opted out from receiving email notifications from us. You will not receive email notification of minor changes to the Site24x7 Privacy Policy. If you are concerned about how your information is used, you should check back at _[http://www.site24x7.com/privacypolicy.html](http://www.site24x7.com/privacypolicy.html)_ periodically. 
+Any changes to the Site24x7 Privacy Policy will be posted on our websites in order to keep you informed of any changes in nature of information collected, manner of collection, use and sharing of information. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify you by email and provide you with the ability to opt out of these new uses unless you have opted out from receiving email notifications from us. You will not receive email notification of minor changes to the Site24x7 Privacy Policy. If you are concerned about how your information is used, you should check back at _[//www.site24x7.com/privacypolicy.html](https://www.site24x7.com/privacypolicy.html)_ periodically. 
 
 ## **END OF PRIVACY POLICY**
 
