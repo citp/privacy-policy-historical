@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the expertrating.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225091249id_/http%3A//www.expertrating.com/privacy/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expertrating.com privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609145216id_/http%3A//www.expertrating.com/privacy/privacy.html) for the most accurate reproduction.*
 
 # ExpertRating - Online Certification and Employment Testing
 
@@ -6,7 +6,7 @@
 
 ExpertRating Solutions has been awarded TRUSTe's Privacy [ ](http://clicktoverify.truste.com/pvr.php?page=validate&url=www.expertrating.com&sealid=101) Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [ExpertRating Help Desk](http://www.expertrating.com/contact.asp). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint) . 
 
-Expert Rating Solutions is committed to protecting your privacy. We have established this privacy statement to communicate our information practices through this statement, pertaining to the collection, use and protection of the personal information we collect. This privacy statement applies exclusively to the Website [www.expertrating.com](https://web.archive.org/web/20101225091249id_/http%3A//www.expertrating.com/privacy/www.expertrating.com). By using this Website, you are providing your consent to the privacy practices disclosed within this statement. 
+Expert Rating Solutions is committed to protecting your privacy. We have established this privacy statement to communicate our information practices through this statement, pertaining to the collection, use and protection of the personal information we collect. This privacy statement applies exclusively to the Website [www.expertrating.com](https://web.archive.org/web/20110609145216id_/http%3A//www.expertrating.com/privacy/www.expertrating.com). By using this Website, you are providing your consent to the privacy practices disclosed within this statement. 
 
 **What type of user related information do we collect?**
 
