@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the cardquery.com privacy policy that was archived on 2010-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100706030658id_/https%3A//www.swreg.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cardquery.com privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609221744id_/https%3A//www.swreg.org/privacy.htm) for the most accurate reproduction.*
 
 # SWREG: Privacy
-
-DR globalDirect, Inc. PRIVACY POLICY
 
 **IMPORTANT: PLEASE REVIEW THIS DR GLOBALDIRECT, INC. PRIVACY POLICY BEFORE SUBMITTING ANY PERSONAL INFORMATION TO DIGITAL RIVER THROUGH THIS WEB SITE.**
 
@@ -79,7 +77,7 @@ DR globalDirect uses the personal information we collect on this Web site:
 
 
 
-In addition, we may use specific personal information for the purposes identified in a specific Privacy Notice posted on the page or area of this Web site where you provided that information. 
+In addition, we may use specific personal information for the purposes identified in a specific Privacy Notice posted on the page or area of this Web site where you provided that information.
 
 We may remove all of the information that identifies you specifically and use the rest for historical, statistical or scientific purposes.
 
@@ -174,3 +172,5 @@ About Digital River KK. Digital River KK is a subsidiary of Digital River, Inc.,
 How We Collect, Use, Share and Protect Your Personal Information. When you access and use this Site, Digital River Japan will collect, use, share, and protect your personal information in accordance with the terms of this Privacy Policy and the Privacy Notices posted on this Site. Our Privacy Policy provides general information about our privacy practices; the Privacy Notices on this Site provide specific information about the ways we use and share (and your choices about the ways we use and share) the personal information we collect on this Site.
 
 Joint Use. Digital River is an independent e-commerce reseller. Each of our Web sites is co-branded with the name and trademarks of one of our Partners. We provide the personal information we collect on a particular Web site with the Partner for that Web site. We also pass on to our Partner the privacy preferences you have expressed on our Web site. For example, if you have asked to be added to our Partner's mailing lists, we will pass on that information. If you have declined an opportunity to be added to our Partner's mailing lists, we will also pass on that information. We do not provide your credit card information to our Partner unless you have purchased a subscription that qualifies for automatic renewal. Digital River [Japan] and the Partner jointly use your personal information. Our Partner's privacy policy governs our Partner's use of the personal information we share with them. You may review our Partner's privacy policy at any time by clicking on the link at the bottom of each page of the Web site. You may contact our Partner using the contact information provided in our Partner's privacy policy.
+
+SWREG offers a paypal alternative, affordable ecommerce, payment processing, ecommerce solution, and an online software store with the ability to sell shareware. 
