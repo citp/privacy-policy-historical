@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the questback.com privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527203235id_/http%3A//www.questback.com/Articles/Privacy-and-Security-Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the questback.com privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609210746id_/http%3A//www.questback.com/articles/privacy-and-security-statement) for the most accurate reproduction.*
 
-# Privacy and Security Statement | Questback Worldwide
+# Privacy and Security Statement | QuestBack Worldwide
 
 ## PRIVACY & SECURITY STATEMENT (QUESTBACK.COM)
 
