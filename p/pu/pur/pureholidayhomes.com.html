@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the pureholidayhomes.com privacy policy that was archived on 2010-12-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101229215325id_/http%3A//www.pureholidayhomes.com/terms_and_conditions%23privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pureholidayhomes.com privacy policy that was archived on 2011-06-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110609081144id_/http%3A//www.pureholidayhomes.com/terms_and_conditions%23privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 <meta http-equiv="content-type" content="text/html; charset=utf-8">
@@ -17,16 +17,16 @@
 <script type="text/javascript">var Page = { sid: 400000, pid: 7, ltr: false }</script>
 <script language="JavaScript" type="text/javascript" src="js/common/admin-interface.tao?v=2645"></script>
 <link rel="stylesheet" href="css/css.tao" type="text/css">
-<link rel="stylesheet" href="css/styles.css?v=2.2.1" type="text/css">
-<link rel="stylesheet" href="css/styles.css?v=2.2.1?v=2.2.1" type="text/css">
-<link rel="stylesheet" href="css/ui.css?v=2.2.1" type="text/css">
-<script language="JavaScript" type="text/javascript" src="js/common.js?v=2.2.1"></script>
-<script language="JavaScript" type="text/javascript" src="js/calendarpopup.js?v=2.2.1"></script>
-<script language="JavaScript" type="text/javascript" src="js/swfobject.js?v=2.2.1"></script>
-<script language="JavaScript" type="text/javascript" src="js/input.js?v=2.2.1"></script>
-<script language="JavaScript" type="text/javascript" src="js/pure.js?v=2.2.1"></script>
-<link rel="stylesheet" href="css/fancy-popup-styles.css?v=2.2.1" type="text/css">
-<script language="JavaScript" type="text/javascript" src="js/fancy-popup.js?v=2.2.1"></script>
+<link rel="stylesheet" href="css/styles.css?v=2.6.8" type="text/css">
+<link rel="stylesheet" href="css/styles.css?v=2.6.8?v=2.6.8" type="text/css">
+<link rel="stylesheet" href="css/ui.css?v=2.6.8" type="text/css">
+<script language="JavaScript" type="text/javascript" src="js/common.js?v=2.6.8"></script>
+<script language="JavaScript" type="text/javascript" src="js/swfobject.js?v=2.6.8"></script>
+<script language="JavaScript" type="text/javascript" src="js/input.js?v=2.6.8"></script>
+<script language="JavaScript" type="text/javascript" src="js/calendarpopup.js?v=2.6.8"></script>
+<script language="JavaScript" type="text/javascript" src="js/pure.js?v=2.6.8"></script>
+<link rel="stylesheet" href="css/fancy-popup-styles.css?v=2.6.8" type="text/css">
+<script language="JavaScript" type="text/javascript" src="js/fancy-popup.js?v=2.6.8"></script>
 <link rel="stylesheet" type="text/css" media="print" href="css/print.css">
   <script src="https://www.dwin1.com/2936.js" type="text/javascript" defer="defer"> </script>
 	<script type="text/javascript">
@@ -52,6 +52,13 @@ function xajax_pureAfterLogin(){return xajax.call("pureAfterLogin", arguments, 1
 function xajax_pureLogin(){return xajax.call("pureLogin", arguments, 1);}
 function xajax_pureForgottenPasswordPopup(){return xajax.call("pureForgottenPasswordPopup", arguments, 1);}
 function xajax_pureRequestNewPassword(){return xajax.call("pureRequestNewPassword", arguments, 1);}
+function xajax_renderCompetitionPopup(){return xajax.call("renderCompetitionPopup", arguments, 1);}
+function xajax_enterCompetition(){return xajax.call("enterCompetition", arguments, 1);}
+function xajax_saveVisitorsDataFromCompetition(){return xajax.call("saveVisitorsDataFromCompetition", arguments, 1);}
+function xajax_saveCompetitionAnswer(){return xajax.call("saveCompetitionAnswer", arguments, 1);}
+function xajax_sendCompetitionInvitations(){return xajax.call("sendCompetitionInvitations", arguments, 1);}
+function xajax_postEntranceToFb(){return xajax.call("postEntranceToFb", arguments, 1);}
+function xajax_postInvitationsToFb(){return xajax.call("postInvitationsToFb", arguments, 1);}
 /* ]]> */
 	</script>
 	<script type="text/javascript" src="js/xajax_js/xajax.js"></script>
@@ -61,9 +68,25 @@ window.setTimeout(function () { if (!xajaxLoaded) { alert('Error: the xajax Java
 	<script type="text/javascript" src="js/xajax_js/xajax_extend.js"></script>
 
 <link rel="icon" type="image/png" href="favicon.ico">
-<link rel="shortcut icon" href="favicon.ico">
+<link rel="shortcut icon" href="favicon.ico"><meta property="fb:page_id" content="192801855795">
 </head>
 <body>
+<div id="scrollablePopupContainer"></div>
+<div id="mainContainer">
+ <div id="fb-root"></div>
+ <script src="http://connect.facebook.net/en_US/all.js"></script>
+ <script>
+   FB.init({
+     appId  : '106241526117702',
+     status : true, // check login status
+     cookie : true, // enable cookies to allow the server to access the session
+     xfbml  : true  // parse XFBML
+   });
+ </script>
+ <input type="hidden" name="FacebookInvitedIds" id="FacebookInvitedIds" value="">
+ <input type="hidden" name="CompetitionEnabled" id="CompetitionEnabled" value="false">
+ <input type="hidden" name="CompetitionId" id="CompetitionId" value="0001">
+ <input type="hidden" name="CompetitionTermsAndCondsUrl" id="CompetitionTermsAndCondsUrl" value="/article/win-a-trip-to-paris-and-a-brand-new-ipad2/184">
 <div id="divAdminContainer">
     <div id="divSaveMessage"></div>
     <div id="divDimmer"></div>
@@ -111,33 +134,56 @@ window.setTimeout(function () { if (!xajaxLoaded) { alert('Error: the xajax Java
 </script>
 
   <div id="header">
-    <a href="./" id="site_logo"><span>Pure holiday homes</span></a>
+    <a href="./" id="site_logo"><span>Pure holiday homes – Villas, apartments and Cottages for rent.</span></a>
     <div id="search">
       <form action="./search" method="post">
         <label for="quick_search"><span>find your escape</span></label>
-        <input type="text" name="q" id="quick_search" value="Search by location, activity or keyword" onclick="if(this.value=='Search by location, activity or keyword'){this.value='';}else{this.select();}" onblur="if(this.value==''){this.value='Search by location, activity or keyword';}" class="swc_SearchBox">
+        <input type="text" name="q" id="quick_search" value="Search by location or property id" onclick="if(this.value=='Search by location or property id'){this.value='';}else{this.select();}" onblur="if(this.value==''){this.value='Search by location or property id';}" class="swc_SearchBox">
 		<div id="SearchComplete" class="autocomplete"></div>
 		<input type="image" src="images/ui/s.gif" alt="Go" class="spr_Go">
 </form>
       &nbsp;
     </div>
-    <div id="user"><p><a href="register">Register now</a> <a href="javascript:void(0);" onclick="Pure.forgottenPassword();">Password reminder</a></p>
+    <div>
+      <div id="user"><p><a href="register">Register now</a> <a href="javascript:void(0);" onclick="Pure.forgottenPassword();">Password reminder</a></p>
 <form action="" method="post" name="frmLogin" id="frmLogin" onsubmit="return false;">
   <input type="text" name="Email" id="Email" value="Email" class="focus">
   <input type="text" name="Password" id="Password" value="Password" class="focus">
   <input type="image" alt="Login" src="images/ui/s.gif" onclick="xajax_login(xajax.getFormValues('frmLogin'));return false" class="spr_login" id="LoginForm_Login">
 </form>
 <p id="frmLoginErrorMessage" class="simple-error"></p></div>
-    <ul id="nav_main">
-      <li><a href="./" id="main-menu-home-button">home</a></li>
-      <li><a href="./search" id="main-menu-search-button">search</a></li>
+      <div id="nav_soc_med">
+  	<div id="nav_soc_med_other_buts">
+  	    	<a href="http://www.facebook.com/pureholidayhomes" target="_blank"><img class="clickable" src="images/ui/follow_us_fb.jpg" width="23" height="25"></a>
+	    	<a href="http://twitter.com/pureholidayhome" target="_blank"><img class="clickable" src="images/ui/follow_us_twitter.jpg" width="23" height="25"></a>
+	</div>
+    	<div id="nav_soc_med_fb_like_cont">
+    		<iframe src="http://www.facebook.com/plugins/like.php?href=http://www.pureholidayhomes.com/&amp;layout=button_count&amp;show_faces=false&amp;width=60&amp;action=like&amp;font&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:50px; height:21px;" allowtransparency="true"></iframe>
+    	</div>
+      </div>
+      <ul id="nav_main">
+        <li><a href="./" id="main-menu-home-button">home</a></li>
+        <li><a href="./search" id="main-menu-search-button">search</a></li>
 <!--      <li><a href="./news">news</a></li> -->
-      <li><a href="./list-with-pure" id="main-menu-listwithpure-button">list with pure</a></li>
-      <li><a href="./travel-news" id="main-menu-travelnews-button">travel news</a></li>
-    </ul>
-    <div class="clear"></div>
+        <li><a href="./list-with-pure" id="main-menu-listwithpure-button">list with pure</a></li>
+        <li><a href="./travel-news" id="main-menu-travelnews-button">travel news</a></li>
+      </ul>
+      <div class="clear"></div>
+    </div>
   </div>
 <div id="print_header"><img src="./images/ui/print-logo.jpg" width="300" alt="pureholidayhomes.com"></div>
+
+<div id="subnav_bar">
+	<ul id="subnav_bar_ul">
+		<li><a href="./search" class="">all holiday rentals</a></li>
+		<li><a href="./city-breaks" class="">city breaks</a></li>
+		<li><a href="./skiing-holidays" class="">skiing holidays</a></li>
+		<li><a href="./search/ASuit=Long_term_rentals" class="">long term rental</a></li>
+		<li><a href="./olympic-rentals" class="">olympic 2012 rental</a></li>
+		<li><a href="./search/ADeals=EB,LD" class="">special offers</a></li>
+		<li><a href="./home-exchange" class="">home exchange</a></li>
+	</ul>
+</div>
   <div id="mount">
     <div class="vg">
       <div id="page_content"><div class="ai_cb_na" id="divContentBlockContentc4f1cda4-dc3c-47b4-493e-a24c9c9a7cf6"><div class="html_content">
@@ -150,7 +196,7 @@ window.setTimeout(function () { if (!xajaxLoaded) { alert('Error: the xajax Java
 <p style="text-align: left;"><strong>Terms applicable to all users of this website</strong></p>
 <p style="text-align: left;"><strong>Definitions</strong><br>1. In these terms and conditions, the following words and expressions have the following meanings unless the context otherwise requires;-</p>
 <p style="text-align: left;">“you” and “your” means any and all persons using this website including, without limitation and where applicable, property owners;</p>
-<p style="text-align: left;">“we”, “us” and “our” means Pure Holdings;</p>
+<p style="text-align: left;">“we”, “us” and “our” means pureholidayhomes.com;</p>
 <p style="text-align: left;">“website” means this website with the URL www.pureholidayhomes.com;</p>
 <p style="text-align: left;">“terms” means these terms and conditions;</p>
 <p style="text-align: left;">“property(ies)” means, individually and collectively, the properties and accommodation units advertised for rental on this website;</p>
@@ -163,9 +209,9 @@ window.setTimeout(function () { if (!xajaxLoaded) { alert('Error: the xajax Java
 <p style="text-align: left;"><strong>Responsibility for website material</strong><br>5. All material (including but not limited to descriptions, photographs, images, video, plans, maps and other information) relating to the properties which appears on this website is provided by the property owners and is the sole responsibility of the property owners. We do not check this material and make no express or implied warranty, representation or promise that it is accurate, current or complete or that properties are available either generally or for or during any particular period(s) of time. Nothing on this website constitutes an offer on our part. We do not visit or assess any property and make no warranty or representation that it complies with any description given, any laws or health and safety requirements or as to its suitability, standard, quality or otherwise.</p>
 <p style="text-align: left;"><strong>Use of this website</strong><br>6. As a condition of your use of this website, you warrant to us that you will not use it or any material or information on it for any purpose that is unlawful or prohibited by these terms or by law. You warrant that you are at least 18 years old and have the legal authority to use this website in accordance with these terms. You agree to be financially responsible for all charges, fees and other sums of whatever nature which arise out of your use of this website.&nbsp;</p>
 <p style="text-align: left;">7. Save for property owners in relation to their properties. this website is for your personal and non commercial use only. You may only download, print, store and use any material appearing on the website for the purpose of researching and/or making a holiday rental booking for yourself, family or friends or sending the same onto family or friends for like purpose. We grant you a non exclusive, revocable licence to use our website for and limited to this purpose and for these activities. All other activities are expressly prohibited. Except as expressly authorised by these terms or as we agree in writing in advance, you may not modify, copy, download, print, distribute, transmit, display, reproduce, publish, license, create derivative works from, transfer, sell or in any other way use or make available any material appearing on this website. We may terminate your licence to use and may prevent your using our website in the event of your breaching these terms. You also agree to indemnify us for all claims, liabilities, damages, losses, costs and all other sums of whatever nature which we suffer or incur as a result of your breach of these terms.</p>
-<p style="text-align: left;"><strong>Intellectual property rights</strong><br>8. The contents of this website constitute a database for the purpose of The Copyright and Rights in Databases Regulations 1997. All rights relating to this database belong to Pure Holdings. The contents of this website and the material it contains are also protected by copyright. Such copyright belongs to Pure Holdings, the property owners and other third parties.</p>
+<p style="text-align: left;"><strong>Intellectual property rights</strong><br>8. The contents of this website constitute a database for the purpose of The Copyright and Rights in Databases Regulations 1997. All rights relating to this database belong to pureholidayhomes.com. The contents of this website and the material it contains are also protected by copyright. Such copyright belongs to pureholidayhomes.com, the property owners and other third parties.</p>
 <p style="text-align: left;"><a name="privacy"></a></p>
-<p style="text-align: left;"><strong>Privacy policy</strong><br>9. For the purposes of the Data Protection Act 1998, we &nbsp;Pure Holdings are a data controller. This privacy policy sets out how we collect and use personal data from your visit to our website. It covers this website only.&nbsp; Links to other websites and any information collected by those sites are not covered by this privacy policy. You should check the privacy policy of any other website before using it. This privacy policy may be amended or added to from time to time so you should regularly check it.</p>
+<p style="text-align: left;"><strong>Privacy policy</strong><br>9. For the purposes of the Data Protection Act 1998, we pureholidayhomes.com are a data controller. This privacy policy sets out how we collect and use personal data from your visit to our website. It covers this website only.&nbsp; Links to other websites and any information collected by those sites are not covered by this privacy policy. You should check the privacy policy of any other website before using it. This privacy policy may be amended or added to from time to time so you should regularly check it.</p>
 <p style="text-align: left;"><strong>How do we collect personal data?</strong><br>In common with most websites, our website uses cookies. A ‘cookie’ is a small data file which our website server stores on your computer in order to collect information about your visit to our website and to remember you when you visit again at a later date.<strong> </strong>&nbsp;&nbsp;The main purpose of a cookie is to identify users and to personalise their visit by customising web pages for their use. We may also use third parties who will collect non personally identifiable data (such as the IP address of a user’s computer) to analyse site visits, display advertising, conduct surveys or carry out other similar activities. In the course of doing so, they may place their own cookies on your computer so that they can collect information about your visit and customise their services and advertising for later visits accordingly. You may if you wish disable or delete such cookies through your internet browser. However, doing so may mean you will be unable to access this website or parts of it, your experience of our website will be adversely affected and/or you will not receive information or advertising which is relevant to your personal interests.<br>We may also track and use third parties to track your use of our website and the route by which you access it using non personally identifiable data. In order to do so, we / the third parties may use web beacons which serve a similar function to cookies. We may share anonymised information with third parties for the purpose of collating and analysing website traffic and patterns.<strong></strong></p>
 <p style="text-align: left;"><strong>What do we do with the personal data we collect?</strong><br>We would like to store and use your personal data for future marketing purposes such as dedicated email marketing and newsletters. We are part of a group of companies. In addition to our storing and using your personal data, we would also like to pass it to other companies within our group to enable them to send you marketing material which may be of interest to you. If you do not wish to receive such marketing, there will be an ‘unsubscribe’ option on all email marketing or alternatively, send an unsubscribe request to: <a href="mailto:contact@pureholidayhomes.com" target="_blank"><span style="text-decoration: underline;"><span style="color: #0000ff;">contact@pureholidayhomes.com</span></span></a></p>
 <p style="text-align: left;">The third parties referred to under “How do we collect personal data?” above are not permitted to collect any personal data from you in the course performing their services.</p>
@@ -184,14 +230,15 @@ window.setTimeout(function () { if (!xajaxLoaded) { alert('Error: the xajax Java
 <p style="text-align: left;">16. Without prejudice to any other provision(s) of these terms, we are entitled to the benefit of any applicable exclusions and/or limitations of liability permitted by the laws of any country found to be applicable to this website or any material appearing on it.</p>
 <p style="text-align: left;"><strong>Alteration of these terms</strong><br>17.&nbsp; We may alter these terms at any time and without prior notice.&nbsp; If we do so, all subsequent use of our website will be governed by the newer version.&nbsp; You must accordingly check these terms regularly.</p>
 <p style="text-align: left;"><strong>Terms applicable only to property owners</strong></p>
-<p style="text-align: left;"><strong>Payment and renewal</strong><br>18. Payment for advertising your property with us is made through the website using our PayPal™ account. Alternative methods of payment include RBS Worldpay or wire transfer.</p>
-<p style="text-align: left;">19. Subject to these terms, properties are advertised on the website for a period of 3, 6 or 12 months at a time. Subscription fees are non refundable. Properties will be automatically advertised on the website for a further 12 month period on the expiry of any 12 month advertising period and you will be automatically debited with the applicable payment unless you advise us by e-mail to the applicable e-mail address prior to the expiry of the 12 month period that you do not wish to renew your advertising. We will notify you by e-mail that your 12 month advertising period is about to expire approximately 1 month in advance. Failure to receive this communication does not invalidate the automated renewal. The responsibility to cancel the renewal is that of the advertiser.</p>
-<p style="text-align: left;">20. You may cancel any automatic renewal and receive a refund of any payment which has been automatically deducted in respect of the renewal providing you notify us by e-mail to the applicable e-mail address within 14 days after payment has been deducted.</p>
+<!--[if gte mso 9]><xml> <w:WordDocument> <w:View>Normal</w:View> <w:Zoom>0</w:Zoom> <w:PunctuationKerning /> <w:ValidateAgainstSchemas /> <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid> <w:IgnoreMixedContent>false</w:IgnoreMixedContent> <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText> <w:Compatibility> <w:BreakWrappedTables /> <w:SnapToGridInCell /> <w:WrapTextWithPunct /> <w:UseAsianBreakRules /> <w:DontGrowAutofit /> </w:Compatibility> <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel> </w:WordDocument> </xml><![endif]--><!--[if gte mso 9]><xml> <w:LatentStyles DefLockedState="false" LatentStyleCount="156"> </w:LatentStyles> </xml><![endif]--><!--[if gte mso 10]> <mce:style><!   /* Style Definitions */  table.MsoNormalTable 	{mso-style-name:"Table Normal"; 	mso-tstyle-rowband-size:0; 	mso-tstyle-colband-size:0; 	mso-style-noshow:yes; 	mso-style-parent:""; 	mso-padding-alt:0cm 5.4pt 0cm 5.4pt; 	mso-para-margin:0cm; 	mso-para-margin-bottom:.0001pt; 	mso-pagination:widow-orphan; 	font-size:10.0pt; 	font-family:"Times New Roman"; 	mso-ansi-language:#0400; 	mso-fareast-language:#0400; 	mso-bidi-language:#0400;} --> <!--[endif] -->
+<p><strong>Payment and renewal</strong><br> 18. Payment for advertising your property with us is made through the website using our PayPal™ account. Alternative methods of payment include Worldpay or wire transfer.</p>
+<p>19. Subject to these terms, properties are advertised on the website for a period of 3, 6 or 12 months at a time. Subscription fees are non refundable.</p>
+<p>20. Upon the expiry of your advertising period, renewal of your listing is at your own discretion and is not mandatory.</p>
 <p style="text-align: left;"><strong>Ability to advertise and to enter into contracts in respect of the property</strong><br>21. By loading material relating to a property onto this website, you warrant and confirm that you are legally entitled to do so and legally have full power and authority to enter into a contract with any person(s) or entity wishing to make a booking of the property for holiday rental purposes (subject always to your right to refuse particular bookings). Contracts for the rental of the property are entered into directly between you and person(s) or entity wishing to make a booking without any involvement on our part. We are entitled to require you to produce appropriate proof of your individual identity, your ownership of the property or authority to represent the owner in advertising and entering into contracts for use of the property for holiday purposes.</p>
 <p style="text-align: left;"><strong>Material posted on the website</strong><br>22. You warrant and represent that all material you post on the website is accurate, complete, up to date and fairly represents the property(ies) to which it relates and is not misleading in any respect. You warrant that all material is suitable for posting on the website given its nature and purpose and does not breach and is in compliance with any and all applicable laws and/or legal requirements. You are responsible for changing and updating it whenever required so that these warranties and representations at all times remain correct. You further warrant and represent that you own the copyright and all other intellectual property rights in any material you post (including without limitation any photograph(s)) or alternatively have the written permission of the owner of the copyright or other intellectual property rights to use the same at all times while it is posted on the website. You also warrant and represent that you have the written permission of any and all persons (or their parent or guardian in relation to any child) shown in any photograph to post the same on the website. We are entitled at any time and without prior notice to remove, modify or refuse to accept any material (including, without limitation, any hypertext links or website addresses) where we, in our sole discretion, consider it appropriate to do so. You grant us a perpetual, royalty free, worldwide licence to display, use and reproduce all material posted on the website as we consider appropriate for the purpose of or in connection with advertising the property on the website.</p>
 <p style="text-align: left;"><strong>Termination</strong><br>23. We are entitled to terminate the advertising of any property immediately on giving the property owner notice in writing (which may be by way of an e-mail to their last known e-mail address) (1) in the event of any material or repeated breach of these terms or any other terms which relate to the advertising of the property on the website by the property owner or any breach of these terms or any such other terms following any warning or communication from us in relation to any breach of these terms or any such other terms or (2) in the event of the bankruptcy or insolvency of the property owner or (3) in the event of our having reason to believe that the property owner is no longer able to offer the property for holiday rental purposes either at all or for the reasonably foreseeable future or for substantial periods of time, for whatever reason or (4) in the event of our having reason to believe that the property owner is not complying with the law or any other legal requirements relating to the property or the letting of the same in any respect or is in any way behaving in a manner which may in our sole opinion damage or potentially damage our reputation or the reputation of the website. In the event of termination in any such circumstances, no refund of any payment made to us by the property owner will be made and we will have no liability whatsoever to the property owner.</p>
 <p style="text-align: left;"><strong>Owner VERIFICATION badge</strong>&nbsp;<br>24. The VERIFIED badge used by pureholidayhomes.com on its site is an indication that the owner of a property detailed on its site has undergone a rigorous examination into their identity (using GB Group’s identity verification services) for the purposes of preventing fraud. If you wish to check that the owner of a particular property detailed on pureholidayhomes.com’s site that is using the VERIFIED badge has been vetted by pureholidayhomes.com, please contact us at <a href="mailto:contact@pureholidayhomes.com">contact@pureholidayhomes.com</a> with details of the property concerned.&nbsp; We will then run a check of the details against our database. GB Group’s ID verification system, which is used by pureholidayhomes.com, checks the credentials of property owners advertising on its site against a number of national and international databases.&nbsp; Although the process is rigorous, it cannot provide an absolute guarantee against instances of fraud occurring.&nbsp; Consequently, neither GB Group or pureholidayhomes.com accept responsibility for any loss, liability and damage that may be incurred by users of this site as a result of a fraudulent representation made any person advertising their property on this site and all warranties, conditions and other terms implied by statute or common law are hereby excluded.</p>
-<p class="sxs" style="text-align: left;">The copyright in this document belongs to MB Solicitors Limited, Studio 3, The Quays, Concordia Street, Leeds LS1 6LA <br>Tel 0113 2424444 Ref CGI</p>
+<p class="sxs" style="text-align: left;">&nbsp;</p>
 </td>
 <td><br></td>
 </tr>
@@ -214,7 +261,58 @@ window.setTimeout(function () { if (!xajaxLoaded) { alert('Error: the xajax Java
         </ul>
 
 		<div id="editable_footer_links">
-			
+			<div class="ai_cb_na" id="divContentBlockContent3d481ada-4ff3-c384-01cb-52e45682c25a"><ul style="font-size:9px">
+<li style="padding:0px;"><a href="portugal">Villas in Portugal</a></li>
+<li style="padding:0px;"><a href="portugal/algarve">Algarve Villas</a></li>
+<li style="padding:0px;"><a href="wales">Cottages in Wales</a></li>
+<li style="padding:0px;"><a href="united-states-of-america/florida">Florida Villas</a></li>
+<li style="padding:0px;"><a href="england/cornwall">Cottages in Cornwall</a></li>
+<li style="padding:0px;"><a href="majorca">Villas in Majorca</a></li>
+<li style="padding:0px;"><a href="england">Cottages in England</a></li>
+<li style="padding:0px;"><a href="greece">Villas in Greece</a></li>
+<li style="padding:0px;"><a href="italy">Villas in Italy</a></li>
+<li style="padding:0px;"><a href="ibiza">Villas in Ibiza</a></li>
+</ul>
+<ul style="font-size:9px">
+<li style="padding:0px;"><a href="cyprus">Villas in Cyprus</a></li>
+<li style="padding:0px;"><a href="tenerife">Villas in Tenerife</a></li>
+<li style="padding:0px;"><a href="lanzarote-holiday-homes">Villas in Lanzarote</a></li>
+<li style="padding:0px;"><a href="france">Villas in France</a></li>
+<li style="padding:0px;"><a href="search/Location=Jersey">Jersey Cottages</a></li>
+<li style="padding:0px;"><a href="england/lake-district">Lake District Cottages</a></li>
+<li style="padding:0px;"><a href="search/Location=Menorca_(Minorca)">Villas in Menorca</a></li>
+<li style="padding:0px;"><a href="scotland">Cottages in Scotland</a></li>
+<li style="padding:0px;"><a href="turkey">Villas in Turkey</a></li>
+<li style="padding:0px;"><a href="united-states-of-america/disney-orlando-area">Villas in Orlando</a></li>
+</ul>
+<ul style="font-size:9px">
+<li style="padding:0px;"><a href="italy/tuscany">Villas in Tuscany</a></li>
+<li style="padding:0px;"><a href="croatia">Villas in Croatia</a></li>
+<li style="padding:0px;"><a href="search/APropType=Villa|PricePer=week|SortBy=Newest/">Holiday Villas</a></li>
+<li style="padding:0px;"><a href="united-kingdom">Holiday cottages UK</a></li>
+<li style="padding:0px;"><a href="malta">Villas in Malta</a></li>
+<li style="padding:0px;"><a href="canary-islands">Canary Islands</a></li>
+<li style="padding:0px;"><a href="spain/balearic-islands">New Zealand</a></li>
+<li style="padding:0px;"><a href="cyprus/paphos-region">Villas in Paphos</a></li>
+<li style="padding:0px;"><a href="st-lucia">St Lucia Villas</a></li>
+<li style="padding:0px;"><a href="ireland">Cottages Ireland</a></li>
+</ul>
+<ul style="font-size:9px">
+<li style="padding:0px;"><a href="europe" target="_self">Europe</a></li>
+<li style="padding:0px;"><a href="africa">Africa</a></li>
+<li style="padding:0px;"><a href="north-america">North America</a></li>
+<li style="padding:0px;"><a href="central-south-america">Central / South America</a></li>
+<li style="padding:0px;"><a href="caribbean">Caribbean</a></li>
+<li style="padding:0px;"><a href="middle-east">Middle East</a></li>
+<li style="padding:0px;"><a href="india-indian-ocean">India / Indian Ocean</a></li>
+<li style="padding:0px;"><a href="asia">Asia</a></li>
+<li style="padding:0px;"><a href="south-east-asia">South East Asia</a></li>
+<li style="padding:0px;"><a href="australia-south-pacific">Australia / South Pacific</a></li>
+</ul>
+<ul style="font-size:9px">
+<li style="padding:0px;"><a href="http://blog.pureholidayhomes.com">Blog</a></li>
+<li style="padding:0px;"><a href="olympic-rentals">Olympic Rentals</a></li>
+</ul></div>
 		</div>
 
       </div>
@@ -240,6 +338,9 @@ window.setTimeout(function () { if (!xajaxLoaded) { alert('Error: the xajax Java
 </div>
 <div id="calendar-popup"></div>
 <div id="Debug"></div>
+<script type="text/javascript">try {document.write(unescape('%3Cscript type="text/javascript" src="'+document.location.protocol+'//dnn506yrbagrg.cloudfront.net/pages/scripts/0003/5308.js"%3E%3C%2Fscript%3E')) }catch(e){}</script><script type="text/javascript" src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0003/5308.js"></script>
+</div>
+<div id="PureExtraPageLoadedHack"></div>
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
