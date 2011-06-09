@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ename.com privacy policy that was archived on 2010-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101028162703id_/http%3A//www.ename.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ename.com privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609095636id_/http%3A//www.ename.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy:The preferred platform of domain buying & selling
 
@@ -16,4 +16,6 @@ We cooperate with government and law enforcement officials and private parties t
 Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser. Besides using the information as described above, eName utilizes cookies to control the flow of the ordering processes by maintaining the state of your online transactions.  
 **Children**  
 eName does not sell services for purchase by children. If you are under 18, you may use our services only with involvement of a parent or guardian.  
+**Choice and Opt-Out**  
+If you no longer wish to receive the Company's promotional communications, you may "opt-out" of receiving them by following the instructions included in each communication or by e-mailing the Company at mrgamegroup@yahoo.ca.  
 
