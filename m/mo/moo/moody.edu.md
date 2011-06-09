@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moody.edu privacy policy that was archived on 2010-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101208033659id_/http%3A//www.moody.edu/edu_MainPage.aspx%3Fid%3D21774) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moody.edu privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610001751id_/http%3A//www.moody.edu/edu_MainPage.aspx%3Fid%3D21774) for the most accurate reproduction.*
 
 # Window | Title
 
