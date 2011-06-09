@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the telegraph.co.uk privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214104422id_/http%3A//www.telegraph.co.uk/topics/about-us/3691972/Privacy-and-Cookie-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telegraph.co.uk privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609091024id_/http%3A//www.telegraph.co.uk/topics/about-us/3691972/Privacy-and-Cookie-Policy.html) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy - Telegraph
 
