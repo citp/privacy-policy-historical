@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acep.org privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119082443id_/http%3A//www.acep.org/aboutus.aspx%3Fid%3D30296) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acep.org privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610004026id_/http%3A//www.acep.org/content.aspx%3Fid%3D30296) for the most accurate reproduction.*
 
 # Privacy Policy and Copyright Notice
 
@@ -6,8 +6,7 @@
 
 > ACEP respects the privacy of its members and other visitors to its Web site. To protect online privacy, ACEP has implemented the following policy.
 > 
-> **What Information Does ACEP Collect?  
-> ** Most data ACEP collects are used only to help us better serve our members and other Web visitors. It is our general policy to collect and store only personal information that our members, customers and visitors knowingly provide. If our privacy policies change, a notice of the changes will be placed on the Web site.
+> **What Information Does ACEP Collect?** Most data ACEP collects are used only to help us better serve our members and other Web visitors. It is our general policy to collect and store only personal information that our members, customers and visitors knowingly provide. If our privacy policies change, a notice of the changes will be placed on the Web site.
 > 
 > From General Users. ACEP does not collect any personal information from users browsing its Web site. Only aggregate data -- such as the number of hits per page -- are collected. Aggregate data are only used for internal and marketing purposes and do not provide any personally identifying information.
 > 
@@ -15,8 +14,7 @@
 > 
 > Additionally, for some e-mails sent in HTML format by ACEP to its members through its listservs and electronic newsletters, we will collect specific information regarding what the recipient does with that email. For those email messages, ACEP will monitor whether a recipient subsequently clicks through to links provided in the message. Other information collected through this tracking feature includes: email address of a user, the date and time of the user's "click," a message number, name of the list from which the message was sent, tracking URL number and destination page. ACEP only uses this information to enhance its products and distribution of those products to its members. This information is not sold or distributed in any other manner.
 > 
-> **How Does ACEP Use Data Collected?  
-> ** ACEP uses information voluntarily submitted by members and other customers in the following ways:
+> **How Does ACEP Use Data Collected?** ACEP uses information voluntarily submitted by members and other customers in the following ways:
 > 
 > **ACEP Member Services and Products**. Generally, ACEP uses data collected to improve its own web content; to respond to visitors' interests, needs and preferences; and to develop new products and services.
 > 
@@ -26,23 +24,20 @@
 > 
 > **Credit Card Account Information**. ACEP does not disclose credit card account information provided by its members and customers. When members and customers choose to pay using their credit cards, ACEP submits the information needed to obtain payment to the appropriate clearinghouse.  Credit card information submitted online is transmitted using SSL (Secure Socket Layer) encryption. SSL is a proven coding system that lets your browser automatically encrypt, or scramble, data before you send it to us.
 > 
-> **How Does ACEP Use Cookies?  
-> ** Cookies are files that contain information created by a web server that can be stored on a User's hard disk for use either during a particular session ("per-session" cookie) or for future use ("persistent" cookie). ACEP uses cookies only to facilitate automated activity, store and track passwords, determine appropriate solicitations, and review navigation patterns. Cookies are not used to disseminate significant information about Users over the Internet or to analyze any information that Users have knowingly or unknowingly provided. Users may instruct their Internet browsers to opt out of accepting a "persistent" cookie and rather accept only a "per-session" cookie, but will need to log in each time they visit the site to enjoy the full benefits. If the User declines the attachment of any cookie, the User may not have access to the full benefits of the website. Registration enables the site to better determine members' interest areas and provide the most relevant information. Many consider the use of cookies to be an industry standard.
+> **How Does ACEP Use Cookies?** Cookies are files that contain information created by a web server that can be stored on a User's hard disk for use either during a particular session ("per-session" cookie) or for future use ("persistent" cookie). ACEP uses cookies only to facilitate automated activity, store and track passwords, determine appropriate solicitations, and review navigation patterns. Cookies are not used to disseminate significant information about Users over the Internet or to analyze any information that Users have knowingly or unknowingly provided. Users may instruct their Internet browsers to opt out of accepting a "persistent" cookie and rather accept only a "per-session" cookie, but will need to log in each time they visit the site to enjoy the full benefits. If the User declines the attachment of any cookie, the User may not have access to the full benefits of the website. Registration enables the site to better determine members' interest areas and provide the most relevant information. Many consider the use of cookies to be an industry standard.
 > 
-> **What Privacy Issues Arise With Links To Other Sites?  
-> ** This Web site contains links to other web sites. ACEP has no control over and is not responsible for the privacy policies or content of such sites.
+> **What Privacy Issues Arise With Links To Other Sites?** This Web site contains links to other web sites. ACEP has no control over and is not responsible for the privacy policies or content of such sites.
 > 
-> **What Means Of Redress Are Available?  
-> ** If any User suspects ACEP has handled its personal information in a manner that does not comply with this privacy statement, please contact ACEP at (800) 798-1822, ext. 5, or [membership@acep.org](mailto:membership@acep.org).
+> **What Means Of Redress Are Available?** If any User suspects ACEP has handled its personal information in a manner that does not comply with this privacy statement, please contact ACEP at (800) 798-1822, ext. 5, or [membership@acep.org](mailto:membership@acep.org).
 
 ### ACEP Terms of Use and Copyright Notice
 
 > All images, text, programs, and other materials posted on this site are subject to copyrights owned by the American College of Emergency Physicians ("ACEP") and other individuals or entities and are protected by United States copyright laws. Any reproduction, retransmission, distribution or republication of all or part of any images, text, programs, and other materials found on this site is expressly prohibited, unless ACEP or the copyright owner of the material has expressly granted its prior written consent to so reproduce, transmit, or republish the material. All other rights reserved.
+> 
+> You may [submit an online request](https://apps.acep.org/Copyright/CopyrightPermission.aspx "ACEP Copyright Permissions Information") to use copyright materials published by ACEP.  All permission requests must be submitted online. 
 > 
 > The ACEP e-lists are intended to be maintained in a manner consistent with United States copyright laws. Accordingly, users should not submit copyrighted material unless the copyright owner of the material has expressly granted its prior written consent to such submission.
 > 
 > All trademarks, service marks and logos referred to or appearing on this site are the property of their respective owners. The names, trademarks, service marks and logos of ACEP appearing on this site may not be used in any advertising or publicity, or otherwise to indicate ACEP's sponsorship of or affiliation with any product or service, without ACEP's prior express written permission.
 > 
 > Although ACEP's website includes samples, articles, and links providing direct access to other Internet sites, ACEP has not participated in the development of such materials or other sites, and does not exert any editorial or other control, or guarantee the accuracy, completeness, efficacy, or timeliness, of such information.  Information on this site does not constitute or imply endorsement, agreement, recommendation, or favoring by ACEP of such information.  Use of any information posted on the ACEP's website or obtained from linked sites is voluntary, and reliance on it should only be undertaken after an independent review by qualified experts.  ACEP is not responsible for, and expressly disclaims all liability for, damages of any kind arising out of use, reference to, reliance on, or performance of such information.
-> 
-> You may [ **submit an online request**](https://www.acep.org/Copyright/CopyrightPermission.aspx "Copyright Permissions Information") to use copyright materials published by ACEP.  All permission requests must be submitted online. 
