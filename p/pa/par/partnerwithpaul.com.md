@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the partnerwithpaul.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203072620id_/http%3A//www.partnerwithpaul.com/privacy.cgi) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the partnerwithpaul.com privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609221523id_/http%3A//www.partnerwithpaul.com/privacy.cgi) for the most accurate reproduction.*
 
 # Partner with Paul - Privacy Policy
 
@@ -11,7 +11,7 @@ If you want to opt-out of email communications from PartnerWithPaul.com, cancel 
   
 2\. Website: [http://www.partnerwithpaul.com/cancel.cgi](https://web.archive.org/cancel.cgi)  
   
-3\. Postal Mail: 228 Park Ave S, Suite 17260, New York, NY 10003  
+3\. Postal Mail: PartnerWithPaul.com LLC, 1675 Larimer St. Suite 640, Denver, CO 80202  
   
 4\. Telephone: (347)562-1179
 
@@ -94,7 +94,7 @@ Please note however that even if you opt-out, you may still receive important an
   
 2\. Website: [http://www.partnerwithpaul.com/cancel.cgi](https://web.archive.org/cancel.cgi)  
   
-3\. Postal Mail: 228 Park Ave S, Suite 17260, New York, NY 10003  
+3\. Postal Mail: PartnerWithPaul.com LLC, 1675 Larimer St. Suite 640, Denver, CO 80202  
   
 4\. Telephone: (347)562-1179
 
