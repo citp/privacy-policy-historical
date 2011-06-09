@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snowboardermag.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130110040id_/http%3A//privacy.sourceinterlinkmedia.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snowboardermag.com privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609030436id_/http%3A//privacy.sourceinterlinkmedia.com) for the most accurate reproduction.*
 
 # Source Interlink Companies Privacy Policy
 
