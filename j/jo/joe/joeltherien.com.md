@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joeltherien.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125170238id_/http%3A//joeltherien.com/blog/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joeltherien.com privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609205522id_/http%3A//www.gogvo.com/blog/privacy_policy.html) for the most accurate reproduction.*
 
 # Joel Therien's Blog
 
