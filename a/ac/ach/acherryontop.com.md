@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the acherryontop.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227005605id_/http%3A//www.acherryontop.com/articles/help/1521) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acherryontop.com privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609050919id_/http%3A//www.acherryontop.com/articles/help/1521) for the most accurate reproduction.*
 
-# Privacy Statement: A Cherry On Top
+# Privacy statement: A Cherry On Top
 
 **General Privacy Statement**
 
@@ -39,8 +39,8 @@ When you place an order at ACherryOnTop.com, we need to know your name, e-mail a
 
 We are committed to protecting your privacy. We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
 
-**How we use cookies  
-**A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
+**How we use cookies**  
+A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyze web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
 
 You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website. Our cookies are used primarily for the convenience of our customers.
 
