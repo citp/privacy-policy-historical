@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ketknbc.com privacy policy that was archived on 2010-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101210012437id_/http%3A//www.ketknbc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ketknbc.com privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609204611id_/http%3A//www.ketknbc.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | KETK
 
 ### Effective Date: Friday, June 11, 2010
 
-The following Privacy Policy governs the online information collection practices of KETK NBC 56 ("we" or "us"). Specifically, it outlines the types of information that we gather about you while you are using the KETK website (the "Site"), the information that you may provide to us, and the ways in which we use this information. This Privacy Policy, including our children's privacy statement, does not apply to any information you may provide to us or that we may collect offline and/or through other means (for example, at a live event, via telephone, or through the mail).
+The following Privacy Policy governs the online information collection practices of KETK NBC ("we" or "us"). Specifically, it outlines the types of information that we gather about you while you are using the KETK website (the "Site"), the information that you may provide to us, and the ways in which we use this information. This Privacy Policy, including our children's privacy statement, does not apply to any information you may provide to us or that we may collect offline and/or through other means (for example, at a live event, via telephone, or through the mail).
 
 Please read this Privacy Policy carefully. By visiting and using the Site, you agree that your use of our Site, and any dispute over privacy, is governed by this Privacy Policy and our Terms of Service. Because the Web is an evolving medium, we may need to change our Privacy Policy at some point in the future, in which case we'll post the changes to this Privacy Policy on this website and update the Effective Date of the policy to reflect the date of the changes. By continuing to use the Site after we post any such changes, you accept the Privacy Policy as modified.
 
@@ -67,6 +67,6 @@ If you have provided any personally-identifyable information or subscribed to on
 
 If you have any questions about this Privacy Policy, our privacy practices, or your dealings with us, you can contact:
 
-**KETK NBC 56  
+**KETK NBC  
 4300 Richmond Road  
 Tyler, Texas 75703**
