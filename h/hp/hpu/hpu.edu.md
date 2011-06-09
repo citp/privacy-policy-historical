@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hpu.edu privacy policy that was archived on 2010-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101217135921id_/http%3A//www.hpu.edu/index.cfm%3Fsection%3Dwelcome5261) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hpu.edu privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609210823id_/http%3A//www.hpu.edu/Welcome/HPU_privacy_policy.html) for the most accurate reproduction.*
 
-# HPU Internet Privacy Policy
+# Hawaii Pacific University
 
 **PLEASE READ THE FOLLOWING CAREFULLY. THIS PAGE PROVIDES GENERAL INFORMATION ABOUT THE PRIVACY POLICY OF THIS WEBSITE.**
 
@@ -8,9 +8,9 @@ The contents of this Web site are owned and operated by Hawai‘i Pacific Univer
 
 **WHAT INFORMATION IS COLLECTED**
 
-We consider the following to be personally-identifying information: your first and last name, email address, home address, phone number, social security number and, if linked with your other personally-identifying information, your date of birth and other personal interests and hobbies. 
+We consider the following to be personally-identifying information: your first and last name, email address, home address, phone number, social security number and, if linked with your other personally-identifying information, your date of birth and other personal interests and hobbies.
 
-This Web site does not collect personally-identifying information about a user **except** for information that is voluntarily provided to us for the purpose of conducting legitimate business and/or for educational purposes. A user's personally-identifying information may be used by HPU to help us improve the Web site and for our institution's marketing and promotional purposes. It will be treated confidentially within our institution. Our policy is not to share this information with third parties. Although we may employ "cookie" technology on this website, it will only be used to track non-personal information such as type of browser, operating system, HPU internal transactions (such as forms, online registration, or requests for assistance) and domain names in order to improve our visitors' experience online. 
+This Web site does not collect personally-identifying information about a user **except** for information that is voluntarily provided to us for the purpose of conducting legitimate business and/or for educational purposes. A user's personally-identifying information may be used by HPU to help us improve the Web site and for our institution's marketing and promotional purposes. It will be treated confidentially within our institution. Our policy is not to share this information with third parties. Although we may employ "cookie" technology on this website, it will only be used to track non-personal information such as type of browser, operating system, HPU internal transactions (such as forms, online registration, or requests for assistance) and domain names in order to improve our visitors' experience online.
 
 **REVIEW AND REQUEST CHANGES TO INFORMATION COLLECTED**
 
@@ -22,6 +22,5 @@ Site visitors will be notified that a change has been made to our privacy policy
 
 **SPECIAL NOTICE TO PARENTS AND CHILDREN**
 
-**POLICY EFFECTIVE DATE:   MARCH 18, 2004**
-
-**POLICY UPDATED:   JULY 16, 2004**
+**POLICY EFFECTIVE DATE:   MARCH 18, 2004  
+****POLICY UPDATED:   JULY 16, 2004**
