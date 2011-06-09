@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oyyy.co.uk privacy policy that was archived on 2010-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100818054256id_/http%3A//www.oyyy.co.uk/page.php%3FxPage%3Dprivacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oyyy.co.uk privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609075652id_/http%3A//www.oyyy.co.uk/page.php%3FxPage%3Dprivacy.html) for the most accurate reproduction.*
 
 # Oyyy.co.uk > Security & Privacy
 
