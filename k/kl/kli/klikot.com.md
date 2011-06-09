@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the klikot.com privacy policy that was archived on 2010-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100329235003id_/http%3A//www.klikot.com/Misc/Info/page/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the klikot.com privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609055618id_/http%3A//www.klikot.com/Misc/Info/page/Privacy.aspx) for the most accurate reproduction.*
 
 # Klikot | Terms Of Service
 
