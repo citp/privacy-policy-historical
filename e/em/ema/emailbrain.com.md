@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the emailbrain.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224183214id_/http%3A//www.emailbrain.com/eb/pp.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emailbrain.com privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609061913id_/http%3A//www.emailbrain.com/eb/pp.shtml) for the most accurate reproduction.*
 
-# Emailbrain Smart Email Marketing
+# Email Marketing Services, Bulk HTML Email Newsletter Campaign Software
 
 #### EmailBrain Privacy Policy
 
