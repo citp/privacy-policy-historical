@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techpp.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221112802id_/http%3A//techpp.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techpp.com privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609181724id_/http%3A//techpp.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Technically Personal!
 
@@ -43,6 +43,8 @@ We do not sell, trade, or rent Users personal identification information to othe
 
 Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own terms and policies.
 
+If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp) (link to the NAI universal user opt-out).
+
 **Advertising**
 
 Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
@@ -66,4 +68,4 @@ If you have any questions about this Privacy Policy, the practices of this site,
 [http://techpp.com](http://techpp.com/)  
 raju@techpp.com
 
-This document was last updated on September 01, 2010
+This document was last updated on May 12, 2011
