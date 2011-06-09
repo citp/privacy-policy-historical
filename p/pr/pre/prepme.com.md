@@ -1,13 +1,95 @@
-> *The following text is extracted and transformed from the prepme.com privacy policy that was archived on 2008-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081224022325id_/http%3A//www.prepme.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prepme.com privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610004238id_/http%3A//prepme.com/index.php/about/privacy) for the most accurate reproduction.*
 
-# PrepMe - Premium Online SAT, ACT, PSAT Test Prep
+# PrepMe Online ACT, SAT, and PSAT prep
 
-We at PrepMe, Inc. and our affiliated companies worldwide are committed to respecting your online privacy and recognize your need for appropriate protection and management of any personally identifiable information you share with us. 
+_PrepMe, LLC and our affiliated companies (" **PrepMe** " or " **we** ") are committed to protecting the privacy of all individuals who utilize our site or services. Please read the following to understand how we collect, use and safeguard the information we may obtain via this website (the "Site"). This statement may be revised from time to time, so please revisit this page often to remain fully informed of our statement. _
 
-You can utilize most of this site's free features without giving us any personal information. For the parts of PrepMe's site where a free service is offered with a subscription, you may opt-in to receive further information from our partners. However, for specialized paid services that require personal information PrepMe, will never release any of the personal information you give us. Personal Information refers to any information that may be used to identify an individual, including, but not limited to, a first and last name, a home or other physical address and an email address or other contact information. 
+**WHAT INFORMATION DOES PREPME COLLECT FROM YOU?**
 
-Most of PrepMe's services are not intended to be used by children under 13 years of age and accordingly we do not collect personal information from these individuals. PrepMe's new Precocious Program is designed for students starting in 6th grade and thus may have users who are under the age of 13. To comply with COPPA regulations, students who are under the age of 13 are not allowed to register directly and a parent/guardian must register under his or her own name to maintain their child's privacy. 
+Via the Site, PrepMe collects: (i) personally identifiable information, and (ii) technical and other information. 
 
-If you choose to provide us with your personal information on this site, we may transfer that information within PrepMe, across borders, and from your country or jurisdiction to other countries or jurisdictions around the world. 
+  * _Personally Identifiable Information_
 
-PrepMe strives to comply with all applicable laws around the globe that are designed to protect your privacy. Although legal requirements may vary from country to country, we intend to adhere to the principles set forth in this Online Privacy Policy even if, in connection with the above, we transfer your Personal Information from your country to countries that may not require an "adequate" level of protection for your Personal Information. In other words, our goal is to provide protection for your Personal Information no matter where that Personal Information is collected, transferred, or retained. 
+_Children_ \- In compliance with the Children's Online Privacy Protection Act, 15 U.S.C. §§501-06 and 16 C.F.R. §§ 312.1-312.12, PrepMe does not permit children under 13 years of age to become users without their parent or guardian's express consent and approval. By using our Site, you represent (i) you are not under 13 years of age or (ii) your parent or guardian has registered with PrepMe on your behalf via our Precocious Program and has provided us his or her personal information in lieu of yours. As used herein, " **you** " refers to all Site users over the age of 13, and the parent/guardian of users under 13 years of age who have registered with PrepMe via our Precocious Program, as applicable. 
+
+_General Site Visitors_ \- When you browse the general, non-password protected portions of the Site, you do so anonymously; no personally identifiable information is collected. 
+
+_General Subscribers_ \- At the time you become a general subscriber of the Site, we request that you provide us your name, country of citizenship, e-mail address, phone number, grade level, graduation year, grades, parent e-mail address, parent mailing address, user name and password. In addition, by registering as a general subscriber, you have automatically opted-in to receive further information regarding our partners. 
+
+_Paying Subscribers_ \- In addition, if you register as a paying subscriber of the Site to obtain access to our specialized services, we require you to provide your name, mailing address, e-mail address, phone number, date of birth, gender, educational background, school name, grade level, graduation year, grades, extracurricular activities, parent e-mail address, parent mailing address, user name, password and credit card information. You may also choose to provide to us other personal information, such as your intended college major, career objectives, hobbies and interests. Further, if you are applying for financial assistance, we will collect certain other information regarding your family's financial status. Finally, you may let other individuals know about us through our referral feature, or allow other individuals to monitor your account, in which case we will ask you to provide us such individual's name and email address. 
+
+_Newsletter_ \- When you register as a general subscriber or paying subscriber of PrepMe, you are automatically subscribed (at no charge) to our newsletter, which we may periodically send to you along with other information regarding the Site and our services. If you are not a subscriber of PrepMe, but wish to receive our newsletter, you may sign up to receive the newsletter by providing us your name, e-mail address, ZIP code and other optional information. 
+
+_Contacting Us_ \- The Site permits you to contact us via our Contact Us Form. Whenever you send an e-mail through the Contact Us Form on the Site, you will be providing us with your name, e-mail address and phone number, and any information you choose to include in the text of your message. For example, you may choose to provide your mailing address or other information necessary or helpful for us to address your query or other concern. 
+
+  * _Technical and Other Information._
+
+While you are browsing the Site, we automatically log your IP address (a number assigned to your computer when you use the Internet) and your activity while using the Site. Additionally, in order to personalize and enhance your experience on the Site, we may also collect information through 'cookies'. Cookies are small strings of text that are sent by the Site to your browser and then stored by your browser on your computer's hard drive. We use cookies to help diagnose problems with our servers and to administer the Site. We also use cookies to gather broad demographic information and to help identify you in respect to visits to the Site so that we may improve your user experience, and to determine whether you visited the Site from a particular Internet link or advertisement. While a code in the cookie file enables the Site to label you as a particular user, including identifying you by name, address, or other personally identifiable information, such cookie files are encrypted in order to protect your information. Most web browsers automatically accept cookies, but it is possible to change your browser setup so that it does not accept cookies. However, rejecting cookies may prevent you from taking advantage of certain portions of the Site. 
+
+
+
+
+**HOW DO WE COLLECT INFORMATION FROM YOU?**
+
+We collect, retain and use personally identifiable information from you on the Site by expressly requesting it from you (i) when you request information from us via our online Contact Us Form and (ii) at the time you become a general subscriber or paying subscriber of PrepMe. 
+
+**HOW IS YOUR INFORMATION USED?**
+
+  * _Our Use of Information._
+
+We collect, retain, and use the personally identifiable information we collect via the Site for legitimate business purposes only, including without limitation the following: to qualify you as a subscriber of PrepMe with access to the password protected portions of the Site; to provide the Site's services to subscribers and to otherwise operate and improve the Site; responding to an inquiry from you or addressing a request submitted by you (including contacting you directly to request additional information to process your inquiry or request); contacting you to provide information regarding PrepMe and/or our affiliates; providing you information regarding offers from third parties with respect to their products or services we believe may be of interest to you; to correspond with you regarding the Site or our services; to inform you of developments in our company or with our services that we believe may be of interest; to monitor Site visitor traffic patterns and Site usage; to comply with applicable laws, regulations and rules, and requests of relevant regulatory and law enforcement and/or other governmental agencies; to enforce our Terms of Use; and/or to protect the rights, property, or safety of PrepMe, our users, and/or others. 
+
+  * _Sharing Information_
+
+_We do not sell or rent your personally identifiable information to third parties._ We may share offers from our affiliates, partners, advertisers and service providers with you. If you express to us your interest in any products and/or services of any of our third party advertisers and partners, we may provide your personally identifiable information to such third party advertisers and partners. We may also share with our partners, affiliates, advertisers or service providers, in aggregate, statistical form, non-personal information regarding the visitors to the Site, traffic patterns, and Site usage. In addition, if you are a paying subscriber and are delinquent in paying any fees owed to PrepMe, we may disclose your personally identifiable information to collection agencies to assist in the collection of such unpaid invoices. Similarly, we will disclose information we maintain, including personally identifiable information, when required to do so by law, or may disclose such information in response to a request from a law enforcement agency or authority. 
+
+
+
+
+**USE OF THIRD PARTY PERSONAL INFORMATION**
+
+  * _Referrals_ You may choose to let other individuals know about PrepMe through our referral feature. If you choose to use this feature, we will ask you to provide us with that person's name and e-mail address. We will send him or her one or more e-mails inviting him or her to visit PrepMe to learn more about our services. PrepMe will store such individual's contact information for the sole purpose of sending such e-mails. 
+
+  * _Access to Your Account_ You may also choose to allow other individuals to monitor your account, such as parents, guardians and high school counselors. If you choose to use this feature, we will ask you to provide us with that person's name and e-mail address. We will send him or her one or more e-mails inviting him or her to visit PrepMe to register and monitor your progress. By inviting such individuals to monitor your progress, you are granting permission to PrepMe to share the details of your profile with them. This information includes personally identifiable information, including your name, address, phone number, e-mail address, grades, schools that are interested in you and other information you have provided to us. 
+
+
+
+
+**MODIFICATIONS**
+
+We strive to maintain the accuracy of any personally identifiable information that may be collected from you, and will use our commercially reasonable efforts to respond promptly to update our database when you tell us the information in our database is not accurate. It is your responsibility to ensure that such information is accurate, complete and up-to-date. You may view the information in your user profile by logging onto your profile page. If you wish to make any changes to any personally identifiable information you have provided to us, you may do so by making such changes in your profile page. 
+
+**OPT OUT**
+
+If you are a general subscriber or paying subscriber of PrepMe, you may opt out of receiving communications from us and our affiliates by logging onto your profile page and un-checking the opt-in box in your account information. In addition, if you no longer wish to receive our newsletter, you can opt-out of receiving any future newsletters by using the opt-out functionality provided in each newsletter. 
+
+**CONSEQUENCES OF NOT PROVIDING INFORMATION**
+
+You may choose not to provide us with your personally identifiable information. However, choosing not to provide certain requested personally identifiable information may prevent you from accessing and taking advantage of certain services offered by PrepMe. 
+
+**PROTECTING YOUR PERSONALLY IDENTIFIABLE INFORMATION**
+
+Students enrolled via a school program who did not directly pay for PrepMe’s products should be aware that we retain the right to share any information regarding their account with their school or district. If you are a general subscriber or paying subscriber of PrepMe, you should not share your password with anyone. In addition, if you suspect unauthorized access to your information, it is your responsibility to contact PrepMe immediately. PrepMe personnel will never ask you to divulge your password in written or electronic communications or over the phone. Please be aware that Internet data transmission is not always secure, and we cannot warrant or guarantee that information you transmit utilizing the Site is secure. Because security is important to both PrepMe and you, we will make reasonable efforts to ensure the security of our systems. 
+
+**BUSINESS TRANSFER**
+
+PrepMe may, in the future, sell or otherwise transfer some or all of its assets to a third party. Your personally identifiable information and/or technical information we obtain from you via the Site may be disclosed to any potential or actual third party purchasers of such assets and/or may be among those assets transferred. 
+
+**ACCEPTANCE OF THESE TERMS**
+
+This Privacy Statement is incorporated into and subject to the terms of the PrepMe Agreement and Terms of Use. If you do not agree to the terms of this Privacy Statement, please do not provide us with any information and do not use the Site. By using the Site and voluntarily providing your personally identifiable information to us, you consent to the collection and use of such personally identifiable information as set forth in this Privacy Statement.  
+In addition, by using this Site and providing us your personally identifiable information you explicitly acknowledge and agree to (i) the transfer of your personally identifiable information to the United States and to other jurisdictions worldwide and (ii) the collection and use of your personally identifiable information in accordance with this Privacy Statement. 
+
+**EFFECTIVENESS**
+
+This Privacy Statement is effective as of June 3, 2011. We reserve the right, at any time, to modify, alter, or update this policy, and any such modifications, alterations, or updates will be effective upon posting. In the event we modify this Privacy Statement, your continued use of the Site will signify your acceptance of the modified Privacy Statement. 
+
+**QUESTIONS?**
+
+Questions regarding this Privacy Statement should be directed to PrepMe Legal at legal@prepme.com. PrepMe may also be contacted directly at the following address and phone number: 
+
+PrepMe, LLC  
+207 East Ohio Street  
+Chicago, Illinois 60611  
+Phone: 1-877-PREPME-4  
+
