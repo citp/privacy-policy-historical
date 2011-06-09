@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beachaudio.com privacy policy that was archived on 2010-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100420103848id_/http%3A//www.beachaudio.com/info.php%23Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beachaudio.com privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609042316id_/http%3A//www.beachaudio.com/info.php%23Privacy) for the most accurate reproduction.*
 
 # Beach Audio - About Us | Customer Help Center : Consumer Electronics, Video Games, Cables, Appliances, and much more!
 
@@ -17,15 +17,15 @@ All items we sell are BRAND NEW and FACTORY SEALED. We do not sell any refurbish
 
 We are quite proud of the ratings and testimonials we receive from independent sources. 
 
-Please visit our [Ratings & Testimonials](https://web.archive.org/web/20100420103848id_/http%3A//www.beachaudio.com/testimonials.php) page to see for yourself!
+Please visit our [Ratings & Testimonials](https://web.archive.org/web/20110609042316id_/http%3A//www.beachaudio.com/testimonials.php) page to see for yourself!
 
 ###  Sales and Support 
 
 We'll be glad to help you with all of your questions and concerns.
 
 > Toll Free Order Line: 877-804-0495   
->  Local: 310-683-5975  
->  Hours: (8am - 5pm PST M-F)  
+>  Local: 310-421-0280  
+>  Hours: (8am - 5pm PST M-TH, 8am - 12pm PST Fri)  
 >  Product Information: 
 
 ###  Shipping
@@ -56,7 +56,16 @@ Most orders ship within one business day from the time the order is placed. Orde
 
 ###  Sales Tax
 
-If your shipping address is in California, you will automatically be charged 9.75% sales tax.  Orders shipped outside of California are not taxed. 
+If your shipping address is in California or North Carolina, you will automatically be charged applicable sales tax.
+
+For Oklahoma Customers :  
+Oklahoma Sales Tax 710:65-21-8
+
+(A) Beach Audio is not required, and does not collect Oklahoma sales or use tax;  
+(B) The purchase is subject to Oklahoma use tax unless it is specifically exempt from taxation;  
+(C) The purchase is not exempt merely because it is made over the Internet, by catalog, or by other remote means;  
+(D) The State of Oklahoma requires Oklahoma purchasers to report all purchases that were not taxed and pay tax on those purchases. The tax may be reported and paid on the Oklahoma individual income tax return [Form 511] or by filing a consumer use tax return. [Form 21-1]; and  
+(E) The referenced forms and corresponding instructions are available on the Oklahoma Tax Commission website,[www.tax.ok.gov](http://www.tax.ok.gov/).
 
 ###  Payment Methods
 
@@ -74,7 +83,7 @@ Excluded Items \- The following items cannot be returned to Beach Audio for any 
 
 Defective Items \- Defective items other then those mentioned in "Excluded Items" above may be returned within 30 days of delivery. Due to the complexity of internet transactions, we do not offer exchanges, however we will gladly credit the outgoing ground shipping costs of a replacement order.  Please send an email to  with the order number if a replacement order is made for a freight credit.  Note: if the replacement is purchased using express shipping, only the Ground freight delivery cost will be refunded.
 
-Non-Defective Items \- ALL non-defective items other then those mentioned in "Excluded Items" above may be returned for 30 days after delivery date.   These returns will be charged a 10% restocking fee. Opened items must be in re-sellable condition and have ALL original packaging, accessories, manuals and warranty cards included.  A larger restocking fee (20-50%) will be applied if the item is returned in a condition that prevents us from re-selling it.
+Non-Defective Items \- ALL non-defective items other then those mentioned in "Excluded Items" above may be returned for 30 days after delivery date.   These returns will be charged a 15% restocking fee. Opened items must be in re-sellable condition and have ALL original packaging, accessories, manuals and warranty cards included.  A larger restocking fee (20-50%) will be applied if the item is returned in a condition that prevents us from re-selling it.
 
 Damaged Items \- In the rare event that an item arrives damaged, please refuse shipment if the damage is external or notify us within 24 hours if the damage is concealed. WE CANNOT ACCEPT DAMAGE CLAIMS AFTER 24 HOURS from date of signature. Beach Audio, at it's sole discretion, will either ship a replacement or issue a full refund when, and if, the claim is settled with the carrier.  Items shipped to freight forwarders must be inspected for damage prior to forwarding shipment. No damage claims will be accepted once an item has been signed for or left in possession of freight forwarder.
 
