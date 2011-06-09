@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the richdad.com privacy policy that was archived on 2010-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101026053747id_/http%3A//www.richdad.com/Richdad/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the richdad.com privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609215710id_/http%3A//www.richdad.com/Privacy-Policy.aspx) for the most accurate reproduction.*
 
-# Rich Dad - Privacy Policy
+# Rich Dad | Privacy Policy
 
 By viewing or using the richdad.com or related websites, you agree to the terms of the richdad.com Online Privacy Policy, as outlined below. If you do not agree to these terms, please do not access or use this site. CASHFLOW Technologies reserves the right to change the Online Privacy Policy from time to time at its sole discretion. Your use of this site will be subject to the most current version of the Online Privacy Policy at the time of such use. However, we do not intend to change the fundamental tenet of this policy -- your information will not be sold to anyone outside of CASHFLOW Technologies, Inc. The information we collect is solely for the purpose of communicating with our customers and members of the CASHFLOW Community.
 
