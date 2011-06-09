@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the finalmediaplayer.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227141557id_/http%3A//www.finalmediaplayer.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the finalmediaplayer.com privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609155729id_/http%3A//finalmediaplayer.com/privacy.html) for the most accurate reproduction.*
 
 # Final Media Player Privacy Policy
 
@@ -44,4 +44,4 @@ We use cookies on the Sites to store information about the site you visited us t
 
 ## Enforcement of this Privacy Statement
 
-If you have questions regarding this statement, you should [contact us](https://web.archive.org/web/20101227141557id_/http%3A//www.finalmediaplayer.com/contact.html).
+If you have questions regarding this statement, you should [contact us](https://web.archive.org/web/20110609155729id_/http%3A//finalmediaplayer.com/contact.html).
