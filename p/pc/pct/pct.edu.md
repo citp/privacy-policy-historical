@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the pct.edu privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626110725id_/http%3A//www.pct.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pct.edu privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609074648id_/http%3A//www.pct.edu/privacy) for the most accurate reproduction.*
 
 # Privacy - Pennsylvania College of Technology
 
-###### One College Avenue, Williamsport PA 17701 · (570) 326-3761 or (800) 367-9222
-
 ##### Feel your privacy's being invaded?
 
-Direct your inquiries regarding privacy to [privacy@pct.edu](https://web.archive.org/cgi-bin/askPCT1.0.asp?accountID=82#theForm "Contact Privacy").
+Direct your inquiries regarding privacy to [privacy@pct.edu](https://web.archive.org/web/20110609074648id_/http://www.pct.edu/privacy/contact.asp).
 
 We respect your privacy. Pennsylvania College of Technology is the sole owner of information collected on this website. Any and all information collected via the Penn College website will be kept strictly confidential and will not be sold, reused, rented, loaned, or otherwise disclosed. Your information will be held with the utmost care, and will not be used in ways that you have not consented to.
 
@@ -18,17 +16,15 @@ Penn College collects information at several different points on our website inc
 
 **Registrar –** The Registrar's Office requires a student's Social Security number for the purposed of verifying the student's identity with official educational records. If a Social Security number is not provided, the College cannot guarantee the authenticity of educational records. The College will not disclose Social Security numbers to anyone outside of the College without an individual's consent except as mandated by law.
 
-**Student Activities –** We request information for Parent and Family Weekend registration. This information is used for planning purposes. We accept online payment for activities and meals for this event. This transaction is secured by VeriSign.
-
 **Admissions –** We request information from the user on our Information Request form, as well as our degree-seeking, non-degree-seeking, and returning student admissions applications. The data requested by the Information Request form is used for recruitment purposes. The data requested by the admissions application is used for enrollment and billing purposes. An applicant may also choose to remit their application fee online. This transaction is secured by VeriSign. The Office of Admissions also requests advance registration for special events, such as Fall Visitation, Spring Visitation, and Campus Tours; this information is used both for planning and recruitment purposes.
 
 **Financial Aid –** We request information from the user on our Financial Aid Application form. While your Social Security number is not an admission requirement, it is required by the government in order for you to be eligible for aid.
 
 **Scholarships** **–** We request information from the user on our Scholarship Application form. Our scholarship applications are hosted by NextGen Web Solutions. Applicants use their student ID number and a unique password (not the student's Penn College network password or SIS PIN) to log in. This information is contained on a secure server at NextGen.
 
-**Institutional Advancement –** We request information from the user on our Online Giving form. The data requested by this form allows the user a more convenient, yet secure method of giving to Penn College. We accept online payment via credit card; this transaction is secured by VeriSign. For those who wish to give to Penn College without submitting sensitive information, we also provide a printable form that can be mailed to the Foundation.
+**Institutional Advancement –** We request information from the user on our Online Giving form. The data requested by this form allows the user a more convenient, yet secure method of giving to Penn College. We accept online payment via credit card; this transaction is secured by Comodo. For those who wish to give to Penn College without submitting sensitive information, we also provide a printable form that can be mailed to the Foundation.
 
-**Alumni Information Update –** In an effort to keep a current listing of our alumni, we provide an Information Update form. This information is used for sending Penn College's award-winning quarterly, "One College Avenue," to all alumni, as well as periodic e-mail newsletters about upcoming events. Alumni may elect to opt out of these mailings.
+**Alumni Information Update –** Alumni Relations offers an Information Update form to maintain current contact information and supply information for [Class Notes](https://web.archive.org/oca/classNotes.asp) published in _One College Avenue_. Alumni may elect to opt out of e-mail from the Alumni Relations office.
 
 We have also asked alumni, on occasion, to act as ambassadors for the College, to appear and give testimony for our publications and website, and to offer tours during College events such as Open Houses.
 
@@ -40,7 +36,9 @@ If a user elects to use our "Send this recipe to a friend" option for informing 
 
 **Workforce Development & Continuing Education – **We accept online registrations for non-credit classes taught through our Workforce Development & Continuing Education office. The information is used solely for registration purposes; we will not place the registrant on a mailing list unless requested to do so. Also, because we accept credit card payment, this site is secured by VeriSign.
 
-**Wildcat Wishes –** We accept online orders for "Wildcat Wishes" student gift packages. Information obtained is used for ordering and delivery purposes only. Neither party's name will be placed on a mailing list. Credit card orders are protected, since the site is secured by VeriSign.
+**Wildcat Wishes –** We accept online orders for "Wildcat Wishes" student gift packages. Information obtained is used for ordering and delivery purposes only. Neither party's name will be placed on a mailing list. Credit card orders are protected, since the site is secured by Comodo.
+
+**Police –** We request information from the user on our Student Vehicle Registration form, including vehicle license and credit card information. This transaction is secured by Comodo. 
 
 **Employee Directories** **–** While we do not sell or give out e-mail address information, that information is available on our website for the convenience of our students and employees. We do not publish a list of e-mail addresses.
 
@@ -72,4 +70,4 @@ If we decide to change our privacy statement, we will post those changes on this
 
 ### How to Report Privacy Violations
 
-You may report violations of this statement to [Privacy](https://web.archive.org/cgi-bin/askPCT1.0.asp?accountID=82#theForm).
+You may report violations of this statement to [Privacy](https://web.archive.org/web/20110609074648id_/http://www.pct.edu/privacy/contact.asp).
