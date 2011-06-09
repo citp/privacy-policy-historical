@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the macgamestore.com privacy policy that was archived on 2010-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100927200901id_/http%3A//macgamestore.com/information.php%3FTopic%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macgamestore.com privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609035255id_/http%3A//macgamestore.com/information/Privacy) for the most accurate reproduction.*
 
-# Macgamestore: Information - Privacy
+# Information - Privacy | Macgamestore.com
+
+## Privacy Policy
+
+### Your Rights as a Shopper
 
 Macgamestore.com respects your personal privacy. This policy covers the following topics: 
 
