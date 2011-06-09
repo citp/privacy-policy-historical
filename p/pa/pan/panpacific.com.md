@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the panpacific.com privacy policy that was archived on 2008-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080807123007id_/http%3A//www.panpacific.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the panpacific.com privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609223831id_/http%3A//www.panpacific.com/en/privacy.html%3Foverride_form%3D21) for the most accurate reproduction.*
 
 # Pan Pacific Hotels - Privacy Policy
 
@@ -47,7 +47,7 @@ This Privacy Policy Statement only applies to this Pan Pacific Site. This Pan Pa
 PPHR reserves the right to modify this Privacy Policy Statement at any time. Continued use of this Pan Pacific Site or any PPHR service provided herein signifies acceptance of any such modification. 
 
 **Contact**  
-We take the privacy of your information seriously and it is important that you understand how we manage your personal information. If you have any questions or comments in relation to this Privacy Policy Statement or if you wish to access your personal information or update it please contact us at (65) 6622 2300, our corporate office in Singapore.
+We take the privacy of your information seriously and it is important that you understand how we manage your personal information. If you have any questions or comments in relation to this Privacy Policy Statement or if you wish to access your personal information or update it please contact us at +65 6808 1180, our corporate office in Singapore.
 
 You should provide us with as much detail as possible about the particular information sought, in order to help us retrieve it. An access fee may be charged. If PPHR does not allow you to access your personal information we will provide you with the reasons for our decision.
 
