@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intercasino.co.uk privacy policy that was archived on 2010-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100904141416id_/http%3A//www.intercasino.co.uk/security/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intercasino.co.uk privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609092404id_/http%3A//www.intercasino.co.uk/security/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy And Information - InterCasino UK Security & Ethics - InterCasino.co.uk
 
@@ -36,7 +36,7 @@ We will occasionally send you information on products, services, special deals a
 
 We provide you with the opportunity to “opt out” of having your personally identifiable information used for certain purposes, when we ask for this information. For example, if you purchase a product or service but do not wish to receive any additional marketing material from us, you can indicate your preference on our order form.
 
-If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by sending an e-mail to [janeb@intercasino.co.uk](mailto:janeb@intercasino.co.uk) through which you can obtain help unsubscribing. 
+If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by sending an e-mail to [support@intercasino.co.uk](mailto:support@intercasino.co.uk) through which you can obtain help unsubscribing. 
 
 #### CHANGES TO PRIVACY STATEMENT
 
@@ -44,4 +44,4 @@ We will occasionally update this Privacy Statement to reflect changes in our ser
 
 #### CONTACT INFORMATION
 
-We welcome your comments regarding this Privacy Statement. If you have any questions about this Statement or believe we have not adhered to it, please contact us at [janeb@intercasino.co.uk](mailto:janeb@intercasino.co.uk)
+We welcome your comments regarding this Privacy Statement. If you have any questions about this Statement or believe we have not adhered to it, please contact us at [support@intercasino.co.uk](mailto:support@intercasino.co.uk)
