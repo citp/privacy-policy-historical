@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the visitlondon.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223093115id_/http%3A//www.visitlondon.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visitlondon.com privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609205034id_/http%3A//www.visitlondon.com/info/privacy) for the most accurate reproduction.*
 
 # Privacy - Visit London
+
+## Important Update
+
+From 1 April, Visit London’s operations are being taken over by a newly formed company: London & Partners Ltd. London & Partners is the official promotional agency for London attracting and delivering value to businesses, students and visitors.
+
+All terms and conditions that you originally signed up to under Visit London will remain the same under London & Partners and we will continue to ensure that any information about you is kept secure and confidential.  
 
 ## Visit London's Commitment to Privacy
 
