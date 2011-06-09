@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the promotionalcodes.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122094001id_/http%3A//www.promotionalcodes.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the promotionalcodes.com privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610013611id_/http%3A//www.promotionalcodes.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
