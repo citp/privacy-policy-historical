@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 5daytrafficblitz.com privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201111833id_/http%3A//www.web2mayhem.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 5daytrafficblitz.com privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609205229id_/http%3A//www.web2mayhem.com/privacy) for the most accurate reproduction.*
 
 # Web2Mayhem - Privacy Policy
 
