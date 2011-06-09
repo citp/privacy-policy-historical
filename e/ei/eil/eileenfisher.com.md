@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eileenfisher.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230081027id_/http%3A//www.eileenfisher.com/EileenFisher/GeneralContent/privacy.jsp%3FbmLocale%3Den_US) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eileenfisher.com privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609182333id_/http%3A//www.eileenfisher.com/EileenFisher/GeneralContent/privacy.jsp%3FbmLocale%3Den_US) for the most accurate reproduction.*
 
-# Eileen Fisher - Company
+# Eileen Fisher - Find Women's Fashion & Women's Clothing at Eileen Fisher
 
 **EILEEN FISHER PRIVACY POLICY**
 
@@ -22,7 +22,7 @@ By using our website, you agree to our privacy policy as described above and to 
 
 If you have any questions about our privacy policy or our 
 
-[_terms of use_](https://web.archive.org/web/20101230081027id_/http%3A//www.eileenfisher.com/EileenFisher/GeneralContent/terms.jsp)
+[_terms of use_](https://web.archive.org/web/20110609182333id_/http%3A//www.eileenfisher.com/EileenFisher/GeneralContent/terms.jsp)
 
 , please email us at 
 
@@ -36,4 +36,8 @@ If you would like to remove your name from our email or postal mailing list plea
 
 [_info@eileenfisher.com_](mailto:info@eileenfisher.com)
 
-or by writing to us at Attn: Website Marketing Dept., 2 Bridge Street, Ste. 230, Irvington, New York 10533. In order for us to ensure your name is removed from our mailing lists, please provide us with your exact email address or name and address the way it appears on our mailing label. Updates to our mailing list may take up to four weeks to process. 
+or by writing to us at Attn: Website Marketing Dept., 2 Bridge Street, Ste. 230, Irvington, New York 10533. In order for us to ensure your name is removed from our mailing lists, please provide us with your exact email address or name and address the way it appears on our mailing label. Updates to our mailing list may take up to four weeks to process.
+
+**INTERNATIONAL PRIVACY POLICY**
+
+<http://www.fiftyone.com/web-site-privacy-policy>
