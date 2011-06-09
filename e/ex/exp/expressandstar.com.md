@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the expressandstar.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227183454id_/http%3A//www.expressandstar.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expressandstar.com privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609050635id_/http%3A//www.expressandstar.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « Express & Star
 
@@ -8,7 +8,7 @@
   * This Privacy Policy covers the website accessible from www.expressandstar.com
   * Our site may, from time to time, contain links to and from websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies and websites. Please check these policies before you submit any personal data to these websites.
   * Express and Star Limited is the data controller for the purposes of the Data Protection Act 1998. We are a limited company incorporated in England and Wales with registered number 00018718 and our registered office is at 51 – 53 Queen Street, Wolverhampton, WV1 1ES. Our VAT number is 661536533.
-  * We are notified with the Information Commissioner’s Office and our registration number is Z6911223 which is valid until 22 July 2009.
+  * We are notified with the Information Commissioner’s Office and our registration number is Z6911223 which is valid until 22 July 2011.
 
 
 
