@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartcompany.net privacy policy that was archived on 2010-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101023044925id_/http%3A//www.smartcompany.net/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartcompany.net privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609183938id_/http%3A//www.smartcompany.net/privacy.jsp) for the most accurate reproduction.*
 
 # SmartCompany Privacy Statement
 
@@ -37,6 +37,6 @@ SmartCompany offers its visitors and customers a means to choose how we may use 
 If customers need to update or change registration information they may so by editing the user or organization record. To update a User Profile, log on to smartcompany.net and select Setup, then click the My Account or Users links to add or update information. To update Organization's data, log on to smartcompany.net and select Setup, then click the My Organization link. To update billing information please email support@smartcompany.net. To discontinue the Service and to have data returned, email support@smartcompany.net. 
 
 **Additional Information**  
-Questions regarding this Statement or the practices of this Site should be directed to SmartCompany’s Security Administrator by e-mailing such questions to security@smartcompany.net. 
+Questions regarding this Statement or the practices of this Site should be directed to SmartCompany?s Security Administrator by e-mailing such questions to security@smartcompany.net. 
 
-© 2003-2010 SmartCompany, Inc. All rights reserved. Trademarks referenced are property of their respective owners. 
+© 2003-2011 SmartCompany, Inc. All rights reserved. Trademarks referenced are property of their respective owners. 
