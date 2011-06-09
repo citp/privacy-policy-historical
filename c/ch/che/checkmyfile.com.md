@@ -1,81 +1,106 @@
-> *The following text is extracted and transformed from the checkmyfile.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204202033id_/http%3A//checkmyfile.com/HotLinks/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the checkmyfile.com privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609060218id_/http%3A//www.checkmyfile.com/privacy.htm) for the most accurate reproduction.*
 
-# 
+# Credit Report, Credit Reference, Credit Check - checkmyfile
 
-   
-Privacy Practices  
+#### We are firmly committed to keeping your personal details private, even if this means that, sometimes, we may not be able to serve you as quickly as you might wish. We make simple, strong statements about privacy so you can be clear about our commitment to you.
+
+We will **never sell** your email address to anyone.
+
+We will **never disclose** your personal details to anyone unless we have your permission to do so, or if we are compelled to do so by Court Order.
+
+We **do not store** the personal information you provide when you use our Free Credit Score service.
+
+We **do not store** the lifestyle information you provide us when you use our Free Identity Theft Expert System.
+
+You may **opt out** or opt back in to receive our monthly emails at any time. Every monthly email we send contains a simple one-click ability to opt out.
+
+#### How we use your information
+
+Your IP address is used to help diagnose problems with our server, and to administer our website. Your IP address is used to help identify you and your search requirements and to gather broad demographic information.
+
+We use small, harmless cookies to deliver content specific to your interests. We **do not extract** any information from your computer. 
+
+When you register on checkmyfile, we ask you for identification information (such as your name and date of birth), contact information (such as your address, email address amd telephone number) and secret information that you share with us (such as your password). We **do not share** any of this information with any third party, other than for obvious purposes (for example we need to give your name address and date of birth to the credit reference agencies when we search you). We use your telephone number only to contact you in case of payment issues arising on any subscription product you purchase from us.
+
+#### Authentication - ensuring we only provide your data to you
+
+If you choose to use our instant, online authentication system, we may ask for your driving licence number, National Insurance number, and details about your financial commitments. We use this information to help verify your identity, using a complicated system of validation checks. We never reveal exactly how we do this, as if we did, our methods would soon fall into the hands of criminals, and that would defeat the object. We **do not store** the information you give for this purpose. If you do not wish to provide this information, you do not have to do so. Instead, you can be authenticated using our postal 'security key' method, which usually takes one working day and is explained more fully when you buy.
+
+From time to time we may need to authenticate you more carefully. The reason is always to ensure that we are releasing your personal information only to you. We will usually ask you to provide original bank statements or credit card statements addressed to you at both your current and previous addresses. We **do not extract** any information from the statements, all your data is kept confidential whilst being processed and are returned to you after being used to verify your addresses.
+
+#### Postcode based information
+
+Demographic and profile data is also collected at our site. This information is not held on an individual basis. We use this data to tailor your experience at our site, showing content that we think you might be interested in, and displaying the content according to your preferences. For example, we use profile data to help identify lenders who extend credit to people with your credit rating, so that we may advise you and others of our findings. We **do not pass** your personal information to any third party except when under compulsion of law or with your consent to do so.
+
+#### Links to other websites
+
+checkmyfile contains links to other sites. Credit Reporting Agency is not responsible for the privacy practices or the content of such Web sites.
+
+#### Online surveys
+
+Our online surveys are optional. The information you provide as an individual respondent is **kept confidential** and is aggregated with all other responses to provide the survey results.
+
+#### Security
+
+checkmyfile has security measures in place to protect the loss, misuse and alteration of the information under our control. These include the issue and use of passwords, powerful encryption and computer firewalls to guard against hacking. From time to time we may have to suspend services whilst we investigate a breach of security. You are also obligated, under the Terms and Conditions you agree to abide by when you use our services, to report any suspected breach to us immediately.
+
+#### Supplementation Information
+
+checkmyfile supplements the information that you provide with information received from third parties, (such as the Royal Mail Postcode Address File, which helps confirm your address).
+
+#### Opt-Out
+
+You have the following options if you do not wish to receive future marketing communications from us. Please note that we are still required to notify you from time to time of any significant changes to our terms and conditions, even after you express a preference not to receive marketing communications.
+
+  1. You can send email to [admin@checkmyfile.com](mailto:admin@checkmyfile.com)
+  2. You can write to us at the following postal address: 
+
   
-Credit Reporting Agency has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for the websites **[www.creditreporting.co.uk](http://www.creditreporting.co.uk/) **and **[www.checkmyfile.com](http://www.checkmyfile.com/) **
+checkmyfile  
+Chynoweth House  
+Trevissome Park  
+Blackwater  
+Truro  
+Cornwall  
+TR4 8UN 
 
-We use your IP address to help diagnose problems with our server, and to administer our website. Your IP address is used to help identify you and your search requirements and to gather broad demographic information. We use cookies to deliver content specific to your interests.
 
-Our registration form requires you to give us contact information (such as your name and email address), unique identifiers (such as your password),  and demographic information (such as your postcode).
 
-We use customer contact information from the registration form to send you information about our company. Your contact information is also used to contact you when necessary. **You may opt-out of receiving future mailings; see the choice/opt-out section below.   **
 
-We do **not** pass your information to any third party for the purpose of sending you unsolicited emails. **You can opt out of receiving emails from us** ** **;** see the choice/opt-out section below.**
+#### Correct/Update
 
-When you purchase some of our products we ask for your driving licence number, or National Insurance number. We ask for this information because we have tools available which use this information to help verify your identity. We never reveal exactly how we do this, nor how we validate the rest of the information you provide. This validation information is not kept on any computer and is used only for the purposes of authentication. We also seek your mother's maiden name which we may use to verify your identity during a telephone discussion with us. 
+This site gives you the following options for changing and modifying information previously provided.
 
-From time to time we may ask you to provide copies of utility bills, bank statements or credit card statements addressed to you at your current and previous addresses. We only seek such information when we need to verify your current address and to protect the privacy of your information. Such copies are kept confidential whilst being processed, are not stored on computer, and are destroyed after being used to verify your addresses.
+  1. You can send email to [admin@checkmyfile.com](mailto:admin@checkmyfile.com)
+  2. You can write to us at the following postal address: 
 
-Unique identifiers (such as your chosen user name) are collected to verify your identity and for use as account numbers in our record system. 
+  
+checkmyfile  
+Chynoweth House  
+Trevissome Park  
+Blackwater  
+Truro  
+Cornwall  
+TR4 8UN 
 
-Demographic and profile data is also collected at our site. This information is not held on an individual basis. We use this data to tailor your experience at our site, showing content that we think you might be interested in, and displaying the content according to your preferences. For example, we use profile data to help identify lenders who extend credit to people with your credit rating, so that we may advise you and others of our findings. We do **not** pass your personal information to any third party except when under compulsion of law or with your consent to do so. 
 
-This site contains links to other sites. Credit Reporting Agency is not responsible for the privacy practices or the content of such Web sites.
 
-Our site uses a registration form for you to request information, products and services. We collect your contact information (such as your email address), unique identifiers (such as your password) and demographic information (such as your postcode). Contact information from the registration form is used to send orders and information about our company to you, and to get in touch with you when necessary.  **You may opt-out** **of receiving future mailings; see the choice/opt-out section below.**
 
-Our online surveys ask visitors for contact information (such as your email address). We use contact data from our surveys to send you information about our company. **You may opt-out of receiving future mailings; see the choice/opt-out section below. **
+#### Contacting checkmyfile about privacy
 
-Security
+  1. you can email our Data Controller, who is also our Joint Managing Director: [barry.stamp@checkmyfile.com](mailto:barry.stamp@checkmyfile.com)
+  2. you can write to 
 
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control.  These include the issue and use of passwords, powerful encryption and computer firewalls to guard against hacking. From time to time we may have to suspend services whilst we investigate a breach of security. You are also obligated, under the Terms and Conditions you agree to abide by when you use our services, to report any suspected breach to us immediately.
+  
+Barry Stamp  
+Joint Managing Director  
+checkmyfile  
+Chynoweth House  
+Trevissome Park  
+Blackwater  
+Truro  
+Cornwall  
+TR4 8UN 
 
-Supplementation Information
 
-This site supplements the information that you provide with information received from third parties, (such as the Royal Mail Postcode Address File, which helps confirm your address).
 
-Choice/Opt-Out
-
-This site gives you the following options for removing your information from our database to not receive future communications or to no longer receive our service. 
-
-> 1\. You can send email to [admin@checkmyfile.com](mailto:admin@checkmyfile.com)
-> 
-> 2\. You can write to us at the following postal address:
->
->> Credit Reporting Agency Limited  
->  13 High Cross  
->  TRURO  
->  TR1 2AJ
-
-Correct/Update
-
-This site gives you the following options for changing and modifying information previously provided.  
-
-> 1\. email [admin@checkmyfile.com](mailto:admin@checkmyfile.com) 
-> 
-> 2\. write to us at the following postal address: 
->
->> Credit Reporting Agency Limited  
->  13 High Cross  
->  TRURO  
->  TR1 2AJ
-
-Contacting the Web Site
-
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, 
-
-> 1\. you can email:
-> 
-> [ barry.stamp@checkmyfile.com](mailto:barry.stamp@checkmyfile.com)
-> 
-> 2\. you can write to   
-
-> > Barry Stamp  
->  Joint Managing Director  
->  Credit Reporting Agency Limited  
->  13 High Cross  
->  TRURO  
->  TR1 2AJ
