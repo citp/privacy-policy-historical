@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gtspirit.com privacy policy that was archived on 2010-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101027191845id_/http%3A//www.gtspirit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gtspirit.com privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609204453id_/http%3A//www.gtspirit.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - GTSPIRIT.COM
 
@@ -91,7 +91,3 @@ We take our Privacy Policy seriously and we regularly review our own compliance 
 If we receive a complaint from you, we will contact you in an attempt to address your concerns. If we are not able to resolve a complaint, we will participate in the appropriate independent recourse mechanism as necessary.
 
 _This policy was last updated on November 09, 2009._
-
-  
-  
-
