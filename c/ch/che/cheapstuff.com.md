@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cheapstuff.com privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214181837id_/http%3A//cheapstuff.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheapstuff.com privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609022430id_/http%3A//cheapstuff.com/Privacy) for the most accurate reproduction.*
 
-# CheapStuff - Quality Goods. Cheap Prices.
+# Buy Cheap Stuff For Sale Online - Quality Goods.Low Prices
 
 CheapStuff.com, a service of CheapStuff Inc. has created this privacy statement in order to demonstrate our firm commitment to protecting your privacy. The following discloses our information gathering and dissemination practices for the www.CheapStuff.com.com site. 
 
@@ -44,11 +44,11 @@ We use third-party advertising companies and advertising networks to collect inf
 
 To learn more about the collection of information by these third party advertising networks, including how to opt out of such collection, see the links below. 
 
-To opt out of collection by AlmondNet, please visit: http://www.almondnet.com/privacy.aspx?miid=7&artid=52 
+To opt out of collection by AlmondNet, please visit: [http://www.almondnet.com/privacy.aspx?miid=7&artid=52](http://www.almondnet.com/privacy.aspx?miid=7&artid=52)
 
-To opt out of collection by Revenue Science, Inc., please visit: http://www.networkadvertising.org/optout_nonppii.asp 
+To opt out of collection by Revenue Science, Inc., please visit: <http://www.networkadvertising.org/optout_nonppii.asp>
 
-To opt out of collection by 24/7 Real Media, please visit: http://www.247realmedia.com/opt-out.html 
+To opt out of collection by 24/7 Real Media, please visit: <http://www.247realmedia.com/opt-out.html>
 
 ## What does CheapStuff.com do with the data it collects? 
 
@@ -70,13 +70,13 @@ We may disclose certain non-personally identifiable information about you to adv
 
 As previously noted, you may always choose to not provide us with any of the information we request; however, this may limit our ability to provide you with a specific service or limit our ability to offer personalized content. 
 
-To learn more about the collection of information by third party advertising networks, including how to opt out of such collection, see the links below. 
+To learn more about the collection of information by these third party advertising networks, including how to opt out of such collection, see the links below. 
 
-To opt out of collection by AlmondNet, please visit: http://www.almondnet.com/privacy.aspx?miid=7&artid=52 
+To opt out of collection by AlmondNet, please visit: [http://www.almondnet.com/privacy.aspx?miid=7&artid=52](http://www.almondnet.com/privacy.aspx?miid=7&artid=52)
 
-To opt out of collection by Revenue Science, Inc., please visit: http://www.networkadvertising.org/optout_nonppii.asp 
+To opt out of collection by Revenue Science, Inc., please visit: <http://www.networkadvertising.org/optout_nonppii.asp>
 
-To opt out of collection by 24/7 Real Media, please visit: http://www.247realmedia.com/opt-out.html 
+To opt out of collection by 24/7 Real Media, please visit: <http://www.247realmedia.com/opt-out.html>
 
 ## How can I update or correct my information? 
 
@@ -88,7 +88,7 @@ CheapStuff.com currently does not have a method for completely deleting user inf
 
 ## What procedures have been designed to protect the loss, misuse or alteration of information under CheapStuff.com's control? 
 
-Except as otherwise stated in this privacy policy, CheapStuff.com has taken measures to ensure that information that is not publicly available through its site is accessible only to the user who initially entered the information or to authorized personnel at CheapStuff.com or its partners, and only after a password has been entered. In the unlikely event of a security breach for which we provide notice under Cal. Civ. Code § 1798.82, CheapStuff will send a notification to the email address on file (if any) for each relevant user informing him or her of the security breach. 
+Except as otherwise stated in this privacy policy, CheapStuff.com has taken measures to ensure that information that is not publicly available through its site is accessible only to the user who initially entered the information or to authorized personnel at CheapStuff.com or its partners, and only after a password has been entered. In the unlikely event of a security breach for which we provide notice under Cal. Civ. Code Â§ 1798.82, CheapStuff will send a notification to the email address on file (if any) for each relevant user informing him or her of the security breach. 
 
 ## What about privacy policies for sites to which CheapStuff.com links? 
 
@@ -104,4 +104,4 @@ This policy may be revised over time as new features are added to the site. We w
 
 ## Contact Information
 
-If you have any questions about this privacy policy or about CheapStuff.com information collection practices, please contact us at copyright@CheapStuff.com 
+If you have any questions about this privacy policy or about CheapStuff.com information collection practices, please contact us at [copyright@CheapStuff.com ](mailto:copyright@CheapStuff.com)
