@@ -1,41 +1,24 @@
-> *The following text is extracted and transformed from the jedec.org privacy policy that was archived on 2010-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101208025649id_/http%3A//www.jedec.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jedec.org privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610000254id_/http%3A//www.jedec.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | JEDEC
 
 ### JEDEC’s Commitment to Privacy
 
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available in the site footer which appears throughout the website. 
 
 ### The Information We Collect
 
-This notice applies to all information collected or submitted on the JEDEC website. On some pages, you can order publication subscriptions, contact JEDEC, register to download published JEDEC standards and documents free of charge, register to become a JEDEC member, or register to attend a JEDEC event. The types of personal information collected on these pages are:
-
-  * Name
-  * Company
-  * Email address
-  * Committee(s) of interest (optional)
-
-
-
-For publication subscription orders, new member registrations and event registrations we may also collect:
-
-  * Credit/Debit Card Information (including billing address/phone number)
-  * Mailing address
-  * Phone number
-
-
+This notice applies to all information collected or submitted on the JEDEC website. On some pages, you can order publication subscriptions/ID Codes, contact JEDEC, register to download published JEDEC standards and documents free of charge, register to become a JEDEC member, or register to attend a JEDEC event. JEDEC collects the minimum amount of personal information necessary to fulfill these requests, and the type of information collected varies depending on the request. JEDEC does not retain credit card data collected for payment purposes.
 
 JEDEC reserves the right to use cookies to identify single sessions, in which case a cookie will temporarily be written. This type of cookie is deleted as soon as you close your browser and is not stored permanently.
 
 ### The Way We Use Information
 
-We use the information you provide about yourself when placing an order, registering as a new member or registering to attend an event only to complete the request. We do not share this information with outside parties except to the extent necessary to complete the request.
+JEDEC reserves the right to compile, save, use within the scope of our activities, and analyze any and all data (contact and personal data, use history, etc.) that we collect from you through the Website. We use the personal information that you provide to us for our internal purposes such as responding to your requests for information, contacting you, conducting internal analyses, and processing and completing orders and event registrations.
 
-For free download registrants, we do not share the information you provide to any outside parties. During the free download registration process, you may choose to opt-in to our email list or to receive additional information on selected committees. Information you submit during this registration process will not be used to contact you unless you choose to opt-in or request password/username assistance.
+Website users who register to download free documents and standards (“registrants”) have the opportunity to opt-in to the JEDEC email list. Registrants who opt-in may be added to our list of users who will receive promotional and marketing communications from us and our partners. Any partners with whom JEDEC shares the information of our opt-in registrants are contractually bound to use this information only to perform the services we have contracted with them to provide.
 
-We use return email addresses to answer the email we receive via the “contact us” process. Such addresses are not used for any other purpose and are not shared with outside parties.
-
-For new members, JEDEC uses the email address provided for each company representative to contact you on an ongoing basis with information about your assigned committees and subcommittees.
+For new member registrations, JEDEC uses the contact information provided for each company representative to contact you on an ongoing basis with information about your assigned committees and subcommittees.
 
 We use non-identifying and aggregate information to better design our website.
 
