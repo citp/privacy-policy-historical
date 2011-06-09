@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the howtogetridofstuff.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231104435id_/http%3A//www.howtogetridofstuff.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howtogetridofstuff.com privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609060728id_/http%3A//www.howtogetridofstuff.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - howtogetridofstuff.com
 
-Hi! The section below is our privacy statement. It tells you what information we collect about you and how we use it. It should be pretty easy to understand, but if you have any questions about it please contact us [here](http://www.howtogetridofstuff.com/submit-a-problem/) and we’d be happy to explain anything to you in plain english.
+Hi! The section below is our privacy statement. It tells you what information we collect about you and how we use it. It should be pretty easy to understand, but if you have any questions about it please contact us [here](http://www.howtogetridofstuff.com/submit-a-problem/) and we’d be happy to explain anything to you in plain English.
 
 The short version is:We collect only the information you give us freely, and we use it only to improve the site. We currently do not send out emails to our users unless specifically asked to, and we never sell your information to other companies. You will not be spammed by us!
 
@@ -10,10 +10,6 @@ The short version is:We collect only the information you give us freely, and we 
 
 This is the web site of HowToGetRidOfStuff.com.
 
-Our postal address is  
-2587 Affirmed Place  
-Victoria, BC Canada  
-V9B-5S9  
 You can contact us through [this form](http://www.howtogetridofstuff.com/contact-us/).
 
 For every visitor that comes to our Site, our server recognizes only the visitor’s domain name, but not the e-mail address.
