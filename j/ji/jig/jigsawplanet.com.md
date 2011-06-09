@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the jigsawplanet.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206163726id_/http%3A//www.jigsawplanet.com%3Frc%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jigsawplanet.com privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609024332id_/http%3A//www.jigsawplanet.com%3Frc%3Dprivacy) for the most accurate reproduction.*
 
 # Jigsaw Planet - Privacy Policy
 
-This Privacy Policy describes Jigsaw Planet‘s policies and procedures on the collection, use and disclosure of your information. Jigsaw Planet receives your information through our various web sites, APIs, services and third-parties ("Services"). When using any of our Services you consent to the collection, transfer, manipulation, storage, disclosure and other uses of your information as described in this Privacy Policy. Irrespective of which country that you reside in or create information from, your information may be used by Jigsaw Planet in the United States or any other country where Jigsaw Planet operates.
+This Privacy Policy describes Jigsaw Planet's policies and procedures on the collection, use and disclosure of your information. Jigsaw Planet receives your information through our various web sites, APIs, services and third-parties ("Services"). When using any of our Services you consent to the collection, transfer, manipulation, storage, disclosure and other uses of your information as described in this Privacy Policy. Irrespective of which country that you reside in or create information from, your information may be used by Jigsaw Planet in the United States or any other country where Jigsaw Planet operates.
 
 If you have any questions or comments about this Privacy Policy, please [contact us](https://web.archive.org/?rc=contact).
 
@@ -24,7 +24,7 @@ If you have any questions or comments about this Privacy Policy, please [contact
 
 **Service Providers:** We engage certain trusted third parties to perform functions and provide services to us. We may share your personal information with these third parties, but only to the extent necessary to perform these functions and provide such services, and only pursuant to obligations mirroring the protections of this privacy policy.
 
-**Law and Harm:** We may disclose your information if we believe that it is reasonably necessary to comply with a law, regulation or legal request; to protect the safety of any person; to address fraud, security or technical issues; or to protect Jigsaw Planet´s rights or property.
+**Law and Harm:** We may disclose your information if we believe that it is reasonably necessary to comply with a law, regulation or legal request; to protect the safety of any person; to address fraud, security or technical issues; or to protect Jigsaw Planet's rights or property.
 
 **Business Transfers:** In the event that Jigsaw Planet is involved in a bankruptcy, merger, acquisition, reorganization or sale of assets, your information may be sold or transferred as part of that transaction. The promises in this privacy policy will apply to your information as transferred to the new entity.
 
