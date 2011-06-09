@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opswat.com privacy policy that was archived on 2010-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100124145417id_/http%3A//www.opswat.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opswat.com privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609144605id_/http%3A//www.opswat.com/privacy) for the most accurate reproduction.*
 
 # OPSWAT Privacy Policy — OPSWAT
 
