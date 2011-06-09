@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the news-gazette.com privacy policy that was archived on 2010-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101105041358id_/http%3A//www.news-gazette.com/section/services/online-services/news-gazette-online-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the news-gazette.com privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609183745id_/http%3A//www.news-gazette.com/section/services/online-services/news-gazette-online-privacy-policy.html) for the most accurate reproduction.*
 
-# The News-Gazette Online Privacy Policy | News-Gazette.com – Your Source for News and Advertising in East Central Illinois
+# The News-Gazette Online Privacy Policy | News-Gazette.com
 
 Web sites of The News-Gazette Inc., including but not limited to, news-gazette.com, wdws.com and whms.com take your privacy concerns seriously. The following policy explains our position on information gathering and how we intend to use any user data we may collect from our users. 
 
