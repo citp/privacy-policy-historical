@@ -1,20 +1,18 @@
-<!--The following is the downloaded HTML source of the simplylearnt.com privacy policy that was archived on 2010-12-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101209031142id_/http%3A//www.simplylearnt.com/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the simplylearnt.com privacy policy that was archived on 2011-06-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110609040244id_/http%3A//www.simplylearnt.com/privacy_policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/" xml:lang="en" lang="en"><head>
 <title>
 Privacy Policy - simplyLearnt</title>
 <meta name="title" content="Privacy Policy">
 <meta name="description" content="">
 <meta name="keywords" content="">
 
-<link rel="stylesheet" type="text/css" href="http://www.simplylearnt.com/main/css/default_with_tabs/default_sep.css">
-
-
-<script type="text/javascript" src="http://www.simplylearnt.com/main/js/jquery/jquery-1.4.2.min.js"></script>
+<link rel="stylesheet" type="text/css" href="http://www.simplylearnt.com/main/css/default_with_tabs/default_apr_2011_minified.css">
+<link rel="stylesheet" type="text/css" href="http://www.simplylearnt.com/main/css/default_with_tabs/jquery-ui-1.8.5.custom.min.css"><link rel="stylesheet" type="text/css" href="http://www.simplylearnt.com/main/css/default_with_tabs/jqtransform-v2.min.css"><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.simplylearnt.com/main/js/jquery/jquery-1.4.2.min.js"></script>
 <script type="text/javascript" src="http://www.simplylearnt.com/main/js/jquery/jquery.dropdown.js"></script>
-
-
+<script type="text/javascript" src="http://www.simplylearnt.com/main/js/jquery/jquery-ui-1.8.5.custom.min.js"></script>
+<script type="text/javascript" src="http://www.simplylearnt.com/main/js/jquery/jquery.jqtransform-v2.min.js"></script>
 <link rel="top" href="http://www.simplylearnt.com/index.php" title="">
 <link rel="courses" href="http://www.simplylearnt.com/main/auth/courses.php" title="Courses list">
 <link rel="profil" href="http://www.simplylearnt.com/editprofile" title="My profile">
@@ -26,19 +24,16 @@ installCodePath = "http://www.simplylearnt.com/main/";
 <script type="text/javascript" src="http://www.simplylearnt.com/main/js/ajax-dynamic-content_rel_mar_10.js"></script>
 <script type="text/javascript" src="http://www.simplylearnt.com/main/js/modal-message.js"></script>
 <script type="text/javascript" src="http://www.simplylearnt.com/main/js/drag-drop-custom.js"></script>
-
 <script type="text/javascript" src="http://www.simplylearnt.com/main/js/dhtmlgoodies_calendar.js"></script>
 <script type="text/javascript">
 pathToImages = "http://www.simplylearnt.com/main//js/dhtmlgoodies_calendar/images/";
 </script>
-<script src="http://www.simplylearnt.com/main/js/all_misc_js_not_minified_may_10.js" type="text/javascript"></script>
+<script src="http://www.simplylearnt.com/main/js/all_misc_js_not_minified_april_2011.js" type="text/javascript"></script>
 <script type="text/javascript">
 function toggle_box_header(div_id,div_img_id) 
 {
-	
 	e = document.getElementById(div_id);
-	
- 	if(e.style.display =='none')
+	if(e.style.display =='none')
  	{
  		e.style.display = 'inline';
  		document.getElementById(div_img_id).src = 'http://www.simplylearnt.com/main/img/triangle_pointing_up.gif';
@@ -49,6 +44,89 @@ function toggle_box_header(div_id,div_img_id)
  		document.getElementById(div_img_id).src = 'http://www.simplylearnt.com/main/img/triangle_pointing_down.gif';
  	}
  	return false;
+}
+var login_popup_destroyed = false;
+var promo_popup_destroyed = false;
+ $(function() {
+ 		$("form.jqtransform").jqTransform();
+  		$("#login-modal-popup").dialog({
+				minHeight: 320,
+				minWidth: 400,
+				modal: true,
+				resizable: false,
+				draggable: false,
+				autoOpen: false,
+				close: function() { 
+                        $(this).dialog('destroy')
+						login_popup_destroyed = true;
+    		} 
+
+		});
+		
+		$("#promo-modal-popup").dialog({
+				modal: true,
+				width: 400,
+				resizable: false,
+				draggable: false,
+				autoOpen: true,
+				close: function() { 
+            		$(this).dialog('destroy') 
+            		promo_popup_destroyed = true; 
+              } 
+		});
+			 
+	});
+function open_login_popup(allow_close,login_required,login_failed,login_error)
+{
+	if(login_popup_destroyed)
+	{
+		$("#login-modal-popup").dialog({
+				minHeight: 300,
+				width: 380,
+				modal: true,
+				resizable: false,
+				draggable: false,
+				autoOpen: false,
+				close: function() { 
+                        $(this).dialog('destroy')
+						login_popup_destroyed = true;
+    		} 
+
+		});
+		$("form.jqtransform").jqTransform();
+		login_popup_destroyed = false;
+	}
+	if(allow_close=='0')
+	{
+		$( "#login-modal-popup" ).bind("dialogclose", function() {  $(location).attr('href','http://www.simplylearnt.com/');});
+		
+	}
+	if(login_failed!= undefined)
+	{
+		switch(login_error)
+		{	case 'already_logged_in':
+			var message ="You are already logged onto simplyLearnt.com in another session. ";
+			break;
+		case 'account_expired':
+			var message ="Account expired";
+			break;
+		case 'account_inactive':
+			var message ="Account inactive";
+			break;
+		case 'user_password_incorrect':
+			var message ="Login failed - incorrect username or password.";
+		}
+		$( "#login-modal-popup" ).dialog( "option", "title",'<img src="http://www.simplylearnt.com/main/img/message_warning.png" class="float_img"/>'+message);
+	}
+	else
+	{
+		if(login_required=='1')
+			$( "#login-modal-popup" ).dialog( "option", "title", 'You Need To Login To See This Page!' );
+		else
+			$( "#login-modal-popup" ).dialog( "option", "title", 'Please Enter Your Details' );
+	}
+	$( "#login-modal-popup" ).dialog( "open" );
+	return false;
 }
 </script>
 <script type="text/javascript"><!--
@@ -62,14 +140,15 @@ function toggle_box_header(div_id,div_img_id)
     //-->
   </script>
 <script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-try {
-var pageTracker = _gat._getTracker("UA-1193146-4");
-pageTracker._trackPageview();
-} catch(err) {}</script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-1193146-4']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
 </head>
 
 <body dir="ltr">
@@ -86,29 +165,32 @@ pageTracker._trackPageview();
 
 	<div id="header">  <!-- header section start -->
 <div style="float:right;">
-<div id="loginMenuGuest" style="clear:right"><a href="http://www.simplylearnt.com/register"><u>Register</u></a> . <a href="#" onclick="displayMessage('http://www.simplylearnt.com/main/inc/login-modal.php?allowCancel=1&amp;main_login=true', 300, 270);return false"><u>Login</u></a>   . <a href="http://www.simplylearnt.com/contact_us"><u>Contact Us</u></a> <br></div><!--<form action="http://www.simplylearnt.com/main/search/searchresults.php">-->
-<form action="http://www.simplylearnt.com/main/search/show_search_page.php">
-             <br><br><table class="header_search_box">
+<div id="loginMenuGuest" style="clear:right"><a href="http://www.simplylearnt.com/register"><u>Register</u></a> . <a href="#" onclick="open_login_popup('1','0');return false"><u>Login</u></a>   . <a href="http://www.simplylearnt.com/contact_us"><u>Contact Us</u></a> </div><form action="http://www.simplylearnt.com/search">
+             <br><br><table>
                  <tbody><tr>
                  	<td>
-                 	<select id="searchfor" name="searchfor">
-                 		<option value="test" selected="selected">Search Tests</option>
-                 		<option value="member">Search People</option>
-                 		<option value="study group">Search Study Groups</option>
-                 	</select>
-                         <input type="text" size="10" name="search_query">
-                    </td>
-                     <td>
-                       <input type="image" src="http://www.simplylearnt.com/main/img/searchbutton_new.gif">
+   
+  <div>
+    <input type="hidden" name="cx" value="partner-pub-4424887619436813:3pc6dryvstj">
+    <input type="hidden" name="cof" value="FORID:9">
+    <input type="hidden" name="ie" value="ISO-8859-1">
+    <input type="text" name="q" size="20">
+    <input type="submit" name="sa" value="Search">
+  </div>
+
+<script type="text/javascript" src="//www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script>
                      </td>
                 </tr>
                 <tr><td colspan="2">
+                
+          
+                
 				</td></tr>
 
             </tbody></table>
-</form>
 
-</div><div style="padding-top:8px;margin-left:5px"><a href="http://www.simplylearnt.com/"><img src="http://www.simplylearnt.com/main/img/simplylearnt-logo-large-smart.gif" alt="SimplyLearnt - Your Ladder to Entrance Success" title="SimplyLearnt - Your Ladder to Entrance Success"></a><br><br></div>  <div style="width:100%;border:solid 1px #eeeeee;background:#ffffff;margin-top:-2px;height:30px"><ul id="saturday">
+
+</form></div><div style="padding-top:8px;margin-left:5px"><table><tbody><tr><td width="300px"><a href="http://www.simplylearnt.com/"><img src="http://www.simplylearnt.com/main/img/sl_logo_new_prep_buddy.gif" alt="SimplyLearnt - Your Ladder to Entrance Success" title="SimplyLearnt - Your Ladder to Entrance Success"></a></td><td><div class="ui-state-highlight ui-corner-all" style="width:280px;margin-left:80px;min-height:82px;font-size:1em"><img src="http://www.simplylearnt.com/main/img/campaigns/prep-buddy-with-horn.gif" width="80px" class="float_img"><b style="font-size:1.1em">Server Upgraded!</b><br>In case you face any issues in using the website or pages don't load properly, please let us know.<br><a href="http://www.simplylearnt.com/server-migration-issues" style="color:#7294CF;text-decoration:underline">Report issues here.</a></div></td></tr></tbody></table>	</div>  <div style="width:100%;border:solid 1px #eeeeee;background:#ffffff;margin-top:-2px;height:30px"><ul id="saturday">
 	<li><a href="http://www.simplylearnt.com/IIT-JEE-exam" title="IIT Study Group">IIT</a></li>
 	<li><a href="http://www.simplylearnt.com/AIEEE-exam" title="AIEEE Study Group">AIEEE</a></li>
 	<li><a href="http://www.simplylearnt.com/AIPMT-exam" title="AIPMT Study Group">AIPMT</a></li>
@@ -198,47 +280,126 @@ pageTracker._trackPageview();
   Attn: Privacy Policy issues<br>
   F 46/A, Moti Nagar,</p>
 <p>New Delhi  110015, India</p>
+<div id="fb-root"></div><script src="http://connect.facebook.net/en_US/all.js" type="text/javascript"></script>
+<script type="text/javascript">
+	FB.init({appId: '312700697704', status: true, cookie: true, xfbml: true});
+	function auto_login_fb_user()
+	{
+		FB.getLoginStatus(function(response) {
+		if (response.session) {
+			FB.api('/me', function(response_user) {
+	 			window.location = "http://www.simplylearnt.com/main/scripts/facebook_login.php?username="+response_user.email+"&fb_user_id="+response_user.id;
+			});
+		  } 
+		});
+	}
+
+	function login_fb_user()
+	{
+		FB.getLoginStatus(function(response) {
+			if(response.session)
+			{
+				if(response.status == "notConnected")
+				{
+					window.location = "http://www.simplylearnt.com/register/facebook";
+				}
+				else
+				{
+					FB.api('/me', function(response_user) {
+					window.location = "http://www.simplylearnt.com/main/scripts/facebook_login.php?username="+response_user.email+"&fb_user_id="+response_user.id;
+					});	
+				}
+			}
+			else
+			{
+				window.location = "http://www.simplylearnt.com/register/facebook";
+			}
+		});
+	}
+	function login_fb_user_new()
+	{
+		FB.login(function(response) {
+		  if (response.session) {
+		    if (response.perms) {
+		      // user is logged in and granted some permissions.
+		      // perms is a comma separated list of granted permissions
+		      	var checkValid = response.perms.search('publish_stream');
+				if( checkValid != -1)
+				{
+		      		FB.api('/me', function(response_user) {
+						window.location = "http://www.simplylearnt.com/main/scripts/facebook_login.php?username="+response_user.email+"&fb_user_id="+response_user.id;
+					});
+				}
+				else
+				{
+					FB.api('/me', function(response_user) {
+						window.location = "http://www.simplylearnt.com/main/scripts/facebook_login.php?username="+response_user.email+"&fb_user_id="+response_user.id+"&dont_check_perm=true";
+					});
+				}	
+		    } else {
+		      // user is logged in, but did not grant any permissions
+		    }
+		  } else {
+		   	window.location = "http://www.simplylearnt.com/register/facebook";
+		  }
+		}, {perms:'publish_stream,email'});
+
+	}
+	
+	
+	
+	auto_login_fb_user();
+</script><div style="display:none"><div class="dialog-modal" id="login-modal-popup" align="center"><form action="http://www.simplylearnt.com/main/scripts/login.php" method="post" name="login_form_popup" id="login_form_popup" class="jqtransform"><table cellspacing="10" style="font-size:14px"><tbody><tr class="rowElem"><td><label for="login"><b>E-mail: </b></label></td><td width="180px"><input size="23" name="login" id="login" type="text"></td></tr><tr class="rowElem"><td><label for="password"><b>Password: </b></label></td><td align="right"><input size="23" name="password" type="password" id="password"><input type="checkbox" name="rememberme_sl" id="rememberme_sl" value="true" checked="">&nbsp;&nbsp;<label for="rememberme_sl" style="font-size:10pt;">Remember Me</label>&nbsp;<a href="http://www.simplylearnt.com/lost-password" style="font-size:8pt;color : #4171b5;">Forgot Password?</a></td></tr><tr class="rowElem"><td colspan="2" align="center"><input onclick="closeMessage()" name="submitAuth" value="<b>Login</b>" type="submit"><input name="_qf__formLogin" type="hidden" value=""></td></tr></tbody></table></form><div style="width:280px"><a href="#" style="color : #4171b5;"><img src="http://www.simplylearnt.com/main/img/facebook_small.gif" alt="Login using Facebook" style="float:left"></a>&nbsp;<span><a href="#" style="font-size:12pt;color : #4171b5;" onclick="login_fb_user_new(); return false;">Login using Facebook Connect!</a></span></div><br><b>Not A Member? &nbsp;</b><a href="http://www.simplylearnt.com/register"><span class="sl_red_button">Register for FREE!</span></a></div></div>
  <div class="clear">&nbsp;</div> <!-- 'clearing' div to make sure that footer stays below the main and right column sections -->
 </div> <!-- end of #main" started at the end of banner.inc.php -->
 
-<div id="footerdivider">&nbsp;
+<div id="online_users_notification"></div><div id="footerdivider">&nbsp;
 </div>
 <div id="slfooter"> <!-- start of #footer section -->
+WHAT PEOPLE SAY ABOUT SIMPLYLEARNT<div><table><tbody><tr><td><a href="http://www.simplylearnt.com/user/ashish-bisht">Sachin</a> -  Simplylearnt has helped me a lot in my preparation, I loved mainly the Practice Lounge where I can access any number of questions. Thanks a lot :)<br>&nbsp;&nbsp;&nbsp;<div class="shift_right"><a href="http://www.simplylearnt.com/why-students-like-us"><i>See All</i></a></div></td></tr></tbody></table><hr>		
+
+
 <table width="100%">
 <tbody><tr>
-<td width="110"><b>People Directory </b></td>
-<td>
+<td width="115"><b>People Directory </b></td>
+<td colspan="5">
 <a href="http://www.simplylearnt.com/members/A/1">A</a> &nbsp;<a href="http://www.simplylearnt.com/members/B/1">B</a> &nbsp;<a href="http://www.simplylearnt.com/members/C/1">C</a> &nbsp;<a href="http://www.simplylearnt.com/members/D/1">D</a> &nbsp;<a href="http://www.simplylearnt.com/members/E/1">E</a> &nbsp;<a href="http://www.simplylearnt.com/members/F/1">F</a> &nbsp;<a href="http://www.simplylearnt.com/members/G/1">G</a> &nbsp;<a href="http://www.simplylearnt.com/members/H/1">H</a> &nbsp;<a href="http://www.simplylearnt.com/members/I/1">I</a> &nbsp;<a href="http://www.simplylearnt.com/members/J/1">J</a> &nbsp;<a href="http://www.simplylearnt.com/members/K/1">K</a> &nbsp;<a href="http://www.simplylearnt.com/members/L/1">L</a> &nbsp;<a href="http://www.simplylearnt.com/members/M/1">M</a> &nbsp;<a href="http://www.simplylearnt.com/members/N/1">N</a> &nbsp;<a href="http://www.simplylearnt.com/members/O/1">O</a> &nbsp;<a href="http://www.simplylearnt.com/members/P/1">P</a> &nbsp;<a href="http://www.simplylearnt.com/members/Q/1">Q</a> &nbsp;<a href="http://www.simplylearnt.com/members/R/1">R</a> &nbsp;<a href="http://www.simplylearnt.com/members/S/1">S</a> &nbsp;<a href="http://www.simplylearnt.com/members/T/1">T</a> &nbsp;<a href="http://www.simplylearnt.com/members/U/1">U</a> &nbsp;<a href="http://www.simplylearnt.com/members/V/1">V</a> &nbsp;<a href="http://www.simplylearnt.com/members/W/1">W</a> &nbsp;<a href="http://www.simplylearnt.com/members/X/1">X</a> &nbsp;<a href="http://www.simplylearnt.com/members/Y/1">Y</a> &nbsp;<a href="http://www.simplylearnt.com/members/Z/1">Z</a> &nbsp;<span class="footernote">(by first name)</span>
 </td>
 </tr>
-<tr>
-<td><b>Institute Directory </b></td>
-<td>
-<a href="http://www.simplylearnt.com/institutes/engineering">Engineering</a>
-&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.simplylearnt.com/institutes/medical">Medical</a>
-&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.simplylearnt.com/institutes/mba">MBA</a>
-&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.simplylearnt.com/institutes/cbse">CBSE</a>
-&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.simplylearnt.com/institutes/upsc">UPSC</a>
-&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.simplylearnt.com/institutes/ssc">SSC</a>
-&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.simplylearnt.com/institutes/railways">Railways</a>
-&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.simplylearnt.com/institutes/defence">Defence</a>
-&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.simplylearnt.com/institutes/bank">Bank Exams</a>
-&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.simplylearnt.com/institutes/gre">GRE/GMAT/SAT</a>
-&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.simplylearnt.com/institutes/misc">Misc</a>
-</td>
-</tr>
-<!--<tr><td>
-<b>Content</b>
-</td><td>
-<a href="http://www.simplylearnt.com/content/pdf">PDFs</a> 
-
-&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp; <a href="http://www.simplylearnt.com/content/document">Documents</a>
-
-&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp; <a href="http://www.simplylearnt.com/content/video">Videos</a>
-
-&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp; <a href="http://www.simplylearnt.com/content/ppt">PPTs</a>
-</td>
-</tr>-->
+<tr><td>
+<b>AIEEE Exam</b></td>
+<td><a href="http://www.simplylearnt.com/AIEEE-exam/books">AIEEE Books</a></td><td>|&nbsp;&nbsp;<a href="http://www.simplylearnt.com/AIEEE-exam/tests">AIEEE Tests</a></td><td>|&nbsp;&nbsp;<a href="http://www.simplylearnt.com/AIEEE/study-groups">AIEEE Study Groups</a></td><td>|&nbsp;&nbsp;<a href="http://www.simplylearnt.com/AIEEE-exam/test-question">AIEEE Questions</a></td><td>|&nbsp;&nbsp;<a href="http://www.simplylearnt.com/examination/AIEEE/topics">AIEEE Topics</a>
+</td></tr>
+<tr><td>
+<b>AIPMT Exam</b></td>
+<td><a href="http://www.simplylearnt.com/AIPMT-exam/books">AIPMT Books</a></td><td>|&nbsp;&nbsp;<a href="http://www.simplylearnt.com/AIPMT-exam/tests">AIPMT Tests</a></td><td>|&nbsp;&nbsp;<a href="http://www.simplylearnt.com/AIPMT/study-groups">AIPMT Study Groups</a></td><td>|&nbsp;&nbsp;<a href="http://www.simplylearnt.com/AIPMT-exam/test-question">AIPMT Questions</a></td><td>|&nbsp;&nbsp;<a href="http://www.simplylearnt.com/examination/AIPMT/topics">AIPMT Topics</a>
+</td></tr>
+<tr><td>
+<b>IIT-JEE Exam</b></td>
+<td><a href="http://www.simplylearnt.com/IIT-JEE-exam/books">IIT-JEE Books</a></td><td>|&nbsp;&nbsp;<a href="http://www.simplylearnt.com/IIT-JEE-exam/tests">IIT-JEE Tests</a></td><td>|&nbsp;&nbsp;<a href="http://www.simplylearnt.com/IIT-JEE/study-groups">IIT-JEE Study Groups</a></td><td>|&nbsp;&nbsp;<a href="http://www.simplylearnt.com/IIT-JEE-exam/test-question">IIT-JEE Questions</a></td><td>|&nbsp;&nbsp;<a href="http://www.simplylearnt.com/examination/IIT-JEE/topics">IIT-JEE Topics</a>
+</td></tr>
+<tr><td>
+<b>Engineering Exams</b></td>
+<td><a href="http://www.simplylearnt.com/engineering/books">Engineering Books</a></td><td>|&nbsp;&nbsp;<a href="http://www.simplylearnt.com/engineering/tests">Engineering Tests</a></td><td>|&nbsp;&nbsp;<a href="http://www.simplylearnt.com/study-groups/engineering">Engineering Study Groups</a></td><td>|&nbsp;&nbsp;<a href="http://www.simplylearnt.com/engineering/question-discussions">Engineering Questions</a></td><td>|&nbsp;&nbsp;<a href="http://www.simplylearnt.com/engineering/topics">Engineering Topics</a>
+</td></tr>
+<tr><td>
+<b>Medical Exams</b></td>
+<td><a href="http://www.simplylearnt.com/medical/books">Medical Books</a></td><td>|&nbsp;&nbsp;<a href="http://www.simplylearnt.com/medical/tests">Medical Tests</a></td><td>|&nbsp;&nbsp;<a href="http://www.simplylearnt.com/study-groups/medical">Medical Study Groups</a></td><td>|&nbsp;&nbsp;<a href="http://www.simplylearnt.com/medical/question-discussions">Medical Questions</a></td><td>|&nbsp;&nbsp;<a href="http://www.simplylearnt.com/medical/topics">Medical Topics</a>
+</td></tr>
+<tr><td>
+<b>CBSE /NTSE Exam</b></td>
+<td><a href="http://www.simplylearnt.com/cbse-ntse/books">CBSE / NTSE Books</a></td><td>|&nbsp;&nbsp;<a href="http://www.simplylearnt.com/cbse-ntse/tests">CBSE / NTSE Tests</a></td><td>|&nbsp;&nbsp;<a href="http://www.simplylearnt.com/study-groups/cbse-ntse">CBSE / NTSE Study Groups</a></td><td>|&nbsp;&nbsp;<a href="http://www.simplylearnt.com/cbse-ntse/question-discussions">CBSE / NTSE Questions</a></td><td>|&nbsp;&nbsp;<a href="http://www.simplylearnt.com/cbse-ntse/topics">CBSE / NTSE Topics</a>
+</td></tr>
+<tr><td>
+<b>MBA / CAT Exam</b></td>
+<td><a href="http://www.simplylearnt.com/CAT-exam/books">CAT Books</a></td><td>|&nbsp;&nbsp;<a href="http://www.simplylearnt.com/CAT-exam/tests">CAT Tests</a></td><td>|&nbsp;&nbsp;<a href="http://www.simplylearnt.com/CAT/study-groups">CAT Study Groups</a></td><td>|&nbsp;&nbsp;<a href="http://www.simplylearnt.com/CAT-exam/test-question">CAT Questions</a></td><td>|&nbsp;&nbsp;<a href="http://www.simplylearnt.com/examination/CAT/topics">CAT Topics</a>
+</td></tr>
+<tr><td>
+<b>Other Exams</b></td>
+<td><a href="http://www.simplylearnt.com/misc/books">Other Exam Books</a></td><td>|&nbsp;&nbsp;<a href="http://www.simplylearnt.com/misc/tests">Other Exam Tests</a></td><td>|&nbsp;&nbsp;<a href="http://www.simplylearnt.com/study-groups/misc">Other Exam Study Groups</a></td><td>|&nbsp;&nbsp;<a href="http://www.simplylearnt.com/misc/question-discussions">Other Exam Questions</a></td><td>|&nbsp;&nbsp;<a href="http://www.simplylearnt.com/misc/topics">Other Exam Topics</a>
+</td></tr>
+<tr><td><b>Preparation tools</b></td><td><a href="http://www.simplylearnt.com/applications/prep-tool-survey">Bheja Fry</a></td><td>|&nbsp;&nbsp;<a href="http://www.simplylearnt.com/applications/prep-tool-survey">Fortune Samosa</a></td><td>|&nbsp;&nbsp;<a href="http://www.simplylearnt.com/applications/prep-tool-survey">Preparation Thermometer</a></td><td>|&nbsp;&nbsp;<a href="http://www.simplylearnt.com/applications/prep-tool-survey">Rajnikanth Formula</a></td><td>|&nbsp;&nbsp;<a href="http://www.simplylearnt.com/applications/prep-tool-survey">Train The Brain</a></td></tr>
+<!--
 <tr><td>
 <b>Books</b></td>
 <td>
@@ -256,7 +417,7 @@ pageTracker._trackPageview();
 </td>
 </tr>
 <tr><td>
-</td></tr><tr><td>
+<tr><td>
 <b>Tests</b></td>
 <td>
 <a href="http://www.simplylearnt.com/engineering/tests">Engineering</a>
@@ -274,7 +435,7 @@ pageTracker._trackPageview();
 </tr>
 <tr><td>
 <b>Study Groups</b></td>
-<td>
+<td >
 <a href="http://www.simplylearnt.com/study-groups/engineering">Engineering</a>
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.simplylearnt.com/study-groups/medical">Medical</a>
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.simplylearnt.com/study-groups/mba">MBA</a>
@@ -323,17 +484,18 @@ pageTracker._trackPageview();
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.simplylearnt.com/gre/topics">GRE/GMAT/SAT</a>
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.simplylearnt.com/misc/topics">Misc</a>
 </td>
-</tr>
-
-<tr>
-<td><b>simplyLearnt</b></td>
+</tr>-->
+</tbody></table><table>
+<tbody><tr>
+<td width="115"><b>simplyLearnt</b></td>
 <td><a href="http://simplylearntblog.blogspot.com">Blog</a> | <a href="http://www.facebook.com/pages/Simplylearnt/198593902299?ref=mf">Facebook</a> | <a href="http://twitter.com/simplylearnt">Twitter</a> | <a href="http://www.simplylearnt.com/about_us">About Us</a> | <a href="http://www.simplylearnt.com/careers">Careers</a> | <a href="http://www.simplylearnt.com/usage_terms">Terms and Conditions</a> | <a href="http://www.simplylearnt.com/session_cancellation_policy">Refund and Cancellation Policy</a> | <a href="http://www.simplylearnt.com/privacy_policy">Privacy Policy</a> | <a href="http://www.simplylearnt.com/contact_us">Contact Us</a>   |  <a href="http://www.simplylearnt.com/login">Login</a></td>
 </tr>
 </tbody></table>
 <br>
 <span class="footernote">Minimum Browser requirements - 1024 x 768 resolution with Adobe Flash Player 9. If not available <a href="http://www.adobe.com/go/getflashplayer">click here to download</a>.</span>
 </div> <!-- end of #footer -->
-
 </div> <!-- end of #outerframe opened in header.inc.php -->
 
-</body></html>
+
+
+</div></body></html>
