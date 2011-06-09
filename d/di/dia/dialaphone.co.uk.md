@@ -1,29 +1,29 @@
-> *The following text is extracted and transformed from the dialaphone.co.uk privacy policy that was archived on 2010-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100328045640id_/http%3A//www.dialaphone.co.uk/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dialaphone.co.uk privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609054038id_/http%3A//www.dialaphone.co.uk/privacypolicy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Mobile Phone Shop - Dial-a-Phone
+# Privacy Policy - Mobile Phone Shop - Dialaphone
 
 * We will treat all your personal information:
 
-  * As confidential and will only disclose the same in the circumstances set out below; and,
-  * In accordance with Data Protection legislation from time to time in force in England and Wales.
+  * As confidential and will only disclose the same in the circumstances set out below; and, 
+  * In accordance with Data Protection legislation from time to time in force in England and Wales. 
 
 
 * When you shop on this Website, we will ask you to input personal details in order for us to identify you, such as your name, e-mail address, billing and delivery address, credit card or other payment information. We confirm that this information will be held by us in accordance with the registration we have with the Data Commissioner's office and collected lawfully in accordance to the Data Protection Act 1998. We will use your personal information for the following purposes:
 
-  * Processing your orders (Including incomplete or failed orders) and conducting business with you;
+  * Processing your orders (Including incomplete or failed orders) and conducting business with you; 
   * To administer this Website;
-  * For statistical, market research and customer satisfaction purposes to improve this Website and its services to you;
-  * If you have not objected during the registration process, to notify you of products or special offers that may be of interest to you;
-  * If you have not objected during the registration process, to disclose to other members within our group of companies and also to other relevant third parties, who may contact you about their products or services that may be of interest to you;
+  * For statistical, market research and customer satisfaction purposes to improve this Website and its services to you; 
+  * If you have not objected during the registration process, to notify you of products or special offers that may be of interest to you including the Upgrade Reminder Service
+  * If you have not objected during the registration process, to disclose to other members within our group of companies and also to other relevant third parties, who may contact you about their products or services that may be of interest to you; 
 
   
-Subject to your rights of objection, you agree that personal information may be disclosed to other businesses within our group of companies and to reputable third parties who will help process your order or whose products or services may be of interest to you. In addition, you do not object to us, our group companies or third parties contacting you for the purposes set out above, whether this be by fax, telephone, e-mail, SMS or other electronic means or in writing and you consent to this activity for the purposes of the Privacy and Electronic Communications (EC Directive) Regulations 2003. 
+Subject to your rights of objection, you agree that personal information may be disclosed to other businesses within our group of companies and to reputable third parties who will help process your order or whose products or services may be of interest to you. In addition, you do not object to us, our group companies or third parties contacting you for the purposes set out above, whether this be by fax, telephone, e-mail, SMS or other electronic means or in writing and you consent to this activity for the purposes of the Privacy and Electronic Communications (EC Directive) Regulations 2003\. 
 
 You should be aware that if the police requests us or any other regulatory authority investigating suspected illegal activities to provide your personal information, we are entitled to do so. 
 
 * If you have not objected during the registration process, but do not want us to:
 
-  * Contact you regarding products or services which may be of interest to you; or
+  * Contact you regarding products or services which may be of interest to you; or 
   * To transfer your data to group companies and third parties so that they can contact you about their products and services;
 
 **Then please write to us at:**
@@ -39,7 +39,7 @@ ST5 9QD
 and notify us accordingly. 
 
 
-* Subject to your rights of objection, you agree that personal information may be disclosed to other businesses within our group of companies and to reputable third parties who will help process your order. In addition, you do not object to us, our group companies or third parties contacting you for the purposes set out above, whether this be by fax, telephone, e-mail, SMS or in writing and you do not consider any of the above as being a breach of any of your rights under the Telecommunications (Data Protection and Privacy) Regulations 1999.
+* Subject to your rights of objection, you agree that personal information may be disclosed to other businesses within our group of companies and to reputable third parties who will help process your order. In addition, you do not object to us, our group companies or third parties contacting you for the purposes set out above, whether this be by fax, telephone, e-mail, SMS or in writing and you do not consider any of the above as being a breach of any of your rights under the Telecommunications (Data Protection and Privacy) Regulations 1999. 
 
 You should be aware that if the police requests us or any other regulatory authority investigating suspected illegal activities to provide your personal information, we are entitled to do so.
 
@@ -75,4 +75,6 @@ We use third-party advertising technology to serve our advertisements when you v
 
 * **Disabling Cookies:**
 
-If you do not wish to accept our Cookies or Web Beacons you can decline Cookies and/or Web Beacons and/or refuse access to previously stored information by using your web Browser. The facilities within your web Browser to allow you to do this will vary from Browser to Browser but they may be found in the “Privacy” or “Cookies” section of the “Properties” menu of your Browser. If you require assistance in disabling Cookies you should refer to the "help" menu within your Browser. Please note however, that you may not be able to use all of the interactive features of our Website if Cookies and/or Web Beacons are disabled.
+If you do not wish to accept our Cookies or Web Beacons you can decline Cookies and/or Web Beacons and/or refuse access to previously stored information by using your web Browser. The facilities within your web Browser to allow you to do this will vary from Browser to Browser but they may be found in the "Privacy" or "Cookies" section of the "Properties" menu of your Browser. If you require assistance in disabling Cookies you should refer to the "help" menu within your Browser. Please note however, that you may not be able to use all of the interactive features of our Website if Cookies and/or Web Beacons are disabled 
+
+ 
