@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the exchangeserverpro.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226152435id_/http%3A//exchangeserverpro.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exchangeserverpro.com privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610235723id_/http%3A//exchangeserverpro.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Exchange Server Pro
+# Privacy Policy
 
 This web site is owned and operated by LockLAN Systems Pty Ltd and will be referred to as “We”, “our” and “us” in this Internet Privacy Policy. By using this site, you agree to the Internet Privacy Policy of this web site (“the web site”), which is set out on this web site page. The Internet Privacy Policy relates to the collection and use of personal information you may supply to us through your conduct on the web site.
 
