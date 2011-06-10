@@ -1,10 +1,11 @@
-<!--The following is the downloaded HTML source of the weareteachers.com privacy policy that was archived on 2010-11-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101105000927id_/http%3A//www.weareteachers.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the weareteachers.com privacy policy that was archived on 2011-06-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110610155052id_/http%3A//www.weareteachers.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" dir="ltr"><head>
 <meta http-equiv="content-type" content="text/html; charset=utf-8">
 
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+<script type="text/javascript" src="/js/modernizr-1.7.min.js"></script>
 <script type="text/javascript">
 	jQuery.noConflict();
 </script>
@@ -14,7 +15,7 @@
   <meta name="keywords" content="We Are Teachers">
   <meta name="title" content="Privacy Policy">
   <meta name="author" content="WAT Admin">
-  <meta name="description" content="We Are Teachers">
+  <meta name="description" content="WeAreTeachers is a powerful online community for teachers with thousands of teacher-submitted teaching ideas, offering a unique forum for innovation and collaboration amongst educators.  WeAreTeachers combines the expertise of our member community, the resources and knowledge base of our partners and the momentum of social media to recognize and reward innovative teaching ideas.">
   <meta name="generator" content="Joomla! 1.5 - Open Source Content Management">
   <title>Privacy Policy</title>
   <link href="/templates/wat/favicon.ico" rel="shortcut icon" type="image/x-icon">
@@ -88,6 +89,17 @@ _gaq.push(['_trackPageview']);
       }
     } catch(err) {}
   }
+  function watCreateEventTag(eventId, actionType, category, points, link, attributes) {
+    try {
+      // if no attributes were sent, we'll send defaults with user info, when available.
+      if (!attributes) {
+	attributes="guest";      }
+      cmCreateConversionEventTag(eventId, actionType, category, points, attributes);
+      if (link) {
+	setTimeout('document.location = "' + link.href + '"', 100);
+      }
+    } catch(err) {}
+  }
 </script>
 <div id="container" class="container_16">
 	<div id="top" class="grid_16">
@@ -97,7 +109,7 @@ _gaq.push(['_trackPageview']);
 			</div>
 	<div id="top_nav">
 		<a class="arrow" href="/about/apply-for-grant" title="">Apply for a Grant</a>
-		<a class="arrow" href="/index.php?option=com_content&amp;view=article&amp;id=28&amp;Itemid=24" title="">Become a Partner</a>
+		<a class="arrow" href="/index.php?option=com_content&amp;view=article&amp;id=28&amp;Itemid=24" title="">Become a Business Partner</a>
 	</div>
 </div>
 
@@ -106,13 +118,19 @@ _gaq.push(['_trackPageview']);
 <span id="logo" class="grid_4 alpha"><a href="/" title="Home">We Are Teachers</a></span>
 
 <div id="nav" class="grid_12 omega">
-	<ul class="menu"><li class="parent active item2"><a href="/ideas"><span>Ideas</span></a></li><li class="parent item3"><a href="/community"><span>Community</span></a></li><li class="item4"><a href="/resources"><span>Resources</span></a></li><li class="parent item11"><a href="/partners"><span>Partners</span></a></li><li class="parent item5"><a href="/about"><span>About</span></a></li><li class="item31"><a href="/frontend-login"><span>Frontend Login</span></a></li><li class="parent item32"><a href="/register"><span>Register</span></a></li></ul>	
-<form action="index.php" method="post" class="search">
-	<div id="search">
-	<input name="searchword" id="mod_search_searchword" maxlength="20" class="inputbox" type="text" size="40" value="Search" onblur="if(this.value=='') this.value='Search';" onfocus="if(this.value=='Search') this.value='';"><input type="image" value="Search" class="button" src="/templates/wat/themes/core/images/search_bg_r.png">	<input type="hidden" name="option" value="com_search">
-	<input type="hidden" name="task" value="search">
-	<input type="hidden" name="Itemid" value="4">
-	</div>
+	<ul class="menu"><li class="parent item2"><a href="/ideas"><span>Ideas</span></a></li><li class="parent item3"><a href="/community"><span>Community</span></a></li><li class="item4"><a href="/resources"><span>Resources</span></a></li><li class="parent item11"><a href="/partners"><span>Partners</span></a></li><li class="parent item5"><a href="/about"><span>About</span></a></li><li class="item31"><a href="/frontend-login"><span>Frontend Login</span></a></li><li class="parent item32"><a href="/register"><span>Register</span></a></li><li class="parent item309"><a href="/education-directory"><span>Education Directory</span></a></li></ul>	
+<form action="/resources" method="post" class="search">
+<div id="search">
+
+<input name="q" id="mod_search_searchword" class="inputbox" maxlength="20" type="text" size="40" value="Search" onblur="if(this.value=='') this.value='Search';" onfocus="if(this.value=='Search') this.value='';">
+
+<input type="image" value="Search" class="button" src="/templates/wat/themes/core/images/search_bg_r.png">
+
+<input type="hidden" name="Itemid" value="125">
+<input type="hidden" name="option" value="com_watsearch">
+<input type="hidden" name="task" value="search">
+
+</div>
 </form>
 </div>
 
@@ -122,8 +140,7 @@ _gaq.push(['_trackPageview']);
 <a href="http://www.weareteachers.com/" class="pathway">Home</a> → Privacy Policy</span>
 </div><div class="clr"></div>		<div id="title_bar">
 		<div id="title"><h2 class="title">About Us</h2></div>
-		<div id="social"><a href="http://www.addthis.com/bookmark.php?v=250&amp;username=xa-4c51f1b6504de766" class="addthis_button_compact at300m"><span class="at300bs at15t_compact"></span>&nbsp;Share</a>
-<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=xa-4c51f1b6504de766"></script></div>		<div class="clr"></div>
+				<div class="clr"></div>
 	</div>
 		<div id="content">
 						<div id="left" class="grid_3 alpha">
@@ -132,7 +149,7 @@ _gaq.push(['_trackPageview']);
 <li> <span class="icon-16 summary-overview-icon-16"><a href="/about">Overview</a></span> </li>
 <li> <span class="icon-16 news-icon-16"><a href="http://community.weareteachers.com/t5/WeAreTeachers-News/bg-p/WeAreTeachersNews?wat_referer=AboutUs">News</a></span> </li>
 <li> <span class="icon-16 blog-pencil-icon-16"><a href="http://community.weareteachers.com/t5/WeAreTeachers/bg-p/WeAreTeachersBlog?wat_referer=AboutUs">Blogs</a></span> </li>
-<li> <span class="icon-16 podcast-microphone-icon-16"><a href="http://community.weareteachers.com/t5/tag/WATcast/tg-p/board-id/WeAreTeachersBlog?wat_referer=AboutUs">PodCast</a></span> </li>
+<li> <span class="icon-16 podcast-microphone-icon-16"><a href="http://community.weareteachers.com/t5/WATcasts-Podcasts/bg-p/WATcast?wat_referer=AboutUs">PodCast</a></span> </li>
 <li> <span class="icon-16 person-member-icon-16"><a href="/about/meet-sandy">The Team</a></span> </li>
 <li> <span class="icon-16 contact-us-envelope-icon-16"><a href="/contact-us">Contact Us</a></span> </li>
 <li> <span class="icon-16 faq-question-icon-16"><a target="_self" title="FAQ" href="/about/faq">FAQ</a></span> </li>
@@ -141,6 +158,8 @@ _gaq.push(['_trackPageview']);
 -->
 <li> <span class="icon-16 partner-halo-icon-16"><a target="_self" title="Achievement &amp; RTI - Partners" href="/about/partners">Partners</a></span></li>
 </ul>
+<a href="http://www.statesman.com/special/topics/2011_Statesman_Texas_Social_Med/" title="Read the Article" target="_blank"><img src="http://www.statesman.com/multimedia/archive/00772/2011-TSMA-Winner-Lo_772701a.jpg" alt="Winner of the 2011 Texas Social Media Award" border="0"></a>
+<p>&nbsp;</p>
 </div><div class="content-wrapper-2">
 <div class="rounded-160-middle content-wrapper-3 separator-gray">
 <div class="table">
@@ -184,30 +203,7 @@ _gaq.push(['_trackPageview']);
 <p>By using, accessing or registering on the Site, you agree (a) to  comply with the terms and conditions of this Privacy Policy, and (b)  that WeAreTeachers and any Teacher, Learner, or other user may process  (i.e., use, collect, etc.) your personal information as described in  this Privacy Policy or the Terms of Service. Personal information may be  processed by WeAreTeachers or the Teacher, Learner, or other user in  the country where it was collected as well as other countries (including  the United States) where laws regarding processing of personal  information may be less stringent.</p>
 <p>&nbsp;</p>
 <h3><strong>Children under Age 13 </strong></h3>
-<p>WeAreTeachers does not knowingly collect or solicit personal  information from anyone under the age of 13 or knowingly allow such  persons to register. If you are under 13, please do not attempt to  register for WeAreTeachers or send any information about yourself to us,  including your name, address, telephone number, or email address. No  one under age 13 may provide any personal information to or on  WeAreTeachers or use the Site in any way. In the event that we learn  that we have collected personal information from a child under age 13  without verification of parental consent, we will delete that  information as quickly as possible. If you believe that we might have  any information from or about a child under 13, please contact us at 
- <script language="JavaScript" type="text/javascript">
- <!--
- var prefix = 'm&#97;&#105;lt&#111;:';
- var suffix = '';
- var attribs = '';
- var path = 'hr' + 'ef' + '=';
- var addy35600 = 's&#117;pp&#111;rt' + '&#64;';
- addy35600 = addy35600 + 'w&#101;&#97;r&#101;t&#101;&#97;ch&#101;rs' + '&#46;' + 'c&#111;m';
- document.write( '<a ' + path + '\'' + prefix + addy35600 + suffix + '\'' + attribs + '>' );
- document.write( addy35600 );
- document.write( '<\/a>' );
- //-->
- </script><a href="mailto:support@weareteachers.com">support@weareteachers.com</a><script language="JavaScript" type="text/javascript">
- <!--
- document.write( '<span style=\'display: none;\'>' );
- //-->
- </script><span style="display: none;">This e-mail address is being protected from spambots. You need JavaScript enabled to view it
- <script language="JavaScript" type="text/javascript">
- <!--
- document.write( '</' );
- document.write( 'span>' );
- //-->
- </script></span>.</p>
+<p>WeAreTeachers does not knowingly collect or solicit personal  information from anyone under the age of 13 or knowingly allow such  persons to register. If you are under 13, please do not attempt to  register for WeAreTeachers or send any information about yourself to us,  including your name, address, telephone number, or email address. No  one under age 13 may provide any personal information to or on  WeAreTeachers or use the Site in any way. In the event that we learn  that we have collected personal information from a child under age 13  without verification of parental consent, we will delete that  information as quickly as possible. If you believe that we might have  any information from or about a child under 13, please contact us at <a href="mailto:support@weareteachers.com">support@weareteachers.com</a>.</p>
 <h3>Children between the Ages of 13 and 18</h3>
 <p>We recommend that minors over the age of 13 ask their parents for  permission before sending any information about themselves to anyone  over the Internet.</p>
 <h3><strong>Collection and Use of Information from Subscribers</strong></h3>
@@ -230,30 +226,7 @@ _gaq.push(['_trackPageview']);
 <p>To protect your WeAreTeachers login ID, please keep your password  secure.</p>
 <h3>Posting User Content on the Site</h3>
 <p>Once you are a member of WeAreTeachers, you are able to post User  Content on the Site, including to create a profile containing basic  information about yourself (your name, e-mail address, and other contact  information) as well as more detailed profile containing professional  and personal data about you. This may include past jobs, areas of  expertise, and individual "claims to fame". You can post photos, too!</p>
-<p>Once submitted, User Content will be made available to other users of  the Site. You may access, correct, update, and delete the information  in your User Content at any time by logging into the Site using your  login ID and password, and choosing Edit My Profile. User Content will  remain available to other users until you request that it be removed  from our active database. To do so, contact WeAreTeachers via email at 
- <script language="JavaScript" type="text/javascript">
- <!--
- var prefix = 'm&#97;&#105;lt&#111;:';
- var suffix = '';
- var attribs = '';
- var path = 'hr' + 'ef' + '=';
- var addy31537 = 's&#117;pp&#111;rt' + '&#64;';
- addy31537 = addy31537 + 'w&#101;&#97;r&#101;t&#101;&#97;ch&#101;rs' + '&#46;' + 'c&#111;m';
- document.write( '<a ' + path + '\'' + prefix + addy31537 + suffix + '\'' + attribs + '>' );
- document.write( addy31537 );
- document.write( '<\/a>' );
- //-->
- </script><a href="mailto:support@weareteachers.com">support@weareteachers.com</a><script language="JavaScript" type="text/javascript">
- <!--
- document.write( '<span style=\'display: none;\'>' );
- //-->
- </script><span style="display: none;">This e-mail address is being protected from spambots. You need JavaScript enabled to view it
- <script language="JavaScript" type="text/javascript">
- <!--
- document.write( '</' );
- document.write( 'span>' );
- //-->
- </script></span> or cancel your WeAreTeachers membership in which case the Content will  be made unavailable through the Service. WeAreTeachers will try to  execute changes to the User Content available on the Site promptly  typically within two business days.</p>
+<p>Once submitted, User Content will be made available to other users of  the Site. You may access, correct, update, and delete the information  in your User Content at any time by logging into the Site using your  login ID and password, and choosing Edit My Profile. User Content will  remain available to other users until you request that it be removed  from our active database. To do so, contact WeAreTeachers via email at <a href="mailto:support@weareteachers.com">support@weareteachers.com</a> or cancel your WeAreTeachers membership in which case the Content will  be made unavailable through the Service. WeAreTeachers will try to  execute changes to the User Content available on the Site promptly  typically within two business days.</p>
 <h3>Sharing User Content</h3>
 <p>Your first and last names are displayed throughout the Site and are  therefore available to the public. Other people can see User Content you  make available, the services you offer, your online journal, feedback  that is posted, ratings and associated comments, and so on in addition  to your profile. Therefore, if you include your registration information  or any other personal information in User Content that you post to the  Site or sell using the Service, that information may be widely available  to other users since WeAreTeachers does not delete or redact  registration or other information from Content you provide.  WeAreTeachers does not control that disclosure, and is not liable in any  way for anyone's use or misuse of the information in the disclosure. So  be careful about the information you choose to disclose if you do not  want your personal information to be displayed as part of your User  Content, don't include it in the Content! In other words, use caution  and judgment here.</p>
 <p>And remember: you may not include personal information about other  people in User Content. You also may not use personal information about  other users of WeAreTeachers in a way that is inconsistent with  WeAreTeachers' Privacy Policy. If you do, you will have violated the  terms of this Agreement, and WeAreTeachers may terminate your  membership. WeAreTeachers is not liable for any damage that may be  incurred due to use of registration or other personal information that  was made available as part of User Content.</p>
@@ -328,18 +301,21 @@ _gaq.push(['_trackPageview']);
 				<div class="clr"></div>
 	</div>
 	<hr class="grid_16">
-<div id="footer1" class="grid_6"><ul class="menu"><li class="item6"><a href="/terms-of-use"><span>Terms of Use</span></a></li><li class="item7"><a href="/privacy-policy"><span>Privacy Policy</span></a></li><li class="item8"><a href="/contact-us"><span>Contact Us</span></a></li><li class="item19"><a href="/sitemap"><span>Sitemap</span></a></li></ul></div><div id="footer2" class="grid_6"><div>Copyright © 2010. All rights reserved.</div>
-<div><a href="http://www.weareteachers.com/about/contact-support" title="Contact Support">Contact Support</a></div>
-<div>8015 Shoal Creek Blvd., Suite 100, Austin, TX 78757</div></div><div id="footer3" class="grid_6 omega"><table id="social-media"> 
-    <tbody><tr> 
-    	<td><a href="http://www.teachertube.com/" title="" target="_blank"><img src="/images/icons/fullcolor/32/social_teachtube.png"></a></td> 
-        <td><a href="http://www.youtube.com/user/weareteachers" title="" target="_blank"><img src="/images/icons/fullcolor/32/social_youtube.png"></a></td> 
-        <td><a href="http://twitter.com/weareteachers" title="" target="_blank"><img src="/images/icons/fullcolor/32/social_twitter.png"></a></td> 
-        <td><a href="http://www.facebook.com/WeAreTeachers?ref=ts" title="" target="_blank"><img src="/images/icons/fullcolor/32/social_facebook.png"></a></td> 
-        <td><a href="http://www.flickr.com/photos/weareteachers" title="" target="_blank"><img src="/images/icons/fullcolor/32/social_flickr.png"></a></td> 
-        <td><a href="http://weareteachers.ning.com/" title="" target="_blank"><img src="/images/icons/fullcolor/32/social_ning.png"></a></td> 
-    </tr> 
-</tbody></table></div><div class="clr"></div>
+<div id="footer1" class="grid_6"><ul class="menu"><li class="item6"><a href="/terms-of-use"><span>Terms of Use</span></a></li><li class="item7"><a href="/privacy-policy"><span>Privacy Policy</span></a></li><li class="item8"><a href="/contact-us"><span>Contact Us</span></a></li><li class="item19"><a href="/sitemap"><span>Sitemap</span></a></li></ul></div><div id="footer2" class="grid_6"><div>Copyright © 2011. All rights reserved.</div>
+<div><a href="/about/contact-support" title="Contact Support">Contact Support</a></div>
+<div>8015 Shoal Creek Blvd., Suite 100, Austin, TX 78757</div></div><div id="footer3" class="grid_6 omega"><table id="social-media">
+<tbody>
+<tr>
+<td></td>
+<td><a href="http://www.youtube.com/user/weareteachers" target="_blank"><img src="/images/icons/fullcolor/32/social_youtube.png"></a></td>
+<td><a href="http://twitter.com/weareteachers" target="_blank"><img src="/images/icons/fullcolor/32/social_twitter.png"></a></td>
+<td><a href="http://www.facebook.com/WeAreTeachers?ref=ts" target="_blank"><img src="/images/icons/fullcolor/32/social_facebook.png"></a></td>
+<td><a href="http://www.flickr.com/photos/weareteachers" target="_blank"><img src="/images/icons/fullcolor/32/social_flickr.png"></a></td>
+</tr>
+</tbody>
+</table></div><script type="text/javascript" language="javascript" src="/mg_3.0/js/charcount.js"></script>
+<script src="/mg_3.0/js/mg_apply/placeholder.js" type="text/javascript"></script>
+<div class="clr"></div>
 
 
 </div> <!-- End #container -->
