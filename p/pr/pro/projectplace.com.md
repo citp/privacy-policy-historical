@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the projectplace.com privacy policy that was archived on 2010-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101208234916id_/http%3A//www.projectplace.com/terms/privacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the projectplace.com privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610120444id_/http%3A//www.projectplace.com/terms/privacystatement) for the most accurate reproduction.*
 
-# Online project management & collaboration - software as a service
+# Projectplace - No. 1 in Europe for project collaboration on the Web
 
 Projectplace International AB (hereinafter referred to as "Projectplace") has created this Privacy Statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices.
 
