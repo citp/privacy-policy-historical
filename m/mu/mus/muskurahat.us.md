@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the muskurahat.us privacy policy that was archived on 2010-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100120153839id_/http%3A//www.muskurahat.us/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the muskurahat.us privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610083757id_/http%3A//www.muskurahat.us/privacy-policy.asp) for the most accurate reproduction.*
 
 # Our Privacy Policy - Muskurahat.com
 
@@ -20,4 +20,12 @@ We also use third party advertisements on our siteto support our site.  Some of
 
 You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security.  However, this can affect how you are able to interact with our site as well as other websites.  This could include the inability to login to services or programs, such as logging into forums or accounts.
 
-**Last Updated: _14 March 2009_**
+We also partner with ValueClick to serve ads and/or collect certain information when  
+you visit our website. ValueClick may use cookies or web beacons to collect  
+non-personally identifiable information during your visit to this website in order  
+to help show advertisements on other websites likely to be more interesting to  
+you. To learn more about this "behavioral advertising" practice or to opt-out of  
+this use of your anonymous information, you can visit  
+[http://www.valueclickmedia.com/member_privacy.shtml ](http://www.valueclickmedia.com/member_privacy.shtml)
+
+**Last Updated: _01 June 2011_**
