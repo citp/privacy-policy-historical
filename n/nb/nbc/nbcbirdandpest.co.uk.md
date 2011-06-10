@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nbcbirdandpest.co.uk privacy policy that was archived on 2010-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101207145747id_/http%3A//www.nbcbirdandpest.co.uk/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nbcbirdandpest.co.uk privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611004411id_/http%3A//www.nbcbirdandpest.co.uk/privacy.cfm) for the most accurate reproduction.*
 
-# Bird Control and Pest Control Experts NBC Privacy Policy - for your safety
+# Privacy Policy - for your safety - Bird & Pest Control Experts
 
 NBC BIRD AND PEST SOLUTIONS LTD WEBSITE PRIVACY POLICY
 
@@ -15,8 +15,8 @@ We are committed to protecting your privacy. We will only use the personal infor
 ### 2\. Your consent and acknowledgement
 
   1. Unless you have expressly indicated otherwise your use of the Site constitutes your consent to our collection use sharing and transfer of your personal information under the terms of this privacy policy; and
-  2. You acknowledge and agree that our [Website Terms of Use](https://web.archive.org/web/20101207145747id_/http%3A//www.nbcbirdandpest.co.uk/terms-of-use.cfm) apply to this privacy policy as if reproduced here in full;
-  3. IF YOU DO NOT AGREE TO THE TERMS OF OUR PRIVACY POLICY OR OUR [Website Terms of Use](https://web.archive.org/web/20101207145747id_/http%3A//www.nbcbirdandpest.co.uk/terms-of-use.cfm) YOU MAY NOT USE OUR SITE.
+  2. You acknowledge and agree that our [Website Terms of Use](https://web.archive.org/terms-of-use.cfm) apply to this privacy policy as if reproduced here in full;
+  3. IF YOU DO NOT AGREE TO THE TERMS OF OUR PRIVACY POLICY OR OUR [Website Terms of Use](https://web.archive.org/terms-of-use.cfm) YOU MAY NOT USE OUR SITE.
 
 
 
@@ -67,7 +67,7 @@ Of course if we need your further specific and express consent to do this, we wi
 
 In all cases, any use of your personal information by the NBC Network which has been instigated by us will comply with this privacy policy.
 
-You acknowledge that we reserve the right to use or disclose any personal information as needed to satisfy any law regulation or otherwise or legal request to protect and defend the integrity of the Site (including to enforce our [Website Terms of Use](https://web.archive.org/web/20101207145747id_/http%3A//www.nbcbirdandpest.co.uk/terms-of-use.cfm) or this privacy policy) and you agree to fulfil our requests and/or to cooperate in any law enforcement or regulatory investigation.
+You acknowledge that we reserve the right to use or disclose any personal information as needed to satisfy any law regulation or otherwise or legal request to protect and defend the integrity of the Site (including to enforce our [Website Terms of Use](https://web.archive.org/terms-of-use.cfm) or this privacy policy) and you agree to fulfil our requests and/or to cooperate in any law enforcement or regulatory investigation.
 
 Save for that stated above we do not transfer share or disclose personal information we have collected from you in connection with our on or off-line activities to third parties outside the NBC Network.
 
@@ -111,12 +111,12 @@ Where you have the option to subscribe to various email services or unsubscribe 
 
 If you inform us that you no longer wish us to contact you for any one or all of the reasons stated above in this clause 4(a) to (d) inclusive then we will cease contacting you although you acknowledge that this may prevent us from providing the products and/or services to you or inhibit the quality of service provided to you.
 
-### 12\. Questions or complaints: [contact us](https://web.archive.org/web/20101207145747id_/http%3A//www.nbcbirdandpest.co.uk/contact.cfm)
+### 12\. Questions or complaints: [contact us](https://web.archive.org/contact.cfm)
 
 We reiterate that by submitting your personal information to us you consent to our (including our business partners' within the NBC Network) use of that personal information as set out in this privacy policy. If you have any questions concerns or comments about this privacy policy and/or our collection use or the accuracy of your personal information or if you wish to see any of the personal information we hold on you or if you wish us to stop processing your personal information for any particular purpose or purposes then please contact us by [enquiries@nbcbirdandpest.co.uk](mailto:enquiries@nbcbirdandpest.co.uk) or by writing to The Data Compliance Officer NBC Bird and Pest Solutions Limited (Registered Company No. 3475126) of Abbotsgate House, Hollow Road, Bury St Edmunds, Suffolk, IP32 7FA (Registered Office Address)
 
 © 2007 2010 Limited. NBC Bird and Pest Solutions Limited. All rights reserved.
 
-[Website Terms of Use](https://web.archive.org/web/20101207145747id_/http%3A//www.nbcbirdandpest.co.uk/terms-of-use.cfm)
+[Website Terms of Use](https://web.archive.org/terms-of-use.cfm)
 
 Go back to top of Page
