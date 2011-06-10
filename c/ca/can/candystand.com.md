@@ -1,80 +1,71 @@
-> *The following text is extracted and transformed from the candystand.com privacy policy that was archived on 2004-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040615223032id_/http%3A//www.kraftapps.com/legal/privacy.asp%3Freferrer%3DCandystand) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the candystand.com privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610154043id_/http%3A//www.candystand.com/about-us/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Candystand.com Privacy Policy
 
-|  |  |  |   |  |    
----|---|---|---  
-   
-  
-**Nabisco Online Privacy Policy**  
-This Policy relates only to our online information collection and use practices. At Nabisco we recognize that many consumers who visit our web sites are concerned about any information they provide us on-line, and how we maintain and use this information. To address these concerns and to demonstrate our commitment to privacy, especially for children who visit our sites, we have developed and implemented this Privacy Policy for our domestic (i.e., U.S.) company. This Policy relates only to our online information collection and use practices. As this policy may change from time to time, we encourage you to periodically check it. 
+We value the trust you place in us and we are committed to safeguarding your privacy. Candystand.com ("Candystand" or the "Site") is operated by Funtank LLC ("we", "us" or "Funtank") and is designed to be a fun and entertaining free computer gaming site.
 
-In short, we do the following: 
+This Privacy Policy is designed to inform you about the information we collect and use and your options with regard to that collection and use at Candystand.com (the "Site"). By use of this Site, communications to or with us or use of any of our services, you are agreeing to these terms. If you do not agree with any of these terms or our [Terms of Service](https://web.archive.org/about-us/terms-of-use), please exit our site and do not submit information to us in any way.
 
-  * We only collect personally identifiable information that you **voluntarily** and **knowingly** provide us Tell me more;
-  * We use the information that you provide us **only** for the purpose(s) for which you specifically provided it or for specific additional purposes for which we receive your prior consent Tell me more;
-  * We do not **share** any information you provide us with anyone outside of Nabisco and its parent company, Kraft Foods Global, Inc., except for suppliers who assist us in maintaining and managing the activities on our sites. These suppliers are legally obligated to maintain the confidentiality of any information we provide them, including your information Tell me more;
-  * For our sites that appeal to **children under 13** , we follow the collection and parental notification requirements of the Children’s On-Line Privacy Protection Act Tell me more;
-  * We may use a technology called **“cookies”** to enhance your experience on our sites Tell me more;
-  * We employ **appropriate security measures** to protect the loss, misuse and alteration of any information you provide us Tell me more; and
-  * We provide you with **choice** and **control** over the collection and use of any personally identifiable information that you provide us on-line, and a means for **updating** , **correcting** or **removing** this information Tell me more;
+**What Information Do We Collect About Our Users and How Do We Use It?**
 
-What follows is a more detailed explanation of our policy in each of these areas. ******Information We Collect and How We Use It**  
----  
-**_General_**  
-We only collect personally identifiable information on a voluntary basis. We do not require that you provide this information to gain access to our sites, and we do not require you to disclose more information than is reasonably needed to participate in an activity on our sites. We collect personally identifiable information primarily to e-mail updates and news, for entry into promotions and to notify subsequent winners, to send out brochures, etc. via regular mail to subscribers, and to respond to your questions or suggestions. We do not sell any information we gather at our web sites to anyone outside of Nabisco and its parent company, Kraft Foods Global, Inc.. We do not transfer or disclose any information we gather at our web sites to anyone outside of Nabisco and its parent company, Kraft Foods Global, Inc., without your prior consent, except (1) in cases where we believe in good faith that we have a legal obligation to disclose such information, and (2) to certain suppliers that assist Nabisco in maintaining and managing the activities on its web sites, including, for example, fulfillment of prizes awarded in connection with an online game. Please be assured that these suppliers are legally obligated to maintain the confidentiality of this information and do not acquire any rights to use your information for their own benefit. We may share non-identifiable aggregate information about our users (for example, the % of male and female visitors to our sites) with advertisers, business partners, sponsors, and other third parties in an effort to customize or enhance the content and advertising on our sites for our users. 
+There are two ways information is collected by us: 1. you voluntarily submit it to us during the registration process by completing a form on our site or by communicating with us and providing that information as part of the communication; or 2. we collect it from all our site users electronically to track how the site is used, where our users come from and their preferences.
 
-We do reserve the right, in connection with the potential sale or transfer of the interests of Nabisco and its subsidiaries and affiliates, to sell or transfer your information (including but not limited to your address, name, age, gender, zip code, state, and country of residency and other information that your provide through other communications) to a third party entity that (1) concentrates its business in a similar practice or service, (2) agrees to be Nabisco’s successor in interest with regard to the maintenance and protection of the information collected, and (3) agrees to the obligations of this privacy policy.
+During our registration process we collect your e-mail address, your login and password only. We also may collect and store information you provide to us in inquiries, reporting forms and customer service communications with us. If you submit information to us to register for a special offer, contest or for access to select or premium services, that information is collected and stored as well. You may submit information to us offline, as well, through special offers or offline registration processes. (Only registered users may enter contests, sweepstakes or participate in any other promotion on the website). All of this information is governed by this Privacy Policy, unless it is indicated otherwise at the time the information is collected or submitted. If special terms are indicated, then those terms, not these, would apply.
 
-**_Polls& Surveys_**  
-We periodically conduct polls and surveys on our sites. The information we collect from these polls and surveys is only for Nabisco’s use. If sample answers to polls or surveys are posted on one of our web sites, no identifiable information is included.
+This information is not shared with third parties (except those working with us to maintain or operate the Site, handle your financial transactions, provide certain customer services, maintain or improve our site integrity and security, maintain the users', public's or Site's safety, address risks or comply with applicable law, as more fully described below.) We may use it to send you messages we believe to be of interest or about the Site itself, from time to time if you opt-in for such messages upon registration.
 
-**_Promotions_**  
-Our sites frequently include notices for contests and sweepstakes that we are conducting. For those contests and sweepstakes where we permit you to enter electronically, we will use the information that you provide us only for the purposes of conducting the promotion (e.g., to contact you if you are a winner). We do not share this information with anyone outside of Nabisco except for suppliers who assist us in conducting the promotion and who are legally obligated to maintain the confidentiality of any information we provide them. Once the promotion has ended, the information you provide us is deleted after a reasonable period of time.  
-  
-**Children and Privacy**  
-In communicating directly with children over the Internet, we recognize the unique issues raised about the protection of their privacy. Our web sites that appeal to children, such as [www.candystand.com](http://www.candystand.com/) and [www.NabiscoWorld.com](http://www.nabiscoworld.com/), are designed to comply with the requirements of the Children’s Online Privacy Protection Act (COPPA) and Children's Advertising Review Unit (CARU) guidelines for web sites gathering personally identifiable information from children under 13\. Consistent with these requirements and guidelines, we do NOT: 
+Except as set forth herein, we do not collect any personally identifiable information or contact information about our users. We do not knowingly permit users from outside of the US or Canada, or North American users under the age of 13 to register for this Site or participate in any contests nor do we knowingly collect any personally identifiable information or contact information about or communicate with any user we believe to be from outside of North America or under the age of 13 from North America.
 
-  * collect,use or disclose on-line contact information from children except in connection with on-line promotions,discussed more fully below. Without prior parental consent, such on-line contact information will only be used to respond directly to the child's request and will not be used for other purposes;
-  * collect personally identifiable off-line contact information unless for purposes of awarding prizes and only then with prior parental consent;
-  * distribute to third parties any personally identifiable information;
-  * enable children to publicly post or otherwise distribute personally identifiable contact information without prior parental consent; or
-  * entice children by the prospect of a special game, prize or other activity, to divulge more information than is needed to participate in the activity.
+**Purchases:** When you purchase goods or services from us or through one of our vendors using our site, we collect information to enable that purchase. This includes shipping, payment, delivery confirmation and any customer service issues. In some cases, you may purchases a subscription to premium accounts at other websites from a screen accessed from our Site. That information is collected by that other website, and not by us, and their privacy policies (not ours) apply to that interaction.
 
-  
-We do offer promotions (e.g., contests, sweepstakes) on our web sites that appeal to children. In those cases where children under the age of 13 are allowed to participate, the child is instructed to first obtain his/her parent’s or legal guardian’s consent to participate and to enter the email address of his/her parent or guardian. If the game or contest involves the posting of screen names of the high scorers, we only allow high scorers who are under 13 to select a generic screen name from a list that has been developed in advance so as to prevent the disclosure of any personally identifiable information. If a child under 13 is selected as a prize-winner, an e-mail is sent to the parent or guardian. This e-mail contains a form that requests the child’s complete name and address and a parental permission form. For the child to receive the prize, the parent or guardian must first fill out and sign the form and then mail or fax it to the address or number indicated on the form. We do not use the information collected on the form for any purpose other than the completion of the promotion, and we do not share the information with anyone outside of Nabisco (other than suppliers, as explained above). We delete both the child’s and the parent’s personally identifiable information from our databases after a reasonable period of time once the promotion has ended.
+**Registered Users:** We collect, track and maintain information about your account and about all communications with us, including reports of abuse received from you or about you, as well as the resolution of those reports.
 
-We may permit a child to send us an e-mail or send an e-mail to a friend through our sites. We will respond to or deliver the e-mail, as the case may be, but we do not store the names, addresses, or the e-mails in our operational database, nor do we share this information with any third parties.
+**Information Provided to Us By Third Parties:** We may acquire (but will not share) demographic information from third-parties online or offline to better direct services and offers to you or may acquire referral e-mail and other contact information from you other others recommending our site or other services. We will use that contact information only to forward an invitation or provide the information for which the referral was made.
 
-As a parent, you can always ask to review any personal information about your child that we may have collected at one of our sites, have us delete this information (if we still have the information in our databases), and/or instruct us not to collect or use your child’s information in the future. If you are a parent and wish to exercise this right, simply [Contact Us](http://www.kraftapps.com/contact_us/contact_us_form.asp?referrer=Candystand).  
-  
-**Cookies**  
-Like many companies, we may use a technology called “cookies” to enhance your experience on our sites. The cookies Nabisco uses do not contain any personally identifiable information and can not profile your system or collect information from your hard drive. You are not identified by name or e-mail address, just by a unique string of numbers that we assign the first time you come to our site.  
-**Security**  
-We employ appropriate security measures to protect the loss, misuse and alteration of the information under our control. For our nabiscogifts.com site, we employ Secure Sockets Layer (SSL) software, which encrypts information you input, as an additional security measure. However, as no on-line data transmission can be guaranteed to be totally secure, we (like all web sites) cannot warrant or guarantee 100% security of any information you transmit to us at our web sites.   
-******Choice and Control**  
-**_Choice/Opt-In_**  
-Our sites provide you the opportunity to opt-in to receive communications from us, as described at each opt-in opportunity. Further, when you receive the requested communication, you are given the opportunity to unsubscribe from receiving any future communications or to change your information.
+In addition to information you voluntarily provide to us through forms, communications and interactions with our staff, we collect certain data automatically when you access the Site. We collect this using cookies and other web-tracking technologies and use this to learn about how our Site is used and how to improve the user experience.
 
-**_Control_**  
-You can always ask to review any personal information that we may have collected from you at one of our web sites, have us update, correct or delete this information (if we still have the information in our databases), and/or instruct us not to use this information in the future. If you wish to exercise this right, simply [Contact Us](http://www.kraftapps.com/contact_us/contact_us_form.asp?referrer=Candystand).
+We may also collect information about our users for each Site interaction and visit, including your IP address, your browser and available software and hardware information, whether you were referred to our Site by a search engine (including the search terms used to find us) or link from another Site or offline resource (such as a DVD or CD). This is used to improve our Site and messaging efficiency, learn more about where our users come from and understand how our users use and ways to improve our Site.
 
-**_Links To Other Sites_**  
-We do our best to make sure that every link on our web sites sends you and/or your child to a safe place on the Internet. However, web sites and addresses change quickly, and we can't always guarantee the content of every site for which we provide a link.  
-  
-**How To Contact Us**  
-  
-If you have any questions or concerns about our Privacy Policy or your dealings with this web site, you can contact us at: 
+We accept advertisements from third party advertisers. These advertisers are carefully selected to provide information about products and services that we think may be of interest to our users. Note that if you click on any of these advertisements, these advertisers may use cookies and other web-tracking technologies to collect this non-personal information about you. They will not have any personal information identifying you or linking you to your account unless you directly provide it to them. We recommend that you review the terms of use and privacy policy for any advertiser with which you are interacting before doing so. Their privacy policy, not ours, will apply to any of those interactions.
 
-Kraft Foods Global,Inc.  
-1 Kraft Court  
-Glenview, IL 60025  
-Attention: Legal Department
+We link to outside websites and services, from time to time. While we try to select appropriate sites, note that we are not responsible for the practices, content or the privacy policies employed by third party sites. Please review those before interacting with those sites.
 
-1-800-543-5335 (9 a.m. to 5 p.m. Eastern Time, Monday through Friday) 
+We collect additional information from you when you send us an email, submit a form or otherwise request information from us as well as when you repot abuses or problems at the Site. We use this information for the purpose for which it was provided and also may track the user abuse reports, including the accuracy or inaccuracy of any abuse reports and may use this to help us determine the users who can help us identify problems or provide help in moderating and self-policing our Site. This information may also be used in identifying users that violate our terms of service or are disruptive at the Site.
 
-or [Contact Us](http://www.kraftapps.com/contact_us/contact_us_form.asp?referrer=Candystand).
+If you apply for a contest or to participate in a special promotion or event that is sponsored by a third-party or co-sponsored with us by a third-party, your information may be shared with that third-party to enable your participation in the contest, promotion or event. If so, it will only be used for that purpose, unless expressly noted otherwise at the time you apply for participation. If the contest, promotion or event involves a third-party site, you should refer to the third-party's privacy policy for information about their practices.
 
-**ENJOY THE Nabisco WEB SITES!**
+**Sharing Your Information:**
 
-Last Revised: April 9, 2004 
+We do not sell or license your personally identifiable customer information to third parties without your consent, except as disclosed herein and if we enter into a merger, acquisition or sale of all or a portion of our assets, or transfer the Site or services provided therewith to any third-party, your information will be shared and transferred as part of that transaction.
+
+We share personally identifiable information about our users (to the extent we have such information) only with those involved in providing services, functions or professional advice to Funtank or as outlined below. We use vendors to provide certain services or functions necessary to operate our Site and offer and deliver products and services to you. We share information with those third-parties and vendors to the extent necessary for them to perform their function on our behalf. All of these third-parties must agree to protect the privacy and security of our users and not to use information they receive during the course of their duties for any purpose other than for which it was provided.
+
+We may also disclose your personally identifiable information as required or permitted by law, or as we believe may be necessary (as determined in our sole and absolute discretion) to protect the integrity of our Site, Funtank or its affiliates, or the safety, privacy and well-being of our users, ourselves and third-party providers or members of the public including the use of and providing information to third-parties:
+
+  * To comply with valid legal process including subpoenas, court orders or search warrants.
+  * To respond to official inquiries of governmental authorities.
+  * In cases involving risks to any person or other emergencies, terms of service violations, and to evaluate and defend against legal claims in any forum.
+  * To outside auditors, legal professionals, security consultants and regulators.
+  * To prevent or manage what we, in our sole and absolute discretion, believe to be the unlawful or abusive use of our services or the Site or anticipated harm to our users, the public, Candystand.com or Funtank.
+
+
+
+**The Security of Your Information:**
+
+We have systems in place to enforce the terms of this Privacy Policy and secure your data. But, no matter how careful we are, no system is 100% secure and we cannot guarantee that there will be no unauthorized use or access of your personal information. If we become aware of any information breach that may affect you, we will notify you promptly following our discovery thereof. Should you suspect that there is a security breach or someone is attempting to circumvent our security system, please [contact us](https://web.archive.org/about-us).
+
+**Preteen Users:**
+
+Keeping children safe online is important to all of us. At this time we believe that it is best to restrict access to our registered member area to users 13 and older. So, our terms of service restricts users under the age of thirteen from registering for the Site, participating in any contests at the Site or from submitting personal information to us.
+
+If we believe an email has been sent to us from a child under the age of 13, that information is not stored and is used to reply to the child on a one-time basis only. Once the email has been replied to, their email address will be deleted from our records. If we discover a child under the age of 13 has falsified their age and registered for the site, we will cease collecting any further information on that child. Additionally, all data that has been stored in our system about the child will be removed, and the child's registration will be revoked.
+
+Even without registration, though, the Site contains lots of free and entertaining content which may be of interest to preteen viewers and is accessible without registration or having to provide any information.
+
+We also work closely with [WiredSafety.org](http://www.wiredsafety.org/), the world's largest and oldest cybersafety organization. WiredSafety provides cybersafety content to us and we recommend that if you have questions or need help with cybersafety issues, you visit and support [their site](http://www.wiredsafety.org/).
+
+**Changes To and Questions About This Policy:**
+
+We reserve the right to change this Privacy Policy from time to time. Before using this Site, recheck this page and review the "effective date" posted on the top of the Privacy Policy in effect at that time. If it has recently changed, make sure you review it and still agree with its terms. It will apply to any interactions you have at the Site and information you provide to us or at this Site. Your continued use of the Site or our services, or communications with us will evidence your agreement to the terms thereof.
+
+If you have questions or comments about this privacy policy, please [contact us](https://web.archive.org/about-us). But note that whether or not you have questions or comments, use of our site indicates your agreement to the terms hereof as written.
