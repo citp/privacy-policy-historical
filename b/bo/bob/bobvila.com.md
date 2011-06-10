@@ -1,91 +1,121 @@
-> *The following text is extracted and transformed from the bobvila.com privacy policy that was archived on 2010-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100429174612id_/http%3A//www.bobvila.com/Global/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bobvila.com privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610155415id_/http%3A//bobvila.com/static/privacy-policy) for the most accurate reproduction.*
 
-# BobVila.com Privacy Statement
+# Bob Vila : Privacy Policy BobVila.com
+
+Welcome to BobVilaOnline.com (the “Site”), which is owned and operated by B.V.T.V., Inc. (the “Company”, “we” or “us").  We are strongly committed to protecting the privacy of your personal information.
+
+This privacy policy (the “Policy”) is intended to help you understand the kinds of information we may gather about you when you visit the Site or use any of its features, how we may use and disclose the information, and how you can control, correct and/or update the information. 
+
+In this Policy, when we use the phrase “Personal Information”, we mean information about you that is personally identifiable, like your name, address, email address, or phone number, as well as other non-public information that is associated with this personal information.  The phrase “Anonymous Information”, as used in this Policy, means information that is not associated with or linked to your Personal Information. Anonymous Information does not enable us to identify or contact you or other individuals or persons. 
+
+By visiting this Site, you are accepting the policies and practices described in this Policy.  Each time you visit the Site, you expressly consent to our collection, use and disclosure of the information that you provide as described in this Policy. 
+
+Your Personal Information may be processed by us in the United States where laws regarding processing of Personal Information may be less stringent than the laws in your country. 
+
+**The Information We Gather**
+
+We collect information about you in three ways: 
+
+**Information You Voluntarily Provide Us.** We collect and maintain information that you voluntarily submit to us during your use of the Site. For example:
+
+  * when you register for any features of the Site (for example, to use the bulletin boards), you may provide us certain information including your name, email address, screen name, password, demographic information, and certain items of interest that we inquire about at the time of registration; 
+  * if you sign up to receive a Site newsletter, we may require that you provide us contact information (e.g., email or physical address); and
+  * you may provide us with personal information in the course of email, customer support interactions, surveys, bulletin boards, forums, and comment areas on site content. 
+
+
+
+You can choose not to provide us with certain information, but this may stop you from using certain features of the Site.  
+
+ **Information We Collect through Your Use of the Site.  **  As you use the Site, certain information may also be passively collected.  Through technologies like cookies, pixels, beacons and log files, we may collect information about how you use the Site which we may use to deliver more useful content and information to you.  Please see the Cookies, Web Beacons and Log Information section below for more information. 
+
+**Information We May Receive from Third Parties**.   In addition to the information that you provide or we collect on the Site, we may verify or collect certain information about you from third parties.  For example, we may use your email address to determine your street address or we may use your street address to obtain demographic information about you or the 9-digit ZIP code (ZIP+4) in which you live.  This information may include household income, presence and age(s) of children, and other census data.  We may combine this third-party information with the information we have already collected from you via our Site.  We protect and use this third-party information in the same way that we treat other information – in conformance with this privacy policy. 
+
+**How We Use Your Information**
+
+We will use your Personal Information in the ways described below or described at the time that the information is collected. 
+
+  **Provided to the Site.**    In general, we use your Personal Information as necessary or appropriate to:
+
+  * administer your account;
+  * register you;
+  * respond to your inquiries or requests that you direct to us;
+  * send communications and administrative emails about the Site;
+  * personalize and better tailor the features, performance, and support of the Site for your use;
+  * send you promotional/marketing information, newsletters, offers, or other information regarding opportunities and functionality that we think would be of particular interest to you (provided that we will not give your Personal Information to any third-party partner, other than those that assist us with administering or operating the Site, without your consent);
+  * improve the quality of the Site; and
+  * analyze, benchmark, and conduct research on user data and user interactions with the Site. 
+
+
+
+**Cookies, Web Beacons and Log Information.**   We use cookies, web beacons, log information and IP addresses in the ways described above and below. 
+
+  * “Cookies” are small pieces of information that a website attaches to your browser when you visit a website. We may use both session Cookies (which expire once you close your web browser) and persistent Cookies (which stay on your computer until deleted) to provide you with a more personal and interactive experience with the Site.  We do not store Personal Information in any Cookies on your computer.  Persistent Cookies can be removed by following your Internet browser’s directions within the help tab.  In order to use certain aspects of the Site, your web browser must accept Cookies.  If you choose to disable Cookies, some aspects of the Site may not work properly.  
+  * We may also use Cookies, pixels, “Web Beacons” (which are usually small, transparent graphic images) and navigational data like Uniform Resource Locators (URLs) to gather information regarding the date and time of your visit, the features and information for which you searched and viewed, or the email you opened.  This type of information is collected to make the Site and Services more useful to you and to tailor the experience with us to meet your special interests and needs.
+  * An “Internet protocol address” or “IP Address” is a number that is automatically assigned to your computer when you use the Internet. We, or our service providers, may track your IP Address when you access the Site.
+
+
+
+**How We Disclose Information to Third Parties**
+
+We realize how important it is to keep your Personal Information confidential.  We will not rent, sell, or share your Personal Information with third parties except as specifically approved or under the circumstances described below.  If you object to our use or disclosure of Personal Information collected about you in the ways identified in this Policy, you should not use the Site. 
+
+**Disclosure for Legal Reasons**.  We may disclose your Personal Information to third parties: (a) to comply with valid legal requirements such as a law, regulation, search warrant, subpoena, or court order; or (b) in certain instances, such as a physical threat to you or others, a threat to homeland security, a threat to our system, or cases in which we believe it is necessary to investigate or prevent harm, fraud, abuse, illegal conduct, or a possible violation of this Policy or the Terms of Use. 
+
+**Agents and Contractors.** **** We may provide your Personal Information to third-party service providers who work with us to operate our business and the Site.  Examples of such service providers include vendors and suppliers that provide us with technology, services, and/or content for sending email, analyzing data, and providing marketing assistance.  These service providers will have access only to your Personal Information to the extent that it is reasonably necessary to perform their services, and they will have a contractual obligation to keep your Personal Information confidential. 
+
+**Aggregated, Anonymous Information.** **** We may share aggregated Anonymous Information about you with third parties.  Aggregated information is your Anonymous Information, combined with the Anonymous Information of other users; it does not enable the third party to identify or contact you.  
+
+ **Contests, Sweepstakes.** ** ** Some or all of the information collected during a contest or sweepstakes may be shared with other third parties, such as a provider of prizes or a co-sponsor who may use your Personal Information to administer the promotion or for marketing purposes (in conformity with their privacy policy).  If information collected during a contest or sweepstakes will be disclosed or shared with third parties in this manner, or in some other manner, we will include a notice at the time of collection of such information. 
+
+**Approval at the Time of Collection.  ** We may collect Personal Information about you and share it with third parties to the extent that you give us permission at the time of collection. For example, we sometimes gather Personal Information on behalf of a sponsor in association with a promotion conducted by such sponsor.  In this case, we will provide you notice at the time of collection that the information is being collected on the sponsor’s behalf. The sponsor’s privacy policy will govern the maintenance and use of the information collected from you, and the sponsor will be contractually obligated to comply with their privacy policy in their treatment of your Personal Information.   
+
+ **Within Our Company; Changes to Our Company.**   In the event we go through a business transition such as a merger, acquisition by another company, acquisition of a controlling interest by a third party in our company, or sale of all or a portion of our assets, your Personal Information may be among the assets transferred.  You acknowledge that such transfers may occur and are permitted by this Policy, and that any entity that acquires us, is merged with us, or that acquires our assets may continue to use and process your Personal Information as set forth in this Policy. 
+
+**Children’s Information**
+
+The Site is not directed or intended for children under 13 years of age.  We do not knowingly collect Personal Information from individuals under 13 years of age.  If you are under 13 years of age, you should not register or provide Personal Information on the Site.  If we later obtain actual knowledge that a user is under 13 years of age, we will take steps to remove that user’s Personal Information from our systems.  If you are the parent or guardian of a child whom you believe has disclosed Personal Information to us, please contact us at [privacy@bobvilaonline.com](mailto:privacy@bobvilaonline.com) so that we may delete and remove your child’s information from our systems. 
+
+**Updating and Control of Your Personal Information**
+
+We offer you choices regarding the collection, use, and sharing of your Personal Information.  When you receive promotional communications from us you will have the opportunity to “opt out” by following the unsubscribe instructions provided in the promotional email or newsletter you receive.  Please note that despite your indicated email preferences, we may send you administrative emails regarding the Site (such as administrative confirmations). 
+
+If your Personal Information changes, we encourage you to notify us to correct, update, or remove the Personal Information from your profile.  Keep in mind, however, that even if you delete information from your profile, we may retain your Personal Information in the normal course of following our data retention policy and there may be residual Personal Information that remains within our databases, access logs, and other records.  In addition, we are not responsible for updating or removing your Personal Information contained in the lists or databases of third parties who have been provided information as permitted by this Policy.
 
   
-[Home](https://web.archive.org/index.html) > **Privacy Statement**
+**Co-branded Sections of the Site**
 
-**Privacy Statement of BobVila.com**
+Certain portions of the Site may be co-branded with a third-party (the “Co-branded Sections”) with which we have a business arrangement.  The Co-branded Sections may be subject to a different privacy policy that is either the third party’s privacy policy or a privacy policy developed jointly by the Site and the third party (collectively the “Co-branded Section Policy”).  The third party’s collection, use and dissemination practices regarding any data or Personal Information provided by or obtained from users of these Co-branded Sections will be governed by the Co-branded Section Policy which will in turn make clear if our use and dissemination of Personal Information will be governed by the Co-branded Section Policy or this Policy.  Please read the Co-branded Section Policy for each Co-branded Section before providing any Personal Information. 
 
-We at BVWebties, LLC (referred to hereunder as BV, we, us, our, etc.), producer of BobVila.com (the Site), believe that you have the right to know how your personal and other information may be used or disclosed. You take your privacy seriously, and we respect your concerns. Accordingly, we have created this Privacy Statement in order to educate you as to how we collect information, what we do with it, and what controls and options you have. Please read this Privacy Statement carefully, and if you have any questions or concerns, please send us a comment at [legal@bobvila.com](mailto:legal@bobvila.com).
+**Third-Party Links**
 
-Unless otherwise indicated, this Privacy Statement applies only to information collected via the Site, and not to any off-line or non-Site related activities of BV or its affiliates.
+The Site may link to websites operated by third parties (including advertisers on our Site) that we do not control.  We do not monitor, control, or endorse the information collection or privacy practices of any third parties.  We encourage you to become familiar with the privacy practices of the websites you visit and to contact them if you have any questions about their respective privacy policies and practices.  
 
-**Gathering and Use of Information**  
-We and our third party vendors and service providers such as Yahoo! collect data from you (Information) in different ways and via many different parts of our Site: when you (1) register to become a Site member or use particular features of the Site, (2) enter one of our contests or sweepstakes, (3) use one of our many home project tools, (4) send us a home improvement question, or (5) buy one of our products. Even if you are just surfing the Site and reading a how-to article, we may collect information from you, such as your IP address and the particular web pages that you visit on our Site.
+  
+**Third-Party Cookies**
 
-**Information Pertaining to Children and Minor** s  
-BV does not want to collect Information from minors (children under 13 years of age, or any other age defined under applicable law). If we become aware that a minor is attempting to or has submitted Information via this Site, we will notify the user that we may not accept his or her Information. We will then expunge any personally identifiable information from our records.
+We may use reputable third parties to present or serve advertisements that you may see on the Site and to conduct research about the advertisements.    
+These third parties may place or recognize a unique cookie sometimes called a “third-party cookie,” on your browser (or may use web beacons or clear gifs to collect certain information) in order to understand Web usage patterns of people who see advertisements, to control the sequence of advertisements you see, to provide you with the most relevant advertising, and to make sure you don’t see the same ad too many times.  These third parties may also connect information about pages you visit on this Site with information about pages you visit on other sites and show you advertising based on this combined information.  
 
-**Registration Information  
-** Registration is required to access certain areas of this Site. In order to register, you must provide us with information as prompted, which may include your name, age group, gender, zip code, email address, interests, occupation, how you found out about our Site and other information (Registration Information).
+We do not control these companies or what they do with the information they collect.  Many of these third parties are members of the Network Advertising Initiative (NAI) and abide by NAI principles, which prohibit the NAI members from connecting Personal Information to information they collect through cookies without your explicit consent.  If you wish to opt out of participating in advertising programs conducted by NAI members, please go to the NAI Opt-Out site at: <http://www.networkadvertising.org/managing/opt_out.asp> and follow the instructions on that site.  After you opt-out, you will continue to see advertisements from these companies, but the advertising will not be tailored to your web preferences and usage patterns. 
 
-We use your Registration Information to maintain your Site account. We may use your Registration Information to contact you if there is a problem with your account or other related purposes, to facilitate, complete, or confirm a transaction that you have entered into on or through the Site, or if we substantially change our services, the Site (or your standing or status with respect to our Site or services), or the Site policies and feel that we need to update all of our registered users.
+**Security**
 
-We may also analyze Registration Information to understand who visits our Site, so that we can better design the Site to serve you more effectively. In the event we engage a third party to perform this analysis for us, we will have agreements with the third party requiring it to abide by privacy protections similar to those contained in this Privacy Statement. In addition, we may share the results of our analysis with advertisers in order to feature the products that will best serve your needs, but we will not share any of your personally identifiable Registration Information without your prior consent, except as otherwise indicated in this Privacy Statement. For purposes of this Privacy Statement, whenever we use the term “personally identifiable” we mean information that can be used to reasonably identify you, including by way of example, your name, phone number, email address, and postal address.
+We place a priority on the security of Personal Information, and we undertake reasonable security measures, in accordance with industry standards, to protect the data that resides on servers under our control.  However, we do not warrant that your Personal Information will be completely secure or not be intercepted while being transmitted over the Internet. 
 
-**Contests and Sweepstakes  
-** We may from time to time offer contests and sweepstakes. To enter a sweepstake or contest, you may be asked to provide your name, mailing address, email address, and your phone number and other information. Depending on the nature of the contest or sweepstake, we may also request additional information, such as your preferences, tastes, opinions, interests, and behavior. We use your contact Information to notify winners. Otherwise, we do not share personally identifiable sweepstake or contest-related Information with third parties, except as otherwise indicated in this Privacy Statement.
+**How to Contact Us**
 
-**Home Project Tools  
-** Our Site offers design, budget and cost projection tools that prompt you for information about your home improvement project, such as room dimensions and furnishing preferences, and we ask for your email address in conjunction with such tools. We use the Information you provide regarding your home improvement project to perform complex automated tasks like constructing three-dimensional design models or calculating projected costs. We do not share this Information with third parties other than our third party service providers who assist us in providing such tools. We require that these third party service providers abide by privacy protections similar to those contained in this Privacy Statement.
+If you have any questions regarding privacy or this Policy, you may contact us as follows:
 
-**Expert Advice  
-** As part of our Expert Advice service, you can submit your home improvement question to a Kasamba.com certified home improvement expert or to a premium bulletin board where Kasamba.com certified experts bid to answer your question. Kasamba.com experts are not employees of BV, but they are bound by separate agreements with Kasamba.com to abide by privacy protections similar to those contained in this Privacy Statement. Because we have no control over the nature of the content you submit as part of a query, you should familiarize yourself with the Kasamba.com privacy statement, terms of use and other applicable policies before sending any information to Kasamba.com as part of an inquiry.
+Sheila Morris
 
-Kasamba.com may post your question and the response on the Kasamaba.com web site or on the Site. If BV posts the question and/or response on our Site, we will first remove your personally identifiable information, unless you have consented to the display of your personally identifiable information.
+privacy.bobvilaonline@gmail.com
 
-**Buying Merchandise  
-** You can order BV merchandise online or by email. If you do, BV and/or Yahoo!, as applicable, will collect your product order along with your billing and shipping information. This Information is used to fulfill your order and bill you for your purchase, and also to analyze our product sales so that we can better meet your needs. Our products may be shipped directly by the vendor, in which case we will share with them only the minimum required information to complete the shipping of your items. Except as otherwise indicated in this Privacy Statement, we do not share this Information with third parties. Please be aware that some products are made available by third parties on third party web sites, in which case the section below concerning third party links and web sites will apply.
+PO Box 835, West Barnstable, MA  02668
 
-**Navigation Information/Cookies  
-**When visiting this Site, your browser sends information to our Site’s hosting server identifying the browser you are using, your Internet Service Provider, the page you last visited, and the page you are currently visiting. BV logs this Information and uses it to help diagnose problems with our server, to track user traffic patterns, and to generally administer the Site. We may also track and catalog the search terms that users enter in search forms, but this tracking is not associated with individual users, except as otherwise indicated in this Privacy Statement.
+508-737-7754 phone
 
-We make use of a standard feature of browser software called a “cookie” which helps us recognize you when you visit. We store your email address in a cookie file and place the file on the hard drive of your computer. This lets us identify your computer as a unique user.
+508-437-8486 fax
 
-Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent. If you disable cookies, however, you may find the Site, and many other web sites, harder to use. Cookies allow us to streamline your password entry process and customize your Site homepage, and to generally administer the Site. Our cookies cannot read other data off your hard-drive.
+**Privacy Policy Changes**
 
-**Access to Information  
-** BV and its employees have access to your Information. We use your Information for the purposes described above. Accordingly, BV has established policies with respect to its employees designed to keep your Information confidential in accordance with the provisions contained in this Privacy Statement. In addition, to the extent we disclose or otherwise share your Information with third parties as described in this Privacy Statement, we require that these third parties abide by privacy protections similar to those contained in this Privacy Statement.
-
-In addition, we engage third-party technical service providers and consultants to work on the Site. For example, they may host our Site, provide customer support, repair our software, or consult on security issues. We allow them access to Information, but only to the extent required by their role. In such instances, we require that these third parties abide by privacy protections similar to those contained in this Privacy Statement.
-
-**Information Sharing and Disclosure  
-** Other than as specifically described in this Privacy Statement, we only share aggregated Information about our users. For example, we might share Information about the number of people who visit our Site or their demographic information. In addition, we may share aggregated Information with market analysts, advertisers, business partners, sponsors, and any other third parties.
-
-Except as we have noted herein, we will not share any personally identifiable Information with any third party without your express consent, unless we have a good faith belief that such action is reasonably necessary: (a) to comply with the law; (b) to comply with legal process; (c) to enforce this Privacy Statement or other Site rules and policies; (d) to respond to claims that you are engaged in activities that violate the rights of third parties; or (e) to protect the rights or interests of BV and its service providers, provided that nothing in this paragraph shall impose a duty on BV to make any such disclosures.
-
-**Transfer of Your Information  
-** In the event of a merger, acquisition, consolidation, or sale of all or substantially all the assets of BV, or in the unlikely event of a bankruptcy, we reserve the right to transfer all or part of our business, including this Site and your Information, to third parties.
-
-**3rd Parties/Links  
-** This Privacy Statement applies only to the Site. This Site may include links to the web sites of both our affiliated and non-affiliated entities (Other Sites), including access to content, products and services of such affiliated and non-affiliated entities. Whenever you choose to access Other Sites or non-BV content via this Site, a separate browser window will launch and you will leave this Site. We urge you to familiarize yourself with the individual privacy and other terms for each linked site prior to submitting your Information.
-
-**Classified Advertisements  
-** This Site contains classified advertisements. These advertisements are one more way that we help you find the products and services you need. Please remember, however, that when you respond to a classified advertisement by email you are sending information to a third party and not to BV or this Site. We cannot control the use or security of or otherwise be responsible for any information that your send to a third party, so please be careful.
-
-**Supplementing Your Information  
-** We may supplement the Information that you provide with information we receive from third parties, for example product manufacturers or service providers. If you have any questions about the privacy policies of other companies or associations, we encourage you to contact them directly. If you believe you did not opt in or have opted-out of certain services and communications from BV, and you continue to hear from us (except with respect to our contacting you for reasons necessary for the operation of the Site, which we may continue to do), please contact us immediately and we will help you update your preferences and choices in our database.
-
-**Bulletin Boards  
-** The Site contains bulletin boards which are available to the public. Please remember that any text that you send to a bulletin board is immediately available to the general public. You should exercise caution when deciding to disclose any sensitive Information like your name, address, phone number or social security number.
-
-**Other Important Safety Information  
-** You are responsible for maintaining the confidentiality of all passwords issued to you, and are fully responsible for all activities that occur under your passwords, whether or not expressly authorized by you. Please notify BV immediately upon becoming aware of any actual or suspected abuse or unauthorized use of the passwords issued to you.
-
-We urge you to use only a screen name and/or e-mail address when chatting or sending e-mail. You may wish to delete unknown e-mail attachments before opening them. They can contain destructive viruses. Remember that nothing you write on the Web is completely private - including e-mail. So be careful and think about what you type and whom you tell. Not everyone is as trustworthy and honorable as they may seem.
-
-**Security  
-** Although we have taken reasonable security precautions, no security system is impenetrable. We cannot guarantee the security of our databases, nor can we guarantee that Information you supply will not be intercepted while being transmitted to us over the Internet.
-
-**Opting In; Reviewing, Correcting or Deleting Information  
-**When you provide contact Information to us, you will be given the ability to “opt in” to (1) receiving communications from us and our third party vendors (except for communications necessary for the operation of the Site, which do not require an opt in), (2) having your contact Information disclosed to third parties (except as necessary for us to operate the Site, or as otherwise permitted under this Privacy Statement or required under applicable law, which, in each case, will not require an opt in). If you do not wish to receive such communications or allow such disclosures, do not opt in. You may view, correct and revise your Information by accessing your account information by clicking the “account information” link on the bulletin board or by clicking the Bob Vila newsletter link in the Bob on TV section of the site. For example, if you have previously opted in and you would like to stop receiving communications from us and our third party vendors, or you would like to revoke any other consent previously granted for a specific purpose concerning your personally identifiable Information, then you can opt out by revising your account information. You may also opt out by calling us at 877-848-8452 ext. 5 or emailing us at [remove@bobvila.com](mailto:remove@bobvila.com). In the event you opt-out we may retain your email address and share your email address with our third party marketing partners, for the purpose of honoring your request to opt-out of receiving information from us or our marketing partners on our behalf.
-
-**Notice of Changes to the Privacy Statement  
-** We may update this Privacy Statement from time to time. We will notify you about significant changes in the way we treat personally identifiable Information by sending a notice to the primary email address specified in your account or by placing a prominent notice on our Site. After the changes take effect, all newly collected and previously collected Information will be subject to the terms of the revised Privacy Statement.
-
-**Contacting BVWebties, LLC  
-**If you have any questions or concerns about this Privacy Statement, BobVila.com, or BVWebties, LLC, you may contact us at: [legal@bobvila.com](mailto:legal@bobvila.com).
-
-Last Updated:  
-July 22, 2004
+We reserve the right to change, modify, add, or remove portions of this Policy at any time and without prior notice, and any changes will become effective immediately upon being posted unless we advise you otherwise.  However, we will not use your Personal Information in a way that is materially different from the uses described in this Policy without giving you an opportunity to opt out of such differing uses.  Your continued use of the Site after this Policy has been amended shall be deemed to be your continued acceptance of the terms and conditions of the Policy, as amended.  We encourage you to review this Policy regularly.
