@@ -1,145 +1,162 @@
-<!--The following is the downloaded HTML source of the bountii.com privacy policy that was archived on 2010-10-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101030045227id_/http%3A//bountii.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bountii.com privacy policy that was archived on 2011-06-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110610080936id_/http%3A//bountii.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
   <meta http-equiv="content-type" content="text/html; charset=UTF-8">
-    <title>Privacy Policy - Bountii</title>
+    <title>Privacy Policy</title>
     <link rel="stylesheet" type="text/css" href="http://images.bountii.com/css/main.css">
+  <!--[if IE 7]><link rel="stylesheet" type="text/css" href="http://images.bountii.com/css/main-ie7.css"><![endif]-->
+  <!--[if lte IE 6]><link rel="stylesheet" type="text/css" href="http://images.bountii.com/css/main-ie6.css"><![endif]-->
+  <script type="text/javascript" src="/js/jquery-1.5.1.min.js"></script>
+  <script type="text/javascript" src="/js/time.min.js"></script>
   <link rel="shortcut icon" href="http://www.bountii.com/favicon.ico">  
             <meta name="description" content="This document describes the types and uses of personal information we collect when you use Bountii's services.">
   
 </head>  <body>
-    <div id="pbody">
-      <table style="width: 100%;">
-  <tbody><tr>
-    <td id="logo-box" rowspan="2">
+    <div id="top-ticker">
+  <div id="top-ticker-tag">Just Viewed by Others</div>
+  <div id="ticker-loading"><img src="http://images.bountii.com/images/loader-blue.gif" alt="Loading..."></div>
+  <ul id="ticker-results"></ul>
+  <script type="text/javascript">var isIE6 = false;</script>
+  <script type="text/javascript">var isIE7 = false;</script>
+  <!--[if IE 7]><script type="text/javascript">var isIE7 = true;</script><![endif]-->
+  <!--[if lte IE 6]><script type="text/javascript">var isIE6 = true;</script><![endif]-->
+  <script type="text/javascript">
+    
+    $(function(){    
+    if (!isIE6) {
+    load_results();
+    setInterval(slide_results, 4500);
+    setInterval(load_results, 30000);
+    setInterval(function(){ $(".updatetime:gt(5)").prettyDate(); }, 15000);
+    }
+    });
+    function load_results() {
+    var numRemaining = $(".ticker-result").length;
+    var lastId = $(".ticker-result:last").attr("ID");
+    if (lastId && numRemaining && numRemaining > 12) {
+    lastId = lastId.replace("ticker", "");
+    var url = "/ticker.php?numResults=12&lastId=" + lastId; 
+    } else {
+    var url = "/ticker.php?numResults=24"; 
+    }
+    $.getJSON(url + '&_=' + (new Date()).getTime(), function(json) { 
+    var results = '';
+    $(json).each(function() {
+    if (this.Id == undefined) return;
+    results += "<li class='ticker-result' id='ticker" + this.Id + "'><a href='" + this.Url + "'>" + this.Title + " <abbr class='lgray updatetime' title='" + this.Time +  "'>" + this.TimeDiff + "</abbr></a></li>";
+    });
+    $("#ticker-loading").hide();
+    $("#ticker-results").append(results);
+    }); 
+    }
+    function slide_results() {
+    var $toslide = $(".ticker-result:first");
+    var slide_amt = $toslide.width();
+    $toslide.animate({marginLeft: '-=' + slide_amt}, {duration: 1800, easing: 'swing', complete: function(){ $toslide.remove();}});
+    }
+    
+  </script>
+</div>    <div id="pbody">
+            <table style="width: 100%; margin: 5px 0;"><tbody><tr>
+    <td style="width: 119px;">
       <a id="logo-box-logo" href="/"><!-- --></a>
-      <div class="rnd">
-	<div class="rnd-br-inv bluebg"><div><!-- --></div></div>
-	<div style="margin-right: 4px; border-top: 4px solid #ffffff;"><!-- --></div>
-      </div>
-      <div class="rnd bluebg">
-	<div class="rnd-tl"><!-- --></div>
-	<div style="border-top: 6px solid #496c96;"><!-- --></div>
-      </div>
     </td>
-    <td>
-      <ul id="popular_links">
-	<li>
-	  <a href="/popular/hdtvs">HDTVs</a>
-	</li>
-	<li><b>·</b></li>
-	<li>
-	  <a href="/popular/gps">GPS</a>
-	</li>
-	<li><b>·</b></li>
-	<li>
-	  <a href="/popular/point-and-shoot-digital-cameras">Point and Shoot Digital Cameras</a>
-	</li>
-	<li><b>·</b></li>
-	<li>
-	  <a href="/popular/blu-ray-players">Blu-ray Players</a>
-	</li>
-	<li><b>·</b></li>
-	<li>
-	  <a href="/popular/a-v-receivers">A/V Receivers</a>
-	</li>
-	<li><b>·</b></li>
-	<li>
-	  <a href="/popular/">more...</a>
-	</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div class="rnd bluebg"><div>
-	  <div class="rnd-tl"><!-- --></div>
-	  <div class="rnd-tr"><!-- --></div>
-	  <table><tbody><tr>
-	      <td>
-		<ul id="newbar">
-		  <li>
-		    		    <a href="/pricedrops.php" class="left_link">Price Drops</a>
-		    		  </li>
-		  <li>
-		    		    <a href="/pricehunts.php">Price Hunts</a>
-		    		  </li>
-		  <li>
-                                        <a href="/storerankings.php">Store Rankings</a>
-                                      </li>
-		</ul>
-	      </td>
-	      <td>
-		<div>
-		  <div id="account" class="rnd">
-		    <div class="rnd-tl-inv bluebg"><div><!-- --></div></div>
-		    <div class="rnd-tr-inv bluebg"><div><!-- --></div></div>
-		      <table style="margin: 0 auto;"><tbody><tr><td>
-			    <ul>
-			      			      <li>
-												<a href="/login.php">Sign In</a>
-											      </li>
-			    </ul>
-		      </td></tr></tbody></table>
-		  </div>
+    <td style="padding-left: 10px;">
+      <div id="search-box" style="z-index: 5; background-color: #ffffff;">
+	<div id="advanced">
+	  <div class="rnd orangebg" style="width: 450px;">
+	    <div class="rnd-br"><!-- --></div>
+	    <div class="rnd-bl"><!-- --></div>
+	    <div style="padding: 5px;">
+	      <div class="fright">
+		<a class="close" href="#" onclick="document.getElementById('advanced').style.display='none';return false;"><!-- --></a>
+	      </div>
+	      <div style="background-image: none;">
+		<b>Show results with...</b>
+	      </div>
+	      <form action="/search.php" method="GET">
+		<table class="search_inputs" style="z-index: 10;">
+		  <tbody><tr>
+		    <td class="query_box">
+		      all these words:<br><input type="text" name="and"><br>
+		      any of these words:<br><input type="text" name="or"><br>
+		      none of these words:<br><input type="text" name="nor">
+		    </td>
+		  </tr><tr>
+		    <td>
+		      <input type="submit" class="submit_button" value="Advanced Search">
+		    </td>
+		  </tr>
+		</tbody></table>
+	      </form>
+	    </div>
+	  </div>
+	</div>
+	<table><tbody><tr><td>
+	      <div class="rnd graybg"> 
+		<div class="rnd-tl"><!-- --></div> 
+		<div class="rnd-tr"><!-- --></div> 
+		<div class="rnd-bl"><!-- --></div> 
+		<div class="rnd-br"><!-- --></div> 
+	        <div style="padding: 5px;"> 
+		  <form action="/search.php" method="GET">	
+		    <table class="search_inputs">
+		      <tbody><tr>
+			<td class="query_box">
+			  <input name="item" type="text" value="">
+			</td>
+			<td>
+			  <input type="submit" class="search" value="">
+			</td>
+			<td class="adv-prefs-links">
+			  <a href="#" onclick="document.getElementById('advanced').style.display = 'block'; return false;" class="smallertext">Advanced</a><br>
+			  <a href="/preferences.php" class="smallertext">Preferences</a>
+			</td>
+		      </tr>
+		    </tbody></table>
+		  </form>
 		</div>
-	      </td>
-	  </tr></tbody></table>
-      </div></div>
-    </td>
-  </tr>
-</tbody></table>
-<div style="border-top: 2px solid #cdcdcd;"><div></div></div>      <div id="search-box" style="z-index: 5;">
-  <div id="advanced">
-    <div class="rnd orangebg" style="width: 450px;">
-      <div class="rnd-br"><!-- --></div>
-      <div class="rnd-bl"><!-- --></div>
-      <div style="padding: 5px;">
-	<div class="fright">
-	  <a class="close" href="#" onclick="document.getElementById('advanced').style.display='none';return false;"><!-- --></a>
-	</div>
-	<div style="background-image: none;">
-	  <b>Show results with...</b>
-	</div>
-	<form action="/search.php" method="GET">
-	  <table class="search_inputs" style="z-index: 10;">
-	    <tbody><tr>
-	      <td class="query_box">
-		all these words:<br><input type="text" name="and"><br>
-		any of these words:<br><input type="text" name="or"><br>
-		none of these words:<br><input type="text" name="nor">
-	      </td>
-	    </tr><tr>
-	      <td>
-		<input type="submit" class="submit_button" value="Advanced Search">
-	      </td>
-	    </tr>
-	  </tbody></table>
-	</form>
+	      </div>
+	</td></tr></tbody></table>
+	<div style="position: absolute; right: 0; top: 0px;">
+	  <div class="tright" style="margin-bottom: 3px;">
+	    	    	    	    Already a user? <a href="/login.php">Log in</a>
+	    	    	  </div> 
+	  	</div>
       </div>
-    </div>
-  </div>
-  <div style="padding: 7px 7px 6px 7px;">
-    <form action="/search.php" method="GET">	
-      <table class="search_inputs">
-	<tbody><tr>
-	  <td class="query_box">
-	    <input name="item" type="text" value="">
-	  </td>
-	  <td>
-	    <input type="submit" class="search" value="">
-	  </td>
-	  <td class="adv-prefs-links">
-	    <a href="#" onclick="document.getElementById('advanced').style.display = 'block'; return false;" class="smallertext">Advanced</a><br>
-	    <a href="/preferences.php" class="smallertext">Preferences</a>
-	  </td>
-	</tr>
-      </tbody></table>
-    </form>
-  </div>
-    <div style="clear: both; border-top: 1px solid #f0f0f0;"><!-- --></div>
-</div> 
+    </td>
+</tr></tbody></table>
+<div>
+  <ul id="pop-links">
+    <li>
+      <a style="padding-left: 0;" href="/pricedrops.php">Price Drops</a>
+    </li>     
+    <li>
+      <a href="/pricehunts.php">Price Hunts</a>
+    </li>
+    <li>
+      <a href="/storerankings.php">Store Rankings</a>
+    </li>
+    <li>
+      <span>Popular:</span>
+    </li>
+    <li>
+      <a style="padding-left: 0;" href="/popular/hdtvs">HDTVs</a>
+    </li>
+    <li>
+      <a href="/popular/gps">GPS</a>
+    </li>
+    <li>
+      <a href="/popular/blu-ray-players">Blu-ray Players</a>
+    </li>
+    <li>
+      <a href="/popular/">more...</a>
+    </li>
+  </ul>
+  <div style="clear: both; border-top: 3px solid #ffffff;"></div>
+</div>
+<div style="border-top: 1px solid #cdcdcd;"></div> 
       <div class="thirty_pixel_space"></div>
       <div style="width: 35em;">
 	<h1 style="font-size: 1.6em;">Bountii Privacy Policy</h1>
@@ -172,9 +189,10 @@
       </div>
       <div class="thirty_pixel_space"></div>
       
-      <div id="footerbar">
+      <div style="clear: both; border-top: 1px solid #ffffff"><!-- --></div>
+<div id="footerbar" style="margin-top: 5px;">
   <div>
-    ©2009 Bountii Inc. - <a href="/about.php">About Us</a> - <a href="/contact.php">Contact</a> - <a href="/blog/">Blog</a> - <a href="/help.php">Help</a> - <a href="/privacy.php">Privacy Policy</a>
+    ©2011 Bountii Inc. - <a href="/about.php">About Us</a> - <a href="/contact.php">Contact</a> - <a href="/blog/">Blog</a> - <a href="/help.php">Help</a> - <a href="/privacy.php">Privacy Policy</a>
   </div>
   <div class="footerbar-btm">
       </div>
