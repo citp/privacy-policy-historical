@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the styleschecks.com privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201184227id_/http%3A//www.styleschecks.com/service/service.aspx%3FpageCode%3D54) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the styleschecks.com privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610170822id_/http%3A//www.styleschecks.com/service/service.aspx%3FpageCode%3D54) for the most accurate reproduction.*
 
-# Styles Checks - Privacy Policy
+# Personal Checks, Labels, Checkbook Covers and Personal Cards ... The Styles Check Company
 
-[Customer Service](https://web.archive.org/web/20101201184227id_/http%3A//www.styleschecks.com/service/customerservice.aspx) > Privacy Policy  
+[Customer Service](https://web.archive.org/web/20110610170822id_/http%3A//www.styleschecks.com/service/customerservice.aspx) > Privacy Policy  
 
 
 **This is the Privacy Policy for The Styles Check Company.**
@@ -32,6 +32,8 @@ If you supply us with your postal address online, you may receive periodic maili
 
 From time to time, you may receive postal mailings from other reputable companies whose products we believe may interest you. You can, however, have your name put on our do-not-share list by contacting us at the above phone number, e-mail address or postal address. Please provide us with your exact name and address. We will be sure your name is removed from the mailing list we share with those other companies.
 
+While you are visiting or using our Site, you may be presented with an opportunity to subscribe for or purchase third-party products. If you click on one of the presented offers, you will be redirected to the web site of the third party, and any information you provide in response to the offer will be collected and used by the third party. Such information you provide to the third party and any dealings you have with the third party will be governed by the privacy and other policies of that third party.
+
 Upon request, we provide consumers access to a description of information that we maintain about them. Consumers can access this information or have it corrected by contacting us at the above phone number, e-mail address or postal address.
 
 With respect to security: When we transfer and receive certain types of sensitive information such as financial details, we redirect visitors to a secure server. You will be able to recognize that you are in our secure server by observing the "closed lock" icon on your Internet browser or by verifying that the "http" portion of your Web address has changed to "https." We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you on our site.
@@ -39,5 +41,3 @@ With respect to security: When we transfer and receive certain types of sensitiv
 We currently contract with several online partners to help manage and optimize our Internet business and communications. We use the services of a marketing company to help us measure the effectiveness of our advertising and how visitors use our site. To do this, we use Action Tags and cookies provided by our marketing company on this site. The information we collect helps us learn things like what kinds of customers our site attracts, which of our products most interest our customers, and what kinds of offers our customers like to see. Although our marketing company logs the information coming from our site on our behalf, we control how that data may and may not be used. If you do not want to help us learn how to improve our site, products, offers and marketing strategy, you can "opt-out" of this web-site analysis tool by clicking here.
 
 If you feel this site is not following its stated information policy, you may contact us at the above phone number, email address or postal address. You may also contact the Direct Marketing Association's Committee on Ethical Business Practices at mgoldberger@the-dma.org, state or local chapters of the Better Business Bureau, state or local consumer protection office, The Federal Trade Commission by phone at 202.FTC-HELP (202.382.4357) or electronically at [http://www.ftc.gov/ftc/complaint.htm.](http://www.ftc.gov/ftc/complaint.htm)
-
-This Privacy Policy is valid for 365 days from the time it is downloaded by the customer. 
