@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the midwayusa.com privacy policy that was archived on 2010-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101208211405id_/http%3A//www.midwayusa.com/General.mvc/Index/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the midwayusa.com privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610065501id_/http%3A//www.midwayusa.com/General.mvc/Index/privacy_policy) for the most accurate reproduction.*
 
 # MidwayUSA's Privacy Policy
 
@@ -14,7 +14,7 @@ Our security measures do not end once you have completed your online order. For 
 
 ### The Information We Collect
 
-MidwayUSA.com collects information on:
+Midwayusa.com collects information on:
 
   * Referring URLs for new advertising avenues
   * Browser types and versions for site functionality
@@ -29,18 +29,17 @@ We also may request personally identifiable information from you in order to han
 
 ### How We Use Information
 
-The information we collect is used to process orders and information requests, to improve the content of our website, to notify consumers about product and website updates or problems with requests or orders. All information is collected by MidwayUSA.
+The information we collect is used to process orders and information requests, to improve the content of our website, to notify consumers about product and website updates or problems with requests or orders.
 
-We occasionally exchange our customer postal address list with other reputable companies, however, you may opt-out or otherwise prohibit such uses by checking the "Do not share my information" box on the [Your Account](https://www.midwayusa.com/eaccount.exe/pleasesignin) page (don't forget to save the change) or by calling Customer Service at 1-800-243-3220. You may also send a note, requesting that your postal address not be shared, along with your name and address. For contact information, please view the [Contact Us](http://www.midwayusa.com/General.mvc/Index/Careers) page.
+We occasionally exchange our customer postal address list with other reputable companies, however, you may opt-out or otherwise prohibit such uses by checking the "Do not share my information" box on the [Your Account](https://www.midwayusa.com/Account/YourAccount?function=ShowAccount) page (don't forget to save the change) or by calling Customer Service at 1-800-243-3220. You may also send a note, requesting that your postal address not be shared, along with your name and address. For contact information, please view the [Contact Us](http://www.midwayusa.com/General.mvc/Index/ContactUs) page.
 
 ### Cookies & How We Use Them
 
-Our shopping cart functionality is based on "cookies" or customized pieces of information our site stores on your hard drive. Because cookies only contain text, they cannot transmit a virus or damage your system. They cannot gather information about you or your computer. The sole purpose of storing cookies is to remember information about your MidwayUSA account and make online shopping easier. If you prefer not to accept cookies, it may be necessary to call   
-1-800-243-3220 to place your order.
+Our shopping cart functionality is based on "cookies" or customized pieces of information our site stores on your hard drive. Because cookies only contain text, they cannot transmit a virus or damage your system. They cannot gather information about you or your computer. The sole purpose of storing cookies is to remember information about your MidwayUSA account and make online shopping easier. If you prefer not to accept cookies, it may be necessary to call 1-800-243-3220 to place your order.
 
 ### About Children
 
-MidwayUSA.com does not sell products for purchase by children. If you are under 18 years of age, do not submit any information without the express consent and participation of a parent or guardian.
+Midwayusa.com does not sell products for purchase by children. If you are under 18 years of age, do not submit any information without the express consent and participation of a parent or guardian.
 
 ### Links to Other Sites
 
