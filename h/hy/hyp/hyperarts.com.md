@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hyperarts.com privacy policy that was archived on 2010-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100922082242id_/http%3A//www.hyperarts.com/san-francisco-bay-area-web-developers/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hyperarts.com privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610074919id_/http%3A//www.hyperarts.com/san-francisco-bay-area-web-developers/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement | HyperArts
 
