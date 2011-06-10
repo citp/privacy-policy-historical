@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the securityfocus.com privacy policy that was archived on 2008-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080511200250id_/http%3A//www.securityfocus.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the securityfocus.com privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610173559id_/http%3A//www.securityfocus.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement
 
-|  Privacy Statement for www.securityfocus.com
+Privacy Statement for www.securityfocus.com
 
 SecurityFocus has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: **www.securityfocus.com**. 
 
@@ -48,6 +48,3 @@ Remember that once you have done this, you must still reply to the confirmation 
 Contacting SecurityFocus
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact [webmaster@securityfocus.com](mailto:webmaster@securityfocus.com). 
-
-|    
-
