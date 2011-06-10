@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the listfree.org privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230161041id_/http%3A//www.listfree.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the listfree.org privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610205825id_/http%3A//www.listfree.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ListFree.org
 
