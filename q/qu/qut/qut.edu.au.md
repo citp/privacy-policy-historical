@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qut.edu.au privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124083514id_/http%3A//www.qut.edu.au/general/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qut.edu.au privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610125307id_/http%3A//www.qut.edu.au/general/privacy.jsp) for the most accurate reproduction.*
 
 # QUT | QUT's privacy and security statement
 
