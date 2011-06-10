@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the uscombatsports.com privacy policy that was archived on 2010-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101114221419id_/http%3A//uscombatsports.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D4051%26Itemid%3D135) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uscombatsports.com privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610132016id_/http%3A//uscombatsports.com/privacy-policy) for the most accurate reproduction.*
 
-# US Combat Sports - Privacy Policy
+# Privacy Policy
 
 **What information do we collect?**
 
@@ -67,7 +67,7 @@ This online privacy policy applies only to information collected through our web
 
  **Terms of Use**
 
-Please also visit our Terms of Use page establishing the use, disclaimers, and limitations of liability governing the use of our website [here.](https://web.archive.org/index.php?option=com_content&view=article&id=4048&Itemid=132)
+Please also visit our Terms of Use page establishing the use, disclaimers, and limitations of liability governing the use of our website [here.](http://uscombatsports.com/terms-of-use)
 
  **Your Consent**
 
@@ -91,5 +91,5 @@ USA
 (414) 921-0407  
   
 
-[< Prev](https://web.archive.org/index.php?option=com_content&view=article&id=4052:about-us&Itemid=137) |    |  [Next >](https://web.archive.org/index.php?option=com_content&view=article&id=4049:advertise-with-us&Itemid=155)  
+[< Prev](http://uscombatsports.com/about-us) |    |  [Next >](http://uscombatsports.com/advertise)  
 ---|---|---
