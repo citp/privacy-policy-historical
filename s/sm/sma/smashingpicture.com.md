@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the smashingpicture.com privacy policy that was archived on 2010-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101210163510id_/http%3A//smashingpicture.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smashingpicture.com privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610161805id_/http%3A//smashingpicture.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | smashingpicture.com
+# Privacy Policy | Smashing Picture
 
 ## [Privacy Policy](http://smashingpicture.com/privacy-policy/ "Privacy Policy")
 
