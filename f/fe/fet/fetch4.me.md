@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fetch4.me privacy policy that was archived on 2010-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101110211725id_/http%3A//fetch4.me/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fetch4.me privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611004842id_/http%3A//fetch4.me/privacy.php) for the most accurate reproduction.*
 
 # Free Web Proxy | Anonymous Proxy | Unblock Facebook - Fetch 4 me
 
