@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cnn.cn privacy policy that was archived on 2010-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100419113958id_/http%3A//cnn.cn/shop/privacy-notice-i-10.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cnn.cn privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610203407id_/http%3A//cnn.cn/shop/privacy-notice-i-10.html) for the most accurate reproduction.*
 
-# Cellular Nationwide Network - Cellular Accessories - 3G, Sony, Panasonic, LG, SonyEricsson, Nokia,
+# Cellular Accessories | Mobile Accessories | Cell Phone Chargers | Cases | Cell Phone parts | Cell
 
 Cellular Nationwide Network knows that you care how information about you is used and shared, and we appreciate your trust and wnat you to feel confident in our services and security as it relates to your personal information. This notice describes our privacy policy. By visiting Cellular Nationwide Network, you are accepting the practices described in this Privacy Notice. 
 
