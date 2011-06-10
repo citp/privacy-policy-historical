@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naturalcures.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225183044id_/http%3A//www.naturalcures.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naturalcures.com privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610191937id_/http%3A//www.naturalcures.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
