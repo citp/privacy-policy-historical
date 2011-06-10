@@ -1,12 +1,11 @@
-> *The following text is extracted and transformed from the politico.com privacy policy that was archived on 2010-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101210074313id_/http%3A//www.politico.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the politico.com privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610135045id_/http%3A//www.politico.com/privacy) for the most accurate reproduction.*
 
 # POLITICO.com
 
 ## Privacy Policy
 
-  
-**Last Updated:** June 30, 2009  
-This Privacy Policy discloses the privacy practices for the www.politico.com website (the "Site"), which is provided by The POLITICO ("we" or "us"), a publication of Capitol News Company, LLC. This Privacy Policy governs our collection of information from you through your use of the Site. It does not apply to any information you may provide to us through other means; for example, via mail or via telephone. Please read this Privacy Policy carefully so that you understand our online privacy practices. By visiting this Site, you agree that your visit, and any dispute over our online privacy practices, is governed by this Privacy Policy and our Visitor Agreement. Questions regarding privacy issues should be directed to us at feedback@politico.com or POLITICO, 1100 Wilson Blvd., 6th Floor, Arlington, VA 22209. 
+**Last Updated:** January 10, 2011  
+This Privacy Policy discloses the privacy practices for the www.politico.com website (the "Site"), which is provided by The POLITICO ("we" or "us"), a publication of POLITICO LLC. This Privacy Policy governs our collection of information from you through your use of the Site. It does not apply to any information you may provide to us through other means; for example, via mail or via telephone. Please read this Privacy Policy carefully so that you understand our online privacy practices. By visiting this Site, you agree that your visit, and any dispute over our online privacy practices, is governed by this Privacy Policy and our Visitor Agreement. Questions regarding privacy issues should be directed to us at feedback@politico.com or POLITICO, 1100 Wilson Blvd., 6th Floor, Arlington, VA 22209 
 
 **TYPES OF INFORMATION WE COLLECT**   
 The information we gather falls into two categories: (1) information voluntarily supplied by users to the Site through optional registration; and (2) tracking information gathered as users navigate through the Site. 
@@ -25,9 +24,9 @@ POLITICO uses the information it collects from you while you are using the Site 
 
 You agree that we may use your information to contact you for customer service purposes, to inform you of important changes or additions to our Site or the services offered over our Site, and to send you administrative notices, offers and any other communications that we believe may be of interest to you. 
 
-We reserve the right to disclose to third parties all of the information that we collect online about you and other visitors, with one important exception – if you make a purchase on our Site, we will not share your credit card number or other financial information with any third party. We may, however, share non-financial information in accordance with this Privacy Policy. 
+We reserve the right to disclose to third parties all of the information that we collect online about you and other visitors, with one important exception Ã¢â‚¬â€œ if you make a purchase on our Site, we will not share your credit card number or other financial information with any third party. We may, however, share non-financial information in accordance with this Privacy Policy. 
 
-Please also keep in mind that whenever you voluntarily make your personal information available for viewing by third parties online – for example on message boards, through email or web logs, or in chat areas – that information can be seen, collected and used by others besides POLITICO. We cannot be responsible for any unauthorized third party use of such information. 
+Please also keep in mind that whenever you voluntarily make your personal information available for viewing by third parties online Ã¢â‚¬â€œ for example on message boards, through email or web logs, or in chat areas Ã¢â‚¬â€œ that information can be seen, collected and used by others besides POLITICO. We cannot be responsible for any unauthorized third party use of such information. 
 
 Please be aware that we may occasionally release information about visitors when release is appropriate to comply with law, to enforce our Terms of Service www.politico.com/termsofservice.html, or to protect the rights, property or safety of visitors to our Site, the public, or to us or our Site. 
 
