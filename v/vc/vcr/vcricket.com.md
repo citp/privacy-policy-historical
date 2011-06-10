@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the vcricket.com privacy policy that was archived on 2009-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090504102542id_/http%3A//www.vcricket.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vcricket.com privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610101120id_/http%3A//www.vcricket.com/privacy.aspx) for the most accurate reproduction.*
 
-# vCricket.com - Fastest Live Cricket Score Update with Free Cricket Score Syndication and Cricket News.
+# Privacy - Read on to know about the online privacy policy of vcricket.com
 
-| 
+Revision - v1.1 - 25th November, 2010.   
+(added to v1.0)
 
-* * *
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
 
-Last revision date: 10 sep, 2006
+\--------------------------------------  
+Revision - v1.0 - 10th september, 2006.
 
 Our privacy policy covers all personally identifiable information which is or has been collected when you visit vcricket.com or use our services.
 
@@ -14,13 +16,9 @@ Our Privacy Policy does not apply to any Partner site and services supplied by o
 
 We collect information in various ways from users, namely:
 
-  * Personal information is collected when users register for the site as a whole or for particular services. like forums, competitions, special offers, user services or surveys.  
-
-  * We collect basic information including Name, eMail addresses and other preference details to help customize our services for the users.
-  * We record IP addresses and use cookies for analytic's and geo-targeting content.
-
-
-
+Personal information is collected when users register for the site as a whole or for particular services. like forums, competitions, special offers, user services or surveys.  
+We collect basic information including Name, eMail addresses and other preference details to help customize our services for the users.  
+We record IP addresses and use cookies for analytic's and geo-targeting content.  
 WE WOULD NOT RESELL OR RENT PERSONALLY IDENTIFIABLE INFORMATION TO ANYONE.
 
 We may share aggregate data to Partners, Sponsors and potential advertisers, which may not disclose any personal information. These data would be shared for customizing our services to the user.
@@ -38,7 +36,3 @@ We do not promote our services to children under the age of 13.
 If there is is a change in privacy policy, we will post the changes here and would also notify to the user if there is a change in the policy.
 
 | 
-
-All Current Matches
-
-Did you know? you can display the above scorecard on your website for free! [Click here for details](https://web.archive.org/put_our_live_scoreboard_on_your_website_free.aspx)
