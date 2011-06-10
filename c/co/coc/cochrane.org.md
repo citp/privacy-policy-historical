@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cochrane.org privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123122631id_/http%3A//www.cochrane.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cochrane.org privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611000707id_/http%3A//www.cochrane.org/privacy) for the most accurate reproduction.*
 
 # Privacy of your personal data | The Cochrane Collaboration
 
@@ -12,11 +12,8 @@ When you view our web pages, we may collect non-personally-identifiable informat
 
 **We will not…**
 
-The Cochrane Collaboration does not share information (names, personal information, email addresses) about its users with third-party [entities](https://web.archive.org/glossary/5#term225). Where possible, the Cochrane Collaboration aims to honour or exceed the legal requirements for medical/health information privacy in all countries in which we operate. The information we collect about people visiting the site is stored in secure environments that are not available to any other individual or party.
+The Cochrane Collaboration does not share information (names, personal information, email addresses) about its users with third-party entities. Where possible, the Cochrane Collaboration aims to honour or exceed the legal requirements for medical/health information privacy in all countries in which we operate. The information we collect about people visiting the site is stored in secure environments that are not available to any other individual or party.
 
 **Concerns?**
 
 If you have concerns about your data, feel free to contact us at [web@cochrane.org](mailto:web@cochrane.org).
-  *[[entities](https://web.archive.org/glossary/5#term225)]: The term used for registered groups in *The Cochrane Collaboration*  
-(*Collaborative Review Groups*, *Centres*, *Fields*, and *Methods Groups*.
-
