@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the i-say.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224194436id_/http%3A//www.i-say.com/Privacy/PRIVACYPOLICY/tabid/167/language/en-US/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the i-say.com privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610074326id_/http%3A//www.i-say.com/Privacy/PRIVACYPOLICY/tabid/167/language/en-CA/Default.aspx) for the most accurate reproduction.*
 
 # Ipsos I-Say > Privacy Policy
 
-Revised on March 2010
+Revised on May 2011
 
 The purpose of this Privacy Statement is to inform you about the practices and procedures of Ipsos (as follows, “we” or “us”) in handling Personal Information and to inform you about the Personal Information we collect about you when you participate in one of our surveys. It explains how we use and disclose that information, the choices you have regarding such use and disclosure, and how you may correct that information.
 
-Ipsos Interactive Services U.S., Inc. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the websites www.i-say.com and www.i-say.ca. Because these websites want to demonstrate their commitment to your privacy, they have agreed to disclose their information practices and have their privacy practices reviewed for compliance by TRUSTe. If you are a resident of the United States of America and have any questions or comments regarding this statement, please contact Ipsos i-Say Member by:
+Ipsos Interactive Services U.S., Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html)  including transparency, accountability and choice regarding the collection and use of your personal information.  The TRUSTe certification covers the sites [www.i-say.com](http://www.i-say.com/) and [www.i-say.ca](http://www.i-say.ca/).   TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. 
+
+If you are a resident of the United States of America and have any questions or comments regarding this statement, please contact Ipsos i-Say Member by:
 
 In writing: 1600 Stewart Avenue, Suite 500, Westbury, NY, 11590, USA
 
@@ -22,7 +24,7 @@ Phone: 1.888.618.2056
 
 Email: [panel@i-say.com](mailto:panel@i-say.com).
 
-If you do not receive acknowledgement of your inquiry, or your inquiry has not been satisfactorily addressed, it is recommended that you contact TRUSTe at http://watchdog.truste.com/pvr.php?page=complaint&url . TRUSTe will serve as a liaison with us to resolve your concerns.
+If you are not satisfied with our response you can contact TRUSTe [here](http://watchdog.truste.com/pvr.php?page=complaint).
 
 We are proud to demonstrate our commitment to your privacy. From time to time, we may make changes to this Privacy Statement. The Privacy Statement is current as of the “last revised” date which appears at the top of this page. We will treat Personal Information in a manner consistent with the Privacy Statement under which it was collected and our Privacy Policy, unless we have your consent to treat it differently. This Privacy Statement applies to any information we collect or receive about you, from any source.
 
@@ -174,6 +176,8 @@ As is true of most Web sites, we gather certain information automatically and st
 ## Cookies
 
 A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies on this site. We do not link the information we store in cookies to any personally identifiable information, including email address, you submit while on our site. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close you browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser’s “help” file. This privacy statement covers the use of cookies by www.i-say.com and i-say.ca only and does not cover the use of cookies by any third parties.
+
+Some of our business partners also use cookies on our site.  We have no access or control of these cookies.
 
 ## Clear Gifs
 
