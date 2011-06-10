@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bedbugger.com privacy policy that was archived on 2010-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100917224153id_/http%3A//bedbugger.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bedbugger.com privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610070703id_/http%3A//bedbugger.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — Got bed bugs? Bedbugger.com
 
