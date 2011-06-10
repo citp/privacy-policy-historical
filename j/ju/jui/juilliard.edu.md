@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the juilliard.edu privacy policy that was archived on 2010-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100813233814id_/http%3A//www.juilliard.edu/utilities/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the juilliard.edu privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610115954id_/http%3A//www.juilliard.edu/privacy.php) for the most accurate reproduction.*
 
-# The Juilliard School - Juilliard School Web Site Privacy Statement
-
-Juilliard School Web Site Privacy Statement
+# Juilliard School Web Site Privacy Statement - The Juilliard School
 
 Thank you for visiting The Juilliard School Web site. We have a firm commitment to your privacy. The policies outlined herein pertain to the Juilliard Web site (www.juilliard.edu) and the Juilliard Alumni Online Community.
 
