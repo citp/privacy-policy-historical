@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spacewar.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206040231id_/http%3A//www.spacewar.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spacewar.com privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610155757id_/http%3A//www.spacedaily.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -25,7 +25,7 @@ We use third-party advertising companies to serve ads when you visit our website
 ** We partner with [ValueClick](http://valueclickmedia.com/member_privacy.shtml) to serve ads and/or collect certain information when you visit our website. ValueClick may use cookies or web beacons to collect non-personally identifiable information during your visit to this website in order to help show advertisements on other websites likely to be more interesting to you. To learn more about this “behavioral advertising” practice or to opt-out of this use of your anonymous information, you can visit ValueClick privacy page [here](http://valueclickmedia.com/member_privacy.shtml).
 
 **Konterra Privacy Statement  
-** We partner with Kontera and the [Exponential Group](http://www.kontera.com/index.php/em-privacy-policy) to serve ads and/or collect certain information when you visit our website. TribalFusion and the Exponential Group may use cookies or web beacons to collect non-personally identifiable information during your visit to this website in order to help show advertisements on other websites likely to be more interesting to you. To learn more about this “behavioral advertising” practice or to opt-out of this use of your anonymous information, you can visit [Exponential.com](http://www.kontera.com/index.php/em-privacy-policy) and learn more about cookie management.
+** We partner with Kontera and the [Exponential Group](http://www.kontera.com/index.php/em-privacy-policy) to serve ads and/or collect certain information when you visit our website. Konterra and the Exponential Group may use cookies or web beacons to collect non-personally identifiable information during your visit to this website in order to help show advertisements on other websites likely to be more interesting to you. To learn more about this “behavioral advertising” practice or to opt-out of this use of your anonymous information, you can visit [Exponential.com](http://www.kontera.com/index.php/em-privacy-policy) and learn more about cookie management.
 
 **Space Media Network Privacy Statement  
 ** Space Media Network operates an in house advertising service that supports our various news sites. We do not collect or retain any information derived from specific cookies issued by our web servers to your computer. We do collect basic advertising usage data and our log files record all IP traffic to our web servers. No information about specific individual users is collected by our web servers. 
@@ -67,6 +67,6 @@ In some cases, you may voluntarily provide personal information in response to a
 Space Media Network or its advertising agents may use "cookies" to enhance your experience on the web. Space Media Network cannot use these cookies to personally identify you in any way.
 
 **What are cookies and why do we use them?**  
-A cookie is a unique number that is provided to you the first time a Space Media Network advertising agent utilising this technology serves you an ad. While we believe cookies enhance your Internet experience by limiting the number of times you see the same ad and delivering more relevant content to you, they are not required for Space Media Network to advertising banners to you.
+A cookie is a unique number that is provided to you the first time a Space Media Network advertising agent utilising this technology serves you an ad. While we believe cookies enhance your Internet experience by limiting the number of times you see the same ad and delivering more relevant content to you, they are not required for Space Media Network to deliver advertising banners to your web browser.
 
-If you do not want the benefit of a network cookie, there is a simple procedure to manually delete your cookies. Please consult your web browser's Help documentation for more information.
+**If you do not want the benefit of a network cookie, there is a simple procedure to manually delete your cookies. Please consult your web browser's Help documentation for more information.**
