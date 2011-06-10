@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ausweb.com.au privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206043938id_/http%3A//online.ausweb.com.au/clients/knowledgebase.php%3Faction%3Ddisplayarticle%26id%3D12) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ausweb.com.au privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611001239id_/http%3A//online.ausweb.com.au/clients/knowledgebase/12/AUSWEB-Privacy-Statement.html) for the most accurate reproduction.*
 
 # AUSWEB Web Hosting - Knowledgebase - AUSWEB Privacy Statement
 
