@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the littlebitofgreen.com privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214014808id_/http%3A//wasabiventures.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the littlebitofgreen.com privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611010943id_/http%3A//wasabiventures.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Wasabi Ventures, LLC. Privacy Policy
 
