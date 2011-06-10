@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the auctiontime.com privacy policy that was archived on 2010-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100924052853id_/http%3A//www.auctiontime.com/info/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the auctiontime.com privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610115230id_/http%3A//www.auctiontime.com/info/privacy.aspx) for the most accurate reproduction.*
 
 # Sandhills Publishing Privacy Policy at AuctionTime.com
 
-|   
 ---  
   
 
