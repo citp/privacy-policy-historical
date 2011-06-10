@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dancemagazine.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123053118id_/http%3A//www.dancemagazine.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dancemagazine.com privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610143203id_/http%3A//www.dancemagazine.com/privacy) for the most accurate reproduction.*
 
-# Dance Magazine
+# Dance Magazine – If it's happening in the world of dance, it's happening in Dance Magazine.
 
 At _Dance Magazine,_ we respect your right to privacy and we understand that users of the __Dance Magazine__ Web site need to be in control of their personal information. "Personal information" includes, but is not limited to, name, address, telephone number, email address and credit card information _Dance Magazine_ does not sell, rent, swap or otherwise disclose any of this information. _  
 Dance Magazine_ adopted this Privacy Policy to inform users of the _Dance Magazine_ Internet site how the site does collect, store and use personal information submitted via the site. 
