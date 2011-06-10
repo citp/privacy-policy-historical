@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the mycutegraphics.com privacy policy that was archived on 2010-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100108031702id_/http%3A//www.mycutegraphics.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycutegraphics.com privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610115202id_/http%3A//www.mycutegraphics.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy for MyCuteGraphics.com
+# Privacy Policy
 
-|  Privacy Policy - Updated: July 21, 2009
-
-##  Privacy Statement for MyCuteGraphics.com 
+####  Privacy Statement for MyCuteGraphics.com 
 
 **MyCuteGraphics.com** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [MyCuteGraphics.com](http://www.mycutegraphics.com/)
 
@@ -12,11 +10,11 @@
 
 ####  Information Automatically Logged 
 
-Once you've entered any page on the site your IP address is automatically logged in our log files, along with your ISP, the type of browser you use to browse MyCuteGraphics.com, and which pages were visited. This information is used to help diagnose problems with our server and to administer our Web site such as providing new and up-to-date content that is in demand by our users. __
+Once you've entered any page on the site your IP address is automatically logged in our log files, along with your ISP, the type of browser you use to browse MyCuteGraphics.com, and which pages were visited. This information is used to help diagnose problems with our server and to administer our Web site such as providing new and up-to-date content that is in demand by our users. 
 
 ####  Advertisers 
 
-Our Current Advertisers Are: Valueclick Media, Google Adsense, Adnet, Gigya and Burst Media.  
+Our Current Advertisers Are: Valueclick Media, Google Adsense, Gigya and Burst Media.  
 
 
 ####  Cookies and Web Beacons 
@@ -25,7 +23,7 @@ MyCuteGrahics.com the website does not use cookies to store information. However
 
 ####  DoubleClick DART Cookies 
 
-We also may use DART cookies for ad serving through Google’s DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements). This cookie is used to serve ads specific to you and your interests (”interest based targeting”). The ads served will be targeted based on your previous browsing history (For example, if you have been viewing sites about visiting Las Vegas, you may see Las Vegas hotel advertisements when viewing a non-related site, such as on a site about hockey). DART uses “non personally identifiable information”. It does NOT track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers. You can opt-out of this ad serving on all sites using this advertising by visiting <http://www.doubleclick.com/privacy/dart_adserving.aspx>
+We also may use DART cookies for ad serving through Google's DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements). This cookie is used to serve ads specific to you and your interests ("interest based targeting"). The ads served will be targeted based on your previous browsing history (For example, if you have been viewing sites about visiting Las Vegas, you may see Las Vegas hotel advertisements when viewing a non-related site, such as on a site about hockey). DART uses "non personally identifiable information". It does NOT track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers. You can opt-out of this ad serving on all sites using this advertising by visiting <http://www.doubleclick.com/privacy/dart_adserving.aspx>
 
 You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts. Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added. 
 
@@ -33,20 +31,14 @@ You can choose to disable or selectively turn off our cookies or third-party coo
 
 Additionaly, MyCuteGraphics.com uses Valueclick Media as one of it's main advertisers. ValueClick may monitor certain pages for the purpose of reporting website traffic, statistics, advertisement 'Click-throughs' and/or other activities on our website. Valueclick may use cookies, web beacons and/or other monitoring technologies to compile "non personally identifiable" statistics about our vistors. For more information about how the information is collected and used by ValueClick please see ValuClick's privacy policy at: <http://www.valueclickmedia.com/member_privacy.shtml>
 
-####  MyCuteGraphics.com Newsletter Double Opt-In 
+####  Burst Media 
 
-MyCuteGraphics.com newsletter/mailing list is used only to notify visitors of new layouts and graphics. The newsletter/mailing list is double opt-in (you MUST request to be added and you MUST confirm your subscription) and is used to notify visitors of new layouts and graphics. Subscription is optional, and must be confirmed via email before your address will be added to the mailing list. You may also unsubscribe from MyCuteGraphics.com newsletter at anytime. 
-
-MyCuteGraphics.com DOES NOT sell the email addresses of users who join the newsletter. 
-
-Unsubscribing: If you wish to unsubscribe from our newsletter you may do so from the MyCuteGraphics.com [Main page](http://www.mycutegraphics.com/), or simply remove yourself from the removal link at the bottom of the newsletter you receive, reply to the newsletter notifying us of your wish to be removed or simply [contact us](http://www.mycutegraphics.com/contact/index.php) and ask that we unsubscribe you. 
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies,[click here](http://www.networkadvertising.org/managing/opt_out.asp). 
 
 ##  Contacting the Web Site 
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact me:   
+graphicsgirl at mycutegraphics.com 
 
+  
 
-[By Clicking Here](http://www.mycutegraphics.com/contact/index.php)
-
-|   
----|---|---
