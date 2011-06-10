@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the y4yy.net privacy policy that was archived on 2010-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101210114414id_/http%3A//www.y4yy.net/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the y4yy.net privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610101955id_/http%3A//www.y4yy.net/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
 
 # the best online photo management and sharing application » More Information » Privacy Policy
 
@@ -8,4 +8,4 @@ We may also collect the URL from which you linked into our site, your IP address
 
 User privacy is something we take very seriously at the best online photo management and sharing application. We do not, and have never, sold or disseminated (except in cases where required to by law enforcement agencies) the personal information of our users to any parties outside of the best online photo management and sharing application. We use account information for the purposes of creating and maintaining individual user accounts, contacting a user in case of a problem with their account, for statistical purposes, to administer our systems, and to provide technical support. 
 
-If you have any question, please do not hesitate to [contact us](http://y4yy.net/contact.php?act=contact_us). 
+If you have any question, please do not hesitate to [contact us](http://www.y4yy.net/contact.php?act=contact_us). 
