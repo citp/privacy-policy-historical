@@ -1,10 +1,11 @@
-> *The following text is extracted and transformed from the adconductor.com privacy policy that was archived on 2010-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101025070752id_/http%3A//adconductor.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adconductor.com privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610033443id_/http%3A//adconductor.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement
 
 Fundamentally, the privacy of web users must be protected and the most effective way to preserve that privacy is to confine their data to the site level. Burst Media as well as Burst adConductor collects no personally identifiable data, and therefore, protects user privacy while eliminating an unnecessary costly feature. Burst's TRUSTe license verifies this privacy stance. 
 
-| [](http://truste.org/ivalidate.php?url=www.burstmedia.com&sealid=102) | [](http://truste.org/ivalidate.php?url=www.burstmedia.com&sealid=102)  
+|  [ ](https://privacy-policy.truste.com/click-with-confidence/eusafe/en/www.burstmedia.com/seal_m "TRUSTe European Safe Harbor certification")  
+[](https://privacy-policy.truste.com/click-with-confidence/wps/en/www.burstmedia.com/seal_m "TRUSTe online privacy certification") |  [](https://privacy-policy.truste.com/click-with-confidence/ctv/en/www.burstmedia.com/seal_m "Validate TRUSTe privacy certification")  
 ---|---|---  
   
 **Burst Network Publishers:**
