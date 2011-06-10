@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jibe.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229164343id_/http%3A//www.jibe.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jibe.com privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610223247id_/http%3A//www.jibe.com/about/privacy) for the most accurate reproduction.*
 
 # JIBE :: Privacy
 
@@ -60,7 +60,7 @@ In the event that personal information is compromised as a result of a breach of
 
 ### Your Choices About Your Information
 
-You may, of course, decline to submit personally identifiable information through the Service, in which case Jibe may not be able to provide certain services to you. You may update or correct your account information and email preferences at any time by logging in to your account and http://www.jibe.com/privacysettings. You can review and correct the information about you that Jibe keeps on file by contacting us directly at support@Jibe.com.
+You may, of course, decline to submit personally identifiable information through the Service, in which case Jibe may not be able to provide certain services to you. You may update or correct your account information and email preferences at any time by logging in to your account and [http://www.jibe.com/settings](https://web.archive.org/settings). You can review and correct the information about you that Jibe keeps on file by contacting us directly at support@Jibe.com.
 
 ### Children’s Privacy
 
