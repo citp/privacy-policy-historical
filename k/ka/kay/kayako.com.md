@@ -1,6 +1,11 @@
-> *The following text is extracted and transformed from the kayako.com privacy policy that was archived on 2010-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101023185120id_/http%3A//www.kayako.com/company/agreements/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kayako.com privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610153956id_/http%3A//www.kayako.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy - Kayako
+
+  * [ Home](http://www.kayako.com/) »
+  * Privacy
+
+
 
 [](http://www.etrust.org/cert/456879.html)
 
@@ -76,7 +81,7 @@ You can contact eTrust regarding this privacy policy via their website: <http://
 
 ## Contacting Kayako
 
-You may contact Kayako using any of the methods outlined here: <http://www.kayako.com/company/contact.php>. 
+You may contact Kayako using any of the methods outlined here: <http://www.kayako.com/company/contact/>.
 
 Our mailing address is:
 
