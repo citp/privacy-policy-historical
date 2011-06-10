@@ -1,7 +1,10 @@
-> *The following text is extracted and transformed from the bountii.com privacy policy that was archived on 2010-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101030045227id_/http%3A//bountii.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bountii.com privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610080936id_/http%3A//bountii.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy - Bountii
+# Privacy Policy
 
+[](https://web.archive.org/) |   
+---|---  
+  
 Revised March 30, 2008 
 
 At Bountii we recognize the importance of your privacy. This document describes the types and uses of personal information we collect when you use Bountii's services. 
@@ -23,4 +26,4 @@ Uses
 
 
 
-If you have additional questions regarding your privacy and Bountii, please [contact us](https://web.archive.org/web/20101030045227id_/http%3A//bountii.com/contact.php). 
+If you have additional questions regarding your privacy and Bountii, please [contact us](https://web.archive.org/web/20110610080936id_/http%3A//bountii.com/contact.php). 
