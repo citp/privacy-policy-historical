@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dailycaller.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120193159id_/http%3A//dailycaller.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailycaller.com privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610143511id_/http%3A//dailycaller.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | The Daily Caller - Breaking News, Opinion, Research, and Entertainment
+# Privacy Policy | The Daily Caller
 
 [](http://dailycaller.com/footer/privacy-policy/printpage/ "Print This Page")
 
