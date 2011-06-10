@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the adblade.com privacy policy that was archived on 2010-10-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101025070551id_/http%3A//adblade.com/doc/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the adblade.com privacy policy that was archived on 2011-06-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110610034344id_/http%3A//www.adblade.com/doc/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -13,55 +13,98 @@
     <link href="/css/adblade.css" media="screen" rel="stylesheet" type="text/css"> 
     
     <script type="text/javascript" src="/js/index_fn.js"></script>
-     <script type="text/javascript" src="/js/jquery-1.2.6.min.js"></script>
+    <script type="text/javascript" src="/js/jquery/jquery.current.js"></script>
     <script type="text/javascript" src="/js/lib_function.js"></script>
+    
+    <script language="javascript">
+    <!--
+    $(document).ready(function()
+    { 
+        $(".defaultFieldText").focus(function()
+        {
+            if ($(this).val() == $(this)[0].title)
+            {
+            	$("#password").show();
+            	$("#fakePassword").hide();
+                $(this).removeClass("defaultFieldTextActive");
+                /*$(this).val("");*/
+                $("#loginName").val("");
+                $(this).attr({type:"text"});
+            }
+        });
+        
+        $(".defaultFieldText").blur(function()
+        {
+            if ($(this).val() == "")
+            {
+            	$("#fakePassword").show();
+            	$("#password").hide();
+            	$(this).addClass("defaultFieldTextActive");
+                $(this).val($(this)[0].title);
+            }
+        });
+        
+        $(".defaultFieldText").blur();        
+    });
+    //-->
+    </script>
+    
 </head>
 <body>
 
-<!-- new header begin -->
+<!-- header begin -->
 <div class="main_over">
-<div class="main">
-  <div class="header"> <a href="/" class="top_logo"></a>
 
-    <div class="top_login">
-              <form method="post" action="https://adblade.com/control/login">
-      <div class="errorMessage" style="padding:0px;position:relative;">&nbsp;</div>
-		      		          
-      <table border="0" cellspacing="0" cellpadding="5">
-        <tbody><tr>
-          <td>Email:</td>
-          <td>
-         	<input class="log_inp" type="text" name="email" tabindex="1" onfocus=" this.style.backgroundColor='#FFFFA0'" onblur="this.style.backgroundColor='#FFFFFF'">
-          </td>
-          
-          <td>Password:</td>
-          <td>
-          <input class="log_inp" type="password" name="password" tabindex="2" onfocus=" this.style.backgroundColor='#FFFFA0'" onblur="this.style.backgroundColor='#FFFFFF'">
-          </td><td><input type="image" style="border:0px" src="/images/login_btn.jpg" tabindex="3"></td>
-        </tr>
-        <tr><td colspan="4">
-		            <div class="line2">
-		                <img id="form_checkbox" src="/img/checkbox_empty.gif" class="form_checkbox" onclick="ClickCheckbox('form_checkbox');" onkeydown="ClickCheckbox('form_checkbox');" tabindex="4" style="outline:none">
-		                <span onclick="ClickCheckbox('form_checkbox');" onkeydown="ClickCheckbox('form_checkbox');" tabindex="5">Remember me on this computer</span>
-		                <span><a href="/registration/forgot-password" tabindex="6">Forgot my password</a></span>
-		            </div>            
-		            <input type="hidden" name="remember" value="0">
-		 </td>
-		 </tr>
-      </tbody></table>
+    <div class="header"> 
+        <div class="adblade-logo"><a href="/"><img src="/images/logo.png"></a></div>
+        <div class="top_login">
+                <form method="post" action="https://adblade.com/control/login">
+            <table border="0" cellspacing="0" cellpadding="5">
+                <tbody><tr>
+                    <td>
+                        <input class="log_inp defaultFieldText defaultFieldTextActive" id="loginName" title="EMAIL ADDRESS" type="text" name="email" tabindex="1" onfocus=" this.style.backgroundColor='#FFFFCC'" onblur="this.style.backgroundColor='#FFFFFF'" style="background-color: rgb(255, 255, 255);">
+                    </td>
+                    <td>
+                        <input class="log_inp" id="password" type="password" name="password" tabindex="2" title="" onfocus="this.style.backgroundColor='#FFFFCC'" onblur="this.style.backgroundColor='#FFFFFF'" style="display: none">
+                        <input class="log_inp defaultFieldText defaultFieldTextActive" type="text" id="fakePassword" name="fakePassword" tabindex="2" title="PASSWORD">
+                    </td><td>
+                        <input type="image" style="border:0px" src="/images/login.png" tabindex="3">
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="4">
+                        <div class="line2">
+                            <img id="form_checkbox" src="/img/checkbox_empty.gif" class="form_checkbox" onclick="ClickCheckbox('form_checkbox');" onkeydown="ClickCheckbox('form_checkbox');" tabindex="4" style="outline:none">
+                            <span onclick="ClickCheckbox('form_checkbox');" onkeydown="ClickCheckbox('form_checkbox');" tabindex="5">Remember me on this computer</span> | 
+                            <span><a href="/registration/forgot-password" tabindex="6">Forgot your password? Click here</a></span>
+                        </div>            
+                        <input type="hidden" name="remember" value="0">
+            		 </td>
+        		 </tr>
+          </tbody></table>
       </form>
+      <div class="errorMessage" style="padding:0px;position:relative;">&nbsp;</div>
+          </div>
+    
+    <link href="/css/adblade-main.css" media="screen" rel="stylesheet" type="text/css">
+
+
+<div class="navMenu">
+    <div class="navMenuItem">
+        <a href="/"><div class="navMenuItemHome"></div></a>
     </div>
-
+    <div class="navMenuItem">
+        <a href="/doc/services"><div class="navMenuItemServices"></div></a>
+    </div>
+    <div class="navMenuItem">
+        <a href="/doc/support"><div class="navMenuItemSupport"></div></a>
+    </div>
+    <div class="navMenuItem">
+        <a href="/doc/about"><div class="navMenuItemAbout"></div></a>
+    </div>
+</div>
   </div>
-   
-  
-  
-<!-- new header end -->
-
-    
-        
-    
-        <!-- div class="head-small"><img src="img/small-top-header.png" /></div -->    
+<div class="main">      
  
 <!-- html>
 <head>
@@ -77,47 +120,32 @@
   <div class="page-wrapper" -->
   
                     
-                 <div class="home-menu">
-    <table cellspacing="0" cellpadding="0" border="0" width="768" class="site_nav_menu">
-      <tbody>
-        <tr>
-          <td style="overflow: hidden; height: 42px; width: 11px;" rowspan="2"><img src="/images/mn-l-border.png"></td>
-          <td style="background: transparent url(/images/mn-t-bg.png) repeat-x scroll 0% 0%; overflow: hidden; height: 3px; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;" colspan="6">
-          </td><td style="overflow: hidden; height: 42px; width: 11px;" rowspan="2"><img src="/images/mn-r-border.png"></td>
-        </tr>
-        <tr class="site_nav_tr">
-          <td width="66"><a href="/"><br>
-            Home</a></td>
-          <td width="104"><a href="/doc/about" class="about"><br>
-            About Us</a></td>
-          <td><a href="/doc/services" class="services"><br>
-            Services</a></td>
-
-          <td><a href="/registration/advertiser" class="ads"><br>
-            Buy Advertising</a></td>
-                      <td><a href="/doc/contact"><br>Contact Us</a></td>
-          <td class="site_nav_last"><a href="/registration"><br>
-            My Account&nbsp;&nbsp;</a></td>
-        </tr>
-      </tbody>
-    </table>
-  	</div>        
+                
+        
         
     <div class="content">
-            <div class="editableContent">
-        <h2>Adblade - Privacy</h2>
+        <div class="editableContent">
+        
+
+<div class="innerContent privacyContentDescr">
+    <div class="mainContentBackgroundGrad">
+    <div class="mainContentTopBorder"></div>
+
+<div class="servContentMargin">
+<br><br>
+<div class="mainContentTitle">Privacy</div>
     
-<p lang="en-US" class="western" style="margin-bottom: 0cm; background: #ffffff">
-<strong class="western">Overview</strong><font color="#000000"><font face="Arial, sans-serif"><font size="2" style="font-size: 9pt">
+<p>
+<strong class="western">Overview</strong>
 <br>Adblade.com and its network of owned and partnered publishers
 ("Adblade") places importance on the privacy of our clients
 and their businesses. We adhere to the policies regarding privacy and
 security outlined below. If you have any questions, comments or
 concerns, please do not hesitate to contact us at
-</font></font></font><font color="#01519e"><font face="Verdana, sans-serif"><font size="1" style="font-size: 8pt"><u><a class="western" href="mailto:privacy@adblade.com" target="_blank">privacy@Adblade.com</a></u></font></font></font><font color="#000000"><font face="Arial, sans-serif"><font size="2" style="font-size: 9pt">.
+<u><a class="western" href="mailto:privacy@adblade.com" target="_blank">privacy@Adblade.com</a></u>
 Please familiarize yourself with the below sections that are
-applicable to you. <br><br></font></font></font><strong class="western">Ad
-Serving</strong><font color="#000000"><font face="Arial, sans-serif"><font size="2" style="font-size: 9pt">
+applicable to you. <br><br><!--<STRONG CLASS="western"-->Ad
+Serving
 <br><br>Adblade partners with numerous companies to provide online
 advertisements to "End Users" which are human users across
 various websites on the internet. As an End User browses the web, he
@@ -146,8 +174,8 @@ Users. However, Adblade may share data about aggregate usage
 statistics with the public or other businesses with whom we work. 
 <br><br>The capture, storage and analysis of information are solely
 for the purposes of ensuring a positive End User experience,
-eliminating fraudulent activity, and system administration. <br><br></font></font></font><strong class="western">Adblade
-Advertisers</strong><font color="#000000"><font face="Arial, sans-serif"><font size="2" style="font-size: 9pt">
+eliminating fraudulent activity, and system administration. <br><br><strong class="western">Adblade
+Advertisers</strong>
 <br><br>If an advertiser chooses to sign up as an advertiser on the
 Adblade Premium Advertising Network, they are explicitly agreeing to
 the use of information they provide as described below. The nature of
@@ -160,10 +188,10 @@ Advertiser's responsibility to review this privacy policy prior to
 logging in. Use of Adblade is conditioned on your acceptance without
 modification of the terms, conditions, and notices contained herein.
 Your use of the Adblade Premium Advertising Network constitutes your
-agreement to all such terms, conditions, and notices. </font></font></font>
+agreement to all such terms, conditions, and notices.
 </p>
-<p lang="en-US" class="western" style="margin-bottom: 0cm; background: #ffffff">
-<font face="Arial, sans-serif"><font size="2" style="font-size: 9pt"><br>Personal
+<p>
+<br>Personal
 information provided by an advertiser will be combined with
 information about its purchasing patterns of Adblade's products and
 services, performance of its advertisements, and all other
@@ -172,16 +200,16 @@ to, improve the relevancy of ad results and any other use deemed
 helpful to the Adblade enterprise. Adblade regularly shares this
 information with key partners on an individual basis. Furthermore,
 Adblade and its partners may use this information to contact the
-advertiser about additional products and services. </font></font>
+advertiser about additional products and services.
 </p>
-<p lang="en-US" class="western" style="margin-bottom: 0cm; background: #ffffff">
-<font color="#000000"><font face="Arial, sans-serif"><font size="2" style="font-size: 9pt"><br>An
+<p>
+<br>An
 advertiser has the right to terminate their relationship with Adblade
 in accordance with the terms and conditions set forth in the
 advertiser's contract with Adblade. However, all information captured
 about the advertiser will remain the property of Adblade
-indefinitely.<br><br></font></font></font><strong class="western">Organizations
-We Work With</strong><font color="#000000"><font face="Arial, sans-serif"><font size="2" style="font-size: 9pt">
+indefinitely.<br><br><strong class="western">Organizations
+We Work With</strong>
 <br><br>Adblade provides access to organizations we work with on
 Adblade's Premium Advertising Network to manage their own advertising
 networks. Those relationships are managed under contracts between
@@ -190,43 +218,97 @@ which Adblade provides to many of its partners allow each such
 partner to view all relevant information of Adblade's advertisers
 whose ads are being displayed on that partner's site. Such
 information includes bidding data, spend data, topics and placements
-viewed and purchased.<br><br></font></font></font><strong class="western">Conclusion</strong><font color="#000000"><font face="Arial, sans-serif"><font size="2" style="font-size: 9pt">
+viewed and purchased.<br><br>
+
+</p><p>
+    <strong class="western">Adblade Targeted Advertising and How to Opt-out</strong> <br><br>    
+    "Cookies" are small data files that are sent to your browser and are stored on your hard drive, keeping track of your general activity on a site. When you make subsequent visits to our site or another site on our Advertising Network, your cookie gives us a summary of your preferences and past experiences on the site. This allows us to tailor Adblade services to your needs. Your cookie may be altered at different times throughout your visits to a site, and it is updated frequently as you use various Adblade features and services.<br><br>
+    Every time you use Adblade services, our server may deliver certain customized information to you based on the data stored in your cookie. You may opt-out of our cookie-based targeted advertising by <a href="/doc/opt-out-in">Click here</a> to view/change your preferences for the Adblade Targeted Advertising program.  Adblade shall retain data collected and used for these activities only as long as necessary to fulfill a legitimate business need, or as required by law. We comply with the <a></a><a href="http://www.ftc.gov/os/2009/02/P085400behavadreport.pdf" title="FTC Online Behavioral Advertising Principles">FTC Online Behavioral Advertising Principles</a>.<br><br>
+    We may use third party advertising technology providers to serve advertisements and provide other services on this site and in connection with our Advertising Network. These services may include the use of web beacons, web bugs, action tags and third party cookies which read our cookies, or visa-versa, or involve the use of anonymous supplemental information (described below). To opt-out of certain behavior targeting programs not associated with Adblade, <a href="http://www.networkadvertising.org/consumer/opt_out.asp">click here</a> for the National Advertising Initiative (NAI) opt-out tool.<br><br>
+    "Clickstream data" is a trail of electronic information that is left at each web site you visit. This information can be collected and stored by a site's server. We may, for example, use clickstream data to tell us the type of computer and browsing software you use, the address of the site from which you linked to our site, how much time you spend on each page of our site, how you navigate throughout the site and how we may tailor our web pages to better meet the needs of our users.<br>
+</p>
+
+<strong class="western">Conclusion</strong>
 <br><br>Adblade works hard to respect the privacy of its users.
 Unless required otherwise by applicable law or legal process, Adblade
 will operate entirely within the policies described above. If you
 have any questions or concerns regarding this policy, please feel
-free to contact </font></font></font><font color="#01519e"><font face="Verdana, sans-serif"><font size="1" style="font-size: 8pt"><u><a class="western" href="mailto:privacy@adblade.com">privacy@Adblade.com</a></u></font></font></font><font color="#000000"><font face="Arial, sans-serif"><font size="2" style="font-size: 9pt">
-</font></font></font>
-</p>
-<p lang="en-US" style="margin-bottom: 0cm; background: #ffffff"><font face="Arial Unicode MS, sans-serif"><font color="#000000"><font face="Arial, sans-serif"><font size="2" style="font-size: 9pt">Adblade
+free to contact <u><a class="western" href="mailto:privacy@adblade.com">privacy@Adblade.com</a></u>
+<p></p>
+<p>Adblade
 reserves the right to change this policy at any time due to changes
 in applicable laws, Adblade's business needs or otherwise. Use of
 Adblade.com and the advertising network of owned and partnered
 websites which utilize Adblade's services constitutes agreement with
 the terms of this policy as may be amended by Adblade from time to
-time. <br><br></font></font></font><em><font color="#000000"><font face="Arial, sans-serif"><font size="2" style="font-size: 9pt">Last
-updated: June 25, 2009</font></font></font></em></font></p>
+time. <br><br><em>Last
+updated: June 25, 2009</em></p>
 <p lang="en-US" class="western" style="margin-bottom: 0cm"><br>
 </p>
-
+</div>
+</div>
+</div>
     </div>
-        
+    
     
     </div>
 
     <!-- BEGIN: footer -->
-
-<div class="footer">
-    <div class="bottom_menu"><a href="/">Home</a> | <a href="/doc/about">About</a> | <a href="/doc/faq">FAQ</a> | <a href="/doc/privacy">Privacy Policy</a> | <a href="/doc/terms">Terms</a> | <a href="/doc/contact">Contact</a> </div>
-    <div class="copy">Copyright © 2009 Adblade. All Rights Reserved.</div>
-  </div>
 </div>
+
+</div>
+
+
+<div class="mainFooter">
+    <div class="topMainFooter">
+    <div class="mainBoxBottom"><div class="mainBoxBottomInternal"></div></div>
+    <div class="footerPanel">
+            <div class="majorAdvertisers">
+            <img src="/images/design/adblade/advertiser-logos.png">
+        </div>
+        <div class="becomeAdvertiserFooterButton">
+            <a href="/registration/advertiser"><img src="/images/design/adblade/startAdvertisingNow.png"></a>
+        </div>
+        <br>
+            <img src="http://pixel.adblade.com/imps.php?sgms=65" border="0">
+    </div>
+</div>
+<div class="botomMainFooter">
+    <div class="botomMainFooterColumn botomMainFooterColumnMargin">
+        <a href="/doc/about">About Us</a><br>
+        <a href="/doc/about/management">Management</a><br>
+        <a href="/doc/about/careers">Careers</a><br>
+        <a href="/doc/about/location">Location</a><br>
+        <a href="/doc/about/press">Press</a><br>
+    </div>
+    <div class="botomMainFooterColumn botomMainFooterColumnMargin">
+        <a href="/doc/support">Support</a><br>
+        <a href="/doc/support">Advertiser Support</a><br>
+        <a href="/doc/support">Publisher Support</a><br>
+        <a href="/doc/advfaq">Advertiser FAQ</a><br>
+        <a href="/doc/pubfaq">Publisher FAQ</a><br>
+    </div>
+    <div class="botomMainFooterColumn botomMainFooterColumnMargin">
+        <a href="/doc/services">Services</a><br>
+        <a href="/doc/advertisers">Advertisers</a><br>
+        <a href="/doc/publishers">Publishers</a><br>
+    </div>
+    <div class="botomMainFooterColumn">
+        <a href="/doc/contact">Contact Us</a><br>
+        <a href="/doc/privacy">Privacy</a><br>
+        <a href="/doc/terms">Terms</a><br>
+        <a href="/doc/opt-out-in">Consumer Targeting</a><br>
+    </div>
+    <div class="bottomLine">
+    </div>
+    <div class="copyRight">© 2009 - 2011 Adblade</div>
+    <div class="adbladeBottomLogo"><img src="/images/design/adblade/bottomLogo.png"></div>
 </div>
 <!-- END: footer -->
 
-<img src="http://pixel.adblade.com/imps.php?sgms=65" border="0">
 
 
   <!-- /div>
 </body>
-</html --><!-- 0.267374 --></body></html>
+</html -->
+<!-- ~0 sec(s) --></div></body></html>
