@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babysleepsite.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224084142id_/http%3A//www.babysleepsite.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babysleepsite.com privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610125043id_/http%3A//www.babysleepsite.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Baby Sleep Site™ - Baby Sleep Help | Toddler Sleep Help | Custom Sleep Help
 
@@ -102,5 +102,3 @@ Respectfully,
 
 Nicole Johnson President/Owner  
 http://www.babysleepsite.com
-
-[](http://www.addthis.com/bookmark.php?v=250&username=picknicksbrain)
