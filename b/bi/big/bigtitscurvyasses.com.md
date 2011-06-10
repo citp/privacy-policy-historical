@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigtitscurvyasses.com privacy policy that was archived on 2010-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101108124835id_/http%3A//bigtitscurvyasses.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigtitscurvyasses.com privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610070539id_/http%3A//www.bigtitscurvyasses.com/legal/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
