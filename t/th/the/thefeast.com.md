@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thefeast.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120140821id_/http%3A//www.thefeast.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefeast.com privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610153653id_/http%3A//www.thefeast.com/privacy) for the most accurate reproduction.*
 
 # The Feast
 
