@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the couponwinner.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124054432id_/http%3A//www.couponwinner.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponwinner.com privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610073256id_/http%3A//www.couponwinner.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Couponwinner.com - Privacy Policy
 
