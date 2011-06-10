@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webuildlink.com privacy policy that was archived on 2010-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100609091929id_/http%3A//www.webuildlink.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webuildlink.com privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610183100id_/http%3A//www.webuildlink.com/privacy.html) for the most accurate reproduction.*
 
 # WeBuildLink - Privacy
 
