@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ivisit.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227123530id_/http%3A//www.ivisit.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ivisit.com privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610234820id_/http%3A//www.ivisit.com/privacy) for the most accurate reproduction.*
 
 # iVisit - Privacy Policy
 
