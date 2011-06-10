@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the irbsevens.com privacy policy that was archived on 2010-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100414171228id_/http%3A//www.irb.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irbsevens.com privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610232008id_/http%3A//irbsevens.com/privacypolicy.html) for the most accurate reproduction.*
 
-# International Rugby Board - privacy
+# Official HSBC Sevens World Series - privacy
 
 The International Rugby Board ("IRB") has created this privacy statement to demonstrate its firm commitment to privacy. The following is a full description of the information gathering and dissemination practices for [www.irb.com](http://www.irb.com/) ("the site").
 
@@ -25,11 +25,6 @@ The organisations to which, with your permission, we will release your personal 
  **Electronic Communications**
 
 We comply with the terms of the European Directive on Privacy and Electronic Communications (Directive 2002/58/EC) and, in particular:
-
-  * We will not send you unsolicited communications unless you have consented to receiving them;
-  * Communications we do send you will always give you an address which you may contact to opt out of receiving further communications.
-
-
 
 Please understand that where you have opted out of receiving further communications, it may take us a few days to process your request.
 
@@ -69,4 +64,4 @@ Huguenot House,
 Dublin 2,   
 IRELAND.
 
-All Rights Reserved. 
+All Rights Reserved.
