@@ -1,68 +1,92 @@
-> *The following text is extracted and transformed from the stuff.tv privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205232628id_/http%3A//stuff.tv/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stuff.tv privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610144633id_/http%3A//www.stuff.tv/haymarket-media-group-privacy-notice) for the most accurate reproduction.*
 
-# Gadget reviews and video reviews, technology news – Stuff.tv
+# Haymarket Media Group Privacy Notice | Stuff magazine
 
-## General
+**_1\. Introduction_**
 
-Haymarket Media Group, publishers of Stuff.tv is committed to respecting your privacy and protecting your personal information.  
-This privacy policy will outline the type of information that is collected, how it is used and the secure way in which it is protected. If you have any concerns regarding your personal information, please contact us at datacontroller@haymarket.com.
+Your personal information is being processed by Haymarket Media Group ('Haymarket'). For a full list of our brands and business divisions please visit our [web site](http://www.haymarket.com/brands.aspx). Haymarket respects your privacy and is committed to protecting your personal information. We comply with the principles of the Data Protection Act 1998 and aim to maintain consistently high levels of best practice in our processing of your personal information. This Privacy Notice relates to our use of any personal information you provide to us through the Haymarket network of websites and/or other services provided by Haymarket.
 
-The type of information that may be collected includes your name, postal address, gender, date of birth, e-mail address, telephone number, fax number.  
-Additionally we may collect information and/or your opinions through online or printed surveys, which might include more detailed information such as where you prefer to shop, your reading and purchasing habits or your views on various products etc.
+In order to provide you with the full range of services, we may request and/or record information about you. This privacy notice explains the following:
 
-The Information Commissioners Office (ICO) defines sensitive data as:
-
-  1. Racial or ethnic origin
-  2. Political opinion
-  3. Religious or other beliefs
-  4. Trade union membership
-  5. Health
-  6. Sex life
-  7. Criminal allegations/proceedings/ convictions
+  * the type of information we collect;
+  * how the information is used;
+  * when we may contact you;
+  * whether we will disclose your details to anyone else; and
+  * the use of cookies.
 
 
 
-Haymarket Media Group does not seek sensitive information through this website. We believe that such information is not required to perform efficient customer service.
+Many Haymarket websites contain hyperlinks to websites owned and operated by third parties. These third party websites have their own privacy notices and we encourage you to review them. We do not accept any responsibility or liability for the privacy practices of such third party websites and your use of such websites is at your own risk.
 
-## How the information is used
+**_2\. What type of personal information is collected?_**
 
-Haymarket Media Group endeavours to deliver the best possible service to customers. All the information we collect about you is used to operate and improve the service we offer. Specifically, we use your information for:
+When you sign up to participate in or receive a service from any Haymarket website, such as a newsletter, competition, forum we will ask for limited personal information. We will also collect personal information from you when you subscribe to one of our magazines and when you communicate with us over the telephone or via written correspondence. This can include information such as your name, postal address, telephone or mobile number, fax number, email address, gender or date of birth. Different Haymarket websites may ask for different pieces of personal information. By entering your details in the fields requested, you enable Haymarket and its service providers to provide you with the services you select.
 
-  1. Research to better understand our customers' preferences and opinions
-  2. Planning and managing our business and marketing activities, including understanding and analysing customer behaviour and preferences
-  3. Enhancing the content and services on our websites - to do this, we use the personal information collected to customise each individual's access to our website. See 'Cookies' below.
-  4. Your personal information may also be used to contact you about offers and discounts available from Haymarket Media Group that we think may be of interest to you. We will only contact you with your consent, and only by post, e-mail, telephone or SMS. If you prefer not to receive such information on goods and services provided by Haymarket Media Group, please follow the unsubscribe instructions when registering on this website. You can update your contact preferences at any time by emailing us at datacontroller@haymarket.com.
-  5. If you have consented to be contacted by third parties, we may also share some of your information with selected companies whose products and services we feel may be of interest to you. We strive to keep these offers relevant to your interests and you can update your contact preferences at any time by emailing us at datacontroller@haymarket.com.
+**_3\. How will the information be used?_**
+
+Haymarket will use your personal information for a number of non-marketing purposes including the following:
+
+  1. we may contact you for service related reasons that you have subscribed to, signed up for, or participate in (e.g. to make you aware of any delays in your subscription arriving on time, reminding you of a password or username, or about a comment you have made on a website.);
+  2. to invite you to share your opinions and comments through a research study about the level of service you receive from us;
+  3. to track traffic flows and to make our websites easier for you to use;
+  4. to fulfil subscription orders;
+  5. to provide a user online community; and for
+  6. planning and managing our business activities by understanding aggregated analysis on behaviour and habits;
 
 
 
-The media is always highlighting the irritations of unsolicited mail and its public perception. Haymarket Media Group abides by the guidelines of the Mailing Preference Service (MPS) and Telephone Preference Service (TPS), both of which offer consumers protection against unsolicited contact.  
-Please be aware however, that if a customer has consented to marketing activity by us or by third parties, contact is not considered to be unsolicited and so MPS and TPS do not apply. If you prefer not to be contacted by phone other than for the provision of our products or services to you, you can update your contact preferences with us by emailing datacontroller@haymarket.com.
+We may disclose your personal information to any member of our group which includes our subsidiaries as defined in section 1159 of the Companies Act 2006
 
-### Cookies
+**_4\. Will I be contacted for marketing purposes?_**
 
-We collect information obtained about you from your use of our website via the use of cookies. Cookies are small pieces of information generated by a web server, and are stored on your hard drive when you enter a website. Haymarket Media Group uses cookies to automatically keep track of individual user sessions. You can delete cookies from your hard drive and also configure your Internet browser to reject them. However, this will disable the website function to manage individual sessions.
+Yes. Haymarket may use the information you have provided to promote the products and services of Haymarket or others.
 
-### Disclosure of your information
+However, be assured that we understand the irritations of unsolicited communications and are fully committed to ensuring the rights and obligations set out in the Data Protection Act 1998 and the Privacy and Electronic Communications Regulations 2003 are respected. ****
 
-Haymarket Media group provides services to customers around the world. Some of our partners and affiliates, including third parties offering relevant products and services, may be located outside the European Economic Area (EEA). Countries outside the EEA are not required to protect personal information as stringently as countries inside, however Haymarket Media Group insists that all partners and affiliates both inside and outside the EEA adhere to the same rules and procedures on personal information that we adhere to in the UK.
+**If you don’t want it, you won’t get it**.  Any marketing communication you receive will always include a clear, simple option to refuse, or ‘opt-out’ of such future communications. You may also opt-out at ANY time by contacting us (see below).
 
-### How your information is kept secure
+The Telephone Preference Service (TPS) and the Mailing Preference Service (MPS) offer consumers important statutory and non-statutory protection against unsolicited marketing contact. If you are registered on either service, Haymarket will assume that your _subsequent_ submission of personal data via a Haymarket website or data capture form indicates, for the time being, your consent to receive marketing by us. **You may opt-out at ANY time by contacting us (see below).**
 
-Haymarket Media Group recognises that its customers are increasingly concerned about how personal information is protected from misuse. Haymarket Media Group is committed to complying with the Data Protection Act 1998 and The Privacy and Electronic Communications Regulations to ensure that your personal information is stored securely, and we have taken measures to protect the security of your information both online and offline, including encryption of credit card and bank details.
+**_5\. Will Haymarket share my information with anyone else?_**
 
-### Advertising
+Haymarket may disclose your personal data where it believes it is compelled to do so by law; in particular for the prevention or detection of crime, the capture or prosecution of offenders; and the assessment or collection of tax or duty.
 
-Advertisements on our site are provided by another organization. Our advertising partner will serve ads that it believes are most likely to be of interest to you, based on information about your visit to this and other websites (this information is anonymous in that it does not include your name, street address, e-mail address or telephone number). In order to do this, our advertising partner may need to place a cookie on your computer. For more information about this type of online behavioral advertising, about cookies, and about how to turn this features off, please visit [http://www.youronlinechoices.co.uk](http://www.youronlinechoices.co.uk/).
+Occasionally, we may share your contact information with carefully selected third party companies whose products and services we feel may be of interest to you. We will keep these offers relevant to your interests. It's easy to unsubscribe from any email or mobile messages you no longer want. (see below).
 
-Stuff.tv members often post links to products on merchants' websites. eBay and Amazon are common examples. Stuff.tv uses technology to convert these links into ones which generate revenue for Stuff.tv. When a link is clicked, a script automatically analyses it, and if the link takes the user to an affiliated merchant's website, our details are added to that link and the link then followed to the merchant's website. This does not change in any way the web page which is being visited, and the intention is that the process will be completely invisible to the user. After arriving at the product page on the affiliated merchant's website, if the user then makes a purchase, a small proportion of that revenue is paid to Stuff.tv.
+We use a number of third party organisations to help provide a professional service to our customers (i.e. fulfilment bureaus, call centres, and website designers). These organizations act as data processors and are strictly controlled in how they may/may not use your personal data. We remain responsible for the protection of your data.
 
-### How to access your information
+Please note that some of our partners may be located outside the European Economic Area (EEA). Countries outside the EEA may not be required to protect personal information as stringently as countries inside.
 
-You have the right to access the information that Haymarket Media Group holds about you. There will be an administration fee of £10 associated with this request. Please make a written application to the Data Protection Owner, Haymarket Media Group, Teddington, Middlesex, TW11 9BE. Alternatively, you can email Haymarket Publishing directly using datacontroller@haymarket.com.
+**_6\. Can I find out what personal information Haymarket holds on me?_**
 
-### Updating your information
+Under the Data Protection Act 1998 you have the right to request a copy of the personal information that Haymarket holds about you. There will be an administration fee of £10 associated with this request and will require two pieces of identification to prove your identity. Please make a written application to the Data Protection Officer, Haymarket Media Group, Teddington, Middlesex, TW11 9BE.
 
-If any of the personal information that we hold about you is incorrect, you can logon and amend your account details at any time by clicking [here](http://stuff.tv/login.aspx).
+If any of the personal information that we hold about you is incorrect, you can click on the contact us link on each website. If the incorrect information relates to your magazine subscription, then you can contact the customers services team on 08456 777 800 who will update your details as soon as practically possible.
 
-Please note that this Privacy Policy may be updated at any time with or without notice in order to comply with new practices or regulations.
+**_7\. Changes to the Haymarket Privacy Policy?_**
+
+This privacy policy may be updated at any time with or without notice in order to comply with new practices or regulations. You may wish to visit this page every time you submit personal information to one of Haymarket’s websites.
+
+**_8\. Cookies and your privacy_**
+
+In order to enable us to provide you with a personalised browsing experience, this website uses 'cookie' information collection technology. "Cookies" are small pieces of information that are issued to your computer when you enter a website. Cookies are stored by your browser on your computer's hard drive, and they can be used for a wide range of purposes, such as identifying your computer's previous visits to a website, and to ascertain the most popular features of a website.
+
+This website uses cookies as they enable us to identify your computer when you visit the website. For example, cookies can make it possible for us to identify and automatically log in registered users of certain services on the website without the need for us to ask users for their registration details and password each time they visit. We also use cookies to develop a clearer picture of which parts of the website are the most popular to its visitors, and your preferences. Cookies are also used in behavioural advertising to identify users who share a particular interest so that they can be served more relevant adverts.
+
+If you wish to know more about cookies and how companies like Haymarket use them, please visit [www.youronlinechoices.com](http://www.youronlinechoices.com/). Information on this website will assist you in exercising your privacy rights providing guidance on how to opt-out of future access or continued storage of information via cookies.
+
+**_9\. Contacting Haymarket about this Privacy Policy_**
+
+If you have any further questions or comments concerning your privacy, please contact;
+
+MAIL:
+
+Data Protection Officer  
+Haymarket Media Group  
+Teddington Studios  
+Teddington  
+Middlesex  
+TW11 9BE
+
+EMAIL:  
+[datacontroller@haymarket.com](mailto:datacontroller@haymarket.com)
