@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fuckmymommyandme.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228072335id_/http%3A//www.fuckmymommyandme.com/cimages/legal/privacy.html%3Fsite%3Dfuckmymommyandme) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fuckmymommyandme.com privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610091103id_/http%3A//www.fuckmymommyandme.com/cimages/legal/privacy.html%3Fsite%3Dfuckmymommyandme) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
