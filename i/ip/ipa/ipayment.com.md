@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ipayment.com privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129052651id_/http%3A//ipayment.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipayment.com privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610150102id_/http%3A//www.ipayment.com/privacy.html) for the most accurate reproduction.*
 
-# CORE Business Technologies
+# CORE Business Technologies: Revenue, Document, Network, Management: Privacy Policy
 
 At CORE Business Technologies, we understand that our customers are our most important asset, so we do everything we can to protect you and respect your privacy as you visit our site. To learn more about how we keep your information safe and secure, read our privacy policy.
 
