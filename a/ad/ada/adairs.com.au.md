@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adairs.com.au privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231234308id_/https%3A//adairs.com.au/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adairs.com.au privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610040351id_/http%3A//adairs.com.au/privacy-statement) for the most accurate reproduction.*
 
 # Adairs - Privacy Statement
 
