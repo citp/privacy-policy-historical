@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the osa.org privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219022434id_/http%3A//osa.org/About_Osa/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the osa.org privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610141420id_/http%3A//www.osa.org/About_Osa/privacy_policy.aspx) for the most accurate reproduction.*
 
 # About OSA
 
