@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the dealseekingmom.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223224206id_/http%3A//dealseekingmom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealseekingmom.com privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610082830id_/http%3A//dealseekingmom.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-Would you like to have these great bargains delivered right to your inbox? Join over 65,000 fellow deal seekers and [subscribe to Deal Seeking Mom](http://dealseekingmom.com/subscribe-to-the-blog/). Also become a [fan of Deal Seeking Mom](http://facebook.com/dealseekingmom) on Facebook for more conversation, additional deals and a peek at the freebies I receive in the mail. Thanks for visiting!
 
 ### **:: Our Commitment to Privacy**
 
