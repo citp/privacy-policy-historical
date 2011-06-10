@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the gild.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228073733id_/http%3A//www.gild.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gild.com privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611013724id_/http%3A//www.gild.com/privacy) for the most accurate reproduction.*
 
-# Gild - Global Tech Elite:
-
-### Privacy Policy
+# GILD - Privacy Policy
 
 The Professional Aptitude Council understands that privacy is important. This Privacy Policy applies to any and all services, applications, platforms, websites, or other affiliated ventures offered by the Professional Aptitude Council. Throughout this Policy, “PAC” and “We” refers to the Professional Aptitude Council and its affiliates. “You” or “Users” refers to you, our users – everyone who uses, subscribes to, publishes through, joins, or visits PAC. The “PAC Service” refers to the applications, platform, web site and services controlled, operated or produced by PAC.
 
