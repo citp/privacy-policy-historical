@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the effectivemeasure.net privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122115618id_/http%3A//www.effectivemeasure.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the effectivemeasure.net privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610185818id_/http%3A//www.effectivemeasure.com/privacy-policy) for the most accurate reproduction.*
 
 # Effective Measure - Privacy Policy
 
