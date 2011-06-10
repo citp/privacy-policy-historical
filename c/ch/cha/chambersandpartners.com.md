@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the chambersandpartners.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122090047id_/http%3A//www.chambersandpartners.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chambersandpartners.com privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610051856id_/http%3A//www.chambersandpartners.com/Privacy) for the most accurate reproduction.*
 
-# Chambers Partners - Privacy
+# Privacy - Chambers Partners
 
 ## Why Do We Need a Privacy Statement?
 
@@ -16,24 +16,41 @@ From time to time, Chambers and Partners may send e-mail notices about new servi
 
 ### Chambers News
 
+_Chambers Europe_ held a 'Meet the Editors' event at the Hotel National in Moscow. To view presentation visit Europe's [submission process.](https://web.archive.org/pdfs/EuroSubmissionProcess2011.ppt)
+
+_Chambers Global 2011_ is now available. To view click [here](http://www.chambersandpartners.com/Global).
+
+_Chambers Asia-Pacific 2011_ is now available. To view click [here](http://www.chambersandpartners.com/Asia).
+
 _Chambers UK 2011_ is now available. To view click [here](http://www.chambersandpartners.com/UK).
 
-September 30th, Chambers hosted 'The Bar Awards 2010' in London. To view the full list of winners, click [here](http://www.chambersandpartners.com/Awards/Bar#.jpg). 
+September 30th, Chambers hosted 'The Bar Awards 2010' in London. To view the full list of winners, click [here](http://www.chambersandpartners.com/Awards/Bar#.jpg).
 
-_Chambers Latin America 2011_ is now available. To view click [here](https://web.archive.org/Latin-America)
+_Chambers Latin America 2011_ is now available. To view click [here](http://www.chambersandpartners.com/Latin-America)
 
 September 16th, _Chambers Latin America_ hosted the second 'Awards for Excellence' in Miami. To view the Winners list, click [here](http://www.chambersandpartners.com/Awards/Latin-America).
 
+Our Hong Kong office has moved. The new address is as follows:
+
+Office B, 18th Floor, Ho Lee Commercial Building,
+
+38-44 D'Aguilar Street, Central, Hong Kong
+
+Please contact [Shi-Ning Koay](mailto:Shi-NingK@Chambersandpartners.co.uk) for more details.
+
 ### Future Events
 
-November 16th:  
- _Chambers UK_ will host a 'Meet the Editors' event in Edinburgh. 
+**9 June 2011:**  
+Chambers USA Awards 2011, New York.
 
-November 17th:   
-_Chambers UK_ will host a 'Meet the Editors' event in Manchester.
+**10 June 2011:**  
+Launch of _Chambers USA 2011_
 
-November 18th:  
- _Chambers UK_ will host a 'Meet the Editors' event in Birmingham.
+**13 June 2011:**  
+ _Chambers USA 2011_ \- Meet the Editors in Chicago
 
-November 25th:  
- _Chambers Europe_ will host a 'Meet the Editors' event from 1 to 3 pm at the Hotel National in Moscow. The event is free of charge. 
+**29 September 2011:**  
+Chambers Latin America Awards 2011 in Miami, Florida.
+
+**27 October 2011:**  
+The Chambers Bar Awards 2011, London.
