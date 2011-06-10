@@ -1,95 +1,157 @@
-> *The following text is extracted and transformed from the momcentral.com privacy policy that was archived on 2006-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060509054710id_/http%3A//www.momcentral.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the momcentral.com privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610025121id_/http%3A//www.momcentral.com/privacy-policy) for the most accurate reproduction.*
 
-# Mom Central | Privacy Policy
+# Privacy Policy | Mom Central
 
-[](http://www.momcentral.com/)
+Mom Central
 
-**PRIVACY POLICY**
+[http://www.momcentral.com](http://www.momcentral.com/ "http://www.momcentral.com")
 
-We are committed to protecting the privacy and security of the users of our sites. This privacy policy will advise you about how we protect your personal information, and about what choices you have concerning our use of such information. Please read this policy carefully. We may need to change this policy from time to time in order to address new issues and reflect changes on our sites. We will post those changes here so that you will always know what information we gather, how we might use that information, and whether we will disclose that information to anyone. Please refer back to this policy regularly. 
+Effective Date 2/4/11
 
-If you have any questions or concerns about our privacy policy, please send us an e-mail at [privacy@momcentral.com](mailto:privacy@momcentral.com). 
+Mom Central has developed this Privacy Policy as a commitment to each of our valued members to respect your privacy. This Privacy Policy is intended to describe for you, as an individual who is a user of Momcentral.com or a user of our other entities, or who otherwise provides us with information through various means, the information we collect, how that information may be used, with whom it may be shared, and your choices about such uses and disclosures.
 
-**SCOPE OF PRIVACY POLICY**
+We encourage you to be familiar with this Privacy Policy. Each user of Mom Central's website, or other properties is subject to this Privacy Policy, and your use thereof signifies your acceptance of its terms and agreement to be bound thereby.
 
-This policy applies to your use of all of the sites and services owned or operated by Ideas Squared, Inc., and affiliated companies (collectively "Mom Central" or "we," "us," or "our"), including momcentral.com, parentcentral.com, dadcentral.com, mrmomcentral.com and any other site that we may own or operate in the future (collectively, the "Mom Central Sites"). Unless we say otherwise, all references to the Mom Central in this policy include all such sites. This policy does not apply to your use of unaffiliated sites to which any of the Mom Central only links. 
+At the end of this Privacy Policy, there is information on how to contact us in the event you have any questions. If you have any questions about our privacy practices, please refer to the end of this Privacy Policy for information on how to contact us.
 
-**PERSONAL IDENTIFICATION INFORMATION**
+**_Information We Collect and How We Use It_**
 
-Mom Central may request Personal Identification Information from you in connection with your use of, or participation in, any features of our web site, www.momcentral.com, or any of our affiliate sites including www.dadcentral.com, www.parentcentral.com, and www.mrmomcentral.com, including but not limited to registrations, content submissions, chats, newgroups, forums, bulletin boards, postings, surveys, focus groups, discussion groups, give-aways, contests, sweepstakes, requests for information, personal data shared or stored on the site, your requests for free products or services or additional information, and in connection with other activities, services, or resources that we make available on our site. 
+**Information You Provide Us.**
 
-Your use of momcentral.com is a consent to the foregoing use of your Personal Identification Information by Mom Central. Mom Central also may share your Personal Identification Information with select companies and organizations for their own marketing and promotional use. While Mom Central seeks to share Personal Identification Information with companies that follow appropriate privacy policies, we do not bear any responsibility for the actions and policies of such third parties. 
+Mom Central collects personal information from you when you register with our site, update your profile, interact with other members, and use various features of our site. To register with Mom Central, you must provide your name and e-mail address, and may also provide your date of birth and zip code.
 
-**HOW WE COLLECT INFORMATION**
+We also may request and retain information about your interests and activities, your opinion about products and services that we offer or are offered by a third party, your demographic information, your interaction with other users, and your use of the website. From time to time, we may ask you to respond to surveys or other requests for information, and we'll collect the information you provide. We may also collect information from you when you participate in giveaways and promotions offered on our Site.
 
-Many of the ways in which you interact with momcentral.com allows us to learn more about you. We collect and store statistics and other information about the online activities of our visitors on an aggregated (collective) basis. For example, we track the number of people who view each page to learn which features are the most popular. In those instances where we do collect Personal Identification Information, you have the option of choosing to reveal it to us or to one of the vendors in our Network. In the event of a complaint, we may also receive Personal Identification Information about you from other parties in our Network or from other users or third parties who may communicate information to us about you in relation to that complaint. 
+**Information Other Sources Provide Us.**
 
-Momcentral.com may request Personal Identification Information from you in connection with your use of, or participation in, our contests, sweepstakes, games, surveys, forums, subscription registrations, content submissions, chats, bulletin boards, discussion groups, requests for suggestions, visitors' requests for free products or services or additional information, and in connection with other activities, services or resources we make available on any of our sites. In all of these cases, we will collect personal identification information from you only if you voluntarily submit such information to us. 
+We may also periodically obtain both personal and non-personal information about you from business partners, contractors, other third parties and public resources, and add it to other information we have collected.
 
-**HOW WE USE AND DISCLOSE YOUR INFORMATION**
+All personally identifiable information that we collect may become part of your Mom Central profile, and may be used by Mom Central as provided in this Privacy Policy or as disclosed at the time you provide the information or as otherwise agreed by you.
 
-As a general practice, we do not sell your Personal Identification Information to third parties. For example, we do not sell your email addresses or your name and personal demographic information to mass marketers. However, on particular pages where we ask for your Personal Identification Information, we may explicitly tell you that the data we are collecting on that page will be shared with third parties, in which case those disclosures shall override anything to the contrary in this policy. For example, before you submit answers to questions we ask in an advertiser-sponsored promotion, we will tell you that your answers will be shared with that advertiser. Similarly, if you tell us on our registration page that you want information from related sites or organizations, we will, using our discretion, make that information available to our corporate strategic partners. 
+**Information You Provide Us About Others.**
 
-We use your information on an aggregated basis to do such things as operate our site, enhance our site, and sell and deliver advertising. We also use this data, both aggregated and personally identifiable, to enhance your on-site experience by displaying content and marketing messages that we believe will be of interest to you. We disclose aggregated information about our site to third parties. 
+We may also collect and store personal information about other people that you provide to us. If you use our website to send others (friends, relatives, colleagues, etc.) a product as a gift, information that may interest them or messages (such as invitations) through our system, we may store your personal information and the personal information of each such recipient.
 
-If you do provide us with Personal Information, we may use it to conduct the activities described above and for internal marketing and promotional purposes. On occasion, for example, we may send you e-mails to introduce a product or service that we think might be of interest to the users of our sites. If you do not want to receive our e-mails, or do not want us to use your personal information for any of our internal or other purposes, we will give you an opportunity to "opt-out" when our request for your personal information is made. You may "opt-out" at any time, even after you have provided personal information, by following the procedures set forth below at the end of this Privacy Policy. As a user of our site, you must recognize, however, that under certain circumstances, if you choose to "opt-out" you may not be eligible for certain benefits for which a name, e-mail address, telephone number or other personal identification information is needed. 
+**_Use of Other Technology To Collect Information_**
 
-In some situations, we share your Personal Identification Information with third parties who provide services to our Network in order to enhance the functionality available to you as part of the Network, and to provide you with new products and services such as email and member pages. 
+**Web Log Files.**
 
-Note that some online activities you choose to do necessarily lead to disclosure of your Personal Identification Information to third parties, such as when you include your name and email address in a postcard or when you order merchandise. In these cases, again, your choice to disclose Personal Identification Information is voluntary. 
+As is true of most websites, we gather certain information automatically and store it in log files. This information includes Internet protocol (IP) addresses, browser type and language, Internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.
 
-Momcentral.com reserves the right to offer you third party services and products based on the preferences that you identify during the registration process and based on your subsequent preferences; such offers may be provided to you by momcentral.com. 
+We use this information to analyze trends, to administer the website, to track users’ movements around the Website, and to gather demographic information about our user base as a whole. We may also use individual information we collect through web logs to send you targeted offers and other communications.
 
-Momcentral.com reserves the right to terminate your momcentral.com e-mail account if momcentral.com learns that you have provided momcentral.com with false or misleading registration information. 
+**Cookies**.
 
-**EXCEPTION TO PERMISSIBLE INFORMATION POLICY**
+When you visit our website, we may assign your computer one or more cookies, to facilitate access to our site, personalize your online experience, and help provide information that is relevant to you.
 
-We have two exceptions to these policies: We will release specific information about you or your account to comply with any valid legal process such as a search warrant, subpoena, statute, or court order. We will also release specific information in special cases, such as when there is a physical threat to you or others. Please note that if you give out personal information online -- for example, through a bulletin board or chat room -- that information can be collected and used by third parties. Although we strive to protect our users' privacy, we cannot guarantee the security of information you post in these forums. You disclose such information at your own risk. 
+A cookie is a small text file that is stored on a user’s computer for record keeping purposes. Cookies can be either session cookies or persistent cookies. A session cookie expires when you close your browser and is used to make it easier for you to navigate our website. A persistent cookie remains on your hard drive for an extended period of time. You may delete or decline cookies by changing your browser settings. (Click “Help” in the toolbar of most browsers for instructions.) If you do so, some of the features and services of our website may not function properly.
 
-**REGISTRATION AND PASSWORD**
+Through the use of a cookie, we also may automatically collect information about your online activity on our site, such as the web pages you visit, the links you click, and the searches you conduct on our site. Most browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies. If you choose to decline cookies, please note that you may not be able to use some of the interactive features offered on our website.
 
-Your Mom Central Account may become password protected so that only you can access it and view the member information relevant to the account. We recommend that you do not divulge your password to anyone. Mom Central and Ideas Squared, Inc. will never ask you for your password in an unsolicited phone call or email. Ultimately, you are responsible for maintaining the secrecy of your passwords and any account information. 
+Some of our business partners (e.g., advertisers) use cookies on the website. We have no access to or control over these cookies. [See the “Third Parties” section.]
 
-When you register for Mom Central, you will be required to provide the following information: your name, address, email address, age, and number of children. In addition, Mom Central will ask you to provide additional information, including: your employment status and type of employment, parenting status, household income, education level, whether or not you own Mom Central: The Ultimate Family Organizer, and whether or not you would like to receive Mom Central mailings or mailings from our affiliate sites and sponsors. 
+**Clear Gifs (Web Beacons/Web Bugs)**
 
-**CONTROLLING OR CHANGING YOUR INFORMATION**
+We employ a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on web pages and are about the size of the period at the end of this sentence. Information gathered by clear gifs may be tied to our members’ personally identifiable information.
 
-You can update your personal information, including changing your subscriptions to our email newsletters, by sending us the instructions at [edits@momcentral.com](mailto:edits@momcentral.com). 
+Clear gifs may be used to deliver or communicate with cookies, to count users who have visited certain pages and to understand usage patterns. We also may receive an anonymous identification number if you come to our site from an online advertisement displayed on a third-party website. We also use clear gifs in our HTML-based e-mails to let us know which e-mails recipients have opened. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns.
 
-**OPTING OUT**
+**_Uses of Information_**
 
- 
+**In General.**
 
-If you do not want to receive our Mom Central newsletters or e-mails, do not want us to use your personal information for any of our internal purposes or other purposes, or do not want this information to be shared with third parties, you may "opt out" by emailing us such a request at [membership@momcentral.com](mailto:membership@momcentral.com). 
+We may use information that we collect about you to create and manage your member profile, feature you in one or more areas of our site, communicate with you by e-mail, postal mail, telephone and/or mobile devices about products or services that may be of interest to you either from us or other third parties, develop and display content and advertising tailored to your interests on our site and on other sites, perform research and analysis about your use of, or interest in, our products, services, or content, or products, services or content offered by others, administer contests and giveaways, enforce our terms and conditions, and manage our business. If other uses are contemplated for information we are asking you to provide, they will be described to you at the time of collection.
 
-**SUBMISSION POLICY**
+Mom Central has the right, but not the obligation, to monitor any activity and content associated with the public and private forums and interactive areas on our Site. Please review our Terms of Service for more information regarding your appropriate use of these areas.
 
-By communicating through Mom Central forums, uploading files or data onto momcentral.com or any of our affiliate sites, or otherwise providing information on or through the momcentral.com (each, a "Submission"), you are granting Mom Central and Ideas Squared, Inc. a royalty-free, perpetual, non-exclusive, worldwide license to: (1) use, copy, adapt, transmit, publicly perform, display or distribute the Submission and otherwise exploit any and all proprietary rights in the Submission, including, without limitation, any applicable copyright, trademark, service mark or patent rights under relevant jurisdiction; and (2) sublicense to any third party the right to exercise any of the foregoing rights. This license is subject only to the restrictions regarding Personal Identification Information set forth in the Privacy Policy. 
+**_Sharing of Your Information_**
 
-**NON-PERSONAL IDENTIFICATION INFORMATION AND THE USE OF COOKIE TECHNOLOGY**
+**Personal information.**
 
-We may collect non-personal identification information through the use of "cookie" technology and/or IP address tracking. Non-personal identification information might include the browser you use, the type of computer, the operating systems, the Internet service providers and other similar information. Our system may also automatically gather information about the areas you visit on our sites and about the links you may select from within our site to other areas of the World Wide Web or elsewhere online. 
+We do not share your personal information with others except as indicated below or when we inform you and give you an opportunity to opt out of having your personal information shared.
 
-We use such information in the aggregate to understand how our users as a group use the services and resources provided on our sites. This way we know which areas of our sites are favorites of our users, which areas need improvement, and what technologies are being used so that we may continually improve our sites. We may share this aggregate statistical information with our partners, suppliers and other third parties, but in no event will we share any individual names, navigational or other personal information. Some of our advertisers may display ads on our sites which solicit or contain technology to collect information about our users for the advertisers, but we will not permit such advertisers to collect any personal information from our users within our sites Most browsers are set to accept cookies. You can set yours to refuse cookies, or to alert you when cookies are being sent. If you do so, please note that some parts of the Mom Central Sites, such as shopping, contest, and game areas, may not function properly. 
+We may share your personal information with our authorized service providers that perform certain services on our behalf. These services may include processing credit card payments, delivering packages, providing customer service and marketing assistance, performing business and sales analysis, supporting our website functionality, and supporting contests, giveaways, surveys and other features offered through our website, by phone, or by mail. These service providers may have access to personal information needed to perform their functions but are not permitted to share or use such information for any other purpose.
 
-**SECURITY POLICY**
+When you engage in promotions offered through our website or other services, we may share personal information with the businesses with which we partner to offer you those products, services, promotions, contests and/or giveaways. When you elect to engage in a particular merchant’s offer or program, you authorize us to provide your e-mail address and other information to that merchant.
 
-The importance of security for all Personal Identification Information associated with our guests is of utmost concern to us. We exercise great care in providing secure transmission of your information from your PC to our servers. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, Ideas Squared, Mom Central and our affiliate sites cannot ensure or warrant the security of any information you transmit to us or from our online products or services, and you do so at your own risk. Once we receive your transmission, we make our best effort to ensure its security on our systems. If credit card information is transmitted, we will use industry standard, SSL (secure socket layer) encryption. 
+Any third parties to whom we may disclose personal information may have their own privacy policies, which describe how they use and disclose personal information. Those policies will govern use, handling and disclosure of your personal information once we have shared it with those third parties as described in this Privacy Policy. If you want to learn more about their privacy practices, we encourage you to visit the websites of or to otherwise contact those third parties. These entities or their servers may be located either inside or outside the United States.
 
-Remember to sign out of your Mom Central Account and close your browser window when you have finished your work. This is to ensure that others cannot access your personal information and correspondence if your computer is accessible to others or if you share a computer with someone else or are using a computer in a public place. 
+**Aggregated and Non-Personal Information.**
 
-**USE OF IP ADDRESS**
+We may share aggregated and non-personal information we collect on the site. We may also share it with third parties to develop and deliver targeted marketing on our websites, on websites of third parties, or by other means. We may combine non-personal information we collect with additional non-personal information collected from other sources. We also may share aggregated information with third parties, including advisors, advertisers and investors, for the purpose of conducting general business analysis. For example, we may tell our advertisers the number of visitors to our website and the most popular features or services accessed. This information does not contain any personal information and may be used to develop website or other content and services that we hope you and other customers will find of interest and to target content and advertising.
 
-An IP address is a number that is automatically assigned to your computer whenever you're surfing the Web. Some services within Mom Central, such as certain message boards, may display IP addresses along with the message poster's name and message. Please review each service prior to use and only use those that disclose information you are comfortable with sharing. 
+**Legal Matters; Safety.**
 
-**LINKS TO OTHER SITES**
+We may, without your consent, access and disclose your information, any communications sent or received by you, and any other information that we may have about you or your account as may be permitted or required by law (including, but not limited to, court order or subpoena), or to prevent or investigate suspected fraud, violations of our Terms of Service, or activity that appears to us to be illegal or may expose us to legal liability. Additionally, we may disclose your information in situations that we believe to be emergencies involving potential threats to the physical safety of any person or property if we believe that your information in any way relates to that threat.
 
-Users should be aware that when you are on momcentral.com, you could be directed to other sites that are beyond our control. There are links to other sites Mom Central pages that take you outside our service. For example, if you "click" on a banner advertisement or a Mom Central search result, the "click" takes you off the Mom Central site. This includes links from advertisers, corporate sponsors, and partners that may Mom Central's logo as part of a co-branding agreement. These other sites may send their own cookies to users, collect data or solicit personal information. 
+**Sale of Business or Assets.**
 
-Please keep in mind that whenever you give out personal information online -- for example, via message boards or chat -- that information can be collected and used by people you don't know. While Ideas Squared and Mom Central strive to protect its user's personal information and privacy, we cannot guarantee the security of any information you disclose online and you do so at your own risk. 
+In the event that Mom Central, substantially all of its assets, or a line of business are acquired or merged with another company, personally identifiable information of our members may be one of the assets sold or merged in connection with that transaction. Mom Central will notify our members of such a change in ownership or transfer of assets by posting a notice on our site.
 
-Mom Central's policy do not extend to anything that is inherent in the operation of the Internet, and therefore beyond Ideas Squared and Mom Central's control, and is not to be applied in any manner contrary to applicable law or governmental regulation. 
+**_Communications from the Website_**
 
-We hope this policy clarifies our procedures regarding your personal information. We at the Mom Central encourage you to learn as much as you can about your privacy on the Internet.   
-  
-Copyright 1998-2003 Mom Central, Inc. All rights reserved.
+**Special Offers and Updates.**
+
+We consistently have the opportunity to send you information on products, services, special deals, and promotions offered by Mom Central and/or a third party. In cases where Mom Central is presenting an offer by a third party, the offer will be brought to you by Mom Central and typically fulfilled by the third party. If you accept the offer, you will become a customer of the company that is fulfilling the offer and we will not have control over their use of the personally identifiable information that you provide to them when you accept the offer.
+
+**E-Mail and Newsletters.**
+
+Mom Central may use your information to send you e-newsletters, updates and communications about Mom Central. You may opt-out of receiving future emails as described at the bottom of each communication from Mom Central. If you don’t want to opt-out of all communications be sure to select ‘Update Profile and Subscription Preferences’ instead of ‘Unsubscribe From All Emails’. Unsubscribing from all emails, ultimately removes you from program participation as well.
+
+**Service-Related Announcements.**
+
+We will send you strictly service-related announcements on rare occasions when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance, we might send you an email.
+
+**_Customer Service_**
+
+Based upon the personally identifiable information you provide us, we will send you a welcoming e-mail to verify you. We will also communicate with you in response to your inquiries, to provide the services you request, and to manage your account. We will communicate with you by e-mail or telephone, in accordance with your wishes
+
+**_Third Parties_**
+
+**Ad Servers.**
+
+We may use third party advertising service providers and/or technologies to serve ads when you visit our website, or in our e-mail newsletters. If your browser is set up to accept cookies, our third-party advertising service providers and/or technologies may place cookies or web beacons on your computer when you visit our Site or interact with our email messages. Please note that this happens whether or not you click on an advertisement placed by these companies.
+
+**Surveys/Contests.**
+
+We may use a third-party service provider to conduct surveys or contests; that company will be prohibited from using our users’ personally identifiable information for any other purpose.
+
+**Links to Other Sites**
+
+The Website contains links to other sites that are not owned or controlled by Mom Central. Please be aware that the Mom Central is not responsible for the privacy practices of such other websites.
+
+We encourage you to be aware when you leave Mom Central's website, and to read the privacy statements of each and every website that collects personally identifiable information.
+
+**Access to Personally Identifiable Information**
+
+If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, delete or deactivate it by making the change on your member profile page, or by e-mailing us at [contactus@momcentral.com](mailto:contactus@momcentral.com) or by contacting us by telephone or postal mail at the contact information listed below. We are, however, unable to update or delete any of your personally identifiable information that has been shared with a third party as permitted in this Privacy Policy.
+
+**Opt-out**
+
+If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by e-mailing us at [contactus@momcentral.com](mailto:contactus@momcentral.com), or through the contact information, below. If you don’t want to opt-out of all communications be sure to select ‘Update Profile and Subscription Preferences’ instead of ‘Unsubscribe From All Emails’. Unsubscribing from all emails, ultimately removes you from program participation as well.
+
+**Security**
+
+Mom Central has taken appropriate security measures (including physical, electronic and procedural measures) to help safeguard your personal information from unauthorized access and disclosure. In addition, we use encryption in the transmission of your sensitive personal information between your system and ours, and we use firewalls to help prevent unauthorized persons from gaining access to your personal information.
+
+We want you to feel confident using our website, but no system can be completely secure. So although we take steps to secure your information, we do not promise, and you should not expect, that your personal information, searches, or other communications will always remain secure. You should also take care with how you handle and disclose your personal information.
+
+**Children’s Privacy**
+
+We are committed to protecting the privacy of children. You should be aware that the Website is not intended or designed to attract children under the age of 13. We do not collect personally identifiable information from any person we actually know is a child under the age of 13.
+
+**Changes in this Privacy Statement**
+
+If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by e-mail, or by means of a notice on our home page.
+
+**International Users**
+
+The Mom Central web site is hosted in the United States. If you are using the website from outside the United States, by providing your information to this site, you are consenting to the transfer of your information to the United States for processing and maintaining in accordance with this Privacy Policy and our Terms of Use. You are also consenting to the application of United States law in all matters concerning this Site.
+
+Mom Central also has an office in Toronto, Canada. When Canadian moms pass through their information to us via The Website, we in turn send it to our office in Canada for that person to receive appropriate communications specific to Canadian moms.
+
+**Contact Us**
+
+If you have any questions or suggestions regarding our privacy policy, please contact us at: 77 Chapel Street Newton, MA 02458; 617.244.3002, [www.momcentral.com](https://web.archive.org/web/20110610025121id_/http%3A/) email: [contactus@momcentral.com](mailto:contactus@momcentral.com)
