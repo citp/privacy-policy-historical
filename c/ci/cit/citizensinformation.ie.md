@@ -1,21 +1,20 @@
-> *The following text is extracted and transformed from the citizensinformation.ie privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528113048id_/http%3A//www.citizensinformation.ie/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citizensinformation.ie privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610024336id_/http%3A//www.citizensinformation.ie/en/privacy.html) for the most accurate reproduction.*
 
-# Privacy Statement-Information from CitizensInformation.ie
+# Privacy Statement
 
-The CitizensInformation website is maintained by the Citizens Information Board, a statutory agency responsible for providing information, advice and advocacy services to the public in Ireland. The Citizens Information Board fully respects your right to privacy, and will not collect any personal information about you on this website without your clear permission. Any personal information which you volunteer will be treated with the highest standards of security and confidentiality, strictly in accordance with the Data Protection Acts, 1988-2003.
+The citizensinformation.ie website is maintained by the Citizens Information Board, a statutory agency responsible for providing information, advice and advocacy services to the public in Ireland. The Citizens Information Board fully respects your right to privacy, and will not collect any personal information about you on this website without your clear permission. Any personal information which you volunteer will be treated with the highest standards of security and confidentiality, strictly in accordance with the Data Protection Acts, 1988-2003.
 
 This statement relates to our privacy practices in connection with this website. We are not responsible for the content or privacy practices of other websites. Some technical terms used in this statement are explained at the end of this page.
 
 ## Collection and use of personal information
 
-The CitizensInformation website does not collect any personal data, apart from information that you volunteer. (For example, when providing feedback or asking a question). Any information you provide in this way is used only for the purpose you provide it.
+The citizensinformation.ie website does not collect any personal data, apart from information that you volunteer. (For example, when providing feedback or asking a question). Any information you provide in this way is used only for the purpose you provide it.
 
-### Information we routinely collect  
+### Information we routinely collect
 
+We may collect the following information from each user of this site:
 
-We may collect the following information from each user of this site: 
-
-  * Statistical information (IP address and hostname, browser version, pages visited etc.). 
+  * Statistical information (IP address and hostname, web browser version, pages visited etc.). 
   * The previous website address from which you reached us, including any search terms used 
   * Other information submitted in forms, for example if you submit your personal details when requesting a form or providing feedback 
 
@@ -45,12 +44,16 @@ Fax: +353 1 6059099
 
 ### Web Browser 
 
-The piece of software you use to read web pages. Examples are Microsoft Internet Explorer, Netscape Navigator and Opera. 
+The piece of software you use to read web pages. Examples are Microsoft Internet Explorer, Mozilla Firefox and Opera. 
 
 ### IP Address
 
-The identifying details for your computer (or your internet companys computer), expressed in "internet protocol" code (for example 192.168.72.34). Every computer connected to the web has a unique IP address, although the address may not be the same every time a connection is made.
+The identifying details for your computer (or your internet companys computer), expressed in internet protocol code (for example 192.168.72.34). Every computer connected to the web has a unique IP address, although the address may not be the same every time a connection is made.
 
 ### Cookies
 
-Small pieces of information, stored in simple text files, placed on your computer by a web site. Cookies can be read by the web site on your subsequent visits. The information stored in a cookie may relate to your browsing habits on the web page, or a unique identification number so that the web site can "remember" you on your return visit. Generally speaking, cookies do not contain personal information from which you can be identified, unless you have furnished such information to the web site.
+Small pieces of information, stored in simple text files, placed on your computer by a web site. Cookies can be read by the web site on your subsequent visits. The information stored in a cookie may relate to your browsing habits on the web page, or a unique identification number so that the web site can 'remember' you on your return visit. Generally speaking, cookies do not contain personal information from which you can be identified, unless you have furnished such information to the web site.
+
+## Contact Us
+
+If you have a question relating to this topic you can contact the Citizens Information Phone Service on lo-call 1890 777 121* or on +353 (0) 21 452 1600 (Monday to Friday, 9am to 9pm) or you can visit your local [Citizens Information Centre](http://centres.citizensinformation.ie/). *Please note that the rates charged for the use of 1890 numbers may vary among different service providers.
