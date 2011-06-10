@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigpoint.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223071121id_/http%3A//us.bigpoint.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigpoint.com privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610055322id_/http%3A//us.bigpoint.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
