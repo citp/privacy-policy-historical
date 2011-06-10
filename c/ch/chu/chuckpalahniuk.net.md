@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chuckpalahniuk.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611213744id_/http%3A//chuckpalahniuk.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chuckpalahniuk.net privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610123514id_/http%3A//chuckpalahniuk.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | The Cult
 
@@ -40,4 +40,4 @@ We may disclose personal information to third parties we engage to provide servi
 
 **Contacting the Web Site:**
 
-If you have any questions about this Privacy Policy, the practices of this Site, or your dealings with this Site, you can contact our Web Site Administrator at [webmaster@chuckpalahniuk.net](mailto:webmaster@chuckpalahniuk.net) or A Writer's Cult, LLC, 3657 Mentone Avenue, #4, Los Angeles, CA 90034, USA.
+If you have any questions about this Privacy Policy, the practices of this Site, or your dealings with this Site, you can contact our Web Site Administrator at [webmaster@chuckpalahniuk.net](mailto:webmaster@chuckpalahniuk.net) or A Writer's Cult, LLC, 2269 Beachwood Dr., #207, Los Angeles CA 90068, USA.
