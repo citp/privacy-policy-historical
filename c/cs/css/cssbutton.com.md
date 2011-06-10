@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cssbutton.com privacy policy that was archived on 2010-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101117132757id_/http%3A//cssbutton.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cssbutton.com privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610141517id_/http%3A//cssbutton.com/privacy) for the most accurate reproduction.*
 
-# CSS button | Using CSS to style your web buttons and widgets
+# Privacy | CSS Button
 
 ### Privacy Policy for cssbutton.com
 
@@ -12,7 +12,7 @@ Like most standard Web site servers we use log files. This includes internet pro
 
 #### Cookies
 
-A cookie is a piece of data stored on the user's computer tied to information about the user. Our site does not use cookies. However, Some of our business partners use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies, once we have given permission for them to set cookies for advertising.
+A cookie is a piece of data stored on the user’s computer tied to information about the user. Our site does not use cookies. However, Some of our business partners use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies, once we have given permission for them to set cookies for advertising.
 
 #### Links
 
