@@ -1,55 +1,67 @@
-> *The following text is extracted and transformed from the hithere.com privacy policy that was archived on 2007-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070219005424id_/http%3A//www.hithere.com/static_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hithere.com privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611001751id_/http%3A//www.hithere.com/about/policy.php) for the most accurate reproduction.*
 
-# HiThere.com
+# Privacy policy | HiThere - World Leading Webgame Developer and Operator
 
-## HiThere.Com Privacy Policy
+Your privacy is critically important to us. At HiThere we have a few fundamental principles: 
 
-### Effective Date: September 29, 2006
+● We don’t ask you for personal information unless we truly need it. We don’t share your personal information with anyone except to comply with the law, develop our products, or protect our rights.
 
-HiThere.com values your privacy. We recognize that you may be concerned about our collection, use, and disclosure of the personally identifiable information ("Personal Information") that we collect when you use the Website and the services offered on the Website ("HiThere.com Services"). This Privacy Policy describes how we use and protect your personal information. By using the website you are accepting the practices described in this Privacy Policy. If you have any questions or comments regarding this Privacy Policy, please contact us at [ privacy@hithere.com](mailto:privacy@hithere.com).
+● We don’t store personal information on our servers unless required for the on-going operation of one of our services.
 
-### General
+If you have questions about accessing or correcting your personal data please contact our customer service team. It is Hithere’s policy to respect your privacy regarding any information we may collect while operating our websites. Below is our privacy policy which incorporates these goals: 
 
-Personal Information. We collect Personal Information that you provide to us, such as your name, mailing address, phone number, email address, credit card number, and financial information.
+  
 
-Non-Personal Information. We also collect non-personal information from you, such as your browser type, the URL of the previous website you visited, your ISP, operating system, and your Internet protocol (IP) Address ("Non-Personal Information"). Non-Personal Information cannot be easily used to personally identify you.
 
-### Use of information
+###  Website Visitors 
 
-When you register, we ask for your personal information and other information that we request during the registration process. If you communicate with us regarding the Website or the HiThere.com Services, we will collect any information that you provide to us in any such communication.
+Like most websites, HiThere collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. HiThere’s purpose in collecting non-personally identifying information is to better understand how HiThere’s visitors use its website. From time to time, HiThere may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website. HiThere also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users. HiThere only discloses logged in user IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below. 
 
-Like the operators of most websites, we may record Non-Personal Information such as Internet domain and host names, Internet protocol (IP) addresses, browser software, operating system types, clickstream patterns, and the dates and times that the Website and the HiThere.com Services are accessed. For instance, we may use IP addresses we collected to help diagnose technical problems or prevent abuse of our systems or other site users. Your IP address may also be used to gather aggregate demographic data and target advertisements accordingly. 
+  
 
-A cookie is a small line of text that is stored with your web browser for record-keeping purposes and to help us provide better services to you. Your browser has options to accept, reject, or provide you with notice when a cookie is set. We use cookies to save your password on your machine so you don’t have to re-enter it each time you visit our site. We also use cookies to deliver content specific to your interests and track your downloads on our website. 
 
-Personal Information. Once you give us your personal information, you consent to the transfer and storage of that information to our servers located in the United States. We use Personal Information primarily for our own internal purposes, such as providing, maintaining, evaluating, and improving the HiThere.com Services and the Website, fulfilling requests for information, producing and shipping the products that you order, and providing customer support. 
+###  Gathering of Personally-Identifying Information 
 
-Non-Personal Information. We may disclose Non-Personal Information to improve the services we offer and facilitate our marketing efforts. In addition, we may combine multiple users’ Non-Personal Information to determine which areas of the Website are most popular, and how our services are used. In analyze the aggregate information, we can use it to improve the site and also see ways to improve our services.
+Certain visitors to HiThere choose to interact with HiThere in ways that require HiThere to gather personally-identifying information. The amount and type of information that HiThere gathers depends on the nature of the interaction. For example, we ask players who sign up to play our games to provide a username and email address. Those who engage in monetary transactions with HiThere – by purchasing “HiThere Points” – are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, HiThere collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with HiThere. HiThere does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities. 
 
-### Disclosure of Your Information
+  
 
-Third Parties. We do not control the privacy policies of our advertisers or other third parties that have Web sites linked to the Site. If you click on an advertisement or link, the privacy policies of the Web site that you link to will govern the use of your information by that Web site's operator. We assume no responsibility or liability for the actions of such third parties with respect to their use of your information or otherwise. Accordingly, make sure you are aware of and comfortable with the privacy policies of any third-party Web sites you link to. In addition, you should be aware that certain third-party services or Web sites that you link to from our Web site each have their own information collection practices and privacy policies.
 
-Disclosure Of Information In Public Areas. If you voluntarily disclose information in a public area of the Site, such as a message board, that information may be collected and used by a third party to send you unsolicited messages, advertisements or for other purposes. We do not control the actions of these third parties in public areas of the Site, so if you disclose information in a public area, you do so at your own risk.
+###  Aggregated Statistics 
 
-No Absolute Safeguards. Although we will use reasonable efforts to safeguard the privacy of your information, transmissions on the Internet cannot be made absolutely secure. Accordingly, we assume no responsibility or liability for disclosure of any of your information due to errors in transmission, unauthorized third-party access or other causes beyond our reasonable control.
+HiThere may collect statistics about the behavior of visitors to its websites. HiThere may display this information publicly or provide it to others. However, HiThere does not disclose personally-identifying information other than as described below 
 
-### Children Under 13
+  
 
-Our site is not directed to children under the age of 13. We assume products purchased through credit card means are purchased by adults. We respect the privacy of parents and children and are committed to complying with the Children Online Privacy Protection Act (COPPA). On those areas of the sites that ask for age, we do not collect personal information from individuals who identify themselves as under the age of 13 except in those limited circumstances where we believe that such collection is permitted under COPPA.
 
-If a parent believes that his or her child has submitted personal information to us, he or she can contact us at [ privacy@hithere.com](mailto:privacy@hithere.com). We will promptly delete the information upon learning that it relates to a child under the age of 13. Please note that it is possible some of this information may remain archived in web logs and back-up archives after we delete the information from its active database. 
+###  Protection of Certain Personally-Identifying Information 
 
-We believe that parents should supervise their children online activities and consider using parental control tools available from online services and software manufacturers that help provide a kid-friendly online environment. These tools can also prevent children from otherwise disclosing online their name, address and other personal information without parental permission.
+HiThere discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on HiThere’s behalf or to provide services available at HiThere’s websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using HiThere’s websites, you consent to the transfer of such information to them. HiThere will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, HiThere discloses potentially personally-identifying and personally-identifying information only in response to a subpoena, court order or other governmental request, or when HiThere believes in good faith that disclosure is reasonably necessary to protect the property or rights of HiThere, third parties or the public at large. If you are a registered user of HiThere and have supplied your email address, HiThere may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with HiThere and our products. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. HiThere takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information. 
 
-### Opt-Out
+  
 
-We provide you the opportunity to opt-out of having your Personal Information used for certain purposes. For example, if you purchase a product/service but do not wish to receive any additional marketing material from us, you can indicate your preference on our order form.
 
-If you no longer wish to receive our newsletters and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [ privacy@hithere.com](mailto:privacy@hithere.com). We also offer you an opportunity to opt-out of certain communications through the account management screen. If you need assistance you may contact us at [ privacy@hithere.com](mailto:privacy@hithere.com); or via mail sent to 731 Market Street, Suite 600, San Francisco CA 94103.
+###  Cookies 
 
-If we disclose your Personal Information to a third party in a manner that is not set forth in this Privacy Policy you will be notified so that you can make an informed choice about sharing your Personal Information with that third party.
+A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. HiThere uses cookies to help HiThere identify and track visitors, their usage of HiThere website, and their website access preferences. HiThere visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using HiThere’s websites, with the drawback that certain features of HiThere’s websites may not function properly without the aid of cookies. 
 
-### General
+  
 
-We may amend this Privacy Policy at any time by posting the amended terms on this Website. All amended terms automatically take effect 30 days after they are initially posted on this Site.
+
+###  Business Transfers 
+
+If HiThere, or substantially all of its assets were acquired, or in the unlikely event that HiThere goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquiror of HiThere may continue to use your personal information as set forth in this policy. 
+
+  
+
+
+###  Forums 
+
+As the forums are visible to the public please be aware that anything you write on the forum can and most likely will be seen by users you weren’t expecting to see what you wrote at the time you wrote it. 
+
+  
+
+
+###  Privacy Policy Changes 
+
+Although most changes are likely to be minor, HiThere may change its Privacy Policy from time to time, and in HiThere’s sole discretion. HiThere encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change. 
