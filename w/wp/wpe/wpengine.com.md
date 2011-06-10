@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the wpengine.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227100820id_/http%3A//wpengine.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpengine.com privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611010320id_/http%3A//wpengine.com/privacy) for the most accurate reproduction.*
 
-# WP Engine – Finely Tuned WordPress » Privacy
+# WP Engine
+
+### Privacy
 
 ## Privacy Policy
 
@@ -33,3 +35,19 @@ Comments and other content submitted to the Akismet anti-spam service are not sa
 ### Privacy Policy Changes
 
 Although most changes are likely to be minor, WPEngine may change its Privacy Policy from time to time, and in WPEngine’s sole discretion. WPEngine encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have a WPEngine.com account, you should also check your blog’s dashboard for alerts to these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
+
+##### Let's Talk!
+
+**Need Help?** We want to hear from you. Burning questions, snarky comments, whatever. [**Contact Us!**](https://web.archive.org/contact/)
+
+##### We Love Our Customers
+
+> “It's nice to pay someone to handle all the hosting BS that we're no good at. They're WordPress Pros.”
+> 
+> Ash Maurya, Author of "Running Lean"
+
+##### Get to Know Our Team
+
+**Aaron Brazell,** Co-Founder
+
+Aaron Brazell is the author of the WordPress Bible (Wiley), the Lead Editor of Technosailor.com and has worked on a variety of entrepreneurial endeavors. He has been an active member of the WordPress community since 2004 as a developer, user and consultant. He has advised small- and medium-sized businesses (and on occasion, an enterprise, educational institution or non-profit organization and even the military!) on innovative WordPress and social marketing solutions and guides them in strategy and business decisions pertaining to their endeavors. [Read more...](https://web.archive.org/about/)
