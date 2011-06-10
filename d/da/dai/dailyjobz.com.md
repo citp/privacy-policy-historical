@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailyjobz.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120184528id_/http%3A//www.dailyjobz.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyjobz.com privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610142722id_/http%3A//www.dailyjobz.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Dailyjobz
 
