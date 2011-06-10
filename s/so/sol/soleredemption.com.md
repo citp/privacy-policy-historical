@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soleredemption.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230161536id_/http%3A//www.soleredemption.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soleredemption.com privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610144420id_/http%3A//www.soleredemption.com/policy) for the most accurate reproduction.*
 
 # Policy
 
