@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aten-usa.com privacy policy that was archived on 2010-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101209083211id_/http%3A//www.aten-usa.com/%3Fprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aten-usa.com privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610155729id_/http%3A//www.aten-usa.com/%3Fprivacy) for the most accurate reproduction.*
 
-# ATEN | LCD KVM IP Switch Video DVI HDMI Equipment
+# ATEN | LCD KVM IP Switch Video DVI HDMI Equipment | Data Center IT Solutions
 
 Protecting your privacy is important to ATEN Technology Inc. We strive to keep your personal information confidential. By ensuring that you are aware of and understand the ATEN Customer Privacy Policy, we can provide you with better service. Please take a moment to read the following policy to learn how we handle your personal information. 
 
