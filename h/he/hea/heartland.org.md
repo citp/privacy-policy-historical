@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the heartland.org privacy policy that was archived on 2010-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101208061345id_/http%3A//www.heartland.org/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heartland.org privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610225311id_/http%3A//www.heartland.org/legal/privacy.html) for the most accurate reproduction.*
 
 # The Heartland Institute: Privacy Policy
+
+[](http://www.addtoany.com/share_save)
 
 The Heartland Institute is firmly committed to protecting the privacy of its Web site visitors. This privacy policy statement describes our information-gathering and dissemination practices for:
 
