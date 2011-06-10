@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 7-figure-formula.com privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129205829id_/http%3A//www.7-figure-formula.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 7-figure-formula.com privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610033043id_/http%3A//www.7-figure-formula.com/privacy-policy) for the most accurate reproduction.*
 
 # 7-Figure-Formula
 
