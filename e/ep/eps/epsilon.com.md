@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epsilon.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230123610id_/http%3A//www.epsilon.com/Privacy-Policy/p42-l1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epsilon.com privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610153526id_/http%3A//www.epsilon.com/Privacy-Policy/p42-l1) for the most accurate reproduction.*
 
 # Epsilon | Privacy Policy
 
@@ -22,3 +22,7 @@ Epsilon does business in many countries, and our privacy policies are shaped by 
 ## Consumer Opt-Out Information  
 
 Learn how Epsilon collects and uses consumer information, as well as choices you have on how it is used. 
+
+## Important Consumer Information on Phishing  
+
+According to the Federal Trade Commission, “phishing” is a scam where internet fraudsters send spam email messages to lure unsuspecting victims to provide personal and financial information (credit card numbers, bank account information, Social Security number, passwords, or other sensitive information). 
