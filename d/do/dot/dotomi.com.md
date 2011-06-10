@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the dotomi.com privacy policy that was archived on 2010-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101030142233id_/http%3A//dotomi.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dotomi.com privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610161311id_/http%3A//www.dotomi.com/privacy.html) for the most accurate reproduction.*
 
 # Dotomi: Perspectives on Privacy
 
 Welcome! At Dotomi, we take privacy seriously because we are proud to be a leader in the field of internet advertising and a true innovator in the way people, including ourselves, buy the things we need. Our privacy policy is aimed to clarify what information we collect, how we safeguard it, and how we use it to provide relevant advertising about products of interest.
 
-The effective date of this privacy policy is May 17, 2010.
+The effective date of this privacy policy is May 17, 2011.
 
 Dotomi was founded with the basic principle of empowering consumers with control to drive relevant advertising. This foundation includes the belief that each consumer’s private information should be protected. Our success, in part, comes from our ability to achieve two basic consumer needs in a holistic fashion:
 
@@ -17,7 +17,7 @@ Dotomi's team is comprised of industry leaders that have been involved in intern
 
 **_Scope of Privacy Policy_**
 
-This Privacy Policy applies to Dotomi’s online method of collection and use of anonymous information gathered by us for this website and clients that we serve. This Privacy Policy does not apply to the privacy practices of our clients.
+This Privacy Policy applies to Dotomi's online method of collection and use of anonymous information gathered by us for this website [www.dotomi.com](http://www.dotomi.com/) and clients that we serve. This Privacy Policy does not apply to the privacy practices of our clients.
 
 How does Dotomi provide consumers relevant advertising?  
 How does Dotomi find consumers on the web?   
@@ -29,7 +29,7 @@ Changes to This Privacy Policy
 
 ___**_How does Dotomi provide consumers relevant advertising?_**_
 
-We partner with Marketing companies ("Marketing Partners") whose Privacy Policy allows them to share anonymous information about their customers and/or inquirers as well as information about a consumer’s interests and/or purchase behavior. This information may include the date and time of a visit to a Marketing Partner’s website, the pages or product information viewed during that visit, and links or ads that were clicked. Some Marketing Partners contribute Personally Identifiable Information (“PII”) such as your name, address, email address, and transactional information directly to a third party with whom Dotomi has a contractual relationship. This third party renders all such PII anonymous before providing it to Dotomi for our use in providing personalized advertising to you. The combined Marketing Partner information allows us to analyze and understand more about the things you are or might be interested in, allowing Dotomi to replace advertisements with ones more relevant to you.
+We partner with Marketing companies ("Marketing Partners") whose Privacy Policy allows them to share anonymous information about their customers and/or inquirers as well as information about a consumer’s interests and/or purchase behavior. This information may include the date and time of a visit to a Marketing Partner’s website, the pages or product information viewed during that visit, and links or ads that were clicked. Some Marketing Partners contribute Personally Identifiable Information ("PII") such as your name, address, email address, and transactional information directly to a third party with whom Dotomi has a contractual relationship. This third party renders all such PII anonymous before providing it to Dotomi for our use in providing personalized advertising to you. The combined Marketing Partner information allows us to analyze and understand more about the things you are or might be interested in, allowing Dotomi to replace advertisements with ones more relevant to you.
 
 Dotomi does not collect or maintain PII for marketing purposes. This means that we do not accept or use your name, address, email address, or any sensitive information such as your credit card numbers, Social Security numbers, or medical records to provide our personalized advertising service.  
 back to top 
@@ -55,11 +55,13 @@ We may disclose proprietary, anonymous information to our Marketing Partners and
 
 **_Data Retention_**
 
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [customerservice@dotomi.com](mailto:customerservice@dotomi.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
+
 Dotomi retains data it uses for marketing purposes for 13 months, after which the information is erased.  
-back to top
+back to top 
 
 ____**_Why Dotomi Inc.? / Choices and Opt-Out_**  
-As you surf the internet, you will receive ads. Wouldn’t you rather receive ads that are more relevant to you? Remember, you will receive no increase in the number of ads you receive in a given day. The Dotomi difference is that you will receive more relevant ads.
+As you surf the internet, you will receive ads. Wouldn't you rather receive ads that are more relevant to you? Remember, you will receive no increase in the number of ads you receive in a given day. The Dotomi difference is that you will receive more relevant ads.
 
 * * *
 
@@ -73,21 +75,21 @@ The security of your information is important to us. We have implemented appropr
 [](http://www.dotomi.com/content/view/26/58/#top "back to top")back to top
 
 ___**Privacy of Children**_  
-We are committed to protecting the privacy of children. Neither Dotomi’s website nor Dotomi's online activities with its Marketing Partners are intended or designed to attract children under the age of 13. We do not collect Personal Information from any person we actually know is a child under the age of 13.  
+We are committed to protecting the privacy of children. Neither Dotomi's website nor Dotomi's online activities with its Marketing Partners are intended or designed to attract children under the age of 13. We do not collect Personal Information from any person we actually know is a child under the age of 13.  
 [](http://www.dotomi.com/content/view/26/58/#top "back to top")back to top
 
 ___**Changes to This Privacy Policy**_  
-We may change this Privacy Policy from time to time. When we do, we will post the change(s) on our website. If we change the policy in a material way, we will provide appropriate notice to you.  
+We may change this Privacy Policy from time to time. When we do, we will post the change(s) on our website. If we change the policy in a material way, we will provide appropriate notice to you by email (sent to the e-mail address specified in your account) or by means of notice on this site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.  
 [](http://www.dotomi.com/content/view/26/58/#top "back to top")back to top
 
 ___**Dotomi has a Relationship with TRUSTe**_  
-Dotomi is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the website www.dotomi.com. Because this website wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.  
-If you have questions or concerns regarding this statement, you should first contact customer relations at 312.588.3616 or [customerservice@dotomi.com](mailto:customerservice@dotomi.com).  You may also contact us in writing at the following address:  
+Dotomi has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers the URL [www.dotomi.com](http://www.dotomi.com/). TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions.  
+If you have questions or concerns regarding this statement, you should first contact customer relations at 312.588.3616 or [customerservice@dotomi.com](mailto:customerservice@dotomi.com). You may also contact us in writing at the following address:  
 Dotomi, Inc.  
 168 North Clinton Street, 4th Floor  
-Chicago, Illinois  60661
+Chicago, Illinois 60661
 
-If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact [TRUSTe,](http://www.truste.com/consumers/watchdog_complaint.php) they will then serve as a liaison with us to resolve your concerns.  
+If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).  
 back to top
 
-For the previous version of this policy, [click here](https://web.archive.org/web/20101030142233id_/http%3A//dotomi.com/privacy-old.html)
+For the previous version of this policy, [click here](https://web.archive.org/web/20110610161311id_/http%3A//www.dotomi.com/privacy-old.html)
