@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nice.com privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128063959id_/http%3A//www.nice.com/Privacy%2520statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nice.com privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610145924id_/http%3A//www.nice.com/Privacy%2520statement) for the most accurate reproduction.*
 
 # Privacy Statement | NICE Systems
 
