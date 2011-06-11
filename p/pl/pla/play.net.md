@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the play.net privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215162347id_/http%3A//www.play.net/playdotnet/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the play.net privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611042255id_/http%3A//www.play.net/playdotnet/privacy.asp) for the most accurate reproduction.*
 
 # play.net >> Privacy Policy
 
