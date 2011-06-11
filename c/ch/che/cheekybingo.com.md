@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cheekybingo.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125001440id_/http%3A//www.cheekybingo.com/skin/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheekybingo.com privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611050834id_/http%3A//www.cheekybingo.com/skin/privacy.php) for the most accurate reproduction.*
 
 # Cheeky Bingo FREE BINGO - Join and get £20 free to play online bingo.
 
@@ -29,6 +29,10 @@ The PII which you provide to us will be processed for one or more of the followi
 Your PII may, for the Purposes, be disclosed for processing to any of the following Recipients: (i) to any companies within the Cassava Group and their employees who have a need to know such information; (ii) to any third parties which provide services to the Company in order to allow or enable us to provide you with bingo services, including by way of example affiliate networks, payment processors and data verifiers; (iii) to any auditors, contractors or other advisers auditing any of Cassava Group's business processes; and (iv) to any potential purchasers or investors in any company within the Cassava Group. Any processing performed by any Recipients will, where required by law, be governed by a data processing agreement in the form required by law, preserving any and all of your statutory data protection rights and obligating the Recipients to respect the PII and handle it in accordance with the relevant laws.
 
 We ensure that your information will not be disclosed to government institutions or authorities except if required by law.
+
+## Mergers and Other Events Requiring Transfer
+
+If the Company and/or Brigend should ever file for bankruptcy, or become insolvent, or be acquired by a third party, merge with a third party, sell all or part of its assets, or transfer substantially all or part of its relevant assets to a third party, the Company and/or Brigend is entitled to share or transfer the PII and all other information you have provided to the Company and/or Brigend to potential and subsequent business and merger partners.
 
 ## Your Choice - Direct Marketing
 
