@@ -1,39 +1,39 @@
-> *The following text is extracted and transformed from the exgf.com privacy policy that was archived on 2009-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091208080037id_/http%3A//www.exgf.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exgf.com privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611063540id_/http%3A//www.circledreams.com/privacy/ExGFPass) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - ExGFPass
 
-By logging on and using the Site, you agree to and accept our privacy policy. At EXGF.COM, we understand that sharing your personal information with us over the internet requires trust. We value your trust very highly, and pledge to you that we will protect the security and privacy of any personal information you provide to us through our website (the "Site"). This includes your name, address, phone number, email address, and any other personal information that can be linked to you. We will collect and use information about your preferences and browsing habits to help personalize your experience on the website. We will also use this information to make content purchasing and other decisions, but all such information will be anonymous.
+**Privacy Policy**
 
-The following information is designed to help you understand how we collect, use, disseminate and safeguard the information you provide to us while accessing and using our Site. By accessing and using our Site, you signify your consent to this Privacy Policy. If you do not agree with our information practices, please do not access or use our Site. As provided below, we reserve the right, at our discretion, to change, add or remove portions of this policy at any time by posting such changes to this page. Such changes will be effective upon posting.
+Your privacy is of utmost importance to us. This Privacy Policy governs your use of this website and all of our other websites. As noted below, please be aware that we may change our Privacy Policy in the future and it is your obligation to review this Privacy Policy from time to time and the effective date listed with it.
 
-### Personal Information Collected
+**Disclosures Made as Necessitated by Law or Safety**
 
-We collect personal information that you choose to provide voluntarily when joining the EXGF.COM Site. This information includes your email address and a password when you join EXGF.COM
+Your name, physical address, phone number and password are considered confidential. However, all information you provide to us may be shared with other third parties as necessary to comply with applicable law, to cooperate with law enforcement and the court system.
 
-When you visit EXGF.COM, you will be assigned a permanent "cookie" (a small, unique identifier text file) to be stored on your computer's hard drive. The purpose of the cookie is to identify you when you visit our Site so we can enhance and customize your online experience. You can choose to use EXGF.COM without cookies if you wish. To use the website without cookies, you can configure your browser to reject all cookies or notify you when a cookie is set. (Each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences.)
+**Information We Collect From You**
 
-When you are logged into your EXGF.COM account, your browsing activities are logged into a secure database that helps us create personalized recommendations for you. Our site contains personalization features that collect data from your browsing, viewing and searching activities to provide custom movie and scene recommendations for you and to otherwise personalize your site experience. Some of this information is also used in an anonymized fashion to help us determine what movies we should add to the site and to make other site-wide decisions.
+During sign up we require that you provide us with certain information which may include Account Data (i.e., your name, physical address, email address, phone number, username, and password), along with �Demographic Information�. Demographic Information may include IP address(es), referring website information, Internet browser used, zip code and/or other data regarding search history, browsing history, registration and user history.
 
-### Third Party Billing Companies
+**How is this Information Used?**
 
-The third party billing companies which collect your payment for using our services collect personal and billing information that we have access to but do not store. You acknowledge and agree that we do not have any responsibility for the collection, maintenance or safeguarding of the privacy of any such personal or billing information provided to such third party billing companies and that such responsibility is solely between you and the third party billing company. We encourage you to examine and determine your satisfaction with the policies of such third party billing companies prior to your using them.
+We may use �cookies� and Demographic Information to better your experience on the Site by allowing us to tailor your experience on the Sites according to your preferences and what we think may appeal to you based on such Demographic Information. Aggregate, non-individual membership Demographic Information may be shared with third parties with whom we have a direct or indirect relationship who may offer products or services we believe you may be interested in. We may also share the aggregate Demographic Information with third parties for the purposes of analyzing usage data, maintaining servers and other purposes relating to maintaining and improving our service and the Sites.
 
-### When and With Whom We Share Your Personal Information
+**You Are Responsible For Information You Provide to Third Parties**
 
-We never sell or rent your personal information to any third parties under any circumstances. We may share aggregated demographic and statistical information with our partners or sponsors. This is not linked to any personal information that can identify any individual person.
+Financial or other Data provided by you to any companies or websites advertising on the Sites or in response to emails sent to you by the Sites are not governed by this Privacy Policy. Any information provided by you to a third party, and any transaction with such a third party, is subject to that third party�s terms and conditions and privacy policy.
 
-### How We Protect the Security of Your Personal Information
+**Emails From Us and Use of Your Email Address**
 
-We use commercially reasonable efforts to protect the information you have provided to us from unauthorized access by using encryption and other security measures.
+Your email address will be used by us to contact you when we have special offers or other information to provide you. Such information may include, without limitation, new services offered by us, information relating to your account and other information related to your subscription to the Sites. We may send you emails prior to and after you have terminated your membership to our service until such time as you advise us, in accordance with the procedures explained below, that you no longer wish to receive email from us and/or from third parties with whom we have a direct or indirect relationship. We may share your email address with other third parties, with whom we have a direct or indirect relationship with, for the purposes of sending you special advertisements or promotions. These third parties include but are not limited to http://www.ExGFPass.com. If at any time you no longer wish to receive emails from us or from such third parties please visit the http://ExGFPass.com/index.php?op=remove section of our website. Or you may send us an email at postmaster@ExGFPass.com. We and our advertising partners fully comply with the federal CAN-SPAM Act and as such all emails from us and our advertising partners will always, among other required disclosures, have a place for you to opt out of receipt of further email correspondence. Please note we will never send you an email directly or through our marketing partners without your consent. Please immediately report any emails you may receive, without your prior authorization, that purport to promote the Sites.
 
-### Changes to Our Privacy Policy
+**Advertisements**
 
-We reserve the right to modify this Privacy Policy at any time by posting such changes on this page. Any changes to this Privacy Policy will become effective upon posting such changes. If you access or use exgf.com, you are required to periodically check our Privacy Policy for any changes. If you continue to access or use EXGF.COM after we have changed our Privacy Policy, you manifest your assent to the changes to our Privacy Policy.
+We may utilize the services of outside advertising agencies to advertise our services and goods and/or services offered by third parties. Either we or our advertising agencies may use cookies and/or �action tags� to measure advertising effectiveness on an �anonymous basis�. Some emails from us may contain advertisements from companies unrelated to the Sites. Should you elect to visit any such advertiser�s website, we cannot, and do not, make any representations about applicable terms and conditions or privacy policies for such advertisers� websites. If you choose to make any purchases on such sites or accept any offers from such companies, we may provide your information, including Financial Data, to the advertiser as necessary to your request. Finally, we cannot, and do not, make any representations about the privacy policies or terms and conditions of advertisements appearing anywhere on our service, whether through our website or emails, this is regardless of whether or not there may be any mentions of or references to any or all of the Sites on such advertisers� website(s).
 
-### Outbound Links 
+**Changes to the Privacy Policy**
 
-The Sites may contain links to other websites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware that when they leave EXGF.COM they should read the privacy statements of each and every web site that collects personally identifiable information.
+We may change this privacy policy at any time. You agree that we are under no duty to send you notice of such changes. Instead it is your responsibility to check this Privacy Policy from time to time. No change in the privacy policy will be effective until thirty (30) days after it is posted, unless the privacy policy has clear language indicating otherwise.
 
-### How to Contact EXGF.COM
+Changes in the Ownership of the Sites
 
-If you have comments or questions regarding our privacy policy, please contact us at [support@EXGF.COM](mailto:exgfsupport@gmail.com)
+The Sites are a growing online service. As such, we may have the occasion to buy or sell assets, including but not limited to merger, dissolution, and transfer of ownership. Depending upon the nature of the transaction, we may share any and all data provided by you to us (including Financial Data and Account Information) with third parties, as necessary to initiate, investigate or complete any such transaction(s).
