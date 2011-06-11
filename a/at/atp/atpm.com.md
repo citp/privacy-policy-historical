@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atpm.com privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128222831id_/http%3A//www.atpm.com/about/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atpm.com privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612005314id_/http%3A//atpm.com/about/privacy.shtml) for the most accurate reproduction.*
 
 # ATPM - About - Privacy Statement
 
