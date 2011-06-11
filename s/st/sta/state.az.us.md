@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the state.az.us privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212000949id_/http%3A//az.gov/polices_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the state.az.us privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611033447id_/http%3A//az.gov/polices_privacy.html) for the most accurate reproduction.*
 
 # AZ.gov : Arizona Policies Directory
 
@@ -56,9 +56,8 @@ This policy may be updated or revised from time to time, so please check back wi
 
 To offer comments about AZ.gov™, or about the information presented in this Privacy Policy, contact the AZ.gov™ Webmaster: 
 
-  * [E-mail](mailto:sanderson@azgita.gov)
-  * By Telephone: (602) 364-4774
-  * By Fax: (602) 364-4799
+  * [E-mail](mailto:mmorales@azgita.gov?Subject=AZ.gov%20Web%20Site:%20Privacy%20Policy)
+  * By Telephone: (602) 625-1184
   * By Mail:   
 Government Information Technology Agency (GITA)  
 AZ.gov™  
