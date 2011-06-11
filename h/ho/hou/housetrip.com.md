@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the housetrip.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229113028id_/http%3A//www.housetrip.com/en/about/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the housetrip.com privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612011319id_/http%3A//www.housetrip.com/en/about/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy
-
-Effective September 1, 2009
-
-## HouseTrip Privacy Policy
+# HouseTrip.com – Privacy Policy
 
 We at HouseTrip understand that making purchases online involves a great deal of trust on your part. We take this trust very seriously, and make it our highest priority to ensure the security and confidentiality of the personal information you provide to us. Please read the following policy to learn about our privacy practices. By visiting our website, www.housetrip.com, you are accepting the practices described herein.
 
