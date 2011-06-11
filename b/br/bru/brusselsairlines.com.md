@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brusselsairlines.com privacy policy that was archived on 2010-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100314073236id_/http%3A//www.brusselsairlines.com/com/misc/security.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brusselsairlines.com privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611151802id_/http%3A//www.brusselsairlines.com/com/misc/security.aspx) for the most accurate reproduction.*
 
 # Brussels Airlines - Security & privacy policy
 
