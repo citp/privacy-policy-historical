@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the legitonlinejobs.com privacy policy that was archived on 2010-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101103000959id_/http%3A//www.legitonlinejobs.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the legitonlinejobs.com privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611151814id_/http%3A//www.legitonlinejobs.com/privacy.html) for the most accurate reproduction.*
 
 # Legit Online Jobs - Privacy Policy
 
@@ -98,6 +98,6 @@ Policy Changes:
 
 Legit Online Jobs reserves the right to change this privacy policy at any time. 
 
-This Privacy Policy was last revised on December 2, 2008.
+This Privacy Policy was last revised on January 1, 2011.
 
-Copyright © 2010 Legit Online Jobs. All rights reserved. 
+Copyright © 2011 Legit Online Jobs. All rights reserved. 
