@@ -1,12 +1,28 @@
-<!--The following is the downloaded HTML source of the geoads.com privacy policy that was archived on 2010-11-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101119100528id_/http%3A//www.geoads.com/privacy-policy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the geoads.com privacy policy that was archived on 2011-06-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110611033725id_/http%3A//geoads.com/privacy-policy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_Head1"><title>
 
-</title>
-    <link rel="stylesheet" type="text/css" media="all" href="style.css">
-    <link href="slider/slider.css" rel="stylesheet" type="text/css" media="screen">
+</title><link rel="stylesheet" type="text/css" media="all" href="/style.css">
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/js/common.js"></script>
     <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function() {
+            $('ul#nav li').hover(function() {
+                    $(this).children('ul.subnav').stop(true, true).slideDown(400);
+                },
+                function() {
+                    $(this).children('ul.subnav').stop(true, true).delay(300).slideUp(400);
+            });
+            $('ul#nav ul.subnav').hover(function() {
+                    $(this).stop(true, true).siblings('a').addClass('hover');
+                },
+                function() {
+                    $(this).stop(true, true).siblings('a').removeClass('hover');
+            });
+        });
+    </script>
+    
     <script type="text/javascript">
     $(document).ready(function(){
 	    $('.panel').hide();
@@ -20,35 +36,71 @@
     </script>
 </head>
 <body>
-    <form name="aspnetForm" method="post" action="privacy-policy.aspx" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTY1NDU2MTA1Mg9kFgJmD2QWAgIDD2QWAgIBDw8WAh4HVmlzaWJsZWhkZGQ=">
+    <form name="aspnetForm" method="post" action="/privacy-policy.aspx" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTY1NDU2MTA1Mg9kFgJmD2QWAgIDD2QWBGYPDxYCHgdWaXNpYmxlZ2RkAgEPDxYCHwBoZGRk">
 
-        <div id="headerWrap">
-	        <div id="header">
-    	        <a href="index.aspx"><img src="images/logo.png" alt="GeoAds" id="logo"></a>
-                <div id="ctl00_pnlLoggedOut">
+    <div id="headerWrap">
+        <div id="header">
+            <a href="/index.aspx"><img src="/images/logo.png" alt="GeoAds" id="logo"></a>
+            <div id="ctl00_pnlLoggedOut">
 	
-                    <div id="loginBox">
-        	            <a href="sign-up.aspx">Sign Up!</a>&nbsp;&nbsp;/&nbsp;&nbsp;<a id="ctl00_lbnLogin" href="javascript:__doPostBack('ctl00$lbnLogin','')">Log In</a>
+                <div class="loginBoxParent">
+                    <div id="signUpDiv" class="loginBox">
+                        <span id="signUpA" onclick="return toggleBox('signUpType')">Sign Up!</span>
                     </div>
-                
+                    <div class="clear"></div>
+                    <div id="signUpType" class="loginPopup" style="width:100px;margin-left:-35px;text-align:center">
+                        <span class="green signUpLink" onclick="document.location.href='/advertiserSignUp.aspx'">Advertisers</span><br>
+                        <span class="red signUpLink" onclick="document.location.href='/sign-up.aspx?isaddon=1'">Developers</span><br>
+                        <span class="blue signUpLink" onclick="document.location.href='/sign-up.aspx'">Publishers</span>
+                    </div>
+                </div>
+                <div class="loginBoxParent">
+                    <div id="logInDiv" class="loginBox">
+                        <span id="logInA" onclick="return toggleBox('logInType')">Log In</span>
+                        
+                    </div>
+                    <div class="clear"></div>
+                    <div id="logInType" class="loginPopup">
+                        <div>Login Type:<br>
+                            <select id="logInTypeSel" name="logInTypeSel">
+                                <!--<option value="1">Advertiser</option>-->
+                                <option value="2">Developer</option>
+                                <option value="3">Publisher</option>
+                            </select>
+                        </div>
+                        <div>User Name:<br><input type="text" id="tbUserName" name="tbUserName"></div>
+                        <div>Password:<br><input type="password" id="tbPassword" name="tbPassword"></div>
+                        <div>
+                            <label style="cursor: pointer" for="cbRememberMe">Remember Me:</label>
+                            <input style="width: auto" type="checkbox" id="cbRememberMe" name="cbRememberMe"><br>
+                            <input class="btn" type="button" name="btnLogin" value="Log In" onclick="doLogin()">
+                            <span id="loginAjaxImg"></span>
+                        </div>
+                        <span id="loginMsg"></span>
+                    </div>
+                </div>
+            
 </div>
+            
+            <ul id="nav">
                 
-                <ul id="nav">
-        	        <li><img src="images/navLine.jpg" alt=""></li>
-                    <li><a href="index.aspx">Home</a></li>
-                    <li><img src="images/navLine.jpg" alt=""></li>
-                    <li><a href="publishers.aspx">Publishers</a></li>
-                    <li><img src="images/navLine.jpg" alt=""></li>
-                    <li><a href="advertisers.aspx">Advertisers</a></li>
-                    <li><img src="images/navLine.jpg" alt=""></li>
-                    <li><a href="contact-us.aspx">Contact Us</a></li>
-                    <li><img src="images/navLine.jpg" alt=""></li>
+                <li><img src="/images/navLine.jpg" alt=""></li>
+                <li><a href="/index.aspx">Home</a></li>
+                <li><img src="/images/navLine.jpg" alt=""></li>
                 
-                </ul>
-            </div><!--end header-->
-        </div><!--end headerWrap-->
-        
+                    <li><a href="/publishers.aspx">Publishers</a></li>
+                    <li><img src="/images/navLine.jpg" alt=""></li>
+                    <li><a href="/advertisers.aspx">Advertisers</a></li>
+                    <li><img src="/images/navLine.jpg" alt=""></li>
+                    <li><a href="/addonpublisher.aspx">Developers</a></li>
+                
+            </ul>
+        </div>
+        <!--end header-->
+    </div>
+    <!--end headerWrap-->
+    
 
 <div class="gray">
 	<div id="innerGray">
@@ -156,14 +208,33 @@
 </div><!--end content-->
 
 
-        <br class="clear">
-        <div id="footerWrap">
-	        <div id="footer">
-    	        <p><a href="index.aspx">Home</a>&nbsp;&nbsp;/&nbsp;&nbsp;<a href="publishers.aspx">Publishers</a>&nbsp;&nbsp;/&nbsp;&nbsp;<a href="advertisers.aspx">Advertisers</a>&nbsp;&nbsp;/&nbsp;&nbsp;<a href="sign-up.aspx">Sign Up</a>&nbsp;&nbsp;/&nbsp;&nbsp;<a href="contact-us.aspx">Contact Us</a>&nbsp;&nbsp;/&nbsp;&nbsp;<a href="login.aspx">Login</a></p>
-                <p>© Copyright 2010 GeoAds&nbsp;&nbsp;/&nbsp;&nbsp;All Rights Reserved&nbsp;&nbsp;/&nbsp;&nbsp;<a href="privacy-policy.aspx">Privacy Policy</a>&nbsp;&nbsp;/&nbsp;&nbsp;<a href="terms.aspx">Terms of Use</a></p>
-            </div><!--end footer-->
-        </div><!--end footerWrap-->
+    <br class="clear">
+    <div id="footerWrap">
+        <div id="footer">
+            <p>
+                <a href="/index.aspx">Home</a>&nbsp;&nbsp;/&nbsp;&nbsp;<a href="/publishers.aspx">Publishers</a>&nbsp;&nbsp;/&nbsp;&nbsp;<a href="/advertisers.aspx">Advertisers</a>&nbsp;&nbsp;/&nbsp;&nbsp;<a href="/addonpublisher.aspx">Developers</a>&nbsp;&nbsp;/&nbsp;&nbsp;<a href="/contact-us.aspx">Contact Us</a></p>
+            <p>
+                © Copyright
+                2011
+                GeoAds®&nbsp;&nbsp;/&nbsp;&nbsp;All Rights Reserved&nbsp;&nbsp;/&nbsp;&nbsp;<a href="/privacy-policy.aspx">Privacy
+                    Policy</a>&nbsp;&nbsp;/&nbsp;&nbsp;<a href="/terms.aspx">Terms of Use</a></p>
+        </div>
+        <!--end footer-->
+    </div>
+    <!--end footerWrap-->
     </form>
+    
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-1034375-7']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
 
 
 </body></html>
