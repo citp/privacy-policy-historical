@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the fleetfarm.com privacy policy that was archived on 2010-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100923223229id_/http%3A//fleetfarm.com/company/privacy.jsp%3Bjsessionid%3DC3A818F8AA004627C6F52D4E8C1C12A6) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fleetfarm.com privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611202428id_/http%3A//www.fleetfarm.com/company/privacy.jsp) for the most accurate reproduction.*
 
 # Mills Fleet Farm -Online Store Privacy Policy
 
 ### Mills’ Respect For Privacy
 
-Mills e-Commerce Enterprises, Inc. d/b/a Mills Fleet Farm (“Mills”) respects the importance of the privacy of your personal information. Mills provides this Privacy Policy so you know about Mills’ online information practices and understand how Mills treats the information we receive about you from your use of the Mills’ online store (the “Site”). By using, browsing and/or accessing the Site, you agree to the terms of this Privacy Policy. Your visit to the Site and any dispute over privacy is subject to the [Terms of Use](https://web.archive.org/company/terms.jsp), including limitations on damages and application of the law of the state of Minnesota. Use of this Site is strictly voluntary. If you do not agree to the Site’s Privacy Policy and Terms of Use, you must immediately log off the Site and may not use the Site.
+Mills e-Commerce Enterprises, Inc. d/b/a Mills Fleet Farm (“Mills”) respects the importance of the privacy of your personal information. Mills provides this Privacy Policy so you know about Mills’ online information practices and understand how Mills treats the information we receive about you from your use of the Mills’ online store (the “Site”). By using, browsing and/or accessing the Site, you agree to the terms of this Privacy Policy. Your visit to the Site and any dispute over privacy is subject to the [Terms of Use](https://web.archive.org/company/terms.jsp;jsessionid=B21401E40ECDE0CC83B8E8DCDEC08E71), including limitations on damages and application of the law of the state of Minnesota. Use of this Site is strictly voluntary. If you do not agree to the Site’s Privacy Policy and Terms of Use, you must immediately log off the Site and may not use the Site.
 
 ### The Information Mills Collects
 
@@ -34,7 +34,7 @@ This Site may contain links to other web sites. Additionally, other web sites ma
 
 Mills strives to maintain the accuracy and integrity of the personal information in its databases and to keep that information up-to-date. Mills encourages you to promptly update your personal information if it changes.
 
-You may request access to the personal information Mills has about you. As a registered user with the Site, you can access your profile information at any time. If you prefer, you may [email us](https://web.archive.org/company/emailUs.jsp), or send a letter to:
+You may request access to the personal information Mills has about you. As a registered user with the Site, you can access your profile information at any time. If you prefer, you may [email us](https://web.archive.org/company/emailUs.jsp;jsessionid=B21401E40ECDE0CC83B8E8DCDEC08E71), or send a letter to:
 
 Mills e-Commerce Enterprises, Inc.
 
@@ -56,4 +56,4 @@ Mills takes what it believes to be reasonable precautions and has implemented ma
 
 Mills reserves the right to modify this Privacy Policy, in whole or in part, at any time without notice to you. You expressly waive any right to receive notice of any changes to this Privacy Policy. Mills encourages you to review this Privacy Policy regularly in your use of the Site to ensure you are aware of current practices. Any use of the Site following the date on which Mills implements changes to this Privacy Policy shall constitute your acceptance of all such changes. This policy was last updated on March 25, 2009
 
-© Mills e-Commerce Enterprises, Inc. 2010 - All Rights Reserved.
+© Mills e-Commerce Enterprises, Inc. 2011 - All Rights Reserved.
