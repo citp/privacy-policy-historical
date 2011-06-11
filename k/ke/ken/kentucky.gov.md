@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kentucky.gov privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216110826id_/http%3A//kentucky.gov/Pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kentucky.gov privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611181751id_/http%3A//kentucky.gov/Pages/privacy.aspx) for the most accurate reproduction.*
 
-# Kentucky.gov: Privacy and Security
+# Privacy and Security Kentucky.gov:
 
 Your privacy and security are our highest priority.  Ensuring electronic access to state government information and services while maintaining privacy is a guiding principle of the state's [Direction of Enterprise Information Technology](http://cot.ky.gov/policies/ "Policies").  The Commonwealth of Kentucky collects only the personal information necessary to provide enhanced services to our citizens and customers.  Please note that all non-exempt information collected by Kentucky.gov services may be subject to public disclosure under [KRS 61.870, the Kentucky Open Records Act](http://lrc.ky.gov/KRS/061-00/870.PDF "Open Records Act Statute") [PDF]. 
 
