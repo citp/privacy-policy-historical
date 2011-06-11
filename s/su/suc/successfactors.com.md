@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the successfactors.com privacy policy that was archived on 2010-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101210054146id_/http%3A//www.successfactors.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the successfactors.com privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611043712id_/http%3A//www.successfactors.com/privacy) for the most accurate reproduction.*
 
 # SuccessFactors Privacy Policy
 
-## Introduction
+Effective as of January 2010
+
+#### Introduction
 
 SuccessFactors, Inc. ("SuccessFactors") is committed to protecting the privacy of your personal information while using our Web site and our hosted application service and related support services. SuccessFactors has therefore established this Privacy Policy to assist you to understand how SuccessFactors collects and uses personally identifiable information. By using our Web site or our hosted application service or related support services, you are agreeing to the collection and use of personal information in the manner described in this Privacy Policy.
 
-### Safe Harbor Certification
+#### Safe Harbor Certification
 
 **Your personal information may be transferred abroad (including outside the EU for our users in the EU) in connection with our providing our hosted application service and related support services.**
 
@@ -14,9 +16,9 @@ SuccessFactors is self-certified to the United States/European Union Safe Harbor
 
 SuccessFactors agrees to cooperate with the EU Data Protection Authorities and the Swiss Federal Data Protection and Information Commissioner, and to participate in the dispute resolution program provided by the European Data Protection Authorities Panel.
 
-If you have a complaint concerning SuccessFactors' Safe Harbor compliance, please contact [legal@successfactors.com](mailto:legal@successfactors.com)
+If you have a complaint concerning SuccessFactors' Safe Harbor compliance, please contact [legal@successfactors.com](mailto:legal@successfactors.com).
 
-### Web Site Data Collection Overview
+#### Web Site Data Collection Overview
 
 Our server software gathers in log files, general demographic information from all users of our Web site and for users of our hosted application service and related support services, general professional information will be stored and processed in connection with their training, performance or career development. For each visitor to the SuccessFactors Web site, our Web server automatically recognizes the visitor's domain name, browser type, operating system, referring domains, entry page, exit page, and average time on the Web site. This information is used for internal purposes only, to help us improve our Web site and better understand our visitors' needs.
 
@@ -26,17 +28,17 @@ If you choose to receive company or product information, you will need to comple
 
 We may occasionally run contests or other special promotions on our Web site in which we ask persons who choose to participate for contact information (like an e-mail address) or demographic information (like a zip code, industry or country). We may use the data we collect from you in these contests and promotions to send you promotional material about our company or our partners. Your contact information collected from these contests and promotions may be used to administer the contest and notify winners and contact you when necessary.
 
-### E-mail Addresses
+#### E-mail Addresses
 
 We do not collect e-mail addresses without the site visitor voluntarily providing us with this information (typically via our online information request form, whitepaper request form, and other Web site forms and surveys). We will periodically use your e-mail information for service, sales, support, and marketing purposes. From time to time, we may share your e-mail address with our partner organizations and companies for service, sales, support, and marketing purposes. If you do not wish to receive marketing e-mail from us or our partners in the future, you may opt out as described below.
 
-### Customer Data
+#### Customer Data
 
 Customers use our hosted application service to host data about their personnel. We do not use or disclose such data except as provided in our subscription agreements with our customers, or as may be required by law. Customers are responsible for maintaining the security of their user logins.
 
-### Data Security
+#### Data Security
 
-We use a variety of security measures and employ appropriate physical, administrative and technical safeguards to protect against the loss or unauthorized use, alteration or disclosure of, or unauthorized access to, the personal information under our control. We have licensed the industry-standard Secure Sockets Layer (SSL) technology, which permits encryption of potentially sensitive information such as your name, address and credit card number. This will make your information unusable in the event of unauthorized third-party interception. We store this information in a secure environment at one or more of our service providers. 
+We use a variety of security measures and employ appropriate physical, administrative and technical safeguards to protect against the loss or unauthorized use, alteration or disclosure of, or unauthorized access to, the personal information under our control. We have licensed the industry-standard Secure Sockets Layer (SSL) technology, which permits encryption of potentially sensitive information such as your name, address and credit card number. This will make your information unusable in the event of unauthorized third-party interception. We store this information in a secure environment at one or more of our service providers.
 
 SuccessFactors personnel with access to this information have been trained and advised of the importance of maintaining the security and confidentiality of such information and of using it only for the purposes described in this Privacy Policy.
 
@@ -46,15 +48,15 @@ Upon request submitted to [info@successfactors.com](mailto:info@successfactors.c
 
 In the event your personal information is acquired, or is reasonably believed to have been acquired, by an unauthorized person, and applicable law requires notification to you by SuccessFactors, SuccessFactors will notify you of such breach promptly by email, fax, or U.S. mail, as permitted by law and consistent with the reasonable investigatory needs of law enforcement and/or SuccessFactors.
 
-### Notification of Privacy Policy Changes
+#### Notification of Privacy Policy Changes
 
 SuccessFactors may amend this Privacy Policy from time to time. If SuccessFactors decides to make material changes in the way we use your personal information, we will post the changes on this page so that you always will know what information we collect, how it is used, and when and how it will be disclosed. Your use of the SuccessFactors Web site following notice of such change will be deemed acceptance of the revised Privacy Policy, which may include application of the new policy to information provided prior to the date of such change.
 
-### Choice/Opt-Out and Updating Information
+#### Choice/Opt-Out and Updating Information
 
 If you receive marketing or similar e-mail messages from us and wish to opt out of receiving such messages, you may simply follow the opt-out procedure specified in such e-mail. In addition, if you have registered on our site, you may opt out of receiving any future marketing or similar messages by unsubscribing here: <http://www.successfactors.com/unsubscribe/>. You may also contact us by regular mail addressed to: SuccessFactors, Inc., Attn: Chief Information Officer, 1500 Fashion Island Blvd., Suite 300, San Mateo, CA 94404.
 
-### Contacting Us
+#### Contacting Us
 
 If you have any questions about this Privacy Policy or this Web site, please contact us directly at: [info@successfactors.com](mailto:info@successfactors.com)
 
