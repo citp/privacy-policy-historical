@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialmediopolis.com privacy policy that was archived on 2009-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091213132522id_/http%3A//www.groupsite.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialmediopolis.com privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611194556id_/http%3A//www.groupsite.com/privacy) for the most accurate reproduction.*
 
 # Your Network -- Powered by Groupsite.com
 
