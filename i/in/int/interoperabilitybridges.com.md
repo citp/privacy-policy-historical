@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the interoperabilitybridges.com privacy policy that was archived on 2009-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091226133002id_/http%3A//www.interoperabilitybridges.com/PrivacyStatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interoperabilitybridges.com privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612012335id_/http%3A//www.interoperabilitybridges.com/PrivacyStatement) for the most accurate reproduction.*
 
-# Interoperability Bridges & Labs Center
+# Interoperability Bridges and Labs Center
 
 **InteroperabilityBridges Privacy Statement**
 
-Last updated: May 2009               
+Last updated: May 2009
 
 Microsoft is committed to protecting your privacy. This privacy statement applies to the data collected by Microsoft through the InteroperabilityBridges site (the "Site"); it does not apply to other online or offline Microsoft sites, products, or services.
 
@@ -12,7 +12,7 @@ Microsoft is committed to protecting your privacy. This privacy statement applie
 
 We will ask you when we need information that personally identifies you or allows us to contact you.  The personal information we collect may include name or e-mail address.
 
-We may collect information about your visit, including the pages you view, the links you click, and other actions you take in connection with the Site. We also collect certain standard information that your browser sends to every Web site you visit, such as your IP address, browser type and language, access times, and referring Web site addresses. 
+We may collect information about your visit, including the pages you view, the links you click, and other actions you take in connection with the Site. We also collect certain standard information that your browser sends to every Web site you visit, such as your IP address, browser type and language, access times, and referring Web site addresses.
 
 In order to offer you a more consistent and personalized experience in your interactions with Microsoft, information collected through one Microsoft service may be combined with information obtained through other Microsoft services. We may also supplement the information we collect with information obtained from other companies. For example, we may use services from other companies that enable us to derive a general geographic area based on your IP address in order to customize certain services to your geographic area.
 
@@ -22,7 +22,7 @@ To sign in to the Site, you will be asked to enter an e-mail address and passwor
 
 The information collected on this Site will be used to operate the Site and to provide the service(s) or carry out the transaction(s) you have requested or authorized.
 
- In support of these uses, Microsoft may use your information to provide you with more effective customer service, improve the Site and any related Microsoft products or services, perform statistical analysis, and make the Site easier to use by eliminating the need for you to repeatedly enter the same information or by customizing the Site to your particular preferences or interests.
+In support of these uses, Microsoft may use your information to provide you with more effective customer service, improve the Site and any related Microsoft products or services, perform statistical analysis, and make the Site easier to use by eliminating the need for you to repeatedly enter the same information or by customizing the Site to your particular preferences or interests.
 
 We may use your information to provide you with important information about the product or service that you are using, including critical updates and notifications.  Additionally, with your permission, we may send you information about other Microsoft products and services, and/or share your personal information with Microsoft partners so they may send you information about their products and services.
 
@@ -40,7 +40,7 @@ Please be aware that this privacy statement and any choices you make on the Site
 
 **Access to Your Personal Information  
 **  
-You can review and edit the personal information you provided at this Site by You may view or edit your personal information online at the MyProfile page on the web site. In order to help prevent your personal information from being viewed by others, you will be required to sign in with your LiveID account. Alternatively, you can write us by using the [Contact Us form](https://web.archive.org/ContactUs.aspx) and we will contact you within 30 days regarding your request.
+You can review and edit the personal information you provided at this Site by You may view or edit your personal information online at the MyProfile page on the web site. In order to help prevent your personal information from being viewed by others, you will be required to sign in with your LiveID account. Alternatively, you can write us by using the [Contact Us form](http://www.interop.com.local/ContactUs.aspx) and we will contact you within 30 days regarding your request.
 
 **Security of Your Information  
 **  
@@ -64,13 +64,13 @@ Many of the Web sites and online services we offer, as well as those of our part
 
 When we display online advertisements to you, we will place a persistent cookie on your computer in order to recognize your computer each time we display an ad to you.  Because we may serve advertisements on many different Web sites, we are able to compile information over time about where you, or others who are using your computer, saw and/or clicked on the advertisements we display.  We use this information to make predictions about your characteristics, interests, or preferences, and to display targeted advertisements that we believe may be of interest to you.  We may also associate this information with your subsequent visit, purchase, or other activity on participating advertisers' Web sites in order to determine the effectiveness of the advertisements.
 
-While we may use some of the information we collect in order to personalize the ads we show you, we designed our systems to select ads based only on data that does not personally and directly identify you.  For example, we may select the ads we display according to certain general interest categories or segments that we have inferred based on (a) demographic or interest data, including any you may have provided when creating an account (e.g. age, zip or postal code, and gender), demographic or interest data acquired from other companies, and a general geographic location derived from your IP address; (b) the pages you view and links you click when using Microsoft's and its advertising partners' Web sites and services; and (c) the search terms you enter when using Microsoft's Internet search services, such as Live Search. 
+While we may use some of the information we collect in order to personalize the ads we show you, we designed our systems to select ads based only on data that does not personally and directly identify you.  For example, we may select the ads we display according to certain general interest categories or segments that we have inferred based on (a) demographic or interest data, including any you may have provided when creating an account (e.g. age, zip or postal code, and gender), demographic or interest data acquired from other companies, and a general geographic location derived from your IP address; (b) the pages you view and links you click when using Microsoft's and its advertising partners' Web sites and services; and (c) the search terms you enter when using Microsoft's Internet search services, such as Live Search.
 
 As we serve ads, we take a number of steps designed to protect your privacy.  For example, we store page views, clicks, and search terms used for ad personalization separately from your contact information or other data that directly identifies you (such as your name, e-mail address, etc.).  Further, we have built in administrative, technical, and physical safeguards designed to prevent the unauthorized correlation of this data.  We also give you the ability to opt-out of personalized ads.  For more information or to use the opt-out feature, you may visit our [opt-out page.](http://choice.live.com/advertisementchoice)
 
-We also provide third party ad delivery through our Atlas subsidiary, and you may read the Atlas privacy statement at <http://www.atlassolutions.com/privacy.aspx>. 
+We also provide third party ad delivery through our Atlas subsidiary, and you may read the Atlas privacy statement at <http://www.atlassolutions.com/privacy.aspx>.
 
-Although the majority of the online advertisements on Microsoft sites are displayed by Microsoft, we also allow third-party ad-serving companies, including other ad networks, to display advertisements on our sites. These companies currently include, but are not limited to: [24/7 Real Media](http://www.247realmedia.com/), [Advertising.com](http://advertising.com/), [Bidclix](http://www.bidclix.com/), [BlueStreak](http://www.bluestreak.com/index.html), [Burst Media](http://www.burstmedia.com/), [DoubleClick](http://www.doubleclick.com/), [](http://www.dynamiclogic.com/)[EuroClick](http://www.euroclick.com/), [Eyeblaster](http://www.eyeblaster.com/), [EyeWonder](http://www.eyewonder.com/), [Falk](http://www.falkag.de/), [Interpolls](http://www.interpolls.com/), [Kanoodle](http://www.kanoodle.com/), [Mediaplex](http://www.mediaplex.com/), [Pointroll](http://www.pointroll.com/), [TangoZebra](http://www.tangozebra.com/), [Yahoo! Publisher Network](http://searchmarketing.yahoo.com/), and [Zedo](http://www.zedo.com/).
+Although the majority of the online advertisements on Microsoft sites are displayed by Microsoft, we also allow third-party ad-serving companies, including other ad networks, to display advertisements on our sites. These companies currently include, but are not limited to: [24/7 Real Media](http://www.247realmedia.com/), [Advertising.com](http://advertising.com/), [Bidclix](http://www.bidclix.com/), [BlueStreak](http://www.bluestreak.com/index.html), [Burst Media](http://www.burstmedia.com/), [DoubleClick](http://www.doubleclick.com/), [EuroClick](http://www.euroclick.com/), [Eyeblaster](http://www.eyeblaster.com/), [EyeWonder](http://www.eyewonder.com/), [Falk](http://www.falkag.de/), [Interpolls](http://www.interpolls.com/), [Kanoodle](http://www.kanoodle.com/), [Mediaplex](http://www.mediaplex.com/), [Pointroll](http://www.pointroll.com/), [TangoZebra](http://www.tangozebra.com/), [Yahoo! Publisher Network](http://searchmarketing.yahoo.com/), and [Zedo](http://www.zedo.com/).
 
 These companies may offer you a way to opt out of ad targeting based on their cookies. You may find more information by clicking on the company names above and following the links to the Web sites of each company.  Some of these companies are members of the [Network Advertising Initiative](http://www.networkadvertising.org/), which offers a single location to opt out of ad targeting from member companies.
 
@@ -80,7 +80,7 @@ We may occasionally update this privacy statement. When we do, we will also revi
 
 **Contact Information  
 **  
-Microsoft welcomes your comments regarding this privacy statement. If you have questions about this statement or believe that we have not adhered to it, please contact us by clicking[here](https://web.archive.org/contactUs.aspx). 
+Microsoft welcomes your comments regarding this privacy statement. If you have questions about this statement or believe that we have not adhered to it, please contact us by clicking[here](http://www.interop.com.local/contactUs.aspx).
 
 Microsoft Privacy
 
