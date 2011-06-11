@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gomiso.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230030214id_/http%3A//gomiso.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gomiso.com privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611041346id_/http%3A//gomiso.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Miso
 
