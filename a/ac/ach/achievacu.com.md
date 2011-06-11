@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the achievacu.com privacy policy that was archived on 2010-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101217120629id_/http%3A//achievacu.com/personal/credit-cards/CreditCardServices/KeepingYourCreditSafe/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the achievacu.com privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611030820id_/http%3A//achievacu.com/personal/credit-cards/CreditCardServices/KeepingYourCreditSafe/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Achieva Credit Union - Privacy Policy
 
