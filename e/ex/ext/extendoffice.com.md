@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the extendoffice.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123041446id_/http%3A//www.extendoffice.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extendoffice.com privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611223333id_/http%3A//www.extendoffice.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy of ExtendOffice
-
-**Privacy Policy of ExtendOffice**
+# Privacy Policy of Extend Office
 
 ExtendOffice is committed to protecting your privacy. Your privacy is a priority at ExtendOffice. 
 
