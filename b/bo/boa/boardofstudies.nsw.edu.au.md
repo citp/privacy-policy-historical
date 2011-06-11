@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the boardofstudies.nsw.edu.au privacy policy that was archived on 2010-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100604194141id_/http%3A//www.boardofstudies.nsw.edu.au/administration/privacy_plan.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boardofstudies.nsw.edu.au privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611220801id_/http%3A//www.boardofstudies.nsw.edu.au/administration/privacy_plan.html) for the most accurate reproduction.*
 
-# Privacy Management Plan - Board of Studies NSW
+# - Board of Studies NSW
 
   1. [Home](https://web.archive.org/)
-  2. [Administrative Information ](https://web.archive.org/administration/)
-  3. Privacy Management Plan
 
 
 
