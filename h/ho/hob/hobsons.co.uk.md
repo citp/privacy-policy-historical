@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the hobsons.co.uk privacy policy that was archived on 2010-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100218053632id_/http%3A//www.hobsons.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hobsons.co.uk privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611222338id_/http%3A//www.hobsons.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
-
-## Hobsons Privacy Policy
 
 ### United States
 
