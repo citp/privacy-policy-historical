@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the girlsintube.com privacy policy that was archived on 2010-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101101000109id_/http%3A//girlsintube.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the girlsintube.com privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611055255id_/http%3A//girlsintube.com/static/privacy) for the most accurate reproduction.*
 
-# Privacy Policy · GirlsInTube . com - Full Free Porn Videos - Sex Tube Porno Redtube Pornhub XXX
+# Privacy Policy · Girls in tube - girls in sex, free girls porn videos, porno redtube
 
 This document details important information regarding the use and disclosure of User Data collected on GirlsInTube.com.
 
