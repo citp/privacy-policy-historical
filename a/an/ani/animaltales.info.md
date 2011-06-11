@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the animaltales.info privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119110026id_/http%3A//animaltales.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animaltales.info privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612013342id_/http%3A//animaltales.info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Animal Tales
 
