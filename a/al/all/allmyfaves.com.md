@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the allmyfaves.com privacy policy that was archived on 2010-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100203225542id_/http%3A//www.allmyfaves.com/policy/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allmyfaves.com privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611182004id_/http%3A//www.allmyfaves.com/policy/privacy) for the most accurate reproduction.*
 
-# All My Faves | Why Search? AllMyFaves Did The Search For You.
-
-  
-
+# All My Faves | My Homepage
 
 ## Privacy Statement of All My Faves Inc.
 
@@ -19,7 +16,7 @@ Our principal activity entails a visual portal and bookmark manager.
 
 Our privacy policy covers All My Faves Inc. and its website: 
 
-| **Organisation Name:** | **All My Faves Inc.**  
+**Organisation Name:** | **All My Faves Inc.**  
 ---|---  
 **City:** | **Tel Aviv**  
 **Country:** | **Israel**  
@@ -51,7 +48,7 @@ All My Faves uses third party advertisements on All My Faves to support our web 
 
 Although using AllMyFaves.com is free for everyone, users need to register in order to take advantage of certain services and features on AllMyFaves.com, such as the MiniFaves feature. As a registered user, you will be asked to provide us with certain personally identifiable information. Such information may include your computer's IP address, user name, password, email address, geographic location and local time, phone number, and any other details you choose to submit to us or include in your personalized MiniFaves page.
 
-By adding your own choice of sites to your personalized All My Faves homepage, you allow All My Faves and others to access and use it in connection with All My Faves and otherwise in connection with its affiliates’ businesses. You can mark content as private to restrict access and use to those users to whom you explicitly grant access. Your use of the content does not affect All My Faves' right to access and use it in connection with All My Faves or otherwise in connection with its affiliates’ businesses.
+By adding your own choice of sites to your personalized All My Faves homepage, you allow All My Faves and others to access and use it in connection with All My Faves and otherwise in connection with its affiliates� businesses. You can mark content as private to restrict access and use to those users to whom you explicitly grant access. Your use of the content does not affect All My Faves' right to access and use it in connection with All My Faves or otherwise in connection with its affiliates� businesses.
 
 **Use of Contact Information**
 
@@ -69,7 +66,7 @@ Feedback and other comments and statements that you chose to submit to All My Fa
 
 We use users' collected information to improve our marketing and promotional efforts; to analyze site usage with statistics and data; to improve our content and product offerings, and; to customize the All My Faves web site's content, layout and services, for the benefit of our users. We may use your collected information to service your account with us, including but not limited to investigating problems, resolving disputes and enforcing agreements with us. We do not sell, rent, trade or exchange any personally-identifying information of our users. We may share certain aggregate information based on analysis of collected information with our partners, customers, advertisers or potential users. We may use your collected information to execute marketing campaigns, promotions or advertising messages on behalf of third parties. Information submitted through the 'Tell a Friend' feature is collected and used in the mail which is sent to the referred person or 'friend' who was listed in the submission. 
 
-By posting content, you are granting permission to All My Faves and others to access and use it in connection with All My Faves and otherwise in connection with its affiliates’ businesses. You can mark content as private to restrict access and use to those users to whom you explicitly grant access. Your use of the content does not affect All My Faves' right to access and use it in connection with All My Faves or otherwise in connection with its affiliates’ businesses.
+By posting content, you are granting permission to All My Faves and others to access and use it in connection with All My Faves and otherwise in connection with its affiliates� businesses. You can mark content as private to restrict access and use to those users to whom you explicitly grant access. Your use of the content does not affect All My Faves' right to access and use it in connection with All My Faves or otherwise in connection with its affiliates� businesses.
 
 **Links to other sites**
 
