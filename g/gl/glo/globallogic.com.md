@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globallogic.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225112846id_/http%3A//www.globallogic.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D239) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globallogic.com privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611021822id_/http%3A//www.globallogic.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D239) for the most accurate reproduction.*
 
 # Privacy Policy
 
