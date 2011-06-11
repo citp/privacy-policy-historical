@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the igobogo.com privacy policy that was archived on 2010-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101209143554id_/http%3A//www.igobogo.com/Portal/welcome-to-igobogo/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igobogo.com privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611072034id_/http%3A//www.igobogo.com/Portal/welcome-to-igobogo/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | iGoBOGO
 
 [](http://del.icio.us/post?url=http://www.igobogo.com/Portal/welcome-to-igobogo/privacy-policy/&title=Privacy%20Policy) [](http://www.digg.com/submit?phase=2&url=http://www.igobogo.com/Portal/welcome-to-igobogo/privacy-policy/&title=Privacy%20Policy) [](http://www.reddit.com/submit?url=http://www.igobogo.com/Portal/welcome-to-igobogo/privacy-policy/&title=Privacy%20Policy) [](http://www.stumbleupon.com/submit?url=http://www.igobogo.com/Portal/welcome-to-igobogo/privacy-policy/&title=Privacy%20Policy) [](http://www.squidoo.com/lensmaster/bookmark?http://www.igobogo.com/Portal/welcome-to-igobogo/privacy-policy/) [](http://myweb2.search.yahoo.com/myresults/bookmarklet?t=Privacy%20Policy&u=http://www.igobogo.com/Portal/welcome-to-igobogo/privacy-policy/) [](http://www.google.com/bookmarks/mark?op=edit&bkmk=http://www.igobogo.com/Portal/welcome-to-igobogo/privacy-policy/&title=Privacy%20Policy) [](http://www.blinklist.com/index.php?Action=Blink/addblink.php&Url=http://www.igobogo.com/Portal/welcome-to-igobogo/privacy-policy/&Title=Privacy%20Policy) [](http://www.technorati.com/faves?add=http://www.igobogo.com/Portal/welcome-to-igobogo/privacy-policy/) [](http://www.furl.net/storeIt.jsp?t=Privacy%20Policy&u=http://www.igobogo.com/Portal/welcome-to-igobogo/privacy-policy/) [](http://cgi.fark.com/cgi/fark/edit.pl?new_url=http://www.igobogo.com/Portal/welcome-to-igobogo/privacy-policy/&new_comment=Privacy%20Policy) [](http://www.sphinn.com/submit.php?url=http://www.igobogo.com/Portal/welcome-to-igobogo/privacy-policy/&title=Privacy%20Policy)
 
-Welcome back to iGoBOGO! If you don't want to miss a single deal you may want to subscribe to my [RSS feed](http://www.igobogo.com/Portal/feed/) or sign up for my [Email Updates](http://feedburner.google.com/fb/a/mailverify?uri=igobogo). Thanks for visiting!
+Welcome to iGoBOGO! If you're new here, you may want to subscribe to my [RSS feed](http://www.igobogo.com/Portal/feed/) or sign up for my [Email Updates](http://feedburner.google.com/fb/a/mailverify?uri=igobogo). Thanks for visiting!
 
 Privacy Policy – www.igobogo.com
 
@@ -41,5 +41,3 @@ www.igobogo.com has no access to or control over these cookies that are used by 
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.igobogo.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
-
-[](http://www.printfriendly.com/ "Print an optimized version of this web page")
