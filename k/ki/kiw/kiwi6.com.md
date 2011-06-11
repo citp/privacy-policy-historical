@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kiwi6.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203115846id_/http%3A//kiwi6.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kiwi6.com privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611185932id_/http%3A//kiwi6.com/pages/privacy) for the most accurate reproduction.*
 
-# Pages - Kiwi6.com
+# Privacy Policy - Kiwi6.com Mp3 Upload
 
 At www.kiwi6.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines what types of personal information is collected by kiwi6.com and how it is used. 
 
