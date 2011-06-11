@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leaguesafe.com privacy policy that was archived on 2010-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101102192407id_/https%3A//leaguesafe.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leaguesafe.com privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611151630id_/https%3A//www.leaguesafe.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy from LeagueSafe.com
 
