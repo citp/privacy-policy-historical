@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the riveraveblues.com privacy policy that was archived on 2010-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100413074130id_/http%3A//riveraveblues.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the riveraveblues.com privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611173359id_/http%3A//riveraveblues.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | River Avenue Blues
 
