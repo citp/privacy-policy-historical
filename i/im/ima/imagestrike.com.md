@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imagestrike.com privacy policy that was archived on 2010-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101211092419id_/http%3A//imagestrike.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imagestrike.com privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611181721id_/http%3A//imagestrike.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Imagestrike - A Free Adult Imagehost » More Information » Privacy Policy
 
