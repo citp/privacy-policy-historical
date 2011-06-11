@@ -1,0 +1,54 @@
+> *The following text is extracted and transformed from the mycity4kids.com privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612015315id_/http%3A//www.mycity4kids.com/Delhi-NCR/home/privacy) for the most accurate reproduction.*
+
+# PRIVACY POLICY - Mycity4kids.com
+
+This Privacy Policy sets forth policies between “www.mycity4kids.com”, herein after referred to as “THE WEBSITE” and it’s User.
+
+“THE WEBSITE” offers its User a free web page which “User” can populate with User’s contact details, description and uniqueness of Users’ offering, a map to help with directions, images and recommendations from Users.
+
+To accomplish this, the User adds listings and writes reviews about profile listings and local services that are posted to the “THE WEBSITE” Site. These listings and reviews can then be accessed and read by other “THE WEBSITE” users. For the purposes of this Privacy Policy, a "user" is defined as someone using “THE WEBSITE” Site and a "friend" is defined as someone a User has explicitly invited to share reviews with. To fulfill the purpose of, “THE WEBSITE” needs to display a limited amount of personal information, so that users are able to evaluate the trustworthiness of a particular review. By using “THE WEBSITE”, User permits the collection and use of User’s personal information as outlined below in our Privacy Policy. User should visit this page periodically to review any changes to the Privacy Policy.
+
+“THE WEBSITE” collects the Personally identifiable information herein refers to any information that can be linked to a specific individual, such as User submitted account information viz. name, email address and mobile phone number, credit card number, bank account number etc.  to identify User and send User notifications related to the use of the service. “THE WEBSITE” also collects User submitted location information such as city, state or zip. “THE WEBSITE” also collects User submitted photos, reviews, and ratings of listings, local businesses and service providers. Some information collected is not explicitly submitted by the user; the website log user browser-type related information, IP address, requested URL, referring URL, and timestamp.
+
+**“THE WEBSITE”** respects User’s privacy and thus is conscious of the necessity to protect the personally identifiable information User’s share with **“THE WEBSITE”**. **“THE WEBSITE”** would like to assure the User’s that it follows the applicable law to give requisite protection to the User’s personally identifiable information. **“THE WEBSITE”** will take appropriate steps to protect the personally identifiable information which User’s share with **“THE WEBSITE”**. For the same, **The Website's** systems are configured with industry standard Data Encryption and Firewall Technology. The transmission of User’s personally identifiable information over internet is secured by Secure Socket Layer (SSL) technology for safe transmission. **“THE WEBSITE”** will continue to enhance its security procedures as new technology becomes available.
+
+1\. Any personally identifiable information shall not be sold or used by any third party.
+
+2\. Phone numbers, email addresses or mailing address of the customers shall not be shared.
+
+3\. All information about the details of price paid by the customer, preference and choices shall not be disclosed.
+
+4\. Any financial information such as bank account details, credit card number or any other personally identifiable sensitive information of the customer shall not be disclosed or revealed.
+
+5\. The Company does not offer the information to any other commercial body which could use the User’s personally identifiable information for its commercial benefit.
+
+6\. “THE WEBSITE” may on various occasions collect personally identifiable information from User’s, which would be done with their knowledge and prior intimation. The same would be used for the purposes intended only after User’s approval.
+
+7\. In all cases Users will have the option not to provide the information, and in the future would have an option to "opt out" of certain uses of the information. If Users choose not to provide the information “THE WEBSITE” requests, they can still visit the “THE WEBSITE”, but may be unable to access certain options, offers and services.
+
+8\. “THE WEBSITE” further assures that it will not sell, trade in or disclose to any third party any personal information like date of birth or names and number of children such close information derived from the User without their consent.
+
+9\. “THE WEBSITE” may share information in order to investigate, prevent, or take action regarding illegal activities or suspected fraud, or to enforce or apply the terms and conditions of this Privacy Policy.
+
+10\. “THE WEBSITE” will disclose information about individual users to governmental or judicial authorities or law enforcement agencies, or to other individuals or entities in response to subpoenas, court orders, or other legal processes.
+
+“THE WEBSITE” may contain links to third party websites to which we have no affiliation. “THE WEBSITE” does not share user personal information with those websites and is not responsible for their privacy practices. We suggest that users  read the privacy policies on these third party websites.
+
+Like most websites, “THE WEBSITE” requires cookies to function properly. "Cookies" refer to small pieces of information which are stored by User’s browser on their computer's hard drive. Cookies are read by the server which place them, and are unable to do such things such as run programs on User’s computer, plant viruses or harvest personally identifiable information. “THE WEBSITE” uses cookies to refine the site and simplify the user experience. For example, the use of cookies allows registered users to enter our site without explicitly typing in their email address and password every time. User should be aware that “THE WEBSITE” cannot control the use of cookies by advertisers or any information advertisers may gather from their use of cookies. If Users do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows user to deny or accept the cookie feature; however, user should note that cookies may be necessary to provide user certain features (e.g., customized delivery of information) available on “THE WEBSITE” site.
+
+User should be aware that when the User voluntarily disclose personally identifiable information (e.g. user name, e-mail address etc.) via reviews, messages, forums, postings, or in other areas of “THE WEBSITE” site, that information, along with any substantive information disclosed in user communication, can be collected and correlated and used by third parties and may result in unsolicited messages from other posters or third parties. Such activities are beyond the control of “THE WEBSITE”. Please do not post any personal information on “THE WEBSITE” site or in other areas that the user expects to keep private. As a registered “THE WEBSITE” user, User’s can modify his/her personal information at any time by accessing the ‘Profile’ link, once they have ‘Signed In’ Also, upon user’s request, “THE WEBSITE” will use commercially reasonable efforts to functionally remove user and its personal information from the site; however, it may be impossible to remove user entry without some residual information being retained by “THE WEBSITE”. Registered users who wish to close their account should contact support[@mycity4kids.com](mailto:@mycity4kids.com)
+
+ “THE WEBSITE” account is password-protected. “THE WEBSITE” tries very hard to protect our Users' information. We use industry standard measures to protect user information that is stored within our database. We limit the access to information to only those employees who need access to perform their job function such as our customer service personnel. If users have any questions about the security, please contact us. Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure user that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Policy. User hereby acknowledge that “THE WEBSITE” is not responsible for any intercepted information sent via the Internet, and user hereby release us from any and all claims arising out of or related to the use of intercepted information in any unauthorized manner.
+
+  
+
+
+At any time, registered members may opt-out of receiving notifications initiated by “THE WEBSITE”. Unregistered users that do not wish to receive emails may opt-out of receiving any communications by following the instructions contained in all emails.
+
+This website is not directed at children, and “THE WEBSITE” does not knowingly solicit information from any child under the age of 18. Should a child, whom we know to be under 18 send personal information to us, we will use that information only to respond directly to that child (or a parent or guardian) to inform him or her that we must have parental consent before receiving his or her personal information.
+
+By using “THE WEBSITE”, User signifies the agreement to the terms of our Privacy Policy. If the User does not agree with these terms, the User should not use the site. “THE WEBSITE” may modify this Privacy Policy at any time without any prior notice. If a material change is made to this Privacy Policy and/or the way we use our User’s personally identifiable information, then we will post a prominent notice of the nature of such change on the first page of this Privacy Policy and on our home page. User is responsible for reviewing this Privacy Policy periodically to ensure that Users are aware of any changes to it. User’s continued use of the site indicates User consent to any changes to this Privacy Policy.
+
+It is imperative to mention that in the scenario of “THE WEBSITE” or substantially all of its assets being acquired, the User’s information will most likely also be transferred in connection with such acquisition. This policy is effective as of 10th October, 2010. Any material changes in the way “THE WEBSITE” uses personally identifiable information will be described in future versions of this Privacy Statement. Customers may submit concerns regarding our Privacy Statement or our privacy practices via email to [support@mycity4kids.com](mailto:support@mycity4kids.com). “THE WEBSITE” will attempt to respond to all concerns or inquiries within 3 working days of receipt.
+
+If users have any questions about this Privacy Policy, the privacy practices of this website, or if users want to exercise any of the rights that user are given under this Privacy Policy, User can contact “THE WEBSITE” at : Just4Kids Services Pvt Ltd, D6, 6129/1, Vasant Kunj, New Delhi 110 070
