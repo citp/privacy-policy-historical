@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the beaverbrooks.co.uk privacy policy that was archived on 2010-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101005080840id_/http%3A//beaverbrooks.co.uk/index.cfm%3Fevent%3DshowPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beaverbrooks.co.uk privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611110913id_/http%3A//www.beaverbrooks.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Beaverbrooks the Jewellers
+# Beaverbrooks Privacy Policy - Beaverbrooks The Jewellers
 
-The following statement explains our policy regarding the personal information we collect about you.
+The following statement explains Beaverbrooks policy regarding the personal information we collect about you.
 
   1. **Statement of intent**  
 From time to time, you will be asked to submit personal information about yourself (e.g. name and email address etc) in order to receive or use services on our website. Such services include newsletters, diary reminders and email bulletins. 
@@ -16,10 +16,18 @@ Any information that is supplied by cookies can help us to provide you with a be
 
 Both the cookies and the embedded code provide non-personal statistical information about visits to pages on the site, the duration of individual page view, paths taken by visitors through the site, data on visitors' screen settings and other general information. **Beaverbrooks the Jewellers Ltd** use this type of information, as with that obtained from other cookies used on the site, to help it improve the services to its users.
 
+The Beaverbrooks website uses Google Analytics, a web analytics service, which sets a cookie in order for us understand how visitors are using our site. Google Analytics collects the information anonymously and we use this information to help us improve our website.
+
+**If you wish to disable these cookies you can opt-out using the below link**
+
+<http://tools.google.com/dlpage/gaoptout?hl=en-GB>
+
   3. **What is a cookie?**  
 When you enter a site your computer will automatically be issued with a cookie. Cookies are text files that identify your computer to our server. Cookies in themselves do not identify the individual user, just the computer used. Many sites do this whenever a user visits their site in order to track traffic flows. 
 
 Cookies themselves only record those areas of the site that have been visited by the computer in question, and for how long. Users have the opportunity to set their computers to accept all cookies, to notify them when a cookie is issued, or not to receive cookies at any time. The last of these, of course, means that certain personalised services cannot then be provided to that user.
+
+If you do want to delete or control the use of Cookies you can find out how by following this link [www.aboutcookies.org](http://www.aboutcookies.org/ "How to Delete or Control Cookies")
 
 NB: Even if you haven't set your computer to reject cookies you can still browse our site anonymously until such time as you register for **Beaverbrooks the Jewellers Ltd** services.
 
