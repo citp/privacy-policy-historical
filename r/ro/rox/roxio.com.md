@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roxio.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215201852id_/http%3A//www.roxio.com/enu/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roxio.com privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611084350id_/http%3A//www.roxio.com/enu/company/privacy.html) for the most accurate reproduction.*
 
 # Roxio - Privacy Statement
 
@@ -22,7 +22,7 @@ Contact information for questions regarding this statement should be directed to
 Sonic Solutions Privacy Site Coordinator/Privacy Compliance  
 Sonic Solutions  
 7250 Redwood Blvd  
-Suite 110 Novato CA 94945  
+Suite 300 Novato CA 94945  
 email: [privacy@sonic.com](mailto:privacy@sonic.com)
 
 Please note that Sonic Web Sites may contain links to other sites and that these sites' Privacy Policies may not conform to our own. This Sonic Privacy Policy does not cover third party data collection practices and Sonic does not assume any responsibility for any actions of third parties. You are solely responsible for reading and understanding the privacy and other policies of such web sites, and for complying therewith.
