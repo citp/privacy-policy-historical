@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thefabricofourlives.com privacy policy that was archived on 2010-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101112154646id_/http%3A//www.thefabricofourlives.com/privacy-policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefabricofourlives.com privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611020128id_/http%3A//www.thefabricofourlives.com/privacy-policy.cfm) for the most accurate reproduction.*
 
 # Cotton: The Fabric of Our Lives
 
@@ -27,7 +27,7 @@ Any personal data you enter on our web sites when registering for contests, surv
 **How we use "cookies" and other technologies**  
 "Cookies" are small pieces of information that some Web sites store on your computer's hard drive when you visit their Web sites. Like many other Web sites, our sites use cookies, for example, to identify registered users so they may not have to enter personal information upon each visit. Most Web browsers automatically accept cookies but allow you to modify security settings so you can approve or reject cookies on a case-by-case basis. 
 
-As with many Web sites, we also may use other technology (e.g., web bugs, e-mail bugs, clear GIFs, web beacons and tracker GIFs) in our web sites and/or in our communications with you to enhance the functionality of our sites and to make your transactions and other activities more convenient and efficient (collectively, "Tracking Technologies"). These technologies may be used by us to store and collect information relating to your viewing and use of our sites and our correspondences with you. We also may collect your IP (Internet Protocol) address to help diagnose problems with our server, administer our site and identify our users. 
+As with many Web sites, we also may use other technology (e.g., web bugs, e-mail bugs, clear GIFs, web beacons and tracker GIFs) in our web sites and/or in our communications with you to enhance the functionality of our sites and to make your transactions and other activities more convenient and efficient (collectively, â€œTracking Technologiesâ€�). These technologies may be used by us to store and collect information relating to your viewing and use of our sites and our correspondences with you. We also may collect your IP (Internet Protocol) address to help diagnose problems with our server, administer our site and identify our users. 
 
 Third parties (including, but not limited to, software vendors, advertisers, content providers and fulfillment companies) may also use Tracking Technologies by or through our sites. We have no control over what information such third parties track or collect, and we have no responsibility or liability for any tracking, data collection or other activities of such third parties. 
 
