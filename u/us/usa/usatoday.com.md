@@ -1,22 +1,22 @@
-> *The following text is extracted and transformed from the usatoday.com privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213164518id_/http%3A//www.usatoday.com/marketing/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usatoday.com privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611154754id_/http%3A//www.usatoday.com/marketing/privacy-notice.htm) for the most accurate reproduction.*
 
 # USATODAY.com
 
-USATODAY.com Privacy Policy
+USATODAY.com Privacy Notice
 
-Last Updated: March 1, 2010
+Last Updated: February 15, 2011
 
-We take seriously your interest in how your information is collected and used. Please read the following to learn about our Privacy Policy.
+We take seriously your interest in how your information is collected and used. Please read the following to learn about our Privacy Notice.
 
-This Privacy Policy discloses the privacy practices of the USATODAY.com website (the "Site"). Specifically, it outlines the types of information that we gather about you while you are using the Site, and the ways in which we use and share this information. This Privacy Policy does not apply to any information you may provide to us, or that we may collect, offline and/or through other means (for example, at a live event, via telephone, or through the mail). In addition, this Privacy Policy does not apply to any activities (online or otherwise) of the USA TODAY print newspaper.
+This Privacy Notice discloses the privacy practices of the USATODAY.com website (the "Site"). Specifically, it outlines the types of information that we gather about you while you are using the Site, and the ways in which we use and share this information. This Privacy Notice does not apply to any information you may provide to us, or that we may collect, offline and/or through other means (for example, at a live event, via telephone, or through the mail). In addition, this Privacy Notice does not apply to any activities (online or otherwise) of the USA TODAY print newspaper.
 
-Please read this Privacy Policy carefully. By visiting and using the Site, you agree that your use of our Site, and any dispute over our online privacy practices, is governed by this Privacy Policy and our [Terms of Service](http://www.usatoday.com/marketing/tos.htm). Because the Web is an evolving medium, we may need to change our Privacy Policy at some point in the future, in which case we'll post the revised Privacy Policy on this website and update the "Last Updated" date to reflect the date of the changes. By continuing to use the Site after we post any such changes, you accept the Privacy Policy as modified. 
+Please read this Privacy Notice carefully. By visiting and using the Site, you agree that your use of our Site, and any dispute over our online privacy practices, is governed by this Privacy Notice and our [Terms of Service](http://www.usatoday.com/marketing/tos.htm). Because the Web is an evolving medium, we may need to change our Privacy Notice at some point in the future, in which case we'll post the revised Privacy Notice on this website and update the "Last Updated" date to reflect the date of the changes. By continuing to use the Site after we post any such changes, you accept the Privacy Notice as modified. 
 
 **Your California Privacy Rights**
 
 California Civil Code Section 1798.83, also known as the "Shine The Light" law, permits our customers who are California residents to request and obtain from us once a year, free of charge, information about the personal information (if any) we disclosed to third parties for direct marketing purposes in the preceding calendar year. If applicable, this information would include a list of the categories of personal information that was shared and the names and addresses of all third parties with which we shared information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to:
 
-Kim Jaske  
+Mark Faris  
 Online Privacy Coordinator  
 [USATODAY.com](http://www.usatoday.com/)  
 Gannett Law Department   
@@ -29,13 +29,13 @@ The information that we collect about you while you are using the Site falls int
 
 1\. _Information You Provide to Us._
 
-We may collect and store information, including personally-identifiable information (such as your name, postal address or e-mail address), or other information, that you voluntarily supply to us either while on the Site or in responding via e-mail in connection with a feature provided on the Site. Some examples of this type of information include information that you electronically submit when you contact us with questions, information that you post on blogs, discussion forums or other community posting and social networking areas on our Site, information that you electronically submit when you complete an online registration form to access and use certain features of our Site, and information contained in search requests or questions that you submit to the Site. We also may ask for information (including a credit card number and other financial information) from those users who make purchases or have payment transactions on our Site. If you decline to supply or provide us with certain information while using the Site, you may not be able to use or participate in some or all of the features offered through the Site. 
+We may collect, through a variety of technologies and practices, and store information, including personally-identifiable information (such as your name, postal address or e-mail address), or other information, that you voluntarily supply to us either while on the Site or in responding via e-mail in connection with a feature provided on the Site. Some examples of this type of information include information that you electronically submit when you contact us with questions, information that you post on blogs, discussion forums or other community posting and social networking areas on our Site, information that you electronically submit when you complete an online registration form to access and use certain features of our Site, and information contained in search requests or questions that you submit to the Site. We also may ask for information (including a credit card number and other financial information) from those users who make purchases or have payment transactions on our Site. If you decline to supply or provide us with certain information while using the Site, you may not be able to use or participate in some or all of the features offered through the Site. 
 
 2\. _Information that is Automatically Collected._
 
 We also collect and store non-personally identifiable information that is generated automatically as you navigate through the Site. For example, we may collect information about your computer's connection to the Internet, which allows us, among other things, to improve the delivery of our web pages to you and to measure traffic on the Site. We also may use a standard feature found in browser software called a "cookie" to enhance your experience with the Site. Cookies are small files that your web browser places on your hard drive for record-keeping purposes. By showing how and when visitors use the Site, cookies help us deliver advertisements, identify how many unique users visit us, and track user trends and patterns. They also prevent you from having to re-enter your preferences on certain areas of the Site where you have entered preference information before. This Site also may use web beacons (single-pixel graphic files also known as "transparent GIFs") to access cookies and to count users who visit the Site or open our HTML-formatted e-mail messages.
 
-If you want to limit the non-personally identifiable information that is automatically collected while you use our Site, most Web browsers allow you to disable cookies. To disable cookies using Internet Explorer, select “Internet Options” under the Tools menu and click on “Privacy.” Select “High” or “Block All Cookies.” To disable cookies using Mozilla Firefox, select “Options” under the “Tools” menu. If you choose to disable cookies, you may not be able to use or participate in some or all of the features offered through the Site.
+If you want to limit the non-personally identifiable information that is automatically collected while you use our Site, most Web browsers allow you to disable certain functionality or set certain privacy settings. For example, to disable cookies using Internet Explorer, select “Internet Options” under the Tools menu and click on “Privacy.” Select “High” or “Block All Cookies.” To disable cookies using Mozilla Firefox, select “Options” under the “Tools” menu. If you choose to disable cookies, or turn off other functionality, you may not be able to use or participate in some or all of the features offered through the Site.
 
 **How is this Information Used?**
 
@@ -43,7 +43,7 @@ We use the information we collect from you while you are using the Site in a var
 
 We will not use the information that we collect while you are using the Site, nor will we authorize third parties to use such information, to mail or e-mail promotional offers directly to you unless you have specifically informed us that you would like to receive such promotional offers. If you wish to receive such promotional offers or view or update your preferences you may do so at [registration.usatoday.com](http://registration.usatoday.com/).
 
-Otherwise, we may share information we collect while you are using the Site with our affiliates and with trusted third-party service providers who assist us in providing services. If you do not wish your personally identifiable information to be used or shared for these purposes, send a letter to the Online Privacy Coordinator whose contact information is listed at the end of this Privacy Policy. 
+Otherwise, we may share information we collect while you are using the Site with our affiliates and with trusted third-party service providers who assist us in providing services. If you do not wish your personally identifiable information to be used or shared for these purposes, send a letter to the Online Privacy Coordinator whose contact information is listed at the end of this Privacy Notice. 
 
 For information about use of your information by us and by third-party advertising service providers for advertising and by , see the section “Data Collected in Connection with Ad Serving and Targeting.”
 
@@ -67,7 +67,10 @@ The data collected in connection with the ad serving and ad targeting on our Sit
 
 The use and collection of information by our third-party advertising service providers is governed by the individual privacy policies of those providers.
 
-All of our advertising service providers are members of the Network Advertising Initiative (“NAI”). You can obtain more information about these advertising service providers’ information collection practices, and opt out of such practices (and at the same time opt out of the collection practices of other, or all, NAI members) by following the opt out instructions on the NAI’s website at <http://www.networkadvertising.org/managing/opt_out.asp>
+All of our advertising service providers are members of the Network Advertising Initiative (“NAI”). You can obtain more information about these advertising service providers’ information collection practices, and opt out of such practices (and at the same time opt out of the collection practices of other, or all, NAI members) by following the opt out instructions on the NAI’s website at 
+
+<http://www.networkadvertising.org/managing/opt_out.asp>  
+
 
 **_Information You Post to Blogs, Discussion Forums and Other Community Posting or Social Networking Areas_**
 
@@ -95,9 +98,9 @@ All information we gather on our Site is stored within a database to which only 
 
 **Questions Regarding Privacy**
 
-If you have questions or concerns about this Privacy Policy, our privacy practices, or your dealings with us, please contact us by writing to: 
+If you have questions or concerns about this Privacy Notice, our privacy practices, or your dealings with us, please contact us by writing to: 
 
-Kim Jaske  
+Mark Faris  
 Online Privacy Coordinator  
 [USATODAY.com](http://www.usatoday.com/)  
 Gannett Law Department   
