@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sgi.sk.ca privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125174130id_/http%3A//www.sgi.sk.ca/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sgi.sk.ca privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611092239id_/http%3A//www.sgi.sk.ca/privacy.html) for the most accurate reproduction.*
 
-# Protecting your privacy - SGI
+# Privacy - SGI
 
   | 
 
@@ -8,7 +8,7 @@
 
 At SGI we value our customers and take your privacy seriously. You can rest assured that we’ll protect and respect your personal information and privacy.
 
-This information complements our [Corporate Privacy Policy](https://web.archive.org/web/20101125174130id_/http%3A//www.sgi.sk.ca/corporate_privacy_policy.pdf), which we developed to anticipate a broad range of circumstances.
+This information complements our [Corporate Privacy Policy](https://web.archive.org/web/20110611092239id_/http%3A//www.sgi.sk.ca/corporate_privacy_policy.pdf), which we developed to anticipate a broad range of circumstances.
 
 Our commitment to you is to collect only the information we need to conduct your business and to adhere to industry best practices in handling and protecting your personal information.
 
@@ -18,7 +18,7 @@ Protecting your privacy is important to us at SGI.
 
 Personal information is information that relates specifically to you as a customer. Depending on the service or products you require, SGI collects and retains the following personal information about you:
 
-  * Name, address, home and work phone and fax numbers, email address and cellphone number.
+  * Name, physical and mailing address, home and work phone and fax numbers, email address and cellphone number.
   * Age, gender, and marital and family status.
   * Education, employment status, including the name and address of your current Employer, and work history.
   * Financial and property status information (i.e., mortgage or leasing information on property you hold, money owed to SGI, bank information, credit information, tax information, and information regarding receipt of government benefits, etc.).
@@ -87,8 +87,8 @@ If you chose to exercise the right to refuse access to your information or withd
 
 Please Note: In many situations, SGI may not be able to provide you with a particular product or service without your personal information.
 
-#### Your driver's licence
+#### Your personal identification
 
-SGI provides you with a driver’s licence or photo identification card for the sole purpose of enabling you to operate a motor vehicle on Saskatchewan roadways.
+SGI provides you with a driver’s licence for the sole purpose of enabling you to operate a motor vehicle on Saskatchewan roadways. We also provide photo identification cards to non-drivers for identification purposes.
 
 Many organizations and businesses seek to collect or retain a copy of this information for other reasons (i.e., to verify your identity or prevent fraud). SGI reminds you to use caution when providing your driver’s licence or photo identification card to other organizations. In circumstances where you provide this information, you may want to ask the organization why this information is required, and how it is being stored to ensure it is safe. You must also ensure your information is being safeguarded against unauthorized access by individuals who may use it or acquire your identification or personal information without your consent. 
