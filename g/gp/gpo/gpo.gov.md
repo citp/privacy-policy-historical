@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gpo.gov privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126151721id_/http%3A//www.gpo.gov/etc/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gpo.gov privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611172541id_/http%3A//gpo.gov/etc/privacy.htm) for the most accurate reproduction.*
 
 # Privacy
 
-Find Government publications with GPO's Federal Digital System 
+America's Authentic Government Information 
 
 * * *
 
