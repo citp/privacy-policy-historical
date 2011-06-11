@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itwire.com privacy policy that was archived on 2010-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101210164233id_/http%3A//www.itwire.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itwire.com privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611040925id_/http%3A//www.itwire.com/privacy-policy) for the most accurate reproduction.*
 
 # iTWire - Privacy Policy
 
@@ -31,7 +31,6 @@ We will only record your e-mail address if you send us a message. Your e-mail ad
 
 \- sponsored feature - 
 
-## Essential ERP buyers guide
+## Five Models for Data Stewardship
 
-[](http://www.itwire.com/click/ccount12/click.php?id=51)Enterprise Resource Planning Solutions for Growing Businesses   
-Most successful small and medium-sized businesses reach a point when they must make hard decisions if they want to continue growing and maintain a competitive edge. As such companies expand and develop, they can no longer rely on small-scale IT platforms or out-of-the-box software to handle their increasingly complex business processes. [](http://www.itwire.com/click/ccount12/click.php?id=51)
+[](http://www.itwire.com/privacy-policy#form)[](http://www.itwire.com/click/ccount12/click.php?id=76)Former Intel CEO Andy Grove once coined the phrase, “Technology happens.” As true as Grove’s pat aphorism has become, it’s not always good news. Twenty years ago, no one ever got fired for buying IBM. In the heyday of customer relationship management (CRM), com- panies bought first and asked questions later. Nowadays, business intelligence, data quality and master data management (MDM) initiatives have opened companies’ eyes to the fact that—absent sustained processes and data-centric expertise—the tools themselves rarely solve the problem.[](http://www.itwire.com/click/ccount12/click.php?id=76)
