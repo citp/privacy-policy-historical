@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fox17.com privacy policy that was archived on 2010-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101208224243id_/http%3A//www.fox17.com/sections/station/legal/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fox17.com privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611083534id_/http%3A//www.fox17.com/sections/station/legal/privacy.shtml) for the most accurate reproduction.*
 
 # WZTV FOX17 :: Privacy Policy
 
@@ -13,6 +13,8 @@ The Website does not knowingly collect information from any individuals under th
 **Information the Website Collects**
 
 The personally identifying information the Website intentionally collects from users who submit video(s)/posting(s)/email(s) to the Website are those users’ names, addresses, telephone numbers, e-mail addresses, age/date of birth and gender. Addition personal information may unintentionally be collected if such information is provided in submitted video(s)/posting(s)/email(s). Personal information included in a video(s)/posting(s) is by its nature available to the general public and no such information should be posted by any user who desires to keep it private. The Station is not responsible for any use which may be made of such information by any third party.
+
+Like most major websites, the Website uses "cookies." A "cookie" is a small piece of text that a web server stores on your computer in order to make your experience better upon return visits to that website. The Website uses cookies to aggregate information about our users to allow us to see how our visitors navigate the site in order to make improvements in the site's design. Cookies are not a program and do not allow us to access any information on your computer other than the information that we initially placed there.
 
 In addition, we have web logs which collect standard information each time we serve a page on the Website. The web logs provide us with information on our users Internet protocol addresses, the pages of the Website visited and a date and time stamp. This information allows us to administer the website and identify how it is being used.
 
@@ -32,17 +34,15 @@ The Website allows certain advertisements/postings which include links to other 
 
 5:30PM King of the Hill
 
-6:00PM Two and a Half Men
+6:00PM Two And A Half Men
 
 6:30PM How I Met Your Mother
 
-7:00PM Human Target
+7:00PM Bones
 
-8:00PM Hell's Kitchen
+8:00PM Lie to Me
 
-9:00PM FOX News at 9:00
-
-10:00PM FOX News at 10:00  
+9:00PM FOX17 News at 9:00
 
 * * *
 
@@ -50,15 +50,15 @@ The Website allows certain advertisements/postings which include links to other 
 
 [To FOX.com](http://www.fox.com/)
 
-31°
+73°
 
 [](https://web.archive.org/newsroom/wx/#iradar)
 
 ## Forecast
 
-**TODAY:** A mix of clouds and sun with a high near 33. Calm wind becoming north around 5 mph. 
+**TONIGHT:** Mostly clear, with lows in the upper 60s and lower 70s. West southwest wind around 5 mph becoming calm. 
 
-**TONIGHT:** Mostly clear, ...
+**SATURDAY:** Scattered showers and thunderstorms ...
 
 [](https://web.archive.org/newsroom/wx/)
 
