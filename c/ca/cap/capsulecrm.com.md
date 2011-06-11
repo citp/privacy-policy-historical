@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the capsulecrm.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212220048id_/http%3A//capsulecrm.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the capsulecrm.com privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611061433id_/http%3A//capsulecrm.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -17,7 +17,7 @@ We may also collect information about your usage of the Service, as well as info
 We will only use your personal information for the following purposes:
 
   * to enable us to provide you with access to the Website and to use the Service and to enable you to download information and materials from the Website; the registration form, to contact you with our newsletter and other email updates; 
-  * to make you occasional offers of Zestia products or services or to make you aware of other products or services offered by us from time to time; 
+  * to make you aware of other products or services offered by us from time to time; 
   * to produce reports, statistics and analysis of the types of people who access the Website; 
   * to contact you for your views on the Website and to notify you occasionally about important changes or developments to the Website; and 
   * to administer, support, improve and develop Our Website. 
@@ -28,7 +28,7 @@ If you change your mind about being contacted in the future, please let us know 
 
 We reserve the right to use the name and/or logo of the company you work for in publicity material, advertising or marketing collateral, unless you specifically tell us otherwise. Your name, address details and all other personal information will remain confidential at all times. 
 
-### Zestia does not store your credit card details
+### We do not store your credit card details
 
 If you choose to pay for the Service using a Credit Card, your credit card details are not stored by us and cannot be used by our staff.
 
@@ -62,7 +62,7 @@ By using the Website and/or the Service you consent to our third party service p
 
 A cookie is a text-only string of information that is stored by your browser when you navigate around a website. Cookies are required to use the Capsule CRM service and are used in the following ways: 
 
-  * To keep a session open after a user logs in. This cookie will automatically expire after 30 minutes of inactivity or when the user explicitly logs out.
+  * To keep a session open after a user logs in.
   * To compile anonymous, aggregated statistics that allow us to understand how users use our site and to help us improve the structure of our website. We cannot identify you personally in this way. 
   * When a user has enabled 'Remember Me on This Computer' a cookie allows the user to access their account without logging in each time. This cookie is removed when the user explicitly logs out. 
 
@@ -88,7 +88,7 @@ You agree to indemnify us and keep us indemnified and defend us at your own expe
 
 Our servers use SSL security certificates so all data transferred between your users and our servers is encrypted. However, the internet is not in itself a secure environment. Users should only enter, or instruct the importation of, data to the database within a secure environment. This means that the user’s browser must support the encryption security used in connection with the our servers. 
 
-### Zestia will give you access to your data at any time
+### We will give you access to your data at any time
 
 On request, we will provide the Administrator with a full export of your data in a common file format determined by us.
 
@@ -96,7 +96,7 @@ Your data may be permanently deleted by us after you stop paying to use the Serv
 
 ### We monitor system usage
 
-Zestia have access to and may use aggregate information such as number of associated users, number of transactions and billing information for the purpose of billing and monitoring server and software performance as well as for other internal purposes. 
+We have access to and may use aggregate information such as number of associated users, number of transactions and billing information for the purpose of billing and monitoring server and software performance as well as for other internal purposes. 
 
 We will never access the details of any information entered and stored in the the Service. We will never access system usage history for a specific identifiable user, except where granted permission by the user to assist with resolution of a system issue or error. 
 
