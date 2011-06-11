@@ -1,24 +1,24 @@
-> *The following text is extracted and transformed from the ielts.org privacy policy that was archived on 2010-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101031191411id_/http%3A//www.ielts.org/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ielts.org privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611091437id_/http%3A//www.ielts.org/privacy_policy.aspx) for the most accurate reproduction.*
 
 # IELTS | Privacy Policy
 
 ## Privacy Statement
 
-  * [Privacy Policy](https://web.archive.org/privacy_policy.aspx#PrivacyPolicy)
-  * [Protecting Personal Information](https://web.archive.org/privacy_policy.aspx#ProtectingPersonalInformation)
-  * [Information that the company holds](https://web.archive.org/privacy_policy.aspx#Informationthatthecompanyholds)
-  * [Web site tracking](https://web.archive.org/privacy_policy.aspx#Websitetraffictracking)
-  * [Use and Disclosure of Personal Information](https://web.archive.org/privacy_policy.aspx#UseandDisclosureofPersonalInformation)
-  * [Security of Personal Information](https://web.archive.org/privacy_policy.aspx#SecurityofPersonalInformation)
-  * [Right of Access by the Individual](https://web.archive.org/privacy_policy.aspx#RightofAccessbytheIndividual)
-  * [Privacy Representative](https://web.archive.org/privacy_policy.aspx#PrivacyRepresentative)
-  * [Personal Information Management Policy Statement](https://web.archive.org/privacy_policy.aspx#PersonalInformationManagementPolicyStatement)
+  * [**Privacy Policy**](https://web.archive.org/privacy_policy.aspx#PrivacyPolicy)
+  * [**Protecting Personal Information**](https://web.archive.org/privacy_policy.aspx#ProtectingPersonalInformation)
+  * [**Information that the company holds**](https://web.archive.org/privacy_policy.aspx#Informationthatthecompanyholds)
+  * [**Web site tracking**](https://web.archive.org/privacy_policy.aspx#Websitetraffictracking)
+  * [**Use and Disclosure of Personal Information**](https://web.archive.org/privacy_policy.aspx#UseandDisclosureofPersonalInformation)
+  * [**Security of Personal Information**](https://web.archive.org/privacy_policy.aspx#SecurityofPersonalInformation)
+  * [**Right of Access by the Individual**](https://web.archive.org/privacy_policy.aspx#RightofAccessbytheIndividual)
+  * [**Privacy Representative**](https://web.archive.org/privacy_policy.aspx#PrivacyRepresentative)
+  * [**Personal Information Management Policy Statement**](https://web.archive.org/privacy_policy.aspx#PersonalInformationManagementPolicyStatement)
 
 
 
 ## Privacy Policy
 
-The company is subject to the [Privacy Act](http://www.privacy.gov.au/act/index.html) and the associated National Privacy Principles.
+The company is subject to the [**Privacy Act**](http://www.privacy.gov.au/law) and the associated National Privacy Principles.
 
 This policy sets out how the company collects, holds and uses personal information collected from individuals in the conduct of our business.
 
@@ -88,7 +88,7 @@ IELTS Webmaster
 
 ## Personal Information Management Policy Statement
 
-IELTS Australia Limited (IELTS) is bound by the National Privacy Principles (NPP's), as set out in the [Privacy Act 1988](http://www.privacy.gov.au/act/index.html) (as amended).
+IELTS Australia Limited (IELTS) is bound by the National Privacy Principles (NPP's), as set out in the [**Privacy Act 1988**](http://www.privacy.gov.au/law) (as amended).
 
 In general, IELTS partners hold the following types of personal information:
 
