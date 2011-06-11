@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the radisson.com privacy policy that was archived on 2010-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101207131612id_/http%3A//www.radisson.com/sectiontemplate.do%3Fsidemenu%3Dprivacy.sidemenus%26section%3Dprivacy.home) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radisson.com privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611193447id_/http%3A//www.radisson.com/sectiontemplate.do%3Fsidemenu%3Dprivacy.sidemenus%26section%3Dprivacy.home) for the most accurate reproduction.*
 
 # Guest Privacy Policy
 
 [](http://www.truste.org/ivalidate.php?url=www.radisson.com&sealid=103) Carlson Hotels Guest Privacy Policy - Effective October 28, 2007  
-Last Updated June 15, 2010
+Last Updated March 31, 2011
 
- **Carlson Hotels  Privacy Promises.** Carlson Hotels together with its subsidiaries (collectively, "the Carlson Family of Hotels") take your privacy seriously. These are our ten promises to you: 
+ **Carlson Hotels  Privacy Promises.** Carlson Hotels together with its subsidiaries (collectively, "Carlson Hotels") take your privacy seriously. These are our ten promises to you: 
 
   1. **Notice.** When we collect your personal information, we will give you timely and appropriate notice describing what personal information we are collecting, how we will use it, and the types of third parties with whom we may share it.
   2. **Choice.** We will give you choices about the ways we use and share your personal information, and we will respect the choices you make.
@@ -31,4 +31,4 @@ To access your information, ask questions about our privacy practices, change yo
 > 
 > Email: privacy@radisson.com.
 
-If your inquiry is not satisfactorily addressed, contact the TRUSTe Dispute Resolution Process at [www.truste.org/consumers/watchdog_complaint.php](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will serve as a liaison with the website to resolve your concerns.
+If your inquiry is not satisfactorily addressed, contact the TRUSTe Dispute Resolution Process at <http://watchdog.truste.com/pvr.php?page=complaint>. TRUSTe will serve as a liaison with the website to resolve your concerns.
