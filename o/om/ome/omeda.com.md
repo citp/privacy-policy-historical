@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the omeda.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229120147id_/http%3A//www.omeda.com/privacy_policy_omeda.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omeda.com privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611022604id_/http%3A//www.omeda.com/privacy_policy_omeda.html) for the most accurate reproduction.*
 
 # Omeda - Data Driven Marketing
 
