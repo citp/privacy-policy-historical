@@ -1,15 +1,40 @@
-> *The following text is extracted and transformed from the showing.com privacy policy that was archived on 2007-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070712172457id_/http%3A//showing.com/templates/elements/almondnet.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the showing.com privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611085314id_/http%3A//showing.com/privacy_policy) for the most accurate reproduction.*
 
-# Our Use of Your Information
+# Showing.com
 
-In general, you can browse a large portion of this site without telling us who you are or revealing any personal information about yourself. Once you give us your personal information, you are not anonymous to us. You will be notified when your personal information is collected by any third party that is not our agent/service provider so that you can make an informed choice as to whether or not to share your information with that party.
+**Privacy Policy**
 
-We may automatically collect certain information based upon your behavior on the site. We use this information to do internal research on our users' demographics, interests, and behavior in order to serve our users better. This information may include the URL that you come from or go to (whether this URL is on the site or not), your computer browser information, and your IP address.
+Showing.com has created this Privacy Policy to explain our practices with respect to the collection, use, and disclosure of personal and non-personal information provided by visitors to our Web site. By using this site, you agree to our privacy practices and the terms and conditions of our Web site. If this policy is not agreeable to you, please leave the site immediately.   
+What type information is collected?
 
-We allow advertisers and other business partners to place "cookies" onto your computer when you visit this website. These "cookies" are placed to keep track of the web searches you make while visiting this website, as well as your web surfing behavior on this website and other websites you may visit. That information is used to show you advertisements tailored to your interests on this and other websites, and/or to keep track of your response to each ad. If you would like more information about this practice and would like to know your choices about not having this information used to target ads to you, please [click here](http://www.networkadvertising.org/consumer/opt_out.asp).
+We only collect personal information from our members that is voluntarily provided to us through our registration form. We may require visitors to provide us with information including, but not limited to, their name, physical address, email address, username, and password.  
+Upon visiting the website, certain non-personal information may be collected from our visitors including, but not limited to, their browser type (e.g., FireFox or Internet Explorer), operating system (e.g., Windows or Macintosh), IP address, and the domain name from which they accessed the site (e.g., google.com). In addition, we may collect information about visitors' browsing behavior, such as the date and time they visit the Web site, the areas or pages of our Web site that they visit, the amount of time spent viewing the site, the number of times the visitor returns to the site, and click-stream data. We use tracking codes to determine the number of Web site visitors that have been sent to us through our affiliate network. We do not track any information about visitors once they leave our site. We may use cookies (small text files that are stored on visitors computers when they access our Web site) to collect this information. Information collected through cookies may be combined with visitors' personal information. Third party advertisers may also serve cookies to visitors of our Web site. Visitors are always free to decline cookies, but in doing so they may not be able to use certain features on our Web site. The "help" section in most browsers explains how to configure a browser to not accept new cookies, how to have the browser inform a user when they receive a new cookie, and how to erase cookies from their hard drives.   
+In what way do we use your personal and non-personal information?
 
-Please be advised that we have no access to or control over our business partner's "cookies". This privacy statement covers the use of "cookies" by this site only and does not cover the use of "cookies" by any advertisers.
+We collect personal information in order to provide our site visitors with targetted information to best enrich their surfing experience. By learning about our site visitors, we are able to deliver more relevant content and advertisements which will provide a better service. We may use information collected from visitors to our Web site for any of the following purposes:  
+1\. to send visitors information and promotional materials about our company  
+2\. to send visitors information and promotional materials from our marketing partners and third parties (such as advertisers on our Web site)  
+3\. to deliver targeted display advertisements and offers by email (by matching criteria provided by our advertisers with information collected from our visitors)  
+4\. to contact visitors to our Web site when necessary  
+5\. to allow one-click purchases or access to proprietary content by pre-populating fields, within registration or other transaction screens, with a visitor's name, billing address, and email (among other things), as provided by that visitor  
+6\. to help diagnose problems with our server  
+7\. to administer our Web site  
+8\. to conduct internal reviews of our site (e.g., to determine the number of visitors to the site)  
+9\. to help us better understand visitors' use of our site  
+10\. to protect the security or integrity of our site.
 
-If you send us personal correspondence, such as emails or letters, or if other users or third parties send us correspondence about your activities on the site, we may collect such information into a file specific to you.
+Non-personal information will be used for purposes of conducting internal reviews of the site, monitoring the site, and providing a greater online experience for our visitors.   
+What security measures do we take to protect your data?
 
-You agree that we may use your information to contact you and deliver information to you that, in some cases, is targeted to your perceived interests, such as targeted banner advertisements, administrative notices, product offerings, and communications relevant to your use of the site. Through your access and use of this site, you hereby expressly agree to receive this information.
+We allow access to personal information only to persons and entities engaging in activities provided for by this Privacy Policy. Visitors should consider any communication that they transmit to us (suchas data, questions or answers, comments, suggestions, or communications submitted to a chat room) to be non-confidential. We will not be liable or responsible if information that belongs to a visitor isintercepted and used by an unintended recipient.   
+Corporate changes.
+
+In the event that we sell our site or another company takes ownership of Showing.com, any of our assets may be transferred to a third party, including personal information collected from visitors to ourWeb site in the past.   
+Our Commitment To Data Security
+
+To avoid unlawful entry, sustain data precision, and make certain the accurate use of information, we have put in place coherent and suitable physical, electronic, and administrative measures to preserve and secure the information we collect online.   
+Acceptance of privacy terms & conditions
+
+By visiting this Web site, you are agreeing to our Privacy Policy and practices. We may at any time revise these terms and conditions. We have the right to revise our Privacy Policy at any time, therefore you should return to this page to view of any changes. Any of the third-party sites accessible through our Web site (such as our advertisers) may have different privacy practices from our own, we are not responsible for the policies, content, and practices of other companies. 
+
+Loading...
