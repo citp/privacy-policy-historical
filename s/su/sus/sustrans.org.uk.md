@@ -1,0 +1,110 @@
+> *The following text is extracted and transformed from the sustrans.org.uk privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611082013id_/http%3A//www.sustrans.org.uk/about-sustrans/privacy) for the most accurate reproduction.*
+
+# Privacy | Sustrans
+
+## Privacy
+
+Sustrans is committed to ensuring that your privacy is protected in compliance with the Data Protection Act, including ensuring that any personal data collected is used fairly and responsibly, kept accurate and up-to-date and held securely.
+
+Sustrans is named as the Data Controller on the public register of data controllers which is available on the Information Commissioner's website (Registration Number Z7399708). 
+
+This policy applies to all the pages hosted on this site - [http://www.sustrans.org.uk](http://www.sustrans.org.uk/) It does not apply to other organisations to which we may link and whose privacy policies may differ.
+
+**1\. The information we collect and how we use it**
+
+We collect only information which you give to us via email, the various forms on the website, the Good in 5 app or information voluntarily given to us in person, via telephone or postal mail. Some information is gathered when you make a donation, sign up to a campaign, take part in an online survey, or sign up to receive email updates. During these processes, the only information required is your name, address, phone, email (and payment method for joining or donating); although we may request other information, including your principal area(s) of interest in order to be able to provide you with more tailored information.
+
+If you purchase items from our on-line shop, or make an on-line donation we will record your name, address, e-mail, and phone number.
+
+We gather this information to allow us to process your orders and any donation you may make. The relevant information is then used by us, our agents and sub-contractors to provide you with statements of your account, to inform you of events which may be of interest to you and to communicate with you on any matter relating to the conduct of your account in general.
+
+We may also use aggregate information and statistics for the purposes of monitoring website usage in order to help us develop the website and our services and we may provide such aggregate information to third parties. These statistics will not include information that can be used to identify any individual.
+
+If you subscribe to our email newsletter, we may notify you of information via post, telephone or email about our activities, events or products we think may be of interest to you, and how you can support us. Sustrans will not share your details with anyone else without your permission or unless ordered by a court of law. In all cases where personal data is recorded, they will be stored securely. 
+
+**2\. Our use of cookies and other information gathering technologies**
+
+The Sustrans website uses "cookies" to help personalise your online experience. A cookie is a text file that is placed on your hard disk by a web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
+
+We use cookies on our website and within the service for a number of reasons including: 
+
+  * Tracking of user login sessions 
+  * Tracking referrals 
+  * To help ensure our users are abiding by the Terms of Service 
+  * To track advertising and marketing activities 
+
+
+
+You have the ability to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience all the features on the Sustrans website. 
+
+We use Google Analytics to analyse the use of this website. Google Analytics generates statistical and other information about website use by means of cookies, which are stored on users' computers. The information generated relating to our website is used to create reports about the use of the website. Google will store this information. Google's privacy policy is available at: <http://www.google.com/privacypolicy.html> and <http://www.google.com/analytics/support.html>
+
+**3\. Sharing your data**
+
+When you are on the Sustrans website and are asked for personal information, your information is for Sustrans' use only, and will not be shared with third parties unless you specifically authorise us to do so.
+
+The only data recorded from the Sustrans Survey for the Good in 5 app, will be your postcode, age and gender. This data will only be used to update Sustrans partners on the demand for improved provision for cyclists, and will not be used for any other purpose. Your name, address or any other personal information will not be collected via the Sustrans Survey for the Good in 5 app. 
+
+**4\. How we protect your information**
+
+The internet is not a secure medium. However we have put in place various security procedures as set out in this policy. 
+
+All credit card transactions on our online shop are processed by Sage Pay. Sage Pay is audited annually under the Payment Card Industry Data Security Standards (PCI DSS) and is a fully approved Level 1 payment services provider, which is the highest level of compliance. They are also active members of the PCI Security Standards Council (SSC) that defines card industry global regulation.
+
+No cardholder information is ever passed to the Sustrans servers; rather an authorisation code and payment confirmation is received to complete and process orders.
+
+You can be completely secure in the knowledge that nothing you pass to the Sage Pay servers can be examined, used or modified by any third parties attempting to gain access to sensitive information.
+
+We also keep your information confidential. The internal procedures of Sustrans cover the storage, access and disclosure of your information. 
+
+**5\. Updating your details**
+
+If any of the information that you have provided to Sustrans changes, for example if you change your e-mail or postal address, please email [info@sustrans.org.uk](mailto:info@sustrans.org.uk)
+
+If you would prefer not to receive information from Sustrans, please email [unsubscribe@sustrans.org.uk](mailto:unsubscribe@sustrans.org.uk)
+
+If you have any questions about the information we maintain about your supporter details, or wish to change your supporter details, please email [supporters@sustrans.org.uk](mailto:supporters@sustrans.org.uk)
+
+**6\. Your consent**
+
+By submitting your information you consent to the use of that information as set out in this policy. If we change our privacy policy we will post the changes on the Sustrans website, so that you are aware of the information we collect and how we use it at all times. We will also email you should we make any changes so that you may consent to our use of your information in that way. Continued use of the service will signify that you agree to any such changes.
+
+The DPA applies to all personal data held within the European Economic Area (EEA). We will only transfer personal data to an organisation outside the EEA if we have a contract with it which ensures that the standards set out in this policy are maintained.
+
+**7\. Links to other websites**
+
+Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that Sustrans does not have any control over that other website. Therefore, Sustrans cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+
+**8\. Children's Privacy**
+
+It is our policy not to knowingly send information, or request donations from children. No information should be submitted to or posted to the Sustrans website by children without the prior consent of their parent or legal guardian.
+
+If children register to receive information from Sustrans, and we are not made aware of an individual's age, their personal information will be securely stored and we may contact them from time to time to tell them about future events. However, if we become aware (or are advised) that an individual under 18 has registered on the Sustrans website, their personal data will be deleted, until parental/legal guardian consent has been received. All applicable laws are followed with respect to data collection from children. 
+
+**9\. Disclaimer**
+
+The Internet is not a 100% secure medium for communication and, accordingly, we cannot guarantee the security of any information you send to us (or we send to you) via the Internet.
+
+In no event shall we be liable for any direct, indirect, incidental, special, exemplary, or consequential damages (including, but not limited to, procurement of substitute goods or services; loss of use, data, or profits; or business interruption) however caused and on any theory of liability, whether in contract, strict liability, or tort (including negligence or otherwise) arising in any way out of the use of this service, even if advised of the possibility of such damage. 
+
+We are not responsible for any damages which you, or others, may suffer as a result of the loss of confidentiality of such information. 
+
+We cannot ensure or warrant the security of any information you transmit to us or from our online products or services, and you do so at your own risk. Once we receive your transmission, we make our best effort to ensure its security on our systems. 
+
+**10\. Your rights**
+
+On receipt of proof of identity and a written request, we will provide you with a copy of any information that we hold about you. Please write to:
+
+Luke Burton, Sustrans, 2 Cathedral Square, College Green, Bristol, BS1 5DD
+
+We will reply within forty calendar days.
+
+**11\. How to contact Sustrans**
+
+If you have any queries or comments about this privacy policy, please send a letter to:
+
+Luke Burton, Sustrans, 2 Cathedral Square, College Green, Bristol, BS1 5DD
+
+Last updated March 2011
+
+[Back to Top](http://www.sustrans.org.uk/about-sustrans/privacy#top)
