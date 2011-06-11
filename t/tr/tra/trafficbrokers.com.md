@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trafficbrokers.com privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201060233id_/http%3A//www.trafficbrokers.com/privacy.cgi) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trafficbrokers.com privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611030100id_/http%3A//www.trafficbrokers.com/privacy.cgi) for the most accurate reproduction.*
 
 # Traffic Brokers - The #1 Make Money Online Community
 
@@ -11,7 +11,7 @@ If you want to opt-out of email communications from TrafficBrokers.com, cancel y
   
 2\. Website: [http://www.trafficbrokers.com/cancel.cgi](https://web.archive.org/cancel.cgi)  
   
-3\. Postal Mail: 1608 S. Ashland Ave Suite 19161, Chicago, IL 60608  
+3\. Postal Mail: 1675 Larimer Street, Suite 640, Denver, CO 80202  
   
 4\. Telephone: (773)634-9931
 
@@ -94,7 +94,7 @@ Please note however that even if you opt-out, you may still receive important an
   
 2\. Website: [http://www.trafficbrokers.com/cancel.cgi](https://web.archive.org/cancel.cgi)  
   
-3\. Postal Mail: 1608 S. Ashland Ave Suite 19161, Chicago, IL 60608  
+3\. Postal Mail: 1675 Larimer Street, Suite 640, Denver, CO 80202  
   
 4\. Telephone: (773)634-9931
 
