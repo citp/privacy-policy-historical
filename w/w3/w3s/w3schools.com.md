@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the w3schools.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230164927id_/http%3A//www.w3schools.com/about/about_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the w3schools.com privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611172631id_/http%3A//www.w3schools.com/about/about_privacy.asp) for the most accurate reproduction.*
 
 # About Privacy
 
@@ -61,28 +61,16 @@ For any questions about this privacy statement, please contact:
 
 * * *
 
-## [ Stylus Studio® XML Development Environment](http://www.stylusstudio.com/)
+## Make your web applications look like a million bucks
 
-[ ](http://www.stylusstudio.com/)
+[ ](http://www.fusioncharts.com/flash?utm_source=w3schools&utm_medium=web&utm_content=prod_spotlight_million_bucks&utm_campaign=FC_v3_2_Mktg) |    | 
 
-Stylus Studio® 2011 XML Enterprise Suite raises the bar for productivity in XML development tools. Millions of XML developers and data integration specialists turn to Stylus Studio's comprehensive and intuitive XML toolset to tackle today's advanced XML data transformation and aggregation challenges.
+Most web applications today use boring methods to present data to their viewers using grids or simple HTML tables. FusionCharts induces "life" into the web applications by converting monotonous data into lively charts, gauges & maps.
 
-[ ](http://www.stylusstudio.com/xml_download.html) | 
+FusionCharts works with all technologies like ASP, ASP.NET, PHP, ColdFusion, Ruby on Rails, JSP, HTML pages etc. and connects to any database to render animated & interactive charts. It takes less than 15 minutes and no expertise whatsoever to build your first chart and just a glance of it to captivate your audience. This fact is endorsed by our 17,000 customers and 330,000 users which include a majority of the Fortune 500 companies. And yeah, your applications could look like a million bucks by spending just $199.
 
-  * XML Pipeline Editor, Debugger and Code Generator
-  * DataDirect XML Converters
-  * XQuery Mapper, Editor, Debugger, and Profiler
-  * XSLT Mapper, Editor, Debugger, Designer, and Profiler
-  * Java and C# for .Net Code Generation
-  * XML Schema Designer With Documentation Generator
-  * XML Editor With Full XPath Integration
-
-
-
-[Download a free trial now](http://www.stylusstudio.com/xml_download.html)  
+So go ahead, [ download your copy of FusionCharts](http://www.fusioncharts.com/flash?utm_source=w3schools&utm_medium=web&utm_content=prod_spotlight_million_bucks&utm_campaign=FC_v3_2_Mktg) and start "wow-ing" your customers now!  
   
----|---  
+---|---|---  
   
-
-
 * * *
