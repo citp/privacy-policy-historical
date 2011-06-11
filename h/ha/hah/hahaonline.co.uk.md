@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hahaonline.co.uk privacy policy that was archived on 2010-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100602103047id_/http%3A//www.hahaonline.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hahaonline.co.uk privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611124433id_/http%3A//www.hahaonline.co.uk/privacy) for the most accurate reproduction.*
 
 # ha ha bar & grill, privacy policy
 
@@ -34,4 +34,4 @@ Our site uses cookies. A 'cookie' is a small file that a web site can send to yo
 
 ### Access Rights
 
-You have a right to access the personal data that is held about you. Please write to us at the following address to obtain a copy of the personal information ha ha holds about you: Bay Restaurant Group, Porter Tun House, 500 Capability Green, Luton, LU1 3LS enclosing your postal details.
+You have a right to access the personal data that is held about you. Please write to us at the following address to obtain a copy of the personal information ha ha holds about you: Mitchells & Butlers, 27 Fleet Street, Birmingham B3 1JP enclosing your postal details.
