@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mobileseva.in privacy policy that was archived on 2010-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101231130434id_/http%3A//www.mobileseva.in/PrivatePolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mobileseva.in privacy policy that was archived on 2011-06-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110611040914id_/http%3A//www.mobileseva.in/PrivatePolicy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>
 	Private Policy - MovileSeva.in
@@ -14,7 +14,7 @@
 <body>
     <div id="backgroundPopup" style="left: 0px; width: 92%; top: 0px; height: 14%">
     </div>
-    <form name="aspnetForm" method="post" action="/PrivatePolicy.aspx" id="aspnetForm">
+    <form name="aspnetForm" method="post" action="PrivatePolicy.aspx" id="aspnetForm">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEwMDUyNjYzMjgPZBYCZg9kFgICAQ9kFgICBg8PFgQeBFRleHQFCUxvZ2luIE5vdx4HVG9vbFRpcAUJTG9naW4gTm93ZGRkxbYD6DfMzNGaRa79lpPFQTOt2io=">
 
         <div id="Page">
@@ -36,7 +36,7 @@
                     <span id="ctl00_welcome">Welcome Guest! </span><a href="FAQs.aspx" id="ctl00_A1">FAQs</a><span> | </span>
                     <a id="ctl00_logIn" title="Login Now" href="javascript:__doPostBack('ctl00$logIn','')">Login Now</a><span>
                         | </span><a href="Registration.aspx" id="ctl00_signUP">Sign Up for New Account</a></p>
-                <p id="HelpLine" style="right: 0px; top: 100px">
+                <p id="HelpLine">
                     Helpline : 022-66846684</p>
                 <div id="ctl00_divTab">
                     <ul id="Nav" class="clearfix">
@@ -50,6 +50,8 @@
                             <a id="ctl00_CallingCard" name="CallingCard" rel="Banner3" href="index.aspx#CallingCard"><strong>Calling Card</strong></a></li>
                         <li class="Landline" id="landline" onclick="setCategory(this);">
                             <a id="ctl00_landline" name="Landline" rel="Banner4" href="index.aspx#landline"><strong>Landline</strong></a></li>
+                        <li class="vas" id="vas" onclick="setCategory(this);">
+                            <a id="ctl00_vas" name="vas" rel="Banner5" href="index.aspx#vas"><strong>VAS</strong></a></li>
                     </ul>
                 </div>
             </div>
@@ -101,14 +103,26 @@
 
 <div id="Footer">
     <div id="FooterIn">
-        <p>
+    <div style="margin: 0pt 90px 0pt 195px; float: left;">
+     <p>
             
             <a href="SiteMap.aspx">Sitemap</a> | <a href="Termsof_Use.aspx">Terms &amp; Conditions</a>
-            | <a href="PrivatePolicy.aspx">Privacy Policy</a> | <a href="FAQs.aspx">FAQs</a>
+            | <a href="PrivatePolicy.aspx">Privacy Policy</a> 
              | <a href="#" onclick="javascript:OpenHowToRecharge();">
                 How To Recharge</a><br>
             All Rights Reserved - MobileSeva.in | Website Powered By <a target="_blank" rel="nofollow" href="http://www.osssofttech.com">
-                OSS Softtech Pvt. Ltd.</a></p>
+                OSS Softtech Pvt. Ltd.</a>&nbsp;</p>
+                
+    </div>
+    <div float:="" left;="">
+    <img id="ctl00_footer_imgLogo" src="images/oss_logo.gif" border="0">
+    </div>
+           
+              
+        
+    
+     
+               
     </div>
 
     <script type="text/javascript" language="javascript">
@@ -121,7 +135,8 @@
 
 </div>
 
-            </div>
+                
+                            </div>
             
             <input name="ctl00$txtCategoryID" type="hidden" id="ctl00_txtCategoryID" value="2">
             
@@ -173,7 +188,18 @@
             {
             
                 var elem = document.getElementById('ctl00_landline');
-                       document.getElementById('ctl00_txtCategoryID').value="3";
+                       document.getElementById('ctl00_txtCategoryID').value="4";
+                if (typeof elem.onclick == "function") {
+                    elem.onclick.apply(elem);
+                }
+                
+                return false;
+            }
+            else if(tabname == "vas")
+            {
+            
+                var elem = document.getElementById('ctl00_vas');
+                       document.getElementById('ctl00_txtCategoryID').value="5";
                 if (typeof elem.onclick == "function") {
                     elem.onclick.apply(elem);
                 }
@@ -201,7 +227,8 @@
                 document.getElementById('ctl00_txtCategoryID').value="3";      
             else if(categoryId.id == "landline")       
                 document.getElementById('ctl00_txtCategoryID').value="4";     
-            
+            else if(categoryId.id == "vas")       
+                document.getElementById('ctl00_txtCategoryID').value="5";     
         
        }
     </script>
