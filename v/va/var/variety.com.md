@@ -1,17 +1,16 @@
-> *The following text is extracted and transformed from the variety.com privacy policy that was archived on 2010-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101028015432id_/http%3A//www.variety.com/index.asp%3Flayout%3Dabout_privacy_layout) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the variety.com privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611022424id_/http%3A//www.variety.com/static-pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - About Variety
 
-Last updated:  
-June 2006 
+Last updated: June 2006
 
 **Overview**
 
 www.variety.com appreciates your visiting this web site. Our site visitors’ privacy and trust are important to us. We provide this notice in order to make sure that your expectations and our practices are aligned, and that you are aware of your choices with regard to our use and disclosure of the information you provide to this site.
 
-This Privacy Policy describes the policies of Reed Business Information (“ ** _RBI_** ” or “ ** _we_** ”), a division of Reed Elsevier Inc., regarding the collection, use, disclosure and protection of the following types of information:
+This Privacy Policy describes the policies of Reed Business Information ( _ **RBI**_ or _**we**_ ), a division of Reed Elsevier Inc., regarding the collection, use, disclosure and protection of the following types of information:
 
-  * Information obtained when you (" ** _you_** " or " ** _User_** ") visit the [www.variety.com](http://www.variety.com/) web site (the "Site").
+  * Information obtained when you (" _ **you**_ " or " _ **User**_ ") visit the www.variety.com web site (the "Site").
   * Information obtained through e-mail communications with you related to the Site.
 
 
@@ -26,11 +25,11 @@ We may change the terms of this Privacy Policy, so Users are encouraged to revie
 
 We require you to provide certain information about yourself when you register with this Site and when you request products and services. We also collect information when you participate in contests and surveys, when you respond to requests for feedback and when you submit postings to public areas of this Site (e.g., moderated discussions and bulletin boards).
 
-The information we collect may include information from which you may be personally identified (" ** _Personally Identifiable Information_** "), such as name, postal address, telephone number, fax number and e-mail address, and certain business information such as employer name, occupation, job function, job title and buying information (e.g., preferences or history). We also will collect credit card and related information when you request a product or service (including registering for the Site) for which there is a charge. This Site only collects Personally Identifiable Information with your knowledge.
+The information we collect may include information from which you may be personally identified (" _ **Personally Identifiable Information**_ "), such as name, postal address, telephone number, fax number and e-mail address, and certain business information such as employer name, occupation, job function, job title and buying information (e.g., preferences or history). We also will collect credit card and related information when you request a product or service (including registering for the Site) for which there is a charge. This Site only collects Personally Identifiable Information with your knowledge.
 
 When you visit this Site, we may collect the IP address of your computer.
 
-We also use **_[automatic data collection](https://web.archive.org/index.asp?layout=about_privacy_data)_** technology to record other information that identifies your computer and tracks your behavior on the Site. We do not collect Personally Identifiable Information in this way, but if you provide us with Personally Identifiable Information, we may associate that information with the information that is collected automatically.
+We also use **_[automatic data collection](https://web.archive.org/static-pages/privacy-policy/privacy-data)_** technology to record other information that identifies your computer and tracks your behavior on the Site. We do not collect Personally Identifiable Information in this way, but if you provide us with Personally Identifiable Information, we may associate that information with the information that is collected automatically.
 
 **How We Use Your Information**
 
@@ -48,17 +47,16 @@ We also may use your information to better understand our Users and to improve o
 
 We may use the information you provide us to send you e-mail, fax and other communications on behalf of RBI and our affiliates. These communications may include e-mail newsletters that are relevant to this Site, as well as offers for other RBI and Reed Elsevier services. All email newsletters will provide you with an opportunity to opt out of receiving future issues of the newsletter. All promotional offers will include an opportunity to opt out of receiving future promotions from the brand whose product/service is being promoted.
 
-We may use the information you provide us to send you email and other communications on behalf of third parties. Each of these communications will include instructions for opting out of receiving future third party offers from us. You may also opt out of receiving third party offers from this Site at any time by sending an e-mail to **_privacymanager@reedbusiness.com_** with the subject line (" ** _opt out - third party_** ").
+We may use the information you provide us to send you email and other communications on behalf of third parties. Each of these communications will include instructions for opting out of receiving future third party offers from us. You may also opt out of receiving third party offers from this Site at any time by sending an e-mail to [privacymanager@reedbusiness.com](mailto:privacymanager@reedbusiness.com) with the subject line (" _ **opt out - third party**_ ").
 
 **Our Disclosure of Your Information**
 
 We may disclose aggregated, anonymous statistics about many Users, and individual information that is not Personally Identifiable Information without restriction as long as no individual is identifiable by the information disclosed, and otherwise will not disclose your Personally Identifiable Information except as follows:
 
   * Name and/or business name and title (but not information by which you may be contacted (i.e. name, postal address, telephone number, fax number and e-mail address ) in representative lists of our magazine circulation and/or web site membership, but not for further use or dissemination by the recipient.
-  * To third parties engaged to provide services under contractual requirement to keep **Personally Identifiable Information** confidential and use it only to perform the services.
-  * Portions of this Site may be provided as “Premium” or “Sponsored” content. Premium or Sponsored content is made available to Users on the condition that we may share certain of the User’s registration information with the Premium or Sponsored content’s sponsors and advertisers. We will always disclose when you are registering or being provided with Premium or Sponsored content.
-  * To other third parties to market their products or services under contractual requirement to keep Personally Identifiable Information confidential and use it only to market and provide their products or services. You may opt out of such disclosures by sending an e-mail to privacymanager@reedbusiness.com with the subject line: “ ** _do not disclose_**.”
-  * To any successor pursuant to an asset sale, merger, consolidation, restructuring, reorganization, liquidation or other similar transaction involving RBI or this Site
+  * To third parties engaged to provide services under contractual requirement to keep **Personally Identifiable Information** confidential and use it only to perform the services. Portions of this Site may be provided as Premium or Sponsored content. Premium or Sponsored content is made available to Users on the condition that we may share certain of the User’s registration information with the Premium or Sponsored content’s sponsors and advertisers. We will always disclose when you are registering or being provided with Premium or Sponsored content.
+  * To other third parties to market their products or services under contractual requirement to keep Personally Identifiable Information confidential and use it only to market and provide their products or services. You may opt out of such disclosures by sending an e-mail to [privacymanager@reedbusiness.com](mailto:privacymanager@reedbusiness.com) with the subject line: _**do not disclose**_.
+  * To any successor pursuant to an asset sale, merger, consolidation, restructuring, reorganization, liquidation or other similar transaction involving RBI or this Site.
   * When we believe such disclosure is required by law, regulation or securities exchange requirement or for the protection of persons or property.
   * When disclosure is necessary to accomplish the purpose for which you provide it.
   * We may share any information (including Personally Identifiable Information) you provide with other Reed Elsevier member companies for any uses consistent with those disclosed in this Privacy Policy.
@@ -71,7 +69,7 @@ We use reasonable safeguards to protect Personally Identifiable Information we c
 
 **Right to Access and Change Information**
 
-You may view and update information that you previously submitted to this Site by visiting the newsletter or website registration page for this Site, or which you submitted to request a print publication, by sending an e-mail to subsmail@reedbusiness.com. However, a request to change information may not be accommodated if the request would conflict with legal requirements or result in incorrect information. Requests to view or change personal information may take a few days to process.
+You may view and update information that you previously submitted to this Site by visiting the newsletter or website registration page for this Site, or which you submitted to request a print publication, by sending an e-mail to [subsmail@reedbusiness.com](mailto:subsmail@reedbusiness.com). However, a request to change information may not be accommodated if the request would conflict with legal requirements or result in incorrect information. Requests to view or change personal information may take a few days to process.
 
 **Links**
 
@@ -79,9 +77,8 @@ This Site contains content, services, advertising and other materials that link 
 
 **This Site is operated by:**
 
-_Reed Business Information  
-360 Park Avenue South  
-New York, NY 10010  
-_
+Reed Business Information  
+360 Park Avenue South   
+New York, NY 10010
 
- _Email:[privacymanager@reedbusiness.com](mailto:privacymanager@reedbusiness.com)_
+Email: [privacymanager@reedbusiness.com](mailto:privacymanager@reedbusiness.com)
