@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the glu.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216050941id_/http%3A//www.glu.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glu.com privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611043805id_/http%3A//www.glu.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Glu Games
+# Privacy Policy | Glu
 
 Glu Mobile Inc. and its subsidiaries and affiliates (collectively, "Glu," "we," "our" or "us") respect the privacy rights of our online visitors and recognize the importance of protecting the information collected about you. We have created this Privacy Policy, which explains what personally identifiable information we collect from you on our web sites (the "Sites"), including without limitation [www.glugames.com](http://www.glugames.com/ "www.glugames.com"), [www.glu.com](http://www.glu.com/ "www.glu.com"), [games.glu.com](http://games.glu.com/), Glu's fan page on Facebook (<http://www.facebook.com/glumobile>), Glu's fan pages for specific Glu products, Glu's page on Twitter.com (<http://twitter.com/glumobile>), and through our mobile and web-based applications and through other means such as Glu newsletters and Glu sweepstakes and contests (the "Services"). This Privacy Policy provides guidance on how we collect, store and use the information you provide through the Services. Please note that this policy does not apply to information collected by or through websites maintained by other companies or organizations to which the Sites may link. 
 
@@ -8,7 +8,7 @@ We reserve the right to change this Privacy Policy at any time. Please check thi
 
 Glu adheres to the Safe Harbor Principles that were established by the U.S. Department of Commerce in consultation with the European Commission to comply with the European Commission's Directive on Data Protection that went into effect in October, 1998. 
 
-If you have any questions, complaints, or comments regarding our Privacy Policy, please contact our [Privacy Policy Administrator](mailto:privacy@glu.com). You may also contact our Privacy Policy Administrator by writing to: Privacy Policy Administrator, Glu Mobile Inc., 2207 Bridgepointe Parkway, Suite 300, San Mateo, California 94404. 
+If you have any questions, complaints, or comments regarding our Privacy Policy, please contact our [Privacy Policy Administrator](mailto:privacy@glu.com). You may also contact our Privacy Policy Administrator by writing to: Privacy Policy Administrator, Glu Mobile Inc., 45 Fremont Street, Suite 2800, San Francisco, CA 94105-2209. 
 
 ### Third Party Web Sites 
 
