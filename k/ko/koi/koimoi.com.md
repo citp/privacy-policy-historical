@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the koimoi.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212002922id_/http%3A//koimoi.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the koimoi.com privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611111054id_/http%3A//www.koimoi.com/privacy-policy) for the most accurate reproduction.*
 
-# Bollywood News | Reviews |Gossip | Box Office | Photos | Videos - Koimoi.com
+# Bollywood News | Reviews | Bollywood Gossip | Box Office | Photos | Videos Bollywood - Koimoi.com
 
 1.1 General Principles  
 Protecting your privacy is very important to us. We have developed this Privacy Policy to protect your personal information and keep it confidential.  
