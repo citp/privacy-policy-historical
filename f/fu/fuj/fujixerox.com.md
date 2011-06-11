@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fujixerox.com privacy policy that was archived on 2010-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100504015012id_/http%3A//www.fujixerox.com/eng/common/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fujixerox.com privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611163100id_/http%3A//www.fujixerox.com/eng/common/privacy_policy) for the most accurate reproduction.*
 
 # FUJI XEROX CO.,LTD. | Privacy Policy
 
@@ -40,6 +40,9 @@ Fuji Xerox does not use personal information for anything other than the purpose
 
 
 
+  
+
+
 ## 4\. Disclosure of Personal Information to Third Parties
 
 Fuji Xerox does not disclose personal information to any third parties except under one or more of the following conditions;
@@ -54,6 +57,9 @@ Fuji Xerox does not disclose personal information to any third parties except un
   8. When a judicial or administrative organization has ordered the disclosure or provision of personal information according to laws or ordinances,
   9. When personal information is disclosed or shared between Fuji Xerox Co., Ltd. and its subsidiaries or between the subsidiaries within the scope necessary to perform the purposes of use.
 
+
+
+  
 
 
 ## 5\. Inquiries of Personal Information
@@ -73,9 +79,6 @@ However, Fuji Xerox will acquire the person's consent when personal information 
 
 
 ## 7\. Handling of Personal Information on the Web Site
-
-  
-
 
 ### 7.1 Use of Cookie Note 3, Web Beacon Note 4 and IP Address Note 5
 
