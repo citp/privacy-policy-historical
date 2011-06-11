@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rosalindgardner.com privacy policy that was archived on 2010-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100817221230id_/http%3A//rosalindgardner.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rosalindgardner.com privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611172418id_/http%3A//rosalindgardner.com/%3Fp%3D284) for the most accurate reproduction.*
 
-# Privacy
+# Privacy Policy – RosalindGardner.com
 
 RosalindGardner.com has created this privacy statement in order to demonstrate my firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: **RosalindGardner.com**.
 
