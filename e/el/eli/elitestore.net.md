@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elitestore.net privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230180302id_/http%3A//www.elitestore.net/pages.php/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elitestore.net privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611062426id_/http%3A//www.elitestore.net/pages.php/page/privacy) for the most accurate reproduction.*
 
 # Privacy Notice : Fastest Online Store
 
