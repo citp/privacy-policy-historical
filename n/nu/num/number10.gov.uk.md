@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the number10.gov.uk privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229151511id_/http%3A//www.number10.gov.uk/footer/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the number10.gov.uk privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611043008id_/http%3A//www.number10.gov.uk/footer/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Number10.gov.uk
 
