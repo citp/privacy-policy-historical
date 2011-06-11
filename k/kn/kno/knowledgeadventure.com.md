@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the knowledgeadventure.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227130718id_/http%3A//www.knowledgeadventure.com/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knowledgeadventure.com privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611155620id_/http%3A//www.knowledgeadventure.com/Privacy.htm) for the most accurate reproduction.*
 
 # Knowledge Adventure - Privacy Policy
 
