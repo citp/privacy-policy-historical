@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netflix.com privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213184949id_/http%3A//www.netflix.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netflix.com privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611075147id_/http%3A//www.netflix.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Netflix - TV & movies instantly streamed online + DVD & Blu-ray rentals - Free Trial
 
@@ -14,7 +14,9 @@ When you register or re-register for our service, we ask you to supply us with p
 
 We keep track of your interactions with us and collect information related to your use of our service, including but not limited to your online activity, title selections and ratings, payment history and correspondence as well as Internet protocol addresses, device types, operating systems, any instant watching of movies, TV shows and related activity. We use this information for such purposes as providing recommendations on movies and TV shows we think will be enjoyable, personalizing the service to better reflect particular interests, tracking your instant-watching hours, helping us quickly and efficiently respond to inquiries and requests and otherwise enhancing or administering our service offering for our customers. We also provide analysis of our users in the aggregate to prospective partners, advertisers and other third parties. We may also disclose and otherwise use, on an anonymous basis, movie ratings, consumption habits, commentary, reviews and other non-personal information about customers.
 
-While using the Netflix service and/or website, you will have opportunities to post reviews or other personal information in public forums. Please understand that when you post such information, it is made public and is not subject to this policy. We are not responsible for any third party’s use of personal information you publicly disclose through our service.
+While using the Netflix service and/or website, you will have opportunities to post reviews or other personal information in public forums. Please understand that when you post such information, it is made public and is not subject to this policy. We are not responsible for any third party's use of personal information you publicly disclose through our service.
+
+Facebook: If you connect your Netflix account to Facebook, we may access information about you and your friends who are registered on Facebook. We may use and disclose this information to customize and improve the Netflix service for you and your friends. In addition, by connecting your Netflix account to Facebook, your friends and others who have access to view information about you on Facebook will also be able to see (on Facebook and on Netflix) that you're a Netflix member as well as what you've watched, rated, and other information about your use of the Netflix service. Please note that Facebook will import, use and retain this information. See Facebook's privacy policy for details. You'll also be able to see similar information about your Facebook friends who are connect with Netflix. You can disconnect by visiting Your Account. You may also control how certain information is shared with Netflix in your Privacy Settings on Facebook. 
 
 Links to Other Sites
 
@@ -60,4 +62,4 @@ Contact
 
 If you have questions concerning your account, please contact Customer Service. If you have questions concerning this Privacy Policy, including the treatment of the personal information associated with your account, please contact: privacy@netflix.com. Our address is 100 Winchester Circle, Los Gatos, CA 95032, Attention: General Counsel. 
 
-Last updated: September 24, 2010
+Last updated: April 14, 2011
