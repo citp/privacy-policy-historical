@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buycpanel.com privacy policy that was archived on 2010-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101210032845id_/http%3A//buycpanel.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buycpanel.com privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611131620id_/http%3A//www.buycpanel.com/privacy-policy) for the most accurate reproduction.*
 
 # BuycPanel.com Privacy Policy
 
