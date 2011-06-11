@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kaspersky.com privacy policy that was archived on 2010-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100721234108id_/http%3A//usa.kaspersky.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kaspersky.com privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611094843id_/http%3A//usa.kaspersky.com/about-us/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy United States
+# Privacy Policy | Kaspersky Lab United States
 
 ## Kaspersky Lab Privacy Policy — United States and Canada
 
@@ -76,4 +76,4 @@ Please remember that the information you submit in a news discussion or forum is
 
 ### Contact Information
 
-This information can be found on our [Contact Information](https://web.archive.org/about-us/contact-info/) page. 
+This information can be found on our [Contact Information](https://web.archive.org/about-us/contact-us/) page. 
