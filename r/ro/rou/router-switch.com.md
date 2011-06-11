@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the router-switch.com privacy policy that was archived on 2010-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101210181122id_/http%3A//www.router-switch.com/faq_info.html%3Ffaqs_id%3D113) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the router-switch.com privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611035147id_/http%3A//www.router-switch.com/faq_info.html%3Ffaqs_id%3D113) for the most accurate reproduction.*
 
 # Privacy Policy Router-switch.com
 
@@ -25,5 +25,4 @@ However, cookies can help you to make most use of the best special services from
  **The Information from Other Resources**  
 The examples of the information we get from other resources containing the depatching and address information we get from our forwarder or other third party, which can correct our record and make it easy to deliver your next order and contact you..  
 Account information, purchasing or returning information, searching keywords and results given by our affiliated enterprises’service, page browsing information gotten from our cooperative enterprises, searching result and links, including not-for-free searching list.  
-The information you can get  
 The information you can get easily from Router-switch.com containing the latest order information, identifiable personal information (including name, email address, password, directory inquiries etc.), payment settings (including credit card details) and so on.
