@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeview.com.au privacy policy that was archived on 2010-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101031130234id_/http%3A//freeview.com.au/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeview.com.au privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611033352id_/http%3A//www.freeview.com.au/privacy.aspx) for the most accurate reproduction.*
 
 # Freeview – digital television – privacy policy
 
