@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hospitalityjobsite.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230212747id_/http%3A//www.hospitalityjobsite.com/mkt/content/js/default.asp%3Fpg%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hospitalityjobsite.com privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611055859id_/http%3A//www.hospitalityjobsite.com/mkt/content/js/default.asp%3Fpg%3Dprivacy) for the most accurate reproduction.*
 
-# Search Travel, Hospility & Restaurant Jobs & Resumes, Find Career Resources - HospitalityJobsite.com
+# Jobs | Hospitality, Travel Jobs & Restaurant Job Listings on HospitalityJobSite.com
 
 ### Privacy Policy
 
