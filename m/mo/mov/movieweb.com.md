@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the movieweb.com privacy policy that was archived on 2010-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100706224856id_/http%3A//www.movieweb.com/notice/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the movieweb.com privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611083240id_/http%3A//www.movieweb.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - MovieWeb
+# Privacy Policy - MovieWeb.com
 
 MovieWeb, Inc. has created this privacy statement to describe our firm commitment to your privacy. The following discloses our information gathering and dissemination practices for this website: "MovieWeb.com" at [http://www.movieweb.com](http://www.movieweb.com/).  We seek to protect your private information so that you have a pleasurable viewing experience on our Web site. We will not sell, rent, trade, or disclose your personally identifiable information to anyone except as explained in this policy. Please return to this page from time to time, as we will be updating this statement as our services continue to grow. We welcome and encourage questions, comments, and suggestions. Please contact us at [webmaster@movieweb.com](mailto:webmaster@movieweb.com) with any questions. 
 
