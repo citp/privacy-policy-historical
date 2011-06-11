@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ghanamusic.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228111855id_/http%3A//www.ghanamusic.com/privacy-policy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ghanamusic.com privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611021652id_/http%3A//www.ghanamusic.com/privacy-policy/index.html) for the most accurate reproduction.*
 
-# Ghana Music.com | Privacy Policy
+# Ghana Music.com™ • Privacy Policy
 
 Ghana Music.com® is a trademark of Ghana Music.com, an affiliate of MiPROMO Company Limited. This trademark together with any other owned by Ghana Music.com, may not be reproduced, translated, adapted, and used of distributed without prior written permission. Ghana Music.com is committed to protecting the privacy of Internet users.
 
@@ -19,6 +19,5 @@ We also use other third-party advertising companies to serve ads when you visit 
 
 This is the web site of Ghana Music.com. Ghana Music.com can be reached via e-mail at info@ghanamusic.com. If you feel that this site is not following its stated information policy, you may contact us at the above email address.
 
-  
 [< Prev](http://www.ghanamusic.com/about-us/index.html) |    |  [Next >](http://www.ghanamusic.com/terms-a-conditions/index.html)  
 ---|---|---
