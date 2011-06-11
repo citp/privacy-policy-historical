@@ -1,45 +1,8 @@
-> *The following text is extracted and transformed from the worldcurrencywatch.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206141712id_/http%3A//worldcurrencywatch.com/terms-of-use/%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldcurrencywatch.com privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611063609id_/http%3A//worldcurrencywatch.com/privacy-policy) for the most accurate reproduction.*
 
-# Terms of Use | World Currency Watch
+# Privacy Policy | World Currency Watch
 
-**TERMS OF USE — THIS IS IMPORTANT — PLEASE READ**
-
-The World Currency Watch Website requires consideration for and as a condition of allowing you access.  Reading and accepting the terms of use and reading and accepting the provisions of The World Currency Watch privacy policy are required considerations for granting you the right to visit, read or interact with it.
-
-All persons are denied access to this site unless they read and accept the terms of use and the privacy policy.  By viewing or interactinjg with this website or with any banner, pop-up, or advertising that appears on it, you are agreeing to all the provisions of The World Currency Watch terms of use and the privacy policy.
-
-All persons under the age of 18 are denied access to this website.  If you are under 18 years of age, it is unlawful for you to visit, read, or interact with this website or its contents in any manner.   This website specifically denies access to any individual that is covered by the Child Online Privacy Act (COPA) of 1998.
-
-This website reserves the right to deny access to any person or viewer for any reason.  Under the terms of the privacy policy, which you accept as a condition for viewing, the website is allowed to collect and store data and information for the purpose of exclusion and for many other uses.
-
-The terms of use agreement may change from time to time.  Visitors have an affirmative duty, as part of the consideration for permission to view this website, to keep themselves informed of changes.
-
-**PARTIES TO THE TERMS OF USE AGREEMENT**  
-Viewers, users, or customers, collectively referred to herein as “Visitors,” are parties to this agreement. The website (www.worldcurrencywatch.com) and its owners and/or operators are parties to this agreement, herein referred to as “Website.”
-
-**USE OF INFORMATION FROM THIS WEBSITE**  
-Unless you have entered into an express written contract with this website to the contrary, visitors have no right to use this information in a commercial or public setting; they have no right to broadcast it, copy it, save it, print it, sell it, or publish any portions of the content of this website. By viewing the contents of this website you agree this condition of viewing and you acknowledge that any unauthorized use is unlawful and may subject you to civil or criminal penalties.
-
-**RIGHT TO USE, SELL, PUBLISH CONTENTS OF THIS WEBSITE**  
-The website and its contents are owned or licensed by the website. Material contained on the website must be presumed to be proprietary and copyrighted. Visitors have no rights whatsoever in the site content. Use of website content for any reason is unlawful unless it is done with express contract or permission of the website.
-
-**DISCLAIMER FOR CONTENTS OF SITE**  
-The website disclaims any responsibility for the accuracy of the content of this website. Visitors assume the all risk of viewing, reading, using, or relying upon this information. Unless you have otherwise formed an express contract to the contrary with the website, you have no right to rely on any information contained herein as accurate. The website makes no such warranty.
-
-**DISCLAIMER FOR HARM CAUSED TO YOUR COMPUTER FROM INTERACTING WITH THIS WEBSITE**  
-The website assumes no responsibility for damage to computers or software of the visitor or any person the visitor subsequently communicates with from corrupting code or data that is inadvertently passed to the visitor’s computer. Again, visitor views and interacts with this site, or banners or pop-ups or advertising displayed thereon, at his own risk.
-
-**LIMITATION OF LIABILITY**  
-By viewing, using, or interacting in any manner with this site, including banners, advertising, or pop-ups, and as a condition of the website to allow his lawful viewing, Visitor forever waives all right to claims of damage of any and all description based on any causal factor resulting in any possible harm, no matter how heinous or extensive, whether physical or emotional, foreseeable or unforeseeable, whether personal or business in nature.
-
-**SUBMISSIONS**  
-Visitor agrees as a condition of viewing, that any communication between Visitor and Website is deemed a submission. All submissions, including portions thereof, graphics contained thereon, or any of the content of the submission, shall become the exclusive property of the Website and may be used, without further permission, for commercial use without additional consideration of any kind.
-
-**CONTACT INFORMATION**  
-World Currency Watch, 98 SE 6th Avenue, Delray Beach, Florida 33483 USA or you may email: info@worldcurrencywatch.com  
-**  
-COPYRIGHT AND LICENSE**  
-This “Terms of Use” is copyrighted World Currency Watch and is fully licensed for use by this website.
+## Privacy Policy
 
 **PRIVACY POLICY — IMPORTANT — PLEASE READ**  
 We at World Currency Watch take your privacy very seriously.
