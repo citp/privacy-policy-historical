@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spiceupyourblog.com privacy policy that was archived on 2010-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100815070447id_/http%3A//www.spiceupyourblog.com/2009/09/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spiceupyourblog.com privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612032809id_/http%3A//www.spiceupyourblog.com/2009/09/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Spice Up Your Blog
 
@@ -33,30 +33,9 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
 
-* * *
+If You Enjoyed This Post Please Take 5 Seconds To Share It.
 
-**Did You Like This Post ? Click _Like_ Below To Let Us And Your Friends Know - Thanks !**
-
-* * *
-
-**Subscribe To The[ _Rss Feed_](http://feeds.feedburner.com/spiceupyourblog) Or Recieve The Latest Posts By Email**
-
-**Write About Or Link To This Post On Your Blog - Easy Links :**  
-Link Directly To This Post :  
   
-Link To The Homepage :  
 
 
-**Hey ! People That Read This Post Also Loved These Posts**
-
-Still Looking For Something ?
-
-Search This Blog
-
-Custom Search 
-
-Important Must Read Before Posting A Comment
-
-In order to keep our comments Do-Follow we have some guidelines you need to follow.   
-Do not put links in the body of your comment as it will automatically be blocked !   
-Asking a question ? Make sure to tick the subscribe to comments by email box to be alerted of the reply. 
+## Stay Connected With Free Updates
