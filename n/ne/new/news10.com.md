@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the news10.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212213749id_/http%3A//www.wten.com/global/story.asp%3Fs%3D18990) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the news10.com privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612105336id_/http%3A//www.wten.com/global/story.asp%3Fs%3D18990) for the most accurate reproduction.*
 
 # This Web Site’s Privacy Policy - News 10 WTEN: Albany, New York News, Weather, Sports
 
