@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ukfederation.org.uk privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126133201id_/http%3A//www.ukfederation.org.uk/content/Documents/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ukfederation.org.uk privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613011456id_/http%3A//www.ukfederation.org.uk/content/Documents/PrivacyPolicy) for the most accurate reproduction.*
 
 # UK Federation Information Centre | Documents / PrivacyPolicy browse
 
@@ -52,7 +52,7 @@ Unfortunately, no data transmission over the internet or any other network can b
 
 ### Contacts
 
-This is the website of the JNT Association trading as JANET(UK), a not-for-profit company limited by guarantee. Our registered number is 2881024 and our registered office is at Lumen House, Library Avenue, Harwell Science and Innovation Campus, Didcot, Oxfordshire, OX11 0SG.   
+This is the website of the JNT Association trading as JANET(UK), a not-for-profit company limited by guarantee. Our registered number is 2881024 and our registered office is at Lumen House, Library Avenue, Harwell Oxford, Didcot, Oxfordshire, OX11 0SG.   
 Individuals have certain rights of access to their personal data. If you want to request any information about your personal data, please contact: [service@janet.ac.uk](mailto:service@janet.ac.uk)
 
 ### Inaccuracies and Corrections
