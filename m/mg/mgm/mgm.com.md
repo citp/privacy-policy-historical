@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mgm.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227065819id_/http%3A//www.mgm.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mgm.com privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612070809id_/http%3A//www.mgm.com/privacy_policy.php) for the most accurate reproduction.*
 
 # The Official Website for Metro-Goldwyn-Mayer (MGM) Studios: Privacy Policy
 
@@ -125,4 +125,4 @@ Address: 10250 Constellation Boulevard, Los Angeles, California 90067-6241
 Phone: 310-449-3000   
 E-mail Address: [comments@mgm.com](mailto:comments@mgm.com)
 
-© 2010 Metro-Goldwyn-Mayer Studios Inc. 
+© 2011 Metro-Goldwyn-Mayer Studios Inc. 
