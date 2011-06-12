@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the neatco.com privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126073940id_/http%3A//neatco.com/our-company/policies/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neatco.com privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612060800id_/http%3A//www.neatco.com/our-company/policies/privacy-policy.aspx) for the most accurate reproduction.*
 
 # The Neat Company - Privacy Policy : Neat Receipts : Scan to Excel : NeatCo.com
 
@@ -42,5 +42,9 @@ To join or leave our mailing list, please contact us.
   
 Who can I contact at NeatReceipts about my privacy concerns?  
   
-Please contact us and our customer support staff will be glad to address any concerns you have about your privacy.  
+Please contact us and our customer support staff will be glad to address any concerns you have about your privacy.
+
+Why does Neat use Cookies?  
+  
+Some of our pages use a feature of your browser called a "cookie" Cookies, by themselves, are not able to extract any personal information from you. Through the use of a cookie, we may personalize your online experience and automatically collect information about your online activity on our site, such as the web pages you visit, the links you click, and the searches you conduct on our site. We may also use cookies for purposes of retargeted advertising. Most browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies.  
  
