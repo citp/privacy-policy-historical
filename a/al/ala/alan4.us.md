@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alan4.us privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224042743id_/http%3A//www.alan4.com/Privacy-Policy-for-alan4-com.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alan4.us privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612200557id_/http%3A//www.alan4.com/Privacy-Policy-for-alan4-com.html) for the most accurate reproduction.*
 
 # Privacy Policy for alan4.com
 
