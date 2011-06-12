@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nitroplayer.com privacy policy that was archived on 2010-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100328055500id_/http%3A//www.nitroplayer.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nitroplayer.com privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612045026id_/http%3A//www.nitroplayer.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Privacy Policy
+**Privacy Policy**
 
 NitroPlayer.com is committed to providing an entertaining, fun and educational service. We respect the privacy concerns of visitors to NitroPlayer.com.
 
@@ -18,21 +18,27 @@ NitroPlayer.com will not share your information with anyone. The only exception 
 
 Collection of information and Third-Party sites and Sponsors
 
-It is important that you understand that advertisers or Web sites that link to a site may collect personal information about you. The Privacy Policy does not apply to, and cannot control the activities of other advertisers or Web sites. We use third-party advertising companies to serve ads on our sites. These companies may use information about your visits to this and other sites in order to help them provide relevant ads to users. Third parties may also be placing and reading cookies on your browser, or using web beacons to collect information, in the course of ads being served on our website. If you do not wish for these third-parties to place and read cookies you can set your browser to block them.
+It is important for you to understand that advertisers or Web sites that link to a site may collect personal information about you. The Privacy Policy does not apply to, and cannot control the activities of other advertisers or Web sites. We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to help them provide relevant ads to users. Third parties may also be placing and reading cookies on your browser, or using web beacons to collect information, in the course of ads being served on our website. If you do not wish for these third-parties to place and read cookies you can set your browser to block them.
 
 Google Adsense
 
-Google, as a third party vendor, uses cookies to serve ads on your site.
+Google, as a third party vendor, uses cookies to serve ads on our Website.
 
-Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.
+Google's use of the DART cookie enables it to serve ads to our users based on their visit to our Website and other Websites on the Internet.
 
-Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
 ValueClick Media
 
 Online behavioral advertising (“OBA”) and/or multi-site advertising is occurring on NitroPlayer.com
 
 You can learn more about VCM by visiting their website: valueclickmedia.com
+
+You can opt out from ValueClick or Network Advertising sites as follows:
+
+<http://www.networkadvertising.org/managing/opt_out.asp>
+
+<https://admin.valueclickmedia.com/optout/index.html>
 
 Security  
 All data that we collect is stored on one or more database servers. We are taking any reasonable precaution to secure the data, but you have to understand that the internet is not 100% safe and we cannot guarantee the safety of your information. All this kind of transmission whatsoever is made on your own risk.
