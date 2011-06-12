@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the articleenclave.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226042431id_/http%3A//www.articleenclave.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articleenclave.com privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612162314id_/http%3A//www.articleenclave.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | ArticleEnclave
+# ArticleEnclave » Privacy Policy
+
+### [Privacy Policy](http://www.articleenclave.com/privacy-policy/ "Permanent Link to Privacy Policy")
 
 ArticleEnclave.com is an article directory website where visitors register and contribute content. We are not responsible for the content posted by visitors. We randomly check all articles and will delete them if the content is inappropriate for users.
 
