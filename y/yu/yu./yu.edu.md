@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yu.edu privacy policy that was archived on 2010-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101104233856id_/http%3A//www.yu.edu/pdfs/Yeshiva-Privacy-Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yu.edu privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612034223id_/http%3A//www.yu.edu/pdfs/Yeshiva-Privacy-Policy.pdf) for the most accurate reproduction.*
 
 # LAST UPDATED:
 
