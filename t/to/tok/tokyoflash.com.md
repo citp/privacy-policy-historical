@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tokyoflash.com privacy policy that was archived on 2010-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101211205620id_/https%3A//www.tokyoflash.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tokyoflash.com privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613003147id_/https%3A//www.tokyoflash.com/en/privacy) for the most accurate reproduction.*
 
 # Tokyoflash Japan : Privacy & Security
 
