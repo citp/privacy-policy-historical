@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crowdtap.com privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126001313id_/http%3A//crowdtap.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crowdtap.com privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612192308id_/http%3A//crowdtap.com/pages/privacy) for the most accurate reproduction.*
 
 # Crowdtap - Where Consumers and Brands Collaborate
 
@@ -40,7 +40,11 @@ As you use the Internet, a trail of electronic information is left at each web s
 
 ## Security
 
-Crowdtap will not be liable for disclosures of your Personal Information due to errors in transmission or unauthorized acts of third parties. We have undertaken all commercially reasonable efforts to prevent unauthorized Internet access to visitor data retained in our servers, however, due to the inherent open nature of the Internet, Crowdtap cannot ensure or warrant the security of any information you transmit to us or any information provided online, and you do so at your own risk. You must accept all risks associated with any data transmission, including the risk that their personal information may be intercepted in transit. You are solely responsible for maintaining the secrecy of your passwords and/or any account information. Please be careful and responsible whenever you are online. Special Offers and e-mail 
+Crowdtap will not be liable for disclosures of your Personal Information due to errors in transmission or unauthorized acts of third parties. We have undertaken all commercially reasonable efforts to prevent unauthorized Internet access to visitor data retained in our servers, however, due to the inherent open nature of the Internet, Crowdtap cannot ensure or warrant the security of any information you transmit to us or any information provided online, and you do so at your own risk. You must accept all risks associated with any data transmission, including the risk that their personal information may be intercepted in transit. You are solely responsible for maintaining the secrecy of your passwords and/or any account information. Please be careful and responsible whenever you are online.
+
+Established members may opt-out of these emails by updating their notifications on their profile settings page.
+
+## Special Offers and e-mail
 
 Established members will occasionally receive e-mails containing information regarding new Programs, Crowdtap Rewards, and directives from Crowdtap if they have opted-in. "Opted-in" means the member has approved certain e-mails to be sent to them from Crowdtap. 
 
@@ -74,12 +78,24 @@ We reserve the right to change, add, or remove portions from this Privacy Policy
 
 ## Terminating Membership
 
-You or Crowdtap may terminate your membership in the Service for any reason with or without cause at any time and effective immediately. Crowdtap will not be liable to you or any third party for termination of the Service or Site. You may terminate your membership by [contacting us]() or by using the “terminate membership” function if available. Upon terminating your membership, Crowdtap, will remove the following Personal Information from Crowdtap’s active database: Crowdtap password, member profile, full name, address (except for zip code), e-mail address, other contact information, Facebook account information, Twitter account information, and profile photo. Any of your Personal Information or activity history that is not deleted will be attached to either your username or a unique database ID, not to your personally identifiable information. 
+You or Crowdtap may terminate your membership in the Service for any reason with or without cause at any time and effective immediately. Crowdtap will not be liable to you or any third party for termination of the Service or Site. You may terminate your membership by contacting us or by using the “terminate membership” function if available. Upon terminating your membership, Crowdtap, will remove the following Personal Information from Crowdtap’s active database: Crowdtap password, member profile, full name, address (except for zip code), e-mail address, other contact information, Facebook account information, Twitter account information, and profile photo. Any of your Personal Information or activity history that is not deleted will be attached to either your username or a unique database ID, not to your personally identifiable information. 
 
 ## Site Terms and Conditions 
 
 Use of this Site is governed by, and subject to, the legal notices contained in Crowdtap’s [Terms of Service](https://web.archive.org/pages/terms). Your use, or access, of the Site constitutes your agreement to be bound by these provisions. **IF YOU DO NOT AGREE TO THESE TERMS AND CONDITIONS YOU MAY NOT ACCESS OR OTHERWISE USE THE SITE.**
 
 **Comments and Questions:** If you have any questions, comments or concerns about our Privacy Policy, you may contact us. 
+
+MAIL   
+Crowdtap, LLC   
+225 Park Ave. South   
+16th Floor   
+New York, NY 1003
+
+EMAIL   
+help@crowdtap.com
+
+PHONE   
+(646) 470-7396
 
 Effective Date: This privacy policy is effective and was last updated on May 14th, 2010. 
