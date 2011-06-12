@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uscollegesearch.org privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221031215id_/http%3A//www.uscollegesearch.org/us_college_search_privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uscollegesearch.org privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612130349id_/http%3A//www.uscollegesearch.org/us_college_search_privacy_policy.html) for the most accurate reproduction.*
 
 # Colleges and Universities at U.S. College Search
 
@@ -6,13 +6,13 @@ Our Privacy Policy was developed as an extension of our commitment to combine th
 
 Access to and use of the U.S. College Search web site is available only to United States residents who can form legally binding contracts under applicable law. If you do not qualify, you may not use the web site. In compliance with the Children's Online Privacy Protection Act of 1998, no one under 13 years of age can use the web site. If you are a minor between the ages of 13 and 18, you may use the site only in conjunction with your parent, legal guardian or other responsible adult.
 
-As described below, some of your personally identifiable information will be used by us and shared with third parties. By using the web site, you expressly consent to our use of your personal information, and also to the disclosure to and use of this information by third parties. You acknowledge that communications to, from and through the U.S. College Search web site are not confidential. You agree that by submitting communications through the U.S. College Search web site, no confidential, fiduciary, contractually implied or other relationship is created between you and U.S. College Search other than pursuant to this Privacy Policy. 
+As described below, some of your personally identifiable information will be used by us and shared with third parties. By using the web site, you expressly consent to our use of your personal information, and also to the disclosure to and use of this information and also to the disclosure to and use of this information in our efforts contact you and for continued marketing effort by our clients and their agents charged with communicating with our customers and potential customers. You acknowledge that communications to, from and through the U.S. College Search web site are not confidential. You agree that by submitting communications through the U.S. College Search web site, no confidential, fiduciary, contractually implied or other relationship is created between you and U.S. College Search other than pursuant to this Privacy Policy.
 
 **What information do we collect?**
 
 U.S. College Search collects personally identifiable information you voluntarily choose to disclose and "aggregate information" that is automatically collected when you visit the web site.
 
-Personally identifiable information refers to information that tells us specifically who you are and is collected when you choose to request information from a school that is listed on the site. This information can include your name, current e-mail address, programs of interest and other information you choose to provide. If you choose to correspond with us through e-mail, we may retain your e-mail address and messages together with our responses.
+Personally identifiable information refers to information that tells us specifically who you are and is collected when you choose to request information from our clients. This information can include your name, current e-mail address, programs of interest and other information you choose to provide. If you choose to correspond with us through e-mail, we may retain your e-mail address and messages together with our responses. If you provide us with full address information you may be added to one of our mailing lists from which you may opt out at any time by emailing: info@uscollegesearch.org.
 
 Aggregate information is automatically provided by your computer and cannot be tied back to you as a specific individual. Examples include:
 
@@ -53,3 +53,19 @@ Although our site is called U.S. College Search, we feature a variety of educati
 **U.S. College Search web site accessibility statement**
 
 The majority of the pages on this web site are accessible to individuals with disabilities in accordance with Section 508 of the Rehabilitation Act. In addition, images on our web site are accompanied by alternative text describing graphics if your browser supports the alt-text function. Documents on our web site are generally accessible to users using screen-reading software.
+
+**Contact Us**
+
+If you would like to learn more about our privacy policy, or to access your personally identifiable information contained on our website, you may contact us at:
+
+Plattform Advertising  
+15500 W. 113th St., Suite 200  
+Lenexa, KS 66219
+
+By e-mail: info@uscollegesearch.org
+
+By Phone: 913.254.6000
+
+By Fax: 913.538.5078
+
+You will be required to provide identification information to assure that this information is not released to others. We reserve the right to modify this policy at any time without prior notification. 
