@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virtuosimedia.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120183824id_/http%3A//www.virtuosimedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virtuosimedia.com privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612202605id_/http%3A//www.virtuosimedia.com/corporate/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,9 +6,9 @@
 
 | 
 
-The Personal Information Protection Act (“PIPA”) governs the collection, use and disclosure of personal information by organizations in a manner that recognizes both the right of individuals to protect their personal information and the need of organizations to collect, use or disclose personal information for purposes that a reasonable person would consider appropriate in the circumstances.
+The Personal Information Protection Act ('PIPA') governs the collection, use and disclosure of personal information by organizations in a manner that recognizes both the right of individuals to protect their personal information and the need of organizations to collect, use or disclose personal information for purposes that a reasonable person would consider appropriate in the circumstances.
 
-This Privacy Policy (“Policy”) describes Virtuosi Media’s (VM) use and sharing of personally identifiable information (“PII”) that users voluntarily provide to VM when they register. PII include your full name, email address, mailing address, telephone number, or credit card number. The Term “User” refers to a visitor, a registered user, or client. This Privacy Policy applies to the Services offered by VM, including any VM Website or Software.  
+This Privacy Policy ('Policy') describes Virtuosi Media's (VM) use and sharing of personally identifiable information ('PII') that users voluntarily provide to VM when they register. PII include your full name, email address, mailing address, telephone number, or credit card number. The Term 'User' refers to a visitor, a registered user, or client. This Privacy Policy applies to the Services offered by VM, including any VM Website or Software.  
   
 #### Modification
 
@@ -20,7 +20,7 @@ We reserve the right, at any time, to change or modify the terms and conditions 
 
 | 
 
-We maintain the confidentiality of all our User’s information. VM will not use or disclose your personal information for purposes other than those described in this policy.
+We maintain the confidentiality of all our User's information. VM will not use or disclose your personal information for purposes other than those described in this policy.
 
 We may collect personally identifiable information when you visit or use our pages. We may also receive PII from our business partners. We also automatically receive and record information on our server logs from your browser including your IP address, cookie information and the page you requested. VM does not gather any specific personal information from you, such as your name, phone number or e-mail address unless you supply it by sending us an email or by filling out a form in a secure portion of the site.  
   
@@ -28,13 +28,13 @@ We may collect personally identifiable information when you visit or use our pag
 
 | 
 
-Cookies are small bits of information that VM places on your computer. VM may use cookies to identify your Internet browser, store Users’ preferences, and determine whether you have installed the software needed to access certain Services. Data in cookies may be read to authenticate user sessions or provide services.
+Cookies are small bits of information that VM places on your computer. VM may use cookies to identify your Internet browser, store Users' preferences, and determine whether you have installed the software needed to access certain Services. Data in cookies may be read to authenticate user sessions or provide services.
 
 We may use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
 
 Virtuosi Media may use Google AdSense to deliver ads to our website. Google's use of the DART cookie enables it to serve ads to users based on their visit to our sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads).  
   
-#### Information Sharing and Disclosure 
+#### Information Sharing and Disclosure
 
 | 
 
@@ -68,7 +68,7 @@ This web site may contain links to other sites. VM is not responsible for the pr
 
 | 
 
-Children's Online Privacy Protection Act (“COPPA”) applies to the online collection of personal information from children under 13. VM and this Site are not intended for children under the age of 13 years and as such we will not knowingly collect information from children under the age of 13. Parents and legal guardians are encouraged to monitor their children's Internet usage and to instruct their children to never provide personal information on this Site or any other site without their permission.  
+Children's Online Privacy Protection Act ('COPPA') applies to the online collection of personal information from children under 13. VM and this Site are not intended for children under the age of 13 years and as such we will not knowingly collect information from children under the age of 13. Parents and legal guardians are encouraged to monitor their children's Internet usage and to instruct their children to never provide personal information on this Site or any other site without their permission.  
   
 #### Copyright Infringement
 
