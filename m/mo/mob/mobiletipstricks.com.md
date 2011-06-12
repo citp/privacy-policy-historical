@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobiletipstricks.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228055735id_/http%3A//www.mobiletipstricks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobiletipstricks.com privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612121630id_/http%3A//www.mobiletipstricks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Mobile Tips and Tricks
 
