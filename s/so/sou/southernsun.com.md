@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the southernsun.com privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214012628id_/http%3A//www.southernsun.com/Utility/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the southernsun.com privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612204143id_/http%3A//www.southernsun.com/Utility/Privacy) for the most accurate reproduction.*
 
 # Privacy | Southern Sun
 
