@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nextmovie.com privacy policy that was archived on 2010-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101208020339id_/http%3A//www.nextmovie.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nextmovie.com privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612141102id_/http%3A//www.nextmovie.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy and Your California Privacy Rights | NextMovie
 
@@ -6,7 +6,7 @@
 
 Go to [Terms of Use Agreement](http://www.nextmovie.com/terms-of-use/)
 
-This is the privacy policy (“Privacy Policy”) for NextMovie.com (“Site,” “we,” “us,” or “our”). The Site is provided by MTV Networks (“MTVN”), a division of Viacom International Inc. (together, MTVN and Viacom International Inc., the “Parent Companies”).
+This is the privacy policy (“Privacy Policy”) for NextMovie.com ("Site," "we," "us," or "our"). The Site is provided by MTV Networks ("MTVN"), a division of Viacom International Inc. (together, MTVN and Viacom International Inc., the “Parent Companies”).
 
 This **Privacy Policy** is intended to explain our privacy practices and covers the following areas:
 
@@ -38,13 +38,13 @@ If you are located in the European Union or elsewhere outside of the U.S., you d
 
 **3\. Collection and Use of Personal Information and Other Information (Other than Wireless Marketing Services and Associated Promotional Opportunities).**
 
-When we use the term “Personal Information” we mean information that would allow someone to identify you or contact you, such as your full name, postal address, e-mail address or telephone number. When we use the term “Other Information”, we mean any information other than Personal Information collected by the Site (Personal Information and Other Information, together, the “Information”).
+When we use the term "Personal Information" we mean information that would allow someone to identify you or contact you, such as your full name, postal address, e-mail address or telephone number. When we use the term “Other Information”, we mean any information other than Personal Information collected by the Site (Personal Information and Other Information, together, the “Information”).
 
 **a. Information We Collect that You Provide Us.**
 
 **i. User Registration.** To the extent we offer user registration on the Site, to register as a member of the Site, you are required to select a user name and password (together, your “User ID”) and may be required to also provide other Information, such as your email address and date of birth. Additional Information may be requested during the registration process (but not required).
 
-**ii. In Connection with Certain Features and Functions.** We may also provide you with access to certain features or functions that we may offer on the Site, such as the option to subscribe to a selection of free email newsletters and other periodic information, chat rooms, message boards, electronic mail services, messaging services, auctions, shopping, registration and member profile pages. To sign up for or participate in these features or functions, you may be required to provide us with certain Information about you in order for us to personalize and/or allow you to use such features and functions. For example, to sign up to receive email newsletters, you may be required to provide your email address, date of birth and zip code separate from any user registration. Further, for example, to the extent we offer such services, if you order any of our various Products (as defined in the [Terms of Use Agreement](http://www.nextmovie.com/terms-of-use/)), in addition to your name and contact information, we will also collect and may maintain your billing address, shipping address, Product selections, your credit card or other payment instrument information, your order number and information about your computer’s internet address and website which may have referred or directed you to the Site (e.g., the referring URL). Your credit card or debit card number is collected via a secure transmission.
+**ii. In Connection with Certain Features and Functions.** We may also provide you with access to certain features or functions that we may offer on the Site, such as the option to subscribe to a selection of free email newsletters and other periodic information, chat rooms, message boards, electronic mail services, messaging services, auctions, shopping, registration and member profile pages. To sign up for or participate in these features or functions, you may be required to provide us with certain Information about you in order for us to personalize and/or allow you to use such features and functions. For example, to sign up to receive email newsletters, you may be required to provide your email address, date of birth and zip code separate from any user registration. Further, for example, to the extent we offer such services, if you order any of our various Products (as defined in the [Terms of Use Agreement](http://www.nextmovie.com/terms-of-use/)), in addition to your name and contact information, we will also collect and may maintain your billing address, shipping address, Product selections, your credit card or other payment instrument information, your order number and information about your computer's internet address and website which may have referred or directed you to the Site (e.g., the referring URL). Your credit card or debit card number is collected via a secure transmission.
 
 **iii. In Connection with Promotions such as Contests and Sweepstakes.** There may be a separate registration process to enter Promotions such as contests and sweepstakes which may require the submission of all or some of the following: your first and last name, street address, city, state and zip code, email address, telephone number and date of birth. Additional Information may be requested depending on the specific Promotion, but submission of such Information may be optional. The Promotion’s entry page and/or Rules will provide the specific requirements. You may also have the opportunity to opt-in to receive special Promotions or offers from our third party advertisers, sponsors or promotional partners (“Advertisers”) as a result of your use of the Site in connection with many of these types of Promotions.
 
@@ -72,7 +72,7 @@ i. Personal Information. We, and/or our Parent Companies and Affiliates, use the
   * Contacting you regarding your use of the Site, for informational purposes related to the Site or, in our discretion, regarding changes to the Site’s policies;
   * Improving the Site or our services and for internal business purposes;
   * Tailoring your experience on the Site and/or otherwise customizing what you see when you visit the Site;
-  * Saving your User ID or other Personal Information, so you don’t have to re-enter it each time you visit the Site;
+  * Saving your User ID or other Personal Information, so you don't have to re-enter it each time you visit the Site;
   * Otherwise to maintain and administer the Site and
   * For other purposes disclosed at the time you provide the Personal Information.
 
@@ -80,7 +80,7 @@ i. Personal Information. We, and/or our Parent Companies and Affiliates, use the
 
 ii. Other Information Collected by Us. We, and/or our Parent Companies and Affiliates, use the Other Information we collect from you in a variety of ways, including:
 
-  * Keeping count of your return visits to the Site or our Parent Companies’, Affiliates’, Advertisers’ or partners’ sites;
+  * Keeping count of your return visits to the Site or our Parent Companies’, Affiliates’, Advertisers' or partners' sites;
   * Accumulating and reporting aggregate, statistical information in connection with the Site and user activity;
   * Determining which features, webpages, products and services users like best to, among other things, help us operate the Site, enhance and improve our services and the Site and display advertising and marketing information;
   * Preparing statistics reports;
@@ -102,7 +102,7 @@ ii. Other Information Collected by Us. We, and/or our Parent Companies and Affil
 
 **i. In Connection with Marketing and Promotional Email and Offers.**
 
-You may “opt-out” of receiving marketing and promotional e-mails from us at any time [by using the Site’s preference management page associated with your User ID account to opt-out of receiving such emails or messages from the Site, the Parent Companies, Affiliates and/or third parties] [by going to the Site’s home page, clicking the "Your Account" link, to (1) un-register your account, or (2) change or edit your preferences. You may also use the opt-out mechanism that is contained in each such email or by unsubscribing through <http://exodus.nextmovie.com/site/unsubscribe_email>
+You may "opt-out" of receiving marketing and promotional e-mails from us at any time [by using the Site’s preference management page associated with your User ID account to opt-out of receiving such emails or messages from the Site, the Parent Companies, Affiliates and/or third parties] [by going to the Site’s home page, clicking the "Your Account" link, to (1) un-register your account, or (2) change or edit your preferences. You may also use the opt-out mechanism that is contained in each such email or by unsubscribing through <http://exodus.nextmovie.com/site/unsubscribe_email>
 
 **ii.** **In Connection with Wireless Marketing Services.** See “Termination of Wireless Services by Users” under the “Wireless Marketing Services and Associated Promotional Opportunities” Section for more information on how you may unsubscribe from receiving text messages.  
 **iii. Certain Continuing Rights Regardless of Opt-Outs.** However, even if you exercise your opt-out rights above, we, or our Parent Companies or Affiliates, may continue to contact you for the other purposes described in the “Use of Information” Section above, such as for maintenance and administrative purposes.
