@@ -1,18 +1,11 @@
-> *The following text is extracted and transformed from the plan3d.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127040858id_/http%3A//plan3d.com/pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plan3d.com privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612142153id_/http%3A//plan3d.com/pages/privacy.aspx) for the most accurate reproduction.*
 
 # 
-
-**Licensee of TRUSTe Privacy Program**  
-Plan3D is a licensee of the TRUSTe Privacy Program.  TRUSTe is an independent organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices.  This privacy statement covers the site www.plan3D.com.  Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
-
-[](http://www.truste.org/ivalidate.php?url=www.plan3D.com&sealid=101)If you have questions or concerns regarding this statement, you should first contact Michael Gariepy at support@plan3D.com.  If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at [TRUSTe WATCHDOG LINK](http://www.truste.org/consumers/watchdog_complaint.php).  TRUSTe will then serve as a liaison with us to resolve your concerns. 
-
-The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from this site.
 
 **The Information We Collect**  
 At this site, you can order products, subscribe to one of our services such as our online newsletters. The types of personally identifiable information that may be collected includes: name, address, e-mail address, telephone number, fax number, credit card information, and information about some hardware on your computer.
 
-We may collect certain personally identifiable information when you visit our web pages such as the type of browser you are using (e.g., Netscape, Internet Explorer), the type of operating system you are using, (e.g., Windows '95 or Mac OS), the domain name of your Internet service provider (e.g., America Online, Earthlink) and information about your hardware settings (e.g., the type of 3D video card, CPU speed, amount of memory and so on) to provide you with technical support and to allow plan3D to operate correctly on your computer.
+We may collect certain personally identifiable information when you visit our web pages such as the type of browser you are using (e.g., Firefox, Internet Explorer), the type of operating system you are using, (e.g., Windows or Mac OS), the domain name of your Internet service provider (e.g., America Online, Earthlink) and information about your hardware settings (e.g., the type of 3D video card, CPU speed, amount of memory and so on) to provide you with technical support and to allow plan3D to operate correctly on your computer.
 
 REGISTRATION: In order to use this Web site, you must first complete the registration form and create a user name and password.  During registration you are also required to give contact information (such as name and email address). We use this information to contact you about the services on our site in which you have expressed interest.   This information may be used to send you information about your membership such as newsletters, upgrade information, renewal notices, etc. 
 
@@ -58,7 +51,7 @@ We follow generally accepted industry standards to protect the personal informat
 If you have any questions about security on our Web site, you can send email us at support@plan3D.com 
 
 **Effective Date and Changes to this Privacy Policy**  
-These privacy policies were updated on March 31st, 2006 to meet TRUSTe requirements. They were also approved by TRUSTe on March 31st, 2006.
+These privacy policies were updated on January 24th, 2011.
 
 If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.  We reserve the right to modify this privacy statement at any time, so please review it frequently.  If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our homepage.
 
