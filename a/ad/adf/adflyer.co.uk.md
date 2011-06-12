@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adflyer.co.uk privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229054148id_/http%3A//www.adflyer.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adflyer.co.uk privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612140312id_/http%3A//www.adflyer.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # adflyer: UKs Fastest Growing Marketplace, Where Smarter People Buy & Sell
 
