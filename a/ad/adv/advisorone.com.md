@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the advisorone.com privacy policy that was archived on 2010-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101117004605id_/http%3A//www.advisorone.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the advisorone.com privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612032405id_/http%3A//www.advisorone.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Advisor One
+# Privacy Policy | AdvisorOne
 
 This privacy statement explains the procedures followed by Summit Business Media in collecting and using information regarding visitors to this Web site and advises you what information might be shared with third parties. The type of information collected will vary depending upon the portions of the site which you visit and, in certain instances, which you voluntarily disclose.
 
