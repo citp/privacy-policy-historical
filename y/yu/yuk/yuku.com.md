@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yuku.com privacy policy that was archived on 2010-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100829060604id_/http%3A//www.yuku.com/portal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yuku.com privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612063619id_/http%3A//www.yuku.com/portal/privacy) for the most accurate reproduction.*
 
 # Yuku Privacy Policy | Free forums, social networks, communities, chat rooms
 
@@ -87,7 +87,7 @@ That being said, "perfect security" does not exist on the Internet. Unfortunatel
 
 Please note that we cannot guarantee the security of member account information. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of member information at any time. Therefore, although we use industry standard practices to protect your privacy, we do not promise, and you should not expect, that your personal information or private communications will always remain private.
 
-If Yuku learns of a security systems breach we may attempt to notify you electronically so that you can take appropriate protective steps. By using this web site or providing personal information to us you agree that we can communicate with you electronically regarding security, privacy and administrative issues relating to your use of this site. Yuku may post a notice on our web site if a security breach occurs. If this happens, you will need a web browser enabling you to view the Yuku.com web site. Yuku may also send an email to you at the email address you have provided to us in these circumstances. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should [notify us](http://www.yuku.com/help/ticket).
+If Yuku learns of a security systems breach we may attempt to notify you electronically so that you can take appropriate protective steps. By using this web site or providing personal information to us you agree that we can communicate with you electronically regarding security, privacy and administrative issues relating to your use of this site. Yuku may post a notice on our web site if a security breach occurs. If this happens, you will need a web browser enabling you to view the Yuku.com web site. Yuku may also send an email to you at the email address you have provided to us in these circumstances. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should [notify us](http://help.yuku.com/).
 
 ### Cookies, Web Beacons and Personalization
 
@@ -95,7 +95,7 @@ If Yuku learns of a security systems breach we may attempt to notify you electro
 
 Yuku uses cookies to store visitors' preferences and to record session information for purposes including: ensuring that visitors are not repeatedly offered the same advertisements; to customize advertising and Web page content based on browser type and user profile information; to estimate and report our total audience size and traffic; and to conduct research to improve our content and services. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. You may be able to configure your browser to accept or reject all or some cookies, or notify you when a cookie is set-each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences-however, you must enable cookies from Yuku in order to use most functions on the site.
 
-Please note that we permit third party advertisers who present advertisements on some of our pages to set and access their cookies on your computer. Advertisers' use of cookies is subject to their own privacy policies, not the Yuku Privacy Policy. You can choose not to receive tailored online advertising on other websites, based on your travel-related searches on this website, by clicking [here](http://www.networkadvertising.org/).
+Please note that we permit third party advertisers who present advertisements on some of our pages to set and access their cookies on your computer. Advertisers' use of cookies is subject to their own privacy policies, not the Yuku Privacy Policy. You can choose not to receive tailored online advertising on other websites, based on your travel-related searches on this website, by clicking [here](http://www.networkadvertising.org/). or [ here ](http://www.privacychoice.org/choose)
 
 Yuku uses web beacons to research certain usage and activities on its and our website. The information collected through these web beacons is used to find out more about our users; for more accurate reporting; and to improve the effectiveness of our marketing. No personally identifiable information about you is shared by Yuku as a result of this research.
 
@@ -119,13 +119,11 @@ Ultimately, you are solely responsible for maintaining the secrecy of your passw
 
 ## Questions?
 
-If you have any questions about this privacy policy still unanswered after reviewing this policy, please do not hesitate to contact us. You can e-mail [Yuku's legal department](http://www.yuku.com/help/ticket). Or you may mail us at the following address:
+If you have any questions about this privacy policy still unanswered after reviewing this policy, please do not hesitate to contact us. You can e-mail [Yuku's legal department](http://help.yuku.com/). Or you may mail us at the following address:
 
-Attn: Privacy Officer  
-Yuku c/o KickApps, Inc.  
-607 Market St., Suite 5  
-San Francisco, CA 94105  
-USA  
-(415) 830-3910 
+Inform Technologies, Inc.  
+44 East 30th Street, 11th Floor,  
+New York, NY 10016  
+
 
 Effective: January 4, 2006.
