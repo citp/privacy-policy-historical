@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the namcogames.com privacy policy that was archived on 2010-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101106222238id_/http%3A//www.namcogames.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the namcogames.com privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612193701id_/http%3A//www.namcogames.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Namco Games
 
@@ -94,7 +94,7 @@ Company may amend this Privacy Policy from time to time. Use of information we c
 
 Questions or Concerns
 
-If you have any questions or concerns regarding privacy on our Website, please send us a detailed message at [privacy@namcogames.com](https://web.archive.org/web/20101106222238id_/http://www.namcogames.com/privacy-policy/privacy@namcogames.com). We will make every effort to resolve your concerns.
+If you have any questions or concerns regarding privacy on our Website, please send us a detailed message at [privacy@namcogames.com](https://web.archive.org/web/20110612193701id_/http://www.namcogames.com/privacy-policy/privacy@namcogames.com). We will make every effort to resolve your concerns.
 
 Effective Date: September 01, 2008
 
