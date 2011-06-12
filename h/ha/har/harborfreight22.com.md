@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the harborfreight22.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222115745id_/http%3A//www.harborfreight.com/security-and-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harborfreight22.com privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613002150id_/http%3A//www.harborfreight.com/security-and-privacy-policy) for the most accurate reproduction.*
 
 # Security & Privacy Policy
 
@@ -83,7 +83,7 @@ If you purchase a Harbor Freight Extended Service Plan or Inside Track Club memb
 
 _(a)_ _ ** _General Tracking Information_**_ _._ Our Sites collect information through a number of different technologies, including cookies and Web beacons. Cookies, web beacons and other technical methods may involve the transmission of information either directly to us or to another party authorized by us to collect information on our behalf. Among other things, Harbor Freight keeps records of the pages visited by each site user. Harbor Freight aggregates this information with data on the pages visited by other users to track overall visitor traffic patterns. Harbor Freight uses this information to improve its Sites and to develop functions and user tools which will make it more responsive to the needs and preferences of Harbor Freight customers.
 
-_(b)_ _ ** _Cookies and Web Beacons._**_ _._ Harbor Freight websites use a technology called "cookies" to help facilitate transactions on the Sites. A cookie is an element of software code that Harbor Freight Sites can send to your browser, which is then stored on your hard drive so we can recognize you when you return. Should you decide not to accept cookies from our Sites, you will limit the functionality we can provide when you visit our Site. Third parties may place anonymous cookies on your browser and may send their own cookies to your cookies file, which may allow personalized retargeting technology and service of personalized banners to enhance your shopping experience. Web beacons are small pieces of data that are embedded in images on the pages of Web sites.
+_(b)_ _ ** _Cookies and Web Beacons._**_ _._ Harbor Freight websites use a technology called "cookies" to help facilitate transactions on the Sites. A cookie is an element of software code that Harbor Freight Sites can send to your browser, which is then stored on your hard drive so we can recognize you when you return. Should you decide not to accept cookies from our Sites, you will limit the functionality we can provide when you visit our Site. Third parties may place anonymous cookies on your browser and may send their own cookies to your cookies file, which may allow personalized retargeting technology and service of personalized banners to enhance your shopping experience. The Network Advertising Initiative (NAI) consumer opt-out page currently located at www.networkadvertising.org/managing/opt_out.asp permits you to opt-out of behaviorial advertising with some of the third parties whose cookies may be placed on your browser when you visit our sites. Web beacons are small pieces of data that are embedded in images on the pages of Web sites.
 
 _(c)_ _ ** _Other Information_**_ _._ We may collect additional automatic information about your visit to our Site, such as time of day, browser type and version, browser language, your operating system and platform, and the Internet Protocol (IP) address used to connect your computer to the Internet. This information is used for analytical purposes and to help us provide services to our customers. We may also use this information to administer and troubleshoot our Sites.
 
@@ -189,7 +189,7 @@ You may contact us in one of the following ways:
 
 1\. Send an e-mail to: **[cs@harborfreight.com](mailto:cs@harborfreight.com)** with “Internet Customer Service” in the subject line
 
-2\. Call 1-800-444-3353 Monday through Friday, 5:00 a.m.-6:30 p.m. EST;
+2\. Call 1-800-444-3353 Monday through Friday, 6:00 a.m.-4:30 p.m. PST;
 
 3\. Send your request by mail to:
 
