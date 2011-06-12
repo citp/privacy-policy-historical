@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sekindo.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230055557id_/http%3A//www.sekindo.com/help/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sekindo.com privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612124940id_/http%3A//www.sekindo.com/help/privacy.php) for the most accurate reproduction.*
 
 # SekiNdo - Privacy Policy
 
@@ -7,18 +7,18 @@
 ---|---|---|---|---  
 |   |  ﻿  |   
 ---  
-|  [   Add an Advertisement](https://web.archive.org/advertiser/adStep1.php)  
+|  [   Define Campaigns & Ads](https://web.archive.org/advertiser/adStep1.php)  
 ---  
-[   Manage My Campaigns](https://web.archive.org/advertiser/myCampaigns.php)  
+[   Manage Campaigns](https://web.archive.org/advertiser/myCampaigns.php)  
 [   Pending Publishers' Requests](https://web.archive.org/main/managePendingReq.php?id1=0)  
 [   Tool Box](https://web.archive.org/advertiser/adTools.php)  
-[   Create My Ad](https://web.archive.org/advertiser/creative.php)  
+[   Create Ad](https://web.archive.org/advertiser/creative.php)  
    
 |  [   Define Ad Spaces](https://web.archive.org/publisher/spaceStep1.php)  
 ---  
 [   Management & Statistics](https://web.archive.org/publisher/mySpaces.php)  
 [    **The Ad Marketplace**](https://web.archive.org/publisher/searchAds.php)  
-[   My Pending Publish Requests](https://web.archive.org/main/managePendingReq.php?id1=1)  
+[   Pending Publish Requests](https://web.archive.org/main/managePendingReq.php?id1=1)  
    
 |  [   Register a New User](https://web.archive.org/account/registerNewUser.php)  
 ---  
@@ -119,5 +119,5 @@
   |  You may send requests, responses, questions and complaints, by sending an e-mail message to: [contact@sekindo.com](mailto:contact@sekindo.com).   
    
    
-[Affiliate Network](https://web.archive.org/)      [Terms of Service](https://web.archive.org/help/terms.php)     [About Us](https://web.archive.org/help/aboutUs.php)     [Contact Us](https://web.archive.org/help/contact.php)     [Press & News](https://web.archive.org/help/press.php)     [How It Works](https://web.archive.org/help/howItWorks.php)     [Q&A](https://web.archive.org/help/faqs.php)     [Privacy Policy](https://web.archive.org/help/privacy.php)     [Fee Schedule](https://web.archive.org/help/fee.php)     [Copyright Policy](https://web.archive.org/help/copyright.php)     [Blog](http://sekindo.wordpress.com/)     [Creative Solutions](https://web.archive.org/advertiser/creative.php)     [Affiliates](https://web.archive.org/help/affiliates.php)  
-© 2007-2010 SekiNdo LTD. All Rights Reserved 
+[Affiliate Network](https://web.archive.org/)     [Terms of Service](https://web.archive.org/help/terms.php)     [About Us](https://web.archive.org/help/aboutUs.php)     [Contact Us](https://web.archive.org/help/contact.php)     [Press & News](https://web.archive.org/help/press.php)     [How It Works](https://web.archive.org/help/howItWorks.php)     [Q&A](https://web.archive.org/help/faqs.php)     [Privacy Policy](https://web.archive.org/help/privacy.php)     [Fee Schedule](https://web.archive.org/help/fee.php)     [Copyright Policy](https://web.archive.org/help/copyright.php)     [Blog](http://sekindoblog.com/)     [Creative Solutions](https://web.archive.org/advertiser/creative.php)  
+© 2007-2011 SekiNdo LTD. All Rights Reserved 
