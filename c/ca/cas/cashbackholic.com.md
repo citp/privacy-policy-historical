@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cashbackholic.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223084654id_/http%3A//www.cashbackholic.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashbackholic.com privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612152351id_/http%3A//cashbackholic.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - CashbackHolic.com
 
@@ -7,7 +7,7 @@
 Protecting your privacy is important to us. We hope the following statement will help you understand how CashbackHolic.com collects, uses and safeguards the personal information you may provide to us on our site.
 
 **What data we collect and why**  
-CashbackHolic.com is created to maximize the purchasing power of your pocket dollars by collecting cash back rate information from web sites (Providers) that provide cash back rebate when you shop online through their affiliated stores. Currently, we do not collect or store any personal information of the visitor. CashbackHolic.com may collect the data of the internet browsers that access or attempt to access our websites. The data we collected will be solely used for browser compatibility improvement purpose and will not be shared with any third party.
+CashbackHolic.com is created to maximize the purchasing power of your pocket dollars by collecting cash back rate information from web sites (Providers) that provide cash back rebate when you shop online through their affiliated stores. Currently, we only collect personal email address provided by a visitor who made review comments. CashbackHolic.com may collect the data of the internet browsers that access or attempt to access our websites. The data we collected will be solely used for browser compatibility improvement purpose and will not be shared with any third party.
 
 **How we keep your information secure**  
 The security of your personal information is important to CashbackHolic.com. If personal information is collected in the future, CashbackHolic.com will use a secure, encrypted connection (called an SSL connection) on all pages where you access or transmit personal information.
@@ -34,6 +34,6 @@ We will post all changes to this Privacy Agreement here at our site. You are res
 For any questions, please contact us at support@CashbackHolic.com.
 
 CashbackHolic.com  
-April 29, 2010
+Updated February 22, 2011
 
 | 
