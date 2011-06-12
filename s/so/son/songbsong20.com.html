@@ -1,0 +1,1094 @@
+<!--The following is the downloaded HTML source of the songbsong20.com privacy policy that was archived on 2011-06-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110612132245id_/http%3A//www.cing.com/page/privacy_policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns:fb="https://www.facebook.com/2008/fbml" lang="en-US"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+     
+    
+    <title>Cing.com - The hottest local spa, restaurant, bars, massage and other deals at 50%-100% off!</title>
+    <meta name="keywords" content="Bar deals, spa deals, gym discounts, club packages, fitness specials, massage, facial, mani-pedi deals, local deals, chicago deals, deal of the day.">
+    <meta name="description" content="Local deals, discounts and coupons for spas, restaurants, nightlife, beauty, fitness and more at 50%-100% off!">
+    
+    <link type="text/css" href="/css/blitzer/jquery-ui-1.8.9.custom.css" rel="stylesheet">	
+    <link href="/css/reset.css" rel="stylesheet" type="text/css">
+    <link href="/css/forms.css" rel="stylesheet" type="text/css">    
+    <link href="/css/styles.css" rel="stylesheet" type="text/css">
+    <link href="/css/typography.css" rel="stylesheet" type="text/css">
+    <link href="/facebox/facebox.css" media="screen" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="/css/beautifuldata.css" type="text/css"> 
+    <link href="/css/jquery.wysiwyg.css" rel="stylesheet" type="text/css">
+
+ 
+    <!--[if lt IE 8]>
+    	<link href="css/ie.css" rel="stylesheet" type="text/css" />
+    <![endif]-->
+   
+    <link href="https://fonts.googleapis.com/css?family=Ubuntu" rel="stylesheet" type="text/css">
+    
+     <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon"> 
+
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
+    <script src="/facebox/facebox.js" type="text/javascript"></script>
+    
+    <script type="text/javascript" src="/js/jquery-ui-1.8.9.custom.min.js"></script>
+    <script type="text/javascript" src="/js/jquery.backstretch.min.js"></script>
+    
+    <script type="text/javascript" src="/js/beautiful-data.min.js"></script>
+    <script type="text/javascript" src="/js/jquery.wysiwyg.js"></script>
+
+	<script src="/js/jquery.validationEngine-en.js" type="text/javascript" charset="utf-8"></script>
+    <script src="/js/jquery.validationEngine.js" type="text/javascript" charset="utf-8"></script>
+    <link rel="stylesheet" href="/css/validationEngine.jquery.css" type="text/css">
+
+	 
+
+    
+    
+	<script type="text/javascript">
+	
+     
+      $(document).ready(function() {
+        // on page load
+		
+				
+		
+		//background image full screen
+		$.backstretch("http://maps.google.com/maps/api/staticmap?sensor=false&size=800x800&zoom=13&center=47.5839,-122.2995&style=feature:all|visibility:simplified|hue:0x8c613b|saturation:0|lightness:65&style=feature:road.arterial|visibility:off&style=feature:road.highway|visibility:simplified|saturation:10|lightness:40");
+		
+		$('a[rel*=facebox]').facebox();
+		
+		$( "#start_date" ).datepicker();
+		$( "#end_date" ).datepicker();
+		
+		
+	    $('#description_wysiwyg').wysiwyg({
+	        controls: {
+	            strikeThrough: { visible: false },
+	            underline: { visible: true },
+	            subscript: { visible: false },
+	            superscript: { visible: false },
+	            indent: { visible: false },
+	            outdent: { visible: false },
+	            insertImage: { visible: false },
+	            h1: { visible: false },
+	            h2: { visible: false },
+	            h3: { visible: false },
+	            insertTable: { visible: false }
+	        }
+	    });
+	    
+	    $('#terms_conditions_wysiwyg').wysiwyg({
+	        controls: {
+	            strikeThrough: { visible: false },
+	            underline: { visible: true },
+	            subscript: { visible: false },
+	            superscript: { visible: false },
+	            indent: { visible: false },
+	            outdent: { visible: false },
+	            insertImage: { visible: false },
+	            h1: { visible: false },
+	            h2: { visible: false },
+	            h3: { visible: false },
+	            insertTable: { visible: false }
+	        }
+	        
+	    });
+
+		
+		
+		//this all disables the header email signup and controls the modal
+		$('#email_signup_header').hide();
+		
+				
+		//end modal control
+		
+		/*$("#admin_deals").beautify({
+				pageSize : 20,
+				pagerSize : 10
+	
+		});
+		$("#deal_search").keyup(function() {
+			$("#admin_deals").beautify("rebuild", { globalFilter : $("#deal_search").val() });
+		});
+		
+		$("#admin_users").beautify({
+				pageSize : 20,
+				pagerSize : 10
+	
+		});
+		$("#user_search").keyup(function() {
+			$("#admin_users").beautify("rebuild", { globalFilter : $("#user_search").val() });
+		});
+		
+	*/
+		
+      });
+            function join_daily_email()
+		{
+		var email_address = $( '#facebox #daily_email_address' ).val();
+		var location = $( '#facebox #location' ).val();
+
+		
+		var data = {
+				email_address: email_address,
+				location: location
+				
+			};
+			
+			
+			$.ajax({
+				url: "http://www.cing.com/daily_email_list/subscribe",
+				type: 'POST',
+				data: data,
+				success: function(msg) {
+					//$('#main_content_deals').html(msg);
+					//alert('hi');
+					//$.facebox.close();
+					
+					
+					jQuery.facebox({ div: '#modal_email_confirmation' });
+				}
+			});
+			
+			return false;
+
+		
+		}
+		
+				
+      	function join_daily_email_header()
+		{
+		var email_address = $( '#header_email_address' ).val();
+		var location = $( '#header_location' ).val();
+
+		
+		var data = {
+				email_address: email_address,
+				location: location
+				
+			};
+		
+			
+			
+			$.ajax({
+				url: "http://www.cing.com/daily_email_list/subscribe",
+				type: 'POST',
+				data: data,
+				success: function(msg) {
+					//$('#main_content_deals').html(msg);
+					
+					//$.facebox.close();
+					//_trackEvent('Daily Email', 'New Email Address Red Header');
+					$('#email_signup_header').hide();
+					
+					jQuery.facebox({ div: '#modal_email_confirmation' });
+				}
+			});
+			
+			return false;
+
+		
+		}
+		
+		      	function suggest_business()
+		{
+			var name = $( '#facebox #suggestion_name' ).val();
+			var website = $( '#facebox #suggestion_website' ).val();
+			var city = $( '#facebox #suggestion_city' ).val();
+			var state = $( '#facebox #suggestion_state' ).val();
+			var reason = $( '#facebox #suggestion_reason' ).val();
+	
+	
+			
+			var data = {
+				name: name,
+				website: website,
+				city: city,
+				state: state,
+				reason: reason				
+			};
+			
+			
+			$.ajax({
+				url: "http://www.cing.com/merchant/suggest",
+				type: 'POST',
+				data: data,
+				success: function(msg) {
+
+					jQuery.facebox({ div: '#modal_suggest_confirmation' });
+				}
+			});
+			
+			return false;
+
+		
+		}
+		
+		function send_text(deal_id)
+		{
+		var mobile_number = $( '#mobile_number' ).val();
+		
+		var data = {
+				mobile_number: mobile_number,
+				deal_id: deal_id,
+			};
+			
+						
+			$.ajax({
+				url: "http://www.cing.com/deal/send_text",
+				type: 'POST',
+				data: data,
+				success: function(msg) {
+					$('#text_confirmation').html(msg);
+
+				}
+			});
+
+		
+		}
+		
+		function make_fb_event(deal_id)
+		{
+		
+		
+		
+		var start_date = $( '#start_date' ).val();
+		var start_time = $( '#start_time' ).val();
+		
+		var data = {
+				start_date: start_date,
+				start_time: start_time,
+				deal_id: deal_id,
+			};
+			
+						
+			$.ajax({
+				url: "http://www.cing.com/deal/make_fb_event",
+				type: 'POST',
+				data: data,
+				success: function(msg) {
+					$('#text_confirmation_facebook').html('<p style="color: green!important; font-weight: bold">Facebook Event Created! <br /><a href="'+msg+'" target="_blank">View your event and invite friends.</a></p>');
+					$('#facebook_event_form').html('');
+					window.open(msg);
+
+				}
+			});
+
+		
+		}
+
+		
+		function login()
+		{
+		var email_address = $( '#facebox #email_address_login' ).val();
+		var password = $( '#facebox #password_login' ).val();
+		
+		var data = {
+				email_address: email_address,
+				password: password,
+			};
+			
+			
+			$.ajax({
+				url: "http://www.cing.com/login/ajax_login",
+				type: 'POST',
+				data: data,
+				success: function(msg) {
+					
+					if(msg == 'success')
+					{
+						location.reload(true);
+						return false;
+					} else {
+						window.location = 'https://www.cing.com/login';
+						return false;
+					}
+					
+				}
+			});
+
+		
+		}
+		
+		
+		
+		// jQuery plugin: SafeEnter 1.0
+		// http://plugins.jquery.com/project/SafeEnter
+		// by teedyay
+		//
+		// Fires an event when the user presses Enter, but not whilst they're in the browser's autocomplete suggestions
+		
+		//codesnippet:2e23681e-c3a9-46ce-be93-48cc3aba2c73
+		(function($)
+		{
+			$.fn.listenForEnter = function()
+			{
+				return this.each(function()
+				{
+					$(this).focus(function()
+					{
+						$(this).data('safeEnter_InAutocomplete', false);
+					});
+					$(this).keypress(function(e)
+					{
+						var key = (e.keyCode ? e.keyCode : e.which);
+						switch (key)
+						{
+							case 13:
+								// Fire the event if:
+								//   - we're not currently in the browser's Autocomplete, or
+								//   - this isn't a textbox, or
+								//   - this is Opera (which provides its own protection)
+								if (!$(this).data('safeEnter_InAutocomplete') || !$(this).is('input[type=text]') || $.browser.opera)
+								{
+									$(this).trigger('pressedEnter', e);
+								}
+								$(this).data('safeEnter_InAutocomplete', false);
+								break;
+		
+							case 40:
+							case 38:
+							case 34:
+							case 33:
+								// down=40,up=38,pgdn=34,pgup=33
+								$(this).data('safeEnter_InAutocomplete', true);
+								break;
+		
+							default:
+								$(this).data('safeEnter_InAutocomplete', false);
+								break;
+						}
+					});
+				});
+			};
+		
+			$.fn.clickOnEnter = function(target)
+			{
+				return this.each(function()
+				{
+					$(this)
+						.listenForEnter()
+						.bind('pressedEnter', function()
+						{
+							$(target).click();
+						});
+				});
+			};
+		})(jQuery);
+
+     	      
+      </script>
+     
+
+  
+</head>
+ 	
+<body>
+<div style="position:relative; margin:0; padding:0; height:100%; min-height:100%;">
+<!--header-->
+<div id="header">
+	
+		<!--email signup-->
+	<div class="page_width" id="email_signup_header">
+		
+		&nbsp;&nbsp;<span style="font-weight: bold; font-size: 1.2em">Get our Hottest Deals in one Daily Email !</span>
+			<label for="daily_email_address">Email Address:</label>
+		<input type="text" name="header_email_address" value="enter your email address" id="header_email_address" class="text small" onfocus="if(this.value == this.defaultValue) this.value = ''">
+		
+		<label for="new_location">Your Location:</label>
+		<input type="text" name="header_location" id="header_location" class="text small" value="Seattle, WA">
+		
+		&nbsp;&nbsp;&nbsp;<input type="button" name="submit" value="Join!" onclick="join_daily_email_header()">
+	
+		<script type="text/javascript">
+		$('#header_location')
+	    .listenForEnter()
+	    .bind('pressedEnter', function()
+	    {
+	        //alert('d');
+	        join_daily_email_header();
+	    });
+		</script>
+
+		
+	</div>
+	<!-- end email signup-->
+		
+	
+	<div class="page_width">
+	
+		<h1><a href="/" class="header_logo">Cing</a></h1>
+    	
+        <div id="header_search" class="rounded_corners">
+            <form method="get" action="/homepage/search">
+                <input type="text" class="header_search_input" value="deal search" name="q" id="q" onfocus="if(this.value == this.defaultValue) this.value = ''">
+                <input type="image" src="/images/header_search_submit.png" name="search_submit" id="search_submit" class="header_search_submit">
+            </form>
+            
+        </div>
+        
+              
+       			
+		       	
+       	<div id="header_account_links">
+       	
+       		<span style="width: 57px; float: right; margin-left: 10px"><a href="http://twitter.com/#!/CingDeals" target="_blank"><img src="/images/twitter_small.png"></a></span>
+       	
+       		<span style="width: 45px; float: right; margin-left: 10px;"><fb:send href="http://www.cing.com/page/privacy_policy" font="trebuchet ms" colorscheme="light"></fb:send></span>
+
+			
+
+       	
+       		       		<a href="/user/signup">Join Cing</a>&nbsp; | &nbsp;
+       		<a href="/post">Post a Deal</a> &nbsp;| 
+       		<a href="#modal_login" rel="facebox" title="Login to Cing">Login</a> &nbsp;| 
+	       		
+	       		<fb:login-button perms="email,user_about_me,create_event,user_location,user_interests,status_update" &redirect-uri="http://www.cing.com/fb_login">Login with Facebook</fb:login-button>
+	       		
+       		       	</div>
+	
+    </div>
+    
+</div>
+
+
+
+<!--header-->
+
+<!--index logo and location-->
+
+
+<div id="logo_location" class="page_width" style="position:relative;">
+
+	<div style="width: 220px; height: 62px; float: right; margin-top: -30px">
+	<iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fcing&amp;width=292&amp;colorscheme=light&amp;show_faces=false&amp;stream=false&amp;header=false&amp;height=62" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:292px; height:62px;" allowtransparency="true"></iframe>	</div>
+
+	<a href="/"><img src="/images/middle_logo-beta.png" class="middle_logo"></a>
+	
+	<h2 class="tagline">discover everything cool<br>to do around <a href="#modal_location" class="rounded_corners" rel="facebox">Seattle, WA</a></h2>
+
+</div>
+
+<!--index logo and location-->	 	
+<div id="content">	
+
+<div id="main_content_wrapper" class="page_width">
+	<div id="main_content">
+
+		<h2>Cing Privacy Policy</h2>
+
+		<div>
+	<p>
+		Cing, LLC ("Cing", "we" or "us") is determined to protecting your online privacy. This Cing privacy policy (the "Privacy Policy") is intended to inform
+		you of our policies and practices regarding the collection, use and disclosure of any information you submit to us through the Cing website
+		(collectively, the "Website" located at <a href="http://www.cing.com/">www.cing.com</a>).
+	</p>
+	<p>
+		<strong>1. </strong>
+		<strong>User Consent.</strong>
+	</p>
+	<p>
+		Please read this Privacy Policy carefully. By accessing or otherwise using the Website, you acknowledge that you have read, understand, and agree to be
+		bound by the terms of this Privacy Policy and Cing's Terms of Use (available at http://www.cing.com/page/terms_conditions).
+	</p>
+	<p>
+		IF YOU DO NOT AGREE TO THESE TERMS, PLEASE EXIT THIS PAGE AND DO NOT ACCESS OR USE THE WEBSITE.
+	</p>
+	<p>
+		<strong>2. </strong>
+		<strong>Collection of Information.</strong>
+	</p>
+	<p>
+		<strong>Personally Identifiable Information.</strong>
+	</p>
+	<p>
+		We generally collect any information voluntarily submitted by you ("Personally Identifiable Information") through Cing. This Personally Identifiable
+		Information is what we use to specifically identify you and it includes your name, e-mail address, user ID, and other non-public information. For
+		example, when you register for an account ("User Account") with Cing, make a purchase, post a review, send feedback, request information, or otherwise
+		request or submit content through Cing ("Cing Activities"), we may ask you to provide certain Personally Identifiable Information such as your full
+		name, mailing address, a valid email address, telephone number, date of birth and a password of your choice. If you place an order, we may also ask you
+		to provide us with your credit card number, expiration date and authentication codes or related information.
+	</p>
+	<p>
+		Some information we ask you to provide is labeled as required while you may provide other information voluntarily. Engaging in a Cing Activity is
+		voluntary, but if the requested mandatory information is not provided for a specific Cing Activity, you will not be permitted to participate in that
+		activity.
+	</p>
+	<p>
+		When you sign up for, or win, any contests, sweepstakes, or other activities that we make available on Cing, we will collect the information designated
+		along with such activity, which may include your contact information. If you choose to sign up to receive information about products or services that
+		may be of interest to you, your email address and other related information will be collected in order for Cing to contact you.
+	</p>
+	<p>
+		We may also collect information about you and your friends who use Cing, from any social network you may have connected from, in order to provide you
+		with a more personalized experience. For example, we may collect your user ID or profile information that you have permitted to be displayed through
+		Cing in order to display you as a friend or in association with your profile and collections.
+	</p>
+	<p>
+		If you decide to use our referral service or buy a gift for someone other than yourself, we will ask for your friend's name and email address. Your
+		friend will be sent a one-time email with the gift that you have purchased or an invitation to visit Cing. This information will be stored by Cing for
+		the purpose of sending this email, sending the gift, and tracking the referral program.
+	</p>
+	<p>
+		We may receive Personally Identifiable Information about you from other sources with which you have registered, companies who we have partnered with,
+		or other third parties. We may use this information with other Personal Information we have collected about you.
+	</p>
+	<p>
+		If you send an email to us, or provide us with any other feedback, we will collect your email address and the full content of your email, including
+		attached files, and other information you provide. We may, with your consent, use and display your full name and email address when you send an email
+		notification to a friend through Cing or the social network from which you have connected to Cing. We will use your email address to contact you on
+		behalf of any of your friends or to provide you with notifications which you have requested to receive.
+	</p>
+	<p>
+		We may also use your Personally Identifiable Information to troubleshoot, resolve disputes, accomplish administrative tasks, contact you, enforce our
+		agreements with you, comply with applicable law, and cooperate with law enforcement activities.
+	</p>
+	<p>
+		<strong>Non-Personally Identifiable Information. </strong>
+	</p>
+	<p>
+		Non-Personally Identifiable Information is information that is collected that does not specifically identify you. As you use Cing, certain information
+		may also be passively collected and stored on our or our service providers' server logs, including things like your Internet protocol ("IP") address,
+		the Uniform Resource Locator ("URL") of the website you visited before coming to our Website, the URL of the website you visit after leaving our
+		Website, the type of browser you are using, your location and information on which of the advertisements displayed on Cing you clicked on. This
+		information will be used to customize your experience on Cing and make it a more personal experience. This Non-Personally Identifiable Information will
+		also be used to troubleshoot, administer the Website, analyze trends, gather demographic information, comply with applicable law, and cooperate with
+		law enforcement activities. We may also share this information with our authorized third parties to measure the overall effectiveness of our online
+		advertising, content, and programming.
+	</p>
+	<p>
+		<strong>3. </strong>
+		<strong>Use of Information.</strong>
+	</p>
+	<p>
+		Generally, the Personally Identifiable Information you submit to us is used to provide you access to Cing, to improve Cing, to customize Cing, and to
+		offer you additional information, opportunities, promotions and functionality from us, our partners or our advertisers at your request. We do share
+		your content preferences and other information with the social network with which you have connected to Cing, along with those companies and persons
+		you have asked us to share your information with.
+	</p>
+	<p>
+		Except as otherwise stated in this Privacy Policy, we do not sell, trade, rent, or otherwise share for marketing purposes your Personally Identifiable
+		Information with other parties.
+	</p>
+	<p>
+		<strong>Information Shared With Merchants.</strong>
+	</p>
+	<p>
+		We will automatically send to merchants ("Merchants") the email addresses of those customers who purchase one of their deals from Cing. There may be
+		times when certain Merchants ask for certain other information about the Cing customers who purchase the offer provided on Cing. In such a case, we
+		will provide the Merchant with some of your Personally Identifiable Information, but this information will only be provided to the Merchant who has
+		requested for it for that specific offer. We disclaim any responsibility or liability for the actions of that specific Merchant. The Merchant will be
+		informed that this information is to be used solely for communication purposes related to the specific promotion on Cing, but Cing will not claim
+		responsibility for Merchant's actions. Merchant's actions are not in the control of Cing.
+	</p>
+	<p>
+		<strong> </strong>
+	</p>
+	<p>
+		<strong>Authorized Third Party Service Providers.</strong>
+	</p>
+	<p>
+		We may provide your Personally Identifiable Information to third party service providers ("Third Party Service Providers") who work on behalf of or
+		with us to provide some of the services and features of Cing and to help us communicate with you. These Third Party Service Providers perform services
+		such as sending email, analyzing data, providing marketing assistance, processing payments (including credit card payments), providing customer
+		service, fulfilling orders, delivering packages, administering contests or sweepstakes, providing search results and links, and operating the Website.
+		We may also collect personal information from individuals and companies ("Affiliates") with whom we have business relationships and may share your
+		information with Service Providers to accomplish our administrative tasks.
+	</p>
+	<p>
+		We require our Third Party Service Providers to promise not to use your Personally Identifiable Information except as necessary to provide the relevant
+		services to us. However, the use of your Personally Identifiable Information by Cing Merchants and Third Party Service Providers is governed by the
+		privacy policies of such parties and is not subject to our control.
+	</p>
+	<p>
+		<strong> </strong>
+	</p>
+	<p>
+		<strong>Business Transfer.</strong>
+	</p>
+	<p>
+		In the event we go through a business transition such as a merger, acquisition by another company, or sale of all or a portion of our assets, you
+		Personally Identifiable Information may be an asset which is transferred. You acknowledge and agree that such transfers may occur and are permitted by
+		this Privacy Policy. However, the Personally Identifiable Information would still be subject to this Privacy Policy following the business transfer.
+	</p>
+	<p>
+		<strong> </strong>
+	</p>
+	<p>
+		<strong>Other.</strong>
+	</p>
+	<p>
+		We may disclose your Personally Identifiable Information if we believe that disclosure is necessary to:
+	</p>
+	<p>
+		a. Comply with relevant laws;
+	</p>
+	<p>
+		b. Comply with a judicial proceeding, court order, or legal process served on our Website;
+	</p>
+	<p>
+		c. Enforce or apply this Privacy Policy, our Website Terms and Conditions or other agreements; or
+	</p>
+	<p>
+		d. To protect and defend the rights, property or safety of our Website, its Users or other third parties.
+	</p>
+	<p>
+		We may also share some or all of your Personally Identifiable Information with Cing affiliated companies ("Affiliates") that are under a common
+		control. If such information is shared with Affiliates, then the Affiliates are required to honor the terms of this Privacy Policy.
+	</p>
+	<p>
+		You hereby consent to us sharing your Personally Identifiable Information under the circumstances described herein.
+	</p>
+	<p>
+		We may disclose or share Non-Personally Identifiable Information with our partners, Affiliates, and any third party advertising companies ("Third Party
+		Advertising Companies") we use.
+	</p>
+	<p>
+		We also use Third Party Service Providers to track and analyze Non-Personally Identifiable statistical information regarding your use in order for us
+		to continue to make improvements to our Website. We may publish this information for promotional purposes or as a representative audience for any
+		advertisers we use. This information is not Personally Identifiable. Rather, it is general information about the activities of our Website's users.
+		This data is owned and used by us.
+	</p>
+	<p>
+		<strong> </strong>
+	</p>
+	<p>
+		<strong>4. </strong>
+		<strong>Technology.</strong>
+	</p>
+	<p>
+		<strong> </strong>
+	</p>
+	<p>
+		<strong>Cookies.</strong>
+	</p>
+	<p>
+		Cing stores and uses cookies on your computer in order for us to customize your experience on the Cing Website. A cookie is a small text file the
+		User's browser stores on the computer and it contains information about that User. Cookies are helpful because they help us identify who you are, save
+		you time, and help identify your interests so we can provide you with a much more customized experience. Cookies also allow us to collect
+		Non-Personally Identifiable Information from you. For example, we can determine which pages you visited and what links you clicked on. We may also use
+		cookies to allow Third Party Advertising Companies to display advertisements on the Cing Website, who may also place separate cookies on your computer.
+		We have no access or control over these cookies and this Privacy Policy does not cover the use of those cookies placed by any Advertiser.
+	</p>
+	<p>
+		You can change your browser settings to not accept cookies or to delete cookies. If you choose to disable cookies, some aspects of Cing may not work
+		properly.<strong> </strong>
+	</p>
+	<p>
+		<strong> </strong>
+	</p>
+	<p>
+		<strong>Remarketing.</strong>
+	</p>
+	<p>
+		Cing engages in remarketing to market the Cing across the web. This remarketing may be performed by Third Party Advertising Companies. These Third
+		Party Advertising Companies use cookies to serve ads based on a user's prior visits to Cing's website. When a user visits our website, a cookie is
+		dropped on the user. Users with this cookie may be targeted across advertising networks to receive relevant advertisements. The Third Party Advertising
+		Companies may be a part of the Network Advertising Initiative ("NAI"). To find out more information about NAI, including how to opt-out of the program,
+		visit: <a href="http://www.networkadvertising.org/managing/opt_out.asp">http://www.networkadvertising.org/managing/opt_out.asp</a>.
+	</p>
+	<p>
+		<strong>Google Analytics.</strong>
+	</p>
+	<p>
+		We use Google Analytics to gather statistics on our website. The information gathered by Google Analytics helps Cing understand how you interact with
+		our website and we use this information to improve your experience on the Cing website. Google Analytics uses items such as cookies to collect data
+about how our visitors use the sites. According to the Google Analytics		<a href="http://www.google.com/intl/en/privacy/privacy-policy.html">Privacy Policy</a>, Google Analytics will only use that cookie data for statistical
+		analysis related to browsing on our website. Google Analytics Terms of Service also states that the data collected cannot be altered or retrieved by
+		services from other domains or web sites. If you choose, you can opt out of the collection of the cookie information by disabling cookies in the
+		preferences settings in your browser. For more information on Google Analytics, please visit the following links on Google's website:
+	</p>
+	<p>
+		<a href="http://www.google.com/intl/en/analytics/privacyoverview.html">http://www.google.com/intl/en/analytics/privacyoverview.html</a>
+	</p>
+	<p>
+		<a href="http://code.google.com/apis/analytics/docs/concepts/gaConceptsCookies.html">
+			http://code.google.com/apis/analytics/docs/concepts/gaConceptsCookies.html
+		</a>
+	</p>
+	<p>
+		<strong>5. </strong>
+		<strong>Your Choices.</strong>
+	</p>
+	<p>
+		There are two types of emails we may send you. Promotional emails ("Promotional Emails") are emails that advertise our products and services, including
+		the products and services of our Advertisers and Affiliates. You may, at any time, elect to opt out of receiving these Promotional Emails by following
+		the directions found in the Promotional Email, or by doing so through your User Account.
+	</p>
+	<p>
+		Even if you elect to opt out of receiving Promotional Emails, Cing will still send you administrative emails ("Administrative Emails"), which are
+		emails that relate to your activity on the Cing Website, information about your User Account, requests, inquiries, notices, and other information
+		regarding your transactions.
+	</p>
+	<p>
+		You always have a choice of whether or not to provide any information. It may, however, be required to provide certain information if you want access
+		to a certain activity on the Website.
+	</p>
+	<p>
+		You have the right to request a copy of the Personally Identifiable Information that we hold about you. If you would like a copy of some or all of your
+		Personally Identifiable Information, please contact us at <a href="mailto:customerservice@cing.com">customerservice@cing.com</a>. We may charge a
+		reasonable fee for this service.
+	</p>
+	<p>
+		<strong>6. </strong>
+		<strong>Security.</strong>
+	</p>
+	<p>
+		We encrypt certain information (such as credit card information) using Secure Socket Layer (SSL) technology to maintain the safety of your Personally
+		Identifiable Information as it is transmitted to us.
+	</p>
+	<p>
+		The Personally Identifiable Information you maintain in your User Account is protected by an encrypted password and your email address. It is
+		recommended that you do not share your password with anyone.
+	</p>
+	<p>
+		We employ industry-standard security measures to protect data and seek to partner with companies who do the same, but we cannot guarantee the security
+		of any information transmitted to or from the Website, and are not responsible for the actions of any third parties that may receive any such
+		information.
+	</p>
+	<p>
+		<strong>7. </strong>
+		<strong>Updating Information.</strong>
+	</p>
+	<p>
+		You may change any of your profile information by editing it in your User Account settings page. We recommend you access and update your Personally
+		Identifiable Information by logging into your account on the Cing Website. You may ask for any of this information to be removed or deleted. There is
+		certain information, however, that you cannot have deleted, such as information regarding past transactions. Our information is periodically backed up,
+		and you agree that some information may be stored in these backups which we cannot delete.
+	</p>
+	<p>
+		If you choose to store credit card information on the site, this is stored on a secure page and you may delete your credit card information at any time
+		by doing so through your profile of your User Account.
+	</p>
+	<p>
+		<strong>8. </strong>
+		<strong>Third Party Sites.</strong>
+	</p>
+	<p>
+		Cing may contain links to other websites. This Privacy Policy applies solely to information collected by us through Cing and it does not apply to these
+		third party websites. Other websites accessible through Cing have their own privacy policies, data collection, use and disclosure procedures. The links
+		provided on Cing are for your convenience and we urge you to review the privacy policies of each website you decide to visit. We are not responsible
+		for the policies or practices of third parties.
+	</p>
+	<p>
+		<strong>9. </strong>
+		<strong>Children.</strong>
+	</p>
+	<p>
+		Minors under the age of 18 are not permitted to use Cing, unless they have parental permission, supervision, and are over the age of 13. Children under
+		the age of 13 are not permitted to use Cing. We do not intentionally collect or maintain Personally Identifiable Information from anyone under the age
+		of 13. If we obtain knowledge that a user is under 13 years old, we will attempt to remove that user's Personally Identifiable Information from our
+		database. For those over the age of 13, but not yet 18 years old, Personally Identifiable Information may be collected if that user has requested the
+		permission of its parent or guardian to use Cing.
+	</p>
+	<p>
+		<strong>10. </strong>
+		<strong>Miscellaneous.</strong>
+	</p>
+	<p>
+		<strong>Public Information.</strong>
+	</p>
+	<p>
+		Certain information you post or provide through Cing, such as your name, profile, comments, collections and reviews, may be shared with other uses and
+		posted on publicly available portions of Cing, including without limitation, social media applications and other public forums in which you choose to
+		participate. Keep in mind that any information, including Personally Identifiable Information, you choose to disclose in such public forums may be
+		accessible by other consumers and companies and may appear on other websites or web searches, and therefore this information could be read, collected,
+		and used by others. We have no control over who reads your postings or what other users may do with the information you voluntarily post.
+	</p>
+	<p>
+		If you provide us with any feedback, we may use and disclose such feedback for any purpose, provided we do not associate such feedback with your
+		Personally Identifiable Information. The Personally Identifiable Information will be treated in accordance with this Privacy Policy. You hereby agree
+		that any comments and any email you provide your feedback in becomes our property and that we may use feedback for marketing purposes or to add to or
+		modify our services without paying any royalties or other compensation to you.
+	</p>
+	<p>
+		<strong>Facebook Connect.</strong>
+	</p>
+	<p>
+		We have integrated the Cing Website with Facebook Connect. This allows you to log in to Cing with your Facebook account and interact with your friends
+		through the options Facebook offers. A Cing User Account is not required to use Facebook Connect. If you are not registered on Cing and decide to log
+		in with Facebook Connect, we will provide you the option to join Cing and register for a User Account. If you have a User Account with Cing and
+		Facebook and are logged into both and click on "Login with Facebook" your profiles will merge if the email addresses match. If the email addresses do
+		not match, you will be given the option to merge your accounts if you provide your valid Cing password.
+	</p>
+	<p>
+		If you are logged into your Cing User Account, but not Facebook account, and click on "Login with Facebook" you will have to enter your Facebook
+		information to access your account. By proceeding you are acknowledge and agree to allow Cing to access your information and you are agreeing to the
+		Facebook Terms of Use in your use of Cing.
+	</p>
+	<p>
+		With Facebook Connect, you will be able to automatically post recent activity back to Facebook. You can disable Facebook Connect at any time by logging
+		into your User Account and changing the settings.
+	</p>
+	<p>
+		<strong>11. </strong>
+		<strong>Contact Information.</strong>
+	</p>
+	<p>
+If you have any questions, comments, or concerns regarding our Privacy Policy, please contact us at:		<a href="mailto:customerservice@cing.com">customerservice@cing.com</a> or at our corporate address below:
+	</p>
+	<p>
+		Cing, LLC
+	</p>
+	<p>
+		322 S. Green Street, Suite 300
+	</p>
+	<p>
+		Chicago, IL 60607
+	</p>
+	<p>
+		<strong>12. </strong>
+		<strong>Changes to Privacy Policy.</strong>
+	</p>
+	<p>
+		This Privacy Policy is subject to revisions at our discretion. If we decide to change any of our Privacy Policy, we will post those changes to this
+		privacy statement, the Cing home page, and any other places we deem appropriate. If we make material and substantial changes to this Privacy Policy, we
+		will notify you here, by email, or by means of notice on the Cing home page.
+	</p>
+</div>
+
+		
+	</div>
+</div></div> 
+
+<!--footer-->
+<div id="footer">
+	<div class="page_width">
+		<ul>
+			<li><a href="/">Cing Home</a></li>
+			<li><a href="/page/about">About Us</a></li>
+			<li><a href="/page/press">Press</a></li>
+			<li><a href="/page/jobs">Jobs</a></li>
+			<li><a href="/page/how_it_works">How It Works</a></li>
+			<li><a href="http://merchants.cing.com">Merchants</a></li>
+			<li><a href="/page/faq">Frequently Asked Questions</a></li>
+			<li><a href="#modal_suggest" rel="facebox">Suggest a Business</a></li>
+			<li><a href="http://support.cing.com/home">Support</a></li>
+			
+		</ul>
+		<br class="clear">
+		<p>© Cing LLC 2011 | 843 West Van Buren Street | Chicago, IL 60607 | (312) 262-1799<!-- | 0.0154 | Ref: | --></p>
+		<ul class="bottom_links">
+			<li><a href="/page/terms_conditions">Terms &amp; Conditions</a></li>
+			<li><a href="/page/privacy_policy">Privacy Policy</a></li>
+			<li><a href="/page/contact_us">Contact Cing</a></li>
+			<li><a href="http://support.cing.com/tickets/new">Support</a></li>		
+		</ul>
+		
+		<br class="clear">
+		
+		<img src="/images/as_seen_on_footer.png">
+		
+	</div>
+</div>
+<!--footer-->
+
+
+
+	<div id="modal_login" class="modal">
+	<h3>Login to Cing</h3>
+	<form action="/login/process_login" method="post" id="user_signup" target="_parent">
+		<label for="email_address_login">Email Address:</label><br>
+		<input type="text" name="email_address_login" value="" id="email_address_login" class="text medium"><br>
+		<label for="password_login">Password:</label><br>
+		<input type="password" name="password_login" value="" id="password_login" class="text medium"><br>
+		<input type="button" name="submit" value="Login" onclick="login()">
+		<br><br>
+		<p><a href="/user/signup">Create a Cing account</a> | <a href="/forgot_password">Reset your password</a></p>
+	</form>
+	<script type="text/javascript">
+	$('#facebox #password_login')
+    .listenForEnter()
+    .bind('pressedEnter', function()
+    {
+        login();
+    });
+	</script>
+     	
+	
+</div><div id="modal_join" class="modal">
+	<h3>Get our Hottest Deals in one Daily Email</h3>
+	
+				<label for="daily_email_address">Email Address:</label><br>
+		<input type="text" name="daily_email_address" value="" id="daily_email_address" class="text medium"><br>
+		
+		<label for="new_location">Your Location</label><br>
+		<input type="text" name="location" id="location" class="text small" value="Seattle, WA">
+		
+		<input type="button" name="submit" value="Join!" onclick="join_daily_email()">
+	
+	<script type="text/javascript">
+	$('#facebox #location')
+    .listenForEnter()
+    .bind('pressedEnter', function()
+    {
+        //alert('d');
+        join_daily_email();
+    });
+	</script>
+	
+</div><div id="modal_initial_join" class="modal" style="width: 500px!important; background-color: #990000">
+	<h2 style="color: 990000!important; font-weight: 2em">Get Cing's Hottest Deals in one Daily Email</h2>
+	
+	<p>Enter your email below to get our daily email with the best local deals at 50%-100% off.</p>
+	
+
+	
+			<label for="daily_email_address">Email Address:</label><br>
+		<input type="text" name="daily_email_address" value="" id="daily_email_address" class="text medium"><br>
+		
+		<label for="new_location">Your Location</label><br>
+		<input type="text" name="location" id="location" class="text small" value="Seattle, WA">
+		
+		<br>
+		<p style="display: block; float:left; width 200px; margin-top: 15px; margin-bottom: 0px"><a href="http://www.cing.com/daily_email_list/skip" id="skip_modal">Skip this, I'm already a subscriber.</a></p>
+		<input type="button" name="submit" value="Send Me The Deals!" onclick="join_daily_email()" class="red_button_right" style="border: none;">
+		
+		
+	
+	<script type="text/javascript">
+	$('#facebox #location')
+    .listenForEnter()
+    .bind('pressedEnter', function()
+    {
+        //alert('d');
+        join_daily_email();
+    });
+    
+    $('#facebox #daily_email_address')
+    .listenForEnter()
+    .bind('pressedEnter', function()
+    {
+        //alert('d');
+        join_daily_email();
+    });
+    
+   
+	</script>
+	
+</div><div id="modal_email_confirmation" class="modal">
+	<h3>Success!</h3>
+	<p>You have been added to our daily email list. Emails should start arriving shortly.</p>
+	<p><a href="#" class="red_button_left" id="view_deals_close">View Cing's Current Deals!</a></p>
+	
+	<script type="text/javascript">
+
+    
+    $('#facebox #view_deals_close').bind('mouseup', function()
+    {
+        $.facebox.close()
+    });
+	</script>
+	
+</div>
+
+<div id="modal_location" class="modal">
+	<h3>Change Your Location</h3>
+	<form action="/homepage/process_change_Location" method="post" id="change_location" target="_parent">
+
+		<label for="new_location">New Location's Zip Code or City and State:</label><br>
+		<input type="text" name="new_location" value="" id="new_location" class="new_location" style="padding: 3px"> &nbsp;
+		<input type="submit" name="submit" value="Update Location">
+	</form>
+	
+</div><div id="modal_suggest" class="modal">
+	<h3>Suggest a Business</h3>
+	<p>Have a favorite business you'd like to see promoted on Cing? <br>Tell us why and we will push to get them listed.</p>
+		
+		<label for="suggestion_name">Business Name:</label><br>
+		<input type="text" name="suggestion_name" value="" id="suggestion_name" class="text medium"><br>
+		
+		<label for="suggestion_website">Business Website:</label><br>
+		<input type="text" name="suggestion_website" value="" id="suggestion_website" class="text medium"><br>
+		
+		<label for="suggestion_city">Business City:</label><br>
+		<input type="text" name="suggestion_city" value="" id="suggestion_city" class="text medium"><br>
+		
+		<label for="suggestion_state">Business State:</label><br>
+		<input type="text" name="suggestion_state" value="" id="suggestion_state" class="text medium"><br>
+		
+		<label for="suggestion_reason">Why should we feature this business?</label><br>
+		<textarea name="suggestion_reason" style="width: 350px; height: 100px" id="suggestion_reason" class="text medium"></textarea><br>
+		
+		<input type="button" name="submit" value="Submit" onclick="suggest_business()">
+	
+	<script type="text/javascript">
+	$('#facebox #suggestion_reason')
+    .listenForEnter()
+    .bind('pressedEnter', function()
+    {
+        suggest_business();
+    });
+	</script>
+	
+</div>
+<div id="modal_suggest_confirmation" class="modal">
+	<h3>Thanks!</h3>
+	<p>Your suggestion has been sent! We will be contact this merchant shortly.</p>
+	
+</div>
+
+<div id="affiliate_share" class="modal">
+	<h3>Share the deal, Get paid!</h3>
+	<p>Its really that easy...</p>
+		<p>All you have to do is login with your Cing account and click this link again. We will give you a unique link to this deal that you can share with all your friends. As soon as one of them buys the deal after clicking on your link - you get paid a commission!</p>
+	<p><a href="/page/affiliate">Read More</a></p>
+	</div>
+
+
+	<div id="fb-root"></div>
+	
+	<script src="https://connect.facebook.net/en_US/all.js"></script>
+	<script> 
+	FB.init({appId: 183767068327865, status: true, cookie: true, xfbml: true}); 
+	FB.Event.subscribe("auth.login", function(response) { window.location = '/fb_login'; });
+	</script>
+    
+    <script type="text/javascript" src="https://ws.sharethis.com/button/buttons.js"></script><script type="text/javascript">
+  stLight.options({
+				  publisher:'31ef33e8-3bc4-42bb-8079-3fb2b6a4ac83',
+				  popup: 'true'
+				});
+  </script>
+
+</div>
+
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-3411294-13']);
+  _gaq.push(['_setDomainName', '.cing.com']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+	</script>
+	<script type="text/javascript" src="//asset0.zendesk.com/external/zenbox/v2.1/zenbox.js"></script>
+	<style type="text/css" media="screen, projection">
+	  @import url(//asset0.zendesk.com/external/zenbox/v2.1/zenbox.css);
+	</style>
+	<script type="text/javascript">
+	  if (typeof(Zenbox) !== "undefined") {
+	    Zenbox.init({
+	      dropboxID:   "20003677",
+	      url:         "https://cing.zendesk.com",
+	      tabID:       "feedback",
+	      tabColor:    "gray",
+	      tabPosition: "Left"
+	    });
+	  }
+	</script>
+	<!-- 
+	
+		
+	 -->
+	 
+
+
+</body></html>
