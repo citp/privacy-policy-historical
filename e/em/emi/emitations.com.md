@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the emitations.com privacy policy that was archived on 2010-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101210072955id_/http%3A//www.emitations.com/privacypolicy1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emitations.com privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612125759id_/http%3A//www.emitations.com/privacypolicy1.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 |   
-[](http://www.emitations.com/oprahdecember2010.html)
+[](http://www.stellaservice.com/profile/2245/)
 
 |  |   
   
