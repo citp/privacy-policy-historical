@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the veggieboards.com privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213140753id_/http%3A//www.veggieboards.com/pp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the veggieboards.com privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612104140id_/http%3A//www.veggieboards.com/pp.html) for the most accurate reproduction.*
 
 # Privacy Policy - www.veggieboards.com
 
