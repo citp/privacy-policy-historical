@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the potpiegirl.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215013032id_/http%3A//www.potpiegirl.com/privacy-policy-termsofuse) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the potpiegirl.com privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612044023id_/http%3A//www.potpiegirl.com/privacy-policy-termsofuse) for the most accurate reproduction.*
 
-# Privacy Policy/ TermsOfUse | PotPieGirls Blog (PotPieGirl.com)
+# PotPieGirls Blog (PotPieGirl.com)» Privacy Policy/ TermsOfUse
 
 ## [ Privacy Policy/ TermsOfUse ](http://www.potpiegirl.com/privacy-policy-termsofuse/)
 
