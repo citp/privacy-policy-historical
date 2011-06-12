@@ -1,100 +1,135 @@
-> *The following text is extracted and transformed from the polaroid.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622083631id_/http%3A//www.polaroid.com/privacy/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the polaroid.com privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612090410id_/http%3A//www.polaroid.com/en/privacy) for the most accurate reproduction.*
 
-# Polaroid Privacy Statement @ Polaroidwork.com
+# Polaroid | None
 
-|    
-  
+  * Q:What information do we collect?
+  * A:
+
+Polaroid.com gathers information to learn about our customers and persons that register for an account on Polaroid.com as well as to assist us in personalizing and improving your experience at Polaroid.com. We gather the following types of information:
+
+    * User Provided Information: We obtain and store the information that you enter on Polaroid.com or provide to us in another way. For example, you may be asked to provide your name, address, phone numbers, email address, social network affiliations and login information, preferences, demographic information, credit card numbers and details and other personal information. We may ask you about your buying preferences, economic status and age. You have the right not to provide us with certain information; however, that may limit your ability to fully utilize the benefits of Polaroid.com. We use the information that you provide for such purposes as building a social community, personalizing your visits to Polaroid.com, improving Polaroid.com, communicating with you and responding to your comments, questions or product orders. Keep in mind that you provide such information when you register as a member, search, buy, bid, register a product, post, participate in a contest or
 
 
-Trademark & Copyright information is available at bottom of the Privacy Statement (please scroll down). 
 
-**PRIVACY STATEMENT**  
-Polaroid Corporation is committed to protecting the privacy of its consumers. We have put a policy in place to protect your personal information. We encourage you to take the time to read this privacy statement and the privacy statements of any other web site you may visit. 
+  *     * questionnaire, or communicate with customer service.
+    * Information from Email Communications: We may use a third party vendor to conduct email marketing. We (or our third party vendor) may track whether or not you open our emails so that we can tailor our emails for what interests you. We (or our third party vendor) also use your email information to determine whether we already send you messages so that we do not send you multiple emails. If you do not want to receive information from Polaroid.com, you may decline to receive it (or "opt out") when you provide personal information to Polaroid, or you may visit http://www.polaroid.com and update your account.
+    * Automated Information / Cookies: We obtain and store certain types of information each time you access Polaroid.com. We use "cookies" to assist us in remembering important information about you so that Polaroid.com's operation is more convenient for you. See below for a detailed description about "cookies." In addition, when you access Polaroid.com, our servers automatically record information that your browser sends whenever you visit a website. This may include information such as your web
 
-**What information do we collect?**  
-When you visit our web site, Polaroid Corporation will automatically collect general, aggregate information about what you visited on the site through the use of "Cookies" (for more information about cookies, please see section entitled "Cookies" below). Some examples of the types of information we may collect include what links you clicked on, your IP address, files you downloaded onto your computer from the site, search strings you used, locations and products you entered into a dealer locator function, and the length of time you spent on the site. This information is collected for all users and Polaroid Corporation will use it to design more efficient and targeted site content and marketing communications, so that users will be able to more quickly find information important to them. You can adjust your browser if you do not want this information to be collected. Unless you have logged in to the site (told us who you are), this information does not identify you personally. 
 
-Sometimes we may ask you to submit personal information into a form, such as if you would like to register on the site, register for an event, subscribe to a newsletter, submit a request for more information about a product, or purchase a product or service. It is not mandatory to complete a registration form to be able to fully access the site. Depending upon the nature of your request, we will need certain information such as name, address, e-mail address, phone number, zip code, credit card number, and password to fully respond to your request. We also may ask for additional information in the optional fields to better understand your needs and respond to them quickly and efficiently. Some examples of optional fields include fax number, industry, industry specialty, how you found out about Polaroid Corporation, and the best way to contact you. We may use this information to let you know about additional products, services, or events that you might be interested in, or to send you newsletters. You can choose not to receive this information from us by letting us know when you enter your information into the form. 
 
-Information you provide to us by filling out a form may be linked to the more general information obtained about what you visited on our site. This will enable us to provide you with a more customized, individual experience on our site. Polaroid Corporation will not contact you for the purpose of selling or promoting products or services unless we have your permission to do so. Polaroid Corporation may use your personal information to contact you in the event of product recalls, safety notices or terminal production of product service parts, accessories or consumables for products you have indicated you own, whether or not you have given us permission, to make sure you receive this important information. 
+  *     * request, your interaction with a service, internet protocol (IP) address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser or your account.
+    * Third Party Information: We sometimes obtain information about you from other sources to supplement the information provided by you. For example, we receive updated delivery and address information from our carriers or other third parties, which we use to correct our records and deliver your future purchases; account information, purchase and redemption information, and information about your interaction from some merchants with which we partner or for which we provide other services; and credit history and information from credit reporting firms, which we use to help prevent fraud and to assist us evaluating our customers. In addition, when you link your Polaroid.com account to other social networks, we store authentication tokens for each social network that you link to Polaroid.com. You can manage and revoke access to Polaroid.com through each social network that you link to Poalroid.com. You should be aware of the specific privacy policies and terms of service for each social network with which you link to your
 
-Polaroid Corporation uses pixels, or transparent GIF files, to help manage online advertising. These GIF files are provided by our ad management partner, DoubleClick. These files enable DoubleClick to recognize a unique cookie on your Web browser, which in turn enables us to learn which advertisements bring users to our website. The cookie was placed by us, or by another advertiser who works with DoubleClick. With both cookies and Spotlight technology, the information that we collect and share is anonymous and not personally identifiable. It does not contain your name, address, telephone number, or email address. For more information about DoubleClick, including information about how to opt out of these technologies, go to[http://www.doubleclick.net/us/corporate/privacy]. 
 
-**Credit Card Transactions**  
-When you order products/services on-line, your credit card and contact information is used and retained to fulfill your order and process returns. If you have 'registered' at Polaroid Online, your personal information and credit card information is retained to pre-populate this information and speed your check out when you visit again. Polaroid uses SSL encryption software to protect and encrypt the credit card information (number and expiration date) you submit on this web site. **How do I modify personal information?**
 
-If you provide us with information (excluding credit card information) through a registration or other on-line form you will have access to a "modify profile" option in the www.polaroidwork.com site. This option allows you to see all the information we have on file, and gives you an opportunity to change this information. 
+  *     * Polaroid.com account. Those are not part of Polaroid.com.
+    * Third Party Applications: Polaroid may make available third party applications, such as gadgets or extensions, through Polaroid.com. The information collected by Polaroid when you enable a third party application is processed under this Privacy Policy. Information collected by the third party application provider is governed by their privacy policies.
+    * Updates and Changes: You can update or add to your personal information, but please keep in mind that we may keep a copy of the prior information for our internal records. If you do not want to receive emails, updates or other contact from us, please - visit http://www.polaroid.com and update your account. You are responsible for reviewing these policies from time to time.
+  * Back
 
-**Cookies**  
-A cookie is a small piece of information sent by a web server to store on a web browser or a user's hard drive so it can later be read back from that browser or hard drive. Polaroid Corporation uses both permanent and "in-session" cookies. The cookies do not contain any personal information but may be tied to the personal information you choose to provide to us. A permanent cookie is one that is placed on a user's browser. You can adjust your browser so that it does not accept cookies, or you can choose to delete the cookie from your browser. An "in-session" cookie means that the information (cookie) is only read back from your browser while you are visiting the site and then expires. It is not used to recognize you on later visits. For example, if you log in during your visit to the site, "in-session" cookies enable the system to maintain this information throughout your visit so that you don't have to log in again while you are on the site. Polaroid Corporation uses both types of cookies to enable us to collect aggregate information usage patterns of our site, such as what areas of the site are visited most often, so we can tailor our site to user preferences. This means that when you log into the site using your user name and password, information about what you visit on the site, while you are logged in, will be linked to the personal information that you provided to us. This information will enable us to provide you with a more customized experience on our site. If you choose to visit the site without logging in, then information about what you visit on the site is only collected on an anonymous, aggregate basis, and is not tied to your personal information. 
 
-**Sharing**  
-Polaroid Corporation will share aggregated site usage information with its subsidiaries, partners and affiliates to aid in continued development of the website. This is not linked to any personal information that can identify any individual person. We engage fulfillment houses to provide specific services. When you request additional information from us, we may share names or other contact information that is necessary for the fulfillment house to provide these services. For credit card transactions, we send your name, address, state and zip code and credit card information (i.e. credit card type, number, and expiration date) to CyberSource to process transactions and as necessary to prevent or detect fraud. For certain sweepstakes and promotions, third parties collect and process data for the purpose of fulfilling the sweepstakes and promotions. These parties are not allowed to use personally identifiable information except for the purpose of providing these services. Polaroid Corporation has links to other sites on its web site. Polaroid Corporation will pass the URL of the exit page of the Polaroid web site to the new site. This information will be captured in a database and will be used to help provide you with appropriate content and to analyze the effectiveness of Polaroid's linking strategies. These other sites include dealer sites that may collect credit card and shipping information to process your orders. Polaroid Corporation is not responsible for the privacy practices of other such sites. We encourage you to read the privacy statements of these other web sites that collect personal information. Polaroid Corporation will only share your name and contact information (street and email addresses) with other parties for marketing purposes if we have your specific permission to do so. 
+  * Q:What are cookies?
+  * A:
+    * Cookies are computer generated identifiers that Polaroid.com transfers to your computer's hard drive through your web browser. Cookies allow our computer systems to recognize you and
 
-**Security**  
-While Polaroid Corporation uses SSL encryption in connection with credit card transactions, we also do everything in our power, and take every precaution, to protect users' other information. For instance, the information is only accessible by a limited number of employees, who need access to the information to perform a specific job, such as a database administrator or a business manager. Authorized employees may only access the information through the use of a user name and password. In addition, the servers that we store information on are kept in a secure, locked environment that is staffed 24 hours a day, 7 days a week. 
 
-**Contact us**  
-If you have any questions, comments, or concerns, you can contact us by sending an email to webteam@polaroid.com. 
 
-**Privacy Policy changes**  
-If we decide to change our privacy policy for this web site, we will post those changes here so you will always know what information we collect, how we use it, and who we share it with. 
+  *     * facilitate the most efficient use of Polaroid.com's services, including order placement, promotion activation and wish lists.
+    * Examples of the information we collect and analyze via our use of cookies include the internet protocol (IP) address used to connect your computer to the internet; email address; computer and connection information such as browser type, version, and time zone setting, browser plug-in types and versions, operating system, and platform; purchase history, which we sometimes aggregate with similar information from other customers to create features; the full Uniform Resource Locator (URL) click stream to, through and from Polaroid.com, including date and time; cookie number; products you viewed or searched for; and the phone number you used to call our customer service. We may also use browser data such as cookies, Flash cookies (also known as Flash Local Shared Objects), or similar data on certain parts of Polaroid.com for fraud prevention and other purposes. During some visits we may use software tools such as JavaScript to measure and collect session information, including page response times, download errors, length of visits to certain pages, page interaction information (such as
 
-**TRADEMARKS**
 
-POLAROID and names of the products of Polaroid Corporation are trademarks of Polaroid Corporation. All other product names may be the trademarks of their respective owners. POLAROID is also a trade name of Polaroid Corporation. 
 
-Trademarks are used to indicate the source of products or services, so that a consumer can come to expect a certain standard of quality from those products and services. POLAROID and other trademarks of Polaroid Corporation are valuable protected assets and must be used properly. You may make fair use of POLAROID and the other trademarks of Polaroid Corporation in referring to actual POLAROID products and services, or in advertising, without obtaining prior permission from Polaroid Corporation. When making such fair use, we ask that you include a proper attribution line, as follows: 
+  *     * scrolling, clicks, and mouse-overs), and methods used to browse away from the page.
+    * Most browsers have a tool that tells you how to prevent your browser from accepting cookies and most browsers have the ability to alert you if you receive cookies and how to remove cookies once received. Keep in mind, that we use cookies to improve the functionality of Polaroid.com and to your enhance your experience on Polaroid.com, thus we recommend you keep our cookies.
+  * Back
 
-"Polaroid" and the other names of products of Polaroid Corporation, are trademarks of Polaroid Corporation. 
 
-Polaroid Corporation expressly prohibits the unauthorized use of POLAROID or any of its trademarks or trade names as domain names or as part of domain names. Any and all other uses of our trademarks, logos, and trade names, require written permission from Polaroid Corporation. You may send your written requests to: 
+  * Q:What information do we share?
+  * A:
 
-**Polaroid Corporation  
-1265 Main Street  
-Waltham, MA 02451  
-Attention: Trademark Attorney  
-Fax. No.: 781.386.6441**
+We share your information only as described below:
 
-All written requests should include the following information: 
+    * Affiliated Businesses We Do Not Control: We work closely with affiliated businesses, generally licensees of the Polaroid brand and their fulfillment partners who sell their products on Polaroid.com. In other cases, we operate stores, provide services or sell product lines jointly with these businesses. You can tell when a third party is involved in your transactions, and we share customer information related to those transactions with that third party. 
 
-1\. The trademarks, logos, or trade names you are interested in using. 
 
-2\. Name, address, nature of business, and contact information for the entity that is making the request. 
 
-3\. Intended use of the trademarks, logos or trade names, and manner of distribution (i.e. promotional item). 
+  *     * Third-Party Service Providers: We employ other companies and individuals to perform functions on our behalf. These third parties have access to personal information needed to perform their functions, but are not authorized to use it for purposes beyond their engagement or transmit it beyond their usage.
+    * Promotions: From time to time we may send offers to selected groups of Polaroid.com customers on behalf of other businesses. When we do this, we do not give that business your name and address. If you do not want to receive these types of offers from Polaroid.com, please adjust your preferences in your account.
+    * Mergers or Business Transactions: As we continue to grow our business, we might enter into agreements to buy or sell businesses or assets, including customer information. If customer information is sold, it remains subject to the promises made in the applicable Privacy Policy (unless, of course, the customer consents otherwise). It is also possible that Polaroid.com could be acquired along with its customer information.
+    * Legal Protection: It may become necessary for us to release account and other personal
 
-Polaroid Corporation reserves the right to refuse requests to use its trademarks, logos, and trade names. 
 
-In addition to the above, Polaroid Corporation does not authorize the use of its trade name and famous mark POLAROID or any other trademarks or trade names of Polaroid Corporation in any of the following ways: 
 
-* In a negative, disparaging, or obscene manner. 
-* In a manner that falsely suggests affiliation, endorsement, or sponsorship with your own products, services, or activities. 
-* In a manner that is likely to cause confusion, to cause mistake, or to deceive. 
+  *     * information if we believe the release is necessary or required for us to (i) satisfy any applicable law, regulation, legal process or enforceable governmental request; (ii) enforce our Terms and Conditions or other policies or agreements; (iii) detect, prevent, or otherwise address fraud, security or technical issues; or (iv) protect the rights, property or safety of Polaroid.com, our owners, service providers, licensees, users or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. Obviously, however, this does not include our selling, renting, sharing, or otherwise disclosing your person information in violation of this Privacy Policy. 
+    * Upon Your Consent: Unless otherwise provided in this Privacy Policy, you will receive notice when personal information about you might go to third parties, and you will have an opportunity to choose not to share your personal information. 
+    * Third Parties Links and Advertisements: Polaroid.com may have third party advertising and links to other websites. We do not share any personally identifiable information about you to these advertisers or third party websites. You should be aware that some of these third party
 
-**COPYRIGHT INFORMATION**
 
-Polaroid Corporation owns the copyrights for the images, designs, text, and software (collectively, "Material") displayed on this website or has authorization to use such Material by the respective copyright owners. You may use the Material on this website for personal, noncommercial purposes only, subject to the following limitations: 
 
-* The Material may not be altered or modified in any way. 
-* Any trademark, copyright, or other proprietary notices may not be removed. 
+  *     * websites and advertisers (or services working at their request) may use technology that sends the advertisements to your browser, and as a result they receive your internet address when this happens. In addition, they may use cookies, tags, beacons, JavaScript or other technologies to measure the performance of advertisements to customize the advertisements. Polaroid.com does not have the right to access or control such practices and such information is not subject to this Privacy Policy. We recommend that you contact these third party websites and advertisers directly if you would like more information about their privacy practices. If you prefer that we do not use your personal information to allow third parties to personalize advertisements for you, please adjust your preferences in your account.
+  * Back
 
-This permission specifically excludes the layout or design elements of this website. The layout or design elements may not be reproduced, copied, distributed, or displayed without the express written permission from Polaroid Corporation. 
 
-Any other uses of the Material are prohibited unless you obtain written permission from Polaroid Corporation. You may send your written requests to use certain Material to: 
+  * Q:How secure is my information?
+  * A:
 
-**Polaroid Corporation  
-1265 Main Street  
-Waltham, MA 02451  
-Attention: Trademark Attorney  
-Fax. No.: 781.386.6441**
+Described below:
 
-All written requests should include the following information: 
+    * Polaroid.com rigorously protects your personally identifiable information. All servers are hardened and regularly tested for any security weaknesses. All order related personally identifiable information is stored in secure
 
-1\. Description of the Material you are interested in using, including the URL location on our website. 
 
-2\. Name, address, nature of business, and contact information for the entity that is making the request. 
 
-3\. Intended territory and manner of distribution/use of the Material (i.e. use in a university textbook for US distribution). 
+  *     * facilities adhering to Payment Card Industry Data Security Standards (PCIDSS). Your order and purchase information is protected during its transmission by use of industry standard SSL (Secure Socket Layer) encryption, which encrypts your information. 
+    * Our order confirmation system will only reveal the last four digits of your credit card number and expiration date. However, we must transmit the entire credit card number to the appropriate credit card company during order processing. 
+    * You must protect against unauthorized access to your account, password, computer and other important information. We strongly recommend that you log off each time you finish using a shared computer.
+  * Back
 
-Polaroid Corporation reserves the right to refuse requests to use Material displayed on this website. 
+
+  * Q:How do I access my information?
+  * A:
+
+Polaroid.com allows you the right to view certain information about your account and your interactions with Polaroid.com, and you are allowed to update certain information from time to time. Please follow the My Account link for more information.
+
+
+
+
+  * Q:Are children permitted to use Polaroid.com?
+  * A:
+
+Polaroid.com is not targeted toward, nor intended for use by anyone under the age of 13. By using Polaroid.com you represent and warrant that you are 13 years of age or older. If you are not at least 13 years of age, do not use, access or register for an account on Polaroid.com. We reserve the right to terminate your membership in the event we become aware that you are under the age of 13. If you are under the age of 18, you may only make payments on Polaroid.com with the direct supervision and approval of your parent or legal guardian. You should review our [Terms and Conditions] with your parent or legal guardian before you make any purchases to be sure you understand them. In addition, you and your parent or legal guardian should review and understand the terms and conditions applicable to the shopping areas of Polaroid.com, found [here](http://shop.polaroid.com/home/policies/1847.0.1.1).
+
+  * Back
+
+
+  * Q:What about updates?
+  * A:
+
+Please note that this Privacy Policy may change from time to time. We will post any changes to this Privacy Policy on
+
+
+
+
+  * this page and we may email updates and reminders of our policies from time to time, unless you have asked us not to send them to you. If you have elected not to receive such reminders or updates, please check Polaroid.com frequently to see recent updates. Unless provided above, the current Privacy Policy shall apply to all information that we have about you and your account. We keep prior archives of the Privacy Policy [here](https://web.archive.org/en/privacy) for your review.
+
+  * Back
+
+
+  * Q:Other Terms
+  * A:
+
+When you choose to visit Polaroid.com, your use of Polaroid.com and any disputes related thereto, including disputes related to this Privacy Policy are subject to this [Privacy Policy](https://web.archive.org/en/privacy) and [Terms and Conditions](https://web.archive.org/en/terms/). You understand and agree to our limitation of damages and the application of Minnesota law and venue in courts located in Minnesota. If you have any concern about privacy at Polaroid.com, please contact us with a thorough description, and we do our best to try to resolve it. Polaroid.com changes constantly as does our [Privacy Policy](https://web.archive.org/en/privacy) and [Terms and Conditions](https://web.archive.org/en/terms/)
+
+  * Back
+
+
+  * 
+
+
+  * Q:Reporting a Privacy Violation
+  * A:
+
+We want you to feel safe when you're on Polaroid.com, which is why we encourage you to let us know if content on the site violates your privacy or sense of safety. If any content contains your personal information without consent, including your image, name or other identifying information, you can flag it as inappropriate and we will review the content or you may contact us by email at PrivacyConcern@polaroid.com and we will review the content.
+
+  * Back
+
+
