@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the survivorsucks.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621122137id_/http%3A//www.yuku.com/homepage/privacy/t/Yuku-Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the survivorsucks.com privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612063619id_/http%3A//www.yuku.com/portal/privacy) for the most accurate reproduction.*
 
-# About Us - Privacy Policy
+# Yuku Privacy Policy | Free forums, social networks, communities, chat rooms
 
 ## Introduction
 
@@ -15,7 +15,7 @@ Your privacy is of the utmost importance to Yuku. Our basic principles are:
 
 Yuku is a network of collaborative publishing communities, user profiles and images. You the user and we as Yuku have entered a voluntary relationship in which we provide services to you. The data you disclose to us makes it possible to deliver the services you truly want and ask for.
 
-Yuku's services contain links to other web sites outside Yuku. We are not responsible for the privacy policies and⁄or practices of other sites. When linking to another site a user should read the privacy policy stated on that site. This privacy policy only governs information collected on Yuku.com.
+Yuku's services contain links to other web sites outside Yuku. We are not responsible for the privacy policies and/or practices of other sites. When linking to another site a user should read the privacy policy stated on that site. This privacy policy only governs information collected on Yuku.com.
 
 ## What Information is Gathered
 
@@ -27,7 +27,7 @@ In general, you can browse parts of the site without telling us who you are or r
 
 ### Browser and Other Information We May Collect
 
-In addition to the information you choose to provide to us, Yuku also collects and stores certain technical and other information about the online activities of our users—whether or not they are registered—on an aggregated (or collective) basis. This may include your IP address, browser type, and operating system. We track the number of people who view each page, and other site usage data, in order to learn which features are the most popular and thereby improve our service. We also record statistical information collected on our site to better understand our audience. This information is recorded as anonymous group statistical information and is not connected to any personal information that you provide as a member.
+In addition to the information you choose to provide to us, Yuku also collects and stores certain technical and other information about the online activities of our users-whether or not they are registered-on an aggregated (or collective) basis. This may include your IP address, browser type, and operating system. We track the number of people who view each page, and other site usage data, in order to learn which features are the most popular and thereby improve our service. We also record statistical information collected on our site to better understand our audience. This information is recorded as anonymous group statistical information and is not connected to any personal information that you provide as a member.
 
 We, as well as the administrators of each domain, do have the ability to view your IP address if you post content within a domain on the network. We also collect the information that you provide when you make a post on one of our domains so that we can archive and display your posts. Please use caution when posting material on any domain as your posts may become immediately available to the public and may be recorded and stored by anyone.
 
@@ -87,15 +87,15 @@ That being said, "perfect security" does not exist on the Internet. Unfortunatel
 
 Please note that we cannot guarantee the security of member account information. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of member information at any time. Therefore, although we use industry standard practices to protect your privacy, we do not promise, and you should not expect, that your personal information or private communications will always remain private.
 
-If Yuku learns of a security systems breach we may attempt to notify you electronically so that you can take appropriate protective steps. By using this web site or providing personal information to us you agree that we can communicate with you electronically regarding security, privacy and administrative issues relating to your use of this site. Yuku may post a notice on our web site if a security breach occurs. If this happens, you will need a web browser enabling you to view the Yuku.com web site. Yuku may also send an email to you at the email address you have provided to us in these circumstances. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should [notify us](http://www.yuku.com/help/ticket).
+If Yuku learns of a security systems breach we may attempt to notify you electronically so that you can take appropriate protective steps. By using this web site or providing personal information to us you agree that we can communicate with you electronically regarding security, privacy and administrative issues relating to your use of this site. Yuku may post a notice on our web site if a security breach occurs. If this happens, you will need a web browser enabling you to view the Yuku.com web site. Yuku may also send an email to you at the email address you have provided to us in these circumstances. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should [notify us](http://help.yuku.com/).
 
 ### Cookies, Web Beacons and Personalization
 
 "Cookies" are small files placed on your hard drive that assist us in providing our services. We offer certain features that are only available through the use of a "cookie". We also use cookies to allow you to enter your password less frequently during a session. Cookies can also help us provide information that is targeted to your interests.
 
-Yuku uses cookies to store visitors' preferences and to record session information for purposes including: ensuring that visitors are not repeatedly offered the same advertisements; to customize advertising and Web page content based on browser type and user profile information; to estimate and report our total audience size and traffic; and to conduct research to improve our content and services. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. You may be able to configure your browser to accept or reject all or some cookies, or notify you when a cookie is set—each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences—however, you must enable cookies from Yuku in order to use most functions on the site.
+Yuku uses cookies to store visitors' preferences and to record session information for purposes including: ensuring that visitors are not repeatedly offered the same advertisements; to customize advertising and Web page content based on browser type and user profile information; to estimate and report our total audience size and traffic; and to conduct research to improve our content and services. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. You may be able to configure your browser to accept or reject all or some cookies, or notify you when a cookie is set-each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences-however, you must enable cookies from Yuku in order to use most functions on the site.
 
-Please note that we permit third party advertisers who present advertisements on some of our pages to set and access their cookies on your computer. Advertisers' use of cookies is subject to their own privacy policies, not the Yuku Privacy Policy. For more information about their separate privacy policies, you should contact the third-party advertising network directly.
+Please note that we permit third party advertisers who present advertisements on some of our pages to set and access their cookies on your computer. Advertisers' use of cookies is subject to their own privacy policies, not the Yuku Privacy Policy. You can choose not to receive tailored online advertising on other websites, based on your travel-related searches on this website, by clicking [here](http://www.networkadvertising.org/). or [ here ](http://www.privacychoice.org/choose)
 
 Yuku uses web beacons to research certain usage and activities on its and our website. The information collected through these web beacons is used to find out more about our users; for more accurate reporting; and to improve the effectiveness of our marketing. No personally identifiable information about you is shared by Yuku as a result of this research.
 
@@ -105,7 +105,7 @@ Not only do you have the opportunity to post content on any of our public Yuku d
 
 ## Children
 
-We at Yuku believe it essential that parents are involved in their children's online experiences. That is why, in compliance with federal law, we do not knowingly collect personal information of any kind from anyone under the age of 13. If we become aware of a user under the age of 13 providing information on our site, we will terminate their account and purge our databases of all information provided by that user.
+We at Yuku believe it essential that parents are involved in their children's online experiences. That is why, in compliance with federal law, we do not knowingly collect personal information of any kind from anyone under the age of 13\. If we become aware of a user under the age of 13 providing information on our site, we will terminate their account and purge our databases of all information provided by that user.
 
 ## Access to and Changing Information
 
@@ -115,17 +115,15 @@ Once you become a member of Yuku, your personal information is stored in the sit
 
 In the future, Yuku may update and revise its privacy policy. We will provide conspicuous notice on our website if we decide to change our privacy policy in a way that would be materially less restrictive than this policy. At that time, you will have the opportunity to decide whether or not you would like Yuku to apply the new privacy policy to your personal information or to opt out of the new policy. If you continue to use Yuku, you will be accepting the new policies. If you decide to opt out of the new policy, you will no longer be able to participate as a member. The effective date of this policy is Januaary 4, 2006.
 
-Ultimately, you are solely responsible for maintaining the secrecy of your passwords and⁄or any account information. Please be careful and responsible whenever you're online. The few employees who have access to personal data are trained to comply with the above privacy policy and made aware of any updates or modifications.
+Ultimately, you are solely responsible for maintaining the secrecy of your passwords and/or any account information. Please be careful and responsible whenever you're online. The few employees who have access to personal data are trained to comply with the above privacy policy and made aware of any updates or modifications.
 
 ## Questions?
 
-If you have any questions about this privacy policy still unanswered after reviewing this policy, please do not hesitate to contact us. You can e-mail [Yuku's legal department](http://www.yuku.com/help/ticket). Or you may mail us at the following address:
+If you have any questions about this privacy policy still unanswered after reviewing this policy, please do not hesitate to contact us. You can e-mail [Yuku's legal department](http://help.yuku.com/). Or you may mail us at the following address:
 
-Attn: Privacy Officer  
-Yuku c/o KickApps, Inc.  
-607 Market St., Suite 5  
-San Francisco, CA 94105  
-USA  
-(415) 830-3910 
+Inform Technologies, Inc.  
+44 East 30th Street, 11th Floor,  
+New York, NY 10016  
+
 
 Effective: January 4, 2006.
