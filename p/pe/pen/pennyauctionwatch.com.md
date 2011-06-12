@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pennyauctionwatch.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228113450id_/http%3A//www.pennyauctionwatch.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pennyauctionwatch.com privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612113152id_/http%3A//www.pennyauctionwatch.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy & Terms | Penny Auction Watch℠
+# Privacy Policy & Terms
 
 This is the web site of **Penny Auction Watch**. **  
 ** We can be reached via e-mail at admin[at]pennyauctionwatch[dot]com
