@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thermogenicreviews.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222150402id_/http%3A//communemedia.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thermogenicreviews.com privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612232429id_/http%3A//communemedia.net/privacy-policy) for the most accurate reproduction.*
 
 # Commune Media Network » Privacy policy
 
