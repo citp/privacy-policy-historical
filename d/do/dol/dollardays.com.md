@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dollardays.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130163614id_/http%3A//www.dollardays.com/aboutus/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dollardays.com privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612235826id_/http%3A//www.dollardays.com/aboutus/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - DollarDays
 
