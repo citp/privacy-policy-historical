@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thedamway.com privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616141623id_/http%3A//www.potpiegirl.com/privacy-policy-termsofuse) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedamway.com privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612044023id_/http%3A//www.potpiegirl.com/privacy-policy-termsofuse) for the most accurate reproduction.*
 
-# Privacy Policy/ TermsOfUse | PotPieGirls Blog (PotPieGirl.com)
+# PotPieGirls Blog (PotPieGirl.com)» Privacy Policy/ TermsOfUse
 
 ## [ Privacy Policy/ TermsOfUse ](http://www.potpiegirl.com/privacy-policy-termsofuse/)
 
@@ -9,7 +9,7 @@ Comments Off
 **Your Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
-**Google Adsense and the DoubleClick DART Cookie**  
+**[Google](http://www.potpiegirl.com/2010/07/how-google-works/ "Google") Adsense and the DoubleClick DART Cookie**  
 Google, as a third party advertisement vendor, uses cookies to serve ads on this site. The use of DART cookies by Google enables them to serve adverts to visitors that are based on their visits to this website as well as other sites on the internet.
 
 To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following url [http://www.google.com/privacy_ads.html](http://www.potpiegirl.com/more_about/http_www_google_com_privacy_ads_html/1152/1) Tracking of users through the DART cookie mechanisms are subject to Google’s own privacy policies.
@@ -30,10 +30,11 @@ There are no earnings potential claims on this site. Any claims of income are no
 **Changes to this Privacy Statement**  
 The contents of this statement may be altered at any time, at our discretion.
 
-If you have any questions regarding the privacy policy of PotPieGirl.com then you may contact us at our help desk – AskPotPieGirl.com
+If you have any questions regarding the privacy policy of PotPieGirl.com then you may [contact ](http://www.potpiegirl.com/contact-potpiegirl/ "contact ")us at our help desk – AskPotPieGirl.com
 
   
-***** Note: I 'Do Follow' All Comments. Because of this I moderate all comments before publishing. This means that your comment will not show until I approve it. Thanks for understanding! ****
+***** Note: I 'Do Follow' All Comments. Because of this I moderate all comments before publishing. This means that your comment will not show until I approve it. Thanks for understanding! ****   
+
 
 No comments yet.
 
