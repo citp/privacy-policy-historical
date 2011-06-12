@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nabbr.com privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126044516id_/http%3A//nabbr.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nabbr.com privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612060036id_/http%3A//nabbr.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Nabbr | Privacy Policy
 
