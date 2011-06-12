@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eoearth.org privacy policy that was archived on 2010-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101211081035id_/http%3A//www.eoearth.org/article/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eoearth.org privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612111517id_/http%3A//www.eoearth.org/article/Privacy_Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -17,7 +17,7 @@ If you have questions or suggestions, please contact us at [eoe@eoearth.org](mai
 
 ## Citation
 
-[Cutler Cleveland](https://web.archive.org/profile/EoE_Cutler) (Lead Author);[Cutler Cleveland](https://web.archive.org/profile/EoE_Cutler) (Topic Editor) "Privacy Policy". In: Encyclopedia of Earth. Eds. Cutler J. Cleveland (Washington, D.C.: Environmental Information Coalition, National Council for Science and the Environment). [First published in the Encyclopedia of Earth November 13, 2008; Last revised Date November 13, 2008; Retrieved December 11, 2010 <<http://www.eoearth.org/article/Privacy_Policy>>
+[Cutler Cleveland](https://web.archive.org/profile/EoE_Cutler) (Lead Author);[Cutler Cleveland](https://web.archive.org/profile/EoE_Cutler) (Topic Editor) "Privacy Policy". In: Encyclopedia of Earth. Eds. Cutler J. Cleveland (Washington, D.C.: Environmental Information Coalition, National Council for Science and the Environment). [First published in the Encyclopedia of Earth November 13, 2008; Last revised Date November 13, 2008; Retrieved June 12, 2011 <<http://www.eoearth.org/article/Privacy_Policy>>
 
 ## The Author
 
