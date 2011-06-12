@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uxbooth.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212223142id_/http%3A//www.uxbooth.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uxbooth.com privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612113737id_/http%3A//www.uxbooth.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | UX Booth
 
@@ -21,27 +21,23 @@ You can chose to disable or selectively turn off our cookies or third-party cook
 
 This web site contains links to other sites. Please be aware that UXBooth.com is not responsible for the privacy practices, or content of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this website.
 
-[](http://www.uxalliance.com/uxbooth)
-
-[](http://plainframe.com/)
+[](http://www.protoshare.com/c/uxbooth)
 
 [](http://www.loop11.com/)
 
-[](http://2011.uxlondon.com/)
-
 ### Latest Resources
 
-  * #### [Simple user interfaces: the snow plow principle](http://completeusability.com/simple-user-interfaces-the-snowplow-principle/)
+  * #### [Cage simplifies collaboration for designers, clients](http://www.cageapp.com/)
 
-A key goal of user experience design is to keep things simple. Unfortunately websites and applications create problems for users by employing …
+CAGE (www.cageapp.com) is an online collaboration tool that allows agencies, design teams and freelancers to share and present their work for …
 
-  * #### [Persona Cheat Sheet](http://luxr.posterous.com/persona-cheat-sheet-0)
+  * #### [Are You Designing the Next Power Glove?](http://blog.effectiveui.com/?p=7786)
 
-A great overview of how to build a persona by LUXi.
+“Throw away your joysticks, kids. Punching…has evolved from two-dimensional wrist-wringing to 3-D arm-swinging.” Thus began the 1989 art…
 
-  * #### [UX and Publishing](http://louisrosenfeld.com/home/bloug_archive/2010/12/ux_and_publishing.html)
+  * #### [Seductive Interaction Design: Creating Playful, Fun, and Effective User Experiences (Voices That Matter) by Stephen P. Anderson](http://www.amazon.com/gp/product/0321725522/ref=as_li_ss_tl?ie=UTF8&tag=href-20)
 
-Yesterday I had the pleasure of attending my first unconference—Book Camp NY. Even though I've been a publisher for a few years now, this wa…
+This book, based on the author's conference presentation, takes a fresh approach to designing sites and interaction based on the stages of sed…
 
 
 
