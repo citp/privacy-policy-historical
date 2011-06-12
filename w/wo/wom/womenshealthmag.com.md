@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the womenshealthmag.com privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201201802id_/http%3A//www.rodaleinc.com/your-privacy-rights) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the womenshealthmag.com privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612024415id_/http%3A//www.rodaleinc.com/your-privacy-rights) for the most accurate reproduction.*
 
 # Your Privacy Policy | Rodale Inc
 
 ## About Us
 
-September 21, 2010
+December 7, 2010
 
 Protecting Your Privacy and Servicing Your Needs
 
@@ -84,7 +84,7 @@ In order to provide better service when you return to our site, Rodale may use c
 
 If you want to disable cookies, there is a simple procedure in most Internet browsers that allows you to turn off cookies. Please remember, however, that cookies may be required to allow you to use certain features of our sites.
 
-We may also use third-party advertising companies to serve ads when you visit websites. When online advertisements are displayed to you, one or more persistent cookies may be placed on your computer. These companies may use information in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.rodaleinc.com/third-party-advertising). 
+We may also use third-party advertising, data analytics and online targeting companies to serve ads when you visit the Sites. When online advertisements are displayed to you, one or more persistent cookies may be placed on your computer. Some of these companies may use anonymous information (not including PII) about your visits to this Site and other websites in order to provide data and targeting recommendations based on which we may provide advertisements about goods and services of interest to you. To learn more about this practice and the third party companies we currently might be using, click [here](http://www.rodaleinc.com/third-party-advertising). To opt-out of this practice please click [here](http://www.networkadvertising.org/). 
 
 **Use of Web Beacons**
 
@@ -156,11 +156,11 @@ Rodale respects the rights of all copyright holders. If you believe that your wo
 
 
 
-Rodale's Copyright Agent may be contacted at: Copyright Agent, Rodale Inc., 33 East Minor Street, Emmaus PA 18098-0099.
+Rodale's Copyright Agent may be contacted at: Copyright Agent, Rodale Inc., 400 South 10th Street, Emmaus PA 18098-0099.
 
 **We appreciate the opportunity to serve you!**
 
-If you have any questions regarding this privacy policy statement or if you feel that this site has not followed its stated information policy, feel free to contact us. Our postal address is: 33 East Minor Street, Emmaus, PA 18098, and we can be reached via e-mail at: <http://www.rodale.com/cs/index.html>. You can reach customer service by telephone at 866-387-0509.
+If you have any questions regarding this privacy policy statement or if you feel that this site has not followed its stated information policy, feel free to contact us. Our postal address is: 400 South 10th Street, Emmaus, PA 18098, and we can be reached via e-mail at: <http://www.rodale.com/cs/index.html>. You can reach customer service by telephone at 866-387-0509.
 
 Additionally, you may contact your state or local consumer protection office, The Direct Marketing Association's Committee on Ethical Business Practices, the [Better Business Bureau](http://www.bbb.org/), or The Federal Trade Commission by phone at (202) FTC-HELP (202/382-4357) and online at [www.ftc.gov](http://www.ftc.gov/).
 
