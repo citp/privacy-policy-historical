@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldwinner.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229154603id_/http%3A//www.worldwinner.com/cgi/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldwinner.com privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612194923id_/http%3A//www.worldwinner.com/cgi/legal/privacy.html) for the most accurate reproduction.*
 
 # WorldWinner Cash Competitions
 
@@ -18,7 +18,7 @@ Worldwinner, Inc. abides by the principles set forth in the Safe Harbor framewor
 
 **A:** Users must set up an account to play games, enter tournaments, win cash prizes and receive account information via e-mail. Personal information collected for these various purposes - and how it is utilized - is listed below:
 
-  * When you participate in tournaments, WorldWinner asks only for your e-mail address, though you also need to create a Username that can be displayed on tournament winner lists. Collecting your e-mail allows WorldWinner to send you announcements if you win the tournaments that you participate in and to invite you to participate in invitation-only tournaments. You may choose to receive messages only to your WorldWinner mailbox or to both your personal email address and your WorldWinner mailbox. You may also choose to not to receive messages in either your email or WorldWinner mailbox. Please note that WorldWinner reserves the right to contact players via email regarding financial and administrative matters associated with their account, such as deposit confirmations, password reminders, and technical support. 
+  * When you participate in tournaments, WorldWinner asks only for your e-mail address, though you also need to create a Username that can be displayed on tournament winner lists. Collecting your e-mail allows WorldWinner to send you announcements if you win the tournaments that you participate in and to invite you to participate in invitation-only tournaments. You may choose to receive messages only to your WorldWinner mailbox or to both your personal email address and your WorldWinner mailbox. You may also choose not to receive messages in either your email or WorldWinner mailbox. Please note that WorldWinner reserves the right to contact players via email regarding financial and administrative matters associated with their account, such as deposit confirmations, password reminders, and technical support. 
   * When you participate in our Money tournaments, WorldWinner needs your real name, e-mail address, credit card number, expiration date and billing address. This allows WorldWinner to process tournaments, reward prizes or money and track funds that you withdraw from your WorldWinner account. 
   * WorldWinner works with other companies to offer its content and services to users of their Web sites ("Partner Sites"). Even if you enter WorldWinner from a Partner Site, you will register through WorldWinner, and this privacy policy applies to WorldWinner's collection of your information. 
   * When you submit a bug, suggestion, complaint, question, request, or any other e-mail correspondence, WorldWinner asks for your e-mail address so that you can receive a response. This information will only be used to notify you of receipt of your submission and of a resolution to the inquiry. 
@@ -55,7 +55,7 @@ Worldwinner, Inc. abides by the principles set forth in the Safe Harbor framewor
 
 **Q: How long will it take if I request WorldWinner to forward me all of my personal information?**
 
-**A:** In the event you request that WorldWinner forward you all of your personal information on record please allow 7-10 business days to receive the information via email and 10-15 business days via postal mail.
+**A:** In the event you request that WorldWinner forward you all of your personal information on record, please allow 7-10 business days to receive the information via email and 10-15 business days via postal mail.
 
 **Q: What types of E-mails will I receive from WorldWinner?**
 
@@ -91,6 +91,6 @@ When you open a Member account, you are given the option of depositing money int
 
 **Q: What should I do if I have other questions?**
 
-**A:** If you have questions about this policy, wish to report a violation, or have any other questions or concerns, please contact us at: [playerservices@WorldWinner.com](mailto:playerservices@WorldWinner.com)
+**A:** If you have questions about this policy, wish to report a violation, or have any other questions or concerns, please [contact Player Services](https://web.archive.org/cgi/help/index.html).
 
 WorldWinner.com, Inc. | 21 Hickory Drive | Waltham, MA 02451
