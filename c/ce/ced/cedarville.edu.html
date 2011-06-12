@@ -1,30 +1,28 @@
-<!--The following is the downloaded HTML source of the cedarville.edu privacy policy that was archived on 2010-11-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101109022058id_/http%3A//www.cedarville.edu/About/Privacy-Statement.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cedarville.edu privacy policy that was archived on 2011-06-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110613000846id_/http%3A//www.cedarville.edu/About/Privacy-Statement.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml" class="js"><head><meta http-equiv="Content-Language" content="en">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml" class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase no-indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head><meta http-equiv="Content-Language" content="en">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="keywords" content="academics,Biblical truth,Cedarville,Christian,college,higher education,Ohio,spiritual,university">
-<meta name="description" content="Home to 3,000 Christian students, Cedarville is an accredited, Christ-centered, Baptist university of arts, sciences, professional, and graduate programs. Cedarville is located in southwestern Ohio on a beautiful 400-acre campus. The Cedarville, Ohio, campus is near Dayton, Columbus, Cincinnati, Springfield and Xenia.">
+<meta name="description" content="A U.S. News top-ranked liberal arts Christian college, Cedarville University is nationally recognized for quality academics, student satisfaction, and career preparation.">
+
 
 
 <style type="text/css">
-	@import "/styles/v6/main.css?20101104";
+	@import "/styles/v6/main.css?20110331";
 </style>
+<!--[if IE]>
+<link href="/styles/v6/main-ie.css" title="IE" rel="stylesheet" type="text/css" />
+<![endif]-->
+
 <link rel="stylesheet" type="text/css" href="/styles/v6/print.css?20100325" media="print">
-<script type="text/javascript">
-    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-    try {
-        var pageTracker = _gat._getTracker("UA-122366-1");
-        pageTracker._trackPageview();
-    } catch (err) { }
-</script>
-<script src="/lib/jquery/jquery.js" type="text/javascript"></script>
+<link rel="Stylesheet" type="text/css" href="/lib/jquery/assets/nivo-slider/nivo-slider.css">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/lib/jquery/jquery.js" type="text/javascript"></script>
+<script src="/lib/modernizr/modernizr-1.7.min.js" type="text/javascript"></script>
 <script src="/lib/swfobject.js" type="text/javascript"></script>
-<script type="text/javascript" src="/lib/jquery/jquery.cycle.js"></script>
-<script type="text/javascript" src="/lib/slideshow.js"></script>
+<script type="text/javascript" src="/lib/jwplayer.js"></script>
+<script type="text/javascript" src="/lib/jquery/jquery.nivo-slider.js"></script>
+<script type="text/javascript" src="/lib/slideshow.js?20110413"></script>
 <script type="text/javascript">
     function cuSetMastheadTitle(titleName, titleLink) {
         var mhAnchorObj = document.getElementById('mastheadtitleanchor');
@@ -47,41 +45,52 @@
         swfobject.embedSWF("/lib/swf/mastheadtitle.swf", "mastheadtitleflash", "760", "22", "9.0.45", "", flashvars, params, attributes);
     }
 
-    jQuery(function($) {
-        // on DOM ready
-        jQuery("#tbSearch").val("Search Cedarville");
-        jQuery("#tbSearch").bind("click", function() {
-            jQuery(this).val("");
-        });
+    jQuery(function ($) {
+        if (!Modernizr.input.placeholder) {
+            jQuery("#tbSearch").val("Search Cedarville");
+            jQuery("#tbSearch").bind("click", function () {
+                jQuery(this).val("");
+            });
+        }
         // identify current page in section menu
         var path = location.pathname.substring(1);
         if (path) {
             jQuery('#nav a[href$="' + path + '"]').parent().addClass('menucurrent');
         }
+        if (jQuery.browser.msie) {
+            var versionNum = parseInt(jQuery.browser.version, 10);
+            if (versionNum < 8) {
+                jQuery(".requiredfield").append(" <span class='required'>*</span>");
+            }
+        }
     });
     
     function SubmitSearchBox(id, e) {
-        var isEnter = window.event == null ?
-                              e.keyCode == 13 :
-                              window.event.keyCode == 13;
-        if (isEnter)
-            jQuery("#" + id).click();
+        var isEnter = window.event == null ? e.keyCode == 13 : window.event.keyCode == 13;
+        if (isEnter) jQuery("#" + id).click();
     }
-	
 </script>
 
+
 <link href="/~/media/Files/Stylesheets/mastheadnonav.ashx" type="text/css" rel="stylesheet" name="MastheadNoNav">
-<title>
-	PRIVACY POLICY STATEMENT FOR CEDARVILLE UNIVERSITY WEBSITES - About Cedarville University - Home - Cedarville University
+
+<script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-122366-1']);
+    _gaq.push(['_setDomainName', '.cedarville.edu']);
+    _gaq.push(['_trackPageview']);
+    
+</script><title>
+	PRIVACY POLICY STATEMENT FOR CEDARVILLE UNIVERSITY WEBSITES - About Cedarville University - Cedarville University - A Top Midwest Christian College in Ohio
 </title></head>
   <body><form name="aspxform" method="post" action="/About/Privacy-Statement.aspx" id="aspxform">
 <div>
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTYxNzY5NTgzNg9kFgICAxBkZBYOAgMPFgIeCWlubmVyaHRtbAU6aHR0cDovL3d3dy53d3cuY2VkYXJ2aWxsZS5lZHUvQWJvdXQvUHJpdmFjeS1TdGF0ZW1lbnQuYXNweGQCEQ8PFgIeBFRleHQFBDIwMTBkZAITDw8WAh4LTmF2aWdhdGVVcmwFLy9BYm91dC9Db3B5cmlnaHQtSW5mcmluZ2VtZW50LU5vdGlmaWNhdGlvbi5hc3B4ZGQCFQ8PFgIfAgUdL0Fib3V0L0xlZ2FsLUluZm9ybWF0aW9uLmFzcHhkZAIXDw8WAh8CBRovQWJvdXQvV2ViLURpc2NsYWltZXIuYXNweGRkAhkPDxYCHwIFHS9BYm91dC9Qcml2YWN5LVN0YXRlbWVudC5hc3B4ZGQCGw8PFgIfAgVQL0Fib3V0L0NvbnRhY3QtRm9ybS5hc3B4P2VwYXJ0MT13ZWJtYXN0ZXImYW1wO3RvbmFtZT1EaXJlY3RvcitvZitXZWIrRGV2ZWxvcG1lbnRkZGRbU6EP92d3JSvDT3WO9huzT/AMcg==">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTMxODQ5ODgwMGRk1MBclONLTyvpIALDHIHAabCazKk=">
 </div>
 
 <div>
 
-	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAwK1+bX4DALVtaiXDAKln/PuCo00eis36weHctSlDAo19UAzOG4q">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAwLQus3pAQLVtaiXDAKln/PuCpYDPJVX1ZdK4zqDmWcxxaAf+GQP">
 </div>
   <div class="sitetitle">
     <h1 id="SiteTitleContainer">PRIVACY POLICY STATEMENT FOR CEDARVILLE UNIVERSITY WEBSITES</h1>
@@ -94,25 +103,24 @@
     	    <p><a href="/facstaff">Faculty and Staff</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/student">Current Students</a></p>
 	    </div>
         <div id="cusearch">
-                <!--<input type="text" name="q" id="q" class="textinput" size="25" value="Search Cedarville" onclick="this.value='';" /> -->
-                <input name="tbSearch" type="text" id="tbSearch" class="textinput" size="25" onkeypress="SubmitSearchBox('btnSearch', event)">
+                <input name="tbSearch" type="text" id="tbSearch" class="textinput" size="25" onkeypress="SubmitSearchBox('btnSearch', event)" placeholder="Search Cedarville">
                 <input type="button" name="btnSearch" value="Search" onclick="javascript:__doPostBack('btnSearch','')" id="btnSearch" class="submitbutton">
         </div>
         <div id="mainlogo"><a href="/" title="Cedarville University"><span>Cedarville University</span></a></div>
 	    <div id="maintagline"><a href="/inspiringgreatness" title="Inspiring Greatness"><span>Inspiring Greatness</span></a></div>
         <div id="topnav">
 	<ul>
-		<li class="topnavfirst"><a href="/About.aspx">About</a></li><li><a href="/Academics.aspx">Academics</a></li><li><a href="/Admissions/Prospective-Students.aspx">Admissions</a></li><li><a href="/Alumni.aspx">Alumni</a></li><li><a href="http://yellowjackets.cedarville.edu/">Athletics</a></li><li><a href="/advancement/">Donors</a></li><li><a href="/eventcalendar/">Events</a></li><li><a href="/Christian-Ministries.aspx">Ministries</a></li><li><a href="/Offices.aspx">Offices</a></li><li><a href="/studentlife/">Student Life</a></li>
+		<li class="topnavfirst"><a href="/About.aspx">About</a></li><li><a href="/Academics.aspx">Academics</a></li><li><a href="/Admissions/Prospective-Students.aspx">Admissions</a></li><li><a href="/Alumni.aspx">Alumni</a></li><li><a href="http://yellowjackets.cedarville.edu/">Athletics</a></li><li><a href="/Advancement.aspx">Donors</a></li><li><a href="/Cedarville-Events.aspx">Events</a></li><li><a href="/Christian-Ministries.aspx">Ministries</a></li><li><a href="/Offices.aspx">Offices</a></li><li><a href="/Student-Life.aspx">Student Life</a></li>
 	</ul>
 </div>
         <div id="content">
 		<div id="masthead">
 	<div id="mastheadflash" style="height: auto;">
-		<a href="/admissions/requestinfo/"><img src="~/media/Images/Masthead/760x168/CU_Profile.ashx" alt="Cedarville Profile" width="760" height="168" style="display: inline;"></a>
+		<a href="/admissions/requestinfo/"><img alt="Cedarville Profile" src="/~/media/Images/Masthead/760x168/CU_Profile.ashx?bc=White" style="display: inline;"></a>
 	</div>
 </div><div id="mastheadtitle">
 	<div id="socialnetworks">
-		<a href="http://www.facebook.com/sharer.php?u=http://www.cedarville.edu/About/Privacy-Statement.aspx&amp;t=PRIVACY%20POLICY%20STATEMENT%20FOR%20CEDARVILLE%20UNIVERSITY%20WEBSITES%20-%20About%20Cedarville%20University%20-%20Home%20-%20Cedarville%20University" target="_blank"><img src="/~/media/Images/Common/facebook.png?w=17&amp;h=18&amp;as=1" width="17" height="18" alt="Share this on Facebook" title="Share this on Facebook" class="left noborder imagemargin"></a><a href="/Utils/ShortenUrl.aspx?url=/About/Privacy-Statement.aspx&amp;msg=PRIVACY%20POLICY%20STATEMENT%20FOR%20CEDARVILLE%20UNIVERSITY%20WEBSITES%20-%20About%20Cedarville%20University%20-%20Home%20-%20Cedarville%20University" target="_blank"><img src="/~/media/Images/Common/twitter.png?w=17&amp;h=18&amp;as=1" width="17" height="18" alt="Share this on Twitter" title="Share this on Twitter" class="left noborder imagemargin"></a><a href="mailto:?subject=PRIVACY%20POLICY%20STATEMENT%20FOR%20CEDARVILLE%20UNIVERSITY%20WEBSITES%20-%20About%20Cedarville%20University%20-%20Home%20-%20Cedarville%20University&amp;body=http://www.cedarville.edu/About/Privacy-Statement.aspx" target="_blank"><img src="/~/media/Images/Common/email.png?w=17&amp;h=18&amp;as=1" width="17" height="18" alt="E-mail this to a friend" title="E-mail this to a friend" class="left noborder imagemargin"></a>
+		<a href="http://www.facebook.com/sharer.php?u=http://www.cedarville.edu/About/Privacy-Statement.aspx&amp;t=PRIVACY%20POLICY%20STATEMENT%20FOR%20CEDARVILLE%20UNIVERSITY%20WEBSITES%20-%20About%20Cedarville%20University%20-%20Cedarville%20University%20-%20A%20Top%20Midwest%20Christian%20College%20in%20Ohio" target="_blank"><img src="/~/media/Images/Common/facebook.png?w=17&amp;h=18&amp;as=1" width="17" height="18" alt="Share this on Facebook" title="Share this on Facebook" class="left noborder imagemargin"></a><a href="/Utils/ShortenUrl.aspx?url=/About/Privacy-Statement.aspx&amp;msg=PRIVACY%20POLICY%20STATEMENT%20FOR%20CEDARVILLE%20UNIVERSITY%20WEBSITES%20-%20About%20Cedarville%20University%20-%20Cedarville%20University%20-%20A%20Top%20Midwest%20Christian%20College%20in%20Ohio" target="_blank"><img src="/~/media/Images/Common/twitter.png?w=17&amp;h=18&amp;as=1" width="17" height="18" alt="Share this on Twitter" title="Share this on Twitter" class="left noborder imagemargin"></a><a href="mailto:?subject=PRIVACY%20POLICY%20STATEMENT%20FOR%20CEDARVILLE%20UNIVERSITY%20WEBSITES%20-%20About%20Cedarville%20University%20-%20Cedarville%20University%20-%20A%20Top%20Midwest%20Christian%20College%20in%20Ohio&amp;body=http://www.cedarville.edu/About/Privacy-Statement.aspx" target="_blank"><img src="/~/media/Images/Common/email.png?w=17&amp;h=18&amp;as=1" width="17" height="18" alt="E-mail this to a friend" title="E-mail this to a friend" class="left noborder imagemargin"></a>
 	</div><div id="mastheadtitleflash">
 		<h2>
 			<a href="/About.aspx" id="mastheadtitleanchor"><span id="mastheadtitlespan">About Cedarville</span></a>
@@ -124,9 +132,7 @@
 		<div id="contenttext">
         
 <a name="top"></a>
-<div class="right" style="width: 320px">
-    
-</div>
+
 <h1 id="main_1_TitleFieldContainer">PRIVACY POLICY STATEMENT FOR CEDARVILLE UNIVERSITY WEBSITES</h1>
 
 <div id="main_1_DescriptionFieldContainer">
@@ -170,40 +176,26 @@ please contact us at
 </p></div>
         </div>
         <div id="nav">
-            
-		<h3>
-      <a href="/About.aspx">About Us</a>&nbsp;</h3>
-    <ul>
-      <li>
-        <a href="/About/Accreditation.aspx">Accreditation</a>&nbsp; </li>
-      <li>
-        <a href="/About/Memberships.aspx">Memberships</a>&nbsp; </li>
-      <li>
-        <a href="/cf/tour/viewmap.cfm">Campus Map</a> </li>
-      <li>
-        <a href="/cf/tour/">Virtual Tour</a> </li>
-      <li>
-        <a href="/About/Map-to-Cedarville.aspx">Map to Cedarville</a>&nbsp; </li>
-      <li>
-        <a href="/About/Mission.aspx">Mission &amp; Objectives</a>&nbsp; </li>
-      <li>
-        <a href="/About/Doctrinal-Statement.aspx">Doctrinal Statement</a>&nbsp; </li>
-      <li>
-        <a href="/Admissions/Diversity.aspx">Commitment to Diversity</a>&nbsp; </li>
-      <li>
-        <a href="/About/Cedarville-History.aspx">Cedarville History</a> </li>
-      <li>
-        <a href="/whatsinaname/">Refer a Friend</a> </li>
-    </ul>
-    <h6>Area Information</h6>
-    <ul>
-      <li>
-        <a href="/About/Accommodations.aspx">Accommodations</a>&nbsp; </li>
-      <li>
-        <a href="/About/Restaurants.aspx">Dining Options</a>&nbsp; </li>
-      <li>
-        <a href="/About/Tourist-Info.aspx">Tourist Information</a>&nbsp;</li>
-    </ul><div id="langlink">
+            <h3><a href="/About.aspx">About Us</a>&nbsp;</h3>
+<ul>
+    <li><a href="/About/Accreditation.aspx">Accreditation</a>&nbsp; </li>
+    <li><a href="/About/Memberships.aspx">Memberships</a>&nbsp; </li>
+    <li><a href="/cf/tour/viewmap.cfm">Campus Map</a> </li>
+    <li><a href="/cf/tour/">Virtual Tour</a> </li>
+    <li><a href="/About/Map-to-Cedarville.aspx">Map to Cedarville</a>&nbsp; </li>
+    <li><a href="/Offices/Marketing/Social-Media.aspx">Social Media</a> </li>
+    <li><a href="/About/Mission.aspx">Mission &amp; Objectives</a>&nbsp; </li>
+    <li><a href="/About/Doctrinal-Statement.aspx">Doctrinal Statement</a>&nbsp; </li>
+    <li><a href="/Admissions/Diversity.aspx">Commitment to Diversity</a>&nbsp; </li>
+    <li><a href="/About/Cedarville-History.aspx">Cedarville History</a> </li>
+    <li><a href="/whatsinaname/">Refer a Friend</a> </li>
+</ul>
+<h6>Area Information</h6>
+<ul>
+    <li><a href="/About/Accommodations.aspx">Accommodations</a>&nbsp; </li>
+    <li><a href="/About/Restaurants.aspx">Dining Options</a></li>
+    <li><a href="/About/Tourist-Info.aspx">Tourist Information</a></li>
+</ul><div id="langlink">
 
 </div>
         </div>
@@ -216,7 +208,7 @@ please contact us at
             <p>
 	        Cedarville University | 251 N. Main St. | Cedarville, OH 45314 USA | 1-800-CEDARVILLE (233-2784) | 1-937-766-7700
 	        <br>
-	        © Copyright 1996-<span id="CopyrightYear">2010</span> Cedarville University
+	        © Copyright 1996-<span id="CopyrightYear">2011</span> Cedarville University
 	        | All Rights Reserved
 	        | <a id="CopyrightNotification" href="/About/Copyright-Infringement-Notification.aspx">Copyright Infringement Notification</a>
 	        | <a id="LegalInformation" href="/About/Legal-Information.aspx">Legal Information</a>
@@ -226,5 +218,11 @@ please contact us at
 	        Send problems or questions to the 
 	        <a id="WebDevEmail" href="/About/Contact-Form.aspx?epart1=webmaster&amp;amp;toname=Director+of+Web+Development">director of web development</a>.</p>
         </div></form>
+    <script type="text/javascript">
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    </script>
+   
 
 </body></html>
