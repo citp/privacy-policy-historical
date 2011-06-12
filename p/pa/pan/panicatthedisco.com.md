@@ -1,13 +1,9 @@
-> *The following text is extracted and transformed from the panicatthedisco.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216165841id_/http%3A//www.fueledbyramen.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the panicatthedisco.com privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612202631id_/http%3A//www.panicatthedisco.com/privacy-policy) for the most accurate reproduction.*
 
-# Fueled By Ramen - Privacy Policy
-
-| 
+# Privacy Policy - FueledByRamen.com
 
 **LAST UPDATED:** December 1, 2008
 
-  
-**Privacy Policy**   
 **Fueled By Ramen LLC** (" **Company** ," " **we** ," " **us** ") is concerned about online privacy issues and wants you to be familiar with how we collect, use and disclose your Personally Identifiable Information (as defined below). This Privacy Policy (the " **Policy** ") describes our practices in connection with Personally Identifiable Information that we collect through certain of our web sites, including the site from which you are linking to this Policy (the " **Site** "). This Policy does not govern our collection of information through any web site, or by any other means, other than through the Site; nor does this Policy govern the collection of information by any of our affiliates, including without limitation, those that distribute our music and our joint venture partners (collectively, " **Affiliated Entities** ") or by third parties. 
 
 By using the Site, you agree to the terms and conditions of this Policy. If you do not agree to the terms and conditions of this Policy, please do not use the Site. We reserve the right to change this Policy without prior notice. You can determine when this Policy was last revised by referring to the " _LAST UPDATED_ " legend at the top of this page. Any changes to our Policy will become effective upon our posting of the revised Policy on the Site. Use of the Site following such changes constitutes your acceptance of the revised Policy then in effect. 
@@ -123,34 +119,4 @@ Please note that e-mail communications will not necessarily be secure; according
 
 
   
-© 2007 Copyright Fueled By Ramen LLC | [Privacy Policy](http://www.fueledbyramen.com/privacy) | [Terms of Use](http://www.fueledbyramen.com/terms) | [ParentalGuide.org](http://www.parentalguide.org/) |  | 
 
-[](https://web.archive.org/web/20081216165841id_/http%3A//releases/index.php?id=110)
-
-**Panic At The Disco**  
-...Live In Chicago DVD  
-[ **BUY NOW**](http://store.fueledbyramen.com/albumview.asp?idproduct=68903)
-
-[](https://web.archive.org/web/20081216165841id_/http%3A//releases/index.php?id=109)
-
- **Paramore**  
-The Final Riot! DVD  
-[ **BUY NOW**](http://store.fueledbyramen.com/albumview.asp?idproduct=68893)
-
-[](https://web.archive.org/web/20081216165841id_/http%3A//releases/index.php?id=108)
-
- **Forgive Durden**  
-Razia's Shadow: A Musical  
-[ **BUY NOW**](http://store.fueledbyramen.com/albumview.asp?idproduct=67152)
-
-[](https://web.archive.org/web/20081216165841id_/http%3A//releases/index.php?id=105)
-
- **This Providence**  
-The Bright Lights EP  
-[ **BUY NOW**](http://store.fueledbyramen.com/albumview.asp?idproduct=66345)
-
-[](https://web.archive.org/web/20081216165841id_/http%3A//releases/index.php?id=106)
-
- **A Rocket To The Moon**  
-Greetings From...  
-[ **BUY NOW**](http://store.fueledbyramen.com/albumview.asp?idproduct=66124) | 
