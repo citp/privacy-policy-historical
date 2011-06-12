@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dressupchallenge.com privacy policy that was archived on 2010-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100420020836id_/http%3A//www.mylifetime.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dressupchallenge.com privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612065733id_/http%3A//www.mylifetime.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | myLifetime.com
 
