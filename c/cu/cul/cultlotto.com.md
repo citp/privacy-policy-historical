@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cultlotto.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121080556id_/http%3A//help.cultlotto.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cultlotto.com privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612213915id_/http%3A//help.cultlotto.com/privacypolicy.php) for the most accurate reproduction.*
 
 # cultLotto - The Free Online Lottery || Privacy Policy
 
