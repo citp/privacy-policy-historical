@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the techncoffee.com privacy policy that was archived on 2010-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101211233353id_/http%3A//www.techncoffee.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techncoffee.com privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612031617id_/http%3A//www.techncoffee.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Tech n Coffee Page
+# Privacy Policy | Tech n Coffee
 
 What follows is the Privacy Statement for all techncoffee Network websites (a.k.a. blogs) including all the websites run under the techncoffee domain.
 
@@ -37,3 +37,9 @@ When techncoffee Network makes changes to this privacy policy we will post those
 Contact Information
 
 If you have any questions regarding our privacy policy, please contact us.﻿
+
+#### Incoming search terms:
+
+  * [スイートプリキュア 画像 無料](http://www.techncoffee.com/topic/%e3%82%b9%e3%82%a4%e3%83%bc%e3%83%88%e3%83%97%e3%83%aa%e3%82%ad%e3%83%a5%e3%82%a2-%e7%94%bb%e5%83%8f-%e7%84%a1%e6%96%99/ "スイートプリキュア 画像 無料")
+
+
