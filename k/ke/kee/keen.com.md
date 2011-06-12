@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keen.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227111537id_/http%3A//www.att.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keen.com privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612222748id_/http%3A//www.att.com/privacy) for the most accurate reproduction.*
 
 # AT&T Privacy Policy
 
