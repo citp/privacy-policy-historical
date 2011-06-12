@@ -1,61 +1,98 @@
-> *The following text is extracted and transformed from the lawyers.com privacy policy that was archived on 2008-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080416081414id_/http%3A//research.lawyers.com/news-headline/Privacy-notices-are-worth-reading-to-keep-your-information-secure-l%3A768019882.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lawyers.com privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613012712id_/http%3A//www.lawyers.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Home Page
+# Privacy Policy - Lawyers.com
 
-**BODY:  **
+_(Last updated 10/21/2010)_
 
-Mar. 31--They come as envelope stuffers in your bank statement, your credit-card or insurance bill -- those privacy notices that companies must send to customers each year.
+_  
+_To underscore our commitment to privacy and our vision that good privacy is good business, we have adopted this Online Privacy Policy for the web site Lawyers.com(sm) (our “Site”) and the iPhone App for Lawyers.com(sm) (our “iPhone Application”) which are operated by LexisNexis, a division of Reed Elsevier Inc. (“LexisNexis”). This policy applies only to information collected through our Site and our Application. It does not apply to information collected by other means. This Site and Application are not directed at children under the age of 13. 
 
-Most consumers throw them away without reading them. But because personal privacy is so highly valued, you should read them to know how companies use your personal information and how you can prevent its widespread release.
+  
+If you have questions or concerns regarding this Online Privacy Policy, please contact us at:
 
-"They do provide some value in that they will notify you of certain rights that you have to opt out of information sharing," said Paul Stephens, director of policy and advocacy at the Privacy Rights Clearinghouse in San Diego. "Unfortunately, the law is riddled with a lot of exceptions." 
+  
+LexisNexis  
+Privacy, Security and Compliance Organization  
+PO Box 933  
+Dayton, Ohio 45401  
+Telephone: 1-800-831-2578  
+Email: [privacy@lexisnexis.com](mailto:privacy@lexisnexis.com)
 
-Federal law gives you the right to protect your personal financial information from being released or sold by banks and other financial services companies you do business with.
+  
+**INFORMATION COLLECTION**
 
-You do this by "opting out" -- which means that your bank, credit-card company, insurance company or brokerage firm is free to sell your customer data to or share it with other companies unless you specifically tell them not to.
+  
+**I. Personally Identifiable Information**   
+Personally identifiable information (PII) collected from you through our Site or iPhone Application may include, for example, name, mailing address, e-mail address, phone number, the content of any message you may submit for transmission to a law firm or lawyer, any responses you choose to provide to survey questions, information provided in connection with subscribing to a newsletter, or any inquires you may make through our Site or our iPhone Application.
 
-The law requires companies to send privacy notices to customers once a year telling them how the company collects and uses their information and how they can limit the use and disclosure of that data.
+  
+In addition, our iPhone Application, with your consent, also may collect information about your current location. Our Application also may collect your phone’s unique device identifier. 
 
-"Privacy notices are not privacy rights," said Ed Mierzwinski, consumer program director for the U.S. Public Interest Research Group. "The notices tell you basically that the bank can do whatever it wants with your information, even if you don't want it to.
+  
+**II. Cookies**   
+"Cookies" are small pieces of information that are stored by your browser on your computer's hard drive. This site uses cookies; however PII is not collected through the use of cookies. Cookies are used to assist us in managing your visit to our site. Our iPhone Application does not use cookies.
 
-"You have a limited right to opt out of their sharing with third-party telemarketers, but the law gives financial firms the right to share your information with their affiliates and many other third-party companies they do business with, regardless of your choice," he added.
+  
+While most browsers are set to accept cookies by default, you can set yours to refuse cookies or to alert you before accepting them. Your browser manufacturer has information on changing the default setting for your specific browser.
 
-"If the bank offers any opt-outs, it is in your interest to take them, but understand that it won't stop most sharing."
+  
+**III. Nonpersonally-identifiable Information**   
+Our Site and our iPhone Application also collect non-PII. For example, as you browse our Site or use our Application we may collect information about your visit, but not about you personally. Via Web server logs, for example, we may monitor statistics such as: the number of people that use our Site or our Application, which page(s) are visited, from which domain our visitors come (e.g., aol.com, hotmail.com, etc.), and which browsers people use to visit our Site (e.g., Apple Safari, Microsoft Internet Explorer, etc.). Our Site may also use outsourcing programs to assist us in analyzing this data to better tailor our content.
 
-Bankers say consumers do have power.
+  
+Similarly, our iPhone Application may collect non-PII such as the type of device you are using (e.g., iPhone 3, iPhone 4, iPad) and the version of iOS that your device is using. 
 
-"You're able to opt out," said John Hall, spokesman for the American Bankers Association. "It puts the consumer in the driver's seat."
+  
+**INFORMATION USE AND CONSUMER CHOICE**   
+The information collected by our Site and our iPhone Application is used only for responding to your inquiries and otherwise corresponding with you, for processing transactions you request (such as putting you into contact with lawyers or law firms), maintaining your account (if you have one), for other purposes permitted by your organization's customer agreement(s) (if any), and for the administration, review and/or the improvement the content of our Site and our iPhone Application.
 
-Consumer and privacy advocates said the best privacy policies are ones that allow you to "opt in," which prohibits a financial institution from sharing or selling your data if you don't give your affirmative consent.
+  
+We also may contact you in response to your comments or inquiries, as part of the maintenance of your account with us (if you have one), or in order to complete a transaction that you requested.
 
-Under current law, it's important that you respond to the privacy notice if you don't want your information shared. Otherwise, you're giving your implied consent for the financial institution to share your data.
+  
+If you decide that you do not want to receive further e-mails regarding your inquiry from LexisNexis, you can reply to the e-mail or use the opt-out mechanism provided in the e-mail with a request that we not continue to e-mail you.
 
-"If you say nothing, it means, 'Yes, you can share my data,' " the Privacy Rights Clearinghouse said. "The default for the opt-out approach is that your data is shared until and unless you notify the company otherwise."
+  
+Our Site and our iPhone Application may use third-party advertising companies and advertising networks to serve ads and collect information when you visit our Site or our Application. These companies may use information (not including your name, phone number or email address) about your visits to this and other websites or applications in order to provide advertisements on this and other websites or applications about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit: <http://www.networkadvertising.org/managing/opt_out.asp> for our Site and <http://support.apple.com/kb/HT4228> for information and choices for our iPhone Application. If you opt-out, non-personalized ads may still be displayed.
 
-You must respond using the exact method that the company provides you, be it online or through a toll-free number.
+  
+If you choose to use our referral service to tell a friend about our Site or our iPhone Application or a particular product or service, we will ask you for your friend's name and e-mail address. We will automatically send your friend a one-time e-mail message with information about the product or service and/or inviting him or her to visit our Site or use our iPhone Application. This message may include your name and/or e-mail address and any optional message that you elect to send along with our e-mail. We do not retain the information that you provide as part of this referral service (although we may retain your friend's e-mail address if he or she requests to receive additional information or e-mail messages from us). 
 
-"If you utilize another method for opting out, they may not honor that request," Mr. Stephens said.
+  
+**ONWARD TRANSFER  
+** We may disclose information you provide to us to third parties in order to complete a transaction that you requested or as otherwise permitted by your organization's customer agreement(s) (if any).
 
-Opting out allows you to prevent a company from sharing "personally identifiable financial information" with nonaffiliated third parties -- companies, individuals and organizations that aren't affiliated with the firm you're doing business with.
+  
+We may also outsource some tasks, including the operation of certain Site or iPhone Application functions that require access to information you supply online and information about your visits to our Site or our iPhone Application. In such cases, however, we require that the companies acting on our behalf institute safeguards to protect the confidentiality of your information. 
 
-That information includes your Social Security number, bank account numbers and credit-card numbers.
+  
+If our company or our assets are acquired by another company, that company will assume responsibility for the personal information collected by us through our Site and our iPhone Application and it will assume the rights and obligations regarding the information collected through our Site and our iPhone Application, as described in this Online Privacy Policy.
 
-But the law has many exceptions:
+  
+Finally, please note that we may disclose personal information when required by law or in the good faith belief that such action is necessary in order to comply with the law or legal process. 
 
-\-- You can't prevent a company from sharing information about you with a company owned or controlled by the same people or parent company as the one sending the privacy notice to you.
+  
+**ACCESS AND CORRECTION**   
+As an information company, we know the importance of accurate data. Therefore, we strive to maintain the accuracy of the information collected through our Site and our iPhone Application. We will provide you (whether you are a consumer or a customer) with access to PII you provide through our Site and our iPhone Application for as long as we maintain that information in a readily accessible format. Similarly, we permit and encourage you to correct inaccuracies in the information you submit to us through our Site and our iPhone Application.
 
-However, under the federal Fair Credit Reporting Act, you can opt out of having information about your creditworthiness shared with company affiliates.
+  
+If you wish to access information that you have submitted through our Site or our iPhone Application or to request the correction of any inaccurate information you have submitted through our Site or our iPhone Application, please use the mechanisms provided by our Site or our iPhone Application or send an e-mail to: [privacy@lexisnexis.com](mailto:privacy@lexisnexis.com).
 
-\-- You can't opt out of the sale or sharing of your customer data with joint marketers. Those are third parties that have contracted with the company you do business with to sell you products.
+  
+The access and correction provisions of this Online Privacy Policy only apply to PII collected from you through our Site and our iPhone Application. Individuals that are interested in information about how to access and/or request the correction of personal information LexisNexis maintains about them (such as public record information, insurance claims information, or information for employment background screening) for potential inclusion in information products and services can visit personalreports.lexisnexis.com or [www.lexisnexis.com/privacy](http://www.lexisnexis.com/privacy). 
 
-An example would be if your credit-card company enters into an agreement with another company to sell you insurance against loss on your credit-card account.
+  
+**SECURITY**   
+We take steps to protect against the loss, misuse, or unauthorized alteration of PII collected through our Site and our iPhone Application. We recognize the importance of security for all PII collected by our Site and our iPhone Application. 
 
-\-- You can't prevent a company from sharing "publicly available information," such as your telephone number, unless you have an unlisted number.
+  
+Once we receive PII, we take steps to protect its security on our systems. We limit access to PII to those employees who need access in order to carry out their job responsibilities. 
 
-\-- You can't prevent a company from sharing with its affiliates transactional information that may include such things as the charges you make on your credit card or the checks you write. However, you can opt-out of the sharing or sale of this information to a nonaffiliated third party.
+  
+**OTHER WEB SITES**   
+This Online Privacy Policy only applies to the Site and the iPhone Application identified in the first paragraph of this Online Privacy Policy. Our Site and our iPhone Application, however, may include links to other web sites which may be operated by other LexisNexis companies or by third parties. If you visit a web site, we recommend that you review the online privacy policy of that web site to determine how the operator of that web site will handle PII collected through that web site.
 
-"What you want to look at," Mr. Stephens said, "is, do they disclose nonpublic personal information, do they disclose it to affiliates and do they disclose it to third-party nonaffiliates?"
+  
+**POLICY CHANGES**   
+We may revise this Online Privacy Policy from time to time. If we make any material changes to this Online Privacy Policy, the date of the most recent revision will be indicated above so that you can determine whether there have been any material revisions since your last visit.  
 
-The answers to those questions are critical to protecting your privacy and identity. The more sources that have your information, the greater the chance that one of them could experience a breach of that sensitive data.
-
-To see more of The Dallas Morning News, or to subscribe to the newspaper, go to [http://www.dallasnews.com](http://www.dallasnews.com/). Copyright (c) 2008, The Dallas Morning News Distributed by McClatchy-Tribune Information Services. For reprints, email [tmsreprints@permissionsgroup.com](mailto:tmsreprints@permissionsgroup.com), call 800-374-7985 or 847-635-6550, send a fax to 847-635-6968, or write to The Permissions Group Inc., 1247 Milwaukee Ave., Suite 303, Glenview, IL 60025, USA. 
