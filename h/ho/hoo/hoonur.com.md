@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hoonur.com privacy policy that was archived on 2010-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100530223429id_/http%3A//www.hoonur.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hoonur.com privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612031302id_/http%3A//www.hoonur.com/privacy-policy) for the most accurate reproduction.*
 
 # Hoonur | Privacy Policy
 
@@ -6,7 +6,7 @@ Thank you for visiting our website and for taking an interest in our products. W
 
 This is the Privacy Policy governing your usage of Hoonur.com and informs you about the collection, use, transfer and processing of your information by the site.
 
-By using this Site, you agree with our Privacy Policy as listed below. 
+By using this Site, you agree with our Privacy Policy as listed below.
 
 1\. Information policy
 
@@ -22,27 +22,52 @@ If you submit any information to Hoonur, we will publish it on the site with you
 
 _Statistical Information:_
 
-As a policy, we also collect aggregate statistical information about your usage such as Ip addresses, browser software, operating systems, pages viewed, number of sessions etc.
+As a policy, we also collect aggregate statistical information about your usage such as IP addresses, browser software, operating systems, pages viewed, number of sessions etc.
 
 This helps us to understand your usage patterns so we can enhance your experience at Hoonur.
 
 2\. How does Hoonur use my information?
 
-Generally, Hoonur uses the personal data which you have provided to us for the purposes of fulfilling your application for any of our products, credit checks in the case of applications, and for understanding how we can improve our services to you. Where appropriate, we may also use the information for internal research on our user’s demographics, interests and behavior.and may also use your collected information to improve its marketing and promotional efforts, analyze user patterns and improve on the product and services it offers.
+Some of the content you share and the actions you take will show up on your friends’ home pages and other pages they visit.
+
+Generally, Hoonur uses the personal data which you have provided to us for the purposes of fulfilling your application for any of our products, credit checks in the case of applications, and for understanding how we can improve our services to you. Where appropriate, we may also use the information for internal research on our user’s demographics, interests and behavior. and may also use your collected information to improve its marketing and promotional efforts, analyze user patterns and improve on the product and services it offers.
 
 Your information allows us to customize the site lay out and content and make it more convenient for you.
 
 We may also use your information to service your Account with us, including but not limited to investigating problems, resolving disputes and enforcing agreements with us.
 
+Some of the content you share and the actions you take will show up on your friends’ and/or followers home pages and other pages they visit.
+
+Even after you remove information from your profile or delete your account, copies of that information may remain viewable elsewhere to the extent it has been shared with others, it was otherwise distributed pursuant to your privacy settings or it was copied or stored by other users.
+
+You understand that information might be re-shared or copied by other users. Certain types of communications that you send to other users cannot be removed, such as messages.
+
+When you post information on another user’s profile or comment on another user’s post, that information will be subject to the other user’s privacy settings.
+
+If you use an external source to publish information on Hoonur.com (such as a mobile application or a Connect site), you should check the privacy setting for that post, as it is set by that external source.
+
+You will not solicit login information or access an account belonging to someone else. You will not post content that: is hateful, threatening, or pornographic; incites violence; or contains nudity or graphic or gratuitous violence.
+
+You consent to having your personal data transferred to and processed in India.
+
 We do not sell, rent, trade or exchange any personally-identifying information of our Users. We may provide your Collected Information to our affiliates and service providers under contract (such as customer care) to support the operation of the Site and our services. We may share certain aggregate information based on analysis of Collected Information with our partners, customers, advertisers or potential Users.
 
-We may use your Collected Information to execute marketing campaigns, promotions or advertising messages on behalf of third parties; however, in these circumstances, your Collected Information will not be disclosed to such third parties unless you respond to the marketing, promotion or advertising message. Your Collected Information may be transferred, stored, used and processed outside your home jurisdiction. In case of a merger with or transfer of business to another business entity, we will transfer your Collected Information to the entity which acquires the business (Should such a combination occur, we will require that the new combined entity follow this Privacy Policy with respect to your Collected Information).
+Where appropriate, we may use your Collected Information to execute marketing campaigns, promotions or advertising messages on behalf of third parties; however, in these circumstances, your Collected Information will not be disclosed to such third parties unless you respond to the marketing, promotion or advertising message. Your Collected Information may be transferred, stored, used and processed outside your home jurisdiction. In case of a merger with or transfer of business to another business entity, we will transfer your Collected Information to the entity which acquires the business (Should such a combination occur, we will require that the new combined entity follow this Privacy Policy with respect to your Collected Information).
 
 Web sites that have links on our site may collect personally identifiable information about you. The data protection practices of those web sites linked to Hoonur are not covered by this policy statement. You are advised to check the data protection policies of these third party websites yourself before using those sites.
 
+Special Provisions Applicable to Share Links:
+
+If any person/entity includes Hoonur’s Share Link button on its website, the following additional terms shall be applicable to such person/entity: 
+
+  * You shall be permitted to use Hoonur’s Share Link button so that users can post links or content from your website on Hoonur.
+  * You give us permission to use and allow others to use such links and content on Hoonur and undertake full responsibility of the content posted. 
+
+
+
 _Registration Information:_
 
-We may use your Registration Information to provide services that you request or to contact you regarding additional services. Specifically, we may use your email address, mailing address, phone number or fax number to contact you regarding notices, surveys, product alerts, new service or product offerings and communications relevant to your use of our Site. We may generate reports and analysis based on the Registration Information for internal analysis, monitoring and marketing decisions.
+We may use your Registration Information and/or the Collected Information to provide services that you request and for the purpose of carrying out promotional and business activities by the Balaji or any of its Group companies and any other marketing agent/s and/or contractors with whom the Company enters, or has entered into any arrangement, in connection with providing of services/products, including without limitation, promotion of various business products. Specifically, we may use your email address, mailing address, phone number or fax number to contact you regarding notices, surveys, product alerts, new service or product offerings and communications relevant to your use of our Site. We may generate reports and analysis based on the Registration Information for internal analysis, monitoring and marketing decisions.
 
 _Publishing Information:_
 
