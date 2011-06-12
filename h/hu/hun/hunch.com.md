@@ -1,19 +1,18 @@
-> *The following text is extracted and transformed from the hunch.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220024003id_/http%3A//hunch.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hunch.com privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612225848id_/http%3A//hunch.com/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Hunch
 
-Effective September 13, 2010
+Effective January 13, 2011
 
-This Privacy Policy covers Hunch's treatment of personal information that Hunch gathers when you are on the Hunch website ("the Site") and when you use Hunch services.
+This Privacy Policy covers Hunch's treatment of personal information that Hunch collects when you are on the Hunch website ("the Site") and when you use Hunch services. It covers Hunch accounts that were created on or after January 13, 2011. Accounts created before January 13, 2011 are subject to the [previous version](https://web.archive.org/info/privacy-policy/?date=2010-09-13) of this policy until they are prompted to opt-in to this updated version.
 
 ### The really big picture:
 
-Your privacy is protected when you use the Hunch Site. We're here to help you get great recommendations, not to take your personal data and sell or rent it to outside parties.
+Your privacy is protected when you use the Hunch Site. Like a knowledgeable expert who gets to know you better over time, Hunch provides increasingly accurate recommendations to you the more you answer questions and provide feedback about the recommendations you've already received. Here's a summary of how you can control that information:
 
-Like a knowledgeable expert who gets to know you better over time, Hunch provides increasingly accurate recommendations to you the more you answer questions and provide feedback about the recommendations you've already received. It's up to you how your answers to these questions are shared and stored:
-
-  * You can control whether your Teach Hunch About You ("THAY") answers are visible in your account profile, using the 'Preferences' tab in your Hunch account profile. External applications that you authorize may also give you options to share your answers with other users or to make changes to your Hunch account preferences. 
-  * You can also choose to delete any previous THAY answers and/or disable the 'remember answers' feature for future questions. These options are available in the 'Preferences' tab of your Hunch account profile.
+  * You can control whether your Teach Hunch About You ("THAY") answers are publicly visible in your account profile, using the 'Preferences' tab in your Hunch account profile. External applications that you authorize may also give you options to share your answers with other users or to make changes to your Hunch account preferences.
+  * You can also choose to change or delete any previous THAY answers by visiting your account profile.
+  * When you rate an item on Hunch by choosing the number of stars you associate with it (alternatively, if you 'Like' or 'Favorite' a result), that feedback may be publicly attributed to you; this is one of the key social features of the site. You can review or edit things you have rated by visiting your account profile.
   * You can review or remove third party external applications which you've authorized to access your Hunch data, by going to hunch.com/authorize.
 
 
@@ -21,14 +20,16 @@ Like a knowledgeable expert who gets to know you better over time, Hunch provide
 ### How Your Personal Information Is Used:
 
   * We ask for your email address and a password when you create your account in order to control access to it. Your username is used to identify you to other Hunch users when you elect to share information or contribute reviews to Hunch.
-  * When you create a Hunch account using an external application such as Facebook or Twitter, or when you connect your Hunch account to external applications, Hunch may access data from those applications. Examples would be things you like, who you follow, or who your friends are on those applications. A data disclosure page will be shown in these cases and you can decide whether to proceed or not.
+  * When you create a Hunch account using an external application such as Facebook or Twitter, or when you connect your Hunch account to external applications, Hunch may access data from those applications. Examples would be things you like, your 'star' rating of Hunch results, who you follow, or who your friends are on those applications. A data disclosure page will be shown in these cases and you can decide whether to proceed or not.
   * You may choose to spruce up your Hunch profile be adding a photo, descriptive text, tags, your location or other information. This content is public and can be viewed by people not logged into Hunch.
   * Other portions of your Profile can be customized by you to be either public or not. The 'Preferences' tab of your account profile gives you many options to control what you want to display and what you don't.
-  * THAY (Teach Hunch About You) ANSWERS: By default when you are logged in, Hunch remembers your answers to THAY questions. Over time this will increase the accuracy of the recommendations you receive. Alternatively, you can use your account profile settings to disable this feature or delete previously stored answers.
-  * SHARED ANSWERS: By default when you are logged in, your answers to THAY questions are not visible by other users on your account profile. If, on the other hand, you decide to be more social and let the world gain some insight into what you like and don't, this setting can be enabled from your user profile. External applications which you authorize may also give you the option to share your THAY answers within the application.
+  * THAY (Teach Hunch About You) answers: You can review, change, or delete answers you have made to Teach Hunch About You questions by visiting your account profile.
+  * Sharing your THAY (Teach Hunch About You) answers: By default when you are logged in, your answers to THAY questions are not visible by other users on your account profile. You can optionally choose to make them public by enabling a setting in your account profile. External applications which you authorize may also give you the option to share your THAY answers within the application.
+  * When you 'rate' Hunch results (provide a star rating, or click 'Like' or 'Favorite' feedback), that feedback is considered public and may be publicly attributed to you; this is one of the key social features of the site. You can review or edit things you have rated by visiting your account profile.
+  * Mobile applications or 3rd-party applications may display your ratings including 'Like', 'Dislike', 'Favorite', or the number of stars you've rated an item, within mobile or 3rd-party applications.
   * While you are logged in we hope you'll provide written commentary and pros/cons about the recommendation outcomes on Hunch. Your submissions will be publicly credited to your username, and they're subject to Hunch's [Terms of Service](https://web.archive.org/info/terms-of-service/) and [Community Guidelines](https://web.archive.org/info/community-guidelines/).
-  * We also welcome your suggested contributions for topics, questions/answers and recommendation outcomes. These contributions are also subject to Hunch's [Terms of Service](https://web.archive.org/info/terms-of-service/) and [Community Guidelines](https://web.archive.org/info/community-guidelines/) and may be credited to your username.
-  * Hunch may make certain aggregated and anonymized data available to developers via an Application Programming Interface ("API"). Data accessed from the API may be used in outside applications subject to the review and approval by Hunch.
+  * We also welcome your suggested contributions for topics, questions/answers and recommendation results. These contributions are also subject to Hunch's [Terms of Service](https://web.archive.org/info/terms-of-service/) and [Community Guidelines](https://web.archive.org/info/community-guidelines/) and may be credited to your username.
+  * Hunch may make certain aggregated and anonymized data available to developers via an Application Programming Interface ("API"). Individual, public data (such as 'Likes', 'Favorites', or star ratings) may also be made available through the Hunch API. Data accessed from the API may be used in outside applications subject to the review and approval by Hunch.
   * Hunch may collect and display on the Site statistics about your usage of the Hunch service (such as the number of topics you've tried or the number of contributions you've made) and associate this data with your username.
 
 
@@ -41,7 +42,7 @@ Spam stinks. So we do not use your email address or other personally identifiabl
 
 We may share with third parties certain pieces of aggregated, non-personal information such as the number of users who engaged in a particular topic, correlations between question answers and item preferences, and how many users choose to buy a recommended item. Such information does not identify you individually.
 
-We may employ other companies and people to perform tasks on our behalf and sometimes need to share your information with them to provide products or services to you. Examples include analyzing data, providing marketing assistance, and providing customer service. 
+We may employ other companies and people to perform tasks on our behalf and sometimes need to share your information with them to provide products or services to you. Examples include analyzing data, providing marketing assistance, and providing customer service.
 
 In some cases, we may choose to buy or sell assets. In these types of transactions, customer information is typically one of the business assets that is transferred. Moreover, if Hunch, or substantially all of its assets, were acquired, customer information would be one of the assets that is transferred.
 
@@ -63,7 +64,7 @@ You can visit your account profile page at any time to:
 
   * Update or correct your personal profile information, photo, or email preferences
   * Delete some or all of your Teach Hunch About You (THAY) answers to past questions
-  * Disable the 'remember answers' feature for future questions
+  * Review or edit results that you have 'Liked' or 'Favorited'
   * Block other users from seeing your previously answered questions by setting your THAY answers to 'private' mode
   * Delete your account completely
 
@@ -99,4 +100,4 @@ Privacy Officer
 New York, NY 10010  
 USA
 
-You can also [send us an email](mailto:privacy@hunch.com).
+You can also [send us an email](mailto:privacy@hunch.com). 
