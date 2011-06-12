@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the phen375.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127011511id_/http%3A//phen375.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phen375.com privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612131644id_/http%3A//phen375.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Phentermine Privacy Policy
+# Phentermine Fat Burner Privacy Policy | Phen375
 
 **How do we protect visitor information?**
 
-We implement a variety of security measures to maintain the safety of your personal information. Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. When you place orders or access your personal information, we offer the use of a secure server. All sensitive/credit information you supply is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our databases to be only accessed as stated above.
+We implement a variety of security measures to maintain the safety of your personal information. Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. When you place orders or access your personal information, we offer the use of a secure server. All sensitive/credit information you supply is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our databases to be accessed only as stated above.
 
 **Do we use "cookies"?**
 
@@ -24,9 +24,9 @@ However, non-personally identifiable visitor information may be provided to othe
 
 To modify your e-mail subscriptions, please let us know by modifying your preferences in the "My Account" section. Please note that due to email production schedules you may receive any emails already in production.
 
-To delete all of your online account information from our database, sign into the "My Account" section of our site and remove your shipping addresses, billing addresses & payment information. Please note that we may maintain information about an individual sales transaction in order to service that transaction and for record keeping.
+To delete all of your online account information from our database, sign into the "My Account" section of our site and remove your shipping addresses, billing addresses and payment information. Please note that we may maintain information about an individual sales transaction in order to service that transaction and for record keeping.
 
-**Third party links**
+**Third-party links**
 
 In an attempt to provide you with increased value, we may include third party links on our site. These linked sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these linked sites (including if a specific link does not work).
 
@@ -38,11 +38,11 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 We welcome your questions, comments, and concerns about privacy. Please send us any and all feedback pertaining to privacy, or any other issue.
 
-**Online Policy Only**
+**Online policy only**
 
 This online privacy policy applies only to information collected through our website and not to information collected offline.
 
-**Terms and Conditions**
+**Terms and conditions**
 
 Please also visit our [Terms and Conditions](http://phen375.com/terms-of-use.html "term and conditions") section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
