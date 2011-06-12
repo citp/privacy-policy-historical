@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hsx.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206140441id_/http%3A//www.hsx.com/about/%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hsx.com privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612174947id_/http%3A//www.hsx.com/about/%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # HSX.com – Privacy Policy
 
