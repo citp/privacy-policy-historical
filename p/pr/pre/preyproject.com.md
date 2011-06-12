@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the preyproject.com privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202114647id_/http%3A//preyproject.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the preyproject.com privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612145841id_/http%3A//preyproject.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – Prey
 
@@ -14,11 +14,11 @@ We will not sell or market the email addresses or other collected personal infor
 
 **b) Tracking**
 
-On desktop and laptop PCs, the Agent queries the Control Panel on a defined interval, passing a Device Key that is unique to that device, which is matched to your account. If Active Mode is enabled (see Pro Account Features), the Control Panel will keep track of the time when the request was made. Otherwise, no data will be logged on the server until you manually activate tracking for that device, either by marking it as missing (desktop and laptop PCs) or sending the activation SMS (phones).
+On desktop and laptop PCs, the Agent queries the Control Panel on a defined interval, passing a Device Key that is unique to that device, which is matched to your account. If Active Mode is enabled (see Pro Account Features), the Control Panel will keep track of the time when the request was made. Otherwise, no data will be logged on the server until you manually activate tracking for that device, either by marking it as missing (desktop and laptop PCs), sending the activation SMS (phones), or via push notification (PCs and phones).
 
-Once tracking is activated, the Agent will proceed to collect information on your device, but only what you specifically request through the Control Panel (e.g. the enabled modules for that device). This may include the device’s internal and external IP, the username for the active session, the current physical location, a screenshot of the active desktop, and a picture of the thief if a webcam is present, among other things. Once collected, the information is packed and sent to the Control Panel and stored in encrypted form (”Report”). The data is accessible to you through the Control Panel, where you have the option to delete any information that you no longer require, at any given moment. 
+Once tracking is activated, the Agent will proceed to collect information on your device, but only what you specifically request through the Control Panel (e.g. the enabled modules for that device). This may include the device’s internal and external IP, the username for the active session, the current physical location, a screenshot of the active desktop, and a picture of the thief if a webcam is present, among other things. Once collected, the information is packed and sent to the Control Panel (”Report”) where it is stored securely and is only accessible by using your account credentials. 
 
-If deleted, no traces are kept from any report, as all data is permanently destroyed.
+You have the option to delete any information that you no longer require, at any given moment. If deleted, no traces are kept from any report, as all data is permanently destroyed.
 
 **c) Uses**
 
