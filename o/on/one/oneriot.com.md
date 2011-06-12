@@ -1,39 +1,69 @@
-> *The following text is extracted and transformed from the oneriot.com privacy policy that was archived on 2006-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061017181353id_/http%3A//www.oneriot.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oneriot.com privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612233114id_/http%3A//www.oneriot.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - OneRiot
 
-#### **Privacy policy**
+Last updated: March 18, 2011
 
-This web site is committed to protecting your online privacy while providing you with the most useful and enjoyable Web experience possible. While you can use many features of This web site anonymously, you are required to provide personal information to gain access to some of our premium content and services. 
+At OneRiot, we care a lot about your privacy. It’s important to us that you understand exactly how OneRiot operates its services and how that might relate to your privacy. This privacy policy (“ **Privacy Policy** ”) applies to all of our web sites, products and services. The purpose of this privacy policy is to give consumers comprehensive information about the information we collect and how we use that information.
 
-### **How we collect and use personal information**
+### About Our Online Advertising Services
 
-Registering for membership on This web site gives you access to all the site's information and features. The only information required is your name, e-mail address, country, and ZIP/postal code. With your approval, we occasionally will send e-mail to notify you about important changes to the site, new services, and special offers from us. If you would rather not receive these e-mail notifications, you can simply indicate that preference either when you register or at any time you modify your account. 
+OneRiot works with content and application providers, advertisers, ad networks and other businesses to deliver targeted or personalized ads, to consumers. We target ads using signals such as influence, interest profiles, demographics and realtime conversations. We believe that consumers benefit from receiving more relevant ads and advertisers and publishers benefit from more effective advertising.
 
-If you enter a contest or respond to a promotion, we may ask for your postal address so we can notify contest winners and deliver promotional goodies. When you enter this information, we will save it in your member profile so that you won't have to enter it again. We occasionally may also send you postal mail to notify you about important changes to the site, new services, and special offers from us and select This web site partners. If you would rather not receive such information via postal mail, you can indicate this when you enter your address or you can modify your account at any time to indicate your preference. 
+### What information do we collect?
 
-Our Free Product Info service lets you sign up to receive e-mail product announcements and other news from third parties, including software publishers, hardware manufacturers, and service providers. You can add or remove product information topics from your personal list at any time on your Free Product Info page. This web site works with Postmaster Direct, the world's leading e-mail announcement service, to prevent unauthorized use of your e-mail address and make sure you receive information only about the topics you specify. 
+OneRiot does not collect information directly from individuals but rather receives information from our partner’s mobile applications and third party service providers. In this light, OneRiot relies on our partners and these third party service providers to inform their users about the purposes for which it collects and uses their personal information.
 
-### **How we protect your personal information**
+In order to provide a full range of services, we may collect the following types of information:
 
-All personal data you enter on This web site is encrypted with secure server software (SSL) that encodes the information before your Web browser software sends it to us. The SSL software decodes the data only after it reaches our server, meaning hackers can't snatch any of your personal information while it is in transit. Once the data reaches our site, the same state-of-the-art security software we use to guard all of our company's essential business data protects your personal data as well. 
+  * **Twitter information** – we obtain publicly available Twitter information from our partners and third party service providers such as user name, display name, profile information and Tweets.
+  * **Mobile device information** – we may automatically receive from our partners information indentifying the user’s location and service provider information garnered via the IP address used to access the mobile Internet or other means, device identifiers, the type of phone or other mobile device used (e.g., iPhone, Blackberry 8800 etc.), the date and time of a user’s mobile internet session, whether one of the mobile ads we facilitate was delivered and, if applicable, a record if that ad was "clicked."
+  * **Ad tags** \- we use “pixel tags" and/or similar technologies in our communications to enable us to evaluate when and if advertisements are viewable on the mobile device. A pixel tag is typically a one-pixel, transparent image (although it can be a visible image as well), located within the advertising creative, which is retrieved from a remote site on the Internet enabling the verification of an individual's viewing or receipt of a Web page or message.
 
-In addition to using the most secure technology available, we work tirelessly to make sure that we use any information you provide us only in ways you have approved. We send you only the e-mail you have approved in your account information or on your e-mail subscription sign-up page. And when you sign up for Free Product Info, Postmaster Direct distributes all the announcement e-mails you request directly without ever releasing your e-mail address to a third party. 
 
-### **How we use "cookies"**
 
-As you probably know, "cookies" are small pieces of information that some Web sites store on your computer's hard drive when you visit them. Like many other Web sites, This web site uses cookies to identify members so they don't have to enter a user ID and password upon each visit. Most Web browsers automatically accept cookies but allow you to modify security settings so you can approve or reject cookies on a case-by-case basis. Even if you do not use cookies, you can still access all of the features on our site by logging in manually with each visit. 
+### Personally Identifiable Information
 
-### **What we provide to third parties**
+Some of the information users choose to share publicly through Twitter may be personally identifiable. We do not send Twitter data we receive from our partners and third party service providers to anyone outside of OneRiot.
 
-While This web site does not provide any third-party access to your personal information except to facilitate your own attempts to register with our partners or receive offers from select partners as mentioned elsewhere in this policy, we may provide third parties with aggregate statistics about our customers, traffic patterns, and related site information. This data reflects site usage patterns gathered during millions of customer visits to our Web site each month, but it does not contain behavioral or identifying information about any individual member unless that member has given us permission to share that information. 
+### What do we do with the information?
 
-This web site uses a third-party advertising company to serve ads when you visit our sites. This company may use information (not including your name, address, e-mail address, or telephone number) about your visits to our and other Web sites in order to provide advertisements about goods and services of interest to you. In addition, we share Web site usage information about visitors to our site with this company for the purpose of managing and targeting advertisements on our sites. For this purpose, we and our third-party advertising company note some of the pages you visit on our sites through the use of pixel tags (also called “clear gifs”). \
+We process collected information for the following purposes:
 
-### **Obtaining your consent**
+  * Analyze usage trends and patterns to understand user behavior, improve our services, and optimize advertising for our business partners.
+  * Create audience segments and demographic, geographic and interest categories to deliver targeted advertising.
+  * Give our clients more information about the performance of their advertising campaigns and improve performance over time.
+  * Ensure the technical functioning of our network.
+  * Develop new services.
 
-By using our Web site, you give This web site permission to collect information about the pages served to you as an anonymous user for the purpose of calculating aggregate site statistics. If you register at This web site, you authorize This web site to use information you provide to personalize the information we deliver to you and to use your demographic information when calculating aggregate customer data. As a registered member, you give This web site and our agents permission to send you e-mails related to the subscription e-mail services to which you subscribe and the Free Product Info topics you select. 
 
-If you are under the age of 18, you must not provide your name, e-mail address, or any other identifying information without the consent of your parent or guardian, or as otherwise provided for by applicable law. 
 
-Any changes to our privacy policy will be posted on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. 
+### Opting Out
+
+You can opt-out from us sending you targeted ads by sending an email to [support@oneriot.com](mailto:support@oneriot.com) and including your Twitter ID. Once you opt out, you may continue to receive ads from us, however, they will be based on generic factors, as opposed to data collected and processed in connection with your Twitter ID.
+
+### Disclosure of Your Data
+
+We do not trade, rent or share the personal data we collect with third parties, unless you ask or authorize us to do so.
+
+Although we currently do not have a parent company, any subsidiaries, joint ventures, or other companies under a common control (collectively, “Affiliates”), we may in the future. We may share some or all of the personal data we collect with these Affiliates, in which case we will require our Affiliates to honor this Privacy Policy.
+
+In the event OneRiot goes through a business transition such as a merger, acquisition by another company, or sale of all or a portion of its assets, the personal data we collect will likely be among the assets transferred. You acknowledge that such transfers may occur, and that any acquirer of OneRiot or its assets may continue to use the personal data we collect as set forth in this Privacy Policy.
+
+### Information Security
+
+OneRiot takes commercially reasonable security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of the personal data we collect and store. These security measures include internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store the personal data we collect.
+
+We restrict access to personal information only to OneRiot employees, contractors and agents who need to know that information to operate, develop or improve our Services. These individuals are bound by confidentiality obligations. However, no security system can be fully secured; accordingly, OneRiot cannot guarantee the security of any information you provide to us in connection with the delivery of our services.
+
+### Privacy of Minors
+
+We do not intentionally collect or maintain personal information from those who are under 13 years old.
+
+### Changes to This Policy
+
+Please note that this Privacy Policy may change from time to time. We will post any Privacy Policy changes on this page and, if the changes are significant, we will provide a more prominent notice. Each version of this Privacy Policy will be identified at the top of the page by its effective date, and we will also keep any prior versions of this Privacy Policy in an archive for your review.
+
+### Still Have Questions?
+
+If you have additional questions, please feel free to contact us at: [support@oneriot.com](mailto:support@oneriot.com).
