@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the backstage.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228052822id_/http%3A//www.backstage.com/bso/privacy-policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backstage.com privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612133025id_/http%3A//www.backstage.com/bso/privacy-policy.jsp) for the most accurate reproduction.*
 
 # Acting Resources- BackStage.com - Your Source for Entertainment News and Acting Auditions
 
@@ -54,7 +54,7 @@ You may contact us at [terms@e5globalmedia.com](mailto:terms@e5globalmedia.com) 
 
 You may contact e5 Global Media regarding our privacy practices at the following address:
 
-e5 Global Media  
+Prometheus Global Media  
 770 Broadway Ave  
 7th Floor  
 New York, NY 10003
