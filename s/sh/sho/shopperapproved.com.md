@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the shopperapproved.com privacy policy that was archived on 2010-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101115183545id_/http%3A//www.shopperapproved.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopperapproved.com privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612151533id_/http%3A//www.shopperapproved.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Shopper Approved
-
-| 
 
 Privacy Policy  
 **What information do we collect?**
@@ -83,7 +81,7 @@ This online privacy policy applies only to information collected through our web
 
  **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at http://www.shopperapproved.com/terms.php.
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at /terms.php.
 
  **Your Consent**
 
@@ -99,7 +97,7 @@ This policy was last modified on **1/12/2010**
 
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
-http://www.shopperapproved.com/  
+/  
 298 24th Street #470  
 Ogden, UT 84401  
 USA  
@@ -117,8 +115,4 @@ Controlling the Assault of Non-Solicited Pornography and Marketing Act
 Respectfully, 
 
 Scott Brandley CEO  
-http://www.shopperapproved.com/ 
-
-|  [Home](https://web.archive.org/index.php)  
-  
----|---|---
+www.shopperapproved.com 
