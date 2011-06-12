@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hipsandcurves.com privacy policy that was archived on 2010-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100507015659id_/http%3A//www.hipsandcurves.com/plus-size-lingerie/t-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hipsandcurves.com privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612204206id_/http%3A//www.hipsandcurves.com/plus-size-lingerie/t-privacy.aspx) for the most accurate reproduction.*
 
-# Plus Size Lingerie Privacy Policy at Hips & Curves
+# Privacy Policy for Hips & Curves plus size lingerie
 
 Your security and privacy are always our top concern. When you place an order we will need your name, address, phone number, e-mail address, credit card number and expiration date in order to complete your order. We will never exchange, rent or sell your personal information to any third party. 
 
