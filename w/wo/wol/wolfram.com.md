@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wolfram.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204082727id_/http%3A//www.wolfram.com/company/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wolfram.com privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613004510id_/http%3A//www.wolfram.com/legal/privacy/wolfram-research.html) for the most accurate reproduction.*
 
-# Wolfram Research, Inc.
+# Wolfram Research Privacy Policy
 
 Wolfram Research understands your concerns about how personally identifying information is used and shared, and we endeavor to use such information carefully and sensibly. 
 
