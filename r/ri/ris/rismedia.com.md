@@ -1,40 +1,46 @@
-> *The following text is extracted and transformed from the rismedia.com privacy policy that was archived on 2008-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080921210146id_/http%3A//rismedia.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rismedia.com privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613015923id_/http%3A//rismedia.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | RISMedia
 
-RISMedia Privacy Policy (as of July 6, 2006)
+### Privacy Policy
 
 RISMedia recognizes the importance of protecting the personal information you provide at Web sites owned and/or controlled by RISMedia Inc. Thus, we maintain the following privacy policy:
 
-1\. We gather the following types of information needed to process your transactions,  
-fulfill your requests and maintain our membership records:
+1\. We gather the following types of information needed to process your transactions, fulfill your requests and maintain our membership records:
 
-* Contact information you provide (i.e., personal and business addresses, e-mail address, phone  
-and fax numbers, firm affiliations and titles)  
-* Information you volunteer, via applications or surveys (i.e., education,  
-designations, specialties and general demographic data)
+> • Contact information you provide (i.e., personal and business addresses, e-mail address, phone and fax numbers, firm affiliations and titles)
+
+> • Information you volunteer, via applications or surveys (i.e., education, designations, specialties and general demographic data)
 
 2\. We use this information to:
 
-* Improve and customize the content and layout of our sites and other communications tools, such as RISMedia?s Real Estate magazine online and in print  
-* Compile our annual Power Broker Survey & Report  
-* Notify you of relevant products and services  
-* Notify you of upcoming events and programs  
-* Compile specialty directories about which you will be made aware  
-* Track usage of our sites
+> • Improve and customize the content and layout of our sites and other communications tools, such as RISMedia’s Real Estate magazine online and in print
 
-3\. RISMedia does not share, sell or  
-trade e-mail addresses, but may provide you with online informational or marketing messages that have been approved by RISMedia for the purposes described in Part 4 of this policy.
+> • Compile our annual Power Broker Survey & Report
+
+> • Notify you of relevant products and services
+
+> • Notify you of upcoming events and programs
+
+> • Compile specialty directories about which you will be made aware
+
+> • Track usage of our sites
+
+3\. RISMedia does not share, sell or trade e-mail addresses with any unauthorized partners of RISMedia, but may provide you with online informational or marketing messages that have been approved by RISMedia for the purposes described in Part 4 of this policy.
 
 4\. We will not share, sell or otherwise provide other information about you to third parties, except for:
 
-* Exhibitors at RISMedia’s Leadership Conference trade show for the limited purpose of contacting  
-you one time immediately before and after trade shows, through marketing vehicles approved by RISMedia  
-* When required by law or valid legal process, or to protect the personal safety of our members or the public  
-* Some or all of the data collected during promotions or contests on our sites that are sponsored by third parties may be shared with the sponsor for the limited purpose of a one-time marketing follow-up by the sponsor. If information about you will be shared with a sponsor you will be notified prior to your participation in the promotion or contest and you can decide not to participate in the promotion or contest.
+> • Exhibitors at RISMedia’s Leadership Conference trade show for the limited purpose of contacting you one time immediately before and after trade shows, through marketing vehicles approved by RISMedia.
 
-5\. Credit card information that you and credit authorizers provide when you make payments by credit card or electronic check for products, registrations or other services via RISMedia’s Web site will only be used to process the transactions you request. This  
-information will be provided to and maintained by reputable credit reporting databases, but will never be sold, shared or provided to other third parties.
+> • Our Annual Power Broker Survey and Report: By participating in the survey the participant agrees that in return for recognition of their ranking, the information provided will be made available in print, online and for purchase as part of our Annual Power Broker Report. RISMedia is not responsible for how said information is used by purchasers of the report. We do encourage purchasers to offer participants a way to Opt-Out of their solicitations.
+
+> • When required by law or valid legal process, or to protect the personal safety of our members or the public
+
+> • Some or all of the data collected during promotions or contests on our sites that are sponsored by third parties may be shared with the sponsor for the limited purpose of a one-time marketing follow-up by the sponsor. If information about you will be shared with a sponsor you will be notified prior to your participation in the promotion or contest and you can decide not to participate in the promotion or contest.
+> 
+> • To offer subscribers participation or enrollment in value-added, complimentary partner offerings.
+
+5\. Credit card information that you and credit authorizers provide when you make payments by credit card or electronic check for products, registrations or other services via RISMedia’s Web site will only be used to process the transactions you request. This information will be provided to and maintained by reputable credit reporting databases, but will never be sold, shared or provided to other third parties.
 
 6\. We use a strict Opt-Out policy for sending online notifications regarding services, products and programs. You may opt out of our Daily e-News by selecting the unsubscribe feature at the bottom of the Daily e-News e-mail or by e-mailing online@rismedia.com.
 
