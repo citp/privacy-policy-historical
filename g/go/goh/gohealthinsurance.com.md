@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gohealthinsurance.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228154454id_/http%3A//www.gohealthinsurance.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gohealthinsurance.com privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612170835id_/http%3A//www.gohealthinsurance.com/privacy.html) for the most accurate reproduction.*
 
 # Go Health Insurance Privacy Policy
 
@@ -8,7 +8,7 @@ GoHealthInsurance.com believes it is important for you to know and understand ho
 
 Please note that this privacy policy only applies to this website. Other websites in the GoHealthInsurance.com network may have different privacy policies. 
 
-By accessing this website and/or using our Service, you agree to abide by this Privacy Policy and our [Terms of Use](https://web.archive.org/web/20101228154454id_/http%3A//www.gohealthinsurance.com/terms.html). 
+By accessing this website and/or using our Service, you agree to abide by this Privacy Policy and our [Terms of Use](https://web.archive.org/web/20110612170835id_/http%3A//www.gohealthinsurance.com/terms.html). 
 
 ### Services Offered By GoHealthInsurance.com
 
