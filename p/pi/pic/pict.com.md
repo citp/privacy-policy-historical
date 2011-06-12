@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pict.com privacy policy that was archived on 2010-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100824125642id_/http%3A//www.pict.com/pages/view/terms_conditions) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pict.com privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612021632id_/http%3A//www.pict.com/pages/view/terms_conditions) for the most accurate reproduction.*
 
 # Pict - Service Terms & Conditions / Service Privacy Policy
 
