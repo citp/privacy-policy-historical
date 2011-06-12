@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the backlinkcanyon.info privacy policy that was archived on 2010-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101211102836id_/http%3A//backlinkcanyon.info/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backlinkcanyon.info privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612230657id_/http%3A//www.backlinkcanyon.info/privacypolicy.php) for the most accurate reproduction.*
 
 # Back Link Canyon General Directory - Privacy Policy
 
@@ -30,18 +30,18 @@ Deleting cookies does not mean you are permanently opted out of any advertising 
 
 ### Featured Links
 
-| [Ariesoul Jewelry](http://www.ariesouljewelry.com/ "Ariesoul Jewelry") \- http://www.ariesouljewelry.com
+| [Free Celebrity Wallpapers](http://www.wallpapersfreak.com/ "Free Celebrity Wallpapers") \- http://www.wallpapersfreak.com
 
-One-of-a-kind handcrafted necklaces, earrings, and bracelets designed by Alicia A. Bergman feature semiprecious, Swarovski crystal, and glass beads with hypoallergenic sterling silver, copper, or black metal links and clasps.  
+Free high quality female celebrity wallpapers including musicians, models, Hollywood and Bollywood actresses. Visit us for hot free background pictures.  
   
 ---|---  
-| [Bird Feeders, Bird Houses & Binoculars at Royal Feathers](http://www.royalfeathers.com/ "Bird Feeders, Bird Houses & Binoculars at Royal Feathers") \- http://www.royalfeathers.com
+| [911 locksmith services](http://www.911locksmithservices.com/ "911 locksmith services") \- http://www.911locksmithservices.com
 
-Are you cuckoo for Cuckoos? Whether hooked on hummingbirds or nuts about squirrels, we have hundreds of wild bird and nature items for less. We carry the wildly popular Droll Yankee squirrel proof bird feeders as well as many outdoor and birding supplies from respected manufacturers. Come see our decorative bird houses, bird baths and bird seed wreaths so appealing you can give to persons on your gift list that are hard to buy for. 100% customer satisfaction or your money back!  
+911 Locksmith Services provides locksmith services around the clock throughout the country. When you require the services of an experienced locksmith, we provide the services of a reputable, experienced, and reasonable locksmiths, ranging from simple jobs (such as lock repair) to extensive security systems.  
   
 ---|---  
-| [Los Angeles Locksmith](http://www.911locksmith.com/Los-Angeles-Locksmith.html "Los Angeles Locksmith") \- http://www.911locksmith.com/Los-Angeles-Locksmith.html
+| [Bendy Fun](http://bendyfun.info/ "Bendy Fun") \- http://bendyfun.info
 
-911 Locksmith is a full-service local locksmith company providing all of your locksmith needs. We specialize in emergency locksmith service, Auto Locksmith, and 24 7 locksmith service. 911 Locksmith.com handles all types of emergency locksmith calls whether if it’s for commercial, residential, business or automotive - We do it all! Call 888-666-2050 - Servicing All US Cities. Satisfaction Guaranteed – Free Estimate.  
+Learn about bendable toys, crafts and arts. Fun, creative and artistic pursuits with Bendaroos, Wikki Stix, Wax Works and other bendy toys and crafts.  
   
 ---|---
