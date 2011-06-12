@@ -1,9 +1,12 @@
-<!--The following is the downloaded HTML source of the schrodinger.com privacy policy that was archived on 2010-12-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101212091847id_/http%3A//www.schrodinger.com/policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the schrodinger.com privacy policy that was archived on 2011-06-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110612065745id_/http%3A//www.schrodinger.com/policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
         <title>Schrödinger - Privacy Policy</title>
         <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+       <link rel="shortcut icon" href="/favicon.png" type="image/x-icon">
+
 
 
 
@@ -493,10 +496,10 @@ function AC_GetArgs(args, ext, srcParamName, classid, mimeType){
 				}
 			}
 			function ShowPopup() {
-				IEfix();
+				/*IEfix();*/
 				document.getElementById('popup').style.display = 'block';
 				document.getElementById('shadow').style.display = 'block';
-				var ua = navigator.userAgent.toLowerCase();
+				/*var ua = navigator.userAgent.toLowerCase();
 				if (ua.indexOf("safari") != -1) {
 					if (document.getElementById('popup').offsetHeight+211+eval(window.pageYOffset) > document.getElementById('main').offsetHeight) {
 					document.getElementById('shadow').style.height = document.getElementById('popup').offsetHeight+eval(window.pageYOffset)+260+'px';
@@ -504,9 +507,13 @@ function AC_GetArgs(args, ext, srcParamName, classid, mimeType){
 				} else
 					if (document.getElementById('popup').offsetHeight+211+eval(document.documentElement.scrollTop) > document.getElementById('main').offsetHeight) {
 					document.getElementById('shadow').style.height = document.getElementById('popup').offsetHeight+eval(document.documentElement.scrollTop)+260+'px';
-				}
+				}*/
 				if(document.getElementById('pbox_center_center')!=null)text_width=document.getElementById('pbox_center_center').offsetWidth;
 				if(document.getElementById('pbox_text')!=null)document.getElementById('pbox_text').style.width = (text_width >= 333) ? text_width -70 + 'px' : '263px';
+				var docRef = document;
+				var docElRef = docRef.documentElement;
+				var bodyRef = docRef.body;
+				docRef.getElementById('shadow').style.height = (bodyRef.scrollHeight < docElRef.scrollHeight) ? docElRef.scrollHeight + 'px' : bodyRef.scrollHeight + 'px';
 
 			}
 			function HidePopup() {
@@ -806,17 +813,17 @@ function show_seminar(id)
                                     	<li class="menuitem_bg">
                                         <ul class="menuitem_inner">
 
-<li><a href="http://www.schrodinger.com/about/">Corporate Overview</a></li>
-<li><a href="http://www.schrodinger.com/partnerships/">Partnerships</a></li>
-<li><a href="http://www.schrodinger.com/leadership/">Leadership</a></li>
-<li><a href="http://www.schrodinger.com/advisors/">Scientific Advisors</a></li>
-<li><a href="http://www.schrodinger.com/contacts/">Contact Us</a></li>
-<li><a href="http://www.schrodinger.com/careers/">Careers</a></li>
+<li><a href="http://www.schrodinger.com/about/">C o r p o r a t e<span class="normal">&nbsp;</span>O v e r v i e w</a></li>
+<li><a href="http://www.schrodinger.com/partnerships/">P a r t n e r s h i p s</a></li>
+<li><a href="http://www.schrodinger.com/leadership/">L e a d e r s h i p</a></li>
+<li><a href="http://www.schrodinger.com/advisors/">S c i e n t i f i c<span class="normal">&nbsp;</span>A d v i s o r s</a></li>
+<li><a href="http://www.schrodinger.com/careers/">C a r e e r s</a></li>
+<li><a href="http://www.schrodinger.com/contacts/">C o n t a c t<span class="normal">&nbsp;</span>U s</a></li>
 
                                         </ul>
 
                                         </li>
-                                        <li class="m_bot">&nbsp;</li>
+                                        <li class="m_bot"><span class="m_bot_r">&nbsp;</span></li>
                                     </ul>                            	    
                                 </li>  
                                 <li class="item3n">
@@ -826,37 +833,38 @@ function show_seminar(id)
                                     	<li class="menuitem_bg">
                                         <ul class="menuitem_inner">
 
-<li class="products_giude"><a href="http://www.schrodinger.com/productsguide/"><span>Products Guide</span></a></li>
-<li><a href="http://www.schrodinger.com/products/14/23/">Canvas</a></li>
-<li><a href="http://www.schrodinger.com/products/14/2/">CombiGlide</a></li>
-<li><a href="http://www.schrodinger.com/products/14/26/">ConfGen</a></li>
-<li><a href="http://www.schrodinger.com/products/14/32/">Core Hopping</a></li>
-<li><a href="http://www.schrodinger.com/products/14/3/">Desmond</a></li>
-<li><a href="http://www.schrodinger.com/products/14/4/">Epik</a></li>
-<li><a href="http://www.schrodinger.com/products/14/5/">Glide</a></li>
-<li><a href="http://www.schrodinger.com/products/14/6/">Induced Fit</a></li>
-<li><a href="http://www.schrodinger.com/products/14/7/">Jaguar</a></li>
-<li><a href="http://www.schrodinger.com/products/14/8/">KNIME Extensions</a></li>
-<li><a href="http://www.schrodinger.com/products/14/1/">Liaison</a></li>
-<li><a href="http://www.schrodinger.com/products/14/9/">Ligand &amp; Structure-Based Descriptors</a></li>
-<li><a href="http://www.schrodinger.com/products/14/10/">LigPrep</a></li>
-<li><a href="http://www.schrodinger.com/products/14/11/">MacroModel</a></li>
-<li><a href="http://www.schrodinger.com/products/14/12/">Maestro</a></li>
-<li><a href="http://www.schrodinger.com/products/14/30/">Maestro Elements</a></li>
-<li><a href="http://www.schrodinger.com/products/14/13/">Phase</a></li>
-<li><a href="http://www.schrodinger.com/products/14/14/">Prime</a></li>
-<li><a href="http://www.schrodinger.com/products/14/15/">PrimeX</a></li>
-<li><a href="http://www.schrodinger.com/products/14/16/">Protein Preparation Wizard</a></li>
-<li><a href="http://www.schrodinger.com/products/14/25/">PyMOL</a></li>
-<li><a href="http://www.schrodinger.com/products/14/17/">QikProp</a></li>
-<li><a href="http://www.schrodinger.com/products/14/18/">QM-Polarized Ligand Docking</a></li>
-<li><a href="http://www.schrodinger.com/products/14/19/">QSite</a></li>
-<li><a href="http://www.schrodinger.com/products/14/20/">SiteMap</a></li>
-<li><a href="http://www.schrodinger.com/products/14/21/">Strike</a></li>
+<li class="products_giude"><a href="http://www.schrodinger.com/productsguide/"><span>P r o d u c t s<span class="normal">&nbsp;</span>G u i d e</span></a></li>
+<li><a href="http://www.schrodinger.com/products/14/23/">C a n v a s</a></li>
+<li><a href="http://www.schrodinger.com/products/14/2/">C o m b i G l i d e</a></li>
+<li><a href="http://www.schrodinger.com/products/14/26/">C o n f G e n</a></li>
+<li><a href="http://www.schrodinger.com/products/14/32/">C o r e<span class="normal">&nbsp;</span>H o p p i n g</a></li>
+<li><a href="http://www.schrodinger.com/products/14/3/">D e s m o n d</a></li>
+<li><a href="http://www.schrodinger.com/products/14/4/">E p i k</a></li>
+<li><a href="http://www.schrodinger.com/products/14/5/">G l i d e</a></li>
+<li><a href="http://www.schrodinger.com/products/14/6/">I n d u c e d<span class="normal">&nbsp;</span>F i t</a></li>
+<li><a href="http://www.schrodinger.com/products/14/7/">J a g u a r</a></li>
+<li><a href="http://www.schrodinger.com/products/14/8/">K N I M E<span class="normal">&nbsp;</span>E x t e n s i o n s</a></li>
+<li><a href="http://www.schrodinger.com/products/14/1/">L i a i s o n</a></li>
+<li><a href="http://www.schrodinger.com/products/14/9/">L i g a n d<span class="normal">&nbsp;</span>&amp;<span class="normal">&nbsp;</span>S t r u c t u r e - B a s e d<span class="normal">&nbsp;</span>D e s c r i p t o r s</a></li>
+<li><a href="http://www.schrodinger.com/products/14/10/">L i g P r e p</a></li>
+<li><a href="http://www.schrodinger.com/products/14/11/">M a c r o M o d e l</a></li>
+<li><a href="http://www.schrodinger.com/products/14/12/">M a e s t r o</a></li>
+<li><a href="http://www.schrodinger.com/products/14/30/">M a e s t r o<span class="normal">&nbsp;</span>E l e m e n t s</a></li>
+<li><a href="http://www.schrodinger.com/products/14/13/">P h a s e</a></li>
+<li><a href="http://www.schrodinger.com/products/14/14/">P r i m e</a></li>
+<li><a href="http://www.schrodinger.com/products/14/15/">P r i m e X</a></li>
+<li><a href="http://www.schrodinger.com/products/14/16/">P r o t e i n<span class="normal">&nbsp;</span>P r e p a r a t i o n<span class="normal">&nbsp;</span>W i z a r d</a></li>
+<li><a href="http://www.schrodinger.com/products/14/25/">P y M O L</a></li>
+<li><a href="http://www.schrodinger.com/products/14/17/">Q i k P r o p</a></li>
+<li><a href="http://www.schrodinger.com/products/14/18/">Q M - P o l a r i z e d<span class="normal">&nbsp;</span>L i g a n d<span class="normal">&nbsp;</span>D o c k i n g</a></li>
+<li><a href="http://www.schrodinger.com/products/14/19/">Q S i t e</a></li>
+<li><a href="http://www.schrodinger.com/products/14/33/">S e u r a t</a></li>
+<li><a href="http://www.schrodinger.com/products/14/20/">S i t e M a p</a></li>
+<li><a href="http://www.schrodinger.com/products/14/21/">S t r i k e</a></li>
 
                                         </ul>
                                         </li>
-                                        <li class="m_bot">&nbsp;</li>
+                                        <li class="m_bot"><span class="m_bot_r">&nbsp;</span></li>
                                     </ul>
                                 </li>  
                                 <li class="item5">
@@ -866,14 +874,13 @@ function show_seminar(id)
                                     	<li class="menuitem_bg">
                                         <ul class="menuitem_inner">
 
-<li><a href="http://www.schrodinger.com/events/">Events</a></li>
-<li><a href="http://www.schrodinger.com/news/">News</a></li>
-<li><a href="http://www.schrodinger.com/newsletter/">Newsletters</a></li>
-<li><a href="http://www.schrodinger.com/archives/">Archives</a></li>
+<li><a href="http://www.schrodinger.com/events/">E v e n t s</a></li>
+<li><a href="http://www.schrodinger.com/news/">N e w s</a></li>
+<li><a href="http://www.schrodinger.com/newsletter/">N e w s l e t t e r s</a></li>
 
                                         </ul>
                                         </li>
-                                        <li class="m_bot">&nbsp;</li>
+                                        <li class="m_bot"><span class="m_bot_r">&nbsp;</span></li>
                                     </ul> 
                                 </li>  
                                 <li class="item6">
@@ -883,20 +890,23 @@ function show_seminar(id)
                                     	<li class="menuitem_bg">
                                         <ul class="menuitem_inner">
 
-<li><a href="http://www.schrodinger.com/downloadcenter/">Downloads</a></li>
-<li><a href="http://www.schrodinger.com/scriptcenter/">Script Center</a></li>
-<li><a href="http://www.schrodinger.com/knimeworkflows/">KNIME Workflows</a></li>
-<li><a href="http://www.schrodinger.com/kb/">Knowledge Base</a></li>
-<li><a href="http://www.schrodinger.com/supportcenter/">Support</a></li>
-<li><a href="http://www.schrodinger.com/seminarcenter/">Seminars</a></li>
-<li><a href="http://www.schrodinger.com/salescenter/">Sales</a></li>
-<li><a href="http://www.schrodinger.com/logon/">Log On</a></li>
-<li><a href="http://www.schrodinger.com/requestlogon/">Request Logon</a></li>
+<li><a href="http://www.schrodinger.com/downloadcenter/">D o w n l o a d s</a></li>
+<li><a href="http://www.schrodinger.com/scriptcenter/">S c r i p t<span class="normal">&nbsp;</span>C e n t e r</a></li>
+<li><a href="http://www.schrodinger.com/citations/">C i t a t i o n s</a></li>
+<li><a href="http://www.schrodinger.com/knimeworkflows/">K N I M E<span class="normal">&nbsp;</span>W o r k f l o w s</a></li>
+<li><a href="http://www.schrodinger.com/kb/">K n o w l e d g e<span class="normal">&nbsp;</span>B a s e</a></li>
+<li><a href="http://www.schrodinger.com/licensing/">L i c e n s i n g</a></li>
+<li><a href="http://www.schrodinger.com/pythonapi/">P y t h o n<span class="normal">&nbsp;</span>A P I</a></li>
+<li><a href="http://www.schrodinger.com/supportcenter/">S u p p o r t</a></li>
+<li><a href="http://www.schrodinger.com/seminarcenter/">S e m i n a r s</a></li>
+<li><a href="http://www.schrodinger.com/salescenter/">S a l e s</a></li>
+<li><a href="http://www.schrodinger.com/requestlogon/">R e q u e s t<span class="normal">&nbsp;</span>L o g o n</a></li>
+<li><a href="http://www.schrodinger.com/logon/">L o g<span class="normal">&nbsp;</span>O n</a></li>
 
 
                                         </ul>
                                         </li>
-                                        <li class="m_bot">&nbsp;</li>
+                                        <li class="m_bot"><span class="m_bot_r">&nbsp;</span></li>
                                     </ul>
                                 </li> 
                             </ul>
@@ -905,7 +915,11 @@ function show_seminar(id)
 
 
 
-                    <img src="http://www.schrodinger.com/upload/pages/im-0000010.jpg" alt="About Schrodinger">
+                    <img src="http://www.schrodinger.com/upload/pages/im-0000082.jpg" alt="About Schrodinger">
+
+
+
+
                 </div><!-- finish header --> 
 
                 
@@ -915,7 +929,7 @@ function show_seminar(id)
 
                     <div class="top_links">
 
-                                          	<a href="http://www.schrodinger.com/">Home</a> &gt; 
+                                          	<a href="http://www.schrodinger.com/">Home</a>  
                         <a href="http://www.schrodinger.com/policy/" class="active">Privacy Policy</a>
                     </div>
 
@@ -998,7 +1012,7 @@ PagesNum = 1;
                         	</div>   
 
 
-                            <a id="backtotop_left" href="#" target="_top" class="back_to_top" title="BACK TO TOP" style="display:none;">BACK TO TOP</a>
+                            <a id="backtotop_left" href="#" target="_top" title="" style="display:none;">&nbsp;</a>
 
 
                         </td>
@@ -1016,7 +1030,7 @@ PagesNum = 1;
                 <div class="footer">
                 	<div class="footer_links">
 
-                    	Copyright © 2005-2010 Schrödinger, LLC
+                    	Copyright © 2005-2011 Schrödinger, LLC
 &nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.schrodinger.com/termsofuse/">Terms of Use</a>
 &nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.schrodinger.com/policy/" class="active">Privacy Policy</a>
 
@@ -1031,6 +1045,16 @@ PagesNum = 1;
 
 
 
+
+<script type="text/javascript">
+    /* <![CDATA[ */
+    document.write (
+       '<img src="http://contact.schrodinger.com/acton/bn/1250/visitor.gif?ts='+
+       new Date().getTime()+
+       '&ref='+escape(document.referrer) + '">'
+       );
+    /* ]]> */
+</script><img src="http://contact.schrodinger.com/acton/bn/1250/visitor.gif?ts=1580517010681&amp;ref=">
 
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
