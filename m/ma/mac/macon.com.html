@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the macon.com privacy policy that was archived on 2010-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101231045457id_/http%3A//www.macon.com/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the macon.com privacy policy that was archived on 2011-06-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110613003935id_/http%3A//www.macon.com/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
  
@@ -72,6 +72,12 @@ var gomez=gomez?gomez:{};gomez.h3=function(d, s){for(var p in s){d[p]=s[p];}retu
 	*/
 	miAppControler.prototype.commenting = 1;
 
+	/*
+	 2 = display static coupon ad
+	*/
+	miAppControler.prototype.findnsave = 1;
+  miAppControler.prototype.dealsaver = 1;
+
 var pageInfo = {'version':1.0};
 pageInfo.section = {};
 pageInfo.section.id = 781;
@@ -136,6 +142,39 @@ function displayEmailForm() {
 }
 
 </script>
+<script type="text/javascript">
+      function toggleDiv()
+      {
+        if (document.getElementById("hideshow").style.display == "block")
+        {
+          document.getElementById("hideshow").style.display = "none";
+        }
+        else
+        {
+          document.getElementById("hideshow").style.display = "block";
+        }
+      }
+</script>
+
+<script type="text/javascript">
+//<[CDATA[
+$(document).ready(function() {
+	$.getJSON("http://findnsave.macon.com/api/groupon.json?callback=?", function(json) {GrouponMain(json)});
+    });
+	
+	function GrouponMain(data) {
+    
+		//alert('JSON Data: ' + data.result.deal.id);
+   	 	//console.log(data);
+    	$('.fns_td_wrap .groupon_deal_title').html(data.result.deal.announcementTitle);
+    	$('.fns_td_wrap .bestPrice').html(data.result.deal.bestPrice);
+    	$('.fns_td_wrap .bestValue').html(data.result.deal.offerValue+' Value<br>Save '+ data.result.deal.offerDiscountPercent);
+    	$('.fns_td_wrap .sidebarimage').attr('src',data.result.deal.sidebarImageUrl);
+	};
+
+//]]>
+</script>
+
  
 
 	
@@ -147,8 +186,8 @@ function displayEmailForm() {
 			
 
 
-    <script src="http://www.macon.com/static/js/insite_conf.js" type="text/javascript"></script>
-<script src="/reg_js/verify_access.js" type="text/javascript"></script>
+    <script src="http://media.macon.com/static/js/insite_conf.js" type="text/javascript"></script>
+<script src="http://www.macon.com/reg_js/verify_access.js" type="text/javascript"></script>
 
 
 		
@@ -165,6 +204,7 @@ function displayEmailForm() {
 		
 		
 
+                <link type="text/css" media="screen" rel="stylesheet" href="http://static.mcclatchyinteractive.com/creative/fns/widgets/coupons.css">
 		<link type="text/css" rel="stylesheet" href="http://media.macon.com/static/styles/thickbox.css">
 		<link type="text/css" rel="stylesheet" href="http://media.macon.com/static/styles/theme3.css">
 		<link type="text/css" rel="stylesheet" href="http://media.macon.com/static/styles/tabs3.css">
@@ -363,6 +403,7 @@ if( typeof( miyahoo ) != "undefined"){
 <noscript><a href="http://ad.doubleclick.net/jump/macon.news/privacy_policy;c2=legal;c3=privacy_policy;c4=privacy_policy_homepage;!category=privacy_policy;;template=channel;pos=top;group=728x90;sz=728x90;ord='+_krdDartOrd+'?" target="_blank"><img src="http://ad.doubleclick.net/ad/macon.news/privacy_policy;c2=legal;c3=privacy_policy;c4=privacy_policy_homepage;!category=privacy_policy;;template=channel;pos=top;group=728x90;sz=728x90;ord='+_krdDartOrd+'?" border="0" ></a></noscript>
 </div>
  
+
 <div class="topYahoo950">	
  
 
@@ -375,6 +416,7 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_1"
         </div>
     
  </div>
+
  
 
 
@@ -398,7 +440,7 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_2"
 			<a href="/classifieds/real_estate/rentals/">Apartments</a> | 
 			<a href="/classifieds/">Classifieds</a> | 
 <a href="http://www.legacy.com/obituaries/macon/">Obituaries</a> | 
-			<a href="http://www.legacy.com/macon/celebrations.asp">Celebrations</a> | 
+			<a href="http://www.legacy.com/macon/celebrations.asp">Weddings</a> | 
 			<a href="http://newspaperads.macon.com">Newspaper ads</a> | 
 			<a href="http://www.macon.com/placead">Place an ad</a>
 		</div>
@@ -460,7 +502,7 @@ else
     rurl_qs = ";goto="+loc 
 }
 document.write('<span id="nonmember"><strong><a href="/static/insite/login.html?' + rurl_qs + '">Login</a></strong> | <strong><a href="/reg-bin/int.cgi?mode=register">Register</a></strong></span>')
-</script><span id="nonmember"><strong><a href="/static/insite/login.html?;goto=https://web.archive.org/web/20101231045457id_/http://www.macon.com/privacy_policy/">Login</a></strong> | <strong><a href="/reg-bin/int.cgi?mode=register">Register</a></strong></span>
+</script><span id="nonmember"><strong><a href="/static/insite/login.html?;goto=https://web.archive.org/web/20110613003935id_/http://www.macon.com/privacy_policy/">Login</a></strong> | <strong><a href="/reg-bin/int.cgi?mode=register">Register</a></strong></span>
 <span id="member">
     <strong><a href="/reg-bin/tint.cgi?mode=logout">Logout</a></strong> | <strong><a href="/reg-bin/tint.cgi?mode=edit">Member Center</a></strong>
 </span>
@@ -482,7 +524,7 @@ document.write('<span id="nonmember"><strong><a href="/static/insite/login.html?
 
 	<div id="sitesearch" class="block">
 		<div id="search_box_wrapper">
-			<form action="http://pd.macon.com/sp?aff=1100" method="GET" name="miSearchForm">
+			<form action="/search_results" method="GET" name="miSearchForm">
 				<div id="web_search">
 					<input name="aff" type="radio" value="1100" id="search_site" class="radio" checked="true">
 					<label for="search_site" class="search_label_news">News</label>
@@ -498,8 +540,8 @@ document.write('<span id="nonmember"><strong><a href="/static/insite/login.html?
 
 				<div class="search_box_input">
                                    <div id="searchInputContainer">
-					<input type="text" size="60" name="keywords" class="search_input">
-                                       <input class="button" type="submit" name="submit" value="Search">
+					<input type="text" size="60" name="q" class="search_input">
+                                       <input class="button" type="submit" value="Search">
                                    </div>
 				</div>
 			</form>
@@ -572,11 +614,13 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_3"
 <ul class="nav">
 	<li class="current"><a href="#">Most visited</a>
 		<ul>
-			<li><a href="http://www.macon.com/contact_us"><b>Contact us</b></a></li>
+			<li><a href="http://findnsave.macon.com"><img src="http://media.macon.com/static/findnsave/fns5.jpg"></a></li>
+			<!-- <li><a href="http://www.macon.com/best">Best of the Best 2011</a></li> -->
+			<li><a href="http://www.macon.com/contact_us">Contact us</a></li>
 			<li><a href="/classified-ads/">Classifieds</a></li>
 			<li><a href="http://events.macon.com/">Calendar</a></li>
 			<li><a href="/jobs/">Jobs</a></li>
-			<li><a href="/local/">Local news</a></li>
+			<!-- <li><a href="/local/">Local news</a></li> -->
 			<li><a href="http://www.macon.com/mobilesite">Mobile</a></li>
 			<li><a href="/popular/">Popular</a></li>
 			<li><a href="http://www.legacy.com/obituaries/macon/">Obituaries</a></li>
@@ -642,16 +686,17 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_3"
 			<li><a href="/celebrities/">Celebrities</a></li>
 			<li><a href="/comics/">Comics &amp; Games</a></li>
 			<li><a href="/horoscopes/">Horoscopes</a></li>
+			<li><a href="/ballard/">Mark Ballard</a></li>
 			<li><a href="/movies/front/index.html">Movies</a></li>
 			<li><a href="/music/">Music</a></li>
 			<li><a href="/entertainment/">Out &amp; About</a></li>
 			<li><a href="/restaurants/">Restaurant Reviews</a></li>
 			<li><a href="/television/">Television</a></li>
 			<li><a href="/movies/theater/index.html">Theaters &amp; Showtimes</a></li>
-			<li><a href="/wires/">Wires</a></li>
 		</ul>
 	</li>
-	<li><a href="/living/">Life &amp; Leisure</a>
+
+<!--	<li><a href="/living/">Life</a>
 		<ul>
 			<li><a href="http://www.legacy.com/macon/celebrations.asp">Anniversaries</a></li>
 			<li><a href="/family/">Family</a></li>
@@ -664,26 +709,29 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_3"
 			<li><a href="http://www.gadzoo.com/macon/pets.aspx">Pets</a></li>
 			<li><a href="/living/religion/">Religion</a></li>
 			<li><a href="/teens/">Teens</a></li>
-			<li><a href="http://www.legacy.com/macon/celebrations.asp">Weddings &amp; Engagements</a></li>
+			<li><a href="http://www.legacy.com/macon/celebrations.asp">Weddings</a></li>
 		</ul>
 	</li>
+
 	<li><a href="#">Share</a>
 		<ul>
 			<li><a href="/blogs/">Blogs</a></li>
 			<li><a href="/contact_us/">Contact us</a></li>
 			<li><a href="/forums/">Discussion Boards</a></li>
 			<li><a href="http://moms.macon.com/">Moms.macon.com</a></li>
-			<li><a href="http://videos.macon.com/vmix_hosted_apps/p/grid?all=1&amp;class_id=2">Your Photos</a></li>
-			<li><a href="http://videos.macon.com/vmix_hosted_apps/p/grid?class_id=1&amp;genre=1931">Your Video</a></li>
+			<li><a href="http://videos.macon.com/vmix_hosted_apps/p/grid?all=1&class_id=2">Your Photos</a></li>
+			<li><a href="http://videos.macon.com/vmix_hosted_apps/p/grid?class_id=1&genre=1931">Your Video</a></li>
 			<li><a href="http://videos.macon.com/vmix_hosted_apps/p/upload/">Upload photos/video</a></li>
 			<li><a href="/feedback/">Website feedback</a></li>
 		</ul>
 	</li>
+-->
+
 	<li><a href="/classified-ads/">Classifieds</a>
 		<ul>
 			<li><a href="/classifieds/real_estate/rentals/">Apartments</a></li>
 			<li><a href="/cars/">Cars</a></li>
-			<li><a href="http://www.legacy.com/macon/celebrations.asp">Celebrations</a></li>
+			<li><a href="http://www.legacy.com/macon/celebrations.asp">Weddings</a></li>
 			<li><a href="/classifieds/real_estate/">Real Estate</a></li>
 			<li><a href="/jobs/">Jobs</a></li>
 			<li><a href="http://buyit.macon.com">Legals/Notices</a></li>
@@ -691,7 +739,6 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_3"
 			<li><a href="http://www.macon.com/placead">Place an ad</a></li>
 			<li><a href="http://www.legacy.com/obituaries/macon/">Obituaries</a></li>
 			<li><a href="http://www.macon.com/adperfect/category/Pets">Pets</a></li>
-			<li><a href="http://www.legacy.com/macon/celebrations.asp">Weddings &amp; Engagements</a></li>
 		</ul>
 	</li>
 	<li><a href="/contact_us/">The Telegraph</a>
@@ -710,9 +757,32 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_3"
 		</ul>
 	</li>
 
+        <li id="nav_ad_wrap" class="classNav">
+
+<!-- START /shared/ads/nav_ad.comp -->
+
+<script type="text/javascript" language="JavaScript1.1">
+if(typeof(miyahoo) == "undefined" || miyahoo.ads[mi_live_or_preview].dart.enabled){
+_krdDartInc++;
+document.write('<script type="text/javascript" language="JavaScript1.1" src="http://ad.doubleclick.net/adj/macon.news/privacy_policy;c2=legal;c3=privacy_policy;c4=privacy_policy_homepage;template=channel;!category=privacy_policy;;pos=1;group=cube;sz=100x25;tile='+_krdDartInc+';ord='+_krdDartOrd+'?"><\/script>');
+}
+</script>
+
+<noscript>
+<a href="http://ad.doubleclick.net/jump/macon.news/privacy_policy;c2=legal;c3=privacy_policy;c4=privacy_policy_homepage;template=channel;!category=privacy_policy;;pos=1;group=cube;sz=100x25;ord='+_krdDartOrd+'?" target="_blank">
+<img src="http://ad.doubleclick.net/ad/macon.news/privacy_policy;c2=legal;c3=privacy_policy;c4=privacy_policy_homepage;template=channel;!category=privacy_policy;;pos=1;group=cube;sz=100x25;ord='+_krdDartOrd+'?" width="71" height="26" border="0" ></a>
+</noscript>
+
+
+<!-- END /shared/ads/nav_ad.comp -->
+
+
+</li>
+	<li class="classNav"><a href="http://findnsave.macon.com"><img src="http://media.macon.com/static/findnsave/fns4.png"></a></li>
 	<li class="classNav"><a href="http://www.macon.com/placead">Place an ad</a></li>
 	<li class="classNav"><a href="/rss/">RSS feeds</a></li>
 	<li class="classNav"><a href="https://subscribetelegraph.com/standard/">Subscribe</a></li>
+
 
 </ul>
 
@@ -775,6 +845,8 @@ if( typeof( miyahoo ) != "undefined"){
 	<!-- no heading -->
 
             
+
+
 <div class="static">
 <h1>Privacy Policy</h1>
 <h5>Effective Date: 09-25-09</h5>
@@ -806,7 +878,7 @@ if( typeof( miyahoo ) != "undefined"){
 
 <p>We use services provided by Yahoo! to display advertising on Macon.com, and we may use cookies in conjunction with displaying those ads.  Please refer to Yahoo!'s privacy policy at <a href="http://privacy.yahoo.com/">http://privacy.yahoo.com/</a> for further information concerning Yahoo!'s use of cookies.</p>
 
-<p>We participate in Tacoda Audience Networks (TAN), through which Tacoda Systems, a division of AOL, places a cookie on the user's computer to gather non-personal information about the user, such as the user's browsing behavior and demographic information. This non-personal information is aggregated into audience segments, allowing Tacoda to display relevant advertising to users who visit the websites of other members of TAN. Users' personally identifiable information is not shared with Tacoda or with third-party members of TAN. For more information about how Tacoda uses the information collected by these cookies, please review Tacoda's privacy policy at <a href="http://www.platform-a.com/privacy-policy/tacoda">http://www.platform-a.com/privacy-policy/tacoda</a>. We are not responsible for any actions or policies of Tacoda or of any third-party members of TAN.</p>
+<p>We participate in Tacoda Audience Networks (TAN), through which Tacoda Systems, a division of AOL, places a cookie on the user's computer to gather non-personal information about the user, such as the user's browsing behavior and demographic information. This non-personal information is aggregated into audience segments, allowing Tacoda to display relevant advertising to users who visit the websites of other members of TAN. Users' personally identifiable information is not shared with Tacoda or with third-party members of TAN. For more information about how Tacoda uses the information collected by these cookies, please review Tacoda's privacy policy at <a href="http://www.platform-a.com/privacy/tacoda">http://www.platform-a.com/privacy/tacoda</a>. We are not responsible for any actions or policies of Tacoda or of any third-party members of TAN.</p>
 
 <p>In addition, advertisers may elect to use other advertising companies to serve their ads on Macon.com, and advertisers themselves may also place a cookie on a user's computer. We do not have access to the cookies or their contents that are placed by advertisers or by third-party advertising companies. We, therefore, recommend that you read the privacy policy of each and every Web site you visit or with which you interact.</p>
 
@@ -880,6 +952,8 @@ if( typeof( miyahoo ) != "undefined"){
 <h3>Contact Information</h3>
 <p>If you have any questions or comments about our policies, we may be reached at Macon.com, 120 Broadway, Macon, Georgia, at 478-744-4200 or at <a href="mailto:feedback@macon.com">feedback@macon.com</a>.</p>
 </div>
+
+
             <div id="content_match">
                   <script type="text/javascript">
 <!--
@@ -1317,30 +1391,7 @@ $(document).ready( function(){
 
 </div><!-- #careerbuilder_v2 -->
 
-
-
-	<div id="ap_video">
-		<div class="title">AP News Video</div>
-
-		<script type="text/javascript" src="http://img.video.ap.org/p/j/apovn.js "></script>
-		<div id="flashcontent">
-			<script type="text/javascript"> 
-				var ap = new 
-				SWFObject("http://img.video.ap.org/p/s/sm_hz_3thumb_scroll.swf", "sm_hz_3thumb_scroll", "280", "100", "7"); 
-				ap.addParam("quality", "best"); 
-				ap.addParam("bgcolor", "#FFFFFF"); 
-				ap.addParam('AllowScriptAccess', 'always'); 
-				ap.addVariable("cat", "Breaking"); 
-				ap.addVariable("pid", "GAMAT"); 
-				ap.addVariable("fontcolor", "0x336699"); 
-				ap.write("flashcontent"); 
-			</script>
-		</div>
-	</div>
-
-
-
-<!-- DC_headlines widget | SSI -->
+ <!-- DC_headlines widget | SSI -->
 <div id="MI_DC_headlines">
 	<h1><img src="http://media.mcclatchydc.com/static/images/icon_mcclatchy.gif" alt="McClatchy"> news.mcclatchy.com headlines</h1>
 <ul>
@@ -1349,20 +1400,20 @@ $(document).ready( function(){
         
         
     
-                                      <li><a href="http://news.mcclatchy.com/2010/12/30/106009/s-korea-says-north-is-boosting.html" target="_blank">South Korea says North is boosting special forces</a></li>         
+                                      <li><a href="http://news.mcclatchy.com/2011/06/10/115609/with-partition-looming-sudans.html" target="_blank">Violence is rising as date for Sudan's partition draws near</a></li>         
     
         
         
         
     
-                                      <li><a href="http://news.mcclatchy.com/2010/12/30/106002/farewell-to-2010-bring-on-2011.html" target="_blank">Farewell to 2010 - bring on 2011!</a></li>         
+                                      <li><a href="http://news.mcclatchy.com/2011/06/11/115646/alaska-emails-showcase-palins.html" target="_blank">Alaska emails showcase Palin's political ambition</a></li>         
     
 
         
         
         
     
-                                       <li><a href="http://news.mcclatchy.com/2010/12/30/106027/2-charged-in-prison-killing-of.html" target="_blank">2 charged in prison killing of Mechelle Linehan case figure</a></li>                   <li><a href="http://news.mcclatchy.com/2010/12/30/106026/wachovia-accused-of-looking-other.html" target="_blank">Wachovia accused of looking other way in Florida Ponzi scheme</a></li>                   <li><a href="http://news.mcclatchy.com/2010/12/30/106025/tom-vandergriff-mayor-who-brought.html" target="_blank">Tom Vandergriff, mayor who brought Texas Rangers to Arlington, dies</a></li>         
+                                       <li><a href="http://news.mcclatchy.com/2011/06/12/115655/its-official-a-filipino-teenager.html" target="_blank">It's official: A Filipino teenager is world's shortest man</a></li>                   <li><a href="http://news.mcclatchy.com/2011/06/12/115652/fight-over-boeings-sc-factory.html" target="_blank">Fight over Boeing's S.C. factory erupts onto national stage</a></li>                   <li><a href="http://news.mcclatchy.com/2011/06/12/115651/applauding-the-airliner-on-which.html" target="_blank">Applauding the airliner on which lives changed</a></li>         
      
 </ul>
   <span id="MI_DC_more">» <a target="_blank" href="http://news.mcclatchy.com">More headlines</a></span>
@@ -1402,25 +1453,25 @@ $(document).ready( function(){
 		<div style="display: block;" id="mi_tabs_pop_Popular" class="tabBody ui-tabs-panel">
 			<ul class="stack">
 			
-<li><a href="http://www.macon.com/2010/12/30/1393507/brown-associate-attacks-telegraph.html#storylink=omni_popular">Telegraph photographer attacked after news conference</a></li>
+<li><a href="http://www.macon.com/2011/06/12/1593353/built-on-quicksand-flaws-lack.html#storylink=omni_popular">Music hall doomed almost from start</a></li>
 
-<li><a href="http://www.macon.com/2010/12/29/1392809/ga-democrat-makes-klan-comment.html#storylink=omni_popular">Macon lawmaker denies referencing Ku Klux Klan</a></li>
+<li><a href="http://www.macon.com/2011/06/12/1592656/activity-breeds-activity-along.html#storylink=omni_popular">Along Bass Road, economic activity looking up</a></li>
 
-<li><a href="http://www.macon.com/2010/12/30/1392968/sen-browns-comments-stir-talk.html#storylink=omni_popular">Sen. Brown’s comments stir talk of Ku Klux Klan</a></li>
+<li><a href="http://www.macon.com/2011/06/12/1593347/dragon-boat-festival-held-at-lake.html#storylink=omni_popular">Dragon Boat Festival held at Lake Tobesofkee</a></li>
 
-<li><a href="http://www.macon.com/2010/12/30/1393280/athens-ga-man-killed-outside-home.html#storylink=omni_popular">Athens man killed outside home</a></li>
+<li><a href="http://www.macon.com/2011/06/12/1593343/juliette-marks-20-years-since.html#storylink=omni_popular">Juliette marks 20 years since  ‘Fried Green Tomatoes’</a></li>
 
-<li><a href="http://www.macon.com/2010/12/30/1392983/whats-open-whats-not-for-new-years.html#storylink=omni_popular">What’s open, what’s not for New Years</a></li>
+<li><a href="http://www.macon.com/2011/06/12/1593623/first-photos-of-gabrielle-giffords.html#storylink=omni_popular">First photos of Giffords released since shooting</a></li>
 
-<li><a href="http://www.macon.com/2010/12/30/1392639/in-season-of-giving-ncaa-says.html#storylink=omni_popular">In season of giving, NCAA says players can only receive</a></li>
+<li><a href="http://www.macon.com/2011/06/12/1593351/not-a-day-for-laughing.html#storylink=omni_popular">Local record store owner laments passing of music hall</a></li>
 
-<li><a href="http://www.macon.com/2010/12/29/1391809/houston-drug-dog-killed-on-christmas.html#storylink=omni_popular">Police dog killed on Christmas; deputy's relative alleged shooter</a></li>
+<li><a href="http://www.macon.com/2011/06/11/1593447/4-injured-in-dessert-fire-at-florida.html#storylink=omni_popular">4 injured in dessert fire at Florida restaurant</a></li>
 
-<li><a href="http://www.macon.com/2010/12/30/1392967/retiring-judge-reflects-on-time.html#storylink=omni_popular">Retiring Judge Sizemore reflects on time on bench</a></li>
+<li><a href="http://www.macon.com/2011/06/09/1590553/traffic-accident-causes-congestion.html#storylink=omni_popular">Centerville police sergeant killed in WR motorcycle crash</a></li>
 
-<li><a href="http://www.macon.com/2010/12/30/1392640/this-is-viewpoints-for-thursday.html#storylink=omni_popular">This is Viewpoints for Thursday, Dec. 30, 2010</a></li>
+<li><a href="http://www.macon.com/2011/06/11/1592866/authorities-ga-man-stole-50k-from.html#storylink=omni_popular">Authorities: Ga. man stole $50K from post office</a></li>
 
-<li><a href="http://www.macon.com/2010/12/30/1392768/lott-to-see-more-action-for-bulldogs.html#storylink=omni_popular">Lott to see more action for Bulldogs</a></li>
+<li><a href="http://www.macon.com/2011/06/12/1593349/restaurant-and-sports-bar-proposed.html#storylink=omni_popular">P&amp;Z: Restaurant and sports bar proposed for Broadway</a></li>
 
 
 			</ul>
@@ -1472,7 +1523,7 @@ $(document).ready( function(){
 
     </div> 
     <div id="mi_footer">
-        
+         
 
 
 
@@ -1600,6 +1651,18 @@ $(document).ready( function(){
     <li><a href="http://www.mcclatchy.com/">About the McClatchy Company</a></li>
   </ul>
 </div>
+
+ <a name="footanchor"></a><!-- /shared/footer.comp -->
+
+
+
+
+
+
+
+
+
+
     </div> </div> 
  
 <!-- script src="http://media.macon.com/static/scripts/footer.agg.js" type="text/javascript"></script -->
