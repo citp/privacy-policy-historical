@@ -1,71 +1,255 @@
-> *The following text is extracted and transformed from the gamerevolution.com privacy policy that was archived on 2008-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080421102256id_/http%3A//www.gamerevolution.com/static/index.php%3Fsection%3Dlegal%26page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamerevolution.com privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612223742id_/http%3A//www.craveonline.com/privacy.php%3Fsite%3Dwww.gamerevolution.com) for the most accurate reproduction.*
 
-# Game Revolution Privacy Policy
+# Privacy Policy | CraveOnline
 
-**Crave Online's Commitment To Privacy**   
-This policy governs the domain gamerevolution.com.  
-If you catch one of our interns peeking in your windows, that's an entirely separate situation.  
-That sort of thing would be handled by their parents. Or the authorities.   
-Crave is firmly committed to protecting the privacy of Internet users and fostering consumer confidence in the Internet, Internet advertising and direct marketing. We invite all users to [contact us](http://www.craveonline.com/contact/) with any questions or concerns.  
-**What Crave Does**   
-We operate a content portal that combines the best of entertainment and other interests in one place. We sell advertisements throughout out site on behalf of advertisers.  
-Crave Promotions: We develop customized online promotional campaigns such as sweepstakes and other incentive-style marketing campaigns.  
-Crave Mail: Crave operates an e-mail newsletter that it sends to users that have registered to receive it.  
-**How Crave Products and Services Enhance User Privacy and Protect the Property of Advertisers and Web Publishers**   
-Crave serves ads throughout our site and those of our partners. The cookies that are employed across our represented websites serve a quantitative function and are not designed to collect and store data profiles on users. They are used to:  
-• Report to advertisers and Web site clients the estimated total reach of an ad campaign;  
-• Report the frequency with which an ad was shown to a user, and other measurement statistics;  
-• Ensure that an advertisement displayed to a user corresponds to the correct click-through destination;  
-• Deliver a series of advertisements in the proper sequence;   
-• Limit the number of times a browser is delivered the same advertisement;  
-• Login registered Crave user accounts  
-• Log anonymous visitors to our site for the purposes of identifying whether a visitor is a unique.   
-Destruction timetable:  
-user cookies ("users_uid") expire one year after the last time the user successfully logged in to their Crave account.  
-anonymous cookies ("tracking_anonid") expire 6 months from the date of the last visit to Crave.  
-Crave does not use any of the data collected via cookies for purposes other than those described above, nor do we merge personally identifiable information with non-personally identifiable information, or otherwise parse, sort, gather, or aggregate user data for use elsewhere. Non-PII is collected by Crave through session cookies that terminate when the browser is closed.  
-Crave Online Media thus has no reason to offer users the choice to "opt-out" of anything that pertains to ad serving.  
-**What User Information Is Collected by Email and Promotions**   
-Crave Online Media collects two types personally identifiable information only through its Email and Promotions business lines.  
-**Personally Identifiable Information ("PII")**   
-PII is personal information classified as personal to the online consumer, such as name, address, phone number and email address. PII also includes other personal information such as birthdate, zip code, gender, or lifestyle information.  
-Crave's Email and Promotions divisions collect PII on an opt-in basis only. Crave Online Media will not collect any PII unless that user voluntarily provides it to us. If you do not want your personal information collected online, please do not submit it to surveys, promotions, sweepstakes, or subscriptions.PII is collected by Crave Online Media when online users respond to a survey and provide it, when they register for an email newsletter, register for a product or service online, or enter a sweepstakes promoted by Crave, its subsidiaries or its partners. Selected partners of Crave Online Media will share information with Crave Online Media about only their online consumers who have consented to the sharing of their information with third parties.  
-Furthermore, each individual in the Crave Email database has answered positively to an "opt in" question, or they have voluntarily filled out an Internet survey card to receive email solicitation about products of interest. Crave Online Media and its partners communicate with these users frequently to verify their "opt in" status. Crave Online Media also provides users with an explicit opportunity to opt-out every time an email promotion is sent.  
-In all instances, prior to providing PII information to Crave's Email or Promotions divisions, each online user is given meaningful notice regarding the collection practice and a choice regarding the dissemination of such information. All users are informed about how Crave Online Media and its partners may use such information, including whether it will be shared with marketing partners or combined with other information available to Crave. Users will always be offered the choice not to provide PII or not to have such PII shared with others. Crave Online Media will not share this PII information with any partner company if the user indicates on the registration form the preference to limit the use of such information.  
-Crave Online Media does not collect personal medical information or credit information, or information related to children, except in compliance with the Children's Online Privacy Protection Act.  
-**How Crave Online Media Uses Collected Information**   
-Personally Identifiable Information (PII) is used by Crave Online Media in several ways, as follows:  
-Promotions and Email divisions use the PII to deliver permission-based direct marketing messages based on a user's expressed interests.  
-If an online user voluntarily submits its email address to Crave, or one of its partners, online, he or she may receive periodic emails from Crave Online Media with information on new services or products being offered by our company or by one of our partners.  
-Opting Out From Crave's List of Permissioned Email Addresses  
-If you are a member of our database and do not wish to receive such mailings, send an email to [info@craveonline.com](mailto:info@craveonline.com).  
-**With Whom Collected Information Is Shared**   
-Crave Online Media shares the collected information only as set forth below. Crave Online Media does not sell or transfer the ownership of its PII or Non-PII. Crave Online Media provides its partners only with access to such information on a limited basis. Before any access is shared with a partner, Crave Online Media ensures that such partner publishes and adheres to strict privacy principles regarding the use of such information. Any such use is disclosed to the online user at the time such user submits information.  
-Personally Identifiable Information (PII): in cases where an online consumer has consented to have their information shared with third parties, Crave Online Media will make access to the information available to selected third party partners in accordance with clearly stated guidelines.  
-Non-Personally Identifiable Information (Non-PII): Access to Non-PII is shared, in aggregated format, with Crave's Web site and advertiser clients who use the aggregated data to determine the reach, effectiveness, future campaign plans, and success of their advertising campaigns. At no time is this non-PII merged with PII. It is useless to any and all parties except as quantifiable data to our advertisers and clients who wish to measure the effectiveness of their campaigns.   
-Opting Out From GNM Promotions Database  
-An online user may request removal of his or her PII information from GNM's Promotions database by sending an email to [info@craveonline.com](mailto:info@craveonline.com).  
-Any consumer who prefers not to provide this information online, can send regular mail to the following address:
+www.craveonline.com (the "Site")
 
-Privacy @ Crave Online  
-5140 W Goldleaf Circle, 1st Floor  
-Los Angeles, CA 90056 
+This privacy policy was last modified on June 11, 2009.
 
-Once a request to opt-out has been received, Crave Online Media will deliver a confirming email message to the user that the user's PII has been successfully opted out of our database. If you do not receive this confirmatory email, then please contact us to ensure that your request was received and processed.   
-**Security and Access to Collected Information**   
-Collection from reliable sources: Crave Online Media collects information only from reliable third party partners that have strict and clearly stated privacy and data collection practices in place.  
-Protection of collected data: Crave Online Media maintains strict data security systems that ensure specific information will not be made available to any unauthorized person. All collected information is stored on our Web server or database but is not publicly accessible from our Web site. Crave Online Media uses a password protected security system to control access to information stored about its users. Crave Online Media also provides stringent physical security and only provides access to authorized personal.  
-Dissemination restrictions: Crave Online Media will provide access to collected PII data only to those partners that adhere to fair information practices for lawful, non-discriminatory purposes.  
-**Disclosure and Changes to Our Privacy Policy**   
-Crave Online Media makes available all of its information practices at [www.craveonline.com/privacy](http://www.craveonline.com/privacy/). In addition, Crave Online Media provides users with the option to contact it at [info@craveonline.com](mailto:info@craveonline.com) with any further questions or concerns.  
-All email or media companies that provide Crave Online Media with opt-in email names are required to post their privacy policies clearly.  
-**Third Party Ad Servers**   
-Crave Online Media and some of our advertisers use third-party advertising companies to serve their ads on our sites. These third-party advertising companies employ cookie technology to measure ad effectiveness. To do so, these companies may use information about your visits to our sites and other Web sites. Unless you are otherwise notified, these advertising companies do not use names, addresses, email addresses, or telephone numbers, and they do not link any online actions or cookies to an identifiable person. Use of their cookies is subject to their own privacy policies.  
-These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit their respective web sites.  
-**Linked Web Sites**   
-This Web site contains links to other Web sites. Crave Online Media is not responsible for the privacy practices or the content of such Web sites. Crave Online Media encourages you to read the privacy statements of these linked Web sites, as their privacy policy may differ from ours.  
-**For More Information**   
-For more information about Crave, please contact us at [info@craveonline.com](mailto:info@craveonline.com).
+CraveOnline Media, LLC ("Company," "we," or "us") knows that you care how information about you is used and shared.  This Privacy Policy explains what information of yours will be collected by Company when you use the Site and related services (the “Service”), how the information will be used, and how you can control the collection, correction and/or deletion of information.   We will not use or share your information with anyone except as described in this Privacy Policy.
 
-  
+##  Information We Collect
 
+User-Provided Information:  You provide us information about yourself, such as your name and e-mail address, when you register with the Service.  If you correspond with us by email, we may retain the content of your email messages, your email address and our responses.
+
+Cookies Information:  When you visit the Site, we may send one or more cookies - a small text file containing a string of alphanumeric characters - to your computer that uniquely identifies your browser and lets Company help you log in faster and enhance your navigation through the site.  A cookie does not collect personal information about you.  Company uses both session cookies and persistent cookies. A persistent cookie remains on your hard drive after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser’s directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the Service may not function properly if the ability to accept cookies is disabled.
+
+Log File Information:  Log file information is automatically reported by your browser each time you access a web page.  When you register with or view our site, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol ("IP") address, browser type, referring / exit pages and URLs, number of clicks, domain names, landing pages, pages viewed, and other such information.
+
+Clear Gifs Information:  When you use the Service, we may employ clear gifs (a.k.a. Web Beacons) which are used to track the online usage patterns of our users anonymously.  No personally identifiable information from your Company account is collected using these clear gifs.  In addition, we may also use clear gifs in HTML-based emails sent to our users to track which emails are opened by recipients.  The information is used to enable more accurate reporting, improve the effectiveness of our marketing, and make us better for our users.
+
+##  How We Use Your Information
+
+We use the personal information you submit to operate, maintain, and provide to you the features and functionality of the Service.
+
+Any personal information or content that you voluntarily disclose for posting to the Service (for instance, in User Content you post) becomes available to the public.  If you remove User Content, copies may remain viewable in cached and archived pages or if other users have copied or stored your User Content.  
+By providing Company your email address you consent to our using the email address to send you Service-related notices, including any notices required by law, in lieu of communication by postal mail. We may also use your email address to send you other messages, such as newsletters, changes to features of the Service, or special offers.  If you do not want to receive such email messages, you may opt out by sending an email message to legal@atomiconline.com with the word "No email" in the subject field.  Opting out may prevent you from receiving email messages regarding updates, improvements, or offers.  
+
+Company may use certain information about you and/or your User Content without identifying you as an individual to third parties. We do this for purposes such as analyzing how the Service is used, diagnosing service or technical problems, maintaining security, and personalizing advertisements and promotions.
+
+Company reserves the right, but has no obligation, to monitor the User Content you post on the site. Company has the right to remove any such information or material for any reason or no reason, including without limitation, if in its sole opinion, such information or material violates, or may violate, any applicable law or our Terms of Use Agreement or to protect or defend its rights or property or those of any third party.  Company also reserves the right to remove information upon the request of any third party.
+
+We use cookies, clear gifs, and log file information to: (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the site; (b) provide custom, personalized content and information; (c) monitor the effectiveness of our service; (d) monitor aggregate metrics such as total number of visitors and traffic; (e) diagnose or fix technology problems reported by our users or engineers that are associated with the IP addresses controlled by a specific web company or ISP; and (f) help you efficiently access your information after you sign in.
+
+##  How We Share Your Information
+
+Personally Identifiable Information: Company will not rent or sell your personally identifiable information to others.  Company may share your personally identifiable information with third parties solely for the purpose of providing services to you.  If we do this, such third parties’ use of your information will be bound by this Privacy Policy.  We may store personal information in locations outside the direct control of Company (for instance, on servers or databases co-located with hosting providers).
+
+As we develop our business, we may buy or sell assets or business offerings. Customer, email, and visitor information is generally one of the transferred business assets in these types of transactions. We may also transfer such information in the course of corporate divestitures, mergers, or dissolution.    
+Except as otherwise described in this privacy statement, Company will not disclose personal information to any third party unless required to do so by law or subpoena or if we believe that such action is necessary to (a) conform to the law, comply with legal process served on us or our affiliates, or investigate, prevent, or take action regarding suspected or actual illegal activities; (b) to enforce our Terms of Use, take precautions against liability, to investigate and defend ourselves against any third-party claims or allegations, to assist government enforcement agencies, or to protect the security or integrity of our site; and (c) to exercise or protect the rights, property, or personal safety of Company, our users or others.
+
+Non-Personally Identifiable Information:  We may share non-personally identifiable information (such as anonymous usage data, referring/exit pages and URLs, platform types, number of clicks, etc.) with interested third parties to help them understand the usage patterns for certain Company services.
+
+Company allows other companies, called third-party ad servers or ad networks, to serve advertisements on the Company site. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on Company. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or Web Beacons) to measure the effectiveness of their advertisements and to personalize the advertising content.
+
+Company does not provide any personally identifiable information to these third-party ad servers or ad networks without your consent. However, please note that if an advertiser asks Company to show an advertisement to a certain audience and you respond to that advertisement, the advertiser or ad-server may conclude that you fit the description of the audience they are trying to reach.
+
+You should consult the respective privacy policies of these third-party ad servers or ad networks. The Company privacy policy does not apply to, and we cannot control the activities of, such advertisers.
+
+##  How We Protect Your Information
+
+Company uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to Company and you do so at your own risk. Once we receive your transmission of information, Company makes commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.    
+To protect your privacy and security, we take reasonable steps (such as requesting a unique password) to verify your identity before granting you access to your account. You are responsible for maintaining the secrecy of your unique password and account information, and for controlling access to your email communications from Company, at all times.
+
+##  Compromise of Personal Information
+
+In the event that personal information is compromised as a result of a breach of security, Company will promptly notify those persons whose personal information has been compromised, in accordance with the notification procedures set forth in this Privacy Policy, or as otherwise required by applicable law.
+
+##  Your Choices About Your Information
+
+You may, of course, decline to submit personally identifiable information through Company, in which case Company may not be able to provide certain services to you.
+
+##  Children's Privacy
+
+Protecting the privacy of young children is especially important.  For that reason, Company does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register. If you are under 13, please do not send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 is allowed to provide any personal information to or on Company. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at legal@atomiconline.com.
+
+##  Links to Other Web Sites
+
+We are not responsible for the practices employed by Web sites linked to or from our Web site nor the information or content contained therein.  Please remember that when you use a link to go from our Web site to another Web site, our Privacy Policy is no longer in effect. Your browsing and interaction on any other Web site, including those that have a link on our Web site, is subject to that Web site's own rules and policies. Please read over those rules and policies before proceeding.
+
+##  Third Party Advertisements and Technologies
+
+We use third-party advertising companies to serve advertisements when you visit our Site as is explained in detail in our Site’s Terms of Use.  The third-party advertising technology that we use on this Site uses information derived from your visits to this site to target advertising within this Site.  In addition, our advertisers may use other third-party advertising technology to target advertising on this Site and other websites.  In the course of advertisements being served to you, a unique third-party cookie or cookies may be placed your browser.  In addition, we use web beacons, provided by third-party advertising companies, to help manage and optimize our online advertising.  Web beacons enable us to recognize a browser’s cookie when a browser visits this site, to learn which banner ads bring users to our Web site and to deliver more relevant advertising.  You may “opt-out” of certain third party programs by following the instructions located at http://www.doubleclick.com/privacy/index.aspx.
+
+##  Notification Procedures
+
+It is our policy to provide notifications, whether such notifications are required by law or are for marketing or other business related purposes, to you via email notice, written or hard copy notice, or through conspicuous posting of such notice on our Website page, as determined by Company in its sole discretion. We reserve the right to determine the form and means of providing notifications to you, provided that you may opt out of certain means of notification as described in this Privacy Policy.
+
+##  Changes to Our Privacy Policy
+
+If we change our privacy policies and procedures, we will post those changes on our website to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it.  Changes to this Privacy Policy are effective when they are posted on this page.
+
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this Web site, please contact us at [legal@atomiconline.com](mailto:legal@atomiconline.com), or send mail to:
+
+CraveOnline Media, LLC  
+4859 W. Slauson Ave., Suite 549  
+Los Angeles, CA  90056  
+Attn:  General Counsel
+
+www.craveonline.com (the "Site")
+
+This privacy policy was last modified on June 11, 2009.
+
+CraveOnline Media, LLC ("Company," "we," or "us") knows that you care how information about you is used and shared.  This Privacy Policy explains what information of yours will be collected by Company when you use the Site and related services (the “Service”), how the information will be used, and how you can control the collection, correction and/or deletion of information.   We will not use or share your information with anyone except as described in this Privacy Policy.
+
+##  Information We Collect
+
+User-Provided Information:  You provide us information about yourself, such as your name and e-mail address, when you register with the Service.  If you correspond with us by email, we may retain the content of your email messages, your email address and our responses.
+
+Cookies Information:  When you visit the Site, we may send one or more cookies - a small text file containing a string of alphanumeric characters - to your computer that uniquely identifies your browser and lets Company help you log in faster and enhance your navigation through the site.  A cookie does not collect personal information about you.  Company uses both session cookies and persistent cookies. A persistent cookie remains on your hard drive after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser’s directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the Service may not function properly if the ability to accept cookies is disabled.
+
+Log File Information:  Log file information is automatically reported by your browser each time you access a web page.  When you register with or view our site, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol ("IP") address, browser type, referring / exit pages and URLs, number of clicks, domain names, landing pages, pages viewed, and other such information.
+
+Clear Gifs Information:  When you use the Service, we may employ clear gifs (a.k.a. Web Beacons) which are used to track the online usage patterns of our users anonymously.  No personally identifiable information from your Company account is collected using these clear gifs.  In addition, we may also use clear gifs in HTML-based emails sent to our users to track which emails are opened by recipients.  The information is used to enable more accurate reporting, improve the effectiveness of our marketing, and make us better for our users.
+
+##  How We Use Your Information
+
+We use the personal information you submit to operate, maintain, and provide to you the features and functionality of the Service.
+
+Any personal information or content that you voluntarily disclose for posting to the Service (for instance, in User Content you post) becomes available to the public.  If you remove User Content, copies may remain viewable in cached and archived pages or if other users have copied or stored your User Content.  
+By providing Company your email address you consent to our using the email address to send you Service-related notices, including any notices required by law, in lieu of communication by postal mail. We may also use your email address to send you other messages, such as newsletters, changes to features of the Service, or special offers.  If you do not want to receive such email messages, you may opt out by sending an email message to [legal@atomiconline.com](mailto:legal@atomiconline.com) with the word "No email" in the subject field.  Opting out may prevent you from receiving email messages regarding updates, improvements, or offers.  
+
+Company may use certain information about you and/or your User Content without identifying you as an individual to third parties. We do this for purposes such as analyzing how the Service is used, diagnosing service or technical problems, maintaining security, and personalizing advertisements and promotions.
+
+Company reserves the right, but has no obligation, to monitor the User Content you post on the site. Company has the right to remove any such information or material for any reason or no reason, including without limitation, if in its sole opinion, such information or material violates, or may violate, any applicable law or our Terms of Use Agreement or to protect or defend its rights or property or those of any third party.  Company also reserves the right to remove information upon the request of any third party.
+
+We use cookies, clear gifs, and log file information to: (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the site; (b) provide custom, personalized content and information; (c) monitor the effectiveness of our service; (d) monitor aggregate metrics such as total number of visitors and traffic; (e) diagnose or fix technology problems reported by our users or engineers that are associated with the IP addresses controlled by a specific web company or ISP; and (f) help you efficiently access your information after you sign in.
+
+##  How We Share Your Information
+
+Personally Identifiable Information: Company will not rent or sell your personally identifiable information to others.  Company may share your personally identifiable information with third parties solely for the purpose of providing services to you.  If we do this, such third parties’ use of your information will be bound by this Privacy Policy.  We may store personal information in locations outside the direct control of Company (for instance, on servers or databases co-located with hosting providers).
+
+As we develop our business, we may buy or sell assets or business offerings. Customer, email, and visitor information is generally one of the transferred business assets in these types of transactions. We may also transfer such information in the course of corporate divestitures, mergers, or dissolution.    
+Except as otherwise described in this privacy statement, Company will not disclose personal information to any third party unless required to do so by law or subpoena or if we believe that such action is necessary to (a) conform to the law, comply with legal process served on us or our affiliates, or investigate, prevent, or take action regarding suspected or actual illegal activities; (b) to enforce our Terms of Use, take precautions against liability, to investigate and defend ourselves against any third-party claims or allegations, to assist government enforcement agencies, or to protect the security or integrity of our site; and (c) to exercise or protect the rights, property, or personal safety of Company, our users or others.
+
+Non-Personally Identifiable Information:  We may share non-personally identifiable information (such as anonymous usage data, referring/exit pages and URLs, platform types, number of clicks, etc.) with interested third parties to help them understand the usage patterns for certain Company services.
+
+Company allows other companies, called third-party ad servers or ad networks, to serve advertisements on the Company site. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on Company. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or Web Beacons) to measure the effectiveness of their advertisements and to personalize the advertising content.
+
+Company does not provide any personally identifiable information to these third-party ad servers or ad networks without your consent. However, please note that if an advertiser asks Company to show an advertisement to a certain audience and you respond to that advertisement, the advertiser or ad-server may conclude that you fit the description of the audience they are trying to reach.
+
+You should consult the respective privacy policies of these third-party ad servers or ad networks. The Company privacy policy does not apply to, and we cannot control the activities of, such advertisers.
+
+##  How We Protect Your Information
+
+Company uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to Company and you do so at your own risk. Once we receive your transmission of information, Company makes commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.    
+To protect your privacy and security, we take reasonable steps (such as requesting a unique password) to verify your identity before granting you access to your account. You are responsible for maintaining the secrecy of your unique password and account information, and for controlling access to your email communications from Company, at all times.
+
+##  Compromise of Personal Information
+
+In the event that personal information is compromised as a result of a breach of security, Company will promptly notify those persons whose personal information has been compromised, in accordance with the notification procedures set forth in this Privacy Policy, or as otherwise required by applicable law.
+
+##  Your Choices About Your Information
+
+You may, of course, decline to submit personally identifiable information through Company, in which case Company may not be able to provide certain services to you.
+
+##  Children's Privacy
+
+Protecting the privacy of young children is especially important.  For that reason, Company does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register. If you are under 13, please do not send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 is allowed to provide any personal information to or on Company. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at [legal@atomiconline.com](mailto:legal@atomiconline.com) .
+
+##  Links to Other Web Sites
+
+We are not responsible for the practices employed by Web sites linked to or from our Web site nor the information or content contained therein.  Please remember that when you use a link to go from our Web site to another Web site, our Privacy Policy is no longer in effect. Your browsing and interaction on any other Web site, including those that have a link on our Web site, is subject to that Web site's own rules and policies. Please read over those rules and policies before proceeding.
+
+##  Third Party Advertisements and Technologies
+
+We use third-party advertising companies to serve advertisements when you visit our Site as is explained in detail in our Site’s Terms of Use.  The third-party advertising technology that we use on this Site uses information derived from your visits to this site to target advertising within this Site.  In addition, our advertisers may use other third-party advertising technology to target advertising on this Site and other websites.  In the course of advertisements being served to you, a unique third-party cookie or cookies may be placed your browser.  In addition, we use web beacons, provided by third-party advertising companies, to help manage and optimize our online advertising.  Web beacons enable us to recognize a browser’s cookie when a browser visits this site, to learn which banner ads bring users to our Web site and to deliver more relevant advertising.  You may “opt-out” of certain third party programs by following the instructions located at http://www.doubleclick.com/privacy/index.aspx.
+
+##  Notification Procedures
+
+It is our policy to provide notifications, whether such notifications are required by law or are for marketing or other business related purposes, to you via email notice, written or hard copy notice, or through conspicuous posting of such notice on our Website page, as determined by Company in its sole discretion. We reserve the right to determine the form and means of providing notifications to you, provided that you may opt out of certain means of notification as described in this Privacy Policy.
+
+##  Changes to Our Privacy Policy
+
+If we change our privacy policies and procedures, we will post those changes on our website to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it.  Changes to this Privacy Policy are effective when they are posted on this page.
+
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this Web site, please contact us at [legal@atomiconline.com](mailto:legal@atomiconline.com) , or send mail to:
+
+CraveOnline Media, LLC  
+4859 W. Slauson Ave., Suite 549  
+Los Angeles, CA  90056  
+Attn:  General Counsel
+
+www.craveonline.com (the "Site")
+
+This privacy policy was last modified on June 11, 2009.
+
+CraveOnline Media, LLC ("Company," "we," or "us") knows that you care how information about you is used and shared.  This Privacy Policy explains what information of yours will be collected by Company when you use the Site and related services (the “Service”), how the information will be used, and how you can control the collection, correction and/or deletion of information.   We will not use or share your information with anyone except as described in this Privacy Policy.
+
+##  Information We Collect
+
+User-Provided Information:  You provide us information about yourself, such as your name and e-mail address, when you register with the Service.  If you correspond with us by email, we may retain the content of your email messages, your email address and our responses.
+
+Cookies Information:  When you visit the Site, we may send one or more cookies - a small text file containing a string of alphanumeric characters - to your computer that uniquely identifies your browser and lets Company help you log in faster and enhance your navigation through the site.  A cookie does not collect personal information about you.  Company uses both session cookies and persistent cookies. A persistent cookie remains on your hard drive after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser’s directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the Service may not function properly if the ability to accept cookies is disabled.
+
+Log File Information:  Log file information is automatically reported by your browser each time you access a web page.  When you register with or view our site, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol ("IP") address, browser type, referring / exit pages and URLs, number of clicks, domain names, landing pages, pages viewed, and other such information.
+
+Clear Gifs Information:  When you use the Service, we may employ clear gifs (a.k.a. Web Beacons) which are used to track the online usage patterns of our users anonymously.  No personally identifiable information from your Company account is collected using these clear gifs.  In addition, we may also use clear gifs in HTML-based emails sent to our users to track which emails are opened by recipients.  The information is used to enable more accurate reporting, improve the effectiveness of our marketing, and make us better for our users.
+
+##  How We Use Your Information
+
+We use the personal information you submit to operate, maintain, and provide to you the features and functionality of the Service.
+
+Any personal information or content that you voluntarily disclose for posting to the Service (for instance, in User Content you post) becomes available to the public.  If you remove User Content, copies may remain viewable in cached and archived pages or if other users have copied or stored your User Content.  
+By providing Company your email address you consent to our using the email address to send you Service-related notices, including any notices required by law, in lieu of communication by postal mail. We may also use your email address to send you other messages, such as newsletters, changes to features of the Service, or special offers.  If you do not want to receive such email messages, you may opt out by sending an email message to [legal@atomiconline.com](mailto:legal@atomiconline.com) with the word "No email" in the subject field.  Opting out may prevent you from receiving email messages regarding updates, improvements, or offers.  
+
+Company may use certain information about you and/or your User Content without identifying you as an individual to third parties. We do this for purposes such as analyzing how the Service is used, diagnosing service or technical problems, maintaining security, and personalizing advertisements and promotions.
+
+Company reserves the right, but has no obligation, to monitor the User Content you post on the site. Company has the right to remove any such information or material for any reason or no reason, including without limitation, if in its sole opinion, such information or material violates, or may violate, any applicable law or our Terms of Use Agreement or to protect or defend its rights or property or those of any third party.  Company also reserves the right to remove information upon the request of any third party.
+
+We use cookies, clear gifs, and log file information to: (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the site; (b) provide custom, personalized content and information; (c) monitor the effectiveness of our service; (d) monitor aggregate metrics such as total number of visitors and traffic; (e) diagnose or fix technology problems reported by our users or engineers that are associated with the IP addresses controlled by a specific web company or ISP; and (f) help you efficiently access your information after you sign in.
+
+##  How We Share Your Information
+
+Personally Identifiable Information: Company will not rent or sell your personally identifiable information to others.  Company may share your personally identifiable information with third parties solely for the purpose of providing services to you.  If we do this, such third parties’ use of your information will be bound by this Privacy Policy.  We may store personal information in locations outside the direct control of Company (for instance, on servers or databases co-located with hosting providers).
+
+As we develop our business, we may buy or sell assets or business offerings. Customer, email, and visitor information is generally one of the transferred business assets in these types of transactions. We may also transfer such information in the course of corporate divestitures, mergers, or dissolution.    
+Except as otherwise described in this privacy statement, Company will not disclose personal information to any third party unless required to do so by law or subpoena or if we believe that such action is necessary to (a) conform to the law, comply with legal process served on us or our affiliates, or investigate, prevent, or take action regarding suspected or actual illegal activities; (b) to enforce our Terms of Use, take precautions against liability, to investigate and defend ourselves against any third-party claims or allegations, to assist government enforcement agencies, or to protect the security or integrity of our site; and (c) to exercise or protect the rights, property, or personal safety of Company, our users or others.
+
+Non-Personally Identifiable Information:  We may share non-personally identifiable information (such as anonymous usage data, referring/exit pages and URLs, platform types, number of clicks, etc.) with interested third parties to help them understand the usage patterns for certain Company services.
+
+Company allows other companies, called third-party ad servers or ad networks, to serve advertisements on the Company site. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on Company. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or Web Beacons) to measure the effectiveness of their advertisements and to personalize the advertising content.
+
+Company does not provide any personally identifiable information to these third-party ad servers or ad networks without your consent. However, please note that if an advertiser asks Company to show an advertisement to a certain audience and you respond to that advertisement, the advertiser or ad-server may conclude that you fit the description of the audience they are trying to reach.
+
+You should consult the respective privacy policies of these third-party ad servers or ad networks. The Company privacy policy does not apply to, and we cannot control the activities of, such advertisers.
+
+##  How We Protect Your Information
+
+Company uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to Company and you do so at your own risk. Once we receive your transmission of information, Company makes commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.    
+To protect your privacy and security, we take reasonable steps (such as requesting a unique password) to verify your identity before granting you access to your account. You are responsible for maintaining the secrecy of your unique password and account information, and for controlling access to your email communications from Company, at all times.
+
+##  Compromise of Personal Information
+
+In the event that personal information is compromised as a result of a breach of security, Company will promptly notify those persons whose personal information has been compromised, in accordance with the notification procedures set forth in this Privacy Policy, or as otherwise required by applicable law.
+
+##  Your Choices About Your Information
+
+You may, of course, decline to submit personally identifiable information through Company, in which case Company may not be able to provide certain services to you.
+
+##  Children's Privacy
+
+Protecting the privacy of young children is especially important.  For that reason, Company does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register. If you are under 13, please do not send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 is allowed to provide any personal information to or on Company. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at [legal@atomiconline.com](mailto:legal@atomiconline.com) .
+
+##  Links to Other Web Sites
+
+We are not responsible for the practices employed by Web sites linked to or from our Web site nor the information or content contained therein.  Please remember that when you use a link to go from our Web site to another Web site, our Privacy Policy is no longer in effect. Your browsing and interaction on any other Web site, including those that have a link on our Web site, is subject to that Web site's own rules and policies. Please read over those rules and policies before proceeding.
+
+##  Third Party Advertisements and Technologies
+
+We use third-party advertising companies to serve advertisements when you visit our Site as is explained in detail in our Site’s Terms of Use.  The third-party advertising technology that we use on this Site uses information derived from your visits to this site to target advertising within this Site.  In addition, our advertisers may use other third-party advertising technology to target advertising on this Site and other websites.  In the course of advertisements being served to you, a unique third-party cookie or cookies may be placed your browser.  In addition, we use web beacons, provided by third-party advertising companies, to help manage and optimize our online advertising.  Web beacons enable us to recognize a browser’s cookie when a browser visits this site, to learn which banner ads bring users to our Web site and to deliver more relevant advertising.  You may “opt-out” of certain third party programs by following the instructions located at http://www.doubleclick.com/privacy/index.aspx.
+
+##  Notification Procedures
+
+It is our policy to provide notifications, whether such notifications are required by law or are for marketing or other business related purposes, to you via email notice, written or hard copy notice, or through conspicuous posting of such notice on our Website page, as determined by Company in its sole discretion. We reserve the right to determine the form and means of providing notifications to you, provided that you may opt out of certain means of notification as described in this Privacy Policy.
+
+##  Changes to Our Privacy Policy
+
+If we change our privacy policies and procedures, we will post those changes on our website to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it.  Changes to this Privacy Policy are effective when they are posted on this page.
+
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this Web site, please contact us at [legal@atomiconline.com](mailto:legal@atomiconline.com) , or send mail to:
+
+CraveOnline Media, LLC  
+4859 W. Slauson Ave., Suite 549  
+Los Angeles, CA  90056  
+Attn:  General Counsel
