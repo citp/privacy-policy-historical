@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slideroom.com privacy policy that was archived on 2010-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100108103601id_/http%3A//slideroom.com/About_Us_Privacy_Policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slideroom.com privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612082044id_/http%3A//slideroom.com/About_Us_Privacy_Policy.shtml) for the most accurate reproduction.*
 
 # SlideRoom
 
@@ -36,4 +36,4 @@ This site may make chat rooms, forums, message boards, and/or news groups availa
 
 ### CONTACTING US
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us.](https://web.archive.org/web/20100108103601id_/http%3A//slideroom.com/About_Us_Contact_SlideRoom.shtml)
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us.](https://web.archive.org/web/20110612082044id_/http%3A//slideroom.com/About_Us_Contact_SlideRoom.shtml)
