@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wearesc.com privacy policy that was archived on 2010-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101109003314id_/http%3A//www.wearesc.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wearesc.com privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612223635id_/http%3A//www.wearesc.com/privacypolicy) for the most accurate reproduction.*
 
 # WeAreSC.com - USC Trojans Football, Basketball, and Recruiting
 
