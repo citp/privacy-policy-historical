@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fbi.gov privacy policy that was archived on 2010-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101007074621id_/http%3A//www.fbi.gov/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fbi.gov privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612193651id_/http%3A//www.fbi.gov/privacy_policy) for the most accurate reproduction.*
 
-# Federal Bureau of Investigation - Privay Policy
+# FBI — Privacy Policy
 
 **Introduction**
 
@@ -10,16 +10,11 @@ This website is provided as a public service by the Federal Bureau of Investigat
 
 If you visit our site to read or download information, such as career opportunities, press releases, etc., we automatically collect and store only the following information about you.
 
-  * The name of the domain (for example,"xcompany.com" if you use a private Internet access account, or "yourschool.edu" if you are connecting from a university's domain) and IP address (a number that is automatically assigned to your computer when you are using the Internet) from which you access our website; 
-
-  * The type of browser and operating system used to access our site; 
-
-  * The date and time you access our site; 
-
-  * The Internet address of the website from which you linked directly to our site; and 
-
-  * The pages you visit. 
-
+  * The name of the domain (for example,"xcompany.com" if you use a private Internet access account, or "yourschool.edu" if you are connecting from a university's domain) and IP address (a number that is automatically assigned to your computer when you are using the Internet) from which you access our website;
+  * The type of browser and operating system used to access our site;
+  * The date and time you access our site;
+  * The Internet address of the website from which you linked directly to our site; and
+  * The pages you visit.
 
 
 
@@ -27,7 +22,7 @@ This information is primarily collected for statistical analysis. This governmen
 
 **Information Collected from E-Mail**
 
-If you identify yourself by sending an e-mail containing personal information: You may volunteer to provide us personally-identifying information—for example, your mailing address—in an electronic mail message. Before you do so, you should know that the material you submit may be seen by various people. We may enter the information into a database, and we may share it with other government agencies. Also, e-mail is not necessarily secure against interception. If your communication is very sensitive or includes personal information, you may want to send it in by postal mail instead. Information collected in this manner may be used for responding to requests for information as well as other authorized purposes. 
+If you identify yourself by sending an e-mail containing personal information: You may volunteer to provide us personally-identifying information—for example, your mailing address—in an electronic mail message. Before you do so, you should know that the material you submit may be seen by various people. We may enter the information into a database, and we may share it with other government agencies. Also, e-mail is not necessarily secure against interception. If your communication is very sensitive or includes personal information, you may want to send it in by postal mail instead. Information collected in this manner may be used for responding to requests for information as well as other authorized purposes.
 
 **Security, Intrusion, and Detection**
 
@@ -43,6 +38,6 @@ All information provided by the FBI on this homepage is made available to provid
 
 **Disclaimer of Endorsement**
 
-Reference herein to any specific commercial products, processes, or services by trade name, trademark, manufacturer, or otherwise, does not constitute or imply its endorsement, recommendation, or favoring by the U.S. Government. 
+Reference herein to any specific commercial products, processes, or services by trade name, trademark, manufacturer, or otherwise, does not constitute or imply its endorsement, recommendation, or favoring by the U.S. Government.
 
-For more details, please read the [Privacy Policy of the Department of Justice](http://www.usdoj.gov/privacy-file.htm), which also applies to the FBI.
+For more details, please read the[ Privacy Policy of the Department of Justice](http://www.justice.gov/privacy-file.htm), which also applies to the FBI.
