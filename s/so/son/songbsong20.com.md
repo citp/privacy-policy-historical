@@ -1,0 +1,157 @@
+> *The following text is extracted and transformed from the songbsong20.com privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612132245id_/http%3A//www.cing.com/page/privacy_policy) for the most accurate reproduction.*
+
+# Cing.com - The hottest local spa, restaurant, bars, massage and other deals at 50%-100% off!
+
+Cing, LLC ("Cing", "we" or "us") is determined to protecting your online privacy. This Cing privacy policy (the "Privacy Policy") is intended to inform you of our policies and practices regarding the collection, use and disclosure of any information you submit to us through the Cing website (collectively, the "Website" located at [www.cing.com](http://www.cing.com/)). 
+
+**1.** **User Consent.**
+
+Please read this Privacy Policy carefully. By accessing or otherwise using the Website, you acknowledge that you have read, understand, and agree to be bound by the terms of this Privacy Policy and Cing's Terms of Use (available at http://www.cing.com/page/terms_conditions). 
+
+IF YOU DO NOT AGREE TO THESE TERMS, PLEASE EXIT THIS PAGE AND DO NOT ACCESS OR USE THE WEBSITE. 
+
+**2.** **Collection of Information.**
+
+**Personally Identifiable Information.**
+
+We generally collect any information voluntarily submitted by you ("Personally Identifiable Information") through Cing. This Personally Identifiable Information is what we use to specifically identify you and it includes your name, e-mail address, user ID, and other non-public information. For example, when you register for an account ("User Account") with Cing, make a purchase, post a review, send feedback, request information, or otherwise request or submit content through Cing ("Cing Activities"), we may ask you to provide certain Personally Identifiable Information such as your full name, mailing address, a valid email address, telephone number, date of birth and a password of your choice. If you place an order, we may also ask you to provide us with your credit card number, expiration date and authentication codes or related information. 
+
+Some information we ask you to provide is labeled as required while you may provide other information voluntarily. Engaging in a Cing Activity is voluntary, but if the requested mandatory information is not provided for a specific Cing Activity, you will not be permitted to participate in that activity. 
+
+When you sign up for, or win, any contests, sweepstakes, or other activities that we make available on Cing, we will collect the information designated along with such activity, which may include your contact information. If you choose to sign up to receive information about products or services that may be of interest to you, your email address and other related information will be collected in order for Cing to contact you. 
+
+We may also collect information about you and your friends who use Cing, from any social network you may have connected from, in order to provide you with a more personalized experience. For example, we may collect your user ID or profile information that you have permitted to be displayed through Cing in order to display you as a friend or in association with your profile and collections. 
+
+If you decide to use our referral service or buy a gift for someone other than yourself, we will ask for your friend's name and email address. Your friend will be sent a one-time email with the gift that you have purchased or an invitation to visit Cing. This information will be stored by Cing for the purpose of sending this email, sending the gift, and tracking the referral program. 
+
+We may receive Personally Identifiable Information about you from other sources with which you have registered, companies who we have partnered with, or other third parties. We may use this information with other Personal Information we have collected about you. 
+
+If you send an email to us, or provide us with any other feedback, we will collect your email address and the full content of your email, including attached files, and other information you provide. We may, with your consent, use and display your full name and email address when you send an email notification to a friend through Cing or the social network from which you have connected to Cing. We will use your email address to contact you on behalf of any of your friends or to provide you with notifications which you have requested to receive. 
+
+We may also use your Personally Identifiable Information to troubleshoot, resolve disputes, accomplish administrative tasks, contact you, enforce our agreements with you, comply with applicable law, and cooperate with law enforcement activities. 
+
+**Non-Personally Identifiable Information.**
+
+Non-Personally Identifiable Information is information that is collected that does not specifically identify you. As you use Cing, certain information may also be passively collected and stored on our or our service providers' server logs, including things like your Internet protocol ("IP") address, the Uniform Resource Locator ("URL") of the website you visited before coming to our Website, the URL of the website you visit after leaving our Website, the type of browser you are using, your location and information on which of the advertisements displayed on Cing you clicked on. This information will be used to customize your experience on Cing and make it a more personal experience. This Non-Personally Identifiable Information will also be used to troubleshoot, administer the Website, analyze trends, gather demographic information, comply with applicable law, and cooperate with law enforcement activities. We may also share this information with our authorized third parties to measure the overall effectiveness of our online advertising, content, and programming. 
+
+**3.** **Use of Information.**
+
+Generally, the Personally Identifiable Information you submit to us is used to provide you access to Cing, to improve Cing, to customize Cing, and to offer you additional information, opportunities, promotions and functionality from us, our partners or our advertisers at your request. We do share your content preferences and other information with the social network with which you have connected to Cing, along with those companies and persons you have asked us to share your information with. 
+
+Except as otherwise stated in this Privacy Policy, we do not sell, trade, rent, or otherwise share for marketing purposes your Personally Identifiable Information with other parties. 
+
+**Information Shared With Merchants.**
+
+We will automatically send to merchants ("Merchants") the email addresses of those customers who purchase one of their deals from Cing. There may be times when certain Merchants ask for certain other information about the Cing customers who purchase the offer provided on Cing. In such a case, we will provide the Merchant with some of your Personally Identifiable Information, but this information will only be provided to the Merchant who has requested for it for that specific offer. We disclaim any responsibility or liability for the actions of that specific Merchant. The Merchant will be informed that this information is to be used solely for communication purposes related to the specific promotion on Cing, but Cing will not claim responsibility for Merchant's actions. Merchant's actions are not in the control of Cing. 
+
+**Authorized Third Party Service Providers.**
+
+We may provide your Personally Identifiable Information to third party service providers ("Third Party Service Providers") who work on behalf of or with us to provide some of the services and features of Cing and to help us communicate with you. These Third Party Service Providers perform services such as sending email, analyzing data, providing marketing assistance, processing payments (including credit card payments), providing customer service, fulfilling orders, delivering packages, administering contests or sweepstakes, providing search results and links, and operating the Website. We may also collect personal information from individuals and companies ("Affiliates") with whom we have business relationships and may share your information with Service Providers to accomplish our administrative tasks. 
+
+We require our Third Party Service Providers to promise not to use your Personally Identifiable Information except as necessary to provide the relevant services to us. However, the use of your Personally Identifiable Information by Cing Merchants and Third Party Service Providers is governed by the privacy policies of such parties and is not subject to our control. 
+
+**Business Transfer.**
+
+In the event we go through a business transition such as a merger, acquisition by another company, or sale of all or a portion of our assets, you Personally Identifiable Information may be an asset which is transferred. You acknowledge and agree that such transfers may occur and are permitted by this Privacy Policy. However, the Personally Identifiable Information would still be subject to this Privacy Policy following the business transfer. 
+
+**Other.**
+
+We may disclose your Personally Identifiable Information if we believe that disclosure is necessary to: 
+
+a. Comply with relevant laws; 
+
+b. Comply with a judicial proceeding, court order, or legal process served on our Website; 
+
+c. Enforce or apply this Privacy Policy, our Website Terms and Conditions or other agreements; or 
+
+d. To protect and defend the rights, property or safety of our Website, its Users or other third parties. 
+
+We may also share some or all of your Personally Identifiable Information with Cing affiliated companies ("Affiliates") that are under a common control. If such information is shared with Affiliates, then the Affiliates are required to honor the terms of this Privacy Policy. 
+
+You hereby consent to us sharing your Personally Identifiable Information under the circumstances described herein. 
+
+We may disclose or share Non-Personally Identifiable Information with our partners, Affiliates, and any third party advertising companies ("Third Party Advertising Companies") we use. 
+
+We also use Third Party Service Providers to track and analyze Non-Personally Identifiable statistical information regarding your use in order for us to continue to make improvements to our Website. We may publish this information for promotional purposes or as a representative audience for any advertisers we use. This information is not Personally Identifiable. Rather, it is general information about the activities of our Website's users. This data is owned and used by us. 
+
+**4.** **Technology.**
+
+**Cookies.**
+
+Cing stores and uses cookies on your computer in order for us to customize your experience on the Cing Website. A cookie is a small text file the User's browser stores on the computer and it contains information about that User. Cookies are helpful because they help us identify who you are, save you time, and help identify your interests so we can provide you with a much more customized experience. Cookies also allow us to collect Non-Personally Identifiable Information from you. For example, we can determine which pages you visited and what links you clicked on. We may also use cookies to allow Third Party Advertising Companies to display advertisements on the Cing Website, who may also place separate cookies on your computer. We have no access or control over these cookies and this Privacy Policy does not cover the use of those cookies placed by any Advertiser. 
+
+You can change your browser settings to not accept cookies or to delete cookies. If you choose to disable cookies, some aspects of Cing may not work properly. ****
+
+**Remarketing.**
+
+Cing engages in remarketing to market the Cing across the web. This remarketing may be performed by Third Party Advertising Companies. These Third Party Advertising Companies use cookies to serve ads based on a user's prior visits to Cing's website. When a user visits our website, a cookie is dropped on the user. Users with this cookie may be targeted across advertising networks to receive relevant advertisements. The Third Party Advertising Companies may be a part of the Network Advertising Initiative ("NAI"). To find out more information about NAI, including how to opt-out of the program, visit: <http://www.networkadvertising.org/managing/opt_out.asp>. 
+
+**Google Analytics.**
+
+We use Google Analytics to gather statistics on our website. The information gathered by Google Analytics helps Cing understand how you interact with our website and we use this information to improve your experience on the Cing website. Google Analytics uses items such as cookies to collect data about how our visitors use the sites. According to the Google Analytics [Privacy Policy](http://www.google.com/intl/en/privacy/privacy-policy.html), Google Analytics will only use that cookie data for statistical analysis related to browsing on our website. Google Analytics Terms of Service also states that the data collected cannot be altered or retrieved by services from other domains or web sites. If you choose, you can opt out of the collection of the cookie information by disabling cookies in the preferences settings in your browser. For more information on Google Analytics, please visit the following links on Google's website: 
+
+<http://www.google.com/intl/en/analytics/privacyoverview.html>
+
+[ http://code.google.com/apis/analytics/docs/concepts/gaConceptsCookies.html ](http://code.google.com/apis/analytics/docs/concepts/gaConceptsCookies.html)
+
+**5.** **Your Choices.**
+
+There are two types of emails we may send you. Promotional emails ("Promotional Emails") are emails that advertise our products and services, including the products and services of our Advertisers and Affiliates. You may, at any time, elect to opt out of receiving these Promotional Emails by following the directions found in the Promotional Email, or by doing so through your User Account. 
+
+Even if you elect to opt out of receiving Promotional Emails, Cing will still send you administrative emails ("Administrative Emails"), which are emails that relate to your activity on the Cing Website, information about your User Account, requests, inquiries, notices, and other information regarding your transactions. 
+
+You always have a choice of whether or not to provide any information. It may, however, be required to provide certain information if you want access to a certain activity on the Website. 
+
+You have the right to request a copy of the Personally Identifiable Information that we hold about you. If you would like a copy of some or all of your Personally Identifiable Information, please contact us at [customerservice@cing.com](mailto:customerservice@cing.com). We may charge a reasonable fee for this service. 
+
+**6.** **Security.**
+
+We encrypt certain information (such as credit card information) using Secure Socket Layer (SSL) technology to maintain the safety of your Personally Identifiable Information as it is transmitted to us. 
+
+The Personally Identifiable Information you maintain in your User Account is protected by an encrypted password and your email address. It is recommended that you do not share your password with anyone. 
+
+We employ industry-standard security measures to protect data and seek to partner with companies who do the same, but we cannot guarantee the security of any information transmitted to or from the Website, and are not responsible for the actions of any third parties that may receive any such information. 
+
+**7.** **Updating Information.**
+
+You may change any of your profile information by editing it in your User Account settings page. We recommend you access and update your Personally Identifiable Information by logging into your account on the Cing Website. You may ask for any of this information to be removed or deleted. There is certain information, however, that you cannot have deleted, such as information regarding past transactions. Our information is periodically backed up, and you agree that some information may be stored in these backups which we cannot delete. 
+
+If you choose to store credit card information on the site, this is stored on a secure page and you may delete your credit card information at any time by doing so through your profile of your User Account. 
+
+**8.** **Third Party Sites.**
+
+Cing may contain links to other websites. This Privacy Policy applies solely to information collected by us through Cing and it does not apply to these third party websites. Other websites accessible through Cing have their own privacy policies, data collection, use and disclosure procedures. The links provided on Cing are for your convenience and we urge you to review the privacy policies of each website you decide to visit. We are not responsible for the policies or practices of third parties. 
+
+**9.** **Children.**
+
+Minors under the age of 18 are not permitted to use Cing, unless they have parental permission, supervision, and are over the age of 13. Children under the age of 13 are not permitted to use Cing. We do not intentionally collect or maintain Personally Identifiable Information from anyone under the age of 13. If we obtain knowledge that a user is under 13 years old, we will attempt to remove that user's Personally Identifiable Information from our database. For those over the age of 13, but not yet 18 years old, Personally Identifiable Information may be collected if that user has requested the permission of its parent or guardian to use Cing. 
+
+**10.** **Miscellaneous.**
+
+**Public Information.**
+
+Certain information you post or provide through Cing, such as your name, profile, comments, collections and reviews, may be shared with other uses and posted on publicly available portions of Cing, including without limitation, social media applications and other public forums in which you choose to participate. Keep in mind that any information, including Personally Identifiable Information, you choose to disclose in such public forums may be accessible by other consumers and companies and may appear on other websites or web searches, and therefore this information could be read, collected, and used by others. We have no control over who reads your postings or what other users may do with the information you voluntarily post. 
+
+If you provide us with any feedback, we may use and disclose such feedback for any purpose, provided we do not associate such feedback with your Personally Identifiable Information. The Personally Identifiable Information will be treated in accordance with this Privacy Policy. You hereby agree that any comments and any email you provide your feedback in becomes our property and that we may use feedback for marketing purposes or to add to or modify our services without paying any royalties or other compensation to you. 
+
+**Facebook Connect.**
+
+We have integrated the Cing Website with Facebook Connect. This allows you to log in to Cing with your Facebook account and interact with your friends through the options Facebook offers. A Cing User Account is not required to use Facebook Connect. If you are not registered on Cing and decide to log in with Facebook Connect, we will provide you the option to join Cing and register for a User Account. If you have a User Account with Cing and Facebook and are logged into both and click on "Login with Facebook" your profiles will merge if the email addresses match. If the email addresses do not match, you will be given the option to merge your accounts if you provide your valid Cing password. 
+
+If you are logged into your Cing User Account, but not Facebook account, and click on "Login with Facebook" you will have to enter your Facebook information to access your account. By proceeding you are acknowledge and agree to allow Cing to access your information and you are agreeing to the Facebook Terms of Use in your use of Cing. 
+
+With Facebook Connect, you will be able to automatically post recent activity back to Facebook. You can disable Facebook Connect at any time by logging into your User Account and changing the settings. 
+
+**11.** **Contact Information.**
+
+If you have any questions, comments, or concerns regarding our Privacy Policy, please contact us at: [customerservice@cing.com](mailto:customerservice@cing.com) or at our corporate address below: 
+
+Cing, LLC 
+
+322 S. Green Street, Suite 300 
+
+Chicago, IL 60607 
+
+**12.** **Changes to Privacy Policy.**
+
+This Privacy Policy is subject to revisions at our discretion. If we decide to change any of our Privacy Policy, we will post those changes to this privacy statement, the Cing home page, and any other places we deem appropriate. If we make material and substantial changes to this Privacy Policy, we will notify you here, by email, or by means of notice on the Cing home page. 
