@@ -1,23 +1,23 @@
-<!--The following is the downloaded HTML source of the hotels.nl privacy policy that was archived on 2010-12-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101229182406id_/http%3A//www.hotels.nl/service/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hotels.nl privacy policy that was archived on 2011-06-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110612111321id_/http%3A//www.hotels.nl/service/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:spry="http://ns.adobe.com/spry" xml:lang="en" lang="en" class="js"><head>
 	<meta http-equiv="content-type" content="text/html;charset=utf-8">
 	<meta http-equiv="X-UA-Compatible" content="ie=8;chrome=1">
 	<title>Privacy</title>
-	<meta name="keywords" content="amsterdam hotel,hotels,hotel,holland,the netherlands,amsterdam,lodging,amsterdam hotel,dutch hotels,hotel guide,nederland,niederlande,rotterdam,maastricht,utrecht"> 
+	<meta name="keywords" content="amsterdam hotel,hotels,hotel,holland,the netherlands,amsterdam,lodging,amsterdam hotel,dutch hotels,hotel guide,nederland,niederlande,rotterdam,maastricht,utrecht">
 	<meta name="description" content="Hotels.nl - Geen Boekingskosten en tot 75 procent korting op meer dan 450 hotels in Nederland">
 	<meta name="robots" content="index, follow">
 	<meta name="language" content="en">
     <script type="text/javascript">var fuel={start:(new Date()).valueOf()};document.documentElement.className='js';/* we have javascript enabled */</script>
-    	<link rel="stylesheet" href="http://scripts.hotels.nl/css/version:1.0.66/hotelsnl-combined.css" type="text/css">
+    	<link rel="stylesheet" href="http://scripts.hotels.nl/css/version:1.0.15/hotelsnl-combined.css" type="text/css">
 		<link rel="shortcut icon" href="http://media.hotels.nl/favicon.ico" type="image/x-icon">
     <link rel="apple-touch-icon" href="http://media.hotels.nl/iphoneicon.png">
 	    <!--[if IE 6]>
 	<script type="text/javascript" src="http://scripts.hotels.nl/js/png-fix.js" charset="utf-8"></script>
     <![endif]-->
 </head><body id="service">
-		    <div id="header">
+		<div id="header">
 	<ul class="service inline">
 		<li><a href="/service/faq/" rel="help">Customer service</a></li>
 		<li><a href="/service/organisation/">About Hotels.nl</a></li>
@@ -51,7 +51,7 @@
         	</ul>    
     
 	<div class="logo-phone clear">
-		<p>Book by telephone? Call us on +31 50 - 317 5510<em>(charges for international calls)</em></p>
+		<p>Book by telephone? Call us on +31 50 - 317 5510<em>(international charges)</em></p>
 		<a href="/indexen.html" rel="home"><img src="http://media.hotels.nl/website/banners/logo-hotels.gif" alt="Hotels.nl, no booking fees" height="28" width="186"></a>
 	</div>
     <h2 class="payoff">No Booking Fees</h2>
@@ -72,30 +72,35 @@
                 
             </ul>
 </div>
-<!-- Elke fieldset heeft een eigen breedte zodat het er bij het vertalen er nog steeds goed uit ziet -->
 <div class="search-header clear">
     <form id="frm-search" action="/cgi-bin/searchav.pl" method="get" accept-charset="utf-8" enctype="application/x-www-form-urlencoded">
     	<div class="set-bg-split">
             <div id="autosuggest">
                 <fieldset>
-                    <label for="search">Search:</label>
+                    <label for="search">Where are you going?</label>
                     <input type="text" name="destination" id="search" data-placeholder="City, Hotel, Landmark, Theme" value="City, Hotel, Landmark, Theme" tabindex="1">
+                    <span id="misspell"><span id="misspelled"></span></span>
+                    <input type="text" name="destination_complete" id="complete" value="" readonly="readonly">
                 </fieldset>
                 <div id="suggestions" class="SpryHiddenRegion suggest">
                     <ul>
                         <li class="amount"></li>
-                        <li></li>
+                        <li class="item"></li>
                     </ul>
                     <a class="close-suggest" href="#">Close</a>
                 </div>
             </div>
             <fieldset class="fieldset-small">
-                <label for="arrival">Arrival:</label>
+                <label for="arrival">Check in</label>
+                <div class="veryspecialprice">
                 <input type="text" name="arrival" id="arrival" value="dd/mm/yyyy" tabindex="2">
+                </div>
             </fieldset>
             <fieldset class="fieldset-small second">
-                <label for="departure">Departure:</label>
+                <label for="departure">Check out</label>
+                <div class="veryspecialprice">
                 <input type="text" name="departure" id="departure" value="dd/mm/yyyy" tabindex="3">
+                </div>
             </fieldset>
             <fieldset class="action-search">
                 <button type="submit">Search</button>
@@ -104,11 +109,9 @@
                 <input type="hidden" name="lang" id="lang" value="en">
                 <input type="hidden" name="show" id="show" value="list">
                 <input type="hidden" name="type" id="type" value="">
+                <input type="hidden" name="id" id="autosuggest_id" value="">
+                <input type="hidden" name="link" id="autosuggest_link" value="">
             </fieldset>
-        </div>
-        <div id="lowestprice">
-        	<h1><a href="/service/price-guarantee/" class="tip" title="Hotels.nl offers a lowest price guarantee. This means that you are guaranteed the lowest price for a hotel stay in the Netherlands or Belgium. We have agreed this with our affiliated hotels. An additional benefit is that you can make a booking with Hotels.nl at no additional costs. This can save you about €10 to 20 per booking! In the unlikely event of you finding the same offer cheaper anywhere else, then we will obviously pay you back the difference. ">We guarantee the lowest price!</a></h1>
-            <p>Room cheaper elsewhere? We will pay the difference!</p>
         </div>
     </form>
         <div id="tooltip" class="note" style="display:none"></div>
@@ -231,14 +234,14 @@ We use log files as most standard website servers do. In these log files we keep
                                     <dd><a href="/theme/wellness/">Spa</a></dd>
                     </dl>
         <dl>
-            <dt>Hotels near</dt>
+        		            <dt>Hotels near</dt>
                                                 <dd><a href="/burgh_haamstede/">Delta Works</a></dd>
                                     <dd><a href="/kaatsheuvel/">Efteling theme park</a></dd>
                                     <dd><a href="/region/veluwe/">Hoge Veluwe National Park</a></dd>
                                     <dd><a href="/lisse/">Keukenhof Garden</a></dd>
                                     <dd><a href="/theme/amsterdam_airport/">Schiphol Airport</a></dd>
                                     <dd><a href="/alblasserdam/">Windmills of Kinderdijk</a></dd>
-                    </dl>
+                                </dl>
     </div>
 </div><ul id="footer">
     <li class="footer-contact"><a href="/service/contact/" rel="contact">Contact</a></li>
@@ -246,27 +249,28 @@ We use log files as most standard website servers do. In these log files we keep
     <li><a href="/service/register-hotel/">Hotel owners</a></li>    <li><a href="/service/faq/" rel="help">Customer service</a></li>
         <li><a href="/service/affiliates/">Affiliates</a></li>
         <li><a href="/service/disclaimer/">General terms and conditions</a></li>
-    <li><a href="/service/privacy/">Privacy</a></li>
-</ul>
+    <li><a href="/service/privacy/"></a><a href="http://www.hotels.nl/service/privacy/" target="_blank">Privacy</a></li>
+    </ul>
 </div>
 <dl id="logo-footer">
 	<dt>Our quality is guaranteed by:</dt>
 	<dd class="logos">
-		<a href="/chain/mercure/"><img src="http://media.hotels.nl/website/globals/hotellogos/mercure.png" alt="Mercure hotels" width="164" height="51"></a>
-		<a href="/chain/vandervalk/"><img src="http://media.hotels.nl/website/globals/hotellogos/vandervalk.png" alt="Van der Valk hotels" width="156" height="51"></a>
-		<a href="/chain/eden/"><img src="http://media.hotels.nl/website/globals/hotellogos/eden.png" alt="Ibis hotels" width="72" height="51"></a>
-		<a href="/chain/nh_hotels/"><img src="http://media.hotels.nl/website/globals/hotellogos/nhhotels.png" alt="NH hotels" width="64" height="51"></a>
-        <a href="/chain/bilderberg/"><img src="http://media.hotels.nl/website/globals/hotellogos/bilderberg.png" alt="Bilderberg hotels" width="136" height="51"></a>
+		<a class="logo6 first" href="/chain/fletcher/"><img src="http://media.hotels.nl/website/globals/hotellogos/fletcher-s.gif" alt="Fletcher Hotels" width="193" height="41"></a>
+		<a class="logo1" href="/chain/mercure/"><img src="http://media.hotels.nl/website/globals/hotellogos/mercure-s.gif" alt="Mercure hotels" width="123" height="41"></a>
+		<a class="logo2" href="/chain/vandervalk/"><img src="http://media.hotels.nl/website/globals/hotellogos/vandervalk-s.gif" alt="Van der Valk hotels" width="116" height="41"></a>
+		<a class="logo3" href="/chain/eden/"><img src="http://media.hotels.nl/website/globals/hotellogos/eden-s.gif" alt="Ibis hotels" width="56" height="41"></a>
+		<a class="logo4" href="/chain/nh_hotels/"><img src="http://media.hotels.nl/website/globals/hotellogos/nhhoteles-s.gif" alt="NH hotels" width="46" height="41"></a>
+    <a class="logo5 last" href="/chain/bilderberg/"><img src="http://media.hotels.nl/website/globals/hotellogos/bilderberg-s.gif" alt="Bilderberg hotels" width="100" height="41"></a>
 	</dd>
 	<dt>“Booking with Hotels.nl is always easy, fast and reliable”</dt>
 	<dd>Bram Kloos, 5 Oceans Services</dd>
 </dl>
 <dl id="statements">
-	<dt>Privacy</dt>
+	<dt><a href="http://www.hotels.nl/service/privacy/" target="_blank">Privacy</a></dt>
 	<dd>Hotels.nl respects the privacy of all visitors of its website www.hotels.nl and will make sure that your personal data are treated confidentially.</dd>
 	<dt>General terms and conditions</dt>
 	<dd>Please read these general conditions carefully before you use this website. Using this website means that you agree with these terms and conditions. If you do not agree with these terms and conditions, you should not use this website. </dd>
-    <dd class="last">This page was generated in: 0.008718 seconds, and took <span id="parsetime">∞</span> ms to parse and was completely finished after: <span id="loadtime">∞</span> ms.</dd>
-</dl>    <script type="text/javascript" src="http://scripts.hotels.nl/js/version:1.1.14/fuel.js" charset="utf-8"> /*<![CDATA[*/ fuel.inject.observe({ "sprycore.js": function( inject, $ ){ var $$ = Spry.$$, context = document.body; fuel._init("1.1.14", context, $$, "City, Hotel, Landmark, Theme" ); return fuel._ready( [ datePickerController, "d-sl-m-sl-Y", "Y-m-d", "click", "20101226", "20111230", "20101227", "20110125", "Close" ], context, $$ ); } }) .script("http://scripts.hotels.nl/js/version:1.1.14/SpryCore.js"); /*]]>*/ </script> <script type="text/javascript"> var google_conversion_id = 1072737249,google_conversion_language = "en",google_conversion_format = "3",google_conversion_color = "666666",google_conversion_label = "zItYCKGJyQEQ4dfC_wM",google_conversion_value = 0; </script> <script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js"></script> <script type="text/javascript" src="http://static.criteo.net/criteo_ld.js"></script> <noscript><div style="display:inline;"><img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1072737249/?label=zItYCKGJyQEQ4dfC_wM&amp;guid=ON&amp;script=0"/></div></noscript>
+    <dd class="last">This page was generated in: 0.006794 seconds, and took <span id="parsetime">∞</span> ms to parse and was completely finished after: <span id="loadtime">∞</span> ms.</dd>
+</dl>    <script type="text/javascript" src="http://scripts.hotels.nl/js/version:1.1.10/fuel.js" charset="utf-8"> /*<![CDATA[*/ fuel.inject.observe({ "sprycore.js": function( inject, $ ){ var $$ = Spry.$$, context = document.body; fuel._init("1.1.10", context, $$, "City, Hotel, Landmark, Theme", { city:"City", province:"Province", region:"Region", theme:"Theme", info:"Info", chain:"Chain", hotel:"Hotel", poi:"Poi" } ); return fuel._ready( [ datePickerController, "d-sl-m-sl-Y", "Y-m-d", "click", "20110612", "20121229", "20110613", "20110712", "Close" ], context, $$ ); } }) .script("http://scripts.hotels.nl/js/version:1.1.10/SpryCore.js"); /*]]>*/ </script> <script type="text/javascript"> var google_conversion_id = 1072737249,google_conversion_language = "en",google_conversion_format = "3",google_conversion_color = "666666",google_conversion_label = "zItYCKGJyQEQ4dfC_wM",google_conversion_value = 0; </script> <script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js"></script> <script type="text/javascript" src="http://static.criteo.net/criteo_ld.js"></script> <noscript><div style="display:inline;"><img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1072737249/?label=zItYCKGJyQEQ4dfC_wM&amp;guid=ON&amp;script=0"/></div></noscript>
 
 </body></html>
