@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the photo-flash-maker.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127022013id_/http%3A//www.photo-flash-maker.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photo-flash-maker.com privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612140024id_/http%3A//www.photo-flash-maker.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Photo Flash Maker values your privacy
 
