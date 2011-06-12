@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the automoblog.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611213800id_/http%3A//www.automoblog.net/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the automoblog.net privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612155014id_/http%3A//www.automoblog.net/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Automoblog.net
+# Privacy Policy | Automoblog.net
 
 This is the web site of Automoblog.net – owned in whole by **Gearhead Media, LLC**.
 
@@ -10,11 +10,11 @@ Apex, NC 27523
 
 We can be reached via our [Contact Page](http://www.automoblog.net/contact/)
 
- **Summary** : Your privacy is very important to us. We collect no personal identifiable information. We collect your email address only if you provide it to us via participating in a chat or comment area, contact form, or email newsletter subscription. We will _never_ use this information to send you things you don’t want, and will never share it with any third party for commercial purposes.
+**Summary** : Your privacy is very important to us. We collect no personal identifiable information. We collect your email address only if you provide it to us via participating in a chat or comment area, contact form, or email newsletter subscription. We will _never_ use this information to send you things you don’t want, and will never share it with any third party for commercial purposes.
 
-We use cookies only to remember the information you’ve provided to us so you don’t have to enter the information in multiple times. We collect basic user info (geographic location, browser information, operating system,) only for review to make your experience here better. We use Google to help us serve relevant ads to you, and as a third party vendor, uses cookies to serve these ads. Google’s use of the DART cookie enables it to serve ads to you based on your visit to this site and other sites on the Internet.
+We use cookies only to remember the information you’ve provided to us so you don’t have to enter the information in multiple times. We collect basic user info (geographic location, browser information, operating system,) only for review to make your experience here better. We use Google to help us serve relevant ads to you, and as a third party vendor, uses cookies to serve these ads. Google’s use of the DART cookie enables it to serve ads to you based on your visit to this site and other sites on the Internet. 
 
- **Details** :
+**Details** :
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer’s domain name, but not the e-mail address (where possible).
 
@@ -30,9 +30,7 @@ With respect to Ad Servers: To try and bring you offers that are of interest to 
 
 http://www.google.com/privacy_ads.html
 
-http://www.showyouradhere.com/docs/privacy.php
-
-https://publisher.yahoo.com/legal/priv_policy.php
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: http://www.networkadvertising.org/managing/opt_out.asp
 
 Upon request we offer visitors the ability to have inaccuracies corrected in contact information, and communications that the consumer/visitor has directed to the site.  
 Consumers can have this information corrected by contacting us via our [Contact Page](http://www.automoblog.net/contact/).
