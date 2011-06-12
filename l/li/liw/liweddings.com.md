@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liweddings.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220183519id_/http%3A//www.liweddings.com/pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liweddings.com privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612103020id_/http%3A//www.liweddings.com/pages/privacy.aspx) for the most accurate reproduction.*
 
 # LIWeddings.com Internet Privacy Policy
 
@@ -63,9 +63,9 @@ The foregoing policy is effective as of December 11, 1995. LIWeddings.com reserv
 
 | 
 
-[](http://www.liweddings.com/scripts/tracking/static.aspx?ID=100) [](http://www.liweddings.com/scripts/tracking/static.aspx?ID=6) [](http://www.liweddings.com/scripts/tracking/static.aspx?ID=183)
+[](http://www.liweddings.com/scripts/tracking/static.aspx?ID=156) [](http://www.liweddings.com/scripts/tracking/static.aspx?ID=140) [](http://www.liweddings.com/scripts/tracking/static.aspx?ID=106) [](http://www.liweddings.com/scripts/tracking/static.aspx?ID=231)
 
-[](http://www.liweddings.com/vendors/banners/?ID=969) [](http://www.liweddings.com/vendors/banners/?ID=1502) [](http://www.liweddings.com/vendors/banners/?ID=1728)
+[](http://www.liweddings.com/vendors/banners/?ID=669) [](http://www.liweddings.com/vendors/banners/?ID=1596) [](http://www.liweddings.com/vendors/banners/?ID=1709)
 
   
        [](http://www.facebook.com/home.php?#!/pages/LIWeddingscom/36075121673)
