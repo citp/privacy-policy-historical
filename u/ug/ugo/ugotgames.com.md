@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ugotgames.com privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213194732id_/http%3A//ugotgames.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ugotgames.com privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612161929id_/http%3A//www.ugotgames.com/privacy.php) for the most accurate reproduction.*
 
 # UGotGames.com - Free Flash Games & Free Java Games
 
@@ -11,10 +11,4 @@ We use third-party advertising companies to serve ads when you visit our webpage
 
   
 [](http://www.kellie.com/)  
-
-
-  
-
-
-  
 
