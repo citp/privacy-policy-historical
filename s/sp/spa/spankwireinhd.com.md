@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the spankwireinhd.com privacy policy that was archived on 2010-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101118112800id_/http%3A//www.spankwireinhd.com/pp.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spankwireinhd.com privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612071249id_/http%3A//www.spankwireinhd.com/pp.php) for the most accurate reproduction.*
 
-# Terms and conditions
+# Privacy Policy
 
 PLEASE READ THIS PRIVACY POLICY STATEMENT CAREFULLY. BY YOUR SUBSCRIPTION TO AND USE OF THIS SITE YOU WILL BE EXPRESSLY SIGNIFYING THAT YOU AGREE WITH THE POLICIES AND PRACTICES SET FORTH IN THE PRESENT PRIVACY POLICY STATEMENT AND THAT YOU ASSENT TO THE USE OF ANY PERSONAL INFORMATION THAT YOU SUPPLY OR THAT IS COLLECTED ABOUT YOU AS DETAILED IN THIS PRIVACY POLICY STATEMENT.
 
