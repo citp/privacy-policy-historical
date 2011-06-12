@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the templatesold.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219105353id_/http%3A//www.templatesold.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the templatesold.com privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613001534id_/http%3A//www.templatesold.com/privacy.php) for the most accurate reproduction.*
 
 # WordPress Themes, WordPress Templates, Joomla, Website Templates - TemplateSOLD.com
 
