@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the astemplates.com privacy policy that was archived on 2010-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101105035115id_/http%3A//www.astemplates.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astemplates.com privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612062335id_/http%3A//www.astemplates.com/policy.php) for the most accurate reproduction.*
 
 # AS Templates - Professional Website Templates
 
@@ -28,4 +28,5 @@ All online transactions through our website are handled with industry-standard S
 
 ### 4\. Disclaimer
 
-Our site contains links to other sites. While we provide links to them, we are not responsible for their content or privacy policies. We strongly recommend that you read the Privacy Policy of the linked websites as they may contain further terms and conditions which apply to you.
+Our site contains links to other sites. While we provide links to them, we are not responsible for their content or privacy policies. We strongly recommend that you read the Privacy Policy of the linked websites as they may contain further terms and conditions which apply to you.  
+We are not responsible for the content of any websites where our templates/designs used.
