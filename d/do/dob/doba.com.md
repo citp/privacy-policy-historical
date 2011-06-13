@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doba.com privacy policy that was archived on 2010-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100421063430id_/http%3A//www.doba.com/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doba.com privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613233015id_/http%3A//www.doba.com/site/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Doba
 
@@ -52,6 +52,6 @@ You can access your personally identifiable information collected by Doba by log
 
  **How to contact us**
 
-Should you have other questions or concerns about these privacy policies, please call us at 877-321-DOBA or send us an email at support@doba.com.
+Should you have other questions or concerns about these privacy policies, please send us an email at support@doba.com.
 
 Last updated on May 27, 2008.
