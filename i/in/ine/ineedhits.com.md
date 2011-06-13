@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ineedhits.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227151820id_/http%3A//www.ineedhits.com/search-engine-help/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ineedhits.com privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613232411id_/http%3A//www.ineedhits.com/search-engine-help/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy and Free Search Engine Submission Information - ineedhits
 
