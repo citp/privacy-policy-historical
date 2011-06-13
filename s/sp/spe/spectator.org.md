@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spectator.org privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128075742id_/http%3A//spectator.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spectator.org privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613082909id_/http%3A//spectator.org/privacy-policy) for the most accurate reproduction.*
 
 # The American Spectator : Privacy Policy
 
