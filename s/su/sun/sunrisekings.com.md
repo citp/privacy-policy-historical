@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sunrisekings.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230022647id_/http%3A//www.sunrisekings.com/privacy.php%3Fnats%3DMC4wLjEuMS4wLjAuMC4wLjA) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunrisekings.com privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613093035id_/http%3A//www.sunrisekings.com/privacy.php%3Fnats%3DMC4wLjEuMS4wLjAuMC4wLjA) for the most accurate reproduction.*
 
 # SunriseKings.com | HD Porn | Worlds Best High Definition Porn Movies
 
