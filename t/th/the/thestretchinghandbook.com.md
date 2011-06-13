@@ -1,61 +1,66 @@
-> *The following text is extracted and transformed from the thestretchinghandbook.com privacy policy that was archived on 2004-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041011194426id_/http%3A//www.thestretchinghandbook.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thestretchinghandbook.com privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613051641id_/http%3A//www.thestretchinghandbook.com/legal.php) for the most accurate reproduction.*
 
-# Privacy Policy for The Stretching Handbook
+# The Stretching Institute™ - Legal Information, Policies and Disclaimers
 
-**Privacy**  
-Our clients' and visitors' privacy is an issue we take very seriously at Walkerbout Health. We understand your concerns about the use of your personal and company data, and have formulated this policy to reassure you of how your data will be utilized by us.
+Trademark  
+The Stretching Institute™ is a registered trademark of Walkerbout Health Pty Ltd. International Trademark #: 1 005 350. (United States Trademark Reg. No. 3,752,544) Any unauthorized use of this trademark will be aggressively defended though the appropriate legal processes.
 
-Any information you provide is disclosed only to Walkerbout Health. Walkerbout Health will not distribute, sell, rent or give your information to any organisation or third party.
+Copyright  
+This website and all its content are owned by Walkerbout Health Pty Ltd (Doing Business As) The Stretching Institute. Copyright © 1995-2011. All rights reserved.
 
-**Collection of Information**  
-We gather information about visitors to our website in two ways:
+Unless otherwise indicated, all content and materials on this website, including but not limited to the logo, designs, text, graphics, pictures, information, data, software, sound files, other files and the selection and arrangement thereof (collectively, "Site Content") are the proprietary property of The Stretching Institute or its affiliates, licensors, suppliers or users and are protected by U.S. and international copyright laws.
 
-  * Information you have knowingly provided via an online form that identifies you or your company specifically; and
+The content on this website is monitored and protected by [Copyscape's plagiarism checking software](http://www.copyscape.com/plagiarism-software/). DO NOT COPY OUR CONTENT. If our copyrighted content is found to be published on another website without our prior written approval we will issue a [DMCA](http://en.wikipedia.org/wiki/Dmca) (Digital Millennium Copyright Act) Infringement Notification with the offenders hosting provider, and also with [Google](http://www.google.com/support/bin/request.py?contact_type=lr_dmca&product=websearch), [Yahoo!](http://info.yahoo.com/copyright/us/details.html) and [Bing](http://www.microsoft.com/info/cpyrtInfrg.htm).
 
-  * Non-identifiable information gathered by monitoring traffic by web server data and IP addresses. We only use aggregate information, so individuals and corporations are never identifiable.
+Disclaimer  
+The health and fitness information presented on this website is intended as an educational resource and is not intended as a substitute for proper medical advice. Please consult your physician or physical therapist before performing any of the exercises described on this website, particularly if you are pregnant, elderly or have any chronic or recurring muscle or joint pain. Discontinue any exercise that causes you pain or severe discomfort and consult a medical expert.
+
+Refunds and Return Policy  
+All products on this website come with a 90-Day, 100% customer satisfaction guarantee. If for any reason you're not completely satisfied, return your purchase **_within 90 days_** and a refund for the cost of the product will be issued within 7 days. Please note: Refunds will be processed at the discretion of the company's management.
+
+Privacy Policy  
+Our clients and visitors privacy is an issue we take very seriously at The Stretching Institute. We understand your concerns about the use of your personal and company data, and have formulated this policy to reassure you of how your data will be utilized by us.
+
+Any information you provide is disclosed only to The Stretching Institute. The Stretching Institute will not distribute, sell, rent or give your information to any organization or third party.
+
+NO Spam! Policy  
+We actively adhere to all requirement and regulations of the Federal Trade Commission concerning the [CAN-SPAM Act](http://www.ftc.gov/bcp/edu/pubs/business/ecommerce/bus61.shtm).
+
+Collection of Information  
+We gather information about visitors to our website in the following ways:
+
+  1. Information you have knowingly provided via an online form that identifies you or your company specifically.
+  2. Non-identifiable information gathered by monitoring traffic by web server data and IP addresses. We only use aggregate information, so individuals and corporations are never identifiable.
 
 
 
+Third Party Vendors  
+We use third party vendors, including Google, to collect anonymous traffic data, via the use cookies. You may opt out of Google's use of cookies by visiting the [Google advertising opt-out page](http://www.google.com/privacy/ads/).
 
-**Submitting Requests**  
+Submitting Requests  
 We gather information when you submit requests for information by filling in the relevant online forms. Each form will require specific information depending on the nature of the request. These forms will be required when you:
 
-  * Request information about Walkerbout Health products and services;
-
-  * Make an online purchase from Walkerbout Health;
-
-  * Subscribe to the Stretching & Sports Injury Newsletter; or
-
+  * Request information about products and services;
+  * Make an online purchase from this site; or
   * Enter a competition or promotion on this site.
 
 
 
-
-You may [unsubscribe](https://web.archive.org/web/20041011194426id_/http%3A//www.thestretchinghandbook.com/unsubscribe.htm) from any subscriptions you have requested at any time.
-
-**Using Your Information**  
+Using Your Information  
 The information contained in the forms will be limited to generating the appropriate response to your request. We only use your information to:
 
   * Further develop our understanding of our market, so we can improve our products and services; and
-
   * Facilitate your navigation through this site and customize the content to suit your interests and business requirements.
 
 
 
+Opt-Out, Unsubscribe and Removal from our database  
+Removing your information from our database is easy. At the bottom of every email we send to you are options for unsubscribing and removing your information from our database. Either use the unsubscribe links at the bottom of the email, or [submit a ticket via our help desk](https://web.archive.org/web/20110613051641id_/http%3A//www.thestretchinghandbook.com/help/index.php?a=add) and one of our staff will remove you from our database.
 
-**Visiting Linked Sites**  
-Whilst we maintain all measures to protect your privacy, we are unable to monitor or control the Privacy Policies of any of our linked web sites. Therefore, we ask that when you visit a linked web site, you review the Privacy Policies on the linked web site before you disclose any personal or company details there.
+If you do submit a ticket via our help desk, please make sure you include the email address that you used when you subscribed, purchased one of our products or requested information from us: You can find this address at the bottom of every email we send to you.
 
-============================================================
+SSL Encryption  
+Shopping on our website is safe! Our order processing system uses RC4 128 bit High-grade encryption, so that when you provide us with any personal information including your name, address, e-mail and credit card number, it is processed over a secure connection on secure servers. We use Secure Socket Layers (SSL) to encrypt all information you provide before sending it to our servers. SSL is the industry standard and the best software available for secure ecommerce transactions.
 
-**[home](https://web.archive.org/web/20041011194426id_/http%3A//www.thestretchinghandbook.com/index.htm) | [free newsletter](https://web.archive.org/web/20041011194426id_/http%3A//www.thestretchinghandbook.com/newsletter.htm) | [products](https://web.archive.org/web/20041011194426id_/http%3A//www.thestretchinghandbook.com/products.htm) | [contact us](https://web.archive.org/web/20041011194426id_/http%3A//www.thestretchinghandbook.com/contact.htm) | [order now](https://web.archive.org/web/20041011194426id_/http%3A//www.thestretchinghandbook.com/orderdetails.cfm) | [affiliate program](https://web.archive.org/web/20041011194426id_/http%3A//www.thestretchinghandbook.com/affiliates/index.htm)  
-[resources](https://web.archive.org/web/20041011194426id_/http%3A//www.thestretchinghandbook.com/resources/index.htm) | [archives](https://web.archive.org/web/20041011194426id_/http%3A//www.thestretchinghandbook.com/archives/index.htm) | [privacy](https://web.archive.org/web/20041011194426id_/http%3A//www.thestretchinghandbook.com/privacy_policy.htm) | [recommend it](https://web.archive.org/web/20041011194426id_/http%3A//www.thestretchinghandbook.com/recommendit.htm) | [about us](https://web.archive.org/web/20041011194426id_/http%3A//www.thestretchinghandbook.com/about_us.htm)**
-
-Copyright © 2000 [Logic Commerce](http://www.logiccommerce.com/) \- Site design  
-Copyright © 2002 [Walkerbout Health](http://www.walkerbouthealth.com/) \- Site content
-
-**Walkerbout Health Pty Ltd**  
-ACN: 100 549 273
-
-PO Box 3063, Robina Town Centre, Queensland, 4230 AUSTRALIA  
-Phone: + 617 5525 3543 | Fax: + 617 5525 3526
+Visiting Linked Sites  
+Whilst we maintain all measures to protect your privacy, we are unable to monitor or control the Privacy Policies of any of our linked websites. Therefore, we ask that when you visit a linked website, you review the Privacy Policies on the linked website before you disclose any personal or company details there.
