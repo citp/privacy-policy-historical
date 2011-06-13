@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viewpoints.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230220712id_/http%3A//www.viewpoints.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viewpoints.com privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613044957id_/http%3A//www.viewpoints.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - Viewpoints
 
@@ -61,7 +61,7 @@ If you have any questions about this Privacy Policy, our information-handling pr
 Viewpoints Privacy   
 Viewpoints Network, LLC.  
 222 W. Hubbard St.  
-Suite 310  
+Suite 200  
 Chicago, IL 60654  
 privacy@viewpoints.com
 
