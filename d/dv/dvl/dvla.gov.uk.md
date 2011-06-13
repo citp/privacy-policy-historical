@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the dvla.gov.uk privacy policy that was archived on 2010-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101109022149id_/http%3A//www.dft.gov.uk/dvla/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dvla.gov.uk privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613162504id_/http%3A//www.dft.gov.uk/dvla/privacy.aspx) for the most accurate reproduction.*
 
-# Privacy policy
+# Privacy and Cookie Policy
 
-Last Updated: 27/07/2010
+[](https://web.archive.org/dvla/ "Return to Homepage")
+
+>> [Home](https://web.archive.org/dvla/default.aspx?sc_lang=en "Return to home page") > Privacy and Cookie Policy
+
+Last Updated: 01/06/2011
 
 This statement covers the services provided by the DVLA web site: [www.dft.gov.uk/dvla/](http://www.dft.gov.uk/dvla/). 
 
@@ -36,17 +40,40 @@ Our online order form will allow you to choose which forms and leaflets you want
 
 ### Cookie policy
 
-Cookies are pieces of data that are often created when you visit a web site and are stored in the cookie directory of your own computer. Most web browsers automatically accept cookies, but you can set your browser not to accept cookies. If you do not know how to do this, contact us using our [feedback](http://www.dvla.gov.uk/onlineservices/dvla_feedback.aspx) page, giving details on the type of browser you are using, and we will do our best to help.
+When we provide services, we want to make them easy, useful and reliable. Where services are delivered on the internet, this sometimes involves placing small amounts of information on your device, for example, computer or mobile phone. These include small files known as cookies. They cannot be used to identify you personally. 
 
-There are three areas within dvla.gov.uk where cookies may be created. 
+These pieces of information are used to improve services for you through, for example: 
 
-When entering the site for the first time this will generate an Urchin Tracking Monitor cookie, which is a private identifier that will be used to generate accurate tracking of the user throughout the site. This enables DVLA to collect more accurate statistics of the web site usage which we use solely to make improvements to the layout of the site and to the information on it, based on the way that visitors navigate around it. We do not make any other use of this information, nor do we pass it on to any other organisation.
+  * enabling a service to recognise your device so you don't have to give the same information several times during one task 
+  * recognising that you may already have given a username and password so you don't need to do it for every web page requested 
+  * measuring how many people are using services, so they can be made easier to use and there's enough capacity to ensure they are fast 
 
-The second area where a cookie is activated is when registered users enter our secure pages, governed by the access and identity management system. This cookie will store information in the form of a session identification that does not personally identify the user. The session cookie is stored in temporary memory and is not retained after the browser is closed.
 
-The final area where a cookie may be activated is when selecting a different language preference on the web site. This cookie stores information on your preferred language to ensure continuity when navigating through the web site, no other details are stored in this cookie.
 
-No Cookie creates a record on the Agency’s web site or its computers and thus they do not contain any personal information about you, nor can they be used to identify individual users. 
+You can manage these small files yourself and learn more about them through [Internet browser cookies - what they are and how to manage them. ](http://www.direct.gov.uk/en/SiteInformation/DG_197506?CID=Central&PLA=url_mon&CRE=managing_cookies)  
+
+
+### Cookies for improving service 
+
+Google Analytics sets cookies to help us accurately estimate the number of visitors to the website and volumes of usage, e.g. website statistics. This to ensure that the service is available when you want it and fast. 
+
+Name: _ **utma  
+** Typical content: randomly generated number   
+Expires: 2 years 
+
+Name: **_utmb**   
+Typical content: randomly generated number   
+Expires: 30 minutes 
+
+Name: _ **utmc**   
+Typical content: randomly generated number   
+Expires: when user exits browser 
+
+Name: _ **utmz**  
+Typical content: randomly generated number + info on how the site was reached (e.g. directly or via a link, organic search or paid search)   
+Expires: 6 months 
+
+For further details on the cookies set by Google Analytics, please refer to the [Google Code website](http://code.google.com/apis/analytics/docs/concepts/gaConceptsCookies.html#cookiesSet). 
 
 ### What happens when I link to another site?
 
