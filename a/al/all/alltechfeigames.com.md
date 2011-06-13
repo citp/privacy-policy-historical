@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alltechfeigames.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124060325id_/http%3A//alltechfeigames.com/content.aspx%3Fid%3D320) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alltechfeigames.com privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613164943id_/http%3A//www.alltechfeigames.com/content.aspx%3Fid%3D320) for the most accurate reproduction.*
 
 # 2010 Alltech FEI World Equestrian Games™ - Privacy Policy
 
