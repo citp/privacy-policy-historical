@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the mlsnet.com privacy policy that was archived on 2010-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100727164059id_/http%3A//www.mlssoccer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mlsnet.com privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613135838id_/http%3A//www.mlssoccer.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Major League Soccer
+# Privacy Policy | MLSsoccer.com
 
 **ENGLISH    |  **[ **ESPAÑOL**](https://web.archive.org/privacy-policy/esp)
 
 ## **MLSSOCCER.COM PRIVACY STATEMENT**
 
-This web site is made available by Major League Soccer, L.L.C. (the “ **League** ”), on behalf of itself and on behalf of the Member Clubs that are part of and licensed by the League (collectively, “ **MLS** ” or “ **we** ” or “ **us** ” or “ **our** ”). This Privacy Policy (“ **Privacy Policy** ”) governs our privacy practices and procedures with respect to the MLS web site currently located at **mlssoccer.com** and the individual Member Club sites on which this Privacy Policy is posted (collectively, the “ **Web Site** ”).  This Privacy Policy also applies to various online services and applications provided by MLS through the Web Site (the “ **Services** ”).   
+This web site is made available by Major League Soccer, L.L.C. (the “ **League** ”), on behalf of itself and on behalf of the Member Clubs that are part of and licensed by the League (collectively, “ **MLS** ” or “ **we** ” or “ **us** ” or “ **our** ”). This Privacy Policy (" **Privacy Policy** ") governs our privacy practices and procedures with respect to the MLS web site currently located at **mlssoccer.com** , and the subdomains thereof, as well as the individual Member Club sites on which this Privacy Policy is posted (collectively, the " **Web Site** "). This Privacy Policy also applies to various online services and applications provided by MLS through the Web Site (the " **Services** "). 
 
 This Privacy Policy does not apply to data collected by any means other than from users via the Web Site or Services (including, for example, through any offline means).  By visiting the Web Site or using any Services, you are consenting to the practices and procedures described in this Privacy Policy and in the **[MLS Terms of Service,](https://web.archive.org/terms-of-use)** into which this Privacy Policy is incorporated. 
 
@@ -154,4 +154,4 @@ Attention: Privacy Administrator/Legal Department
 Phone: 212-450-1200  
 E-mail: [privacy@mlssoccer.com](mailto:privacy@mlssoccer.com)
 
-### _Last Updated: June 22, 2010_
+### _Last Updated: September 3, 2010_
