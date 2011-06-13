@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usm.my privacy policy that was archived on 2010-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101008035714id_/http%3A//www.usm.my/index.php/component/content/article/72/7115-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usm.my privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613054545id_/http%3A//www.usm.my/index.php/en/about-usm/website-policy/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
