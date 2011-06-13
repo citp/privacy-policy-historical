@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wholeport.com privacy policy that was archived on 2010-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101113030713id_/http%3A//www.wholeport.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wholeport.com privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613153535id_/http%3A//www.wholeport.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy & Security - WholePort.com
 
