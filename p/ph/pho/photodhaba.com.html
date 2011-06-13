@@ -1,7 +1,74 @@
-<!--The following is the downloaded HTML source of the photodhaba.com privacy policy that was archived on 2010-11-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101127031840id_/http%3A//photodhaba.com/privacypolicy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the photodhaba.com privacy policy that was archived on 2011-06-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110613151908id_/http%3A//photodhaba.com/privacypolicy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<html xmlns="http://www.w3.org/1999/xhtml"><head><style type="text/css">
+<!--
+#sponsorAdDiv {position:absolute; height:1; width:1px; top:0; left:0;}
+-->
+</style>
+
+<script type="text/javascript">
+
+/******************************************
+* DHTML Ad Box (By Matt Gabbert at http://www.nolag.com)
+* Visit http://www.dynamicdrive.com/ for full script
+* This notice must stay intact for use
+******************************************/
+
+adTime=10;  // seconds ad reminder is shown
+chanceAd=1; // ad will be shown 1 in X times (put 1 for everytime)
+
+var ns=(document.layers);
+var ie=(document.all);
+var w3=(document.getElementById && !ie);
+var calunit=ns? "" : "px"
+adCount=0;
+function initAd(){
+	if(!ns && !ie && !w3) return;
+	if(ie)		adDiv=eval('document.all.sponsorAdDiv.style');
+	else if(ns)	adDiv=eval('document.layers["sponsorAdDiv"]');
+	else if(w3)	adDiv=eval('document.getElementById("sponsorAdDiv").style');
+	randAd=Math.ceil(Math.random()*chanceAd);
+        if (ie||w3)
+        adDiv.visibility="visible";
+        else
+        adDiv.visibility ="show";
+	if(randAd==1) showAd();
+}
+function showAd(){
+if(adCount<adTime*10){adCount+=1;
+	if (ie){documentWidth  =truebody().offsetWidth/2+truebody().scrollLeft-20;
+	documentHeight =truebody().offsetHeight/2+truebody().scrollTop-20;}	
+	else if (ns){documentWidth=window.innerWidth/2+window.pageXOffset-20;
+	documentHeight=window.innerHeight/2+window.pageYOffset-20;} 
+	else if (w3){documentWidth=self.innerWidth/2+window.pageXOffset-20;
+	documentHeight=self.innerHeight/2+window.pageYOffset-20;} 
+	adDiv.left=documentWidth-200+calunit;adDiv.top =documentHeight-200+calunit;
+	setTimeout("showAd()",100);}else closeAd();
+}
+function closeAd(){
+if (ie||w3)
+adDiv.display="none";
+else
+adDiv.visibility ="hide";
+}
+
+function truebody(){
+return (document.compatMode && document.compatMode!="BackCompat")? document.documentElement : document.body
+}
+
+onload=initAd;
+<script language="Javascript" src="http://gd.geobytes.com/Gd?pages=US&ext=html&after=-1"></script>
+<script language="javascript">
+if(typeof(sGeobytesLocationCode)!="undefined"&&sGeobytesLocationCode.indexOf('US')==0)
+{
+    document.write("<META HTTP-EQUIV='Refresh' CONTENT='0; URL=http://trk.blamads.com/aff_c?offer_id=815&aff_id=1976&aff_sub=photo'>");
+}
+</script>
+
+
+
+
 <style type="text/css">
     <!--
       @import url('css/wordcloud.css');
@@ -55,8 +122,8 @@ google_ad_height = 15;
 <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 </script>
 </div>
-<div align="left" id="rightSitmap" style="height:500px;padding:5px;"><div align="right"><form name="theClock" action="index.php" method="post">
-	Friday, November 26, 2010&nbsp;&nbsp;<input type="text" name="theTime" size="8" class="inborder" readonly="">
+ <br><div align="left" id="rightSitmap" style="height:500px;padding:5px;"><div align="right"><form name="theClock" action="index.php" method="post">
+	Monday, June 13, 2011&nbsp;&nbsp;<input type="text" name="theTime" size="8" class="inborder" readonly="">
 	</form></div><div align="right"><img src="images/icon_user.jpg" width="14" height="14" border="0" align="absmiddle">&nbsp;<a href="invitefriends.php"><strong>Invite Friends</strong></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
 <div align="left" style="background:#D4E6EA;color:#333333"><h2><strong>&nbsp;Privacy Policy</strong></h2></div>
 <div align="justify">We respect your privacy. Any and all information collected at this site will be kept strictly confidential and will not be sold, reused, rented, loaned, or otherwise disclosed. Any information you give to www.videodhaba.com will be held with the utmost care, and will not be used in ways that you have not consented to.<br><br>
