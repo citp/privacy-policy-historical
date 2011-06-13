@@ -1,0 +1,2769 @@
+<!--The following is the downloaded HTML source of the blokube.com privacy policy that was archived on 2011-06-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110613200927id_/http%3A//www.blokube.com/static/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head><link type="text/css" href="/cometchat/cometchatcss.php" rel="stylesheet" charset="utf-8">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/cometchat/cometchatjs.php" charset="utf-8"></script>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta http-equiv="Pragma" content="no-cache">
+	<meta http-equiv="Expires" content="0">
+	<title>Privacy Policy |  Blokube</title>
+	<meta name="description" content="Blokube allows you to submit your Blog Article(s) that will be reviewed by all and will be promoted by me or our visitors to the main page.">  
+	<meta name="keywords" content="Blokube Privacy Policy">
+	<link rel="stylesheet" type="text/css" href="/templates/blokube/css/style.css" title="AggrePressDefaultStyle" media="screen">
+<link type="text/css" href="/templates/blokube/css/jquery.foobar.css" rel="Stylesheet">
+<link rel="stylesheet" type="text/css" href="/templates/blokube/css/login.css" title="CSSforPopupLogin" media="screen">
+	  
+				<script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
+
+	<script type="text/javascript" src="/templates/blokube/js/3rdparty/css_browser_selector/css_browser_selector.js"></script>
+<script type="text/javascript" src="/modules/status/js/jquery.form.js"></script>
+<script type="text/javascript" src="/modules/status/js/jquery.getUrlParam.js"></script>
+
+<script type="text/javascript">
+$(document).ready(function(){
+$('#tabs div').hide();
+$('#tabs div:first').show();
+$('#tabs ul li:first').addClass('active');
+
+$('#tabs ul li a').click(function(){
+$('#tabs ul li').removeClass('active');
+$(this).parent().addClass('active');
+var currentTab = $(this).attr('href');
+$('#tabs div').hide();
+$(currentTab).show();
+return false;
+});
+});</script>
+
+
+ <script src="javascripts/jquery.js" type="text/javascript"></script>
+<script type="text/javascript">
+        $(document).ready(function() {
+
+            $(".signin").click(function(e) {
+                e.preventDefault();
+                $("fieldset#signin_menu").toggle();
+                $(".signin").toggleClass("menu-open");
+            });
+
+            $("fieldset#signin_menu").mouseup(function() {
+                return false
+            });
+            $(document).mouseup(function(e) {
+                if($(e.target).parent("a.signin").length==0) {
+                    $(".signin").removeClass("menu-open");
+                    $("fieldset#signin_menu").hide();
+                }
+            });            
+
+        });
+</script> 
+
+
+
+			
+<script src="http://www.blokube.com/modules/mootools/js/mootools-min.js" type="text/javascript"></script>
+
+<script type="text/javascript" src="/modules/auto_thumb/js/jquery-min.js"></script>
+<script type="text/javascript" src="/modules/auto_thumb/js/jquery.fancybox.js"></script>
+<script type="text/javascript" src="/modules/auto_thumb/js/jquery.jsonp.min.js"></script>
+<script type="text/javascript" src="/modules/auto_thumb/js/jquery.embedly.min.js"></script>
+<link rel="stylesheet" type="text/css" href="/modules/auto_thumb/css/auto_thumb.css">
+<link rel="stylesheet" type="text/css" media="screen" href="/modules/auto_thumb/css/fancybox.css">
+
+
+<script type="text/javascript">
+    var jat = jQuery.noConflict();
+
+    jat(document).ready(function() {
+        // configure fancybox for thumbnail images
+        jat("a.fancybox").fancybox();
+
+        // EMBEDLY FANCYBOX: retrieve embedly content and put it in the hidden div for embedly fancybox
+        jat("a.embedlyFancy").embedly({maxWidth: 400, maxHeight: 300, wrapElement: 'div', method : "after"}, function(oembed, dict){
+            if (oembed == null)
+                return;
+            var name = jat(dict["node"]).attr('name');
+            jat('#embedly_'+name).html(oembed.html);
+        });
+        // rename url for embedly fancybox
+        jat("a.embedlyFancy").each(function(){
+            this.href = '#embedly_'+ this.name;
+        });
+        // bind embedly fancybox
+        jat("a.embedlyFancy").fancybox();
+
+        // EMBEDLY INLINE: retrieve embedly content and put it in the hidden div for inline embedly
+        jat("a.embedly").embedly({maxWidth: 400, maxHeight: 300, wrapElement: 'div', method : "after"}, function(oembed, dict){
+            if (oembed == null)
+                return;
+            var name = jat(dict["node"]).attr('name');
+            jat('#embedly_'+name).html(oembed.html);
+        });
+        // add play icon
+        jat("a.embedly").append('<i></i>');
+        // toggle the display of the hidden embedly content when thumbnail is clicked
+        jat('.embedly').live("click", function(e){
+            e.preventDefault();
+            jat(this).hide();
+            var id = jat(this).attr('name');
+            jat('#embedly_'+id).parent().show();
+        });
+    });
+</script>
+
+
+
+
+<style>
+img.at_story_thumb {
+    max-width: 110px;
+    max-height: 110px;
+}
+</style>
+
+
+
+
+
+<!-- Start MooTools Share -->
+<link rel="stylesheet" type="text/css" href="http://www.blokube.com/modules/mootools_share/templates/mootools_share.css" media="screen">
+
+<script type="text/javascript">
+(function($){
+	window.addEvent('domready',function() {
+		$$('a.share').each(function(a){
+			//containers
+			var storyList = a.getParent();
+			var shareHover = storyList.getElements('div.share-hover')[0];
+			shareHover.set('opacity',0);
+			//show/hide
+			a.addEvent('mouseenter',function() {
+					shareHover.setStyle('display','block').fade('in');
+			});
+			shareHover.addEvent('mouseleave',function(){
+				shareHover.fade('out');
+			});
+			storyList.addEvent('mouseleave',function() {
+				shareHover.fade('out');
+			});
+		});
+	});
+})(document.id);
+</script>
+
+<!-- End MooTools Share -->	
+	<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://www.blokube.com/rss.php">
+	<link rel="icon" href="/favicon.ico" type="image/x-icon">
+
+
+
+<!-- Library jQuery -->
+
+<script type="text/javascript" src="http://www.blokube.com/templates/AggrePress/js/c/cufon-yui.js"></script>
+<script type="text/javascript" src="http://www.blokube.com/templates/AggrePress/js/c/MuseoSans_400.font.js"></script>
+<script type="text/javascript">  
+    Cufon.replace('h1');
+</script>
+
+   
+<script type="text/javascript" src="http://www.blokube.com/templates/blokube/javascripts/jquery-1.4.2.min.js"></script>
+<link rel="stylesheet" href="http://www.blokube.com/templates/blokube/tipsy/docs/stylesheets/tipsy.css" type="text/css">
+<link rel="stylesheet" href="http://www.blokube.com/templates/blokube/tipsy/docs/tipsy-docs.css" type="text/css">
+<script type="text/javascript" src="http://www.blokube.com/templates/blokube/tipsy/docs/javascripts/jquery.tipsy.js"></script>
+<script type="text/javascript">
+$(function() {
+$('.tipsy-1').tipsy({gravity: $.fn.tipsy.autoNS,fade: true});
+$('.tipsy-2').tipsy({offset:20});
+  });
+</script>
+
+
+<script type="text/javascript" src="/templates/blokube/scripts/jquery.foobar.1.2.js"></script>
+<script type="text/javascript" src="/templates/blokube/scripts/jquery-1.6.min.js"></script>
+  <script type="text/javascript" src="/templates/blokube/scripts/jquery.foobar.1.2.min.js"></script>
+
+
+    <script type="text/javascript"> 
+
+$(document).ready(function() {
+
+	//When page loads...
+	$(".tab_content").hide(); //Hide all content
+	$("ul.tabs li:first").addClass("active").show(); //Activate first tab
+	$(".tab_content:first").show(); //Show first tab content
+
+	//On Click Event
+	$("ul.tabs li").click(function() {
+
+		$("ul.tabs li").removeClass("active"); //Remove any "active" class
+		$(this).addClass("active"); //Add "active" class to selected tab
+		$(".tab_content").hide(); //Hide all tab content
+
+		var activeTab = $(this).find("a").attr("href"); //Find the href attribute value to identify the active tab + content
+		$(activeTab).fadeIn(); //Fade in the active ID content
+		return false;
+	});
+
+}); 
+
+
+$('.formSet-label').append('<em class="arrow" />');
+
+</script> 
+<script type="text/javascript" src="http://apis.google.com/js/plusone.js"></script>
+
+<link href="http://fonts.googleapis.com/css?family=Maven+Pro" rel="stylesheet" type="text/css">
+
+</head>
+<body>
+
+      <script type="text/javascript">
+    $.foobar({
+    "positioning" : "inline",
+    "backgroundColor" : "#eb593c",
+    "buttonTheme" : "long-arrow",
+    "display" : "delayed",
+    "enableCookie" : "true",
+    "displayDelay" : 8000, //display bar after 2 seconds 
+    "messages" : ["Latest Guest Post: <a href='http://blog.blokube.com/style-your-post-ending/'>5 Ways to Go Out With Style for Your Post Ending!</a>"]
+    });
+    </script> 
+
+ 
+
+<div id="toplinks">
+	<div id="container">
+ 	<a style="color:#00d7ec;" href="/page.php?page=about"><img src="/templates/blokube/images/icon_about.gif" width="12.2" height="12.2" alt="What is Blokube"> About</a> &nbsp; 
+<a style="color:#00d7ec;" href="http://blog.blokube.com" target="_blank"><img src="/templates/AggrePress/images/blog1.png" width="12.2" height="12.2" alt="Blog"> Blog</a> &nbsp;
+		
+
+
+ <a class="submit_b" href="http://www.blokube.com/submit/"> Submit</a>&nbsp;<a href="#" class="signin"><span><img src="/templates/blokube/images/Profile.png" width="12.2" height="12.2" alt="Profile"> Login</span></a> 
+  <fieldset id="signin_menu">
+<form action="/login.php?return=%2Fstatic%2Fprivacy-policy" method="post"> 
+	<br>
+		Username:<br><input style=" -moz-border-radius: 3px 3px 3px 3px;        border-color: #ACACAC #C0C0C0 #BBBBBB;     border-left: 1px solid #C0C0C0;     border-right: 1px solid #C0C0C0;     border-style: solid;     border-width: 1px;     padding: 5px;" type="text" onmouseover="hilite('username')" id="username" name="username" class="login" value="" tabindex="40">
+		Password:<br><input style=" -moz-border-radius: 3px 3px 3px 3px;          border-color: #ACACAC #C0C0C0 #BBBBBB;     border-left: 1px solid #C0C0C0;     border-right: 1px solid #C0C0C0;     border-style: solid;     border-width: 1px;     padding: 5px;" type="password" onmouseover="hilite('password')" id="password" name="password" class="login" tabindex="41">
+		<input type="hidden" name="processlogin" value="1">
+		<input type="hidden" name="return" value="">
+		 <p class="remember">
+<input id="signin_submit" type="submit" value="Login" tabindex="43"><input type="checkbox" name="persistent" tabindex="42"> Remember</p>				
+		<br>
+ 
+	</form>
+		<a href="/login.php?return=%2Fstatic%2Fprivacy-policy" class="underline">Forgot your password?</a><br>
+		(or) <a href="/register/" class="underline">Create an account </a>
+		
+	 </fieldset>		
+</div> 
+
+
+</div>
+<div class="page">
+<div class="logo"><a href="http://www.blokube.com"><img src="/templates/blokube/images/Blokube-3.png" alt="Blokube"></a></div>
+
+<div id="navigation">
+	<div class="menu small_font">
+		<ul>
+			
+			<li><a href="http://www.blokube.com">Home</a></li>
+<li><a href="http://blokube.com/latest/">LATEST</a></li>
+<li><a href="http://www.blokube.com/module.php?module=wall&amp;wall=active">Activity Wall</a></li>
+<li><a href="http://blokube.com/static/site-help/">Site Help</a></li>
+<li><a href="/live/">Live</a></li>
+<li><a href="http://www.blokube.com/topusers/">Top Users</a></li>
+					</ul>
+	</div>
+	<div class="search_wrap">
+		<div class="search_form">
+			   
+			<form action="/search.php" method="get" name="thisform-search" id="thisform-search" onsubmit="document.location.href=&quot;http://www.blokube.com/search/&quot;+this.search.value.replace(/\//g,&quot;|&quot;).replace(/\?/g,&quot;%3F&quot;);   return false;">
+				<input type="text" name="search" id="searchsite" value="Search.." onfocus="if(this.value == 'Search..') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Search..';}">
+				<input type="submit" value=" ">
+				&nbsp;<span class="search_advanced small_font"><a href="/advanced-search/">Advanced</a></span>
+			</form>
+		</div>
+	</div>
+
+</div><link rel="SHORTCUT ICON" href="http://www.blokube.com/templates/AggrePress/favicon.ico">
+
+
+
+<div id="categories">
+	<ul id="cats">
+										<li>
+			<span><a href="/blogging/">Blogging</a></span>
+		</li>												<li class="parent">
+			<span><a href="/business/">Business <img src="/templates/blokube/images/cats_arrow.gif" alt="business"></a></span>
+												<ul>		<li>
+			<span><a href="/domains/">Domains</a></span>
+		</li>												<li>
+			<span><a href="/entrepreneurship/">Entrepreneurship</a></span>
+		</li>												<li>
+			<span><a href="/networking/">Networking</a></span>
+		</li>												<li>
+			<span><a href="/professional-writing/">Professional writing</a></span>
+		</li>												<li>
+			<span><a href="/web-traffic/">Web Traffic</a></span>
+		</li>								</ul></li>				<li class="parent">
+			<span><a href="/marketing/">Marketing <img src="/templates/blokube/images/cats_arrow.gif" alt="marketing"></a></span>
+												<ul>		<li>
+			<span><a href="/affiliates/">Affiliates</a></span>
+		</li>												<li>
+			<span><a href="/branding/">Branding</a></span>
+		</li>												<li>
+			<span><a href="/online-marketing/">Online Marketing</a></span>
+		</li>												<li>
+			<span><a href="/direct-marketing/">Direct Marketing</a></span>
+		</li>												<li>
+			<span><a href="/mlm/">MLM</a></span>
+		</li>												<li>
+			<span><a href="/sales/">Sales</a></span>
+		</li>												<li>
+			<span><a href="/other/">Other</a></span>
+		</li>								</ul></li>				<li class="parent">
+			<span><a href="/seo/">SEO/SEM <img src="/templates/blokube/images/cats_arrow.gif" alt="seo"></a></span>
+												<ul>		<li>
+			<span><a href="/analytics/">Analytics</a></span>
+		</li>												<li>
+			<span><a href="/bing/">Bing</a></span>
+		</li>												<li>
+			<span><a href="/blokube/">Blokube</a></span>
+		</li>												<li>
+			<span><a href="/blog-interact/">Blog Interact</a></span>
+		</li>												<li>
+			<span><a href="/press releases/">Press Releases</a></span>
+		</li>												<li>
+			<span><a href="/cpm/">CPM</a></span>
+		</li>												<li>
+			<span><a href="/ppc/">PPC</a></span>
+		</li>												<li>
+			<span><a href="/searching/">Searching</a></span>
+		</li>												<li>
+			<span><a href="/usability/">Usability</a></span>
+		</li>												<li>
+			<span><a href="/link-building/">Link Building</a></span>
+		</li>												<li>
+			<span><a href="/google/">Google</a></span>
+		</li>								</ul></li>				<li>
+			<span><a href="/social-media/">Social Media</a></span>
+		</li>												<li>
+			<span><a href="/wordpress/">WordPress</a></span>
+		</li>												<li>
+			<span><a href="/design/">Web Design</a></span>
+		</li>												<li class="parent">
+			<span><a href="/lifestyle/">Lifestyle <img src="/templates/blokube/images/cats_arrow.gif" alt="lifestyle"></a></span>
+												<ul>		<li>
+			<span><a href="/education/">Education</a></span>
+		</li>												<li>
+			<span><a href="/personal-development/">Personal Development</a></span>
+		</li>								</ul></li>				<li>
+			<span><a href="/resources/">Resources</a></span>
+		</li>												<li>
+			<span><a href="/tech/">Tech</a></span>
+		</li>							</ul>
+</div>  
+
+<!--
+Pligg Status Update Wall V 1.0 - Created by Azam
+
+Single Site License Only!
+
+--> 
+<link rel="stylesheet" type="text/css" href="/modules/status/templates/status_update.css" media="screen">
+
+
+
+<script type="text/javascript">
+
+var site_base = "http://blokube.com";
+
+//Check to see if the Module is installed in base or subfolder.
+if (location.pathname=="/module.php")
+	var mod_location = ""; // Base Folder
+else 
+	var mod_location = site_base; // Sub-Folder
+	
+var popupStatus = 0;
+var popup_bg_click	= "yes";	
+var windowWidth = document.documentElement.clientWidth;
+var windowHeight = document.documentElement.clientHeight;
+var loggedUser = "";
+var activeUser = "";
+var activeUser_avatar = "";
+var activeUser_avatar_class = "";
+var current_page = 1;
+var total_pages, total_statuses, total_replies_pages;
+var type = "status";
+var mode = "";
+var pagination_action = "";
+var search_string = "";
+var detail_list_view_text = "Show Details";
+var last_id = 0;
+var last_status_text = "";
+var last_status_text_only = "";
+var last_update_type = "m";
+var beingShown = false;
+var shown = false;
+var last_update_id = 0;
+var reply_to_id = 0;
+	
+$(document).ready(function() {
+	var distance = 10;
+	var time = 250;
+	var activateWall = "";
+	var member = "";
+	var view = "";
+	var sid = 0;
+	activateWall 	= $(document).getUrlParam("wall"); 
+	member 			= $(document).getUrlParam("member"); 
+	view 			= $(document).getUrlParam("view"); 
+	sid 			= $(document).getUrlParam("sid"); 
+
+	if (activateWall == "active")
+	{
+	$("#midcol").hide();
+		if (member != null)
+		{
+			if ((view == "friends_list") || (view == "followers_list"))
+			{
+				if (view == "friends_list")
+					type = "friends_list";
+				if (view == "followers_list")
+					type = "followers_list";
+					
+				activeUser = member;
+				getUsersList(1, member, view);
+				getUserAboutInfo(member);
+				linkifyFriendsFollowersButtons(member);
+				showFriends(member);
+				$("#status_submit_textarea").focus();
+			}
+			else 
+				getUserWall(member);
+				
+			loadWall();
+		}
+		else if (sid != 0)
+		{
+			getStatus(type, sid);
+			loadWall();
+		}
+		else 
+		{
+			getStatus(type);
+			loadWall();
+		}
+
+	}
+
+	$("#wall_btn").click(function()
+	{
+		last_id = 0;
+		loadWall();
+		getStatus(type);
+	});
+
+	$('#search_status_form').submit(function() { 
+		current_page = 1;
+		search_string = $('.status_search_input').val();
+		var search_query = "?page=1&ssearch=" + search_string;
+		searchStatus(search_query);
+		return false; 
+	});		
+
+	$('#submit_status').submit(function() { 
+		submitStatus();
+		return false; 
+	});
+	$("#get_more_button").click(function() {
+		getMore(current_page, activeUser);	
+		return false;			
+	});
+	var ctr = 0;
+	$(".user_send_message_btn").toggle(
+	function() {
+		if (type == "user_wall")
+		{
+			$(".user_send_message_btn").html("Nevermind, maybe another time. Close this.");
+			$("h4.status_submit_title").html("Send a Message to " + activeUser).show();
+			$(".status_submit_form").show('fast');
+
+			if (last_update_type != "c")
+				$(".last_status_heading").html(last_status_text);
+			$(".last_status_heading").css("font-size", "12px");
+			$(".last_status_heading").css("font-style", "italic");
+			$(".last_status_heading").css("width", "80%");
+			ctr++;
+		}	
+	
+	},
+	function() {
+			$(".user_send_message_btn").html("Send a Message");
+			$("h4.status_submit_title").html("What Are You Doing?").hide();
+
+			$(".status_submit_form").hide('fast');
+			$(".last_status_heading").css("font-size", "24px");
+			$(".last_status_heading").css("font-style", "normal");
+			$(".last_status_heading").css("width", "99%");
+			ctr++;
+
+			if (last_update_type != "c")
+				$(".last_status_heading").html(last_status_text);
+
+	}
+	);
+	$("#friends_list_view").click(function() {
+		current_page = 1;
+		type = "friends_list";
+		getUsersList(current_page, activeUser, type);
+		
+		return false;			
+	});	
+	$("#followers_list_view").click(function() {
+		current_page = 1;
+		type = "followers_list";
+		getUsersList(current_page, activeUser, type);			
+		return false;			
+	});
+	$(".green_link").click(function() {
+		$(".status_right_sidebar").css("background-color", "#CDFF95");
+		$(".status_submit_input").css("background-color", "#EFFFCA");
+		$(".status_message_container").css("background-color", "#EEFBC4");
+		$(".status_message_container:hover").css("background-color", "#D8FC96");
+
+
+	});
+	$(".my_wall_link").click(function() {
+		current_page = 1;
+		last_id = 0;
+		type = "status";
+		getStatus(type);
+		$(".get_more_button").removeAttr("disabled").html("Show More");
+	});
+	$(".close_wall_link").click(function() {
+		current_page = 1;
+		disablePopup();
+	});
+	
+	$("a.user_wall_link").click(function() {		
+		return false;
+	});
+	//Click out event!
+	$("#backgroundPopup").click(function(){
+	disablePopup();
+
+
+	});
+	//Press Escape event!
+	$(document).keypress(function(e)
+	{
+		if(e.keyCode==27 && popupStatus==1){
+		disablePopup();
+		}
+	});
+
+});
+
+function status_next_page(page)
+{
+    var form = document.getElementById('status_search');
+    form.page.value = page;
+    form.submit();
+    return false;
+}
+
+function loadPopup(pName) 
+{
+	var popupName = pName;	
+
+	var popupHeight = $(pName).height();  
+	var popupWidth = $(pName).width();
+	
+// 	THEME SPECIFIC CHANGES. AZAM
+//	$("#categories").hide();
+	$("#leftcol").hide();
+	$("#filter").hide();
+	$("#sub-cat-row").hide();
+	$("#footer_ad").css("text-align", "center");
+
+	//only need force for IE6
+	$("#backgroundPopup").css({
+		"height": windowHeight
+	});
+	
+	if(popupStatus==0){
+//		$("#response").hide();
+
+		$("#backgroundPopup").css({
+			"opacity": "0.7"
+		});
+		//$(".featured_container").slideUp('fast');
+
+// ENABLE THIS FOR A BACKGROUND SPLASH EFFECT
+//		$("#backgroundPopup").slideDown("slow");
+
+//		$(pName).slideDown(1000);
+		$(pName).css("display", "block");
+		$(pName).show();
+		
+		
+		popup_bg_click = "yes";
+		popupStatus = 1;
+			$('#search_status_form').clearForm();
+			$('.status_search_input').removeAttr("disabled");
+	
+	}
+	
+}
+
+function disablePopup(){
+	//disables popup only if it is enabled
+	if(popupStatus==1){
+		$(".status_container").slideUp(500);
+		popupStatus = 0;
+		popup_bg_click = "yes";
+	}
+}
+
+function GetXmlHttpObject()
+{ 
+	var objXMLHttp=null;
+	if (window.XMLHttpRequest)
+	{
+		objXMLHttp=new XMLHttpRequest();
+	}
+	else if (window.ActiveXObject)
+	{
+		objXMLHttp=new ActiveXObject("Microsoft.XMLHTTP");
+	}
+	return objXMLHttp;
+}
+
+function getSearchResults(search_query) 
+{
+
+	$("#loading").show();
+	type = "search";
+
+	var search_url = mod_location + "/modules/status/get_search_results.php" + search_query;
+	var xmlHttp=GetXmlHttpObject();
+	if (xmlHttp==null)
+	{
+		alert ("NO Luck at this time");
+		return;
+	} 
+	xmlHttp.open("GET", search_url , true);
+	xmlHttp.send(null); 	
+				
+	xmlHttp.onreadystatechange = function()
+	{
+		if(xmlHttp.readyState == 4)
+		{
+			var doc=(xmlHttp.responseXML);
+			
+			if (doc != null)
+			{
+				$(".status_error_notice").slideUp('slow').html("");
+				var html = '';
+				$(".status_detail_wrapper").html(html);
+		
+				var current_username = parseXML(doc, type);
+	
+				xmlHttp.close;
+				$('#search_status_form').clearForm();
+				$('.status_search_input').removeAttr("disabled");
+
+				$("#status_submit_textarea").focus();
+			}
+			else
+			{
+				$(".status_message_container").slideUp('fast');
+				$(".status_error_notice").html("Your search has no matches. Try another search or something.").slideDown('slow');
+				$('.status_search_input').removeAttr("disabled");
+			}
+				$("#loading").hide();
+		}
+	}		
+}
+
+function getStatus(username) 
+{
+
+	$("#loading").show();
+	var xmlHttp=GetXmlHttpObject();
+	if (xmlHttp==null)
+	{
+		alert ("NO Luck at this time");
+		return;
+	} 
+
+	xmlHttp.open("GET", mod_location + "/modules/status/get_user_status.php?username=" + username, true);
+	xmlHttp.send(null); 	
+				
+	xmlHttp.onreadystatechange = function()
+	{
+		if(xmlHttp.readyState == 4)
+		{
+			var doc=(xmlHttp.responseXML);
+			
+			if (doc != null)
+			{
+				$(".status_error_notice").slideUp('slow').html("");
+
+				var current_username = parseXML(doc);
+				getUserAboutInfo(current_username);
+
+				getUserFriends(current_username);
+				xmlHttp.close;
+				$("#loading").hide();
+				$("#status_submit_textarea").focus();
+			}
+			else
+			{
+				$(".status_message_container").slideUp('fast');
+				$(".status_error_notice").html("Whoa what the heck just happened? I can't find anything now. Do something!").slideDown('slow');
+				$("#loading").hide();
+
+
+			}
+		}
+	}		
+}
+
+function getMore(page_number, user)
+{
+	var page 			= page_number;
+	var this_username 	= user;
+	current_page++; 		
+	
+	if (current_page > total_pages) 
+	{
+		$(".get_more_button").html("No More Updates").attr("disabled", "disabled");
+	}	
+	else 
+	{
+		getMoreStatus(current_page, activeUser);
+		$(".get_more_button").removeAttr("disabled").html("Show More");
+	}
+
+}
+
+function getUsersList(page_number, user, type) 
+{
+	var source_file = "";
+	var data_string = "";
+	data_string = "?page=" + page_number + "&username=" + user;
+	var list_url = "";
+	var statusHeading = ""; 
+	
+	$("#loading").show();
+	if (type == "friends_list")
+	{
+		data_string = "?page=" + page_number + "&username=" + user + "&type=" + type;
+		list_url = mod_location + "/modules/status/get_users_list.php" + data_string;
+		statusHeading =  user + " is following... ";
+		$(".status_heading").html(statusHeading);
+	}
+	if (type == "followers_list")
+	{
+		data_string = "?page=" + page_number + "&username=" + user + "&type=" + type;
+		list_url = mod_location + "/modules/status/get_users_list.php" + data_string;
+		statusHeading = "Followers of " + user;
+		$(".status_heading").html(statusHeading);
+	}
+
+	var xmlHttp=GetXmlHttpObject();
+	if (xmlHttp==null)
+	{
+		alert ("NO Luck at this time");
+		return;
+	} 
+	xmlHttp.open("GET", list_url , true);
+	xmlHttp.send(null); 	
+				
+	xmlHttp.onreadystatechange = function()
+	{
+		if(xmlHttp.readyState == 4)
+		{
+			var doc=(xmlHttp.responseXML);
+			
+			if (doc != null)
+			{
+				$(".status_error_notice").slideUp('slow').html("");
+				var html = '';
+				$(".status_detail_wrapper").html(html);
+				$(".status_friend_updates_title").html("Alphabetical Order").addClass("h4");
+				parseXMLUsersList(doc, type);
+				
+				$("#direct_list_url_textbox").val(site_base + "/module.php?module=wall&wall=active&member=" + user + "&view=" + type).css({
+					"background-color": "#E4E4E4",
+				});
+				$(".direct_list_url_container").slideDown('normal');
+				if (type == "friends_list")
+				{
+					$(".direct_list_url_container").slideDown('normal');
+
+				}
+				if (type == "followers_list")
+				{
+					$(".direct_list_url_container").slideDown('normal');
+				}
+
+				xmlHttp.close;
+				$('#search_status_form').clearForm();
+				$('.status_search_input').removeAttr("disabled");				
+			}
+			else
+			{
+				$(".get_more_button").attr("disabled", "disabled").fadeOut('slow');
+				var statusHeading = "Who is " + user + "?";
+				$(".status_heading").html(statusHeading);
+				$(".status_friend_updates_title").html("I Looked Everywhere, but....").addClass("h4");
+				$(".status_message_container").slideUp('fast');
+				$(".status_error_notice").html("Your search has no matches. Try another search or something.");
+				if (activeUser == "")
+					$(".status_error_notice").html("Your search has no matches. Try another search or something. Wait a minute...are you logged in? You have to be logged in. <br><br>Not a member? Registration is Free and takes 20 seconds.").slideDown('slow');
+				else 
+					$(".status_error_notice").html("Your search has no matches. Try another search or something.");
+				$('.status_search_input').removeAttr("disabled");
+				$(".error_login_btn").fadeIn(3000);
+				$(".error_register_btn").fadeIn(3000);
+			}
+				$("#loading").hide();
+		}
+	}		
+
+}
+
+function parseXMLUsersList(doc, type)
+{
+	var current_username = '';
+	var html = '';
+	var start_index = 0;
+	if (pagination_action != "more_status")
+	{
+		$(".status_detail_wrapper").html(html);
+		$(".status_detail_wrapper").slideDown('slow');
+	}
+	$(".status_message_tools").hide();
+
+	var test = doc.getElementsByTagName('user_id');
+		
+	start_index = (current_page-1) * 10;
+	
+	for (x =0, y = start_index; x < test.length; y++, x++)
+	{
+		var user_login, base_url, user_id, update_id, status_text, member_url, user_wall_link, user_avatar, can_manage, allow_search, add_friend_url, remove_friend_url;
+
+		
+		user_id 		= doc.getElementsByTagName("user_id")[x].childNodes[0].nodeValue;
+		allow_search 	= doc.getElementsByTagName("allow_search")[x].childNodes[0].nodeValue;
+		user_login 		= doc.getElementsByTagName("user_login")[x].childNodes[0].nodeValue;
+		update_id 		= doc.getElementsByTagName("update_id")[x].childNodes[0].nodeValue;
+		status_text 	= doc.getElementsByTagName("status_text")[x].childNodes[0].nodeValue;
+		base_url 		= doc.getElementsByTagName("base-url")[x].childNodes[0].nodeValue;
+		user_avatar		= doc.getElementsByTagName("user_avatar")[x].childNodes[0].nodeValue;
+		can_manage		= doc.getElementsByTagName("can_manage")[x].childNodes[0].nodeValue;
+		member_url		= doc.getElementsByTagName("member_url")[x].childNodes[0].nodeValue;
+		update_time		= doc.getElementsByTagName("update_time")[x].childNodes[0].nodeValue;
+		current_username= doc.getElementsByTagName("current_username")[x].childNodes[0].nodeValue;
+		total_statuses	= doc.getElementsByTagName("total_statuses")[x].childNodes[0].nodeValue;
+		total_pages 	= doc.getElementsByTagName("total_pages")[x].childNodes[0].nodeValue;
+		is_my_friend	= doc.getElementsByTagName("is_my_friend")[x].childNodes[0].nodeValue;
+		is_my_follower	= doc.getElementsByTagName("is_my_follower")[x].childNodes[0].nodeValue;
+
+// ALSO SEE IF YOU CAN ADD A LINK TO DISPLAY THE USER SUBMITTED LENSES PAGE.
+
+		if (status_text.match(/@\w+/g) != null)
+		{
+			status_text = user_linkify(status_text);
+		}
+			
+		if ((allow_search == 1) && (x == 0))
+		{
+			//alert (allow_search);
+			$(".status_search").slideDown('slow');
+		}
+		d_link 				= base_url + "/modules/status/status.php?did=" + update_id;
+		hide_link 			= base_url + "/modules/status/status.php?hid=" + update_id;
+		
+		// BASE FILE UPDATE libs/friend.php
+		add_friend_url 		= base_url + "/user.php?login="+ user_login + "&view=addfriend";
+		remove_friend_url 	= base_url + "/user.php?login="+ user_login + "&view=removefriend";
+		
+		if ((pagination_action == "more_status") && (x == 0) && (current_page != 1))
+		{
+			html = "Page " + current_page;
+		}
+		
+		html += '<div class=\"status_message_container\" id=\"status_message_container_' + y +'\" onmouseover=\"javascript:showBubble(' + y + ');return false;\" >';
+			html += '<img class=\"status_message_avatar\" id=\"avatar_' + y +'\" src=\"' + user_avatar + '\"/>';
+			html += '<div class=\"status_body\" id=\"status_body_' + y +'\">';
+				html += '<div class=\"status_text\" id=\"status_text_' + x +'\">';
+				html += '<span class=\"status_message_username\"  id=\"status_message_username_' + x +'\"><b><a href=\"#\" id=\"avatar_url_' + x +'\" onclick=\"javascript:getUserWall(\'' + user_login + '\');return false;\">' + user_login + ' </a></b></span> ';
+
+					html += status_text;
+					html += '<br/>';
+				html += '</div>';
+						html += '<div class=\"bubbleInfo\">';
+							html += '<table id=\"dpop_' + y + '\" class=\"popup\">';
+							html += '<tbody><tr>';
+							html += '<td id=\"topleft\" class=\"corner\"></td>';
+							html += '<td class=\"top\"></td>';
+							html += '<td id=\"topright\" class=\"corner\"></td></tr>';
+							html += '<tr><td class=\"left\"></td>';
+							html += '<td><table class=\"popup-contents\">';
+							html += '<tbody class=\"bubble_body\">';
+					html += '<tr class=\"follow_list_link\"><th scope="row" ><div align="left"><a href=\"#\" onclick=\"javascript:sayhi(\'' + user_login + '\', '+ y +');return false;\" id=\"sayhi_' + y +'\">Say Hi!</a></div></th></tr>';
+
+					html += '<tr class=\"follow_list_link\"><th scope="row"><div align="left"><a href=\"' + member_url + '\" id=\"member_url_' + y +'\">Show Profile</a></div></th></tr>';
+					html += '<tr class=\"follow_list_link\" onclick=\"javascript:getUsersList(1, \'' + user_login + '\', \'followers_list\');return false;\"><th scope="row"><div align="left">Show Followers</div></th></tr> ';					
+					html += '<tr class=\"follow_list_link\" onclick=\"javascript:getUsersList(1, \'' + user_login + '\', \'friends_list\');return false;\"><th scope="row"><div align="left">Show Following</div></th></tr> ';					
+					html += '<tr class=\"follow_list_link\"><th scope="row"><div align="left"><a href=\"' + base_url + '/user.php?login=' + user_login + '&view=history\" id=\"lens_history_url_' + y +'\">Stories Submitted</a></div></th></tr> ';
+						if (is_my_friend > 0)
+							html += '<tr class=\"remove_list_link\" id=\"remove_link_' + y +'\"><th scope="row"><div align="left"><a href=\"#\" id=\"follow_link_' + x +'\" onclick=\"javascript:removeUser(\'' + user_login + '\');return false;\">Remove ' + user_login + '</a></div></th></tr>';
+						else if (is_my_friend <= 0)
+							html += '<tr class=\"follow_list_link\" id=\"follow_link_' + y +'\"><th scope="row"><div align="left"><a href=\"' + add_friend_url + '\" id=\"follow_link_' + y +'\" onclick=\"javascript:addUser(\'' + user_login + '\');return false;\">Follow ' + user_login + '</a></div></th></tr>';
+
+	
+							html += '</tbody>';
+							html += '</table></td>';
+							html += '<td class=\"right\"></td> </tr>';  					   
+							html += '<tr>';
+							html += '<td class=\"corner\" id=\"bottomleft\"></td>';
+							html += '<td class=\"bottom\"></td>';
+							html += '<td id=\"bottomright\" class=\"corner\"></td>';
+							html += '</tr></tbody></table>';
+						
+					html += '</div>';
+			
+				html += '<div class=\"status_message_time\" id=\"status_message_time_' + y +'\"> ';
+					html += update_time + ' ago';
+				html += '</div>';
+
+
+			html += '</div>';
+			html += '</div>'; //
+
+			$(".status_detail_wrapper").append(html);//.appendTo(".status_detail_wrapper");
+				
+			html = '';
+	}	
+	$('.status_search_input').removeAttr("disabled");
+
+	return current_username;
+}
+function showUsersControls (link_container_id)
+{
+	$("#status_message_tools_users_list_container_" + link_container_id).css("display", "block").fadeIn(500);
+	$("#status_message_tools_users_list_container_" + link_container_id).hover(function() {
+		$("#status_message_tools_users_list_container_" + link_container_id).show();
+	},
+	function() {
+		setTimeout(function() {
+			$("#status_message_tools_users_list_container_" + link_container_id).fadeOut(500);
+		}, 5000);
+	});
+	
+	setTimeout(function() {
+		$("#status_message_tools_users_list_container_" + link_container_id).fadeOut(500);
+	}, 5000);
+}
+function showStatusControls (link_container_id, container_id)
+{
+	$("#" + container_id + link_container_id).css("display", "block").fadeIn(500);
+}
+function hideStatusControls (link_container_id, container_id)
+{
+	$("#" + container_id + link_container_id).css("display", "none");
+}
+
+
+function getMoreStatus(page_number, user) 
+{
+	var source_file = "";
+	var data_string = "";
+	
+	data_string = "?page=" + page_number + "&username=" + activeUser;
+	
+	if (loggedUser == activeUser)	
+		data_string = "?page=" + page_number;
+	else 
+		data_string = "?page=" + page_number + "&username=" + activeUser;
+	
+	if (type == "search")
+		data_string = "?page=" + page_number + "&ssearch=" + search_string;
+
+	if ((type == "friends_list") || (type == "followers_list"))
+		data_string = "?page=" + page_number + "&username=" + activeUser;
+
+	$(".show_more_link_loading").show();
+	
+	pagination_action  = "more_status";
+	if ((type == "status") || (type == "refresh_status"))
+		source_file = "get_status.php";
+	if (type == "user_wall")
+		source_file = "get_user_status.php";
+	if (type == "search")
+		source_file = "get_search_results.php";
+	if ((type == "friends_list") || (type == "followers_list"))
+		source_file = "get_users_list.php";
+
+	if ((type == "replies") && (loggedUser == activeUser))
+	{
+		type = "status";
+		source_file = "get_status.php";
+	}
+	else if ((type == "replies") && (loggedUser != activeUser))
+	{
+		type = "user_wall";
+		source_file = "get_user_status.php";
+	}
+	
+	var xmlHttp=GetXmlHttpObject();
+	if (xmlHttp==null)
+	{
+		alert ("NO Luck at this time");
+		return;
+	} 
+	xmlHttp.open("GET", mod_location + "/modules/status/" + source_file + data_string, true);
+
+	xmlHttp.send(null); 	
+	xmlHttp.onreadystatechange = function()
+	{
+		if(xmlHttp.readyState == 4)
+		{
+			var doc=(xmlHttp.responseXML);
+			if (doc != null)
+			{
+				$(".status_error_notice").slideUp('slow').html("");
+				if ((type == "friends_list") || (type == "followers_list"))
+					current_username = parseXMLUsersList(doc, type);
+				else
+					current_username = parseXML(doc, type);
+										
+				xmlHttp.close;
+				$("#loading").hide();
+				$(".show_more_link_loading").slideUp('fast');
+
+			}
+			else
+			{
+				$(".status_message_container").slideUp('fast');
+				$(".status_error_notice").html("Whoa... wait a minute, something is not right. I can't find anything on you. Maybe you should try reloading the page or submit a status update.").slideDown('slow');
+				$("#loading").hide();
+			}
+		}
+	}		
+}
+
+
+function getStatus(type, sid) 
+{
+	var current_username;
+	if (last_id == 0)
+		var data_string = "?page=" + current_page;
+	else 
+		var data_string = "?page=" + current_page + "&sid=" + last_id;
+	
+	var url = mod_location + "/modules/status/get_status.php"+data_string;
+	if (reply_to_id != 0)
+	{
+		data_string = "?page=1&reply_to_id=" + reply_to_id;
+		url = mod_location + "/modules/status/get_status_replies.php"+data_string;
+	}
+	
+	if (sid != null)
+	{
+		data_string = "?page=1&sid=" + sid;
+		url = mod_location + "/modules/status/get_status_sid.php"+data_string;
+
+	}
+
+	$("#loading").show();
+	
+	if (type == "refresh_status")
+		type = "refresh_status";
+	else
+		type = "status";
+	
+	var xmlHttp=GetXmlHttpObject();
+	if (xmlHttp==null)
+	{
+		alert ("Your browser does not support XMLHTTP. Try another browser");
+		return;
+	} 
+	xmlHttp.open("GET", url, true);
+	xmlHttp.send(null); 	
+	xmlHttp.onreadystatechange = function()
+	{
+		if(xmlHttp.readyState == 4)
+		{
+			var doc=(xmlHttp.responseXML);
+			if (doc != null)
+			{
+				if (reply_to_id != 0)
+				{
+					type = "replies";
+					total_replies = parseXML(doc, type);
+					reply_to_id = 0;
+				}
+				else 
+				{
+					current_username = parseXML(doc, type);
+					  if (type != "refresh_status")
+					  {
+						  $(".status_error_notice").slideUp('slow').html("");
+						  $(".direct_list_url_container").slideUp('fast');
+						  getUserAboutInfo(current_username);
+						  linkifyFriendsFollowersButtons(current_username);
+						  showFriends(current_username);
+						//  var statusHeading = '<img class=\"avatar_top\" id=\"avatar_' + current_username +'\" src=\"' + activeUser_avatar + '\"/>' +  current_username;
+							var statusHeading = current_username;
+							$(".status_heading").html(statusHeading);
+					  }
+					last_id = 0;
+
+					loggedUser = current_username;
+					activeUser = current_username;
+	
+					last_status_text = "<b>Latest: </b>" + last_status_text;
+					if (last_update_type != "c")
+						$(".last_status_heading").html(last_status_text);
+					
+					last_update_type = "m";
+	
+					$("#status_submit_textarea").focus().val("").css({
+						"background-color": "#fff",
+					});
+					
+					if (type != "refresh_status")
+					{
+						$(".status_right_sidebar").slideDown('fast');
+						$(".user_send_message_btn").fadeOut('fast');
+						$("h4.status_submit_title").html("What Are You Doing?").show();
+						$(".status_submit_form").slideDown('fast');	
+						$(".my_wall_link").css("display", "none");	
+					}
+					
+				}
+				$("#loading").hide();
+			}
+			else
+			{
+				$(".get_more_button").attr("disabled", "disabled").hide();
+				$(".direct_list_url_container").slideUp('fast');
+				$("#main_status_submit_form").attr("disabled", "disabled");
+				$("#backgroundPopup").css("z-index", "3000");
+				$(".status_message_container").slideUp('fast');
+				var statusHeading = "Something is not right...";
+				$(".status_heading").html(statusHeading);
+
+				$(".status_error_notice").html("Hey, I can't find anything on this member. You must to be Logged in to see their Wall and status updates. Are you Logged in?").slideDown('slow');
+				// DEPRICATE THE FOLLOWING METHOD OF LOGIN AND REGISTER BUTTONS ONCE YOU ARE ABLE TO GET THE BASIC INFO ON PAGE LOAD.
+				$("#loading").hide();
+				$(".error_login_btn").fadeIn(3000);
+				$(".error_register_btn").fadeIn(3000);
+			}
+	
+		}
+//		setInterval("getStatus()", 10000);
+	}		
+}
+
+function getUserWall(user_name) 
+{
+	current_page = 1;
+	$(".get_more_button").removeAttr("disabled").html("Show More");
+	
+	var statusHeading = "No title";
+	$("#loading").show();
+	
+	type = "user_wall";
+				
+	var xmlHttp=GetXmlHttpObject();
+	if (xmlHttp==null)
+	{
+		alert ("NO Luck at this time");
+		return;
+	} 
+
+	xmlHttp.open("GET", mod_location + "/modules/status/get_user_status.php?page=" + current_page +"&username=" + user_name, true);
+	xmlHttp.send(null); 	
+				
+	xmlHttp.onreadystatechange = function()
+	{
+		if(xmlHttp.readyState == 4)
+		{
+			var doc=(xmlHttp.responseXML);
+			if (doc != null)
+			{
+				$(".status_error_notice").slideUp('slow').html("");
+				var html = '';
+				$(".status_detail_wrapper").html(html);
+				$(".status_right_sidebar").slideDown('fast');
+				var current_username = parseXML(doc, type);
+				getUserAboutInfo(user_name);
+				activeUser = user_name;
+				showFriends(user_name);
+
+				xmlHttp.close;
+				statusHeading = user_name;// + "'s Wall";
+				$(".status_heading").html(statusHeading);
+				
+				if (type == "user_wall")
+				{
+					$(".status_submit_form").hide('fast');
+					$("h4.status_submit_title").hide('fast');
+					
+					$(".last_status_heading").css("font-size", "24px");
+					$(".last_status_heading").css("font-style", "normal");
+					if (loggedUser != activeUser)
+					{
+						$(".user_send_message_btn").fadeIn('slow');
+						$(".user_send_message_btn").html("Send a Message");
+					}
+					else
+					{
+						$(".user_send_message_btn").fadeOut('fast');
+						$("h4.status_submit_title").html("What Are You Doing?").show();
+						$(".status_submit_form").slideDown('fast');
+			
+						if (last_update_type != "c")
+							$(".last_status_heading").html(last_status_text);
+						$(".last_status_heading").css("font-size", "12px");
+						$(".last_status_heading").css("font-style", "italic");
+						$(".last_status_heading").css("width", "80%");
+					}
+					
+				}	
+				else
+				{
+					$(".last_status_heading").css("font-size", "12px");
+					$(".last_status_heading").css("font-style", "normal");
+				}
+				
+				if (loggedUser != activeUser)
+					$(".my_wall_link").css("display", "block").show();
+				else
+					$(".my_wall_link").css("display", "none");
+				
+				last_status_text = "<b>Latest: </b>" + last_status_text;
+				$(".last_status_heading").html(last_status_text);
+
+				$(".direct_list_url_container").slideUp('fast');
+				linkifyFriendsFollowersButtons(activeUser);
+
+				$("#loading").hide();				
+			
+				$("#status_submit_textarea").focus().val("@"+ user_name + " ").css({
+					"background-color": "#fff",
+				}).click(function(){
+				});
+			}				
+			else
+			{
+				if (loggedUser != "") // meaning user is is logged in
+				{
+					$(".status_message_container").slideUp('fast');
+					$(".status_error_notice").html(user_name + " has no status updates. Maybe YOU should send " + user_name +" a quick message. <br/>").slideDown('slow');
+					$(".direct_list_url_container").slideUp('fast');
+					statusHeading = user_name;// + "'s Wall"; // THIS NEEDS TO CHANGE 
+					getUserAboutInfo(user_name);
+					activeUser = user_name;
+					showFriends(user_name);
+				}
+				else 
+				{
+					$(".get_more_button").attr("disabled", "disabled").hide();
+					$(".direct_list_url_container").slideUp('fast');
+					$(".status_right_sidebar").slideUp('fast');
+					$("#main_status_submit_form").attr("disabled", "disabled");
+					$("#backgroundPopup").css("z-index", "3000");
+					
+					$(".status_message_container").slideUp('fast');
+					var statusHeading = "Something is not right...";
+					$(".status_heading").html(statusHeading);
+	
+					$(".status_error_notice").html("Hey, I can't find anything on this member. You must to be Logged in to see The Members Wall and member status updates. Are you Logged in?").slideDown('slow');
+					// DEPRICATE THE FOLLOWING METHOD OF LOGIN AND REGISTER BUTTONS ONCE YOU ARE ABLE TO GET THE BASIC INFO ON PAGE LOAD.
+					$("#loading").hide();
+					$(".error_login_btn").fadeIn(3000);
+					$(".error_register_btn").fadeIn(3000);
+				}
+			}	
+		}
+	}		
+}
+
+function parseXML(doc, type)
+{
+	var current_username = '';
+	var html;
+	
+	if (type == "user_wall")
+	{
+	}	
+	else
+	{
+		$(".last_status_heading").css("font-size", "12px");
+		$(".last_status_heading").css("font-style", "normal");
+	}
+	if (type == "replies")
+	{
+		container_id = "status_replies_container_";		
+		container_class = "status_replies_container";
+		container_tools_id = "status_replies_message_tools_";
+		container_tools_class = "status_replies_message_tools";
+		var avatar_class = "status_reply_avatar";
+		var body_class = "reply_body";
+	}
+	else 
+	{
+		var container_id = "status_message_container_";
+		var container_class = "status_message_container";
+		var container_tools_id = "status_message_tools_";
+		var container_tools_class = "status_message_tools";
+		var avatar_class = "status_message_avatar";
+		var body_class = "status_body";
+		
+	}
+
+	var start_index = 0;
+
+	if ((pagination_action != "more_status") && (type != "replies"))
+	{
+		$(".status_detail_wrapper").html("");
+		$(".status_detail_wrapper").slideDown('slow');
+	}
+
+	var test = doc.getElementsByTagName('update_id');	
+	start_index = (current_page-1) * 10;
+	
+	for (x =0, y = start_index; x < test.length; y++, x++)
+	{
+		var user_login, base_url, user_id, status_text, d_link, r_link, permalink, update_user_id, update_type, user_avatar, hide_link, can_manage, is_my_status, allow_search, add_friend_url, remove_friend_url, reply_to, num_replies;
+		
+		allow_search 	= doc.getElementsByTagName("allow_search")[x].childNodes[0].nodeValue;
+		user_login 		= doc.getElementsByTagName("user_login")[x].childNodes[0].nodeValue;
+		update_id 		= doc.getElementsByTagName("update_id")[x].childNodes[0].nodeValue;
+		update_type 	= doc.getElementsByTagName("update_type")[x].childNodes[0].nodeValue;
+		update_user_id 	= doc.getElementsByTagName("update_user_id")[x].childNodes[0].nodeValue;
+		status_text 	= doc.getElementsByTagName("status_text")[x].childNodes[0].nodeValue;
+		base_url 		= doc.getElementsByTagName("base-url")[x].childNodes[0].nodeValue;
+		permalink 		= doc.getElementsByTagName("status_permalink")[x].childNodes[0].nodeValue;
+		user_avatar		= doc.getElementsByTagName("user_avatar")[x].childNodes[0].nodeValue;
+		can_manage		= doc.getElementsByTagName("can_manage")[x].childNodes[0].nodeValue;
+		is_my_status	= doc.getElementsByTagName("is_my_status")[x].childNodes[0].nodeValue;
+		member_url		= doc.getElementsByTagName("member_url")[x].childNodes[0].nodeValue;
+		update_time		= doc.getElementsByTagName("update_time")[x].childNodes[0].nodeValue;
+		current_username= doc.getElementsByTagName("current_username")[x].childNodes[0].nodeValue;
+		total_statuses	= doc.getElementsByTagName("total_statuses")[x].childNodes[0].nodeValue;
+		if (type == "replies")
+			total_replies_pages = doc.getElementsByTagName("total_pages")[x].childNodes[0].nodeValue;
+		else
+			total_pages = doc.getElementsByTagName("total_pages")[x].childNodes[0].nodeValue;
+			
+		reply_to 		= doc.getElementsByTagName("reply_to")[x].childNodes[0].nodeValue;
+		num_replies		= doc.getElementsByTagName("num_replies")[x].childNodes[0].nodeValue;
+		
+		activeUser_avatar = user_avatar;
+				
+		if (type != "search")
+		{
+			last_status_text= doc.getElementsByTagName("last_status_text")[x].childNodes[0].nodeValue;
+			if (last_status_text.match(/@\w+/g) != null)
+			{
+				last_status_text = user_linkify(last_status_text);
+			}
+		}
+		if (status_text.match(/@\w+/g) != null)
+		{
+			status_text = user_linkify(status_text);
+		}
+
+		var regexp = /((ftp|http|https):\/\/(\w+:{0,1}\w*@)?(\S+)(:[0-9]+)?(\/|\/([\w#!:.?+=&%@!\-\/]))?)/gi;
+		if (status_text.match(regexp) != null)
+		{
+			status_text = status_text.replace(regexp,'<a href="$1">$1</a>');
+		}
+		
+		if ((allow_search == 1) && (x == 0))
+		{
+			$(".status_search").slideDown('slow');
+		}
+		if (x == 0)
+		{
+			last_update_type = update_type;
+		}
+		
+		d_link 				= base_url + "/modules/status/status.php?did=" + update_id;
+		hide_link 			= base_url + "/modules/status/status.php?hid=" + update_id;
+		
+		// BASE FILE UPDATE libs/friend.php
+		add_friend_url 		= base_url + "/user.php?login="+ user_login + "&view=addfriend";
+		remove_friend_url 	= base_url + "/user.php?login="+ user_login + "&view=removefriend";
+		
+		if ((pagination_action == "more_status") && (x == 0) && (current_page != 1))
+		{
+			html = "Page " + current_page;
+		}
+
+		html = '<div class=\"' + container_class +'\" id=\"' + container_id + update_id +'\" onmouseover=\"javascript:showStatusControls(' + update_id + ', \'' + container_tools_id + '\'); return false; \" onmouseout=\"javascript:hideStatusControls(' + update_id + ', \'' + container_tools_id + '\'); return false;\">';
+			html += '<img class=\"' + avatar_class +'\" id=\"avatar_' + update_id +'\" src=\"' + user_avatar + '\"/>';
+			html += '<div class=\"' + body_class +'\" id=\"status_body_' + update_id +'\">';
+			
+				html += '<div class=\"status_text\" id=\"status_text_' + update_id +'\">';
+		if (num_replies > 0)
+		{
+			html += '<div class=\"replies_btn\" id=\"replies_btn_' + update_id +'\" onclick=\"javascript:getAllReplies(' + update_id + ');return false;\"> ' + num_replies + '</div>';
+
+		}
+				html += '<span class=\"status_message_username\"  id=\"status_message_username_' + x +'\"><b><a href=\"#\" id=\"avatar_url_' + x +'\" onclick=\"javascript:getUserWall(\'' + user_login + '\');return false;\">' + user_login + ' </a></b></span> ';
+
+					html += status_text;
+					html += '<br/>';
+				html += '</div>';
+
+			html += '<div class=\"' + container_tools_class +'\" id=\"' + container_tools_id + update_id +'\">';
+				if (is_my_status == 0) 
+				{
+					html += '<a href=\"#\" class=\"reply_link\" id=\"reply_link_' + update_id +'\" onclick=\"javascript:lets_reply(' + update_id + ', \''+ user_login + '\');return false;\">Reply </a>';
+					if (hide_link != "") {
+						html += '<a href=\"#\" class=\"hide_link\"  id=\"hide_link_' + update_id +'\" onclick=\"javascript:hide_status(' + reply_to + ', ' + num_replies + ', ' + update_id + ', \'' + container_id + '\');return false;\">Hide </a>';
+					}
+				}
+				if (can_manage == 1) {
+					html += '<a href=\"#\" class=\"delete_link\" id=\"del_link_' + update_id +'\" onclick=\"javascript:del_status(' + reply_to + ', ' + num_replies + ', ' + update_id + ', \'' + container_id + '\');return false;\">Delete </a>';
+				}
+				
+			html += '</div>';
+
+				html += '<div class=\"status_message_time\" id=\"status_message_time_' + update_id +'\"> ';
+					html += update_time + ' ago';
+				html += '</div>';
+			html += '</div>';
+			html += '</div>';
+			
+		if (type == "replies")
+		{
+			var isVisible = $("#" + container_id + update_id).is(':visible');
+
+			if (isVisible == false)
+				$("#status_message_container_" + reply_to).append(html);	
+			else
+				$("#" + container_id + update_id).remove();	
+		}
+		else
+		{
+
+			if (last_id == 0)
+			{
+				$(".status_detail_wrapper").append(html);
+				html = '';
+			}
+			else
+			{
+				type = "refresh_status";
+				getStatus(type);
+			}	
+		}
+
+	}	
+	$('.status_search_input').removeAttr("disabled");
+
+	return current_username;
+}
+function getAllReplies(id)
+{
+	reply_to_id = id;
+	type = "replies";
+	getStatus(type);	
+}
+
+function user_linkify(status_text) 
+{
+	status_text = status_text.replace(/@([^\s]+)/g, '@<a href=\"#\" class=\"user_wall_link\" onclick=\"javascript:getUserWall(\'$1\');return false;\">$1</a>');
+	return status_text;	
+}
+
+function linkifyFriendsFollowersButtons(username)
+{
+	var this_username = "";
+	this_username = username;
+
+	$(".friends_link").attr("id", "friends_link_" + activeUser);	
+	$(".followers_link").attr("id", "followers_link_" + activeUser);
+
+	$("#followers_link_" + activeUser).click(function() {
+		type = "followers_list";
+		current_page = 1;
+		showFollowers(activeUser);	
+		$("#direct_list_url_textbox").val(site_base + "/module.php?module=wall&wall=active&member=" + activeUser + "&view=" + type).css({
+			"background-color": "#E4E4E4",
+		});
+	});				
+
+	$("#friends_link_" + activeUser).click(function() {		
+		type = "friends_list";
+				
+		current_page = 1;
+		showFriends(activeUser);
+		$("#direct_list_url_textbox").val(site_base + "/module.php?module=wall&wall=active&member=" + activeUser + "&view=" + type).css({
+			"background-color": "#E4E4E4",
+		});
+
+	});		
+}
+
+function showFriends(user_name) 
+{
+	var html = '';
+	$(".status_myfriends_container").html(html);
+	var html = '';
+	$(".status_myfollowers_container").html(html);
+	$(".status_myfollowers_container").slideUp('fast');
+	$(".status_myfriends_container").slideUp('fast');
+
+	getUserFriends(user_name);
+}
+
+function showFollowers(user_name) 
+{
+	var local_username = "";
+	local_username = user_name;
+
+	var html = '';
+	$(".status_myfollowers_container").html(html);
+	var html = '';
+	$(".status_myfriends_container").html(html);
+	$(".status_myfriends_container").slideUp('fast');
+	$(".status_myfollowers_container").slideUp('fast');
+
+	getUserFollowers(local_username);
+}
+
+function getUserFriends(user_name) 
+{
+	$(".followers_error_notice").slideUp('fast');
+	$("#followers_list_view").slideUp('fast');
+	$(".status_myfollowers_container").slideUp('fast');
+	var html = '';
+	$(".friends_avatars_container").html(html);
+	$(".status_myfriends").slideDown('slow');
+
+	$("#loading_friend_icons").show();
+	var xmlHttp=GetXmlHttpObject();
+	if (xmlHttp==null)
+	{
+		alert ("NO Luck at this time");
+		return;
+	} 
+
+	xmlHttp.open("GET", mod_location + "/modules/status/get_friends.php?page=&username=" + user_name, true);
+	xmlHttp.send(null); 	
+				
+	xmlHttp.onreadystatechange = function()
+	{
+		if(xmlHttp.readyState == 4)
+		{
+			var doc=(xmlHttp.responseXML);
+			$(".status_myfollowers_container").slideUp('fast');
+			if (doc != null)
+			{
+				$(".friends_error_notice").slideUp('slow');
+				parseXMLForFriendsAvatars(doc, user_name);
+				$(".status_myfriends_container").slideDown('fast');
+				$("#friends_list_view").slideDown('fast');
+
+				xmlHttp.close;
+
+				$(".friends_link").removeAttr("id");	
+			}
+			else
+			{
+				$(".status_myfriends_container").slideUp('fast');
+				$(".friends_error_notice").html(user_name + " has no friends. ").slideDown('slow');
+			}
+
+			$("#loading_friend_icons").hide();
+			
+		}
+	}		
+}
+
+function parseXMLForFriendsAvatars(doc, user_name)
+{		
+		var html_avatars = '';
+		$(".status_myfriends_container").html(html_avatars);
+		$(".status_myfriends_container").slideDown('slow');
+		$(".status_myfriends").slideDown('slow');
+
+	var test = doc.getElementsByTagName('user_id');
+	var user_login = user_name;
+
+	for (x=0; x < test.length; x++)
+	{
+		var user_login, base_url, user_id, user_avatar, member_url, add_friend_url, remove_friend_url;
+		
+		user_id 		= doc.getElementsByTagName("user_id")[x].childNodes[0].nodeValue;
+		user_login 		= doc.getElementsByTagName("user_login")[x].childNodes[0].nodeValue;
+		base_url 		= doc.getElementsByTagName("base-url")[x].childNodes[0].nodeValue;
+		user_avatar		= doc.getElementsByTagName("user_avatar")[x].childNodes[0].nodeValue;
+		member_url		= doc.getElementsByTagName("member_url")[x].childNodes[0].nodeValue;
+		
+		add_friend_url 	= base_url + "/user.php?login="+ user_login + "&view=addfriend";
+		remove_friend_url 	= base_url + "/user.php?login="+ user_login + "&view=removefriend";
+
+		html_avatars += '<div class=\"friends_avatars_container\" id=\"friends_avatars_container_' + x +'\">';
+		html_avatars += '<a href=\"#\" id=\"avatar_url_' + x +'\" onclick=\"javascript:getUserWall(\'' + user_login + '\');return false;\"><img class=\"tiny_friend_avatar\" id=\"tiny_friend_avatar_' + x +'\" src=\"' + user_avatar + '\" alt=\"' + user_login + '\" title=\"See ' + user_login + ' wall\" /></a>';
+
+		html_avatars += '</div>';
+		$(".status_myfriends_container").append(html_avatars);
+		$(".status_myfriends_container").slideDown('fast');
+		html_avatars = '';
+	}
+}
+
+function getUserFollowers(user_name) 
+{
+	$(".friends_error_notice").slideUp('fast');
+	$(".status_myfriends_container").slideUp('fast');
+	$(".status_myfollowers").slideDown('slow');
+	$("#friends_list_view").slideUp('fast');
+	var html = '';
+	$(".followers_avatars_container").html(html);
+	
+	$("#loading_followers_icons").show();
+	
+	var xmlHttp=GetXmlHttpObject();
+	if (xmlHttp==null)
+	{
+		alert ("NO Luck at this time");
+		return;
+	} 
+
+	xmlHttp.open("GET", mod_location + "/modules/status/get_followers.php?page=&username=" + user_name, true);
+	xmlHttp.send(null); 	
+				
+	xmlHttp.onreadystatechange = function()
+	{
+		if(xmlHttp.readyState == 4)
+		{
+			var doc=(xmlHttp.responseXML);
+			if (doc != null)
+			{
+				$(".followers_error_notice").slideUp('slow').html("");
+				parseXMLForFollowersAvatars(doc, user_name);
+				$(".status_myfollowers_container").slideDown('fast');
+				$("#followers_list_view").slideDown('fast');
+				xmlHttp.close;
+				$(".followers_link").removeAttr("id");
+			}
+			else
+			{
+				$(".status_myfollowers").slideUp('fast');
+				$(".followers_error_notice").html(user_name + " has no followers at this time. ").slideDown('slow');
+			}
+			$("#loading_followers_icons").hide();
+		}
+	}		
+}
+
+function parseXMLForFollowersAvatars(doc, user_name)
+{
+	var html_avatars = '';
+	$(".status_myfollowers_container").html(html_avatars);
+	$(".status_myfollowers_container").slideDown('slow');
+	$(".status_myfollowers").slideDown('slow');
+
+	var test = doc.getElementsByTagName('user_id');
+	var user_login = user_name;
+
+	$(".status_myfollowers").slideDown('slow');
+	$(".status_myfollowers_container").slideDown('slow');
+
+	for (x=0; x < test.length; x++)
+	{
+		var user_login, base_url, user_id, user_avatar, member_url, add_friend_url, remove_friend_url;
+		
+		user_id 		= doc.getElementsByTagName("user_id")[x].childNodes[0].nodeValue;
+		user_login 		= doc.getElementsByTagName("user_login")[x].childNodes[0].nodeValue;
+		base_url 		= doc.getElementsByTagName("base-url")[x].childNodes[0].nodeValue;
+		user_avatar		= doc.getElementsByTagName("user_avatar")[x].childNodes[0].nodeValue;
+		member_url		= doc.getElementsByTagName("member_url")[x].childNodes[0].nodeValue;
+		
+		add_friend_url 	= base_url + "/user.php?login="+ user_login + "&view=addfriend";
+		remove_friend_url 	= base_url + "/user.php?login="+ user_login + "&view=removefriend";
+
+		html_avatars += '<div class=\"followers_avatars_container\" id=\"followers_avatars_container_' + x +'\">';
+		html_avatars += '<a href=\"#\" id=\"followers_avatar_url_' + x +'\" onclick=\"javascript:getUserWall(\'' + user_login + '\');return false;\"><img class=\"tiny_followers_avatar\" id=\"tiny_followers_avatar_' + x +'\" src=\"' + user_avatar + '\" alt=\"' + user_login + '\" title=\"See ' + user_login + ' wall\" /></a>';
+		html_avatars += '</div>';
+
+		$(".status_myfollowers_container").append(html_avatars);//.appendTo(".status_detail_wrapper");
+		$(".status_myfollowers_container").slideDown('fast');
+
+		html_avatars = '';
+	}
+}
+
+function getUserAboutInfo(user_name) 
+{
+	$("#loading_user_about_info").show();
+
+	var xmlHttp=GetXmlHttpObject();
+	if (xmlHttp==null)
+	{
+		alert ("NO Luck at this time");
+		return;
+	} 
+
+	xmlHttp.open("GET", mod_location + "/modules/status/get_user_about_info.php?page=&username=" + user_name, true);
+	xmlHttp.send(null); 	
+				
+	xmlHttp.onreadystatechange = function()
+	{
+		if(xmlHttp.readyState == 4)
+		{
+			var doc=(xmlHttp.responseXML);
+			if (doc != null)
+			{
+				$(".user_about_info_error_notice").slideUp('slow');
+				parseXMLForUserAboutInfo(doc);
+				
+				$("#direct_url_textbox").val(site_base + "/module.php?module=wall&wall=active&member=" + activeUser).css({
+					"background-color": "#E4E4E4",
+				});
+				
+				xmlHttp.close;
+			}
+			else
+			{
+				$(".user_about_info_container").slideUp('fast');
+				$(".user_about_info_error_notice").html("Something is not right.").slideDown('slow');
+			}
+			$("#loading_user_about_info").hide();
+		}
+	}		
+}
+
+function parseXMLForUserAboutInfo(doc)
+{
+	
+	var html_user_about_info = '';
+	$(".user_about_info_container").slideUp('fast');//.appendTo(".status_detail_wrapper");
+	$(".user_about_info_container").html(html_user_about_info);
+
+	var test = doc.getElementsByTagName('user_id');
+	$(".user_about_info_container").slideDown('slow');
+
+	for (x=0; x < test.length; x++)
+	{
+		
+		var user_login, homepage, user_last_login, user_occupation, link_date, base_url, user_id, user_avatar, member_url, add_friend_url, remove_friend_url, is_my_friend, is_my_follower;
+	
+		
+		user_id 		= doc.getElementsByTagName("user_id")[x].childNodes[0].nodeValue;
+		user_login 		= doc.getElementsByTagName("user_login")[x].childNodes[0].nodeValue;
+		base_url 		= doc.getElementsByTagName("base-url")[x].childNodes[0].nodeValue;
+		user_avatar		= doc.getElementsByTagName("user_avatar")[x].childNodes[0].nodeValue;
+		member_url		= doc.getElementsByTagName("member_url")[x].childNodes[0].nodeValue;
+		user_last_login	= doc.getElementsByTagName("user_last_login")[x].childNodes[0].nodeValue;
+		user_occupation	= doc.getElementsByTagName("user_occupation")[x].childNodes[0].nodeValue;
+		user_location	= doc.getElementsByTagName("user_location")[x].childNodes[0].nodeValue;
+		homepage		= doc.getElementsByTagName("homepage")[x].childNodes[0].nodeValue;
+		link_date		= doc.getElementsByTagName("link_date")[x].childNodes[0].nodeValue;
+		is_my_friend	= doc.getElementsByTagName("is_my_friend")[x].childNodes[0].nodeValue;
+		is_my_follower	= doc.getElementsByTagName("is_my_follower")[x].childNodes[0].nodeValue;
+		add_friend_url 	= base_url + "/user.php?login="+ user_login + "&view=addfriend";
+		remove_friend_url 	= base_url + "/user.php?login="+ user_login + "&view=removefriend";
+		
+		html_user_about_info += '<div class=\"about_info_left_column\">';
+		html_user_about_info += '<div class=\"about_message_avatar_div\" id=\"about_message_avatar_div_' + x +'\"><a href=\"#\" class=\"about_avatar_url\"  id=\"about_avatar_url_' + x +'\" onclick=\"javascript:getUserWall(\'' + user_login + '\');return false;\"><img class=\"about_message_avatar\" id=\"about_message_avatar_' + x +'\" src=\"' + user_avatar + '\" alt=\"' + user_login + '\" title=\"See ' + user_login + ' wall\" /></a></div>';
+		if (loggedUser == activeUser)
+		{
+			html_user_about_info += '<a href=\"http://en.gravatar.com/site/signup\">Update Avatar</a><br/>';
+			html_user_about_info += '<a href=\"' + member_url + '\" id=\"member_url_' + x +'\">Show Profile</a>';
+		}	
+		else
+		{
+			html_user_about_info += '<a href=\"' + member_url + '\" id=\"member_url_' + x +'\">Show Profile</a>';
+
+			if (is_my_friend > 0)
+				html_user_about_info += '<a href=\"#\" id=\"follow_link_' + x +'\" onclick=\"javascript:removeUser(\'' + user_login + '\');return false;\"><div class=\"remove_link\" id=\"remove_link_' + x +'\">Remove</div></a>';
+			else if (is_my_friend <= 0)
+				html_user_about_info += '<a href=\"' + add_friend_url + '\" id=\"follow_link_' + x +'\" onclick=\"javascript:addUser(\'' + user_login + '\');return false;\"><div class=\"follow_link\" id=\"follow_link_' + x +'\">Follow</div></a>';
+		}
+		html_user_about_info += '</div>';
+
+
+		html_user_about_info += '<div class=\"about_info_container\" id=\"about_info_container_' + x +'\">';
+		html_user_about_info += '<div class=\"user_about_info_heading_usrname\" id=\"user_about_info_heading_username_' + x +'\"><a href=\"' + member_url + '\" id=\"member_url_' + x +'\">' + user_login + '</a></div><br />';
+		html_user_about_info += '<div class=\"user_about_info_heading\" id=\"user_about_info_heading_' + x +'\">Homepage: </div>';
+		if (homepage != 0) 
+			html_user_about_info += '<p id=\"user_homepage_' + x +'\"><a href=\"' + homepage + '\" id=\"user_homepage_link_' + x + '\">' + homepage + '</a></p>';	
+		
+		if (homepage == 0) 	{	
+			homepage = "Not Specified";		
+			html_user_about_info += '<p id=\"user_homepage_' + x +'\">' + homepage + '</p>';	
+		}
+				
+		html_user_about_info += '<div class=\"user_about_info_heading\" id=\"user_about_info_heading_' + x +'\">Location: </div>';
+		html_user_about_info += '<p id=\"user_location_p_' + x +'\">' + user_location + '</p>';		
+		html_user_about_info += '<div class=\"user_about_info_heading\" id=\"user_about_info_heading_' + x +'\">Occupation: </div>';
+		html_user_about_info += '<p id=\"user_occupation_p_' + x +'\">' + user_occupation + '</p>';
+
+		html_user_about_info += '</div>';
+
+		$(".user_about_info_container").append(html_user_about_info);
+		$(".user_about_info_container" + x).slideDown('slow');		
+		html_user_about_info = '';
+	}
+	$("#loading_user_about_info").hide();
+}
+function sayhi(user_name, button_id)
+{
+	var data_string = "sayhi=" + user_name;
+	$.ajax({
+		type: "GET",
+		cache: false,
+		url: mod_location + "/modules/status/user_control.php?",
+		data: data_string,
+		beforeSend: function(html){
+			$("#loading").show();
+		},
+		success: function(html){
+			$("#sayhi_" + button_id).html("Sent!").attr("disabled", "disabled");
+			$("#loading").hide('slow');
+		},
+	});
+}
+function addUser(user_name)
+{
+	var data_string = "add=" + user_name;
+	$.ajax({
+		type: "GET",
+		cache: false,
+		url: mod_location + "/modules/status/user_control.php?",
+		data: data_string,
+		beforeSend: function(html){
+			$("#loading").show();
+		},
+		success: function(html){
+			getUserAboutInfo(user_name);
+			showFriends(user_name);
+			$("#loading").hide('slow');
+		},
+	});
+}
+function removeUser(user_name)
+{
+	var data_string = "remove=" + user_name;
+	$.ajax({
+		type: "GET",
+		cache: false,
+		url: mod_location + "/modules/status/user_control.php?",
+		data: data_string,
+		beforeSend: function(html){
+			$("#loading").show();
+		},
+		success: function(html){
+			type = "status";
+			getStatus(type);
+			alert ("You will no longer receive status updates from " + user_name);
+			$("#loading").hide('slow');
+		},
+	});
+}
+
+function showBubble(x)
+{
+	var pos = $("#status_message_container_" + x).offset();  
+	var distance = 0;
+	var time = 250;
+	var pwidth = $("#status_message_container_" + x).outerWidth();	
+	var top_pos = pos.top + 0 + "px";
+	var left_pos = pos.left + (pwidth - 175) + "px";;
+			
+	$("#dpop_" + x).css({
+		position: "absolute",
+		zIndex: 5000,
+		top: top_pos,
+		left: left_pos,
+		display: 'block',
+	})
+	$("#status_message_container_" + x).mouseover(function () 
+	{
+		if (beingShown || shown) {
+			// don't trigger the animation again
+			return;
+		} 
+		else 
+		{
+			beingShown = true;
+			$("#dpop_" + x).css({
+				position: "absolute",
+				zIndex: 5000,
+				top: top_pos,
+				left: left_pos,
+				display: 'block',
+			}).fadeIn('slow');
+
+		}
+		return false;
+	}).mouseout(function () {
+		shown = false;
+		beingShown = false;
+		$("#dpop_" + x).css('display', 'none');
+		return false;
+	});
+} // END SHOW BUBBLE FUNCTION
+
+function alertme(text){
+	alert(text);
+}
+function hideBubble(x)
+{
+	var distance = 10;
+	var time = 250;
+	var hideDelay = 1000;
+	setTimeout(function () {
+	  $("#dpop_" + x).animate({
+		  top: '-=' + distance + 'px',
+		  opacity: 0
+	  }, time, 'swing', function () {
+		  //shown = false;
+		  $("#dpop_" + x).css('display', 'none');
+	  });
+	
+	  }, hideDelay);
+	return false;	
+}
+
+function lets_reply(updateid, userlogin)
+{
+	if (loggedUser != activeUser)
+	{
+		
+		$("h4.status_submit_title").html("Got something to say about my status?").show();
+		$(".status_submit_form").slideDown('fast');
+		
+		if (last_update_type != "c")
+			$(".last_status_heading").html(last_status_text);
+		$(".last_status_heading").css("font-size", "12px");
+		$(".last_status_heading").css("font-style", "italic");
+		$(".last_status_heading").css("width", "80%");
+	}
+	$("#status_submit_textarea").focus().val("@"+userlogin + " ").css({
+		"background-color": "#fff",
+	});
+	last_update_type = "r";
+	last_update_id = updateid;
+	type = "replies";
+//	alert("lets reply " + last_update_id);
+	
+}
+
+function showReplyForm (link_container_id, this_update_id, this_user_login)
+{
+	$("#status_submit_textarea").val("@"+this_user_login + " ");//.css({
+}
+
+function replyStatus()
+{	
+	var data_string = $('#reply_status').serialize();
+	data_string = "status=lame";
+
+	$.ajax({
+		type: "POST",
+		cache: false,
+		url: mod_location + "/modules/status/status.php",
+		data: data_string,
+		beforeSend: function(html){
+			$('#reply_status').clearForm();
+			$('.status_reply_textarea').attr("disabled", "disabled");
+			$("#loading").show();
+		},
+		success: function(html){
+			$('#reply_status').clearForm();
+			$(".status_detail_wrapper").html("");
+			$('.status_reply_textarea').removeAttr("disabled");
+			type = "status";
+			getStatus();
+			return false;
+		},
+	});
+}
+
+function hide_status(reply_to_status, total_replies, this_update_id, container_id)
+{
+	var data_string = "hid=" + this_update_id;
+	var num_of_replies = 0;
+
+	$.ajax({
+		type: "POST",
+		cache: false,
+		url: mod_location + "/modules/status/status.php",
+		data: data_string,
+		beforeSend: function(html){
+			$("#loading").show();
+		},
+		success: function(html){
+			$("#loading").hide();
+			$("#" + container_id + this_update_id).slideUp();
+			if (reply_to_status != 0)
+			{
+				num_of_replies = $("#replies_btn_" + reply_to_status).html();
+				if (num_of_replies <= 1)
+					$("#replies_btn_" + reply_to_status).hide();
+				else 
+					$("#replies_btn_" + reply_to_status).html(num_of_replies-1);
+			}
+			
+			type = "status";	
+			
+		},
+	});
+}
+function del_status(reply_to_status, total_replies, this_update_id, container_id)
+{
+	var data_string = "did=" + this_update_id;
+	var num_of_replies = 0;
+	$.ajax({
+		type: "POST",
+		cache: false,
+		url: mod_location + "/modules/status/status.php",
+		data: data_string,
+		beforeSend: function(html){
+			$("#loading").show();
+		},
+		success: function(html){
+			$("#loading").hide();
+			$("#" + container_id + this_update_id).slideUp();
+			if (reply_to_status != 0)
+			{
+				num_of_replies = $("#replies_btn_" + reply_to_status).html();
+				if (num_of_replies <= 1)
+					$("#replies_btn_" + reply_to_status).hide();
+				else 
+					$("#replies_btn_" + reply_to_status).html(num_of_replies-1);
+			}
+			type = "status";	
+		},
+	});
+}
+
+function submitStatus()
+{	
+	var data_string = $('#submit_status').serialize();//
+	current_page = 1;
+	var url = mod_location + "/modules/status/status.php";
+	
+	if (last_update_type == "r")
+		data_string = data_string + "&update_type=r";
+		
+	if (last_update_id != 0)
+		data_string = data_string + "&update_id=" + last_update_id;
+
+	$.ajax({
+		type: "POST",
+		cache: false,
+		url: url,
+		data: data_string,
+		beforeSend: function(html){
+			$('#submit_status').clearForm();
+			$('.status_submit_input').attr("disabled", "disabled");
+			$("#loading").show();
+		},
+		success: function(html){
+			$('#submit_status').clearForm();
+			$("#loading").show();
+			$('.status_submit_input').removeAttr("disabled");	
+				
+			if (type == "replies")
+			{
+				reply_to_id = last_update_id;
+				type = "refresh_status";
+			}
+			else 
+			{
+				last_update_id = 0;
+				type = "refresh_status";
+			}	
+
+			getStatus(type);
+		},
+	});
+}
+
+function searchStatus(data_string)
+{	
+	$("#loading").show();
+	$('.status_search_input').attr("disabled", "disabled");
+	getSearchResults(data_string);
+	$(".get_more_button").removeAttr("disabled").html("Show More");
+}
+function loadWall()
+{
+	current_page = 1;
+	if(popupStatus==0)
+	{
+		loadPopup(".status_container");
+		$('#submit_status').clearForm();
+		
+		$("#status_submit_textarea").css({
+			"background-color": "white",
+		});
+					
+	}		
+	else
+	{
+		$(".status_detail_wrapper").html("");
+		disablePopup(".status_container");
+	}
+}
+
+</script>
+
+
+	<div id="backgroundPopup">
+    	<div class="loading_message">LOADING YOUR WALL. HANG IN THERE, IT WILL ONLY BE A FEW SECONDS<br><img src="/modules/status/templates/images/loading.gif" width="32" height="32"></div>
+        
+   </div>
+    <div class="status_container">
+	<div id="newsnav_wrapper">
+			<ul class="newsnav ucase">
+				<li class="active"><a href="#"><span>Status Wall</span></a></li>
+			</ul>
+		</div>
+
+    <table cellspacing="0" class="status_wrapper">
+    	<tbody> 
+            <tr>     
+      
+      
+
+	<td class="status_left_column">
+	
+        <div class="my_wall_link">My Wall</div>
+      	<div class="status_heading"></div>
+		<div class="user_send_message_btn">Send a Message</div>
+
+        
+            <div class="status_submit">
+                            <h4 class="status_submit_title">What Are You Doing?</h4>
+                <div class="status_submit_form">
+                    <form method="post" id="submit_status">
+                                         <textarea class="status_submit_input" id="status_submit_textarea" name="status" type="text"></textarea>
+                                        <input class="status_submit_submission" id="main_status_submit_form" value="Update" type="submit">
+                    </form>
+                </div>
+                            <div class="last_status_heading"></div>
+
+                <div class="status_clear"> </div>
+                        </div>
+                     
+
+		
+        
+
+                
+        <div class="status_friend_updates">
+        	<div class="title_bar">
+                <div class="status_friend_updates_title">
+                    <h4>Latest Friends Updates</h4>
+
+				</div>
+                <div id="loading">
+                    <img src="/modules/status/templates/images/loader2.gif" alt="Loading Your Wall, hang in there..." width="32" height="16">
+                </div>
+
+
+           	</div>
+
+
+            <div class="status_message_wrapper">                                       
+            	<div class="status_error_notice"></div>     
+                <div class="status_detail_wrapper">
+	                               
+            <!-- CLOSE wrapper details-->
+
+                </div>
+                               	 	<div class="error_register_btn"><a href="/register.php">Register</a></div>
+					<div class="error_login_btn"><a href="/login.php?return=/module.php?module=wall&amp;wall=active">Login</a></div>
+				                
+			</div>
+            
+       <div class="get_more_button" id="get_more_button">
+       		<div class="get_more_button_text">Show More</div>
+
+       </div>
+        <div class="show_more_link_loading">
+            <img src="/modules/status/templates/images/loader2.gif" alt="Loading, hang in there..." width="33" height="8" border="0">
+        </div><br><br>
+
+</div></td> <!-- END LEFT COLUMN -->
+        	<td class="status_right_sidebar">
+        <div class="user_about_info">
+            <div class="user_about_info_container"></div>
+            <div class="user_about_info_error_notice"></div>                  
+
+            <div class="status_clear"> </div>
+        </div> 
+    
+        <div class="status_search">
+            <h4 class="right_sidebar_title">Search Status Updates</h4>
+            <div class="status_search_form">
+            
+             <form method="get" id="search_status_form">
+            					<input type="image" src="/modules/status/templates/images/search_button_blue.png" id="searchsubmit_wall">
+                <input class="status_search_input" name="ssearch" type="text"> <!--value=""-->
+                
+	        </form>
+
+            </div>
+                
+            <div class="status_clear"> </div>
+        </div>
+                
+    
+        <div class="friends_followers_wrapper" id="friends_followers_wrapper">
+            <span class="friends_link" id="friends_link">Following</span>
+            <span class="followers_link" id="followers_link">Followers</span>
+            <div class="status_myfriends" id="tabs-1">
+                <div id="loading_friend_icons">
+                    <img src="/modules/status/templates/images/loader2.gif" alt="Loading friends, hang in there..." width="32" height="10">
+                </div>            
+    
+    
+                <div class="status_myfriends_container"></div>
+                <div class="status_clear"> </div>
+                <div id="friends_list_view">Show Details</div>
+                <div class="friends_error_notice"></div>                  
+
+            </div>        
+            <div class="status_myfollowers" id="tabs-2">
+                <div id="loading_followers_icons">
+                    <img src="/modules/status/templates/images/loader2.gif" alt="Loading followers, hang in there..." width="32" height="10">
+                </div>           
+                
+                <div class="status_myfollowers_container"></div>
+                <div class="status_clear"> </div>
+                <div id="followers_list_view">Detail List View</div>
+	            <div class="followers_error_notice"></div>                  
+    
+               
+            </div> 
+            <div class="status_clear"> </div>
+		</div>
+     	 <div class="direct_list_url_container">
+        	<span class="right_sidebar_title">Direct Link to this list:</span>
+            <input name="direct_list_url_textbox" id="direct_list_url_textbox" type="text" size="33" readonly="true">
+        </div>
+
+        <div class="direct_url_container">
+        	<span class="right_sidebar_title">Direct Link to this Wall:</span>
+            <input name="direct_url_textbox" id="direct_url_textbox" type="text" size="33" readonly="true">
+        </div>
+      
+        </td> <!--END RIGHT SIDEBAR CONTAINER-->
+    </tr>
+    </tbody></table>
+    </div>
+             
+
+		
+  <div id="maincol" class="columns">
+	
+
+
+
+
+		
+	<div id="newsnav_wrapper">
+		<ul class="newsnav">
+			<li class="active"><a href="#"><span class="propercase"><strong>Privacy Policy</strong></span></a></li>
+		</ul>
+	</div>
+	<div class="box pligg_page">
+		If you require any more information or have any questions about our privacy policy, please feel free to contact us by email using our contact page or directly at admin [@] blokube [.] com.
+
+At www.blokube.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.blokube.com and how it is used.
+
+<h3>Log Files</h3>
+Like many other Web sites, www.blokube.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+
+<h3>Cookies and Web Beacons</h3>
+
+www.blokube.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
+
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.blokube.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+
+www.blokube.com has no access to or control over these cookies that are used by third-party advertisers.
+
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.blokube.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers.
+			</div>
+			
+</div>
+<div id="sidebar" class="columns">
+	
+
+
+	<h2 style="font-family:verdana;">Join us!</h2>
+		
+
+	<div id="mpanel">
+			<div style="margin:-8px 1px 2px 5.5px;"><a href="http://www.blokube.com/register/"><img src="http://www.blokube.com/templates/AggrePress/images/joinus.png" alt="Join our community"></a></div>
+					</div>
+
+			
+		<div class="clear"></div>
+<br><br>
+
+	<div class="wrap" style="-moz-border-radius: 4px;">
+		
+
+<h1>Submit story</h1>
+			
+
+<div class="box">
+
+
+<form action="/submit/" method="post" id="thisform">
+		<label for="url">Submit a URL:</label>
+		<input type="text" name="url" id="url" size="30">					
+		<input type="hidden" name="phase" value="1">
+		<input type="hidden" name="randkey" value="4052095">
+		<input type="hidden" name="id" value="c_1">
+		<input type="submit" value="Submit" class="submit-s">
+	</form>
+</div><div class="boxbottom"><!-- //--></div>
+		
+  
+
+
+		
+		
+
+<h1>Top Users</h1>
+      <div class="box nmembers">
+			<p style="font-family:verdana,tahoma,arial;font-size:12.7px;margin-top:-2.7px;">This month's most active Blokube users.<br> <a href="http://www.blokube.com/register/">Join Them!</a></p>
+            <ul style="margin-left:10px;">
+
+			<li><a class="tipsy-1" href="/user/profile/Devesh/" title="Devesh Profile"><img class="avatar" src="http://www.gravatar.com/avatar.php?gravatar_id=44315cc72cf419864eff953c9aa7707e&amp;default=http%3A%2F%2Fwww.blokube.com%2F%2Favatars%2FGravatar_90.gif&amp;size=90&amp;rating=G" width="32" height="32" alt="Devesh Profile"></a></li>
+		<li><a class="tipsy-1" href="/user/profile/amabaie/" title="amabaie Profile"><img class="avatar" src="http://www.gravatar.com/avatar.php?gravatar_id=f7d9f76ffa83cf15144ac38c89eaa786&amp;default=http%3A%2F%2Fwww.blokube.com%2F%2Favatars%2FGravatar_90.gif&amp;size=90&amp;rating=G" width="32" height="32" alt="amabaie Profile"></a></li>
+		<li><a class="tipsy-1" href="/user/profile/janesheeba/" title="janesheeba Profile"><img class="avatar" src="http://www.gravatar.com/avatar.php?gravatar_id=978871989e5d26d5bcd7d71156597d6d&amp;default=http%3A%2F%2Fwww.blokube.com%2F%2Favatars%2FGravatar_90.gif&amp;size=90&amp;rating=G" width="32" height="32" alt="janesheeba Profile"></a></li>
+		<li><a class="tipsy-1" href="/user/profile/shkhanal/" title="shkhanal Profile"><img class="avatar" src="http://www.gravatar.com/avatar.php?gravatar_id=471bbdae851087074da739e6c9f84b00&amp;default=http%3A%2F%2Fwww.blokube.com%2F%2Favatars%2FGravatar_90.gif&amp;size=90&amp;rating=G" width="32" height="32" alt="shkhanal Profile"></a></li>
+		<li><a class="tipsy-1" href="/user/profile/Stelsie/" title="Stelsie Profile"><img class="avatar" src="http://www.gravatar.com/avatar.php?gravatar_id=f4c55d1059686a85c80181f8bbb67be6&amp;default=http%3A%2F%2Fwww.blokube.com%2F%2Favatars%2FGravatar_90.gif&amp;size=90&amp;rating=G" width="32" height="32" alt="Stelsie Profile"></a></li>
+		<li><a class="tipsy-1" href="/user/profile/sonasathish/" title="sonasathish Profile"><img class="avatar" src="http://www.gravatar.com/avatar.php?gravatar_id=ded0c549fb4e5592071e3e34e508fc46&amp;default=http%3A%2F%2Fwww.blokube.com%2F%2Favatars%2FGravatar_90.gif&amp;size=90&amp;rating=G" width="32" height="32" alt="sonasathish Profile"></a></li>
+		<li><a class="tipsy-1" href="/user/profile/ilkaflood/" title="ilkaflood Profile"><img class="avatar" src="http://www.gravatar.com/avatar.php?gravatar_id=4a6eb408c0b038f68bd7c30939bfb925&amp;default=http%3A%2F%2Fwww.blokube.com%2F%2Favatars%2FGravatar_90.gif&amp;size=90&amp;rating=G" width="32" height="32" alt="ilkaflood Profile"></a></li>
+		<li><a class="tipsy-1" href="/user/profile/bbrian017/" title="bbrian017 Profile"><img class="avatar" src="http://www.gravatar.com/avatar.php?gravatar_id=ee4385d6bed9358984976d109a65a274&amp;default=http%3A%2F%2Fwww.blokube.com%2F%2Favatars%2FGravatar_90.gif&amp;size=90&amp;rating=G" width="32" height="32" alt="bbrian017 Profile"></a></li>
+		<li><a class="tipsy-1" href="/user/profile/Alex/" title="Alex Profile"><img class="avatar" src="http://www.gravatar.com/avatar.php?gravatar_id=09989c258c214631b63adc5369281f73&amp;default=http%3A%2F%2Fwww.blokube.com%2F%2Favatars%2FGravatar_90.gif&amp;size=90&amp;rating=G" width="32" height="32" alt="Alex Profile"></a></li>
+		<li><a class="tipsy-1" href="/user/profile/Ileane/" title="Ileane Profile"><img class="avatar" src="http://www.gravatar.com/avatar.php?gravatar_id=bcaf8917f2493247ca48b256f6d7b18b&amp;default=http%3A%2F%2Fwww.blokube.com%2F%2Favatars%2FGravatar_90.gif&amp;size=90&amp;rating=G" width="32" height="32" alt="Ileane Profile"></a></li>
+		<li><a class="tipsy-1" href="/user/profile/element321/" title="element321 Profile"><img class="avatar" src="http://www.gravatar.com/avatar.php?gravatar_id=4b1a56c237b3bd62c06b29e106f149fe&amp;default=http%3A%2F%2Fwww.blokube.com%2F%2Favatars%2FGravatar_90.gif&amp;size=90&amp;rating=G" width="32" height="32" alt="element321 Profile"></a></li>
+		<li><a class="tipsy-1" href="/user/profile/Mavis/" title="Mavis Profile"><img class="avatar" src="http://www.gravatar.com/avatar.php?gravatar_id=885ddfe64ea5b3213259ea23b9768d3f&amp;default=http%3A%2F%2Fwww.blokube.com%2F%2Favatars%2FGravatar_90.gif&amp;size=90&amp;rating=G" width="32" height="32" alt="Mavis Profile"></a></li>
+					</ul>
+			
+		</div>
+  <div class="boxbottom"><!-- //--></div> 
+<h1>Social Media Blog Contest</h1> <div class="box"><div style="margin-left:5px;margin-right:5px;">
+<a target="_blank" href="http://blokube.com/static/social-media-contest-sign-up-form/"><img src="http://blokube.com/templates/blokube/images/Blog-Contest.png" style="border: 2px solid #000;" width="262" height="140"></a>  <div style="font-family:verdana,tahoma,arial;font-size:12.7px;margin-top:5px;line-height:18px;">See our Contest <a href="http://blokube.myvideotalkproduction.com/" target="_blank">Web Show</a> to learn more and <a href="http://blokube.com/static/social-media-contest-sign-up-form/">sign-up here</a> today!!</div></div></div><div class="boxbottom"><!-- //--></div>
+
+
+		
+		
+
+
+				<h1>Top Today</h1>
+		<div class="box">
+			<ul>
+				
+				<li class="sidebar_list">
+					<div class="votes">5</div>
+					<div class="entries"><a href="/tech/angry-birds-for-5800/">Angry Birds for 5800</a></div>
+				</li>
+				<li class="sidebar_list">
+					<div class="votes">5</div>
+					<div class="entries"><a href="/seo/how-to-make-google-index-your-site-quickly-%7C-manual-seo-info/">How to Make Google Index Your Site Q...</a></div>
+				</li>
+				<li class="sidebar_list">
+					<div class="votes">5</div>
+					<div class="entries"><a href="/design/the-time-for-cloud-computing-has-come/">The Time for Cloud Computing Has Com...</a></div>
+				</li>
+				<li class="sidebar_list">
+					<div class="votes">5</div>
+					<div class="entries"><a href="/blogging/powerful-steps-to-take-your-blog-to-the-next-level/">Powerful Steps to Take Your Blog to ...</a></div>
+				</li>
+				<li class="sidebar_list">
+					<div class="votes">5</div>
+					<div class="entries"><a href="/business/find-out-how-to-turn-your-personal-blog-into-an-online-hub/">Find Out How To Turn Your Personal B...</a></div>
+				</li>
+			</ul>
+		</div>
+		<div class="boxbottom"><!-- //--></div>
+		
+		
+	
+		<h1>Social Voting Buttons</h1><div class="box"><ul class="general">
+					<div align="center"><center><a href="http://blokube.com/page.php?page=tools-bloggers"><img src="http://blokube.com/buttons/vote5d.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://blokube.com/page.php?page=tools-bloggers"><img src="http://blokube.com/buttons/vote3d.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://blokube.com/page.php?page=tools-bloggers"><img src="http://blokube.com/buttons/vote4d.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://blokube.com/page.php?page=tools-bloggers"><img src="http://blokube.com/buttons/vote7d.png"></a></center></div>
+		</ul></div><div class="boxbottom"><!-- //--></div>
+
+
+
+<h1>Recently Active Users</h1>
+    <div class="box nmembers">
+	<ul style="list-style:none;margin-left:8px;">
+		<li><a class="tipsy-1" title="ilkaflood" href="/user/profile/ilkaflood/"><img class="avatar" src="http://www.gravatar.com/avatar.php?gravatar_id=4a6eb408c0b038f68bd7c30939bfb925&amp;default=http%3A%2F%2Fwww.blokube.com%2F%2Favatars%2FGravatar_90.gif&amp;size=90&amp;rating=G" width="30" height="30"></a></li><li><a class="tipsy-1" title="techlineinfo" href="/user/profile/techlineinfo/"><img class="avatar" src="http://www.gravatar.com/avatar.php?gravatar_id=9a7346ecb0960ae0a0d1891abcd5ac19&amp;default=http%3A%2F%2Fwww.blokube.com%2F%2Favatars%2FGravatar_90.gif&amp;size=90&amp;rating=G" width="30" height="30"></a></li><li><a class="tipsy-1" title="TheBadBlogger" href="/user/profile/TheBadBlogger/"><img class="avatar" src="http://www.gravatar.com/avatar.php?gravatar_id=7d14f007fbe67d8f17e52eaccd38ef7d&amp;default=http%3A%2F%2Fwww.blokube.com%2F%2Favatars%2FGravatar_90.gif&amp;size=90&amp;rating=G" width="30" height="30"></a></li><li><a class="tipsy-1" title="adnan" href="/user/profile/adnan/"><img class="avatar" src="http://www.gravatar.com/avatar.php?gravatar_id=ce9433ab76d856ab40b5a4ca1f2f1949&amp;default=http%3A%2F%2Fwww.blokube.com%2F%2Favatars%2FGravatar_90.gif&amp;size=90&amp;rating=G" width="30" height="30"></a></li><li><a class="tipsy-1" title="Devesh" href="/user/profile/Devesh/"><img class="avatar" src="http://www.gravatar.com/avatar.php?gravatar_id=44315cc72cf419864eff953c9aa7707e&amp;default=http%3A%2F%2Fwww.blokube.com%2F%2Favatars%2FGravatar_90.gif&amp;size=90&amp;rating=G" width="30" height="30"></a></li><li><a class="tipsy-1" title="delonibalusi" href="/user/profile/delonibalusi/"><img class="avatar" src="http://www.gravatar.com/avatar.php?gravatar_id=d3c5d86ed1767ab6845cfa069bcb29cf&amp;default=http%3A%2F%2Fwww.blokube.com%2F%2Favatars%2FGravatar_90.gif&amp;size=90&amp;rating=G" width="30" height="30"></a></li><li><a class="tipsy-1" title="adrienne" href="/user/profile/adrienne/"><img class="avatar" src="http://www.gravatar.com/avatar.php?gravatar_id=d1f6f72fd673fa202677b90f0774c7af&amp;default=http%3A%2F%2Fwww.blokube.com%2F%2Favatars%2FGravatar_90.gif&amp;size=90&amp;rating=G" width="30" height="30"></a></li><li><a class="tipsy-1" title="nickstamoulis" href="/user/profile/nickstamoulis/"><img class="avatar" src="http://www.gravatar.com/avatar.php?gravatar_id=ac4c7856380807c14afccbe70e0ce071&amp;default=http%3A%2F%2Fwww.blokube.com%2F%2Favatars%2FGravatar_90.gif&amp;size=90&amp;rating=G" width="30" height="30"></a></li><li><a class="tipsy-1" title="MeetAna" href="/user/profile/MeetAna/"><img class="avatar" src="http://www.gravatar.com/avatar.php?gravatar_id=104994ab0c8ffe0ac7cdc156c4c2fe8d&amp;default=http%3A%2F%2Fwww.blokube.com%2F%2Favatars%2FGravatar_90.gif&amp;size=90&amp;rating=G" width="30" height="30"></a></li><li><a class="tipsy-1" title="stevescottsite" href="/user/profile/stevescottsite/"><img class="avatar" src="http://www.gravatar.com/avatar.php?gravatar_id=f190bb8e4d24903eb301d6c85911324c&amp;default=http%3A%2F%2Fwww.blokube.com%2F%2Favatars%2FGravatar_90.gif&amp;size=90&amp;rating=G" width="30" height="30"></a></li><li><a class="tipsy-1" title="Lisbeth8" href="/user/profile/Lisbeth8/"><img class="avatar" src="http://www.gravatar.com/avatar.php?gravatar_id=0170617d91b9d1e87e464b88bd3e5c66&amp;default=http%3A%2F%2Fwww.blokube.com%2F%2Favatars%2FGravatar_90.gif&amp;size=90&amp;rating=G" width="30" height="30"></a></li><li><a class="tipsy-1" title="websitetooltester" href="/user/profile/websitetooltester/"><img class="avatar" src="http://www.gravatar.com/avatar.php?gravatar_id=79259e13975610e91be6faac8924b9d4&amp;default=http%3A%2F%2Fwww.blokube.com%2F%2Favatars%2FGravatar_90.gif&amp;size=90&amp;rating=G" width="30" height="30"></a></li>	</ul>
+</div><div class="boxbottom"><!-- //--></div> 
+				
+
+				<h1>Published News</h1>
+		<div class="box">
+			<ul>
+				
+				<li class="sidebar_list">
+					<div class="votes">10</div>
+					<div class="entries"><a href="/blogging/prevent-wordpress-spam-comments-effortlessly-online-mlm-%7C-blog-lead-generation/">Prevent Wordpress Spam Comments Effort...</a></div>
+				</li>
+				<li class="sidebar_list">
+					<div class="votes">17</div>
+					<div class="entries"><a href="/blogging/should-you-publish-full-or-partial-feeds/">Should You Publish Full Or Partial Fee...</a></div>
+				</li>
+				<li class="sidebar_list">
+					<div class="votes">14</div>
+					<div class="entries"><a href="/professional-writing/5-simple-tricks-for-a-happy-writer/">5 Simple Tricks For a Happy Writer</a></div>
+				</li>
+				<li class="sidebar_list">
+					<div class="votes">17</div>
+					<div class="entries"><a href="/blogging/how-to-comment-on-blogs-and-make-it-worth-your-time-1/">How to Comment on Blogs (And Make It W...</a></div>
+				</li>
+				<li class="sidebar_list">
+					<div class="votes">18</div>
+					<div class="entries"><a href="/mlm/network-marketing-become-and-be-a-network-marketing-family-%7C-oliver-tausends-blog/">Network Marketing - Become And Be A Ne...</a></div>
+				</li>
+			</ul>
+		</div>
+		<div class="boxbottom"><!-- //--></div>
+				
+
+		<h1>Latest Comments</h1>
+		<div class="box">
+			<ul class="comments">
+				
+<li style="height:30px;">
+<a href="http://www.blokube.com/user/profile/Mavis"><img class="sidebar_comment" src="http://www.gravatar.com/avatar.php?gravatar_id=885ddfe64ea5b3213259ea23b9768d3f&amp;default=http%3A%2F%2Fwww.blokube.com%2F%2Favatars%2FGravatar_90.gif&amp;size=90&amp;rating=G" width="31" height="31"></a><a href="/business/network-marketing-precious-little-moments-of-a-stay-at-home-dad-%7C-oliver-tausends-blog/#c2156"><div id="sidebar_commentx"><strong>Mavis</strong>: Hey Oliver,
+Ah, the pleasures of working from home, around...</div></a></li>
+
+<li style="height:30px;">
+<a href="http://www.blokube.com/user/profile/Mavis"><img class="sidebar_comment" src="http://www.gravatar.com/avatar.php?gravatar_id=885ddfe64ea5b3213259ea23b9768d3f&amp;default=http%3A%2F%2Fwww.blokube.com%2F%2Favatars%2FGravatar_90.gif&amp;size=90&amp;rating=G" width="31" height="31"></a><a href="/mlm/network-marketing-become-and-be-a-network-marketing-family-%7C-oliver-tausends-blog/#c2155"><div id="sidebar_commentx"><strong>Mavis</strong>: Hi Anke,
+It’s really nice to meet you. I enjoyed reading...</div></a></li>
+
+<li style="height:30px;">
+<a href="http://www.blokube.com/user/profile/Mavis"><img class="sidebar_comment" src="http://www.gravatar.com/avatar.php?gravatar_id=885ddfe64ea5b3213259ea23b9768d3f&amp;default=http%3A%2F%2Fwww.blokube.com%2F%2Favatars%2FGravatar_90.gif&amp;size=90&amp;rating=G" width="31" height="31"></a><a href="/mlm/mlm-success-with-think-and-grow-rich-and-oliver-tausend-pt-5-%7C-oliver-tausends-blog/#c2154"><div id="sidebar_commentx"><strong>Mavis</strong>: Hey Oliver,
+What a powerful lesson you're sharing here. We...</div></a></li>
+
+<li style="height:30px;">
+<a href="http://www.blokube.com/user/profile/Mavis"><img class="sidebar_comment" src="http://www.gravatar.com/avatar.php?gravatar_id=885ddfe64ea5b3213259ea23b9768d3f&amp;default=http%3A%2F%2Fwww.blokube.com%2F%2Favatars%2FGravatar_90.gif&amp;size=90&amp;rating=G" width="31" height="31"></a><a href="/blogging/may-highlights-%7C-grow-with-stacy/#c2153"><div id="sidebar_commentx"><strong>Mavis</strong>: Hi Stacy,
+Another exciting and productive month for you....</div></a></li>
+
+<li style="height:30px;">
+<a href="http://www.blokube.com/user/profile/Mavis"><img class="sidebar_comment" src="http://www.gravatar.com/avatar.php?gravatar_id=885ddfe64ea5b3213259ea23b9768d3f&amp;default=http%3A%2F%2Fwww.blokube.com%2F%2Favatars%2FGravatar_90.gif&amp;size=90&amp;rating=G" width="31" height="31"></a><a href="/business/eliminate-poor-time-management-divide-defer-delegate-%7C-find-all-answers-1/#c2152"><div id="sidebar_commentx"><strong>Mavis</strong>: Hi Jane,
+Great 3-D approach you're sharing here.
+You just...</div></a></li>
+
+<li style="height:30px;">
+<a href="http://www.blokube.com/user/profile/Mavis"><img class="sidebar_comment" src="http://www.gravatar.com/avatar.php?gravatar_id=885ddfe64ea5b3213259ea23b9768d3f&amp;default=http%3A%2F%2Fwww.blokube.com%2F%2Favatars%2FGravatar_90.gif&amp;size=90&amp;rating=G" width="31" height="31"></a><a href="/personal-development/how-do-you-handle-change-or-life-changing-events/#c2151"><div id="sidebar_commentx"><strong>Mavis</strong>: Hey Jayne,
+What a beautiful post! Many of us can relate to...</div></a></li>
+
+<li style="height:30px;">
+<a href="http://www.blokube.com/user/profile/Mazzastick"><img class="sidebar_comment" src="http://www.gravatar.com/avatar.php?gravatar_id=f12be747bd6b9a4918f4532b903ed50a&amp;default=http%3A%2F%2Fwww.blokube.com%2F%2Favatars%2FGravatar_90.gif&amp;size=90&amp;rating=G" width="31" height="31"></a><a href="/lifestyle/23-ways-to-earn-money-offline-when-you-need-extra-cash-/#c2150"><div id="sidebar_commentx"><strong>Mazzastick</strong>: Some great ideas for earning easy income....</div></a></li>
+
+<li style="height:30px;">
+<a href="http://www.blokube.com/user/profile/coolcash4live"><img class="sidebar_comment" src="http://www.gravatar.com/avatar.php?gravatar_id=9b8e86319109e8ec007228bed5a941b9&amp;default=http%3A%2F%2Fwww.blokube.com%2F%2Favatars%2FGravatar_90.gif&amp;size=90&amp;rating=G" width="31" height="31"></a><a href="/blogging/how-to-merge-or-combine-multiple-wordpress-blogs/#c2149"><div id="sidebar_commentx"><strong>coolcash4live</strong>: Thanks for sharing this informative post...</div></a></li>
+
+			</ul>
+		</div>
+		<div class="boxbottom"><!-- //--></div> 
+ 		<h1> Find us on Facebook</h1><div class="box"><ul class="general"><div align="center">
+<iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fblokube&amp;width=272&amp;colorscheme=light&amp;show_faces=true&amp;stream=false&amp;header=false&amp;height=310" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:272px; height:310px;" allowtransparency="true"></iframe></div></ul></div><div class="boxbottom"><!-- //--></div>
+
+
+		
+	</div></div>
+<div class="clear"></div>
+
+</div> <br><br>
+<div id="footer">
+	<div class="page">
+		<div id="footerNav" class="columner">
+			<h3>Resource Links</h3>
+			<ul>
+				<li><a href="http://www.blokube.com/static/tools-bloggers#buttons">Voting Buttons</a></li>
+				<li><a href="http://www.blokube.com/static/bookmarklet/">Bookmarklet</a></li>
+				<li><a href="http://www.blokube.com/static/widgets/" class="properCase">Widget &amp; Banners </a></li>			<li><a href="http://blog.blokube.com/">Blokube Blog</a></li>
+				<li><a href="http://www.blokube.com/static/staff/" rel="nofollow">Blokube Staff</a></li>				
+
+			</ul>
+		</div><div id="footerStats" class="columner">
+
+			<h3>Latest Blokube Blog Posts</h3>
+			<ul>
+				
+
+<li><a href="http://blog.blokube.com/style-your-post-ending/">5 Ways to Go Out With Style for Your Post Ending!</a></li><li><a href="http://blog.blokube.com/get-to-the-punch-of-online-marketing-training/">Get To The Punch Of Online Marketing Training</a></li><li><a href="http://blog.blokube.com/whats-new-on-blokube/">What’s new on Blokube ?</a></li><li><a href="http://blog.blokube.com/12-bloggers-sharing-why-how-do-they-use-social-media-networks/">12 Bloggers sharing why &amp; how do they use social media networks?</a></li><li><a href="http://blog.blokube.com/ways-to-avoid-social-media-marketing-failures/">Ways to Avoid Social Media Marketing Failures</a></li>
+
+		
+			</ul>
+
+		
+					</div>
+		<div id="footerInfo" class="columner">
+			<h3>What Is It All About?</h3>
+			<p id="footerInfo-overview">
+				Blokube is a social voting site dedicated to professionals in Blogging, Marketing, SEO, SEM, web development etc. The ideal of Blokube is to promote interaction between bloggers by "voting" with each others blogs. Interaction that builds up quality comments and interactive discussions. 	
+				<a href="http://www.blokube.com/static/about/">Read More &gt;</a>
+</p><h3>Blokube Staff</h3>
+<a href="http://www.blokube.com/user/profile/Devesh"><img src="http://0.gravatar.com/avatar/44315cc72cf419864eff953c9aa7707e?s=80&amp;d=http%3A%2F%2Fwww.technshare.com%2Fwp-content%2Fthemes%2Fthesis_17%2Fcustom%2Fimages%2Favatar.jpg%3Fs%3D80&amp;r=R" width="25" height="25" style="border:2px solid #fff;"></a>&nbsp;&nbsp;&nbsp;<a href="http://www.blokube.com/user/profile/delonibalusi/"><img src="http://blokube.com/Upload/Onibalusi-Bamidele.jpeg" width="25" height="25" style="border:2px solid #fff;"></a>&nbsp;&nbsp;&nbsp;<a href="http://www.blokube.com/user/profile/Alex/"><img src="http://blog.blokube.com/avatars/alexwhalley.jpg" width="25" height="25" style="border:2px solid #fff;"></a>&nbsp;&nbsp;&nbsp;<a href="http://blokube.com/user/profile/danielsnyder/" target="_blank"><img src="http://www.blokube.com/Upload/daniel.jpg" width="25" height="25" style="border:2px solid #fff;"></a>&nbsp;&nbsp;&nbsp;<a href="http://blokube.com/user/profile/Mavis/" target="_blank"><img src="http://blokube.com/Upload/mavis.jpg" width="25" height="25" style="border:2px solid #fff;"></a>&nbsp;&nbsp;&nbsp;<a href="http://blokube.com/user/profile/keasley/" target="_blank"><img src="http://www.blokube.com/Upload/KieshaEasley-150x150.jpg" width="25" height="25" style="border:2px solid #fff;"></a>&nbsp;&nbsp;&nbsp;<a href="http://www.blokube.com/user/profile/bigmoneyweb/" target="_blank"><img src="http://blokube.com/Upload/vald.jpg" width="25" height="25" style="border:2px solid #fff;"></a>&nbsp;&nbsp;&nbsp;<a href="http://www.blokube.com/user/profile/Meetana/" target="_blank"><img src="http://www.blokube.com/Upload/ana.jpeg" width="25" height="25" style="border:2px solid #fff;"></a>
+&nbsp;&nbsp;&nbsp;<a href="http://www.blokube.com/user/profile/adam/" target="_blank"><img src="http://www.blokube.com/Upload/adam.jpg" width="25" height="25" style="border:2px solid #fff;"></a>&nbsp;&nbsp;&nbsp;<a href="http://www.blokube.com/user/profile/newbizblogger/" target="_blank"><img src="http://blokube.com/Upload/michele.jpg" width="25" height="25" style="border:2px solid #fff;"></a>
+			<p></p>
+			<p id="footerLogo"> </p>
+
+			<p id="footerCopyright">
+				Copyright © 2011 Blokube.
+				User-generated content is license under a <span class="showMe"><a href="http://creativecommons.org/publicdomain/zero/1.0/" rel="license" target="_blank">Creative Commons Public Domain Dedication</a></span>
+			</p>
+			<p id="footerLegal">
+				<a href="http://www.blokube.com/static/terms/">Terms </a> <span class="bullet">•</span>
+				<a href="http://www.blokube.com/static/privacy-policy">Privacy Policy</a> <span class="bullet">•</span>
+<a href="http://www.blokube.com/contact-us">Contact Us</a>
+
+
+				
+			</p>
+		</div>
+	</div>
+<a href="javascript:void(0)" class="backtotop"><span id="toTop" title="Back To Top"><em></em></span></a>
+	<!--<div class="page" style="border:1px solid #fff">here</div>-->
+</div><script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-16560866-2']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<script src="/templates/xmlhttp.php" type="text/javascript"></script>
+  
+
+
+<script type="text/javascript">
+$(document).ready(function() {
+//When you click on a link with class of poplight and the href starts with a # 
+$('a.poplight[href^=#]').click(function() {
+    var popID = $(this).attr('rel'); //Get Popup Name
+    var popURL = $(this).attr('href'); //Get Popup href to define size
+
+    //Pull Query & Variables from href URL
+    var query= popURL.split('?');
+    var dim= query[1].split('&');
+    var popWidth = dim[0].split('=')[1]; //Gets the first query string value
+
+    //Fade in the Popup and add close button
+    $('#' + popID).fadeIn().css({ 'width': Number( popWidth ) }).prepend('<a href="#" class="close"><img src="http://blokube.com/templates/blokube/images/close.png" class="btn_close" title="Close Window" alt="Close" /></a>');
+
+    //Define margin for center alignment (vertical   horizontal) - we add 80px to the height/width to accomodate for the padding  and border width defined in the css
+    var popMargTop = ($('#' + popID).height() + 0) / 2;
+    var popMargLeft = ($('#' + popID).width() + 80) / 2;
+
+    //Apply Margin to Popup
+    $('#' + popID).css({
+        'margin-top' : -popMargTop,
+        'margin-left' : -popMargLeft
+    });
+
+    //Fade in Background
+    $('body').append('<div id="fade"></div>'); //Add the fade layer to bottom of the body tag.
+    $('#fade').css({'filter' : 'alpha(opacity=80)'}).fadeIn(); //Fade in the fade layer - .css({'filter' : 'alpha(opacity=80)'}) is used to fix the IE Bug on fading transparencies 
+
+    return false;
+});
+
+//Close Popups and Fade Layer
+$('a.close, #fade').live('click', function() { //When clicking on the close or fade layer...
+    $('#fade , .popup_block').fadeOut(function() {
+        $('#fade, a.close').remove();  //fade them both out
+    });
+    return false;
+});
+	
+});
+</script>
+
+
+<div id="popup_name" class="popup_block">
+ <h2>Login To Blokube</h2>
+	<form action="/login.php?return=%2Fstatic%2Fprivacy-policy" id="popup_name-form" method="post">
+		<ul>
+			<li>
+				<label for="username">Username:</label>
+
+				<input type="text" id="username" name="username" required="required" data-message="Please enter your username." value="" tabindex="1">
+			</li>
+			<li>
+				<label for="password">Password:</label>
+				<input type="password" id="password" name="password" required="required" data-message="Please enter your password." tabindex="2">
+			</li>
+<div class="fRight">
+				<input type="hidden" name="processlogin" value="1">
+		<input type="hidden" name="return" value="">
+		<input type="checkbox" name="persistent" tabindex="42"> Remember
+&nbsp;&nbsp;
+		<input type="submit" value="Login" class="submit-s" tabindex="4">	</div>
+			
+		</ul>
+	</form><br><br>
+
+	<p id="popup_name-notice" class="msgWarning"><a href="/login.php?return=%2Fstatic%2Fprivacy-policy" tabindex="6"><strong>Forget your Password?</strong></a> Don't have an account <a href="/register/" tabindex="8"><strong>Sign Up</strong></a></p>
+</div>
+
+<script>
+jQuery(document).ready(function($) {
+	// To Top
+	$('#tooTop').click(function() {
+		$('html, body').animate({scrollTop:0}, 'slow');
+		return false;
+	});
+	
+	// Quick Login
+	$('#quickLogin').hide();
+	$('#qLogin, #submitLogin, #myLogin, .voteTipLogin, .favLogin, .bbNews-shareLogin, .commentLogin').overlay({
+		close: ".overlayExit",
+		fixed: false,
+		top: 'center',
+		mask: {
+			color: '#000',
+			opacity: 0.5
+		},
+		onLoad: function() {
+			$('#username').focus();
+			$('.quickLogin-error').hide();
+		}
+		}).bind('onBeforeClose', function(e) {
+			$('.quickLogin-error').hide();
+			$('#quickLogin #username, #quickLogin #password').removeClass('invalid');
+		}
+	);	
+	$('#quickLogin-form').validator({
+		message: '<div><em/></div>',
+		messageClass: 'quickLogin-error',
+		position: 'center left',
+		offset: [0, 98]
+	});
+	
+	
+	// Categories Dropdown
+	$('#cats').superfish({
+		delay: 500,
+		animation: {height: 'show'},
+		speed: 'normal',
+		autoArrows: false,
+		dropShadows: false,
+		onInit: function() {
+			$('#cats ul').css('left','auto');
+		}
+	});
+	// Quick Search
+	$('.quickSearch-input').bind({
+		focus: function() {
+			$(this).val('');
+		},
+		blur: function() {
+			if($(this).val() == '') {
+				$(this).val('Search..');
+			}
+		}
+	});
+	// Hide "All" Tag
+	$('.bbNews-tags li a[title="All"]').parent().hide();
+	
+	
+	
+	
+	
+	// Share
+	$('.controlsShare').click(function() {
+		var shareID = $(this).attr('id');
+		$('#'+shareID+'Content').slideToggle();
+		return false;
+	});
+	$('.controlsShareClose').click(function() {
+		$(this).parent().slideToggle();
+		return false;
+	});
+	
+	// Share Tabs
+	$('.bbNews-shareContentTabs').tabs('.bbNews-shareContentTabsPane > div', {
+		effect: 'fade'
+	});
+	
+	
+	
+	
+	// Quick Submit
+	$('#quickSubmitForm').submit(function() {
+		return false;
+	});
+	$('.quickSubmitURL').tooltip({
+		effect: "fade",
+		position: "bottom left",
+		offset: [3, 431],
+		tip: '#quickSubmitTip',
+		onBeforeShow: function() {
+			$('#quickSubmitFieldset').removeClass('quickSubmit-fieldset').addClass('quickSubmit-fieldsetFocus');
+			$('#quickSubmitLabel').hide();
+			$('.quickSubmitURL').val('http://');
+		},
+		onBeforeHide: function() {
+			$('#quickSubmitFieldset').removeClass('quickSubmit-fieldsetFocus').addClass('quickSubmit-fieldset');
+			$('#quickSubmitLabel').show();
+		}
+	});
+	
+			
+	
+	$('.plusTip, .buryTip').each(function() {
+		var theTip = $(this);		
+		theTip.tooltip({
+			events: {
+				def: 'click, mouseleave'
+			},
+			tip : '#'+theTip.attr('id')+'-tip',
+			effect: 'fade',
+			relative: true,
+			delay: 300,
+			position: 'top right',
+			offset: [5,-27]
+		});
+	});
+
+});
+
+jQuery('.backtotop').click(function(){
+	jQuery('html, body').animate({scrollTop:0}, 'slow');
+});
+</script>
+
+
+
+
+
+<div id="cometchat_flashcontent"></div><div id="cometchat"><div id="cometchat_trayicons"><div id="cometchat_trayicon_chatrooms_popup" class="cometchat_traypopup" style="display:none"><div class="cometchat_traytitle"><div class="cometchat_name">Chatrooms</div><div class="cometchat_minimizebox"></div><br clear="all"></div><div class="cometchat_traycontent" style="background-position: 59px bottom;"><div class="cometchat_traycontenttext"><iframe allowtransparency="true" frameborder="0" width="500" height="300" id="cometchat_trayicon_chatrooms_iframe"></iframe></div></div></div><div id="cometchat_trayicon_announcements_popup" class="cometchat_traypopup" style="display:none"><div class="cometchat_traytitle"><div class="cometchat_name">Announcements</div><div class="cometchat_minimizebox"></div><br clear="all"></div><div class="cometchat_traycontent"><div class="cometchat_traycontenttext"><iframe allowtransparency="true" frameborder="0" width="280" height="300" id="cometchat_trayicon_announcements_iframe"></iframe></div></div></div><div id="cometchat_trayicon_games_popup" class="cometchat_traypopup" style="display:none"><div class="cometchat_traytitle"><div class="cometchat_name">Single Player Games</div><div class="cometchat_minimizebox"></div><br clear="all"></div><div class="cometchat_traycontent"><div class="cometchat_traycontenttext"><iframe allowtransparency="true" frameborder="0" width="500" height="300" id="cometchat_trayicon_games_iframe"></iframe></div></div></div><div id="cometchat_trayicon_share_popup" class="cometchat_traypopup" style="display:none"><div class="cometchat_traytitle"><div class="cometchat_name">Share This Page</div><div class="cometchat_minimizebox"></div><br clear="all"></div><div class="cometchat_traycontent"><div class="cometchat_traycontenttext"><iframe allowtransparency="true" frameborder="0" width="340" height="50" id="cometchat_trayicon_share_iframe"></iframe></div></div></div></div><div id="cometchat_base" style="left: 20px; width: 1326px;"><div id="cometchat_hide" onclick="jqcc.cometchat.hideBar();"></div><span id="cometchat_optionsbutton" class="cometchat_tab cometchat_optionsimages" unselectable="on"></span><div id="cometchat_trayicons"><div id="cometchat_trayicon_home" class="cometchat_trayicon" unselectable="on"><div class="cometchat_trayiconimage"><img src="/cometchat/modules/home/icon.png"></div></div><div id="cometchat_trayicon_chatrooms" class="cometchat_trayicon" unselectable="on"><div class="cometchat_trayiconimage"><img src="/cometchat/modules/chatrooms/icon.png"></div><div class="cometchat_trayicontext">Chatrooms</div></div><div id="cometchat_trayicon_announcements" class="cometchat_trayicon" unselectable="on"><div class="cometchat_trayiconimage"><img src="/cometchat/modules/announcements/icon.png"></div></div><div id="cometchat_trayicon_games" class="cometchat_trayicon" unselectable="on"><div class="cometchat_trayiconimage"><img src="/cometchat/modules/games/icon.png"></div></div><div id="cometchat_trayicon_share" class="cometchat_trayicon" unselectable="on"><div class="cometchat_trayiconimage"><img src="/cometchat/modules/share/icon.png"></div></div><div id="cometchat_trayicon_scrolltotop" class="cometchat_trayicon" unselectable="on"><div class="cometchat_trayiconimage"><img src="/cometchat/modules/scrolltotop/icon.png"></div></div></div><span id="cometchat_userstab" class="cometchat_tab" unselectable="on"><span id="cometchat_userstab_icon"></span><span id="cometchat_userstab_text">Who's Online (0)</span></span><div id="cometchat_chatbox_right" class="cometchat_chatbox_right_last cometchat_chatbox_lr"><span class="cometchat_tabtext">0</span><span style="top:-5px;display:none" class="cometchat_tabalertlr">0</span></div><div id="cometchat_chatboxes" unselectable="on" style="width: 0px;"><div id="cometchat_chatboxes_wide" style=""></div></div><div id="cometchat_chatbox_left" class="cometchat_chatbox_left_last cometchat_chatbox_lr"><span class="cometchat_tabtext">0</span><span class="cometchat_tabalertlr" style="top:-5px;display:none;">0</span></div></div><div id="cometchat_optionsbutton_popup" class="cometchat_tabpopup" style="display: none; left: 1091px;"><div class="cometchat_userstabtitle"><div class="cometchat_userstabtitletext">Chat Options</div><div class="cometchat_minimizebox"></div><br clear="all"></div><div class="cometchat_tabsubtitle">Type your status and hit the enter key!</div><div class="cometchat_tabcontent cometchat_optionstyle"><strong>My Status</strong><br><textarea class="cometchat_statustextarea"></textarea><br><input type="button" class="cometchat_statusbutton" value="Set my status"><br><div class="cometchat_statusinputs"><strong>I am...</strong><br><span class="cometchat_user_available"></span><span class="cometchat_optionsstatus available">Available</span><span class="cometchat_optionsstatus2 cometchat_user_invisible"></span><span class="cometchat_optionsstatus invisible">Invisible</span><div style="clear:both"></div><span class="cometchat_optionsstatus2 cometchat_user_busy"></span><span class="cometchat_optionsstatus busy">Busy</span><span class="cometchat_optionsstatus2 cometchat_user_invisible"></span><span class="cometchat_optionsstatus cometchat_gooffline">Offline</span><br clear="all"></div><div style="border-top:1px solid #eeeeee;margin-top:10px;padding-top:4px;"><div><input type="checkbox" id="cometchat_soundnotifications" style="vertical-align: -2px;">Disable sound notifications</div><div><input type="checkbox" id="cometchat_popupnotifications" style="vertical-align: -2px;">Disable popup notifications</div></div><div class="cometchat_hidebartext"><div><a href="javascript:void(0);" id="cometchat_hidebar"></a></div></div></div></div><div id="cometchat_userstab_popup" class="cometchat_tabpopup" style="display: none; left: 1091px;"><div class="cometchat_userstabtitle"><div class="cometchat_userstabtitletext">Who's Online</div><div class="cometchat_minimizebox"></div><br clear="all"></div><div class="cometchat_tabsubtitle" id="cometchat_searchbar"><input type="text" name="cometchat_search" class="cometchat_search cometchat_search_light" id="cometchat_search" value="Find a user"></div><div class="cometchat_tabcontent cometchat_tabstyle"><div id="cometchat_userscontent" unselectable="on"><div id="cometchat_userslist_available"></div><div id="cometchat_userslist_busy"></div><div id="cometchat_userslist_away"></div><div id="cometchat_userslist_offline"></div></div></div></div></div><div id="cometchat_hidden"><div id="cometchat_hidden_content"></div></div><div id="cometchat_tooltip"><div class="cometchat_tooltip_content"></div></div><div id="fancybox-tmp"></div><div id="fancybox-loading"><div></div></div><div id="fancybox-overlay"></div><div id="fancybox-wrap"><div id="fancybox-outer"><div class="fancybox-bg" id="fancybox-bg-n"></div><div class="fancybox-bg" id="fancybox-bg-ne"></div><div class="fancybox-bg" id="fancybox-bg-e"></div><div class="fancybox-bg" id="fancybox-bg-se"></div><div class="fancybox-bg" id="fancybox-bg-s"></div><div class="fancybox-bg" id="fancybox-bg-sw"></div><div class="fancybox-bg" id="fancybox-bg-w"></div><div class="fancybox-bg" id="fancybox-bg-nw"></div><div id="fancybox-content"></div><a id="fancybox-close"></a><div id="fancybox-title"></div><a href="javascript:;" id="fancybox-left"><span class="fancy-ico" id="fancybox-left-ico"></span></a><a href="javascript:;" id="fancybox-right"><span class="fancy-ico" id="fancybox-right-ico"></span></a></div></div></body></html>
