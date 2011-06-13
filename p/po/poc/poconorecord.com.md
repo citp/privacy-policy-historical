@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the poconorecord.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121150612id_/http%3A//www.poconorecord.com/apps/pbcs.dll/misc%3Furl%3D/static/privacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poconorecord.com privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613211826id_/http%3A//www.poconorecord.com/apps/pbcs.dll/misc%3Furl%3D/static/privacyPolicy.htm) for the most accurate reproduction.*
 
 # 
 
@@ -84,7 +84,7 @@ Except as set forth herein, or if we inform you otherwise at the time of data co
 
 **Affiliates:** We may share your PII with companies that are affiliated with us, that is, are part of the News America Group of companies. 
 
-**Service Providers:** We may use other companies to perform services including, without limitation, facilitating some aspects of our web sites, sending e-mail, fulfilling purchase requests, delivering subscriptions, serving, customizing or delivering marketing or ads, and auditing. These other companies may be supplied with or have access to your PII and Related Data solely for the purpose of providing these services to us or on our behalf. 
+**Service Providers:** We may use other companies to perform services including, without limitation, facilitating some aspects of our web sites, sending e-mail, fulfilling purchase requests, delivering subscriptions, serving, customizing or delivering marketing or ads, and auditing. These other companies may be supplied with or have access (see "Access" below) to your PII and Related Data solely for the purpose of providing these services to us or on our behalf. 
 
 **Special Circumstances:** There may be instances when we may disclose PII or Related Data without providing you with a choice in order to protect the legal rights of Dow Jones, other companies within the News America Group or their employees, agents and contractors; to protect the safety and security of visitors to our web sites; to protect against fraud or for risk management purposes; or to comply with the law or legal process. In addition, if Dow Jones sells all or part of its business or makes a sale or transfer of assets or is otherwise involved in a merger or business transfer, we may transfer your PII to a third party as part of that transaction. 
 
@@ -103,22 +103,22 @@ When an individual chooses to post information that will be publicly disclosed, 
 You must update your preferences for each of our publications separately, as indicated below: 
 
   * poconorecord.com  
-To opt out of receiving marketing from poconorecord.com, if you are a subscriber visit our E-Mail Center. Others may notify us by contacting Customer Service at [customerservice@poconorecord.com](mailto:customerservice@poconorecord.com) or by calling us at 1-877-526-2709.
+To opt out of receiving marketing from poconorecord.com, if you are a subscriber visit our E-Mail Center. Others may notify us by contacting Customer Service at [customerservice@poconorecord.com](mailto:customerservice@poconorecord.com) or by calling us at 1-800-530-6310.
   * the Pocono Record  
 To opt out of receiving marketing from the Pocono Record print edition and/or promotional offers from third parties notify us by e-mail at [customerservice@poconorecord.com](mailto:customerservice@poconorecord.com) or by postal mail at 511 Lenox St., Stroudsburg, PA 18360.
 
 
 
-**Advantage Messages:** Advantage messages are email messages that we occasionally send to subscribers to our online publications and that are intended to assist you in making the most out of your subscriptions. Each one contains a link that you also may use to opt-out of receiving further Advantage messages. To opt out of receiving Advantage Messages contact Customer Service at [customerservice@poconorecord.com](mailto:customerservice@poconorecord.com) (for subscribers to poconorecord.com), or by calling us at 1-877-526-2709. 
+**Advantage Messages:** Advantage messages are email messages that we occasionally send to subscribers to our online publications and that are intended to assist you in making the most out of your subscriptions. Each one contains a link that you also may use to opt-out of receiving further Advantage messages. To opt out of receiving Advantage Messages contact Customer Service at [customerservice@poconorecord.com](mailto:customerservice@poconorecord.com) (for subscribers to poconorecord.com), or by calling us at 1-800-530-6310. 
 
 ## ACCESS: HOW TO ACCESS, CORRECT OR UPDATE YOUR PII
 
 You may review and update the personally identifiable information that you have provided to us by contacting Customer Service for each of our publications, as indicated below. Please note that if you have subscribed or registered for our print and online editions, or for more than one of our publications or services, you must update your information for each separately. 
 
   * poconorecord.com  
-Subscribers to the poconorecord.com may contact Customer Service at [customerservice@poconorecord.com](mailto:customerservice@poconorecord.com), or by calling us at 1-877-526-2709.
+Subscribers to the poconorecord.com may contact Customer Service at [customerservice@poconorecord.com](mailto:customerservice@poconorecord.com), or by calling us at 1-800-530-6310.
   * the Pocono Record  
-Subscribers to the Pocono Record print edition may contact Customer Service by e-mail at [customerservice@poconorecord.com](mailto:customerservice@poconorecord.com), calling 1-877-526-2709 or by postal mail at 511 Lenox St., Stroudsburg, PA 18360.
+Subscribers to the Pocono Record print edition may contact Customer Service by e-mail at [customerservice@poconorecord.com](mailto:customerservice@poconorecord.com), calling 1-800-530-6310 or by postal mail at 511 Lenox St., Stroudsburg, PA 18360.
 
 
 
