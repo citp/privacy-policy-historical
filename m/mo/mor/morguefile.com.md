@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the morguefile.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231004459id_/http%3A//www.morguefile.com/corporate/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the morguefile.com privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613210236id_/http%3A//morguefile.com/corporate/privacy) for the most accurate reproduction.*
 
 # morgueFile free photos for creatives by creatives
 
