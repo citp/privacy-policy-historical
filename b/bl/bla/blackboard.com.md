@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the blackboard.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216070437id_/http%3A//www.blackboard.com/Footer/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackboard.com privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613190704id_/http%3A//www.blackboard.com/Footer/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Blackboard Privacy Policy
 
-**Blackboard Privacy Statement**
+## **Blackboard Privacy Statement**
 
 The following privacy policy applies to personal data collected at the [www.blackboard.com](http://www.blackboard.com/) or Behind the Blackboard™ (behind.blackboard.com) websites, and data collected for the Blackboard Sync™, Scholar® by Blackboard and SafeAssign™ offerings (collectively, the "Services").  Blackboard Inc. and its affiliates (collectively "Blackboard") are committed to protecting the privacy of its users. Because Blackboard gathers certain types of information about the users of the Services, we believe you should fully understand the terms and conditions surrounding the use of the information we collect. The following discloses our information gathering and dissemination practices for the Services.  If you are using any of the Services through an educational or other institution that is a customer of Blackboard, this policy does not supersede the terms of any agreements between Blackboard and any other party, nor does it affect the terms of any agreement between any user of the Services and their employer, their educational institution or any third party.  Please make sure that you read the terms of any privacy policies that you enter into with parties other than Blackboard, including your employer or educational institution, as those policies may also explain how your personal information is used by those parties.
 
