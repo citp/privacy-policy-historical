@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the charbroil.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212231733id_/http%3A//www.charbroil.com/CustomerService/Privacy-Policy.aspx%3Fft%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the charbroil.com privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613142858id_/http%3A//www.charbroil.com/CustomerService/Privacy-Policy.aspx%3Fft%3D1) for the most accurate reproduction.*
 
 # Char-Broil | Privacy Policy
 
@@ -10,8 +10,7 @@ Information collected by our site is used for internal review only and not share
 
 Char-Broil may contain "links" to other sites, and we make every effort to only link to sites that share our high standards and respect for privacy. However, we are not responsible for the content or the privacy practices employed by other sites.
 
-The Char-Broil web site is built, hosted and maintained by W.C. Bradley Co., PO Box 140, Columbus, GA 31902-0140.  
+The Char-Broil web site is built, hosted and maintained by W.C. Bradley Co., PO Box 140, Columbus, GA 31902-0140.
 
-
-  
-
+| [](http://www.bbb.org/columbus-georgia/business-reviews/manufacturers-and-producers/char-broil-in-columbus-ga-7676#sealclick "Click for the Business Review of Char-Broil, a Manufacturers & Producers in Columbus GA")  
+---|---
