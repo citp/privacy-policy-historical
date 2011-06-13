@@ -1,8 +1,22 @@
-> *The following text is extracted and transformed from the easyworship.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122103205id_/http%3A//easyworship.com/legal/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easyworship.com privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613091945id_/http%3A//easyworship.com/about/privacy) for the most accurate reproduction.*
 
-# EasyWorship Church Presentation Software / Legal / Privacy Policy
+# EasyWorship Church Presentation Software / About / Privacy
 
-## EasyWorship.com Privacy Policy
+skip to content
+
+  * [Home](http://www.easyworship.com/)
+  * [EasyWorship 2009](http://www.easyworship.com/easyworship/overview/)
+  * [Media Store ](http://www.easyworship.com/store/)
+    * [Bibles](http://www.easyworship.com/bible/)
+    * [Mini Movies](http://www.easyworship.com/minimovies/)
+    * [Motions](http://www.easyworship.com/motions/)
+    * [Countdowns](http://www.easyworship.com/countdowns/)
+    * [Collections](http://www.easyworship.com/collections/)
+    * [Stills](http://www.easyworship.com/stills/)
+  * [Training](http://www.easyworship.com/easyworship/getstarted/)
+  * [Support](http://www.easyworship.com/support/)
+
+[Back to Support](https://web.archive.org/support/)
 
 Updated November 2008
 
@@ -72,7 +86,7 @@ It is also important for you to protect against unauthorized access to your comp
 
 ### Links
 
-This web site contains links to other sites. Please be aware that Softouch Development, Inc. and Easyworship.com are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this web site.
+This web site contains links to other sites. Please be aware that Softouch Development, Inc. and EasyWorship.com are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this web site.
 
 ### Children
 
