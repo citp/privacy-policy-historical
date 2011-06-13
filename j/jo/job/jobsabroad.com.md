@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the jobsabroad.com privacy policy that was archived on 2010-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101110032235id_/http%3A//www.goabroad.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobsabroad.com privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613051221id_/http%3A//www.goabroad.com/privacy) for the most accurate reproduction.*
 
-# Study Abroad, Volunteer, Intern, Teach - GoAbroad.com
-
-## GoAbroad Inc Privacy Policy
+# Privacy Policy | GoAbroad.com
 
 Important Notice
 
