@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the falmouth.ac.uk privacy policy that was archived on 2010-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100926133313id_/http%3A//www.falmouth.ac.uk/1107/menu/privacy-policy-2519.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the falmouth.ac.uk privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613201108id_/http%3A//www.falmouth.ac.uk/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D2519%26Itemid%3D1107) for the most accurate reproduction.*
 
-# Privacy Policy | Use, Information, Website, Data, Personal | University College Falmouth incorporating Dartington College of Arts
+# Privacy Policy | Information, Personal, Privacy, Website | University College Falmouth - University College Falmouth
 
 We are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information. 
 
@@ -102,4 +102,4 @@ If you have any questions about this privacy policy or our treatment of your per
 
 This privacy policy is based on a template created and distributed by [www.website-law.co.uk](http://www.website-law.co.uk/ "Information on web law "). 
 
-Copyright © 2009 University College Falmouth. All Rights Reserved. 
+Copyright © 2011 University College Falmouth. All Rights Reserved. 
