@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the s60blog.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203130111id_/http%3A//s60blog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the s60blog.com privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613034224id_/http%3A//s60blog.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The S60 Blog
 
