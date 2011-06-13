@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the review-bonus.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222213849id_/http%3A//review-bonus.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the review-bonus.com privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613034132id_/http%3A//review-bonus.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -30,7 +30,7 @@ Your information, whether public or private, will not be sold, exchanged, transf
 
 **To send periodic emails**
 
-Note: If at any time you would like to unsubscribe from receiving future emails, If at any time you would like to unsubscribe from receiving future emails, you are Free and I respect your decition, but Sometime visit My site or My Blog, You will Discover My news, bonus, reviews;)….
+Note: If at any time you would like to unsubscribe from receiving future emails, If at any time you would like to unsubscribe from receiving future emails, you are Free and I respect your decition, but Sometime visit My site or My Blog, You will Discover My news, bonus, [reviews](http://review-bonus.com/tag/reviews-2/ "reviews");)….
 
 **How do we protect your information?**
 
@@ -72,8 +72,6 @@ If we decide to change our privacy policy, we will send an email notifying you o
 
 **Contacting Me:**
 
-If there are any questions regarding this privacy policy you may [contact us](http://review-bonus.com/contact-us/ "contact us") using the information below.
+If there are any questions regarding this privacy policy you may contact us using the information below.
 
 http://review-bonus.com/contact-me/
-
-Share this Post with your best Friends!
