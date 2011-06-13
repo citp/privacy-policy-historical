@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the freshersworld.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222071934id_/http%3A//freshersworld.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freshersworld.com privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613183630id_/http%3A//www.freshersworld.com/privacy) for the most accurate reproduction.*
 
-# Freshersworld.com ™ :: Privacy Policy
+# privacy freshersworld | Freshersworld.com®
 
-  
 Freshersworld.com, (FW) is committed to safeguarding your privacy online. We will use our best efforts to ensure that the information you submit to us remains private. Please read the following policy to understand how your personal information will be treated. This policy may change from time to time so please check back periodically. 
 
 **Information Collection and Use**
@@ -27,26 +26,25 @@ _Contacting You by E-Mail_ \-- FW may use your contact information periodically 
 
 FW does not rent, sell, or share personal information about you with other people or nonaffiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances: 
 
-  * We provide the information to trusted [partners](http://www.campuscareercenter.com/about/partners.asp) who work on behalf of or with FW under partnership agreements. These companies may use your personal information to help FW communicate with you about offers from FW and our marketing partners. 
-  * We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims.
+  * We provide the information to trusted partners who work on behalf of or with FW under partnership agreements. These companies may use your personal information to help FW communicate with you about offers from FW and our marketing partners. 
+  * We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims. 
+
+
 
 **Your Ability to Edit Your Account Information and Preferences**
 
-  * You can edit your FW Account Information, including your marketing preferences, at any time. 
-  * New categories of communication may be added to the Subscriptions page from time to time. Users who visit this page can opt out of receiving future communications from these new categories or they can unsubscribe by following instructions contained in the messages they receive.
-
-**Security**
-
   * We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs. 
   * We have physical, electronic, and procedural safeguards to protect personal information about you. 
-  * Your FW account Information is password-protected.
+  * Your FW account Information is password-protected. 
+
+
 
 **Other Provisions**
 
-_Acceptance of Terms/Changes to Privacy Policy_ \-- Your use of this site indicates an acceptance of the terms of the Privacy Policy. FW reserves the right to update or amend this Privacy Policy at any time. 
+_Acceptance of Terms / Changes to Privacy Policy_ \-- Your use of this site indicates an acceptance of the terms of the Privacy Policy. FW reserves the right to update or amend this Privacy Policy at any time. 
 
-We have contracted with ValueClick to monitor certain pages of our website for the purpose of reporting website traffic, statistics, advertisement 'click-throughs', and/or other activities on our website. Where authorized by us, ValueClick may use cookies, web beacons, and/or other monitoring technologies to compile anonymous statistics about our website visitors. No personally identifiable information is collected by or transferred to any party other than the Advertiser. For more information about how the information is collected and used by ValueClick, please see ValueClick's privacy policy at <http://media.valueclick.com/privacy_consumer.shtml>. 
+We have contracted with ValueClick to monitor certain pages of our website for the purpose of reporting website traffic, statistics, advertisement 'click-throughs', and/or other activities on our website. Where authorized by us, ValueClick may use cookies, web beacons, and/or other monitoring technologies to compile anonymous statistics about our website visitors. No personally identifiable information is collected by or transferred to any party other than the Advertiser. For more information about how the information is collected and used by ValueClick, please see ValueClick's privacy policy at http://media.valueclick.com/privacy_consumer.shtml. 
 
-**Contacting the Web Site**
+**Contact Us**
 
-If you have any questions about this Privacy Statement, the practices of our site, or your dealings with our site, please Contact Us.
+If you have any questions about this Privacy Statement, the practices of our site, or your dealings with our site, please [Contact Us](http://www.freshersworld.com/contactus). 
