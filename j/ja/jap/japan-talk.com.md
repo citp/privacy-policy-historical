@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the japan-talk.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231111135id_/http%3A//www.japan-talk.com/jt/PrivacyServlet) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the japan-talk.com privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613020355id_/http%3A//www.japan-talk.com/jt/PrivacyServlet) for the most accurate reproduction.*
 
 # Japan Talk - Privacy Policy
 
-[](https://web.archive.org/jt/photo/7242/photosOfJapan.html)   
+[](https://web.archive.org/jt/photo/7248/photosOfJapan.html)   
 Tools
 
   * [Member Homepage](https://web.archive.org/jt/MemberHomePageServlet)
@@ -43,7 +43,6 @@ Japan Talk may update this policy. We will notify you about significant changes 
 
 Effective Date: June 1, 2004 
 
-  
 |   
 People who viewed this also viewed  
 ---  
