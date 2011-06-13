@@ -1,7 +1,49 @@
-> *The following text is extracted and transformed from the pkmela.com privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126195448id_/http%3A//pkmela.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pkmela.com privacy policy that was archived on 2011-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110614002430id_/http%3A//pkmela.com/privacy.php) for the most accurate reproduction.*
 
 # PKmela.com - Privacy Policy
 
+|  |   
+---|---|---  
+| 
+
+|  |   
+---  
+  
+Music
+
+Orkut Zone
+
+Facebook Zone
+
+Mobile Zone
+
+Islam
+
+Fun & Humor 
+
+Photogallery
+
+Msn Zone
+
+Horoscope
+
+Literature
+
+Greeting Cards
+
+Mailing List
+
+About PKmela.com  
+  
+   
+| 
+
+Privacy Policy - PKmela.com  
+  
+---  
+|  |  |    
+---|---|---  
+ |   
  | 
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy. 
@@ -20,4 +62,25 @@ Crush Name Revealer is faked by the name 'Love Compability Checker', which may b
 
 * Google, as a third party vendor, uses cookies to serve ads on this site. * Google's use of the DART cookie enables it to serve ads to our users based on their visit to the site and other sites on the Internet. * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. 
 
-|   
+|     
+   
+ |  |    
+   
+   
+|  [ ](http://www.setmp3.com/setkit-albums/valentines-special---top-100-love-%7C-romantic-songs/2122.html) Setkit presents you **[100 Top Love / Romantic Songs](http://www.setmp3.com/setkit-albums/valentines-special---top-100-love-%7C-romantic-songs/2122.html)** to enhance your valentines day!
+
+The collection is a blend of top Pakistani, Indian & English love songs, this is no random or CD collection, each and every song has been considered individually! 
+
+* * *
+
+  
+  
+---  
+wallpaper of the moment  
+  
+[ ](https://web.archive.org/gallery/details.php?image_id=590)   
+[View More Wallpapers Â»](https://web.archive.org/gallery)  
+  | **[CONTACT](https://web.archive.org/contact.php)**   |   [**ABOUT** ](https://web.archive.org/about.php)  |   [**PRIVACY POLICY**](https://web.archive.org/privacy.php)   |   [ **MAILING LIST**](https://web.archive.org/redir/o.php?out=http://mailing.wordsofsoul.com/?p=subscribe&id=1) **    **| **  **[ **TERMS OF USE**](https://web.archive.org/terms.php) |    
+  | PKmela.com |    
+  
+|  | 
