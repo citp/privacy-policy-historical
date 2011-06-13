@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xtube.com privacy policy that was archived on 2010-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100116195936id_/http%3A//wiki2.xtube.com/index.php%3Ftitle%3DPrivacy%26action%3Dpurge) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xtube.com privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613210055id_/http%3A//wiki.xtube.com/index.php%3Ftitle%3DPrivacy%26action%3Dpurge) for the most accurate reproduction.*
 
 # Privacy - XTube Wiki
 
@@ -101,13 +101,13 @@ For revisions to this Privacy Notice that may be materially less restrictive on 
 
 ## Rate this article!
 
-  * Currently3.21/5
-  * [1](https://web.archive.org/web/20100116195936id_/http%3A//wiki2.xtube.com/extensions/Ratings/db.php?url=/index.php?title=Privacy&action=purge&j=1&q=2473&t=207.241.228.146&c=5 "1 out of 5")
-  * [2](https://web.archive.org/web/20100116195936id_/http%3A//wiki2.xtube.com/extensions/Ratings/db.php?url=/index.php?title=Privacy&action=purge&j=2&q=2473&t=207.241.228.146&c=5 "2 out of 5")
-  * [3](https://web.archive.org/web/20100116195936id_/http%3A//wiki2.xtube.com/extensions/Ratings/db.php?url=/index.php?title=Privacy&action=purge&j=3&q=2473&t=207.241.228.146&c=5 "3 out of 5")
-  * [4](https://web.archive.org/web/20100116195936id_/http%3A//wiki2.xtube.com/extensions/Ratings/db.php?url=/index.php?title=Privacy&action=purge&j=4&q=2473&t=207.241.228.146&c=5 "4 out of 5")
-  * [5](https://web.archive.org/web/20100116195936id_/http%3A//wiki2.xtube.com/extensions/Ratings/db.php?url=/index.php?title=Privacy&action=purge&j=5&q=2473&t=207.241.228.146&c=5 "5 out of 5")
+  * Currently3.14/5
+  * [1](https://web.archive.org/web/20110613210055id_/http%3A//wiki.xtube.com/extensions/Ratings/db.php?url=/index.php?title=Privacy&action=purge&j=1&q=2473&t=174.129.237.157&c=5 "1 out of 5")
+  * [2](https://web.archive.org/web/20110613210055id_/http%3A//wiki.xtube.com/extensions/Ratings/db.php?url=/index.php?title=Privacy&action=purge&j=2&q=2473&t=174.129.237.157&c=5 "2 out of 5")
+  * [3](https://web.archive.org/web/20110613210055id_/http%3A//wiki.xtube.com/extensions/Ratings/db.php?url=/index.php?title=Privacy&action=purge&j=3&q=2473&t=174.129.237.157&c=5 "3 out of 5")
+  * [4](https://web.archive.org/web/20110613210055id_/http%3A//wiki.xtube.com/extensions/Ratings/db.php?url=/index.php?title=Privacy&action=purge&j=4&q=2473&t=174.129.237.157&c=5 "4 out of 5")
+  * [5](https://web.archive.org/web/20110613210055id_/http%3A//wiki.xtube.com/extensions/Ratings/db.php?url=/index.php?title=Privacy&action=purge&j=5&q=2473&t=174.129.237.157&c=5 "5 out of 5")
 
 
 
- **3.2** /5 (5777 votes total)
+ **3.1** /5 (10515 votes total)
