@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hagueapostille.co.uk privacy policy that was archived on 2010-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101211122727id_/http%3A//www.hagueapostille.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hagueapostille.co.uk privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613071513id_/http%3A//www.hagueapostille.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | hapostille.lh
+# Privacy Policy | www.hagueapostille.co.uk
 
 This privacy policy sets out how hagueapostille.co.uk uses and protects any information that you give hagueapostille when you use this website.
 
