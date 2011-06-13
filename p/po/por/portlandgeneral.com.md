@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the portlandgeneral.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224211417id_/http%3A//www.portlandgeneral.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the portlandgeneral.com privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613034147id_/http%3A//www.portlandgeneral.com/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Portland General Electric: Privacy Policy and Security | PGE
 
 Portland General Electric Co. believes the confidentiality of customer information is extremely important.
 
-We value our customer relationships and recognize that when you provide personal information, you trust us to protect your privacy. For that reason, we have adopted this policy governing the use of information gathered on our Web site. 
+We value our customer relationships and recognize that when you provide personal information, you trust us to protect your privacy. For that reason, we have adopted this policy governing the use of information gathered on our website. 
 
   * What personal information do we collect?
   * How can you update the online services information you have provided?
@@ -17,14 +17,10 @@ We value our customer relationships and recognize that when you provide personal
 
 
 
-[](http://www.truste.org/ivalidate.php?url=www.portlandgeneral.com&sealid=101 "This link opens a new browser window to the TRUSTe licensee validation Web site.") PGE is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, nonprofit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. This privacy statement covers the site www.portlandgeneral.com. Because we want to demonstrate our commitment to our users’ privacy, we have agreed to disclose our privacy practices and have them reviewed for compliance by TRUSTe.
-
-If users have questions or concerns regarding this statement, you should first contact PGE by [e-mail](mailto:customer.service@pgn.com "e-mail"). If you do not receive acknowledgment of your inquiry or it is not satisfactorily addressed, you should then contact TRUSTe through the [TRUSTe Watchdog Dispute Resolution Process](http://www.truste.org/consumers/watchdog_complaint.php "This link opens a new browser window to the TRUSTe Watchdog Dispute Resolution Process Web site."). TRUSTe will serve as a liaison with the Web site to resolve users’ concerns.
-
 What personal information do we collect?  
-As a visitor to this Web site, your identity will remain anonymous unless you register for online account services, enter a sweepstakes or enroll in a program. In such cases you will be notified that personal information, such as your name, address, phone number and e-mail address, is required. We may use this information, along with third party sources, to provide information based on your preferences. We may tie personally identifiable information to your profile to improve the Web site content available to you and to provide e-mail messages suited to your needs and interests. See “Other e-mail communications” below for opt-out instructions.
+As a visitor to this website, your identity will remain anonymous unless you register for online account services, enter a sweepstakes or enroll in a program. In such cases you will be notified that personal information, such as your name, address, phone number and e-mail address, is required. We may use this information, along with third party sources, to provide information based on your preferences. We may tie personally identifiable information to your profile to improve the website content available to you and to provide e-mail messages suited to your needs and interests. See “E-mail communications to customers” below for opt-out instructions.
 
-If you are starting a new electric service account, we will ask for additional personal information for credit verification and security purposes only. This information will be used to provide a requested service, to facilitate purchases and to provide you with an online newsletter.
+If you are starting a new electric service account, we will ask for additional personal information for credit verification and security purposes only. This information will be used to provide a requested service, to facilitate purchases and to provide you with e-mail communications. See “E-mail communications to customers” below for opt-out instructions.
 
 If you choose to use our service to share pages on our site with a friend, we will ask you to provide your friend’s e-mail address. We will automatically send a one-time e-mail to your friend with the requested information. PGE does not store this information.
 
@@ -51,9 +47,9 @@ Back to top
 How do we use cookies?  
 A cookie is a small text file stored on your computer by a Web site to give you a unique numeric ID. PGE does not track any personal information through the use of cookies. PGE uses cookies to: 
 
-  * Indicate whether you are signed in as a registered user of the Web site. 
+  * Indicate whether you are signed in as a registered user of the website. 
   * Enhance your privacy and security while doing business with PGE. If you step away from your computer or don’t sign out, you will be signed out automatically after 10 idle minutes. 
-  * Ensure your Web experience will not be disrupted if a load-balancing server is down or busy.
+  * Ensure your website experience will not be disrupted if a load-balancing server is down or busy.
   * Activate the “Remember me” feature. If you check this box when logging into your account, it stores your e-mail address on your computer so the information is provided automatically when you log in.
 
 
@@ -63,7 +59,7 @@ In addition, PGE has hired third-parties that use cookies on our site. We have n
 A survey vendor uses these cookies to conduct visitor surveys: 
 
   * A session-level cookie placed on survey respondents’ browsers tracks how many pages a particular visitor has passed over. Session-level cookies are automatically deleted at the end of a session. This technique ensures that a visitor has sufficiently browsed the site in order to adequately answer the survey and prevents anyone from getting a survey more than once in a single session.
-  * A persistent cookie tracks whether a particular respondent has seen the PGE Web site survey, so that person won't be bothered with it again. No personal information is tracked with this persistent cookie, nor are visitors tracked once they have left the PGE Web site.
+  * A persistent cookie tracks whether a particular respondent has seen the PGE website survey, so that person won't be bothered with it again. No personal information is tracked with this persistent cookie, nor are visitors tracked once they have left the PGE website.
 
 
 
@@ -84,28 +80,23 @@ PGE has agreements with other local utility companies to share customer informat
 
 Occasionally, we may hire third parties to act on our behalf for activities such as market research surveys, billing, technical support or contest entry processing. These parties will not be permitted to use personally identifiable information except for the purpose of providing their specific services, and they are not permitted to disclose, transfer or sell personally identifiable information.
 
-Online Home Energy Analysis  
-PGE has contracted with Apogee Interactive, Inc. to provide our customers with online energy analysis. Apogee Interactive has agreed that they will not sell your online home energy analysis data to any third party. Your energy usage data, provided by PGE to Apogee Interactive to complete your online energy analysis, will be transmitted via an encrypted Security Socket Layer (SSL).
-
 Other than the ways mentioned above, we will not release personally identifiable information to third parties without permission from the customer, unless we are required to do so by law or we in good faith believe such action is necessary to (1) comply with the law or legal process, (2) protect and defend our rights or property, (3) protect against misuse or unauthorized use of our Web site or (4) protect the personal safety or property of our customers or the public.
 
 Back to top
 
 Security  
-We understand that online security is very important to our customers. Our Web site uses a variety of Web protection products including, but not limited to firewalls, digital certificates, authentication procedures, intrusion detection and Secure Socket Layer (SSL) encryption technology.
+We understand that online security is very important to our customers. Our website uses a variety of protection products including, but not limited to firewalls, digital certificates, authentication procedures, intrusion detection and Secure Socket Layer (SSL) encryption technology.
 
-For information regarding online home energy analysis, please refer to the Release of Information section above.
-
-As an added security measure, we encourage you to sign out of the interactive portion of our Web site when you have finished your session. You will automatically be logged off an interactive session after 10 minutes of inactivity.
+As an added security measure, we encourage you to sign out of the interactive portion of our website when you have finished your session. You will automatically be logged off an interactive session after 10 minutes of inactivity.
 
 Back to top
 
 Contact information?  
-We welcome your questions and comments regarding this policy. [E-mail](mailto:customer.service@pgn.com "E-mail") Customer Service or call 800-542-8818. The address for PGE headquarters is 121 SW Salmon St., Portland, OR 97204.
+We welcome your questions and comments on this policy. [E-mail Customer Service](mailto:customer.service@pgn.com "E-mail Customer Service") or call 800-542-8818. The address for PGE headquarters is 121 SW Salmon St., Portland, OR 97204.
 
 Back to top
 
 Notification of changes  
-The privacy policy was effective as of Jan. 10, 2003, and last updated Dec. 20, 2010. Due to the rapidly evolving technologies on the Internet, this policy may be updated. All revisions will be posted to this site. If, in the unlikely event we are going to use users’ personally identifiable information in a manner substantially different from that stated at the time of collection we will notify users by posting a notice on our Web site for 30 days before the new use takes effect.
+The privacy policy was effective as of Jan. 10, 2003, and last updated March 18, 2011. Due to the rapidly evolving technologies on the Internet, this policy may be updated. All revisions will be posted to this site. If, in the unlikely event we are going to use users’ personally identifiable information in a manner substantially different from that stated at the time of collection, we will notify users by posting a notice on our website for 30 days before the new use takes effect.
 
 Back to top
