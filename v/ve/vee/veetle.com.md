@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the veetle.com privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129050820id_/http%3A//www.veetle.com/index.php/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the veetle.com privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613173446id_/http%3A//www.veetle.com/index.php/about/privacy) for the most accurate reproduction.*
 
 # Veetle - Broadcast live streaming video in HD
 
-Veetle provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive from users of [www.veetle.com](http://www.veetle.com/), [www.veetle.org](http://www.veetle.org/), and [www.veetle.info](http://www.veetle.info/) (collectively and individually, the "Sites"). This Privacy Policy applies only to information that you provide to us through the Sites. This Privacy Policy may be updated from time to time. We will notify you of any material changes by posting the new Privacy Policy on the Sites. You are advised to consult this policy regularly for any changes.
+Last Updated Date: January 10, 2011
+
+Veetle provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive from users of www.veetle.com, www.veetle.org, and www.veetle.info (collectively and individually, the "Sites"). This Privacy Policy applies only to information that you provide to us through the Sites. This Privacy Policy may be updated from time to time. We will notify you of any material changes by posting the new Privacy Policy on the Sites. You are advised to consult this policy regularly for any changes.
 
 As used in this policy, the terms "using" and "processing" information include using cookies on a computer, subjecting the information to statistical or other analysis and using or handling information in any way, including, but not limited to collecting, storing, evaluating, modifying, deleting, using, combining, disclosing and transferring information within our organization or among our affiliates within the United States or internationally.
 
@@ -10,18 +12,19 @@ As used in this policy, the terms "using" and "processing" information include u
 
 Our primary goals in collecting information are to provide and improve our Sites, services, features and content, to administer registration and correspondence through the Sites (together, the "Service") and to enable users to enjoy and easily navigate the Sites. 
 
-### Personally Identifiable Information.
+## Personally Identifiable Information.
 
-  1. When and after you register with us through the Sites or when you choose to create your own profile webpage, we will ask you for personally identifiable information. This refers to information about you that can be used to contact or identify you ("Personal Information"). Personal Information may include, but is not limited to, your name and e-mail. We use your Personal Information mainly to provide the Service and administer your inquiries.
-  2. We may also collect the other information that you provide as part of registration and the administration and personalization of your profile webpage (e.g., without limitation, zip code (on its own), gender (on its own), and individual preferences) ("Non-Identifying Information").
-  3. We use your Personal Information mainly to provide the Service, complete your transactions, and administer your inquiries. 
-  4. We also use your Personal Information to contact you with Veetle newsletters, marketing or promotional materials and other information that may be of interest to you. If you decide at any time that you no longer wish to receive such communications from us, please follow the unsubscribe instructions provided in any of the communications or update your "user preferences" information. (See "Changing or Deleting Information," below
+You have the option of registering with us through the Sites and creating a Veetle account or creating your own profile webpage on the Sites ("Account") and we will ask you for personally identifiable information in this regard. This refers to information about you that can be used to contact or identify you ("Personal Information"). Personal Information may include, but is not limited to, your name and e-mail. You will also be asked to create a username and password if you create an Account with us. We use your Personal Information mainly to provide the Service and administer your inquiries. Notwithstanding the foregoing, it is possible to use the Sites and Service without creating an Account and if you do not create an Account then we will not ask you to provide us with Personal Information.
+
+  1. We may also collect the other information that you provide as part of registration and the administration and personalization of your Account (e.g., without limitation, zip code (on its own), gender (on its own), and individual preferences) ("Non-Identifying Information"). 
+  2. We use your Personal Information mainly to provide the Service, complete your transactions, and administer your inquiries. 
+  3. We also use your Personal Information to contact you with Veetle newsletters, marketing or promotional materials and other information that may be of interest to you. If you decide at any time that you no longer wish to receive such communications from us, please follow the unsubscribe instructions provided in any of the communications or update your "user preferences" information. (See "Changing or Deleting Information," below.) 
 
 
 
-### Log Data
+## Log Data
 
-When you visit the Sites, whether as a registered or non-registered user, our servers automatically record information that your browser sends whenever you visit a website ("Log Data"). This Log Data may include but is not limited to information such as your computer's Internet Protocol ("IP") address, browser type or the webpage you were visiting before you came to our Sites, pages of our Sites that you visit, the time spent on those pages, information you search for on our Sites, access times and dates, and other statistics. We use the Google Analytics service to collect, monitor and analyze the Log Data in order to increase the Sites' and Service's functionality and user-friendliness, to better tailor it to our visitors' needs, and to understand and analyze how you are using the Sites or Service. We do not treat Log Data as Personal Information or use it in association with other Personal Information. 
+We may use the Google Analytics service and other similar services (" **Third Party Analytics Services** "), to collect, monitor and analyze information that your browser sends whenever you visit a website (" **Log Data** "); this Log Data may include but is not limited to information such as your computer's browser type or the webpage you were visiting before you came to our Sites, pages of our Sites that you visit, the time spent on those pages, information you search for on our Sites, access times and dates, and other statistics. Veetle does not collect or record such Log Data, rather the Log Data is made available by such Third Party Analytics Services to Veetle in an aggregate form only and not on an individual user basis. Veetle uses such aggregate Log Data in order to increase the Sites' and Service's functionality and user-friendliness, to better tailor it to our visitors' needs, and to understand and analyze how Veetle users in general are using the Sites or Service. 
 
 ## Cookies
 
@@ -35,7 +38,7 @@ Identity theft and the practice currently known as "phishing" are of great conce
 
 ### Your Profile
 
-When you submit your Personal Information to create a profile webpage, Veetle users will see your screen Name. Providing profile information beyond your screen name is voluntary and should correlate with the degree of interaction you want to have with Veetle users. We recommend that you guard your anonymity and sensitive information and that you not use your real name as your screen name.
+When you submit your Personal Information to create a profile webpage for your Account, Veetle users will see your screen name. Providing profile information beyond your screen name is voluntary and should correlate with the degree of interaction you want to have with Veetle users. We recommend that you guard your anonymity and sensitive information and that you not use your real name as your screen name. 
 
 ### Service Providers
 
@@ -53,7 +56,7 @@ Veetle may sell, transfer or otherwise share some or all of its assets in connec
 
 All registered users may review, update, correct or delete the Personal Information in their registration profile by contacting us. If you completely delete all such information, then your account may become deactivated. If you would like us to delete your record in our system, please contact us at [info@veetle.com](mailto:info@veetle.com) with a request that we delete your Personal Information from our database. We will use commercially reasonable efforts to honor your request. We may retain an archived copy of your records as required by law.
 
-## Security 
+## Security
 
 Veetle is very concerned with safeguarding your information. We employ administrative, physical and electronic measures designed to protect your information from unauthorized access
 
