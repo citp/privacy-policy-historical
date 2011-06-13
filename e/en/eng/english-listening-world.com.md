@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the english-listening-world.com privacy policy that was archived on 2010-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100325150620id_/http%3A//www.english-listening-world.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the english-listening-world.com privacy policy that was archived on 2011-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110614003030id_/http%3A//www.english-listening-world.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy for English Listening World
 
@@ -53,4 +53,12 @@ If you do not agree to _English Listening World_ Privacy Policy as posted here o
 Your use of this site indicates acceptance of this privacy policy.
 
 [Return from _Privacy Policy_ to _English Listnening World_ home.](http://www.english-listening-world.com/)  
+>
 
+ **Share this page:  **| | | |   
+---|---|---|---|---  
+| | |   
+  
+Enjoy this page? Tell friends about it. Here's how...  
+  
+©2008-2011 
