@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the insight.org privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228025611id_/http%3A//www.insight.org/general/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insight.org privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613164027id_/http%3A//www.insight.org/general/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Insight for Living has created this Privacy Policy to explain why we collect particular information and how we will protect your personal privacy within our Web site. The following discloses our information gathering and dissemination practices for the Web site located at the URL.
 
-In order to fully understand your rights we encourage you to read this Privacy Policy as well as our Terms of Use. reserves the right at any time and without notice to change this Privacy Policy simply by posting such changes on our Site. Any such change will be effective immediately upon posting.
+In order to fully understand your rights we encourage you to read this Privacy Policy as well as our Terms of Use. Insight for Living reserves the right at any time and without notice to change this Privacy Policy simply by posting such changes on our Site. Any such change will be effective immediately upon posting.
 
 Because we want to demonstrate our commitment to your privacy, this Privacy Policy notifies you of:   
 1\. What personally identifiable information of yours is collected through the Site;   
