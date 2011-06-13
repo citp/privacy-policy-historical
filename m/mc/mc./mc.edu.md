@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mc.edu privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221041517id_/http%3A//mc.edu/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mc.edu privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613122338id_/http%3A//www.mc.edu/privacy.php) for the most accurate reproduction.*
 
 # Privacy Statement | Mississippi College
 
