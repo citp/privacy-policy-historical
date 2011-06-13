@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the newsobserver.com privacy policy that was archived on 2010-12-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101228134013id_/http%3A//www.newsobserver.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the newsobserver.com privacy policy that was archived on 2011-06-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110613075209id_/http%3A//www.newsobserver.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 
@@ -55,8 +55,11 @@ var gomez=gomez?gomez:{};gomez.h3=function(d, s){for(var p in s){d[p]=s[p];}retu
     miyahoo.slots.slot_3 = {};
     miyahoo.slots.slot_3.ad_size_list = ["728x90"];
     miyahoo.slots.slot_3.ad_delivery_mode = "ipatf";
-    miyahoo.slots.slot_3.ad_format_list = ["standard graphical","rich media"];
     miyahoo.slots.slot_3.ad_marker = "";
+    miyahoo.slots.slot_4 = {};
+    miyahoo.slots.slot_4.ad_size_list = ["100x25"];
+    miyahoo.slots.slot_4.ad_delivery_mode = "ipatf";
+    miyahoo.slots.slot_4.ad_marker = "";
 
 
 -->
@@ -71,6 +74,10 @@ var gomez=gomez?gomez:{};gomez.h3=function(d, s){for(var p in s){d[p]=s[p];}retu
     }
 -->
 </script>
+
+
+<!-- templates/ads/dart_init.ett :start -->
+<!-- templates/ads/dart_init.ett :end -->
 
 
 
@@ -155,7 +162,6 @@ div .static li { margin-top: 5px; }
 
 
 
-
 <script type="text/javascript">
 	/**
 	 * miAppControler contains master settings that can be used to quickly disable
@@ -178,6 +184,12 @@ div .static li { margin-top: 5px; }
 	 4 = disable popular threads widget
 	*/
 	miAppControler.prototype.commenting = 1;
+
+	/*
+	 2 = display static coupon ad
+	*/
+	miAppControler.prototype.findnsave = 1;
+  miAppControler.prototype.dealsaver = 1;
 
 var pageInfo = {'version':1.0};
 pageInfo.section = {};
@@ -310,16 +322,17 @@ var miCommentingEnabled = 1;
 
  
 
-
-
-        <div class="advertisement" id="yahoo_1x1_ipatf_1">
-            
+ 
+ 
+<div class="advertisement ts_shared_generic yahoo" id="yahoo_1x1_ipatf_1">
+	
 <script><!--
 if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_1");}
 --></script>
-        </div>
-    
+
+</div><!-- /.advertisement ts_shared_generic -->
  
+
 
 <div id="universal_nav">
 	 
@@ -408,16 +421,49 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_1"
 	
 	 
 
+ 
+<div class="advertisement ts_shared_generic dart3" id="dart_960x30_ats_1">
+<!-- templates/ads/dart_call.ett :start -->
+<!-- templates/ads/dart3_render_adj.ett :start -->
+	<script type="text/javascript">
+	<!-- 
+        if ('undefined' !== typeof miadinfo) { var miadinfo = new Array(); }
+	if(typeof(miyahoo) == "undefined" || miyahoo.ads[mi_live_or_preview].dart.enabled){
+    document.write('<scr' + 
+        'ipt type="text/javascript" src="http://ad.doubleclick.net/adj/mi.nao00/Online/SiteInformation;atf=Y;dcove=d;pl=sectfront;sect=PrivacyPolicy;pos=1;sz=960x30;tile=1;!c=news;pub=NewsObserver2;ord=921805590269109' + 
+        ';gender=' + ((miadinfo && miadinfo.length > 0) ? miadinfo[0] : '') + 
+        ';year=' + ((miadinfo && miadinfo.length > 1) ? miadinfo[1] : '') + 
+        ';income=' + ((miadinfo && miadinfo.length > 2) ? miadinfo[2] : '') + 
+        '?" type="text/javascript"></scr' + 'ipt>');
+	}
+	//-->
+	</script>
+	<noscript>
+        <a  href="http://ad.doubleclick.net/jump/mi.nao00/Online/SiteInformation;atf=Y;dcove=d;pl=sectfront;sect=PrivacyPolicy;pos=1;sz=960x30;tile=1;!c=news;pub=NewsObserver2;ord=921805590269109;gender=;year=;income=?" 
+            target="_blank"><img src="http://ad.doubleclick.net/ad/mi.nao00/Online/SiteInformation;atf=Y;dcove=d;pl=sectfront;sect=PrivacyPolicy;pos=1;sz=960x30;tile=1;!c=news;pub=NewsObserver2;ord=921805590269109;gender=;year=;income=?" 
+            border="0" alt="Advertisement"></a>
+    </noscript> 
+<!-- templates/ads/dart3_render_adj.ett :end -->
+
+<!-- templates/ads/dart_call.ett :end -->
 
 
-        <div class="advertisement" id="yahoo_950x30_ipatf_1">
-            
+</div><!-- /.advertisement ts_shared_generic -->
+ 
+
+	 
+
+ 
+ 
+<div class="advertisement ts_shared_generic yahoo" id="yahoo_950x30_ipatf_1">
+	
 <script><!--
 if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_2");}
 --></script>
-        </div>
-    
+
+</div><!-- /.advertisement ts_shared_generic -->
  
+
 	
          
 
@@ -428,11 +474,47 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_2"
  
 
 
-        <div class="advertisement" id="leaderboard">
-            
+
+        <div id="leaderboard">
+             
+
+ 
+<div class="advertisement ts_shared_ads_leaderboard dart3" id="dart_728x90_ats_1">
+<!-- templates/ads/dart_call.ett :start -->
+<!-- templates/ads/dart3_render_adj.ett :start -->
+	<script type="text/javascript">
+	<!-- 
+        if ('undefined' !== typeof miadinfo) { var miadinfo = new Array(); }
+	if(typeof(miyahoo) == "undefined" || miyahoo.ads[mi_live_or_preview].dart.enabled){
+    document.write('<scr' + 
+        'ipt type="text/javascript" src="http://ad.doubleclick.net/adj/mi.nao00/Online/SiteInformation;atf=Y;dcove=d;pl=sectfront;sect=PrivacyPolicy;pos=1;sz=728x90;tile=2;!c=news;pub=NewsObserver2;ord=789056933936767' + 
+        ';gender=' + ((miadinfo && miadinfo.length > 0) ? miadinfo[0] : '') + 
+        ';year=' + ((miadinfo && miadinfo.length > 1) ? miadinfo[1] : '') + 
+        ';income=' + ((miadinfo && miadinfo.length > 2) ? miadinfo[2] : '') + 
+        '?" type="text/javascript"></scr' + 'ipt>');
+	}
+	//-->
+	</script>
+	<noscript>
+        <a  href="http://ad.doubleclick.net/jump/mi.nao00/Online/SiteInformation;atf=Y;dcove=d;pl=sectfront;sect=PrivacyPolicy;pos=1;sz=728x90;tile=2;!c=news;pub=NewsObserver2;ord=789056933936767;gender=;year=;income=?" 
+            target="_blank"><img src="http://ad.doubleclick.net/ad/mi.nao00/Online/SiteInformation;atf=Y;dcove=d;pl=sectfront;sect=PrivacyPolicy;pos=1;sz=728x90;tile=2;!c=news;pub=NewsObserver2;ord=789056933936767;gender=;year=;income=?" 
+            border="0" alt="Advertisement"></a>
+    </noscript> 
+<!-- templates/ads/dart3_render_adj.ett :end -->
+
+<!-- templates/ads/dart_call.ett :end -->
+
+
+</div><!-- /.advertisement ts_shared_ads_leaderboard -->
+ 
+<div class="advertisement ts_shared_ads_leaderboard yahoo" id="yahoo_728x90_ipatf_1">
+	
 <script><!--
 if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_3");}
 --></script>
+
+</div><!-- /.advertisement ts_shared_ads_leaderboard -->
+ 
         </div>
     
  <!--begin skybox--><div id="top-ad-promo"></div><!--end skybox-->
@@ -460,49 +542,51 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_3"
      
 
 <div class="links">
-	<ul>
-		<li class="main">
-			<a href="/rewards" title="N&amp;O Zone" class="zone">
-				<span></span>
-				<div>N&amp;O Zone</div>
-			</a>
-		</li>
-		<li><div>|</div></li>
-		<li class="main">
-                	<a href="/about/circulation/">Home Delivery&nbsp;<img src="http://media2.newsobserver.com/static/images/arrow.gif" width="9px" height="8px"></a>
-                	<ul>
-                            	<li><a href="https://sso.newsobserver.com/cgi-bin/cmo_cmo.sh/custservice/web/addrfind.html">Subscribe</a></li>   
-                            	<li><a href="https://sso.newsobserver.com/cgi-bin/cmo_cmo.sh/custservice/web/tempstartstop.html?closebutton=yes">Vacation Stop</a></li>
-                		<li><a href="https://sso.newsobserver.com/cgi-bin/cmo_cmo.sh/custservice/web/complaints.html?closebutton=yes">Delivery Problem</a></li>
-                            	<li><a href="https://sso.newsobserver.com/cgi-bin/cmo_cmo.sh/custservice/web/renewcurrent.html?process=renew">Make a Payment</a></li>
-				<li><a href="http://www.newsobserver.com/e-edition">e-edition</a></li>
-                                <li><a href="http://www.amazon.com/The-News-Observer/dp/B002IT5MYA/ref=sr_1_3?ie=UTF8&amp;s=digital-text&amp;qid=1257965573&amp;sr=1-3">Kindle</a></li>
-				<li><a href="https://sso.newsobserver.com">Subscriber Services</a></li>
-                	</ul>
-            	</li>
-            	<li><div>|</div></li>
-            	<li class="main">
-                	<a href="/about/contact">Stay Connected&nbsp;<img src="http://media2.newsobserver.com/static/images/arrow.gif" width="9px" height="8px"></a>
-                	<ul>
-				<li><a href="/about/contact">Contact Us</a></li>
-                                <li><a href="http://support.newsobserver.com/desk/member_center/index.php?action=ticket_submit">Report Problem</a></li>
-                    		<li><a href="http://www.newsobserver.com/e-edition">e-edition</a></li>
-                                <li><a href="http://www.amazon.com/The-News-Observer/dp/B002IT5MYA/ref=sr_1_3?ie=UTF8&amp;s=digital-text&amp;qid=1257965573&amp;sr=1-3">Kindle</a></li>
-                    <li><a href="http://www.newsobserver.com/breakingnews/">Email and Text Alerts</a></li>
-<li><a href="http://www.newsobserver.com/reg-bin/tint.cgi?mode=edit&amp;version=email">Email Updates</a></li>	
-                                <li><a href="http://www.newsobserver.com/mobile">iPhone</a></li>						
-                                <li><a href="http://m.newsobserver.com">Mobile</a></li>
-                                <li><a href="/about/siteinfo/story/24782.html">RSS</a></li>
-                                <li><a href="http://www.newslibrary.com/sites/rlob/">Print Archives</a></li>
-				<li><a href="http://nie.newsobserver.com">Newspapers in Education</a></li>
-                    		<li><a href="http://www.newsobserver.com/reg-bin/tint.cgi?mode=edit&amp;version=accounts">My Accounts</a></li>
-                	</ul>
-            	</li>
-		<li><div>|</div></li>
-		<li class="main weather">
-			<a href="http://newsobserver.accuweather.com/mcclatchy/news_observer/forecast.asp" class="icon"><img src="http://media2.newsobserver.com/static/images/weather/smallicons/01.gif"></a><a href="http://newsobserver.accuweather.com/mcclatchy/news_observer/forecast.asp">21°F</a>
-		</li>
-        </ul>
+    <ul>
+        <li class="main">
+            <a href="/rewards" title="N&amp;O Zone" class="zone">
+                <span></span>
+                <div>N&amp;O Zone</div>
+            </a>
+        </li>
+        <li><div>|</div></li>
+        <li class="main">
+            <a href="/about/circulation/">Home Delivery&nbsp;<img src="http://media2.newsobserver.com/static/images/arrow.gif" width="9px" height="8px"></a>
+            <ul>
+                <li><a href="https://sso.newsobserver.com/cgi-bin/cmo_cmo.sh/custservice/web/addrfind.html">Subscribe</a></li>   
+                <li><a href="https://sso.newsobserver.com/cgi-bin/cmo_cmo.sh/custservice/web/tempstartstop.html?closebutton=yes">Vacation Stop</a></li>
+                <li><a href="https://sso.newsobserver.com/cgi-bin/cmo_cmo.sh/custservice/web/complaints.html?closebutton=yes">Delivery Problem</a></li>
+                <li><a href="https://sso.newsobserver.com/cgi-bin/cmo_cmo.sh/custservice/web/renewcurrent.html?process=renew">Make a Payment</a></li>
+                <li><a href="http://www.newsobserver.com/e-edition">e-edition</a></li>
+                <li><a href="http://www.amazon.com/The-News-Observer/dp/B002IT5MYA/ref=sr_1_3?ie=UTF8&amp;s=digital-text&amp;qid=1257965573&amp;sr=1-3">Kindle</a></li>
+                <li><a href="https://sso.newsobserver.com">Subscriber Services</a></li>
+            </ul>
+        </li>
+        <li><div>|</div></li>
+        <li class="main">
+            <a href="/about/contact">Stay Connected&nbsp;<img src="http://media2.newsobserver.com/static/images/arrow.gif" width="9px" height="8px"></a>
+            <ul>
+                <li><a href="/about/contact">Contact Us</a></li>
+                <li><a href="http://support.newsobserver.com/index.php?action=ticket_submit">Report Problem</a></li>
+                <li><a href="http://www.newsobserver.com/e-edition">e-edition</a></li>
+                <li><a href="http://www.amazon.com/The-News-Observer/dp/B002IT5MYA/ref=sr_1_3?ie=UTF8&amp;s=digital-text&amp;qid=1257965573&amp;sr=1-3">Kindle</a></li>
+                <li><a href="http://www.newsobserver.com/breakingnews/">Email and Text Alerts</a></li>
+                <li><a href="http://www.newsobserver.com/reg-bin/tint.cgi?mode=edit&amp;version=email">Email Updates</a></li>   
+                <li><a href="http://www.newsobserver.com/mobile">iPhone</a></li>
+                <li><a href="http://www.facebook.com/newsobservercom">Facebook</a></li>
+                <li><a href="http://www.twitter.com/newsobserver">Twitter</a></li>              
+                <li><a href="http://m.newsobserver.com">Mobile</a></li>
+                <li><a href="/about/siteinfo/story/24782.html">RSS</a></li>
+                <li><a href="http://www.newslibrary.com/sites/rlob/">Print Archives</a></li>
+                <li><a href="http://nie.newsobserver.com">Newspapers in Education</a></li>
+                <li><a href="http://www.newsobserver.com/reg-bin/tint.cgi?mode=edit&amp;version=accounts">My Accounts</a></li>
+            </ul>
+        </li>
+        <li><div>|</div></li>
+        <li class="main weather">
+            <a href="http://newsobserver.accuweather.com/mcclatchy/news_observer/forecast.asp" class="icon"><img src="http://media2.newsobserver.com/static/images/weather/smallicons/07.gif"></a><a href="http://newsobserver.accuweather.com/mcclatchy/news_observer/forecast.asp">72°F</a>
+        </li>
+    </ul>
 </div>
 
  
@@ -549,10 +633,15 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_3"
 			<input type="image" name="search_submit" src="/static/images/masthead/search_button.gif" width="68px" height="26px">
 		</div>
 	</form>
-	<div style="width: 300px;">
-		<span id="mi_yahoo_preamble">Web Search powered by </span>
-		<span class="yahoo" style="color: #7B0099; font-size: 9pt;">YAHOO! </span>
-		<span id="mi_yahoo_post">SEARCH</span>
+        <script>
+                if (typeof(mi.search) !== "undefined" || typeof(mi.search.setUp) !== "function") {
+                        mi.search.setUp();
+                }
+        </script>
+	<div style="width: 320px;" class="text_center">
+		<span id="mi_yahoo_preamble" style="font-size: 10px;">Web Search powered by </span>
+		<span class="yahoo" style="color: #7B0099;">YAHOO! </span>
+		<span id="mi_yahoo_post" style="font-size: 10px;">SEARCH</span>
 	</div>
 </div>
 
@@ -640,10 +729,13 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_3"
                     <li><a href="http://www.newsobserver.com/news/nation_world">Nation/World</a></li>
                     <li><a href="http://www.newsobserver.com/news/crime_safety">Crime/Safety</a></li>
                     <li><a href="http://www.newsobserver.com/news/education">Education</a></li>
+					<li><a href="http://www.newsobserver.com/news/religion">Religion</a></li>
                     <li><a href="http://www.newsobserver.com/news/health_science">Health/Science</a></li>
                     <li><a href="http://www.newsobserver.com/news/traffic">Traffic</a></li>
                     <li><a href="http://www.newsobserver.com/news/weird">Weird</a></li>
                     <li><a href="http://www.newsobserver.com/news/bestoftheweekend">Best of the Weekend</a></li>
+
+                     <li><a href="http://www.newsobserver.com/thumbsup/">Thumbs Up</a></li>  
                 </ul>
             </ul>
             <ul>
@@ -669,7 +761,6 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_3"
                     <li><a href="http://www.newsobserver.com/news/columnists_blogs/drescher/index.html">Drescher</a></li>
                     <li><a href="http://www.newsobserver.com/news/columnists_blogs/shaffer/index.html">Shaffer</a></li>
                     <li><a href="http://www.newsobserver.com/news/columnists_blogs/roadworrier/index.html">Road Worrier</a></li>
-                    <li><a href="http://www.newsobserver.com/news/columnists_blogs/troubleshooter/index.html">Triangle Troubleshooter</a></li>
                 </ul>
             </ul>
             <ul>
@@ -693,13 +784,15 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_3"
                     <li><a href="http://blogs.newsobserver.com/orangechat/home">Orange Chat</a></li>
                     <li><a href="http://blogs.newsobserver.com/easternwake/home">Eastern Wake Buzz</a></li>
                     <li><a href="http://blogs.newsobserver.com/crosstown/home">Crosstown Traffic</a></li>
-                    <li><a href="http://blogs.newsobserver.com/campusnotes">Campus Notes</a></li>
                     <li><a href="http://blogs.newsobserver.com/grammar/home">Triangle Grammar Guide</a></li>
                     <li><a href="http://blogs.newsobserver.com/raleighreport/home">The Raleigh Report</a></li>
-                    <li><a href="http://blogs.newsobserver.com/wiredforweird/home">Wired for Weird</a></li>
                     <li><a href="http://blogs.newsobserver.com/iteam/home">Investigations</a></li>
                     <li><a href="http://blogs.newsobserver.com/greenscene/home">The Green Scene</a></li>
 		    <li><a href="http://blogs.newsobserver.com/editor/home">The Editors Blog</a></li>
+		    <li><a href="http://blogs.newsobserver.com/turningthescales/home">Turning the Scales
+</a></li>
+		    <li><a href="http://blogs.newsobserver.com/dieting/home">Diet Dispatches
+</a></li>
                 </ul>
             </ul>
             </div>
@@ -809,9 +902,7 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_3"
                     <a href="http://www.newsobserver.com/business/columnists_blogs" class="strong_heading">Columnists</a>
                 </li>
                 <ul class="list_links">
-                    <li><a href="http://www.newsobserver.com/business/columnists_blogs/cornatzer/index.html">Cornatzer</a></li>
                     <li><a href="http://www.newsobserver.com/business/columnists_blogs/real_deals/index.html">Real Deals</a></li>
-                    <li><a href="http://www.newsobserver.com/business/columnists_blogs/stock/index.html">Retailing</a></li>
                     <li><a href="http://www.newsobserver.com/business/columnists_blogs/nicholson/index.html">Nicholson</a></li>
                     <li><a href="http://www.newsobserver.com/business/columnists_blogs/stumpthegeeks/index.html">Stump the Geeks</a></li>
                     <li><a href="http://www.newsobserver.com/business/columnists_blogs/gilster/index.html">Gilster</a></li>
@@ -828,6 +919,7 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_3"
                     <li><a href="http://takingstock.newsobserver.com/">Taking Stock</a></li>
                     <li><a href="http://blogs.newsobserver.com/gethired/">Get Hired</a></li>
                     <li><a href="http://blogs.newsobserver.com/techjunkie/home">Tech Junkie</a></li>
+                    <li><a href="http://blogs.newsobserver.com/dollardiet">The Dollar Diet</a></li>
                 </ul>
             </ul>
             <ul>
@@ -898,7 +990,6 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_3"
                     <li><a href="http://www.newsobserver.com/life/fitness">Fitness</a></li>
                     <li><a href="http://www.newsobserver.com/life/food">Food</a></li>
                     <li><a href="http://www.newsobserver.com/life/home_garden">Home/Garden</a></li>
-                    <li><a href="http://www.newsobserver.com/life/religion">Religion</a></li>
                     <li><a href="http://www.newsobserver.com/life/family">Family</a></li>
                     <li><a href="http://www.newsobserver.com/life/style">Style</a></li>
                     <li><a href="http://www.newsobserver.com/life/travel">Travel</a></li>
@@ -923,7 +1014,12 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_3"
                 <ul class="list_links">
                     <li><a href="http://blogs.newsobserver.com/mouthful/home">Mouthful</a></li>
                     <li><a href="http://blogs.newsobserver.com/tv/home">Happiness is a Warm TV</a></li>
+                    <li><a href="http://blogs.newsobserver.com/pasttimes/home">Past Times</a></li>					
                     <li><a href="http://blogs.newsobserver.com/greenscene/home">The Green Scene</a></li>
+		    <li><a href="http://blogs.newsobserver.com/turningthescales/home">Turning the Scales
+</a></li>
+		    <li><a href="http://blogs.newsobserver.com/dieting/home">Diet Dispatches
+</a></li>
                 </ul>
             </ul>
             <ul>
@@ -1034,7 +1130,7 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_3"
         </div>
     </li>
     <li class="main_item deals">
-        <a class="main_link" href="http://www.newsobserver.com/deals">Deals</a>
+        <a class="main_link" href="http://findnsave.newsobserver.com/">Find n Save</a>
         <div class="sub column_1">
             <div class="column">
             <ul>
@@ -1042,24 +1138,16 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_3"
                     <span class="strong_heading">SECTIONS</span>
                 </li>
                 <ul class="list_links">
-                     <li><a href="http://www.newsobserver.com/deals">Deal of the Day</a></li>                    
-                    <li><a href="http://www.newsobserver.com/shopping/coupons">Coupons</a></li>
-                    <li><a href="http://ads.newsobserver.com/ROP/Advertisers.aspx">Newspaper Ads</a></li>
-                    <li><a href="http://www.newsobserver.com/shopping/magazines/">Special Sections</a></li>
+                     <li><a href="http://findnsave.newsobserver.com/">Today's Deal</a></li>                    
+                    <li><a href="http://findnsave.newsobserver.com/Coupons">Coupons</a></li>
+                    <li><a href="http://findnsave.newsobserver.com/Local-Ads">Newspaper Ads</a></li>
+                    <li><a href="http://specialsections.newsobserver.com">Special Sections</a></li>
                     <li><a href="http://raleigh.planetdiscover.com/sp?aff=1160">Business Directory</a></li>
-                    <li><a href="http://www.newsobserver.com/shopping/travel_deals">Travel Deals</a></li>
                     <li><a href="http://www.newsobserver.com/photostore">N&amp;O Photos</a></li>
-                    <li><a href="http://www.newsobserverstore.com/">N&amp;O Stores</a></li>
+                    <li><a href="http://www.newsobserverstore.com/">N&amp;O Store</a></li>
                 </ul>
             </ul>
-            <ul>
-                <li>
-                    <span class="strong_heading">FORUMS</span>
-                </li>
-                <ul class="list_links">
-                    <li><a href="http://forums.newsobserver.com/?q=forum/25">Your Two Cents</a></li>
-                </ul>
-            </ul>
+           
             </div>
         </div>
     </li>
@@ -1165,6 +1253,53 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_3"
             </div>
         </div>
     </li>
+    <li class="main_item nav_ad">
+        
+          <!-- start: nav ad -->
+                     
+
+ 
+<div class="advertisement nav_ad dart3" id="dart_100x25_ats_1">
+<!-- templates/ads/dart_call.ett :start -->
+<!-- templates/ads/dart3_render_adj.ett :start -->
+	<script type="text/javascript">
+	<!-- 
+        if ('undefined' !== typeof miadinfo) { var miadinfo = new Array(); }
+	if(typeof(miyahoo) == "undefined" || miyahoo.ads[mi_live_or_preview].dart.enabled){
+    document.write('<scr' + 
+        'ipt type="text/javascript" src="http://ad.doubleclick.net/adj/mi.nao00/Online/SiteInformation;atf=Y;dcove=d;pl=sectfront;sect=PrivacyPolicy;pos=1;sz=100x25;tile=3;!c=news;pub=NewsObserver2;ord=258185593622528' + 
+        ';gender=' + ((miadinfo && miadinfo.length > 0) ? miadinfo[0] : '') + 
+        ';year=' + ((miadinfo && miadinfo.length > 1) ? miadinfo[1] : '') + 
+        ';income=' + ((miadinfo && miadinfo.length > 2) ? miadinfo[2] : '') + 
+        '?" type="text/javascript"></scr' + 'ipt>');
+	}
+	//-->
+	</script>
+	<noscript>
+        <a  href="http://ad.doubleclick.net/jump/mi.nao00/Online/SiteInformation;atf=Y;dcove=d;pl=sectfront;sect=PrivacyPolicy;pos=1;sz=100x25;tile=3;!c=news;pub=NewsObserver2;ord=258185593622528;gender=;year=;income=?" 
+            target="_blank"><img src="http://ad.doubleclick.net/ad/mi.nao00/Online/SiteInformation;atf=Y;dcove=d;pl=sectfront;sect=PrivacyPolicy;pos=1;sz=100x25;tile=3;!c=news;pub=NewsObserver2;ord=258185593622528;gender=;year=;income=?" 
+            border="0" alt="Advertisement"></a>
+    </noscript> 
+<!-- templates/ads/dart3_render_adj.ett :end -->
+
+<!-- templates/ads/dart_call.ett :end -->
+
+
+</div><!-- /.advertisement nav_ad -->
+ 
+<div class="advertisement nav_ad yahoo" id="yahoo_100x25_ipatf_1">
+	
+<script><!--
+if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_4");}
+--></script>
+
+</div><!-- /.advertisement nav_ad -->
+ 
+
+          <!-- end: nav ad -->
+
+
+    </li>
 </ul>
 
  
@@ -1223,23 +1358,7 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_3"
 				<div>
 					<h4></h4>
 				</div>
-  				<div class="content filled">                               
-
-<div id="bn_close_btn">
-	<a href="#" onclick="closeBreakingNews(885422); return false;">Collapse</a>
-</div>
-<h1>
-  	<span class="tab_label_1">Breaking</span>
-	<span class="tab_label_2">News</span>
-	<span class="tab_label_separator">}</span>
-  	Winter Weather Advisory for Chatham, Durham, Johnston, Orange, Wake counties.</h1>
-<div id="bn_summary">The National Weather Service has issued a winter weather advisory for Chatham, Durham, Johnston, Orange, Wake counties.  This remains in effect until  12:00PM.
-
-<a href="http://newsobserver.accuweather.com/mcclatchy/news_observer/severe.asp?partner=newsObserver&amp;zipcode=27601">Learn more...</a>
-
-</div>
-
-          
+  				<div class="content filled">                    
   				</div>
 			</div>
 			<div class="round_right"></div>
@@ -1249,7 +1368,7 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_3"
 
 <script type="text/javascript">
 $(function(){
-	openBreakingNews(885422);
+	openBreakingNews();
 });
 </script>
 
@@ -1378,179 +1497,189 @@ $(function(){
 </div>
 
  
-	
+	 
 
 
 
        	 
 
 <div id="footer" class="grid_10_none">
-	<div class="bar grid_10_none">
-		<img src="/static/images/footer/footer_nao_logo.gif">
-		<a href="#">back to top</a>
-	</div>
-	<div class="grid_2">
-		<ul>		
-			<li>
-				<a class="strong_heading" href="http://www.newsobserverstore.com">N&amp;O Shopping</a>
-			</li>
-			<ul class="list_links">
+    <div class="bar grid_10_none">
+        <img src="/static/images/footer/footer_nao_logo.gif">
+        <a href="#">back to top</a>
+    </div>
+    <div class="grid_2">
+        <ul>
+            <li>
+                <a class="strong_heading" href="http://www.newsobserverstore.com">N&amp;O Shopping</a>
+            </li>
+            <ul class="list_links">
+                <li><a href="http://findnsave.newsobserver.com/">Find n Save</a></li>
+                <li><a href="http://findnsave.newsobserver.com/Local-Ads">Newspaper ads</a></li>
+                <li><a href="http://specialsections.newsobserver.com/">Special sections</a></li>
+                <li><a href="http://raleigh.planetdiscover.com/sp?aff=1160">Business listings</a></li>
+                <li><a href="http://www.newsobserver.com/photostore">Photos</a></li>
+                <li><a href="http://www.newsobserverstore.com">Posters, Books and Merchandise</a></li>
+            </ul>
+            <li>
+                <a class="strong_heading" href="http://www.newsobserver.com/reg-bin/tint.cgi">Stay Connected</a>
+            </li>
+            <ul class="list_links">
+                <li><a href="/about/contact">Contact Us</a></li>
+                <li><a href="http://support.newsobserver.com/index.php?action=ticket_submit">Report Problem</a></li>
+                <li><a href="http://www.newsobserver.com/e-edition">e-edition</a></li>
+                <li><a href="http://www.amazon.com/The-News-Observer/dp/B002IT5MYA/ref=sr_1_3?ie=UTF8&amp;s=digital-text&amp;qid=1257965573&amp;sr=1-3">Kindle</a></li>
+                <li><a href="http://www.newsobserver.com/reg-bin/tint.cgi?mode=edit&amp;version=email">Email Alerts</a></li>        
+                <li><a href="http://www.newsobserver.com/mobile">iPhone</a></li>
+                <li><a href="http://www.facebook.com/newsobservercom">Facebook</a></li>
+                <li><a href="http://www.twitter.com/newsobserver">Twitter</a></li>                  
+                <li><a href="http://m.newsobserver.com">Mobile</a></li>
+                <li><a href="/about/siteinfo/story/24782.html">RSS</a></li>
+                <li><a href="http://www.newslibrary.com/sites/rlob/">Print Archives</a></li>
+                <li><a href="http://nie.newsobserver.com">Newspapers in Education</a></li>
+                <li><a href="http://www.newsobserver.com/reg-bin/tint.cgi?mode=edit&amp;version=accounts">My Accounts</a></li>
+            </ul>       
+        </ul>
+    </div>
+    <div class="grid_2">
+        <ul>
+            <li>
+                <a class="strong_heading" href="http://www.newsobserver.com/about/circulation/">Home Delivery</a>
+            </li>
+            <ul class="list_links">
+                <li><a href="https://sso.newsobserver.com/cgi-bin/cmo_cmo.sh/custservice/web/addrfind.html">Subscribe</a></li>   
+                <li><a href="https://sso.newsobserver.com/cgi-bin/cmo_cmo.sh/custservice/web/tempstartstop.html?closebutton=yes">Vacation Stop</a></li>
+                <li><a href="https://sso.newsobserver.com/cgi-bin/cmo_cmo.sh/custservice/web/complaints.html?closebutton=yes">Delivery Problem</a></li>
+                <li><a href="https://sso.newsobserver.com/cgi-bin/cmo_cmo.sh/custservice/web/renewcurrent.html?process=renew">Make a Payment</a></li>
+                <li><a href="http://www.newsobserver.com/e-edition">e-edition</a></li>
+                <li><a href="http://www.amazon.com/The-News-Observer/dp/B002IT5MYA/ref=sr_1_3?ie=UTF8&amp;s=digital-text&amp;qid=1257965573&amp;sr=1-3">Kindle</a></li>
+                <li><a href="https://sso.newsobserver.com">Subscriber Services</a></li>
+            </ul>       
+            <li>
+                <a class="strong_heading" href="/about">About Us</a>
+            </li>
+            <ul class="list_links">
+                <li><a href="/about/contact/">Contact Us</a></li>
+                <li><a href="http://support.newsobserver.com">Help and Support</a></li>
+                <li><a href="/readerpanel/">Reader Panel</a></li>
+                <li><a href="/about/management ">Management</a></li>
+                <li><a href="http://advertising.newsobserver.com">Advertising</a></li>
+                <li><a href="/about/circulation">Circulation</a></li>
+                <li><a href="/about/interactive_media">Interactive</a></li>
+                <li><a href="/about/marketing">Marketing</a></li>
+                <li><a href="/about/newsroom">Newsroom</a></li>
+                <li><a href="/about/production">Production</a></li>
+            </ul>
+        </ul>
+    </div>
+    <div class="grid_2">
+        <ul>
+            <li>
+                <a class="strong_heading" href="/home">newsobserver.com</a>
+            </li>
+            <ul class="list_links">
+                <li><a href="/home">Home</a></li>
+                <li><a href="/news">News</a></li>
+                <li><a href="/sports">Sports</a></li>
+                <li><a href="/politics">Politics</a></li>
+                <li><a href="/life">Life</a></li>
+                <li><a href="/entertainment">Entertainment</a></li>
+                <li><a href="/opinion">Opinion</a></li>
+                <li><a href="http://www.legacy.com/obituaries/newsobserver">Obits</a></li>
+                <li><a href="http://findnsave.newsobserver.com/">Find n Save</a></li>
+                <li><a href="http://www.newsobserver.com/classifieds">Classifieds</a></li>
+                <li><a href="http://www.trianglejobs.com">Jobs</a></li>
+                <li><a href="http://www.triangle.com/autos">Cars</a></li>
+                <li><a href="http://www.newsobserver.com/realestate/NC/city/Raleigh">Homes</a></li>
+                <li><a href="http://www.newsobserver.com/rentals">Rentals</a></li>
+                <li><a href="http://placead.newsobserver.com">Place an Ad</a></li>
+            </ul>
+        </ul>
+    </div>
+    <div class="grid_2">
+        <ul>
+            <li>
+                <a class="strong_heading" href="#">Tools &amp; Formats</a>
+            </li>
+            <ul class="list_links">
+                <li><a href="http://www.newsobserver.com/e-edition">e-edition</a></li>  
+                <li></li><li><a href="/content/print/front_pdf/1-A-Sun-June-12-11.pdf">Today's Front Page (PDF)</a></li>
+                <li><a href="http://www.amazon.com/The-News-Observer/dp/B002IT5MYA/ref=sr_1_3?ie=UTF8&amp;s=digital-text&amp;qid=1257965573&amp;sr=1-3">Kindle</a></li>         
+                <li><a href="http://www.newsobserver.com/breakingnews/">Email and Text Alerts</a></li>
+                <li><a href="http://www.newsobserver.com/reg-bin/tint.cgi?mode=edit&amp;version=email">Email Updates</a></li>
+                <li><a href="http://m.newsobserver.com">Mobile</a></li>
+                <li><a href="http://www.newsobserver.com/mobile">iPhone</a></li>
+                <li><a href="/about/site_info/story/24782.html">RSS Feeds</a></li>
+                <li><a href="http://www.newslibrary.com/sites/rlob/">Print Archives</a></li>
+                <li><a href="http://www.facebook.com/pages/newsobservercom/38881689011">Facebook</a></li>
+                <li><a href="http://twitter.com/newsobserver">Twitter</a></li>
+            </ul>
+            <li>
+                <a class="strong_heading" href="/about/site_info">Site Info</a>
+            </li>
+            <ul class="list_links">
+                <li><a href="/privacy-policy#behavioral_targeting">About our ads</a></li>
+                <li><a href="/parental-consent">Parental Consent</a></li>
+                <li><a href="/privacy-policy">Privacy Policy</a></li>
+                <li><a href="/2009/10/13/139846/comment-policy.html">Comment Policy</a></li>
+                <li><a href="/copyright">Copyright</a></li>
+                <li><a href="/terms-of-service">Terms of Service</a></li>
+            </ul>
+        </ul>
+    </div>
+    <div class="grid_2">
+        <ul>
+            <li>
+                <a class="strong_heading" href="#">Triangle Online Network</a>
+            </li>
+            <ul class="list_links">
+                <li><a href="http://www.newsobserver.com">newsobserver.com</a></li>
+                <li><a href="http://www.triangle.com">triangle.com</a></li>
+                <li><a href="http://www.trianglemom2mom.com">trianglemom2mom.com</a></li>
+                <li><a href="http://www.trianglejobs.com">trianglejobs.com</a></li>
+                <li><a href="http://www.carynews.com">carynews.com</a></li>
+                <li><a href="http://www.chapelhillnews.com">chapelhillnews.com</a></li>
+                <li><a href="http://www.easternwakenews.com">easternwakenews.com</a></li>
+                <li><a href="http://www.theherald-nc.com">theherald-nc.com</a></li>
+                <li><a href="http://www.thedurhamnews.com">thedurhamnews.com</a></li>
+                <li><a href="http://www.garnerclayton.com">garnerclayton.com</a></li>
+                <li><a href="http://www.midtownraleighnews.com">midtownraleighnews.com</a></li> 
+                <li><a href="http://www.northraleighnews.com">northraleighnews.com</a></li>
+                <li><a href="http://www.southwestwakenews.com">southwestwakenews.com</a></li>
+            </ul>
+        </ul>
 
-				<li><a href="http://www.newsobserver.com/deals">Deal$</a></li>
-				<li><a href="http://www.newsobserver.com/ads">Newspaper ads</a></li>
-				<li><a href="http://www.newsobserver.com/shopping/magazines/">Special sections</a></li>
-				<li><a href="http://raleigh.planetdiscover.com/sp?aff=1160">Business listings</a></li>
-				<li><a href="http://www.newsobserver.com/photostore">Photos</a></li>
-				<li><a href="http://www.newsobserverstore.com">Posters, Books and Merchandise</a></li>
-			</ul>
-			<li>
-				<a class="strong_heading" href="http://www.newsobserver.com/reg-bin/tint.cgi">Stay Connected</a>
-			</li>
-			<ul class="list_links">
-				<li><a href="/about/contact">Contact Us</a></li>
-                                <li><a href="http://support.newsobserver.com/desk/member_center/index.php?action=ticket_submit">Report Problem</a></li>
-                    		<li><a href="http://www.newsobserver.com/e-edition">e-edition</a></li>
-                                <li><a href="http://www.amazon.com/The-News-Observer/dp/B002IT5MYA/ref=sr_1_3?ie=UTF8&amp;s=digital-text&amp;qid=1257965573&amp;sr=1-3">Kindle</a></li>
-                                <li><a href="http://www.newsobserver.com/reg-bin/tint.cgi?mode=edit&amp;version=email">Email Alerts</a></li>		
-                                <li><a href="http://www.newsobserver.com/mobile">iPhone</a></li>						
-                                <li><a href="http://m.newsobserver.com">Mobile</a></li>
-                                <li><a href="/about/siteinfo/story/24782.html">RSS</a></li>
-                                <li><a href="http://www.newslibrary.com/sites/rlob/">Print Archives</a></li>
-				<li><a href="http://nie.newsobserver.com">Newspapers in Education</a></li>
-                    		<li><a href="http://www.newsobserver.com/reg-bin/tint.cgi?mode=edit&amp;version=accounts">My Accounts</a></li>
-			</ul>		
-		</ul>
+    </div>
 
-	</div>
-	<div class="grid_2">
-		<ul>
-			<li>
-				<a class="strong_heading" href="http://www.newsobserver.com/about/circulation/">Home Delivery</a>
-			</li>
-			<ul class="list_links">
-                            	<li><a href="https://sso.newsobserver.com/cgi-bin/cmo_cmo.sh/custservice/web/addrfind.html">Subscribe</a></li>   
-                            	<li><a href="https://sso.newsobserver.com/cgi-bin/cmo_cmo.sh/custservice/web/tempstartstop.html?closebutton=yes">Vacation Stop</a></li>
-                		<li><a href="https://sso.newsobserver.com/cgi-bin/cmo_cmo.sh/custservice/web/complaints.html?closebutton=yes">Delivery Problem</a></li>
-                            	<li><a href="https://sso.newsobserver.com/cgi-bin/cmo_cmo.sh/custservice/web/renewcurrent.html?process=renew">Make a Payment</a></li>
-				<li><a href="http://www.newsobserver.com/e-edition">e-edition</a></li>
-                                <li><a href="http://www.amazon.com/The-News-Observer/dp/B002IT5MYA/ref=sr_1_3?ie=UTF8&amp;s=digital-text&amp;qid=1257965573&amp;sr=1-3">Kindle</a></li>
-				<li><a href="https://sso.newsobserver.com">Subscriber Services</a></li>
+    <div class="grid_10">
+        <div class="float_right element_spacing_medium"><a href="http://www.hostedsolutions.com/"><img border="0" class="float_left" src="http://media2.newsobserver.com/static/images/footer/HS_logo.jpg"></a></div>
+        <center>
+            <p>
+               © Copyright 2011, The News &amp; Observer Publishing Company
+            </p>
 
-                	</ul>		
-			<li>
-				<a class="strong_heading" href="/about">About Us</a>
-			</li>
-			<ul class="list_links">
-				<li><a href="/about/contact/">Contact Us</a></li>
-				<li><a href="http://support.newsobserver.com">Help and Support</a></li>
-				<li><a href="/readerpanel/">Reader Panel</a></li>
-				<li><a href="/about/management ">Management</a></li>
-				<li><a href="http://advertising.newsobserver.com">Advertising</a></li>
-				<li><a href="/about/circulation">Circulation</a></li>
-				<li><a href="/about/interactive_media">Interactive</a></li>
-				<li><a href="/about/marketing">Marketing</a></li>
-				<li><a href="/about/newsroom">Newsroom</a></li>
-				<li><a href="/about/production">Production</a></li>
-			</ul>
-		</ul>
-	</div>
-	<div class="grid_2">
-		<ul>
-			<li>
-				<a class="strong_heading" href="/home">newsobserver.com</a>
-			</li>
-			<ul class="list_links">
-				<li><a href="/home">Home</a></li>
-				<li><a href="/news">News</a></li>
-				<li><a href="/sports">Sports</a></li>
-				<li><a href="/politics">Politics</a></li>
-				<li><a href="/life">Life</a></li>
-				<li><a href="/entertainment">Entertainment</a></li>
-				<li><a href="/opinion">Opinion</a></li>
-				<li><a href="http://www.legacy.com/obituaries/newsobserver">Obits</a></li>
-<li><a href="/deals">Deal$</a></li>
-				<li><a href="http://www.newsobserver.com/classifieds">Classifieds</a></li>
-				<li><a href="http://www.trianglejobs.com">Jobs</a></li>
-				<li><a href="http://www.triangle.com/autos">Cars</a></li>
-				<li><a href="http://www.newsobserver.com/realestate/NC/city/Raleigh">Homes</a></li>
-				<li><a href="http://www.newsobserver.com/rentals">Rentals</a></li>
-				<li><a href="http://placead.newsobserver.com">Place an Ad</a></li>
-			</ul>
-		</ul>
-	</div>
-	<div class="grid_2">
-		<ul>
-			<li>
-				<a class="strong_heading" href="#">Tools &amp; Formats</a>
-			</li>
-			<ul class="list_links">
-				<li><a href="http://www.newsobserver.com/e-edition">e-edition</a></li>	
-<li></li><li><a href="/content/print/front_pdf/1-A-Tue-December-28-10.pdf">Today's Front Page (PDF)</a></li>
-                    		<li><a href="http://www.amazon.com/The-News-Observer/dp/B002IT5MYA/ref=sr_1_3?ie=UTF8&amp;s=digital-text&amp;qid=1257965573&amp;sr=1-3">Kindle</a></li>			
-				<li><a href="http://www.newsobserver.com/breakingnews/">Email and Text Alerts</a></li>
-<li><a href="http://www.newsobserver.com/reg-bin/tint.cgi?mode=edit&amp;version=email">Email Updates</a></li>
-				<li><a href="http://m.newsobserver.com">Mobile</a></li>
-				<li><a href="http://www.newsobserver.com/mobile">iPhone</a></li>
-				<li><a href="/about/site_info/story/24782.html">RSS Feeds</a></li>
-				<li><a href="http://www.newslibrary.com/sites/rlob/">Print Archives</a></li>
-				<li><a href="http://www.facebook.com/pages/newsobservercom/38881689011">Facebook</a></li>
-				<li><a href="http://twitter.com/newsobserver">Twitter</a></li>
-			</ul>
-			<li>
-				<a class="strong_heading" href="/about/site_info">Site Info</a>
-			</li>
-			<ul class="list_links">
-				<li><a href="/privacy-policy#behavioral_targeting">About our ads</a></li>
-				<li><a href="/parental-consent">Parental Consent</a></li>
-				<li><a href="/privacy-policy">Privacy Policy</a></li>
-				<li><a href="/2009/10/13/139846/comment-policy.html">Comment Policy</a></li>
-				<li><a href="/copyright">Copyright</a></li>
-				<li><a href="/terms-of-service">Terms of Service</a></li>
-			</ul>
-		</ul>
-	</div>
-	<div class="grid_2">
-		<ul>
-			<li>
-				<a class="strong_heading" href="#">Triangle Online Network</a>
-			</li>
-			<ul class="list_links">
-				<li><a href="http://www.newsobserver.com">newsobserver.com</a></li>
-				<li><a href="http://www.triangle.com">triangle.com</a></li>
-				<li><a href="http://www.trianglemom2mom.com">trianglemom2mom.com</a></li>
-				<li><a href="http://www.trianglejobs.com">trianglejobs.com</a></li>
-				<li><a href="http://www.carynews.com">carynews.com</a></li>
-				<li><a href="http://www.chapelhillnews.com">chapelhillnews.com</a></li>
-				<li><a href="http://www.easternwakenews.com">easternwakenews.com</a></li>
-				<li><a href="http://www.theherald-nc.com">theherald-nc.com</a></li>
-				<li><a href="http://www.thedurhamnews.com">thedurhamnews.com</a></li>
-				<li><a href="http://www.garnerclayton.com">garnerclayton.com</a></li>
-				<li><a href="http://www.midtownraleighnews.com">midtownraleighnews.com</a></li> 
-				<li><a href="http://www.northraleighnews.com">northraleighnews.com</a></li>
-				<li><a href="http://www.southwestwakenews.com">southwestwakenews.com</a></li>
-			</ul>
-		</ul>
-
-	</div>
-
-        <div class="grid_10">
-                <div class="float_right element_spacing_medium"><a href="http://www.hostedsolutions.com/"><img border="0" class="float_left" src="http://media2.newsobserver.com/static/images/footer/HS_logo.jpg"></a></div>
-           <center><p>
-	   © Copyright 2010, The News &amp; Observer Publishing Company
-          </p>
-
-          <p>
-	   A subsidiary of <a href="http://www.mcclatchy.com/" target="_blank"><strong>The McClatchy Company</strong></a>
-          </p></center>
-        </div>
-
+            <p>
+               A subsidiary of <a href="http://www.mcclatchy.com/" target="_blank"><strong>The McClatchy Company</strong></a>
+            </p>
+        </center>
+    </div>
 </div>
  
 
+ 
+<a name="footanchor"></a><!-- /shared/footer.comp -->
+
+
+
+
+
+
+
+
+
 
 </div>
  
-
 
 
 
@@ -1568,12 +1697,9 @@ $(function(){
 
 
 
-        <script type="text/javascript" src="http://media2.newsobserver.com/static/scripts/aggregated/live/section_pages_bottom.js"></script>
+	<script type="text/javascript" src="http://media2.newsobserver.com/static/scripts/aggregated/live/section_pages_bottom.js"></script>
 	
-		
-			
-		
-	
+
 
 
 
