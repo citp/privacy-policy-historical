@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the a-one.info privacy policy that was archived on 2010-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101210123545id_/http%3A//a-one.info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the a-one.info privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613050141id_/http%3A//a-one.info/privacy) for the most accurate reproduction.*
 
 # Privacy | A-ONE.INFO
 
 At [a-one.info](http://a-one.info/), the [privacy](http://a-one.info/privacy/ "privacy") of our visitors is of extreme importance to us (See [this article](http://www.wp-insert.smartlogix.co.in/what-is-a-privacy-policy/) to learn more [about](http://a-one.info/about/ "about") Privacy Policies.). This privacy policy document outlines the types of personal information is received and collected by [a-one.info](http://a-one.info/) and how it is used.
 
 **Log Files**  
-Like many other Web sites, [a-one.info](http://a-one.info/) makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+Like many other Web sites, [a-one.info](http://a-one.info/) makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track userâ€™s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
 **Cookies and Web Beacons**  
 [a-one.info](http://a-one.info/) does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
