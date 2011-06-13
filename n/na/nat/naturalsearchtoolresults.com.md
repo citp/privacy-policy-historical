@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naturalsearchtoolresults.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219031438id_/http%3A//naturalsearchtoolresults.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naturalsearchtoolresults.com privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613192151id_/http%3A//naturalsearchtoolresults.com/privacy.html) for the most accurate reproduction.*
 
 # NaturalSearchToolResults.com
 
