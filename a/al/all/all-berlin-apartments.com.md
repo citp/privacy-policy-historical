@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the all-berlin-apartments.com privacy policy that was archived on 2010-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100605025132id_/http%3A//www.all-berlin-apartments.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the all-berlin-apartments.com privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613153506id_/http%3A//www.all-berlin-apartments.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy Statement All-Berlin-Apartments, accommodation in Berlin, holiday rentals, vacation flats
 
@@ -47,7 +47,7 @@ We communicate with users on a regular basis to provide requested services and w
 
 ## Opt-in / Opt-out
 
-We send an evaluation / follow up email to clients who have booked an apartment after they have left their accommodation. Users who do not wish to receive a follow-up email, as part of our customer service policy, on the day of departure from their accommodation rental please contact us by email (marketing2@oh-barcelona.com). You can also opt-out by calling us at phone: +34 93 467 37 82. Open House Spain does not share personal information with 3rd parties except property owners in the case of accommodation bookings and language schools in the case of language course bookings. As such the Opt in / Opt out option is only for our follow up communication. 
+We send an evaluation / follow up email to clients who have booked an apartment after they have left their accommodation. Users who do not wish to receive a follow-up email, as part of our customer service policy, on the day of departure from their accommodation rental please contact us by email (info@openhousespain.com). You can also opt-out by calling us at phone: +34 93 467 37 82. Open House Spain does not share personal information with 3rd parties except property owners in the case of accommodation bookings and language schools in the case of language course bookings. As such the Opt in / Opt out option is only for our follow up communication. 
 
 ## Links
 
