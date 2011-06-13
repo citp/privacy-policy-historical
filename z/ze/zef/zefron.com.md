@@ -1,47 +1,10 @@
-> *The following text is extracted and transformed from the zefron.com privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129045034id_/http%3A//www.zefron.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zefron.com privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613033803id_/http%3A//www.zefron.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy « ZEFRON.COM – Your first stop and #1 source for all the latest on Zac Efron!
+# ZAC EFRON | ZEFRON.COM - Your first stop and #1 source for all the latest on Zac Efron since 2004!
 
-welcome
-
-Welcome to Charismatic, the most reliable online source for Zac Efron. Here at zefron.com we are always striving to provide Zac fans of all ages with the most accurate and up-to-date news, information, and respectful photos of Zac. 
-
-rumors
-
-**Rumors last updated November 20th, 2010.**
-
-**Is Zac starring in the movie _The Lucky One_?**  
-Yes, Zac is currently on location filming the lead role of Logan in the upcoming movie _The Lucky One_ based on the novel by Nicholas Sparks. 
-
-**Does Zac have his own production company?**  
-Zac now has his own production company under Warner Bros. called Ninjas Runnin' Wild Prods. and is set to star in and produce upcoming movies from Warner Bros. 
-
-[See more latest rumors](http://www.zefron.com/rumors)
-
-Current projects
-
-Mailing list
-
-zac efron
-
-www
-
-fan mail
-
-  * **Zac Efron  
-P.O. Box 960  
-Avila Beach, CA 93424**
-
-
-
-Please be aware that while Zac appreciates all the fanmail he has received, new letters and packages arrive for him every day, and a personal response is not guaranteed. 
-
-donate
-
-| 
-
-Privacy Policy
-
+|  .   
+---  
+  
 If you require any more information or have any questions about our privacy policy, please feel free to contact me by email at [kathrynsuzie@gmail.com](mailto:kathrynsuzie@gmail.com). 
 
 At www.zefron.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.zefron.com and how it is used. 
