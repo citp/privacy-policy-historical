@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dietivity.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222015958id_/http%3A//www.dietivity.com/disclaimer/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dietivity.com privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613165536id_/http%3A//www.dietivity.com/disclaimer/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy — Healthy Weight Loss Diet
 
 **Healthy Weight Loss Diet** takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it. See this [privacy policy primer](http://www.synclastic.com/privacy/privacy-policies/) to learn more about privacy policies in general.
 
