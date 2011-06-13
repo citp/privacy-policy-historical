@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the renweb.com privacy policy that was archived on 2010-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100812051233id_/http%3A//www.renweb.com/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the renweb.com privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613142650id_/http%3A//www.renweb.com/Privacy.asp) for the most accurate reproduction.*
 
 # RenWeb Privacy Policy
 
@@ -84,7 +84,9 @@ To prevent unauthorized access, maintain data accuracy, and ensure the correct u
 
 When you visit our website at www.renweb.com, we may collect some non-personal information about you. The collection of this non-personal information is done through the "cookie" technology. When you view our website we may store some information on your computer. This information will be in the form of a small text file, also called a "cookie". Cookies allow us to provide for the security and continuity of your session. Most browsers can be configured not to accept cookies or to indicate when a cookie is being sent but not accepting a cookie may result in difficulty viewing our website. _Neither our cookies nor web log information collects any personal information. This information will not remain on your computer after you leave our website._
 
-We employ a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. _We do not tie the information gathered by clear gifs to our customers’ personally identifiable information._
+The use of cookies by third parties is not covered by our privacy statement. These third parties use session ID cookies to make it easier for you to navigate our site. _We do not have access or control over these cookies._
+
+We or our third-party advertising partner employ a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. _We do not tie the information gathered by clear gifs to our customers’ personally identifiable information._
 
 **WIDGETS**
 
@@ -106,4 +108,4 @@ WilComp Software, L.P.
 101 E. Renfro St. Suite A  
 Burleson, TX USA 76028 
 
-This version of the Privacy Policy was last updated on **25-Jan-2010** and replaces all previous versions of our policy.
+This version of the Privacy Policy was last updated on **30-Sep-2010** and replaces all previous versions of our policy.
