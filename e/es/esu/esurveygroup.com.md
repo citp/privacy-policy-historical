@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the esurveygroup.com privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128032617id_/http%3A//esurveygroup.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esurveygroup.com privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613052853id_/http%3A//www.esurveygroup.com/privacy.php) for the most accurate reproduction.*
 
 # eSurveyGroup.com - A Short Survey Could Win You $100,000!
 
@@ -103,6 +103,6 @@ We may sell, brand or share your personal information that you supply to us with
 
 Contact Information: 
 
-If you are not in agreement with the terms of this Policy, please unsubscribe from the eSurveyGroup [click here](http://www.esurveygroup.com/unsub.php) or write to us at eSurveyGroup, 1450 Veterans Blvd. #100, Redwood City, CA 94063 and request to be removed. 
+If you are not in agreement with the terms of this Policy, please unsubscribe from the eSurveyGroup [click here](http://www.esurveygroup.com/unsub.php) or write to us at eSurveyGroup, 6800 Koll Center Parkway, Suite No. 170, Pleasanton, CA 94566 and request to be removed. 
 
-If you feel that eSurveyGroup is not abiding by its posted privacy policy, write us at eSurveyGroup, 1450 Veterans Blvd. #100, Redwood City, CA 94063. 
+If you feel that eSurveyGroup is not abiding by its posted privacy policy, write us at eSurveyGroup, 6800 Koll Center Parkway, Suite No. 170, Pleasanton, CA 94566. 
