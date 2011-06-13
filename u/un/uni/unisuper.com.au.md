@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unisuper.com.au privacy policy that was archived on 2010-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100511010735id_/http%3A//www.unisuper.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unisuper.com.au privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613152030id_/http%3A//www.unisuper.com.au/privacy-policy) for the most accurate reproduction.*
 
 # UniSuper | Privacy policy
 
@@ -129,4 +129,4 @@ UniSuper notes that if you do not provide it with health information as requeste
 
 ## **More details and further queries**
 
-More detailed information on a specific privacy issue can be requested by writing to the Privacy Officer, UniSuper, Level 37, 385 Bourke Street, Melbourne Vic 3000. Alternatively, you may call the UniSuper Helpline on **1800 331 685** between 9.00am and 5.00pm, Monday to Friday.
+More detailed information on a specific privacy issue can be requested by writing to the Privacy Officer, UniSuper, Level 37, 385 Bourke Street, Melbourne Vic 3000. Alternatively, you may call the UniSuper Helpline on **1800 331 685** between 8.30am and 5.30pm, Monday to Friday.
