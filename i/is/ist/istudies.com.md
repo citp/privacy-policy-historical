@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the istudies.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123234038id_/http%3A//istudies.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the istudies.com privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613084712id_/http%3A//www.istudies.com/privacy.aspx) for the most accurate reproduction.*
 
 # iStudies.com - Privacy Policy
 
