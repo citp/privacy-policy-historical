@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the dublincity.ie privacy policy that was archived on 2010-12-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101230023156id_/http%3A//www.dublincity.ie/Pages/PrivacyStatement.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dublincity.ie privacy policy that was archived on 2011-06-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110613170302id_/http%3A//www.dublincity.ie/Pages/PrivacyStatement.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head profile="http://dublincore.org/documents/dcq-html/"><meta name="GENERATOR" content="Microsoft SharePoint"><meta name="progid" content="SharePoint.WebPartPage.Document"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta http-equiv="Expires" content="0"><meta name="google-site-verification" content="FuImxV9_9EN0yV6-zT6GkgYB7-Xi5uBdXdeXzA4arkI"><meta name="ROBOTS" content="NOHTMLINDEX"><title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head profile="http://dublincore.org/documents/dcq-html/"><meta name="GENERATOR" content="Microsoft SharePoint"><meta name="progid" content="SharePoint.WebPartPage.Document"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta http-equiv="Expires" content="0"><meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7"><meta name="google-site-verification" content="FuImxV9_9EN0yV6-zT6GkgYB7-Xi5uBdXdeXzA4arkI"><meta name="ROBOTS" content="NOHTMLINDEX"><title>
 	
 	Dublin City Council: 
 	Privacy Statement
@@ -11,7 +11,7 @@
 <link type="text/xml" rel="alternate" href="/_vti_bin/spsdisco.aspx"><link rel="stylesheet" type="text/css" href="/_layouts/1033/styles/HtmlEditorCustomStyles.css?rev=8SKxtNx33FmoDhbbfB27UA%3D%3D">
 <link rel="stylesheet" type="text/css" href="/_layouts/1033/styles/HtmlEditorTableFormats.css?rev=guYGdUBUxQit03E2jhSdvA%3D%3D">
 <link rel="stylesheet" type="text/css" href="/_layouts/1033/styles/core.css?rev=5msmprmeONfN6lJ3wtbAlA%3D%3D">
-<link rel="stylesheet" type="text/css" href="/Style%20Library/DCC.css">
+<link rel="stylesheet" type="text/css" href="/Style%20Library/DCCv2.css">
 <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/"><meta http-equiv="content-type" content="text/html; charset=utf-8"><meta name="DC.publisher" content="Dublin City Council">
 	<meta name="DC.title" content="">
 <meta name="DC.subject" content="privacy">
@@ -22,9 +22,28 @@
 
 	
 
-	<link rel="stylesheet" type="text/css" href="../../Style%20Library/en-US/Core%20Styles/pageLayouts.css">
+	<link rel="stylesheet" type="text/css" href="/Style%20Library/en-US/Core%20Styles/pageLayouts.css">
 
 
+	<script type="text/javascript">
+	function loadjscssfile(filename, filetype){
+  	var fileref=document.createElement("link")
+  	fileref.setAttribute("rel", "stylesheet")
+  	fileref.setAttribute("type", "text/css")
+ 	fileref.setAttribute("href", filename)
+  	if (typeof fileref!="undefined")
+  	document.getElementsByTagName("head")[0].appendChild(fileref)
+	}
+	if (/MSIE (\d+\.\d+);/.test(navigator.userAgent))
+	{ //test for MSIE x.x;
+	 var ieversion=new Number(RegExp.$1
+ 	) // capture x.x portion and store as a number
+	}
+	if ((/Firefox[\/\s](\d+\.\d+)/.test(navigator.userAgent))|| (/Safari[\/\s](\d+\.\d+)/.test(navigator.userAgent)) || (/Chrome[\/\s](\d+\.\d+)/.test(navigator.userAgent)) || (/Opera[\/\s](\d+\.\d+)/.test(navigator.userAgent)) || ieversion>=7){
+	loadjscssfile("/Style Library/dropdown.css", "css")
+	} ////dynamically load and add this .css file
+	</script><link rel="stylesheet" type="text/css" href="/Style Library/dropdown.css">
+	<!--[if lt IE 7]><link type="text/css" rel="stylesheet" href="../Style%20Library/msie-access.css" media="screen" /><![endif]-->
 	<!--[if lte IE 7]><link type="text/css" rel="stylesheet" media="screen,projection" href="/style library/msie.css" /><![endif]-->
 	<link type="text/css" rel="stylesheet" media="print" href="/style library/print.css">
 	
@@ -51,10 +70,54 @@
 		}
 		//-->
 	</script>	
+	<script type="text/javascript">
+	/**
+ 	* Adds and removes classes to a list of links to allow keyboard accessibility
+ 	*
+ 	* @param string dropDownId
+ 	* @param string hoverClass
+ 	* @param int mouseOffDelay
+ 	*/
+	function dropdown(dropdownId, hoverClass, mouseOffDelay) {
+		if(dropdown = document.getElementById(dropdownId)) {
+		var listItems = dropdown.getElementsByTagName('li');
+		for(var i = 0; i < listItems.length; i++) {
+			listItems[i].onmouseover = function() { this.className = addClass(this); }
+			listItems[i].onmouseout = function() {
+				var that = this;
+				setTimeout(function() { that.className = removeClass(that); }, mouseOffDelay);
+				this.className = that.className;
+			}
+			
+			var anchor = listItems[i].getElementsByTagName('a');
+			anchor = anchor[0];
+			anchor.onfocus = function() { tabOn(this.parentNode); }
+			anchor.onblur = function() { tabOff(this.parentNode); }
+		}
+	}
+	
+	function tabOn(li) {
+		if(li.nodeName == 'LI') {
+			li.className = addClass(li);
+			tabOn(li.parentNode.parentNode);
+		}
+	}
+	
+	function tabOff(li) {
+		if(li.nodeName == 'LI') {
+			li.className = removeClass(li);
+			tabOff(li.parentNode.parentNode);
+		}
+	}
+	
+	function addClass(li) { return li.className + ' ' + hoverClass; }
+	function removeClass(li) { return li.className.replace(hoverClass, ""); }
+}	
+	</script>
 
 	</head>
 <body scroll="yes" onload="javascript:if (typeof(_spBodyOnLoadWrapper) != 'undefined') _spBodyOnLoadWrapper();">
-<form name="aspnetForm" method="post" action="/web/20101230023156id_/http%3A//www.dublincity.ie/Pages/PrivacyStatement.aspx" id="aspnetForm">
+<form name="aspnetForm" method="post" action="/web/20110613170302id_/http%3A//www.dublincity.ie/Pages/PrivacyStatement.aspx" id="aspnetForm">
 <input type="hidden" name="__SPSCEditMenu" id="__SPSCEditMenu" value="true">
 <input type="hidden" name="MSOWebPartPage_PostbackSource" id="MSOWebPartPage_PostbackSource" value="">
 <input type="hidden" name="MSOTlPn_SelectedWpId" id="MSOTlPn_SelectedWpId" value="">
@@ -63,7 +126,7 @@
 <input type="hidden" name="MSOGallery_SelectedLibrary" id="MSOGallery_SelectedLibrary" value="">
 <input type="hidden" name="MSOGallery_FilterString" id="MSOGallery_FilterString" value="">
 <input type="hidden" name="MSOTlPn_Button" id="MSOTlPn_Button" value="none">
-<input type="hidden" name="__REQUESTDIGEST" id="__REQUESTDIGEST" value="0x50AA07A97B18530B762993219672D49919AD10DBACBA908107CEE338BCB573C666A946165C8D93B4C39E64E0EE3F054A0E7EE73E3155F8FF9F055BF6FA381E8C,30 Dec 2010 02:29:01 -0000">
+<input type="hidden" name="__REQUESTDIGEST" id="__REQUESTDIGEST" value="0x3E059AE854FD4583EFC29E88BF0F49EAA700A3D9ACC280F39264D4361B25AF08C345B318A9DA1AD94092EF74C1E4F946A977E8235119CE42A8A6C0CB1CB66BC5,13 Jun 2011 16:59:08 -0000">
 <input type="hidden" name="MSOAuthoringConsole_FormContext" id="MSOAuthoringConsole_FormContext" value="">
 <input type="hidden" name="MSOAC_EditDuringWorkflow" id="MSOAC_EditDuringWorkflow" value="">
 <input type="hidden" name="MSOSPWebPartManager_DisplayModeName" id="MSOSPWebPartManager_DisplayModeName" value="Browse">
@@ -72,12 +135,18 @@
 <input type="hidden" name="MSOLayout_InDesignMode" id="MSOLayout_InDesignMode" value="">
 <input type="hidden" name="MSOSPWebPartManager_OldDisplayModeName" id="MSOSPWebPartManager_OldDisplayModeName" value="Browse">
 <input type="hidden" name="MSOSPWebPartManager_StartWebPartEditingName" id="MSOSPWebPartManager_StartWebPartEditingName" value="false">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUBMA9kFgJmD2QWBgICD2QWAgIGD2QWAmYPZBYCAgEPFgIeE1ByZXZpb3VzQ29udHJvbE1vZGULKYgBTWljcm9zb2Z0LlNoYXJlUG9pbnQuV2ViQ29udHJvbHMuU1BDb250cm9sTW9kZSwgTWljcm9zb2Z0LlNoYXJlUG9pbnQsIFZlcnNpb249MTIuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49NzFlOWJjZTExMWU5NDI5YwFkAgYPZBYGAgMPZBYCAgEPFgIeB1Zpc2libGVoFgJmD2QWBAICD2QWBgIBDxYCHwFoZAIDDxYCHwFoZAIFDxYCHwFoZAIDDw8WAh4JQWNjZXNzS2V5BQEvZGQCBw9kFgICAQ9kFgJmD2QWAgIDD2QWAgIBDw8WAh8BZ2QWBAIBDw8WAh8BaGQWHAIBDw8WAh8BaGRkAgMPFgIfAWhkAgUPDxYCHwFoZGQCBw8WAh8BaGQCCQ8PFgIfAWhkZAILDw8WAh8BaGRkAg0PDxYCHwFoZGQCDw8PFgQeB0VuYWJsZWRoHwFoZGQCEQ8PFgIfAWhkZAITDw8WBB8DaB8BaGRkAhUPDxYCHwFoZGQCFw8WAh8BaGQCGQ8WAh8BaGQCGw8PFgIfAWdkZAIDDw8WAh8BZ2QWBgIBDw8WAh8BZ2RkAgMPDxYGHhhwZXJzaXN0ZWRFcnJvckFjdGlvblRyZWVkHhtwZXJzaXN0ZWRFcnJvckFjdGlvblRyZWVJZHNkHwFnZGQCBQ8PFgIfAWdkZAJJD2QWAgIDD2QWCAIDDxYCHwALKwQBZAIFDxYCHwALKwQBZAIHDxYCHwALKwQBZAINDxYCHwALKwQBZAIID2QWAgIXD2QWAgIJDw8WAh8BaGQWAgIFD2QWAgIBDzwrAAkBAA8WAh4NTmV2ZXJFeHBhbmRlZGdkZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAgUhY3RsMDAkc2VhcmNoY29udHJvbHMkc2VhcmNoYnV0dG9uBSVjdGwwMCRzZWFyY2hjb250cm9scyRtYWluc2VhcmNoYnV0dG9u1M86MW5FC+7uKhpy3LbZe5RFlWg=">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUBMA9kFgJmD2QWBgICD2QWAgIHD2QWAmYPZBYCAgEPFgIeE1ByZXZpb3VzQ29udHJvbE1vZGULKYgBTWljcm9zb2Z0LlNoYXJlUG9pbnQuV2ViQ29udHJvbHMuU1BDb250cm9sTW9kZSwgTWljcm9zb2Z0LlNoYXJlUG9pbnQsIFZlcnNpb249MTIuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49NzFlOWJjZTExMWU5NDI5YwFkAgYPZBYGAgMPZBYCAgEPFgIeB1Zpc2libGVoFgJmD2QWBAICD2QWBgIBDxYCHwFoZAIDDxYCHwFoZAIFDxYCHwFoZAIDDw8WAh4JQWNjZXNzS2V5BQEvZGQCBw9kFgICAQ9kFgJmD2QWAgIDD2QWAgIBDw8WAh8BZ2QWBAIBDw8WAh8BaGQWHAIBDw8WAh8BaGRkAgMPFgIfAWhkAgUPDxYCHwFoZGQCBw8WAh8BaGQCCQ8PFgIfAWhkZAILDw8WAh8BaGRkAg0PDxYCHwFoZGQCDw8PFgQeB0VuYWJsZWRoHwFoZGQCEQ8PFgIfAWhkZAITDw8WBB8DaB8BaGRkAhUPDxYCHwFoZGQCFw8WAh8BaGQCGQ8WAh8BaGQCGw8PFgIfAWdkZAIDDw8WAh8BZ2QWBgIBDw8WAh8BZ2RkAgMPDxYGHhhwZXJzaXN0ZWRFcnJvckFjdGlvblRyZWVkHhtwZXJzaXN0ZWRFcnJvckFjdGlvblRyZWVJZHNkHwFnZGQCBQ8PFgIfAWdkZAJJD2QWAgIDD2QWCAIDDxYCHwALKwQBZAIFDxYCHwALKwQBZAIHDxYCHwALKwQBZAINDxYCHwALKwQBZAIID2QWAgIXD2QWAgIJDw8WAh8BaGQWAgIFD2QWAgIBDzwrAAkBAA8WAh4NTmV2ZXJFeHBhbmRlZGdkZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAgUhY3RsMDAkc2VhcmNoY29udHJvbHMkc2VhcmNoYnV0dG9uBSVjdGwwMCRzZWFyY2hjb250cm9scyRtYWluc2VhcmNoYnV0dG9uG+kDTGaNyX7lUZbN+DcwysDDMpg=">
 
-<script> var MSOWebPartPageFormName = 'aspnetForm';</script>
+<script> var MSOWebPartPageFormName = 'aspnetForm';</script><script type="text/JavaScript" language="JavaScript">
+<!--
+var L_Menu_BaseUrl="";
+var L_Menu_LCID="1033";
+var L_Menu_SiteTheme="";
+//-->
+</script>
 <script>
 function _spNavigateHierarchy(nodeDiv, dataSourceId, dataPath, url, listInContext, type) {
-    ProcessDefaultNavigateHierarchy(nodeDiv, dataSourceId, dataPath, url, listInContext, type, document.forms.aspnetForm, "", "\u002fpages\u002fPrivacyStatement.aspx");
+    ProcessDefaultNavigateHierarchy(nodeDiv, dataSourceId, dataPath, url, listInContext, type, document.forms.aspnetForm, "", "\u002fPages\u002fPrivacyStatement.aspx");
 }
 </script>
 
@@ -165,6 +234,7 @@ function _spNavigateHierarchy(nodeDiv, dataSourceId, dataPath, url, listInContex
 				<li><a href="PrivacyStatement.aspx" title="Privacy statement">Privacy</a></li>
 				<li><a href="AtoZ.aspx" title="A - Z" accesskey="Z">A - Z</a></li>
 				<li><a href="SiteMap.aspx" title="Sitemap" accesskey="4">Sitemap</a></li>
+				<li><a href="#" onclick="window.print();return false;">Print</a></li>
 				<li>
 					<fieldset>
   <dl>
@@ -179,12 +249,13 @@ function _spNavigateHierarchy(nodeDiv, dataSourceId, dataPath, url, listInContex
 				</li>
 			</ul>
 			<ul id="navbar_pri">
-				<li><a href="../" title="Go back to the home page" accesskey="1">Home</a></li><li><a href="#" title="Services">Services<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="../YourCouncil/" title="Your council" accesskey="Y">Your council</a></li><li><a href="../Housing/" title="Housing" accesskey="H">Housing</a></li><li><a href="../Planning/" title="Planning" accesskey="P">Planning</a></li>						<li><a href="../RoadsandTraffic/" title="Roads and traffic" accesskey="R">Roads and traffic</a></li>						<li><a href="../RecreationandCulture/" title="Recreation and culture" accesskey="C">Recreation and culture</a></li><li><a href="../WaterWasteEnvironment/" title="Water, waste and environment" accesskey="W">Water, waste and environment</a></li><li><a href="../business/" title="Business" accesskey="B">Business</a></li><li><a href="../Community/" title="Community" accesskey="F">Community</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li>
+				<li><a href="../" title="Go back to the home page" accesskey="1">Home</a></li><li><a href="http://www.dublincity.ie/Pages/servicespage.aspx" title="Services">Services<!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="../YourCouncil/" title="Your council" accesskey="Y">Your council</a></li><li><a href="../Housing/" title="Housing" accesskey="H">Housing</a></li><li><a href="../Planning/" title="Planning" accesskey="P">Planning</a></li>						<li><a href="../RoadsandTraffic/" title="Roads and traffic" accesskey="R">Roads and traffic</a></li>						<li><a href="http://www.dublincity.ie/RecreationandCulture" title="Recreation and culture" accesskey="C">Recreation and culture</a></li><li><a href="../WaterWasteEnvironment/" title="Water, waste and environment" accesskey="W">Water, waste and environment</a></li><li><a href="../business/" title="Business" accesskey="B">Business</a></li><li><a href="../Community/" title="Community" accesskey="F">Community</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li>
 				<li><a href="../RecreationandCulture/events/pages/eventsindublin.aspx" title="Events">Events</a></li>
 				<li><a href="../Press/" title="Press &amp; news">Press &amp; news</a></li>
 				<li><a href="forms.aspx" title="Forms">Forms</a></li>
 				<li><a href="ContactUs.aspx" title="Contact us">Contact us</a></li>
 			</ul>
+			<script type="text/javascript">dropdown('navbar_pri', 'hover', 100);</script>
 			<div id="customerService">
 				Customer service: <span>01 222 2222</span>
 			</div>
@@ -196,7 +267,7 @@ function _spNavigateHierarchy(nodeDiv, dataSourceId, dataPath, url, listInContex
 			<!-- Global Breadcrumb -->
 			
 	
-				<span id="ctl00_PlaceHolderGlobalNavigationSiteMap_GlobalNavigationSiteMap"><span><a class="ms-sitemapdirectional" href="/Pages/Homepage.aspx">Home</a></span><span class="breadcrumbseparator">»</span><span class="ms-sitemapdirectional">Privacy Statement</span></span>
+				<span id="ctl00_PlaceHolderGlobalNavigationSiteMap_GlobalNavigationSiteMap"><span><a class="ms-sitemapdirectional" href="/Pages/welcome/mainpage.htm">Home</a></span><span class="breadcrumbseparator">»</span><span class="ms-sitemapdirectional">Privacy Statement</span></span>
 
 			 
 
@@ -316,8 +387,24 @@ function _spNavigateHierarchy(nodeDiv, dataSourceId, dataPath, url, listInContex
 				<div id="topLink"><a href="#header" title="Return to the top of the page">top</a></div>
 			</div>
 			<div id="bottomFooter">
+			<!-- AddToAny BEGIN -->
+			<script type="text/javascript">
+				var a2a_config = a2a_config || {};
+				a2a_config.linkurl = window.location.href;
+				var linkText = '<a class="a2a_dd" href="http://www.addtoany.com/share_save?linkurl=' + window.location.href +'&amp;linkname="><img src="http://static.addtoany.com/buttons/share_save_171_16.png" width="171" height="16" border="0" alt="Share"/></a>';
+				document.write(linkText);
+				var socialLinks = document.getElementById('showSocialLinks');
+				if(socialLinks != undefined && socialLinks != null)
+					{
+					socialLinks.innerHTML = linkText;
+					}
+			</script><a class="a2a_dd" href="http://www.addtoany.com/share_save?linkurl=https://web.archive.org/web/20110613170302id_/http%3A//www.dublincity.ie/Pages/PrivacyStatement.aspx&amp;linkname="><img src="http://static.addtoany.com/buttons/share_save_171_16.png" width="171" height="16" border="0" alt="Share"></a>
+			<script type="text/javascript" src="http://static.addtoany.com/menu/page.js"></script>
+			<!-- AddToAny END -->
+			&nbsp;
+
 				<ul>
-					<li><a href="../YourCouncil/SeirbhisiGaeilge/Pages/SeirbhsiGaeilge.aspx" title="Polasaí Gaeilge">Polasaí Gaeilge</a> |</li>
+					<li><a href="../YourCouncil/SeirbhisiGaeilge/Pages/SeirbhsiGaeilge.aspx" title="Láthair Ghaeilge">Láthair Ghaeilge</a> |</li>
 					<li><a href="Termsandconditions.aspx" title="Terms and conditions">Terms and conditions</a> | </li>
 					<li><a href="Accessibilitystatement.aspx" title="Accessibility statement">Accessibility statement</a> | </li>
 					<li><a href="websitehelp.aspx" title="Website help">Website help</a></li>
@@ -336,7 +423,7 @@ function _spNavigateHierarchy(nodeDiv, dataSourceId, dataPath, url, listInContex
 <input type="hidden" id="ctl00_m_g_1c7b9713_a538_47e7_9e9f_e5a72b7e7b6e_S7CEF5C3A_InputKeywords" name="ctl00_m_g_1c7b9713_a538_47e7_9e9f_e5a72b7e7b6e_S7CEF5C3A_InputKeywords">
 
 
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAwLehM/DBwLagYjaAwLQ4r+ZDr0duR7tOkDQ4pNdLhx5mjltD2ZS">
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAwLv44PEAwLagYjaAwLQ4r+ZDpMdIBsNY3rR4Sgdlo6lRj7uteF6">
 
 <script type="text/javascript">
 <!--
@@ -361,7 +448,7 @@ pageTracker._trackPageview();
 
 <!--—********************* Google Analytics End*********************—-->
 
-
+<script type="text/javascript" src="http://uk1.siteimprove.com/js/siteanalyze_640.js">//</script>
 
 
 </body></html>
