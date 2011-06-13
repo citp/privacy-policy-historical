@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the steply.com privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128081344id_/http%3A//steply.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the steply.com privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613082853id_/http%3A//steply.com/privacy) for the most accurate reproduction.*
 
-# Steply - Priavcy Policy
+# Steply
 
 ## Privacy Policy
 
@@ -15,7 +15,7 @@ User-Provided Information: When you create or update a Stepcase account, you pr
   1. Location Information: You may choose to add your location on your photos. You can control your location information settings before uploading your photo. To provide this feature, we derive location information from your wireless carrier, certain third-party service providers, or directly from the mobile device that you use a Stepcase mobile application. This location tracking of your mobile device occurs only when a Stepcase mobile application is actively open and running.
   2. Cookies Information: Like many websites, we use "cookie" technology to collect additional website usage data and to improve our Services, but we do not require cookies for many parts of our Services such as searching and looking at public user profiles or lists. A cookie is a small data file that is transferred to your computer's hard disk. We may use both session cookies and persistent cookies to better understand how you interact with our Services, to monitor aggregate usage by our users and web traffic routing on our Services, and to improve our Services. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the Service may not function properly if the ability to accept cookies is disabled.
   3. Log Data: Our servers automatically record information ("Log Data") created by your use of the Services. Log Data may include information such as your IP address, browser type, the referring domain, pages visited, and search terms. Other actions, such as interactions with advertisements, may also be included in Log Data.
-  4. Third Party Services: Stepcase uses Google Analytics to help understand use of our Services. Through Google, Analytics collects the information sent by your browser as part of a web page request, including cookies and your IP address. Google also receives this information and their use of it is governed by their Privacy Policy.
+  4. Third Party Services: Stepcase uses Google Analytics & Flurry Analytics to help understand use of our services. Through Google, Analytics collects the information sent by your browser as part of a web page request, including cookies and your IP address. Google also receives this information and their use of it is governed by their Privacy Policy. Through Flurry, Analytics collects information sent by your mobile device as part of the data requests when you interact with Steply. We encrypt username data to ensure accounts are not identifiable. Flurry also receives this information and their use of it is governed by their Privacy Policy.
 
 
 
