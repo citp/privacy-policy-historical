@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the resellerclub.com privacy policy that was archived on 2010-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100906061843id_/http%3A//www.resellerclub.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resellerclub.com privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613224504id_/http%3A//www.resellerclub.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | ResellerClub
+# Privacy Policy – Domain Reseller Privacy Policy at ResellerClub | ResellerClub
+
+## Privacy Policy
 
 In the course of using this website or availing the products and services vide the online application forms and questionnaires, ResellerClub may become privy to the personal information of its clients including information that is of a confidential nature.
 
@@ -10,9 +12,9 @@ As a client we would also urge you to cooperate with ResellerClub in order to en
 
 ResellerClub undertakes not to disclose the information provided by the clients to any person, unless such action is necessary to: 
 
-  * Conform to legal requirements or comply with legal process;
-  * Protect and defend ResellerClub's or its Affiliates' rights, interests or property;
-  * Enforce the terms and conditions of the products or services; or 
+  * Conform to legal requirements or comply with legal process
+  * Protect and defend ResellerClub's or its Affiliates' rights, interests or property
+  * Enforce the terms and conditions of the products or services; or
   * Act to protect the interests of ResellerClub, its Affiliates, or its members, constituents or of other persons.
 
 
