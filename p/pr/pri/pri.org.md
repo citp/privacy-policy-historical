@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pri.org privacy policy that was archived on 2009-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090822000008id_/http%3A//www.pri.org/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pri.org privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613172050id_/http%3A//www.pri.org/privacy-policy.html) for the most accurate reproduction.*
 
-# PRI: Public Radio International: National and World News, Talk, Arts, Entertainment and Music - PRI.ORG Privacy Policy
+# PRI: Public Radio International - PRI.ORG Privacy Policy
 
 Public Radio International (PRI) understands the importance of protecting the privacy of visitors to our website.
 
