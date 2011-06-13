@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thecopypasteblog.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230190325id_/http%3A//thecopypasteblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecopypasteblog.com privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613122405id_/http%3A//thecopypasteblog.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - The Copy Paste Blog
+# Privacy Policy
 
 Privacy Policy for thecopypasteblog.com
 
