@@ -1,52 +1,47 @@
-> *The following text is extracted and transformed from the indiafascinates.com privacy policy that was archived on 2010-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101211233234id_/http%3A//indiafascinates.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiafascinates.com privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613195254id_/http%3A//indiafascinates.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | India Fascinates
 
-This is the web site of **India Fascinates Dot Com**.
+This is the website of **India Fascinates**.
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us via the contact page. 
+## Privacy Policy at India Fascinates
 
-At **indiafascinates dot com** , the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information received and collected by _indiafascinates dot com.com_ and how it is used. 
+Any personal information you provide to us like name, e-mail address, address and telephone number will not be released, sold or rented to any entities or individuals outside of India Fascinates.
 
-We collect the domain name and e-mail address (where possible) of visitors to our Web page, the e-mail addresses of those who communicate with us via contact page, the e-mail addresses of those who make postings to our chat areas (comment section), aggregate information on what pages consumers access or visit.
+We have a strict no spam policy and do not send you any emails, unless you subscribe to receive email updates.
 
-The information we collect is used for internal review and is used to improve the content of our Web page, customize the content and/or layout of our page for each individual visitor.The information is subsequently discarded. 
+## Credit card and Financial details
 
-##  Log Files 
+India Fascinates will never ask for Credit Card details and request you **_NOT_** to share it through any of the forms on India Fascinates.
 
-Like many other Web sites, _indiafascinates dot com_ makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user?s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+## External Sites
 
-## Cookies and Web Beacons 
+India Fascinates is not responsible for the content of external sites linked from pages on this site. You are advised to read the privacy policy of such external sites before disclosing any personal information or entering into any transaction.
 
-indiafascinates dot com does not use or set any cookies. 
+## With respect to Cookies and Advertisers
 
-Some of our advertising partners may use cookies and web beacons on our site. Our current advertising partners include 
+A "cookie" is a small data text file that is placed in your browser and allows India Fascinates to recognize you each time you visit this site. Cookies themselves do not contain any personal information, and India Fascinates does not use cookies to collect personal information. Our site and third parties such as advertisers may add a cookie to help analyze web traffic or to determine targeted advertisements based on your preferences.
 
-  * Infolinks – [www.infolinks.com](http://www.infolinks.com/)
-  * Google Adsense (application has been filed with Google adsense) – [www.google.com/adsense](https://www.google.com/adsense)
+We allow **third-party advertising companies** (like [Google Adsense](https://www.google.com/adsense/)) to serve ads when you visit our Web site. Google, as a third party vendor, uses cookies to serve ads on our site. Google’s use of the [DART cookie](http://www.doubleclick.com/privacy/faq.aspx) enables it to serve ads to our users based on their visit to our sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
+Please note that these companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).
 
-  * Third party vendors, including Google and Infolinks, use cookies to serve ads based on a user’s prior visits to your website.
-  * These third-party ad servers or ad networks use thier own technology to serve advertisements that appear on indiafascinates dot com.Technologies ( such as cookies, JavaScript, or Web Beacons ) may be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
-  * Google’s use of the DART cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.
-  * Users may opt out of the use of the DART cookie by visiting the [advertising opt-out page](http://www.google.com/privacy_ads.html). 
+Here are some [third-party vendors](https://www.google.com/adsense/support/bin/answer.py?answer=94149) serving ads on this site and you may visit those vendor websites to opt out of cookies (if the vendor offers this capability).
 
+## Visitor Tracking
 
+India Fascinates makes use of analytical software such as “Google Analytics” for statistical purposes.We at India Fascinates use this information for statistical purpose only and do not share it with any third party.
 
-Users can opt out of some, but not all, of these cookies in one location at the Network Advertising Initiative opt-out website at [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp)
+India Fascinates also makes use of log files. The information inside the log files includes information such as internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time-stamp, referring/exit pages, and number of clicks. These information are collected administer the site and ensure security, to analyze trends, track user’s movement around the site and gather demographic information.
 
-indiafascinates dot com has no access to or control over these cookies that are used by third-party advertisers.
+## Policy on User Comments
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. indiafascinates dot com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
+India Fascinates allows users to comment on the site. However we hold all rights to accept or reject any comments based on our discretion. While commenting on India Fascinates, please refrain from using content that is not suitable for ALL types of audiences.
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites. 
+## With respect to security
 
-Upon request, we provide site visitors with access to no information that we have collected and that we maintain about them. 
+We do our best to protect your personal information. However, we cannot guarantee the security of any information that you transmit on the internet and you are solely responsible for maintaining the secrecy of any passwords or other account information. In addition, external sites or services accessible through India Fascinates have their own privacy policy and Terms of use.You may have to use their products or services at your own discretion.You may do well to read their policies and Terms and We may not assume responsibility for any of your actions or dealing with such third party sites.
 
-Upon request, we offer visitors, the ability to have inaccuracies corrected, in contact information, communications that the consumer/visitor has directed to the site.
+Please contact them directly, if you have any questions on their privacy policies.
 
-Consumers can have any of their information corrected by messaging us via the contact page.
-
-With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
-
-If you feel that this site is not following its stated information policy, you may contact us.
+For any other information please [contact us](http://indiafascinates.com/contact/)
