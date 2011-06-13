@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lmgtfy.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220095754id_/http%3A//lmgtfy.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lmgtfy.com privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613053759id_/http%3A//www.lmgtfy.com/privacy.html) for the most accurate reproduction.*
 
 # Let me google that for you
 
