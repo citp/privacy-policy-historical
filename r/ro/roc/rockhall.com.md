@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rockhall.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127182145id_/http%3A//rockhall.com/site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rockhall.com privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613025030id_/http%3A//rockhall.com/site/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Rock and Roll Hall of Fame and Museum
 
@@ -104,6 +104,7 @@ Send a letter with your request and current contact information to:
 
 The Rock and Roll Hall of Fame and Museum, Inc.   
 c/o General Counsel’s Office   
+Collection Auto Group Plaza  
 1100 Rock and Roll Boulevard   
 Cleveland, Ohio 44114-1022 
 
@@ -129,5 +130,6 @@ The Museum is committed to undertaking measures that protect the confidentiality
 
 The Rock and Roll Hall of Fame and Museum, Inc.   
 c/o General Counsel’s Office   
+Collection Auto Group Plaza  
 1100 Rock and Roll Boulevard   
 Cleveland, Ohio 44114-1022 
