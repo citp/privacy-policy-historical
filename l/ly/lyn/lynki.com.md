@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lynki.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206111614id_/http%3A//mediatemple.net/company/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lynki.com privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613164305id_/http%3A//mediatemple.net/company/legal/privacy.php) for the most accurate reproduction.*
 
 # (mt) Media Temple - Company - Legal - Privacy Policy
 
