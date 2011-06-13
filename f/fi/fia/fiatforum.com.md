@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fiatforum.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122093843id_/http%3A//www.fiatforum.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fiatforum.com privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613145216id_/http%3A//www.fiatforum.com/privacy.html) for the most accurate reproduction.*
 
 # The FIAT Forum - Privacy Statement
 
@@ -30,6 +30,10 @@ The FIAT Forum may also collect information about how users access our Services 
 A cookie is a piece of data stored on the user's computer tied to information about the user. We may use both session ID cookies and persistent cookies. For session ID cookies, once you close your browser or log out, the cookie terminates and is erased. A persistent cookie is a small text file stored on your computer's hard drive for an extended period of time. 
 
 Your browser's help file contains information and instructions for removing persistent cookies. Session ID cookies may be used by The FIAT Forum to track user preferences while the user is using our Services. They also help to minimize load times and save on server processing. Persistent cookies may be used by The FIAT Forum to store whether, for example, you want your password remembered or not, and other information. Cookies used on The FIAT Forum websites do not contain personally identifiable information. 
+
+**3a. Google Cookies**
+
+Google's use of the Double DART cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet. You may opt out of the use of the DART cookie by visiting the [advertising opt-out page](http://www.google.com/privacy_ads.html). 
 
 **4\. Log Files**
 
