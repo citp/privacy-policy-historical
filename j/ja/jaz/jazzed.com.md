@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jazzed.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223172217id_/http%3A//www.jazzed.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jazzed.com privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613041855id_/http%3A//www.jazzed.com/privacy) for the most accurate reproduction.*
 
-# Jazzed: Online Dating Free Trial - Make a Connection, Try it for Free.
+# Jazzed Privacy Statement: Online Dating Site for Singles
 
 This privacy statement discloses our privacy practices on Jazzed.com(the "Site").
 
