@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wral.com privacy policy that was archived on 2010-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101010173433id_/http%3A//www.wral.com/rs/page/1020577) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wral.com privacy policy that was archived on 2011-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110614013354id_/http%3A//www.wral.com/rs/page/1020577) for the most accurate reproduction.*
 
 # Privacy Policy :: WRAL.com
 
