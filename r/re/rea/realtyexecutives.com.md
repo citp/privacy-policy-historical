@@ -1,29 +1,49 @@
-> *The following text is extracted and transformed from the realtyexecutives.com privacy policy that was archived on 2005-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050407124701id_/http%3A//www.realtyexecutives.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realtyexecutives.com privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613044748id_/http%3A//realtyexecutives.com/privacy-policy) for the most accurate reproduction.*
 
-# REALTY EXECUTIVES International
+# Privacy Policy | Realty Executives International
 
-**We Respect Your Privacy**
+This is the Web site of **Realty Executives International**.
 
-International respects and protects the privacy of visitors to our Web site.  We have provided this policy statement about our privacy and information dissemination practices for realtyexecutives.com because your privacy is a priority to us.
+Our postal address is  
+**4435 East Chandler Blvd.  
+Phoenix, AZ, 85048**
 
-**Information We Gather Or Track**
+We can be reached via e-mail at [privacy@realtyexecutives.com](mailto:privacy@searchhomes.com), or through the Contact Us page.
 
-International does not collect individually identifiable data on our Web site unless you choose to give it to us by filling out a form on our Web site.
+For each visitor to our Web page, our Web server automatically recognizes the consumer’s domain name and e-mail address (where possible).
 
-Our Web site utilizes "cookies" to maintain information about an individual's current visit to our Web site, commonly referred to as a session.  Cookies store small amounts of data on your computer and must be enabled in order for visitors to utilize certain functions of our Web site.  For our public Web site, session information does not contain any individually identifiable data, but only marks each visitor with a unique key.  Session information includes the search criteria specified by a Web site visitor so that multiple pages of search results can be displayed.  For the Secure Area of our Web site, session information includes security information so that  personnel can update their profile.
+**Information Collection**
 
-Additionally, when guests visit the  International Web site, we collect some basic information that does not identify individual users. This includes the amount of traffic visiting the site, which pages are visited and for how long, where the visitors come from, and what ISP they are using. We use the information we collect to improve the quality of our Web site, enhance or tailor the information we offer, and make your experience on our site as valuable and efficient as possible. 
+In order to provide better service, track usage statistics, and manage session information, SearchHomes.com collects the IP address of all visitors to the site.  While we maintain records of user behavior tied to an IP address (to provide services such as recommendations based on previous homes viewed), we do not use this information to attempt to identify you or seek any additional information beyond your site usage behavior and explicitly-provided information.  That information can include domain names, email addresses, phone numbers, content viewing preferences, and geographic location.  Our usage of this data and procedures for modiifying or removing it from our system are stated below.
 
-**What We Do With Collected Information**
+**Information Disclosure**
 
-Even when you choose to give us information, we only use it to fulfill the request you have made.  For those  personnel that choose to receive information from our  Registered Suppliers, we provide information to these suppliers to enable communications.
+The information we collect is used to improve the content of our Web site, used to customize the content and/or layout of our Web site for each individual visitor, used to notify consumers about updates to our Web site, shared with agents or contractors who assist in providing support for our internal operations, and used by us to contact consumers for marketing purposes.  We will share this information with other third parties onlu when we are legally required to do so at the request of appropriate governmental authorities conducting an investigation, to verify or enforce compliance with the policies governing our Web site and applicable laws, or to protect against misuse or unauthorized use of our Web site.
 
-Occasionally,  International will hire a third party to act on our behalf for projects such as market research surveys and will provide information to these third parties specifically for use in connection with these projects.  However, the information provided does not include any individually identifiable data.  Furthermore, the information we provide to such third parties is protected by a confidentiality agreement and the use of the information is limited to completion of the specific project.
+**Usage of Cookies**
 
-** Links To Other Web Sites**
+We place small text files known as a “cookie” on our users’ hard drives. A cookie allows searchhomes.com to track your path through our Web site and remember where you left off when you visited us last.  For example, if you searched for Phoenix real estate on your last visit, we can use information in our cookie to bring you immediately to Phoenix properties on your next search.
 
-International provides numerous links to Web sites other than realtyexecutives.com.  International cannot be responsible for the privacy practices or content of these Web sites. We encourage you to read the posted privacy statement whenever interacting with any Web site.
+We use cookies to store visitors preferences, record user-specific information on what pages users access or visit, alert visitors to new areas that we think might be of interest to them when they return to our site, record past activity at a site in order to provide better service when visitors return to our site , ensure that visitors are not repeatedly sent the same banner ads, and customize Web site content based on visitors’ browser type or other information that the visitor sends.
 
-** Terms Of Use**
+Cookies contain no personally identifiable information.  If you are unregistered or have not logged in, unless you register with us, the cookie cannot be used to identify you.  Furthermore, our cookies cannot be read by third parties and other Web sites.
 
-By using our Web site, you consent to  International's collection and use of your information as described in this policy. If  International updates this privacy policy, such changes will be posted on this page.
+**Outgoing Communications**
+
+If you supply us with your postal address on-line you will only receive the information for which you provided us your address.  If you do not want to receive e-mail from us in the future, please click the unsubscribe link in the footer of any email you have received.
+
+Persons who supply us with their telephone numbers on-line will only receive calls providing the information for which they provided us their phone number.  It will only be shared with third parties necessary to provide that information.  For example, we might pass along a user’s phone number to a real estate agent if the user explicity provides such information to schedule an appointment to view a property.
+
+**Ad Servers**
+
+We do not currently partner with or have special relationships with any third party ad server companies.
+
+**Changes to User-Submitted Personal Information**
+
+Upon request we provide site visitors with access to unique identifier information (e.g., customer number or password) that we maintain about them, contact information (e.g., name, address, phone number) that we maintain about them .
+
+**Changes to our Privacy Policy**
+
+From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and we will use for these new purposes only data collected from the time of the policy change forward. If you are concerned about how your information is used, please check back at our Web site periodically.
+
+If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
