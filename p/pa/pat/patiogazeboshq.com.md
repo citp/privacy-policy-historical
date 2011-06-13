@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the patiogazeboshq.com privacy policy that was archived on 2010-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101106190916id_/http%3A//www.friendsoftheplanet.com/policies/privacy-policy.php%3Fsite%3DPatioGazebosHQ.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the patiogazeboshq.com privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613231159id_/http%3A//www.friendsoftheplanet.com/policies/privacy-policy.php%3Fsite%3DPatioGazebosHQ.com) for the most accurate reproduction.*
 
 # Friends Of The Planet Privacy Policy
 
@@ -52,6 +52,8 @@ We hate junk e-mail (Spam). Information you obtain from our website about us or 
 
 You may choose to provide personal information to website visitors or other third parties who are not our suppliers. Please use caution when doing so. The privacy policies and customs of these third parties determine what is done with your information.
 
+We use third-party companies to serve ads and collect non-personally identifiable information (e.g., the pages you visit, and which links you click, which ads you see and click on, and the categories of search terms you enter) when you visit our web site. These companies may use the information outlined above (which does not include your name, address, email address or telephone number) about your visits to this and other web sites in order to provide advertisements about goods and services of interest to you. These companies often use a cookie or third party web beacon to collect this information. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp) (link to the NAI universal user opt-out).
+
 **AUTORESPONDERS**
 
 We may use autoresponders to communicate with you by e-mail. To protect your privacy, we use a verified opt-in system for such communications and you can always opt-out of such communications using the links contained in each autoresponder message. If you have difficulties opting out, you may contact us by sending an e-mail to info[at]FriendsOfThePlanet.com, or sending us mail to the address listed below. 
@@ -65,18 +67,20 @@ If you are concerned about the topic covered by this policy, you should read it 
 You may also mail your concerns to us at the following address:
 
 Friends Of The Planet, Inc.  
-9081 Miller TRL  
-Snowflake, Arizona 85937  
-USA 
+BM Flashlight  
+London,  
+WC1N 3XX  
+United Kingdom 
 
 **CALIFORNIA PRIVACY RIGHTS**
 
 If you are a California resident and our customer, Cal. Civ. Code § 1798.83 permits you to request certain information about our disclosure of personal information to third parties for their direct marketing purposes. To request this information, please send an e-mail to info[at]FriendsOfThePlanet.com or write us at the following address:
 
 Friends Of The Planet, Inc.  
-9081 Miller TRL  
-Snowflake, Arizona 85937  
-USA 
+BM Flashlight  
+London,  
+WC1N 3XX  
+United Kingdom 
 
 This privacy policy was last updated on 11 July 2010.
 
@@ -86,4 +90,4 @@ Copyright © 2008-2009 [Law Office of Michael E. Young PLLC](http://www.mikeyoun
 
 * * *
 
-**Copyright 2008 - 2010[FriendsOfThePlanet.com](https://web.archive.org/contact-us.php?site=PatioGazebosHQ.com)**
+**Copyright 2008 - 2011[FriendsOfThePlanet.com](https://web.archive.org/contact-us.php?site=PatioGazebosHQ.com)**
