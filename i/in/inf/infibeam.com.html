@@ -1,98 +1,891 @@
-<!--The following is the downloaded HTML source of the infibeam.com privacy policy that was archived on 2010-11-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101123172311id_/http%3A//www.infibeam.com/static/help/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the infibeam.com privacy policy that was archived on 2011-06-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110613224406id_/http%3A//www.infibeam.com/static/help/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <title>Privacy Policy</title>
 <link rel="icon" type="image/gif" href="/favicon.ico">
-<link rel="stylesheet" href="/assets/yui-css/reset-fonts-grids.css" type="text/css">
-<link rel="stylesheet" href="/assets/skins/common/style/globle.css?v=20" type="text/css">
-<script src="/includeResource.action?v=15&amp;bundle=jquerycore" type="text/javascript" charset="utf-8">
+<link rel="stylesheet" href="http://assets.infibeam.com/assets/yui-css/reset-fonts-grids.css" type="text/css">
+<link rel="stylesheet" href="http://assets.infibeam.com/assets/skins/common/style/globle.css?v=23" type="text/css">
+<link rel="stylesheet" href="http://assets.infibeam.com/assets/skins/common/style/infibeam.css" type="text/css">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://assets.infibeam.com/includeResource.action?v=18&amp;bundle=jquerycore" type="text/javascript" charset="utf-8">
 </script>
-<link rel="stylesheet" type="text/css" media="screen" href="/assets/skins/common/style/help.css">
+<link rel="stylesheet" type="text/css" media="screen" href="http://assets.infibeam.com/assets/skins/common/style/help.css">
+<style>
+#help p {font: 13px/18px arial,helvetica,sans-serif;}
+#help ol.number li {
+list-style-type:decimal;
+margin-left:25px;
+}
+#staticpage ul li a{background:transparent; padding-left:0px;}
+</style>
+<script>
+$(document).ready(function(){
+$('.helpDesc').hide();
+var locationHash = window.location.hash;
+if(locationHash!=null && locationHash!=""){
+$(locationHash).show();
+}
+$('.openHelpDesc').show();
+$('.helpTopic').click(function(){
+$('.helpDesc').hide();
+$($(this).attr('href')).show();
+/*return false;*/
+});
+});
+</script>
 <script>
 var IB ={};
+$(document).ready(function(){
+try{$(document).pngFix();}catch(err){}
+});
+</script>
+<!-- Urchin -->
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-2515569-1']);
+_gaq.push(['_trackPageview']);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
 </script>
 </head>
 <body>
-<div id="custom-doc" class="yui-t2">
+<div id="custom-doc" class="yui-t7">
+<script>
+var isHomePage="false";
+if(isHomePage=="false"){
+$('.mainDiv').hide();
+}
+</script>
+<script src="/scripts/infibeamHeader.js"></script>
 <div id="hd">
 <!-- Header -->
 <div align="right" class="logo">
 <a id="sitelogo" href="/" title="Infibeam.com" rel="nofollow">
-<img src="/assets/skins/common/images/newlogo.gif" border="0" alt="Infibeam.com" style="margin-left:10px; float:left;">
+<img src="/assets/skins/common/images/newlogo.gif" border="0" alt="Infibeam.com" style="margin-left:10px; margin-top:5px; float:left;">
 </a>
 </div>
-<div align="right" class="links">
-<img src="/assets/skins/common/images/homeicon.gif" alt="Home" border="0" align="absmiddle"> <a href="/" title="Home">Home</a> | Hello
-Guest | <a id="loginlink" href="/Login.action" title="Login">Login</a>
-<a href="/Login.action#facebook" title="Facebook"><img src="/assets/skins/common/images/icon/facebook.gif" alt="Facebook" border="0" align="absmiddle"></a>
-<a href="/Login.action#twitter" title="Twitter"><img src="/assets/skins/common/images/icon/twitter.gif" alt="Twitter" border="0" align="absmiddle"></a>
+<div align="right" class="links" style="position:absolute;right:10px;top:0px; z-index:9999;">
+<img src="http://assets.infibeam.com/assets/skins/common/images/homeicon.gif" alt="Home" border="0" align="absmiddle" style="margin-top:-6px;">&nbsp;<a href="/" title="Home">Home</a>
+| <a id="loginlink" href="/Login.action" title="Login">Login</a>
+<a href="/Login.action#facebook" title="Facebook"><img src="http://assets.infibeam.com/assets/skins/common/images/icon/facebook.gif" alt="Facebook" border="0" align="absmiddle"></a>
+<a href="/Login.action#twitter" title="Twitter"><img src="http://assets.infibeam.com/assets/skins/common/images/icon/twitter.gif" alt="Twitter" border="0" align="absmiddle"></a>
 |
-<img src="/assets/skins/common/images/cart.gif" border="0" align="absmiddle"> <a href="/ShowCart.action" title="Shopping Cart">Shopping Cart</a> |
+<img src="http://assets.infibeam.com/assets/skins/common/images/cart.gif" border="0" align="absmiddle"> <a href="/ShowCart.action" title="Shopping Cart">Shopping Cart</a> |
 <a href="/YourAccount.action" title="Your Account">Your Account</a> |
-<a href="/ViewPurchases.action" title="Track Your Order" rel="nofollow">Track Your Order</a> |
-<a href="/static/help/help.html" title="Help">Help</a> |
-<a href="/WishList.action" title="Wish List">Wish List</a> |
-<a href="/ContactUs.action" title="Contact Us" rel="nofollow">Contact Us</a>
+<a href="/static/help/help.html" title="Help">Help</a>
 </div>
+<script>
+$(document).ready(function(){
+$('.sublinks li').hover(function(){
+$(this).addClass('selected');
+},function(){
+$(this).removeClass('selected');
+$('#selectedBtn').addClass('selected');
+});
+});
+</script>
+<div class="sublinks">
+<a href="/deal-of-the-day.html" title="Today's Deal"><img src="http://assets.infibeam.com/assets/skins/common/images/magicbox.jpg" border="0" alt="Magic Box" style="float:right;"></a>
+<ul>
+<li style="margin-left:3px;"><a href="/Books/">Books</a></li>
+<li><a href="/Mobiles/">Mobiles</a></li>
+<li><a href="/Gifts/">Gifts</a></li>
+<li><a href="/Computers_Accessories/">Computers</a></li>
+<li><a href="/Cameras/">Cameras</a></li>
+<li><a href="/Watches/">Watches</a></li>
+<li><a href="/Apparel/">Apparel</a></li>
+<li><a href="/hot-deals.html">Hot Deals</a></li>
+</ul>
+</div>
+<div style="clear:both;">
 <div id="header">
 <ul>
-<li id="mainmenu_Books">
-<div class="mainli">
-<h3><a href="/Books/">Books</a></h3>
+<li id="mainmenu">
+<div class="mainli" style="background:transparent;">
+<a href="/static/all-stores.html" style="width:187px; height:32px; display:block; font:bold 13px Arial,sans-serif; color:#fff; background:url(http://assets.infibeam.com/assets/skins/common/images/allstore.jpg) no-repeat left -32px;"><span style="padding-left:8px; padding-top:7px; display:block; font:bold 13px Arial,sans-serif; color:#fff;">All Stores</span></a>
+</div>
+<div class="mainDiv" id="menucontents">
+<ul class="menu">
+<li class="menuLink"><div class="store">
+<a href="/Books/">Books &amp; Magazines</a>
+<div class="subMenu" style="display: none; left: 160px; z-index: 1; width:600px;">
+<ul>
+<li style="max-width:600px; background:transparent; border-bottom:1px dotted #ededed; padding-bottom:5px; padding-top:5px;">
+<a href="/Books/" style="float:left; color:#e4860d; padding:2px; width:100px;"><b>Books</b></a>
+<div style="float:left; color:#999;">
+<a href="/Books/new-releases-showcase.html" style="padding:2px; font-size:12px; float:left;">New Releases</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="/Books/best-selling-showcase.html" style="padding:2px; font-size:12px; float:left;">Best Sellers</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="/Books/recommended-showcase.html" style="padding:2px; font-size:12px; float:left;">Recommended</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="/Books/upcoming-showcase.html" style="padding:2px; font-size:12px; float:left;">Upcoming</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="/Textbooks/" style="padding:2px; font-size:12px; float:left;">Textbooks</a>
 </div>
 </li>
-<li id="mainmenu_Media">
-<div class="mainli">
-<h3><a href="/Media/">Movies &amp; Music</a></h3>
+<li style="max-width:600px; background:transparent; border-bottom:1px dotted #ededed; padding-bottom:5px; padding-top:5px;">
+<a href="/eBooks/" style="float:left; color:#e4860d; padding:2px; width:100px;"><b>eBooks</b></a>
+<div style="float:left; color:#999;">
+<a href="/eBooks/best-selling-showcase.html" style="padding:2px; font-size:12px; float:left;">Best Sellers</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="/eBooks/recommended-showcase.html" style="padding:2px; font-size:12px; float:left;">Recommended</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="/eBooks/search?q=engineering" style="padding:2px; font-size:12px; float:left;">Engineering</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="/eBooks/categories/Computers" style="padding:2px; font-size:12px; float:left;">Computers</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="/eBooks/categories/Fiction" style="padding:2px; font-size:12px; float:left;">Fiction</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="/eBooks/tata-mcgraw-hill-publisher/" style="padding:2px; font-size:12px; float:left;">Tata McGraw Hill</a>
 </div>
 </li>
-<li id="mainmenu_Electronics">
-<div class="mainli">
-<h3><a href="/Electronics/">Electronics</a></h3>
+<li style="max-width:600px; background:transparent; border-bottom:1px dotted #ededed; padding-bottom:5px; padding-top:5px;">
+<a href="/Magazines/" style="float:left; color:#e4860d; padding:2px; width:100px;"><b>Magazines</b></a>
+<div style="float:left; color:#999;">
+<a href="/Magazines/search?category=Automobile" style="padding:2px; font-size:12px; float:left;">Automobile</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="/Magazines/best-magazine-showcase.html" style="padding:2px; font-size:12px; float:left;">Best Selling</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="/Magazines/search?category=Business" style="padding:2px; font-size:12px; float:left;">Business</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="/Magazines/search?category=Lifestyle" style="padding:2px; font-size:12px; float:left;">Lifestyle</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="/Magazines/search?category=Fashion" style="padding:2px; font-size:12px; float:left;">Fashion</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="/Magazines/recommended-showcase.html" style="padding:2px; font-size:12px; float:left;">Recommended</a>
 </div>
 </li>
-<li id="mainmenu_LifeStyle">
-<div class="mainli">
-<h3><a href="/Home-Lifestyle/">LifeStyle</a></h3>
+<li style="max-width:600px; background:transparent; border-bottom:1px dotted #ededed; padding-bottom:5px; padding-top:5px;">
+<a href="/eMagazines/" style="float:left; color:#e4860d; padding:2px; width:100px;"><b>eMagazines</b></a>
+<div style="float:left; color:#999;">
+<a href="/eMagazines/" style="padding:2px; font-size:12px; float:left;">eMagazines</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="/indigi" style="padding:2px; font-size:12px; float:left;">Infibeam Digital Platform</a>
 </div>
 </li>
-<li id="mainmenu_Automobiles">
-<div class="mainli">
-<h3><a href="/Automobiles/">Automobiles</a></h3>
+<li style="max-width:600px; background:transparent; border-bottom:1px dotted #ededed; padding-bottom:5px; padding-top:5px;">
+<a href="/Pi" style="float:left; color:#e4860d; padding:2px; width:100px;"><b>eBook Reader</b></a>
+<div style="float:left; color:#999;">
+<a href="/Pi/Pi.html" style="padding:2px; font-size:12px; float:left;">Pi</a>
+&nbsp;|&nbsp;
 </div>
-</li>
-<li id="mainmenu_Computers">
-<div class="mainli">
-<h3><a href="/Computers_Accessories/">Computers</a></h3>
+<div style="float:left; color:#999;">
+<a href="/Pi/Pi2.html" style="padding:2px; font-size:12px; float:left;">Pi2</a>
+&nbsp;|&nbsp;
 </div>
-</li>
-<li id="mainmenu_Gifts">
-<div class="mainli">
-<h3><a href="/Gifts/">Gifts</a></h3>
-</div>
-</li>
-<li id="mainmenu_Hot Deals">
-<div class="mainli">
-<h3><a href="/hot-deals.html">Hot Deals!</a></h3>
+<div style="float:left; color:#999;">
+<a href="/Pi/Pi.html#pi-accessories" style="padding:2px; font-size:12px; float:left;">Pi Accessories</a>
 </div>
 </li>
 </ul>
 </div>
-<div id="submenu" style="display:none">
-<span>
-</span>
+</div> </li>
+<li class="menuLink"><div class="store">
+<a href="/Mobiles/">Mobiles &amp; Accessories</a>
+<div class="subMenu" style="display: none; left: 160px; z-index: 1; width:600px;">
+<ul>
+<li style="max-width:600px; background:transparent; border-bottom:1px dotted #ededed; padding-bottom:5px; padding-top:5px;">
+<a href="/Mobiles/" style="float:left; color:#e4860d; padding:2px; width:100px;"><b>Mobiles</b></a>
+<div style="float:left; color:#999;">
+<a href="/Mobiles/new-releases-showcase.html" style="padding:2px; font-size:12px; float:left;">New Releases</a>
+&nbsp;|&nbsp;
 </div>
-<div id="searchpage">
-<table width="983px">
+<div style="float:left; color:#999;">
+<a href="/Mobiles/best-selling-showcase.html" style="padding:2px; font-size:12px; float:left;">Best Selling</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="/Mobiles/recommended-showcase.html" style="padding:2px; font-size:12px; float:left;">Recommended</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="/Mobiles/upcoming-showcase.html" style="padding:2px; font-size:12px; float:left;">Upcoming</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="/Mobiles/search?bodyType=SmartPhone" style="padding:2px; font-size:12px; float:left;">Smart Phones</a>
+</div>
+</li>
+<li style="max-width:600px; background:transparent; border-bottom:1px dotted #ededed; padding-bottom:5px; padding-top:5px;">
+<a href="/Mobile_Accessories/" style="float:left; color:#e4860d; padding:2px; width:100px;"><b>Mobile Accessories</b></a>
+<div style="float:left; color:#999;">
+<a href="/Mobile_Accessories/search?category=Batteries" style="padding:2px; font-size:12px; float:left;">Batteries</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="/Mobile_Accessories/search?category=Bluetooth%20Devices" style="padding:2px; font-size:12px; float:left;">Bluetooth Devices</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="/Mobile_Accessories/search?category=Chargers" style="padding:2px; font-size:12px; float:left;">Chargers</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="/Mobile_Accessories/search?category=Handsfree" style="padding:2px; font-size:12px; float:left;">Handsfree</a>
+</div>
+</li>
+<li style="max-width:600px; background:transparent; border-bottom:1px dotted #ededed; padding-bottom:5px; padding-top:5px;">
+<a href="/Mobiles/search" style="float:left; color:#e4860d; padding:2px; width:100px;"><b>Mobile Brands</b></a>
+<div style="float:left; color:#999;">
+<a href="/mobiles/make/nokia.html" style="padding:2px; font-size:12px; float:left;">Nokia</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="/mobiles/make/samsung.html" style="padding:2px; font-size:12px; float:left;">Samsung</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="/mobiles/make/micromax.html" style="padding:2px; font-size:12px; float:left;">Micromax</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="/mobiles/make/lg.html" style="padding:2px; font-size:12px; float:left;">LG</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="/mobiles/make/blackberry.html" style="padding:2px; font-size:12px; float:left;">Blackberry</a>
+</div>
+</li>
+<li style="max-width:600px; background:transparent; border-bottom:1px dotted #ededed; padding-bottom:5px; padding-top:5px;">
+<a href="/Mobiles/search" style="float:left; color:#e4860d; padding:2px; width:100px;"><b>Popular Searches</b></a>
+<div style="float:left; color:#999;">
+<a href="/Mobiles/search?features=3G" style="padding:2px; font-size:12px; float:left;">3G</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="/Mobiles/search?features=Dual Sim" style="padding:2px; font-size:12px; float:left;">Dual SIM</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="/Mobiles/search?features=Android OS" style="padding:2px; font-size:12px; float:left;">Android</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="/Mobiles/search?features=QWERTY" style="padding:2px; font-size:12px; float:left;">QWERTY</a>
+</div>
+</li>
+</ul>
+</div>
+</div> </li>
+<li class="menuLink"><div class="store">
+<a href="/Home-Lifestyle/">Home &amp; LifeStyle</a>
+<div class="subMenu" style="display: none; left: 160px; z-index: 1; width:600px;">
+<ul>
+<li style="max-width:600px; background:transparent; border-bottom:1px dotted #ededed; padding-bottom:5px; padding-top:5px;">
+<a href="/Apparel/" style="float:left; color:#e4860d; padding:2px; width:100px;"><b>Apparel</b></a>
+<div style="float:left; color:#999;">
+<a href="/Apparel/search?category=Men" style="padding:2px; font-size:12px; float:left;">Mens Wear</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="/Apparel/search?category=Women" style="padding:2px; font-size:12px; float:left;">Womens Wear</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="/Apparel/search?category=Unisex" style="padding:2px; font-size:12px; float:left;">Unisex Wear</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="/Apparel/search?category=Boys" style="padding:2px; font-size:12px; float:left;">Boys</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="/Apparel/search?category=Girls" style="padding:2px; font-size:12px; float:left;">Girls</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="/Apparel_Accessories/search" style="padding:2px; font-size:12px; float:left;">Accessories</a>
+</div>
+</li>
+<li style="max-width:600px; background:transparent; border-bottom:1px dotted #ededed; padding-bottom:5px; padding-top:5px;">
+<a href="/Jewellery/" style="float:left; color:#e4860d; padding:2px; width:100px;"><b>Jewellery</b></a>
+<div style="float:left; color:#999;">
+<a href="/Jewellery/search?bodyType=Necklaces" style="padding:2px; font-size:12px; float:left;">Necklaces</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="/Jewellery/search?bodyType=Pendants" style="padding:2px; font-size:12px; float:left;">Pendants</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="/Jewellery/search?bodyType=Bracelets" style="padding:2px; font-size:12px; float:left;">Bracelets</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="/Jewellery/search?bodyType=Earrings" style="padding:2px; font-size:12px; float:left;">Earrings</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="/Jewellery/search?bodyType=Rings" style="padding:2px; font-size:12px; float:left;">Rings</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="/Jewellery/search?bodyType=Mangalsutra" style="padding:2px; font-size:12px; float:left;">Mangalsutra</a>
+</div>
+</li>
+<li style="max-width:600px; background:transparent; border-bottom:1px dotted #ededed; padding-bottom:5px; padding-top:5px;">
+<a href="/Watches/" style="float:left; color:#e4860d; padding:2px; width:100px;"><b>Watches</b></a>
+<div style="float:left; color:#999;">
+<a href="/Watches/search?category=Gents" style="padding:2px; font-size:12px; float:left;">Men's Watches</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="/Watches/search?category=Ladies" style="padding:2px; font-size:12px; float:left;">Women's Watches</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="/Watches/search?category=Pair+Watches" style="padding:2px; font-size:12px; float:left;">Pair Watches</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="/Watches/best-watches-showcase.html" style="padding:2px; font-size:12px; float:left;">Best Selling</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="/Watches/recommended-showcase.html" style="padding:2px; font-size:12px; float:left;">Recommended</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="/Watches/search" style="padding:2px; font-size:12px; float:left;">Brands</a>
+</div>
+</li>
+<li style="max-width:600px; background:transparent; border-bottom:1px dotted #ededed; padding-bottom:5px; padding-top:5px;">
+<a href="/Home-Lifestyle/" style="float:left; color:#e4860d; padding:2px; width:100px;"><b>Others</b></a>
+<div style="float:left; color:#999;">
+<a href="/Eyewear/search" style="padding:2px; font-size:12px; float:left;">Eyewear</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="/Grocery/" style="padding:2px; font-size:12px; float:left;">Grocery</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="/Baby/" style="padding:2px; font-size:12px; float:left;">Baby Products</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="/Beauty/" style="padding:2px; font-size:12px; float:left;">Beauty Products</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="/Bags/" style="padding:2px; font-size:12px; float:left;">Bags</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="/Religion_Spirituality/" style="padding:2px; font-size:12px; float:left;">Religion Spirituality</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="/Toys_Games/" style="padding:2px; font-size:12px; float:left;">Toys &amp; Games</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="/Kitchenware/" style="padding:2px; font-size:12px; float:left;">Kitchenware</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="/Home_Furnishing/" style="padding:2px; font-size:12px; float:left;">Home Furninshing</a>
+</div>
+</li>
+</ul>
+</div>
+</div> </li>
+<li class="menuLink"><div class="store">
+<a href="/Gifts/">Gifts &amp; Flowers</a>
+<div class="subMenu" style="display: none; left: 160px; z-index: 1; width:600px;">
+<ul>
+<li style="max-width:600px; background:transparent; border-bottom:1px dotted #ededed; padding-bottom:5px; padding-top:5px;">
+<a href="/Gifts/" style="float:left; color:#e4860d; padding:2px; width:100px;"><b>Gifts</b></a>
+<div style="float:left; color:#999;">
+<a href="/Festivals/fathers-day-gifts.html" style="padding:2px; font-size:12px; float:left;"><b style="color:#990000;">Father's Day Gifts</b></a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="/Gifts/search?product=Cakes" style="padding:2px; font-size:12px; float:left;">Cakes</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="/Gifts/search?product=Chocolates" style="padding:2px; font-size:12px; float:left;">Chocolates</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="/Gifts/search?product=Combos" style="padding:2px; font-size:12px; float:left;">Combo Gifts</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="/Gifts/search?product=Gift Certificates" style="padding:2px; font-size:12px; float:left;">Gift Certificates</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="/Gifts/search?product=Sweets" style="padding:2px; font-size:12px; float:left;">Sweets</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="/Gifts/search?product=Fruits" style="padding:2px; font-size:12px; float:left;">Fruits</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="/Gifts/search?product=Flowers" style="padding:2px; font-size:12px; float:left;">Flowers</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="/mangoes.html" style="padding:2px; font-size:12px; float:left;">Mangoes</a>
+</div>
+</li>
+<li style="max-width:600px; background:transparent; border-bottom:1px dotted #ededed; padding-bottom:5px; padding-top:5px;">
+<a href="/Gifts/search" style="float:left; color:#e4860d; padding:2px; width:100px;"><b>Gift Ideas</b></a>
+<div style="float:left; color:#999;">
+<a href="/Gifts/search?availability=Midnight Delivery&amp;product=Combos" style="padding:2px; font-size:12px; float:left;">Midnight Delivery</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="/Gifts/search?availability=Regular Delivery&amp;product=Combos" style="padding:2px; font-size:12px; float:left;">Regular Delivery</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="/Gifts/search?availability=Same Day Delivery&amp;product=Combos" style="padding:2px; font-size:12px; float:left;">Same Day Delivery</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="/Gifts/search?availability=Every Hour and Day&amp;product=Combos" style="padding:2px; font-size:12px; float:left;">Every Hour &amp; Day</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="/Gifts/Anniversary-Gifts-India.xhtml" style="padding:2px; font-size:12px; float:left;">Anniversary Gifts</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="/Gifts/Wedding-Gifts-India.xhtml" style="padding:2px; font-size:12px; float:left;">Wedding Gifts</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="/Gifts/Birthday-Gifts-India.xhtml" style="padding:2px; font-size:12px; float:left;">Birthday Gifts</a>
+</div>
+</li>
+<li style="max-width:600px; background:transparent; border-bottom:1px dotted #ededed; padding-bottom:5px; padding-top:5px;">
+<a href="http://www.picsquare.com/" style="float:left; color:#e4860d; padding:2px; width:100px;"><b>Personalised Gifts</b></a>
+<div style="float:left; color:#999;">
+<a href="http://www.picsquare.com/custom/tshirt" style="padding:2px; font-size:12px; float:left;">Photo T-shirts</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="http://www.picsquare.com/custom/photo-print" style="padding:2px; font-size:12px; float:left;">Photo Prints</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="http://www.picsquare.com/custom/photo-chocolate" style="padding:2px; font-size:12px; float:left;">Photo Choclates</a>
+</div>
+</li>
+</ul>
+</div>
+</div> </li>
+<li class="menuLink"><div class="store">
+<a href="/Computers_Accessories/">Computers &amp; IT Products</a>
+<div class="subMenu" style="display: none; left: 160px; z-index: 1; width:600px;">
+<ul>
+<li style="max-width:600px; background:transparent; border-bottom:1px dotted #ededed; padding-bottom:5px; padding-top:5px;">
+<a href="/Computers_Accessories/" style="float:left; color:#e4860d; padding:2px; width:100px;"><b>Computers</b></a>
+<div style="float:left; color:#999;">
+<a href="/Laptop_Computers_Accessories/search" style="padding:2px; font-size:12px; float:left;">Laptops</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="/Desktop_Computers_Accessories/search" style="padding:2px; font-size:12px; float:left;">Desktops</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="/Monitor_Computers_Accessories/search" style="padding:2px; font-size:12px; float:left;">Monitors</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="/Software_Computers_Accessories/search" style="padding:2px; font-size:12px; float:left;">Software</a>
+</div>
+</li>
+<li style="max-width:600px; background:transparent; border-bottom:1px dotted #ededed; padding-bottom:5px; padding-top:5px;">
+<a href="/Accessories_Computers_Accessories/search" style="float:left; color:#e4860d; padding:2px; width:100px;"><b>Accessories</b></a>
+<div style="float:left; color:#999;">
+<a href="/Hard_Disk_Computers_Accessories/search" style="padding:2px; font-size:12px; float:left;">Hard Disks</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="/Web_Camera_Computers_Accessories/search" style="padding:2px; font-size:12px; float:left;">Web Camera</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="/Printer_Scanner_Computers_Accessories/search" style="padding:2px; font-size:12px; float:left;">Printer / Scanner</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="/Mouse_Keyboard_Computers_Accessories/search" style="padding:2px; font-size:12px; float:left;">Mouse / Keyboards</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="/Pen_Drives_Computers_Accessories/search" style="padding:2px; font-size:12px; float:left;">Pen Drives</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="/Speaker_Computers_Accessories/search" style="padding:2px; font-size:12px; float:left;">Speakers</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="/Portable_Electronics/search?bodyType=Headphone" style="padding:2px; font-size:12px; float:left;">Headphones</a>
+</div>
+</li>
+</ul>
+</div>
+</div> </li>
+<li class="menuLink"><div class="store">
+<a href="/Electronics/">Electronics</a>
+<div class="subMenu" style="display: none; left: 160px; z-index: 1; width:600px;">
+<ul>
+<li style="max-width:600px; background:transparent; border-bottom:1px dotted #ededed; padding-bottom:5px; padding-top:5px;">
+<a href="/Home_Entertainment/" style="float:left; color:#e4860d; padding:2px; width:100px;"><b>Home Entertainment</b></a>
+<div style="float:left; color:#999;">
+<a href="/TVs_Home_Entertainment/search" style="padding:2px; font-size:12px; float:left;">TVs</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="/TVs_Home_Entertainment/search#category=TVs&amp;subCategory=LCD%20TVs&amp;subCategory=LED%20TVs&amp;store=Home_Entertainment" style="padding:2px; font-size:12px; float:left;">LCD's &amp; LED's</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="/DVD_Players_Home_Entertainment/search" style="padding:2px; font-size:12px; float:left;">DVD Players</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="/Home_Theatre_Home_Entertainment/" style="padding:2px; font-size:12px; float:left;">Home Theatre</a>
+</div>
+</li>
+<li style="max-width:600px; background:transparent; border-bottom:1px dotted #ededed; padding-bottom:5px; padding-top:5px;">
+<a href="/Home_Appliances/" style="float:left; color:#e4860d; padding:2px; width:100px;"><b>Home Appliances</b></a>
+<div style="float:left; color:#999;">
+<a href="/Air_Conditioner_Home_Appliances/search" style="padding:2px; font-size:12px; float:left;">Air Conditioners</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="/Washing_Machine_Home_Appliances/search" style="padding:2px; font-size:12px; float:left;">Washing Machines</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="/Toaster_Grill_Home_Appliances/search" style="padding:2px; font-size:12px; float:left;">Toaster &amp; Grills</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="/Microwave_Oven_Home_Appliances/search" style="padding:2px; font-size:12px; float:left;">Microwave Ovens</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="/Refrigerator_Home_Appliances/search" style="padding:2px; font-size:12px; float:left;">Refrigerators</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="/Tea_Coffee_Maker_Home_Appliances/search" style="padding:2px; font-size:12px; float:left;">Tea &amp; Coffee Makers</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="/Food_Processor_Home_Appliances/search" style="padding:2px; font-size:12px; float:left;">Food Processors</a>
+</div>
+</li>
+<li style="max-width:600px; background:transparent; border-bottom:1px dotted #ededed; padding-bottom:5px; padding-top:5px;">
+<a href="/Portable_Electronics/" style="float:left; color:#e4860d; padding:2px; width:100px;"><b>Portable Electronics</b></a>
+<div style="float:left; color:#999;">
+<a href="/Portable_Electronics/search?bodyType=iPod" style="padding:2px; font-size:12px; float:left;">iPods</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="/Portable_Electronics/search?bodyType=iPad" style="padding:2px; font-size:12px; float:left;">iPads</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="/Portable_Electronics/search?bodyType=Tablet" style="padding:2px; font-size:12px; float:left;">Tablet Pcs</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="/Portable_Electronics/search?bodyType=MP3 Player" style="padding:2px; font-size:12px; float:left;">MP3 Players</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="/Portable_Electronics/search?bodyType=Mp4 Player" style="padding:2px; font-size:12px; float:left;">Mp4 Players</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="/Portable_Electronics/search?bodyType=Media Player" style="padding:2px; font-size:12px; float:left;">Media Players</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="/Portable_Electronics/search?bodyType=Headphone" style="padding:2px; font-size:12px; float:left;">Headphones</a>
+</div>
+</li>
+<li style="max-width:600px; background:transparent; border-bottom:1px dotted #ededed; padding-bottom:5px; padding-top:5px;">
+<a href="/Gaming_Consoles/" style="float:left; color:#e4860d; padding:2px; width:100px;"><b>Gaming Consoles</b></a>
+<div style="float:left; color:#999;">
+<a href="/Gaming_Consoles/search?subCategory=TV Video Games" style="padding:2px; font-size:12px; float:left;">Video Games</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="/Gaming_Consoles/search?category=Controllers" style="padding:2px; font-size:12px; float:left;">Gaming Controllers</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="/Gaming_Consoles/search?category=Accessories" style="padding:2px; font-size:12px; float:left;">Gaming Accessories</a>
+</div>
+</li>
+<li style="max-width:600px; background:transparent; border-bottom:1px dotted #ededed; padding-bottom:5px; padding-top:5px;">
+<a href="/Health_Equipments/" style="float:left; color:#e4860d; padding:2px; width:100px;"><b>Health Equipments</b></a>
+<div style="float:left; color:#999;">
+<a href="/Health_Equipments/search?category=Exerciser Bike" style="padding:2px; font-size:12px; float:left;">Exerciser Bikes</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="/Health_Equipments/search?category=Gym" style="padding:2px; font-size:12px; float:left;">Gym Equipments</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="/Health_Equipments/search?category=Treadmill" style="padding:2px; font-size:12px; float:left;">Treadmill</a>
+</div>
+</li>
+</ul>
+</div>
+</div> </li>
+<li class="menuLink"><div class="store">
+<a href="/Cameras/">Cameras &amp; Accessories</a>
+<div class="subMenu" style="display: none; left: 160px; z-index: 1; width:600px;">
+<ul>
+<li style="max-width:600px; background:transparent; border-bottom:1px dotted #ededed; padding-bottom:5px; padding-top:5px;">
+<a href="/Cameras/" style="float:left; color:#e4860d; padding:2px; width:100px;"><b>Cameras</b></a>
+<div style="float:left; color:#999;">
+<a href="/Cameras/best-digital-camera-showcase.html" style="padding:2px; font-size:12px; float:left;">Best Selling</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="/Cameras/recommended-showcase.html" style="padding:2px; font-size:12px; float:left;">Recommended</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="/Cameras/search?category=Camcorder" style="padding:2px; font-size:12px; float:left;">Camcorders</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="/Cameras/search?category=Digital Frames" style="padding:2px; font-size:12px; float:left;">Digital Frames</a>
+</div>
+</li>
+<li style="max-width:600px; background:transparent; border-bottom:1px dotted #ededed; padding-bottom:5px; padding-top:5px;">
+<a href="/Camera_Accessories/search" style="float:left; color:#e4860d; padding:2px; width:100px;"><b>Camera Accessories</b></a>
+<div style="float:left; color:#999;">
+<a href="/Camera_Accessories/search?category=Memory Cards" style="padding:2px; font-size:12px; float:left;">Memory Cards</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="/Pen_Drives_Computers_Accessories/search" style="padding:2px; font-size:12px; float:left;">Pen Drives</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="/Camera_Accessories/search?category=Chargers" style="padding:2px; font-size:12px; float:left;">Chargers</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="/Camera_Accessories/search?category=Batteries" style="padding:2px; font-size:12px; float:left;">Batteries</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="/Camera_Accessories/search?category=Battery and Chargers" style="padding:2px; font-size:12px; float:left;">Battery &amp; Chargers</a>
+</div>
+</li>
+<li style="max-width:600px; background:transparent; border-bottom:1px dotted #ededed; padding-bottom:5px; padding-top:5px;">
+<a href="/Cameras/search" style="float:left; color:#e4860d; padding:2px; width:100px;"><b>Camera Brands</b></a>
+<div style="float:left; color:#999;">
+<a href="/Cameras/Canon.xhtml" style="padding:2px; font-size:12px; float:left;">Canon</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="/Cameras/Kodak.xhtml" style="padding:2px; font-size:12px; float:left;">Kodak</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="/Cameras/Nikon.xhtml" style="padding:2px; font-size:12px; float:left;">Nikon</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="/Cameras/Sony.xhtml" style="padding:2px; font-size:12px; float:left;">Sony</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="/Cameras/Olympus.xhtml" style="padding:2px; font-size:12px; float:left;">Olympus</a>
+</div>
+</li>
+</ul>
+</div>
+</div> </li>
+<li class="menuLink"><div class="store">
+<a href="/Media/">Movies &amp; Music</a>
+<div class="subMenu" style="display: none; left: 160px; z-index: 1; width:600px;">
+<ul>
+<li style="max-width:600px; background:transparent; border-bottom:1px dotted #ededed; padding-bottom:5px; padding-top:5px;">
+<a href="/Movies/" style="float:left; color:#e4860d; padding:2px; width:100px;"><b>Movies</b></a>
+<div style="float:left; color:#999;">
+<a href="/Movies/search?category=Action" style="padding:2px; font-size:12px; float:left;">Action</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="/Movies/search?category=Adventure" style="padding:2px; font-size:12px; float:left;">Adventure</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="/Movies/search?category=Classic" style="padding:2px; font-size:12px; float:left;">Classic</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="/Movies/search?category=Comedy" style="padding:2px; font-size:12px; float:left;">Comedy</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="/Movies/search?category=Drama" style="padding:2px; font-size:12px; float:left;">Drama</a>
+</div>
+</li>
+<li style="max-width:600px; background:transparent; border-bottom:1px dotted #ededed; padding-bottom:5px; padding-top:5px;">
+<a href="/Music/" style="float:left; color:#e4860d; padding:2px; width:100px;"><b>Music</b></a>
+<div style="float:left; color:#999;">
+<a href="/Music/search?category=Pop" style="padding:2px; font-size:12px; float:left;">Pop</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="/Music/search?category=Remix" style="padding:2px; font-size:12px; float:left;">Remix</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="/Music/search?category=Spiritual" style="padding:2px; font-size:12px; float:left;">Spiritual</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="/Music/search?category=Ghazals" style="padding:2px; font-size:12px; float:left;">Ghazal</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="/Music/search?category=Instrumental" style="padding:2px; font-size:12px; float:left;">Instrumentals</a>
+</div>
+</li>
+<li style="max-width:600px; background:transparent; border-bottom:1px dotted #ededed; padding-bottom:5px; padding-top:5px;">
+<a href="/Phi" style="float:left; color:#e4860d; padding:2px; width:100px;"><b>Infibeam Phi</b></a>
+<div style="float:left; color:#999;">
+<a href="/Portable_Electronics/i-Phi-WinCE-Media-Device-TouchScreen/P-E-PE-Infibeam-Phi-WinCE.html" style="padding:2px; font-size:12px; float:left;">Windows Phi</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="/Portable_Electronics/i-Phi-Android-Media-Device-TouchScreen/P-E-PE-Infibeam-Phi-Android.html" style="padding:2px; font-size:12px; float:left;">Android Phi</a>
+</div>
+</li>
+</ul>
+</div>
+</div> </li>
+<li class="menuLink"><div class="store">
+<a href="/Automobiles/">Auto &amp; Services</a>
+<div class="subMenu" style="display: none; left: 160px; z-index: 1; width:600px;">
+<ul>
+<li style="max-width:600px; background:transparent; border-bottom:1px dotted #ededed; padding-bottom:5px; padding-top:5px;">
+<a href="/Bikes/" style="float:left; color:#e4860d; padding:2px; width:100px;"><b>Bikes</b></a>
+<div style="float:left; color:#999;">
+<a href="/Bikes/search?condition=New" style="padding:2px; font-size:12px; float:left;">New Bikes</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="/Bikes/search?condition=Used" style="padding:2px; font-size:12px; float:left;">Used Bikes</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="/finance/LoanCalculator_input.action" style="padding:2px; font-size:12px; float:left;">EMI Calculator</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="/bikes/make/bajaj.html" style="padding:2px; font-size:12px; float:left;">Manufacturers</a>
+</div>
+</li>
+<li style="max-width:600px; background:transparent; border-bottom:1px dotted #ededed; padding-bottom:5px; padding-top:5px;">
+<a href="/Cars/" style="float:left; color:#e4860d; padding:2px; width:100px;"><b>Cars</b></a>
+<div style="float:left; color:#999;">
+<a href="/Cars/search?condition=New" style="padding:2px; font-size:12px; float:left;">New Cars</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="/Cars/search?condition=Used" style="padding:2px; font-size:12px; float:left;">Used Cars</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="/finance/LoanCalculator_input.action" style="padding:2px; font-size:12px; float:left;">EMI Calculators</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="/Cars/Insurance.html" style="padding:2px; font-size:12px; float:left;">Insurance Calculators</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="/cars/make/audi.html" style="padding:2px; font-size:12px; float:left;">Manufacturers</a>
+</div>
+</li>
+<li style="max-width:600px; background:transparent; border-bottom:1px dotted #ededed; padding-bottom:5px; padding-top:5px;">
+<a href="/Travel/" style="float:left; color:#e4860d; padding:2px; width:100px;"><b>Travel / Rental</b></a>
+<div style="float:left; color:#999;">
+<a href="/Travel/" style="padding:2px; font-size:12px; float:left;">Travel Packages</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="/Travel/car-rental.html" style="padding:2px; font-size:12px; float:left;">Rent a Car</a>
+&nbsp;|&nbsp;
+</div>
+<div style="float:left; color:#999;">
+<a href="/static/vehicle-rentals.html" style="padding:2px; font-size:12px; float:left;">Vehicle Rentals</a>
+</div>
+</li>
+</ul>
+</div>
+</div> </li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+<div id="searchpage" style="float:right;_margin-left:-15px;">
+<table width="783px">
 <tbody><tr>
-<td style="padding-left:10px;" width="200"><a href="/Books/" rel="nofollow" style="font-size:14px; color:#fff;"><b>Buy From 100 Lac Books</b></a></td>
 <td>
 <form name="search" action="/search.jsp" method="get" id="srchForm">
-<div style="margin-top:2px; margin-left:3px;">
+<div style="margin-top:5px; margin-left:5px;">
 <table>
 <tbody><tr>
-<td> <select name="storeName" class="text" style="width:140px; font-size:13px;">
+<td> <select name="storeName" class="text" style="width:140px; height:22px; font-size:14px; border:1px solid #ededed;">
 <option value="All" selected="selected">All Stores</option>
 <option value="Automobiles">Automobiles</option>
 <option value="Books">Books</option>
@@ -103,9 +896,9 @@ Guest | <a id="loginlink" href="/Login.action" title="Login">Login</a>
 <option value="Media">Movies &amp; Music</option>
 </select>
 &nbsp;</td>
-<td><input name="query" size="30" value="" style="width:340px;">&nbsp;</td>
-<td><input type="submit" value="Search" style="width:70px;"></td>
-<td style="font-size:14px; color:#fff; padding-left:30px;"><b>Free Shipping To India</b></td>
+<td><input name="query" size="30" value="" style="width:360px; padding:2px; border:1px solid #ededed;">&nbsp;</td>
+<td><input type="image" name="submit" src="http://assets.infibeam.com/assets/skins/common/images/btnsearch.gif" value="Search" align="absmiddle"></td>
+<td style="font-size:14px; color:#fff; padding-left:10px;"><b>FREE SHIPPING TO INDIA</b></td>
 </tr>
 </tbody></table>
 </div>
@@ -114,14 +907,14 @@ Guest | <a id="loginlink" href="/Login.action" title="Login">Login</a>
 </tr>
 </tbody></table>
 </div>
+<div id="submenu" style="display:none">
+</div>
+</div>
 </div><!-- End Header -->
 <!-- Product Strip -->
 <div style="height:10px; line-height:10px; clear:both;"></div>
 <div id="bd">
-<div id="yui-main">
-<div class="yui-b">
-<div class="yui-g">
-<!-- Start Middle -->
+<div class="yui-g" id="resultsPane" style="position:relative">
 <div id="help">
 <h2>Privacy Policy</h2>
 <h4>Collection of Information</h4>
@@ -143,54 +936,6 @@ Guest | <a id="loginlink" href="/Login.action" title="Login">Login</a>
 <p>Our privacy policy was last updated on September 1, 2007. We may change our Privacy Policy from time to time. If we do, we will update this Privacy Policy on our website.</p>
 <h4>Questions</h4>
 <p>If you have any questions about our Privacy Policy, please e-mail your questions to us at <a href="mailto:privacy@infibeam.net">privacy@infibeam.net</a></p>
-</div>
-</div>
-</div>
-</div>
-<div class="yui-b sidepanel">
-<div class="help">
-<h3>Help</h3>
-<ul>
-<li>
-<a href="/static/help/help.html">Ordering</a>
-</li>
-<li>
-<a href="/static/help/selling.html">Selling</a>
-</li>
-<li>
-<a href="/static/help/payment-return.html">Payments &amp; Returns</a>
-</li>
-<li>
-<a href="/static/help/secure.html">Secure Payments</a>
-</li>
-<li>
-<a href="/static/help/shipping-options.html">Shipping Options</a>
-</li>
-<li>
-<a href="/static/help/features.html">Features</a>
-</li>
-<li>
-<a href="/static/help/getting-started.html">Getting Started</a>
-</li>
-<li>
-<a href="/static/help/security-privacy.html">Security &amp; Privacy</a>
-</li>
-<li>
-<a href="/static/help/your-account.html">Your Account</a>
-</li>
-<li>
-<a href="/static/help/services.html">Services</a>
-</li>
-<li>
-<a href="/static/help/about-us.html">About Us</a>
-</li>
-<li>
-<a href="/static/help/contact-us.html">Contact Us</a>
-</li>
-<li>
-<span>Privacy Policy</span>
-</li>
-</ul>
 </div>
 </div>
 </div>
@@ -224,7 +969,6 @@ Guest | <a id="loginlink" href="/Login.action" title="Login">Login</a>
 </td>
 <td valign="top" width="190" style="padding:0px;">
 <ul>
-<li><a href="/Home_Furnishing/">Home Furnishing</a></li>
 <li><a href="/Jewellery/">Jewellery</a></li>
 <li><a href="/Magazines/">Magazines</a></li>
 <li><a href="/Movies/">Movies</a></li>
@@ -232,11 +976,12 @@ Guest | <a id="loginlink" href="/Login.action" title="Login">Login</a>
 <li><a href="/Mobiles/">Mobiles</a></li>
 <li><a href="/Mobile_Accessories/">Mobile Accessories</a></li>
 <li><a href="/Portable_Electronics/">iPods / MP3 Players</a></li>
-<li><a href="/Camera_Accessories/">Pen Drives / Memory Cards</a></li>
+<li><a href="/Pen_Drives_Computers_Accessories/search">Pen Drives</a></li>
 <li><a href="/Religion_Spirituality/">Religion / Spirituality</a></li>
 <li><a href="/Toys_Games/">Toys / Games</a></li>
 <li><a href="/Watches/">Watches</a></li>
-<li><a href="/hot-deals.html" title="Deals Of The Day" rel="nofollow"><b>Hot Deals!</b></a></li>
+<li><a href="/hot-deals.html" title="Deals Of The Day" rel="nofollow">Hot Deals!</a></li>
+<li><a href="/deal-of-the-day.html" title="Deals Of The Day" rel="nofollow"><b>Magic Box</b></a></li>
 <li><a href="/Travel/" title="Travel">Travel</a></li>
 </ul>
 </td>
@@ -264,7 +1009,7 @@ Guest | <a id="loginlink" href="/Login.action" title="Login">Login</a>
 <td valign="top">
 <h3>Help</h3>
 <ul>
-<li><a href="/static/help/payment-return.html" title="Payments &amp; Returns">Payments &amp; Returns</a></li>
+<li><a href="/static/help/payment-returns.html" title="Payments &amp; Returns">Payments &amp; Returns</a></li>
 <li><a href="/static/help/privacy-policy.html" title="Privacy Policy">Privacy Policy</a></li>
 <li><a href="/static/help/help.html" title="Help / FAQ">Help / FAQ</a></li>
 <li><a href="/static/help/shipping-options.html" title="Shipping Options">Shipping Options</a></li>
@@ -272,7 +1017,7 @@ Guest | <a id="loginlink" href="/Login.action" title="Login">Login</a>
 <br>
 <h3>Others</h3>
 <ul>
-<li><a href="/static/careers.html" title="Jobs">Jobs</a></li>
+<li><a href="/static/careers.html" title="Careers">Careers</a></li>
 <li><a href="/static/help/about-us.html" title="About Us">About Us</a></li>
 <li><a href="http://blog.infibeam.com/" target="_blank" title="Infibeam Blog">Blog</a></li>
 <li><a href="http://news.infibeam.com/blog/news/" title="News">News</a> / <a href="http://news.infibeam.com/blog/news/categories/infibeam/" title="Press Releases">Press Releases</a></li>
@@ -280,9 +1025,9 @@ Guest | <a id="loginlink" href="/Login.action" title="Login">Login</a>
 </ul>
 <br>
 <h3>Follow Us On</h3>
-<a href="http://www.facebook.com/infibeam" target="_blank" rel="nofollow"><img src="/assets/skins/common/images/icon/facebook.jpg" alt="Facebook" border="0" style="float:left;"></a>
-<a href="http://twitter.com/infibeam" target="_blank" rel="nofollow"><img src="/assets/skins/common/images/icon/twitter.jpg" alt="Twitter" border="0" style="float:left; margin-left:10px;"></a>
-<a href="http://blog.infibeam.com/" target="_blank" rel="nofollow"><img src="/assets/skins/common/images/icon/blog.jpg" alt="Infibeam Blog" border="0" style="float:left; margin-left:10px;"></a>
+<a href="http://www.facebook.com/infibeam" target="_blank" rel="nofollow"><img src="http://assets.infibeam.com/assets/skins/common/images/icon/facebook.jpg" alt="Facebook" border="0" style="float:left;"></a>
+<a href="http://twitter.com/infibeam" target="_blank" rel="nofollow"><img src="http://assets.infibeam.com/assets/skins/common/images/icon/twitter.jpg" alt="Twitter" border="0" style="float:left; margin-left:10px;"></a>
+<a href="http://blog.infibeam.com/" target="_blank" rel="nofollow"><img src="http://assets.infibeam.com/assets/skins/common/images/icon/blog.jpg" alt="Infibeam Blog" border="0" style="float:left; margin-left:10px;"></a>
 </td>
 <td valign="top">
 <h3>Payment Options</h3>
@@ -291,27 +1036,21 @@ Guest | <a id="loginlink" href="/Login.action" title="Login">Login</a>
 <li>Debit Cards</li>
 <li>PayPal</li>
 <li>Net Banking - (All Major Indian Banks)</li>
+<li>
+<a href="/static/help/cash-on-delivery.html">Cash On Delivery <sup style="font-size:10px; font-weight:bold; color:#990000;">New</sup></a>
+</li>
 </ul>
 <br>
-<img src="/assets/skins/common/images/payment.gif" alt="Payment Options" title="Payment Options" border="0" style="border:1px solid #b2b2b3;">
+<img src="http://assets.infibeam.com/assets/skins/common/images/payment.gif" alt="Payment Options" title="Payment Options" border="0" style="border:1px solid #b2b2b3;">
 </td>
 </tr>
 </tbody></table>
-<div style="border-top:1px solid #cecccc; background-color:#e2e2e2; line-height:30px; text-align:left;">
+<div style="border-top:1px solid #cecccc; line-height:30px; text-align:left;" class="copyright">
 <span style="float:right;">Infibeam sites: <a href="http://www.presentsir.com/" rel="nofollow" target="_blank">PresentSir.com</a> | <a href="http://www.picsquare.com/" rel="nofollow" target="_blank">Picsquare.com</a>&nbsp;&nbsp;</span>
-&nbsp;&nbsp;Copyright © <a href="/Books/dl/" style="cursor: default; text-decoration: none; color: #535353;">2007-2010</a> Infibeam.com and Affiliates
+&nbsp;&nbsp;Copyright © <a href="/Books/dl/" style="cursor: default; text-decoration: none; color: #535353;">2007-2011</a> Infibeam.com and Affiliates
 </div>
 </div>
 <div id="header_submenus" style="display:none;"></div>
-<!-- Urchin -->
-<script>
-$(function(){
-$.getScript("http://www.google-analytics.com/urchin.js", function() {
-_uacct = "UA-2515569-1";
-urchinTracker();
-});
-});
-</script>
 </div>
 
 </body></html>
