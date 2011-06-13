@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the photodhaba.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127031840id_/http%3A//photodhaba.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photodhaba.com privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613151908id_/http%3A//photodhaba.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy - PhotoDhaba
+
+  
+
 
 ## **  Privacy Policy**
 
