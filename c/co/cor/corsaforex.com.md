@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the corsaforex.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212211612id_/http%3A//corsaforex.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the corsaforex.com privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613091608id_/http%3A//corsaforex.com/privacy.aspx) for the most accurate reproduction.*
 
 # Corsa Capital
 
@@ -27,7 +27,7 @@ Corsa Capital uses Secure Socket Layer (SSL) encryption technology in order to p
 
 We may share personal information described above with our affiliates for business purposes, such as servicing client accounts and informing clients about new products and services, and as permitted by applicable law. Our affiliates may include companies controlled or owned by us as well as companies which have an ownership interest in our company. The information we share with affiliates may include any of the information described above, such as your name, address and account information. Our affiliates maintain the privacy of your information to the same extent Corsa Capital does in accordance with this Policy.
 
-## SHARING INFORMATION WITH THIRD PARTIES
+## SHARING INFORMATION WITH THE THIRD PARTIES
 
 Corsa Capital does not disclose your personal information to third parties, except as described in this Policy. Third party disclosures may include sharing such information with non-affiliated companies that perform support services for your account or facilitate your transactions with Corsa Capital, including those that provide professional, legal, or accounting advice to Corsa Capital. Non-affiliated companies that assist Corsa Capital in providing services to you are required to maintain the confidentiality of such information to the extent they receive it and to use your personal information only in the course of providing such services and only for the purposes that Corsa Capital dictates. We may also disclose your personal information to third parties to fulfill your instructions or pursuant to your express consent. We want you to know that Corsa Capital will not sell your personal information.
 
@@ -50,5 +50,33 @@ Tortola, British Virgin Islands
 FOREX quotes
 
   
+
+
+2011-06-13 09:46:00 GMT+00 
+
+New Zealand Dollar Slides To 4-day Low Versus Australian Dollar   
+[More...](https://web.archive.org/web/20110613091608id_/http%3A//corsaforex.com/forex-news-sht.aspx?newsid=1153816)
+
+2011-06-13 09:38:00 GMT+00 
+
+*NZ Dollar Hits 4-day Low Of 1.2999 Against Aussie   
+[More...](https://web.archive.org/web/20110613091608id_/http%3A//corsaforex.com/forex-news-sht.aspx?newsid=1153815)
+
+2011-06-13 09:36:00 GMT+00 
+
+Pound Hits 12-day High Versus Euro   
+[More...](https://web.archive.org/web/20110613091608id_/http%3A//corsaforex.com/forex-news-sht.aspx?newsid=1153814)
+
+2011-06-13 09:21:00 GMT+00 
+
+Turkish Factory Orders, Turnover Grow At Faster Pace In April   
+[More...](https://web.archive.org/web/20110613091608id_/http%3A//corsaforex.com/forex-news-sht.aspx?newsid=1153813)
+
+2011-06-13 09:16:00 GMT+00 
+
+Italian Industrial Output Growth Rises In April   
+[More...](https://web.archive.org/web/20110613091608id_/http%3A//corsaforex.com/forex-news-sht.aspx?newsid=1153812)
+
+[Powered by MT5.com](http://www.mt5.com/)  
   
 ---|---|---
