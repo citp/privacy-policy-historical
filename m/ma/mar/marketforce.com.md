@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketforce.com privacy policy that was archived on 2010-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101211101041id_/http%3A//www.marketforce.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketforce.com privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613020113id_/http%3A//www.marketforce.com/privacy-policy) for the most accurate reproduction.*
 
 # Market Force | Privacy Policy
 
