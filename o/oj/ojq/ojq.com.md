@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ojq.com privacy policy that was archived on 2010-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101006162104id_/http%3A//ojq.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ojq.com privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613042940id_/http%3A//www.ojq.com/ojq/privacy-policy) for the most accurate reproduction.*
 
-# OJQ Privacy Policy
+# OJQ | Privacy Policy
 
 • OJQ Media Inc, Inc. ("OJQ Media Inc", "we" or "us") is a performance marketing company. This policy is designed to inform you about our privacy practices on our corporate Website ("Website"), www.OJQ.com. This policy also addresses how our OJQ Media Inc platform ("Platform") processes information on behalf of the advertisers, website owners and other businesses that use the Platform (our "Clients"). If you have any questions about this privacy policy, please feel free to contact us.
 
