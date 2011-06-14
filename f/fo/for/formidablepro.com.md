@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the formidablepro.com privacy policy that was archived on 2010-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101217042713id_/http%3A//formidablepro.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the formidablepro.com privacy policy that was archived on 2011-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110614201041id_/http%3A//formidablepro.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Formidable Pro
 
