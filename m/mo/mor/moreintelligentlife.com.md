@@ -1,149 +1,46 @@
-> *The following text is extracted and transformed from the moreintelligentlife.com privacy policy that was archived on 2010-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101118063514id_/http%3A//www.economist.com/about/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moreintelligentlife.com privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615015252id_/http%3A//www.economistgroup.com/results_and_governance/governance/Privacy) for the most accurate reproduction.*
 
-# Economist.com
+# Privacy | Economist Group
 
-|  [](https://web.archive.org/opinion/)  
----  
-[](https://web.archive.org/world/)  
-[](https://web.archive.org/business/)  
-[](https://web.archive.org/finance/)  
-[](https://web.archive.org/science/)  
-[](https://web.archive.org/people/)  
-[](https://web.archive.org/books/)  
-[](https://web.archive.org/markets/)  
-[](https://web.archive.org/diversions/)  
-  
-[](https://web.archive.org/countries/)
+## The Economist Group's privacy policy
 
-  
+[The Economist Group](http://www.economistgroup.com/) is committed to protecting the privacy of our customers. Because we operate from offices around the world, we have taken steps to ensure that high standards of data protection are adhered to globally for all the forms of data processing mentioned below. This statement outlines our privacy and data protection policy.
 
+### Definitions
 
-[](http://store.eiu.com/index.asp?promo=economist)
+"The Economist Group" comprises The Economist Newspaper Limited and its subsidiaries, which together operate a number of businesses, including the following:
 
-  
-[](https://web.archive.org/research)  
-|  |  [Articles by subject](https://web.archive.org/research/articlesBySubject/)  
-[Special Reports](https://web.archive.org/specialreports/)  
-[Economics A-Z](https://web.archive.org/research/Economics/)  
-[Style guide](https://web.archive.org/research/StyleGuide/)  
-  
-|  |   
----|---|---|---|---  
-  
-[ ](https://web.archive.org/business/globalexecutive/)  
-|  |  [Management  
-Reading](https://web.archive.org/business/globalexecutive/reading)  
-[Business Education](https://web.archive.org/business/globalexecutive/education)  
-  
-|  |   
----|---|---|---|---  
-  
-[](https://web.archive.org/printedition/)  
-|  |  [](https://web.archive.org/printedition/)  
-[Full contents](https://web.archive.org/printedition/)  
-[Past issues](https://web.archive.org/printedition/cover_index.cfm)  
-  
-|  |   
----|---|---|---|---  
-  
-  
-|  |  [Free registration](https://web.archive.org/members/members.cfm?act=registration)  
-[Web subscriptions](https://web.archive.org/subscriptions/)  
-[Print subscriptions](https://web.archive.org/subscriptions/?print=yes)  
-[Academic offers](https://web.archive.org/academic/)  
-[Gift vouchers](https://web.archive.org/gift/buy_voucher.cfm)  
-[Mobile editions](https://web.archive.org/mobile/)  
-[E-mail alerts](https://web.archive.org/email/)  
-[RSS feeds](https://web.archive.org/rss/)  
-  
-|  |   
----|---|---|---|---  
-  
-[](http://www.economistshop.com/asp/default.asp?promotion_code=EW00)  
-|  |  [  
-Books, diaries and more](http://www.economistshop.com/asp/default.asp?promotion_code=EW00)  
-  
-|  |   
----|---|---|---|---  
-  
-[](https://web.archive.org/classifieds/)  
-|  |  Business Recruitment, Tenders, Franchise Opportunities, Properties: [click here](https://web.archive.org/classifieds)  
-  
-|  |   
----|---|---|---|---  
-  
-  
-|  |  [](http://www.economistgroup.com/)  
-[The Economist Intelligence Unit](http://store.eiu.com/index.asp)
-
-[Economist Conferences](http://www.economistconferences.com/)
-
-[The World In](http://www.theworldin.com/)
-
-[Intelligent Life](https://web.archive.org/intelligentlife)
-
-[Roll Call](http://www.rollcall.com/)
-
-[European Voice](http://www.european-voice.com/)
-
-[Economist Diaries and Business Gifts](http://www.economistshop.com/asp/default.asp?promotion_code=EW01)  
-
-
-|  |   
----|---|---|---|---  
-  
-[](https://web.archive.org/help/DisplayHelp.cfm?folder=663377#About_The_Economist)  
-|  |  [_The Economist_ online](https://web.archive.org/help/DisplayHelp.cfm?folder=663377#About_Economistcom)   
-[The Economist](https://web.archive.org/help/DisplayHelp.cfm?folder=663377#About_The_Economist)   
-[Contact us](https://web.archive.org/help/DisplayHelp.cfm?folder=663392)   
-[Media Directory](https://web.archive.org/mediadirectory)   
-[Advertising info](http://ads.economist.com/)   
-[Job opportunities](http://www.economistgroup.com/working_with_us/job_opportunities/index.html)   
-  
-|  |   
----|---|---|---|---  
-  
-[](https://web.archive.org/help/DisplayHelp.cfm?folder=663377#About_The_Economist)  
-|  |  [Media Directory](https://web.archive.org/mediadirectory)  
-[Staff Books](https://web.archive.org/mediadirectory/books.cfm)  
-  
-|  |   
----|---|---|---|---  
-  
-|  |  |    
-**The Economist Group - Privacy Policy**
-
-The Economist Group is committed to protecting the privacy of our customers. Because we operate from offices around the world, we have taken steps to ensure that high standards of data protection are adhered to globally for all the forms of data processing mentioned below. This statement outlines our privacy and data protection policy. 
-
-**Definitions**  
-The "Economist Group" comprises The Economist Newspaper Limited and its subsidiaries, which together operate a number of businesses, including the following:
-
-  * _The Economist_
-  * Other Economist branded businesses, such as Economist Intelligence Unit, Economist Conferences and Economist Corporate Network
+  * The Economist
+  * Other Economist-branded businesses, such as Economist Intelligence Unit, Economist Conferences and Economist Corporate Network
   * European Voice
   * EuroFinance Conferences
   * CQ-Roll Call Group (including Capitol Advantage, Congressional Quarterly and Roll Call)
 
-  
+
+
 A "customer" (or "you") is anyone ordering, registering for or making use of any product, service or website of any Economist Group business.
 
-**Collection and use of customer information**  
-Your personal details will be collected and processed when you order, purchase, register, subscribe or make use of any of our products or services. Information is collected by the companies of the Economist Group. For our businesses operated in the EU and EEA, the companies listed at the end of this policy statement are each registered with the United Kingdom's Information Commissioner's Office as a data controller in accordance with the Data Protection Act 1998.
+### Collection and use of customer information
 
-When you visit any of our websites, we also collect website usage information, and information about your computer and internet connection. This includes your computer's IP address, the type and version of browser and operating system you use, your internet domain and, if you visited via a link from another website, the URL of the linking page.
+Your personal details will be collected and processed when you order, purchase, register, subscribe or make use of any of our products or services.  Information is collected by the companies of the Economist Group.  For our businesses operated in the EU and EEA, the companies listed at the end of this policy statement are each registered with the United Kingdom's Information Commissioner's Office as a data controller in accordance with the Data Protection Act 1998.
+
+In addition, when you visit any of our websites or use any of our digital applications (such as our iPhone or iPad applications), we also collect website and application usage information (which may include your reading history and any advertisements you may have viewed), and information about your computer or other digital device and your internet connection. This includes your computer's or digital device’s IP address, the type and version of browser and operating system you use, your internet domain and, if you visited via a link from another website, the URL of the linking page. 
 
 This information is collected to help us:
 
   * fulfil your order
   * manage your registration preferences
-  * send you renewal notifications
+  * send you renewal notifications and/or service notifications
   * personalise web content and advertising based on your personal characteristics or preferences
-  * ensure, as far as is practical, that our websites are compatible with the browsers and operating systems used by most of our visitors
+  * ensure, as far as is practical, that our websites and applications are compatible with the browsers and operating systems used by most of our visitors
   * conduct customer satisfaction surveys
 
-And, if you allow us to*, we may also: 
+
+
+And, if you allow us to*, we may also:
+
   * tell you about additional products and services
-  * tell you about other promotional activities across The Economist Group of companies or other companies with whom we have a business relationship
+  * tell you about other promotional activities across The Economist Group of companies or other companies with whom we have a business relationship 
   * invite you to participate in market research and surveys
 
 
@@ -157,63 +54,73 @@ We also use your information for in-house research and analysis. This helps us t
   * support strategic development
   * To enable us to conduct research we may share your information with third party suppliers employed to help. All results of any research and analysis will be anonymised or aggregated information and will not reveal any personal details of individual customers.
 
-**Cookies  
-**A cookie is a small file which is placed on your hard drive when you visit any of the Group's websites. We use information from cookies for purposes which may include: 
+
+
+### Cookies
+
+A cookie is a small file which is placed on your hard drive when you visit any of the Group's websites (directly or via our applications). We use information from cookies for purposes which may include:
 
   * identifying returning users, registrants and subscribers 
   * eliminating the need for returning users to re-enter their login details 
-  * enabling you to move more easily around our sites 
-  * tracking your use of our sites to better develop our sites in accordance with your requirements 
-  * building up an anonymous profile based on your browsing patterns across our sites and third party websites, which enables us to make advertisements and content available to you that is more relevant to your interests
+  * enabling you to move more easily around our sites and applications
+  * tracking your use of our sites to better develop our sites and applications in accordance with your requirements 
+  * building up an anonymous profile based on your browsing patterns across our sites, applications and third party websites, which enables us to make advertisements and content available to you that is more relevant to your interests
 
 
 
 You can delete cookies from your hard drive at any time. Bear in mind, though, that if you delete them, any settings such as your stored username and password will have to be reset when you next log in.
 
-You will be able to use our websites even if your browser is not set to accept cookies. However, certain features and content may not be available to you and you will have to log in every time you visit.
+You will be able to use our websites and applications even if your browser is not set to accept cookies. However, certain features and content may not be available to you and you will have to log in every time you visit.
 
-If you specifically do not wish us to collect cookie information for the purpose of content and behavioural targeted advertising, you can "opt out" by following the instructions at [http://www.cookiecentral.com](http://www.cookiecentral.com/).
+By visiting an Economist Group website, you consent to the use of cookies as explained above.
 
-Further information on the use of cookies can be found at: [www.cookiecentral.com/faq](http://www.cookiecentral.com/faq).
+You can also choose whether you wish us to collect cookie information for these purposes using the settings in your browser, as further explained at[ http://www.cookiecentral.com](http://www.cookiecentral.com/).
 
-**E-mails  
-**The Economist Group uses reputable third parties to deliver the e-mails you receive if you have subscribed to e-mail newsletters, or have chosen to receive information about Economist Group products, services and offers. These third parties use unique identifiers and invisible images (often called "pixel tags" or "clear GIFs") to perform message open sensing, message format sensing, and click-through sensing in order to bring you more relevant information. 
+Further information on the use of cookies can be found at: [www.cookiecentral.com/faq](http://www.cookiecentral.com/faq). 
+
+### E-mails
+
+The Economist Group uses reputable third parties to deliver the e-mails you receive if you have subscribed to e-mail newsletters, or have chosen to receive information about Economist Group products, services and offers. These third parties use unique identifiers and invisible images (often called "pixel tags" or "clear GIFs") to perform message open sensing, message format sensing, and click-through sensing in order to bring you more relevant information.
 
 To find out more about the technologies used in these e-mails sent on our behalf, please visit <http://www.doubleclick.com/privacy/index.aspx>. Content and some ad services in these e-mails are provided by Economist Group servers or by a third party.
 
-**Advertisements  
-**The Economist Group uses DoubleClick to deliver the advertisements displayed on our websites. DoubleClick may note some of the pages you visit through the use of pixel tags (also called "clear gifs"). In the course of serving advertisements to this site, DoubleClick may place or recognise a unique cookie on your computer in order to bring to you more relevant information and to make sure that you do not receive the same ad many times in the same session. Some of the advertisers on our sites do not use DoubleClick ad-serving software and their ads are served by third-parties who may also place cookies. To find out more about these sensing methods and to know your choices about not having this information used by DoubleClick, please visit <http://www.doubleclick.com/privacy/index.aspx>. 
+### Advertisements
 
-**External links  
-**Our websites may, from time to time, contain links to external sites. The Economist Group is not responsible for the privacy policies or the content of such sites and we recommend that you read the privacy policies on any external sites you use.
+The Economist Group uses DoubleClick to deliver the advertisements displayed on our websites. DoubleClick may note some of the pages you visit through the use of pixel tags (also called "clear gifs"). In the course of serving advertisements to this site, DoubleClick may place or recognise a unique cookie on your computer in order to bring to you more relevant information and to make sure that you do not receive the same ad many times in the same session. Some of the advertisers on our sites do not use DoubleClick ad-serving software and their ads are served by third-parties who may also place cookies. To find out more about these sensing methods and to know your choices about not having this information used by DoubleClick, please visit <http://www.doubleclick.com/privacy/index.aspx>.
 
-**Security policy  
-**The Economist Group does its utmost to protect your privacy and ensure your personal details are not misused, accidentally destroyed, lost or altered within The Economist Group.
+For advertisements appearing on in our digital applications, we may share anonymised information regarding advertisement viewing patterns with our advertisers, but will not reveal any personal details of individual customers. 
 
-Occasionally we share your details with other companies who are managing data for us (e.g. fulfilment bureaux, database consultants etc.). They are only permitted to process your data with explicit permission from The Economist Group, enabling them to perform the services required.
+### External links
 
-**Transfer of personal data overseas  
-**As the internet is a global environment, collecting and processing personal information may involve the transmission of this data internationally, including outside of the European Union. Therefore, by communicating electronically with us you acknowledge and agree to your personal data being processed in this way. **
+Our websites may, from time to time, contain links to external sites. The Economist Group is not responsible for the privacy policies or the content of such sites and we recommend that you read the privacy policies on any external sites you use.
 
-Children under 13
+### Security policy
 
-**   
-The Economist Group does not intentionally collect any personal information from individuals under the age of 13. When necessary, underage users will be told not to submit any personal details and we will make every effort to delete any details of such users where a parent or guardian has informed us that these details have been collected. **
+The Economist Group does its utmost to protect your privacy and ensure your personal details are not misused, accidentally destroyed, lost or altered within The Economist Group.
 
-Changes to this statement
+Occasionally we share your details with other companies who are managing data for us (eg fulfilment bureaux, database consultants etc.). They are only permitted to process your data with explicit permission from The Economist Group, enabling them to perform the services required.
 
-**   
-From time to time, we may make changes to the privacy policy. This may be in relation to changes in the law, best practice or changes in our services. These changes will be reflected in this statement, so you should check here from time to time. **
+### Transfer of personal data overseas
 
-Companies
+As the internet is a global environment, collecting and processing personal information may involve the transmission of this data internationally, including outside of the European Union. Therefore, by communicating electronically with us you acknowledge and agree to your personal data being processed in this way.
 
-**   
-In accordance with the UK Data Protection Act 1998, the following companies are registered with the United Kingdom's Information Commissioner's Office as a data controller to collect information: 
+### Children under 13
 
+The Economist Group does not intentionally collect any personal information from individuals under the age of 13. When necessary, underage users will be told not to submit any personal details and we will make every effort to delete any details of such users where a parent or guardian has informed us that these details have been collected.
+
+### Changes to this statement
+
+From time to time, we may make changes to the privacy policy. This may be in relation to changes in the law, best practice or changes in our services. These changes will be reflected in this statement, so you should check here from time to time.
+
+### Companies 
+
+In accordance with the UK Data Protection Act 1998, the following companies are registered with the United Kingdom's Information Commissioner's Office as a data controller to collect information:
+
+  
 Data controller: The Economist Newspaper Limited   
-Registered Office: 25 St James's Street, London SW1A 1HG, UK  
+Registered Office:  25 St James's Street, London SW1A 1HG, UK  
 ICO Registered Number: Z7134617 Data Protection Registration Number: 236383  
-Other names: The World In, The Economist, European Voice, _The Economist_ online, Intelligent Life
+Other names: The World In, The Economist, European Voice, Economist.com, Intelligent Life
 
 Data controller:The Economist Intelligence Unit Limited  
 Registered Office: 25 St James's Street, London SW1A 1HG, UK  
@@ -221,12 +128,8 @@ ICO Registered Number: Z6982453
 Data Protection Registration Number: 1762617  
 Other names: EIU, Economist Intelligence Unit, Economist Conferences, Economist Corporate Network
 
-Data controller: Euro Finance Conferences Ltd  
+Data controller: EuroFinance Conferences Ltd  
 Registered Office: 25 St James's Street, London SW1A 1HG, UK  
 ICO Registered Number: Z4865712  
-Data Protection Registration Number: 3015764   
-Other names: EuroFinance Intelligence, EuroFinance Training   
-
-
-  
-| 
+Data Protection Registration Number: 3015764    
+Other names: EuroFinance Intelligence, EuroFinance Training
