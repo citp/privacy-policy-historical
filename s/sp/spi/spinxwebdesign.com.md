@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spinxwebdesign.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120190039id_/http%3A//www.spinxwebdesign.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spinxwebdesign.com privacy policy that was archived on 2011-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110614204850id_/http%3A//www.spinxwebdesign.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Spinx Best Web Design Company Los Angeles
 
