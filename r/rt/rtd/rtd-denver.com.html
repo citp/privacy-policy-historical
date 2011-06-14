@@ -1,17 +1,22 @@
-<!--The following is the downloaded HTML source of the rtd-denver.com privacy policy that was archived on 2009-12-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091229023934id_/http%3A//www.rtd-denver.com/Privacy_Policy.shtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rtd-denver.com privacy policy that was archived on 2011-06-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110614081819id_/http%3A//www.rtd-denver.com/Privacy_Policy.shtml) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<link rel="icon" type="image/x-icon" href="http://www.rtd-denver.com/favicon.ico">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta http-equiv="Content-Script-Type" content="text/javascript">
 <meta http-equiv="Content-Style-Type" content="text/css">
 
+<!-- the following tag is to accomodate a scrape for the header from the flexpass website. as long as the flexpass site is active and outside the RTD server infrastructure, this tag needs to stay in place -->
+<!-- start flexpass header code -->
 <!-- robot meta tag from conf -->
 <meta name="description" content="Denver, CO public transportation"> 
 
 		<!-- Begin Menu dependant stuff -->
         <!-- Core + Skin CSS -->
         <link rel="stylesheet" type="text/css" href="http://www.rtd-denver.com/css/menu.css">
+        <link rel="stylesheet" type="text/css" href="/scripts/yui/build/fonts/fonts-min.css">
+		<link rel="stylesheet" type="text/css" href="/scripts/yui/build/button/assets/skins/sam/button.css">
 		<!--- do not remove the container css below it will break yui panel functionality!!!! --->
 		<link rel="stylesheet" type="text/css" href="http://www.rtd-denver.com/scripts/yui/build/container/assets/skins/sam/container.css">
         <script type="text/javascript" src="http://www.rtd-denver.com/scripts/yui/build/yahoo-dom-event/yahoo-dom-event.js"></script>
@@ -85,21 +90,32 @@
 			var routeType9;
 			
 			var runboardMessage = '';
+			
+			// alert/detour menu data
+			/*var alertRouteTypeLocal;
+			var alertRouteTypeExpress;
+			var alertRouteTypeRegional;
+			var alertRouteTypeSkyRide;	
+			var alertRouteTypeLightRail;*/
+			
         </script>
         <script type="text/javascript" src="http://www.rtd-denver.com/scripts/yui/build/menu/menu-min.js"></script>   
         <!-- remote data for bus routes -->
-         <script type="text/javascript" src="http://www3.rtd-denver.com/schedules/ajax/getAjaxRouteMenu.action"></script>
+        <script type="text/javascript" src="http://www3.rtd-denver.com/schedules/ajax/getAjaxRouteMenu.action"></script>
+        <!-- remote data for alert/detour bus routes
+        <script type="text/javascript" src="http://www3.rtd-denver.com/schedules/ajax/getAlertDetourRouteMenu.action"></script> -->
         <!-- local data and links for rest of site -->
          <script type="text/javascript" src="http://www.rtd-denver.com/scripts/menuVar.js"></script>
  		<!-- end menu stuff -->
         		
 		<!-- autocomplete -->
-		<link rel="stylesheet" type="text/css" href="/scripts/yui/build/fonts/fonts-min.css">
-		<link rel="stylesheet" type="text/css" href="/scripts/yui/build/autocomplete/assets/skins/sam/autocomplete.css">		
-		<script type="text/javascript" src="/scripts/yui/build/animation/animation-min.js"></script>
-		<script type="text/javascript" src="/scripts/yui/build/datasource/datasource-min.js"></script>
-		<script type="text/javascript" src="/scripts/yui/build/autocomplete/autocomplete-min.js"></script>
+		<link rel="stylesheet" type="text/css" href="http://www.rtd-denver.com/scripts/yui/build/fonts/fonts-min.css">
+		<link rel="stylesheet" type="text/css" href="http://www.rtd-denver.com/scripts/yui/build/autocomplete/assets/skins/sam/autocomplete.css">		
+		<script type="text/javascript" src="http://www.rtd-denver.com/scripts/yui/build/animation/animation-min.js"></script>
+		<script type="text/javascript" src="http://www.rtd-denver.com/scripts/yui/build/datasource/datasource-min.js"></script>
+		<script type="text/javascript" src="http://www.rtd-denver.com/scripts/yui/build/autocomplete/autocomplete-min.js"></script>
        	<script type="text/javascript" src="http://www3.rtd-denver.com/schedules/ajax/getAjaxRouteAutoComplete.action"></script>
+        <script type="text/javascript" src="http://www3.rtd-denver.com/schedules/ajax/getAlertDetourRouteAutoComplete.action"></script>
 		<!-- end autocomplete -->
 
 <!-- Add Stylesheets - screen -->
@@ -154,22 +170,35 @@ function IsKioWare()
 
 //-->
 </script>
+
+<!-- email this page javascript -->
+<script language="javascript">
+function mailpage()
+{
+mail_str = "mailto:?subject=Check out " + document.title;
+mail_str += "&body=I thought you might be interested in this page I found on the RTD website, " + document.title;
+mail_str += ". You can view it at: " + location.href; 
+location.href = mail_str;
+}
+</script>
+
 <title>RTD | Privacy Policy</title>
 
 </head>
 
 <body class="yui-skin-sam">
 <!-- Top bar header with home button and main super navs -->
+<div id="headerbg">
 <div class="noprint" id="headerBarTable">
     <div class="headerTable">
         <div width="659" style="float:left"><a href="http://www.rtd-denver.com/index.shtml"><img src="http://www.rtd-denver.com/images/HeaderSpacer.gif" alt="RTD Home" title="RTD Home" width="225" height="75" border="0"></a></div>
-        <div width="116" style="float:right; padding-right:16px; padding-left:8px;"><a href="http://www.rtd-denver.com/skyRide_SubHome.shtml" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('mainHeader_skyRide','','http://www.rtd-denver.com/images/mainHeader_skyRide_over.gif',1)"><img src="http://www.rtd-denver.com/images/mainHeader_skyRide.gif" alt="skyRide Information" title="skyRide Information" name="mainHeader_skyRide" width="101" height="85" border="0" id="mainHeader_skyRide"></a></div>
+        <div width="116" style="float:right; padding-right:16px; padding-left:8px;"><a href="http://www.rtd-denver.com/skyRide_SubHome.shtml" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('mainHeader_SkyRide','','http://www.rtd-denver.com/images/mainHeader_skyRide_over.gif',1)"><img src="http://www.rtd-denver.com/images/mainHeader_skyRide.gif" alt="SkyRide Information" title="SkyRide Information" name="mainHeader_SkyRide" width="101" height="85" border="0" id="mainHeader_SkyRide"></a></div>
         <div width="78" style="float:right; padding-left:16px;"><a href="http://www.rtd-denver.com/lightRail_subHome.shtml" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('mainHeader_lightRail','','http://www.rtd-denver.com/images/mainHeader_lightRail_over.gif',1)"><img src="http://www.rtd-denver.com/images/mainHeader_lightRail.gif" alt="Light Rail Information" title="Light Rail Information" name="mainHeader_lightRail" width="78" height="85" border="0" id="mainHeader_lightRail"></a></div>
         <div width="78" style="float:right"><a href="http://www.rtd-denver.com/Bus_subHome.shtml" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('mainHeader_Bus','','http://www.rtd-denver.com/images/mainHeader_bus_over.gif',1)"><img src="http://www.rtd-denver.com/images/mainHeader_bus.gif" alt="Bus Information" title="Bus Information" name="mainHeader_Bus" width="78" height="85" border="0" id="mainHeader_Bus"></a></div>
     </div>
 </div>
 <!-- Main menu bar with drop downs based on YUI menu bar -->
-<div class="noprint noprintheader" id="navBarTable">
+<div class="noprint noprintheader group" id="navBarTable">
     <div class="mainNavTable">
             <div style="float:left; width:650px;">
                 <div id="productsandservices" class="yuimenubar yuimenubarnav" style="float:left">
@@ -184,7 +213,7 @@ function IsKioWare()
                             <li class="yuimenubaritem">
                                 <a class="yuimenubaritemlabel mainNav" href="http://www.rtd-denver.com/FaresPasses.shtml">FARES &amp; PASSES</a></li>
                             <li class="yuimenubaritem">
-                                <a class="yuimenubaritemlabel mainNav" href="http://www.rtd-denver.com/BusinessCenter.shtml">BUSINESS CENTER</a></li>
+                                <a class="yuimenubaritemlabel mainNav" href="http://www.rtd-denver.com/Biz_DoingBiz.shtml">BUSINESS CENTER</a></li>
                             <li class="yuimenubaritem">
                                 <a class="yuimenubaritemlabel mainNav" href="http://www.rtd-denver.com/InsideRTD.shtml">INSIDE RTD</a></li>                                    
                         </ul>
@@ -204,45 +233,80 @@ function IsKioWare()
                 <div class="searchBar" style="float:right; padding-top:9px; padding-right:5px;">SEARCH</div>
             </div>
     </div>
+    <div style="width:950px; margin-left:auto; margin-right:auto; text-align:right;margin-top:2px;_margin-top:-10px;"> 
+    <a href="http://twitter.com/RideRTD" target="_blank" title="Follow RTD on Twitter"><img src="http://www.rtd-denver.com/images/iconTwitter.gif" border="0"></a>
+    <a href="http://www.facebook.com/RideRTD" target="_blank" title="Find RTD on Facebook"><img src="http://www.rtd-denver.com/images/iconFacebook.gif" border="0"></a>
+    <a href="http://www3.rtd-denver.com/elbert/news/archive/archiveIndex.cfm" title="RTD News"><img src="http://www.rtd-denver.com/images/iconNews.gif" border="0"></a>
+    <a href="javascript:mailpage()" title="Email this page to a friend"><img src="http://www.rtd-denver.com/images/iconEmail.gif" border="0"></a>
+    <a href="javascript:window.print()" title="Print this page"><img src="http://www.rtd-denver.com/images/iconPrint.gif" border="0"></a>
+    </div>
+</div>
 </div>
 <script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
 <!-- added for iphone browser render issue -->
 <link rel="stylesheet" type="text/css" href="/scripts/yui/build/button/assets/skins/sam/button.css">
 <!-- end iphone browser render issue -->
+<!-- end flexpass header code -->
+
 <script language="javascript" type="text/javascript">
 	document.title = 'RTD | Privacy Policy';
 </script>
-<table width="950" border="0" align="center" cellpadding="0" cellspacing="0" class="bodyTable3" id="wrapperTable">
-  
-  <tbody><tr>
-    <td valign="top">
-    <table border="0" cellpadding="0" cellspacing="0" id="contentTable">
-      <tbody><tr>
-      
-      
-      	<!--CONTENT TD BEGINS HERE -->
-        <td width="790" valign="top" class="bodyBlue">
-        
+<div class="mainBodyTwo bodyBlue" id="wrapperTable">
+	<div id="contentTable">
+      <!--CONTENT DIV BEGINS HERE -->
+          <div class="bodyTwoLeft">  
+                
         <!--THIS IS THE HEADLINE GRAPHIC. HEADLINES USED WITHIN THIS TEMPLATE SHOULD ALWAYS BE ASSIGNED THE 'headlineGraphic1' CLASS-->
         <img src="images/HL_Privacy_Notice.gif" alt="RTD internet privacy notice" width="300" height="26" class="headlineGraphic1">
         
          <!-- TEXT AND OTHER CONTENT GOES BELOW. LEFT PADDING AMOUNT AND BACKGROUND IMAGE FOR THIS TABLE ARE SET IN THE TABLE TAG CLASS (bodyTable3) -->
-         
-          <p>This is how the RTD will handle information we learn about you from your visit to our website. The information we receive depends upon what you do when visiting our site.</p>
-          <p class="bodyBlueBold">If you visit our site to read or download information, such as career opportunities or press releases, we do not collect and store your email address.</p>
-          <ul>
-            <li>The name of the domain from which you access the Internet (for example, aol.com, if you are connecting from an American Online account).</li>
-            <li>The Internet address of the website from which you linked directly to our site.</li>
-            <li>The date and time you access our site.<br>
-              </li>
-            </ul>
-          <p class="bodyBlueBold">If you identify yourself by sending an E-mail containing personal information:</p>
-          <p>You also may decide to send us personally-identifying information, for example your mailing address, in an electronic mail message requesting that information or records be mailed to you. Information collected in this manner is used solely for responding to requests for information or records and will not be permanently stored.</p>
-          <p>For <span class="bodyBlueBold">Site Management,</span> non-identifying information is collected from all types of site visits for statistical purposes. Individual e-mail and other personally identifying information is not collected.</p>
-          <p>For <span class="bodyBlueBold">Site Security </span>purposes and to ensure that this service remains available to all users, the RTD computer system employs software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage.</p>
-          <strong>NOTICE:</strong> <span class="bodyBlue">Except as set forth above or if required by law, the RTD will not obtain personally-identifying information about you when you visit our site, unless you choose to provide such information to us. </span>            <!-- END CONTENT TD -->          </td>
-        <td width="35">&nbsp;</td>
-        <td width="125" valign="top">
+          <p>At RTD, we are committed to protecting the privacy of our customers and visitors to our website. The following privacy policy statement specifies what information we collect on our website, rtd-denver.com, and how we use it.            </p>
+            <p><span class="bodyBlueHeadline">Collection and use of personal information </span>
+              <br>
+              There are sections on the website where we ask you to provide personal information so that we may follow-up with you. Such personal information may be required to subscribe to email notifications, apply for a job online, complete surveys, or fill out other forms, such as the customer comment form. The personal information collected may include your name, email address, phone number, street address, etc. We will not lease, sell or otherwise release your personal information to third parties not affiliated with us unless disclosure is required by law. We will use the personal information you provide only to respond to your request or inquiry.
+            </p>
+            <p>We will not send you unsolicited emails. If you sign up to receive email notifications from us, you will receive only the information you sign up to receive. If you wish to opt out or revise the email notifications you receive, <a href="https://public.govdelivery.com/accounts/COTRANRTD/subscribers/new?preferences=true" target="_blank">update your preferences</a> here. </p>
+            <p><span class="bodyBlueHeadline">Collection and use of non-personal information</span>
+              <br>
+              We collect aggregated (non-personal) information such as Internet domain, IP address, browser, operating system, referring/exit pages, date and time stamp, etc. from all visitors to our website for statistical purposes. Aggregated information does not include personal identifying information. The information collected is used for analysis and reporting, providing information on site trends and usage so that we can continue to enhance our site based on our customers’ needs. We may disclose anonymous, aggregated data to third parties working with RTD or include such data in public records.
+            </p>
+            <p><strong>Google Analytics
+              </strong><br>
+              RTD uses Google Analytics, a web analytics tool that helps website owners understand how visitors engage with their website. The <a href="http://www.google.com/intl/en/analytics/tos.html" target="_blank">Google Analytics Terms of Service</a>, which all Analytics customers must adhere to, prohibits the tracking or collection of personal information using Google Analytics or associating personal information with web analytics information. Visit <a href="http://www.google.com/intl/en/analytics/privacyoverview.html" target="_blank">Google Analytics Privacy Overview</a> for more information. <br>
+            </p>
+            <p>            <strong>GovDelivery </strong><br>
+            RTD uses GovDelivery, a third-party digital subscription management service to manage email subscriptions and communications. GovDelivery does not share information gathered through its clients with third parties for promotional purposes. Visit <a href="http://www.govdelivery.com/privacy" target="_blank">GovDelivery’s Legal and Privacy Overview</a> for more information. </p>
+            <p> <strong>Yahoo Store </strong><br>
+            RTD’s Online Store is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Visit <a href="http://privacy.yahoo.com/privacy/us/" target="_blank">Yahoo! Privacy Policy</a> for more information. </p>
+            <p><span class="bodyBlueHeadline">Compliance with the Children’s Online Privacy Protection Act</span><br>
+RTD complies with the requirements of the Children’s Online Privacy Protection Act. RTD will not target its offerings towards or knowingly collect any personally identifiable information from children under 13 years of age. 
+            </p>
+            <p><span class="bodyBlueHeadline">Cookies</span>
+              <br>
+              A cookie is a piece of text that can be stored by your web browser on your computer. Typically, cookies are used to tailor a website to better suit your interests and preferences. RTD-Denver.com does not use cookies outside of those that Google Analytics uses to track site statistics.
+            </p>
+            <p><span class="bodyBlueHeadline">Security</span> 
+              <br>
+              To ensure site security, RTD employs software programs to monitor network traffic and identify unauthorized attempts to upload or change information, or otherwise cause damage.            </p>
+            <p><span class="bodyBlueHeadline">Links to other websites </span>             <br>
+              This privacy statement applies solely to RTD’s website. Links to other websites are included to provide our riders with supplemental information. If you choose to follow these links, you are leaving RTD’s website and are subject to the privacy policies of those sites. RTD is not responsible for content or policies of those websites.              </p>
+            <p><span class="bodyBlueHeadline">Consent</span>
+              <br>
+              By using the RTD website, you consent to the collection and use of information described in this privacy policy.</p>
+            <p> <span class="bodyBlueHeadline">Policy updates </span>
+              <br>
+              This page will be updated with our current privacy policy so you will always be aware of the type of information we collect and how we use it. RTD reserves the right to update this privacy policy at any time.              </p>
+            <p><span class="bodyBlueHeadline">Questions</span>
+              <br>
+              If you have questions about this privacy policy statement, please <a href="ContactUs.shtml">contact us</a>. </p>
+            <p class="bodyGrey">Copyright © 2011 The Regional Transportation District. All rights reserved.<br>
+RTD, 1600 Blake Street, Denver, CO 80202<br>
+<br>
+            Last updated February 2011 </p>
+<p>&nbsp;</p>
+      </div>
+         <!-- END CONTENT DIV -->         
+         <div class="bodyRight">
         <!--- right side Trip Planner and Schedule Finder --->
 
 		        <table border="0" cellpadding="0" cellspacing="0" id="floatTable">
@@ -260,39 +324,129 @@ function IsKioWare()
           </tr>
           <tr>
             <td height="53" background="http://www.rtd-denver.com/images/sched_finder_BG2.gif">
-            <table height="53" border="0" cellspacing="0" cellpadding="0">
+            <table height="40" border="0" cellspacing="0" cellpadding="0">
               <tbody><tr>
-                <td colspan="2" valign="bottom" class="plannerGreyOne"> <label for="routeId">Route name</label></td></tr>
-              <tr>
-              </tr><tr>
- 	             <form action="http://www3.rtd-denver.com/schedules/findSchedule.action"></form>
-	                <td width="110" height="20" valign="top" align="left">
-                     <div id="myAutoComplete">
-                     <input name="routeId" type="text" class="schedFindFieldSm" style="margin-left:0px;width:110px" id="routeId" value="Ex: 86x" onfocus="this.value=''" autocomplete="off">
-                     <div id="myContainer"></div>
-                     </div>    
-                    </td>                     
-                
+                <td valign="bottom" class="plannerGreyOne"> <label for="routeId">Route</label></td>
               </tr>
+              <form name="scheduleFinder" onsubmit="javascript:validateRoute();return false;" action="http://www3.rtd-denver.com/schedules/findSchedule.action"></form>
+              <tr>
+                <td width="110" height="20" valign="top" align="left">
+                 <div id="myAutoComplete" style="position:absolute;width:110px;z-index:1">
+                 <input name="routeId" type="text" class="schedFindFieldSm" style="margin-left:0px;width:110px" id="routeId" value="Ex: 86x" onfocus="this.value=''" autocomplete="off">
+                 <div id="myContainer"></div>
+                 </div>  
+                </td>                     
+              </tr>
+              
             </tbody></table>
-            </td>
+        </td>
+        </tr>
+        <tr>
+          <td height="15"><img src="http://www.rtd-denver.com/images/clear_spacer.gif"></td>
+        </tr>
+        <tr>
+          <td height="53"><img src="http://www.rtd-denver.com/images/riderAlert_smallSidebar.gif" title="Rider Alert"></td>
+        </tr>
+        <tr>
+          <td height="85" background="http://www.rtd-denver.com/images/riderAlert_finder_BG2.gif">
+          <table height="35" border="0" cellspacing="0" cellpadding="0">
+            <tbody><tr>
+              <td valign="bottom" class="plannerGreyOne"> <label for="riderAlertRouteId">Route</label></td>
             </tr>
-        	</tbody></table>	
-			<script type="text/javascript" src="/scripts/schedules-autocomplete.js"></script>		
+            <form name="riderAlertFinder" onsubmit="javascript:validateRoute2();return false;" action="http://www3.rtd-denver.com/schedules/alertDetour/findAlertDetourByRoute.action"></form>
+            <tr> 
+              <td width="110" height="25" valign="top">
+               <div id="myAutoComplete">
+               <input name="alertDetourRouteId" type="text" class="schedFindFieldSm" style="margin-left:0px;width:110px" id="alertDetourRouteId" value="Ex: 86x" onfocus="this.value=''" autocomplete="off">
+               <div id="myContainer2"></div>
+               </div>  
+              </td>                     
+            </tr>
+            
+          </tbody></table>
+          <a href="http://www3.rtd-denver.com/schedules/alertDetour/getActiveAlertDetour.action" class="schedFindLink">See All Alerts</a><!--&nbsp;&nbsp;&nbsp;&nbsp; -->
+          <span style="font-size:1px">&nbsp;</span><br>
+          <a href="https://public.govdelivery.com/accounts/COTRANRTD/subscriber/new" class="schedFindLink">Subscribe</a>
+          </td>
+        </tr>
 
-		<!--- end right side Trip Planner and Schedule Finder ---></td>
-      </tr>
-    </tbody></table></td>
-  </tr>
-</tbody></table>
+		<!-- mobile tools icon for sidebar - don't display on the mobile tools page -->
+		<script type="application/javascript">
+		if(document.location.href != staticServer+"MobileTools.shtml") {
+			document.write('<tr>');
+			document.write('<td height="15"><img src="http://www.rtd-denver.com/images/clear_spacer.gif" /></td>');
+			document.write('</tr>');
+			document.write('<tr>');
+			document.write('<td><a href="http://www.rtd-denver.com/MobileTools.shtml"><img src="http://www.rtd-denver.com/images/mobiletools_sidebar.gif" alt="Mobile Tools" border="0" /></a></td>');
+			document.write('</tr>');
+		};
+		</script><tr><td height="15"><img src="http://www.rtd-denver.com/images/clear_spacer.gif"></td></tr><tr><td><a href="http://www.rtd-denver.com/MobileTools.shtml"><img src="http://www.rtd-denver.com/images/mobiletools_sidebar.gif" alt="Mobile Tools" border="0"></a></td></tr>
+
+        </tbody></table>	
+        <script type="text/javascript" src="http://www.rtd-denver.com/scripts/schedules-autocomplete.js"></script>  
+
+		<!--- end right side Trip Planner and Schedule Finder --->
+        </div>
+        </div>
+        </div>
+<!-- start flexpass footer code -->
+<!-- I know, crappy code, bad implementation, but it works... this stylesheet makes it work, needs to be here to override properly -->
+<link rel="stylesheet" type="text/css" href="/scripts/yui/build/fonts/fonts-min.css">
+
 <div class="noprint">
-    <div class="footerTable">
-      <div style="display:block;">
-        <div style="text-align:left; padding-left:8px; float:left; padding-top:6px;"><a href="http://www.rtd-denver.com/ContactUs.shtml" class="footerLink">Contact Us&nbsp;</a>&nbsp; | <a href="http://www.rtd-denver.com/careers.shtml" class="footerLink">Careers</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.rtd-denver.com/SiteMap.shtml" class="footerLink">Sitemap</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.rtd-denver.com/LostandFound.shtml" class="footerLink">Lost and Found</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.rtd-denver.com/index.shtml" class="footerLink">Home</a></div>
-        <div style="padding-top:8px; padding-left:50px; float:left; width:auto;">
+    <div class="footerTable" style="height:auto; overflow:hidden;">
+      	<div id="expandedFooter" style="padding:5px 8px 10px 8px;overflow:hidden;">
+        <div id="footerColumn">
+        <strong>Regional Transportation District</strong><br>
+        1600 Blake Street<br>
+        Denver, Colorado 80202<br><br>
+        <strong>303.299.6000</strong><br>
+        TDD 303.299.6089
+        </div><!-- #footerColumn -->
+        <div id="footerColumn">
+        <strong>Customer Support</strong><br>
+        <a href="http://www.rtd-denver.com/Priorities.shtml">Our Priorities</a><br>
+        <a href="http://www.rtd-denver.com/CustomerComments.shtml">Customer Comment Form</a><br> 
+        <a href="http://www.rtd-denver.com/ContactUs.shtml">Contact Numbers</a>
+        </div><!-- #footerColumn -->
+        <div id="footerColumn">
+        <strong>Stay Connected</strong><br>
+        <a href="http://www.facebook.com/RideRTD/" target="_blank">Facebook</a><br>
+        <a href="http://twitter.com/RideRTD/" target="_blank">Twitter</a><br>
+        <a href="http://www3.rtd-denver.com/elbert/news/archive/archiveIndex.cfm">RTD News</a><br>
+            <form action="https://public.govdelivery.com/accounts/COTRANRTD/subscribers/qualify" style="padding:0; margin:0;">
+            <label for="email">Email Updates:</label><br>
+            <input id="email" name="email" type="text" style="height:13px;">
+            <input name="commit" type="submit" value="Sign up">
+            </form>
+        </div><!-- #footerColumn -->
+        <div id="footerColumn">
+        <strong>Business Center</strong><br>
+        <a href="http://www.rtd-denver.com/Biz_DoingBiz.shtml">Doing Business with RTD</a><br>
+        <a href="http://www3.rtd-denver.com/elbert/CurrentSolicitations/index.cfm">Current Solicitations</a><br>
+        <a href="http://www.rtd-denver.com/Biz_DBESBE.shtml">DBE/SBE Info</a><br>
+        <a href="http://www.rtd-denver.com/BusLtRailAd.shtml">Advertising Opportunities</a><br>
+        <a href="http://www.rtd-denver.com/Biz_Forms.shtml">Forms</a></div><!-- #footerColumn -->
+        <div id="footerColumn">
+        <strong>Corporate</strong><br>
+        <a href="http://www.rtd-denver.com/BoardDirectors.shtml">Board of Directors</a><br>
+        <a href="http://www.rtd-denver.com/GeneralManager.shtml">General Manager</a><br>
+        <a href="http://www.rtd-denver.com/careers.shtml">Careers</a><br>
+        <a href="http://www.rtd-denver.com/MediaCenter.shtml">Media Center</a><br>
+        <a href="http://www.rtd-denver.com/EnvironmentalTopics.shtml">Sustainability</a><br>
+        <a href="http://www.rtd-denver.com/Reports.shtml">Reports and Policies</a><br>
+        </div><!-- #footerColumn -->
+        </div><!-- #expandedFooter -->
+        <div style="height:18px; vertical-align:middle; text-align:left; padding-right:11px; padding-left:8px; padding-top:6px; float:left; background-image:url(http://www.rtd-denver.com/images/cellPhone_icon.gif); background-position:right; background-repeat:no-repeat;">
+        <a href="http://www.rtd-denver.com/SiteMap.shtml" class="footerLink">Site Map</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+        <a href="http://www.rtd-denver.com/Privacy_Policy.shtml" class="footerLink">Privacy</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+        <a href="http://www.rtd-denver.com/TermsofUse.shtml" class="footerLink">Terms of Use</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+        <a href="http://m.rtd-denver.com/" class="footerLink">Mobile</a>
+        </div>
+        <div style="padding-top:8px; padding-left:200px; float:left; width:auto;">
           <form action="http://translate.google.com/translate" id="translateForm" onsubmit="setCurrentUrl()">
             <input value="en" name="hl" type="hidden">
-            <input value="https://web.archive.org/web/20091229023934id_/http%3A//www.rtd-denver.com/Privacy_Policy.shtml" name="u" id="u" type="hidden">
+            <input value="https://web.archive.org/web/20110614081819id_/http%3A//www.rtd-denver.com/Privacy_Policy.shtml" name="u" id="u" type="hidden">
             <input value="" name="langpair" type="hidden">
             <input alt="French flag" style="border:0; background:none; width:20px; height:12px" onclick="this.form.langpair.value=this.value" title="French" value="en|fr" type="image" src="http://www.rtd-denver.com/images/flag-fr.gif" name="langpair">
             <img src="http://www.rtd-denver.com/images/clear_spacer.gif" width="3" alt="spacer">
@@ -309,14 +463,15 @@ function IsKioWare()
             <input alt="Russian flag" style="border:0; background:none; width:20px; height:12px" onclick="this.form.langpair.value=this.value" title="Russian" value="en|ru" type="image" src="http://www.rtd-denver.com/images/flag-ru.gif" name="langpair">
           </form>
         </div>
-        <div style="padding-right:8px; padding-top:7px; float:right;" align="right">© 2009 Regional Transportation District</div>
-      </div>
+        <div style="padding-right:8px; padding-top:7px; float:right;" align="right">© 2011 Regional Transportation District</div>
     </div>
 </div>
+<br><br>
 <script language="JavaScript">
 document.getElementById('u').value=location.href;
 IsKioWare();
 </script>
+<!-- end flexpass footer code -->
 
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
