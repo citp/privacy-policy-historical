@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mundia.com privacy policy that was archived on 2010-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100919192235id_/http%3A//www.mundia.com/us/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mundia.com privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615013047id_/http%3A//www.mundia.com/us/PrivacyPolicy) for the most accurate reproduction.*
 
 # Mundia Privacy Policy
 
@@ -47,7 +47,7 @@ You may share personal information through the Website in a number of ways descr
   
 
   * **Non-searchable profiles:** If you do choose to change your profile from searchable to not searchable, please be aware that personal information will still be publicly available as follows:
-    * The personal information in your profile will always be viewable by your “Family Circle”. Your Family Circle automatically includes any of the following relatives who are also registered on Mundia and represented in profiles within your own family tree on Mundia: your spouse or partner; your siblings, children, parents, aunts, uncles and all of their spouses and partners; all generations of your grandchildren and grandparents; your nieces, nephews and first cousins. In addition, any time you invite another relative to your tree, when the relative accepts your invitation and joins Mundia, he or she will join your Family Circle and you will each be able to view the other's profile.
+    * The personal information in your profile will be viewable by anyone invited to your tree with “View Living” rights. For more information on the rights of those you invite to your tree, please [see the FAQ](https://web.archive.org/us/FAQ).
     * The personal information in any profile in your family tree may be publicly searchable and viewable if our algorithms categorize the individual as deceased (for example, if no birth date is included, or if the individual is older than 100, the individual may be defined as deceased).
     * Any personal information that is available on the profile of a deceased person (e.g., a photo of you and your deceased relative that is on your deceased relative's profile).
 
