@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the schuhstore.co.uk privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214113151id_/http%3A//www.schuh.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schuhstore.co.uk privacy policy that was archived on 2011-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110614054505id_/http%3A//www.schuh.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Schuh
 
@@ -10,7 +10,7 @@ We are committed to protecting your privacy and the security of any information 
 
 We will not gather or hold personal information about you unless you have given your express permission for us to do so. By placing an order, you will consent to the use of such personal information.
 
-Any personal information held or processed will be kept up-to-date and will be destroyed as soon as the reason for its collection or processing has lapsed. No personal data about customers will be passed to any third party, except to fulfil the delivery of the goods to you, and as is necessary to process credit or debit card payments.
+Any personal information held or processed will be kept up-to-date and will be destroyed as soon as the reason for its collection or processing has lapsed. No personal data about customers will be passed to any third party, except to offer you the opportunity to purchase from us, to fulfil the delivery of the goods to you, and as is necessary to process credit or debit card payments.
 
 Your privacy and confidence will be respected at all times.
 
@@ -22,9 +22,11 @@ This information may be provided to third party service providers for the purpos
 
 We may use your e-mail address to provide you with information on products, services, promotions and special offers where you have indicated that this is acceptable by checking the box on the ‘Delivery details page.
 
+If you supply your email address without placing an order, we may pass your email to a third party organisation in order to offer you the opportunity to purchase from us. Your email address will not be used for any other purpose and will not be held on file by ourselves or any third parties after the reason for collecting it has lapsed.
+
 #### Third parties
 
-We will not sell or pass your details to third party organisations except for the purpose of processing your offer to purchase the goods.
+We will not sell or pass your details to third party organisations except to offer you the opportunity to purchase from us, to fulfil delivery of the goods to you and for the purpose of processing your offer to purchase the goods.
 
 #### Consent
 
