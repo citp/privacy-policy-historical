@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cuny.edu privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228015156id_/http%3A//cuny.edu/website/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cuny.edu privacy policy that was archived on 2011-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110614221559id_/http%3A//www.cuny.edu/website/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Website Information - CUNY
 
