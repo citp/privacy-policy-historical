@@ -1,55 +1,93 @@
-> *The following text is extracted and transformed from the webdesignforums.net privacy policy that was archived on 2010-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100921222826id_/http%3A//www.webdesignforums.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webdesignforums.net privacy policy that was archived on 2011-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110614191007id_/http%3A//www.webdesignforums.net/pages/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Web Design Forums
+# Privacy Policy | WebDesignForums.net
 
-WebDesignForums.net ("Web Site") is owned and operated by RikeMedia. RikeMedia respects the privacy of its users, and this Privacy Policy explains what information we collect on our Web Site and how we use such information. Please read this Privacy Policy carefully. In addition, please review our Terms of Use, which governs your use of this Web Site. Your use of our Web Site indicates to us that you have read and accept our privacy practices, as outlined in this Privacy Policy. 
+**What information do we collect?**
 
-**This Privacy Policy Only Applies to This Web Site**
+We collect information from you when you register on our site or place an order.
 
-Please note that this Privacy Policy only applies to this Web Site. It is not applicable to the individual web sites owned, sponsored or operated by any of our affiliated, independent RikeMedia sites. While on our Web Site, you may encounter links to these or other web sites or online material. If you "click" on a link to such a third party, the "click" takes you off our Web Site and to a third parties web site, which is beyond RikeMedia's control. These other web sites may set their own cookies, collect data, and/or have their own privacy policies. This Privacy Policy only covers information collected at this Web Site, and does not cover any information collected by any other Web Site or offline by RikeMedia (unless specifically stated), its affiliates or any other site, and we encourage you to review the privacy policy of any other web site you visit. 
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address or date of birth. You may, however, visit our site anonymously.
 
-In addition, please note that this Privacy Policy does not apply to any information you may disclose publicly in any chat rooms, message boards, or similar web pages. You should keep in mind that whenever you publicly disclose information about yourself online ñ for example, via message boards or chat rooms ñ that information could be collected and used by people that you do not know. In addition, certain message boards and similar user forums may display IP addresses along with the message poster's name and message. RikeMedia bears no responsibility for any action or policies of any third parties who collect any information users may disclose on the message boards, chat areas or other user forums, if any, on this Web Site. 
+Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
 
-**Information RikeMedia / WebDesignForums.net Collects**
+**What do we use your information for?**
 
-Personally Identifiable Information ("PII"): Generally, you may browse our Web Site without providing us with personally identifiable information about yourself, which is information that could reasonably be used to identify you personally (such as your name, address, birth date or e-mail address), which we refer to as "PII". However, there may be times when we ask you to provide us with certain PII, such as when you choose to register with our Web Site and/or for newsletters or choose to participate in an online contest, sweepstakes or survey. We may also ask you to provide us with demographic information or information regarding your interests, hobbies or similar information. RikeMedia reserves the right, at any time, to add features to our Web Site that require you to register or otherwise provide PII, including credit card information, or to require registration to access our Web Site. You can choose not to provide certain information, but then you may not be able to take advantage of or participate in many of the Web Site features. We may combine the information we collect with information available from other sources, including information received from promotional partners or other third parties. 
+Any of the information we collect from you may be used in one of the following ways:
 
-We may provide you the opportunity to e-mail a friend an article, electronic greeting card or other special feature from our Web Site. The e-mail addresses you supply us for those activities will be used to send the requested e-mail and will not be used to send you or your friend any other e-mail communications. 
+; To personalize your experience  
+(your information helps us to better respond to your individual needs)
 
-This Web Site does not knowingly collect PII from children under thirteen (13) years of age: This is not a web site directed to children under the age of 13, and RikeMedia does not knowingly collect any information from children under 13 years of age at this Web Site. If you are under 13 years of age, do not send any information about yourself to RikeMedia. If RikeMedia discovers that a child under the age of 13 has provided this Web Site with PII, RikeMedia will delete that child's PII from its system. 
+; To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
-Anonymous Information: When you visit this Web Site, our web servers automatically collect web site usage information. Web site usage information is anonymous information that describes how our visitors use and navigate our Web Site, and it includes the number and frequency of visitors to each web page and the length of their stays. We collect the anonymous information automatically sent to us by your web browser, such as browser type, referrer data that identifies the web page visited prior and subsequent to visiting our Web Site, and IP address. We also may determine what technology is available through your browser in order to serve you the most appropriate version of a web page. For example, we may determine that you have installed a version of Flash, and we will then send you the appropriate Flash version of the web page rather than an HTML page. 
+; To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs)
 
-IP Addresses: An IP address is a number that is assigned to your computer or network when you are on the Internet. When visitors request pages from our Web Site, our servers log the visitor's IP address. We may collect IP addresses for a variety of internal purposes, such as system administration, to report aggregate information to our site partners or to audit the number of visits to different pages on our Web Site. Please note that some services within our Web Site, such as certain message boards, may display IP addresses along with the message poster's name and message. In most cases IP addresses are only used for statistical traffic reference. 
+; To process transactions
 
-Cookies: Cookies are information files that our Web Site may place on your computer to provide extended functionality and to personalize your experience at our Web Site. We may use cookies for a number of purposes. For example, we may use cookies to track usage patterns on the Web Site and we may use cookies when we conduct polls and sweepstakes to limit multiple responses and registrations. Or, we may use cookies to record registration and personalization information, enabling you to save your user name and password. We do not store any PII in cookies, but we may link the cookie to any information we collect. You can, of course, disable cookies on your computer by indicating this in the preferences or options menus in your browser. However, it is possible that some parts of the Web Site will not operate correctly if you disable cookies. You should consult with your browser's provider/manufacturer if you have any questions regarding disabling cookies. 
+> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested. 
 
-**RikeMedia's Use and Disclosure of Collected Information**
+  
+; To administer a contest, promotion, survey or other site feature
 
-RikeMedia: RikeMedia may use your PII to provide the information or content you have requested, to contact you or to fulfil prizes in connection with a contest or sweepstakes, to contact you about RikeMedia programs, products, features or services, or for other purposes disclosed at the time of collection. We may also use your PII to contact you regarding your use of our Web Site or changes to our Privacy Policy, Terms of Use or other policy or terms that affect you and your use of our Web Site. If you e-mail someone else an article, electronic greeting card or other special feature from our Web Site, we will use the information you provide about someone else to send that person the requested e-mail. RikeMedia may use information collected about our users to improve the content and navigation of our Web Site, or for other internal purposes. 
+; To send periodic emails
 
-Third parties providing services on our behalf: RikeMedia may employ other companies and individuals to perform functions on its behalf. Examples may include hosting this Web Site, sending communications on our behalf, hosting message boards or other user forums, analyzing data, providing marketing assistance, creating, hosting and/or running contests/sweepstakes/games and providing customer service. These third parties may have access to our users' PII in order to provide these services to us or on our behalf, but they may not use it for other purposes. 
+> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order. 
 
-Other Third Parties: RikeMedia may disclose anonymous, aggregated user statistics to third parties for a variety of purposes. For example, we may disclose how many individuals visited certain areas of our Web Site, or how many men or women receive our newsletter. 
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
-RikeMedia does not rent, sell or otherwise disclose your PII to third parties unless disclosed to you at the time such information is collected or unless you otherwise give consent, other than in the following limited circumstances: 
+**How do we protect your information?**
 
-Legal action. RikeMedia may disclose information about its users, including PII, when legally required to do so, at the request of governmental authorities conducting an investigation, to verify or enforce compliance with the policies governing our Web Site and applicable laws, or to protect against misuse or unauthorized use of our Web Site. RikeMedia may also disclose user information whenever we believe disclosure is necessary to limit our legal liability, to protect or defend our rights or property or protect the safety, rights or property of our users. 
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information.
 
-Corporate change. RikeMedia may sell, transfer or otherwise disclose user information, including PII, in connection with a corporate merger, consolidation, the sale of substantially all assets, or other fundamental corporate change. 
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to?keep the information confidential.
 
-**Security**
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
 
-RikeMedia takes steps to secure the data you submit to us, including limiting the number of people who have physical access to our user data. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. Therefore, RikeMedia cannot ensure or warrant the security of any information you transmit to RikeMedia and you do so at your own risk. 
+**Do we use cookies?**
 
-**Consent to Transfer**
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
 
-This Web Site is operated from the UK and USA. Please be aware that any information you provide to us will be transferred to our servers in the United States. By using our Web Site, participating in any of our services and/or providing us with your information, you consent to this transfer. 
+We use cookies to understand and save your preferences for future visits.
 
-**Acceptance**
+**Do we disclose any information to outside parties?**
 
-By using this Web Site, you agree to the terms of this Privacy Policy. RikeMedia reserves the right to modify, alter or otherwise update this Privacy Policy at any time. We will post any changes here, so be sure to check back from time to time. However, we will only use the PII you provide to this Web Site in a manner consistent with this Privacy Policy, unless you give us your consent. 
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-**Contact Us**
+**Third party links**
 
-If you have any questions, comments or concerns about our Privacy Policy, please contact us using the contact link on the footer of our website . 
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+**California Online Privacy Protection Act Compliance**
+
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+
+As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the 'Edit Profile' page.
+
+**Childrens Online Privacy Protection Act Compliance**
+
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+
+**Terms and Conditions**
+
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.webdesignforums.net/pages/terms/](http://www.webdesignforums.net/terms/)
+
+**Your Consent**
+
+By using our site, you consent to our websites privacy policy.
+
+**Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
+
+This policy was last modified on 13th Feb 2011
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may contact us using the information below.
+
+http://www.webdesignforums.net  
+11 Harness Way  
+St Albans, Hertfordshire AL4 9HA  
+United Kingdom  
+contact@rikemedia.com
