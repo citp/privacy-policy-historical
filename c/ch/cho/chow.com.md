@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chow.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230014806id_/http%3A//www.cnet.com/html/aboutcnet/editorial/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chow.com privacy policy that was archived on 2011-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110614211649id_/http%3A//www.cnet.com/html/aboutcnet/editorial/privacy.html) for the most accurate reproduction.*
 
 # CBS Interactive Privacy Policy Highlights
 
