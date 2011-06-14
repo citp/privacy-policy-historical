@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the chelseagreen.com privacy policy that was archived on 2010-12-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101229174638id_/http%3A//www.chelseagreen.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the chelseagreen.com privacy policy that was archived on 2011-06-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110614213155id_/http%3A//www.chelseagreen.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
@@ -22,8 +22,17 @@
 
 <link rel="pingback" href="http://www.chelseagreen.com/content/xmlrpc.php">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.chelseagreen.com/content/xmlrpc.php?rsd">
-
-
+<!-- Code to capture newsletter signup pageviews -->
+<script>
+ function recordOutboundLink() {
+               try {
+                var pageTracker=_gat._getTracker("UA-405119-1");
+                pageTracker._trackPageview("/NewsletterSignup");
+                //pageTracker._trackEvent(category, action);
+                document.newsletter_signup.submit();
+                }catch(err){}
+          }
+</script>
 
 </head>
 <body>
@@ -31,11 +40,23 @@
 
 <div id="centered">
 <div id="top">
+<a id="logolink" href="http://www.chelseagreen.com/" target="_self"></a>
 <!--	<div id="logo">&nbsp;</div> -->
 <!--	<div id="ad_top"></div> -->
 
 <!-- /////// TEMPORARY BETA TAG //////// -->
 <!--<div id="beta">temp notices here</div> -->
+
+<div id="newsletterform">
+<span class="joinus">Join Us!</span><br>
+	<form method="post" target="_blank" action="http://visitor.constantcontact.com/d.jsp" name="ccoptin" id="newsletter_signup">
+	<input type="text" name="ea" id="newsletter_email" class="news_email" value="email" onfocus="javascript:if (this.value == 'email'){this.value='';this.style.color='#000000';}" onblur="javascript:if(this.value==''){this.value='email';this.style.color='#999999';}"><br>
+       
+        <input type="text" name="pc" class="news_zip" value="zip code" onfocus="javascript:if (this.value=='zip code'){ this.value='';this.style.color='#000000';}" onblur="javascript:if(this.value==''){this.value='zip code';this.style.color='#999999';}"><input type="submit" onclick="recordOutboundLink();" class="news_submit" value="I'M IN!">
+	<input type="hidden" value="1011273013164" name="m">
+	<input type="hidden" value="oi" name="p">
+    </form>
+</div>
 
 </div>
 <div id="menu">
@@ -45,6 +66,15 @@
 	<div id="menu_tool_search" class="tools">
 		<form action="http://www.chelseagreen.com/search" method="POST" name="search"><input type="text" name="search_terms" id="topbar_search" value=" search site" onfocus="javascript:this.value='';this.style.color='#000000';">&nbsp;<input type="image" src="http://www.chelseagreen.com/common/images/search_button.png" align="top"></form>	
 	</div>
+
+	<div id="shareicons">
+	<ul>
+	<li class="twitter"><a href="http://twitter.com/#!/chelseagreen" alt="twitter" target="_blank"></a></li>
+	<li class="facebook"><a href="http://www.facebook.com/pages/White-River-Junction-VT/Chelsea-Green-Publishing/26981788148" alt="facebook" target="_blank"></a></li>
+	<li class="rss"><a href="http://feeds2.feedburner.com/ChelseaGreenFullFeed" alt="rss" target="_blank"></a></li>
+	</ul>
+	</div> 
+
 	<div id="spacer">&nbsp;</div>
 	<div id="menu_tab_news" class="dormant_tab_news"><div id="menu_tab_news_text"><a href="http://www.chelseagreen.com/">News</a></div></div>
 	<div id="menu_tab_store" class="dormant_tab_store"><div id="menu_tab_store_text"><a href="http://www.chelseagreen.com/bookstore">Our Books</a></div></div>
@@ -179,7 +209,7 @@
 Chelsea Green Publishing, 85 North Main Street, Suite 120, White River Jct., Vermont 05001<br>
 Orders: 800.639.4099&nbsp;&nbsp;&nbsp;Offices: 802.295.6300&nbsp;&nbsp;&nbsp;Fax: 802.295.6444<br><br>
 
-Copyright © 2010 Chelsea Green Publishing. All Rights Reserved.
+Copyright © 2011 Chelsea Green Publishing. All Rights Reserved.
 </div>
 		</td>
 		<td valign="top">
@@ -267,19 +297,18 @@ UserVoice.Tab.show({
 </script>
 -->
 <!-- UserVoice -->
+	<!-- Begin Google Analytics Code12 -->
 
-<!-- Begin Google Analytics Code -->
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-var pageTracker = _gat._getTracker("UA-405119-1");
-pageTracker._initData();
-pageTracker._trackPageview();
-</script>
-
-<!-- End Google Analytics Code -->
+	<script type="text/javascript">
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+	</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+	<script type="text/javascript">
+	var pageTracker = _gat._getTracker("UA-405119-1");
+	pageTracker._initData();
+	pageTracker._trackPageview();
+	</script>
+	<!-- End Google Analytics Code -->
 
 
 
