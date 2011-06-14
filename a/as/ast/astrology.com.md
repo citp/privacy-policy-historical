@@ -1,19 +1,19 @@
-> *The following text is extracted and transformed from the astrology.com privacy policy that was archived on 2010-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100821051043id_/http%3A//www.ivillage.com/about/0%2C%2Cqqzh%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astrology.com privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615014840id_/http%3A//www.ivillage.com/about/0%2C%2Cqqzh%2C00.html) for the most accurate reproduction.*
 
-# Privacy Policy for iVillage
+# Privacy Policy - iVillage
 
 This Privacy Policy was last updated on April 29, 2009
 
  **Introduction:** At iVillage, Inc. we realize the importance of feeling safe online and are fully committed to ensuring that your privacy is respected and protected. Our Privacy Policy below outlines the type of information we collect and receive from you while you are within the iVillage Network, as well as ways in which we process and, sometimes, share such information and how you can correct or change such information. The iVillage Network is defined as the network of websites and services that are owned and operated by iVillage, Inc. and its subsidiaries. Each site included within the iVillage Network is governed by this Privacy Policy unless otherwise noted on such site.
 
- **PLEASE REVIEW THIS PRIVACY POLICY AND THE TERMS OF SERVICE FOR THE IVILLAGE NETWORK CAREFULLY. YOUR USE OF THIS SITE SIGNIFIES YOUR AGREEMENT TO SUCH PRIVACY POLICY AND TERMS OF SERVICE.SUCH PRIVACY POLICY AND TERMS OF SERVICE.**  
-
+**PLEASE REVIEW THIS PRIVACY POLICY AND THE TERMS OF SERVICE FOR THE IVILLAGE NETWORK CAREFULLY. YOUR USE OF THIS SITE SIGNIFIES YOUR AGREEMENT TO SUCH PRIVACY POLICY AND TERMS OF SERVICE.SUCH PRIVACY POLICY AND TERMS OF SERVICE.**
 
   1. How iVillage Collects Information
 
 
-* Personal Data you provide
-* Information iVillage collects
+  * Personal Data you provide
+  * Information iVillage collects
+
 
   2. Our Use of Your Information
   3. Disclosure of Personally Identifiable Information to Third Parties
@@ -21,7 +21,7 @@ This Privacy Policy was last updated on April 29, 2009
   5. Third Party Advertising and Links to other Sites.
   6. Access and Correction
   7. Guidelines regarding children
-  8. Public forums/chat rooms/message boards/bulletin boards/social 
+  8. Public forums/chat rooms/message boards/bulletin boards/social
 networking 
   9. How we protect and secure your information
   10. Applicable Law
@@ -39,16 +39,16 @@ _Member Registration_
 In order to use many of iVillage's features, tools and services, we ask you to register to become a member. During this member registration process, we will ask you for Personally Identifiable Information. In addition, you may choose to provide iVillage with additional information including marital status, household income, education and employment status.
 
 _Email Newsletters_  
-iVillage offers electronic newsletters on a variety of topics. If you subscribe to any of these newsletters, you will be required to provide a valid email address as well as any other information that is relevant to the delivery of the newsletter (e.g., certain Astrology.com newsletters require you to provide your birthday). 
+iVillage offers electronic newsletters on a variety of topics. If you subscribe to any of these newsletters, you will be required to provide a valid email address as well as any other information that is relevant to the delivery of the newsletter (e.g., certain Astrology.com newsletters require you to provide your birthday).
 
 _Surveys and Polls_  
 iVillage offers online surveys and questionnaires that ask users for opinions on various issues and/or other information. Occasionally, we may request demographic information (like zip code, age or gender) when you answer a survey. Such surveys are completely voluntary.
 
 _Sweepstakes and Contests_  
-We regularly operate sweepstakes, contests and giveaways throughout the iVillage Network. We typically ask you for your email address and/or phone number (to notify you if you've won, or not). We also ask for first and last names, and sometimes post office addresses in order to verify the entrant's identity. In some situations, we need additional information as part of the entry process, such as a prize selection choice. 
+We regularly operate sweepstakes, contests and giveaways throughout the iVillage Network. We typically ask you for your email address and/or phone number (to notify you if you've won, or not). We also ask for first and last names, and sometimes post office addresses in order to verify the entrant's identity. In some situations, we need additional information as part of the entry process, such as a prize selection choice.
 
 _ECommerce Transactions_  
-When you engage in an ecommerce transaction on the iVillage Network you may be asked to provide credit card information and other Personally Identifiable Information in order to complete the transaction. 
+When you engage in an ecommerce transaction on the iVillage Network you may be asked to provide credit card information and other Personally Identifiable Information in order to complete the transaction.
 
 _Health Information_  
 In order to use some of the tools and services on the iVillage Total Health pages you may be asked to provide information about your health. When you provide this information, in certain circumstances iVillage will associate it with Personally Identifiable Information.
@@ -61,7 +61,7 @@ When you visit the iVillage Network and interact with the services and tools tha
 
  _IP Address_
 
-Your IP address is a number that is assigned by your ISP (Internet Service Provider) to your computer to identify its location. We use your IP address to help diagnose problems with our server and to administer our website. We also sometimes use IP addresses to communicate with members and subscribers and possibly even ban those members who are not complying with our [Terms of Service](http://www.ivillage.com/about/0,,qr4p,00.html).
+Your IP address is a number that is assigned by your ISP (Internet Service Provider) to your computer to identify its location. We use your IP address to help diagnose problems with our server and to administer our website. We also sometimes use IP addresses to communicate with members and subscribers and possibly even ban those members who are not complying with our [Terms of Service](https://web.archive.org/terms-of-service/8-a-257158).
 
           
 
@@ -69,15 +69,15 @@ _Cookies_
 
 Our site uses a feature of your browser to set a "cookie" on your computer. Cookies are small packets of information that a site's computer stores on your computer. The iVillage Network can then read the cookies whenever you visit the iVillage websites. We use cookies to save your password so you don't have to re-enter it each time you visit our site, to deliver content specific to your interests, to track the pages you've visited and to make sure you don't see the same ads repeatedly. These cookies allow us to use the information we collect to customize your iVillage experience so that your visit to iVillage is as relevant and as valuable to you as possible.
 
-You may modify your browser preference to provide you with choices relating to cookies. You have the choice to accept all cookies, to be notified when a cookie is set or to reject all cookies. If you choose to reject cookies you may be unable to use those iVillage services that require registration in order to participate or will have to sign in each time you visit the iVillage Network. 
+You may modify your browser preference to provide you with choices relating to cookies. You have the choice to accept all cookies, to be notified when a cookie is set or to reject all cookies. If you choose to reject cookies you may be unable to use those iVillage services that require registration in order to participate or will have to sign in each time you visit the iVillage Network.
 
 Our advertising is currently served by third party advertising companies which deliver a cookie to you so the ads you see can be tracked and ensure that you are not shown the same ad too many times. Since the third party advertising company only tags your computer with a number, they know nothing about who you are. iVillage does not provide these third party advertising companies with any personally identifiable information. However, these companies may use non-personally identifiable information about your visits to the iVillage Network and other sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/optout_nonppii.asp).
 
 **2\. How iVillage uses Information it collects**
 
-iVillage uses the information you provide for several purposes, such as to communicate with you and to give you a better experience when visiting the iVillage Network by personalizing tools, content, services and email messages. iVillage also uses this information to build new services and develop offers that iVillage believes are more relevant and valuable to you. 
+iVillage uses the information you provide for several purposes, such as to communicate with you and to give you a better experience when visiting the iVillage Network by personalizing tools, content, services and email messages. iVillage also uses this information to build new services and develop offers that iVillage believes are more relevant and valuable to you.
 
-The information collected by iVillage is also used to create aggregated portraits of the iVillage audience, portraits which present anonymous statistical demographic information but no personally identifiable information. This aggregated information is used, among other things, to determine trends and needs, and also to supply market research to potential advertisers and partners to help them understand who the iVillage audience is. For example, we may create a report that tells advertisers that 60 percent of our members are females in a certain age range, so that they can determine which of their products or services are most appropriate for our members. 
+The information collected by iVillage is also used to create aggregated portraits of the iVillage audience, portraits which present anonymous statistical demographic information but no personally identifiable information. This aggregated information is used, among other things, to determine trends and needs, and also to supply market research to potential advertisers and partners to help them understand who the iVillage audience is. For example, we may create a report that tells advertisers that 60 percent of our members are females in a certain age range, so that they can determine which of their products or services are most appropriate for our members.
 
 iVillage offers the ability to forward an article to another person via email. If you use this service, we will use the recipient's email address in order to send the article or postcard and we will also ask for your email address. We do not use the recipient's email address for any other purpose unless such recipient gives us permission to do so.
 
@@ -110,7 +110,7 @@ The iVillage Network contains links to advertiser and partner websites that are 
 
 **6\. Access and Correction**
 
-iVillage provides you with the ability to access, correct or change the Personally Identifiable Information in your member portrait at any time, including contact information or other information you've provided to us. However, you cannot currently change your member name although you may re-register and choose a new name. To review, modify or delete your member information, please [click here](https://subscriber.ivillage.com/login/login?dt=actm&cmd=a). Please be advised that iVillage currently archives information it collects on its members and visitors. 
+iVillage provides you with the ability to access, correct or change the Personally Identifiable Information in your member portrait at any time, including contact information or other information you've provided to us. However, you cannot currently change your member name although you may re-register and choose a new name. To review, modify or delete your member information, please [click here](https://subscriber.ivillage.com/login/login?dt=actm&cmd=a). Please be advised that iVillage currently archives information it collects on its members and visitors.
 
 **7\. Guidelines regarding children**
 
@@ -118,7 +118,7 @@ Personal information about children is a concern for all of us. At iVillage, we 
 
 **8\. Public forums/chat rooms/message boards/bulletin boards/social networking**
 
-Throughout the iVillage Network various public forums such as chat rooms, message boards, "ask the expert" areas and various question and answer areas are available to you as a registered iVillage member. 
+Throughout the iVillage Network various public forums such as chat rooms, message boards, "ask the expert" areas and various question and answer areas are available to you as a registered iVillage member.
 
 Please remember that any information you disclose in these public forum areas becomes public information and is immediately accessible on the iVillage Network, so it is important for you to exercise discretion and appropriate caution when deciding to reveal personal information in these areas. iVillage may decide to utilize the content of Q&A's, interactions with experts, and/or chat room and message board content throughout the iVillage Network and in promotions in order to enhance iVillage's editorial, advertising, promotional and similar activities. In those cases, we often provide authorship credit by listing the author's member name. We therefore encourage you to use care in protecting your identity when you choose a member name and to keep your member name confidential.
 
@@ -126,7 +126,7 @@ Within the social networking platform, iVillage Connect, you have the ability to
 
 **9\. How we protect and secure your information**
 
-iVillage has numerous security measures in place to protect you from the loss, misuse and alteration of the information under our control, including your credit card information if you choose to conduct an e-commerce transaction on the iVillage Network. All of your member information require use of your password. We recommend that you do not share your password with anyone. iVillage uses industry-standard tools, such as firewalls, to ensure that your information is secure and confidential. 
+iVillage has numerous security measures in place to protect you from the loss, misuse and alteration of the information under our control, including your credit card information if you choose to conduct an e-commerce transaction on the iVillage Network. All of your member information require use of your password. We recommend that you do not share your password with anyone. iVillage uses industry-standard tools, such as firewalls, to ensure that your information is secure and confidential.
 
 **10\. Applicable Law**
 
@@ -134,7 +134,7 @@ We control and operate the iVillage Network from the United States. The iVillage
 
 **11\. Changes to this Privacy Policy**
 
-We will notify our members when we make any significant changes to our Privacy Policy that affect the use of any personally identifiable information we collect. We will not make new use of any Personally Identifiable Information which iVillage gathered from individual members or visitors prior to any such significant change in our Privacy Policy without first obtaining the member's or visitor's consent for any new uses. In instances where we ask for your Personally Identifiable Information and we tell you the data we are collecting on that page will be shared with unaffiliated third parties, and in cases where a member, visitor or subscriber to the iVillage Network opts-in to share his/her information with third parties, those disclosures and opt-ins will override anything to the contrary in this Privacy Policy. In addition, iVillage reserves the right to make non-significant changes to our Privacy Policy that will not affect iVillage's use of a user's Personally Identifiable Information at any time without any notice to you other than posting any such changes in a revised Privacy Policy on the iVillage Network. We encourage you to periodically review our Privacy Policy to be sure you are familiar with the most current version. The Privacy Policy will include the most recent date in which any revision has been made. Please note that this Privacy Policy is also incorporated into iVillage's Terms of Service. 
+We will notify our members when we make any significant changes to our Privacy Policy that affect the use of any personally identifiable information we collect. We will not make new use of any Personally Identifiable Information which iVillage gathered from individual members or visitors prior to any such significant change in our Privacy Policy without first obtaining the member's or visitor's consent for any new uses. In instances where we ask for your Personally Identifiable Information and we tell you the data we are collecting on that page will be shared with unaffiliated third parties, and in cases where a member, visitor or subscriber to the iVillage Network opts-in to share his/her information with third parties, those disclosures and opt-ins will override anything to the contrary in this Privacy Policy. In addition, iVillage reserves the right to make non-significant changes to our Privacy Policy that will not affect iVillage's use of a user's Personally Identifiable Information at any time without any notice to you other than posting any such changes in a revised Privacy Policy on the iVillage Network. We encourage you to periodically review our Privacy Policy to be sure you are familiar with the most current version. The Privacy Policy will include the most recent date in which any revision has been made. Please note that this Privacy Policy is also incorporated into iVillage's Terms of Service.
 
 **12\. Contact information**
 
