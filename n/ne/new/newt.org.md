@@ -1,74 +1,32 @@
-> *The following text is extracted and transformed from the newt.org privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229062057id_/http%3A//www.newt.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newt.org privacy policy that was archived on 2011-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110614192736id_/http%3A//www.newt.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Newt.org
+# Privacy Policy | Newt Gingrich 2012
 
-**Privacy Policy**
+**At Newt 2012 we are committed to protecting your privacy online. While using our website, you do not have to identify yourself or divulge personal information. If you should choose to give us your personal information, you decide the amount of information you wish to provide.**
 
-Newt.org is committed to safeguarding your privacy online. To understand how your personal information will be treated please read the following policy. This policy may change from time to time so please check back periodically.  
-This policy will let you know:
+Our site links to a limited number of other websites. Newt 2012 is not responsible for the content or the privacy policies of these websites. We encourage you to read the privacy statements for each website you visit. Newt 2012 will occasionally update this privacy policy as changes to the site necessitate it. When Newt 2012 posts changes to this policy, you will see the word “updated” next to the privacy policy link on the front page of this website. We encourage you to periodically review this policy to be informed of how we are protecting your information.
 
-1\. What personally identifiable information is collected from you;  
-2\. What cookies are and how they are used;  
-3\. How your information is used;  
-4\. Who is collecting your information;  
-5\. With whom your information may be shared;  
-6\. How you can access, update or delete your information;  
-7\. The kind of security precautions that are in place to protect the loss, misuse, or alteration of your information;  
-8\. How newt.org protects children's privacy; and  
-9\. What else you should know about your online privacy.
+Our website has a number of security measures in place to protect against the loss, misuse or alteration of the information under our control. Computer systems have restricted access limited only to those persons and organizations necessary to its proper functioning. This access applies to all electronic and physical security measures. Highly sensitive data including credit card information is additionally secured through the use of encryption, such as the Secure Socket Layer (SSL) software. Our servers are located in a locked, secure environment.
 
-**1\. What personally identifiable information does newt.org collect from me?  
-** Newt.org collects the information you give when you register to get updates from newt.org. During registration, newt.org asks for your name, email address, and zip code.  You also have the option of giving Newt.org your mailing address, phone number, fax, sometimes your occupation, and personal interests.
+To comply with Federal election law and the regulations of the Federal Election Commission, we are required to make our best efforts to collect and report the name, mailing address, occupation and name of employer of individuals whose contributions aggregate in excess of $200 per election cycle. Generally, contributions are non-refundable. Should you choose to contribute, you will receive an email confirmation of your contribution. For questions about your contribution, please email us [here](https://web.archive.org/contact).
 
-In addition to registration we may ask you for personal information at other times, including (but not limited to) when you participate in a special project or event enter sponsored by newt.org. If you contact newt.org we may keep a record of that correspondence. Wherever newt.org collects personal information we make an effort to include a link to this Privacy Policy on that page.
+On registration, sign-up and contribution forms on Newt 2012 we may ask for your name, address, telephone number, credit card information, bank account information, email address and/or IM address as well as the name of the person who referred you to the site. This is done in order to credit those who are organizing volunteer support or fundraising for Newt 2012. We may obtain information about you from outside sources and add it to or combine it with the information we collect through this site. We are committed to protecting your privacy online. While using our website, you do not have to identify yourself or divulge personal information. If you should choose to give us your personal information, you decide the amount of information you wish to provide.  
+We may also use your email address to provide you news and information about Newt 2012. We may also use your zip code and state to send you email messages about upcoming events or activities in your area.
 
-**2\. What are cookies and how does newt.org use them?  
-** As part of offering and providing customizable and personalized services, newt.org uses cookies to store some information about you. A cookie is a small amount of data that is sent to your browser from a web server and stored on your computer's hard drive. (See "What are my choices regarding collection, use and distribution of my information?" for more information on cookies.)
+When you sign one of our petitions, we treat your name, city, state, and any comments as public information. We may, for example, provide compilations of petitions, with your comments, to national leaders, without disclosing email addresses. We may also make comments along with your city and state available to the press and public online.
 
-**3\. How does newt.org use my information?  
-** Newt.org's primary goal in collecting personal information is to provide you, the user, with a updates that you are interested in, like what Newt is doing, books that he has reviewed, speeches, opinion columns, TV and radio appearances, or other projects.
+We have established and maintain profiles and pages on several third-party social-networking and user-generated content websites. Newt 2012 is not responsible for the content of individual users or the privacy policies of these websites. We encourage you to read the privacy statements for each of these websites website you join.  
+We may contact you via these websites using any contact methods that exist on the website and are within the website’s terms of service agreement.  
+Newt 2012 reserves the right to republish any content that you publicly post or share on our social-networking and user-generated profiles/pages without compensation for use on our website or in any other communications or advertisements and for use with other individuals or entities, including other internet users, as well print or broadcast news media to use such material in their communications.
 
-You can opt out of receiving emails by clicking the “unsubscribe” link at the bottom of an email.
+**Cookies:**  
+A cookie is a very small text file that is placed on your hard drive. Cookies do not contain any personal information about you. You can opt-out of our use of cookies by disabling cookies on your browser.  We use cookies to tailor your experience on our site according to the preferences you have specified. When you visit the Newt 2012 website we only access the cookie file that we have stored on your computer. We cannot and do not access any information stored in a cookie by other websites. Our cookies do not contain any personal identifiable information. IP Addresses and Log File Data.  
+We log the IP address, which is the location of your computer or network on the Internet, for systems administration and troubleshooting purposes. We also use page hits in the aggregate to track the popularity of pages that people visit in order to improve the quality of the site. There is no personal identifiable information collected in our log files.
 
-**4\. Who is collecting information?  
-** When you are on newt.org and are asked for personal information, you are sharing that information with newt.org alone, unless it is specifically stated otherwise. 
+**Children’s Online Privacy Protection Act of 1998:**  
+We comply with the Children’s Online Privacy Protection Act of 1998 (COPPA). COPPA and its accompanying FTC regulations establish United States federal law that protects the privacy of children using the Internet. We do not knowingly contact or collect personal information from children under 13. Our site is not intended to solicit information of any kind from children under 13, and we have designed our sites to block our knowing acceptance of information from children under 13 whenever age-related information is requested.
 
-In particular, since Newt's free weekly newsletter is distributed by HumanEvents.com, signing up at Newt.org will automatically enroll you to receive Newt's newsletter from HumanEvents.com.  Signing up at Newt.org will not enroll you in any other of HumanEvents.com's newsletters.
+Parents with questions may email us [here](https://web.archive.org/contact).
 
-Please be aware that newt.org Internet access partners, advertisers, and web sites that have links on our site may collect personally identifiable information about you. The information practices of those Internet access partners, advertisers, and web sites linked to newt.org are not covered by this privacy statement.
-
-**5\. With whom does newt.org share my information?  
-** As a general rule, newt.org will not disclose any of your personally identifiable information except when we have your permission or under special circumstances, such as when we believe in good faith that the law requires it or under the circumstances described below.
-
-Business Partners & Sponsors : newt.org may disclose your personal information to business partners or sponsors, but this is specifically described to you prior to data collection or prior to transferring the data.
-
-Many promotions offer opportunities to request additional information from sponsors. By requesting more information, you give newt.org permission to transfer your personal information to the sponsor so they can fulfill your request. In many instances, only your email address will be shared. If more information will be shared with the sponsor, you will be notified prior to the transfer.
-
-Newt.org partners with HumanEvents.com to distribute Newt’s free weekly newsletter.  We may from time to time also work with HumanEvents.com to send you special offers and advertisements for products or services offered by third parties. We will not disclose any of your personal information to such third parties when we do this.  Sending you offers from our sponsors is one of the ways we financially sustain Newt.org’s operations so we can continue to provide you with Newt’s latest analysis and news.
-
-Other: newt.org may also disclose account information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) newt.org's rights or property, other newt.org users, or anyone else that could be harmed by such activities. Newt.org may disclose or access account information when we believe in good faith that the law requires it.
-
-**6\. How you can access, update or delete your information?  
-** You have choices with respect to cookies. By modifying your browser preferences, you have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies. If you choose to reject all cookies you will be unable to use those newt.org services that require registration in order to participate. You can still use newt.org, read but not post even if you do not accept cookies.
-
-Newt.org does not share user information with anyone. From time to time Newt.org or our partners at HumanEvents.com may send you a message about third party events or promotions and it will be up to you to share your information with that party, but newt.org will not share that information with any third party.
-
-**7\. What is newt.org's policy on allowing me to update, correct, or delete my personally identifiable information?  
-** You may change or request that newt.org delete you information at anytime by submitting a change request. You must identify the e-mail address that you are receiving our messages from.
-
-**8\. What security precautions are in place to protect the loss, misuse, or alteration of my information?  
-** Whenever newt.org handles personal information as described above, regardless of where this occurs, newt.org takes steps to ensure that your information is treated securely and in accordance with this Privacy Policy.
-
-Unfortunately, no data transmission over the Internet or any wireless network can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, newt.org cannot ensure or warrant the security of any information you transmit to us or from our online products or services, and you do so at your own risk. Once we receive your transmission, we make our best effort to ensure its security on our systems.
-
-**9\. What about children's privacy?  
-** Naturally, the safety of children is very important to us. Newt.org recommends that parents review all the sites their children visit to ensure that age appropriate content.
-
-Newt.org is a general audience web site that complies with the Children's Online Privacy Protection Act.
-
-Under the Children's Online Privacy Protection Act, no web site operator is permitted to require a child under the age of 13 to disclose more information than is reasonably necessary to participate in an activity as a condition of participation. Newt.org abides by this requirement.
-
-**10\. What else should I know about my privacy?  
-** Please keep in mind that whenever you voluntarily disclose personal information online - for example on message boards, through email, or in chat areas - that information can be collected and used by others. In short, if you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return.
-
-Ultimately, you are solely responsible for maintaining the secrecy of your passwords and/or any account information. Please be careful and responsible whenever you're online.
+**How can you contact us?**  
+If you have any questions about our privacy policy, the information we have collected from you online, the practices of this site or your interaction with this website, send email to us [here](https://web.archive.org/contact).
