@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unitestudents.com privacy policy that was archived on 2009-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090501234743id_/http%3A//privacy-policyonline.com/%3Ftmp%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unitestudents.com privacy policy that was archived on 2011-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110614213223id_/http%3A//privacy-policyonline.com/%3Ftmp%3Dprivacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
