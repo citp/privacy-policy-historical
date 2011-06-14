@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thescriptlab.com privacy policy that was archived on 2010-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100503074349id_/http%3A//www.thescriptlab.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thescriptlab.com privacy policy that was archived on 2011-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110614191439id_/http%3A//thescriptlab.com/privacy-policy) for the most accurate reproduction.*
 
-# The Script Lab | Privacy Policy and California Privacy Rights
+# Privacy Policy and California Privacy Rights – The Script Lab
 
 **What information do we collect?**
 
@@ -93,5 +93,5 @@ The Script Lab
 1005 East Las Tunas Dr., #313  
 San Gabriel, CA 91776  
 USA  
-[info@thescriptlab.com](mailto:info@thescriptlab.com)   
+info@thescriptlab.com  
 
