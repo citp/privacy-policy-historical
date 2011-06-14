@@ -1,10 +1,9 @@
-<!--The following is the downloaded HTML source of the sandiego.gov privacy policy that was archived on 2010-12-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101226214306id_/http%3A//www.sandiego.gov/directories/privacy.shtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sandiego.gov privacy policy that was archived on 2011-06-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110614122548id_/http%3A//www.sandiego.gov/directories/privacy.shtml) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html lang="en"><head>
  <title>Privacy Notice | City of San Diego</title>
-
- <script type="text/javascript">var globalNavLoc = "privacy_index";</script>
+<script type="text/javascript">var globalNavLoc = "information_section";</script>
 
          
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -20,8 +19,16 @@
 	<link rel="stylesheet" type="text/css" href="/global/css/sidenav.css">
 	<!--[If lte IE 6]> <link rel="stylesheet" type="text/css" href="/global/css/ie6.css"> <![endif]-->
 
-<script type="text/javascript" src="/global/js/jquery.js"> </script>
+<script src="/global/js/jquery.js" type="text/javascript"></script>
+<script src="/global/js/jquery.url.js" type="text/javascript"></script>
+<script src="/global/js/jquery.translate-1.3.9.js" type="text/javascript"></script>
+<script src="/global/js/jquery.cookie.js" type="text/javascript"></script>
+<script src="/global/js/translate.js" type="text/javascript"></script>
+<script src="/global/js/leavingsitealert.js" type="text/javascript"></script>
+
 <script type="text/javascript" src="/home/js/topnav.js"> </script>
+
+
 
 		 	<script src="/global/js/cssControl.js" type="text/javascript"></script>
 
@@ -99,7 +106,7 @@
 <li><a href="/directories/government.shtml" title="City Hall" class="navCityhall"><span>City Hall</span></a></li>
 <li><a href="/directories/community.shtml" title="Community" class="navCommunity"><span>Community</span></a></li>
 <li><a href="/directories/departments.shtml" title="Departments" class="navDepartments"><span>Departments</span></a></li>
-<li><a href="/directories/information.shtml" title="Information" class="navInformation"><span>Information</span></a></li>
+<li><a href="/directories/information.shtml" title="Information" class="navInformation" style="background-position: left bottom;"><span>Information - selected </span></a></li>
 <li><a href="/directories/leisure.shtml" title="Leisure" class="navLeisure"><span>Leisure</span></a></li>
 <li><a href="/directories/services.shtml" title="Services A-Z" class="navServices"><span>Services A-Z</span></a></li>
 <li><a href="/directories/visiting.shtml" title="Visiting" class="navVisiting"><span>Visiting</span></a></li>
@@ -123,8 +130,58 @@
 
    <div id="containerLeftColBg">
     <div id="leftcol">
-    &nbsp;
-    </div>
+					        <div id="sidenav">
+            <h2 class="sidenavtitle">WEBSITE INFORMATION</h2>
+
+            <ul class="sideNavLink">
+                <li><a href="/directories/websiteinfo.shtml">Website Information Home</a></li>
+
+                <li><a href="/directories/search.shtml">Search</a></li>
+
+                <li><a href="/directories/map.shtml">Site Map</a></li>
+
+                <li><a href="/awards/index.shtml">Awards</a></li>
+
+                <li><a href="/directories/privacy.shtml">Privacy Notice</a></li>
+
+                <li><a href="/directories/disclaimer.shtml">Disclaimers</a></li>
+
+                <li><a href="/directories/accessibility.shtml">Accessibility</a></li>
+
+                <li><a href="/directories/translation.shtml">Language Translation</a></li>
+            </ul>
+        </div>
+<script type="text/javascript">
+$(document).ready(function(){
+    try {
+        var thisPage;
+        
+        if ($.url.attr("file")) {
+            thisPage = $.url.attr("directory") + $.url.attr("file");
+        }
+        else {
+            thisPage = $.url.attr("directory") + "index.shtml";
+        }
+        $('#sidenav a').each(function(){
+            try {
+                if (thisPage.match($(this).attr('href'))) {
+                    $(this).removeAttr('href');
+                    $(this).css('text-decoration', 'none');
+                    $(this).css('color', 'black');
+					$(this).css('background-color','#F4F4F4');
+                }
+            } 
+            catch (ex) { //alert("De-Link Inside: " + ex);
+            }
+        });
+    } 
+    catch (ex) {
+        // alert("De-Link Outside: " + ex);
+    }
+});
+</script>
+ 
+				</div>
 
     <div id="maincontentTwoCol">
      <div class="mainCol">
@@ -208,13 +265,14 @@
 	<p>
 	| <span id="searchBottomNav"><a href="/directories/search.shtml">Search</a></span> 
 	| <span id="sitemapBottomNav"><a href="/directories/map.shtml">Site Map</a></span> 
+	| <span id="sitemapBottomNav"><a href="/awards/index.shtml">Awards</a></span> 
 	| <span id="contactBottomNav"><a href="/directories/contact.shtml">Contact the City</a></span> 
 	| <span id="privacyBottomNav"><a href="/directories/privacy.shtml">Privacy Notice</a></span>
 	| <span id="disclaimersBottomNav"><a href="/directories/disclaimer.shtml">Disclaimers</a></span>
 	| <span id="accessibilityBottomNav"><a href="/directories/accessibility.shtml">Accessibility</a></span>
 	|
 	</p>
-	<p>Copyrighted © 2002-2010 City of San Diego. All rights reserved.</p>
+	<p>Copyrighted © 2002-2011 City of San Diego. All rights reserved.</p>
 	<script type="text/javascript" src="/global/js/globalfooter.js"> </script>
 </div>
 
