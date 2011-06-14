@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cengagenow.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623224506id_/http%3A//www.cengage.com/content/footer/privacy_statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cengagenow.com privacy policy that was archived on 2011-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110614211531id_/http%3A//www.cengage.com/content/footer/privacy_statement.aspx) for the most accurate reproduction.*
 
 # Cengage Learning - Privacy Statement
 
