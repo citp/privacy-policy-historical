@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chelseagreen.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229174638id_/http%3A//www.chelseagreen.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chelseagreen.com privacy policy that was archived on 2011-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110614213155id_/http%3A//www.chelseagreen.com/privacy) for the most accurate reproduction.*
 
 # Chelsea Green: The Politics and Practice of Sustainable Living
 
@@ -25,6 +25,4 @@ During an online order, it is necessary for Chelsea Green Publishing to send you
 
 We use ConstantContact to send out our various newsletters. It is necessary for Chelsea Green Publishing to share your email address with ConstantContact. If you are subscribed to a newsletter, you will always be given the opportunity to unsubscribe immediately and you will not receive any newsletters from that point forward. Under no circumstances will ConstantContact share your personal information with any third-party. Please review their privacy policy here: <http://www.constantcontact.com/privacy_guarantee.jsp>
 
-Non-personally identifiable information (as identified above) may be shared with our advertisers or marketing partners. Your personally identifiable information will never be shared with them.   
-  
----
+Non-personally identifiable information (as identified above) may be shared with our advertisers or marketing partners. Your personally identifiable information will never be shared with them. 
