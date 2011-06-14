@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the earneasycash.info privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215031223id_/http%3A//www.earneasycash.info/index.php%3Fview%3Dprivacy%26) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earneasycash.info privacy policy that was archived on 2011-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110614201938id_/http%3A//www.earneasycash.info/index.php%3Fview%3Dprivacy%26) for the most accurate reproduction.*
 
 # EarnEasyCash Privacy Statement
 
@@ -10,25 +10,22 @@
   
   
   
-
+[](https://web.archive.org/web/20110614201938id_/http%3A//www.earneasycash.info/fbannerclick.php?id=3386)
 
 **Top 6 Clickers**  
 ---  
   
-1\. raisa (215)  
-2\. eveline (175)  
-3\. ghostofkraken (168)  
-4\. santhosh42 (167)  
-5\. bluehurley56 (165)  
-6\. gajdik (164)  
+1\. pregomi (249)  
+2\. aurelia (230)  
+3\. cerb1 (220)  
+4\. milesyuan (214)  
+5\. andaxin (210)  
+6\. gr63 (209)  
   
   
   
 
 
-| **Privacy**  
----  
-  
   
 _We do not collect personally identifiable off-line contact information. We do not distribute to third parties any personally identifiable information. Advertisers do not have access to view any of your account information or email address._  
 **Information Collected**  
@@ -51,11 +48,6 @@ EarnEasyCash does not accept memberships from users under 13 therefore EarnEasyC
 **Choice/Opt-Out:**  
 EarnEasyCash provides users the opportunity to opt-out of receiving communications from us. You may either delete your account from your account menu or you may also [Contact Us](http://www.earneasycash.info/index.php?view=contact) and request your membership and account information to be deleted at any time. If you request an account deletion through email, please allow a reasonable amount of time before deletion. Upon deletion, all of your information is deleted from the database. No information is saved.
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with EarnEasyCash, you can [Contact Us](http://www.earneasycash.info/index.php?view=contact).   
-  
-  
-**[Register](https://web.archive.org/web/20101215031223id_/http%3A//www.earneasycash.info/index.php?view=join& "Join For Free!") **|** [Earn](https://web.archive.org/web/20101215031223id_/http%3A//www.earneasycash.info/index.php?view=account&ac=earn& "Earnings Page") **|** [Login](https://web.archive.org/web/20101215031223id_/http%3A//www.earneasycash.info/index.php?view=login& "Member Login") **|** [Support](https://web.archive.org/web/20101215031223id_/http%3A//www.earneasycash.info/index.php?view=support& "Support") **|** [FAQ's](https://web.archive.org/web/20101215031223id_/http%3A//www.earneasycash.info/index.php?view=help& "FAQ's") **|** [Terms](https://web.archive.org/web/20101215031223id_/http%3A//www.earneasycash.info/index.php?view=terms& "Terms of Service") **|** [Privacy](https://web.archive.org/web/20101215031223id_/http%3A//www.earneasycash.info/index.php?view=privacy& "Privacy") **|** [Forum](http://www.eecash.info/ "Site Forum") **|** [Contact](https://web.archive.org/web/20101215031223id_/http%3A//www.earneasycash.info/index.php?view=contact& "Contact Us With Any Comments/Suggestions")**   
-**Time:** ( **Ads reset at 24:00** )
+If you have any questions about this privacy statement, the practices of this site, or your dealings with EarnEasyCash, you can [Contact Us](http://www.earneasycash.info/index.php?view=contact). 
 
-EarnEasyCash is free to join and use. Est. July 2008  
-Get cheap ptc advertising and low cost traffic visitors to your website. Earn ptc surf and ptc click. Free PTC Advertising while surfing
+| 
