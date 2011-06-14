@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webdesigndevelopments.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226235917id_/http%3A//www.info-pack.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webdesigndevelopments.com privacy policy that was archived on 2011-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110614222605id_/http%3A//www.info-pack.com/privacy.htm) for the most accurate reproduction.*
 
 # Information Packaging - Privacy Policy
 
@@ -100,13 +100,10 @@ Any changes will be made here, so please check back regularly.
 
 **10\. Questions and Feedback**
 
-**Information Packaging**  
-ABN: 53 706 037 481  
-19 Redgum Ave  
-Carrum Downs Vic 3201
-
-PO Box 473  
-Chelsea Vic 3196  
+**info-pack.com is a DreamJob.com.au Pty Ltd website**  
+ACN: 122 386 118  
+48 Golden Grove Ave  
+Kellyville NSW 2155  
 Australia
 
 [privacy@info-pack.com](mailto:privacy@info-pack.com)
