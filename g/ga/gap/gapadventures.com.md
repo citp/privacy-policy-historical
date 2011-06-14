@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gapadventures.com privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214044303id_/http%3A//www.gapadventures.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gapadventures.com privacy policy that was archived on 2011-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110614213937id_/http%3A//www.gapadventures.com/privacy) for the most accurate reproduction.*
 
-# Gap Adventures - Privacy Policy
+# Privacy Policy - Gap Adventures
 
 Gap Adventures and its related parties are committed to protecting your Personal Information that you share with us. We want you to understand our Privacy Policy and what it means to you, our customer. Please take a moment to review our Privacy Policies and Frequently Asked Questions section of this page. By using our website or the services offered by us, you are consenting to our use of such personal information as you provide to us as described herein. If you do not consent to our use of your information, please do not use our services. Any questions you have about our Privacy Policy, or the information contained herein can be directed to our Privacy Officer at: [privacyofficer@gap.ca](mailto:privacyofficer@gap.ca'').
 
@@ -68,6 +68,10 @@ We will acquire personal information such as your name and email address if you 
 ### What is a Cookie?
 
 A cookie is a small text file containing a unique identification number that a website sends to your computers web browser. While you visit a particular website, a cookie may be used to track the activities of your browser as well as provide you with a consistent, more efficient experience.
+
+### How do third-party vendors use Cookies?
+
+Third party vendors, including Google, show Gap Adventures’ ads across the internet. These third party vendors use cookies to serve ads based on a user’s prior visits to the Gap Adventures website. Neither Gap Adventures, or any affiliated third party vendor, store any personal information in the cookie data. Users may opt out of third-party usage of cookies by visiting the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/managing/opt_out.asp).
 
 ### How does Gap Adventures use cookies?
 
