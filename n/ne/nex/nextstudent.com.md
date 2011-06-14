@@ -1,16 +1,18 @@
-> *The following text is extracted and transformed from the nextstudent.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229045750id_/http%3A//www.nextstudent.com/about-NextStudent/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nextstudent.com privacy policy that was archived on 2011-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110614192848id_/http%3A//www.nextstudent.com/privacy-policy) for the most accurate reproduction.*
 
-# NextStudent Privacy Policy - Student Loans and Federal Loan Consolidation - NextStudent.com
+# Privacy Policy | NextStudent | Student Loans
 
-## Effective July 1, 2010
+[](https://web.archive.org/get-a-student-loan/)
+
+### Effective July 1, 2010
 
 **PLEASE NOTE: Our Privacy Policy may change at any time. Please check back regularly for changes and updates.**
 
 This Privacy Policy applies only to information collected by NextStudent Inc. and by the NextStudent website and has no bearing on any information that may be collected by NextStudent’s partners or affiliates or by any linked, referring, or affiliated websites.
 
-If you have any questions or concerns regarding our Privacy Policy, please send us an e-mail at [email@nextstudent.com](mailto:email@nextstudent.com).
+If you have any questions or concerns regarding our Privacy Policy, please send us an e-mail at [email@nextstudent.com](mailto:email@nextstudent.com "Send an e-mail to NextStudent").
 
-_Amended as of July 1, 2010_.
+_Amended as of July  1, 2010_.
 
 At NextStudent (hereinafter “we,” “us,” “our,” or “ourselves”), we take our ethical responsibilities and your privacy seriously. We recognize that you are sharing highly sensitive and confidential information with us. We have a strong commitment to providing excellent service to all our customers and visitors of this website, including respecting your concerns about privacy.
 
@@ -28,11 +30,11 @@ However, our website does not collect _personally_ identifiable information from
 
 ## The Information We Collect
 
-When we need to collect personally identifiable information from you, we will ask you to voluntarily supply us with the information we need to allow us to process your request. The personal information you share with us will allow us to provide you with relevant information on [student loans](http://www.nextstudent.com/student-loans/student-loans.asp "student loans"), scholarships, and other student programs, products, and services in which you express an interest.
+When we need to collect personally identifiable information from you, we will ask you to voluntarily supply us with the information we need to allow us to process your request. The personal information you share with us will allow us to provide you with relevant information on [student loans](http://www.nextstudent.com/student-loans/ "More information about student loans"), [scholarships](http://www.nextstudent.com/scholarships/ "Search for college scholarships and grants"), and other student programs, products, and services in which you express an interest.
 
 We may ask you for information such as (but not limited to):
 
-  * Name 
+  * Name
   * Address
   * Telephone number
   * E-mail address
@@ -71,7 +73,7 @@ We offer you choices regarding the use of your personal information whenever rea
 
 You may decline to provide personal information to us and/or refuse cookies in your Web browser, although some of our online features or services may not function properly as a result.
 
-If you no longer wish to receive promotional e-mails from us, you may opt out of receiving these e-mails by following the “Unsubscribe” link at the bottom of any one of these promotional e-mails. If you no longer wish to receive other promotional communications from us, you may opt out of receiving these communications by following the instructions included in each communication. You may also opt out of receiving promotional e-mails or other communications from us by contacting us at the e-mail address, mailing address, or phone number provided on the [NextStudent contact page](http://www.nextstudent.com/about-NextStudent/contact-us.asp "contact us").
+If you no longer wish to receive promotional e-mails from us, you may opt out of receiving these e-mails by following the “Unsubscribe” link at the bottom of any one of these promotional e-mails. If you no longer wish to receive other promotional communications from us, you may opt out of receiving these communications by following the instructions included in each communication. You may also opt out of receiving promotional e-mails or other communications from us by contacting us at the e-mail address, mailing address, or phone number provided on the [NextStudent contact page](http://www.nextstudent.com/about-next-student/contact-us/ "Contact NextStudent").
 
 Please note that any such opt-out action you take will not apply to **transactional** e-mails or other **non-promotional** communications that we may transmit to you regarding any established account that you have with NextStudent.
 
@@ -83,9 +85,8 @@ NextStudent
 Attn: Marketing Opt-Outs  
 1801 W. Knudsen Drive  
 Glendale, AZ 85027  
- ****Telephone: (800) 658-6801  
-E-mail: [email@nextstudent.com](mailto:email@nextstudent.com "email NextStudent")  
-
+**Telephone:** (800) 658-6801  
+**E-mail:** [email@nextstudent.com](mailto:email@nextstudent.com "Send an e-mail to NextStudent")
 
 ## Service Providers
 
@@ -99,7 +100,7 @@ Our website uses SSL (Secure Sockets Layer) technology to encrypt information yo
 
 When your information reaches us, it is stored on a secure server that resides behind firewalls designed to block unauthorized access from outside of NextStudent. You can help to maintain the security of your online transactions by not sharing your personal information or password with anyone. Please keep in mind that no method of transmission over the Internet or of electronic storage is 100-percent secure. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
-If you have any questions about the security on the NextStudent website, please feel free to e-mail us at [email@nextstudent.com](mailto:email@nextstudent.com "email NextStudent").
+If you have any questions about the security on the NextStudent website, please feel free to e-mail us at [email@nextstudent.com](mailto:email@nextstudent.com "Send an e-mail to NextStudent").
 
 ## Third-Party Advertisers
 
@@ -123,7 +124,7 @@ Please also note that any co-branded partner, affiliate, or corporate group webs
 
 ## Accessing Your Personally Identifiable Information
 
-We will make good-faith efforts to provide you access to your personal information upon request. If your personally identifiable information changes, or if you no longer desire our product or service, you may correct, update, or deactivate your personal information by contacting us at the contact information listed both in the “Opting Out” section above and on our “[Contact Us](http://www.nextstudent.com/about-NextStudent/contact-us.asp "Contact Us")” page.
+We will make good-faith efforts to provide you access to your personal information upon request. If your personally identifiable information changes, or if you no longer desire our product or service, you may correct, update, or deactivate your personal information by contacting us at the contact information listed both in the “Opting Out” section above and on our “[Contact Us](http://www.nextstudent.com/about-next-student/contact-us/ "Contact NextStudent")” page.
 
 ## Children and Their Personally Identifiable Information
 
@@ -139,7 +140,7 @@ We may purchase marketing data from third parties and add it to our existing cus
 
 ## Business Transitions
 
-In the event that NextStudent goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of our assets, your personally identifiable information will likely be among the assets transferred. You will be notified via e-mail and/or a prominent notice on our website at least 30 days in advance of any such change in ownership or control of your personal information.
+In the event that NextStudent goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of our assets, your personally identifiable information will likely be among the assets transferred. You will be notified via e-mail and/or a prominent notice on our website at least 30 days in advance of any such change in ownership or control of your personal information.
 
 ## Changes to This Privacy Policy
 
@@ -153,21 +154,22 @@ Upon any material changes to our Privacy Policy, we will post those changes to t
 
 If you have any questions, comments, complaints, or suggestions regarding our Privacy Policy or our website, please contact us at:
 
+NextStudent  
+1801 W. Knudsen Drive  
+Glendale, AZ 85027
+
+Telephone: (800) 658-6801  
+E-mail: [email@nextstudent.com](mailto:email@nextstudent.com "Send an e-mail to NextStudent")  
+Website: [www.nextstudent.com](http://www.nextstudent.com/ "NextStudent.com")
+
 **Please print and retain a copy of this Privacy Policy for your records**.
-
-  
-
 
 > ### Quick Links
 > 
-> [**»** NextStudent FAQ](https://web.archive.org/web/20101229045750id_/http%3A//www.nextstudent.com/about-NextStudent/NextStudent-FAQ.asp "NextStudent Frequently Asked Questions")  
->  [**»** Customer Testimonials](https://web.archive.org/web/20101229045750id_/http%3A//www.nextstudent.com/about-NextStudent/student-loan-testimonials.asp "NextStudent Customer Testimonials")  
->  [**»** Contact NextStudent](https://web.archive.org/web/20101229045750id_/http%3A//www.nextstudent.com/about-NextStudent/contact-us.asp "Contact NextStudent")  
->  [**»** Corporate Overview](https://web.archive.org/web/20101229045750id_/http%3A//www.nextstudent.com/about-NextStudent/corporate-overview.asp "Corporate Overview")  
->  [**»** Investment Opportunities](https://web.archive.org/web/20101229045750id_/http%3A//www.nextstudent.com/about-NextStudent/investors.asp "Investment Opportunities")  
->  [**»** Opportunities At NextStudent](https://web.archive.org/web/20101229045750id_/http%3A//www.nextstudent.com/about-NextStudent/opportunities.asp "Opportunities at NextStudent")  
->  [**»** Privacy](https://web.archive.org/web/20101229045750id_/http%3A//www.nextstudent.com/about-NextStudent/privacy.asp "NextStudent Privacy Policy")  
->  [**»** Terms Of Use](https://web.archive.org/web/20101229045750id_/http%3A//www.nextstudent.com/about-NextStudent/terms-of-use.asp "Terms of Use")
-
-  
-
+> **»** [NextStudent FAQ](http://www.nextstudent.com/about-NextStudent/NextStudent-FAQ.asp "NextStudent Frequently Asked Questions")  
+>  **»** [Customer Testimonials](http://www.nextstudent.com/about-NextStudent/student-loan-testimonials.asp "NextStudent Customer Testimonials")  
+>  **»** [Contact NextStudent](http://www.nextstudent.com/about-next-student/contact-us/ "Contact NextStudent")  
+>  **»** [Corporate Overview](http://www.nextstudent.com/about-NextStudent/corporate-overview.asp "NextStudent Corporate Overview")  
+>  **»** [Investment Opportunities](http://www.nextstudent.com/about-next-student/investors/ "NextStudent Investment Opportunities")  
+>  **»** [Opportunities at NextStudent](http://www.nextstudent.com/about-NextStudent/opportunities.asp "Employment opportunities at NextStudent")  
+>  **»** [Terms of Use](http://www.nextstudent.com/terms-of-use/ "Terms of Use")
