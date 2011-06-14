@@ -1,106 +1,128 @@
-> *The following text is extracted and transformed from the franchiseclique.com privacy policy that was archived on 2010-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100131020113id_/http%3A//www.franchiseclique.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the franchiseclique.com privacy policy that was archived on 2011-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110614213243id_/http%3A//franchiseclique.com/privacy.php) for the most accurate reproduction.*
 
-# FranchiseClique: Directory of Franchises and Business Resource
+# Privacy Policy | FranchiseClique.com
 
-|  | Privacy Policy  
----  
-This privacy policy pertains to the website [www.franchiseclique.com](http://www.franchiseclique.com/) in its entireity, and to FranchiseClique, LLC in its entireity.
+Effective on January 27, 2011 
 
- **Personal Information**
+This privacy statement describes how Franchise Clique collects and uses the personal information you provide on our Web site: www.franchiseclique.com. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. 
 
-All of the information on this site can be reveiwed without providing any personal information. For additional information not contained on this site regarding a franchise or business opportunity, FranchiseClique will require certain information of a personal nature, including but not limited to name, phone number and email address. All information submitted through the request form is then shared only with the franchises or business opportunities indicated in the request list on this form. Unless expressly authorized by the party completing the request form, FranchiseClique will not sell, share, trade,  rent, or divulge personal information with any other entity for promotional purposes. If it becomes necessary to correct or update any personal information, this  can be done by filling out the “Contact Us” form.
+Franchise Clique has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at info@franchiseclique.com. If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). 
 
-FranchiseClique.com is intended for the review and use of and by parties age 18 and older. It is not the purpose or intent of FranchiseCliuqe to collect any information from individuals under the age of 18. If FranchjseCliuqe becomes aware that information has been collected from a party under the age of 18, all information from this party will be removed from FranchiseClique’s site and system immediately.
+## Collection and Use of Personal Information
 
-**Testimonials**
+We collect the following personal information from you 
 
-From time to time, and at the sole discretion of FranchiseClique, customer testimonials will appear on FranchiseCliqe’s website which may contain personally identifiable information such as a customer's name. To every extent possible, FranchiseClique will obtain the consent of the cutomer prior to posting the testimonial.                       
+  * Contact Information such as name, email address, mailing address, phone number
 
-**Blog**
 
-FranchiseClique assumes no responsbility or liaiblity for any commentary and/or content posted by members of the public on its Blog.  Any and all comments that FranchiseClique, at its sole discretion, determines to be  libelous, defamatory, threatening, obscene, profrane  or pornographic, will be removed immediately. FranchiseClique will fully cooperate with any law enforcement authorities, agencies, or court order requesting or directing the disclosure of the identity of anyone posting any such commentary and/or content. To every extent possible, FranchiseClique will attempt to delete all information that can be considered personally identifiable information contained within a post. However, the first name of the person that created the post will be used. Although FranchiseClique will attempt to every extent possible to remove personally identifiable information from the posts that appear on its Blog, any and all personally identifiable information submitted to the Blog can be read, collected, or used by others, and could be used to send unsolicited information to the party posting on the Blog. FranchiseClique  is not responsible for any personally identifiable information that appears on its Blog.
 
-**Newsletter**
+We also collect the following information from you 
 
-FranchiseClique has a email newsletter mailing.  Visitors to FranchiseClique’s website will only be added to the newsletter mailing list upon request of the visitor.  FranchiseClique does not sell, share, rent, trade, or divulge personal information with other companies. A requestor can unsubscribe from our newsletter by clikciing the “unsubscribe” link in the newsletter. 
+  * Information about your business such as company name, company size, business type
 
-**Cookies**
 
-FranchiseClique may collect non-personal information from those visiting the website via cookies. This information will be used for demographic, and marketing puposes, as well as site administration.. The cookies on this site are not tied to any personal information.
 
-**Links to Other Sites**
+As is true of most Web sites, we automatically gather information about your computer such as your IP address, browser type, referring/exit pages, and operating system. 
 
-From time to time and at the sole discretion of FranchiseClique, links to other businesses and/or services may be provided on the site. This is for the convienance and edification of the site veiwers only. Upon clicking on such links,  the reviewer will leave the FranchiseClique site and enter other sites.  At this time, the reviewer will become subject to the policies of the other site, including but not limited to that new site’s privacy policies, and FranchiseClique has no control in or contribution to the policies of any site other than the plicies of FranchiseClique.com. The polices, inclduing the privacy policy, of all sites should be carefully reviewed before use of that site. 
+We use this information to 
 
-**Legal Disclaimer**
+  * Assess the needs of your business to determine suitable products
+  * Send you requested product or service information
+  * Respond to customer service requests
+  * Send you a catalog
+  * Send you a newsletter
+  * Send you marketing communications 
+  * Respond to your questions and concerns
+  * Improve our Web site and marketing efforts
+  * Conduct research and analysis
+  * Display content based upon your interests
 
-FranchiseClique reserves the right to disclose any and all personally identifiable information as required by law. FranchiseClique reserves the right to disclose any and all personally identifiable information if such disclosure  is necessary to protect the rights of FranchiseClique and/or to comply with a judicial proceeding, court order, or legal process.  
-**  
-Security Measures**
 
-No data transfer can be ever be considered completey and totally secure. However, FranchiseClique will make every attempt to secure and protect information of a personal nature from unauthorized access, use or disclosure by using certain security technologies and procedures. FrachiseClique is in no way laible for any type of damage, consequential or otherwise, that may be incurred from improper and/or unauthorized access, use or disclosure of personal information,
 
-            It is highly recommended that anyone using the Internet take any and all precautions to protect personal information such as use of passwords containing combinations of letters, numbers and symbols, along with use of a secure browser. 
+### Choice/Opt-Out
 
-**Changes to the Privacy Policy**
+You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at [info@franchiseclique.com](mailto:info@franchiseclique.com). 
 
-            FranchiseClique reserves the right to make any and all changes to this  Privacy Policy at its sole discretion. Any and all changes will be posted prominently on the site, and all other places FranchiseClique deems appropriate so that the users of this site are aware of the information collected by FranchiseClique, how such information is used, and under what circumstances, if any, such information may be disclosed. 
+### Information Obtained from Third Parties
 
-**Questions**
+If you provide us personal information about others, or if others give us your information, we will only use that information for the specific reason for which it was provided to us. 
 
-Any questions or concerns regarding this statemnt or the privavy policy of FranchiseClique should be driected to [privacy@franchiseclique.com. ](mailto:privacy@franchiseclique.com.%20\(KEITH/GUY/DAVE)
+## Information Sharing
 
-**Do Not Call Policy**
+We will share your personal information with third parties only in the ways that are described in this privacy statement. We do not sell your personal information to third parties. 
 
-It is our intention at FranchiseClique to provide information about various companies and businesses to our users. Some of the companies that appear on the FranhciseClique. com website may not advertise with the site at all times.  Although FranchiseCliuqe will make every attmept to get an interested party's information to a company and/or business, if that company and/or business is NOT curently compensating FranchiseClique for appearing on the site, FranchiseClique cannnot guarantee that any information will actually be received by that company and/or business. Any party that submits a request for FranchiseClique to disclose information to any third-party expressly agrees to receive telephone calls and/or e-mails despite being registered with the National Do Not Call List and/or any state Do Not Call Registry.
+We may provide your personal information to companies that provide services to help us with our business activities such as shipping your order or offering customer service. These companies are authorized to use your personal information _only as necessary_ to provide these services to us. 
 
-FranchiseClique
+We may also disclose your personal information 
 
-Email: info@franchiseclique.com
+  * as required by law such as to comply with a subpoena, or similar legal process
+  * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request,
+  * if Franchise Clique is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information, 
+  * to any other third party with your prior consent to do so.
 
-Phone: 843-277-1095
 
-Fax: 843-277-1452
 
-Toll Free: 877-734-2867
+We share your personal information with other companies so that they can market their products or services to you. If you do not want us to share your personal information with these companies, contact us at [info@franchiseclique.com](mailto:info@franchiseclique.com). 
 
-Franchise Clique, LLC
+## Cookies and Other Tracking Technologies
 
-351 Cooper River Drive  
-Charleston, SC 29464
+We may use cookies, for example, to keep track of your preferences and profile information. Cookies are also used to collect general usage and volume statistical information that does not include personal information. 
 
-www.franchiseclique.com 
+We use another company to place cookies on your computer to collect non-personally identifiable information to compile aggregated statistics for us about visitors to our site. 
 
-  
-This Privacy Policy was last updated on July 11, 2009
+### Web beacons
 
-  
-  
-To receive more information , simply fill out the short form on the right and you will be contacted.  
-|  Quick Clique Request Form   
----  
-  
-To receive more information on this business opportunity, simply fill out the short form below and a Franchise Representative will contact you. | **Personal Information**  
----  
-  
-First Name*:  
-Last Name*:  
-Email*:  
-Confirm Email*:  
-Phone*:  
-Address*:  
-Zip Code*:  
-**Financial Information**  
-  
-Liquid Capital*:  
-Net Worth*:  
-Time Frame:  
-   
-|  | I would like to receieve additional information about future business and franchise opportunities.  
----|---  
-  |    
-| Yes, I agree with the [Terms and Conditions](file:///My%20Baby/Users/new/Desktop/fc/terms.php)  
-   
-* Indicates a required field  
-   
-  |  
+Our Web pages contain electronic images known as Web beacons (sometimes called single-pixel gifs) and are used along with cookies to compile aggregated statistics to analyze how our site is used and may be used in some of our emails to let us know which emails and links have been opened by recipients. This allows us to gauge the effectiveness of our customer communications and marketing campaigns. 
+
+We use a third party to gather information about how you and others use our Web site. For example, we will know how many users access a specific page and which links they clicked on. We use this aggregated information to understand and optimize how our site is used. 
+
+### Links to Other Web Sites
+
+Our Site includes links to other Web sites whose privacy practices may differ from those of Franchise Clique. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit. 
+
+## Security
+
+The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. 
+
+If you have any questions about security on our Web site, you can contact us at [info@franchiseclique.com](mailto:info@franchiseclique.com)
+
+## Additional Policy Information
+
+Our Web site includes Widgets, which are interactive mini-programs that run on our site to provide specific services from another company (e.g. displaying the news, opinions, music, etc). Personal information, such as your email address, may be collected through the Widget. Cookies may also be set by the Widget to enable it to function properly. Information collected by this Widget is governed by the privacy policy of the company that created it. 
+
+You can log in to our site using sign-in services such as Facebook Connect. This service These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network. 
+
+Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. 
+
+**Data Retention** : We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at info@franchiseclique.com. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
+
+### Updating Your Personal Information
+
+Please note that users can not update or delete previously submitted information. If your information (such as your email address) should change, we ask that you re-submit a registration form or request. 
+
+### Notification of Privacy Statement Changes
+
+We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. 
+
+## Contact Information
+
+You can contact us about this privacy statement by writing or email us at the address below: 
+
+Franchise Clique  
+351 Cooper River Drive   
+Mount Pleasant, SC, United States 29464   
+Email: [info@franchiseclique.com](mailto:info@franchiseclique.com)  
+Phone: 843-277-1095  
+| 
+
+#### What type of franchise would you like?
+
+#### How much capital would you like to invest?
+
+#### Where would you like to open your franchise?
+
+### Franchises by Industry
+
+### Franchises by Investment
+
+### Popular Searches
