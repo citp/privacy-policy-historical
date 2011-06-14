@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 99ranch.com privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213125636id_/http%3A//www.99ranch.com/show_info.php%3Fpage_id%3D33) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 99ranch.com privacy policy that was archived on 2011-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110614210353id_/http%3A//www.99ranch.com/show_info.php%3Fpage_id%3D33) for the most accurate reproduction.*
 
 # SECURITY AND PRIVACY
 
