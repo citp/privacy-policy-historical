@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vinnies.org.au privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227142845id_/http%3A//vinnies.org.au/privacy-national) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vinnies.org.au privacy policy that was archived on 2011-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110614041838id_/http%3A//vinnies.org.au/privacy-national) for the most accurate reproduction.*
 
 # Online Privacy Policy
 
