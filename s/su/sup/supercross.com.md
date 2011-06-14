@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the supercross.com privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214134358id_/http%3A//www.supercross.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supercross.com privacy policy that was archived on 2011-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110614151716id_/http%3A//www.supercross.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Supercross.com
 
@@ -20,7 +20,7 @@ In this privacy policy, we will inform you of the following:
 
 
 
-**1\. What This Privacy Policy Covers**
+ **1\. What This Privacy Policy Covers**
 
 This Privacy Policy applies only to Supercross.com online services, specifically relating to the Free E-News subscription form and the Free Membership enrollment form in which a person may enter their personal information to become an E-News "Subscriber" or a "Member" of the Supercross Community.
 
@@ -28,7 +28,7 @@ Some of the links on this website connect to information hosted by other third-p
 
 Within the Site, this Privacy Policy applies only to the information described below. If you enrolled for any Supercross.com Subscription Services, please review the applicable provisions of the separate Subscriber Agreement, as well as the Supercross.com Web Site Use Agreement, to understand how we treat the information you enter when using those services.
 
-**2\. Information Collected by This Website**
+ **2\. Information Collected by This Website**
 
 Registration and Profile
 
@@ -46,7 +46,7 @@ Public Forums
 
 This Privacy Policy can not protect you when you use any public discussion forum, discussion group or web blog such as the community features hosted on Supercross.com. As a service to our users, Supercross.com may feature bulletin boards or online discussions. Any information shared in a bulletin board or online discussion is public information and may be seen or collected by third parties that do not adhere to our Privacy Policy. You should think carefully before disclosing any Personal Information you don't want others to read in any public forum.
 
-**3\. Disclosure of Your Information**
+ **3\. Disclosure of Your Information**
 
 Except as set forth in this Article or as specifically agreed to by you, Supercross.com will not disclose any Personal Information it gathers from you on the Website. The company may release Personal Information to third parties: (1) to comply with valid legal requirements such as a law, regulation, search warrant, subpoena or court order; or (2) in special cases, such as a physical threat to you or others. In the event that we are legally compelled to disclose your Personal Information to a third party, we will notify you unless doing so would violate the law or court order.
 
@@ -66,17 +66,17 @@ Third Party Advertisers
 
 We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, visit [www.google.com/privacy_ads.html](http://www.google.com/privacy_ads.html).
 
-  * Google, as a third party vendor, uses cookies to serve ads on your site. 
-  * Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and * other sites on the Internet. 
-  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at [www.google.com/privacy_ads.html](http://www.google.com/privacy_ads.html). 
+  * Google, as a third party vendor, uses cookies to serve ads on your site.
+  * Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and * other sites on the Internet.
+  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at [www.google.com/privacy_ads.html](http://www.google.com/privacy_ads.html).
 
 
 
-**4\. Your Privacy Choices**
+ **4\. Your Privacy Choices**
 
 Users will occasionally be presented with the option of receiving informational emails or newsletters from Supercross.com. Users may exercise these options by indicating their email preferences for receiving these communications. In most cases, at the bottom of any email sent from Supercross.com, if you wish to unsubscribe from the list, click on the "UNSUBSCRIBE" link at the bottom of the email to automatically have your information removed from our that newsletter's database of recipients. Your information will be removed immediately upon your completion of the automated unsubscribe process.
 
-**5\. Protecting your Personal Information**
+ **5\. Protecting your Personal Information**
 
 Supercross.com, Inc. takes reasonable technological and physical security measures to protect each user’s Personal Information; however, users must protect their own passwords and log-in information themselves. The Company cannot protect a user’s Personal Information from a third-party who has obtained their log-in and password credentials legally or illegally. User's are cautioned to take great care to protect their own passwords. Some recommended strategies to help protect passwords are as follows:
 
@@ -86,7 +86,7 @@ Supercross.com, Inc. takes reasonable technological and physical security measur
 
 
 
-**6\. Updating Your Personal Information and Contacting Supercross.com**
+ **6\. Updating Your Personal Information and Contacting Supercross.com**
 
 You can always contact us in order to (1) delete your Personal Information or (2) update the Personal Information that you have provided to us by emailing us at [support@Supercross.com](mailto:support@Supercross.com). Such changes will not have any effect on other information that Supercross.com maintains. You may not delete your Personal Information if you wish to continue access to the Website and/or our Supercross.com members-only services.
 
@@ -95,5 +95,5 @@ It is not technologically reasonable to remove each and every record of the info
 Privacy as it applies to the Internet is a dynamic, rapidly developing area. In the future, the company may make significant changes to its privacy policy affecting the use of the Personal Information it collects. The company will notify users by email of any significant material changes to its privacy policy and obtain your "opt-in" consent to any significant new uses of your Personal Information, if it was collected from you prior to a significant change in this policy. The company may also make non-significant changes to our Privacy Policy that generally will not affect the use of your Personal Information. You should also check this posted Privacy Policy for any future changes. If you do not agree to the terms of this Privacy Policy or any revised policy, please exit the site immediately and terminate your membership in Supercross.com.
 
   
-[< Prev](http://www.supercross.com/faqs) |    |  [Next >](http://www.supercross.com/supercrosscom-mobile)  
+[< Prev](http://www.supercross.com/faqs)|  | [Next >](http://www.supercross.com/supercrosscom-mobile)  
 ---|---|---
