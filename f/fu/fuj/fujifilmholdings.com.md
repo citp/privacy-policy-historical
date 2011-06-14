@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fujifilmholdings.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226094537id_/http%3A//www.fujifilmholdings.com/en/privacy_policy/website_privacy_policy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fujifilmholdings.com privacy policy that was archived on 2011-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110614052536id_/http%3A//www.fujifilmholdings.com/en/privacy_policy/website_privacy_policy/index.html) for the most accurate reproduction.*
 
 # Privacy Policy | FUJIFILM Holdings
 
@@ -56,7 +56,7 @@ The personal information provided by customers shall be managed in an appropriat
     2. If the point of contact of the Company is unknown, please contact FUJIFILM Holdings.
 
 
-  * [Contact FUJIFILM Holdings ](https://www.fujifilmholdings.com/en/contact/form/general/index.cgi)
+  * [Contact FUJIFILM Holdings ](https://www.fujifilmholdings.com/en/form/general/input.php?id=FHGeneralEn)
 
 
 
