@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dreamwidth.org privacy policy that was archived on 2010-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100904002916id_/http%3A//www.dreamwidth.org/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dreamwidth.org privacy policy that was archived on 2011-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110614225914id_/http%3A//www.dreamwidth.org/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -68,7 +68,7 @@ Dreamwidth staff only use the ability to override your chosen security levels du
 
 You can engage in financial transactions with Dreamwidth to purchase enhancements for your account. These transactions are optional. If you choose to purchase enhanced services, you will be asked to provide financial information to complete the transaction. There are several payment methods available, each of which requires disclosure of certain personal and financial information. The specifics of these methods of payment are as follows:
 
-**Credit cards** : If you pay by credit card, we need you to provide your credit card number, your full name as it appears on the card, your address as it appears on the card statment, and the CVN or Card Verification Number. This information is required so we can authorize and charge your credit card. Your financial information is protected by industry-standard encryption methods. It is never stored on our servers: we pass it immediately along to our processor for the sole purpose of completing the authorized transaction.
+**Credit cards** : If you pay by credit card, we need you to provide your credit card number, your full name as it appears on the card, your address as it appears on the card statement, and the CVN or Card Verification Number. This information is required so we can authorize and charge your credit card. Your financial information is protected by industry-standard encryption methods. It is never stored on our servers: we pass it immediately along to our processor for the sole purpose of completing the authorized transaction.
 
 **Checks** : If you pay by check, we need you to provide us with a check printed with your bank's routing code and your account number, your name, and your address. This information is required so our bank can transfer funds from your account to ours. We use this information only for the purpose of the single transaction represented by the check, however, our bank retains, on their servers, permanent electronic scans of all checks deposited into our account.
 
