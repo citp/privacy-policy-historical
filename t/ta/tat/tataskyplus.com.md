@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tataskyplus.com privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202050049id_/http%3A//tataskyplus.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tataskyplus.com privacy policy that was archived on 2011-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110614153119id_/http%3A//tataskyplus.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Digital Tv Recorder - Tata Sky+
+# HD, DVR, Tata Sky+ HD
 
 Tata Sky Limited is committed to protecting any personal information that You may provide to Us. In particular, We believe it is important for You to know how We treat information about You that We may receive from this Website “www.tataskyplus.com” (“Site”).
 
@@ -34,6 +34,6 @@ Security is very important to Us. All security procedures are in place to protec
 
 We will comply with all relevant Data Protection legislation in relation to the period for which We retain any information You disclose to Us.
 
-We may change this privacy policy from time to time and You should check these regularly. Your use of the Tata Sky + Site will be deemed an acceptance of the privacy policy existing at that time.
+We may change this privacy policy from time to time and You should check these regularly. Your use of the Tata Sky+ HD Site will be deemed an acceptance of the privacy policy existing at that time.
 
 Any site that You may connect to from here is not covered by this Privacy Policy.
