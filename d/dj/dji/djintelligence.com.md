@@ -1,23 +1,23 @@
-> *The following text is extracted and transformed from the djintelligence.com privacy policy that was archived on 2010-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100927145439id_/http%3A//www.djintelligence.com/pages/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the djintelligence.com privacy policy that was archived on 2011-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110614190055id_/http%3A//www.djintelligence.com/privacy.asp) for the most accurate reproduction.*
 
 # DJ Intelligence® - Privacy Statement
 
 |   
   
 ---  
-**Monday, September 27, 2010   **  
+**Tuesday, June 14, 2011   **  
    
 | **   [Home Page](http://www.djintelligence.com/)**  
-| **   [Live Demo Sites](http://www.djintelligence.com/pages/demo.asp)**  
-| **   [Exclusive Features](http://www.djintelligence.com/pages/features.asp)**  
-| **   [Unmatched Benefits](http://www.djintelligence.com/pages/benefits.asp)**  
-| **   [Common Questions](http://www.djintelligence.com/pages/questions.asp)**  
-| **   [How It Works](http://www.djintelligence.com/pages/works.asp)**  
-| **   [True DJ Stories](http://www.djintelligence.com/pages/success.asp)**  
-| **   [Why It Pays](http://www.djintelligence.com/pages/pays.asp)**  
-| **   [Sign Up Now](https://www.djintelligence.com/signup/signup.asp)**  
-| **   [Start Your Trial](https://www.djintelligence.com/signup/trial.asp)**  
-| **   [Contact Us](http://www.djintelligence.com/pages/contact.asp)**  
+| **   [Live Demo Sites](http://www.djintelligence.com/demo.asp)**  
+| **   [Exclusive Features](http://www.djintelligence.com/features.asp)**  
+| **   [Unmatched Benefits](http://www.djintelligence.com/benefits.asp)**  
+| **   [Common Questions](http://www.djintelligence.com/questions.asp)**  
+| **   [How It Works](http://www.djintelligence.com/works.asp)**  
+| **   [True DJ Stories](http://www.djintelligence.com/success.asp)**  
+| **   [Why It Pays](http://www.djintelligence.com/pays.asp)**  
+| **   [Get Price and Sign Up](https://www.djintelligence.com/signup/signup.asp)**  
+| **   [2 Month Trial Offer](https://www.djintelligence.com/signup/trial.asp)**  
+| **   [Contact Us](http://www.djintelligence.com/contact.asp)**  
 | **   [News Blog](http://www.djintelligence.com/news)**  
 | **   [Account Login](http://www.djintelligence.com/account)**  
    
@@ -26,11 +26,11 @@
 **Professional DJs Speak Up   **  
  
 
-|  "I have now secured regular bookings with one of the UK major hotel chains. The best investment I have made in years!" |    
+|  "I have to tell after only one evening of checking out the site with the trial subscription and I was convinced." |    
 ---|---  
   
    
-[Starsound UK](http://www.djintelligence.com/pages/success.asp)    
+[Just For Fun Mobile Music](http://www.djintelligence.com/success.asp)    
    
   
 ---  
@@ -65,7 +65,7 @@ Intelligence, Inc. takes your privacy seriously. Please read the following to le
   * DJ Intelligence does not rent, sell, or share personal information about you with other people or nonaffiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances: 
     * We provide the information to trusted partners who work on behalf of or with DJ Intelligence under confidentiality agreements. These companies may use your personal information to help DJ Intelligence communicate with you about offers from DJ Intelligence and our marketing partners. However, these companies do not have any independent right to share this information. 
     * We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims; 
-    * We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of DJ Intelligence's terms of use, or as otherwise required by law. 
+    * We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of DJ Intelligence's terms of service, or as otherwise required by law. 
     * We transfer information about you if DJ Intelligence is acquired by or merged with another company. In this event, DJ Intelligence will notify you before information about you is transferred and becomes subject to a different privacy policy. 
   * DJ Intelligence displays targeted advertisements based on personal information. Advertisers (including ad serving companies) may assume that people who interact with, view, or click on targeted ads meet the targeting criteria - for example, women ages 18-24 from a particular geographic area. 
     * DJ Intelligence does not provide any personal information to the advertiser when you interact with or view a targeted ad. However, by interacting with or viewing an ad you are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the ad. 
@@ -99,6 +99,6 @@ Intelligence, Inc. takes your privacy seriously. Please read the following to le
 
 **Questions and Suggestions**
 
-  * If you have questions or suggestions, please [contact us](https://web.archive.org/web/20100927145439id_/http%3A//www.djintelligence.com/pages/contact.asp).
+  * If you have questions or suggestions, please [contact us](https://web.archive.org/web/20110614190055id_/http%3A//www.djintelligence.com/contact.asp).
 
 
