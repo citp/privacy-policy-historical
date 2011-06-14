@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easports.com privacy policy that was archived on 2010-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100923200719id_/http%3A//www.ea.com/global/legal/privacy_enus.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easports.com privacy policy that was archived on 2011-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110614213403id_/http%3A//www.ea.com/global/legal/privacy_enus.jsp) for the most accurate reproduction.*
 
 # Privacy Policy - Electronic Arts - EA Games
 
