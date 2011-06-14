@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the congress.org privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227050111id_/http%3A//www.economistgroup.com/results_and_governance/governance/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the congress.org privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615015252id_/http%3A//www.economistgroup.com/results_and_governance/governance/Privacy) for the most accurate reproduction.*
 
 # Privacy | Economist Group
 
@@ -72,9 +72,11 @@ You can delete cookies from your hard drive at any time. Bear in mind, though, t
 
 You will be able to use our websites and applications even if your browser is not set to accept cookies. However, certain features and content may not be available to you and you will have to log in every time you visit.
 
-If you specifically do not wish us to collect cookie information for the purpose of content and behavioural targeted advertising, you can "opt out" by following the instructions at [http://www.cookiecentral.com](http://www.cookiecentral.com/).
+By visiting an Economist Group website, you consent to the use of cookies as explained above.
 
-Further information on the use of cookies can be found at: [www.cookiecentral.com/faq](http://www.cookiecentral.com/faq).
+You can also choose whether you wish us to collect cookie information for these purposes using the settings in your browser, as further explained at[ http://www.cookiecentral.com](http://www.cookiecentral.com/).
+
+Further information on the use of cookies can be found at: [www.cookiecentral.com/faq](http://www.cookiecentral.com/faq). 
 
 ### E-mails
 
