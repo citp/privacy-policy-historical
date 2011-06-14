@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theyeogiyo.com privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214113158id_/http%3A//theyeogiyo.com/Main/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theyeogiyo.com privacy policy that was archived on 2011-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110614103412id_/http%3A//theyeogiyo.com/Main/privacy-policy.php) for the most accurate reproduction.*
 
 # The Yeogiyo | Privacy Policy
 
@@ -20,7 +20,7 @@ When it comes to information that you might have to give us to book travel, you 
 In the interest of full disclosure, we're also checking where you're coming from — if you're living in Bulgaria and logged in to the site, we might just know that. That doesn't mean we know where you live though — but we'd like to if you're having a party. 
 
   
-We are a legal, licensed business and we have the utmost respect for your personal information.
+We are a legal, licensed business and we have the utmost respect for your personal information. 
 
   
 
