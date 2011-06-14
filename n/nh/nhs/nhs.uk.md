@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nhs.uk privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227004454id_/http%3A//www.nhs.uk/aboutNHSChoices/aboutnhschoices/termsandconditions/Pages/Privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nhs.uk privacy policy that was archived on 2011-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110614154748id_/http%3A//www.nhs.uk/aboutNHSChoices/aboutnhschoices/termsandconditions/Pages/Privacypolicy.aspx) for the most accurate reproduction.*
 
 # Your privacy on NHS Choices
 
@@ -10,6 +10,18 @@ We collect information directly from you in a number of ways. One way is by usin
 
 The cookies we use identify you merely as a number. (If you are uncomfortable about the use of cookies, you can disable cookies on your computer by changing the settings in the preferences or options menu in your internet browser.) 
 
+  * [For more information read our cookies policy](https://web.archive.org/aboutNHSChoices/aboutnhschoices/termsandconditions/Pages/cookies-policy.aspx)
+
+
+
 We also collect information when you give it to us. For example, you may register to use the message-posting facility called 'Patient feedback'. When we collect this type of information, we will notify you as to why we are asking for information and how this information will be used. It is completely up to you whether you provide it.
 
-When visiting NHS Choices pages that display a Facebook Like button, information relating to the date and time of your visit, the web page you are on (commonly known as the URL) and other technical information about the IP address, browser and operating system you use will be collected by Facebook. If you are logged into Facebook, your user ID number will also be associated with the information mentioned above. For more information, read the [Facebook privacy policy](http://www.facebook.com/help/?faq=17512).
+The social media bookmarking sites that NHS Choices links to are third-party sites and NHS Choices does not have any control over the way that these sites use your information.
+
+If you choose to access these sites using the links provided, the operators of these sites may collect information from you that may be used by them in accordance with their privacy policy, which may differ from ours.
+
+You should read their respective privacy policies carefully to find out what happens to any information that is collected by these services when you use them.
+
+Videos from NHS Choices, whether viewed on [www.nhs.uk](http://www.nhs.uk/) or embedded in third-party sites, are supplied (streamed) to users by a third-party company, Brightcove. A product called TubeMogul is used by Brightcove to compile statistics for NHS Choices; it uses an anonymous tracking cookie and stores no personal data. For more information see the [Brightcove privacy policy](http://www.brightcove.com/en/privacy/ "Brightcove privacy policy") and the [TubeMogul privacy policy](http://www.tubemogul.com/company/privacy "Tube Mogul privacy policy").
+
+Use of NHS Choices tools on third-party sites will be tracked. No personal data is collected by the tools. Information gathered by NHS Choices includes the user’s IP address, the web page a tool is accessed from, and how many times it is accessed. In some cases, tracking is used to show user journeys through a tool. This information is the sole property of NHS Choices and will not be shared with third parties. All NHS Choices tools store the number of times a user has visited the tool. Some tools also store ‘state’ information so that when a user returns to a tool it is in the ‘state’ they left it in. 
