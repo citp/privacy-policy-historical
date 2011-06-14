@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the windowssecrets.com privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213195320id_/http%3A//windowssecrets.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the windowssecrets.com privacy policy that was archived on 2011-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110614135036id_/http%3A//windowssecrets.com/privacy) for the most accurate reproduction.*
 
-# Microsoft Windows XP, Vista, 7, Internet Explorer (IE), Firefox, Windows Update
+# Privacy Policy
 
 All subscribers to the Windows Secrets Newsletter and visitors to the WindowsSecrets.com Web site are covered by our Ironclad Privacy Policy:
 
@@ -11,16 +11,16 @@ All subscribers to the Windows Secrets Newsletter and visitors to the WindowsSec
 
 
 **What this Means**  
-This Privacy Policy applies solely to information we collect for the Windows Secrets Newsletter (the "Newsletter") and through the WindowsSecrets.com Web Site (the "Web Site"). For information on how we handle information collected by any other means (e.g., via customer information forms, etc.) please contact us at the addresses listed below.
+This Privacy Policy applies solely to information we collect for the Windows Secrets Newsletter (the “Newsletter”) and through the WindowsSecrets.com Web Site (the “Web Site”). For information on how we handle information collected by any other means (e.g., via customer information forms, etc.) please contact us at the addresses listed below.
 
 **1\. We will never sell, rent, or give away your address to any outside party, ever.**  
 If you are a subscriber to the Newsletter we collect your e-mail address. We then send each issue of the Newsletter to your e-mail address, or we send a notification to your e-mail address that the Newsletter is available at the Web Site, according to your preferences if given. When you set your preferences or upgrade to the paid version of the Newsletter you may provide some additional personal information, including an alternate e-mail address and credit card information.
 
-Visitors to the Web Site who send us an e-mail or who use the form on the [Contact Us](http://windowssecrets.com/contact) page may provide additional information, some of which may be personal information. For each visitor to the Web Site we may collect the IP address from which you accessed the Web Site, the contents of forms and queries, what items you clicked on each applicable Web page, information about the browser you are using, and other usage information. Some of this information is personal and some of it is not.
+Visitors to the Web Site who send us an e-mail or who use the form on the [Contact Us](https://web.archive.org/contact) page may provide additional information, some of which may be personal information. For each visitor to the Web Site we may collect the IP address from which you accessed the Web Site, the contents of forms and queries, what items you clicked on each applicable Web page, information about the browser you are using, and other usage information. Some of this information is personal and some of it is not.
 
 Your personal information will never be used except to make the Newsletter available to you if you are a subscriber, or to contact you if there is a question about your Newsletter subscription, or to respond to a query about the Newsletter or the Web Site. We will never sell, rent, or give away your personal information to any outside party, ever. We will share your address and other personal information only with persons or companies who help us prepare and distribute the Newsletter and maintain the Web Site but we will not give them the right to contact you on their own behalf or on behalf of anyone else. In addition we may disclose your personal information to a person or company that subsequently owns or maintains the Newsletter or the Web Site, but only if that person or company agrees to comply with the provisions of this Privacy Policy with respect to the use of your information.
 
-When you visit a page at the Web Site to sign up for a subscription to the Newsletter, view an issue of the Newsletter, or to use some of the other resources on the Web Site, your browser may write a "cookie" file to your computer. A "cookie" is a tiny, plain-text file that counts the number of unique visitors and what Web sites they came from. It does not contain any personal information. You can stop your browser from using cookies by changing your settings, but there is no privacy benefit from doing so as far as our Web Site is concerned.
+When you visit a page at the Web Site to sign up for a subscription to the Newsletter, view an issue of the Newsletter, or to use some of the other resources on the Web Site, your browser may write a “cookie” file to your computer. A “cookie” is a tiny, plain-text file that counts the number of unique visitors and what Web sites they came from. It does not contain any personal information. You can stop your browser from using cookies by changing your settings, but there is no privacy benefit from doing so as far as our Web Site is concerned.
 
 **2\. We will never send you any unrequested e-mail, besides newsletter updates.**  
 In addition to the other e-mails discussed above in this Privacy Policy, we may send you e-mail updates about your subscription to the Newsletter or your use of the Web Site. We will never send you any other unrequested or unrelated e-mail.
@@ -38,4 +38,4 @@ You can access your personally identifiable information that we have collected t
 We reserve the right to revise this Privacy Policy from time to time in our discretion. If we modify this Privacy Policy we will post the revised Privacy Policy on the Web Site, and the revised Privacy Policy will take effect 30 days after posting. We will attempt to notify you of the posting through the e-mail address you provided. It is your responsibility to read e-mail messages from us and to periodically review this Privacy Policy page.
 
 **How to Contact Us**  
-We encourage you to contact us if you have any questions or concerns about the use of your personal information. Please use the form on the [Contact Us](http://windowssecrets.com/contact) page, or send postal mail to WindowsSecrets.com, Attn.: Editor, Windows Secrets c/o iNET Interactive, 9100 West Chester Towne Centre, Suite 200, West Chester, OH 45069-3108 USA.
+We encourage you to contact us if you have any questions or concerns about the use of your personal information. Please use the form on the [Contact Us](http://windowssecrets.com/contact) page, or send postal mail to WindowsSecrets.com, Attn.: Editor, Windows Secrets c/o iNET Interactive, 9100 West Chester Towne Centre, Suite 200, West Chester, OH 45069-3108 USA.
