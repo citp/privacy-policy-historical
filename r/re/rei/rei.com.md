@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rei.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206224823id_/http%3A//www.rei.com/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rei.com privacy policy that was archived on 2011-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110614140308id_/http%3A//www.rei.com/help/privacy.html) for the most accurate reproduction.*
 
 # REI Privacy Policy
 
