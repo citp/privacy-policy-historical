@@ -1,19 +1,10 @@
-> *The following text is extracted and transformed from the yesup.net privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225134827id_/http%3A//yesup.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yesup.net privacy policy that was archived on 2011-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110614093618id_/http%3A//yesup.net/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | YesUp Ecommerce Solutions Inc.
-
-[home](http://yesup.net/) > [About YesUp](http://yesup.net/about-yesup "View all posts in About YesUp") > Privacy Policy 
 
 ## Personal Information
 
 At YesUp, we are committed to protecting your privacy. Any information we collect, such as email addresses, is submitted at the visitors’ will. We do not and will not share any personal information with any third parties unless by governmental order. Other information is collected by our Payment Services provider but we have no access to this information. You may direct further inquiries to the Payment Services provider here:
-
-  * PayPal.com:  
-<http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/privacy-outside>
-  * 2checkout.com:  
-[http://www.2checkout.com](http://www.2checkout.com/)
-
-
 
 ## Cookies
 
@@ -31,10 +22,8 @@ However, note that if you reject some or all cookies, your experience at our sit
 
 While we use cookies in other parts of our Web site, cookies received with the payment processes are placed by our Payment Services provider. We do not have access to these cookies or any information that they may contain; please contact the Payment Services provider for more information on these cookies.
 
-  * PayPal.com:  
-<http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/privacy-outside>
-  * 2checkout.com:  
-[http://www.2checkout.com](http://www.2checkout.com/)
+  * PayPal.com: <http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/privacy-outside>
+
 
 
 
@@ -51,5 +40,3 @@ This site contains links to other sites. YesUp is not responsible for the privac
 ## Contacting the Web Site
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: [webmaster@yesup.net](mailto:webmaster@yesup.net)
-
-[](https://web.archive.org/web/20101225134827id_/http%3A//yesup.net/contact-us)
