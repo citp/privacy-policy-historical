@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hsn.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225180924id_/http%3A//www.hsn.com/cs/privacy_policy/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hsn.com privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615012457id_/http%3A//www.hsn.com/cs/privacy_policy/default.aspx) for the most accurate reproduction.*
 
 # Privacy Policy at HSN.com
 
@@ -103,7 +103,7 @@ California Residents - If you are a resident of California, in addition to the r
 
 We may provide this information in a standardized format that is not specific to you. The designated e-mail address for these requests is [Privacy.Officer@hsn.net](mailto:Privacy.Officer@hsn.net).
 
-© 2008 HSN, Inc. All rights reserved.
+© 2011 HSN, Inc. All rights reserved.
 
 **Linked information:**
 
