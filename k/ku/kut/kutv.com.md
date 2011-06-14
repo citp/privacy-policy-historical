@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kutv.com privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214045953id_/http%3A//connect2utah.com/about-privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kutv.com privacy policy that was archived on 2011-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110614164316id_/http%3A//connect2utah.com/about-privacypolicy) for the most accurate reproduction.*
 
 # About Us - Privacy Policy
 
