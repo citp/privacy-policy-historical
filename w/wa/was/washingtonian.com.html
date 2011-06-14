@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the washingtonian.com privacy policy that was archived on 2010-12-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101206203923id_/http%3A//www.washingtonian.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the washingtonian.com privacy policy that was archived on 2011-06-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110614023528id_/http%3A//www.washingtonian.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 
@@ -151,9 +151,9 @@ var ord=Math.random()*10000000000000000;
 
 
 <script language="JavaScript">
-      GA_googleAddSlot("ca-pub-7659396398034687", "MediumRectangle_Bottom"); 
+      GA_googleAddSlot("ca-pub-7659396398034687", "ROS_Bottom_MediumRectangle"); 
           GA_googleAddSlot("ca-pub-7659396398034687", "ROS_MediumRectangle_300x250"); 
-          GA_googleAddSlot("ca-pub-7659396398034687", "Leaderboard_Bottom"); 
+          GA_googleAddSlot("ca-pub-7659396398034687", "ROS_Bottom_Leaderboard"); 
           GA_googleAddSlot("ca-pub-7659396398034687", "ROS_Skyscraper_160x600"); 
           GA_googleAddSlot("ca-pub-7659396398034687", "ROS_HalfPage_300x600"); 
           GA_googleAddSlot("ca-pub-7659396398034687", "ROS_Tile_260x60"); 
@@ -462,110 +462,105 @@ Email: privacy@washingtonian.com</p>
 </script>
         
 	</div>
+	
+    <p>
+        <a href="http://www.itunes.com/apps/WashMag" target="_new"><img src="/images/iphone-banner.gif" width="300" alt="Click to download our new iPhone mobile app"></a>        
+    </p>
+    <p>&nbsp;</p>
 
 
 					
 
 <script type="text/javascript" src="http://www.washingtonian.com/js/emailcheck.js"></script>
 
-<script type="text/javascript" src="http://www.washingtonian.com/js/jquery-1.4.2.min.js"></script> 
-<script>
-    // To avoid conflicts, use the 'jq' variable instead of the $ variable
-    var jq = jQuery.noConflict();
-    
-    // If cssQuery is not defined (loaded earlier), redefine it in terms of jQuery
-    // For everything but corner cases, this is good enough
-    if (typeof cssQuery == 'undefined') {
-        function cssQuery(s, f) { return jq.makeArray(jq(s, f)) };
-    };
-</script>
-   
-
 <script language="javascript">
               
-function subscribeToNewsletter() {
-    var url = document.theForm.action;
-    var Email = document.theForm.fields_email.value;
-    //var pwd = document.theForm.pwd.value;
-    //var confirm = document.theForm.confirm.value;
-    var pars = 'Email=' + Email; // + '&pwd=' + pwd + '&confirm=' + confirm;
-    var newsletters = [];
-    var i;
-    for (i=0; i<document.theForm.newsletters.length; i++) {
-        if (document.theForm.newsletters[i].checked) {
-            newsletters = newsletters + '&newsletters=' + document.theForm.newsletters[i].value;
+    function subscribeToNewsletter() {
+        var url = document.theForm.action;
+        var Email = document.theForm.fields_email.value;
+        //var pwd = document.theForm.pwd.value;
+        //var confirm = document.theForm.confirm.value;
+        var pars = 'Email=' + Email; // + '&pwd=' + pwd + '&confirm=' + confirm;
+        var newsletters = [];
+        var i;
+        for (i=0; i<document.theForm.newsletters.length; i++) {
+            if (document.theForm.newsletters[i].checked) {
+                newsletters = newsletters + '&newsletters=' + document.theForm.newsletters[i].value;
+            }
         }
-    }
-    pars = pars + newsletters;
-    var myAjax = new Ajax.Updater('MsgResult', url, {method: 'post', parameters: pars});
-    document.getElementById('MsgResult').style.display='block';
-    
-    //document.getElementById('nl_email').style.display='block';
-    //document.getElementById('nl_step1_button').style.display='block';
-    
-    //document.getElementById('nl_pwd').style.display='none';
-    //document.getElementById('nl_confirm').style.display='none';
-    //document.getElementById('nl_step2_button').style.display='none';
-    
-    //field = document.getElementById('nl_email');
-    //alert(field.value);
-    //field.value = field.defaultValue;
-    //alert(field.defaultValue);
-}
-
-function clearText(field){
-    if (field.defaultValue == field.value) field.value = '';
-    else if (field.value == '') field.value = field.defaultValue;
-}  
-
-function goNLStep2() {
-    var mailcheck = checkemail(document.forms.theForm.Email.value);
-    if (mailcheck) {
-        document.getElementById('nl_email').style.display='none';
-        document.getElementById('nl_step1_button').style.display='none';
+        pars = pars + newsletters;
+        var myAjax = new Ajax.Updater('MsgResult', url, {method: 'post', parameters: pars});
+        document.getElementById('MsgResult').style.display='block';
         
-        document.getElementById('nl_pwd').style.display='block';
-        document.getElementById('nl_confirm').style.display='block';
-        document.getElementById('nl_step2_button').style.display='block';
+        //document.getElementById('nl_email').style.display='block';
+        //document.getElementById('nl_step1_button').style.display='block';
+        
+        //document.getElementById('nl_pwd').style.display='none';
+        //document.getElementById('nl_confirm').style.display='none';
+        //document.getElementById('nl_step2_button').style.display='none';
+        
+        //field = document.getElementById('nl_email');
+        //alert(field.value);
+        //field.value = field.defaultValue;
+        //alert(field.defaultValue);
     }
-    else {
-        return mailcheck;
+    
+    function clearText(field){
+        if (field.defaultValue == field.value) field.value = '';
+        else if (field.value == '') field.value = field.defaultValue;
+    }  
+    
+    // function goNLStep2() {
+    //     var mailcheck = checkemail(document.forms.theForm.Email.value);
+    //     if (mailcheck) {
+    //         document.getElementById('nl_email').style.display='none';
+    //         document.getElementById('nl_step1_button').style.display='none';
+    //         
+    //         document.getElementById('nl_pwd').style.display='block';
+    //         document.getElementById('nl_confirm').style.display='block';
+    //         document.getElementById('nl_step2_button').style.display='block';
+    //     }
+    //     else {
+    //         return mailcheck;
+    //     }
+    // }
+    
+    function verifyRequired() {
+        if (document.theForm["fields_email"].value == "" || document.theForm["fields_email"].value == "Email Address" ) {
+            document.theForm["fields_email"].focus();
+            alert("The Email field is required.");
+            return false;
+        }
+        if (jq("input[@class=listidcheckbox]:checked").length == 0) {
+            alert("Please select a list to receive.");
+            return false;
+        }
+        var mailcheck = checkemail(document.theForm["fields_email"].value);
+        if (!mailcheck) {
+            return false;
+        }
+        // above jquery replaces this hardcoded list
+        //     if (
+        //         !document.theForm["listid:9857619"].checked &&
+        //         !document.theForm["listid:9857616"].checked &&
+        //         !document.theForm["listid:9857621"].checked &&
+        //         !document.theForm["listid:9857618"].checked &&
+        //         !document.theForm["listid:9857617"].checked &&
+        //         true)  {
+        //             alert("Please select a list to receive.");
+        //             return false;
+        //     } 
+        x=document.theForm.submit();
+        msg= document.getElementById('MsgResult');
+        if (msg.style.display=='block')    {
+            msg.style.backgroundColor='#FFFEC0';
+        }
+        else    {
+            msg.style.display='block'
+        }
+    
+        return true;
     }
-}
-
-function verifyRequired() {
-    if (document.theForm["fields_email"].value == "" || document.theForm["fields_email"].value == "Email Address" ) {
-        document.theForm["fields_email"].focus();
-        alert("The Email field is required.");
-        return false;
-    }
-    // The following length returns 1 if no items are checked -- weird
-    if (jq("input[@class=listidcheckbox]:checked").length == 1) {
-        alert("Please select a list to receive.");
-        return false;
-    }
-    // above jquery replaces this hardcoded list
-    //     if (
-    //         !document.theForm["listid:9857619"].checked &&
-    //         !document.theForm["listid:9857616"].checked &&
-    //         !document.theForm["listid:9857621"].checked &&
-    //         !document.theForm["listid:9857618"].checked &&
-    //         !document.theForm["listid:9857617"].checked &&
-    //         true)  {
-    //             alert("Please select a list to receive.");
-    //             return false;
-    //     } 
-    x=document.theForm.submit();
-    msg= document.getElementById('MsgResult');
-    if (msg.style.display=='block')    {
-        msg.style.backgroundColor='#FFFEC0';
-    }
-    else    {
-        msg.style.display='block'
-    }
-
-    return true;
-}
 </script>
 
 <div class="box-newsletter">
@@ -574,7 +569,7 @@ function verifyRequired() {
     <input type="hidden" name="targeturl" value="http://app.icontact.com/icp/signup.php">
     <input type="hidden" name="redirect" value="http://www.washingtonian.com/index.html">
     <input type="hidden" name="listid" value="__multi">
-    <input type="hidden" name="lists" value="9867677:9857619:9857616:9857621:9857618:9857617"> 
+    <input type="hidden" name="lists" value="9867677:9857619:9857616:9857621:9857618:9857617:9871285"> 
     
     <input type="hidden" name="specialid:9867677" value="AQM0">
     
@@ -592,6 +587,9 @@ function verifyRequired() {
     
     
     <input type="hidden" name="specialid:9857617" value="LPMN">
+    
+    
+    <input type="hidden" name="specialid:9871285" value="1OPL">
     
     <input type="hidden" name="clientid" value="398209">
     <input type="hidden" name="formid" value="1674">
@@ -634,6 +632,10 @@ function verifyRequired() {
             <li class="">
                 <input type="checkbox" class="listidcheckbox" id="listid:9857617" name="listid:9857617" checked=""> 
                     Where &amp; When
+             </li>
+            <li class="">
+                <input type="checkbox" class="listidcheckbox" id="listid:9871285" name="listid:9871285" checked=""> 
+                    Photo Opps
              </li>
 
         
@@ -680,11 +682,11 @@ function verifyRequired() {
 
 						<div>
 
-				   	 		<h1 class="fs10"><a href="/blogarticles/shopping/shoparound/17572.html" class="headline-link">Etsy Stylist: On the Go</a></h1>
+				   	 		<h1 class="fs10"><a href="/blogarticles/artsfun/afterhours/19819.html" class="headline-link">Baltimore Symphony Orchestra Serves Up Yet Another "Requiem"</a></h1>
 
 				   	 		<p class="fs1">
-								Vintage suitcases are sure to stand out from the rest on the airport luggage carousel 
-								<a href="/blogarticles/shopping/shoparound/17572.html">more</a>
+								Does the BSO’s next season promise anything new for listeners, or will it be more of the same? 
+								<a href="/blogarticles/artsfun/afterhours/19819.html">more</a>
 				   	 		</p>
 				   	 		<!-- div class="f1-actions">
 				   	 			<a href=""
@@ -719,11 +721,11 @@ function verifyRequired() {
 
 						<div>
 
-				   	 		<h1 class="fs10"><a href="/blogarticles/restaurants/bestbites/17574.html" class="headline-link">Table to Table: The Week in Food Events</a></h1>
+				   	 		<h1 class="fs10"><a href="/blogarticles/people/capitalcomment/19818.html" class="headline-link">For US Open Fans, Tiger Woods's Absence May Be a Good Thing</a></h1>
 
 				   	 		<p class="fs1">
-								This week, Seinfeld inspires a holiday celebration, chefs and fashion collide, and pastry meets cocktails. 
-								<a href="/blogarticles/restaurants/bestbites/17574.html">more</a>
+								Golf's Superbowl is close to home at Congressional Country Club in Bethesda 
+								<a href="/blogarticles/people/capitalcomment/19818.html">more</a>
 				   	 		</p>
 				   	 		<!-- div class="f1-actions">
 				   	 			<a href=""
@@ -774,6 +776,11 @@ function verifyRequired() {
 </script>
         
 	</div>
+	
+    <p>
+        <a href="http://www.itunes.com/apps/WashMag" target="_new"><img src="/images/iphone-banner.gif" width="300" alt="Click to download our new iPhone mobile app"></a>        
+    </p>
+    <p>&nbsp;</p>
 
 						</div>	
 <div style="clear: both;"></div>
@@ -785,7 +792,15 @@ function verifyRequired() {
 	
 	
 	<div id="ft">
-	
+	<div class="slider" align="center">
+					<div style="width: 980px; height: 205px;">
+				<div style="float: left;">
+					<iframe src="http://washingtonian.s3.amazonaws.com/footer/slider.html" width="980" height="200" scrolling="no" frame="0" frameborder="0" allowtransparency="yes"></iframe>
+
+			</div>
+			<div style="clear: both"></div>
+        	</div>
+	</div>
 
                 <div class="leaderboard">
                         
@@ -797,7 +812,7 @@ function verifyRequired() {
 	<div class="ad">
         
 <script language="JavaScript">
-          GA_googleFillSlot("Leaderboard_Bottom"); 
+          GA_googleFillSlot("ROS_Bottom_Leaderboard"); 
             
 </script>
         
@@ -847,6 +862,11 @@ function verifyRequired() {
 		</div>
 -->
 
+<div style="float:right; padding: 12px 0;">
+    <span style="color: #576E7E;font-size: 85%;">Follow Us</span>
+    <a href="http://www.facebook.com/washingtonian" alt="Follow us on Facebook" target="_new"><img height="16" alt="Follow us on Facebook" src="http://www.washingtonian.com/images/facebook.png"></a> <a href="http://twitter.com/#!/washingtonian" alt="Follow us on Twitter" target="_new"><img height="16" alt="Follow us at Twitter" src="http://www.washingtonian.com/images/twitter.png"></a> <a href="http://feeds.feedburner.com/WashingtonianBlogs" alt="Subscribe to our global feed" target="_new"><img height="16" alt="Subscribe to our global feed" src="http://www.washingtonian.com/images/rss_logo.gif"></a>
+</div>
+
 		<div class="footer">
 			<a href="http://www.washingtonian.com">Home</a> | 
 			<a href="https://w1.buysub.com/servlet/ConvertibleGateway?cds_mag_code=WSH&amp;cds_page_id=60116">Subscribe</a> | 
@@ -861,63 +881,85 @@ function verifyRequired() {
 
 			<a href="http://www.washingtonian.com/masthead.html">Masthead</a> | 
 			<a href="http://www.washingtonian.com/newsstands.html">Newsstands</a> | 
-			<a href="http://www.washingtonian.com/covers/2010.html">Cover Archive</a> |
-			<a href="http://www.washingtonian.com/crossword/crossword.html"><i>Washingtonian</i> Crossword</a> |
-			<a href="http://www.washingtonian.com/stories.html">Help Us With Stories</a> |
+			<a href="http://www.washingtonian.com/covers/2011.html">Cover Archive</a> |
+	                <a href="http://www.washingtonian.com/stories.html">Help Us With Stories</a> |
 			<a href="http://www.washingtonian.com/sitecredits.html">Site Credits</a> |
 			<a href="http://www.washingtonian.com/privacy.html">Privacy Policy</a>
 		</div>
 	</div> 
 
+<!--  tal:define="nocall python:request.RESPONSE.expireCookie('subscription_popup')" -->
 <!-- the "regular" subscriber popup -->
+
+<script src="http://www.washingtonian.com/colorbox/jquery.colorbox.js"></script>
+<link media="screen" rel="stylesheet" href="http://www.washingtonian.com/colorbox/colorbox.css">
+
 <script language="JavaScript">
 //<!-- Register for E-Mail Newsletters :: caption :: width: 800 :: height: 600 -->
 function lv_setCookie(c_name,value,expiredays)
 {
-var exdate=new Date();
-exdate.setDate(exdate.getDate()+expiredays);
-document.cookie=c_name+ "=" +escape(value)+
-((expiredays==null) ? "" : ";expires="+exdate.toGMTString() + ';path=/');
+    var exdate=new Date();
+    exdate.setDate(exdate.getDate()+expiredays);
+    document.cookie=c_name+ "=" +escape(value)+
+    ((expiredays==null) ? "" : ";expires="+exdate.toGMTString() + ';path=/');
 }
 
 function lv_getCookie(c_name)
 {
-if (document.cookie.length>0)
-  {
-  c_start=document.cookie.indexOf(c_name + "=");
-  if (c_start!=-1)
-    {
-    c_start=c_start + c_name.length+1;
-    c_end=document.cookie.indexOf(";",c_start);
-    if (c_end==-1) c_end=document.cookie.length;
-    return unescape(document.cookie.substring(c_start,c_end));
-    }
-  }
-return "";
+    if (document.cookie.length>0)
+      {
+      c_start=document.cookie.indexOf(c_name + "=");
+      if (c_start!=-1)
+        {
+        c_start=c_start + c_name.length+1;
+        c_end=document.cookie.indexOf(";",c_start);
+        if (c_end==-1) c_end=document.cookie.length;
+        return unescape(document.cookie.substring(c_start,c_end));
+        }
+      }
+    return "";
 }
 
-popcook = lv_getCookie('subscription_popup');
-document.observe('lightview:loaded', function() {
-if ( popcook != "True" )
-{
-  Lightview.show({
-    href: '/subscriberPopup',
-    rel: 'iframe',
-    title: '',
-    caption: '',
-    options: {
-     closeButton: 'small',
-      autosize: false,
-      width: 766,
-      height: 440
+popcook = lv_getCookie('colorbox_subscription_popup');
+jq(document).ready(function(){
+    if ( popcook != "True" ) {
+    	jq.colorbox({width:false, inline:true, scrolling:false, speed:700, open:true, href:"#colorbox-popup"});
+    	lv_setCookie('colorbox_subscription_popup','True',1);
     }
-  });
-  lv_setCookie('subscription_popup','True',7);
-}
 });
+
+// XXX - caused errors in bars
+// try { 
+//    document.observe('lightview:loaded', function() {
+//    if ( popcook != "True" )
+//    {
+//      Lightview.show({
+//        href: '/subscriberPopup',
+//        rel: 'iframe',
+//        title: '',
+//        caption: '',
+//        options: {
+//         closeButton: 'small',
+//          autosize: false,
+//          width: 766,
+//          height: 440
+//        }
+//      });
+//      lv_setCookie('subscription_popup','True',7);
+//    }
+//    });
+// } catch(err) {;}
 </script>
+	
 
+	<div style="display:none;">
+        <!-- This div MUST have an id of 'colorbox-popup' in order to work. -->
+<div id="colorbox-popup" style="padding:10px; background:#fff;">
+	<a href="https://w1.buysub.com/servlet/OrdersGateway?cds_mag_code=WSH&amp;cds_page_id=100358"><img src="/colorbox/bestOf-popup.jpg" width="460" height="590" border="0" alt="Subscribe to the magazine to win 2 tickets to the Best Of Washington Party"></a>
+</div>
 
+	</div>
+	
 
 
 </div>	
