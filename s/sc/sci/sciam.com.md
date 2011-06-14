@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the sciam.com privacy policy that was archived on 2010-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100625003044id_/http%3A//www.scientificamerican.com/page.cfm%3Fsection%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sciam.com privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615000818id_/http%3A//www.scientificamerican.com/page.cfm%3Fsection%3Dprivacy) for the most accurate reproduction.*
 
 # Scientific American: Privacy Policy
+
+**Effective Date: January 26, 2010**
 
 We at Scientific American, a division of Nature America, Inc. respect your concerns about privacy and value the relationship we have with you. This Privacy Notice describes the types of personal information we collect on our websites and for our print products, how we may use that information, and with whom we may share it. Our Privacy Notice also describes the measures we take to protect the security of the information we collect. In addition, we describe the choices you can make about how we use the information you provide to us. We also tell you how you can reach us to update your contact information, contact us with general questions or comments, inquire about our company and its products and services, or answer questions you may have about our privacy practices.
 
