@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the agendize.com privacy policy that was archived on 2010-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101025074650id_/http%3A//agendize.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agendize.com privacy policy that was archived on 2011-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110614211914id_/http%3A//www.agendize.com/privacy-policy) for the most accurate reproduction.*
 
-# Agendize | Click-to-Action Platform: Online Scheduling, Click to Call, Click to Chat, Click to Save & Share
+# Privacy Policy | Agendize
 
 ### Scope
 
