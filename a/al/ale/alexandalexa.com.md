@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alexandalexa.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206023104id_/http%3A//www.alexandalexa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alexandalexa.com privacy policy that was archived on 2011-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110614235750id_/http%3A//www.alexandalexa.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Alexandalexa
 
@@ -48,7 +48,7 @@ When you register, we will provide a link to the Privacy Policy and consent butt
 
 At all times, we will offer you the opportunity to opt-out of any service to which you have subscribed. Any e-mail we send you will contain an easy automated opt-out link so that you can opt-out of that particular mailshot. Simply follow the indications in the e-mail. In particular, you can opt-out from having your personally identifiable information shared with our business partners or AA's subsidiaries (except as required by law, court order, or as requested by other government or law enforcement authority or as may be required to deliver your purchases). It is not the Company's current policy to share its customers' personal details with third parties other than as stated herein.
 
-Should you choose to have your name and personal data removed from our database all together, you can do so by sending an Email to Enquiries@alexandalexa.com or by writing to us at: ALEXANDALEXA.COM, 1st Floor The Cranewell Building, The Gas Works, 2 Michael Road, London SW6 2AD, United Kingdom.
+Should you choose to have your name and personal data removed from our database all together, you can do so by sending an Email to Enquiries@alexandalexa.com or by writing to us at: ALEXANDALEXA.COM, Unit L01 (Lincoln Building), The Biscuit Factory, Tower Bridge Business Complex, 100 Clements Road, Bermondsey,London SE16 4DG UK
 
 ### How you can access and, if necessary, change your personal information AA maintains
 
@@ -60,7 +60,7 @@ We will only collect personally identifiable information to the extent deemed re
 
 ### Where and how to ask questions or file complaints
 
-If you require further information about our Privacy Policy, please go to the help section of the web site where frequently asked questions (FAQ's) are answered, if you require more information please go to the Contact Us section of the web site and send us an email If you wish to talk to a ALEXANDALEXA.COM customer care representative please call UK 0845 838 1331 or International 0044 (0)207 384 1505
+If you require further information about our Privacy Policy, please go to the help section of the web site where frequently asked questions (FAQ's) are answered, if you require more information please go to the Contact Us section of the web site and send us an email If you wish to talk to a ALEXANDALEXA.COM customer care representative please call UK 0845 838 1331 or International +44 (0) 207 232 4200
 
 ### Your consent
 
