@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lexar.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231213549id_/http%3A//www.lexar.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lexar.com privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615000604id_/http%3A//www.lexar.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy policy | Lexar
 
