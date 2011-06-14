@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the obgyn.net privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227234112id_/http%3A//www.obgyn.net/about.asp%3Fpage%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the obgyn.net privacy policy that was archived on 2011-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110614110158id_/http%3A//www.obgyn.net/about.asp%3Fpage%3Dprivacy_policy) for the most accurate reproduction.*
 
 # UBM Medica OBGYN.net Privacy Policy
 
