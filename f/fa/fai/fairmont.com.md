@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fairmont.com privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618232027id_/http%3A//www.fairmont.com/EN_FA/FooterNavigation/FirstLevel/PrivacyPolicy.htm%3FDisplayType%3DPopup) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fairmont.com privacy policy that was archived on 2011-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110614085754id_/http%3A//www.fairmont.com/EN_FA/FooterNavigation/FirstLevel/PrivacyPolicy.htm%3FDisplayType%3DPopup) for the most accurate reproduction.*
 
 # Privacy Policy
 
