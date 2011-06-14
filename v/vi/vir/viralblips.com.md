@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viralblips.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127182245id_/http%3A//www.viralblips.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viralblips.com privacy policy that was archived on 2011-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110614201826id_/http%3A//www.viralblips.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy for www.viralblips.com
 
