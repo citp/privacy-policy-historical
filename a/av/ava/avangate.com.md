@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avangate.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222190530id_/http%3A//www.avangate.com/online-payment-solutions/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avangate.com privacy policy that was archived on 2011-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110614234106id_/http%3A//www.avangate.com/online-payment-solutions/privacy.php) for the most accurate reproduction.*
 
 # Avangate.com - Security & Privacy
 
