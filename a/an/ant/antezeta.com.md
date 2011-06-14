@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the antezeta.com privacy policy that was archived on 2010-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100607052451id_/http%3A//www.antezeta.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the antezeta.com privacy policy that was archived on 2011-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110614205419id_/http%3A//antezeta.com/privacy.html) for the most accurate reproduction.*
 
 # » Antezeta - Data Privacy Statement
 
 This page explains our privacy policy and how we will use any information resulting from your visit to our website.
 
-  1. [Sites covered by this Privacy Statement](http://www.antezeta.com/privacy.html#p1 "Jump directly to the topic")
-  2. [What information do we collect?](http://www.antezeta.com/privacy.html#p2 "Jump directly to the topic")
-  3. [How we use your information](http://www.antezeta.com/privacy.html#p3 "Jump directly to the topic")
-  4. [Who we share your information with](http://www.antezeta.com/privacy.html#p4 "Jump directly to the topic")
-  5. [Inquires](http://www.antezeta.com/privacy.html#p5 "Jump directly to the topic")
-  6. [Changes to this Privacy Statement](http://www.antezeta.com/privacy.html#p6 "Jump directly to the topic")
+  1. [Sites covered by this Privacy Statement](http://antezeta.com/privacy.html#p1 "Jump directly to the topic")
+  2. [What information do we collect?](http://antezeta.com/privacy.html#p2 "Jump directly to the topic")
+  3. [How we use your information](http://antezeta.com/privacy.html#p3 "Jump directly to the topic")
+  4. [Who we share your information with](http://antezeta.com/privacy.html#p4 "Jump directly to the topic")
+  5. [Inquires](http://antezeta.com/privacy.html#p5 "Jump directly to the topic")
+  6. [Changes to this Privacy Statement](http://antezeta.com/privacy.html#p6 "Jump directly to the topic")
 
 
 
@@ -62,7 +62,7 @@ Antezeta will not sell, rent or lease your personal information to others. Antez
 
 ## Inquires
 
-If you have a question or complaint about this _Privacy Statement_ or about the site, you can [contact us](http://www.antezeta.com/cntct.html "Contact Antezeta").
+If you have a question or complaint about this _Privacy Statement_ or about the site, you can [contact us](http://antezeta.com/cntct.html "Contact Antezeta").
 
 ## Changes to this Privacy Statement
 
