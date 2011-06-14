@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hermanmiller.com privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213123157id_/http%3A//www.hermanmiller.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hermanmiller.com privacy policy that was archived on 2011-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110614201230id_/http%3A//www.hermanmiller.com/Privacy) for the most accurate reproduction.*
 
 # Privacy - Website - Policies and Legal Stuff - About Herman Miller - About Us - Herman Miller
 
