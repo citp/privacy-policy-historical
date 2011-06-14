@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jckonline.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212202638id_/http%3A//www.jckonline.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jckonline.com privacy policy that was archived on 2011-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110614132823id_/http%3A//www.jckonline.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Jewelers' Circular Keystone - JCK
+# Privacy Policy - JCK
 
 _The effective date of this policy as posted is May 2010._
 
@@ -76,7 +76,3 @@ Norwalk, CT 06851
 Phone: Within the US at 888-306-2344  
 From Outside the US at 203-840-5810  
 Email: [privacymanager@jckonline.com ](mailto:privacymanager@jckonline.com%20)
-
-  * [](http://www.addthis.com/bookmark.php)
-
-
