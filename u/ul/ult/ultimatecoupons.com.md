@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ultimatecoupons.com privacy policy that was archived on 2010-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100913050639id_/http%3A//www.internetbrands.com/ib/privacy/travel%3Fsite%3Dwww.ultimatecoupons.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultimatecoupons.com privacy policy that was archived on 2011-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110614211035id_/http%3A//www.internetbrands.com/ib/privacy/travel%3Fsite%3Dwww.ultimatecoupons.com) for the most accurate reproduction.*
 
 # Site Privacy Policy
 
