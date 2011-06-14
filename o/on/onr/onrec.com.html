@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the onrec.com privacy policy that was archived on 2010-11-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101101194815id_/http%3A//www.onrec.com/pages/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the onrec.com privacy policy that was archived on 2011-06-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110614220011id_/http%3A//www.onrec.com/pages/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
@@ -37,11 +37,95 @@
 	<!--[if IE 6]>
 	<link rel="stylesheet" type="text/css" media="screen" href="/style/ie6.css" />
 	<![endif]-->
+    <script src="http://jqueryjs.googlecode.com/files/jquery-1.2.6.min.js" type="text/javascript"></script>
+	<script src="/js/popup.js" type="text/javascript"></script>
+    <style type="text/css">
+			/*Pop Up*/
+		#backgroundPopup{
+			display:none;
+			position:fixed;
+			_position:absolute; /* hack for internet explorer 6*/
+			height:100%;
+			width:100%;
+			top:0;
+			left:0;
+			background:#000000;
+			border:1px solid #cecece;
+			z-index:1000;
+		}
+		#popupContact{
+			display:none;
+			position:fixed;
+			_position:absolute; /* hack for internet explorer 6*/
+			height:190px;
+			width:662px;
+			background:#FFFFFF;
+			border:2px solid #cecece;
+			z-index:1002;
+			padding:12px;
+		font-size:13px;
+		}
+		#popupContact h1{
+			text-align:left;
+			color:#6FA5FD;
+			font-size:22px;
+			font-weight:700;
+			border-bottom:1px dotted #D3D3D3;
+			padding-bottom:2px;
+			margin-bottom:20px;
+		}
+		#popupContactClose{
+			font-size:14px;
+			line-height:14px;
+			right:6px;
+			top:4px;
+			position:absolute;
+			color:#6fa5fd;
+			font-weight:700;
+			display:block;
+			cursor:pointer;
+		}
+	</style>
 
 </head>
 
 <body class="yui-skin-sam">
-	<div id="hat">
+	
+	<div id="popupContact">
+	<a id="popupContactClose">x</a>
+	
+<form method="post" action="/pages/newsletters" id="emailSignup" class="compact" name="TheForm">
+
+<h3>If you would like one email a day, weekdays only, with the latest online recruitment news subscribe here, you can unsubscribe at any time.</h3>
+
+	<fieldset>
+
+		<input type="hidden" name="submitted" value="1">
+		
+
+		<div class="">
+			<label for="email"><strong>Name:</strong></label>
+			<input name="name" class="txt" maxlength="128">
+		</div>
+		
+		<div class="submitArea">
+			
+			<label for="email"><strong>Email address:</strong></label>
+			<input name="email" class="txt" maxlength="128">
+			
+			<button class="submit" type="submit">Subscribe</button>
+		</div>
+		
+
+	</fieldset>
+
+</form>
+
+
+ 
+</div> <!--#popupContact-->
+	
+    <div id="hat">
 		<div class="inner">
 			<h3 class="strapLine"><em>The global online recruitment resource</em></h3>
 		</div>
@@ -79,11 +163,13 @@
 	
 </form>
 		
-		<ul id="userStatus" class="loggedOut">
+		
+        <a href="http://www.recruitingtrends.com" target="_blank" class="recruiting-trends"><img src="/images/recruiting-trends.gif"></a>
+        <!--<ul id="userStatus" class="loggedOut">
 	<li class="login"><a href="/login.asp?DestURL=%2Fpages%2Fprivacy%5Fpolicy">Login</a></li>
 	<li class="signup"><a href="/pages/register">Sign up</a></li>
 </ul>
-
+-->
 		
 	</div>
 	
@@ -111,11 +197,10 @@
 <li class="hasChildren"><a href="/pages/magazine" title="Magazine">Magazine</a><ul>
 <li><a href="http://www.onrec.com/pages/magazine" title="The Latest Edition">The Latest Edition</a></li>
 <li><a href="/pages/magazine_subscription" title="Magazine subscription">Magazine subscription</a></li>
-<li><a href="http://www.talentmanagementtech.com/index.htm" title="Talent Management Technology">TMT</a></li>
 <li><a href="http://www.recruitingtrends.com/" title="RecruitingTrends.com">RecruitingTrends.com</a></li>
 </ul></li>
 <li class="hasChildren"><a href="http://www.linkedin.com/groups?mostPopular=&amp;gid=78676" title="Forums" target="_blank">Forums</a><ul>
-<li><a href="http://www.linkedin.com/groups?mostPopular=&amp;gid=78676" title="LinkedIn Forum">LinkedIn Forum</a></li>
+<li><a href="http://www.linkedin.com/groups?mostPopular=&amp;gid=78676" title="onrec Forum">onrec Forum</a></li>
 </ul></li>
 </ul>
 
@@ -223,7 +308,7 @@
 	</div>-->
 
 	<div class="legal">
-		<p>Copyright © 2010 <a href="http://www.tarsus-group.com"> Tarsus Group plc</a>. All rights reserved. <a href="/pages/privacy_policy">Privacy Policy</a> | <a href="/pages/sitemap">Site Map</a></p>
+		<p>Copyright © 2011 <a href="http://www.tarsus-group.com"> Tarsus Group plc</a>. All rights reserved. <a href="/pages/privacy_policy">Privacy Policy</a> | <a href="/pages/sitemap">Site Map</a></p>
 	</div>
 </div>
 
