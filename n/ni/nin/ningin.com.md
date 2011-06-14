@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ningin.com privacy policy that was archived on 2010-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100923105906id_/http%3A//mixrmedia.com/privatepolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ningin.com privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615013656id_/http%3A//mixrmedia.com/privatepolicy) for the most accurate reproduction.*
 
 # 
 
 ## Privacy Policy
 
-Ningin.com is part of the Mixr Media, LLC family of websites. This Privacy Policy applies to all registered users of Ningin.com and the Mixr Media Network. 
+Ningin.com, ZiggyTek.com, Girlybubble.com, Wirebot.com, BlitzNation.com, FlauntMe.com, SwanDiary.com, Rekuru.com, CrazySingleLife.com, HTCYou.com, OMGHaute.com, and FinalFantasy14Players.com are part of the Mixr Media, LLC family of websites. This Privacy Policy applies to all registered users of the aforementioned sites and the Mixr Media Network. 
 
 ### Overall Privacy Statement.
 
@@ -83,7 +83,7 @@ We are always seeking to improve our network of Web sites and our business. In a
 
 ### What are my options?
 
-Users who would rather not provide any of the user data requested by our registration process do not need to register with us. You can still view much of the content and use many of the services offered by our sites without registering. 
+Users who would rather not provide any of the user data requested by our registration process do not need to register with us. You can still view much of the content and use many of the services offered by our sites without registering. You may also opt-out of certain information collecting, such as information gathered from IP addresses, using the Network Advertising Initiative [here](http://www.networkadvertising.org/). 
 
 ### How can I review and update my personally identifiable information?
 
