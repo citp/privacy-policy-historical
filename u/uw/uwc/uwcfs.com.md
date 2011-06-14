@@ -1,87 +1,104 @@
-> *The following text is extracted and transformed from the uwcfs.com privacy policy that was archived on 2010-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101101061814id_/http%3A//www.uwcfs.com/en/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uwcfs.com privacy policy that was archived on 2011-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110614215705id_/http%3A//www.uwcfs.com/en/legal/privacy-policy) for the most accurate reproduction.*
 
-# UWC Financial Services Limited - Privacy Policy
+# Privacy policy | UWC Financial Services
 
-US: UWC Financial Services Ltd (“UWCFS”), 
+UWC Financial Services Ltd (hereafter called "UWCFS") considers you as its registered user and your privacy important. 
 
-YOU: The registered user of UWC Financial Services Ltd services. 
+#### UWCFS Privacy and Use of Personal Information
 
-**UWC Financial Services Ltd  
-Privacy and Handling of Personal Information Policy**
+UWCFS Ltd complies with the Data Protection Act 1998 with respect to information about its customers’ private information. We make every effort to conduct appropriate management and maintain accuracy and confidentiality of information. However, information that is already in the public domain is not considered confidential.   
+You as our customer take full responsibility for informing us about any changes that may occur in your personal details such as change of address, or change of name. You confirm that you will inform us in writing about any such changes, and provide us with the photocopies of documentary evidence so that we can keep our records updated. 
 
-UWC Financial Services Ltd complies with the Data Protection Act 1998 with respect to information held on customers. We make every effort to conduct appropriate management and maintain accuracy and confidentiality of information. Note: information that is already in the public domain is not confidential. 
+#### 1\. The information you will provide us with is used
 
-You are responsible for informing Us if your personal details change i.e. new address, change of name. You confirm that you will inform Us, by writing to Us advising Us (and producing copies of documentary evidence to back up the change) of any change to your personal information so that we can keep our records updated. 
+  * \- to facilitate UWCFS services and ensure secure transaction processing;
+  
 
-1\. The information you provide is used: 
+  * \- to keep customer records updated;
+  
 
-• primarily for the provision of our services so that the transactions progress securely and soundly;  
-• updating and enhancing client records;   
-• for purposes ancillary to the provision of the services or the administration of your account;  
-• analysis to help manage the company;  
-• statutory returns;  
-• legal and regulatory compliance;  
-• for checking the identity of a person or business. 
+  * \- for the smooth provision of our services and accurate administration of your account;
+  
 
-Use of information is subject to the Data Protection Act 1998. 
+  * \- as data necessary for company management;
+  
 
-Please note that the service we provide for you may require Us to give information to third parties such as: 
+  * \- for statutory returns;
+  
 
-• banks;  
-• exchanges having control or jurisdiction over us;  
-• third parties in connection with the provision of services to You by Us;   
-• electronic search providers for carrying out anti-money laundering and sanction checks;   
-• Serious Organised Crime Agency where money laundering or terrorist financing is suspected to investigate or prevent fraud or other illegal activities; • Warning! UWCFS may have to give Your personal information to persons(s) or organisations in countries located outside the European Economic Area (“EEA”) that do NOT have laws to protect the Client's personal information. 
+  * \- legal and regulatory compliance;
+  
 
-2\. The types of Information acquired 
+  * \- to check the identity of an individual or a business.
 
-The most general types of information to be acquired are up to date proof of address, name, date of birth, sex, and telephone number of the customer. Companies will also be asked for a copy of their memorandum & articles of association, list of current shareholders and directors last annual return; I.D. and proof of address of beneficial owners; directors and powers of attorney where necessary. 
 
-3\. Applications with regard to the data, from the Customer 
 
-• You have a right under the data protection legislation to the personal date the UWCFS holds about you. 
+Please note that the service we provide for you may require us giving information to third parties such as 
 
-• Unless there is a particular reason, we approve customer requests for the disclosure of their own information to third parties after checking that the applicant is the person concerned. In addition, if the information about the customer is inaccurate and we know it is, we modify it so that it is accurate. 
+  * \- banks;
+  
 
-• If your require information or require information to be disclosed to a third party UWCFS are entitled to charge You a small fee for any administrative work and costs involved in producing the information. 
+  * \- exchange facilities having control or jurisdiction over us;
+  
 
-4\. Customer Queries and Complaints 
+  * \- third parties in connection with the provision of our services for you;
+  
 
-Direct all queries relating to the disclosure, correction, to the telephone number and address given below. 
+  * \- electronic search providers for carrying out anti-money laundering and sanction checks;
+  
 
-Privacy Policy Queries: 
+  * \- SOCA (Serious Organized Crime Agency), to investigate or prevent fraud or other illegal activities in case suspicion arises about money laundering or terrorist financing.
+
+
+
+UWCFS may have to give your personal information to persons(s) or organizations located in countries outside EEA (European Economic Area) that do not have laws to protect customers’ personal information. 
+
+#### 2\. Types of information required
+
+The most general types of information UWCFS requires are customers’ up-to-date proof of address, name, date of birth, sex, and telephone number. Corporate entities will also be asked for a copy of their memorandum and articles of association, list of current shareholders and director’s last annual return; ID and proof of address of beneficial owners; directors and powers of attorney, where applicable. 
+
+#### 3\. Applications regarding customers’ data
+
+The data protection legislation gives the customers the right to access the personal data that UWCFS has about them.   
+Unless there is a particular reason, UWCFS approves customer requests regarding disclosure of their information to third parties after checking that the applicant is the person concerned. Additionally, in case of inaccurate information that we know about, we will apply the necessary changes to it.  
+If you as a customer require information or require information to be disclosed to a third party, UWCFS is entitled to charge you a minor fee for any administrative work and costs involved in producing this information. 
+
+#### 4\. Customer inquiries and complaints
+
+All customer inquiries regarding disclosure or correction of information should be directed to the following UWCFS contact details: 
+
+**Privacy Policy Inquiries:**
 
 Tel: +44 (0) 208 899 6970  
 Fax: +44 (0) 208 889 6001  
 E-mail: complaint@uwcfs.com
 
 UWC Financial Services Ltd  
-Building 3, of. 201, Chiswick Park, 566 Chiswick High Road   
-London W4 5YA  
-UK
+Building 3, Office 122c, Chiswick Park, 566 Chiswick High Road   
+London W4 5YA, UK
 
-Business hours:  
-9.00 a.m. to 5:00 p.m.  
-(Excluding weekends, public holidays and days of technical works (of which customers will be advised of in advance).) 
+**Business hours:** 9.00 a.m. - 6:00 p.m.
 
-5\. Internet Privacy 
+(Business hours exclude weekends, public holidays and days for technical maintenance, of which customers will be informed in advance). 
 
-Our website uses cookies. Cookies collect information about your use of the website, including your connection speed, details of your operating system, the time and duration of your visit and your IP address. The information collected by cookies enables us to maintain and keep our website updated, the information advises which pages are viewed and for how long etc. We will not attempt to personally identify you from your IP address unless required to as a matter of law or in order to protect us or our customers' rights. 
+#### 5\. Internet privacy
 
-Your use of our website is at your own risk we have tried to create a secure website but do not accept responsibility or liability for the security of personal, sensitive or confidential information transmitted via the Internet the internet is not necessarily a secure environment there is always a possibility that any information transmitted via the Internet could be intercepted and read by unauthorised third parties. 
+Our website uses cookies, which are used for storing site preferences and store data about your website usage, including your connection speed, details of your operating system, the time and duration of your visit and your IP address. The data collected by cookies enables us to keep our website updated and provides detailed information on the frequency and duration of visits to our website pages. We will not attempt to identify you from your IP address for any reason unless required to do so for legal purposes or to protect us or our customers' rights. 
 
-6\. Training and Security 
+You are using our website at your own risk, which means that we do not undertake any responsibility regarding the security of your personal data or any other sensitive information you shared via the Internet. We aim at maintaining a secure website with safest environment where all your data is stored in strictest confidence, however we are not liable for any of this data being intercepted and read by unauthorized parties. 
 
-We may monitor, record, store and use any telephone, email or other electronic communications with you for training purposes, and so that we can check any instructions given to us and to improve the quality of our customer service. 
+#### 6\. Maintenance and security
 
-7\. Money Laundering and Terrorist Financing 
+We preserve the right to monitor, record, store and use any telephone, email or other electronic communications with you for maintenance purposes, for the sake of re-checking any instructions you forward to us, and to improve the quality of our customer service. 
 
-UWCFS may be required by statute to make a disclosure to the Serious Organised Crime Agency where they know or suspect that a transaction may involve money laundering or terrorist financing. If a disclosure is made in relation to Your transaction UWCFS may not be able to tell you that a disclosure has been made and may have to delay Your transaction for a period of time and may not be able to tell you why. 
+#### 7\. Money laundering and terrorist financing
 
-8\. Consenting to These Terms 
+UWCFS may be required by statute to make a disclosure to the Serious Organized Crime Agency in case any transactions are suspected that involve money laundering or terrorist financing. In case of a disclosure related to your transactions, UWCFS may not be able to inform you about it or about its reason, and will have to delay your transactions for a certain period of time. 
 
-By consenting to the terms and conditions of this agreement you will be consenting to the transmittal of your data outside of the EU/EEA where necessary. 
+#### 8\. Consenting to our terms
 
-Authorised and regulated by FSA as Small Payment Institution under No 511088  
+By consenting to the terms and conditions described above, you agree to your data being shared outside the EU/EEA, where necessary. 
+
+Authorized and regulated by FSA as Small Payment Institution under No 511088  
 HM Revenue & Customs MLR No 12492642  
 Data Protection Number Z2309500 
