@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boystown.com.au privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120095423id_/http%3A//www.boystown.com.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boystown.com.au privacy policy that was archived on 2011-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110614142945id_/http%3A//www.boystown.com.au/privacy.html) for the most accurate reproduction.*
 
 # BoysTown - Privacy
 
