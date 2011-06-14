@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the geeky-gadgets.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227073252id_/http%3A//www.geeky-gadgets.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geeky-gadgets.com privacy policy that was archived on 2011-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110614223433id_/http%3A//www.geeky-gadgets.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Geeky Gadgets
 
 ## Privacy Policy for geeky-gadgets.com
 
-**The privacy of our visitors to geeky-gadgets.com is important to us.**
+ **The privacy of our visitors to geeky-gadgets.com is important to us.**
 
 At geeky-gadgets.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit geeky-gadgets.com, and how we safeguard your information. We never sell your personal information to third parties.
 
