@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funnyzela.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212011631id_/http%3A//funnyzela.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funnyzela.com privacy policy that was archived on 2011-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110614220305id_/http%3A//funnyzela.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Funnyzela.com - You will laugh so hard!
 
