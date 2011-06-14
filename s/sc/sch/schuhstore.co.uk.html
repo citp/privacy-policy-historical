@@ -1,32 +1,27 @@
-<!--The following is the downloaded HTML source of the schuhstore.co.uk privacy policy that was archived on 2010-12-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101214113151id_/http%3A//www.schuh.co.uk/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the schuhstore.co.uk privacy policy that was archived on 2011-06-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110614054505id_/http%3A//www.schuh.co.uk/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_ctl00_Head1"><title>
 	Privacy Policy - Schuh
 </title><link rel="apple-touch-icon" href="/whatever.jpg"><link href="/stylesheets/schuh-header-style.css" rel="stylesheet" type="text/css" media="screen,print"><link href="/stylesheets/schuh-footer-style.css" rel="stylesheet" type="text/css" media="screen,print">
-    
-	<!--[if IE 8]>
+    <!--[if IE 8]>
 	<link href="/stylesheets/schuh-header-style-IE.css" rel="stylesheet" type="text/css" media="screen,print" />	
 	<![endif]-->
-	<!--[if IE 7]>
+    <!--[if IE 7]>
 	<link href="/stylesheets/schuh-header-style-IE7.css" rel="stylesheet" type="text/css" media="screen,print" />
 	<![endif]-->
-	<!--[if IE 6]>
+    <!--[if IE 6]>
 	<link href="/stylesheets/schuh-header-style-IE6.css" rel="stylesheet" type="text/css" media="screen,print" />
 	<![endif]-->
-    
     <script src="/Scripts/jquery.min.js" type="text/javascript"></script>
     <!--<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.3/jquery.min.js" type="text/javascript"></script>-->
     <script src="/Scripts/OmnitureAnalytics.js" type="text/javascript"></script>
     <script src="/Scripts/jquery.hoverIntent.minified.js" type="text/javascript"></script>
     <script src="/Scripts/s_code.js" type="text/javascript"></script>
-
-    
-    
     <script type="text/javascript">
         var PageName = 'help : help';
         var BasketItemCount = '0';
-        
+
         //Function to clear text box if it contains the words, sorry, no suggestions...
         function doClear(theText) {
             if (theText.value == "Sorry, no suggestions..." && theText.value != null) {
@@ -72,47 +67,33 @@
 
             //Click the button
 
-	    if (document.getElementById('ctl00_txtSearchTerm') != null)
-			{
+            if (document.getElementById('ctl00_txtSearchTerm') != null) {
 
-			doClear(document.getElementById('ctl00_txtSearchTerm'));		
-		
-			}
-		else
-		{
-			doClear(document.getElementById('ctl00_ctl00_txtSearchTerm'));
-		}
+                doClear(document.getElementById('ctl00_txtSearchTerm'));
 
+            }
+            else {
+                doClear(document.getElementById('ctl00_ctl00_txtSearchTerm'));
+            }
 
-            
-
-            //alert('Text:\t' + text + '\nValue:\t' + value);
             submitSearchForm(text)
-            //document.getElementById('ctl00_searchButton').click();
         }
 
         //Fix For Search Box not directing to new results.
-        function submitSearchForm(){
+        function submitSearchForm() {
 
-		var textValue 
-		
+            var textValue
+
             //alert(textValue);
 
-		if (document.getElementById('ctl00_txtSearchTerm') != null)
-			{
-
-			textValue = document.getElementById('ctl00_txtSearchTerm').value;		
-		
-			}
-		else
-		{
-			textValue = document.getElementById('ctl00_ctl00_txtSearchTerm').value;	
-		}
-
-       
+            if (document.getElementById('ctl00_txtSearchTerm') != null) {
+                textValue = document.getElementById('ctl00_txtSearchTerm').value;
+            } else {
+                textValue = document.getElementById('ctl00_ctl00_txtSearchTerm').value;
+            }
             location.href = '/prdsearch.aspx?searchterm=' + textValue + '&sterm=' + textValue + '&js=1';
-            
-                    }
+
+        }
         
 
     </script>
@@ -123,52 +104,73 @@
 
             window.open(url, name, options);
         }
-    $(document).ready(function() {
-    //current page nav highlight
-    $("#nav > li").hoverIntent({ interval: 200, over: drops_show, timeout: 200, out: drops_hide });
-    $("#nav > li").addClass('with-js');
-    $("#nav > li > div").hide();
+        $(document).ready(function () {
+            //current page nav highlight
+            $("#mainnav > li").hoverIntent({ interval: 200, over: drops_show, timeout: 200, out: drops_hide });
+            $("#mainnav > li").addClass('with-js');
+            $("#mainnav > li > div").hide();
 
-    var pageUrl = window.location.toString();
-    pageUrl = pageUrl.replace('http://', '').replace(document.domain, '');
+            var pageUrl = window.location.toString();
+            pageUrl = pageUrl.replace('http://', '').replace(document.domain, '');
 
-    $('li.hasNav li a').each(function(index) {
-        if ($(this).attr('href') == pageUrl) {
-            $(this).addClass('currentPage');
+            $('li.hasNav li a').each(function (index) {
+                if ($(this).attr('href') == pageUrl) {
+                    $(this).addClass('currentPage');
 
-        }
-    });
+                }
+            });
 
 
-    if (($.browser.msie && $.browser.version.substr(0, 1) == 7) || ($.browser.msie && $.browser.version.substr(0, 1) == 6)) {
-        var zIndexNumber = 1000;
-        $('div').each(function() {
-	    if($(this).hasClass('modalPopupBody') || $(this).hasClass('modalPopupHeader') || $(this).hasClass('modalPopup') || $(this).hasClass('modalBackground')) {
-		//$(this).css('zIndex', 5000);
-	    } else {
-                $(this).css('zIndex', zIndexNumber);
-                zIndexNumber -= 1;
-	    }
+            if (($.browser.msie && $.browser.version.substr(0, 1) == 7) || ($.browser.msie && $.browser.version.substr(0, 1) == 6)) {
+                var zIndexNumber = 1000;
+                $('div').each(function () {
+                    if ($(this).hasClass('modalPopupBody') || $(this).hasClass('modalPopupHeader') || $(this).hasClass('modalPopup') || $(this).hasClass('modalBackground')) {
+                        //$(this).css('zIndex', 5000);
+                    } else {
+                        $(this).css('zIndex', zIndexNumber);
+                        zIndexNumber -= 1;
+                    }
+                });
+            }
+
+            $('#ctl00_ctl00_txtFindStore').keyup(function () {
+                if ($('#ctl00_ctl00_txtFindStore').val() != '') {
+                    $('span.townerror').attr('style', 'display:none;');
+                }
+            });
         });
-    }
 
-});
-    
+        $.fn.redirectUserPopup = function (pCountryCode) {
+            $("div#relocate-user").attr("visible", "true");
+            $("div#relocate-user").attr("style", "display:block");
+            $("div#relocate-user-background").attr("visible", "true");
+            $("div#relocate-user-background").attr("style", "display:block");
+            $("div#relocate-user").attr("class", "relocate-" + pCountryCode);
+        }
+
+        function StoreSearchClick(e) {
+            if ($('#ctl00_ctl00_txtFindStore').val() != '') {
+                omnitureMasterPageStoreFinderSearch($('#ctl00_ctl00_txtFindStore').val());
+                $('span.townerror').attr('style', 'display:none;');
+            } else {
+                StopEvent(e);
+                $('span.townerror').attr('style', 'color:Red; display:block;');
+            }
+        }
+        
+        
     </script>
-    
     
 <link href="/stylesheets/schuh-information-page-style.css" rel="stylesheet" type="text/css" media="screen,print">
 
     
-
-    <meta http-equiv="Content-type" content="text/html; charset=iso-8859-1">  
-    <meta id="ctl00_ctl00_head_head_Metadata1_metaDescription" name="description" lang="en" content="Privacy policy for the Schuh website">
+<meta id="ctl00_ctl00_head_head_Metadata1_metaDescription" name="description" lang="en" content="Privacy policy for the Schuh website">
     <meta id="ctl00_ctl00_head_head_Metadata1_metaKeywords" name="keywords" lang="en" content="Privacy Policy">
     <meta id="ctl00_ctl00_head_head_Metadata1_metaTitle" name="title" content="Privacy Policy - Schuh">
     
     <meta name="distribution" content="global">
     <meta name="rating" content="general">
-    <meta http-equiv="content-language" content="en">
+    
     
     <link id="ctl00_ctl00_head_head_Metadata1_metaCanonical" rel="canonical" href="http://www.schuh.co.uk/privacy/">
 
@@ -178,7 +180,7 @@
 <body>
     <form name="aspnetForm" method="post" action="/privacy/" id="aspnetForm">
 <div>
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTYxNDEyMjc0OQ9kFgJmD2QWAmYPZBYCAgMQZGQWPAIFDw8WAh4LTmF2aWdhdGVVcmwFAS9kZAIHDxYCHgRUZXh0BeQBPHNwYW4gY2xhc3M9IkhlYWRTbWFsbFRleHQiPkN1c3RvbWVyIFNlcnZpY2VzIEhvdGxpbmU8YnIgLz45YW0gLSA1cG0oTW9uIC0gRnJpKTwvc3Bhbj48aW1nIHNyYz0nL2ltYWdlcy9oZWxwbGluZS5naWYnIGFsdD0naGVscGxpbmUgbnVtYmVyJy8+IDA4NDUgMzAgNzI0ODQ8c3BhbiBjbGFzcz0iSGVhZFNtYWxsVGV4dCI+PGEgaHJlZj0iIyI+Y2xpY2sgZm9yIGZ1bGwgZGV0YWlsczwvYT48L3NwYW4+ZAILDxYCHwEFRTxpbWcgc3JjPScvaW1hZ2VzL2hlbHBsaW5lLmdpZicgYWx0PSdoZWxwbGluZSBudW1iZXInLz4gMDg0NSAzMCA3MjQ4NGQCDQ8PFgQeC1Bvc3RCYWNrVXJsBRZodHRwOi8vaWUuc2NodWguY28udWsvHghJbWFnZVVybAUSL2ltYWdlcy9JZUZsYWcuanBnZGQCDw8PFgQfAwUSL2ltYWdlcy9Va0ZsYWcuanBnHwIFF2h0dHA6Ly93d3cuc2NodWguY28udWsvZGQCEQ8WAh4EaHJlZgU5aHR0cHM6Ly9zZWN1cmUyLnNjaHVoLmNvLnVrL215YWNjb3VudC9hY2NvdW50ZGV0YWlscy5hc3B4ZAITDxYCHwQFI2h0dHA6Ly93d3cyLnNjaHVoLmNvLnVrL2Jhc2tldC5hc3B4ZAIVDxYCHwQFImh0dHA6Ly93d3cyLnNjaHVoLmNvLnVrL3Nob3BzL2FsbC9kAhcPDxYCHwAFUGh0dHBzOi8vc2VjdXJlMi5zY2h1aC5jby51ay9teWFjY291bnQvYWNjb3VudGxvZ2luLmFzcHg/Y3VzdGFjdGlvbj1hY2NvdW50b3JkZXJzZGQCGQ9kFgICAQ9kFgJmD2QWBgIDDxYCHwQFI2h0dHA6Ly93d3cyLnNjaHVoLmNvLnVrL2Jhc2tldC5hc3B4FgQCAQ8WAh4JaW5uZXJodG1sBQkwIGl0ZW0ocylkAgMPFgIfBQUKJiMxNjM7MC4wMGQCBw8WAh8FBQkwIHggaXRlbXNkAgkPFgIfBQUKJiMxNjM7MC4wMGQCHQ9kFgJmD2QWBAIBD2QWAgIBDxYEHgpDb250ZXh0S2V5BQExHg1Vc2VDb250ZXh0S2V5Z2QCBw8QDxYCHgdDaGVja2VkZ2RkZGQCHw9kFgYCAQ8PFgIfAQUQPiBQcml2YWN5IFBvbGljeWRkAgUPFgIfBAVQaHR0cHM6Ly9zZWN1cmUyLnNjaHVoLmNvLnVrL215QWNjb3VudC9hY2NvdW50TG9naW4uYXNweD9jdXN0YWN0aW9uPWFjY291bnRvcmRlcnNkAgcPZBYCAgEPFgIfAQX6HTxoMT5TZWN1cml0eSBhbmQgRGF0YSBQcm90ZWN0aW9uPC9oMT4NCg0KPGg0PkRhdGEgUHJvdGVjdGlvbjwvaDQ+DQogDQo8cD5XZSBhcmUgY29tbWl0dGVkIHRvIHByb3RlY3RpbmcgeW91ciBwcml2YWN5IGFuZCB0aGUgc2VjdXJpdHkgb2YgYW55IGluZm9ybWF0aW9uIGdpdmVuIHRvIHVzIGluIG9yZGVyIGZvciB1cyB0byBwcm9jZXNzIHlvdXIgb3JkZXIuPC9wPg0KIA0KPGg0Pk91ciBEYXRhIFByb3RlY3Rpb24gUG9saWN5PC9oND4NCiANCjxwPldlIHdpbGwgbm90IGdhdGhlciBvciBob2xkIHBlcnNvbmFsIGluZm9ybWF0aW9uIGFib3V0IHlvdSB1bmxlc3MgeW91IGhhdmUgZ2l2ZW4geW91ciBleHByZXNzIHBlcm1pc3Npb24gZm9yIHVzIHRvIGRvIHNvLiBCeSBwbGFjaW5nIGFuIG9yZGVyLCB5b3Ugd2lsbCBjb25zZW50IHRvIHRoZSB1c2Ugb2Ygc3VjaCBwZXJzb25hbCBpbmZvcm1hdGlvbi48L3A+DQo8cD5BbnkgcGVyc29uYWwgaW5mb3JtYXRpb24gaGVsZCBvciBwcm9jZXNzZWQgd2lsbCBiZSBrZXB0IHVwLXRvLWRhdGUgYW5kIHdpbGwgYmUgZGVzdHJveWVkIGFzIHNvb24gYXMgdGhlIHJlYXNvbiBmb3IgaXRzIGNvbGxlY3Rpb24gb3IgcHJvY2Vzc2luZyBoYXMgbGFwc2VkLg0KTm8gcGVyc29uYWwgZGF0YSBhYm91dCBjdXN0b21lcnMgd2lsbCBiZSBwYXNzZWQgdG8gYW55IHRoaXJkIHBhcnR5LCBleGNlcHQgdG8gZnVsZmlsIHRoZSBkZWxpdmVyeSBvZiB0aGUgZ29vZHMgdG8geW91LCBhbmQgYXMgaXMgbmVjZXNzYXJ5IHRvIHByb2Nlc3MgY3JlZGl0IG9yIGRlYml0IGNhcmQgcGF5bWVudHMuPC9wPg0KPHA+WW91ciBwcml2YWN5IGFuZCBjb25maWRlbmNlIHdpbGwgYmUgcmVzcGVjdGVkIGF0IGFsbCB0aW1lcy48L3A+DQogDQo8aDQ+V2hhdCBJbmZvcm1hdGlvbiBpcyBjb2xsZWN0ZWQgYWJvdXQgeW91IGFuZCBob3cgaXMgaXQgdXNlZD88L2g0Pg0KIA0KPHA+V2hlbiB5b3UgcGxhY2UgYW4gb3JkZXIgd2UgbmVlZCB0byBjb2xsZWN0IHlvdXIgbmFtZSwgYWRkcmVzcywgZS1tYWlsIGFuZCB0ZWxlcGhvbmUgbnVtYmVyIGFzIHdlbGwgYXMgZGV0YWlscyBvZiB0aGUgbWV0aG9kIGJ5IHdoaWNoIHlvdSBpbnRlbmQgdG8gcGF5IGZvciB0aGUgR29vZHMuIFRoaXMgaW5mb3JtYXRpb24gYWxsb3dzIHVzIHRvIHByb2Nlc3MgeW91ciBvZmZlciB0byBwdXJjaGFzZSBHb29kcyBhbmQgZGVsaXZlcnkgb2YgdGhvc2UgR29vZHMgdG8geW91LiBXZSB1c2UgeW91ciBlLW1haWwgYWRkcmVzcyB0byBzZW5kIHlvdSBub3RpZmljYXRpb24gb2YgdGhlIHN0YXR1cyBvZiB0aGUgb3JkZXIuIFdlIHdpbGwgY29udGFjdCB5b3UgYnkgZS1tYWlsIG9yIGJ5IHRlbGVwaG9uZSBpZiBhbnkgcHJvYmxlbXMgb2NjdXIgcmVnYXJkaW5nIGRlbGl2ZXJ5IG9mIHRoZSBHb29kcyB0byB5b3UuPC9wPg0KPHA+VGhpcyBpbmZvcm1hdGlvbiBtYXkgYmUgcHJvdmlkZWQgdG8gdGhpcmQgcGFydHkgc2VydmljZSBwcm92aWRlcnMgZm9yIHRoZSBwdXJwb3NlIG9mIHByb2Nlc3NpbmcgeW91ciBvZmZlciB0byBwdXJjaGFzZSB0aGUgZ29vZHMuPC9wPg0KPHA+V2UgbWF5IHVzZSB5b3VyIGUtbWFpbCBhZGRyZXNzIHRvIHByb3ZpZGUgeW91IHdpdGggaW5mb3JtYXRpb24gb24gcHJvZHVjdHMsIHNlcnZpY2VzLCBwcm9tb3Rpb25zIGFuZCBzcGVjaWFsIG9mZmVycyB3aGVyZSB5b3UgaGF2ZSBpbmRpY2F0ZWQgdGhhdCB0aGlzIGlzIGFjY2VwdGFibGUgYnkgY2hlY2tpbmcgdGhlIGJveCBvbiB0aGUg4oCYRGVsaXZlcnkgZGV0YWlscyBwYWdlLjwvcD4NCiANCjxoND5UaGlyZCBwYXJ0aWVzPC9oND4NCiANCjxwPldlIHdpbGwgbm90IHNlbGwgb3IgcGFzcyB5b3VyIGRldGFpbHMgdG8gdGhpcmQgcGFydHkgb3JnYW5pc2F0aW9ucyBleGNlcHQgZm9yIHRoZSBwdXJwb3NlIG9mIHByb2Nlc3NpbmcgeW91ciBvZmZlciB0byBwdXJjaGFzZSB0aGUgZ29vZHMuPC9wPg0KIA0KPGg0PkNvbnNlbnQ8L2g0Pg0KIA0KPHA+QnkgbWFraW5nIG9mZmVyIHRvIHB1cmNoYXNlIEdvb2RzIHlvdSBjb25zZW50IHRvIHRoZSBpbmZvcm1hdGlvbiB5b3UgcHJvdmlkZSB0byB1cyBiZWluZyBwcm9jZXNzZWQgZm9yIGFueSBvZiB0aGUgYWJvdmUgcHVycG9zZXMuPC9wPg0KIA0KPGg0PkNvb2tpZXM8L2g0Pg0KIA0KPHA+Q29va2llcyBhcmUgc21hbGwgcGllY2VzIG9mIGluZm9ybWF0aW9uIHRoYXQgYXJlIHNlbnQgZnJvbSB5b3VyIGJyb3dzZXIgdG8gb3VyIHdlYiBzZXJ2ZXIuPC9wPg0KPHA+T24gdGhpcyB3ZWIgc2l0ZSwgY29va2llcyBhcmUgdXNlZCB0byBrZWVwIHRyYWNrIG9mIHRoZSBpdGVtcyB5b3UgcGxhY2UgaW4geW91ciBzaG9wcGluZyBiYXNrZXQuIFRoZXNlIGNvb2tpZXMgZXhwaXJlIGFmdGVyIDIgZGF5cy48L3A+DQo8cD5XZSBkbyBub3Qgc3RvcmUgYW55IHBlcnNvbmFsIGluZm9ybWF0aW9uIGluIHRoZSBjb29raWU7IHRoZXkgYXJlIGRlc2lnbmVkIG9ubHkgdG8gY29sbGVjdCBpbmZvcm1hdGlvbiBvZiBhbiBhbm9ueW1vdXMgbmF0dXJlLiBXZSB3aWxsIG5vdCBjb21iaW5lIHN1Y2ggYW5vbnltb3VzIGluZm9ybWF0aW9uIHdpdGggeW91ciBwZXJzb25hbCBkZXRhaWxzLjwvcD4NCjxwPllvdSB3aWxsIG5lZWQgdG8gZW5zdXJlIHlvdXIgY29va2llcyBhcmUgZW5hYmxlZCB0byBhbGxvdyB5b3UgdG8gcHVyY2hhc2UgZnJvbSBvdXIgc2l0ZS48L3A+DQogDQo8aDQ+U2VjdXJpdHk8L2g0Pg0KIA0KPHA+VGhlIHNlY3VyaXR5IG9mIHlvdXIgdHJhbnNhY3Rpb24gaXMgaW1wb3J0YW50IHRvIHVzIGFuZCB0byBwcmV2ZW50IGFueSBkZXRhaWxzIGJlaW5nIHNlZW4gYnkgdW5hdXRob3Jpc2VkIHBlcnNvbnMgaXQgaXMgcHJvdGVjdGVkIHRocm91Z2hvdXQgdGhlIHBheW1lbnQgcHJvY2Vzcy4gVG8gZG8gdGhpcyB3ZSB1c2UgYSBzZWN1cmUgc2VydmVyIHRvIGVuY3J5cHQgdGhlIGluZm9ybWF0aW9uIGJlZm9yZSBpdCBpcyBzZW50IHRvIHRoZSBwYXltZW50cyBwcm9jZXNzb3IuPC9wPg0KIA0KPGg0PlN1YmplY3QgQWNjZXNzIFJlcXVlc3Q8L2g0Pg0KIA0KPHA+T24geW91ciB3cml0dGVuIHJlcXVlc3QsIHdlIHdpbGwgKHdpdGhpbiA0MCBkYXlzIG9mIHN1Y2ggYSByZXF1ZXN0IGJlaW5nIHJlY2VpdmVkIGJ5IHVzKSBzdXBwbHkgdG8geW91IGRldGFpbHMgb2YgdGhlIHBlcnNvbmFsIGluZm9ybWF0aW9uIHdoaWNoIHdlIGhvbGQgYWJvdXQgeW91LiBZb3UgbXVzdCBleHBsYWluIHRvIHVzIGNsZWFybHkgdGhlIGluZm9ybWF0aW9uIHlvdSByZXF1aXJlIHRvIGJlIHN1cHBsaWVkOiB3ZSBhcmUgbm90IG9ibGlnZWQgdG8gc3VwcGx5IHRvIHlvdSBpbmZvcm1hdGlvbiB3aGljaCBpcyBub3Qgc3BlY2lmaWNhbGx5IHJlcXVlc3RlZCBieSB5b3UuDQpVbmRlciB0aGUgdGVybXMgb2YgdGhlIERhdGEgUHJvdGVjdGlvbiBBY3QgMTk5OCwgd2UgYXJlIGVudGl0bGVkIHRvIGNoYXJnZSB5b3UgwqMxMC4wMCBmb3IgdGhlIHByb3Zpc2lvbiBvZiBpbmZvcm1hdGlvbiBmb2xsb3dpbmcgb3VyIHJlY2VpcHQgb2Ygc3VjaCBhIHJlcXVlc3QuIE9uY2Ugd2UgaGF2ZSByZWNlaXZlZCB5b3VyIHdyaXR0ZW4gcmVxdWVzdCBhbmQgcGF5bWVudCBvZiB0aGUgZmVlLCB3ZSB3aWxsIHJlc3BvbmQgdG8geW91ciByZXF1ZXN0IHdpdGhpbiA0MCBkYXlzLjwvcD4NCjxwPllvdSBzaG91bGQgbm90ZSB0aGF0LCB1bmRlciBjZXJ0YWluIGNpcmN1bXN0YW5jZXMsIHdlIHdpbGwgbm90IGJlIG9ibGlnZWQgdG8gZGlzY2xvc2UgdGhlIHJlcXVlc3RlZCBpbmZvcm1hdGlvbiB0byB5b3UsIGluIHdoaWNoIGNhc2Ugd2Ugd2lsbCBleHBsYWluIHRvIHlvdSB0aGUgcmVhc29ucyBmb3Igb3VyIHJlZnVzYWwuPC9wPmQCIQ9kFgJmD2QWAmYPZBYCAgEPZBYCAgYPD2QWAh4Fc3R5bGUFDWRpc3BsYXk6bm9uZTtkAiUPFgIfBAUiaHR0cDovL3d3dy5zY2h1aC5jby51ay9jb250YWN0LXVzL2QCJw8PFgIfAAVQaHR0cHM6Ly9zZWN1cmUyLnNjaHVoLmNvLnVrL215YWNjb3VudC9hY2NvdW50bG9naW4uYXNweD9jdXN0YWN0aW9uPWFjY291bnRvcmRlcnNkZAIpDxYCHwQFIGh0dHA6Ly93d3cuc2NodWguY28udWsvZGVsaXZlcnkvZAIrDxYCHwQFH2h0dHA6Ly93d3cuc2NodWguY28udWsvcmV0dXJucy9kAi0PFgIfBAUhaHR0cDovL3d3dy5zY2h1aC5jby51ay9zaG9wcy9hbGwvZAIvDxYCHwQFH2h0dHA6Ly93d3cuc2NodWguY28udWsvY2FyZWVycy9kAjEPFgIfBAUgaHR0cDovL3d3dy5zY2h1aC5jby51ay9hYm91dC11cy9kAjMPFgIfBAUiaHR0cDovL3d3dy5zY2h1aC5jby51ay9naWZ0LWNhcmRzL2QCNQ8WAh8EBR9odHRwOi8vd3d3LnNjaHVoLmNvLnVrL3NpdGVtYXAvZAI3DxYCHwQFJWh0dHA6Ly93d3cuc2NodWguY28udWsvYWNjZXNzaWJpbGl0eS9kAjkPFgIfBAUfaHR0cDovL3d3dy5zY2h1aC5jby51ay9wcml2YWN5L2QCOw8WAh8EBR1odHRwOi8vd3d3LnNjaHVoLmNvLnVrL3Rlcm1zL2QCPQ8WAh8EBTpodHRwczovL3NlY3VyZTIuc2NodWguY28udWsvbXlhY2NvdW50L2FjY291bnRSZWdpc3Rlci5hc3B4ZAI/DxYCHwQFMWh0dHA6Ly9lbi1nYi5mYWNlYm9vay5jb20vcGFnZXMvU2NodWgvNzY2OTQ0MzY0MjBkAkEPFgIfBAUaaHR0cDovL3R3aXR0ZXIuY29tL3NjaHVoaHFkAkMPFgIfBAUfaHR0cDovL3NjaHVoc3RyZWV0LnR5cGVwYWQuY29tL2QCRQ8WAh8EBSRodHRwOi8vd3d3LnNjaHVoLmNvLnVrL2NvbXBldGl0aW9ucy9kGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYNBRhjdGwwMCRjdGwwMCRpbWdCdG5JZVNpdGUFGGN0bDAwJGN0bDAwJGltZ0J0blVrU2l0ZQUqY3RsMDAkY3RsMDAkbWluaUJhc2tldENvbnRyb2wkaW1nQnRuQmFza2V0BSxjdGwwMCRjdGwwMCRtaW5pQmFza2V0Q29udHJvbCRpbWdCdG5DaGVja291dAUYY3RsMDAkY3RsMDAkc2VhcmNoQnV0dG9uBR1jdGwwMCRjdGwwMCRyYWRTZWFyY2hBc3Npc3RPbgUeY3RsMDAkY3RsMDAkcmFkU2VhcmNoQXNzaXN0T2ZmBR5jdGwwMCRjdGwwMCRyYWRTZWFyY2hBc3Npc3RPZmYFOWN0bDAwJGN0bDAwJGN1c3RvbWVyU2lnbnVwMSRidG5DdXN0b21lclNpZ251cEJ1dHRvbldvbWVucwU3Y3RsMDAkY3RsMDAkY3VzdG9tZXJTaWdudXAxJGJ0bkN1c3RvbWVyU2lnbnVwQnV0dG9uTWVucwUnY3RsMDAkY3RsMDAkcmVjZW50bHlWaWV3ZWQxJGltZ0J0bkNsZWFyBWdjdGwwMCRjdGwwMCRyZWNlbnRseVZpZXdlZDEkcmVwZWF0ZXJSZWNlbnRseVZpZXdlZCRjdGwwMCRyZWNlbnRseVZpZXdlZEl0ZW03MjA0NTAwMDkwMSRpbWdCdG5WaWV3ZWRJdGVtBWNjdGwwMCRjdGwwMCRyZWNlbnRseVZpZXdlZDEkcmVwZWF0ZXJSZWNlbnRseVZpZXdlZCRjdGwwMCRyZWNlbnRseVZpZXdlZEl0ZW03MjA0NTAwMDkwMSRpbWdCdG5SZW1vdmUJ6EKvmOq5RFcEsY/CcUQitqBQWg==">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTYxNDEyMjc0OQ9kFgJmD2QWAmYPZBYCAgMQZGQWQAIFDw8WAh4LTmF2aWdhdGVVcmwFAS8WAh4Hb25jbGljawUfb21uaXR1cmVNYWluU2NodWhMb2dvQ2xpY2tlZCgpO2QCBw8WAh4EVGV4dAXUATxzcGFuIGNsYXNzPSJzbWFsbCI+Q3VzdG9tZXIgU2VydmljZXMgSG90bGluZTxiciAvPjlhbSAtIDVwbShNb24gLSBGcmkpPC9zcGFuPjxpbWcgc3JjPScvaW1hZ2VzL2hlbHBsaW5lLmdpZicgYWx0PSdoZWxwbGluZSBudW1iZXInLz4gMDg0NSAzMCA3MjQ4NDxzcGFuIGNsYXNzPSJzbWFsbCI+PGEgaHJlZj0iIyI+Y2xpY2sgZm9yIGZ1bGwgZGV0YWlsczwvYT48L3NwYW4+ZAIIDxYCHgRocmVmBTlodHRwczovL3NlY3VyZTIuc2NodWguY28udWsvbXlhY2NvdW50L2FjY291bnRkZXRhaWxzLmFzcHhkAgkPDxYCHwAFPGh0dHBzOi8vc2VjdXJlMi5zY2h1aC5jby51ay9teWFjY291bnQvYWNjb3VudHRyYWNrb3JkZXIuYXNweGRkAgoPFgIfAwUiaHR0cDovL3d3dzIuc2NodWguY28udWsvc2hvcHMvYWxsL2QCCw8WAh8CBQ0wODQ1IDMwIDcyNDg0ZAIMD2QWAgIBD2QWAmYPZBYGAgMPFgIfAwUjaHR0cDovL3d3dzIuc2NodWguY28udWsvYmFza2V0LmFzcHgWBAIBDxYCHwIFCTAgaXRlbShzKWQCAw8WAh8CBQbCozAuMDBkAgcPFgIeCWlubmVyaHRtbAUJMCB4IGl0ZW1zZAIJDxYCHwQFCiYjMTYzOzAuMDBkAg4PZBYCZg9kFgICAQ9kFgICAQ8WBB4KQ29udGV4dEtleQUBMR4NVXNlQ29udGV4dEtleWdkAg8PZBYGAgEPDxYCHwIFED4gUHJpdmFjeSBQb2xpY3lkZAIFDxYCHwMFPGh0dHBzOi8vc2VjdXJlMi5zY2h1aC5jby51ay9teUFjY291bnQvYWNjb3VudHRyYWNrb3JkZXIuYXNweGQCBw9kFgICAQ8WAh8CBeYhPGgxPlNlY3VyaXR5IGFuZCBEYXRhIFByb3RlY3Rpb248L2gxPg0KDQo8aDQ+RGF0YSBQcm90ZWN0aW9uPC9oND4NCiANCjxwPldlIGFyZSBjb21taXR0ZWQgdG8gcHJvdGVjdGluZyB5b3VyIHByaXZhY3kgYW5kIHRoZSBzZWN1cml0eSBvZiBhbnkgaW5mb3JtYXRpb24gZ2l2ZW4gdG8gdXMgaW4gb3JkZXIgZm9yIHVzIHRvIHByb2Nlc3MgeW91ciBvcmRlci48L3A+DQogDQo8aDQ+T3VyIERhdGEgUHJvdGVjdGlvbiBQb2xpY3k8L2g0Pg0KIA0KPHA+V2Ugd2lsbCBub3QgZ2F0aGVyIG9yIGhvbGQgcGVyc29uYWwgaW5mb3JtYXRpb24gYWJvdXQgeW91IHVubGVzcyB5b3UgaGF2ZSBnaXZlbiB5b3VyIGV4cHJlc3MgcGVybWlzc2lvbiBmb3IgdXMgdG8gZG8gc28uIEJ5IHBsYWNpbmcgYW4gb3JkZXIsIHlvdSB3aWxsIGNvbnNlbnQgdG8gdGhlIHVzZSBvZiBzdWNoIHBlcnNvbmFsIGluZm9ybWF0aW9uLjwvcD4NCjxwPkFueSBwZXJzb25hbCBpbmZvcm1hdGlvbiBoZWxkIG9yIHByb2Nlc3NlZCB3aWxsIGJlIGtlcHQgdXAtdG8tZGF0ZSBhbmQgd2lsbCBiZSBkZXN0cm95ZWQgYXMgc29vbiBhcyB0aGUgcmVhc29uIGZvciBpdHMgY29sbGVjdGlvbiBvciBwcm9jZXNzaW5nIGhhcyBsYXBzZWQuDQpObyBwZXJzb25hbCBkYXRhIGFib3V0IGN1c3RvbWVycyB3aWxsIGJlIHBhc3NlZCB0byBhbnkgdGhpcmQgcGFydHksIGV4Y2VwdCB0byBvZmZlciB5b3UgdGhlIG9wcG9ydHVuaXR5IHRvIHB1cmNoYXNlIGZyb20gdXMsIHRvIGZ1bGZpbCB0aGUgZGVsaXZlcnkgb2YgdGhlIGdvb2RzIHRvIHlvdSwgYW5kIGFzIGlzIG5lY2Vzc2FyeSB0byBwcm9jZXNzIGNyZWRpdCBvciBkZWJpdCBjYXJkIHBheW1lbnRzLjwvcD4NCjxwPllvdXIgcHJpdmFjeSBhbmQgY29uZmlkZW5jZSB3aWxsIGJlIHJlc3BlY3RlZCBhdCBhbGwgdGltZXMuPC9wPg0KIA0KPGg0PldoYXQgSW5mb3JtYXRpb24gaXMgY29sbGVjdGVkIGFib3V0IHlvdSBhbmQgaG93IGlzIGl0IHVzZWQ/PC9oND4NCiANCjxwPldoZW4geW91IHBsYWNlIGFuIG9yZGVyIHdlIG5lZWQgdG8gY29sbGVjdCB5b3VyIG5hbWUsIGFkZHJlc3MsIGUtbWFpbCBhbmQgdGVsZXBob25lIG51bWJlciBhcyB3ZWxsIGFzIGRldGFpbHMgb2YgdGhlIG1ldGhvZCBieSB3aGljaCB5b3UgaW50ZW5kIHRvIHBheSBmb3IgdGhlIEdvb2RzLiBUaGlzIGluZm9ybWF0aW9uIGFsbG93cyB1cyB0byBwcm9jZXNzIHlvdXIgb2ZmZXIgdG8gcHVyY2hhc2UgR29vZHMgYW5kIGRlbGl2ZXJ5IG9mIHRob3NlIEdvb2RzIHRvIHlvdS4gV2UgdXNlIHlvdXIgZS1tYWlsIGFkZHJlc3MgdG8gc2VuZCB5b3Ugbm90aWZpY2F0aW9uIG9mIHRoZSBzdGF0dXMgb2YgdGhlIG9yZGVyLiBXZSB3aWxsIGNvbnRhY3QgeW91IGJ5IGUtbWFpbCBvciBieSB0ZWxlcGhvbmUgaWYgYW55IHByb2JsZW1zIG9jY3VyIHJlZ2FyZGluZyBkZWxpdmVyeSBvZiB0aGUgR29vZHMgdG8geW91LjwvcD4NCjxwPlRoaXMgaW5mb3JtYXRpb24gbWF5IGJlIHByb3ZpZGVkIHRvIHRoaXJkIHBhcnR5IHNlcnZpY2UgcHJvdmlkZXJzIGZvciB0aGUgcHVycG9zZSBvZiBwcm9jZXNzaW5nIHlvdXIgb2ZmZXIgdG8gcHVyY2hhc2UgdGhlIGdvb2RzLjwvcD4NCjxwPldlIG1heSB1c2UgeW91ciBlLW1haWwgYWRkcmVzcyB0byBwcm92aWRlIHlvdSB3aXRoIGluZm9ybWF0aW9uIG9uIHByb2R1Y3RzLCBzZXJ2aWNlcywgcHJvbW90aW9ucyBhbmQgc3BlY2lhbCBvZmZlcnMgd2hlcmUgeW91IGhhdmUgaW5kaWNhdGVkIHRoYXQgdGhpcyBpcyBhY2NlcHRhYmxlIGJ5IGNoZWNraW5nIHRoZSBib3ggb24gdGhlIOKAmERlbGl2ZXJ5IGRldGFpbHMgcGFnZS48L3A+DQoNCjxwPklmIHlvdSBzdXBwbHkgeW91ciBlbWFpbCBhZGRyZXNzIHdpdGhvdXQgcGxhY2luZyBhbiBvcmRlciwgd2UgbWF5IHBhc3MgeW91ciBlbWFpbCB0byBhIHRoaXJkIHBhcnR5IG9yZ2FuaXNhdGlvbiBpbiBvcmRlciB0byBvZmZlciB5b3UgdGhlIG9wcG9ydHVuaXR5IHRvIHB1cmNoYXNlIGZyb20gdXMuIFlvdXIgZW1haWwgYWRkcmVzcyB3aWxsIG5vdCBiZSB1c2VkIGZvciBhbnkgb3RoZXIgcHVycG9zZSBhbmQgd2lsbCBub3QgYmUgaGVsZCBvbiBmaWxlIGJ5IG91cnNlbHZlcyBvciBhbnkgdGhpcmQgcGFydGllcyBhZnRlciB0aGUgcmVhc29uIGZvciBjb2xsZWN0aW5nIGl0IGhhcyBsYXBzZWQuPC9wPg0KIA0KPGg0PlRoaXJkIHBhcnRpZXM8L2g0Pg0KIA0KPHA+V2Ugd2lsbCBub3Qgc2VsbCBvciBwYXNzIHlvdXIgZGV0YWlscyB0byB0aGlyZCBwYXJ0eSBvcmdhbmlzYXRpb25zIGV4Y2VwdCB0byBvZmZlciB5b3UgdGhlIG9wcG9ydHVuaXR5IHRvIHB1cmNoYXNlIGZyb20gdXMsIHRvIGZ1bGZpbCBkZWxpdmVyeSBvZiB0aGUgZ29vZHMgdG8geW91IGFuZCBmb3IgdGhlIHB1cnBvc2Ugb2YgcHJvY2Vzc2luZyB5b3VyIG9mZmVyIHRvIHB1cmNoYXNlIHRoZSBnb29kcy48L3A+DQogDQo8aDQ+Q29uc2VudDwvaDQ+DQogDQo8cD5CeSBtYWtpbmcgb2ZmZXIgdG8gcHVyY2hhc2UgR29vZHMgeW91IGNvbnNlbnQgdG8gdGhlIGluZm9ybWF0aW9uIHlvdSBwcm92aWRlIHRvIHVzIGJlaW5nIHByb2Nlc3NlZCBmb3IgYW55IG9mIHRoZSBhYm92ZSBwdXJwb3Nlcy48L3A+DQogDQo8aDQ+Q29va2llczwvaDQ+DQogDQo8cD5Db29raWVzIGFyZSBzbWFsbCBwaWVjZXMgb2YgaW5mb3JtYXRpb24gdGhhdCBhcmUgc2VudCBmcm9tIHlvdXIgYnJvd3NlciB0byBvdXIgd2ViIHNlcnZlci48L3A+DQo8cD5PbiB0aGlzIHdlYiBzaXRlLCBjb29raWVzIGFyZSB1c2VkIHRvIGtlZXAgdHJhY2sgb2YgdGhlIGl0ZW1zIHlvdSBwbGFjZSBpbiB5b3VyIHNob3BwaW5nIGJhc2tldC4gVGhlc2UgY29va2llcyBleHBpcmUgYWZ0ZXIgMiBkYXlzLjwvcD4NCjxwPldlIGRvIG5vdCBzdG9yZSBhbnkgcGVyc29uYWwgaW5mb3JtYXRpb24gaW4gdGhlIGNvb2tpZTsgdGhleSBhcmUgZGVzaWduZWQgb25seSB0byBjb2xsZWN0IGluZm9ybWF0aW9uIG9mIGFuIGFub255bW91cyBuYXR1cmUuIFdlIHdpbGwgbm90IGNvbWJpbmUgc3VjaCBhbm9ueW1vdXMgaW5mb3JtYXRpb24gd2l0aCB5b3VyIHBlcnNvbmFsIGRldGFpbHMuPC9wPg0KPHA+WW91IHdpbGwgbmVlZCB0byBlbnN1cmUgeW91ciBjb29raWVzIGFyZSBlbmFibGVkIHRvIGFsbG93IHlvdSB0byBwdXJjaGFzZSBmcm9tIG91ciBzaXRlLjwvcD4NCiANCjxoND5TZWN1cml0eTwvaDQ+DQogDQo8cD5UaGUgc2VjdXJpdHkgb2YgeW91ciB0cmFuc2FjdGlvbiBpcyBpbXBvcnRhbnQgdG8gdXMgYW5kIHRvIHByZXZlbnQgYW55IGRldGFpbHMgYmVpbmcgc2VlbiBieSB1bmF1dGhvcmlzZWQgcGVyc29ucyBpdCBpcyBwcm90ZWN0ZWQgdGhyb3VnaG91dCB0aGUgcGF5bWVudCBwcm9jZXNzLiBUbyBkbyB0aGlzIHdlIHVzZSBhIHNlY3VyZSBzZXJ2ZXIgdG8gZW5jcnlwdCB0aGUgaW5mb3JtYXRpb24gYmVmb3JlIGl0IGlzIHNlbnQgdG8gdGhlIHBheW1lbnRzIHByb2Nlc3Nvci48L3A+DQogDQo8aDQ+U3ViamVjdCBBY2Nlc3MgUmVxdWVzdDwvaDQ+DQogDQo8cD5PbiB5b3VyIHdyaXR0ZW4gcmVxdWVzdCwgd2Ugd2lsbCAod2l0aGluIDQwIGRheXMgb2Ygc3VjaCBhIHJlcXVlc3QgYmVpbmcgcmVjZWl2ZWQgYnkgdXMpIHN1cHBseSB0byB5b3UgZGV0YWlscyBvZiB0aGUgcGVyc29uYWwgaW5mb3JtYXRpb24gd2hpY2ggd2UgaG9sZCBhYm91dCB5b3UuIFlvdSBtdXN0IGV4cGxhaW4gdG8gdXMgY2xlYXJseSB0aGUgaW5mb3JtYXRpb24geW91IHJlcXVpcmUgdG8gYmUgc3VwcGxpZWQ6IHdlIGFyZSBub3Qgb2JsaWdlZCB0byBzdXBwbHkgdG8geW91IGluZm9ybWF0aW9uIHdoaWNoIGlzIG5vdCBzcGVjaWZpY2FsbHkgcmVxdWVzdGVkIGJ5IHlvdS4NClVuZGVyIHRoZSB0ZXJtcyBvZiB0aGUgRGF0YSBQcm90ZWN0aW9uIEFjdCAxOTk4LCB3ZSBhcmUgZW50aXRsZWQgdG8gY2hhcmdlIHlvdSDCozEwLjAwIGZvciB0aGUgcHJvdmlzaW9uIG9mIGluZm9ybWF0aW9uIGZvbGxvd2luZyBvdXIgcmVjZWlwdCBvZiBzdWNoIGEgcmVxdWVzdC4gT25jZSB3ZSBoYXZlIHJlY2VpdmVkIHlvdXIgd3JpdHRlbiByZXF1ZXN0IGFuZCBwYXltZW50IG9mIHRoZSBmZWUsIHdlIHdpbGwgcmVzcG9uZCB0byB5b3VyIHJlcXVlc3Qgd2l0aGluIDQwIGRheXMuPC9wPg0KPHA+WW91IHNob3VsZCBub3RlIHRoYXQsIHVuZGVyIGNlcnRhaW4gY2lyY3Vtc3RhbmNlcywgd2Ugd2lsbCBub3QgYmUgb2JsaWdlZCB0byBkaXNjbG9zZSB0aGUgcmVxdWVzdGVkIGluZm9ybWF0aW9uIHRvIHlvdSwgaW4gd2hpY2ggY2FzZSB3ZSB3aWxsIGV4cGxhaW4gdG8geW91IHRoZSByZWFzb25zIGZvciBvdXIgcmVmdXNhbC48L3A+ZAIQD2QWAmYPZBYCZg9kFgICAQ9kFgQCAQ8PZBYCHglvbmtleWRvd24FGGRpc2FibGVGb3JtRW50ZXIoZXZlbnQpO2QCBg8PZBYCHgVzdHlsZQUNZGlzcGxheTpub25lO2QCEQ8WAh8IBQ1kaXNwbGF5Om5vbmU7ZAISDxYCHwMFKGh0dHA6Ly93d3cuc2NodWguY28udWsvZGVsaXZlcnktZGV0YWlscy9kAhQPFgIfAwUiaHR0cDovL3d3dy5zY2h1aC5jby51ay9jb250YWN0LXVzL2QCFQ8PFgIfAAU8aHR0cHM6Ly9zZWN1cmUyLnNjaHVoLmNvLnVrL215YWNjb3VudC9hY2NvdW50dHJhY2tvcmRlci5hc3B4FgIfAQUib21uaXR1cmVGb290ZXJUcmFja09yZGVyQ2xpY2tlZCgpO2QCFg8WAh8DBSBodHRwOi8vd3d3LnNjaHVoLmNvLnVrL2RlbGl2ZXJ5L2QCFw8WAh8DBR9odHRwOi8vd3d3LnNjaHVoLmNvLnVrL3JldHVybnMvZAIYDxYCHwMFIWh0dHA6Ly93d3cuc2NodWguY28udWsvc2hvcHMvYWxsL2QCGQ8WAh8DBR9odHRwOi8vd3d3LnNjaHVoLmNvLnVrL2NhcmVlcnMvZAIaDxYCHwMFIGh0dHA6Ly93d3cuc2NodWguY28udWsvYWJvdXQtdXMvZAIbDxYCHwMFImh0dHA6Ly93d3cuc2NodWguY28udWsvZ2lmdC1jYXJkcy9kAhwPFgIfAwVAaHR0cHM6Ly9zZWN1cmUyLnNjaHVoLmNvLnVrL215YWNjb3VudC9hY2NvdW50Y29udGFjdGRldGFpbHMuYXNweGQCHQ8WAh8DBTpodHRwczovL3NlY3VyZTIuc2NodWguY28udWsvbXlhY2NvdW50L2FjY291bnRTZXR0aW5ncy5hc3B4ZAIeDxYCHwMFOmh0dHBzOi8vc2VjdXJlMi5zY2h1aC5jby51ay9teWFjY291bnQvYWNjb3VudFdpc2hsaXN0LmFzcHhkAh8PFgIfAwU9aHR0cHM6Ly9zZWN1cmUyLnNjaHVoLmNvLnVrL215YWNjb3VudC9hY2NvdW50bGVhdmVyZXZpZXcuYXNweGQCIA8WAh8DBR9odHRwOi8vd3d3LnNjaHVoLmNvLnVrL3NpdGVtYXAvZAIhDxYCHwMFH2h0dHA6Ly93d3cuc2NodWguY28udWsvcHJpdmFjeS9kAiIPFgIfAwUlaHR0cDovL3d3dy5zY2h1aC5jby51ay9hY2Nlc3NpYmlsaXR5L2QCIw8WAh8DBR1odHRwOi8vd3d3LnNjaHVoLmNvLnVrL3Rlcm1zL2QCJA8WAh8DBSRodHRwOi8vd3d3LnNjaHVoLmNvLnVrL2NvbXBldGl0aW9ucy9kAikPFgIfAgU9PGEgaHJlZj0iaHR0cDovLzMweWVhcnNvZnNjaHVoLmNvLnVrLyMvIiB0YXJnZXQ9Il9ibGFuayI+PC9hPmQCKw8WAh4Dc3JjBRkvaW1hZ2VzL3BheW1lbnQtY2FyZHMuZ2lmZAItD2QWAmYPFgIfAgWSBTxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij4NCnZhciBnYUpzSG9zdCA9ICgoImh0dHBzOiIgPT0gZG9jdW1lbnQubG9jYXRpb24ucHJvdG9jb2wpID8gImh0dHBzOi8vc3NsLiIgOiAiaHR0cDovL3d3dy4iKTsNCmRvY3VtZW50LndyaXRlKHVuZXNjYXBlKCIlM0NzY3JpcHQgc3JjPSciICsgZ2FKc0hvc3QgKyAiZ29vZ2xlLWFuYWx5dGljcy5jb20vZ2EuanMnIHR5cGU9J3RleHQvamF2YXNjcmlwdCclM0UlM0Mvc2NyaXB0JTNFIikpOw0KPC9zY3JpcHQ+DQo8c2NyaXB0IHR5cGU9InRleHQvamF2YXNjcmlwdCI+DQp0cnkgew0KdmFyIHBhZ2VUcmFja2VyID0gX2dhdC5fZ2V0VHJhY2tlcigiVUEtMTY2MDM0LTIzIik7DQpwYWdlVHJhY2tlci5fc2V0RG9tYWluTmFtZSgic2NodWguY28udWsiKTsNCnBhZ2VUcmFja2VyLl90cmFja1BhZ2V2aWV3KCk7DQp9IGNhdGNoKGVycikge308L3NjcmlwdD4NCg0KDQo8IS0tIEJlZ2luIEdBIEhpZ2hsaWdodGVkIFdvcmQgVHJhY2tpbmcgU2NyaXB0IC0tPg0KPHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiIHNyYz0iL3NjcmlwdHMvR29vZ2xlSGlnaGxpZ2h0V29yZHNwYWdlVHJhY2tlci5qcyI+PC9zY3JpcHQ+IA0KPCEtLSBFbmQgR0EgSGlnaGxpZ2h0ZWQgV29yZCBUcmFja2luZyBTY3JpcHQgLS0+DQpkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYJBR5jdGwwMCRjdGwwMCRpbWdCdG5SZWxvY2F0ZVVzZXIFI2N0bDAwJGN0bDAwJGltZ0J0bkRvTm90UmVsb2NhdGVVc2VyBSpjdGwwMCRjdGwwMCRtaW5pQmFza2V0Q29udHJvbCRpbWdCdG5CYXNrZXQFLGN0bDAwJGN0bDAwJG1pbmlCYXNrZXRDb250cm9sJGltZ0J0bkNoZWNrb3V0BRhjdGwwMCRjdGwwMCRzZWFyY2hCdXR0b24FOWN0bDAwJGN0bDAwJGN1c3RvbWVyU2lnbnVwMSRidG5DdXN0b21lclNpZ251cEJ1dHRvbldvbWVucwU3Y3RsMDAkY3RsMDAkY3VzdG9tZXJTaWdudXAxJGJ0bkN1c3RvbWVyU2lnbnVwQnV0dG9uTWVucwUnY3RsMDAkY3RsMDAkcmVjZW50bHlWaWV3ZWQxJGltZ0J0bkNsZWFyBRhjdGwwMCRjdGwwMCRidG5GaW5kU3RvcmW2P9UKOHd60Mk2x11dFIXJfo0d0A==">
 </div>
 
 
@@ -188,7 +190,7 @@
 var __cultureInfo = '{"name":"en-GB","numberFormat":{"CurrencyDecimalDigits":2,"CurrencyDecimalSeparator":".","IsReadOnly":true,"CurrencyGroupSizes":[3],"NumberGroupSizes":[3],"PercentGroupSizes":[3],"CurrencyGroupSeparator":",","CurrencySymbol":"£","NaNSymbol":"NaN","CurrencyNegativePattern":1,"NumberNegativePattern":1,"PercentPositivePattern":0,"PercentNegativePattern":0,"NegativeInfinitySymbol":"-Infinity","NegativeSign":"-","NumberDecimalDigits":2,"NumberDecimalSeparator":".","NumberGroupSeparator":",","CurrencyPositivePattern":0,"PositiveInfinitySymbol":"Infinity","PositiveSign":"+","PercentDecimalDigits":2,"PercentDecimalSeparator":".","PercentGroupSeparator":",","PercentSymbol":"%","PerMilleSymbol":"‰","NativeDigits":["0","1","2","3","4","5","6","7","8","9"],"DigitSubstitution":1},"dateTimeFormat":{"AMDesignator":"AM","Calendar":{"MinSupportedDateTime":"\/Date(-62135596800000)\/","MaxSupportedDateTime":"\/Date(253402300799999)\/","AlgorithmType":1,"CalendarType":1,"Eras":[1],"TwoDigitYearMax":2029,"IsReadOnly":true},"DateSeparator":"/","FirstDayOfWeek":1,"CalendarWeekRule":0,"FullDateTimePattern":"dd MMMM yyyy HH:mm:ss","LongDatePattern":"dd MMMM yyyy","LongTimePattern":"HH:mm:ss","MonthDayPattern":"dd MMMM","PMDesignator":"PM","RFC1123Pattern":"ddd, dd MMM yyyy HH\u0027:\u0027mm\u0027:\u0027ss \u0027GMT\u0027","ShortDatePattern":"dd/MM/yyyy","ShortTimePattern":"HH:mm","SortableDateTimePattern":"yyyy\u0027-\u0027MM\u0027-\u0027dd\u0027T\u0027HH\u0027:\u0027mm\u0027:\u0027ss","TimeSeparator":":","UniversalSortableDateTimePattern":"yyyy\u0027-\u0027MM\u0027-\u0027dd HH\u0027:\u0027mm\u0027:\u0027ss\u0027Z\u0027","YearMonthPattern":"MMMM yyyy","AbbreviatedDayNames":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"ShortestDayNames":["Su","Mo","Tu","We","Th","Fr","Sa"],"DayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"AbbreviatedMonthNames":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec",""],"MonthNames":["January","February","March","April","May","June","July","August","September","October","November","December",""],"IsReadOnly":true,"NativeCalendarName":"Gregorian Calendar","AbbreviatedMonthGenitiveNames":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec",""],"MonthGenitiveNames":["January","February","March","April","May","June","July","August","September","October","November","December",""]}}';//]]>
 </script>
 
-<script src="/ScriptResource.axd?d=PxVAkTQRopuylJFU5YFgD-7dT0ttxCVdVk09J04RD8ansgxnHbsx3Ha50VKDIc0nJ44UxiLUvq4YLa9rku25ANagD7qE0vWcRlXeoILECLGk73QYv1U2n4IrBVXAQwv41wnW50qMAKeqJgYJELwGCJb5PII1&amp;t=5a38e774" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=PxVAkTQRopuylJFU5YFgD-7dT0ttxCVdVk09J04RD8ansgxnHbsx3Ha50VKDIc0nJ44UxiLUvq4YLa9rku25ANagD7qE0vWcRlXeoILECLGk73QYv1U2n4IrBVXAQwv41wnW50qMAKeqJgYJELwGCJb5PII1&amp;t=fffffffff24286e9" type="text/javascript"></script>
 <script src="/ScriptResource.axd?d=4u9MNb3zXf3YTLhlCODqaUIA1XLQ3x6x5Tv1ZiGrBOEpDi1W7h-ZWq2OAnULB9kAHuruh0Iz6zxjMZ-ACPrVKUsOzBJvr3tiPqndMNqG4Z-iNk-WnW3t-6kb4NY3qO1wDrWr4oYUarhOSU34tSPsv5AdyfM1&amp;t=74d23d49" type="text/javascript"></script>
 <script src="/ScriptResource.axd?d=H9loOW_I6QdmcFGQ4k9w9gpVg-OuI2PfscXqwKErwM8BklGJjJZSr26ZIGs_zW66Rgq2z46T11vyjZ25Zyl8CuDtya_IljNkar1CbaWd97S_dWPRL3q6DXfsFrB9-ezsHArgR2W-QGry8P5QWnsPp5glAO01&amp;t=74d23d49" type="text/javascript"></script>
 <script src="/ScriptResource.axd?d=8gCtTYTZ_nUYe5gvdjN4zHTr_y19lJIEUUf5NewaY0FtU-RwxGMK17UYN9bZ0LVLkUlWzon8MIAVLc-eJmuBQqA9SvO44VUX6rYswF7QHVgDrbBGC1iehjMhovR6qaATlhf9byV0dcauSoOpDXPBkOtjNas1&amp;t=74d23d49" type="text/javascript"></script>
@@ -206,60 +208,64 @@ var __cultureInfo = '{"name":"en-GB","numberFormat":{"CurrencyDecimalDigits":2,"
 <script src="/ScriptResource.axd?d=M3OJb6DWAABn5nVlQA8Gil85sfmfcuopFxQSuj05OEEd96IOnCzlqhvYxF5kjWtk7pv74bUSo-r0xC5kJf7ZAGprbak47NGHBax86Ae7jr6cHFwCkSoP2fA1ZFNntVgaolSEgrai95aq_Hpe9bdm8zlm5qDodC_vAt-DhCBQW_tZlQNt0&amp;t=74d23d49" type="text/javascript"></script>
 <div>
 
-	<input type="hidden" name="__PREVIOUSPAGE" id="__PREVIOUSPAGE" value="KkHbpO-NjNAYaIlY2VSxaKKW78pyYMd6oH9c3u_3qt9_W9tv4ZtyUr0fFuNt93ZI9Dx95xB6fXhuummECtwkQY5Ar9U1">
-	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWHwLNkum/DwLIzIq4AwLQ6PKrCQL0wLq2CQKu1MDuBQL9+JrEBgKZoLDWBQKTyI/6CAKN8fyaCQLsxNW2CwLR+8yGCQLB++yKCQLz6MOLAQK1zM+fBAKwxYegBALlrZyuDQLKzbZJAoaHqvYNAtGC+qMBAqCTpdwJAoLgopQDAq3I4/cIAtTI4/cIAu6nyZkEAt2QoK4KAq3pxfcFAvGIh4IMAu+7ndcGAs2Q+O8DAqi6jbgNAqDaxdUNGaCPgc39DREvKYyQy57gC6b47vA=">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWHgKroKLHCALIzIq4AwKN6qP7AgL+r7LBCgLVmPObCQKu1MDuBQL9+JrEBgKZoLDWBQKTyI/6CAKN8fyaCQLsxNW2CwLz6MOLAQK1zM+fBAKwxYegBALlrZyuDQLKzbZJAoaHqvYNAtGC+qMBAqCTpdwJAoLgopQDAq3I4/cIAtTI4/cIAu6nyZkEAt2QoK4KAq3pxfcFAvGIh4IMAu+7ndcGAs2Q+O8DArfYtMUNAseOw98DeJsExva58t3175opaszpxLLzVVY=">
 </div>
-       
-        
-        
-       
-        <input type="hidden" name="ctl00$ctl00$hidPageName" id="ctl00_ctl00_hidPageName" value="help : help">
-        
-        <div id="HeaderContainer">
-        
-            <div id="HeaderContainerBody">
-                <div id="HeaderLeftColumn">
-                    <div id="HeadLogoContainer">
-                        <a id="ctl00_ctl00_lnkHome" href="/"><img src="/images/logo.gif" border="0" alt="schuh home" title="schuh home"></a>
-                        <p class="hidden accessibility"><a href="#ContentContainer">Skip to main content</a></p>
-                        <p class="hidden accessibility"><a href="/accessibility/">Skip to accessibility help</a></p>
-                    </div>
-                    
-                    <div id="HeadCustServicesInfo">
-                        <span class="HeadSmallText">Customer Services Hotline<br>9am - 5pm(Mon - Fri)</span><img src="/images/helpline.gif" alt="helpline number"> 0845 30 72484<span class="HeadSmallText"><a href="#">click for full details</a></span>
-                    </div>
-                
-                    <div id="bannerAdContainer">
-                        <div class="mboxDefault" style="visibility: visible; display: block;"> 
-                            
-
-<a id="ctl00_ctl00_bannerAd1_hlPageLink" href="http://www.schuh.co.uk/delivery-details/?icid=947"><img id="ctl00_ctl00_bannerAd1_imgBannerImage" title="Guaranteed By Christmas" src="/images/banners/xmasguaranteedbanner.gif" alt="Guaranteed By Christmas" style="height:68px;width:318px;border-width:0px;"></a>                            
-                        </div> 
-                        <script type="text/javascript">
-                            mboxCreate('SchuhMaster-HeaderBanner');
-                        </script><div id="mboxMarker-default-SchuhMaster-HeaderBanner-0" style="visibility:hidden;display:none">&nbsp;</div><script src="https://schuh.tt.omtrdc.net/m2/schuh/mbox/standard?mboxHost=web.archive.org&amp;mboxSession=1580517189082-548531&amp;mboxPage=1580517196495-320107&amp;screenHeight=600&amp;screenWidth=800&amp;browserWidth=1366&amp;browserHeight=768&amp;browserTimeOffset=0&amp;colorDepth=24&amp;mboxCount=1&amp;mbox=SchuhMaster-HeaderBanner&amp;mboxId=0&amp;mboxTime=1580517200363&amp;mboxURL=https%3A%2F%2Fweb.archive.org%2Fweb%2F20101214113151id_%2Fhttp%3A%2F%2Fwww.schuh.co.uk%2Fprivacy%2F&amp;mboxReferrer=&amp;mboxVersion=39" language="JavaScript"></script>
+    <div id="fullContainer">
+        <div id="mainContainer">
+            
+            <input type="hidden" name="ctl00$ctl00$hidPageName" id="ctl00_ctl00_hidPageName" value="help : help">
+            <div id="relocate-user-background" style="display: none;">
+            </div>
+            <div id="relocate-user" style="display: none;">
+                <div class="modalPopupHeader">
+                    <a id="ctl00_ctl00_lnkBtnCloseRelocateModal" href="javascript:__doPostBack('ctl00$ctl00$lnkBtnCloseRelocateModal','')">[x]</a>
+                </div>
+                <div class="relocate-user-body">
+                    <div class="">
+                        <div class="grey-bar">
+                        </div>
+                        
+                        <span class="relocate-buttons">
+                            <div class="relocate-confirm-button">
+                                <input type="image" name="ctl00$ctl00$imgBtnRelocateUser" id="ctl00_ctl00_imgBtnRelocateUser" src="" style="border-width:0px;"></div>
+                            <div class="relocate-reject-button">
+                                <input type="image" name="ctl00$ctl00$imgBtnDoNotRelocateUser" id="ctl00_ctl00_imgBtnDoNotRelocateUser" src="/images/modal-popup-relocate-no-thanks.gif" alt="No, thanks" style="border-width:0px;"></div>
+                        </span>
                     </div>
                 </div>
-                                         
-                <div id="HeaderRightColumn">
-                
-                    <div id="HeadIEUKNav">
-                        <ul><li><img src="/images/helpline.gif" alt="helpline number"> 0845 30 72484</li></ul>
-                        <!--<ul><li><input type="image" name="ctl00$ctl00$imgBtnIeSite" id="ctl00_ctl00_imgBtnIeSite" src="/images/IeFlag.jpg" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ctl00$imgBtnIeSite&quot;, &quot;&quot;, false, &quot;&quot;, &quot;http://ie.schuh.co.uk/&quot;, false, false))" style="border-width:0px;" /></li><li><input type="image" name="ctl00$ctl00$imgBtnUkSite" id="ctl00_ctl00_imgBtnUkSite" src="/images/UkFlag.jpg" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ctl00$imgBtnUkSite&quot;, &quot;&quot;, false, &quot;&quot;, &quot;http://www.schuh.co.uk/&quot;, false, false))" style="border-width:0px;" /></li></ul>-->
+            </div>
+            <div id="HeaderContainer">
+                <div id="HeaderContainerBody">
+                    <div id="HeaderLeftColumn">
+                        <div id="HeadLogoContainer">
+                            <a id="ctl00_ctl00_lnkHome" onclick="omnitureMainSchuhLogoClicked();" href="/">
+                            <img src="/images/30logo.gif" border="0" alt="schuh home" title="schuh home">
+                            </a>
+                            
+
+<a id="ctl00_ctl00_bannerAd1_hlPageLink" onclick="omnitureBannerAdClicked('878');" href="http://www.schuh.co.uk/delivery-details/?icid=878"><img id="ctl00_ctl00_bannerAd1_imgBannerImage" title="free delivery on UK orders" src="/images/banners/freedelbanner.gif" alt="free delivery on UK orders" style="height:75px;width:196px;border-width:0px;"></a>
+                            <p class="hidden accessibility">
+                                <a href="#ContentContainer">Skip to main content</a></p>
+                            <p class="hidden accessibility">
+                                <a href="/accessibility/">Skip to accessibility help</a></p>
+                        </div>
+                        <div id="HeadCustServicesInfo">
+                            <span class="small">Customer Services Hotline<br>9am - 5pm(Mon - Fri)</span><img src="/images/helpline.gif" alt="helpline number"> 0845 30 72484<span class="small"><a href="#">click for full details</a></span>
+                        </div>
                     </div>
-                    
-                    <div id="divSubNavigation">
-                        <ul id="HeaderMyAccountNav">
-                            <li><a href="https://secure2.schuh.co.uk/myaccount/accountdetails.aspx" id="ctl00_ctl00_lnkMyAccount">my account</a></li>
-                            <li class="last"><a href="http://www2.schuh.co.uk/basket.aspx" id="ctl00_ctl00_lnkMyBasket2">my basket</a></li>
-                        </ul>                    
-                        <ul id="HeaderHelpNav">
-                            <li><a href="http://www2.schuh.co.uk/shops/all/" id="ctl00_ctl00_lnkMyWishlist">our shops</a></li>
-                            <li class="last"><a id="ctl00_ctl00_lnkTrackOrder" href="https://secure2.schuh.co.uk/myaccount/accountlogin.aspx?custaction=accountorders">track order</a></li>
-                        </ul>
-                    </div>
-                    
-                    <div id="HeadBasketContainer">                
+                    <div id="HeaderRightColumn">
+                        <div id="HeadIEUKNav">
+                            <ul class="cust-nav">
+                                <li><a href="https://secure2.schuh.co.uk/myaccount/accountdetails.aspx" id="ctl00_ctl00_lnkMyAccount">my account</a></li>
+                                <li>
+                                    <a id="ctl00_ctl00_lnkTrackOrder" href="https://secure2.schuh.co.uk/myaccount/accounttrackorder.aspx">track order</a></li>
+                                <li><a href="http://www2.schuh.co.uk/shops/all/" id="ctl00_ctl00_lnkMyWishlist">our shops</a></li>
+                                <li><a id="lnkHelp" href="/faqs/">help</a></li>
+                                <li>
+                                    <img src="/images/phone-icon.jpg" alt="helpline number">0845 30 72484</li>
+                            </ul>
+                        </div>
+                        <div id="HeadBasketContainer">
                             
 
 <script src="/Scripts/jquery.bgiframe.min.js" type="text/javascript"></script>
@@ -282,20 +288,18 @@ var __cultureInfo = '{"name":"en-GB","numberFormat":{"CurrencyDecimalDigits":2,"
             if (s._postBackSettings.sourceElement.id.indexOf('miniBasket') > 0) {
                 var removeButton = $('#' + s._postBackSettings.sourceElement.id);
 
-                var price = removeButton.siblings('.lblProductPrice').text().replace("€", "").replace("£", "");
-                var quantity = removeButton.siblings('.lblQuantity').text().replace("qty: ", "");
+                //                var price = removeButton.siblings('.lblProductPrice').text().replace("€", "").replace("£", "");
+                //                var quantity = removeButton.siblings('.lblQuantity').text().replace("qty: ", "");
 
-                var lblItemCount = $('#ctl00_miniBasketControl_lblItemCount');
-                var lblTotalCost = $('#ctl00_miniBasketControl_lblTotalCost');
+                //                var lblItemCount = $('#ctl00_miniBasketControl_lblSummaryCount');
+                //                var lblTotalCost = $('#ctl00_miniBasketControl_lblSummaryTotal');
 
-                var currency = lblTotalCost.text().charAt(0);
-                var quantityText = lblItemCount.text().replace(" item(s)", "") - quantity;
-                var totalPriceText = lblTotalCost.text().replace(currency, "") - (price * quantity);
+                //                var currency = lblTotalCost.text().charAt(0);
+                //                var quantityText = lblItemCount.text().replace(" x items", "") - quantity;
+                //                var totalPriceText = lblTotalCost.text().replace(currency, "") - (price * quantity);
 
-                $('#ctl00_miniBasketControl_lblSummaryCount').text(quantityText + ' item(s)');
-                $('#ctl00_miniBasketControl_lblSummaryTotal').text(currency + totalPriceText.toFixed(2));
-                lblItemCount.text(quantityText + ' item(s)');
-                lblTotalCost.text(currency + totalPriceText.toFixed(2));
+                //                $('#ctl00_miniBasketControl_lblSummaryCount').text(quantityText + ' x items');
+                //                $('#ctl00_miniBasketControl_lblSummaryTotal').text(currency + totalPriceText.toFixed(2));
 
                 removeButton.parents('li.basketProduct').slideUp(450);
             }
@@ -326,18 +330,18 @@ var __cultureInfo = '{"name":"en-GB","numberFormat":{"CurrencyDecimalDigits":2,"
         }
 
         $('#miniBasket').hoverIntent({ interval: 200, over: miniBasketHoverOn, timeout: 0, out: miniBasketHoverOff });
-        
+
 
         $('#miniBasketCloseButton').click(function() {
             $('#miniBasketProducts:visible').slideUp(450);
         });
 
-//        $('#miniBasketProducts').hover(function() {
-//            miniBasketHovered = true;
-//            $(this).clearQueue();
-//        }, function() {
-//            setTimeout("miniBasketDelayHide();", 3000);
-//        });
+        //        $('#miniBasketProducts').hover(function() {
+        //            miniBasketHovered = true;
+        //            $(this).clearQueue();
+        //        }, function() {
+        //            setTimeout("miniBasketDelayHide();", 3000);
+        //        });
 
         $('div.productTitle').unbind();
         $('div.productTitle').click(function() {
@@ -380,16 +384,13 @@ var __cultureInfo = '{"name":"en-GB","numberFormat":{"CurrencyDecimalDigits":2,"
 
 <div id="ctl00_ctl00_miniBasketControl_updatePanelMiniBasket">
 	
-        <input type="hidden" name="ctl00$ctl00$miniBasketControl$hidBasketCount" id="ctl00_ctl00_miniBasketControl_hidBasketCount" value="0">
-        <div id="miniBasket">
+     <input type="hidden" name="ctl00$ctl00$miniBasketControl$hidBasketCount" id="ctl00_ctl00_miniBasketControl_hidBasketCount" value="0">
+     
+     <div id="miniBasket">    
             <a href="http://www2.schuh.co.uk/basket.aspx" id="ctl00_ctl00_miniBasketControl_lnkBasket">
-                <dl>
-                    <dt>You have :</dt>
-                    <dd><span id="ctl00_ctl00_miniBasketControl_lblItemCount">0 item(s)</span></dd>
-                    <dt class="last">Total :</dt>
-                    <dd class="last"><span id="ctl00_ctl00_miniBasketControl_lblTotalCost">£0.00</span></dd>
-                </dl>
-            </a>
+            my bag&nbsp;<img src="/images/my-bag.jpg" alt="schuh shopping bag" class="bag-img">&nbsp;0 item(s)&nbsp;-&nbsp;£0.00  
+        </a>
+                  
             <div id="miniBasketProducts">
                 
                 
@@ -403,212 +404,240 @@ var __cultureInfo = '{"name":"en-GB","numberFormat":{"CurrencyDecimalDigits":2,"
                 </div>
                 
                 <div id="miniBasketCloseButton">
-                    x
                 </div>
             </div>
         </div>
         
     
 </div>
+                        </div>
                     </div>
-            
                 </div>
-            </div>
-                        
-            <div id="navigationContainer">
-                <div id="navigationContainerBody">
                 
-                    
+                <div id="navigationContainer">
+                    <div id="navigationContainerBody">
+                        
 <div id="mainNav">
-  <ul id="nav">
-    <li id="liMainNavWomens" class="hasNav with-js">
-      <a href="/womens/" id="ctl00_primaryNavigation1_lnkWomensMain" onclick="omnitureTopNavigationClicked('Women');">Women</a>
-      <div id="ctl00_primaryNavigation1_divNavWomens" style="display: none;"><dl class="category"><dt>Shop by Category</dt><dd>
+<ul id="nav">
+<!--home button-->
+    <li id="homeicon">
+        <a onclick="omnitureTopNavigationClicked('HomeNavButton');" href="/">
+	        <img src="/images/home-icon.jpg" alt="Schuh Home" title="Schuh Home">
+        </a>
+   </li>
+   <!-- /Home Button -->
+   
+   <!--womens link-->
+   <li id="liMainNavWomens" class="hasNav">
+       <a href="/womens/" id="ctl00_primaryNavigation1_lnkWomensMain" class="women" onclick="omnitureTopNavigationClicked('Women');">Women</a>
+      <div id="ctl00_primaryNavigation1_divNavWomens"><dl class="category"><dt>Category</dt><dd>
 <ul>
-<li><a href="/prdnewin.aspx?g=1" target="_top" onclick="omnitureTopNavigationClicked('Women > Shop by Category > New In');">New In</a></li>
-<li><a href="/prdbestsellers.aspx?g=1" target="_top" onclick="omnitureTopNavigationClicked('Women > Shop by Category > Best Sellers');">Best Sellers</a></li>
-<li><a href="/prdexclusives.aspx?g=1" target="_top" onclick="omnitureTopNavigationClicked('Women > Shop by Category > Exclusives');">Exclusives</a></li>
-<li><a href="/prddisplay.aspx?ord=review0&amp;g=1" target="_top" onclick="omnitureTopNavigationClicked('Women > Shop by Category > Most Reviewed');">Most Reviewed</a></li>
-<li class="separator"><a href="/womens/high-heels" target="_top" onclick="omnitureTopNavigationClicked('Women > Shop by Category > High Heels');">High Heels</a></li>
-<li><a href="/womens/low-heels" target="_top" onclick="omnitureTopNavigationClicked('Women > Shop by Category > Low Heels');">Low Heels</a></li>
-<li><a href="/womens/flat-shoes" target="_top" onclick="omnitureTopNavigationClicked('Women > Shop by Category > Flats');">Flats</a></li>
-<li><a href="/womens/boots" target="_top" onclick="omnitureTopNavigationClicked('Women > Shop by Category > Boots');">Boots</a></li>
-<li><a href="/womens/sandals" target="_top" onclick="omnitureTopNavigationClicked('Women > Shop by Category > Sandals');">Sandals</a></li>
-<li><a href="/womens/trainers" target="_top" onclick="omnitureTopNavigationClicked('Women > Shop by Category > Trainers');">Trainers</a></li>
-<li class="allLink"><a href="/prddisplay.aspx?g=1&amp;sfrom=womens" target="_top" onclick="omnitureTopNavigationClicked('Women > Shop by Category > see all womens');">see all womens</a></li>
+<li><a href="/prdnewin.aspx?g=1" target="_top" onclick="omnitureTopNavigationClicked('Women > Category > New In');">New In</a></li>
+<li><a href="/prdbestsellers.aspx?g=1" target="_top" onclick="omnitureTopNavigationClicked('Women > Category > Best Sellers');">Best Sellers</a></li>
+<li><a href="/prdexclusives.aspx?g=1" target="_top" onclick="omnitureTopNavigationClicked('Women > Category > Exclusives');">Exclusives</a></li>
+<li><a href="/prddisplay.aspx?ord=review0&amp;g=1" target="_top" onclick="omnitureTopNavigationClicked('Women > Category > Most Reviewed');">Most Reviewed</a></li>
+<li class="separator"><a href="/womens/high-heels" target="_top" onclick="omnitureTopNavigationClicked('Women > Category > High Heels');">High Heels</a></li>
+<li><a href="/womens/low-heels" target="_top" onclick="omnitureTopNavigationClicked('Women > Category > Low Heels');">Low Heels</a></li>
+<li><a href="/womens/flat-shoes" target="_top" onclick="omnitureTopNavigationClicked('Women > Category > Flats');">Flats</a></li>
+<li><a href="/womens/boots" target="_top" onclick="omnitureTopNavigationClicked('Women > Category > Boots');">Boots</a></li>
+<li><a href="/womens/sandals" target="_top" onclick="omnitureTopNavigationClicked('Women > Category > Sandals');">Sandals</a></li>
+<li><a href="/womens/trainers" target="_top" onclick="omnitureTopNavigationClicked('Women > Category > Trainers');">Trainers</a></li>
+<li class="allLink"><a href="/prddisplay.aspx?g=1&amp;sfrom=womens" target="_top" onclick="omnitureTopNavigationClicked('Women > Category > see all womens');">see all womens &gt;</a></li>
 </ul>
 </dd></dl>
-<dl class="trends"><dt>Shop by trend</dt><dd>
+<dl class="trends"><dt>trend</dt><dd>
 <ul>
-<li><a href="/xmas-gifts-for-him/" target="_top" onclick="omnitureTopNavigationClicked('Women > Shop by trend > gifts for him');">gifts for him</a></li>
-<li><a href="/party-shoes/" target="_top" onclick="omnitureTopNavigationClicked('Women > Shop by trend > party shoes');">party shoes</a></li>
-<li><a href="/womens/camel/" target="_top" onclick="omnitureTopNavigationClicked('Women > Shop by trend > camel and tan');">camel and tan</a></li>
-<li><a href="/womens/hiking-inspired/ " target="_top" onclick="omnitureTopNavigationClicked('Women > Shop by trend > Hiking Inspired');">Hiking Inspired</a></li>
-<li><a href="/womens/kitten-heels/" target="_top" onclick="omnitureTopNavigationClicked('Women > Shop by trend > Kitten Heels');">Kitten Heels</a></li>
-<li><a href="/womens/shearling/" target="_top" onclick="omnitureTopNavigationClicked('Women > Shop by trend > Shearling');">Shearling</a></li>
-<li><a href="/womens/utility-boots/ " target="_top" onclick="omnitureTopNavigationClicked('Women > Shop by trend > Utility Boots');">Utility Boots</a></li>
-<li><a href="/womens/wedding-shoes/" target="_top" onclick="omnitureTopNavigationClicked('Women > Shop by trend > wedding shoes');">wedding shoes</a></li>
-<li><a href="/womens/wedge-boots/ " target="_top" onclick="omnitureTopNavigationClicked('Women > Shop by trend > Wedge Boots');">Wedge Boots</a></li>
-<li><a href="/womens/winter-boots/" target="_top" onclick="omnitureTopNavigationClicked('Women > Shop by trend > Winter Boots');">Winter Boots</a></li>
+<li><a href="/womens/wedges/" target="_top" onclick="omnitureTopNavigationClicked('Women > trend > Wedges');">Wedges</a></li>
+<li><a href="/womens/seventies/?icid=1105" target="_top" onclick="omnitureTopNavigationClicked('Women > trend > 70s Inspired');">70s Inspired</a></li>
+<li><a href="/festival" target="_top" onclick="omnitureTopNavigationClicked('Women > trend > Festival Fashion');">Festival Fashion</a></li>
+<li><a href="/womens/wedding-shoes/" target="_top" onclick="omnitureTopNavigationClicked('Women > trend > wedding shoes');">wedding shoes</a></li>
+<li><a href="/espadrilles/" target="_top" onclick="omnitureTopNavigationClicked('Women > trend > Espadrilles');">Espadrilles</a></li>
+<li><a href="/womens/block-heels/" target="_top" onclick="omnitureTopNavigationClicked('Women > trend > Block Heels');">Block Heels</a></li>
+<li><a href="/womens/masculine/" target="_top" onclick="omnitureTopNavigationClicked('Women > trend > Brogues');">Brogues</a></li>
+<li><a href="/womens/bar-shoes/" target="_top" onclick="omnitureTopNavigationClicked('Women > trend > Bar Shoes');">Bar Shoes</a></li>
+<li><a href="/womens/colour-blocking/" target="_top" onclick="omnitureTopNavigationClicked('Women > trend > Colour Blocking');">Colour Blocking</a></li>
+<li><a href="/womens/spring/?icid=1103" target="_top" onclick="omnitureTopNavigationClicked('Women > trend > Spring');">Spring</a></li>
 </ul>
 </dd></dl>
-<dl class="brands "><dt>Shop by brand</dt><dd><strong>Best sellers</strong>
+<dl class="brands"><dt>brand</dt><dd>
 <ul>
 <li><a href="/womens/schuh" target="_top" onclick="omnitureTopNavigationClicked('Women > Shop by brand > Schuh');">Schuh</a></li>
-<li><a href="/womens/red-or-dead" target="_top" onclick="omnitureTopNavigationClicked('Women > Shop by brand > Red Or Dead');">Red Or Dead</a></li>
-<li><a href="/womens/converse" target="_top" onclick="omnitureTopNavigationClicked('Women > Shop by brand > Converse');">Converse</a></li>
-<li><a href="/womens/ugg" target="_top" onclick="omnitureTopNavigationClicked('Women > Shop by brand > Ugg');">Ugg</a></li>
-<li><a href="/womens/rocket-dog" target="_top" onclick="omnitureTopNavigationClicked('Women > Shop by brand > Rocket Dog');">Rocket Dog</a></li>
-<li><a href="/womens/irregular-choice" target="_top" onclick="omnitureTopNavigationClicked('Women > Shop by brand > Irregular Choice');">Irregular Choice</a></li>
-<li><a href="/womens/dr-martens" target="_top" onclick="omnitureTopNavigationClicked('Women > Shop by brand > Dr Martens');">Dr Martens</a></li>
-<li><a href="/womens/vans" target="_top" onclick="omnitureTopNavigationClicked('Women > Shop by brand > Vans');">Vans</a></li>
-<li><a href="/womens/skechers" target="_top" onclick="omnitureTopNavigationClicked('Women > Shop by brand > Skechers');">Skechers</a></li>
-<li><a href="/womens/hush-puppies" target="_top" onclick="omnitureTopNavigationClicked('Women > Shop by brand > Hush Puppies');">Hush Puppies</a></li>
-<li><a href="/womens/blowfish" target="_top" onclick="omnitureTopNavigationClicked('Women > Shop by brand > BLOWFISH');">BLOWFISH</a></li>
-<li><a href="/womens/adidas" target="_top" onclick="omnitureTopNavigationClicked('Women > Shop by brand > ADIDAS');">ADIDAS</a></li>
 <li><a href="/womens/toms" target="_top" onclick="omnitureTopNavigationClicked('Women > Shop by brand > TOMS');">TOMS</a></li>
-<li><a href="/womens/fly-london" target="_top" onclick="omnitureTopNavigationClicked('Women > Shop by brand > Fly London');">Fly London</a></li>
-<li><a href="/womens/hunter" target="_top" onclick="omnitureTopNavigationClicked('Women > Shop by brand > HUNTER');">HUNTER</a></li>
-<li><a href="/womens/nike" target="_top" onclick="omnitureTopNavigationClicked('Women > Shop by brand > Nike');">Nike</a></li>
-<li><a href="/womens/dc" target="_top" onclick="omnitureTopNavigationClicked('Women > Shop by brand > DCShoe Co');">DCShoe Co</a></li>
-<li><a href="/womens/iron-fist" target="_top" onclick="omnitureTopNavigationClicked('Women > Shop by brand > IRON FIST');">IRON FIST</a></li>
+<li><a href="/womens/vans" target="_top" onclick="omnitureTopNavigationClicked('Women > Shop by brand > Vans');">Vans</a></li>
+<li><a href="/womens/blowfish" target="_top" onclick="omnitureTopNavigationClicked('Women > Shop by brand > BLOWFISH');">BLOWFISH</a></li>
 <li><a href="/womens/fred-perry" target="_top" onclick="omnitureTopNavigationClicked('Women > Shop by brand > Fred Perry');">Fred Perry</a></li>
-<li><a href="/womens/caterpillar" target="_top" onclick="omnitureTopNavigationClicked('Women > Shop by brand > Caterpillar');">Caterpillar</a></li>
-<li class="allLink"><a href="/view-brands-womens" target="_top" onclick="omnitureTopNavigationClicked('Women > Shop by brand > see all 44 womens brands');">see all 44 womens brands</a></li>
+<li><a href="/womens/mel" target="_top" onclick="omnitureTopNavigationClicked('Women > Shop by brand > MEL');">MEL</a></li>
+<li><a href="/womens/irregular-choice" target="_top" onclick="omnitureTopNavigationClicked('Women > Shop by brand > Irregular Choice');">Irregular Choice</a></li>
+<li><a href="/womens/clarks-originals" target="_top" onclick="omnitureTopNavigationClicked('Women > Shop by brand > Clarks Originals');">Clarks Originals</a></li>
+<li><a href="/womens/adidas" target="_top" onclick="omnitureTopNavigationClicked('Women > Shop by brand > ADIDAS');">ADIDAS</a></li>
+<li><a href="/womens/superga" target="_top" onclick="omnitureTopNavigationClicked('Women > Shop by brand > SUPERGA');">SUPERGA</a></li>
+<li><a href="/womens/converse" target="_top" onclick="omnitureTopNavigationClicked('Women > Shop by brand > Converse');">Converse</a></li>
+<li><a href="/womens/hush-puppies" target="_top" onclick="omnitureTopNavigationClicked('Women > Shop by brand > Hush Puppies');">Hush Puppies</a></li>
+<li><a href="/womens/skechers" target="_top" onclick="omnitureTopNavigationClicked('Women > Shop by brand > Skechers');">Skechers</a></li>
+<li><a href="/womens/rocket-dog" target="_top" onclick="omnitureTopNavigationClicked('Women > Shop by brand > Rocket Dog');">Rocket Dog</a></li>
+<li><a href="/womens/havaianas" target="_top" onclick="omnitureTopNavigationClicked('Women > Shop by brand > Havaianas');">Havaianas</a></li>
+<li><a href="/womens/ugg" target="_top" onclick="omnitureTopNavigationClicked('Women > Shop by brand > Ugg');">Ugg</a></li>
+<li><a href="/womens/red-or-dead" target="_top" onclick="omnitureTopNavigationClicked('Women > Shop by brand > Red Or Dead');">Red Or Dead</a></li>
+<li><a href="/womens/crocs" target="_top" onclick="omnitureTopNavigationClicked('Women > Shop by brand > CROCS');">CROCS</a></li>
+<li><a href="/womens/simple" target="_top" onclick="omnitureTopNavigationClicked('Women > Shop by brand > Simple');">Simple</a></li>
+<li><a href="/womens/iron-fist" target="_top" onclick="omnitureTopNavigationClicked('Women > Shop by brand > IRON FIST');">IRON FIST</a></li>
+<li class="allLink"><a href="/view-brands-womens" target="_top" onclick="omnitureTopNavigationClicked('Women > Shop by brand > see all 42 womens brands');">see all 42 womens brands</a></li>
 </ul>
 </dd></dl>
-<dl class="saleLinks"><dt>sale</dt><dd><ul><li><a href="/prdDisplay.aspx?g=1&amp;t=sn&amp;ord=new&amp;sFrom=sale:womens:new in" target="_top" onclick="omnitureTopNavigationClicked('Women > Sale > New to sale');">New to sale</a></li><li><a href="/prdDisplay.aspx?g=1&amp;t=sf&amp;sFrom=sale:womens:further reductions" target="_top" onclick="omnitureTopNavigationClicked('Women > Sale > Further reductions');">Further reductions</a></li><li><a href="/prdDisplay.aspx?g=1&amp;t=s&amp;sFrom=sale:womens:best sellers" target="_top" onclick="omnitureTopNavigationClicked('Women > Sale > Best sellers');">best sellers</a></li><li class="allLink"><a href="/womens/sale/" target="_top" onclick="omnitureTopNavigationClicked('Women > Sale > View all sale');">View all sale</a></li><li class="republic"><a href="http://www.republic.co.uk/?&amp;utm_source=schuhredirect" target="_blank">republic clothing</a></li></ul></dd></dl></div> 
+<dl class="collections"><dt>collections</dt><dd><ul><li><a href="http://www.schuh.co.uk/colour-carnival/" target="_top" onclick="omnitureTopNavigationClicked('Women > Collections > /colour-carnival/');">Colour Carnival</a></li><li><a href="http://www.schuh.co.uk/falllen-angel/" target="_top" onclick="omnitureTopNavigationClicked('Women > Collections > /falllen-angel/');">Fallen Angel</a></li><li><a href="http://www.schuh.co.uk/lets-sing/" target="_top" onclick="omnitureTopNavigationClicked('Women > Collections > /lets-sing/');">Lets Sing And Dance</a></li><li><a href="http://www.schuh.co.uk/white-wedding/" target="_top" onclick="omnitureTopNavigationClicked('Women > Collections > /white-wedding/');">Nice Day For A White Wedding</a></li><li><a href="http://www.schuh.co.uk/purist-and-simple/" target="_top" onclick="omnitureTopNavigationClicked('Women > Collections > /purist-and-simple/');">Purist and Simple</a></li></ul></dd></dl><dl class="saleLinks"><dt class="redTitle">sale</dt><dd><ul><li><a href="/prdDisplay.aspx?g=1&amp;t=sn&amp;ord=new&amp;sFrom=sale:womens:new in" target="_top" onclick="omnitureTopNavigationClicked('Women > Sale > New to sale');">New to sale</a></li><li><a href="/prdDisplay.aspx?g=1&amp;t=sf&amp;sFrom=sale:womens:further reductions" target="_top" onclick="omnitureTopNavigationClicked('Women > Sale > Further reductions');">Further reductions</a></li><li><a href="/prdDisplay.aspx?g=1&amp;t=s&amp;sFrom=sale:womens:best sellers" target="_top" onclick="omnitureTopNavigationClicked('Women > Sale > Best sellers');">best sellers</a></li><li class="allLink"><a href="/womens/sale/" target="_top" onclick="omnitureTopNavigationClicked('Women > Sale > View all sale');">View all sale</a></li><li class="republic"><a href="http://www.republic.co.uk/?&amp;utm_source=schuhredirect" target="_blank">republic clothing</a></li></ul></dd></dl></div> 
     </li>
-    <li id="liMainNavMens" class="hasNav with-js">
+   <!--/womens link-->
+   
+   <!--mens link-->
+    <li id="liMainNavMens" class="hasNav">
       <a href="/mens/" id="ctl00_primaryNavigation1_lnkMensMain" onclick="omnitureTopNavigationClicked('Men');">Men</a>
-      <div id="ctl00_primaryNavigation1_divNavMen" style="display: none;"><dl class="category"><dt>Shop by Category</dt><dd>
+      <div id="ctl00_primaryNavigation1_divNavMen"><dl class="category"><dt>Category</dt><dd>
 <ul>
-<li><a href="/prdnewin.aspx?g=3" target="_top" onclick="omnitureTopNavigationClicked('Men > Shop by Category > New In');">New In</a></li>
-<li><a href="/prdbestsellers.aspx?g=3" target="_top" onclick="omnitureTopNavigationClicked('Men > Shop by Category > Best Sellers');">Best Sellers</a></li>
-<li><a href="/prdexclusives.aspx?g=3" target="_top" onclick="omnitureTopNavigationClicked('Men > Shop by Category > Exclusives');">Exclusives</a></li>
-<li><a href="/prddisplay.aspx?ord=review0&amp;g=3" target="_top" onclick="omnitureTopNavigationClicked('Men > Shop by Category > Most Reviewed');">Most Reviewed</a></li>
-<li class="separator"><a href="/mens/trainers" target="_top" onclick="omnitureTopNavigationClicked('Men > Shop by Category > Trainers');">Trainers</a></li>
-<li><a href="/mens/shoes" target="_top" onclick="omnitureTopNavigationClicked('Men > Shop by Category > Shoes');">Shoes</a></li>
-<li><a href="/mens/boots" target="_top" onclick="omnitureTopNavigationClicked('Men > Shop by Category > Boots');">Boots</a></li>
-<li><a href="/mens/sandals" target="_top" onclick="omnitureTopNavigationClicked('Men > Shop by Category > Sandals');">Sandals</a></li>
-<li class="allLink"><a href="/prddisplay.aspx?g=3&amp;sfrom=mens" target="_top" onclick="omnitureTopNavigationClicked('Men > Shop by Category > see all mens');">see all mens</a></li>
+<li><a href="/prdnewin.aspx?g=3" target="_top" onclick="omnitureTopNavigationClicked('Men > Category > New In');">New In</a></li>
+<li><a href="/prdbestsellers.aspx?g=3" target="_top" onclick="omnitureTopNavigationClicked('Men > Category > Best Sellers');">Best Sellers</a></li>
+<li><a href="/prdexclusives.aspx?g=3" target="_top" onclick="omnitureTopNavigationClicked('Men > Category > Exclusives');">Exclusives</a></li>
+<li><a href="/prddisplay.aspx?ord=review0&amp;g=3" target="_top" onclick="omnitureTopNavigationClicked('Men > Category > Most Reviewed');">Most Reviewed</a></li>
+<li class="separator"><a href="/mens/trainers" target="_top" onclick="omnitureTopNavigationClicked('Men > Category > Trainers');">Trainers</a></li>
+<li><a href="/mens/shoes" target="_top" onclick="omnitureTopNavigationClicked('Men > Category > Shoes');">Shoes</a></li>
+<li><a href="/mens/boots" target="_top" onclick="omnitureTopNavigationClicked('Men > Category > Boots');">Boots</a></li>
+<li><a href="/mens/sandals" target="_top" onclick="omnitureTopNavigationClicked('Men > Category > Sandals');">Sandals</a></li>
+<li class="allLink"><a href="/prddisplay.aspx?g=3&amp;sfrom=mens" target="_top" onclick="omnitureTopNavigationClicked('Men > Category > see all mens');">see all mens &gt;</a></li>
 </ul>
 </dd></dl>
-<dl class="trends"><dt>Shop by trend</dt><dd>
+<dl class="trends"><dt>trend</dt><dd>
 <ul>
-<li><a href="/xmas-gifts-for-her/" target="_top" onclick="omnitureTopNavigationClicked('Men > Shop by trend > gifts for her');">gifts for her</a></li>
-<li><a href="/mens/brogues/" target="_top" onclick="omnitureTopNavigationClicked('Men > Shop by trend > Brogues');">Brogues</a></li>
-<li><a href="/mens-formal-shoes/" target="_top" onclick="omnitureTopNavigationClicked('Men > Shop by trend > Formal Shoes');">Formal Shoes</a></li>
-<li><a href="/mens/military/" target="_top" onclick="omnitureTopNavigationClicked('Men > Shop by trend > Military');">Military</a></li>
-<li><a href="/mens/outdoors/" target="_top" onclick="omnitureTopNavigationClicked('Men > Shop by trend > Outdoors');">Outdoors</a></li>
-<li><a href="/mens/plimsolls/" target="_top" onclick="omnitureTopNavigationClicked('Men > Shop by trend > Plimsolls');">Plimsolls</a></li>
-<li><a href="/mens/retro/" target="_top" onclick="omnitureTopNavigationClicked('Men > Shop by trend > Retro');">Retro</a></li>
-<li><a href="/mens/skate/" target="_top" onclick="omnitureTopNavigationClicked('Men > Shop by trend > Skate');">Skate</a></li>
+<li><a href="/mens/boat-shoes/" target="_top" onclick="omnitureTopNavigationClicked('Men > trend > Boat Shoes');">Boat Shoes</a></li>
+<li><a href="/mens/plimsolls/" target="_top" onclick="omnitureTopNavigationClicked('Men > trend > Plimsolls');">Plimsolls</a></li>
+<li><a href="/mens-formal-shoes/" target="_top" onclick="omnitureTopNavigationClicked('Men > trend > Formal Shoes');">Formal Shoes</a></li>
+<li><a href="/mens/brogues/" target="_top" onclick="omnitureTopNavigationClicked('Men > trend > Brogues');">Brogues</a></li>
+<li><a href="/mens/retro/" target="_top" onclick="omnitureTopNavigationClicked('Men > trend > Retro');">Retro</a></li>
+<li><a href="/mens/skate/" target="_top" onclick="omnitureTopNavigationClicked('Men > trend > Skate');">Skate</a></li>
+<li><a href="/mens/outdoors/" target="_top" onclick="omnitureTopNavigationClicked('Men > trend > Outdoors');">Outdoors</a></li>
 </ul>
 </dd></dl>
-<dl class="brands "><dt>Shop by brand</dt><dd><strong>Best sellers</strong>
+<dl class="brands"><dt>brand</dt><dd>
 <ul>
-<li><a href="/mens/timberland" target="_top" onclick="omnitureTopNavigationClicked('Men > Shop by brand > Timberland');">Timberland</a></li>
-<li><a href="/mens/caterpillar" target="_top" onclick="omnitureTopNavigationClicked('Men > Shop by brand > Caterpillar');">Caterpillar</a></li>
-<li><a href="/mens/adidas" target="_top" onclick="omnitureTopNavigationClicked('Men > Shop by brand > ADIDAS');">ADIDAS</a></li>
-<li><a href="/mens/converse" target="_top" onclick="omnitureTopNavigationClicked('Men > Shop by brand > Converse');">Converse</a></li>
 <li><a href="/mens/toms" target="_top" onclick="omnitureTopNavigationClicked('Men > Shop by brand > TOMS');">TOMS</a></li>
+<li><a href="/mens/vans" target="_top" onclick="omnitureTopNavigationClicked('Men > Shop by brand > Vans');">Vans</a></li>
+<li><a href="/mens/converse" target="_top" onclick="omnitureTopNavigationClicked('Men > Shop by brand > Converse');">Converse</a></li>
 <li><a href="/mens/fred-perry" target="_top" onclick="omnitureTopNavigationClicked('Men > Shop by brand > Fred Perry');">Fred Perry</a></li>
 <li><a href="/mens/base-london" target="_top" onclick="omnitureTopNavigationClicked('Men > Shop by brand > Base London');">Base London</a></li>
+<li><a href="/mens/pretty-green" target="_top" onclick="omnitureTopNavigationClicked('Men > Shop by brand > PRETTY GREEN');">PRETTY GREEN</a></li>
 <li><a href="/mens/momentum" target="_top" onclick="omnitureTopNavigationClicked('Men > Shop by brand > Momentum');">Momentum</a></li>
-<li><a href="/mens/dc" target="_top" onclick="omnitureTopNavigationClicked('Men > Shop by brand > DCShoe Co');">DCShoe Co</a></li>
-<li><a href="/mens/dr-martens" target="_top" onclick="omnitureTopNavigationClicked('Men > Shop by brand > Dr Martens');">Dr Martens</a></li>
-<li><a href="/mens/skechers" target="_top" onclick="omnitureTopNavigationClicked('Men > Shop by brand > Skechers');">Skechers</a></li>
-<li><a href="/mens/nike" target="_top" onclick="omnitureTopNavigationClicked('Men > Shop by brand > Nike');">Nike</a></li>
-<li><a href="/mens/kswiss" target="_top" onclick="omnitureTopNavigationClicked('Men > Shop by brand > K*Swiss');">K*Swiss</a></li>
-<li><a href="/mens/red-or-dead" target="_top" onclick="omnitureTopNavigationClicked('Men > Shop by brand > Red Or Dead');">Red Or Dead</a></li>
-<li><a href="/mens/etnies" target="_top" onclick="omnitureTopNavigationClicked('Men > Shop by brand > Etnies');">Etnies</a></li>
-<li><a href="/mens/nike-60" target="_top" onclick="omnitureTopNavigationClicked('Men > Shop by brand > NIKE 6.0');">NIKE 6.0</a></li>
-<li><a href="/mens/puma" target="_top" onclick="omnitureTopNavigationClicked('Men > Shop by brand > Puma');">Puma</a></li>
-<li><a href="/mens/schuh" target="_top" onclick="omnitureTopNavigationClicked('Men > Shop by brand > Schuh');">Schuh</a></li>
+<li><a href="/mens/superga" target="_top" onclick="omnitureTopNavigationClicked('Men > Shop by brand > SUPERGA');">SUPERGA</a></li>
+<li><a href="/prdsearch.aspx?searchterm=peter%20werth&amp;sterm=peter%20werth&amp;js=1" target="_top" onclick="omnitureTopNavigationClicked('Men > Shop by brand > Peter Werth');">Peter Werth</a></li>
+<li><a href="/mens/havaianas" target="_top" onclick="omnitureTopNavigationClicked('Men > Shop by brand > Havaianas');">Havaianas</a></li>
+<li><a href="/mens/lacoste" target="_top" onclick="omnitureTopNavigationClicked('Men > Shop by brand > LACOSTE');">LACOSTE</a></li>
+<li><a href="/mens/clarks-originals" target="_top" onclick="omnitureTopNavigationClicked('Men > Shop by brand > Clarks Originals');">Clarks Originals</a></li>
+<li><a href="/mens/adidas" target="_top" onclick="omnitureTopNavigationClicked('Men > Shop by brand > ADIDAS');">ADIDAS</a></li>
 <li><a href="/mens/onitsuka-tiger" target="_top" onclick="omnitureTopNavigationClicked('Men > Shop by brand > Onitsuka Tiger');">Onitsuka Tiger</a></li>
-<li><a href="/mens/gola" target="_top" onclick="omnitureTopNavigationClicked('Men > Shop by brand > Gola');">Gola</a></li>
-<li class="allLink"><a href="/view-brands-mens" target="_top" onclick="omnitureTopNavigationClicked('Men > Shop by brand > see all 65 mens brands');">see all 65 mens brands</a></li>
+<li><a href="/mens/pointer" target="_top" onclick="omnitureTopNavigationClicked('Men > Shop by brand > Pointer');">Pointer</a></li>
+<li><a href="/mens/schuh" target="_top" onclick="omnitureTopNavigationClicked('Men > Shop by brand > Schuh');">Schuh</a></li>
+<li><a href="/mens/nike" target="_top" onclick="omnitureTopNavigationClicked('Men > Shop by brand > Nike');">Nike</a></li>
+<li><a href="/mens/ikon" target="_top" onclick="omnitureTopNavigationClicked('Men > Shop by brand > Ikon');">Ikon</a></li>
+<li><a href="/mens/skechers" target="_top" onclick="omnitureTopNavigationClicked('Men > Shop by brand > Skechers');">Skechers</a></li>
+<li><a href="/mens/camper" target="_top" onclick="omnitureTopNavigationClicked('Men > Shop by brand > Camper');">Camper</a></li>
+<li class="allLink"><a href="/view-brands-mens" target="_top" onclick="omnitureTopNavigationClicked('Men > Shop by brand > see all 73 mens brands');">see all 73 mens brands</a></li>
 </ul>
 </dd></dl>
-<dl class="saleLinks"><dt>sale</dt><dd><ul><li><a href="/prdDisplay.aspx?g=3&amp;t=sn&amp;ord=new&amp;sFrom=sale:mens:new in" target="_top" onclick="omnitureTopNavigationClicked('Men > Sale > New to sale');">New to sale</a></li><li><a href="/prdDisplay.aspx?g=3&amp;t=sf&amp;sfrom=sale:mens:further reductions" target="_top" onclick="omnitureTopNavigationClicked('Men > Sale > Further reductions');">Further reductions</a></li><li><a href="/prdDisplay.aspx?g=3&amp;t=s&amp;sFrom=sale:mens:best sellers" target="_top" onclick="omnitureTopNavigationClicked('Men > Sale > Best sellers');">Best sellers</a></li><li class="allLink"><a href="/mens/sale/" target="_top" onclick="omnitureTopNavigationClicked('Men > Sale > View all sale');">View all sale</a></li><li class="republic"><a href="http://www.republic.co.uk/?&amp;utm_source=schuhredirect" target="_blank">republic clothing</a></li></ul></dd></dl></div>     
+<dl class="saleLinks"><dt class="redTitle">sale</dt><dd><ul><li><a href="/prdDisplay.aspx?g=3&amp;t=sn&amp;ord=new&amp;sFrom=sale:mens:new in" target="_top" onclick="omnitureTopNavigationClicked('Men > Sale > New to sale');">New to sale</a></li><li><a href="/prdDisplay.aspx?g=3&amp;t=sf&amp;sfrom=sale:mens:further reductions" target="_top" onclick="omnitureTopNavigationClicked('Men > Sale > Further reductions');">Further reductions</a></li><li><a href="/prdDisplay.aspx?g=3&amp;t=s&amp;sFrom=sale:mens:best sellers" target="_top" onclick="omnitureTopNavigationClicked('Men > Sale > Best sellers');">Best sellers</a></li><li class="allLink"><a href="/mens/sale/" target="_top" onclick="omnitureTopNavigationClicked('Men > Sale > View all sale');">View all sale</a></li><li class="republic"><a href="http://www.republic.co.uk/?&amp;utm_source=schuhredirect" target="_blank">republic clothing</a></li></ul></dd></dl></div>     
     </li>
-    <li id="liMainNavBrands" class="hasNav with-js">
+    <!--/mens link-->
+    
+    <!--Brands Link -->
+    <li id="liMainNavBrands" class="hasNav">
       <a href="/brands/" id="ctl00_primaryNavigation1_lnkBrandsMain" onclick="omnitureTopNavigationClicked('Brands');">Brands</a>
-      <div id="ctl00_primaryNavigation1_divNavBrands" style="display: none;"><dl class="brands  womensMenu"><dt>Womens brands (44)</dt><dd><strong>Best sellers</strong>
+      <div id="ctl00_primaryNavigation1_divNavBrands"><dl class="brands"><dt>Womens brands (42)</dt><dd>
 <ul>
 <li><a href="/womens/schuh" target="_top" onclick="omnitureTopNavigationClicked('Brands > Womens brands > Schuh');">Schuh</a></li>
-<li><a href="/womens/red-or-dead" target="_top" onclick="omnitureTopNavigationClicked('Brands > Womens brands > Red Or Dead');">Red Or Dead</a></li>
-<li><a href="/womens/converse" target="_top" onclick="omnitureTopNavigationClicked('Brands > Womens brands > Converse');">Converse</a></li>
-<li><a href="/womens/ugg" target="_top" onclick="omnitureTopNavigationClicked('Brands > Womens brands > Ugg');">Ugg</a></li>
-<li><a href="/womens/rocket-dog" target="_top" onclick="omnitureTopNavigationClicked('Brands > Womens brands > Rocket Dog');">Rocket Dog</a></li>
-<li><a href="/womens/irregular-choice" target="_top" onclick="omnitureTopNavigationClicked('Brands > Womens brands > Irregular Choice');">Irregular Choice</a></li>
-<li><a href="/womens/dr-martens" target="_top" onclick="omnitureTopNavigationClicked('Brands > Womens brands > Dr Martens');">Dr Martens</a></li>
-<li><a href="/womens/vans" target="_top" onclick="omnitureTopNavigationClicked('Brands > Womens brands > Vans');">Vans</a></li>
-<li><a href="/womens/skechers" target="_top" onclick="omnitureTopNavigationClicked('Brands > Womens brands > Skechers');">Skechers</a></li>
-<li><a href="/womens/hush-puppies" target="_top" onclick="omnitureTopNavigationClicked('Brands > Womens brands > Hush Puppies');">Hush Puppies</a></li>
-<li><a href="/womens/blowfish" target="_top" onclick="omnitureTopNavigationClicked('Brands > Womens brands > BLOWFISH');">BLOWFISH</a></li>
-<li><a href="/womens/adidas" target="_top" onclick="omnitureTopNavigationClicked('Brands > Womens brands > ADIDAS');">ADIDAS</a></li>
 <li><a href="/womens/toms" target="_top" onclick="omnitureTopNavigationClicked('Brands > Womens brands > TOMS');">TOMS</a></li>
-<li><a href="/womens/fly-london" target="_top" onclick="omnitureTopNavigationClicked('Brands > Womens brands > Fly London');">Fly London</a></li>
-<li><a href="/womens/hunter" target="_top" onclick="omnitureTopNavigationClicked('Brands > Womens brands > HUNTER');">HUNTER</a></li>
-<li><a href="/womens/nike" target="_top" onclick="omnitureTopNavigationClicked('Brands > Womens brands > Nike');">Nike</a></li>
-<li><a href="/womens/dc" target="_top" onclick="omnitureTopNavigationClicked('Brands > Womens brands > DCShoe Co');">DCShoe Co</a></li>
-<li><a href="/womens/iron-fist" target="_top" onclick="omnitureTopNavigationClicked('Brands > Womens brands > IRON FIST');">IRON FIST</a></li>
+<li><a href="/womens/vans" target="_top" onclick="omnitureTopNavigationClicked('Brands > Womens brands > Vans');">Vans</a></li>
+<li><a href="/womens/blowfish" target="_top" onclick="omnitureTopNavigationClicked('Brands > Womens brands > BLOWFISH');">BLOWFISH</a></li>
 <li><a href="/womens/fred-perry" target="_top" onclick="omnitureTopNavigationClicked('Brands > Womens brands > Fred Perry');">Fred Perry</a></li>
-<li><a href="/womens/caterpillar" target="_top" onclick="omnitureTopNavigationClicked('Brands > Womens brands > Caterpillar');">Caterpillar</a></li>
-<li class="allLink"><a href="/view-brands-womens" target="_top" onclick="omnitureTopNavigationClicked('Brands > Womens brands > see all 44 womens brands');">see all 44 womens brands</a></li>
+<li><a href="/womens/mel" target="_top" onclick="omnitureTopNavigationClicked('Brands > Womens brands > MEL');">MEL</a></li>
+<li><a href="/womens/irregular-choice" target="_top" onclick="omnitureTopNavigationClicked('Brands > Womens brands > Irregular Choice');">Irregular Choice</a></li>
+<li><a href="/womens/clarks-originals" target="_top" onclick="omnitureTopNavigationClicked('Brands > Womens brands > Clarks Originals');">Clarks Originals</a></li>
+<li><a href="/womens/adidas" target="_top" onclick="omnitureTopNavigationClicked('Brands > Womens brands > ADIDAS');">ADIDAS</a></li>
+<li><a href="/womens/superga" target="_top" onclick="omnitureTopNavigationClicked('Brands > Womens brands > SUPERGA');">SUPERGA</a></li>
+<li><a href="/womens/converse" target="_top" onclick="omnitureTopNavigationClicked('Brands > Womens brands > Converse');">Converse</a></li>
+<li><a href="/womens/hush-puppies" target="_top" onclick="omnitureTopNavigationClicked('Brands > Womens brands > Hush Puppies');">Hush Puppies</a></li>
+<li><a href="/womens/skechers" target="_top" onclick="omnitureTopNavigationClicked('Brands > Womens brands > Skechers');">Skechers</a></li>
+<li><a href="/womens/rocket-dog" target="_top" onclick="omnitureTopNavigationClicked('Brands > Womens brands > Rocket Dog');">Rocket Dog</a></li>
+<li><a href="/womens/havaianas" target="_top" onclick="omnitureTopNavigationClicked('Brands > Womens brands > Havaianas');">Havaianas</a></li>
+<li><a href="/womens/ugg" target="_top" onclick="omnitureTopNavigationClicked('Brands > Womens brands > Ugg');">Ugg</a></li>
+<li><a href="/womens/red-or-dead" target="_top" onclick="omnitureTopNavigationClicked('Brands > Womens brands > Red Or Dead');">Red Or Dead</a></li>
+<li><a href="/womens/crocs" target="_top" onclick="omnitureTopNavigationClicked('Brands > Womens brands > CROCS');">CROCS</a></li>
+<li><a href="/womens/simple" target="_top" onclick="omnitureTopNavigationClicked('Brands > Womens brands > Simple');">Simple</a></li>
+<li><a href="/womens/iron-fist" target="_top" onclick="omnitureTopNavigationClicked('Brands > Womens brands > IRON FIST');">IRON FIST</a></li>
+<li class="allLink"><a href="/view-brands-womens" target="_top" onclick="omnitureTopNavigationClicked('Brands > Womens brands > see all 42 womens brands');">see all 42 womens brands</a></li>
 </ul>
 </dd></dl>
-<dl class="brands  mensMenu"><dt>Mens brands (65)</dt><dd><strong>Best sellers</strong>
+<dl class="brands"><dt>Mens brands (73)</dt><dd>
 <ul>
-<li><a href="/mens/timberland" target="_top" onclick="omnitureTopNavigationClicked('Brands > Mens brands > Timberland');">Timberland</a></li>
-<li><a href="/mens/caterpillar" target="_top" onclick="omnitureTopNavigationClicked('Brands > Mens brands > Caterpillar');">Caterpillar</a></li>
-<li><a href="/mens/adidas" target="_top" onclick="omnitureTopNavigationClicked('Brands > Mens brands > ADIDAS');">ADIDAS</a></li>
-<li><a href="/mens/converse" target="_top" onclick="omnitureTopNavigationClicked('Brands > Mens brands > Converse');">Converse</a></li>
 <li><a href="/mens/toms" target="_top" onclick="omnitureTopNavigationClicked('Brands > Mens brands > TOMS');">TOMS</a></li>
+<li><a href="/mens/vans" target="_top" onclick="omnitureTopNavigationClicked('Brands > Mens brands > Vans');">Vans</a></li>
+<li><a href="/mens/converse" target="_top" onclick="omnitureTopNavigationClicked('Brands > Mens brands > Converse');">Converse</a></li>
 <li><a href="/mens/fred-perry" target="_top" onclick="omnitureTopNavigationClicked('Brands > Mens brands > Fred Perry');">Fred Perry</a></li>
 <li><a href="/mens/base-london" target="_top" onclick="omnitureTopNavigationClicked('Brands > Mens brands > Base London');">Base London</a></li>
+<li><a href="/mens/pretty-green" target="_top" onclick="omnitureTopNavigationClicked('Brands > Mens brands > PRETTY GREEN');">PRETTY GREEN</a></li>
 <li><a href="/mens/momentum" target="_top" onclick="omnitureTopNavigationClicked('Brands > Mens brands > Momentum');">Momentum</a></li>
-<li><a href="/mens/dc" target="_top" onclick="omnitureTopNavigationClicked('Brands > Mens brands > DCShoe Co');">DCShoe Co</a></li>
-<li><a href="/mens/dr-martens" target="_top" onclick="omnitureTopNavigationClicked('Brands > Mens brands > Dr Martens');">Dr Martens</a></li>
-<li><a href="/mens/skechers" target="_top" onclick="omnitureTopNavigationClicked('Brands > Mens brands > Skechers');">Skechers</a></li>
-<li><a href="/mens/nike" target="_top" onclick="omnitureTopNavigationClicked('Brands > Mens brands > Nike');">Nike</a></li>
-<li><a href="/mens/kswiss" target="_top" onclick="omnitureTopNavigationClicked('Brands > Mens brands > K*Swiss');">K*Swiss</a></li>
-<li><a href="/mens/red-or-dead" target="_top" onclick="omnitureTopNavigationClicked('Brands > Mens brands > Red Or Dead');">Red Or Dead</a></li>
-<li><a href="/mens/etnies" target="_top" onclick="omnitureTopNavigationClicked('Brands > Mens brands > Etnies');">Etnies</a></li>
-<li><a href="/mens/nike-60" target="_top" onclick="omnitureTopNavigationClicked('Brands > Mens brands > NIKE 6.0');">NIKE 6.0</a></li>
-<li><a href="/mens/puma" target="_top" onclick="omnitureTopNavigationClicked('Brands > Mens brands > Puma');">Puma</a></li>
-<li><a href="/mens/schuh" target="_top" onclick="omnitureTopNavigationClicked('Brands > Mens brands > Schuh');">Schuh</a></li>
+<li><a href="/mens/superga" target="_top" onclick="omnitureTopNavigationClicked('Brands > Mens brands > SUPERGA');">SUPERGA</a></li>
+<li><a href="/prdsearch.aspx?searchterm=peter%20werth&amp;sterm=peter%20werth&amp;js=1" target="_top" onclick="omnitureTopNavigationClicked('Brands > Mens brands > Peter Werth');">Peter Werth</a></li>
+<li><a href="/mens/havaianas" target="_top" onclick="omnitureTopNavigationClicked('Brands > Mens brands > Havaianas');">Havaianas</a></li>
+<li><a href="/mens/lacoste" target="_top" onclick="omnitureTopNavigationClicked('Brands > Mens brands > LACOSTE');">LACOSTE</a></li>
+<li><a href="/mens/clarks-originals" target="_top" onclick="omnitureTopNavigationClicked('Brands > Mens brands > Clarks Originals');">Clarks Originals</a></li>
+<li><a href="/mens/adidas" target="_top" onclick="omnitureTopNavigationClicked('Brands > Mens brands > ADIDAS');">ADIDAS</a></li>
 <li><a href="/mens/onitsuka-tiger" target="_top" onclick="omnitureTopNavigationClicked('Brands > Mens brands > Onitsuka Tiger');">Onitsuka Tiger</a></li>
-<li><a href="/mens/gola" target="_top" onclick="omnitureTopNavigationClicked('Brands > Mens brands > Gola');">Gola</a></li>
-<li class="allLink"><a href="/view-brands-mens" target="_top" onclick="omnitureTopNavigationClicked('Brands > Mens brands > see all 65 mens brands');">see all 65 mens brands</a></li>
+<li><a href="/mens/pointer" target="_top" onclick="omnitureTopNavigationClicked('Brands > Mens brands > Pointer');">Pointer</a></li>
+<li><a href="/mens/schuh" target="_top" onclick="omnitureTopNavigationClicked('Brands > Mens brands > Schuh');">Schuh</a></li>
+<li><a href="/mens/nike" target="_top" onclick="omnitureTopNavigationClicked('Brands > Mens brands > Nike');">Nike</a></li>
+<li><a href="/mens/ikon" target="_top" onclick="omnitureTopNavigationClicked('Brands > Mens brands > Ikon');">Ikon</a></li>
+<li><a href="/mens/skechers" target="_top" onclick="omnitureTopNavigationClicked('Brands > Mens brands > Skechers');">Skechers</a></li>
+<li><a href="/mens/camper" target="_top" onclick="omnitureTopNavigationClicked('Brands > Mens brands > Camper');">Camper</a></li>
+<li class="allLink"><a href="/view-brands-mens" target="_top" onclick="omnitureTopNavigationClicked('Brands > Mens brands > see all 73 mens brands');">see all 73 mens brands</a></li>
 </ul>
 </dd></dl>
-<dl class="allbrands"><dt>brands</dt><dd><ul><li class="allLink top"><a href="/brands/" target="_top" onclick="omnitureTopNavigationClicked('Brands > a-z brands(76)');">a-z brands(76)</a></li></ul></dd></dl></div>     
+<dl class="allbrands"><dt>brands</dt><dd><ul><li class="allLink top"><a href="/brands/" target="_top" onclick="omnitureTopNavigationClicked('Brands > a-z brands(83)');">a-z of brands (83)</a></li></ul></dd></dl></div>     
     </li>
-    <li id="liMainNavJunior" class="hasNav with-js">
+    <!--/Brands link-->
+   
+   <!-- Collections Link -->
+	<li id="liMainNavCollection">
+	<a href="/collections" id="ctl00_primaryNavigation1_lnkCollections" class="collections" onclick="omnitureTopNavigationClicked('Collections');">
+        	collections
+        </a>
+    </li>
+    <!-- /Collections Link -->
+        
+    <!-- sale Link -->         
+   <li id="liMainNavSale">
+      <a href="/sale/" id="ctl00_primaryNavigation1_lnkSaleMain" class="sale" onclick="omnitureTopNavigationClicked('Sale');">Sale</a>
+    </li>
+    <!-- /sale Link -->        
+    
+   
+   <!-- Junior Link -->         
+    <li id="liMainNavJunior" class="hasNav">
       <a href="/junior/" id="ctl00_primaryNavigation1_lnkJuniorMain" onclick="omnitureTopNavigationClicked('Junior');">Junior</a>
-      <div id="ctl00_primaryNavigation1_divNavJunior" style="display: none;"><dl class="girlsMenu"><dt>Shop by Girls</dt><dd>
+      <div id="ctl00_primaryNavigation1_divNavJunior"><dl class="girlsMenu"><dt>girls</dt><dd>
 <ul>
-<li><a href="/prddisplay.aspx?sfrom=junior:girls&amp;searchterm=&amp;c3=-1&amp;c=-1&amp;m=-1&amp;b=-1&amp;j=1&amp;sz=-1&amp;t=-1&amp;maxi=12&amp;minp=-1&amp;maxp=-1&amp;rv=-1&amp;flt=y&amp;c3flt=&amp;cflt=&amp;bflt=&amp;pflt=&amp;szflt=&amp;ord=-1&amp;qrun=&amp;c2=120&amp;c2flt=low heels&amp;g=1&amp;gflt=Womens" target="_top" onclick="omnitureTopNavigationClicked('Junior > Shop by Girls > Low Heels');">Low Heels</a></li>
-<li><a href="/prddisplay.aspx?sfrom=junior:girls&amp;searchterm=&amp;c3=-1&amp;c=-1&amp;m=-1&amp;b=-1&amp;j=1&amp;sz=-1&amp;t=-1&amp;maxi=12&amp;minp=-1&amp;maxp=-1&amp;rv=-1&amp;flt=y&amp;c3flt=&amp;cflt=&amp;bflt=&amp;pflt=&amp;szflt=&amp;ord=-1&amp;qrun=&amp;c2=130&amp;c2flt=flats&amp;g=1&amp;gflt=Womens" target="_top" onclick="omnitureTopNavigationClicked('Junior > Shop by Girls > Flats');">Flats</a></li>
-<li><a href="/prddisplay.aspx?sfrom=junior:girls&amp;searchterm=&amp;c3=-1&amp;c=-1&amp;m=-1&amp;b=-1&amp;j=1&amp;sz=-1&amp;t=-1&amp;maxi=12&amp;minp=-1&amp;maxp=-1&amp;rv=-1&amp;flt=y&amp;c3flt=&amp;cflt=&amp;bflt=&amp;pflt=&amp;szflt=&amp;ord=-1&amp;qrun=&amp;c2=140&amp;c2flt=boots&amp;g=1&amp;gflt=Womens" target="_top" onclick="omnitureTopNavigationClicked('Junior > Shop by Girls > Boots');">Boots</a></li>
-<li><a href="/prddisplay.aspx?sfrom=junior:girls&amp;searchterm=&amp;c3=-1&amp;c=-1&amp;m=-1&amp;b=-1&amp;j=1&amp;sz=-1&amp;t=-1&amp;maxi=12&amp;minp=-1&amp;maxp=-1&amp;rv=-1&amp;flt=y&amp;c3flt=&amp;cflt=&amp;bflt=&amp;pflt=&amp;szflt=&amp;ord=-1&amp;qrun=&amp;c2=190&amp;c2flt=trainers&amp;g=1&amp;gflt=Womens" target="_top" onclick="omnitureTopNavigationClicked('Junior > Shop by Girls > Trainers');">Trainers</a></li>
-<li><a href="/prddisplay.aspx?sfrom=junior:girls&amp;searchterm=&amp;c3=-1&amp;c=-1&amp;m=-1&amp;b=-1&amp;j=1&amp;sz=-1&amp;t=-1&amp;maxi=12&amp;minp=-1&amp;maxp=-1&amp;rv=-1&amp;flt=y&amp;c3flt=&amp;cflt=&amp;bflt=&amp;pflt=&amp;szflt=&amp;ord=-1&amp;qrun=&amp;c2=170&amp;c2flt=sandals&amp;g=1&amp;gflt=Womens" target="_top" onclick="omnitureTopNavigationClicked('Junior > Shop by Girls > Sandals');">Sandals</a></li>
-<li><a href="/prddisplay.aspx?sfrom=junior:girls&amp;searchterm=&amp;g=1&amp;c2=-1&amp;c3=-1&amp;m=-1&amp;c=-1&amp;j=1&amp;b=-1&amp;sz=-1&amp;t=-1&amp;maxi=12&amp;minp=-1&amp;maxp=-1&amp;rv=-1&amp;flt=y&amp;gflt=Junior Girls&amp;c2flt=&amp;c3flt=&amp;cflt=&amp;bflt=&amp;szflt=&amp;pflt=&amp;qrun=&amp;ord=new&amp;page=1" target="_top" onclick="omnitureTopNavigationClicked('Junior > Shop by Girls > New In');">New In</a></li>
-<li><a href="/prddisplay.aspx?sfrom=junior:girls&amp;searchterm=&amp;g=1&amp;c2=-1&amp;c3=-1&amp;m=-1&amp;c=-1&amp;j=1&amp;b=-1&amp;sz=-1&amp;t=-1&amp;maxi=12&amp;minp=-1&amp;maxp=-1&amp;rv=-1&amp;flt=y&amp;gflt=Junior Girls&amp;c2flt=&amp;c3flt=&amp;cflt=&amp;bflt=&amp;szflt=&amp;pflt=&amp;qrun=&amp;ord=pop&amp;page=1" target="_top" onclick="omnitureTopNavigationClicked('Junior > Shop by Girls > Bestseller');">Bestseller</a></li>
-<li class="allLink"><a href="/prddisplay.aspx?g=1&amp;j=1&amp;sfrom=junior:girls" target="_top" onclick="omnitureTopNavigationClicked('Junior > Shop by Girls > see all girls');">see all girls</a></li>
+<li><a href="/prddisplay.aspx?sfrom=junior:girls&amp;searchterm=&amp;c3=-1&amp;c=-1&amp;m=-1&amp;b=-1&amp;j=1&amp;sz=-1&amp;t=-1&amp;maxi=12&amp;minp=-1&amp;maxp=-1&amp;rv=-1&amp;flt=y&amp;c3flt=&amp;cflt=&amp;bflt=&amp;pflt=&amp;szflt=&amp;ord=-1&amp;qrun=&amp;c2=190&amp;c2flt=trainers&amp;g=1&amp;gflt=Womens" target="_top" onclick="omnitureTopNavigationClicked('Junior > girls > Trainers');">Trainers</a></li>
+<li><a href="/prddisplay.aspx?sfrom=junior:girls&amp;searchterm=&amp;c3=-1&amp;c=-1&amp;m=-1&amp;b=-1&amp;j=1&amp;sz=-1&amp;t=-1&amp;maxi=12&amp;minp=-1&amp;maxp=-1&amp;rv=-1&amp;flt=y&amp;c3flt=&amp;cflt=&amp;bflt=&amp;pflt=&amp;szflt=&amp;ord=-1&amp;qrun=&amp;c2=130&amp;c2flt=flats&amp;g=1&amp;gflt=Womens" target="_top" onclick="omnitureTopNavigationClicked('Junior > girls > Flats');">Flats</a></li>
+<li><a href="/prddisplay.aspx?sfrom=junior:girls&amp;searchterm=&amp;c3=-1&amp;c=-1&amp;m=-1&amp;b=-1&amp;j=1&amp;sz=-1&amp;t=-1&amp;maxi=12&amp;minp=-1&amp;maxp=-1&amp;rv=-1&amp;flt=y&amp;c3flt=&amp;cflt=&amp;bflt=&amp;pflt=&amp;szflt=&amp;ord=-1&amp;qrun=&amp;c2=170&amp;c2flt=sandals&amp;g=1&amp;gflt=Womens" target="_top" onclick="omnitureTopNavigationClicked('Junior > girls > Sandals');">Sandals</a></li>
+<li><a href="/prddisplay.aspx?sfrom=junior:girls&amp;searchterm=&amp;c3=-1&amp;c=-1&amp;m=-1&amp;b=-1&amp;j=1&amp;sz=-1&amp;t=-1&amp;maxi=12&amp;minp=-1&amp;maxp=-1&amp;rv=-1&amp;flt=y&amp;c3flt=&amp;cflt=&amp;bflt=&amp;pflt=&amp;szflt=&amp;ord=-1&amp;qrun=&amp;c2=140&amp;c2flt=boots&amp;g=1&amp;gflt=Womens" target="_top" onclick="omnitureTopNavigationClicked('Junior > girls > Boots');">Boots</a></li>
+<li><a href="/prddisplay.aspx?sfrom=junior:girls&amp;searchterm=&amp;g=1&amp;c2=-1&amp;c3=-1&amp;m=-1&amp;c=-1&amp;j=1&amp;b=-1&amp;sz=-1&amp;t=-1&amp;maxi=12&amp;minp=-1&amp;maxp=-1&amp;rv=-1&amp;flt=y&amp;gflt=Junior Girls&amp;c2flt=&amp;c3flt=&amp;cflt=&amp;bflt=&amp;szflt=&amp;pflt=&amp;qrun=&amp;ord=new&amp;page=1" target="_top" onclick="omnitureTopNavigationClicked('Junior > girls > New In');">New In</a></li>
+<li><a href="/prddisplay.aspx?sfrom=junior:girls&amp;searchterm=&amp;g=1&amp;c2=-1&amp;c3=-1&amp;m=-1&amp;c=-1&amp;j=1&amp;b=-1&amp;sz=-1&amp;t=-1&amp;maxi=12&amp;minp=-1&amp;maxp=-1&amp;rv=-1&amp;flt=y&amp;gflt=Junior Girls&amp;c2flt=&amp;c3flt=&amp;cflt=&amp;bflt=&amp;szflt=&amp;pflt=&amp;qrun=&amp;ord=pop&amp;page=1" target="_top" onclick="omnitureTopNavigationClicked('Junior > girls > Bestseller');">Bestseller</a></li>
+<li class="allLink"><a href="/prddisplay.aspx?g=1&amp;j=1&amp;sfrom=junior:girls" target="_top" onclick="omnitureTopNavigationClicked('Junior > girls > see all girls');">see all girls &gt;</a></li>
 </ul>
 </dd></dl>
-<dl class="boysMenu"><dt>Shop by Boys</dt><dd>
+<dl class="boysMenu"><dt>boys</dt><dd>
 <ul>
-<li><a href="/prddisplay.aspx?sfrom=junior:boys&amp;searchterm=&amp;c3=-1&amp;c=-1&amp;m=-1&amp;b=-1&amp;j=1&amp;sz=UK 6&amp;t=-1&amp;maxi=12&amp;minp=-1&amp;maxp=-1&amp;rv=-1&amp;flt=y&amp;c3flt=&amp;cflt=&amp;bflt=&amp;pflt=&amp;szflt=UK 6&amp;ord=-1&amp;qrun=&amp;c2=310&amp;c2flt=shoes&amp;g=3&amp;gflt=Mens" target="_top" onclick="omnitureTopNavigationClicked('Junior > Shop by Boys > Shoes');">Shoes</a></li>
-<li><a href="/prddisplay.aspx?sfrom=junior:boys&amp;searchterm=&amp;g=3&amp;c2=320&amp;c3=-1&amp;c=-1&amp;m=-1&amp;b=-1&amp;j=1&amp;sz=UK 6&amp;t=-1&amp;maxi=12&amp;minp=-1&amp;maxp=-1&amp;rv=-1&amp;flt=y&amp;gflt=Junior Boys&amp;c2flt=boots&amp;c3flt=&amp;cflt=&amp;bflt=&amp;pflt=&amp;szflt=UK 6&amp;qrun=&amp;ord=-1&amp;page=1" target="_top" onclick="omnitureTopNavigationClicked('Junior > Shop by Boys > Boots');">Boots</a></li>
-<li><a href="/prddisplay.aspx?sfrom=junior:boys&amp;searchterm=&amp;c3=-1&amp;c=-1&amp;m=-1&amp;b=-1&amp;j=1&amp;sz=UK 6&amp;t=-1&amp;maxi=12&amp;minp=-1&amp;maxp=-1&amp;rv=-1&amp;flt=y&amp;c3flt=&amp;cflt=&amp;bflt=&amp;pflt=&amp;szflt=UK 6&amp;ord=-1&amp;qrun=&amp;c2=340&amp;c2flt=trainers&amp;g=3&amp;gflt=Mens" target="_top" onclick="omnitureTopNavigationClicked('Junior > Shop by Boys > Trainers');">Trainers</a></li>
-<li><a href="/prddisplay.aspx?sfrom=junior:boys&amp;searchterm=&amp;g=3&amp;c2=-1&amp;c3=-1&amp;m=-1&amp;c=-1&amp;j=1&amp;b=-1&amp;sz=-1&amp;t=-1&amp;maxi=12&amp;minp=-1&amp;maxp=-1&amp;rv=-1&amp;flt=N&amp;gflt=Mens&amp;c2flt=&amp;c3flt=&amp;cflt=&amp;bflt=&amp;szflt=&amp;pflt=&amp;qrun=&amp;ord=new&amp;page=1" target="_top" onclick="omnitureTopNavigationClicked('Junior > Shop by Boys > New In');">New In</a></li>
-<li><a href="/prddisplay.aspx?sfrom=junior:boys&amp;searchterm=&amp;g=3&amp;c2=-1&amp;c3=-1&amp;m=-1&amp;c=-1&amp;j=1&amp;b=-1&amp;sz=-1&amp;t=-1&amp;maxi=12&amp;minp=-1&amp;maxp=-1&amp;rv=-1&amp;flt=N&amp;gflt=Mens&amp;c2flt=&amp;c3flt=&amp;cflt=&amp;bflt=&amp;szflt=&amp;pflt=&amp;qrun=&amp;ord=pop&amp;page=1" target="_top" onclick="omnitureTopNavigationClicked('Junior > Shop by Boys > Bestseller');">Bestseller</a></li>
-<li class="allLink"><a href="/prddisplay.aspx?g=3&amp;j=1&amp;sfrom=junior:boys" target="_top" onclick="omnitureTopNavigationClicked('Junior > Shop by Boys > see all boys');">see all boys</a></li>
+<li><a href="/prddisplay.aspx?sfrom=junior:boys&amp;searchterm=&amp;c3=-1&amp;c=-1&amp;m=-1&amp;b=-1&amp;j=1&amp;sz=UK 6&amp;t=-1&amp;maxi=12&amp;minp=-1&amp;maxp=-1&amp;rv=-1&amp;flt=y&amp;c3flt=&amp;cflt=&amp;bflt=&amp;pflt=&amp;szflt=UK 6&amp;ord=-1&amp;qrun=&amp;c2=340&amp;c2flt=trainers&amp;g=3&amp;gflt=Mens" target="_top" onclick="omnitureTopNavigationClicked('Junior > boys > Trainers');">Trainers</a></li>
+<li><a href="/prddisplay.aspx?sfrom=junior:boys&amp;searchterm=&amp;c3=-1&amp;c=-1&amp;m=-1&amp;b=-1&amp;j=1&amp;sz=UK 6&amp;t=-1&amp;maxi=12&amp;minp=-1&amp;maxp=-1&amp;rv=-1&amp;flt=y&amp;c3flt=&amp;cflt=&amp;bflt=&amp;pflt=&amp;szflt=UK 6&amp;ord=-1&amp;qrun=&amp;c2=310&amp;c2flt=shoes&amp;g=3&amp;gflt=Mens" target="_top" onclick="omnitureTopNavigationClicked('Junior > boys > Shoes');">Shoes</a></li>
+<li><a href="/prddisplay.aspx?sfrom=junior:boys&amp;searchterm=&amp;g=3&amp;c2=320&amp;c3=-1&amp;c=-1&amp;m=-1&amp;b=-1&amp;j=1&amp;sz=UK 6&amp;t=-1&amp;maxi=12&amp;minp=-1&amp;maxp=-1&amp;rv=-1&amp;flt=y&amp;gflt=Junior Boys&amp;c2flt=boots&amp;c3flt=&amp;cflt=&amp;bflt=&amp;pflt=&amp;szflt=UK 6&amp;qrun=&amp;ord=-1&amp;page=1" target="_top" onclick="omnitureTopNavigationClicked('Junior > boys > Boots');">Boots</a></li>
+<li><a href="/prddisplay.aspx?sfrom=junior:boys&amp;searchterm=&amp;g=3&amp;c2=-1&amp;c3=-1&amp;m=-1&amp;c=-1&amp;j=1&amp;b=-1&amp;sz=-1&amp;t=-1&amp;maxi=12&amp;minp=-1&amp;maxp=-1&amp;rv=-1&amp;flt=N&amp;gflt=Mens&amp;c2flt=&amp;c3flt=&amp;cflt=&amp;bflt=&amp;szflt=&amp;pflt=&amp;qrun=&amp;ord=new&amp;page=1" target="_top" onclick="omnitureTopNavigationClicked('Junior > boys > New In');">New In</a></li>
+<li><a href="/prddisplay.aspx?sfrom=junior:boys&amp;searchterm=&amp;g=3&amp;c2=-1&amp;c3=-1&amp;m=-1&amp;c=-1&amp;j=1&amp;b=-1&amp;sz=-1&amp;t=-1&amp;maxi=12&amp;minp=-1&amp;maxp=-1&amp;rv=-1&amp;flt=N&amp;gflt=Mens&amp;c2flt=&amp;c3flt=&amp;cflt=&amp;bflt=&amp;szflt=&amp;pflt=&amp;qrun=&amp;ord=pop&amp;page=1" target="_top" onclick="omnitureTopNavigationClicked('Junior > boys > Bestseller');">Bestseller</a></li>
+<li class="allLink"><a href="/prddisplay.aspx?g=3&amp;j=1&amp;sfrom=junior:boys" target="_top" onclick="omnitureTopNavigationClicked('Junior > boys > see all boys');">see all boys &gt;</a></li>
 </ul>
 </dd></dl>
 <dl class="shopby"><dt>shop by</dt><dd>
@@ -624,21 +653,22 @@ var __cultureInfo = '{"name":"en-GB","numberFormat":{"CurrencyDecimalDigits":2,"
 </dd></dl>
 </div>     
     </li>
-    <li id="liMainNavAccessorise" class="hasNav with-js">
+    <!--/Junior Link --> 
+     
+    <!-- bags Link -->         
+     <li id="liMainNavAccessorise" class="hasNav">
       <a href="/accessories/" id="ctl00_primaryNavigation1_lnkAccessoriesMain" onclick="omnitureTopNavigationClicked('Bags');">Bags</a>
-      <div id="ctl00_primaryNavigation1_divNavAccessorises" style="display: none;"><dl class="bags"><dt>Shop by Bags</dt><dd>
+      <div id="ctl00_primaryNavigation1_divNavAccessorises"><dl class="bags"><dt>bags</dt><dd>
 <ul>
-<li><a href="/prddisplay.aspx?sfrom=accessories:bags:irregular choice&amp;g=7&amp;c2=701&amp;gflt=accessories&amp;c2flt=bags&amp;b=124&amp;bflt=irregular choice" target="_top" onclick="omnitureTopNavigationClicked('Accessories > Shop by Bags > Irregular Choice Bags ');">Irregular Choice Bags </a></li>
-<li><a href="/prddisplay.aspx?sfrom=accessories:bags:gola&amp;g=7&amp;c2=701&amp;gflt=accessories&amp;c2flt=bags&amp;b=53&amp;bflt=gola" target="_top" onclick="omnitureTopNavigationClicked('Accessories > Shop by Bags > Gola Bags');">Gola Bags</a></li>
-<li><a href="/prddisplay.aspx?sfrom=accessories:bags:fred perry&amp;g=7&amp;c2=701&amp;gflt=accessories&amp;c2flt=bags&amp;b=103&amp;bflt=fred perry" target="_top" onclick="omnitureTopNavigationClicked('Accessories > Shop by Bags > Fred Perry Bags');">Fred Perry Bags</a></li>
-<li><a href="/prddisplay.aspx?sfrom=accessories:bags:adidas&amp;g=7&amp;c2=701&amp;gflt=accessories&amp;c2flt=bags&amp;b=71&amp;bflt=adidas" target="_top" onclick="omnitureTopNavigationClicked('Accessories > Shop by Bags > Adidas Bags');">Adidas Bags</a></li>
-<li><a href="/prddisplay.aspx?sfrom=accessories:bags:vans&amp;g=7&amp;c2=701&amp;gflt=accessories&amp;c2flt=bags&amp;b=59&amp;bflt=vans" target="_top" onclick="omnitureTopNavigationClicked('Accessories > Shop by Bags > Vans Bags');">Vans Bags</a></li>
-<li><a href="/prdsearch.aspx?searchterm=uggs&amp;c2=-1&amp;c3=-1&amp;c=-1&amp;m=-1&amp;b=-1&amp;j=-1&amp;sz=-1&amp;t=-1&amp;maxi=12&amp;minp=-1&amp;maxp=-1&amp;rv=-1&amp;flt=y&amp;c2flt=&amp;c3flt=&amp;cflt=&amp;bflt=&amp;pflt=&amp;szflt=&amp;ord=-1&amp;qrun=searchBox&amp;g=7&amp;gflt=Accessories" target="_top" onclick="omnitureTopNavigationClicked('Accessories > Shop by Bags > UGG handbags');">UGG handbags</a></li>
-<li><a href="/prddisplay.aspx?sfrom=accessories:bags&amp;searchterm=&amp;g=7&amp;c2=701&amp;c3=-1&amp;m=-1&amp;c=-1&amp;j=-1&amp;sz=-1&amp;t=-1&amp;maxi=12&amp;minp=-1&amp;maxp=-1&amp;rv=-1&amp;flt=y&amp;gflt=Accessories&amp;c2flt=bags&amp;c3flt=&amp;cflt=&amp;pflt=&amp;szflt=&amp;ord=-1&amp;qrun=&amp;b=31&amp;bflt=RED OR DEAD" target="_top" onclick="omnitureTopNavigationClicked('Accessories > Shop by Bags > Red or Dead bags');">Red or Dead bags</a></li>
-<li><a href="/prddisplay.aspx?sfrom=accessories:bags&amp;searchterm=&amp;g=7&amp;c2=701&amp;c3=-1&amp;m=-1&amp;c=-1&amp;j=-1&amp;sz=-1&amp;t=-1&amp;maxi=12&amp;minp=-1&amp;maxp=-1&amp;rv=-1&amp;flt=y&amp;gflt=Accessories&amp;c2flt=bags&amp;c3flt=&amp;cflt=&amp;pflt=&amp;szflt=&amp;ord=-1&amp;qrun=&amp;h=-1&amp;hflt=&amp;b=319&amp;bflt=IRON FIST" target="_top" onclick="omnitureTopNavigationClicked('Accessories > Shop by Bags > Iron Fist Bags');">Iron Fist Bags</a></li>
-<li><a href="/prddisplay.aspx?sfrom=accessories:bags&amp;searchterm=&amp;g=7&amp;c2=701&amp;c3=-1&amp;m=-1&amp;c=-1&amp;j=-1&amp;sz=-1&amp;t=-1&amp;maxi=12&amp;minp=-1&amp;maxp=-1&amp;rv=-1&amp;flt=y&amp;gflt=Accessories&amp;c2flt=bags&amp;c3flt=&amp;cflt=&amp;pflt=&amp;szflt=&amp;ord=-1&amp;qrun=&amp;h=-1&amp;hflt=&amp;b=225&amp;bflt=EASTPAK" target="_top" onclick="omnitureTopNavigationClicked('Accessories > Shop by Bags > Eastpak Bags');">Eastpak Bags</a></li>
-<li><a href="/prddisplay.aspx?sfrom=accessories:bags&amp;searchterm=&amp;g=7&amp;c2=701&amp;c3=-1&amp;m=-1&amp;c=-1&amp;j=-1&amp;sz=-1&amp;t=-1&amp;maxi=12&amp;minp=-1&amp;maxp=-1&amp;rv=-1&amp;flt=y&amp;gflt=Accessories&amp;c2flt=bags&amp;c3flt=&amp;cflt=&amp;pflt=&amp;szflt=&amp;ord=-1&amp;qrun=&amp;h=-1&amp;hflt=&amp;b=217&amp;bflt=BABYCHAM" target="_top" onclick="omnitureTopNavigationClicked('Accessories > Shop by Bags > Babycham Bags');">Babycham Bags</a></li>
-<li class="allLink"><a href="/prddisplay.aspx?sfrom=accessories:bags&amp;searchterm=&amp;g=7&amp;c2=701&amp;c3=350,351,208,349" target="_top" onclick="omnitureTopNavigationClicked('Accessories > Shop by Bags > see all bags');">see all bags</a></li>
+<li><a href="/prddisplay.aspx?sfrom=accessories:bags:irregular choice&amp;g=7&amp;c2=701&amp;gflt=accessories&amp;c2flt=bags&amp;b=124&amp;bflt=irregular choice" target="_top" onclick="omnitureTopNavigationClicked('Accessories > bags > Irregular Choice Bags ');">Irregular Choice Bags </a></li>
+<li><a href="/prddisplay.aspx?sfrom=accessories:bags:adidas&amp;g=7&amp;c2=701&amp;gflt=accessories&amp;c2flt=bags&amp;b=71&amp;bflt=adidas" target="_top" onclick="omnitureTopNavigationClicked('Accessories > bags > Adidas Bags');">Adidas Bags</a></li>
+<li><a href="/prddisplay.aspx?sfrom=accessories:bags:vans&amp;g=7&amp;c2=701&amp;gflt=accessories&amp;c2flt=bags&amp;b=59&amp;bflt=vans" target="_top" onclick="omnitureTopNavigationClicked('Accessories > bags > Vans Bags');">Vans Bags</a></li>
+<li><a href="/prddisplay.aspx?sfrom=accessories:bags:gola&amp;g=7&amp;c2=701&amp;gflt=accessories&amp;c2flt=bags&amp;b=53&amp;bflt=gola" target="_top" onclick="omnitureTopNavigationClicked('Accessories > bags > Gola Bags');">Gola Bags</a></li>
+<li><a href="/prdsearch.aspx?searchterm=uggs&amp;c2=-1&amp;c3=-1&amp;c=-1&amp;m=-1&amp;b=-1&amp;j=-1&amp;sz=-1&amp;t=-1&amp;maxi=12&amp;minp=-1&amp;maxp=-1&amp;rv=-1&amp;flt=y&amp;c2flt=&amp;c3flt=&amp;cflt=&amp;bflt=&amp;pflt=&amp;szflt=&amp;ord=-1&amp;qrun=searchBox&amp;g=7&amp;gflt=Accessories" target="_top" onclick="omnitureTopNavigationClicked('Accessories > bags > UGG handbags');">UGG handbags</a></li>
+<li><a href="/prddisplay.aspx?sfrom=accessories:bags:fred perry&amp;g=7&amp;c2=701&amp;gflt=accessories&amp;c2flt=bags&amp;b=103&amp;bflt=fred perry" target="_top" onclick="omnitureTopNavigationClicked('Accessories > bags > Fred Perry Bags');">Fred Perry Bags</a></li>
+<li><a href="/prddisplay.aspx?sfrom=accessories:bags&amp;searchterm=&amp;g=7&amp;c2=701&amp;c3=-1&amp;m=-1&amp;c=-1&amp;j=-1&amp;sz=-1&amp;t=-1&amp;maxi=12&amp;minp=-1&amp;maxp=-1&amp;rv=-1&amp;flt=y&amp;gflt=Accessories&amp;c2flt=bags&amp;c3flt=&amp;cflt=&amp;pflt=&amp;szflt=&amp;ord=-1&amp;qrun=&amp;h=-1&amp;hflt=&amp;b=319&amp;bflt=IRON FIST" target="_top" onclick="omnitureTopNavigationClicked('Accessories > bags > Iron Fist Bags');">Iron Fist Bags</a></li>
+<li><a href="/prddisplay.aspx?sfrom=accessories:bags&amp;searchterm=&amp;g=7&amp;c2=701&amp;c3=-1&amp;m=-1&amp;c=-1&amp;j=-1&amp;sz=-1&amp;t=-1&amp;maxi=12&amp;minp=-1&amp;maxp=-1&amp;rv=-1&amp;flt=y&amp;gflt=Accessories&amp;c2flt=bags&amp;c3flt=&amp;cflt=&amp;pflt=&amp;szflt=&amp;ord=-1&amp;qrun=&amp;h=-1&amp;hflt=&amp;b=225&amp;bflt=EASTPAK" target="_top" onclick="omnitureTopNavigationClicked('Accessories > bags > Eastpak Bags');">Eastpak Bags</a></li>
+<li class="allLink"><a href="/prddisplay.aspx?sfrom=accessories:bags&amp;searchterm=&amp;g=7&amp;c2=701&amp;c3=350,351,208,349" target="_top" onclick="omnitureTopNavigationClicked('Accessories > bags > see all bags');">see all bags &gt;</a></li>
 </ul>
 </dd></dl>
 <dl class="accessories-shopby"><dt>shop by</dt><dd>
@@ -650,69 +680,51 @@ var __cultureInfo = '{"name":"en-GB","numberFormat":{"CurrencyDecimalDigits":2,"
 <li><a href="/prdsearch.aspx?searchterm=sale bags&amp;sterm=sale bags&amp;js=1" target="_top" onclick="omnitureTopNavigationClicked('Accessories > shop by > SALE BAGS');">SALE BAGS</a></li>
 </ul>
 </dd></dl>
-<dl class="shoecare"><dt>Shop by Shoecare</dt><dd>
+<dl class="shoecare"><dt>shoecare</dt><dd>
 <ul>
-<li><a href="/prdsearch.aspx?iLink=&amp;searchterm=protector&amp;c2=-1&amp;c3=-1&amp;c=-1&amp;m=-1&amp;b=-1&amp;j=-1&amp;sz=-1&amp;t=-1&amp;maxi=12&amp;minp=-1&amp;maxp=-1&amp;rv=-1&amp;flt=y&amp;c2flt=&amp;c3flt=&amp;cflt=&amp;bflt=&amp;pflt=&amp;szflt=&amp;ord=-1&amp;qrun=searchBox&amp;h=-1&amp;hflt=&amp;g=7&amp;gflt=Accessories" target="_top" onclick="omnitureTopNavigationClicked('Accessories > Shop by Shoecare > shoe protector');">shoe protector</a></li>
-<li><a href="/prdsearch.aspx?searchterm=insole&amp;c2=-1&amp;c3=-1&amp;c=-1&amp;m=-1&amp;b=-1&amp;j=-1&amp;sz=-1&amp;t=-1&amp;maxi=12&amp;minp=-1&amp;maxp=-1&amp;rv=-1&amp;flt=y&amp;c2flt=&amp;c3flt=&amp;cflt=&amp;bflt=&amp;pflt=&amp;szflt=&amp;ord=-1&amp;qrun=searchBox&amp;g=7&amp;gflt=Accessories" target="_top" onclick="omnitureTopNavigationClicked('Accessories > Shop by Shoecare > Insoles');">Insoles</a></li>
-<li><a href="/clear-schuh-tip-toe/7203000090/" target="_top" onclick="omnitureTopNavigationClicked('Accessories > Shop by Shoecare > Half insole');">Half insole</a></li>
-<li><a href="/multi-hunter-festival-survival-kit/7562009990/" target="_top" onclick="omnitureTopNavigationClicked('Accessories > Shop by Shoecare > Hunter Survival Kit');">Hunter Survival Kit</a></li>
-<li><a href="/white-schuh-leather-whitener/7203051090/" target="_top" onclick="omnitureTopNavigationClicked('Accessories > Shop by Shoecare > Leather Whitener');">Leather Whitener</a></li>
-<li><a href="/clear-ugg-sheepskin-care-kit/7204500090/" target="_top" onclick="omnitureTopNavigationClicked('Accessories > Shop by Shoecare > ugg cleaning kit');">ugg cleaning kit</a></li>
-<li><a href="/prdsearch.aspx?searchterm=punch%20laces&amp;sterm=punch%20laces&amp;js=1" target="_top" onclick="omnitureTopNavigationClicked('Accessories > Shop by Shoecare > Laces');">Laces</a></li>
-<li class="allLink"><a href="/prdsearch.aspx?searchterm=72&amp;sterm=72" target="_top" onclick="omnitureTopNavigationClicked('Accessories > Shop by Shoecare > see all shoecare');">see all shoecare</a></li>
+<li><a href="/prdsearch.aspx?iLink=&amp;searchterm=protector&amp;c2=-1&amp;c3=-1&amp;c=-1&amp;m=-1&amp;b=-1&amp;j=-1&amp;sz=-1&amp;t=-1&amp;maxi=12&amp;minp=-1&amp;maxp=-1&amp;rv=-1&amp;flt=y&amp;c2flt=&amp;c3flt=&amp;cflt=&amp;bflt=&amp;pflt=&amp;szflt=&amp;ord=-1&amp;qrun=searchBox&amp;h=-1&amp;hflt=&amp;g=7&amp;gflt=Accessories" target="_top" onclick="omnitureTopNavigationClicked('Accessories > shoecare > shoe protector');">shoe protector</a></li>
+<li><a href="/prdsearch.aspx?searchterm=insole&amp;c2=-1&amp;c3=-1&amp;c=-1&amp;m=-1&amp;b=-1&amp;j=-1&amp;sz=-1&amp;t=-1&amp;maxi=12&amp;minp=-1&amp;maxp=-1&amp;rv=-1&amp;flt=y&amp;c2flt=&amp;c3flt=&amp;cflt=&amp;bflt=&amp;pflt=&amp;szflt=&amp;ord=-1&amp;qrun=searchBox&amp;g=7&amp;gflt=Accessories" target="_top" onclick="omnitureTopNavigationClicked('Accessories > shoecare > Insoles');">Insoles</a></li>
+<li><a href="/clear-schuh-tip-toe/7203000090/" target="_top" onclick="omnitureTopNavigationClicked('Accessories > shoecare > Half insole');">Half insole</a></li>
+<li><a href="/multi-hunter-festival-survival-kit/7562009990/" target="_top" onclick="omnitureTopNavigationClicked('Accessories > shoecare > Hunter Survival Kit');">Hunter Survival Kit</a></li>
+<li><a href="/white-schuh-leather-whitener/7203051090/" target="_top" onclick="omnitureTopNavigationClicked('Accessories > shoecare > Leather Whitener');">Leather Whitener</a></li>
+<li><a href="/clear-ugg-sheepskin-care-kit/7204500090/" target="_top" onclick="omnitureTopNavigationClicked('Accessories > shoecare > ugg cleaning kit');">ugg cleaning kit</a></li>
+<li><a href="/prdsearch.aspx?searchterm=punch%20laces&amp;sterm=punch%20laces&amp;js=1" target="_top" onclick="omnitureTopNavigationClicked('Accessories > shoecare > Laces');">Laces</a></li>
+<li class="allLink"><a href="/prdsearch.aspx?searchterm=72&amp;sterm=72" target="_top" onclick="omnitureTopNavigationClicked('Accessories > shoecare > see all shoecare');">see all shoecare &gt;</a></li>
 </ul>
 </dd></dl>
 </div>     
     </li> 
-    <li id="liMainNavSale" class="with-js">
-      <a href="/sale/" id="ctl00_primaryNavigation1_lnkSaleMain" onclick="omnitureTopNavigationClicked('Sale');">Sale</a>
-    </li>
-    <li id="liMainNavHelp" class="with-js">
-      <a href="/faqs/" id="ctl00_primaryNavigation1_lnkFaqsMain" onclick="omnitureTopNavigationClicked('Help');">Help</a>
-    </li>             
+   <!--/bags Link -->    
+   
+    <!--video Link -->    
+   
+     <!--/video Link -->                         
+                      
   </ul>
 </div>
 
-                    
-                     <div id="searchBoxContainer">
-                         <div id="ctl00_ctl00_autoCompleteUpdatePanel">
+                        <div id="searchBoxContainer">
+                            <div id="ctl00_ctl00_autoCompleteUpdatePanel">
 	
-                              <div id="ctl00_ctl00_autocompleteSearchSuggestPanel">
+                                    <div id="ctl00_ctl00_autocompleteSearchSuggestPanel">
 		
-                                
-                                <input name="ctl00$ctl00$txtSearchTerm" type="text" maxlength="255" id="ctl00_ctl00_txtSearchTerm" title="Search by Code, name, style, colour, material, keyword and more..." class="searchBoxCSS" onmouseout="doClear(this)" onmouseover="doClear(this)" onfocus="this.style.border='1px solid #404d66';doClear(this)" onblur="this.style.border='1px solid #cccccc';doClear(this)">
-                                <input type="image" name="ctl00$ctl00$searchButton" id="ctl00_ctl00_searchButton" class="searchGoButton" src="/images/search-button.gif" alt="search" onclick="submitSearchForm();WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ctl00$searchButton&quot;, &quot;&quot;, true, &quot;searchSuggest&quot;, &quot;&quot;, false, false))" style="border-width:0px;">  
-                                 
-                                &nbsp;
-                                
-                                  
-                             
+                                        
+                                        <input name="ctl00$ctl00$txtSearchTerm" type="text" maxlength="255" id="ctl00_ctl00_txtSearchTerm" title="Search by Code, name, style, colour, material, keyword and more..." class="searchBoxCSS" onmouseout="doClear(this)" onmouseover="doClear(this)" onfocus="this.style.border='1px solid #404d66';doClear(this)" onblur="this.style.border='1px solid #cccccc';doClear(this)" style="width:117px;">
+                                        <input type="image" name="ctl00$ctl00$searchButton" id="ctl00_ctl00_searchButton" class="searchGoButton" src="/images/search-go.jpg" alt="search" onclick="submitSearchForm();" style="border-width:0px;">
+                                        
+                                        
+                                    
 	</div>
-                             <input type="hidden" name="ctl00$ctl00$TextBoxWatermarkExtender1_ClientState" id="ctl00_ctl00_TextBoxWatermarkExtender1_ClientState">
+                                    <input type="hidden" name="ctl00$ctl00$TextBoxWatermarkExtender1_ClientState" id="ctl00_ctl00_TextBoxWatermarkExtender1_ClientState">
                                 
-                      
-                              <div id="searchAssistOptionContainer">
-                                <div class="searchAssistOption" id="searchAssistOption">
-                                    <span id="ctl00_ctl00_lblAssistText">Search Assist:&nbsp;</span>
-                                </div>    
-                                <div id="searchAssistOptionRadio" class="searchAssistOptionRadio">
-                                    <input id="ctl00_ctl00_radSearchAssistOn" type="radio" name="ctl00$ctl00$radSearchAssistOn" value="radSearchAssistOn" checked="checked">On
-                                    <input id="ctl00_ctl00_radSearchAssistOff" type="radio" name="ctl00$ctl00$radSearchAssistOff" value="radSearchAssistOff" onclick="javascript:setTimeout('__doPostBack(\'ctl00$ctl00$radSearchAssistOff\',\'\')', 0)">Off
-                                </div>
-                              </div>   
-                               
-                          
 </div>
+                        </div>
                     </div>
-                    
                 </div>
             </div>
-            
-        </div>
-        
-        <div id="ContentContainer">
-            <div id="content">
-                
+            <div id="ContentContainer">
+                <div id="content">
+                    
     
     <div class="helpPage">
         <div id="HelpHead">
@@ -729,31 +741,31 @@ var __cultureInfo = '{"name":"en-GB","numberFormat":{"CurrencyDecimalDigits":2,"
             </div>
             <dl>
                 <dt><span>Help</span></dt>
-	            <dd><a href="/contact-us/">Customer service</a></dd>
-                <dd><a href="https://secure2.schuh.co.uk/myAccount/accountLogin.aspx?custaction=accountorders" id="ctl00_ctl00_ContentPlaceHolder1_lnkTrackMyOrder">Track my order</a></dd>
-                <dd><a href="/help/giftcard-balance.aspx/">Check my Giftcard Balance</a></dd>
-                <dd><a href="/delivery/">Delivery info</a></dd>
-                <dd><a href="/returns/">Returns policy</a></dd>
-                <dd><a href="/Help/SizeGuides.aspx">Size guides</a></dd>
-                <dd><a href="/faqs/">FAQ’s</a></dd>
-                <dd><a href="/Help/Help.aspx?HelpPageID=9">Care &amp; Maintenance</a></dd>
+	            <dd><a href="/contact-us/" onclick="omnitureHelpPagesLinkClicked('Customer service');">Customer service</a></dd>
+                <dd><a href="https://secure2.schuh.co.uk/myAccount/accounttrackorder.aspx" id="ctl00_ctl00_ContentPlaceHolder1_lnkTrackMyOrder" onclick="omnitureHelpPagesLinkClicked('Track my order');">Track my order</a></dd>
+                <dd><a href="/help/giftcard-balance.aspx/" onclick="omnitureHelpPagesLinkClicked('Check my Giftcard Balance');">Check my Giftcard Balance</a></dd>
+                <dd><a href="/delivery/" onclick="omnitureHelpPagesLinkClicked('Delivery info');">Delivery info</a></dd>
+                <dd><a href="/returns/" onclick="omnitureHelpPagesLinkClicked('Returns policy');">Returns policy</a></dd>
+                <dd><a href="/Help/SizeGuides.aspx" onclick="omnitureHelpPagesLinkClicked('Size guides');">Size guides</a></dd>
+                <dd><a href="/faqs/" onclick="omnitureHelpPagesLinkClicked('FAQ’s');">FAQ’s</a></dd>
+                <dd><a href="/Help/Help.aspx?HelpPageID=9" onclick="omnitureHelpPagesLinkClicked('Care and Maintenance');">Care &amp; Maintenance</a></dd>
             </dl>
             <dl>
                 <dt><span>About us</span></dt>
-                <dd><a href="/shops/all/">Our shops</a></dd>
-                <dd><a href="/careers/">Careers</a></dd>
-                <dd><a href="/about-us/">Company history</a></dd>
-                <dd><a href="/Help/Help.aspx?HelpPageID=5">Customer testimonial</a></dd>
-                <dd><a href="/Help/Help.aspx?HelpPageID=6">Awards</a></dd>
-                <dd><a href="/Help/AnnualReport.pdf" target="_blank">Latest annual report</a></dd>
+                <dd><a href="/shops/all/" onclick="omnitureHelpPagesLinkClicked('Our shops');">Our shops</a></dd>
+                <dd><a href="/careers/" onclick="omnitureHelpPagesLinkClicked('Careers');">Careers</a></dd>
+                <dd><a href="/about-us/" onclick="omnitureHelpPagesLinkClicked('Company history');">Company history</a></dd>
+                <dd><a href="/Help/Help.aspx?HelpPageID=5" onclick="omnitureHelpPagesLinkClicked('Customer testimonial');">Customer testimonial</a></dd>
+                <dd><a href="/Help/Help.aspx?HelpPageID=6" onclick="omnitureHelpPagesLinkClicked('Awards');">Awards</a></dd>
+                <dd><a href="/Help/AnnualReport.pdf" target="_blank" onclick="omnitureHelpPagesLinkClicked('Latest annual report');">Latest annual report</a></dd>
                 
             </dl>
             <dl>
                 <dt><span>About this site</span></dt>
-                <dd><a href="/sitemap/">Site map</a></dd>
-                <dd><a href="/accessibility/">Accessibility</a></dd>
-                <dd><a href="/privacy/">Privacy policy</a></dd>
-                <dd><a href="/terms/">Terms and conditions</a></dd>
+                <dd><a href="/sitemap/" onclick="omnitureHelpPagesLinkClicked('Site map');">Site map</a></dd>
+                <dd><a href="/accessibility/" onclick="omnitureHelpPagesLinkClicked('Accessibility');">Accessibility</a></dd>
+                <dd><a href="/privacy/" onclick="omnitureHelpPagesLinkClicked('Privacy policy');">Privacy policy</a></dd>
+                <dd><a href="/terms/" onclick="omnitureHelpPagesLinkClicked('Terms and conditions');">Terms and conditions</a></dd>
             </dl>
         </div>
         <div id="HelpContent">
@@ -771,7 +783,7 @@ var __cultureInfo = '{"name":"en-GB","numberFormat":{"CurrencyDecimalDigits":2,"
  
 <p>We will not gather or hold personal information about you unless you have given your express permission for us to do so. By placing an order, you will consent to the use of such personal information.</p>
 <p>Any personal information held or processed will be kept up-to-date and will be destroyed as soon as the reason for its collection or processing has lapsed.
-No personal data about customers will be passed to any third party, except to fulfil the delivery of the goods to you, and as is necessary to process credit or debit card payments.</p>
+No personal data about customers will be passed to any third party, except to offer you the opportunity to purchase from us, to fulfil the delivery of the goods to you, and as is necessary to process credit or debit card payments.</p>
 <p>Your privacy and confidence will be respected at all times.</p>
  
 <h4>What Information is collected about you and how is it used?</h4>
@@ -779,10 +791,12 @@ No personal data about customers will be passed to any third party, except to fu
 <p>When you place an order we need to collect your name, address, e-mail and telephone number as well as details of the method by which you intend to pay for the Goods. This information allows us to process your offer to purchase Goods and delivery of those Goods to you. We use your e-mail address to send you notification of the status of the order. We will contact you by e-mail or by telephone if any problems occur regarding delivery of the Goods to you.</p>
 <p>This information may be provided to third party service providers for the purpose of processing your offer to purchase the goods.</p>
 <p>We may use your e-mail address to provide you with information on products, services, promotions and special offers where you have indicated that this is acceptable by checking the box on the ‘Delivery details page.</p>
+
+<p>If you supply your email address without placing an order, we may pass your email to a third party organisation in order to offer you the opportunity to purchase from us. Your email address will not be used for any other purpose and will not be held on file by ourselves or any third parties after the reason for collecting it has lapsed.</p>
  
 <h4>Third parties</h4>
  
-<p>We will not sell or pass your details to third party organisations except for the purpose of processing your offer to purchase the goods.</p>
+<p>We will not sell or pass your details to third party organisations except to offer you the opportunity to purchase from us, to fulfil delivery of the goods to you and for the purpose of processing your offer to purchase the goods.</p>
  
 <h4>Consent</h4>
  
@@ -809,12 +823,11 @@ Under the terms of the Data Protection Act 1998, we are entitled to charge you �
         </div>
     </div>
 
+                </div>
             </div>
-        </div>
-        
-        <div id="FooterContainer">
-            <div id="FooterCustomerSignup">
-                <div id="ctl00_ctl00_customerSignup1_customerSignupUpdatePanel">
+            <div id="FooterContainer">
+                <div id="FooterCustomerSignup">
+                    <div id="ctl00_ctl00_customerSignup1_customerSignupUpdatePanel">
 	
            <div id="FooterCustomerSignupContent">
                
@@ -822,7 +835,7 @@ Under the terms of the Data Protection Act 1998, we are entitled to charge you �
                    <div>
                      <div>
                         <label for="ctl00_customerSignup1_txtCustomerSignupEmail">get schuh news!</label>
-                        <input name="ctl00$ctl00$customerSignup1$txtCustomerSignupEmail" type="text" id="ctl00_ctl00_customerSignup1_txtCustomerSignupEmail" title="Enter your email address to sign up."><input type="image" name="ctl00$ctl00$customerSignup1$btnCustomerSignupButtonWomens" id="ctl00_ctl00_customerSignup1_btnCustomerSignupButtonWomens" src="/images/women-button.gif" alt="WOMEN" style="border-width:0px;"><input type="image" name="ctl00$ctl00$customerSignup1$btnCustomerSignupButtonMens" id="ctl00_ctl00_customerSignup1_btnCustomerSignupButtonMens" src="/images/men-button.gif" alt="MEN" style="border-width:0px;">
+                        <input name="ctl00$ctl00$customerSignup1$txtCustomerSignupEmail" type="text" id="ctl00_ctl00_customerSignup1_txtCustomerSignupEmail" title="Enter your email address to sign up." onkeydown="disableFormEnter(event);"><input type="image" name="ctl00$ctl00$customerSignup1$btnCustomerSignupButtonWomens" id="ctl00_ctl00_customerSignup1_btnCustomerSignupButtonWomens" src="/images/women-button.gif" alt="WOMEN" style="border-width:0px;"><input type="image" name="ctl00$ctl00$customerSignup1$btnCustomerSignupButtonMens" id="ctl00_ctl00_customerSignup1_btnCustomerSignupButtonMens" src="/images/men-button.gif" alt="MEN" style="border-width:0px;">
                      </div>
                      <input type="submit" name="ctl00$ctl00$customerSignup1$btnTriggerModal" value="Trigger" id="ctl00_ctl00_customerSignup1_btnTriggerModal" style="display:none;"><input type="hidden" name="ctl00$ctl00$customerSignup1$hidGenderStatus" id="ctl00_ctl00_customerSignup1_hidGenderStatus">
                    </div>
@@ -882,9 +895,9 @@ Under the terms of the Data Protection Act 1998, we are entitled to charge you �
         
 
 
-            </div>
-            <div id="ctl00_ctl00_FooterRecentlyViewed">
-                
+                </div>
+                <div id="ctl00_ctl00_FooterRecentlyViewed" style="display:none;">
+                    
 
 <script type="text/javascript">
 
@@ -914,7 +927,7 @@ Under the terms of the Data Protection Act 1998, we are entitled to charge you �
             $single = $items.filter(':first'),
 
             singleWidth = $single.outerWidth(),
-            visible = Math.ceil($wrapper.innerWidth() / singleWidth),
+            visible = Math.floor($wrapper.innerWidth() / singleWidth),
             currentPage = 1,
             pages = Math.ceil($items.length / visible);
 
@@ -1058,68 +1071,6 @@ Under the terms of the Data Protection Act 1998, we are entitled to charge you �
                 <div class="wrapper">
                     <ul>
                         
-                                <li>
-                                    
-
-<script language="javascript" type="text/javascript">
-    $(document).ready(function() {
-        $('body').append('<div id="itemDetailsHoverProductDetails" style="display:none;"><div class="itemDetailsBoxTopLargeHover"></div><div id="itemDetailsBoxBody" class="itemDetailsBoxBodyLargeHover"></div></div>');
-
-
-        $('div#itemDetailsHoverProductDetails').hover(function() {
-            $('div#itemDetailsHoverProductDetails').clearQueue();
-        }, function() {
-            $('div#itemDetailsHoverProductDetails').removeClass('visible');
-            $('div#itemDetailsHoverProductDetails').delay(750).hide(0);
-        });
-
-        $('div#itemDetailsHoverProductDetails>div.itemDetailsBoxTopLargeHover').click(function() {
-            $('div#itemDetailsHoverProductDetails').removeClass('visible');
-            $('div#itemDetailsHoverProductDetails').hide(0);
-        });
-
-        var moreInfoHover = function() {
-            var moreInfo = $('a.moreInfo');
-            var productDetails = $('div#itemDetailsHoverProductDetails');
-            var itemDetailsBoxBody = $('div#itemDetailsBoxBody');
-            var loadUrl = '/itemDetailsHoverGet.aspx?' + $(this).attr('id');
-            var ajax_load = "<img class='itemDetailsLoading' src='/images/loading.gif' alt='loading...' />";
-
-            productDetails.css('left', ($(this).offset().left - 127) + 'px');
-            productDetails.css('top', ($(this).offset().top - 248) + 'px');
-
-            if (!productDetails.hasClass('visible')) {
-                productDetails.clearQueue().show();
-                productDetails.addClass('visible');
-                itemDetailsBoxBody.html(ajax_load).load(loadUrl);
-
-            }
-            else {
-                productDetails.clearQueue().show();
-            }
-        }
-        
-        var nothing = function() { }
-
-        $('a.moreInfo').hoverIntent({ interval: 200, over: moreInfoHover, timeout: 0, out: nothing });
-
-    });  
-</script>
-
-
-
-
-<div id="ctl00_ctl00_recentlyViewed1_repeaterRecentlyViewed_ctl00_recentlyViewedItem72045000901_divViewedItem">
-    <div class="RecentlyViewedItemImage">
-        <input type="image" name="ctl00$ctl00$recentlyViewed1$repeaterRecentlyViewed$ctl00$recentlyViewedItem72045000901$imgBtnViewedItem" id="ctl00_ctl00_recentlyViewed1_repeaterRecentlyViewed_ctl00_recentlyViewedItem72045000901_imgBtnViewedItem" src="/images/product/720450/7204500090.jpg" onclick="omnitureRecentlyViewedItemClicked();WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ctl00$recentlyViewed1$repeaterRecentlyViewed$ctl00$recentlyViewedItem72045000901$imgBtnViewedItem&quot;, &quot;&quot;, false, &quot;&quot;, &quot;http://www2.schuh.co.uk/clear-ugg-sheepskin-care-kit/7204500090/&quot;, false, false))" style="border-width:0px;">
-        <div class="recentlyViewedTooltip" style="display:none;" id="7204500090"></div>
-    </div>
-    <div class="RecentlyViewedItemRemoveButton">
-        <input type="image" name="ctl00$ctl00$recentlyViewed1$repeaterRecentlyViewed$ctl00$recentlyViewedItem72045000901$imgBtnRemove" id="ctl00_ctl00_recentlyViewed1_repeaterRecentlyViewed_ctl00_recentlyViewedItem72045000901_imgBtnRemove" title="Remove" src="/Images/item-remove-button.gif" alt="Remove" style="border-width:0px;">
-    </div>    
-</div>
-                                </li>                                
-                            
                     </ul>  
                 </div>
             </div>
@@ -1137,81 +1088,83 @@ Under the terms of the Data Protection Act 1998, we are entitled to charge you �
 </div>
 
 
-            </div>
-            
-            <div id="FooterContainerBody">
-            
-                <div id="FooterContainerBodyContent">
-                    
-                    
-                    <div id="FooterInformationNavigation">
-                        <ul>
-                            <li class="help">
-                                <strong>Help</strong>
-                                <ul>
-                                    <li><a href="http://www.schuh.co.uk/contact-us/" id="ctl00_ctl00_lnkContactUs">Customer Service</a></li>
-                                    <li><a id="ctl00_ctl00_lnkTrackMyOrder" href="https://secure2.schuh.co.uk/myaccount/accountlogin.aspx?custaction=accountorders">Track my order</a></li>
-                                    <li><a href="http://www.schuh.co.uk/delivery/" id="ctl00_ctl00_lnkDelivery">Delivery info</a></li>
-                                    <li><a href="http://www.schuh.co.uk/returns/" id="ctl00_ctl00_lnkReturns">Returns policy</a></li>
-                                </ul>
-                            </li>
-                            <li class="about-us">
-                                <strong>About us</strong>
-                                <ul>
-                                    <li><a href="http://www.schuh.co.uk/shops/all/" id="ctl00_ctl00_lnkOurShops">Our Shops</a></li>
-                                    <li><a href="http://www.schuh.co.uk/careers/" id="ctl00_ctl00_lnkJobs">Careers</a></li>
-                                    <li><a href="http://www.schuh.co.uk/about-us/" id="ctl00_ctl00_lnkHistory">Company history</a></li>
-                                    <li><a href="http://www.schuh.co.uk/gift-cards/" id="ctl00_ctl00_lnkGiftcards">Gift cards</a></li>
-                                </ul>
-                            </li>
-                            <li class="about-this-site">
-                                <strong>About this site</strong>
-                                <ul>
-                                    <li><a href="http://www.schuh.co.uk/sitemap/" id="ctl00_ctl00_lnkSiteMap">Site map</a></li>
-                                    <li><a href="http://www.schuh.co.uk/accessibility/" id="ctl00_ctl00_lnkAccessibility">Accessibility</a></li>
-                                    <li><a href="http://www.schuh.co.uk/privacy/" id="ctl00_ctl00_lnkPrivacy">Privacy policy</a></li>
-                                    <li><a href="http://www.schuh.co.uk/terms/" id="ctl00_ctl00_lnkTerms">Terms &amp; Conditions</a></li>
-                                </ul>
-                            </li>
-                            <li class="follow-us">
-                                <strong><a href="https://secure2.schuh.co.uk/myaccount/accountRegister.aspx" id="ctl00_ctl00_JoinUsLink">Follow us</a></strong>
-                                <ul class="social">
-                                    <li><a href="http://en-gb.facebook.com/pages/Schuh/76694436420" id="ctl00_ctl00_lnkFacebook" target="_blank"><img border="0" alt="Facebook" src="/images/facebook.gif"></a></li>
-                                    <li><a href="http://twitter.com/schuhhq" id="ctl00_ctl00_lnkTwitter" target="_blank"><img border="0" alt="Twitter" src="/images/twitter.gif"></a></li>                                    
-                                    <li><a href="http://schuhstreet.typepad.com/" id="ctl00_ctl00_lnkBlog" target="_blank"><img border="0" alt="Blog" src="/images/blog.gif"></a></li>
-                                    <li><a href="http://schuh.tv" id="ctl00_lnkSchuhTV" target="_blank"><img border="0" alt="Schuh TV" src="/images/schuhtv.gif"></a></li>
-                                    <li class="last"><a href="http://www.schuh.co.uk/competitions/" id="ctl00_ctl00_lnkCompetitions"><img border="0" alt="Competitions" src="/images/competitions.gif"></a></li>
-                                </ul>
-                            </li>
-                        </ul>
-                    </div>
-                    <div id="FooterIMRGLogo"><img style="border: medium none;" title="IMRG" alt="IMRG" src="/images/imrg-logo.gif"></div>
-                    <div id="FooterSecureLogos">
-                        
-
-<div class="secureLogos">
-    <span class="title">Shop safely with Schuh</span>
-    <div class="accreditation">
-        <a onclick="window.open('http://isisaccreditation.imrg.org/imrg/website/isis.nsf/certificateIDIS?readform&amp;unid=FEF234DB41D07E008025746A00534FEE','idis','toolbar=no,location=yes,width=500,height=320'); return false;" style="border: medium none;" href=""><img style="border: medium none;" title="IDIS" alt="IDIS" src="/images/idis-logo.gif"></a>
-        <a onclick="window.open('http://isisaccreditation.imrg.org/imrg/website/isis.nsf/certificateISIS?readform&amp;unid=FEF234DB41D07E008025746A00534FEE','isis','toolbar=no,location=yes,width=500,height=320'); return false;" style="border: medium none;" href=""><img style="border: medium none;" title="ISIS" alt="ISIS" src="/images/isis-logo.gif"></a>
-        <a target="_blank" style="border: medium none;"><img style="border: medium none;" title="Verisign" alt="Verisign" src="/images/verisign-logo.gif" id="verisign"></a>
-    </div>
-    <img src="/images/payment-cards.gif" id="ctl00_ctl00_secureLogos1_imgPayments" alt="Payments Accepted: Paypal, Solo, Maestro, Visa, Mastercard, American Express" title="Payments Accepted: Paypal, Solo, Maestro, Visa, Mastercard, American Express" style="border:none;">
-</div>
-                    </div>
-                    
-                </div>                   
-                                    
-                <div id="registeredOffice">
-                    <span id="ctl00_ctl00_lblCopyright">Copyright © Schuh 2010</span>
                 </div>
                 
+                <div id="footer">
+                    <div id="mc-banner">
+                        <ul>
+                            <li class="mc1"><span class="mc"><a href="http://www.schuh.co.uk/delivery-details/" id="ctl00_ctl00_lnkDeliveryDetails" onclick="omFooterAnyShoe();">
+                            </a></span></li>
+                            <li class="mc2">
+                                <div id="ctl00_ctl00_pnlFindStore">
+	
+                                    <label for="town" class="blue2">
+                                        Enter your postcode or town...</label><br>
+                                    <span class="red townerror" style="display: none;"><strong>You must enter a postcode
+                                        or town</strong><br>
+                                    </span>
+                                    <input name="ctl00$ctl00$txtFindStore" type="text" id="ctl00_ctl00_txtFindStore" class="entertown">
+                                    <input type="image" name="ctl00$ctl00$btnFindStore" id="ctl00_ctl00_btnFindStore" title="Find Store" src="/images/search-button.jpg" onclick="StoreSearchClick(event);" style="height:22px;width:20px;border-width:0px;">
+                                
+</div>
+                            </li>
+                            <li class="mc3"><span class="safe-1"><a onclick="window.open('http://isisaccreditation.imrg.org/imrg/website/isis.nsf/certificateIDIS?readform&amp;unid=FEF234DB41D07E008025746A00534FEE','idis','toolbar=no,location=yes,width=500,height=320'); return false;" style="border: medium none;" href=""></a></span><span class="safe-2"><a onclick="window.open('http://isisaccreditation.imrg.org/imrg/website/isis.nsf/certificateISIS?readform&amp;unid=FEF234DB41D07E008025746A00534FEE','isis','toolbar=no,location=yes,width=500,height=320'); return false;" style="border: medium none;" href=""></a></span></li>
+                        </ul>
+                    </div>
+                    <div id="footer-content">
+                        <ul>
+                            <li class="col-title">need some help?</li>
+                            <li><a href="http://www.schuh.co.uk/contact-us/" id="ctl00_ctl00_lnkContactUs">customer service</a></li>
+                            <li>
+                                <a id="ctl00_ctl00_lnkTrackMyOrder" onclick="omnitureFooterTrackOrderClicked();" href="https://secure2.schuh.co.uk/myaccount/accounttrackorder.aspx">track your order</a></li>
+                            <li><a href="http://www.schuh.co.uk/delivery/" id="ctl00_ctl00_lnkDelivery">delivery info</a></li>
+                            <li><a href="http://www.schuh.co.uk/returns/" id="ctl00_ctl00_lnkReturns">returns policy</a></li>
+                        </ul>
+                        <ul>
+                            <li class="col-title">about schuh</li>
+                            <li><a href="http://www.schuh.co.uk/shops/all/" id="ctl00_ctl00_lnkOurShops">find our shops</a></li>
+                            <li><a href="http://www.schuh.co.uk/careers/" id="ctl00_ctl00_lnkJobs">want to work at schuh?</a></li>
+                            <li><a href="http://www.schuh.co.uk/about-us/" id="ctl00_ctl00_lnkHistory">the company history</a></li>
+                            <li><a href="http://www.schuh.co.uk/gift-cards/" id="ctl00_ctl00_lnkGiftcards">buy gift cards</a></li>
+                        </ul>
+                        <ul>
+                            <li class="col-title">your account</li>
+                            <li><a href="https://secure2.schuh.co.uk/myaccount/accountcontactdetails.aspx" id="ctl00_ctl00_lnkAccountDetails">view your details</a></li>
+                            <li><a href="https://secure2.schuh.co.uk/myaccount/accountSettings.aspx" id="ctl00_ctl00_lnkAccountSettings">change account settings</a></li>
+                            <li><a href="https://secure2.schuh.co.uk/myaccount/accountWishlist.aspx" id="ctl00_ctl00_lnkAccountWishlist">see what's on your wishlist</a></li>
+                            <li><a href="https://secure2.schuh.co.uk/myaccount/accountleavereview.aspx" id="ctl00_ctl00_lnkAccountReview">leave a product review</a></li>
+                        </ul>
+                        <ul>
+                            <li class="col-title">about the site</li>
+                            <li><a href="http://www.schuh.co.uk/sitemap/" id="ctl00_ctl00_lnkSiteMap">site map</a></li>
+                            <li><a href="http://www.schuh.co.uk/privacy/" id="ctl00_ctl00_lnkPrivacy">privacy policy</a></li>
+                            <li><a href="http://www.schuh.co.uk/accessibility/" id="ctl00_ctl00_lnkAccessibility">accessibility</a></li>
+                            <li><a href="http://www.schuh.co.uk/terms/" id="ctl00_ctl00_lnkTerms">terms &amp; conditions</a></li>
+                        </ul>
+                          
+                        <!-- New footer social links 24/05/2011 --> 
+                        <ul class="social-sprite">
+                            <li class="foot-comp"><a href="http://www.schuh.co.uk/competitions/" id="ctl00_ctl00_lnkCompetitions"></a></li>
+                            <li class="foot-fb"><a href="https://www.facebook.com/pages/Schuh/76694436420" id="ctl00_ctl00_lnkFacebook" target="_blank"></a></li>
+                            <li class="foot-tw"><a href="http://twitter.com/schuhhq" "="" id="ctl00_ctl00_lnkTwitter" target="_blank"></a></li>
+                            <li class="foot-bl"><a href="http://schuhstreet.typepad.com/" id="ctl00_ctl00_lnkBlog" target="_blank"></a></li>
+                            <li class="foot-tv"><a href="http://www.schuhtube.com" id="ctl00_ctl00_lnkSchuhTV" target="_blank"></a></li>
+                            <li class="foot-30"><a href="http://30yearsofschuh.co.uk/#/" target="_blank"></a></li>
+                        </ul>
+                    </div>
+                    <div id="footer-copy">
+                        <div class="footer-copyright">
+                            <span>
+                                Copyright © Schuh 2011 All rights reserved.
+                            </span>
+                        </div>
+                        <div class="footer-payments">
+                            <img src="/images/payment-cards.gif" id="ctl00_ctl00_imgPayments" alt="Payments Accepted: Paypal, Solo, Maestro, Visa, Mastercard" title="Payments Accepted: Paypal, Solo, Maestro, Visa, Mastercard" style="border: none;">
+                        </div>
+                    </div>
+                </div>
             </div>
             
-        </div>
-        
-           
-        
 
 
 
@@ -1263,7 +1216,58 @@ height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
 
 <span id="ctl00_ctl00_analyticsOmniture_lblJSFunctions"><script type="text/javascript">
 </script></span>
+            <script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-166034-23");
+pageTracker._setDomainName("schuh.co.uk");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+
+<!-- Begin GA Highlighted Word Tracking Script -->
+<script type="text/javascript" src="/scripts/GoogleHighlightWordspageTracker.js"></script> 
+<!-- End GA Highlighted Word Tracking Script -->
+
+        </div>
+    </div>
     
+<script type="text/javascript">
+function StopEvent(pE){
+if (!pE)
+if (window.event)
+pE = window.event;
+else
+return;
+if (pE.cancelBubble != null)
+pE.cancelBubble = true;
+if (pE.stopPropagation)
+ pE.stopPropagation();
+if (pE.preventDefault)
+pE.preventDefault();
+if (window.event)
+pE.returnValue = false;
+if (pE.cancel != null)
+pE.cancel = true;
+}
+function disableFormEnter(e) {
+  if (!e) {
+      if (window.event.keyCode == 13) {
+          StopEvent(e);
+      }
+  } else {
+      if (e.keyCode == 13) {
+          StopEvent(e);
+      } else if (e.which == 13) {
+          StopEvent(e);
+      } else if (e.charCode == 13) {
+          StopEvent(e);
+      }
+  }
+}</script> 
 
 <script type="text/javascript">
 //<![CDATA[
@@ -1290,15 +1294,6 @@ Sys.Application.add_init(function() {
 <script src="/Scripts/schuh.nav.js" type="text/javascript"></script>
 <script src="/Scripts/PrimaryNavIE6Fix.js" type="text/javascript"></script>
 <script type="text/javascript" src="/scripts/criteo_ld.js"></script>
-<script type="text/javascript"> 
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-try {
-var pageTracker = _gat._getTracker("UA-166034-23");
-pageTracker._setDomainName("schuh.co.uk");
-pageTracker._trackPageview();
-} catch(err) {}</script>
+
 
 </body></html>
