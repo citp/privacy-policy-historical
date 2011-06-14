@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webpagedesign.com.au privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215014011id_/http%3A//www.webpagedesign.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webpagedesign.com.au privacy policy that was archived on 2011-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110614073302id_/http%3A//www.webpagedesign.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy- Free web templates, graphics, articles and more.
 
