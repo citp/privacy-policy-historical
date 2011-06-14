@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the borders.com privacy policy that was archived on 2010-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100531051730id_/http%3A//www.borders.com/online/store/CustomerServiceView_privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the borders.com privacy policy that was archived on 2011-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110614023305id_/http%3A//www.borders.com/online/store/CustomerServiceView_privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Borders - Books, Music and Movies
 
@@ -35,13 +35,6 @@ If you provide us with personal information, we may retain and use that informat
 In order to offer you a more consistent experience in your interactions with Borders, information collected via the Websites and/or kiosks may be combined with information we collect by other means. We may also use your personal information to improve the Websites, to optimize third-party offers of products and/or services through programs like Borders Rewards Perks, or to make the Websites easier to use by eliminating the need for you to repeatedly enter the same information or by customizing the Websites to your particular preference or interests. 
 
 If you have chosen to receive communications by email from us but later wish to opt-out of receiving such communications from us at any time, simply follow the instructions for doing so included in the emails. 
-
-If you would like to opt-out of receiving any program-related and other direct mail from us, please send a written request to:
-
-Borders  
-Attn: Customer Care   
-P.O. Box 7002  
-LaVergne, TN 37086
 
 We reserve the right to send you certain communications relating to the Websites, the kiosks, the Borders Rewards and/or Borders Rewards Perks programs, or any of our email subscription or mobile content delivery programs, such as service announcements or similar administrative or transactional messages, without offering you the opportunity to opt-out of receiving them.
 
@@ -121,11 +114,6 @@ We reserve the right to update our Privacy Policy from time to time. When we do,
 
  **Contact Us**
 
-Any questions you may have regarding our Privacy Policy should be directed via email to [ccare@borders.com](mailto:ccare@borders.com), or via telephone at 800.770.7811. You can also write us at:
+Any questions you may have regarding our Privacy Policy should be directed via email to [ccare@borders.com](mailto:ccare@borders.com), or via telephone at 800.770.7811.
 
-Borders  
-Attn: Customer Care   
-P.O. Box 7002  
-LaVergne, TN 37086 
-
-**Back to Previous Page**
+ **Back to Previous Page**
