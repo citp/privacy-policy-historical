@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rollcall.com privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527104556id_/http%3A//www.economistgroup.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rollcall.com privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615015252id_/http%3A//www.economistgroup.com/results_and_governance/governance/Privacy) for the most accurate reproduction.*
 
 # Privacy | Economist Group
 
@@ -24,7 +24,7 @@ A "customer" (or "you") is anyone ordering, registering for or making use of any
 
 Your personal details will be collected and processed when you order, purchase, register, subscribe or make use of any of our products or services.  Information is collected by the companies of the Economist Group.  For our businesses operated in the EU and EEA, the companies listed at the end of this policy statement are each registered with the United Kingdom's Information Commissioner's Office as a data controller in accordance with the Data Protection Act 1998.
 
-When you visit any of our websites, we also collect website usage information, and information about your computer and internet connection. This includes your computer's IP address, the type and version of browser and operating system you use, your internet domain and, if you visited via a link from another website, the URL of the linking page.
+In addition, when you visit any of our websites or use any of our digital applications (such as our iPhone or iPad applications), we also collect website and application usage information (which may include your reading history and any advertisements you may have viewed), and information about your computer or other digital device and your internet connection. This includes your computer's or digital device’s IP address, the type and version of browser and operating system you use, your internet domain and, if you visited via a link from another website, the URL of the linking page. 
 
 This information is collected to help us:
 
@@ -32,7 +32,7 @@ This information is collected to help us:
   * manage your registration preferences
   * send you renewal notifications and/or service notifications
   * personalise web content and advertising based on your personal characteristics or preferences
-  * ensure, as far as is practical, that our websites are compatible with the browsers and operating systems used by most of our visitors
+  * ensure, as far as is practical, that our websites and applications are compatible with the browsers and operating systems used by most of our visitors
   * conduct customer satisfaction surveys
 
 
@@ -58,23 +58,25 @@ We also use your information for in-house research and analysis. This helps us t
 
 ### Cookies
 
-A cookie is a small file which is placed on your hard drive when you visit any of the Group's websites.  We use information from cookies for purposes which may include:
+A cookie is a small file which is placed on your hard drive when you visit any of the Group's websites (directly or via our applications). We use information from cookies for purposes which may include:
 
   * identifying returning users, registrants and subscribers 
   * eliminating the need for returning users to re-enter their login details 
-  * enabling you to move more easily around our sites 
-  * tracking your use of our sites to better develop our sites in accordance with your requirements 
-  * building up an anonymous profile based on your browsing patterns across our sites and third party websites, which enables us to make advertisements and content available to you that is more relevant to your interests
+  * enabling you to move more easily around our sites and applications
+  * tracking your use of our sites to better develop our sites and applications in accordance with your requirements 
+  * building up an anonymous profile based on your browsing patterns across our sites, applications and third party websites, which enables us to make advertisements and content available to you that is more relevant to your interests
 
 
 
 You can delete cookies from your hard drive at any time. Bear in mind, though, that if you delete them, any settings such as your stored username and password will have to be reset when you next log in.
 
-You will be able to use our websites even if your browser is not set to accept cookies. However, certain features and content may not be available to you and you will have to log in every time you visit.
+You will be able to use our websites and applications even if your browser is not set to accept cookies. However, certain features and content may not be available to you and you will have to log in every time you visit.
 
-If you specifically do not wish us to collect cookie information for the purpose of content and behavioural targeted advertising, you can "opt out" by following the instructions at [http://www.cookiecentral.com](http://www.cookiecentral.com/).
+By visiting an Economist Group website, you consent to the use of cookies as explained above.
 
-Further information on the use of cookies can be found at: [www.cookiecentral.com/faq](http://www.cookiecentral.com/faq).
+You can also choose whether you wish us to collect cookie information for these purposes using the settings in your browser, as further explained at[ http://www.cookiecentral.com](http://www.cookiecentral.com/).
+
+Further information on the use of cookies can be found at: [www.cookiecentral.com/faq](http://www.cookiecentral.com/faq). 
 
 ### E-mails
 
@@ -85,6 +87,8 @@ To find out more about the technologies used in these e-mails sent on our behalf
 ### Advertisements
 
 The Economist Group uses DoubleClick to deliver the advertisements displayed on our websites. DoubleClick may note some of the pages you visit through the use of pixel tags (also called "clear gifs"). In the course of serving advertisements to this site, DoubleClick may place or recognise a unique cookie on your computer in order to bring to you more relevant information and to make sure that you do not receive the same ad many times in the same session. Some of the advertisers on our sites do not use DoubleClick ad-serving software and their ads are served by third-parties who may also place cookies. To find out more about these sensing methods and to know your choices about not having this information used by DoubleClick, please visit <http://www.doubleclick.com/privacy/index.aspx>.
+
+For advertisements appearing on in our digital applications, we may share anonymised information regarding advertisement viewing patterns with our advertisers, but will not reveal any personal details of individual customers. 
 
 ### External links
 
