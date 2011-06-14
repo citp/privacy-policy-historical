@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ghchealth.com privacy policy that was archived on 2008-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081011064256id_/http%3A//ghchealth.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ghchealth.com privacy policy that was archived on 2011-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110614210930id_/http%3A//www.globalhealingcenter.com/privacy) for the most accurate reproduction.*
 
 # Global Healing Center
 
@@ -55,19 +55,3 @@ Wherever we collect sensitive information (such as credit card data), that infor
 While we use encryption to protect sensitive information transmitted online, we also protect your information offline. Only employees who need the information to perform a specific job (for example, billing or customer service) are granted access to personally identifiable information. The computers/servers in which we store personally identifiable information are kept in a secure environment.
 
 If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone at 713-476-0016 or support@ghchealth.com.
-
-* * *
-
-†DISCLAIMER: These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease.
-
-* * *
-
-Information and statements made are for education purposes and are not intended to replace the advice of your treating doctor. Global Healing Center does not dispense medical advice, prescribe, or diagnose illness. We design and recommend individual nutritional programs and supplements that allow the body to rebuild and heal itself. The views and nutritional advice expressed by Global Healing Center are not intended to be a substitute for conventional medical service. If you have a severe medical condition, see your physician of choice. This Web site contains links to Web sites operated by other parties. Such links are provided for your convenience and reference only. We are not responsible for the content or products of any linked site or any link contained in a linked site.
-
-| 
-
-[](https://www.mcafeesecure.com/RatingVerify?ref=ghchealth.com)
-
-[](http://www.bbbonline.org/cks.asp?id=104061012585243737)  
-  
----|---
