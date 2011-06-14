@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mcstate.com privacy policy that was archived on 2010-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101209191842id_/http%3A//www.mcdonalds.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mcstate.com privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615015854id_/http%3A//www.mcdonalds.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy :: McDonalds.com
 
@@ -38,9 +38,9 @@ We urge parents to regularly monitor and supervise their children's on-line acti
 
 You are in control of any personal information you provide to us on-line. If at any time, you would like to correct the personal information we have about you or if you would like to change your preferences for contacts from us or on behalf of our business partners, you can let us know by contacting us at the email or postal address listed below.
 
-In order to review any personal information we have about you or to ask us to delete that information or to stop further use of the information, please submit this information request form.
+In order to review any personal information we have about you or to ask us to delete that information or to stop further use of the information, please submit [this information request form](https://web.archive.org/us/en/subscription.html).
 
-In order to review any personal information we have about your child or to ask us to delete that information or to stop further use of the information, please submit this information request form.
+In order to review any personal information we have about your child or to ask us to delete that information or to stop further use of the information, please submit [this information request form](https://web.archive.org/us/en/subscription.html).
 
 ## Cookies
 
