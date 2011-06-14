@@ -1,24 +1,49 @@
-> *The following text is extracted and transformed from the rtd-denver.com privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229023934id_/http%3A//www.rtd-denver.com/Privacy_Policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rtd-denver.com privacy policy that was archived on 2011-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110614081819id_/http%3A//www.rtd-denver.com/Privacy_Policy.shtml) for the most accurate reproduction.*
 
 # RTD | Privacy Policy
 
-This is how the RTD will handle information we learn about you from your visit to our website. The information we receive depends upon what you do when visiting our site.
+At RTD, we are committed to protecting the privacy of our customers and visitors to our website. The following privacy policy statement specifies what information we collect on our website, rtd-denver.com, and how we use it. 
 
-If you visit our site to read or download information, such as career opportunities or press releases, we do not collect and store your email address.
+Collection and use of personal information    
+There are sections on the website where we ask you to provide personal information so that we may follow-up with you. Such personal information may be required to subscribe to email notifications, apply for a job online, complete surveys, or fill out other forms, such as the customer comment form. The personal information collected may include your name, email address, phone number, street address, etc. We will not lease, sell or otherwise release your personal information to third parties not affiliated with us unless disclosure is required by law. We will use the personal information you provide only to respond to your request or inquiry. 
 
-  * The name of the domain from which you access the Internet (for example, aol.com, if you are connecting from an American Online account).
-  * The Internet address of the website from which you linked directly to our site.
-  * The date and time you access our site.  
+We will not send you unsolicited emails. If you sign up to receive email notifications from us, you will receive only the information you sign up to receive. If you wish to opt out or revise the email notifications you receive, [update your preferences](https://public.govdelivery.com/accounts/COTRANRTD/subscribers/new?preferences=true) here. 
+
+Collection and use of non-personal information   
+We collect aggregated (non-personal) information such as Internet domain, IP address, browser, operating system, referring/exit pages, date and time stamp, etc. from all visitors to our website for statistical purposes. Aggregated information does not include personal identifying information. The information collected is used for analysis and reporting, providing information on site trends and usage so that we can continue to enhance our site based on our customers’ needs. We may disclose anonymous, aggregated data to third parties working with RTD or include such data in public records. 
+
+**Google Analytics**  
+RTD uses Google Analytics, a web analytics tool that helps website owners understand how visitors engage with their website. The [Google Analytics Terms of Service](http://www.google.com/intl/en/analytics/tos.html), which all Analytics customers must adhere to, prohibits the tracking or collection of personal information using Google Analytics or associating personal information with web analytics information. Visit [Google Analytics Privacy Overview](http://www.google.com/intl/en/analytics/privacyoverview.html) for more information.   
 
 
+**GovDelivery**  
+RTD uses GovDelivery, a third-party digital subscription management service to manage email subscriptions and communications. GovDelivery does not share information gathered through its clients with third parties for promotional purposes. Visit [GovDelivery’s Legal and Privacy Overview](http://www.govdelivery.com/privacy) for more information. 
 
+**Yahoo Store**  
+RTD’s Online Store is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Visit [Yahoo! Privacy Policy](http://privacy.yahoo.com/privacy/us/) for more information. 
 
-If you identify yourself by sending an E-mail containing personal information:
+Compliance with the Children’s Online Privacy Protection Act  
+RTD complies with the requirements of the Children’s Online Privacy Protection Act. RTD will not target its offerings towards or knowingly collect any personally identifiable information from children under 13 years of age. 
 
-You also may decide to send us personally-identifying information, for example your mailing address, in an electronic mail message requesting that information or records be mailed to you. Information collected in this manner is used solely for responding to requests for information or records and will not be permanently stored.
+Cookies   
+A cookie is a piece of text that can be stored by your web browser on your computer. Typically, cookies are used to tailor a website to better suit your interests and preferences. RTD-Denver.com does not use cookies outside of those that Google Analytics uses to track site statistics. 
 
-For Site Management, non-identifying information is collected from all types of site visits for statistical purposes. Individual e-mail and other personally identifying information is not collected.
+Security   
+To ensure site security, RTD employs software programs to monitor network traffic and identify unauthorized attempts to upload or change information, or otherwise cause damage. 
 
-For Site Security purposes and to ensure that this service remains available to all users, the RTD computer system employs software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage.
+Links to other websites    
+This privacy statement applies solely to RTD’s website. Links to other websites are included to provide our riders with supplemental information. If you choose to follow these links, you are leaving RTD’s website and are subject to the privacy policies of those sites. RTD is not responsible for content or policies of those websites. 
 
-**NOTICE:** Except as set forth above or if required by law, the RTD will not obtain personally-identifying information about you when you visit our site, unless you choose to provide such information to us. 
+Consent   
+By using the RTD website, you consent to the collection and use of information described in this privacy policy.
+
+Policy updates    
+This page will be updated with our current privacy policy so you will always be aware of the type of information we collect and how we use it. RTD reserves the right to update this privacy policy at any time. 
+
+Questions   
+If you have questions about this privacy policy statement, please [contact us](https://web.archive.org/web/20110614081819id_/http%3A//www.rtd-denver.com/ContactUs.shtml). 
+
+Copyright © 2011 The Regional Transportation District. All rights reserved.  
+RTD, 1600 Blake Street, Denver, CO 80202
+
+Last updated February 2011 
