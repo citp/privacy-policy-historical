@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pervasive.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225193311id_/http%3A//www.pervasive.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pervasive.com privacy policy that was archived on 2011-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110614181509id_/http%3A//www.pervasive.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Pervasive Corporate Site > Privacy
 
