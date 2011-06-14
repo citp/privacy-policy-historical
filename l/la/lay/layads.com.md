@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the layads.com privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213124424id_/http%3A//www.layads.com/content/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the layads.com privacy policy that was archived on 2011-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110614221817id_/http%3A//www.layads.com/content/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Layads
 
