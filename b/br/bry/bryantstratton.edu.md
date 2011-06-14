@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bryantstratton.edu privacy policy that was archived on 2010-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101207174451id_/http%3A//www.bryantstratton.edu/Utilities/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bryantstratton.edu privacy policy that was archived on 2011-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110614112146id_/http%3A//www.bryantstratton.edu/Utilities/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Bryant & Stratton
 
