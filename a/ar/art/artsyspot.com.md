@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the artsyspot.com privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214114332id_/http%3A//artsyspot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artsyspot.com privacy policy that was archived on 2011-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110614201839id_/http%3A//artsyspot.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Artsy Spot
+# Privacy Policy | Artsy Spot
 
 At artsyspot.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit artsyspot.com, and how we safeguard your information. We never sell your personal information to third parties.
 
@@ -16,6 +16,8 @@ We also use third party advertisements on artsyspot.com to support our site. Som
 
 You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
 
+## Advertisement
+
 ## Woooo! Don’t miss this!
 
 ## Check this out
@@ -27,14 +29,10 @@ You can chose to disable or selectively turn off our cookies or third-party cook
 
 
 
-## Advertisement
-
-## Our Friends
-
 ## Cool Stuff
+
+## More ads
 
 ## Pure Awesomeness
 
 ## Popular Photo Galleries
-
-## Who is online?
