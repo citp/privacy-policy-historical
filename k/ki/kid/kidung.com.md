@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kidung.com privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213114129id_/http%3A//www.kidung.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidung.com privacy policy that was archived on 2011-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110614192827id_/http%3A//www.kidung.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Christian Lyrics and Chords
 
