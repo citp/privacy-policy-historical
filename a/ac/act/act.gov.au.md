@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the act.gov.au privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119073700id_/http%3A//act.gov.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the act.gov.au privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615132647id_/http%3A//www.act.gov.au/privacy) for the most accurate reproduction.*
 
 # Condensed Privacy Statement | ACT Government Entry Point
 
@@ -6,7 +6,7 @@
 
 This statement applies to the <http://www.act.gov.au/>, <http://www.canberraconnect.act.gov.au/>, [http://www.search.act.gov.au](http://www.search.act.gov.au/) and [http://www.emergencyinformation.act.gov.au](http://www.emergencyinformation.act.gov.au/) websites and includes the collection, use, security of and access to information that may be obtained through the use the Canberra Connect payment facility. 
 
-These websites are managed by Canberra Connect, Department of Territory and Municipal Services.
+These websites are managed by Canberra Connect, Territory and Municipal Services Directorate.
 
 ### Personal Information
 
@@ -86,7 +86,7 @@ Alternatively, you can write to Canberra Connect at:
 
 Manager, Payment Services Integration  
 Canberra Connect  
-Department of Territory and Municipal Services  
+Territory and Municipal Services Directorate  
 GPO Box 158,   
 CANBERRA ACT 2601  
 AUSTRALIA 
