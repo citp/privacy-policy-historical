@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the myimghost.com privacy policy that was archived on 2010-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101021065520id_/http%3A//www.myimghost.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myimghost.com privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616000651id_/http%3A//www.myimghost.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
 
-# MYIMGHOST » More Information » Privacy Policy
+# MyIMGhost - Free uncensored image hosting
 
 When you sign up for an account with MYIMGHOST, we collect personal information from you including your e-mail address, and a password. 
 
