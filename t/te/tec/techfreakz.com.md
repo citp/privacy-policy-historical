@@ -1,34 +1,32 @@
-> *The following text is extracted and transformed from the techfreakz.com privacy policy that was archived on 2005-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050315230644id_/http%3A//www.techfreakz.com/index.php%3Fpage%3Dtos) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techfreakz.com privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615205300id_/http%3A//techfreakz.com/privacypolicy) for the most accurate reproduction.*
 
-# Techfreakz.com - You Affect the World By What You Browse - Terms Of Service
+# Privacy Policy | TechFreakz
 
-Untitled Document
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at contact@buxp.info
 
-### Privacy Policy and Disclaimer for Techfreakz.com 
+At www.techfreakz.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.techfreakz.com and how it is used.
 
-Introduction.   
-We take your right to privacy seriously and want you to feel comfortable using our web site. This Privacy Policy deals with personally identifiable information (referred to as "Data" below) that may be collected by us on our site. This Policy does not apply to other entities that we do not own or control or persons that are not our employees, agents or within our control. Please take time to read our [Terms of Use ](https://web.archive.org/web/20050315230644id_/http%3A//www.techfreakz.com/index.php?page=tos). 
+**Log Files**  
+Like many other Web sites, www.techfreakz.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user�s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-1\. Collection of Data.   
-Our registration process requires only a valid e-mail address and a unique user ID and password. Providing us with other information is at your option. Please take note that your user name, e-mail address, or other submissions that you make on this site may contain your real name or other personally identifiable information and, as a result, may appear on this site. Like many web sites, we may also automatically receive general information that is contained in our server log files such as your IP address and cookie information. Information about how advertising may be served on this site (if at all) is set forth below. 
+**Cookies and Web Beacons**  
+www.techfreakz.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
 
-2\. Use of Data.   
-We may use Data to customize and improve your user experience on this site. We will make efforts so that your Data will not be provided to third parties unless (i) provided for otherwise in this Privacy Policy; (ii) we obtain your consent, such as when you choose to opt-in or opt-out to the sharing of Data; (iii) a service provided on our site requires the interaction with or is provided by a third party, by way of example an Application Service Provider; (iv) pursuant to legal process or law enforcement; (v) we find that your use of this site violates our this Policy, Terms of Service, other usage guidelines or as deemed reasonably necessary by us to protect our legal rights and/or property; (vi) or (vi) this site is purchased by a third party whereby that third party will be able to use the Data in the same manner as we can as set forth in this Policy. In the event you choose to use links that appear on our site to visit other web sites, you are advised to read the privacy policies that appear on those sites. 
+**DoubleClick DART Cookie**
 
-3\. Cookies.   
-Like many web sites, we set and use cookies to enhance your user experience, such as retaining your personal settings. Advertisements may appear on our web site and, if so, may set and access cookies on your computer and is subject to the privacy policy of those parties providing the advertisement. However, the companies serving the advertising do not have access to our cookies. These companies usually use non-personally identifiable or anonymous codes to obtain information about your visits to our site. 
+.:: Google, as a third party vendor, uses cookies to serve ads on www.techfreakz.com.
 
-4\. Editing or Deleting Your Account Information.   
-We provide you with the ability to edit the information in your user account information that you provided to us in registration by using [your personal page configuration area ](https://web.archive.org/web/20050315230644id_/http%3A//www.techfreakz.com/forum/usercp.php?). You may request deletion of your user account by contacting [our webmaster ](https://web.archive.org/web/20050315230644id_/http%3A//www.techfreakz.com/index.php?page=contact). Content or other data that you may have provided to us and that is not contained within your user account, such as posts that may appear within our forums, may continue to remain on our site at our discretion even though your user account is deleted. Please see our [Terms of Use ](https://web.archive.org/web/20050315230644id_/http%3A//www.techfreakz.com/index.php?page=tos) for more information. 
+.:: Google’s use of the DART cookie enables it to serve ads to your users based on their visit to www.techfreakz.com and other sites on the Internet.
 
-5\. Changes to this Privacy Policy.   
-We may make changes to this Policy from time to time. We will notify you of substantial changes to this Policy either by posting a prominent announcement on our site and/or by sending a message to the e-mail address you have provided to us that is contained within your user settings. 
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
 
-6\. No guarantees.   
-While this Privacy Policy states our standards for maintenance of Data and we will make efforts to meet them, we are not in a position to guarantee these standards. There may be factors beyond our control that may result in disclosure of data. As a consequence, we disclaim any warranties or representations relating to maintenance or nondisclosure of Data. 
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include …….  
+Google Adsense
 
-7\. Disclaimer.   
-Techfreakz.com will not be held responsible for damage to equipment including, but not limited to Personal Computers, Laptops, Cellular Phones, Personal Desktop Assistants, Printers, Display Monitors, Speakers, GPS Systems, or anything else modified with instructions or directions gathered from the Techfreakz.com web site. All modifications are done at your own risk and expense 
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.techfreakz.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
 
-8\. Contact Information.   
-If you have any questions about this Policy or our web site, please feel free to contact [our webmaster. ](https://web.archive.org/web/20050315230644id_/http%3A//www.techfreakz.com/index.php?page=contact)
+www.techfreakz.com has no access to or control over these cookies that are used by third-party advertisers.
+
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.techfreakz.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
