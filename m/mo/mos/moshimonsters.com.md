@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moshimonsters.com privacy policy that was archived on 2010-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101210095856id_/http%3A//www.moshimonsters.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moshimonsters.com privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615140303id_/http%3A//www.moshimonsters.com/privacy) for the most accurate reproduction.*
 
 # Moshi Monsters - Privacy Policy
 
@@ -8,7 +8,7 @@ We're thrilled that you are interested in Moshimonsters.com, where you can adopt
 
 Moshi Monsters gives you the ability to have controlled interaction with your friends. We have tried to make this a fun and friendly environment, but the environment on Moshimonsters.com also depends on you. Whenever using this site, or any social networking website, you should be careful about the interactions you have with others. Want to learn more about how to protect yourself online? Check out [http://www.ftc.gov/bcp/edu/pubs/consumer/tech/tec08.shtm](https://web.archive.org/linkwarning?target=http://www.ftc.gov/bcp/edu/pubs/consumer/tech/tec08.shtm) and [http://www.onguardonline.gov/socialnetworking_youth.html](https://web.archive.org/linkwarning?target=http://www.onguardonline.gov/socialnetworking_youth.html).
 
-A big Moshi Monsters welcome to parents, teachers and other concerned adults. Our website, Moshi Monsters.com, is hosted by Mind Candy Ltd., a UK company with offices at Battersea Studios, 80 Silverthorne Road, Battersea, London, SW8 3HE, United Kingdom. On this site, with parental permission, kids can participate in a virtual online environment, giving them the opportunity to adopt a virtual pet monster from one of several species, customize it, and bring it to "life". The monster then generates several puzzles each day, and kids who play the games have a chance to earn virtual currency (we call our currency "Rox"). With Rox, kids can "buy" virtual food for their pets and accessories for their pets' rooms. At moshimonsters.com we also provide kids with the ability to have controlled communications, using limited and moderated pinboard text messages with their chosen friends.
+A big Moshi Monsters welcome to parents, teachers and other concerned adults. Our website, Moshi Monsters.com, is hosted by Mind Candy Ltd., a UK company with offices at Tea Building, Unit 4.01, 56 Shoreditch High Street, London E1 6JJ, UK. On this site, with parental permission, kids can participate in a virtual online environment, giving them the opportunity to adopt a virtual pet monster from one of several species, customize it, and bring it to "life". The monster then generates several puzzles each day, and kids who play the games have a chance to earn virtual currency (we call our currency "Rox"). With Rox, kids can "buy" virtual food for their pets and accessories for their pets' rooms. At moshimonsters.com we also provide kids with the ability to have controlled communications, using limited and moderated pinboard text messages with their chosen friends.
 
 In this policy we describe what information we collect, how we collect it, and what we do with it (the policy covers only information collected and used on Moshimonsters.com). Mind Candy strives to comply with the Children's Online Privacy Protection Act, (COPPA) a U.S. law that governs the use and collection of information online from kids under 13. To learn more about this law, and about how to protect your kids on interactive online websites, visit [http://www.ftc.gov/bcp/edu/pubs/consumer/tech/tec08.shtm](https://web.archive.org/linkwarning?target=http://www.ftc.gov/bcp/edu/pubs/consumer/tech/tec08.shtm) for information from the U.S. Federal Trade Commission, as well as [http://www.onguardonline.gov/socialnetworking_youth.html](https://web.archive.org/linkwarning?target=http://www.onguardonline.gov/socialnetworking_youth.html).
 
@@ -16,13 +16,13 @@ In this policy we describe what information we collect, how we collect it, and w
 
 ### Registration
 
-When users, including children under 13, register and create a monster on Moshimonsters.com, Mind Candy Inc. asks them to select a name for their monster, a screen name (also referred to as a monster owner name), and a password; and to provide his or her parent or guardian's email address for children under 13, the child's birth date, gender, and country of residence. Users 13 or older will provide their own email address. In the interactive community features, no additional personally identifying information is required.
+When users, including children under 13, register and create a monster on Moshimonsters.com, Big Bad Bill Inc. asks them to select a name for their monster, a screen name (also referred to as a monster owner name), and a password; and to provide his or her parent or guardian's email address for children under 13, the child's birth date, gender, and country of residence. Users 13 or older will provide their own email address. In the interactive community features, no additional personally identifying information is required.
 
 In order to use this Web site, we request certain personally identifiable information from you on the registration form, including a user name and password. During registration you are required to give contact information (your parent email address if you are under 13 years of age). We use this information to contact you about the services on our site in which you have expressed interest. Occasionally, Moshimonsters.com sends out updates regarding new site features, via parent announcements and our newsletter. We also need to contact you regarding any Customer Service queries you submit, such as password retrieval.
 
 As part of the registration process, we require demographic information (gender, country of residence and birth date); we encourage you to submit this information so we can provide you a more personalized experience. We limit the information we collect, both actively (i.e., what we ask kids) and passively (what we collect through use of web tracking mechanisms like "cookies") to that which is necessary for kids to take part in a particular Moshi Monsters game activity.
 
-Mind Candy Inc. is the sole owner of the information collected on Moshimonsters.com. Mind Candy Inc. collects personally identifiable information from our users at several different points on our Web site including registration and Customer Service contact queries.
+Big Bad Bill Inc. is the sole owner of the information collected on Moshimonsters.com. Big Bad Bill Inc. collects personally identifiable information from our users at several different points on our Web site including registration and Customer Service contact queries.
 
 ### Orders
 
@@ -44,7 +44,7 @@ When a Moshi member is using the Moshi Monsters site, Mind Candy collects certai
 
 ### Third Party Cookies
 
-The use of cookies by our affiliates and/or service providers is not covered by our privacy statement. We do not have access or control over these cookies. Our affiliates or service providers use session ID cookies to provide demographic and metrics information to Mind Candy Inc. and to make it easier for you to navigate our site, in order for you to use the subscription service.
+The use of cookies by our affiliates and/or service providers is not covered by our privacy statement. We do not have access or control over these cookies. Our affiliates or service providers use session ID cookies to provide demographic and metrics information to Big Bad Bill Inc. and to make it easier for you to navigate our site, in order for you to use the subscription service.
 
 ### How Mind Candy Uses the Information it Collects
 
@@ -88,7 +88,7 @@ If you use a forum or blog on this Web site, you should be aware that any person
 
 ### Opting Out
 
-If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or you may communicate by emailing us at [helpme@moshimonsters.com](mailto:helpme@moshimonsters.com) please type UNSUBSCRIBE in the subject line, or you may contact us in writing by posting your mail to: Mind Candy Ltd, 80 Silverthorne Rd, Battersea Studios, Battersea London SW8 3HE United Kingdom, to opt-out.
+If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or you may communicate by emailing us at [helpme@moshimonsters.com](mailto:helpme@moshimonsters.com) please type UNSUBSCRIBE in the subject line, or you may contact us in writing by posting your mail to: Mind Candy Ltd, Tea Building, Unit 4.01, 56 Shoreditch High Street, London E1 6JJ, UK, to opt-out.
 
 ### Updating/Accessing/Amending/Correcting Personally Identifiable Information
 
@@ -108,7 +108,7 @@ Mind Candy is a participant in Privo's Privacy Assurance Program. As part of par
 
 The seal posted on this page indicates that Mind Candy has established privacy practices and has agreed to submit to Privo's oversight and consumer dispute resolution process. If you have questions or concerns about our privacy practices, please contact us at (888) 311-9576 in the U.S., +44 20 7193 5294 outside of the U.S., or [privacy@moshimonsters.com](mailto:privacy@moshimonsters.com). If you have further concerns after you have contacted Mind Candy you can contact Privo directly at [privacy@privo.com](mailto:privacy@privo.com).
 
-Mind Candy Inc. complies with the EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union.
+Big Bad Bill Inc. complies with the EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union.
 
 ### Changes to this Privacy Policy
 
@@ -120,6 +120,6 @@ We reserve the right to modify this privacy statement at any time, so please rev
 
 ### Questions and Suggestions
 
-If you have questions or suggestions, please email us at [info@moshimonsters.com](mailto:info@moshimonsters.com) or mail us at: attn: Customer Service, Mind Candy, Battersea Studios, 80 Silverthorne Road, Battersea, London, SW8 3HE, United Kingdom.
+If you have questions or suggestions, please email us at [info@moshimonsters.com](mailto:info@moshimonsters.com) or mail us at: attn: Customer Service, Mind Candy, Tea Building, Unit 4.01, 56 Shoreditch High Street, London E1 6JJ, UK.
 
 Effective Date: 28/01/09
