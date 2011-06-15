@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vcaa.vic.edu.au privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617030258id_/http%3A//www.vcaa.vic.edu.au/footer/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vcaa.vic.edu.au privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615101822id_/http%3A//www.vcaa.vic.edu.au/footer/privacy.html) for the most accurate reproduction.*
 
 # None
 
@@ -8,7 +8,7 @@ If required, personal information is collected from you via this website only wi
 
 Generally, the VCAA collects information for online surveys and purchasing of VCAA services. When your personal information is collected online, details of the reason for collection and its usage are available on the relevant web page itself.
 
-In addition, your visit to this website is logged by web analyst HBX Analytics (<http://www.omniture.com/products/web_analytics?s_cid=1493>) for statistical purposes only, by using a web beacon to record:
+In addition, your visit to this website is logged by web analyst Google Analytics (<http://www.google.com.au/analytics/index.html>) for statistical purposes only, by using a web beacon to record:
 
   * user server addresses and domains
   * the times and dates the site was visited
