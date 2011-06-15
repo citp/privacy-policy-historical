@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the jensonusa.com privacy policy that was archived on 2010-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100725075543id_/http%3A//www.jensonusa.com/help_desk/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jensonusa.com privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615075716id_/http%3A//www.jensonusa.com/help_desk/privacy.aspx) for the most accurate reproduction.*
 
 # JensonUSA.com - Your Mountain & Road Bike online parts supplier!
-
-close window
-
-Prices shown in currencies other than USA Dollars are estimates based on current exchange rates. We will charge your credit card in USA Dollars on the day your order is shipped, and the conversion to your local currency will be done at the prevailing rate by your credit card issuer.
-
-Shipments outside the USA are declared as “bike parts” for customs purposes and will include the actual amount paid for merchandise and shipping. Jenson USA will not mark your parcel as a “gift”, declare a value lower than the actual price paid, or otherwise prepare false customs information.
 
 By visiting JensonUSA.com you agree to accept the practices described in this Privacy Policy.
 
@@ -42,4 +36,16 @@ We will release personally identifiable information to third parties and organiz
 
 Our Web site protects the security of personal information you transmit to us by using Secure Sockets Layer (SSL) software, which encrypts information you input. We do not reveal your credit card number when we confirm your order. In order to protect against unauthorized access to your account you should sign off when you finish visiting our site.
 
-© 2010 JensonUSA - All rights reserved.
+© 2011 JensonUSA - All rights reserved. 
+
+close window
+
+Prices shown in currencies other than USA Dollars are estimates based on current exchange rates. We will charge your credit card in USA Dollars on the day your order is shipped, and the conversion to your local currency will be done at the prevailing rate by your credit card issuer.
+
+Shipments outside the USA are declared as “bike parts” for customs purposes and will include the actual amount paid for merchandise and shipping. Jenson USA will not mark your parcel as a “gift”, declare a value lower than the actual price paid, or otherwise prepare false customs information.
+
+close window
+
+Get free shipping with your $150 purchase today when you choose Economy Shipping at checkout. Please note this offer is only available to shipping addresses in the 48 continental United States, and oversize charges still apply on some heavy/large items.
+
+Additionally, items marked “« Eligible for free shipping! »” ship free with no minimum.
