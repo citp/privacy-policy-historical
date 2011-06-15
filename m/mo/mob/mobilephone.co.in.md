@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobilephone.co.in privacy policy that was archived on 2010-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100831021416id_/http%3A//www.mobilephone.co.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobilephone.co.in privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615230804id_/http%3A//www.mobilephone.co.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MobilePhone.co.in
 
