@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the life360.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123213623id_/http%3A//www.life360.com/privacy_policy/loggedout) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the life360.com privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615171640id_/http%3A//www.life360.com/privacy_policy/loggedout) for the most accurate reproduction.*
 
 # Life360 : Privacy Policy
 
@@ -8,9 +8,7 @@ Life360 is committed to protecting your privacy. This privacy policy describes h
 
 **TRUSTe**
 
-Life360 is a Participant in the TRUSTe Privacy Seal Program. TRUSTe is an independent organization whose mission is to advance privacy and trust in the networked world. This website has agreed to have its privacy practices monitored for compliance by TRUSTe.
-
-If you have questions or concerns regarding this policy, you should first contact us at [admin@life360.com](mailto:admin@life360.com). If you do not receive acknowledgment of your inquiry, or if your inquiry has not been satisfactorily addressed, you should then contact [TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with the website to resolve your concerns.
+Life360 has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software or the collection of PII on mobile phones. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [support@life360.com](mailto:support@life360.com). If you are not satisfied with our response you can contact [TRUSTe here.](http://watchdog.truste.com/pvr.php?page=complaint)
 
 **Collection and Use of Personal Information**
 
@@ -62,7 +60,7 @@ Our shopping cart is hosted by our e-commerce solutions provider. They host our 
 
 **Choice/Opt-Out**
 
-You may opt-out of receiving our newsletter or marketing emails from us by following the unsubscribe instructions included in each newsletter or marketing email or you can contact us at [admin@life360.com](mailto:admin@life360.com).
+You may opt-out of receiving our newsletter or marketing emails from us by following the unsubscribe instructions included in each newsletter or marketing email or you can contact us at [support@life360.com](mailto:support@life360.com).
 
 **Cookies and Other Tracking Technologies**
 
@@ -91,7 +89,21 @@ We or our third party service provider may use web beacons in some of our emails
 
 **Correcting and Updating Your Personal Information**
 
-To review and update your personal information to ensure it is accurate, contact us at [admin@life360.com](mailto:admin@life360.com).
+To review and update your personal information to ensure it is accurate, contact us at [support@life360.com](mailto:support@life360.com).
+
+**Flash LSOs**
+
+We use local shared objects, also known as Flash cookies, to store your preferences such as volume control or high game score, or display content based upon what you view on our site to personalize your visit. Third Parties, with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity, use Flash cookies to collect and store information.
+
+Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored. Cookie management tools provided by your browser will not remove Flash cookies. To learn how to manage privacy and storage settings for Flash cookies [click here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118): 
+
+**Links to Other Web Sites**
+
+Our Site includes links to other Web sites whose privacy practices may differ from those of Life360. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit.
+
+**Updating/Accessing/Amending/Correcting Personally Identifiable Information**
+
+If your personally identifiable information changes, or if you no longer desire our service, you may [correct, update, amend, delete/remove or deactivate it] by making the change on our member information page [or by emailing our Customer Support at [support@life360.com](mailto:support@life360.com)]
 
 **Widgets**
 
@@ -99,11 +111,15 @@ Our website includes Widgets, which are interactive mini-programs that run on ou
 
 Our website offers blogs or community forums to allow you to learn more about us. You should be aware that any personally identifiable information you provide in these areas may be read, collected, and used by others who access them. We are not responsible for any personally identifiable information you choose to submit in blogs, forums, chat areas, instant message services, bulletin boards, or any other publicly accessible service or website.
 
+**Data Retention**
+
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [support@life360.com](mailto:support@life360.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+
 **Security**
 
-When we collect personal information directly from you, we follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. If you have any questions about security on our website, you can contact us at [admin@life360.com](mailto:admin@life360.com).
+When we collect personal information directly from you, we follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. If you have any questions about security on our website, you can contact us at [support@life360.com](mailto:support@life360.com).
 
-In order to make a purchase from us, you must use our shopping cart provider to finalize and pay for your order. Its privacy statement and security practices will also apply to your information. We encourage you to read that privacy statement before providing your information.
+In order to make a purchase from us, you must use our shopping cart provider to finalize and pay for your order. Its privacy statement and security practices will also apply to your information. If you use our shopping cart, the transmission of sensitive information collected on our order form is encrypted using secure socket layer technology (SSL). If you choose to use a third party payment option to pay for your order, its privacy statement and security practices will apply to your information. We encourage you to read that privacy statement before providing your information.
 
 **Notification of Privacy Statement Changes**
 
@@ -116,5 +132,5 @@ You can contact us by writing or email us at the address below.
 Life360   
 78 1st Street   
 San Francisco, CA 94105   
-[admin@life360.com ](mailto:admin@life360.com)   
+[support@life360.com ](mailto:support@life360.com)   
 415-462-0002 
