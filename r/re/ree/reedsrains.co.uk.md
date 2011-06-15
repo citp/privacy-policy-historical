@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the reedsrains.co.uk privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127010201id_/http%3A//www.reedsrains.co.uk/legal-information/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reedsrains.co.uk privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616015358id_/http%3A//www.reedsrains.co.uk/legal-information/privacy-statement) for the most accurate reproduction.*
 
 # Reeds Rains | Legal Information - Estate Agents and Letting Agents
 
-Reeds Rains is committed to protecting your privacy. This Privacy Policy forms part of our [Legal Information](https://web.archive.org/web/20101127010201id_/http%3A//www.reedsrains.co.uk/legal-information/legal-information.shtml) and sets out how Reeds Rains handles data which identifies you.
+Reeds Rains is committed to protecting your privacy. This Privacy Policy forms part of our [Legal Information](https://web.archive.org/web/20110616015358id_/http%3A//www.reedsrains.co.uk/legal-information/legal-information.shtml) and sets out how Reeds Rains handles data which identifies you.
 
 ###  About Us
 
@@ -22,6 +22,10 @@ We may contact you by post, email, telephone or fax for these purposes. If you d
 ###  On Registration
 
 Where you register with us you provide your name, address, email address and other contact details and they are available to you, most of which are capable of being amended by you through the website. 
+
+### Email matches
+
+We send out an email to buyers containing properties that match your search criteria to the latest email address you supplied to us. To opt out of receiving these a customer can follow the unsubscribe instructions on these emails.
 
 ###  Site Monitoring
 
@@ -89,7 +93,7 @@ There is no guarantee that any e-mail you send will be received by us or that th
 
 ###  Regulatory
 
-Reeds Rains Limited is an appointed representative of Openwork which is authorised by the Financial Services Authority. 
+Reeds Rains Estate Agents is a trading name of Reeds Rains Limited, an Appointed Representative of First Complete Limited which is authorised and regulated by the Financial Services Authority for mortgage and non-investment insurance advice only. 
 
 ###  Applicable Law
 
