@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the boomerang.com.au privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218095407id_/http%3A//www.omg.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boomerang.com.au privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615083810id_/http%3A//www.omg.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | OMG
 
-Last updated: 29 June 2009
+Last updated: 4 February 2010
 
-**Introduction**
+#### Introduction
 
 This Privacy Policy applies to this website which is operated by Online Marketing Group Pty Limited (ABN 14 116 080 043) or one of its subsidiary companies (the “ **Website** ”).
 
@@ -17,11 +17,11 @@ In this Privacy Policy,
 
 Any information that you provide through this Website may be collected and used by us, governed by this privacy policy. This statement sets out our policies relating to the collection and use of your personal information. It applies to your conduct on this Website. These policies are in addition to the Terms & Conditions governing the Website and should be read in conjunction with these Terms & Conditions. You must not use this Website if you do not accept this Privacy Policy.
 
-**Your personal information is important to us**
+#### Your personal information is important to us
 
 We recognise that your privacy is very important and that you have a right to control personal information. We know that providing personal information is an act of trust and we take that seriously. Personal information is information or an opinion about an individual whose identity is apparent or can reasonably be ascertained. It includes all personal information regardless of its source.
 
-**How we collect information about you**
+#### How we collect information about you
 
 Whenever you visit this Website, our servers will automatically record information about your usage of this Website, such as the time of the visit, its duration and the pages you visit. This is to assist us in improving this Website and to ensure that advertisements on this Website are most directly relevant to your interests. In these instances, the information we collect about you remains anonymous.
 
@@ -34,7 +34,7 @@ Collection of some of your personal information is essential for completion of s
 
 
 
-The personal information we collect from you may include your name, postal address, email address, date of birth, and in some instances, your financial information, or other information considered necessary for any request, order or application process you may be undertaking.
+The personal information we collect from you may include your name, postal address, email address, date of birth, phone number, mobile phone number and in some instances, your financial information, or other information considered necessary for any request, order or application process you may be undertaking.
 
 We may also collect personal information:
 
@@ -50,20 +50,21 @@ No matter how your personal information is collected, it is dealt with by us in 
 
 If you choose not to provide personal information to us, we may not be able to provide you with the products and services you require, or a high level of service.
 
-**Using and Disclosing Personal Information**
+#### Using and Disclosing Personal Information
 
 We may use your personal information in order to:
 
   1. verify your identity;
-  2. provide our products and services to you, including our directory listing services and advertising services;
-  3. administer and manage those products and services, including charging, billing and collecting debts;
+  2. provide our products and services to you, including our directory listing services, lead generation services and advertising services;
+  3. administer and manage those products and services, including notifications, charging, billing and collecting debts;
   4. enter into contracts with you;
   5. assist you to subscribe to our products and services;
   6. make changes to your profile;
   7. respond to any queries or feedback you may have;
   8. help us improve our products and services;
-  9. conduct appropriate checks for creditworthiness and for fraud; and
-  10. prevent and detect any misuse of, or fraudulent activities involving the Website.
+  9. provide relevant marketing information, including promotions or special offers;
+  10. conduct appropriate checks for creditworthiness and for fraud; and
+  11. prevent and detect any misuse of, or fraudulent activities involving the Website.
 
 
 
@@ -85,7 +86,7 @@ We may also disclose your personal information if it is:
 
 Where your personal information is disclosed, we will seek to ensure that the information is held, used or disclosed consistently with the National Privacy Principles and other applicable privacy laws and codes.
 
-**Data Security – Protecting Your Personal Information**
+#### Data Security – Protecting Your Personal Information
 
 We store information in different ways, including in paper and electronic format. The security of your personal information is important to us and we take reasonable steps to protect it from misuse and loss and unauthorised access, modification or disclosure. Some of the ways we do this are:
 
@@ -99,7 +100,7 @@ We store information in different ways, including in paper and electronic format
 
 However, we will not be held responsible for events arising from unauthorised access to your personal information.
 
-**Our use of cookies**
+#### Our use of cookies
 
 Cookies are pieces of information that a website transfers to your computer’s hard disk for record keeping purposes. Most web browsers are set to accept cookies. However, if you do not wish to receive any cookies, you may set your browser to refuse them. In some instances this may mean you will not be able to take full advantage of parts of this Website.
 
@@ -118,42 +119,36 @@ This aggregate, non-personal information is collated and provided to us to assis
 
 Pages on this Website may be coded with tracking software. This is transparent to the user, as the software makes use of an invisible image (via Javascript) or an invisible Java Applet, at the bottom of the web page. This software stores a cookie in your browser, which contains a unique identifier. This enables tracking of the number of unique visitors to this Website. In no way does this unique identifier identify a user personally. We do not and will not marry any data collected by independent tracking software with any personal information collected on the website.
 
-**Advertisements**
+#### Advertisements
 
 Some advertisements (such as “banner” advertisements) that you see displayed on this Website are delivered on our behalf by third party advertising companies. No personal data, for example your name, address, email address or telephone number are used during the course of serving our advertising, but, on our behalf, our third party advertisers may place or recognise a unique cookie on your browser. This cookie does not collect personal data about you nor is it linked to any personal data about you.
 
-**What happens on links to other websites**
+#### What happens on links to other websites
 
 We provide links to websites which are not operated by us. You may be linked to websites which are not operated by us when you click on a URL, hyperlink, an “Apply” button or “More information” link. These linked sites are not under our control and we do not accept responsibility for the conduct of companies linked to this Website. Before disclosing your personal information on any other website, including as part of any application process for a particular product or service, we advise you to read the terms and conditions and privacy policy of that website.
 
-**What about information I provide in public areas such as ratings, reviews or forums?**
+#### What about information I provide in public areas such as ratings, reviews or forums?
 
 Any information you post on the Website such as ratings, reviews and posts on bulletin boards and/or posts or communications in chat areas of the Website becomes public information by its nature. While we strive to protect and respect your privacy, we cannot guarantee the security of any information you disclose in these areas.
 
-**What else should I know about internet privacy?**
+#### What else should I know about internet privacy?
 
 Remember to close your browser when you have finished your user session. This is to ensure that others cannot access your personal information and correspondence if you share a computer with someone else or are using a computer in a public place like a library or internet cafe. You as an individual are responsible for the security of and access to your own computer.
 
 Whenever you voluntarily disclose personal information over the internet this information can be collected and used by others. Therefore, if you post personal information in publicly accessible online forums, you may receive unsolicited messages from other parties in return. Ultimately, you are solely responsible for maintaining the secrecy of your username and passwords and any account information.
 
-**Help us to ensure we hold accurate information**
+#### Help us to ensure we hold accurate information
 
-We take all reasonable precautions to ensure that the personal information we collect, use and disclose is accurate, complete and up to date. However, the accuracy of that information depends to a large extent on the information you provide. Therefore, we recommend that you:
+We take all reasonable precautions to ensure that the personal information we collect, use and disclose is accurate, complete and up to date. However, the accuracy of that information depends to a large extent on the information you provide. Therefore, we recommend that you let us know if there are any errors in your personal information; and keep us up to date with changes to personal information such as your name or address, by contacting us at [privacy@omg.com.au](mailto:privacy@omg.com.au)
 
-let us know if there are any errors in your personal information; and
+#### Resolving Your Privacy Issues
 
-keep us up to date with changes to personal information such as your name or address,
+If you have any issues you wish to raise with us, or would like to discuss any issues about our Privacy Policy, then you are able to do so by emailing us at privacy@omg.com.au. We will endeavour to respond to your request within seven days. If investigation is required we will keep you advised of progress.
 
-by contacting us at [privacy@omg.com.au](mailto:privacy@omg.com.au)
-
-**Resolving Your Privacy Issues**
-
-If you have any issues you wish to raise with us, or would like to discuss any issues about our Privacy Policy, then you are able to do so by emailing us at privacy@omg.com.au. We will endeavour to respond to your request within seven days.  If investigation is required we will keep you advised of progress.
-
-**Changes to the Privacy Policy**
+#### Changes to the Privacy Policy
 
 We will be adding new pages and features to this Website. We will continuously review our Privacy Policy to ensure that it protects your privacy while supporting your user experience on this Website. We encourage you to keep visiting our Privacy Policy to see if any updates have been made.
 
-**Further information on privacy**
+#### Further information on privacy
 
 For more information about privacy issues in Australia, visit the Australian Federal Privacy Commissioner’s website (www.privacy.gov.au).
