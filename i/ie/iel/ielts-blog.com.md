@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ielts-blog.com privacy policy that was archived on 2010-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101115004838id_/http%3A//www.ielts-blog.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ielts-blog.com privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615155028id_/http%3A//www.ielts-blog.com/privacy) for the most accurate reproduction.*
 
 # Privacy | IELTS-Blog
 
