@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the see-now.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227180817id_/http%3A//www.see-now.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the see-now.com privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615165136id_/http%3A//www.see-now.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,6 +6,15 @@ The following discloses our information gathering and dissemination practices fo
 
 **What does this Privacy Policy cover?**  
 This Privacy Policy applies to collection, use, storage and disclosure of information by see-now.com. If there are any exceptions, see-now.com will clearly disclose them prior to collecting any information, and will give you an opportunity to choose not to participate or provide the information. see-now.com provides links to web sites operated by third parties, and also provides search results and similar Services to third parties for display on their own web sites or applications. see-now.com is not responsible for the information collection or privacy practices or the content of those third party web sites or applications.
+
+ **Online Advertising  
+**We use third-party advertising companies to serve ads when you visit our Website.  
+These companies may use information (not including your name, address email  
+address or telephone number) about your visits to this and other Web sites in  
+order to provide advertisements about goods and services of interest to you. If  
+you would like more information about this practice and to know your choices about  
+not having this information used by these companies,  
+[ http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp)
 
 **What information does see-now.com collect and how is it used?**  
 see-now.com may collect any or all of the following three types of information: (a) traffic or click-through data, (b) cookies, or (c) contact information and other personally identifying information. see-now.com's collection and use of each type of data is described below, as well as the ways (if any) in which the data may be shared with third parties.
