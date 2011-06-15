@@ -1,12 +1,9 @@
-> *The following text is extracted and transformed from the fuckbook.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222111405id_/http%3A//www.fuckbook.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fuckbook.com privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616003751id_/http%3A//www.fuckbook.com/privacy.php) for the most accurate reproduction.*
 
 # Fuckbook - Privacy Policy
 
-  | 
+We are committed to protecting our users' privacy
 
-We are committed to protecting our users' privacy!
-
-  
 We at Fuckbook offer this Privacy Policy ("Policy") to inform Users of the Fuckbook ("Website") how we define, collect, use and disclose the personal information you provide to us. We reserve the right, at our sole discretion, to alter this Policy at any time. Alterations shall become effective immediately once posted on the Website. We will notify you of a substantive change to this Policy by posting a notice of such substantial change on the home page of the Website and we may also email you to notify you of such changes. Your continued use of the Website following the posting of changes and/or modifications will constitute your acceptance of the revised privacy policy.  
 By providing personal information to us, and by using the Website or Service, you consent to our collection, use and disclosure of your personal information in accordance with this Policy.  
 Please read this Policy carefully and save it. If you do not agree with the terms of this Policy, you should leave the Website and discontinue use of the Service immediately. In addition, if you are an individual who wishes to become a Registered User or Member, you must read this Policy and indicate your acceptance of its terms by following the instructions on the "[REGISTRATION]" page and check the box labelled "I have read and agree to the Privacy Policy and Terms and Conditions. I confirm I have reached the age of majority in my jurisdiction."   
@@ -120,5 +117,3 @@ If you have any further questions or concerns about Fuckbook's privacy policies 
   
 **18). Dispute Resolution**  
 Any claim or cause of action you may have arising from, connected with, or relating to this privacy policy or Fuckbook's handling of your personal information, or any related matters must be commenced within six (6) months after the claim or cause of action arises, after which time the claim or cause of action is forever barred, regardless of any statute or law to the contrary. 
-
-|  
