@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the 7tune.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220170640id_/http%3A//www.7tune.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 7tune.com privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615113531id_/http%3A//www.7tune.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : 7Tune.com
-
-  
-
 
 PRIVACY POLICY for www.7tune.com  
 At 7Tune we are dedicated to safeguarding and preserving your privacy when visiting our site or communicating electronically with us. Our Privacy Policy has been provided and approved by “<http://www.legalcentre.co.uk/ecommerce/privacy-policy-template.php>” website privacy policy provider LegalCentre.co.uk.  
