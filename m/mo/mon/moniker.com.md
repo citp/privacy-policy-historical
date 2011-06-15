@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the moniker.com privacy policy that was archived on 2010-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101002122017id_/http%3A//www.moniker.com/privacypolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moniker.com privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615083003id_/http%3A//www.moniker.com/privacypolicy.jsp) for the most accurate reproduction.*
 
 # Domain Names Auction Privacy - Moniker SnapNames
 
-Moniker Online Services, LLC LLC (together with its subsidiaries, "Moniker") is committed to protecting the privacy of your information. We recognize that privacy is of utmost importance, and operate our company with protecting your sensitive personal information in mind. As a user of this website and its subpages (collectively, the "Site") or the services ("Services") provided by Moniker, this Privacy Policy is intended to describe for you:
+**December 17, 2010**
+
+Moniker Online Services, LLC (together with its subsidiaries, "Moniker") is committed to protecting the privacy of your information. We recognize that privacy is of utmost importance, and operate our company with protecting your sensitive personal information in mind. As a user of this website and its subpages (collectively, the "Site") or the services ("Services") provided by Moniker, this Privacy Policy is intended to describe for you:
 
   * the information we collect about you,
   * how that information may be used, 
@@ -12,7 +14,7 @@ Moniker Online Services, LLC LLC (together with its subsidiaries, "Moniker") is 
 
 
 
-We encourage you to read this Privacy Policy carefully when using our Site or Services or transacting business with us. By using our Site or Services, you are accepting the practices described in this Privacy Policy. If you have questions or concerns regarding this Privacy Policy, please feel free to contact us through our Site: www.moniker.com. You can also email us at support@Moniker.com, or send mail to Moniker Online Services, LLC, Attn: Privacy, 20 SW 27th Ave. Suite 201, Pompano Beach, Florida 33069
+We encourage you to read this Privacy Policy carefully when using our Site or Services or transacting business with us. By using our Site or Services, you are accepting the practices described in this Privacy Policy. If you have questions or concerns regarding this Privacy Policy, please feel free to contact us by email at support@moniker.com, or by mail at Moniker Online Services, LLC, Attn: Privacy, 20 SW 27th Ave. Suite 201, Pompano Beach, Florida 33069.
 
 ### Information Collection
 
@@ -22,9 +24,9 @@ We may collect personal information that can identify you such as your name and 
 
 __User Provided Information.__ We may collect and store any personal information you enter on our Site or provide to us in some other manner including when you open up an account with us and use our registrar services. This includes identifying information (such as your name, company name, physical address, e-mail address, telephone number, fax number, credit card number, expiration date and billing address), and any other personal information you choose to provide while using our Site or the Services.
 
-__Third Party List Information.__ We may also obtain both personal and non-personal information about you from third party data gathering sources. We may match this third-party collected information with the personally identifying information that you provide to us. When obtaining this information from third parties, Moniker seeks assurances from the third parties that it has the right to provide the information to us.
+__Third Party List Information.__ We may also obtain both personal and non-personal information about you from third party data gathering sources. We may match this third-party collected information with the personally identifying information that you provide to us. When obtaining this information from third parties, SnapNames seeks assurances from such third parties that they have the right to provide the information to us.
 
-__Cookies, Web Beacons, and Other Information Collection Technology.__ We use various technologies to collect information from your computer and about your activities on our Site. For example, we collect and store non-personally identifying information through cookies, log files, clear gifs ("web beacons"), and third parties to create a profile of our users that details the users' viewing preferences.
+__Cookies, Web Beacons, and Other Information Collection Technology.__ We and our business partners, such as advertisers, may use various technologies to collect information from your computer and about your activities on our Site. For example, we and our business partners may collect and store non-personally identifying information through technologies such as cookies, log files, clear gifs (also known as "web beacons"), and other tracking pixels and third parties to help determine user viewing preferences for advertising and other purposes.
 
 _Log Files._ Technical information from your browser is automatically collected when you visit our Site. This information includes your IP address, your browser type, operating system, access times, the content of any undeleted cookies that your browser previously accepted from us (see "Cookies" below), and the referring website address.
 
@@ -32,7 +34,7 @@ _Cookies._ A cookie is a piece of data stored on a user's computer that tracks n
 
 _Web Beacons._ We, or our advertisers, may use standard Internet technology such as web beacons (or "clear gifs") and other similar technologies, to gather aggregate, non-personally identifiable information about your use of our Site. We also may include web beacons in promotional e-mail messages or newsletters to determine whether messages have been opened and acted upon. This allows us to gauge the effectiveness of our marketing efforts and the quality of our Site.
 
-_Information collected by third-parties._ We and our business partners, such as advertisers, may use tracking technologies, such as cookies, to collect information about users who view or interact with these advertisements and connect to other websites. This information allows us and our business partners to deliver targeted advertisements and gauge their effectiveness. Please note that we do not have access to or control over third parties' cookies used on our Site, and this policy does not govern the use of cookies by these third parties. Some of these third-party advertising companies may be advertising networks that are members of the Network Advertising Initiative, which offers a single location to opt out of ad targeting from member companies.
+_Information collected by third-parties._ We and our business partners, such as advertisers, may use tracking technologies, such as cookies and tracking pixels, to collect information about users who view or interact with these advertisements and connect to other websites. This information allows us and our business partners to deliver targeted advertisements and gauge their effectiveness. Please note that we do not have access to or control over third parties' cookies used on our Site, and this policy does not govern the use of cookies by these third parties. Some of these third-party advertising companies may be advertising networks that are members of the Network Advertising Initiative, which offers a single location to opt out of ad targeting from member companies at <http://www.networkadvertising.org/managing/opt_out.asp>. 
 
 __Sponsor or Link Websites.__ Links or sponsor websites may be presented in a manner that allows us to keep track of whether the links or sponsor sites have been used. We use this information to improve the quality of our Site, to track advertising, and to personalize your online experience. Please be aware, however, that we are not responsible for the privacy practices of other websites.
 
@@ -73,7 +75,7 @@ In addition, you acknowledge and agree that, Moniker may make available and use 
 
 __Communications From This Website.__ Unless you have opted out of these features, we may use your information in a variety of ways to communicate with you, such as through email, newsletters, RSS feeds, service announcements, or for customer service.
 
-__Personal Information.__ Unless you have opted out, we may rent, sell, or share any of your information, personal or otherwise, with third parties, including without limitation for the following purposes:
+__Personal Information.__ Unless you have opted out where available, we may rent, sell, or share any of your information, personal or otherwise, with third parties, including without limitation for the following purposes:
 
 _Service providers:_ We may share your personal information, alone or in combination with non-personal information, with third party service providers in connection with your request for Services on our Site. These service providers may include credit bureaus, financial institutions, marketing and customer services firms, credit card payment processors, as well as companies that support contests, sweepstakes, surveys, or other features offered through our Site, or that provide business analysis or website support. These service providers may have access to personal information needed to perform their functions, which may include using the information to contact you.
 
@@ -94,6 +96,8 @@ __Links.__ This Site contains links to other websites, including through adverti
 **Choice/Opt-Out**
 
 We give our users the opportunity to "opt-out"of having their information used for purposes not directly related to our Site at the point where we ask for the information. Please be aware that this may result in our not being able to provide certain services to you that require us to share information with third parties. If you choose to receive communications from us but later wish to discontinue receiving communications or our Services, you can opt-out by any of the following means:
+
+Send an email to: [support@Moniker.com](mailto:support@Moniker.com).
 
 Send a written request to: Moniker Online Services, LLC, Attn: Opt-Out, 20 SW 27th Ave. Suite 201, Pompano Beach, Florida 33069.
 
