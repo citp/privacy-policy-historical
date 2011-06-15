@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thequiltshow.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215134223id_/http%3A//www.thequiltshow.com/os/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thequiltshow.com privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615101948id_/http%3A//www.thequiltshow.com/os/privacy.php) for the most accurate reproduction.*
 
 # Privacy Notice
 
