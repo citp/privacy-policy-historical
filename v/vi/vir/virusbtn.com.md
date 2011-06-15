@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virusbtn.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121141725id_/http%3A//www.virusbtn.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virusbtn.com privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615113435id_/http%3A//www.virusbtn.com/about/privacy) for the most accurate reproduction.*
 
 # Virus Bulletin : Privacy statement
 
