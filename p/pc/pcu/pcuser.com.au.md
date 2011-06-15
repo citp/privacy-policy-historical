@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcuser.com.au privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126094629id_/http%3A//www.pcuser.com.au/pcuser/hs2.nsf/dir/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcuser.com.au privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615032849id_/http%3A//www.pcuser.com.au/pcuser/hs2.nsf/dir/Privacy) for the most accurate reproduction.*
 
 # pcuser.com.au - home of tech help on the net
 
