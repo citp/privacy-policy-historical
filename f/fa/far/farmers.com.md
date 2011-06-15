@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the farmers.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227175240id_/http%3A//www.farmers.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the farmers.com privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615234957id_/http%3A//www.farmers.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Farmers Insurance
 
