@@ -1,240 +1,145 @@
-<!--The following is the downloaded HTML source of the huddle.net privacy policy that was archived on 2010-09-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100913010401id_/http%3A//www.huddle.net/about/privacy-statement) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the huddle.net privacy policy that was archived on 2011-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110615095653id_/http%3A//www.huddle.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html lang="en"><head>
-<title>
-Privacy statement ~ 
-About ~ 
-Huddle
+<!DOCTYPE html><html dir="ltr" lang="en-US"><head>
+<meta charset="UTF-8">
+<meta name="keywords" content=" file sharing, intranet, extranet, online project management, sharepoint alternative, ftp alternative, online file storage, online workspace, online file sharing, file storage">
+<meta name="description" content=" Huddle the leading file storage, project management &amp; collaboration software. Manage people, projects and information inside and outside your business.">
+<meta property="og:image" content="http://www.huddle.com/wp-content/themes/huddlesite/images/huddle_mark.png">  
+
+<title>Privacy - Huddle
 </title>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta name="description" content="Huddle is a network of online workspaces that brings project management software, online collaboration and document sharing together.">
-<meta name="keywords" content="project management software, online collaboration, document sharing, document management">
-<!-- START CSS -->
-<link rel="stylesheet" media="screen, projection" type="text/css" href="/css/common.css">
-<link rel="stylesheet" media="screen, projection" type="text/css" href="/css/sections/about.css">
-<!--[if IE 6]>
-<link rel="stylesheet" href="/css/ie6.common.css" type="text/css" media="screen, projection">
-<![endif]-->
-<!--[if IE]>
-<link rel="stylesheet" href="/css/ie.common.css" type="text/css" media="screen, projection">
-<![endif]-->
-<!-- END CSS -->
-<!-- START JAVASCRIPT -->
-<script type="text/javascript" src="/js/jquery.js"></script>
-<script type="text/javascript" src="/js/common.js"></script>
-<script type="text/javascript" src="/js/sections/about.js"></script>
+
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="shortcut icon" href="http://www.huddle.com/wp-content/themes/huddlesite/images/favicon.ico" type="image/vnd.microsoft.icon"> 
+
+<link rel="stylesheet" type="text/css" media="all" href="http://www.huddle.com/wp-content/themes/huddlesite/style.css?1306110234">
+
+
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js" type="text/javascript"></script> 
+<script src="http://www.huddle.com/wp-content/themes/huddlesite/js/combined.js?2505110102" type="text/javascript"></script> 
+<script src="http://www.huddle.com/wp-content/themes/huddlesite/js/global.js?0903110400" type="text/javascript"></script> 
+
+ 
+
+	
 <script type="text/javascript">
-		// setting the accept language HTTP header value
-		// in client-side JavaScript from PHP
-		var acceptLanguage = '';
-	</script>
+	$(document).ready(function() {
+        quickSecondaryMenuFix();
+        prepareShowHideLinks();
+        prepareExpandText();
+        
+   		var totalitems = 12; // number of total items in your carousel, you can probably detect it with jquery and replace this 
+		var teasersize = 4;  // no of list items
+		var scrollby = 3;
+		
+            function mycarousel_initCallback(carousel) {
+                    carousel.clip.hover(function() {
+                            carousel.stopAuto();
+                    }, function() {
+                            carousel.startAuto();
+                    });
+					
+					jQuery('.jcarousel-control').hover(function() 
+					{
+                            carousel.stopAuto();
+                    }, function() {
+                            carousel.startAuto();
+                    });
+					jQuery('.jcarousel-control a').bind('click', function() {
+						prev_item_text_val = jQuery(this).prev().text();
+						item_text_val = jQuery(this).text();
+						target_item=0;
+						if(item_text_val == 1) { // if first item 
+							target_item = (item_text_val);
+						} else {
+							target_item = (parseFloat(prev_item_text_val)*scrollby)+1;
+						}
+						carousel.scroll(jQuery.jcarousel.intval(target_item));
+						start: target_item;
+       					 return false;
+    				});
+            };
+            function highlight(carousel,objectli,liindex,listate){
+                    actindex = teasersize - (liindex % teasersize); // calculate which item this corresponds to after first scroll
+                    jQuery('#external a').removeAttr("class","selected");
+                    jQuery('#external a#link'+ actindex).attr("class","selected");
+            };
+            function removehighlight(carousel,objectli,liindex,listate){
+                    actindex = teasersize - ((liindex % teasersize));
+                    //jQuery('#external a#link'+ actindex).removeAttr("class","selected");
+            };
+			jQuery("#logo-carousel").jcarousel({
+					initCallback: mycarousel_initCallback,
+					wrap: 'circular',
+					scroll: scrollby,
+					size: totalitems, // previously set in var
+					auto: 2,
+					itemVisibleInCallback:  highlight,
+					//itemVisibleOutCallback: removehighlight,
+					buttonNextHTML: null,
+					buttonPrevHTML: null
+			});
+});
+	
+</script> 
+
+<!-- Begin Google Analytics Site Tag -->
 <script type="text/javascript">
-		$u.setLanguageAndCulture();
-	</script>
-<!-- END JAVASCRIPT -->
-<link rel="shortcut icon" href="/favicon.ico">
-<link rel="alternate" type="application/rss+xml" title="Huddle Blog" href="http://blog.huddle.net/rss/">
-<link rel="alternate" type="application/rss+xml" title="Huddle Press Releases" href="http://www.huddle.net/rss/?section=press">
-<link rel="Home Page" href="/" title="AccessKey: 1, Home Page">
-<link rel="Contact Page" href="/contact/" title="AccessKey: 9, Contact Page">
-<!--link rel="Skip to content" href="#content/" title="AccessKey: S, Skip to content" /-->
-<script type="text/javascript" async="" src="https://i.kissmetrics.com/i.js"></script><script type="text/javascript" async="" src="https://s3.amazonaws.com/scripts.kissmetrics.com/64bf5d17759eb42274da0dbe91ef831d166837f7.1.js"></script></head>
-<body id="about">
-<script type="text/javascript">var _kmq = _kmq || []; (function(){function _kms(u,d){if(navigator.appName.indexOf("Microsoft")==0 && d)document.write("<scr"+"ipt defer='defer' async='true' src='"+u+"'></scr"+"ipt>");else{var s=document.createElement('script');s.type='text/javascript';s.async=true;s.src=u;(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(s);}}_kms('https://i.kissmetrics.com/i.js');_kms('http'+('https:'==document.location.protocol ? 's://s3.amazonaws.com/' : '://')+'scripts.kissmetrics.com/64bf5d17759eb42274da0dbe91ef831d166837f7.1.js',1);})();</script>
-<div id="frame">
-<div id="masthead">
-<!-- p class="hide"><a href="#content" accesskey="s">Skip to content</a></p -->
-<div class="logo"><a href="/" accesskey="1">Huddle ~ The Worlds Workspace!</a></div>
-<div id="sec-nav">
-<ul>
-<li><a href="http://blog.huddle.net/">Blog</a></li>
-<li><a href="/apps-and-extras/">Apps</a></li>
-<li><a href="/developers/">Developers</a></li>
-<li><a href="http://support.huddle.net/">Support</a></li>
-<li><a href="/about/webinars/"><strong>register for a webinar</strong></a></li>
-<li class="final"><a href="http://my.huddle.net" class="btn btn-small"><span><strong>Login</strong></span></a></li>
-</ul>
-<p class="contact">Call us on [UK] <strong>+44 08709 772 212</strong> [US] <strong>(415) 376 0870</strong> or email sales@huddle.net</p>
-</div>
-</div>
-<ul id="main-nav">
-<li><a href="/what-is-huddle/" id="tab1">What is Huddle?</a></li>
-<li><a href="/take-the-tour/" id="tab2">Take the Tour</a></li>
-<li><a href="/business-solutions/" id="tab4">Business solutions</a></li>
-<li><a href="/about/" id="tab3">About us</a></li>
-<li><a href="/price-plans/" id="tab5">Pricing &amp; Sign Up</a></li>
-</ul>
-<div id="panel-top"></div>
-<div id="content">
-<div id="cols">
-<div id="col-main">
-<h1>Privacy&nbsp;statement</h1>
-<p>Ninian Solutions Limited trading as Huddle is committed to preserving the privacy of all visitors to huddle.net. Please read the following privacy policy to understand how We use and protect the information that You provide to Us. Please also ensure that You have read and understood Our Terms of Use which You can find <a href="/about/terms-and-conditions/">here</a>. Capitalized terms used in this Privacy Policy are defined in the <a href="/about/terms-and-conditions/">Terms of Use</a>.</p>
-<p><strong>1.Information that we collect from&nbsp;you</strong></p>
-<p>1.1 If You decide to register with and use huddle.net You will be asked to provide certain information about yourself including Your name and contact details. By submitting Your personal information, You consent to the collection, use and transfer of your information in accordance with the terms of this privacy&nbsp;policy.</p>
-<p>1.2 We may also collect information about Your usage of the Website and of the Service, as well as information about You, from emails, phone calls or letters that You send to Us or form information that you post on our Website. We will only use any such information in accordance with the terms of this privacy&nbsp;policy.</p>
-<p>1.3 If You are 16 years old or younger You may not register with Us on the Website. If We become aware that You are 16 years old or younger and You have not obtained such permission, We will remove Your personal information from Our records. By entering Your details on the Website You are stating that You are 17 years old or&nbsp;older.</p>
-<p><strong>2. Use of your&nbsp;information</strong></p>
-<p>We will only use Your information for the following&nbsp;purposes:</p>
-<p>a) to enable Us to provide You with access to all parts of the Website and to use the Service and to enable You to download information and materials from the&nbsp;Website; </p>
-<p>b) to contact You with Our newsletter and other email&nbsp;updates;</p>
-<p>c) to make You occasional offers of Huddle products or services or to make You aware of other products or services offered by Us from time to&nbsp;time;</p>
-<p>d) to produce reports, statistics and analysis of the types of people who access the&nbsp;Website;</p>
-<p>e) to contact You for Your views on the Website and to notify You occasionally about important changes or developments to the&nbsp;Website;</p>
-<p>f) to administer, support, improve and develop Our&nbsp;Website.</p>
-<p>2.2 If you change Your mind about being contacted in the future, please let Us know and We will remove You from Our mailing&nbsp;list.</p>
-<p>2.3 We reserve the right to use the name and/or logo of the company you work for in publicity material, advertising or marketing collateral, unless you specifically tell us otherwise. Your name, address details and all other personal information will remain confidential at all&nbsp;times.</p>
-<p><strong>3. Disclosure of your&nbsp;information</strong></p>
-<p>3.1 We do follow strict guidelines in the storage and disclosure of information which You have given us, to prevent unauthorized access. We comply with the laws of the countries from which we&nbsp;operate.</p>
-<p>3.2 Certain personal information that You provide to Us is defined as Sensitive Personal Data by the Data Protection Act 1988. We do not seek any sensitive personal data other than that which is reasonable and necessary for the purposes sought. You are giving Your explicit consent to collect, process, disclose, transfer or store Your Sensitive Personal Data for the purposes of processing orders for goods and&nbsp;services.</p>
-<p>3.4 We do not disclosure Your personal data to any third party except to the extent that we may disclose Your personal data to third parties (whether in the UK or elsewhere) for the purposes of processing orders made by You for goods or services from Us&nbsp;.</p>
-<p>3.5 Please note that this may include the transfer of Your personal data to one or more countries outside the UK&nbsp;.</p>
-<p>3.6 By using the Website You consent to third parties having access to Your personal data, including those outside the European Economic Area (<span class="caps">EEA</span>). You understand and accept that if Your data is disclosed to third parties outside the <span class="caps">EEA</span> those parties may be based in territories that may not have sensitive data protection provisions in law. Every effort will be made to ensure that Your data is processed solely to provide You with a newsletter or other email update, or in connection with a competition/promotion. We will attempt to ensure that Your data is held&nbsp;safely.</p>
-<p>3.7 You agree to keep confidential and not to disclose to any other individual or individuals for all time the user name and password related to Your huddle account. Note that although You set the password, it is Our proprietary information and belongs to Us for all&nbsp;time.</p>
-<p><strong>4.&nbsp;Cookies</strong></p>
-<p>Cookies are small amounts of information which We store on Your computer. We issue cookies to Your computer when You log on to the Website and when You register with the Service. Cookies are necessary for the operation of the Service and therefore, if You set up your computer to reject cookies You will be unable to access the&nbsp;Service.</p>
-<p><strong>5. Security and data&nbsp;retention</strong></p>
-<p>We employ security measures to protect Your information from access by unauthorized persons and against unlawful processing, accidental loss, destruction and damage. We will retain Your information for a reasonable period or as long as the law&nbsp;requires.</p>
-<p><strong>6. Accessing and&nbsp;updating</strong></p>
-<p>You are entitled to see the information held about You and You may ask Us to make any necessary changes to ensure that it is accurate and kept up to date. If You wish to do this, please contact Us. We are entitled by law to charge a fee of £10 to meet Our costs in providing You with details of the information We hold about&nbsp;You.</p>
-<p><strong>7. Changes to our privacy&nbsp;policy</strong></p>
-<p>Any changes to Our privacy policy in the future will be posted to the Website and, where appropriate, through e-mail notification. Please ensure that You are kept up-to-date with any such changes. By using the Service or accessing the Website You agreed to be bound by the most up-to-date version of this&nbsp;Policy.</p>
-<p><strong>8.&nbsp;Contact</strong></p>
-<p>All comments, queries and requests relating to Our use of Your information are welcomed and should be addressed&nbsp;to:</p>
-<p>Ninian Solutions Limited t/a&nbsp;Huddle</p>
-<p>Unit B, Gemini House<br>
-180 Bermondsey Street<br>
-London SE1&nbsp;3TQ</p>
-<p>tel: 0870&nbsp;9772212</p>
-<p>fax: 0870&nbsp;9772212</p>
-<p>email: <a href="mailto:support@huddle.net">support@huddle.net</a></p>
-<p>Reg. No.:&nbsp;05777111</p>
-</div>
-<div id="col-sec">
-<div id="col-sec-top"></div>
-<h2>About Huddle</h2>
-<ul>
-<li>
-<a href="http://www.huddle.net/about/the-company/"><span>The company</span></a>
-</li>
-<li>
-<a href="http://www.huddle.net/about/management-team/"><span>Management team</span></a>
-</li>
-<li>
-<a href="http://www.huddle.net/about/investors/"><span>Investors</span></a>
-</li>
-<li>
-<a href="http://www.huddle.net/about/become-a-partner/"><span>Become a Partner</span></a>
-</li>
-<li>
-<a href="http://www.huddle.net/about/careers/"><span>Careers</span></a>
-</li>
-<li><a href="/press/"><span>Buzz and media center</span></a></li>
-<li>
-<a href="http://www.huddle.net/about/faq/"><span>FAQ</span></a>
-</li>
-<li>
-<a href="http://www.huddle.net/about/privacy-statement/" class="current"><span>Privacy statement</span></a>
-</li>
-<li>
-<a href="http://www.huddle.net/about/terms-and-conditions/"><span>Huddle Customer Terms and Conditions</span></a>
-</li>
-<li>
-<a href="http://www.huddle.net/about/security-statement/"><span>Security statement</span></a>
-</li>
-</ul>
-</div>
-</div>
-</div>
-<div id="footer">
-<p class="contact">Call us on [US] <strong>(415) 376 0870</strong> [UK] <strong>+44 08709 772 212</strong> or email sales@huddle.net</p>
-<p class="copyright">Copyright © 2006 - 2010 Ninian Solutions Ltd</p>
-<ul class="footer-links">
-<li class="first">
-<strong>Company Information</strong>
-<ul>
-<li><a href="/">Huddle homepage</a></li>
-<li><a href="/about/">About us</a></li>
-<li><a href="/contact/">Contact us</a></li>
-<li><a href="/business-solutions/case-studies/">Case studies</a></li>
-<li><a href="/press/">Buzz and media centre</a></li>
-<li><a href="/about/careers/">Careers at Huddle</a></li>
-<li><a href="http://blog.huddle.net/">Blog</a></li>
-<li><a href="http://blog.huddle.net/rss/">RSS feed</a></li>
-</ul>
-</li>
-<li>
-<strong>Site Links</strong>
-<ul>
-<li><a href="/apps-and-extras/">Huddle Apps</a></li>
-<li><a href="/about/become-a-partner/">Become a partner</a></li>
-<li><a href="/affiliate/">Affiliate programme</a></li>
-<li><a href="/about/privacy-statement/">Privacy policy</a></li>
-<li><a href="/about/security-statement/">Data security</a></li>
-<li><a href="/about/terms-and-conditions/">Terms and conditions</a></li>
-</ul>
-</li>
-<li>
-<strong>Share Information</strong>
-<ul>
-<li><a href="/document-management-software/">Document management software</a></li>
-<li><a href="/online-file-storage/">Online file storage</a></li>
-<li><a href="/document-sharing/">Document sharing</a></li>
-</ul>
-</li>
-<li>
-<strong>Work from Anywhere</strong>
-<ul>
-<li><a href="/online-collaboration/">Online collaboration</a></li>
-<li><a href="/phone-conferencing/">Phone conferencing</a></li>
-<li><a href="/collaboration-software/">Collaboration software</a></li>
-<li><a href="/extranets/"> Extranets</a></li>
-</ul>
-</li>
-<li class="last">
-<strong>Project Tools</strong>
-<ul>
-<li><a href="/project-management-software/">Project management software</a></li>
-<li><a href="/free-project-management/">Free project management</a></li>
-</ul>
-</li>
-</ul>
-</div>
-</div>
-<script src="/js/plugins/huddle/jquery.scroller.js" type="text/javascript"></script>
-<script type="text/javascript">
-	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www."); document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-	var pageTracker = _gat._getTracker("UA-467305-3");pageTracker._initData();pageTracker._trackPageview();
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-467305-3']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
 </script>
-<!-- Begin Salesforce Tracking Code, Place immediately before closing </BODY> tag -->
-<script type="text/javascript" src="https://lct.salesforce.com/sfga.js"></script>
-<script type="text/javascript">__sfga();</script>
-<!-- End Salesforce Tracking Code, Place immediately before closing </BODY> tag -->
-<!-- BEGIN: Unica Page Tag -->
-<!-- Copyright 2004-2006 Unica Corporation.  All rights reserved. -->
-<script type="text/javascript" src="/js/ntpagetag.js"></script>
-<noscript>
-<div><img src="http://stats.huddle.net/ntpagetag.gif?js=0" height="1" width="1" alt=""></div>
-</noscript>
-<!-- END: Unica Page Tag -->
-<!-- served by: 222968-WEB01 -->
+<!-- End Google Analytics Site Tag -->
+
+
+<!--[if IE 6]>
+<meta http-equiv="imagetoolbar" content="no" />
+
+<link rel="stylesheet" type="text/css" media="all" href="http://www.huddle.com/wp-content/themes/huddlesite/ie6.css?3103111007" />
+<script src="http://www.huddle.com/wp-content/themes/huddlesite/js/ie6_combined.js?1609100850" type="text/javascript"></script> 
+<script src="http://www.huddle.com/wp-content/themes/huddlesite/js/ie6_global.js?2505110102" type="text/javascript"></script> 
+<![endif]-->
+ 
+<!--[if lte IE 7]>
+
+<script type="text/javascript">
+	$(document).ready(function() {
+		$('#top-nav').find('li').mouseover(function(){
+			$(this).addClass('hover');
+            $(this).siblings().removeClass('hover');
+		}).mouseleave(function(){
+			$(this).removeClass('hover');
+		});
+   });
+</script>
+<![endif]--> 
+
+</head>
+
+
+<body id="privacy">
 
 <!-- SiteCatalyst code version: H.21.
 Copyright 1996-2010 Adobe, Inc. All Rights Reserved
 More info available at http://www.omniture.com -->
-<script language="JavaScript" type="text/javascript" src="/js/s_code.js"></script>
+<script language="JavaScript" type="text/javascript" src="/wp-content/themes/huddlesite/js/s_code.js"></script>
 <script language="JavaScript" type="text/javascript"><!--
 /* You may give each page an identifying name, server, and channel on
 the next lines. */
-s.pageName="about:privacy-statement"
-s.server="222968-WEB01"
-s.channel="www.huddle.net"
+s.pageName="privacy"
+s.server="222969-WEB02"
+s.channel="www.huddle.com"
 s.pageType=""
-s.prop1="about"
-s.prop2="privacy-statement"
+s.prop1="privacy"
+s.prop2=""
 s.prop3=""
 s.prop4=""
 s.prop5=""
@@ -256,9 +161,309 @@ var s_code=s.t();if(s_code)document.write(s_code)//--></script>
 if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
 //--></script><!--/DO NOT REMOVE/-->
 <!-- End SiteCatalyst code version: H.21. -->
-<script type="text/javascript">
-var __ALC_Deployment = 8717;
-document.write(unescape("%3Cscript src='"+document.location.protocol+"//www.activalive.com/app/js/lt.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://www.activalive.com/app/js/lt.js" type="text/javascript"></script>
 
-</body></html>
+	<div id="wrapper">
+    	<div id="master">
+		<div id="header">
+			<div class="container">
+            
+            <div id="header-actions">
+            	<ul class="menu">
+                	<li><span class="icon-phone"></span><strong>US:</strong> 1-415-376-0870<span class="divider">|</span></li>
+                    <li><strong>UK:</strong> 44-08709-772-212<span class="divider">|</span></li>
+                    <li id="header-link-login"><a href="http://my.huddle.net">Customer Login</a></li>
+                </ul>
+            </div>
+											<div id="site-title">
+					<span id="logo">
+						<a href="http://www.huddle.com/" rel="home">Huddle</a>
+					</span>
+				</div>
+                
+                <!-- TOPNAV -->
+        		<ul id="top-nav" class="menu"><li class="menu-item menu-item-type-post_type menu-item-5779"><a href="http://www.huddle.test/this-is-huddle/">This is Huddle</a><span class="divider">|</span>
+                    <div class="sub-menu-container">
+                    	<span class="sub-menu-header"></span>
+                        <ul class="sub-menu">
+                         <li class="page_item page-item-26"><a href="http://www.huddle.com/this-is-huddle/overview/" title="Product overview">Product overview</a></li>
+<li class="page_item page-item-6851"><a href="http://www.huddle.com/this-is-huddle/adoption-guarantee/" title="Adoption Guarantee">Adoption Guarantee</a></li>
+<li class="page_item page-item-6120"><a href="http://www.huddle.com/this-is-huddle/why-choose-huddle/" title="Why choose Huddle?">Why choose Huddle?</a></li>
+<li class="page_item page-item-29"><a href="http://www.huddle.com/this-is-huddle/features/" title="Features">Features</a></li>
+<li class="page_item page-item-52"><a href="http://www.huddle.com/this-is-huddle/security/" title="Security">Security</a></li>
+<li class="page_item page-item-670"><a href="http://www.huddle.com/this-is-huddle/apps/" title="Apps">Apps</a></li>
+                         <li><a href="/plans-pricing/">Pricing</a></li>
+                         </ul>
+                        <div class="sub-menu-feature">
+                        	<span class="sub-menu-feature-title">Interactive demo</span><br>
+                            <span class="sub-menu-feature-text">Take a tour of Huddle with our <a href="/demo">interactive demo</a>.</span> 
+                        </div>
+                    </div><!-- sub-menu-container -->
+                    </li>
+                    <li id="top-nav-using-huddle" class="menu-item"><a href="http://www.huddle.test/using-huddle/">Using Huddle</a><span class="divider">|</span>
+                                        <div class="sub-menu-container double">
+                    	<span class="sub-menu-header"></span>
+                        <ul class="sub-menu">
+                        		<li><strong>Use cases</strong></li>
+  								<li class="page_item page-item-5959"><a href="http://www.huddle.com/client-extranet/" title="Client extranet">Client extranet</a></li>
+<li class="page_item page-item-5993"><a href="http://www.huddle.com/corporate-intranet/" title="Corporate intranet">Corporate intranet</a></li>
+<li class="page_item page-item-5995"><a href="http://www.huddle.com/secure-collaboration/" title="Secure collaboration">Secure collaboration</a></li>
+<li class="page_item page-item-5997"><a href="http://www.huddle.com/project-management/" title="Project management">Project management</a></li>
+<li class="page_item page-item-5999"><a href="http://www.huddle.com/knowledge-management/" title="Knowledge management">Knowledge management</a></li>
+                        	</ul>
+                       		  <ul id="sub-menu-industries" class="sub-menu">
+                              	<li><strong>Industries</strong></li>
+  								<li class="page_item page-item-5535"><a href="http://www.huddle.com/agencies/" title="Agencies">Agencies</a></li>
+<li class="page_item page-item-5495"><a href="http://www.huddle.com/brands/" title="Brands">Brands</a></li>
+<li class="page_item page-item-5612"><a href="http://www.huddle.com/professional-services/" title="Professional services">Professional services</a></li>
+<li class="page_item page-item-5577"><a href="http://www.huddle.com/government/" title="Government">Government</a></li>
+<li class="page_item page-item-5620"><a href="http://www.huddle.com/charities/" title="Charities">Charities</a></li>
+<li class="page_item page-item-5308"><a href="http://www.huddle.com/enterprise/" title="Enterprise">Enterprise</a></li>
+                        	</ul> 
+                            
+                       
+                    </div>
+                    </li>
+                    <li class="menu-item menu-item-type-post_type menu-item-5806"><a href="http://www.huddle.test/customers/">Customers</a><span class="divider">|</span>
+                      <div class="sub-menu-container"> 
+                    	<span class="sub-menu-header"></span>
+                         <ul class="sub-menu">
+                         <li class="page_item page-item-5857"><a href="http://www.huddle.com/customers/featured-customers/" title="Featured customers">Featured customers</a></li>
+<li class="page_item page-item-5867"><a href="http://www.huddle.com/customers/testimonials/" title="Testimonials">Testimonials</a></li>
+<li class="page_item page-item-5335"><a href="http://www.huddle.com/customers/case-studies/" title="Case studies">Case studies</a></li>
+						</ul>
+                        <div class="sub-menu-feature">
+                        	<span class="sub-menu-feature-title">Customer story</span><br>
+                            <span class="sub-menu-feature-text">See how the <a href="/customers/featured-customers/">Belgian government</a> is using Huddle.</span> 
+                        </div>
+                    </div><!-- sub-menu-container -->
+                    </li>
+                    <li class="menu-item menu-item-type-post_type"><a href="http://www.huddle.test/resources/">Resources</a><span class="divider">|</span>
+                     <div class="sub-menu-container">
+                    	<span class="sub-menu-header"></span>
+                        <ul class="sub-menu">
+                        <li class="page_item page-item-4941"><a href="http://www.huddle.com/resources/demo/" title="Interactive demo">Interactive demo</a></li>
+<li class="page_item page-item-2905"><a href="http://www.huddle.com/resources/webinars/" title="Webinars">Webinars</a></li>
+<li class="page_item page-item-5631"><a href="http://www.huddle.com/resources/videos/" title="Videos">Videos</a></li>
+<li class="page_item page-item-5654"><a href="http://www.huddle.com/resources/faq/" title="FAQ">FAQ</a></li>
+                            <li><a href="http://blog.huddle.net">Blog</a></li>
+                            <li><a href="http://support.huddle.net">Support</a></li>
+                        </ul>
+                        <div class="sub-menu-feature">
+                        	<span class="sub-menu-feature-title">Webinars</span><br>
+                            <span class="sub-menu-feature-text">View our latest <a href="/resources/webinars/">webinars</a> and industry webcasts.</span> 
+                        </div>
+                    </div><!-- sub-menu-container -->
+                    </li>
+                    <li class="menu-item menu-item-type-post_type"><a href="http://www.huddle.test/company/">About Us</a><span class="divider">|</span>
+                     <div class="sub-menu-container">
+                    	<span class="sub-menu-header"></span>
+                        <ul class="sub-menu">
+                          <li class="page_item page-item-696"><a href="http://www.huddle.com/about/company/" title="Company">Company</a></li>
+<li class="page_item page-item-124"><a href="http://www.huddle.com/about/management-team/" title="Management team">Management team</a></li>
+<li class="page_item page-item-411"><a href="http://www.huddle.com/about/news/" title="News">News</a></li>
+<li class="page_item page-item-370"><a href="http://www.huddle.com/about/jobs/" title="Jobs">Jobs</a></li>
+<li class="page_item page-item-22"><a href="http://www.huddle.com/about/contact/" title="Contact us">Contact us</a></li>
+
+                        </ul>
+                       
+                    </div><!-- sub-menu-container -->
+                    
+                    </li>
+                    </ul>
+
+            <div id="guest-links">
+            	<a id="button-quick-signup" href="/plans-pricing/" class="button button-p1-small"><span>Try it free</span></a>
+            
+
+            </div>
+			            
+            </div><!-- .container -->
+		</div><!-- #header -->
+
+	<div id="main-content">
+	
+  
+                   
+<div class="content-block">	
+<div class="content-holder">	
+<div id="page-heading"> 
+		<div class="container">
+			
+            <h1>
+            Privacy            </h1>
+            
+                                                
+
+            
+            </div>
+            </div><!-- #page-heading -->
+		
+<div id="page-content"> 
+		
+        <div class="section one-col">
+        	<div class="col">
+                        <p><strong>Huddle Privacy Policy</strong></p>
+<p><strong>(Last Updated: December 6, 2010)</strong></p>
+<p>Ninian Solutions Limited (“we”, “us” or “our”) are committed to protecting and respecting your privacy.</p>
+<p>This policy (together with our terms of use http://www.huddle.com/terms-of-use/) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.&nbsp; Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.</p>
+<p>We may change this Policy from time to time. If we make any changes to this Policy, we will change the “last updated” date above. If there are material changes to this Policy, we will notify you more directly. We encourage you to check this Policy whenever you use our Web sites and services to understand how your personal information is used.</p>
+<p>For the purpose of the Data Protection Act 1998 (the <strong>Act</strong>), the data controller is Ninian Solutions Limited of Gemini House, 180-182 Bermondsey Street, London SE1 3TQ.</p>
+<p><strong>Information we may collect from you</strong></p>
+<p>We may collect and process the following data about you:</p>
+<ul class="list">
+<li>Information that you provide us by      completing forms on our sites <a href="http://www.huddle.com">www.huddle.com</a> and my.huddle.net (which you may be accessing using a custom domain name      eg. myaccount.huddle.net), (<strong>our      sites</strong>). This includes information provided at the time of registering      to use our site or subscribing to our service including contact details      such as name, email address and phone number.</li>
+<li>Information that you upload to, or share      through, our site by using our services including profile information or      any personal information in data that you upload.</li>
+<li>Information that you provide us by      completing surveys on our site or as carried out by our approved third      parties.</li>
+<li>If you contact us for customer or      technical support, we may keep a record of that correspondence or      conversation.</li>
+<li>Information that you provide us when      carrying out transactions through our site including payment details such      as credit card information and billing addresses.</li>
+<li>Information we receive from our third      party partners such as LinkedIn, Xing, Ning during the registration      process such as first name, surname and email address.</li>
+<li>Information we receive from third party      search engines such as Google, Yahoo and Microsoft (Bing and MSN) relating      to your search activity.</li>
+<li>Details of your visits to our site      including, but not limited to, traffic data, location data, weblogs and      other communication data and the resources that you access.</li>
+</ul>
+<p><strong>Uses made of the information</strong></p>
+<p>We use information held about you in the following ways:</p>
+<ul class="list">
+<li>To provide our services and features to      you, to measure and improve those services and features and to provide you      with customer and technical support.</li>
+<li>To contact you with any service-related      announcements from time to time.</li>
+<li>To ensure that content from our site is      presented in the most effective manner for you and for your computer.</li>
+<li>To provide you with information concerning      our products or services that you request from us or which we feel may      interest you by email unless you have opted-out of receiving this      information (see below for more details).</li>
+<li>To carry out our obligations arising from      any contracts entered into between you and us.</li>
+<li>To provide you with advertisements      concerning our products and services through our Third Party Partners      Programme (see below for more details).</li>
+</ul>
+<p><strong>IP addresses and cookies</strong></p>
+<p>We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers.&nbsp; This is statistical data about our users’ browsing actions and patterns, and does not identify any individual.</p>
+<p>Also, we may obtain information about your general internet usage by using a cookie file which is stored on the hard drive of your computer when you browse our sites. Cookies contain information that is transferred to your computer’s hard drive. They help us to improve our site and to deliver a better and more personalised service.</p>
+<p>You may refuse to accept our cookie by activating the setting on your browser which allows you to refuse the setting of cookies. However, if you select this setting, this may adversely affect your user experience of our site.</p>
+<p><strong>Third Party Partners Programme </strong></p>
+<p>When you visit our site, we place a cookie file on your hard drive of your computer so that our advertising partners are able to recognise you when you visit their websites.&nbsp; We do this so that our advertising partners are able to show you advertisements relating to our products and services when you visit their website.</p>
+<p>You may opt out of receiving our advertisements through our advertising partners by:</p>
+<ul class="list">
+<li>Adjusting your browser setting to refuse      the setting of cookies or by clearing your cookies. Please refer to you      computer or browser manual on how to do this.</li>
+<li>Our system will issue cookies when you      visit our site again.</li>
+</ul>
+<p><strong>Marketing communications and opting-out</strong></p>
+<p>We will provide you with information concerning our products or services that you request from us or which we feel may interest you by email unless you have opted-out of receiving this information.</p>
+<p>You may at anytime opt-out of receiving this information by clicking on the opt-out link in the footer of a marketing email you have received or by sending us an email at privacy@huddle.com.</p>
+<p><strong> How you can change or remove information</strong></p>
+<p>You may change or remove your profile information displayed through our site at any time by going to your profile and editing your information.&nbsp; However, if you want to change the personal information we hold about you in our systems, you will need email your request to privacy@huddle.com.</p>
+<p>If you want to stop using your account you may deactivate it. When you deactivate an account, you will not be able to use our service and your information will not be capable of being viewed through our site.&nbsp; However, even after you deactivate your account, copies of your information including but not limited to name and email address may be retained by us as backup copies for legal and compliance reasons.</p>
+<p><strong>Where we store your personal data</strong></p>
+<p>The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area (“EEA”).&nbsp; It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the provision of CRM services, marketing campaigns, support and hosting services on our behalf.&nbsp; We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.</p>
+<p>All information you provide to us is stored on secure servers operated by us or our third party providers. Any payment transactions will be encrypted using SSL technology. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share your password with anyone.</p>
+<p>Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.</p>
+<p><strong>Disclosure of your information</strong></p>
+<p>We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries.</p>
+<p>We may disclose your personal information to third parties:</p>
+<ul class="list">
+<li>In the event that we sell or buy any      business or assets, in which case we may disclose your personal data to      the prospective seller or buyer of such business or assets.</li>
+<li>If we or substantially all of our assets      are acquired by a third party, in which case personal data held by us will      be one of the transferred assets.</li>
+<li>If we are under a duty to disclose or      share your personal data in order to comply with any legal obligation, or in      order to enforce or apply our terms of use <a href="http://www.huddle.com/terms-of-use/">http://www.huddle.com/terms-of-use/</a><strong> </strong></li>
+</ul>
+<p><strong> </strong></p>
+<p><strong>Changes to our privacy policy</strong></p>
+<p>Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by email.</p>
+<p><strong>Contact</strong></p>
+<p>Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to privacy@huddle.com</p>
+                    </div>
+</div>     
+        
+        
+</div>
+<div class="clear"></div>
+</div>        
+       
+	
+
+	</div><!-- #main -->
+
+	<div id="footer">
+
+            <div class="section six-col border-bottom">
+                    <div class="col">
+                        <h6>About Huddle</h6>
+                        <div class="menu-footer-1-container"><ul id="about-huddle" class="menu"><li id="menu-item-3209" class="menu-item menu-item-type-custom menu-item-3209"><a href="/about/company/">About us</a></li>
+<li id="menu-item-6579" class="menu-item menu-item-type-post_type menu-item-6579"><a href="http://www.huddle.com/about/news/">News</a></li>
+<li id="menu-item-6580" class="menu-item menu-item-type-post_type menu-item-6580"><a href="http://www.huddle.com/about/contact/">Contact us</a></li>
+</ul></div>                    </div>
+                    
+                    <div class="col">
+                        <br><br>
+                        <div class="menu-footer-2-container"><ul id="about-huddle-one" class="menu"><li id="menu-item-1983" class="menu-item menu-item-type-custom menu-item-1983"><a href="http://support.huddle.net">Support</a></li>
+<li id="menu-item-6582" class="menu-item menu-item-type-custom menu-item-6582"><a href="http://blog.huddle.net">Blog</a></li>
+<li id="menu-item-6581" class="menu-item menu-item-type-post_type menu-item-6581"><a href="http://www.huddle.com/about/jobs/">Jobs</a></li>
+</ul></div>            
+                    </div>
+                    
+                    <div class="col">
+                         <h6>Get involved</h6>
+                        <div class="menu-footer-3-container"><ul id="about-huddle-two" class="menu"><li id="menu-item-6747" class="menu-item menu-item-type-post_type menu-item-6747"><a href="http://www.huddle.com/partners/overview/">Partners</a></li>
+<li id="menu-item-2180" class="menu-item menu-item-type-post_type menu-item-2180"><a href="http://www.huddle.com/partners/affiliates/">Affiliates</a></li>
+<li id="menu-item-6583" class="menu-item menu-item-type-post_type menu-item-6583"><a href="http://www.huddle.com/developers/">Developers</a></li>
+</ul></div>            
+                    </div>
+                    
+                    <div class="col">
+                      <h6>Legal</h6>
+                        <div class="menu-footer-4-container"><ul id="about-huddle-three" class="menu"><li id="menu-item-2168" class="menu-item menu-item-type-post_type current-menu-item page_item page-item-400 current_page_item menu-item-2168"><a href="http://www.huddle.com/privacy/">Privacy</a></li>
+<li id="menu-item-2169" class="menu-item menu-item-type-post_type menu-item-2169"><a href="http://www.huddle.com/terms-of-use/">Terms of use</a></li>
+<li id="menu-item-3632" class="menu-item menu-item-type-custom menu-item-3632"><a href="/site-map/">Site map</a></li>
+</ul></div>                    </div>
+                    
+                    <div class="col">
+                      <h6>Project tools</h6>
+                        <div class="menu-footer-5-seo-container"><ul id="seo-project" class="menu"><li id="menu-item-694" class="menu-item menu-item-type-post_type menu-item-694"><a href="http://www.huddle.com/project-management-software/">Project management</a></li>
+<li id="menu-item-1901" class="menu-item menu-item-type-custom menu-item-1901"><a href="/collaboration-software/">Collaboration software</a></li>
+<li id="menu-item-1900" class="menu-item menu-item-type-custom menu-item-1900"><a href="/online-file-storage/">Online file storage</a></li>
+</ul></div>            
+            
+                    </div>
+                    
+                    <div class="col col-end">
+                        <h6>Follow us</h6>
+                          <div class="menu-footer-6-social-container"><ul id="social-links" class="menu"><li id="menu-item-848" class="menu-item menu-item-type-custom menu-item-848"><a href="http://twitter.com/huddle">Twitter</a></li>
+<li id="menu-item-850" class="menu-item menu-item-type-custom menu-item-850"><a href="http://www.facebook.com/huddle.net">Facebook</a></li>
+<li id="menu-item-849" class="menu-item menu-item-type-custom menu-item-849"><a href="http://www.flickr.com/photos/huddlenet">Flickr</a></li>
+<li id="menu-item-1428" class="menu-item menu-item-type-custom menu-item-1428"><a href="http://www.linkedin.com/companies/huddle.net">LinkedIn</a></li>
+</ul></div>            
+                    </div>
+            </div><!-- .section -->
+			<div class="clear"></div>
+			<p id="copyright" class="text-small">Huddle - Connect, Share and Work Better Together - © 2006 - 2011 Ninian Solutions Ltd</p>
+	</div><!-- #footer -->
+
+</div><!-- #master -->
+</div><!-- #wrapper -->
+
+<!-- Google Code Remarketing -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1070351745;
+var google_conversion_language = "en";
+var google_conversion_format = "3";
+var google_conversion_color = "666666";
+var google_conversion_label = "9WEeCMnHigIQgYux_gM";
+var google_conversion_value = 0;
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js"></script>
+
+<!-- Google Code Translation -->
+<div id="google_translate_element"></div>
+<script>
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({
+    pageLanguage: 'en'
+  }, 'google_translate_element');
+}
+</script>
+<script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1070351745/?label=9WEeCMnHigIQgYux_gM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
+
+
+</div></body></html>
