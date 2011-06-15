@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the seedsavers.org privacy policy that was archived on 2010-12-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101215014732id_/http%3A//www.seedsavers.org/Content.aspx%3Fsrc%3DPrivacyPolicy5.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the seedsavers.org privacy policy that was archived on 2011-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110615211201id_/http%3A//www.seedsavers.org/Content.aspx%3Fsrc%3DPrivacyPolicy5.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     <title>Seed Savers Exchange</title>
     <meta name="description" content="Since 1975, Seed Savers Exchange members have passed on approximately one million samples of rare garden seeds to other gardeners. We are a non-profit organization of gardeners dedicated to saving and sharing heirloom seeds.">
-    <meta name="keywords" content="Seed Savers Exchange, rare garden seeds, heirloom seeds">
+    <meta name="keywords" content="Seed Savers Exchange, rare garden seeds, heirloom seeds, organic seeds">
     
-	<link href="/Sources/Style.css" type="text/css" rel="stylesheet">
+	<link href="/Sources/Style.css?latest" type="text/css" rel="stylesheet">
 	<script language="javascript" src="/Sources/scripts.aspx"></script>
 	
 	<script language="javascript" type="text/javascript">
@@ -17,9 +17,22 @@ document.writeln('<scr' + 'ipt language="JavaScript" src="'+cot_loc0+'" type="te
 //]]>
 </script><script language="JavaScript" src="https://secure.comodo.net/trustlogo/javascript/cot.js" type="text/javascript"></script>
 
+
+<!--BEGIN JONAH's EDITS-->
+<script language="javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js"></script>
+<script src="scripts/common.js"></script>
+
+<!--[if IE 7]>  
+  <style type="text/css">
+	.menu {
+
+	 } 
+  </style>
+<![endif]-->
+<!--END JONAH's EDITS-->
+
 </head>
 <body>
-    <center>
     <!--BEGIN BANNER-->
     
 	    <iframe height="0" width="0" style="border:0px;" name="ifbanner" id="ifbanner" scrolling="no" src="http://www.seedsavers.org/Controls/Banner.aspx"></iframe>
@@ -35,10 +48,11 @@ document.writeln('<scr' + 'ipt language="JavaScript" src="'+cot_loc0+'" type="te
                            <li class="order">
                                 <img src="/images/diamond.gif"></li>
                             <li class="order">
-                                <a href="http://www.seedsavers.org/Cart.aspx" class="ordernav">My Basket:</a>
-                                Basket #:&nbsp;<span id="ctl00_lblCartNumber">0</span>&nbsp;|&nbsp;
+                                <a href="http://www.seedsavers.org/Cart.aspx" class="ordernav">My Cart:</a>
+                                Cart #:&nbsp;<span id="ctl00_lblCartNumber">0</span>&nbsp;|&nbsp;
 					            Items:&nbsp;<span id="ctl00_lblItemsCount">0</span>&nbsp;|&nbsp;
-					            Total:&nbsp;<span id="ctl00_lblTotal">$0.00</span>            
+					            Total:&nbsp;<span id="ctl00_lblTotal">$0.00</span>
+					            &nbsp;|&nbsp;<a href="http://www.seedsavers.org/Cart.aspx" class="ordernav">Checkout</a>
 		                        
 		                    </li>
                         </ul>
@@ -46,36 +60,70 @@ document.writeln('<scr' + 'ipt language="JavaScript" src="'+cot_loc0+'" type="te
                 </div>
             </div>
         </div>
-        <div id="nav">
-            
-            <div id="navMainLeft">
-				<ul class="nav">
-                <li class="nav"><a class="nav" href="http://www.seedsavers.org/">Home</a></li>
-
-                <li class="nav"> • </li>
-      			<li class="nav"><a class="nav" href="http://www.seedsavers.org/Content.aspx?src=aboutus.htm">About Us</a></li>
-                <li class="nav"> • </li>
-                <li class="nav"><a class="nav" href="http://forums.seedsavers.org/">Forum</a></li>
-              	<li class="nav"> • </li>
-				<li class="nav"><a class="nav" href="http://blog.seedsavers.org/" target="_blank">Blog</a></li>
-              	<li class="nav"> • </li>
-
-      			<li class="nav"><a class="nav" href="http://www.seedsavers.org/Content.aspx?src=membership.htm">Membership</a></li>
-              </ul>
-          </div>
-            
-          <div id="navMainRight">
-			<ul class="nav">
-                <li class="nav"><a class="nav" href="http://www.seedsavers.org/QuickOrder.aspx">Quick Order</a></li>
-				<li class="nav"> • </li>
-
-      			<li class="nav"><a class="nav" href="http://www.seedsavers.org/Content.aspx?src=buyonline.htm">Buy Online</a></li>
-                <li class="nav">• </li>
-                <li class="nav"><a class="nav" href="http://www.seedsavers.org/Content.aspx?src=customerserv.htm">Customer Service</a></li>
-            </ul>
-          </div>
-      </div>
-</div>
+	
+	<!--this is included from nav.inc-->
+<div class="menu">
+  		    <ul class="sf-menu sf-js-enabled">
+  		    	<li><a href="http://www.seedsavers.org">Home</a></li>
+  		    	<li><a href="http://www.seedsavers.org/Content.aspx?src=aboutus.htm">About</a>
+  		    		<ul>
+  		    			<li><a href="http://www.seedsavers.org/Content.aspx?src=aboutus.htm">About SSE</a></li>
+  		    			<li><a href="http://www.seedsavers.org/Content.aspx?src=Copy%20[2]%20of%20aboutus.htm">Participatory Preservation</a></li>
+						<li><a href="http://www.seedsavers.org/Content.aspx?src=heritagefarm.htm">Heritage Farm</a></li>
+  		    			<li><a href="http://www.seedsavers.org/Content.aspx?src=calendar_of_events.htm">Events</a></li>
+  		    			<li><a href="http://info.seedsavers.org/category/jobs/">Jobs/Volunteer</a></li>
+  		    			<li><a href="http://www.seedsavers.org/Items.aspx?hierId=72">Donate</a></li>
+  		    		</ul>
+  		    	</li>
+  		    	<li><a href="http://www.seedsavers.org/Content.aspx?src=membership.htm">Membership</a>
+  		    		<ul>
+  		    			<li><a href="http://www.seedsavers.org/Content.aspx?src=membership.htm">Overview</a></li>
+  		    			<li><a href="http://www.seedsavers.org/Items.aspx?hierId=SSE-MEMBER">Join Now</a></li>
+  		    			<li><a href="http://www.seedsavers.org/Content.aspx?src=membership.htm">Yearbook</a></li>
+  		    		</ul>
+  		    	</li>
+  		    	<li><a href="http://info.seedsavers.org/preservation/">Preservation</a>
+  		    		<ul>
+  		    			<li><a href="http://info.seedsavers.org/preservation/genetic-resources-preservation/">Genetic Resources Preservation</a></li>
+  		    			<li><a href="http://info.seedsavers.org/category/plant-collections/">Plant Collections</a></li>
+  		    			<li><a href="http://info.seedsavers.org/category/collections-maintenance/">Collections Maintenance</a></li>
+  		    			<li><a href="http://info.seedsavers.org/category/collections-projects/">Current Projects</a></li>
+  		    			<li><a href="http://info.seedsavers.org/preservation/support-the-collections/">Support the Collections</a></li>
+  		    		</ul>
+  		    	</li>
+  		    	<li class="split"><a href="http://www.seedsavers.org/Content.aspx?src=education.htm">Education</a>
+  		    		<ul>
+  		    			<li><a href="http://www.seedsavers.org/Content.aspx?src=education.htm">Programs</a></li>
+  		    			<li><a href="http://www.seedsavers.org/hermansgardenletter.htm">Herman's Garden</a></li>
+  		    			<li><a href="http://www.seedsavers.org/Content.aspx?src=fundraiser.htm">Fundraising</a></li>
+  		    		</ul>
+  		    	</li>
+  		    	<li><a href="http://info.seedsavers.org">News</a>
+  		    		<ul>
+  		    			<li><a href="http://info.seedsavers.org">Blog</a></li>
+  		    			<li><a href="http://www.seedsavers.org/Content.aspx?src=calendar_of_events.htm">Events</a></li>
+  		    		</ul>
+  		    	</li>
+  		    	<li><a href="http://info.seedsavers.org">Community</a>
+  		    		<ul>
+  		    			<li><a href="http://www.seedsavers.org/Content.aspx?src=membership.htm">Membership</a></li>
+  		    			<li><a href="http://forums.seedsavers.org/">Forum</a></li>
+  		    			<li><a href="http://www.seedsavers.org/Content.aspx?src=calendar_of_events.htm">Events</a></li>
+  		    		</ul>
+  		    	</li>
+  		    	<li><a href="http://www.seedsavers.org/Content.aspx?src=buyonline.htm">Store</a>
+  		    		<ul>
+  		    			<li><a href="http://www.seedsavers.org/Content.aspx?src=buyonline.htm">Online Store</a></li>
+  		    			<li><a href="http://www.seedsavers.org/Items.aspx?hierId=8">Vegetables</a></li>
+  		    			<li><a href="http://www.seedsavers.org/QuickOrder.aspx">Quick Order</a></li>
+  		    			<li><a href="http://www.seedsavers.org/CatalogRequest.aspx">Request Catalog</a></li>
+  		    			<li><a href="http://www.seedsavers.org/Content.aspx?src=retaillocations.htm">Wholesale Seed Rack Locations</a></li>
+  		    		</ul>
+  		    	</li>
+  		    	<li><a href="http://www.seedsavers.org/Content.aspx?src=customerserv.htm">Contact</a></li>
+  		    </ul>
+  		</div><!-- end .menu-->
+	        
 <table width="990" border="0" cellpadding="0" cellspacing="0" style="table-layout:fixed;position:relative;top:-20px;">
     <tbody><tr>
         <td width="125" style="width:125px;height:1px;">
@@ -87,10 +135,11 @@ document.writeln('<scr' + 'ipt language="JavaScript" src="'+cot_loc0+'" type="te
     </tr>
     <tr>
     	<td colspan="2" align="left" class="HeaderSubNav">
-				<a href="http://www.seedsavers.org/Cart.aspx" class="HeaderSubNav">My Basket:</a>
-                Basket #:&nbsp;<span id="ctl00_lblCartNumber2" class="HeaderSubNav">0</span>&nbsp;|&nbsp;
+				<a href="http://www.seedsavers.org/Cart.aspx" class="ordernav">My Cart:</a>
+                Cart #:&nbsp;<span id="ctl00_lblCartNumber2" class="HeaderSubNav">0</span>&nbsp;|&nbsp;
 				Items:&nbsp;<span id="ctl00_lblItemsCount2" class="HeaderSubNav">0</span>&nbsp;|&nbsp;
-				Total:&nbsp;<span id="ctl00_lblTotal2" class="HeaderSubNav">$0.00</span>            
+				Total:&nbsp;<span id="ctl00_lblTotal2" class="HeaderSubNav">$0.00</span>
+				&nbsp;|&nbsp;<a href="http://www.seedsavers.org/Cart.aspx" class="ordernav">Checkout</a>
 		       	
 	    </td>
 	    <td align="right" class="HeaderSubNav">
@@ -206,7 +255,7 @@ document.writeln('<scr' + 'ipt language="JavaScript" src="'+cot_loc0+'" type="te
                             
                             <tr>
                                 <td style="padding-top:2px;">
-                                    <div id="links"><a class="sidenav2" href="http://www.seedsavers.org/Items.aspx?hierId=15">Seed Racks                                        </a></div><br>
+                                    <div id="links"><a class="sidenav2" href="http://www.seedsavers.org/Items.aspx?hierId=15">Wholesale Seed Racks</a></div><br>
                                 </td>
                             </tr>
                             
@@ -234,12 +283,6 @@ document.writeln('<scr' + 'ipt language="JavaScript" src="'+cot_loc0+'" type="te
                                 </td>
                             </tr>
                             
-                            <tr>
-                                <td style="padding-top:2px;">
-                                    <div id="links"><a class="sidenav2" href="http://www.seedsavers.org/Items.aspx?hierId=95">Greg Brown CD</a></div><br>
-                                </td>
-                            </tr>
-                            
 	                    </tbody></table>
                     </td>
                 </tr>
@@ -254,12 +297,12 @@ document.writeln('<scr' + 'ipt language="JavaScript" src="'+cot_loc0+'" type="te
                 <tr><td style="padding-top:2px;"><div id="links"><a class="sidenav2" href="http://www.seedsavers.org/Content.aspx?src=membership.htm">Membership</a></div></td></tr>
                 <tr><td style="padding-top:2px;"><div id="links"><a class="sidenav2" href="http://www.seedsavers.org/Content.aspx?src=VisitorCenter.htm">Lillian Goldman Visitors Center</a></div></td></tr>			
                 <tr><td style="padding-top:2px;"><div id="links"><a class="sidenav2" href="http://www.seedsavers.org/Content.aspx?src=calendar_of_events.htm">Calendar of Events</a></div></td></tr>
-				<tr><td style="padding-top:2px;"><div id="links"><a class="sidenav2" href="http://www.seedsavers.org/education.htm">Education</a></div></td></tr>
+				<tr><td style="padding-top:2px;"><div id="links"><a class="sidenav2" href="http://www.seedsavers.org/Content.aspx?src=education.htm">Education</a></div></td></tr>
                 <tr><td style="padding-top:2px;"><div id="links"><a class="sidenav2" href="http://www.seedsavers.org/Content.aspx?src=email_newsletters.htm">SSE Newsletters</a></div></td></tr>
-                <tr><td style="padding-top:2px;"><div id="links"><a class="sidenav2" href="http://www.seedsavers.org/Content.aspx?src=jobopportunities.htm">Job Opportunities</a></div></td></tr>
+                <tr><td style="padding-top:2px;"><div id="links"><a class="sidenav2" href="http://info.seedsavers.org/category/jobs/">Job Opportunities</a></div></td></tr>
 				<tr><td style="padding-top:2px;"><div id="links"><a class="sidenav2" href="http://www.seedsavers.org/Content.aspx?src=volunteer.htm">Volunteer Opportunities</a></div></td></tr>
                 <tr><td style="padding-top:2px;"><div id="links"><a class="sidenav2" href="http://www.seedsavers.org/Content.aspx?src=whatsnew.htm">What's New</a></div></td></tr>
-                <tr><td style="padding-top:2px;"><div id="links"><a class="sidenav2" href="http://www.seedsavers.org/helpfullinks.htm">Helpful Links</a></div></td>
+                <tr><td style="padding-top:2px;"><div id="links"><a class="sidenav2" href="http://www.seedsavers.org/Content.aspx?src=helpfullinks.htm">Helpful Links</a></div></td>
                 </tr><tr><td style="padding-top:2px;"><div id="links"><a class="sidenav2" href="http://www.seedsavers.org/Content.aspx?src=PrivacyPolicy5.htm">Privacy Policy</a></div></td>
 				</tr><tr><td style="padding-top:2px;"><div id="links"><a class="sidenav2" href="http://www.seedsavers.org/Content.aspx?src=retaillocations.htm">Seed Rack Locations</a></div></td>
 				</tr><tr><td style="padding-top:2px;"><div id="links"><a class="sidenav2" href="http://www.seedsavers.org/CatalogRequest.aspx">Request a Catalog</a></div></td>
@@ -267,7 +310,7 @@ document.writeln('<scr' + 'ipt language="JavaScript" src="'+cot_loc0+'" type="te
 		</td>	
     	<td valign="top" class="pagenavbg" height="auto" width="865px" colspan="2">
             <form name="aspnetForm" method="post" action="Content.aspx?src=PrivacyPolicy5.htm" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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AmYPFQIuaHR0cDovL3d3dy5zZWVkc2F2ZXJzLm9yZy9JdGVtcy5hc3B4P2hpZXJJZD03NTJHaWZ0cyBmcm9tIFRoZSBMaWxsaWFuIEdvbGRtYW4gVmlzaXRvcnMgQ2VudGVyICAgIGQCEQ9kFgJmDxUCLmh0dHA6Ly93d3cuc2VlZHNhdmVycy5vcmcvSXRlbXMuYXNweD9oaWVySWQ9OTUNR3JlZyBCcm93biBDRGQCCw9kFgICAw9kFgICAQ8WAh8ABeYjPHN0eWxlIHR5cGU9InRleHQvY3NzIj4NCjwhLS0NCi5zdHlsZTEgew0KCWZvbnQtZmFtaWx5OiBHZW9yZ2lhLCAiVGltZXMgTmV3IFJvbWFuIiwgVGltZXMsIHNlcmlmOw0KCWNvbG9yOiAjNjAwYzBjOw0KfQ0KLnN0eWxlMiB7DQoJZm9udC1mYW1pbHk6IEdlb3JnaWEsICJUaW1lcyBOZXcgUm9tYW4iLCBUaW1lcywgc2VyaWY7DQoJZm9udC1zaXplOiAxMnB4Ow0KCWNvbG9yOiAjOGU4MzY1Ow0KfQ0KLnN0eWxlMyB7DQoJZm9udC1zaXplOiAxMnB4Ow0KCWNvbG9yOiAjOGU4MzY1Ow0KfQ0KLnN0eWxlNCB7Zm9udC1mYW1pbHk6IEdlb3JnaWEsICJUaW1lcyBOZXcgUm9tYW4iLCBUaW1lcywgc2VyaWZ9DQouc3R5bGU1IHsNCgljb2xvcjogIzFlNTUzNDsNCglmb250LXdlaWdodDogYm9sZDsNCn0NCi5zdHlsZTYge2NvbG9yOiAjMWU1NTM0fQ0KLS0+DQo8L3N0eWxlPg0KPHRhYmxlIGNlbGxwYWRkaW5nPSI1IiBjZWxsc3BhY2luZz0iNSIgd2lkdGg9IjEwMCUiIGJvcmRlcj0iMCI+PHRyPjx0ZCBjbGFzcz0icGxhaW50ZXh0Ij4NCjxwPjxoMSBhbGlnbj1jZW50ZXIgY2xhc3M9InN0eWxlMSI+UHJpdmFjeSBQb2xpY3kgU3RhdGVtZW50PC9oMT4NCjwvcD4NCjxwIGFsaWduPSJqdXN0aWZ5IiBjbGFzcz0ic3R5bGUyIj5UaGlzIGlzIHRoZSB3ZWIgc2l0ZSBvZiA8c3BhbiBjbGFzcz0ic3R5bGU1Ij5TZWVkIFNhdmVycyBFeGNoYW5nZTwvc3Bhbj4uPC9wPg0KPHAgYWxpZ249Imp1c3RpZnkiIGNsYXNzPSJzdHlsZTIiPk91ciBwb3N0YWwgYWRkcmVzcyBpcyA8YnI+DQogIDxzcGFuIGNsYXNzPSJzdHlsZTYiPjxiPjMwOTQgTm9ydGggV2lubiBSb2FkPC9iPjxicj4NCiAgPGI+RGVjb3JhaCwgSW93YSA1MjEwMTwvYj48L3NwYW4+PC9wPg0KPGRpdiBhbGlnbj0ianVzdGlmeSIgY2xhc3M9InN0eWxlMyI+PHNwYW4gY2xhc3M9InN0eWxlNCI+V2UgY2FuIGJlIHJlYWNoZWQgdmlhIGUtbWFpbCBhdCA8YSBocmVmPSJtYWlsdG86bGF1cmFAc2VlZHNhdmVycy5vcmciIGNsYXNzPSJzdHlsZTUiPkxhdXJhIE9sbGVuZGljazwvYT48L2I+IG9yIDxhIGhyZWY9Im1haWx0bzprYXRoeUBzZWVkc2F2ZXJzLm9yZyIgY2xhc3M9InN0eWxlNSI+S2F0aHkgR3JlZW50cmVlPC9hPjxicj4NCiAgb3IgeW91IGNhbiByZWFjaCB1cyBieSB0ZWxlcGhvbmUgYXQgPGIgY2xhc3M9InN0eWxlNSI+KDU2MykgMzgyLTU5OTA8L2I+PGJyPg0KPC9zcGFuPjwvZGl2Pg0KPGRpdiBhbGlnbj0ianVzdGlmeSIgY2xhc3M9InN0eWxlMyI+DQogIDx1bCBjbGFzcz0ic3R5bGU0Ij4NCiAgICANCiAgICA8bGk+Rm9yIGVhY2ggdmlzaXRvciB0byBvdXIgV2ViIHBhZ2UsIG91ciBXZWIgc2VydmVyIGF1dG9tYXRpY2FsbHkgcmVjb2duaXplcyB0aGUgY29uc3VtZXIncyBkb21haW4gbmFtZSBhbmQgZS1tYWlsIGFkZHJlc3MgKHdoZXJlIHBvc3NpYmxlKS48L2xpPjxiciAvPg0KICAgIDxsaT5XZSBjb2xsZWN0IHRoZSBkb21haW4gbmFtZSAgb2YgdmlzaXRvcnMgdG8gb3VyIFdlYiBwYWdlLCBhZ2dyZWdhdGUgaW5mb3JtYXRpb24gb24gd2hhdCBwYWdlcyBjb25zdW1lcnMgYWNjZXNzIG9yIHZpc2l0LCB1c2VyLXNwZWNpZmljIGluZm9ybWF0aW9uIG9uIHdoYXQgcGFnZXMgY29uc3VtZXJzIGFjY2VzcyBvciB2aXNpdC48L2xpPjxiciAvPg0KICAgIDxsaT5XZSBkbyBub3Qgc2VsbCwgc2hhcmUsIHJlbnQgb3IgdHJhZGUgb3VyIG1haWxpbmcgbGlzdC48L2xpPjxiciAvPg0KICAgIDxsaT5XaXRoIHJlc3BlY3QgdG8gY29va2llczogV2UgdXNlIGNvb2tpZXMgdG8gc3RvcmUgdmlzaXRvcnMgcHJlZmVyZW5jZXMsIHJlY29yZCBzZXNzaW9uIGluZm9ybWF0aW9uLCBzdWNoIGFzIGl0ZW1zIHRoYXQgY29uc3VtZXJzIGFkZCB0byB0aGVpciBzaG9wcGluZyBjYXJ0LCByZWNvcmQgdXNlci1zcGVjaWZpYyBpbmZvcm1hdGlvbiBvbiB3aGF0IHBhZ2VzIHVzZXJzIGFjY2VzcyBvciB2aXNpdCwgcmVjb3JkIHBhc3QgYWN0aXZpdHkgYXQgYSBzaXRlIGluIG9yZGVyIHRvIHByb3ZpZGUgYmV0dGVyIHNlcnZpY2Ugd2hlbiB2aXNpdG9ycyByZXR1cm4gdG8gb3VyIHNpdGUuPC9saT48YnIgLz4NCiAgICA8bGk+SWYgeW91IGRvIG5vdCB3YW50IHRvIHJlY2VpdmUgZS1tYWlscyBmcm9tIHVzIGluIHRoZSBmdXR1cmUsIHBsZWFzZSBsZXQgdXMga25vdyBieSBzZW5kaW5nIHVzIGUtbWFpbCBhdCB0aGUgYWJvdmUgYWRkcmVzcywgY2FsbGluZyB1cyBhdCB0aGUgYWJvdmUgdGVsZXBob25lIG51bWJlci48L2xpPjxiciAvPg0KICAgIDxsaT5JZiB5b3Ugc3VwcGx5IHVzIHdpdGggeW91ciBwb3N0YWwgYWRkcmVzcyBvbi1saW5lIHlvdSBtYXkgcmVjZWl2ZSBwZXJpb2RpYyBtYWlsaW5ncyBmcm9tIHVzIHdpdGggaW5mb3JtYXRpb24gb24gbmV3IHByb2R1Y3RzIGFuZCBzZXJ2aWNlcyBvciB1cGNvbWluZyBldmVudHMuICAgSWYgeW91IGRvIG5vdCB3aXNoIHRvIHJlY2VpdmUgc3VjaCBtYWlsaW5ncywgcGxlYXNlIGxldCB1cyBrbm93IGJ5IGNhbGxpbmcgdXMgYXQgdGhlIG51bWJlciBwcm92aWRlZCBhYm92ZSwgZS1tYWlsaW5nIHVzIGF0IHRoZSBhYm92ZSBhZGRyZXNzLjwvbGk+PGJyIC8+DQogICAgPGxpPklmIHlvdSBzdXBwbHkgdXMgd2l0aCB5b3VyIGUtbWFpbCBhZGRyZXNzIG9uLWxpbmUgeW91IG1heSByZWNlaXZlIHBlcmlvZGljIG5ld3NsZXR0ZXJzIGZyb20gdXMgd2l0aCBuZXdzIG9yIHVwY29taW5nIGV2ZW50cy4gICBJZiB5b3UgZG8gbm90IHdpc2ggdG8gcmVjZWl2ZSBzdWNoIG1haWxpbmdzLCBwbGVhc2UgbGV0IHVzIGtub3cgYnkgY2FsbGluZyB1cyBhdCB0aGUgbnVtYmVyIHByb3ZpZGVkIGFib3ZlLCBlLW1haWxpbmcgdXMgYXQgdGhlIGFib3ZlIGFkZHJlc3MuPC9saT48YnIgLz4NCiAgICA8bGk+UGxlYXNlIHByb3ZpZGUgdXMgd2l0aCB5b3VyIGV4YWN0IG5hbWUgYW5kIGFkZHJlc3MuIDwvbGk+PGJyIC8+DQogICAgPGxpPkZyb20gdGltZSB0byB0aW1lLCB3ZSBtYXkgdXNlIGN1c3RvbWVyIGluZm9ybWF0aW9uIGZvciBuZXcsIHVuYW50aWNpcGF0ZWQgdXNlcyBub3QgcHJldmlvdXNseSBkaXNjbG9zZWQgaW4gb3VyIHByaXZhY3kgbm90aWNlLiAgSWYgb3VyIGluZm9ybWF0aW9uIHByYWN0aWNlcyBjaGFuZ2UgYXQgc29tZSB0aW1lIGluIHRoZSBmdXR1cmUgd2Ugd2lsbCBwb3N0IHRoZSBwb2xpY3kgY2hhbmdlcyB0byBvdXIgV2ViIHNpdGUgdG8gbm90aWZ5IHlvdSBvZiB0aGVzZSBjaGFuZ2VzIGFuZCBwcm92aWRlIHlvdSB3aXRoIHRoZSBhYmlsaXR5IHRvIG9wdCBvdXQgb2YgdGhlc2UgbmV3IHVzZXMuICBJZiB5b3UgYXJlIGNvbmNlcm5lZCBhYm91dCBob3cgeW91ciBpbmZvcm1hdGlvbiBpcyB1c2VkLCB5b3Ugc2hvdWxkIGNoZWNrIGJhY2sgYXQgb3VyIFdlYiBzaXRlIHBlcmlvZGljYWxseS4gPC9saT48YnIgLz4NCiAgICA8bGk+VXBvbiByZXF1ZXN0IHdlIHByb3ZpZGUgc2l0ZSB2aXNpdG9ycyB3aXRoIGFjY2VzcyB0byB1bmlxdWUgaWRlbnRpZmllciBpbmZvcm1hdGlvbiAoZS5nLiwgY3VzdG9tZXIgbnVtYmVyIG9yIHBhc3N3b3JkKSB0aGF0IHdlIG1haW50YWluIGFib3V0IHRoZW0sIHRyYW5zYWN0aW9uIGluZm9ybWF0aW9uIChlLmcuLCBkYXRlcyBvbiB3aGljaCBjdXN0b21lcnMgbWFkZSBwdXJjaGFzZXMsIGFtb3VudHMgYW5kIHR5cGVzIG9mIHB1cmNoYXNlcykgdGhhdCB3ZSBtYWludGFpbiBhYm91dCB0aGVtLCBjb250YWN0IGluZm9ybWF0aW9uIChlLmcuLCBuYW1lLCBhZGRyZXNzLCBwaG9uZSBudW1iZXIpIHRoYXQgd2UgbWFpbnRhaW4gYWJvdXQgdGhlbS48L2xpPjxiciAvPg0KICAgIDxsaT5Db25zdW1lcnMgY2FuIGhhdmUgdGhpcyBpbmZvcm1hdGlvbiBjb3JyZWN0ZWQgYnkgc2VuZGluZyB1cyBhbiBlLW1haWwgYXQgdGhlIGFib3ZlIGFkZHJlc3Mgb3IgY2FsbGluZyB1cyBhdCB0aGUgYWJvdmUgdGVsZXBob25lIG51bWJlci48L2xpPjxiciAvPg0KICAgICA8bGk+V2l0aCByZXNwZWN0IHRvIHNlY3VyaXR5OiBXaGVuIHdlIHRyYW5zZmVyIGFuZCByZWNlaXZlIGNlcnRhaW4gdHlwZXMgb2Ygc2Vuc2l0aXZlIGluZm9ybWF0aW9uIHN1Y2ggYXMgZmluYW5jaWFsIGluZm9ybWF0aW9uLCB3ZSByZWRpcmVjdCB2aXNpdG9ycyB0byBhIHNlY3VyZSBzZXJ2ZXIgdGhhdCBoYXMgYW4gU1NMIGNlcnRpZmljYXRlIHVzaW5nIGF0IGxlYXN0IDEyOC1iaXQgZW5jcnlwdGlvbi4gV2UgaGF2ZSBhcHByb3ByaWF0ZSBzZWN1cml0eSBtZWFzdXJlcyBpbiBwbGFjZSBpbiBvdXIgcGh5c2ljYWwgZmFjaWxpdGllcyB0byBwcm90ZWN0IGFnYWluc3QgdGhlIGxvc3MsIG1pc3VzZSBvciBhbHRlcmF0aW9uIG9mIGluZm9ybWF0aW9uIHRoYXQgd2UgaGF2ZSBjb2xsZWN0ZWQgZnJvbSB5b3UgYXQgb3VyIHNpdGUuPC9saT4NCiAgPC91bD4NCjwvZGl2Pg0KPHAgYWxpZ249Imp1c3RpZnkiIGNsYXNzPSJzdHlsZTIiPklmIHlvdSBmZWVsIHRoYXQgdGhpcyBzaXRlIGlzIG5vdCBmb2xsb3dpbmcgaXRzIHN0YXRlZCBpbmZvcm1hdGlvbiBwb2xpY3ksIHlvdSBtYXkgY29udGFjdCB1cyBhdCB0aGUgYWJvdmUgYWRkcmVzc2VzIG9yIHBob25lIG51bWJlci48L3A+DQo8L3RkPg0KPC90cj48L3RhYmxlPmRk3v2NqQ6Lni2FDy5s+Py+1bGY46A=">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTcwNjgxNjMwD2QWAmYPZBYSZg8PFgIeBFRleHQFATBkZAIBDw8WAh8ABQEwZGQCAg8PFgIfAAUFJDAuMDBkZAIDDw8WAh4HVmlzaWJsZWhkZAIEDw8WAh8ABQEwZGQCBQ8PFgIfAAUBMGRkAgYPDxYCHwAFBSQwLjAwZGQCCg8WAh4LXyFJdGVtQ291bnQCERYiZg9kFgJmDxUCLmh0dHA6Ly93d3cuc2VlZHNhdmVycy5vcmcvSXRlbXMuYXNweD9oaWVySWQ9MzgyT25saW5lIEVYQ0xVU0lWRVMgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkAgEPZBYCZg8VAi5odHRwOi8vd3d3LnNlZWRzYXZlcnMub3JnL0l0ZW1zLmFzcHg/aGllcklkPTczDk5FVyAyMDExIEl0ZW1zZAICD2QWAmYPFQItaHR0cDovL3d3dy5zZWVkc2F2ZXJzLm9yZy9JdGVtcy5hc3B4P2hpZXJJZD04MlZlZ2V0YWJsZXMgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZAIDD2QWAmYPFQIuaHR0cDovL3d3dy5zZWVkc2F2ZXJzLm9yZy9JdGVtcy5hc3B4P2hpZXJJZD0xMDJIZXJicyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGQCBA9kFgJmDxUCLWh0dHA6Ly93d3cuc2VlZHNhdmVycy5vcmcvSXRlbXMuYXNweD9oaWVySWQ9OTJGbG93ZXJzICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGQCBQ9kFgJmDxUCLmh0dHA6Ly93d3cuc2VlZHNhdmVycy5vcmcvSXRlbXMuYXNweD9oaWVySWQ9MTEyVHJhbnNwbGFudHMgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkAgYPZBYCZg8VAi5odHRwOi8vd3d3LnNlZWRzYXZlcnMub3JnL0l0ZW1zLmFzcHg/aGllcklkPTg4MlBvdGF0b2VzICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZAIHD2QWAmYPFQIuaHR0cDovL3d3dy5zZWVkc2F2ZXJzLm9yZy9JdGVtcy5hc3B4P2hpZXJJZD04OTJHYXJsaWMgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGQCCA9kFgJmDxUCLmh0dHA6Ly93d3cuc2VlZHNhdmVycy5vcmcvSXRlbXMuYXNweD9oaWVySWQ9MTIyU2VlZCBDb2xsZWN0aW9ucyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkAgkPZBYCZg8VAi5odHRwOi8vd3d3LnNlZWRzYXZlcnMub3JnL0l0ZW1zLmFzcHg/aGllcklkPTE0DUNvb2tpbmcgQmVhbnNkAgoPZBYCZg8VAi5odHRwOi8vd3d3LnNlZWRzYXZlcnMub3JnL0l0ZW1zLmFzcHg/aGllcklkPTEzMkJvb2tzIGFuZCBQcm9kdWN0cyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZAILD2QWAmYPFQIuaHR0cDovL3d3dy5zZWVkc2F2ZXJzLm9yZy9JdGVtcy5hc3B4P2hpZXJJZD01NTJCQVJHQUlOUyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGQCDA9kFgJmDxUCLmh0dHA6Ly93d3cuc2VlZHNhdmVycy5vcmcvSXRlbXMuYXNweD9oaWVySWQ9MTUUV2hvbGVzYWxlIFNlZWQgUmFja3NkAg0PZBYCZg8VAi5odHRwOi8vd3d3LnNlZWRzYXZlcnMub3JnL0l0ZW1zLmFzcHg/aGllcklkPTE2GEJlY29tZSBhIE1lbWJlciBvciBSZW5ld2QCDg9kFgJmDxUCLmh0dHA6Ly93d3cuc2VlZHNhdmVycy5vcmcvSXRlbXMuYXNweD9oaWVySWQ9NzIyRG9uYXRpb25zICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkAg8PZBYCZg8VAi5odHRwOi8vd3d3LnNlZWRzYXZlcnMub3JnL0l0ZW1zLmFzcHg/aGllcklkPTU0MkdpZnQgQ2VydGlmaWNhdGVzICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZAIQD2QWAmYPFQIuaHR0cDovL3d3dy5zZWVkc2F2ZXJzLm9yZy9JdGVtcy5hc3B4P2hpZXJJZD03NTJHaWZ0cyBmcm9tIFRoZSBMaWxsaWFuIEdvbGRtYW4gVmlzaXRvcnMgQ2VudGVyICAgIGQCCw9kFgICAw9kFgICAQ8WAh8ABaUjPHN0eWxlIHR5cGU9InRleHQvY3NzIj4NCjwhLS0NCi5zdHlsZTEgew0KCWZvbnQtZmFtaWx5OiBHZW9yZ2lhLCAiVGltZXMgTmV3IFJvbWFuIiwgVGltZXMsIHNlcmlmOw0KCWNvbG9yOiAjNjAwYzBjOw0KfQ0KLnN0eWxlMiB7DQoJZm9udC1mYW1pbHk6IEdlb3JnaWEsICJUaW1lcyBOZXcgUm9tYW4iLCBUaW1lcywgc2VyaWY7DQoJZm9udC1zaXplOiAxMnB4Ow0KCWNvbG9yOiAjOGU4MzY1Ow0KfQ0KLnN0eWxlMyB7DQoJZm9udC1zaXplOiAxMnB4Ow0KCWNvbG9yOiAjOGU4MzY1Ow0KfQ0KLnN0eWxlNCB7Zm9udC1mYW1pbHk6IEdlb3JnaWEsICJUaW1lcyBOZXcgUm9tYW4iLCBUaW1lcywgc2VyaWZ9DQouc3R5bGU1IHsNCgljb2xvcjogIzFlNTUzNDsNCglmb250LXdlaWdodDogYm9sZDsNCn0NCi5zdHlsZTYge2NvbG9yOiAjMWU1NTM0fQ0KLS0+DQo8L3N0eWxlPg0KPHRhYmxlIGNlbGxwYWRkaW5nPSI1IiBjZWxsc3BhY2luZz0iNSIgd2lkdGg9IjEwMCUiIGJvcmRlcj0iMCI+PHRyPjx0ZCBjbGFzcz0icGxhaW50ZXh0Ij4NCjxwPjxoMSBhbGlnbj1jZW50ZXIgY2xhc3M9InN0eWxlMSI+UHJpdmFjeSBQb2xpY3kgU3RhdGVtZW50PC9oMT4NCjwvcD4NCjxwIGFsaWduPSJqdXN0aWZ5IiBjbGFzcz0ic3R5bGUyIj5UaGlzIGlzIHRoZSB3ZWIgc2l0ZSBvZiA8c3BhbiBjbGFzcz0ic3R5bGU1Ij5TZWVkIFNhdmVycyBFeGNoYW5nZTwvc3Bhbj4uPC9wPg0KPHAgYWxpZ249Imp1c3RpZnkiIGNsYXNzPSJzdHlsZTIiPk91ciBwb3N0YWwgYWRkcmVzcyBpcyA8YnI+DQogIDxzcGFuIGNsYXNzPSJzdHlsZTYiPjxiPjMwOTQgTm9ydGggV2lubiBSb2FkPC9iPjxicj4NCiAgPGI+RGVjb3JhaCwgSW93YSA1MjEwMTwvYj48L3NwYW4+PC9wPg0KPGRpdiBhbGlnbj0ianVzdGlmeSIgY2xhc3M9InN0eWxlMyI+PHNwYW4gY2xhc3M9InN0eWxlNCI+V2UgY2FuIGJlIHJlYWNoZWQgdmlhIGUtbWFpbCBhdCA8YSBocmVmPSJtYWlsdG86Y3VzdG9tZXJzZXJ2aWNlQHNlZWRzYXZlcnMub3JnIiBjbGFzcz0ic3R5bGU1Ij5DdXN0b21lciBTZXJ2aWNlPC9hPjwvYj48YnI+DQogIG9yIHlvdSBjYW4gcmVhY2ggdXMgYnkgdGVsZXBob25lIGF0IDxiIGNsYXNzPSJzdHlsZTUiPig1NjMpIDM4Mi01OTkwPC9iPjxicj4NCjwvc3Bhbj48L2Rpdj4NCjxkaXYgYWxpZ249Imp1c3RpZnkiIGNsYXNzPSJzdHlsZTMiPg0KICA8dWwgY2xhc3M9InN0eWxlNCI+DQogICAgDQogICAgPGxpPkZvciBlYWNoIHZpc2l0b3IgdG8gb3VyIFdlYiBwYWdlLCBvdXIgV2ViIHNlcnZlciBhdXRvbWF0aWNhbGx5IHJlY29nbml6ZXMgdGhlIGNvbnN1bWVyJ3MgZG9tYWluIG5hbWUgYW5kIGUtbWFpbCBhZGRyZXNzICh3aGVyZSBwb3NzaWJsZSkuPC9saT48YnIgLz4NCiAgICA8bGk+V2UgY29sbGVjdCB0aGUgZG9tYWluIG5hbWUgIG9mIHZpc2l0b3JzIHRvIG91ciBXZWIgcGFnZSwgYWdncmVnYXRlIGluZm9ybWF0aW9uIG9uIHdoYXQgcGFnZXMgY29uc3VtZXJzIGFjY2VzcyBvciB2aXNpdCwgdXNlci1zcGVjaWZpYyBpbmZvcm1hdGlvbiBvbiB3aGF0IHBhZ2VzIGNvbnN1bWVycyBhY2Nlc3Mgb3IgdmlzaXQuPC9saT48YnIgLz4NCiAgICA8bGk+V2UgZG8gbm90IHNlbGwsIHNoYXJlLCByZW50IG9yIHRyYWRlIG91ciBtYWlsaW5nIGxpc3QuPC9saT48YnIgLz4NCiAgICA8bGk+V2l0aCByZXNwZWN0IHRvIGNvb2tpZXM6IFdlIHVzZSBjb29raWVzIHRvIHN0b3JlIHZpc2l0b3JzIHByZWZlcmVuY2VzLCByZWNvcmQgc2Vzc2lvbiBpbmZvcm1hdGlvbiwgc3VjaCBhcyBpdGVtcyB0aGF0IGNvbnN1bWVycyBhZGQgdG8gdGhlaXIgc2hvcHBpbmcgY2FydCwgcmVjb3JkIHVzZXItc3BlY2lmaWMgaW5mb3JtYXRpb24gb24gd2hhdCBwYWdlcyB1c2VycyBhY2Nlc3Mgb3IgdmlzaXQsIHJlY29yZCBwYXN0IGFjdGl2aXR5IGF0IGEgc2l0ZSBpbiBvcmRlciB0byBwcm92aWRlIGJldHRlciBzZXJ2aWNlIHdoZW4gdmlzaXRvcnMgcmV0dXJuIHRvIG91ciBzaXRlLjwvbGk+PGJyIC8+DQogICAgPGxpPklmIHlvdSBkbyBub3Qgd2FudCB0byByZWNlaXZlIGUtbWFpbHMgZnJvbSB1cyBpbiB0aGUgZnV0dXJlLCBwbGVhc2UgbGV0IHVzIGtub3cgYnkgc2VuZGluZyB1cyBlLW1haWwgYXQgdGhlIGFib3ZlIGFkZHJlc3MsIGNhbGxpbmcgdXMgYXQgdGhlIGFib3ZlIHRlbGVwaG9uZSBudW1iZXIuPC9saT48YnIgLz4NCiAgICA8bGk+SWYgeW91IHN1cHBseSB1cyB3aXRoIHlvdXIgcG9zdGFsIGFkZHJlc3Mgb24tbGluZSB5b3UgbWF5IHJlY2VpdmUgcGVyaW9kaWMgbWFpbGluZ3MgZnJvbSB1cyB3aXRoIGluZm9ybWF0aW9uIG9uIG5ldyBwcm9kdWN0cyBhbmQgc2VydmljZXMgb3IgdXBjb21pbmcgZXZlbnRzLiAgIElmIHlvdSBkbyBub3Qgd2lzaCB0byByZWNlaXZlIHN1Y2ggbWFpbGluZ3MsIHBsZWFzZSBsZXQgdXMga25vdyBieSBjYWxsaW5nIHVzIGF0IHRoZSBudW1iZXIgcHJvdmlkZWQgYWJvdmUsIGUtbWFpbGluZyB1cyBhdCB0aGUgYWJvdmUgYWRkcmVzcy48L2xpPjxiciAvPg0KICAgIDxsaT5JZiB5b3Ugc3VwcGx5IHVzIHdpdGggeW91ciBlLW1haWwgYWRkcmVzcyBvbi1saW5lIHlvdSBtYXkgcmVjZWl2ZSBwZXJpb2RpYyBuZXdzbGV0dGVycyBmcm9tIHVzIHdpdGggbmV3cyBvciB1cGNvbWluZyBldmVudHMuICAgSWYgeW91IGRvIG5vdCB3aXNoIHRvIHJlY2VpdmUgc3VjaCBtYWlsaW5ncywgcGxlYXNlIGxldCB1cyBrbm93IGJ5IGNhbGxpbmcgdXMgYXQgdGhlIG51bWJlciBwcm92aWRlZCBhYm92ZSwgZS1tYWlsaW5nIHVzIGF0IHRoZSBhYm92ZSBhZGRyZXNzLjwvbGk+PGJyIC8+DQogICAgPGxpPlBsZWFzZSBwcm92aWRlIHVzIHdpdGggeW91ciBleGFjdCBuYW1lIGFuZCBhZGRyZXNzLiA8L2xpPjxiciAvPg0KICAgIDxsaT5Gcm9tIHRpbWUgdG8gdGltZSwgd2UgbWF5IHVzZSBjdXN0b21lciBpbmZvcm1hdGlvbiBmb3IgbmV3LCB1bmFudGljaXBhdGVkIHVzZXMgbm90IHByZXZpb3VzbHkgZGlzY2xvc2VkIGluIG91ciBwcml2YWN5IG5vdGljZS4gIElmIG91ciBpbmZvcm1hdGlvbiBwcmFjdGljZXMgY2hhbmdlIGF0IHNvbWUgdGltZSBpbiB0aGUgZnV0dXJlIHdlIHdpbGwgcG9zdCB0aGUgcG9saWN5IGNoYW5nZXMgdG8gb3VyIFdlYiBzaXRlIHRvIG5vdGlmeSB5b3Ugb2YgdGhlc2UgY2hhbmdlcyBhbmQgcHJvdmlkZSB5b3Ugd2l0aCB0aGUgYWJpbGl0eSB0byBvcHQgb3V0IG9mIHRoZXNlIG5ldyB1c2VzLiAgSWYgeW91IGFyZSBjb25jZXJuZWQgYWJvdXQgaG93IHlvdXIgaW5mb3JtYXRpb24gaXMgdXNlZCwgeW91IHNob3VsZCBjaGVjayBiYWNrIGF0IG91ciBXZWIgc2l0ZSBwZXJpb2RpY2FsbHkuIDwvbGk+PGJyIC8+DQogICAgPGxpPlVwb24gcmVxdWVzdCB3ZSBwcm92aWRlIHNpdGUgdmlzaXRvcnMgd2l0aCBhY2Nlc3MgdG8gdW5pcXVlIGlkZW50aWZpZXIgaW5mb3JtYXRpb24gKGUuZy4sIGN1c3RvbWVyIG51bWJlciBvciBwYXNzd29yZCkgdGhhdCB3ZSBtYWludGFpbiBhYm91dCB0aGVtLCB0cmFuc2FjdGlvbiBpbmZvcm1hdGlvbiAoZS5nLiwgZGF0ZXMgb24gd2hpY2ggY3VzdG9tZXJzIG1hZGUgcHVyY2hhc2VzLCBhbW91bnRzIGFuZCB0eXBlcyBvZiBwdXJjaGFzZXMpIHRoYXQgd2UgbWFpbnRhaW4gYWJvdXQgdGhlbSwgY29udGFjdCBpbmZvcm1hdGlvbiAoZS5nLiwgbmFtZSwgYWRkcmVzcywgcGhvbmUgbnVtYmVyKSB0aGF0IHdlIG1haW50YWluIGFib3V0IHRoZW0uPC9saT48YnIgLz4NCiAgICA8bGk+Q29uc3VtZXJzIGNhbiBoYXZlIHRoaXMgaW5mb3JtYXRpb24gY29ycmVjdGVkIGJ5IHNlbmRpbmcgdXMgYW4gZS1tYWlsIGF0IHRoZSBhYm92ZSBhZGRyZXNzIG9yIGNhbGxpbmcgdXMgYXQgdGhlIGFib3ZlIHRlbGVwaG9uZSBudW1iZXIuPC9saT48YnIgLz4NCiAgICAgPGxpPldpdGggcmVzcGVjdCB0byBzZWN1cml0eTogV2hlbiB3ZSB0cmFuc2ZlciBhbmQgcmVjZWl2ZSBjZXJ0YWluIHR5cGVzIG9mIHNlbnNpdGl2ZSBpbmZvcm1hdGlvbiBzdWNoIGFzIGZpbmFuY2lhbCBpbmZvcm1hdGlvbiwgd2UgcmVkaXJlY3QgdmlzaXRvcnMgdG8gYSBzZWN1cmUgc2VydmVyIHRoYXQgaGFzIGFuIFNTTCBjZXJ0aWZpY2F0ZSB1c2luZyBhdCBsZWFzdCAxMjgtYml0IGVuY3J5cHRpb24uIFdlIGhhdmUgYXBwcm9wcmlhdGUgc2VjdXJpdHkgbWVhc3VyZXMgaW4gcGxhY2UgaW4gb3VyIHBoeXNpY2FsIGZhY2lsaXRpZXMgdG8gcHJvdGVjdCBhZ2FpbnN0IHRoZSBsb3NzLCBtaXN1c2Ugb3IgYWx0ZXJhdGlvbiBvZiBpbmZvcm1hdGlvbiB0aGF0IHdlIGhhdmUgY29sbGVjdGVkIGZyb20geW91IGF0IG91ciBzaXRlLjwvbGk+DQogIDwvdWw+DQo8L2Rpdj4NCjxwIGFsaWduPSJqdXN0aWZ5IiBjbGFzcz0ic3R5bGUyIj5JZiB5b3UgZmVlbCB0aGF0IHRoaXMgc2l0ZSBpcyBub3QgZm9sbG93aW5nIGl0cyBzdGF0ZWQgaW5mb3JtYXRpb24gcG9saWN5LCB5b3UgbWF5IGNvbnRhY3QgdXMgYXQgdGhlIGFib3ZlIGFkZHJlc3NlcyBvciBwaG9uZSBudW1iZXIuPC9wPg0KPC90ZD4NCjwvdHI+PC90YWJsZT5kZBAku5lPip/FihS4Wz3rWLhUEMoG">
 
 
 <script src="/ScriptResource.axd?d=mDSH4MRR_4QmEIiMI61d4Lnv3s3cM_IoXmGJAvCsOkcKSPKTV1so_czaoxYDlyx43NVVkR_o9LMl1csdACFWx-85-Aarsw2Zi_1tF4sajY41&amp;t=633604470452333750" type="text/javascript"></script>
@@ -304,7 +347,7 @@ document.writeln('<scr' + 'ipt language="JavaScript" src="'+cot_loc0+'" type="te
 <p align="justify" class="style2">Our postal address is <br>
   <span class="style6"><b>3094 North Winn Road</b><br>
   <b>Decorah, Iowa 52101</b></span></p>
-<div align="justify" class="style3"><span class="style4">We can be reached via e-mail at <a href="mailto:laura@seedsavers.org" class="style5">Laura Ollendick</a> or <a href="mailto:kathy@seedsavers.org" class="style5">Kathy Greentree</a><br>
+<div align="justify" class="style3"><span class="style4">We can be reached via e-mail at <a href="mailto:customerservice@seedsavers.org" class="style5">Customer Service</a><br>
   or you can reach us by telephone at <b class="style5">(563) 382-5990</b><br>
 </span></div>
 <div align="justify" class="style3">
@@ -357,22 +400,33 @@ Sys.Application.initialize();
                             </tbody></table>
                          </div>
                         <p class="info">
-                            Seed Savers Exchange is a non-profit organization dedicated to the preservation of heirloom seeds.
+						
+						<a href="http://www.seedsavers.org/Items.aspx?hierId=8" class="customer2" onclick="MM_openBrWindow('http://www.seedsavers.org/SatisfactionGuaranteed.htm','','toolbar=yes,scrollbars=yes,width=450,height=500')">Safe Seed Pledge &amp; Satisfaction Guarantee | </a> 
+
+
+<a href="http://www.seedsavers.org/Items.aspx?hierId=8" class="customer2" onclick="MM_openBrWindow('http://www.seedsavers.org/untreated_seed.htm','','toolbar=yes,scrollbars=yes,width=450,height=300')">Untreated Seed Statement</a>
+						
+                            <br>Seed Savers Exchange is a non-profit organization dedicated to the preservation of heirloom seeds.
                             <br>Images on this site are protected by <a id="infoLink" href="http://www.seedsavers.org/Content.aspx?src=buyonline.htm" target="_self" onclick="MM_openBrWindow('http://www.seedsavers.org/copyright.htm','','width=800,height=350')">copyright</a>, unauthorized use is not permitted.
                             <br>Seed Savers Exchange, 3094 North Winn Rd, Decorah, Iowa 52101 Phone: (563) 382-5990 and Fax: (563) 382-6511
+						
                         </p>
+						
 		            </td>
 	            </tr>
                 <tr bgcolor="#7c9d7e" height="15px">
                 </tr>
             </tbody></table> 
-            <div id="footer">
-	            <div><img src="images/copyright.gif"></div>
-            </div>
-        </td>
+            </td></tr><tr>
+      <td colspan="3"><div id="footer">
+          <table width="990" border="0" cellspacing="0" cellpadding="0">
+            <tbody><tr>
+              <td id="footer-copy">© 2011 Seed Savers Exchange</td>
+			  
+        
     </tr>
 </tbody></table>
-    </center>
+   </div><!--end #wrap-->
     
     <!--BEGIN GOOGLE ANALYTICS-->
     <script type="text/javascript">
@@ -383,17 +437,17 @@ Sys.Application.initialize();
     </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
     <script type="text/javascript">
         <!--
-        var pageTracker = _gat._getTracker("UA-3791189-5");
+        var pageTracker = _gat._getTracker("UA-8607650-1");
         pageTracker._initData();
         pageTracker._trackPageview();
         //-->
     </script>
     <!--END GOOGLE ANALYTICS-->
     
-	<a href="http://www.instantssl.com" id="comodoTL">Buy SSL Certificate</a>
-<script language="JavaScript" type="text/javascript">
-COT("http://www.seedsavers.org/images/cot.gif", "SC2", "none");
-</script>
+	
+	
 
 
-</body></html>
+
+
+</td></tr></tbody></table></div></body></html>
