@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the rentalcars.com privacy policy that was archived on 2010-12-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101222165305id_/http%3A//www.rentalcars.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rentalcars.com privacy policy that was archived on 2011-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110615023101id_/http%3A//www.rentalcars.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 	<meta http-equiv="Content-Type" content="text/html;charset=iso-8859-1">
@@ -26,15 +26,17 @@
 	<a href="/" title="Rental Cars.com" id="logo">Rental Cars.com</a>
 
 	<div id="newsletter">
-		<form action="http://hbcweb.createsend.com/t/r/s/ydsuj/" id="frmNews" method="post" target="ifrNews">
-		<iframe name="ifrNews" src="" style="display:none;"></iframe>
-		<div id="dvContact">
-			<p class="mb5">Get Rental Car Deals by Email! Sign Up Here.</p>
-			<div class="fl mr10 inline"><input type="text" name="cm-name" id="newsname" value="first name" onclick="this.value=''"></div>
-			<div class="fl"><input type="text" name="cm-ydsuj-ydsuj" id="newsemail" value="email address" onclick="this.value=''"></div>
-			<a class="signup" onclick="newsSubmit();return false;" href="" title="Sign-Up">Sign-up</a>
-		</div>
-		<p id="dvSent" style="display: none;">Thanks! You have been added to our subscriber list.</p>
+		 
+		<form action="/includes/savesub.php" id="frmNews" method="post" target="ifrNews">
+			<iframe name="ifrNews" src="" style="display:none;"></iframe>
+			<div id="dvContact">
+				<p class="mb5">Get Rental Car Deals by Email! Sign Up Here.</p>
+				<div class="fl mr10 inline"><input type="text" name="name" id="newsname" value="first name" onclick="this.value=''"></div>
+				<div class="fl"><input type="text" name="email" id="newsemail" value="email address" onclick="this.value=''"></div>
+				<input type="hidden" name="refid" value="">
+				<a class="signup" onclick="newsSubmit();return false;" href="" title="Sign-Up">Sign-up</a>
+			</div>
+			<p id="dvSent" style="display: none;">Thanks! You have been added to our subscriber list.</p>
 		</form>
 		<script language="javascript">
 		function newsSubmit()
@@ -55,6 +57,11 @@
 			{
 				alert("Please enter a valid email address.");
 				document.getElementById('newsemail').focus();
+			}
+			else if (!document.getElementById('newsname').value.match(/^[a-zA-Z ]+$/))
+			{
+				alert('Please enter a valid name.');
+				document.getElementById('newsname').focus();
 			}
 			else
 			{
@@ -78,7 +85,7 @@
 			ord = window.ord || Math.floor(Math.random()*1E16);
 			document.write('<script type="text/javascript" src="http://ad.doubleclick.net/adj/RentalCars.com/rc_160;sz=160x600;ord=' + ord + '?"><\/script>');
 		//]]>
-		</script><script type="text/javascript" src="http://ad.doubleclick.net/adj/RentalCars.com/rc_160;sz=160x600;ord=843257987442553?"></script>
+		</script><script type="text/javascript" src="http://ad.doubleclick.net/adj/RentalCars.com/rc_160;sz=160x600;ord=9221368370784786?"></script>
 		<noscript>
 			<a href="http://ad.doubleclick.net/jump/RentalCars.com/rc_160;sz=160x600;ord=616988672?" target="_blank" ><img src="http://ad.doubleclick.net/ad/RentalCars.com/rc_160;sz=160x600;ord=616988672?" border="0" alt="Advertisement" /></a>
 		</noscript>
@@ -306,8 +313,8 @@
 	</p>
 
 	<p>
-		All material herein © 1998 - 2010 Lowestfare.com LLC, all rights reserved.<br>
-		rentalcars.com and the rentalcars.com logo are service marks of priceline.com.  © Copyrights 2010 priceline.com
+		All material herein © 1998 - 2011 Lowestfare.com LLC, all rights reserved.<br>
+		rentalcars.com and the rentalcars.com logo are service marks of priceline.com.  © Copyrights 2011 priceline.com
 	</p>
 
 	</div>
