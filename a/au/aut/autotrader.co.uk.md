@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autotrader.co.uk privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225080246id_/http%3A//www.autotrader.co.uk/common/mytrader/auto_trader_privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autotrader.co.uk privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615063141id_/http%3A//www.autotrader.co.uk/common/mytrader/auto_trader_privacy_policy.jsp) for the most accurate reproduction.*
 
 # Auto Trader Privacy Policy - Auto Trader UK
 
@@ -7,10 +7,43 @@ All personal information collected and used from the Auto Trader site will be pr
 References in this policy to "Auto Trader" also apply to its sister channels on this web site, including: Commercial Trader, Bike Trader, Truck Trader, Plant Trader, Van Trader, Farmers Trader and Motorhome and Caravan Trader.   
 
 
-**INFORMATION COLLECTED**
-
 **Online Advertisements  
 ** In order to place an advertisement on the Auto Trader web site, you will need to register. We will require you to supply your name, date of birth, e-mail address, postal address and postcode. You will also be required to supply payment details and your vehicle registration. Registrants are also presented with the option of supplying their mobile number, insurance renewal dates, and the make and model of any cars owned. Credit Card information is collected over a secure connection.
+
+**New Cars** By requesting services on the New Car area of the Auto Trader Website (“New Car Website”), we will need to collect certain personal information belonging to you. By submitting personal information to us, you are deemed to have agreed to the terms set out below regarding the use of your personal information.
+
+  
+
+
+In order to book a test drive of a new car, we will require you to supply your name, e-mail address, postal address and telephone number.
+
+When you request a quote or a brochure we will require you to supply your name, e-mail address, postal address and telephone number. 
+
+**Use of information**
+
+**Test Drive**
+
+  
+
+
+Your contact details including telephone number and email address are collected to enable us to pass your details onto third parties who will contact you directly to arrange a test drive.
+
+**A quote or brochure**
+
+Your contact details are collected in order for us to pass your details on to third party dealers and vehicle manufacturers who will send you a quote or brochure via email and/or post.
+
+**Who we may disclose information to**
+
+  
+
+
+We may disclose your personal information to third parties as follows:
+
+  1. a) We will send your personal information to dealers, vehicle manufacturers and relevant third parties to enable them to provide you with the services and products that you have requested on the New Car Website, e.g. a test drive, quotation or brochure. In certain circumstances, vehicle manufacturers (including Ford Motor Company Limited) may transfer and store your personal information outside of the European Economic Area for business and administration purposes; 
+  2. b) If we are under any duty to disclose or share your personal information in order to comply with any legal obligation, or in order to enforce our terms and conditions and any other agreements.
+  3. c) Auto Trader is part of Trader Media Group and information supplied via the New Car Website and/or the Auto Trader Website may be shared with other group companies. We have taken measures to ensure that information supplied to us is held securely.
+
+
 
 **Vehicle Searches  
 ** In order to conduct a vehicle search on the Auto Trader web site, we will require you to supply a postcode and a selection of identifying criteria matching your chosen vehicle, for example make, model and price. 
@@ -42,9 +75,6 @@ All details supplied to Auto Trader with your on-line advertisement will be safe
 **Vehicle Searches**   
 Postcodes and vehicle information are collected in order to provide a relevant match of vehicles against a specified search. The inclusion of the postcode enables us to provide the potential buyer with a range of vehicles within a chosen locality, rather than vehicles randomly spread throughout the country. 
 
-  
-
-
 **Vehicle Registration Numbers  
 ** Vehicle Registration Numbers are provided to Auto Trader to enable it to provide to you (unless you have opted out from receiving this information during the registration process) and/or to persons carrying out vehicle searches on the Auto Trader Website with details of offers and with services including, without limitation, insurance quotations, vehicle history and credit checks and vehicle valuations and such other services as are developed by Auto Trader from time to time. Vehicle Registration Numbers will be passed by Auto Trader to its third party authorised partners for the purpose of enabling them to provide such offers and services. As part of the provision of these services, the third party authorised partner may need to disclose the Vehicle Registration Number to a third party for example, without limitation, an insurer, insurance panel or credit reference agency.  Auto Trader will not disclose the Vehicle Registration Number to any person carrying out vehicle searches on the Auto Trader website and the Vehicle Registration Number will not be displayed on the Auto Trader website.
 
@@ -61,7 +91,7 @@ Email addresses are collected in order to send registrants their chosen password
 
 5\. To support our 'Send To Mobile' functionality - whereby visitors to our site can send details of vehicles for sale to mobile phones.
 
- **USE OF COOKIES**
+**USE OF COOKIES**
 
 When you visit our web site we issue a "cookie" or unique identification code that enables us to recognise your computer and store settings to help facilitate your use of our site. 
 
@@ -78,9 +108,6 @@ If your computer is cookie enabled we are also able to limit the number of occas
 
 Please note you need to enable cookies in your browser in order to place an advert. For further information on cookies or for details on how to delete them or refuse their installation on your computer, please visit <http://www.aboutcookies.org/>
 
-  
-
-
 **Why we use cookies**   
 Auto Trader uses cookies for 4 purposes:   
 1. To enable the delivery of functionality that improves the ease and speed of using the Auto Trader web site (see above). 
@@ -91,7 +118,7 @@ Auto Trader uses cookies for 4 purposes:
 
 4. To enable us to track the relative popularity of disparate parts of our site. This in turn enables us to concentrate our efforts on developing those parts of the site that are generating the greatest consumer demand.
 
- **Third Party Cookies**   
+**Third Party Cookies**   
 We also use third party cookies on our site for various purposes, as detailed below: 
 
 Omniture 
@@ -123,9 +150,6 @@ Why are we collecting this information?
 
 Your address 
 
-  
-
-
 We ask for your address for two reasons:   
 1. When you have logged onto the site, your postcode will automatically populate the postcode box on the search form. All search results will automatically be displayed with those closest to your home first, until you choose to sort your search results using different criteria e.g. price. 
 
@@ -142,8 +166,4 @@ Thanks to our long running associations with the Motor Trade, we often hear abou
 **Offensive or misleading adverts or content**
 
 If you notice any offensive or unsuitable adverts or content on Autotrader.co.uk, please email [enquiries@autotrader.co.uk](mailto:enquiries@autotrader.co.uk) or call 0845 345 3450.   
-
-
-  
-  
 
