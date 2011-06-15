@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelpost.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206193200id_/http%3A//www.travelpost.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelpost.com privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615113208id_/http%3A//www.travelpost.com/privacy.aspx) for the most accurate reproduction.*
 
 # TravelPost Privacy Policy
 
@@ -101,4 +101,4 @@ Seattle, WA 98104
 Attention: Privacy Officer   
 
 
-Further information about TravelPost is available at [About TravelPost.com](https://web.archive.org/web/20101206193200id_/http%3A//www.travelpost.com/about.aspx). 
+Further information about TravelPost is available at [About TravelPost.com](https://web.archive.org/web/20110615113208id_/http%3A//www.travelpost.com/about.aspx). 
