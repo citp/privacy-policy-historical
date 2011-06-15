@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usp.org privacy policy that was archived on 2009-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090403080207id_/http%3A//www.usp.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usp.org privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615191028id_/http%3A//www.usp.org/privacy.html) for the most accurate reproduction.*
 
 # USP Web site Privacy Policy
 
@@ -7,15 +7,19 @@
   * [About USP](http://www.usp.org/aboutUSP/)
   * [USP–NF](http://www.usp.org/USPNF/)
   * [Food Chemicals Codex](http://www.usp.org/fcc/)
-  * [Pending & Non-US Standards](http://www.usp.org/standards/)
+  * [Pending & Non-US Monographs](http://www.usp.org/standards/)
   * [Reference Standards](http://www.usp.org/referenceStandards/)
   * [USP Verified](http://www.usp.org/USPVerified/)
   * [Pharmacopeial Education](http://www.usp.org/education/)
-  * [Healthcare Quality and Information](http://www.usp.org/hqi/)
   * [USP in Developing Countries](http://www.usp.org/worldwide/)
   * [Meetings](http://www.usp.org/meetings/)
   * [Products](http://www.usp.org/products/)
 
+
+
+**Information For:**
+
+  
 |  |  [Home](http://www.usp.org/) › USP Web site Privacy Policy  |  [Printable Version](http://www.usp.org/privacy.html?USP_Print) [Email Page](http://www.usp.org/privacy.html?emailLink)  
 ---|---  
   
