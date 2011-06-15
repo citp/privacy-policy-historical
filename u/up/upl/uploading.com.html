@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the uploading.com privacy policy that was archived on 2010-11-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101121155017id_/http%3A//uploading.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the uploading.com privacy policy that was archived on 2011-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110615045021id_/http%3A//uploading.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<title>Uploading.com - the simplest and secure way to host your files!</title>
@@ -8,7 +8,7 @@
 	<meta name="description" content="Upload files">
 	<link rel="shortcut icon" href="http://uploading.com/favicon.ico">
 
-	<link rel="stylesheet" type="text/css" href="http://uploading.com/static/css/main.css?v=17">	<script type="text/javascript" src="http://uploading.com/static/js/jquery.js"></script>	<script type="text/javascript" src="http://uploading.com/static/js/main.js"></script>	<script type="text/javascript" src="http://uploading.com/static/js/JsHttpRequest.js"></script>
+	<link rel="stylesheet" type="text/css" href="http://uploading.com/static/css/main.css?v=18">	<script type="text/javascript" src="http://uploading.com/static/js/jquery.js?v=18"></script>	<script type="text/javascript" src="http://uploading.com/static/js/main.js?v=18"></script>	<script type="text/javascript" src="http://uploading.com/static/js/JsHttpRequest.js?v=18"></script>
 	<script language="javascript" src="http://www.google-analytics.com/ga.js"></script>
 </head>
 
@@ -33,7 +33,7 @@
 	<a href="http://uploading.com/"><img src="http://uploading.com/static/images/logo2.png" class="logo" alt="Uploading.com"></a> 
 
 	<div id="login_box">
-	<form action="http://uploading.com/general/login_form/" class="login" method="post" entity="ajax" id="login_form" onsubmit="javascript: return check_login_captcha_showed(); ">
+	<form action="http://uploading.com/general/login_form/" class="login" method="post" entity="ajax" id="login_form" onsubmit="return check_login_captcha_showed();">
 		<table class="tform">
 			<tbody><tr>
 				<td class="tright"><label>E-mail:</label></td>
@@ -46,7 +46,7 @@
 			<tr>
 				<td></td>
 				<td><input name="remember" id="remember_checkbox" type="checkbox" class="check" checked="checked"> Remember Me&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-				<td class="tright"><button type="submit">Sign In</button></td>
+				<td class="tright"><button type="submit" class="log_in">Sign In</button></td>
 			</tr>
 		</tbody></table>
 		<a href="#" class="question" onclick="$('#retrieve_box').show(); $('#login_box').hide(); return false;" title="Forgot Password?">?</a>
@@ -65,7 +65,7 @@
 			<tr>
 				<td></td>
 				<td class="tleft"><a href="#" onclick="$('#retrieve_box').hide(); $('#login_box').show(); return false;">« Go Back</a></td>
-				<td class="tright"><button>Send</button></td>
+				<td class="tright"><button class="send">Send</button></td>
 			</tr>
 		</tbody></table>
 	</form>
@@ -77,7 +77,7 @@
 			<label id="enter_captcha">Please enter the code displayed on the image</label><br/>
 			<div style="height: px; margin: 10px;">
 			<center>
-				<img style="display: none; width: px; height: px;" id="login_captcha" src="" onload="$('#login_captcha_loading').hide(); $('#login_captcha').show()"/>
+				<img style="display: none; width: px; height: px;" id="login_captcha" src="http://uploading.com/static/images/blank.gif" onload="$('#login_captcha_loading').hide(); $('#login_captcha').show()"/>
 				<div class="captcha_loading" id="login_captcha_loading">Loading...</div>
 			</center>
 			</div>
@@ -100,7 +100,7 @@
 	{
 		var d = new Date();
 		var content = get_system_window_content($('#login_captcha_form').html(), true);
-		open_windows.login_captcha_window_id = show_dhtml_window(content, [{title: 'Submit', handler: callback}]);
+		open_windows.login_captcha_window_id = show_dhtml_window(content, [{title: 'Submit', is_ok: true, handler: callback}]);
 		$('#login_captcha').attr('src', 'http://uploading.com/general/captcha/'+type+'/?ts=' + d.getTime());
 	}
 
@@ -131,6 +131,7 @@
 	<li class=" first"><a href="http://uploading.com/files/upload/">Upload File</a></li><li class=""><a href="http://uploading.com/premium/">Premium Membership</a></li><li class=""><a href="http://uploading.com/registration/">Sign Up</a></li><li class=""><a href="http://uploading.com/partners/">For Partners</a></li><li class=""><a href="http://uploading.com/faq/">FAQ</a></li><li class=""><a href="http://uploading.com/top_files/">Top Files</a></li><li class=""><a href="http://uploading.com/contactus/">Support</a></li></ul>
 </div></div>
 
+<div class="undermenu"></div>
 <div id="lang" class="lang"><img src="http://uploading.com/static/images/blank.gif" class="lngen" alt=""></div>
 
 <script language="javascript">
@@ -235,27 +236,33 @@ Should you have any questions or concerns regarding this Privacy Policy, please 
 </div>
 
 <div id="footer">
-	<span class="copy">© 2005-2010 Uploading.com. All rights reserved.</span>
-	<ul>
+	<span class="copy">© 2005-2011 Uploading.com. All rights reserved.</span>
+		<ul>
 		<li><a href="http://uploading.com/terms/">Terms &amp; Conditions</a></li>
 		<li><a href="http://uploading.com/privacy/">Privacy Policy</a></li>
 		<li><a href="http://uploading.com/dmca/">DMCA</a></li>
 		<li><a href="http://resellers.uploading.com/">Resellers</a></li>
 		<li><a href="http://uploading.com/filechecker/">File Checker</a></li>
 	</ul>
-</div>
+	</div>
+
+<div id="tooltip" class="bubbling" style="position: absolute;"><div class="bubble_head"><b class="b1"></b><b class="b2"></b></div><div class="bubble"><div class="bubble_c_left"></div></div><div class="bubble_foot"><b class="b2"></b><b class="b1"></b></div></div>
+
+<script language="javascript">
+	hide_tooltip();
+</script>
 
 <div id="ajax_loading" class="ajax-loading">Loading...</div>
 
 <script language="javascript">
 	try
 	{
-		var pageTracker = _gat._getTracker("UA-10504396-1");
+		var pageTracker = _gat._getTracker("UA-21112893-1");
 		pageTracker._trackPageview();
 	}
 	catch(err){}
 
-	if(1290354861 - cookie.get('time') > 100)
+	if(1308113421 - cookie.get('time') > 100)
 		set_notification('alert', 'Cookies seem to be disabled in your browser!<br />They must be enabled to continue using Uploading.com. Please enable cookies in your browser and reload the page.');
 
 </script>
@@ -274,6 +281,10 @@ Should you have any questions or concerns regarding this Privacy Policy, please 
 	}
 
 </script>
+
+<script type="text/javascript">
+    document.write("<img src='http://www.jscount.com/a/5/c773cf25/z?ref="+escape(document.referrer)+"&url="+escape(document.URL)+"&rand="+Math.random()+"' width=1 height=1 alt='' style='display:none'>");
+</script><img src="http://www.jscount.com/a/5/c773cf25/z?ref=&amp;url=https%3A//web.archive.org/web/20110615045021id_/http%253A//uploading.com/privacy&amp;rand=0.6323720314820935" width="1" height="1" alt="" style="display:none">
 
 
 </body></html>
