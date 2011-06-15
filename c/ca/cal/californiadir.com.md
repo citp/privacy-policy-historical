@@ -1,21 +1,21 @@
-> *The following text is extracted and transformed from the californiadir.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628005609id_/http%3A//www.californiadir.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the californiadir.com privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615042427id_/http%3A//www.californiadir.com/privacy_policy.html) for the most accurate reproduction.*
 
 # California Directory - Privacy Policy
 
-**Directory Services Privacy Policy**
+**Privacy Policy**
 
-The privacy of our clients is of utmost importance to Directory Services.
+Privacy Policy The privacy of our clients is of utmost importance to Directory Services.
 
-If you have any questions about our privacy policy, or if you wish to update information we hold about you or you wish to make a related complaint or to receive a copy of our current Privacy Policy Statement, please email us on _**directory@gmx.us.**_ This e-mail address is being protected from spambots. 
+If you have any questions about our privacy policy, or if you wish to update information we hold about you or you wish to make a related complaint or to receive a copy of our current Privacy Policy Statement, please [contact webmaster](https://web.archive.org/web/20110615042427id_/http%3A//www.californiadir.com/contact.php "contact webmaster"). 
 
-**  
-Types of Personal Information we collect**
+**Types of Personal Information we collect** ** **
 
 The types of personal information that we collect from you will depend on the circumstances of collection and on the type of service you request from us.
 
 For the directory service order, we would generally require your name, address, telephone number etc., which would be stored in your individual profile. In some instances we will also require your credit card details and other information.
 
- **Why we collect personal information**
+ **  
+Why we collect personal information** ** **
 
 Generally we collect, update and use personal information about you to allow us to transact business on your behalf.
 
@@ -31,8 +31,9 @@ We store personal information in a combination of secure computer storage facili
 
 We also take reasonable steps to destroy or permanently de-identify personal information when we no longer need it.
 
- **When we may disclose your personal information  
-**  
+ **  
+When we may disclose your personal information**
+
 Because your privacy is important we will not disclose your personal information without your consent.
 
 However we may disclose personal information about you in the following circumstances:
@@ -47,8 +48,9 @@ We undertake to promptly acknowledge and investigate any complaints about the wa
 
  **About this Privacy Policy Statement**
 
-We may update our policies and this Privacy Policy Statement from time to time. 
+We may update our policies and this Privacy Policy Statement from time to time.
 
-**Contact us**
+ **  
+Contact us**
 
-If you have any questions about this policy, or wish to update information we hold about you, make a related complaint, or to receive a copy of our current Privacy Policy Statement, please email us on _**directory@gmx.us.**_
+If you have any questions about this policy, or wish to update information we hold about you, make a related complaint, or to receive a copy of our current Privacy Policy Statement, please [contact webmaster](https://web.archive.org/web/20110615042427id_/http%3A//www.californiadir.com/contact.php "contact webmaster").
