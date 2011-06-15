@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopping-cart-reviews.com privacy policy that was archived on 2010-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100107185137id_/http%3A//www.shopping-cart-reviews.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopping-cart-reviews.com privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615070406id_/http%3A//www.shopping-cart-reviews.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
