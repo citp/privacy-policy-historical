@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trap17.com privacy policy that was archived on 2010-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100807093718id_/http%3A//trap17.com/forums/topic/5770-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trap17.com privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615135031id_/http%3A//www.knowledgesutra.com/forums/topic/5770-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Discuss Anything
 
