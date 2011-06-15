@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the mp3rocketsearch.com privacy policy that was archived on 2010-12-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101213031304id_/http%3A//mp3rocketsearch.com%3Ftmp%3Dtoolbar_mp3rocket_privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mp3rocketsearch.com privacy policy that was archived on 2011-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110615094412id_/http%3A//mp3rocketsearch.com%3Ftmp%3Dtoolbar_mp3rocket_privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <title>mp3rocket.toolbaroptions.com - Privacy Policy</title>
 <link href="http://cdn.firstlook.com/custom/images/master-ResetCSS.css" rel="stylesheet" type="text/css">
 <link href="http://cdn.firstlook.com/custom/images/master-GlobalResults.css" rel="stylesheet" type="text/css">
-<script type="text/javascript" src="http://cdn.firstlook.com/custom/images/jquery.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"></script> 
 <script type="text/javascript" src="http://cdn.firstlook.com/custom/images/thickbox.js"></script>
 <link href="http://cdn.firstlook.com/custom/images/thickbox.css" type="text/css" rel="stylesheet">
 <script type="text/javascript">
@@ -33,6 +33,18 @@ function linkclick(cmstag) {
 	if (currentLink) url += '&type=' + currentLink;
 	if (subid.length > 0) url += "&subid=" + subid;
 	location.href = url;
+}
+
+function staticlink(st, pos) {
+	exit = false;
+	pos = (typeof(pos) != 'undefined') ? pos : '';
+	location.href = u + 'aid=6&fwdId=1200&pos=' + pos + '&ps=DAUSUE&Keywords=' + st + '&';
+	return false;
+}
+
+function googleTrackPage(str) {
+	_gaq.push(['_trackPageview', str]);
+	return;
 }
 //-->
 </script>
@@ -133,7 +145,7 @@ Publishers must notify their toolbar users about changes they apply to toolbar c
 		<input type="text" class="searchbar" name="searchTerm2"><input class="searchbutton" name="submit" type="image" src="http://cdn.firstlook.com/custom/images/ftpdest/toolbarresults/SearchButton.png" value="Search" onclick="exit=false;">
 	</form>
     <span class="powered"><img src="http://cdn.firstlook.com/custom/images/ftpdest/toolbarresults/yahoo_search.gif"></span>
-	<div class="copyright">© 2010&nbsp;mp3rocket.toolbaroptions.com. All rights reserved. <a href="/?tmp=toolbar_mp3rocket_privacy">Privacy Policy</a></div>
+	<div class="copyright">© 2011&nbsp;mp3rocket.toolbaroptions.com. All rights reserved. <a href="/?tmp=toolbar_mp3rocket_privacy">Privacy Policy</a></div>
 </div>
 
 <script type="text/javascript">
@@ -142,5 +154,5 @@ $(document).ready(function(){
 });	 
 </script>
 
-<img src="http://cms.trafficmp.com/tpix.gif?clid=dom6905ae04742ffb46aea15fe23e60c&amp;sid=857fcecb-27bd-4b00-9f35-db7f323b6746" width="1" height="1">
+<img src="http://cms.trafficmp.com/tpix.gif?clid=dom35ab2bd404b7a866c24d337506cc1&amp;sid=2313ffef-18b6-473c-8a2c-37c27a16ae3e" width="1" height="1">
 </body></html>
