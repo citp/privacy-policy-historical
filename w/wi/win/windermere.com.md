@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the windermere.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120013550id_/http%3A//www.windermere.com/index.cfm%3Ffuseaction%3Dabout.legal%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the windermere.com privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615163814id_/http%3A//www.windermere.com/index.cfm%3Ffuseaction%3Dabout.legal%23privacy) for the most accurate reproduction.*
 
-# Terms of Use
+# Privacy Policy
 
-### Terms of Use
+### Privacy Policy
 
 The Windermere.com website (Site) is owned and operated by Windermere Services Company (WSC). WSC promises to protect the personal information given to us by visitors to our website. Any information that you give to WSC will be held with the utmost care, and will not be used in any way to which you have not already consented. A more detailed explanation follows.
 
