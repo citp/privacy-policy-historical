@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebay.ca privacy policy that was archived on 2009-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090928074321id_/http%3A//pages.ebay.ca/help/policies/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebay.ca privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615124727id_/http%3A//pages.ebay.ca/help/policies/privacy-policy.html%3Frt%3Dnc) for the most accurate reproduction.*
 
 # eBay Privacy Policy
 
@@ -128,7 +128,7 @@ You may encounter cookies from third parties on certain pages of the sites that 
 
 ### No Spam, Spyware or Spoofing
 
-We and our users do not tolerate spam. Make sure to set your eBay notification preferences so we communicate to you as you prefer. You are not licensed to add other eBay users, even a user who has purchased an item from you, to your mailing list (email or physical mail) without their express consent. To report eBay-related spam or spoof emails to eBay, please forward the email to [spam@ebay.com](mailto:spam@ebay.com) or [spoof@ebay.com](mailto:spoof@ebay.com). You may not use our communication tools to send spam or otherwise send content that would violate our User Agreement. We automatically scan and may manually filter messages to check for spam, viruses, phishing attacks and other malicious activity or illegal or prohibited content, but we do not permanently store messages sent through these tools. If you send an email to an email address that is not registered in our community (via Refer-a-Friend or other tools), we do not permanently store that email or use that email address for any marketing purpose. We do not rent or sell these email addresses. 
+We and our users do not tolerate spam. Make sure to set your eBay communication preferences so we communicate to you as you prefer. You are not licensed to add other eBay users, even a user who has purchased an item from you, to your mailing list (email or physical mail) without their express consent. To report eBay-related spam or spoof emails to eBay, please forward the email to [spam@ebay.com](mailto:spam@ebay.com) or [spoof@ebay.com](mailto:spoof@ebay.com). You may not use our communication tools to send spam or otherwise send content that would violate our User Agreement. We automatically scan and may manually filter messages to check for spam, viruses, phishing attacks and other malicious activity or illegal or prohibited content, but we do not permanently store messages sent through these tools. If you send an email to an email address that is not registered in our community (via Refer-a-Friend or other tools), we do not permanently store that email or use that email address for any marketing purpose. We do not rent or sell these email addresses. 
 
 ### Account Protection 
 
