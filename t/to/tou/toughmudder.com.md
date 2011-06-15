@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toughmudder.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227052411id_/http%3A//toughmudder.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toughmudder.com privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616015627id_/http%3A//toughmudder.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Tough Mudder
 
@@ -87,4 +87,4 @@ As our website continues to develop, we may change or add new services or featur
 
 You may always opt-out of receiving future e-mail messages and newsletters from us or request that your information be removed from our website or corrected. To make such a request, you can send us a message at [info@toughmudder.com](mailto:info@toughmudder.com). 
 
-Last Updated: September 14, 2010
+Last Updated: January 7, 2011
