@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the premiermiles.co.in privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214052851id_/http%3A//www.premiermiles.co.in/PrivacyStatment.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the premiermiles.co.in privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615165316id_/http%3A//www.premiermiles.co.in/PrivacyStatment.aspx) for the most accurate reproduction.*
 
 # PremierMiles | Privacy Statement
 
