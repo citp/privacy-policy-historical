@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seedsavers.org privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215014732id_/http%3A//www.seedsavers.org/Content.aspx%3Fsrc%3DPrivacyPolicy5.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seedsavers.org privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615211201id_/http%3A//www.seedsavers.org/Content.aspx%3Fsrc%3DPrivacyPolicy5.htm) for the most accurate reproduction.*
 
 # Seed Savers Exchange
 
@@ -7,6 +7,10 @@ This is the web site of Seed Savers Exchange.
 Our postal address is   
 **3094 North Winn Road**  
 **Decorah, Iowa 52101**
+
+We can be reached via e-mail at [Customer Service](mailto:customerservice@seedsavers.org)  
+or you can reach us by telephone at **(563) 382-5990**  
+
 
   * For each visitor to our Web page, our Web server automatically recognizes the consumer's domain name and e-mail address (where possible).
   
