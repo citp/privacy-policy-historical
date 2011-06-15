@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nj.gov privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127132840id_/http%3A//www.nj.gov/nj/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nj.gov privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615153932id_/http%3A//www.nj.gov/nj/privacy.html) for the most accurate reproduction.*
 
 # The Official Web Site for The State of New Jersey
 
@@ -28,13 +28,16 @@ Thank you for visiting the State of New Jersey web site and reviewing our Privac
 
 
 
-Information Collected and How it is Used
+Section A. Information Collected and How it is Used
 
-  1. The Internet domain (for example, "xcompany.com" if you use a private Internet access account, or "yourschool.edu" if you connect from a university's domain) and IP address (an IP address is a number that is automatically assigned to your computer whenever you are surfing the Web) from which you access our web site;
-  2. The type of browser and operating system used to access our site;
-  3. The date and time you access our site;
-  4. The pages you visit; and
-  5. If you linked to the New Jersey web site from another web site, the address of that web site.
+**Information Collected and Stored Automatically**
+
+The Internet domain (for example, "xcompany.com" if you use a private Internet access account, or "yourschool.edu" if you connect from a university's domain) and IP address (an IP address is a number that is automatically assigned to your computer whenever you are surfing the Web) from which you access our web site;
+
+  * The type of browser and operating system used to access our site;
+  * The date and time you access our site;
+  * The pages you visit; and
+  * If you linked to the New Jersey web site from another web site, the address of that web site.
 
 
 
@@ -42,9 +45,10 @@ We use this information to help us make our site more useful to visitors - to le
 
 If You Send Us Personal Information
 
-If you choose to provide us with personal information -- as in an e-mail to Governor or someone else, or by filling out a form with your personal information and submitting it to us through our web site -- we use that information to respond to your message and to help us get you the information you have requested. We may share the information you give us with another State of New Jersey government agency, department, office or entity, or as otherwise required by law. Moreover, we do not create individual profiles with the information you provide or to give it to any private organizations. The State of New Jersey does not collect information for commercial marketing.
+If you choose to provide us with personal information -- as in an e-mail to Governor or someone else, or by filling out a form with your personal information and submitting it to us through our web site -- we use that information to respond to your message and to help us get you the information you have requested. We may share the information you give us with another State of New Jersey government agency, department, office or entity, or as otherwise required by law. Moreover, we do not create individual profiles with the information you provide or to give it to any private organizations. The State of New Jersey does not collect information for commercial marketing.  
+ 
 
-**Section B. Personal Information and Choice**
+Section B. Personal Information and Choice
 
 You may choose whether to provide personal information on-line.
 
@@ -72,9 +76,13 @@ All the information collected at this site becomes public records that may be su
 
 Section D. Cookies
 
-The State of New Jersey uses cookies to customize and enhance your browsing experience. Cookies are simple text files stored on your computer by Internet web sites to help identify users and enhance customer service. Cookies created by using the State web site may contain personally identifying information such as user contact information consisting of name, address, phone number or e-mail address. The cookie feature is used only to store a randomly generated identifying tag on your computer and does not compromise your privacy or security. Section E. Security
+The State of New Jersey uses cookies to customize and enhance your browsing experience. Cookies are simple text files stored on your computer by Internet web sites to help identify users and enhance customer service. Cookies created by using the State web site may contain personally identifying information such as user contact information consisting of name, address, phone number or e-mail address. The cookie feature is used only to store a randomly generated identifying tag on your computer and does not compromise your privacy or security.
 
-The State of New Jersey, as developer and manager of this web site has taken several steps to safeguard the integrity of its data and prevent unauthorized access to information maintained. These measures are designed and intended to prevent corruption of data, block unknown or unauthorized access to our systems and information, and to provide reasonable protection of private information in our possession. Section F. Disclaimer
+Section E. Security
+
+The State of New Jersey, as developer and manager of this web site has taken several steps to safeguard the integrity of its data and prevent unauthorized access to information maintained. These measures are designed and intended to prevent corruption of data, block unknown or unauthorized access to our systems and information, and to provide reasonable protection of private information in our possession.
+
+Section F. Disclaimer
 
 The State web site and materials may contain hypertext or links to other Internet computer sites which are not owned, operated, controlled or reviewed by the State. These links are provided solely as a courtesy and convenience to you, the visitor. When you link to one of these sites, you are no longer on the State of New Jersey web site and this Privacy Notice will not apply. When you link to another web site, you are subject to the privacy policy of that new site.
 
