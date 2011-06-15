@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atlanticdrugs.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226004624id_/http%3A//www.atlanticdrugs.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atlanticdrugs.com privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615202251id_/http%3A//www.atlanticdrugs.com/privacy.html) for the most accurate reproduction.*
 
 # AtlanticDrugs - Privacy Policy
 
@@ -7,6 +7,8 @@
 Atlantic Drugs believes in protecting and respecting your privacy. To achieve this we use the latest in online security technology to ensure that your online security is not compromised.
 
 You might be required to register and enter your personal information before you can use certain areas of the website. This information might include sensitive personal data as defined under the Data Protection Act I998 ('the Act').
+
+We collect personal information when you communicate with us by email or when you provide any information about yourself on any form on our website. This includes inquiries or the start of a consultation with a doctor. As a result of these actions, you might supply us with such information as your name, email address, phone number, address, and any other personal information that you choose to share with us.
 
 Atlantic Drugs guarantees the privacy of this information and will under no circumstances release this information to any third party without your written consent for the same. Atlantic Drugs will use this personal information strictly in accordance with the Act.
 
