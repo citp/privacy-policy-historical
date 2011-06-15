@@ -1,21 +1,391 @@
-<!--The following is the downloaded HTML source of the jpopasia.com privacy policy that was archived on 2010-11-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101120112333id_/http%3A//www.jpopasia.com/pag/lb/privacy/%3Fheight%3D400%26width%3D400) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the jpopasia.com privacy policy that was archived on 2011-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110615171300id_/http%3A//www.jpopasia.com/static/privacy) for the most accurate reproduction.-->
 
-<html><head></head><body>Updated as of April 13, 2008<br><br>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<title>JpopAsia - breaking asian celebrity news</title>
+<link href="http://www.jpopasia.com/inc/css/smoothness/jquery-ui-1.7.1.custom.css" type="text/css" rel="stylesheet" media="screen, projection">
+<link href="http://d3rufoqhb6ap02.cloudfront.net/core-3.41.css" type="text/css" rel="stylesheet" media="screen, projection">
+<!--[if IE 6]>
+<link rel="stylesheet" href="/inc/css/ie6.css" type="text/css" media="screen, projection" />
+<![endif]-->
+<!--[if IE 7]>
+<link rel="stylesheet" href="/inc/css/ie7.css" type="text/css" media="screen, projection" />
+<![endif]-->
+<!--[if IE 8]>
+<link rel="stylesheet" href="/inc/css/ie8.css" type="text/css" media="screen, projection" />
+<![endif]-->
 
+
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script language="javascript" type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"></script> 
+<script language="javascript" type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.12/jquery-ui.min.js"></script>
+<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+
+	<script type="text/javascript" src="http://d3rufoqhb6ap02.cloudfront.net/core-3.2.7.min.js"></script>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Language" content="en-us">
+<meta name="revisit-after" content="1">
+<meta name="robots" content="all">
+<meta name="author" content="jpopasia">
+<meta name="keywords" lang="en" content="jpop, kpop, jrock, indopop, anime, breaking news, music, asia, charts, community, korean, japanese, chinese, entertainment">
+<meta name="description" lang="en" content="Breaking Asian celebrity news + largest online resource for Asian music! J-pop, K-pop, J-rock, C-pop &amp; Anime!">
+<link rel="shortcut icon" href="http://cdn.jpopasia.com/favicon2.ico">
+<meta name="google-site-verification" content="yA6PSdCTGk0zIZoZiO_JKeIXS3zrJZjQdB1NtctvVCc">
+
+<!-- test js -->
+<script type="text/javascript" charset="utf-8">
+	document.write('<style type="text/css" media="screen, projection, print">.nojs { display:none; } .isjs { display:block; }</style>')
+</script><style type="text/css" media="screen, projection, print">.nojs { display:none; } .isjs { display:block; }</style>
+
+
+<script type="text/javascript">
+$(document).ready(function(){
+		
+		
+	
+	$('#home.navigation a, #news.navigation a, #celebrities.navigation a, #charts.navigation a, #community.navigation a, #tips.navigation a').click(function(){
+		$('#navi .navigation a').removeClass('selected');
+		$(this).addClass('selected');
+	});
+	
+		$('#fade1, #fade2').innerfade({ 
+		speed: 1000, 
+		timeout:'4000', 
+		type: 'random_start'
+		
+	});
+		
+	// create account	
+	$('.create-account').click(function() {
+		$("#dialog").dialog({
+			bgiframe: true,
+			autoOpen: false,
+			height: 'auto',
+			width: 660,
+			modal: false,
+			position: ['center',90],
+			close: function(event, ui) { dialogContent.html(''); }
+		});
+		
+		var dialog			= $('#dialog');
+		var dialogContent	= $('#dialog-content');
+		/*$('#ad-header-728').hide();*/
+		$('.widget').remove();
+		dialog.dialog('open');
+		dialog.dialog('option', 'title', 'Sign Up');
+		dialogContent.fadeIn('slow');
+		$.post('/ajax/dialog.php', {type:75278 }, function(callback){
+			dialogContent.html(callback);
+		});
+		return false;
+	});
+	// login
+	$('.global-login').click(function() {
+		var offset			= $(this).offset();
+		var elementWidth 	= $(this).outerWidth();
+		var left			= offset.left + elementWidth + 30;
+		var top				= offset.top - 2;
+		/*$('#ad-header-728').hide();*/
+		$('#footerPlaceholder').after('<div style="position:absolute; display:block; z-index:1000; top:'+top+'px; left:'+left+'px;"><div class="widget login border-round"><div class="pointer up right"></div><div class="close hand"></div><div class="content"><form id="login" class="embedLogin">E-mail address:<br /><input class="pretty" type="text" name="emailLogin" /><br />Password:<br /><input class="pretty" type="password" name="passwordLogin" /><br />Remember me <input type="checkbox" name="rememberLogin" /><br /><br /><input class="small button green" type="submit" value="Submit" /></form></div></div></div>');
+		$('.widget.login .close').click(function(){ $('.widget.login').remove() });
+		// hide when clicked outside area
+		$('body').click(function() { $('.widget.login').remove(); });
+		$('.widget.login .close, .widget.login').click(function(event){ event.stopPropagation(); });	
+		// submit login
+		$('form#login').submit(function(){
+			$('#login [type=submit]').after(loading).addClass('black').removeClass('green');
+			embedLogin();
+			return false;
+		});
+		return false;
+	});
+	$('#nav-search input[type=text]').inputDesc({ description:'search' });	
+	$('#globalsearch').focus(function(){
+		//$('#screenOverlay').setOverlay({ status:1 });
+		if ($('#global-searchresults').length == 0) {
+		 	$('#footerPlaceholder').append('<div class="widget livesearch  border-round"><div id="global-searchresults" class="widget-content"><p>Start typing to search</p></div></div>');
+			// hide when clicked outside area
+		 	$('body').click(function() { $('.livesearch').remove(); });
+			$('#globalsearch, .livesearch').click(function(event){ event.stopPropagation(); });	
+		}
+	});
+
+	$('#globalsearch').keyup(function(event){
+		var keyID	= event.which;
+		if (keyID != 13) {
+			if (keyID != 40 && keyID != 38) {
+				var searchQuery	= $(this).val();
+				var length 		= searchQuery.length;	
+				if (length > 1) {
+					if (!searchQuery) {
+						$('#nav-search-loading').addClass('hidden');
+						$('#searchresults').fadeOut();
+					} else {
+						$('#nav-search-loading').removeClass('hidden');
+						getSearchResults(searchQuery, 'globalsearch');
+					}
+				}	
+			}
+		}
+	});
+	$('.poptip').poptip({ 'delay':0, 'fadeIn':0, 'fadeOut':0 });
+	$('.poptip-l').poptip({ 'delay':0, 'maxWidth':'350px', 'fadeIn':0, 'fadeOut':0 });
+	
+	});
+</script>
+
+</head>
+<body>
+
+<div id="globalMessage"><div class="inner"></div></div>
+
+<!-- Asynchronous Tracking -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-349395-4']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+
+
+<div id="header">
+
+	<div class="wrapper">
+	<ul id="navi">
+			
+	
+		<li id="nav-logo"><a href="http://www.jpopasia.com"><img src="http://www.jpopasia.com/img/gen/jpopasia3.png"></a></li>
+		
+		<li id="home" class="navigation small"><a href="/">Home</a></li>
+		<li id="news" class="navigation small"><a href="/news/">News</a></li>
+		<li id="charts" class="navigation small"><a href="/charts/">Charts</a></li>
+		<li id="celebrities" class="navigation large"><a href="/celebrities/">Celebrities</a></li>
+		<li id="community" class="navigation large"><a href="/community/">Community</a></li>
+		<li id="concerts" class="navigation medium"><a href="/concert-event/">Concerts</a></li>
+		<li id="chat" class="navigation small"><a href="/chat/">Chat</a><div class="chatballoon">7</div></li>
+				
+				<li id="fblike">
+			<iframe scrolling="no" frameborder="0" src="http://www.facebook.com/plugins/like.php?href=http://www.facebook.com/jpopasia&amp;locale=en_US&amp;layout=button_count&amp;show_faces=false&amp;width=250&amp;action=like&amp;colorscheme=light&amp;height=21" style="border:none; overflow:hidden; width:250px; position: absolute; top: 106px; left: 552px; height:21px; background-color:#3D4758;" allowtransparency="true"></iframe>
+		</li>
+				
+		<li id="nav-search"><form action="/search/" method="GET"><input id="globalsearch" type="text" name="q" value="search"></form><div id="nav-search-loading" class="hidden"><img src="/img/gen/spinner-s.gif" title="loading"></div></li>
+
+		<li id="nav-promo1">
+			<ul id="fade1">
+								
+				<li><a href="http://twitter.com/jpopasia/"><img src="http://cdn.jpopasia.com/jpaPromo428.gif" alt="JpopAsia on twitter" title="JpopAsia on twitter"></a></li>
+				
+				<!--<li><a href="http://www.jpopasia.com/awards/"><img src="http://cdn.jpopasia.com/jpaPromo417.png" alt="JpopAsia International Music Awards 2010" title="JpopAsia International Music Awards 2010" /></a></li>-->
+				<li>
+					<div class="mask" style="background-color:#111111; width:260px; height:84px;"><iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fjpopasia&amp;width=260&amp;colorscheme=dark&amp;show_faces=false&amp;stream=false&amp;header=false&amp;height=62" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:260px; height:62px;" allowtransparency="true"></iframe>
+						<div class="news-sticky-titlebg white" style="width:500px; padding: 3px 3px 3px 8px; top: 59px;">
+							<h2 class="news-sticky-title" style="font-size:11px; font-weight:bold;">Breaking Asian news on your FB? Like us!</h2>
+						</div>
+					</div>
+				
+				</li>
+				
+				<li>
+					<div class="mask" style="width:260px; height:84px;">		
+						<div class="mask-visible">
+							<a href="http://www.jpopasia.com/celebrity/michi/videos/one::13996.html">
+								<img src="http://cdn.jpopasia.com/jpaPromo441.jpg" alt="ONE by MiChi" title="ONE by MiChi" style="width:260px;">
+							
+								
+								<div class="news-sticky-titlebg white" style="width:500px; padding: 3px 3px 3px 8px; top: 59px;">
+									<h2 class="news-sticky-title" style="font-size:11px; font-weight:bold;">ONE by MiChi</h2>
+								</div>
+
+							</a>
+						</div>
+					</div>
+				</li>
+				
+							
+				
+				<!--<li><a href="http://www.jpopasia.com/news/featured-miyavi-on-jpopasia::5738.html"><img src="http://cdn.jpopasia.com/jpaPromo421.jpg" alt="Featured: Miyavi on JpopAsia" title="Featured: Miyavi on JpopAsia" /></a></li>-->
+				
+				<!--<li><a href="http://www.jpopasia.com/news/japan-earthquake-and-tsunami-relief-please-donate::5673.html"><img src="http://cdn.jpopasia.com/jpaPromo420.gif" alt="Japan earthquake and tsunami relief" title="Japan earthquake and tsunami relief" /></a></li>-->
+				
+											</ul>
+		</li>
+	
+	
+	
+	
+	
+	
+								
+						
+						
+						
+		<li id="nav-promo2">
+			<ul id="fade2">
+								
+				<!--<li><a href="http://www.jpopasia.com/news/join-the-anime-news-team::5980.html"><img src="http://cdn.jpopasia.com/jpaPromo426.jpg" alt="Join the Anime News Team" title="Join the Anime News Team" /></a></li>-->
+				
+
+				<!--<li><a href="http://www.jpopasia.com/awards/"><img src="http://cdn.jpopasia.com/jpaPromo429.gif" alt="JpopAsia Music Awards 2010" title="JpopAsia Music Awards 2010" /></a></li>-->
+				<!--<li><a href="http://www.jpopasia.com/awards/"><img src="http://cdn.jpopasia.com/jpaPromo417.png" alt="JpopAsia International Music Awards 2010" title="JpopAsia International Music Awards 2010" /></a></li>-->
+				
+				
+				<li>
+					<div class="mask" style="width:260px; height:84px;">		
+						<div class="mask-visible">
+							<a href="http://www.jpopasia.com/celebrity/lindaliu/videos/lp::13464.html">
+								<img src="http://cdn.jpopasia.com/jpaPromo442.jpg" alt="LP by Linda Liao" title="LP by Linda Liao" style="width:260px;">
+							
+								
+								<div class="news-sticky-titlebg white" style="width:500px; padding: 3px 3px 3px 8px; top: 59px;">
+									<h2 class="news-sticky-title" style="font-size:11px; font-weight:bold;">LP by Linda Liao</h2>
+								</div>
+
+							</a>
+						</div>
+					</div>
+				</li>
+				
+					
+				<li>
+					<div class="mask" style="width:260px; height:84px;">		
+						<div class="mask-visible">
+							<a href="http://www.jpopasia.com/celebrity/kananishino/videos/alright::13998.html">
+								<img src="http://cdn.jpopasia.com/jpaPromo445.jpg" alt="Alright by Kana Nishino" title="Alright by Kana Nishino" style="width:260px;">
+							
+								
+								<div class="news-sticky-titlebg white" style="width:500px; padding: 3px 3px 3px 8px; top: 59px;">
+									<h2 class="news-sticky-title" style="font-size:11px; font-weight:bold;">Alright by Kana Nishino</h2>
+								</div>
+
+							</a>
+						</div>
+					</div>
+				</li>
+			
+			
+			
+			</ul>
+		</li>
+				
+						
+						
+						
+		<!--<li id="nav-promo3"><a href="/awards/"><img src="http://d3rufoqhb6ap02.cloudfront.net/jpaPromo3-jima2010.png" alt="JpopAsia International Music Awards 2010" title="JpopAsia International Music Awards 2010" style="width:100px;" /></a></li>-->
+		<li id="nav-promo3"><a href="/vip/"><img src="/img/promos/jpapromo-3-vip.png" alt="Advertise" title="Advertise" style="width:100px;"></a></li>
+							
+							
+		<li id="subnavi">
+			<ul class="horizontal-r">
+									<li><a class="global-login white" href="#">login</a></li>
+					<li class="spacer"> · </li>
+					<li><a class="create-account white" href="#">sign up</a></li>
+					<li class="spacer"> · </li>
+					<li><a class="poptip" title="facebook.com/jpopasia" href="http://www.facebook.com/jpopasia/"><div class="sprite-lq fbxs" style="margin-top:2px;"></div></a></li>
+					<li>&nbsp;&nbsp;&nbsp;</li>
+					<li><a class="poptip" title="twitter.com/jpopasia" href="http://twitter.com/jpopasia/"><div class="sprite-lq twxs" style="margin-top:2px;"></div></a></li>
+							</ul>
+		</li>
+	</ul>
+	
+	</div>  <!-- /.wrapper -->
+</div> <!-- /#header -->
+
+
+	
+
+<div id="dialog" title="JpopAsia">
+	<div id="dialog-content" style="display:none;"><div align="center"><img src="/img/gen/spinner-m.gif"></div></div>
+</div> <!-- /#dialog -->
+
+
+
+
+<div class="wrapper">
+	<div class="nojs">You have turned off JavaScript in your browser.<br>Enable JavaScript in your browsers preferences to make use of all the advanced features of JpopAsia.com</div>
+</div> <!-- /wrapper -->
+
+
+
+<div class="wrapper a-center">
+	<script type="text/javascript"><!--
+								google_ad_client = "pub-3209266765448308";
+								/* 728x90, gemaakt 8-4-08 */
+								google_ad_slot = "3578979288";
+								google_ad_width = 728;
+								google_ad_height = 90;
+								//-->
+								</script>
+								<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+								</script></div> <!-- /wrapper -->
+
+
+<script type="text/javascript">
+$(document).ready(function(){
+	$('#lostRequest').click(function(){
+		// set values
+		var thisInputs		= $('#lostEmail input');
+		var thisButton 		= $(this);
+		var response		= $('#lostResponse');
+		var lostEmail		= $('#lostEmail').val();
+		// check if enabled
+		if (thisButton.hasClass('disabled')) { return false; }
+		// set to readonly
+		thisInputs.attr('readonly', 'readonly').fadeTo('opacity',0.4);
+		thisButton.attr('disabled', 'disabled').addClass('black').removeClass('green').addClass('disabled');
+		// show loading
+		response.html(loading);
+		$.get('/ajax/cget.php', { type:59183, value1:lostEmail }, function(cb){
+			response.html('');
+			var cbraw		= cb.split(';;');
+			var status		= cbraw[0];
+			var msg			= cbraw[1];
+			if (msg == undefined || status == '' || !isNumeric(status)) { var status = '101'; var msg = cb; }
+			switch (status) {
+				case '101': response.html('<span class="red bold">'+msg+'</span>'); break; 
+				case '501': response.html('<span class="green bold">'+msg+'</span>'); return false; break;
+			}
+			// to readonly to false
+			thisButton.attr('disabled', '').addClass('green').removeClass('black').removeClass('disabled');
+			thisInputs.attr('readonly', '').fadeTo('opacity',1);
+		});
+		return false;
+	});	
+});
+</script>
+
+<!-- ----------------------------------------------------------------------------------------------------------------------
+C46
+----------------------------------------------------------------------------------------------------------------------- -->	
+	<div class="wrapper">	
+		<div class="c66">	
+			
+			<div class="mod">
+				<div class="content box">
+					<h1 class="f-left">Privacy</h1>
+					<div class="f-right outline top-right xs">updated as of November 24, 2010</div>
+					<div class="sepline clear"></div>
+					<p>
 The JpopAsia Privacy Policy describes how JpopAsia treats personal information, including information provided when you use JpopAsia. In addition, the following describes privacy practices specific to JpopAsia. To understand how we treat the information you give us as you use JpopAsia, you should read the JpopAsia Privacy Policy.<br><br>
 
 <b>Personal Information</b><br>
 
-    * Non-Account Activity. You can watch videos on JpopAsia without having a JpopAsia Account. You can also contact us about a particular video without having a JpopAsia Account.<br>
-    * Account-Related Activity. Certain other activities on JpopAsia-like adding videos, posting comments, commenting videos, or using our comminity services require you to have a JpopAsia Account. We ask for some personal information when you create a JpopAsia Account, including your email address and a password, which is used to protect your account from unauthorized access. A JpopAsia Account allows you to access many of our services that require registration.<br>
+    * Non-Account Activity. You can view information, read news, watch videos on JpopAsia without having a JpopAsia Account. You can also contact us without having a JpopAsia Account.<br>
+    * Account-Related Activity. Certain other activities on JpopAsia-like adding celebrity profile information, posting comments, commenting news, user and celebrity profile interaction or using our community services require you to have a JpopAsia Account. We ask for some personal information when you create a JpopAsia Account, including your email address and a password, which is used to protect your account from unauthorized access. A JpopAsia Account allows you to access many of our services that require registration.<br>
     * Usage Information. We may record information about your usage, such as when you use JpopAsia, favorites you subscribe to, the contacts you communicate with, the videos you watch, and the frequency and size of data transfers, as well as information you display or click on in JpopAsia (including UI elements, settings, and other information). If you are logged in, we may associate that information with your account.<br>
     * Content Uploaded to Site. Any personal information or content that you voluntarily disclose online (on discussion boards, in messages and chat areas, within your playback or profile pages, etc.) becomes publicly available and can be collected and used by others.<br><br>
 
 <b>Uses</b><br>
 
     * If you submit personally identifiable information to us through JpopAsia, we use your personal information to operate, maintain, and provide to you the general and personalized features and functionality of JpopAsia, and to process any flagging activity or correspondence you send to us.<br>
-    * Your username (not your email address) is displayed to other Users when you add videos, add lyrics, post comments or send messages through JpopAsia and other Users can contact you through messages and comments.<br>
+    * Your username (not your email address) is displayed to other Users when you comment, add concert/event information, add lyrics, or send messages through JpopAsia and other Users can contact you through messages and comments.<br>
     * We do not use your email address to send commercial or marketing messages without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. We may, however, use your email address without further consent for non-marketing or administrative purposes (such as notifying you of major JpopAsia Site changes or for customer service purposes).<br>
     * We use both your personally identifiable information and certain non-personally-identifiable information (such as anonymous user usage data, cookies, IP addresses, browser type, clickstream data, etc.) to improve the quality and design of the JpopAsia Sites and to create new features, promotions, functionality, and services by storing, tracking, analyzing, and processing user preferences and trends, as well as user activity and communications.<br>
     * We use cookies, clear gifs, and log file information to: (a) store information so that you will not have to re-enter it during your visit or the next time you visit the JpopAsia Sites; (b) provide custom, personalized content and information; (c) monitor the effectiveness of our marketing campaigns; (d) monitor aggregate metrics such as total number of visitors, pages viewed, etc.; and (e) track your entries, submissions, and status in promotions, sweepstakes, and contests.<br><br>
@@ -24,15 +394,204 @@ The JpopAsia Privacy Policy describes how JpopAsia treats personal information, 
 
     * When you create an account on the site, some information about your account and your account activity will be provided to other Users of the site. This may include the date you opened your account, the date you last logged into your account, your age (if you choose to make it public), the country and the number of videos you have watched.<br>
     * Your username (not your email address) is displayed to other Users when you engage in certain activity on the site, such as you adding videos or send messages. Other Users can contact you through messages and comments.<br>
-    * You may also choose to add personal information that will visible to other Users on your profile page (which is the public facing page for your account on the site). This may include a profile picture, you name, gender, relationship status, or other details.<br>
-    * If you choose to add certain features to your channel page, then these features and your activity associated with these features will be displayed to other Users and may be aggregated and shared with your confirmed friends or other Users. Such shared activity may include what videos you favorite, what videos you rated and what videos you have watched.<br><br>
+    * You may also choose to add personal information that will visible to other Users on your profile page (which is the public facing page for your account on the site). This may include a profile picture, you name, gender, relationship status, or other details.<br><br>
 
 <b>Your Choices</b><br>
 
-    * You may, of course, decline to submit personally identifiable information through the JpopAsia Sites, in which case you can still view videos and explore JpopAsia, but JpopAsia may not be able to provide certain services to you. Some advanced JpopAsia features may, for authentication purposes, require you to sign up for a JpopAsia account.<br><br>
+    * You may, of course, decline to submit personally identifiable information through the JpopAsia Sites, in which case you can still view all public information and explore JpopAsia, but JpopAsia may not be able to provide certain services to you. Some advanced JpopAsia features may, for authentication purposes, require you to sign up for a JpopAsia account.<br><br>
 
 <b>Third-party Advertisers, Links to Other Sites</b><br>
 
 JpopAsia allows other companies, called third-party ad servers or ad networks, to serve advertisements at JpopAsia. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on JpopAsia. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or Web Beacons) to measure the effectiveness of their advertisements and to personalize the advertising content you see.<br><br>
 
-You should consult the respective privacy policies of these third-party ad servers or ad networks for more information on their practices and for instructions on how to opt-out of certain practices. JpopAsia's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. Any data obtained by third-party ad servers subsequently shared with JpopAsia is maintained and dealt with by JpopAsia in accordance with this privacy policy.<br><br></body></html>
+You should consult the respective privacy policies of these third-party ad servers or ad networks for more information on their practices and for instructions on how to opt-out of certain practices. JpopAsia's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. Any data obtained by third-party ad servers subsequently shared with JpopAsia is maintained and dealt with by JpopAsia in accordance with this privacy policy.
+					</p>
+				</div>
+			</div> <!-- /mod -->
+
+		</div> <!-- /c66 -->
+		
+	
+		
+		
+		
+		<div class="c33">
+			<div class="mod">	
+				<div class="content" style="margin-bottom:10px;">
+					<iframe src="http://www.facebook.com/plugins/likebox.php?id=311571412105&amp;width=323&amp;connections=6&amp;stream=false&amp;header=false&amp;height=180" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:323px; height:180px; background-color:#fff;" allowtransparency="false"></iframe>				</div> <!-- /content -->
+			</div> <!-- /mod -->
+			
+			<div class="mod">	
+				<div class="content box">
+					<div style="margin:10px;"><script type="text/javascript"><!--
+								google_ad_client = "pub-3209266765448308";
+								/* 300x250, gemaakt 5-3-11 */
+								google_ad_slot = "9343586393";
+								google_ad_width = 300;
+								google_ad_height = 250;
+								//-->
+								</script>
+								<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+								</script></div>
+				</div> <!-- /content -->
+			</div> <!-- /mod -->
+			
+			<div class="mod">	
+						<div class="content box">
+							<h2>Create your profile now</h2>
+						<div class="sepline"></div>
+						<p>With JpopAsia you find worldwide friends easily. Interact and connect with people all over the world who love Asian music! Buy shares in celebrities, enjoy unique features, and become a JpopAsia celebrity yourself!<br><br>
+						<a class="create-account u" href="">Create an account now!</a> <span class="xs light-grey">(in like 1 minute)</span></p>
+						</div> <!-- /content -->
+					</div> <!-- /c64 sec -->			
+
+			
+
+		</div>	<!-- /c33 -->
+	</div> <!-- /wrapper -->
+
+
+
+
+
+
+
+
+
+		
+	<div class="wrapper">
+		<div class="c100">
+			<div class="mod">
+				<div class="box content">
+					<h2 class="f-left">Meet-Asian.com <span class="xs unbold light-grey">Meet new Asian friends!   Over 2,000,000 members!</span></h2>
+								<div class="f-right xs outline top-right">advertisement</div>
+								<div class="clear sepline"></div>
+								<div align="center" class="overflow-h" style="height:150px;">	
+								
+									<!-- SPODs START -->
+									<table height="100" cellpadding="5" cellspacing="5">
+								
+										<tbody><tr style="font-size:12px">
+										<script language="javascript" src="http://cache.worldfriends.tv/meet-asian/spods.js?locale=en_US&amp;count=5" type="text/javascript"></script><script language="javascript">
+											for (var i = 0, n = wfSPODArray.length; i < n; i++) {
+												var spod = wfSPODArray[i];
+												spodHtml = '<td align="center" valign="top" width="100px"><a href=' + spod.profileLink + ' target=_blank><font><b>' + spod.nickname + '</b></font><br/><img style="border: 1px solid #868686;" src=' + spod.photo.url + ' width=80' +' height=80 border=1 hspace=2 vspace=2' + '></a></td><td style="width:100px;"><br/><b class="xs medium-grey">' + spod.quote + '</b></td>';
+												document.write(spodHtml);
+											}
+									</script></tr></tbody></table>
+									<!-- SPODs END -->
+								</div>				</div> <!-- /content -->
+			</div> <!-- /mod -->
+		</div> <!-- /c100 -->
+	</div> <!-- /wrapper -->
+		
+	
+	<div id="footer">	
+		<div class="wrapper">
+	
+				<div class="clear"></div>
+	
+						<ul class="subnavigation red az">
+							<li><a href="/celebrities/*/" class="">#</a></li><li><a href="/celebrities/A/" class="">A</a></li><li><a href="/celebrities/B/" class="">B</a></li><li><a href="/celebrities/C/" class="">C</a></li><li><a href="/celebrities/D/" class="">D</a></li><li><a href="/celebrities/E/" class="">E</a></li><li><a href="/celebrities/F/" class="">F</a></li><li><a href="/celebrities/G/" class="">G</a></li><li><a href="/celebrities/H/" class="">H</a></li><li><a href="/celebrities/I/" class="">I</a></li><li><a href="/celebrities/J/" class="">J</a></li><li><a href="/celebrities/K/" class="">K</a></li><li><a href="/celebrities/L/" class="">L</a></li><li><a href="/celebrities/M/" class="">M</a></li><li><a href="/celebrities/N/" class="">N</a></li><li><a href="/celebrities/O/" class="">O</a></li><li><a href="/celebrities/P/" class="">P</a></li><li><a href="/celebrities/Q/" class="">Q</a></li><li><a href="/celebrities/R/" class="">R</a></li><li><a href="/celebrities/S/" class="">S</a></li><li><a href="/celebrities/T/" class="">T</a></li><li><a href="/celebrities/U/" class="">U</a></li><li><a href="/celebrities/V/" class="">V</a></li><li><a href="/celebrities/W/" class="">W</a></li><li><a href="/celebrities/X/" class="">X</a></li><li><a href="/celebrities/Y/" class="">Y</a></li><li><a href="/celebrities/Z/" class="">Z</a></li></ul>
+	
+						<div class="clear"></div>	
+				<ul id="footerLinks">
+					<li class="first">
+						<dl>
+							<dt>Site links</dt>
+							<dd><a href="/">Home</a></dd>
+							<dd><a href="/news/">News</a></dd>
+							<dd><a href="/charts/">Charts</a></dd>
+							<dd><a href="/celebrities/">Celebrities</a></dd>
+							<dd><a href="/community/">Community</a></dd>
+						</dl>
+					</li>
+					<li>
+						<dl>
+							<dt>JpopAsia</dt>
+							<dd><a href="/about/">About us</a></dd>
+							<dd><a href="/advertise/">Advertise</a></dd>
+							<dd><a href="/contact/">Contact</a></dd>
+							<dd><a href="http://www.jpopasia.com/forums/topics-in/questions-and-comments-about-jpopasia::15::1/">FAQ</a></dd>
+							<!--<dd><a href="/join/">Join our team</a></dd>-->
+						</dl>
+					</li>
+					<li>
+						<dl>
+							<dt>Profile</dt>
+							<dd><a class="create-account" href="#" rel="nofollow">Create a profile</a></dd>
+							<dd><a href="/static/password/" rel="nofollow">Lost password</a></dd>
+							<dd>&nbsp;</dd>
+							<dt>VIP</dt>
+							<dd><a href="/vip/" rel="nofollow">Become <span class="label small">VIP</span></a></dd>
+							<dd><a href="/vip/jpops/" rel="nofollow">Buy Jpops</a></dd>
+						</dl>
+					</li>
+					<li>
+						<dl>
+							<dt>Celebrities</dt>
+							<dd><a href="/tips/">Tip us</a></dd>
+							<!--<dd><a href="/add/group/">Add group</a></dd>
+							<dd><a href="/add/celebrity/">Add celebrity</a></dd>
+							<dd><a href="/add/concert/">Add concert</a></dd>-->
+						</dl>
+					</li>
+					<li>
+						<dl>
+							<dt>Social</dt>
+							<dd><a href="http://www.facebook.com/jpopasia">Facebook</a></dd>
+							<dd><a href="http://twitter.com/jpopasia">Twitter</a></dd>
+							<dd><a href="http://www.youtube.com/user/officialjpopasia">YouTube</a></dd>
+						</dl>
+					</li>
+					<li>
+						<dl>
+							<dt>Partners</dt>
+							<dd><a href="http://www.gokpop.com/">GoKpop</a></dd>
+							<dd><a href="http://www.animetaku.com/">AnimeTaku</a></dd>
+							<dd><a href="http://www.ricepv.com/">RicePV</a></dd>
+						</dl>
+					</li>
+					<li>
+												
+						<dl>
+														<dd class="label">57,102 accounts</dd>
+							<dd class="label">10,412 albums</dd>
+							<dd class="label">52,660 videos</dd>
+							<dd class="label">132,872 lyrics</dd>
+						</dl>
+					</li>
+				</ul><!-- /footerLinks -->
+			</div><!-- /containerFooter -->
+	
+		
+		
+		</div> <!-- /wrapper -->
+	 <!-- /#footer -->
+	
+
+	<div class="wrapper" style="margin-bottom: 30px; position:relative;">
+		
+		<div id="footerEnd">
+			<span class="first">Copyright © 2011 JpopAsia</span>
+			<span>·</span>
+			<span><a class="light-grey" href="/static/tos/">Terms of service</a></span> 
+			<span>·</span>
+			<span><a class="light-grey" href="/static/privacy/">Privacy policy</a></span> 	
+			<span>·</span>
+			<span><a class="light-grey" href="/static/rules/">Community rules</a></span> 
+		</div><!-- /#footerEnd -->
+		
+		<!--<span class="footer-comment">"Everything J-pop, K-pop, C-pop, J-rock"</span>-->
+			</div> <!-- /wrapper -->
+
+	<div id="footerPlaceholder"></div>
+	
+	
+		
+	
+	
+	<div id="screenOverlay"></div>
+
+
+</body></html>
