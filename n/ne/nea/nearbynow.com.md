@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nearbynow.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127070126id_/http%3A//nearbynow.com/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nearbynow.com privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615174746id_/http%3A//nearbynow.com/info/privacy.html) for the most accurate reproduction.*
 
 # NearbyNow: Privacy Policy
 
@@ -87,4 +87,4 @@ c/o NearbyNow, Inc.
 1975 W. El Camino Real Suite 101  
 Mountain View, CA 94040 (USA)
 
-App Version:1.0 | IP:10.20.0.200 | Port:38999 | Build: 26698 | Page Loading Time: 77ms
+App Version:1.0 | IP:10.20.0.200 | Port:38999 | Build: 26698 | Page Loading Time: 35ms
