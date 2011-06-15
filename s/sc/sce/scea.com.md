@@ -1,158 +1,174 @@
-> *The following text is extracted and transformed from the scea.com privacy policy that was archived on 2008-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080629120628id_/http%3A//www.us.playstation.com/Support/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scea.com privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615180057id_/http%3A//us.playstation.com/support/privacypolicy/index.htm) for the most accurate reproduction.*
 
-# PlayStation.com - Support - Privacy Policy
+# Privacy Policy | Support - PlayStation.com
 
-English | [Français](https://web.archive.org/Support/PrivacyPolicy/french.html)
+  * [Home](https://web.archive.org/index.htm)
+  * [Knowledge Center](https://web.archive.org/support/index.htm)
+  * Privacy Policy
 
-#### Last Revised:  Feb 28, 2007
 
-Sony Computer Entertainment America ("SCEA") is committed to respecting the privacy rights of all visitors to our websites. We also recognize that our visitors, and the parents of children visiting our site, need protection of any personally identifying information they choose to share with us. This privacy policy is intended to provide you with the information on how we collect, use and store the information that you provide to us through our web sites and our SOCOM stores, so that you can make appropriate choices for sharing information with us. **Please note that we have a separate privacy policy that covers our collection of information through the PLAYSTATION®Network. Please click[here](http://www.scei.co.jp/ps3-eula/us/us_pp_en.html) for more information about the PLAYSTATION®Network Privacy Policy.** For additional information on our offline privacy policies, please call 1-800-345-7669. 
 
-[](http://www.esrb.org/confirm/scea-confirmation.jsp)
+**Last Revised: April, 2011**  
+Sony Computer Entertainment America LLC ("SCEA") is committed to respecting the privacy rights of all visitors to our websites. This privacy policy is intended to provide you with information on how we collect, use and store the information that you provide to us through our websites so that you can make appropriate choices for sharing information with us. If you have any questions, complaints or comments regarding our online or offline privacy policies, please contact SCEA's Consumer Services Hotline at 1-800-345-7669. 
 
-  
-This Privacy Statement and the certification seal located to your right confirms that SCEA is a valid licensee and participating member in the Entertainment Software Rating Board's Privacy Online Program: ESRB Privacy Online. To protect your privacy to the maximum extent possible, we have undertaken this privacy initiative and our Websites have been reviewed and certified by ESRB Privacy Online to meet established online information collection and use practices. As part of the privacy program, we are subject to frequent audits of our sites and other enforcement and accountability mechanisms administered independently by ESRB. 
+[](http://www.esrb.org/confirm/scea-confirmation.jsp)This Privacy Statement and the certification seal located to your right confirms that SCEA is a valid licensee and participating member in the Entertainment Software Rating Board's Privacy Online Program: ESRB Privacy Online. To protect your privacy to the maximum extent possible, we have undertaken this privacy initiative and our websites have been reviewed and certified by ESRB Privacy Online to meet established online information collection and use practices. As part of the privacy program, we are subject to frequent audits of our sites and other enforcement and accountability mechanisms administered independently by ESRB. 
 
-ESRB Privacy Online is a third-party seal provider whose mission is to protect consumers' online privacy and make the Internet a secure, reliable, and private place to share information and conduct business. ESRB Privacy Online promotes and enforces established principles and guidelines for fair information practices that include requirements of full disclosure, notice, and informed consent.
+ESRB Privacy Online is a third-party seal provider whose mission is to protect consumers' online privacy and make the Internet a secure, reliable and private place to share information and conduct business. ESRB Privacy Online promotes and enforces established principles and guidelines for fair information collection practices that include requirements of full disclosure, notice and informed consent. 
 
-Whenever you visit a Web site that displays the ESRB Privacy Online certification seal, you can expect to be notified of:
+Whenever you visit a website that displays the ESRB Privacy Online certification seal, you can expect to be notified of:
 
   * What personal information may be collected and by what means 
   * Who, if anyone, is collecting your personal information 
-  * How this information may be used, including, who-if anyone-it might be shared with 
-  * The consequences -if any- resulting from your refusal to provide personal information 
+  * How this information may be used, including who, if anyone, it might be shared with 
+  * The consequences, if any, resulting from your refusal to provide personal information 
   * How you can access and, if necessary, change the personal information a company maintains 
-  * How a company ensures data security, quality, and integrity 
+  * How a company ensures data security, quality and integrity 
   * Where and how to ask questions or file complaints 
 
 
 
-If you have any questions, complaints, or comments regarding our privacy statement or policies, please contact SCEA's Consumer Services Hotline at 1-800-345-7669. Additional contact information is provided below.
+#####   
+THIS POLICY APPLIES TO:
 
-#### Websites
+This policy applies to the websites [us.playstation.com](http://www.us.playstation.com/) and [naughtydog.com](http://www.naughtydog.com/). In addition, we own several other domain names that point to [us.playstation.com](http://www.us.playstation.com/). From time to time, we may add new websites not listed above, and will provide a link to this policy or the applicable privacy policy. Finally, we collect information via dynamic in-game advertising that is served to some online PlayStation®3 games. By use of our websites and games that have dynamic in-game advertising, you signify your assent to SCEA's privacy policy. If you do not agree to this policy, please do not use our websites or games with dynamic in-game advertising.
 
-We currently operate the web site [www.us.playstation.com](http://www.us.playstation.com/). In addition, we own several other domain names that point to the web sites listed above. From time to time we may add new sites that may not be listed above, but will provide a link to this policy. 
+#####   
+THIS POLICY DOES NOT APPLY TO:
 
-#### Links
+**PlayStation ®Network **   
 
-This policy applies only to sites maintained by SCEA or our subsidiaries. We may create links to the websites of our promotional partners and licensed software publishers or other entities that are owned or affiliated with SCEA. Although we will make every effort to link only to sites that meet similar standards for maintaining each individual's right to privacy, this policy does not apply to third party sites. Additionally, many other sites that we are not associated with and have not authorized may have links leading to one of our sites. We cannot control these links and are not responsible for any content appearing on these sites.
 
-#### Collection of Personal Information through our Websites
+In parts of North America and South America, Sony Network Entertainment America Inc. (“SNEA”) operates Sony Online Services, a network of online games, movies, music, other media and content and communication services. PlayStation Network (“PSN”) is one of these Sony Online Services. With a Sony Online Services or PSN account, users can purchase goods and services from SNEA through Sony Online Services and may have the opportunity to participate in various network community activities. Users can register for and log into a PSN account via us.playstation.com. Collection and use of your information by Sony Online Services is governed by the SNEA Privacy Policy, which can be found here:   
+[http://www.qriocity.com/us/en/legal-privacy](http://www.qriocity.com/us/en/legal-privacy.html). 
 
-We do not require that visitors reveal any personally identifying information in order to access our websites. However, visitors who do not wish to, or are not allowed by law to share personally identifying information, may not be able to access certain areas or participate in certain activities (like making a purchase or entering a promotion) which require registration.
+**Links**   
+SCEA may provide links to the websites of our promotional partners and licensed software publishers, our affiliates or other entities that we own or control. This privacy policy does not apply to third-party websites and treatment of any personal information you provide on those sites is subject to the applicable third party’s individual privacy policy. 
 
-Although information may be required to participate in certain promotions or sales offered through our websites, participants provide information on a voluntary basis only. Generally, we may wish to collect personal information about you in connection with the following services:
+#####   
+WHAT WE COLLECT:
+
+**Collection of Personal Information through our Websites**  
+We do not require that website visitors reveal any personally identifying information in order to gain general access to our websites. However, visitors who do not wish to, or are not allowed by law to share personally identifying information, may not be able to access certain areas of our websites, participate in certain activities, or make a purchase from the PlayStation®Shop. Although personally identifying information may be required to participate in certain promotions or features offered through our websites or to make a purchase from the PlayStation®Shop, participants provide this information on a voluntary basis only. Collection of personal information required to access certain website services may include the collection of date of birth, name, mailing address, email address or credit card information.   
+
+
+We collect personally identifying information in connection with the following: 
+
+  * Questions or comments sent through our websites to Consumer Services
+  * Repair of, replacement of or service on system hardware
+  * Subscription to a non-PSN marketing program
+  * "Send-to-a-Friend" emails
+  * Purchases made from the PlayStation Shop 
+
+
+
+Some of our website activities require that the user log in using a PlayStation®Network (“PSN”) account; for information regarding SNEA’s collection of information in association with a PSN account, please see their Privacy Policy   
+[http://www.qriocity.com/us/en/legal-privacy](http://www.qriocity.com/us/en/legal-privacy.html). On our websites, PlayStation Network log in information is being authenticated by SNEA, not SCEA. 
+
+SCEA may require a PSN account in connection with:
 
   * Participation in online contests, sweepstakes or other promotions 
-  * Questions or comments sent through our websites 
   * Inclusion in our email newsletter program 
   * Participation on our message boards 
-  * Registration to become a registered user of our site and a member of the PlayStation Underground 
-  * Repair of, replacement of or service on system hardware
-  * Verification of a SOCOM account or purchase through a SOCOM Store
+  * Access to special sections of official game websites
 
 
 
-Collection of personal information for these services may include the collection of your name, address, telephone number, email address, hardware/software information and/or credit card number or personal check information. 
+**Passive Information Collection**  
+SCEA may collect information such as our website visitors’ IP address, IP address-related information, system Media Access Control (“MAC”) address, network configuration information, network device information, browser plug-in types and versions, operating system, and platform. We also may collect information about your download activity, browser activity, forum postings and session information. 
 
-#### Collection of Demographic Information through www.playstation.com
+Dynamic advertisement serving technology enables advertisements to be temporarily loaded or cached to a PSN account holder’s PS3 system for display only in games that incorporate this technology. If a PSN account holder plays a game that utilizes this feature, SCEA will log information about his or her system and game play to ensure that advertisements are being appropriately served to him or her and to track information about the advertisements displayed during his or her gaming session. Logged data may include: Online ID, system IP address, system MAC address, in-game advertisement location, the length of time an advertisement was visible, relative size of advertisements, the angle of view and other information related to each advertisement visible during the gaming session. 
 
-From time to time we will offer visitors the chance to answer questions about their favorite PlayStation products and other issues. This general and demographic information (such as gender, game and platform preferences, hobbies, recently purchased products and date of birth) is collected anonymously and will not be linked to any personally identifying information through cookies* or other methods, without the approval of the user. (*To learn more about what "cookies" are and how we may use them, please see the section titled "Cookies" below.) 
+“Cookies” are bits of electronic information that a website can transfer to a consumer's hard drive to keep records of his or her visit at the website. We may use cookies to improve consumers’ experiences when visiting our websites. We may use cookies to anonymously track interest in, and collect aggregate information on, our websites. 
 
-Underground members are also asked, but are not required, to provide demographic information that is connected to their personally identifying information, to create their Underground Member profile. This information is compiled so that we can create a site that better serves the needs and interests of our Underground Members. For further information on our collection of information from Underground Members, see the PlayStation Underground Members section below. 
+“Log files” are files that log actions that have occurred on a website. We may use log files to gather statistics about consumers' browsing habits and to assess overall website activity, including how many "hits" a particular web page is getting. These entries are generated anonymously, and enable us to track interest in specific promotions, troubleshoot technical concerns, and provide consumers with content that may be of interest to them. We also use the log file entries for our internal marketing and demographic studies, so we can constantly improve the online services we provide to consumers. Log files are used internally only, and are not associated with any particular user, computer, or browser. 
 
-#### How We Use Your Information
+Our websites use a variety of technical methods for tracking purposes, including “Web beacons”. Web beacons are small pieces of data that are embedded in images on the pages of websites. We also use these technical methods to analyze the traffic patterns on our websites, such as the frequency with which consumers visit various parts of our websites. These technical methods may involve the transmission of information either directly to us or to another party authorized by us to collect information on our behalf. We also use these technical methods in HTML emails that we send our guests to determine whether our consumers have opened those emails or clicked on links in those emails. The information from use of these technical methods may be collected in a form that is personally identifiable. 
 
-Personally identifying information, which we collect for a particular promotional purpose or sale through our websites, will be saved and used only for that purpose, unless the participant chooses to opt-in to one of the programs discussed below or is creating a verified SOCOM account or making a purchase through a SOCOM Store. Consumers who create a Verified SOCOM Account or make a purchase through a SOCOM Store automatically become members of the PlayStation Underground (described below). They are sent an email that confirms this membership and provides a method to opt out of PlayStation Underground membership.
+**Information from PlayStation ®Network**  
 
-Information obtained from customers who contact our consumer services department or submit an online complaint will be maintained by the consumer services department, so that we may use it to assist these customers on current or future service issues. Additional information such as credit card, personal check information may be collected by our consumer services department if you contact them to request repair of, exchange of or service on your PLAYSTATION 3 system, PlayStation 2 system, PlayStation console, PS one system or PSP hardware system. This information is used only for payment verification purposes. 
 
-When you have provided personally identifying information for a particular purpose, we may disclose your information to certain third parties that we have engaged to assist us in fulfilling your request and in maintaining our database records. This includes, but is not limited to, fulfillment houses, transaction managers, credit verification services and data management companies. SCEA may share information with appropriate third parties, including law enforcement or other similar entity, in connection with a criminal investigation, investigation of fraud, infringement of intellectual property rights, or other activity that is suspected to be illegal or may expose you or SCEA to legal liability.
+SNEA shares its PSN account holders’ information with us so that we may provide you with marketing and community services. 
 
-#### PlayStation Underground Members
+**HOW WE USE YOUR INFORMATION**  
+Personally identifying information that we collect for a particular promotional purpose through one of our websites or to make a purchase from the PlayStation Shop is saved and used only for that purpose, unless the participant chooses to opt-in to one of our marketing programs. Visitors to our websites may be given the opportunity to "opt-in" to two different programs. The first option is to receive marketing content from SCEA. The second is to have personal information shared with SCEA’s third party partners so that they may send you marketing materials. 
 
-We offer all purchasers of our PlayStation product and visitors to our websites the opportunity to become a member of the PlayStation Underground. Consumers may also register for the PlayStation Underground outside of these websites by mail, telephone, by registering their Network Adaptor (Ethernet/Modem) (for PlayStation®2) or their PlayStation®2 with integrated network and line connectors for online gaming through the Online Start-Up Disc or by creating a PLAYSTATION® Network account (see PSN Privacy Policy for details). Consult the product manual for full details.
+Consumers who voluntarily provide personally identifying information via our website for purposes of receiving marketing materials or who opt-in to receiving marketing materials when they register a Network Adaptor (Ethernet/Modem)(for PlayStation®2) or PlayStation®2 with integrated network and line connectors for online gaming through the Online Start-Up Disc, become members of our marketing program.
 
-Membership in the PlayStation Underground is free and grants the member certain rights which may include, but are not limited to, discount offers, game news, free demo discs, access to restricted areas of our websites, the opportunity to be a registered user or subscriber of our websites and more. We may also share information collected from PlayStation Underground members with other Sony companies, affiliates and subsidiaries, who we think will provide you with additional information you'll enjoy.
+By logging in as a PSN account holder on our websites, consumers consent to having information regarding their activities added to their customer profile, whether information regarding those activities comes from SCEA internal sources, Sony-related entities or affiliated sources. We may give PSN account holders the opportunity to provide information about themselves and will from time to time conduct surveys or questionnaires for members to provide feedback and additional information. This information allows us to provide those PSN account holders with information about our products that best suits their interests and to customize their experience.
 
-We will give PlayStation Underground Members the opportunity to provide information about themselves on the registration materials, and will from time to time send out surveys or questionnaires for members to provide additional information. Underground Members may also be given the opportunity to link to store locators for our retail partners. We will share your Underground registration number only with our retail partners so that our partner can let us know about any purchases you make. Our partner will delete your number from its records once we have received this information or if you do not make a purchase. We will use the information about your purchases, whether from us or from our retail partners, to update members' records and make their PlayStation experience more enjoyable. 
+Data that we have collected about a PSN account holder via dynamic in-game advertising may be used to provide him or her with future advertisements that we believe will be of particular interest.
 
-If you choose to download content from this site you will be asked to consent to having information regarding these activities, from other internal sources and/or from other Sony related entities or affiliates connected with and added to your Underground profile. This will allow us to provide you with information about our products that best suit your interests and customize your experience. Members of the PlayStation Underground who join after August 23, 2005, also consent to having their personal information connected to data regarding their activities and purchases in this manner.
+Email addresses collected from consumers during the use of the E-Cards or "Send-to-a-Friend" email feature on our websites are not retained by us, and are only used to send a one-time email notification on a consumer’s behalf.
 
-Finally, as we operate internationally, and many of our computer systems are based in the United States, your personal data and information will be processed by us in the U.S. where data protection and privacy regulations may not offer the same level of protection as in other parts of the world, such as the European Union.
+SCEA may use personally identifying information for marketing and demographic studies. These studies help us improve our websites, products and services to better meet our users’ needs.
 
-Additionally, we may also use your personal information for marketing and demographic studies. Such studies may be conducted by us or by an outside firm hired by us. These studies are for internal purposes only, to help us improve our web sites and products to better meet your needs. We may share non-personally identifying information and behavioral data.
+SCEA’s consumer services department maintains information obtained from consumers who contact or submit an online complaint so that we may assist these customers with current or future service issues. SCEA’s consumer services department may collect additional information such as credit card, personal check information, if a consumer contacts consumer services to request repair of, exchange of, or service on, a PlayStation® system. Consumer Services uses this information only for payment and payment verification purposes. SCEA’s consumer services department may direct consumers to the consumer services departments of other companies with whom SCEA has arranged to provide consumer service, so that the consumer receives appropriate assistance.
 
-#### Your California Privacy Rights/ Information Sharing Policy
+We may use personally identifying information and records for defense of a lawsuit, investigation or other action if such personally identifying information, records or profiles are relevant to the lawsuit, investigation or action.
 
-PlayStation Underground Members whose information is collected through us.playstation.com will have an additional option to "opt-in" to have their information shared with our promotional partners, licensed software publishers, licensed peripheral makers and other licensees (�Our Partners�). This will give us the opportunity to work with partners to provide you with additional material on PlayStation and related product, which we think you will enjoy. 
+**WHO WE SHARE WITH:**  
+We may share the personally identifying information of our website users with our affiliates in the Sony group family of companies and other third parties who assist us with fulfilling your requests, clear and verify transactions, deliver and administer products, content or services, manage and enhance customer data, store and maintain our database records, provide customer service, detect fraud or illegal activities, conduct customer research and surveys, develop new products and services and sell products and services to you.  
 
-Beginning on January 1, 2005, California Civil Code Section 1798.83 permits customers of SCEA who are California residents to request certain information regarding SCEA’s disclosure within the immediately preceding calendar year of the California resident’s personal information to third parties for their direct marketing purposes.  To make such a request, contact our Consumer Services group through the following link: <http://www.us.playstation.com/Corporate/ConsumerServices> or via telephone at 1-800-345-7669. If you would like to change your current account preferences, please click on the following link: <https://secureus.playstation.com/Registration/SignIn>.
 
-Except for law enforcement and certain third parties that we have engaged to assist us in fulfilling your requests and maintaining our database records, your personally identifying information will not be shared with non-Sony parties unless participants choose this option or register through the PLAYSTATION�Network.
+SCEA may also share personally identifying information with law enforcement or similar organizations, in connection with a criminal investigation, investigation or prevention of fraud or criminal activities, infringement of intellectual property rights or other activity that is suspected to be illegal or may expose our users or SCEA to legal liability. 
 
-#### Policies for Children 12 Years Old and Under
+We may share non-personally identifying information and behavioral data from our studies with our affiliates and other third parties.
 
-We do not knowingly collect personally identifying information through our websites from children 12 and under. We encourage parents to take an active role to protect the privacy of their children and to prevent inappropriate uses of information about their children. Parents should instruct their children never to provide their real names or any other identifying information on the web without first getting permission.
+Data logged via PS3 dynamic in-game advertising or some portion of it will be shared with third party companies that operate the advertisement serving technology, and these companies may share aggregated data (meaning data that includes data about a PSN account holder’s gaming session but is not specific to him or her) with advertisers and game publishers.
 
-We encourage parents to register for the PlayStation Underground on their child's behalf so that parents can supervise their child's participation on our websites.
+We do not control our affiliates’ or third parties’ use of your information after we share it, but we use reasonable efforts to obtain our affiliates’ and third parties’ agreement to protect the confidentiality, security, and integrity of any personal information we share with them or that we permit them to collect directly. If consumers do not want their personal information made available to others in these ways, they should not provide their personal information to us.
 
-#### Business Contacts
+**California Privacy Rights**  
+Beginning on January 1, 2005, California Civil Code section 1798.83 permits SCEA customers who are California residents to request certain information regarding SCEA’s disclosure within the immediately preceding calendar year of that California resident’s personal information to third parties for their direct marketing purposes. To make such a request, contact our consumer services department through the following link: [ http://us.playstation.com/corporate/contactus](http://us.playstation.com/corporate/contactus/) or via telephone at 1-800-345-7669. If you would like to change your current account preferences, go to the account management section of your Sony Online Services account.
 
-For practical reasons, we treat personal information submitted to us in a business capacity different from information we receive in a non-business capacity. Personal information submitted to us in a business capacity (e.g. resumes, potential developer contact information) may be shared with other Sony Companies or third parties, depending on the nature of the inquiry. 
+**Policies for Children**  
+SCEA does not knowingly collect personally identifying information from children under 13 years of age via our websites. 
 
-Through our job page at http://www.us.playstation.com/jobs/, SCEA allows job seekers to inquire about jobs and submit personal information to apply for employment. If you inquire about a position and create a profile, we may use the personal information that you provide to contact you about positions that may be of interest to you, determine whether or not you qualify for a position or process your employment application. If you create a job profile, you will be asked to provide your email address and create a password. You can use your email address and password to access your account, review the information in your profile, edit and delete your profile at any time.
+Data from Sony Online Services accounts is transferred from SNEA to SCEA for community administration and, depending on your child’s age, marketing purposes. 
 
-#### Cookies
+**PlayStation Website Message Boards**  
+Our PlayStation website message boards are a place where users can go to freely share their thoughts and ideas about the PlayStation brand. A PSN account is required to contribute to these message boards. We prohibit message board participants from disclosing their own personally identifying information other than their own Online IDs. We ask our users to respect the privacy of others. Disclosure of phone numbers, addresses, age or other personally identifying information that may violate someone else's privacy is prohibited. Encouraging or asking users to disclose publicly their personally identifying information is also prohibited. 
 
-Cookies are bits of electronic information which a website can transfer to a visitor's hard drive to help tailor and keep records of his or her visit at the site. Cookies allow website operators to better tailor visits to the site to visitor's individual preferences. The use of cookies is standard on the Internet and many major web sites use them.
+**Business Contacts**  
+Through our job page at [http://us.playstation.com/corporate/about/careers](http://us.playstation.com/corporate/about/careers/), SCEA allows job seekers to inquire about jobs and submit personally identifying information in connection with applying for employment. If a job seeker creates a job profile, he or she will be asked to provide an email address and create a password. He or she can use that email address and password to access his or her account, review the information in his or her profile, edit or delete his or her profile at any time.
 
-We may use cookies in certain areas to improve your experience when visiting our websites. They may be used to anonymously track interest and collect aggregate information on various parts of the sites. Cookies will also be used to keep track of your shopping cart in our online store. If you are a PlayStation Underground member, cookies will be used each time you visit to tell our websites not to prompt you for your PSU number and password more than once per session.
+We treat personally identifying information submitted to us for business purposes differently from information we receive in a non-business capacity. We may share resumes or potential developer contact information submitted to us, for example, with other Sony companies or third parties, depending on the nature of the inquiry.
 
-#### Log Files
+**Accuracy & Security**   
+We take reasonable measures to protect the confidentiality, security, and integrity of the personal information collected from our website visitors. Personal information is stored in secure operating environments that are not available to the public and that are only accessible to authorized employees. We also have security measures in place to protect the loss, misuse, and alteration of the information under our control. Unfortunately, there is no such thing as perfect security. As a result, although we strive to protect personally identifying information, we cannot ensure or warrant the security of any information transmitted to us through or in connection with our websites, that we store on our systems or that is stored on our service providers' systems.
 
-We may use log files to gather statistics about our users' browsing habits and to assess overall website activity, including how many "hits" a particular web page is getting. These entries are generated anonymously, and enable us to track interest in specific promotions, troubleshoot technical concerns, and provide you with content that is most interesting to you. We also use the log file entries for our internal marketing and demographic studies, so we can constantly improve the online services we provide you. Log files are used internally only, and are not associated with any particular user, computer, or browser.
+**Governing Law**  
+SCEA operates in parts of North and South America but this site is intended for consumers in the United States. When we process personal data and information and personally identifying information in the United States, we follow United States data protection and privacy regulations, which may not offer the same level of protection as in other parts of the world, such as the European Union. If we are made aware that a consumer’s country of residence is outside the United States, that consumer will be directed to the appropriate Sony company. 
 
-#### Web Beacons
+**Transfer of Your Information in the Event of Sale or Acquisition**   
+In the event that SCEA sells or transfers its business or its business is acquired, our website visitors’ stored personally identifying information may be transferred to the purchasing or acquiring entity. Please be aware that accepting this privacy policy means that you also consent to the possible transfer of your personally identifying information outside your country of residence.
 
-Our websites use a variety of technical methods for tracking purposes, including Web beacons. Web beacons are small pieces of data that are embedded in images on the pages of websites. We also use these technical methods to analyze the traffic patterns on our websites, such as the frequency with which our users visit various parts of our websites. These technical methods may involve the transmission of information either directly to us or to another party authorized by us to collect information on our behalf. We also use these technical methods in HTML e-mails that we send our guests to determine whether our guests have opened those e-mails or clicked on links in those e-mails. The information from use of these technical methods may be collected in a form that is personally identifiable.
+**Retention Policy**   
+We will retain personally identifying information about you for the period necessary to fulfill the purposes outlined in this policy unless a longer retention period is required by law or regulations.
 
-#### Message Boards
+**Changes to Our Privacy Policy**   
+**We reserve the right to make changes to this privacy policy at any time. If we make a material change to this privacy policy, we will notify you by posting notice of the change on[www.us.playstation.com](http://us.playstation.com/) or on our other websites. We will post the changes in the privacy policy and, if necessary, give you additional choices regarding changes. Please check this privacy policy from time to time to ensure that you are aware of these changes. Your continued use of our websites or other SCEA online portals subject to this privacy policy will signify your acceptance of privacy policy changes.**
 
-Our web site message boards are a place where users can go to freely share their thoughts and ideas about all that's PlayStation. Bulletin Board participants must adhere to our standard website terms of use, as well as additional terms and conditions which are posted in that section. Any information we collect for participation in the Bulletin Board section will adhere to this privacy policy. We ask our users to respect the privacy of others. Posting of phone numbers, addresses, or other personal information in the Bulletin Board section, which may violate someone's privacy is prohibited. Additionally, we prohibit the posting by any user of his or her own personally identifying information. We reserve the right to remove any postings that violate this rule or any other term or condition posted on this site. Additionally, We reserve the right to ban any user who has violated this requirement.
+**Contact Us**   
+For further information on our privacy policy, or for questions on information that we may have collected from you, please contact us by either of the following methods and we will be happy to review, update, or change your record status as appropriate:
 
-#### Accuracy & Security
-
-We seek to maintain reasonable security measures in order to attempt to protect against the loss, misuse or alteration of the personally identifying information under our control. Unfortunately, there is no such thing as perfect security. As a result, although we strive to protect your personally identifying information, we cannot ensure or warrant the security of any information you transmit to us through or in connection with our website or that we store on our systems or that is stored on our service providers' systems.
-
-#### Contact Us
-
-For further information on our privacy policy, or for questions on information that we may have collected from you, or should you wish to have your name removed from the PlayStation Underground mailing list, please contact us by either of the following methods and we will be happy to review, update, or change your record status as appropriate:
-
-**By Phone at:**
-
-1-800-345-7669 (800-345-SONY), live rep support M-SAT 6am-8pm PST, SUN 7am-6:30pm PST; auto support 24 hours per day, 7 days per week. 
-
-**By Mail at:**
-
-SCEA, Consumer Services Department  
+Sony Computer Entertainment America LLC  
+Consumer Services Department   
 P.O. Box 5888  
-San Mateo, CA  
-94402-0888
+San Mateo, California, 94402-0888  
+United States of America  
+On the web: [http://us.playstation.com/corporate/contactus](http://us.playstation.com/corporate/contactus/)  
+By Phone: 1-800-345-7669 
 
-#### On the Web Site:
-
-Log into your account and make changes as needed. Here's the link to log in and get you started: [https://secureus.playstation.com/registration/SignIn](https://secureus.playstation.com/registration/signin.asp).
-
-Once you login, go to the My Account section of the site to access your personal information. 
-
-SCEA is a licensee of the ESRB's Privacy Online Program. If you believe that we have not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact ESRB at [http://www.esrb.org/privacy/contact.jsp](http://www.esrb.org/privacy/contact_wc_hotline.jasp)
-
-ESRB  
+**ESRB**  
+SCEA is a licensee of the ESRB's Privacy Online Program. If you believe that we have not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact ESRB at <http://www.esrb.org/privacy/contact.jsp>   
+ESRB   
 Attn.: Privacy Online Program  
 317 Madison Avenue, 22nd Floor  
 New York, NY 10017  
-212-759-0700  
-[privacy@esrb.org](mailto:privacyinfo@esrb.org)
+[privacy@esrb.org](mailto:privacy@esrb.org)
 
-By using this site, you signify your assent to SCEA's Privacy Policy. If you do not agree to this policy, please do not use our web sites. We reserve the right to make changes to this policy. If we make a material change to this privacy policy, we will notify you by posting the change on our web sites or in this Privacy Policy and, if necessary, give you additional choices regarding such change. Please check back from time to time to ensure that you are aware of these changes. Your continued use of our sites will signify your acceptance of these changes.
+Back to Top
+
+  
+
