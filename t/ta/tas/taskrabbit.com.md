@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the taskrabbit.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229234137id_/http%3A//www.taskrabbit.com/main/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taskrabbit.com privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615171306id_/http%3A//www.taskrabbit.com/main/privacy) for the most accurate reproduction.*
 
-# TaskRabbit: Life is busy. We can help.
+# TaskRabbit: Neighbors helping neighbors.
 
 **TaskRabbit.com Privacy Policy**
 
@@ -12,7 +12,7 @@ We use your IP address to help diagnose problems with our server, and to adminis
 
 Links and Information
 
-This site contains links to other Web sites. TaskRabbit.com is not responsible for the privacy practices or the content of such Web sites. From time to time, Task Senders and Task Runners as well as all other members will have the opportunity to participate in special programs and will be able to opt in to programs that will transfer their information to other services. This will occur only with prior permission from the User. Our site uses an order form for customers to request information, products, and services. We collect financial information (credit card numbers). Financial information that is collected is used to bill the user for products and services. TaskRabbit.com expressly disclaims any liability that may arise from the provision of any User of any information whatsoever to this site. You, the User, do hereby agree to hold TaskRabbit.com harmless from any liability that may arise from the provision of any information to this site. By using this site, you also represent and warrant that you have read, understand and agree to the terms stated in the Terms of use which is incorporated herein by reference. Pursuant to the Terms of use, you agree that all information provided to TaskRabbit.com shall become the property of TaskRabbit.com subject to any exclusions so stated herein.
+This site contains links to other Web sites. TaskRabbit.com is not responsible for the privacy practices or the content of such Web sites. From time to time, TaskPosters and TaskRabbits as well as all other members will have the opportunity to participate in special programs and will be able to opt in to programs that will transfer their information to other services. This will occur only with prior permission from the User. Our site uses an order form for customers to request information, products, and services. We collect financial information (credit card numbers). Financial information that is collected is used to bill the user for products and services. TaskRabbit.com expressly disclaims any liability that may arise from the provision of any User of any information whatsoever to this site. You, the User, do hereby agree to hold TaskRabbit.com harmless from any liability that may arise from the provision of any information to this site. By using this site, you also represent and warrant that you have read, understand and agree to the terms stated in the Terms of use which is incorporated herein by reference. Pursuant to the Terms of use, you agree that all information provided to TaskRabbit.com shall become the property of TaskRabbit.com subject to any exclusions so stated herein.
 
 Security
 
