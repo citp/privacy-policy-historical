@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sainsburysbank.co.uk privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231114933id_/http%3A//www.sainsburysbank.co.uk/savings/legal_regulatory_privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sainsburysbank.co.uk privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615172733id_/http%3A//www.sainsburysbank.co.uk/savings/legal_regulatory_privacy_policy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,14 +8,12 @@
 
 You can download and print our [**Privacy Policy**](http://www.sainsburysbank.co.uk/library/default/pdf/fullprivacystatement.pdf) (PDF 55KB) for free with Adobe Acrobat.
 
-Please note: our privacy policy document will open in a new browser window and may take some time to download depending on your internet connection.
-
-  You can download and print the terms and conditions with Adobe Acrobat.  [Get Adobe Reader](http://get.adobe.com/uk/reader/).
+You can download and print our privacy policy with Adobe Acrobat - [Get Adobe Reader](http://get.adobe.com/uk/reader/).
 
 [](http://www.adobe.com/products/acrobat/readstep2.html) 
 
     
-Use the links below to jump to the section you are interested in reading more about:
+Alternatively, you can use the links below to jump to the section you are interested in reading more about:
 
   * Why we need your information and where we obtain it
   * How we use your information
@@ -25,6 +23,7 @@ Use the links below to jump to the section you are interested in reading more ab
   * What Credit Reference Agencies do
   * How to find out more
   * Fraud Prevention Agencies
+  * [Cookies](https://web.archive.org/security/security_cookies.shtml)
 
 
 
@@ -50,15 +49,15 @@ Organisations must lodge a notification with the Information Commissioner descri
 
 Unless you have given us your consent, we will not provide information about you to companies outside our group to use for their own marketing purposes. Sometimes we need to give information to our agents and subcontractors so that they can provide a particular service for us. Sometimes, these companies may be located abroad in countries that do not have adequate data protection laws. In these circumstances we always take great care to ensure that your personal information is kept safe and secure. Where appropriate, details relating to your Nectar Card and number of points earned will be passed, via Sainsbury's Supermarkets Ltd, to LMUK Ltd so that they can administer the Nectar Programme. If you hold a credit card with us, we will share transaction details with our scheme providers (e.g. Visa or MasterCard). Other members of our group may also share your information (but not financial details) to help keep their records up to date and administer your relationship with them.
 
-We are also committed to meeting the standards set by The Lending Code, copies of which are available from [www.lendingstandardsboard.org.uk](http://www.lendingstandardsboard.org.uk/).  Occasionally, the Lending Standards Board's compliance monitoring body audits a sample of our customer records to assess our compliance with the Code.  Whenever this happens, strict confidentiality conditions are always imposed.
+We are also committed to meeting the standards set by the Lending Code, copies of which are available on their website [http://www.lendingstandardsboard.org.uk ](http://www.lendingstandardsboard.org.uk/)Occasionally, the _Lending Standards Board's_ compliance monitoring body audits a sample of our customer records to assess our compliance with the Code.  Whenever this happens, strict confidentiality conditions are always imposed.
 
 top
 
 ### Your choices and how to contact us 
 
-We may use your account details, transactions and information provided to us by third parties in our customer contact programme. Occasionally, we and other parts of J Sainsbury plc, may contact you by letter, telephone, e-mail and text message or otherwise to inform you about other products and services that may interest you. We try to limit our customer contact programme to acceptable levels, but if you wish to exercise your right to opt out, simply write to us at Freepost RSCB-HXYE-YXAT, Sainsbury's Bank, PO Box 197, Prescot, L35 1WR. Alternatively, you may e-mail us at [sainsburysnocontact@cdms.co.uk](mailto:sainsburysnocontact@cdms.co.uk "BLOCKED::mailto:sainsburysnocontact@cdms.co.uk mailto:sainsburysnocontact@cdms.co.uk").
+We may use your account details, transactions and information provided to us by third parties in our customer contact programme. Occasionally, we and other parts of J Sainsbury plc, may contact you by letter, telephone, e-mail and text message or otherwise to inform you about other products and services that may interest you. We try to limit our customer contact programme to acceptable levels, but if you wish to exercise your right to opt out, simply write to us at Freepost RSCB-HXYE-YXAT, Sainsbury's Bank, PO Box 197, Prescot, L35 1WR. Alternatively, you may e-mail us at [sainsburysnocontact@cdms.co.uk](mailto:sainsburysnocontact@cdms.co.uk "BLOCKED::mailto:sainsburysnocontact@cdms.co.uk mailto:sainsburysnocontact@cdms.co.uk").  Please confirm your name and address on all communications.  Your request may take up to eight weeks to action.
 
-**Remember, however, that opting out could stop us contacting you about any of our products or services that may benefit you. For example, you may not hear about a new savings or mortgage product that offers you a better rate or saves you money.**
+**Please note however that opting out could stop us contacting you about any of our products or services that may benefit you. For example, you may not hear about a new savings product  that offers you a better rate or a discount that may save you money.**
 
 Under the Data Protection Act you have the right of access to your personal data. The Act allows us to charge a fee of £10 for this service. If anything is inaccurate or incorrect, please let us know and we will correct it. If you do not want to receive unsolicited mail from other companies, you can prevent this by registering with the Mailing Preference Service. In addition, the Telephone and Fax Preference Services enable you to object to receiving unsolicited marketing phone calls or faxes from other companies. To register, simply telephone the appropriate number i.e.
 
@@ -72,7 +71,7 @@ top
 
 ### Credit Referencing 
 
-If you apply for any of our credit-based products (e.g. loan or credit card) we will perform a search with a credit reference agency. We may give details of your account and how you conduct it to credit reference agencies. If you borrow and do not repay in full and on time, we may tell credit reference agencies who will record the outstanding debt. 
+If you apply for any of our credit-based products (e.g. loan or credit card) we will perform searches with credit reference agencies. We may give details of your account and how you conduct it to credit reference agencies. If you borrow and do not repay in full and on time, we may tell credit reference agencies who will record the outstanding debt. 
 
 The information below provides further details about how credit reference agencies, Sainsbury's Bank and other lenders use your information.
 
@@ -233,9 +232,9 @@ You can contact the 3 agencies currently operating in the UK; the information th
 
   * **CallCredit** , Consumer Services Team, PO Box 491, Leeds, LS3 1WZ or call 0870 0601414
 
-  * **Equifax** PLC, Credit File Advice Centre, PO Box 1140, Bradford, BD1 5US or call 0870 010 0583 or log on to [www.myequifax.co.uk ****](http://www.myequifax.co.uk/)
+  * **Equifax** **PLC** , Credit File Advice Centre, PO Box 1140, Bradford, BD1 5US or call 0870 010 0583 or log on to [www.myequifax.co.uk ****](http://www.myequifax.co.uk/)
 
-  * **Experian** , Consumer Help Service, PO Box 8000, Nottingham NG80 7WF or call 0870 241 6212 or log on to [www.experian.co.uk](http://www.experian.co.uk/)
+  * **Experian Credit Report Services** , Experian Ltd, PO Box 1135, Warrington, WA55 1EP or call 0844 481 8000 or log-on to [www.experian.co.uk](http://www.experian.co.uk/)
 
 
 
