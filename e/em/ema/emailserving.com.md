@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emailserving.com privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214234021id_/http%3A//www.emailserving.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emailserving.com privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615201035id_/http%3A//www.emailserving.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy of Our Email Marketing Service | Emailserving.com
 
