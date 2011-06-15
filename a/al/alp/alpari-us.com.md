@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alpari-us.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227085314id_/http%3A//www.alpari-us.com/en/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alpari-us.com privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615213103id_/http%3A//www.alpari-us.com/en/privacy_policy.html) for the most accurate reproduction.*
 
 # Alpari (US) Privacy Policy Information
 
@@ -50,7 +50,7 @@ We endeavor to keep our customer files complete and accurate. We will give you r
 
 If you prefer that we limit disclosures of personal information about you, you may notify us via email at optout@alpari-us.com by calling 1-646-825-5760, or via US Postal Service, that you elect to opt out of our privacy policy procedures. Please send correspondence where you maintain your account(s) as listed on your account statements, along with your account number(s) to:   
 Alpari (US), LLC   
-14 Wall St., Suite 5H   
+14 Wall St., Suite 8B   
 New York, NY 10005
 
 Our account records will then indicate the following preferences:
