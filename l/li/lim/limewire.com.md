@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the limewire.com privacy policy that was archived on 2010-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101022225732id_/http%3A//www.limewire.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the limewire.com privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616010054id_/http%3A//www.limewire.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Lime Wire
+
+## ATTENTION
+
+LimeWire is under a court order dated October 26, 2010 to stop distributing the LimeWire software. A copy of the injunction can be found [here](http://download.limewire.com/injunction/Injunction.pdf). LimeWire LLC, its directors and officers, are taking all steps to comply with the injunction. We have very recently become aware of unauthorized applications on the internet purporting to use the LimeWire name. We demand that all persons using the LimeWire software, name, or trademark in order to upload or download copyrighted works **_in any manner_** cease and desist from doing so. We further remind you that the unauthorized uploading and downloading of copyrighted works is illegal.
 
 ##### Effective Date: July 22, 2009
 
@@ -63,7 +67,7 @@ Please be aware that Lime Wire is not responsible for the privacy practices of s
 
 ### How to Contact Us
 
-If you have any questions about the Lime Wire Privacy Policy or its implementation, or if you have a concern or policy violation you wish to report, you may contact us at the email address [privacy@limewire.com](mailto:privacy@limewire.com). For all questions or concerns not specifically related to this Privacy Policy please visit our [contact form](http://www.limewire.com/about/contact).
+If you have any questions about the Lime Wire Privacy Policy or its implementation, or if you have a concern or policy violation you wish to report, you may contact us at the email address [privacy@limewire.com](mailto:privacy@limewire.com). For all questions or concerns not specifically related to this Privacy Policy please visit our [contact form](http://www.limewire.com/support).
 
 ↑ Back to Top
 
