@@ -1,70 +1,21 @@
-> *The following text is extracted and transformed from the vbskinworks.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102010927id_/http%3A//vbskinworks.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vbskinworks.com privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615162701id_/http%3A//www.forumflux.com/privacy.php) for the most accurate reproduction.*
 
-# vBSkinworks - Quality vBulletin Skins, vBulletin Styles and more
+# vBulletin Skins, IPB Skins, XenForo Skins and Styles - ForumFlux
 
-| [](https://web.archive.org/web/20100102010927id_/http%3A//vbskinworks.com/index.php) | [](http://vbskinworks.com/forum/index.php) | [](http://vbskinworks.com/phpclient/browse_products.php?category_id=1) | [](http://vbskinworks.com/desk/index.php) | [](http://vbskinworks.com/affiliate/index.php) | [](https://web.archive.org/web/20100102010927id_/http%3A//vbskinworks.com/contact.php)  
----|---|---|---|---|---  
-  
-Step 1
-
-Search through our extensive  
-collection of skins, and choose  
-the ones you like best.
-
-**[Get Started Now »](http://vbskinworks.com/phpclient/browse_products.php?category_id=1)**
-
-| 
-
-Step 2
-
-| 
-
-Step 3
-
-Respond to our confirmation   
-email to receive your   
-download link. Then enjoy!
-
-**[Its just that easy!](http://vbskinworks.com/phpclient/browse_products.php?category_id=1)**  
-  
----|---|---  
-  
-|   
----  
-  
-vBSkinworks.com operates this web site. vBSkinworks regards the privacy and security of user information as a critical component of the service that we offer to our users. The following information explains our information gathering and dissemination practices.
+ForumFlux.com operates this web site. ForumFlux regards the privacy and security of user information as a critical component of the service that we offer to our users. The following information explains our information gathering and dissemination practices.
 
   1. Registration Data - We use Registration Data to give you access to our forums and purchase script. We also use Registration Data to send you information about our company and service and to keep you informed of enhancements and complementary products in which you might be interested. You may choose to stop receiving future communications from us. Please see the Opt-Out and Discontinue Section below.
-  2. Cookies - Cookies are pieces of information that a web site transfers to your computer's hard disk for record-keeping purposes. Cookies in and of themselves do not personally identify users, although they do identify a user's computer. Most browsers are initially set up to accept cookies. If you'd prefer, you can set your browser to refuse cookies. However, you may not be able to take full advantage of a web site if you do so. We use cookies to store your personal preferences and settings on our site. Advertisers that display ads on our site may also use cookies. vbskinworks.com does not have access to the information obtained from those cookies.
-  3. IP Addresses - IP addresses are used by your computer every time you are connected to the internet. Your IP address is a number that is used by computers on the network to identify your computer. IP addresses are automatically collected by our web server as part of profile data known as "traffic data" so that data (such as the Web pages you request) can be sent to you. vBSkinworks.com will not use your IP address to attempt to identify your personal information.
-  4. Referers - A Referer is the information passed along by a web browser that references the Web URL you linked from, and is automatically collected by our web server as "traffic data". This information is used by vBSkinworks.com to identify backlink information and tracking. You will not be personally identified from this information.
-  5. System Information. System information we collect as part of "traffic data" includes time, the type of web browser being used, the operating system/platform, and CPU speed. This information is sent automatically by your web browser when you are connected to a web site. This information is used by vBSkinworks.com in identifying broad demographic trends and may be used to provide information appropriate for your computer system. You will not be personally identified from this information.
-  6. Sharing of Information - vBSkinworks.com feels strongly that your personal data should only be seen by you, unless you choose to share it with others. We will never sell, rent, license or exchange personally identifiable data with a third party period! No personally identifiable data or information will be shared with advertisers or partners period! Some of your information may be shared on an aggregate basis only, as a part of a larger set of statistics (for example, statistics that indicate the percentage of our members that are female), but that information will not be sufficient to permit the recipient to identify you. Notwithstanding the forgoing, vBSkinworks.com will only disclose personally identifiable data without your permission in the following limited circumstances: (i) if vBSkinworks.com is required to do so by law, or (ii) if vBSkinworks.com has the good faith belief that such action is necessary to conform to applicable laws or comply with legal process served on vBSkinworks.com, or to protect and defend the rights or property of vBSkinworks.com or another subscriber or to enforce the Terms of Use.
-  7. Other Web Sites, Links, And Advertisers - This web site contains links to other web sites. vBSkinworks.com advertisers may also have links on this web site. The privacy practices of those advertisers or web sites linked to vBSkinworks.com are not covered by this privacy statement and vBSkinworks.com is not responsible for the privacy practices or the content of such web sites. Additionally, if you make a purchase from a store or merchant listed on or linked to the vBSkinworks.com web site, any information that you give, such as your credit card number and contact information, is provided to those merchants. These merchants have separate privacy and data collection practices and vBSkinworks.com has no responsibility or liability for these independent policies. You should be careful to review any privacy policies posted on any linked sites before signing up with and using them.
-  8. Children Under Age of Thirteen - We do not collect any registration information from users who indicate they are under the age of thirteen (13). If a user under the age of thirteen (13) attempts to register with vBSkinworks.com, vBSkinworks.com notifies the user that he or she is not eligible to become a member of vBSkinworks.com's service and we do not collect or use any personal information from that child. Except in those limited instances described above, vBSkinworks.com will not share personally identifiable information about our users with third parties without your permission, and we do not sell, license or rent personal information about any of our members, regardless of age.
-  9. Security - Information collected by vBSkinworks.com is stored in secure operating environments that are not available to the public. All of our employees are dedicated to maintaining and upholding your privacy and security and are aware of our privacy and security policies. Unfortunately, no data transmission over the Internet can be guaranteed 100% secure. As a result, while we strive to protect your personal information, vBSkinworks.com cannot ensure or warrant the security of any information you transmit to us from our online products or services, and you do so at your own risk. Once we receive your transmission, we make our best efforts to ensure its security on our systems.
-  10. Opt-Out and Discontinue - You may elect to avoid future communications from vBSkinworks.com by sending us an email at unsubscribe @ vBSkinworks.com indicating your Username and E-mail address and requesting to opt-out and discontinue future communications. Under urgent circumstances, vBSkinworks.com may be required to send you information about the service or your account, but vBSkinworks.com will not send you unsolicited communications regarding any commercial offers or advertisements if you have opted out or discontinued the service.
+  2. Cookies - Cookies are pieces of information that a web site transfers to your computer's hard disk for record-keeping purposes. Cookies in and of themselves do not personally identify users, although they do identify a user's computer. Most browsers are initially set up to accept cookies. If you'd prefer, you can set your browser to refuse cookies. However, you may not be able to take full advantage of a web site if you do so. We use cookies to store your personal preferences and settings on our site. Advertisers that display ads on our site may also use cookies. ForumFlux.com does not have access to the information obtained from those cookies.
+  3. IP Addresses - IP addresses are used by your computer every time you are connected to the internet. Your IP address is a number that is used by computers on the network to identify your computer. IP addresses are automatically collected by our web server as part of profile data known as "traffic data" so that data (such as the Web pages you request) can be sent to you. ForumFlux.com will not use your IP address to attempt to identify your personal information.
+  4. Referers - A Referer is the information passed along by a web browser that references the Web URL you linked from, and is automatically collected by our web server as "traffic data". This information is used by ForumFlux.com to identify backlink information and tracking. You will not be personally identified from this information.
+  5. System Information. System information we collect as part of "traffic data" includes time, the type of web browser being used, the operating system/platform, and CPU speed. This information is sent automatically by your web browser when you are connected to a web site. This information is used by ForumFlux.com in identifying broad demographic trends and may be used to provide information appropriate for your computer system. You will not be personally identified from this information.
+  6. Sharing of Information - ForumFlux.com feels strongly that your personal data should only be seen by you, unless you choose to share it with others. We will never sell, rent, license or exchange personally identifiable data with a third party period! No personally identifiable data or information will be shared with advertisers or partners period! Some of your information may be shared on an aggregate basis only, as a part of a larger set of statistics (for example, statistics that indicate the percentage of our members that are female), but that information will not be sufficient to permit the recipient to identify you. Notwithstanding the forgoing, ForumFlux.com will only disclose personally identifiable data without your permission in the following limited circumstances: (i) if ForumFlux.com is required to do so by law, or (ii) if ForumFlux.com has the good faith belief that such action is necessary to conform to applicable laws or comply with legal process served on ForumFlux.com, or to protect and defend the rights or property of ForumFlux.com or another subscriber or to enforce the Terms of Use.
+  7. Other Web Sites, Links, And Advertisers - This web site contains links to other web sites. ForumFlux.com advertisers may also have links on this web site. The privacy practices of those advertisers or web sites linked to ForumFlux.com are not covered by this privacy statement and ForumFlux.com is not responsible for the privacy practices or the content of such web sites. Additionally, if you make a purchase from a store or merchant listed on or linked to the ForumFlux.com web site, any information that you give, such as your credit card number and contact information, is provided to those merchants. These merchants have separate privacy and data collection practices and ForumFlux.com has no responsibility or liability for these independent policies. You should be careful to review any privacy policies posted on any linked sites before signing up with and using them.
+  8. Children Under Age of Thirteen - We do not collect any registration information from users who indicate they are under the age of thirteen (13). If a user under the age of thirteen (13) attempts to register with ForumFlux.com, ForumFlux.com notifies the user that he or she is not eligible to become a member of ForumFlux.com's service and we do not collect or use any personal information from that child. Except in those limited instances described above, ForumFlux.com will not share personally identifiable information about our users with third parties without your permission, and we do not sell, license or rent personal information about any of our members, regardless of age.
+  9. Security - Information collected by ForumFlux.com is stored in secure operating environments that are not available to the public. All of our employees are dedicated to maintaining and upholding your privacy and security and are aware of our privacy and security policies. Unfortunately, no data transmission over the Internet can be guaranteed 100% secure. As a result, while we strive to protect your personal information, ForumFlux.com cannot ensure or warrant the security of any information you transmit to us from our online products or services, and you do so at your own risk. Once we receive your transmission, we make our best efforts to ensure its security on our systems.
+  10. Opt-Out and Discontinue - You may elect to avoid future communications from ForumFlux.com by sending us an email at unsubscribe @ ForumFlux.com indicating your Username and E-mail address and requesting to opt-out and discontinue future communications. Under urgent circumstances, ForumFlux.com may be required to send you information about the service or your account, but ForumFlux.com will not send you unsolicited communications regarding any commercial offers or advertisements if you have opted out or discontinued the service.
   11. Update/Edit - Registered users, you may update or edit their account and personal information previously entered by logging in with their user ID and password, and then follow the instructions.
-  12. Contact Us - If you have any questions regarding this Privacy Policy, the practices of vBSkinworks.com, or your dealings with our web site, please contact us at admin@vbskinworks.com
-  13. Modification of Privacy Policy By vBSkinworks.com - vBSkinworks.com reserves the right to change or update this Privacy Policy at any time by posting a notice that we are changing our Privacy Policy.
+  12. Contact Us - If you have any questions regarding this Privacy Policy, the practices of ForumFlux.com, or your dealings with our web site, please contact us at admin [ at ] forumflux.com
+  13. Modification of Privacy Policy By ForumFlux.com - ForumFlux.com reserves the right to change or update this Privacy Policy at any time by posting a notice that we are changing our Privacy Policy.
 
 
-
-Last Update: October 29, 2007  
-  
-|  |   
----  
-  
-  
-|   
----  
-  
-I just to want to give a big thumbs up to John here at vBSkinworks. I ordered, received and downloaded my skin in less than an hours time. Then I had a problem with my graphics which he fixed for me in the time it took me to have dinner. I wish everybody I dealt with had this kind of customer service! Thanks again John!  
-[_**\- K.G.**_](http://www.frro.org/)  
-I just wanted to drop a quick line to say thank you for an outstanding product and fantastic "after the sale" service. I (and more importantly) my members couldn't be happier with the overall look, feel, and quality of the skin which your company has provided. Thanks so much!  
-[_**\- Trip**_](http://www.cycleaddicts.ca/)  
-  
-[](https://www.paypal.com/us/verified/pal=sale%40vbskinworks.com)  
-  
-|   
----|---
