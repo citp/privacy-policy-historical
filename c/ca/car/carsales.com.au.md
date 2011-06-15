@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carsales.com.au privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228154452id_/http%3A//www.carsales.com.au/carsales-info/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carsales.com.au privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615024407id_/http%3A//www.carsales.com.au/carsales-info/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - carsales.com.au
 
