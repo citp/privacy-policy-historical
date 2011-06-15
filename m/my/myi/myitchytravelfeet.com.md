@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myitchytravelfeet.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120190527id_/http%3A//myitchytravelfeet.com/editorial/privacy-policy-and-terms-of-use) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myitchytravelfeet.com privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615221726id_/http%3A//myitchytravelfeet.com/editorial/privacy-policy-and-terms-of-use) for the most accurate reproduction.*
 
 # Privacy Policy and Terms of Use
 
@@ -32,4 +32,4 @@ Except as disclosed in these Terms, **My Itchy Travel Feet** does not sell or di
 
 **Terms Updates.** The **My Itchy Travel Feet** Terms may be changed at any time and without notice. Should **My Itchy Travel Feet** undergo a change of ownership or make a substantial change regarding its use of personal information, **My Itchy Travel Feet** will notify individual subscribers using any subscription management services in place. Continued use of **My Itchy Travel Feet’s** subscription services and/or accessing its site indicates your acknowledgment of such changes and agreement to be bound by the terms and conditions of such changes.
 
-If you have any questions or concerns about **My Itchy Travel Feet’s** Terms of Use and Privacy Statement, email [**Donna L. Hull**](mailto:%20Donna@myitchytravelfeet.com). 
+If you have any questions or concerns about **My Itchy Travel Feet’s** Terms of Use and Privacy Statement, email [**Donna L. Hull**](mailto:%20Donna@myitchytravelfeet.com).
