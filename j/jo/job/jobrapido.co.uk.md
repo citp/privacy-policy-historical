@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the jobrapido.co.uk privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230134310id_/http%3A//www.jobrapido.co.uk/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobrapido.co.uk privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615230012id_/http%3A//www.jobrapido.co.uk/info/privacy-policy) for the most accurate reproduction.*
 
-# Jobrapido
+# Jobrapido | Privacy Policy
 
 ### This page describes the ways in which the personal data of users of the website www.jobrapido.co.uk (referred to below as "the Site") will be handled. The methods described are limited to the services directly offered from the Site, and do not apply to any website that may be consulted through the links available from it. 
 
 ## 1\. Data Holder
 
-### The party responsible for handling the personal data of the Site users is Jobrapido S.r.l., with its registered office at Via De Amicis 28, 20123, Milan, Italy (referred to below as “Jobrapido”).
+### The party responsible for handling the personal data of the Site users is Jobrapido S.r.l. with its office legally at Jobrapido Srl, Via Paleocapa 7, 20121 Milano, Italy (referred to below as “Jobrapido”).
 
 ## 2\. Place and purpose of the data processing operations
 
