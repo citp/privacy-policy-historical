@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ioljobs.co.za privacy policy that was archived on 2010-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100615081713id_/http%3A//www.ioljobs.co.za/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ioljobs.co.za privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615042852id_/http%3A//www.ioljobs.co.za/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
