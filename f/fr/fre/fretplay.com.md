@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fretplay.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204153009id_/http%3A//fretplay.com/privacy-statement-) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fretplay.com privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615155104id_/http%3A//fretplay.com/privacy-statement-) for the most accurate reproduction.*
 
 # Privacy statement
 
