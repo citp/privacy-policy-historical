@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trolltech.com privacy policy that was archived on 2009-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091215210533id_/http%3A//qt.nokia.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trolltech.com privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615045349id_/http%3A//qt.nokia.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — Qt - A cross-platform application and UI framework
 
