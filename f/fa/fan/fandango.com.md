@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fandango.com privacy policy that was archived on 2010-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100805124828id_/http%3A//www.fandango.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fandango.com privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615135432id_/http%3A//www.fandango.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Fandango | Privacy Policy
 
@@ -118,7 +118,7 @@ California Civil Code Section 1798.83 permits our visitors who are California re
 
 **Fandango, Inc.  
 Attn: California Privacy Rights  
-12200 West Olympic Blvd, Suite 150  
+12200 West Olympic Blvd, Suite 400  
 Los Angeles, CA 90064 **
 
 **ACCEPTANCE OF PRIVACY POLICY**
@@ -127,7 +127,7 @@ When you use the Site or other Service, you are accepting the terms and conditio
 
 **Fandango, Inc.  
 Attn: Privacy Policies  
-12200 West Olympic Blvd, Suite 150  
+12200 West Olympic Blvd, Suite 400  
 Los Angeles, CA 90064 **
 
 
