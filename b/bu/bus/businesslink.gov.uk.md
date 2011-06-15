@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the businesslink.gov.uk privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125162353id_/http%3A//www.businesslink.gov.uk/bdotg/action/staticpage%3Fr.s%3Df%26r.lc%3Den%26page%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businesslink.gov.uk privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615130917id_/http%3A//www.businesslink.gov.uk/bdotg/action/staticpage%3Fpage%3DPrivacy%26r.s%3Df) for the most accurate reproduction.*
 
 # Privacy policy | Business Link
 
@@ -16,7 +16,7 @@ We may make changes to this privacy policy at any time. Changes will be posted h
 
 ### 1\. Who manages this website?
 
-Businesslink.gov.uk is managed by HM Revenue & Customs (HMRC), on behalf of the government, and delivered by Serco Ltd. 
+Businesslink.gov.uk is managed by HM Revenue & Customs (HMRC), on behalf of the government, and delivered by Serco Ltd. 
 
 Where this privacy policy refers to the interaction of this site with government departments, HMRC are also one of those departments.
 
@@ -28,7 +28,7 @@ Depending on which services you use on this website, you may be asked to provide
 
 We collect and process data that you provide for specific purposes. You will be asked to provide information about yourself when you use certain site facilities, in order to complete your request or transaction. This may include personal information such as your name, email addresses, mailing address and telephone number. We use this data to provide you with the information, products or services that you request from us and to communicate with you. We may keep a record of any contacts you have with us. We may use the information that you provide for record keeping, statistical, or research purposes.
 
-We only retain this information where required to do so by law; for the length of time needed to provide the service or information you have requested (including any retention period specified by law or by government policy), or for the length of time that you choose to store information or permit us to contact you if you have registered with our website.
+We only retain this information where required to do so by law - for the length of time needed to provide the service or information you have requested (including any retention period specified by law or by government policy), or for the length of time that you choose to store information or permit us to contact you if you have registered with our website.
 
 If you are a registered user, we may use your details to offer personalised or local services, to notify you of changes to our service, to ask your opinions and to help us to improve our services. When you register with the site, you can choose to store information in your 'My Business' area, for example to save the results of tools that you have completed.
 
@@ -75,7 +75,7 @@ Session-specific cookies are deleted when you leave the website. We use session-
 
 
 
-You can [find out about cookies and how to manage them on the aboutcookies.org website \- Opens in a new window](http://www.aboutcookies.org/ "find out about cookies and how to manage them on the aboutcookies.org website - Opens in a new window") or [read about managing cookies on the allaboutcookies.org website \- Opens in a new window](http://www.allaboutcookies.org/ "read about managing cookies on the allaboutcookies.org website - Opens in a new window").
+You can [find out about cookies and how to manage them on the aboutcookies.org website \- Opens in a new window](http://www.aboutcookies.org/ "find out about cookies and how to manage them on the aboutcookies.org website - Opens in a new window") or [read about managing cookies on the allaboutcookies.org website \- Opens in a new window](http://www.allaboutcookies.org/ "Uses for cookies, privacy and security information and web-browsing tips - Opens in a new window").
 
 ### 3\. Information sharing and disclosure
 
