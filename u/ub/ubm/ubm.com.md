@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ubm.com privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213031741id_/http%3A//www.ubm.com/ubm/sitetools/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ubm.com privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615021052id_/http%3A//www.ubm.com/ubm/sitetools/privacy) for the most accurate reproduction.*
 
-# UBM - Privacy Statement
+# UBM plc - Privacy Statement
 
 ## Use of Information
 
-The pages on the website (“the website”) are published by Investis Limited (“us” or “we”) on behalf of United Business Media Limited. 
+The pages on the website (“the website”) are published by Investis Limited (“us” or “we”) on behalf of UBM plc. 
 
 Investis Limited (“us” or “we”) will not collect any information about individuals, except where it is specifically and knowingly provided by them. Examples of such information are: 
 
