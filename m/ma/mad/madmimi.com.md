@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the madmimi.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220041520id_/http%3A//madmimi.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the madmimi.com privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615124835id_/http%3A//madmimi.com/legal/privacy) for the most accurate reproduction.*
 
 # Mad Mimi Email Marketing
 
@@ -10,6 +10,14 @@ Mad Mimi is permission-based. That means you need permission to send to the peop
 
 To send an email to someone using Mad Mimi, that recipient must be either someone who is a customer, member or subscriber of your business or organization or who has specifically asked to receive your emails by opting in or signing up in some way, or someone who has bought a product or service from you in the past 18 months.   
 
+
+### Sender Responsibility
+
+To send mailings using Mad Mimi, you must follow the guidelines set by the domains you are sending to regarding list management, promotion content, and sending practices.
+
+In order to prevent your mailing from being blocked, throttled, or ending up in the spam folder at recipient email providers, you must take all necessary actions to keep your subscriber list sufficiently responsive, follow the email providers' accepted email coding practices (if you use your own custom email code), and make an effort to avoid sending promotions that are likely to be interpreted by the provider as 'spam.'
+
+If your mailings do not follow these guidelines they may be considered in violation of the Mad Mimi privacy and permission policy.
 
 #### Safety of your personal information
 
@@ -29,7 +37,7 @@ Mad Mimi, LLC
 1 Prospect Park SW  
 Suite 4N  
 Brooklyn, New York 11215  
-help@madmimi.com
+support@madmimi.com
 
 #### Periodic emails from Mad Mimi
 
