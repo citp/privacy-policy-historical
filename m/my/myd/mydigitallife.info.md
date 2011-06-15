@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mydigitallife.info privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228090433id_/http%3A//www.mydigitallife.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mydigitallife.info privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615133915id_/http%3A//www.mydigitallife.info/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy » My Digital Life
+# Privacy Policy « My Digital Life
 
 Thanks for visiting My Digital Life. Your privacy on the Internet is of the utmost importance to us. At My Digital Life, we want to make your experience online satisfying and safe.
 
@@ -16,7 +16,7 @@ This information allows us to better tailor our content to readers’ needs, ana
 
 My Digital Life may place a text file called a “cookie” in the browser files of your computer. The cookie itself does not contain personal information although it will enable us to relate your use of this site to information that you have specifically and knowingly provided. But the only personal information a cookie can contain is information you supply yourself, such as in Comments form and login information. A cookie can’t read data off your hard disk or read cookie files created by other sites. My Digital Life also uses cookies to track user traffic patterns, sometimes via third party tracker (as described above). 
 
-We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. We work with the advertising develiery companies such as Google AdSense, Chitika, Tirbal Fusion, ValueClick Media and etc. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit networkadvertising.org.
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. We work with the advertising delivery companies such as Google AdSense, Tribal Fusion, ValueClick Media and etc. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit networkadvertising.org.
 
 You can refuse cookies by turning them off in your browser. If you’ve set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You do not need to have cookies turned on to use this site. However, you do need cookies to participate actively in message boards, forums, polling and surveys.
 
@@ -26,11 +26,11 @@ Consistent with the Federal Children’s Online Privacy Protection Act of 1998 (
 
 **Electronic Newsletters (Dispatches or Update Subscribes)**
 
-My Digital Life offers a free electronic newsletter to users through FeedBurner service. FeedBurner gathers the email addresses of users who voluntarily subscribe, which My Digital Life also has acccess to. My Digital Life will never shares newsletter mailing list with any third parties, including advertisers, sponsors or partners. These email addresses collected are solely meant for newsletter delivery. For Privacy Policy of FeedBurner, check out their website. Users may remove themselves from this mailing list by following the link provided in every newsletter that points users to the subscription management page. Users can also subscribe to the newsletters any time on this site.
+My Digital Life offers a free electronic newsletter to users through FeedBurner service. FeedBurner gathers the email addresses of users who voluntarily subscribe, which My Digital Life also has access to. My Digital Life will never shares newsletter mailing list with any third parties, including advertisers, sponsors or partners. These email addresses collected are solely meant for newsletter delivery. For Privacy Policy of FeedBurner, check out their website. Users may remove themselves from this mailing list by following the link provided in every newsletter that points users to the subscription management page. Users can also subscribe to the newsletters any time on this site.
 
 **Message Boards (Forums)**
 
-Users of the site’s Message Boards and Forums must register separately to participate in the discussions and post messages. Registration to forum services is free of charge). Visitor needn’t register to visit the site. During registration the user is required to supply a username, password, and email address.
+Users of the site’s Message Boards and Forums must register separately to participate in the discussions and post messages. Registration to forum services is free of charge. Visitor needn’t register to visit the site. During registration the user is required to supply a username, password, and email address.
 
 **Polling**
 
@@ -43,16 +43,3 @@ My Digital Life may occasionally conduct user surveys to better target our conte
 **YOUR CONSENT**
 
 By using this site, you consent to the collection and use of this information by My Digital Life. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
-
-  * [Jealous E.U. Warns Google on Data Retention Policy](http://www.mydigitallife.info/2007/05/27/jealous-eu-warns-google-on-data-retention-policy/ "Permanent Link: Jealous E.U. Warns Google on Data Retention Policy")
-  * [Limit Stranger’s Prying Eyes from Finding You in Facebook](http://www.mydigitallife.info/2007/12/26/limit-strangers-prying-eyes-from-finding-you-in-facebook/ "Permanent Link: Limit Stranger’s Prying Eyes from Finding You in Facebook")
-  * [Group Policy Login or Logon Scripts Not Running, Not Working or Not Executing](http://www.mydigitallife.info/2006/09/13/group-policy-login-or-logon-scripts-not-running-not-working-or-not-executing/ "Permanent Link: Group Policy Login or Logon Scripts Not Running, Not Working or Not Executing")
-  * [How to Open the Local Group Policy Editor in Windows 7 and Vista](http://www.mydigitallife.info/2010/01/05/how-to-open-the-local-group-policy-editor-in-windows-7-and-vista/ "Permanent Link: How to Open the Local Group Policy Editor in Windows 7 and Vista")
-  * [Cell-Savers Announces Magi-Privacy Screen Preventing Identity Theft](http://www.mydigitallife.info/2008/06/20/cell-savers-announces-magi-privacy-screen-preventing-identity-theft/ "Permanent Link: Cell-Savers Announces Magi-Privacy Screen Preventing Identity Theft")
-  * [Install and Enable Group Policy Editor (GPEdit.msc) in Windows XP Home Edition](http://www.mydigitallife.info/2010/11/14/install-and-enable-group-policy-editor-gpedit-msc-in-windows-xp-home-edition/ "Permanent Link: Install and Enable Group Policy Editor \(GPEdit.msc\) in Windows XP Home Edition")
-  * [Delete Your Computer Tracks with Advanced Privacy Cleaner 1.1](http://www.mydigitallife.info/2007/10/14/delete-your-computer-tracks-with-advanced-privacy-cleaner-11/ "Permanent Link: Delete Your Computer Tracks with Advanced Privacy Cleaner 1.1")
-  * [PC Tools Privacy Guardian 4.1 Free Download With License Serial Key](http://www.mydigitallife.info/2010/01/12/pc-tools-privacy-guardian-4-1-free-download-with-license-serial-key/ "Permanent Link: PC Tools Privacy Guardian 4.1 Free Download With License Serial Key")
-  * [Display Logon Message Text and Title in Windows Vista](http://www.mydigitallife.info/2007/04/03/display-logon-message-text-and-title-in-windows-vista/ "Permanent Link: Display Logon Message Text and Title in Windows Vista")
-  * [Steganos Privacy Suite 11 (2009) Free License Code Download](http://www.mydigitallife.info/2010/10/14/steganos-privacy-suite-11-2009-free-license-code-download/ "Permanent Link: Steganos Privacy Suite 11 \(2009\) Free License Code Download")
-
-
