@@ -1,81 +1,102 @@
-> *The following text is extracted and transformed from the huddle.net privacy policy that was archived on 2010-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100913010401id_/http%3A//www.huddle.net/about/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the huddle.net privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615095653id_/http%3A//www.huddle.com/privacy) for the most accurate reproduction.*
 
-# Privacy statement ~ About ~ Huddle
+# Privacy - Huddle
 
-Ninian Solutions Limited trading as Huddle is committed to preserving the privacy of all visitors to huddle.net. Please read the following privacy policy to understand how We use and protect the information that You provide to Us. Please also ensure that You have read and understood Our Terms of Use which You can find [here](https://web.archive.org/about/terms-and-conditions/). Capitalized terms used in this Privacy Policy are defined in the [Terms of Use](https://web.archive.org/about/terms-and-conditions/).
+**Huddle Privacy Policy**
 
-**1.Information that we collect from  you**
+**(Last Updated: December 6, 2010)**
 
-1.1 If You decide to register with and use huddle.net You will be asked to provide certain information about yourself including Your name and contact details. By submitting Your personal information, You consent to the collection, use and transfer of your information in accordance with the terms of this privacy policy.
+Ninian Solutions Limited (“we”, “us” or “our”) are committed to protecting and respecting your privacy.
 
-1.2 We may also collect information about Your usage of the Website and of the Service, as well as information about You, from emails, phone calls or letters that You send to Us or form information that you post on our Website. We will only use any such information in accordance with the terms of this privacy policy.
+This policy (together with our terms of use http://www.huddle.com/terms-of-use/) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.  Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
-1.3 If You are 16 years old or younger You may not register with Us on the Website. If We become aware that You are 16 years old or younger and You have not obtained such permission, We will remove Your personal information from Our records. By entering Your details on the Website You are stating that You are 17 years old or older.
+We may change this Policy from time to time. If we make any changes to this Policy, we will change the “last updated” date above. If there are material changes to this Policy, we will notify you more directly. We encourage you to check this Policy whenever you use our Web sites and services to understand how your personal information is used.
 
-**2\. Use of your  information**
+For the purpose of the Data Protection Act 1998 (the **Act** ), the data controller is Ninian Solutions Limited of Gemini House, 180-182 Bermondsey Street, London SE1 3TQ.
 
-We will only use Your information for the following purposes:
+**Information we may collect from you**
 
-a) to enable Us to provide You with access to all parts of the Website and to use the Service and to enable You to download information and materials from the Website; 
+We may collect and process the following data about you:
 
-b) to contact You with Our newsletter and other email updates;
+  * Information that you provide us by completing forms on our sites [www.huddle.com](http://www.huddle.com/) and my.huddle.net (which you may be accessing using a custom domain name eg. myaccount.huddle.net), ( **our sites** ). This includes information provided at the time of registering to use our site or subscribing to our service including contact details such as name, email address and phone number.
+  * Information that you upload to, or share through, our site by using our services including profile information or any personal information in data that you upload.
+  * Information that you provide us by completing surveys on our site or as carried out by our approved third parties.
+  * If you contact us for customer or technical support, we may keep a record of that correspondence or conversation.
+  * Information that you provide us when carrying out transactions through our site including payment details such as credit card information and billing addresses.
+  * Information we receive from our third party partners such as LinkedIn, Xing, Ning during the registration process such as first name, surname and email address.
+  * Information we receive from third party search engines such as Google, Yahoo and Microsoft (Bing and MSN) relating to your search activity.
+  * Details of your visits to our site including, but not limited to, traffic data, location data, weblogs and other communication data and the resources that you access.
 
-c) to make You occasional offers of Huddle products or services or to make You aware of other products or services offered by Us from time to time;
 
-d) to produce reports, statistics and analysis of the types of people who access the Website;
 
-e) to contact You for Your views on the Website and to notify You occasionally about important changes or developments to the Website;
+**Uses made of the information**
 
-f) to administer, support, improve and develop Our Website.
+We use information held about you in the following ways:
 
-2.2 If you change Your mind about being contacted in the future, please let Us know and We will remove You from Our mailing list.
+  * To provide our services and features to you, to measure and improve those services and features and to provide you with customer and technical support.
+  * To contact you with any service-related announcements from time to time.
+  * To ensure that content from our site is presented in the most effective manner for you and for your computer.
+  * To provide you with information concerning our products or services that you request from us or which we feel may interest you by email unless you have opted-out of receiving this information (see below for more details).
+  * To carry out our obligations arising from any contracts entered into between you and us.
+  * To provide you with advertisements concerning our products and services through our Third Party Partners Programme (see below for more details).
 
-2.3 We reserve the right to use the name and/or logo of the company you work for in publicity material, advertising or marketing collateral, unless you specifically tell us otherwise. Your name, address details and all other personal information will remain confidential at all times.
 
-**3\. Disclosure of your  information**
 
-3.1 We do follow strict guidelines in the storage and disclosure of information which You have given us, to prevent unauthorized access. We comply with the laws of the countries from which we operate.
+**IP addresses and cookies**
 
-3.2 Certain personal information that You provide to Us is defined as Sensitive Personal Data by the Data Protection Act 1988. We do not seek any sensitive personal data other than that which is reasonable and necessary for the purposes sought. You are giving Your explicit consent to collect, process, disclose, transfer or store Your Sensitive Personal Data for the purposes of processing orders for goods and services.
+We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers.  This is statistical data about our users’ browsing actions and patterns, and does not identify any individual.
 
-3.4 We do not disclosure Your personal data to any third party except to the extent that we may disclose Your personal data to third parties (whether in the UK or elsewhere) for the purposes of processing orders made by You for goods or services from Us .
+Also, we may obtain information about your general internet usage by using a cookie file which is stored on the hard drive of your computer when you browse our sites. Cookies contain information that is transferred to your computer’s hard drive. They help us to improve our site and to deliver a better and more personalised service.
 
-3.5 Please note that this may include the transfer of Your personal data to one or more countries outside the UK .
+You may refuse to accept our cookie by activating the setting on your browser which allows you to refuse the setting of cookies. However, if you select this setting, this may adversely affect your user experience of our site.
 
-3.6 By using the Website You consent to third parties having access to Your personal data, including those outside the European Economic Area (EEA). You understand and accept that if Your data is disclosed to third parties outside the EEA those parties may be based in territories that may not have sensitive data protection provisions in law. Every effort will be made to ensure that Your data is processed solely to provide You with a newsletter or other email update, or in connection with a competition/promotion. We will attempt to ensure that Your data is held safely.
+**Third Party Partners Programme**
 
-3.7 You agree to keep confidential and not to disclose to any other individual or individuals for all time the user name and password related to Your huddle account. Note that although You set the password, it is Our proprietary information and belongs to Us for all time.
+When you visit our site, we place a cookie file on your hard drive of your computer so that our advertising partners are able to recognise you when you visit their websites.  We do this so that our advertising partners are able to show you advertisements relating to our products and services when you visit their website.
 
-**4.  Cookies**
+You may opt out of receiving our advertisements through our advertising partners by:
 
-Cookies are small amounts of information which We store on Your computer. We issue cookies to Your computer when You log on to the Website and when You register with the Service. Cookies are necessary for the operation of the Service and therefore, if You set up your computer to reject cookies You will be unable to access the Service.
+  * Adjusting your browser setting to refuse the setting of cookies or by clearing your cookies. Please refer to you computer or browser manual on how to do this.
+  * Our system will issue cookies when you visit our site again.
 
-**5\. Security and data  retention**
 
-We employ security measures to protect Your information from access by unauthorized persons and against unlawful processing, accidental loss, destruction and damage. We will retain Your information for a reasonable period or as long as the law requires.
 
-**6\. Accessing and  updating**
+**Marketing communications and opting-out**
 
-You are entitled to see the information held about You and You may ask Us to make any necessary changes to ensure that it is accurate and kept up to date. If You wish to do this, please contact Us. We are entitled by law to charge a fee of £10 to meet Our costs in providing You with details of the information We hold about You.
+We will provide you with information concerning our products or services that you request from us or which we feel may interest you by email unless you have opted-out of receiving this information.
 
-**7\. Changes to our privacy  policy**
+You may at anytime opt-out of receiving this information by clicking on the opt-out link in the footer of a marketing email you have received or by sending us an email at privacy@huddle.com.
 
-Any changes to Our privacy policy in the future will be posted to the Website and, where appropriate, through e-mail notification. Please ensure that You are kept up-to-date with any such changes. By using the Service or accessing the Website You agreed to be bound by the most up-to-date version of this Policy.
+**How you can change or remove information**
 
-**8.  Contact**
+You may change or remove your profile information displayed through our site at any time by going to your profile and editing your information.  However, if you want to change the personal information we hold about you in our systems, you will need email your request to privacy@huddle.com.
 
-All comments, queries and requests relating to Our use of Your information are welcomed and should be addressed to:
+If you want to stop using your account you may deactivate it. When you deactivate an account, you will not be able to use our service and your information will not be capable of being viewed through our site.  However, even after you deactivate your account, copies of your information including but not limited to name and email address may be retained by us as backup copies for legal and compliance reasons.
 
-Ninian Solutions Limited t/a Huddle
+**Where we store your personal data**
 
-Unit B, Gemini House  
-180 Bermondsey Street  
-London SE1 3TQ
+The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area (“EEA”).  It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the provision of CRM services, marketing campaigns, support and hosting services on our behalf.  We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
 
-tel: 0870 9772212
+All information you provide to us is stored on secure servers operated by us or our third party providers. Any payment transactions will be encrypted using SSL technology. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share your password with anyone.
 
-fax: 0870 9772212
+Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
 
-email: [support@huddle.net](mailto:support@huddle.net)
+**Disclosure of your information**
 
-Reg. No.: 05777111
+We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries.
+
+We may disclose your personal information to third parties:
+
+  * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
+  * If we or substantially all of our assets are acquired by a third party, in which case personal data held by us will be one of the transferred assets.
+  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use <http://www.huddle.com/terms-of-use/>****
+
+
+
+**Changes to our privacy policy**
+
+Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by email.
+
+**Contact**
+
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to privacy@huddle.com
