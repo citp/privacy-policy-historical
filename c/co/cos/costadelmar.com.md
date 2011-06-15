@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the costadelmar.com privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214112432id_/http%3A//www.costadelmar.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the costadelmar.com privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615060621id_/http%3A//costadelmar.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Costa Del Mar: See What's Out There...
 
