@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the screencast.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224163531id_/http%3A//www.screencast.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the screencast.com privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615111058id_/http%3A//www.screencast.com/privacy.aspx) for the most accurate reproduction.*
 
 # TechSmith | Screencast.com, online video sharing, Privacy Policy
 
