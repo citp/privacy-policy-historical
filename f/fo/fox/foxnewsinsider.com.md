@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the foxnewsinsider.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123215218id_/http%3A//www.foxnewsinsider.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foxnewsinsider.com privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615072644id_/http%3A//www.foxnewsinsider.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « Fox News Insider
 
-  * FOXNewsInsider.com Privacy Policy 
+* FOXNewsInsider.com Privacy Policy 
 
 Tuesday, May 25, 2010
 
@@ -31,7 +31,7 @@ FOX’s web site(s) may be linked to Internet sites operated by other companies.
 
 FOX’s web site(s) may also be linked to sites operated by companies affiliated with FOX (i.e., that are part of the News America Group). Although all News America Group entities adhere to the group’s Privacy Principles (<http://www.newscorp.com/privacy.html>), visitors to those affiliated sites should still refer to their separate privacy policies and practices, which may differ in some respects from this Policy.
 
-Some of the advertisements that appear on FOX’s web site(s) are delivered to you by national Internet advertising and application companies such as DoubleClick and Revenue Science. These companies ultilize certain technologies to deliver advertisements and marketing messages and to collect anonymous information about your visit to our site(s), including information about the banner ads they display, any cookie they place on your computer and your IP address. To opt out of information collection by DoubleClick or Revenue Science, or to obtain information about the technologies they use or their own privacy policy, please visit their web sites at: <http://www.doubleclick.com/us/about_doubleclick/privacy> and <http://www.revenuescience.com/privacy.asp>.
+Some of the advertisements that appear on FOX’s web site(s) are delivered to you by national Internet advertising and application companies such as DoubleClick and Revenue Science. These companies ultilize certain technologies to deliver advertisements and marketing messages and to collect anonymous information about your visit to our site(s), including information about the banner ads they display, any cookie they place on your computer and your IP address. To opt out of information collection by DoubleClick or Revenue Science, or to obtain information about the technologies they use or their own privacy policy, please visit their web sites at: <http://www.doubleclick.com/us/about_doubleclick/privacy> and <http://www.revenuescience.com/privacy.asp.>
 
 CHOICE: FOX Will Provide You with Choices About the Use of Your PII  
 FOX will not use the PII you provide to us for purposes different from the purpose for which it was submitted or share your PII with third parties that are not affiliated with FOX (i.e., not part of the News America Group), unless we obtain your permission.
@@ -79,6 +79,3 @@ Fax: 212-301-
 e-mail: [comments@foxnewsinsider.com](mailto:comments@foxnewsinsider.com)
 
 You may also request a written response to your concerns, which will be made no later than thirty (30) days after you contact FOX.
-
-
-
