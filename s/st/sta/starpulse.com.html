@@ -1,13 +1,14 @@
-<!--The following is the downloaded HTML source of the starpulse.com privacy policy that was archived on 2010-12-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101206113524id_/http%3A//www.starpulse.com/Company/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the starpulse.com privacy policy that was archived on 2011-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110615142600id_/http%3A//www.starpulse.com/Company/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Privacy - Starpulse.com</title>
 <meta name="Description" content="Starpulse.com - Your Entertainment Destination">
 <meta name="Keywords" content="entertainment, entertainment news, gossip, celebrity, celebrities, celebs, celebrity photo, celeb pics, actress, actors, actors and actress, music, movies, video games, television, television, tv shows">
 
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE8">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<link href="http://cdn.starpulse.com/css/style-11-16-2010.css" rel="stylesheet" type="text/css">
+<link href="http://cdn.starpulse.com/css/style-03-11-2011.css" rel="stylesheet" type="text/css">
 
 <!--[if lte IE 6]>
 	<link rel="stylesheet" type="text/css" href="http://cdn.starpulse.com/css/ie6_fixes.css" />
@@ -31,6 +32,7 @@
 	GS_googleEnableAllServices();
 </script>
 <script type="text/javascript">
+	GA_googleAddSlot('ca-pub-9674942009345807', 'Generic-980');
 	GA_googleAddSlot('ca-pub-9674942009345807', 'Generic-728');
 	GA_googleAddSlot('ca-pub-9674942009345807', 'Generic-300');
 	GA_googleAddSlot('ca-pub-9674942009345807', 'Generic-Sky');
@@ -94,28 +96,39 @@ c.contentWindow[g];t.write(p());t.close()}catch(x){c[k]=o+'d.write("'+p().replac
 '\"')+'");d.close();'}a.T(1)}({network:"starpulse"});
 
 }
+// comment out sharing if the advertisment skin is causing meebo to share the image
+// regardless if we turn off div sharing.
+
 if (typeof(Meebo) == 'function') {
 	Meebo('makeImagesSharable',{tooltipPosition:'top'});
 	Meebo('setDefaultTweet', 'View this and other celebrity photos, news, video and gossip on Starpulse.com');
 	Meebo('setDefaultThumbnail', { thumbnail: "http://www.starpulse.com/images/starpulse_logo.gif", width: 119, height: 38 });
 }
+<!-- comment out the below line to enable meebo ads -->
+//Meebo.disableAds=true;
 /* ]]> */
 </script>
+
 </head>
 <body><div id="meebo" style="display: none;"><m><iframe frameborder="0" id="meebo-iframe"></iframe></m></div>
 <!-- Begin Facebook Connect -->
 <div id="fb-root"><script src="https://connect.facebook.net/en_US/all.js" async=""></script></div>
 <script type="text/javascript">
+   var like_btn;
+
 	  window.fbAsyncInit = function() {
 		FB.init({
 			appId   : '158308557541634',
 			session : null, // don't refetch the session when PHP already has it
 			status  : true, // check login status
 			cookie  : true, // enable cookies to allow the server to access the session
+            channelUrl  : "http://www.starpulse.com/channel.html",  // facebook fb_fragment fix.
 			xfbml   : true // parse XFBML
 		});
 		FB.Event.subscribe('auth.login', function() {
+
 			window.location.reload();
+		  
 		});
 		FB.Event.subscribe('auth.logout', function(response) {	   
 			location.href = 'http://www.starpulse.com/members/logout.php';	    
@@ -123,7 +136,8 @@ if (typeof(Meebo) == 'function') {
 	};
 	(function() {
 		var e = document.createElement('script');
-		e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
+		//e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
+		e.src = 'https://connect.facebook.net/en_US/all.js';
 		e.async = true;
 		document.getElementById('fb-root').appendChild(e);
 	}());
@@ -133,7 +147,7 @@ if (typeof(Meebo) == 'function') {
 <!-- Begin comScore Tag -->
 <script type="text/javascript">
   var _comscore = _comscore || [];
-  _comscore.push({ c1: "2", c2: "8187618" });
+  _comscore.push({ c1: "2", c2: "8555387" });
   (function() {
     var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
     s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
@@ -141,7 +155,7 @@ if (typeof(Meebo) == 'function') {
   })();
 </script>
 <noscript>
-  <img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=8187618&amp;cv=2.0&amp;cj=1" alt="" />
+  <img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=8555387&amp;cv=2.0&amp;cj=1" alt="" />
 </noscript>
 <!-- End comScore Tag -->
 
@@ -165,12 +179,12 @@ if (typeof(Meebo) == 'function') {
 
   <li>
   <a href="http://twitter.com/starpulse" target="_blank"><img src="http://images.starpulse.com/images/icon/twitter.gif" alt="Twitter" title="Twitter"></a>
-  <a href="http://www.facebook.com/pages/Starpulse/124877431305" target="_blank"><img src="http://images.starpulse.com/images/icon/fb.gif" alt="Facebook" title="Facebook"></a>
+  <a href="http://www.facebook.com/pages/Starpulse/124877431305?v=wall" target="_blank"><img src="http://images.starpulse.com/images/icon/fb.gif" alt="Facebook" title="Facebook"></a>
   <a href="http://www.starpulse.com/rss/" target="_blank"><img src="http://images.starpulse.com/images/icon/rss.gif" alt="RSS / XML" title="RSS / XML"></a>
   <a href="http://www.starpulse.com/Newsletters/Entertainment-News.html" target="_blank"><img src="http://images.starpulse.com/images/icon/newsletter.gif" alt="Email Subscribe" title="Email Subscribe"></a>
   </li></ul>
 </div>
-<div meebo:notshareable="true" style="position: absolute; top: 0px; left: 50%; margin-left: -490px; width: 980px;">
+<div meebo:notsharable="true" style="position: absolute; top: 0px; left: 50%; margin-left: -490px; width: 980px;">
 	<div style="position: absolute; z-index: 5; top: 0px; left: 50%; margin-left: -491px; width: 982px;">
 		<script type="text/javascript">GA_googleFillSlot('Generic-SkinTop');</script>
 	</div>
@@ -232,6 +246,9 @@ if (typeof(Meebo) == 'function') {
 	</ul>
 </div>
 
+<div id="ad980" style="margin-bottom: 5px;">
+  <center><script type="text/javascript">GA_googleFillSlot('Generic-980');</script></center>
+</div>
 
 	<div id="main-col">
 		<div id="center-col-generic">
@@ -322,17 +339,17 @@ If you have any questions regarding our Privacy Statement and policies or your d
 	<div meebo:notsharable="true" class="top-features">
 		<div class="content-box">
 			<h1></h1>
-			<ul id="Links1-feature-sections" class="feature-sections">
-<li id="Links1-link-Links" onclick="showfeature('Links','Links1-displaybox','Generic','Links1','0','');" class="selected">Buzz</li>
-<li id="Links1-link-PopularTopics" onclick="showfeature('PopularTopics','Links1-displaybox','Generic','Links1','0','');">Hot List</li>
-<li id="Links1-link-EventPhotos" onclick="showfeature('EventPhotos','Links1-displaybox','Generic','Links1','9','');">Photos</li>
-<li id="Links1-link-Videos" onclick="showfeature('Videos','Links1-displaybox','Generic','Links1','0','');">Videos</li>
-<li id="Links1-link-PopularNews" onclick="showfeature('PopularNews','Links1-displaybox','Generic','Links1','0','');">News</li>
+			<ul id="Buzz1-feature-sections" class="feature-sections">
+<li id="Buzz1-link-Buzz" onclick="showfeature('Buzz','Buzz1-displaybox','Generic','Buzz1','0','Buzz');" class="selected">Buzz</li>
+<li id="Buzz1-link-PopularTopics" onclick="showfeature('PopularTopics','Buzz1-displaybox','Generic','Buzz1','0','');">Hot List</li>
+<li id="Buzz1-link-EventPhotos" onclick="showfeature('EventPhotos','Buzz1-displaybox','Generic','Buzz1','9','');">Photos</li>
+<li id="Buzz1-link-Videos" onclick="showfeature('Videos','Buzz1-displaybox','Generic','Buzz1','0','');">Videos</li>
+<li id="Buzz1-link-PopularNews" onclick="showfeature('PopularNews','Buzz1-displaybox','Generic','Buzz1','0','');">News</li>
 </ul>
-<div id="Links1-feature-controls" class="feature-controls">
+<div id="Buzz1-feature-controls" class="feature-controls">
 </div>
-<div id="Links1-displaybox" class="display-box" style="padding-top: 8px;">
-<script type="text/javascript" src="http://cdn.starpulse.com/feed/include/feature.inc.12-03-2010.php?featuretype=Links&amp;page_channel=Generic&amp;featurecat=&amp;feedoffset=0&amp;featureid=Links1&amp;dwrite=1"></script>
+<div id="Buzz1-displaybox" class="display-box" style="padding-top: 8px;">
+<script type="text/javascript" src="http://cdn.starpulse.com/feed/include/feature.inc.12-03-2010.php?featuretype=Buzz&amp;page_channel=Generic&amp;featurecat=Buzz&amp;feedoffset=0&amp;featureid=Buzz1&amp;dwrite=1"></script>
 </div>
 
 			<form action="http://www.starpulse.com/search.html" id="cse-search-box-rightcol">
@@ -353,11 +370,20 @@ If you have any questions regarding our Privacy Statement and policies or your d
 
 		
 		<div class="content-box">
-			<h1>Friends</h1>
-			<div id="PopeaterHeadlines1-feature-controls" class="feature-controls">
+			<h1>Like It!</h1>
+			<div id="celebrity_like" style="position: relative; height: 135px; margin: 2px;">
+			</div>	
+			<script type="text/javascript" src="http://cdn.starpulse.com/feed/feature.like.php"></script>		
+			<script type="text/javascript">createCelebrityLike();</script>
+		</div>
+
+		<div class="content-box">
+			<h1>Friends With Benefits!</h1>
+
+			<div id="Friends1-feature-controls" class="feature-controls">
 </div>
-<div id="PopeaterHeadlines1-displaybox" class="display-box" style="padding-top: 8px;">
-<script type="text/javascript" src="http://cdn.starpulse.com/feed/include/feature.inc.12-03-2010.php?featuretype=PopeaterHeadlines&amp;page_channel=Generic&amp;featurecat=&amp;feedoffset=0&amp;featureid=PopeaterHeadlines1&amp;dwrite=1"></script>
+<div id="Friends1-displaybox" class="display-box" style="padding-top: 8px;">
+<script type="text/javascript" src="http://cdn.starpulse.com/feed/include/feature.inc.12-03-2010.php?featuretype=Friends&amp;page_channel=Generic&amp;featurecat=News&amp;feedoffset=0&amp;featureid=Friends1&amp;dwrite=1"></script>
 </div>
 <div id="FarkHeadlines1-feature-controls" class="feature-controls">
 </div>
@@ -369,11 +395,6 @@ If you have any questions regarding our Privacy Statement and policies or your d
 <div id="TMZHeadlines1-displaybox" class="display-box" style="padding-top: 8px;">
 <script type="text/javascript" src="http://cdn.starpulse.com/feed/include/feature.inc.12-03-2010.php?featuretype=TMZHeadlines&amp;page_channel=Generic&amp;featurecat=&amp;feedoffset=0&amp;featureid=TMZHeadlines1&amp;dwrite=1"></script>
 </div>
-<div id="TheFriskyHeadlines1-feature-controls" class="feature-controls">
-</div>
-<div id="TheFriskyHeadlines1-displaybox" class="display-box" style="padding-top: 8px;">
-<script type="text/javascript" src="http://cdn.starpulse.com/feed/include/feature.inc.12-03-2010.php?featuretype=TheFriskyHeadlines&amp;page_channel=Generic&amp;featurecat=&amp;feedoffset=0&amp;featureid=TheFriskyHeadlines1&amp;dwrite=1"></script>
-</div>
 
 
 			<br>
@@ -383,11 +404,12 @@ If you have any questions regarding our Privacy Statement and policies or your d
 
 		<div class="content-box">
 			<h1>Follow Starpulse</h1>
+			        <fb:like-box href="http://www.facebook.com/pages/Starpulse/124877431305" width="300" height="255" connections="5" stream="false" header="false"></fb:like-box>
 			<div id="Starpulse1-feature-controls" class="feature-controls">
 </div>
 <div id="Starpulse1-displaybox" class="display-box" style="padding-top: 8px;">
 <ul><li><center>
-<a href="http://www.facebook.com/pages/Starpulse/124877431305" target="_blank"><img src="http://images.starpulse.com/images/icon/Icon-Facebook-48.jpg" border="0" alt="Facebook" title="Facebook"></a>
+<a href="http://www.facebook.com/pages/Starpulse/124877431305?v=wall" target="_blank"><img src="http://images.starpulse.com/images/icon/Icon-Facebook-48.jpg" border="0" alt="Facebook" title="Facebook"></a>
 <a href="http://twitter.com/starpulse" target="_blank"><img src="http://images.starpulse.com/images/icon/Icon-Twitter-48.jpg" border="0" alt="Twitter" title="Twitter"></a>
 <a href="http://www.myspace.com/starpulse" target="_blank"><img src="http://images.starpulse.com/images/icon/Icon-MySpace-48.jpg" border="0" alt="MySpace" title="MySpace"></a>
 <a href="http://www.starpulse.com/rss/" target="_blank"><img src="http://images.starpulse.com/images/icon/Icon-RSS-48.jpg" border="0" alt="RSS / XML" title="RSS / XML"></a>
@@ -409,10 +431,10 @@ If you have any questions regarding our Privacy Statement and policies or your d
 
 -->
 </center>
-</li></ul><div class="feature-footer"></div></div>
+</li></ul></div>
 		</div>
-	</div>
 
+	</div>
 	</div>
 
 		<div style="clear: both;"></div>
@@ -448,7 +470,6 @@ If you have any questions regarding our Privacy Statement and policies or your d
 			<li><a href="http://starpulse.pricegrabber.com/" target="_blank">Shop</a> | </li>
 			<li><a href="/forum/">Forums</a> | </li>
 			<li><a href="/games/celebnamegame.html">Play Games</a> | </li>
-			<li><a href="#" onclick="tellafriend('http://www.starpulse.com/Company/privacy.html','tellafriend');">Tell a Friend</a> | </li>
 
 <li><a href="http://m.starpulse.com">Starpulse Mobile</a><br></li>
 			<li><a href="/Company/index.html">About</a> | </li>
@@ -459,10 +480,11 @@ If you have any questions regarding our Privacy Statement and policies or your d
 			</ul>
 
 		<ul id="footer-trademark">
-		<li>© 1999-2010 Starpulse.com™ </li>
+		<li>© 1999-2011 Starpulse.com™ </li>
 		</ul>
 
 	</div>
+
     
     <!-- Start Quantcast tag -->
 <script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
