@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the melbourne.vic.gov.au privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205044943id_/http%3A//www.melbourne.vic.gov.au/Pages/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the melbourne.vic.gov.au privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615032332id_/https%3A//www.melbourne.vic.gov.au/Pages/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy statement
 
@@ -15,7 +15,7 @@ Council will only collect personal information supplied by you to this web site 
   1. To contact you where it is necessary to do so to aid in providing Council services requested by you such as obtaining a resident parking permit via our website. 
   2. To contact you where it is necessary to do so to resolve issues relating to City of Melbourne services or functions which you have brought to our attention eg, where you have reported a matter you require to be resolved by Council such as a fallen tree branch via our website. 
   3. To supply you with material concerning Council initiatives and programs where you have supplied personal information to Council for this purpose eg, where you have opted to be included on a mailing list for a Council publication via our website. 
-  4. To allow on-line financial transactions via the MAXI electronic payments system. 
+  4. To allow on-line financial transactions via an electronic payment system. 
 
 
 
