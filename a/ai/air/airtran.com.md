@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airtran.com privacy policy that was archived on 2010-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100601091219id_/http%3A//www.airtran.com/policies/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airtran.com privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615171844id_/http%3A//www.airtran.com/policies/privacy_policy.aspx) for the most accurate reproduction.*
 
 # AirTran Airways - privacy policy
 
@@ -21,7 +21,7 @@ When you purchase tickets on our web site, we gather only the information necess
 
 Beginning August 15, 2009, the Transportation Security Administration (TSA) requires us to also collect gender and date of birth from each passenger when booking flights.
 
-This information is used for the purpose of completing your reservation, emailing a confirmation to you, and providing the air travel services you have purchased from us. In addition, select passenger information is sent to the TSA to comply with Secure Flight program regulations.
+This information is used for the purpose of completing your reservation, emailing a confirmation to you, and providing the air travel services you have purchased from us. In addition, select passenger information is sent to the TSA to comply with Secure Flight program regulations and used in connection with AirTran Airways’ fraud management program.
 
 During your purchase, we also give you the option to sign up for our Net Escapes and A-Savers email programs (see below for more details), as well as our A+ Rewards frequent flyer program, if you are not already a member. 
 
@@ -32,7 +32,7 @@ Back to Top
 
 ### Who do you share my information with?
 
-AirTran Airways does not sell or rent any personal information you provide on our web site to any other parties. We may share your information with partner companies as necessary in the course of our operations, including the execution of marketing programs, but these partner companies must comply with our privacy policy. AirTran Airways may share anonymous, aggregated information about all our users with third parties. 
+AirTran Airways does not sell or rent any personal information you provide on our web site to any other parties. We may share your information with partner companies as necessary in the course of our operations, including the execution of marketing programs and fraud reduction, but these partner companies must comply with our privacy policy. AirTran Airways may share anonymous, aggregated information about all our users with third parties. 
 
 Additionally, AirTran Airways will comply with applicable laws that may require us to share your information with government agencies. 
 
