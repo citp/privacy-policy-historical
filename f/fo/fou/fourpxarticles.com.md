@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fourpxarticles.com privacy policy that was archived on 2010-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101103235346id_/http%3A//www.fourpxarticles.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fourpxarticles.com privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615063219id_/http%3A//www.fourpxarticles.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | FourPx Articles
 
